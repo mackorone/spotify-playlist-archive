@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 
 > This is Mau y Ricky\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,169 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,186 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 | 24 | [3 de La Mañana \- con Sebastián Yatra & Mora](https://open.spotify.com/track/1PkE8LrFiHRqMq4Ik3w1pk) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [3 de La Mañana \(con Sebastián Yatra & Mora\)](https://open.spotify.com/album/1VdsA2Ed7ur8KsPgSLqNNt) | 3:40 |
 | 25 | [Recuerdo](https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 3:20 |
 | 26 | [Sigo Buscandote](https://open.spotify.com/track/4z2c6wyTY9xgiPYUvznwUE) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Sigo Buscandote](https://open.spotify.com/album/791xP0ZKGxYQtZo5CbUOXM) | 3:05 |
-| 27 | [Libélulas](https://open.spotify.com/track/4jjdUBRP6gc3SrjaA9QxJr) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Libélulas](https://open.spotify.com/album/2Rqv4WMkgKGmzZlkFE3o3e) | 3:26 |
-| 28 | [Qué Dirías?](https://open.spotify.com/track/3HPvXWekjDqIppRxhpHkDT) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Qué Dirías?](https://open.spotify.com/album/6nz3906mjf2FD4EiuzBrGM) | 3:03 |
+| 27 | [Qué Dirías?](https://open.spotify.com/track/3HPvXWekjDqIppRxhpHkDT) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Qué Dirías?](https://open.spotify.com/album/6nz3906mjf2FD4EiuzBrGM) | 3:03 |
+| 28 | [Libélulas](https://open.spotify.com/track/4jjdUBRP6gc3SrjaA9QxJr) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Libélulas](https://open.spotify.com/album/2Rqv4WMkgKGmzZlkFE3o3e) | 3:26 |
 | 29 | [Miami](https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Miami](https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2) | 2:10 |
 | 30 | [Sin Querer Queriendo \(feat\. Mau y Ricky\)](https://open.spotify.com/track/5rUNrHC5b0oYanaw370Ncz) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Brava](https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1) | 3:48 |
 | 31 | [Gran Día](https://open.spotify.com/track/02F3ap4jOzK7Yhjv102C9B) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Hotel Caracas](https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 | 49 | [Mal de la Cabeza](https://open.spotify.com/track/62mmVqtsiY2dob1EMxC5W2) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 4:02 |
 | 50 | [La Grosera](https://open.spotify.com/track/0KEdaZfGUjxZbvGWqjsfER) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [La Grosera](https://open.spotify.com/album/2jwfudGl8LThRwaAXmWGdL) | 2:38 |
 
-Snapshot ID: `Z9IgAAAAAAAU/4GXG/rLLDO0UOyJDKRP`
+Snapshot ID: `Z9NxgAAAAAB1zatyU6i0m0GQC6fE1Q9b`

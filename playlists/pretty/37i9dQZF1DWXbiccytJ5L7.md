@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 
 > Country rap hits of today and tomorrow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,601 likes - 114 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,672 likes - 114 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 7 | [Clementine](https://open.spotify.com/track/06ZVdd9hNVlNv9fAd5NUok) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Clementine](https://open.spotify.com/album/2A7CAZcGYKKb5NGyIyiOCN) | 2:44 |
 | 8 | [Lifeline](https://open.spotify.com/track/1y0UdMX6sLtarE8oJBGUZF) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR) | [Lifeline](https://open.spotify.com/album/7ifWIFxDEeJ72ZdhnyAXDf) | 2:56 |
 | 9 | [Firewood](https://open.spotify.com/track/4jkp3lwbbXDbqiaRib0Irt) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Firewood](https://open.spotify.com/album/4Uqf1mfIBwljmWI03YjsUC) | 3:09 |
-| 10 | [Wrangler \- Remix](https://open.spotify.com/track/1XdaU4K4ApkyxnAKHSjOYW) | [Austin Martin](https://open.spotify.com/artist/0qfbt2YTNKE9CUK86om6ci), [Chingy](https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh), [JD Walker](https://open.spotify.com/artist/1nMKpxQJwB2XLxJBOQ1yZ1) | [Wrangler \- Remix](https://open.spotify.com/album/0DxgiN80IruX8Po6SZwtfp) | 2:45 |
+| 10 | [Wrangler \- Remix](https://open.spotify.com/track/1XdaU4K4ApkyxnAKHSjOYW) | [Austin Martin](https://open.spotify.com/artist/0qfbt2YTNKE9CUK86om6ci), [Chingy](https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh), [JD Walker](https://open.spotify.com/artist/1nMKpxQJwB2XLxJBOQ1yZ1) | [Wrangler \(Remix\)](https://open.spotify.com/album/0DxgiN80IruX8Po6SZwtfp) | 2:45 |
 | 11 | [Workin' \(feat\. Alexander King\)](https://open.spotify.com/track/4fkUsaC0dJfHp5N1kIrZlr) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9), [Alexander King](https://open.spotify.com/artist/5hvNjGBoEkn4ENKwDvtouW) | [Kuntry Livin'](https://open.spotify.com/album/1vLTwC9j9fDAwPt6mqkUi0) | 3:34 |
 | 12 | [Cowboy Capone](https://open.spotify.com/track/57pR0VkO0rLLUZCsyhpg8k) | [Colt Graves](https://open.spotify.com/artist/26YgSVVJxvx1LQsollyBjQ), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Cowboy Capone](https://open.spotify.com/album/0Cy64A0Me95BhPop86hQFl) | 3:11 |
 | 13 | [Wanna Be](https://open.spotify.com/track/5U26aL087wVLQYtJWU33zx) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Wanna be](https://open.spotify.com/album/1jzCG3ujAOgHpqT9TZIuGH) | 2:30 |

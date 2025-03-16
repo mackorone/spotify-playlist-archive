@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 
 > This is Doechii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,254 likes - 41 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,996 likes - 41 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 | 40 | [Bills](https://open.spotify.com/track/4qXBIFAjXJMwNxXTYN8Qyj) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Coven Music Session, Vol\. 1](https://open.spotify.com/album/1zvRP4zj0nfsHeeoeXuanm) | 1:00 |
 | 41 | [I, Myself & Me](https://open.spotify.com/track/3WnMme8cHk0QEM518WNXmQ) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Soul Burger](https://open.spotify.com/album/4h3I43cFQyDqezGcREnTK6) | 3:41 |
 
-Snapshot ID: `Z9IgAAAAAAD9A/YttOS1LKgJxNTCeND9`
+Snapshot ID: `Z9NxgAAAAAD8ClHA/cIa/mpT4herrB7i`

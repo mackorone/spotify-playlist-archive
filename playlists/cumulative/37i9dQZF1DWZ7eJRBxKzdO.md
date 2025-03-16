@@ -4,7 +4,7 @@
 
 > it's never too early for summer dance hits 😎☀️
 
-410 songs - 20 hr 32 min
+411 songs - 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [Makeba \- Ian Asher Remix](https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Makeba \(Ian Asher Remix\)](https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj) | 2:05 | 2023-07-28 |  |
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(we’ve lost dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 | 2022-05-02 |  |
 | [Maria Maria](https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [Maria Maria](https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd) | 2:41 | 2023-05-08 | 2024-11-23 |
-| [Mas Que Nada](https://open.spotify.com/track/6yW6Q8ZPgDBQA1yHWL4Jmh) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Mas Que Nada](https://open.spotify.com/album/44wLGCkvr83VxYsioCROFf) | 2:07 | 2024-01-31 |  |
+| [Mas Que Nada](https://open.spotify.com/track/6yW6Q8ZPgDBQA1yHWL4Jmh) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Mas Que Nada](https://open.spotify.com/album/44wLGCkvr83VxYsioCROFf) | 2:07 | 2024-01-31 | 2025-03-16 |
 | [Massive](https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:36 | 2022-07-28 | 2023-01-13 |
 | [Memories \(feat\. Kid Cudi\) \- 2021 Remix](https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Memories \(feat\. Kid Cudi\) \[2021 Remix\]](https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX) | 2:42 | 2022-05-02 | 2023-04-07 |
 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2023-03-16 |  |
@@ -318,6 +318,7 @@
 | [Sippin' Yak](https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Sippin' Yak](https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD) | 2:26 | 2024-03-29 | 2025-03-01 |
 | [Smash My Heart](https://open.spotify.com/track/4f9iU6U8XBqlzZyoEHirXS) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Pink](https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL) | 2:50 | 2023-10-25 | 2024-04-14 |
 | [Smash My Heart](https://open.spotify.com/track/7uCbQR6CHGsy8xCR8JRKyG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Smash My Heart](https://open.spotify.com/album/6OGooptBXrnOCxCvdgKz7O) | 2:50 | 2023-07-17 | 2023-11-11 |
+| [SMOKE THE PAIN AWAY](https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [SMOKE THE PAIN AWAY](https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP) | 2:42 | 2025-03-14 |  |
 | [So Good](https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R) | [So Good](https://open.spotify.com/album/4XdGFi19TK15rVAH9MiFBE) | 3:39 | 2025-03-14 |  |
 | [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 | 2023-07-17 |  |
 | [So Much Love \(feat\. Lloyd Wade\)](https://open.spotify.com/track/6Z5rzJ6DefXJCzntIUYCWk) | [Owen Westlake](https://open.spotify.com/artist/2OdSWlu6iOzT4YsRJuvC8I), [Lloyd Wade](https://open.spotify.com/artist/6lxTDIi9n3y6DWmL2w4nUs) | [So Much Love \(feat\. Lloyd Wade\)](https://open.spotify.com/album/1QxUxN95s5TmcCb72fk9cD) | 3:28 | 2022-05-02 | 2022-06-06 |

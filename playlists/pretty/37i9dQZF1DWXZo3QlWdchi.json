@@ -1,6 +1,6 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 323685,
+  "num_followers": 324273,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2025-02-28 17:10:40",
       "album": {
+        "name": "Ac\u00fastico MTV",
+        "url": "https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "duration_ms": 296773,
+      "name": "Os Cegos do Castelo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Kayf37CYgsWqgkWMTHZPu"
+    },
+    {
+      "added_at": "2025-02-28 17:10:40",
+      "album": {
         "name": "Ac\u00fastico Ira!",
         "url": "https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 258265,
       "name": "Tarde Vazia (feat. Samuel Rosa) - Vers\u00e3o Ac\u00fastica",
       "url": "https://open.spotify.com/track/6tFiwRosuePm2v0DQTyGpj"
-    },
-    {
-      "added_at": "2025-02-28 17:10:40",
-      "album": {
-        "name": "Ac\u00fastico MTV",
-        "url": "https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e3s",
-          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
-        }
-      ],
-      "duration_ms": 296773,
-      "name": "Os Cegos do Castelo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Kayf37CYgsWqgkWMTHZPu"
     },
     {
       "added_at": "2025-02-28 17:10:40",
@@ -131,6 +131,22 @@
     {
       "added_at": "2025-02-28 17:10:40",
       "album": {
+        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
+      },
+      "artists": [
+        {
+          "name": "O Rappa",
+          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
+        }
+      ],
+      "duration_ms": 369915,
+      "name": "Pescador de ilus\u00f5es - Ao vivo",
+      "url": "https://open.spotify.com/track/5ytWdfs7iGpu42VQyAQyvY"
+    },
+    {
+      "added_at": "2025-02-28 17:10:40",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/4oieM9FgOhdsYIssk1SoM2"
       },
@@ -155,18 +171,18 @@
     {
       "added_at": "2025-02-28 17:10:40",
       "album": {
-        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
+        "name": "Live From Soho",
+        "url": "https://open.spotify.com/album/0abkVfZF9JpWbHA1Cm2Jgq"
       },
       "artists": [
         {
-          "name": "O Rappa",
-          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
         }
       ],
-      "duration_ms": 369915,
-      "name": "Pescador de ilus\u00f5es - Ao vivo",
-      "url": "https://open.spotify.com/track/5ytWdfs7iGpu42VQyAQyvY"
+      "duration_ms": 290266,
+      "name": "How to Save a Life - Live in NYC - 2009",
+      "url": "https://open.spotify.com/track/3OPVsn0Dk3s8vWhXxnK35p"
     },
     {
       "added_at": "2025-02-28 17:10:40",
@@ -187,22 +203,6 @@
     {
       "added_at": "2025-02-28 17:10:40",
       "album": {
-        "name": "Live From Soho",
-        "url": "https://open.spotify.com/album/0abkVfZF9JpWbHA1Cm2Jgq"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 290266,
-      "name": "How to Save a Life - Live in NYC - 2009",
-      "url": "https://open.spotify.com/track/3OPVsn0Dk3s8vWhXxnK35p"
-    },
-    {
-      "added_at": "2025-02-28 17:10:40",
-      "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/0AFkktyrrPtQvpIBqpRrc7"
       },
@@ -215,22 +215,6 @@
       "duration_ms": 151666,
       "name": "Proibida Pra Mim (Grazon) - Ao Vivo",
       "url": "https://open.spotify.com/track/2ScU6iEvgb0TIuKiyem9rg"
-    },
-    {
-      "added_at": "2025-02-28 17:10:40",
-      "album": {
-        "name": "Pride (In The Name Of Love) [Songs Of Surrender]",
-        "url": "https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 237743,
-      "name": "Pride (In The Name Of Love) - Songs Of Surrender",
-      "url": "https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI"
     },
     {
       "added_at": "2025-02-28 17:10:40",
@@ -251,6 +235,22 @@
     {
       "added_at": "2025-02-28 17:10:40",
       "album": {
+        "name": "Pride (In The Name Of Love) [Songs Of Surrender]",
+        "url": "https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 237743,
+      "name": "Pride (In The Name Of Love) - Songs Of Surrender",
+      "url": "https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI"
+    },
+    {
+      "added_at": "2025-02-28 17:10:40",
+      "album": {
         "name": "Live / Unplugged",
         "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
       },
@@ -263,22 +263,6 @@
       "duration_ms": 233946,
       "name": "Ironic - Live / Unplugged",
       "url": "https://open.spotify.com/track/5WltiUcx5HdM6PPkOkZptu"
-    },
-    {
-      "added_at": "2025-02-28 17:10:40",
-      "album": {
-        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
-      },
-      "artists": [
-        {
-          "name": "O Rappa",
-          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
-        }
-      ],
-      "duration_ms": 438583,
-      "name": "Anjos (Pra quem tem f\u00e9) - Ao vivo",
-      "url": "https://open.spotify.com/track/0T5oFIUY2wDXQ7yRd9epfP"
     },
     {
       "added_at": "2025-02-28 17:10:40",
@@ -315,6 +299,22 @@
       "duration_ms": 291125,
       "name": "Mulher de Fases - Ao Vivo | Ac\u00fastico",
       "url": "https://open.spotify.com/track/2OBzAYQUWGuTgY90TRnXMf"
+    },
+    {
+      "added_at": "2025-02-28 17:10:40",
+      "album": {
+        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
+      },
+      "artists": [
+        {
+          "name": "O Rappa",
+          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
+        }
+      ],
+      "duration_ms": 438583,
+      "name": "Anjos (Pra quem tem f\u00e9) - Ao vivo",
+      "url": "https://open.spotify.com/track/0T5oFIUY2wDXQ7yRd9epfP"
     },
     {
       "added_at": "2025-02-28 17:10:40",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-02-28 17:10:40",
       "album": {
-        "name": "Seventeen Days (International Version)",
-        "url": "https://open.spotify.com/album/5vGmRi8jMNCvmysQgBBhpx"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 232013,
-      "name": "Here Without You - Acoustic Version",
-      "url": "https://open.spotify.com/track/6oyUroY42HiaD9Q9VBw4BP"
-    },
-    {
-      "added_at": "2025-02-28 17:10:40",
-      "album": {
         "name": "MTV Unplugged In New York",
         "url": "https://open.spotify.com/album/5pbjLidJuoty9QUOy6X682"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 253893,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/4yzgjSHWy5E8fKflgwaKQh"
+    },
+    {
+      "added_at": "2025-02-28 17:10:40",
+      "album": {
+        "name": "Seventeen Days (International Version)",
+        "url": "https://open.spotify.com/album/5vGmRi8jMNCvmysQgBBhpx"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 232013,
+      "name": "Here Without You - Acoustic Version",
+      "url": "https://open.spotify.com/track/6oyUroY42HiaD9Q9VBw4BP"
     },
     {
       "added_at": "2025-02-28 17:10:40",

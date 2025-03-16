@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-881 songs - 2 day 10 hr 6 min
+882 songs - 2 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,6 +644,7 @@
 | [またね](https://open.spotify.com/track/3b9eglykqfxtTaSpSidP9u) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [またね](https://open.spotify.com/album/4ZAqpzyaWQ5nJG9YgSDVsv) | 3:36 | 2023-03-14 | 2024-02-21 |
 | [また旅に誘われて](https://open.spotify.com/track/5l0SzsTg6IBI3LwfLvq4f2) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 2:42 | 2024-03-19 |  |
 | [まるで天使さ](https://open.spotify.com/track/1YYInRlBrekYkUMGvbUy8l) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [まるで天使さ](https://open.spotify.com/album/4xNtqUMXNLId41aWBZDgnV) | 3:55 | 2024-08-21 |  |
+| [まわれ まわれ \(feat\. I'm\)](https://open.spotify.com/track/4QTGxEcuJYJGTWQwGm6FSS) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [I'm](https://open.spotify.com/artist/4wsCElmDWiDsjWWDGMElsD) | [まわれ まわれ \(feat\. I'm\)](https://open.spotify.com/album/0Bi0yW8wbOzuPqCrHn4SeM) | 4:53 | 2025-03-11 |  |
 | [みつめていて](https://open.spotify.com/track/1trAsw2XABwtg23qkkEkAB) | [UNIDOTS](https://open.spotify.com/artist/2uByNuOCgzpdf1JOf1M3LZ) | [みつめていて](https://open.spotify.com/album/3TlbwxvxsGJB3Sa98fwZxH) | 3:39 | 2022-12-13 | 2022-12-15 |
 | [もうすぐ0時](https://open.spotify.com/track/0C8hOD5giYcj8r2FD0pl4j) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [Eternal Harmony](https://open.spotify.com/album/5AV6UJOedTNIV527JvRwri) | 2:39 | 2024-04-16 | 2024-04-24 |
 | [ゆうがたフレンド \(USEFUL SONG\)](https://open.spotify.com/track/44vZrqSjWSDwjiUmoDY2RV) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0), [Keiichi Suzuki](https://open.spotify.com/artist/6qz1QFUOn2Pfc3P5nm9x1G) | [大滝詠一 NOVELTY SONG BOOK](https://open.spotify.com/album/1gIUCFC81qiFPpisdcOCLU) | 4:00 | 2023-03-21 | 2023-03-29 |
@@ -713,7 +714,7 @@
 | [フライディ・チャイナタウン \- English Version](https://open.spotify.com/track/72xlrzaRJzNqI8OBV7HkDe) | [BENI](https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI) | [フライディ・チャイナタウン \(English Version\)](https://open.spotify.com/album/5wvR2xuWc4pzDcjH9MXGFF) | 3:31 | 2022-10-25 | 2023-11-11 |
 | [フライディ・チャイナタウン feat\. 脇田もなり](https://open.spotify.com/track/2jHerS92LBYqbDKN4gavtT) | [PAPER MOON PROJECT](https://open.spotify.com/artist/0Y4i2EgSgrjmUCyT3UxCn9), [脇田もなり](https://open.spotify.com/artist/4W2lk9BJKRloR8dk16Y5PX) | [フライディ・チャイナタウン feat\. 脇田もなり](https://open.spotify.com/album/2OZNZQRpyITfcN0mKLkhik) | 3:29 | 2023-05-09 | 2023-06-18 |
 | [フーリッシュサマー](https://open.spotify.com/track/6TqYBVT4sytzhEyiujcqjM) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [フーリッシュサマー](https://open.spotify.com/album/4xLSbMXqkmxhaY3mJKKXDh) | 4:27 | 2022-06-30 | 2022-11-27 |
-| [ブルージー](https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Grow apart](https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n) | 3:12 | 2022-08-02 |  |
+| [ブルージー](https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Grow apart](https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n) | 3:12 | 2022-08-02 | 2025-03-16 |
 | [ブルーハワイ](https://open.spotify.com/track/6aAOQW6aYVfb1RZTpseu5K) | [ティンペッツ](https://open.spotify.com/artist/75uba7u8cg297V1nx7HGh1) | [ブルーハワイ](https://open.spotify.com/album/0oZLf6DhoyHhtDMGrybbCb) | 3:46 | 2022-12-13 | 2023-06-07 |
 | [ブルーライト](https://open.spotify.com/track/6PbCnxdWt2sxv1V4cDRDS9) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [ブルーライト](https://open.spotify.com/album/13FfzSty8Mw77tHNyPE3cu) | 3:55 | 2023-04-04 |  |
 | [プラスティック・ラブ](https://open.spotify.com/track/4wGxmG5XLeSs4EiUzhbOcY) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [プラスティック・ラブ](https://open.spotify.com/album/2sbbdJ8TzA6zdXySG4jpDD) | 5:00 | 2022-11-08 | 2023-04-12 |

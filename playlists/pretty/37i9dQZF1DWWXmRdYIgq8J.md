@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,102 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,114 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 | 20 | [Cya Come \(feat\. Skinny Fabulous\)](https://open.spotify.com/track/1WXJZK7uTn3iRrbfaXYZ6n) | [Ravi B and Karma the Band](https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC), [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x) | [Rise of a New King](https://open.spotify.com/album/47ZPIYAGwct5LotU50oetq) | 5:11 |
 | 21 | [Bend](https://open.spotify.com/track/0g7wbLkY6PV1or9n6oIskt) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK), [DJ Puffy](https://open.spotify.com/artist/4YbipEAtJgAbKrZvdFEeTr) | [Bend](https://open.spotify.com/album/37rSCs6ZzJegxd4645i67x) | 2:48 |
 | 22 | [Caroni Gyul](https://open.spotify.com/track/5qhHMZXODYIWsQJwREJInM) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [Dance Party King](https://open.spotify.com/album/6W01aEGIh0iNFZrbWPrj03) | 3:00 |
-| 23 | [Bandarwah \(feat\. Ravi B\)](https://open.spotify.com/track/3IGfrhOSd1eg1CSBzUX01w) | [Rasika Dindial](https://open.spotify.com/artist/6bqai4im8en2b0vgEFhSnJ), [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [Bandarwah \(feat\. Ravi B\)](https://open.spotify.com/album/1EpG3o1xvOD2pcmMu0Jt9q) | 4:25 |
+| 23 | [Loota La](https://open.spotify.com/track/1eVCGigGerjHtN7AWquWWV) | [Sonny Man](https://open.spotify.com/artist/2SbrAYu0L4qMgLntFj5oE6) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 5:02 |
 | 24 | [Jhulai Kai Jhulaneeya](https://open.spotify.com/track/4T2RNha3216ColKhrewoRe) | [Savita Singh TT](https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i), [Devanand Gattoo](https://open.spotify.com/artist/6YJbkTQjvcQIlMgs6B0gUf) | [Jhulai Kai Jhulaneeya](https://open.spotify.com/album/1J3jCiMaCw6vONtH5dD5CJ) | 3:53 |
-| 25 | [Loota La](https://open.spotify.com/track/1eVCGigGerjHtN7AWquWWV) | [Sonny Man](https://open.spotify.com/artist/2SbrAYu0L4qMgLntFj5oE6) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 5:02 |
+| 25 | [Bandarwah \(feat\. Ravi B\)](https://open.spotify.com/track/3IGfrhOSd1eg1CSBzUX01w) | [Rasika Dindial](https://open.spotify.com/artist/6bqai4im8en2b0vgEFhSnJ), [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [Bandarwah \(feat\. Ravi B\)](https://open.spotify.com/album/1EpG3o1xvOD2pcmMu0Jt9q) | 4:25 |
 | 26 | [Prescription](https://open.spotify.com/track/4LKcY2x9F64lJmr3qeNhBm) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [Soca Gold 2013](https://open.spotify.com/album/3P4NsDb4H3rL9YSiLoFuSS) | 3:31 |
 | 27 | [Holi Kare](https://open.spotify.com/track/3fd0xrRbadHWBQOxICpu5C) | [Ravi B and Karma the Band](https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC) | [License to Wine](https://open.spotify.com/album/1kphTUZucP58mHBqDdtwIp) | 2:57 |
 | 28 | [Butterfly](https://open.spotify.com/track/6Xz4fhzvk63Dq9E9DYV8rP) | [Boyie Basdeo](https://open.spotify.com/artist/0pvWvE1P4HYC578HJaF50c) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 5:55 |

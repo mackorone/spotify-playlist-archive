@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Shai Gilgeous\-Alexander
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Steph Curry and Jimmy Butler
 
 790 songs - 1 day 16 hr 42 min
 
@@ -157,7 +157,7 @@
 | [Corte Madera, CA](https://open.spotify.com/track/1JczBx5oXAnPBtmGeW3Aik) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Spaceships on the Blade](https://open.spotify.com/album/2aydhloXt99nJk9Nsu5AV4) | 1:42 | 2024-07-12 | 2024-07-19 |
 | [Crew \(feat\. Brent Faiyaz & Shy Glizzy\)](https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [At What Cost](https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX) | 2:56 | 2024-10-25 | 2024-11-02 |
 | [Cruisin'](https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 6:24 | 2024-10-25 | 2024-11-02 |
-| [CRUSH](https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:53 | 2025-03-14 |  |
+| [CRUSH \(with Travis Scott\)](https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:53 | 2025-03-14 |  |
 | [Crush Em](https://open.spotify.com/track/11pn4LFXCIXyprWQk8RSlM) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 2:45 | 2023-06-30 | 2023-07-11 |
 | [Crushed Up](https://open.spotify.com/track/7wcyO1rrH3Ru4t659IjG41) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:29 | 2021-09-02 | 2022-04-21 |
 | [Cry Baby \(feat\. DaBaby\)](https://open.spotify.com/track/4aarlAfLKVCTxUDNgbwhjH) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:17 | 2021-09-02 | 2023-03-14 |
@@ -289,7 +289,7 @@
 | [GOATED\. \(feat\. Denzel Curry\)](https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [GOATED.](https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz) | 3:17 | 2023-01-13 | 2023-09-09 |
 | [Goin Baby](https://open.spotify.com/track/3WyRgi8CzQnhzO0xw79tTS) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Baby On Baby](https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0) | 2:21 | 2021-09-02 | 2022-10-22 |
 | [Going Bad \(feat\. Drake\)](https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:00 | 2021-09-02 | 2024-02-10 |
-| [GOOD CREDIT](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-14 |  |
+| [GOOD CREDIT \(with Kendrick Lamar\)](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-14 |  |
 | [Gorgeous](https://open.spotify.com/track/0Ot6qzEWZqbwxKEtehS7Lp) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Gorgeous](https://open.spotify.com/album/65P0Z7ydZpETo9xb8r7Cui) | 3:05 | 2021-09-02 | 2023-03-03 |
 | [Gorgeous Remix \(feat\. City Girls\)](https://open.spotify.com/track/7mEyNyiz1n32CX9lbgBpBq) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Gorgeous Remix \(feat\. City Girls\)](https://open.spotify.com/album/4vzW9xfVkh6dOKxuGI66pD) | 3:34 | 2023-07-31 | 2023-08-12 |
 | [Great](https://open.spotify.com/track/2Mr4XjFeOWi8Dxi4BwhRx1) | [Trip J](https://open.spotify.com/artist/33tX0Wud6tPk1fZjkPQBmh) | [SUDDENLY](https://open.spotify.com/album/7H9lvnhfqUXRUUB1MR2dor) | 2:20 | 2023-02-17 | 2023-03-03 |

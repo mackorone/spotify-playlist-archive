@@ -4,7 +4,7 @@
 
 > This is CeCe Winans\. The essential tracks, all in one playlist.
 
-93 songs - 7 hr 21 min
+94 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,8 +22,9 @@
 | [Blood Medley](https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 4:37 | 2022-09-14 | 2023-06-30 |
 | [Bridge Over Troubled Water \(with CeCe Winans\) \- Live VH1 Honors \- June 22, 1995](https://open.spotify.com/track/767NCpvhtPBaQKsHWEGbHh) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [I Go To The Rock: The Gospel Music Of Whitney Houston](https://open.spotify.com/album/7lKMNq3VtZKyDsLMlJP3qn) | 5:34 | 2023-03-27 | 2024-02-01 |
 | [Come Fill My Heart](https://open.spotify.com/track/6ooJQCVtJdIdUJTX7MP0Bg) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Throne Room \(Gold Edition\)](https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz) | 4:48 | 2022-09-14 |  |
-| [Come Jesus Come](https://open.spotify.com/track/5H54ytOuf58gezNGEkXzsp) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw) | 4:58 | 2024-06-01 |  |
+| [Come Jesus Come](https://open.spotify.com/track/5H54ytOuf58gezNGEkXzsp) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw) | 4:58 | 2024-06-01 | 2025-03-16 |
 | [Come Jesus Come](https://open.spotify.com/track/6WHe4Ilqwx9H5cY8V9glhr) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Come Jesus Come](https://open.spotify.com/album/0aYbAtML1iNwTXvkMdwirB) | 4:58 | 2024-03-19 | 2024-06-01 |
+| [Come Jesus Come](https://open.spotify.com/track/218S8MsbNO1ZGNxMQCb89L) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Come Jesus Come](https://open.spotify.com/album/3ZSCXdA9n1XNGTsWKjeNQr) | 5:01 | 2025-03-16 |  |
 | [Comforter](https://open.spotify.com/track/53hUq7zmNbLvodvkRnnnaX) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 4:42 | 2022-09-14 |  |
 | [Count On Me \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/7mVV7fepIMUAE4FDyihupV) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 4:26 | 2022-09-14 |  |
 | [Everlasting Love](https://open.spotify.com/track/1v7IsaTlOwnPfHf8DVIr5u) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Everlasting Love](https://open.spotify.com/album/3MHub5tyWVwztqFLoKQWjd) | 4:39 | 2022-09-14 | 2022-12-30 |
@@ -95,7 +96,7 @@
 | [What Are We Waiting For?](https://open.spotify.com/track/0Yf8qEi74w9JnGGSrPRXEX) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [What Are We Waiting For?](https://open.spotify.com/album/66VDNidp38ftTSZG2rGKx8) | 3:16 | 2023-12-13 | 2024-07-06 |
 | [When You Love \(feat\. CeCe Winans, Yolanda Adams & Mary Mary\)](https://open.spotify.com/track/7lCkz84Hd3LnRbEPhvIZOg) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [We All Are One \(Live In Detroit\)](https://open.spotify.com/album/0OsTWxuUeYBTQL3lftiMpk) | 4:26 | 2022-09-15 | 2024-05-05 |
 | [Why Me](https://open.spotify.com/track/55lij8lwwJko3565p77R74) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Let Them Fall in Love](https://open.spotify.com/album/38jktl2c8ZRqyKDV25XgNt) | 3:26 | 2022-09-14 | 2024-10-07 |
-| [Worthy](https://open.spotify.com/track/2MnmmBeU0o1Xq56x4SuCJc) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw) | 5:21 | 2024-05-07 | 2024-06-01 |
+| [Worthy](https://open.spotify.com/track/2MnmmBeU0o1Xq56x4SuCJc) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw) | 5:21 | 2024-05-07 |  |
 | [Worthy](https://open.spotify.com/track/1fEHKfIhgVMb9PJCOr9e97) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 5:22 | 2022-09-14 | 2023-03-28 |
 | [Worthy Of It All \- Live](https://open.spotify.com/track/5mkn0uyPYSIftszMBExMM4) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX) | 5:29 | 2023-12-24 |  |
 | [Worthy Of It All \- Live](https://open.spotify.com/track/6AcReG4UWPWnNDhIYMTZV2) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 5:29 | 2022-09-14 | 2023-12-25 |

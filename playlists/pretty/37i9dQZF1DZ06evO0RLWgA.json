@@ -1,12 +1,12 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 50204,
+  "num_followers": 50213,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAAWCKksqEGxwOoSb9wmCkRH",
+  "snapshot_id": "Z9NxgAAAAACLB9XsYMtDn36cDjKxHf0K",
   "tracks": [
     {
       "added_at": null,
@@ -647,6 +647,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
+      },
+      "artists": [
+        {
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
+        },
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 296733,
+      "name": "Ali D'Oro",
+      "url": "https://open.spotify.com/track/0U2g0D3nV8oS6qdEAqYZqT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 296986,
       "name": "I Lay Down",
       "url": "https://open.spotify.com/track/1ZNcJrNdX4HbO6NGj8tlaL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
-      },
-      "artists": [
-        {
-          "name": "Zucchero",
-          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
-        },
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 296733,
-      "name": "Ali D'Oro",
-      "url": "https://open.spotify.com/track/0U2g0D3nV8oS6qdEAqYZqT"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At The Cafe Au-Go-Go",
-        "url": "https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 200266,
-      "name": "She's Long, She's Tall (She Weeps Like A Willow Tree) - Live At Cafe Au-Go-Go/1966",
-      "url": "https://open.spotify.com/track/1MiygdyK10qC8yNFnc9ayu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Half A Stranger Vol 1",
         "url": "https://open.spotify.com/album/1UKljueptyRlVnuHNYNJOe"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 183706,
       "name": "Hobo Blues",
       "url": "https://open.spotify.com/track/15u5oLagRuxJUNebO6mpgX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live At The Cafe Au-Go-Go",
+        "url": "https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 200266,
+      "name": "She's Long, She's Tall (She Weeps Like A Willow Tree) - Live At Cafe Au-Go-Go/1966",
+      "url": "https://open.spotify.com/track/1MiygdyK10qC8yNFnc9ayu"
     },
     {
       "added_at": null,

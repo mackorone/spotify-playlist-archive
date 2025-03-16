@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 440628,
+  "num_followers": 440676,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Obras Maestras",
-        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
-      },
-      "artists": [
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 201941,
-      "name": "Voy",
-      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "iLevitable",
         "url": "https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 249853,
       "name": "Te Quiero Con Bugal\u00fa",
       "url": "https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Obras Maestras",
+        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
+      },
+      "artists": [
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 201941,
+      "name": "Voy",
+      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Desahogo",
-        "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
-      },
-      "artists": [
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 260147,
-      "name": "Desahogo",
-      "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Encuentro",
         "url": "https://open.spotify.com/album/5dMx0NVZdoTtrdVprK7gSz"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 236346,
       "name": "Margarita (feat. Vicente Garc\u00eda & Jose Qui\u00f1\u00f3nez)",
       "url": "https://open.spotify.com/track/6LEZkAAdNuEPE6PdEX7lrj"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Desahogo",
+        "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
+      },
+      "artists": [
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 260147,
+      "name": "Desahogo",
+      "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "bossa nova",
-        "url": "https://open.spotify.com/album/0SDPb2lJmgdtehUWb6HeSN"
-      },
-      "artists": [
-        {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
-        }
-      ],
-      "duration_ms": 188070,
-      "name": "bossa nova",
-      "url": "https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Canciones del Alma",
         "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 205010,
       "name": "T\u00fa Con \u00c9l",
       "url": "https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "bossa nova",
+        "url": "https://open.spotify.com/album/0SDPb2lJmgdtehUWb6HeSN"
+      },
+      "artists": [
+        {
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+        }
+      ],
+      "duration_ms": 188070,
+      "name": "bossa nova",
+      "url": "https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Bienvenido a mi habitaci\u00f3n",
+        "url": "https://open.spotify.com/album/4nEsMSMUDN7x646cLbaXBp"
+      },
+      "artists": [
+        {
+          "name": "Georgina",
+          "url": "https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b"
+        }
+      ],
+      "duration_ms": 192007,
+      "name": "Bienvenido a mi habitaci\u00f3n",
+      "url": "https://open.spotify.com/track/4NtU5Yq5SqaIbGjpbPmXw7"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Tiene Sabor",
         "url": "https://open.spotify.com/album/5B5XX53acuLFw8JHXK1UU2"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 240562,
       "name": "Tiene Sabor",
       "url": "https://open.spotify.com/track/56zLMDP0ZacyFkQwxHz8yr"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Bienvenido a mi habitaci\u00f3n",
-        "url": "https://open.spotify.com/album/4nEsMSMUDN7x646cLbaXBp"
-      },
-      "artists": [
-        {
-          "name": "Georgina",
-          "url": "https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b"
-        }
-      ],
-      "duration_ms": 192007,
-      "name": "Bienvenido a mi habitaci\u00f3n",
-      "url": "https://open.spotify.com/track/4NtU5Yq5SqaIbGjpbPmXw7"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Legados Bachata",
-        "url": "https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5"
-      },
-      "artists": [
-        {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Bachata Rosa",
-      "url": "https://open.spotify.com/track/3R0XsmkFDTG9ZnCn2HvXp5"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Quemar La Casa",
         "url": "https://open.spotify.com/album/0BjsgknELVeYJdN3u85EYE"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 243356,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/5HXPMDJdaLo2UY1HL6ybnf"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Legados Bachata",
+        "url": "https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Bachata Rosa",
+      "url": "https://open.spotify.com/track/3R0XsmkFDTG9ZnCn2HvXp5"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Grietas",
-        "url": "https://open.spotify.com/album/4L0f9F1DJmjLqUQx6v6if3"
-      },
-      "artists": [
-        {
-          "name": "Newen Afrobeat",
-          "url": "https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb"
-        },
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        }
-      ],
-      "duration_ms": 313750,
-      "name": "Grietas",
-      "url": "https://open.spotify.com/track/3fnRf6dq6oZBuDFXruNenf"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "So\u00f1ar Contigo. Una Colecci\u00f3n de Sus Grandes Canciones",
         "url": "https://open.spotify.com/album/2NsgXX7zdnsp3Ph6un8S08"
       },
@@ -1039,22 +1019,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Latin Jazz, Vol. 3",
-        "url": "https://open.spotify.com/album/3Frf4Pj6JoecGG62EG8Z8h"
+        "name": "Grietas",
+        "url": "https://open.spotify.com/album/4L0f9F1DJmjLqUQx6v6if3"
       },
       "artists": [
         {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+          "name": "Newen Afrobeat",
+          "url": "https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb"
         },
         {
-          "name": "Mongo Santamarias Men",
-          "url": "https://open.spotify.com/artist/67UM2a5uJvuVpPLz0oanEM"
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
         }
       ],
-      "duration_ms": 185786,
-      "name": "Linda Guajira",
-      "url": "https://open.spotify.com/track/6LgpmOednaE46TjVgeSFJm"
+      "duration_ms": 313750,
+      "name": "Grietas",
+      "url": "https://open.spotify.com/track/3fnRf6dq6oZBuDFXruNenf"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1079,22 +1059,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Danz\u00f3n Para La Espera",
-        "url": "https://open.spotify.com/album/5NlwLkuzq9WBQa54Rytnxv"
+        "name": "Latin Jazz, Vol. 3",
+        "url": "https://open.spotify.com/album/3Frf4Pj6JoecGG62EG8Z8h"
       },
       "artists": [
         {
-          "name": "Orquesta Failde",
-          "url": "https://open.spotify.com/artist/73pD7OtQXvDhvU0Cy6eo7T"
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
         },
         {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+          "name": "Mongo Santamarias Men",
+          "url": "https://open.spotify.com/artist/67UM2a5uJvuVpPLz0oanEM"
         }
       ],
-      "duration_ms": 302000,
-      "name": "Danz\u00f3n Para La Espera",
-      "url": "https://open.spotify.com/track/1RlcebUFfWS1DaRnlDr0Ms"
+      "duration_ms": 185786,
+      "name": "Linda Guajira",
+      "url": "https://open.spotify.com/track/6LgpmOednaE46TjVgeSFJm"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1131,6 +1111,26 @@
       "duration_ms": 237619,
       "name": "El Caudal",
       "url": "https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Danz\u00f3n Para La Espera",
+        "url": "https://open.spotify.com/album/5NlwLkuzq9WBQa54Rytnxv"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Failde",
+          "url": "https://open.spotify.com/artist/73pD7OtQXvDhvU0Cy6eo7T"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Danz\u00f3n Para La Espera",
+      "url": "https://open.spotify.com/track/1RlcebUFfWS1DaRnlDr0Ms"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Morena m\u00eda",
-        "url": "https://open.spotify.com/album/0ErqfJ1kVZagcPNa7pf7fK"
-      },
-      "artists": [
-        {
-          "name": "Gauchito Club",
-          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
-        },
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        }
-      ],
-      "duration_ms": 188543,
-      "name": "Morena m\u00eda",
-      "url": "https://open.spotify.com/track/2gCE7OHYYb0pZlp8nlRmXc"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Guapachosa",
         "url": "https://open.spotify.com/album/4TptYiiaaLLx5ywoAnGrMj"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 186000,
       "name": "Guapachosa",
       "url": "https://open.spotify.com/track/3lk6w0aleZYJfJ0zHpBUto"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Morena m\u00eda",
+        "url": "https://open.spotify.com/album/0ErqfJ1kVZagcPNa7pf7fK"
+      },
+      "artists": [
+        {
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "duration_ms": 188543,
+      "name": "Morena m\u00eda",
+      "url": "https://open.spotify.com/track/2gCE7OHYYb0pZlp8nlRmXc"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Rosalie (Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk"
-      },
-      "artists": [
-        {
-          "name": "Lewis Del Mar",
-          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
-        }
-      ],
-      "duration_ms": 258845,
-      "name": "Rosalie (Espa\u00f1ol)",
-      "url": "https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Atacama!",
         "url": "https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 251830,
       "name": "El hombre que quiso ser canci\u00f3n",
       "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Rosalie (Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk"
+      },
+      "artists": [
+        {
+          "name": "Lewis Del Mar",
+          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
+        }
+      ],
+      "duration_ms": 258845,
+      "name": "Rosalie (Espa\u00f1ol)",
+      "url": "https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "American Boy",
+        "url": "https://open.spotify.com/album/634SbzHMwQgsFIq977CQiW"
+      },
+      "artists": [
+        {
+          "name": "Daym\u00e9 Arocena",
+          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
+        }
+      ],
+      "duration_ms": 225109,
+      "name": "American Boy",
+      "url": "https://open.spotify.com/track/40cHpU5FQkXlDxfayeWqsO"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Cerca de ti (feat. Georgina)",
         "url": "https://open.spotify.com/album/2aaxxiwKt6qDtMnw9awlXi"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 208013,
       "name": "Cerca de ti (feat. Georgina)",
       "url": "https://open.spotify.com/track/10oji60Sz18msn5AgTQI58"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "American Boy",
-        "url": "https://open.spotify.com/album/634SbzHMwQgsFIq977CQiW"
-      },
-      "artists": [
-        {
-          "name": "Daym\u00e9 Arocena",
-          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
-        }
-      ],
-      "duration_ms": 225109,
-      "name": "American Boy",
-      "url": "https://open.spotify.com/track/40cHpU5FQkXlDxfayeWqsO"
     },
     {
       "added_at": "2024-10-25 04:00:00",

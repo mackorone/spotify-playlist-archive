@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 
 > Din egen indieklubb! Garanterad dans, dans, dans\. \#spelashoreline
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,492 likes - 45 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,496 likes - 45 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 38 | [Vi kommer att dö samtidigt](https://open.spotify.com/track/1sQxrKrojCSuBk6XuaT8vm) | [Säkert!](https://open.spotify.com/artist/6aNouxfdfQCKjiZG0LJcjx) | [Säkert!](https://open.spotify.com/album/5DgxERJ0OOJKS3Jx7UkEwi) | 2:59 |
 | 39 | [Underground](https://open.spotify.com/track/0e6KwFNFCVIhbNND6e5rsW) | [Broder Daniel](https://open.spotify.com/artist/0IcwumPFXL1XWQ0Z9CCuCV) | [Broder Daniel](https://open.spotify.com/album/7JXk1bl1rpxEOfr7ub4fvk) | 2:50 |
 | 40 | [Kom igen Lena!](https://open.spotify.com/track/4UDaVq5tm2mQ6tNgWydhUX) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Det är så jag säger det](https://open.spotify.com/album/2x39gXdLwYnTxJyxExXpTj) | 3:51 |
-| 41 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
-| 42 | [We're from Barcelona](https://open.spotify.com/track/6gobLJ63a1TNrSrU53tSj5) | [I'm From Barcelona](https://open.spotify.com/artist/1LiML7wd2CE9dYq6JSeTjl) | [Let Me Introduce My Friends](https://open.spotify.com/album/0zbZ29KUQGBXvv8RpeXP3L) | 3:02 |
+| 41 | [We're from Barcelona](https://open.spotify.com/track/6gobLJ63a1TNrSrU53tSj5) | [I'm From Barcelona](https://open.spotify.com/artist/1LiML7wd2CE9dYq6JSeTjl) | [Let Me Introduce My Friends](https://open.spotify.com/album/0zbZ29KUQGBXvv8RpeXP3L) | 3:02 |
+| 42 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
 | 43 | [Fear no Darkness, Promised Child](https://open.spotify.com/track/15VvSeKsuRnDbiJAJSKtX3) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP) | [I'm Indian](https://open.spotify.com/album/4pMDKVvz3EMVpOqdZnWTwS) | 3:29 |
 | 44 | [I Surrender \(Bonus Track\)](https://open.spotify.com/track/5JMEkaqHSv7MeCpeoXCfg2) | [Nicole Sabouné](https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk) | [Must Exist](https://open.spotify.com/album/1D3OftGf5JVBPyf7TiqfZ3) | 3:42 |
 | 45 | [Mon Amour \(Alternative Single Mix\)](https://open.spotify.com/track/6XFGNx6By4F97mrIZBkRZa) | [The Plan](https://open.spotify.com/artist/1xp8n7sGGGHKO6pwxH8RCI) | [The Plan](https://open.spotify.com/album/4KlUqRzW0bNtNlMSgja6Ve) | 3:00 |

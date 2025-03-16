@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4P18Z9pzZIZ.md) - [plain]
 
 > hop on board, nonstop bops only!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,750 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,763 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4P18Z9pzZIZ.md) - [plain]
 | 14 | [Somedays](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Somedays](https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK) | 3:27 |
 | 15 | [No Bad Vibes](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [No Bad Vibes](https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32) | 2:42 |
 | 16 | [Push The Tempo](https://open.spotify.com/track/2dkUsfpsB0c394cmFe18Ih) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Push The Tempo](https://open.spotify.com/album/0XfYZGlEQ7KNK8Pcuqh9AN) | 2:41 |
-| 17 | [Yosemite](https://open.spotify.com/track/2I7Ph7hRkjOMgy9WCsE4F3) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Yosemite](https://open.spotify.com/album/5fDFirEEe5owUhblkIy23d) | 4:26 |
+| 17 | [Yosemite \- Edit](https://open.spotify.com/track/2I7Ph7hRkjOMgy9WCsE4F3) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Yosemite](https://open.spotify.com/album/5fDFirEEe5owUhblkIy23d) | 4:26 |
 | 18 | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34) | 2:18 |
 | 19 | [Dirty Cash \(Money Talks\)](https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [The Adventures Of Stevie V](https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2) | [Dirty Cash \(Money Talks\)](https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj) | 3:41 |
 | 20 | [I need to know](https://open.spotify.com/track/2mc817QLOMfEGZG2rlQsy3) | [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [I need to know](https://open.spotify.com/album/4dvap2kLDTcRL4NI8etXwd) | 2:18 |

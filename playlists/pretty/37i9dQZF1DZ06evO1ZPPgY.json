@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 224333,
+  "num_followers": 224349,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAADpJuf3Nz00R0qgVMI1fL6n",
+  "snapshot_id": "Z9NxgAAAAAAUicw2Gu/VOAAt8WPH3mLp",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Another Way To Say I Love You",
-        "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 219440,
-      "name": "What Am I Gonna Do With You",
-      "url": "https://open.spotify.com/track/097OvOx07eXC4UmdnywvoE"
+      "duration_ms": 290666,
+      "name": "Never, Never Gonna Give Ya Up",
+      "url": "https://open.spotify.com/track/3pepZAOvUCBt3qWi9Ax6Aq"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barry White's Greatest Hits",
-        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
+        "name": "Just Another Way To Say I Love You",
+        "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 290666,
-      "name": "Never, Never Gonna Give Ya Up",
-      "url": "https://open.spotify.com/track/3pepZAOvUCBt3qWi9Ax6Aq"
+      "duration_ms": 219440,
+      "name": "What Am I Gonna Do With You",
+      "url": "https://open.spotify.com/track/097OvOx07eXC4UmdnywvoE"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 299226,
+      "name": "I Love You More Than Anything (In This World Girl)",
+      "url": "https://open.spotify.com/track/4Ltz2LvHKcegbx1D6PpdVI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Q's Jook Joint",
         "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 450600,
       "name": "Slow Jams",
       "url": "https://open.spotify.com/track/6CtrSJaPZxcGn991fLgxJF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 299226,
-      "name": "I Love You More Than Anything (In This World Girl)",
-      "url": "https://open.spotify.com/track/4Ltz2LvHKcegbx1D6PpdVI"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Love To Sing The Songs I Sing",
-        "url": "https://open.spotify.com/album/4sf3cW8M6OAq1sd11fpVLo"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 170600,
-      "name": "I Love To Sing The Songs I Sing",
-      "url": "https://open.spotify.com/track/3rOd76CYlqmGzp1TssXANo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 234000,
       "name": "Oh Love, Well We Finally Made It",
       "url": "https://open.spotify.com/track/4ylPgukQzmpX7TZ1NcxAbm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Love To Sing The Songs I Sing",
+        "url": "https://open.spotify.com/album/4sf3cW8M6OAq1sd11fpVLo"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 170600,
+      "name": "I Love To Sing The Songs I Sing",
+      "url": "https://open.spotify.com/track/3rOd76CYlqmGzp1TssXANo"
     },
     {
       "added_at": null,

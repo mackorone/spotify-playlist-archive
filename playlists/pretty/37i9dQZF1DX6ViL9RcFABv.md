@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Fernando Daniel
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,188 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,219 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Medo](https://open.spotify.com/track/6SdhNImhd8UMS0Tm79kRaA) | [Fernando Daniel](https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC) | [Festival da Canção 2025](https://open.spotify.com/album/6VHtVgnrzrBLMNyYaHkpSu) | 3:00 |
 | 2 | [Grito 2.0](https://open.spotify.com/track/1gg8m3ZBNPUhbtMMoBc8kU) | [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Grito 2.0](https://open.spotify.com/album/26AuLXCoMlC6mXe9DP4U8C) | 3:01 |
-| 3 | [Lembra Voçê](https://open.spotify.com/track/5nbttiVvzyybchDJXyNT71) | [Maninho](https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr) | [Sem Limites](https://open.spotify.com/album/1nHiVw1epVXXJZGjRSRUPf) | 2:50 |
+| 3 | [Lembra Você](https://open.spotify.com/track/5nbttiVvzyybchDJXyNT71) | [Maninho](https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr) | [Sem Limites](https://open.spotify.com/album/1nHiVw1epVXXJZGjRSRUPf) | 2:50 |
 | 4 | [Tristeza](https://open.spotify.com/track/2ff0DqG4icPsm0N6M4em6h) | [JOSH](https://open.spotify.com/artist/4U4egOotuNLKqlARiAfYne) | [Festival da Canção 2025](https://open.spotify.com/album/6VHtVgnrzrBLMNyYaHkpSu) | 2:58 |
 | 5 | [Feitos de Carne e Osso](https://open.spotify.com/track/4dQbdqBvaYqCivQtZn7dpW) | [Tomás Rocha](https://open.spotify.com/artist/1yTbBPlT5SgrGUTa6sYjnd), [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Feitos de Carne e Osso](https://open.spotify.com/album/1kofreqUl3caFAfpCkE78u) | 3:00 |
 | 6 | [Castelo de Cartas](https://open.spotify.com/track/62xeHoENK0PawhDUYct28N) | [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Castelo de Cartas](https://open.spotify.com/album/6ojRYc1j9BARLjVFC5dYVs) | 2:58 |

@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: alberto.vela.",
-  "num_followers": 128623,
+  "num_followers": 128631,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -735,26 +735,6 @@
     {
       "added_at": "2025-03-13 23:00:32",
       "album": {
-        "name": "Herminia",
-        "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
-      },
-      "artists": [
-        {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
-        },
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 185960,
-      "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
-      "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
-    },
-    {
-      "added_at": "2025-03-13 23:00:32",
-      "album": {
         "name": "Un Hogar",
         "url": "https://open.spotify.com/album/2jRu9kgYQ7PDPEF31ztpYr"
       },
@@ -779,18 +759,22 @@
     {
       "added_at": "2025-03-13 23:00:32",
       "album": {
-        "name": "Un Golpe de Suerte",
-        "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
+        "name": "Herminia",
+        "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
       },
       "artists": [
         {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+        },
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
         }
       ],
-      "duration_ms": 269932,
-      "name": "Un Golpe de Suerte",
-      "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
+      "duration_ms": 185960,
+      "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
+      "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
     },
     {
       "added_at": "2025-03-13 23:00:32",
@@ -811,6 +795,22 @@
       "duration_ms": 167063,
       "name": "la alegr\u00eda de vivir",
       "url": "https://open.spotify.com/track/76cBcoU2rc2knv8bofccvs"
+    },
+    {
+      "added_at": "2025-03-13 23:00:32",
+      "album": {
+        "name": "Un Golpe de Suerte",
+        "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
+      },
+      "artists": [
+        {
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+        }
+      ],
+      "duration_ms": 269932,
+      "name": "Un Golpe de Suerte",
+      "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
     },
     {
       "added_at": "2025-03-13 23:00:32",
@@ -967,26 +967,6 @@
     {
       "added_at": "2025-03-13 23:00:32",
       "album": {
-        "name": "Esto No Es un Disco Vol.2",
-        "url": "https://open.spotify.com/album/3FmBATesZ9njggDI8wDseS"
-      },
-      "artists": [
-        {
-          "name": "El Ni\u00f1o de la Hipoteca",
-          "url": "https://open.spotify.com/artist/3Znu3IpegNZzamLA9vRsE0"
-        },
-        {
-          "name": "Sandra Bautista",
-          "url": "https://open.spotify.com/artist/2jenRVqNHK4NWoAjz19q5w"
-        }
-      ],
-      "duration_ms": 158341,
-      "name": "Testamento - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0FcjJaexti8Duj7o7Oglj3"
-    },
-    {
-      "added_at": "2025-03-13 23:00:32",
-      "album": {
         "name": "Se Vos",
         "url": "https://open.spotify.com/album/2fxw6XXedFNprq4HdYTWdM"
       },
@@ -1007,22 +987,22 @@
     {
       "added_at": "2025-03-13 23:00:32",
       "album": {
-        "name": "Te vamos a salvar",
-        "url": "https://open.spotify.com/album/5qbCFeeajwgQWohZoDQejW"
+        "name": "Esto No Es un Disco Vol.2",
+        "url": "https://open.spotify.com/album/3FmBATesZ9njggDI8wDseS"
       },
       "artists": [
         {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+          "name": "El Ni\u00f1o de la Hipoteca",
+          "url": "https://open.spotify.com/artist/3Znu3IpegNZzamLA9vRsE0"
         },
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Sandra Bautista",
+          "url": "https://open.spotify.com/artist/2jenRVqNHK4NWoAjz19q5w"
         }
       ],
-      "duration_ms": 161000,
-      "name": "Amigos Animales (Ac\u00fastico) - Edici\u00f3n 2024",
-      "url": "https://open.spotify.com/track/5CUWsc35thJK6tvVouCtyd"
+      "duration_ms": 158341,
+      "name": "Testamento - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0FcjJaexti8Duj7o7Oglj3"
     },
     {
       "added_at": "2025-03-13 23:00:32",
@@ -1039,6 +1019,26 @@
       "duration_ms": 296669,
       "name": "Todo te parece normal",
       "url": "https://open.spotify.com/track/1jQ695vF4J7RQz9vHhHj80"
+    },
+    {
+      "added_at": "2025-03-13 23:00:32",
+      "album": {
+        "name": "Te vamos a salvar",
+        "url": "https://open.spotify.com/album/5qbCFeeajwgQWohZoDQejW"
+      },
+      "artists": [
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Amigos Animales (Ac\u00fastico) - Edici\u00f3n 2024",
+      "url": "https://open.spotify.com/track/5CUWsc35thJK6tvVouCtyd"
     },
     {
       "added_at": "2025-03-13 23:00:32",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2025-03-13 23:00:32",
       "album": {
+        "name": "Lo que siento \u263c",
+        "url": "https://open.spotify.com/album/2rqPUkz4fU03IGJm3KZtd4"
+      },
+      "artists": [
+        {
+          "name": "el nido",
+          "url": "https://open.spotify.com/artist/6o6UaIWvzYLItWbkQtUbka"
+        },
+        {
+          "name": "Neomak",
+          "url": "https://open.spotify.com/artist/0SEyTK74P3oxrF3WHEdIIB"
+        }
+      ],
+      "duration_ms": 180121,
+      "name": "Lo que siento \u263c",
+      "url": "https://open.spotify.com/track/19kEKunwApFk7zvuIqlYOs"
+    },
+    {
+      "added_at": "2025-03-13 23:00:32",
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/523A7IjwBmOfIAk0xh3DUx"
       },
@@ -1099,26 +1119,6 @@
     {
       "added_at": "2025-03-13 23:00:32",
       "album": {
-        "name": "Lo que siento \u263c",
-        "url": "https://open.spotify.com/album/2rqPUkz4fU03IGJm3KZtd4"
-      },
-      "artists": [
-        {
-          "name": "el nido",
-          "url": "https://open.spotify.com/artist/6o6UaIWvzYLItWbkQtUbka"
-        },
-        {
-          "name": "Neomak",
-          "url": "https://open.spotify.com/artist/0SEyTK74P3oxrF3WHEdIIB"
-        }
-      ],
-      "duration_ms": 180121,
-      "name": "Lo que siento \u263c",
-      "url": "https://open.spotify.com/track/19kEKunwApFk7zvuIqlYOs"
-    },
-    {
-      "added_at": "2025-03-13 23:00:32",
-      "album": {
         "name": "Carta Aberta",
         "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
       },
@@ -1131,22 +1131,6 @@
       "duration_ms": 322242,
       "name": "Carta Aberta",
       "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
-    },
-    {
-      "added_at": "2025-03-13 23:00:32",
-      "album": {
-        "name": "Agua Bendita",
-        "url": "https://open.spotify.com/album/1YHNITXwZzVsP5u7dVbxB0"
-      },
-      "artists": [
-        {
-          "name": "Marilia Monz\u00f3n",
-          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
-        }
-      ],
-      "duration_ms": 167967,
-      "name": "Agua Bendita",
-      "url": "https://open.spotify.com/track/6Ss1caRfflUVDIdcFCMCkN"
     },
     {
       "added_at": "2025-03-13 23:00:32",
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2025-03-13 23:00:32",
       "album": {
+        "name": "Agua Bendita",
+        "url": "https://open.spotify.com/album/1YHNITXwZzVsP5u7dVbxB0"
+      },
+      "artists": [
+        {
+          "name": "Marilia Monz\u00f3n",
+          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
+        }
+      ],
+      "duration_ms": 167967,
+      "name": "Agua Bendita",
+      "url": "https://open.spotify.com/track/6Ss1caRfflUVDIdcFCMCkN"
+    },
+    {
+      "added_at": "2025-03-13 23:00:32",
+      "album": {
         "name": "A la deriva",
         "url": "https://open.spotify.com/album/63EtKfnVExFTiSWXiXgC5e"
       },
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2025-03-13 23:00:32",
       "album": {
+        "name": "Traigo un canto guardado",
+        "url": "https://open.spotify.com/album/79SImwqTgpYWmA2IZYR32F"
+      },
+      "artists": [
+        {
+          "name": "M\u00f3nica Giraldo",
+          "url": "https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx"
+        }
+      ],
+      "duration_ms": 228555,
+      "name": "Traigo un canto guardado",
+      "url": "https://open.spotify.com/track/457g7xulyeT3NWNbXQ0eQm"
+    },
+    {
+      "added_at": "2025-03-13 23:00:32",
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/3QfGs7DDFiZo4bv5HELUaD"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 186250,
       "name": "Lo Tengo Todo",
       "url": "https://open.spotify.com/track/2c9X8dFOQLxwMJ2etYaF6b"
-    },
-    {
-      "added_at": "2025-03-13 23:00:32",
-      "album": {
-        "name": "Traigo un canto guardado",
-        "url": "https://open.spotify.com/album/79SImwqTgpYWmA2IZYR32F"
-      },
-      "artists": [
-        {
-          "name": "M\u00f3nica Giraldo",
-          "url": "https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx"
-        }
-      ],
-      "duration_ms": 228555,
-      "name": "Traigo un canto guardado",
-      "url": "https://open.spotify.com/track/457g7xulyeT3NWNbXQ0eQm"
     },
     {
       "added_at": "2025-03-13 23:00:32",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2025-03-13 23:00:32",
       "album": {
+        "name": "Mujer",
+        "url": "https://open.spotify.com/album/6TaMw9HXmDeMefJDTewDRi"
+      },
+      "artists": [
+        {
+          "name": "Pablo Und Destruktion",
+          "url": "https://open.spotify.com/artist/55o14KDbF8VAbUm7QYqIcd"
+        }
+      ],
+      "duration_ms": 116095,
+      "name": "Mujer",
+      "url": "https://open.spotify.com/track/08y5JyrixoNYXnZcWcLyaV"
+    },
+    {
+      "added_at": "2025-03-13 23:00:32",
+      "album": {
         "name": "Fado",
         "url": "https://open.spotify.com/album/22H9bUsimgsyoK9XSO4lJ5"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 217253,
       "name": "A volar (feat. Lido Pimienta)",
       "url": "https://open.spotify.com/track/5KnFKXycHFZhchoOjFASU1"
-    },
-    {
-      "added_at": "2025-03-13 23:00:32",
-      "album": {
-        "name": "Mujer",
-        "url": "https://open.spotify.com/album/6TaMw9HXmDeMefJDTewDRi"
-      },
-      "artists": [
-        {
-          "name": "Pablo Und Destruktion",
-          "url": "https://open.spotify.com/artist/55o14KDbF8VAbUm7QYqIcd"
-        }
-      ],
-      "duration_ms": 116095,
-      "name": "Mujer",
-      "url": "https://open.spotify.com/track/08y5JyrixoNYXnZcWcLyaV"
     },
     {
       "added_at": "2025-03-13 23:00:32",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2025-03-13 23:00:32",
       "album": {
+        "name": "Ay Madrid",
+        "url": "https://open.spotify.com/album/2ZoSeQVAi8w3FkGsOV7BF8"
+      },
+      "artists": [
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "duration_ms": 181125,
+      "name": "Ay Madrid",
+      "url": "https://open.spotify.com/track/0xbrUmlaNHYD7LHjMyVZgJ"
+    },
+    {
+      "added_at": "2025-03-13 23:00:32",
+      "album": {
         "name": "As vidas caladas",
         "url": "https://open.spotify.com/album/13khQGThr8cw5jaKqlIipO"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 175905,
       "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
       "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
-    },
-    {
-      "added_at": "2025-03-13 23:00:32",
-      "album": {
-        "name": "Ay Madrid",
-        "url": "https://open.spotify.com/album/2ZoSeQVAi8w3FkGsOV7BF8"
-      },
-      "artists": [
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        }
-      ],
-      "duration_ms": 181125,
-      "name": "Ay Madrid",
-      "url": "https://open.spotify.com/track/0xbrUmlaNHYD7LHjMyVZgJ"
     },
     {
       "added_at": "2025-03-13 23:00:32",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2025-03-13 23:00:32",
       "album": {
-        "name": "Yo No Quiero Ser Tu Amigo",
-        "url": "https://open.spotify.com/album/3NK1SQIZb7E53hA2B1pmNG"
-      },
-      "artists": [
-        {
-          "name": "Yo Vivo Navegando",
-          "url": "https://open.spotify.com/artist/2PsLvXIkERMvCRYXqErit4"
-        }
-      ],
-      "duration_ms": 198387,
-      "name": "Yo No Quiero Ser Tu Amigo",
-      "url": "https://open.spotify.com/track/4OmUYRDycYSiuI6JwBVmEW"
-    },
-    {
-      "added_at": "2025-03-13 23:00:32",
-      "album": {
         "name": "El Estallido",
         "url": "https://open.spotify.com/album/4P98v55Jw2OQtU0TO62MW8"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 225000,
       "name": "El Estallido",
       "url": "https://open.spotify.com/track/0x1gvDz9CUoVHS8uoC3uxB"
+    },
+    {
+      "added_at": "2025-03-13 23:00:32",
+      "album": {
+        "name": "Yo No Quiero Ser Tu Amigo",
+        "url": "https://open.spotify.com/album/3NK1SQIZb7E53hA2B1pmNG"
+      },
+      "artists": [
+        {
+          "name": "Yo Vivo Navegando",
+          "url": "https://open.spotify.com/artist/2PsLvXIkERMvCRYXqErit4"
+        }
+      ],
+      "duration_ms": 198387,
+      "name": "Yo No Quiero Ser Tu Amigo",
+      "url": "https://open.spotify.com/track/4OmUYRDycYSiuI6JwBVmEW"
     },
     {
       "added_at": "2025-03-13 23:00:32",
@@ -1907,18 +1907,18 @@
     {
       "added_at": "2025-03-13 23:00:32",
       "album": {
-        "name": "Todo lo Que Tengo",
-        "url": "https://open.spotify.com/album/7roKWO70Emv1wpq26niIZx"
+        "name": "ella calma mi tormenta",
+        "url": "https://open.spotify.com/album/44CwAlsxFhvJixQZfFtmcV"
       },
       "artists": [
         {
-          "name": "Marazu",
-          "url": "https://open.spotify.com/artist/1RJzgiBktNaycMMFRMvD42"
+          "name": "Julia Sabat\u00e9",
+          "url": "https://open.spotify.com/artist/31rI390sTNfG8xZmBZ0tgA"
         }
       ],
-      "duration_ms": 254305,
-      "name": "Todo lo Que Tengo",
-      "url": "https://open.spotify.com/track/5rfmreOdFq1jp3afeCNJAK"
+      "duration_ms": 214835,
+      "name": "ella calma mi tormenta",
+      "url": "https://open.spotify.com/track/4Wf2cR3BjqBGjFxVNZyTFI"
     }
   ],
   "unique_name": "Cancionistas",

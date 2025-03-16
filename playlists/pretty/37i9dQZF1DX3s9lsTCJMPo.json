@@ -1,6 +1,6 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. Cover: Alison Hinds",
-  "num_followers": 123337,
+  "num_followers": 123403,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca 101 Vol.2",
-        "url": "https://open.spotify.com/album/6wDFNajd2I5u29BUehoXIi"
-      },
-      "artists": [
-        {
-          "name": "Mac Fingall",
-          "url": "https://open.spotify.com/artist/2lpMOrBgegh76K8t1QjiLu"
-        }
-      ],
-      "duration_ms": 292986,
-      "name": "Big Belly Man",
-      "url": "https://open.spotify.com/track/552bqW6i9i7oleuikwU7jg"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Gold",
         "url": "https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 352173,
       "name": "Sing In The Party",
       "url": "https://open.spotify.com/track/02KBvh3N2OobcJebwyHGJJ"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca 101 Vol.2",
+        "url": "https://open.spotify.com/album/6wDFNajd2I5u29BUehoXIi"
+      },
+      "artists": [
+        {
+          "name": "Mac Fingall",
+          "url": "https://open.spotify.com/artist/2lpMOrBgegh76K8t1QjiLu"
+        }
+      ],
+      "duration_ms": 292986,
+      "name": "Big Belly Man",
+      "url": "https://open.spotify.com/track/552bqW6i9i7oleuikwU7jg"
     },
     {
       "added_at": "2024-08-06 01:00:53",

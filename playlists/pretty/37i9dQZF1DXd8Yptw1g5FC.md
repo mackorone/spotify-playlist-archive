@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Fatma Turgut ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,268 likes - 85 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,273 likes - 85 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 11 | [birisi var](https://open.spotify.com/track/0VKv7bYIdBOE9k66oS0nFu) | [Gece Yolcuları](https://open.spotify.com/artist/21ppfKgGToa81HQE0kET5P) | [birisi var](https://open.spotify.com/album/3Cjvnb8XEjzChtay4dr4Aw) | 3:25 |
 | 12 | [Haberin Yok](https://open.spotify.com/track/7cQYFmtMGt3k2mv5YFL2RN) | [RASH](https://open.spotify.com/artist/7HePKGjMU8Eofq2Bp65pLX), [Taladro](https://open.spotify.com/artist/2ShoGcsu8kekluGvbggGKQ) | [Haberin Yok](https://open.spotify.com/album/73I8Q2wW6yWDIsC3Aau380) | 2:59 |
 | 13 | [Esir](https://open.spotify.com/track/5VUJJVH6DoblkhyDrnXYK9) | [Ferhat Göçer](https://open.spotify.com/artist/13jj3uGldU7cSQLaFkf2Zm) | [Esir](https://open.spotify.com/album/1bmAENnKQwtSUxn8sc0yv8) | 2:31 |
-| 14 | [GOOD CREDIT](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
+| 14 | [GOOD CREDIT \(with Kendrick Lamar\)](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
 | 15 | [SMOKE THE PAIN AWAY](https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [SMOKE THE PAIN AWAY](https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP) | 2:42 |
 | 16 | [Angels For Each Other](https://open.spotify.com/track/7KPcippmg9MvPzb3dzNpQW) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Angels For Each Other](https://open.spotify.com/album/1bOANBDFMPylV75pmNK4l3) | 3:35 |
 | 17 | [Ne Yapsın Kalp](https://open.spotify.com/track/2ddAMO0Icb4NPslLx7hfM5) | [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId) | [Ne Yapsın Kalp](https://open.spotify.com/album/2il4AorMnEHN2QHiwYw3L3) | 2:11 |

@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2018. Cover: The 1975",
-  "num_followers": 87348,
+  "num_followers": 87366,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/66MRfhZmuTuyGCO1dJZTRB"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 303296,
-      "name": "Sesame Syrup",
-      "url": "https://open.spotify.com/track/53k1gKFpKrDbktUzrB80f0"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "1950",
         "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 225133,
       "name": "1950",
       "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/66MRfhZmuTuyGCO1dJZTRB"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 303296,
+      "name": "Sesame Syrup",
+      "url": "https://open.spotify.com/track/53k1gKFpKrDbktUzrB80f0"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "summer depression",
+        "url": "https://open.spotify.com/album/3jlug1mMFqnp2rTBRV020r"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 151693,
+      "name": "summer depression",
+      "url": "https://open.spotify.com/track/2zPcVDSpYNVKQ5c7jR7MXj"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/4mYvYnX8cLr4w2UjmkpjnU"
       },
@@ -1407,22 +1423,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 128198,
-      "name": "Washing Machine Heart",
-      "url": "https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
       },
@@ -1443,34 +1443,34 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "summer depression",
-        "url": "https://open.spotify.com/album/3jlug1mMFqnp2rTBRV020r"
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 151693,
-      "name": "summer depression",
-      "url": "https://open.spotify.com/track/2zPcVDSpYNVKQ5c7jR7MXj"
+      "duration_ms": 128198,
+      "name": "Washing Machine Heart",
+      "url": "https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf"
     },
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Solarize",
-        "url": "https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB"
+        "name": "Classic",
+        "url": "https://open.spotify.com/album/2gHoyHYnaGEctKR8kysOAU"
       },
       "artists": [
         {
-          "name": "Capital Cities",
-          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Swimming Pool Summer",
-      "url": "https://open.spotify.com/track/477PCJRTtOZHVmP5ygdldS"
+      "duration_ms": 194000,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/47ed9eO66cBHvWteLlF7C0"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Classic",
-        "url": "https://open.spotify.com/album/2gHoyHYnaGEctKR8kysOAU"
+        "name": "Solarize",
+        "url": "https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB"
       },
       "artists": [
         {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/47ed9eO66cBHvWteLlF7C0"
+      "duration_ms": 213000,
+      "name": "Swimming Pool Summer",
+      "url": "https://open.spotify.com/track/477PCJRTtOZHVmP5ygdldS"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1523,6 +1523,22 @@
       "duration_ms": 391829,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/2AF5Kzxb4pz7j79Ity84pP"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 193429,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6bTn1ovliI0OkjUNkiMBJq"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1559,38 +1575,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 193429,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6bTn1ovliI0OkjUNkiMBJq"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Beautiful People Will Ruin Your Life",
-        "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 219481,
-      "name": "Cheetah Tongue",
-      "url": "https://open.spotify.com/track/4w9TBRGhvbhiLQB8jVCusl"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "Chiquito",
         "url": "https://open.spotify.com/album/6Bq9FHHUxCUZalaQ6YwGjy"
       },
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Beautiful People Will Ruin Your Life",
+        "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 219481,
+      "name": "Cheetah Tongue",
+      "url": "https://open.spotify.com/track/4w9TBRGhvbhiLQB8jVCusl"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "nightmares",
         "url": "https://open.spotify.com/album/0y6NUCloXhKFoYGZ1m3P96"
       },
@@ -1623,6 +1623,22 @@
       "duration_ms": 207003,
       "name": "nightmares",
       "url": "https://open.spotify.com/track/2hCOLHDVQhnu0qpLFV4ynj"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/2e48GqjEwCi87gQJanb1bf"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 308346,
+      "name": "Heat Wave",
+      "url": "https://open.spotify.com/track/43E0f1S0rOGCo6YYRYHjHP"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1655,22 +1671,6 @@
       "duration_ms": 203560,
       "name": "Arms",
       "url": "https://open.spotify.com/track/48HT7Zzd3We4ZjG82lsbdK"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Calm",
-        "url": "https://open.spotify.com/album/4OmCAIrckfZx2vVM9pIHZH"
-      },
-      "artists": [
-        {
-          "name": "Vistas",
-          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
-        }
-      ],
-      "duration_ms": 208760,
-      "name": "Calm",
-      "url": "https://open.spotify.com/track/5mLTKuS2yHKBgxvm4Jn27a"
     }
   ],
   "unique_name": "Best of Indie 2018",

@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 30607,
+  "num_followers": 30612,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAABOyS58yzif7QjOuW+E3YYN",
+  "snapshot_id": "Z9NxgAAAAADyz8hsSpPv/DVSO6CVd2Wl",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deixa Senhor",
-        "url": "https://open.spotify.com/album/1vOizfnBsBejbnHvGbYpp6"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 362987,
-      "name": "Deixa Senhor",
-      "url": "https://open.spotify.com/track/06z7qj0dpj7xdl6rFvbgiO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Supera\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 316159,
       "name": "O Processo",
       "url": "https://open.spotify.com/track/2aQxomfu4HA5aHikGvgCjm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deixa Senhor",
+        "url": "https://open.spotify.com/album/1vOizfnBsBejbnHvGbYpp6"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 362987,
+      "name": "Deixa Senhor",
+      "url": "https://open.spotify.com/track/06z7qj0dpj7xdl6rFvbgiO"
     },
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damares (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
-        }
-      ],
-      "duration_ms": 358640,
-      "name": "Yeshua (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2b9sOPTgLige26J50aINp9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Supera\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 297058,
       "name": "O Cuidar de Deus (feat. Lucas Roque e Gabriel)",
       "url": "https://open.spotify.com/track/0jHl8W1L7LciXlyoI56Cwq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damares (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
+        }
+      ],
+      "duration_ms": 358640,
+      "name": "Yeshua (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2b9sOPTgLige26J50aINp9"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Maior Trof\u00e9u (Ao Vivo)",
-        "url": "https://open.spotify.com/album/01ZUb4FtrUZH390oHfyORi"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 265666,
-      "name": "A Ora\u00e7\u00e3o de Jabes (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1FRingDBRVx2JTV6uGgSBF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Supera\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 315930,
       "name": "Me Leva",
       "url": "https://open.spotify.com/track/7ctEwNQ442ScQp273q3KiG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Maior Trof\u00e9u (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01ZUb4FtrUZH390oHfyORi"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 265666,
+      "name": "A Ora\u00e7\u00e3o de Jabes (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1FRingDBRVx2JTV6uGgSBF"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obra Prima",
-        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 323200,
-      "name": "Sou o Que Sou",
-      "url": "https://open.spotify.com/track/3jWAJKgbJl6mPivyVZhJo5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Supera\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 333162,
       "name": "Pai, Preciso de Ti",
       "url": "https://open.spotify.com/track/324t5ZkCfdhBxP2t6708pD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obra Prima",
+        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 323200,
+      "name": "Sou o Que Sou",
+      "url": "https://open.spotify.com/track/3jWAJKgbJl6mPivyVZhJo5"
     },
     {
       "added_at": null,

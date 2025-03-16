@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 
 > This is Ghost\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,967 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,244 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 | 49 | [Miasma \- Live at the Forum / 2023](https://open.spotify.com/track/5qFpoAJFWSisy5va1gAiaS) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Rite Here Rite Now \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0EmgzguOzsDNC8yZzxK8Zi) | 6:18 |
 | 50 | [I Believe](https://open.spotify.com/track/0quRJVHIYA7nqC3WFvFW3s) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 4:06 |
 
-Snapshot ID: `Z9IgAAAAAAAAEKeKjVBYsxLPpV1SzXTU`
+Snapshot ID: `Z9NxgAAAAAAjtlDCGGVwnRSB6Xmd5mcR`

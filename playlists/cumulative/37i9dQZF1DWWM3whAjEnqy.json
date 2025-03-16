@@ -2423,6 +2423,24 @@
     },
     {
       "album": {
+        "name": "That Place",
+        "url": "https://open.spotify.com/album/26Y8e2ikaQtEVgZTFPtkvi"
+      },
+      "artists": [
+        {
+          "name": "Tay Oskee",
+          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278700,
+      "name": "That Place",
+      "url": "https://open.spotify.com/track/1s9N5E3uF07BMuwP83kgIU"
+    },
+    {
+      "album": {
         "name": "The Breach EP",
         "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
       },
@@ -2780,7 +2798,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 255517,
       "name": "We Will Run",
       "url": "https://open.spotify.com/track/1nKFzsCP6gDbA9V5qmNrXH"

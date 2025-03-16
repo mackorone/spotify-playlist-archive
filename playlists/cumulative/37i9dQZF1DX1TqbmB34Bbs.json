@@ -6812,7 +6812,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 210095,
       "name": "DeViL",
       "url": "https://open.spotify.com/track/3S4YpayAH2CV3iR5RPb7iX"
@@ -8602,7 +8602,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-07",
+      "date_removed": null,
       "duration_ms": 209196,
       "name": "Flip Freestyle (feat. KOR KASH)",
       "url": "https://open.spotify.com/track/250ZFib9Eeqgfe0M0E3MT2"
@@ -13930,7 +13930,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 170533,
       "name": "LEGACY",
       "url": "https://open.spotify.com/track/22Zxg7K8lEL8lkfQQbykKQ"
@@ -17826,7 +17826,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 204000,
       "name": "NORI",
       "url": "https://open.spotify.com/track/5vAmgWcxiq0MdyhYT44ich"
@@ -19606,9 +19606,9 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 185243,
-      "name": "Please",
+      "name": "Please (Feat. KIM HYO EUN, G2 & DUMBFOUNDEAD)",
       "url": "https://open.spotify.com/track/4tJl1AVYE6WFAWtuAEhxpM"
     },
     {
@@ -29244,6 +29244,52 @@
       "duration_ms": 270600,
       "name": "Z Flip Fold (Feat. Damndef) - remix",
       "url": "https://open.spotify.com/track/61D3XmJsdJetc2IBTuQY0e"
+    },
+    {
+      "album": {
+        "name": "RAP:PUBLIC Block 3 MIXTAPE '\u30083'",
+        "url": "https://open.spotify.com/album/1sTETOtm3X4PrTzeJiegyt"
+      },
+      "artists": [
+        {
+          "name": "Yang Kyle",
+          "url": "https://open.spotify.com/artist/4x5ZXHL71AGw8hI2pC4Y4l"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "Roh Yun Ha",
+          "url": "https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy"
+        },
+        {
+          "name": "REDDY",
+          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
+        },
+        {
+          "name": "James An",
+          "url": "https://open.spotify.com/artist/4BACFCf6Y0aEdjtk9gutvC"
+        },
+        {
+          "name": "BBULKUP",
+          "url": "https://open.spotify.com/artist/3denoLaniS4scvPPqK5hMd"
+        },
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        },
+        {
+          "name": "Chaboom",
+          "url": "https://open.spotify.com/artist/0c8Qflq0lTE9LhXcdNZrEG"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197431,
+      "name": "Zero to Hundred",
+      "url": "https://open.spotify.com/track/0BcmxTgaTk2Zr60AxmSHbG"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAADaRaD8NJ442gxtJDRJ2ql7",
+  "snapshot_id": "Z9NxgAAAAABC9l9Nv85fwErW+LU55y1F",
   "tracks": [
     {
       "added_at": null,
@@ -343,30 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liberdade",
-        "url": "https://open.spotify.com/album/0KzNvhi6othcvW3HyYdj2W"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ferr",
-          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 223146,
-      "name": "Rio Nilo",
-      "url": "https://open.spotify.com/track/4HFDkgSNKq7XFuq3pDi9Zk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sorry Drummer & Friends, Vol. 2",
         "url": "https://open.spotify.com/album/5hZ7f9dv3Ra5xVtBQcJRS0"
       },
@@ -399,22 +375,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mulher MC",
-        "url": "https://open.spotify.com/album/4d1LMcSwAHx9U06d1Kiosh"
+        "name": "Liberdade",
+        "url": "https://open.spotify.com/album/0KzNvhi6othcvW3HyYdj2W"
       },
       "artists": [
+        {
+          "name": "Jonathan Ferr",
+          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
+        },
         {
           "name": "Stefanie",
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
         },
         {
-          "name": "Dj Will",
-          "url": "https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX"
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         }
       ],
-      "duration_ms": 235966,
-      "name": "Mulher MC",
-      "url": "https://open.spotify.com/track/1T50N1Bgsq9uzPQRQikQoN"
+      "duration_ms": 223146,
+      "name": "Rio Nilo",
+      "url": "https://open.spotify.com/track/4HFDkgSNKq7XFuq3pDi9Zk"
     },
     {
       "added_at": null,
@@ -435,6 +415,26 @@
       "duration_ms": 210982,
       "name": "Muita Calma",
       "url": "https://open.spotify.com/track/7ID70qexcXsxTQpaEYTltY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mulher MC",
+        "url": "https://open.spotify.com/album/4d1LMcSwAHx9U06d1Kiosh"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Dj Will",
+          "url": "https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX"
+        }
+      ],
+      "duration_ms": 235966,
+      "name": "Mulher MC",
+      "url": "https://open.spotify.com/track/1T50N1Bgsq9uzPQRQikQoN"
     },
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pelos Meus Amores",
-        "url": "https://open.spotify.com/album/21uSO7noCQLAjtpMSv2FeF"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Lino Krizz",
-          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
-        }
-      ],
-      "duration_ms": 227377,
-      "name": "Pelos Meus Amores",
-      "url": "https://open.spotify.com/track/7fUfXX7Sop4KDPEZiUAMsw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voando Baixo",
         "url": "https://open.spotify.com/album/0QavGWICZFPuVesowDRq87"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 280037,
       "name": "Nossa Lei",
       "url": "https://open.spotify.com/track/44cliqma2bQWBj3OwXtRzr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pelos Meus Amores",
+        "url": "https://open.spotify.com/album/21uSO7noCQLAjtpMSv2FeF"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Lino Krizz",
+          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
+        }
+      ],
+      "duration_ms": 227377,
+      "name": "Pelos Meus Amores",
+      "url": "https://open.spotify.com/track/7fUfXX7Sop4KDPEZiUAMsw"
     },
     {
       "added_at": null,
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk"
         }
       ],
-      "duration_ms": 219402,
-      "name": "Paradoxo",
-      "url": "https://open.spotify.com/track/6DkhnKObVAmjqTNSbFi4Ee"
+      "duration_ms": 226304,
+      "name": "Viv\u00eancia",
+      "url": "https://open.spotify.com/track/6TbXGlMwt5pmPA24TEuBnv"
     },
     {
       "added_at": null,
@@ -1028,9 +1028,9 @@
           "url": "https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk"
         }
       ],
-      "duration_ms": 226304,
-      "name": "Viv\u00eancia",
-      "url": "https://open.spotify.com/track/6TbXGlMwt5pmPA24TEuBnv"
+      "duration_ms": 219402,
+      "name": "Paradoxo",
+      "url": "https://open.spotify.com/track/6DkhnKObVAmjqTNSbFi4Ee"
     },
     {
       "added_at": null,
@@ -1072,9 +1072,9 @@
           "url": "https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk"
         }
       ],
-      "duration_ms": 146464,
-      "name": "Sete Chaves",
-      "url": "https://open.spotify.com/track/4tyFClSOVNRlOf0wrQNaBG"
+      "duration_ms": 170065,
+      "name": "Rimas & Melodias",
+      "url": "https://open.spotify.com/track/3DtKHlWMK0sQYaVLe8rkh9"
     }
   ],
   "unique_name": "This Is Stefanie",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Porque no to' e' Dembow en RD loco\. Portada: Lil Naay
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,005 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,123 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 28 | [Cuando Me Lo M\*ME](https://open.spotify.com/track/3ZsaIF7fRNxerEkUucjzGj) | [Keyviem](https://open.spotify.com/artist/69Y1YezofG2Ljgnd7iUbjw), [Menor Bronx](https://open.spotify.com/artist/27vVGBA5f8N22Jmdf8Gs09) | [Cuando Me Lo M\*ME](https://open.spotify.com/album/6wKthQUdHXbM32pUMF3plh) | 2:47 |
 | 29 | [Seco](https://open.spotify.com/track/3HBKC7ziF2MyZVbCpRnepX) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Chocoleyrol](https://open.spotify.com/artist/2kF83E9c7WmW5XdqwUrJd2) | [Seco](https://open.spotify.com/album/1fZKSaHQfYIcQIW9N9vtJg) | 2:45 |
 | 30 | [Una Mala](https://open.spotify.com/track/1DZYB4iVFz8h7Yt0KRtqRF) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Jay santana prod](https://open.spotify.com/artist/1SSTq9e8PhjyYzv6QOsAkb) | [Una Mala](https://open.spotify.com/album/3zDdVDEZt95KNygGnGWGJU) | 1:42 |
-| 31 | [Celosa](https://open.spotify.com/track/7bdFHRijPM1oDlk6Lv4JSB) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Obreidy](https://open.spotify.com/artist/2a5TwZOhEyrA5OCzSOwwm0), [Fredilin Antonio Alvarez Santana](https://open.spotify.com/artist/45JTqT1SAh3DS4DEqW3y9M) | [Celosa](https://open.spotify.com/album/0PgqD8FRTArfiMXzhWRTgW) | 2:12 |
+| 31 | [Celosa](https://open.spotify.com/track/7bdFHRijPM1oDlk6Lv4JSB) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Obreidy](https://open.spotify.com/artist/2a5TwZOhEyrA5OCzSOwwm0) | [Celosa](https://open.spotify.com/album/0PgqD8FRTArfiMXzhWRTgW) | 2:12 |
 | 32 | [Mah Baby](https://open.spotify.com/track/0wEVQAs8GFAZpC94Yslavz) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Mah Baby](https://open.spotify.com/album/5RdqtQFd1tU1TjU6qge9tP) | 1:59 |
 | 33 | [Al Pelo](https://open.spotify.com/track/24NgRE8Lfi4YabmYTtlnXM) | [Shadow Blow](https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF), [212MUSIC](https://open.spotify.com/artist/64fS1PIu8pLViR5EZzvNLq) | [Al Pelo](https://open.spotify.com/album/23ELSYbS3mglKLPpK8UW2i) | 2:16 |
 | 34 | [El Mundo](https://open.spotify.com/track/0CiTmXtvmgxJEHxiS3nZhA) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [El Mundo](https://open.spotify.com/album/4Ti1hpJbNta68brPqO0vMD) | 2:42 |

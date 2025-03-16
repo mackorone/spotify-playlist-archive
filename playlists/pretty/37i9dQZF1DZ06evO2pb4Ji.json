@@ -1,12 +1,12 @@
 {
   "description": "This is League of Legends. The essential tracks, all in one playlist.",
-  "num_followers": 394319,
+  "num_followers": 394305,
   "original_name": "This Is League of Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAACj5w5Rd2bt1768HQUyIdFX",
+  "snapshot_id": "Z9NxgAAAAACQ6WeEcTDGbSnLiOUuIyGa",
   "tracks": [
     {
       "added_at": null,
@@ -315,30 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fantastic (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/0GqyJ9KqSEo1DlDnt1TIsg"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 184960,
-      "name": "Fantastic (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/5Qq9uvUXZU5zNDh0MlkBu8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/6sGWFXm5IKtTBMFdIhNB9C"
       },
@@ -363,6 +339,30 @@
       "duration_ms": 192881,
       "name": "RISE",
       "url": "https://open.spotify.com/track/69Sy7207dnixZ6w7RSV9Kb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fantastic (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/0GqyJ9KqSEo1DlDnt1TIsg"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 184960,
+      "name": "Fantastic (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/5Qq9uvUXZU5zNDh0MlkBu8"
     },
     {
       "added_at": null,
@@ -407,30 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sucker (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/7hQaRZQoy3R7ni0PzKajXT"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 224293,
-      "name": "Sucker (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/540k1IRl5UPMhVhpu1LRQ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Goodbye (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/7q2FV4zz7UvTr29VroExbu"
       },
@@ -451,6 +427,30 @@
       "duration_ms": 230985,
       "name": "Goodbye (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/50qY6EQTt33QAUQnDgbYOS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sucker (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/7hQaRZQoy3R7ni0PzKajXT"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 224293,
+      "name": "Sucker (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/540k1IRl5UPMhVhpu1LRQ3"
     },
     {
       "added_at": null,

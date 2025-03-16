@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 
 > The home of rage rap\. Cover: Yeat
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,520 likes - 65 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,741 likes - 65 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [GOOD CREDIT](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
+| 1 | [GOOD CREDIT \(with Kendrick Lamar\)](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
 | 2 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/7nCgpOjCZWL7hKFqmCSyXo) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Sugar Honey Iced Tea](https://open.spotify.com/album/4Qsc4at71izsrBdiJv3Kds) | 3:12 |
 | 3 | [Tyla](https://open.spotify.com/track/5JFOylCiD2CCfmMtaVECfv) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [BAD ASS F\*CKING KID](https://open.spotify.com/album/4mpTd22gLh4zNxJZJbcOxO) | 2:03 |
 | 4 | [delusional](https://open.spotify.com/track/5116BQqgzOZ24Dx0ZKkagU) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [delusional](https://open.spotify.com/album/2LHNo0LDY2AszQvSuAMXWy) | 2:11 |
 | 5 | [Enter The Dragon](https://open.spotify.com/track/6VN45skJHnnZ2oFIHA6wwQ) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Enter The Dragon / TEKTIME](https://open.spotify.com/album/0IuT1gNetRGeyzLdW5VTAg) | 1:51 |
 | 6 | [Excuse My French](https://open.spotify.com/track/5VgsVypakdkvcVkbIoXsap) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du), [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [CONGLOMERATE \(DELUXE\)](https://open.spotify.com/album/1OmkbDmyYrqfSLPwefZ8W3) | 1:27 |
 | 7 | [GEEK TIMË](https://open.spotify.com/track/32ioWMgkyA6mFcXJMggBoz) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [LYFESTYLE](https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc) | 2:50 |
-| 8 | [CRUSH](https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:53 |
+| 8 | [CRUSH \(with Travis Scott\)](https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:53 |
 | 9 | [Aye Rage](https://open.spotify.com/track/6DJFJDAkJ08Xs0NSqSOeUw) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [YourRAGE](https://open.spotify.com/artist/5hom1iOuFnM4ctlY6MzRbk) | [Aye Rage](https://open.spotify.com/album/6PnrtDw6cnjYjggPY9ZzkC) | 1:53 |
 | 10 | [Not An Option](https://open.spotify.com/track/1197AvSs0lMg5kNIGaeENm) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake 2](https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0) | 2:30 |
 | 11 | [gold](https://open.spotify.com/track/74PYQHEdWRBPtLcJh5tzJj) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [gold](https://open.spotify.com/album/6Ucd9PvaoiSlQXY8OOupkW) | 2:06 |

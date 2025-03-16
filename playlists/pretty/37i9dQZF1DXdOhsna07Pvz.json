@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 88796,
+  "num_followers": 88861,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 332133,
+      "name": "Sina",
+      "url": "https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Rita Lee",
         "url": "https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 234893,
       "name": "Chega Mais",
       "url": "https://open.spotify.com/track/4DIabg0zSDn6xoq810Spqn"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 332133,
-      "name": "Sina",
-      "url": "https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Brazilian Compilation Series, Vol. 2",
+        "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
+      },
+      "artists": [
+        {
+          "name": "Joutro Mundo",
+          "url": "https://open.spotify.com/artist/4MxrlfForvSCDswZBxZLR3"
+        }
+      ],
+      "duration_ms": 304144,
+      "name": "Nao Force",
+      "url": "https://open.spotify.com/track/0UuoMK1ZXkyXJcmHS2AFQD"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Roda de Funk",
         "url": "https://open.spotify.com/album/3AKNwgDdWfEDrPM384eY3S"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 191560,
       "name": "16 Toneladas",
       "url": "https://open.spotify.com/track/1CocWJfxH8sVh7tTYzszLe"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Brazilian Compilation Series, Vol. 2",
-        "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
-      },
-      "artists": [
-        {
-          "name": "Joutro Mundo",
-          "url": "https://open.spotify.com/artist/4MxrlfForvSCDswZBxZLR3"
-        }
-      ],
-      "duration_ms": 304144,
-      "name": "Nao Force",
-      "url": "https://open.spotify.com/track/0UuoMK1ZXkyXJcmHS2AFQD"
     },
     {
       "added_at": "2022-09-22 18:13:04",

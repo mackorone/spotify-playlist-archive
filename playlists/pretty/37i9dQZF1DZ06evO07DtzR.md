@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 
 > This is EGOIST\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,554 likes - 48 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,556 likes - 48 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 | 6 | [KABANERI OF THE IRON FORTRESS](https://open.spotify.com/track/5ltF6YRUpZNrEjZF7ky6eI) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [KABANERI OF THE IRON FORTRESS](https://open.spotify.com/album/08MF5DFbIV3DjEo9MfDLW2) | 4:51 |
 | 7 | [エウテルペ](https://open.spotify.com/track/0aAzBVTjeTY83SlwoWCEfv) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Departures \- Anata Ni Okuru Ai No Uta](https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy) | 3:48 |
 | 8 | [BANG!!!](https://open.spotify.com/track/4o1s691Qn6lUmFh1Bl28NG) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [BANG!!!](https://open.spotify.com/album/7JruDbtqHdtkxzIXBf6gjO) | 3:16 |
-| 9 | [当事者](https://open.spotify.com/track/69TMjHuBaLNRtMPopKWbdC) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [当事者](https://open.spotify.com/album/4BdgxEZaVzqaJYwYwJeoJn) | 4:01 |
-| 10 | [最後の花弁 \(The meaning of love\)](https://open.spotify.com/track/6P0Nb6NCHckoZtZI54XS2l) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [最後の花弁 \(The meaning of love\)](https://open.spotify.com/album/13yUbPloFlPSQoQ3Ju8DR3) | 3:51 |
+| 9 | [最後の花弁 \(The meaning of love\)](https://open.spotify.com/track/6P0Nb6NCHckoZtZI54XS2l) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [最後の花弁 \(The meaning of love\)](https://open.spotify.com/album/13yUbPloFlPSQoQ3Ju8DR3) | 3:51 |
+| 10 | [当事者](https://open.spotify.com/track/69TMjHuBaLNRtMPopKWbdC) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [当事者](https://open.spotify.com/album/4BdgxEZaVzqaJYwYwJeoJn) | 4:01 |
 | 11 | [英雄　運命の詩](https://open.spotify.com/track/2NAWetxu8cigewSiBR6WhU) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [英雄　運命の詩](https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r) | 4:44 |
 | 12 | [Gold](https://open.spotify.com/track/2tpiDrtRmRq5ZdQLQVaDmz) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Gold](https://open.spotify.com/album/0AMQOXe131J5SlkABq1ass) | 2:56 |
 | 13 | [Fallen](https://open.spotify.com/track/5AngW69uAboljtCBHZ6AsT) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Fallen](https://open.spotify.com/album/5DUPsFaK2t1wcaYc7khsAP) | 4:29 |
@@ -46,15 +46,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 | 36 | [Door](https://open.spotify.com/track/53MmtPvpScpwrk1Dr87yOG) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [リローデッド](https://open.spotify.com/album/7ISfH1G7GDz5VPAi200l2B) | 5:34 |
 | 37 | [名前のない怪物 \-TV Edit \-](https://open.spotify.com/track/71HUrLJqdnXi9w1Vvb5bPR) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物 \-TV Edit \-](https://open.spotify.com/album/6pYCnYN6J51Ky2doNPEKGl) | 1:42 |
 | 38 | [The Everlasting Guilty Crown \-TV Edit\-](https://open.spotify.com/track/2v38gEzNILLKvxrkX8NObo) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [The Everlasting Guilty Crown](https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5) | 1:36 |
-| 39 | [名前のない怪物 \-TV Edit\- <DAY version>](https://open.spotify.com/track/4lhRGkiHL6opuapwlpMUlV) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物 \-TV Edit\- <DAY version>](https://open.spotify.com/album/1lLiLkbIV9dwkyQ2blAzgD) | 1:30 |
-| 40 | [London Bridge is falling down](https://open.spotify.com/track/5x8Pla4awAAvyfmJG4Se2R) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [咲かせや咲かせ](https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7) | 2:23 |
+| 39 | [London Bridge is falling down](https://open.spotify.com/track/5x8Pla4awAAvyfmJG4Se2R) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [咲かせや咲かせ](https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7) | 2:23 |
+| 40 | [名前のない怪物 \-TV Edit\- <DAY version>](https://open.spotify.com/track/4lhRGkiHL6opuapwlpMUlV) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物 \-TV Edit\- <DAY version>](https://open.spotify.com/album/1lLiLkbIV9dwkyQ2blAzgD) | 1:30 |
 | 41 | [prelude](https://open.spotify.com/track/0TEyUJfLDQs2f3KHsxh4Ue) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物](https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG) | 0:36 |
 | 42 | [Fallen\-TV edit\-](https://open.spotify.com/track/1CYwRtu4PBxvkaWwE20byN) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Fallen\-TV edit\-](https://open.spotify.com/album/46rDtAexHCRaKZTa1dVd7y) | 1:29 |
-| 43 | [All Alone With You \-Instrumental\-](https://open.spotify.com/track/7elhr7ip89XjzWJS3XiwKk) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [All Alone With You](https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7) | 5:50 |
-| 44 | [Departures 〜あなたにおくるアイの歌〜 \-Instrumental\-](https://open.spotify.com/track/1O82mMEeNCTQZoiefCZLwn) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Departures \- Anata Ni Okuru Ai No Uta](https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy) | 4:14 |
+| 43 | [Departures 〜あなたにおくるアイの歌〜 \-Instrumental\-](https://open.spotify.com/track/1O82mMEeNCTQZoiefCZLwn) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Departures \- Anata Ni Okuru Ai No Uta](https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy) | 4:14 |
+| 44 | [All Alone With You \-Instrumental\-](https://open.spotify.com/track/7elhr7ip89XjzWJS3XiwKk) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [All Alone With You](https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7) | 5:50 |
 | 45 | [名前のない怪物 \-Instrumental\-](https://open.spotify.com/track/1pNSSNluazasQujT6XiCip) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物](https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG) | 5:17 |
 | 46 | [The Everlasting Guilty Crown BOOM BOOM SATELLITES remix \-The Last Moment Of The Dawn\-](https://open.spotify.com/track/7HkFBmpnbzUPMz3vanDPjO) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [The Everlasting Guilty Crown](https://open.spotify.com/album/2tXcG38XstJAsjlcoDmnxC) | 7:55 |
-| 47 | [All Alone With You \(TV Edit\) \-Instrumental\-](https://open.spotify.com/track/1NevfY3IplHIbDdiC5lqr4) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [All Alone With You](https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7) | 1:31 |
-| 48 | [Departures 〜あなたにおくるアイの歌〜 \-BOOM BOOM SATELLITES Remix\-](https://open.spotify.com/track/4shRfuRkwt9ydnL1gTr0dA) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Departures \- Anata Ni Okuru Ai No Uta](https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy) | 7:11 |
+| 47 | [Departures 〜あなたにおくるアイの歌〜 \-BOOM BOOM SATELLITES Remix\-](https://open.spotify.com/track/4shRfuRkwt9ydnL1gTr0dA) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Departures \- Anata Ni Okuru Ai No Uta](https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy) | 7:11 |
+| 48 | [All Alone With You \(TV Edit\) \-Instrumental\-](https://open.spotify.com/track/1NevfY3IplHIbDdiC5lqr4) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [All Alone With You](https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7) | 1:31 |
 
-Snapshot ID: `Z9IgAAAAAAA27B/vT31zHaQZENOLgj35`
+Snapshot ID: `Z9NxgAAAAAAWvKMml88ycosW+a1SFA2V`

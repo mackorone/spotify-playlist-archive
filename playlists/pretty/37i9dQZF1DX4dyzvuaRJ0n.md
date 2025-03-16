@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance & electronic hits\. Cover: Calvin Harris
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,806,042 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,806,002 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 54 | [Forever Baby](https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Janet Planet](https://open.spotify.com/artist/6WaeCF7BKSHfUuOj4ggRoq) | [Sentimental](https://open.spotify.com/album/15JwpSbmrg94260qjQQYse) | 3:18 |
 | 55 | [Raving In The Studio](https://open.spotify.com/track/6TAbRIua9JOTmqGMjGWe4d) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Raving In The Studio](https://open.spotify.com/album/46WNfH3xNv7P6m3WplO0mO) | 3:03 |
 | 56 | [NOW IT'S GONE](https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7) | [IN PARALLEL](https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H) | [NOW IT'S GONE](https://open.spotify.com/album/3OgPt2ujG9tWWoltAU4lbo) | 2:23 |
-| 57 | [Yosemite](https://open.spotify.com/track/2I7Ph7hRkjOMgy9WCsE4F3) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Yosemite](https://open.spotify.com/album/5fDFirEEe5owUhblkIy23d) | 4:26 |
+| 57 | [Yosemite \- Edit](https://open.spotify.com/track/2I7Ph7hRkjOMgy9WCsE4F3) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Yosemite](https://open.spotify.com/album/5fDFirEEe5owUhblkIy23d) | 4:26 |
 | 58 | [Getting Ready For The Party](https://open.spotify.com/track/6HUZoMili2b3e6X81OPIQd) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [slash 011 \- Getting Ready For The Party](https://open.spotify.com/album/1xLZI4sXn3cM5NfeilgDh0) | 3:19 |
 | 59 | [tell you straight](https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [tell you straight](https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq) | 2:04 |
 | 60 | [Dirty Cash \(Money Talks\)](https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [The Adventures Of Stevie V](https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2) | [Dirty Cash \(Money Talks\)](https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj) | 3:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 
 > This is Ventino\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,131 likes - 46 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,133 likes - 46 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 | 25 | [Caramelo \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/5rQ55a8vrrmKTIOcruNajD) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 2:38 |
 | 26 | [Besos De Bar](https://open.spotify.com/track/18YogXh8QbFtu5p0xCdA5p) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:55 |
 | 27 | [Soltar Tu Mano \(feat\. Román Torres\)](https://open.spotify.com/track/0PFPvBVuzKoQTVu9jkePzj) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Román Torres](https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg) | [Otra Noche](https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27) | 3:15 |
-| 28 | [Vámonos Antes](https://open.spotify.com/track/0w7ywHLY22Fb2uQMCd0YD5) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Vámonos Antes](https://open.spotify.com/album/42IH1jOQlgWayPXVBoTfBI) | 3:30 |
+| 28 | [Cosas Pendientes](https://open.spotify.com/track/7ulwug8z6klrIGZ2hjl47c) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Cosas Pendientes](https://open.spotify.com/album/1rdheyQu3kEBiGOT6l4jFa) | 3:01 |
 | 29 | [Explicación \(feat\. Santiago Deluchi\) \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/6R5PCnAowVAFAgH85Ru5vX) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm), [Santiago Deluchi](https://open.spotify.com/artist/4FDLd6nJ3NvbKRSORCS8yD) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 2:54 |
 | 30 | [Inevitables](https://open.spotify.com/track/4JMUQ3AAgymNlyhHkmnpXj) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:51 |
-| 31 | [Cosas Pendientes](https://open.spotify.com/track/7ulwug8z6klrIGZ2hjl47c) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Cosas Pendientes](https://open.spotify.com/album/1rdheyQu3kEBiGOT6l4jFa) | 3:01 |
+| 31 | [Vámonos Antes](https://open.spotify.com/track/0w7ywHLY22Fb2uQMCd0YD5) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Vámonos Antes](https://open.spotify.com/album/42IH1jOQlgWayPXVBoTfBI) | 3:30 |
 | 32 | [Por Qué Te Vas](https://open.spotify.com/track/6e9x0Bw1mQEM84tR403zl3) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Por Qué Te Vas](https://open.spotify.com/album/6tu0Ff3lJRlFva2xMh7zB3) | 3:21 |
 | 33 | [Popurrí de Juan Gabriel](https://open.spotify.com/track/3gDoyUvY3ok0EJfpu1lSn0) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Popurrí de Juan Gabriel](https://open.spotify.com/album/6Q9uzSD6sQbbWMg6oUFrAQ) | 4:54 |
 | 34 | [Para Variar](https://open.spotify.com/track/0YwTlwZc4IcxQW3HqavRwl) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:59 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 | 45 | [Mariposas](https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Mariposas](https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv) | 2:30 |
 | 46 | [Más Fuertes \(feat\. Andrés Cepeda, Francy, Pedrina & Martina La Peligrosa\)](https://open.spotify.com/track/1Almzz97LopTjEDLILaNEE) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1), [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [Más Fuertes \(feat\. Andrés Cepeda, Francy, Pedrina & Martina La Peligrosa\)](https://open.spotify.com/album/1PMFRNKwAlOrOg2tmIcfgR) | 3:03 |
 
-Snapshot ID: `Z9IgAAAAAADbLGI01cswnzSzqNOclPwo`
+Snapshot ID: `Z9NxgAAAAAArFkEUNTBwFBdgrDdYs6Eb`

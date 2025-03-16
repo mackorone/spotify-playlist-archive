@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon.",
-  "num_followers": 26110,
+  "num_followers": 26118,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-03-10 16:54:56",
       "album": {
-        "name": "Boldogtalans\u00e1g",
-        "url": "https://open.spotify.com/album/61nJQwXqRRvAcvWWsclK18"
-      },
-      "artists": [
-        {
-          "name": "BSW",
-          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
-        }
-      ],
-      "duration_ms": 186091,
-      "name": "Boldogtalans\u00e1g",
-      "url": "https://open.spotify.com/track/1NJqCgWaY3kwdt2f7M1iui"
-    },
-    {
-      "added_at": "2025-03-10 16:54:56",
-      "album": {
         "name": "NINCS HOLNAP",
         "url": "https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 150295,
       "name": "CARTIER",
       "url": "https://open.spotify.com/track/65zjjkUwz8KIPNypaHRX9m"
+    },
+    {
+      "added_at": "2025-03-10 16:54:56",
+      "album": {
+        "name": "Boldogtalans\u00e1g",
+        "url": "https://open.spotify.com/album/61nJQwXqRRvAcvWWsclK18"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        }
+      ],
+      "duration_ms": 186091,
+      "name": "Boldogtalans\u00e1g",
+      "url": "https://open.spotify.com/track/1NJqCgWaY3kwdt2f7M1iui"
     },
     {
       "added_at": "2025-03-10 16:54:56",
@@ -1095,38 +1095,22 @@
     {
       "added_at": "2025-03-10 16:54:56",
       "album": {
-        "name": "Orgonabokor",
-        "url": "https://open.spotify.com/album/4xn0VgbSMtx1mXopS3bYat"
+        "name": "A b\u00e1lban",
+        "url": "https://open.spotify.com/album/0x89eDYKFXBDebJqzTyt5b"
       },
       "artists": [
         {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        }
-      ],
-      "duration_ms": 215596,
-      "name": "Orgonabokor",
-      "url": "https://open.spotify.com/track/6hWRlcm3CHovEzXNjsIJUG"
-    },
-    {
-      "added_at": "2025-03-10 16:54:56",
-      "album": {
-        "name": "Lidokain",
-        "url": "https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ"
-      },
-      "artists": [
-        {
-          "name": "BSW",
-          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+          "name": "Mehringer",
+          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
         },
         {
-          "name": "Nagy Bogi",
-          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+          "name": "sosehol",
+          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
         }
       ],
-      "duration_ms": 154571,
-      "name": "J\u00e9gsz\u00edv\u0171 l\u00e1ny",
-      "url": "https://open.spotify.com/track/167o6hXLQAvk4b4R6kXh3U"
+      "duration_ms": 234000,
+      "name": "\u00fagy unom",
+      "url": "https://open.spotify.com/track/0h3Ua52yOapva267D0QoQw"
     },
     {
       "added_at": "2025-03-10 16:54:56",
@@ -1147,6 +1131,26 @@
       "duration_ms": 144000,
       "name": "15",
       "url": "https://open.spotify.com/track/3bccJlU6zh1SZ79jvduQ06"
+    },
+    {
+      "added_at": "2025-03-10 16:54:56",
+      "album": {
+        "name": "Lidokain",
+        "url": "https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        },
+        {
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+        }
+      ],
+      "duration_ms": 154571,
+      "name": "J\u00e9gsz\u00edv\u0171 l\u00e1ny",
+      "url": "https://open.spotify.com/track/167o6hXLQAvk4b4R6kXh3U"
     },
     {
       "added_at": "2025-03-10 16:54:56",
@@ -1187,26 +1191,6 @@
     {
       "added_at": "2025-03-10 16:54:56",
       "album": {
-        "name": "A b\u00e1lban",
-        "url": "https://open.spotify.com/album/0x89eDYKFXBDebJqzTyt5b"
-      },
-      "artists": [
-        {
-          "name": "Mehringer",
-          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
-        },
-        {
-          "name": "sosehol",
-          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "\u00fagy unom",
-      "url": "https://open.spotify.com/track/0h3Ua52yOapva267D0QoQw"
-    },
-    {
-      "added_at": "2025-03-10 16:54:56",
-      "album": {
         "name": "BarnaL\u00e1ny",
         "url": "https://open.spotify.com/album/3C8d2NikjMWecthJ0A9IKJ"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 235102,
       "name": "BarnaL\u00e1ny",
       "url": "https://open.spotify.com/track/0JL2yE2whAosfSHgRDqitI"
+    },
+    {
+      "added_at": "2025-03-10 16:54:56",
+      "album": {
+        "name": "Orgonabokor",
+        "url": "https://open.spotify.com/album/4xn0VgbSMtx1mXopS3bYat"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "duration_ms": 215596,
+      "name": "Orgonabokor",
+      "url": "https://open.spotify.com/track/6hWRlcm3CHovEzXNjsIJUG"
     },
     {
       "added_at": "2025-03-10 16:54:56",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2025-03-10 16:54:56",
       "album": {
-        "name": "Orgonabokor (Part 2)",
-        "url": "https://open.spotify.com/album/3NKZ2rRG5MGpdF897X3zr2"
-      },
-      "artists": [
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        },
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 173100,
-      "name": "Entit\u00e1s",
-      "url": "https://open.spotify.com/track/3mZBqTbxSpyY5cZfbj5reu"
-    },
-    {
-      "added_at": "2025-03-10 16:54:56",
-      "album": {
         "name": "zek\u0151",
         "url": "https://open.spotify.com/album/7fSpOvhym4ns1HJwa6Igag"
       },
@@ -1403,6 +1383,26 @@
     {
       "added_at": "2025-03-10 16:54:56",
       "album": {
+        "name": "Orgonabokor (Part 2)",
+        "url": "https://open.spotify.com/album/3NKZ2rRG5MGpdF897X3zr2"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        },
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 173100,
+      "name": "Entit\u00e1s",
+      "url": "https://open.spotify.com/track/3mZBqTbxSpyY5cZfbj5reu"
+    },
+    {
+      "added_at": "2025-03-10 16:54:56",
+      "album": {
         "name": "skatulya I",
         "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
       },
@@ -1451,18 +1451,22 @@
     {
       "added_at": "2025-03-10 16:54:56",
       "album": {
-        "name": "A KARRIEREM LESZ*ROM",
-        "url": "https://open.spotify.com/album/7nOt3GoNNe2uiLrMsFgmm4"
+        "name": "Isten Vezet",
+        "url": "https://open.spotify.com/album/1Jw4iKegHWiohgkA6lV84g"
       },
       "artists": [
         {
-          "name": "LMEN PRALA",
-          "url": "https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj"
+          "name": "Jaber",
+          "url": "https://open.spotify.com/artist/6T2yephqss2R5uK7CmfLgo"
+        },
+        {
+          "name": "Sean Price",
+          "url": "https://open.spotify.com/artist/2x6jz70u3sZq75tW10akUW"
         }
       ],
-      "duration_ms": 135111,
-      "name": "A KARRIEREM LESZ*ROM",
-      "url": "https://open.spotify.com/track/6k2M8Iuxr1m7nWzNKOu2jx"
+      "duration_ms": 204878,
+      "name": "Isten Vezet",
+      "url": "https://open.spotify.com/track/0t86ZsEdusQx0YhHLoPW8u"
     }
   ],
   "unique_name": "Most Men\u0151",

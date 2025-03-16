@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: 7co
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,338 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,350 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 24 | [PARADISE](https://open.spotify.com/track/6JM7bl5UCaKeVujyjcdOBy) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [sheidA](https://open.spotify.com/artist/4cCmlLDD6JcIEM4RaDIxaZ) | [PARADISE](https://open.spotify.com/album/0X51jKoJxe1oh1HxVcboHR) | 3:05 |
 | 25 | [心の奥](https://open.spotify.com/track/0tbeRI5RFnZlqufHP7bMnS) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [溜息](https://open.spotify.com/album/3U0cY8IL5mhYjIveWhZa6g) | 2:40 |
 | 26 | [愛と思って](https://open.spotify.com/track/681r5rka5UNdv525ZMhGw0) | [市川虹響](https://open.spotify.com/artist/1L5Iv5i6t5TRiyecQt8xZx) | [愛と思って](https://open.spotify.com/album/3D7YZlr7qMFIYkpqO7CHPX) | 3:24 |
-| 27 | [Endless Weekend](https://open.spotify.com/track/30flVHNe2WBc4dFk83icKH) | [KEIGO](https://open.spotify.com/artist/738LYntkIJpIi2HnA9Ybq4) | [Endless Weekend](https://open.spotify.com/album/5NieS1xgry4d1NeWq0kK6M) | 3:42 |
+| 27 | [Endless Weekend](https://open.spotify.com/track/30flVHNe2WBc4dFk83icKH) | [keigo](https://open.spotify.com/artist/68cAP4Go5kmvViP9SHhlaJ) | [Endless Weekend](https://open.spotify.com/album/5NieS1xgry4d1NeWq0kK6M) | 3:42 |
 | 28 | [Higher](https://open.spotify.com/track/2tMlRdT0MtYBWbMNlX63ym) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Blue Inside You](https://open.spotify.com/album/6ktH5R1nwPHZuH0tFppChA) | 3:41 |
 | 29 | [meaning](https://open.spotify.com/track/23rFnCXBIlKpxuKSorAyeL) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meaning](https://open.spotify.com/album/1eNXkTH3nkNUcWbacD6zyW) | 3:44 |
 | 30 | [独白](https://open.spotify.com/track/6KGVTqKatNlWRNBvkJl0px) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [独白](https://open.spotify.com/album/3bohD8rUa1U2O5zMVAfLHf) | 3:52 |

@@ -1,6 +1,6 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 6830,
+  "num_followers": 6834,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
+        "name": "Jesus Music",
+        "url": "https://open.spotify.com/album/5KC7lsKPZZs9d85B7kEGba"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "Made For Heaven",
+      "url": "https://open.spotify.com/track/3Wwcd5hYKCLpocRJfZVdbQ"
+    },
+    {
+      "added_at": "2024-12-05 23:59:00",
+      "album": {
         "name": "Chances",
         "url": "https://open.spotify.com/album/42cHDu5hVDctyXV4fAe9UB"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 243522,
       "name": "Chances",
       "url": "https://open.spotify.com/track/58jKfEKmPpXkHx9ujeAzr8"
-    },
-    {
-      "added_at": "2024-12-05 23:59:00",
-      "album": {
-        "name": "Jesus Music",
-        "url": "https://open.spotify.com/album/5KC7lsKPZZs9d85B7kEGba"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Made For Heaven",
-      "url": "https://open.spotify.com/track/3Wwcd5hYKCLpocRJfZVdbQ"
     },
     {
       "added_at": "2024-12-05 23:59:00",

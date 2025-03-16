@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > Pop, but it's different\. Cover: LE SSERAFIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,150 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,179 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 42 | [Late to the Party](https://open.spotify.com/track/2Ks2VjMJthZ5sW7K7LljKS) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Late to the Party](https://open.spotify.com/album/0J7ZYI4k5S2uw7MW1BEtXN) | 3:12 |
 | 43 | [I DO ME](https://open.spotify.com/track/5PclMa9Pxs1OFWSAS6Nid9) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [I DO ME](https://open.spotify.com/album/2w0HCMkBX7IRscliTVByqB) | 3:10 |
 | 44 | [Punching](https://open.spotify.com/track/4cIyiehjr312TX6exeLkiA) | [Akeira Jade](https://open.spotify.com/artist/1nA7MM0soxDlkwBAJrQVCF) | [Punching](https://open.spotify.com/album/0nVCt8PwlmgdVdkBjKnjrp) | 3:10 |
-| 45 | [Remains](https://open.spotify.com/track/2pGHd3wRM244IOFAC34FrX) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Remains](https://open.spotify.com/album/30wR8ockAAhNsBx57ocssO) | 3:16 |
+| 45 | [remains](https://open.spotify.com/track/2pGHd3wRM244IOFAC34FrX) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [remains](https://open.spotify.com/album/30wR8ockAAhNsBx57ocssO) | 3:16 |
 | 46 | [New Beginnings](https://open.spotify.com/track/0THm1ju74NvtECmp6wGwVL) | [Thea Dora](https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD) | [New Beginnings](https://open.spotify.com/album/5IJZeiAtnWgxpMQW56JLjv) | 3:04 |
 | 47 | [I Just Missed A Call](https://open.spotify.com/track/0nWMjJ0b226HZP139cPKqw) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Hilda](https://open.spotify.com/artist/0gNDtB2LFXVzalP35MXaql) | [Digital Notes](https://open.spotify.com/album/6VnvZ5urI6jcvIJongGShJ) | 2:26 |
 | 48 | [I Wish I Could Be Cynical](https://open.spotify.com/track/7BGG9OmmzcyCaXp7d40vOG) | [Christian Cherry](https://open.spotify.com/artist/6rmnezB7LuaNkZ8OKeB3tK) | [I Wish I Could Be Cynical](https://open.spotify.com/album/66g7wnb5Rrgsfchz7iGAWr) | 2:48 |

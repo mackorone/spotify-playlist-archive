@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 554294,
+  "num_followers": 554312,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 208505,
-      "name": "Hallucinate",
-      "url": "https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 176766,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 208505,
+      "name": "Hallucinate",
+      "url": "https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg"
     },
     {
       "added_at": "2025-02-07 03:01:15",

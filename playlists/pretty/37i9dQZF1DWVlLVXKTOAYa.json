@@ -1,6 +1,6 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1087722,
+  "num_followers": 1087719,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-03-13 23:00:30",
       "album": {
-        "name": "Born With a Broken Heart",
-        "url": "https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 208956,
-      "name": "Born With a Broken Heart",
-      "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
-    },
-    {
-      "added_at": "2025-03-13 23:00:30",
-      "album": {
         "name": "MAYHEM",
         "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 244915,
       "name": "Vanish Into You",
       "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
+    },
+    {
+      "added_at": "2025-03-13 23:00:30",
+      "album": {
+        "name": "Born With a Broken Heart",
+        "url": "https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 208956,
+      "name": "Born With a Broken Heart",
+      "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
     },
     {
       "added_at": "2025-03-13 23:00:30",
@@ -451,6 +451,22 @@
     {
       "added_at": "2025-03-13 23:00:30",
       "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 213337,
+      "name": "Zombieboy",
+      "url": "https://open.spotify.com/track/0ElVpg9XIswx3XWs6kUj6a"
+    },
+    {
+      "added_at": "2025-03-13 23:00:30",
+      "album": {
         "name": "Too Much",
         "url": "https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 187660,
       "name": "Crashing (with Kali Uchis)",
       "url": "https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW"
-    },
-    {
-      "added_at": "2025-03-13 23:00:30",
-      "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 213337,
-      "name": "Zombieboy",
-      "url": "https://open.spotify.com/track/0ElVpg9XIswx3XWs6kUj6a"
     },
     {
       "added_at": "2025-03-13 23:00:30",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-03-13 23:00:30",
       "album": {
-        "name": "We Hug Now",
-        "url": "https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg"
-      },
-      "artists": [
-        {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
-        }
-      ],
-      "duration_ms": 248821,
-      "name": "We Hug Now",
-      "url": "https://open.spotify.com/track/1In22zMILdinxdZng26irr"
-    },
-    {
-      "added_at": "2025-03-13 23:00:30",
-      "album": {
         "name": "Chasing Paradise",
         "url": "https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 180091,
       "name": "Chasing Paradise",
       "url": "https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv"
+    },
+    {
+      "added_at": "2025-03-13 23:00:30",
+      "album": {
+        "name": "We Hug Now",
+        "url": "https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 248821,
+      "name": "We Hug Now",
+      "url": "https://open.spotify.com/track/1In22zMILdinxdZng26irr"
     },
     {
       "added_at": "2025-03-13 23:00:30",
@@ -627,18 +627,18 @@
     {
       "added_at": "2025-03-13 23:00:30",
       "album": {
-        "name": "High Fashion",
-        "url": "https://open.spotify.com/album/5xkuXv7sF9nFqO5fYn6l7M"
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
       },
       "artists": [
         {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 198172,
-      "name": "High Fashion",
-      "url": "https://open.spotify.com/track/3m1LiSq0rio8k0yYlusWxV"
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
     },
     {
       "added_at": "2025-03-13 23:00:30",
@@ -659,6 +659,22 @@
     {
       "added_at": "2025-03-13 23:00:30",
       "album": {
+        "name": "High Fashion",
+        "url": "https://open.spotify.com/album/5xkuXv7sF9nFqO5fYn6l7M"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 198172,
+      "name": "High Fashion",
+      "url": "https://open.spotify.com/track/3m1LiSq0rio8k0yYlusWxV"
+    },
+    {
+      "added_at": "2025-03-13 23:00:30",
+      "album": {
         "name": "Scared Of Loving You",
         "url": "https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 110221,
       "name": "Scared Of Loving You",
       "url": "https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct"
-    },
-    {
-      "added_at": "2025-03-13 23:00:30",
-      "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
     },
     {
       "added_at": "2025-03-13 23:00:30",
@@ -871,6 +871,22 @@
     {
       "added_at": "2025-03-13 23:00:30",
       "album": {
+        "name": "Not At This Party",
+        "url": "https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 212437,
+      "name": "Not At This Party",
+      "url": "https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di"
+    },
+    {
+      "added_at": "2025-03-13 23:00:30",
+      "album": {
         "name": "All The Love",
         "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 188127,
       "name": "All The Love",
       "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
-    },
-    {
-      "added_at": "2025-03-13 23:00:30",
-      "album": {
-        "name": "IT girl",
-        "url": "https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG"
-      },
-      "artists": [
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
-        }
-      ],
-      "duration_ms": 153718,
-      "name": "IT girl",
-      "url": "https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh"
     },
     {
       "added_at": "2025-03-13 23:00:30",
@@ -919,18 +919,18 @@
     {
       "added_at": "2025-03-13 23:00:30",
       "album": {
-        "name": "Not At This Party",
-        "url": "https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t"
+        "name": "IT girl",
+        "url": "https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG"
       },
       "artists": [
         {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
         }
       ],
-      "duration_ms": 212437,
-      "name": "Not At This Party",
-      "url": "https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di"
+      "duration_ms": 153718,
+      "name": "IT girl",
+      "url": "https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh"
     },
     {
       "added_at": "2025-03-13 23:00:30",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-03-13 23:00:30",
       "album": {
-        "name": "I\u2019ve seen ur ex",
-        "url": "https://open.spotify.com/album/5zumfHJnOknVV1xNWhUF54"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 207874,
-      "name": "I\u2019ve seen ur ex",
-      "url": "https://open.spotify.com/track/5NsCrja8hjnneu6sqQld2j"
-    },
-    {
-      "added_at": "2025-03-13 23:00:30",
-      "album": {
         "name": "SALVATION",
         "url": "https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7"
       },
@@ -1103,6 +1087,54 @@
     {
       "added_at": "2025-03-13 23:00:30",
       "album": {
+        "name": "I\u2019ve seen ur ex",
+        "url": "https://open.spotify.com/album/5zumfHJnOknVV1xNWhUF54"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 207874,
+      "name": "I\u2019ve seen ur ex",
+      "url": "https://open.spotify.com/track/5NsCrja8hjnneu6sqQld2j"
+    },
+    {
+      "added_at": "2025-03-13 23:00:30",
+      "album": {
+        "name": "Still Bad",
+        "url": "https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 208585,
+      "name": "Still Bad",
+      "url": "https://open.spotify.com/track/5UpdcedkGcuishA7jlnH8W"
+    },
+    {
+      "added_at": "2025-03-13 23:00:30",
+      "album": {
+        "name": "Let Me In",
+        "url": "https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 228449,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc"
+    },
+    {
+      "added_at": "2025-03-13 23:00:30",
+      "album": {
         "name": "Songs I Cry 2",
         "url": "https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY"
       },
@@ -1115,6 +1147,38 @@
       "duration_ms": 192818,
       "name": "How I Love You",
       "url": "https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS"
+    },
+    {
+      "added_at": "2025-03-13 23:00:30",
+      "album": {
+        "name": "20 Years From Now",
+        "url": "https://open.spotify.com/album/4lRXKH3vPERvxgS9qdP7Sq"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 174735,
+      "name": "Love Worth Saving",
+      "url": "https://open.spotify.com/track/3pg1HtWCkZOQtxp2jDKwTJ"
+    },
+    {
+      "added_at": "2025-03-13 23:00:30",
+      "album": {
+        "name": "FUFN (Fuck You For Now)",
+        "url": "https://open.spotify.com/album/2q2NWhj9rd5WnKokMmapIq"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "duration_ms": 215094,
+      "name": "FUFN (Fuck You For Now)",
+      "url": "https://open.spotify.com/track/7hWESP9salkKYucipe5W99"
     },
     {
       "added_at": "2025-03-13 23:00:30",
@@ -1139,6 +1203,22 @@
     {
       "added_at": "2025-03-13 23:00:30",
       "album": {
+        "name": "Too Pretty For Buffalo",
+        "url": "https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 236525,
+      "name": "Too Pretty For Buffalo",
+      "url": "https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR"
+    },
+    {
+      "added_at": "2025-03-13 23:00:30",
+      "album": {
         "name": "21st Century Cool Girl",
         "url": "https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO"
       },
@@ -1155,22 +1235,6 @@
     {
       "added_at": "2025-03-13 23:00:30",
       "album": {
-        "name": "20 Years From Now",
-        "url": "https://open.spotify.com/album/4lRXKH3vPERvxgS9qdP7Sq"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 174735,
-      "name": "Love Worth Saving",
-      "url": "https://open.spotify.com/track/3pg1HtWCkZOQtxp2jDKwTJ"
-    },
-    {
-      "added_at": "2025-03-13 23:00:30",
-      "album": {
         "name": "If You're Looking For A New Best Friend",
         "url": "https://open.spotify.com/album/6ybro3yXc4lgGuN81AGcYO"
       },
@@ -1183,22 +1247,6 @@
       "duration_ms": 110684,
       "name": "Don't Panic",
       "url": "https://open.spotify.com/track/4a80lLYQMh00A2JTSrfilk"
-    },
-    {
-      "added_at": "2025-03-13 23:00:30",
-      "album": {
-        "name": "Too Pretty For Buffalo",
-        "url": "https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY"
-      },
-      "artists": [
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 236525,
-      "name": "Too Pretty For Buffalo",
-      "url": "https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR"
     },
     {
       "added_at": "2025-03-13 23:00:30",
@@ -1323,6 +1371,22 @@
     {
       "added_at": "2025-03-13 23:00:30",
       "album": {
+        "name": "Sex, Drugs & Existential Dread",
+        "url": "https://open.spotify.com/album/0Syfp5gxI3H1IAVPBBx4O0"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 155571,
+      "name": "Sex, Drugs & Existential Dread",
+      "url": "https://open.spotify.com/track/6QNvGDyclysWjq7QQcWHAk"
+    },
+    {
+      "added_at": "2025-03-13 23:00:30",
+      "album": {
         "name": "We're Not The Same",
         "url": "https://open.spotify.com/album/5LOJuIdDNs51jfgc3EeBKb"
       },
@@ -1339,22 +1403,6 @@
     {
       "added_at": "2025-03-13 23:00:30",
       "album": {
-        "name": "Let Me In",
-        "url": "https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 228449,
-      "name": "Let Me In",
-      "url": "https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc"
-    },
-    {
-      "added_at": "2025-03-13 23:00:30",
-      "album": {
         "name": "Never Look Down",
         "url": "https://open.spotify.com/album/2x7SaulIo7LlGEx7EYAz1m"
       },
@@ -1367,22 +1415,6 @@
       "duration_ms": 217960,
       "name": "Never Look Down",
       "url": "https://open.spotify.com/track/5QTfLHc6qfsWCrosur6LBb"
-    },
-    {
-      "added_at": "2025-03-13 23:00:30",
-      "album": {
-        "name": "Sex, Drugs & Existential Dread",
-        "url": "https://open.spotify.com/album/0Syfp5gxI3H1IAVPBBx4O0"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 155571,
-      "name": "Sex, Drugs & Existential Dread",
-      "url": "https://open.spotify.com/track/6QNvGDyclysWjq7QQcWHAk"
     },
     {
       "added_at": "2025-03-13 23:00:30",
@@ -1631,22 +1663,6 @@
     {
       "added_at": "2025-03-13 23:00:30",
       "album": {
-        "name": "Still Bad",
-        "url": "https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 208585,
-      "name": "Still Bad",
-      "url": "https://open.spotify.com/track/5UpdcedkGcuishA7jlnH8W"
-    },
-    {
-      "added_at": "2025-03-13 23:00:30",
-      "album": {
         "name": "Why Keep Trying?",
         "url": "https://open.spotify.com/album/3UUWAoL4MspBet1B7lNJNX"
       },
@@ -1663,38 +1679,18 @@
     {
       "added_at": "2025-03-13 23:00:30",
       "album": {
-        "name": "When We Kiss",
-        "url": "https://open.spotify.com/album/1GPY2MwnSFIT0zVyKaeO0L"
+        "name": "Only Love",
+        "url": "https://open.spotify.com/album/4WjiBXuiBrFqkRgIG9OCfr"
       },
       "artists": [
         {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+          "name": "Mia Wray",
+          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
         }
       ],
-      "duration_ms": 212682,
-      "name": "When We Kiss",
-      "url": "https://open.spotify.com/track/2OlFA7WMfBtr1JvONddJaI"
-    },
-    {
-      "added_at": "2025-03-13 23:00:30",
-      "album": {
-        "name": "29 days",
-        "url": "https://open.spotify.com/album/20FGoymgA5kKqKUMOvZU5R"
-      },
-      "artists": [
-        {
-          "name": "Cazzi Opeia",
-          "url": "https://open.spotify.com/artist/1OKyf1iS27lqvUFebKrbee"
-        },
-        {
-          "name": "Eagle-Eye Cherry",
-          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
-        }
-      ],
-      "duration_ms": 214615,
-      "name": "29 days",
-      "url": "https://open.spotify.com/track/1DQ4r02CKWjK0Y4XEgiHl2"
+      "duration_ms": 259773,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/4fE3PQDHE50vrcqN8ElxDr"
     }
   ],
   "unique_name": "Pop Right Now",

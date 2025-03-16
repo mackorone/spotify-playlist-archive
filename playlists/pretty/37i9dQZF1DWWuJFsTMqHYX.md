@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,358 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,458 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 45 | [Matinfa](https://open.spotify.com/track/3oUudjdOdEJI8JRCIPV3qj) | [Etran Finatawa](https://open.spotify.com/artist/4loyFcpdGnVsJRk2pgv6qX) | [The Sahara Sessions](https://open.spotify.com/album/0z8AQ0l95AM4DzQDBJLTzX) | 5:54 |
 | 46 | [Soubour](https://open.spotify.com/track/6myCSm2QEXMrgtUxVN313f) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb) | 3:32 |
 | 47 | [Fransa](https://open.spotify.com/track/3N6ddWSmrMFvZkGFBU4Ike) | [Kel Assouf](https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9) | [Black Tenere](https://open.spotify.com/album/2szNhyx4lm9LoUU8KnUN6b) | 4:41 |
-| 48 | [Hona](https://open.spotify.com/track/4iYvyAFkX9jdLe7X7o2p4V) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mbalimaou](https://open.spotify.com/album/58jcdCnplCcyrBUU1lfmXG) | 5:37 |
-| 49 | [Afous Dafous](https://open.spotify.com/track/36yiMWZzACLXonEZrw4gp1) | [Tartit](https://open.spotify.com/artist/7tnGqjFwUewoWAkNofVV6Q) | [Tartit: Amankor / The Exile](https://open.spotify.com/album/08lhNsxIviCV0TQrVIqeuw) | 3:12 |
+| 48 | [Afous Dafous](https://open.spotify.com/track/36yiMWZzACLXonEZrw4gp1) | [Tartit](https://open.spotify.com/artist/7tnGqjFwUewoWAkNofVV6Q) | [Tartit: Amankor / The Exile](https://open.spotify.com/album/08lhNsxIviCV0TQrVIqeuw) | 3:12 |
+| 49 | [Hona](https://open.spotify.com/track/4iYvyAFkX9jdLe7X7o2p4V) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mbalimaou](https://open.spotify.com/album/58jcdCnplCcyrBUU1lfmXG) | 5:37 |
 | 50 | [Amoss Idjraw](https://open.spotify.com/track/2SJfn6UQ22K1VCg5QAcrRq) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Amoss Idjraw](https://open.spotify.com/album/1W63TjKcqGLBhODnIZHIdl) | 4:37 |
 
 Snapshot ID: `Z7TGZgAAAADDIOIgto8EQ2fH391bm+m0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: MOLIY
 
-[Spotify](https://open.spotify.com/user/spotify) - 980,485 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 980,451 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 2 | [Be There Still](https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Be There Still](https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL) | 3:15 |
 | 3 | [father](https://open.spotify.com/track/0PQ33KiYJD1XPsP6oA1GYn) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [father](https://open.spotify.com/album/3fjGRYQv5YtTTyqviMYN3v) | 1:45 |
 | 4 | [Honestly \(Feat\. Blanco\)](https://open.spotify.com/track/3enAbhOqBI9SqBvZGSVkY3) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [The Big 6](https://open.spotify.com/album/754CExL1ceHc55tOXmLhiX) | 3:31 |
-| 5 | [GOOD CREDIT](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
+| 5 | [GOOD CREDIT \(with Kendrick Lamar\)](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
 | 6 | [Straight Rhymez 2](https://open.spotify.com/track/5srEoh3bdB2tGTPpbSKqcP) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Straight Rhymez 2](https://open.spotify.com/album/0YQucn2zCE4iugBcCtA9kH) | 2:43 |
 | 7 | [Laho](https://open.spotify.com/track/37nExiid2iQtQzCJfUzohy) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Laho](https://open.spotify.com/album/5HelT4HN12za8jJhvi6azJ) | 2:24 |
 | 8 | [BIG 45](https://open.spotify.com/track/4DspPUPn1uLYAEJSBfvPar) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [BIG 45](https://open.spotify.com/album/60SiKHElErD0EPxgU53Qjg) | 3:44 |

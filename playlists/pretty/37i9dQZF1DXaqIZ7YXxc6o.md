@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Shouse
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,424 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,435 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 10 | [Geronimo 2025](https://open.spotify.com/track/6jqvkNzdvya4kYxvEuVNnd) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Geronimo 2025](https://open.spotify.com/album/1hqjYQ3fRFDhECgSZ9ckZG) | 2:58 |
 | 11 | [One Night Of Love](https://open.spotify.com/track/0yKN9B3jYONUyvqrGkNUPX) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [One Night Of Love](https://open.spotify.com/album/1zez4j3KxpibZsH4ztNerl) | 3:31 |
 | 12 | [I Know You Want To](https://open.spotify.com/track/3qhf5WajCHsJibQ7cQ2qYS) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [I Know You Want To](https://open.spotify.com/album/60xGclNsYuzGqMfhUW4nXE) | 3:13 |
-| 13 | [It Gets Better \(Forever Mix\)](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [It Gets Better \(Forever Mix\)](https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO) | 4:12 |
+| 13 | [It Gets Better \- Edit](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [It Gets Better \(Forever Mix\)](https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO) | 4:12 |
 | 14 | [Pound Town](https://open.spotify.com/track/61yXM2XDYQkjWJsydNtwTz) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL) | [Pound Town](https://open.spotify.com/album/6oqFuZKIyU7FKnk4RyjXET) | 3:19 |
 | 15 | [It's Not Right But It's Okay](https://open.spotify.com/track/1MTCiRbvPK93YY6LNIeEbc) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [It's Not Right But It's Okay](https://open.spotify.com/album/5L6Sk7HlBhTQaeXh5nkQro) | 3:32 |
 | 16 | [Be My Lover](https://open.spotify.com/track/4CMMYnsYsM7gY3Gf7j10yf) | [MALUGI](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6), [Paul Sirrell](https://open.spotify.com/artist/6BNmkoOlQMVJCf5kcCc41g) | [Be My Lover](https://open.spotify.com/album/5ej6OUxhJ6XNey2Il4svaW) | 2:35 |

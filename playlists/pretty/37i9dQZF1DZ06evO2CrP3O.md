@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 
 > This is Blondie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,963 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,980 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 | 49 | [Already Naked](https://open.spotify.com/track/1ssGNcB3gVAXxFOaTcj0nE) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Pollinator](https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U) | 4:06 |
 | 50 | [End to End](https://open.spotify.com/track/5xfFKL2AyqvYwx25NAl8fY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [The Curse of Blondie](https://open.spotify.com/album/6fmtjViWZ65ETI9EoXl8kU) | 3:59 |
 
-Snapshot ID: `Z9IgAAAAAADN38vS5ymyyzqkVspgj7er`
+Snapshot ID: `Z9NxgAAAAABYYtvRaW2El2heihmzPtv8`

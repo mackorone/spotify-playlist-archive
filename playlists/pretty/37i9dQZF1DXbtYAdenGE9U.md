@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 658,411 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 658,767 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 15 | [Ayla \- DJ Taucher Radio Edit](https://open.spotify.com/track/4acv9cybr3QdBcQ5WpyiI1) | [Ayla](https://open.spotify.com/artist/190nhOwQKuDEOv7YKOgnzq), [Taucher](https://open.spotify.com/artist/0LTOhhlPSPjhOamlAhbYfa) | [Trance Classics, Vol\. 01](https://open.spotify.com/album/12WxRPHrbNqPR9MXOrAMtC) | 3:58 |
 | 16 | [Stay \- Original Single Edit](https://open.spotify.com/track/26oBh1fvCfQ5ZaBAgwnLAw) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [La Trec](https://open.spotify.com/artist/744Aa9RuKugKrpF6nt1kbv) | [Stay](https://open.spotify.com/album/1olrz5rnUp5iYb1KEztPVU) | 3:32 |
 | 17 | [Insomnia \- Monster Mix](https://open.spotify.com/track/2FH3BLTMhJlCH1Dmkua5DW) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Rollo Armstrong](https://open.spotify.com/artist/6hFSukEzqXAkCIcXNnctZ4), [Sister Bliss](https://open.spotify.com/artist/4tc9NREea7ncB7JzqdBsj5), [Goetz](https://open.spotify.com/artist/1HT9jeorSqkirZ9bcMQuKv) | [Faithless 2.0](https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O) | 8:38 |
-| 18 | [Adagio For Strings \- Radio Edit](https://open.spotify.com/track/0yMoJXVP6hFLV71DRVxRTk) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Magikal Journey \-The Hits Collection 1998 \- 2008](https://open.spotify.com/album/4MKq1Buhkx4Ksu0ngWHhr3) | 3:25 |
-| 19 | [Café Del Mar \- Three 'N One Radio Edit](https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Three 'N One](https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 3:49 |
+| 18 | [Café Del Mar \- Three 'N One Radio Edit](https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Three 'N One](https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 3:49 |
+| 19 | [Adagio For Strings \- Radio Edit](https://open.spotify.com/track/0yMoJXVP6hFLV71DRVxRTk) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Magikal Journey \-The Hits Collection 1998 \- 2008](https://open.spotify.com/album/4MKq1Buhkx4Ksu0ngWHhr3) | 3:25 |
 | 20 | [Barber's Adagio for Strings \- Ferry Corsten Remix; Radio Edit;](https://open.spotify.com/track/6qlmPJiL0uQZ45Jirn3VA5) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [Fitness Beats 2013](https://open.spotify.com/album/7fym5VfEqhrrQhzFMLghvD) | 3:40 |
 | 21 | [Lizard](https://open.spotify.com/track/4t12tfpnld2b3XwXsNfEgt) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [The Double Album](https://open.spotify.com/album/6YvP4jnV1o5QL02rykTm1a) | 5:13 |
 | 22 | [Need To Feel Loved \- Radio Edit](https://open.spotify.com/track/4b9S5yZpvIVxMEuI0rHzk6) | [Reflekt](https://open.spotify.com/artist/1AjG4kPZtTlEhqkrLC1yno), [delline bass](https://open.spotify.com/artist/4mYOtUmFApJtEbaeGt0RCk) | [Need To Feel Loved](https://open.spotify.com/album/5OEUYpDcqOo7wIJsdqnh3X) | 3:16 |

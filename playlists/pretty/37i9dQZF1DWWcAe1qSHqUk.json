@@ -1,6 +1,6 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 61076,
+  "num_followers": 61094,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-03-03 02:50:29",
       "album": {
-        "name": "Lover Man (Oh, Where Can You Be?)",
-        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 183901,
-      "name": "Lover Man (Oh, Where Can You Be?)",
-      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
-    },
-    {
-      "added_at": "2025-03-03 02:50:29",
-      "album": {
         "name": "Por Pouco (Bit Box)",
         "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 259480,
       "name": "Meu Esquema",
       "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
+    },
+    {
+      "added_at": "2025-03-03 02:50:29",
+      "album": {
+        "name": "Lover Man (Oh, Where Can You Be?)",
+        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 183901,
+      "name": "Lover Man (Oh, Where Can You Be?)",
+      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
     },
     {
       "added_at": "2025-03-03 02:50:29",
@@ -623,6 +623,22 @@
     {
       "added_at": "2025-03-03 02:50:29",
       "album": {
+        "name": "The Nearness Of You",
+        "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 135421,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
+    },
+    {
+      "added_at": "2025-03-03 02:50:29",
+      "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/6IFHK7RBdfloqcLW53wroM"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 121385,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/6KWqDGRYrY4T7sRdDhTnOX"
-    },
-    {
-      "added_at": "2025-03-03 02:50:29",
-      "album": {
-        "name": "The Nearness Of You",
-        "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 135421,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
     },
     {
       "added_at": "2025-03-03 02:50:29",
@@ -875,6 +875,22 @@
     {
       "added_at": "2025-03-03 02:50:29",
       "album": {
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/30zNfEzFZzFVSy4NFben4f"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lancaster",
+          "url": "https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "It Ain't Over 'Til It's Over",
+      "url": "https://open.spotify.com/track/5xtiAessAtry987cTy5maQ"
+    },
+    {
+      "added_at": "2025-03-03 02:50:29",
+      "album": {
         "name": "where are we",
         "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 158931,
       "name": "A Hard Day\u00b4s Night (Bossa Version)",
       "url": "https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J"
-    },
-    {
-      "added_at": "2025-03-03 02:50:29",
-      "album": {
-        "name": "Joyride",
-        "url": "https://open.spotify.com/album/30zNfEzFZzFVSy4NFben4f"
-      },
-      "artists": [
-        {
-          "name": "Jamie Lancaster",
-          "url": "https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "It Ain't Over 'Til It's Over",
-      "url": "https://open.spotify.com/track/5xtiAessAtry987cTy5maQ"
     },
     {
       "added_at": "2025-03-03 02:50:29",
@@ -975,6 +975,22 @@
     {
       "added_at": "2025-03-03 02:50:29",
       "album": {
+        "name": "First Conversation",
+        "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
+      },
+      "artists": [
+        {
+          "name": "C\u00e6cilie Norby",
+          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
+        }
+      ],
+      "duration_ms": 271773,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
+    },
+    {
+      "added_at": "2025-03-03 02:50:29",
+      "album": {
         "name": "Bossa & Co.",
         "url": "https://open.spotify.com/album/2eJv6fkyn9RIdgsDtpz9Pl"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2025-03-03 02:50:29",
       "album": {
-        "name": "First Conversation",
-        "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
-      },
-      "artists": [
-        {
-          "name": "C\u00e6cilie Norby",
-          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
-        }
-      ],
-      "duration_ms": 271773,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
-    },
-    {
-      "added_at": "2025-03-03 02:50:29",
-      "album": {
         "name": "Wild Is The Wind",
         "url": "https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp"
       },
@@ -1035,6 +1035,22 @@
       "duration_ms": 343055,
       "name": "Wild Is The Wind",
       "url": "https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T"
+    },
+    {
+      "added_at": "2025-03-03 02:50:29",
+      "album": {
+        "name": "Voices Of Love",
+        "url": "https://open.spotify.com/album/3vyGVRUQaAS4g2ztBZX9t9"
+      },
+      "artists": [
+        {
+          "name": "Ann Sally",
+          "url": "https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx"
+        }
+      ],
+      "duration_ms": 258346,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/5Uc0WlK2e5B5NYvS72fCHp"
     },
     {
       "added_at": "2025-03-03 02:50:29",
@@ -1055,18 +1071,18 @@
     {
       "added_at": "2025-03-03 02:50:29",
       "album": {
-        "name": "Voices Of Love",
-        "url": "https://open.spotify.com/album/3vyGVRUQaAS4g2ztBZX9t9"
+        "name": "Jazz And 80s",
+        "url": "https://open.spotify.com/album/0E3NKNhm72KqrGNNBx1sB0"
       },
       "artists": [
         {
-          "name": "Ann Sally",
-          "url": "https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx"
+          "name": "Dinah Eastwood",
+          "url": "https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9"
         }
       ],
-      "duration_ms": 258346,
-      "name": "I Wish You Love",
-      "url": "https://open.spotify.com/track/5Uc0WlK2e5B5NYvS72fCHp"
+      "duration_ms": 243933,
+      "name": "Hungry Like The Wolf",
+      "url": "https://open.spotify.com/track/3zsLiaqjQR7CDURvq8o4W7"
     },
     {
       "added_at": "2025-03-03 02:50:29",
@@ -1099,22 +1115,6 @@
       "duration_ms": 264653,
       "name": "Go Slow",
       "url": "https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ"
-    },
-    {
-      "added_at": "2025-03-03 02:50:29",
-      "album": {
-        "name": "Jazz And 80s",
-        "url": "https://open.spotify.com/album/0E3NKNhm72KqrGNNBx1sB0"
-      },
-      "artists": [
-        {
-          "name": "Dinah Eastwood",
-          "url": "https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9"
-        }
-      ],
-      "duration_ms": 243933,
-      "name": "Hungry Like The Wolf",
-      "url": "https://open.spotify.com/track/3zsLiaqjQR7CDURvq8o4W7"
     },
     {
       "added_at": "2025-03-03 02:50:29",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2025-03-03 02:50:29",
       "album": {
-        "name": "Marshall (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ"
+        "name": "Jamison",
+        "url": "https://open.spotify.com/album/0vTcCt6Pgf4nRntWOzXUU2"
       },
       "artists": [
         {
-          "name": "Marcus Miller",
-          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+          "name": "Jamison Ross",
+          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
         }
       ],
-      "duration_ms": 152106,
-      "name": "For the Love of Freedom",
-      "url": "https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw"
+      "duration_ms": 262573,
+      "name": "These Things You Are to Me",
+      "url": "https://open.spotify.com/track/4TaFVK9pEO6Wo3cFhRC0CQ"
     }
   ],
   "unique_name": "\u7235\u58eb\u60c5\u6b4c",

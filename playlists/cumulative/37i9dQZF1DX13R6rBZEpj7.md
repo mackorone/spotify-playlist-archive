@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-295 songs - 17 hr 47 min
+296 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [EGODEATH](https://open.spotify.com/track/6yrMWKRUdGZ8He2TibxkCo) | [GHENGHIS OTT](https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO), [6HRS](https://open.spotify.com/artist/64aAUlycnpUelu81j7FPi0) | [EGODEATH](https://open.spotify.com/album/22fzZWdUIIywKnUPiSZ6D4) | 3:12 | 2022-09-23 |  |
 | [Emergency](https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Emergency](https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE) | 2:49 | 2022-04-22 | 2023-12-15 |
 | [Enemies](https://open.spotify.com/track/1qQGrp6pol2Swp45C9PvjC) | [Jay Faded](https://open.spotify.com/artist/1Uh0ICHXIezbKnGUoEVzyZ) | [Enemies](https://open.spotify.com/album/0KPN5WOiQslbx2XqFkL7E6) | 2:47 | 2022-04-22 | 2022-07-16 |
-| [Energy Gang](https://open.spotify.com/track/2qVfSZfHllkXPnmDP8CoK4) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Sir Spyro](https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT) | [Energy Gang](https://open.spotify.com/album/1Qwg7QFskDE5xt7wKW63C0) | 3:55 | 2024-06-14 |  |
+| [Energy Gang](https://open.spotify.com/track/2qVfSZfHllkXPnmDP8CoK4) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Sir Spyro](https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT) | [Energy Gang](https://open.spotify.com/album/1Qwg7QFskDE5xt7wKW63C0) | 3:55 | 2024-06-14 | 2025-03-16 |
 | [Euphoria](https://open.spotify.com/track/6WW1qsUVy1i73rWizr3dw2) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Euphoria](https://open.spotify.com/album/3cNusUNyI88Y2sCgTBN4mU) | 3:12 | 2023-04-04 | 2023-08-11 |
 | [Euphoria](https://open.spotify.com/track/0GES2nyDZvfxIaJmFLmtvz) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Euphoria](https://open.spotify.com/album/2OvdtkZEyFn4LQeCkgrSBh) | 3:15 | 2022-04-15 | 2023-03-04 |
 | [Eww](https://open.spotify.com/track/7LliyCcHRU5OQEj2Ob2LPf) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Eww/Losing](https://open.spotify.com/album/14t4zR0Hx6ez04yQuAK4U3) | 3:55 | 2022-04-15 | 2022-07-29 |
@@ -297,6 +297,7 @@
 | [What To Do](https://open.spotify.com/track/2U9J2leuFsABpW7Vxt1ZR4) | [Palizé](https://open.spotify.com/artist/4b8mcUDcyADdWI7krNuKmu) | [What To Do](https://open.spotify.com/album/1mtVvy7OKWk47B4aZXlBGK) | 3:46 | 2022-04-15 | 2022-07-29 |
 | [Where Have You Been](https://open.spotify.com/track/2OyestNLBmdbsQJaL9qaVG) | [REESE](https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX) | [Where Have You Been](https://open.spotify.com/album/1JRNByaZGAA9yrLNXfUKJx) | 2:50 | 2025-01-30 |  |
 | [Who Are You](https://open.spotify.com/track/2kMOrYZoQRqqzmlnifAqrQ) | [My Nu Leng](https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ), [Club Glow](https://open.spotify.com/artist/5Cp4WbwocjJxNdVnDnJCaJ) | [Leng Club, Vol\. 1](https://open.spotify.com/album/1KHoOpJC09N123fcp0W1Ej) | 4:37 | 2023-09-22 | 2023-12-22 |
+| [Who's Complaining](https://open.spotify.com/track/45AxEpsmEV8rxHdho1mTKu) | [Burgaboy](https://open.spotify.com/artist/2RqbEOyM1cly9xDaFqyVda), [Rieks](https://open.spotify.com/artist/1WRr4lzDGVtOW2THZZSuZJ), [Mnt](https://open.spotify.com/artist/5KvTvmWwVmEVmH6dHvHclX) | [Who's Complaining](https://open.spotify.com/album/6lpyK5BroeJrOcsPTWH0CZ) | 3:18 | 2025-03-14 |  |
 | [Who's Got The Bag](https://open.spotify.com/track/0fquu5CejT76HhQejc6q7v) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Who's Got The Bag](https://open.spotify.com/album/7wqAIus994VXs9LH05VxdZ) | 2:45 | 2022-04-22 | 2023-09-22 |
 | [Wicked Sound](https://open.spotify.com/track/4oNUYCpainiqadXpji3Vsh) | [Fantom Freq](https://open.spotify.com/artist/4kwPEoKIm8IwQKOvYjg5OM), [Eric Mark](https://open.spotify.com/artist/6JorHZNQrD3a6rPLUC0jfG), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Wicked Sound](https://open.spotify.com/album/35avlu3EYmMrlsoTHE63N7) | 3:38 | 2023-12-22 |  |
 | [Wild \- bullet tooth Remix](https://open.spotify.com/track/69fKLi2YhI5C6MmFQegAwE) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [Wild \(bullet tooth Remix\)](https://open.spotify.com/album/6zq84gcL04a7PG5z9XVctR) | 2:58 | 2024-04-05 |  |

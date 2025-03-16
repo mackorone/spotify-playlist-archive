@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 
 > Lauty Gram, con lo nuevo y lo viejo del reggaetón 🇦🇷
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,713 likes - 102 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,714 likes - 102 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

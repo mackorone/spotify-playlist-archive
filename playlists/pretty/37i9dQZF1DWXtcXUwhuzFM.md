@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia HUGOlta & Sexmanelta, Evelinalta, Chappell Roanilta ja JVG:ltä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,068 likes - 112 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,084 likes - 112 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 99 | [Muital](https://open.spotify.com/track/25BrYMRrDVQ6hLBQchQ6Ku) | [Yungmiqu](https://open.spotify.com/artist/65ELaAMiM1qAquOB0oJaL6), [Ingá\-Máret Gaup Juuso](https://open.spotify.com/artist/5HUiatsTvEt8qAbbX8pjZl) | [Muital](https://open.spotify.com/album/2NfQcEJ7Esx5WZHEEmWqIn) | 3:37 |
 | 100 | [Objects Outlive Us](https://open.spotify.com/track/1hiuFbjNa7Q0x41EHUfC80) | [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [The Overview](https://open.spotify.com/album/3xOcExpIWzroZldcdc212q) | 23:19 |
 | 101 | [On This Hill I Will Die](https://open.spotify.com/track/0u9LyCc9fsWfKPzyzWQ6r5) | [Slow Fall](https://open.spotify.com/artist/4wI8Ft8TbUPXruGiEtEtCg) | [On This Hill I Will Die](https://open.spotify.com/album/3zOphfAwOo1CBtzm4BginT) | 3:56 |
-| 102 | [Teardrops](https://open.spotify.com/track/5d2biOcH3oioHZ4qY795zM) | [CLOUDER](https://open.spotify.com/artist/3wAjBUkHYUfy45soQSbIzv), [Skyelle](https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6) | [Teardrops](https://open.spotify.com/album/24zcHdE23djhQOkfmYZvm0) | 3:19 |
+| 102 | [TEARDROPS](https://open.spotify.com/track/5d2biOcH3oioHZ4qY795zM) | [CLOUDER](https://open.spotify.com/artist/3wAjBUkHYUfy45soQSbIzv), [Skyelle](https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6) | [TEARDROPS](https://open.spotify.com/album/24zcHdE23djhQOkfmYZvm0) | 3:19 |
 | 103 | [WALK EM DOWN WILDIN](https://open.spotify.com/track/6NVjucBIzNXDC7qmTnoFgm) | [Loki Wildin](https://open.spotify.com/artist/06VuScuz37y1ILce5wM4pE) | [WALK EM DOWN WILDIN](https://open.spotify.com/album/2KBsBQOj4Td3HkcGlgSAaH) | 3:13 |
 | 104 | [Fantastic Tomb](https://open.spotify.com/track/57ct9s69WV3r1v3fiVEWXW) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Fantastic Tomb](https://open.spotify.com/album/1rtZ36lOiP4z2X1KNevJGg) | 5:50 |
 | 105 | [human](https://open.spotify.com/track/3KvYoVJylO84n1aFbFJ8QF) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [human](https://open.spotify.com/album/1K8LPHaAbehFPjy4M28vay) | 2:22 |

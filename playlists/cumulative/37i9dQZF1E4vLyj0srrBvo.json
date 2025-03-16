@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-16",
-  "description": "With Pastel Ghost, Sky Ferreira, Eartheater and more",
+  "description": "With Pastel Ghost, Sky Ferreira, Cocteau Twins and more",
   "name": "Grimes Radio",
   "tracks": [
     {
@@ -5914,7 +5914,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 192466,
       "name": "Cherry-coloured Funk",
       "url": "https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ"
@@ -6586,7 +6586,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 239706,
       "name": "Colour of Moonlight (Antiochus)",
       "url": "https://open.spotify.com/track/3Kl512JPDDX8XsjagpNxlo"
@@ -8422,7 +8422,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 284400,
       "name": "Disparate Youth",
       "url": "https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL"
@@ -10598,7 +10598,7 @@
       ],
       "date_added": "2020-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 209760,
       "name": "fineshrine",
       "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
@@ -13068,7 +13068,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 221000,
       "name": "Heads Will Roll",
       "url": "https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs"
@@ -13302,7 +13302,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 286013,
       "name": "Help I'm Alive",
       "url": "https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi"
@@ -16774,6 +16774,24 @@
     {
       "album": {
         "name": "Bloom",
+        "url": "https://open.spotify.com/album/6w84G1JaQPqbf8RzS48tPf"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "date_added": "2025-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301866,
+      "name": "Lazuli",
+      "url": "https://open.spotify.com/track/08FpkozV2zt63wxfUbx5A2"
+    },
+    {
+      "album": {
+        "name": "Bloom",
         "url": "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
       },
       "artists": [
@@ -16842,7 +16860,7 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 244946,
       "name": "Lemon Glow",
       "url": "https://open.spotify.com/track/6NLRMu1qF1kJQnntDNWDmy"
@@ -17520,7 +17538,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-10",
+      "date_removed": null,
       "duration_ms": 207986,
       "name": "Lithium",
       "url": "https://open.spotify.com/track/3ofiQMPt5OZZTzzsCewZBU"
@@ -18148,7 +18166,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 199280,
       "name": "Lovers From The Past",
       "url": "https://open.spotify.com/track/69cGlmgNyMf2K6AvmLBuRD"
@@ -19048,6 +19066,24 @@
       "duration_ms": 206434,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/2naVfDXfwpMkftwrr6GV52"
+    },
+    {
+      "album": {
+        "name": "Ethereality",
+        "url": "https://open.spotify.com/album/3sy3jRg8KrsGYNAuHPQnqk"
+      },
+      "artists": [
+        {
+          "name": "Pastel Ghost",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+        }
+      ],
+      "date_added": "2025-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206434,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/54gwIhuooUmbH5eDJKCKaI"
     },
     {
       "album": {
@@ -22624,7 +22660,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 194080,
       "name": "Pitch the Baby",
       "url": "https://open.spotify.com/track/1DXD0wVXXHwUYo9AXbcMMI"
@@ -23202,7 +23238,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 239500,
       "name": "Possession",
       "url": "https://open.spotify.com/track/02zU5fNQX1GaaBMavn6rXd"
@@ -25650,7 +25686,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 208624,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/3vtFowc9zcQfvqsLAZ9Cx2"
@@ -26326,7 +26362,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Skeleton",
       "url": "https://open.spotify.com/track/659mtBqBiCt0Ohz7FI5cZ7"
@@ -26644,7 +26680,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-14",
+      "date_removed": null,
       "duration_ms": 178105,
       "name": "Smokescreen",
       "url": "https://open.spotify.com/track/3BI3yIp1aa5yzMNpyTmNyX"
@@ -28842,7 +28878,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 284613,
       "name": "Tear You Apart",
       "url": "https://open.spotify.com/track/1XYHqSfJK9ud9nuRjQcbXi"
@@ -30588,7 +30624,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 207578,
       "name": "Twist The Knife",
       "url": "https://open.spotify.com/track/2KVStewnFKCp6gjREeHRDy"
@@ -31570,7 +31606,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 118853,
       "name": "Visiting Statue",
       "url": "https://open.spotify.com/track/2p8RITtRYMtk3RkpgLYe5M"
@@ -33712,7 +33748,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 146293,
       "name": "\u4eba\u70ba\u6a5f\u5668 (Humans Become Machines)",
       "url": "https://open.spotify.com/track/6J1w3mHuDmRseT5u00hh9h"

@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 34487,
+  "num_followers": 34507,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAADwyHHP30Q/9vBGRyB4cSZ8",
+  "snapshot_id": "Z9NxgAAAAAC64yGu2sgWYY3XVoNJDFbG",
   "tracks": [
     {
       "added_at": null,
@@ -551,30 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fast Lane",
-        "url": "https://open.spotify.com/album/7JWJByms29HHuFhbu4oBZT"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 172584,
-      "name": "Fast Lane",
-      "url": "https://open.spotify.com/track/7KdgN7IfTbm6d9gbdtmhpT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FTCU (feat. GloRilla & Gangsta Boo)",
         "url": "https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB"
       },
@@ -595,6 +571,30 @@
       "duration_ms": 145655,
       "name": "FTCU (feat. GloRilla & Gangsta Boo)",
       "url": "https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fast Lane",
+        "url": "https://open.spotify.com/album/7JWJByms29HHuFhbu4oBZT"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 172584,
+      "name": "Fast Lane",
+      "url": "https://open.spotify.com/track/7KdgN7IfTbm6d9gbdtmhpT"
     },
     {
       "added_at": null,
@@ -975,26 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freaky As Me",
-        "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 129662,
-      "name": "Freaky As Me (feat. latto)",
-      "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boom Pt. 2 (feat. Latto)",
         "url": "https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU"
       },
@@ -1015,22 +995,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Get Enough (feat. Latto)",
-        "url": "https://open.spotify.com/album/20fxjFAGC0xdWzLeW6qsSC"
+        "name": "Freaky As Me",
+        "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
       },
       "artists": [
         {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
         },
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 207284,
-      "name": "Can't Get Enough (feat. Latto)",
-      "url": "https://open.spotify.com/track/5tGL15ZwvK71n9uZWYlaoH"
+      "duration_ms": 129662,
+      "name": "Freaky As Me (feat. latto)",
+      "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nasa 2",
+        "url": "https://open.spotify.com/album/3oYRwdyQKn5nTccm3LODnF"
+      },
+      "artists": [
+        {
+          "name": "Outta Space",
+          "url": "https://open.spotify.com/artist/21j9HxFstMjB7DzXWujBnB"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 178956,
+      "name": "TouchDown",
+      "url": "https://open.spotify.com/track/7oqhhfWAQiUUUijb9FSsVG"
     }
   ],
   "unique_name": "This Is Latto",

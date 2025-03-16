@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAAjdgF4Qzy1YWVRps7Jo34y",
+  "snapshot_id": "Z9NxgAAAAAC9dBJjRnmi/qXMBMj4mDZb",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 273986,
-      "name": "Come Softly - For Daniel D.",
-      "url": "https://open.spotify.com/track/3JyPrk7TuXyBY5eTmwZsSk"
+      "duration_ms": 544533,
+      "name": "Vapor Trails",
+      "url": "https://open.spotify.com/track/47JKSnbM992KC8rZ2wph0e"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 544533,
-      "name": "Vapor Trails",
-      "url": "https://open.spotify.com/track/47JKSnbM992KC8rZ2wph0e"
+      "duration_ms": 273986,
+      "name": "Come Softly - For Daniel D.",
+      "url": "https://open.spotify.com/track/3JyPrk7TuXyBY5eTmwZsSk"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grid of Points",
-        "url": "https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8"
+        "name": "Hold / Sick - Single",
+        "url": "https://open.spotify.com/album/2ZeEvU0R5ZE0Pgr1xRy6IE"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Driving",
-      "url": "https://open.spotify.com/track/3Wgm9FhrruO71VDFA6kxgj"
+      "duration_ms": 330373,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/5khRdxp5670i4gUmJoVxKH"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold / Sick - Single",
-        "url": "https://open.spotify.com/album/2ZeEvU0R5ZE0Pgr1xRy6IE"
+        "name": "Grid of Points",
+        "url": "https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 330373,
-      "name": "Hold",
-      "url": "https://open.spotify.com/track/5khRdxp5670i4gUmJoVxKH"
+      "duration_ms": 228000,
+      "name": "Driving",
+      "url": "https://open.spotify.com/track/3Wgm9FhrruO71VDFA6kxgj"
     },
     {
       "added_at": null,
@@ -795,18 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A I A: Dream Loss",
-        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
+        "name": "TRANSA",
+        "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
       },
       "artists": [
+        {
+          "name": "Lucy Liyou",
+          "url": "https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1"
+        },
         {
           "name": "Grouper",
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 480440,
-      "name": "Soul Eraser",
-      "url": "https://open.spotify.com/track/3ylmcpuUneUlGgGkuO4Htw"
+      "duration_ms": 362410,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/3jF63jYIaKR1OitaWAHGrL"
     }
   ],
   "unique_name": "This Is Grouper",

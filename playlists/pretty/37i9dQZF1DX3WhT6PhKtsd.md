@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WhT6PhKtsd.md) - [plain]
 
 > For those whose year was full of angst and anger \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,791 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,790 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WhT6PhKtsd.md) - [plain]
 | 45 | [pity](https://open.spotify.com/track/63PjD6QWNa5wqft8UIbQHV) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [pity](https://open.spotify.com/album/1MxwPm5Vv9aWl7J3wNI7Sk) | 2:59 |
 | 46 | [OVER YOUR DEAD BODY](https://open.spotify.com/track/33SO5use9IdF2g0lrcSj3l) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [A Call To The Void](https://open.spotify.com/album/3zhyT62LXkBpycohrjER5s) | 3:45 |
 | 47 | [HAMMS IN A GLASS](https://open.spotify.com/track/3249EJWdvR7xuLbXoxvLcJ) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [HAMMS IN A GLASS](https://open.spotify.com/album/2vaTsjE2QylWhDHZs6nTuM) | 2:24 |
-| 48 | [faceplant](https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [faceplant](https://open.spotify.com/album/6bat5qSI2gzHzDOxE6fKup) | 2:41 |
-| 49 | [I Used To Be Fun](https://open.spotify.com/track/3cn3g1pvplVckm1vWtDMVf) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Love You](https://open.spotify.com/album/4psyGw8pJ4Y4VQOQ8EN3qA) | 2:41 |
+| 48 | [I Used To Be Fun](https://open.spotify.com/track/3cn3g1pvplVckm1vWtDMVf) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Love You](https://open.spotify.com/album/4psyGw8pJ4Y4VQOQ8EN3qA) | 2:41 |
+| 49 | [faceplant](https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [faceplant](https://open.spotify.com/album/6bat5qSI2gzHzDOxE6fKup) | 2:41 |
 | 50 | [EVIL](https://open.spotify.com/track/6TP4g6horaauqlRG7uhCz5) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/3XxoKjcWSl4uGplV1kiKAp) | 4:06 |
 
 Snapshot ID: `ZWdsSQAAAADBmQmuoq95BOvjI+7XvKaH`

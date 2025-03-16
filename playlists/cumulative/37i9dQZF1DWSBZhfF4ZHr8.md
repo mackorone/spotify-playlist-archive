@@ -4,7 +4,7 @@
 
 > Les meilleures nouveautés de la variété française\. Photo : Clara Luciani
 
-210 songs - 10 hr 26 min
+211 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Ma faute](https://open.spotify.com/track/01gr5cUIMHKrblkKRkjYlU) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Ma faute](https://open.spotify.com/album/5lN2M1kvAY1PpzuK1PpCmR) | 2:40 | 2025-01-09 | 2025-01-23 |
 | [Ma faute](https://open.spotify.com/track/57wJTnlfDDJIXznYGqNcIh) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy), [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Les singles d'Ebony et Marine](https://open.spotify.com/album/1SVLbcyvHIwchOvmjtD0XJ) | 3:19 | 2025-01-22 | 2025-03-01 |
 | [Mal lunée](https://open.spotify.com/track/0I6cUlZChgof5LOhmJ5mM1) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Mal lunée](https://open.spotify.com/album/1ZzeJvWqk3ZtZH6Fdv4uQI) | 3:14 | 2025-01-09 | 2025-02-21 |
+| [maman](https://open.spotify.com/track/1iJ9cSEWYQsd2M7ROFyIZx) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [maman](https://open.spotify.com/album/2pguB7D2A9A8oHS76j9Egx) | 3:00 | 2025-03-15 |  |
 | [Mamma Mia](https://open.spotify.com/track/3haU6irRiO9hZdku6ftszL) | [2 Copains](https://open.spotify.com/artist/6yINzSJry9uroHLqhGf3yB) | [Mamma Mia](https://open.spotify.com/album/7qgVZiCj6qmf3kFaqDzkTW) | 2:21 | 2024-07-25 | 2024-11-08 |
 | [MARIA](https://open.spotify.com/track/5z6CNZkRIy44n7FrYNs23q) | [Alexy Large](https://open.spotify.com/artist/4FlyOnqbpEbCR34xmBEIu2) | [MARIA](https://open.spotify.com/album/3JIicLsd5uAnePIbUatgvN) | 2:41 | 2024-10-10 | 2024-11-15 |
 | [Mauvais rêve \- 28 ans](https://open.spotify.com/track/5yKtALi0PDiaPCQsng8CN5) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Cœur papillon](https://open.spotify.com/album/0EJqRM0ONZPOlTaPquF9J1) | 4:19 | 2024-10-24 | 2025-01-10 |
@@ -143,7 +144,7 @@
 | [On est plein](https://open.spotify.com/track/2ICuCWhGgRjDrwWwLU6BZL) | [Léman](https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ) | [On est plein](https://open.spotify.com/album/3RaPUwYRoMim1mYm7si46l) | 2:26 | 2024-06-27 | 2024-10-18 |
 | [On s'écrira](https://open.spotify.com/track/2BCdppopkwUrAHw6nepqRD) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F), [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [On s'écrira](https://open.spotify.com/album/0cJEP5ecTZ0CObshdrHBCs) | 2:52 | 2024-09-19 | 2024-11-29 |
 | [Oser](https://open.spotify.com/track/2OwSd94EtSFh5dzrp4SFWY) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Oser](https://open.spotify.com/album/2fl3JX1Iq19Ar3ByUKlZoQ) | 2:34 | 2025-01-09 | 2025-02-21 |
-| [Panique à Paris \(TimeMachine 1985 Remix\)](https://open.spotify.com/track/0BlzANbVeirejZbA531CM5) | [Lucille](https://open.spotify.com/artist/5GPmxu2WE6tusMcK0WQdS2), [TimeMachine1985](https://open.spotify.com/artist/2XgfAq6E80cypDmNZ5JXGv) | [Panique à Paris \(TimeMachine 1985 Remix\)](https://open.spotify.com/album/6BLMYvSZkyIvfZdp0psSsu) | 3:00 | 2025-02-06 |  |
+| [Panique à Paris \(TimeMachine 1985 Remix\)](https://open.spotify.com/track/0BlzANbVeirejZbA531CM5) | [Lucille](https://open.spotify.com/artist/5GPmxu2WE6tusMcK0WQdS2), [TimeMachine1985](https://open.spotify.com/artist/2XgfAq6E80cypDmNZ5JXGv) | [Panique à Paris \(TimeMachine 1985 Remix\)](https://open.spotify.com/album/6BLMYvSZkyIvfZdp0psSsu) | 3:00 | 2025-02-06 | 2025-03-16 |
 | [Papa](https://open.spotify.com/track/4LXEefVm05vkHCF43zC8bJ) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Papa](https://open.spotify.com/album/093D26r87WUjIS9cPvSuOT) | 2:49 | 2024-06-27 | 2024-09-20 |
 | [Papa dis\-moi](https://open.spotify.com/track/5sij5devnFg3Uf5BhSLAZS) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1), [Luna](https://open.spotify.com/artist/6WoNc6jV6PQq1wtZLmGJDY) | [Freedom](https://open.spotify.com/album/4dRr6s3IPF9OWzr6qIBQEt) | 2:35 | 2024-06-27 | 2024-09-27 |
 | [Paris](https://open.spotify.com/track/1RF0JuRVgZTTlJ5plNE1Je) | [21 Juin Le Duo](https://open.spotify.com/artist/0UUuBtaLyglYTbgfjTw1vT) | [Paris](https://open.spotify.com/album/2gOfzHzdcsCfOpVlp2lqwd) | 2:53 | 2024-06-27 | 2024-07-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YaB989v9Rh.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/blaircaldwell/">Blair Caldwell</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,724 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,735 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YaB989v9Rh.md) - [plain]
 | 28 | [Can't Leave 'Em Alone \(feat\. 50 Cent\)](https://open.spotify.com/track/78CTv7ypHvXQlEjXYst2n9) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Evolution](https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto) | 4:04 |
 | 29 | [Selfish](https://open.spotify.com/track/7sZCAHP2duHwr5M5K7lHsb) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Detroit Deli \(A Taste Of Detroit\)](https://open.spotify.com/album/2mpzeA7pHNIDAPii4EEKsB) | 3:45 |
 | 30 | [Into You \(feat\. Tamia\)](https://open.spotify.com/track/0yHConG49418wPs8UfAt44) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Street Dreams \(Bonus Track\)](https://open.spotify.com/album/46tIBaFs0Ov0HJsCDrq1Kl) | 4:55 |
-| 31 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
-| 32 | [Kick, Push](https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:14 |
+| 31 | [Kick, Push](https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:14 |
+| 32 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
 | 33 | [Get Me Home](https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 3:49 |
 | 34 | [Faded Pictures](https://open.spotify.com/track/1CAw3ethNuSDPf3E7luSFF) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Personal Conversation](https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K) | 3:49 |
 | 35 | [Sweetest Girl \(Dollar Bill\) \(feat\. Akon, Lil' Wayne & Niia\)](https://open.spotify.com/track/4liGjmhCupa7RP9JaQELYx) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx) | [Sweetest Girl \(Dollar Bill\) \(feat\. Akon, Lil' Wayne & Niia\)](https://open.spotify.com/album/347NJqwpdmSrkTE7F2IlaZ) | 4:01 |
 | 36 | [GO!](https://open.spotify.com/track/4JNTpbntShpUpACDUzwHV5) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Be](https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up) | 3:44 |
 | 37 | [All Night Long](https://open.spotify.com/track/7iyjZ4paFWpTrJJenM0yZb) | [Mary Jane Girls](https://open.spotify.com/artist/7vRMMs8yrKf4PKUpUllMkr) | [In My House](https://open.spotify.com/album/4W5tAjZ4fF60N6a2v8EWnF) | 5:43 |
-| 38 | [Show Me A Good Time](https://open.spotify.com/track/7v0hKO3RYhEXt2EPXf4AOS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 3:30 |
-| 39 | [Why Don't We Fall in Love](https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 2:39 |
+| 38 | [Why Don't We Fall in Love](https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 2:39 |
+| 39 | [Show Me A Good Time](https://open.spotify.com/track/7v0hKO3RYhEXt2EPXf4AOS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 3:30 |
 | 40 | [Before You Walk Out of My Life](https://open.spotify.com/track/6xrvubhznLOcEO3AM6XBN2) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Miss Thang](https://open.spotify.com/album/71mPApAzW9HkbUGdYzMQHb) | 4:52 |
 | 41 | [Full Moon](https://open.spotify.com/track/0pLmfgIANOX9FB9uZDU43x) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Full Moon](https://open.spotify.com/album/7721xmJK5tmifUQdcmJ6An) | 4:08 |
 | 42 | [Just The Two Of Us](https://open.spotify.com/track/01F8B0dhzGdWvmcSO6vUdi) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 5:15 |

@@ -4,7 +4,7 @@
 
 > This is Lizzo\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 15 min
+80 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Deep](https://open.spotify.com/track/7G4zqUWXpbRDc5ian2oos8) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Coconut Oil](https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv) | 3:14 | 2023-10-10 |  |
 | [En Love](https://open.spotify.com/track/7wHRFO53gnDUJnun8BiAkq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Big GRRRL Small World](https://open.spotify.com/album/40T5m4a19xUgVyWQaYrVRb) | 3:24 | 2023-10-10 | 2024-07-24 |
 | [Everybody’s Gay](https://open.spotify.com/track/5uhaFPXTIG06S9Hb2c5tsT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:35 | 2023-10-10 |  |
-| [Everything Was So Much Simpler…](https://open.spotify.com/track/5JrEV1dM9byPkTjVhqTvGc) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Love in Real Life](https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ) | 0:22 | 2025-03-02 |  |
+| [Everything Was So Much Simpler…](https://open.spotify.com/track/5JrEV1dM9byPkTjVhqTvGc) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Love in Real Life](https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ) | 0:22 | 2025-03-02 | 2025-03-16 |
 | [Exactly How I Feel \(feat\. Gucci Mane\)](https://open.spotify.com/track/7BZtzkbV48eu0sGKhHP7R9) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:23 | 2023-10-10 |  |
 | [Fitness](https://open.spotify.com/track/0FhBANnxcQBgD3tQ75WFAn) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Fitness](https://open.spotify.com/album/3JtDo6OmIf78RSc94KdWMR) | 2:36 | 2023-10-10 |  |
 | [Good as Hell](https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:39 | 2023-10-10 |  |
@@ -74,6 +74,7 @@
 | [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 | 2023-10-10 |  |
 | [Stairway To Heaven](https://open.spotify.com/track/4GSesDykx8IoiyvU8hLQkB) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Sasha Flute](https://open.spotify.com/artist/0g0F72umHz8PinSfuFZfHs) | [Rockstar](https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2) | 7:48 | 2023-12-13 |  |
 | [Stayin' Alive \(from Happy Death Day 2U\)](https://open.spotify.com/track/2tZWKgDClGMoxqiU5FxYI0) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Stayin' Alive \(from Happy Death Day 2U\)](https://open.spotify.com/album/272z7QfS5G7vsodGkl5ZmL) | 3:17 | 2023-10-10 |  |
+| [Still Bad](https://open.spotify.com/track/5UpdcedkGcuishA7jlnH8W) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Still Bad](https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL) | 3:28 | 2025-03-16 |  |
 | [T\-Baby](https://open.spotify.com/track/2HHaYdkENryMPvJuwvZ1ss) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Lizzobangers](https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v) | 3:15 | 2024-05-10 | 2024-07-24 |
 | [T\-Baby](https://open.spotify.com/track/5huAmqGGPjKQDztp1gd22J) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Lizzobangers](https://open.spotify.com/album/32UJ8XJogn6T8JSENLETMS) | 3:15 | 2025-02-28 | 2025-03-03 |
 | [Tempo \(feat\. Missy Elliott\)](https://open.spotify.com/track/6nBQFAIVFmAx2oZ8p6lUg6) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:55 | 2023-10-10 |  |

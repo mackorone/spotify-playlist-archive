@@ -4,7 +4,7 @@
 
 > catch a vibe 🌹
 
-175 songs - 9 hr 30 min
+176 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Back, Baby](https://open.spotify.com/track/5Pm59vQU1KTcCkg4nZ3SZu) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [On Your Own Love Again](https://open.spotify.com/album/44iuWeTEtDDk9Ll3A7O8F2) | 3:55 | 2025-02-13 |  |
 | [Bathroom](https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 3:28 | 2024-03-28 |  |
 | [Be Mine](https://open.spotify.com/track/3dSZcr7SWwFdOmY0r3Ryih) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Midnight Request Line](https://open.spotify.com/album/6EjS2SQlbFfvqL0MGVNHbD) | 3:42 | 2025-02-13 |  |
+| [Be There Still](https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Be There Still](https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL) | 3:15 | 2025-02-27 |  |
 | [Better Apart](https://open.spotify.com/track/1MaXSKqoQ2UxothMqc77Xq) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [STILL EMO](https://open.spotify.com/album/74LSOp5FSRJFoMMhLpltKz) | 3:10 | 2024-03-28 | 2024-11-08 |
 | [Between The Lines](https://open.spotify.com/track/7i22WLIibSqrRQrRh27nh9) | [BOBI ANDONOV](https://open.spotify.com/artist/5EXfqUleFQVrNrQIDpuAxy) | [Between The Lines](https://open.spotify.com/album/3frKrSwNzjM5GimBgr2lnc) | 3:41 | 2024-03-28 | 2024-09-03 |
 | [Black Dress](https://open.spotify.com/track/4pchG0mOBAJoXXu1vmwyTY) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Black Dress](https://open.spotify.com/album/54F5KAYtmSL3ebnKAULsg9) | 3:57 | 2024-03-28 | 2025-02-14 |
@@ -69,7 +70,7 @@
 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b) | 3:15 | 2024-03-28 |  |
 | [Hey Homie](https://open.spotify.com/track/5HlzvCWmwMFeA0ENrG8ixa) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Hey Homie](https://open.spotify.com/album/0kZYADBXJfq3MIUmG1ebYR) | 3:09 | 2024-07-23 | 2025-01-24 |
 | [High Notes](https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High Notes](https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv) | 2:32 | 2024-04-11 | 2024-09-08 |
-| [Hmm \(feat\. Popcaan\)](https://open.spotify.com/track/6NlCxCDyNBtjwXw2sa9gkU) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Hmm \(feat\. Popcaan\)](https://open.spotify.com/album/4srn3PA7GARSVBnOZ9lM1c) | 2:43 | 2024-10-10 |  |
+| [Hmm \(feat\. Popcaan\)](https://open.spotify.com/track/6NlCxCDyNBtjwXw2sa9gkU) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Hmm \(feat\. Popcaan\)](https://open.spotify.com/album/4srn3PA7GARSVBnOZ9lM1c) | 2:43 | 2024-10-10 | 2025-03-16 |
 | [HOT SAUCE](https://open.spotify.com/track/3CusJqv7Cnb4by8gxjwFFa) | [HXRY](https://open.spotify.com/artist/2iqM6ytAoq3ckSITRNOaWB), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [HOT SAUCE](https://open.spotify.com/album/04LuYnzJlKde8mxOlvKYX7) | 4:19 | 2024-04-11 | 2024-07-21 |
 | [How Does It Feel \(feat\. Dakota and King Docious\)](https://open.spotify.com/track/2Epm6mdhdQ0HKM2I5fYpyQ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms), [King Docious](https://open.spotify.com/artist/0EQ9n8yt7k2tZxMUJGFJMb) | [Never Walk Alone](https://open.spotify.com/album/5B6cE705BTRvviiO1p4m0o) | 2:16 | 2025-02-13 |  |
 | [How many miles](https://open.spotify.com/track/23uLia0r9XqAIKrj0Rlc4D) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:21 | 2025-02-13 |  |

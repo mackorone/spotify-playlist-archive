@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 81423,
+  "num_followers": 81459,
   "original_name": "Hardcore Rage 2025",
   "owner": {
     "name": "Spotify",
@@ -287,30 +287,6 @@
     {
       "added_at": "2025-03-07 09:26:47",
       "album": {
-        "name": "RIP TO MOZART",
-        "url": "https://open.spotify.com/album/27GkgtanziH7poVwKxvXJD"
-      },
-      "artists": [
-        {
-          "name": "Slaughterhouse",
-          "url": "https://open.spotify.com/artist/5xIrxXqP6GhNa8AX6wYSV9"
-        },
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        },
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        }
-      ],
-      "duration_ms": 122117,
-      "name": "RIP TO MOZART",
-      "url": "https://open.spotify.com/track/1dv8vXPxxg75AxWZ5hf9I1"
-    },
-    {
-      "added_at": "2025-03-07 09:26:47",
-      "album": {
         "name": "Game Of Hate",
         "url": "https://open.spotify.com/album/2sm4kctw7K0HbT1cRpiHYu"
       },
@@ -331,6 +307,30 @@
       "duration_ms": 180571,
       "name": "Game Of Hate",
       "url": "https://open.spotify.com/track/0YiOkYXWTaFda3ZttdkPuD"
+    },
+    {
+      "added_at": "2025-03-07 09:26:47",
+      "album": {
+        "name": "RIP TO MOZART",
+        "url": "https://open.spotify.com/album/27GkgtanziH7poVwKxvXJD"
+      },
+      "artists": [
+        {
+          "name": "Slaughterhouse",
+          "url": "https://open.spotify.com/artist/5xIrxXqP6GhNa8AX6wYSV9"
+        },
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        },
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        }
+      ],
+      "duration_ms": 122117,
+      "name": "RIP TO MOZART",
+      "url": "https://open.spotify.com/track/1dv8vXPxxg75AxWZ5hf9I1"
     },
     {
       "added_at": "2025-03-07 09:26:47",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-03-07 09:26:47",
       "album": {
-        "name": "Hardcore MF",
-        "url": "https://open.spotify.com/album/7ahAMYkwgCm0bCNTm4b5kS"
-      },
-      "artists": [
-        {
-          "name": "Access One",
-          "url": "https://open.spotify.com/artist/2yH3lflCSPqb8jI0MKmbPh"
-        }
-      ],
-      "duration_ms": 166308,
-      "name": "Hardcore MF",
-      "url": "https://open.spotify.com/track/0hLTLlucRrfvDDng4954pc"
-    },
-    {
-      "added_at": "2025-03-07 09:26:47",
-      "album": {
         "name": "Make It Blow",
         "url": "https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 175500,
       "name": "Make It Blow",
       "url": "https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU"
+    },
+    {
+      "added_at": "2025-03-07 09:26:47",
+      "album": {
+        "name": "Hardcore MF",
+        "url": "https://open.spotify.com/album/7ahAMYkwgCm0bCNTm4b5kS"
+      },
+      "artists": [
+        {
+          "name": "Access One",
+          "url": "https://open.spotify.com/artist/2yH3lflCSPqb8jI0MKmbPh"
+        }
+      ],
+      "duration_ms": 166308,
+      "name": "Hardcore MF",
+      "url": "https://open.spotify.com/track/0hLTLlucRrfvDDng4954pc"
     }
   ],
   "unique_name": "Hardcore Rage 2025",

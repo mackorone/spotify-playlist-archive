@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WNHaM.md) - [plain]
 
 > This is Deftones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,928 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,166 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WNHaM.md) - [plain]
 | 37 | [Phantom Bride](https://open.spotify.com/track/33qrQEXQJg4uk6k8fZgoOa) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Gore](https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n) | 4:53 |
 | 38 | [Rx Queen](https://open.spotify.com/track/6HgrJfzfj9WRBABdussy8z) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 4:28 |
 | 39 | [Lotion](https://open.spotify.com/track/7iiULg8Kmbnh1vWbh9rnBA) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:57 |
-| 40 | [Root](https://open.spotify.com/track/2jkZB94i573H134wKmsw2y) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 3:40 |
-| 41 | [Bloody Cape](https://open.spotify.com/track/66ace8nbTVjgHTed107cDn) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 3:35 |
+| 40 | [Bloody Cape](https://open.spotify.com/track/66ace8nbTVjgHTed107cDn) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 3:35 |
+| 41 | [Root](https://open.spotify.com/track/2jkZB94i573H134wKmsw2y) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 3:40 |
 | 42 | [Ceremony](https://open.spotify.com/track/2X5SHv5ubRTNIgMxxCPYdo) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 3:27 |
 | 43 | [Lhabia](https://open.spotify.com/track/28q0pUwcJRS2tGZsYH6xL5) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 4:11 |
 | 44 | [\(L\)MIRL](https://open.spotify.com/track/4hYNZvsCnAOZP0lADhpmgC) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Gore](https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n) | 5:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WNHaM.md) - [plain]
 | 49 | [Hexagram](https://open.spotify.com/track/2xgvuJvwjnaJHFHb66E3nq) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 4:10 |
 | 50 | [Headless](https://open.spotify.com/track/2yoIMKtEtb7iEAmyLdmS02) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 4:59 |
 
-Snapshot ID: `Z9IgAAAAAAAxbgDwX6IVW3XXOenRP1rS`
+Snapshot ID: `Z9NxgAAAAADVa1JpLC0WcKEnOn+NkFd5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Endelig fredag og ny musik fra <a href="spotify:artist:2rR0cafJvL0JVTC8E2qIqt">Saveus</a>, Benny Jamz, Selena Gomez og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,351 likes - 104 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,357 likes - 104 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 55 | [Kærlighed På Klods](https://open.spotify.com/track/1NurMkkThtQWt06R9BndUy) | [Skjold](https://open.spotify.com/artist/1g2w4El7OkqzYF2pXsv5lC), [Peder](https://open.spotify.com/artist/222TzH91go6DByqjFQCOGl), [Samantha Mercano](https://open.spotify.com/artist/3u2H4dlFdANrLKQlnnL9iE) | [Populus](https://open.spotify.com/album/4aMxt3JWYNDOncpHBV8Sc7) | 4:05 |
 | 56 | [Little Ray Of Light](https://open.spotify.com/track/6az0lDUrzgyGYBTyRvYRBH) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Little Ray Of Light](https://open.spotify.com/album/1XwroIKwbqFmy2MHBjoIzU) | 2:59 |
 | 57 | [Slowly getting there](https://open.spotify.com/track/4RNYL1O6hzgNUmGhZ7K6lo) | [Mirby](https://open.spotify.com/artist/38yjTKJ1fARaNL8wjVHLyu) | [Slowly getting there](https://open.spotify.com/album/6DQZFgtixDf7BXw5jCUBoA) | 2:37 |
-| 58 | [Love that hurts](https://open.spotify.com/track/0hNpDSUmh2NpDlAHHF9krX) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [So Long, Ruben](https://open.spotify.com/album/6nqDc8CPKCdWmaNysbYmfk) | 3:14 |
+| 58 | [Love That Hurts](https://open.spotify.com/track/0hNpDSUmh2NpDlAHHF9krX) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [So Long, Ruben](https://open.spotify.com/album/6nqDc8CPKCdWmaNysbYmfk) | 3:14 |
 | 59 | [Angels For Each Other](https://open.spotify.com/track/7KPcippmg9MvPzb3dzNpQW) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Angels For Each Other](https://open.spotify.com/album/1bOANBDFMPylV75pmNK4l3) | 3:35 |
 | 60 | [Varningsklocka](https://open.spotify.com/track/2pUjzh95Vc8GBCD5cRn3lb) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Varningsklocka](https://open.spotify.com/album/2VXZBVElPKvqrtO9Urh7CP) | 2:50 |
 | 61 | [All Right](https://open.spotify.com/track/3J5LoP6UnLst7xADfb5ZtY) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [All Right](https://open.spotify.com/album/4eikW8HEWg7LLFCzPQc8zi) | 5:19 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 84 | [Nothing Will Help Us In This World](https://open.spotify.com/track/4jrKxv0SyKNcclBJdb3o54) | [Howl Baby Howl](https://open.spotify.com/artist/4X4CJ9ctDZDbMGFLxAAkJr) | [Nothing Will Help Us In This World](https://open.spotify.com/album/0S4MnSgOVoJmMg6ADBntWV) | 3:53 |
 | 85 | [Everland](https://open.spotify.com/track/4Xcq4QjeNHyKr1PE5KEJvP) | [Peter Pain](https://open.spotify.com/artist/6fQv8WQjvZNWpZThdaiuuq), [Aperly High](https://open.spotify.com/artist/6epKo2ka9bTo3E1AaHEq5o) | [Everland](https://open.spotify.com/album/6J5TqylBd6GEYsImRZNpQ2) | 2:39 |
 | 86 | [Shitty DJ's](https://open.spotify.com/track/5CqVs6HwWyWF98ZeXS6SFh) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [MASAKA](https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY) | [Shitty DJ's](https://open.spotify.com/album/1W5K3XoVIirdRnzQkv8KoB) | 3:15 |
-| 87 | [It Gets Better \(Forever Mix\)](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [It Gets Better \(Forever Mix\)](https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO) | 4:12 |
+| 87 | [It Gets Better \- Edit](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [It Gets Better \(Forever Mix\)](https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO) | 4:12 |
 | 88 | [Different](https://open.spotify.com/track/7x8FCh3aNU7YrYUSTVGHv6) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Different](https://open.spotify.com/album/2Du9S3uLn4IsAK3R7IqEOY) | 3:26 |
 | 89 | [Play It Loud](https://open.spotify.com/track/2OzIpR52uwLnHJgjbeMIsT) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug) | [Play It Loud](https://open.spotify.com/album/6pcUFkYv5xtyV6t3APaXHX) | 2:51 |
 | 90 | [How Love](https://open.spotify.com/track/7ig7cs7MdbwP33Q28sBejx) | [MOLØ](https://open.spotify.com/artist/29k6IUtkDp9ErAaJrh1Tlg), [Slackin Beats](https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw) | [How Love](https://open.spotify.com/album/2eMky3gQRCdzRTlcII78XX) | 5:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 
 > Complex rhythms and mesmerizing loops\. Cover: Stegosauro
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,547 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,597 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 32 | [Cartus](https://open.spotify.com/track/2Hv4izofAjPpHD4CtdemPP) | [Kjjjjjjjjj](https://open.spotify.com/artist/41H3nsLvw0N1Z8FBov2Jgd) | [Centro De Dispersión](https://open.spotify.com/album/2cBhV03l2xuxYP072bNNde) | 3:04 |
 | 33 | [minet](https://open.spotify.com/track/4Nr7WCcqcvFkvm0cv9LAlv) | [archipiélagos](https://open.spotify.com/artist/2PRjdrnN3crdykcsLu1S6d) | [split](https://open.spotify.com/album/27Omp1v6xsiOdN6nKi20jN) | 3:45 |
 | 34 | [Echolocation](https://open.spotify.com/track/51Vs7KeraqZwfR5OQLuaeI) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Installation](https://open.spotify.com/album/5ZDDJpw5rFAtHNnmGMqiaO) | 3:54 |
-| 35 | [Tony Hawk of Ghana](https://open.spotify.com/track/4U0AlhWv6AQF9PHiwfaLdH) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [I Hate My Village](https://open.spotify.com/album/1X848nQC1P3Lk0UqoOuKI9) | 2:53 |
-| 36 | [Futura](https://open.spotify.com/track/19I9rURZV4nIGyutPTyaNL) | [Battles](https://open.spotify.com/artist/3EMSpwRtkvUTxfB4aS5xnA) | [Gloss Drop](https://open.spotify.com/album/4oX4lpSnDyqQ2oadKTlcaR) | 6:17 |
+| 35 | [Futura](https://open.spotify.com/track/19I9rURZV4nIGyutPTyaNL) | [Battles](https://open.spotify.com/artist/3EMSpwRtkvUTxfB4aS5xnA) | [Gloss Drop](https://open.spotify.com/album/4oX4lpSnDyqQ2oadKTlcaR) | 6:17 |
+| 36 | [Tony Hawk of Ghana](https://open.spotify.com/track/4U0AlhWv6AQF9PHiwfaLdH) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [I Hate My Village](https://open.spotify.com/album/1X848nQC1P3Lk0UqoOuKI9) | 2:53 |
 | 37 | [Pineapple](https://open.spotify.com/track/2lyO4Da4ZPbK8cpC2eo3CQ) | [standards](https://open.spotify.com/artist/2CBsUDeW88bcOdccmTodCe) | [Friends](https://open.spotify.com/album/57bo48KRDqNLZv0Yycsjj1) | 2:55 |
 | 38 | [Raft Easily](https://open.spotify.com/track/31jGKJm3lNbQJgUx6mnt9r) | [Rooftops](https://open.spotify.com/artist/4HBe2DscKcmFAjL1ml3Lx6) | [A Forest of Polarity](https://open.spotify.com/album/6MUQF78jqyNY73S9XbcF8o) | 3:37 |
 | 39 | [Railroad Cancellation](https://open.spotify.com/track/4wXUhfW8mXFbvga8KVcozJ) | [Don Caballero](https://open.spotify.com/artist/30h1cDhDvSG9RZlfBHmt9C) | [World Class Listening Problem](https://open.spotify.com/album/6NQ2rof0OEKvQklJ4GO1Xk) | 5:16 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 65 | [GRVD](https://open.spotify.com/track/7dKs6gN3niTRTFkoJWc3JJ) | [LEÑA](https://open.spotify.com/artist/3A3FoilKOXzYIkHm948iBS) | [Ni Hablar](https://open.spotify.com/album/25VaZh2ORGoNWwdNSn5H1s) | 3:41 |
 | 66 | [Una Historia para Acabar Con Todas las Historias](https://open.spotify.com/track/4Hz9fhs2GgLBMIkyjDf4ND) | [Helices](https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28) | [Propulsor](https://open.spotify.com/album/5vuM8yklTf8nA3wU9q85hI) | 6:21 |
 | 67 | [Solace](https://open.spotify.com/track/5rBHLH0hvxaX2oVQqBUWdb) | [Heavy Ocean](https://open.spotify.com/artist/6rq67hJkJ6vGBYFzFYznhX) | [H/O](https://open.spotify.com/album/79CuH08z17MxOuRrg5tcnm) | 7:35 |
-| 68 | [All We Need Is A Little Energon And A Lot Of Luck](https://open.spotify.com/track/5Ot1YTCuTtmqfcH01kN6fT) | [Meet Me in St\. Louis](https://open.spotify.com/artist/507WKf85fzZkH5W2c61m10) | [All We Need Is A Little Energon And A Lot Of Luck](https://open.spotify.com/album/20zLM4mMsPQVVKiaXMxylI) | 3:44 |
-| 69 | [Ruth Leslie \(Cigregrets Pt\. 1\)](https://open.spotify.com/track/6W9yjiuIczOUQlp1jG3FwE) | [Narrow / Arrow](https://open.spotify.com/artist/7al8a2jU7x4H9AcA7TeyqE) | [Asbestos Weak Hood](https://open.spotify.com/album/4g3y6JrQ6Jr065jNCoWPo1) | 3:02 |
+| 68 | [Ruth Leslie \(Cigregrets Pt\. 1\)](https://open.spotify.com/track/6W9yjiuIczOUQlp1jG3FwE) | [Narrow / Arrow](https://open.spotify.com/artist/7al8a2jU7x4H9AcA7TeyqE) | [Asbestos Weak Hood](https://open.spotify.com/album/4g3y6JrQ6Jr065jNCoWPo1) | 3:02 |
+| 69 | [All We Need Is A Little Energon And A Lot Of Luck](https://open.spotify.com/track/5Ot1YTCuTtmqfcH01kN6fT) | [Meet Me in St\. Louis](https://open.spotify.com/artist/507WKf85fzZkH5W2c61m10) | [All We Need Is A Little Energon And A Lot Of Luck](https://open.spotify.com/album/20zLM4mMsPQVVKiaXMxylI) | 3:44 |
 | 70 | [It's Not](https://open.spotify.com/track/0Vc8PrEdHTwwzSGxkEDFdI) | [Mylets](https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR) | [M\. Rueff](https://open.spotify.com/album/6BoKVtNv1fwNjKv0zQfkPH) | 2:43 |
 | 71 | [Alexander Supertramp](https://open.spotify.com/track/0EMVbySv8ObWdQwBLfqRis) | [Bangladesh](https://open.spotify.com/artist/3z8lWUpLUM0Z4b2184qpQF) | [Alexander Supertramp](https://open.spotify.com/album/1zxkyKlgkOYdNGMu1JKeoj) | 4:37 |
 | 72 | [Torino](https://open.spotify.com/track/3ph50wGap6ERq55TPRV89D) | [Jean Loup](https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U) | [Valerio y la Última Vuelta al Palejonú](https://open.spotify.com/album/49x51YGTHDL8fbERpiuxyH) | 4:11 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 80 | [Hornet Vision](https://open.spotify.com/track/29LbdC7GpOUg6HRAmeLHXD) | [nevraska](https://open.spotify.com/artist/23rwjhNvoYuVJsoZsEo2ET) | [I left work on my way home december 1st 1955](https://open.spotify.com/album/4CCzSdwUOL7EsmrbPIAICV) | 3:48 |
 | 81 | [003: Haiyah!](https://open.spotify.com/track/0c0bDlQjSzaEZEOb3TJdm3) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [003: Haiyah!](https://open.spotify.com/album/1FKjY7xOj7quTktAnX2hUE) | 3:54 |
 | 82 | [Gagarin](https://open.spotify.com/track/5yY29OtZoi8LoGS2HAv5dO) | [Katana Koala Kiwi](https://open.spotify.com/artist/75lvQnFxY6S4TLI9ljEbm2) | [Gagarin](https://open.spotify.com/album/2xzQosacFq29224Y7Ruz7t) | 3:08 |
-| 83 | [Andes](https://open.spotify.com/track/0RqMmK2Cf5TuSekASvzxwL) | [Montaña](https://open.spotify.com/artist/5oZKQvQiZPui8fMeeo5a2S) | [Coordenadas](https://open.spotify.com/album/6SxAPJhbN9xsgcPtEPg9C0) | 3:29 |
-| 84 | [x Maria Violenza](https://open.spotify.com/track/3I2SPI12BIfal418Rz2NtB) | [Scumma do Mar](https://open.spotify.com/artist/6ebpYhUiGhoc4cXeEHTpjH) | [Gamba Tesa](https://open.spotify.com/album/33mx3VUpMKOqFEjSirUPcG) | 1:52 |
+| 83 | [x Maria Violenza](https://open.spotify.com/track/3I2SPI12BIfal418Rz2NtB) | [Scumma do Mar](https://open.spotify.com/artist/6ebpYhUiGhoc4cXeEHTpjH) | [Gamba Tesa](https://open.spotify.com/album/33mx3VUpMKOqFEjSirUPcG) | 1:52 |
+| 84 | [Andes](https://open.spotify.com/track/0RqMmK2Cf5TuSekASvzxwL) | [Montaña](https://open.spotify.com/artist/5oZKQvQiZPui8fMeeo5a2S) | [Coordenadas](https://open.spotify.com/album/6SxAPJhbN9xsgcPtEPg9C0) | 3:29 |
 | 85 | [Queso](https://open.spotify.com/track/7v0tdOisj4IEYUjM8KBCBz) | [Hungría](https://open.spotify.com/artist/0OrifgXKiu7rDYQbFW0Dpx) | [Magyarország vagy halál](https://open.spotify.com/album/5HdscyNkq8Wqeb4ksu775M) | 5:37 |
 | 86 | [14.12](https://open.spotify.com/track/344wbdXGPVYz3ADRrFUdW0) | [Pirámides](https://open.spotify.com/artist/5rADjgosAgoE3fWHogrbvu) | [Caíste al Suelo](https://open.spotify.com/album/5Eb2EeJRJXydzt7afPGowl) | 3:23 |
 | 87 | [Ausente](https://open.spotify.com/track/5mZbQmUlpLaq5ZFSsGcVE6) | [FRDZ](https://open.spotify.com/artist/3jNpad0kg45sRNra2vNp3t) | [Fernández](https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw) | 2:21 |

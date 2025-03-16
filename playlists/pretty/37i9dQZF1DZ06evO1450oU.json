@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAACQ3vcInMbvtuqfZ5EArjwD",
+  "snapshot_id": "Z9NxgAAAAACWtpyG2AZ2pgMXFtpc38nQ",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 206216,
-      "name": "Trance",
-      "url": "https://open.spotify.com/track/6DNie5ZJ0q8TS51tBmBavY"
+      "duration_ms": 218705,
+      "name": "The Vine",
+      "url": "https://open.spotify.com/track/6tabBGQ5viiUw8DnnfKO9S"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If You Were There",
-        "url": "https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 281319,
-      "name": "Swim in Time",
-      "url": "https://open.spotify.com/track/5LYh1qa0oN7WzNlJAXimhY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Out of the Sky",
         "url": "https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM"
       },
@@ -308,9 +292,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 218705,
-      "name": "The Vine",
-      "url": "https://open.spotify.com/track/6tabBGQ5viiUw8DnnfKO9S"
+      "duration_ms": 206216,
+      "name": "Trance",
+      "url": "https://open.spotify.com/track/6DNie5ZJ0q8TS51tBmBavY"
     }
   ],
   "unique_name": "This Is Salt Creek",

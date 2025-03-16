@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 35661,
+  "num_followers": 35673,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAADxuKdPy6cdy4FFboe3XCnj",
+  "snapshot_id": "Z9NxgAAAAADPZGpRO5cuWfs2XdPsB3Wx",
   "tracks": [
     {
       "added_at": null,
@@ -407,6 +407,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/0Uvc0XDk2O8KsPIsMMdasM"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Tamela Mann",
+          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
+        }
+      ],
+      "duration_ms": 423106,
+      "name": "My World Needs You (feat. Sarah Reeves, Tasha Cobbs & Tamela Mann)",
+      "url": "https://open.spotify.com/track/0GRRDzyfiF5dQU1ZpC4Ftk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Watch The Sun (Deluxe)",
         "url": "https://open.spotify.com/album/0AbnTdKhHNa7K7h5KBPox3"
       },
@@ -439,34 +467,6 @@
       "duration_ms": 271807,
       "name": "The Better Benediction (pt.2) (feat. Lisa Knowles-Smith, Le'Andria Johnson, KeKe Wyatt, Kierra Sheard & Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Losing My Religion",
-        "url": "https://open.spotify.com/album/0Uvc0XDk2O8KsPIsMMdasM"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Tamela Mann",
-          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
-        }
-      ],
-      "duration_ms": 423106,
-      "name": "My World Needs You (feat. Sarah Reeves, Tasha Cobbs & Tamela Mann)",
-      "url": "https://open.spotify.com/track/0GRRDzyfiF5dQU1ZpC4Ftk"
     },
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chandler Moore: Live in Los Angeles",
-        "url": "https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V"
-      },
-      "artists": [
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 552401,
-      "name": "Great I Am (feat. Tasha Cobbs Leonard) - Live",
-      "url": "https://open.spotify.com/track/5MlBcBP7ARqZI4dYNzcZMa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/19yNOXDt9RzLmAU2j9YnML"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 225623,
       "name": "Awake My Soul",
       "url": "https://open.spotify.com/track/1HkXH8anJdvM3zjouj4E9k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chandler Moore: Live in Los Angeles",
+        "url": "https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V"
+      },
+      "artists": [
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 552401,
+      "name": "Great I Am (feat. Tasha Cobbs Leonard) - Live",
+      "url": "https://open.spotify.com/track/5MlBcBP7ARqZI4dYNzcZMa"
     },
     {
       "added_at": null,
@@ -688,25 +688,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 347746,
-      "name": "Smile - Live",
-      "url": "https://open.spotify.com/track/5XFYRxSFLFnxJOCFqXRLc9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart. Passion. Pursuit.: Live At Passion City Church",
-        "url": "https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 167040,
-      "name": "The Blood Hymns Medley - Live",
-      "url": "https://open.spotify.com/track/0Oc8IsqGoqf6b5KDeIAmSK"
+      "duration_ms": 369840,
+      "name": "Grace - Live",
+      "url": "https://open.spotify.com/track/5ahLgNl6MprCkvnYWRPq59"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 214872,
       "name": "Blessings (feat. Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/0USJzZsIiPDbr6ZXgXik7B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart. Passion. Pursuit.: Live At Passion City Church",
+        "url": "https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 167040,
+      "name": "The Blood Hymns Medley - Live",
+      "url": "https://open.spotify.com/track/0Oc8IsqGoqf6b5KDeIAmSK"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 369840,
-      "name": "Grace - Live",
-      "url": "https://open.spotify.com/track/5ahLgNl6MprCkvnYWRPq59"
+      "duration_ms": 347746,
+      "name": "Smile - Live",
+      "url": "https://open.spotify.com/track/5XFYRxSFLFnxJOCFqXRLc9"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Intercession (Live)",
-        "url": "https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 164480,
-      "name": "Hallelujah (You Get The Glory) - Live",
-      "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TEAR OFF THE ROOF (LIVE FROM THE HOLY CITY)",
         "url": "https://open.spotify.com/album/3RA4ISUwFp9KIhEWYbio1A"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 428354,
       "name": "THIS IS A MOVE (LIVE FROM GREENSBORO)",
       "url": "https://open.spotify.com/track/4chx4qrqcgMalneuDKedPt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Intercession (Live)",
+        "url": "https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 164480,
+      "name": "Hallelujah (You Get The Glory) - Live",
+      "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
     },
     {
       "added_at": null,
@@ -979,8 +979,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Church I Grew Up in (Live)",
-        "url": "https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi"
+        "name": "House Of David (Music Inspired By The Prime Video Original Series) [Season One]",
+        "url": "https://open.spotify.com/album/0xV5LfRixOiXlDYOvny1GI"
       },
       "artists": [
         {
@@ -988,9 +988,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 296715,
-      "name": "The Church I Grew Up In - Live",
-      "url": "https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM"
+      "duration_ms": 198932,
+      "name": "Help",
+      "url": "https://open.spotify.com/track/4IH3fJUWdjBjN8kluvRxfL"
     }
   ],
   "unique_name": "This Is Tasha Cobbs Leonard",

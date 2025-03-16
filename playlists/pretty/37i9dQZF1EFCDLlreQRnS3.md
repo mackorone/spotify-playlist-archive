@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 53 | [Old Stones](https://open.spotify.com/track/0DGiMbEuDh8EsSTMr7VWUa) | [Perttu](https://open.spotify.com/artist/1letzwegdFBTvoyJFSu8zK) | [Old Stones](https://open.spotify.com/album/30tEteM0v75u91EYSe7Oza) | 3:09 |
 | 54 | [Fade](https://open.spotify.com/track/3lVct0FG5GjLm1lALTpyPc) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Fade](https://open.spotify.com/album/1wUc9z7N5GRsfEDJVX7D91) | 2:58 |
 | 55 | [Closure](https://open.spotify.com/track/3LsmdnI5ZhcrAmsecZwnq9) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Closure](https://open.spotify.com/album/2RodNtKtjIRZr8R0qkRm3A) | 2:13 |
-| 56 | [Show You](https://open.spotify.com/track/2pi50lnTL4suF9KMOQRgcp) | [Kasper G](https://open.spotify.com/artist/1KCbJUJMBMWPE0n3jskSz8), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Show You](https://open.spotify.com/album/5ho9hNw0hocm8XGvLt4F85) | 3:26 |
-| 57 | [Lost in Life](https://open.spotify.com/track/7zgFGIH7zVmIZc3Aw3iK1M) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6eZHeiNCsuok4Tg5xxRwZa) | 4:25 |
+| 56 | [Lost in Life](https://open.spotify.com/track/7zgFGIH7zVmIZc3Aw3iK1M) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6eZHeiNCsuok4Tg5xxRwZa) | 4:25 |
+| 57 | [Show You](https://open.spotify.com/track/2pi50lnTL4suF9KMOQRgcp) | [Kasper G](https://open.spotify.com/artist/1KCbJUJMBMWPE0n3jskSz8), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Show You](https://open.spotify.com/album/5ho9hNw0hocm8XGvLt4F85) | 3:26 |
 | 58 | [RIGHT HERE \- From The Voice Of Germany](https://open.spotify.com/track/308rSPY8eo8Da3zSzjwHfA) | [Tosi Udayana](https://open.spotify.com/artist/4TGQA5eDKdkyGCmOeLWJHE), [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [RIGHT HERE \(From The Voice Of Germany\)](https://open.spotify.com/album/7lnnPqjcnuhHnBSzoE2fLP) | 2:40 |
 | 59 | [Let Me](https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Let Me](https://open.spotify.com/album/0LQqdd53wpvfCrKcf15eW8) | 2:52 |
 | 60 | [Addicted to Losing You](https://open.spotify.com/track/3F6PjG0vjxhCLWl2tJ8tod) | [French Original](https://open.spotify.com/artist/4ynyV1CHYxbAfyoJgYOc17) | [Addicted to Losing You](https://open.spotify.com/album/7N2wLmM86ATroyuk7EZ4PU) | 2:29 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 126 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
 | 127 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `AbsD4AAAAADnye2IMQYAh3r5SXNyd5cI`
+Snapshot ID: `AbsJlAAAAABPecOK9zW3w63CexI46dcL`

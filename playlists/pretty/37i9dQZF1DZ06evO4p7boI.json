@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95471,
+  "num_followers": 95469,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAA8doTxdEhZOsHlL0aZyYPG",
+  "snapshot_id": "Z9NxgAAAAACBN+qPYqMTupQpAP81JWMs",
   "tracks": [
     {
       "added_at": null,
@@ -451,30 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "6AM Thoughts",
-        "url": "https://open.spotify.com/album/6Y7WV9kM9IS5mhcgrvIbfx"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Bay Swag",
-          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
-        },
-        {
-          "name": "Cash Cobain",
-          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "6AM Thoughts (with Cash Cobain & Bay Swag)",
-      "url": "https://open.spotify.com/track/4l4gr5KjRl1msqINS47y20"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drip Season 3 (Deluxe)",
         "url": "https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi"
       },
@@ -495,6 +471,30 @@
       "duration_ms": 219816,
       "name": "Car Sick (feat. NAV & Metro Boomin)",
       "url": "https://open.spotify.com/track/4xisLMFhYADhKnkOCCV4Am"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "6AM Thoughts",
+        "url": "https://open.spotify.com/album/6Y7WV9kM9IS5mhcgrvIbfx"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "6AM Thoughts (with Cash Cobain & Bay Swag)",
+      "url": "https://open.spotify.com/track/4l4gr5KjRl1msqINS47y20"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/11HOTp4KdeOwmn7Ew0GSIs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Virgo World",
         "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 133773,
       "name": "Foreign (feat. Nav)",
       "url": "https://open.spotify.com/track/3CTOc6QGsoaxwaPJYFxNsG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 215293,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/11HOTp4KdeOwmn7Ew0GSIs"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Good For It",
-      "url": "https://open.spotify.com/track/2Bli1Wbi5mRa1BcVJaZ1m4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Painless 2 (with NAV feat. Lil Durk)",
         "url": "https://open.spotify.com/album/7rKi5SdKXxVSLIc0B9z0wK"
       },
@@ -891,22 +875,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Timing",
-        "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
       },
       "artists": [
         {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
-      "duration_ms": 177026,
-      "name": "Perfect Timing (Intro)",
-      "url": "https://open.spotify.com/track/5Od0M7jp6IODTPW0cygHgu"
+      "duration_ms": 159000,
+      "name": "Good For It",
+      "url": "https://open.spotify.com/track/2Bli1Wbi5mRa1BcVJaZ1m4"
     },
     {
       "added_at": null,
@@ -927,24 +907,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "NAV",
-      "url": "https://open.spotify.com/track/0OPfZM09RUjE46nIeJGCfX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Demons Protected By Angels",
-        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
       },
       "artists": [
         {
@@ -952,13 +916,13 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
-      "duration_ms": 181355,
-      "name": "Dead Shot (with Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/5CI4P97F6XAwK1kGnFYC0k"
+      "duration_ms": 177026,
+      "name": "Perfect Timing (Intro)",
+      "url": "https://open.spotify.com/track/5Od0M7jp6IODTPW0cygHgu"
     },
     {
       "added_at": null,
@@ -979,6 +943,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "NAV",
+      "url": "https://open.spotify.com/track/0OPfZM09RUjE46nIeJGCfX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RECKLESS",
         "url": "https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 186800,
       "name": "Freshman List",
       "url": "https://open.spotify.com/track/4LeJfeJ9u53QLp997SRhim"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Demons Protected By Angels",
+        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 164937,
+      "name": "Interstellar (with Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5HRXn4V1qL4CFNizMsFrTy"
     },
     {
       "added_at": null,

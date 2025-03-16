@@ -1,12 +1,12 @@
 {
   "description": "This is Roberta Flack. The essential tracks, all in one playlist.",
-  "num_followers": 48363,
+  "num_followers": 48375,
   "original_name": "This Is Roberta Flack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAA6pY3Im7DmoKxkvZ7zIPNZ",
+  "snapshot_id": "Z9NxgAAAAACN+zAKOigBF5LncmKC1mOD",
   "tracks": [
     {
       "added_at": null,
@@ -711,38 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roberta",
-        "url": "https://open.spotify.com/album/6ZRG7eADa1XJfu7UU4t6X1"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 602306,
-      "name": "It Might Be You",
-      "url": "https://open.spotify.com/track/3Rufli1yB8NTPOii0qReSp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 222906,
-      "name": "Conversation Love",
-      "url": "https://open.spotify.com/track/162efqDKV58JMKQgKVsGE2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs from the Neighborhood: The Music of Mister Rogers",
         "url": "https://open.spotify.com/album/3cBGz03vO7HN2LOBeTtwy7"
       },
@@ -799,6 +767,38 @@
       "duration_ms": 194226,
       "name": "Thank You for Being You",
       "url": "https://open.spotify.com/track/6b7xNBl42iQIoB3bR2sK4h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 222906,
+      "name": "Conversation Love",
+      "url": "https://open.spotify.com/track/162efqDKV58JMKQgKVsGE2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roberta",
+        "url": "https://open.spotify.com/album/6ZRG7eADa1XJfu7UU4t6X1"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 602306,
+      "name": "It Might Be You",
+      "url": "https://open.spotify.com/track/3Rufli1yB8NTPOii0qReSp"
     },
     {
       "added_at": null,

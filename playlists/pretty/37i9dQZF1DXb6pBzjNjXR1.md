@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech that was born in Southern Africa, as it travels the world's dancefloors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,535 likes - 60 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,551 likes - 60 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 7 | [Mars](https://open.spotify.com/track/62oUVHvvJdj8KNZua24z13) | [40D](https://open.spotify.com/artist/7uvCVtgyDcHAN5H0W1uF9x), [Conde](https://open.spotify.com/artist/3nXmzBwc8K7YNhPJ0tUDbu) | [Mars](https://open.spotify.com/album/17BLp2N8FJuUN3ajO8wryW) | 3:36 |
 | 8 | [Replay](https://open.spotify.com/track/5EJGNjrRsfgwgFj7hvf7fR) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ), [Bobbi Fallon](https://open.spotify.com/artist/2iGBTGNxBGp36zT37zvpHB) | [Replay](https://open.spotify.com/album/7oY5Xy6be2R9efmDVoCnvi) | 3:33 |
 | 9 | [Lost and Found](https://open.spotify.com/track/6Rvv07VtrQK4ETd28tf5qn) | [Blanka Mazimela](https://open.spotify.com/artist/5FgjaJZKmTjnJyfvE3UU2C), [Caliber AfroFusion](https://open.spotify.com/artist/1hrAOP0zA7EB9H77zCrYlZ) | [Aluku Records Various Compilation SA Edition Pt.4 \(Deluxe\)](https://open.spotify.com/album/7Cn9DI3AhuIiJsNsNplRWw) | 7:53 |
-| 10 | [Impumelelo](https://open.spotify.com/track/4Pj90rucekz58MVskPdXWM) | [Man Q](https://open.spotify.com/artist/2YWqRseYX4m8msKDg3UfXT), [Robotic](https://open.spotify.com/artist/3G4pbrAkySCidjYoV9Ppc4), [Ray&Jay](https://open.spotify.com/artist/1gGxd1GallZ8uYhT1P51PG) | [Impumelelo](https://open.spotify.com/album/6WvGzuoGR657hUkHIj0n3z) | 8:07 |
+| 10 | [Impumelelo](https://open.spotify.com/track/4Pj90rucekz58MVskPdXWM) | [Man Q](https://open.spotify.com/artist/3jZhC8M4zWsZbIzKSXyBrM), [Robotic](https://open.spotify.com/artist/3G4pbrAkySCidjYoV9Ppc4), [Ray&Jay](https://open.spotify.com/artist/1gGxd1GallZ8uYhT1P51PG) | [Impumelelo](https://open.spotify.com/album/6WvGzuoGR657hUkHIj0n3z) | 8:07 |
 | 11 | [Shiri](https://open.spotify.com/track/4dGLXDZ58XNrtdML2C4c5x) | [PA NGU](https://open.spotify.com/artist/6sMU60D1GkWWUbBRjt1xFO), [A.C.N.](https://open.spotify.com/artist/0DbbDdAUEWttT0e68bcHWo) | [Shiri](https://open.spotify.com/album/3Bv86E7EGDKOYJep3kyCN1) | 6:53 |
 | 12 | [Ghost](https://open.spotify.com/track/4k1BkXgLSbrEQ7r5YKWSZc) | [Bekzin Terris](https://open.spotify.com/artist/5bxu1WA3009bxj00yHRcMm), [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ), [Argento Dust](https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt) | [The Ghost EP](https://open.spotify.com/album/0rrxFVclSDhEjpw4zQuQKf) | 7:03 |
 | 13 | [Afrika My Afrika](https://open.spotify.com/track/63siScIvu0PyOOqSHPzcud) | [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB) | [Afrika My Afrika](https://open.spotify.com/album/1rUOxTpEkSvqRgqM1zsg9o) | 6:32 |

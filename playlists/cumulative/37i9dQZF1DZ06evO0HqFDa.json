@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Game Of Thrones: Season 3 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2025-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "Chaos Is a Ladder",
+      "url": "https://open.spotify.com/track/6iEvRqryWDEFleImTSLqR4"
+    },
+    {
+      "album": {
         "name": "Game of Thrones: Season 5 (Music from the HBO Series)",
         "url": "https://open.spotify.com/album/0LQkLdG7VkkTZj0HbONsJQ"
       },
@@ -592,7 +610,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 131026,
       "name": "Kingslayer",
       "url": "https://open.spotify.com/track/4kkJe2xKp25GU3NA3rRCSl"

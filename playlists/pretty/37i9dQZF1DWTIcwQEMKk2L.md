@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIcwQEMKk2L.md) - [plain]
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,516 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,520 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIcwQEMKk2L.md) - [plain]
 | 28 | [Isla De Flores](https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Isla De Flores](https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh) | 2:39 |
 | 29 | [Softly Spoken](https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken](https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw) | 2:16 |
 | 30 | [White Light](https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Living Memories](https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN) | 3:05 |
-| 31 | [Eeny Meeny Miny Moe](https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ) | [Peter Ehrlichmann](https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx) | [Eeny Meeny Miny Moe](https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus) | 1:08 |
-| 32 | [Perfect](https://open.spotify.com/track/4XIjT3aXNrg3xgAnzczJ5B) | [Piano Pianissimo](https://open.spotify.com/artist/48vVtpjXYUwaX03U1aIm0x) | [Soft Piano Tunes](https://open.spotify.com/album/3UYr2MnyB2nTHv3T9tcuAr) | 4:08 |
+| 31 | [Perfect](https://open.spotify.com/track/4XIjT3aXNrg3xgAnzczJ5B) | [Piano Pianissimo](https://open.spotify.com/artist/48vVtpjXYUwaX03U1aIm0x) | [Soft Piano Tunes](https://open.spotify.com/album/3UYr2MnyB2nTHv3T9tcuAr) | 4:08 |
+| 32 | [Eeny Meeny Miny Moe](https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ) | [Peter Ehrlichmann](https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx) | [Eeny Meeny Miny Moe](https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus) | 1:08 |
 | 33 | [Chemin de la lune](https://open.spotify.com/track/20uoDnTsBOXkPJd1TmjpqZ) | [Neil Chapman Green](https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ) | [Chemin de la lune](https://open.spotify.com/album/12bQXgWbTWoYbUsLr9rxIP) | 2:09 |
 | 34 | [Before last month](https://open.spotify.com/track/6EpEjSQr7d6agKJENjeDff) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [Before last month](https://open.spotify.com/album/4uygDUyIh8thKY9bYH5pJS) | 2:04 |
 | 35 | [God Help the Outcasts](https://open.spotify.com/track/7vwGTeO0cug9SYAKxPxjea) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Disney Covers Vol 1](https://open.spotify.com/album/6UQMp88U2Qv5nRVUHASfyR) | 3:06 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIcwQEMKk2L.md) - [plain]
 | 48 | [You Are Peace](https://open.spotify.com/track/5i9EFDkipPL6BwtLJSEDp9) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [You Are Peace](https://open.spotify.com/album/0sGPgMPvaNuC5SCIL4MFcT) | 3:24 |
 | 49 | [Easy To Love](https://open.spotify.com/track/4IQIY6NBsk5X6NLYjPvOaZ) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Easy To Love](https://open.spotify.com/album/6OK4mZCuEVyzUTwDLkjUTY) | 2:46 |
 | 50 | [Almost Like Being In Love](https://open.spotify.com/track/60jR3qwZHx1dJGppF3i7Jo) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [Almost Like Being In Love](https://open.spotify.com/album/3YIiPDNnkO0T65LtjWN4wB) | 3:36 |
-| 51 | [Box Of Photos](https://open.spotify.com/track/1du3L7rqD0PrJSrNE0ye0q) | [Alfie Walker](https://open.spotify.com/artist/4ftOemOz9fYLTulZP8ZKol) | [Box Of Photos](https://open.spotify.com/album/7hwYTjbYMoS8QwGVPzesOZ) | 2:29 |
-| 52 | [Prime](https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy) | [Colette Blanche](https://open.spotify.com/artist/1DD8UrtrUxPyiRq6uIbXtn) | [Prime](https://open.spotify.com/album/7xZjzgI2IKORmNfaFFoO9t) | 2:17 |
+| 51 | [Prime](https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy) | [Colette Blanche](https://open.spotify.com/artist/1DD8UrtrUxPyiRq6uIbXtn) | [Prime](https://open.spotify.com/album/7xZjzgI2IKORmNfaFFoO9t) | 2:17 |
+| 52 | [Box Of Photos](https://open.spotify.com/track/1du3L7rqD0PrJSrNE0ye0q) | [Alfie Walker](https://open.spotify.com/artist/4ftOemOz9fYLTulZP8ZKol) | [Box Of Photos](https://open.spotify.com/album/7hwYTjbYMoS8QwGVPzesOZ) | 2:29 |
 | 53 | [Kleine Forelle](https://open.spotify.com/track/5B9DnzAxmYHSuEMegZYYwQ) | [Ulrich Volker](https://open.spotify.com/artist/2SCQRaipWsBYaFiNhkFDYY) | [Nibiru](https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7) | 1:58 |
 | 54 | [First Sunrise](https://open.spotify.com/track/6gDt7eZjJNIkzLj9jVEBZo) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [First Sunrise](https://open.spotify.com/album/31TimKFNBjRjS4oLnzfect) | 3:32 |
 | 55 | [Tangerine](https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Tangerine](https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ) | 2:39 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIcwQEMKk2L.md) - [plain]
 | 60 | [All The Things You Are](https://open.spotify.com/track/5fPAnIAbiZlIeBtEjJ30yU) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [All The Things You Are](https://open.spotify.com/album/7kpHuQEwvXqC0bVVmax5TU) | 2:54 |
 | 61 | [I Will Wait](https://open.spotify.com/track/5efmTcG1xyKUGP6UMBx6x3) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [I Will Wait](https://open.spotify.com/album/3djy7T65ukIdrFIOxFM1k6) | 2:06 |
 | 62 | [Over The Rainbow](https://open.spotify.com/track/2Wvwr16E4O51JeNSs5K5Dp) | [Sonya O'Malley](https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE) | [Fall Pieces](https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp) | 3:58 |
-| 63 | [Rest Well, My Good Friend](https://open.spotify.com/track/4qsQlYS060DvsApA2fSfS3) | [Angus Grove](https://open.spotify.com/artist/0E2uBetGBqdjRyv6I7PVVL) | [Rest Well, My Good Friend](https://open.spotify.com/album/2bdW0kSzUyL4ZV9AMOvWzi) | 2:41 |
-| 64 | [Dolce Far Niente](https://open.spotify.com/track/3FoNBTNv03Soj4XDk6FJqH) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Dolce Far Niente](https://open.spotify.com/album/09UDHpQS7ti6T14R8i742n) | 2:12 |
+| 63 | [Dolce Far Niente](https://open.spotify.com/track/3FoNBTNv03Soj4XDk6FJqH) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Dolce Far Niente](https://open.spotify.com/album/09UDHpQS7ti6T14R8i742n) | 2:12 |
+| 64 | [Rest Well, My Good Friend](https://open.spotify.com/track/4qsQlYS060DvsApA2fSfS3) | [Angus Grove](https://open.spotify.com/artist/0E2uBetGBqdjRyv6I7PVVL) | [Rest Well, My Good Friend](https://open.spotify.com/album/2bdW0kSzUyL4ZV9AMOvWzi) | 2:41 |
 | 65 | [This Is The Time](https://open.spotify.com/track/5WlGbaNBwa8cClh21SVhXp) | [Aimee Fleur](https://open.spotify.com/artist/6nI0MtO93pTNhec5pbP43B) | [This Is The Time](https://open.spotify.com/album/7jLYwN5WoR3ysYdA9xz6SU) | 2:39 |
 | 66 | [I've Grown Accustomed to Her Face](https://open.spotify.com/track/4oIs2yMe7K0U49LbHWLvOq) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [I've Grown Accustomed to Her Face](https://open.spotify.com/album/615KqDDPOkcihBWbHqK3MJ) | 2:39 |
 | 67 | [Petals](https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1) | [Floriscope](https://open.spotify.com/artist/0G4MXHhzyHUB9XexNNg2Sw) | [Petals](https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L) | 2:37 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIcwQEMKk2L.md) - [plain]
 | 82 | [Up Above](https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4) | [Dorothy Baughman](https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL) | [Up Above](https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg) | 2:03 |
 | 83 | [Murray's Moon](https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [Murray's Moon](https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW) | 2:07 |
 | 84 | [A Game of Badminton \(feat\. Jack Liebeck\)](https://open.spotify.com/track/02BumRY2OTFMkMxrXSVMat) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jack Liebeck](https://open.spotify.com/artist/4PwrerouUXvowe3ynAOWSP), [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Jane Eyre \- Original Motion Picture Soundtrack](https://open.spotify.com/album/4EHO6nIhB0OCyOY2vQ8yqX) | 0:58 |
-| 85 | [Compass](https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Compass](https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv) | 2:20 |
-| 86 | [Hickory Dickory Dock](https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW) | [Martha Blackburn](https://open.spotify.com/artist/0YHFM04rfc7pNp63NLvswp) | [Head, Shoulders, Knees and Toes](https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn) | 1:17 |
+| 85 | [Hickory Dickory Dock](https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW) | [Martha Blackburn](https://open.spotify.com/artist/0YHFM04rfc7pNp63NLvswp) | [Head, Shoulders, Knees and Toes](https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn) | 1:17 |
+| 86 | [Compass](https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Compass](https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv) | 2:20 |
 | 87 | [A Gift To Share](https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [A Gift To Share](https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy) | 2:19 |
 | 88 | [Magnolia](https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm) | [Snow in April](https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv) | [Magnolia](https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F) | 2:28 |
 | 89 | [Children Will Listen](https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT) | [Belinda Myers](https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8) | [Defying Gravity](https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb) | 2:23 |

@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5gGz6o2Kqyguz6L1O9jzAv?si=5fQj3E11TFGdWr2K4tnrPA">Joneaux</a>
 
-1,066 songs - 2 day 12 hr 37 min
+1,067 songs - 2 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Chase the sun](https://open.spotify.com/track/1Vy5OKXonzGToIK2vCKgpj) | [Bhuti & The Beast](https://open.spotify.com/artist/0LNvudyoaZ1DlA1oCTlYnX), [Azi SA](https://open.spotify.com/artist/0nC6wq5vtdOdvJdruojZwN), [AV Raincandy](https://open.spotify.com/artist/2EAJTNNONpUI3Cc6Nz8KaR) | [Chase the sun](https://open.spotify.com/album/1cBR568AmwbnnScXXADt41) | 2:42 | 2023-08-04 | 2023-11-10 |
 | [Chelsea Blakemore](https://open.spotify.com/track/7EGi0qRExGCKt76HRmCoBr) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [The Hanging Gardens Of Beatenberg](https://open.spotify.com/album/1LDSPYtniVN09zmRdd1meQ) | 3:37 | 2024-01-11 | 2024-07-05 |
 | [cherry cola](https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [cherry cola / sunburn](https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn) | 2:48 | 2024-07-04 | 2024-08-02 |
-| [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:22 | 2024-12-12 |  |
+| [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:22 | 2024-12-12 | 2025-03-16 |
 | [CHICKEN MAYO](https://open.spotify.com/track/6o6ydS9wgJL5URC2hIessV) | [SuperSaiyanRasta.](https://open.spotify.com/artist/2ZUEP6gwvkhOKktt7lT8kX) | [CHICKEN MAYO](https://open.spotify.com/album/6jo8Rk0JRv4h8IhD4oxklW) | 2:38 | 2022-12-08 | 2023-01-13 |
 | [Cigarettes](https://open.spotify.com/track/59sO3PZBgWBDVAnhJKkCqp) | [SyonkoTheMan](https://open.spotify.com/artist/52q9KxQFuumM4i1tbufUgX), [GOD\-Artist](https://open.spotify.com/artist/327rzGr8Sj1D2m2ShcAgF0), [Wandilorn](https://open.spotify.com/artist/1w5Cq2qn7FR498amWpFRIR) | [Cigarettes](https://open.spotify.com/album/6kE2uEV0sRnzY56zH5Vaaa) | 3:29 | 2022-08-18 | 2022-12-09 |
 | [Cinnamon Whiskey](https://open.spotify.com/track/5iLhfhw81hcBloaFpq2QvB) | [Pixie Whip](https://open.spotify.com/artist/29dQnPAvvIDHL1Gi3CFQVU) | [Cinnamon Whiskey](https://open.spotify.com/album/3wTYz0yTSRJBRvzddhBgUd) | 2:39 | 2025-03-06 |  |
@@ -941,6 +941,7 @@
 | [Tightly Bound](https://open.spotify.com/track/1VG1atMGf1GYMQ52MLJKDQ) | [Basson Laas](https://open.spotify.com/artist/2Beab8dPjPTw62bpTfETqx) | [Tightly Bound](https://open.spotify.com/album/4g0PmnyPZFN15ezcGZ0bGS) | 3:33 | 2023-07-06 | 2023-08-05 |
 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 | 2024-01-11 | 2024-07-05 |
 | [Time Traveller](https://open.spotify.com/track/6nDR6GyqwYJ0w1Fya7tmEM) | [Majozi](https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt) | [A Great Exchange](https://open.spotify.com/album/6M6c0jstabGdNsfSDML9wI) | 3:42 | 2024-08-29 | 2024-12-13 |
+| [To Be Evil](https://open.spotify.com/track/3SiL0WJs9X0NJf2QWlnwTC) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [To Be Evil](https://open.spotify.com/album/0qqJo4HFwXGKvHN9cudtly) | 3:45 | 2025-03-15 |  |
 | [To Feel Strange](https://open.spotify.com/track/70VFFycKn12NYMMWbRqc7g) | [The Office Koki Club](https://open.spotify.com/artist/0Hwau6CLbJsWOCJHk7hboT) | [To Feel Strange](https://open.spotify.com/album/7xIvaB9waXGdt8uTI83I86) | 4:37 | 2024-12-19 |  |
 | [To Love](https://open.spotify.com/track/0a64exvT5aKVaRSmAVMaCT) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [To Love](https://open.spotify.com/album/3ZyQIG8k6Tx28reDJFBbOK) | 3:56 | 2023-03-02 | 2023-04-22 |
 | [To Rage](https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:45 | 2023-04-06 | 2023-06-16 |

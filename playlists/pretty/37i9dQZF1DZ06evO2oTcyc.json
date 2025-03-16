@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 215792,
+  "num_followers": 215846,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAAh+FZ10rvM01HXF3eJjQ2P",
+  "snapshot_id": "Z9NxgAAAAAAHZN38/FOpXMyCR7V1WIWU",
   "tracks": [
     {
       "added_at": null,
@@ -99,6 +99,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 268186,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/4Q3N4Ct4zCuIHuZ65E3BD4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dying to Live",
         "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 228759,
       "name": "ZEZE (feat. Travis Scott & Offset)",
       "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Painting Pictures",
-        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Tunnel Vision",
-      "url": "https://open.spotify.com/track/4Q3N4Ct4zCuIHuZ65E3BD4"
     },
     {
       "added_at": null,
@@ -203,26 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 188870,
-      "name": "HVN ON EARTH (with Kodak Black)",
-      "url": "https://open.spotify.com/track/4CIyxiObT9G35HrSItAblR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FIELD TRIP",
         "url": "https://open.spotify.com/album/73RJkZAkpUFHyGw4gTUQjK"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 163155,
       "name": "FIELD TRIP",
       "url": "https://open.spotify.com/track/3lCb7ZYE3Fvie4JOPqpXfY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TEC",
+        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 188870,
+      "name": "HVN ON EARTH (with Kodak Black)",
+      "url": "https://open.spotify.com/track/4CIyxiObT9G35HrSItAblR"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shampoo",
-        "url": "https://open.spotify.com/album/6kvguegn7g69twj0Cg0OQ7"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 131213,
-      "name": "Shampoo",
-      "url": "https://open.spotify.com/track/2yrEBYkFqRcT65jRXnIICU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dying to Live",
         "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 130929,
       "name": "If I'm Lyin', I'm Flyin'",
       "url": "https://open.spotify.com/track/7HdNB8nvJOBwHa8hIkzvxp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shampoo",
+        "url": "https://open.spotify.com/album/6kvguegn7g69twj0Cg0OQ7"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 131213,
+      "name": "Shampoo",
+      "url": "https://open.spotify.com/track/2yrEBYkFqRcT65jRXnIICU"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Painting Pictures",
-        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 168312,
-      "name": "Day for Day",
-      "url": "https://open.spotify.com/track/0rGipWrGwAnZsaVkyiJpap"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drowning (Sped Up Version)",
         "url": "https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 174517,
       "name": "Drowning - Sped Up Version",
       "url": "https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 168312,
+      "name": "Day for Day",
+      "url": "https://open.spotify.com/track/0rGipWrGwAnZsaVkyiJpap"
     },
     {
       "added_at": null,
@@ -899,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 164038,
-      "name": "MoshPit (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/4KX8vXbouybtUptEyYxtIk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rain Snow",
         "url": "https://open.spotify.com/album/4J8J59Y2vgHOCjj3ftrQ0t"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 191598,
       "name": "Rain Snow",
       "url": "https://open.spotify.com/track/3HdS2u68EgyAxUokwbY2r7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 164038,
+      "name": "MoshPit (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/4KX8vXbouybtUptEyYxtIk"
     },
     {
       "added_at": null,

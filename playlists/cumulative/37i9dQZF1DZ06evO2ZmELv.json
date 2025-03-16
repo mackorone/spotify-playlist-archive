@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 206058,
       "name": "Besos de Papel - En Vivo",
       "url": "https://open.spotify.com/track/6ILt8LHVCRGAhf1HFeZVty"
@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Me Bebi Tu Recuerdo",
+        "url": "https://open.spotify.com/album/5fVPMn4h5ZPFEUJBHEs8lF"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190682,
+      "name": "Me Bebi Tu Recuerdo",
+      "url": "https://open.spotify.com/track/1DQ8PVNmNJqGVHBZSkoK5L"
+    },
+    {
+      "album": {
         "name": "Confidente",
         "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
       },
@@ -1190,7 +1208,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 162453,
       "name": "Te Traigo Estas Flores - En Vivo",
       "url": "https://open.spotify.com/track/7b11w1h0oEmyTXEOnNg50Y"
@@ -1324,24 +1342,6 @@
       "duration_ms": 238976,
       "name": "Un Mundo Raro - Versi\u00f3n Banda En Vivo",
       "url": "https://open.spotify.com/track/3DVa2De5SqGSs9Nj3vQMx3"
-    },
-    {
-      "album": {
-        "name": "Y Me Bebi Tu Recuerdo",
-        "url": "https://open.spotify.com/album/5fVPMn4h5ZPFEUJBHEs8lF"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "date_added": "2025-03-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 190682,
-      "name": "Y Me Bebi Tu Recuerdo",
-      "url": "https://open.spotify.com/track/1DQ8PVNmNJqGVHBZSkoK5L"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Música ideal para tomar el té y relajar.
 
-183 songs - 10 hr 51 min
+184 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Desaprender](https://open.spotify.com/track/5CGzoPhT2u7P1yHge1f4iJ) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Mundo Debajo del Mundo](https://open.spotify.com/album/5p3JWd7zmX6D1UQdtPtveJ) | 2:56 | 2023-08-18 | 2024-04-19 |
 | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:45 | 2023-08-18 | 2023-10-21 |
 | [Donde Vas?](https://open.spotify.com/track/3RJ4OyJpNuNCRAUnCJWWuH) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee), [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Donde Vas?](https://open.spotify.com/album/1dtTQUfgnrHi7nrPbyfzEf) | 3:02 | 2024-05-16 | 2024-08-20 |
+| [Dopamina](https://open.spotify.com/track/7ontkt96zdqa5SOxdA8xFu) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Dopamina](https://open.spotify.com/album/5GYUFA7GNOu4JfVbXUBO01) | 3:14 | 2025-03-14 |  |
 | [Dos Extraños \(Cuarteto de Cuerda\)](https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Dos Extraños \(Cuarteto de Cuerda\)](https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q) | 2:58 | 2023-12-20 |  |
 | [Dos Hemisferios](https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Dos Hemisferios](https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8) | 3:35 | 2024-02-23 |  |
 | [Duele](https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Duele](https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5) | 3:27 | 2024-04-17 | 2025-03-10 |
@@ -103,7 +104,7 @@
 | [Lisboa\-Madrid](https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Lisboa\-Madrid](https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy) | 3:40 | 2023-08-18 | 2023-10-21 |
 | [Lluvia](https://open.spotify.com/track/4yqC8seNrokRL0vkYy43ow) | [María Ezquiaga](https://open.spotify.com/artist/5v8omMFYuqXgJxEHPpw7qn), [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [Lluvia](https://open.spotify.com/album/1zKHdPX9wNsGranXOknj4a) | 3:11 | 2024-08-12 | 2024-08-17 |
 | [Loco \(Tu Forma de Ser\) \[Ft\. Rubén Albarrán\] \- MTV Unplugged](https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 4:09 | 2023-08-18 |  |
-| [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 | 2023-08-18 |  |
+| [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 | 2023-08-18 | 2025-03-16 |
 | [M.T.](https://open.spotify.com/track/4ubAsBARZm0vPnlHXToW6s) | [Mar Marzo](https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc) | [M.T.](https://open.spotify.com/album/6b7TVxSQAqIM4iXFM3xYC0) | 3:25 | 2023-08-18 | 2023-10-21 |
 | [Madre](https://open.spotify.com/track/3aC7Zr43bVLQU9s2d12enq) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Madre](https://open.spotify.com/album/3tCum4uYwoeZQKS6MF5Huj) | 3:07 | 2025-02-21 |  |
 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 | 2023-08-18 |  |

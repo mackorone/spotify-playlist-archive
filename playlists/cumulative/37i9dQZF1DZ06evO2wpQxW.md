@@ -4,7 +4,7 @@
 
 > This is Calibre 50\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 12 min
+80 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [El Niño Sicario](https://open.spotify.com/track/1sVNgN59IWB81LiT1Agz9e) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Lo Mejor De...](https://open.spotify.com/album/3crvxBWvPLb0T9TMwlJKup) | 4:46 | 2023-08-08 | 2024-06-30 |
 | [El Sueño Americano](https://open.spotify.com/track/4NANPwin7KV3pQcFChSbvr) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [El Sueño Americano](https://open.spotify.com/album/0S2vdWW0P6Tj7EBZJzsqaW) | 3:47 | 2024-11-18 | 2024-12-15 |
 | [El Tierno Se Fue](https://open.spotify.com/track/3RqnWbtQpoeoU7EpS5H7VS) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [De Sinaloa Para El Mundo](https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39) | 4:19 | 2023-08-08 |  |
-| [El Triste Alegre](https://open.spotify.com/track/2mNRZ3ewIzRD5JU8M7yOZ2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH) | 2:19 | 2023-08-08 |  |
+| [El Triste Alegre](https://open.spotify.com/track/2mNRZ3ewIzRD5JU8M7yOZ2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH) | 2:19 | 2023-08-08 | 2025-03-16 |
 | [El Viejo](https://open.spotify.com/track/5ak02CIeaWbhQr8M479AfN) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [La Recompensa](https://open.spotify.com/album/5YMCgTdT06cMlFlznzO2fo) | 3:50 | 2023-08-08 |  |
 | [Escuela Del Virus Antrax](https://open.spotify.com/track/4UUf48kLSSO3fLL0lYkfoe) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [De Sinaloa Para El Mundo](https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39) | 2:41 | 2023-08-08 |  |
 | [Frijoles Con Panela](https://open.spotify.com/track/1wxbTlwvzRp3thyCoexuUD) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 3:33 | 2023-08-08 |  |
@@ -83,6 +83,7 @@
 | [Vamos Bien](https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 3:20 | 2023-08-08 | 2024-07-05 |
 | [Vengo De Verla](https://open.spotify.com/track/1kMZEs9L3zxMu6oihu2xR2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Tiempo Al Tiempo](https://open.spotify.com/album/2QnEyYe3GrDMi8gMTTn62U) | 3:18 | 2023-08-25 | 2024-01-25 |
 | [Voy A Ser Breve](https://open.spotify.com/track/1NrkTltXfryaM38xymc3tn) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 3:02 | 2023-08-08 | 2024-01-28 |
+| [Vuela Alto](https://open.spotify.com/track/6zAbof3A0ZOt0J7PNF3sIx) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Vuela Alto](https://open.spotify.com/album/2EJM2bCVNoQdZkdBIAvUzw) | 2:38 | 2025-03-16 |  |
 | [Y Yo Sin Ti](https://open.spotify.com/track/33mNMJ2UUE9uLPMNabxgGq) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Y Yo Sin Ti](https://open.spotify.com/album/3jCQKwXBTIMy13TfEAxKhl) | 3:18 | 2023-08-08 | 2023-08-28 |
 | [¿Por Qué Cambiaste De Opinión?](https://open.spotify.com/track/1j8gLQNfFOI0vs8qcVTWwa) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Mitad Y Mitad](https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R) | 4:01 | 2023-08-08 |  |
 | [¿Quién De Los Dos Será?](https://open.spotify.com/track/4bk3DB7VC88NDLw8Du4IJA) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [¿Quién De Los Dos Será?](https://open.spotify.com/album/61Pq9DBSvk4JJ8s9n72t0G) | 3:01 | 2023-08-08 | 2023-08-11 |

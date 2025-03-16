@@ -4,12 +4,12 @@
 
 > ☀️
 
-164 songs - 8 hr 29 min
+165 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [25](https://open.spotify.com/track/5AZbkQmVnvkCMX7kOIT6jg) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [25](https://open.spotify.com/album/0VUXnqYhSEbRpQiJ6pvcYt) | 3:18 | 2024-09-12 | 2024-11-04 |
-| [25 bare fem år til](https://open.spotify.com/track/75gRDppqFWCiMLO7nKqxYL) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [25 bare fem år til](https://open.spotify.com/album/5AJRaypaewaQL04QgPkz1L) | 2:45 | 2024-10-03 |  |
+| [25 bare fem år til](https://open.spotify.com/track/75gRDppqFWCiMLO7nKqxYL) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [25 bare fem år til](https://open.spotify.com/album/5AJRaypaewaQL04QgPkz1L) | 2:45 | 2024-10-03 | 2025-03-16 |
 | [28](https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:53 | 2024-07-04 |  |
 | [A Lovestory](https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [A Lovestory](https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT) | 3:04 | 2025-01-09 |  |
 | [A Potion For Love](https://open.spotify.com/track/5Xk6GwwLwQaklody4DslTD) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Potion For Love](https://open.spotify.com/album/79kiDzdz5iv1aQ68x4PJA0) | 3:36 | 2024-06-27 |  |
@@ -87,6 +87,7 @@
 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 | 2024-07-04 |  |
 | [Lips](https://open.spotify.com/track/12vs8cG1lkt4Eq53nLK2GV) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Lips](https://open.spotify.com/album/4pAwod3owXQHQIBQwMM5a9) | 2:15 | 2024-06-27 |  |
 | [Lost and found](https://open.spotify.com/track/5GdAGqF9ZI4gADtpVAxqe7) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Lost and found](https://open.spotify.com/album/4lYqiJcxx3bhcZ076VRyjG) | 3:14 | 2024-09-19 |  |
+| [Love That Hurts](https://open.spotify.com/track/0hNpDSUmh2NpDlAHHF9krX) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [So Long, Ruben](https://open.spotify.com/album/6nqDc8CPKCdWmaNysbYmfk) | 3:14 | 2025-03-13 |  |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-27 | 2024-10-11 |
 | [Lykke te](https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Lykke te](https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS) | 2:44 | 2024-06-27 |  |
 | [Lyst på dæ](https://open.spotify.com/track/0pAaQWTrmbKEVPL0mlB9Sx) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Lyst på dæ](https://open.spotify.com/album/04zK7xAmi8Mx3A2OVUtT3i) | 2:41 | 2024-06-27 | 2024-10-11 |

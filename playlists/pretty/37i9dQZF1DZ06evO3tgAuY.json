@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Favela. The essential tracks, all in one playlist.",
-  "num_followers": 2200,
+  "num_followers": 2205,
   "original_name": "This Is Alex Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAA5R1oLNH8ye7EmAUMBI+mn",
+  "snapshot_id": "Z9NxgAAAAAD530fbTc9i0Ut7rK4oiixp",
   "tracks": [
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RZR Rojo",
-        "url": "https://open.spotify.com/album/3ooQzMHUnEgvmhcdwQlr6I"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 112981,
-      "name": "RZR Rojo",
-      "url": "https://open.spotify.com/track/4O5wR64RB2ZjyekGRalbMj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Romeo y Julieta",
         "url": "https://open.spotify.com/album/0JJY1h8OqvSrKRpAV6BgRS"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 152464,
       "name": "Romeo y Julieta",
       "url": "https://open.spotify.com/track/0fRVzm2ywVCBYobvnVBct1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RZR Rojo",
+        "url": "https://open.spotify.com/album/3ooQzMHUnEgvmhcdwQlr6I"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 112981,
+      "name": "RZR Rojo",
+      "url": "https://open.spotify.com/track/4O5wR64RB2ZjyekGRalbMj"
     },
     {
       "added_at": null,
@@ -623,18 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos Duros",
-        "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
+        "name": "El Vago",
+        "url": "https://open.spotify.com/album/04z62VCLswRn0sA2xg9dSd"
       },
       "artists": [
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
         }
       ],
-      "duration_ms": 164992,
-      "name": "Tiempo Duros",
-      "url": "https://open.spotify.com/track/6M2aZA9L6kkpn6O8UHhGU2"
+      "duration_ms": 177050,
+      "name": "El Vago",
+      "url": "https://open.spotify.com/track/7C1vq0IO8W2WU12bOayEaN"
     },
     {
       "added_at": null,
@@ -659,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Vago",
-        "url": "https://open.spotify.com/album/04z62VCLswRn0sA2xg9dSd"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 177050,
-      "name": "El Vago",
-      "url": "https://open.spotify.com/track/7C1vq0IO8W2WU12bOayEaN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LA Live Session",
         "url": "https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 124117,
       "name": "El Lic - En Vivo",
       "url": "https://open.spotify.com/track/4Wmzvb4GkzBBJdvhxkc89C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiempos Duros",
+        "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 164992,
+      "name": "Tiempo Duros",
+      "url": "https://open.spotify.com/track/6M2aZA9L6kkpn6O8UHhGU2"
     },
     {
       "added_at": null,
@@ -715,22 +715,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos Duros",
-        "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
+        "name": "En Vivo Desde CLN Tololoche Edition",
+        "url": "https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z"
       },
       "artists": [
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Jordin Sandoval",
-          "url": "https://open.spotify.com/artist/04P0m8LCKhoMBOz2V7OtwX"
         }
       ],
-      "duration_ms": 145493,
-      "name": "El Dragon",
-      "url": "https://open.spotify.com/track/0jZScMFNGw4Lfc7ezSJFVT"
+      "duration_ms": 110256,
+      "name": "RZR Rojo - En Vivo",
+      "url": "https://open.spotify.com/track/2p0fRqlC2yZVMJAoNWCmeh"
     },
     {
       "added_at": null,
@@ -755,8 +751,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde CLN Tololoche Edition",
-        "url": "https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z"
+        "name": "Tiempos Duros",
+        "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Jordin Sandoval",
+          "url": "https://open.spotify.com/artist/04P0m8LCKhoMBOz2V7OtwX"
+        }
+      ],
+      "duration_ms": 145493,
+      "name": "El Dragon",
+      "url": "https://open.spotify.com/track/0jZScMFNGw4Lfc7ezSJFVT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Brillo de Mis Ojos",
+        "url": "https://open.spotify.com/album/4hrceAyhQrDdiFV4XJZMer"
       },
       "artists": [
         {
@@ -764,9 +780,9 @@
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         }
       ],
-      "duration_ms": 110256,
-      "name": "RZR Rojo - En Vivo",
-      "url": "https://open.spotify.com/track/2p0fRqlC2yZVMJAoNWCmeh"
+      "duration_ms": 212672,
+      "name": "El Brillo de Mis Ojos",
+      "url": "https://open.spotify.com/track/4aV9ASbXqXKjDIkoYSyWHC"
     },
     {
       "added_at": null,
@@ -787,22 +803,6 @@
       "duration_ms": 160362,
       "name": "Dejate Llevar",
       "url": "https://open.spotify.com/track/2wYXO8oP8xJlDexYHSZaiR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Brillo de Mis Ojos",
-        "url": "https://open.spotify.com/album/4hrceAyhQrDdiFV4XJZMer"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 212672,
-      "name": "El Brillo de Mis Ojos",
-      "url": "https://open.spotify.com/track/4aV9ASbXqXKjDIkoYSyWHC"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde CLN Tololoche Edition",
-        "url": "https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 119920,
-      "name": "Medio Fresa - En Vivo",
-      "url": "https://open.spotify.com/track/4epfxYcztlxebaoBOQvddw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Maserati (En Vivo)",
         "url": "https://open.spotify.com/album/4Vl2J07gWFVCZsLF2Bn0uk"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 162474,
       "name": "El Maserati - En Vivo",
       "url": "https://open.spotify.com/track/6ifiv4MdtQ7XYu2bhEyFZf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde CLN Tololoche Edition",
+        "url": "https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 119920,
+      "name": "Medio Fresa - En Vivo",
+      "url": "https://open.spotify.com/track/4epfxYcztlxebaoBOQvddw"
     },
     {
       "added_at": null,
@@ -919,6 +919,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ac\u00e1 Por Tijuana (En Vivo)",
+        "url": "https://open.spotify.com/album/3MV4ny3FtiZ8eLcPJubwAl"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 134184,
+      "name": "Ac\u00e1 Por Tijuana - En Vivo",
+      "url": "https://open.spotify.com/track/6MWU4lwTjKRKRsSP80rSKB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canchame",
         "url": "https://open.spotify.com/album/3DEQ1q5V010o1E8zoCSVvr"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 210780,
       "name": "Canchame",
       "url": "https://open.spotify.com/track/20RQ9mAluOQ3SLHK3MgLX8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is The End (En Vivo)",
-        "url": "https://open.spotify.com/album/2Gv0dgR654JYphwcViwYwU"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Hector Rubio",
-          "url": "https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy"
-        }
-      ],
-      "duration_ms": 196414,
-      "name": "This Is The End - En Vivo",
-      "url": "https://open.spotify.com/track/71e3w7ws39md8KgfP7LVlR"
     },
     {
       "added_at": null,

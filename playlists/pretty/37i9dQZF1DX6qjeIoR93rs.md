@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 
 > The sweet sounds of Palestine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,786 likes - 70 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,807 likes - 70 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 44 | [Killing The Game](https://open.spotify.com/track/4ly0Ru87w8fphGaHiL4LIv) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Killing The Game](https://open.spotify.com/album/49uleJjxcPQ1cxQU1HzsZ1) | 2:21 |
 | 45 | [Today is the day](https://open.spotify.com/track/3W4P1ay0wX7Rz1FIdwFfB3) | [Hazy Noir](https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY) | [Today Is the day](https://open.spotify.com/album/5pY94XM2JmmrY71Ck3aTMA) | 2:31 |
 | 46 | [Dabke System](https://open.spotify.com/track/6pA25Qz9Pbvb90I6j0MRYy) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Dabke System](https://open.spotify.com/album/0WKmc7uvbK5VlKFTZ1bJ7G) | 5:42 |
-| 47 | [لا تغمزيني](https://open.spotify.com/track/3XknoC28vtiUyutxsG9ul6) | [Laith Abu Joda](https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m) | [لا تغمزيني](https://open.spotify.com/album/3KVMPfIaR2QTJIguyhdnxh) | 2:58 |
-| 48 | [Sobo El Gahwa](https://open.spotify.com/track/2huCtJ3Sql6a4P74wbzogy) | [Zenobia](https://open.spotify.com/artist/1111ivBPyEwa1mdOB2SA0X), [Faten Shafeq Kabaha](https://open.spotify.com/artist/7uDoPvAaYD2RUrr35aH1bK) | [Sobo El Gahwa](https://open.spotify.com/album/7ylO1Fv0pXSm89nnuQyuhX) | 4:20 |
+| 47 | [Sobo El Gahwa](https://open.spotify.com/track/2huCtJ3Sql6a4P74wbzogy) | [Zenobia](https://open.spotify.com/artist/1111ivBPyEwa1mdOB2SA0X), [Faten Shafeq Kabaha](https://open.spotify.com/artist/7uDoPvAaYD2RUrr35aH1bK) | [Sobo El Gahwa](https://open.spotify.com/album/7ylO1Fv0pXSm89nnuQyuhX) | 4:20 |
+| 48 | [لا تغمزيني](https://open.spotify.com/track/3XknoC28vtiUyutxsG9ul6) | [Laith Abu Joda](https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m) | [لا تغمزيني](https://open.spotify.com/album/3KVMPfIaR2QTJIguyhdnxh) | 2:58 |
 | 49 | [Mayel ya Ghuzayel](https://open.spotify.com/track/5yV5kOWEoYWwmhcET8BCc9) | [Ensemble Musical De Palestine](https://open.spotify.com/artist/4s2acSp68ZnCVdC0lkQ9sz) | [Gaza \- Tradition musicale palestinienne](https://open.spotify.com/album/6MXT3YX1QwNWXxmKfKNHzt) | 4:49 |
 | 50 | [The Night Has Fallen Down](https://open.spotify.com/track/4K4QRaxWC7MBuzRzRgNj3U) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO) | [Seasons of Violet \- Lovesongs from Palestine](https://open.spotify.com/album/2EU211lSUnCFszTWpUvU2Y) | 5:06 |
 | 51 | [Palestine](https://open.spotify.com/track/0BBYordA8bTjXjcY3mBrxW) | [Ministry Of Dubkey](https://open.spotify.com/artist/5myvv84iU2FTGFnGU38LIU) | [Palestine](https://open.spotify.com/album/0uAyLaAYUEUflFJA387QCl) | 1:21 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 54 | [القضية فلسطينية](https://open.spotify.com/track/7KaT8J7igAsn5Xof9ccu7q) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [القضية فلسطينية](https://open.spotify.com/album/5ZFL6eq3fsGCa5268jMNYa) | 2:49 |
 | 55 | [Laween](https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR) | [Sama Shoufani](https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr) | [Laween](https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs) | 3:28 |
 | 56 | [G'areeb Fi Bladi \(Stranger In My Own Country\)](https://open.spotify.com/track/0BqIeIEdNQuYqj2js8BA27) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz) | [Dedication](https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO) | 3:45 |
-| 57 | [Mo Light](https://open.spotify.com/track/4ELE971aOY79OV4263w8h3) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Mo Light](https://open.spotify.com/album/25uNBZF9zpP2QxDpZNrn1E) | 4:45 |
-| 58 | [Yalah Yalah Ramallah](https://open.spotify.com/track/0hMAja0ctsCGFn0Nps83Z4) | [Fermin Muguruza](https://open.spotify.com/artist/3fJaSjkcJrLV5JYot02ckk) | [Checkpoint Rock: Canciones Desde Palestina](https://open.spotify.com/album/5elgS21gSfVxSjz2y22iP8) | 4:52 |
+| 57 | [Yalah Yalah Ramallah](https://open.spotify.com/track/0hMAja0ctsCGFn0Nps83Z4) | [Fermin Muguruza](https://open.spotify.com/artist/3fJaSjkcJrLV5JYot02ckk) | [Checkpoint Rock: Canciones Desde Palestina](https://open.spotify.com/album/5elgS21gSfVxSjz2y22iP8) | 4:52 |
+| 58 | [Mo Light](https://open.spotify.com/track/4ELE971aOY79OV4263w8h3) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Mo Light](https://open.spotify.com/album/25uNBZF9zpP2QxDpZNrn1E) | 4:45 |
 | 59 | [Arabs Say KHOD](https://open.spotify.com/track/1olrdm18fB6b45WiYB6TFr) | [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30) | [Arabs Say KHOD](https://open.spotify.com/album/0lMkfXfoeEbE3DUvIFB66s) | 3:12 |
 | 60 | [Ibn Gaza](https://open.spotify.com/track/4QCpIFfyrpHuIICOGYpN2J) | [Laith Abu Joda](https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m) | [Ibn Gaza](https://open.spotify.com/album/3Rp6oJKIE5zQrMptdWzrgh) | 1:21 |
 | 61 | [Room](https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7) | [Fadi Ammous](https://open.spotify.com/artist/1jDVc6g1Qkiwxnbjz02Gpi) | [Room](https://open.spotify.com/album/6lAmjHAwltL9jRp1GAGCEX) | 2:37 |

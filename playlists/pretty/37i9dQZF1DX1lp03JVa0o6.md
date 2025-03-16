@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: Ely Oaks
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,939 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,961 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 13 | [Ocean](https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Ocean](https://open.spotify.com/album/0T84ITkYkKp7x3vxWpvSCf) | 3:16 |
 | 14 | [I Guess We're Not The Same](https://open.spotify.com/track/36nYS9AwMR06ph6imdjn7J) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [I Guess We’re Not The Same](https://open.spotify.com/album/2qcjJEhyv2SCJOphfOIGZ3) | 3:31 |
 | 15 | [Mickey](https://open.spotify.com/track/1xQNzLluHdgoJKElrPAMqm) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Tigerlily](https://open.spotify.com/artist/48xCatjXaoohtyOHrHTijG) | [Mickey](https://open.spotify.com/album/6dM35IuwDMKCdSF639sxAz) | 2:39 |
-| 16 | [Yosemite](https://open.spotify.com/track/2I7Ph7hRkjOMgy9WCsE4F3) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Yosemite](https://open.spotify.com/album/5fDFirEEe5owUhblkIy23d) | 4:26 |
+| 16 | [Yosemite \- Edit](https://open.spotify.com/track/2I7Ph7hRkjOMgy9WCsE4F3) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Yosemite](https://open.spotify.com/album/5fDFirEEe5owUhblkIy23d) | 4:26 |
 | 17 | [Call My Name](https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Call My Name](https://open.spotify.com/album/0nY0X0q9Kv4b1iEiv1ORFq) | 5:03 |
 | 18 | [Focus \(feat\. CLOVES\)](https://open.spotify.com/track/0xaXwvcjq7aAKwMKe22Bw7) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Focus \(feat\. CLOVES\)](https://open.spotify.com/album/4hwsD3b6V8962BDX5nCiFF) | 3:58 |
 | 19 | [Sleepyhead 2025](https://open.spotify.com/track/4aSyYc1rWc2KhTknSfpx9H) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Sleepyhead 2025](https://open.spotify.com/album/3Tq2PZjUqnJ5rJWlmku0Oc) | 4:05 |

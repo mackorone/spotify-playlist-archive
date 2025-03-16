@@ -12293,6 +12293,28 @@
     },
     {
       "album": {
+        "name": "\u307e\u308f\u308c \u307e\u308f\u308c (feat. I'm)",
+        "url": "https://open.spotify.com/album/0Bi0yW8wbOzuPqCrHn4SeM"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "I'm",
+          "url": "https://open.spotify.com/artist/4wsCElmDWiDsjWWDGMElsD"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293023,
+      "name": "\u307e\u308f\u308c \u307e\u308f\u308c (feat. I'm)",
+      "url": "https://open.spotify.com/track/4QTGxEcuJYJGTWQwGm6FSS"
+    },
+    {
+      "album": {
         "name": "\u307f\u3064\u3081\u3066\u3044\u3066",
         "url": "https://open.spotify.com/album/3TlbwxvxsGJB3Sa98fwZxH"
       },
@@ -13614,7 +13636,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 192000,
       "name": "\u30d6\u30eb\u30fc\u30b8\u30fc",
       "url": "https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y"

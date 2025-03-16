@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,423 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,459 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 12 | [Trip to Greece](https://open.spotify.com/track/6kFAXQq2EKd8z6JUjQ72Zk) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Trip to Greece](https://open.spotify.com/album/1OpEvfFju28XMHEFvO1zWQ) | 3:06 |
 | 13 | [The End](https://open.spotify.com/track/4jpAxGPufc1MqjgzcLKbMu) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [The End](https://open.spotify.com/album/1WyfmLkloGkMcrFke9UIej) | 2:56 |
 | 14 | [Hardcore Life](https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Hardcore Life](https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w) | 2:45 |
-| 15 | [RIP TO MOZART](https://open.spotify.com/track/1dv8vXPxxg75AxWZ5hf9I1) | [Slaughterhouse](https://open.spotify.com/artist/5xIrxXqP6GhNa8AX6wYSV9), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3) | [RIP TO MOZART](https://open.spotify.com/album/27GkgtanziH7poVwKxvXJD) | 2:02 |
-| 16 | [Game Of Hate](https://open.spotify.com/track/0YiOkYXWTaFda3ZttdkPuD) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W) | [Game Of Hate](https://open.spotify.com/album/2sm4kctw7K0HbT1cRpiHYu) | 3:00 |
+| 15 | [Game Of Hate](https://open.spotify.com/track/0YiOkYXWTaFda3ZttdkPuD) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W) | [Game Of Hate](https://open.spotify.com/album/2sm4kctw7K0HbT1cRpiHYu) | 3:00 |
+| 16 | [RIP TO MOZART](https://open.spotify.com/track/1dv8vXPxxg75AxWZ5hf9I1) | [Slaughterhouse](https://open.spotify.com/artist/5xIrxXqP6GhNa8AX6wYSV9), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3) | [RIP TO MOZART](https://open.spotify.com/album/27GkgtanziH7poVwKxvXJD) | 2:02 |
 | 17 | [Rip City](https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Rip City](https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh) | 2:41 |
 | 18 | [Fear Means Nothing](https://open.spotify.com/track/5IMxXIfzFdaTQuFSmj3K8j) | [LØIS](https://open.spotify.com/artist/26BlBsd1xi3sWL8quhNrr5), [NATHN](https://open.spotify.com/artist/12cbTL9PVQKIZ84kcmcg6L), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [Fear Means Nothing](https://open.spotify.com/album/4DZKHRN2X3icFOtTTCwJmr) | 5:53 |
 | 19 | [Can You Feel My Heart](https://open.spotify.com/track/0l4ZvPu0rOuzSga9N1851S) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Can You Feel My Heart](https://open.spotify.com/album/2BtzKUQZoPGKq8xRv4JPhF) | 2:32 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 46 | [Know Me Like](https://open.spotify.com/track/1sYXnmfLdX0EtaMm7pphX3) | [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n), [Rosbeek](https://open.spotify.com/artist/1JBQEf0i8Vl8oPG7iUNzr0) | [Know Me Like](https://open.spotify.com/album/4g6jfqwpgyGh52gQzSdbGO) | 2:39 |
 | 47 | [Higher](https://open.spotify.com/track/1QdqN2pX7iLIhN9XmxReGX) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [Higher](https://open.spotify.com/album/4BWyDlJgFG1aPEF7NvHFEM) | 3:54 |
 | 48 | [Back In The Game](https://open.spotify.com/track/1gZsQhy8eW7IEuxcQ9Dzuy) | [KEMAL](https://open.spotify.com/artist/7JW9vNFifByjqiuZMVwlwg), [D\-Tempo](https://open.spotify.com/artist/5qsxbdy5zUGUvUzNbWhCot) | [Back In The Game](https://open.spotify.com/album/0BD4etlJxWIQ3rrEezCXqj) | 2:54 |
-| 49 | [Hardcore MF](https://open.spotify.com/track/0hLTLlucRrfvDDng4954pc) | [Access One](https://open.spotify.com/artist/2yH3lflCSPqb8jI0MKmbPh) | [Hardcore MF](https://open.spotify.com/album/7ahAMYkwgCm0bCNTm4b5kS) | 2:46 |
-| 50 | [Make It Blow](https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Make It Blow](https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu) | 2:55 |
+| 49 | [Make It Blow](https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Make It Blow](https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu) | 2:55 |
+| 50 | [Hardcore MF](https://open.spotify.com/track/0hLTLlucRrfvDDng4954pc) | [Access One](https://open.spotify.com/artist/2yH3lflCSPqb8jI0MKmbPh) | [Hardcore MF](https://open.spotify.com/album/7ahAMYkwgCm0bCNTm4b5kS) | 2:46 |
 
 Snapshot ID: `Z8q71wAAAADI8LKcwSwFerIUeOOBTe5t`

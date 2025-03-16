@@ -4,7 +4,7 @@
 
 > easy breezy dance music
 
-302 songs - 14 hr 58 min
+303 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [I Came For You](https://open.spotify.com/track/7GzMPJZYGgWW7VbcHYG21I) | [Starzun](https://open.spotify.com/artist/0t5KQtd9bQ4vRgLn4Rr1l4), [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8) | [I Came For You](https://open.spotify.com/album/0XJRGHbpVofHp14XgEpQHv) | 2:37 | 2024-07-12 | 2024-11-15 |
 | [I Can See](https://open.spotify.com/track/5kN62URVImEmUvFKui2lh8) | [Krister & Dalbani](https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT) | [I Can See](https://open.spotify.com/album/3pFp7hOb2KjAPgVb4ZAARk) | 2:10 | 2023-06-08 |  |
 | [I'll Be Here](https://open.spotify.com/track/5UTjWT7qr0ltzTTzifQETi) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Endless, Dawn](https://open.spotify.com/album/6MKZdIsK146WQexodIPOvs) | 4:52 | 2024-03-20 | 2024-08-02 |
-| [Iawah](https://open.spotify.com/track/17VWtILiXRAg9hr4XE32ZS) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB) | [Iawah](https://open.spotify.com/album/3xGdWWsFebqULLTKXBvlqt) | 2:21 | 2024-06-20 |  |
+| [Iawah](https://open.spotify.com/track/17VWtILiXRAg9hr4XE32ZS) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB) | [Iawah](https://open.spotify.com/album/3xGdWWsFebqULLTKXBvlqt) | 2:21 | 2024-06-20 | 2025-03-16 |
 | [If I Have To](https://open.spotify.com/track/3YL13hNz8ssxUsPHG7GgUP) | [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN), [Mosoo](https://open.spotify.com/artist/4tb4RmDN2nG89wOo7SQLzh), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Morane](https://open.spotify.com/artist/6UaAGwEkZDSzBtMbfPcDeB) | [If I Have To](https://open.spotify.com/album/4QuTyx5bLbYPRqzhUymkID) | 4:06 | 2024-11-14 | 2025-02-08 |
 | [ilomilo](https://open.spotify.com/track/5zZaxeRo4e09KUJ5sbEC7Q) | [MBNN](https://open.spotify.com/artist/0ZXntjSej6WUvpEMkRgwKJ), [Rowald Steyn](https://open.spotify.com/artist/4IPKNc0sHqlSECkJNX7moj) | [ilomilo](https://open.spotify.com/album/2OcIdyZT6qespG0S1MuxYY) | 3:01 | 2022-09-15 | 2022-11-17 |
 | [In The Sun](https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [In The Sun](https://open.spotify.com/album/6mY2Yfw2UaryA7F8KherNy) | 2:32 | 2022-09-15 | 2024-03-21 |
@@ -179,6 +179,7 @@
 | [Lost In Love \(feat\. Rolipso\)](https://open.spotify.com/track/3RQHMgJrpWmWaTNbB5svBx) | [Jack David](https://open.spotify.com/artist/4cX1pqH0S3g3jvN8wiYPjG), [okafuwa](https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj), [Jorden Dux](https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Lost In Love \(feat\. Rolipso\)](https://open.spotify.com/album/0nSnzGCV5AvTxOgO3weiou) | 2:04 | 2024-09-10 |  |
 | [Lost In The Sky](https://open.spotify.com/track/3tFNn8hGcISeYWLORFqncX) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Lost In The Sky](https://open.spotify.com/album/7dwJXlUeHtiGZZNiLi0O3g) | 2:40 | 2023-06-08 | 2024-11-22 |
 | [Lost In The Sky](https://open.spotify.com/track/5ZeGvfbXQC7WqEqnNoZMTQ) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Lost In The Sky](https://open.spotify.com/album/1Buz836gF1ikJN43NgQiNn) | 2:40 | 2023-06-08 | 2024-04-19 |
+| [Love You So](https://open.spotify.com/track/2Da4R63vIvr5FSGjXaO7Ap) | [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [Love You So](https://open.spotify.com/album/3DCO2DZFApkgWqRBUhzj3a) | 2:04 | 2025-03-13 |  |
 | [Madness](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 | 2022-09-15 | 2024-10-25 |
 | [MAGNETS](https://open.spotify.com/track/1DARVvN0RpBRhZpVal39VL) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [Oscar Duke](https://open.spotify.com/artist/5umWPuWy08G1yEugAzTxvh) | [MAGNETS](https://open.spotify.com/album/57aR8JKeYr0zS1foTbAexP) | 2:26 | 2024-02-07 | 2024-11-15 |
 | [Marco Polo](https://open.spotify.com/track/50FNVTyZYrhryZk4R3F5pv) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [AMELY](https://open.spotify.com/artist/1hZHcJTY2MYNhTqlrfgobM) | [Marco Polo](https://open.spotify.com/album/71iSMPw4ij9TcH8YWIpTux) | 2:36 | 2022-09-15 | 2022-12-24 |

@@ -4,7 +4,7 @@
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-84 songs - 4 hr 7 min
+85 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Ferxxo 100](https://open.spotify.com/track/0XUpGwuM98v7v9jVHNXjlN) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Ferxxo 100](https://open.spotify.com/album/32tBjPwSPQFBQJDHa5EvR6) | 3:18 | 2024-01-29 | 2024-05-09 |
 | [Finta De Fresitas](https://open.spotify.com/track/7EsdZUTmBOPWrWttIBkeQh) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Finta De Fresitas](https://open.spotify.com/album/72mTKDr3PmqRBCwUbH29Ta) | 2:55 | 2024-01-29 | 2024-07-27 |
 | [Fotos Hot](https://open.spotify.com/track/1vnDr3JmeBIYPOCCntE76H) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Fotos Hot](https://open.spotify.com/album/4zD9ojAyJyG2On7waxHdn1) | 2:57 | 2024-04-08 | 2024-08-30 |
-| [Isidro El Chapo](https://open.spotify.com/track/3oCnK6eVusBd5E0hwy1azd) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Isidro El Chapo](https://open.spotify.com/album/30HVgN4IGJj9kprrLhb9jz) | 2:48 | 2024-01-29 |  |
+| [Isidro El Chapo](https://open.spotify.com/track/3oCnK6eVusBd5E0hwy1azd) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Isidro El Chapo](https://open.spotify.com/album/30HVgN4IGJj9kprrLhb9jz) | 2:48 | 2024-01-29 | 2025-03-16 |
 | [La Belikada](https://open.spotify.com/track/53fbPJud2fcK12jzYIHqD6) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [La Belikada](https://open.spotify.com/album/23fDudy0YVBpYwSFFcB0Jn) | 2:33 | 2024-01-29 |  |
 | [La Captura Del Niño Vicente](https://open.spotify.com/track/1vW9v99lo2DlhoAofsJAiS) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 3:12 | 2024-03-10 | 2024-06-30 |
 | [La Invitación](https://open.spotify.com/track/3J4oi4vGsPrgTjk6PSqY7B) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp) | 3:13 | 2024-03-30 |  |
@@ -70,6 +70,7 @@
 | [Me Dejaron Como 100pre](https://open.spotify.com/track/3D3EWDeepkSSXs8zlAzIUk) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Me Dejaron Como 100pre](https://open.spotify.com/album/2dGhHOPafHRV5Pcba6FUsN) | 2:52 | 2024-01-29 |  |
 | [Me Ven X LA](https://open.spotify.com/track/3VVk8rPvZ7xdKzYugKNO42) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew) | [Me Ven X LA](https://open.spotify.com/album/0OziSS9Rh7H2xnJwfYeMoS) | 2:38 | 2024-04-21 | 2025-02-11 |
 | [Mi Gata Fav](https://open.spotify.com/track/6YbSgcWfz8MSzXL2ezZDkN) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Pa Mis Compas Y Rolitas Pa Mi Ex](https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU) | 2:31 | 2024-08-25 |  |
+| [Mi más grande error](https://open.spotify.com/track/5g7ohfHLulYM39b6mkiURy) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Mi más grande error](https://open.spotify.com/album/5VavgMSlwoK93M5vSMJmDG) | 2:23 | 2025-03-16 |  |
 | [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/4ygqxH6686TXD7gcINcAFJ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp) | 2:45 | 2024-01-29 |  |
 | [Mónaco](https://open.spotify.com/track/3RNYklroWCjjHx2CjYRoEc) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp) | 3:03 | 2024-01-29 | 2024-03-31 |
 | [Niña Bonita](https://open.spotify.com/track/6WtSS25sDT93CJsqENrgw4) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp) | 3:39 | 2024-01-29 | 2024-03-02 |

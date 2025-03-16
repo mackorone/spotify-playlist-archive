@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > consider us perched for the ascent of main pop girlie rachel chinouriri
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,560,724 likes - 130 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,560,655 likes - 130 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

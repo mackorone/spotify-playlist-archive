@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,454 likes - 105 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,459 likes - 105 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 24 | [BIRDS FLY HIGH](https://open.spotify.com/track/63hXKh8T502h6Nkp2fuizM) | [Elias Hurtig](https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP) | [Birds fly high](https://open.spotify.com/album/0JtNg52YdsdeT8WbZs3ZdZ) | 2:43 |
 | 25 | [Helvete!](https://open.spotify.com/track/2nImXY805FlyEcXIP5BbbM) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Helvete!](https://open.spotify.com/album/46WcOMzRtUPDPt55G0Osjm) | 3:42 |
 | 26 | [Zombieboy](https://open.spotify.com/track/0ElVpg9XIswx3XWs6kUj6a) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:33 |
-| 27 | [Love that hurts](https://open.spotify.com/track/0hNpDSUmh2NpDlAHHF9krX) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [So Long, Ruben](https://open.spotify.com/album/6nqDc8CPKCdWmaNysbYmfk) | 3:14 |
+| 27 | [Love That Hurts](https://open.spotify.com/track/0hNpDSUmh2NpDlAHHF9krX) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [So Long, Ruben](https://open.spotify.com/album/6nqDc8CPKCdWmaNysbYmfk) | 3:14 |
 | 28 | [Gloria](https://open.spotify.com/track/2CghTghvdsGOiTWAHoEOaf) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Gloria](https://open.spotify.com/album/5ttGp9NcuUNKFSwHd1h9j6) | 2:52 |
 | 29 | [Only Love](https://open.spotify.com/track/6fu8kFePHPqOz4WOOG0trB) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [hi, it's nice to meet me](https://open.spotify.com/album/0MMEETFIql7BICSfsIfoBF) | 4:19 |
 | 30 | [Why Keep Trying?](https://open.spotify.com/track/2ZN7xICw1NCMvDffky7Crj) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [Why Keep Trying?](https://open.spotify.com/album/3UUWAoL4MspBet1B7lNJNX) | 3:42 |

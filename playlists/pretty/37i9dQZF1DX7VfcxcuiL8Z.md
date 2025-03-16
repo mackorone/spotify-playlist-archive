@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Brad Cox
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,891 likes - 86 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,893 likes - 86 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

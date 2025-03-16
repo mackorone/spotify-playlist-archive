@@ -4,7 +4,7 @@
 
 > Move it and groove it to these great tunes!
 
-126 songs - 6 hr 23 min
+127 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [I Gotta Feeling](https://open.spotify.com/track/4vp2J1l5RD4gMZwGFLfRAu) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/36fdxiOzdlmsrHgGcfvqUJ) | 4:49 | 2022-03-31 | 2022-07-07 |
 | [I Gotta Feeling](https://open.spotify.com/track/1K93JM7sOGRDKab1I7fPRd) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Kids Dance Party Music](https://open.spotify.com/album/3IJxyZ07BQS9q5oCZScKV2) | 4:49 | 2022-10-14 | 2022-11-14 |
 | [I Like To Move It](https://open.spotify.com/track/4bAFo6r2ODMDoqM5YHV2gM) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Madagascar: Escape 2 Africa \(Music From The Motion Picture\)](https://open.spotify.com/album/0a6NsOaOzlrubGl3htyVWG) | 3:41 | 2022-03-31 |  |
+| [If You're Happy & You Know It \(TODDLER TECHNO\)](https://open.spotify.com/track/3Z31bfKlaANPwxRaMJgy92) | [Lenny Pearce](https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8) | [Lenny's Toddler Techno \(Vol1\)](https://open.spotify.com/album/4iIfA12jhRw38vWhJdpJ4y) | 1:13 | 2025-03-14 |  |
 | [If You're Happy and You Know It](https://open.spotify.com/track/1CoEBzmNnIJlNRrgcGZ1Lz) | [Big Don](https://open.spotify.com/artist/5CgfMNQljRnqHeS8EZ54JT) | [Big Don's Brand New Beat](https://open.spotify.com/album/3p6hybEOJ67tTbLYUd2i2v) | 3:05 | 2022-03-31 | 2025-01-28 |
 | [It's Raining Tacos Again](https://open.spotify.com/track/2gBSQCNsDZYwlsiZGvQXtT) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [The Raining Tacos Saga](https://open.spotify.com/album/3mEi6JvyJcLoPsOrPgIVyC) | 1:44 | 2025-01-27 |  |
 | [It's Stariana!](https://open.spotify.com/track/0mI8clBGy1IIVDctrLA9fP) | [The Cast of Baby Shark's Big Movie](https://open.spotify.com/artist/2qlOwH6ICaEw63LMC3bBVR), [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [It's Stariana!](https://open.spotify.com/album/5yhIJn35x1qpZVTdg4Mv4Q) | 0:43 | 2024-01-30 | 2024-06-03 |
@@ -93,7 +94,7 @@
 | [Move Your Feet](https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [D\-D\-Don't Don't Stop the Beat](https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7) | 3:01 | 2023-06-02 | 2024-04-19 |
 | [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 | 2022-03-31 | 2024-07-01 |
 | [Move Your Feet / D.A.N.C.E\. / It's A Sunshine Day](https://open.spotify.com/track/6d3edMXJpns1A0zGKkmlGw) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [James Corden](https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P), [Ron Funches](https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP), [Walt Dohrn](https://open.spotify.com/artist/4hWc4epxTdb1KC3jRd1wDd), [Caroline Hjelt](https://open.spotify.com/artist/0XF3yeiKSQF2zl5H05jfME), [Aino Jawo](https://open.spotify.com/artist/6aIcl5XVRwk32v6hc7lDyV), [Kunal Nayyar](https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 2:36 | 2022-03-31 |  |
-| [My Jam](https://open.spotify.com/track/4r5ibfNn0SOvfF2Dh1znnH) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [My Jam](https://open.spotify.com/album/2d3S8K0TuX800sJc4sBB80) | 2:45 | 2022-03-31 |  |
+| [My Jam](https://open.spotify.com/track/4r5ibfNn0SOvfF2Dh1znnH) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [My Jam](https://open.spotify.com/album/2d3S8K0TuX800sJc4sBB80) | 2:45 | 2022-03-31 | 2025-03-16 |
 | [My Universe](https://open.spotify.com/track/7fV5tA7WHXwZfmfO1tBzRo) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [My Universe](https://open.spotify.com/album/7uF0sUMcjfk0j8WmzwtcR2) | 3:17 | 2022-03-31 | 2022-07-28 |
 | [Nice to Meet You](https://open.spotify.com/track/6KmrCHbuNOsdoeDOpwetr7) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 3:10 | 2024-08-06 |  |
 | [Nobody Can Change Me!](https://open.spotify.com/track/1o7715nSyvmepjU6Q2LU1s) | [JoJo Siwa](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/784cFhESN44WTceqtXcPLN) | 3:37 | 2022-03-31 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Vanessa Zamora. The essential tracks, all in one playlist.",
-  "num_followers": 2756,
+  "num_followers": 2759,
   "original_name": "This Is Vanessa Zamora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAACZEBpMzHRao6RaajJDFGEH",
+  "snapshot_id": "Z9NxgAAAAADb69ky2K0lyBNYm/kd2gtQ",
   "tracks": [
     {
       "added_at": null,
@@ -27,8 +27,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Q.I.S",
-        "url": "https://open.spotify.com/album/6bTKewCMHer6xH1SGu1CzH"
+        "name": "GRAVEDAD",
+        "url": "https://open.spotify.com/album/2yV4CHrPLbeYTB9U0jbrOB"
       },
       "artists": [
         {
@@ -36,13 +36,13 @@
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         },
         {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
         }
       ],
-      "duration_ms": 223910,
-      "name": "Q.I.S - feat. maye",
-      "url": "https://open.spotify.com/track/5HRtkyn2GNDz5DD4BfEjnt"
+      "duration_ms": 179586,
+      "name": "GRAVEDAD - feat. \u00c7antamarta",
+      "url": "https://open.spotify.com/track/3g1ag6GtD3ntvNWfw0ub04"
     },
     {
       "added_at": null,
@@ -63,6 +63,26 @@
       "duration_ms": 152178,
       "name": "No Jal\u00f3",
       "url": "https://open.spotify.com/track/2bYnrg0QUC9x1jQRLYcDOd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Q.I.S",
+        "url": "https://open.spotify.com/album/6bTKewCMHer6xH1SGu1CzH"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 223910,
+      "name": "Q.I.S - feat. maye",
+      "url": "https://open.spotify.com/track/5HRtkyn2GNDz5DD4BfEjnt"
     },
     {
       "added_at": null,
@@ -235,26 +255,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nave Especial",
-        "url": "https://open.spotify.com/album/0aDzJpuIP4rGj7yjDapFm7"
+        "name": "JUAN PABLO VEGA",
+        "url": "https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR"
       },
       "artists": [
         {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
         },
         {
           "name": "Vanessa Zamora",
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 209042,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/3tPVvPnyiD4IR5Un9rCVBf"
+      "duration_ms": 222598,
+      "name": "Dejarnos Ir",
+      "url": "https://open.spotify.com/track/1RtxRTF1LfRphqcH0UDvZt"
     },
     {
       "added_at": null,
@@ -279,22 +295,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "JUAN PABLO VEGA",
-        "url": "https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR"
+        "name": "Nave Especial",
+        "url": "https://open.spotify.com/album/0aDzJpuIP4rGj7yjDapFm7"
       },
       "artists": [
         {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
         },
         {
           "name": "Vanessa Zamora",
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 222598,
-      "name": "Dejarnos Ir",
-      "url": "https://open.spotify.com/track/1RtxRTF1LfRphqcH0UDvZt"
+      "duration_ms": 209042,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/3tPVvPnyiD4IR5Un9rCVBf"
     },
     {
       "added_at": null,

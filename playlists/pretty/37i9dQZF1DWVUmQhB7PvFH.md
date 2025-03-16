@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: 蔡依林 \(Jolin Tsai\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,934 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,008 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,15 +21,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 | 11 | [妥協](https://open.spotify.com/track/0m1cI6aV1jq537JamnL592) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [花蝴蝶](https://open.spotify.com/album/4vGWkGex9QdZCXwP5XM3HR) | 4:24 |
 | 12 | [突然好想你](https://open.spotify.com/track/0IAgufC1FlOg1nZMmRZxRr) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [後 青春期的詩](https://open.spotify.com/album/3cCdHi2r9iknmDTBSOWlqF) | 4:25 |
 | 13 | [十年](https://open.spotify.com/track/25pWemriUQVrZ3yIiS2IBf) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [黑·白·灰](https://open.spotify.com/album/0zMV4uDNTSQAiphN3cVzQ0) | 3:25 |
-| 14 | [童話](https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg) | [Michael Wong](https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO) | [十光年精選輯](https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm) | 4:06 |
-| 15 | [紅色高跟鞋](https://open.spotify.com/track/5DSF1VTSaaAFIesJLlltuM) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [若你碰到他](https://open.spotify.com/album/60ibi7DcLi7LDZSgq4KQfF) | 3:26 |
+| 14 | [紅色高跟鞋](https://open.spotify.com/track/5DSF1VTSaaAFIesJLlltuM) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [若你碰到他](https://open.spotify.com/album/60ibi7DcLi7LDZSgq4KQfF) | 3:26 |
+| 15 | [童話](https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg) | [Michael Wong](https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO) | [十光年精選輯](https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm) | 4:06 |
 | 16 | [Melody](https://open.spotify.com/track/6A4wVKbcg0mRriCFjZzX0Z) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [黑色柳丁](https://open.spotify.com/album/3u5zGr9TFLRi2wXeHmNclY) | 4:29 |
 | 17 | [不得不愛](https://open.spotify.com/track/3TYzES2lL8BTPE4uudj0Hj) | [Will Pan](https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0), [Xian Zi](https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ) | [高手](https://open.spotify.com/album/2BH0E9RymXvSKzFr0mgXE7) | 4:41 |
 | 18 | [三人遊](https://open.spotify.com/track/0ZkoOzNcWkxXaeWzuBFWPU) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [橙月](https://open.spotify.com/album/3uhvDy6obaVBGrYu7FGYYB) | 3:57 |
 | 19 | [擱淺](https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc) | 3:58 |
 | 20 | [逆光](https://open.spotify.com/track/4x1hB3Yg01Aq6J6q0deS9M) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [逆光](https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw) | 4:54 |
-| 21 | [如果你也聽說](https://open.spotify.com/track/3mWZefa0yfuRz0KjeeVIBU) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [Star](https://open.spotify.com/album/4eMAjsUbDOkARR5MVOLwQ8) | 5:13 |
-| 22 | [陌生人](https://open.spotify.com/track/3hKbA5OnjR4wBxwmpjte8h) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [陌生人](https://open.spotify.com/album/2fyyCvT7n5lCS6F45rexOg) | 3:54 |
+| 21 | [陌生人](https://open.spotify.com/track/3hKbA5OnjR4wBxwmpjte8h) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [陌生人](https://open.spotify.com/album/2fyyCvT7n5lCS6F45rexOg) | 3:54 |
+| 22 | [如果你也聽說](https://open.spotify.com/track/3mWZefa0yfuRz0KjeeVIBU) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [Star](https://open.spotify.com/album/4eMAjsUbDOkARR5MVOLwQ8) | 5:13 |
 | 23 | [就是愛妳](https://open.spotify.com/track/73eCSQ1DxQbaOnzy8PhKx3) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [太平盛世](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) | 4:21 |
 | 24 | [後來](https://open.spotify.com/track/2wzXhxWPX0aODraKNXoJYY) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [我等你](https://open.spotify.com/album/2P6sQ9RlHZQv0FOK0X3P3B) | 5:41 |
 | 25 | [至少還有你](https://open.spotify.com/track/0fGM6yMJ1swPXt5NI0GCdl) | [Sandy Lam](https://open.spotify.com/artist/3K2hOAx9MPhduvDf2qguro) | [林憶蓮](https://open.spotify.com/album/0ALo1FwFjm2eUm7yEYp81j) | 4:34 |

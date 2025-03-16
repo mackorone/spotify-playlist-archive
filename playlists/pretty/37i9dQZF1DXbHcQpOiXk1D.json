@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Ezra Collective at The Brits 2025",
-  "num_followers": 323146,
+  "num_followers": 323169,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2025-03-07 00:00:11",
       "album": {
+        "name": "Man",
+        "url": "https://open.spotify.com/album/0bzXKj3s2yc7QSrk6YfvwH"
+      },
+      "artists": [
+        {
+          "name": "MRCY",
+          "url": "https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh"
+        }
+      ],
+      "duration_ms": 207339,
+      "name": "Man",
+      "url": "https://open.spotify.com/track/6CTgTVfaklG9mu9MmrPBzg"
+    },
+    {
+      "added_at": "2025-03-07 00:00:11",
+      "album": {
         "name": "Liam's Eavestaff",
         "url": "https://open.spotify.com/album/4H2dfKsnWH6PwpfjEX07La"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 196000,
       "name": "Liam's Eavestaff",
       "url": "https://open.spotify.com/track/6f95xzUOBAQkdjggMDR06m"
-    },
-    {
-      "added_at": "2025-03-07 00:00:11",
-      "album": {
-        "name": "Man",
-        "url": "https://open.spotify.com/album/0bzXKj3s2yc7QSrk6YfvwH"
-      },
-      "artists": [
-        {
-          "name": "MRCY",
-          "url": "https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh"
-        }
-      ],
-      "duration_ms": 207339,
-      "name": "Man",
-      "url": "https://open.spotify.com/track/6CTgTVfaklG9mu9MmrPBzg"
     },
     {
       "added_at": "2025-03-07 00:00:11",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-03-07 00:00:11",
       "album": {
-        "name": "Talk About It",
-        "url": "https://open.spotify.com/album/1HUGGTSeBZXBr2GsbD3qqF"
-      },
-      "artists": [
-        {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
-        }
-      ],
-      "duration_ms": 139946,
-      "name": "Talk About It",
-      "url": "https://open.spotify.com/track/6hjATuYdJpRSoPaJgjBIIp"
-    },
-    {
-      "added_at": "2025-03-07 00:00:11",
-      "album": {
         "name": "Alchemy",
         "url": "https://open.spotify.com/album/2x9XPuXjxl9e3nJratHeGF"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 250000,
       "name": "Alchemy",
       "url": "https://open.spotify.com/track/1UuwA62t7oWjSj7RYewQ04"
+    },
+    {
+      "added_at": "2025-03-07 00:00:11",
+      "album": {
+        "name": "Talk About It",
+        "url": "https://open.spotify.com/album/1HUGGTSeBZXBr2GsbD3qqF"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        }
+      ],
+      "duration_ms": 139946,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/6hjATuYdJpRSoPaJgjBIIp"
     },
     {
       "added_at": "2025-03-07 00:00:11",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-03-07 00:00:11",
       "album": {
-        "name": "Letting Go of Forever",
-        "url": "https://open.spotify.com/album/6l3t6AkKUCJU2Zdk9g5aCj"
-      },
-      "artists": [
-        {
-          "name": "SHOLTO",
-          "url": "https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Ligurian Storm",
-      "url": "https://open.spotify.com/track/3hrZ9B3BaaBhkttn4WbBy1"
-    },
-    {
-      "added_at": "2025-03-07 00:00:11",
-      "album": {
         "name": "Still Nothing Still (Deluxe)",
         "url": "https://open.spotify.com/album/47zLi5b1Xv8uwVzTWTDM6C"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2025-03-07 00:00:11",
       "album": {
-        "name": "Dau Funud",
-        "url": "https://open.spotify.com/album/7kjY3gcsD6sBFw9iqz9FGc"
+        "name": "Letting Go of Forever",
+        "url": "https://open.spotify.com/album/6l3t6AkKUCJU2Zdk9g5aCj"
       },
       "artists": [
         {
-          "name": "Malan",
-          "url": "https://open.spotify.com/artist/4lTwsxnU59QAenYUzJteBl"
+          "name": "SHOLTO",
+          "url": "https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u"
         }
       ],
-      "duration_ms": 234324,
-      "name": "Dau Funud",
-      "url": "https://open.spotify.com/track/6tag4CtLEjOzBiC8rIguhv"
+      "duration_ms": 196000,
+      "name": "Ligurian Storm",
+      "url": "https://open.spotify.com/track/3hrZ9B3BaaBhkttn4WbBy1"
     },
     {
       "added_at": "2025-03-07 00:00:11",
@@ -771,6 +755,22 @@
       "duration_ms": 188181,
       "name": "When It Comes Together",
       "url": "https://open.spotify.com/track/2izmpN7vA1Xn8I5FBLls6n"
+    },
+    {
+      "added_at": "2025-03-07 00:00:11",
+      "album": {
+        "name": "Dau Funud",
+        "url": "https://open.spotify.com/album/7kjY3gcsD6sBFw9iqz9FGc"
+      },
+      "artists": [
+        {
+          "name": "Malan",
+          "url": "https://open.spotify.com/artist/4lTwsxnU59QAenYUzJteBl"
+        }
+      ],
+      "duration_ms": 234324,
+      "name": "Dau Funud",
+      "url": "https://open.spotify.com/track/6tag4CtLEjOzBiC8rIguhv"
     },
     {
       "added_at": "2025-03-07 00:00:11",
@@ -839,26 +839,6 @@
     {
       "added_at": "2025-03-07 00:00:11",
       "album": {
-        "name": "Set It Free [Feat. Richie]",
-        "url": "https://open.spotify.com/album/4cHbKnuwv6Y9EmEWvefqgY"
-      },
-      "artists": [
-        {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
-        },
-        {
-          "name": "Richie",
-          "url": "https://open.spotify.com/artist/34rtXQytQe9l53JCgJSbwa"
-        }
-      ],
-      "duration_ms": 245403,
-      "name": "Set It Free [Feat. Richie]",
-      "url": "https://open.spotify.com/track/6NV7Oyl0h2FzLvDC2IrVM4"
-    },
-    {
-      "added_at": "2025-03-07 00:00:11",
-      "album": {
         "name": "Recurring (Live At King's Place)",
         "url": "https://open.spotify.com/album/4G5Y3m4KL3OhS6CZyBLR9Y"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 320826,
       "name": "Decay",
       "url": "https://open.spotify.com/track/0ITNLAeEu0F0aZWTnFaTxd"
+    },
+    {
+      "added_at": "2025-03-07 00:00:11",
+      "album": {
+        "name": "Set It Free [Feat. Richie]",
+        "url": "https://open.spotify.com/album/4cHbKnuwv6Y9EmEWvefqgY"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        },
+        {
+          "name": "Richie",
+          "url": "https://open.spotify.com/artist/34rtXQytQe9l53JCgJSbwa"
+        }
+      ],
+      "duration_ms": 245403,
+      "name": "Set It Free [Feat. Richie]",
+      "url": "https://open.spotify.com/track/6NV7Oyl0h2FzLvDC2IrVM4"
     },
     {
       "added_at": "2025-03-07 00:00:11",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-03-07 00:00:11",
       "album": {
-        "name": "Radio Masoda",
-        "url": "https://open.spotify.com/album/4wNS5Z7ziNOWQoh5bgVqEo"
-      },
-      "artists": [
-        {
-          "name": "Franck Biyong",
-          "url": "https://open.spotify.com/artist/66pH3nd8YzbQBO3KBG2z5E"
-        }
-      ],
-      "duration_ms": 291279,
-      "name": "Jela Kubwa Na Viboko",
-      "url": "https://open.spotify.com/track/7rOu21uEg6VSWRy9Fgzx4K"
-    },
-    {
-      "added_at": "2025-03-07 00:00:11",
-      "album": {
         "name": "Catch Me",
         "url": "https://open.spotify.com/album/6D1rJ4azeYokGfG0fX3rut"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 218678,
       "name": "Catch Me",
       "url": "https://open.spotify.com/track/65N7zJUzhZDdASJjeH1H7W"
+    },
+    {
+      "added_at": "2025-03-07 00:00:11",
+      "album": {
+        "name": "Radio Masoda",
+        "url": "https://open.spotify.com/album/4wNS5Z7ziNOWQoh5bgVqEo"
+      },
+      "artists": [
+        {
+          "name": "Franck Biyong",
+          "url": "https://open.spotify.com/artist/66pH3nd8YzbQBO3KBG2z5E"
+        }
+      ],
+      "duration_ms": 291279,
+      "name": "Jela Kubwa Na Viboko",
+      "url": "https://open.spotify.com/track/7rOu21uEg6VSWRy9Fgzx4K"
     },
     {
       "added_at": "2025-03-07 00:00:11",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2025-03-07 00:00:11",
       "album": {
-        "name": "Uno Punto Uno",
-        "url": "https://open.spotify.com/album/3lQtvxUDtIq73cDM5r3fuE"
-      },
-      "artists": [
-        {
-          "name": "Women In Jazz",
-          "url": "https://open.spotify.com/artist/4gnERVMow3Hd7meSbQ9joi"
-        },
-        {
-          "name": "Rosa Brunello",
-          "url": "https://open.spotify.com/artist/4n5W1O77gHcR2xdTysvsHI"
-        }
-      ],
-      "duration_ms": 272810,
-      "name": "Uno Punto Uno",
-      "url": "https://open.spotify.com/track/4kqAWPVIDUzKvP4594U3hE"
-    },
-    {
-      "added_at": "2025-03-07 00:00:11",
-      "album": {
         "name": "Who We Are",
         "url": "https://open.spotify.com/album/1104vnzxmRlJSJplPf25Xz"
       },
@@ -1143,6 +1123,26 @@
     {
       "added_at": "2025-03-07 00:00:11",
       "album": {
+        "name": "Uno Punto Uno",
+        "url": "https://open.spotify.com/album/3lQtvxUDtIq73cDM5r3fuE"
+      },
+      "artists": [
+        {
+          "name": "Women In Jazz",
+          "url": "https://open.spotify.com/artist/4gnERVMow3Hd7meSbQ9joi"
+        },
+        {
+          "name": "Rosa Brunello",
+          "url": "https://open.spotify.com/artist/4n5W1O77gHcR2xdTysvsHI"
+        }
+      ],
+      "duration_ms": 272810,
+      "name": "Uno Punto Uno",
+      "url": "https://open.spotify.com/track/4kqAWPVIDUzKvP4594U3hE"
+    },
+    {
+      "added_at": "2025-03-07 00:00:11",
+      "album": {
         "name": "I Get Along Without You Very Well",
         "url": "https://open.spotify.com/album/0TalkBjr8BLBQdfDYPgbMh"
       },
@@ -1155,22 +1155,6 @@
       "duration_ms": 178370,
       "name": "I Get Along Without You Very Well",
       "url": "https://open.spotify.com/track/0FSv96L0MHQLsqNqz4FSAA"
-    },
-    {
-      "added_at": "2025-03-07 00:00:11",
-      "album": {
-        "name": "Let It Unfold (Instrumentals)",
-        "url": "https://open.spotify.com/album/56HVnDpijXgSPCN8WU2AHI"
-      },
-      "artists": [
-        {
-          "name": "Myles Sanko",
-          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
-        }
-      ],
-      "duration_ms": 229427,
-      "name": "Stronger - Instrumental",
-      "url": "https://open.spotify.com/track/5vhGGAg0JOrfXYKqDpKKDE"
     },
     {
       "added_at": "2025-03-07 00:00:11",
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2025-03-07 00:00:11",
       "album": {
-        "name": "Sweet Whispers: Celebrating Sarah Vaughan",
-        "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
+        "name": "Let It Unfold (Instrumentals)",
+        "url": "https://open.spotify.com/album/56HVnDpijXgSPCN8WU2AHI"
       },
       "artists": [
         {
-          "name": "Zara McFarlane",
-          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
         }
       ],
-      "duration_ms": 279749,
-      "name": "Inner City Blues",
-      "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
+      "duration_ms": 229427,
+      "name": "Stronger - Instrumental",
+      "url": "https://open.spotify.com/track/5vhGGAg0JOrfXYKqDpKKDE"
     },
     {
       "added_at": "2025-03-07 00:00:11",
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2025-03-07 00:00:11",
       "album": {
+        "name": "Sweet Whispers: Celebrating Sarah Vaughan",
+        "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
+      },
+      "artists": [
+        {
+          "name": "Zara McFarlane",
+          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
+        }
+      ],
+      "duration_ms": 279749,
+      "name": "Inner City Blues",
+      "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
+    },
+    {
+      "added_at": "2025-03-07 00:00:11",
+      "album": {
         "name": "My Type",
         "url": "https://open.spotify.com/album/34uZsXy8PS9LIrP3fIkuzl"
       },
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-03-07 00:00:11",
       "album": {
-        "name": "Here Today Gone Tomorrow",
-        "url": "https://open.spotify.com/album/26lSeSAik3cU8RtembPlOZ"
-      },
-      "artists": [
-        {
-          "name": "Raffy Bushman",
-          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
-        }
-      ],
-      "duration_ms": 386885,
-      "name": "Love of Mine",
-      "url": "https://open.spotify.com/track/5hXhBMfTEPyswGhah0z3Lb"
-    },
-    {
-      "added_at": "2025-03-07 00:00:11",
-      "album": {
         "name": "Timekeepers",
         "url": "https://open.spotify.com/album/0RLhXDmFXUorOU8xGDZJHP"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 173333,
       "name": "Timekeepers",
       "url": "https://open.spotify.com/track/0yrAvvvkD5GZoPWCOoSIO7"
+    },
+    {
+      "added_at": "2025-03-07 00:00:11",
+      "album": {
+        "name": "Here Today Gone Tomorrow",
+        "url": "https://open.spotify.com/album/26lSeSAik3cU8RtembPlOZ"
+      },
+      "artists": [
+        {
+          "name": "Raffy Bushman",
+          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
+        }
+      ],
+      "duration_ms": 386885,
+      "name": "Love of Mine",
+      "url": "https://open.spotify.com/track/5hXhBMfTEPyswGhah0z3Lb"
     },
     {
       "added_at": "2025-03-07 00:00:11",
@@ -1307,18 +1307,22 @@
     {
       "added_at": "2025-03-07 00:00:11",
       "album": {
-        "name": "Norton",
-        "url": "https://open.spotify.com/album/25wgcyPri2UD4PZ6iVk7jH"
+        "name": "Don\u2019t Wait Too Long",
+        "url": "https://open.spotify.com/album/0fz3FJVabxmF2wr7eIrUO4"
       },
       "artists": [
         {
-          "name": "The Vernon Spring",
-          "url": "https://open.spotify.com/artist/2gzcB4vMIStEDZiQlvywGm"
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        },
+        {
+          "name": "The SWR Big Band",
+          "url": "https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW"
         }
       ],
-      "duration_ms": 121985,
-      "name": "Norton",
-      "url": "https://open.spotify.com/track/4z9jqw3j2exNVCouafDQzE"
+      "duration_ms": 231686,
+      "name": "Don't Wait Too Long",
+      "url": "https://open.spotify.com/track/6bYPgYBo2joNEdvTbKERLA"
     }
   ],
   "unique_name": "Jazz UK",

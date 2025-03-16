@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQjajIrLiud.md) - [plain]
 
 > Songs to enjoy while cooking.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,180 likes - 40 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,186 likes - 40 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQjajIrLiud.md) - [plain]
 | 24 | [بنت ابويا](https://open.spotify.com/track/5mHgUdUiaLYXyCLzbOfhfD) | [هناء يسري](https://open.spotify.com/artist/21mycRtvhUO077yAXgb9H3) | [بنت ابويا](https://open.spotify.com/album/7b3HsBstujKBNDT9tJQQRc) | 3:57 |
 | 25 | [Makanak](https://open.spotify.com/track/3MjnP0XuJK48RW49gD8d1k) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Makanak](https://open.spotify.com/album/28JsnP1Tne8lvFXMxPB7Pg) | 3:21 |
 | 26 | [Ghir Enta](https://open.spotify.com/track/738Ku4hI0ezRMNheUcW8Eh) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Deb](https://open.spotify.com/album/1xAPktZ9m3kt6TpgxAlukd) | 5:05 |
-| 27 | [لمون نعناع](https://open.spotify.com/track/0MTRIhdVLqOy0mnTXtM5jM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [لمون نعناع](https://open.spotify.com/album/5IJllrLdWkmEYDJ6N4tw1Y) | 3:26 |
-| 28 | [Ti Ra Ra](https://open.spotify.com/track/10OU7eWlVd6U1nPAUoAlCv) | [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM), [Bashaar Al Jawad](https://open.spotify.com/artist/6cWm8WSuBJ3D4DYPPjzl3W) | [Ti Ra Ra](https://open.spotify.com/album/3KMm49eJBEaIvtS2K2ZIlz) | 2:27 |
+| 27 | [Ti Ra Ra](https://open.spotify.com/track/10OU7eWlVd6U1nPAUoAlCv) | [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM), [Bashaar Al Jawad](https://open.spotify.com/artist/6cWm8WSuBJ3D4DYPPjzl3W) | [Ti Ra Ra](https://open.spotify.com/album/3KMm49eJBEaIvtS2K2ZIlz) | 2:27 |
+| 28 | [لمون نعناع](https://open.spotify.com/track/0MTRIhdVLqOy0mnTXtM5jM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [لمون نعناع](https://open.spotify.com/album/5IJllrLdWkmEYDJ6N4tw1Y) | 3:26 |
 | 29 | [Mabidichay](https://open.spotify.com/track/3lkJjAbdLWozIuox8sRoom) | [Lina Guessoussi](https://open.spotify.com/artist/6DFDylakhVHkuYqNhg1aBd) | [Mabidichay](https://open.spotify.com/album/1U9xlybG0rp68MxjwZTK2w) | 2:52 |
 | 30 | [Ana Bakhaf Min El Commitment](https://open.spotify.com/track/5DJLUHviIEbqG1uXaoNzaq) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [El Makina](https://open.spotify.com/album/2EIhDyhOzFspLD2nSj79XK) | 4:20 |
 | 31 | [Sabahek](https://open.spotify.com/track/4cnTGRpVDnBXgD2MQYQOfS) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4) | [Tokaa We Tkoom](https://open.spotify.com/album/7APkDKEvXGWOWtr76tBOJM) | 3:38 |

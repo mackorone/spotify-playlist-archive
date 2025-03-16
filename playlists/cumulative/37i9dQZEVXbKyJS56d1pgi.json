@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR"
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 197862,
       "name": "Acordar",
       "url": "https://open.spotify.com/track/1M7pnSHpd4i5xFE2nUGq2W"
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 173859,
       "name": "Adora a bunda, odeia o rosto (feat. Veigh & Niink)",
       "url": "https://open.spotify.com/track/5Bp7TFENcgsdLCL8fMOSKs"
@@ -1672,7 +1672,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 232186,
       "name": "All The Stars (with SZA)",
       "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
@@ -1994,7 +1994,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 206908,
       "name": "Amor De Ganga",
       "url": "https://open.spotify.com/track/7IPUNxs3vUvunfEFxRTGzS"
@@ -2110,10 +2110,28 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 249302,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
+    },
+    {
+      "album": {
+        "name": "Alligator Bites Never Heal (Extended)",
+        "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
     },
     {
       "album": {
@@ -2631,6 +2649,32 @@
     },
     {
       "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190053,
+      "name": "BACKD00R (feat. Kendrick Lamar & Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -2820,7 +2864,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -4450,7 +4494,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 205934,
       "name": "B\u00ean\u00e7\u00e3o (with Van Zee & Bispo)",
       "url": "https://open.spotify.com/track/5VOhg3dqCqRGWwKXF6DLLW"
@@ -5593,6 +5637,32 @@
     },
     {
       "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "CHARGE DEM HOES A FEE (with Future & Travis Scott)",
+      "url": "https://open.spotify.com/track/21aDVa64pWR8SYQ7wBRMkd"
+    },
+    {
+      "album": {
         "name": "Chauffeur",
         "url": "https://open.spotify.com/album/4LAYeC7gWp1jFiS1q101OK"
       },
@@ -6713,6 +6783,24 @@
     },
     {
       "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "CRANK",
+      "url": "https://open.spotify.com/track/7xAvtuHf8nGi5OtXVPYgb3"
+    },
+    {
+      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -6798,6 +6886,28 @@
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173320,
+      "name": "CRUSH (with Travis Scott)",
+      "url": "https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP"
     },
     {
       "album": {
@@ -7384,7 +7494,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 203686,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/4VhSwcMCrXQgEfwls3s46o"
@@ -10043,6 +10153,24 @@
     },
     {
       "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183928,
+      "name": "EVIL J0RDAN",
+      "url": "https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w"
+    },
+    {
+      "album": {
         "name": "Evoque Prata",
         "url": "https://open.spotify.com/album/5lvH0uC0dJxie3qMtGuawa"
       },
@@ -10752,6 +10880,24 @@
       "duration_ms": 216327,
       "name": "FINA",
       "url": "https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS"
+    },
+    {
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106753,
+      "name": "FINE SHIT",
+      "url": "https://open.spotify.com/track/79mFFAOYcG8ZF6AN1JecAL"
     },
     {
       "album": {
@@ -12048,6 +12194,28 @@
       "duration_ms": 178147,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM"
+    },
+    {
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190373,
+      "name": "GOOD CREDIT (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok"
     },
     {
       "album": {
@@ -13899,6 +14067,24 @@
     },
     {
       "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158896,
+      "name": "I SEEEEEE YOU BABY BOI",
+      "url": "https://open.spotify.com/track/2ydagYqcyFfRtQPzKc5E8l"
+    },
+    {
+      "album": {
         "name": "Teatro d'ira - Vol. I",
         "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
       },
@@ -15156,6 +15342,24 @@
       "duration_ms": 159452,
       "name": "Juvena",
       "url": "https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP"
+    },
+    {
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112992,
+      "name": "K POP",
+      "url": "https://open.spotify.com/track/00iLTetTLAeImmBlh6jOJh"
     },
     {
       "album": {
@@ -16616,7 +16820,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -17110,7 +17314,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
@@ -17146,7 +17350,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 211860,
       "name": "Luxemburgo",
       "url": "https://open.spotify.com/track/1yjYtmNf1DpfQMjBpVy5rg"
@@ -18845,6 +19049,24 @@
     },
     {
       "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156293,
+      "name": "MOJO JOJO",
+      "url": "https://open.spotify.com/track/3WRUvGqySBZC6RkB5c2w1S"
+    },
+    {
+      "album": {
         "name": "Essentiels",
         "url": "https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx"
       },
@@ -19012,7 +19234,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 188839,
       "name": "Montanha",
       "url": "https://open.spotify.com/track/71Aj0joTSW4wv8olaHNBvK"
@@ -19660,6 +19882,24 @@
       "duration_ms": 188872,
       "name": "Multiplica",
       "url": "https://open.spotify.com/track/6MHo8PlORvq1btc03EdwMH"
+    },
+    {
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "MUNYUN",
+      "url": "https://open.spotify.com/track/2JJFJEvFSWyQ59Pwl2gqSF"
     },
     {
       "album": {
@@ -20552,7 +20792,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
@@ -20716,7 +20956,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -22613,6 +22853,28 @@
     },
     {
       "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185706,
+      "name": "PHILLY (with Travis Scott)",
+      "url": "https://open.spotify.com/track/5SIvP6TdWc9DNvKbENjnYc"
+    },
+    {
+      "album": {
         "name": "Pilantra",
         "url": "https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K"
       },
@@ -23074,6 +23336,24 @@
       "duration_ms": 265600,
       "name": "Ponte de Luz",
       "url": "https://open.spotify.com/track/1HNr6b2TxwZ8yxuCU9jTMq"
+    },
+    {
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161738,
+      "name": "POP OUT",
+      "url": "https://open.spotify.com/track/3j3SfV4hAcR4XjCvW393Gr"
     },
     {
       "album": {
@@ -24033,6 +24313,24 @@
     },
     {
       "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107933,
+      "name": "RADAR",
+      "url": "https://open.spotify.com/track/3lAEHk0eZzMKtCUFLXz8Ln"
+    },
+    {
+      "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
@@ -24182,6 +24480,28 @@
       "duration_ms": 165925,
       "name": "RAPSTAR",
       "url": "https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6"
+    },
+    {
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "RATHER LIE (with The Weeknd)",
+      "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn"
     },
     {
       "album": {
@@ -24396,7 +24716,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 180032,
       "name": "Revolving door",
       "url": "https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC"
@@ -30029,6 +30349,28 @@
     },
     {
       "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135275,
+      "name": "TOXIC (with Skepta)",
+      "url": "https://open.spotify.com/track/4evMMKc2HD6fV9slMfgkMx"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -31723,6 +32065,28 @@
     },
     {
       "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169333,
+      "name": "WAKE UP F1LTHY (with Travis Scott)",
+      "url": "https://open.spotify.com/track/1pzN8bCzy017iK3vWzkk6Z"
+    },
+    {
+      "album": {
         "name": "Fighting Demons",
         "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
       },
@@ -32214,7 +32578,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
@@ -32984,7 +33348,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 154553,
       "name": "\u00daltima Noite - Solo",
       "url": "https://open.spotify.com/track/3cwVKjzKSTfvacYJF6Tkub"

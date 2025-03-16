@@ -628,10 +628,28 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 227293,
       "name": "Me Dueles",
       "url": "https://open.spotify.com/track/1UpsLFVKBheEs7Eu2KfV1o"
+    },
+    {
+      "album": {
+        "name": "Me Gusta Mi Vida",
+        "url": "https://open.spotify.com/album/33DrJ1pDwmuJ4ek8u6Fl4y"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2025-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323723,
+      "name": "Me Gusta Mi Vida",
+      "url": "https://open.spotify.com/track/3bEgv6KLByMNlFNLmC8of2"
     },
     {
       "album": {

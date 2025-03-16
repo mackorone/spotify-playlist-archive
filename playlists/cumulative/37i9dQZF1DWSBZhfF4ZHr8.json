@@ -2317,6 +2317,24 @@
     },
     {
       "album": {
+        "name": "maman",
+        "url": "https://open.spotify.com/album/2pguB7D2A9A8oHS76j9Egx"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180195,
+      "name": "maman",
+      "url": "https://open.spotify.com/track/1iJ9cSEWYQsd2M7ROFyIZx"
+    },
+    {
+      "album": {
         "name": "Mamma Mia",
         "url": "https://open.spotify.com/album/7qgVZiCj6qmf3kFaqDzkTW"
       },
@@ -2678,7 +2696,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 180662,
       "name": "Panique \u00e0 Paris (TimeMachine 1985 Remix)",
       "url": "https://open.spotify.com/track/0BlzANbVeirejZbA531CM5"

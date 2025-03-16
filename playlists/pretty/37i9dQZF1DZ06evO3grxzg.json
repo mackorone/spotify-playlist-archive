@@ -1,33 +1,13 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 233331,
+  "num_followers": 233371,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAAvxs2ivj7idCZg5Q+/MZV2",
+  "snapshot_id": "Z9NxgAAAAAD2ywfr6EYE8oPqyqh7E05m",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Es Para Siempre",
-        "url": "https://open.spotify.com/album/0j6xrTUE8vTMWnIHoRDqOI"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 195060,
-      "name": "Nada Es Para Siempre",
-      "url": "https://open.spotify.com/track/2j3FHjQOoqQggL5mllUvsI"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 183693,
       "name": "Idiota",
       "url": "https://open.spotify.com/track/0cS0bJ0oBylj3TFtz6x9pC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada Es Para Siempre",
+        "url": "https://open.spotify.com/album/0j6xrTUE8vTMWnIHoRDqOI"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 195060,
+      "name": "Nada Es Para Siempre",
+      "url": "https://open.spotify.com/track/2j3FHjQOoqQggL5mllUvsI"
     },
     {
       "added_at": null,

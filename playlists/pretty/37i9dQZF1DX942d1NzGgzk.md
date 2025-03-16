@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > The latest of R&B in the UK\. Cover: Mychelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,672 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,683 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 29 | [self respect](https://open.spotify.com/track/1DdgO0Ag96Hx34Qd5dHvKD) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [self respect](https://open.spotify.com/album/0eiGunQk1mDtmanz6Abv5V) | 3:29 |
 | 30 | [Bending My Rules](https://open.spotify.com/track/797M1rBDoxy7pPsTkXPqUn) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:44 |
 | 31 | [Mine](https://open.spotify.com/track/0AFi9z7GXJU8rK6rDF8Qmb) | [Zion Foster](https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6), [Jesy Nelson](https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9) | [Mine](https://open.spotify.com/album/4EUnbMqIwNcYKccQt2NC7z) | 2:38 |
-| 32 | [Only Ever](https://open.spotify.com/track/6pFHqQE6VJnkG5TtBFIaXj) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Only Ever](https://open.spotify.com/album/01gYXq7TagyrOHOK3KvlfY) | 2:42 |
-| 33 | [F.N.F.](https://open.spotify.com/track/62U8RzKdwxhEKfJc9t0NYg) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [F.N.F.](https://open.spotify.com/album/7gzqH0PKc53laMxTX3UxpR) | 2:09 |
-| 34 | [My Man](https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [My Man](https://open.spotify.com/album/6WVs3cfYvBdZVRYqZjfNmg) | 2:07 |
+| 32 | [F.N.F.](https://open.spotify.com/track/62U8RzKdwxhEKfJc9t0NYg) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [F.N.F.](https://open.spotify.com/album/7gzqH0PKc53laMxTX3UxpR) | 2:09 |
+| 33 | [Only Ever](https://open.spotify.com/track/6pFHqQE6VJnkG5TtBFIaXj) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Only Ever](https://open.spotify.com/album/01gYXq7TagyrOHOK3KvlfY) | 2:42 |
+| 34 | [Closer](https://open.spotify.com/track/1I5hhujd8OgWO5SZLEtOPk) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Hamartia](https://open.spotify.com/album/6mzeTCb0ty0ufadqSaZzfW) | 2:49 |
 | 35 | [IWH2BMX](https://open.spotify.com/track/7dGrlAQzcsP2uPPNqbn2d4) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 2:43 |
-| 36 | [Closer](https://open.spotify.com/track/1I5hhujd8OgWO5SZLEtOPk) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Hamartia](https://open.spotify.com/album/6mzeTCb0ty0ufadqSaZzfW) | 2:49 |
+| 36 | [My Man](https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [My Man](https://open.spotify.com/album/6WVs3cfYvBdZVRYqZjfNmg) | 2:07 |
 | 37 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I TRIED.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 |
 | 38 | [tell em](https://open.spotify.com/track/2gtkWGSTSsB2KcUsff6t5A) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [tell em / time flies](https://open.spotify.com/album/5ZNxP2stKHm1YvNz7ONQC4) | 2:38 |
 | 39 | [Don Dada](https://open.spotify.com/track/2DKq8UkPWQ0sY5tqA1QEY8) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Don Dada](https://open.spotify.com/album/6N7ueVpR75m3vunC9ugTnm) | 2:48 |
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 41 | [i know](https://open.spotify.com/track/6HWsd6fqeamiFulSQhxKsD) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [i know](https://open.spotify.com/album/6gAZoVbmPADyQaGsV94obD) | 2:22 |
 | 42 | [Tonight](https://open.spotify.com/track/07tj5gy6TKsQ7x0fCjrovr) | [Bex](https://open.spotify.com/artist/2PLgHkAWIico5HHJIq5Trl) | [Tonight](https://open.spotify.com/album/2vidWPfA1GXSB43GhELEB5) | 2:42 |
 | 43 | [I Wanna](https://open.spotify.com/track/7vMDtQo3RbOx3rAONunUZS) | [Essii](https://open.spotify.com/artist/2TolczZeUz7fcmlANnFcMJ) | [I Wanna](https://open.spotify.com/album/0sZxfPTPYUQ7tCmCjyiWy0) | 2:10 |
-| 44 | [MET YOU AT A BAR](https://open.spotify.com/track/4OBgCqoGas1dSNyRXRtRpK) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [SAFE FLIGHT](https://open.spotify.com/album/37FUdgp35njUxws7l0WCep) | 2:40 |
+| 44 | [In The Dark](https://open.spotify.com/track/2WU9ZkipOL1ab28yG7zJYI) | [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [In The Dark](https://open.spotify.com/album/1nac5LSQaJ0qo8OzvEnozY) | 2:26 |
 | 45 | [LDN](https://open.spotify.com/track/1hyfDqeOomUgiDZZehFP3D) | [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv) | [Full Circle](https://open.spotify.com/album/74QAmMwD0zVIDaNXzm6o0Z) | 1:52 |
-| 46 | [Ebbs & Flows](https://open.spotify.com/track/3i3YsmD5wrtjeE9qunmgu6) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Love's Letter \(Deluxe\)](https://open.spotify.com/album/1wmUwj9AEOuWtq9eyZjvy2) | 3:15 |
-| 47 | [In The Dark](https://open.spotify.com/track/2WU9ZkipOL1ab28yG7zJYI) | [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [In The Dark](https://open.spotify.com/album/1nac5LSQaJ0qo8OzvEnozY) | 2:26 |
+| 46 | [MET YOU AT A BAR](https://open.spotify.com/track/4OBgCqoGas1dSNyRXRtRpK) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [SAFE FLIGHT](https://open.spotify.com/album/37FUdgp35njUxws7l0WCep) | 2:40 |
+| 47 | [Ebbs & Flows](https://open.spotify.com/track/3i3YsmD5wrtjeE9qunmgu6) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Love's Letter \(Deluxe\)](https://open.spotify.com/album/1wmUwj9AEOuWtq9eyZjvy2) | 3:15 |
 | 48 | [Regular Girl](https://open.spotify.com/track/6n3IrXv89bChBzjbRJRmUq) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Regular Girl](https://open.spotify.com/album/3OhFLv2iX72yrfnSHpilN5) | 2:31 |
 | 49 | [Across My Mind](https://open.spotify.com/track/7bMsnDJea798RJJYDvfetA) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Across My Mind](https://open.spotify.com/album/47Oe13upqWE7y2V5DEP2S6) | 1:57 |
 | 50 | [Where Have You Been All My Life?](https://open.spotify.com/track/3AkSHcsF5E3EXg4FBuRf5r) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Where Have You Been All My Life?](https://open.spotify.com/album/5MaD8ctpy7eAo56up2zF20) | 3:03 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 55 | [Natural](https://open.spotify.com/track/3v0RwYzI5WlW7lKTTtJWT0) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Natural](https://open.spotify.com/album/1UWO7Rgw5ciLeQPc4uvyBG) | 3:09 |
 | 56 | [Passenger Princess \(feat\. Aqyila\)](https://open.spotify.com/track/2dwRIUAoAaPlHIq8LUI99v) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Passenger Princess \(Remix\)](https://open.spotify.com/album/1548AEh0bKJXMYrkdfEB3l) | 3:40 |
 | 57 | [Little Red Car](https://open.spotify.com/track/4EV0TdemWsnCfsokT6zfZA) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Little Red Car](https://open.spotify.com/album/1ZdroWalq1Na6S8kNq5YUX) | 3:12 |
-| 58 | [LYTM](https://open.spotify.com/track/5uV05m9GmsbSyUinuiV1Z3) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [SAFE FLIGHT](https://open.spotify.com/album/37FUdgp35njUxws7l0WCep) | 2:29 |
-| 59 | [She's Gone](https://open.spotify.com/track/7J4wnrnlWavaWWihWwC9lg) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L) | [Descend](https://open.spotify.com/album/2WF4Xtbie58S3TIaqXXmKd) | 5:32 |
-| 60 | [Glow](https://open.spotify.com/track/0coL1H5F5ZvN4fzPMWxvWq) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Glow](https://open.spotify.com/album/3uKS7fIydLpnjcCfDlSMkd) | 3:17 |
+| 58 | [I Swear](https://open.spotify.com/track/0wfRDY7ervDHWGNByS7xPz) | [Owen Saward](https://open.spotify.com/artist/6uoe9e35wfVDtfCYtPoZdd) | [I Swear](https://open.spotify.com/album/6NFiUMCDwKUrWfrhPyHOJq) | 3:05 |
+| 59 | [LYTM](https://open.spotify.com/track/5uV05m9GmsbSyUinuiV1Z3) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [SAFE FLIGHT](https://open.spotify.com/album/37FUdgp35njUxws7l0WCep) | 2:29 |
+| 60 | [She's Gone](https://open.spotify.com/track/7J4wnrnlWavaWWihWwC9lg) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L) | [Descend](https://open.spotify.com/album/2WF4Xtbie58S3TIaqXXmKd) | 5:32 |
 
 Snapshot ID: `Z9NxkwAAAAA62FMCJ9QbCPI57sbjtJ5H`

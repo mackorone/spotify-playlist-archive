@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 105270,
+  "num_followers": 105274,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAABTLhB3k309MK9jVPxsq8r",
+  "snapshot_id": "Z9NxgAAAAACus/e5qKcA+lacstC9ro+3",
   "tracks": [
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Grandes Damas",
+        "url": "https://open.spotify.com/album/0POeKgQRRh1ayPEY0wcj20"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 163343,
+      "name": "El Yerberito Moderno",
+      "url": "https://open.spotify.com/track/5zyF3dvHQbarJH35TcCIde"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tremendo Cache",
         "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 229373,
       "name": "C\u00facala",
       "url": "https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Grandes Damas",
-        "url": "https://open.spotify.com/album/0POeKgQRRh1ayPEY0wcj20"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 163343,
-      "name": "El Yerberito Moderno",
-      "url": "https://open.spotify.com/track/5zyF3dvHQbarJH35TcCIde"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Son con Guaguanc\u00f3",
-        "url": "https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 211866,
-      "name": "Bemba Color\u00e1",
-      "url": "https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 186106,
       "name": "Pa La Paloma",
       "url": "https://open.spotify.com/track/35NvKX5qqxt2Q9Ma5VVlZJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Son con Guaguanc\u00f3",
+        "url": "https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 211866,
+      "name": "Bemba Color\u00e1",
+      "url": "https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Tierna, Conmovedora, Bamboleadora",
-        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 174626,
-      "name": "Desvelo De Amor",
-      "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuba's Queen Of Rhythm",
         "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 163666,
       "name": "Tuya, Y M\u00e1s Que Tuya",
       "url": "https://open.spotify.com/track/3LOXS93O7RRoAUatm5DBps"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Tierna, Conmovedora, Bamboleadora",
+        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "Desvelo De Amor",
+      "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serenata Guajira",
-        "url": "https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 152379,
-      "name": "Esperar\u00e9",
-      "url": "https://open.spotify.com/track/42o6HDxZXTqUuvGPwOSvTf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuba's Queen Of Rhythm",
         "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 159266,
       "name": "Y Mi Negro Esta Cansao",
       "url": "https://open.spotify.com/track/2lQL2ZIO7m4dE3bMAymTIj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serenata Guajira",
+        "url": "https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 152379,
+      "name": "Esperar\u00e9",
+      "url": "https://open.spotify.com/track/42o6HDxZXTqUuvGPwOSvTf"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alma Caribe\u00f1a",
-        "url": "https://open.spotify.com/album/24obAzHAF54ZtdSUZtn0np"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 257160,
-      "name": "Tres Gotas De Agua Bendita (feat. Celia Cruz)",
-      "url": "https://open.spotify.com/track/39wf4YalXTzfjokmGTg0cl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/3rKykknsy5wADknhS9qzQE"
       },
@@ -955,22 +935,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fania Records: The 60's, Vol. Three",
-        "url": "https://open.spotify.com/album/7Hb26qi6ORGMxTxh24WRsK"
+        "name": "Alma Caribe\u00f1a",
+        "url": "https://open.spotify.com/album/24obAzHAF54ZtdSUZtn0np"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 257160,
+      "name": "Tres Gotas De Agua Bendita (feat. Celia Cruz)",
+      "url": "https://open.spotify.com/track/39wf4YalXTzfjokmGTg0cl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serenata Guajira",
+        "url": "https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM"
       },
       "artists": [
         {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
         }
       ],
-      "duration_ms": 272251,
-      "name": "Oye C\u00f3mo Va",
-      "url": "https://open.spotify.com/track/4C94C44OC2CI2acYitbGGE"
+      "duration_ms": 179086,
+      "name": "Cuando Sal\u00ed De Cuba",
+      "url": "https://open.spotify.com/track/0lJ5GhkXTeVU4RVS81wgn4"
     },
     {
       "added_at": null,
@@ -995,18 +991,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serenata Guajira",
-        "url": "https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM"
+        "name": "Fania Records: The 60's, Vol. Three",
+        "url": "https://open.spotify.com/album/7Hb26qi6ORGMxTxh24WRsK"
       },
       "artists": [
         {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
         }
       ],
-      "duration_ms": 179086,
-      "name": "Cuando Sal\u00ed De Cuba",
-      "url": "https://open.spotify.com/track/0lJ5GhkXTeVU4RVS81wgn4"
+      "duration_ms": 272251,
+      "name": "Oye C\u00f3mo Va",
+      "url": "https://open.spotify.com/track/4C94C44OC2CI2acYitbGGE"
     },
     {
       "added_at": null,

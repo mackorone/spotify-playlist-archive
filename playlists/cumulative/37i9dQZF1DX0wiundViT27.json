@@ -2742,7 +2742,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 137404,
       "name": "hotline",
       "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
@@ -3942,7 +3942,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 134252,
       "name": "Never Going Under",
       "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
@@ -5153,6 +5153,24 @@
     },
     {
       "album": {
+        "name": "The Father of Make Believe",
+        "url": "https://open.spotify.com/album/7fj1TOW6bJglJWQ8MqxNUH"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225125,
+      "name": "Someone Who Can",
+      "url": "https://open.spotify.com/track/5Rqn1re29PkFLJBzNEcy0v"
+    },
+    {
+      "album": {
         "name": "Something Loud",
         "url": "https://open.spotify.com/album/07jTFwFWX1boeyv2mTmtx1"
       },
@@ -5168,6 +5186,24 @@
       "duration_ms": 196618,
       "name": "Something Loud",
       "url": "https://open.spotify.com/track/5wZK0hHduZpjWWoT0rq9p4"
+    },
+    {
+      "album": {
+        "name": "Soprano",
+        "url": "https://open.spotify.com/album/70pGjy9mpZ3GFZKyFlHF1S"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133853,
+      "name": "Soprano",
+      "url": "https://open.spotify.com/track/3DNgrWGDoVefYTLdzUnLWX"
     },
     {
       "album": {

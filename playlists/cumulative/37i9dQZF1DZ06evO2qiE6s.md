@@ -4,7 +4,7 @@
 
 > This is Dean Martin\. The essential tracks, all in one playlist.
 
-140 songs - 6 hr 12 min
+141 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [My Rifle, My Pony And Me \- Remastered](https://open.spotify.com/track/73VWTEHnoZyULD840kEX49) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Legacy](https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0) | 2:10 | 2023-12-26 |  |
 | [My Woman, My Woman, My Wife](https://open.spotify.com/track/0q90htFRfz13tk1JQ862uP) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [My Woman, My Woman, My Wife](https://open.spotify.com/album/72SyCEbbglnB4vh5Ocaq95) | 3:30 | 2023-12-26 | 2024-07-24 |
 | [Nobody's Baby Again](https://open.spotify.com/track/0iuInH8NHuc20aYbqEQZrG) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Happiness Is Dean Martin](https://open.spotify.com/album/6gRponGI8tRJ1U7ApKQ3pY) | 2:26 | 2024-01-01 | 2024-01-13 |
+| [Non Dimenticar](https://open.spotify.com/track/4d4Z8IilRC921QjOpKaWsw) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 12 \(1961\)](https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh) | 3:08 | 2025-03-16 |  |
 | [Non Dimenticar \- Remastered 1998](https://open.spotify.com/track/0M7yY7udI6Cj2RzIXUVNg7) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Italian Love Songs](https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10) | 3:05 | 2023-12-26 | 2024-07-24 |
 | [On An Evening In Roma \(Sott'er Celo De Roma\)](https://open.spotify.com/track/16pUlUFjyp6BtDtxC0i9ch) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 9 \(1958\-1959\)](https://open.spotify.com/album/1Ce4OatecR4WzcuOLIObKo) | 2:28 | 2023-12-30 |  |
 | [On The Street Where You Live \- Remastered 1998](https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 3:41 | 2024-01-05 |  |
@@ -116,7 +117,7 @@
 | [Take Me In Your Arms \(Torna A Surriento\)](https://open.spotify.com/track/7h3NB9NiOkGZxAkui5F9HH) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 12 \(1961\)](https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh) | 2:41 | 2025-02-21 |  |
 | [Take Me In Your Arms \(Torna A Surriento\) \- Remastered 1998](https://open.spotify.com/track/2hwkWcWEY664YUk6EEFccq) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Italian Love Songs](https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10) | 2:39 | 2023-12-29 | 2024-07-22 |
 | [That's Amore](https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 4 \(1952\-1954\)](https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I) | 3:10 | 2023-12-26 |  |
-| [The Birds and the Bees](https://open.spotify.com/track/2PNBLcmRZn83z6MjhYynQC) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [\(Remember Me\) I'm the One That Loves You](https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK) | 2:06 | 2023-12-26 |  |
+| [The Birds and the Bees](https://open.spotify.com/track/2PNBLcmRZn83z6MjhYynQC) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [\(Remember Me\) I'm the One That Loves You](https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK) | 2:06 | 2023-12-26 | 2025-03-16 |
 | [The Door Is Still Open to My Heart](https://open.spotify.com/track/45tNymiGXb2afxk7opDlmA) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Essential Dean Martin](https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3) | 2:51 | 2023-12-26 | 2024-08-14 |
 | [The Green, Green Grass of Home](https://open.spotify.com/track/4ajZSQCn0cjUvUNCqKGTeD) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Welcome to My World](https://open.spotify.com/album/3MrG9jbcRu5CnJyqFRxwna) | 3:09 | 2023-12-26 | 2024-07-24 |
 | [The Man Who Plays The Mandolino](https://open.spotify.com/track/4pwqOUmyITGGRjYEnHfxuu) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 7 \(1956\-1957\)](https://open.spotify.com/album/4OnCOdXX9tpuQD0zCMiGwz) | 2:55 | 2023-12-30 |  |

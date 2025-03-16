@@ -4,7 +4,7 @@
 
 > 
 
-561 songs - 1 day 4 hr 47 min
+562 songs - 1 day 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,7 @@
 | [Make Me Feel Good](https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Make Me Feel Good](https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi) | 3:17 | 2022-04-15 | 2024-05-17 |
 | [Make Up](https://open.spotify.com/track/5huDOE63jdNZTiBODndFc1) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Make Up](https://open.spotify.com/album/6DfanlPWlL7jCWIUIISj8R) | 2:31 | 2024-07-13 |  |
 | [Maria Maria](https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [Maria Maria](https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd) | 2:41 | 2024-02-23 | 2024-07-20 |
-| [Meet Me In The Middle](https://open.spotify.com/track/2pmvEffn5k4CD5WEmOjDrO) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Meet Me In The Middle](https://open.spotify.com/album/1XUuSXvM22T5sRqD1pOU9K) | 2:17 | 2024-10-11 |  |
+| [Meet Me In The Middle](https://open.spotify.com/track/2pmvEffn5k4CD5WEmOjDrO) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Meet Me In The Middle](https://open.spotify.com/album/1XUuSXvM22T5sRqD1pOU9K) | 2:17 | 2024-10-11 | 2025-03-16 |
 | [Mega Chords \- Edit](https://open.spotify.com/track/0nms4MMhjU9IJ3Fb2gE09e) | [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [Connect EP \(Edits\)](https://open.spotify.com/album/12r5I2u4n4Fq3dCdwEZUug) | 3:32 | 2022-04-15 | 2022-07-29 |
 | [Melody](https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Melody](https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg) | 2:47 | 2022-04-15 | 2024-05-17 |
 | [messy in heaven](https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [messy in heaven](https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6) | 2:50 | 2024-02-23 | 2025-01-14 |
@@ -455,6 +455,7 @@
 | [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 | 2024-02-23 | 2024-07-20 |
 | [Signals](https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Signals](https://open.spotify.com/album/51cQuF5mmlX5cHRVIbOBYE) | 2:47 | 2022-04-15 | 2024-04-13 |
 | [SLEEP TONIGHT \(THIS IS THE LIFE\) \- with R3HAB and Sam Feldt](https://open.spotify.com/track/3pt8FTbqdnMyh3r9noAYsQ) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [SLEEP TONIGHT \(THIS IS THE LIFE\) \[with R3HAB and Sam Feldt\]](https://open.spotify.com/album/7CsXgmeC033GlMrmETGDru) | 2:16 | 2024-03-15 |  |
+| [SMOKE THE PAIN AWAY](https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [SMOKE THE PAIN AWAY](https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP) | 2:42 | 2025-03-14 |  |
 | [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 | 2024-02-23 |  |
 | [So Much Love \(feat\. Lloyd Wade\)](https://open.spotify.com/track/6Z5rzJ6DefXJCzntIUYCWk) | [Owen Westlake](https://open.spotify.com/artist/2OdSWlu6iOzT4YsRJuvC8I), [Lloyd Wade](https://open.spotify.com/artist/6lxTDIi9n3y6DWmL2w4nUs) | [So Much Love \(feat\. Lloyd Wade\)](https://open.spotify.com/album/1QxUxN95s5TmcCb72fk9cD) | 3:28 | 2022-04-15 | 2023-11-10 |
 | [So Sick](https://open.spotify.com/track/6ee7GQEkmWld8pGIl0E19Z) | [Freedo](https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ), [DJ Katch](https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl) | [So Sick](https://open.spotify.com/album/4ohKilHhD2WUbLkIXcuhMB) | 2:31 | 2022-04-15 | 2023-11-10 |

@@ -4,7 +4,7 @@
 
 > The home of Australian music\. Cover: Royel Otis
 
-204 songs - 11 hr 23 min
+205 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Hi Hello](https://open.spotify.com/track/2dWEiOWSppiWy91zKN5qOM) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Recency Bias](https://open.spotify.com/album/3uXHxkvvSygPVteiPPw5Cx) | 3:01 | 2025-02-20 | 2025-03-05 |
 | [Hideaway](https://open.spotify.com/track/6whwQsAorYI2N8iFLWUhfb) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP) | 2:57 | 2025-02-13 |  |
 | [Hocus Pocus](https://open.spotify.com/track/00i7lDi06DTNJJRmciIJOn) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [Hocus Pocus](https://open.spotify.com/album/5IJCDI2kPavM9i8x3P8bET) | 3:13 | 2024-10-24 | 2024-12-18 |
-| [Hold My Hand](https://open.spotify.com/track/3tTdrfAf26i1px0iRSvpKq) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Hold My Hand](https://open.spotify.com/album/0T0yrlXZzVERl5UPClQweD) | 3:44 | 2025-01-30 |  |
+| [Hold My Hand](https://open.spotify.com/track/3tTdrfAf26i1px0iRSvpKq) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Hold My Hand](https://open.spotify.com/album/0T0yrlXZzVERl5UPClQweD) | 3:44 | 2025-01-30 | 2025-03-16 |
 | [Horses](https://open.spotify.com/track/0jK5ImL0ZzQJmoW5H4YJFZ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Horses](https://open.spotify.com/album/1IBNQCm9J8OZTu4ewHcWqH) | 3:32 | 2024-12-05 | 2025-01-26 |
 | [How to Kill Houseplants](https://open.spotify.com/track/19y5QUQ6zfgRyPi0Jlg1PO) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [How to Kill Houseplants](https://open.spotify.com/album/4c2YoXr8JKbX8MgusvVbUD) | 3:28 | 2025-03-04 |  |
 | [I dropped the bottle](https://open.spotify.com/track/2Q0mGTS4rOEnl8Z0VwSFFc) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [I dropped the bottle](https://open.spotify.com/album/5N6E5nysJ950xzpi0ZqbAL) | 2:41 | 2024-08-30 | 2024-11-22 |
@@ -154,6 +154,7 @@
 | [Recognise](https://open.spotify.com/track/6NHRakvvF7z0VdrGbfgq1l) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Recognise](https://open.spotify.com/album/4887blG8QR8i119By3sGO8) | 3:51 | 2024-09-26 |  |
 | [Red Lights](https://open.spotify.com/track/7egbENInwPWegyktIf4rVh) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Red Lights](https://open.spotify.com/album/0tf1GkuAI4CdzdrrtAXm7I) | 2:28 | 2025-02-13 | 2025-02-21 |
 | [REMEMBER](https://open.spotify.com/track/3kuSEpeOT2IuPaIynwpcjq) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37), [Tim Ayre](https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL) | [REMEMBER](https://open.spotify.com/album/7z947NgHMz8Ievh7nUciWY) | 3:39 | 2025-01-09 | 2025-03-05 |
+| [Rescue Me](https://open.spotify.com/track/6layeClm9iQ1xOPYZ9zbJU) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Rescue Me](https://open.spotify.com/album/2xpvAnyCde4Q20Q193vfgR) | 2:47 | 2025-03-13 |  |
 | [Rocketship](https://open.spotify.com/track/26VZTImRTslsn5pT0xvqhG) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Rocketship](https://open.spotify.com/album/5rn2NONdzN8MELCoz81Ryj) | 1:56 | 2025-01-09 | 2025-01-27 |
 | [Room For You](https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Room For You](https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu) | 3:03 | 2024-07-25 |  |
 | [Rush \(feat\. PinkPantheress & Hyunjin of Stray Kids\)](https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | [Rush \(feat\. PinkPantheress & Hyunjin of Stray Kids\)](https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns) | 2:52 | 2024-05-31 |  |

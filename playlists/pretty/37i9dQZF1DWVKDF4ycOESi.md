@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Rose Villain in cover + le migliori uscite della settimana! Con brani di Chappell Roan, Calvin Harris, Selena Gomez e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,085 likes - 95 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,123 likes - 95 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 79 | [Acqua](https://open.spotify.com/track/4s2KWIhjkjY9Hmy6Ah1PW8) | [Francis La Potencia](https://open.spotify.com/artist/6uR8TJ7sfw9WjKb73NUYBr), [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Blaze Drumz](https://open.spotify.com/artist/5t3bdtfB81ZtP8XmMctkCQ), [Samuel Heron](https://open.spotify.com/artist/7CkfnjbIBJisquAJCZv6oU) | [Acqua](https://open.spotify.com/album/0ReRtsbaTZCKdcxyw892rD) | 2:05 |
 | 80 | [Acqua & Olio \(feat\. Quentin40\)](https://open.spotify.com/track/53HYWKlvlBbz4sNaeAb4Ds) | [9ova](https://open.spotify.com/artist/40ScoYJJAlWfFVrBmIQvJO), [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma) | [L'Estremità del Cerchio](https://open.spotify.com/album/4KNaxkBnTri4P0SrsDX8Yr) | 2:42 |
 | 81 | [NUVOLA](https://open.spotify.com/track/0YUc2caLF7zidyzeOAZdwx) | [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [NUVOLA](https://open.spotify.com/album/41l6vTvR72Qs2ozccH8ACl) | 3:05 |
-| 82 | [Nemmeno mille](https://open.spotify.com/track/6fE39jwmDMgnfsfcT699dN) | [Funk Shui Project](https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E), [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Polvere \(Director's cut\)](https://open.spotify.com/album/42MvJQeal6vjs0kmvWeFnp) | 2:12 |
+| 82 | [Nemmeno mille](https://open.spotify.com/track/6fE39jwmDMgnfsfcT699dN) | [Funk Shui Project](https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E), [Blo/B](https://open.spotify.com/artist/4QYU4MQEacNhS9Oe8PQEBH) | [Polvere \(Director's cut\)](https://open.spotify.com/album/42MvJQeal6vjs0kmvWeFnp) | 2:12 |
 | 83 | [Stupido Amarti](https://open.spotify.com/track/6DkSkXwJdc1jAVjQKDQhE5) | [Revé](https://open.spotify.com/artist/01Isxz2v0SDQALf5wpV74V), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [Stupido Amarti](https://open.spotify.com/album/3dsmZ8wpJ3SHtuMu1dv5BH) | 3:00 |
 | 84 | [Laughter, Us Us](https://open.spotify.com/track/6EsAAK5NRuOsLOv5JfNNiX) | [a/lpaca](https://open.spotify.com/artist/3Z4tthOYwn07YlzHDKyv7g) | [Laughter, Us Us](https://open.spotify.com/album/0gC2S8pfFWSQTHPGl323zH) | 3:13 |
 | 85 | [It's Okay](https://open.spotify.com/track/6wknpvAiR5znvNoKjhFLU9) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6) | [It's Okay](https://open.spotify.com/album/2Mx38Fk8pHE9VFTFDfcIc7) | 3:04 |

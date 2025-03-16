@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Sebastian Gaskin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,242 likes - 26 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,243 likes - 26 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

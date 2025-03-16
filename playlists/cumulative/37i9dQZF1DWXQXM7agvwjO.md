@@ -4,7 +4,7 @@
 
 > Hottest indie sound from Asia\. Cover: moon tang \(Hong Kong\)
 
-1,810 songs - 4 day 13 hr 36 min
+1,811 songs - 4 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Back In The Game](https://open.spotify.com/track/0h2gJVJj5eI80vTuyqMBBV) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Metamorphosis: Final Stage](https://open.spotify.com/album/0HBH7tV5NhLmoClAiKU513) | 3:28 | 2022-09-29 | 2023-01-20 |
 | [Back In The Game](https://open.spotify.com/track/0zRinZTCWJCx0pTSUeToC7) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Back In The Game](https://open.spotify.com/album/3mFUxzax1U0c4qKaybkZBF) | 3:28 | 2022-04-28 | 2022-05-20 |
 | [Back The Way We Came](https://open.spotify.com/track/0asqqiUE6xJu038O4a1m2S) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Back The Way We Came](https://open.spotify.com/album/1rzUKBVxC07E37ikpWRZcH) | 3:41 | 2024-02-29 | 2024-03-15 |
-| [BACK TO REALITY](https://open.spotify.com/track/6UPfwn6QfHpxwPrBY3nQnv) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [CALL ME DRAMATIC](https://open.spotify.com/album/4Sz1UUnYKvc9cndf10JPxs) | 3:52 | 2024-10-03 |  |
+| [BACK TO REALITY](https://open.spotify.com/track/6UPfwn6QfHpxwPrBY3nQnv) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [CALL ME DRAMATIC](https://open.spotify.com/album/4Sz1UUnYKvc9cndf10JPxs) | 3:52 | 2024-10-03 | 2025-03-16 |
 | [Back To You](https://open.spotify.com/track/0umNnTO5E0u3CE4XCq8wWO) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW) | [Back To You](https://open.spotify.com/album/7Hth7QqfXd5FMSiBbSOv8x) | 3:46 | 2022-09-29 | 2022-11-25 |
 | [Bad](https://open.spotify.com/track/4xpquaJtTBKbtFjXJ8rvSg) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Prologue : Love](https://open.spotify.com/album/51wJn9B4Dz7rnyelqgugvo) | 4:42 | 2023-02-16 | 2023-03-18 |
 | [BAD ADVICE](https://open.spotify.com/track/5caCpHqbO0cwH23qyVKwtW) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9), [Arto Lindsay](https://open.spotify.com/artist/2914JagOufmP5BY9qLDxtF) | [BAD ADVICE](https://open.spotify.com/album/7n96ralSpsWfcNxdSVxmru) | 4:54 | 2024-08-22 | 2024-08-30 |
@@ -345,7 +345,7 @@
 | [Dancing In The Breeze Alone](https://open.spotify.com/track/4C8GsOcCM1oynQgIj5GNBf) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Dancing In The Breeze Alone](https://open.spotify.com/album/0WgP3hgxtqeacKwosCO1vU) | 4:27 | 2023-02-23 | 2023-06-23 |
 | [Dancing with my phone](https://open.spotify.com/track/6ppefZt5uQ62aHAfSa1Jx9) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:23 | 2023-04-20 |  |
 | [Dari Pinggiran](https://open.spotify.com/track/3UNttJlYxUCXS1IzBzn77x) | [Bayangan](https://open.spotify.com/artist/6Vf2sAgnMGioPLNUqqBgAI) | [Dari Pinggiran](https://open.spotify.com/album/2XnOsx99FtOrDBxyFfNqdh) | 6:43 | 2024-05-02 | 2024-05-10 |
-| [Dating Me Ain't Hard](https://open.spotify.com/track/29EPMooH1QgiHLd3123r4x) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Dating Me Ain't Hard](https://open.spotify.com/album/5V6Rbmaey2po7jJfZztNuN) | 3:43 | 2025-02-13 |  |
+| [Dating Me Ain't Hard](https://open.spotify.com/track/29EPMooH1QgiHLd3123r4x) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Dating Me Ain't Hard](https://open.spotify.com/album/5V6Rbmaey2po7jJfZztNuN) | 3:43 | 2025-02-13 | 2025-03-16 |
 | [dawn](https://open.spotify.com/track/68mGHr1JQQNjIJXaz1y7hu) | [Dizzyboy](https://open.spotify.com/artist/5zWSUSKh2p9JPAgKulSxvj) | [dawn](https://open.spotify.com/album/6FEmt8gMAOzA0NA3W57hbl) | 3:45 | 2023-05-04 | 2023-05-26 |
 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 | 2022-10-06 | 2022-11-18 |
 | [Day By Day](https://open.spotify.com/track/7t6NSZQArTCYimaQmfwS0S) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7qeL0K9UlZMlfo7GS6127i) | 3:07 | 2022-09-29 | 2022-10-13 |
@@ -433,6 +433,7 @@
 | [Earth](https://open.spotify.com/track/5UqUMoymWBJD3bAKK7rGb2) | [Lee Jun Hyung](https://open.spotify.com/artist/6Op1UrYjepK3TvjsjnCeTq) | [Earth](https://open.spotify.com/album/72W91ap1swKyQxPxhWIHgJ) | 4:35 | 2022-07-28 | 2022-09-23 |
 | [Easy Lighter](https://open.spotify.com/track/3ZPJCJMNaBQZG65nnlGgQ3) | [N.Y.P.D\. 南洋派對](https://open.spotify.com/artist/0uGCA6uvmofOBLPplBhyAY) | [Easy Lighter](https://open.spotify.com/album/0kAocczsJutXrc6QWMjYH6) | 6:21 | 2024-04-11 | 2024-04-19 |
 | [Easy Like 123](https://open.spotify.com/track/5WafeWUNLnf2BY9UJ3xgRP) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [FUNFAIR](https://open.spotify.com/album/5n2ics3EJmLttFmgBkeC7i) | 2:28 | 2022-04-07 | 2022-04-22 |
+| [EFFORTLESS \(feat\. Jay Park, GroovyRoom\)](https://open.spotify.com/track/6RLTUqLjJBvqfYksqPBxCu) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [GROOVYROOM](https://open.spotify.com/artist/1EZhXPedZ7Fc4grCSJTvIZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SWIRL](https://open.spotify.com/album/23do2zirGkCiF6ZMtVYk3T) | 3:01 | 2025-03-13 |  |
 | [eko \- Edit](https://open.spotify.com/track/2LpAgQiBOnkhx2MS5Cpg9F) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [eko](https://open.spotify.com/album/7eKyBS8bK0jnfIWByYDrzB) | 2:01 | 2024-10-24 | 2024-12-13 |
 | [Eksplisit](https://open.spotify.com/track/0VIvXVm6RN2Dm0cCZxKHTq) | [Normal Eve](https://open.spotify.com/artist/6c7nlW5vkowcTcgspuXUIS) | [Eksplisit](https://open.spotify.com/album/28x4n2ncfpIByC8Q76lxVU) | 3:32 | 2023-02-16 | 2023-03-18 |
 | [Elevator Music \(OMG\)](https://open.spotify.com/track/4mYTYavKZErjx5MjDuaNW2) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Blueboy Must Die](https://open.spotify.com/album/7HxuP6eVdhcYH810tElmAg) | 2:44 | 2023-09-07 | 2023-10-13 |
@@ -1454,7 +1455,7 @@
 | [Time Machine](https://open.spotify.com/track/027JnuX0aYpMqWjIzXAOVf) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR), [DatBaddie](https://open.spotify.com/artist/49Dro0WxMu6uazK7ucMFnZ) | [Time Machine](https://open.spotify.com/album/4Ypx5o8FVNnIxhalsO0jrV) | 3:21 | 2023-09-15 | 2023-09-22 |
 | [Timescroll](https://open.spotify.com/track/1MIWMRCEdZaEt18V0MQdLH) | [星宮とと](https://open.spotify.com/artist/2gLRAkIfasw2ydt1omK41j), [IX/ON](https://open.spotify.com/artist/2kqBhRSwJAm8F84VJwMiud) | [Timescroll](https://open.spotify.com/album/1VFSaL71j2Ey7BKZlgM3d0) | 4:01 | 2025-01-31 | 2025-02-05 |
 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 | 2023-06-22 | 2024-03-15 |
-| [Tip Toe](https://open.spotify.com/track/2xW9Wlw6oKVCyzo9IhQaAh) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [WELL DONE](https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ) | 3:44 | 2024-03-14 | 2025-01-31 |
+| [Tip Toe](https://open.spotify.com/track/2xW9Wlw6oKVCyzo9IhQaAh) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [WELL DONE](https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ) | 3:44 | 2024-03-14 |  |
 | [tired](https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3) | [tired](https://open.spotify.com/album/6NIR1zEyjL76C1aiyOWPLA) | 2:24 | 2023-07-14 | 2024-10-13 |
 | [To Dream](https://open.spotify.com/track/4kXGYSZ3RW9LVeJJUlYezH) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [The Last Thing Left](https://open.spotify.com/album/5NbBrlCBc57yURIgJwYxLn) | 4:32 | 2022-04-21 | 2022-05-13 |
 | [To summer didn’t shine for us](https://open.spotify.com/track/3Slem59fCLqnreAqQxu23l) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [To summer didn’t shine for us](https://open.spotify.com/album/6V9lhpcM3w24zcjJfeVNX9) | 2:59 | 2023-08-29 | 2023-09-08 |

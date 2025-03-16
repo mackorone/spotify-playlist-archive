@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-171 songs - 17 hr 28 min
+172 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Thank You \(feat\. Steffany Gretzinger & Chandler Moore\)](https://open.spotify.com/track/0tI27jZrVAIKhpT5koEU7V) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Maverick City Music, Vol\. 3: Pt\. 1](https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq) | 7:29 | 2024-06-11 |  |
 | [The Blood](https://open.spotify.com/track/3Zm6QMBYCwNZFUOmVBoVhA) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Simple](https://open.spotify.com/album/6Loc2VbViFUgIe6EYa6z4Q) | 5:42 | 2024-06-11 | 2024-07-13 |
 | [The Blood](https://open.spotify.com/track/7Fd44ENIgycSM6Alye9QZN) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Simple](https://open.spotify.com/album/4vkHgRSat7jX2Egvy0zeys) | 5:42 | 2024-07-12 |  |
+| [The Blood \(Live\)](https://open.spotify.com/track/71cDTlRal4bmGUcu213rYt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 5:12 | 2025-03-15 |  |
 | [The Healing](https://open.spotify.com/track/3PtkyEjqwMz4fpSjo9ADNf) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [The Heartbreak And The Healing](https://open.spotify.com/album/6Hf2lGGpi3kVIGK9pLhxF3) | 3:49 | 2024-06-11 |  |
 | [To You \(feat\. Chandler Moore & Maryanne J\. George\)](https://open.spotify.com/track/1SFVeG0ACrvs5VcqZI1UFL) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3) | [Maverick City Music, Vol\. 3: Pt\. 2](https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt) | 13:46 | 2024-06-11 |  |
 | [Voice of God](https://open.spotify.com/track/0Yiq7vImarAR4EcIr76xy8) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Voice of God](https://open.spotify.com/album/0cIR0MdQBifcukQoSmuGol) | 11:43 | 2024-07-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover:  Joshwa
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,496 likes - 59 songs - 2 hr 52 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,495 likes - 59 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

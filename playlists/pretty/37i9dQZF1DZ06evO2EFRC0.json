@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 93934,
+  "num_followers": 93952,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAACfXtWDkj+DBkdfQCUv+1gs",
+  "snapshot_id": "Z9NxgAAAAABddy33oCFtQ1HLwuOMtUW5",
   "tracks": [
     {
       "added_at": null,
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobrenatural",
-        "url": "https://open.spotify.com/album/1EDofreiBInsrMtMbpt7hL"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 311706,
-      "name": "Sobrenatural",
-      "url": "https://open.spotify.com/track/0bYJJNIhLTPqz7SSU0Fw3V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sana Nuestra Tierra",
         "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 372035,
       "name": "Sana Nuestra Tierra",
       "url": "https://open.spotify.com/track/6viyvAwhF791gksn4WBvcJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/1EDofreiBInsrMtMbpt7hL"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 311706,
+      "name": "Sobrenatural",
+      "url": "https://open.spotify.com/track/0bYJJNIhLTPqz7SSU0Fw3V"
     },
     {
       "added_at": null,
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu y Yo",
-        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
+        "name": "Enciende una Luz",
+        "url": "https://open.spotify.com/album/4feGmOBJgIy4LD7SNt2XAa"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 167758,
-      "name": "Porque para Siempre",
-      "url": "https://open.spotify.com/track/1snvuOpocJJRNXLVAR7QVI"
+      "duration_ms": 410827,
+      "name": "Jes\u00fas Eres Mi Buen Pastor",
+      "url": "https://open.spotify.com/track/2K7Xl0INk9AOJczRbTLOy4"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enciende una Luz",
-        "url": "https://open.spotify.com/album/4feGmOBJgIy4LD7SNt2XAa"
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 410827,
-      "name": "Jes\u00fas Eres Mi Buen Pastor",
-      "url": "https://open.spotify.com/track/2K7Xl0INk9AOJczRbTLOy4"
+      "duration_ms": 167758,
+      "name": "Porque para Siempre",
+      "url": "https://open.spotify.com/track/1snvuOpocJJRNXLVAR7QVI"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor de Instrumentales",
-        "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 222876,
-      "name": "Renu\u00e9vame",
-      "url": "https://open.spotify.com/track/0KLlY8Hfa4NtxfP7X1IHVL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poderoso",
         "url": "https://open.spotify.com/album/2eDiKQMiFOxIHZenmaNNzh"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 213229,
       "name": "Poderoso",
       "url": "https://open.spotify.com/track/0TppQPfqLVRZjdYFtRHtMp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Mejor de Instrumentales",
+        "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 222876,
+      "name": "Renu\u00e9vame",
+      "url": "https://open.spotify.com/track/0KLlY8Hfa4NtxfP7X1IHVL"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adoremos",
-        "url": "https://open.spotify.com/album/2YISvt6LsSIaOFujAQQVkh"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 282044,
-      "name": "Tu Misericordia",
-      "url": "https://open.spotify.com/track/62JXNY39mekHoBTxO5gKWr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Proyecto AA",
         "url": "https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 141924,
       "name": "Maravilloso Dios",
       "url": "https://open.spotify.com/track/0U5SaWJBbeqqQOT1tQmYMF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adoremos",
+        "url": "https://open.spotify.com/album/2YISvt6LsSIaOFujAQQVkh"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 282044,
+      "name": "Tu Misericordia",
+      "url": "https://open.spotify.com/track/62JXNY39mekHoBTxO5gKWr"
     },
     {
       "added_at": null,

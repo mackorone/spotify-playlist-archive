@@ -1,6 +1,6 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 243919,
+  "num_followers": 243917,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Original Sin",
-        "url": "https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 171598,
-      "name": "Original Sin",
-      "url": "https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "Allein Allein",
         "url": "https://open.spotify.com/album/2oLn47kWsw7iYC3NOtNEx2"
       },
@@ -595,22 +579,18 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Through the Fire",
-        "url": "https://open.spotify.com/album/6KZHzEUYDXha4IetKQwIHB"
+        "name": "Original Sin",
+        "url": "https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW"
       },
       "artists": [
         {
-          "name": "PALASTIC",
-          "url": "https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y"
-        },
-        {
-          "name": "Sam Welch",
-          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         }
       ],
-      "duration_ms": 149374,
-      "name": "Through the Fire",
-      "url": "https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL"
+      "duration_ms": 171598,
+      "name": "Original Sin",
+      "url": "https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -635,6 +615,26 @@
       "duration_ms": 192122,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "Through the Fire",
+        "url": "https://open.spotify.com/album/6KZHzEUYDXha4IetKQwIHB"
+      },
+      "artists": [
+        {
+          "name": "PALASTIC",
+          "url": "https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y"
+        },
+        {
+          "name": "Sam Welch",
+          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
+        }
+      ],
+      "duration_ms": 149374,
+      "name": "Through the Fire",
+      "url": "https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL"
     },
     {
       "added_at": "2024-08-01 10:59:15",

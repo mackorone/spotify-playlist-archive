@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland.
 
-201 songs - 10 hr 3 min
+202 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Love Me Better](https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Love Me Better](https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H) | 2:13 | 2024-08-19 |  |
 | [Luisa](https://open.spotify.com/track/3HO8nhj3GUWcASnhQFO4iO) | [Gaspar Narby](https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s) | [Luisa](https://open.spotify.com/album/1JWNb9DGs4uPn4aj2yf8iA) | 3:04 | 2024-12-07 | 2024-12-21 |
 | [Maggie](https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Maggie](https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp) | 2:59 | 2024-06-27 |  |
+| [Mathilda](https://open.spotify.com/track/0WDdn12hdqiLZ0z51XhIk3) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [Mathilda](https://open.spotify.com/album/62aBfUsSWYtxGhnmIv3RbN) | 4:02 | 2025-03-14 |  |
 | [Mi Mundo](https://open.spotify.com/track/7b52XqwbhEFvsMMqO7YWLT) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Mi Mundo](https://open.spotify.com/album/6g7qoedFwv2nEjuC05YDUq) | 2:56 | 2024-06-27 | 2024-07-18 |
 | [Milchstrass \(feat\. Aaron Asteria\)](https://open.spotify.com/track/4gYy4OPpKdVYLtc600YjEc) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr), [Aaron Asteria](https://open.spotify.com/artist/7DxUqzuXRoTBvna6yo5Mq8) | [Milchstrass \(feat\. Aaron Asteria\)](https://open.spotify.com/album/2FTCdDCysfUceC2dPBSKdL) | 3:57 | 2024-06-27 |  |
 | [Mond](https://open.spotify.com/track/2Jb3Hv9Wj4gnhv9APP99rK) | [Andryy](https://open.spotify.com/artist/7EOSMyuCedHppuXhVBsbEP), [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Mond](https://open.spotify.com/album/12IgBWXsy2s0UJggqj5OtH) | 2:35 | 2024-10-03 | 2024-11-05 |
@@ -159,7 +160,7 @@
 | [Runaway](https://open.spotify.com/track/4SemVHStVzeOBprnKQ3ADo) | [Ellu](https://open.spotify.com/artist/4O3D4tbVH9zs2lCQd1D51B) | [Runaway](https://open.spotify.com/album/0F00CHsYzsEIYuVK8GjYu6) | 2:35 | 2024-07-04 | 2024-08-02 |
 | [Russian Blue](https://open.spotify.com/track/4H2DQFvr1azbh38m4MoMu8) | [Roxane](https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD) | [Russian Blue](https://open.spotify.com/album/4d6KggoADtAdnsZs6zh1TL) | 3:29 | 2024-12-07 |  |
 | [Sans Toi](https://open.spotify.com/track/3XN0T1Yew3d5hiXhmMuuDS) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Sans Toi](https://open.spotify.com/album/3qvzJyERlOl1zvdxkPxB7y) | 2:14 | 2024-09-27 | 2024-11-10 |
-| [Sauvage](https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv) | [Julie Meletta](https://open.spotify.com/artist/6dtKZZx0OeZgjHzrTLm8z1) | [Sauvage](https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL) | 2:57 | 2024-08-26 |  |
+| [Sauvage](https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv) | [Julie Meletta](https://open.spotify.com/artist/6dtKZZx0OeZgjHzrTLm8z1) | [Sauvage](https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL) | 2:57 | 2024-08-26 | 2025-03-16 |
 | [Scars On Your Heart](https://open.spotify.com/track/3EUjGScwQwLvq27r9nhVU1) | [Ladina](https://open.spotify.com/artist/3NutXQr2Yvx6R2aUbkQXEo) | [Scars On Your Heart](https://open.spotify.com/album/1cSh4EZu0FpUYxJGzayK0n) | 2:53 | 2025-02-14 | 2025-02-28 |
 | [Scorpio](https://open.spotify.com/track/02mBTUzWaTyUQAvoJZ1470) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [WHERE WERE YOU ?!](https://open.spotify.com/album/5YbEYcrhyGVXIRZtxuKRkb) | 2:29 | 2024-09-06 | 2024-11-07 |
 | [she calls me daddy](https://open.spotify.com/track/12ZuYk6Tx3BMQIaDW6fNHI) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [she calls me daddy](https://open.spotify.com/album/52dHlZgYvDv9BVaISE95hQ) | 2:29 | 2024-07-19 | 2024-10-04 |

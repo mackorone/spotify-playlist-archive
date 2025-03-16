@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 
 > Snowy days, cozy nights\. Soak up the spirit of the season with lush, intricate acoustics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,714,517 likes - 93 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,714,544 likes - 93 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

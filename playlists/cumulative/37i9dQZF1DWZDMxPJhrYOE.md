@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-462 songs - 23 hr 29 min
+463 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,7 +368,7 @@
 | [Settle Down](https://open.spotify.com/track/24nrsUD8dIaX8gkiotxy6w) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [Settle Down](https://open.spotify.com/album/2BOhNUPQwvNFxH1rdjnqUc) | 3:18 | 2025-03-06 | 2025-03-14 |
 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 | 2024-07-25 | 2024-09-27 |
 | [Signaler](https://open.spotify.com/track/689NPKXoBKWnqJif3uUVre) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Signaler](https://open.spotify.com/album/2RMpD5fPqxyyugiPgCxg2e) | 2:30 | 2024-09-26 | 2024-11-14 |
-| [SIKKE EN TYPE](https://open.spotify.com/track/5zaXybxrzGiDd6IPWIHheW) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [SIKKE EN TYPE](https://open.spotify.com/album/2YxkCdNRwEA0F2O2oNfhU1) | 2:19 | 2025-01-30 |  |
+| [SIKKE EN TYPE](https://open.spotify.com/track/5zaXybxrzGiDd6IPWIHheW) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [SIKKE EN TYPE](https://open.spotify.com/album/2YxkCdNRwEA0F2O2oNfhU1) | 2:19 | 2025-01-30 | 2025-03-16 |
 | [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 | 2024-09-26 | 2025-01-25 |
 | [Siren sounds \(bonus\)](https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb) | 3:03 | 2025-02-27 |  |
 | [Sista Gång](https://open.spotify.com/track/2i659C6ywROaFG0kj5eOoA) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Sista Gång](https://open.spotify.com/album/4sXaL6DwBY0XD5GhIBdcD6) | 2:37 | 2024-07-01 | 2024-07-27 |
@@ -376,6 +376,7 @@
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-07-01 | 2024-08-01 |
 | [SLOW IT DOWN](https://open.spotify.com/track/6EBHz85BW58iHN9yuT35Od) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [SLOW IT DOWN](https://open.spotify.com/album/4SR1TtPLuJwKtCjoAOLSeN) | 2:22 | 2024-11-15 | 2025-01-22 |
 | [Slow Motion](https://open.spotify.com/track/5zuV1H77nGNalXohUCsjTY) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Slow Motion](https://open.spotify.com/album/5yOtAcU6AkGjqjiutHxawu) | 3:23 | 2025-01-24 | 2025-03-10 |
+| [SMOKE THE PAIN AWAY](https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [SMOKE THE PAIN AWAY](https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP) | 2:42 | 2025-03-13 |  |
 | [Småting \(feat\. Lamin & Kundo\)](https://open.spotify.com/track/2ZwOtQXG5k1M7gHmTmTMgw) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Månen Er Min Ven](https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS) | 3:04 | 2025-01-24 | 2025-03-07 |
 | [so american](https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:49 | 2024-07-01 | 2024-07-27 |
 | [So Stunning](https://open.spotify.com/track/11H0FOYFDAQ2z6DUwIK5VZ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [So Stunning](https://open.spotify.com/album/77iJPDjDNyKhQdsiFBNkUy) | 2:18 | 2024-07-31 | 2024-08-25 |

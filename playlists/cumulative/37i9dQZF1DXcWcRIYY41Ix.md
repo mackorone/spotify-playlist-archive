@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: alberto.vela.
 
-780 songs - 1 day 22 hr 27 min
+781 songs - 1 day 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [El Verano Que Vivimos](https://open.spotify.com/track/1LTaLoBeGVgQ9CXNhr6aXL) | [Alfredo González](https://open.spotify.com/artist/4DzEtZMxJdNGHsIvzGILfb), [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [El Verano Que Vivimos](https://open.spotify.com/album/0WNi05EyoAFBDvKdqtVmYk) | 3:51 | 2023-09-29 | 2023-10-24 |
 | [El Viejo Comunista](https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [El Viejo Comunista](https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke) | 4:57 | 2021-12-24 | 2024-05-10 |
 | [Elegía](https://open.spotify.com/track/6CgUntvaIGORRa5qTdx0Jx) | [Andrea Santiago](https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo) | [Elegía](https://open.spotify.com/album/7iISpm6hy6cNtC2I0dymTE) | 3:28 | 2024-05-09 | 2024-06-06 |
+| [ella calma mi tormenta](https://open.spotify.com/track/4Wf2cR3BjqBGjFxVNZyTFI) | [Julia Sabaté](https://open.spotify.com/artist/31rI390sTNfG8xZmBZ0tgA) | [ella calma mi tormenta](https://open.spotify.com/album/44CwAlsxFhvJixQZfFtmcV) | 3:34 | 2025-03-13 |  |
 | [En el amor nunca se deja de aprender](https://open.spotify.com/track/2dDzQeHSw8gWhnZX7YhWg3) | [Nel Rodríguez](https://open.spotify.com/artist/2wxECWCzBE04LQYMvd4FWb) | [En el amor nunca se deja de aprender](https://open.spotify.com/album/6dW6SPQ4lzLZXYZMssjI3f) | 3:40 | 2024-07-26 | 2024-10-07 |
 | [En el río](https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY) | [Vicente Navarro](https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ) | [Casi tierra](https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY) | 3:08 | 2021-12-24 | 2024-12-10 |
 | [En Esta Cama](https://open.spotify.com/track/5YdmYqzuE2GzNvDHiENWh6) | [Daniel Drexler](https://open.spotify.com/artist/5G1Mvuz6SvPPLgVv9NaJDk) | [En Esta Cama](https://open.spotify.com/album/6iaaZ2moZ9xhf3Xd2wpZPG) | 3:55 | 2022-06-10 | 2022-07-23 |
@@ -698,7 +699,7 @@
 | [Todo lo que hemos hecho](https://open.spotify.com/track/2vPLLswygDu5YPmRCxbNik) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Acto I: La \(Re\) Conciliación](https://open.spotify.com/album/1SJF6XS1MgjBugP0sLeX7Y) | 3:54 | 2022-07-01 | 2022-07-23 |
 | [Todo Lo Que No Está](https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z) | [Luísa Sobral](https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Todo Lo Que No Está](https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5) | 3:36 | 2021-12-24 | 2024-06-12 |
 | [Todo lo que puedo darte](https://open.spotify.com/track/45vVudfLzNbFgiYjWpQCsh) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [LIBRE](https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O) | 3:26 | 2024-01-26 | 2024-03-09 |
-| [Todo lo Que Tengo](https://open.spotify.com/track/5rfmreOdFq1jp3afeCNJAK) | [Marazu](https://open.spotify.com/artist/1RJzgiBktNaycMMFRMvD42) | [Todo lo Que Tengo](https://open.spotify.com/album/7roKWO70Emv1wpq26niIZx) | 4:14 | 2025-01-16 |  |
+| [Todo lo Que Tengo](https://open.spotify.com/track/5rfmreOdFq1jp3afeCNJAK) | [Marazu](https://open.spotify.com/artist/1RJzgiBktNaycMMFRMvD42) | [Todo lo Que Tengo](https://open.spotify.com/album/7roKWO70Emv1wpq26niIZx) | 4:14 | 2025-01-16 | 2025-03-16 |
 | [Todo o nada](https://open.spotify.com/track/7JcGt3lxb68CDpLzjoP3gl) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [Todo o nada](https://open.spotify.com/album/7LzhNFqwqixFNNjr00VJVx) | 3:02 | 2023-09-29 | 2023-12-09 |
 | [Todo palante ya](https://open.spotify.com/track/4yu3fWLvZRvyjyOrGIUPfF) | [Lino Suricato](https://open.spotify.com/artist/2B3pogaficYqwZ3DwaKH47) | [Todo palante ya](https://open.spotify.com/album/0J4pHbmkeVEEolJ1YhIjB5) | 3:34 | 2024-11-22 | 2025-01-11 |
 | [Todo te parece normal](https://open.spotify.com/track/1jQ695vF4J7RQz9vHhHj80) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Todo te parece normal](https://open.spotify.com/album/6w60jUW5MJdacklytIan1H) | 4:56 | 2025-01-16 |  |

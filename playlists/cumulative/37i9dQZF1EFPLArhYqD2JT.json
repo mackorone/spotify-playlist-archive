@@ -426,7 +426,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 150600,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/4hePXlrXMoJjwtw1GE1srE"
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 156044,
       "name": "Crinoline Days",
       "url": "https://open.spotify.com/track/3M5kUTubTapFfeGrJpCbT9"
@@ -6244,6 +6244,24 @@
       "duration_ms": 186080,
       "name": "Tell Me With a Melody",
       "url": "https://open.spotify.com/track/4sCSQTrAeAJAx6F9Zz8FsM"
+    },
+    {
+      "album": {
+        "name": "Go Champs Go!",
+        "url": "https://open.spotify.com/album/56dcDUhBf8fOnveET5B61r"
+      },
+      "artists": [
+        {
+          "name": "The Champs",
+          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135026,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/020XZ8mDVjzbnmvjL6GKls"
     },
     {
       "album": {

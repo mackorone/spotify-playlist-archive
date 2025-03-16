@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! Benelux ambassador: <a href="spotify:artist:5VyGPIz23xzQUyXocTxAvL">philine</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,096 likes - 79 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,091 likes - 79 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 4 | [Amsterdam](https://open.spotify.com/track/7Get7yGumhmImlPmD1fKOM) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Amsterdam](https://open.spotify.com/album/5Poc7rMFKXvwGejX9WWJfy) | 4:05 |
 | 5 | [talk shit](https://open.spotify.com/track/6IEtI05pJzht8zp6u5P9kv) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK) | 3:13 |
 | 6 | [Liefste](https://open.spotify.com/track/03rS8yQDtIHaDuUewAbEe7) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Liefste](https://open.spotify.com/album/5TueQLTCYfnzmD9XtCbkse) | 2:35 |
-| 7 | [Remains](https://open.spotify.com/track/2pGHd3wRM244IOFAC34FrX) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Remains](https://open.spotify.com/album/30wR8ockAAhNsBx57ocssO) | 3:16 |
+| 7 | [remains](https://open.spotify.com/track/2pGHd3wRM244IOFAC34FrX) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [remains](https://open.spotify.com/album/30wR8ockAAhNsBx57ocssO) | 3:16 |
 | 8 | [Ulterior Motives](https://open.spotify.com/track/0zfLf6IWFvJMGaubfJWtLk) | [OLIVIA](https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM) | [Ulterior Motives](https://open.spotify.com/album/0OOkiwWU6jpaprw7h8IYvm) | 2:34 |
 | 9 | [Departure](https://open.spotify.com/track/5SzAXugSyV4nN9LxvnIiFp) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE), [Rozi Plain](https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x) | [Departure](https://open.spotify.com/album/1SXiY0908RyXJTZ96fdDHi) | 3:19 |
 | 10 | [Deep Dive \(feat\. Candy Dulfer\)](https://open.spotify.com/track/1vUIfW9ZucBz0DZAMW5Suj) | [ROSEYE](https://open.spotify.com/artist/5OgVIGurum64YtfpEjicYy), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Deep Dive \(feat\. Candy Dulfer\)](https://open.spotify.com/album/6f5TCopsrO24t7Asl2lO4C) | 3:03 |

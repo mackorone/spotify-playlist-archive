@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,355 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,356 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 34 | [ALL IN \(Lieblingslieder\)](https://open.spotify.com/track/3VIEbpdr64a1mNSa8MqBAm) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [ALL IN \(Lieblingslieder\)](https://open.spotify.com/album/3l4OJNnPVJGK8Dg9dvkRFZ) | 2:43 |
 | 35 | [Angels Sippen Mashup](https://open.spotify.com/track/6WpRQIRWVfmaS6gr22Zxh0) | [Der Heimer](https://open.spotify.com/artist/1KuYRlMHWNMKyP6bjqwEDO), [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY), [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG) | [Angels Sippen Mashup](https://open.spotify.com/album/54ZLvErHEB9iVrTAMpycIR) | 2:08 |
 | 36 | [Mona Lisa Motion](https://open.spotify.com/track/18o2gKM9pMyEWWAT9ZaGvr) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd) | [Mona Lisa Motion](https://open.spotify.com/album/5pFWfukC0k2EAdOhzEtDch) | 2:12 |
-| 37 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 |
+| 37 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 |
 | 38 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
 | 39 | [Vielleicht Vielleicht](https://open.spotify.com/track/559mLg44MrcA7JzYGbpXfL) | [MilleniumKid](https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG), [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Vielleicht Vielleicht](https://open.spotify.com/album/3xunU89Mwwaw3gbwwLg0BX) | 2:22 |
 | 40 | [Nur ein Wort](https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I) | [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Von hier an blind](https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 49 | [Don't Stop Believin' \(2022 Remaster\)](https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(2022 Remaster\)](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm) | 4:09 |
 | 50 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 |
 
-Snapshot ID: `L2eboAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L2jtIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

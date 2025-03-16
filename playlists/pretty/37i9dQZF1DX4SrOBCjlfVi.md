@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Tecca, Playboi Carti, Key Glock and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,292 likes - 49 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,491 likes - 49 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [GOOD CREDIT](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
+| 1 | [GOOD CREDIT \(with Kendrick Lamar\)](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
 | 2 | [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 |
 | 3 | [No Sweat](https://open.spotify.com/track/0K0jgfFssBL0Q5IcFMrsSz) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [No Sweat](https://open.spotify.com/album/6gUOpZLzz8nEAHgLRW9kxZ) | 2:35 |
 | 4 | [OverTh!nking](https://open.spotify.com/track/0HhzQxtC4tF558LQINYrsK) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [OverTh!nking](https://open.spotify.com/album/5BBgGOiNfWKdnHGmYaUjqb) | 1:35 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 15 | [ICE](https://open.spotify.com/track/5IWox3mpmUSCswCQJJCtRR) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT) | [STABBED & SHOT 2 \(Deluxe Edition\)](https://open.spotify.com/album/3Nj9UgUHxCk8sQxi0u2J0G) | 2:27 |
 | 16 | [Go Yeezy](https://open.spotify.com/track/0o49qkTGIJlePImFnyJqXX) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Go Yeezy](https://open.spotify.com/album/7vKI9aFcYJeDXabydIZQTj) | 2:43 |
 | 17 | [My Baby \(feat\. Shordie Shordie\)](https://open.spotify.com/track/6R9Gqy0QyiMpJR6ddlStKF) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [My Baby \(feat\. Shordie Shordie\)](https://open.spotify.com/album/2LMjRPgRKhs8NODh8DI2di) | 3:40 |
-| 18 | [Raw](https://open.spotify.com/track/6zNih1Zs1kg834SML22oqy) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Stuck In My Ways](https://open.spotify.com/album/7AbOJRajNjZh64AsvNIuYY) | 3:25 |
+| 18 | [Raw](https://open.spotify.com/track/6zNih1Zs1kg834SML22oqy) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Stuck In My Ways](https://open.spotify.com/album/7AbOJRajNjZh64AsvNIuYY) | 3:21 |
 | 19 | [MY NAME BK](https://open.spotify.com/track/0VHX7sBxjnVBOTQKQbgXZV) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [MY NAME BK](https://open.spotify.com/album/5kkjvRJoQTDh2npWLbDfov) | 1:52 |
 | 20 | [UNDER OATH](https://open.spotify.com/track/1iGiANByWXW8cw430IX3a8) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [UNDER OATH](https://open.spotify.com/album/3EAEDpMOytxYZFHQ2r0jzW) | 2:50 |
 | 21 | [Ting Ting](https://open.spotify.com/track/0qMcxTMmS9kpa1cA40gEa0) | [DeeBaby](https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE) | [Ms\. Salazar](https://open.spotify.com/album/3TjmpGUW0WUHtETUJYh03f) | 3:02 |

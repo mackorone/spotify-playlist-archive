@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,696 likes - 50 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,700 likes - 50 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 43 | [Loco Amor \- Spanish Version](https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Loco Amor \(Spanish Version\)](https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do) | 5:03 |
 | 44 | [Hasta Poder Ver](https://open.spotify.com/track/5PPcHsB4euq3Eg90F4Dngs) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Hasta Poder Ver](https://open.spotify.com/album/7wc3QJ8twMqY8mlDb0MupP) | 5:09 |
 | 45 | [Como Dijiste](https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J) | [Aliento Kids](https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Ambientes de Cuna](https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu) | 7:32 |
-| 46 | [Hermoso](https://open.spotify.com/track/3B1OuiH9xGmZAcbPLphSJb) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Novia](https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB) | 4:30 |
-| 47 | [Cristo Es Necesario](https://open.spotify.com/track/3Fms9XnObl83AVbVuxbgYm) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Jesus People](https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5) | 4:05 |
+| 46 | [Cristo Es Necesario](https://open.spotify.com/track/3Fms9XnObl83AVbVuxbgYm) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Jesus People](https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5) | 4:05 |
+| 47 | [Hermoso](https://open.spotify.com/track/3B1OuiH9xGmZAcbPLphSJb) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Novia](https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB) | 4:30 |
 | 48 | [La Batalla](https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Batalla](https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF) | 4:47 |
 | 49 | [Desciende](https://open.spotify.com/track/4rRLahDWi4tbthyhprq0ad) | [Aliento Kids](https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Ambientes de Cuna](https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu) | 8:45 |
-| 50 | [A Ti Correré](https://open.spotify.com/track/4ZW6hHdJAafygRPRMvm4mf) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Novia](https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB) | 4:45 |
+| 50 | [Danzando \(En Vivo\)](https://open.spotify.com/track/16fCUIyZ3BeBQmmpMNOcg2) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h), [Becky Collazos](https://open.spotify.com/artist/2e3Cv0nAlMvRoCfrsV75dI) | [EVANGELIO \(En Vivo\)](https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd) | 8:14 |
 
-Snapshot ID: `Z9IgAAAAAABA3+h2u0ZK+e2GzGEj6NJy`
+Snapshot ID: `Z9NxgAAAAABVIJdyOelgPFLM503m4dlP`

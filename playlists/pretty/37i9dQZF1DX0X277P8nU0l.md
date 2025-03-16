@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,405 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,420 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Make It Work](https://open.spotify.com/track/7AgPGHkeXpj8yETLvBn3Kb) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Make It Work](https://open.spotify.com/album/4VC97qyEvXilPylVXxhcCB) | 4:15 |
-| 2 | [End of the Line](https://open.spotify.com/track/0kEhb225WGSAoGLNRq45hh) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [End of the Line](https://open.spotify.com/album/11tLFnQTNylmvuCRAowGLu) | 3:32 |
-| 3 | [You are a Tree](https://open.spotify.com/track/0Wv4rQRNr8fDEbYQN05Byk) | [5 Horses](https://open.spotify.com/artist/0hNDmYXO0POlx50a6iCdbt), [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0) | [You are a Tree](https://open.spotify.com/album/7zhFgwy7sPR4ZUcIsgOMnQ) | 3:08 |
-| 4 | [Orlando in Love](https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Orlando in Love](https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6) | 2:25 |
-| 5 | [sunflower ‘24](https://open.spotify.com/track/4B5bFK1CWLg3MHo56HNizi) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [postcard season](https://open.spotify.com/album/1jrrjvl5djCDh5fBN8ZE0q) | 2:52 |
-| 6 | [Crashing \(with Kali Uchis\)](https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Crashing \(with Kali Uchis\)](https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS) | 3:07 |
-| 7 | [Within a Heartbeat](https://open.spotify.com/track/3wjwHr3gAFWjqadEi5Kii4) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Within a Heartbeat](https://open.spotify.com/album/2Ph2OneHmuqiVtzwr6qfor) | 3:41 |
-| 8 | [Pale Blue Eyes](https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pale Blue Eyes](https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D) | 3:09 |
+| 1 | [Within a Heartbeat](https://open.spotify.com/track/3wjwHr3gAFWjqadEi5Kii4) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Within a Heartbeat](https://open.spotify.com/album/2Ph2OneHmuqiVtzwr6qfor) | 3:41 |
+| 2 | [Pale Blue Eyes](https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pale Blue Eyes](https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D) | 3:09 |
+| 3 | [End of the Line](https://open.spotify.com/track/0kEhb225WGSAoGLNRq45hh) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [End of the Line](https://open.spotify.com/album/11tLFnQTNylmvuCRAowGLu) | 3:32 |
+| 4 | [You are a Tree](https://open.spotify.com/track/0Wv4rQRNr8fDEbYQN05Byk) | [5 Horses](https://open.spotify.com/artist/0hNDmYXO0POlx50a6iCdbt), [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0) | [You are a Tree](https://open.spotify.com/album/7zhFgwy7sPR4ZUcIsgOMnQ) | 3:08 |
+| 5 | [Orlando in Love](https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Orlando in Love](https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6) | 2:25 |
+| 6 | [Make It Work](https://open.spotify.com/track/7AgPGHkeXpj8yETLvBn3Kb) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Make It Work](https://open.spotify.com/album/4VC97qyEvXilPylVXxhcCB) | 4:15 |
+| 7 | [sunflower ‘24](https://open.spotify.com/track/4B5bFK1CWLg3MHo56HNizi) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [postcard season](https://open.spotify.com/album/1jrrjvl5djCDh5fBN8ZE0q) | 2:52 |
+| 8 | [Crashing \(with Kali Uchis\)](https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Crashing \(with Kali Uchis\)](https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS) | 3:07 |
 | 9 | [Mornin Dew](https://open.spotify.com/track/6bxtai04eVsvV7IZGqOXMy) | [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Satin Psicodelic](https://open.spotify.com/album/1HRzxvSMJSc6sNHrU2JA1W) | 5:24 |
 | 10 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 |
 | 11 | [It Isn’t Perfect But It Might Be \- from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack](https://open.spotify.com/track/1wsLt0uxVHxUMXfwfI6Gsn) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [It Isn’t Perfect But It Might Be \(from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4laFrVqnELYYbbhwnSObNg) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 | 49 | [Spring Into Summer](https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 4:22 |
 | 50 | [That's What I Love](https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That's What I Love](https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93) | 3:46 |
 
-Snapshot ID: `Z8r5LQAAAAB2CxBn3SOgamdvCcqP0zPQ`
+Snapshot ID: `Z9XrYwAAAADrqMZaB9S4Gi+DhjYo9Qub`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pGqUCAZhrO.md) - [plain]
 
 > Live by your own rules\. Listen to the official playlist inspired by Bel\-Air, streaming now exclusively on  <a href="https://www.peacocktv.com/stream\-tv/bel\-air">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,374 likes - 74 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,373 likes - 74 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pGqUCAZhrO.md) - [plain]
 | 25 | [Candlelight](https://open.spotify.com/track/4RK7tE3Ro6NUcDJfW7Z4Zn) | [SHERIE](https://open.spotify.com/artist/22QPHxxyb3RvIFvct9EAbu), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Candlelight](https://open.spotify.com/album/5ujyjNivHF765vciSmLnxb) | 3:37 |
 | 26 | [West Coast Love](https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 3:35 |
 | 27 | [Such A Thing](https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Marigold](https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz) | 3:25 |
-| 28 | [I WANT YOU BUT YOU'LL NEVER KNOW..\. \(feat\. DRAM and Alex Isley\)](https://open.spotify.com/track/6GkzW1afOfnnNGhEMrA5ct) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I WANT YOU BUT YOU'LL NEVER KNOW...](https://open.spotify.com/album/4NEN5cCWBvREzE5LA7huDD) | 3:50 |
+| 28 | [I WANT YOU BUT YOU'LL NEVER KNOW...](https://open.spotify.com/track/6GkzW1afOfnnNGhEMrA5ct) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I WANT YOU BUT YOU'LL NEVER KNOW...](https://open.spotify.com/album/4NEN5cCWBvREzE5LA7huDD) | 3:50 |
 | 29 | [Big Splendid](https://open.spotify.com/track/0XBjp1FThdpZdBNT9FRvLx) | [Aaron Alexander](https://open.spotify.com/artist/3aY5vFyTSP6wnIkddlb7lC), [Leonard Dstroy](https://open.spotify.com/artist/31YOBd0gftAsAQb02B1ZiD) | [Diamonds In Space](https://open.spotify.com/album/72D6z73c6GgtFHHesqKQdb) | 2:36 |
 | 30 | [Shame On You](https://open.spotify.com/track/1awdxcVuDxlDqUCO8fk4Gd) | [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [War & Wonders](https://open.spotify.com/album/6yXIl5A3rqnIEW6kMX3NwN) | 3:13 |
 | 31 | [505](https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i) | [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [Apt\. 505](https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf) | 3:07 |

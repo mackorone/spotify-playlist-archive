@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpq8e9AjGoM.md) - [plain]
 
 > The sound of spring.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,792 likes - 221 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,806 likes - 221 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

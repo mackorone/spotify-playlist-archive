@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック  Chappell Roan, Playboi Carti, Lizzo, Lil Nas X, Calvin Harris, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,356 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,371 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 |
 | 2 | [Still Bad](https://open.spotify.com/track/5UpdcedkGcuishA7jlnH8W) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Still Bad](https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL) | 3:28 |
-| 3 | [GOOD CREDIT](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
+| 3 | [GOOD CREDIT \(with Kendrick Lamar\)](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
 | 4 | [HOTBOX](https://open.spotify.com/track/398rCeBrqZr360MpS6EXE9) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HOTBOX](https://open.spotify.com/album/3dXTiG15LrfpSmQUP0au5g) | 3:02 |
 | 5 | [バグり \(feat\. kZm, Awich, PETZ, MonyHorse & JNKMN\)](https://open.spotify.com/track/3FdZ6MCqA9y0Hhlc8U9uSw) | [YENTOWN](https://open.spotify.com/artist/5MZKzz8nnucMHhJq34UZwe), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L) | [バグり \(feat\. kZm, Awich, PETZ, MonyHorse & JNKMN\)](https://open.spotify.com/album/2fPFTelUOr9Nw72DW55aHU) | 3:06 |
 | 6 | [Born Fire](https://open.spotify.com/track/2FktPXK8yLMFyx6ZTQtRSm) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:16 |

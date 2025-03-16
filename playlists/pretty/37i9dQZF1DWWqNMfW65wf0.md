@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNMfW65wf0.md) - [plain]
 
 > you are feeling sleepy, just go to sleep  💤
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,413 likes - 74 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,536 likes - 74 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

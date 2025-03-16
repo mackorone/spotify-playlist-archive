@@ -4,7 +4,7 @@
 
 > Sun, sand, salt water and the perfect songs to match.
 
-163 songs - 10 hr 32 min
+164 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Tahitian Blue](https://open.spotify.com/track/7a1tbfGu5FEaDDSleUFBn0) | [John Butler Trio](https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt) | [HOME](https://open.spotify.com/album/2O6hJP7lu68hxDvbkXwtOK) | 4:15 | 2023-11-15 |  |
 | [Talk It Out](https://open.spotify.com/track/3I6CQSc5hMvU4nh2DcTDBz) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Talk It Out](https://open.spotify.com/album/1hK8ETmd5Dq4FOA5kWkGG6) | 3:10 | 2023-11-15 |  |
 | [Talk It Out](https://open.spotify.com/track/6Ug0JMAhAVvytcnwBEMb5Z) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Talk It Out](https://open.spotify.com/album/2uPJPiD4i7nMZ91R3AvgQ5) | 3:10 | 2023-11-15 | 2024-04-19 |
+| [That Place](https://open.spotify.com/track/1s9N5E3uF07BMuwP83kgIU) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [That Place](https://open.spotify.com/album/26Y8e2ikaQtEVgZTFPtkvi) | 4:38 | 2023-11-15 |  |
 | [The Breach](https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [The Breach EP](https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR) | 4:13 | 2023-11-15 | 2024-04-19 |
 | [The Breach](https://open.spotify.com/track/1rSrMVQbnYWihopHxGXhOD) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [The Breach EP](https://open.spotify.com/album/6qjhxh5olXQ1y7T4PV2qSw) | 4:13 | 2023-11-15 |  |
 | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd) | 3:34 | 2023-11-15 |  |
@@ -160,7 +161,7 @@
 | [Waves \- Acoustic](https://open.spotify.com/track/6GL1MiIvlrAm3hTvHzQJLl) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Waves \(Acoustic\)](https://open.spotify.com/album/5BYoZ57Q8kvu7WhL00jZJ5) | 4:08 | 2023-11-15 |  |
 | [Waves \- Acoustic](https://open.spotify.com/track/78wMD0pLwum3Xmm76VMQel) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different \(Acoustic\)](https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti) | 4:08 | 2023-11-15 | 2024-04-19 |
 | [Wavy](https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Wavy](https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk) | 3:45 | 2023-11-15 |  |
-| [We Will Run](https://open.spotify.com/track/1nKFzsCP6gDbA9V5qmNrXH) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/2onJzQg0nmBE75fz7HtaEV) | 4:15 | 2023-11-15 |  |
+| [We Will Run](https://open.spotify.com/track/1nKFzsCP6gDbA9V5qmNrXH) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/2onJzQg0nmBE75fz7HtaEV) | 4:15 | 2023-11-15 | 2025-03-16 |
 | [We Will Run](https://open.spotify.com/track/75jqKUwTZo2UtqW7xAzIni) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw) | 4:15 | 2023-11-15 | 2024-04-19 |
 | [We're Going Home](https://open.spotify.com/track/5J7zqPpQkN9JZiaELHNKSL) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:26 | 2023-11-15 | 2024-04-19 |
 | [We're Going Home](https://open.spotify.com/track/4odVs48WBfjEDrc1D7t5B9) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR) | 3:27 | 2023-11-15 |  |

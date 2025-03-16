@@ -1,6 +1,6 @@
 {
   "description": "The hottest in hip-hop, R&B and Afrobeats. Cover: Burna Boy",
-  "num_followers": 9284,
+  "num_followers": 9285,
   "original_name": "Now Playing...",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "duration_ms": 152593,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Self Esteem (featuring NLE Choppa)",
         "url": "https://open.spotify.com/album/7KeQeXVDcQQjrbqOh34VGA"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 169500,
       "name": "Self Esteem (featuring NLE Choppa)",
       "url": "https://open.spotify.com/track/4rithk0wQbWsppbWiaFFgE"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "I Know",
-        "url": "https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        }
-      ],
-      "duration_ms": 152593,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI"
     },
     {
       "added_at": "2023-07-28 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,686 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,681 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,15 +64,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 54 | [Jusqu'à Noël \(feat\. Gabrielle Shonk\)](https://open.spotify.com/track/2gInVV124wC37PWHHh4DgQ) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a), [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Jusqu'à Noël \(feat\. Gabrielle Shonk\)](https://open.spotify.com/album/1m0KMWTElAIQPcQVXErqn3) | 3:24 |
 | 55 | [Winter Song](https://open.spotify.com/track/1KDkSCXJIR4CJaVUK9qP7O) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM), [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [The Hotel Café presents..\. Winter Songs](https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad) | 4:26 |
 | 56 | [The Christmas Song \(Shawn Mendes & Camila Cabello\)](https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Wonder \(Deluxe\)](https://open.spotify.com/album/2sDPTkswUWDLtZYiOzubTe) | 3:16 |
-| 57 | [O Holy Night](https://open.spotify.com/track/0dKBg0sPcfOFXFxSs23Xz5) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [O Holy Night](https://open.spotify.com/album/0x8AUQKZdcAbY693C4SM79) | 3:14 |
-| 58 | [Silent Night](https://open.spotify.com/track/1N5cFf4F9LNfov7GCGWpQc) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:47 |
+| 57 | [Silent Night](https://open.spotify.com/track/1N5cFf4F9LNfov7GCGWpQc) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:47 |
+| 58 | [O Holy Night](https://open.spotify.com/track/0dKBg0sPcfOFXFxSs23Xz5) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [O Holy Night](https://open.spotify.com/album/0x8AUQKZdcAbY693C4SM79) | 3:14 |
 | 59 | [I Met an Angel \(on Christmas Day\)](https://open.spotify.com/track/6PiOlFSX06npr0YXexWkrg) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 3:19 |
 | 60 | [Le premier Noël de Jules](https://open.spotify.com/track/39oytpbeOyFiepAlTLONEP) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 4:15 |
 | 61 | [Noël Encore](https://open.spotify.com/track/6wQlQTlwL4blFWVhKVCtdN) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [Noël Encore](https://open.spotify.com/album/0kJot0t3EJ4IbGKWjoEEPm) | 2:17 |
 | 62 | [Le sentier de neige](https://open.spotify.com/track/0wj09A1u592qYVeOYJYaji) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Reprises Vol.1](https://open.spotify.com/album/3lSPJWmIKB3lFKxOxTvYA0) | 3:06 |
 | 63 | [Fa La La](https://open.spotify.com/track/7CjvhcsLdCtR1CtLTLLd0f) | [Bündock](https://open.spotify.com/artist/7I7WZG8yRVDD5nTxDRUhFD) | [Joyeux Noël](https://open.spotify.com/album/2OlKZ24ZW2kOwZz4Xd3zio) | 2:16 |
-| 64 | [Have Yourself a Merry Little Christmas \(feat\. Esperanza Spalding\)](https://open.spotify.com/track/67XXGKQrlBLCAg3gmHkamP) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Have Yourself a Merry Little Christmas / Bring Me Love](https://open.spotify.com/album/32m4D8KcGLcqAvTVIi90P1) | 3:43 |
-| 65 | [I'll Be Home for Christmas](https://open.spotify.com/track/0tXPhc8LvM4dPvoRwI66XQ) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 4:24 |
+| 64 | [I'll Be Home for Christmas](https://open.spotify.com/track/0tXPhc8LvM4dPvoRwI66XQ) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 4:24 |
+| 65 | [Have Yourself a Merry Little Christmas \(feat\. Esperanza Spalding\)](https://open.spotify.com/track/67XXGKQrlBLCAg3gmHkamP) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Have Yourself a Merry Little Christmas / Bring Me Love](https://open.spotify.com/album/32m4D8KcGLcqAvTVIi90P1) | 3:43 |
 | 66 | [Santa Baby](https://open.spotify.com/track/4rAwprLoQULEVb1UrGx9dW) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Santa Baby](https://open.spotify.com/album/3CreiqJnwLy65rMoLv2bPT) | 3:28 |
 | 67 | [Marie\-Noël](https://open.spotify.com/track/7416vFT1GFAiB5SCfwreB8) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [Robert Charlebois](https://open.spotify.com/album/72BjupmR4TFq32qnJp3Pct) | 2:29 |
 | 68 | [Pour le réveillon](https://open.spotify.com/track/6X76NCrLBhddSKT0KcaOWH) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Chic de ville \(avec "Pour le réveillon"\)](https://open.spotify.com/album/4hHQBjNa12D0rlhZLCeazr) | 3:02 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 95 | [Joie dans le monde](https://open.spotify.com/track/1biyfmYffp1k90JwirelVl) | [Mélissa Bédard](https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk) | [Ma liste de Noël](https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT) | 2:38 |
 | 96 | [Combien de Noël ?](https://open.spotify.com/track/3upnLZFdITjaQau8oacUhW) | [TRICOT MACHINE](https://open.spotify.com/artist/2kWRtp0Ph5iKM1tJGvQid7) | [Chante et raconte 25 décembre](https://open.spotify.com/album/24YXjhjFSEmlsUvsq1BGuT) | 2:46 |
 | 97 | [Ça Berger](https://open.spotify.com/track/2P3wmWVzs9qVkGcIkL94Dn) | [Laurence Jalbert](https://open.spotify.com/artist/1oFTFxi0QwrD1xr3sg5S3l) | [Noël Des Anges](https://open.spotify.com/album/5l6INRksl8l9Pi3HUcWuJh) | 2:57 |
-| 98 | [La nuit de Noël](https://open.spotify.com/track/5nMtJWNUVjVqI4IgMzS7Ja) | [Sally Folk](https://open.spotify.com/artist/3nYYNAjiUnXUKQZ5qrcrrr) | [La nuit de Noël](https://open.spotify.com/album/2OsOErxzgnuqi0r2K9YuxO) | 3:10 |
-| 99 | [Noël blanc](https://open.spotify.com/track/0Ic4nb89C5IH81E6KecKpW) | [Brigitte](https://open.spotify.com/artist/3pwoLiEbkKB4c4Vj9Mzypk) | [Encore \(Bonus Album\)](https://open.spotify.com/album/5c5JnPyf5XJtCiyQeHJKGj) | 2:26 |
+| 98 | [Noël blanc](https://open.spotify.com/track/0Ic4nb89C5IH81E6KecKpW) | [Brigitte](https://open.spotify.com/artist/3pwoLiEbkKB4c4Vj9Mzypk) | [Encore \(Bonus Album\)](https://open.spotify.com/album/5c5JnPyf5XJtCiyQeHJKGj) | 2:26 |
+| 99 | [La nuit de Noël](https://open.spotify.com/track/5nMtJWNUVjVqI4IgMzS7Ja) | [Sally Folk](https://open.spotify.com/artist/3nYYNAjiUnXUKQZ5qrcrrr) | [La nuit de Noël](https://open.spotify.com/album/2OsOErxzgnuqi0r2K9YuxO) | 3:10 |
 | 100 | [Noël blanc](https://open.spotify.com/track/7ykP6gzf7CJ8Lb4AEJWeqR) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Noël ! Noël !! Noël !!!](https://open.spotify.com/album/2rbYdy6TGghrdNWbCkqAIK) | 3:50 |
 
 Snapshot ID: `Z1xjcgAAAAAC9+XGVzin7tJIupgCSJl7`

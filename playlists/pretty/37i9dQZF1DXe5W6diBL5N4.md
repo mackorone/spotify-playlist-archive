@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: LE SSERAFIM \(르세라핌\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,035 likes - 125 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,135 likes - 125 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 |
 | 2 | [Never Loved This Way Before](https://open.spotify.com/track/1cgtNgk0bkBjKaHmhes7f0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Never Loved This Way Before \(Odd Girl Out X BOYNEXTDOOR\) \[Original Soundtrack\]](https://open.spotify.com/album/0k95tVxkzquZHZpCPNu9lH) | 4:25 |
 | 3 | [Waiting On A Wish \- From "Disney's Snow White"/Korean Single Version](https://open.spotify.com/track/52eHzpc7mhLZi4x5neDMh1) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Waiting On A Wish](https://open.spotify.com/album/4ccjheylMBuwbb4lv3aquH) | 4:51 |
-| 4 | [Imperfect](https://open.spotify.com/track/3V8YCV8jWBI0hlK22fXGKj) | [NewKids](https://open.spotify.com/artist/10tgzET5oeAD12UZCcrTUP) | [NewKids on the STARSHIP](https://open.spotify.com/album/0J87hq7qBn4QFRL2AxjWkN) | 3:46 |
+| 4 | [ImPerfect](https://open.spotify.com/track/3V8YCV8jWBI0hlK22fXGKj) | [NewKids](https://open.spotify.com/artist/10tgzET5oeAD12UZCcrTUP) | [NewKids on the STARSHIP](https://open.spotify.com/album/0J87hq7qBn4QFRL2AxjWkN) | 3:46 |
 | 5 | [OFF\-ROAD](https://open.spotify.com/track/49xRqst2gEMbjGuvb1pviO) | [BAEKHO](https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf) | [OFF\-ROAD](https://open.spotify.com/album/3Wjamj8GCMNRHxZpmHMPV0) | 2:21 |
 | 6 | [11:11 \- Jazz Version](https://open.spotify.com/track/21Zg58JQ1sw6IlGtjSVZWE) | [SM Jazz Trio](https://open.spotify.com/artist/4HD8lcs5SHCJcIVryqV8n3) | [11:11 \(Jazz Version\)](https://open.spotify.com/album/7eJvuGHr0cKz0gnUV7pPrP) | 4:34 |
 | 7 | [시간 지나 봄이야](https://open.spotify.com/track/37kDu5kSgl80CowaGgQczW) | [dogyu](https://open.spotify.com/artist/2mZ82ywIcug873Z3DCpL5N), [차우](https://open.spotify.com/artist/3kI2dYqkrtnK6terUMA6Vz) | [시간 지나 봄이야](https://open.spotify.com/album/30cM9AaFiTH2BBbFc9gEKa) | 2:45 |

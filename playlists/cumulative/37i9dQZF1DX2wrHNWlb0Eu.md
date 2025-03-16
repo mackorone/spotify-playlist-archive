@@ -4,7 +4,7 @@
 
 > มาฟังเพลงสำหรับคนคลั่งรักกัน\. ศิลปิน: Lipta
 
-203 songs - 12 hr 29 min
+204 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [นานเท่าไหร่ก็จะรัก](https://open.spotify.com/track/4mQKlp0OQDS6SlcBro4iKx) | [BENT](https://open.spotify.com/artist/6RrR7MGPFBSx59TPwAOGki) | [นานเท่าไหร่ก็จะรัก](https://open.spotify.com/album/27RPkxN1HHONUp5tuQP7PL) | 3:43 | 2024-03-16 | 2024-07-16 |
 | [นิโคติน](https://open.spotify.com/track/6R9YzJHkfYoN6PianPhTdB) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [นิโคติน \- Single](https://open.spotify.com/album/5e0anFANpCnBAv5pEAVc34) | 3:36 | 2023-02-10 |  |
 | [น้ำหอม](https://open.spotify.com/track/3grGyWGWsuIUxA2CudpwAB) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [น้ำหอม \- Single](https://open.spotify.com/album/74xRXPyQxRiFj29WW1F1Ka) | 3:27 | 2024-11-24 |  |
+| [บังเอิญ \(feat\. Karn The Parkinson\)](https://open.spotify.com/track/1XITpGqbUylIn5rThVjUBg) | [Ben Chalatit](https://open.spotify.com/artist/0GiEONvF01I5uJJzctwnNx), [Karn The Parkinson](https://open.spotify.com/artist/1UMfdxvORXvo2fJSG6QZu0) | [บังเอิญ \(feat\. Karn The Parkinson\)](https://open.spotify.com/album/2Gf03IrEY2gRtnzZZOo9gN) | 3:07 | 2025-03-14 |  |
 | [บังเอิญเจอแต่ตั้งใจรัก](https://open.spotify.com/track/6bm7Zdq8xy3LGBNua0jqjL) | [wish.](https://open.spotify.com/artist/6GZyaaDSiWwDYjBySZh3rR) | [บังเอิญเจอแต่ตั้งใจรัก](https://open.spotify.com/album/49Qf1EQQSsZ0QqDQCji7on) | 2:58 | 2023-02-10 | 2024-03-17 |
 | [บานปลาย \(best wishes\)](https://open.spotify.com/track/3Js0tYhiLhVXHskoOF0jLh) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [บานปลาย \(best wishes\)](https://open.spotify.com/album/6xoyq8b2PH5uBwTw6ppCbA) | 4:49 | 2023-02-10 |  |
 | [ประกาศให้โลกรู้](https://open.spotify.com/track/5IdsoQa6jJY988phl22EPC) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ประกาศให้โลกรู้](https://open.spotify.com/album/7rj1LF1of31j98OJnOckkS) | 4:05 | 2023-04-03 |  |
@@ -125,7 +126,7 @@
 | [รอ](https://open.spotify.com/track/72hhTWu9CZwZan3iC3U3DS) | [Basketband](https://open.spotify.com/artist/0x6cwE90aYe5YXaImt5MQj) | [รอ](https://open.spotify.com/album/3vW7yJhsN0dWG2tuApv8EW) | 3:36 | 2023-02-10 | 2024-08-24 |
 | [รอยยิ้ม](https://open.spotify.com/track/6ezEwX2eZRZlioqYaUPOKX) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [clean](https://open.spotify.com/album/0Q85NYeTS69jKGLilCR5Y2) | 4:18 | 2023-02-10 |  |
 | [ระยะหัวใจ](https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor) | [FLUKIE](https://open.spotify.com/artist/3dR2IRGHNpZ5CBbxOQN03t) | [ระยะหัวใจ](https://open.spotify.com/album/2QfNggOnaDCmeUgF2dKCYX) | 3:03 | 2023-02-10 |  |
-| [ระหว่างทาง \(Good Time\) \[เพลงประกอบซีรีส์ Good Old Days ร้านซื้อขายความทรงจำ\]](https://open.spotify.com/track/4FreerZPFJkNpQqhL2cSCA) | [BRIGHT](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt), [ต้าเหนิง กัญญาวีร์](https://open.spotify.com/artist/3CR3llAxCgUXA1hHBYXFQh) | [ระหว่างทาง \(Good Time\) \- Single](https://open.spotify.com/album/19zRl5NJ2IH7wvNdRegoHY) | 4:04 | 2023-02-10 |  |
+| [ระหว่างทาง \(Good Time\) \[เพลงประกอบซีรีส์ Good Old Days ร้านซื้อขายความทรงจำ\]](https://open.spotify.com/track/4FreerZPFJkNpQqhL2cSCA) | [BRIGHT](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt), [ต้าเหนิง กัญญาวีร์](https://open.spotify.com/artist/3CR3llAxCgUXA1hHBYXFQh) | [ระหว่างทาง \(Good Time\) \- Single](https://open.spotify.com/album/19zRl5NJ2IH7wvNdRegoHY) | 4:04 | 2023-02-10 | 2025-03-16 |
 | [รักก็รักดิ \- From "Cutie Pie 2 You"](https://open.spotify.com/track/021DOGAOsU2WrJ5Gii9hFZ) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg) | [รักก็รักดิ \(From "Cutie Pie 2 You"\)](https://open.spotify.com/album/0AyEXAG2tEss8ErlR2V62p) | 3:17 | 2023-02-10 | 2025-02-27 |
 | [รักของเธอคือของขวัญ \(Gift of life\)](https://open.spotify.com/track/0qaj5FeaUSpPxoulIswXIp) | [WANYAi](https://open.spotify.com/artist/3yLZtAIGm6Eq4WSfnimZad) | [รักของเธอคือของขวัญ \(Gift of life\)](https://open.spotify.com/album/4IRmwSOwsVNFttWHWnQCZY) | 4:30 | 2024-09-18 | 2024-11-25 |
 | [รักที่ปลอดภัย](https://open.spotify.com/track/2sQsS8dqB3dxjSusEgMwgu) | [marr team](https://open.spotify.com/artist/2EjPIddRMYQrUYfl5gRbIB), [Dome Jaruwat](https://open.spotify.com/artist/0txmzrxdCsJv8qoko7C4CM), [หนูนา หนึ่งธิดา](https://open.spotify.com/artist/12fTByRv6Y3Nt3QY7qCKmy) | [รักที่ปลอดภัย](https://open.spotify.com/album/0JFEInryynjzmygApwDRMl) | 3:20 | 2025-03-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this mix of peaceful, ambient, indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,106 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,129 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 13 | [Statue Of A Woman](https://open.spotify.com/track/6b68aviQQgq22JuK2CDno6) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 1:57 |
 | 14 | [Petrichor](https://open.spotify.com/track/1RWRfknqqgTNNPO1EoP7Wo) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Romantic Works](https://open.spotify.com/album/0DmaYVn58Dnq79ymSPPVYm) | 3:20 |
 | 15 | [Watching the Storm](https://open.spotify.com/track/5Ormcdpk9HXgPyTmEH8LQ1) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 5:07 |
-| 16 | [Broken](https://open.spotify.com/track/1k7ZAtPOzRw49KL6CT4MXa) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Broken](https://open.spotify.com/album/6hvnQ9TLd5txakEGIij7R0) | 4:37 |
-| 17 | [Dungtitled \(In a Major\)](https://open.spotify.com/track/3OgkfYg13Jj96E982moWje) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 5:54 |
-| 18 | [Aeroplane Bathroom](https://open.spotify.com/track/7h4zBf5NntSiGrYy2hmDJE) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw) | 5:44 |
+| 16 | [Aeroplane Bathroom](https://open.spotify.com/track/7h4zBf5NntSiGrYy2hmDJE) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw) | 5:44 |
+| 17 | [Broken](https://open.spotify.com/track/1k7ZAtPOzRw49KL6CT4MXa) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Broken](https://open.spotify.com/album/6hvnQ9TLd5txakEGIij7R0) | 4:37 |
+| 18 | [Dungtitled \(In a Major\)](https://open.spotify.com/track/3OgkfYg13Jj96E982moWje) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 5:54 |
 | 19 | [Ascend and Try Again](https://open.spotify.com/track/6ngeEvA6aq0e8f1KyGTTGR) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 2:13 |
 | 20 | [Digging Shelters](https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX) | [Neil Halstead](https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj) | [Palindrome Hunches](https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe) | 3:40 |
 | 21 | [Alone](https://open.spotify.com/track/4CztNwbrYUjnmjNKi5etEn) | [Logan and Isabel](https://open.spotify.com/artist/14P8mkOjjBxwgUgAO5sbAQ) | [Alone](https://open.spotify.com/album/6NLPPOovFxmrlmTMAZS6d4) | 3:02 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 35 | [Intro](https://open.spotify.com/track/1QvDOpa0ND2vLRhxbrvpZ0) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Home](https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx) | 1:30 |
 | 36 | [swear 2 g\-d \(Alt\. Version\)](https://open.spotify.com/track/0UPmA1NqrH6QEryXrSAd7e) | [The Shivers](https://open.spotify.com/artist/1zok0QXebHywV3KLl6DIFw), [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Abandoned Memory House \(Demos, B\-Sides & Rarities\)](https://open.spotify.com/album/5x8rez9zq9M6UDTCSjjgnh) | 4:00 |
 | 37 | [Hours](https://open.spotify.com/track/7us2Yx4bZw5x1sYic7XXyw) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 4:07 |
-| 38 | [idk](https://open.spotify.com/track/32ghUIiUVKsuiyhGVfr7cf) | [la.nskey](https://open.spotify.com/artist/43QXDtaNDeOWxICsbMhIXH) | [ABSURDITIES](https://open.spotify.com/album/1Wp8unEyTBrN49ZXUaky2A) | 5:13 |
-| 39 | [one day](https://open.spotify.com/track/7DwwTngKPIZgxsok72Z9YL) | [Arca](https://open.spotify.com/artist/6N6Y3dXzfGFvUdqETrTGeT), [LUCA](https://open.spotify.com/artist/5JZSSs2KEn3LIPiPkqGjMj), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [世界](https://open.spotify.com/album/69Kc5dicZRbAiDPlYgp39p) | 3:48 |
-| 40 | [Saans Lo](https://open.spotify.com/track/6iPZbDZtoVyQv7spX7Tt8m) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 7:31 |
+| 38 | [Saans Lo](https://open.spotify.com/track/6iPZbDZtoVyQv7spX7Tt8m) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 7:31 |
+| 39 | [idk](https://open.spotify.com/track/32ghUIiUVKsuiyhGVfr7cf) | [la.nskey](https://open.spotify.com/artist/43QXDtaNDeOWxICsbMhIXH) | [ABSURDITIES](https://open.spotify.com/album/1Wp8unEyTBrN49ZXUaky2A) | 5:13 |
+| 40 | [one day](https://open.spotify.com/track/7DwwTngKPIZgxsok72Z9YL) | [Arca](https://open.spotify.com/artist/6N6Y3dXzfGFvUdqETrTGeT), [LUCA](https://open.spotify.com/artist/5JZSSs2KEn3LIPiPkqGjMj), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [世界](https://open.spotify.com/album/69Kc5dicZRbAiDPlYgp39p) | 3:48 |
 | 41 | [Sliding Doors](https://open.spotify.com/track/63HtCJMvG5k3aGD7behQeY) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Inside Out](https://open.spotify.com/album/7yf6qu9oeomPuI8p3FHjCP) | 4:05 |
 | 42 | [Free](https://open.spotify.com/track/4b57xU7rviFrRgilxMjDJb) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Free Love](https://open.spotify.com/album/2KAPJ40On8JY1Yt64JJgTk) | 2:36 |
 | 43 | [I Wish I Knew](https://open.spotify.com/track/4s0mvp3ewGOiPt4Ie8wGBt) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [I Wish I Knew](https://open.spotify.com/album/55MEStsCnRChtFW0bCnz1N) | 3:49 |

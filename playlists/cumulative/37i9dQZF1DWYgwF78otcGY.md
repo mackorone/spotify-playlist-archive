@@ -4,7 +4,7 @@
 
 > Fjäderboa, dansgolv, allsång och tonartshöjningar \- nu är det mellofest! 🪩✨💜
 
-179 songs - 9 hr 2 min
+180 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Anropar försvunnen](https://open.spotify.com/track/1eVSgfj4JN9T5RE5seKYXN) | [Hanna Hedlund](https://open.spotify.com/artist/5Czd0MlWc1v6blcW7zVwGq) | [Anropar försvunnen](https://open.spotify.com/album/4DoyEIDnWaLICWCzlH5fLv) | 2:53 | 2019-02-28 | 2022-07-29 |
 | [As I Lay Me Down](https://open.spotify.com/track/1RNAAIqorcSpk3nY2dxLRB) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [As I Lay Me Down](https://open.spotify.com/album/3aLrYDY9T8OObu2IY3sC90) | 3:09 | 2019-02-28 | 2022-08-25 |
 | [As I Lay Me Down](https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [As I Lay Me Down](https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT) | 3:09 | 2019-02-28 |  |
-| [Ashes To Ashes](https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [Ashes To Ashes](https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR) | 3:00 | 2019-02-28 |  |
+| [Ashes To Ashes](https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [Ashes To Ashes](https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR) | 3:00 | 2019-02-28 | 2025-03-16 |
 | [Avundsjuk](https://open.spotify.com/track/0cH3Fk2FKjblnoSwAaB1Mw) | [Nanne](https://open.spotify.com/artist/0whAheccvr5O5qbQjNk4gi) | [I natt är jag din](https://open.spotify.com/album/5i0Hnlj1Hc6peFWOf2rMyg) | 3:59 | 2019-02-28 | 2022-11-13 |
 | [Baby Goodbye](https://open.spotify.com/track/4Vg4aicJ6wzbhdpDh1Nq8L) | [E.M.D.](https://open.spotify.com/artist/76Dn4GvguIMU4Gbcx155dg) | [A State Of Mind](https://open.spotify.com/album/0XvSVC13iyxSoYuyExO3B0) | 2:54 | 2019-02-28 |  |
 | [Bada nakna](https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld) | [Samir & Viktor](https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6) | [Bada Nakna](https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas) | 3:11 | 2019-02-28 |  |
@@ -40,7 +40,7 @@
 | [Dance You Off](https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Dance You Off](https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p) | 3:02 | 2019-02-28 | 2024-12-28 |
 | [Det börjar verka kärlek banne mej](https://open.spotify.com/track/3g4KaqQET7Ba4p2h68PTSp) | [Claes\-Göran Hederström](https://open.spotify.com/artist/3xCwhFeIUkdyi9V0skNdLi) | [Melodifestivalen 1958 \- 2013](https://open.spotify.com/album/3VsKbddUIng2aLagMZUwwb) | 2:46 | 2019-02-28 | 2022-07-29 |
 | [Det börjar verka kärlek, banne mig](https://open.spotify.com/track/63jf2xCWGFcq8KyQ5sme3T) | [Claes\-Göran Hederström](https://open.spotify.com/artist/3xCwhFeIUkdyi9V0skNdLi) | [Projekt sega gubbar: 60\-tals låtar med Claes\-Göran Hederström](https://open.spotify.com/album/3k3FLzu6mlNS2PduQe1Ypy) | 2:51 | 2019-02-28 | 2022-11-14 |
-| [Det gör ont](https://open.spotify.com/track/2aeVGqdsF7WbKZkwhcCeqm) | [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [Lena 20 år](https://open.spotify.com/album/1T8NH2yMjPBlUDwim5Vtdo) | 3:01 | 2019-02-28 | 2025-03-15 |
+| [Det gör ont](https://open.spotify.com/track/2aeVGqdsF7WbKZkwhcCeqm) | [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [Lena 20 år](https://open.spotify.com/album/1T8NH2yMjPBlUDwim5Vtdo) | 3:01 | 2019-02-28 |  |
 | [Det gör ont](https://open.spotify.com/track/51md9KzX92LQh84mUsaPPD) | [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [Det gör ont en stund på natten men inget på dan](https://open.spotify.com/album/3CQHhvbYaNHJdfp8N79Nbr) | 3:03 | 2019-02-28 | 2023-12-02 |
 | [Diggiloo Diggiley](https://open.spotify.com/track/43ZypSE73gRNdAySQTzyfs) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Diggiloo Diggiley](https://open.spotify.com/album/1cJamo0hcqkWHwTQHOFORj) | 3:07 | 2019-02-28 |  |
 | [Diggiloo Diggiley](https://open.spotify.com/track/4NzirQ4BrNkVaPEla2ipG4) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Diggiloo Diggiley](https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg) | 3:07 | 2019-02-28 | 2024-04-19 |
@@ -78,7 +78,8 @@
 | [Habibi](https://open.spotify.com/track/2iEvhos1CqeU0vurqLCWaZ) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Habibi](https://open.spotify.com/album/5mcRd3lHWGnx9URgK290An) | 2:51 | 2019-02-28 | 2022-05-05 |
 | [Hallå hela pressen](https://open.spotify.com/track/27PplQBwDNIfESCPuesKMV) | [Chattanooga](https://open.spotify.com/artist/3lrKNIrsY4AgDHoyhHniPY) | [Stoppa pressarna](https://open.spotify.com/album/42k7vfRfapsRTT26RnDsyT) | 2:48 | 2019-02-28 | 2022-07-28 |
 | [Hero](https://open.spotify.com/track/55XpXSN77QyoudQmlg8j8q) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Hero](https://open.spotify.com/album/5BetHKLCNWv0iC6OTOd125) | 2:55 | 2019-02-28 | 2022-07-29 |
-| [Heroes](https://open.spotify.com/track/4ciaNqHWA2IzHphZaVRzHI) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Heroes](https://open.spotify.com/album/6G6DMOiYMgVZLGs9nmNEJh) | 3:10 | 2019-02-28 |  |
+| [Heroes](https://open.spotify.com/track/21BYhl07wWqGRQaj7sUxdV) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Perfectly Damaged](https://open.spotify.com/album/3exSJCMpvgwYqGaYHlZBHI) | 3:10 | 2025-03-08 |  |
+| [Heroes](https://open.spotify.com/track/4ciaNqHWA2IzHphZaVRzHI) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Heroes](https://open.spotify.com/album/6G6DMOiYMgVZLGs9nmNEJh) | 3:10 | 2019-02-28 | 2025-03-16 |
 | [Heroes \- Spotify Singles](https://open.spotify.com/track/0eOT4T0gy2vqOZsMI2FKQS) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heroes \- Spotify Singles](https://open.spotify.com/album/1OvEqblBGrHaEiI5hG09Ag) | 3:00 | 2025-01-09 |  |
 | [Hold Me Closer](https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer](https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao) | 3:19 | 2024-01-18 |  |
 | [Hold On \- D&B Version](https://open.spotify.com/track/3mXXkDfLaCN5IaZpHVJPth) | [Nano](https://open.spotify.com/artist/48Z0MG7G6UQeWYibHpXgQe) | [Hold On \(D&B Version\)](https://open.spotify.com/album/2qQfXNZu1v5I4fjCbX6UVq) | 3:18 | 2019-02-28 | 2023-02-01 |

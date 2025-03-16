@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 
 > Come and get it! GOT7!
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,987 likes - 141 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,008 likes - 141 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

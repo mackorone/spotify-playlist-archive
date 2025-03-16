@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wN04stbxdr.md) - [plain]
 
 > Hver gang vi møtes er tilbake med en ny sesong! Hør årets tolkninger her.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,125 likes - 49 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,170 likes - 49 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

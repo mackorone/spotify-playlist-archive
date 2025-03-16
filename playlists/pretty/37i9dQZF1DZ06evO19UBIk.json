@@ -1,12 +1,12 @@
 {
   "description": "This is The Doors. The essential tracks, all in one playlist.",
-  "num_followers": 671162,
+  "num_followers": 671236,
   "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAACzcKYdoRKbTdz2tVfOtGFE",
+  "snapshot_id": "Z9NxgAAAAAAXcnQj/9qByjtr9OZV1o3V",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best of the Doors",
-        "url": "https://open.spotify.com/album/1YZiR5FINFOlZPGKSVplIY"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 378480,
-      "name": "Gloria - Live; 2007 Remaster",
-      "url": "https://open.spotify.com/track/1b11chGCTSN26rsBt0WNYP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waiting for the Sun",
         "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 181346,
       "name": "Moonlight Drive",
       "url": "https://open.spotify.com/track/0ja1dJM5gBTjk5U9wsMP9r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Best of the Doors",
+        "url": "https://open.spotify.com/album/1YZiR5FINFOlZPGKSVplIY"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 378480,
+      "name": "Gloria - Live; 2007 Remaster",
+      "url": "https://open.spotify.com/track/1b11chGCTSN26rsBt0WNYP"
     },
     {
       "added_at": null,

@@ -3684,7 +3684,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 169985,
       "name": "IN THE ZONE",
       "url": "https://open.spotify.com/track/3EZT1GQldSjQALioFg3XEp"
@@ -8702,6 +8702,28 @@
       "duration_ms": 240000,
       "name": "Where You Are - GRiZ Remix",
       "url": "https://open.spotify.com/track/47kEJq44ZBrRBD4gvdCu0v"
+    },
+    {
+      "album": {
+        "name": "Whiplash",
+        "url": "https://open.spotify.com/album/3JYuC5TTDbobgRCKo38xW9"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "SOFI",
+          "url": "https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195114,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/2K1Grx3at2GH9ErGX1o9NV"
     },
     {
       "album": {

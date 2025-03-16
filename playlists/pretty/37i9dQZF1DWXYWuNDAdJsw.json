@@ -1,6 +1,6 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 1022400,
+  "num_followers": 1022362,
   "original_name": "perrear y llorar \ud83e\udd72",
   "owner": {
     "name": "Spotify",
@@ -547,26 +547,6 @@
     {
       "added_at": "2025-03-07 05:41:49",
       "album": {
-        "name": "FDSR",
-        "url": "https://open.spotify.com/album/7klplPJ1UEKbEsUtm5FK0z"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Maisak",
-          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
-        }
-      ],
-      "duration_ms": 188181,
-      "name": "FDSR",
-      "url": "https://open.spotify.com/track/3KwYiawBfqngH7eaUHQn2N"
-    },
-    {
-      "added_at": "2025-03-07 05:41:49",
-      "album": {
         "name": "Te Bot\u00e9 (Remix)",
         "url": "https://open.spotify.com/album/42wLKnuGyBLGWwH89lnimL"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 417920,
       "name": "Te Bot\u00e9 - Remix",
       "url": "https://open.spotify.com/track/3V8UKqhEK5zBkBb6d6ub8i"
+    },
+    {
+      "added_at": "2025-03-07 05:41:49",
+      "album": {
+        "name": "FDSR",
+        "url": "https://open.spotify.com/album/7klplPJ1UEKbEsUtm5FK0z"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        }
+      ],
+      "duration_ms": 188181,
+      "name": "FDSR",
+      "url": "https://open.spotify.com/track/3KwYiawBfqngH7eaUHQn2N"
     },
     {
       "added_at": "2025-03-07 05:41:49",
@@ -643,8 +643,8 @@
     {
       "added_at": "2025-03-07 05:41:49",
       "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 233128,
-      "name": "Otra Noche en Miami",
-      "url": "https://open.spotify.com/track/4vCAzANUWDE24URV6wQ4ra"
+      "duration_ms": 148143,
+      "name": "Un Verano Sin Ti",
+      "url": "https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS"
     },
     {
       "added_at": "2025-03-07 05:41:49",
@@ -743,8 +743,8 @@
     {
       "added_at": "2025-03-07 05:41:49",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 148143,
-      "name": "Un Verano Sin Ti",
-      "url": "https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS"
+      "duration_ms": 233128,
+      "name": "Otra Noche en Miami",
+      "url": "https://open.spotify.com/track/4vCAzANUWDE24URV6wQ4ra"
     },
     {
       "added_at": "2025-03-07 05:41:49",
@@ -1067,6 +1067,38 @@
     {
       "added_at": "2025-03-07 05:41:49",
       "album": {
+        "name": "Sobrio",
+        "url": "https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 201180,
+      "name": "Sobrio",
+      "url": "https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w"
+    },
+    {
+      "added_at": "2025-03-07 05:41:49",
+      "album": {
+        "name": "SHORTY QUE TE VAYA BN <3",
+        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "SHORTY QUE TE VAYA BN <3",
+      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
+    },
+    {
+      "added_at": "2025-03-07 05:41:49",
+      "album": {
         "name": "The Academy",
         "url": "https://open.spotify.com/album/1faqBAWocW4ZOe0OFjudGw"
       },
@@ -1103,38 +1135,6 @@
       "duration_ms": 225013,
       "name": "Imaginate",
       "url": "https://open.spotify.com/track/29ShXDWDedEwZkYc8Du08N"
-    },
-    {
-      "added_at": "2025-03-07 05:41:49",
-      "album": {
-        "name": "Sobrio",
-        "url": "https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 201180,
-      "name": "Sobrio",
-      "url": "https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w"
-    },
-    {
-      "added_at": "2025-03-07 05:41:49",
-      "album": {
-        "name": "SHORTY QUE TE VAYA BN <3",
-        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "SHORTY QUE TE VAYA BN <3",
-      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
     },
     {
       "added_at": "2025-03-07 05:41:49",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-03-07 05:41:49",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 184435,
-      "name": "HP",
-      "url": "https://open.spotify.com/track/1LIqNVhaIgxXUt2eVoIQJ3"
-    },
-    {
-      "added_at": "2025-03-07 05:41:49",
-      "album": {
         "name": "PERREITO PA LLORAR",
         "url": "https://open.spotify.com/album/4IXouaHajcxSQwD8rlYwhv"
       },
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2025-03-07 05:41:49",
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 184435,
+      "name": "HP",
+      "url": "https://open.spotify.com/track/1LIqNVhaIgxXUt2eVoIQJ3"
+    },
+    {
+      "added_at": "2025-03-07 05:41:49",
+      "album": {
         "name": "Homerun",
         "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
       },
@@ -1315,18 +1315,22 @@
     {
       "added_at": "2025-03-07 05:41:49",
       "album": {
-        "name": "Haw\u00e1i",
-        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 200197,
-      "name": "Haw\u00e1i",
-      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
+      "duration_ms": 200746,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/1h9P5WJwyvK8OB7O2YiXgp"
     },
     {
       "added_at": "2025-03-07 05:41:49",
@@ -1347,22 +1351,18 @@
     {
       "added_at": "2025-03-07 05:41:49",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+        "name": "Haw\u00e1i",
+        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 200746,
-      "name": "Ibiza",
-      "url": "https://open.spotify.com/track/1h9P5WJwyvK8OB7O2YiXgp"
+      "duration_ms": 200197,
+      "name": "Haw\u00e1i",
+      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
     },
     {
       "added_at": "2025-03-07 05:41:49",
@@ -1427,6 +1427,26 @@
     {
       "added_at": "2025-03-07 05:41:49",
       "album": {
+        "name": "Cuando Te Bes\u00e9",
+        "url": "https://open.spotify.com/album/1rNj1DvnXIH5irucrzT4zo"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 254383,
+      "name": "Cuando Te Bes\u00e9",
+      "url": "https://open.spotify.com/track/2XXMDz7SPZ4mSFN1PXfHUy"
+    },
+    {
+      "added_at": "2025-03-07 05:41:49",
+      "album": {
         "name": "Descaro 2.0",
         "url": "https://open.spotify.com/album/5M5oPUHmII7DOfjH2xssey"
       },
@@ -1451,26 +1471,6 @@
       "duration_ms": 269960,
       "name": "Descaro 2.0",
       "url": "https://open.spotify.com/track/1W7pLeUgPbFdDzASi4kUFA"
-    },
-    {
-      "added_at": "2025-03-07 05:41:49",
-      "album": {
-        "name": "Cuando Te Bes\u00e9",
-        "url": "https://open.spotify.com/album/1rNj1DvnXIH5irucrzT4zo"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 254383,
-      "name": "Cuando Te Bes\u00e9",
-      "url": "https://open.spotify.com/track/2XXMDz7SPZ4mSFN1PXfHUy"
     },
     {
       "added_at": "2025-03-07 05:41:49",
@@ -1863,6 +1863,26 @@
     {
       "added_at": "2025-03-07 05:41:49",
       "album": {
+        "name": "Esclavo de Tus Besos",
+        "url": "https://open.spotify.com/album/6NzT9eDEkJvnbL2gLcT6ai"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 219302,
+      "name": "Esclavo de Tus Besos",
+      "url": "https://open.spotify.com/track/3g4UyIcQwutiG0TfW32GnX"
+    },
+    {
+      "added_at": "2025-03-07 05:41:49",
+      "album": {
         "name": "Pa Olvidarte (feat. Manuel Turizo) [Remix]",
         "url": "https://open.spotify.com/album/3ekwMnFlP79fwylU0W98m0"
       },
@@ -1887,26 +1907,6 @@
       "duration_ms": 256417,
       "name": "Pa Olvidarte (feat. Manuel Turizo) - Remix",
       "url": "https://open.spotify.com/track/2ktoFujjJtantyMoVdBJlX"
-    },
-    {
-      "added_at": "2025-03-07 05:41:49",
-      "album": {
-        "name": "Esclavo de Tus Besos",
-        "url": "https://open.spotify.com/album/6NzT9eDEkJvnbL2gLcT6ai"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 219302,
-      "name": "Esclavo de Tus Besos",
-      "url": "https://open.spotify.com/track/3g4UyIcQwutiG0TfW32GnX"
     },
     {
       "added_at": "2025-03-07 05:41:49",

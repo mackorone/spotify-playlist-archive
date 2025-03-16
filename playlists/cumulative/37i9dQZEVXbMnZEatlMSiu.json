@@ -5569,6 +5569,24 @@
     },
     {
       "album": {
+        "name": "HOT",
+        "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143797,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY"
+    },
+    {
+      "album": {
         "name": "SEVENTEEN 4th Album 'Face the Sun'",
         "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
       },
@@ -6430,7 +6448,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 181677,
       "name": "I\u2019ll Be There",
       "url": "https://open.spotify.com/track/2SR0alFA2oWYXSoePGTj0V"
@@ -13662,7 +13680,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 163899,
       "name": "with the IE (way up)",
       "url": "https://open.spotify.com/track/7rzzByujLJIBXpyOCnJhfx"
@@ -14682,7 +14700,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-08",
+      "date_removed": null,
       "duration_ms": 240753,
       "name": "\u4e0d\u662f\u56e0\u70ba\u5929\u6c23\u6674\u6717\u624d\u611b\u4f60",
       "url": "https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm"
@@ -16692,7 +16710,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 200000,
       "name": "\u5b57\u5b57\u53e5\u53e5",
       "url": "https://open.spotify.com/track/7fAdinC2UTc0Y9GiKrkTtu"
@@ -18844,7 +18862,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-14",
+      "date_removed": null,
       "duration_ms": 265567,
       "name": "\u665a\u70b9\uff08\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u4f24\u75d5\u66f2\uff09",
       "url": "https://open.spotify.com/track/31DADUJYix04d8pXDAmUUB"

@@ -4,7 +4,7 @@
 
 > indie tunes to make you shine \(✿◠‿◠\)
 
-260 songs - 14 hr 30 min
+261 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Neon](https://open.spotify.com/track/5D0cMtWT1lDXrEAM0ylifs) | [Patterns](https://open.spotify.com/artist/3tJL2NbxEnJgYjo3LBdDQ9) | [Neon](https://open.spotify.com/album/0AVAqTZaiAhJBAAPlFU7g4) | 4:09 | 2022-01-26 | 2022-12-07 |
 | [New Lane](https://open.spotify.com/track/2vO9Ha3zfJ7MXRLsfHyI7q) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Bowling](https://open.spotify.com/album/4dM8zWbltC75lrKKQP7U3e) | 1:57 | 2022-01-26 | 2024-04-22 |
 | [No Eres Tú](https://open.spotify.com/track/6pzmv5QfwQMqKQ6419UWoJ) | [Tres Dedos](https://open.spotify.com/artist/4U7l68MAeVO9CLljg04lrF) | [Te Contaron Que Me Gustas](https://open.spotify.com/album/2rbP1TYKeJHsxwwCAKCGAA) | 3:06 | 2024-02-23 | 2024-08-24 |
+| [No es amor](https://open.spotify.com/track/7HJSDNbNLUVENQjWKwBvW2) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Fuimos los dos](https://open.spotify.com/album/6q9JxhDsrcwQqTk79bqRR8) | 3:13 | 2025-03-14 |  |
 | [No Hard Feelings](https://open.spotify.com/track/4dXF3hwLihDt8OiZNIWDQV) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [No Hard Feelings](https://open.spotify.com/album/3Y12HLP1kn6YjpsJmPJY3E) | 2:33 | 2021-12-29 | 2023-08-07 |
 | [No Puedo Parar](https://open.spotify.com/track/40Vkas3vI6KE0v02V1ZdiA) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [No Puedo Parar](https://open.spotify.com/album/4xIpUxqAgzC1vYpD9Zabfo) | 4:03 | 2021-12-29 |  |
 | [No Sé \(feat\. Girl Ultra\)](https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:38 | 2021-12-29 |  |
@@ -246,7 +247,7 @@
 | [Todo Pasa](https://open.spotify.com/track/4rOspeyPrz4ayP4WsnXmpu) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Todo Pasa](https://open.spotify.com/album/7hahBXkyUgf3A3JwBYU1CR) | 2:38 | 2022-06-15 | 2024-11-22 |
 | [Trebol](https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Trebol](https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD) | 3:46 | 2022-12-02 |  |
 | [Tu Forma](https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Tu Forma](https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK) | 2:34 | 2023-04-21 | 2024-09-07 |
-| [tu y yo](https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4) | [ARIEL](https://open.spotify.com/artist/0CgwrEiQpSx2oppyHGCSV3) | [buena vista!](https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv) | 2:55 | 2023-04-07 |  |
+| [tu y yo](https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4) | [ARIEL](https://open.spotify.com/artist/0CgwrEiQpSx2oppyHGCSV3) | [buena vista!](https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv) | 2:55 | 2023-04-07 | 2025-03-16 |
 | [Tumbado En El Jardín Viendo Atardecer](https://open.spotify.com/track/3CQ8mdIze27yCr4DNGas7f) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Tumbado En El Jardín Viendo Atardecer](https://open.spotify.com/album/3MMWQpliapfNub2AegCIYq) | 4:34 | 2021-12-29 | 2023-03-04 |
 | [Un Animal \(Divina Existencia\)](https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Get Lost In The Music](https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs) | 3:01 | 2021-12-29 | 2024-06-01 |
 | [Un día más](https://open.spotify.com/track/5mXYPoqiOCab0lTbHqbYTO) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Un día más](https://open.spotify.com/album/3JqQExIwMGkaMcitZoN2TT) | 3:22 | 2023-05-05 |  |

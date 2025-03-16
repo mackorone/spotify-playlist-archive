@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 46518,
+  "num_followers": 46530,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -331,18 +331,22 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Je pense \u00e0 toi",
-        "url": "https://open.spotify.com/album/5fpZTDvA6fsMMJLhEauucz"
+        "name": "Hijo de Tigre",
+        "url": "https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB"
       },
       "artists": [
         {
-          "name": "El Drag\u00f3n Criollo",
-          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+          "name": "La Cumbia Chicharra",
+          "url": "https://open.spotify.com/artist/5DT5ozQExex14fHR7KtrEr"
+        },
+        {
+          "name": "Emilie Rambaud",
+          "url": "https://open.spotify.com/artist/6zSjAU2RuN3iBx8dcqcBgG"
         }
       ],
-      "duration_ms": 272590,
-      "name": "Je Pense \u00e0 Toi",
-      "url": "https://open.spotify.com/track/36bbmGLrqvyxy6btk2DGiy"
+      "duration_ms": 356693,
+      "name": "La We\u00e1",
+      "url": "https://open.spotify.com/track/4WYTHHlht6Dd9v9fG497u9"
     },
     {
       "added_at": "2023-03-23 22:04:18",
@@ -363,22 +367,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Hijo de Tigre",
-        "url": "https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB"
+        "name": "Je pense \u00e0 toi",
+        "url": "https://open.spotify.com/album/5fpZTDvA6fsMMJLhEauucz"
       },
       "artists": [
         {
-          "name": "La Cumbia Chicharra",
-          "url": "https://open.spotify.com/artist/5DT5ozQExex14fHR7KtrEr"
-        },
-        {
-          "name": "Emilie Rambaud",
-          "url": "https://open.spotify.com/artist/6zSjAU2RuN3iBx8dcqcBgG"
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
         }
       ],
-      "duration_ms": 356693,
-      "name": "La We\u00e1",
-      "url": "https://open.spotify.com/track/4WYTHHlht6Dd9v9fG497u9"
+      "duration_ms": 272590,
+      "name": "Je Pense \u00e0 Toi",
+      "url": "https://open.spotify.com/track/36bbmGLrqvyxy6btk2DGiy"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -481,22 +481,6 @@
       "url": "https://open.spotify.com/track/6wYvtOi8fqJfC2vLNncDnL"
     },
     {
-      "added_at": "2024-04-30 04:25:35",
-      "album": {
-        "name": "La Bomba",
-        "url": "https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn"
-      },
-      "artists": [
-        {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
-        }
-      ],
-      "duration_ms": 134720,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Mil Versiones",
@@ -511,6 +495,22 @@
       "duration_ms": 145384,
       "name": "Mil Versiones",
       "url": "https://open.spotify.com/track/54KcGCuNHyFmL4kzIAr31s"
+    },
+    {
+      "added_at": "2024-04-30 04:25:35",
+      "album": {
+        "name": "La Bomba",
+        "url": "https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        }
+      ],
+      "duration_ms": 134720,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf"
     },
     {
       "added_at": "2023-12-12 18:56:56",
@@ -701,22 +701,6 @@
       "url": "https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Guadalupe",
-        "url": "https://open.spotify.com/album/6OGNpHbKy1Y7qFhiUBzBWS"
-      },
-      "artists": [
-        {
-          "name": "Jaguar",
-          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
-        }
-      ],
-      "duration_ms": 204705,
-      "name": "Guadalupe",
-      "url": "https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny"
-    },
-    {
       "added_at": "2024-08-23 00:44:14",
       "album": {
         "name": "Pa\u00f1uelo De Seda",
@@ -731,6 +715,22 @@
       "duration_ms": 183103,
       "name": "Pa\u00f1uelo De Seda",
       "url": "https://open.spotify.com/track/3LWywxs7H28pgy0PCqIiPd"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Guadalupe",
+        "url": "https://open.spotify.com/album/6OGNpHbKy1Y7qFhiUBzBWS"
+      },
+      "artists": [
+        {
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
+        }
+      ],
+      "duration_ms": 204705,
+      "name": "Guadalupe",
+      "url": "https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -835,22 +835,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Corriente EP",
-        "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
-      },
-      "artists": [
-        {
-          "name": "Terror/Cactus",
-          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
-        }
-      ],
-      "duration_ms": 231875,
-      "name": "Tambor Del Monte",
-      "url": "https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Contra La Corriente",
         "url": "https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 263096,
       "name": "Contra La Corriente",
       "url": "https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Corriente EP",
+        "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
+      },
+      "artists": [
+        {
+          "name": "Terror/Cactus",
+          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
+        }
+      ],
+      "duration_ms": 231875,
+      "name": "Tambor Del Monte",
+      "url": "https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1053,6 +1053,22 @@
       "url": "https://open.spotify.com/track/0vgllgI40Xy0Qp1hsZo7Iw"
     },
     {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Smells Like Cumbia",
+        "url": "https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9"
+      },
+      "artists": [
+        {
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+        }
+      ],
+      "duration_ms": 148360,
+      "name": "Misirlou",
+      "url": "https://open.spotify.com/track/0gUYUBGFojmopnkz3acWfZ"
+    },
+    {
       "added_at": "2023-02-14 03:09:22",
       "album": {
         "name": "Cumbia Espectro",
@@ -1071,22 +1087,6 @@
       "duration_ms": 216000,
       "name": "Cumbia Espectro",
       "url": "https://open.spotify.com/track/6ekY2SsOYzo0TwlTvm6ulV"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Smells Like Cumbia",
-        "url": "https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9"
-      },
-      "artists": [
-        {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
-        }
-      ],
-      "duration_ms": 148360,
-      "name": "Misirlou",
-      "url": "https://open.spotify.com/track/0gUYUBGFojmopnkz3acWfZ"
     },
     {
       "added_at": "2023-02-28 04:34:35",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Mujer Luna",
-        "url": "https://open.spotify.com/album/7zIZesonqKHbTF189hjCeF"
-      },
-      "artists": [
-        {
-          "name": "Los Aguas Aguas",
-          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "Mujer Luna",
-      "url": "https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Savage Love",
         "url": "https://open.spotify.com/album/0Yz7y8VcFHZru6QYpP0sDJ"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 234812,
       "name": "Savage Love",
       "url": "https://open.spotify.com/track/6wftAWalceOZidVfaJjoOi"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Mujer Luna",
+        "url": "https://open.spotify.com/album/7zIZesonqKHbTF189hjCeF"
+      },
+      "artists": [
+        {
+          "name": "Los Aguas Aguas",
+          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
+        }
+      ],
+      "duration_ms": 211560,
+      "name": "Mujer Luna",
+      "url": "https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH"
     },
     {
       "added_at": "2023-09-25 00:02:05",
@@ -1237,26 +1237,6 @@
       "url": "https://open.spotify.com/track/2qxsksiArurrQ51Y2gQIxj"
     },
     {
-      "added_at": "2022-01-11 02:45:58",
-      "album": {
-        "name": "Color de Tr\u00f3pico Vol 2 (Compiled By El Drag\u00f3n Criollo y El Palmas)",
-        "url": "https://open.spotify.com/album/1HL8rE8xoQy5tC73730bZP"
-      },
-      "artists": [
-        {
-          "name": "El Drag\u00f3n Criollo",
-          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
-        },
-        {
-          "name": "Los Kings",
-          "url": "https://open.spotify.com/artist/3mkewj7XqZIrYz10FDiymw"
-        }
-      ],
-      "duration_ms": 178887,
-      "name": "Empecemos (Let's Start)",
-      "url": "https://open.spotify.com/track/5k4uozUOYVtF6IsXIML1U0"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Invasi\u00f3n",
@@ -1283,6 +1263,26 @@
       "duration_ms": 248610,
       "name": "Invasi\u00f3n",
       "url": "https://open.spotify.com/track/3s7jL9o8vvhLmw4lV3xMHW"
+    },
+    {
+      "added_at": "2022-01-11 02:45:58",
+      "album": {
+        "name": "Color de Tr\u00f3pico Vol 2 (Compiled By El Drag\u00f3n Criollo y El Palmas)",
+        "url": "https://open.spotify.com/album/1HL8rE8xoQy5tC73730bZP"
+      },
+      "artists": [
+        {
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+        },
+        {
+          "name": "Los Kings",
+          "url": "https://open.spotify.com/artist/3mkewj7XqZIrYz10FDiymw"
+        }
+      ],
+      "duration_ms": 178887,
+      "name": "Empecemos (Let's Start)",
+      "url": "https://open.spotify.com/track/5k4uozUOYVtF6IsXIML1U0"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1481,22 +1481,6 @@
       "url": "https://open.spotify.com/track/20rxRyK8QJhQCOLaa4e8tr"
     },
     {
-      "added_at": "2025-01-16 17:40:08",
-      "album": {
-        "name": "Capricornio: Ven a mi amor",
-        "url": "https://open.spotify.com/album/1dGVnxTvqZ6FF7lPocvCrF"
-      },
-      "artists": [
-        {
-          "name": "Sonido Desconocido 2",
-          "url": "https://open.spotify.com/artist/7vn9gosQwaC0ca5C4wRVUA"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Capricornio: Ven a mi amor",
-      "url": "https://open.spotify.com/track/5klxe1nweL6Ak1LsNSlHte"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Curandero",
@@ -1511,6 +1495,22 @@
       "duration_ms": 160680,
       "name": "Paleta",
       "url": "https://open.spotify.com/track/3XdIv0nuZqbsnOLNyRsk8k"
+    },
+    {
+      "added_at": "2025-01-16 17:40:08",
+      "album": {
+        "name": "Capricornio: Ven a mi amor",
+        "url": "https://open.spotify.com/album/1dGVnxTvqZ6FF7lPocvCrF"
+      },
+      "artists": [
+        {
+          "name": "Sonido Desconocido 2",
+          "url": "https://open.spotify.com/artist/7vn9gosQwaC0ca5C4wRVUA"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Capricornio: Ven a mi amor",
+      "url": "https://open.spotify.com/track/5klxe1nweL6Ak1LsNSlHte"
     },
     {
       "added_at": "2022-01-13 01:01:34",
@@ -1533,22 +1533,6 @@
       "url": "https://open.spotify.com/track/6hp9tqJr04dB0AZNhSILn5"
     },
     {
-      "added_at": "2022-07-01 02:22:57",
-      "album": {
-        "name": "Bueltatzen",
-        "url": "https://open.spotify.com/album/4v1nMs0gkTppp4rhdrmCqv"
-      },
-      "artists": [
-        {
-          "name": "Goxua\u00b4n Salsa",
-          "url": "https://open.spotify.com/artist/3pHdIDn7I3886jmRAhIonL"
-        }
-      ],
-      "duration_ms": 258898,
-      "name": "Bueltatzen",
-      "url": "https://open.spotify.com/track/1QoGnD390y0CCuTAIy1J2o"
-    },
-    {
       "added_at": "2023-10-10 02:11:18",
       "album": {
         "name": "Paganismo (Deluxe)",
@@ -1563,6 +1547,22 @@
       "duration_ms": 189514,
       "name": "Mambo Del Fierro Viejo",
       "url": "https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy"
+    },
+    {
+      "added_at": "2022-07-01 02:22:57",
+      "album": {
+        "name": "Bueltatzen",
+        "url": "https://open.spotify.com/album/4v1nMs0gkTppp4rhdrmCqv"
+      },
+      "artists": [
+        {
+          "name": "Goxua\u00b4n Salsa",
+          "url": "https://open.spotify.com/artist/3pHdIDn7I3886jmRAhIonL"
+        }
+      ],
+      "duration_ms": 258898,
+      "name": "Bueltatzen",
+      "url": "https://open.spotify.com/track/1QoGnD390y0CCuTAIy1J2o"
     },
     {
       "added_at": "2023-03-17 17:16:44",
@@ -1637,6 +1637,22 @@
       "url": "https://open.spotify.com/track/1dYgoBJEkIHfhKGebTRioT"
     },
     {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Cuando tengo fiebre veo la cabeza de un leopardo magn\u00edfico",
+        "url": "https://open.spotify.com/album/41OUIwrSh0rnfRHYVKUNdU"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Mayorga",
+          "url": "https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui"
+        }
+      ],
+      "duration_ms": 234231,
+      "name": "Cuando tengo fiebre veo la cabeza de un leopardo magn\u00edfico",
+      "url": "https://open.spotify.com/track/5klF20vzC2HpEQbhn7CdKE"
+    },
+    {
       "added_at": "2023-05-25 19:15:17",
       "album": {
         "name": "Luna Villera",
@@ -1671,22 +1687,6 @@
       "duration_ms": 193955,
       "name": "Dios",
       "url": "https://open.spotify.com/track/1hTGXQD56NSef0JYfJi9U1"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Cuando tengo fiebre veo la cabeza de un leopardo magn\u00edfico",
-        "url": "https://open.spotify.com/album/41OUIwrSh0rnfRHYVKUNdU"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00e1n Mayorga",
-          "url": "https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui"
-        }
-      ],
-      "duration_ms": 234231,
-      "name": "Cuando tengo fiebre veo la cabeza de un leopardo magn\u00edfico",
-      "url": "https://open.spotify.com/track/5klF20vzC2HpEQbhn7CdKE"
     },
     {
       "added_at": "2021-10-20 15:37:42",

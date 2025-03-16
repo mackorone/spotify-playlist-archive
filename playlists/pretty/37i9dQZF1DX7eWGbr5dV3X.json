@@ -1,6 +1,6 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Towa Bird.",
-  "num_followers": 8632,
+  "num_followers": 8631,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Hyperdome",
+        "url": "https://open.spotify.com/album/4WQ745zAz9eRVRVDMBk4IE"
+      },
+      "artists": [
+        {
+          "name": "SuperKnova",
+          "url": "https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Hyperdome",
+      "url": "https://open.spotify.com/track/47z3fqsE7tSXGkFFCzNaFH"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Round and Round (Bright Light Bright Light Remix)",
         "url": "https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 216842,
       "name": "Round and Round (Bright Light Bright Light Remix)",
       "url": "https://open.spotify.com/track/2OeJvSrwnM8fb64WJ4YUXC"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Hyperdome",
-        "url": "https://open.spotify.com/album/4WQ745zAz9eRVRVDMBk4IE"
-      },
-      "artists": [
-        {
-          "name": "SuperKnova",
-          "url": "https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Hyperdome",
-      "url": "https://open.spotify.com/track/47z3fqsE7tSXGkFFCzNaFH"
     },
     {
       "added_at": "2024-07-12 04:00:00",

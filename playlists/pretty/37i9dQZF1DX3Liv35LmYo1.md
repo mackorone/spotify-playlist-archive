@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night shift
 
-[Spotify](https://open.spotify.com/user/spotify) - 682 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 685 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 44 | [Memories In Flight](https://open.spotify.com/track/0c2mirf2nzleq4ctZ5vFKx) | [Sampology](https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ) | [Memories In Flight](https://open.spotify.com/album/581T6Mw7jPP4IGgFDrQAfE) | 3:49 |
 | 45 | [Minoxidil Life crisis](https://open.spotify.com/track/3Jm3pKvN9CfiOY6pznlxha) | [Morgan Wright](https://open.spotify.com/artist/0ecgVFD6pNWAqcRNIj81d7) | [Minoxidil Life crisis](https://open.spotify.com/album/2hOQX3N7h2SaTE3UiFZwz3) | 5:14 |
 | 46 | [ENCLOSURE](https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [ENCLOSURE](https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0) | 4:19 |
-| 47 | [BOY](https://open.spotify.com/track/6Q3z3LmFRjPTBFaLCbsHOd) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [BOY / if u wanna cry](https://open.spotify.com/album/79Wtz0l5ubAbkzlRJOk2Ie) | 3:03 |
-| 48 | [Absent](https://open.spotify.com/track/5gdNah69fvQqI9SuESeqT5) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Absent](https://open.spotify.com/album/5dR04HbCNgPfhPCBuL2gnn) | 3:09 |
+| 47 | [Absent](https://open.spotify.com/track/5gdNah69fvQqI9SuESeqT5) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Absent](https://open.spotify.com/album/5dR04HbCNgPfhPCBuL2gnn) | 3:09 |
+| 48 | [BOY](https://open.spotify.com/track/6Q3z3LmFRjPTBFaLCbsHOd) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [BOY / if u wanna cry](https://open.spotify.com/album/79Wtz0l5ubAbkzlRJOk2Ie) | 3:03 |
 | 49 | [Violet \- DJ Python Remix](https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI) | [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Mercury Remixes](https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ) | 3:27 |
 | 50 | [Blue Skies](https://open.spotify.com/track/4UKJbtE1rC2LaWm5CFTnfA) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Blue Spring](https://open.spotify.com/album/2WSYktq8Bu9EMn47nnzR35) | 3:23 |
 

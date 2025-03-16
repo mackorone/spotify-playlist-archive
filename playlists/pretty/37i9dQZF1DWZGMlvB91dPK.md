@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 
 > Découvrez la programmation du BISE Festival 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,071 likes - 48 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,072 likes - 48 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 15 | [LE LARGE...](https://open.spotify.com/track/3hsoSVaxphYBbdzTKAOoCt) | [Surprise](https://open.spotify.com/artist/0qvSqrreqXO98OunCDZN9r), [INDYDONO](https://open.spotify.com/artist/2He3ipMij2mqkHINE9M4f9) | [L'INVERSE](https://open.spotify.com/album/4eIokVQzkny1mu8c5ZtNoJ) | 2:34 |
 | 16 | [Tout le Monde](https://open.spotify.com/track/1xqEInPRO41pPcnbdmYotd) | [Nathalie Froehlich](https://open.spotify.com/artist/1L6ZYC0cyOyqdut8EpHyDq) | [Système](https://open.spotify.com/album/4FZVauD4WZVtQ3TN5Mhb23) | 4:00 |
 | 17 | [Do Things Right](https://open.spotify.com/track/0R9wB9ssVRhJQzsOiIQ7hS) | [DITTER](https://open.spotify.com/artist/2XQrzLnabbe3OLJOctSvSQ) | [Do Things Right](https://open.spotify.com/album/5QoRLEUibCebF1jefIwK2T) | 2:47 |
-| 18 | [Angoisse](https://open.spotify.com/track/4maRX67tL8ObXWdnfxv4PZ) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Angoisse](https://open.spotify.com/album/7AvsmObsUkT0MEAP0UQN7K) | 3:42 |
-| 19 | [Astronaute amateur](https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Diorama](https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg) | 3:38 |
+| 18 | [Astronaute amateur](https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Diorama](https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg) | 3:38 |
+| 19 | [Angoisse](https://open.spotify.com/track/4maRX67tL8ObXWdnfxv4PZ) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Angoisse](https://open.spotify.com/album/7AvsmObsUkT0MEAP0UQN7K) | 3:42 |
 | 20 | [M'enfer](https://open.spotify.com/track/5agKRH3QG3v68LbPZPNsqz) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Bienvenue Au Pays](https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ) | 3:10 |
 | 21 | [Temps volé](https://open.spotify.com/track/1x26yUbCxLWuUNMj4h3k6w) | [Makoto San](https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr), [Uzi Freyja](https://open.spotify.com/artist/1RK65n6t13UmpsWLmTQWGz) | [Temps volé](https://open.spotify.com/album/0uYTlqOtTOW5HJ5jh1hpdJ) | 3:14 |
 | 22 | [Bouge de là](https://open.spotify.com/track/3dq9tXhtHNUg4PfkgOoMXa) | [Nathalie Froehlich](https://open.spotify.com/artist/1L6ZYC0cyOyqdut8EpHyDq) | [Désillusion](https://open.spotify.com/album/4SOGhbNxDxIybXJE4xecl3) | 2:41 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 36 | [Haunted House](https://open.spotify.com/track/2aJqXLVH09TG9v2bD860iY) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [and I can't breathe enough](https://open.spotify.com/album/0iBUtzkE1HWBM0ESN3407j) | 3:24 |
 | 37 | [Kini Dub](https://open.spotify.com/track/4dEndC43ptFlFpw5nUGvCG) | [Ago Gazo](https://open.spotify.com/artist/7gFYElz1vhVRme3RmFWu7x) | [Ago Gazo](https://open.spotify.com/album/0wF861wBTniyfhRFT37mrg) | 4:22 |
 | 38 | [ACID](https://open.spotify.com/track/552GDaca9nwW4RuN2CsZZt) | [Hyper Jacuzzi](https://open.spotify.com/artist/5RkOL12PMfc3CDRY6JElZ1) | [ACID](https://open.spotify.com/album/5DUBanco1qA9ksFdBVe5LZ) | 4:18 |
-| 39 | [POUR DE BON](https://open.spotify.com/track/2SeDCGCcWkQ0xNFEi0ThYl) | [La Valentina](https://open.spotify.com/artist/6YpiZGhMwYRH8tXhPdBjVq), [Tonio 8cho](https://open.spotify.com/artist/4BbPpshNwDO8yZUOGuzqdX) | [POUR DE BON](https://open.spotify.com/album/2dQhHCICCWCVT61S5jHMIP) | 2:35 |
-| 40 | [Pardon](https://open.spotify.com/track/4LrqruvRJpaiLcgpOPPRnR) | [ÉNAÉ](https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM) | [528Hz](https://open.spotify.com/album/7i6HxReY7m9wHSOdh3au8V) | 3:08 |
-| 41 | [Folie](https://open.spotify.com/track/0Ueh3QgfcnrlBipgoWjkDW) | [MIMOSA](https://open.spotify.com/artist/64XUJ8nVZaAZ8U42pvw7Rl) | [Folie](https://open.spotify.com/album/10zfAail7mEa7dOw45R7Mc) | 2:51 |
+| 39 | [Folie](https://open.spotify.com/track/0Ueh3QgfcnrlBipgoWjkDW) | [MIMOSA](https://open.spotify.com/artist/64XUJ8nVZaAZ8U42pvw7Rl) | [Folie](https://open.spotify.com/album/10zfAail7mEa7dOw45R7Mc) | 2:51 |
+| 40 | [POUR DE BON](https://open.spotify.com/track/2SeDCGCcWkQ0xNFEi0ThYl) | [La Valentina](https://open.spotify.com/artist/6YpiZGhMwYRH8tXhPdBjVq), [Tonio 8cho](https://open.spotify.com/artist/4BbPpshNwDO8yZUOGuzqdX) | [POUR DE BON](https://open.spotify.com/album/2dQhHCICCWCVT61S5jHMIP) | 2:35 |
+| 41 | [Pardon](https://open.spotify.com/track/4LrqruvRJpaiLcgpOPPRnR) | [ÉNAÉ](https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM) | [528Hz](https://open.spotify.com/album/7i6HxReY7m9wHSOdh3au8V) | 3:08 |
 | 42 | [Togbui Ha](https://open.spotify.com/track/23aIloj60zjAp3lYzlLHo6) | [Ago Gazo](https://open.spotify.com/artist/7gFYElz1vhVRme3RmFWu7x) | [Ago Gazo](https://open.spotify.com/album/0wF861wBTniyfhRFT37mrg) | 5:07 |
 | 43 | [Forever](https://open.spotify.com/track/1xY0IYX9buuQoBABdw2oB2) | [MALVINA](https://open.spotify.com/artist/6LvXqXnw5SEWHhXPz9be4n) | [Forever](https://open.spotify.com/album/7segRmevYXc3m4VAmw7grT) | 4:00 |
 | 44 | [Can't Wait](https://open.spotify.com/track/2VMYVC78nVxCy2Xw3orm4P) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [and I can't breathe enough](https://open.spotify.com/album/0iBUtzkE1HWBM0ESN3407j) | 3:34 |

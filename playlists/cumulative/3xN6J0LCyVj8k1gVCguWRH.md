@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,642 songs - 10 day 20 hr 16 min
+4,643 songs - 10 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1216,7 +1216,7 @@
 | [Emergency Contact](https://open.spotify.com/track/2m7w9QvLoyudSX08ySHtRN) | [B.Miles](https://open.spotify.com/artist/3rB3PZ6d1hAkNFD4PhLgQk) | [Emergency Contact](https://open.spotify.com/album/6eVXEiYBnwrQNoKlpZs5qE) | 3:53 | 2024-10-04 | 2024-10-16 |
 | [Emotions](https://open.spotify.com/track/1m0kk77KZs7cW2sREM8m0F) | [ISAAC LEE](https://open.spotify.com/artist/4Gho39KUTLWnxRhQQ3tbvS), [Cody Ray Lee](https://open.spotify.com/artist/6zvmTQ4CqiZSfEQj97yPjh) | [Emotions](https://open.spotify.com/album/6RH13oWaTLReOm5dWiWvd4) | 2:21 | 2022-09-09 | 2022-09-25 |
 | [Emotions Have Color](https://open.spotify.com/track/7CAWKlaQNtVG0UEuvqpkiS) | [T Street Zoo](https://open.spotify.com/artist/1SjOYm8QAWInkKgzhyLRc4), [Zoe Zehren](https://open.spotify.com/artist/2mei6T2naE6gzw84SGdauC), [Joseph Quinn](https://open.spotify.com/artist/4Dq44dBQow9U8vPPkDNlxP) | [Emotions Have Color](https://open.spotify.com/album/2RfcQlrlD5vWSjfHQXh0fB) | 4:31 | 2024-07-11 | 2024-07-23 |
-| [Empty](https://open.spotify.com/track/6pHKGkzk38XzLFwBVpp38s) | [Andre Ruffin](https://open.spotify.com/artist/4Ldu96b8sAmZN1RQJqvOFv) | [Empty](https://open.spotify.com/album/1DqWdSp8j00lXHr2rnXM0F) | 4:53 | 2025-03-04 |  |
+| [Empty](https://open.spotify.com/track/6pHKGkzk38XzLFwBVpp38s) | [Andre Ruffin](https://open.spotify.com/artist/4Ldu96b8sAmZN1RQJqvOFv) | [Empty](https://open.spotify.com/album/1DqWdSp8j00lXHr2rnXM0F) | 4:53 | 2025-03-04 | 2025-03-16 |
 | [Empty Picture Frame](https://open.spotify.com/track/02Y5bIU0kjusMnjPJdAC3s) | [Alan Kavalier](https://open.spotify.com/artist/6NuiXrBKhYJ7ndWVDGsmer) | [Empty Picture Frame](https://open.spotify.com/album/1JxvTMbMzSt8FxvjO1iniA) | 4:20 | 2021-12-31 | 2022-01-15 |
 | [En Canto](https://open.spotify.com/track/4u23INsuBOfxP4MIOwhWhQ) | [Adriana Rosso](https://open.spotify.com/artist/4XqGfKbpuFHhOo6HgSIziD) | [En Canto](https://open.spotify.com/album/6iauQrcWDHBHtpbSgpG2Yy) | 3:03 | 2023-01-06 | 2023-01-28 |
 | [End of Me](https://open.spotify.com/track/68ByRwEnwrBYyrLUJhncge) | [Chris Aguilar](https://open.spotify.com/artist/4wzQ9vuuFaWUEUqu2cAnDO) | [End of Me](https://open.spotify.com/album/6Tg1T2H6sLeV0X1KE2OsLU) | 3:57 | 2024-05-17 | 2024-05-29 |
@@ -2316,7 +2316,7 @@
 | [Life She Don't Lie](https://open.spotify.com/track/0yRX4OIvoWfzobLpTB4958) | [Waiting for Smith](https://open.spotify.com/artist/57oieIojgviKMyTtzG4kn2) | [Life She Don't Lie](https://open.spotify.com/album/2NkE0EbSOSxluLlF2dD1MC) | 3:24 | 2021-11-27 | 2021-12-12 |
 | [Lifestyle](https://open.spotify.com/track/5f9J4trMV4wy1yDciKy9Zh) | [Imthxfuture](https://open.spotify.com/artist/5WlZDIBOMnTL1gUUmvapG6) | [Lifestyle](https://open.spotify.com/album/3JhQroYCsiQhmDU1n475kh) | 2:57 | 2023-07-15 | 2023-08-04 |
 | [Lifetime](https://open.spotify.com/track/7iOBFSH9HNbAGl2V3Zplcj) | [Tone Troy](https://open.spotify.com/artist/2QOdCLXGXs9uJbJ7LHPu31) | [Lifetime](https://open.spotify.com/album/0Tij8yIRjXKifzpcrLRIrR) | 3:25 | 2022-11-25 | 2022-12-17 |
-| [Lift You Up](https://open.spotify.com/track/6TUj70FPkkH8PKDew2s7fj) | [MUNNYCAT](https://open.spotify.com/artist/3mib3ZXDjjjGpWxnoZu0XF), [LG \(TEAM GENIUS\)](https://open.spotify.com/artist/7iI4KMaRDjJGuHA6QLGnJx) | [Lift You Up](https://open.spotify.com/album/2UftMluccu2Ev2WcDT4zyn) | 2:46 | 2025-02-28 |  |
+| [Lift You Up](https://open.spotify.com/track/6TUj70FPkkH8PKDew2s7fj) | [MUNNYCAT](https://open.spotify.com/artist/3mib3ZXDjjjGpWxnoZu0XF), [LG \(TEAM GENIUS\)](https://open.spotify.com/artist/7iI4KMaRDjJGuHA6QLGnJx) | [Lift You Up](https://open.spotify.com/album/2UftMluccu2Ev2WcDT4zyn) | 2:46 | 2025-02-28 | 2025-03-16 |
 | [Light as a Feather](https://open.spotify.com/track/2duYJP1P2vASWbZOETm26I) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x) | [Light as a Feather](https://open.spotify.com/album/2rF1N1FUUqvawW9DTloY5V) | 3:17 | 2022-02-10 | 2022-02-26 |
 | [Light in the Shadow](https://open.spotify.com/track/7MoAnSriBN0f8coBmsEpGa) | [BAYWUD](https://open.spotify.com/artist/3dDdngfjnuthfO2OPYRZqz) | [Light in the Shadow](https://open.spotify.com/album/1w0FoxxOoljhvfRPW6t0Ih) | 2:53 | 2025-01-14 | 2025-01-28 |
 | [Light Me Up](https://open.spotify.com/track/6eiMQi6bU255rcIxKlBjNJ) | [Very Disco](https://open.spotify.com/artist/7LZAVZ5Zt8wIzUejBt4UD5) | [Light Me Up](https://open.spotify.com/album/34iOVExJUGY0Q9Uy9MflLI) | 3:02 | 2022-09-23 | 2022-10-09 |
@@ -2988,6 +2988,7 @@
 | [Optimistic](https://open.spotify.com/track/2IPB1nl1SBxWvUZcth5CJt) | [Macedo](https://open.spotify.com/artist/4hQT8LjL7j5IlWFQG5Z9kG) | [Optimistic](https://open.spotify.com/album/2iy5FAEIRhPZ2CeLvPCokf) | 3:38 | 2024-08-11 | 2024-08-24 |
 | [Orange](https://open.spotify.com/track/78I7REFKs4WPEd0JuQJgxm) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Orange](https://open.spotify.com/album/4gYV6DMYozgUcTT8gORd0y) | 3:13 | 2022-07-15 | 2022-07-31 |
 | [Orange](https://open.spotify.com/track/2V6qzoX7Urn5QcNib1yvrI) | [Sabe Anderson](https://open.spotify.com/artist/6nDI30LMNn69U93QoJ05bt) | [Orange](https://open.spotify.com/album/6VDobIt9k6PzaOdjYp1l4U) | 3:48 | 2022-11-04 | 2022-11-27 |
+| [Orbit!](https://open.spotify.com/track/7Dqym4AGDMFXgT7y5QeIiu) | [Yomchi](https://open.spotify.com/artist/75cRTqerw1s3cKcti6AluB) | [Orbit!](https://open.spotify.com/album/4ESV8C8MBrwT5ABp9OvNm0) | 3:09 | 2025-03-15 |  |
 | [Orchids from Fire](https://open.spotify.com/track/1QWQbufiCcpqffNkOCSaF8) | [Kellie Haddock](https://open.spotify.com/artist/6ZszMgt4IsKoJfzU1aultN) | [Orchids from Fire](https://open.spotify.com/album/3s7JmeQxkY3lrF5sGrMKBZ) | 4:55 | 2024-01-21 | 2024-01-29 |
 | [Original](https://open.spotify.com/track/6SwJ1LmZlDfAXAAK69DD4s) | [ZeXzy](https://open.spotify.com/artist/3IwO7IAIsQn4UHafxRHESo) | [Original](https://open.spotify.com/album/5acvWxZ969AIuEZUfo2Zl0) | 2:17 | 2023-07-27 | 2023-08-20 |
 | [Osprey Park](https://open.spotify.com/track/7CWc1AWtfHpoq8qj2XCDdb) | [Sarah Gross](https://open.spotify.com/artist/58lbHYipYB2JGbElUXeG2p) | [The Riversides EP](https://open.spotify.com/album/0IisQC9f4M5VDz9Koa0ZwY) | 3:02 | 2022-02-04 | 2022-02-20 |

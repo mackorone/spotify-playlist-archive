@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,660 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,683 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 5 | [El Federal De Caminos](https://open.spotify.com/track/2P9XuggCZbHMOHI6Upkahb) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Corridos Con](https://open.spotify.com/album/4hOI70GYvjg7PXpcyowngB) | 3:08 |
 | 6 | [Mi Golondrina](https://open.spotify.com/track/28cEjHqqh494m594SwLyvt) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Recuérdame Y Ven A Mí](https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU) | 2:51 |
 | 7 | [Sólo una Patada](https://open.spotify.com/track/34x84kiFbL2pdwlGT8BYcd) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Casas de Madera](https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM) | 2:46 |
-| 8 | [Vestida De Color De Rosa](https://open.spotify.com/track/4hZzcu2j0XVti6j8hVV0Oz) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Éxitos](https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ) | 3:05 |
-| 9 | [Que Me Lleve El Diablo](https://open.spotify.com/track/5u4cu3oA6jpNlfb6taXmE5) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Éxitos Con \(Vol.II\)](https://open.spotify.com/album/2GCQzIsTqogXju7LHbEG6l) | 3:30 |
+| 8 | [Que Me Lleve El Diablo](https://open.spotify.com/track/5u4cu3oA6jpNlfb6taXmE5) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Éxitos Con \(Vol.II\)](https://open.spotify.com/album/2GCQzIsTqogXju7LHbEG6l) | 3:30 |
+| 9 | [Vestida De Color De Rosa](https://open.spotify.com/track/4hZzcu2j0XVti6j8hVV0Oz) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Éxitos](https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ) | 3:05 |
 | 10 | [Corrido De Chito Cano](https://open.spotify.com/track/31cRUiuUfvpxAEYAXn1Qtq) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Los Mejores 15 Éxitos Norteños](https://open.spotify.com/album/6G6ycCLOWgkb3AQoI28Y8c) | 3:30 |
 | 11 | [Para Poder Llegar A Ti](https://open.spotify.com/track/0vixYN2nSOIn9k1wr0qfhC) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:01 |
 | 12 | [El Disgusto](https://open.spotify.com/track/1yhUCJgl0iUT9zX8UvEyPr) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Relampagueando \- En Memoria De Cornelio Reyna 25 Años Después](https://open.spotify.com/album/1nD4NSry2Tv0Fz4UzjkHfy) | 2:24 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 44 | [Arrancame El Corazón \- \(En Vivo\)](https://open.spotify.com/track/7KDfKZEN3KXHrwIrfKp73Z) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 4:21 |
 | 45 | [Mándame A La Tumba](https://open.spotify.com/track/0b0cFie5DLwExBHq0Oo7oi) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Casas de Madera](https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM) | 3:55 |
 | 46 | [Te Traigo Estas Flores A Dueto Con Freddie Martinez](https://open.spotify.com/track/3Xt34CsfQLiNfbluq5fTWO) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [FREDDIE RECORDS PRESENTA EL DIA DE LAS MADRES](https://open.spotify.com/album/1lrpWHUZEI6Kgmqi7Aw4kp) | 2:47 |
-| 47 | [Lágrimas](https://open.spotify.com/track/2NGw51VQMr7suG30O3iFsF) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Lagrimas](https://open.spotify.com/album/0JN8mZ3miJNMroapco383C) | 2:18 |
-| 48 | [Gerardo Gonzalez](https://open.spotify.com/track/2aipeBHbFwBtPNDyOVxpta) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [\(DE LA PELICULA\) DINASTIA DE LA MUERTE \(Grabación Original Remasterizada\)](https://open.spotify.com/album/1bEyiwgCSxtRBpqgEaQ9Qs) | 2:36 |
+| 47 | [Gerardo Gonzalez](https://open.spotify.com/track/2aipeBHbFwBtPNDyOVxpta) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [\(DE LA PELICULA\) DINASTIA DE LA MUERTE \(Grabación Original Remasterizada\)](https://open.spotify.com/album/1bEyiwgCSxtRBpqgEaQ9Qs) | 2:36 |
+| 48 | [Lágrimas](https://open.spotify.com/track/2NGw51VQMr7suG30O3iFsF) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Lagrimas](https://open.spotify.com/album/0JN8mZ3miJNMroapco383C) | 2:18 |
 | 49 | [La Latosa](https://open.spotify.com/track/74aQZ1NHn8RjsZKGgCKZ7p) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [La Gran Colección del 60 Aniversario CBS \- Ramón Ayala y Sus Bravos del Norte](https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN) | 2:36 |
-| 50 | [Cuánto Me Cuesta \(Me Cuesta Ponerle Letra\) \- En Vivo](https://open.spotify.com/track/55BQZ6AqbzlvR7fBfJgesF) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2), [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Celebrando a una Leyenda, Segunda Parte \(En Vivo\)](https://open.spotify.com/album/7vvK1TuP5ZPZxmq28YKAgv) | 2:52 |
+| 50 | [Me Puso El Dedo](https://open.spotify.com/track/1iCVU73Xs9tj0tZI0j4Tun) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Gaviota](https://open.spotify.com/album/4Pd7fV6rbTXjW5SGzy16Iy) | 3:35 |
 
-Snapshot ID: `Z9IgAAAAAAD5efMi/z613o/+W/pbzYaZ`
+Snapshot ID: `Z9NxgAAAAACYmHVgGU/7vdPH2hF3O29m`

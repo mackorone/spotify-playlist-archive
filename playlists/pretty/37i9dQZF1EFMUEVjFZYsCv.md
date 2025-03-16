@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5rGEVA02BzuqceQxXAGrqE">James Arthur</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57 likes - 97 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 56 likes - 97 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 | 96 | [Lay My Body Down](https://open.spotify.com/track/6yTgkVCTkt840eGrnykWI4) | [MaRina](https://open.spotify.com/artist/5RYLofQHxZcrEl9Bl23MCS) | [On My Way](https://open.spotify.com/album/0jNDoWMJDR7dIXEq3bIhdv) | 3:19 |
 | 97 | [Rollercoaster](https://open.spotify.com/track/7nzR2Ix0xJE4U9foEqTEsf) | [Missy Five](https://open.spotify.com/artist/1HrQGnCZCDGCJVicgtGlqW) | [Groovy 90S Hits!](https://open.spotify.com/album/4LPAFPbrRwAQ8qQ24ZLma9) | 3:14 |
 
-Snapshot ID: `AbsD4QAAAAAwxRl4nbMGx+RJTrAMxm3A`
+Snapshot ID: `AbsJvAAAAADx8FSavnF4R+KelKJq8gGB`

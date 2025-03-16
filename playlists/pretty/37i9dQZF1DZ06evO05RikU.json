@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 42878,
+  "num_followers": 42885,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAA4eewjALz9D+6QzDjaZ0KN",
+  "snapshot_id": "Z9NxgAAAAACGhLDMMivs7MB+XXfAK2rd",
   "tracks": [
     {
       "added_at": null,
@@ -627,6 +627,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "1+1 (feat. Yandel & Sof\u00eda Reyes) [Banx & Ranx Remix]",
+        "url": "https://open.spotify.com/album/2ds7l2UKWHAj3nKX2Pfmdz"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Banx & Ranx",
+          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 204707,
+      "name": "1+1 (feat. Yandel & Sof\u00eda Reyes) - Banx & Ranx Remix",
+      "url": "https://open.spotify.com/track/2en8KkmwWVRnAFlUueeDs0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/4NwBGbGjwIYAFmL1fAQYHJ"
       },
@@ -667,34 +695,6 @@
       "duration_ms": 217315,
       "name": "Whoppa (feat. Sofia Reyes and Farina)",
       "url": "https://open.spotify.com/track/55BKv7jjl2JKL85vbBRnIS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1+1 (feat. Yandel & Sof\u00eda Reyes) [Banx & Ranx Remix]",
-        "url": "https://open.spotify.com/album/2ds7l2UKWHAj3nKX2Pfmdz"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Banx & Ranx",
-          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 204707,
-      "name": "1+1 (feat. Yandel & Sof\u00eda Reyes) - Banx & Ranx Remix",
-      "url": "https://open.spotify.com/track/2en8KkmwWVRnAFlUueeDs0"
     },
     {
       "added_at": null,

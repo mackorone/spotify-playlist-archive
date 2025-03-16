@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 353446,
+  "num_followers": 353532,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-02-07 13:12:37",
       "album": {
+        "name": "Amare",
+        "url": "https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K"
+      },
+      "artists": [
+        {
+          "name": "Valeron",
+          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
+        }
+      ],
+      "duration_ms": 410526,
+      "name": "Euphrates",
+      "url": "https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej"
+    },
+    {
+      "added_at": "2025-02-07 13:12:37",
+      "album": {
         "name": "Orient Spirit",
         "url": "https://open.spotify.com/album/5LuVSGPgIS5cgo3TbonA3m"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 147976,
       "name": "Orient Spirit",
       "url": "https://open.spotify.com/track/02BR08RbCSnp8yBBZLr6sO"
-    },
-    {
-      "added_at": "2025-02-07 13:12:37",
-      "album": {
-        "name": "Amare",
-        "url": "https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K"
-      },
-      "artists": [
-        {
-          "name": "Valeron",
-          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
-        }
-      ],
-      "duration_ms": 410526,
-      "name": "Euphrates",
-      "url": "https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej"
     },
     {
       "added_at": "2025-02-07 13:12:37",
@@ -735,6 +735,22 @@
       "duration_ms": 167375,
       "name": "Ethnique",
       "url": "https://open.spotify.com/track/4amCThUWU1U7Bbuh1FXHu4"
+    },
+    {
+      "added_at": "2025-02-07 13:12:37",
+      "album": {
+        "name": "Anlar",
+        "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
+      },
+      "artists": [
+        {
+          "name": "Valeron",
+          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
+        }
+      ],
+      "duration_ms": 430769,
+      "name": "Anlar",
+      "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
     },
     {
       "added_at": "2025-02-07 13:12:37",
@@ -807,22 +823,6 @@
     {
       "added_at": "2025-02-07 13:12:37",
       "album": {
-        "name": "Anlar",
-        "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
-      },
-      "artists": [
-        {
-          "name": "Valeron",
-          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
-        }
-      ],
-      "duration_ms": 430769,
-      "name": "Anlar",
-      "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
-    },
-    {
-      "added_at": "2025-02-07 13:12:37",
-      "album": {
         "name": "Lamouni",
         "url": "https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ"
       },
@@ -863,26 +863,6 @@
     {
       "added_at": "2025-02-07 13:12:37",
       "album": {
-        "name": "Hatiralar",
-        "url": "https://open.spotify.com/album/53OVidFRRrLBKb9avHiIBf"
-      },
-      "artists": [
-        {
-          "name": "Buddha-Bar",
-          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
-        },
-        {
-          "name": "Majnoon",
-          "url": "https://open.spotify.com/artist/1eeh7aqCuDjuEvPXhQSF1h"
-        }
-      ],
-      "duration_ms": 309599,
-      "name": "Hatiralar",
-      "url": "https://open.spotify.com/track/2qL4uCMnilvl0uIHcwYyWv"
-    },
-    {
-      "added_at": "2025-02-07 13:12:37",
-      "album": {
         "name": "Arabic Nights",
         "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 213737,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
+    },
+    {
+      "added_at": "2025-02-07 13:12:37",
+      "album": {
+        "name": "Hatiralar",
+        "url": "https://open.spotify.com/album/53OVidFRRrLBKb9avHiIBf"
+      },
+      "artists": [
+        {
+          "name": "Buddha-Bar",
+          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
+        },
+        {
+          "name": "Majnoon",
+          "url": "https://open.spotify.com/artist/1eeh7aqCuDjuEvPXhQSF1h"
+        }
+      ],
+      "duration_ms": 309599,
+      "name": "Hatiralar",
+      "url": "https://open.spotify.com/track/2qL4uCMnilvl0uIHcwYyWv"
     },
     {
       "added_at": "2025-02-07 13:12:37",
@@ -983,26 +983,6 @@
     {
       "added_at": "2025-02-07 13:12:37",
       "album": {
-        "name": "Bangladesh",
-        "url": "https://open.spotify.com/album/7LBsacPrDzwsZgZcrrHyKl"
-      },
-      "artists": [
-        {
-          "name": "Esotique",
-          "url": "https://open.spotify.com/artist/5s8gdykqfA3923GVtrtSUF"
-        },
-        {
-          "name": "Sandra N.",
-          "url": "https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L"
-        }
-      ],
-      "duration_ms": 147806,
-      "name": "Bangladesh",
-      "url": "https://open.spotify.com/track/2vmgBSWj0JLDIfvfqiflGf"
-    },
-    {
-      "added_at": "2025-02-07 13:12:37",
-      "album": {
         "name": "Cairo's Scent",
         "url": "https://open.spotify.com/album/1PNCLHV2FhaDjvjcyqqyv0"
       },
@@ -1023,22 +1003,22 @@
     {
       "added_at": "2025-02-07 13:12:37",
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/66MArV9C0dNXz5P76eN4Kb"
+        "name": "Bangladesh",
+        "url": "https://open.spotify.com/album/7LBsacPrDzwsZgZcrrHyKl"
       },
       "artists": [
         {
-          "name": "Acid Arab",
-          "url": "https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7"
+          "name": "Esotique",
+          "url": "https://open.spotify.com/artist/5s8gdykqfA3923GVtrtSUF"
         },
         {
-          "name": "Cem Y\u0131ld\u0131z",
-          "url": "https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr"
+          "name": "Sandra N.",
+          "url": "https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L"
         }
       ],
-      "duration_ms": 184761,
-      "name": "Atlas",
-      "url": "https://open.spotify.com/track/5ZPLRCJauBNOxzacXmVNjR"
+      "duration_ms": 147806,
+      "name": "Bangladesh",
+      "url": "https://open.spotify.com/track/2vmgBSWj0JLDIfvfqiflGf"
     },
     {
       "added_at": "2025-02-07 13:12:37",
@@ -1059,6 +1039,26 @@
       "duration_ms": 334889,
       "name": "Beirut",
       "url": "https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7"
+    },
+    {
+      "added_at": "2025-02-07 13:12:37",
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/66MArV9C0dNXz5P76eN4Kb"
+      },
+      "artists": [
+        {
+          "name": "Acid Arab",
+          "url": "https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7"
+        },
+        {
+          "name": "Cem Y\u0131ld\u0131z",
+          "url": "https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/5ZPLRCJauBNOxzacXmVNjR"
     },
     {
       "added_at": "2025-02-07 13:12:37",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-02-07 13:12:37",
       "album": {
-        "name": "Roots LP",
-        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
-      },
-      "artists": [
-        {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
-        }
-      ],
-      "duration_ms": 178153,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
-    },
-    {
-      "added_at": "2025-02-07 13:12:37",
-      "album": {
         "name": "Time Flies",
         "url": "https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 179512,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8"
+    },
+    {
+      "added_at": "2025-02-07 13:12:37",
+      "album": {
+        "name": "Roots LP",
+        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        }
+      ],
+      "duration_ms": 178153,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
     },
     {
       "added_at": "2025-02-07 13:12:37",
@@ -1395,38 +1395,6 @@
     {
       "added_at": "2025-02-07 13:12:37",
       "album": {
-        "name": "Assos",
-        "url": "https://open.spotify.com/album/2H9wB8ZyyfCSdqSg96Kpx3"
-      },
-      "artists": [
-        {
-          "name": "Furkan Sert",
-          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
-        }
-      ],
-      "duration_ms": 248744,
-      "name": "Assos",
-      "url": "https://open.spotify.com/track/2CzT0NyJHHA3HM5NiEA7Ut"
-    },
-    {
-      "added_at": "2025-02-07 13:12:37",
-      "album": {
-        "name": "El Hob",
-        "url": "https://open.spotify.com/album/1V2RgQJtSriNJc5ai9CgPw"
-      },
-      "artists": [
-        {
-          "name": "Pharonic Electronic",
-          "url": "https://open.spotify.com/artist/2gQv5UbFmjuJ6jDIeLG6TA"
-        }
-      ],
-      "duration_ms": 214634,
-      "name": "El Hob",
-      "url": "https://open.spotify.com/track/07fRbyvuAdno6U4NtnlI2c"
-    },
-    {
-      "added_at": "2025-02-07 13:12:37",
-      "album": {
         "name": "Mosaic",
         "url": "https://open.spotify.com/album/0VvFnzjhJdWsi5GhSd1gye"
       },
@@ -1471,6 +1439,38 @@
       "duration_ms": 332000,
       "name": "La Blanche",
       "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
+    },
+    {
+      "added_at": "2025-02-07 13:12:37",
+      "album": {
+        "name": "Assos",
+        "url": "https://open.spotify.com/album/2H9wB8ZyyfCSdqSg96Kpx3"
+      },
+      "artists": [
+        {
+          "name": "Furkan Sert",
+          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+        }
+      ],
+      "duration_ms": 248744,
+      "name": "Assos",
+      "url": "https://open.spotify.com/track/2CzT0NyJHHA3HM5NiEA7Ut"
+    },
+    {
+      "added_at": "2025-02-07 13:12:37",
+      "album": {
+        "name": "El Hob",
+        "url": "https://open.spotify.com/album/1V2RgQJtSriNJc5ai9CgPw"
+      },
+      "artists": [
+        {
+          "name": "Pharonic Electronic",
+          "url": "https://open.spotify.com/artist/2gQv5UbFmjuJ6jDIeLG6TA"
+        }
+      ],
+      "duration_ms": 214634,
+      "name": "El Hob",
+      "url": "https://open.spotify.com/track/07fRbyvuAdno6U4NtnlI2c"
     },
     {
       "added_at": "2025-02-07 13:12:37",
@@ -1563,26 +1563,26 @@
     {
       "added_at": "2025-02-07 13:12:37",
       "album": {
-        "name": "Bladi B3ida",
-        "url": "https://open.spotify.com/album/4B1cXT0JtC0f0e0sbODGow"
+        "name": "Salam",
+        "url": "https://open.spotify.com/album/6PpgtyminvgtcWIsGsdbzA"
       },
       "artists": [
         {
-          "name": "Momo Ryuk",
-          "url": "https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE"
-        },
-        {
-          "name": "Khalid Elhamri",
-          "url": "https://open.spotify.com/artist/0HP4N5HHfnJAoUlBjKewtu"
+          "name": "Anis Karek",
+          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
         },
         {
           "name": "Cafe De Anatolia",
           "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        },
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
         }
       ],
-      "duration_ms": 319851,
-      "name": "Bladi B3ida",
-      "url": "https://open.spotify.com/track/2h519R5O4HhdPjboqsOond"
+      "duration_ms": 273502,
+      "name": "Rhim - Jad Halal Remix",
+      "url": "https://open.spotify.com/track/34aFMrV57fY6pxyNRsDNon"
     },
     {
       "added_at": "2025-02-07 13:12:37",
@@ -1607,26 +1607,26 @@
     {
       "added_at": "2025-02-07 13:12:37",
       "album": {
-        "name": "Salam",
-        "url": "https://open.spotify.com/album/6PpgtyminvgtcWIsGsdbzA"
+        "name": "Bladi B3ida",
+        "url": "https://open.spotify.com/album/4B1cXT0JtC0f0e0sbODGow"
       },
       "artists": [
         {
-          "name": "Anis Karek",
-          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
+          "name": "Momo Ryuk",
+          "url": "https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE"
+        },
+        {
+          "name": "Khalid Elhamri",
+          "url": "https://open.spotify.com/artist/0HP4N5HHfnJAoUlBjKewtu"
         },
         {
           "name": "Cafe De Anatolia",
           "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        },
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
         }
       ],
-      "duration_ms": 273502,
-      "name": "Rhim - Jad Halal Remix",
-      "url": "https://open.spotify.com/track/34aFMrV57fY6pxyNRsDNon"
+      "duration_ms": 319851,
+      "name": "Bladi B3ida",
+      "url": "https://open.spotify.com/track/2h519R5O4HhdPjboqsOond"
     },
     {
       "added_at": "2025-02-07 13:12:37",

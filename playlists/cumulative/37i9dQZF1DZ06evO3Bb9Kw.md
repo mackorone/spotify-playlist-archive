@@ -4,7 +4,7 @@
 
 > This is Miranda Lambert\. The essential tracks, all in one playlist.
 
-106 songs - 6 hr 9 min
+107 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Bramble Rose](https://open.spotify.com/track/3ZM4ulEztk8iVlUJvf42Je) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2), [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Cass County](https://open.spotify.com/album/3FLTH6ZJgA09fSirMfGMhX) | 4:30 | 2022-11-25 | 2023-08-22 |
 | [Bramble Rose](https://open.spotify.com/track/5jrzQx2i7TGqYGWpNmkH8n) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2), [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Cass County \(Deluxe\)](https://open.spotify.com/album/3qsw8b2cxvBthq1OQIKBB3) | 4:30 | 2023-09-15 | 2025-02-24 |
 | [Carousel \- Live from the 2023 ACM Awards](https://open.spotify.com/track/6xM7M3mgtr6WhrfR38wxYQ) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Carousel \(Live from the 2023 ACM Awards\)](https://open.spotify.com/album/6f1cHtgOXyPgqvxYXHnP3Q) | 4:12 | 2023-10-10 | 2023-12-14 |
-| [Crazy Ex\-Girlfriend](https://open.spotify.com/track/2E9n1Zpby16xLUPoujMUSd) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 3:07 | 2022-09-08 |  |
+| [Crazy Ex\-Girlfriend](https://open.spotify.com/track/2E9n1Zpby16xLUPoujMUSd) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 3:07 | 2022-09-08 | 2025-03-16 |
 | [Dammit Randy](https://open.spotify.com/track/1GUvNctSDGXpo7S3H3uxpT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Dammit Randy](https://open.spotify.com/album/5GU8B79H8LAguIyCyVh5A7) | 2:59 | 2024-06-30 |  |
 | [Drowns The Whiskey \(feat\. Miranda Lambert\)](https://open.spotify.com/track/2dwoqUYTy6SOy1dFqcTndC) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Rearview Town](https://open.spotify.com/album/5irmzpXixcdNF2ZJjcrN0A) | 3:22 | 2022-09-08 | 2023-12-14 |
 | [Drowns The Whiskey \(feat\. Miranda Lambert\)](https://open.spotify.com/track/4ERE39Qs60GxA6gUuGhQz6) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Rearview Town](https://open.spotify.com/album/0m3ZCK4dSvyq6KUzEWdMhE) | 3:22 | 2023-12-13 |  |
@@ -47,6 +47,7 @@
 | [Highway Vagabond](https://open.spotify.com/track/1m6un0uWcRlNcJHBQ1lKAo) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 3:53 | 2023-08-30 | 2024-07-22 |
 | [Holding On to You](https://open.spotify.com/track/7A35lRz4cm0QkbnlNAJPtm) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 4:32 | 2022-09-08 |  |
 | [Hush Hush](https://open.spotify.com/track/2zwN5UpzCDnxk4tqWDaJF4) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Annie Up](https://open.spotify.com/album/2npDnxNIX1mnm332JezYVG) | 3:23 | 2022-10-12 | 2024-09-15 |
+| [I Don't Love Here Anymore](https://open.spotify.com/track/1NvxMFUJm32lDXdxgTfd5z) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene \(20th Anniversary Edition\)](https://open.spotify.com/album/3m9iIzYKrmMa4tLjASBqFs) | 3:59 | 2025-03-16 |  |
 | [I Feel A Sin Comin' On](https://open.spotify.com/track/2UJCeZzKOzrH6utaz7NoFr) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Annie Up](https://open.spotify.com/album/2npDnxNIX1mnm332JezYVG) | 3:18 | 2022-09-08 |  |
 | [I Hate Love Songs](https://open.spotify.com/track/60FQC7n8SYjf8zHjifFJ7U) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Postcards From Texas](https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK) | 3:35 | 2024-09-17 | 2024-10-21 |
 | [I'll Be Lovin' You](https://open.spotify.com/track/1io22Thmgw4SvhVBNawJD5) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:09 | 2022-10-12 |  |

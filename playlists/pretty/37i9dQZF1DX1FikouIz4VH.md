@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1FikouIz4VH.md) - [plain]
 
 > Hear all of TAEYANG's biggest and best hits in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,473 likes - 68 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,487 likes - 68 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

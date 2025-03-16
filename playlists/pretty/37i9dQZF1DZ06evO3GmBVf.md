@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 
 > This is Lefty Sm\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,076 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,160 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 49 | [Nada Es Perfecto](https://open.spotify.com/track/0qn3qZwkLKB6zelSSdUUX9) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Nada Es Perfecto](https://open.spotify.com/album/0KjxP6TB25u8qxDLfnEiJq) | 3:08 |
 | 50 | [Ni Por Favor \(Si No Me Quieres Ni Modo](https://open.spotify.com/track/3Tn6VX6COjUGRJUTzjYsdX) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Omar Chaparro](https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6) | [Ni Por Favor \(Si No Me Quieres Ni Modo\)](https://open.spotify.com/album/17o7Jz7uVm9UiqgKcLiMK8) | 3:08 |
 
-Snapshot ID: `Z9IgAAAAAADIzG5TTMRPofzXl3SAm9F+`
+Snapshot ID: `Z9NxgAAAAACs1Ls+fnjR2gWORL1YcxKQ`

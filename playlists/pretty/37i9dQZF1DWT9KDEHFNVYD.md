@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations\. CAN on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,605 likes - 100 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,610 likes - 100 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 21 | [Hero](https://open.spotify.com/track/6tQvfblsmRCrZXx7xhDCqT) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [Neu! Digital Box](https://open.spotify.com/album/7HRlqkxth9vE0F35S6JGvM) | 7:11 |
 | 22 | [Rivers of Mind](https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL) | [Rose City Band](https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK) | [Rose City Band](https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs) | 6:34 |
 | 23 | [Spiders \(Kidsmoke\)](https://open.spotify.com/track/5VT6IkQWpeXhWa7ZWjKDQp) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [A Ghost Is Born \(Deluxe Version\)](https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF) | 10:42 |
-| 24 | [Fluffy Kosmisch](https://open.spotify.com/track/3okCTUkxlfTKgL1NQzAr5K) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Masana Temples](https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS) | 3:40 |
+| 24 | [Nowhere Again](https://open.spotify.com/track/6C7Zo57KvXSMdMZDW5fzD6) | [Secret Machines](https://open.spotify.com/artist/67HNxzMi851bSGexRUBtgn) | [Now Here Is Nowhere](https://open.spotify.com/album/2kNoabGHULl2qxquLyOscg) | 4:13 |
 | 25 | [One More Night](https://open.spotify.com/track/5VkqPsfrp8YYTd4GtWId5U) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Ege Bamyasi](https://open.spotify.com/album/4eoETnSr4alYiNdIOwCeQb) | 5:35 |
-| 26 | [Nowhere Again](https://open.spotify.com/track/6C7Zo57KvXSMdMZDW5fzD6) | [Secret Machines](https://open.spotify.com/artist/67HNxzMi851bSGexRUBtgn) | [Now Here Is Nowhere](https://open.spotify.com/album/2kNoabGHULl2qxquLyOscg) | 4:13 |
+| 26 | [Fluffy Kosmisch](https://open.spotify.com/track/3okCTUkxlfTKgL1NQzAr5K) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Masana Temples](https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS) | 3:40 |
 | 27 | [Archangels Thunderbird](https://open.spotify.com/track/0oshIsMu5i5E2wTBIj9NxF) | [Amon Düül II](https://open.spotify.com/artist/1TUNPwZWJyhaNZpLZzhOUj) | [Yeti](https://open.spotify.com/album/4ip7L3AtG2pLgZLhAON3va) | 3:33 |
 | 28 | [King's Lead Hat \- 2004 Digital Remaster](https://open.spotify.com/track/4kWkthAKzqYgI2tk0iHOqv) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Before And After Science](https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u) | 3:56 |
 | 29 | [Light: Look at Your Sun](https://open.spotify.com/track/2gWT8m0KpmVVboR2MzdneA) | [Ash Ra Tempel](https://open.spotify.com/artist/5f6eufK2ZswS7hxhEZyIG9), [Manuel Göttsching](https://open.spotify.com/artist/38KMWWA4MPJ6VxlO9kx6CU) | [Schwingungen \(Mixed Tracks\)](https://open.spotify.com/album/6GsU6r8GoVcTXOLZK417nz) | 6:36 |
@@ -75,11 +75,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 65 | [Asteroid Witch](https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 |
 | 66 | [Conductor 71](https://open.spotify.com/track/1dqjTVRISUGI2eKjgcndIz) | [Fujiya & Miyagi](https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU) | [Transparent Things](https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI) | 4:10 |
 | 67 | [Pass The Hatchet, I Think I'm Goodkind](https://open.spotify.com/track/2Sz8LPsM6ltd9sb34H6Oz8) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Am Not Afraid Of You And I Will Beat Your Ass](https://open.spotify.com/album/7dU9MbmRJaTX7JJzAd5bqL) | 10:46 |
-| 68 | [Don't Blow Experiment](https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Panther Rotate](https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR) | 5:09 |
-| 69 | [Final Weapon](https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Mandatory Enjoyment](https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc) | 3:04 |
-| 70 | [Ecdysis!](https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Ecdysis!](https://open.spotify.com/album/7ofV8dUpKkDgd068rK3Vly) | 6:29 |
-| 71 | [Osa Polar](https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Osa Polar](https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys) | 4:42 |
-| 72 | [The Sound of all Things](https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Balance](https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp) | 6:21 |
+| 68 | [Ecdysis!](https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Ecdysis!](https://open.spotify.com/album/7ofV8dUpKkDgd068rK3Vly) | 6:29 |
+| 69 | [The Sound of all Things](https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Balance](https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp) | 6:21 |
+| 70 | [Final Weapon](https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Mandatory Enjoyment](https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc) | 3:04 |
+| 71 | [Don't Blow Experiment](https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Panther Rotate](https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR) | 5:09 |
+| 72 | [Osa Polar](https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Osa Polar](https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys) | 4:42 |
 | 73 | [Saturnine Night](https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3) | [Deradoorian](https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP) | [Find The Sun](https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI) | 7:06 |
 | 74 | [Für Dich](https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43) | [Thomas Dinger](https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm) | [Für mich](https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO) | 9:26 |
 | 75 | [Krautrock](https://open.spotify.com/track/7h9hsEOJbNH2Y46ZR5NFfQ) | [Faust](https://open.spotify.com/artist/4yBBNmdvVaoPEnr2lt14q7) | [Faust IV](https://open.spotify.com/album/6ou63QavbhaQvDTQ3BCkPv) | 11:47 |

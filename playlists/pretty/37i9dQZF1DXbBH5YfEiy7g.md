@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2?si=Oq1y9ZUpQhqRqQIJoc4jcg">Benjamin Dube</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,422 likes - 107 songs - 11 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,516 likes - 107 songs - 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

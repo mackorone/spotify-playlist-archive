@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > A journey into the unknown, dark, and experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,278 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,295 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 3 | [Supersoaker](https://open.spotify.com/track/6szXMlKnHwiPbLfrqp44Jk) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Trinity](https://open.spotify.com/album/4feqEnTdNbrecCd7FSvHEA) | 3:04 |
 | 4 | [Zone 1 to 6000](https://open.spotify.com/track/4dKYEhGEEpTZFOXBAhDOcA) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Weighing of the Heart](https://open.spotify.com/album/1wv2yreeNsyBNnvlhOhvjO) | 3:25 |
 | 5 | [To be a rose](https://open.spotify.com/track/1EkxfGivWsIwCJTdz359xl) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [To be a rose](https://open.spotify.com/album/5gaZk8C7T3dkC8hVn8Wvs3) | 3:53 |
-| 6 | [Fade Into You](https://open.spotify.com/track/5LQYVH9M3TQ8tfPUPpruOr) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Fade Into You \[2020\]](https://open.spotify.com/album/3237UyTC0HDTYKs24IbkM4) | 2:44 |
-| 7 | [Trying](https://open.spotify.com/track/25k70O2pKn9Zn0HknWrS8x) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 3:41 |
+| 6 | [Trying](https://open.spotify.com/track/25k70O2pKn9Zn0HknWrS8x) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 3:41 |
+| 7 | [Fade Into You](https://open.spotify.com/track/5LQYVH9M3TQ8tfPUPpruOr) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Fade Into You \[2020\]](https://open.spotify.com/album/3237UyTC0HDTYKs24IbkM4) | 2:44 |
 | 8 | [getting to know each other](https://open.spotify.com/track/3WUPR4ht6G86UXJ9FYeiO3) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [getting to know each other](https://open.spotify.com/album/219YZTllbF29sMZ96jg7Kb) | 3:25 |
 | 9 | [Carme](https://open.spotify.com/track/7MHXBGx57HGguI8xcMzuB7) | [Daniela Pes](https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c) | [SPIRA](https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H) | 5:14 |
 | 10 | [SONAR](https://open.spotify.com/track/4Pi8sTgUqsF6axhBVcHKwV) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [SONAR](https://open.spotify.com/album/1hayEn7szkucmcDnSi1Ka1) | 3:17 |
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 26 | [Raat Ki Rani](https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Raat Ki Rani](https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx) | 5:13 |
 | 27 | [No Limit](https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [trip9love...???](https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7) | 3:02 |
 | 28 | [Going Home \- IRCAM Version](https://open.spotify.com/track/5RC9SAPnBXj57ovnvUslvl) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Twin Color, Vol\. 1](https://open.spotify.com/album/1H8oLIUoU8Fq3yGBpZWp9Y) | 7:47 |
-| 29 | [Ancient DNA](https://open.spotify.com/track/2oCrapjL0YITkCmr3ny9pe) | [Masma Dream World](https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu) | [Ancient DNA](https://open.spotify.com/album/2VBLfp4stOE060BYiQGalx) | 2:43 |
+| 29 | [Closer Now](https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr) | [Earth Trax](https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ) | [Closer Now](https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC) | 4:42 |
 | 30 | [A Star](https://open.spotify.com/track/3nuNdgNMwAZMtt9H87fAaK) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Rocky Top Ballads](https://open.spotify.com/album/55FiMoQX3KBZo5hawtpofc) | 4:21 |
 | 31 | [Hello](https://open.spotify.com/track/0MBibh6TQByFYv5Po4nbNk) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Hello](https://open.spotify.com/album/6m70npuQphUT3nzx0AOhff) | 5:08 |
 | 32 | [Mata Hari](https://open.spotify.com/track/7wdoS8Tczz8wjhVjVsttIs) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva](https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M) | 3:47 |
-| 33 | [Closer Now](https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr) | [Earth Trax](https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ) | [Closer Now](https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC) | 4:42 |
+| 33 | [Ancient DNA](https://open.spotify.com/track/2oCrapjL0YITkCmr3ny9pe) | [Masma Dream World](https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu) | [Ancient DNA](https://open.spotify.com/album/2VBLfp4stOE060BYiQGalx) | 2:43 |
 | 34 | [Trececerotres](https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Trececerotres](https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO) | 2:15 |
 | 35 | [I Wait](https://open.spotify.com/track/2dqTl457b97bi22hZfgLfd) | [Milan W.](https://open.spotify.com/artist/4ZCux8WXdeKCoARMg1JSok) | [Leave Another Day](https://open.spotify.com/album/40UEAKeQY7F59p1dLFrD24) | 3:15 |
 | 36 | [ways of being](https://open.spotify.com/track/4Zl0FwwXFujfHVrTYyLNA0) | [Tristan Arp](https://open.spotify.com/artist/5PvxHyYKtHsyyI5XjdqnD9), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [a pool, a portal](https://open.spotify.com/album/4u4RJlUhvlenhfRpcmAXkQ) | 4:05 |
@@ -76,11 +76,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 66 | [Makkuroi Mizu \(まっくろい水）](https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2) | 6:03 |
 | 67 | [One](https://open.spotify.com/track/0T8rGG9QR9DjrbEoNsB3p5) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [LP.8](https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh) | 3:54 |
 | 68 | [Ros Elavy](https://open.spotify.com/track/7G7ZseAC0yA2tmojHC92no) | [CLARAGUILAR](https://open.spotify.com/artist/1NZsUhjp15d6Vcm2vsLs6R) | [Figura](https://open.spotify.com/album/0MnDnjwq6oHY5eFnzz3OBa) | 5:39 |
-| 69 | [First Swim, A Water Chant](https://open.spotify.com/track/3CRLEMYQG6PMUnbTqfeKVM) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva \(Deluxe Edition\)](https://open.spotify.com/album/5RlbXZBXYwJJ8fmIysFdrV) | 3:43 |
-| 70 | [ANNA](https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [Pt\. I](https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK) | 4:01 |
+| 69 | [ANNA](https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [Pt\. I](https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK) | 4:01 |
+| 70 | [First Swim, A Water Chant](https://open.spotify.com/track/3CRLEMYQG6PMUnbTqfeKVM) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva \(Deluxe Edition\)](https://open.spotify.com/album/5RlbXZBXYwJJ8fmIysFdrV) | 3:43 |
 | 71 | [Lovegaze](https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 4:51 |
-| 72 | [An Ocean](https://open.spotify.com/track/6G6W3MWjKYMNpKo88KIsgf) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [An Ocean](https://open.spotify.com/album/1FEfRYCD9GvAeYUBG3ysIU) | 4:19 |
-| 73 | [Drum Jump](https://open.spotify.com/track/0mCZfrseEMpeQlCLf99UyG) | [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [Lucha Libre](https://open.spotify.com/album/5AaVrBrxC3MQ18DGqU6XUA) | 4:12 |
+| 72 | [Drum Jump](https://open.spotify.com/track/0mCZfrseEMpeQlCLf99UyG) | [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [Lucha Libre](https://open.spotify.com/album/5AaVrBrxC3MQ18DGqU6XUA) | 4:12 |
+| 73 | [An Ocean](https://open.spotify.com/track/6G6W3MWjKYMNpKo88KIsgf) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [An Ocean](https://open.spotify.com/album/1FEfRYCD9GvAeYUBG3ysIU) | 4:19 |
 | 74 | [The Fountain](https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 3:16 |
 | 75 | [Marte](https://open.spotify.com/track/0O3AWOwZa4KemTGCVbelEG) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [Marte](https://open.spotify.com/album/4ytkKIoWlf8cMAznG8h83s) | 2:59 |
 

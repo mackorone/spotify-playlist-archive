@@ -1,6 +1,6 @@
 {
   "description": "Legendary tracks been produced on a TR-909 drum machine. Cover: Jeff Mills",
-  "num_followers": 170637,
+  "num_followers": 170715,
   "original_name": "909 Classics",
   "owner": {
     "name": "Spotify",
@@ -639,26 +639,6 @@
     {
       "added_at": "2024-07-10 08:25:56",
       "album": {
-        "name": "Boom-Boom",
-        "url": "https://open.spotify.com/album/5BFbZ5FhSIrz7JUpqrS1nL"
-      },
-      "artists": [
-        {
-          "name": "dancer",
-          "url": "https://open.spotify.com/artist/3hst5vmCCxskyGcL4kL1gb"
-        },
-        {
-          "name": "Frankie Knuckles",
-          "url": "https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc"
-        }
-      ],
-      "duration_ms": 465600,
-      "name": "Boom-Boom",
-      "url": "https://open.spotify.com/track/7xpqxbOxqFTltGFvzdu6aV"
-    },
-    {
-      "added_at": "2024-07-10 08:25:56",
-      "album": {
         "name": "Boogie Mandroid",
         "url": "https://open.spotify.com/album/112lhVvdNHLnRAugtFGWtM"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 341768,
       "name": "Boogie Mandroid",
       "url": "https://open.spotify.com/track/5FoAxha7zuDWQnPz5G0ARN"
+    },
+    {
+      "added_at": "2024-07-10 08:25:56",
+      "album": {
+        "name": "Boom-Boom",
+        "url": "https://open.spotify.com/album/5BFbZ5FhSIrz7JUpqrS1nL"
+      },
+      "artists": [
+        {
+          "name": "dancer",
+          "url": "https://open.spotify.com/artist/3hst5vmCCxskyGcL4kL1gb"
+        },
+        {
+          "name": "Frankie Knuckles",
+          "url": "https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc"
+        }
+      ],
+      "duration_ms": 465600,
+      "name": "Boom-Boom",
+      "url": "https://open.spotify.com/track/7xpqxbOxqFTltGFvzdu6aV"
     },
     {
       "added_at": "2024-07-10 08:25:56",

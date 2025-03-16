@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Sascha Braemer
 
-[Spotify](https://open.spotify.com/user/spotify) - 692,478 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 692,587 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 26 | [We Talk About Dreams](https://open.spotify.com/track/44FdC5CjJJwfecc7BYCE5Q) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [We Talk About Dreams](https://open.spotify.com/album/5GjfIhQtGr2GcbzxHA6yEg) | 6:10 |
 | 27 | [Veil of Night](https://open.spotify.com/track/2G8P3pWEHuIySnOc8NToRr) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Veil of Night](https://open.spotify.com/album/2WDn0XMOmrOAWZtOlZOTCE) | 3:42 |
 | 28 | [Eyes On Me](https://open.spotify.com/track/1lbZLhKw18UAtrijt6WoUg) | [LYOD](https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq), [Alexis Troy](https://open.spotify.com/artist/182gsOkvqjzrlci90dDwAY) | [Nightfall](https://open.spotify.com/album/1DYRsVPgInNJK9a4EP374B) | 2:18 |
-| 29 | [It Gets Better \(Forever Mix\)](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [It Gets Better \(Forever Mix\)](https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO) | 4:12 |
+| 29 | [It Gets Better \- Edit](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [It Gets Better \(Forever Mix\)](https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO) | 4:12 |
 | 30 | [Alive](https://open.spotify.com/track/3d9pLywFQIQ9ikNBNOaXpK) | [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Alive](https://open.spotify.com/album/0U5jwWCKLhrLmnxUwufCwT) | 5:34 |
 | 31 | [Planet Pulse](https://open.spotify.com/track/5UERuEdwVCNOy65yYQmAPy) | [Marc DePulse](https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN) | [Planet Pulse](https://open.spotify.com/album/4ceZXQJD4CkwWaTlhwBZBK) | 5:10 |
 | 32 | [Stay Strong](https://open.spotify.com/track/1aQm1LW8GJ6vTE7yjZv6yU) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff), [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA) | [Around Us](https://open.spotify.com/album/5zq6PCzWY8vv0E8vkLfiIU) | 3:15 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 63 | [KIDS](https://open.spotify.com/track/1gbpoJp23VJy1e2IwZA9EP) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Neon Capital](https://open.spotify.com/artist/7oat0qyfHf6VP8SnMwSN0J) | [KIDS](https://open.spotify.com/album/1XDN3kAubwydrfiG1x2GSd) | 3:34 |
 | 64 | [Bacilando](https://open.spotify.com/track/4n09v7GgxwrddyFYpT3xJ8) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Fafaq](https://open.spotify.com/artist/0EK2nCt5jxbkN2HCmtKy4V) | [Bacilando](https://open.spotify.com/album/4NAKAQ39iDgxXEF2lDKmzF) | 2:50 |
 | 65 | [Booster](https://open.spotify.com/track/4Je6zI5XLPIjk9egvQxtVp) | [Dachshund](https://open.spotify.com/artist/0UusOWDKVBRFrZoKJdVuWv) | [Booster](https://open.spotify.com/album/1yzgttLXANeE2Fd1hy7RS1) | 6:18 |
-| 66 | [Alone](https://open.spotify.com/track/0DyeQptisE75CoGdCCcKL0) | [Hollt](https://open.spotify.com/artist/7G5LXo0b0pFlVzgWNGOngl), [Atlas Echo](https://open.spotify.com/artist/0ipiRUCOEvCkBW8hwatoUt) | [Lunar Dust](https://open.spotify.com/album/5ULZa2Tc9RjpFv0H3LJril) | 4:37 |
+| 66 | [Alone](https://open.spotify.com/track/0DyeQptisE75CoGdCCcKL0) | [Hollt](https://open.spotify.com/artist/7G5LXo0b0pFlVzgWNGOngl), [Atlas Echo](https://open.spotify.com/artist/2qHYq7dkHsfxnfmNYeCtOn) | [Lunar Dust](https://open.spotify.com/album/5ULZa2Tc9RjpFv0H3LJril) | 4:37 |
 | 67 | [Eventide](https://open.spotify.com/track/2gjvB3yJw9toGYfsdDXrFg) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Eventide](https://open.spotify.com/album/2OkJhrj1cXGzsJI0dFDOzk) | 7:00 |
 | 68 | [Hidden Worlds](https://open.spotify.com/track/0dfviniUlL2iJ2BpGzagtz) | [NoNameLeft](https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT), [Mateo!](https://open.spotify.com/artist/3XTXJ0qA1B0EZxqdPcISv2) | [Hidden Worlds](https://open.spotify.com/album/6C7nuRBg8wqrqruRXAphVV) | 4:01 |
 | 69 | [Who You Talking To ? \- Radio\-Edit](https://open.spotify.com/track/44MUfjvDTzTHnosJSORMa1) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Who You Talking To ?](https://open.spotify.com/album/3jaXPHRq3JEZa4hzfYGhFc) | 2:47 |

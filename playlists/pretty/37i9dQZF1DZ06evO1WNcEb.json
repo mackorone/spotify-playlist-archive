@@ -1,13 +1,33 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66966,
+  "num_followers": 66967,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAAdO/XAhXHjOUaxP3NebXvZ",
+  "snapshot_id": "Z9NxgAAAAACQ6u0Bu/oA5kzT56N0MWbf",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Podes Fazer de Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5AMT8bkT4k7vDR97HmQ0EH"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "duration_ms": 306240,
+      "name": "Tu Podes Fazer de Novo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0CKn82sbrhFWQTgCCNALw2"
+    },
     {
       "added_at": null,
       "album": {
@@ -895,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sonhos N\u00e3o T\u00eam Fim",
+        "url": "https://open.spotify.com/album/4dTjsSkmgBLEfPrtmqerb5"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 328051,
+      "name": "Basta um Olhar",
+      "url": "https://open.spotify.com/track/3DhNZYL6m4JP76g1zd4Da3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sopra Esp\u00edrito (Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo)",
         "url": "https://open.spotify.com/album/4xEhmC9MdsDeExOCIBTPVo"
       },
@@ -919,26 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Existe Um Nome (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4gfqFsEIrYyTJasmmfMq5E"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 326263,
-      "name": "Existe Um Nome - Ao Vivo",
-      "url": "https://open.spotify.com/track/0pwAY9EOGY8QjGwaXZuDJG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus no Controle",
         "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
       },
@@ -955,18 +971,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonhos N\u00e3o T\u00eam Fim",
-        "url": "https://open.spotify.com/album/4dTjsSkmgBLEfPrtmqerb5"
+        "name": "Existe Um Nome (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4gfqFsEIrYyTJasmmfMq5E"
       },
       "artists": [
         {
           "name": "Eyshila",
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 328051,
-      "name": "Basta um Olhar",
-      "url": "https://open.spotify.com/track/3DhNZYL6m4JP76g1zd4Da3"
+      "duration_ms": 326263,
+      "name": "Existe Um Nome - Ao Vivo",
+      "url": "https://open.spotify.com/track/0pwAY9EOGY8QjGwaXZuDJG"
     },
     {
       "added_at": null,
@@ -1043,26 +1063,6 @@
       "duration_ms": 245560,
       "name": "Calma, Por favor (Ao Vivo)",
       "url": "https://open.spotify.com/track/4ALbBPxJDFglnJZYRdUJLb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ele Vem",
-        "url": "https://open.spotify.com/album/6gjRM3VHMVsfmCropNjAg0"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Mergulhar",
-          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 403586,
-      "name": "Ele Vem",
-      "url": "https://open.spotify.com/track/7DaTsKtZb7JwH9aYV2ZSbb"
     },
     {
       "added_at": null,

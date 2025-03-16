@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 19911,
+  "num_followers": 19915,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAD2jrbT/1lBRHAVZPU39QGz",
+  "snapshot_id": "Z9NxgAAAAABslMTPbeW4S5JCm7HSGKrD",
   "tracks": [
     {
       "added_at": null,
@@ -139,26 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skin Tight",
-        "url": "https://open.spotify.com/album/0xkIlDRadF78PKqsAS2DSo"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Efya",
-          "url": "https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6"
-        }
-      ],
-      "duration_ms": 248626,
-      "name": "Skin Tight",
-      "url": "https://open.spotify.com/track/43C8ga8Z7MkOc1TmEzXcJ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Me Live (feat. Anne-Marie & Mr Eazi)",
         "url": "https://open.spotify.com/album/4lbrKowAEUP76TRU57FAJI"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 205760,
       "name": "Let Me Live (feat. Anne-Marie & Mr Eazi)",
       "url": "https://open.spotify.com/track/3D1rlKmZdpYUeMtRRLNawc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skin Tight",
+        "url": "https://open.spotify.com/album/0xkIlDRadF78PKqsAS2DSo"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Efya",
+          "url": "https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6"
+        }
+      ],
+      "duration_ms": 248626,
+      "name": "Skin Tight",
+      "url": "https://open.spotify.com/track/43C8ga8Z7MkOc1TmEzXcJ3"
     },
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00e0\u00e0j\u00ed",
-        "url": "https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 149741,
-      "name": "F\u00e0\u00e0j\u00ed",
-      "url": "https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dame Un Break (Remix)",
         "url": "https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 262219,
       "name": "Dame Un Break - Remix",
       "url": "https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00e0\u00e0j\u00ed",
+        "url": "https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 149741,
+      "name": "F\u00e0\u00e0j\u00ed",
+      "url": "https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09"
     },
     {
       "added_at": null,

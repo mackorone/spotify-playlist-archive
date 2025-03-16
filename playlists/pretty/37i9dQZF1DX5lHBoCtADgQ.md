@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Gurdas Maan
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,594 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,600 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 6 | [Challa \- Spotify Singles](https://open.spotify.com/track/3zvzQBIjjVRTdYmsdiBvNm) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Challa \- Spotify Singles](https://open.spotify.com/album/3u7kkfoyrcF13kxMn3o23J) | 4:43 |
 | 7 | [Yaar Da Deedar](https://open.spotify.com/track/4O80V1njTN0UR7zOoAPcMz) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm), [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv), [HAVI](https://open.spotify.com/artist/3P8ZD2X9kQJfeVcjr3GLP4) | [Yaar Da Deedar](https://open.spotify.com/album/1kmdcWwbSifyKdDBHPLu2O) | 2:43 |
 | 8 | [Kut Kut Bajra](https://open.spotify.com/track/6fmbKu5CWedYNefsiT9CcE) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Kut Kut Bajra](https://open.spotify.com/album/0jsdirkN0wv9O1DFb5xp93) | 2:35 |
-| 9 | [Buhe Bariyan](https://open.spotify.com/track/7pLAInWOrNnbR3RBsz5HZK) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8) | [Buhe Bariyan](https://open.spotify.com/album/50MHfytKPljf732R1f6dw0) | 4:41 |
-| 10 | [Kan Kar Gal Sun Makhna](https://open.spotify.com/track/09cKiNMeQBxtWE3l0VJiAi) | [Amar Singh Chamkila](https://open.spotify.com/artist/2yZ5VRE8Cy4H81VL9biNbQ), [Amarjot](https://open.spotify.com/artist/3cE16YWyzYxHOfnm64kKgg) | [Desi Rakaad](https://open.spotify.com/album/4hBesI9nEwYhRcoPFaAwSI) | 3:56 |
+| 9 | [Kan Kar Gal Sun Makhna](https://open.spotify.com/track/09cKiNMeQBxtWE3l0VJiAi) | [Amar Singh Chamkila](https://open.spotify.com/artist/2yZ5VRE8Cy4H81VL9biNbQ), [Amarjot](https://open.spotify.com/artist/3cE16YWyzYxHOfnm64kKgg) | [Desi Rakaad](https://open.spotify.com/album/4hBesI9nEwYhRcoPFaAwSI) | 3:56 |
+| 10 | [Buhe Bariyan](https://open.spotify.com/track/7pLAInWOrNnbR3RBsz5HZK) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8) | [Buhe Bariyan](https://open.spotify.com/album/50MHfytKPljf732R1f6dw0) | 4:41 |
 | 11 | [\(Boliyan\) Geetan Da Guldasta](https://open.spotify.com/track/5PBB2DjqraVp7tdPlaZyD2) | [Surjit Bindrakhia](https://open.spotify.com/artist/2tcB32mxjVzmLcyfGizWNX) | [The King \(Greatest Hits\)](https://open.spotify.com/album/2EhYAoGlyd6OZkNRhOq4JH) | 4:58 |
 | 12 | [Sajna Ve Sajna](https://open.spotify.com/track/4eIOdicpfNZq1CHTD6U2BW) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Gurdas Maan Hits](https://open.spotify.com/album/33JWCJhCr7UJMa3UZbeNeJ) | 6:22 |
 | 13 | [Duma Dum Mast Qalandar](https://open.spotify.com/track/02c0dOVxkBAHXP8nxFsgKB) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [The Best of Hans Raj Hans](https://open.spotify.com/album/2IWlYsJ3zRA2umEAYccWtK) | 8:52 |

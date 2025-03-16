@@ -1,12 +1,12 @@
 {
   "description": "This is MC Davo. The essential tracks, all in one playlist.",
-  "num_followers": 224382,
+  "num_followers": 224406,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAA9yZgdG95dK7/1EGlRnRHG",
+  "snapshot_id": "Z9NxgAAAAADd7siRL8+E4YsZdS7GPlbE",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,26 @@
       "duration_ms": 202597,
       "name": "No Que No Eras Fan",
       "url": "https://open.spotify.com/track/72KBDC6feOjHbiQ3x1jJ2N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Acostumbraste",
+        "url": "https://open.spotify.com/album/5EkipqfG0SB3Rph3JfPf0U"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        }
+      ],
+      "duration_ms": 182168,
+      "name": "Te Acostumbraste",
+      "url": "https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf"
     },
     {
       "added_at": null,
@@ -815,22 +835,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las 2 Caras",
-        "url": "https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK"
+        "name": "Vitamina",
+        "url": "https://open.spotify.com/album/2wkRViFOuLVi5TvUl5rwKE"
       },
       "artists": [
+        {
+          "name": "Flyboiz",
+          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
+        },
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         },
         {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        },
+        {
+          "name": "Dave Gars\u00eda",
+          "url": "https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf"
         }
       ],
-      "duration_ms": 205568,
-      "name": "Round 3 (feat. C-Kan)",
-      "url": "https://open.spotify.com/track/5J3VmVOxehILdyopYBKMpb"
+      "duration_ms": 174666,
+      "name": "Vitamina",
+      "url": "https://open.spotify.com/track/1oc6FW18hQEUgDr25MePTB"
     },
     {
       "added_at": null,
@@ -875,6 +903,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las 2 Caras",
+        "url": "https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "duration_ms": 205568,
+      "name": "Round 3 (feat. C-Kan)",
+      "url": "https://open.spotify.com/track/5J3VmVOxehILdyopYBKMpb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por Qu\u00e9 Ser\u00e1?",
         "url": "https://open.spotify.com/album/5cZUVmlDivJW0hNO8VQJ6V"
       },
@@ -891,26 +939,6 @@
       "duration_ms": 199531,
       "name": "Por Qu\u00e9 Ser\u00e1?",
       "url": "https://open.spotify.com/track/3ZOy45DDnJ5DrRyROqUgLL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Round 4 (feat. C-Kan)",
-        "url": "https://open.spotify.com/album/3DAo1WHerGAEI29u14o8dD"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        }
-      ],
-      "duration_ms": 240037,
-      "name": "Round 4 (feat. C-Kan)",
-      "url": "https://open.spotify.com/track/1I6aiLIGgrx7uEqausJgx5"
     },
     {
       "added_at": null,
@@ -935,30 +963,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vitamina",
-        "url": "https://open.spotify.com/album/2wkRViFOuLVi5TvUl5rwKE"
+        "name": "Round 4 (feat. C-Kan)",
+        "url": "https://open.spotify.com/album/3DAo1WHerGAEI29u14o8dD"
       },
       "artists": [
-        {
-          "name": "Flyboiz",
-          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
-        },
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         },
         {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        },
-        {
-          "name": "Dave Gars\u00eda",
-          "url": "https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf"
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         }
       ],
-      "duration_ms": 174666,
-      "name": "Vitamina",
-      "url": "https://open.spotify.com/track/1oc6FW18hQEUgDr25MePTB"
+      "duration_ms": 240037,
+      "name": "Round 4 (feat. C-Kan)",
+      "url": "https://open.spotify.com/track/1I6aiLIGgrx7uEqausJgx5"
     },
     {
       "added_at": null,
@@ -983,6 +1003,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Psicosis",
+        "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "La Historia De Un Olvido",
+      "url": "https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En El Alcohol",
         "url": "https://open.spotify.com/album/4mHn5hvQAeW26D7cuE5c1D"
       },
@@ -999,22 +1035,6 @@
       "duration_ms": 193200,
       "name": "En El Alcohol",
       "url": "https://open.spotify.com/track/284cMrnBjCAwqaaMyZddIe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Psicosis",
-        "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "La Historia De Un Olvido",
-      "url": "https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr"
     },
     {
       "added_at": null,
@@ -1167,26 +1187,6 @@
       "duration_ms": 225400,
       "name": "Qu\u00edmica (feat. i-Majesty)",
       "url": "https://open.spotify.com/track/7HuVcnjU28gSmHPjvPchpY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones Mamalonas 2",
-        "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/7pnuAlRURIkuVpNNEhGOwS"
-        }
-      ],
-      "duration_ms": 216750,
-      "name": "Round 6",
-      "url": "https://open.spotify.com/track/6Rd2d6J3DERtRZNJr5D4uX"
     }
   ],
   "unique_name": "This Is MC Davo",

@@ -1,12 +1,12 @@
 {
   "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5gGz6o2Kqyguz6L1O9jzAv?si=5fQj3E11TFGdWr2K4tnrPA\">Joneaux</a>",
-  "num_followers": 12489,
+  "num_followers": 12491,
   "original_name": "Indie GO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9R3SQAAAADcEazEbWZbO2El00Dg/lqu",
+  "snapshot_id": "Z9T8xgAAAAD2FHYpGheDdwEJZz50CGDc",
   "tracks": [
     {
       "added_at": "2025-03-14 18:23:19",
@@ -119,6 +119,22 @@
       "duration_ms": 236525,
       "name": "Too Pretty For Buffalo",
       "url": "https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR"
+    },
+    {
+      "added_at": "2025-03-15 04:06:30",
+      "album": {
+        "name": "To Be Evil",
+        "url": "https://open.spotify.com/album/0qqJo4HFwXGKvHN9cudtly"
+      },
+      "artists": [
+        {
+          "name": "Hunter As a Horse",
+          "url": "https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F"
+        }
+      ],
+      "duration_ms": 225500,
+      "name": "To Be Evil",
+      "url": "https://open.spotify.com/track/3SiL0WJs9X0NJf2QWlnwTC"
     },
     {
       "added_at": "2025-02-27 22:00:21",
@@ -1615,22 +1631,6 @@
       "duration_ms": 220489,
       "name": "Part of Your Kind",
       "url": "https://open.spotify.com/track/1h83MOXEOMdH3XqhUan5cz"
-    },
-    {
-      "added_at": "2025-02-20 22:00:15",
-      "album": {
-        "name": "Chest Pain (I Love)",
-        "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Chest Pain (I Love)",
-      "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
     }
   ],
   "unique_name": "Indie GO",

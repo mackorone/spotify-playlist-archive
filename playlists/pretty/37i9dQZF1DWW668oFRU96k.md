@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Calvin Harris
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,589 likes - 101 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,619 likes - 101 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 19 | [Edge Of The World \(feat\. Nu\-La\)](https://open.spotify.com/track/2zfWwqiWzmXRsyICIDbwGW) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Edge Of The World \(feat\. Nu\-La\)](https://open.spotify.com/album/5v93LnHvcpo8xS7bl1DCA5) | 2:53 |
 | 20 | [Million Good Reasons](https://open.spotify.com/track/2dQZBkS0imJIezf1C7Dl73) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Million Good Reasons](https://open.spotify.com/album/3UpwS93J7Rcr18wwKzXYvT) | 2:37 |
 | 21 | [Our Future](https://open.spotify.com/track/62oJjkXdoGQ9T44blbOSky) | [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Amal Nemer](https://open.spotify.com/artist/4dJbkK58s6mj9RGElqCNhm), [Adam Nazar](https://open.spotify.com/artist/0K9gqsmGSMWBcf0tDgbMGa) | [Our Future](https://open.spotify.com/album/73QTtFjtCw5z6AT1MewUBC) | 4:10 |
-| 22 | [Safe & Sound](https://open.spotify.com/track/0NjGyIVB2qVrqlnlkXXbuZ) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [Moa Lisa](https://open.spotify.com/artist/0oUXA3boTncBMYFD5o6G2E) | [Safe & Sound](https://open.spotify.com/album/3ahcPMMJJMRDGbWuO6ljwG) | 2:57 |
+| 22 | [Safe & Sound](https://open.spotify.com/track/0NjGyIVB2qVrqlnlkXXbuZ) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [Moa Lisa](https://open.spotify.com/artist/0oUXA3boTncBMYFD5o6G2E) | [Safe & Sound](https://open.spotify.com/album/3ahcPMMJJMRDGbWuO6ljwG) | 2:58 |
 | 23 | [Cherry Blossom \- Vintage Culture Remix](https://open.spotify.com/track/7qTu1G3gDgC5qJ6Eu71OUs) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Cherry Blossom \(Vintage Culture Remix\)](https://open.spotify.com/album/1O5zlTiK5ZTJDmMnsVJaxd) | 4:13 |
 | 24 | [Chasing Paradise](https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Chasing Paradise](https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK) | 3:00 |
 | 25 | [Bottom of the Rave](https://open.spotify.com/track/1ppffgUVHpBk5fRlw4GBcj) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Aurelia Ray](https://open.spotify.com/artist/1XBlyH8em537ST8B4bifds) | [Bottom of the Rave](https://open.spotify.com/album/5I8Nh5j41Mz4oRUm1Df8if) | 3:26 |

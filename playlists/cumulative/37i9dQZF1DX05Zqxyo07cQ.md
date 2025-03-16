@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-686 songs - 1 day 9 hr 33 min
+687 songs - 1 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Calmative](https://open.spotify.com/track/4q0m55JUumpMjGiLtYsSan) | [Rae Mansell](https://open.spotify.com/artist/4aVZNmLEXiIMrNM5GIzRw8) | [Calmative](https://open.spotify.com/album/0hzrMQP5DDS5iyDiAyNj3y) | 2:35 | 2023-03-23 | 2024-03-21 |
 | [Camhanaich](https://open.spotify.com/track/6HIeUtR5bG9IuKqtcBaMkm) | [Debyah](https://open.spotify.com/artist/3hw1f70k0kbqoslclzORGa) | [Camhanaich](https://open.spotify.com/album/4ci38CqGp1bZ4BjRAexwo3) | 3:20 | 2023-03-23 | 2024-03-21 |
 | [Canvas Of Dreams](https://open.spotify.com/track/6ggbzDPtCQKf3UxSy9ScyD) | [Lamente](https://open.spotify.com/artist/4Ag7w2NgcYPYHbqPgTp3Tq) | [Canvas Of Dreams](https://open.spotify.com/album/5QKI9bvr95E70LY8i6fTb8) | 3:02 | 2024-05-20 |  |
-| [Capacity](https://open.spotify.com/track/2WSIbAQC6TGAJY9V2hMret) | [Arietis](https://open.spotify.com/artist/03NS5oA1PstBjCg4kwn6lH) | [Capacity](https://open.spotify.com/album/48ebJa2xs8686uZd5P1J1c) | 3:00 | 2024-08-16 |  |
+| [Capacity](https://open.spotify.com/track/2WSIbAQC6TGAJY9V2hMret) | [Arietis](https://open.spotify.com/artist/03NS5oA1PstBjCg4kwn6lH) | [Capacity](https://open.spotify.com/album/48ebJa2xs8686uZd5P1J1c) | 3:00 | 2024-08-16 | 2025-03-16 |
 | [Cassiopeia](https://open.spotify.com/track/46KDAvVtuSx7tm7FPIN7Vh) | [Elysian Lotus](https://open.spotify.com/artist/2z6LTH5p08Td6jE7G9X93w) | [Cassiopeia](https://open.spotify.com/album/4xKob5ecRK9TpBDvgVFMv6) | 2:55 | 2024-03-20 | 2025-03-04 |
 | [Catch Me When I Fall](https://open.spotify.com/track/6ZWGu34UE99YEf0fRDtVy3) | [Minnie Delarosa](https://open.spotify.com/artist/5abR6pakumxnpAm0OXTMJX) | [Catch Me When I Fall](https://open.spotify.com/album/1C9SeCoT5DKJFtDA2Nh9qN) | 2:32 | 2023-03-23 | 2024-01-18 |
 | [Catnap](https://open.spotify.com/track/5Ni1Fb5zLruSbDwAoKdoPF) | [Mina Donovan](https://open.spotify.com/artist/5tGJFD9qXBdOKrOlhIXOBk) | [Catnap](https://open.spotify.com/album/4NTRDYA9fWjwHH2Wc2Jxxr) | 2:42 | 2023-03-23 | 2024-02-09 |
@@ -145,6 +145,7 @@
 | [Core Equanimity](https://open.spotify.com/track/3qZBuHYRR9V9PYY1cBjrcX) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Core Equanimity](https://open.spotify.com/album/6b6r1XU6Z0oQGTckm7Stbt) | 2:50 | 2025-02-26 |  |
 | [Corinth](https://open.spotify.com/track/2Wp3KjW9cgpy6Ij1miIfvt) | [Zyair Price](https://open.spotify.com/artist/767ee2dusb4P76a8GXPf6t) | [Corinth](https://open.spotify.com/album/5i6honu4FAEKIvbGYnVjW1) | 2:46 | 2024-05-20 | 2024-11-07 |
 | [Cosmic Balance](https://open.spotify.com/track/2OIQ15ivFONa31vze9jIoz) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Cosmic Balance](https://open.spotify.com/album/1qobBVLrSQk3kxBTtb3ysx) | 3:01 | 2024-08-30 | 2025-01-09 |
+| [Cosmic Cascade](https://open.spotify.com/track/2jdMMPWv4rsspn5XKcN6tC) | [Dream Drift Tunes](https://open.spotify.com/artist/26ZbGRftrJHVZUDaz5rSkM) | [Cosmic Cascade](https://open.spotify.com/album/7KuuTbkhUXUNSgU0JY9OXg) | 2:53 | 2025-03-05 |  |
 | [Cosmic Vibe](https://open.spotify.com/track/16YWHIxMQbvfShxpS1eKiR) | [Modular 53](https://open.spotify.com/artist/3UklgXTg7a5xLCLywOH60t) | [Cosmic Vibe](https://open.spotify.com/album/4Iaf26Hy7tPOA8lop1mSHY) | 3:04 | 2024-02-08 | 2024-11-07 |
 | [Country Chimes](https://open.spotify.com/track/3htH2dXVeOFB2qfqJBO9Og) | [Coconut Calm](https://open.spotify.com/artist/6CJjcrdMJpp3LxzcpNXjp7) | [Country Chimes](https://open.spotify.com/album/5YOrucAjPM8G2QfG9M1GlG) | 4:21 | 2023-03-23 | 2024-03-21 |
 | [Cross A Line](https://open.spotify.com/track/1IkrL2wE6aWYzOmWjZmNO9) | [Sean Altar](https://open.spotify.com/artist/3Jo70Smt1IRBEAGBeXnczk) | [Cross A Line](https://open.spotify.com/album/32PoI04cGJfCgmH003knVN) | 2:18 | 2023-03-23 | 2024-03-21 |

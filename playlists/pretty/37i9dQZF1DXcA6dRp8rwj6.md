@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Murda Beatz, Rich The Kid\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,966 likes - 99 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,959 likes - 99 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 3 | [permission slip](https://open.spotify.com/track/2ZZi9yZmMk2AFLRPx3HpaA) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [permission slip](https://open.spotify.com/album/7K2VuX3Wcz2rZiOBn1K39y) | 2:53 |
 | 4 | [CUT THE LIGHTS.](https://open.spotify.com/track/0bYHcx3rUfV6SPKgVjJAGb) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [CUT THE LIGHTS.](https://open.spotify.com/album/5lEBtUY6STndUFxf2odnzn) | 2:44 |
 | 5 | [Wake Em Up](https://open.spotify.com/track/3LXRevaRWpJajAVKhgzvrd) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Wake Em Up](https://open.spotify.com/album/0PdmRhlaO6JuOcsWLVjPaK) | 2:09 |
-| 6 | [RATHER LIE](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 |
+| 6 | [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 |
 | 7 | [No Respect](https://open.spotify.com/track/3uRWGyCSvn5AVkJrO6q3g5) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [803Mayjor Vol\. 2](https://open.spotify.com/album/1yBkqAZCalnkG733Yn8vDO) | 1:35 |
 | 8 | [Solitude](https://open.spotify.com/track/7DnXsjeOmOlT1LZVT4F6ey) | [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [Solitude](https://open.spotify.com/album/27PNybvsnGEaBIDhNPSjib) | 3:45 |
 | 9 | [No Sweat](https://open.spotify.com/track/0K0jgfFssBL0Q5IcFMrsSz) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [No Sweat](https://open.spotify.com/album/6gUOpZLzz8nEAHgLRW9kxZ) | 2:35 |

@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-832 songs - 1 day 22 hr 26 min
+834 songs - 1 day 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,6 +429,7 @@
 | [Lessons](https://open.spotify.com/track/5vCSjHa6tOvfr02DoBFwx9) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [I've told the trees everything](https://open.spotify.com/album/2KHOBUj9QsyV2U3OYlKNJw) | 3:01 | 2024-03-15 | 2024-10-26 |
 | [Let It All Go](https://open.spotify.com/track/5y8yi34PVkjaJ0eNhzEWdO) | [Benji Brown](https://open.spotify.com/artist/4wc0ptJ1iiOdzWhhczofcb) | [Let It All Go](https://open.spotify.com/album/3Gbb31dOMSVQcDjglF38ch) | 3:51 | 2022-03-08 | 2022-04-02 |
 | [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 | 2023-04-14 | 2024-02-10 |
+| [Let's Try Love](https://open.spotify.com/track/5jRrOieyEnmCCmN6YOa9Qy) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Let's Try Love](https://open.spotify.com/album/3kpWWrdHtwYKnrhL2Wt4nM) | 2:19 | 2025-03-14 |  |
 | [Letter To Ur Ex](https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf) | 2:14 | 2022-03-25 | 2022-11-23 |
 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 | 2025-02-28 |  |
 | [Lies & Cheats](https://open.spotify.com/track/5CpAElXaFax1RVC8AU8dA4) | [Nathan Grisdale](https://open.spotify.com/artist/2CxdgVG8zBFMBPZb4NCb9l) | [Lies & Cheats](https://open.spotify.com/album/4GWHyoDSIt73mzsGymN1Ey) | 3:46 | 2022-02-21 | 2022-07-13 |
@@ -597,9 +598,10 @@
 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 | 2022-09-13 | 2023-03-08 |
 | [Quiet Zone](https://open.spotify.com/track/7uThAwbtW0yuK6fePJMpyg) | [Edith Whiskers](https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN) | [Quiet Zone](https://open.spotify.com/album/17udCcoR78nM6Dp9P0LNjO) | 2:06 | 2022-03-25 | 2023-03-02 |
 | [Radio](https://open.spotify.com/track/1tI1UeVe7L9TbNq0JyzvZw) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [She](https://open.spotify.com/album/4g9ow4ZxpF3sqM8VTPFvuq) | 2:54 | 2022-02-21 | 2022-10-14 |
+| [Reach Out And Kiss Me](https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Reach Out And Kiss Me](https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX) | 3:30 | 2025-03-14 |  |
 | [Read My Mind](https://open.spotify.com/track/6n4JuG8pLp7czHiIbbA5D4) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Read My Mind](https://open.spotify.com/album/4yJv4TJLwaYQDZOc5RUGgJ) | 3:48 | 2021-12-16 | 2022-02-28 |
 | [Red Hearts](https://open.spotify.com/track/6kLdSLraP7xxZ7MG2whHBM) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Red Hearts](https://open.spotify.com/album/51SibOPo6UKKZ4ffvZ8Snc) | 4:23 | 2022-03-25 | 2022-04-05 |
-| [Remains](https://open.spotify.com/track/2pGHd3wRM244IOFAC34FrX) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Remains](https://open.spotify.com/album/30wR8ockAAhNsBx57ocssO) | 3:16 | 2025-03-14 |  |
+| [remains](https://open.spotify.com/track/2pGHd3wRM244IOFAC34FrX) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [remains](https://open.spotify.com/album/30wR8ockAAhNsBx57ocssO) | 3:16 | 2025-03-14 |  |
 | [Remember](https://open.spotify.com/track/5J4jNyJ6r1ll4w79JhLoGs) | [Leon Stanford](https://open.spotify.com/artist/0zeqAycqbAyNpNARDkLtZX) | [Remember](https://open.spotify.com/album/29XK5aIA1vrSG7jpqCUjYr) | 3:55 | 2022-03-29 | 2022-07-12 |
 | [Remember \- Acoustic](https://open.spotify.com/track/5aXfGM7WVcqyAvqnL7k0y3) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Remember \(Acoustic\)](https://open.spotify.com/album/6tMWod3p4ojBLD8g2KzhtM) | 2:58 | 2021-12-16 | 2022-03-09 |
 | [Rescue](https://open.spotify.com/track/1Z7TbM73cq0oD5dsC8jexz) | [Jordan Thomas](https://open.spotify.com/artist/3DX29rKg3Zg7o2lBkdnWBw) | [Rescue](https://open.spotify.com/album/2FBdQTYheekUxpcVswilGf) | 2:54 | 2022-02-14 | 2022-04-05 |
@@ -698,7 +700,7 @@
 | [Sweet Delusion](https://open.spotify.com/track/7gioCtrhV0sSWw9EHipt9h) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Sweet Delusion](https://open.spotify.com/album/69voT9oEaLrFUzfJGUMwLZ) | 2:52 | 2024-10-25 |  |
 | [Sweet Love](https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [You Promised A Lifetime](https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW) | 2:29 | 2024-03-29 | 2025-02-28 |
 | [Sweet Moment](https://open.spotify.com/track/3C29msNvApwxpOxhuqD2rX) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Sweet Moment](https://open.spotify.com/album/2nFkX9nkVdBdXvTSt1zXqL) | 2:07 | 2023-12-01 | 2024-07-13 |
-| [Sweet Nothings](https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Sweet Nothings](https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh) | 2:53 | 2025-03-14 |  |
+| [Sweet Nothings](https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Sweet Nothings](https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh) | 2:53 | 2025-03-14 | 2025-03-16 |
 | [Sweet Oblivion](https://open.spotify.com/track/62ZeAQ8DHdCXJqPQVOTsKu) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Sweet Oblivion](https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118) | 2:15 | 2024-07-19 | 2025-02-28 |
 | [Sweetest Human Being Alive](https://open.spotify.com/track/1zwplwLfK5H0D86lPYkxBG) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:45 | 2023-01-10 | 2024-02-24 |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 | 2023-12-01 | 2024-07-13 |
@@ -748,7 +750,7 @@
 | [till you brought me home \- demo](https://open.spotify.com/track/5YZXx9yMJKEEDAzmTJIIpm) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [home tapes](https://open.spotify.com/album/5jsREy8uHU31ps84AQ96H9) | 3:52 | 2022-01-25 | 2023-04-29 |
 | [Time](https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Time](https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF) | 3:44 | 2024-06-28 | 2025-02-28 |
 | [Tired](https://open.spotify.com/track/0UTmk2WK2RxXGGbctDijga) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Tired](https://open.spotify.com/album/6vGaa7RTv4Dl4UvDfJYfIz) | 3:36 | 2021-12-16 | 2022-03-09 |
-| [To Be Loved](https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Beautifully Ordinary](https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8) | 5:04 | 2024-08-16 |  |
+| [To Be Loved](https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Beautifully Ordinary](https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8) | 5:04 | 2024-08-16 | 2025-03-16 |
 | [to be seen](https://open.spotify.com/track/2cRShN9bomoLuFfeR7CaD0) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [to be seen](https://open.spotify.com/album/5JJnU438NU09ZVv4OuoYCQ) | 3:23 | 2024-11-08 |  |
 | [To Love A Man](https://open.spotify.com/track/659179UI47crJGFp0RrCwU) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [To Love A Man](https://open.spotify.com/album/2irkzjkPar5WAwxtoraDRU) | 2:41 | 2022-03-29 | 2023-03-22 |
 | [Tomorrow](https://open.spotify.com/track/6Wzdn7uAFO9NU0SElyAvNZ) | [Paddy Keyes](https://open.spotify.com/artist/35yS9RQrpgVRsvPmIz1sGm) | [Tomorrow](https://open.spotify.com/album/1IfGMGxi8pA9obGmr5XTsN) | 4:15 | 2022-04-04 | 2022-07-09 |

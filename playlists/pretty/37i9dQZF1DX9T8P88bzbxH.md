@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > Let’s pull up to BOYNEXTDOOR’s solo concert, KNOCK ON VOL.1! Cover: BOYNEXTDOOR
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,687 likes - 20 songs - 54 min 54 sec
+[Spotify](https://open.spotify.com/user/spotify) - 57,673 likes - 20 songs - 54 min 54 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

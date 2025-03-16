@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Loreen
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,398 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,393 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 16 | [Heroes](https://open.spotify.com/track/4ciaNqHWA2IzHphZaVRzHI) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Heroes](https://open.spotify.com/album/6G6DMOiYMgVZLGs9nmNEJh) | 3:10 |
 | 17 | [We Will Rave](https://open.spotify.com/track/1QpWQMKfQ44QUN1dEg65T8) | [Kaleen](https://open.spotify.com/artist/6c2Y3AYl05QMPbLMCGag6P) | [We Will Rave](https://open.spotify.com/album/4nNMa36op8YViMSJQXgWLl) | 3:05 |
 | 18 | [My Number One](https://open.spotify.com/track/6LkCvCc9oFoLDv4DLhzTox) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK) | [My Number One](https://open.spotify.com/album/0JLlI8YNAvvrhHAwz5UCgI) | 2:55 |
-| 19 | [Dum Tek Tek](https://open.spotify.com/track/1l9jCFXKfkw33BwkGytqkO) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Fast Life](https://open.spotify.com/album/6SeSSJmjBeh2Yxadm9sfnT) | 3:01 |
-| 20 | [Give That Wolf A Banana](https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf) | [Give That Wolf A Banana](https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as) | 2:51 |
+| 19 | [Give That Wolf A Banana](https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf) | [Give That Wolf A Banana](https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as) | 2:51 |
+| 20 | [Dum Tek Tek](https://open.spotify.com/track/1l9jCFXKfkw33BwkGytqkO) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Fast Life](https://open.spotify.com/album/6SeSSJmjBeh2Yxadm9sfnT) | 3:01 |
 | 21 | [Puppet On A String](https://open.spotify.com/track/7f5w4aiYgVZrp9w4bNaBLu) | [Sandie Shaw](https://open.spotify.com/artist/5uxkcHbgyNbyzq1nyChvCa) | [Love Me, Please Love Me \(Deluxe Edition\)](https://open.spotify.com/album/1HBagsCYgh0JSLYkSynf15) | 2:23 |
 | 22 | [Only Teardrops](https://open.spotify.com/track/3yRwgprKX3If2zcuGfKFBu) | [Emmelie de Forest](https://open.spotify.com/artist/3wQcURnqzPGHE0gzY5nE6G) | [Only Teardrops](https://open.spotify.com/album/2oeLglOCLcszlJtjUh4aQp) | 3:03 |
 | 23 | [Rise Like A Phoenix](https://open.spotify.com/track/0fvafkeEoF6Y9gGLK3Wnu3) | [Conchita Wurst](https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v) | [Rise Like A Phoenix](https://open.spotify.com/album/4aPLSEfXmX1wx6gdWi282p) | 3:01 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 41 | [Dance You Off](https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Dance You Off](https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p) | 3:02 |
 | 42 | [Je t'adore \- Eurovision Mix](https://open.spotify.com/track/1YuXoPqkTQOXpFJtjf5GWd) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Essential](https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3) | 3:02 |
 | 43 | [J'ai cherché](https://open.spotify.com/track/1QJFNfsVQA7VfUJFKgQJzI) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [J'ai cherché](https://open.spotify.com/album/0YCltMp8QcXykcaXjAvZ1u) | 3:32 |
-| 44 | [Yassou Maria](https://open.spotify.com/track/1t2zJs2ukKjrVNGQgot9bk) | [Sarbel](https://open.spotify.com/artist/50NpTshkrtjVH2ukLXMbjI) | [Sahara Euro Edition](https://open.spotify.com/album/6UcCRtBatKSwIjPX9Xqcqk) | 3:00 |
-| 45 | [Lipstick \- Radio Edit](https://open.spotify.com/track/4gDQktCvIfPqo18AdHmkR4) | [Jedward](https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT) | [Lipstick](https://open.spotify.com/album/6zu4NUs9lQu996tDudt8xA) | 2:55 |
+| 44 | [Lipstick \- Radio Edit](https://open.spotify.com/track/4gDQktCvIfPqo18AdHmkR4) | [Jedward](https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT) | [Lipstick](https://open.spotify.com/album/6zu4NUs9lQu996tDudt8xA) | 2:55 |
+| 45 | [Yassou Maria](https://open.spotify.com/track/1t2zJs2ukKjrVNGQgot9bk) | [Sarbel](https://open.spotify.com/artist/50NpTshkrtjVH2ukLXMbjI) | [Sahara Euro Edition](https://open.spotify.com/album/6UcCRtBatKSwIjPX9Xqcqk) | 3:00 |
 | 46 | [Monsters](https://open.spotify.com/track/0JGbU6NlewrskD138Wq04b) | [Saara Aalto](https://open.spotify.com/artist/2OsS8RgsvMnTgDsbWVzzPn) | [Monsters](https://open.spotify.com/album/3glqvX58NEoX9D7Y60N429) | 3:00 |
 | 47 | [This Is Our Night](https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [This Is Our Night](https://open.spotify.com/album/71diCysWyJmFHsEv4ExMwD) | 2:57 |
 | 48 | [Is It Right](https://open.spotify.com/track/4BxMRmdcUYW1sBHc1Nv9jo) | [Elaiza](https://open.spotify.com/artist/3p45HHDBKyxCDJeOnOWuSo) | [Is It Right / Fight Against Myself](https://open.spotify.com/album/4ogKZm7zO6URn3a3EVNd8U) | 3:54 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 64 | [Is It True?](https://open.spotify.com/track/4uaMcAjtOhaYYpd36DmxbI) | [Yohanna](https://open.spotify.com/artist/1aGU3AHmLXWR7JcAXiG3t3) | [Is It True?](https://open.spotify.com/album/04BCoECaXxVHpWxJRb3qqt) | 3:00 |
 | 65 | [My Heart Goes Boom](https://open.spotify.com/track/6GViWczPtH2ky3RBYycDhI) | [Charmed](https://open.spotify.com/artist/438uz6Ss2rTiWYPw0dDwF8) | [Charmed](https://open.spotify.com/album/1dl3hAtvGLmsuDJVzJcY9D) | 3:03 |
 | 66 | [We Are the Winners \- Original Version](https://open.spotify.com/track/2QNb0E7tUeL5fCQFY5Pf02) | [LT United](https://open.spotify.com/artist/0J5IwFSGSb8BaJAFATnlg4) | [We Are the Winners](https://open.spotify.com/album/3cnlnaHwgCq4iZaywK9tG9) | 2:31 |
-| 67 | [Verona \- Eurovision 2017 \- Estonia](https://open.spotify.com/track/6xGmMh9K4Z3oeLCwzIuCaD) | [Laura](https://open.spotify.com/artist/4PIW6aNu2AfeKQqkMGWVmS), [KOIT TOOME](https://open.spotify.com/artist/5eRi1IKofAOO9rEGHCgOGc) | [Verona](https://open.spotify.com/album/4ctbznUsA8d2ZEqXzuy7iY) | 3:02 |
-| 68 | [Where Are You](https://open.spotify.com/track/1GrTNrHkL2WlK1rNp7OBs8) | [Imaani](https://open.spotify.com/artist/0dQzwkQ8ESNa3Uz9NIWEEi) | [Classic Dance Essentials](https://open.spotify.com/album/0Accg6wst7dQsa1nT4fxvf) | 3:14 |
+| 67 | [Where Are You](https://open.spotify.com/track/1GrTNrHkL2WlK1rNp7OBs8) | [Imaani](https://open.spotify.com/artist/0dQzwkQ8ESNa3Uz9NIWEEi) | [Classic Dance Essentials](https://open.spotify.com/album/0Accg6wst7dQsa1nT4fxvf) | 3:14 |
+| 68 | [Verona \- Eurovision 2017 \- Estonia](https://open.spotify.com/track/6xGmMh9K4Z3oeLCwzIuCaD) | [Laura](https://open.spotify.com/artist/4PIW6aNu2AfeKQqkMGWVmS), [KOIT TOOME](https://open.spotify.com/artist/5eRi1IKofAOO9rEGHCgOGc) | [Verona](https://open.spotify.com/album/4ctbznUsA8d2ZEqXzuy7iY) | 3:02 |
 | 69 | [Parlez\-vous francais?](https://open.spotify.com/track/673foE9F1zexKf0VPCIB4k) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [Best Of](https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ) | 4:24 |
 | 70 | [What about my dreams? \- Main](https://open.spotify.com/track/4coje85K8iSAup8z4G9y64) | [Kati Wolf](https://open.spotify.com/artist/0XjBRZN6v699jxgtiEBuHM) | [What About My Dreams?](https://open.spotify.com/album/70sLEEOucejT9jhRDmPNAW) | 4:09 |
 | 71 | [Take Me to Your Heaven](https://open.spotify.com/track/6Phb8GhIzQKi6O7VOGj0QU) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Take Me To Your Heaven](https://open.spotify.com/album/1oV6KRIP47RM7SdIcDBYm6) | 3:03 |

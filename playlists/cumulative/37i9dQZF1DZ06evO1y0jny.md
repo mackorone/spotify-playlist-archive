@@ -4,12 +4,13 @@
 
 > This is Keauhou\. The essential tracks, all in one playlist.
 
-44 songs - 2 hr 0 min
+45 songs - 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aloha Kuu Aina o Kauaula](https://open.spotify.com/track/0s3YBKhXcbIVe4tlNC94Ir) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Lei Nāhonoapiʻilani: Nā Mele Hou](https://open.spotify.com/album/2AS9LbYMeRpZ2vgFEdv3I5) | 2:21 | 2024-01-29 |  |
-| [Aloha Maunalua](https://open.spotify.com/track/7aJyIjBzgbnK88VNZXf6gO) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I ke Kō a ke Au](https://open.spotify.com/album/7kKOiejRepuDl8DWXxFqfx) | 2:43 | 2024-01-29 |  |
+| [Aloha Maunalua](https://open.spotify.com/track/7aJyIjBzgbnK88VNZXf6gO) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I ke Kō a ke Au](https://open.spotify.com/album/7kKOiejRepuDl8DWXxFqfx) | 2:43 | 2024-01-29 | 2025-03-16 |
+| [Dancing Under the Stars](https://open.spotify.com/track/4x7ZnyIhJRSoCXWwb9StkK) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I ke Kō a ke Au](https://open.spotify.com/album/7kKOiejRepuDl8DWXxFqfx) | 3:10 | 2025-03-16 |  |
 | [Eleu Mikimiki](https://open.spotify.com/track/2rJ22DZjY656aEpQ9OlD5h) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Keauhou](https://open.spotify.com/album/4hDluwslVpgRDAovwCyjO5) | 2:18 | 2024-01-29 |  |
 | [Hanohano Haiku](https://open.spotify.com/track/7vhH5BJgH5Cr9jlWwfXtXJ) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Keauhou](https://open.spotify.com/album/4hDluwslVpgRDAovwCyjO5) | 2:28 | 2024-01-29 |  |
 | [He Aloha Wau iā ʻOe](https://open.spotify.com/track/0xu4HQ3huYGtg3Gy12GROP) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Kāwili](https://open.spotify.com/album/5Jrfi28fF8l3NK0coDarNC) | 2:39 | 2024-01-29 |  |
@@ -21,7 +22,7 @@
 | [I ke Kō a ke Au](https://open.spotify.com/track/16poM9hMk8lgwI1bnANy1a) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I ke Kō a ke Au](https://open.spotify.com/album/7kKOiejRepuDl8DWXxFqfx) | 1:09 | 2024-01-29 | 2024-03-11 |
 | [It's a Small World \- Hawaiian Version](https://open.spotify.com/track/7jmFUb4cFl2qzvfODI8Ne0) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Disney Hawaiian Album \~DA BEST!\~](https://open.spotify.com/album/0A7jcBToDjWVYphBypyghi) | 1:46 | 2024-01-29 |  |
 | [Ka Wai ʻApo Lani](https://open.spotify.com/track/7uWxYrzIBhO3MyX2kvgW1s) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 3:28 | 2024-02-02 | 2024-02-04 |
-| [Ka Wehi no Kuʻu Home](https://open.spotify.com/track/3n92Sxd3ZivPanRBzwfct8) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 4:08 | 2025-03-10 |  |
+| [Ka Wehi no Kuʻu Home](https://open.spotify.com/track/3n92Sxd3ZivPanRBzwfct8) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 4:08 | 2025-03-10 | 2025-03-16 |
 | [Kahiko Kapalama](https://open.spotify.com/track/28dhHrZrhUfthbxjvKWzDY) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Keauhou](https://open.spotify.com/album/4hDluwslVpgRDAovwCyjO5) | 2:50 | 2024-01-29 | 2024-12-23 |
 | [Kapiʻolani Pāka](https://open.spotify.com/track/33viZQGMaRtqCzBCAD28sd) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Ua Kō, Ua ʻĀina](https://open.spotify.com/album/058d63dGkeAAWpEsHovZov) | 3:08 | 2024-01-29 |  |
 | [Kaʻililauokekoa](https://open.spotify.com/track/6Gt7HYjiDSgxPLFGUMRUOk) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 2:43 | 2024-12-18 | 2025-02-28 |
@@ -49,7 +50,7 @@
 | [Radio Hula](https://open.spotify.com/track/74AgvxbXfdykQbU2PjM6vZ) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 2:43 | 2024-01-29 |  |
 | [Ua Kō, Ua ʻĀina](https://open.spotify.com/track/1R0okzO69Fx0cm8bkYlD02) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Ua Kō, Ua ʻĀina](https://open.spotify.com/album/058d63dGkeAAWpEsHovZov) | 1:21 | 2024-01-29 |  |
 | [Ulunui Waltz \(Reimagined\) \[feat\. Keauhou\]](https://open.spotify.com/track/4ZqhG1g8joMt52tGGpnybU) | [Kekuhi](https://open.spotify.com/artist/2qjFFoBsCacy10U9XksBkE), [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Hahani Mai \(21st Anniversary Edition\)](https://open.spotify.com/album/35rgOxshONl1KMNXOH71Yv) | 2:30 | 2024-08-11 |  |
-| [Ulupō Nui](https://open.spotify.com/track/3hP50hIbqKdScxY4DKKLKW) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 3:34 | 2024-04-05 | 2025-03-09 |
+| [Ulupō Nui](https://open.spotify.com/track/3hP50hIbqKdScxY4DKKLKW) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I Leʻa](https://open.spotify.com/album/71Kc8flnHzCQw1ci7WkiKb) | 3:34 | 2024-04-05 |  |
 | [Wehiwehi Mānoa](https://open.spotify.com/track/5amwFXDIBc9BCvncknwE9r) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [I ke Kō a ke Au](https://open.spotify.com/album/7kKOiejRepuDl8DWXxFqfx) | 3:07 | 2024-02-08 | 2025-02-16 |
 | [ʻAʻole Lā](https://open.spotify.com/track/3rs67ItU4VVbtQm82dmUl8) | [Keauhou](https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq) | [Ua Kō, Ua ʻĀina](https://open.spotify.com/album/058d63dGkeAAWpEsHovZov) | 2:45 | 2024-01-29 | 2025-02-21 |
 

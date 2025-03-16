@@ -1,12 +1,12 @@
 {
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
-  "num_followers": 363931,
+  "num_followers": 363971,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAADv+bJgoj/v4+HbN79eU59B",
+  "snapshot_id": "Z9NxgAAAAAAZmuik5nYNAY9J0xRkX6w/",
   "tracks": [
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cream Of Clapton",
-        "url": "https://open.spotify.com/album/6uTteowoZyrRDJ9GHITrEp"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 264333,
-      "name": "Knockin' On Heaven's Door",
-      "url": "https://open.spotify.com/track/7fIZpIYzxzSV9s7oc6u1IA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Concert For George (Live)",
         "url": "https://open.spotify.com/album/6EvU9hFh2ZPeumNOFy1dAu"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 357104,
       "name": "While My Guitar Gently Weeps - Live",
       "url": "https://open.spotify.com/track/6ZHCQehGCpGWTi6wEzs8vf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cream Of Clapton",
+        "url": "https://open.spotify.com/album/6uTteowoZyrRDJ9GHITrEp"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 264333,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/7fIZpIYzxzSV9s7oc6u1IA"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eric Clapton",
-        "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 171013,
-      "name": "After Midnight",
-      "url": "https://open.spotify.com/track/27mdmXNcO0gNpXlrWi9DPZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Money and Cigarettes (2007 Remaster)",
         "url": "https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 193386,
       "name": "I've Got a Rock 'n' Roll Heart",
       "url": "https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eric Clapton",
+        "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 171013,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/27mdmXNcO0gNpXlrWi9DPZ"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Journeyman",
+        "url": "https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 283280,
+      "name": "Pretending",
+      "url": "https://open.spotify.com/track/2Ua9IR5sciWQfoWCfB9iks"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blues Breakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
@@ -875,8 +891,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Journeyman",
-        "url": "https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B"
+        "name": "Slowhand 35th Anniversary (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
       },
       "artists": [
         {
@@ -884,29 +900,9 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 283280,
-      "name": "Pretending",
-      "url": "https://open.spotify.com/track/2Ua9IR5sciWQfoWCfB9iks"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meanwhile",
-        "url": "https://open.spotify.com/album/7ASFpTja76OXENB9qkzXjJ"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 306000,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/5oq29tJEj14LjLjXyaXCEF"
+      "duration_ms": 318000,
+      "name": "Knocking On Heaven's Door - Live At Hammersmith Odeon",
+      "url": "https://open.spotify.com/track/5uhvUuQciVrP0p48NqSHaq"
     },
     {
       "added_at": null,
@@ -931,18 +927,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slowhand 35th Anniversary (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
+        "name": "Meanwhile",
+        "url": "https://open.spotify.com/album/7ASFpTja76OXENB9qkzXjJ"
       },
       "artists": [
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
         }
       ],
-      "duration_ms": 318000,
-      "name": "Knocking On Heaven's Door - Live At Hammersmith Odeon",
-      "url": "https://open.spotify.com/track/5uhvUuQciVrP0p48NqSHaq"
+      "duration_ms": 306000,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/5oq29tJEj14LjLjXyaXCEF"
     }
   ],
   "unique_name": "This Is Eric Clapton",

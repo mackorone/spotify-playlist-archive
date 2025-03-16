@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Adam Doleac
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,366 likes - 195 songs - 10 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,415 likes - 195 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 8 | [Shenandoah](https://open.spotify.com/track/6zNRMR7atmTivPX6xfmYqP) | [Bryce Leatherwood](https://open.spotify.com/artist/4Au65v4b1yArf799wHdABT) | [Shenandoah](https://open.spotify.com/album/6h9DhSkh9U72HYjUEDm9RB) | 3:40 |
 | 9 | [You Don't Even Know Who I Am](https://open.spotify.com/track/3DAnjjX5XQMfq2zM42lKoD) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [You Don't Even Know Who I Am](https://open.spotify.com/album/3LRL8hYx09WdTY6sGB5NXf) | 4:00 |
 | 10 | [Bad Guy](https://open.spotify.com/track/7vlpjaBWF5Rb7dr52OahOL) | [Blake Whiten](https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM) | [Bad Guy](https://open.spotify.com/album/0NhdFw8Yzm87F0lnIQVvIB) | 3:42 |
-| 11 | [Put the Whiskey Down](https://open.spotify.com/track/1u05RuJheZDOT2ZtbI2xGu) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD), [Edward Spear](https://open.spotify.com/artist/65iWIqBD7s2DIAby0GRPnm) | [Put the Whiskey Down](https://open.spotify.com/album/50yjk7G5rmB5eDsKViUjCD) | 3:24 |
+| 11 | [Put the Whiskey Down](https://open.spotify.com/track/1u05RuJheZDOT2ZtbI2xGu) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Put the Whiskey Down](https://open.spotify.com/album/50yjk7G5rmB5eDsKViUjCD) | 3:24 |
 | 12 | [ALWAYS BE US](https://open.spotify.com/track/5GYAq4cam2TL5WurygyJCa) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo), [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [ALWAYS BE US](https://open.spotify.com/album/4zbGcUAbUWUFuMV52tqbnf) | 3:23 |
 | 13 | [Life For Me](https://open.spotify.com/track/0vBJ0WIXHhLsQccXH21AwN) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Life For Me](https://open.spotify.com/album/2QCJTvIknJCxjAamwbjRYf) | 2:53 |
 | 14 | [Burn It All Down](https://open.spotify.com/track/5MM0uDPbuwE7Cw3ovW69nR) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Burn It All Down](https://open.spotify.com/album/5mG9kaXWm9iwiFUtFzvXBa) | 2:39 |

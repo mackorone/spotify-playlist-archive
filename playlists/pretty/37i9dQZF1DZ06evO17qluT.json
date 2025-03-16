@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 70179,
+  "num_followers": 70281,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAACs6AJ4lGasbGqUWofEs3sn",
+  "snapshot_id": "Z9NxgAAAAACQ/CatICRulZigmFFVP2Co",
   "tracks": [
     {
       "added_at": null,
@@ -376,13 +376,37 @@
           "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
         },
         {
-          "name": "Jenni Rocha",
-          "url": "https://open.spotify.com/artist/3JFNge4eb1nMMOwa0txAuV"
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
         }
       ],
-      "duration_ms": 180976,
-      "name": "Medo De Mim",
-      "url": "https://open.spotify.com/track/57wTDSMEuJzNX1BMXKLxx5"
+      "duration_ms": 220218,
+      "name": "S\u00f3 Eu Sei",
+      "url": "https://open.spotify.com/track/4zRkxMnP9wmAPBPPU0Uds8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heresia",
+        "url": "https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 223892,
+      "name": "O Mundo \u00e9 Nosso",
+      "url": "https://open.spotify.com/track/2DCmiAMyZGPLiDh47Upi9Z"
     },
     {
       "added_at": null,
@@ -415,30 +439,6 @@
       "duration_ms": 201190,
       "name": "Dispiei",
       "url": "https://open.spotify.com/track/374FHMaD2W0k7gsxaHa1Hi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heresia",
-        "url": "https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 223892,
-      "name": "O Mundo \u00e9 Nosso",
-      "url": "https://open.spotify.com/track/2DCmiAMyZGPLiDh47Upi9Z"
     },
     {
       "added_at": null,
@@ -484,13 +484,13 @@
           "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
         },
         {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+          "name": "Jenni Rocha",
+          "url": "https://open.spotify.com/artist/3JFNge4eb1nMMOwa0txAuV"
         }
       ],
-      "duration_ms": 220218,
-      "name": "S\u00f3 Eu Sei",
-      "url": "https://open.spotify.com/track/4zRkxMnP9wmAPBPPU0Uds8"
+      "duration_ms": 180976,
+      "name": "Medo De Mim",
+      "url": "https://open.spotify.com/track/57wTDSMEuJzNX1BMXKLxx5"
     },
     {
       "added_at": null,
@@ -595,6 +595,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        }
+      ],
+      "duration_ms": 249490,
+      "name": "Castelos & Ru\u00ednas",
+      "url": "https://open.spotify.com/track/56U1WCUL6mbxoSSYgbBame"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 206378,
       "name": "Em nome do que sinto",
       "url": "https://open.spotify.com/track/34A67HYwwe91CyLaNVQ6JG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Sain",
-          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
-        }
-      ],
-      "duration_ms": 249490,
-      "name": "Castelos & Ru\u00ednas",
-      "url": "https://open.spotify.com/track/56U1WCUL6mbxoSSYgbBame"
     },
     {
       "added_at": null,
@@ -695,6 +695,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 167999,
+      "name": "Caminhos",
+      "url": "https://open.spotify.com/track/2m1ecu2OlaHCXJQP7EJauN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 207242,
       "name": "Nome nas ruas",
       "url": "https://open.spotify.com/track/4ujSlvkBI6rh0iRORsSD2Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 167999,
-      "name": "Caminhos",
-      "url": "https://open.spotify.com/track/2m1ecu2OlaHCXJQP7EJauN"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um",
-        "url": "https://open.spotify.com/album/0rcx8BIJykJsZHhUwpcAN0"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 225877,
-      "name": "O Que Quiser Fazer",
-      "url": "https://open.spotify.com/track/7Gz1ia9WBuR38wHPT2G9yj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Castelos & Ru\u00ednas",
         "url": "https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0"
       },
@@ -835,22 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cidade do Pecado",
-        "url": "https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn"
+        "name": "Um",
+        "url": "https://open.spotify.com/album/0rcx8BIJykJsZHhUwpcAN0"
       },
       "artists": [
         {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
         },
         {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         }
       ],
-      "duration_ms": 211338,
-      "name": "Cidade do Pecado",
-      "url": "https://open.spotify.com/track/2hJmCyeQEnatMz5U4hZYpH"
+      "duration_ms": 225877,
+      "name": "O Que Quiser Fazer",
+      "url": "https://open.spotify.com/track/7Gz1ia9WBuR38wHPT2G9yj"
     },
     {
       "added_at": null,
@@ -875,26 +855,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEMR\u00c9H",
-        "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
+        "name": "Cidade do Pecado",
+        "url": "https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn"
       },
       "artists": [
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "6ee",
-          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
         }
       ],
-      "duration_ms": 147967,
-      "name": "SEMR\u00c9H",
-      "url": "https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs"
+      "duration_ms": 211338,
+      "name": "Cidade do Pecado",
+      "url": "https://open.spotify.com/track/2hJmCyeQEnatMz5U4hZYpH"
     },
     {
       "added_at": null,
@@ -927,30 +903,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "TESTEMUNHAS DE TOKIODK",
-        "url": "https://open.spotify.com/album/1g8temqrqRrpKmE07A6CLA"
+        "name": "SEMR\u00c9H",
+        "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
       },
       "artists": [
         {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
         },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "LeodoKick",
-          "url": "https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
         }
       ],
-      "duration_ms": 217872,
-      "name": "250 por rota",
-      "url": "https://open.spotify.com/track/0nUkYjnUoksBaNa3MI66TF"
+      "duration_ms": 147967,
+      "name": "SEMR\u00c9H",
+      "url": "https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs"
     },
     {
       "added_at": null,
@@ -979,22 +951,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "O L\u00edder em Movimento",
-        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
+        "name": "TESTEMUNHAS DE TOKIODK",
+        "url": "https://open.spotify.com/album/1g8temqrqRrpKmE07A6CLA"
       },
       "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+          "name": "LeodoKick",
+          "url": "https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
         }
       ],
-      "duration_ms": 217044,
-      "name": "Pessoas",
-      "url": "https://open.spotify.com/track/6R92Hn1Zpy1FL5nrTQJxPu"
+      "duration_ms": 217872,
+      "name": "250 por rota",
+      "url": "https://open.spotify.com/track/0nUkYjnUoksBaNa3MI66TF"
     },
     {
       "added_at": null,
@@ -1015,6 +995,54 @@
       "duration_ms": 195883,
       "name": "Vis\u00e3o Ampla",
       "url": "https://open.spotify.com/track/6SmZgYXem0UdN5vye7h4r5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O L\u00edder em Movimento",
+        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        }
+      ],
+      "duration_ms": 217044,
+      "name": "Pessoas",
+      "url": "https://open.spotify.com/track/6R92Hn1Zpy1FL5nrTQJxPu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 249813,
+      "name": "Vivos",
+      "url": "https://open.spotify.com/track/10jI01n8w6g41qiIMAcAkb"
     },
     {
       "added_at": null,
@@ -1055,34 +1083,6 @@
       "duration_ms": 249230,
       "name": "Luccas Carlos",
       "url": "https://open.spotify.com/track/3d9TLnvPX2IEJ0zvkIQBNU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 249813,
-      "name": "Vivos",
-      "url": "https://open.spotify.com/track/10jI01n8w6g41qiIMAcAkb"
     },
     {
       "added_at": null,
@@ -1139,6 +1139,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 251668,
+      "name": "Julius",
+      "url": "https://open.spotify.com/track/525iKRpCJuNRyA5OTUNzla"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pir\u00e2mide Perdida (Vol. 7)",
         "url": "https://open.spotify.com/album/6HEg1KrzxLjvupqYf0jleE"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 281684,
       "name": "Canto das Baixas",
       "url": "https://open.spotify.com/track/3HCdLS7z9TSs349d3UxV8I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 251668,
-      "name": "Julius",
-      "url": "https://open.spotify.com/track/525iKRpCJuNRyA5OTUNzla"
     },
     {
       "added_at": null,

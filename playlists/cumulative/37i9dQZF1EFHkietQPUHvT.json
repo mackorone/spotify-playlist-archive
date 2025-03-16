@@ -1244,6 +1244,24 @@
     {
       "album": {
         "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/3C1eTUna7iyd8fYVonF2pR"
+      },
+      "artists": [
+        {
+          "name": "Emilia Tarrant",
+          "url": "https://open.spotify.com/artist/1vf6uDbPOzuzMZAzunyGg0"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181613,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/0BFlm17OcFErnis6lOAqGu"
+    },
+    {
+      "album": {
+        "name": "Slow Motion",
         "url": "https://open.spotify.com/album/3BZ3lPJRN9DioJJrLttxQS"
       },
       "artists": [
@@ -1272,7 +1290,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 181613,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/5oE6MdLzwQhd9lTA8dPACh"

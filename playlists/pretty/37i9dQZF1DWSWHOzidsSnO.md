@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Mujeres de los Andes, a todo volumen! Con una selección de Ana Sanz, Lil Keren y María McCausland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,649 likes - 35 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,644 likes - 35 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

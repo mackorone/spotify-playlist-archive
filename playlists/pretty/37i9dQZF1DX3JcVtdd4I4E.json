@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom. ",
-  "num_followers": 7326,
+  "num_followers": 7328,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2025-03-11 13:06:47",
       "album": {
+        "name": "I Hate San Francisco",
+        "url": "https://open.spotify.com/album/6pF4utdDeVRkUmHyny2C36"
+      },
+      "artists": [
+        {
+          "name": "Maria Jane Smith",
+          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "I Hate San Francisco",
+      "url": "https://open.spotify.com/track/604ZOG5yxHW5tqxUIFzIJ0"
+    },
+    {
+      "added_at": "2025-03-11 13:06:47",
+      "album": {
         "name": "Feel This Way",
         "url": "https://open.spotify.com/album/1krHx6VqHRNlHXI1ShycIU"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 147619,
       "name": "Feel This Way",
       "url": "https://open.spotify.com/track/1uAqpDfjT4ODipqrMTBWgN"
-    },
-    {
-      "added_at": "2025-03-11 13:06:47",
-      "album": {
-        "name": "I Hate San Francisco",
-        "url": "https://open.spotify.com/album/6pF4utdDeVRkUmHyny2C36"
-      },
-      "artists": [
-        {
-          "name": "Maria Jane Smith",
-          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
-        }
-      ],
-      "duration_ms": 193093,
-      "name": "I Hate San Francisco",
-      "url": "https://open.spotify.com/track/604ZOG5yxHW5tqxUIFzIJ0"
     },
     {
       "added_at": "2025-03-11 13:06:47",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-03-11 13:06:47",
       "album": {
-        "name": "DeLorean",
-        "url": "https://open.spotify.com/album/5P1w7q0aU3Zo2GiviyKfJN"
-      },
-      "artists": [
-        {
-          "name": "Anna Lille",
-          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
-        }
-      ],
-      "duration_ms": 211956,
-      "name": "DeLorean",
-      "url": "https://open.spotify.com/track/0b4b7Em3xHYHAXVQ0KQReI"
-    },
-    {
-      "added_at": "2025-03-11 13:06:47",
-      "album": {
         "name": "Breaking Hearts",
         "url": "https://open.spotify.com/album/051gZSH5RHDuhX8VTzP2pW"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2025-03-11 13:06:47",
       "album": {
-        "name": "Always Hurts",
-        "url": "https://open.spotify.com/album/6usyLl3Ji7N9chhotFYZPR"
+        "name": "DeLorean",
+        "url": "https://open.spotify.com/album/5P1w7q0aU3Zo2GiviyKfJN"
       },
       "artists": [
         {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
         }
       ],
-      "duration_ms": 197538,
-      "name": "Always Hurts",
-      "url": "https://open.spotify.com/track/7fj1Ny96E195t9mKIYYXFy"
+      "duration_ms": 211956,
+      "name": "DeLorean",
+      "url": "https://open.spotify.com/track/0b4b7Em3xHYHAXVQ0KQReI"
     },
     {
       "added_at": "2025-03-11 13:06:47",
@@ -759,6 +743,22 @@
       "duration_ms": 226666,
       "name": "Pornography",
       "url": "https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8"
+    },
+    {
+      "added_at": "2025-03-11 13:06:47",
+      "album": {
+        "name": "Always Hurts",
+        "url": "https://open.spotify.com/album/6usyLl3Ji7N9chhotFYZPR"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Always Hurts",
+      "url": "https://open.spotify.com/track/7fj1Ny96E195t9mKIYYXFy"
     },
     {
       "added_at": "2025-03-11 13:06:47",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-03-11 13:06:47",
       "album": {
-        "name": "Portland",
-        "url": "https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf"
-      },
-      "artists": [
-        {
-          "name": "Rhys",
-          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
-        }
-      ],
-      "duration_ms": 172872,
-      "name": "Portland",
-      "url": "https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB"
-    },
-    {
-      "added_at": "2025-03-11 13:06:47",
-      "album": {
         "name": "Marameo",
         "url": "https://open.spotify.com/album/0sd73d4ExGo3LUahL0qsw7"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 212553,
       "name": "Fight Like A Girl",
       "url": "https://open.spotify.com/track/75NdnAn8d1YrjFwcWRoBM6"
+    },
+    {
+      "added_at": "2025-03-11 13:06:47",
+      "album": {
+        "name": "Portland",
+        "url": "https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf"
+      },
+      "artists": [
+        {
+          "name": "Rhys",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        }
+      ],
+      "duration_ms": 172872,
+      "name": "Portland",
+      "url": "https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB"
     },
     {
       "added_at": "2025-03-11 13:06:47",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-03-11 13:06:47",
       "album": {
-        "name": "What It Feels Like",
-        "url": "https://open.spotify.com/album/0Dw2vUpQUBBkNGM85o0ltK"
-      },
-      "artists": [
-        {
-          "name": "Carlina de Place",
-          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "What It Feels Like",
-      "url": "https://open.spotify.com/track/33ejPqwHiMJGVMSqbBmaJc"
-    },
-    {
-      "added_at": "2025-03-11 13:06:47",
-      "album": {
         "name": "PARASITE",
         "url": "https://open.spotify.com/album/4XWYTwYbIQ5Av9dcMrheEH"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 220885,
       "name": "PARASITE",
       "url": "https://open.spotify.com/track/4L5jAC9hM6uJ9T7wW7SlXI"
+    },
+    {
+      "added_at": "2025-03-11 13:06:47",
+      "album": {
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/0Dw2vUpQUBBkNGM85o0ltK"
+      },
+      "artists": [
+        {
+          "name": "Carlina de Place",
+          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/33ejPqwHiMJGVMSqbBmaJc"
     },
     {
       "added_at": "2025-03-11 13:06:47",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-03-11 13:06:47",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn"
-      },
-      "artists": [
-        {
-          "name": "Paula Jiv\u00e9n",
-          "url": "https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D"
-        }
-      ],
-      "duration_ms": 171899,
-      "name": "Pluto - Bonus Track",
-      "url": "https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL"
-    },
-    {
-      "added_at": "2025-03-11 13:06:47",
-      "album": {
         "name": "SHE-REX",
         "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 232465,
       "name": "promise to pick up the phone",
       "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
+    },
+    {
+      "added_at": "2025-03-11 13:06:47",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn"
+      },
+      "artists": [
+        {
+          "name": "Paula Jiv\u00e9n",
+          "url": "https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D"
+        }
+      ],
+      "duration_ms": 171899,
+      "name": "Pluto - Bonus Track",
+      "url": "https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL"
     },
     {
       "added_at": "2025-03-11 13:06:47",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-03-11 13:06:47",
       "album": {
-        "name": "top G",
-        "url": "https://open.spotify.com/album/1JVcFthjmAi4KByDMFd1O5"
-      },
-      "artists": [
-        {
-          "name": "LUJAIN",
-          "url": "https://open.spotify.com/artist/6gkdUNajvm1NZbynggJN1G"
-        }
-      ],
-      "duration_ms": 135227,
-      "name": "top G",
-      "url": "https://open.spotify.com/track/6ZJ02ejciOqe5AP6mkkK3b"
-    },
-    {
-      "added_at": "2025-03-11 13:06:47",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 218454,
       "name": "Falling",
       "url": "https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E"
+    },
+    {
+      "added_at": "2025-03-11 13:06:47",
+      "album": {
+        "name": "top G",
+        "url": "https://open.spotify.com/album/1JVcFthjmAi4KByDMFd1O5"
+      },
+      "artists": [
+        {
+          "name": "LUJAIN",
+          "url": "https://open.spotify.com/artist/6gkdUNajvm1NZbynggJN1G"
+        }
+      ],
+      "duration_ms": 135227,
+      "name": "top G",
+      "url": "https://open.spotify.com/track/6ZJ02ejciOqe5AP6mkkK3b"
     },
     {
       "added_at": "2025-03-11 13:06:47",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-03-11 13:06:47",
       "album": {
-        "name": "Alrighter",
-        "url": "https://open.spotify.com/album/77gIRxGo9KuhAy2zDEQjDW"
-      },
-      "artists": [
-        {
-          "name": "Dottie Andersson",
-          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Alrighter",
-      "url": "https://open.spotify.com/track/5EjKXX2MhPDhc9ZAN4jb0v"
-    },
-    {
-      "added_at": "2025-03-11 13:06:47",
-      "album": {
         "name": "HURT PEOPLE",
         "url": "https://open.spotify.com/album/5Ui2vqU9Ta35ZeiM8kjoNY"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 163218,
       "name": "HURT PEOPLE",
       "url": "https://open.spotify.com/track/2cr6TL0vLgqJCcgD0hWIbl"
+    },
+    {
+      "added_at": "2025-03-11 13:06:47",
+      "album": {
+        "name": "Alrighter",
+        "url": "https://open.spotify.com/album/77gIRxGo9KuhAy2zDEQjDW"
+      },
+      "artists": [
+        {
+          "name": "Dottie Andersson",
+          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Alrighter",
+      "url": "https://open.spotify.com/track/5EjKXX2MhPDhc9ZAN4jb0v"
     },
     {
       "added_at": "2025-03-11 13:06:47",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2025-03-11 13:06:47",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH"
+        "name": "Landmarks",
+        "url": "https://open.spotify.com/album/2eQeTTJ8jwC4QgOoKGiLFp"
       },
       "artists": [
         {
-          "name": "Erika de Casier",
-          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+          "name": "Bye Bye Brenda",
+          "url": "https://open.spotify.com/artist/4xbailSt3mnMLwv8iRY3d0"
         }
       ],
-      "duration_ms": 166760,
-      "name": "Test It",
-      "url": "https://open.spotify.com/track/1UMAHQ2G23kmost9bTNv26"
+      "duration_ms": 235068,
+      "name": "Drive With Our Eyes Closed",
+      "url": "https://open.spotify.com/track/7LSJBkFyVA0XxQR9xAYWfy"
     },
     {
       "added_at": "2025-03-11 13:06:47",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2025-03-11 13:06:47",
       "album": {
-        "name": "Landmarks",
-        "url": "https://open.spotify.com/album/2eQeTTJ8jwC4QgOoKGiLFp"
+        "name": "Still",
+        "url": "https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH"
       },
       "artists": [
         {
-          "name": "Bye Bye Brenda",
-          "url": "https://open.spotify.com/artist/4xbailSt3mnMLwv8iRY3d0"
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
         }
       ],
-      "duration_ms": 235068,
-      "name": "Drive With Our Eyes Closed",
-      "url": "https://open.spotify.com/track/7LSJBkFyVA0XxQR9xAYWfy"
+      "duration_ms": 166760,
+      "name": "Test It",
+      "url": "https://open.spotify.com/track/1UMAHQ2G23kmost9bTNv26"
     },
     {
       "added_at": "2025-03-11 13:06:47",

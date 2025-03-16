@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ん・フェニ
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,004 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,010 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 48 | [奥二重で見る](https://open.spotify.com/track/5OT7zL5hxwq9K0nGEYKS05) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [Catch](https://open.spotify.com/album/5BDVlDH6vXjXNTAvMropw6) | 3:31 |
 | 49 | [ナイスアイディア！](https://open.spotify.com/track/0M7rTSchHlSDzbwjA7s9eu) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ナイスアイディア！](https://open.spotify.com/album/5iHRmLOt9Qn5hgqirPBKAU) | 3:15 |
 | 50 | [GG](https://open.spotify.com/track/6FTHtzIv5KmyLFkKyNe0jq) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [GG](https://open.spotify.com/album/5lCc7uhAlFqamdV552r6HJ) | 3:16 |
-| 51 | [恋の8秒ルール](https://open.spotify.com/track/26TnbXOgpNt5tIsAl5Qezv) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [恋の8秒ルール](https://open.spotify.com/album/4xveKS1fmSQAFotuTEaM76) | 3:28 |
-| 52 | [あのね、](https://open.spotify.com/track/2Eg1xs17QUpG5qwp4fq94W) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [あのね、](https://open.spotify.com/album/5S4Q6CpID4DgX7VSwneKkR) | 3:38 |
+| 51 | [あのね、](https://open.spotify.com/track/2Eg1xs17QUpG5qwp4fq94W) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [あのね、](https://open.spotify.com/album/5S4Q6CpID4DgX7VSwneKkR) | 3:38 |
+| 52 | [恋の8秒ルール](https://open.spotify.com/track/26TnbXOgpNt5tIsAl5Qezv) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [恋の8秒ルール](https://open.spotify.com/album/4xveKS1fmSQAFotuTEaM76) | 3:28 |
 | 53 | [未恋](https://open.spotify.com/track/52Wr1agI0y15cVG3h5H4a6) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [未恋](https://open.spotify.com/album/5BPiP0dIDTPERkRf25y57i) | 3:08 |
 | 54 | [あいっ！](https://open.spotify.com/track/51VQ67Vil17hljDo2VgopE) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [あいっ！](https://open.spotify.com/album/5Ba1suGdWD1IFXx6DEq9Um) | 1:59 |
 | 55 | [PEAK TIME](https://open.spotify.com/track/6AnigJs8uZ41ANllM0vfRS) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [PEAK TIME](https://open.spotify.com/album/4uHcA8aXhHoBTCrkSGctjv) | 3:46 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 69 | [卒業](https://open.spotify.com/track/0hYCof6amQzAcKAqNUp4wR) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [卒業](https://open.spotify.com/album/4wiaREGxvMVJVrXhm0qrst) | 4:24 |
 | 70 | [feelin'](https://open.spotify.com/track/4C0BzFXSBi1G9GdDzYYnnj) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Dungeon](https://open.spotify.com/album/1xWgPTItnMarVlFwjLkuQe) | 2:55 |
 | 71 | [雫](https://open.spotify.com/track/4ABfKq8N5qMsLXOdXTBkjn) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [雫](https://open.spotify.com/album/0UzVBAbTS2VQKmI1E0puym) | 3:02 |
-| 72 | [Without you](https://open.spotify.com/track/7utMFMe3A0Ki8mwOm2kAIX) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [Without you](https://open.spotify.com/album/42r4ioVAytvz2fvvfYrutO) | 4:39 |
+| 72 | [水中少女](https://open.spotify.com/track/1D2Ctp1FFhdStWjWWLQv50) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [Aooo](https://open.spotify.com/album/1MTuizxx88hzJpIL3me9T5) | 3:30 |
 | 73 | [ウラメシヤ](https://open.spotify.com/track/5nh0KvBHyjBoPUA2hhB5jm) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [ウラメシヤ](https://open.spotify.com/album/1dRVcBzh2FG3uqOQFk6V3W) | 3:36 |
-| 74 | [水中少女](https://open.spotify.com/track/1D2Ctp1FFhdStWjWWLQv50) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [Aooo](https://open.spotify.com/album/1MTuizxx88hzJpIL3me9T5) | 3:30 |
-| 75 | [悪夢のような](https://open.spotify.com/track/2Y2h2TYOEaNvSQVlhKUU5C) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような](https://open.spotify.com/album/4b2jXJvgmg5uVJggomGnFk) | 4:19 |
+| 74 | [悪夢のような](https://open.spotify.com/track/2Y2h2TYOEaNvSQVlhKUU5C) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような](https://open.spotify.com/album/4b2jXJvgmg5uVJggomGnFk) | 4:19 |
+| 75 | [Without you](https://open.spotify.com/track/7utMFMe3A0Ki8mwOm2kAIX) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [Without you](https://open.spotify.com/album/42r4ioVAytvz2fvvfYrutO) | 4:39 |
 
 Snapshot ID: `Z9BP+QAAAACpXGcgmbw5X+oSiyF6sD0h`

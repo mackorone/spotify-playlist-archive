@@ -7702,7 +7702,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 171923,
       "name": "Gelato Afternoon",
       "url": "https://open.spotify.com/track/4c4VDNmYelvfPOv19qCGlE"
@@ -9307,6 +9307,24 @@
     },
     {
       "album": {
+        "name": "in a haze",
+        "url": "https://open.spotify.com/album/1eDBDOKDYy0wN0V5eRtyHK"
+      },
+      "artists": [
+        {
+          "name": "Kaptain Kola",
+          "url": "https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116923,
+      "name": "in a haze",
+      "url": "https://open.spotify.com/track/0OpsPckPFX5t1fEvPUDeER"
+    },
+    {
+      "album": {
         "name": "In Comparison With",
         "url": "https://open.spotify.com/album/3vvMXi4IWwUbgQi7S2oxJP"
       },
@@ -9478,7 +9496,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 139700,
       "name": "In Time",
       "url": "https://open.spotify.com/track/3WirhDcL8G01EMrqOFownK"
@@ -17998,6 +18016,24 @@
       "duration_ms": 109714,
       "name": "Sleepless Night",
       "url": "https://open.spotify.com/track/19E1JLs1HA9og77YVVLenA"
+    },
+    {
+      "album": {
+        "name": "Sleepless Nostalgia",
+        "url": "https://open.spotify.com/album/1UMbD2w6ReXXlEptz1djbN"
+      },
+      "artists": [
+        {
+          "name": "Cereal Party",
+          "url": "https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131351,
+      "name": "Sleepless Nostalgia",
+      "url": "https://open.spotify.com/track/5BLkWFjzHWcdLb822MtiHk"
     },
     {
       "album": {

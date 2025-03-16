@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 74764,
+  "num_followers": 74794,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAACQhfEu996u/XH6xVaOUKNv",
+  "snapshot_id": "Z9NxgAAAAADYPCixzNt3D60cEywP+y5T",
   "tracks": [
     {
       "added_at": null,
@@ -759,6 +759,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blink Twice (Dos Veces Remix)",
+        "url": "https://open.spotify.com/album/29rcLP1Uni7elTtxuiXF1J"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 154134,
+      "name": "Blink Twice - Dos Veces Remix",
+      "url": "https://open.spotify.com/track/6SNHfk6CipQOSALhblynof"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Carpe Diem",
         "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
       },
@@ -1171,22 +1191,6 @@
       "duration_ms": 193626,
       "name": "Amigos por Siempre",
       "url": "https://open.spotify.com/track/2T5zGc7PYrxpgN3lL1BcAO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Be Free",
-      "url": "https://open.spotify.com/track/3vm7gmgWsXY2e6UsVwSbZh"
     }
   ],
   "unique_name": "This Is Belinda",

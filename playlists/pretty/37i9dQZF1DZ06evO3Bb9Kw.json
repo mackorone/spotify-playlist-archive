@@ -1,13 +1,29 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 172116,
+  "num_followers": 172130,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAACLgWUzb5Q2qL1dUKUCNJl5",
+  "snapshot_id": "Z9NxgAAAAADsj3gFrcbbtHGfwYktbyzY",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kerosene (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3m9iIzYKrmMa4tLjASBqFs"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 239331,
+      "name": "I Don't Love Here Anymore",
+      "url": "https://open.spotify.com/track/1NvxMFUJm32lDXdxgTfd5z"
+    },
     {
       "added_at": null,
       "album": {
@@ -79,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crazy Ex-Girlfriend",
-        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "Gunpowder & Lead",
-      "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whirlwind",
         "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
       },
@@ -111,6 +111,22 @@
       "duration_ms": 237773,
       "name": "Good Horses - feat. Miranda Lambert",
       "url": "https://open.spotify.com/track/6cUJmzU24GorRheKghmNkY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crazy Ex-Girlfriend",
+        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "Gunpowder & Lead",
+      "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
     },
     {
       "added_at": null,
@@ -331,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 272640,
-      "name": "Holding On to You",
-      "url": "https://open.spotify.com/track/7A35lRz4cm0QkbnlNAJPtm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Four The Record",
         "url": "https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m"
       },
@@ -359,6 +359,22 @@
       "duration_ms": 253373,
       "name": "Over You",
       "url": "https://open.spotify.com/track/3fDsErbmOD3TuaSDuxSXav"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 272640,
+      "name": "Holding On to You",
+      "url": "https://open.spotify.com/track/7A35lRz4cm0QkbnlNAJPtm"
     },
     {
       "added_at": null,
@@ -391,22 +407,6 @@
       "duration_ms": 241786,
       "name": "Tequila Does",
       "url": "https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 204386,
-      "name": "Little Red Wagon",
-      "url": "https://open.spotify.com/track/4sl4UWqzHSG7riBKdralwy"
     },
     {
       "added_at": null,
@@ -499,6 +499,22 @@
       "duration_ms": 95746,
       "name": "Okie From Muskogee - Live",
       "url": "https://open.spotify.com/track/529x2bhs2op70bGqGOoLk4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 204386,
+      "name": "Little Red Wagon",
+      "url": "https://open.spotify.com/track/4sl4UWqzHSG7riBKdralwy"
     },
     {
       "added_at": null,
@@ -760,9 +776,9 @@
           "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Makin' Plans",
-      "url": "https://open.spotify.com/track/4SgbELGcdmMdVtSbpkSG6x"
+      "duration_ms": 177866,
+      "name": "Heart Like Mine",
+      "url": "https://open.spotify.com/track/4EDeBzhZMcHEx7A8IcDiaL"
     },
     {
       "added_at": null,
@@ -828,9 +844,9 @@
           "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 177866,
-      "name": "Heart Like Mine",
-      "url": "https://open.spotify.com/track/4EDeBzhZMcHEx7A8IcDiaL"
+      "duration_ms": 230000,
+      "name": "Makin' Plans",
+      "url": "https://open.spotify.com/track/4SgbELGcdmMdVtSbpkSG6x"
     },
     {
       "added_at": null,
@@ -975,22 +991,6 @@
       "duration_ms": 196733,
       "name": "Takin' Pills",
       "url": "https://open.spotify.com/track/2I8sTYMwuTsTL3K5vR6MB5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crazy Ex-Girlfriend",
-        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Crazy Ex-Girlfriend",
-      "url": "https://open.spotify.com/track/2E9n1Zpby16xLUPoujMUSd"
     }
   ],
   "unique_name": "This Is Miranda Lambert",

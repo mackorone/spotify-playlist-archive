@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! MC Davo y Sandro Malandro en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,708 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,720 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 7 | [Te Acostumbraste](https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Te Acostumbraste](https://open.spotify.com/album/5EkipqfG0SB3Rph3JfPf0U) | 3:02 |
 | 8 | [Quien E’ Ese?](https://open.spotify.com/track/7ELDxZ2e2f6hPiGiQGX9SC) | [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky) | [Quien E’ Ese?](https://open.spotify.com/album/0HdAEzSLkrcCvM3iGwDS0A) | 2:26 |
 | 9 | [Anda Duro](https://open.spotify.com/track/2FPG211judVyezcyFN2RAc) | [Papera](https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW) | [Anda Duro](https://open.spotify.com/album/5VUc9lIjhWMXS4oTXLfLh1) | 2:31 |
-| 10 | [Celosa](https://open.spotify.com/track/7bdFHRijPM1oDlk6Lv4JSB) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Obreidy](https://open.spotify.com/artist/2a5TwZOhEyrA5OCzSOwwm0), [Fredilin Antonio Alvarez Santana](https://open.spotify.com/artist/45JTqT1SAh3DS4DEqW3y9M) | [Celosa](https://open.spotify.com/album/0PgqD8FRTArfiMXzhWRTgW) | 2:12 |
+| 10 | [Celosa](https://open.spotify.com/track/7bdFHRijPM1oDlk6Lv4JSB) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Obreidy](https://open.spotify.com/artist/2a5TwZOhEyrA5OCzSOwwm0) | [Celosa](https://open.spotify.com/album/0PgqD8FRTArfiMXzhWRTgW) | 2:12 |
 | 11 | [Alcaeda](https://open.spotify.com/track/6vk5DaPXDSekRPC1wF5ssj) | [El Fother](https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug), [Liil Jay](https://open.spotify.com/artist/0KA4BF3xL0wSVEY5ovpEru) | [Alcaeda](https://open.spotify.com/album/6ZTQkqTNlGlsSxdl2fNXoE) | 2:43 |
 | 12 | [Superdeportivo](https://open.spotify.com/track/01oXlVCevQVsKRVJBEKqA3) | [Dano](https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0), [Ill Pekeño](https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8), [Ergo Pro](https://open.spotify.com/artist/6RGXMZ5gUtYKHpG3RQ9fM4) | [Nuevos Trapos](https://open.spotify.com/album/05QwR4mSOlpHbtYFAOcB4f) | 3:46 |
 | 13 | [La Crv](https://open.spotify.com/track/1CV22s2NVOA81yNqdKkWdT) | [Kiry Curu](https://open.spotify.com/artist/3nb8360gVWO9vWGE16bE9A), [Richard Miller Dr](https://open.spotify.com/artist/4fIsIORlRuJGkNxFmX22fA) | [La Crv](https://open.spotify.com/album/4uOfBOrc2Ea8ayRr0CCpgI) | 2:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 
 > Playlist oficial del j\-hope \- Hope On The Stage POP UP Tour en CDMX 💜✨🫰🏽
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,118 likes - 41 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,175 likes - 41 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 14 | [MAMA](https://open.spotify.com/track/51hIGgLnT8s6gEzjVqKlEF) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:32 |
 | 15 | [i don't know \(with HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/track/0ObH6HhEWiI2kXBJ4tusbQ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 3:03 |
 | 16 | [lock / unlock \(with benny blanco & Nile Rodgers\)](https://open.spotify.com/track/3aKXtIPNRoD73KLpsNnNoK) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 3:01 |
-| 17 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 |
-| 18 | [on the street \(solo version\)](https://open.spotify.com/track/0Gxnj8yTGYxMYyWcR4wawW) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 3:11 |
+| 17 | [on the street \(solo version\)](https://open.spotify.com/track/0Gxnj8yTGYxMYyWcR4wawW) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 3:11 |
+| 18 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 |
 | 19 | [Chicken Noodle Soup \(feat\. Becky G\)](https://open.spotify.com/track/2y6Ty2NPAsP84XJAtzLxuk) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Chicken Noodle Soup \(feat\. Becky G\)](https://open.spotify.com/album/2wwGHSWLwrlXDmi3DEaZ4A) | 3:55 |
 | 20 | [= \(Equal Sign\)](https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 1:54 |
 | 21 | [Hope World](https://open.spotify.com/track/5UMPPsXaGbR1qtzcnEtTpM) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Hope World](https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7) | 3:24 |
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 24 | [what if… \(dance mix\)](https://open.spotify.com/track/6W6kWAXbMS2aOJXoUpw7iI) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [JINBO the SuperFreak](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 3:16 |
 | 25 | [Airplane](https://open.spotify.com/track/2jk6oBuLiCZJTDWhlJEzIw) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Hope World](https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7) | 3:17 |
 | 26 | [Blue Side](https://open.spotify.com/track/1nwdfbj4UyRMpa9L98a4Yi) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Blue Side](https://open.spotify.com/album/1PwHmb34vUnPLJp3vSLKed) | 3:18 |
-| 27 | [Blue Side \(Outro\)](https://open.spotify.com/track/20zr2Oef3PVeGRxjmSF5CC) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Hope World](https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7) | 1:30 |
+| 27 | [Base Line](https://open.spotify.com/track/3eSCPt6StovDAIps2XhZ2Z) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Hope World](https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7) | 1:29 |
 | 28 | [Pandora's Box](https://open.spotify.com/track/2On611HXKQAbaYkuc4NQAm) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:36 |
-| 29 | [Base Line](https://open.spotify.com/track/3eSCPt6StovDAIps2XhZ2Z) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Hope World](https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7) | 1:29 |
+| 29 | [Blue Side \(Outro\)](https://open.spotify.com/track/20zr2Oef3PVeGRxjmSF5CC) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Hope World](https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7) | 1:30 |
 | 30 | [Future](https://open.spotify.com/track/0Puudh380z6cOCgMaTNm7h) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:19 |
 | 31 | [What if…](https://open.spotify.com/track/1fNwwml8UcKvhfM6YEVIRh) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:16 |
 | 32 | [STOP](https://open.spotify.com/track/1XIIvx9S19CZVc7eow7EX7) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:02 |

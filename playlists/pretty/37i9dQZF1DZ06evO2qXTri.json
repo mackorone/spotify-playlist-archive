@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 33212,
+  "num_followers": 33225,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAACYxj47rMx8HPY9OjoBL5ig",
+  "snapshot_id": "Z9NxgAAAAACPQCeIDlQlYC3Wq1GQkE5y",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Father's Day",
+        "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 272593,
+      "name": "Try Love",
+      "url": "https://open.spotify.com/track/7o22AXYfe3kGgj2xDnmc3h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hiding Place",
         "url": "https://open.spotify.com/album/5A5ePoPwlIuxVmn3cIhiFw"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 214008,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/7vF5RIx2jHtt9Y0OElOZKK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Father's Day",
-        "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 272593,
-      "name": "Try Love",
-      "url": "https://open.spotify.com/track/7o22AXYfe3kGgj2xDnmc3h"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 391695,
+      "name": "Father Knows Best",
+      "url": "https://open.spotify.com/track/5PWXxYsrzyQQNeNwrRmmu2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 228148,
       "name": "RAIN DOWN ON ME (feat. Kirk Franklin, Maverick City Music, Kierra Sheard, Chandler Moore)",
       "url": "https://open.spotify.com/track/5y2cCCIlatBeApYP5G8sEM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 391695,
-      "name": "Father Knows Best",
-      "url": "https://open.spotify.com/track/5PWXxYsrzyQQNeNwrRmmu2"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04. (Listen to K-Pop rainy day songs.)",
-  "num_followers": 15505,
+  "num_followers": 15502,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",
   "owner": {
     "name": "Spotify",
@@ -559,26 +559,6 @@
     {
       "added_at": "2025-02-10 12:30:03",
       "album": {
-        "name": "Alive with you",
-        "url": "https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT"
-      },
-      "artists": [
-        {
-          "name": "Yel",
-          "url": "https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15"
-        },
-        {
-          "name": "SFC.JGR",
-          "url": "https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "Alive with you (feat. SFC.JGR)",
-      "url": "https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4"
-    },
-    {
-      "added_at": "2025-02-10 12:30:03",
-      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 264119,
       "name": "Cape",
       "url": "https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK"
+    },
+    {
+      "added_at": "2025-02-10 12:30:03",
+      "album": {
+        "name": "Alive with you",
+        "url": "https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT"
+      },
+      "artists": [
+        {
+          "name": "Yel",
+          "url": "https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15"
+        },
+        {
+          "name": "SFC.JGR",
+          "url": "https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "Alive with you (feat. SFC.JGR)",
+      "url": "https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4"
     },
     {
       "added_at": "2025-02-10 12:30:03",

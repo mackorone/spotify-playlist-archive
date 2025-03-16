@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jRF2J2f81d.md) - [plain]
 
 > The playlist for students, by students\. Powered by Student Music Network and Fly Live at Nottingham Trent University ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,572 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,573 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

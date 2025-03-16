@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Weekly update for Indie releases\. Cover: Bon Iver
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,959 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,957 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 2 | [Crystal](https://open.spotify.com/track/1IqmnPLGtWJn8p4GkJdk8A) | [Adult Mom](https://open.spotify.com/artist/7tuwjSE2q4zeBdNObeO7LB) | [Crystal](https://open.spotify.com/album/48rRfUJBOsGw9KgU86iKn2) | 3:42 |
 | 3 | [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 |
 | 4 | [Strange Rooms](https://open.spotify.com/track/2I5r34P8jfleAwAGOLaHbY) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ) | [The Joy of Coincidences](https://open.spotify.com/album/4c2E4n34cBqGr2kVzSmDD6) | 3:20 |
-| 5 | [Remains](https://open.spotify.com/track/2pGHd3wRM244IOFAC34FrX) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Remains](https://open.spotify.com/album/30wR8ockAAhNsBx57ocssO) | 3:16 |
+| 5 | [remains](https://open.spotify.com/track/2pGHd3wRM244IOFAC34FrX) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [remains](https://open.spotify.com/album/30wR8ockAAhNsBx57ocssO) | 3:16 |
 | 6 | [Talk](https://open.spotify.com/track/2g3c43AWIKXT8hFHV9UlF6) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Talk](https://open.spotify.com/album/6kX0IaoVlOu3my3g9Zzi36) | 3:17 |
 | 7 | [Hot Sage Kiss \(with May\)](https://open.spotify.com/track/1kOKIeQiIh0Waa5GqXGz0L) | [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ), [May](https://open.spotify.com/artist/1qUYX7PH6ubHnoCGWbjEW6) | [Hot Sage Kiss \(with May\)](https://open.spotify.com/album/6BBZY4GRQ7POetnR78XaT5) | 2:44 |
 | 8 | [Marseille](https://open.spotify.com/track/43qx8PEmvj1r7xO9BKjS3a) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Divinations](https://open.spotify.com/album/2uISRQaBpbTvGQL67DEFcV) | 3:56 |

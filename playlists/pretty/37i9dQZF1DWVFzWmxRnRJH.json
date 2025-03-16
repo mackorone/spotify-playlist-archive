@@ -1,6 +1,6 @@
 {
   "description": "A fun library of country hits to pass on to the next generation!",
-  "num_followers": 312685,
+  "num_followers": 312858,
   "original_name": "Raised on Country",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
-        "name": "Taylor Swift",
-        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 201106,
-      "name": "Our Song",
-      "url": "https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN"
-    },
-    {
-      "added_at": "2025-02-18 00:33:12",
-      "album": {
         "name": "Everything I Love",
         "url": "https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 158626,
       "name": "Little Bitty",
       "url": "https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl"
+    },
+    {
+      "added_at": "2025-02-18 00:33:12",
+      "album": {
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 201106,
+      "name": "Our Song",
+      "url": "https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN"
     },
     {
       "added_at": "2025-02-18 00:33:12",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
-        "name": "A Decade Of Hits",
-        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
-      },
-      "artists": [
-        {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "The Devil Went Down to Georgia",
-      "url": "https://open.spotify.com/track/383Xl5QTigwj3QiA3Qc6S7"
-    },
-    {
-      "added_at": "2025-02-18 00:33:12",
-      "album": {
         "name": "Wide Open Spaces",
         "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 223832,
       "name": "Wide Open Spaces",
       "url": "https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1"
+    },
+    {
+      "added_at": "2025-02-18 00:33:12",
+      "album": {
+        "name": "A Decade Of Hits",
+        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
+      },
+      "artists": [
+        {
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "The Devil Went Down to Georgia",
+      "url": "https://open.spotify.com/track/383Xl5QTigwj3QiA3Qc6S7"
     },
     {
       "added_at": "2025-02-18 00:33:12",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
-        "name": "We Must Believe In Magic",
-        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
-      },
-      "artists": [
-        {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "Don't It Make My Brown Eyes Blue",
-      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
-    },
-    {
-      "added_at": "2025-02-18 00:33:12",
-      "album": {
         "name": "I'm Alright",
         "url": "https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 200960,
       "name": "Bye-Bye",
       "url": "https://open.spotify.com/track/5FxgRnXBHMM0q4stwqrjjM"
+    },
+    {
+      "added_at": "2025-02-18 00:33:12",
+      "album": {
+        "name": "We Must Believe In Magic",
+        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
+      },
+      "artists": [
+        {
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "Don't It Make My Brown Eyes Blue",
+      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
     },
     {
       "added_at": "2025-02-18 00:33:12",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
-        "name": "Be Here",
-        "url": "https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89"
+        "name": "When I Call Your Name",
+        "url": "https://open.spotify.com/album/0jFNLoCH4SxUlCX7DwCauK"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
         }
       ],
-      "duration_ms": 224629,
-      "name": "Days Go By",
-      "url": "https://open.spotify.com/track/2jwaErbghhcia4JqUYWz3g"
+      "duration_ms": 255133,
+      "name": "When I Call Your Name",
+      "url": "https://open.spotify.com/track/5g12xHasIIOu6rNGQ933qT"
     }
   ],
   "unique_name": "Raised on Country",

@@ -1,6 +1,6 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 2753623,
+  "num_followers": 2753895,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-03-07 04:00:23",
       "album": {
+        "name": "Run It Up",
+        "url": "https://open.spotify.com/album/444Yv0TGl5HeJA0Dg4YdFz"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        }
+      ],
+      "duration_ms": 173502,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8"
+    },
+    {
+      "added_at": "2025-03-07 04:00:23",
+      "album": {
         "name": "family ties (with Kendrick Lamar)",
         "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 252069,
       "name": "family ties (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
-    },
-    {
-      "added_at": "2025-03-07 04:00:23",
-      "album": {
-        "name": "Run It Up",
-        "url": "https://open.spotify.com/album/444Yv0TGl5HeJA0Dg4YdFz"
-      },
-      "artists": [
-        {
-          "name": "Hanumankind",
-          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
-        }
-      ],
-      "duration_ms": 173502,
-      "name": "Run It Up",
-      "url": "https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8"
     },
     {
       "added_at": "2025-03-07 04:00:23",
@@ -483,26 +483,18 @@
     {
       "added_at": "2025-03-07 04:00:23",
       "album": {
-        "name": "Big Dawgs (Remix) [with A$AP Rocky]",
-        "url": "https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6"
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
       "artists": [
         {
-          "name": "Hanumankind",
-          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
-        },
-        {
-          "name": "Kalmi",
-          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 236666,
-      "name": "Big Dawgs (Remix) [with A$AP Rocky]",
-      "url": "https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5"
+      "duration_ms": 135053,
+      "name": "Dua Lipa",
+      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
     },
     {
       "added_at": "2025-03-07 04:00:23",
@@ -523,18 +515,26 @@
     {
       "added_at": "2025-03-07 04:00:23",
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+        "name": "Big Dawgs (Remix) [with A$AP Rocky]",
+        "url": "https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
-      "duration_ms": 135053,
-      "name": "Dua Lipa",
-      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
+      "duration_ms": 236666,
+      "name": "Big Dawgs (Remix) [with A$AP Rocky]",
+      "url": "https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5"
     },
     {
       "added_at": "2025-03-07 04:00:23",
@@ -607,26 +607,6 @@
     {
       "added_at": "2025-03-07 04:00:23",
       "album": {
-        "name": "SUVs (Black on Black)",
-        "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 157675,
-      "name": "SUVs (Black on Black)",
-      "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
-    },
-    {
-      "added_at": "2025-03-07 04:00:23",
-      "album": {
         "name": "SPEAK NOW OR...",
         "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 165270,
       "name": "HOT ONE (with TiaCorine & A$AP Ferg)",
       "url": "https://open.spotify.com/track/083HuPvgqYBLUiv82bVxwE"
+    },
+    {
+      "added_at": "2025-03-07 04:00:23",
+      "album": {
+        "name": "SUVs (Black on Black)",
+        "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 157675,
+      "name": "SUVs (Black on Black)",
+      "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
     },
     {
       "added_at": "2025-03-07 04:00:23",
@@ -771,18 +771,22 @@
     {
       "added_at": "2025-03-07 04:00:23",
       "album": {
-        "name": "Go Hard",
-        "url": "https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo"
+        "name": "Too Hard",
+        "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
       },
       "artists": [
         {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 217610,
-      "name": "Go Hard",
-      "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
+      "duration_ms": 169186,
+      "name": "All Of A Sudden",
+      "url": "https://open.spotify.com/track/0XOMoQbYxYPVLxwK4VDmNA"
     },
     {
       "added_at": "2025-03-07 04:00:23",
@@ -811,6 +815,26 @@
     {
       "added_at": "2025-03-07 04:00:23",
       "album": {
+        "name": "REPEAT IT",
+        "url": "https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "REPEAT IT (with Gunna)",
+      "url": "https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr"
+    },
+    {
+      "added_at": "2025-03-07 04:00:23",
+      "album": {
         "name": "FTCU (SLEEZEMIX)",
         "url": "https://open.spotify.com/album/71bR0ikZ38YGg6RDwhYiU2"
       },
@@ -835,26 +859,6 @@
       "duration_ms": 239667,
       "name": "FTCU (feat. Travis Scott, Chris Brown & Sexyy Red) - SLEEZEMIX",
       "url": "https://open.spotify.com/track/2oTFuT1tKLHlTJsnBSJJiN"
-    },
-    {
-      "added_at": "2025-03-07 04:00:23",
-      "album": {
-        "name": "REPEAT IT",
-        "url": "https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "REPEAT IT (with Gunna)",
-      "url": "https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr"
     },
     {
       "added_at": "2025-03-07 04:00:23",
@@ -899,22 +903,18 @@
     {
       "added_at": "2025-03-07 04:00:23",
       "album": {
-        "name": "Too Hard",
-        "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
+        "name": "Go Hard",
+        "url": "https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo"
       },
       "artists": [
         {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 169186,
-      "name": "All Of A Sudden",
-      "url": "https://open.spotify.com/track/0XOMoQbYxYPVLxwK4VDmNA"
+      "duration_ms": 217610,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
     },
     {
       "added_at": "2025-03-07 04:00:23",

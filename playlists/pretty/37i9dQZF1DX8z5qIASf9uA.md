@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 
 > Recordando al Rey de Corazones a 10 años de su partida 🕊️✨💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,386 likes - 58 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,518 likes - 58 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 | 21 | [La Vida Ruina \- En Vivo](https://open.spotify.com/track/7ynx3PTmerKFNLyW6x8QWN) | [Uriel VR](https://open.spotify.com/artist/6no3rwnpxxnZOqs5IIQJ6j) | [En Vivo De La Costa A La Sierra](https://open.spotify.com/album/7uXBNGw8CYn5xF0wMN50MA) | 3:14 |
 | 22 | [Te Metiste](https://open.spotify.com/track/4KrXsgZHi1yLZLB1Wlgcbt) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:29 |
 | 23 | [El Señor de los Cielos](https://open.spotify.com/track/7GuMMcKE6CzkMx53uvE2bN) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:35 |
-| 24 | [Entre Pláticas y Dudas](https://open.spotify.com/track/3CHXRZcSxwigA1NIsJjs32) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 4:16 |
-| 25 | [Yo Quisiera Entrar](https://open.spotify.com/track/5CjrMbWa5HP0cY3sT28RDi) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 4:42 |
+| 24 | [Yo Quisiera Entrar](https://open.spotify.com/track/5CjrMbWa5HP0cY3sT28RDi) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 4:42 |
+| 25 | [Entre Pláticas y Dudas](https://open.spotify.com/track/3CHXRZcSxwigA1NIsJjs32) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 4:16 |
 | 26 | [Cada Quien](https://open.spotify.com/track/3T6M9C9eOTSeGyDFVbV8uN) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 4:07 |
 | 27 | [Por No Perderte Te Perdi](https://open.spotify.com/track/2ztISQmyTEG5YFb6z3VX3O) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:32 |
 | 28 | [50 Mentadas](https://open.spotify.com/track/76WT1d6vm1EwI6W315XI4P) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:42 |

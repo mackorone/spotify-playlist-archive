@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Chappell Roan, Mother Mother, Warren Zeiders, HAIM and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,961 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,061 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 27 | [This Is The Silence](https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Forest Is The Path \(Extended Edition\)](https://open.spotify.com/album/6irdOmMm1renAtesHgETEv) | 2:59 |
 | 28 | [Larissa \- From Larissa: The Other Side Of Anitta](https://open.spotify.com/track/4eN4QEyIMKQasrQiUUQgq4) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Larissa \(From Larissa: The Other Side Of Anitta\)](https://open.spotify.com/album/2SdPpzdOr4yv0HuvNNWFPc) | 2:15 |
 | 29 | [No Sweat](https://open.spotify.com/track/0K0jgfFssBL0Q5IcFMrsSz) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [No Sweat](https://open.spotify.com/album/6gUOpZLzz8nEAHgLRW9kxZ) | 2:35 |
-| 30 | [I Don't Love Here Anymore](https://open.spotify.com/track/1NvxMFUJm32lDXdxgTfd5z) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene \(Expanded Edition\)](https://open.spotify.com/album/3m9iIzYKrmMa4tLjASBqFs) | 3:59 |
+| 30 | [I Don't Love Here Anymore](https://open.spotify.com/track/1NvxMFUJm32lDXdxgTfd5z) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene \(20th Anniversary Edition\)](https://open.spotify.com/album/3m9iIzYKrmMa4tLjASBqFs) | 3:59 |
 | 31 | [una noche con hugel](https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [una noche con hugel](https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT) | 3:11 |
 | 32 | [WOAHH \(feat\. Clarent\)](https://open.spotify.com/track/7MNGE2R8drq3d04vH5Ahlm) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [WOAHH \(feat\. Clarent\)](https://open.spotify.com/album/0gbMkiBhxKylsgLDimcb0M) | 4:19 |
 | 33 | [Familiar](https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Familiar](https://open.spotify.com/album/2DDhjNTlNh2tkhxwIfgrY5) | 1:47 |

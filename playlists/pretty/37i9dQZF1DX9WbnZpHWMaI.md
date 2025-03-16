@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Anetha.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,642 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,666 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 7 | [Dark Waters](https://open.spotify.com/track/2RlJP44TiTsORVfROLAoKT) | [KARABA](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy) | [Dark Waters](https://open.spotify.com/album/1CKA58O7GAV2LgQ8hrtaWl) | 3:33 |
 | 8 | [take your vibes and go](https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [take your vibes and go](https://open.spotify.com/album/5ZhVETUeqLAWy2YDmF6VPm) | 2:14 |
 | 9 | [Fun Times](https://open.spotify.com/track/7LD3zycYhQNEkvSaDXwFv2) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Fun Times](https://open.spotify.com/album/6cNNIC4lX9MjSyGTXLA1MS) | 4:13 |
-| 10 | [Going Higher](https://open.spotify.com/track/5z846rGy88Ci59M82v4oyO) | [Cole Knight](https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb), [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Going Higher \(Azzecca Remix\)](https://open.spotify.com/album/5udUxdbrOT11GefmroqEhs) | 3:48 |
+| 10 | [Going Higher \- Azzecca Remix](https://open.spotify.com/track/5z846rGy88Ci59M82v4oyO) | [Cole Knight](https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb), [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Going Higher \(Azzecca Remix\)](https://open.spotify.com/album/5udUxdbrOT11GefmroqEhs) | 3:48 |
 | 11 | [N.U.M.T.E.](https://open.spotify.com/track/4mOeDBDYPH5gXoqro372dT) | [Lauren Duffus](https://open.spotify.com/artist/0jYQCtRXU4qVKfMjqnn05l) | [N.U.M.T.E.](https://open.spotify.com/album/4xX47unKRstG9YzR5ORhvS) | 2:53 |
 | 12 | [Northern Lights](https://open.spotify.com/track/3bt4iH6cBrJPPbCas44szD) | [Ruthlss](https://open.spotify.com/artist/4j3gWUkv9UZeRdk4GNozpS) | [Northern Lights](https://open.spotify.com/album/5xv8wuO5iQ1HmIcJSKsjGH) | 4:21 |
 | 13 | [If You Wanna Scream](https://open.spotify.com/track/2hGb8HWWbKNQ5MnXdJZpUc) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [If You Wanna Scream](https://open.spotify.com/album/1BCR9EGD8PONhIkaKp9xul) | 4:18 |

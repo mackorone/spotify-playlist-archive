@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 68632,
+  "num_followers": 68637,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAACY36aXgRaFmSLMQNlyPPvX",
+  "snapshot_id": "Z9NxgAAAAAAHoDEcvjzNKpYFDeNORKir",
   "tracks": [
     {
       "added_at": null,
@@ -167,6 +167,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "DUCATI (feat. Hades66)",
+        "url": "https://open.spotify.com/album/3p85cVmq4LXmVyVwjV8Ymt"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 246290,
+      "name": "DUCATI (feat. Hades66)",
+      "url": "https://open.spotify.com/track/0wONQiSrMfVXJrhVqvC5lR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Curiosidad (Blue Grand Prix Remix) [feat. Dj Nelson, JHAYCO, Lunay & Kendo Kaponi]",
         "url": "https://open.spotify.com/album/0KhKYoSXQqEnXDRmIKMmGm"
       },
@@ -203,34 +231,6 @@
       "duration_ms": 382555,
       "name": "La Curiosidad (feat. Dj Nelson, JHAYCO, Lunay & Kendo Kaponi) - Blue Grand Prix Remix",
       "url": "https://open.spotify.com/track/7LE1K0lZyRFZjSlrnm7lfD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DUCATI (feat. Hades66)",
-        "url": "https://open.spotify.com/album/3p85cVmq4LXmVyVwjV8Ymt"
-      },
-      "artists": [
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 246290,
-      "name": "DUCATI (feat. Hades66)",
-      "url": "https://open.spotify.com/track/0wONQiSrMfVXJrhVqvC5lR"
     },
     {
       "added_at": null,
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WLGS",
-        "url": "https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh"
-      },
-      "artists": [
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Baby (with Lunay)",
-      "url": "https://open.spotify.com/track/2UXAWKnI5DLc2f9bPfAqTm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Favor (with Nicky Jam & Sech, feat. Farruko, Zion & Lunay)",
         "url": "https://open.spotify.com/album/28561uZztshyZSVG6ElL62"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 233112,
       "name": "El Favor (with Nicky Jam & Sech, feat. Farruko, Zion & Lunay)",
       "url": "https://open.spotify.com/track/684EjRHwNsZQ9hCQxL4NYL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WLGS",
+        "url": "https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Baby (with Lunay)",
+      "url": "https://open.spotify.com/track/2UXAWKnI5DLc2f9bPfAqTm"
     },
     {
       "added_at": null,
@@ -655,6 +655,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ll\u00e9gale",
+        "url": "https://open.spotify.com/album/2FMRC7RV3fbyyMH1oLsdiB"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "Ll\u00e9gale",
+      "url": "https://open.spotify.com/track/4vK8Kvyw1mabkMXJqbZOZT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AMIGA CON BENEFICIOS",
         "url": "https://open.spotify.com/album/1ED1fTcpHUfsXRIGDHPHaS"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 193411,
       "name": "AMIGA CON BENEFICIOS",
       "url": "https://open.spotify.com/track/0Nd9sV9FrxZoDUwiy18Mxs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ll\u00e9gale",
-        "url": "https://open.spotify.com/album/2FMRC7RV3fbyyMH1oLsdiB"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "Ll\u00e9gale",
-      "url": "https://open.spotify.com/track/4vK8Kvyw1mabkMXJqbZOZT"
     },
     {
       "added_at": null,

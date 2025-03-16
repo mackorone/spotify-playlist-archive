@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d4SIi.md) - [plain]
 
 > This is Jordan Davis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,706 likes - 36 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,732 likes - 36 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d4SIi.md) - [plain]
 | 35 | [Guiding Light \(feat\. Sam Hunt / Live Acoustic\)](https://open.spotify.com/track/5lA1Xfr3ZnIKGJRDPcdfxY) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Guiding Light \(feat\. Sam Hunt / Live Acoustic\)](https://open.spotify.com/album/2Yivsi4urNKVmfWlQPhejR) | 5:04 |
 | 36 | [On the Road Again \(ACM Lifting Lives Edition\) \[feat\. Ingrid Andress, Gabby Barrett, Jordan Davis, Russell Dickerson, Lindsay Ell, Riley Green, Caylee Hammack, Cody Johnson, Tenille Townes, Morgan Wallen\]](https://open.spotify.com/track/3cHY2wfceJZ3wcsOuvi1a9) | [ACM Awards New Artist Nominees](https://open.spotify.com/artist/1S5WLkcajugOGAx0DfVyIf), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [On the Road Again \(ACM Lifting Lives Edition\) \[feat\. Ingrid Andress, Gabby Barrett, Jordan Davis, Russell Dickerson, Lindsay Ell, Riley Green, Caylee Hammack, Cody Johnson, Tenille Townes, Morgan Wallen\]](https://open.spotify.com/album/30rdiduDKCF2u35tlagbOP) | 2:40 |
 
-Snapshot ID: `Z9IgAAAAAAAygwMgdAP0EfsjGI2zapdD`
+Snapshot ID: `Z9NxgAAAAADWjo/bvPPQCPszH5jqpjh2`

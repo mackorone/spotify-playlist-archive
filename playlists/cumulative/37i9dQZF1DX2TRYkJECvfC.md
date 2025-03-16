@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-579 songs - 2 day 0 hr 13 min
+580 songs - 2 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [Mas](https://open.spotify.com/track/3i1zwjMO1fmW4uI9r7iiJW) | [Ten Walls](https://open.spotify.com/artist/4veIvBHKoUacjuoMOm3vsg) | [Mas](https://open.spotify.com/album/1dPZfWvc8Ojdpcz0naiIkH) | 7:46 | 2021-12-08 | 2022-11-17 |
 | [Medium](https://open.spotify.com/track/6MLh79MhMrzh25OoF4o4hA) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Medium](https://open.spotify.com/album/2NcT8DWACI7PjmoOufep5G) | 3:58 | 2023-02-22 |  |
 | [Mellow](https://open.spotify.com/track/5dhQJgHeU8xa1OtEbPebVr) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Mellow](https://open.spotify.com/album/4uZzlvqWYyF8erhXX85QmB) | 7:56 | 2021-12-08 | 2022-05-22 |
-| [Melting Bliss](https://open.spotify.com/track/7wzfiANWv9KB89QBgwbKif) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Melting Bliss](https://open.spotify.com/album/0lI1GqJDDjGqBabdcaNNiR) | 6:44 | 2024-07-12 |  |
+| [Melting Bliss](https://open.spotify.com/track/7wzfiANWv9KB89QBgwbKif) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Melting Bliss](https://open.spotify.com/album/0lI1GqJDDjGqBabdcaNNiR) | 6:44 | 2024-07-12 | 2025-03-16 |
 | [Memories](https://open.spotify.com/track/3wNi79QD5Jkz9yWFSGEeBl) | [LJ MASE](https://open.spotify.com/artist/3agWAq6ZjoWlv5Igeya98N), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Memories](https://open.spotify.com/album/2eVjPnHAVEhHd4povh4dRg) | 5:06 | 2021-12-08 | 2022-11-17 |
 | [Midnight \- Original Mix](https://open.spotify.com/track/5jAAoKfKfENn8EfjqfItKX) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Midnight EP](https://open.spotify.com/album/0IO4rC04ohE3akbw7dQX8v) | 6:59 | 2022-05-03 | 2024-04-13 |
 | [Miles Away](https://open.spotify.com/track/1OREiVG8WlWMHNvGsLlHQ7) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Miles Away](https://open.spotify.com/album/7yzn2vH1JLMwx0uTwiQpxa) | 4:28 | 2023-09-08 |  |
@@ -555,6 +555,7 @@
 | [Wasting Love](https://open.spotify.com/track/57UWfCanZsaBLtKVdceMOp) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Wasting Love](https://open.spotify.com/album/7cHrVEGRTqnSgrgu1h0Bu1) | 2:13 | 2021-12-08 | 2023-01-06 |
 | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Grace Tither](https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa) | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf) | 3:22 | 2021-12-08 |  |
 | [Wayside](https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [We Are Always Under The Same Sky](https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ) | 4:09 | 2025-01-17 |  |
+| [Wayside \- Nicky Elisabeth Remix](https://open.spotify.com/track/7wGkO0jo8ALMpsX88NEjr1) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ), [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [Wayside \(Nicky Elisabeth Remix\)](https://open.spotify.com/album/0ZiJ6Bw9LYf1AQpp8tz4UJ) | 3:28 | 2025-03-14 |  |
 | [We Used to Disappear](https://open.spotify.com/track/1sNKiFNrFYD086hl3i6QTP) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [We Used to Disappear](https://open.spotify.com/album/0PHhJfWHYIc0oJlmMD87JU) | 4:00 | 2024-04-12 | 2025-01-29 |
 | [What Can I Do](https://open.spotify.com/track/2CGaIWj2aaWdyCEVL7hVoa) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Blaze / What Can I Do](https://open.spotify.com/album/3g3SOezLpRLmLkNUe5jjpO) | 6:15 | 2022-05-03 | 2024-04-13 |
 | [What Can I Do](https://open.spotify.com/track/6U9DI9uIT0X5XJJBQrC0Xu) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [What Can I Do](https://open.spotify.com/album/3Xy0bFY1wxOoKpTph3NnIO) | 6:15 | 2021-12-08 | 2022-07-29 |

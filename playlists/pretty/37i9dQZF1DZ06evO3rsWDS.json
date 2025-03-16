@@ -1,12 +1,12 @@
 {
   "description": "This is Chiquis. The essential tracks, all in one playlist.",
-  "num_followers": 5580,
+  "num_followers": 5585,
   "original_name": "This Is Chiquis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAD3sbuWC3+G6v9+pIJwTQ3V",
+  "snapshot_id": "Z9NxgAAAAACE/yhOdimvzAzDuPyl1GwZ",
   "tracks": [
     {
       "added_at": null,
@@ -275,26 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si No Te Hubieras Ido",
-        "url": "https://open.spotify.com/album/3v8QrX95YDMi3YBxa1ZKIc"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        },
-        {
-          "name": "MAS Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/1eck0jGANQ1OHOPYEbJzng"
-        }
-      ],
-      "duration_ms": 326330,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/4VtVTc9e0oTVZNBqzV7IZd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
         "url": "https://open.spotify.com/album/6XQpgJ9LkDhEOGumF82Ui7"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 219013,
       "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
       "url": "https://open.spotify.com/track/0KOk1oIIdfKrRNPSPH29eH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si No Te Hubieras Ido",
+        "url": "https://open.spotify.com/album/3v8QrX95YDMi3YBxa1ZKIc"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "MAS Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/1eck0jGANQ1OHOPYEbJzng"
+        }
+      ],
+      "duration_ms": 326330,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/4VtVTc9e0oTVZNBqzV7IZd"
     },
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "De Lo Que Me Salv\u00e9",
+      "url": "https://open.spotify.com/track/0NLswoddn2pdpx2AZ9Wm6J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ni Muerta",
         "url": "https://open.spotify.com/album/45ID2WdGfnY0a0d9kjMdzE"
       },
@@ -539,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamantes",
-        "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
       },
       "artists": [
         {
@@ -548,9 +564,9 @@
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 212320,
-      "name": "De Lo Que Me Salv\u00e9",
-      "url": "https://open.spotify.com/track/0NLswoddn2pdpx2AZ9Wm6J"
+      "duration_ms": 229893,
+      "name": "Esa No Soy Yo",
+      "url": "https://open.spotify.com/track/0KP6ZRIx0ncKnzlm44S1s0"
     },
     {
       "added_at": null,
@@ -571,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 229893,
-      "name": "Esa No Soy Yo",
-      "url": "https://open.spotify.com/track/0KP6ZRIx0ncKnzlm44S1s0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
       },
@@ -603,26 +603,6 @@
       "duration_ms": 203013,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/1DrCBBXN9gEiMU8ME7Vhpt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entre Botellas",
-        "url": "https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        },
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 177240,
-      "name": "Quisieran Tener Mi Lugar",
-      "url": "https://open.spotify.com/track/7gDlXoVYwaafRbz5EHA4FB"
     },
     {
       "added_at": null,
@@ -655,6 +635,26 @@
       "duration_ms": 215306,
       "name": "La Malquerida",
       "url": "https://open.spotify.com/track/7uKph8L0mRiqGJLN4Xhx4J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre Botellas",
+        "url": "https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 177240,
+      "name": "Quisieran Tener Mi Lugar",
+      "url": "https://open.spotify.com/track/7gDlXoVYwaafRbz5EHA4FB"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Regresar\u00e1s",
+        "url": "https://open.spotify.com/album/2G0rUhLzTVlJrq07AlF2fB"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 170106,
+      "name": "No Regresar\u00e1s",
+      "url": "https://open.spotify.com/track/0VAAJceCGgRX2qRilcAXxe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Got It From My Mama (Lo Tengo De Mi Mama)",
         "url": "https://open.spotify.com/album/6QXVVqTWjbGQA3RZsYoUDc"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 198442,
       "name": "Got It From My Mama (Lo Tengo De Mi Mama)",
       "url": "https://open.spotify.com/track/7Ez88DLp50CyywDPZeEN4j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Regresar\u00e1s",
-        "url": "https://open.spotify.com/album/2G0rUhLzTVlJrq07AlF2fB"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 170106,
-      "name": "No Regresar\u00e1s",
-      "url": "https://open.spotify.com/track/0VAAJceCGgRX2qRilcAXxe"
     },
     {
       "added_at": null,
@@ -911,22 +911,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Botellas",
-        "url": "https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2"
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
       },
       "artists": [
         {
           "name": "Chiquis",
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        },
-        {
-          "name": "Lorenzo Mendez",
-          "url": "https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac"
         }
       ],
-      "duration_ms": 166613,
-      "name": "Los Chismes",
-      "url": "https://open.spotify.com/track/35Yl1bQCfcWPoTR8BlKgwP"
+      "duration_ms": 158160,
+      "name": "Bienvenida De Soltera",
+      "url": "https://open.spotify.com/track/3cDwKmgiVP5acuMi62z3Ig"
     }
   ],
   "unique_name": "This Is Chiquis",

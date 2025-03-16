@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 
 > Just chill the F\*\*\* out to our mix of relaxing hits\. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! Chill Pop \| Relaxing Pop \| Chill Vibes \| Lazy Sundays \| Chilled Mix
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 101,678 likes - 114 songs - 6 hr 43 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 101,676 likes - 114 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 | 3 | [Still Gonna Love You \- Acoustic](https://open.spotify.com/track/1UuNTMTxl08X9y50BNlIkW) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Bouquet \(Deluxe\)](https://open.spotify.com/album/0rTqvDgJ5Ec2zuuQrxVP1W) | 3:28 |
 | 4 | [Chemistry](https://open.spotify.com/track/4IFX7fWlprVt3cOmTnTbsy) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/6M9sjDz0KFeroiVwpnTvJk) | 4:44 |
 | 5 | [Slow Motion](https://open.spotify.com/track/5zuV1H77nGNalXohUCsjTY) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Slow Motion](https://open.spotify.com/album/5yOtAcU6AkGjqjiutHxawu) | 3:23 |
-| 6 | [Amore](https://open.spotify.com/track/04NO5JILiZ79m8QdhqKvvq) | [CHIAMRO](https://open.spotify.com/artist/77sBjqP1vgO5lpmKUC5576), [Chiaraspureluv](https://open.spotify.com/artist/5e8vt3hrE78mvyxNpvHiUb), [Samrosauvage](https://open.spotify.com/artist/1KkRdQ4yPNxbROhxa1i3T9) | [Amore](https://open.spotify.com/album/6wTgR9AzUZKPhZrQTdciMW) | 2:05 |
+| 6 | [Amore](https://open.spotify.com/track/04NO5JILiZ79m8QdhqKvvq) | [CHIAMRO](https://open.spotify.com/artist/77sBjqP1vgO5lpmKUC5576) | [Amore](https://open.spotify.com/album/6wTgR9AzUZKPhZrQTdciMW) | 2:05 |
 | 7 | [Nostalgia](https://open.spotify.com/track/1YZOcaGiN1cCwANvG3Ib9G) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:03 |
 | 8 | [Somebody That I Used To Know](https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/4G2rJNhsKOE6iHgtUqZ0Ye) | 4:04 |
 | 9 | [We Are The People](https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 4:27 |

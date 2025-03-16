@@ -741,6 +741,28 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/3aJOIgox0muy4Ub5kAqkBY"
+      },
+      "artists": [
+        {
+          "name": "Cana Nongkhlaw",
+          "url": "https://open.spotify.com/artist/6ufQ7tUpZmW2aaxo8KtdnC"
+        },
+        {
+          "name": "Cassidy Godwin",
+          "url": "https://open.spotify.com/artist/2fCuEFatpJymbazPkYYVi8"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215352,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7v09XY6tJHdv0LQqAiBclI"
+    },
+    {
+      "album": {
         "name": "Glory I Couldn't See",
         "url": "https://open.spotify.com/album/65yrsjMkCHqQmYn6IOsxRd"
       },
@@ -3426,7 +3448,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 218965,
       "name": "Where the Light Dances",
       "url": "https://open.spotify.com/track/3GlHZprqUeYrvnulxU5buU"

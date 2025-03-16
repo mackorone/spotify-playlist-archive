@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,137 likes - 120 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,148 likes - 120 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 | 84 | [Sonidos Tibetanos](https://open.spotify.com/track/54jEoVMgvleXzJV0v4VyP9) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Sonidos de Agua Relajantes](https://open.spotify.com/album/5vlkWsUimB4NLWifc5ljyW) | 4:13 |
 | 85 | [Ray](https://open.spotify.com/track/4DZZQbBwmrheEeiVqvkpEx) | [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn), [Andrew Tasselmyer](https://open.spotify.com/artist/3vwXyo09sUewtbKz6Bwkjx) | [Ray](https://open.spotify.com/album/0RFSLWfMPONtCdhxIRvCPL) | 4:56 |
 | 86 | [Is Not All One](https://open.spotify.com/track/1bqkk2hP7oUQiaSSAxKIPs) | [Tony Scott](https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v) | [Music For Zen Meditation And Other Joys](https://open.spotify.com/album/2TU5pJrurQif5n0ADKdOyp) | 3:12 |
-| 87 | [Consideration](https://open.spotify.com/track/65lddH3h121XMhXaVkazVG) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Consideration](https://open.spotify.com/album/0ogzhXsphb7JCFdSg3dRc6) | 2:27 |
+| 87 | [Consideration](https://open.spotify.com/track/65lddH3h121XMhXaVkazVG) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX), [Anarekli](https://open.spotify.com/artist/0owGYDx2xWGY0t6Nelyf4N), [Iasamani](https://open.spotify.com/artist/6AdGVwkv68xlsPwV2KvEF8) | [Consideration](https://open.spotify.com/album/0ogzhXsphb7JCFdSg3dRc6) | 2:27 |
 | 88 | [Healing Bowls](https://open.spotify.com/track/67DxDlLod2unLLBwdIBmDn) | [Sound of Muses](https://open.spotify.com/artist/5l9VrNt92FCVro9qeWKBwi) | [Healing Tibetan Singing Bowls](https://open.spotify.com/album/5NmADUzrobLLRJ271n2Q9W) | 2:54 |
 | 89 | [Quiet Space \(From Celestial Reiki\)](https://open.spotify.com/track/3PIVz3rSeYU90YmVokPdag) | [Jonathan Goldman](https://open.spotify.com/artist/5KnTqREHfCARDD8im3isVg), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Frequencies: Sounds of Healing](https://open.spotify.com/album/3TEW3eR5UOL7TXFd3bUimc) | 5:46 |
 | 90 | [A Map of Arctic Treasures](https://open.spotify.com/track/1d9NKMiAqDevp5SFQl5Krs) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [A Map of Arctic Treasures](https://open.spotify.com/album/2ViOzWLXwfzpXep7NWp08N) | 2:30 |

@@ -4,7 +4,7 @@
 
 > a playlist without boundaries, featuring rachel chinouriri  ☁️
 
-365 songs - 18 hr 23 min
+366 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [sad all the time](https://open.spotify.com/track/5ZyIoOH7YCB4rEIuMjnKP6) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [sad all the time](https://open.spotify.com/album/0saRJ8Hh5YGEmjP3RD2a5Z) | 1:51 | 2024-09-05 | 2025-01-17 |
 | [Sage](https://open.spotify.com/track/6So2kOCuIGv8gYgOPLHapp) | [Ari Morgan](https://open.spotify.com/artist/1EeyV1OJruocrWkphr12mX) | [Sage](https://open.spotify.com/album/5Vyej2QgmMLO0NPyQ6kkPB) | 2:40 | 2024-07-04 | 2024-10-04 |
 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-08-16 | 2025-03-07 |
+| [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 | 2025-03-15 |  |
 | [Salvation's Forgotten Us](https://open.spotify.com/track/0CwioAiM4Dx3F3OQr1uRwQ) | [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [Salvation's Forgotten Us](https://open.spotify.com/album/2ZuueIQEbtue0QHv998siv) | 3:08 | 2024-09-05 | 2024-11-01 |
 | [Say It Back](https://open.spotify.com/track/4We2NNxELAVtUtRgt2QwGs) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Say It Back](https://open.spotify.com/album/1D9dNHVXLukiiKgPeUPDCY) | 3:01 | 2024-09-26 | 2024-11-01 |
 | [Scary Movie](https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Chloe Qisha](https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM) | 2:44 | 2024-11-15 | 2025-01-17 |

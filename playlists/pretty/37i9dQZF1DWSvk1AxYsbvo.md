@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,894 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,907 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 34 | [Bloom](https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB) | [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC) | [Bloom](https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95) | 3:24 |
 | 35 | [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 |
 | 36 | [4Life](https://open.spotify.com/track/0rG2HaZzBT4ZzaXFPRir7Z) | [KWACA](https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF) | [4Life](https://open.spotify.com/album/2recKAfTygy8DvSrJKxJac) | 2:51 |
-| 37 | [Cat, work for me](https://open.spotify.com/track/2NXf2ErFCHX3Gta6TvBcmo) | [Homemade recording](https://open.spotify.com/artist/18FWmGuOPqQ4xTp4dpLaGi) | [Cat, work for me](https://open.spotify.com/album/2yvD6zmNrO9uV4QcDE1tyH) | 3:02 |
-| 38 | [Going home](https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq) | 3:33 |
+| 37 | [Going home](https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq) | 3:33 |
+| 38 | [Cat, work for me](https://open.spotify.com/track/2NXf2ErFCHX3Gta6TvBcmo) | [Homemade recording](https://open.spotify.com/artist/18FWmGuOPqQ4xTp4dpLaGi) | [Cat, work for me](https://open.spotify.com/album/2yvD6zmNrO9uV4QcDE1tyH) | 3:02 |
 | 39 | [i and i](https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [i and i](https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU) | 2:58 |
 | 40 | [Cheer Up \- Acoustic Version](https://open.spotify.com/track/6kBb78hkYvUu5jllXys9vQ) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [RE: CORD](https://open.spotify.com/album/1Fq2NBoPpMl3izpHzwcW7L) | 3:11 |
 | 41 | [moon river \(2021\)](https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [A story that will turn into a poem](https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF) | 3:13 |
 | 42 | [시소](https://open.spotify.com/track/1laBlIGkUWub0P9SUEIl8J) | [KiTak](https://open.spotify.com/artist/1GVOCXlt9J5PcnyGBtArvM) | [시소](https://open.spotify.com/album/4vF3ZgalUlgCgNWyAQESAR) | 2:43 |
 | 43 | [Call me now](https://open.spotify.com/track/7AfXFqHlw1HVRPobCInpsU) | [JI JIN SEOK](https://open.spotify.com/artist/5iwc2ZJnuU9g4F6JaAY6Zw) | [Call me now](https://open.spotify.com/album/31a95WflUiSabbWq0RAchF) | 3:53 |
-| 44 | [Our little island](https://open.spotify.com/track/2UnkJKUrqHGUGHlaK9pM7Z) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS), [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [Our little island](https://open.spotify.com/album/2KirwVBpp2neOPnRv3GjJT) | 3:42 |
-| 45 | [Don't Ever Leave Me](https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Seoul Check\-in OST Part 8](https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5) | 2:58 |
+| 44 | [Don't Ever Leave Me](https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Seoul Check\-in OST Part 8](https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5) | 2:58 |
+| 45 | [Our little island](https://open.spotify.com/track/2UnkJKUrqHGUGHlaK9pM7Z) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS), [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [Our little island](https://open.spotify.com/album/2KirwVBpp2neOPnRv3GjJT) | 3:42 |
 | 46 | [Do You Know My Heart \(Feat\. NUITNUIT\)](https://open.spotify.com/track/5NmIcpSaKgwkmezmI8LQDC) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Do You Know My Heart](https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD) | 3:21 |
 | 47 | [My \(Prod\. Norwegian Wood\)](https://open.spotify.com/track/6qIXTn914YMxHWvHNm14Nh) | [Baek Sun](https://open.spotify.com/artist/3OyQSzRpBjTj8LIkbkjU8O) | [My](https://open.spotify.com/album/6lxViYPgD2UjJ1nhgXz9kw) | 2:46 |
-| 48 | [Back Then \(feat\. soo\)](https://open.spotify.com/track/0YQNPNVr02rmCMInKfwRIf) | [JOPH](https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D), [soo](https://open.spotify.com/artist/1khmDqbxa3nA9hWtPLuHqW) | [Back Then \(feat\. soo\)](https://open.spotify.com/album/1ett62oFx82r1y54ZgA4Xy) | 3:04 |
-| 49 | [Hello](https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [My Beautiful Apartment \(O'PENing\) \(Original Soundtrack\)](https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms) | 3:48 |
+| 48 | [Hello](https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [My Beautiful Apartment \(O'PENing\) \(Original Soundtrack\)](https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms) | 3:48 |
+| 49 | [Back Then \(feat\. soo\)](https://open.spotify.com/track/0YQNPNVr02rmCMInKfwRIf) | [JOPH](https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D), [soo](https://open.spotify.com/artist/1khmDqbxa3nA9hWtPLuHqW) | [Back Then \(feat\. soo\)](https://open.spotify.com/album/1ett62oFx82r1y54ZgA4Xy) | 3:04 |
 | 50 | [Voice Of The Forest \- Guitar Version](https://open.spotify.com/track/6NV58PolVIW1nEqXfbsPid) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Voice Of The Forest](https://open.spotify.com/album/6MbzdZpJjL2CXVOuPEVLmb) | 3:53 |
 
 Snapshot ID: `Z1FzXwAAAABEGNc62Zz6P9QFU8GIud5F`

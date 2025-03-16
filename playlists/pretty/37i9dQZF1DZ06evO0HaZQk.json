@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 511562,
+  "num_followers": 511628,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAAqLvaFd854HhD6jlnbgza7",
+  "snapshot_id": "Z9NxgAAAAACOcCUIXhLEGDh9+AQaBe0q",
   "tracks": [
     {
       "added_at": null,
@@ -83,8 +83,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+        "name": "Natalia Lafourcade",
+        "url": "https://open.spotify.com/album/2NHUkx5kUzp2r2laL2fonJ"
       },
       "artists": [
         {
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 231053,
-      "name": "El lugar correcto",
-      "url": "https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v"
+      "duration_ms": 215000,
+      "name": "En el 2000",
+      "url": "https://open.spotify.com/track/2cVJwPD5CaTx2kBZyomzGN"
     },
     {
       "added_at": null,
@@ -115,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Natalia Lafourcade",
-        "url": "https://open.spotify.com/album/2NHUkx5kUzp2r2laL2fonJ"
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
       },
       "artists": [
         {
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 215000,
-      "name": "En el 2000",
-      "url": "https://open.spotify.com/track/2cVJwPD5CaTx2kBZyomzGN"
+      "duration_ms": 231053,
+      "name": "El lugar correcto",
+      "url": "https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v"
     },
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
-        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
-        }
-      ],
-      "duration_ms": 223426,
-      "name": "Soy Lo Prohibido (feat. Los Macorinos)",
-      "url": "https://open.spotify.com/track/1g2ArBYODteuzTtYN7qOT2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Primera Fila",
         "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 241680,
       "name": "Mar\u00eda (with Natalia Lafourcade) - Directo Primera Fila",
       "url": "https://open.spotify.com/track/0xiI5ZeP6mUbem9onslgtK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
+        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "duration_ms": 223426,
+      "name": "Soy Lo Prohibido (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/1g2ArBYODteuzTtYN7qOT2"
     },
     {
       "added_at": null,
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que Construimos",
-        "url": "https://open.spotify.com/album/3aY4BoeqiExyMDDfZNud4M"
-      },
-      "artists": [
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 208289,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/0K1eUOeIAW1jwbqSrgoVMj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nave Especial",
         "url": "https://open.spotify.com/album/0aDzJpuIP4rGj7yjDapFm7"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 214186,
       "name": "Timidez (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Que Construimos",
+        "url": "https://open.spotify.com/album/3aY4BoeqiExyMDDfZNud4M"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 208289,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/0K1eUOeIAW1jwbqSrgoVMj"
     },
     {
       "added_at": null,

@@ -347,6 +347,22 @@
     {
       "added_at": "2024-06-16 15:20:38",
       "album": {
+        "name": "Latest Greatest Straitest Hits",
+        "url": "https://open.spotify.com/album/0FGwWbG9BkfohN3fi2Z7x7"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 204066,
+      "name": "The Best Day",
+      "url": "https://open.spotify.com/track/5ApdBBa3MtTzpF0MbpB2NG"
+    },
+    {
+      "added_at": "2024-06-16 15:20:38",
+      "album": {
         "name": "Home At Last",
         "url": "https://open.spotify.com/album/1eJpsLmeCaf02MCGsdbM6W"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 228453,
       "name": "Ready, Set, Don't Go",
       "url": "https://open.spotify.com/track/4SSUj4OC7giqpMNCqSQSCf"
-    },
-    {
-      "added_at": "2024-06-16 15:20:38",
-      "album": {
-        "name": "Latest Greatest Straitest Hits",
-        "url": "https://open.spotify.com/album/0FGwWbG9BkfohN3fi2Z7x7"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 204066,
-      "name": "The Best Day",
-      "url": "https://open.spotify.com/track/5ApdBBa3MtTzpF0MbpB2NG"
     },
     {
       "added_at": "2024-06-16 15:20:38",

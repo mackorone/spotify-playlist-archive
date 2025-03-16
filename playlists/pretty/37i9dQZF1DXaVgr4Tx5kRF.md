@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 657,558 likes - 65 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 657,616 likes - 65 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 18 | [I Am the Resurrection \- Remastered 2009](https://open.spotify.com/track/5ikdUUm6JbnEVnp35c7dvy) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 8:12 |
 | 19 | [Alright](https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:37 |
 | 20 | [Lucky You](https://open.spotify.com/track/4RG9Ulx2XrTg2achBTPaoo) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Jollification](https://open.spotify.com/album/2aPTNYJ6MjDj7UvIHnJs26) | 4:19 |
-| 21 | [Ready to Go](https://open.spotify.com/track/2bEbTqj36jmuwMhvvCRC2y) | [Republica](https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge) | [Ready To Go](https://open.spotify.com/album/2lxv4za6tEk3J8vN73NWHp) | 5:01 |
-| 22 | [Beautiful Ones \(Remastered\)](https://open.spotify.com/track/0RxWeRjUUQqGUxOYn5gniE) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Coming Up \(Remastered\)](https://open.spotify.com/album/3XCVHuvuKhqPY5sOFEw0Qv) | 3:50 |
+| 21 | [Beautiful Ones \(Remastered\)](https://open.spotify.com/track/0RxWeRjUUQqGUxOYn5gniE) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Coming Up \(Remastered\)](https://open.spotify.com/album/3XCVHuvuKhqPY5sOFEw0Qv) | 3:50 |
+| 22 | [Ready to Go](https://open.spotify.com/track/2bEbTqj36jmuwMhvvCRC2y) | [Republica](https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge) | [Ready To Go](https://open.spotify.com/album/2lxv4za6tEk3J8vN73NWHp) | 5:01 |
 | 23 | [Come Back To What You Know](https://open.spotify.com/track/2BjvbCwtueWDGi0QKgT3yy) | [Embrace](https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7) | [The Good Will Out](https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK) | 4:10 |
 | 24 | [Movin' on Up](https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 3:50 |
 | 25 | [Mulder and Scully](https://open.spotify.com/track/2jlJVAqrN7bHsw7EwPOIIi) | [Catatonia](https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv) | [International Velvet](https://open.spotify.com/album/5oORHAxHQggskA01yI3l6a) | 4:11 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 49 | [Disco 2000](https://open.spotify.com/track/7ec55GDkRIBmsI8XKrG1lu) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class / Deluxe Edition](https://open.spotify.com/album/1W0fmt3UzzyxvzRqvHoNFw) | 4:33 |
 | 50 | [Laid](https://open.spotify.com/track/3PJqVKBvamWgzODoRwqZGm) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [James: The Best Of](https://open.spotify.com/album/0ce2oLBbMhAL3TFcsZZHpb) | 2:36 |
 | 51 | [Just](https://open.spotify.com/track/4SE81CrzH0qPA8KHqM9Syz) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2) | 3:54 |
-| 52 | [The Life Of Riley](https://open.spotify.com/track/6uAoFqSLH9UjCPn4yo4HMh) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Life Of Riley \- The Lightning Seeds Collection](https://open.spotify.com/album/0akFniXaXu6PZb8o7VUGZd) | 4:04 |
-| 53 | [Stupid Girl](https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage](https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG) | 4:18 |
+| 52 | [Stupid Girl](https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage](https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG) | 4:18 |
+| 53 | [The Life Of Riley](https://open.spotify.com/track/6uAoFqSLH9UjCPn4yo4HMh) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Life Of Riley \- The Lightning Seeds Collection](https://open.spotify.com/album/0akFniXaXu6PZb8o7VUGZd) | 4:04 |
 | 54 | [Rocks](https://open.spotify.com/track/2C1LBnSUybZIGRJUkSK2GC) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze), [George Drakoulias](https://open.spotify.com/artist/7gypIdzrRa5Qn38DR8ounG), [David Bianco](https://open.spotify.com/artist/6ups229w24QPVgpwi1Hha6) | [Give Out But Don't Give Up](https://open.spotify.com/album/5MieoQokjgz4vqjyGgeVFZ) | 3:35 |
 | 55 | [Sit Down](https://open.spotify.com/track/3idthQ24V2aPRcthv7Aq5o) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Gold Mother](https://open.spotify.com/album/47lo706CUDxRCsQNSADyd6) | 4:04 |
 | 56 | [Girl From Mars](https://open.spotify.com/track/1JYs5OOgeW1jAOaiiLlJdx) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [The Best Of Ash \(Remastered Version\)](https://open.spotify.com/album/5BFwMp5Uzs15Zasy5YOqib) | 3:33 |

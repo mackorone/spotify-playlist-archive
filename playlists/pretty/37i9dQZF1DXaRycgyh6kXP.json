@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 255373,
+  "num_followers": 255470,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -995,6 +995,22 @@
     {
       "added_at": "2025-03-14 04:00:19",
       "album": {
+        "name": "Pura",
+        "url": "https://open.spotify.com/album/2WsUR9vWIndOnjKXvYcu3c"
+      },
+      "artists": [
+        {
+          "name": "Ceri Wax",
+          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Pura",
+      "url": "https://open.spotify.com/track/4h0ahxYxMcgg6rmwVTr9AA"
+    },
+    {
+      "added_at": "2025-03-14 04:00:19",
+      "album": {
         "name": "A flame my love, a frequency",
         "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 314441,
       "name": "The stars vs creatures",
       "url": "https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4"
-    },
-    {
-      "added_at": "2025-03-14 04:00:19",
-      "album": {
-        "name": "Call",
-        "url": "https://open.spotify.com/album/0BtlgWzegBTP0xtKgLteJP"
-      },
-      "artists": [
-        {
-          "name": "Mascolo",
-          "url": "https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp"
-        }
-      ],
-      "duration_ms": 236260,
-      "name": "Call",
-      "url": "https://open.spotify.com/track/0NKMIeCLz6FhoziY1HjhtO"
     },
     {
       "added_at": "2025-03-14 04:00:19",
@@ -1043,6 +1043,22 @@
       "duration_ms": 181384,
       "name": "Bridges",
       "url": "https://open.spotify.com/track/6WBhXzXyiwsDJ4y2yF3DOp"
+    },
+    {
+      "added_at": "2025-03-14 04:00:19",
+      "album": {
+        "name": "Call",
+        "url": "https://open.spotify.com/album/0BtlgWzegBTP0xtKgLteJP"
+      },
+      "artists": [
+        {
+          "name": "Mascolo",
+          "url": "https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp"
+        }
+      ],
+      "duration_ms": 236260,
+      "name": "Call",
+      "url": "https://open.spotify.com/track/0NKMIeCLz6FhoziY1HjhtO"
     },
     {
       "added_at": "2025-03-14 04:00:19",
@@ -1195,22 +1211,6 @@
       "duration_ms": 266666,
       "name": "Lines",
       "url": "https://open.spotify.com/track/63qu72CjJpo4TWkg7fY54B"
-    },
-    {
-      "added_at": "2025-03-14 04:00:19",
-      "album": {
-        "name": "Pura",
-        "url": "https://open.spotify.com/album/2WsUR9vWIndOnjKXvYcu3c"
-      },
-      "artists": [
-        {
-          "name": "Ceri Wax",
-          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Pura",
-      "url": "https://open.spotify.com/track/4h0ahxYxMcgg6rmwVTr9AA"
     },
     {
       "added_at": "2025-03-14 04:00:19",

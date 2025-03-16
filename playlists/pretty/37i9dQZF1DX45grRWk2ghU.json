@@ -1,6 +1,6 @@
 {
   "description": "I'll help you be popular!",
-  "num_followers": 713016,
+  "num_followers": 713494,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
@@ -329,6 +329,22 @@
       "url": "https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS"
     },
     {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Genie In a Bottle",
+      "url": "https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP"
+    },
+    {
       "added_at": "2024-12-23 18:12:18",
       "album": {
         "name": "STRATEGY",
@@ -347,22 +363,6 @@
       "duration_ms": 201760,
       "name": "Strategy (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
-        "name": "Christina Aguilera (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Genie In a Bottle",
-      "url": "https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Electra Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Bubblegum Bitch",
-      "url": "https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
         "name": "The Sweet Escape",
         "url": "https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 246466,
       "name": "The Sweet Escape",
       "url": "https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "Electra Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Bubblegum Bitch",
+      "url": "https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -751,18 +751,18 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+        "name": "Super Freaky Girl",
+        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 274766,
-      "name": "YA YA",
-      "url": "https://open.spotify.com/track/0K9tfzrxJyCQIf7oAlPwaK"
+      "duration_ms": 170977,
+      "name": "Super Freaky Girl",
+      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Super Freaky Girl",
-        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
       "artists": [
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 170977,
-      "name": "Super Freaky Girl",
-      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
+      "duration_ms": 274766,
+      "name": "YA YA",
+      "url": "https://open.spotify.com/track/0K9tfzrxJyCQIf7oAlPwaK"
     },
     {
       "added_at": "2024-08-03 15:31:45",

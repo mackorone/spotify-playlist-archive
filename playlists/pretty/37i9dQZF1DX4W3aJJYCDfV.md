@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Chappell Roan, Calvin Harris, HAIM and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,787 likes - 117 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,856 likes - 117 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 8 | [BURBERRY](https://open.spotify.com/track/607WIPFOolZIXWAi98xelk) | [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [BURBERRY](https://open.spotify.com/album/17pjR0jdVyaHL4j2BU8a1L) | 2:58 |
 | 9 | [Sunset Blvd](https://open.spotify.com/track/2kpUNuingcchFIhLrbWxIO) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Sunset Blvd](https://open.spotify.com/album/4JCaqlPDBeT9kizAc3PGwL) | 2:47 |
 | 10 | [Like You Are For Me](https://open.spotify.com/track/46kq5YIZR735eci0ZerNly) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [Like You Are For Me](https://open.spotify.com/album/4KD1vLTfYjEEa6QbI1pnsd) | 3:28 |
-| 11 | [GOOD CREDIT](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
+| 11 | [GOOD CREDIT \(with Kendrick Lamar\)](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
 | 12 | [Boys Don't Cry](https://open.spotify.com/track/6VkIPm8ow14mZ7QCUJSqSe) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Boys Don't Cry](https://open.spotify.com/album/6J7vnOZiMpz0ckuqkyFpIX) | 2:42 |
 | 13 | [On & On](https://open.spotify.com/track/2B0xsnWUjm7cPLs9gGoepp) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [On & On](https://open.spotify.com/album/4MkZ4elzb1iHTMmzyYh1Jc) | 3:04 |
 | 14 | [Let Me In](https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Let Me In](https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq) | 3:48 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 20 | [Jungle](https://open.spotify.com/track/614QOxGBDRK2qx8fCWnQxE) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Jungle](https://open.spotify.com/album/2LahAsMCOCcPOs3Xj6NDiS) | 2:40 |
 | 21 | [Be There Still](https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Be There Still](https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL) | 3:15 |
 | 22 | [Talk](https://open.spotify.com/track/2g3c43AWIKXT8hFHV9UlF6) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Talk](https://open.spotify.com/album/6kX0IaoVlOu3my3g9Zzi36) | 3:17 |
-| 23 | [It Gets Better \(Forever Mix\)](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [It Gets Better \(Forever Mix\)](https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO) | 4:12 |
+| 23 | [It Gets Better \- Edit](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [It Gets Better \(Forever Mix\)](https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO) | 4:12 |
 | 24 | [Just As Long As We're Together](https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just As Long As We're Together](https://open.spotify.com/album/2q05Sy95Dj43lDHqXANajn) | 3:14 |
 | 25 | [Who Wants](https://open.spotify.com/track/0qFvmOIl2cd0NItNgXSbv5) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Who Wants](https://open.spotify.com/album/12o0RLnSOC8pR8rBikuwW4) | 3:25 |
 | 26 | [Innocence 2025](https://open.spotify.com/track/3dNDt0VLKc0xUcuTI20Q73) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [Innocence 2025](https://open.spotify.com/album/5zumT6xPCZUHJnKR2ng3pY) | 2:50 |

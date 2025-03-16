@@ -4,7 +4,7 @@
 
 > This is Aitana\. The essential tracks, all in one playlist.
 
-75 songs - 3 hr 46 min
+76 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Aunque No Sea Conmigo](https://open.spotify.com/album/1nv68APHpQMhYtlqln442M) | 2:59 | 2023-11-10 |  |
 | [Berlín](https://open.spotify.com/track/5N5GaRpXYZl5ZKKU5a5LtH) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Berlín](https://open.spotify.com/album/7s4icf5JqLJUpGuRncOTCK) | 2:26 | 2023-11-10 |  |
 | [Chas! Y Aparezco A Tu Lado](https://open.spotify.com/track/2NeLIdSs8z8sQ7zLpABVKy) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Sus Canciones \(Operación Triunfo 2017\)](https://open.spotify.com/album/3zpnroZbKfkLpCdOoeQAN6) | 2:16 | 2024-07-02 | 2024-07-03 |
-| [Coldplay](https://open.spotify.com/track/1aaACV8X5g9coHgXLlEfIX) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Coldplay](https://open.spotify.com/album/10rK1UDegx1LEDnbswIkTk) | 3:03 | 2023-11-10 |  |
+| [Coldplay](https://open.spotify.com/track/1aaACV8X5g9coHgXLlEfIX) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Coldplay](https://open.spotify.com/album/10rK1UDegx1LEDnbswIkTk) | 3:03 | 2023-11-10 | 2025-03-16 |
 | [Con La Miel En Los Labios](https://open.spotify.com/track/2QJcrJNa4KGxQ6bw0MH3Zx) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Spoiler](https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j) | 3:22 | 2023-11-10 |  |
 | [Con Las Ganas](https://open.spotify.com/track/6wlThRyC93GEyCVE9AwONd) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [Sus Canciones \(Operación Triunfo 2017\)](https://open.spotify.com/album/3zpnroZbKfkLpCdOoeQAN6) | 2:48 | 2024-05-12 | 2025-02-09 |
 | [CORAZÓN SIN VIDA](https://open.spotify.com/track/4yWFdN9K3CgzPfMltDZ8Cj) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 3:01 | 2023-11-10 |  |
@@ -74,6 +74,7 @@
 | [Quiero](https://open.spotify.com/track/3SIMIGUdL2n0nfzlHXo7ni) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [La Última \(Banda Sonora Original\)](https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur) | 2:30 | 2023-11-10 |  |
 | [Resilient \(ft\. Aitana\) \[Tiësto Remix\]](https://open.spotify.com/track/4abn7Lc3illnEHFc9ki6x2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Resilient \(ft\. Aitana\) \[Tiësto Remix\]](https://open.spotify.com/album/7hmFzviCSViV9Y9VJvlfYB) | 3:18 | 2023-11-10 |  |
 | [SEGUNDO INTENTO](https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [SEGUNDO INTENTO](https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux) | 3:11 | 2025-01-27 |  |
+| [SENTIMIENTO NATURAL](https://open.spotify.com/track/1uE2MpryIKEUZuGhSipqQG) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [SENTIMIENTO NATURAL](https://open.spotify.com/album/155BdaQ76Y4yxxfKgljH4E) | 3:13 | 2025-03-16 |  |
 | [SI NO VAS A VOLVER](https://open.spotify.com/track/7es67JIZ333OB30dYfjfal) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 2:35 | 2023-11-10 |  |
 | [Si Tú La Quieres](https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Si Tú La Quieres](https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU) | 3:44 | 2023-11-10 | 2024-06-01 |
 | [Si Tú La Quieres](https://open.spotify.com/track/5agt9CgF8dTRXgNtn1zflm) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [En Tus Planes](https://open.spotify.com/album/4mFgW04qaWGcdhimbOZO8F) | 3:44 | 2024-06-03 |  |

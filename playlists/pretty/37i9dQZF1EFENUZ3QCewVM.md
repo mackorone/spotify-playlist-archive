@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 39 | [Aww](https://open.spotify.com/track/2ScqDQj39xCVINvUwT5oqk) | [Baby Ariel](https://open.spotify.com/artist/3ggXjUaLzPuY775WFABpXe) | [Aww](https://open.spotify.com/album/5a4Vx9H8AezpyQxqs2Gywr) | 2:40 |
 | 40 | [Almost Forgot](https://open.spotify.com/track/0htezQjIT0FNJQoZb6EJql) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Past Lives](https://open.spotify.com/album/2OmHMlPVPmSWV77JxiDaYA) | 3:28 |
 | 41 | [Two people](https://open.spotify.com/track/6LPi5m37Sv2N7N3ZdzH51T) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:13 |
-| 42 | [My Man](https://open.spotify.com/track/5T2N2zNtnspdHNKe4badyR) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:23 |
-| 43 | [Kiss the Sky \(from The Wild Robot\)](https://open.spotify.com/track/5TLe0pvHJ9M3aemysRpogS) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Kiss the Sky \(from The Wild Robot\)](https://open.spotify.com/album/1jVIOXL9M4U6T9B8KWW4TW) | 3:35 |
+| 42 | [Kiss the Sky \(from The Wild Robot\)](https://open.spotify.com/track/5TLe0pvHJ9M3aemysRpogS) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Kiss the Sky \(from The Wild Robot\)](https://open.spotify.com/album/1jVIOXL9M4U6T9B8KWW4TW) | 3:35 |
+| 43 | [My Man](https://open.spotify.com/track/5T2N2zNtnspdHNKe4badyR) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:23 |
 | 44 | [That Feeling When](https://open.spotify.com/track/3Va1sFKlIYxo36JTdWDg6I) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [That Feeling When](https://open.spotify.com/album/4yfNr3vVl5nDjhkE0xzK55) | 3:22 |
 | 45 | [Waste](https://open.spotify.com/track/79cH8EYScu6oy4jchIKT5Z) | [Katemale](https://open.spotify.com/artist/0Rth3Qh5ir5RzlPwRpKYqp) | [Waste](https://open.spotify.com/album/1u0G8aMkahjuKzDOjpZdPy) | 3:29 |
 | 46 | [Bipolar](https://open.spotify.com/track/1agOL1akZePDXe21TBbBM2) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Bipolar](https://open.spotify.com/album/2y5oeiOOk7synreCnFAy7A) | 3:22 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 114 | [SPEAK NOW OR FOREVER HOLD YOUR PEACE](https://open.spotify.com/track/0SBQhZMv2SyknHAHUH9Izp) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 0:46 |
 | 115 | [Playing House](https://open.spotify.com/track/3fRUCNwZ5mwpkknsocNW5Q) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:35 |
 
-Snapshot ID: `AbsD4QAAAAAiPYolNxcd30tb8uQ6iSmi`
+Snapshot ID: `AbsJigAAAACNZ+KjR8PI5MH6AWZeVDIP`

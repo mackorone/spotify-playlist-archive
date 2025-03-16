@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,630 likes - 60 songs - 3 hr 17 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,633 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Don't Love Here Anymore](https://open.spotify.com/track/1NvxMFUJm32lDXdxgTfd5z) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene \(Expanded Edition\)](https://open.spotify.com/album/3m9iIzYKrmMa4tLjASBqFs) | 3:59 |
+| 1 | [I Don't Love Here Anymore](https://open.spotify.com/track/1NvxMFUJm32lDXdxgTfd5z) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene \(20th Anniversary Edition\)](https://open.spotify.com/album/3m9iIzYKrmMa4tLjASBqFs) | 3:59 |
 | 2 | [Making Good Time](https://open.spotify.com/track/4jh5v2PmmcryAzPnuEQjUG) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Making Good Time](https://open.spotify.com/album/5JXMh1FdutuSfyPtfdJxMQ) | 2:47 |
 | 3 | [Future Tripping](https://open.spotify.com/track/4w4BEXFhuQM5VcoycPe1zD) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn) | 2:28 |
 | 4 | [Til I Don't](https://open.spotify.com/track/259Ud8jgPARaKWPhqvJ6OD) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Where to Start](https://open.spotify.com/album/1nS5RxqCeB08iFpGUFBx1T) | 2:50 |

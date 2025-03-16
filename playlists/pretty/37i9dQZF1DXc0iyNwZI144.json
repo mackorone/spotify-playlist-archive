@@ -1,6 +1,6 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1049478,
+  "num_followers": 1049494,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -599,26 +599,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Looking For Love",
-        "url": "https://open.spotify.com/album/48FCnfSreWk0y3jyyZjdx1"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 173193,
-      "name": "Looking For Love",
-      "url": "https://open.spotify.com/track/2gol2X0eHr9XHvQLOi7fGS"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Sour Candy (with BLACKPINK)",
         "url": "https://open.spotify.com/album/6y6lP1WRfqEhv8RLy4ufZB"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 157706,
       "name": "Sour Candy (with BLACKPINK)",
       "url": "https://open.spotify.com/track/6R6ZoHTypt5lt68MWbzZXv"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Looking For Love",
+        "url": "https://open.spotify.com/album/48FCnfSreWk0y3jyyZjdx1"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 173193,
+      "name": "Looking For Love",
+      "url": "https://open.spotify.com/track/2gol2X0eHr9XHvQLOi7fGS"
     },
     {
       "added_at": "2024-11-15 03:00:00",

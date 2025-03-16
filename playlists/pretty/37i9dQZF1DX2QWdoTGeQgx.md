@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 
 > wo hen lei \(i'm very tired\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,235 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,232 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 25 | [I Wouldn't Know Any Better Than You](https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [I Wouldn't Know Any Better Than You](https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj) | 2:31 |
 | 26 | [Vicious](https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Vicious](https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS) | 2:29 |
 | 27 | [confidence in me](https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [confidence in me](https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv) | 2:42 |
-| 28 | [BEAUTiFUL](https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [BEAUTiFUL](https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy) | 3:32 |
-| 29 | [grateful](https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 4:01 |
+| 28 | [grateful](https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 4:01 |
+| 29 | [BEAUTiFUL](https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [BEAUTiFUL](https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy) | 3:32 |
 | 30 | [Kotak Hati](https://open.spotify.com/track/0hS54SC4TZFc3N7cSuTz48) | [Hujan](https://open.spotify.com/artist/7FxVB5xQi2szfC6Us1ag9A) | [Lonely Soldier Boy](https://open.spotify.com/album/0iSpXXAw1Sm4RCvjNOKdUL) | 4:52 |
 | 31 | [whoops](https://open.spotify.com/track/0RkW1ZtqR30QtxyUKHCmQv) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [relationshit](https://open.spotify.com/album/2VeUxfOnzVKks0UEX681m2) | 2:27 |
 | 32 | [dear me,](https://open.spotify.com/track/7aGaP4VJ1WOAIL7QlEl1pA) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [dear me,](https://open.spotify.com/album/1wsaqmb8RGkDS3bP5uOfcl) | 2:45 |
@@ -68,15 +68,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 58 | [comeoutside](https://open.spotify.com/track/5GgUvrnmNeJFQifGe5Ywpu) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY), [Yewy](https://open.spotify.com/artist/2nvJsAEdxvSquFlHdYrhTq) | [hi, i like you.](https://open.spotify.com/album/23f0TBnJwXesNGBYlzyLL8) | 3:07 |
 | 59 | [homebody](https://open.spotify.com/track/2Dc0zNIYfOhWs1D13pjQrJ) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr), [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [homebody](https://open.spotify.com/album/5rt24b30Az06G6MYCfjwCJ) | 2:42 |
 | 60 | [Make Me Wanna](https://open.spotify.com/track/3spheePAIR3lvJ5ljJ1BV0) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Make Me Wanna](https://open.spotify.com/album/1uciD7NduLXz1LG5IMn3mG) | 2:19 |
-| 61 | [more than friends](https://open.spotify.com/track/6UKJSeAwuHJ9nl7vyMeUJX) | [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [more than friends](https://open.spotify.com/album/5B7QRaSqhgyNd0u8tKZoEb) | 2:40 |
-| 62 | [van gogh](https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [van gogh](https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi) | 2:53 |
-| 63 | [Smile For Me](https://open.spotify.com/track/49z2kxEp9AzpDY66YuD1jJ) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Smile For Me](https://open.spotify.com/album/0swAhdQVwcJatFVNKPOkyK) | 2:46 |
+| 61 | [Smile For Me](https://open.spotify.com/track/49z2kxEp9AzpDY66YuD1jJ) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Smile For Me](https://open.spotify.com/album/0swAhdQVwcJatFVNKPOkyK) | 2:46 |
+| 62 | [more than friends](https://open.spotify.com/track/6UKJSeAwuHJ9nl7vyMeUJX) | [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [more than friends](https://open.spotify.com/album/5B7QRaSqhgyNd0u8tKZoEb) | 2:40 |
+| 63 | [van gogh](https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [van gogh](https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi) | 2:53 |
 | 64 | [Buat Selamanya](https://open.spotify.com/track/30RXOBps0tCYY6AuM4Rfog) | [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj) | [Buat Selamanya](https://open.spotify.com/album/7An5iHB0LphcsUvwRiRHHl) | 3:34 |
-| 65 | [dinner in bed](https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dinner in bed](https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh) | 3:17 |
-| 66 | [Losing Game](https://open.spotify.com/track/2SXQSKKWv0lCx19Rzu555Q) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Losing Game](https://open.spotify.com/album/6Y5duGqNJhcuwQ4Rl79HgQ) | 2:31 |
+| 65 | [Losing Game](https://open.spotify.com/track/2SXQSKKWv0lCx19Rzu555Q) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Losing Game](https://open.spotify.com/album/6Y5duGqNJhcuwQ4Rl79HgQ) | 2:31 |
+| 66 | [dinner in bed](https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dinner in bed](https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh) | 3:17 |
 | 67 | [Moonlight](https://open.spotify.com/track/54EWwXt6RCv5Err39SHUxK) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Moonlight](https://open.spotify.com/album/1GoPGMUac5hoSm6A7UF819) | 3:06 |
 | 68 | [Killer](https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Killer](https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr) | 3:18 |
-| 69 | [parasite](https://open.spotify.com/track/4ASoS06kltBvEel1ekoziv) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [parasite](https://open.spotify.com/album/6wXSu1dznZzEXakEeMmPca) | 2:11 |
-| 70 | [confidence](https://open.spotify.com/track/1rMEkT856LkjGIHQSGYQxX) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 2:25 |
+| 69 | [Belaian Jiwa](https://open.spotify.com/track/5DmXiAJka1BizGPcV3ME3Y) | [Innuendo](https://open.spotify.com/artist/3QkhrBoDxbCaX6B7KxfAXk) | [Innuendo](https://open.spotify.com/album/1Hz2RjuJq55piRp6x89Riz) | 4:33 |
+| 70 | [parasite](https://open.spotify.com/track/4ASoS06kltBvEel1ekoziv) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [parasite](https://open.spotify.com/album/6wXSu1dznZzEXakEeMmPca) | 2:11 |
 
 Snapshot ID: `Zrr/5gAAAABJDCAg8DYg/p6kzZ6UxTkj`

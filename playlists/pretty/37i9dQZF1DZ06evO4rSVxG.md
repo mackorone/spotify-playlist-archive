@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 
 > This is Tony! Toni! Toné!\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,770 likes - 40 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,177 likes - 40 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 | 39 | [Born Not To Know](https://open.spotify.com/track/6Ix4EuZQQNQFUpXT8EQmM7) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 4:45 |
 | 40 | [Whatever U Want](https://open.spotify.com/track/6bITSikk8EJ3CQaXf7ohEv) | [Lighter Shade Of Brown](https://open.spotify.com/artist/7AyywyUcQP99oit737gZK2), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Thump's Hottest Party Hits](https://open.spotify.com/album/6WSbtX9qFTK4LiiOWogV1S) | 3:58 |
 
-Snapshot ID: `Z9IgAAAAAAAOM+ZhnlST5YvPEX/X+kKF`
+Snapshot ID: `Z9NxgAAAAABGl40Giq+FxlPy7La/IDpB`

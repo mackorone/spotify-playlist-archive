@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: Oi FUSK
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,333 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,325 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,18 +75,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 65 | [Скрути мене](https://open.spotify.com/track/4ZUIe9dSfMNpYuhjOK86zm) | [LOVERA BREAUX](https://open.spotify.com/artist/71iXh9KV482p6lhyCZnaSa) | [Скрути мене](https://open.spotify.com/album/7AgI0CGYTttMFp2a0B8PyA) | 2:22 |
 | 66 | [Чого у сні](https://open.spotify.com/track/6xHw8gPzCLRrcLBPsS2q4n) | [Твій зайчик пише](https://open.spotify.com/artist/46dJPAcFc9mkxDUlXhSyYh) | [Чого у сні](https://open.spotify.com/album/13GfwgH5uMGPfjFRLKyhIe) | 3:21 |
 | 67 | [сонце](https://open.spotify.com/track/4qO2JGY16Psvn6eYSkP67C) | [макс пташник](https://open.spotify.com/artist/1jT1y7O8NtdUwGfCTZM4JE), [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [такі як ми](https://open.spotify.com/album/7wdy8JNB5YETxf3UE8fR0r) | 3:11 |
-| 68 | [не забуду](https://open.spotify.com/track/7BYwCMGeTF5oTBDiq2uBbv) | [MOLODI](https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF) | [не забуду](https://open.spotify.com/album/5q5kwofN1MQb7LODYC9QWt) | 2:18 |
-| 69 | [сирець](https://open.spotify.com/track/3ndRmk1CsIbsMDOIftIxIf) | [пропаща сила](https://open.spotify.com/artist/7qXRtbGyISPD8fUFhIqCyE) | [сирець](https://open.spotify.com/album/0YjnRcxiZPSB9Ldb0f1Kxz) | 4:06 |
-| 70 | [якщо я на колінах, то наврядчи молюся](https://open.spotify.com/track/3hoKJP1T90MD8KXt3J2SwR) | [артилерія](https://open.spotify.com/artist/1iC0iOxwU2oglYqtSr5NV7) | [якщо я на колінах, то наврядчи молюся](https://open.spotify.com/album/0JUW48DhwnxnFEjokzawes) | 1:28 |
-| 71 | [Між нами](https://open.spotify.com/track/1ecPyRhmPHFh08hkXE1gz5) | [POPIL](https://open.spotify.com/artist/24aU0N7zrhEXFJkl48F1he), [остання зупинка](https://open.spotify.com/artist/7GktSt1XudYWyREKgd8DIh) | [Між нами](https://open.spotify.com/album/5fQPPnSHIVZ7MhaaIYsGMQ) | 2:21 |
-| 72 | [Темна вода \(with Infinito String Quartet\)](https://open.spotify.com/track/0NhH9nitmIp13uF3usbDUG) | [Лівінстон](https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9) | [Темна вода \(with Infinito String Quartet\)](https://open.spotify.com/album/4uTgIdhjDuqDigX8lzq3x6) | 3:51 |
+| 68 | [Між нами](https://open.spotify.com/track/1ecPyRhmPHFh08hkXE1gz5) | [POPIL](https://open.spotify.com/artist/24aU0N7zrhEXFJkl48F1he), [остання зупинка](https://open.spotify.com/artist/7GktSt1XudYWyREKgd8DIh) | [Між нами](https://open.spotify.com/album/5fQPPnSHIVZ7MhaaIYsGMQ) | 2:21 |
+| 69 | [не забуду](https://open.spotify.com/track/7BYwCMGeTF5oTBDiq2uBbv) | [MOLODI](https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF) | [не забуду](https://open.spotify.com/album/5q5kwofN1MQb7LODYC9QWt) | 2:18 |
+| 70 | [сирець](https://open.spotify.com/track/3ndRmk1CsIbsMDOIftIxIf) | [пропаща сила](https://open.spotify.com/artist/7qXRtbGyISPD8fUFhIqCyE) | [сирець](https://open.spotify.com/album/0YjnRcxiZPSB9Ldb0f1Kxz) | 4:06 |
+| 71 | [якщо я на колінах, то наврядчи молюся](https://open.spotify.com/track/3hoKJP1T90MD8KXt3J2SwR) | [артилерія](https://open.spotify.com/artist/1iC0iOxwU2oglYqtSr5NV7) | [якщо я на колінах, то наврядчи молюся](https://open.spotify.com/album/0JUW48DhwnxnFEjokzawes) | 1:28 |
+| 72 | [Мільйон](https://open.spotify.com/track/2dLTAiLVmU2A5TKZ2FiAT4) | [МУР](https://open.spotify.com/artist/3NYo9EP6S3ReZ3ep86lsg3) | [Мільйон](https://open.spotify.com/album/55Of9rcj4Teaz4JQnrdces) | 3:56 |
 | 73 | [Зірки](https://open.spotify.com/track/1NdCcKytFz38MOtqQprTMC) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Зірки](https://open.spotify.com/album/1B6W1lCgv5xN3MmAPm0cyh) | 2:57 |
-| 74 | [Мільйон](https://open.spotify.com/track/2dLTAiLVmU2A5TKZ2FiAT4) | [МУР](https://open.spotify.com/artist/3NYo9EP6S3ReZ3ep86lsg3) | [Мільйон](https://open.spotify.com/album/55Of9rcj4Teaz4JQnrdces) | 3:56 |
+| 74 | [Темна вода \(with Infinito String Quartet\)](https://open.spotify.com/track/0NhH9nitmIp13uF3usbDUG) | [Лівінстон](https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9) | [Темна вода \(with Infinito String Quartet\)](https://open.spotify.com/album/4uTgIdhjDuqDigX8lzq3x6) | 3:51 |
 | 75 | [Ти](https://open.spotify.com/track/0D8UhIjw4A9Fbm1MryNo8c) | [Ницо Потворно](https://open.spotify.com/artist/1AbmsaKuOkDN5bVSunBoIY) | [Аудіоєбологія](https://open.spotify.com/album/2iD7x4fjETShVr4GPUe9HZ) | 2:27 |
 | 76 | [Любов і cтрах](https://open.spotify.com/track/2AkbnoKlA9oCeSjFx3JW4s) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0) | [Любов і cтрах](https://open.spotify.com/album/1631pNLFhHVOFBCN6fcLgM) | 2:39 |
 | 77 | [Несумная](https://open.spotify.com/track/4n8Y2TOX0wRZdYzUY8nlqG) | [Vivienne Mort](https://open.spotify.com/artist/6mQd5HeHhMBZK8u2bTCduH) | [Фата](https://open.spotify.com/album/3lxbhmhTvCy7FH2Vi6ia7L) | 4:07 |
 | 78 | [тож бувай](https://open.spotify.com/track/2ZWphDlIe9amOdwGe4bgAW) | [temstime](https://open.spotify.com/artist/2EKtYTgQP4Lu1PFE6yzEUi), [Love, Mary](https://open.spotify.com/artist/7ppNgJPSCMBaqo6NBD1gvt) | [тож бувай](https://open.spotify.com/album/0tuOGPeMyheBhAEUi5Nhpa) | 2:26 |
-| 79 | [я є рана / я є ніж](https://open.spotify.com/track/0RlHrI103DK2g6oI7YzE5O) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [я є рана / я є ніж](https://open.spotify.com/album/1Xu46wHIEnQ86soI44DtmG) | 3:05 |
-| 80 | [Мій кіт і я](https://open.spotify.com/track/3v9aS2vn55mwU8i7Eabufr) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y), [Настя Гонцул](https://open.spotify.com/artist/3HFo8jLzABeRjbns3XAUFt) | [Мій кіт і я](https://open.spotify.com/album/68b1aUd1DwGRhX7FMYCHMH) | 2:53 |
+| 79 | [Мій кіт і я](https://open.spotify.com/track/3v9aS2vn55mwU8i7Eabufr) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y), [Настя Гонцул](https://open.spotify.com/artist/3HFo8jLzABeRjbns3XAUFt) | [Мій кіт і я](https://open.spotify.com/album/68b1aUd1DwGRhX7FMYCHMH) | 2:53 |
+| 80 | [я є рана / я є ніж](https://open.spotify.com/track/0RlHrI103DK2g6oI7YzE5O) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [я є рана / я є ніж](https://open.spotify.com/album/1Xu46wHIEnQ86soI44DtmG) | 3:05 |
 
 Snapshot ID: `Z8W9LQAAAAB2tpx/EhiTIl6oa1xdehnd`

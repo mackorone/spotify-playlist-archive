@@ -4,7 +4,7 @@
 
 > 
 
-319 songs - 18 hr 49 min
+320 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bank Account](https://open.spotify.com/track/5eqK0tbzUPo2SoeZsov04s) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Issa Album](https://open.spotify.com/album/4skCiJhVVSKrDOBtoFbsxU) | 3:40 | 2023-07-13 |  |
 | [Beasty](https://open.spotify.com/track/77JzXZonNumWsuXKy9vr3U) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 2:32 | 2023-07-13 |  |
 | [Beat It](https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:18 | 2023-07-13 |  |
+| [Beggin' On Your Knees \(feat\. Victoria Justice\)](https://open.spotify.com/track/5A4OiB8vQcBIGe2GIMW8LF) | [Victorious Cast](https://open.spotify.com/artist/1KYszkVzlhV3rAqmAcYIgd), [Victoria Justice](https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6) | [Beggin' On Your Knees \(feat\. Victoria Justice\)](https://open.spotify.com/album/0ekqlxpGiU942zdVvPI8mh) | 3:14 | 2025-03-15 |  |
 | [Bend](https://open.spotify.com/track/6N6jXxbXdj2wMIVmjCYRMW) | [Ria Mae](https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT) | [Bend](https://open.spotify.com/album/2buxsXVmW6f0zNyQqLcRto) | 3:30 | 2022-01-18 |  |
 | [Best Song Ever](https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:20 | 2025-02-11 |  |
 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 | 2023-07-13 |  |

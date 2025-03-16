@@ -2235,6 +2235,28 @@
     },
     {
       "album": {
+        "name": "bunda \ud83c\udf51",
+        "url": "https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223855,
+      "name": "bunda \ud83c\udf51",
+      "url": "https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP"
+    },
+    {
+      "album": {
         "name": "AMERI",
         "url": "https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d"
       },
@@ -13122,7 +13144,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 172952,
       "name": "Sweet Dreams (feat. Miguel)",
       "url": "https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k"

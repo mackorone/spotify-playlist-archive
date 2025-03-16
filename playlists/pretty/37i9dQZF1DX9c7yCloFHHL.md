@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: JakoJako
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,666 likes - 102 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,806 likes - 102 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 2 | [Blush](https://open.spotify.com/track/6PXXyLYTDjKeTu5iWI2GA5) | [Wilson Tanner](https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i) | [Blush](https://open.spotify.com/album/5V8mpH3KV9P7O85KPPTycA) | 3:50 |
 | 3 | [Memory Loop](https://open.spotify.com/track/18SpkwWWrKOwtaO1hxBwsS) | [Sieren](https://open.spotify.com/artist/3Jzy4I2ATG22T6bZB24ToD) | [Linked](https://open.spotify.com/album/3CBdRkbiPgPHHDMIy2blc5) | 2:44 |
 | 4 | [Unswept Corners \- Ambient Mix](https://open.spotify.com/track/5WWn2xX50nzutTq1J6QmFA) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Unswept Corners \(Ambient Mix\)](https://open.spotify.com/album/7L07Wyz8ImW099wSguWCQ1) | 3:57 |
-| 5 | [Other Tongues](https://open.spotify.com/track/6qsz4Fn5p4GWdla3N1fU6r) | [The Vernon Spring](https://open.spotify.com/artist/2gzcB4vMIStEDZiQlvywGm) | [Other Tongues](https://open.spotify.com/album/3mg8ZLeMX6PkWS1inOjR7p) | 3:16 |
+| 5 | [Other Tongues](https://open.spotify.com/track/6qsz4Fn5p4GWdla3N1fU6r) | [The Vernon Spring](https://open.spotify.com/artist/2gzcB4vMIStEDZiQlvywGm), [aden](https://open.spotify.com/artist/2TmLX0MEiGgzQfkuiunbHD) | [Other Tongues](https://open.spotify.com/album/3mg8ZLeMX6PkWS1inOjR7p) | 3:16 |
 | 6 | [Light Bed \(Circle 51\)](https://open.spotify.com/track/4qnsORGXJJzD5bw21ec6ck) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Peia](https://open.spotify.com/artist/7fmsT5hyByIpjzMfgrhTM2) | [Light Bed \(Circle 51\)](https://open.spotify.com/album/1RmzyazHty7pPURWu2CFir) | 4:35 |
 | 7 | [Kumquat](https://open.spotify.com/track/3DUhHvuVo5shRpJO61BrJ7) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Kumquat](https://open.spotify.com/album/7BaGosxL813cLEW8SNXaBr) | 3:16 |
 | 8 | [Long Road Home \- Ambient Version](https://open.spotify.com/track/6YMHz1DUfIsBtN5gkTX3E8) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt), [Project AER](https://open.spotify.com/artist/0iMWUBpWAGKAenBVePrZFP) | [Long Road Home \(Ambient Version\)](https://open.spotify.com/album/3t0AGVCQVg6sMq1ynK6XZs) | 4:10 |

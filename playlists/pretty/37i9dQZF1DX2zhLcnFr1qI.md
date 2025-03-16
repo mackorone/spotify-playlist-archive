@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Baby, it's cold outside 🎁🌲 here's some EDM to keep warm!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,044 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,038 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 53 | [All I Want for Christmas Is You](https://open.spotify.com/track/2HMeL2UhAlfrEXigmFOPnQ) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [KAJAK](https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt), [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT) | [All I Want for Christmas Is You](https://open.spotify.com/album/5kUwH6sjr4BFUTRqXZOGjb) | 2:31 |
 | 54 | [Winter Wonderland ^Bsiide](https://open.spotify.com/track/3o61WoISh2MzY6FDB3G5ZE) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Winter Wonderland ^Bsiide](https://open.spotify.com/album/6pcKxl4tKNedCa0n5jmJ3a) | 2:58 |
 | 55 | [Turn Up Ye Merry Gentlemen](https://open.spotify.com/track/7h67jn17fbjofhCBE6kHCe) | [Gent & Jawns](https://open.spotify.com/artist/3NmuArRqqfxT4rvFSgb0cx) | [A Very Decent Christmas](https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph) | 3:36 |
-| 56 | [I Wish \(feat\. Mabel\) \- Christmas Version](https://open.spotify.com/track/6JfqJNzpto4mRuNBfL1prF) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [I Wish \(feat\. Mabel\) \[Christmas Version\]](https://open.spotify.com/album/6c09xz3peTV2CvMv8Hzezy) | 3:20 |
-| 57 | [Reality \- Christmas Mix](https://open.spotify.com/track/2IfezHkC1CFHCHTXlUSyqZ) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Are You With Me / Reality \(Christmas Remixes\)](https://open.spotify.com/album/4U4TGgkDz7FguxhVF15ICf) | 2:40 |
+| 56 | [Reality \- Christmas Mix](https://open.spotify.com/track/2IfezHkC1CFHCHTXlUSyqZ) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Are You With Me / Reality \(Christmas Remixes\)](https://open.spotify.com/album/4U4TGgkDz7FguxhVF15ICf) | 2:40 |
+| 57 | [I Wish \(feat\. Mabel\) \- Christmas Version](https://open.spotify.com/track/6JfqJNzpto4mRuNBfL1prF) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [I Wish \(feat\. Mabel\) \[Christmas Version\]](https://open.spotify.com/album/6c09xz3peTV2CvMv8Hzezy) | 3:20 |
 | 58 | [Santa Tell Me](https://open.spotify.com/track/4AmUOomwGifLOR3lPiweuc) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Stephanie Schulte](https://open.spotify.com/artist/0lFLwxM5lPGtJVmCkjYTQ3) | [Santa Tell Me](https://open.spotify.com/album/4Ya1nBIiIKwE7bRyVw7Zx4) | 2:37 |
 | 59 | [Jingle Bells](https://open.spotify.com/track/6abu6YFNdXxj6PFUdkGUfs) | [Wubbaduck](https://open.spotify.com/artist/36JJbH66Q0tZbKcnjvliDT) | [Jingle Bells](https://open.spotify.com/album/5FovzlmOYobIs5JRk9kZIz) | 2:30 |
 | 60 | [Wonderful Time](https://open.spotify.com/track/1wdnIgVKUpEIpNSvhLta3N) | [NOVA WAV](https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Wonderful Time](https://open.spotify.com/album/0i2aSmDz2rDQi4sZh4pKxL) | 2:41 |

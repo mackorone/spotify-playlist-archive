@@ -4,7 +4,7 @@
 
 > This is Lil Tecca\. The essential tracks, all in one playlist.
 
-90 songs - 3 hr 43 min
+91 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [CHOPPA SHOOT THE LOUDEST \(with Chief Keef, feat.Trippie Redd\)](https://open.spotify.com/track/2MyQK6cKu9IAzNXiBm7TD0) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 4:01 | 2023-12-14 |  |
 | [Come Through \(feat\. Lil Tecca\)](https://open.spotify.com/track/7I7y5vl3dEZFIdWSB2O1ZZ) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [29](https://open.spotify.com/album/1mdGboH4Gfm3hXJc4H4VQh) | 1:52 | 2023-11-10 |  |
 | [D1](https://open.spotify.com/track/2VLnOOBxwytrSmr6r4iW7u) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 2:16 | 2024-09-24 | 2024-09-30 |
+| [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 | 2025-03-16 |  |
 | [Dazi](https://open.spotify.com/track/0ZXJMq3NmrQAOg2tKxzMXA) | [Des Cohen](https://open.spotify.com/artist/0r9gSIx5eiJotNj24GEwfT), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dazi](https://open.spotify.com/album/3cBlEr6ZsToaUk5WzvufTV) | 2:24 | 2024-11-18 | 2024-11-21 |
 | [Dead or Alive](https://open.spotify.com/track/5itTZ7kNRBl65Nn1QO9Ax9) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:02 | 2023-11-10 |  |
 | [Did It Again](https://open.spotify.com/track/4guBZjUyrGoHsTahO3IHdj) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 1:56 | 2023-11-10 |  |

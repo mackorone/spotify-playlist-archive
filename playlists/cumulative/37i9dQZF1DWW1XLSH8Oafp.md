@@ -1072,6 +1072,6 @@
 | [Через сотни лет](https://open.spotify.com/track/6s4ZXqeIieDmX5ZR46rzNE) | [Bmb Spacekid](https://open.spotify.com/artist/6ZlLGjV1Ml9JfAtesdWKxu) | [Через сотни лет](https://open.spotify.com/album/0U3fg06WJUr5P2TRn6KT7O) | 4:46 | 2021-12-17 | 2022-04-16 |
 | [☆ \(feat\. Oklou\)](https://open.spotify.com/track/2RKVFFH9h2vglxvqpN9Xre) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Unlimited Ammo](https://open.spotify.com/album/5itcmCB2iv31ZAlmxpv1Gj) | 3:07 | 2022-05-13 | 2022-08-27 |
 | [♥one love♥](https://open.spotify.com/track/2zFcvXGPhkbOiNYZekEoYK) | [dracodraco](https://open.spotify.com/artist/3GooQnFk2ozVG59lQXIdiH), [LYFE4M](https://open.spotify.com/artist/0BShgKKWNc6kEyR5LXWnzL) | [♥one love♥](https://open.spotify.com/album/4TP5cGeoTSOWYC20fRFYtL) | 2:30 | 2023-06-08 | 2024-02-23 |
-| [𝓔strellita](https://open.spotify.com/track/73gFY57zWZJcINlpUSZv4u) | [Ivohé](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL), [Youf](https://open.spotify.com/artist/4KrDys5MVHOIV0ICEKYCea) | [𝓔strellita](https://open.spotify.com/album/4pXRtvLWjCbCpn9bO1Rc9Z) | 4:28 | 2024-11-08 |  |
+| [𝓔strellita](https://open.spotify.com/track/73gFY57zWZJcINlpUSZv4u) | [RubyyXo](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL), [Youf](https://open.spotify.com/artist/4KrDys5MVHOIV0ICEKYCea) | [𝓔strellita](https://open.spotify.com/album/4pXRtvLWjCbCpn9bO1Rc9Z) | 4:28 | 2024-11-08 |  |
 
 \*This playlist was first scraped on 2022-01-17. Prior content cannot be recovered.

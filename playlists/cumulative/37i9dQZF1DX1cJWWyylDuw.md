@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: CABAL
 
-629 songs - 1 day 16 hr 48 min
+630 songs - 1 day 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Burn Your Local Butcher](https://open.spotify.com/track/75Tg4F8LHcdVwobrWjDfvr) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [Burn Your Local Butcher](https://open.spotify.com/album/7xmTE3xz2qGXA7OVV2hx1m) | 3:04 | 2024-08-23 |  |
 | [Burning Inside](https://open.spotify.com/track/0MiXOInuBPYDPOQIYKgqSG) | [Nylist](https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw), [Late 9](https://open.spotify.com/artist/07du8MUEUnqRsf0zjIDBup) | [Burning Inside](https://open.spotify.com/album/22QraZfafjfmU27NnJacti) | 4:00 | 2025-03-14 |  |
 | [Carcinogenesis](https://open.spotify.com/track/58My0D2eOrppNfx6mzs4MO) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Carcinogenesis](https://open.spotify.com/album/4KVAMyq8wkY6AnnFpcRuKc) | 5:49 | 2024-08-23 | 2025-03-15 |
+| [Carnage in Despair](https://open.spotify.com/track/6ZrHf3qvDCMPaDR83ojn24) | [Gutrectomy](https://open.spotify.com/artist/0GAUayKtM7XULaNosOHwaD), [Kyle Medina](https://open.spotify.com/artist/4gcF5DdDf5H5rdkHvnvRRO) | [Carnage in Despair](https://open.spotify.com/album/3G9IUcjFx2KaodHmkOAVqO) | 3:04 | 2025-03-14 |  |
 | [Casket of Rust](https://open.spotify.com/track/3p63Cu4a1ViOqDU7T8feBD) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Casket of Rust](https://open.spotify.com/album/5SfiHBsWzaeSCPNKepKKAw) | 7:04 | 2024-01-30 | 2024-02-05 |
 | [Casket of Rust](https://open.spotify.com/track/6Ih7n4B7GWNw6TSkcDOTCP) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Death: An Anthology](https://open.spotify.com/album/2JBNKkdKgCZ9mW2IZOuOHd) | 7:04 | 2024-01-30 | 2024-04-19 |
 | [Casket of Rust](https://open.spotify.com/track/79uDCcS7UnIVSpGKDJcmh1) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Casket of Rust](https://open.spotify.com/album/2V1soNndfJC7B8i1vOT3yy) | 7:04 | 2024-08-23 | 2025-03-15 |
@@ -441,7 +442,7 @@
 | [Plague Bringer \- Inhuman Rework](https://open.spotify.com/track/38iDyu6u4bhga9HoufGxX8) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Code: Pandorum](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [Plague Bringer \(Inhuman Rework\)](https://open.spotify.com/album/46j3fZ4N5WVSUZFeyEGquH) | 3:25 | 2024-01-30 | 2025-01-18 |
 | [Plague of Immortality \(feat\. Dean Lamb Of Archspire\)](https://open.spotify.com/track/05lftobM0IU6WsyD2NyRrp) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785), [Dean Lamb Of Archspire](https://open.spotify.com/artist/1pqMeCOEtQ3bV5StT2kx3w) | [Void](https://open.spotify.com/album/2lEDiOQ9EbnvETiOKRTP5i) | 3:49 | 2021-12-17 | 2022-01-20 |
 | [Please End Me](https://open.spotify.com/track/6TlZSSNZd397eYRzbu5SaT) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Please End Me](https://open.spotify.com/album/4IHL9ClOQoD6bT0IipDgPi) | 3:11 | 2023-06-16 |  |
-| [Portrait of God](https://open.spotify.com/track/1W9sFH9GnNHPHYWNvkdN8A) | [Nouri Yetgin](https://open.spotify.com/artist/4QWhRZYvNeYXSBkfW9hCap), [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Sugar Spine](https://open.spotify.com/artist/2xevVC5j2Ink2VeA2wnwkR), [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Torn From Oblivion](https://open.spotify.com/artist/5IXqeHYM84k26hwnTNDuZS) | [Portrait of God](https://open.spotify.com/album/6sQXYY4UOfTmfCo5MbD0Jp) | 4:30 | 2024-09-20 |  |
+| [Portrait of God](https://open.spotify.com/track/1W9sFH9GnNHPHYWNvkdN8A) | [Nouri Yetgin](https://open.spotify.com/artist/4QWhRZYvNeYXSBkfW9hCap), [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Sugar Spine](https://open.spotify.com/artist/2xevVC5j2Ink2VeA2wnwkR), [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Torn From Oblivion](https://open.spotify.com/artist/5IXqeHYM84k26hwnTNDuZS) | [Portrait of God](https://open.spotify.com/album/6sQXYY4UOfTmfCo5MbD0Jp) | 4:30 | 2024-09-20 | 2025-03-16 |
 | [Pray For Peace](https://open.spotify.com/track/7L9JcQCPniTagNbWFXfqqF) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Pray For Peace](https://open.spotify.com/album/0fVihLbx9TE3SSxppwoIyH) | 4:54 | 2021-12-17 | 2024-06-11 |
 | [Predatory](https://open.spotify.com/track/0nCt6JIIzpA8XtQcd6PDtq) | [Face Yourself](https://open.spotify.com/artist/26DU5Lk20t68F2rYc2DcNU) | [Predatory](https://open.spotify.com/album/45SVAzIIYLwIGPsE554EtP) | 2:56 | 2025-03-14 |  |
 | [Prey](https://open.spotify.com/track/3NwPtgv69DAYpb1uEaXjzQ) | [For I Am King](https://open.spotify.com/artist/2etNWORcmPZZBKxcyt6dF4) | [Prey](https://open.spotify.com/album/1KlOaLbLYC4t3qSwfx5uEP) | 3:46 | 2021-12-31 | 2022-04-09 |

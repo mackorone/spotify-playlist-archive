@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Paraguay.
 
-737 songs - 1 day 17 hr 26 min
+738 songs - 1 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:49 | 2023-01-05 | 2023-02-12 |
 | [Boy With Luv \- Japanese ver.](https://open.spotify.com/track/1GAAUZBTaIM1LwNpOJQJrZ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7 \~ THE JOURNEY \~](https://open.spotify.com/album/1nScVw87kRJiT2bg2Kswhp) | 3:50 | 2023-04-04 | 2023-04-06 |
 | [Brindis](https://open.spotify.com/track/1Bb422wJR14f7sA77gGs0V) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:00 | 2024-11-02 | 2024-11-04 |
+| [bunda 🍑](https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [bunda 🍑](https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ) | 3:43 | 2025-03-15 |  |
 | [Buscarte Lejos](https://open.spotify.com/track/7b9hpzFQJaKUAAKsOeDafS) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:14 | 2024-11-02 | 2024-11-04 |
 | [But Daddy I Love Him](https://open.spotify.com/track/5og4Qzt92jJzVDkOtSEilb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 5:40 | 2024-04-20 | 2024-04-22 |
 | [Butakera](https://open.spotify.com/track/60DHrnRAhNJMy4WeEf23NH) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [Butakera](https://open.spotify.com/album/0LmZsaUKBzNRmVt9vC4Rv3) | 2:23 | 2022-10-18 | 2023-08-13 |
@@ -623,7 +624,7 @@
 | [Style \(Taylor's Version\)](https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 | 2023-10-28 | 2023-10-30 |
 | [Super Tuna](https://open.spotify.com/track/5EaVikAxSRponyifRP6Fhp) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Super Tuna](https://open.spotify.com/album/7vreT3Vciy3cTiidhsw9Y2) | 1:08 | 2024-10-02 | 2024-10-12 |
 | [Super Tuna](https://open.spotify.com/track/4pygz13A6EcLL6ti7kqGaf) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Super Tuna](https://open.spotify.com/album/7urG1JarAksXgoLSp5OfnT) | 1:54 | 2024-10-12 | 2024-11-17 |
-| [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI) | 2:52 | 2025-03-08 |  |
+| [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI) | 2:52 | 2025-03-08 | 2025-03-16 |
 | [Só Fé](https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1) | [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [É o Grelo](https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN) | 3:23 | 2024-08-25 | 2024-11-29 |
 | [Súbelo](https://open.spotify.com/track/3fHEwAssCgM4wJYdjT5Ch0) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Súbelo](https://open.spotify.com/album/2l929YaQMj0eFvPMMB4xyq) | 3:59 | 2021-11-21 | 2021-11-28 |
 | [Súbelo](https://open.spotify.com/track/3xv8JksRyqHa1lwkM9xvJf) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:59 | 2021-11-28 | 2022-03-26 |

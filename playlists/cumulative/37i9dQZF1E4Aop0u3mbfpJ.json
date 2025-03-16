@@ -187,6 +187,24 @@
     },
     {
       "album": {
+        "name": "Short n' Sweet (Deluxe)",
+        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2025-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191519,
+      "name": "15 Minutes",
+      "url": "https://open.spotify.com/track/1zhvxTuSha22nsUT5Nw8gE"
+    },
+    {
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I"
       },
@@ -3976,7 +3994,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -4250,7 +4268,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 219973,
       "name": "Blow",
       "url": "https://open.spotify.com/track/3pYDZTJM2tVBUhIRifWVzI"
@@ -6086,7 +6104,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 206866,
       "name": "Can't Remember to Forget You (feat. Rihanna)",
       "url": "https://open.spotify.com/track/7o1Pm9jpH0wFpN5g793Lnq"
@@ -7282,7 +7300,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 214739,
       "name": "Cool for the Summer",
       "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
@@ -10016,6 +10034,24 @@
       "duration_ms": 218480,
       "name": "E.T.",
       "url": "https://open.spotify.com/track/4HOQ8xnZUgfjGFbriclwWv"
+    },
+    {
+      "album": {
+        "name": "AMORTAGE",
+        "url": "https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "date_added": "2025-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190806,
+      "name": "earthquake",
+      "url": "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx"
     },
     {
       "album": {
@@ -14966,7 +15002,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 238886,
       "name": "How Bad Do U Want Me",
       "url": "https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY"
@@ -20723,6 +20759,24 @@
     },
     {
       "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193232,
+      "name": "LoveDrug",
+      "url": "https://open.spotify.com/track/3hcivoswCVR8LZkHR8MYA5"
+    },
+    {
+      "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
       },
@@ -22222,6 +22276,24 @@
       "duration_ms": 225862,
       "name": "Mood Ring",
       "url": "https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv"
+    },
+    {
+      "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/7bRumRaEIgUBnHiwiORk6J"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2025-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155757,
+      "name": "Moonlit Floor (Kiss Me)",
+      "url": "https://open.spotify.com/track/2eyWFRvT7lOQmqfXI25oR1"
     },
     {
       "album": {
@@ -25034,7 +25106,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR"
@@ -27210,7 +27282,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 228093,
       "name": "Rolling in the Deep",
       "url": "https://open.spotify.com/track/6IAZHEBUIGJ6NJKxxOBIEr"
@@ -27806,7 +27878,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 191013,
       "name": "Save Your Tears (Remix) (with Ariana Grande) - Bonus Track",
       "url": "https://open.spotify.com/track/1oFAF1hdPOickyHgbuRjyX"
@@ -28316,7 +28388,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 242973,
       "name": "Set Fire to the Rain",
       "url": "https://open.spotify.com/track/7j4OmvkjRz0PrjFADlHfQx"
@@ -35724,7 +35796,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 173026,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"

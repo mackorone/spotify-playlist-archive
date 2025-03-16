@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,515,625 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,515,656 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 17 | [Velha Infância \- Acústico](https://open.spotify.com/track/2mGLhWWDAy7EnDz8wW3xdY) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Ensaio Acústico](https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1) | 3:01 |
 | 18 | [Tempo Perdido \(Versão Os Dias Eram Assim\)](https://open.spotify.com/track/5nJNdtx7ZtkNRKiYdhb87Z) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Tempo Perdido \(Versão Os Dias Eram Assim\)](https://open.spotify.com/album/7t5ScMLW7t6WIa5F1VRvNN) | 3:28 |
 | 19 | [Sem Jeito Ao Vivo \- Acústico / Ao Vivo](https://open.spotify.com/track/271DlfuaXEJfsvowRuzYuj) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Acústico Na Casa Do Lago \(Acústico / Ao Vivo\)](https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60) | 3:13 |
-| 20 | [Amor Pra Recomeçar](https://open.spotify.com/track/5UincK3sRYDDvmoSHVGuoY) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Amor Pra Recomeçar](https://open.spotify.com/album/3OJQMJrea38izof7pJ1eDU) | 3:27 |
-| 21 | [Tudo Que Importa \(Acoustic\)](https://open.spotify.com/track/4UY8yqnvG44KTcFSia0cEa) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Zeeba \- Reset](https://open.spotify.com/album/0WiqJSBvRvmto6ugbqtOO0) | 3:34 |
+| 20 | [Tudo Que Importa \(Acoustic\)](https://open.spotify.com/track/4UY8yqnvG44KTcFSia0cEa) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Zeeba \- Reset](https://open.spotify.com/album/0WiqJSBvRvmto6ugbqtOO0) | 3:34 |
+| 21 | [Amor Pra Recomeçar](https://open.spotify.com/track/5UincK3sRYDDvmoSHVGuoY) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Amor Pra Recomeçar](https://open.spotify.com/album/3OJQMJrea38izof7pJ1eDU) | 3:27 |
 | 22 | [Promete](https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Promete](https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ) | 3:18 |
 | 23 | [Lugar Ao Sol \- Ao Vivo \| Acústico](https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Acústico \- Ao Vivo](https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia) | 3:39 |
 | 24 | [Estrela](https://open.spotify.com/track/4MLS1FW88HlkFK2PgPWAPA) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [Lucas Lima](https://open.spotify.com/artist/511AKBfXwSHIIekEKrjqab) | [Estrela](https://open.spotify.com/album/78XKvJXixwZoHS6Gqba5UC) | 3:57 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 61 | [Gostosin \(Acoustic\)](https://open.spotify.com/track/7zUSQpCMIWnoyFEZktrE6x) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy), [Ventura](https://open.spotify.com/artist/0awYrHoDgY7bTDlAb3wGuF) | [Gostosin \(Acoustic\)](https://open.spotify.com/album/5Y9ZE9LqRP3idUKiygwgSy) | 3:00 |
 | 62 | [Outra Vida](https://open.spotify.com/track/5y53mloVN0UCz9nnvCpes0) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Outra Vida](https://open.spotify.com/album/12wdWIai1Ipd1tiFPaQYOQ) | 3:04 |
 | 63 | [Tudo no Sigilo \(Acústico\)](https://open.spotify.com/track/3ZmFpBrLBQHvEld0zBLm6F) | [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Tudo no Sigilo \(Acústico\)](https://open.spotify.com/album/38SclQmVsJwMGtheoJEfUr) | 2:49 |
-| 64 | [Linguagem Não Verbal](https://open.spotify.com/track/4aCUUcW7FVCCunRs33l2rh) | [MENSANA](https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL) | [Linguagem Não Verbal](https://open.spotify.com/album/7oXCbPmUEkzokpSDVHjMj5) | 3:21 |
-| 65 | [Essas Canções de Amor \(Não Reclamo\)](https://open.spotify.com/track/1wMoz6YOoZjHZCDL9Ssx1b) | [Wilson Sideral](https://open.spotify.com/artist/43NwJ02BY0AU2fHjlSKLQO), [Rogerio Flausino](https://open.spotify.com/artist/5kRbLxZb1mTjdi1xEHynwZ) | [Essas Canções de Amor \(Não Reclamo\)](https://open.spotify.com/album/4Gk5jm37gE3gNkg7ZA71JQ) | 4:19 |
+| 64 | [Essas Canções de Amor \(Não Reclamo\)](https://open.spotify.com/track/1wMoz6YOoZjHZCDL9Ssx1b) | [Wilson Sideral](https://open.spotify.com/artist/43NwJ02BY0AU2fHjlSKLQO), [Rogerio Flausino](https://open.spotify.com/artist/5kRbLxZb1mTjdi1xEHynwZ) | [Essas Canções de Amor \(Não Reclamo\)](https://open.spotify.com/album/4Gk5jm37gE3gNkg7ZA71JQ) | 4:19 |
+| 65 | [Linguagem Não Verbal](https://open.spotify.com/track/4aCUUcW7FVCCunRs33l2rh) | [MENSANA](https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL) | [Linguagem Não Verbal](https://open.spotify.com/album/7oXCbPmUEkzokpSDVHjMj5) | 3:21 |
 | 66 | [Certeza \- Ao Vivo](https://open.spotify.com/track/1j1jFRnapbAfyF4pmzFNv0) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Turnê Planeta Borboleta \- Ao Vivo](https://open.spotify.com/album/5URVNSoPTvs4iwsJOtAces) | 3:11 |
 | 67 | [beira \- PP sessions \- Ao Vivo](https://open.spotify.com/track/7xu6LZ1vFB70tghBsl4zkk) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix), [Patching Plants](https://open.spotify.com/artist/3KIYwLfNLtgjMHg35fEho3) | [GUPE \- PP sessions \(Ao Vivo\)](https://open.spotify.com/album/1YAmF5rNBo5zaB0NYinl5K) | 3:42 |
 | 68 | [Outra Vez \- Acústico](https://open.spotify.com/track/7w2v2vIrCjjJ59taHu3wa2) | [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA) | [Outra Vez \(Acústico\)](https://open.spotify.com/album/54FE2KhqGG9f94pRNUjf0W) | 3:09 |

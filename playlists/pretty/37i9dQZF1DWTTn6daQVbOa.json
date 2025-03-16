@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1970s. Cover: Elton John",
-  "num_followers": 865169,
+  "num_followers": 865491,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 290573,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Goats Head Soup (Remastered 2009)",
         "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 272000,
       "name": "Angie - Remastered 2009",
       "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "On the Waters",
-        "url": "https://open.spotify.com/album/2eTrV6WUTJtKFzg5iznPJ7"
-      },
-      "artists": [
-        {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
-        }
-      ],
-      "duration_ms": 192200,
-      "name": "Make It with You",
-      "url": "https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -367,34 +367,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+        "name": "On the Waters",
+        "url": "https://open.spotify.com/album/2eTrV6WUTJtKFzg5iznPJ7"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
         }
       ],
-      "duration_ms": 290573,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Grease (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 185360,
-      "name": "Hopelessly Devoted To You - From \u201cGrease\u201d",
-      "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
+      "duration_ms": 192200,
+      "name": "Make It with You",
+      "url": "https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -411,6 +395,22 @@
       "duration_ms": 233173,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 185360,
+      "name": "Hopelessly Devoted To You - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -463,18 +463,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Sticky Fingers (Remastered)",
-        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
+        "name": "Baby I'm-a Want You",
+        "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
         }
       ],
-      "duration_ms": 341773,
-      "name": "Wild Horses - 2009 Mix",
-      "url": "https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW"
+      "duration_ms": 187000,
+      "name": "Everything I Own",
+      "url": "https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -495,18 +495,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Baby I'm-a Want You",
-        "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
+        "name": "Sticky Fingers (Remastered)",
+        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
       },
       "artists": [
         {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Everything I Own",
-      "url": "https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA"
+      "duration_ms": 341773,
+      "name": "Wild Horses - 2009 Mix",
+      "url": "https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -847,18 +847,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Life Beyond L.A.",
-        "url": "https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2"
+        "name": "The Kick Inside",
+        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
       },
       "artists": [
         {
-          "name": "Ambrosia",
-          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 283400,
-      "name": "How Much I Feel",
-      "url": "https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w"
+      "duration_ms": 269066,
+      "name": "Wuthering Heights",
+      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -879,18 +879,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Kick Inside",
-        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
+        "name": "Life Beyond L.A.",
+        "url": "https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+          "name": "Ambrosia",
+          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
         }
       ],
-      "duration_ms": 269066,
-      "name": "Wuthering Heights",
-      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
+      "duration_ms": 283400,
+      "name": "How Much I Feel",
+      "url": "https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Let It Be (Remastered)",
-        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 218186,
-      "name": "The Long And Winding Road - Remastered 2009",
-      "url": "https://open.spotify.com/track/3mlMpmY8oZIBFc39D9zLbh"
+      "duration_ms": 287090,
+      "name": "Take It to the Limit - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2cWHN0WK52RGAWHgaDamUA"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
       },
       "artists": [
         {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 287090,
-      "name": "Take It to the Limit - 2013 Remaster",
-      "url": "https://open.spotify.com/track/2cWHN0WK52RGAWHgaDamUA"
+      "duration_ms": 218186,
+      "name": "The Long And Winding Road - Remastered 2009",
+      "url": "https://open.spotify.com/track/3mlMpmY8oZIBFc39D9zLbh"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 291866,
-      "name": "The Name Of The Game",
-      "url": "https://open.spotify.com/track/1lDo24S34NvI1pAg7Oxldc"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Doctor Hook",
         "url": "https://open.spotify.com/album/0WmdelW8OCAAsxayYY7vHm"
       },
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "We Must Believe In Magic",
-        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
       },
       "artists": [
         {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 157653,
-      "name": "Don't It Make My Brown Eyes Blue",
-      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
+      "duration_ms": 291866,
+      "name": "The Name Of The Game",
+      "url": "https://open.spotify.com/track/1lDo24S34NvI1pAg7Oxldc"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1547,6 +1531,22 @@
       "duration_ms": 211093,
       "name": "The Way We Were",
       "url": "https://open.spotify.com/track/1vZTgn4JXWMahR8r99ug5H"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "We Must Believe In Magic",
+        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
+      },
+      "artists": [
+        {
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "Don't It Make My Brown Eyes Blue",
+      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Red Rose Speedway",
-        "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 247733,
-      "name": "My Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "The Three Degrees",
         "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 178746,
       "name": "When Will I See You Again",
       "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Red Rose Speedway",
+        "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 247733,
+      "name": "My Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "All 'N All",
+        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 277413,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/2GH5jo15wbTv1Ll7zXEzSg"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Blue Lights in the Basement",
         "url": "https://open.spotify.com/album/4n3wZOUmVSSkxXvSeu94AN"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 280800,
       "name": "The Closer I Get to You",
       "url": "https://open.spotify.com/track/1UdoFJDUHWu4oWH5JlwmDP"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "All 'N All",
-        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 277413,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/2GH5jo15wbTv1Ll7zXEzSg"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "A Star Is Born",
-        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Evergreen (Love Theme from \"A Star Is Born\")",
-      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "I'm Still in Love with You",
         "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 191636,
       "name": "I'm Still in Love with You",
       "url": "https://open.spotify.com/track/2GEDd9qtGXU7IvGgqTF6Uj"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "The Two And Only",
+        "url": "https://open.spotify.com/album/7DmroACAb1Xjq2sYxnMcR9"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 194066,
+      "name": "If I Said You Had A Beautiful Body Would You Hold It Against Me",
+      "url": "https://open.spotify.com/track/3EO5DSiJSASa69I7Vv00gN"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1927,18 +1927,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Two And Only",
-        "url": "https://open.spotify.com/album/7DmroACAb1Xjq2sYxnMcR9"
+        "name": "A Star Is Born",
+        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
       },
       "artists": [
         {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
         }
       ],
-      "duration_ms": 194066,
-      "name": "If I Said You Had A Beautiful Body Would You Hold It Against Me",
-      "url": "https://open.spotify.com/track/3EO5DSiJSASa69I7Vv00gN"
+      "duration_ms": 184800,
+      "name": "Evergreen (Love Theme from \"A Star Is Born\")",
+      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Gather Me",
-        "url": "https://open.spotify.com/album/5THcElsOkPsIopiOQj18An"
-      },
-      "artists": [
-        {
-          "name": "Melanie",
-          "url": "https://open.spotify.com/artist/6sOP8RUFR0q0nBOBOXGdBK"
-        }
-      ],
-      "duration_ms": 147040,
-      "name": "Brand New Key",
-      "url": "https://open.spotify.com/track/7da5B9d2oVV16YSzXVxmrR"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Rose Royce III: Strikes Again!",
         "url": "https://open.spotify.com/album/7Fztl07Vtpt1rxFYoHeZji"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 238306,
       "name": "Love Don't Live Here Anymore",
       "url": "https://open.spotify.com/track/3pVsGhUEBZKFtn0n8zjS0H"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Gather Me",
+        "url": "https://open.spotify.com/album/5THcElsOkPsIopiOQj18An"
+      },
+      "artists": [
+        {
+          "name": "Melanie",
+          "url": "https://open.spotify.com/artist/6sOP8RUFR0q0nBOBOXGdBK"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "Brand New Key",
+      "url": "https://open.spotify.com/track/7da5B9d2oVV16YSzXVxmrR"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2155,6 +2155,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Get Closer",
+        "url": "https://open.spotify.com/album/2qAVfqCoOj2OStHvKrEPqM"
+      },
+      "artists": [
+        {
+          "name": "Seals and Crofts",
+          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
+        }
+      ],
+      "duration_ms": 238146,
+      "name": "Get Closer",
+      "url": "https://open.spotify.com/track/5Eq0mobXSnyWu1dpE6lSdY"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "It's Impossible",
         "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
       },
@@ -2183,22 +2199,6 @@
       "duration_ms": 205880,
       "name": "I Am Woman",
       "url": "https://open.spotify.com/track/3l2hbXdvmaH3tUd3qWLKgm"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Get Closer",
-        "url": "https://open.spotify.com/album/2qAVfqCoOj2OStHvKrEPqM"
-      },
-      "artists": [
-        {
-          "name": "Seals and Crofts",
-          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
-        }
-      ],
-      "duration_ms": 238146,
-      "name": "Get Closer",
-      "url": "https://open.spotify.com/track/5Eq0mobXSnyWu1dpE6lSdY"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Danny's Song",
-        "url": "https://open.spotify.com/album/6ZwsElAMgLjdZXL04okPcs"
-      },
-      "artists": [
-        {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Danny's Song",
-      "url": "https://open.spotify.com/track/5lQxMlCMTzCj3j4vyzdl8T"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Brook Benton Today",
         "url": "https://open.spotify.com/album/5rEchSYf1EpZ0CxmwnRwKx"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 233573,
       "name": "Rainy Night in Georgia",
       "url": "https://open.spotify.com/track/2zbV4xRYLuElz4PWOXI5P7"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Danny's Song",
+        "url": "https://open.spotify.com/album/6ZwsElAMgLjdZXL04okPcs"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Danny's Song",
+      "url": "https://open.spotify.com/track/5lQxMlCMTzCj3j4vyzdl8T"
     },
     {
       "added_at": "2022-09-23 05:26:33",

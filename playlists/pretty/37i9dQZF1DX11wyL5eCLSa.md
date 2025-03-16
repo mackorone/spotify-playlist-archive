@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Caifanes en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,436 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,453 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 13 | [Te mataré](https://open.spotify.com/track/2cZmRibufSnJylo0g29vXg) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33), [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [No lo volveré a hacer](https://open.spotify.com/album/3oHXlxp5C7e59cu7OdmhPI) | 2:35 |
 | 14 | [MOR](https://open.spotify.com/track/1T30RWyqdNMYzWESPqxnhn) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [MOR](https://open.spotify.com/album/07tUQaYkbCFrPsJObkcP9y) | 2:58 |
 | 15 | [Despertar](https://open.spotify.com/track/2aTs1lbZNw5srnF7208xFs) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Despertar](https://open.spotify.com/album/48XWVSy5sgaBwxUSAAkRk4) | 3:35 |
-| 16 | [Paranoia](https://open.spotify.com/track/1enwQLqicpjUkeM8GMuELt) | [D.R.E.A.D](https://open.spotify.com/artist/1omDHY5qIqriMoJH2C9goA), [Pressive](https://open.spotify.com/artist/0A5tnsz3SjTXp9SOWc2Rx4) | [Paranoia](https://open.spotify.com/album/4lIxi618bkEQaCoi4JtOzC) | 3:22 |
+| 16 | [Paranoia](https://open.spotify.com/track/1enwQLqicpjUkeM8GMuELt) | [D.R.E.A.D](https://open.spotify.com/artist/1omDHY5qIqriMoJH2C9goA), [Pressive](https://open.spotify.com/artist/0A5tnsz3SjTXp9SOWc2Rx4), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl) | [Paranoia](https://open.spotify.com/album/4lIxi618bkEQaCoi4JtOzC) | 3:22 |
 | 17 | [Santa Ursula](https://open.spotify.com/track/2fZnIhx4KNOsmImwM6Ad4L) | [Carrion Kids](https://open.spotify.com/artist/3BaXYCo5ZPoXCQ4MW93ulu) | [Santa Ursula](https://open.spotify.com/album/6iKFX0Mi8dftGut3AkZfVc) | 2:50 |
 | 18 | [Superextraño](https://open.spotify.com/track/3PqIjhaeM3EHhKcRsILaxB) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Superextraño](https://open.spotify.com/album/2kBcpKY13cIwUQDMrvrFrR) | 3:41 |
 | 19 | [De Egipto a Memphis \(Motorepartidor\)](https://open.spotify.com/track/468YGwLE4ZRjBVs89Ex84x) | [Los Esquizitos](https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A) | [De Egipto a Memphis \(Motorepartidor\)](https://open.spotify.com/album/4jEaLpoFaXe8Udbqu1qTtj) | 3:08 |

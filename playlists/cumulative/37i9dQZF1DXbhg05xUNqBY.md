@@ -4,7 +4,7 @@
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.
 
-190 songs - 13 hr 8 min
+191 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Feel Holy](https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [Feel Holy](https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac) | 5:31 | 2024-06-23 |  |
 | [Follow Me](https://open.spotify.com/track/2Qq5fpfXnpqWvHsvXuMH3O) | [Angelique Marketon](https://open.spotify.com/artist/75aegD7DtUiK9w9LP9iwsA) | [Follow Me](https://open.spotify.com/album/0VUJTXs1I6cpspWGfjcIjJ) | 5:12 | 2024-06-23 | 2024-07-27 |
 | [For The Ones We Love](https://open.spotify.com/track/04SDrly80EKgl1vlnskm7J) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5) | [For The Ones We Love](https://open.spotify.com/album/0F8iAIGNpZ25HDiZiNVsmq) | 3:29 | 2024-07-26 |  |
+| [Forever](https://open.spotify.com/track/7v09XY6tJHdv0LQqAiBclI) | [Cana Nongkhlaw](https://open.spotify.com/artist/6ufQ7tUpZmW2aaxo8KtdnC), [Cassidy Godwin](https://open.spotify.com/artist/2fCuEFatpJymbazPkYYVi8) | [Forever](https://open.spotify.com/album/3aJOIgox0muy4Ub5kAqkBY) | 3:35 | 2024-07-26 |  |
 | [Glory I Couldn't See](https://open.spotify.com/track/1jkdHZdTLwM3kQ6LRIKUKw) | [Mike Donehey](https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2) | [Glory I Couldn't See](https://open.spotify.com/album/65yrsjMkCHqQmYn6IOsxRd) | 4:06 | 2024-07-26 |  |
 | [God Who Saves](https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP) | [Shamina](https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb) | [From the Valley](https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H) | 4:39 | 2024-06-23 |  |
 | [God You Are \(feat\. Josh Baldwin\)](https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [God You Are](https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j) | 4:25 | 2021-10-31 |  |
@@ -183,7 +184,7 @@
 | [Weight of Your Glory](https://open.spotify.com/track/6UV7HIJPCC6UuGs7PtKiaN) | [Dustin Scarbrough](https://open.spotify.com/artist/4rAMnxns1g0lXFrC1ZvpD9) | [Weight of Your Glory](https://open.spotify.com/album/3btPdL9uyJ9BghVeTcth82) | 4:08 | 2024-07-26 |  |
 | [What I Wish For You](https://open.spotify.com/track/1aLe9jNRjc27rOZYUBVY8n) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [What I Wish For You](https://open.spotify.com/album/3GGO4M95Dcp1aGxMjUrLIu) | 3:51 | 2024-07-26 |  |
 | [When I Say Amen](https://open.spotify.com/track/72dkOjbNYK7xOstSxUiguh) | [Rachel Wammack](https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR) | [When I Say Amen](https://open.spotify.com/album/1OnvG3dApeM5v61vNW3yUZ) | 3:28 | 2021-10-31 | 2024-07-27 |
-| [Where the Light Dances](https://open.spotify.com/track/3GlHZprqUeYrvnulxU5buU) | [Yamaree](https://open.spotify.com/artist/7pxDHAwWckKzgQI8xj7yY0) | [Where the Light Dances](https://open.spotify.com/album/1R5UZG8Phvv6Y77R2mrfuP) | 3:38 | 2024-07-26 |  |
+| [Where the Light Dances](https://open.spotify.com/track/3GlHZprqUeYrvnulxU5buU) | [Yamaree](https://open.spotify.com/artist/7pxDHAwWckKzgQI8xj7yY0) | [Where the Light Dances](https://open.spotify.com/album/1R5UZG8Phvv6Y77R2mrfuP) | 3:38 | 2024-07-26 | 2025-03-16 |
 | [Whisper \(Acoustic\)](https://open.spotify.com/track/73ZcbnETkq6chgu1RhVULY) | [Stillman](https://open.spotify.com/artist/7oiurd2k5JbvCNjP3PWKTH) | [Whisper \(Acoustic Sessions\)](https://open.spotify.com/album/3njl0Jd9S5nSGIYJxp5UuT) | 4:27 | 2021-10-31 | 2023-12-30 |
 | [Who is This Jesus?](https://open.spotify.com/track/4dErkQsniqyeTwsei3bCqs) | [Caroline Cobb](https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM) | [A King & His Kindness](https://open.spotify.com/album/0IRJOZdtvLrek403fb6Skm) | 4:08 | 2023-02-07 |  |
 | [Why Should I \(feat\. Quinten Coblentz\)](https://open.spotify.com/track/5lQdppTJfzv9zqz0DUNm8u) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye), [Quinten Coblentz](https://open.spotify.com/artist/7w28aj6tyhuIdcOIA7Ex2Z) | [Why Should I \(feat\. Quinten Coblentz\)](https://open.spotify.com/album/0dtKfjyzBU8w3a0Lzzqisb) | 3:47 | 2021-10-31 | 2024-06-23 |

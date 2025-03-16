@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > The biggest hits in country music\. Cover: Dasha
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,810 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,807 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 12 | [After All The Bars Are Closed](https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [After All The Bars Are Closed](https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA) | 3:11 |
 | 13 | [Leave Me Too](https://open.spotify.com/track/06CYe9F4IaMmSTAswOHQDD) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Leave Me Too](https://open.spotify.com/album/6c3KEWO4IGcHfPAekbiarD) | 3:11 |
 | 14 | [Dear Miss](https://open.spotify.com/track/17epPYISlrms9BG2REiwi8) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Dear Miss](https://open.spotify.com/album/2nrHsWBaEjB6f9fptB48cB) | 3:09 |
-| 15 | [I Don't Love Here Anymore](https://open.spotify.com/track/1NvxMFUJm32lDXdxgTfd5z) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene \(Expanded Edition\)](https://open.spotify.com/album/3m9iIzYKrmMa4tLjASBqFs) | 3:59 |
+| 15 | [I Don't Love Here Anymore](https://open.spotify.com/track/1NvxMFUJm32lDXdxgTfd5z) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene \(20th Anniversary Edition\)](https://open.spotify.com/album/3m9iIzYKrmMa4tLjASBqFs) | 3:59 |
 | 16 | [Gone Fishing](https://open.spotify.com/track/18OlhBgicmZbKZgUzCHi8o) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Hey Country Queen](https://open.spotify.com/album/7wPRuReJaWR838jQDw3zbD) | 3:46 |
 | 17 | [Love The Lights Out](https://open.spotify.com/track/34aevO0hji65YeqaLR4cuD) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Love The Lights Out](https://open.spotify.com/album/2ESsKb7dW9voOpJDRemBN9) | 3:18 |
 | 18 | [Baggage](https://open.spotify.com/track/1ubHDF8Y9eM6ptjsNROEJa) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS](https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0) | 2:32 |

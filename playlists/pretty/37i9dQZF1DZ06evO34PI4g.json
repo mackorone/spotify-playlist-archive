@@ -1,12 +1,12 @@
 {
   "description": "This is System Of A Down. The essential tracks, all in one playlist.",
-  "num_followers": 978023,
+  "num_followers": 978254,
   "original_name": "This Is System Of A Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAADmXzh4y484vSSpMCkiLxo9",
+  "snapshot_id": "Z9NxgAAAAAC0tUPPXo7LMrCAVLKPgEev",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hypnotize",
-        "url": "https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3"
+        "name": "Steal This Album!",
+        "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 171800,
-      "name": "Vicinity Of Obscenity",
-      "url": "https://open.spotify.com/track/5uMTA9SIe0sE4dnHHSHaYz"
+      "duration_ms": 201200,
+      "name": "Roulette",
+      "url": "https://open.spotify.com/track/4sM7v7wyRAuV6ZTO2dvnCA"
     },
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hypnotize",
+        "url": "https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 171800,
+      "name": "Vicinity Of Obscenity",
+      "url": "https://open.spotify.com/track/5uMTA9SIe0sE4dnHHSHaYz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Steal This Album!",
         "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
       },
@@ -228,25 +244,9 @@
           "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 201200,
-      "name": "Roulette",
-      "url": "https://open.spotify.com/track/4sM7v7wyRAuV6ZTO2dvnCA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "System Of A Down",
-        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 151733,
-      "name": "Suite-Pee",
-      "url": "https://open.spotify.com/track/1qGmxIGEuBEkj7bft72Kh0"
+      "duration_ms": 153773,
+      "name": "Innervision",
+      "url": "https://open.spotify.com/track/0Xmbtw7NhNiDnL4BWy5wDh"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Steal This Album!",
-        "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
+        "name": "System Of A Down",
+        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 153773,
-      "name": "Innervision",
-      "url": "https://open.spotify.com/track/0Xmbtw7NhNiDnL4BWy5wDh"
+      "duration_ms": 151733,
+      "name": "Suite-Pee",
+      "url": "https://open.spotify.com/track/1qGmxIGEuBEkj7bft72Kh0"
     },
     {
       "added_at": null,

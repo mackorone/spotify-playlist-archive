@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [你已經替我決定了 \- 電影《命中註定那頭鵝》主題曲](https://open.spotify.com/track/2PDdcf9HyMU93mqgNvJiVZ) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [你已經替我決定了 \- 電影《命中註定那頭鵝》主題曲](https://open.spotify.com/album/2wsKWIVEbeFEvqvjWsAfig) | 3:49 |
+| 1 | [你已經替我決定了《命中註定那頭鵝》電影主題曲](https://open.spotify.com/track/2PDdcf9HyMU93mqgNvJiVZ) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [你已經替我決定了《命中註定那頭鵝》電影主題曲](https://open.spotify.com/album/2wsKWIVEbeFEvqvjWsAfig) | 3:49 |
 | 2 | [偷故事的人](https://open.spotify.com/track/6RfCHC9UlfGEGNR1bsxhkM) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [偷故事的人](https://open.spotify.com/album/181c4IPOvcJphA0ZKAZIeW) | 4:18 |
 | 3 | [可惜嗎](https://open.spotify.com/track/2IuMqyWON4u1v0XhpCkuip) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [可惜嗎](https://open.spotify.com/album/3e6whyqFyVtjTWvxEE8UGG) | 4:51 |
 | 4 | [Someday, Somewhere \(Netflix影集《此時此刻》主題曲\)](https://open.spotify.com/track/4ShkvWmheGbOXeJ5ELYRoH) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Someday, Somewhere \(Netflix影集《此時此刻》主題曲\)](https://open.spotify.com/album/3aaOh9ji7Qv97Lxfj9MOmu) | 4:03 |

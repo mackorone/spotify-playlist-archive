@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Murda Beatz & Rich The Kid
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,165 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,186 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wake Em Up](https://open.spotify.com/track/3LXRevaRWpJajAVKhgzvrd) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Wake Em Up](https://open.spotify.com/album/0PdmRhlaO6JuOcsWLVjPaK) | 2:09 |
-| 2 | [GOOD CREDIT](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
+| 2 | [GOOD CREDIT \(with Kendrick Lamar\)](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
 | 3 | [Nobody](https://open.spotify.com/track/34cEqOnaJRikAuS8fijvZk) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Nobody](https://open.spotify.com/album/6twrxzbFacqaP9yaKklEfU) | 2:45 |
 | 4 | [No Sweat](https://open.spotify.com/track/0K0jgfFssBL0Q5IcFMrsSz) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [No Sweat](https://open.spotify.com/album/6gUOpZLzz8nEAHgLRW9kxZ) | 2:35 |
 | 5 | [Check Please \(feat\. Lil Jairmy & MG Lil Bubba\)](https://open.spotify.com/track/7FoPnPOvJk2WsgPz9YPd3B) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY), [Mg Lil Bubba](https://open.spotify.com/artist/3agpFHXv6thiBv8b6epxI5) | [Check Please \(feat\. Lil Jairmy & MG Lil Bubba\)](https://open.spotify.com/album/1xVoXzCE71rSv8YrwPp1Xd) | 3:25 |

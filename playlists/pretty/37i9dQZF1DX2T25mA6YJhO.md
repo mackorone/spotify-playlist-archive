@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: shego.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,261 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,277 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 58 | [Ven a jugar](https://open.spotify.com/track/0QQVqTkppj49YNjU5OdBzA) | [Anabel Lee](https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW) | [Ven a jugar](https://open.spotify.com/album/40qFznRScO7LNQBJOOdKOp) | 3:02 |
 | 59 | [1900](https://open.spotify.com/track/3ipA6qIgx7ycMxj8EI2grU) | [Camellos](https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW), [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Gran Hostal](https://open.spotify.com/album/00u4GydZUNmtNRgO1gMDj9) | 2:47 |
 | 60 | [Insurrección](https://open.spotify.com/track/1mYHwnXp7kgJqgbwCyixz4) | [Cala Vento](https://open.spotify.com/artist/6QpQ7WsYLIpTV3yRa0fJo1) | [Insurrección](https://open.spotify.com/album/2rMavMLN5bU00KBWTdqG9f) | 2:04 |
-| 61 | [Joven Ciudad](https://open.spotify.com/track/3ozDtfXkjFUlhXjqFGdGzN) | [el diablo de shanghai](https://open.spotify.com/artist/6SOoncS0Wc2j36swbwzSWt) | [Joven Ciudad](https://open.spotify.com/album/0BEAUvrAwpEErJEB6w0Mb6) | 3:11 |
-| 62 | [Decidí Desaparecer](https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Decidí Desaparecer](https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO) | 2:43 |
+| 61 | [Decidí Desaparecer](https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Decidí Desaparecer](https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO) | 2:43 |
+| 62 | [Joven Ciudad](https://open.spotify.com/track/3ozDtfXkjFUlhXjqFGdGzN) | [el diablo de shanghai](https://open.spotify.com/artist/6SOoncS0Wc2j36swbwzSWt) | [Joven Ciudad](https://open.spotify.com/album/0BEAUvrAwpEErJEB6w0Mb6) | 3:11 |
 | 63 | [MENTIRA](https://open.spotify.com/track/1XQ9DWOsy5yFh6pkVYJvdQ) | [Los Vinagres](https://open.spotify.com/artist/7lh3aN5caO7mEyllMcGeuS) | [MENTIRA](https://open.spotify.com/album/24mCgu4HUhxk6HmPLUe8PR) | 2:36 |
 | 64 | [T E R A P I A](https://open.spotify.com/track/1NzgTx7ZC91tQkwsCYZTFg) | [Niños Bravos](https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U) | [T E R A P I A](https://open.spotify.com/album/2diKSpEGcWiSRxa1jopIw1) | 2:34 |
 | 65 | [Loros](https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp) | [Camellos](https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW) | [Loros](https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn) | 2:26 |
@@ -89,24 +89,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 79 | [Mírame](https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8) | [Amor Líquido](https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc) | [Mírame](https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3) | 2:17 |
 | 80 | [Las horas pasan](https://open.spotify.com/track/0GfqERTJm2jdiIfNBowmTi) | [Yawners](https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC) | [Las horas pasan](https://open.spotify.com/album/0VGBrWhfTw00SKnPVy7yBP) | 3:32 |
 | 81 | [Luna Rosa](https://open.spotify.com/track/4LZBFAuIZBYjPepXBggr3H) | [Tatuaje](https://open.spotify.com/artist/6SbNt8NCZ0Onpuefsji2N8), [Bernal](https://open.spotify.com/artist/36qikjyD6tDDJdlbnULZKv) | [Luna Rosa](https://open.spotify.com/album/6eSUfbMNgojN7kKp00CTyx) | 3:23 |
-| 82 | [La Casa Magnética](https://open.spotify.com/track/3eDJEUMt8OoKlryZbXqTMC) | [Lady Banana](https://open.spotify.com/artist/5rYapv14QGjhRGc4N59QR2) | [La Casa Magnética](https://open.spotify.com/album/1ExWEPwei4vY3T3OFFs5z6) | 3:04 |
-| 83 | [Mensajes Pendientes](https://open.spotify.com/track/0axlkgVXda0uDqRiF6H0pp) | [Biela](https://open.spotify.com/artist/3V4eTmIv1fY1zTRSOFOjEH) | [Mensajes Pendientes](https://open.spotify.com/album/73E9As1egcpg2v1Qjh6fG0) | 3:12 |
+| 82 | [Tu nombre es una puerta por cerrar](https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [Tu nombre es una puerta por cerrar](https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH) | 4:04 |
+| 83 | [La Casa Magnética](https://open.spotify.com/track/3eDJEUMt8OoKlryZbXqTMC) | [Lady Banana](https://open.spotify.com/artist/5rYapv14QGjhRGc4N59QR2) | [La Casa Magnética](https://open.spotify.com/album/1ExWEPwei4vY3T3OFFs5z6) | 3:04 |
 | 84 | [Vivo En Las Nubes](https://open.spotify.com/track/6VO74FC18dbxuAYFUV6G4p) | [Joven Dolores](https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH) | [Vivo En Las Nubes](https://open.spotify.com/album/3YVZJjd2b52xDJkyIfQgJ5) | 3:12 |
 | 85 | [Me paso por tu zona](https://open.spotify.com/track/6X4cGXgpvfDPiOV4Z1NCVV) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Me paso por tu zona](https://open.spotify.com/album/3IdxqT0QLo5cBiSZOMOcUO) | 2:11 |
 | 86 | [En tu portal](https://open.spotify.com/track/4zx728yaOZ4zIy6VsXAEkg) | [Pinpilinpussies](https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1) | [Ni un paso atrás](https://open.spotify.com/album/1RtxhZyJWsjTh7e4GqXiPv) | 2:43 |
-| 87 | [Tu nombre es una puerta por cerrar](https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [Tu nombre es una puerta por cerrar](https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH) | 4:04 |
+| 87 | [Mensajes Pendientes](https://open.spotify.com/track/0axlkgVXda0uDqRiF6H0pp) | [Biela](https://open.spotify.com/artist/3V4eTmIv1fY1zTRSOFOjEH) | [Mensajes Pendientes](https://open.spotify.com/album/73E9As1egcpg2v1Qjh6fG0) | 3:12 |
 | 88 | [Viaje De Estudios \- Un Tributo a Lori Meyers](https://open.spotify.com/track/0YJk0QlQFERBRorruATXhw) | [Niña Polaca](https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW) | [Viaje De Estudios \(Un Tributo a Lori Meyers\)](https://open.spotify.com/album/2wh1jeycGNNM0DyF5vmhke) | 3:08 |
 | 89 | [Himno de las flores](https://open.spotify.com/track/5gKX2PDvk4682feasZf58s) | [Vicente Calderón](https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN), [Niña Polaca](https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW) | [Himno de las flores](https://open.spotify.com/album/1CuoTbdRdHm9e3yOl0mt0T) | 3:48 |
 | 90 | [COMERTE](https://open.spotify.com/track/6qpU83yEgdtwboavDokkyO) | [Barder](https://open.spotify.com/artist/5qUVWZrViriqK73n0ZLWTY) | [COMERTE](https://open.spotify.com/album/0ifKdGsvgwtMl1bPWSOvxz) | 2:38 |
 | 91 | [4 Impulsos Más](https://open.spotify.com/track/2UEWhrxIRlZJeObLrwhhE2) | [Erin Memento](https://open.spotify.com/artist/7J8Jvh09QTtKZYnvChiHsp) | [4 Impulsos Más](https://open.spotify.com/album/1ZAHYBJwpccd5CIo0Ab1zo) | 3:27 |
 | 92 | [Ganas de verte](https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y) | [Pagafantas](https://open.spotify.com/artist/3tK9yOouaJ56vcGh4uEooV), [Lucía Moreno](https://open.spotify.com/artist/5Vbi6yLxxnQcO6k0tuZV7V) | [Ganas de verte](https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM) | 2:54 |
 | 93 | [Yo Nunca He](https://open.spotify.com/track/09hobK7AC3FLTjMGnoz25P) | [Vosotras Veréis](https://open.spotify.com/artist/2aBHCc3JRmzbNxCSvl6jfu) | [Vamos Tarde](https://open.spotify.com/album/5yH5j8Znp3Thdn7eJ6DRcb) | 3:03 |
-| 94 | [Alba](https://open.spotify.com/track/4J9bAIwyQTMRwkVirnnXBH) | [Alison Darwin](https://open.spotify.com/artist/6Yj1pX8slOOGUwzDNwMdXz) | [Alba](https://open.spotify.com/album/5HKIjv0prAqGWDjyiQpHtw) | 2:45 |
-| 95 | [EL BARTO](https://open.spotify.com/track/74joYlxZbi7wwUmM5GbD6Z) | [Memocracia](https://open.spotify.com/artist/6YNaadc735iV6WCs2ey5qH) | [EL BARTO](https://open.spotify.com/album/3vuuauMqTdzJHT2t7uwpAJ) | 3:08 |
-| 96 | [La Bachata](https://open.spotify.com/track/2EUqLIfO9fhqb6RCWNIj8B) | [Santa Engracia](https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF) | [La Bachata](https://open.spotify.com/album/3eSIDuyQP5A5qAXMxlzwMt) | 3:01 |
+| 94 | [La Bachata](https://open.spotify.com/track/2EUqLIfO9fhqb6RCWNIj8B) | [Santa Engracia](https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF) | [La Bachata](https://open.spotify.com/album/3eSIDuyQP5A5qAXMxlzwMt) | 3:01 |
+| 95 | [Alba](https://open.spotify.com/track/4J9bAIwyQTMRwkVirnnXBH) | [Alison Darwin](https://open.spotify.com/artist/6Yj1pX8slOOGUwzDNwMdXz) | [Alba](https://open.spotify.com/album/5HKIjv0prAqGWDjyiQpHtw) | 2:45 |
+| 96 | [EL BARTO](https://open.spotify.com/track/74joYlxZbi7wwUmM5GbD6Z) | [Memocracia](https://open.spotify.com/artist/6YNaadc735iV6WCs2ey5qH) | [EL BARTO](https://open.spotify.com/album/3vuuauMqTdzJHT2t7uwpAJ) | 3:08 |
 | 97 | [Romance Extremo](https://open.spotify.com/track/2MA3xS8Jeyg4TRqTESwEwp) | [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Romance Extremo](https://open.spotify.com/album/1kN9S9rysBtLdkh9sdzHj5) | 2:24 |
-| 98 | [Tú Crees](https://open.spotify.com/track/6qTCDNZq0LUbq1XGmlMait) | [Joven Dolores](https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH) | [Tú Crees](https://open.spotify.com/album/3PBDRxRIbpuu1PoXX9yAVC) | 3:33 |
-| 99 | [WTF](https://open.spotify.com/track/5RcL45YbinszYJU2Stixca) | [PELIGRO!](https://open.spotify.com/artist/3FDCL5TTPpKM5liVuuU0f3) | [WTF](https://open.spotify.com/album/5ApCX1wSvwDMCEK7d0Njlx) | 3:07 |
-| 100 | [Huella de ti](https://open.spotify.com/track/6SmYVKgtUd4jsZdkAnnA1b) | [Kokoshca](https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK) | [Huella de ti](https://open.spotify.com/album/04VF4cO2dj3nuNvnPKBIfH) | 3:17 |
+| 98 | [WTF](https://open.spotify.com/track/5RcL45YbinszYJU2Stixca) | [PELIGRO!](https://open.spotify.com/artist/3FDCL5TTPpKM5liVuuU0f3) | [WTF](https://open.spotify.com/album/5ApCX1wSvwDMCEK7d0Njlx) | 3:07 |
+| 99 | [Huella de ti](https://open.spotify.com/track/6SmYVKgtUd4jsZdkAnnA1b) | [Kokoshca](https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK) | [Huella de ti](https://open.spotify.com/album/04VF4cO2dj3nuNvnPKBIfH) | 3:17 |
+| 100 | [Rob Gordon](https://open.spotify.com/track/40O5fHVDXbesbgnNOyJdy7) | [Becarios](https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU) | [Rob Gordon](https://open.spotify.com/album/18I9Tqw9GfujPFUP3zZ2CR) | 2:03 |
 
 Snapshot ID: `Z9NjggAAAADZ/a4lniTXziHCbHbbFiTV`

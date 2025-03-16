@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 
 > Calming and inspiring piano music for yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,926 likes - 99 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,961 likes - 99 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 | 32 | [Märchenstunde](https://open.spotify.com/track/03gwRcFi99kLdGp2qIRmNW) | [Maximilian Faber](https://open.spotify.com/artist/00PcADvHA59mhcgFAREmfM) | [Märchenstunde](https://open.spotify.com/album/0ozeWYKxgTBBYtJRyhsKiw) | 2:46 |
 | 33 | [Homeward](https://open.spotify.com/track/6p8tAo2HjobS7Me75EJcBq) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [Homeward](https://open.spotify.com/album/5bhd7KJdQuJfmpBlWFbQT9) | 2:31 |
 | 34 | [Nattljus](https://open.spotify.com/track/5pGG0eGQcA71HLo4jKQY90) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Nattljus](https://open.spotify.com/album/7FBCdcXA2coK0EcsDSBN9B) | 3:19 |
-| 35 | [Consideration](https://open.spotify.com/track/65lddH3h121XMhXaVkazVG) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Consideration](https://open.spotify.com/album/0ogzhXsphb7JCFdSg3dRc6) | 2:27 |
+| 35 | [Consideration](https://open.spotify.com/track/65lddH3h121XMhXaVkazVG) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX), [Anarekli](https://open.spotify.com/artist/0owGYDx2xWGY0t6Nelyf4N), [Iasamani](https://open.spotify.com/artist/6AdGVwkv68xlsPwV2KvEF8) | [Consideration](https://open.spotify.com/album/0ogzhXsphb7JCFdSg3dRc6) | 2:27 |
 | 36 | [Angeli](https://open.spotify.com/track/4LPVbn0BbA9Fz2V7Gm7Pqb) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [Angeli](https://open.spotify.com/album/2osV838DdmREgkfoeaJLQK) | 2:29 |
 | 37 | [Forgotten](https://open.spotify.com/track/7aFVhTwz0DUJPViRHmWg1P) | [Clarico](https://open.spotify.com/artist/4z0z7HVzL9JOn53wLYnBi9) | [Forgotten](https://open.spotify.com/album/3KuGAisKyUL3ubMwaLleZJ) | 2:11 |
 | 38 | [Å̊terhämtning](https://open.spotify.com/track/0DytUUbbGsWTgtmu78kDcy) | [Åmliden](https://open.spotify.com/artist/4c9woXzcZH9eO8EqiLbT9M) | [Å̊terhämtning](https://open.spotify.com/album/0kxpEj332lj8WZNtSn5CnU) | 2:27 |

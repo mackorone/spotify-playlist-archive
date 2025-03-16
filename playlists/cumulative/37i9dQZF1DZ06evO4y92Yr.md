@@ -4,7 +4,7 @@
 
 > This is Chappell Roan\. The essential tracks, all in one playlist.
 
-23 songs - 1 hr 22 min
+24 songs - 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,5 +31,6 @@
 | [School Nights](https://open.spotify.com/track/1EQ3XbVzPZfKxMjvx9UjBH) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [School Nights](https://open.spotify.com/album/7JjJefGCwqGcyiQG99codT) | 4:09 | 2024-06-05 |  |
 | [Sugar High](https://open.spotify.com/track/1dqJRtnoU6vZj23txgerYQ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [School Nights](https://open.spotify.com/album/44u4QMvReXg0lhHl9xARxu) | 3:39 | 2024-06-05 |  |
 | [Super Graphic Ultra Modern Girl](https://open.spotify.com/track/1rNSCrsOoWyhKH4g47mehU) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:03 | 2024-06-05 | 2024-07-25 |
+| [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-16 |  |
 
 \*This playlist was first scraped on 2024-06-05. Prior content cannot be recovered.

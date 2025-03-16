@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 410356,
+  "num_followers": 410363,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-11-28 14:50:35",
       "album": {
-        "name": "Midair",
-        "url": "https://open.spotify.com/album/5l97IRN5PKVVhU9n0Wn59n"
-      },
-      "artists": [
-        {
-          "name": "Ennio M\u00e1no",
-          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
-        }
-      ],
-      "duration_ms": 247535,
-      "name": "Aves",
-      "url": "https://open.spotify.com/track/40xybgjTNRocHrl3c8NfuR"
-    },
-    {
-      "added_at": "2024-11-28 14:50:35",
-      "album": {
         "name": "Bossa n' Essentials",
         "url": "https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 152826,
       "name": "Here Comes the Sun",
       "url": "https://open.spotify.com/track/7J29m3Vq5L3JuwGp8KjFMj"
+    },
+    {
+      "added_at": "2024-11-28 14:50:35",
+      "album": {
+        "name": "Midair",
+        "url": "https://open.spotify.com/album/5l97IRN5PKVVhU9n0Wn59n"
+      },
+      "artists": [
+        {
+          "name": "Ennio M\u00e1no",
+          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
+        }
+      ],
+      "duration_ms": 247535,
+      "name": "Aves",
+      "url": "https://open.spotify.com/track/40xybgjTNRocHrl3c8NfuR"
     },
     {
       "added_at": "2024-11-28 14:50:35",

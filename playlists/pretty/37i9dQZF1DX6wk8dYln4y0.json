@@ -1,6 +1,6 @@
 {
   "description": "Music that just *hits different* Cover: Mikayla Pasterfield",
-  "num_followers": 529286,
+  "num_followers": 529235,
   "original_name": "*hits different*",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2025-03-13 13:01:14",
       "album": {
-        "name": "This Is How Tomorrow Moves",
-        "url": "https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 160600,
-      "name": "Real Man",
-      "url": "https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX"
-    },
-    {
-      "added_at": "2025-03-13 13:01:14",
-      "album": {
         "name": "Sweet Dreams (feat. Miguel)",
         "url": "https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 172952,
       "name": "Sweet Dreams (feat. Miguel)",
       "url": "https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k"
+    },
+    {
+      "added_at": "2025-03-13 13:01:14",
+      "album": {
+        "name": "This Is How Tomorrow Moves",
+        "url": "https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 160600,
+      "name": "Real Man",
+      "url": "https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX"
     },
     {
       "added_at": "2025-03-13 13:01:14",
@@ -623,6 +623,22 @@
     {
       "added_at": "2025-03-13 13:01:14",
       "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 262518,
+      "name": "Spring Into Summer",
+      "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
+    },
+    {
+      "added_at": "2025-03-13 13:01:14",
+      "album": {
         "name": "Scared Of Loving You",
         "url": "https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 110221,
       "name": "Scared Of Loving You",
       "url": "https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct"
-    },
-    {
-      "added_at": "2025-03-13 13:01:14",
-      "album": {
-        "name": "Older (and Wiser)",
-        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 262518,
-      "name": "Spring Into Summer",
-      "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
     },
     {
       "added_at": "2025-03-13 13:01:14",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-03-13 13:01:14",
       "album": {
-        "name": "Feel Anything",
-        "url": "https://open.spotify.com/album/3lOds66db1cRvTTO6Gcx4a"
-      },
-      "artists": [
-        {
-          "name": "Nxdia",
-          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
-        }
-      ],
-      "duration_ms": 162768,
-      "name": "Feel Anything",
-      "url": "https://open.spotify.com/track/3nsHAOlg5kVlbZfkwaSmfZ"
-    },
-    {
-      "added_at": "2025-03-13 13:01:14",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/2hHUs1o7cuS3fwiRyq28VM"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 136709,
       "name": "Home",
       "url": "https://open.spotify.com/track/6TwFYNkcGBe2zSy1OmBj83"
+    },
+    {
+      "added_at": "2025-03-13 13:01:14",
+      "album": {
+        "name": "Feel Anything",
+        "url": "https://open.spotify.com/album/3lOds66db1cRvTTO6Gcx4a"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "duration_ms": 162768,
+      "name": "Feel Anything",
+      "url": "https://open.spotify.com/track/3nsHAOlg5kVlbZfkwaSmfZ"
     },
     {
       "added_at": "2025-03-13 13:01:14",
@@ -999,6 +999,26 @@
     {
       "added_at": "2025-03-13 13:01:14",
       "album": {
+        "name": "Sunset Blvd",
+        "url": "https://open.spotify.com/album/4JCaqlPDBeT9kizAc3PGwL"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "duration_ms": 167584,
+      "name": "Sunset Blvd",
+      "url": "https://open.spotify.com/track/2kpUNuingcchFIhLrbWxIO"
+    },
+    {
+      "added_at": "2025-03-13 13:01:14",
+      "album": {
         "name": "Muse",
         "url": "https://open.spotify.com/album/176tuOtt0Z7IIt3QTqGzVF"
       },
@@ -1011,22 +1031,6 @@
       "duration_ms": 144588,
       "name": "Muse",
       "url": "https://open.spotify.com/track/7x8sZN055fsMdU8ymA92UI"
-    },
-    {
-      "added_at": "2025-03-13 13:01:14",
-      "album": {
-        "name": "Somebody Else - Spotify Singles",
-        "url": "https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 300341,
-      "name": "Somebody Else - Spotify Singles",
-      "url": "https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh"
     },
     {
       "added_at": "2025-03-13 13:01:14",
@@ -1051,6 +1055,22 @@
     {
       "added_at": "2025-03-13 13:01:14",
       "album": {
+        "name": "Somebody Else - Spotify Singles",
+        "url": "https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 300341,
+      "name": "Somebody Else - Spotify Singles",
+      "url": "https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh"
+    },
+    {
+      "added_at": "2025-03-13 13:01:14",
+      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/4d9X64meCyPThkTj9dzjpI"
       },
@@ -1071,18 +1091,50 @@
     {
       "added_at": "2025-03-13 13:01:14",
       "album": {
-        "name": "5 Dollar Pony Rides",
-        "url": "https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY"
+        "name": "HOT",
+        "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 222119,
-      "name": "5 Dollar Pony Rides",
-      "url": "https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT"
+      "duration_ms": 137178,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1"
+    },
+    {
+      "added_at": "2025-03-13 13:01:14",
+      "album": {
+        "name": "do you think you could love me?",
+        "url": "https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "duration_ms": 236140,
+      "name": "do you think you could love me?",
+      "url": "https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS"
+    },
+    {
+      "added_at": "2025-03-13 13:01:14",
+      "album": {
+        "name": "Sexy to Someone",
+        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 207795,
+      "name": "Sexy to Someone",
+      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
     },
     {
       "added_at": "2025-03-13 13:01:14",
@@ -1103,18 +1155,18 @@
     {
       "added_at": "2025-03-13 13:01:14",
       "album": {
-        "name": "Sexy to Someone",
-        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
+        "name": "5 Dollar Pony Rides",
+        "url": "https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 207795,
-      "name": "Sexy to Someone",
-      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
+      "duration_ms": 222119,
+      "name": "5 Dollar Pony Rides",
+      "url": "https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT"
     },
     {
       "added_at": "2025-03-13 13:01:14",
@@ -1139,22 +1191,6 @@
     {
       "added_at": "2025-03-13 13:01:14",
       "album": {
-        "name": "do you think you could love me?",
-        "url": "https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp"
-      },
-      "artists": [
-        {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
-        }
-      ],
-      "duration_ms": 236140,
-      "name": "do you think you could love me?",
-      "url": "https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS"
-    },
-    {
-      "added_at": "2025-03-13 13:01:14",
-      "album": {
         "name": "APEROL SPRITZ",
         "url": "https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv"
       },
@@ -1167,6 +1203,22 @@
       "duration_ms": 130265,
       "name": "APEROL SPRITZ",
       "url": "https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq"
+    },
+    {
+      "added_at": "2025-03-13 13:01:14",
+      "album": {
+        "name": "Movie Scene",
+        "url": "https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 180661,
+      "name": "Movie Scene",
+      "url": "https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF"
     },
     {
       "added_at": "2025-03-13 13:01:14",
@@ -1219,38 +1271,6 @@
     {
       "added_at": "2025-03-13 13:01:14",
       "album": {
-        "name": "Movie Scene",
-        "url": "https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 180661,
-      "name": "Movie Scene",
-      "url": "https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF"
-    },
-    {
-      "added_at": "2025-03-13 13:01:14",
-      "album": {
-        "name": "Sincere",
-        "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Heatstroke",
-      "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
-    },
-    {
-      "added_at": "2025-03-13 13:01:14",
-      "album": {
         "name": "Wifey Riddim",
         "url": "https://open.spotify.com/album/6GLYQfBSP4JHsec83wYB9c"
       },
@@ -1279,18 +1299,18 @@
     {
       "added_at": "2025-03-13 13:01:14",
       "album": {
-        "name": "LOST IN HEAVEN",
-        "url": "https://open.spotify.com/album/6fCGW5OWBTrtesYXjEze3h"
+        "name": "Sincere",
+        "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
       },
       "artists": [
         {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 213103,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/6p2eArI2fcdxiO8UenVfVy"
+      "duration_ms": 234600,
+      "name": "Heatstroke",
+      "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
     },
     {
       "added_at": "2025-03-13 13:01:14",
@@ -1311,6 +1331,22 @@
     {
       "added_at": "2025-03-13 13:01:14",
       "album": {
+        "name": "LOST IN HEAVEN",
+        "url": "https://open.spotify.com/album/6fCGW5OWBTrtesYXjEze3h"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "duration_ms": 213103,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/6p2eArI2fcdxiO8UenVfVy"
+    },
+    {
+      "added_at": "2025-03-13 13:01:14",
+      "album": {
         "name": "eternal sunshine (slightly deluxe)",
         "url": "https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2"
       },
@@ -1327,38 +1363,6 @@
       "duration_ms": 163381,
       "name": "supernatural (with Troye Sivan)",
       "url": "https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp"
-    },
-    {
-      "added_at": "2025-03-13 13:01:14",
-      "album": {
-        "name": "this is what slow dancing feels like",
-        "url": "https://open.spotify.com/album/24LaJk9nxJvZWtSmt7qMm5"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 145735,
-      "name": "this is what slow dancing feels like",
-      "url": "https://open.spotify.com/track/4EhqimHdoK9OmCNvCfioH6"
-    },
-    {
-      "added_at": "2025-03-13 13:01:14",
-      "album": {
-        "name": "IYKYK",
-        "url": "https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "IYKYK",
-      "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
     }
   ],
   "unique_name": "*hits different*",

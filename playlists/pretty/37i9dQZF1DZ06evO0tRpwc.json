@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAACUlFoZwJbno5mFqGABg8nB",
+  "snapshot_id": "Z9NxgAAAAAB3ioaULpqSKgxLmwpuFhPE",
   "tracks": [
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Luz",
-        "url": "https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 180188,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/1Cq27FmPcRhjg35dsPKUjx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/4EZWRLZ7fYQPeLLGfUTaCU"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 216533,
       "name": "Assim Eu Sou (feat. Daniela Ara\u00fajo)",
       "url": "https://open.spotify.com/track/4vmzoCSKD2LQGzaA7TojH6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Luz",
+        "url": "https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 180188,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/1Cq27FmPcRhjg35dsPKUjx"
     },
     {
       "added_at": null,
@@ -784,33 +784,9 @@
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 270480,
-      "name": "Liberdade",
-      "url": "https://open.spotify.com/track/1MksipefYCj3jjdupynfZi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Turma do Barulho, Vol. 9",
-        "url": "https://open.spotify.com/album/6XBlZzoPc590pj1I2x8m3X"
-      },
-      "artists": [
-        {
-          "name": "Turma do Barulho",
-          "url": "https://open.spotify.com/artist/3VXunR6vEr8Yi3Mbhdyrch"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Jorginho Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs"
-        }
-      ],
-      "duration_ms": 135493,
-      "name": "Vinde a Mim - Playback",
-      "url": "https://open.spotify.com/track/7kJUhmiDp5MAOPGLyrIyBz"
+      "duration_ms": 244800,
+      "name": "Imensur\u00e1vel",
+      "url": "https://open.spotify.com/track/0JwkjDLTgWa3y4CtgB4zMw"
     },
     {
       "added_at": null,
@@ -863,6 +839,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Turma do Barulho, Vol. 9",
+        "url": "https://open.spotify.com/album/6XBlZzoPc590pj1I2x8m3X"
+      },
+      "artists": [
+        {
+          "name": "Turma do Barulho",
+          "url": "https://open.spotify.com/artist/3VXunR6vEr8Yi3Mbhdyrch"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Jorginho Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs"
+        }
+      ],
+      "duration_ms": 135493,
+      "name": "Vinde a Mim - Playback",
+      "url": "https://open.spotify.com/track/7kJUhmiDp5MAOPGLyrIyBz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Criador do Mundo",
         "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
       },
@@ -872,29 +872,9 @@
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 244800,
-      "name": "Imensur\u00e1vel",
-      "url": "https://open.spotify.com/track/0JwkjDLTgWa3y4CtgB4zMw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ac\u00fastico, Vol. 2",
-        "url": "https://open.spotify.com/album/4y7PkUs6sIIuKdlbkUFxGB"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "Voc\u00ea Consegue Sim",
-      "url": "https://open.spotify.com/track/0Y5aPaB3hkQ2JiWU9BZfFn"
+      "duration_ms": 270480,
+      "name": "Liberdade",
+      "url": "https://open.spotify.com/track/1MksipefYCj3jjdupynfZi"
     },
     {
       "added_at": null,
@@ -915,6 +895,26 @@
       "duration_ms": 202875,
       "name": "Sintonia",
       "url": "https://open.spotify.com/track/2yKjWCsYFa4ohq2EjvdsYu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ac\u00fastico, Vol. 2",
+        "url": "https://open.spotify.com/album/4y7PkUs6sIIuKdlbkUFxGB"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "Voc\u00ea Consegue Sim",
+      "url": "https://open.spotify.com/track/0Y5aPaB3hkQ2JiWU9BZfFn"
     },
     {
       "added_at": null,

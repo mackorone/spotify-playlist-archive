@@ -1,12 +1,12 @@
 {
   "description": "This is Within Temptation. The essential tracks, all in one playlist.",
-  "num_followers": 165009,
+  "num_followers": 165022,
   "original_name": "This Is Within Temptation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAACotgUglmnF6XJlh6pWiwsc",
+  "snapshot_id": "Z9NxgAAAAAAdcizErt8WqX7yhNquAE/J",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Unforgiving",
-        "url": "https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 330253,
-      "name": "A Demon's Fate",
-      "url": "https://open.spotify.com/track/6UsQsPIPP7gjdtlISXx3F2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bleed Out",
         "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
       },
@@ -503,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resist (Extended Deluxe)",
-        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
+        "name": "The Unforgiving",
+        "url": "https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3"
       },
       "artists": [
         {
@@ -512,9 +496,29 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 336080,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/4GBbBy05LoSveNxjKxj26m"
+      "duration_ms": 330253,
+      "name": "A Demon's Fate",
+      "url": "https://open.spotify.com/track/6UsQsPIPP7gjdtlISXx3F2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resist (Extended Deluxe)",
+        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Anders Friden",
+          "url": "https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf"
+        }
+      ],
+      "duration_ms": 334360,
+      "name": "Raise Your Banner",
+      "url": "https://open.spotify.com/track/0lNhWQBiA483reJSVovSWF"
     },
     {
       "added_at": null,
@@ -555,42 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Silent Force",
-        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 286680,
-      "name": "Jillian (I'd Give My Heart)",
-      "url": "https://open.spotify.com/track/1wDDWn5UjpjbT9onEAbL4n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resist (Extended Deluxe)",
-        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Anders Friden",
-          "url": "https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf"
-        }
-      ],
-      "duration_ms": 334360,
-      "name": "Raise Your Banner",
-      "url": "https://open.spotify.com/track/0lNhWQBiA483reJSVovSWF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bleed Out",
         "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
       },
@@ -603,6 +571,38 @@
       "duration_ms": 244706,
       "name": "Cyanide Love",
       "url": "https://open.spotify.com/track/7c5JuIrBDoaSbzIzAr7AxN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resist (Extended Deluxe)",
+        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 336080,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/4GBbBy05LoSveNxjKxj26m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Silent Force",
+        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 286680,
+      "name": "Jillian (I'd Give My Heart)",
+      "url": "https://open.spotify.com/track/1wDDWn5UjpjbT9onEAbL4n"
     },
     {
       "added_at": null,

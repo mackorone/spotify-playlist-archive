@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 
 > This is El Haragán y Compañía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,227 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,244 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 | 27 | [Barata y Descontón](https://open.spotify.com/track/12zpKVqLAQ7x547zRwICeZ) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Barata y Descontón](https://open.spotify.com/album/0VugzwalsfV7TB8kJnrx5u) | 4:10 |
 | 28 | [Piénsalo Bien](https://open.spotify.com/track/7fPPYqgfosDlvpKlmU6UHj) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 2:50 |
 | 29 | [La Vida](https://open.spotify.com/track/2VoimIOSwcWKXi4mGfcw59) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capella, Vol\. 2](https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk) | 3:30 |
-| 30 | [En los Años Treintas](https://open.spotify.com/track/4ln59NsJPYXzc76BRUAwAw) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capela, Vol\. 1 \(Canciones para Escuchar\)](https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE) | 3:51 |
-| 31 | [Sueños de la Ciudad](https://open.spotify.com/track/1vF4DBQzM7bEPjemMek3GK) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En el Corazón No Hay Nada](https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3) | 3:03 |
+| 30 | [Sueños de la Ciudad](https://open.spotify.com/track/1vF4DBQzM7bEPjemMek3GK) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En el Corazón No Hay Nada](https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3) | 3:03 |
+| 31 | [En los Años Treintas](https://open.spotify.com/track/4ln59NsJPYXzc76BRUAwAw) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capela, Vol\. 1 \(Canciones para Escuchar\)](https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE) | 3:51 |
 | 32 | [Vivir por Vivir](https://open.spotify.com/track/6Hok72DzGIdQs7UITndTrp) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En Algún Lugar en el Cielo](https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg) | 4:29 |
 | 33 | [A la Basura Se Va](https://open.spotify.com/track/3NyKFQuBj5DR57rBqw4tiM) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capella, Vol\. 2](https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk) | 2:18 |
 | 34 | [Por los Gluteos de Mi Novia](https://open.spotify.com/track/7hcMjVJ5x1qVPQu39Szpqn) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 2:57 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 | 40 | [Tengo un Acoholico en Mi Casa](https://open.spotify.com/track/6aSZWceWgE6cMlKRvLn6yL) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 3:32 |
 | 41 | [Una Oportunidad](https://open.spotify.com/track/7hFNHNj8LKHZq9QBoaAfhm) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Ánimas](https://open.spotify.com/album/0PeZWdSpAE6OPz2awjer34) | 3:25 |
 | 42 | [Saber Amar](https://open.spotify.com/track/0bcTjLBR0N4AHAlkIIlVNM) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capela, Vol\. 1 \(Canciones para Escuchar\)](https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE) | 3:14 |
-| 43 | [El Camino del Corazón \- Acústico](https://open.spotify.com/track/4WzOYzaJTMigSoeAStr3M2) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Sesiones Acústicas \(Acústico\)](https://open.spotify.com/album/1Ac1Kb7MCxIoWlBEM3C2Fr) | 4:27 |
-| 44 | [Tuve un Sueño](https://open.spotify.com/track/7l8tTy0AtaLKTXrv2ZYTAT) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [15 Éxitos de Colección](https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7) | 3:12 |
-| 45 | [La Noche y el Silencio](https://open.spotify.com/track/3AVe4mvbEHRnflD75y5TAV) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Sin Visa, Vol\. 5](https://open.spotify.com/album/0AyiNIjnVL9xXOcQTIGEOp) | 3:48 |
-| 46 | [En los Años 30 \- En Vivo](https://open.spotify.com/track/6i0Bd62X1NRfkdroWlwvo3) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Acústico en Vivo](https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl) | 5:26 |
+| 43 | [Tuve un Sueño](https://open.spotify.com/track/7l8tTy0AtaLKTXrv2ZYTAT) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [15 Éxitos de Colección](https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7) | 3:12 |
+| 44 | [El Camino del Corazón \- Acústico](https://open.spotify.com/track/4WzOYzaJTMigSoeAStr3M2) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Sesiones Acústicas \(Acústico\)](https://open.spotify.com/album/1Ac1Kb7MCxIoWlBEM3C2Fr) | 4:27 |
+| 45 | [En los Años 30 \- En Vivo](https://open.spotify.com/track/6i0Bd62X1NRfkdroWlwvo3) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Acústico en Vivo](https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl) | 5:26 |
+| 46 | [La Noche y el Silencio](https://open.spotify.com/track/3AVe4mvbEHRnflD75y5TAV) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Sin Visa, Vol\. 5](https://open.spotify.com/album/0AyiNIjnVL9xXOcQTIGEOp) | 3:48 |
 | 47 | [Tu Te las Tomaste Sólo](https://open.spotify.com/track/0E71YpNaDKT3dibeQ5jPwU) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 3:43 |
 | 48 | [Puedes Decir](https://open.spotify.com/track/0KROw0m8ruvn7LaWA5uYhy) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Volviendo a Casa](https://open.spotify.com/album/716oCpYaFSnR7CUZWro5Tu) | 3:09 |
 | 49 | [Campeón](https://open.spotify.com/track/43g4eMXbhgpNY5tWXXVFmC) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En Algún Lugar en el Cielo](https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg) | 4:23 |
 | 50 | [Policía Chacal](https://open.spotify.com/track/6QrFIhcq4EaclMmeC2cdgX) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Delincuentes Con Placa](https://open.spotify.com/album/4Sdi8I9p9AkGbx8LnFf4wn) | 3:49 |
 
-Snapshot ID: `Z9IgAAAAAAD2h7qdU36D5ir8BhybhA9Y`
+Snapshot ID: `Z9NxgAAAAAABBzaVjOF7PxRREcPutc9X`

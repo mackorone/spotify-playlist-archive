@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 
 > This is Jelly Roll\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,143 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,321 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 37 | [Last Dance With Mary Jane \(feat\. Tom Petty & Jelly Roll\)](https://open.spotify.com/track/4nqKqrFUwEkHEGKBr1lBe3) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Missionary](https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN) | 3:05 |
 | 38 | [Dead Man Walking](https://open.spotify.com/track/4BImM1ASmigkuEhxrPfUAf) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads of the Broken](https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL) | 3:21 |
 | 39 | [The Lost](https://open.spotify.com/track/7asPE18wGkhTCuCkt5GT6b) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:19 |
-| 40 | [Whiskey Bent \(feat\. Jelly Roll\)](https://open.spotify.com/track/6bR32eVsUfzgZFAraoMITH) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:16 |
-| 41 | [Take A Bow \(with Halsey\)](https://open.spotify.com/track/0DkWJ9I5diiEuVoGUzSTHh) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Beautifully Broken \(Pickin’ Up The Pieces\)](https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9) | 3:40 |
+| 40 | [Take A Bow \(with Halsey\)](https://open.spotify.com/track/0DkWJ9I5diiEuVoGUzSTHh) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Beautifully Broken \(Pickin’ Up The Pieces\)](https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9) | 3:40 |
+| 41 | [Whiskey Bent \(feat\. Jelly Roll\)](https://open.spotify.com/track/6bR32eVsUfzgZFAraoMITH) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:16 |
 | 42 | [Nothing Left At All](https://open.spotify.com/track/3WhglCUuc5HGhvtzfjc8YY) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 3:23 |
 | 43 | [Dead End Road \(From Twisters: The Album\)](https://open.spotify.com/track/39aAZlxQg4JM9g00kec16w) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Dead End Road \(From Twisters: The Album\)](https://open.spotify.com/album/4FLzGf4XrpOZyGajzf9oYF) | 2:32 |
-| 44 | [Hurt \(with Jelly Roll\)](https://open.spotify.com/track/1l0na60FJ6nH6tSajSQQs3) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hurt \(with Jelly Roll\)](https://open.spotify.com/album/5osyX2S0SzifrsmFORqUY3) | 2:36 |
-| 45 | [Really Gone \(with Russ\)](https://open.spotify.com/track/3m5skOgX8UizlHiTTduVvA) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Beautifully Broken \(Pickin’ Up The Pieces\)](https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9) | 3:05 |
+| 44 | [Really Gone \(with Russ\)](https://open.spotify.com/track/3m5skOgX8UizlHiTTduVvA) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Beautifully Broken \(Pickin’ Up The Pieces\)](https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9) | 3:05 |
+| 45 | [Hurt \(with Jelly Roll\)](https://open.spotify.com/track/1l0na60FJ6nH6tSajSQQs3) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hurt \(with Jelly Roll\)](https://open.spotify.com/album/5osyX2S0SzifrsmFORqUY3) | 2:36 |
 | 46 | [The Bottom](https://open.spotify.com/track/3HTlU2dr9WtOXTe4ktQcc0) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 2:36 |
 | 47 | [Best For Me](https://open.spotify.com/track/5t5tLsfuyOyyuXF96M4g2a) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Not Now I'm Busy](https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2) | 3:58 |
 | 48 | [My Only Enemy](https://open.spotify.com/track/2CQrxIeKSvLkJOYOi6d593) | [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Waylon & Willie IV](https://open.spotify.com/album/4RjBKqrFun5Q72gIsSkN7R) | 3:17 |
 | 49 | [Church](https://open.spotify.com/track/3XDm5Xh1chJePrcqNB2dwa) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:40 |
 | 50 | [Comfort Zone](https://open.spotify.com/track/7vO6yVflgdpdAxArZV6URT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Addiction Kills](https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP) | 2:33 |
 
-Snapshot ID: `Z9IgAAAAAABiBVZmaarEf3XeseBvQSbc`
+Snapshot ID: `Z9NxgAAAAAB0OueB+fOgDy8nCYo1KshE`

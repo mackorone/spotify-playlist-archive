@@ -4727,6 +4727,24 @@
     },
     {
       "album": {
+        "name": "ella calma mi tormenta",
+        "url": "https://open.spotify.com/album/44CwAlsxFhvJixQZfFtmcV"
+      },
+      "artists": [
+        {
+          "name": "Julia Sabat\u00e9",
+          "url": "https://open.spotify.com/artist/31rI390sTNfG8xZmBZ0tgA"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214835,
+      "name": "ella calma mi tormenta",
+      "url": "https://open.spotify.com/track/4Wf2cR3BjqBGjFxVNZyTFI"
+    },
+    {
+      "album": {
         "name": "En el amor nunca se deja de aprender",
         "url": "https://open.spotify.com/album/6dW6SPQ4lzLZXYZMssjI3f"
       },
@@ -13700,7 +13718,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 254305,
       "name": "Todo lo Que Tengo",
       "url": "https://open.spotify.com/track/5rfmreOdFq1jp3afeCNJAK"

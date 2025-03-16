@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day\. Cover: Allen Stone
 
-700 songs - 1 day 18 hr 1 min
+701 songs - 1 day 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,6 +436,7 @@
 | [N Side](https://open.spotify.com/track/18t9EUBOfOPRv4nrJUpRAq) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [N Side](https://open.spotify.com/album/0oBHAZtvWGE21oxQpq2laq) | 3:44 | 2022-03-11 | 2022-09-10 |
 | [Need Nothing](https://open.spotify.com/track/42f3EU5xToR3O4VlIRGfC9) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Need Nothing](https://open.spotify.com/album/3jE6ilwvImynefzlleCPAz) | 2:27 | 2024-03-01 |  |
 | [Need Somebody](https://open.spotify.com/track/3d4ATyPyoh5waQRY8DiXcf) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 4:18 | 2023-09-16 | 2024-02-24 |
+| [Need U Like](https://open.spotify.com/track/6kpOKxfq6OS16y54LIEqcE) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Need U Like](https://open.spotify.com/album/4rSJXZieqQpt16ly5KwaIE) | 3:28 | 2025-03-07 |  |
 | [Need You](https://open.spotify.com/track/34i3j7m0YtGOWPrpiTMzOS) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Need You](https://open.spotify.com/album/6VIkLtDoLRSIJ9ytyAgphV) | 4:15 | 2021-12-03 | 2022-09-12 |
 | [Need You Now](https://open.spotify.com/track/5bOntAUmbpQHh1RTpERan6) | [Anthony David](https://open.spotify.com/artist/6ktPQsThz35JwdtDsvi51S), [Algebra Blessett](https://open.spotify.com/artist/0ffXbLm7KIcfu3M1ee0UkP) | [Need You Now](https://open.spotify.com/album/45wx6JHRlULmE8TVCCC39V) | 4:06 | 2023-08-25 | 2023-10-07 |
 | [Neva Gonna Break My Heart Again](https://open.spotify.com/track/7c9d8GYjOixUL7I3o2BJn0) | [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo) | [Neva Gonna Break My Heart Again](https://open.spotify.com/album/4GiaM3A5j9Yll69ESxGKyE) | 5:18 | 2021-12-03 | 2022-09-24 |
@@ -548,7 +549,7 @@
 | [Slow Down \- Acoustic](https://open.spotify.com/track/3ugCSRkkewHctDELil9Ixq) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Slow Down \(Acoustic\)](https://open.spotify.com/album/6oucPVEBijDE1a4Ef2vEU4) | 4:11 | 2021-12-03 | 2022-09-12 |
 | [Smile](https://open.spotify.com/track/5fnOfJ4Gm43UQzYpfZuAaZ) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Smile](https://open.spotify.com/album/5rXfcrwzK7aozli0g8ARif) | 2:39 | 2023-07-28 | 2024-07-20 |
 | [SMILE \(feat\. Xavier Omär, DAISY WORLD & ROMderful\)](https://open.spotify.com/track/0uwpYA2e1LrTS9MDS4p9q9) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [DAISY WORLD](https://open.spotify.com/artist/53rBi3LpNcMJUTSANS6uYT), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [SMILE \(feat\. Xavier Omär, DAISY WORLD & ROMderful\)](https://open.spotify.com/album/3bDCfRa4XXnxPEaAGYGvd9) | 3:18 | 2023-06-09 | 2024-03-15 |
-| [Smoke](https://open.spotify.com/track/6Z0yKCHpLXoDVqFSlWh9OM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Smoke](https://open.spotify.com/album/6NAkwbwMRxCBhjyVokuuSf) | 3:03 | 2024-10-18 |  |
+| [Smoke](https://open.spotify.com/track/6Z0yKCHpLXoDVqFSlWh9OM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Smoke](https://open.spotify.com/album/6NAkwbwMRxCBhjyVokuuSf) | 3:03 | 2024-10-18 | 2025-03-16 |
 | [So Beautiful](https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw) | [Johnny Venus](https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [So Beautiful](https://open.spotify.com/album/1vXBs4AY9fjXsp8tivxXwb) | 3:47 | 2025-02-28 |  |
 | [So Distracted](https://open.spotify.com/track/0ngHbClCf9nU3XhflzdLuo) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo) | [Duets](https://open.spotify.com/album/34lwRHpFW4m8x0bxfSoiBO) | 4:10 | 2024-08-23 | 2024-08-31 |
 | [So Glad I Found You](https://open.spotify.com/track/139qRX3nwAWmgBYal2yH1N) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [So Glad I Found You](https://open.spotify.com/album/0kzYR7CaWLFrqG87GxGwpY) | 3:16 | 2023-08-25 | 2023-10-01 |

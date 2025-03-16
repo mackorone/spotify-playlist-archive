@@ -1,6 +1,6 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 106945,
+  "num_followers": 106936,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Summer Pack",
+        "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 297404,
+      "name": "Feels Like Summer",
+      "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Yo x Ti, Tu x Mi",
         "url": "https://open.spotify.com/album/3844bY26oeSkqd06th4EYp"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 201040,
       "name": "Yo x Ti, Tu x Mi",
       "url": "https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Summer Pack",
-        "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 297404,
-      "name": "Feels Like Summer",
-      "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Nail Tech",
-        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 206385,
-      "name": "Nail Tech",
-      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Black & Gold",
         "url": "https://open.spotify.com/album/7gBzSSKb7j7ilqVNfGrmY7"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 274426,
       "name": "Black & Gold",
       "url": "https://open.spotify.com/track/3V45D1XTTyVZFN3liYuik6"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Nail Tech",
+        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 206385,
+      "name": "Nail Tech",
+      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Shine A Light",
-        "url": "https://open.spotify.com/album/5dHZd6w1IlNc4W0JInztkG"
-      },
-      "artists": [
-        {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
-        }
-      ],
-      "duration_ms": 225120,
-      "name": "Shine A Light",
-      "url": "https://open.spotify.com/track/1fDtoTPDyzkNOfFIRXxsC5"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "The Boy With No Name",
         "url": "https://open.spotify.com/album/0uR1cnrej7aGnRIptQxVaR"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 240626,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7jP2937OACDPrN53DzO0Ye"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Shine A Light",
+        "url": "https://open.spotify.com/album/5dHZd6w1IlNc4W0JInztkG"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "duration_ms": 225120,
+      "name": "Shine A Light",
+      "url": "https://open.spotify.com/track/1fDtoTPDyzkNOfFIRXxsC5"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "The Mission",
-        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 191478,
-      "name": "The Mission",
-      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Don't Believe The Truth",
         "url": "https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 310440,
       "name": "Lyla",
       "url": "https://open.spotify.com/track/1XYLtiNehOF8D5NmlQknpI"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "The Mission",
+        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 191478,
+      "name": "The Mission",
+      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "It Won't Always Be Like This",
-        "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 236146,
-      "name": "Totally",
-      "url": "https://open.spotify.com/track/0VzmboMWQmJsFRLN4kNAX5"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "RELAXER",
         "url": "https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 231013,
       "name": "Deadcrush",
       "url": "https://open.spotify.com/track/7gn0MfkV4ZuMkqbPlmhIlx"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "It Won't Always Be Like This",
+        "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 236146,
+      "name": "Totally",
+      "url": "https://open.spotify.com/track/0VzmboMWQmJsFRLN4kNAX5"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "Let It Roll",
+      "url": "https://open.spotify.com/track/0W0FFzJ1lhTxt0JLrsiULh"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "B. Inspired",
         "url": "https://open.spotify.com/album/2hnJVh7gOSbRDHanTb5Lnr"
       },
@@ -1575,6 +1591,22 @@
       "duration_ms": 270266,
       "name": "Ordinary People (feat. JP Cooper)",
       "url": "https://open.spotify.com/track/5YmmqeU1a7KsNzvbj4aCGS"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "A Little Deeper",
+        "url": "https://open.spotify.com/album/3R6aIbq0UGfht1x0rck5Tn"
+      },
+      "artists": [
+        {
+          "name": "Ms. Dynamite",
+          "url": "https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Dy-Na-Mi-Tee",
+      "url": "https://open.spotify.com/track/3cCjEDTIWSNr5stzGhiRWI"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1599,38 +1631,6 @@
       "duration_ms": 177206,
       "name": "Followers",
       "url": "https://open.spotify.com/track/5sPoju3oZHg9Wq5KXxBH3a"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "A Little Deeper",
-        "url": "https://open.spotify.com/album/3R6aIbq0UGfht1x0rck5Tn"
-      },
-      "artists": [
-        {
-          "name": "Ms. Dynamite",
-          "url": "https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Dy-Na-Mi-Tee",
-      "url": "https://open.spotify.com/track/3cCjEDTIWSNr5stzGhiRWI"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "Let It Roll",
-      "url": "https://open.spotify.com/track/0W0FFzJ1lhTxt0JLrsiULh"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1699,18 +1699,26 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Happy to You",
-        "url": "https://open.spotify.com/album/6YeV0JWW7g8dDf78jFIe1e"
+        "name": "Ay Caramba",
+        "url": "https://open.spotify.com/album/1ME6eVTU1q7wGcVyktvmEJ"
       },
       "artists": [
         {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+          "name": "Stay Flee Get Lizzy",
+          "url": "https://open.spotify.com/artist/2oZq6t5DkE2BdGbD6x8RXh"
+        },
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        },
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
         }
       ],
-      "duration_ms": 223053,
-      "name": "Paddling Out",
-      "url": "https://open.spotify.com/track/0rfXn2iUwqQXzNvJgmcG6p"
+      "duration_ms": 211525,
+      "name": "Ay Caramba",
+      "url": "https://open.spotify.com/track/0mfEHC4z5a7533o7VNOH2c"
     }
   ],
   "unique_name": "EA SPORTS FIFA Mix",

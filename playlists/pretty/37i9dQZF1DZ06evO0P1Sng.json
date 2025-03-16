@@ -1,12 +1,12 @@
 {
   "description": "This is Azzy. The essential tracks, all in one playlist.",
-  "num_followers": 8176,
+  "num_followers": 8179,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAABtVGEGbGjRNXG78HibGhcl",
+  "snapshot_id": "Z9NxgAAAAAC0Kk+pwSDe5HEcU6sgEO/v",
   "tracks": [
     {
       "added_at": null,
@@ -495,30 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FZND DNV",
-        "url": "https://open.spotify.com/album/3S3VnaT3xvdGP0srKVt8v5"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "H4lfmeasures",
-          "url": "https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "FZND DNV",
-      "url": "https://open.spotify.com/track/5dGixeOdNWTMXvmIu64DRg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Encrenqueira",
         "url": "https://open.spotify.com/album/0zEQ45hjcWKDS2DYZazdIu"
       },
@@ -551,6 +527,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "FZND DNV",
+        "url": "https://open.spotify.com/album/3S3VnaT3xvdGP0srKVt8v5"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "H4lfmeasures",
+          "url": "https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "FZND DNV",
+      "url": "https://open.spotify.com/track/5dGixeOdNWTMXvmIu64DRg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Priv\u00ea",
         "url": "https://open.spotify.com/album/17EHgYliwwIYmr9XtsigrO"
       },
@@ -563,26 +563,6 @@
       "duration_ms": 186947,
       "name": "Priv\u00ea",
       "url": "https://open.spotify.com/track/6LfJUcB0FC4Oocufnfz3Ce"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Faixa Rosa",
-        "url": "https://open.spotify.com/album/5qAsZm3XpJWm99peC2JTDs"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "BocaDosBeats",
-          "url": "https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw"
-        }
-      ],
-      "duration_ms": 182923,
-      "name": "Faixa Rosa",
-      "url": "https://open.spotify.com/track/1DoaY4rjTCk5cUEUTU2pq3"
     },
     {
       "added_at": null,
@@ -611,18 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jogo de Sedu\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7gp28RmHb7fQwEERchv7BX"
+        "name": "Faixa Rosa",
+        "url": "https://open.spotify.com/album/5qAsZm3XpJWm99peC2JTDs"
       },
       "artists": [
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "BocaDosBeats",
+          "url": "https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw"
         }
       ],
-      "duration_ms": 225882,
-      "name": "Jogo de Sedu\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx"
+      "duration_ms": 182923,
+      "name": "Faixa Rosa",
+      "url": "https://open.spotify.com/track/1DoaY4rjTCk5cUEUTU2pq3"
     },
     {
       "added_at": null,
@@ -647,6 +631,62 @@
       "duration_ms": 136022,
       "name": "Amor Intenso",
       "url": "https://open.spotify.com/track/35uDP9LyfJ790dEx9h5TBd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jogo de Sedu\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7gp28RmHb7fQwEERchv7BX"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Jogo de Sedu\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BOLA + 1 BECK",
+        "url": "https://open.spotify.com/album/4ZLxvfs4jZvVRmQLIfbtni"
+      },
+      "artists": [
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Predella",
+          "url": "https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Mc Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 487619,
+      "name": "Pra Sempre",
+      "url": "https://open.spotify.com/track/5Cq98QXJoptVVspuRDOkg4"
     },
     {
       "added_at": null,
@@ -763,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TUDO \u00c9 SOBRE M\u00daSICA",
-        "url": "https://open.spotify.com/album/54pdTQYeRuXqDCcpB1iRC7"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        }
-      ],
-      "duration_ms": 206106,
-      "name": "TUDO \u00c9 SOBRE M\u00daSICA",
-      "url": "https://open.spotify.com/track/15APNO11OHG2LfvFzgvvE3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poetas No Topo 3.3, Pt. 1",
         "url": "https://open.spotify.com/album/0Y6sQBLqax8F8uvVLvFXkP"
       },
@@ -843,6 +863,26 @@
       "duration_ms": 1147406,
       "name": "Poetas No Topo 3.3, Pt. 1",
       "url": "https://open.spotify.com/track/67vfgPDV3JirBIMpeUzqYu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TUDO \u00c9 SOBRE M\u00daSICA",
+        "url": "https://open.spotify.com/album/54pdTQYeRuXqDCcpB1iRC7"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        }
+      ],
+      "duration_ms": 206106,
+      "name": "TUDO \u00c9 SOBRE M\u00daSICA",
+      "url": "https://open.spotify.com/track/15APNO11OHG2LfvFzgvvE3"
     },
     {
       "added_at": null,
@@ -1071,34 +1111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1 Influ\u00eancia",
-        "url": "https://open.spotify.com/album/1enqkS1DrDducYiQkuYJWw"
-      },
-      "artists": [
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
-        },
-        {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Ryan Realcria",
-          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
-        }
-      ],
-      "duration_ms": 177253,
-      "name": "As Ruas Sabem Meu Nome",
-      "url": "https://open.spotify.com/track/7KlGZR52HMdpzPihpaMTMl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poetisas No Topo",
         "url": "https://open.spotify.com/album/18Q1qTfrRw9Jm74np2b3p4"
       },
@@ -1139,6 +1151,34 @@
       "duration_ms": 693750,
       "name": "Poetisas No Topo",
       "url": "https://open.spotify.com/track/5kJ7otQOQrMC5CnkYGZaC9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1 Influ\u00eancia",
+        "url": "https://open.spotify.com/album/1enqkS1DrDducYiQkuYJWw"
+      },
+      "artists": [
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Ryan Realcria",
+          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
+        }
+      ],
+      "duration_ms": 177253,
+      "name": "As Ruas Sabem Meu Nome",
+      "url": "https://open.spotify.com/track/7KlGZR52HMdpzPihpaMTMl"
     },
     {
       "added_at": null,
@@ -1271,22 +1311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morango",
-        "url": "https://open.spotify.com/album/5xAl0DYFuomlQ1daDr4LeG"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 132857,
-      "name": "Morango",
-      "url": "https://open.spotify.com/track/1D2X9Yyj0LF5tAOrUMNy3P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eles N\u00e3o Ligam Pra Gente",
         "url": "https://open.spotify.com/album/0uWq40BZUNbaZqpjGyVCPn"
       },
@@ -1323,6 +1347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Morango",
+        "url": "https://open.spotify.com/album/5xAl0DYFuomlQ1daDr4LeG"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 132857,
+      "name": "Morango",
+      "url": "https://open.spotify.com/track/1D2X9Yyj0LF5tAOrUMNy3P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coisa Fina",
         "url": "https://open.spotify.com/album/2l5TXHheBX9gjftT3TKqh7"
       },
@@ -1343,26 +1383,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tifanny",
-        "url": "https://open.spotify.com/album/7ARaUBO3YmdZ91wDdSn643"
+        "name": "VIP",
+        "url": "https://open.spotify.com/album/7un1PXzwYc8D8Mk6eiQDtv"
       },
       "artists": [
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Tlust",
-          "url": "https://open.spotify.com/artist/6M1ffwjNDqXAkqpppHukl6"
-        },
-        {
-          "name": "Bgnobeat",
-          "url": "https://open.spotify.com/artist/5V6BONZ5wppD3nyZtFtjqp"
         }
       ],
-      "duration_ms": 160056,
-      "name": "Tifanny",
-      "url": "https://open.spotify.com/track/7rSH0RAJ3IkeiXfwqEZERJ"
+      "duration_ms": 130800,
+      "name": "VIP",
+      "url": "https://open.spotify.com/track/4b8tsQoH69au6oca7bozA3"
     },
     {
       "added_at": null,
@@ -1383,22 +1415,6 @@
       "duration_ms": 220234,
       "name": "Segue o Baile",
       "url": "https://open.spotify.com/track/5vrT66H94IfI3DNaNqNUJk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VIP",
-        "url": "https://open.spotify.com/album/7un1PXzwYc8D8Mk6eiQDtv"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 130800,
-      "name": "VIP",
-      "url": "https://open.spotify.com/track/4b8tsQoH69au6oca7bozA3"
     }
   ],
   "unique_name": "This Is Azzy",

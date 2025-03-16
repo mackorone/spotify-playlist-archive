@@ -943,6 +943,32 @@
     },
     {
       "album": {
+        "name": "24 SONGS",
+        "url": "https://open.spotify.com/album/1JhyhL2JfZH0NW7vpvLoMI"
+      },
+      "artists": [
+        {
+          "name": "Ego",
+          "url": "https://open.spotify.com/artist/7C0ssKcggVw4t1Vy07zAqi"
+        },
+        {
+          "name": "khxznq",
+          "url": "https://open.spotify.com/artist/2tlLU18GZKldCc9VqMSzZA"
+        },
+        {
+          "name": "goatedx",
+          "url": "https://open.spotify.com/artist/2MlYvN6AiO5iFigapMc8be"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202709,
+      "name": "24 SONGS",
+      "url": "https://open.spotify.com/track/6QK8cvVsFnrS3i165Mpozd"
+    },
+    {
+      "album": {
         "name": "24 Songs",
         "url": "https://open.spotify.com/album/3W9ivB8clpbbNLw49cjsLx"
       },
@@ -38932,7 +38958,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 205479,
       "name": "Man In the Sky",
       "url": "https://open.spotify.com/track/4Xk5BCDOTLcq8B0xwWofRD"
@@ -40124,7 +40150,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 284066,
       "name": "Messy",
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
@@ -50500,7 +50526,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 191132,
       "name": "Purple lace bra",
       "url": "https://open.spotify.com/track/2bqLj0NvdtGbPCl9PdBtP2"

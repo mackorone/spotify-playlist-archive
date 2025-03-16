@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4uT4afwoFqf5HupqMjErXX">Chiiild</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-119 songs - 6 hr 39 min
+121 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Darling](https://open.spotify.com/track/3ZpsZyvKE91tgX4To9VtZx) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U) | 2:44 | 2023-06-11 |  |
 | [Darling](https://open.spotify.com/track/6Q0Dsq0JQWUe2RbOJBZl6c) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/3ZTUu9z3rxEC4MA9N4ZOzl) | 2:44 | 2022-11-11 | 2023-06-12 |
 | [Dive](https://open.spotify.com/track/0X0MCiE18F0xztZ6G6lQuz) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 3:45 | 2022-11-11 |  |
-| [Don't Go](https://open.spotify.com/track/41HzJgpKWkFXkgsxbDSA27) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [I Thought It'd Be Different](https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX) | 2:46 | 2024-06-06 |  |
+| [Don't Go](https://open.spotify.com/track/41HzJgpKWkFXkgsxbDSA27) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [I Thought It'd Be Different](https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX) | 2:46 | 2024-06-06 | 2025-03-16 |
+| [Don't Go](https://open.spotify.com/track/3LmO2iMqMHZH1vMvdE6v7u) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [I Thought It'd Be Different](https://open.spotify.com/album/5pOw339jffG6207J1W0GRo) | 2:46 | 2025-03-15 |  |
 | [Drowning](https://open.spotify.com/track/3rYxOXZNc2qoCRhV6w9eq3) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Dancing Shadows](https://open.spotify.com/album/2DEpDHpIuQbCsLy0rKyhaI) | 3:38 | 2022-11-11 |  |
 | [Easy On Yourself](https://open.spotify.com/track/1wM9bvjd3i9pbH0gpq7aYj) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/3ZTUu9z3rxEC4MA9N4ZOzl) | 2:44 | 2022-11-11 | 2023-06-12 |
 | [Easy On Yourself](https://open.spotify.com/track/5LVmJesDOJD1ntudqD51Ms) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U) | 2:44 | 2023-06-11 |  |
@@ -94,7 +95,8 @@
 | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/track/5v7BIzhKuy8WzT7LyFYiiO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 4:00 | 2024-04-02 |  |
 | [Pirouette](https://open.spotify.com/track/2sz6BchGGyA7QsUW2Gw8eb) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U) | 2:57 | 2023-06-11 |  |
 | [Pirouette](https://open.spotify.com/track/5BfvUt5ztFuAyhWjgWzjr1) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/3ZTUu9z3rxEC4MA9N4ZOzl) | 2:57 | 2022-11-11 | 2023-06-12 |
-| [Refill](https://open.spotify.com/track/2WJS688sN8yuzC4CDMeZRZ) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P) | [I Thought It'd Be Different](https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX) | 3:47 | 2024-04-02 |  |
+| [Refill](https://open.spotify.com/track/2WJS688sN8yuzC4CDMeZRZ) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P) | [I Thought It'd Be Different](https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX) | 3:47 | 2024-04-02 | 2025-03-16 |
+| [Refill](https://open.spotify.com/track/4lo0Ji3cZP32UjEuxAh6OD) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P) | [I Thought It'd Be Different](https://open.spotify.com/album/5pOw339jffG6207J1W0GRo) | 3:47 | 2025-03-15 |  |
 | [Revolution](https://open.spotify.com/track/45LbqIkc6xVfyOxBVU8efO) | [Catey Shaw](https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI) | [Revolution](https://open.spotify.com/album/1R71BrJFADHwIWaqQ3UAzy) | 4:06 | 2022-11-11 |  |
 | [Selfish](https://open.spotify.com/track/2AX0I1Oc4cx5tVYo7hUJcr) | [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw) | [The Spectrum](https://open.spotify.com/album/27DemjtuFRsE68xR1AnIe5) | 3:56 | 2022-11-11 | 2023-12-14 |
 | [Selfish](https://open.spotify.com/track/49AmjLr38cCCe8gqVGJ6YF) | [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw) | [The Spectrum](https://open.spotify.com/album/77iaciBoduT9eNQ94w4S7V) | 3:56 | 2023-12-13 |  |

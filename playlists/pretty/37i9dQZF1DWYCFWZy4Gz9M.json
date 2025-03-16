@@ -1,6 +1,6 @@
 {
   "description": "Guembri, rhythmic krakebs and soulful chants.",
-  "num_followers": 65413,
+  "num_followers": 65422,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2025-03-13 20:50:57",
       "album": {
+        "name": "Lalla Malika - \u0644\u0627\u0644\u0629 \u0645\u0644\u064a\u0643\u0629",
+        "url": "https://open.spotify.com/album/7b3Y8g8SLFuqJDNyk9NWnb"
+      },
+      "artists": [
+        {
+          "name": "Neghma",
+          "url": "https://open.spotify.com/artist/55LUkgAAO2xw9YvYUgRoxr"
+        }
+      ],
+      "duration_ms": 342569,
+      "name": "Lalla Malika - \u0644\u0627\u0644\u0629 \u0645\u0644\u064a\u0643\u0629",
+      "url": "https://open.spotify.com/track/0tDZx5lL3bv6BFAiRSuwGO"
+    },
+    {
+      "added_at": "2025-03-13 20:50:57",
+      "album": {
         "name": "Morocco: Traditional Songs & Music",
         "url": "https://open.spotify.com/album/72S0SzvMzdkUqTn7Xjcy1V"
       },
@@ -459,22 +475,6 @@
     {
       "added_at": "2025-03-13 20:50:57",
       "album": {
-        "name": "Gnawa Fusion, Vol. 1",
-        "url": "https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap"
-      },
-      "artists": [
-        {
-          "name": "Hamid El Gnawi",
-          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
-        }
-      ],
-      "duration_ms": 312581,
-      "name": "Soudani",
-      "url": "https://open.spotify.com/track/4PH29GIlJAYrQse5wQ1fIV"
-    },
-    {
-      "added_at": "2025-03-13 20:50:57",
-      "album": {
         "name": "Live in Casablanca",
         "url": "https://open.spotify.com/album/25DdBbAFYrRhdi0xiYATKR"
       },
@@ -491,18 +491,18 @@
     {
       "added_at": "2025-03-13 20:50:57",
       "album": {
-        "name": "Lalla Malika - \u0644\u0627\u0644\u0629 \u0645\u0644\u064a\u0643\u0629",
-        "url": "https://open.spotify.com/album/7b3Y8g8SLFuqJDNyk9NWnb"
+        "name": "Gnawa Fusion, Vol. 1",
+        "url": "https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap"
       },
       "artists": [
         {
-          "name": "Neghma",
-          "url": "https://open.spotify.com/artist/55LUkgAAO2xw9YvYUgRoxr"
+          "name": "Hamid El Gnawi",
+          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
         }
       ],
-      "duration_ms": 342569,
-      "name": "Lalla Malika - \u0644\u0627\u0644\u0629 \u0645\u0644\u064a\u0643\u0629",
-      "url": "https://open.spotify.com/track/0tDZx5lL3bv6BFAiRSuwGO"
+      "duration_ms": 312581,
+      "name": "Soudani",
+      "url": "https://open.spotify.com/track/4PH29GIlJAYrQse5wQ1fIV"
     },
     {
       "added_at": "2025-03-13 20:50:57",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-03-13 20:50:57",
       "album": {
-        "name": "Gnawa Fusion, Vol. 4",
-        "url": "https://open.spotify.com/album/5SLDSuYflfHqcwoMY7ozef"
-      },
-      "artists": [
-        {
-          "name": "Hamid El Gnawi",
-          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
-        }
-      ],
-      "duration_ms": 534987,
-      "name": "La Illaha Illa Allah",
-      "url": "https://open.spotify.com/track/1rUFXxtuyZj0Q83e3qUvN1"
-    },
-    {
-      "added_at": "2025-03-13 20:50:57",
-      "album": {
         "name": "Gnawa Home Songs",
         "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": "2025-03-13 20:50:57",
       "album": {
+        "name": "Gnawa Fusion, Vol. 4",
+        "url": "https://open.spotify.com/album/5SLDSuYflfHqcwoMY7ozef"
+      },
+      "artists": [
+        {
+          "name": "Hamid El Gnawi",
+          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
+        }
+      ],
+      "duration_ms": 534987,
+      "name": "La Illaha Illa Allah",
+      "url": "https://open.spotify.com/track/1rUFXxtuyZj0Q83e3qUvN1"
+    },
+    {
+      "added_at": "2025-03-13 20:50:57",
+      "album": {
         "name": "Jah Gnawi",
         "url": "https://open.spotify.com/album/5KH1pCLPYV90Z3hJ7gvu8u"
       },
@@ -687,22 +687,26 @@
     {
       "added_at": "2025-03-13 20:50:57",
       "album": {
-        "name": "Safi",
-        "url": "https://open.spotify.com/album/2zq89SVhvZSQH3Ek5L306z"
+        "name": "Assala",
+        "url": "https://open.spotify.com/album/0naKDiFvjhAcy1IWy2QiyS"
       },
       "artists": [
         {
-          "name": "Ray Lema",
-          "url": "https://open.spotify.com/artist/3oB3hVEizagt6r6W7HEcbD"
+          "name": "Omri Mor",
+          "url": "https://open.spotify.com/artist/3Y0M0thRIXdQ9bbPKUuaA9"
         },
         {
-          "name": "Tyour Gnaoua",
-          "url": "https://open.spotify.com/artist/6R0UQ6lFMkmTIsVz5pGvCL"
+          "name": "Mehdi Nassouli",
+          "url": "https://open.spotify.com/artist/3oK06jAg9UUaNpQQHh1lJJ"
+        },
+        {
+          "name": "Karim Ziad",
+          "url": "https://open.spotify.com/artist/6ja9bhaKf5yHBKQGGbLGi8"
         }
       ],
-      "duration_ms": 309000,
-      "name": "Mister X",
-      "url": "https://open.spotify.com/track/4mnwLXp1eO7BaaSh4c1cbK"
+      "duration_ms": 473588,
+      "name": "44",
+      "url": "https://open.spotify.com/track/5PoYydFEND0uinZ6tSHn10"
     },
     {
       "added_at": "2025-03-13 20:50:57",
@@ -739,26 +743,22 @@
     {
       "added_at": "2025-03-13 20:50:57",
       "album": {
-        "name": "Assala",
-        "url": "https://open.spotify.com/album/0naKDiFvjhAcy1IWy2QiyS"
+        "name": "Safi",
+        "url": "https://open.spotify.com/album/2zq89SVhvZSQH3Ek5L306z"
       },
       "artists": [
         {
-          "name": "Omri Mor",
-          "url": "https://open.spotify.com/artist/3Y0M0thRIXdQ9bbPKUuaA9"
+          "name": "Ray Lema",
+          "url": "https://open.spotify.com/artist/3oB3hVEizagt6r6W7HEcbD"
         },
         {
-          "name": "Mehdi Nassouli",
-          "url": "https://open.spotify.com/artist/3oK06jAg9UUaNpQQHh1lJJ"
-        },
-        {
-          "name": "Karim Ziad",
-          "url": "https://open.spotify.com/artist/6ja9bhaKf5yHBKQGGbLGi8"
+          "name": "Tyour Gnaoua",
+          "url": "https://open.spotify.com/artist/6R0UQ6lFMkmTIsVz5pGvCL"
         }
       ],
-      "duration_ms": 473588,
-      "name": "44",
-      "url": "https://open.spotify.com/track/5PoYydFEND0uinZ6tSHn10"
+      "duration_ms": 309000,
+      "name": "Mister X",
+      "url": "https://open.spotify.com/track/4mnwLXp1eO7BaaSh4c1cbK"
     },
     {
       "added_at": "2025-03-13 20:50:57",

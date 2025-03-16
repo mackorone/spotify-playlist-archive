@@ -4,7 +4,7 @@
 
 > Przywitaj wiosnę błogimi dźwiękami 🌷
 
-418 songs - 23 hr 27 min
+420 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-06-28 | 2024-09-13 |
 | [I'm in love](https://open.spotify.com/track/2xIGo3LOGsqqJ7gdl4amM1) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [I'm in love](https://open.spotify.com/album/7v6ybJ0OVTGWyjHdSKeffm) | 2:46 | 2025-01-24 | 2025-02-08 |
 | [Idziesz](https://open.spotify.com/track/7kCzLV7fvduN4Ig5TINWJj) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Idziesz](https://open.spotify.com/album/0R2YrqhG7KKTpdjHqqsVL2) | 3:36 | 2025-02-28 |  |
+| [If Only I Could Wait](https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Danielle Haim](https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9) | [If Only I Could Wait b/w Walk Home](https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh) | 3:22 | 2025-03-14 |  |
 | [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Image](https://open.spotify.com/album/7JnlRfxpLRDdeYOPuNcklD) | 3:32 | 2024-09-12 | 2024-11-04 |
 | [In My Mind](https://open.spotify.com/track/5Kbs5ZbYLGKchaT0C6fqjQ) | [Formeo](https://open.spotify.com/artist/58VDkUTKHrrr5b0P4yszTO) | [In My Mind](https://open.spotify.com/album/1FCcWwRuJplJfGh6gqPILZ) | 3:55 | 2025-02-21 | 2025-03-08 |
 | [In The Modern World](https://open.spotify.com/track/7ht9gaFe8hSIp5R795x87h) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [In The Modern World](https://open.spotify.com/album/52hEWkt7HEi8WZLXDwg7R0) | 4:26 | 2024-09-12 | 2024-10-28 |
@@ -163,7 +164,7 @@
 | [Kalka](https://open.spotify.com/track/5W9zXFO1vrVkfZ4wRwznM2) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [z papieru](https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx) | 3:14 | 2024-10-07 | 2025-01-11 |
 | [Karma](https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Karma](https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW) | 2:35 | 2024-06-28 | 2024-07-06 |
 | [Kiks](https://open.spotify.com/track/2PBL1iT96RCH7QDsaJaO9y) | [Blauka](https://open.spotify.com/artist/2ZgaoICJy1V38lHdzlVB8a) | [Kiks](https://open.spotify.com/album/2fH8e4eRciUmHPZzd1ycfa) | 4:02 | 2024-10-17 | 2024-10-26 |
-| [Killed For Sport](https://open.spotify.com/track/2T95r9PHIfBwRLGxEEz4aW) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Killed For Sport](https://open.spotify.com/album/1VZDqhQ0PHUGWfCLeutBeH) | 4:14 | 2025-02-28 |  |
+| [Killed For Sport](https://open.spotify.com/track/2T95r9PHIfBwRLGxEEz4aW) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Killed For Sport](https://open.spotify.com/album/1VZDqhQ0PHUGWfCLeutBeH) | 4:14 | 2025-02-28 | 2025-03-16 |
 | [Kochałam Cię na zabój](https://open.spotify.com/track/3rqc2nQH6h2iGpKQZWd74a) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Kochałam Cię na zabój](https://open.spotify.com/album/4q8A9oxDsSe8tY2gGKGFcE) | 4:04 | 2024-11-21 | 2024-12-20 |
 | [Kochałam Pana \(A\. Osiecka\)](https://open.spotify.com/track/5NcnJxxtwAbT44962OU8tO) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Anna Maria Jopek](https://open.spotify.com/artist/49MhEXYycGHSAmmy8GiBio) | [Kochałam Pana \(A\. Osiecka\)](https://open.spotify.com/album/1qfC7PlosTrgkx5QrtFQ0E) | 4:46 | 2025-02-07 | 2025-02-22 |
 | [Komary](https://open.spotify.com/track/01yy7L6FnLH2P8UW1B1dBu) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Komary](https://open.spotify.com/album/3TQR5V2NIAPpCX85IhiEnh) | 3:45 | 2024-11-15 | 2024-11-22 |
@@ -211,7 +212,7 @@
 | [Miłość jest ślepa](https://open.spotify.com/track/3IQN4rjqZlmJgO4exMkaNT) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Kaprysy](https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY) | 3:17 | 2024-06-28 | 2024-09-13 |
 | [Mleczna droga](https://open.spotify.com/track/12aZhjbBBFKIm1S9utKiIB) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Kaprysy](https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY) | 4:08 | 2024-09-12 | 2025-02-17 |
 | [mleko i mood](https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Pierwsza Płyta](https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ) | 3:22 | 2024-11-21 | 2024-12-15 |
-| [modlitwa](https://open.spotify.com/track/69T5uAZvcOOy2DGIVVUr9Q) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [modlitwa](https://open.spotify.com/album/2FIZLvx9pYTL9sYliDe5FN) | 2:25 | 2025-02-21 |  |
+| [modlitwa](https://open.spotify.com/track/69T5uAZvcOOy2DGIVVUr9Q) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [modlitwa](https://open.spotify.com/album/2FIZLvx9pYTL9sYliDe5FN) | 2:25 | 2025-02-21 | 2025-03-16 |
 | [mona melody](https://open.spotify.com/track/7gKrwB4MBdOtuYMpwNLOke) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [mona melody](https://open.spotify.com/album/5JFWinUnEErAsE1x1fDFdC) | 3:26 | 2025-02-21 |  |
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-07 | 2024-11-22 |
 | [Motorcycle](https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Motorcycle](https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g) | 2:46 | 2024-06-28 | 2024-07-27 |
@@ -257,6 +258,7 @@
 | [och i ach](https://open.spotify.com/track/1MsoH4Fz8O9PKbTW5SkXbJ) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [och i ach](https://open.spotify.com/album/2MNCHzcw3C3wpo81uWeOxF) | 3:01 | 2024-06-28 | 2024-09-13 |
 | [Od jutra zacznę się modlić](https://open.spotify.com/track/3sX1KgURKWdt92RNy35Hhj) | [Pola Chobot & Adam Baran](https://open.spotify.com/artist/3rAJTu78f8RNNNTN8LqnVk) | [Od jutra zacznę się modlić](https://open.spotify.com/album/1exMof1QSx2gzJW3qiO86O) | 3:08 | 2024-10-07 | 2024-10-15 |
 | [Od kiedy jesteś](https://open.spotify.com/track/06WAHlXnCIn6DkelXwtUOd) | [Dominik Dudek](https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx) | [Od kiedy jesteś](https://open.spotify.com/album/5tEKJkeIlU6xbnwnwpQHqo) | 3:02 | 2024-07-18 | 2024-09-13 |
+| [Ofelia \(M\. Pawlikowska\-Jasnorzewska\)](https://open.spotify.com/track/7sBP7vQcWySymKNWIj9rNp) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Nosowska](https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul) | [Ofelia \(M\. Pawlikowska\-Jasnorzewska\)](https://open.spotify.com/album/5HdAYwPyVW2wRYr76gL1m4) | 3:28 | 2025-03-14 |  |
 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 | 2024-09-27 | 2024-11-22 |
 | [One And Only](https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Small Changes](https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww) | 4:31 | 2024-11-21 | 2025-03-01 |
 | [One Day](https://open.spotify.com/track/77mWGue0DTf1Aj2YzWLmoi) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [One Day](https://open.spotify.com/album/6XNZZuRxJMwpgrBqgPAgoN) | 4:54 | 2024-07-05 | 2024-07-12 |

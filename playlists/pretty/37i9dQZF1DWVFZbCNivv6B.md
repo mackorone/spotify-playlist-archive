@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Aquí vive el hip\-hop mexicano\. <br/>Kevin AMF, Victor Mendivil, Dani FLow y Los Esquivel están en la casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,385 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 830,406 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 8 | [Bien Locos](https://open.spotify.com/track/1FoRhO8UUmgUOrX9oCuASy) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Bien Locos](https://open.spotify.com/album/5FwnGEvNX02tL3lKqVa8OA) | 3:38 |
 | 9 | [ALV TODOS](https://open.spotify.com/track/76akywa2I8JChhWVpGQv01) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [ALV TODOS](https://open.spotify.com/album/02lhVJUr51n29j8BesGnUM) | 4:05 |
 | 10 | [Les Falta Flow](https://open.spotify.com/track/038ue34wBpW0YVBBhYOrn1) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN) | [Les Falta Flow](https://open.spotify.com/album/3dGdh7goIDW5lXzrdCoKlr) | 4:01 |
-| 11 | [West Plaza](https://open.spotify.com/track/4RyrKXFQVNnp7Wp8Jgd1Ky) | [T.O.N.A](https://open.spotify.com/artist/10UmrqEfeg6yiGZo5qKqyK), [PAVEL](https://open.spotify.com/artist/12L5FprPtupespeEZZt6c5) | [West Plaza](https://open.spotify.com/album/4M4DgYqKg8k1OiuDtdCaY4) | 3:00 |
+| 11 | [West Plaza](https://open.spotify.com/track/4RyrKXFQVNnp7Wp8Jgd1Ky) | [T.O.N.A](https://open.spotify.com/artist/10UmrqEfeg6yiGZo5qKqyK), [PAVEL](https://open.spotify.com/artist/73MIElBc2EabbqXIWffWyv) | [West Plaza](https://open.spotify.com/album/4M4DgYqKg8k1OiuDtdCaY4) | 3:00 |
 | 12 | [Niños Santos](https://open.spotify.com/track/0r0Ezkt7qJRCX97tBaIAOc) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Villax](https://open.spotify.com/artist/4HkxgUTD15NUWSqxA2VfhN), [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq) | [Punto de Quiebre Vol\. 2](https://open.spotify.com/album/0YgkdLXPBd8MRkSBdjTnzv) | 4:31 |
 | 13 | [Una Pistola y Un Toque](https://open.spotify.com/track/7mYDqQKN77OjUK9Dqtm14A) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Una Pistola y Un Toque](https://open.spotify.com/album/5JXqExeY0MLgO6EFJwZgOK) | 3:54 |
 | 14 | [Alv Tú](https://open.spotify.com/track/2OiJM0rjhBQbCWDrsy1dmM) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6) | [Alv Tú](https://open.spotify.com/album/52g3D6e7RxUCZiMS4Dfq01) | 3:57 |

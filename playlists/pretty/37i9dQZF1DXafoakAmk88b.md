@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie from black artists driving the current\. Cover: FKA twigs
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,671 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,686 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Time](https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Time](https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF) | 3:44 |
-| 2 | [i cant tell \(love my money\)](https://open.spotify.com/track/0oZ4efjL1w7SQPAo6ud5lI) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [i cant tell \(love my money\)](https://open.spotify.com/album/0Y2zQQCPC9PGa24Jku0rle) | 2:43 |
+| 2 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 |
 | 3 | [SLOW DANCE IN A GAY BAR](https://open.spotify.com/track/1JkpySdM4EIKzcYbOBkIXr) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [SLOW DANCE IN A GAY BAR](https://open.spotify.com/album/41ilB5sMsVVhnGtoTrzN4P) | 4:10 |
 | 4 | [Seasons](https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Seasons](https://open.spotify.com/album/3fhJVtBLypHzYymi46TSGQ) | 2:37 |
-| 5 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 |
+| 5 | [i cant tell \(love my money\)](https://open.spotify.com/track/0oZ4efjL1w7SQPAo6ud5lI) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [i cant tell \(love my money\)](https://open.spotify.com/album/0Y2zQQCPC9PGa24Jku0rle) | 2:43 |
 | 6 | [Love Costs](https://open.spotify.com/track/7aJDtyNcnlx8a1P60uqmNn) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Love Costs](https://open.spotify.com/album/5gcubcwD8Gvhti1gWvdMuO) | 3:15 |
 | 7 | [Gold Filigree](https://open.spotify.com/track/2q3fQRPRUuiOk0SVX2erDP) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Gold Filigree](https://open.spotify.com/album/7LBPD0Ip7jJzFcEY1LHRrq) | 3:24 |
 | 8 | [Darlin'](https://open.spotify.com/track/3lFVdFLQeBXLxqKxqwqIfS) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:28 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 46 | [Emotions](https://open.spotify.com/track/0uMd9pp22GoCf6i1r60lxA) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Like A Ribbon](https://open.spotify.com/album/7zEIMfEjyBreLK9TfrkwBC) | 3:24 |
 | 47 | [Trying](https://open.spotify.com/track/6q8qyXMTCFugcTsPtQDpwJ) | [Cdubz](https://open.spotify.com/artist/5KvoRp7P1sWSltpHelramH) | [Trying](https://open.spotify.com/album/2cb7yebOYSSMMFUXKVFE7j) | 3:07 |
 | 48 | [Wants Needs](https://open.spotify.com/track/6OqZgmzppG0NVx3nPwpH6W) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Wants Needs](https://open.spotify.com/album/6r3i5ywHkqFmc2iiBFXdhc) | 4:58 |
-| 49 | [All Cylinders](https://open.spotify.com/track/5ZyDdRIsvdX0AnypQ859Uv) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [All Cylinders](https://open.spotify.com/album/0Qjj0htf2HULFnHvhmb9XW) | 3:28 |
-| 50 | [What’s It Take to Be a Star?](https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [What’s It Take to Be a Star?](https://open.spotify.com/album/5b8CFomatusCobpOtmnNdJ) | 2:48 |
+| 49 | [What’s It Take to Be a Star?](https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [What’s It Take to Be a Star?](https://open.spotify.com/album/5b8CFomatusCobpOtmnNdJ) | 2:48 |
+| 50 | [All Cylinders](https://open.spotify.com/track/5ZyDdRIsvdX0AnypQ859Uv) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [All Cylinders](https://open.spotify.com/album/0Qjj0htf2HULFnHvhmb9XW) | 3:28 |
 
 Snapshot ID: `Z6qONgAAAADc8hKuj9yep5BqkOekwWzO`

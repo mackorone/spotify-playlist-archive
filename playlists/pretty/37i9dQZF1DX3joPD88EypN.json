@@ -1,6 +1,6 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 50683,
+  "num_followers": 50718,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
+        "name": "Khmer",
+        "url": "https://open.spotify.com/album/76Z70kaNILhjzrf0wC0RB6"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        }
+      ],
+      "duration_ms": 301026,
+      "name": "On Stream",
+      "url": "https://open.spotify.com/track/6nqhMMxnXbb2kMuh2cNd2L"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
         "name": "Places To Write",
         "url": "https://open.spotify.com/album/0wCUJgr4Y0j6floashhhYC"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 242840,
       "name": "Places To Write",
       "url": "https://open.spotify.com/track/0awgGcOGbt4vO7vj1hcXq1"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
-        "name": "Khmer",
-        "url": "https://open.spotify.com/album/76Z70kaNILhjzrf0wC0RB6"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 301026,
-      "name": "On Stream",
-      "url": "https://open.spotify.com/track/6nqhMMxnXbb2kMuh2cNd2L"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -411,6 +411,22 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
+        "name": "Solid Ether",
+        "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        }
+      ],
+      "duration_ms": 299640,
+      "name": "Kakonita",
+      "url": "https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 253973,
       "name": "Remembrance IV",
       "url": "https://open.spotify.com/track/6jZqtVqT7TEEyCuU6ZAl2m"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
-        "name": "Solid Ether",
-        "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 299640,
-      "name": "Kakonita",
-      "url": "https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "Dwell Time",
-        "url": "https://open.spotify.com/album/2TaCZuo9cQnvRRv7yYanUc"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kon Kornstad",
-          "url": "https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2"
-        }
-      ],
-      "duration_ms": 280226,
-      "name": "Oslo",
-      "url": "https://open.spotify.com/track/1sAV0zncNjmZT2fg9YVKs2"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/4B3Flfc818jLhdbmbtWRFK"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 231415,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/3iVua8sJTifjJgzZFZbczn"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "Dwell Time",
+        "url": "https://open.spotify.com/album/2TaCZuo9cQnvRRv7yYanUc"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kon Kornstad",
+          "url": "https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2"
+        }
+      ],
+      "duration_ms": 280226,
+      "name": "Oslo",
+      "url": "https://open.spotify.com/track/1sAV0zncNjmZT2fg9YVKs2"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "Return to Mind",
-        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        }
-      ],
-      "duration_ms": 284880,
-      "name": "Taplow",
-      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
         "name": "The Mariner's Cross",
         "url": "https://open.spotify.com/album/3VFx6LGYMdeyvCmHTnQIak"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 194893,
       "name": "The Mariner's Cross",
       "url": "https://open.spotify.com/track/0BYntYvDMrtc6Ff501kvQ2"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "Return to Mind",
+        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        }
+      ],
+      "duration_ms": 284880,
+      "name": "Taplow",
+      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
+        "name": "Eclipse Cycles",
+        "url": "https://open.spotify.com/album/5vNfaZuBWbxsEOcX07Ugsf"
+      },
+      "artists": [
+        {
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+        }
+      ],
+      "duration_ms": 302133,
+      "name": "Eclipse Cycles",
+      "url": "https://open.spotify.com/track/190Twu1cnxdSZfn4xtvDYY"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
         "name": "roads",
         "url": "https://open.spotify.com/album/0HZEY9yhNkDxB2fZPoAj92"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 286213,
       "name": "roads",
       "url": "https://open.spotify.com/track/3os2ZWpiap6mjJjuXRwoZw"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
-        "name": "Eclipse Cycles",
-        "url": "https://open.spotify.com/album/5vNfaZuBWbxsEOcX07Ugsf"
-      },
-      "artists": [
-        {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
-        }
-      ],
-      "duration_ms": 302133,
-      "name": "Eclipse Cycles",
-      "url": "https://open.spotify.com/track/190Twu1cnxdSZfn4xtvDYY"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1135,30 +1135,6 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "Cinematic",
-        "url": "https://open.spotify.com/album/3ENnQUmuL81kiXanIh6YT2"
-      },
-      "artists": [
-        {
-          "name": "Arne Torvik Trio",
-          "url": "https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ"
-        },
-        {
-          "name": "Bj\u00f8rnar Kaldefoss Tveite",
-          "url": "https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66"
-        },
-        {
-          "name": "\u00d8ystein Aarnes Vik",
-          "url": "https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u"
-        }
-      ],
-      "duration_ms": 487053,
-      "name": "Cinematic",
-      "url": "https://open.spotify.com/track/3XKc6VFBNCCkd5vAs45Psd"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
         "name": "Snow Catches on Her Eyelashes",
         "url": "https://open.spotify.com/album/5GdrscQpfdU1BcTTvAQJec"
       },
@@ -1179,6 +1155,30 @@
       "duration_ms": 183210,
       "name": "Before the Wedding",
       "url": "https://open.spotify.com/track/3ZKkBzLXdzfrBbn0CBFfum"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "Cinematic",
+        "url": "https://open.spotify.com/album/3ENnQUmuL81kiXanIh6YT2"
+      },
+      "artists": [
+        {
+          "name": "Arne Torvik Trio",
+          "url": "https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ"
+        },
+        {
+          "name": "Bj\u00f8rnar Kaldefoss Tveite",
+          "url": "https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66"
+        },
+        {
+          "name": "\u00d8ystein Aarnes Vik",
+          "url": "https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u"
+        }
+      ],
+      "duration_ms": 487053,
+      "name": "Cinematic",
+      "url": "https://open.spotify.com/track/3XKc6VFBNCCkd5vAs45Psd"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1283,22 +1283,26 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/0pQQ091wlhGXqGzpdV6aW7"
+        "name": "And Then Comes The Night",
+        "url": "https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V"
       },
       "artists": [
         {
-          "name": "Agnes Darelid",
-          "url": "https://open.spotify.com/artist/7btMzx5phlm78f1z2irPQ1"
+          "name": "Mats Eilertsen",
+          "url": "https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh"
         },
         {
-          "name": "Liliana Zavala",
-          "url": "https://open.spotify.com/artist/318joJnkZbXBwp9t8DGqyx"
+          "name": "Harmen Fraanje",
+          "url": "https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz"
+        },
+        {
+          "name": "Thomas Str\u00f8nen",
+          "url": "https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY"
         }
       ],
-      "duration_ms": 350720,
-      "name": "Anten",
-      "url": "https://open.spotify.com/track/1kTvRa6n1mCKUcyw9djisF"
+      "duration_ms": 392653,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/2He1XU9akKD3NHbkv1T39O"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1323,50 +1327,38 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC"
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/0pQQ091wlhGXqGzpdV6aW7"
       },
       "artists": [
         {
-          "name": "Ketil Bj\u00f8rnstad",
-          "url": "https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph"
+          "name": "Agnes Darelid",
+          "url": "https://open.spotify.com/artist/7btMzx5phlm78f1z2irPQ1"
         },
         {
-          "name": "Tore Brunborg",
-          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
-        },
-        {
-          "name": "Jon Christensen",
-          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
+          "name": "Liliana Zavala",
+          "url": "https://open.spotify.com/artist/318joJnkZbXBwp9t8DGqyx"
         }
       ],
-      "duration_ms": 367120,
-      "name": "Remembrance VI",
-      "url": "https://open.spotify.com/track/2SM3oWZWcqeokeblS158k5"
+      "duration_ms": 350720,
+      "name": "Anten",
+      "url": "https://open.spotify.com/track/1kTvRa6n1mCKUcyw9djisF"
     },
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "And Then Comes The Night",
-        "url": "https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V"
+        "name": "Phantasmagoria or a Different Kind of Journey",
+        "url": "https://open.spotify.com/album/0KfEiUR0B5oTTOO4kX9y18"
       },
       "artists": [
         {
-          "name": "Mats Eilertsen",
-          "url": "https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh"
-        },
-        {
-          "name": "Harmen Fraanje",
-          "url": "https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz"
-        },
-        {
-          "name": "Thomas Str\u00f8nen",
-          "url": "https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY"
+          "name": "Eivind Aarset",
+          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
         }
       ],
-      "duration_ms": 392653,
-      "name": "The Void",
-      "url": "https://open.spotify.com/track/2He1XU9akKD3NHbkv1T39O"
+      "duration_ms": 417986,
+      "name": "Pearl Hunter",
+      "url": "https://open.spotify.com/track/4dURy4ZLToGF8bQq49JPAz"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1395,18 +1387,26 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
-        "name": "Phantasmagoria or a Different Kind of Journey",
-        "url": "https://open.spotify.com/album/0KfEiUR0B5oTTOO4kX9y18"
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC"
       },
       "artists": [
         {
-          "name": "Eivind Aarset",
-          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
+          "name": "Ketil Bj\u00f8rnstad",
+          "url": "https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph"
+        },
+        {
+          "name": "Tore Brunborg",
+          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
+        },
+        {
+          "name": "Jon Christensen",
+          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
         }
       ],
-      "duration_ms": 417986,
-      "name": "Pearl Hunter",
-      "url": "https://open.spotify.com/track/4dURy4ZLToGF8bQq49JPAz"
+      "duration_ms": 367120,
+      "name": "Remembrance VI",
+      "url": "https://open.spotify.com/track/2SM3oWZWcqeokeblS158k5"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2025-03-07 09:20:11",
       "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/6JIIO9Ub6JlyyTdM99180c"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Bebe",
+          "url": "https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh"
+        }
+      ],
+      "duration_ms": 403560,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/7r9RAATNHS5ouxFZGag3gw"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
         "name": "Tree House",
         "url": "https://open.spotify.com/album/13JdDMG0dpUGtqylZNiRDG"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 449893,
       "name": "Seaweed",
       "url": "https://open.spotify.com/track/4zsuEGITGJszGI2Qntozhe"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/6JIIO9Ub6JlyyTdM99180c"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ren Bebe",
-          "url": "https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh"
-        }
-      ],
-      "duration_ms": 403560,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/7r9RAATNHS5ouxFZGag3gw"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1767,6 +1767,30 @@
       "duration_ms": 258161,
       "name": "Jeg gik mig ud en Sommerdag",
       "url": "https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy"
+    },
+    {
+      "added_at": "2025-03-07 09:20:11",
+      "album": {
+        "name": "Mira",
+        "url": "https://open.spotify.com/album/7tjHDePOLgWEjAMzUZKMAM"
+      },
+      "artists": [
+        {
+          "name": "Arild Andersen",
+          "url": "https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m"
+        },
+        {
+          "name": "Tommy Smith",
+          "url": "https://open.spotify.com/artist/2LbRiVusjtrdBlE4lkXxfO"
+        },
+        {
+          "name": "Paolo Vinaccia",
+          "url": "https://open.spotify.com/artist/6KRqpgcx3IlzqHGiyrBHbJ"
+        }
+      ],
+      "duration_ms": 335320,
+      "name": "Rossetti",
+      "url": "https://open.spotify.com/track/4ilwrLj110VpFtHbv3SrIP"
     },
     {
       "added_at": "2025-03-07 09:20:11",
@@ -1799,30 +1823,6 @@
       "duration_ms": 226746,
       "name": "Iturevet Almanak",
       "url": "https://open.spotify.com/track/41FUtBijvt3GUZhKY6mVGp"
-    },
-    {
-      "added_at": "2025-03-07 09:20:11",
-      "album": {
-        "name": "Mira",
-        "url": "https://open.spotify.com/album/7tjHDePOLgWEjAMzUZKMAM"
-      },
-      "artists": [
-        {
-          "name": "Arild Andersen",
-          "url": "https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m"
-        },
-        {
-          "name": "Tommy Smith",
-          "url": "https://open.spotify.com/artist/2LbRiVusjtrdBlE4lkXxfO"
-        },
-        {
-          "name": "Paolo Vinaccia",
-          "url": "https://open.spotify.com/artist/6KRqpgcx3IlzqHGiyrBHbJ"
-        }
-      ],
-      "duration_ms": 335320,
-      "name": "Rossetti",
-      "url": "https://open.spotify.com/track/4ilwrLj110VpFtHbv3SrIP"
     },
     {
       "added_at": "2025-03-07 09:20:11",

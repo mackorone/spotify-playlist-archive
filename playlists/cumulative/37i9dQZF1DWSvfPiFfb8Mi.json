@@ -3939,6 +3939,28 @@
     },
     {
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/02jwqpA0J4oGG71M2gmikL"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Kiinjo",
+          "url": "https://open.spotify.com/artist/1oYyzyMTx629ZyyYENdhrZ"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177487,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/5pIiOV7ZDmHWT1us1gTxJ4"
+    },
+    {
+      "album": {
         "name": "Lose My Mind",
         "url": "https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6"
       },
@@ -7022,7 +7044,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 191959,
       "name": "What Am I",
       "url": "https://open.spotify.com/track/20yID5I7qOSNLrxCAwgzHL"

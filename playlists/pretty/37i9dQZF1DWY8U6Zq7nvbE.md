@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > Soft and cozy acoustic covers of famous songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,433,232 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,433,246 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,18 +61,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 51 | [You Raise Me Up](https://open.spotify.com/track/4mGiTmzkCS8Y1EFnQT4010) | [Shelby Park](https://open.spotify.com/artist/5k2EXCexl2KBdpfyyNEpet) | [You Raise Me Up](https://open.spotify.com/album/6lsClakGKncbzUfvydr0vd) | 2:20 |
 | 52 | [Love Or Something Like It](https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Love Or Something Like It](https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz) | 2:52 |
 | 53 | [Chasing Cars \(Acoustic\)](https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Chasing Cars \(Acoustic\)](https://open.spotify.com/album/7xtPuadPQVQKfKUr7eQvC7) | 3:41 |
-| 54 | [Nobody Gets Me](https://open.spotify.com/track/2eWYem39jbaXKQ38BCtQDV) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Nobody Gets Me](https://open.spotify.com/album/19EdbTQdsbueDPCF4Xod6Q) | 2:38 |
-| 55 | [Here With Me](https://open.spotify.com/track/7KRDGmyQGgJ1yrehPOJqnE) | [Mia Rainn](https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP) | [Here With Me](https://open.spotify.com/album/5QJUIAKt4hjiP7NMf6w7Hm) | 3:26 |
+| 54 | [Here With Me](https://open.spotify.com/track/7KRDGmyQGgJ1yrehPOJqnE) | [Mia Rainn](https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP) | [Here With Me](https://open.spotify.com/album/5QJUIAKt4hjiP7NMf6w7Hm) | 3:26 |
+| 55 | [Nobody Gets Me](https://open.spotify.com/track/2eWYem39jbaXKQ38BCtQDV) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Nobody Gets Me](https://open.spotify.com/album/19EdbTQdsbueDPCF4Xod6Q) | 2:38 |
 | 56 | [Breathless](https://open.spotify.com/track/2p5TVHyvFkVFBcJNKHwjh4) | [WestSouth](https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0) | [Breathless](https://open.spotify.com/album/4kJIsjIBDje8BRZb6xoVMn) | 2:46 |
 | 57 | [Sweet Nothing](https://open.spotify.com/track/6unfpV3weBUn5fpRykWsI2) | [Sighting](https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE) | [Sweet Nothing](https://open.spotify.com/album/3Yt5IIW7wNZohI5PmAwz5G) | 3:21 |
 | 58 | [Too Good At Goodbyes](https://open.spotify.com/track/43Ty2f8GqR6CpUYWNxgRqu) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Too Good At Goodbyes](https://open.spotify.com/album/5xHL2UVO1l249ezFEL2QdZ) | 2:50 |
 | 59 | [Lover](https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5) | [Water and Salt](https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv) | [Lover](https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm) | 4:02 |
 | 60 | [Fireflies](https://open.spotify.com/track/5sL5bdiNQFH0FKyqE1OduP) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [Fireflies](https://open.spotify.com/album/6W5cgtJFbeWa8EsAC0y7Nl) | 3:40 |
 | 61 | [WHAT THE HELL ARE WE DYING FOR?](https://open.spotify.com/track/1fsOH02E5iqS6xZZY7UOpd) | [Macy Ellen](https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L) | [WHAT THE HELL ARE WE DYING FOR?](https://open.spotify.com/album/7pbeE2xmYADDOEjd3H62xA) | 3:22 |
-| 62 | [Chasing Pavements](https://open.spotify.com/track/1tIEJc4Sgw1Op6Ef0fLSzV) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Chasing Pavements](https://open.spotify.com/album/4ZBXi0owchcH5sIj5qyrn0) | 3:00 |
-| 63 | [Crazy Love](https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Crazy Love](https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy) | 3:12 |
-| 64 | [Got You \(Where I Want You\)](https://open.spotify.com/track/35z45zlvjqUF2DLOOYBq4u) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Got You \(Where I Want You\)](https://open.spotify.com/album/6sDxOln0tkqDXj8qy6t3Qd) | 3:13 |
-| 65 | [Pure Shores](https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP) | [Colder Shoulders](https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291) | [Pure Shores](https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU) | 3:19 |
+| 62 | [Crazy Love](https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Crazy Love](https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy) | 3:12 |
+| 63 | [Got You \(Where I Want You\)](https://open.spotify.com/track/35z45zlvjqUF2DLOOYBq4u) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Got You \(Where I Want You\)](https://open.spotify.com/album/6sDxOln0tkqDXj8qy6t3Qd) | 3:13 |
+| 64 | [Pure Shores](https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP) | [Colder Shoulders](https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291) | [Pure Shores](https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU) | 3:19 |
+| 65 | [Chasing Pavements](https://open.spotify.com/track/1tIEJc4Sgw1Op6Ef0fLSzV) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Chasing Pavements](https://open.spotify.com/album/4ZBXi0owchcH5sIj5qyrn0) | 3:00 |
 | 66 | [In The Meantime](https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [In The Meantime](https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk) | 2:58 |
 | 67 | [Visiting Hours \(Acoustic\)](https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Visiting Hours \(Acoustic\)](https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW) | 3:17 |
 | 68 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek van: Ronnie Flex, Chappell Roan & Calvin Harris
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,929 likes - 90 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,923 likes - 90 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 76 | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE), [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc) | 2:59 |
 | 77 | [Rescue Me](https://open.spotify.com/track/6layeClm9iQ1xOPYZ9zbJU) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Rescue Me](https://open.spotify.com/album/2xpvAnyCde4Q20Q193vfgR) | 2:47 |
 | 78 | [Still Gonna Love You](https://open.spotify.com/track/2ljbgNysDsYQcFd3yapdZn) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Bouquet \(Deluxe\)](https://open.spotify.com/album/0rTqvDgJ5Ec2zuuQrxVP1W) | 3:30 |
-| 79 | [It Gets Better \(Forever Mix\)](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [It Gets Better \(Forever Mix\)](https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO) | 4:12 |
+| 79 | [It Gets Better \- Edit](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [It Gets Better \(Forever Mix\)](https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO) | 4:12 |
 | 80 | [Doortocht \(Ulm\)](https://open.spotify.com/track/1TA5HeDtnF7mKXlU2goIxV) | [FULCO](https://open.spotify.com/artist/6KXC42r3VuasqhvMOFKxJt) | [Het Vermoeden](https://open.spotify.com/album/6stWwFCDEhTVa4XtxvBY6O) | 3:56 |
 | 81 | [jokes on you \(hahaha\)](https://open.spotify.com/track/4YJQk3mFHnWyyZJo9lLn1X) | [OLIVIA](https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM) | [heart\-shaped scars](https://open.spotify.com/album/79MNFRQ4uPsEe4A3sD4FmB) | 2:16 |
 | 82 | [Music Never Looked So Good](https://open.spotify.com/track/30SSROjHo9udK1ko3cRm5a) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Music Never Looked So Good](https://open.spotify.com/album/2vlaYSup5x8yLVlgQKkC60) | 3:17 |

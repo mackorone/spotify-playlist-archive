@@ -1,6 +1,6 @@
 {
   "description": "Sommer f\u00fcr immer!",
-  "num_followers": 428386,
+  "num_followers": 428354,
   "original_name": "Sommerklassiker",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-06-25 10:54:39",
       "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Cheap Thrills",
+      "url": "https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu"
+    },
+    {
+      "added_at": "2024-06-25 10:54:39",
+      "album": {
         "name": "Savage Love (Laxed - Siren Beat)",
         "url": "https://open.spotify.com/album/1XMw3pBrYeXzNXZXc84DNw"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 171374,
       "name": "Savage Love (Laxed - Siren Beat)",
       "url": "https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c"
-    },
-    {
-      "added_at": "2024-06-25 10:54:39",
-      "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Cheap Thrills",
-      "url": "https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu"
     },
     {
       "added_at": "2024-06-25 10:54:39",

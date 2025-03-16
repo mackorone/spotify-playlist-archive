@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAAGHSQ6vYYAQMZkDvNw2Lmg",
+  "snapshot_id": "Z9NxgAAAAAD/TdogMQdP/0GiUs9uwmnf",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Barefoot In Heaven",
-      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Talking To Strangers",
         "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 286333,
       "name": "Don't Whisper",
       "url": "https://open.spotify.com/track/54cBgXR1KPwEIuynp1qnKs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Barefoot In Heaven",
+      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+        "name": "Outskirts of Love",
+        "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 266071,
-      "name": "Clotilda's On Fire",
-      "url": "https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU"
+      "duration_ms": 232346,
+      "name": "I Feel A Sin Coming On",
+      "url": "https://open.spotify.com/track/0PuUP76HkRAdUrwKX1uUXd"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outskirts of Love",
-        "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 232346,
-      "name": "I Feel A Sin Coming On",
-      "url": "https://open.spotify.com/track/0PuUP76HkRAdUrwKX1uUXd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uncivil War",
         "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
       },
@@ -196,9 +180,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 216171,
-      "name": "Money Makes You Ugly",
-      "url": "https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P"
+      "duration_ms": 266071,
+      "name": "Clotilda's On Fire",
+      "url": "https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU"
     },
     {
       "added_at": null,
@@ -231,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "America's Child",
-        "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 258415,
-      "name": "Ain't Got Time For Hate",
-      "url": "https://open.spotify.com/track/6JQEfDsrQap0VFFjP9cKYr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Done Come Too Far",
         "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
@@ -263,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "America's Child",
+        "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 258415,
+      "name": "Ain't Got Time For Hate",
+      "url": "https://open.spotify.com/track/6JQEfDsrQap0VFFjP9cKYr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Uncivil War",
         "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
       },
@@ -272,9 +256,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 183857,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/1YpPzjF3LgUr6htLKCnVei"
+      "duration_ms": 216171,
+      "name": "Money Makes You Ugly",
+      "url": "https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P"
     },
     {
       "added_at": null,
@@ -339,6 +323,22 @@
       "duration_ms": 229973,
       "name": "I Always Get My Man",
       "url": "https://open.spotify.com/track/4xgmjrBK2hgfwZJm44BlK3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 183857,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/1YpPzjF3LgUr6htLKCnVei"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn The Heat Up!",
-        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Have Mercy",
-      "url": "https://open.spotify.com/track/5MIfKtG48KDC7GZgP7GiYa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "America's Child",
         "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
       },
@@ -547,22 +531,6 @@
       "duration_ms": 271313,
       "name": "Such A Pretty Flame",
       "url": "https://open.spotify.com/track/3LeiPSKvRLcIyzKkdtafrZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 279640,
-      "name": "Too Close",
-      "url": "https://open.spotify.com/track/0opbokPzAGFGb950SHPzHq"
     },
     {
       "added_at": null,
@@ -583,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 279640,
+      "name": "Too Close",
+      "url": "https://open.spotify.com/track/0opbokPzAGFGb950SHPzHq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Turn The Heat Up!",
         "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
       },
@@ -592,9 +576,29 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 235893,
-      "name": "Suspicion",
-      "url": "https://open.spotify.com/track/2nqQ4j7TSmvUELX2SvzXUl"
+      "duration_ms": 203573,
+      "name": "Have Mercy",
+      "url": "https://open.spotify.com/track/5MIfKtG48KDC7GZgP7GiYa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outskirts of Love",
+        "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        },
+        {
+          "name": "Billy F Gibbons",
+          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
+        }
+      ],
+      "duration_ms": 275533,
+      "name": "Jesus Just Left Chicago",
+      "url": "https://open.spotify.com/track/1n7uAd2wldanWyRfBTPam0"
     },
     {
       "added_at": null,
@@ -631,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Turn The Heat Up!",
+        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 235893,
+      "name": "Suspicion",
+      "url": "https://open.spotify.com/track/2nqQ4j7TSmvUELX2SvzXUl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outskirts of Love",
         "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
       },
@@ -638,21 +658,17 @@
         {
           "name": "Shemekia Copeland",
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        },
-        {
-          "name": "Billy F Gibbons",
-          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
         }
       ],
-      "duration_ms": 275533,
-      "name": "Jesus Just Left Chicago",
-      "url": "https://open.spotify.com/track/1n7uAd2wldanWyRfBTPam0"
+      "duration_ms": 197920,
+      "name": "Isn't That So",
+      "url": "https://open.spotify.com/track/3I0NjntD1g4OVC6zBQjsrT"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
       },
       "artists": [
         {
@@ -660,9 +676,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 225412,
-      "name": "Apple Pie And A .45",
-      "url": "https://open.spotify.com/track/6XeyjxtNrYiPLwPN6A9M6M"
+      "duration_ms": 228002,
+      "name": "Broken High Heels",
+      "url": "https://open.spotify.com/track/7KJHFbQMatRENgkXRiXI90"
     },
     {
       "added_at": null,
@@ -691,38 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 228002,
-      "name": "Broken High Heels",
-      "url": "https://open.spotify.com/track/7KJHFbQMatRENgkXRiXI90"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outskirts of Love",
-        "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 197920,
-      "name": "Isn't That So",
-      "url": "https://open.spotify.com/track/3I0NjntD1g4OVC6zBQjsrT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uncivil War",
         "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
       },
@@ -732,41 +716,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 252747,
-      "name": "Walk Until I Ride",
-      "url": "https://open.spotify.com/track/5VGvCsAYlOTOTJTiyKyM1y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wicked",
-        "url": "https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 303640,
-      "name": "Steamy Windows",
-      "url": "https://open.spotify.com/track/6v9sxmWVfKN4xoNzatq9vf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 224325,
-      "name": "Is There Anybody Up There?",
-      "url": "https://open.spotify.com/track/1RGfvefofh4VSQVBbs8TZN"
+      "duration_ms": 225412,
+      "name": "Apple Pie And A .45",
+      "url": "https://open.spotify.com/track/6XeyjxtNrYiPLwPN6A9M6M"
     },
     {
       "added_at": null,
@@ -787,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
       },
       "artists": [
         {
@@ -796,9 +748,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 257365,
-      "name": "No Heart At All",
-      "url": "https://open.spotify.com/track/0sks89llQiyzhvOX8jr3cs"
+      "duration_ms": 224325,
+      "name": "Is There Anybody Up There?",
+      "url": "https://open.spotify.com/track/1RGfvefofh4VSQVBbs8TZN"
     },
     {
       "added_at": null,
@@ -812,9 +764,41 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 268893,
-      "name": "It's 2 A.M.",
-      "url": "https://open.spotify.com/track/06uopaez79AHRRDNtGJCbB"
+      "duration_ms": 303640,
+      "name": "Steamy Windows",
+      "url": "https://open.spotify.com/track/6v9sxmWVfKN4xoNzatq9vf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 252747,
+      "name": "Walk Until I Ride",
+      "url": "https://open.spotify.com/track/5VGvCsAYlOTOTJTiyKyM1y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outskirts of Love",
+        "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 233866,
+      "name": "The Battle Is Over (But The War Goes On)",
+      "url": "https://open.spotify.com/track/2fyeyzGsHA5Xw64MfBA3N9"
     },
     {
       "added_at": null,
@@ -835,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outskirts of Love",
-        "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
+        "name": "Wicked",
+        "url": "https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ"
       },
       "artists": [
         {
@@ -844,9 +828,25 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 233866,
-      "name": "The Battle Is Over (But The War Goes On)",
-      "url": "https://open.spotify.com/track/2fyeyzGsHA5Xw64MfBA3N9"
+      "duration_ms": 268893,
+      "name": "It's 2 A.M.",
+      "url": "https://open.spotify.com/track/06uopaez79AHRRDNtGJCbB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 257365,
+      "name": "No Heart At All",
+      "url": "https://open.spotify.com/track/0sks89llQiyzhvOX8jr3cs"
     }
   ],
   "unique_name": "This Is Shemekia Copeland",

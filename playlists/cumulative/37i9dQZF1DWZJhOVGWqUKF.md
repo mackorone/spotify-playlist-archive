@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: Volbeat
 
-390 songs - 22 hr 18 min
+391 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Listen Up](https://open.spotify.com/track/4IIdwu2qr7CZZsImuArXGx) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Listen Up](https://open.spotify.com/album/1fegkigvCLmcXA3jUVn1VT) | 3:03 | 2024-11-28 | 2025-01-03 |
 | [Live Before I’m Dead \(Hours\)](https://open.spotify.com/track/2Z9DT5CCjTG8in1nFmtcpw) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout \(Deluxe\)](https://open.spotify.com/album/2nrcJMkhBQGbpIyqkDqQf5) | 3:29 | 2024-06-27 | 2024-08-04 |
 | [Living Like A Ghost](https://open.spotify.com/track/2bnBsXCeAzHIE7UXZLdEPK) | [IONIC](https://open.spotify.com/artist/4dxSFdG4qMdOnTFPdn9BLC) | [Living Like A Ghost](https://open.spotify.com/album/7MNv6XlWmk8nFxH4SyEpPC) | 3:18 | 2025-01-16 | 2025-01-24 |
-| [Living Proof](https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Living Proof](https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA) | 3:39 | 2024-06-27 |  |
+| [Living Proof](https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Living Proof](https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA) | 3:39 | 2024-06-27 | 2025-03-16 |
 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 | 2024-06-27 | 2024-12-20 |
 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2024-06-27 | 2024-12-20 |
 | [Lost All Control](https://open.spotify.com/track/3SpgVxU0XD36PbECvAl9z6) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [The Surface Seems So Far](https://open.spotify.com/album/1EozAc4lNqwMvlAhEEXk6w) | 4:33 | 2024-09-19 | 2025-01-18 |
@@ -222,6 +222,7 @@
 | [Luckiest Man In The World](https://open.spotify.com/track/0SyEC4n2uU6OrRZRNxaogH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb \(Re\-Assemble Edition\)](https://open.spotify.com/album/7o3k14ivnyWNPp6LM2NkgV) | 6:12 | 2024-11-21 | 2024-12-20 |
 | [Lunch](https://open.spotify.com/track/0enROTsNemV6L7XFZ74oLk) | [Lost in Hollywood](https://open.spotify.com/artist/7r7mwbmR3LZeRdOOklCfWP), [Flash Forward](https://open.spotify.com/artist/7tdC77yyABquZ7vEAscwvB) | [Lunch](https://open.spotify.com/album/496aKcHx3hvR1tOc3OdhWB) | 2:30 | 2024-12-12 | 2024-12-20 |
 | [MAD \(feat\. Ice Nine Kills\)](https://open.spotify.com/track/7EP3LwGH0bAhDuupm4xspD) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [MAD \(feat\. Ice Nine Kills\)](https://open.spotify.com/album/1cq46UBmCPIp95rPFpW82j) | 3:18 | 2024-08-29 |  |
+| [Make Believe](https://open.spotify.com/track/4lt0Ay3gio1ADzj2gL7W5J) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Make Believe](https://open.spotify.com/album/0H2YJmkiEJBR0EqDSFJ5yv) | 2:59 | 2025-03-13 |  |
 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 | 2024-06-27 | 2025-03-07 |
 | [Make It Make Sense](https://open.spotify.com/track/4KFGxkAAP5D1HIBSwMv7d1) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Make It Make Sense](https://open.spotify.com/album/3TBw5z9f7WZ6Per1aTNkuC) | 3:08 | 2025-02-21 |  |
 | [Make Me Feel Alright](https://open.spotify.com/track/5MutMUzBiao3LC3JYJQTmR) | [Lost in Hollywood](https://open.spotify.com/artist/7r7mwbmR3LZeRdOOklCfWP), [SETYØURSAILS](https://open.spotify.com/artist/01AynfThIqLCNevTuPSoYk), [Jules Mitch](https://open.spotify.com/artist/4HY3x6qkNiRgsiBcpfrDrU) | [Make Me Feel Alright](https://open.spotify.com/album/4ngSbRrhcWDXpD9ou6KAvM) | 3:23 | 2024-11-07 | 2024-11-15 |

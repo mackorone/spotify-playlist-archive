@@ -1,6 +1,6 @@
 {
   "description": "have fun with it.",
-  "num_followers": 1499656,
+  "num_followers": 1499655,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-01-31 05:00:42",
       "album": {
+        "name": "Pick Your Poison",
+        "url": "https://open.spotify.com/album/0UUc2qq43lHwDaRIy4y4zA"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 159151,
+      "name": "Pick Your Poison",
+      "url": "https://open.spotify.com/track/2wJSA9ujmuRvfnBq0dlokx"
+    },
+    {
+      "added_at": "2025-01-31 05:00:42",
+      "album": {
         "name": "Living In A Haze",
         "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 178548,
       "name": "High On My Lows",
       "url": "https://open.spotify.com/track/1kCJ1s8wtiXF3OK3dwQIcG"
-    },
-    {
-      "added_at": "2025-01-31 05:00:42",
-      "album": {
-        "name": "Pick Your Poison",
-        "url": "https://open.spotify.com/album/0UUc2qq43lHwDaRIy4y4zA"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 159151,
-      "name": "Pick Your Poison",
-      "url": "https://open.spotify.com/track/2wJSA9ujmuRvfnBq0dlokx"
     },
     {
       "added_at": "2025-01-31 05:00:42",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-01-31 05:00:42",
       "album": {
-        "name": "Look At The Time",
-        "url": "https://open.spotify.com/album/1LdaBvgJqo72zF9n9agEg1"
-      },
-      "artists": [
-        {
-          "name": "Sawyer Hill",
-          "url": "https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG"
-        }
-      ],
-      "duration_ms": 260575,
-      "name": "Look At The Time",
-      "url": "https://open.spotify.com/track/2hzdutjZmHEyM2EB0JqDsx"
-    },
-    {
-      "added_at": "2025-01-31 05:00:42",
-      "album": {
         "name": "Grief Chapter",
         "url": "https://open.spotify.com/album/5sMSJ6uAozdrqFELMwl3NU"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 226960,
       "name": "Call Me What You Like",
       "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
+    },
+    {
+      "added_at": "2025-01-31 05:00:42",
+      "album": {
+        "name": "Look At The Time",
+        "url": "https://open.spotify.com/album/1LdaBvgJqo72zF9n9agEg1"
+      },
+      "artists": [
+        {
+          "name": "Sawyer Hill",
+          "url": "https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG"
+        }
+      ],
+      "duration_ms": 260575,
+      "name": "Look At The Time",
+      "url": "https://open.spotify.com/track/2hzdutjZmHEyM2EB0JqDsx"
     },
     {
       "added_at": "2025-01-31 05:00:42",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-01-31 05:00:42",
       "album": {
-        "name": "Too Much",
-        "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 183473,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
-    },
-    {
-      "added_at": "2025-01-31 05:00:42",
-      "album": {
         "name": "Carnival",
         "url": "https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2025-01-31 05:00:42",
       "album": {
-        "name": "Welcome to the DCC",
-        "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
       },
       "artists": [
         {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 198798,
-      "name": "Welcome to the DCC",
-      "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
+      "duration_ms": 183473,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
     },
     {
       "added_at": "2025-01-31 05:00:42",
@@ -979,6 +963,22 @@
       "duration_ms": 277908,
       "name": "Pretty Lady",
       "url": "https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM"
+    },
+    {
+      "added_at": "2025-01-31 05:00:42",
+      "album": {
+        "name": "Welcome to the DCC",
+        "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 198798,
+      "name": "Welcome to the DCC",
+      "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
     },
     {
       "added_at": "2025-01-31 05:00:42",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2025-01-31 05:00:42",
       "album": {
+        "name": "Wanna Start A Band?",
+        "url": "https://open.spotify.com/album/7keV9C1PycJqwXce1awUwZ"
+      },
+      "artists": [
+        {
+          "name": "Sleigh Bells",
+          "url": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
+        }
+      ],
+      "duration_ms": 173786,
+      "name": "Wanna Start A Band?",
+      "url": "https://open.spotify.com/track/34ZmfrVwRAgTFSgMSmifbD"
+    },
+    {
+      "added_at": "2025-01-31 05:00:42",
+      "album": {
         "name": "Tell My Therapist I'm Fine",
         "url": "https://open.spotify.com/album/4bJrdorT0Jsg6IF3wNRF5w"
       },
@@ -1635,18 +1651,18 @@
     {
       "added_at": "2025-01-31 05:00:42",
       "album": {
-        "name": "Wanna Start A Band?",
-        "url": "https://open.spotify.com/album/7keV9C1PycJqwXce1awUwZ"
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/4wCx7hQCIOVtuN3DkNGhYm"
       },
       "artists": [
         {
-          "name": "Sleigh Bells",
-          "url": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
         }
       ],
-      "duration_ms": 173786,
-      "name": "Wanna Start A Band?",
-      "url": "https://open.spotify.com/track/34ZmfrVwRAgTFSgMSmifbD"
+      "duration_ms": 253698,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/2TvwhdrUqEDUg0Z7LOmUOd"
     },
     {
       "added_at": "2025-01-31 05:00:42",
@@ -1671,18 +1687,18 @@
     {
       "added_at": "2025-01-31 05:00:42",
       "album": {
-        "name": "Come Alive",
-        "url": "https://open.spotify.com/album/4wCx7hQCIOVtuN3DkNGhYm"
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae"
       },
       "artists": [
         {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
         }
       ],
-      "duration_ms": 253698,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/2TvwhdrUqEDUg0Z7LOmUOd"
+      "duration_ms": 193425,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3"
     },
     {
       "added_at": "2025-01-31 05:00:42",
@@ -1699,22 +1715,6 @@
       "duration_ms": 238586,
       "name": "I Look Alive",
       "url": "https://open.spotify.com/track/5vdLIDyjCWDzUGx71q3nOa"
-    },
-    {
-      "added_at": "2025-01-31 05:00:42",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 193425,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3"
     },
     {
       "added_at": "2025-01-31 05:00:42",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2025-01-31 05:00:42",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 231408,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/3leQLTAf9btWYR0bbIiHeZ"
-    },
-    {
-      "added_at": "2025-01-31 05:00:42",
-      "album": {
         "name": "Life's Been Good",
         "url": "https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 193950,
       "name": "Life's Been Good",
       "url": "https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w"
+    },
+    {
+      "added_at": "2025-01-31 05:00:42",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 231408,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/3leQLTAf9btWYR0bbIiHeZ"
     },
     {
       "added_at": "2025-01-31 05:00:42",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2025-01-31 05:00:42",
       "album": {
+        "name": "Ground Control",
+        "url": "https://open.spotify.com/album/1dvGoaIzAkcrpnPOUeJzUk"
+      },
+      "artists": [
+        {
+          "name": "Moody Joody",
+          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
+        }
+      ],
+      "duration_ms": 203908,
+      "name": "Ground Control",
+      "url": "https://open.spotify.com/track/4d3QWnT6shcTiVJem6zEuz"
+    },
+    {
+      "added_at": "2025-01-31 05:00:42",
+      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/0kdfBCqyoNJZ9KoVlg8Ntn"
       },
@@ -1855,22 +1871,6 @@
     {
       "added_at": "2025-01-31 05:00:42",
       "album": {
-        "name": "Ground Control",
-        "url": "https://open.spotify.com/album/1dvGoaIzAkcrpnPOUeJzUk"
-      },
-      "artists": [
-        {
-          "name": "Moody Joody",
-          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
-        }
-      ],
-      "duration_ms": 203908,
-      "name": "Ground Control",
-      "url": "https://open.spotify.com/track/4d3QWnT6shcTiVJem6zEuz"
-    },
-    {
-      "added_at": "2025-01-31 05:00:42",
-      "album": {
         "name": "Brighter Day",
         "url": "https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT"
       },
@@ -1883,22 +1883,6 @@
       "duration_ms": 193706,
       "name": "Brighter Day",
       "url": "https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9"
-    },
-    {
-      "added_at": "2025-01-31 05:00:42",
-      "album": {
-        "name": "MONO",
-        "url": "https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM"
-      },
-      "artists": [
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Punisher",
-      "url": "https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY"
     },
     {
       "added_at": "2025-01-31 05:00:42",
@@ -1923,18 +1907,18 @@
     {
       "added_at": "2025-01-31 05:00:42",
       "album": {
-        "name": "Champagne Taste",
-        "url": "https://open.spotify.com/album/1vhvjKCn21JSqJnh03lFf2"
+        "name": "MONO",
+        "url": "https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM"
       },
       "artists": [
         {
-          "name": "Sunflower Bean",
-          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
         }
       ],
-      "duration_ms": 192371,
-      "name": "Champagne Taste",
-      "url": "https://open.spotify.com/track/7gR5CpDbUBfOs75WDcGZof"
+      "duration_ms": 194346,
+      "name": "Punisher",
+      "url": "https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY"
     },
     {
       "added_at": "2025-01-31 05:00:42",
@@ -1971,18 +1955,18 @@
     {
       "added_at": "2025-01-31 05:00:42",
       "album": {
-        "name": "Flood",
-        "url": "https://open.spotify.com/album/3TstA7Or7ds5kL4bNWvRok"
+        "name": "Champagne Taste",
+        "url": "https://open.spotify.com/album/1vhvjKCn21JSqJnh03lFf2"
       },
       "artists": [
         {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+          "name": "Sunflower Bean",
+          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
         }
       ],
-      "duration_ms": 211946,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/6ZiETe7uxVBocdajCwhAHn"
+      "duration_ms": 192371,
+      "name": "Champagne Taste",
+      "url": "https://open.spotify.com/track/7gR5CpDbUBfOs75WDcGZof"
     },
     {
       "added_at": "2025-01-31 05:00:42",
@@ -1999,6 +1983,22 @@
       "duration_ms": 230552,
       "name": "run away girl",
       "url": "https://open.spotify.com/track/1uMo2HFIfKc3NJVl73L1zj"
+    },
+    {
+      "added_at": "2025-01-31 05:00:42",
+      "album": {
+        "name": "Flood",
+        "url": "https://open.spotify.com/album/3TstA7Or7ds5kL4bNWvRok"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 211946,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/6ZiETe7uxVBocdajCwhAHn"
     },
     {
       "added_at": "2025-01-31 05:00:42",

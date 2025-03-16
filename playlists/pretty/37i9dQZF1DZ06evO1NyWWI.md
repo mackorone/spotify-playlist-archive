@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 
 > This is Led Zeppelin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,168,527 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,168,664 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,16 +34,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 | 24 | [Communication Breakdown \- 1990 Remaster](https://open.spotify.com/track/0yVs7eSL8mPnIu2CGKHpUQ) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 2:27 |
 | 25 | [The Ocean \- Remaster](https://open.spotify.com/track/0AqjkVFqa1ujle4Lb1k9wR) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 4:31 |
 | 26 | [Living Loving Maid \(She's Just a Woman\) \- Remaster](https://open.spotify.com/track/49C6EGQhCUSgyADHYvJ7ez) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(Remaster\)](https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y) | 2:39 |
-| 27 | [Houses of the Holy \- Remaster](https://open.spotify.com/track/0d0Z9qFbTIgDSZtImluTAy) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 4:04 |
-| 28 | [Gallows Pole \- Remaster](https://open.spotify.com/track/4S2QZuPFZ9qeHW2sonMJS1) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 4:57 |
+| 27 | [Gallows Pole \- Remaster](https://open.spotify.com/track/4S2QZuPFZ9qeHW2sonMJS1) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 4:57 |
+| 28 | [Houses of the Holy \- Remaster](https://open.spotify.com/track/0d0Z9qFbTIgDSZtImluTAy) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 4:04 |
 | 29 | [The Rain Song \- Remaster](https://open.spotify.com/track/3JLrri1xSCui3bzITDJbkk) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 7:39 |
 | 30 | [Bring It on Home \- Remaster](https://open.spotify.com/track/1rxD34LAtkafrMUHqHIV76) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(Remaster\)](https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y) | 4:19 |
-| 31 | [Ten Years Gone \- Remaster](https://open.spotify.com/track/6M5m8gfTj3rhYEPDzLmdL4) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 6:34 |
-| 32 | [Bron\-Y\-Aur Stomp \- Remaster](https://open.spotify.com/track/1dK6cNOMYjEP3QGYOfwP6t) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 4:17 |
+| 31 | [Bron\-Y\-Aur Stomp \- Remaster](https://open.spotify.com/track/1dK6cNOMYjEP3QGYOfwP6t) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 4:17 |
+| 32 | [The Rover \- Remaster](https://open.spotify.com/track/4r8AQvzullpWTDpgv70KxD) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 5:39 |
 | 33 | [Misty Mountain Hop \- Remaster](https://open.spotify.com/track/5NnZ4JJxWiqqhYNu3rwmFj) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 4:38 |
 | 34 | [What Is and What Should Never Be \- 1990 Remaster](https://open.spotify.com/track/5G7uLHtoEW140QOcBpJlfz) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 4:43 |
-| 35 | [The Rover \- Remaster](https://open.spotify.com/track/4r8AQvzullpWTDpgv70KxD) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 5:39 |
-| 36 | [That's the Way \- Remaster](https://open.spotify.com/track/1ZUv3ISx2nFaz0JimVdcoT) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 5:37 |
+| 35 | [That's the Way \- Remaster](https://open.spotify.com/track/1ZUv3ISx2nFaz0JimVdcoT) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 5:37 |
+| 36 | [Ten Years Gone \- Remaster](https://open.spotify.com/track/6M5m8gfTj3rhYEPDzLmdL4) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 6:34 |
 | 37 | [The Battle of Evermore \- Remaster](https://open.spotify.com/track/6KCjY5kHvgWaWcAV6BBzxO) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Remaster\)](https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX) | 5:51 |
 | 38 | [The Song Remains the Same \- Remaster](https://open.spotify.com/track/2e61kmae4HhbuS9hYONQ0A) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 5:29 |
 | 39 | [I Can't Quit You Baby \- 1990 Remaster](https://open.spotify.com/track/62QInSlXQI11BR9ycVWjd6) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 4:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 | 49 | [Four Sticks \- Remaster](https://open.spotify.com/track/2kVhHxpxXhWr5OuuBtMLME) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Remaster\)](https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX) | 4:45 |
 | 50 | [Stairway to Heaven \- \(Live at MSG 1973\) \[Remaster\]](https://open.spotify.com/track/3sxIm3lTgdvXJdNHNn64BS) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [The Song Remains the Same \(Remaster\)](https://open.spotify.com/album/0ui4S0TZghkf1d1Wz0oWpk) | 10:53 |
 
-Snapshot ID: `Z9IgAAAAAACQIiCSJKhkVBitO7rn9ulq`
+Snapshot ID: `Z9NxgAAAAABxx2rnC/Qujd5VTj8MZnGw`

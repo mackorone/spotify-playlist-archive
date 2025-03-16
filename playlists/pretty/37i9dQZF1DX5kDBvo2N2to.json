@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59165,
+  "num_followers": 59167,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2025-03-13 23:00:27",
       "album": {
-        "name": "I Lied, I'm Sorry",
-        "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 162300,
-      "name": "I Lied, I'm Sorry",
-      "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
-    },
-    {
-      "added_at": "2025-03-13 23:00:27",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk"
       },
@@ -307,22 +291,18 @@
     {
       "added_at": "2025-03-13 23:00:27",
       "album": {
-        "name": "Smile Boy",
-        "url": "https://open.spotify.com/album/0GCPTSJvxI0pqUEuhOGSaS"
+        "name": "I Lied, I'm Sorry",
+        "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
       },
       "artists": [
         {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
         }
       ],
-      "duration_ms": 144840,
-      "name": "Smile Boy",
-      "url": "https://open.spotify.com/track/686xawmVv1F1Ks5kJRkcVG"
+      "duration_ms": 162300,
+      "name": "I Lied, I'm Sorry",
+      "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
     },
     {
       "added_at": "2025-03-13 23:00:27",
@@ -339,6 +319,26 @@
       "duration_ms": 210066,
       "name": "Cold As Ice",
       "url": "https://open.spotify.com/track/3tW9811KrWQxa0SIxaFWUF"
+    },
+    {
+      "added_at": "2025-03-13 23:00:27",
+      "album": {
+        "name": "Smile Boy",
+        "url": "https://open.spotify.com/album/0GCPTSJvxI0pqUEuhOGSaS"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 144840,
+      "name": "Smile Boy",
+      "url": "https://open.spotify.com/track/686xawmVv1F1Ks5kJRkcVG"
     },
     {
       "added_at": "2025-03-13 23:00:27",
@@ -375,26 +375,6 @@
     {
       "added_at": "2025-03-13 23:00:27",
       "album": {
-        "name": "Lover Online",
-        "url": "https://open.spotify.com/album/3jkEIKa3J9CI09JLsAl7Qs"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
-        }
-      ],
-      "duration_ms": 167444,
-      "name": "Lover Online",
-      "url": "https://open.spotify.com/track/0o5wusLgOl9yWjXzUF1SEJ"
-    },
-    {
-      "added_at": "2025-03-13 23:00:27",
-      "album": {
         "name": "D\u00d6",
         "url": "https://open.spotify.com/album/2nkEqixxTmd9E7umk0OUwG"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 155694,
       "name": "D\u00d6",
       "url": "https://open.spotify.com/track/6xQhvjACkxeuaRIH25UizF"
+    },
+    {
+      "added_at": "2025-03-13 23:00:27",
+      "album": {
+        "name": "Lover Online",
+        "url": "https://open.spotify.com/album/3jkEIKa3J9CI09JLsAl7Qs"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+        }
+      ],
+      "duration_ms": 167444,
+      "name": "Lover Online",
+      "url": "https://open.spotify.com/track/0o5wusLgOl9yWjXzUF1SEJ"
     },
     {
       "added_at": "2025-03-13 23:00:27",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-03-13 23:00:27",
       "album": {
-        "name": "Someone Was Listening (from Life is Strange)",
-        "url": "https://open.spotify.com/album/7eapnSI86vtEKZ29h20hn3"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 177428,
-      "name": "Someone Was Listening (from Life is Strange)",
-      "url": "https://open.spotify.com/track/1kuPgsWuwfNVHTPDBGMMj4"
-    },
-    {
-      "added_at": "2025-03-13 23:00:27",
-      "album": {
         "name": "S\u00e4kra kort",
         "url": "https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 203195,
       "name": "S\u00e4kra kort",
       "url": "https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC"
+    },
+    {
+      "added_at": "2025-03-13 23:00:27",
+      "album": {
+        "name": "Someone Was Listening (from Life is Strange)",
+        "url": "https://open.spotify.com/album/7eapnSI86vtEKZ29h20hn3"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 177428,
+      "name": "Someone Was Listening (from Life is Strange)",
+      "url": "https://open.spotify.com/track/1kuPgsWuwfNVHTPDBGMMj4"
     },
     {
       "added_at": "2025-03-13 23:00:27",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-03-13 23:00:27",
       "album": {
-        "name": "\u201c&\u201d (Ampersand), Part Two",
-        "url": "https://open.spotify.com/album/3vtvRu36Sh69lyYkMHY352"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 232506,
-      "name": "Blue Sky & The Painter",
-      "url": "https://open.spotify.com/track/1xuQoznYFrrw493RCb4IS9"
-    },
-    {
-      "added_at": "2025-03-13 23:00:27",
-      "album": {
         "name": "Vad har du gjort med mig",
         "url": "https://open.spotify.com/album/3nR2oclY01lsVsDSPCeCgB"
       },
@@ -595,38 +579,6 @@
       "duration_ms": 181052,
       "name": "Vad har du gjort med mig",
       "url": "https://open.spotify.com/track/7ig9eCxvVnHqAY0Jv79hQL"
-    },
-    {
-      "added_at": "2025-03-13 23:00:27",
-      "album": {
-        "name": "Dying Light",
-        "url": "https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH"
-      },
-      "artists": [
-        {
-          "name": "Vilhelm Buchaus",
-          "url": "https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl"
-        }
-      ],
-      "duration_ms": 173694,
-      "name": "Dying Light",
-      "url": "https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE"
-    },
-    {
-      "added_at": "2025-03-13 23:00:27",
-      "album": {
-        "name": "Halleluja",
-        "url": "https://open.spotify.com/album/6oG0r4B68LY1oQIe8rQJuv"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 157386,
-      "name": "Halleluja",
-      "url": "https://open.spotify.com/track/0Oz87iCfzi4JXmEV3YdjZf"
     },
     {
       "added_at": "2025-03-13 23:00:27",
@@ -647,6 +599,38 @@
     {
       "added_at": "2025-03-13 23:00:27",
       "album": {
+        "name": "\u201c&\u201d (Ampersand), Part Two",
+        "url": "https://open.spotify.com/album/3vtvRu36Sh69lyYkMHY352"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 232506,
+      "name": "Blue Sky & The Painter",
+      "url": "https://open.spotify.com/track/1xuQoznYFrrw493RCb4IS9"
+    },
+    {
+      "added_at": "2025-03-13 23:00:27",
+      "album": {
+        "name": "Dying Light",
+        "url": "https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH"
+      },
+      "artists": [
+        {
+          "name": "Vilhelm Buchaus",
+          "url": "https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl"
+        }
+      ],
+      "duration_ms": 173694,
+      "name": "Dying Light",
+      "url": "https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE"
+    },
+    {
+      "added_at": "2025-03-13 23:00:27",
+      "album": {
         "name": "Ge inte upp p\u00e5 mig",
         "url": "https://open.spotify.com/album/5lYpVz7zexN4WgKD7udNkZ"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 204506,
       "name": "Ge inte upp p\u00e5 mig",
       "url": "https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw"
+    },
+    {
+      "added_at": "2025-03-13 23:00:27",
+      "album": {
+        "name": "Halleluja",
+        "url": "https://open.spotify.com/album/6oG0r4B68LY1oQIe8rQJuv"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 157386,
+      "name": "Halleluja",
+      "url": "https://open.spotify.com/track/0Oz87iCfzi4JXmEV3YdjZf"
     },
     {
       "added_at": "2025-03-13 23:00:27",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-03-13 23:00:27",
       "album": {
-        "name": "I natt \u00e9 hela staden v\u00e5r",
-        "url": "https://open.spotify.com/album/42VKHmLNWldELuIPVLr5M4"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 200698,
-      "name": "I natt \u00e9 hela staden v\u00e5r",
-      "url": "https://open.spotify.com/track/1znQMIGsOv5BlrU2BL90wb"
-    },
-    {
-      "added_at": "2025-03-13 23:00:27",
-      "album": {
         "name": "Dust",
         "url": "https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 207312,
       "name": "Dust",
       "url": "https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC"
+    },
+    {
+      "added_at": "2025-03-13 23:00:27",
+      "album": {
+        "name": "I natt \u00e9 hela staden v\u00e5r",
+        "url": "https://open.spotify.com/album/42VKHmLNWldELuIPVLr5M4"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 200698,
+      "name": "I natt \u00e9 hela staden v\u00e5r",
+      "url": "https://open.spotify.com/track/1znQMIGsOv5BlrU2BL90wb"
     },
     {
       "added_at": "2025-03-13 23:00:27",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-03-13 23:00:27",
       "album": {
-        "name": "Switch",
-        "url": "https://open.spotify.com/album/6OumeSAX4Z4eVfyU816KLM"
-      },
-      "artists": [
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 180713,
-      "name": "Switch",
-      "url": "https://open.spotify.com/track/1bEO8LdFDrYpJleXnVons3"
-    },
-    {
-      "added_at": "2025-03-13 23:00:27",
-      "album": {
         "name": "Devil Mode",
         "url": "https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 184434,
       "name": "Devil Mode",
       "url": "https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c"
+    },
+    {
+      "added_at": "2025-03-13 23:00:27",
+      "album": {
+        "name": "Switch",
+        "url": "https://open.spotify.com/album/6OumeSAX4Z4eVfyU816KLM"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 180713,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/1bEO8LdFDrYpJleXnVons3"
     },
     {
       "added_at": "2025-03-13 23:00:27",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-03-13 23:00:27",
       "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/3ZrhrH8iDFgDLEgVYfobR7"
-      },
-      "artists": [
-        {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
-        }
-      ],
-      "duration_ms": 179754,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/6kvS2z82Q6l7h4DnzteKwO"
-    },
-    {
-      "added_at": "2025-03-13 23:00:27",
-      "album": {
         "name": "Zoey",
         "url": "https://open.spotify.com/album/0FUo6zTonfZsCnKR6C9GCX"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 183054,
       "name": "Zoey",
       "url": "https://open.spotify.com/track/1gwPACfYbsG7CTLqJdBGUf"
+    },
+    {
+      "added_at": "2025-03-13 23:00:27",
+      "album": {
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/3ZrhrH8iDFgDLEgVYfobR7"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "duration_ms": 179754,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/6kvS2z82Q6l7h4DnzteKwO"
     },
     {
       "added_at": "2025-03-13 23:00:27",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-03-13 23:00:27",
       "album": {
-        "name": "NYLON",
-        "url": "https://open.spotify.com/album/4Q2qRFbmPxoeSqsVPDXYNm"
-      },
-      "artists": [
-        {
-          "name": "Mwuana",
-          "url": "https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX"
-        }
-      ],
-      "duration_ms": 158267,
-      "name": "NYLON",
-      "url": "https://open.spotify.com/track/3HHPXH26eIh32DFqY4vdD4"
-    },
-    {
-      "added_at": "2025-03-13 23:00:27",
-      "album": {
         "name": "Dance Alone",
         "url": "https://open.spotify.com/album/3Cv4PRHPdzt5A6BUpNnY0H"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 158706,
       "name": "Dance Alone",
       "url": "https://open.spotify.com/track/51bfC0IWSuuN6x0TKTWcb3"
+    },
+    {
+      "added_at": "2025-03-13 23:00:27",
+      "album": {
+        "name": "NYLON",
+        "url": "https://open.spotify.com/album/4Q2qRFbmPxoeSqsVPDXYNm"
+      },
+      "artists": [
+        {
+          "name": "Mwuana",
+          "url": "https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX"
+        }
+      ],
+      "duration_ms": 158267,
+      "name": "NYLON",
+      "url": "https://open.spotify.com/track/3HHPXH26eIh32DFqY4vdD4"
     },
     {
       "added_at": "2025-03-13 23:00:27",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-03-13 23:00:27",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/0upNGBrIv5iJsOW0N114aN"
-      },
-      "artists": [
-        {
-          "name": "Amanda Cy",
-          "url": "https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/0bcNxMaqVrQQoTnwh35uqD"
-    },
-    {
-      "added_at": "2025-03-13 23:00:27",
-      "album": {
         "name": "H\u00e5lla oss till saken",
         "url": "https://open.spotify.com/album/66dalPj3EsGp24D1MytMNF"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2025-03-13 23:00:27",
       "album": {
-        "name": "Catch Me",
-        "url": "https://open.spotify.com/album/3u6hcZdiN4mvXta2LDx9Xq"
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/0upNGBrIv5iJsOW0N114aN"
       },
       "artists": [
         {
-          "name": "Ellen Benediktson",
-          "url": "https://open.spotify.com/artist/3IXfNkd6BwjYA48aNCPDI8"
+          "name": "Amanda Cy",
+          "url": "https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW"
         }
       ],
-      "duration_ms": 177237,
-      "name": "Catch Me",
-      "url": "https://open.spotify.com/track/6fcSYjelzqkWWWJmaTUInf"
+      "duration_ms": 173133,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/0bcNxMaqVrQQoTnwh35uqD"
     },
     {
       "added_at": "2025-03-13 23:00:27",
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2025-03-13 23:00:27",
       "album": {
+        "name": "Catch Me",
+        "url": "https://open.spotify.com/album/3u6hcZdiN4mvXta2LDx9Xq"
+      },
+      "artists": [
+        {
+          "name": "Ellen Benediktson",
+          "url": "https://open.spotify.com/artist/3IXfNkd6BwjYA48aNCPDI8"
+        }
+      ],
+      "duration_ms": 177237,
+      "name": "Catch Me",
+      "url": "https://open.spotify.com/track/6fcSYjelzqkWWWJmaTUInf"
+    },
+    {
+      "added_at": "2025-03-13 23:00:27",
+      "album": {
         "name": "KALLAX CARGO",
         "url": "https://open.spotify.com/album/2jrJbLNEFJDwxBgQrHSrDD"
       },
@@ -1367,6 +1367,22 @@
       "duration_ms": 223853,
       "name": "99 fel",
       "url": "https://open.spotify.com/track/6upxokybtKLCsN7RKeYuf6"
+    },
+    {
+      "added_at": "2025-03-13 23:00:27",
+      "album": {
+        "name": "K\u00e4ra Idioter",
+        "url": "https://open.spotify.com/album/44I05AXUG1XXhRzdY2sV9U"
+      },
+      "artists": [
+        {
+          "name": "UPPENBARA",
+          "url": "https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7"
+        }
+      ],
+      "duration_ms": 170329,
+      "name": "K\u00e4ra Idioter",
+      "url": "https://open.spotify.com/track/2UfUdKkWiq4SSaV0WOnc16"
     },
     {
       "added_at": "2025-03-13 23:00:27",
@@ -1427,22 +1443,6 @@
       "duration_ms": 172998,
       "name": "Hils Din Mor (feat. Anne Linnet)",
       "url": "https://open.spotify.com/track/52fqmaEIDQdmWONvwXbvf8"
-    },
-    {
-      "added_at": "2025-03-13 23:00:27",
-      "album": {
-        "name": "K\u00e4ra Idioter",
-        "url": "https://open.spotify.com/album/44I05AXUG1XXhRzdY2sV9U"
-      },
-      "artists": [
-        {
-          "name": "UPPENBARA",
-          "url": "https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7"
-        }
-      ],
-      "duration_ms": 170329,
-      "name": "K\u00e4ra Idioter",
-      "url": "https://open.spotify.com/track/2UfUdKkWiq4SSaV0WOnc16"
     },
     {
       "added_at": "2025-03-13 23:00:27",

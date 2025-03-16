@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: The La Planta.",
-  "num_followers": 1172119,
+  "num_followers": 1172111,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -563,26 +563,6 @@
     {
       "added_at": "2025-03-14 21:15:47",
       "album": {
-        "name": "Todo Comenz\u00f3 Bailando",
-        "url": "https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        }
-      ],
-      "duration_ms": 178291,
-      "name": "Noche Loca",
-      "url": "https://open.spotify.com/track/0gzcET27nREY6aD8LJU9wD"
-    },
-    {
-      "added_at": "2025-03-14 21:15:47",
-      "album": {
         "name": "Te Regalo Amores",
         "url": "https://open.spotify.com/album/2ljTaOrStZUe1MD2iVGgIv"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 182616,
       "name": "Te Regalo Amores",
       "url": "https://open.spotify.com/track/5FK7198AnbdywXfS4JI6sc"
+    },
+    {
+      "added_at": "2025-03-14 21:15:47",
+      "album": {
+        "name": "Todo Comenz\u00f3 Bailando",
+        "url": "https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "duration_ms": 178291,
+      "name": "Noche Loca",
+      "url": "https://open.spotify.com/track/0gzcET27nREY6aD8LJU9wD"
     },
     {
       "added_at": "2025-03-14 21:15:47",
@@ -683,34 +683,26 @@
     {
       "added_at": "2025-03-14 21:15:47",
       "album": {
-        "name": "No Voy a Llorar Por Ti (feat. Marama) [Remix]",
-        "url": "https://open.spotify.com/album/6pWXJRKJFbxcq4aZsMEBYM"
+        "name": "Todo Comenz\u00f3 Bailando (Remix)",
+        "url": "https://open.spotify.com/album/5uETffhuDgeUDZhN4PacAJ"
       },
       "artists": [
-        {
-          "name": "Ian Lucas",
-          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
-        },
-        {
-          "name": "Fede Vigevani",
-          "url": "https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        },
         {
           "name": "Marama",
           "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
         },
         {
-          "name": "Milthon",
-          "url": "https://open.spotify.com/artist/6gIF4fABYGdlhkCP8C22MK"
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
         }
       ],
-      "duration_ms": 199389,
-      "name": "No Voy a Llorar Por Ti (feat. Marama) - Remix",
-      "url": "https://open.spotify.com/track/5zl3j3FkzhLhHJPWQ3JbNM"
+      "duration_ms": 163529,
+      "name": "Todo Comenz\u00f3 Bailando - Remix",
+      "url": "https://open.spotify.com/track/5nJP1qwTNnXF4CiCrfmNjy"
     },
     {
       "added_at": "2025-03-14 21:15:47",
@@ -751,26 +743,34 @@
     {
       "added_at": "2025-03-14 21:15:47",
       "album": {
-        "name": "Todo Comenz\u00f3 Bailando (Remix)",
-        "url": "https://open.spotify.com/album/5uETffhuDgeUDZhN4PacAJ"
+        "name": "No Voy a Llorar Por Ti (feat. Marama) [Remix]",
+        "url": "https://open.spotify.com/album/6pWXJRKJFbxcq4aZsMEBYM"
       },
       "artists": [
+        {
+          "name": "Ian Lucas",
+          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
+        },
+        {
+          "name": "Fede Vigevani",
+          "url": "https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
         {
           "name": "Marama",
           "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
         },
         {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        },
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+          "name": "Milthon",
+          "url": "https://open.spotify.com/artist/6gIF4fABYGdlhkCP8C22MK"
         }
       ],
-      "duration_ms": 163529,
-      "name": "Todo Comenz\u00f3 Bailando - Remix",
-      "url": "https://open.spotify.com/track/5nJP1qwTNnXF4CiCrfmNjy"
+      "duration_ms": 199389,
+      "name": "No Voy a Llorar Por Ti (feat. Marama) - Remix",
+      "url": "https://open.spotify.com/track/5zl3j3FkzhLhHJPWQ3JbNM"
     },
     {
       "added_at": "2025-03-14 21:15:47",
@@ -887,6 +887,46 @@
     {
       "added_at": "2025-03-14 21:15:47",
       "album": {
+        "name": "Ya No M\u00e1s",
+        "url": "https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl"
+      },
+      "artists": [
+        {
+          "name": "Fer Palacio",
+          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
+        },
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "Santiago Saez",
+          "url": "https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV"
+        }
+      ],
+      "duration_ms": 158447,
+      "name": "Ya No M\u00e1s",
+      "url": "https://open.spotify.com/track/4gQG2Ic7hnJMAcqunk4ERT"
+    },
+    {
+      "added_at": "2025-03-14 21:15:47",
+      "album": {
+        "name": "Cuando Se Pone a Bailar",
+        "url": "https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "duration_ms": 195274,
+      "name": "Cuando Se Pone a Bailar",
+      "url": "https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH"
+    },
+    {
+      "added_at": "2025-03-14 21:15:47",
+      "album": {
         "name": "Si Me Tomo una Cerveza (Remix)",
         "url": "https://open.spotify.com/album/7lDnwvTQGoFOCRD7GGRpks"
       },
@@ -919,46 +959,6 @@
       "duration_ms": 237521,
       "name": "Si Me Tomo una Cerveza - Remix",
       "url": "https://open.spotify.com/track/7oySelE0Cb5q1TBBSPZJT2"
-    },
-    {
-      "added_at": "2025-03-14 21:15:47",
-      "album": {
-        "name": "Cuando Se Pone a Bailar",
-        "url": "https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX"
-      },
-      "artists": [
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        }
-      ],
-      "duration_ms": 195274,
-      "name": "Cuando Se Pone a Bailar",
-      "url": "https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH"
-    },
-    {
-      "added_at": "2025-03-14 21:15:47",
-      "album": {
-        "name": "Ya No M\u00e1s",
-        "url": "https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl"
-      },
-      "artists": [
-        {
-          "name": "Fer Palacio",
-          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
-        },
-        {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "Santiago Saez",
-          "url": "https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV"
-        }
-      ],
-      "duration_ms": 158447,
-      "name": "Ya No M\u00e1s",
-      "url": "https://open.spotify.com/track/4gQG2Ic7hnJMAcqunk4ERT"
     },
     {
       "added_at": "2025-03-14 21:15:47",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-03-14 21:15:47",
       "album": {
+        "name": "Martes 13",
+        "url": "https://open.spotify.com/album/3W8jFYffyTKJqm6hSQtARd"
+      },
+      "artists": [
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        }
+      ],
+      "duration_ms": 137727,
+      "name": "Martes 13",
+      "url": "https://open.spotify.com/track/57q0jUz79o0XeTmN2E15uI"
+    },
+    {
+      "added_at": "2025-03-14 21:15:47",
+      "album": {
         "name": "Quiero Verte Bailar (Remix)",
         "url": "https://open.spotify.com/album/0d9cn4nyuAuFrl1aUqYqhe"
       },
@@ -1175,18 +1191,22 @@
     {
       "added_at": "2025-03-14 21:15:47",
       "album": {
-        "name": "Martes 13",
-        "url": "https://open.spotify.com/album/3W8jFYffyTKJqm6hSQtARd"
+        "name": "Ya no me duele :,)",
+        "url": "https://open.spotify.com/album/0jJ0wlC1Or8aSdURo1TBWp"
       },
       "artists": [
         {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+          "name": "Bauti Mascia",
+          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
+        },
+        {
+          "name": "Cele Arrabal",
+          "url": "https://open.spotify.com/artist/36GC5ob1mWpu07UpvMAYnl"
         }
       ],
-      "duration_ms": 137727,
-      "name": "Martes 13",
-      "url": "https://open.spotify.com/track/57q0jUz79o0XeTmN2E15uI"
+      "duration_ms": 157021,
+      "name": "Ya no me duele :,)",
+      "url": "https://open.spotify.com/track/6gT5ISEKzUVT8eTy0f3GvU"
     },
     {
       "added_at": "2025-03-14 21:15:47",
@@ -1215,26 +1235,6 @@
       "duration_ms": 184687,
       "name": "JBL",
       "url": "https://open.spotify.com/track/1wvI6lJLC7mjUzdssQq5MU"
-    },
-    {
-      "added_at": "2025-03-14 21:15:47",
-      "album": {
-        "name": "Ya no me duele :,)",
-        "url": "https://open.spotify.com/album/0jJ0wlC1Or8aSdURo1TBWp"
-      },
-      "artists": [
-        {
-          "name": "Bauti Mascia",
-          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
-        },
-        {
-          "name": "Cele Arrabal",
-          "url": "https://open.spotify.com/artist/36GC5ob1mWpu07UpvMAYnl"
-        }
-      ],
-      "duration_ms": 157021,
-      "name": "Ya no me duele :,)",
-      "url": "https://open.spotify.com/track/6gT5ISEKzUVT8eTy0f3GvU"
     },
     {
       "added_at": "2025-03-14 21:15:47",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2025-03-14 21:15:47",
       "album": {
-        "name": "El Pron\u00f3stico",
-        "url": "https://open.spotify.com/album/1xYzvFY0GUHYbWx7uAYoTI"
-      },
-      "artists": [
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
-        },
-        {
-          "name": "KINGTO",
-          "url": "https://open.spotify.com/artist/338Grz8ebmeku4xVYVqUHQ"
-        }
-      ],
-      "duration_ms": 128793,
-      "name": "El Pron\u00f3stico",
-      "url": "https://open.spotify.com/track/3SyKJIkKoA4RFMrdqYSTxj"
-    },
-    {
-      "added_at": "2025-03-14 21:15:47",
-      "album": {
         "name": "Ya No Quiero Verte",
         "url": "https://open.spotify.com/album/7LgHocBu4JUghhlAJqgNrS"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 123136,
       "name": "CONTACTO CERO",
       "url": "https://open.spotify.com/track/2KLl3FnpYYmNNTRWIg2nRv"
+    },
+    {
+      "added_at": "2025-03-14 21:15:47",
+      "album": {
+        "name": "El Pron\u00f3stico",
+        "url": "https://open.spotify.com/album/1xYzvFY0GUHYbWx7uAYoTI"
+      },
+      "artists": [
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        },
+        {
+          "name": "KINGTO",
+          "url": "https://open.spotify.com/artist/338Grz8ebmeku4xVYVqUHQ"
+        }
+      ],
+      "duration_ms": 128793,
+      "name": "El Pron\u00f3stico",
+      "url": "https://open.spotify.com/track/3SyKJIkKoA4RFMrdqYSTxj"
     },
     {
       "added_at": "2025-03-14 21:15:47",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2025-03-14 21:15:47",
       "album": {
+        "name": "El Trend",
+        "url": "https://open.spotify.com/album/0PPp0cxBchPiKSmZune2ko"
+      },
+      "artists": [
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        }
+      ],
+      "duration_ms": 153913,
+      "name": "El Trend",
+      "url": "https://open.spotify.com/track/2FkGAd5K5P88bAoNnzcpYF"
+    },
+    {
+      "added_at": "2025-03-14 21:15:47",
+      "album": {
         "name": "Como si no nos am\u00e1ramos",
         "url": "https://open.spotify.com/album/1tyKtvkr2cw7HbkU0ec5bW"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 191250,
       "name": "Como si no nos am\u00e1ramos",
       "url": "https://open.spotify.com/track/0xsA8UB6GyQ1xCl3uJ7zeG"
-    },
-    {
-      "added_at": "2025-03-14 21:15:47",
-      "album": {
-        "name": "El Trend",
-        "url": "https://open.spotify.com/album/0PPp0cxBchPiKSmZune2ko"
-      },
-      "artists": [
-        {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
-        }
-      ],
-      "duration_ms": 153913,
-      "name": "El Trend",
-      "url": "https://open.spotify.com/track/2FkGAd5K5P88bAoNnzcpYF"
     },
     {
       "added_at": "2025-03-14 21:15:47",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2025-03-14 21:15:47",
       "album": {
-        "name": "POR QU\u00c9 LLORAS?",
-        "url": "https://open.spotify.com/album/0ieBrw81xJrvEU0WPenN7s"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 153876,
-      "name": "POR QU\u00c9 LLORAS?",
-      "url": "https://open.spotify.com/track/0zY9gEaGRD9aIG0qZwgEDp"
-    },
-    {
-      "added_at": "2025-03-14 21:15:47",
-      "album": {
         "name": "Tranquila",
         "url": "https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj"
       },
@@ -1699,6 +1679,26 @@
     {
       "added_at": "2025-03-14 21:15:47",
       "album": {
+        "name": "POR QU\u00c9 LLORAS?",
+        "url": "https://open.spotify.com/album/0ieBrw81xJrvEU0WPenN7s"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "duration_ms": 153876,
+      "name": "POR QU\u00c9 LLORAS?",
+      "url": "https://open.spotify.com/track/0zY9gEaGRD9aIG0qZwgEDp"
+    },
+    {
+      "added_at": "2025-03-14 21:15:47",
+      "album": {
         "name": "S\u00f3lo con un Beso",
         "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
       },
@@ -1711,6 +1711,26 @@
       "duration_ms": 155878,
       "name": "S\u00f3lo con un Beso",
       "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
+    },
+    {
+      "added_at": "2025-03-14 21:15:47",
+      "album": {
+        "name": "Noche de Party",
+        "url": "https://open.spotify.com/album/7AYQWNlciOicju4y24ytpD"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "duration_ms": 152942,
+      "name": "Noche de Party",
+      "url": "https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8"
     },
     {
       "added_at": "2025-03-14 21:15:47",
@@ -1763,26 +1783,6 @@
     {
       "added_at": "2025-03-14 21:15:47",
       "album": {
-        "name": "Noche de Party",
-        "url": "https://open.spotify.com/album/7AYQWNlciOicju4y24ytpD"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 152942,
-      "name": "Noche de Party",
-      "url": "https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8"
-    },
-    {
-      "added_at": "2025-03-14 21:15:47",
-      "album": {
         "name": "Si Tu Supieras",
         "url": "https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv"
       },
@@ -1823,28 +1823,8 @@
     {
       "added_at": "2025-03-14 21:15:47",
       "album": {
-        "name": "Culpable",
-        "url": "https://open.spotify.com/album/6T85XAZkuYE9NqkMzMfdF2"
-      },
-      "artists": [
-        {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 171627,
-      "name": "Culpable",
-      "url": "https://open.spotify.com/track/47MMJy4ZaE28ApRUipoddu"
-    },
-    {
-      "added_at": "2025-03-14 21:15:47",
-      "album": {
-        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
-        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
+        "name": "Maravillosa Esta Noche",
+        "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
       },
       "artists": [
         {
@@ -1852,9 +1832,9 @@
           "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 475951,
-      "name": "Juego de Seduccion / Persiana Americana / Corazon Delator / Cuando Pase el Temblor / Tratame Suavemente / De Musica Ligera",
-      "url": "https://open.spotify.com/track/4LVAaT0AupDe4EKttxYazr"
+      "duration_ms": 242400,
+      "name": "Maravillosa Esta Noche",
+      "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
     },
     {
       "added_at": "2025-03-14 21:15:47",
@@ -1883,6 +1863,26 @@
       "duration_ms": 156325,
       "name": "Promet\u00ed",
       "url": "https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3"
+    },
+    {
+      "added_at": "2025-03-14 21:15:47",
+      "album": {
+        "name": "Culpable",
+        "url": "https://open.spotify.com/album/6T85XAZkuYE9NqkMzMfdF2"
+      },
+      "artists": [
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "duration_ms": 171627,
+      "name": "Culpable",
+      "url": "https://open.spotify.com/track/47MMJy4ZaE28ApRUipoddu"
     },
     {
       "added_at": "2025-03-14 21:15:47",
@@ -1923,6 +1923,38 @@
     {
       "added_at": "2025-03-14 21:15:47",
       "album": {
+        "name": "Pechito Partido",
+        "url": "https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        }
+      ],
+      "duration_ms": 147109,
+      "name": "Pechito Partido",
+      "url": "https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO"
+    },
+    {
+      "added_at": "2025-03-14 21:15:47",
+      "album": {
+        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
+        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 475951,
+      "name": "Juego de Seduccion / Persiana Americana / Corazon Delator / Cuando Pase el Temblor / Tratame Suavemente / De Musica Ligera",
+      "url": "https://open.spotify.com/track/4LVAaT0AupDe4EKttxYazr"
+    },
+    {
+      "added_at": "2025-03-14 21:15:47",
+      "album": {
         "name": "TODO VUELVE",
         "url": "https://open.spotify.com/album/4txwnjibnEEo9meWprbdSC"
       },
@@ -1939,22 +1971,6 @@
       "duration_ms": 189629,
       "name": "TODO VUELVE",
       "url": "https://open.spotify.com/track/78CbDyjeAUjnVM8ha4j6LY"
-    },
-    {
-      "added_at": "2025-03-14 21:15:47",
-      "album": {
-        "name": "Pechito Partido",
-        "url": "https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7"
-      },
-      "artists": [
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        }
-      ],
-      "duration_ms": 147109,
-      "name": "Pechito Partido",
-      "url": "https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO"
     },
     {
       "added_at": "2025-03-14 21:15:47",
@@ -2003,22 +2019,6 @@
     {
       "added_at": "2025-03-14 21:15:47",
       "album": {
-        "name": "Maravillosa Esta Noche",
-        "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Maravillosa Esta Noche",
-      "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
-    },
-    {
-      "added_at": "2025-03-14 21:15:47",
-      "album": {
         "name": "Persia / YO SE QUE TU / Millonario",
         "url": "https://open.spotify.com/album/0cYCBuuYYaZQygefwFGBxs"
       },
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2025-03-14 21:15:47",
       "album": {
-        "name": "CUANDO SALE EL SOL",
-        "url": "https://open.spotify.com/album/4RumX1vBmnP74qE5h0ZayI"
-      },
-      "artists": [
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "CUANDO SALE EL SOL",
-      "url": "https://open.spotify.com/track/2cxOBgPSWMgtJtAqNVOqra"
-    },
-    {
-      "added_at": "2025-03-14 21:15:47",
-      "album": {
         "name": "Mil Males",
         "url": "https://open.spotify.com/album/2OFuCFPcPsVUZdiUClRgE2"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 147157,
       "name": "Mil Males",
       "url": "https://open.spotify.com/track/0JCngRTr2hdBxUhsc5zLjp"
+    },
+    {
+      "added_at": "2025-03-14 21:15:47",
+      "album": {
+        "name": "CUANDO SALE EL SOL",
+        "url": "https://open.spotify.com/album/4RumX1vBmnP74qE5h0ZayI"
+      },
+      "artists": [
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "CUANDO SALE EL SOL",
+      "url": "https://open.spotify.com/track/2cxOBgPSWMgtJtAqNVOqra"
     }
   ],
   "unique_name": "Dame M\u00e1s Cumbia",

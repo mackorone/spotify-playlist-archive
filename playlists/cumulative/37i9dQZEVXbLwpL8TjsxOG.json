@@ -3394,7 +3394,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 190806,
       "name": "earthquake",
       "url": "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx"
@@ -5464,6 +5464,24 @@
       "duration_ms": 177818,
       "name": "honest (feat. moon tang)",
       "url": "https://open.spotify.com/track/1sVm0BuqORY7fdazHTCS3K"
+    },
+    {
+      "album": {
+        "name": "HOT",
+        "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143797,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY"
     },
     {
       "album": {
@@ -8962,7 +8980,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 174731,
       "name": "NPC\u7684\u4e00\u5834\u610f\u5916",
       "url": "https://open.spotify.com/track/2xoPgjS9kp36190AhzVyKB"
@@ -11324,7 +11342,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 165066,
       "name": "start a war",
       "url": "https://open.spotify.com/track/6SaSFVlIQC1L6Fh1QKLeFi"
@@ -14612,7 +14630,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-09",
+      "date_removed": null,
       "duration_ms": 263133,
       "name": "\u4e16\u4e00",
       "url": "https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm"
@@ -18607,6 +18625,24 @@
     },
     {
       "album": {
+        "name": "\u7136\u4e4b\u5f8c",
+        "url": "https://open.spotify.com/album/5iWOlHvMoPYTJ4BhytEZ3g"
+      },
+      "artists": [
+        {
+          "name": "Jay Fung",
+          "url": "https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259841,
+      "name": "\u7136\u4e4b\u5f8c",
+      "url": "https://open.spotify.com/track/70cYPOnIhh18r1yX0Jq8Ma"
+    },
+    {
+      "album": {
         "name": "SEVEN",
         "url": "https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o"
       },
@@ -18730,7 +18766,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 243017,
       "name": "\u73a9\u5076\u5947\u9047\u8a18",
       "url": "https://open.spotify.com/track/1hf26XBrWNvfKiOeXU2Vtk"
@@ -19386,7 +19422,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 236093,
       "name": "\u7d05\u8c46",
       "url": "https://open.spotify.com/track/6fINptnBBbiz2JPIBhkJL7"

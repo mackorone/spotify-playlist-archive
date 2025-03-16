@@ -1,12 +1,12 @@
 {
   "description": "This is Jake Shimabukuro. The essential tracks, all in one playlist.",
-  "num_followers": 8241,
+  "num_followers": 8239,
   "original_name": "This Is Jake Shimabukuro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAA4sEQKOTd8K3rG7pWRGxku",
+  "snapshot_id": "Z9NxgAAAAAD6w4nPcz6a40P2u/dcVOVI",
   "tracks": [
     {
       "added_at": null,
@@ -475,26 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HandPicked",
-        "url": "https://open.spotify.com/album/3142HalSDI3XohoAIbR3vn"
-      },
-      "artists": [
-        {
-          "name": "Earl Klugh",
-          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
-        },
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 485586,
-      "name": "Hotel California (Duet with Jake Shimabukuro)",
-      "url": "https://open.spotify.com/track/5kr66FsmwdvHiFDGt6kciO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time For Three",
         "url": "https://open.spotify.com/album/7x67Bz5XSc28ABOm3SUfYF"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 239906,
       "name": "Happy Day",
       "url": "https://open.spotify.com/track/5VywuMtwbWgXHw6RXDyDWj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HandPicked",
+        "url": "https://open.spotify.com/album/3142HalSDI3XohoAIbR3vn"
+      },
+      "artists": [
+        {
+          "name": "Earl Klugh",
+          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 485586,
+      "name": "Hotel California (Duet with Jake Shimabukuro)",
+      "url": "https://open.spotify.com/track/5kr66FsmwdvHiFDGt6kciO"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live With Jake Shimabukuro",
+        "url": "https://open.spotify.com/album/2PwQ4z0rIku4NEEkIVL0so"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 190648,
+      "name": "Morning Blue",
+      "url": "https://open.spotify.com/track/44OX5NkBwQ3UTdYrFQDozm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
         "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
       },
@@ -723,26 +739,6 @@
       "duration_ms": 224400,
       "name": "\u30d5\u30e9\u30ac\u30fc\u30eb",
       "url": "https://open.spotify.com/track/5C43UUvEzv0ReAgQCx1dAP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nature Spirit",
-        "url": "https://open.spotify.com/album/6YsUV3AaDrM9pB9AaYmLWr"
-      },
-      "artists": [
-        {
-          "name": "Kotaro Oshio",
-          "url": "https://open.spotify.com/artist/21HpfUqBSYSTMF20FOw2V2"
-        },
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 329053,
-      "name": "IN MY LIFE",
-      "url": "https://open.spotify.com/track/3aBKiNFM1LHdl1zwoiu7ro"
     },
     {
       "added_at": null,
@@ -779,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nature Spirit",
+        "url": "https://open.spotify.com/album/6YsUV3AaDrM9pB9AaYmLWr"
+      },
+      "artists": [
+        {
+          "name": "Kotaro Oshio",
+          "url": "https://open.spotify.com/artist/21HpfUqBSYSTMF20FOw2V2"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 329053,
+      "name": "IN MY LIFE",
+      "url": "https://open.spotify.com/track/3aBKiNFM1LHdl1zwoiu7ro"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
         "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
       },
@@ -795,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live With Jake Shimabukuro",
-        "url": "https://open.spotify.com/album/2PwQ4z0rIku4NEEkIVL0so"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 190648,
-      "name": "Morning Blue",
-      "url": "https://open.spotify.com/track/44OX5NkBwQ3UTdYrFQDozm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30d5\u30e9\u30ac\u30fc\u30eb\u3000-\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af-",
         "url": "https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 116426,
       "name": "\u30b0\u30e9\u30c7\u30e5\u30a8\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/3lEIwrld3ahz9tAlNQAyq7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live With Jake Shimabukuro",
+        "url": "https://open.spotify.com/album/2PwQ4z0rIku4NEEkIVL0so"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 239197,
+      "name": "When The Masks Come Down",
+      "url": "https://open.spotify.com/track/7mTJIPUtg4TWGm3PiKvyh4"
     },
     {
       "added_at": null,
@@ -863,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live With Jake Shimabukuro",
-        "url": "https://open.spotify.com/album/2PwQ4z0rIku4NEEkIVL0so"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 214631,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/7IHqxgfRBmjWe0XErLOEsS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30de\u30a4\u30fb\u30e9\u30a4\u30d5",
         "url": "https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN"
       },
@@ -895,26 +895,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trio",
-        "url": "https://open.spotify.com/album/3uLfTpSX4QuFWqAkcHQBz4"
+        "name": "Live With Jake Shimabukuro",
+        "url": "https://open.spotify.com/album/2PwQ4z0rIku4NEEkIVL0so"
       },
       "artists": [
         {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        },
-        {
-          "name": "Nolan Verner",
-          "url": "https://open.spotify.com/artist/1mIyn2K6MfgmwrkoMNAaRl"
-        },
-        {
-          "name": "Dave Preston",
-          "url": "https://open.spotify.com/artist/3UkHwtr4k4cCQRHZfKsGpk"
         }
       ],
-      "duration_ms": 299053,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/2ILBVN8gvEXo7VqluceYr0"
+      "duration_ms": 214631,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/7IHqxgfRBmjWe0XErLOEsS"
     },
     {
       "added_at": null,

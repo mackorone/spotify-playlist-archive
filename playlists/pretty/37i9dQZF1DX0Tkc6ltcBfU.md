@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south: Gunna
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,245,879 likes - 98 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,245,939 likes - 98 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [GOOD CREDIT](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
+| 1 | [GOOD CREDIT \(with Kendrick Lamar\)](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
 | 2 | [2AM](https://open.spotify.com/track/26TX1oZbaDeKxfTYDclSAo) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 3:04 |
 | 3 | [Help Me](https://open.spotify.com/track/487JCvAXVblflZyDJn3fSp) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Help Me](https://open.spotify.com/album/01JuX8fEX5ACudymzCB3O3) | 3:01 |
 | 4 | [LIL DEMON](https://open.spotify.com/track/3aCPResPDNae3pXTocGpYe) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MIXTAPE PLUTO](https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54) | 2:19 |

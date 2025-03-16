@@ -1,6 +1,6 @@
 {
   "description": "New music from Chappell Roan, Selena Gomez & Benny Blanco, Lil Nas X, HAIM, and more!",
-  "num_followers": 4320193,
+  "num_followers": 4320972,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
@@ -34,10 +34,14 @@
         {
           "name": "Playboi Carti",
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
       "duration_ms": 190373,
-      "name": "GOOD CREDIT",
+      "name": "GOOD CREDIT (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok"
     },
     {
@@ -367,7 +371,7 @@
     {
       "added_at": "2025-03-14 04:13:39",
       "album": {
-        "name": "Kerosene (Expanded Edition)",
+        "name": "Kerosene (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3m9iIzYKrmMa4tLjASBqFs"
       },
       "artists": [
@@ -909,7 +913,7 @@
         }
       ],
       "duration_ms": 252767,
-      "name": "It Gets Better (Forever Mix)",
+      "name": "It Gets Better - Edit",
       "url": "https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 
 > Sun, sand, salt water and the perfect songs to match.
 
-[Spotify](https://open.spotify.com/user/spotify) - 589 likes - 85 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 594 likes - 85 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 11 | [So Caught Up](https://open.spotify.com/track/6tV62HWWPFkSqf7lh5pPwi) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT) | 3:48 |
 | 12 | [nowhere fast](https://open.spotify.com/track/3wBxFk7joZ29YP1k7rZJwo) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [nowhere fast](https://open.spotify.com/album/3WQNCqAA8GVtXw1R3mfQqD) | 2:24 |
 | 13 | [We're Going Home](https://open.spotify.com/track/4odVs48WBfjEDrc1D7t5B9) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR) | 3:27 |
-| 14 | [Waves \- Acoustic](https://open.spotify.com/track/6GL1MiIvlrAm3hTvHzQJLl) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Waves \(Acoustic\)](https://open.spotify.com/album/5BYoZ57Q8kvu7WhL00jZJ5) | 4:08 |
-| 15 | [Drift](https://open.spotify.com/track/2y14MWseQnWXApjJjNCPm8) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [GG](https://open.spotify.com/album/29zHxPajPzaDJ4CgMVWiHF) | 4:03 |
+| 14 | [Drift](https://open.spotify.com/track/2y14MWseQnWXApjJjNCPm8) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [GG](https://open.spotify.com/album/29zHxPajPzaDJ4CgMVWiHF) | 4:03 |
+| 15 | [Waves \- Acoustic](https://open.spotify.com/track/6GL1MiIvlrAm3hTvHzQJLl) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Waves \(Acoustic\)](https://open.spotify.com/album/5BYoZ57Q8kvu7WhL00jZJ5) | 4:08 |
 | 16 | [Songbird](https://open.spotify.com/track/1Up0tMGTc3FKasn7WMrioE) | [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Tea & Sympathy](https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I) | 2:36 |
 | 17 | [Resolution](https://open.spotify.com/track/76QK6gTaW2bBV47FDe3RPK) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Resolution \- EP](https://open.spotify.com/album/22aja1RtjRSzdKRuwx0Aog) | 4:16 |
 | 18 | [Pretty Lady](https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4) | 4:37 |
@@ -57,10 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 47 | [Talk It Out](https://open.spotify.com/track/3I6CQSc5hMvU4nh2DcTDBz) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Talk It Out](https://open.spotify.com/album/1hK8ETmd5Dq4FOA5kWkGG6) | 3:10 |
 | 48 | [Tora](https://open.spotify.com/track/2RdTAjuyXApYuZhQh7kypm) | [Ra Ra Viper](https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId) | [Pound For Pound](https://open.spotify.com/album/7HW83aQ4OFpMsg6W8hmROw) | 3:02 |
 | 49 | [Betterman](https://open.spotify.com/track/1SwwSZY0ZLvNf14BADfpQT) | [John Butler Trio](https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt) | [Three](https://open.spotify.com/album/3xwZOyRWoTxdx2w3nKs7a2) | 8:19 |
-| 50 | [Be About You](https://open.spotify.com/track/29HSkfe5ITejb0MXhroHtG) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Sponge Cake](https://open.spotify.com/album/4kN92M0macg1SPS4aeq62i) | 4:08 |
-| 51 | [The Breach](https://open.spotify.com/track/1rSrMVQbnYWihopHxGXhOD) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [The Breach EP](https://open.spotify.com/album/6qjhxh5olXQ1y7T4PV2qSw) | 4:13 |
-| 52 | [Wolves](https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Running With The Wolves](https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je) | 2:43 |
-| 53 | [Lighthouse](https://open.spotify.com/track/54aDjRpdM3EQUEkFolmsAP) | [The Waifs](https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz) | [Up All Night](https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n) | 3:21 |
+| 50 | [The Breach](https://open.spotify.com/track/1rSrMVQbnYWihopHxGXhOD) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [The Breach EP](https://open.spotify.com/album/6qjhxh5olXQ1y7T4PV2qSw) | 4:13 |
+| 51 | [Be About You](https://open.spotify.com/track/29HSkfe5ITejb0MXhroHtG) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Sponge Cake](https://open.spotify.com/album/4kN92M0macg1SPS4aeq62i) | 4:08 |
+| 52 | [Lighthouse](https://open.spotify.com/track/54aDjRpdM3EQUEkFolmsAP) | [The Waifs](https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz) | [Up All Night](https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n) | 3:21 |
+| 53 | [Wolves](https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Running With The Wolves](https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je) | 2:43 |
 | 54 | [The Summer](https://open.spotify.com/track/2xN6Xkcx09kPPlNR7gPZRV) | [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH) | [Chimney's Afire](https://open.spotify.com/album/4PucMCxh5r2SNaAtZNcvzw) | 3:23 |
 | 55 | [Roll Up Your Sleeves](https://open.spotify.com/track/7nrPyQ37J2BO24uoleVp35) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Roll Up Your Sleeves](https://open.spotify.com/album/68GTGs9r1hrO1SG9yG5uwb) | 3:04 |
 | 56 | [Window to the Sky](https://open.spotify.com/track/6jAyxL48SmPElMhu2dl0cg) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [Silence/Win](https://open.spotify.com/album/69ggXQi589p8Nv08KRPXwD) | 4:08 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 81 | [Middle Of The Hill](https://open.spotify.com/track/0MIoXOgLcUKRJEtb1rKh17) | [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH) | [Memories & Dust](https://open.spotify.com/album/0ovM6UlAXcNWgLygQfX6xE) | 2:27 |
 | 82 | [Tahitian Blue](https://open.spotify.com/track/7a1tbfGu5FEaDDSleUFBn0) | [John Butler Trio](https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt) | [HOME](https://open.spotify.com/album/2O6hJP7lu68hxDvbkXwtOK) | 4:15 |
 | 83 | [Green Limousine](https://open.spotify.com/track/4lMG8ihd1XUJthjdUhc6hR) | [The Badloves](https://open.spotify.com/artist/64czVVta8TqMAqkZ0M0Avc) | [Get On Board](https://open.spotify.com/album/7wMveqZ5OKqz5cFxaJ8PHq) | 3:45 |
-| 84 | [We Will Run](https://open.spotify.com/track/1nKFzsCP6gDbA9V5qmNrXH) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/2onJzQg0nmBE75fz7HtaEV) | 4:15 |
+| 84 | [That Place](https://open.spotify.com/track/1s9N5E3uF07BMuwP83kgIU) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [That Place](https://open.spotify.com/album/26Y8e2ikaQtEVgZTFPtkvi) | 4:38 |
 | 85 | [California](https://open.spotify.com/track/6OBFODmA2J6gRXtuiel6U2) | [Nick Cunningham](https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt) | [California](https://open.spotify.com/album/6BUjt6TadgjtSssORlZypB) | 3:48 |
 
 Snapshot ID: `Z2okmwAAAACqPVOJKJnDmMajikTIp93p`

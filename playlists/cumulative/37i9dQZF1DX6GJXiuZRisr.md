@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-570 songs - 1 day 15 hr 45 min
+571 songs - 1 day 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,6 +442,7 @@
 | [Solace](https://open.spotify.com/track/0feNo72QolanySmddGhGkc) | [Fangs](https://open.spotify.com/artist/4uwjtp0lY1WNyPdWoGzPf6) | [Solace](https://open.spotify.com/album/53frXkObbpOpfRImwR9O2Q) | 4:40 | 2021-05-07 | 2022-05-31 |
 | [Solace](https://open.spotify.com/track/5ERoUfNfwvNcFCnV0KH9Wu) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Textures](https://open.spotify.com/album/60phFMk7gOvMHD5Bro6qXg) | 4:50 | 2021-05-07 | 2022-07-22 |
 | [Soloma](https://open.spotify.com/track/3IPbBrbr8oO8oWyJIZTu8r) | [Paraleven](https://open.spotify.com/artist/0oWk2R8lkNaOsFSSxMRwUr) | [Soloma](https://open.spotify.com/album/4SQIO1v71xFw6n0YAgHkur) | 4:34 | 2021-05-07 | 2022-07-04 |
+| [Somebody To Love](https://open.spotify.com/track/6SPWJ9hUFMA69MaGwUsRJi) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Somebody To Love](https://open.spotify.com/album/0H4wuU2aIXCZJCSL2E5y8W) | 3:50 | 2025-03-14 |  |
 | [Something To Hold On To \(feat\. Clementine Douglas\)](https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Something To Hold On To \(feat\. Clementine Douglas\)](https://open.spotify.com/album/4GwlK3OyqMu3KZ2Yrj6sRI) | 2:55 | 2023-07-28 |  |
 | [Sonoma](https://open.spotify.com/track/0YrQuaYeWmUnZRfPFEYC5N) | [Simon Doty](https://open.spotify.com/artist/0NznnEmGCRqungT5a57GG3), [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [Sonoma / Luna](https://open.spotify.com/album/0mwvQSu6tdpSrjLYjHgqNZ) | 3:52 | 2021-05-07 | 2022-04-18 |
 | [Sorry \(with Madonna\)](https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Darmon](https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8) | [Sorry \(with Madonna\)](https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn) | 2:41 | 2023-02-10 | 2025-01-25 |
@@ -547,7 +548,7 @@
 | [Voye](https://open.spotify.com/track/54GMmWJvKU8o1BrGB1NaqO) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Voye/Culture Is Chaos](https://open.spotify.com/album/5SGkJqdh31fCP50j2boyrv) | 4:34 | 2021-05-07 | 2022-04-17 |
 | [Waiting For You](https://open.spotify.com/track/67cSFn3SLBoKqGW20bswdw) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Waiting For You](https://open.spotify.com/album/6nNwHKu6VPH8XNSoLXOyGg) | 3:45 | 2021-07-30 | 2022-08-15 |
 | [Walk The Plank](https://open.spotify.com/track/2UOLMbCUDhHWWXxY3P8Pzk) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Childish\(ish\)](https://open.spotify.com/album/1dHOZWCFxMPDer1fKN2uOZ) | 4:45 | 2025-01-10 |  |
-| [Want You](https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Want You](https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc) | 3:58 | 2024-05-31 |  |
+| [Want You](https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Want You](https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc) | 3:58 | 2024-05-31 | 2025-03-16 |
 | [Warehouse](https://open.spotify.com/track/2wER3gVMMIWPusxOjoWlcQ) | [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic) | [Warehouse](https://open.spotify.com/album/5nMBgawIQbyTWNeQ5HVXxK) | 4:06 | 2021-05-07 | 2022-08-15 |
 | [Warrior](https://open.spotify.com/track/5cjbk2qAP4pWvntOySll30) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Warrior](https://open.spotify.com/album/6Ajxy3TSyqd7mZJI4QELXl) | 3:25 | 2024-04-26 | 2024-05-25 |
 | [Waves of the Soul](https://open.spotify.com/track/3pIFT7NY5IjtUoLlD1kWOt) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Waves of the Soul](https://open.spotify.com/album/3j0ZhOcH3kccfgsVKUa7mL) | 3:32 | 2022-06-03 | 2022-07-29 |

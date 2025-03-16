@@ -1335,6 +1335,24 @@
     },
     {
       "album": {
+        "name": "Lenny's Toddler Techno (Vol1)",
+        "url": "https://open.spotify.com/album/4iIfA12jhRw38vWhJdpJ4y"
+      },
+      "artists": [
+        {
+          "name": "Lenny Pearce",
+          "url": "https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73200,
+      "name": "If You're Happy & You Know It (TODDLER TECHNO)",
+      "url": "https://open.spotify.com/track/3Z31bfKlaANPwxRaMJgy92"
+    },
+    {
+      "album": {
         "name": "Big Don's Brand New Beat",
         "url": "https://open.spotify.com/album/3p6hybEOJ67tTbLYUd2i2v"
       },
@@ -1690,7 +1708,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 165320,
       "name": "My Jam",
       "url": "https://open.spotify.com/track/4r5ibfNn0SOvfF2Dh1znnH"

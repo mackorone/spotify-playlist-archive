@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: shego.",
-  "num_followers": 25261,
+  "num_followers": 25277,
   "original_name": "Rock 2025",
   "owner": {
     "name": "Spotify",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-03-13 23:00:18",
       "album": {
-        "name": "Joven Ciudad",
-        "url": "https://open.spotify.com/album/0BEAUvrAwpEErJEB6w0Mb6"
-      },
-      "artists": [
-        {
-          "name": "el diablo de shanghai",
-          "url": "https://open.spotify.com/artist/6SOoncS0Wc2j36swbwzSWt"
-        }
-      ],
-      "duration_ms": 191691,
-      "name": "Joven Ciudad",
-      "url": "https://open.spotify.com/track/3ozDtfXkjFUlhXjqFGdGzN"
-    },
-    {
-      "added_at": "2025-03-13 23:00:18",
-      "album": {
         "name": "Decid\u00ed Desaparecer",
         "url": "https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 163001,
       "name": "Decid\u00ed Desaparecer",
       "url": "https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH"
+    },
+    {
+      "added_at": "2025-03-13 23:00:18",
+      "album": {
+        "name": "Joven Ciudad",
+        "url": "https://open.spotify.com/album/0BEAUvrAwpEErJEB6w0Mb6"
+      },
+      "artists": [
+        {
+          "name": "el diablo de shanghai",
+          "url": "https://open.spotify.com/artist/6SOoncS0Wc2j36swbwzSWt"
+        }
+      ],
+      "duration_ms": 191691,
+      "name": "Joven Ciudad",
+      "url": "https://open.spotify.com/track/3ozDtfXkjFUlhXjqFGdGzN"
     },
     {
       "added_at": "2025-03-13 23:00:18",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2025-03-13 23:00:18",
       "album": {
+        "name": "Tu nombre es una puerta por cerrar",
+        "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "duration_ms": 244164,
+      "name": "Tu nombre es una puerta por cerrar",
+      "url": "https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke"
+    },
+    {
+      "added_at": "2025-03-13 23:00:18",
+      "album": {
         "name": "La Casa Magn\u00e9tica",
         "url": "https://open.spotify.com/album/1ExWEPwei4vY3T3OFFs5z6"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 184356,
       "name": "La Casa Magn\u00e9tica",
       "url": "https://open.spotify.com/track/3eDJEUMt8OoKlryZbXqTMC"
-    },
-    {
-      "added_at": "2025-03-13 23:00:18",
-      "album": {
-        "name": "Mensajes Pendientes",
-        "url": "https://open.spotify.com/album/73E9As1egcpg2v1Qjh6fG0"
-      },
-      "artists": [
-        {
-          "name": "Biela",
-          "url": "https://open.spotify.com/artist/3V4eTmIv1fY1zTRSOFOjEH"
-        }
-      ],
-      "duration_ms": 192891,
-      "name": "Mensajes Pendientes",
-      "url": "https://open.spotify.com/track/0axlkgVXda0uDqRiF6H0pp"
     },
     {
       "added_at": "2025-03-13 23:00:18",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2025-03-13 23:00:18",
       "album": {
-        "name": "Tu nombre es una puerta por cerrar",
-        "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
+        "name": "Mensajes Pendientes",
+        "url": "https://open.spotify.com/album/73E9As1egcpg2v1Qjh6fG0"
       },
       "artists": [
         {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+          "name": "Biela",
+          "url": "https://open.spotify.com/artist/3V4eTmIv1fY1zTRSOFOjEH"
         }
       ],
-      "duration_ms": 244164,
-      "name": "Tu nombre es una puerta por cerrar",
-      "url": "https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke"
+      "duration_ms": 192891,
+      "name": "Mensajes Pendientes",
+      "url": "https://open.spotify.com/track/0axlkgVXda0uDqRiF6H0pp"
     },
     {
       "added_at": "2025-03-13 23:00:18",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2025-03-13 23:00:18",
       "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/3eSIDuyQP5A5qAXMxlzwMt"
+      },
+      "artists": [
+        {
+          "name": "Santa Engracia",
+          "url": "https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/2EUqLIfO9fhqb6RCWNIj8B"
+    },
+    {
+      "added_at": "2025-03-13 23:00:18",
+      "album": {
         "name": "Alba",
         "url": "https://open.spotify.com/album/5HKIjv0prAqGWDjyiQpHtw"
       },
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2025-03-13 23:00:18",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/3eSIDuyQP5A5qAXMxlzwMt"
-      },
-      "artists": [
-        {
-          "name": "Santa Engracia",
-          "url": "https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/2EUqLIfO9fhqb6RCWNIj8B"
-    },
-    {
-      "added_at": "2025-03-13 23:00:18",
-      "album": {
         "name": "Romance Extremo",
         "url": "https://open.spotify.com/album/1kN9S9rysBtLdkh9sdzHj5"
       },
@@ -1643,22 +1643,6 @@
       "duration_ms": 144179,
       "name": "Romance Extremo",
       "url": "https://open.spotify.com/track/2MA3xS8Jeyg4TRqTESwEwp"
-    },
-    {
-      "added_at": "2025-03-13 23:00:18",
-      "album": {
-        "name": "T\u00fa Crees",
-        "url": "https://open.spotify.com/album/3PBDRxRIbpuu1PoXX9yAVC"
-      },
-      "artists": [
-        {
-          "name": "Joven Dolores",
-          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
-        }
-      ],
-      "duration_ms": 213676,
-      "name": "T\u00fa Crees",
-      "url": "https://open.spotify.com/track/6qTCDNZq0LUbq1XGmlMait"
     },
     {
       "added_at": "2025-03-13 23:00:18",
@@ -1691,6 +1675,22 @@
       "duration_ms": 197253,
       "name": "Huella de ti",
       "url": "https://open.spotify.com/track/6SmYVKgtUd4jsZdkAnnA1b"
+    },
+    {
+      "added_at": "2025-03-13 23:00:18",
+      "album": {
+        "name": "Rob Gordon",
+        "url": "https://open.spotify.com/album/18I9Tqw9GfujPFUP3zZ2CR"
+      },
+      "artists": [
+        {
+          "name": "Becarios",
+          "url": "https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU"
+        }
+      ],
+      "duration_ms": 123309,
+      "name": "Rob Gordon",
+      "url": "https://open.spotify.com/track/40O5fHVDXbesbgnNOyJdy7"
     }
   ],
   "unique_name": "Rock 2025",

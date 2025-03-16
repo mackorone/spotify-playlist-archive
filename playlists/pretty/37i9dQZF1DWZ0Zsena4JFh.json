@@ -1,6 +1,6 @@
 {
   "description": "Un parque de diversiones para gustos inconformes y sofisticados. HAIM en portada.",
-  "num_followers": 630193,
+  "num_followers": 630155,
   "original_name": "Indielandia",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-03-14 06:00:06",
       "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 183192,
-      "name": "Asshole",
-      "url": "https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH"
-    },
-    {
-      "added_at": "2025-03-14 06:00:06",
-      "album": {
         "name": "Chemistry",
         "url": "https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 284137,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE"
+    },
+    {
+      "added_at": "2025-03-14 06:00:06",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 183192,
+      "name": "Asshole",
+      "url": "https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH"
     },
     {
       "added_at": "2025-03-14 06:00:06",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-03-14 06:00:06",
       "album": {
-        "name": "You're All I Got / So Long",
-        "url": "https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 202865,
-      "name": "You're All I Got",
-      "url": "https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88"
-    },
-    {
-      "added_at": "2025-03-14 06:00:06",
-      "album": {
         "name": "Dream Woman",
         "url": "https://open.spotify.com/album/6bbtoTI64tkjiOkDNTteig"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 248601,
       "name": "Dream Woman",
       "url": "https://open.spotify.com/track/5R6hCi9TVatMsM0UNqhZKA"
+    },
+    {
+      "added_at": "2025-03-14 06:00:06",
+      "album": {
+        "name": "You're All I Got / So Long",
+        "url": "https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 202865,
+      "name": "You're All I Got",
+      "url": "https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88"
     },
     {
       "added_at": "2025-03-14 06:00:06",
@@ -791,38 +791,18 @@
     {
       "added_at": "2025-03-14 06:00:06",
       "album": {
-        "name": "Ask That God (Deluxe)",
-        "url": "https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e"
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO"
       },
       "artists": [
         {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        },
-        {
-          "name": "Lindsey Buckingham",
-          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
         }
       ],
-      "duration_ms": 205966,
-      "name": "Somebody's Son (feat. Lindsey Buckingham)",
-      "url": "https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU"
-    },
-    {
-      "added_at": "2025-03-14 06:00:06",
-      "album": {
-        "name": "X's",
-        "url": "https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 183761,
-      "name": "X's",
-      "url": "https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f"
+      "duration_ms": 176026,
+      "name": "Adagio",
+      "url": "https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8"
     },
     {
       "added_at": "2025-03-14 06:00:06",
@@ -843,6 +823,26 @@
       "duration_ms": 193226,
       "name": "Disco Nap",
       "url": "https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g"
+    },
+    {
+      "added_at": "2025-03-14 06:00:06",
+      "album": {
+        "name": "Ask That God (Deluxe)",
+        "url": "https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        {
+          "name": "Lindsey Buckingham",
+          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
+        }
+      ],
+      "duration_ms": 205966,
+      "name": "Somebody's Son (feat. Lindsey Buckingham)",
+      "url": "https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU"
     }
   ],
   "unique_name": "Indielandia",

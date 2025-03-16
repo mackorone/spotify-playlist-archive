@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 148043,
+  "num_followers": 148053,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
+        "name": "Takes One To Know One",
+        "url": "https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 167996,
+      "name": "Takes One To Know One",
+      "url": "https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
         "name": "Cobra (Rock Remix) [feat. Spiritbox]",
         "url": "https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 186521,
       "name": "Cobra (Rock Remix) [feat. Spiritbox]",
       "url": "https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
-        "name": "Takes One To Know One",
-        "url": "https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 167996,
-      "name": "Takes One To Know One",
-      "url": "https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Want Me",
-        "url": "https://open.spotify.com/album/26fVz5K8XbNM0fNcQnaO3s"
-      },
-      "artists": [
-        {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
-        }
-      ],
-      "duration_ms": 163391,
-      "name": "Want Me",
-      "url": "https://open.spotify.com/track/5Czd9hqOj4uvwpieRmVlTw"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "Sleepwalking",
         "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 187140,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Want Me",
+        "url": "https://open.spotify.com/album/26fVz5K8XbNM0fNcQnaO3s"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "duration_ms": 163391,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/5Czd9hqOj4uvwpieRmVlTw"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "WDYK",
-        "url": "https://open.spotify.com/album/4noogkQJAT1Y8RMs5KFJ37"
-      },
-      "artists": [
-        {
-          "name": "Jordan Harvey",
-          "url": "https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW"
-        }
-      ],
-      "duration_ms": 191440,
-      "name": "WDYK",
-      "url": "https://open.spotify.com/track/4YyCXnv5MWo9XNUQmuvAbb"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "Final Nail (with Charlotte Sands)",
         "url": "https://open.spotify.com/album/41yGbbLZbhBJqjSBuoOoG4"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 150404,
       "name": "Final Nail (with Charlotte Sands)",
       "url": "https://open.spotify.com/track/6kG3qEXGFZCC4OfGCRBW15"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "WDYK",
+        "url": "https://open.spotify.com/album/4noogkQJAT1Y8RMs5KFJ37"
+      },
+      "artists": [
+        {
+          "name": "Jordan Harvey",
+          "url": "https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW"
+        }
+      ],
+      "duration_ms": 191440,
+      "name": "WDYK",
+      "url": "https://open.spotify.com/track/4YyCXnv5MWo9XNUQmuvAbb"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -1739,38 +1739,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "If Looks Could Kill",
-        "url": "https://open.spotify.com/album/2bVRi8dtpCmOOsZuYcPN1j"
-      },
-      "artists": [
-        {
-          "name": "Chrissy Costanza",
-          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "If Looks Could Kill",
-      "url": "https://open.spotify.com/track/1gZh9faxR4LZepKZzpxAsw"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
-        "name": "Basement",
-        "url": "https://open.spotify.com/album/0hWOLHDlMwS0hDhf1ITHVz"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 204147,
-      "name": "Basement",
-      "url": "https://open.spotify.com/track/2acM5LqZRO1Tsv2PFKOXKy"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "ALL CAPS (feat. John the Ghost)",
         "url": "https://open.spotify.com/album/0IZ7BqP4lOHnDM7VUsCE8C"
       },
@@ -1787,6 +1755,22 @@
       "duration_ms": 184910,
       "name": "ALL CAPS (feat. John the Ghost)",
       "url": "https://open.spotify.com/track/2N9j5SNc6cQMYpUeyXYlBV"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Basement",
+        "url": "https://open.spotify.com/album/0hWOLHDlMwS0hDhf1ITHVz"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 204147,
+      "name": "Basement",
+      "url": "https://open.spotify.com/track/2acM5LqZRO1Tsv2PFKOXKy"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -1835,6 +1819,22 @@
       "duration_ms": 173132,
       "name": "Don't Get Me Wrong",
       "url": "https://open.spotify.com/track/386DEQx94L5LVXKw4HtSdN"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "If Looks Could Kill",
+        "url": "https://open.spotify.com/album/2bVRi8dtpCmOOsZuYcPN1j"
+      },
+      "artists": [
+        {
+          "name": "Chrissy Costanza",
+          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "If Looks Could Kill",
+      "url": "https://open.spotify.com/track/1gZh9faxR4LZepKZzpxAsw"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2055,18 +2055,18 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Addicted To You",
-        "url": "https://open.spotify.com/album/58N9TKZKoQs7cNLiFEouEE"
+        "name": "Dead To Me",
+        "url": "https://open.spotify.com/album/1mwyZwRToR8k5V7ADCT31H"
       },
       "artists": [
         {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
         }
       ],
-      "duration_ms": 187449,
-      "name": "Addicted To You",
-      "url": "https://open.spotify.com/track/6ukeayt0xBnECOOesWOAm7"
+      "duration_ms": 157504,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/1cEml7iH5h7cqd8Dn4HzdF"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Dead To Me",
-        "url": "https://open.spotify.com/album/1mwyZwRToR8k5V7ADCT31H"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 157504,
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/1cEml7iH5h7cqd8Dn4HzdF"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "everybody hates me",
         "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 120287,
       "name": "everybody hates me",
       "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Addicted To You",
+        "url": "https://open.spotify.com/album/58N9TKZKoQs7cNLiFEouEE"
+      },
+      "artists": [
+        {
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+        }
+      ],
+      "duration_ms": 187449,
+      "name": "Addicted To You",
+      "url": "https://open.spotify.com/track/6ukeayt0xBnECOOesWOAm7"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2151,6 +2151,22 @@
       "duration_ms": 204632,
       "name": "Maybe You Saved Me",
       "url": "https://open.spotify.com/track/6pJsukg4tYbHfE01yU40Qr"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/3WlWHNK3j3vmMfR66YjNb2"
+      },
+      "artists": [
+        {
+          "name": "Plain White T's",
+          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+        }
+      ],
+      "duration_ms": 162986,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/79rweGcDxRZTnEorOLhg4L"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2219,18 +2235,18 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/3WlWHNK3j3vmMfR66YjNb2"
+        "name": "Red Lights / Ireland",
+        "url": "https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR"
       },
       "artists": [
         {
-          "name": "Plain White T's",
-          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+          "name": "Picture This",
+          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
         }
       ],
-      "duration_ms": 162986,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/79rweGcDxRZTnEorOLhg4L"
+      "duration_ms": 147000,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2267,22 +2283,6 @@
       "duration_ms": 191292,
       "name": "Death Grip",
       "url": "https://open.spotify.com/track/6uU6HSA2QLqNy6OIyaCbkb"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
-        "name": "Red Lights / Ireland",
-        "url": "https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR"
-      },
-      "artists": [
-        {
-          "name": "Picture This",
-          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Red Lights",
-      "url": "https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "XXL",
-        "url": "https://open.spotify.com/album/4K0wKLFE0LxcQAmcmVvd0X"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 206706,
-      "name": "XXL",
-      "url": "https://open.spotify.com/track/7AftUxnj6ngHrWiT29xwKK"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "Other Side (feat. Charlotte Sands)",
         "url": "https://open.spotify.com/album/7fN1RNlLuPuOjEl4tJW2PP"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 197160,
       "name": "Other Side (feat. Charlotte Sands)",
       "url": "https://open.spotify.com/track/23aw0goM4v4fmIzA8AaBgo"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "XXL",
+        "url": "https://open.spotify.com/album/4K0wKLFE0LxcQAmcmVvd0X"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 206706,
+      "name": "XXL",
+      "url": "https://open.spotify.com/track/7AftUxnj6ngHrWiT29xwKK"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2539,18 +2539,18 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Love Raider (Spotify Singles)",
-        "url": "https://open.spotify.com/album/17rgakkY1FM9LQrpmO7GzK"
+        "name": "hurt like it should",
+        "url": "https://open.spotify.com/album/2z9tnFVrBzgvj1NR98ccBY"
       },
       "artists": [
         {
-          "name": "DE'WAYNE",
-          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+          "name": "renforshort",
+          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Love Raider - Spotify Singles",
-      "url": "https://open.spotify.com/track/5qs18YUcpxybNfonNNjodk"
+      "duration_ms": 203467,
+      "name": "hurt like it should",
+      "url": "https://open.spotify.com/track/1GeQUUhVdGjPZTSONOhkmr"
     }
   ],
   "unique_name": "Pop Rock",

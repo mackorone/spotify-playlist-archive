@@ -1,6 +1,6 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 2288929,
+  "num_followers": 2288931,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Waiting to Spill",
+        "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
+      },
+      "artists": [
+        {
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+        }
+      ],
+      "duration_ms": 197746,
+      "name": "Snowbank Blues",
+      "url": "https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "All The Little Lights (Anniversary Edition)",
         "url": "https://open.spotify.com/album/25bKp06DTIMODKnzXQf4gR"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 256986,
       "name": "Let Her Go (feat. Ed Sheeran) - Anniversary Edition",
       "url": "https://open.spotify.com/track/1nHKI4L5pWrN5CUvW07nHP"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Waiting to Spill",
-        "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
-      },
-      "artists": [
-        {
-          "name": "The Backseat Lovers",
-          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
-        }
-      ],
-      "duration_ms": 197746,
-      "name": "Snowbank Blues",
-      "url": "https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Nina Cried Power - EP",
-        "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 300706,
-      "name": "Shrike",
-      "url": "https://open.spotify.com/track/5uIYONgpUQ7t0v7D6CTMBt"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 222293,
       "name": "Spirit Cold",
       "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Nina Cried Power - EP",
+        "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 300706,
+      "name": "Shrike",
+      "url": "https://open.spotify.com/track/5uIYONgpUQ7t0v7D6CTMBt"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 312066,
-      "name": "Delicate",
-      "url": "https://open.spotify.com/track/5mb6SzBnxv1ywFSH9V3uxd"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 280827,
       "name": "When Doves Cry - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 312066,
+      "name": "Delicate",
+      "url": "https://open.spotify.com/track/5mb6SzBnxv1ywFSH9V3uxd"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Living Room Worktapes",
-        "url": "https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3"
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
       "artists": [
         {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
         }
       ],
-      "duration_ms": 243898,
-      "name": "Where You Are - Acoustic",
-      "url": "https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb"
+      "duration_ms": 244960,
+      "name": "Horse to Water",
+      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -723,34 +723,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+        "name": "Living Room Worktapes",
+        "url": "https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3"
       },
       "artists": [
         {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
         }
       ],
-      "duration_ms": 244960,
-      "name": "Horse to Water",
-      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "The Meetings of the Waters",
-        "url": "https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ"
-      },
-      "artists": [
-        {
-          "name": "Fionn Regan",
-          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
-        }
-      ],
-      "duration_ms": 300277,
-      "name": "The Meetings of the Waters",
-      "url": "https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN"
+      "duration_ms": 243898,
+      "name": "Where You Are - Acoustic",
+      "url": "https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -767,6 +751,22 @@
       "duration_ms": 208746,
       "name": "Morning",
       "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "The Meetings of the Waters",
+        "url": "https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "duration_ms": 300277,
+      "name": "The Meetings of the Waters",
+      "url": "https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Build Me Up From Bones",
-        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 216173,
-      "name": "Build Me Up From Bones",
-      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Like I Used To (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3"
       },
@@ -923,18 +907,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "An Alien in Minneapolis",
-        "url": "https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk"
+        "name": "Build Me Up From Bones",
+        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
       },
       "artists": [
         {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 259607,
-      "name": "An Alien In Minneapolis - Edit",
-      "url": "https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK"
+      "duration_ms": 216173,
+      "name": "Build Me Up From Bones",
+      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -955,18 +939,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Big Bend (An Original Soundtrack for Public Television)",
-        "url": "https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv"
+        "name": "An Alien in Minneapolis",
+        "url": "https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk"
       },
       "artists": [
         {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
         }
       ],
-      "duration_ms": 125408,
-      "name": "Woodpecker",
-      "url": "https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ"
+      "duration_ms": 259607,
+      "name": "An Alien In Minneapolis - Edit",
+      "url": "https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -983,6 +967,22 @@
       "duration_ms": 254200,
       "name": "Feel Alive Again",
       "url": "https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Big Bend (An Original Soundtrack for Public Television)",
+        "url": "https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv"
+      },
+      "artists": [
+        {
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+        }
+      ],
+      "duration_ms": 125408,
+      "name": "Woodpecker",
+      "url": "https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Those Nights",
-        "url": "https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz"
-      },
-      "artists": [
-        {
-          "name": "Carla Rego",
-          "url": "https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk"
-        }
-      ],
-      "duration_ms": 153979,
-      "name": "Those Nights",
-      "url": "https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 304226,
       "name": "Emmylou - Spotify Sessions",
       "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Those Nights",
+        "url": "https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz"
+      },
+      "artists": [
+        {
+          "name": "Carla Rego",
+          "url": "https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk"
+        }
+      ],
+      "duration_ms": 153979,
+      "name": "Those Nights",
+      "url": "https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "The Ash & Clay",
-        "url": "https://open.spotify.com/album/151a4bghgq5jgbaZt96p71"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 244520,
-      "name": "Whisper In Her Ear",
-      "url": "https://open.spotify.com/track/5YuHMfznSrE6qsKGQzcAnO"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Golden (Acoustic)",
         "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 307312,
       "name": "Golden (Acoustic)",
       "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "The Ash & Clay",
+        "url": "https://open.spotify.com/album/151a4bghgq5jgbaZt96p71"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 244520,
+      "name": "Whisper In Her Ear",
+      "url": "https://open.spotify.com/track/5YuHMfznSrE6qsKGQzcAnO"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1279,38 +1279,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Rolling On",
-        "url": "https://open.spotify.com/album/0LXGdiWrkYMuLxfRbGW4FX"
-      },
-      "artists": [
-        {
-          "name": "Ryan Harris",
-          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
-        }
-      ],
-      "duration_ms": 176748,
-      "name": "Rolling On",
-      "url": "https://open.spotify.com/track/5QZHOS6ipp8liMXtvzIscD"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Colony of Bees",
-        "url": "https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU"
-      },
-      "artists": [
-        {
-          "name": "Beta Radio",
-          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
-        }
-      ],
-      "duration_ms": 219480,
-      "name": "On the Frame",
-      "url": "https://open.spotify.com/track/4ZeCZyI1Zhh1tVkThl34px"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Drugstore Houses",
         "url": "https://open.spotify.com/album/1tCGIJAUNK3k6JVRL62UO6"
       },
@@ -1339,6 +1307,38 @@
       "duration_ms": 124034,
       "name": "Inside the stone",
       "url": "https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Colony of Bees",
+        "url": "https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU"
+      },
+      "artists": [
+        {
+          "name": "Beta Radio",
+          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+        }
+      ],
+      "duration_ms": 219480,
+      "name": "On the Frame",
+      "url": "https://open.spotify.com/track/4ZeCZyI1Zhh1tVkThl34px"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Rolling On",
+        "url": "https://open.spotify.com/album/0LXGdiWrkYMuLxfRbGW4FX"
+      },
+      "artists": [
+        {
+          "name": "Ryan Harris",
+          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
+        }
+      ],
+      "duration_ms": 176748,
+      "name": "Rolling On",
+      "url": "https://open.spotify.com/track/5QZHOS6ipp8liMXtvzIscD"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Bashed Out",
-        "url": "https://open.spotify.com/album/7DbfCArRXJvf4cgKWPUHIv"
-      },
-      "artists": [
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "Bashed Out",
-      "url": "https://open.spotify.com/track/1chmZUBdfxoLWN1LCZ6HLO"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "howling",
         "url": "https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 213720,
       "name": "howling",
       "url": "https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Bashed Out",
+        "url": "https://open.spotify.com/album/7DbfCArRXJvf4cgKWPUHIv"
+      },
+      "artists": [
+        {
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+        }
+      ],
+      "duration_ms": 221120,
+      "name": "Bashed Out",
+      "url": "https://open.spotify.com/track/1chmZUBdfxoLWN1LCZ6HLO"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "The Life",
+        "url": "https://open.spotify.com/album/0P7elKGRg3sqrIoxF5gHqw"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "duration_ms": 146873,
+      "name": "The Life",
+      "url": "https://open.spotify.com/track/6v2NgEbmGFOulY74emLe6u"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Manly Man",
         "url": "https://open.spotify.com/album/79topiJ4Bj0SRE5XiBkpuH"
       },
@@ -1903,22 +1919,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "The Life",
-        "url": "https://open.spotify.com/album/0P7elKGRg3sqrIoxF5gHqw"
-      },
-      "artists": [
-        {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        }
-      ],
-      "duration_ms": 146873,
-      "name": "The Life",
-      "url": "https://open.spotify.com/track/6v2NgEbmGFOulY74emLe6u"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Twin",
         "url": "https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq"
       },
@@ -1935,18 +1935,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Day Plan",
-        "url": "https://open.spotify.com/album/5pgIguDeta2y82ccJTWK3w"
+        "name": "The Doubles",
+        "url": "https://open.spotify.com/album/1qGM9zumfbz1UjQ1DQO83V"
       },
       "artists": [
         {
-          "name": "Izzy Heltai",
-          "url": "https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF"
+          "name": "Matt the Electrician",
+          "url": "https://open.spotify.com/artist/4OqDaxbU5qV78AIr6HneTn"
         }
       ],
-      "duration_ms": 226033,
-      "name": "Day Plan",
-      "url": "https://open.spotify.com/track/0erC8baMqhTGIHIGjvrxXD"
+      "duration_ms": 264866,
+      "name": "The Bear (Trio)",
+      "url": "https://open.spotify.com/track/3IMVnJdSxf273uAT13oWVV"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1967,18 +1967,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "The Doubles",
-        "url": "https://open.spotify.com/album/1qGM9zumfbz1UjQ1DQO83V"
+        "name": "Day Plan",
+        "url": "https://open.spotify.com/album/5pgIguDeta2y82ccJTWK3w"
       },
       "artists": [
         {
-          "name": "Matt the Electrician",
-          "url": "https://open.spotify.com/artist/4OqDaxbU5qV78AIr6HneTn"
+          "name": "Izzy Heltai",
+          "url": "https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF"
         }
       ],
-      "duration_ms": 264866,
-      "name": "The Bear (Trio)",
-      "url": "https://open.spotify.com/track/3IMVnJdSxf273uAT13oWVV"
+      "duration_ms": 226033,
+      "name": "Day Plan",
+      "url": "https://open.spotify.com/track/0erC8baMqhTGIHIGjvrxXD"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Clockwork",
-        "url": "https://open.spotify.com/album/4aBRF9TW3Q7PSsuWSQcJEF"
-      },
-      "artists": [
-        {
-          "name": "Sophia James",
-          "url": "https://open.spotify.com/artist/23xulTZL2CvclAu5Q1eMaN"
-        }
-      ],
-      "duration_ms": 162600,
-      "name": "Clockwork",
-      "url": "https://open.spotify.com/track/3DGJy61ZQHZJTfPtnMlU3Z"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Make It Out Alive",
         "url": "https://open.spotify.com/album/2cpkgp3HpNu1utO3jdJ9ge"
       },
@@ -2075,6 +2059,26 @@
       "duration_ms": 239843,
       "name": "If You're Hurting",
       "url": "https://open.spotify.com/track/7ej8bwgrr3mW61UMgddjb5"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7fxmI2X1OBF3v3rBbrcbyd"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        },
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/71u5Z6SNQR4d5SEm1gr9Md"
     }
   ],
   "unique_name": "Acoustic Chill",

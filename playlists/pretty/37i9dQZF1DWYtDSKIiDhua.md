@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Rich Brian
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,020 likes - 105 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,028 likes - 105 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Little Ray Of Light](https://open.spotify.com/track/6az0lDUrzgyGYBTyRvYRBH) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Little Ray Of Light](https://open.spotify.com/album/1XwroIKwbqFmy2MHBjoIzU) | 2:59 |
 | 2 | [Lovers To Enemies](https://open.spotify.com/track/3bkyytDbOVfBw1C4YxxV0B) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Confessions of a Loverboy](https://open.spotify.com/album/7H0YUpWlIxLBzRrHBctaWe) | 2:41 |
 | 3 | [hair](https://open.spotify.com/track/3JxTDS1zLlfCjfwLIySKPD) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [25](https://open.spotify.com/album/1mNdKc1N4YKzkLcUNh1vxf) | 2:37 |
-| 4 | [ANXIETY](https://open.spotify.com/track/7wpUHqR3bLfVR96oYUhp4H) | [Ryanded](https://open.spotify.com/artist/26SRl6CEf3sbyL29igYeUK), [Edi Suriandi](https://open.spotify.com/artist/45GdkQt6YVdrLpK7knlncC) | [ANXIETY](https://open.spotify.com/album/0md5BbtGT1wVAT0k8PBd0h) | 3:12 |
+| 4 | [ANXIETY](https://open.spotify.com/track/7wpUHqR3bLfVR96oYUhp4H) | [Ryanded](https://open.spotify.com/artist/26SRl6CEf3sbyL29igYeUK), [Edi Suriandi](https://open.spotify.com/artist/6OSvlCVTeB5chGKBgSLU35) | [ANXIETY](https://open.spotify.com/album/0md5BbtGT1wVAT0k8PBd0h) | 3:12 |
 | 5 | [I Like It \(feat\. nomoe\)](https://open.spotify.com/track/2yZZEapVT0EiQVUilkWrli) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [QUARAW](https://open.spotify.com/artist/1vwJdPI8K8wdoQQTLdv0Dc), [nomoe](https://open.spotify.com/artist/5m97aceHZJPW3c1CyxKeSu) | [I Like It \(feat\. nomoe\)](https://open.spotify.com/album/7wGzCYdTyqwBd6BtNR40mC) | 2:15 |
 | 6 | [Forever This Time](https://open.spotify.com/track/6XO5EZIVntcbyWtczJjCC2) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Forever This Time](https://open.spotify.com/album/12Rm5vje8CH4J0iR3io2L8) | 4:05 |
 | 7 | [EFFORTLESS \(feat\. Jay Park, GroovyRoom\)](https://open.spotify.com/track/6RLTUqLjJBvqfYksqPBxCu) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [GROOVYROOM](https://open.spotify.com/artist/1EZhXPedZ7Fc4grCSJTvIZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SWIRL](https://open.spotify.com/album/23do2zirGkCiF6ZMtVYk3T) | 3:01 |

@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
-  "num_followers": 250802,
+  "num_followers": 250823,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-02-28 16:36:41",
       "album": {
-        "name": "Black Sands",
-        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "Kong",
-      "url": "https://open.spotify.com/track/7Cg3F9ZsZ2TYUnlza49NYh"
-    },
-    {
-      "added_at": "2025-02-28 16:36:41",
-      "album": {
         "name": "Baddy On The Floor",
         "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 222315,
       "name": "Baddy On The Floor",
       "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
+    },
+    {
+      "added_at": "2025-02-28 16:36:41",
+      "album": {
+        "name": "Black Sands",
+        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "Kong",
+      "url": "https://open.spotify.com/track/7Cg3F9ZsZ2TYUnlza49NYh"
     },
     {
       "added_at": "2025-02-28 16:36:41",
@@ -631,18 +631,26 @@
     {
       "added_at": "2025-02-28 16:36:41",
       "album": {
-        "name": "Falling for You",
-        "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
+        "name": "V\u00e1rias Queixas (Radio Edit)",
+        "url": "https://open.spotify.com/album/32STej6H2qql7VD4uwt8Vz"
       },
       "artists": [
         {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
+      "duration_ms": 155702,
+      "name": "V\u00e1rias Queixas - Radio Edit",
+      "url": "https://open.spotify.com/track/7wjaRyfALrdFBJnuJeACy2"
     },
     {
       "added_at": "2025-02-28 16:36:41",
@@ -719,26 +727,18 @@
     {
       "added_at": "2025-02-28 16:36:41",
       "album": {
-        "name": "V\u00e1rias Queixas (Radio Edit)",
-        "url": "https://open.spotify.com/album/32STej6H2qql7VD4uwt8Vz"
+        "name": "Falling for You",
+        "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
       },
       "artists": [
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
         }
       ],
-      "duration_ms": 155702,
-      "name": "V\u00e1rias Queixas - Radio Edit",
-      "url": "https://open.spotify.com/track/7wjaRyfALrdFBJnuJeACy2"
+      "duration_ms": 190000,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
     },
     {
       "added_at": "2025-02-28 16:36:41",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-02-28 16:36:41",
       "album": {
-        "name": "Floating on Silence",
-        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
-      },
-      "artists": [
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        }
-      ],
-      "duration_ms": 381864,
-      "name": "Floating on Silence",
-      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
-    },
-    {
-      "added_at": "2025-02-28 16:36:41",
-      "album": {
         "name": "Peach",
         "url": "https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 345310,
       "name": "Peach",
       "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
+    },
+    {
+      "added_at": "2025-02-28 16:36:41",
+      "album": {
+        "name": "Floating on Silence",
+        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "duration_ms": 381864,
+      "name": "Floating on Silence",
+      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
     },
     {
       "added_at": "2025-02-28 16:36:41",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2025-02-28 16:36:41",
       "album": {
-        "name": "Love Will Set U Free",
-        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        },
-        {
-          "name": "DJ Island",
-          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
-        }
-      ],
-      "duration_ms": 354365,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH"
-    },
-    {
-      "added_at": "2025-02-28 16:36:41",
-      "album": {
         "name": "All In A Dream",
         "url": "https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6"
       },
@@ -1867,6 +1847,26 @@
       "duration_ms": 230015,
       "name": "All In A Dream",
       "url": "https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2"
+    },
+    {
+      "added_at": "2025-02-28 16:36:41",
+      "album": {
+        "name": "Love Will Set U Free",
+        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        },
+        {
+          "name": "DJ Island",
+          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
+        }
+      ],
+      "duration_ms": 354365,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH"
     },
     {
       "added_at": "2025-02-28 16:36:41",

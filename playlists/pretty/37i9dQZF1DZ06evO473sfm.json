@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 469414,
+  "num_followers": 469719,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAC7gIiMsDVyL3idOTcGE1Ks",
+  "snapshot_id": "Z9NxgAAAAADNNzvHikWP2RKplMkay1cp",
   "tracks": [
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfQu\u00e9 Te Parece?",
-        "url": "https://open.spotify.com/album/4wJ3OuXAYBT7KgZpQoMMG8"
+        "name": "\u00c1NGEL",
+        "url": "https://open.spotify.com/album/2iiR2powAnVyARFx7deWZT"
       },
       "artists": [
         {
@@ -116,13 +116,13 @@
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         },
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 182323,
-      "name": "\u00bfQu\u00e9 Te Parece?",
-      "url": "https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG"
+      "duration_ms": 184095,
+      "name": "\u00c1NGEL",
+      "url": "https://open.spotify.com/track/4JtKlgBLKHtRTqixKHrrw8"
     },
     {
       "added_at": null,
@@ -147,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c1NGEL",
-        "url": "https://open.spotify.com/album/2iiR2powAnVyARFx7deWZT"
+        "name": "\u00bfQu\u00e9 Te Parece?",
+        "url": "https://open.spotify.com/album/4wJ3OuXAYBT7KgZpQoMMG8"
       },
       "artists": [
         {
@@ -156,13 +156,13 @@
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         },
         {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         }
       ],
-      "duration_ms": 184095,
-      "name": "\u00c1NGEL",
-      "url": "https://open.spotify.com/track/4JtKlgBLKHtRTqixKHrrw8"
+      "duration_ms": 182323,
+      "name": "\u00bfQu\u00e9 Te Parece?",
+      "url": "https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ya No",
+        "url": "https://open.spotify.com/album/6n8M3o4E94OA9hTDUTWlkv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 168087,
+      "name": "Ya No",
+      "url": "https://open.spotify.com/track/3tnHHGRiBLwIyOh9p5eqbf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/5iFkzGv5idTW7deC3hdnoJ"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 126307,
       "name": "Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/02EckzshsKodeAfZQF3cDP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya No",
-        "url": "https://open.spotify.com/album/6n8M3o4E94OA9hTDUTWlkv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 168087,
-      "name": "Ya No",
-      "url": "https://open.spotify.com/track/3tnHHGRiBLwIyOh9p5eqbf"
     },
     {
       "added_at": null,

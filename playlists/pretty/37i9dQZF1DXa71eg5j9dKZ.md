@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Barry Can't Swim
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,328 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,358 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wrong For Me](https://open.spotify.com/track/1lSDRaA8wcru8fYC8QAMmF) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Wrong For Me](https://open.spotify.com/album/6kJpok0ZOZ2sMbGUJgOswC) | 3:25 |
 | 2 | [Different](https://open.spotify.com/track/7x8FCh3aNU7YrYUSTVGHv6) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Different](https://open.spotify.com/album/2Du9S3uLn4IsAK3R7IqEOY) | 3:26 |
 | 3 | [there 4 u \- Radio Edit](https://open.spotify.com/track/7jGpjarEEOvmg0vECOxR6f) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [there 4 u](https://open.spotify.com/album/3icaAuFPNtCLDdAohACTV4) | 3:04 |
-| 4 | [It Gets Better \(Forever Mix\)](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [It Gets Better \(Forever Mix\)](https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO) | 4:12 |
+| 4 | [It Gets Better \- Edit](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [It Gets Better \(Forever Mix\)](https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO) | 4:12 |
 | 5 | [Gravity](https://open.spotify.com/track/2J9jWkE2NUeULlJ7OSIZ3G) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lauren Nicole](https://open.spotify.com/artist/372yikzGlwhP86LfFwZqrX) | [Gravity](https://open.spotify.com/album/7lrpAdRWokKcAqlGUb7erv) | 3:15 |
 | 6 | [Running Free](https://open.spotify.com/track/12E2DSw5y2UaZf0UMMx23H) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [Running Free](https://open.spotify.com/album/0278vtlMV77zoiD3Qu2oJA) | 2:53 |
 | 7 | [Can't Stand To Lose](https://open.spotify.com/track/7r4FAKAU499KcT5E83zEYs) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Can't Stand To Lose](https://open.spotify.com/album/53MctoRNyj3OmoUVFgZcab) | 4:52 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 41 | [Crazy](https://open.spotify.com/track/4CVqYMpHOozDjjdkb32QQY) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [False Persona](https://open.spotify.com/artist/0o9eLbvKL4PGG549qygy1o) | [Crazy](https://open.spotify.com/album/4YgiVywFl6ZUK85JZQK4lL) | 4:29 |
 | 42 | [So Good](https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R) | [So Good](https://open.spotify.com/album/4XdGFi19TK15rVAH9MiFBE) | 3:39 |
 | 43 | [Rain](https://open.spotify.com/track/15z2xOc2TLj1ljQK1Bo5S6) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Rain](https://open.spotify.com/album/0A0jy45J8O4QKbmC7R6HOX) | 3:06 |
-| 44 | [Yosemite](https://open.spotify.com/track/2I7Ph7hRkjOMgy9WCsE4F3) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Yosemite](https://open.spotify.com/album/5fDFirEEe5owUhblkIy23d) | 4:26 |
+| 44 | [Yosemite \- Edit](https://open.spotify.com/track/2I7Ph7hRkjOMgy9WCsE4F3) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Yosemite](https://open.spotify.com/album/5fDFirEEe5owUhblkIy23d) | 4:26 |
 | 45 | [llamando](https://open.spotify.com/track/21FIxW5HXQR4KZS3jucpQw) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [llamando](https://open.spotify.com/album/2blVh9onuJN9YGsAJz4HNb) | 2:36 |
 | 46 | [Generator](https://open.spotify.com/track/3FV2AQ5XPCCXqHvalR7SMA) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Generator EP](https://open.spotify.com/album/0fjFfo4fjXex8kNyEu4CZ0) | 4:57 |
 | 47 | [Unknowable](https://open.spotify.com/track/7qt7yOwx9c39I1Ti8iAgLa) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Unknowable](https://open.spotify.com/album/02KxfrGk4P5AesEeEDm343) | 3:03 |

@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,208 songs - 1 day 22 hr 3 min
+1,210 songs - 1 day 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,7 +411,7 @@
 | [gallery](https://open.spotify.com/track/1PNjgT1UgvI2ZbBNEi1MZf) | [haki donzo](https://open.spotify.com/artist/7JCLpMzChs65N5MKKyup2b) | [gallery](https://open.spotify.com/album/6oyJOJvkJbfV7K5GXZeQDV) | 1:46 | 2022-10-01 |  |
 | [garden bed](https://open.spotify.com/track/1l52MnASg7swhbLFtBhVJb) | [orcanite](https://open.spotify.com/artist/3dGc9ZNUwjtjtug9qAomYS) | [garden bed](https://open.spotify.com/album/1a1QguNAJiFe3mDVzipzY3) | 1:55 | 2021-11-10 | 2023-03-02 |
 | [Gardening On Mars](https://open.spotify.com/track/79i8XMKhu0RGMFV9ppZF8n) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Gardening On Mars](https://open.spotify.com/album/7HSs5riFuaFuhqXm914Gb0) | 1:50 | 2023-09-01 | 2023-10-23 |
-| [Gelato Afternoon](https://open.spotify.com/track/4c4VDNmYelvfPOv19qCGlE) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Gelato Afternoon](https://open.spotify.com/album/7r9Cgz0UCb6gqwGkakCTWX) | 2:51 | 2022-12-09 |  |
+| [Gelato Afternoon](https://open.spotify.com/track/4c4VDNmYelvfPOv19qCGlE) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Gelato Afternoon](https://open.spotify.com/album/7r9Cgz0UCb6gqwGkakCTWX) | 2:51 | 2022-12-09 | 2025-03-16 |
 | [Get Me Z](https://open.spotify.com/track/4ZFVMtqtJe1vnPXe3jKEx0) | [Codename Chinadoll](https://open.spotify.com/artist/1M7I2GYBClRIiT9B72xUTg) | [Floshi Mosh](https://open.spotify.com/album/5guGYkjMzLGu1ut2woB33o) | 1:29 | 2023-03-16 |  |
 | [Getaway Shack](https://open.spotify.com/track/2g5p0HAHft0wEphhZGFrS1) | [Gittiye](https://open.spotify.com/artist/4g4I92b4rKtESZUpNA0w5f) | [Getaway Shack](https://open.spotify.com/album/7hToZsaSWSKNzKYF8hLsFv) | 2:16 | 2024-05-13 |  |
 | [Ghostboy](https://open.spotify.com/track/3gTqbgP4Kq4i1p27vCpiL8) | [mëow mëow](https://open.spotify.com/artist/02qU2mdtmh74BV5ashkMFn) | [Ghostboy](https://open.spotify.com/album/4XBaiclHrnTRyY3OV02aPi) | 1:46 | 2022-04-15 | 2023-09-16 |
@@ -497,6 +497,7 @@
 | [if you could fly](https://open.spotify.com/track/4vLb7pSrQ4JNDr6ax3mw1y) | [søap](https://open.spotify.com/artist/5flOSCMCS5BPlHpdHQQhSr) | [if you could fly](https://open.spotify.com/album/5dCqU7kxTJ4IdMdXcbep15) | 2:18 | 2022-11-25 | 2023-11-11 |
 | [Ikea At Dusk](https://open.spotify.com/track/0b7acSt2NsF35xwFXj3ftl) | [Byoushay Brothers](https://open.spotify.com/artist/0GtIuE9H6qSS9GRnjRzasi) | [Ikea At Dusk](https://open.spotify.com/album/6ZB0pO293H9T320qrx0vak) | 2:39 | 2021-11-10 | 2022-04-08 |
 | [in a dream](https://open.spotify.com/track/6qvjAgiP6p4m5mHpDT4E4h) | [sunday museum](https://open.spotify.com/artist/7Dmb3mabrQmXGMFatQHh8N) | [in a dream](https://open.spotify.com/album/5GXKFWGELPZeG0SrC5wDr3) | 2:00 | 2022-11-11 |  |
+| [in a haze](https://open.spotify.com/track/0OpsPckPFX5t1fEvPUDeER) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [in a haze](https://open.spotify.com/album/1eDBDOKDYy0wN0V5eRtyHK) | 1:56 | 2025-03-14 |  |
 | [In Comparison With](https://open.spotify.com/track/2kRqoND9nTZ6ShVTWPQ3Y6) | [State Artefact](https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q) | [In Comparison With](https://open.spotify.com/album/3vvMXi4IWwUbgQi7S2oxJP) | 3:22 | 2024-07-26 |  |
 | [In Komplete Kontrol](https://open.spotify.com/track/5KvEw38ZCklqFAXlzBAIc5) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [In Komplete Kontrol](https://open.spotify.com/album/2WSUUFCgNI37r6djGyl5If) | 2:29 | 2023-02-17 |  |
 | [In Limbo & Loving It](https://open.spotify.com/track/5kIsqbXbUNwaxQH1anoJ64) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI), [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [In Limbo & Loving It](https://open.spotify.com/album/19JbKTPT8GbfSv35qhY9Jq) | 2:43 | 2021-11-10 | 2022-07-22 |
@@ -505,7 +506,7 @@
 | [In Perpetuum](https://open.spotify.com/track/3ImHLPyqf739WgzXKjPqfU) | [beauBAE](https://open.spotify.com/artist/5f2AVkePCObkkyEwAx4jef) | [In Perpetuum](https://open.spotify.com/album/2dou5NJzqX9nWvR6eoamLM) | 1:52 | 2022-02-18 | 2023-03-18 |
 | [In The Sky](https://open.spotify.com/track/2t8xuOOSyDjt1jDhUjoNGO) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [juniorodeo](https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN) | [In The Sky](https://open.spotify.com/album/6KPHCCekZmbCHQihlMB1Pm) | 2:12 | 2022-06-03 | 2023-08-04 |
 | [In The Third Move](https://open.spotify.com/track/5uAhIMnDPNjRNeiH5tDtqy) | [Waveum](https://open.spotify.com/artist/2VZ5HYVxp79hu5qJ4imfTo) | [In The Third Move](https://open.spotify.com/album/5UQAehoNPZ5gpD6wnYg1Xv) | 1:24 | 2021-11-10 | 2022-06-10 |
-| [In Time](https://open.spotify.com/track/3WirhDcL8G01EMrqOFownK) | [Soft Vessels](https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv) | [In Time](https://open.spotify.com/album/4VUZzn1ttvR5jVbRMdk3Te) | 2:19 | 2022-07-08 |  |
+| [In Time](https://open.spotify.com/track/3WirhDcL8G01EMrqOFownK) | [Soft Vessels](https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv) | [In Time](https://open.spotify.com/album/4VUZzn1ttvR5jVbRMdk3Te) | 2:19 | 2022-07-08 | 2025-03-16 |
 | [in too deep](https://open.spotify.com/track/0KbBe4XeOkWuPSr287AHnb) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [in too deep](https://open.spotify.com/album/43yg43a1K5ssEj8EXHSLXN) | 3:11 | 2024-01-19 |  |
 | [Indigo](https://open.spotify.com/track/1bOwFFeLsStmGLCvULnY55) | [Boyd](https://open.spotify.com/artist/32X14g5e0uOfzySXxatCHA), [Spaniel Mac](https://open.spotify.com/artist/3mwsqk2Ccx0YemdC8FSz30) | [Indigo](https://open.spotify.com/album/5FVihjhEeWHNoo41mYF27z) | 1:50 | 2024-10-16 | 2024-12-08 |
 | [Infatuation](https://open.spotify.com/track/3UY75fys1T1zWADWQAs96z) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Infatuation](https://open.spotify.com/album/4zZKMPFyShYfoE0Jv8XepT) | 1:20 | 2022-12-16 |  |
@@ -952,6 +953,7 @@
 | [Sleepless](https://open.spotify.com/track/35B4ntwoU7kCxdgWlzuOuE) | [Luigi Valentino](https://open.spotify.com/artist/5we8GkSvBODzF7t0TLaiOS) | [Night Breeze](https://open.spotify.com/album/6QFCG5XLZCJz7xIWBWPyU1) | 1:46 | 2021-11-10 | 2022-05-20 |
 | [sleepless at midnight](https://open.spotify.com/track/46bzC2sW7wbouJdM9sAfUr) | [harrylofi](https://open.spotify.com/artist/5kketA9XnMDFtJsDFLUVtf) | [sleepless at midnight](https://open.spotify.com/album/0ehbI8mUoyvM8rASDHeLPj) | 3:18 | 2022-09-02 | 2023-05-20 |
 | [Sleepless Night](https://open.spotify.com/track/19E1JLs1HA9og77YVVLenA) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Sleepless Night](https://open.spotify.com/album/2FNYt7n2wRQNS6Rf8RpEnk) | 1:49 | 2022-04-08 | 2022-12-10 |
+| [Sleepless Nostalgia](https://open.spotify.com/track/5BLkWFjzHWcdLb822MtiHk) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [Sleepless Nostalgia](https://open.spotify.com/album/1UMbD2w6ReXXlEptz1djbN) | 2:11 | 2025-03-14 |  |
 | [sleepy hat](https://open.spotify.com/track/6weHje3zmObTuMqPaTBxD7) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [sleepy hat](https://open.spotify.com/album/4aDtOBTxMRwi40T8b4IHUZ) | 2:48 | 2023-09-08 |  |
 | [Slip Away](https://open.spotify.com/track/6oEh8d3WukF1lrnpQXFc4Q) | [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6) | [Slip Away](https://open.spotify.com/album/4qC8X21h5i2pPpkul8RSIk) | 2:10 | 2022-11-11 | 2023-04-12 |
 | [SLOOW](https://open.spotify.com/track/4aQuZpR31avqV3AWT984U9) | [Seame](https://open.spotify.com/artist/3364KeB9T8SEaOA7PKSVlU) | [SLOOW](https://open.spotify.com/album/61raSx86T7PWDAbXfW6L8u) | 2:03 | 2024-07-19 | 2024-07-27 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-614 songs - 1 day 14 hr 3 min
+615 songs - 1 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 | 2023-01-05 |
 | [Anugerah Terindah](https://open.spotify.com/track/6gjkHuMOR0CrN7Vb2NoEdg) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Cinta & Doa](https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro) | 4:42 | 2024-11-29 |  |
 | [Anything You Want](https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Anything You Want](https://open.spotify.com/album/0fkX7I2PipiArw0mxPLFsY) | 3:56 | 2022-10-27 | 2023-02-25 |
-| [Apa Mungkin](https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Apa Mungkin](https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31) | 3:58 | 2024-07-10 |  |
+| [Apa Mungkin](https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Apa Mungkin](https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31) | 3:58 | 2024-07-10 | 2025-03-16 |
 | [APT.](https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:49 | 2024-12-07 | 2025-02-02 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-19 | 2024-12-08 |
 | [Armageddon](https://open.spotify.com/track/6i8MbzVn4nzyjUcSoVcz7B) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 3:16 | 2024-06-05 | 2024-06-24 |
@@ -329,7 +329,7 @@
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-11-21 | 2023-01-07 |
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-03-30 | 2024-05-27 |
 | [Makna Cinta](https://open.spotify.com/track/7B3zHfPqcLgV3DHcjQP2OM) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Makna Cinta](https://open.spotify.com/album/1JM15q9f61oK0xO7G9onVn) | 3:25 | 2021-03-27\* | 2021-05-03 |
-| [Mangu](https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj), [Charita Utami](https://open.spotify.com/artist/48yQuRfvklyupKmridU1du) | [Nalar](https://open.spotify.com/album/6XVW3zoK1nmskW7drvHy9h) | 4:21 | 2025-03-13 | 2025-03-15 |
+| [Mangu](https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj), [Charita Utami](https://open.spotify.com/artist/48yQuRfvklyupKmridU1du) | [Nalar](https://open.spotify.com/album/6XVW3zoK1nmskW7drvHy9h) | 4:21 | 2025-03-13 |  |
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-22 | 2024-10-25 |
 | [Masa Sepi](https://open.spotify.com/track/41OYCdZjfncCUWhcLzLAGo) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Masa Sepi](https://open.spotify.com/album/264G53YN0qa679J5JEDtkg) | 3:33 | 2024-08-14 | 2024-10-16 |
 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 | 2024-03-12 | 2024-07-19 |
@@ -416,7 +416,7 @@
 | [Putus Atau Terus](https://open.spotify.com/track/7MaE3QJQArKzaRZGi8DHfP) | [Judika](https://open.spotify.com/artist/3HSmFRCVuZh2skqMDhsI8y) | [Putus Atau Terus](https://open.spotify.com/album/7fYzATEorF2nTcMKuE4crs) | 4:08 | 2021-06-28 | 2021-07-05 |
 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 | 2021-08-18 | 2021-09-05 |
 | [Rahasia Hati](https://open.spotify.com/track/1X80KdFJpedU4as4WGIgYM) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Paradoks](https://open.spotify.com/album/1qJp3Va3JzFE3FPVClJDQc) | 3:11 | 2023-09-17 | 2024-12-25 |
-| [Rahasia Hati](https://open.spotify.com/track/6zrnrcry6OHVFo3EDt6PYa) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [King of Soundtrack](https://open.spotify.com/album/2nFXZYwcFX49uehczLGoFM) | 4:10 | 2024-09-29 |  |
+| [Rahasia Hati](https://open.spotify.com/track/6zrnrcry6OHVFo3EDt6PYa) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [King of Soundtrack](https://open.spotify.com/album/2nFXZYwcFX49uehczLGoFM) | 4:10 | 2024-09-29 | 2025-03-16 |
 | [Rahasia Hati \- Remastered 2023](https://open.spotify.com/track/2ZzsUu74KQFwnkBIOryp0d) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Perjalanan 1999 \- 2003 \(Remastered 2023\)](https://open.spotify.com/album/4QCGE9az4wKzhytBcgoZbm) | 3:10 | 2024-12-24 | 2024-12-26 |
 | [Rahmatun Lil’Alameen](https://open.spotify.com/track/4gcQ4sBOIX8s510XrNZQUA) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Rahmatun Lil’Alameen](https://open.spotify.com/album/0XDt4wF7I0dpj6ii47DQoF) | 3:50 | 2023-02-27 | 2023-05-10 |
 | [Rainbow](https://open.spotify.com/track/2TyDgN8q5NgOuiR8yYyBYj) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:51 | 2021-05-12 | 2021-05-17 |
@@ -499,6 +499,7 @@
 | [SNAP](https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:59 | 2022-08-07 | 2022-11-20 |
 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-10-22 | 2022-10-24 |
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-03-27\* | 2021-05-23 |
+| [Somebody's Pleasure](https://open.spotify.com/track/0hJnGB29A4dkZ9zND9jUTj) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Lesson Learned](https://open.spotify.com/album/1ShrAiTDbq2soLmIpmIvd8) | 3:43 | 2025-03-15 |  |
 | [Somebody's Pleasure](https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure](https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y) | 3:43 | 2023-04-09 | 2024-06-09 |
 | [Somebody's Pleasure \(Extended Version\)](https://open.spotify.com/track/4y5HTa0xfMGORsMhy26n3X) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure \(Extended Version\)](https://open.spotify.com/album/2XgJC0WVIe0cyDvdIQO19u) | 4:41 | 2025-03-03 |  |
 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 | 2023-05-09 | 2023-05-11 |

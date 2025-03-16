@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume from across the world. Cover: Cazzu",
-  "num_followers": 1076296,
+  "num_followers": 1076536,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-03-07 05:00:25",
       "album": {
+        "name": "Rode Draad",
+        "url": "https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH"
+      },
+      "artists": [
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "Rode Draad",
+      "url": "https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE"
+    },
+    {
+      "added_at": "2025-03-07 05:00:25",
+      "album": {
         "name": "Hello, Hi",
         "url": "https://open.spotify.com/album/10HfbJ0arWU8m6YOg85Q9y"
       },
@@ -783,22 +799,6 @@
     {
       "added_at": "2025-03-07 05:00:25",
       "album": {
-        "name": "Rode Draad",
-        "url": "https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH"
-      },
-      "artists": [
-        {
-          "name": "Hannah Mae",
-          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "Rode Draad",
-      "url": "https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE"
-    },
-    {
-      "added_at": "2025-03-07 05:00:25",
-      "album": {
         "name": "Joanita",
         "url": "https://open.spotify.com/album/20AueqAoZgtm23rhWo0FKx"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-03-07 05:00:25",
       "album": {
-        "name": "Details",
-        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
-      },
-      "artists": [
-        {
-          "name": "Frou Frou",
-          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
-        }
-      ],
-      "duration_ms": 253893,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3"
-    },
-    {
-      "added_at": "2025-03-07 05:00:25",
-      "album": {
         "name": "Nye Tider",
         "url": "https://open.spotify.com/album/5pJ0ffWRRHKdlYZPB18S9U"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 194660,
       "name": "Hun",
       "url": "https://open.spotify.com/track/6ZC9iIWBCy4VtBhoY1YTuR"
+    },
+    {
+      "added_at": "2025-03-07 05:00:25",
+      "album": {
+        "name": "Details",
+        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
+      },
+      "artists": [
+        {
+          "name": "Frou Frou",
+          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
+        }
+      ],
+      "duration_ms": 253893,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3"
     },
     {
       "added_at": "2025-03-07 05:00:25",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-03-07 05:00:25",
       "album": {
+        "name": "El Pasado",
+        "url": "https://open.spotify.com/album/6Khaxo5eONr9En7sT8Fvjn"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 174429,
+      "name": "Dame La Mano",
+      "url": "https://open.spotify.com/track/1IF9KwFc9CzUUlLtVSK4Sx"
+    },
+    {
+      "added_at": "2025-03-07 05:00:25",
+      "album": {
         "name": "V\u0169 Tr\u1ee5 C\u00f2 Bay",
         "url": "https://open.spotify.com/album/1ksb2CCSSuCuu4TdoJp5cH"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 220957,
       "name": "V\u0169 Tr\u1ee5 C\u00f3 Anh (feat. Ph\u00e1o)",
       "url": "https://open.spotify.com/track/4bOwnJwm4Zy1vjnndHFLHj"
-    },
-    {
-      "added_at": "2025-03-07 05:00:25",
-      "album": {
-        "name": "El Pasado",
-        "url": "https://open.spotify.com/album/6Khaxo5eONr9En7sT8Fvjn"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 174429,
-      "name": "Dame La Mano",
-      "url": "https://open.spotify.com/track/1IF9KwFc9CzUUlLtVSK4Sx"
     }
   ],
   "unique_name": "EQUAL",

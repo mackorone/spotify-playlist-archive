@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Dam Swindle
 
-284 songs - 17 hr 58 min
+285 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Fantasy \(feat\. Franc Moody\)](https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Fantasy \(feat\. Franc Moody\)](https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92) | 3:32 | 2024-03-01 | 2024-10-25 |
 | [Favourite Girl](https://open.spotify.com/track/4O2lcMh4Y5MaElHa2ec7WZ) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Favourite Girl](https://open.spotify.com/album/5Om1STRZEXN7z8O7leJEAR) | 2:39 | 2024-10-24 |  |
 | [Fear](https://open.spotify.com/track/5yIK62xhc1PwxG83kObxZe) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 3:49 | 2021-10-28 | 2024-02-02 |
+| [Feel It For You](https://open.spotify.com/track/76vnxLIS70EvlISthDydnE) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Feel It For You](https://open.spotify.com/album/5JsQ0nnJ1jzG6QsjZyIh0F) | 3:31 | 2025-03-14 |  |
 | [Feeling Alive](https://open.spotify.com/track/3wuKHGGrJ4DFXpd7Hrptrl) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Feeling Alive](https://open.spotify.com/album/6Ct7dWb2QX1snxHC2zcJKt) | 3:49 | 2024-08-15 | 2025-02-14 |
 | [Fire Of Mercy \- yunè pinku remix](https://open.spotify.com/track/6ITWROA9slWos6GjdlryE5) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Fire Of Mercy \(yunè pinku remix\)](https://open.spotify.com/album/5ZmBR9NMbuBycE92C5b0Wy) | 4:14 | 2024-02-23 | 2024-09-20 |
 | [From The Stars](https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [The Rah Band](https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH) | [From The Stars EP](https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK) | 4:20 | 2025-02-21 |  |
@@ -238,7 +239,7 @@
 | [Still Here](https://open.spotify.com/track/0ohx2z14GguzZPmd3Xn7Xy) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Maybe We Could](https://open.spotify.com/album/3VtEYbEgLnLwJPml2lOYLi) | 3:34 | 2021-10-28 | 2024-03-01 |
 | [Stolen Glances \(feat\. Låpsley\)](https://open.spotify.com/track/4EnqqwxwKavuv0mQMMgFE5) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Stolen Glances \(feat\. Låpsley\)](https://open.spotify.com/album/5DObus73yw027Z2SM972b3) | 3:08 | 2024-07-03 | 2025-03-14 |
 | [Stranger \(feat\. Elkka\)](https://open.spotify.com/track/4Ym9kUhwyIgms5DhCH1PAO) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp), [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Stranger \(feat\. Elkka\)](https://open.spotify.com/album/3W0rAY4LLL7rDbGY41I1HE) | 3:29 | 2024-07-18 | 2025-02-14 |
-| [Stranger's Town](https://open.spotify.com/track/5rrHJRGmkHUOQ3Wz25ESUF) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [ZOE ASKA](https://open.spotify.com/artist/5qzcJvz7hZinbSGukeZ8kE) | [Stranger's Town](https://open.spotify.com/album/18TszgLDusxrAqAoQbM75t) | 3:24 | 2024-08-15 |  |
+| [Stranger's Town](https://open.spotify.com/track/5rrHJRGmkHUOQ3Wz25ESUF) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [ZOE ASKA](https://open.spotify.com/artist/5qzcJvz7hZinbSGukeZ8kE) | [Stranger's Town](https://open.spotify.com/album/18TszgLDusxrAqAoQbM75t) | 3:24 | 2024-08-15 | 2025-03-16 |
 | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 | 2025-01-31 |  |
 | [Switch It](https://open.spotify.com/track/2bZRE5rSZL2aMZh86oaMuI) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Switch It](https://open.spotify.com/album/4und1ixZx8BGcsyvk2kniU) | 3:04 | 2024-06-21 | 2025-02-14 |
 | [Take Me There](https://open.spotify.com/track/3BcMePW9jGSfzYqlNHdtvz) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Service Station At The End Of The Universe](https://open.spotify.com/album/1Lf53XbMfvkF7oDKlZkahO) | 3:32 | 2025-02-28 |  |

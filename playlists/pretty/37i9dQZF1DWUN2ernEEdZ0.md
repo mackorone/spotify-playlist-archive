@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN2ernEEdZ0.md) - [plain]
 
 > Introducing the hottest new classical music of 2025🔥<br/>Cover: Bruce Liu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,316 likes - 65 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,369 likes - 65 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

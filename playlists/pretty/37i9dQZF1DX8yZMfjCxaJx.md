@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 
 > Las favoritas de los patrones\. Chicho Castro y Alia2, Enigma Norteña, Codiciado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,519 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,579 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 | 50 | [Fresas De La Capital](https://open.spotify.com/track/3HIL8kXH7d56lMcl9wEOpb) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew) | [Fresas De La Capital](https://open.spotify.com/album/6Zpv9HFhV78xWi58Gi3E8B) | 2:53 |
 | 51 | [El Mago](https://open.spotify.com/track/4wsDPCHzxThEqCx4iYPAIO) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:57 |
 | 52 | [Desde Topo Hasta La Sierra \- En vivo](https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro), [Los Torrenciales de la Sierra](https://open.spotify.com/artist/1AR0atiSk7fk8C18cEyYNn) | [Desde Topo Hasta La Sierra \(En vivo\)](https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F) | 3:38 |
-| 53 | [Le Apodan El Fresa](https://open.spotify.com/track/5isAR6vWFuvgIPlgDfO4lX) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Le Apodan El Fresa](https://open.spotify.com/album/1AEAC2w9INswuQduuqzAxG) | 3:14 |
-| 54 | [Me Recordará El Cartel](https://open.spotify.com/track/3frGd9BgQSOrOg7ELtmIND) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0), [Markitos Toys](https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g) | [Me Recordará El Cartel](https://open.spotify.com/album/0y3JfPmBXObYNQdFA51wPt) | 3:41 |
+| 53 | [Me Recordará El Cartel](https://open.spotify.com/track/3frGd9BgQSOrOg7ELtmIND) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0), [Markitos Toys](https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g) | [Me Recordará El Cartel](https://open.spotify.com/album/0y3JfPmBXObYNQdFA51wPt) | 3:41 |
+| 54 | [Le Apodan El Fresa](https://open.spotify.com/track/5isAR6vWFuvgIPlgDfO4lX) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Le Apodan El Fresa](https://open.spotify.com/album/1AEAC2w9INswuQduuqzAxG) | 3:14 |
 | 55 | [La Belikada](https://open.spotify.com/track/53fbPJud2fcK12jzYIHqD6) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [La Belikada](https://open.spotify.com/album/23fDudy0YVBpYwSFFcB0Jn) | 2:33 |
 | 56 | [David De Los Acme](https://open.spotify.com/track/1C4notkddInnKftLi0idAW) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [Corridos a Lo Maximo](https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv) | 3:26 |
 | 57 | [Capitan O Chachito](https://open.spotify.com/track/3fMRwWZeyBWNVuqXwNas0R) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Capitan O Chachito](https://open.spotify.com/album/4aOOppgBB4dJ7CmCbTy3yw) | 3:44 |

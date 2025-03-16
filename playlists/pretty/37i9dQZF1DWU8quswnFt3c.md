@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Cazzu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,076,296 likes - 74 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,076,536 likes - 74 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 41 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 |
 | 42 | [Cinco Minutos Más](https://open.spotify.com/track/1U6gcdaWujPBqQ01c4Wt6S) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Cinco Minutos Más](https://open.spotify.com/album/51RUUGrrYNFB5H2jIftYzo) | 3:00 |
 | 43 | [Malli](https://open.spotify.com/track/4jOcL6LbpfMF68rEVFZtPI) | [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd), [Yll Limani](https://open.spotify.com/artist/2qI59HaiEtvev8vnUkmRpT) | [Vera Me Ty](https://open.spotify.com/album/1JqKwnQ0qVLumzlu45JmtB) | 3:27 |
-| 44 | [Hello, Hi](https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Hello, Hi](https://open.spotify.com/album/10HfbJ0arWU8m6YOg85Q9y) | 2:15 |
-| 45 | [take your vibes and go](https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [take your vibes and go](https://open.spotify.com/album/5ZhVETUeqLAWy2YDmF6VPm) | 2:14 |
-| 46 | [Rode Draad](https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH) | 2:56 |
+| 44 | [Rode Draad](https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH) | 2:56 |
+| 45 | [Hello, Hi](https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Hello, Hi](https://open.spotify.com/album/10HfbJ0arWU8m6YOg85Q9y) | 2:15 |
+| 46 | [take your vibes and go](https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [take your vibes and go](https://open.spotify.com/album/5ZhVETUeqLAWy2YDmF6VPm) | 2:14 |
 | 47 | [Eco](https://open.spotify.com/track/5IYSfCt4m9WX4LKNRl2ia9) | [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [Joanita](https://open.spotify.com/album/20AueqAoZgtm23rhWo0FKx) | 3:14 |
 | 48 | [Sin Llorar](https://open.spotify.com/track/2mZkOJx1Cvfg6cEJJ0biaS) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Sin Llorar](https://open.spotify.com/album/7xmW8wBwAeNvLnZ5IUcFUE) | 3:42 |
-| 49 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
-| 50 | [Hun](https://open.spotify.com/track/6ZC9iIWBCy4VtBhoY1YTuR) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Nye Tider](https://open.spotify.com/album/5pJ0ffWRRHKdlYZPB18S9U) | 3:14 |
+| 49 | [Hun](https://open.spotify.com/track/6ZC9iIWBCy4VtBhoY1YTuR) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Nye Tider](https://open.spotify.com/album/5pJ0ffWRRHKdlYZPB18S9U) | 3:14 |
+| 50 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
 | 51 | [Forever Baby](https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Janet Planet](https://open.spotify.com/artist/6WaeCF7BKSHfUuOj4ggRoq) | [Sentimental](https://open.spotify.com/album/15JwpSbmrg94260qjQQYse) | 3:18 |
 | 52 | [Gravity](https://open.spotify.com/track/2wi2zCS4dz5a3yOcZ1u3Hd) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Gravity](https://open.spotify.com/album/5wn1hHXo5llTUY3vaahWfd) | 2:50 |
 | 53 | [Hartita de Llorar](https://open.spotify.com/track/0Mw0eiKbelPtJvN3WkLakf) | [Lachispa](https://open.spotify.com/artist/3HicHd9spplU6i1mYtRCHx) | [Hartita de Llorar](https://open.spotify.com/album/4Ri9HhBxUW8gPwfPq8qOUB) | 2:38 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 70 | [H.B.W](https://open.spotify.com/track/1juNl4l453G8WFCN27IA8K) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [H.B.W](https://open.spotify.com/album/6USYHqbYcz1QrGUjT8hbl4) | 4:52 |
 | 71 | [You're Still Mine](https://open.spotify.com/track/1kui58chXIAstZljlvgUVL) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [You're Still Mine](https://open.spotify.com/album/6Tyd9k7MrGIqdtSKJcjOhu) | 2:27 |
 | 72 | [Keiner weiß](https://open.spotify.com/track/1D5V4wJKfGBaWDOZBbhBX7) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Keiner weiß](https://open.spotify.com/album/4WD7NqPkS0lVnQ3kjbwkRi) | 2:21 |
-| 73 | [Vũ Trụ Có Anh \(feat\. Pháo\)](https://open.spotify.com/track/4bOwnJwm4Zy1vjnndHFLHj) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/4TVlo7hVwm2Gx37EqbC0Ds), [Pháo](https://open.spotify.com/artist/47CxuOSQXSPpW6oAy4UZec) | [Vũ Trụ Cò Bay](https://open.spotify.com/album/1ksb2CCSSuCuu4TdoJp5cH) | 3:40 |
-| 74 | [Dame La Mano](https://open.spotify.com/track/1IF9KwFc9CzUUlLtVSK4Sx) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [El Pasado](https://open.spotify.com/album/6Khaxo5eONr9En7sT8Fvjn) | 2:54 |
+| 73 | [Dame La Mano](https://open.spotify.com/track/1IF9KwFc9CzUUlLtVSK4Sx) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [El Pasado](https://open.spotify.com/album/6Khaxo5eONr9En7sT8Fvjn) | 2:54 |
+| 74 | [Vũ Trụ Có Anh \(feat\. Pháo\)](https://open.spotify.com/track/4bOwnJwm4Zy1vjnndHFLHj) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/4TVlo7hVwm2Gx37EqbC0Ds), [Pháo](https://open.spotify.com/artist/47CxuOSQXSPpW6oAy4UZec) | [Vũ Trụ Cò Bay](https://open.spotify.com/album/1ksb2CCSSuCuu4TdoJp5cH) | 3:40 |
 
 Snapshot ID: `Z867+wAAAACbfBlwq1lMV96GBKBShVGE`

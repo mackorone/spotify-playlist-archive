@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 420061,
+  "num_followers": 420141,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2025-03-14 12:16:40",
       "album": {
+        "name": "Where Will the River Flow",
+        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
+      },
+      "artists": [
+        {
+          "name": "Matt Carmichael",
+          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+        }
+      ],
+      "duration_ms": 334925,
+      "name": "Hopeful Morning",
+      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
+    },
+    {
+      "added_at": "2025-03-14 12:16:40",
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/3AOFyozta3QSEfa7T9supv"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 366133,
       "name": "Memories",
       "url": "https://open.spotify.com/track/2uLa2EKuWZ62AsBUE1TNi6"
-    },
-    {
-      "added_at": "2025-03-14 12:16:40",
-      "album": {
-        "name": "Where Will the River Flow",
-        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
-      },
-      "artists": [
-        {
-          "name": "Matt Carmichael",
-          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
-        }
-      ],
-      "duration_ms": 334925,
-      "name": "Hopeful Morning",
-      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
     },
     {
       "added_at": "2025-03-14 12:16:40",
@@ -471,22 +471,6 @@
     {
       "added_at": "2025-03-14 12:16:40",
       "album": {
-        "name": "End of Summer",
-        "url": "https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "End Of Summer",
-      "url": "https://open.spotify.com/track/5Awwc8XXZPub32TbLWyOPp"
-    },
-    {
-      "added_at": "2025-03-14 12:16:40",
-      "album": {
         "name": "Pure Imagination",
         "url": "https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 358853,
       "name": "Pure Imagination",
       "url": "https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh"
+    },
+    {
+      "added_at": "2025-03-14 12:16:40",
+      "album": {
+        "name": "End of Summer",
+        "url": "https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "End Of Summer",
+      "url": "https://open.spotify.com/track/5Awwc8XXZPub32TbLWyOPp"
     },
     {
       "added_at": "2025-03-14 12:16:40",
@@ -659,6 +659,22 @@
     {
       "added_at": "2025-03-14 12:16:40",
       "album": {
+        "name": "Came and Went",
+        "url": "https://open.spotify.com/album/0O5R1D3Swqfd259ZwdGf3j"
+      },
+      "artists": [
+        {
+          "name": "Geoffrey Dean",
+          "url": "https://open.spotify.com/artist/0nQ0ewyoymNbuOpW9HecWE"
+        }
+      ],
+      "duration_ms": 335196,
+      "name": "Came and Went",
+      "url": "https://open.spotify.com/track/4U04pGOxmK2x1ily3xbRJR"
+    },
+    {
+      "added_at": "2025-03-14 12:16:40",
+      "album": {
         "name": "The Lion Turtle",
         "url": "https://open.spotify.com/album/5ntyasxJzPodwnnZJ252Td"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2025-03-14 12:16:40",
       "album": {
-        "name": "Came and Went",
-        "url": "https://open.spotify.com/album/0O5R1D3Swqfd259ZwdGf3j"
-      },
-      "artists": [
-        {
-          "name": "Geoffrey Dean",
-          "url": "https://open.spotify.com/artist/0nQ0ewyoymNbuOpW9HecWE"
-        }
-      ],
-      "duration_ms": 335196,
-      "name": "Came and Went",
-      "url": "https://open.spotify.com/track/4U04pGOxmK2x1ily3xbRJR"
-    },
-    {
-      "added_at": "2025-03-14 12:16:40",
-      "album": {
         "name": "Homeward Bound",
         "url": "https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 331461,
       "name": "Mack the Knife",
       "url": "https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc"
-    },
-    {
-      "added_at": "2025-03-14 12:16:40",
-      "album": {
-        "name": "Jennie / Gravol",
-        "url": "https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ"
-      },
-      "artists": [
-        {
-          "name": "Hederosgruppen",
-          "url": "https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw"
-        }
-      ],
-      "duration_ms": 364741,
-      "name": "Jennie",
-      "url": "https://open.spotify.com/track/5pvXycrzupnyDZT1FVuwEL"
     },
     {
       "added_at": "2025-03-14 12:16:40",
@@ -799,6 +783,22 @@
     {
       "added_at": "2025-03-14 12:16:40",
       "album": {
+        "name": "Jennie / Gravol",
+        "url": "https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ"
+      },
+      "artists": [
+        {
+          "name": "Hederosgruppen",
+          "url": "https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw"
+        }
+      ],
+      "duration_ms": 364741,
+      "name": "Jennie",
+      "url": "https://open.spotify.com/track/5pvXycrzupnyDZT1FVuwEL"
+    },
+    {
+      "added_at": "2025-03-14 12:16:40",
+      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1TQcJ46fVdGcVoG5kTXe0W"
       },
@@ -811,26 +811,6 @@
       "duration_ms": 171397,
       "name": "Solace",
       "url": "https://open.spotify.com/track/6O7Eyfs27MbNCaoEDwGLqp"
-    },
-    {
-      "added_at": "2025-03-14 12:16:40",
-      "album": {
-        "name": "In the Mountains",
-        "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        },
-        {
-          "name": "Andy Sheppard",
-          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
-        }
-      ],
-      "duration_ms": 496933,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi"
     },
     {
       "added_at": "2025-03-14 12:16:40",
@@ -859,6 +839,26 @@
     {
       "added_at": "2025-03-14 12:16:40",
       "album": {
+        "name": "In the Mountains",
+        "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        },
+        {
+          "name": "Andy Sheppard",
+          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
+        }
+      ],
+      "duration_ms": 496933,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi"
+    },
+    {
+      "added_at": "2025-03-14 12:16:40",
+      "album": {
         "name": "A Drums Comes True",
         "url": "https://open.spotify.com/album/6bey4hwrgdVRopI07dKfsr"
       },
@@ -879,30 +879,6 @@
       "duration_ms": 353280,
       "name": "Will You Still Be Mine?",
       "url": "https://open.spotify.com/track/7FoszDSSSG1bFxDl6QDZ0l"
-    },
-    {
-      "added_at": "2025-03-14 12:16:40",
-      "album": {
-        "name": "Our Songs",
-        "url": "https://open.spotify.com/album/6cbxatO4U8vB68x9IZW2XF"
-      },
-      "artists": [
-        {
-          "name": "Alex Riel",
-          "url": "https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH"
-        },
-        {
-          "name": "Bo Stief",
-          "url": "https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg"
-        },
-        {
-          "name": "Carsten Dahl",
-          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
-        }
-      ],
-      "duration_ms": 224607,
-      "name": "My Song",
-      "url": "https://open.spotify.com/track/0lSLRJcWni4XX5UbCLJPy1"
     },
     {
       "added_at": "2025-03-14 12:16:40",
@@ -931,6 +907,30 @@
     {
       "added_at": "2025-03-14 12:16:40",
       "album": {
+        "name": "Our Songs",
+        "url": "https://open.spotify.com/album/6cbxatO4U8vB68x9IZW2XF"
+      },
+      "artists": [
+        {
+          "name": "Alex Riel",
+          "url": "https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH"
+        },
+        {
+          "name": "Bo Stief",
+          "url": "https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg"
+        },
+        {
+          "name": "Carsten Dahl",
+          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
+        }
+      ],
+      "duration_ms": 224607,
+      "name": "My Song",
+      "url": "https://open.spotify.com/track/0lSLRJcWni4XX5UbCLJPy1"
+    },
+    {
+      "added_at": "2025-03-14 12:16:40",
+      "album": {
         "name": "Going Up",
         "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-03-14 12:16:40",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
-      },
-      "artists": [
-        {
-          "name": "Cyrus Chestnut",
-          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
-        }
-      ],
-      "duration_ms": 244191,
-      "name": "Son binocle",
-      "url": "https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ"
-    },
-    {
-      "added_at": "2025-03-14 12:16:40",
-      "album": {
         "name": "A Ballad Moment",
         "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 317545,
       "name": "Moonlight in Vermont",
       "url": "https://open.spotify.com/track/6zGtpBL97XawYikYkQe4sG"
+    },
+    {
+      "added_at": "2025-03-14 12:16:40",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
+      },
+      "artists": [
+        {
+          "name": "Cyrus Chestnut",
+          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
+        }
+      ],
+      "duration_ms": 244191,
+      "name": "Son binocle",
+      "url": "https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ"
     },
     {
       "added_at": "2025-03-14 12:16:40",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-03-14 12:16:40",
       "album": {
-        "name": "In the Wee Small Hours of the Morning",
-        "url": "https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc"
-      },
-      "artists": [
-        {
-          "name": "David Finck",
-          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
-        }
-      ],
-      "duration_ms": 270027,
-      "name": "In the Wee Small Hours of the Morning",
-      "url": "https://open.spotify.com/track/0lMIb2WobAlzmr8t1yZeUd"
-    },
-    {
-      "added_at": "2025-03-14 12:16:40",
-      "album": {
         "name": "Happy Hours",
         "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 397306,
       "name": "Dear Don",
       "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
+    },
+    {
+      "added_at": "2025-03-14 12:16:40",
+      "album": {
+        "name": "In the Wee Small Hours of the Morning",
+        "url": "https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc"
+      },
+      "artists": [
+        {
+          "name": "David Finck",
+          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
+        }
+      ],
+      "duration_ms": 270027,
+      "name": "In the Wee Small Hours of the Morning",
+      "url": "https://open.spotify.com/track/0lMIb2WobAlzmr8t1yZeUd"
     },
     {
       "added_at": "2025-03-14 12:16:40",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2025-03-14 12:16:40",
       "album": {
-        "name": "Going Up",
-        "url": "https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV"
-      },
-      "artists": [
-        {
-          "name": "Snorre Kirk",
-          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
-        },
-        {
-          "name": "Stephen Riley",
-          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
-        }
-      ],
-      "duration_ms": 280011,
-      "name": "Blues Arabesque",
-      "url": "https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC"
-    },
-    {
-      "added_at": "2025-03-14 12:16:40",
-      "album": {
         "name": "The Great Belonging",
         "url": "https://open.spotify.com/album/0IhSJ4CocuulbqMyhGIbIB"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 371120,
       "name": "The Great Belonging",
       "url": "https://open.spotify.com/track/2b908yzXY8uzaD4gMDcc8G"
+    },
+    {
+      "added_at": "2025-03-14 12:16:40",
+      "album": {
+        "name": "Going Up",
+        "url": "https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV"
+      },
+      "artists": [
+        {
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
+        {
+          "name": "Stephen Riley",
+          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
+        }
+      ],
+      "duration_ms": 280011,
+      "name": "Blues Arabesque",
+      "url": "https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC"
     },
     {
       "added_at": "2025-03-14 12:16:40",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-03-14 12:16:40",
       "album": {
-        "name": "Emberlights",
-        "url": "https://open.spotify.com/album/0quelIpXHaSLQ86IMJ0WOi"
-      },
-      "artists": [
-        {
-          "name": "Rob Barron",
-          "url": "https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd"
-        }
-      ],
-      "duration_ms": 288059,
-      "name": "Dreamsville",
-      "url": "https://open.spotify.com/track/6h0XWn2JOHv0FDSgKQhUXk"
-    },
-    {
-      "added_at": "2025-03-14 12:16:40",
-      "album": {
         "name": "Lonely Nights",
         "url": "https://open.spotify.com/album/6ISlh3JpauVe5p08WbUqvB"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 279520,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/4m7MH411WVmBWq0bagAuTC"
+    },
+    {
+      "added_at": "2025-03-14 12:16:40",
+      "album": {
+        "name": "Emberlights",
+        "url": "https://open.spotify.com/album/0quelIpXHaSLQ86IMJ0WOi"
+      },
+      "artists": [
+        {
+          "name": "Rob Barron",
+          "url": "https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd"
+        }
+      ],
+      "duration_ms": 288059,
+      "name": "Dreamsville",
+      "url": "https://open.spotify.com/track/6h0XWn2JOHv0FDSgKQhUXk"
     },
     {
       "added_at": "2025-03-14 12:16:40",
@@ -1511,30 +1511,6 @@
     {
       "added_at": "2025-03-14 12:16:40",
       "album": {
-        "name": "Afternoon Conversations",
-        "url": "https://open.spotify.com/album/5ZQdJ3xqZQXoYClA67Od1b"
-      },
-      "artists": [
-        {
-          "name": "Battista Lena",
-          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
-        },
-        {
-          "name": "Andrea Ambrosi",
-          "url": "https://open.spotify.com/artist/4fpoxB9jbNj0QrJywnpZPL"
-        },
-        {
-          "name": "Giovanni Paolo Liguori",
-          "url": "https://open.spotify.com/artist/5DPOW734zE6ksQIIKN9qIb"
-        }
-      ],
-      "duration_ms": 323296,
-      "name": "Freddie Freeloader",
-      "url": "https://open.spotify.com/track/1cMJXSb5eCpd4AU7zByvN5"
-    },
-    {
-      "added_at": "2025-03-14 12:16:40",
-      "album": {
         "name": "Bloodline",
         "url": "https://open.spotify.com/album/4ErrMUDXuRoVxuxxJW58XG"
       },
@@ -1559,18 +1535,26 @@
     {
       "added_at": "2025-03-14 12:16:40",
       "album": {
-        "name": "Pannonica",
-        "url": "https://open.spotify.com/album/2yuuyMO0wzr2pbku1Wurd1"
+        "name": "Afternoon Conversations",
+        "url": "https://open.spotify.com/album/5ZQdJ3xqZQXoYClA67Od1b"
       },
       "artists": [
         {
-          "name": "Spike Wilner Trio",
-          "url": "https://open.spotify.com/artist/2IsQRgCkOiPQwg0sKFLAJQ"
+          "name": "Battista Lena",
+          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
+        },
+        {
+          "name": "Andrea Ambrosi",
+          "url": "https://open.spotify.com/artist/4fpoxB9jbNj0QrJywnpZPL"
+        },
+        {
+          "name": "Giovanni Paolo Liguori",
+          "url": "https://open.spotify.com/artist/5DPOW734zE6ksQIIKN9qIb"
         }
       ],
-      "duration_ms": 403285,
-      "name": "Pannonica",
-      "url": "https://open.spotify.com/track/1gyHEnqX09wctbRdqO6HUc"
+      "duration_ms": 323296,
+      "name": "Freddie Freeloader",
+      "url": "https://open.spotify.com/track/1cMJXSb5eCpd4AU7zByvN5"
     },
     {
       "added_at": "2025-03-14 12:16:40",
@@ -1587,6 +1571,22 @@
       "duration_ms": 400363,
       "name": "Waltz for Nina",
       "url": "https://open.spotify.com/track/2dFu8IftrBXEh2osqUGBuB"
+    },
+    {
+      "added_at": "2025-03-14 12:16:40",
+      "album": {
+        "name": "Pannonica",
+        "url": "https://open.spotify.com/album/2yuuyMO0wzr2pbku1Wurd1"
+      },
+      "artists": [
+        {
+          "name": "Spike Wilner Trio",
+          "url": "https://open.spotify.com/artist/2IsQRgCkOiPQwg0sKFLAJQ"
+        }
+      ],
+      "duration_ms": 403285,
+      "name": "Pannonica",
+      "url": "https://open.spotify.com/track/1gyHEnqX09wctbRdqO6HUc"
     },
     {
       "added_at": "2025-03-14 12:16:40",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2025-03-14 12:16:40",
       "album": {
-        "name": "Soul Survivor",
-        "url": "https://open.spotify.com/album/0hYgT7AnSTvB89TirwT1Yw"
-      },
-      "artists": [
-        {
-          "name": "Nuvole",
-          "url": "https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1"
-        }
-      ],
-      "duration_ms": 268949,
-      "name": "Soul Survivor",
-      "url": "https://open.spotify.com/track/12EXBCttLw6aschKlJ0u2d"
-    },
-    {
-      "added_at": "2025-03-14 12:16:40",
-      "album": {
         "name": "Follow the Light",
         "url": "https://open.spotify.com/album/464mXSRcytt5W0mq22FMMt"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 375267,
       "name": "The Starter",
       "url": "https://open.spotify.com/track/51UyPZRpvRZp9d4gRDrwzY"
+    },
+    {
+      "added_at": "2025-03-14 12:16:40",
+      "album": {
+        "name": "Soul Survivor",
+        "url": "https://open.spotify.com/album/0hYgT7AnSTvB89TirwT1Yw"
+      },
+      "artists": [
+        {
+          "name": "Nuvole",
+          "url": "https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1"
+        }
+      ],
+      "duration_ms": 268949,
+      "name": "Soul Survivor",
+      "url": "https://open.spotify.com/track/12EXBCttLw6aschKlJ0u2d"
     },
     {
       "added_at": "2025-03-14 12:16:40",

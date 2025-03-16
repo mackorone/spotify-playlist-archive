@@ -4,7 +4,7 @@
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-84 songs - 4 hr 7 min
+85 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [El Cuestionario](https://open.spotify.com/track/4jySARaQ60WkXe4JO3EKUA) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Cuestionario](https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW) | 3:08 | 2024-01-29 |  |
 | [El Diecinueve](https://open.spotify.com/track/6nEvcWB5luWoVSmClxP6WW) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Diecinueve](https://open.spotify.com/album/2KgGpp3o7lwCNGemdnGcEB) | 2:51 | 2024-01-29 | 2025-03-01 |
 | [El Disney](https://open.spotify.com/track/7s6HTRJUUZ9WCY9gPDhjdj) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [El Disney](https://open.spotify.com/album/71pONzODuum62WjG779fN1) | 2:29 | 2024-04-07 |  |
-| [El Doble M](https://open.spotify.com/track/41NPmOc9fdROE5o1BpCn2w) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Doble M](https://open.spotify.com/album/63LuzfHyA0yV3RH4ZvEHL9) | 2:26 | 2024-01-29 |  |
+| [El Doble M](https://open.spotify.com/track/41NPmOc9fdROE5o1BpCn2w) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Doble M](https://open.spotify.com/album/63LuzfHyA0yV3RH4ZvEHL9) | 2:26 | 2024-01-29 | 2025-03-16 |
 | [El Gori](https://open.spotify.com/track/1HKCPYUanIF67N6vWknABj) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [El Gori](https://open.spotify.com/album/22J5eVxDiCkMMalHqT2jzK) | 2:17 | 2024-01-29 | 2024-11-25 |
 | [El Jeffrey](https://open.spotify.com/track/6KKseqrcB5I4IeGB0pEBcV) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [L.A\. Lumbre](https://open.spotify.com/album/7iZ9VeN3GuIQrA0wFnXrDb) | 2:33 | 2024-01-29 |  |
 | [El Popeye](https://open.spotify.com/track/64gzvtnbBAQVJslAmzxL2V) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 3:36 | 2024-01-29 |  |
@@ -58,6 +58,7 @@
 | [Hombre Nuevo](https://open.spotify.com/track/65ns9zvAO4hekJu8JlIooP) | [Eduardo Laguna](https://open.spotify.com/artist/0Av9PpyBkQ2p9rwuvrfx2B), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Hombre Nuevo](https://open.spotify.com/album/0Ug6cCULP4cnBYSC6PfG2d) | 3:21 | 2024-01-29 |  |
 | [Jardin Verde \(feat\. Hijos de Garcia & Fuerza Regida\)](https://open.spotify.com/track/10Je5SzWya58a2eTc8hQa8) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Hijos de Garcia](https://open.spotify.com/artist/2kxD3bWlLEPzkqvBJkuoAZ) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:14 | 2024-01-29 | 2024-04-29 |
 | [La Flechiza](https://open.spotify.com/track/25uKb1KGbYRB0QXepM67Oi) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Gabriel Silva](https://open.spotify.com/artist/1NVLrvVSGd2ukeQ69T7gDE) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 2:24 | 2024-09-02 | 2024-10-02 |
+| [La Madrugada](https://open.spotify.com/track/1YjkB7y1ab01bX0e7YtE9Q) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [La Madrugada](https://open.spotify.com/album/6bcJJPXLOd0mpMc3eV6NYv) | 2:57 | 2025-03-16 |  |
 | [La Pantera \(En Vivo\)](https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Legado 7 En Vivo Desde OK Corral](https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP) | 3:11 | 2024-01-29 |  |
 | [Las Caravanas](https://open.spotify.com/track/3geTjtaleLUKu8yIkj3A14) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Las Caravanas](https://open.spotify.com/album/2nYuw5IYnD73NmPzjL0vjP) | 3:17 | 2024-01-29 | 2024-08-27 |
 | [Loko](https://open.spotify.com/track/3lTjESpDlyIwNihI8bvAvA) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Loko](https://open.spotify.com/album/1KL3SxgCaWbUpPErlkDydx) | 2:11 | 2025-02-02 |  |

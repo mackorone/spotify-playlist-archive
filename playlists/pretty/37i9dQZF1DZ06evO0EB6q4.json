@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 240362,
+  "num_followers": 240448,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAADAACN/BQm4KDnYxtJeKGCU",
+  "snapshot_id": "Z9NxgAAAAABJU4NKlljNNFGSNT4+A4+J",
   "tracks": [
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+        "url": "https://open.spotify.com/album/7B09xwvImN3XxIC7Dk5bOL"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 203456,
+      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+      "url": "https://open.spotify.com/track/4YboPBRofQXESDyYLZZOSM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seg\u00fan Nosotros",
         "url": "https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 224938,
       "name": "S\u00f3lo T\u00fa",
       "url": "https://open.spotify.com/track/0OpaOJ0gYjhnSgdEaSxHqY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-        "url": "https://open.spotify.com/album/7B09xwvImN3XxIC7Dk5bOL"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 203456,
-      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-      "url": "https://open.spotify.com/track/4YboPBRofQXESDyYLZZOSM"
     },
     {
       "added_at": null,
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 220612,
-      "name": "Lejos de Ti",
-      "url": "https://open.spotify.com/track/04sXYgNcb48fNO0prhFHpq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sui G\u00e9neris",
         "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 279014,
       "name": "Hace Tanto Tiempo",
       "url": "https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 220612,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/04sXYgNcb48fNO0prhFHpq"
     },
     {
       "added_at": null,

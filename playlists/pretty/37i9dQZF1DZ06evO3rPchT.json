@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 75993,
+  "num_followers": 76013,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAD97bHnKrAv2c2hGQ0j4SvF",
+  "snapshot_id": "Z9NxgAAAAACWpi8GCdoqln1HsfsOLEAb",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nobody Likes Your Girlfriend",
+        "url": "https://open.spotify.com/album/5e3nfGmreblIZTTUJOYR7f"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 181870,
+      "name": "Nobody Likes Your Girlfriend",
+      "url": "https://open.spotify.com/track/3MAfSTarsPGtSxlmA6IBSS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs"
       },
@@ -67,26 +87,6 @@
       "duration_ms": 173173,
       "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
       "url": "https://open.spotify.com/track/2tev2oEdAUyNtR1U8gQ8c4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nobody Likes Your Girlfriend",
-        "url": "https://open.spotify.com/album/5e3nfGmreblIZTTUJOYR7f"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 181870,
-      "name": "Nobody Likes Your Girlfriend",
-      "url": "https://open.spotify.com/track/3MAfSTarsPGtSxlmA6IBSS"
     },
     {
       "added_at": null,
@@ -519,22 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quit!!",
-        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
+        "name": "Father\u2019s S\u00f8n (Acoustic)",
+        "url": "https://open.spotify.com/album/26IijVPURwviGtk84ZZoBN"
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
         },
         {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 161352,
-      "name": "HAPPY HOUR (feat. Knox)",
-      "url": "https://open.spotify.com/track/6WxuJ0miXSbI56DbuxQODG"
+      "duration_ms": 272821,
+      "name": "Father\u2019s S\u00f8n - Acoustic",
+      "url": "https://open.spotify.com/track/2kfV0ZcYANdBXvfvGQGXUz"
     },
     {
       "added_at": null,
@@ -555,22 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Father\u2019s S\u00f8n (Acoustic)",
-        "url": "https://open.spotify.com/album/26IijVPURwviGtk84ZZoBN"
+        "name": "Quit!!",
+        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
       },
       "artists": [
         {
-          "name": "Stephen Wilson Jr.",
-          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
-        },
-        {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
         }
       ],
-      "duration_ms": 272821,
-      "name": "Father\u2019s S\u00f8n - Acoustic",
-      "url": "https://open.spotify.com/track/2kfV0ZcYANdBXvfvGQGXUz"
+      "duration_ms": 161352,
+      "name": "HAPPY HOUR (feat. Knox)",
+      "url": "https://open.spotify.com/track/6WxuJ0miXSbI56DbuxQODG"
     },
     {
       "added_at": null,

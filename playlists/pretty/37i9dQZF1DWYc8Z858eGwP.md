@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > Discover your new favourite artists from Africa\. Cover:  <a href="https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU?si=U3O9\-pfZQk6ftAECJfrtAw">Shallipopi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,150 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,259 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

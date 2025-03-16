@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 58639,
+  "num_followers": 58651,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAC6gjywUym0bYhE25VTF8V7",
+  "snapshot_id": "Z9NxgAAAAACAP+eON7ORoYXWe1PojEej",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parque de Diversiones",
-        "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
       },
       "artists": [
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Belik Frozen",
-      "url": "https://open.spotify.com/track/6FXryIsXIDVWtzoJ5vCKmw"
+      "duration_ms": 192085,
+      "name": "Brillo Propio",
+      "url": "https://open.spotify.com/track/7cVgN6hkW4FY8jEdO0ZA4S"
     },
     {
       "added_at": null,
@@ -619,18 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resiliencia",
-        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
+        "name": "Parque de Diversiones",
+        "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
       },
       "artists": [
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
         }
       ],
-      "duration_ms": 192085,
-      "name": "Brillo Propio",
-      "url": "https://open.spotify.com/track/7cVgN6hkW4FY8jEdO0ZA4S"
+      "duration_ms": 162000,
+      "name": "Belik Frozen",
+      "url": "https://open.spotify.com/track/6FXryIsXIDVWtzoJ5vCKmw"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diez Mandamientos",
+        "url": "https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Diez Mandamientos",
+      "url": "https://open.spotify.com/track/1rkibuPk7ICzB33axkx8Bc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Rey De Los Paquetes",
         "url": "https://open.spotify.com/album/6J8KawEafsnKq5lIVX9cbc"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 122212,
       "name": "El Rey de Los Paquetes",
       "url": "https://open.spotify.com/track/3xL6WPIw4Gf65zxDpo0wcy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diez Mandamientos",
-        "url": "https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Diez Mandamientos",
-      "url": "https://open.spotify.com/track/1rkibuPk7ICzB33axkx8Bc"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Lilly Palmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,950,616 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,950,604 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 2 | [Feel It For You](https://open.spotify.com/track/76vnxLIS70EvlISthDydnE) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Feel It For You](https://open.spotify.com/album/5JsQ0nnJ1jzG6QsjZyIh0F) | 3:31 |
 | 3 | [Where I'm From](https://open.spotify.com/track/0JFNTfRWLqQ09z9ZHldX8d) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [Belladonna \(ofc\) ](https://open.spotify.com/artist/1ECGFhfV6SJLbKnTvBFsaQ) | [Where I'm From](https://open.spotify.com/album/71N6oT6Vtqs5xjn9b1xxYK) | 3:22 |
 | 4 | [Falling Up](https://open.spotify.com/track/0yTjMXmYRi3YQNVO4h7Mef) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Falling Up](https://open.spotify.com/album/6h1MD0mbleCoPXg0FYAEzw) | 2:45 |
-| 5 | [It Gets Better \(Forever Mix\)](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [It Gets Better \(Forever Mix\)](https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO) | 4:12 |
+| 5 | [It Gets Better \- Edit](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [It Gets Better \(Forever Mix\)](https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO) | 4:12 |
 | 6 | [Choose Life](https://open.spotify.com/track/2OkOgmVzRjhph4kawX1MHF) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq) | [Choose Life](https://open.spotify.com/album/2KzcNZkZJ7tbBMcizN3e5x) | 3:34 |
 | 7 | [I Look Good](https://open.spotify.com/track/2nO5YCEAQLPYKLbza7N64Z) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [I Look Good](https://open.spotify.com/album/538gE7qZ8YA2vZeYO8jO36) | 2:44 |
 | 8 | [Boadicea](https://open.spotify.com/track/11fOGBS2bqTj9EYkJjlYvs) | [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Boadicea](https://open.spotify.com/album/4ulFJZge5LMnGfMNeD6uh2) | 3:17 |

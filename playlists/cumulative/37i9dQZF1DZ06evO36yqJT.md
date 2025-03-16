@@ -4,7 +4,7 @@
 
 > This is Shirley Caesar\. The essential tracks, all in one playlist.
 
-92 songs - 6 hr 56 min
+93 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Blessed Assurance](https://open.spotify.com/track/0NCWc2gtH3rNkq18osObXe) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 3:50 | 2023-05-12 |  |
 | [Caught Up \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/1CvwoAEl17W0b1f0ZgEbIm) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Rebirth of Kirk Franklin \(Live at Lakewood Church, Houston, TX \- June 16, 2000\)](https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d) | 5:57 | 2023-05-12 | 2023-08-04 |
 | [Caught Up \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/6IUzYQEPdvnsKqEn3o64iJ) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 5:57 | 2023-08-03 |  |
+| [Come Jesus Come](https://open.spotify.com/track/28Snv4xre6AXy3nHgjRJvV) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Come Jesus Come](https://open.spotify.com/album/0qHcqC09wyyfvnEfE2y3UJ) | 5:01 | 2025-03-16 |  |
 | [Come Ye, Disconsolate](https://open.spotify.com/track/7iZ285acdKmeSg01yL8s3L) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 5:15 | 2024-07-06 | 2024-07-22 |
 | [Don't Be Afraid](https://open.spotify.com/track/5qcAI2okoSPebBpM6f0hdz) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Harvest Collection: Shirley Caesar](https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I) | 3:34 | 2023-05-12 | 2024-03-12 |
 | [Don't Drive Your Mama Away](https://open.spotify.com/track/17Re3BFUZRroR1ItmvBSvi) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Harvest Collection: Shirley Caesar](https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I) | 10:23 | 2023-05-12 |  |
@@ -91,7 +92,7 @@
 | [U Name It Holiday Anthem](https://open.spotify.com/track/2uNoV93jYDQgOmYP8VS92M) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [DJ Battlecat](https://open.spotify.com/artist/0oywmZ7vl6A3bQPTsN66Rm), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [U Name It Holiday Anthem](https://open.spotify.com/album/3DffNWg9Aoc3ACYxCbpf7X) | 2:51 | 2023-12-20 | 2025-01-23 |
 | [We Praise You Lord](https://open.spotify.com/track/1NH4kZZ0Phfa949Ewga9qx) | [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar and Friends](https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW) | 5:00 | 2024-11-09 | 2024-11-14 |
 | [What A Friend We Have In Jesus \(You Are My Friend\) \[Ult Version\]](https://open.spotify.com/track/3CGcWCtTzdXBjPzdq0PMr9) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Ultimate Collection](https://open.spotify.com/album/6N3Dudfv0riTx67MKti6Gg) | 4:10 | 2023-05-12 |  |
-| [When You Pray God Answers](https://open.spotify.com/track/4mwePLS7333YpCOEhLsk35) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Good God](https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt) | 6:40 | 2025-03-15 |  |
+| [When You Pray God Answers](https://open.spotify.com/track/4mwePLS7333YpCOEhLsk35) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Good God](https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt) | 6:40 | 2025-03-15 | 2025-03-16 |
 | [Worship Him](https://open.spotify.com/track/380MtcBJp0UhQyu9yNgngb) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 7:46 | 2024-11-11 | 2024-12-14 |
 | [Yes Lord, Yes \- Live](https://open.spotify.com/track/2cfRnrzMThcjkflXJpFrCB) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Live..\. In Chicago](https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF) | 3:55 | 2023-05-12 |  |
 | [You Are All I Need](https://open.spotify.com/track/1lfr85MCIOWgZVgkfkEXSt) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 3:30 | 2023-05-12 | 2024-11-17 |

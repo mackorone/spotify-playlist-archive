@@ -1,12 +1,12 @@
 {
   "description": "This is EARTHGANG. The essential tracks, all in one playlist.",
-  "num_followers": 22069,
+  "num_followers": 22073,
   "original_name": "This Is EARTHGANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAACjpdgYGzNZShuN+PujeBq9",
+  "snapshot_id": "Z9NxgAAAAAAtLzZc7ViQRuYSzHcfHNlQ",
   "tracks": [
     {
       "added_at": null,
@@ -419,30 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECT FANTASY",
-        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Spillage Village",
-          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
-        },
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 358913,
-      "name": "DEEP BLUE (feat. Little Dragon)",
-      "url": "https://open.spotify.com/track/0I9rRQ9vUtx8GzYVvET5Li"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "never worry",
         "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
       },
@@ -463,6 +439,30 @@
       "duration_ms": 222624,
       "name": "Sometimes\u2026 (with Daya & Earthgang)",
       "url": "https://open.spotify.com/track/09MduMD14OZjmAxd6u1Qfi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECT FANTASY",
+        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 358913,
+      "name": "DEEP BLUE (feat. Little Dragon)",
+      "url": "https://open.spotify.com/track/0I9rRQ9vUtx8GzYVvET5Li"
     },
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
-        "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
-      },
-      "artists": [
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 198626,
-      "name": "Act Up",
-      "url": "https://open.spotify.com/track/36Ajx3OHw1qOAjS4tJs38V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here For Now",
         "url": "https://open.spotify.com/album/12BBYEXH7hGF6io8xNuXSJ"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 167480,
       "name": "Big Love (with EARTHGANG & MNDR)",
       "url": "https://open.spotify.com/track/25Q6XHjKEyaXzCvKlwDpPP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
+        "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
+      },
+      "artists": [
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 198626,
+      "name": "Act Up",
+      "url": "https://open.spotify.com/track/36Ajx3OHw1qOAjS4tJs38V"
     },
     {
       "added_at": null,
@@ -590,11 +590,15 @@
         {
           "name": "Spillage Village",
           "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 286408,
-      "name": "RED FLAG",
-      "url": "https://open.spotify.com/track/4Ye2nug3j43IYIorNCQ0JY"
+      "duration_ms": 180014,
+      "name": "U GOTTA (feat. Pharrell)",
+      "url": "https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD"
     },
     {
       "added_at": null,
@@ -678,15 +682,11 @@
         {
           "name": "Spillage Village",
           "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 180014,
-      "name": "U GOTTA (feat. Pharrell)",
-      "url": "https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD"
+      "duration_ms": 286408,
+      "name": "RED FLAG",
+      "url": "https://open.spotify.com/track/4Ye2nug3j43IYIorNCQ0JY"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECT FANTASY",
-        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Spillage Village",
-          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
-        }
-      ],
-      "duration_ms": 274558,
-      "name": "FLAVORS OF KARMA",
-      "url": "https://open.spotify.com/track/1mnPd5i99TknL0OQD340yn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mirrorland",
         "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 270986,
       "name": "Stuck (feat. Arin Ray)",
       "url": "https://open.spotify.com/track/37lsV513gD04gFvKIPCw4N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECT FANTASY",
+        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        }
+      ],
+      "duration_ms": 274558,
+      "name": "FLAVORS OF KARMA",
+      "url": "https://open.spotify.com/track/1mnPd5i99TknL0OQD340yn"
     },
     {
       "added_at": null,
@@ -935,6 +935,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mirrorland",
+        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 196493,
+      "name": "Top Down",
+      "url": "https://open.spotify.com/track/6o2YQhGPwCdYBPpisPFInv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "D-Day: A Gangsta Grillz Mixtape",
         "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 173589,
       "name": "Ghetto Gods Freestyle (with EARTHGANG feat. 2 Chainz)",
       "url": "https://open.spotify.com/track/7Gn7HA4yOHKXDo6vHCiNXV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mirrorland",
-        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 196493,
-      "name": "Top Down",
-      "url": "https://open.spotify.com/track/6o2YQhGPwCdYBPpisPFInv"
     },
     {
       "added_at": null,
@@ -1031,22 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GHETTO GODS",
-        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 240288,
-      "name": "ALL EYES ON ME",
-      "url": "https://open.spotify.com/track/6NxpWAcnqCE6J9pVyLZLeQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mirrorland",
         "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 215346,
       "name": "UP",
       "url": "https://open.spotify.com/track/5w3joDvFdDskgw6TvLh7vN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GHETTO GODS",
+        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 240288,
+      "name": "ALL EYES ON ME",
+      "url": "https://open.spotify.com/track/6NxpWAcnqCE6J9pVyLZLeQ"
     },
     {
       "added_at": null,
@@ -1115,6 +1115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mirrorland",
+        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 179493,
+      "name": "Bank",
+      "url": "https://open.spotify.com/track/0uqJQ1k1N63nl4tAYW8t2A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spilligion",
         "url": "https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 146715,
       "name": "Jupiter (with Mereba & JID feat. EARTHGANG, Jurdan Bryant, Hollywood JB & Benji.)",
       "url": "https://open.spotify.com/track/0je2CwkO13cSNRJzastZKB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mirrorland",
-        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 179493,
-      "name": "Bank",
-      "url": "https://open.spotify.com/track/0uqJQ1k1N63nl4tAYW8t2A"
     },
     {
       "added_at": null,

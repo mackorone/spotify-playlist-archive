@@ -4,7 +4,7 @@
 
 > The official Eurovision Song Contest 2025 playlist.
 
-72 songs - 3 hr 32 min
+73 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Lighter](https://open.spotify.com/track/0AMoopn68aGAAaJ9qFXPnX) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [Lighter](https://open.spotify.com/album/3wo1epa3NLBGPr1rTeJror) | 2:55 | 2025-02-28 |  |
 | [Loop](https://open.spotify.com/track/3DlWvRuHXQ3iQicBauinOd) | [Sarah Bonnici](https://open.spotify.com/artist/6qOSxtFkI6TBjXcWygwvzk) | [Loop](https://open.spotify.com/album/5hN2xd6oN8k9yLPFfBTje0) | 2:59 | 2024-05-11 | 2025-03-01 |
 | [Luktelk](https://open.spotify.com/track/4ZBe9Plh2adT70U4PDxve1) | [Silvester Belt](https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6) | [Luktelk](https://open.spotify.com/album/0IzVeFuUVSQsLj8boRMCO2) | 2:41 | 2024-05-11 | 2025-03-01 |
+| [maman](https://open.spotify.com/track/1iJ9cSEWYQsd2M7ROFyIZx) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [maman](https://open.spotify.com/album/2pguB7D2A9A8oHS76j9Egx) | 3:00 | 2025-03-14 |  |
 | [Mila](https://open.spotify.com/track/30ivP0TxQ9owZotAbhbiGt) | [Princ](https://open.spotify.com/artist/06NQCNZajDFb15rJLcotRc) | [Mila](https://open.spotify.com/album/0mOdQScFDTA144bk5nt8AX) | 2:57 | 2025-03-02 |  |
 | [Milkshake Man](https://open.spotify.com/track/0TWdO0ephIotzHvGuv2pGC) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Milkshake Man](https://open.spotify.com/album/5LX9MOOXXd7ThnJDGGg7Mh) | 2:52 | 2025-02-28 |  |
 | [Mon amour](https://open.spotify.com/track/5N7IYups0hGrlVcvj0bmHG) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Mon amour](https://open.spotify.com/album/6FguEmDlsEN93BBiEbwsRn) | 3:00 | 2024-05-11 | 2025-03-01 |

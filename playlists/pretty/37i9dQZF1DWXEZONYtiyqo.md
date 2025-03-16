@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Feli, Grasu XXL
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,290 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,310 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 6 | [Să nu uiți cât te\-am iubit](https://open.spotify.com/track/5On1Z1lSOxRzTQ2N0aOTd6) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Să nu uiți cât te\-am iubit](https://open.spotify.com/album/2n4MW7lUkeIxZx5P4BmWQS) | 3:16 |
 | 7 | [De neuitat](https://open.spotify.com/track/72uTsW5DnOjxNI6hjKLwPv) | [Elena](https://open.spotify.com/artist/0RumimGfpHJk52huUuN3hq), [Florin Ristei](https://open.spotify.com/artist/75O3JSFrt909DtV34BTWfW) | [De neuitat](https://open.spotify.com/album/7qDVk2qsrxt7zUa0A7IC2D) | 2:56 |
 | 8 | [De\-ai fi în locul meu](https://open.spotify.com/track/0W7iBgUGjDNwBntExP0Gam) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW), [Andra](https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF) | [De\-ai fi în locul meu](https://open.spotify.com/album/1aLhlUceMXjCrePnXaMrCp) | 3:13 |
-| 9 | [De partea ta](https://open.spotify.com/track/45MnoWatRMpPCKDgNEnf9D) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [De partea ta](https://open.spotify.com/album/6F8tfgJlI9KNfmF84y0VW3) | 3:05 |
+| 9 | [De Partea Ta](https://open.spotify.com/track/45MnoWatRMpPCKDgNEnf9D) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [De Partea Ta](https://open.spotify.com/album/6F8tfgJlI9KNfmF84y0VW3) | 3:05 |
 | 10 | [Gloria](https://open.spotify.com/track/0GTscmxIJSjfC9ijrVji6d) | [Mario ](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Gloria](https://open.spotify.com/album/1dpKS7eTxuXvWO3yWD7DUm) | 2:50 |
 | 11 | [Am ales](https://open.spotify.com/track/4mEfnVaMq552vamveh5wxO) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [Am ales](https://open.spotify.com/album/4Zhwwgl06xlit08mHlQO9X) | 3:16 |
 | 12 | [Zâmbește](https://open.spotify.com/track/0vT1xGO41auK3VyI65IldA) | [Cleopatra Stratan](https://open.spotify.com/artist/0Ejsh870ekvlkgnaQkadAG), [Pavel Stratan](https://open.spotify.com/artist/6COGnMricMUbH9sM5TMbAF) | [Zâmbește](https://open.spotify.com/album/2No3D5XSNn3EGZ6SS38yfD) | 3:05 |
-| 13 | [O Piesa RnB](https://open.spotify.com/track/4Hl4L9Zqqb3iY2PONU2P9p) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [O Piesa RnB](https://open.spotify.com/album/2xqwXOCbyxyYuUcgo55zsj) | 2:11 |
+| 13 | [O Piesă RnB](https://open.spotify.com/track/4Hl4L9Zqqb3iY2PONU2P9p) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [O Piesă RnB](https://open.spotify.com/album/2xqwXOCbyxyYuUcgo55zsj) | 2:11 |
 | 14 | [Bună](https://open.spotify.com/track/4IiPQyYNKqKntL5c40gDsN) | [Liviu Teodorescu](https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a) | [Bună](https://open.spotify.com/album/2MdqeKqGHNb9zpl1QI4zGK) | 2:40 |
 | 15 | [E vina mea](https://open.spotify.com/track/4mC0XJcNito55X2pvNoTvs) | [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE), [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7) | [E vina mea](https://open.spotify.com/album/2SlYqe4DBuEMEuk3db2GsP) | 2:50 |
 | 16 | [Locul tău](https://open.spotify.com/track/1S0ueboEfjDivQFB1uPveo) | [Edward Sanda](https://open.spotify.com/artist/2D8tuLHq2d4mctp2WTk62V), [Cleopatra Stratan](https://open.spotify.com/artist/0Ejsh870ekvlkgnaQkadAG) | [Locul tău](https://open.spotify.com/album/1dTJ2Hd1fjWEioROhCJV0M) | 2:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > the best indie dance tracks of the moment 🎉 with Myd
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,938 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,950 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 9 | [All I Am](https://open.spotify.com/track/7z1knymHRO7iuMys6dnanT) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [All I Am](https://open.spotify.com/album/1F5otXEI2rOJD3LOJafnM4) | 3:02 |
 | 10 | [tell you straight](https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [tell you straight](https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq) | 2:04 |
 | 11 | [need u](https://open.spotify.com/track/1PRzCxGlUtTRVdEFKhRDek) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [need u](https://open.spotify.com/album/5vffloTZAolNTHSiYW0VzK) | 2:16 |
-| 12 | [W U](https://open.spotify.com/track/5zJ9hHu54TZu9NdLMSBd11) | [JEV](https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW) | [W U](https://open.spotify.com/album/00Pn5CSnnnEDffAo4GGLBN) | 3:01 |
+| 12 | [W U \(With You\)](https://open.spotify.com/track/5zJ9hHu54TZu9NdLMSBd11) | [JEV](https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW) | [W U \(With You\)](https://open.spotify.com/album/00Pn5CSnnnEDffAo4GGLBN) | 3:01 |
 | 13 | [Know You Love Me](https://open.spotify.com/track/0faiF7LFWA3ZArqE2dD0jh) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Know You Love Me](https://open.spotify.com/album/6KwQvGbg3Zg4fP7A1DX8aw) | 2:59 |
 | 14 | [Smalltown Boy \(feat\. Perfume Genius\)](https://open.spotify.com/track/32Wbkbc7qZQA1viqNboe0D) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Smalltown Boy \(feat\. Perfume Genius\)](https://open.spotify.com/album/6UMQHq7ZFWQmbTYsKqancW) | 4:34 |
 | 15 | [Different Time](https://open.spotify.com/track/5xnovZUHcYKyREGwXrq3uc) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Different Time](https://open.spotify.com/album/0CVh0bJ2pYdd0i2Q0Jwqes) | 3:18 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Bring Me The Horizon. The essential tracks, all in one playlist.",
-  "num_followers": 474525,
+  "num_followers": 474611,
   "original_name": "This Is Bring Me The Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAADOdKME3WlfDu3KcCUGvPaa",
+  "snapshot_id": "Z9NxgAAAAACFdBa55LUAlpPu5QwXF6Fp",
   "tracks": [
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sempiternal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "The House of Wolves",
+      "url": "https://open.spotify.com/track/7hntkdvG3jWdFKm7pGCCzd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 204458,
       "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sempiternal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "The House of Wolves",
-      "url": "https://open.spotify.com/track/7hntkdvG3jWdFKm7pGCCzd"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sempiternal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Go to Hell, for Heaven's Sake",
+      "url": "https://open.spotify.com/track/0Koh9yED8UuaXvg9p5lQdB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad Habits (feat. Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 250763,
       "name": "Bad Habits (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sempiternal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Go to Hell, for Heaven's Sake",
-      "url": "https://open.spotify.com/track/0Koh9yED8UuaXvg9p5lQdB"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "There is a Hell Believe Me I've Seen It. There is a Heaven Let's Keep it a Secret",
-        "url": "https://open.spotify.com/album/6JTBo69T5tEByZEEb4KZYl"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 274133,
-      "name": "It Never Ends",
-      "url": "https://open.spotify.com/track/1ubPOjDpZ5GtGOW8dR4NOh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sempiternal (Expanded Edition)",
         "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 225693,
       "name": "Empire (Let Them Sing)",
       "url": "https://open.spotify.com/track/1DbdQp5dwuawBGmxSHw6Fr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "There is a Hell Believe Me I've Seen It. There is a Heaven Let's Keep it a Secret",
+        "url": "https://open.spotify.com/album/6JTBo69T5tEByZEEb4KZYl"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 274133,
+      "name": "It Never Ends",
+      "url": "https://open.spotify.com/track/1ubPOjDpZ5GtGOW8dR4NOh"
     },
     {
       "added_at": null,

@@ -913,6 +913,24 @@
     },
     {
       "album": {
+        "name": "GRACELAND",
+        "url": "https://open.spotify.com/album/3WnxnPtIRicG42jGMyyEz4"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "date_added": "2025-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303080,
+      "name": "Kill The Dragon",
+      "url": "https://open.spotify.com/track/3K2rE2AsGABWSfnZMJ3uUe"
+    },
+    {
+      "album": {
         "name": "Bold Right Life",
         "url": "https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB"
       },
@@ -1344,7 +1362,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 229840,
       "name": "Praise Him Now",
       "url": "https://open.spotify.com/track/6dzvHYU9p50AWJshDhqZVa"

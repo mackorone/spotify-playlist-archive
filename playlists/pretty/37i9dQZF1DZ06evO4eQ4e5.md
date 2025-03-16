@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 
 > This is Edith Márquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,299 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,313 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 18 | [Si Me Tenías](https://open.spotify.com/track/6vKrT4AyGYxpuXD3ZDZMf6) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amar No Es Suficiente](https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU) | 3:53 |
 | 19 | [Procuro Olvidarte](https://open.spotify.com/track/3WEKXA7d90ycQpnFk2NaUH) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 3:05 |
 | 20 | [Soñé Que Te Perdía](https://open.spotify.com/track/0I85ztkPq0B9qgGdLWtGy3) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Duele](https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ) | 3:43 |
-| 21 | [Acostúmbrame al cielo](https://open.spotify.com/track/1SuRXVqyizsGWkb8Jm2DZu) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Caricias del Cielo](https://open.spotify.com/album/2JdIUwPnMsr8ARYSsPrjnD) | 4:08 |
-| 22 | [Por hablarle de ti](https://open.spotify.com/track/0wfi6FkCbLcp4FTGsDeIOs) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a ti](https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk) | 3:40 |
+| 21 | [Por hablarle de ti](https://open.spotify.com/track/0wfi6FkCbLcp4FTGsDeIOs) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a ti](https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk) | 3:40 |
+| 22 | [Acostúmbrame al cielo](https://open.spotify.com/track/1SuRXVqyizsGWkb8Jm2DZu) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Caricias del Cielo](https://open.spotify.com/album/2JdIUwPnMsr8ARYSsPrjnD) | 4:08 |
 | 23 | [Hasta Que Amanezca](https://open.spotify.com/track/3uTBp9Y39NAk42a8ffblp1) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 2:45 |
 | 24 | [Es Complicado](https://open.spotify.com/track/2xfuLkkNanQTl0pdbViHUo) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [+Mexicana](https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt) | 3:03 |
 | 25 | [Cuando Yo Quiera Has De Volver](https://open.spotify.com/track/5wOLNXLmwy3Ki5mAMXH4hu) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Cuando Yo Quiera Has De Volver](https://open.spotify.com/album/3mcq4piDeCm7V7ehaXf5nw) | 3:32 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 34 | [Extravíate](https://open.spotify.com/track/0sxH4AbYYqRjA3KdZuIc6Y) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a Frente](https://open.spotify.com/album/1BmXobAOtNbMo53baZ5Nsz) | 3:09 |
 | 35 | [Sin Él](https://open.spotify.com/track/7bdiuUevmV6VOoQl9A2CnU) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 3:34 |
 | 36 | [En Secreto](https://open.spotify.com/track/0cyBZcUWJvgQgQc4QSZ3Yf) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Contigo](https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X) | 3:21 |
-| 37 | [Esta vez](https://open.spotify.com/track/3qAFGQR28oP4REx4m0tHcH) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Caricias del Cielo](https://open.spotify.com/album/2JdIUwPnMsr8ARYSsPrjnD) | 4:11 |
-| 38 | [Tómame o déjame](https://open.spotify.com/track/247rGPlCUNTBTZ2dTNOL1a) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Exitos del corazón \(USA\)](https://open.spotify.com/album/6hixQLHfR41yzRQBCCdvNK) | 3:20 |
+| 37 | [Tómame o déjame](https://open.spotify.com/track/247rGPlCUNTBTZ2dTNOL1a) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Exitos del corazón \(USA\)](https://open.spotify.com/album/6hixQLHfR41yzRQBCCdvNK) | 3:20 |
+| 38 | [Esta vez](https://open.spotify.com/track/3qAFGQR28oP4REx4m0tHcH) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Caricias del Cielo](https://open.spotify.com/album/2JdIUwPnMsr8ARYSsPrjnD) | 4:11 |
 | 39 | [Arrepentida](https://open.spotify.com/track/0uNH2bpQFlUku6mPcdk9up) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amar No Es Suficiente](https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU) | 3:27 |
 | 40 | [El Último Beso](https://open.spotify.com/track/5tF9R2PKJHHpQJLZZDi9qm) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Duele](https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ) | 3:49 |
 | 41 | [Llamarada \(feat\. Edith Márquez\) \- En Vivo](https://open.spotify.com/track/6O64gFs1N5A4kkpdxpdHT2) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Celebrando a una Leyenda \(En Vivo\)](https://open.spotify.com/album/2G5k2DVNBs6pUnMUIPn76h) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 49 | [Mi nombre](https://open.spotify.com/track/6OE87tPl4AIuvRlrtuwrea) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Extravíate](https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb) | 4:22 |
 | 50 | [Ya que voy a estar sin ti](https://open.spotify.com/track/4iEqwsKkCYq2UGo0qCiG0P) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a ti](https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk) | 3:59 |
 
-Snapshot ID: `Z9IgAAAAAABEZu6dLhaQxwKiZFXZdqQq`
+Snapshot ID: `Z9NxgAAAAAA+i1Gnm97CIRN+zHVQTUqe`

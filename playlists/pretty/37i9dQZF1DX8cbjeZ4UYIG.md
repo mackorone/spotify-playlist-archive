@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,684 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,752 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 27 | [This Style](https://open.spotify.com/track/2rYo8S1hlnyx7aH9h87So2) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j) | [This Style](https://open.spotify.com/album/7acwlv5XvgMfSXtGQiMnDR) | 5:34 |
 | 28 | [40 Miles](https://open.spotify.com/track/7yZuzE8dyvegAEsGo3yyRo) | [Congress](https://open.spotify.com/artist/34g0SuVnC8oefEeUlmYXBT) | [40 Miles](https://open.spotify.com/album/0FGGbq9a4SLw27m9WZ5DHA) | 5:28 |
 | 29 | [Beat Dis](https://open.spotify.com/track/6L8xB44ZvgAJjQEY9Zx6y6) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6) | [80s 100 Hits \- Volume 2](https://open.spotify.com/album/56QkBFCRUIGCMWnKKKheXC) | 3:22 |
-| 30 | [Code Red](https://open.spotify.com/track/4m3WUb2XPPaVgLBUc5SsNJ) | [Conquering Lion](https://open.spotify.com/artist/5ihLdJPtkczDQGJitNiWcG) | [Code Red](https://open.spotify.com/album/3J7BL97p8taetIOLtaXyI6) | 4:31 |
-| 31 | [Activ\-8 \(Come with Me\)](https://open.spotify.com/track/4ZeT5M0UGhXzJa2IJ41Rjb) | [Altern 8](https://open.spotify.com/artist/4rOv05Duzyn6YkBfQepDYC) | [Greatest: Altern 8](https://open.spotify.com/album/76hA5i0UE8UfqMJJHiLBUe) | 5:34 |
+| 30 | [Activ\-8 \(Come with Me\)](https://open.spotify.com/track/4ZeT5M0UGhXzJa2IJ41Rjb) | [Altern 8](https://open.spotify.com/artist/4rOv05Duzyn6YkBfQepDYC) | [Greatest: Altern 8](https://open.spotify.com/album/76hA5i0UE8UfqMJJHiLBUe) | 5:34 |
+| 31 | [Code Red](https://open.spotify.com/track/4m3WUb2XPPaVgLBUc5SsNJ) | [Conquering Lion](https://open.spotify.com/artist/5ihLdJPtkczDQGJitNiWcG) | [Code Red](https://open.spotify.com/album/3J7BL97p8taetIOLtaXyI6) | 4:31 |
 | 32 | [Ain't Talkin' 'Bout Dub](https://open.spotify.com/track/0lk1zdGFPEv6U7omOAqhSs) | [Apollo 440](https://open.spotify.com/artist/37f9cjf8Ic4t7vYNRYAzI7) | [Electro Glide In Blue](https://open.spotify.com/album/5SBkxQjY7zgrKDrpz6vcV8) | 4:30 |
 | 33 | [It's a Jazz Thing \- Utah Jazz Remix](https://open.spotify.com/track/5eoOlqmQgdThwZolUnW6OH) | [Roni Size](https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr), [Utah Jazz](https://open.spotify.com/artist/1qDIEHxFTJPRYmLO40RL5e) | [It's a Jazz Thing / It's a Big up Thing \(Remixes\)](https://open.spotify.com/album/2IeYXZiKQaxmd5xXeQm8db) | 6:00 |
 | 34 | [Acperience 1](https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W) | [Hardfloor](https://open.spotify.com/artist/6z9JhbmcTrVKITp9ah4mJk) | [TB Resucitation](https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN) | 9:02 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 37 | [Kinetic \- Frank De Wulf Remix](https://open.spotify.com/track/1rEwHLv7SHNSFhmOLx6svp) | [Golden Girls](https://open.spotify.com/artist/03H68X0SYi03kXB8Lj0OR2) | [The Sound Of Belgium](https://open.spotify.com/album/26u7ERyW4UR9xC4RjrxXoN) | 5:48 |
 | 38 | [It's Just a Feeling \- Original 12" Mix](https://open.spotify.com/track/6vC83pgcZz1mO8d2O9Ou9o) | [Terrorize](https://open.spotify.com/artist/70WGcXsH1VPrgXz9kqPda3) | [It's Just a Feeling](https://open.spotify.com/album/4lSWcfjt86cZjznefKNKLs) | 6:52 |
 | 39 | [Pulp Fiction](https://open.spotify.com/track/6rdX0la76j3RGwtZ3id80o) | [Alex Reece](https://open.spotify.com/artist/74AkwPErO7y6jYZwR7ggJA) | [Welcome To The Jungle, Vol\. 7: Jungle + Drum and Bass Soundclash](https://open.spotify.com/album/1HBvtRVu59WAbKus2WdDH0) | 6:10 |
-| 40 | [Bunn the Sensi \- Dub Hustlers Remix](https://open.spotify.com/track/5rwaFjD2ctbrsvh8tFP4cM) | [Top Cat](https://open.spotify.com/artist/3QR3QV1qQuTpcy1DIqOw9j) | [Rumble in the Jungle](https://open.spotify.com/album/5mucViTQhpvARXs9UCcHeg) | 5:50 |
-| 41 | [E\-Vapor\-8](https://open.spotify.com/track/4iAKdClYxItZVrTrwzkIvA) | [Altern 8](https://open.spotify.com/artist/4rOv05Duzyn6YkBfQepDYC) | [Greatest: Altern 8](https://open.spotify.com/album/76hA5i0UE8UfqMJJHiLBUe) | 5:21 |
+| 40 | [E\-Vapor\-8](https://open.spotify.com/track/4iAKdClYxItZVrTrwzkIvA) | [Altern 8](https://open.spotify.com/artist/4rOv05Duzyn6YkBfQepDYC) | [Greatest: Altern 8](https://open.spotify.com/album/76hA5i0UE8UfqMJJHiLBUe) | 5:21 |
+| 41 | [Bunn the Sensi \- Dub Hustlers Remix](https://open.spotify.com/track/5rwaFjD2ctbrsvh8tFP4cM) | [Top Cat](https://open.spotify.com/artist/3QR3QV1qQuTpcy1DIqOw9j) | [Rumble in the Jungle](https://open.spotify.com/album/5mucViTQhpvARXs9UCcHeg) | 5:50 |
 | 42 | [Panic](https://open.spotify.com/track/12IgeOceRuMzBymb9zTAWr) | [Force Mass Motion](https://open.spotify.com/artist/3RKv86Dvl132jbxDVUmXNX) | [The Stone Of The 5th Sun](https://open.spotify.com/album/4iA3qCKxfySUWnOed7zUGz) | 5:08 |
 | 43 | [Raving I'm Raving \- Remix.Mp3](https://open.spotify.com/track/0xi6k3xSyrxWG0oeQMQJnk) | [Shut Up and Dance](https://open.spotify.com/artist/5m8iUPCoViiUr1fXKjX7ej) | [Death Is Not the End](https://open.spotify.com/album/4eBXRI4mExUO5zSZULCYnK) | 4:22 |
 | 44 | [Cubes](https://open.spotify.com/track/6SWyIMaXdpLkhiItiS40yw) | [Modular Expansion](https://open.spotify.com/artist/7gzna5FLH7KeMHxbqImL7P) | [Unit 1](https://open.spotify.com/album/5w3AS9phJPcCVQMcvefeHt) | 4:05 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 47 | [No Good \(Start the Dance\) \[Remastered\]](https://open.spotify.com/track/1qHKYuAeVf0XISmgwaacHf) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [More Music for the Jilted Generation](https://open.spotify.com/album/6wZgpIgQWZzq8qKJrU7ELd) | 6:17 |
 | 48 | [Ebeneezer Goode \- Beat Edit](https://open.spotify.com/track/3cJiAK4ogUaUrx2E0lDvUt) | [The Shamen](https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3) | [Ebeneezer Goode \- EP](https://open.spotify.com/album/15y6aeJMkWSFhCTjR1VgWV) | 3:54 |
 | 49 | [Pacific State](https://open.spotify.com/track/3t9dq1I2VKPmEcatwRkJ9P) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Blueprint \(The Best of\)](https://open.spotify.com/album/2WuGvmbLkF1HFHkVq33TuY) | 5:50 |
-| 50 | [Halcyon and On and On](https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Orbital 2](https://open.spotify.com/album/1T7efw93w96udljrPyL44G) | 9:27 |
+| 50 | [LFO](https://open.spotify.com/track/0BELfOcufjLMZkfPu2p7K5) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [LFO](https://open.spotify.com/album/7a2ja1S9hGEDBTO91uoj6n) | 5:19 |
 
 Snapshot ID: `ZpExBwAAAAAPFUqriKbGyR7J+dUjqaFS`

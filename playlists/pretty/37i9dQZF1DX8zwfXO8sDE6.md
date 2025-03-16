@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 
 > Discover the amazing world of Japanese City Pop from the ‘70s./ ニューミュージックとも一線を画す、都会的で洗練された音楽＝シティポップ の誕生。黎明期の輝きは永遠に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,475 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,495 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 37 | [流星都市](https://open.spotify.com/track/5dcuJcdVq216AlN83S2c2b) | [Chu Kosaka](https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA) | [ほうろう](https://open.spotify.com/album/569VdQ5J9BOq1tv5ahzf7R) | 3:56 |
 | 38 | [キッシング・フィッシュ \- 2017 リマスター](https://open.spotify.com/track/1z5DFbLuxGIyGZ475T2L7v) | [Nanako Sato](https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33) | [Kissing Fish \(2017 リマスター\)](https://open.spotify.com/album/0lYuIvIxDgtshJa2CUjMTQ) | 4:39 |
 | 39 | [砂の女](https://open.spotify.com/track/3KauV05L57307GtIr7qDzn) | [Shigeru Suzuki](https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z) | [BAND WAGON \(リマスター2017\)](https://open.spotify.com/album/2MipJf5PtOFcUeIdPYVmtO) | 3:55 |
-| 40 | [戻っておいで・私の時間](https://open.spotify.com/track/4D1keJOHZGqct7n3F8LA9G) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [BEGINNING](https://open.spotify.com/album/36BRn0ckMgu8ePVx2wnun8) | 3:29 |
-| 41 | [マイ・ピュア・レディ](https://open.spotify.com/track/3Aq7x3kFdJQJMFk22k16WF) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Amii \- versary \(東芝EMI編\)](https://open.spotify.com/album/3qdqOLfYO9ghyK6oeDntJg) | 3:17 |
+| 40 | [マイ・ピュア・レディ](https://open.spotify.com/track/3Aq7x3kFdJQJMFk22k16WF) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Amii \- versary \(東芝EMI編\)](https://open.spotify.com/album/3qdqOLfYO9ghyK6oeDntJg) | 3:17 |
+| 41 | [戻っておいで・私の時間](https://open.spotify.com/track/4D1keJOHZGqct7n3F8LA9G) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [BEGINNING](https://open.spotify.com/album/36BRn0ckMgu8ePVx2wnun8) | 3:29 |
 | 42 | [SHININ' YOU,SHININ' DAY](https://open.spotify.com/track/41GTw7r5nCPUSTf0F0O8xy) | [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [Char\[Remaster\]](https://open.spotify.com/album/0Z97HIdLQP7O5gecJXy9i2) | 5:55 |
 | 43 | [Gardenia](https://open.spotify.com/track/6mWffFIkSHEJaJNSSFlvMR) | [Kazuhiko Kato](https://open.spotify.com/artist/2lNBXVmLH56C2x0Nj4NSzC) | [ガーディニア](https://open.spotify.com/album/3DbzmSYvnSrbCwsdThZ9d9) | 4:29 |
 | 44 | [The Tokyo Taste](https://open.spotify.com/track/6AKFrXgaa6gAWZyg5g2hyH) | [Sadistics](https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW), [Raji](https://open.spotify.com/artist/6BIhMqvFyj8nYQrk6EmE0Y), [Alex](https://open.spotify.com/artist/7A6cteuR1eQJ01f5P2ZDZI) | [sadistics](https://open.spotify.com/album/0hoyGdz4oLEHvtazzD0myg) | 3:42 |

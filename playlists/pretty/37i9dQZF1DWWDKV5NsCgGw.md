@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDKV5NsCgGw.md) - [plain]
 
 > Karma comes for everyone...Listen to the music from and inspired by The White Lotus, streaming only on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,118 likes - 111 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,383 likes - 111 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

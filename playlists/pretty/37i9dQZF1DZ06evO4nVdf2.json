@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 62430,
+  "num_followers": 62460,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAABy9v2S1V5/rtEYZOt36JHO",
+  "snapshot_id": "Z9NxgAAAAADTmPf0TmGer/yrwQCe41VE",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara [En Vivo]",
+        "url": "https://open.spotify.com/album/2pYAi581eUrOxSGWMuN5dH"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Amor, Amor de Mis Amores (with Ximena Sari\u00f1ana) - En Vivo [Sala Telef\u00f3nica del Centro Cultural Roberto Cantoral]",
+      "url": "https://open.spotify.com/track/1xUUwulH27eH1TPa1faebX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La M\u00e1quina Persona",
         "url": "https://open.spotify.com/album/4CKMDfvdrGb71J8GoUqDPP"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 163846,
       "name": "Si Esto Es",
       "url": "https://open.spotify.com/track/00YJ1m8El41cHi3airbL0c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara [En Vivo]",
-        "url": "https://open.spotify.com/album/2pYAi581eUrOxSGWMuN5dH"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Amor, Amor de Mis Amores (with Ximena Sari\u00f1ana) - En Vivo [Sala Telef\u00f3nica del Centro Cultural Roberto Cantoral]",
-      "url": "https://open.spotify.com/track/1xUUwulH27eH1TPa1faebX"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
       "duration_ms": 188813,
       "name": "Si T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/5fncLNZgQmsV3535P2k5RP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amarte Duele (Versiones de Ximena)",
+        "url": "https://open.spotify.com/album/06fM2eKOCsrKGxrUWYYSu0"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 193407,
+      "name": "Ma\u00f1ana No Es Hoy - Versi\u00f3n de Ximena",
+      "url": "https://open.spotify.com/track/5LPYvfHyqgFB5ZPNayhtUB"
     },
     {
       "added_at": null,
@@ -724,9 +740,9 @@
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 193407,
-      "name": "Ma\u00f1ana No Es Hoy - Versi\u00f3n de Ximena",
-      "url": "https://open.spotify.com/track/5LPYvfHyqgFB5ZPNayhtUB"
+      "duration_ms": 224121,
+      "name": "Las Huellas - Versi\u00f3n de Ximena",
+      "url": "https://open.spotify.com/track/6Y6oC4hmqAHB7KDkOlSDT1"
     },
     {
       "added_at": null,
@@ -843,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adentro",
-        "url": "https://open.spotify.com/album/4EkouVwYZqZVmnnxx7O6Xr"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 236255,
-      "name": "Nada Para Ti",
-      "url": "https://open.spotify.com/track/3N1eK5Zm50v0GXF27ZknXG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mediocre",
         "url": "https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g"
       },
@@ -879,22 +875,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
-        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
+        "name": "Adentro",
+        "url": "https://open.spotify.com/album/4EkouVwYZqZVmnnxx7O6Xr"
       },
       "artists": [
         {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
         },
         {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 218479,
-      "name": "No S\u00e9 (feat. Girl Ultra)",
-      "url": "https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ"
+      "duration_ms": 236255,
+      "name": "Nada Para Ti",
+      "url": "https://open.spotify.com/track/3N1eK5Zm50v0GXF27ZknXG"
     },
     {
       "added_at": null,
@@ -919,22 +915,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monitor",
-        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
+        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
       },
       "artists": [
         {
-          "name": "Volov\u00e1n",
-          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
-        },
-        {
           "name": "Ximena Sari\u00f1ana",
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
         }
       ],
-      "duration_ms": 228906,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/3LplsitRxVq8kre3gvkQT1"
+      "duration_ms": 218479,
+      "name": "No S\u00e9 (feat. Girl Ultra)",
+      "url": "https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ"
     },
     {
       "added_at": null,
@@ -955,8 +951,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amarte Duele (Versiones de Ximena)",
-        "url": "https://open.spotify.com/album/06fM2eKOCsrKGxrUWYYSu0"
+        "name": "Monitor",
+        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
+      },
+      "artists": [
+        {
+          "name": "Volov\u00e1n",
+          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 228906,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/3LplsitRxVq8kre3gvkQT1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ojos Diamante",
+        "url": "https://open.spotify.com/album/4rtY6WZ5mVN9tPgLw8ta51"
       },
       "artists": [
         {
@@ -964,9 +980,9 @@
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 224121,
-      "name": "Las Huellas - Versi\u00f3n de Ximena",
-      "url": "https://open.spotify.com/track/6Y6oC4hmqAHB7KDkOlSDT1"
+      "duration_ms": 163432,
+      "name": "Ojos Diamante",
+      "url": "https://open.spotify.com/track/5xhk8G4SbcV3WInNiOy3pt"
     },
     {
       "added_at": null,
@@ -991,8 +1007,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ojos Diamante",
-        "url": "https://open.spotify.com/album/4rtY6WZ5mVN9tPgLw8ta51"
+        "name": "No todo lo puedes dar",
+        "url": "https://open.spotify.com/album/5B3qry3tE4rHhgI4pRc7Ld"
       },
       "artists": [
         {
@@ -1000,9 +1016,9 @@
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 163432,
-      "name": "Ojos Diamante",
-      "url": "https://open.spotify.com/track/5xhk8G4SbcV3WInNiOy3pt"
+      "duration_ms": 228640,
+      "name": "La Vida No Es F\u00e1cil",
+      "url": "https://open.spotify.com/track/0jGTmc9Z4yczeLzLVaIJgp"
     },
     {
       "added_at": null,
@@ -1019,22 +1035,6 @@
       "duration_ms": 231716,
       "name": "Mr. Carisma",
       "url": "https://open.spotify.com/track/1hdSsODySd5A7IHDStGjBn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No todo lo puedes dar",
-        "url": "https://open.spotify.com/album/5B3qry3tE4rHhgI4pRc7Ld"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 228640,
-      "name": "La Vida No Es F\u00e1cil",
-      "url": "https://open.spotify.com/track/0jGTmc9Z4yczeLzLVaIJgp"
     }
   ],
   "unique_name": "This Is Ximena Sari\u00f1ana",

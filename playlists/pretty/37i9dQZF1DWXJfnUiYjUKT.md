@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Chappell Roan on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,359 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,419 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 18 | [FUFN \(Fuck You For Now\)](https://open.spotify.com/track/7hWESP9salkKYucipe5W99) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [FUFN \(Fuck You For Now\)](https://open.spotify.com/album/2q2NWhj9rd5WnKokMmapIq) | 3:35 |
 | 19 | [Reach Out And Kiss Me](https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Reach Out And Kiss Me](https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX) | 3:30 |
 | 20 | [Night Rider](https://open.spotify.com/track/2ZAVci8nZRqLEWV60mogWV) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Lonesome Drifter](https://open.spotify.com/album/64lDGn2XUSnXAncXh9Zzow) | 3:18 |
-| 21 | [I Don't Love Here Anymore](https://open.spotify.com/track/1NvxMFUJm32lDXdxgTfd5z) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene \(Expanded Edition\)](https://open.spotify.com/album/3m9iIzYKrmMa4tLjASBqFs) | 3:59 |
+| 21 | [I Don't Love Here Anymore](https://open.spotify.com/track/1NvxMFUJm32lDXdxgTfd5z) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene \(20th Anniversary Edition\)](https://open.spotify.com/album/3m9iIzYKrmMa4tLjASBqFs) | 3:59 |
 | 22 | [Familiar](https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Familiar](https://open.spotify.com/album/2DDhjNTlNh2tkhxwIfgrY5) | 1:47 |
 | 23 | [Different](https://open.spotify.com/track/7x8FCh3aNU7YrYUSTVGHv6) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Different](https://open.spotify.com/album/2Du9S3uLn4IsAK3R7IqEOY) | 3:26 |
 | 24 | [WOAHH \(feat\. Clarent\)](https://open.spotify.com/track/7MNGE2R8drq3d04vH5Ahlm) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [WOAHH \(feat\. Clarent\)](https://open.spotify.com/album/0gbMkiBhxKylsgLDimcb0M) | 4:19 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 47 | [Only Love](https://open.spotify.com/track/4fE3PQDHE50vrcqN8ElxDr) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Only Love](https://open.spotify.com/album/4WjiBXuiBrFqkRgIG9OCfr) | 4:19 |
 | 48 | [CUT THE LIGHTS.](https://open.spotify.com/track/0bYHcx3rUfV6SPKgVjJAGb) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [CUT THE LIGHTS.](https://open.spotify.com/album/5lEBtUY6STndUFxf2odnzn) | 2:44 |
 | 49 | [Wake Em Up](https://open.spotify.com/track/3LXRevaRWpJajAVKhgzvrd) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Wake Em Up](https://open.spotify.com/album/0PdmRhlaO6JuOcsWLVjPaK) | 2:09 |
-| 50 | [It Gets Better \(Forever Mix\)](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [It Gets Better \(Forever Mix\)](https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO) | 4:12 |
+| 50 | [It Gets Better \- Edit](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [It Gets Better \(Forever Mix\)](https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO) | 4:12 |
 | 51 | [BANSHEE](https://open.spotify.com/track/2phA5dZJrWqOBrOHFAgrjQ) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [BANSHEE](https://open.spotify.com/album/3Ory0Dd1Nrslodb0Po92AN) | 3:07 |
 | 52 | [Bonnet Of Pins](https://open.spotify.com/track/0hLFRJetaM0qj09lyyJ9a5) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Bonnet Of Pins](https://open.spotify.com/album/4yNVLDb15XthYKBzMq2sy1) | 4:47 |
 | 53 | [Make Believe](https://open.spotify.com/track/4lt0Ay3gio1ADzj2gL7W5J) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Make Believe](https://open.spotify.com/album/0H2YJmkiEJBR0EqDSFJ5yv) | 2:59 |

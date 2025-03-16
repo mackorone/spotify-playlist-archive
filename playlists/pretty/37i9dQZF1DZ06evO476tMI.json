@@ -1,13 +1,33 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 621834,
+  "num_followers": 621877,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAAYKIhhJgfMKeARR2snoEMJ",
+  "snapshot_id": "Z9NxgAAAAAASEbUEcHyNnAU+qHdySAc1",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Not Right But It's Okay",
+        "url": "https://open.spotify.com/album/5L6Sk7HlBhTQaeXh5nkQro"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 212990,
+      "name": "It's Not Right But It's Okay",
+      "url": "https://open.spotify.com/track/1MTCiRbvPK93YY6LNIeEbc"
+    },
     {
       "added_at": null,
       "album": {
@@ -651,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Whitney The Greatest Hits",
+        "url": "https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 281066,
+      "name": "Why Does It Hurt So Bad - from \"Waiting to Exhale\" - Original Soundtrack",
+      "url": "https://open.spotify.com/track/5DgNGI95SbwM64C4apE6Or"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Preacher's Wife",
         "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
       },
@@ -667,22 +703,6 @@
       "duration_ms": 296373,
       "name": "I Love The Lord (with Georgia Mass Choir)",
       "url": "https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Whitney The Greatest Hits",
-        "url": "https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 281066,
-      "name": "Why Does It Hurt So Bad - from \"Waiting to Exhale\" - Original Soundtrack",
-      "url": "https://open.spotify.com/track/5DgNGI95SbwM64C4apE6Or"
     },
     {
       "added_at": null,
@@ -723,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 260293,
-      "name": "You'll Never Stand Alone",
-      "url": "https://open.spotify.com/track/3KFbjIFQxMbOKdZ4S3lv4S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whitney The Greatest Hits",
         "url": "https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg"
       },
@@ -755,6 +759,22 @@
       "duration_ms": 298106,
       "name": "Same Script, Different Cast",
       "url": "https://open.spotify.com/track/2tzf1KhNuANrujMqN10fvF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 260293,
+      "name": "You'll Never Stand Alone",
+      "url": "https://open.spotify.com/track/3KFbjIFQxMbOKdZ4S3lv4S"
     },
     {
       "added_at": null,
@@ -795,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 312506,
-      "name": "Jesus Loves Me",
-      "url": "https://open.spotify.com/track/77ld03vIqCjakQkIQBPTVA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whitney The Greatest Hits",
         "url": "https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg"
       },
@@ -831,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 312506,
+      "name": "Jesus Loves Me",
+      "url": "https://open.spotify.com/track/77ld03vIqCjakQkIQBPTVA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bobby",
         "url": "https://open.spotify.com/album/6MBpIrXaNMdoTNrWchRpO7"
       },
@@ -847,22 +867,6 @@
       "duration_ms": 299800,
       "name": "Something In Common",
       "url": "https://open.spotify.com/track/3D6xxbFiyPRduSUowHbjSP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just Whitney",
-        "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 221866,
-      "name": "You Light Up My Life",
-      "url": "https://open.spotify.com/track/5vXEPFOkx6eugLNxg4YauT"
     }
   ],
   "unique_name": "This Is Whitney Houston",

@@ -241,6 +241,24 @@
     },
     {
       "album": {
+        "name": "HOTBOX",
+        "url": "https://open.spotify.com/album/3dXTiG15LrfpSmQUP0au5g"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2025-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182925,
+      "name": "HOTBOX",
+      "url": "https://open.spotify.com/track/398rCeBrqZr360MpS6EXE9"
+    },
+    {
+      "album": {
         "name": "INDUSTRY BABY (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
       },

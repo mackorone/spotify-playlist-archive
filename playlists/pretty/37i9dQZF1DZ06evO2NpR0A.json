@@ -1,28 +1,32 @@
 {
   "description": "This is Bon Iver. The essential tracks, all in one playlist.",
-  "num_followers": 275200,
+  "num_followers": 275267,
   "original_name": "This Is Bon Iver",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAABpIr8+FgWXoj/1MXXL9DZK",
+  "snapshot_id": "Z9NxgAAAAACGLPXE4e9aMeEPNbZUK3iS",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Everything Is Peaceful Love",
-        "url": "https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs"
+        "name": "If Only I Could Wait b/w Walk Home",
+        "url": "https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh"
       },
       "artists": [
         {
           "name": "Bon Iver",
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        },
+        {
+          "name": "Danielle Haim",
+          "url": "https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9"
         }
       ],
-      "duration_ms": 210054,
-      "name": "Everything Is Peaceful Love",
-      "url": "https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP"
+      "duration_ms": 202003,
+      "name": "If Only I Could Wait",
+      "url": "https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07"
     },
     {
       "added_at": null,
@@ -95,6 +99,22 @@
       "duration_ms": 160093,
       "name": "Beach Baby",
       "url": "https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything Is Peaceful Love",
+        "url": "https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 210054,
+      "name": "Everything Is Peaceful Love",
+      "url": "https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP"
     },
     {
       "added_at": null,
@@ -435,22 +455,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Laugh Track",
-        "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
       },
       "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        },
         {
           "name": "Bon Iver",
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 303173,
-      "name": "Weird Goodbyes (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/75JaY0e1HDkTfetsrQ5vUR"
+      "duration_ms": 245200,
+      "name": "29 #Strafford APTS",
+      "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
     },
     {
       "added_at": null,
@@ -471,8 +487,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+        "name": "Laugh Track",
+        "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 303173,
+      "name": "Weird Goodbyes (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/75JaY0e1HDkTfetsrQ5vUR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If Only I Could Wait b/w Walk Home",
+        "url": "https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh"
       },
       "artists": [
         {
@@ -480,9 +516,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 245200,
-      "name": "29 #Strafford APTS",
-      "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
+      "duration_ms": 226050,
+      "name": "Walk Home",
+      "url": "https://open.spotify.com/track/74Bqm7NMMh2wIcwnmZQuhx"
     },
     {
       "added_at": null,
@@ -503,6 +539,22 @@
       "duration_ms": 257219,
       "name": "I Need A Forest Fire",
       "url": "https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "33 \u201cGOD\u201d",
+      "url": "https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC"
     },
     {
       "added_at": null,
@@ -543,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "33 \u201cGOD\u201d",
-      "url": "https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heart of Gold (with Bon Iver)",
         "url": "https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH"
       },
@@ -575,6 +611,22 @@
       "duration_ms": 172190,
       "name": "Heart of Gold (with Bon Iver)",
       "url": "https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 309013,
+      "name": "8 (circle)",
+      "url": "https://open.spotify.com/track/16WkFbQRW2BhvMUwuIaIsx"
     },
     {
       "added_at": null,
@@ -611,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 309013,
-      "name": "8 (circle)",
-      "url": "https://open.spotify.com/track/16WkFbQRW2BhvMUwuIaIsx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dark Was The Night (Red Hot Compilation)",
         "url": "https://open.spotify.com/album/1ZgPLRwQF58fsgciZl1PO4"
       },
@@ -639,6 +675,22 @@
       "duration_ms": 242933,
       "name": "Brackett, WI",
       "url": "https://open.spotify.com/track/6nC0OeALgrXNmyFFMGKNqO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "22 (OVER S\u221e\u221eN)",
+      "url": "https://open.spotify.com/track/3EYj5rxRbNM3nijF9dOtry"
     },
     {
       "added_at": null,
@@ -675,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "22 (OVER S\u221e\u221eN)",
-      "url": "https://open.spotify.com/track/3EYj5rxRbNM3nijF9dOtry"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Valley",
         "url": "https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc"
       },
@@ -711,38 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i,i",
-        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "Marion",
-      "url": "https://open.spotify.com/track/4Pzg3KLuXxPJ2eFsPiN134"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PDLIF",
-        "url": "https://open.spotify.com/album/7qndMGjqK9djNHcROVSd1J"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 177285,
-      "name": "PDLIF",
-      "url": "https://open.spotify.com/track/0kT1QOkgYYaW0lnMpXY76h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "22, A Million",
         "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
       },
@@ -755,22 +759,6 @@
       "duration_ms": 132000,
       "name": "715 - CR\u2211\u2211KS",
       "url": "https://open.spotify.com/track/4fLfKKoIWroefEjqpMDid7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Look Up (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 242149,
-      "name": "Second Nature",
-      "url": "https://open.spotify.com/track/0ZiZoJuytgBABtjeR9nzhE"
     },
     {
       "added_at": null,
@@ -791,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Bank",
-        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
+        "name": "PDLIF",
+        "url": "https://open.spotify.com/album/7qndMGjqK9djNHcROVSd1J"
       },
       "artists": [
         {
@@ -800,9 +788,25 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 283613,
-      "name": "Babys",
-      "url": "https://open.spotify.com/track/5FGsZbvRZer28nY0cU82D7"
+      "duration_ms": 177285,
+      "name": "PDLIF",
+      "url": "https://open.spotify.com/track/0kT1QOkgYYaW0lnMpXY76h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Look Up (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 242149,
+      "name": "Second Nature",
+      "url": "https://open.spotify.com/track/0ZiZoJuytgBABtjeR9nzhE"
     },
     {
       "added_at": null,
@@ -819,6 +823,22 @@
       "duration_ms": 252000,
       "name": "666 \u0287",
       "url": "https://open.spotify.com/track/0CH4Zcnru3JDValapqx3BO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "Marion",
+      "url": "https://open.spotify.com/track/4Pzg3KLuXxPJ2eFsPiN134"
     },
     {
       "added_at": null,

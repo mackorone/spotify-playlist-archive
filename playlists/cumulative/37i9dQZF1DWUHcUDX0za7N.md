@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Wizard Chan
 
-557 songs - 1 day 2 hr 19 min
+558 songs - 1 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,7 +291,7 @@
 | [LETTER 222 DELE](https://open.spotify.com/track/5Mbo8cFWYs0Ww2MvoMWdwV) | [PDSTRN](https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv), [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [ROCK, PAPER, SCISSORS](https://open.spotify.com/album/6PeVBL2DDJgqkVyNUaHy2j) | 2:40 | 2024-10-25 | 2024-11-16 |
 | [Letter From Overseas \(feat\. Black Sherif\)](https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Letter From Overseas \(feat\. Black Sherif\)](https://open.spotify.com/album/6ucz02tBn7xRIRjJJ5kfHA) | 2:18 | 2022-11-15 | 2024-07-19 |
 | [Lifestyle](https://open.spotify.com/track/0KOKyqR6sW9CporoouYTJV) | [88 Shades](https://open.spotify.com/artist/1OFgO1xhsc0JBIKXmcn6KZ), [Zilla Oaks](https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU) | [Lifestyle](https://open.spotify.com/album/4Zg6fQKeY8NZfPa27af2hq) | 3:08 | 2024-09-20 | 2024-11-16 |
-| [Lifestyle \(feat\. Pheelz\)](https://open.spotify.com/track/7dcr2Uhxl9UvFpc1LgMVdt) | [DJ Shawn](https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Lifestyle \(feat\. Pheelz\)](https://open.spotify.com/album/0Z0XLLoN98NG1YgG15n4uX) | 2:55 | 2024-08-09 |  |
+| [Lifestyle \(feat\. Pheelz\)](https://open.spotify.com/track/7dcr2Uhxl9UvFpc1LgMVdt) | [DJ Shawn](https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Lifestyle \(feat\. Pheelz\)](https://open.spotify.com/album/0Z0XLLoN98NG1YgG15n4uX) | 2:55 | 2024-08-09 | 2025-03-16 |
 | [LIKE](https://open.spotify.com/track/68te6KLnaeYkrAsAlzGGlD) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Andre Vibez](https://open.spotify.com/artist/1MVv46raia2Yqm8yHoDeUp), [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK) | [LIKE](https://open.spotify.com/album/11qoPfHNEcoTnyEUNBfvFr) | 3:47 | 2024-10-04 |  |
 | [LIKE ICE SPICE](https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Like Ice Spice / Bezos](https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA) | 2:03 | 2023-07-07 | 2024-07-19 |
 | [Live Life](https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Palmwine Music 3](https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF) | 3:41 | 2022-09-30 | 2023-09-29 |
@@ -457,6 +457,7 @@
 | [Sinner](https://open.spotify.com/track/7vHlCu70F8GQyA9cBvCoNg) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 2:45 | 2022-11-04 | 2022-11-19 |
 | [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 | 2023-06-02 | 2023-09-29 |
 | [SKI](https://open.spotify.com/track/1vE1nV0Q3t9gcw6ZlZ0yJT) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [SKI](https://open.spotify.com/album/24rTvY9feCnZe0SLsLdzbF) | 2:34 | 2022-06-09 | 2022-11-16 |
+| [Ski Ski](https://open.spotify.com/track/4z7yA5ZHPBb99qvjcyeuGk) | [Cazulee](https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q), [Badass](https://open.spotify.com/artist/4yxp1mRdHK50pMPKynSQBG) | [Ski Ski](https://open.spotify.com/album/4AX0RBHMYx4y8RO5urAbnB) | 2:29 | 2025-03-14 |  |
 | [Slomotion](https://open.spotify.com/track/5r53idwy7v6wuFUd3TeU3e) | [Tia](https://open.spotify.com/artist/3JAdD9AfJI9QymrEo49Qhp) | [Western Cape](https://open.spotify.com/album/70NUpzVsG0dQLUTPVgSkZN) | 2:48 | 2023-06-30 | 2023-07-14 |
 | [Slow](https://open.spotify.com/track/4RuDuO8bsWob3pELITGjU0) | [Jaylon](https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4) | [Slow](https://open.spotify.com/album/7MS1w9zPyeecLWZrSYC8zP) | 2:19 | 2023-05-26 | 2023-06-03 |
 | [Smackdown](https://open.spotify.com/track/1ws0w64Ktn6k51cLXTnnhH) | [AttiFaya](https://open.spotify.com/artist/4cAyqsHFXraGJp8eztAeO0), [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Smackdown](https://open.spotify.com/album/0AyrSIbCRoTSmL3ceHQ5gn) | 2:42 | 2023-04-27 | 2023-05-13 |

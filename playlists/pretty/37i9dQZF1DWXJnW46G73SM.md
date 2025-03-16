@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف:زامباهولا \- شارموفرز و أكرم حسني
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,944 likes - 74 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,965 likes - 74 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

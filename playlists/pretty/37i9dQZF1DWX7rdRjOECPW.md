@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 
 > Das war der Sommer 2024 ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,519,716 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,519,607 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 57 | [Magic Moment \(feat\. Chris de Sarandy\)](https://open.spotify.com/track/7A1eqPiX6pS3g1nJ8M49UT) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Magic Moment \(feat\. Chris de Sarandy\)](https://open.spotify.com/album/1AuHca0GpQIDkoAthtwzo9) | 2:25 |
 | 58 | [Oberteil](https://open.spotify.com/track/6wujgYJX36mC0rtOdzEcAK) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [Marc Eggers](https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf) | [Oberteil](https://open.spotify.com/album/2cCSjm0W6Dktayj73oMX6M) | 2:29 |
 | 59 | [Waterfall](https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Waterfall](https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD) | 2:17 |
-| 60 | [Out My Head](https://open.spotify.com/track/6ZorLNYsF1KjjV9M2OSxAF) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Out My Head](https://open.spotify.com/album/3MS98RpRmeMZjjffoKUGln) | 2:44 |
-| 61 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 |
+| 60 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 |
+| 61 | [Out My Head](https://open.spotify.com/track/6ZorLNYsF1KjjV9M2OSxAF) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Out My Head](https://open.spotify.com/album/3MS98RpRmeMZjjffoKUGln) | 2:44 |
 | 62 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 |
 | 63 | [Suavemente](https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Suavemente](https://open.spotify.com/album/3e83G6pMu4TGkiDYSNsFnA) | 2:39 |
 | 64 | [Head Down](https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Head Down](https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2) | 2:53 |

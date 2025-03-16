@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ygqbbD1pKk.md) - [plain]
 
 > Todos tus éxitos favoritos de Disney\. Mufasa, Moana 2, Encanto y mucho más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,332 likes - 103 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,375 likes - 103 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

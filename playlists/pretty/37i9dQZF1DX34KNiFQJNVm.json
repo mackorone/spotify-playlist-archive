@@ -1,6 +1,6 @@
 {
   "description": "Os lan\u00e7amentos dessa semana incluem L7NNON, Matheus & Kauan, Anitta, Xam\u00e3 com Ana Castela e muito mais!",
-  "num_followers": 2040019,
+  "num_followers": 2040141,
   "original_name": "Novidades da Semana",
   "owner": {
     "name": "Spotify",
@@ -276,10 +276,6 @@
       },
       "artists": [
         {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
           "name": "Mc Jean",
           "url": "https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B"
         },
@@ -290,6 +286,10 @@
         {
           "name": "Nova Era Produtora",
           "url": "https://open.spotify.com/artist/2N912WjUu3L2kyfhbCa5hB"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
         }
       ],
       "duration_ms": 203076,
@@ -308,12 +308,12 @@
           "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
         },
         {
-          "name": "J. Eskine",
-          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
-        },
-        {
           "name": "Mc Menor DN",
           "url": "https://open.spotify.com/artist/2FJjf1qmmogfQyqLKjbPML"
+        },
+        {
+          "name": "J. Eskine",
+          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
         }
       ],
       "duration_ms": 162461,
@@ -612,11 +612,15 @@
           "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
         },
         {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
           "name": "DJ Glenner",
           "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
         }
       ],
-      "duration_ms": 306372,
+      "duration_ms": 364223,
       "name": "Piririm",
       "url": "https://open.spotify.com/track/7aztr32upzQStFEkbzCTkU"
     },

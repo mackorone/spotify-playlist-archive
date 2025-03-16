@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia OS. The essential tracks, all in one playlist.",
-  "num_followers": 356127,
+  "num_followers": 356275,
   "original_name": "This Is Kenia OS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAABET1rYwJyMgFaVxb50GKRw",
+  "snapshot_id": "Z9NxgAAAAADGvZOglH9b0DOifID4BCU1",
   "tracks": [
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamantes",
-        "url": "https://open.spotify.com/album/3hECK15kYfJL0rrUVNxLOA"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Diamantes",
-      "url": "https://open.spotify.com/track/5tsaIE9YwWkgnSzKbAkcr5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Sol",
         "url": "https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 204955,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/2kPjKPf34ZF0vXVBcsLimh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/3hECK15kYfJL0rrUVNxLOA"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/5tsaIE9YwWkgnSzKbAkcr5"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: La K\u00b4onga & L-Gante.",
-  "num_followers": 752603,
+  "num_followers": 752650,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -667,7 +667,7 @@
     {
       "added_at": "2025-03-14 21:15:26",
       "album": {
-        "name": "Soy Cordobes",
+        "name": "Cuarteto Caracter\u00edstico (A2000)",
         "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
       },
       "artists": [
@@ -907,7 +907,7 @@
     {
       "added_at": "2025-03-14 21:15:26",
       "album": {
-        "name": "Soy Cordobes",
+        "name": "Cuarteto Caracter\u00edstico (A2000)",
         "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
       },
       "artists": [
@@ -1027,7 +1027,7 @@
     {
       "added_at": "2025-03-14 21:15:26",
       "album": {
-        "name": "Soy Cordobes",
+        "name": "Cuarteto Caracter\u00edstico (A2000)",
         "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
       },
       "artists": [
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2025-03-14 21:15:26",
       "album": {
-        "name": "Ladr\u00f3n",
-        "url": "https://open.spotify.com/album/77q0gHxilBoRNnlAAyllDW"
-      },
-      "artists": [
-        {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 159215,
-      "name": "Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/5gyT1xYFWyDWzEGDjicz5C"
-    },
-    {
-      "added_at": "2025-03-14 21:15:26",
-      "album": {
         "name": "Un besito m\u00e1s / Perdonarte para qu\u00e9 / Mirame a la cara",
         "url": "https://open.spotify.com/album/0ZCPfgBx0Be00cIC9KIkRt"
       },
@@ -1175,26 +1155,6 @@
       "duration_ms": 275888,
       "name": "Un besito m\u00e1s / Perdonarte para qu\u00e9 / Mirame a la cara",
       "url": "https://open.spotify.com/track/24ZIP2V3URiRalLiuiDshf"
-    },
-    {
-      "added_at": "2025-03-14 21:15:26",
-      "album": {
-        "name": "Solo Pa' Mi",
-        "url": "https://open.spotify.com/album/2CTFEimc0mKk6koJJUbvuj"
-      },
-      "artists": [
-        {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 148117,
-      "name": "Solo Pa' Mi",
-      "url": "https://open.spotify.com/track/5YOFztPHWNBUhbz4rH2ILb"
     },
     {
       "added_at": "2025-03-14 21:15:26",
@@ -1219,7 +1179,47 @@
     {
       "added_at": "2025-03-14 21:15:26",
       "album": {
-        "name": "Soy Cordobes",
+        "name": "Solo Pa' Mi",
+        "url": "https://open.spotify.com/album/2CTFEimc0mKk6koJJUbvuj"
+      },
+      "artists": [
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 148117,
+      "name": "Solo Pa' Mi",
+      "url": "https://open.spotify.com/track/5YOFztPHWNBUhbz4rH2ILb"
+    },
+    {
+      "added_at": "2025-03-14 21:15:26",
+      "album": {
+        "name": "Ladr\u00f3n",
+        "url": "https://open.spotify.com/album/77q0gHxilBoRNnlAAyllDW"
+      },
+      "artists": [
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 159215,
+      "name": "Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/5gyT1xYFWyDWzEGDjicz5C"
+    },
+    {
+      "added_at": "2025-03-14 21:15:26",
+      "album": {
+        "name": "Cuarteto Caracter\u00edstico (A2000)",
         "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
       },
       "artists": [
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2025-03-14 21:15:26",
       "album": {
+        "name": "Baby Nueva",
+        "url": "https://open.spotify.com/album/2PIFBB0XSEQnP5k3Cg97JB"
+      },
+      "artists": [
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        }
+      ],
+      "duration_ms": 167450,
+      "name": "Baby Nueva",
+      "url": "https://open.spotify.com/track/4YTEBvMH7uuUhwcRpiLNVW"
+    },
+    {
+      "added_at": "2025-03-14 21:15:26",
+      "album": {
         "name": "Claro Que Lo Hice (En vivo)",
         "url": "https://open.spotify.com/album/6ZnNCbnDFX72KUG89gZl9G"
       },
@@ -1271,18 +1287,18 @@
     {
       "added_at": "2025-03-14 21:15:26",
       "album": {
-        "name": "Baby Nueva",
-        "url": "https://open.spotify.com/album/2PIFBB0XSEQnP5k3Cg97JB"
+        "name": "Tu Amante En Secreto",
+        "url": "https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ"
       },
       "artists": [
         {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
         }
       ],
-      "duration_ms": 167450,
-      "name": "Baby Nueva",
-      "url": "https://open.spotify.com/track/4YTEBvMH7uuUhwcRpiLNVW"
+      "duration_ms": 224680,
+      "name": "Piensa en M\u00ed (En Vivo)",
+      "url": "https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK"
     },
     {
       "added_at": "2025-03-14 21:15:26",
@@ -1303,18 +1319,22 @@
     {
       "added_at": "2025-03-14 21:15:26",
       "album": {
-        "name": "Tu Amante En Secreto",
-        "url": "https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ"
+        "name": "Bien Ah\u00ed !",
+        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
       },
       "artists": [
         {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        },
+        {
+          "name": "Sergio Oliva and Freddy Zavaley",
+          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
         }
       ],
-      "duration_ms": 224680,
-      "name": "Piensa en M\u00ed (En Vivo)",
-      "url": "https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK"
+      "duration_ms": 331160,
+      "name": "Ramito de violetas",
+      "url": "https://open.spotify.com/track/4sVEoWwh0kjipzZ9UGvSz9"
     },
     {
       "added_at": "2025-03-14 21:15:26",
@@ -1339,26 +1359,6 @@
       "duration_ms": 170062,
       "name": "Princesa - En Vivo",
       "url": "https://open.spotify.com/track/2FRmkWHwyENNhzCbjXFIat"
-    },
-    {
-      "added_at": "2025-03-14 21:15:26",
-      "album": {
-        "name": "Bien Ah\u00ed !",
-        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
-      },
-      "artists": [
-        {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
-        },
-        {
-          "name": "Sergio Oliva and Freddy Zavaley",
-          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
-        }
-      ],
-      "duration_ms": 331160,
-      "name": "Ramito de violetas",
-      "url": "https://open.spotify.com/track/4sVEoWwh0kjipzZ9UGvSz9"
     },
     {
       "added_at": "2025-03-14 21:15:26",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-03-14 21:15:26",
       "album": {
-        "name": "Despechada (Cover) [En Vivo]",
-        "url": "https://open.spotify.com/album/7uXNegW0zpr5lrRo9YNiOl"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        }
-      ],
-      "duration_ms": 172585,
-      "name": "Despechada (Cover) - En Vivo",
-      "url": "https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP"
-    },
-    {
-      "added_at": "2025-03-14 21:15:26",
-      "album": {
         "name": "Aguardiente",
         "url": "https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 152432,
       "name": "Aguardiente",
       "url": "https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa"
+    },
+    {
+      "added_at": "2025-03-14 21:15:26",
+      "album": {
+        "name": "Despechada (Cover) [En Vivo]",
+        "url": "https://open.spotify.com/album/7uXNegW0zpr5lrRo9YNiOl"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "duration_ms": 172585,
+      "name": "Despechada (Cover) - En Vivo",
+      "url": "https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP"
     },
     {
       "added_at": "2025-03-14 21:15:26",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2025-03-14 21:15:26",
       "album": {
+        "name": "Ocho Cuarenta (feat. Los Caligaris - en Vivo en el Foro Sol - 17.11.17)",
+        "url": "https://open.spotify.com/album/6kWVXBEREXCmCYteDfFFQO"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 248458,
+      "name": "Ocho Cuarenta - En Vivo en el Foro Sol - 17.11.17",
+      "url": "https://open.spotify.com/track/2PEn0KfNdrSq82CKlYvRrZ"
+    },
+    {
+      "added_at": "2025-03-14 21:15:26",
+      "album": {
         "name": "Que Te Vuelva Amor",
         "url": "https://open.spotify.com/album/2TiQN4ZPday9QtHELjhqtB"
       },
@@ -1487,26 +1507,6 @@
     {
       "added_at": "2025-03-14 21:15:26",
       "album": {
-        "name": "Hola",
-        "url": "https://open.spotify.com/album/380P3ZSSNeJgQ3AeyOE5dz"
-      },
-      "artists": [
-        {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        },
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 158848,
-      "name": "Hola",
-      "url": "https://open.spotify.com/track/3YHUkhWVlM0KhBEYLXqyFj"
-    },
-    {
-      "added_at": "2025-03-14 21:15:26",
-      "album": {
         "name": "Trilog\u00eda: 1er acto",
         "url": "https://open.spotify.com/album/58xHT3uMusEndftUcQR6CZ"
       },
@@ -1523,22 +1523,22 @@
     {
       "added_at": "2025-03-14 21:15:26",
       "album": {
-        "name": "Ocho Cuarenta (feat. Los Caligaris - en Vivo en el Foro Sol - 17.11.17)",
-        "url": "https://open.spotify.com/album/6kWVXBEREXCmCYteDfFFQO"
+        "name": "Hola",
+        "url": "https://open.spotify.com/album/380P3ZSSNeJgQ3AeyOE5dz"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
         },
         {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
         }
       ],
-      "duration_ms": 248458,
-      "name": "Ocho Cuarenta - En Vivo en el Foro Sol - 17.11.17",
-      "url": "https://open.spotify.com/track/2PEn0KfNdrSq82CKlYvRrZ"
+      "duration_ms": 158848,
+      "name": "Hola",
+      "url": "https://open.spotify.com/track/3YHUkhWVlM0KhBEYLXqyFj"
     },
     {
       "added_at": "2025-03-14 21:15:26",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2025-03-14 21:15:26",
       "album": {
+        "name": "No Es Lo Que Dices",
+        "url": "https://open.spotify.com/album/7wD751cbpMxpXPwJriTfJi"
+      },
+      "artists": [
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        }
+      ],
+      "duration_ms": 192103,
+      "name": "No Es Lo Que Dices",
+      "url": "https://open.spotify.com/track/1pWmkpmMmzuiFBSY5A4Tb9"
+    },
+    {
+      "added_at": "2025-03-14 21:15:26",
+      "album": {
         "name": "Buena Vida",
         "url": "https://open.spotify.com/album/0CQ1aqCKrx6aEJGbZnsaJu"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 142463,
       "name": "Buena Vida",
       "url": "https://open.spotify.com/track/4pX3kxNJoNdGRH36OYN6PV"
-    },
-    {
-      "added_at": "2025-03-14 21:15:26",
-      "album": {
-        "name": "No Es Lo Que Dices",
-        "url": "https://open.spotify.com/album/7wD751cbpMxpXPwJriTfJi"
-      },
-      "artists": [
-        {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
-        }
-      ],
-      "duration_ms": 192103,
-      "name": "No Es Lo Que Dices",
-      "url": "https://open.spotify.com/track/1pWmkpmMmzuiFBSY5A4Tb9"
     },
     {
       "added_at": "2025-03-14 21:15:26",

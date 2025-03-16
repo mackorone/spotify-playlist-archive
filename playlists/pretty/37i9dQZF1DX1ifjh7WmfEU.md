@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,943 likes - 140 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,985 likes - 140 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 | 109 | [Through The Fields](https://open.spotify.com/track/73eFWqvfD6zbttdkmydJ2z) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Through The Fields](https://open.spotify.com/album/1edcP1iOeSvZTFg4PxMZhB) | 2:20 |
 | 110 | [You](https://open.spotify.com/track/1WfuDZ4OFPb1WC76ipdKCW) | [Oliver Peasley](https://open.spotify.com/artist/13EUu6e9QCae6KE3J0glgT) | [You](https://open.spotify.com/album/59xjKBZnOGokehELrAzRo1) | 2:27 |
 | 111 | [Reach](https://open.spotify.com/track/7atqhP3DGCPfVBFK3YVMA7) | [Lester Milton](https://open.spotify.com/artist/2Xuimz47Nd6ltLsj9c1vgE) | [Reach](https://open.spotify.com/album/01KH05yqQgS0Cru4rIj5ML) | 2:00 |
-| 112 | [Consideration](https://open.spotify.com/track/65lddH3h121XMhXaVkazVG) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Consideration](https://open.spotify.com/album/0ogzhXsphb7JCFdSg3dRc6) | 2:27 |
+| 112 | [Consideration](https://open.spotify.com/track/65lddH3h121XMhXaVkazVG) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX), [Anarekli](https://open.spotify.com/artist/0owGYDx2xWGY0t6Nelyf4N), [Iasamani](https://open.spotify.com/artist/6AdGVwkv68xlsPwV2KvEF8) | [Consideration](https://open.spotify.com/album/0ogzhXsphb7JCFdSg3dRc6) | 2:27 |
 | 113 | [About the End of Eternity](https://open.spotify.com/track/1LaSxfLv8lUGKfWbzSXIl0) | [Laurence Ipsum](https://open.spotify.com/artist/3Sbysu416ipsLD2jnhMqYE) | [About the End of Eternity](https://open.spotify.com/album/1ci0li5cBNsj6Po6EgZtkb) | 2:50 |
 | 114 | [Ocean View](https://open.spotify.com/track/6TeajBISE83AbcnnhMmvhN) | [Amalou](https://open.spotify.com/artist/0Fa4owCW21dPiAF9bLUMKZ) | [Ocean View](https://open.spotify.com/album/2CUiHuVgbGODA8cgxV2yUB) | 3:00 |
 | 115 | [Je crois en toi](https://open.spotify.com/track/5yCggunPid4GYMxzCQbk99) | [Alcide St Pierre](https://open.spotify.com/artist/77f8Kuq5BQB3otUyU9rz2P) | [Je crois en toi](https://open.spotify.com/album/7FP73HulDW6i3S8xhZpDBL) | 2:39 |

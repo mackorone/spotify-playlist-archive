@@ -4,7 +4,7 @@
 
 > als het woud een playlist zou zijn
 
-140 songs - 8 hr 14 min
+141 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Same Train](https://open.spotify.com/track/68kOKBGVtfygCkxbquTG5D) | [Heart Shaped](https://open.spotify.com/artist/3Ivs2ffC6O6pfCJuTzAj11), [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Same Train](https://open.spotify.com/album/53kAWzQODCcQygVjIfQJJQ) | 4:32 | 2025-01-23 | 2025-01-30 |
 | [Santiago](https://open.spotify.com/track/311eCUllypOnSLZH7Xbd32) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Colorado's On Fire Again](https://open.spotify.com/album/2cP15DvWBWQuNF4wnFxq5n) | 2:44 | 2025-03-07 |  |
 | [Science](https://open.spotify.com/track/63AnNQ9gQNOKbj6DN3sF4G) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6), [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Science](https://open.spotify.com/album/2peHkYObRN3O5UZpr6IuTP) | 3:55 | 2025-01-27 |  |
-| [Seasons](https://open.spotify.com/track/0nagllCr1rwu7xgekjspi3) | [Jonah Capetown](https://open.spotify.com/artist/4OyvCG7MRNpX6VaVges7Ap) | [Seasons](https://open.spotify.com/album/07y8ZnWKVPn5mRdNb7zZ5p) | 2:33 | 2024-06-27 |  |
+| [Seasons](https://open.spotify.com/track/0nagllCr1rwu7xgekjspi3) | [Jonah Capetown](https://open.spotify.com/artist/4OyvCG7MRNpX6VaVges7Ap) | [Seasons](https://open.spotify.com/album/07y8ZnWKVPn5mRdNb7zZ5p) | 2:33 | 2024-06-27 | 2025-03-16 |
+| [Shape of Tomorrow](https://open.spotify.com/track/426yKV0zjMdLNHb5o4SuUS) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [In Light](https://open.spotify.com/album/3TN0tiqlA7kj1o7FtJ08XV) | 3:34 | 2025-03-13 |  |
 | [Shoulders Knees](https://open.spotify.com/track/7z8SS9zjHCO0R87ZpWmsoz) | [Rosa Butsi](https://open.spotify.com/artist/2tcIUL0ZNEo2gnrBzNBz3L) | [Shoulders Knees](https://open.spotify.com/album/2oiusrsL6SM0BHoLXJY28O) | 4:41 | 2024-06-27 | 2024-12-21 |
 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 | 2024-06-27 | 2025-02-21 |
 | [stones at your window](https://open.spotify.com/track/6Vs8eNSJbMXp5kmGDqSlSF) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [losing track of time on the train ride home](https://open.spotify.com/album/3F2dUsDsvFzcjvdlIZlevm) | 3:24 | 2024-06-27 | 2024-12-19 |

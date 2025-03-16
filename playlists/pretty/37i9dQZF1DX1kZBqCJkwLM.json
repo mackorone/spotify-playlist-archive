@@ -1,6 +1,6 @@
 {
   "description": "Dope, Asian, and Femme. Cover: ROS\u00c9",
-  "num_followers": 88376,
+  "num_followers": 88377,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2025-02-14 05:00:32",
       "album": {
+        "name": "Good Love 2.0",
+        "url": "https://open.spotify.com/album/5sDQY6ndqcHq15PD1WZgSl"
+      },
+      "artists": [
+        {
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
+        }
+      ],
+      "duration_ms": 174062,
+      "name": "Good Love 2.0",
+      "url": "https://open.spotify.com/track/0xErrzRegFIsekcvQ5wsS0"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 410080,
       "name": "All We Have (feat. Lastlings)",
       "url": "https://open.spotify.com/track/3sstd2afQEb5yQw0ldiKI5"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
-        "name": "Good Love 2.0",
-        "url": "https://open.spotify.com/album/5sDQY6ndqcHq15PD1WZgSl"
-      },
-      "artists": [
-        {
-          "name": "Priya Ragu",
-          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
-        }
-      ],
-      "duration_ms": 174062,
-      "name": "Good Love 2.0",
-      "url": "https://open.spotify.com/track/0xErrzRegFIsekcvQ5wsS0"
     },
     {
       "added_at": "2025-02-14 05:00:32",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-02-14 05:00:32",
       "album": {
-        "name": "PRIMAL",
-        "url": "https://open.spotify.com/album/2NVmz3eZuSZTEClHa3Oh4F"
-      },
-      "artists": [
-        {
-          "name": "Chloe Tang",
-          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
-        }
-      ],
-      "duration_ms": 160357,
-      "name": "PRIMAL",
-      "url": "https://open.spotify.com/track/28cJfuhoBA4D4USICqGr4m"
-    },
-    {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
         "name": "Bad Girls Behave",
         "url": "https://open.spotify.com/album/4NCyhZpzN5gAvuuVnDpRTT"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 170007,
       "name": "Bad Girls Behave",
       "url": "https://open.spotify.com/track/0xPwQnlwiZM1StSik1g4a4"
+    },
+    {
+      "added_at": "2025-02-14 05:00:32",
+      "album": {
+        "name": "PRIMAL",
+        "url": "https://open.spotify.com/album/2NVmz3eZuSZTEClHa3Oh4F"
+      },
+      "artists": [
+        {
+          "name": "Chloe Tang",
+          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
+        }
+      ],
+      "duration_ms": 160357,
+      "name": "PRIMAL",
+      "url": "https://open.spotify.com/track/28cJfuhoBA4D4USICqGr4m"
     },
     {
       "added_at": "2025-02-14 05:00:32",

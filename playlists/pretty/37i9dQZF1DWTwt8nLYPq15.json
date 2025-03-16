@@ -1,6 +1,6 @@
 {
   "description": "summer heat \ud83e\udd75\ud83d\udd25\n",
-  "num_followers": 2272,
+  "num_followers": 2273,
   "original_name": "MELT",
   "owner": {
     "name": "Spotify",
@@ -273,6 +273,26 @@
       "url": "https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4"
     },
     {
+      "added_at": "2023-06-15 04:00:00",
+      "album": {
+        "name": "Intimidated",
+        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 207840,
+      "name": "Intimidated (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
+    },
+    {
       "added_at": "2023-06-16 06:51:48",
       "album": {
         "name": "Slime & B",
@@ -295,42 +315,6 @@
     {
       "added_at": "2023-06-15 04:00:00",
       "album": {
-        "name": "Intimidated",
-        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 207840,
-      "name": "Intimidated (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
-    },
-    {
-      "added_at": "2024-05-31 19:46:57",
-      "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 176027,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
-    },
-    {
-      "added_at": "2023-06-15 04:00:00",
-      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 248040,
       "name": "Essence (feat. Tems)",
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
+    },
+    {
+      "added_at": "2024-05-31 19:46:57",
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 176027,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
     },
     {
       "added_at": "2024-05-31 19:46:57",
@@ -885,32 +885,24 @@
       "url": "https://open.spotify.com/track/3de3ASYwXvqgEzqJaMWYEQ"
     },
     {
-      "added_at": "2023-06-15 04:00:00",
+      "added_at": "2023-06-16 06:51:48",
       "album": {
-        "name": "KAYTRAMIN\u00c9",
-        "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/6b3LhhX9Lt2861Dsh3ZCC2"
       },
       "artists": [
         {
-          "name": "KAYTRAMIN\u00c9",
-          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         },
         {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Sossaup",
-      "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
+      "duration_ms": 238321,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/2rTnVB1bvwxHtaIl4uVu7f"
     }
   ],
   "unique_name": "MELT",

@@ -1,6 +1,6 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1377683,
+  "num_followers": 1377853,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
+        "name": "Down to the River",
+        "url": "https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 231253,
+      "name": "Down to the River",
+      "url": "https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
         "name": "Avalanche",
         "url": "https://open.spotify.com/album/0DQe0tsjxE9yfB2dntQmUR"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 204121,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/2J6FjuQNSU0tvcplhtl5AP"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
-        "name": "Down to the River",
-        "url": "https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2"
-      },
-      "artists": [
-        {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 231253,
-      "name": "Down to the River",
-      "url": "https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
+        "name": "From the Grave",
+        "url": "https://open.spotify.com/album/5DZwggP6PDtv9VMkAmpAsD"
+      },
+      "artists": [
+        {
+          "name": "Juliet Simms",
+          "url": "https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh"
+        }
+      ],
+      "duration_ms": 215560,
+      "name": "Trouble Finds You",
+      "url": "https://open.spotify.com/track/1gwDIyATjLVi42oBsyUgyJ"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
         "name": "The Major Minor Collective (Bonus Track Edition)",
         "url": "https://open.spotify.com/album/0zUSmhg6ccJjjMlR0T5j9j"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 256773,
       "name": "Beach Seduction (feat. Leah Wellbaum)",
       "url": "https://open.spotify.com/track/6pd6XXS3cCOrLm0Ey7MDYD"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
-        "name": "From the Grave",
-        "url": "https://open.spotify.com/album/5DZwggP6PDtv9VMkAmpAsD"
-      },
-      "artists": [
-        {
-          "name": "Juliet Simms",
-          "url": "https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh"
-        }
-      ],
-      "duration_ms": 215560,
-      "name": "Trouble Finds You",
-      "url": "https://open.spotify.com/track/1gwDIyATjLVi42oBsyUgyJ"
     },
     {
       "added_at": "2024-08-23 15:39:31",

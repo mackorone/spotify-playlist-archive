@@ -1,6 +1,6 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 237883,
+  "num_followers": 237897,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-03-14 17:43:57",
       "album": {
+        "name": "Lucky Me",
+        "url": "https://open.spotify.com/album/1HKIdsPLPNWtZ6TO5xy0AK"
+      },
+      "artists": [
+        {
+          "name": "Stimming",
+          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
+        }
+      ],
+      "duration_ms": 358363,
+      "name": "Lucky Me",
+      "url": "https://open.spotify.com/track/0x5xYIRlkAYComANpdnPNB"
+    },
+    {
+      "added_at": "2025-03-14 17:43:57",
+      "album": {
         "name": "Azure",
         "url": "https://open.spotify.com/album/2QWRgZxiKk6WqR7I5C75y4"
       },
@@ -591,22 +607,6 @@
     {
       "added_at": "2025-03-14 17:43:57",
       "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 289320,
-      "name": "The Star Compass",
-      "url": "https://open.spotify.com/track/6eiKdoO7ZwZbQt99QIj5Qh"
-    },
-    {
-      "added_at": "2025-03-14 17:43:57",
-      "album": {
         "name": "Worms on Acid",
         "url": "https://open.spotify.com/album/5zM9uniBVZQHqlijpyhpMh"
       },
@@ -655,18 +655,18 @@
     {
       "added_at": "2025-03-14 17:43:57",
       "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/0xnL6goTzcRFKzbrleXfpF"
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
       },
       "artists": [
         {
-          "name": "Fennesz",
-          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
         }
       ],
-      "duration_ms": 248758,
-      "name": "Before I Leave",
-      "url": "https://open.spotify.com/track/3S3gRidA2Fg38gwfHXxeZ3"
+      "duration_ms": 289320,
+      "name": "The Star Compass",
+      "url": "https://open.spotify.com/track/6eiKdoO7ZwZbQt99QIj5Qh"
     },
     {
       "added_at": "2025-03-14 17:43:57",
@@ -683,6 +683,22 @@
       "duration_ms": 331514,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/0yQwDOqm8IfdsIQ4mI9NYC"
+    },
+    {
+      "added_at": "2025-03-14 17:43:57",
+      "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/0xnL6goTzcRFKzbrleXfpF"
+      },
+      "artists": [
+        {
+          "name": "Fennesz",
+          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+        }
+      ],
+      "duration_ms": 248758,
+      "name": "Before I Leave",
+      "url": "https://open.spotify.com/track/3S3gRidA2Fg38gwfHXxeZ3"
     },
     {
       "added_at": "2025-03-14 17:43:57",
@@ -755,22 +771,6 @@
     {
       "added_at": "2025-03-14 17:43:57",
       "album": {
-        "name": "Insight",
-        "url": "https://open.spotify.com/album/789BZ4kIIbYFMWQtngcpk5"
-      },
-      "artists": [
-        {
-          "name": "BOP",
-          "url": "https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb"
-        }
-      ],
-      "duration_ms": 293294,
-      "name": "Insight",
-      "url": "https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA"
-    },
-    {
-      "added_at": "2025-03-14 17:43:57",
-      "album": {
         "name": "Panspermia",
         "url": "https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D"
       },
@@ -819,6 +819,22 @@
     {
       "added_at": "2025-03-14 17:43:57",
       "album": {
+        "name": "Insight",
+        "url": "https://open.spotify.com/album/789BZ4kIIbYFMWQtngcpk5"
+      },
+      "artists": [
+        {
+          "name": "BOP",
+          "url": "https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb"
+        }
+      ],
+      "duration_ms": 293294,
+      "name": "Insight",
+      "url": "https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA"
+    },
+    {
+      "added_at": "2025-03-14 17:43:57",
+      "album": {
         "name": "Nutrition",
         "url": "https://open.spotify.com/album/1CHFy3am47XIemogPAnlwi"
       },
@@ -855,6 +871,22 @@
     {
       "added_at": "2025-03-14 17:43:57",
       "album": {
+        "name": "Amygdala",
+        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 319047,
+      "name": "Amygdala",
+      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
+    },
+    {
+      "added_at": "2025-03-14 17:43:57",
+      "album": {
         "name": "Hailu Remixes",
         "url": "https://open.spotify.com/album/6YAuHoiIzJlPk7V2HMNtdJ"
       },
@@ -887,22 +919,6 @@
       "duration_ms": 223750,
       "name": "Summer Places",
       "url": "https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ"
-    },
-    {
-      "added_at": "2025-03-14 17:43:57",
-      "album": {
-        "name": "Amygdala",
-        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 319047,
-      "name": "Amygdala",
-      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
     },
     {
       "added_at": "2025-03-14 17:43:57",
@@ -1219,6 +1235,22 @@
     {
       "added_at": "2025-03-14 17:43:57",
       "album": {
+        "name": "Symbolic Use Of Light",
+        "url": "https://open.spotify.com/album/29MU5A39NfSLiCN6pjtGcn"
+      },
+      "artists": [
+        {
+          "name": "UMFANG",
+          "url": "https://open.spotify.com/artist/1Tf0PpDLg4A8m7aidHGRG3"
+        }
+      ],
+      "duration_ms": 271237,
+      "name": "Weight",
+      "url": "https://open.spotify.com/track/3CDfX0qDBnTsYiEzmTGTFT"
+    },
+    {
+      "added_at": "2025-03-14 17:43:57",
+      "album": {
         "name": "Ficciones Del Tr\u00f3pico",
         "url": "https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV"
       },
@@ -1247,22 +1279,6 @@
       "duration_ms": 172117,
       "name": "Ramada",
       "url": "https://open.spotify.com/track/10xeUT88nJPcCKlBz9vvH1"
-    },
-    {
-      "added_at": "2025-03-14 17:43:57",
-      "album": {
-        "name": "Symbolic Use Of Light",
-        "url": "https://open.spotify.com/album/29MU5A39NfSLiCN6pjtGcn"
-      },
-      "artists": [
-        {
-          "name": "UMFANG",
-          "url": "https://open.spotify.com/artist/1Tf0PpDLg4A8m7aidHGRG3"
-        }
-      ],
-      "duration_ms": 271237,
-      "name": "Weight",
-      "url": "https://open.spotify.com/track/3CDfX0qDBnTsYiEzmTGTFT"
     },
     {
       "added_at": "2025-03-14 17:43:57",
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2025-03-14 17:43:57",
       "album": {
-        "name": "Comma",
-        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        }
-      ],
-      "duration_ms": 311783,
-      "name": "Park Line",
-      "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
-    },
-    {
-      "added_at": "2025-03-14 17:43:57",
-      "album": {
         "name": "Diistemi",
         "url": "https://open.spotify.com/album/3CKzdrXuBAPfQgUU3uYqr5"
       },
@@ -1575,6 +1575,22 @@
       "duration_ms": 177520,
       "name": "Siblings",
       "url": "https://open.spotify.com/track/3ExkbOfWgrL78xCyTOTeJT"
+    },
+    {
+      "added_at": "2025-03-14 17:43:57",
+      "album": {
+        "name": "Comma",
+        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
+      },
+      "artists": [
+        {
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        }
+      ],
+      "duration_ms": 311783,
+      "name": "Park Line",
+      "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
     },
     {
       "added_at": "2025-03-14 17:43:57",
@@ -1655,22 +1671,6 @@
       "duration_ms": 475965,
       "name": "XO 4 - Wolf 1061c",
       "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
-    },
-    {
-      "added_at": "2025-03-14 17:43:57",
-      "album": {
-        "name": "onomatopoeia",
-        "url": "https://open.spotify.com/album/0lQlAKOAhIy3F5DXIbilmq"
-      },
-      "artists": [
-        {
-          "name": "J. Albert",
-          "url": "https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK"
-        }
-      ],
-      "duration_ms": 269812,
-      "name": "tdU_du_tdu_tdu",
-      "url": "https://open.spotify.com/track/5CUYz3REql8VAN2FkrXq0t"
     }
   ],
   "unique_name": "bleeps ^ glitches",

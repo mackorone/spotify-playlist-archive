@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 
 > PH vibin' cover: Jolianne
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,941 likes - 62 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,984 likes - 62 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

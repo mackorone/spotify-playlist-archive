@@ -1,6 +1,6 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Dum Chica.",
-  "num_followers": 41715,
+  "num_followers": 41725,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
+        "name": "Por Mil Noches",
+        "url": "https://open.spotify.com/album/0Nifxl170FafOSFrdYgq4d"
+      },
+      "artists": [
+        {
+          "name": "Maggie Sky",
+          "url": "https://open.spotify.com/artist/68ZvGitpk9Ex4WwUnrmDf6"
+        }
+      ],
+      "duration_ms": 283826,
+      "name": "Por Mil Noches",
+      "url": "https://open.spotify.com/track/07oCYfVtlh8m1ndq6KilHI"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
         "name": "NOVIOS IMAGINARIOS",
         "url": "https://open.spotify.com/album/5wODKDJLbCcI79XTka4k00"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 172035,
       "name": "FOCKIT",
       "url": "https://open.spotify.com/track/5GtpLxt1nATe0TtoTRrRud"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
-        "name": "Por Mil Noches",
-        "url": "https://open.spotify.com/album/0Nifxl170FafOSFrdYgq4d"
-      },
-      "artists": [
-        {
-          "name": "Maggie Sky",
-          "url": "https://open.spotify.com/artist/68ZvGitpk9Ex4WwUnrmDf6"
-        }
-      ],
-      "duration_ms": 283826,
-      "name": "Por Mil Noches",
-      "url": "https://open.spotify.com/track/07oCYfVtlh8m1ndq6KilHI"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Raices de Pasi\u00f3n",
-        "url": "https://open.spotify.com/album/35FaKPTKnwtwZ2JJbIiTG5"
-      },
-      "artists": [
-        {
-          "name": "Mimi Maura",
-          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
-        }
-      ],
-      "duration_ms": 127426,
-      "name": "Feliz en Mi Soledad",
-      "url": "https://open.spotify.com/track/0z2HgqzzE3E14yAnnJ8rnx"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
         "name": "Polvo",
         "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 236890,
       "name": "Polvo",
       "url": "https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
+        "name": "Raices de Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/35FaKPTKnwtwZ2JJbIiTG5"
+      },
+      "artists": [
+        {
+          "name": "Mimi Maura",
+          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
+        }
+      ],
+      "duration_ms": 127426,
+      "name": "Feliz en Mi Soledad",
+      "url": "https://open.spotify.com/track/0z2HgqzzE3E14yAnnJ8rnx"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Such A Witch",
-        "url": "https://open.spotify.com/album/74yDqvcfl1uFBbVolTReFr"
-      },
-      "artists": [
-        {
-          "name": "Dum Chica",
-          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
-        }
-      ],
-      "duration_ms": 242186,
-      "name": "Such A Witch",
-      "url": "https://open.spotify.com/track/33BD4qBJIAxOIeneCcvo2O"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
         "name": "Mala (Edici\u00f3n Mal\u00edsima)",
         "url": "https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 220473,
       "name": "Haku - Bonus Track",
       "url": "https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
+        "name": "Such A Witch",
+        "url": "https://open.spotify.com/album/74yDqvcfl1uFBbVolTReFr"
+      },
+      "artists": [
+        {
+          "name": "Dum Chica",
+          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
+        }
+      ],
+      "duration_ms": 242186,
+      "name": "Such A Witch",
+      "url": "https://open.spotify.com/track/33BD4qBJIAxOIeneCcvo2O"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
+        "name": "Ando Buscando",
+        "url": "https://open.spotify.com/album/4dJlWHR1AbIZAH7b0Yt5vE"
+      },
+      "artists": [
+        {
+          "name": "Vale Acevedo",
+          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
+        }
+      ],
+      "duration_ms": 193312,
+      "name": "Ando Buscando",
+      "url": "https://open.spotify.com/track/5wzD3M2YTofQb9gHBvlff3"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
         "name": "Ego",
         "url": "https://open.spotify.com/album/1BRTLy5OxF1u5JvP8UrxxP"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 176528,
       "name": "Ego",
       "url": "https://open.spotify.com/track/14ftM04cOvRswUMx8IKaY3"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
-        "name": "Ando Buscando",
-        "url": "https://open.spotify.com/album/4dJlWHR1AbIZAH7b0Yt5vE"
-      },
-      "artists": [
-        {
-          "name": "Vale Acevedo",
-          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
-        }
-      ],
-      "duration_ms": 193312,
-      "name": "Ando Buscando",
-      "url": "https://open.spotify.com/track/5wzD3M2YTofQb9gHBvlff3"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4DmQXKj0chk1Prwe0rbkhe"
-      },
-      "artists": [
-        {
-          "name": "Pacifica",
-          "url": "https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse"
-        }
-      ],
-      "duration_ms": 147772,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/5yqgKyX1TOG41LBSosE1X8"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
         "name": "Buenas Noches Terr\u00edcolas",
         "url": "https://open.spotify.com/album/2JMMzWW3FcrPSEseYLhEuD"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 247970,
       "name": "MANIQU\u00cd",
       "url": "https://open.spotify.com/track/51kIOy4U7wxwhV8Ys697zH"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4DmQXKj0chk1Prwe0rbkhe"
+      },
+      "artists": [
+        {
+          "name": "Pacifica",
+          "url": "https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse"
+        }
+      ],
+      "duration_ms": 147772,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/5yqgKyX1TOG41LBSosE1X8"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/106XzTHi11oscO7mlXmqKg"
+        "name": "Hora de No Ver",
+        "url": "https://open.spotify.com/album/7vV8Ye5scpEoP8SsEQvXnR"
       },
       "artists": [
         {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+          "name": "Suarez",
+          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
         }
       ],
-      "duration_ms": 222706,
-      "name": "Mi Playa",
-      "url": "https://open.spotify.com/track/3C8l5qDzec8poDxsCUIZXp"
+      "duration_ms": 191559,
+      "name": "Morir\u00edan",
+      "url": "https://open.spotify.com/track/53JVw942AQvbqqDy8DqtaN"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Hora de No Ver",
-        "url": "https://open.spotify.com/album/7vV8Ye5scpEoP8SsEQvXnR"
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/106XzTHi11oscO7mlXmqKg"
       },
       "artists": [
         {
-          "name": "Suarez",
-          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
         }
       ],
-      "duration_ms": 191559,
-      "name": "Morir\u00edan",
-      "url": "https://open.spotify.com/track/53JVw942AQvbqqDy8DqtaN"
+      "duration_ms": 222706,
+      "name": "Mi Playa",
+      "url": "https://open.spotify.com/track/3C8l5qDzec8poDxsCUIZXp"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "La G\u00e9nesis",
-        "url": "https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah"
-      },
-      "artists": [
-        {
-          "name": "Hilda Lizarazu",
-          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
-        }
-      ],
-      "duration_ms": 266080,
-      "name": "G\u00e9nesis",
-      "url": "https://open.spotify.com/track/2Xx1vZX9UEBnwx11RfiElg"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
         "name": "Girando",
         "url": "https://open.spotify.com/album/3UZQBVo8ILtP3nHpiikkQM"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 211614,
       "name": "Girando",
       "url": "https://open.spotify.com/track/5H5izKvNGSzMu1cH5ZuTiI"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
+        "name": "La G\u00e9nesis",
+        "url": "https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah"
+      },
+      "artists": [
+        {
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+        }
+      ],
+      "duration_ms": 266080,
+      "name": "G\u00e9nesis",
+      "url": "https://open.spotify.com/track/2Xx1vZX9UEBnwx11RfiElg"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Epica & Fant\u00e1stica",
-        "url": "https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1"
+        "name": "Cuando el sol est\u00e1 as\u00ed",
+        "url": "https://open.spotify.com/album/6rM8uPZagSb9CwaBZepDi8"
       },
       "artists": [
         {
-          "name": "Marina Fages",
-          "url": "https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3"
+          "name": "Manu Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
         }
       ],
-      "duration_ms": 245246,
-      "name": "Piedra Marea Fuego",
-      "url": "https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx"
+      "duration_ms": 230988,
+      "name": "Cuando el sol est\u00e1 as\u00ed",
+      "url": "https://open.spotify.com/track/328VGo9M8zoespJRuWNpfJ"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -1223,18 +1223,34 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Cuando el sol est\u00e1 as\u00ed",
-        "url": "https://open.spotify.com/album/6rM8uPZagSb9CwaBZepDi8"
+        "name": "Epica & Fant\u00e1stica",
+        "url": "https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1"
       },
       "artists": [
         {
-          "name": "Manu Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
+          "name": "Marina Fages",
+          "url": "https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3"
         }
       ],
-      "duration_ms": 230988,
-      "name": "Cuando el sol est\u00e1 as\u00ed",
-      "url": "https://open.spotify.com/track/328VGo9M8zoespJRuWNpfJ"
+      "duration_ms": 245246,
+      "name": "Piedra Marea Fuego",
+      "url": "https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
+        "name": "Para Olvidarte",
+        "url": "https://open.spotify.com/album/7LkrTKmFzy23jynymNjZLS"
+      },
+      "artists": [
+        {
+          "name": "Wayra Iglesias",
+          "url": "https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Para Olvidarte",
+      "url": "https://open.spotify.com/track/6xqbFlMlRAgdtSuUtmXP8w"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Para Olvidarte",
-        "url": "https://open.spotify.com/album/7LkrTKmFzy23jynymNjZLS"
-      },
-      "artists": [
-        {
-          "name": "Wayra Iglesias",
-          "url": "https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Para Olvidarte",
-      "url": "https://open.spotify.com/track/6xqbFlMlRAgdtSuUtmXP8w"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
         "name": "RANDOM",
         "url": "https://open.spotify.com/album/0GHsQyhxiIRO3R9h7rIVR1"
       },
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Agitar",
-        "url": "https://open.spotify.com/album/2rdYalIkT3ijzl7zs69NGZ"
+        "name": "Huir",
+        "url": "https://open.spotify.com/album/2oGBubmGLQVNjmuL0lrU4s"
       },
       "artists": [
         {
-          "name": "Bala",
-          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
+          "name": "Wayra Iglesias",
+          "url": "https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw"
         }
       ],
-      "duration_ms": 127598,
-      "name": "Agitar",
-      "url": "https://open.spotify.com/track/3V6CPu5kQ4iRcjngnwgSHe"
+      "duration_ms": 256200,
+      "name": "Huir",
+      "url": "https://open.spotify.com/track/3EsdaOJe5pTbJNA2sR6OQl"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Huir",
-        "url": "https://open.spotify.com/album/2oGBubmGLQVNjmuL0lrU4s"
+        "name": "Agitar",
+        "url": "https://open.spotify.com/album/2rdYalIkT3ijzl7zs69NGZ"
       },
       "artists": [
         {
-          "name": "Wayra Iglesias",
-          "url": "https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw"
+          "name": "Bala",
+          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
         }
       ],
-      "duration_ms": 256200,
-      "name": "Huir",
-      "url": "https://open.spotify.com/track/3EsdaOJe5pTbJNA2sR6OQl"
+      "duration_ms": 127598,
+      "name": "Agitar",
+      "url": "https://open.spotify.com/track/3V6CPu5kQ4iRcjngnwgSHe"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Todo el mundo miente",
-        "url": "https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T"
+        "name": "Promesa",
+        "url": "https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO"
       },
       "artists": [
         {
-          "name": "Las Dianas",
-          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
+          "name": "Maria Durante",
+          "url": "https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx"
         }
       ],
-      "duration_ms": 207669,
-      "name": "Todo el mundo miente",
-      "url": "https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV"
+      "duration_ms": 208689,
+      "name": "Promesa",
+      "url": "https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Promesa",
-        "url": "https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO"
-      },
-      "artists": [
-        {
-          "name": "Maria Durante",
-          "url": "https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx"
-        }
-      ],
-      "duration_ms": 208689,
-      "name": "Promesa",
-      "url": "https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
         "name": "Escapar",
         "url": "https://open.spotify.com/album/3z0nWOxV7wwnX4wfgVUXGR"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 241194,
       "name": "Escapar",
       "url": "https://open.spotify.com/track/4ipgJtYhCTrsGnkL1XRRET"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
+        "name": "Todo el mundo miente",
+        "url": "https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T"
+      },
+      "artists": [
+        {
+          "name": "Las Dianas",
+          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
+        }
+      ],
+      "duration_ms": 207669,
+      "name": "Todo el mundo miente",
+      "url": "https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Hasta Abajo - Ep",
-        "url": "https://open.spotify.com/album/29alHfZaRhQyIYWv2Ug8mg"
+        "name": "El lado sur de mi coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2Ds1yMcaZxlqq5qh3Uun8o"
       },
       "artists": [
         {
-          "name": "Violeta Castillo",
-          "url": "https://open.spotify.com/artist/2NtYHfTFxDUWZcQAxJBzhe"
+          "name": "Cecilia Toussaint",
+          "url": "https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb"
         }
       ],
-      "duration_ms": 345723,
-      "name": "Las Se\u00f1ales",
-      "url": "https://open.spotify.com/track/0SGP9BI4GBOCISPNlE51sJ"
+      "duration_ms": 175235,
+      "name": "Te agradezco el amor",
+      "url": "https://open.spotify.com/track/46BaZ59np0gv09H31naITO"
     }
   ],
   "unique_name": "Rockeras",

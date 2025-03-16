@@ -4,7 +4,7 @@
 
 > Le rayon de soleil musical de votre matinée 🦔
 
-197 songs - 12 hr 29 min
+198 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Kind Of Man](https://open.spotify.com/track/3JMc2rsrzFkhEyma8c56Xc) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Kind Of Man](https://open.spotify.com/album/7bSCE8LUTgZ8lEWLjDKcy4) | 4:15 | 2024-09-09 | 2025-02-28 |
 | [King and Cross](https://open.spotify.com/track/63USNUX5HaTygvykNFo0RB) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [In the Silence \(Deluxe Edition\)](https://open.spotify.com/album/6ltUyqAtJxfAfdqLXZGCkZ) | 3:33 | 2022-12-06 | 2023-02-22 |
 | [Kiss of Life](https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:11 | 2025-02-26 |  |
-| [L'avventura](https://open.spotify.com/track/059jLJwzwUHfNSLj2LWlbi) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE), [Anaïs Demoustier](https://open.spotify.com/artist/0nWAZSp0jv8b7RDmrbW4Eh) | [La course folle](https://open.spotify.com/album/430BmnKTO6rNX9SdODCoIe) | 3:43 | 2024-09-17 |  |
+| [L'avventura](https://open.spotify.com/track/059jLJwzwUHfNSLj2LWlbi) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE), [Anaïs Demoustier](https://open.spotify.com/artist/0nWAZSp0jv8b7RDmrbW4Eh) | [La course folle](https://open.spotify.com/album/430BmnKTO6rNX9SdODCoIe) | 3:43 | 2024-09-17 | 2025-03-16 |
 | [L'Océan des Amoureux](https://open.spotify.com/track/2xZW4rrLzolmc9HfmnqkDP) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 2:56 | 2024-03-27 |  |
 | [Laissez\-moi danser](https://open.spotify.com/track/1LBLEAMse3jta25SKwGs37) | [Waxx](https://open.spotify.com/artist/1sJDvsoQ9X10dibPnSSlsV), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Laissez\-moi danser](https://open.spotify.com/album/66BR3VEZqTOgclJxBlClQK) | 2:52 | 2023-07-03 |  |
 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 | 2022-12-06 |  |
@@ -179,6 +179,7 @@
 | [The Only Thing](https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:44 | 2022-12-06 | 2024-04-19 |
 | [The Scientist](https://open.spotify.com/track/7tn1tcxenMwDXrYTOjS3z1) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 3:16 | 2023-02-21 | 2024-03-10 |
 | [The Scientist \- From "Fifty Shades Darker \(Original Motion Picture Soundtrack\)"](https://open.spotify.com/track/782I9sNZJHDtzDT61wVhOX) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [キャンプが楽しくなるナチュラル・ロック](https://open.spotify.com/album/7bZ59g5DLWESrj0CmwdEAf) | 3:16 | 2024-02-15 | 2024-04-19 |
+| [The Seize](https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Seize](https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3) | 3:34 | 2025-03-14 |  |
 | [The Story of the Impossible](https://open.spotify.com/track/17mmpDTAuG6DLzqmUKl8w6) | [Peter von Poehl](https://open.spotify.com/artist/5KhvKrmpVAYSZBbskHd00W) | [Going To Where The Tea Trees Are](https://open.spotify.com/album/3O7eRQC2IlamsrPm9oFKFU) | 3:37 | 2023-02-21 |  |
 | [The Summer Wind](https://open.spotify.com/track/2YA3iikgy6ygLdA8zdeBmu) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx) | 3:55 | 2023-10-12 | 2024-04-19 |
 | [The Sweet Sound of You](https://open.spotify.com/track/09uY5LeSXSPKKH4LxI7byG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 4:57 | 2023-09-28 | 2024-04-19 |

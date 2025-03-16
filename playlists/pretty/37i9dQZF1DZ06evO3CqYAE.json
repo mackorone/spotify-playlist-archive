@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 12123,
+  "num_followers": 12126,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAC9j/gcTl3STQwC9UrZNqxC",
+  "snapshot_id": "Z9NxgAAAAACR+KKlfbYwmtAnM+yKnrYi",
   "tracks": [
     {
       "added_at": null,
@@ -275,18 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+        "name": "The Doing of the Lord",
+        "url": "https://open.spotify.com/album/3b2xKWpD5g4Z68HDLO8nnh"
       },
       "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        },
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 238226,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/6BzWGOS7w28n7qpEfKR19P"
+      "duration_ms": 286880,
+      "name": "The Doing of the Lord",
+      "url": "https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf"
     },
     {
       "added_at": null,
@@ -315,22 +319,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Doing of the Lord",
-        "url": "https://open.spotify.com/album/3b2xKWpD5g4Z68HDLO8nnh"
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
       },
       "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        },
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 286880,
-      "name": "The Doing of the Lord",
-      "url": "https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf"
+      "duration_ms": 238226,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/6BzWGOS7w28n7qpEfKR19P"
     },
     {
       "added_at": null,

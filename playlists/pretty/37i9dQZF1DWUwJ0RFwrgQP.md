@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwJ0RFwrgQP.md) - [plain]
 
 > Poussez les meubles, lancez la playlist\. Que la fête continue !
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,343 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,394 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

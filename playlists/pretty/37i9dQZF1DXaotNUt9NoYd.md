@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 
 > Its time to travel inwards & feel the bliss!
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,373 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,398 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 14 | [Pampus](https://open.spotify.com/track/7emdYdVOLn2nIzdFufWUQh) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [Pampus](https://open.spotify.com/album/66EibKvWjwkOn8LPibdMcF) | 3:26 |
 | 15 | [Moments](https://open.spotify.com/track/0UtZUu5j2Ye9QDxWyhReTx) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Moments](https://open.spotify.com/album/2MnGNTAK3FNzZJIZ9OPdHs) | 3:24 |
 | 16 | [Time Travel](https://open.spotify.com/track/1aa3A3F6b5FZFtXAhtrybK) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Time Travel](https://open.spotify.com/album/52vkIdfOyHog6vAGTru68z) | 3:04 |
-| 17 | [The Journey](https://open.spotify.com/track/77Fs2NajDBQaOOZkYDsFLE) | [Malik Jeremiassen](https://open.spotify.com/artist/6qIThryE8kmwkl6RfPdhHI) | [The Journey](https://open.spotify.com/album/6O3yzoZ7VeGF9jiWu6nchO) | 2:37 |
-| 18 | [The Art Of Love](https://open.spotify.com/track/7hXKIp3IX3nrvHkq34zbMG) | [Sahlene Williams](https://open.spotify.com/artist/0kuiVox1gz055r46Oqulfw) | [The Art Of Love](https://open.spotify.com/album/3z0G27tIIhecHLJi9ppTKT) | 3:05 |
+| 17 | [The Art Of Love](https://open.spotify.com/track/7hXKIp3IX3nrvHkq34zbMG) | [Sahlene Williams](https://open.spotify.com/artist/0kuiVox1gz055r46Oqulfw) | [The Art Of Love](https://open.spotify.com/album/3z0G27tIIhecHLJi9ppTKT) | 3:05 |
+| 18 | [The Journey](https://open.spotify.com/track/77Fs2NajDBQaOOZkYDsFLE) | [Malik Jeremiassen](https://open.spotify.com/artist/6qIThryE8kmwkl6RfPdhHI) | [The Journey](https://open.spotify.com/album/6O3yzoZ7VeGF9jiWu6nchO) | 2:37 |
 | 19 | [Awakening](https://open.spotify.com/track/5db1SLjPimPV4jc5SkAZ2b) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 2:37 |
 | 20 | [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 |
 | 21 | [Long Long Sleep](https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Long Long Sleep](https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6) | 2:17 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 41 | [Primordeal Instincts](https://open.spotify.com/track/2HFa8YQM9xXsaqquv8efKI) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Eternal Sunshine of](https://open.spotify.com/album/1lHy2i4BtaeDccL7h4yiHN) | 3:20 |
 | 42 | [Mystiqal](https://open.spotify.com/track/3BHlTxvHcHkyPG5X7MXiaN) | [Vugh Gardens](https://open.spotify.com/artist/1HxBL3Ls3YdMjJjFCzqEm6) | [Mystiqal](https://open.spotify.com/album/5n0SyqxC9Tv3q8KrjNJNKC) | 3:28 |
 | 43 | [Mandala](https://open.spotify.com/track/6qpUqLd0waCQDiNwcWMNV2) | [Pranayama Om](https://open.spotify.com/artist/6WrKGQdOj7BcZNZ8uvIWOV) | [Mandala](https://open.spotify.com/album/7zNJOa4IyLiAh8k6RjCAFJ) | 2:57 |
-| 44 | [Healing Memories](https://open.spotify.com/track/7nd51y4iaZaNLZcbAyQZWK) | [Kumbhaka](https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO) | [Healing Memories](https://open.spotify.com/album/4TdhUIpSL4UeYpSIoCw7my) | 3:22 |
-| 45 | [Back In Time](https://open.spotify.com/track/3DoRDvjKb1CMgF1oyko1GX) | [Amber Virena](https://open.spotify.com/artist/5OtQEaDqWy4oDqhgPAETSA) | [Back In Time](https://open.spotify.com/album/5u4gyoF73RoRCxTT40vUVD) | 2:49 |
+| 44 | [Back In Time](https://open.spotify.com/track/3DoRDvjKb1CMgF1oyko1GX) | [Amber Virena](https://open.spotify.com/artist/5OtQEaDqWy4oDqhgPAETSA) | [Back In Time](https://open.spotify.com/album/5u4gyoF73RoRCxTT40vUVD) | 2:49 |
+| 45 | [Healing Memories](https://open.spotify.com/track/7nd51y4iaZaNLZcbAyQZWK) | [Kumbhaka](https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO) | [Healing Memories](https://open.spotify.com/album/4TdhUIpSL4UeYpSIoCw7my) | 3:22 |
 | 46 | [As I Lay Here](https://open.spotify.com/track/59QJ83aEkzxOCqeWFbjoKa) | [Jennifer Dileo](https://open.spotify.com/artist/2mB3r3m1RWix0kc0f4qxTT) | [As I Lay Here](https://open.spotify.com/album/69cF5zbCD2jCDvAJvXJvgh) | 3:19 |
 | 47 | [MATI](https://open.spotify.com/track/6HeFLsBljHuuYdG4gUzlyE) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [MATI](https://open.spotify.com/album/41wh35g4nY8ilqZKYDBr4h) | 2:16 |
 | 48 | [Om Mantra](https://open.spotify.com/track/3lSRMSkO5kSKrtst3OJ29L) | [Advaitas](https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8) | [Om Mantra](https://open.spotify.com/album/2Rg8NshqLJejf4MgLJK5qZ) | 3:39 |
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 61 | [Our Beginning](https://open.spotify.com/track/48zUSuNPWf2yFkzGu0BTv8) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Long Distance \(Deep Sleep Drone Music\)](https://open.spotify.com/album/05IJiYAP4yFUioSrQ9GSGY) | 2:36 |
 | 62 | [Spa Music](https://open.spotify.com/track/0Lh7IIcgWIA11OcfEstcko) | [Ayurveda](https://open.spotify.com/artist/4OlZYsYD7j6OCbRklNPjpv) | [Ayurveda: Lullabies for Relaxation, Sleep, Relax, Yoga and Meditation with Relaxing Piano Music, Nature Sounds and Natural White Noise](https://open.spotify.com/album/1fzHuo2IttTwieEVzq0UrQ) | 3:36 |
 | 63 | [Ajna \(Third Eye/Pineal Gland\) \[Chakra\]](https://open.spotify.com/track/5mnLT8Ze4ugZxUSt4FkDeq) | [Air With Air Rising](https://open.spotify.com/artist/5YZaXFoZZsyjaxoy029RYD) | [7 Om Chanting Meditations](https://open.spotify.com/album/4HOj7igZ84vM6pNfLgJNuX) | 5:40 |
-| 64 | [Venu](https://open.spotify.com/track/1jTpn2kEJNkajWSx7zng9x) | [H S Venugopal](https://open.spotify.com/artist/5G06dFniw81EaR7vZrs5Cx), [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy), [Shashank Jodidar](https://open.spotify.com/artist/26VFhqyzYKDMH5Eqiipo9L) | [Venu](https://open.spotify.com/album/3pfkWvBU3Y1EAUl4WMpu3c) | 3:26 |
+| 64 | [Deep Meditation](https://open.spotify.com/track/2EwfFUQNTUsf8nqJHUiBcM) | [Dharma Frequency](https://open.spotify.com/artist/3TTdwdIf7UUyeTnG9QWXfI) | [Yoga Retreat](https://open.spotify.com/album/0eAjruWl2AJFaEGFSZ9IR8) | 2:38 |
 | 65 | [Om Asatoma \(Yoga Mantra\) \[feat\. Deva Premal & Miten\]](https://open.spotify.com/track/40391iHE1dYzQmOby5SFf7) | [The Yoga Mantra and Chant Music Project](https://open.spotify.com/artist/0zjett5LduAKxk0NfLC3NZ) | [Yoga Music Mantras & Chants](https://open.spotify.com/album/55qbMjcJd92Po54nkLmukm) | 7:16 |
 | 66 | [Music for Inner Peace and Meditation \(Okinawa Inspired Music\)](https://open.spotify.com/track/2ElXIde9edGAyNjPaXgIHW) | [Wellness](https://open.spotify.com/artist/1EbHNLhZfVqNhmthBWUdLg) | [Wellness Spa Sounds \- Nature Music for Relaxation, Peaceful Sleep with New Age Music & Relaxing Sounds](https://open.spotify.com/album/6LKUqXc4Z1V93EdaclLKa1) | 5:20 |
-| 67 | [Deep Meditation](https://open.spotify.com/track/2EwfFUQNTUsf8nqJHUiBcM) | [Dharma Frequency](https://open.spotify.com/artist/3TTdwdIf7UUyeTnG9QWXfI) | [Yoga Retreat](https://open.spotify.com/album/0eAjruWl2AJFaEGFSZ9IR8) | 2:38 |
+| 67 | [Venu](https://open.spotify.com/track/1jTpn2kEJNkajWSx7zng9x) | [H S Venugopal](https://open.spotify.com/artist/5G06dFniw81EaR7vZrs5Cx), [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy), [Shashank Jodidar](https://open.spotify.com/artist/26VFhqyzYKDMH5Eqiipo9L) | [Venu](https://open.spotify.com/album/3pfkWvBU3Y1EAUl4WMpu3c) | 3:26 |
 | 68 | [Mindstiller](https://open.spotify.com/track/2IA4wO7fwVunvFQuWeksm8) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Sleeper](https://open.spotify.com/album/6IoRGJxNt4XSc7DbpSnMvm) | 3:36 |
 | 69 | [Samadhi](https://open.spotify.com/track/1WJdUxC0wACrNH5IlqfL2f) | [Advaitas](https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8) | [Meditation Spa](https://open.spotify.com/album/6C6ZOAschwGsGWhFYH8Xwe) | 3:52 |
 | 70 | [Bageshri](https://open.spotify.com/track/086xtupAgie6cOt9CnCzsy) | [Buddhadev DasGupta](https://open.spotify.com/artist/4CMEJPRpRGpW6qMvIsFgBU) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 5:58 |

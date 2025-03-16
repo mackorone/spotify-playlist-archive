@@ -2135,6 +2135,32 @@
     },
     {
       "album": {
+        "name": "Bailalo Rocky",
+        "url": "https://open.spotify.com/album/0WwFQIWHODcGDoh3xHC4Jj"
+      },
+      "artists": [
+        {
+          "name": "Dj Roderick",
+          "url": "https://open.spotify.com/artist/0xt5YPdGAXuZpcvJpuhDC0"
+        },
+        {
+          "name": "Dj Jose Gonzalez",
+          "url": "https://open.spotify.com/artist/6YT2cextE84WCA3Hwlc5Eg"
+        },
+        {
+          "name": "Ariadne Arana",
+          "url": "https://open.spotify.com/artist/5k5RJzP8MAKLrPgvpYTKKd"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106676,
+      "name": "Bailalo Rocky",
+      "url": "https://open.spotify.com/track/2Zoj2wAVbWXi8bcfkhYfQw"
+    },
+    {
+      "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
@@ -5401,6 +5427,24 @@
     },
     {
       "album": {
+        "name": "Culo Con Caca",
+        "url": "https://open.spotify.com/album/1wiD0yCgDuYHwFhNBTZx5q"
+      },
+      "artists": [
+        {
+          "name": "Sad Goldo",
+          "url": "https://open.spotify.com/artist/2TyFrOyBNnRWhdsqLvJsOJ"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150016,
+      "name": "Culo Con Caca",
+      "url": "https://open.spotify.com/track/1k5NwGaQQBPnfZ9BejSQnz"
+    },
+    {
+      "album": {
         "name": "CUTE DEPRESSED",
         "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
       },
@@ -5990,7 +6034,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 195431,
       "name": "DIE TRYING",
       "url": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
@@ -6034,7 +6078,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
@@ -13200,7 +13244,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-13",
+      "date_removed": null,
       "duration_ms": 235044,
       "name": "Mar de Coral",
       "url": "https://open.spotify.com/track/2Vnc34rlo42kYFyLUmX1Px"
@@ -15634,7 +15678,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 150886,
       "name": "No Tiene Pito",
       "url": "https://open.spotify.com/track/2uCmdNoLIIKQCCCD0S08vu"
@@ -17090,6 +17134,24 @@
       "duration_ms": 240703,
       "name": "Pasos Al Costado",
       "url": "https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww"
+    },
+    {
+      "album": {
+        "name": "PASSO BEM SOLTO",
+        "url": "https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY"
+      },
+      "artists": [
+        {
+          "name": "ATLXS",
+          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116072,
+      "name": "PASSO BEM SOLTO - Slowed",
+      "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
     },
     {
       "album": {
@@ -20020,7 +20082,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 83070,
       "name": "Sino Es Muy Tarde - En Vivo",
       "url": "https://open.spotify.com/track/4jtQh4QmVk8FrKVLpsKuW0"

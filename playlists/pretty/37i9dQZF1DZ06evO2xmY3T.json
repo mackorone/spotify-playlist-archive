@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 679184,
+  "num_followers": 679188,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAADaUZXB8G9Vx+kXzM0WLRZW",
+  "snapshot_id": "Z9NxgAAAAAAbH9J7sJfvrBfH/a23Vrrd",
   "tracks": [
     {
       "added_at": null,
@@ -567,6 +567,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rumors (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 172832,
+      "name": "Rumors (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wanna Be (Remix Alternate Versions)",
         "url": "https://open.spotify.com/album/2YhNUDVeFFJshlJDkppXY6"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 224000,
       "name": "Wanna Be (with Megan Thee Stallion & Cardi B) - Remix",
       "url": "https://open.spotify.com/track/0LMNckdqhd2eQr5xV5NGRi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rumors (feat. Cardi B)",
-        "url": "https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 172832,
-      "name": "Rumors (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 161167,
-      "name": "Bet You Wanna (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Gusta (with Cardi B & Myke Towers)",
         "url": "https://open.spotify.com/album/5J7bWCachL4Q662xAfzyJd"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 180788,
       "name": "Me Gusta (with Cardi B & Myke Towers)",
       "url": "https://open.spotify.com/track/7e1VoRlNumuEkXlITMHKLE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 161167,
+      "name": "Bet You Wanna (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe"
     },
     {
       "added_at": null,
@@ -899,30 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dinero",
-        "url": "https://open.spotify.com/album/1fT1s4VMXc9xGIamDyFz9S"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Dinero",
-      "url": "https://open.spotify.com/track/22mQXNE0nCuWq4yOwcadIn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Writing on the Wall (feat. Post Malone & Cardi B)",
         "url": "https://open.spotify.com/album/2ZoLcA4NMOjJGFKeANgNpF"
       },
@@ -947,6 +923,30 @@
       "duration_ms": 201270,
       "name": "Writing on the Wall (feat. Post Malone & Cardi B)",
       "url": "https://open.spotify.com/track/7x9nXsowok1JszkVztI5NI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/1fT1s4VMXc9xGIamDyFz9S"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/22mQXNE0nCuWq4yOwcadIn"
     },
     {
       "added_at": null,

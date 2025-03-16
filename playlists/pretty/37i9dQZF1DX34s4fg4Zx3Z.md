@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: DANMY
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,240 likes - 51 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,241 likes - 51 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 6 | [INSIDE](https://open.spotify.com/track/0J4zcH6L1R0ocYxK0YAs9W) | [Vxllish](https://open.spotify.com/artist/27RxVUWFswWxJaZzF1R3CT), [North](https://open.spotify.com/artist/6RDx67MeiD2l3GcQKXUenu) | [INSIDE](https://open.spotify.com/album/3U4kr4CTsego3HP7aj1klo) | 3:34 |
 | 7 | [CÒN GÌ](https://open.spotify.com/track/0RTA8GxVz3xcc4OhzYxw3n) | [Guen](https://open.spotify.com/artist/009ClVlsLYwmu9ohcC0SeV) | [CÒN GÌ](https://open.spotify.com/album/0Q1cwi6zkYWqwZ5eBlUKPB) | 4:33 |
 | 8 | [Chàng Trai Bắc](https://open.spotify.com/track/3H6wmdWIwI9RcCnHb7RoEb) | [SOBE](https://open.spotify.com/artist/5T4IWkR0vFyMKGJQaZGHnI) | [Chàng Trai Bắc](https://open.spotify.com/album/60h8Tgz7glUe2o0R3ciP7j) | 3:03 |
-| 9 | [Xin Đừng Làm Anh Đau](https://open.spotify.com/track/7n19GYQHOjiqSzzRsuT1yW) | [RPT TC](https://open.spotify.com/artist/620SGhgUsNYFnVULyiGCeL), [RPT Orijinn](https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l) | [Xin Đừng Làm Anh Đau](https://open.spotify.com/album/231cebYofRSEq4LulMyB4x) | 3:38 |
+| 9 | [Xin Đừng Làm Anh Đau](https://open.spotify.com/track/7n19GYQHOjiqSzzRsuT1yW) | [RPT TC](https://open.spotify.com/artist/620SGhgUsNYFnVULyiGCeL), [RPT Orijinn](https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l), [phemak](https://open.spotify.com/artist/5GMm4G65nNaLgMddJ6Zsor) | [Xin Đừng Làm Anh Đau](https://open.spotify.com/album/231cebYofRSEq4LulMyB4x) | 3:38 |
 | 10 | [Người Ta Có Tốt Với Em](https://open.spotify.com/track/6MZVwqG35sumK8xmFJ4h3g) | [Jackie Njine](https://open.spotify.com/artist/3taOSFlvxaSINTTnKhjMQz) | [Người Ta Có Tốt Với Em](https://open.spotify.com/album/1vfx6JCRQ9gU7xbieIkXHh) | 3:56 |
 | 11 | [Nước Mắt Trong Tâm Trí](https://open.spotify.com/track/52aiJJzl39WRiaiLC3naGk) | [Marr D](https://open.spotify.com/artist/03hVdiz1KdQ9rhIKQoJXsE) | [Nước Mắt Trong Tâm Trí](https://open.spotify.com/album/749fMvRzfiLuJBwVxrDkjl) | 3:24 |
 | 12 | [sometimes, the bad guys win](https://open.spotify.com/track/6r0ocRekesnyz1fHhJlaoI) | [Khuê](https://open.spotify.com/artist/4375qNyQS7Uz7Npdaha5uq) | [sometimes, the bad guys win](https://open.spotify.com/album/7o98CAjta9N6JWTvjScHEK) | 3:40 |

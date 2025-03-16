@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,027 likes - 197 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,026 likes - 197 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 72 | [Revival](https://open.spotify.com/track/3y6R5ohBabcdmbvhr1P1xC) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:12 |
 | 73 | [My Love Won't Let You Down](https://open.spotify.com/track/3Ms30cFnM7su9lCdwgnexR) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 2:54 |
 | 74 | [Make This Song Cry](https://open.spotify.com/track/0iUQMaYF4PijgspAkghWMm) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [KIMBERLY: The People I Used to Know](https://open.spotify.com/album/2nIA5nr4NS4aYi5VWaUn5o) | 3:25 |
-| 75 | [Fire \(feat\. Pitbull\)](https://open.spotify.com/track/4tKDNJH4ylLAxfwYqqUM1d) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Tattoos](https://open.spotify.com/album/1OdcBxCNY52OXH0r4odXqP) | 3:36 |
-| 76 | [See You Again](https://open.spotify.com/track/1rssm0lgmiUJnUwQ166kZA) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 5:20 |
+| 75 | [See You Again](https://open.spotify.com/track/1rssm0lgmiUJnUwQ166kZA) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 5:20 |
+| 76 | [Fire \(feat\. Pitbull\)](https://open.spotify.com/track/4tKDNJH4ylLAxfwYqqUM1d) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Tattoos](https://open.spotify.com/album/1OdcBxCNY52OXH0r4odXqP) | 3:36 |
 | 77 | [STAY WITH ME \- KR Ver.](https://open.spotify.com/track/6Bz2nEZLNYm1hEB3c3upoj) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [RISE](https://open.spotify.com/album/5g83RiFIYU6NlMIF5Wp8kk) | 3:22 |
 | 78 | [Changed](https://open.spotify.com/track/6tyyxy6jFiNTUawKe9Q7UC) | [Stanaj](https://open.spotify.com/artist/3zrUX1hQrUB9aXcOiyQLmN) | [From A Distance](https://open.spotify.com/album/2ekHnPrPK0Fqxt0mSGDbZs) | 3:27 |
 | 79 | [One Of Those Days](https://open.spotify.com/track/4qoRtBttExNQ8eguqiYsRg) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Just Whitney](https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX) | 4:15 |
@@ -121,14 +121,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 111 | [Grip](https://open.spotify.com/track/1SUpeDDpc0z3lpru5ON1hC) | [Alec Bailey](https://open.spotify.com/artist/0Y660vMBkPvMxMV9QTg11v) | [Grip](https://open.spotify.com/album/2K5GlCR05UcqeQmnE2B6qP) | 2:48 |
 | 112 | [Red Eye](https://open.spotify.com/track/37LR3mKW7HwA7qabja8uTO) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Magazines Or Novels](https://open.spotify.com/album/7AGnFKaeMdOgRFazLNyBps) | 3:36 |
 | 113 | [Good Thing](https://open.spotify.com/track/5PPOHLJQdAudYf2bu4owjZ) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Overnight](https://open.spotify.com/album/00lWTbQ4MQezqzl0S8M37D) | 3:57 |
-| 114 | [Real Life](https://open.spotify.com/track/1HSV0jgzH5VCVtsFwPL2B5) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/4KTxUa5hNsGpT41XcdLicL) | 3:32 |
-| 115 | [Cruel](https://open.spotify.com/track/7MaRmvRgXtScvGuMj7e7dE) | [Oli Fox](https://open.spotify.com/artist/6L7tIdRpMMZb5l2tk42YLA) | [Cruel](https://open.spotify.com/album/04M4kFfCnyUYOsazsEylcX) | 3:11 |
-| 116 | [Temporary](https://open.spotify.com/track/77c7q9unffhRZdpZluP6xW) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Temporary](https://open.spotify.com/album/5FlZ1McXTK4DxVSGXWSdKS) | 3:01 |
-| 117 | [last night i dreamt i fell in love](https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [last night i dreamt i fell in love](https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA) | 2:06 |
+| 114 | [last night i dreamt i fell in love](https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [last night i dreamt i fell in love](https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA) | 2:06 |
+| 115 | [Real Life](https://open.spotify.com/track/1HSV0jgzH5VCVtsFwPL2B5) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/4KTxUa5hNsGpT41XcdLicL) | 3:32 |
+| 116 | [Cruel](https://open.spotify.com/track/7MaRmvRgXtScvGuMj7e7dE) | [Oli Fox](https://open.spotify.com/artist/6L7tIdRpMMZb5l2tk42YLA) | [Cruel](https://open.spotify.com/album/04M4kFfCnyUYOsazsEylcX) | 3:11 |
+| 117 | [Temporary](https://open.spotify.com/track/77c7q9unffhRZdpZluP6xW) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Temporary](https://open.spotify.com/album/5FlZ1McXTK4DxVSGXWSdKS) | 3:01 |
 | 118 | [leave the light on](https://open.spotify.com/track/6b9NHiVNflrq1zd1dxkaLC) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [all the things that could go wrong](https://open.spotify.com/album/7dBZzRYR6Q0nOhvuxN6H4H) | 2:55 |
 | 119 | [Off The Wall](https://open.spotify.com/track/5Q5zfuCHsMhvN4eMvNLAjn) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAMSCAPE](https://open.spotify.com/album/4iF9sRunhefmp2zO5ys0AB) | 2:38 |
-| 120 | [Promise Me](https://open.spotify.com/track/5BTgy0YT2HNKbBbsoodIox) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [A Good Friend Is Nice](https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk) | 3:38 |
-| 121 | [Night Poem](https://open.spotify.com/track/6dboAscJD5svgHNKIOHwXj) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAMSCAPE](https://open.spotify.com/album/4iF9sRunhefmp2zO5ys0AB) | 2:47 |
+| 120 | [Night Poem](https://open.spotify.com/track/6dboAscJD5svgHNKIOHwXj) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAMSCAPE](https://open.spotify.com/album/4iF9sRunhefmp2zO5ys0AB) | 2:47 |
+| 121 | [Promise Me](https://open.spotify.com/track/5BTgy0YT2HNKbBbsoodIox) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [A Good Friend Is Nice](https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk) | 3:38 |
 | 122 | [Making Me Dance](https://open.spotify.com/track/4CXzB7sfask9ekNzdXX83q) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Making Me Dance](https://open.spotify.com/album/6aN6Gf2xG7PLTACXGsu4kU) | 3:28 |
 | 123 | [I'll Remember You](https://open.spotify.com/track/3PuyCRR2JN1Nbk1yjl0xYE) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ) | [Unfinished Business \(Deluxe\)](https://open.spotify.com/album/3WYRdsLkvrKgLgtxd8VV6X) | 4:06 |
 | 124 | [Happy](https://open.spotify.com/track/6jbvtCxnmDhqIMb36AE94R) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over](https://open.spotify.com/album/0iOqQkGiycHp33vWKGdyqf) | 2:44 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 196 | [Tonight](https://open.spotify.com/track/4aTAQCJIGLU5RRcnZNPftn) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/6ohDfN4WqQolD87G6s3j3U) | 3:53 |
 | 197 | [Impossible](https://open.spotify.com/track/42gXlZEqFQ6Slmo9jxATv5) | [Shin Giwon Piano](https://open.spotify.com/artist/0hKq3u04JU5IuGNSTGyngJ) | [Kpop Piano \#69](https://open.spotify.com/album/5p1EcRrbWRuuCL8hlitUXQ) | 3:06 |
 
-Snapshot ID: `AbsD4AAAAAA48YSJZXbxF3C7cqGStltw`
+Snapshot ID: `AbsJigAAAACZ24kosZzlc7Yo0UZdyfAb`

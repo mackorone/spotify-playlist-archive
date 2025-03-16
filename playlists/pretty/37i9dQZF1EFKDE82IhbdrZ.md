@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,316 likes - 341 songs - 18 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,315 likes - 341 songs - 18 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 56 | [Hoodie](https://open.spotify.com/track/410smJMzhna1ADC2ldqVHu) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 3:39 |
 | 57 | [Better Than Words](https://open.spotify.com/track/4qG3Um3jXlQnaQV1yVo3it) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:28 |
 | 58 | [Long Way Down](https://open.spotify.com/track/2UFOh8iMQ2DON7sl3lqGJH) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:12 |
-| 59 | [Clouds](https://open.spotify.com/track/6ibWCCEne6WEqDBAv7BeXv) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:51 |
-| 60 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 |
+| 59 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 |
+| 60 | [Clouds](https://open.spotify.com/track/6ibWCCEne6WEqDBAv7BeXv) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:51 |
 | 61 | [Little White Lies](https://open.spotify.com/track/0O6VeBiFCwHrpVURJSsGsU) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:17 |
 | 62 | [Spaces](https://open.spotify.com/track/4lrC9aBnzlG9U5DDoHMnyt) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 4:16 |
 | 63 | [To Love Someone](https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [To Love Someone](https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC) | 3:16 |
@@ -171,8 +171,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 161 | [The Music Never Ends](https://open.spotify.com/track/76hJ3vEgb6jUiYUEkiTmuQ) | [ARASHI](https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C) | [This is 嵐](https://open.spotify.com/album/1aGPwO93UYZ3OMtnVcekI6) | 4:04 |
 | 162 | [Doesn't Matter](https://open.spotify.com/track/3bJySSPfgLzsM7lLJyr90G) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [TOOGOODTOBETRUE \(feat\. Sufjan Stevens & Rebecca Sugar\)](https://open.spotify.com/album/2tZug3aKryBvtzJTfKqARf) | 3:28 |
 | 163 | [Nonsense \(with Coi Leray\) \- Remix](https://open.spotify.com/track/0DD4vkP9qDiej99eUCG4jC) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Nonsense \(Remix\)](https://open.spotify.com/album/1jTN0ud3pW7ATr45S1CdpL) | 2:55 |
-| 164 | [Think About You](https://open.spotify.com/track/49wvp0zE6RvYuxUrCoHgl6) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Think About You](https://open.spotify.com/album/10NN47P7LBmv69ywf8rX5e) | 3:08 |
-| 165 | [Not Your Man](https://open.spotify.com/track/1fQknzJ5j8dreu0zjTkFpl) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 3:37 |
+| 164 | [Not Your Man](https://open.spotify.com/track/1fQknzJ5j8dreu0zjTkFpl) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 3:37 |
+| 165 | [Think About You](https://open.spotify.com/track/49wvp0zE6RvYuxUrCoHgl6) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Think About You](https://open.spotify.com/album/10NN47P7LBmv69ywf8rX5e) | 3:08 |
 | 166 | [24 Hours x Gypsy Woman \(feat\. Yasmin Green, Crystal Waters & Bougenvilla \) \[VIP Mash\-up\]](https://open.spotify.com/track/2YhF6jwopT55f7mKQynoQq) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43), [Bougenvilla](https://open.spotify.com/artist/1I5pYXplsbqmHaVWlAEhla), [Yasmin Green](https://open.spotify.com/artist/2UWEzvq7cBIcPt5Z9AwD1Y) | [24 Hours x Gypsy Woman \(feat\. Yasmin Green, Crystal Waters & Bougenvilla \) \[VIP Mash\-up\]](https://open.spotify.com/album/4hUvBq66ZnTxafPFy7Vgzg) | 2:23 |
 | 167 | [Might As Well Be Me](https://open.spotify.com/track/6oZ3hh7FI0bj2dUiF6OojO) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Brothers Osborne](https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH) | 2:49 |
 | 168 | [Bliss](https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:53 |
@@ -236,8 +236,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 226 | [Brave](https://open.spotify.com/track/4rbsNwG7oVRdjsCJsUy25v) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Echo](https://open.spotify.com/album/3KMc2Ey1t8gv4r9VfYgqbH) | 3:36 |
 | 227 | [All Out](https://open.spotify.com/track/6DcLRmx2GiBJq5kuK8J9XY) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [All Out](https://open.spotify.com/album/37YlmIvYa3QbBShPifmp2h) | 4:22 |
 | 228 | [Bubbles](https://open.spotify.com/track/2Z1hvUB3unIudQSRVGTBC2) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:38 |
-| 229 | [Loving](https://open.spotify.com/track/1b5e4l5gydR0LCX099FaIP) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 2:54 |
-| 230 | [Space & Time](https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Space & Time](https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l) | 3:03 |
+| 229 | [Space & Time](https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Space & Time](https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l) | 3:03 |
+| 230 | [Loving](https://open.spotify.com/track/1b5e4l5gydR0LCX099FaIP) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 2:54 |
 | 231 | [It Works](https://open.spotify.com/track/6qLhYplpKpC3AyylF9YAx5) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 2:48 |
 | 232 | [Guilty Pleasure](https://open.spotify.com/track/4Jc5qr6GZgbKU5GZPrlyJA) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Born](https://open.spotify.com/album/2Hg5u4WLNI85GHVISRXMna) | 3:28 |
 | 233 | [Blue Jeans](https://open.spotify.com/track/6tnMSQvPJVJvyCsgOIYpr9) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Jessie James](https://open.spotify.com/album/30xG0AwSqAlBjlx8vPFzkX) | 3:54 |
@@ -350,4 +350,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 340 | [Walk with Me](https://open.spotify.com/track/4hJwxO5eaINWALI4GLywXp) | [N.I.T.Z.](https://open.spotify.com/artist/5ij9fGCGIkU1LLKgdJH3Qb) | [Pit Stop](https://open.spotify.com/album/7cIDzeXmvSlr7ftCLb5JuM) | 2:47 |
 | 341 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `AbsD9AAAAAA01F3DoUS8YGbm0ot8ZW9+`
+Snapshot ID: `AbsJigAAAADR37X+RWvBYC8DPCvHM7cS`

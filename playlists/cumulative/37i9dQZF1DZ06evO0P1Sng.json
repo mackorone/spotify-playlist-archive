@@ -2137,6 +2137,48 @@
     },
     {
       "album": {
+        "name": "BOLA + 1 BECK",
+        "url": "https://open.spotify.com/album/4ZLxvfs4jZvVRmQLIfbtni"
+      },
+      "artists": [
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Predella",
+          "url": "https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Mc Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "date_added": "2025-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487619,
+      "name": "Pra Sempre",
+      "url": "https://open.spotify.com/track/5Cq98QXJoptVVspuRDOkg4"
+    },
+    {
+      "album": {
         "name": "Pra Te Envolver",
         "url": "https://open.spotify.com/album/5gZptLNPQo1jl93XlyIFF1"
       },
@@ -2516,7 +2558,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 160056,
       "name": "Tifanny",
       "url": "https://open.spotify.com/track/7rSH0RAJ3IkeiXfwqEZERJ"

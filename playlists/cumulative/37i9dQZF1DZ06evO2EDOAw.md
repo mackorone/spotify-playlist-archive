@@ -4,7 +4,7 @@
 
 > This is Kierra Sheard\. The essential tracks, all in one playlist.
 
-89 songs - 7 hr 8 min
+90 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [It Keeps Happening \(Live\)](https://open.spotify.com/track/0TcoXFukLgUH8kOQXzERwL) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 5:32 | 2023-03-04 |  |
 | [JESUS](https://open.spotify.com/track/1ETyQbaABnn028WbdBb93L) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Bold Right Life](https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB) | 4:44 | 2023-04-08 | 2023-11-11 |
 | [Jump, Jump \(feat\. Kierra Sheard & 21:03\)](https://open.spotify.com/track/0iJFAYWcbX2pbDVIbfxT97) | [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [21:03](https://open.spotify.com/artist/0N6Fi2VLCxTWZAjcSQzIB4) | [V2...](https://open.spotify.com/album/17sHeVMLvbVPeKaTk3WQlY) | 4:13 | 2024-02-10 | 2024-04-03 |
+| [Kill The Dragon](https://open.spotify.com/track/3K2rE2AsGABWSfnZMJ3uUe) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [GRACELAND](https://open.spotify.com/album/3WnxnPtIRicG42jGMyyEz4) | 5:03 | 2025-03-16 |  |
 | [Love Like Crazy](https://open.spotify.com/track/1MPT9XRJ4LaefCDGHMlpeb) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Bold Right Life](https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB) | 3:47 | 2023-03-04 |  |
 | [Making A Way \(feat\. Adia\)](https://open.spotify.com/track/4GUsJS1Y63xlv8w1C3Y4wq) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [Making A Way \(feat\. Adia\)](https://open.spotify.com/album/4qx5I6vvqoQgssHapDeMEq) | 5:35 | 2023-03-04 | 2023-03-14 |
 | [Making A Way \(feat\. Adia\)](https://open.spotify.com/track/4Hif2nRMeMpVIp3p1rMvg8) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 5:35 | 2023-03-13 |  |
@@ -64,7 +65,7 @@
 | [Now Here \(feat\. Kierra Sheard\)](https://open.spotify.com/track/61tGQR8Pv6OyKXYmTFHIPV) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Things of Heaven](https://open.spotify.com/album/1Q3qc4ujNahlJkwFAE0hOU) | 5:38 | 2023-03-04 |  |
 | [One Step at a Time](https://open.spotify.com/track/1DAGrpWefldPiqcPIFl79S) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 3:46 | 2023-09-09 | 2024-12-11 |
 | [Paid It All](https://open.spotify.com/track/4wzFepzEcy21hrLGpk4PxI) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [SORRY, I CHANGED \(AGAIN\)](https://open.spotify.com/album/0z1gNLw6wCE0azh08jDWyK) | 3:16 | 2024-08-27 |  |
-| [Praise Him Now](https://open.spotify.com/track/6dzvHYU9p50AWJshDhqZVa) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Bold Right Life](https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB) | 3:49 | 2024-03-12 |  |
+| [Praise Him Now](https://open.spotify.com/track/6dzvHYU9p50AWJshDhqZVa) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Bold Right Life](https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB) | 3:49 | 2024-03-12 | 2025-03-16 |
 | [Praise Offering](https://open.spotify.com/track/621s7LyDDCeZDKp8TyEfYr) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [I Owe You](https://open.spotify.com/album/2xmUC6JDf6PS06lb1ZJffL) | 4:56 | 2025-01-09 | 2025-02-04 |
 | [Praise Through](https://open.spotify.com/track/3qh8F96Y1HVLlOdOY3k1em) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Praise Through](https://open.spotify.com/album/7fxipbdMsE7qHTbvWv3irw) | 7:23 | 2023-03-04 | 2023-03-25 |
 | [Put A Praise On It \- Live](https://open.spotify.com/track/3yhpA3U2Ki3W6UFSVfMYPS) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [One Place Live](https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb) | 6:16 | 2023-03-04 |  |

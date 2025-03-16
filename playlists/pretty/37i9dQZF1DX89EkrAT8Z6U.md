@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > The perfect mixtape for an anime fight scene\. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,234,648 likes - 75 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,234,726 likes - 75 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 24 | [Shakira!](https://open.spotify.com/track/1zCQXSnLkfXq3TzMLr6pWf) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [EGOVERT](https://open.spotify.com/artist/4PfKPdq8QEgcerLwGApWIp) | [Shakira!](https://open.spotify.com/album/2fCklc5HvH4eeu2ilTEvvM) | 2:29 |
 | 25 | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3) | 1:36 |
 | 26 | [LA ESPADA](https://open.spotify.com/track/2KYNQpVdHsqC84TgJa5T7O) | [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe) | [LA ESPADA](https://open.spotify.com/album/251w9v57Ijs1ZCAiwW0hjs) | 2:57 |
-| 27 | [Hatchback](https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [Benbow Crescent](https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF) | 2:29 |
+| 27 | [RAHHHH](https://open.spotify.com/track/5NLnV0krXXSIOqL1PyAd1Q) | [alt!](https://open.spotify.com/artist/2JUbvars1Q5hnkRa8IglAa) | [RAHHHH](https://open.spotify.com/album/0kBzlWRuGqJCKTLU453Hoa) | 1:00 |
 | 28 | [By the Sword](https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [By the Sword](https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa) | 2:05 |
-| 29 | [RAHHHH](https://open.spotify.com/track/5NLnV0krXXSIOqL1PyAd1Q) | [alt!](https://open.spotify.com/artist/2JUbvars1Q5hnkRa8IglAa) | [RAHHHH](https://open.spotify.com/album/0kBzlWRuGqJCKTLU453Hoa) | 1:00 |
+| 29 | [Hatchback](https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [Benbow Crescent](https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF) | 2:29 |
 | 30 | [Let’s Ride](https://open.spotify.com/track/2ZNGVeQUOXsKqRgMVmyr3r) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [Let’s Ride](https://open.spotify.com/album/7AHgpws4jUS12JxsqorrJO) | 2:00 |
 | 31 | [Still Cold / Pathway Private](https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Red Teenage Melody](https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5) | 4:31 |
 | 32 | [sunset dreams](https://open.spotify.com/track/6zg431pIV64icWpxl46rzk) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou) | [sunset dreams](https://open.spotify.com/album/49zxPpemrGsPpWnVpQcLNh) | 1:50 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 66 | [March!](https://open.spotify.com/track/0G4uu3BzqOmgHW7sP5WHBN) | [XANAKIN SKYWOK](https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3), [Yung Kage](https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT), [AVGOTDRIP](https://open.spotify.com/artist/7igrDEryu1H8kwrg2jMP06) | [March!](https://open.spotify.com/album/2oKf1enSq9QsAoWqSWMtHa) | 2:14 |
 | 67 | [Castles & Moats](https://open.spotify.com/track/3zk0hk2rWjWMApIn83ZfPc) | [Warlord Colossus](https://open.spotify.com/artist/5gYimn2wODaiKOTFJlzVnn) | [Where Are The Traitors?](https://open.spotify.com/album/600ldbD3384nOA3bRDSF0q) | 2:09 |
 | 68 | [from up on silent hill](https://open.spotify.com/track/4R5dpG4U9rgHDGSQRL4XeR) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [from up on silent hill](https://open.spotify.com/album/3B00Yjkqx81gqsV79wYqzZ) | 2:30 |
-| 69 | [BREATHE](https://open.spotify.com/track/2qmn3UsrMtbt3orqjZSDVh) | [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx), [January RT](https://open.spotify.com/artist/1o2BMJgKJoVX6x0bQ4sMpu) | [BREATHE](https://open.spotify.com/album/3c9lEzKYoMMjZz1sLzilHx) | 3:02 |
-| 70 | [RUN UP!](https://open.spotify.com/track/7oDUCu36rMex65tc03C8er) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ), [Josh A](https://open.spotify.com/artist/2rWCIhENZyPVDAeFC0ESWN) | [RUN UP!](https://open.spotify.com/album/6MoWt5Hvt4tdkrer9dppB5) | 2:19 |
+| 69 | [RUN UP!](https://open.spotify.com/track/7oDUCu36rMex65tc03C8er) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ), [Josh A](https://open.spotify.com/artist/2rWCIhENZyPVDAeFC0ESWN) | [RUN UP!](https://open.spotify.com/album/6MoWt5Hvt4tdkrer9dppB5) | 2:19 |
+| 70 | [BREATHE](https://open.spotify.com/track/2qmn3UsrMtbt3orqjZSDVh) | [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx), [January RT](https://open.spotify.com/artist/1o2BMJgKJoVX6x0bQ4sMpu) | [BREATHE](https://open.spotify.com/album/3c9lEzKYoMMjZz1sLzilHx) | 3:02 |
 | 71 | [S1KE](https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [S1KE](https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx) | 1:54 |
 | 72 | [OLIVIA](https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [Yung Kage](https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT) | [OLIVIA](https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV) | 2:23 |
 | 73 | [Dead on Arrival](https://open.spotify.com/track/2wYJ7AszuzxSdb0yOjirKQ) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Dead on Arrival](https://open.spotify.com/album/0PBdPsVuk89l7nPv5IJFLx) | 2:52 |

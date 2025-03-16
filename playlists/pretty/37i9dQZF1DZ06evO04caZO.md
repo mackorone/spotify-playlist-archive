@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04caZO.md) - [plain]
 
 > This is The Strokes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,300 likes - 41 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,357 likes - 41 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,16 +22,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04caZO.md) - [plain]
 | 12 | [Machu Picchu](https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:29 |
 | 13 | [Why Are Sundays So Depressing](https://open.spotify.com/track/1aOxOpH4AkGAd8OMrKjyNY) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 4:35 |
 | 14 | [Heart In a Cage](https://open.spotify.com/track/3mYCd23hPxJW5okSvMoy3x) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:26 |
-| 15 | [What Ever Happened?](https://open.spotify.com/track/78Gzxi27GuNHTfkn2BylG4) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 2:49 |
-| 16 | [Is This It](https://open.spotify.com/track/2pAD0PKMUMtxlMvz33tYzB) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 2:31 |
+| 15 | [Is This It](https://open.spotify.com/track/2pAD0PKMUMtxlMvz33tYzB) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 2:31 |
+| 16 | [What Ever Happened?](https://open.spotify.com/track/78Gzxi27GuNHTfkn2BylG4) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 2:49 |
 | 17 | [Brooklyn Bridge To Chorus](https://open.spotify.com/track/2mDYYGaGd9uXKkK2YhDA3i) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 3:55 |
 | 18 | [Welcome To Japan](https://open.spotify.com/track/7bfocP7GYoLOutUYpTI8tx) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:50 |
-| 19 | [Automatic Stop](https://open.spotify.com/track/6DUKQUhWqUySYngLXLNwP2) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:27 |
-| 20 | [Threat of Joy](https://open.spotify.com/track/37ZgsOy8t4vMnGtMExr6ah) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Future Present Past](https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D) | 4:24 |
+| 19 | [Threat of Joy](https://open.spotify.com/track/37ZgsOy8t4vMnGtMExr6ah) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Future Present Past](https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D) | 4:24 |
+| 20 | [Automatic Stop](https://open.spotify.com/track/6DUKQUhWqUySYngLXLNwP2) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:27 |
 | 21 | [Bad Decisions](https://open.spotify.com/track/55N8cxpE1QDoeaaNqUnoZ2) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 4:53 |
 | 22 | [One Way Trigger](https://open.spotify.com/track/5GKVcvTgnFYtfh25qKQtRg) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 4:02 |
-| 23 | [I'll Try Anything Once \("You Only Live Once" demo\) \- Heart In a Cage B\-Side](https://open.spotify.com/track/1L0C3xvOtzHSOSZ5T59n0L) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The Singles \- Volume 01](https://open.spotify.com/album/2j5jqlI0NvqlXAy9C740pZ) | 3:14 |
-| 24 | [Oblivius](https://open.spotify.com/track/6y4ySPeb68KGoAi1dk130F) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Future Present Past](https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D) | 4:59 |
+| 23 | [Oblivius](https://open.spotify.com/track/6y4ySPeb68KGoAi1dk130F) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Future Present Past](https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D) | 4:59 |
+| 24 | [I'll Try Anything Once \("You Only Live Once" demo\) \- Heart In a Cage B\-Side](https://open.spotify.com/track/1L0C3xvOtzHSOSZ5T59n0L) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The Singles \- Volume 01](https://open.spotify.com/album/2j5jqlI0NvqlXAy9C740pZ) | 3:14 |
 | 25 | [The Modern Age](https://open.spotify.com/track/1EsgUWQsxGBwnu3NATDjiU) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:28 |
 | 26 | [Razorblade](https://open.spotify.com/track/4UF1eupXP9Zz5GpYepyOxI) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:28 |
 | 27 | [Chances](https://open.spotify.com/track/718purgMpFb2Axhuz0Hbq1) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:36 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04caZO.md) - [plain]
 | 40 | [On the Other Side](https://open.spotify.com/track/6oqJLFTbJ6PkgPfU0Mtjix) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 4:36 |
 | 41 | [Call Me Back](https://open.spotify.com/track/6z5mh42xSM54RncKZMM8hS) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:02 |
 
-Snapshot ID: `Z9IgAAAAAABqZKqHHBVoXxS1Mhk0c5sA`
+Snapshot ID: `Z9NxgAAAAADViHpDw7Fl3gUvd9a0HSiw`

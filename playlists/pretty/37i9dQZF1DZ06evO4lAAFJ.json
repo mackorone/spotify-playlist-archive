@@ -1,12 +1,12 @@
 {
   "description": "This is ROSAL\u00cdA. The essential tracks, all in one playlist.",
-  "num_followers": 639756,
+  "num_followers": 639778,
   "original_name": "This Is ROSAL\u00cdA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAD+ZRGDocNVRTbCbAna+Kze",
+  "snapshot_id": "Z9NxgAAAAABzZyrj3jWsYg15Fh9sj073",
   "tracks": [
     {
       "added_at": null,
@@ -87,26 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
-        "url": "https://open.spotify.com/album/1thajvxcfKux4QBwgM9Ac5"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 199994,
-      "name": "Antes de Morirme - feat. ROSAL\u00cdA",
-      "url": "https://open.spotify.com/track/4Dl8bEzhAEGbcwkQawS1XG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -123,6 +103,26 @@
       "duration_ms": 188106,
       "name": "LA FAMA",
       "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/1thajvxcfKux4QBwgM9Ac5"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 199994,
+      "name": "Antes de Morirme - feat. ROSAL\u00cdA",
+      "url": "https://open.spotify.com/track/4Dl8bEzhAEGbcwkQawS1XG"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fucking Money Man",
+        "url": "https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Dio$ No$ Libre Del Dinero",
+      "url": "https://open.spotify.com/track/5m9l5wILQ9iiLd8csLeR5v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oral",
         "url": "https://open.spotify.com/album/4JQVXceKAkVXlkCxh1CY0f"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 222737,
       "name": "Oral",
       "url": "https://open.spotify.com/track/3re91K41XNVsViNbCPumTw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fucking Money Man",
-        "url": "https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "Dio$ No$ Libre Del Dinero",
-      "url": "https://open.spotify.com/track/5m9l5wILQ9iiLd8csLeR5v"
     },
     {
       "added_at": null,

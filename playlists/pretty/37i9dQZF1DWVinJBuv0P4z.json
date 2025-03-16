@@ -1,6 +1,6 @@
 {
   "description": "Happy tunes from the 50s, 60s & 70s. Cover: The Beach Boys.",
-  "num_followers": 461263,
+  "num_followers": 461502,
   "original_name": "Feel Good Classics",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
+        "name": "Bellamy Brothers",
+        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "Let Your Love Flow",
+      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
         "name": "Staying Alive (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6iqFb4EhmlHHjJGFcRgJmQ"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 164733,
       "name": "I Can See Clearly Now - Edit",
       "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
-        "name": "Bellamy Brothers",
-        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "Let Your Love Flow",
-      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Hot Chocolate",
-        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
-      },
-      "artists": [
-        {
-          "name": "Hot Chocolate",
-          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
-        }
-      ],
-      "duration_ms": 244920,
-      "name": "You Sexy Thing",
-      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Wild Cherry",
         "url": "https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 300000,
       "name": "Play That Funky Music",
       "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Hot Chocolate",
+        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
+      },
+      "artists": [
+        {
+          "name": "Hot Chocolate",
+          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
+        }
+      ],
+      "duration_ms": 244920,
+      "name": "You Sexy Thing",
+      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "The Birds, The Bees, & The Monkees",
-        "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
-      },
-      "artists": [
-        {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
-        }
-      ],
-      "duration_ms": 179613,
-      "name": "Daydream Believer",
-      "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "30 Years Of Funk: 1969-1999 The Anthology",
         "url": "https://open.spotify.com/album/0ib2UtSmLGssyqyoY6X8cm"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 202733,
       "name": "Some Kind Of Wonderful - Remastered 1999",
       "url": "https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "The Birds, The Bees, & The Monkees",
+        "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "duration_ms": 179613,
+      "name": "Daydream Believer",
+      "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Dance Party",
-        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 165226,
-      "name": "Dancing In The Street",
-      "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 375400,
       "name": "He's the Greatest Dancer - 1995 Remaster",
       "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Dance Party",
+        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 165226,
+      "name": "Dancing In The Street",
+      "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Main Course",
-        "url": "https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 222266,
-      "name": "Jive Talkin'",
-      "url": "https://open.spotify.com/track/4t0Pj3iBnSCZv5pDEPNmzG"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Endless Flight",
         "url": "https://open.spotify.com/album/7LolR1vd0KTozbF1an0SlW"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 221306,
       "name": "You Make Me Feel Like Dancing",
       "url": "https://open.spotify.com/track/3DZ11M7LSpVQzYHnFx3i95"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Main Course",
+        "url": "https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 222266,
+      "name": "Jive Talkin'",
+      "url": "https://open.spotify.com/track/4t0Pj3iBnSCZv5pDEPNmzG"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Greatest Hits / Tequila",
-        "url": "https://open.spotify.com/album/7dcrUMOet5HIHYiDaVk89R"
-      },
-      "artists": [
-        {
-          "name": "The Champs",
-          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
-        }
-      ],
-      "duration_ms": 135240,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/5gJKsGij5oGt5H5RSFYXPa"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Ritchie Valens",
         "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 124586,
       "name": "Come On, Let's Go",
       "url": "https://open.spotify.com/track/4cRfSR0QxDlXRHTKyEOu93"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Greatest Hits / Tequila",
+        "url": "https://open.spotify.com/album/7dcrUMOet5HIHYiDaVk89R"
+      },
+      "artists": [
+        {
+          "name": "The Champs",
+          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
+        }
+      ],
+      "duration_ms": 135240,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/5gJKsGij5oGt5H5RSFYXPa"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "The Best Of The Crew Cuts",
-        "url": "https://open.spotify.com/album/7dQg87XegvtSinDdZ1p0VP"
-      },
-      "artists": [
-        {
-          "name": "The Crew Cuts",
-          "url": "https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv"
-        }
-      ],
-      "duration_ms": 168893,
-      "name": "Sh-Boom",
-      "url": "https://open.spotify.com/track/7G2jAmiYUDZKyk7npVrgX8"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 287440,
       "name": "Lost in Music - 1995 Remaster",
       "url": "https://open.spotify.com/track/47eSFHsPDVJwssTTG62Af3"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "The Best Of The Crew Cuts",
+        "url": "https://open.spotify.com/album/7dQg87XegvtSinDdZ1p0VP"
+      },
+      "artists": [
+        {
+          "name": "The Crew Cuts",
+          "url": "https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv"
+        }
+      ],
+      "duration_ms": 168893,
+      "name": "Sh-Boom",
+      "url": "https://open.spotify.com/track/7G2jAmiYUDZKyk7npVrgX8"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Completely Hooked",
-        "url": "https://open.spotify.com/album/0UQeeHZSz95cijW6o07wib"
-      },
-      "artists": [
-        {
-          "name": "Dr. Hook",
-          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Sexy Eyes - Single Version",
-      "url": "https://open.spotify.com/track/2iZ4OR1aZTINYlyk2hwTnB"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4GmEpUaXxyJ9YhO8pzIa2V"
       },
@@ -2287,18 +2271,18 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "He's So Fine",
-        "url": "https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w"
+        "name": "Completely Hooked",
+        "url": "https://open.spotify.com/album/0UQeeHZSz95cijW6o07wib"
       },
       "artists": [
         {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+          "name": "Dr. Hook",
+          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
         }
       ],
-      "duration_ms": 169240,
-      "name": "Reet Petite",
-      "url": "https://open.spotify.com/track/3h4udS0WeWbsur3yfjvnm4"
+      "duration_ms": 180000,
+      "name": "Sexy Eyes - Single Version",
+      "url": "https://open.spotify.com/track/2iZ4OR1aZTINYlyk2hwTnB"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -2315,6 +2299,22 @@
       "duration_ms": 338320,
       "name": "Boogie Oogie Oogie - Remastered 2004",
       "url": "https://open.spotify.com/track/07NrCEN3egNvw8td2LxqJO"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "He's So Fine",
+        "url": "https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 169240,
+      "name": "Reet Petite",
+      "url": "https://open.spotify.com/track/3h4udS0WeWbsur3yfjvnm4"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "I Get The Sweetest Feeling",
-        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "I Get The Sweetest Feeling",
-      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "All-Time Greatest Hits",
         "url": "https://open.spotify.com/album/5cxxcKC0cjR3sZqiJATB6j"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 208933,
       "name": "You're The First, The Last, My Everything - Edit",
       "url": "https://open.spotify.com/track/3rqXP37YkEnizabzjM7uIu"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Walk Away - Collector's Edition The Best Of 1977-1980",
+        "url": "https://open.spotify.com/album/1XDoNCowirNlo2oGzCVVh7"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Hot Stuff - Single Version",
+      "url": "https://open.spotify.com/track/2KNCPZQDalFIK3zZXlp6fd"
     }
   ],
   "unique_name": "Feel Good Classics",

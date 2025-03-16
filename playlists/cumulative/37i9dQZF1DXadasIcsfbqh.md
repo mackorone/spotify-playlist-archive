@@ -4,7 +4,7 @@
 
 > Pop country hits of today and tomorrow\. Cover: Ashley Cooke and Joe Jonas
 
-328 songs - 17 hr 1 min
+329 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Bulletproof \(feat\. Avril Lavigne\)](https://open.spotify.com/track/3Hns0fETEXY84fGjboAbT7) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bulletproof \(feat\. Avril Lavigne\)](https://open.spotify.com/album/1tEc7o0AbTqnl3RA873yHK) | 3:03 | 2024-05-17 |  |
 | [Buzzkilla](https://open.spotify.com/track/2mnHIT6zav3oCFqQ2nO9cz) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Let Love Be Love](https://open.spotify.com/album/4Pw17nZHXxHSux3kpl26l7) | 2:52 | 2021-12-17 | 2022-07-27 |
 | [Bye Bye Bye](https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d) | 2:29 | 2024-09-13 |  |
-| [California Rain](https://open.spotify.com/track/1SnUo0VkNlgepg3OuVuiXV) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [California Rain](https://open.spotify.com/album/47YAdCWclJVZsleLYpOVhh) | 3:35 | 2024-11-22 |  |
+| [California Rain](https://open.spotify.com/track/1SnUo0VkNlgepg3OuVuiXV) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [California Rain](https://open.spotify.com/album/47YAdCWclJVZsleLYpOVhh) | 3:35 | 2024-11-22 | 2025-03-16 |
 | [Can't Do Without Me](https://open.spotify.com/track/6Wy1WU6nkioVn681Rom3SP) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Can't Do Without Me](https://open.spotify.com/album/7rMux0Or1QJ7PW6AAm25D4) | 3:21 | 2021-12-17 | 2023-06-10 |
 | [Can't Miss You Anymore](https://open.spotify.com/track/5DumfXKfywbfbhKWU09BZh) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Can't Miss You Anymore](https://open.spotify.com/album/0BhxONDOnJESzV6x6Md7tx) | 2:52 | 2021-12-17 | 2022-07-28 |
 | [Can't Miss You Anymore](https://open.spotify.com/track/5LkRgwjOaBydaGxc5rztPd) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Can't Miss You Anymore](https://open.spotify.com/album/79u5jX0oVkQGBoDBNqo9hk) | 2:52 | 2022-07-22 | 2022-11-13 |
@@ -151,6 +151,7 @@
 | [If You Wanted It Too](https://open.spotify.com/track/29789uQS1kfsZg1r9nRkPj) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq), [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [If You Wanted It Too](https://open.spotify.com/album/2jBrfuCY9Woqrkv3VeMnHb) | 2:38 | 2021-12-17 | 2022-07-12 |
 | [II MOST WANTED](https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:28 | 2024-03-29 |  |
 | [It’s ‘Cause I Am](https://open.spotify.com/track/7JjymfuNMxQgOQJ4mGOdbg) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Real To Me](https://open.spotify.com/album/5DyBJlrOGNzxvGPkKAS8b4) | 2:46 | 2021-12-17 | 2022-11-13 |
+| [I’m Movin’ On](https://open.spotify.com/track/53IX4MOIyOZQnKy6a3JnaX) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [I'm Movin' On](https://open.spotify.com/album/7FQLBkD3mdfh2UiLzhvNnN) | 3:44 | 2025-03-14 |  |
 | [Just Drive](https://open.spotify.com/track/1puprgnIxARMj8gR3Jj4B2) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Just Drive](https://open.spotify.com/album/5Pi5rw478LMuMAOFzecWt4) | 2:27 | 2021-12-17 |  |
 | [Just Drive](https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Just Drive](https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy) | 2:27 | 2022-07-22 | 2024-04-19 |
 | [Just Say I'm Sorry](https://open.spotify.com/track/3opqYjloPGrJDlBjFGoWtU) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:34 | 2023-02-17 | 2024-09-14 |

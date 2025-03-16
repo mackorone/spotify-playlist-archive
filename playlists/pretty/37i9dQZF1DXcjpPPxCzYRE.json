@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 423424,
+  "num_followers": 423496,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-03-06 23:00:24",
       "album": {
-        "name": "Small Changes",
-        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 271930,
-      "name": "One And Only",
-      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
-    },
-    {
-      "added_at": "2025-03-06 23:00:24",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 219960,
       "name": "I'm Like A Bird - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p"
+    },
+    {
+      "added_at": "2025-03-06 23:00:24",
+      "album": {
+        "name": "Small Changes",
+        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 271930,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
     },
     {
       "added_at": "2025-03-06 23:00:24",
@@ -963,6 +963,22 @@
     {
       "added_at": "2025-03-06 23:00:24",
       "album": {
+        "name": "L\u00e1grima",
+        "url": "https://open.spotify.com/album/6yd03uk0vAfZ3cvynnYtVW"
+      },
+      "artists": [
+        {
+          "name": "PANTERA BLUE",
+          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
+        }
+      ],
+      "duration_ms": 149737,
+      "name": "L\u00e1grima",
+      "url": "https://open.spotify.com/track/6AESP7mEOCz3igOerC9QJ9"
+    },
+    {
+      "added_at": "2025-03-06 23:00:24",
+      "album": {
         "name": "No One's Gonna Love You (Stockholm Version)",
         "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 258533,
       "name": "Everyday Life",
       "url": "https://open.spotify.com/track/6WMf0Om41Z6HlMzXFuZ4F0"
-    },
-    {
-      "added_at": "2025-03-06 23:00:24",
-      "album": {
-        "name": "L\u00e1grima",
-        "url": "https://open.spotify.com/album/6yd03uk0vAfZ3cvynnYtVW"
-      },
-      "artists": [
-        {
-          "name": "PANTERA BLUE",
-          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
-        }
-      ],
-      "duration_ms": 149737,
-      "name": "L\u00e1grima",
-      "url": "https://open.spotify.com/track/6AESP7mEOCz3igOerC9QJ9"
     },
     {
       "added_at": "2025-03-06 23:00:24",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-03-06 23:00:24",
       "album": {
-        "name": "Te escribo en el cielo",
-        "url": "https://open.spotify.com/album/6XSTsOMXWOWhNNooS6Xzy2"
-      },
-      "artists": [
-        {
-          "name": "Lucas Bun",
-          "url": "https://open.spotify.com/artist/7oXdAnN1t1cLruHJWuR7Cx"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Te escribo en el cielo",
-      "url": "https://open.spotify.com/track/02E2qDuC6KHMXcA3GvBhOb"
-    },
-    {
-      "added_at": "2025-03-06 23:00:24",
-      "album": {
         "name": "Wilco (The Album)",
         "url": "https://open.spotify.com/album/3UeSYkvpAJfXp97Os7Y1sK"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 204706,
       "name": "You and I",
       "url": "https://open.spotify.com/track/5i57BBhq5eNVS5cBkDD69j"
+    },
+    {
+      "added_at": "2025-03-06 23:00:24",
+      "album": {
+        "name": "Te escribo en el cielo",
+        "url": "https://open.spotify.com/album/6XSTsOMXWOWhNNooS6Xzy2"
+      },
+      "artists": [
+        {
+          "name": "Lucas Bun",
+          "url": "https://open.spotify.com/artist/7oXdAnN1t1cLruHJWuR7Cx"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Te escribo en el cielo",
+      "url": "https://open.spotify.com/track/02E2qDuC6KHMXcA3GvBhOb"
     },
     {
       "added_at": "2025-03-06 23:00:24",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-03-06 23:00:24",
       "album": {
-        "name": "Sanadoras Voluntades",
-        "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
-      },
-      "artists": [
-        {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        }
-      ],
-      "duration_ms": 164956,
-      "name": "Sanadoras Voluntades",
-      "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
-    },
-    {
-      "added_at": "2025-03-06 23:00:24",
-      "album": {
         "name": "Hay algo en ti",
         "url": "https://open.spotify.com/album/0XM53g2PoYVHPINFzwSYRW"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 146176,
       "name": "Hay algo en ti",
       "url": "https://open.spotify.com/track/4j8tH795UUTuCiBb7nUQXf"
+    },
+    {
+      "added_at": "2025-03-06 23:00:24",
+      "album": {
+        "name": "Sanadoras Voluntades",
+        "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        }
+      ],
+      "duration_ms": 164956,
+      "name": "Sanadoras Voluntades",
+      "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
     },
     {
       "added_at": "2025-03-06 23:00:24",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-03-06 23:00:24",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 286400,
-      "name": "Older Chests",
-      "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
-    },
-    {
-      "added_at": "2025-03-06 23:00:24",
-      "album": {
         "name": "Endlings",
         "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 228173,
       "name": "The Echo & The Shadow",
       "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
+    },
+    {
+      "added_at": "2025-03-06 23:00:24",
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 286400,
+      "name": "Older Chests",
+      "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
     },
     {
       "added_at": "2025-03-06 23:00:24",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-03-06 23:00:24",
       "album": {
-        "name": "Caf\u00e9 Acoustic Session (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2A1S0jZ4Xbmue6lq4GSLuW"
-      },
-      "artists": [
-        {
-          "name": "Vinyl Hotel",
-          "url": "https://open.spotify.com/artist/0cL5BDthYmHa4fUYkRNe6h"
-        }
-      ],
-      "duration_ms": 177854,
-      "name": "Renegades - Acoustic Version",
-      "url": "https://open.spotify.com/track/57BrLjdnIbUTnTVXBJIBAM"
-    },
-    {
-      "added_at": "2025-03-06 23:00:24",
-      "album": {
         "name": "Es el Momento",
         "url": "https://open.spotify.com/album/7BoNtzLMhBC8TfqF7QEMTY"
       },
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2025-03-06 23:00:24",
       "album": {
-        "name": "Cosmic Wacho",
-        "url": "https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1"
+        "name": "Caf\u00e9 Acoustic Session (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2A1S0jZ4Xbmue6lq4GSLuW"
       },
       "artists": [
         {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+          "name": "Vinyl Hotel",
+          "url": "https://open.spotify.com/artist/0cL5BDthYmHa4fUYkRNe6h"
         }
       ],
-      "duration_ms": 205577,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/3aseGyj0Q3XysLiHkv6Mwd"
+      "duration_ms": 177854,
+      "name": "Renegades - Acoustic Version",
+      "url": "https://open.spotify.com/track/57BrLjdnIbUTnTVXBJIBAM"
     },
     {
       "added_at": "2025-03-06 23:00:24",
@@ -1439,6 +1423,22 @@
       "duration_ms": 174467,
       "name": "tu pel\u00edcula",
       "url": "https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j"
+    },
+    {
+      "added_at": "2025-03-06 23:00:24",
+      "album": {
+        "name": "Cosmic Wacho",
+        "url": "https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        }
+      ],
+      "duration_ms": 205577,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/3aseGyj0Q3XysLiHkv6Mwd"
     },
     {
       "added_at": "2025-03-06 23:00:24",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-03-06 23:00:24",
       "album": {
-        "name": "family and friends",
-        "url": "https://open.spotify.com/album/73FcdS6bujdHUTwHy3SxxS"
-      },
-      "artists": [
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        }
-      ],
-      "duration_ms": 176730,
-      "name": "family and friends",
-      "url": "https://open.spotify.com/track/4SzPDpxIr8HUJ03buNw0vA"
-    },
-    {
-      "added_at": "2025-03-06 23:00:24",
-      "album": {
         "name": "Amor del bueno",
         "url": "https://open.spotify.com/album/11SkpS3Eif2FlMs9JUa2Xx"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 195882,
       "name": "Amor del bueno",
       "url": "https://open.spotify.com/track/1Qc4t3ahDAy9Bpkx8ZZtid"
+    },
+    {
+      "added_at": "2025-03-06 23:00:24",
+      "album": {
+        "name": "family and friends",
+        "url": "https://open.spotify.com/album/73FcdS6bujdHUTwHy3SxxS"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 176730,
+      "name": "family and friends",
+      "url": "https://open.spotify.com/track/4SzPDpxIr8HUJ03buNw0vA"
     },
     {
       "added_at": "2025-03-06 23:00:24",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-03-06 23:00:24",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
-      },
-      "artists": [
-        {
-          "name": "St Woods",
-          "url": "https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "Time (For You)",
-      "url": "https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4"
-    },
-    {
-      "added_at": "2025-03-06 23:00:24",
-      "album": {
         "name": "Fuegos Artificiales",
         "url": "https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 178434,
       "name": "Fuegos Artificiales",
       "url": "https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ"
+    },
+    {
+      "added_at": "2025-03-06 23:00:24",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
+      },
+      "artists": [
+        {
+          "name": "St Woods",
+          "url": "https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "Time (For You)",
+      "url": "https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4"
     },
     {
       "added_at": "2025-03-06 23:00:24",

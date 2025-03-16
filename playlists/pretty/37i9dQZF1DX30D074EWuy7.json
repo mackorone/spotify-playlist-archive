@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
-  "num_followers": 32175,
+  "num_followers": 32181,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "10 situazioni",
-        "url": "https://open.spotify.com/album/5HjQjM3FqZJPcFmlA4wfht"
-      },
-      "artists": [
-        {
-          "name": "Sestetto Dino Piana & Oscar Valdambrini",
-          "url": "https://open.spotify.com/artist/5Fks3bjzF9cMXYsUbJGK48"
-        }
-      ],
-      "duration_ms": 167694,
-      "name": "Omaca",
-      "url": "https://open.spotify.com/track/3xqbdVPULGQjcxnNmWpTNd"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
         "name": "Tindouf",
         "url": "https://open.spotify.com/album/3PlUQMqx4bI4Z6eMuPVUxq"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 230173,
       "name": "Kontiki Blues",
       "url": "https://open.spotify.com/track/5SpNHoB5ZZMe1o4HMThnmL"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
+        "name": "10 situazioni",
+        "url": "https://open.spotify.com/album/5HjQjM3FqZJPcFmlA4wfht"
+      },
+      "artists": [
+        {
+          "name": "Sestetto Dino Piana & Oscar Valdambrini",
+          "url": "https://open.spotify.com/artist/5Fks3bjzF9cMXYsUbJGK48"
+        }
+      ],
+      "duration_ms": 167694,
+      "name": "Omaca",
+      "url": "https://open.spotify.com/track/3xqbdVPULGQjcxnNmWpTNd"
     },
     {
       "added_at": "2025-02-25 09:38:29",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "Petali",
-        "url": "https://open.spotify.com/album/518L57Dsoghg11ivCZHLRp"
-      },
-      "artists": [
-        {
-          "name": "Simona Molinari",
-          "url": "https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq"
-        }
-      ],
-      "duration_ms": 217872,
-      "name": "Lei balla sola",
-      "url": "https://open.spotify.com/track/36KtplF9itOd0tFVN1HYuf"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
         "name": "Cantare Pieranunzi",
         "url": "https://open.spotify.com/album/5gZQsyFV01xEKHeRCtEhJQ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 251109,
       "name": "You Know",
       "url": "https://open.spotify.com/track/59o8bFVlsoE39rbuaxUY4U"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
+        "name": "Petali",
+        "url": "https://open.spotify.com/album/518L57Dsoghg11ivCZHLRp"
+      },
+      "artists": [
+        {
+          "name": "Simona Molinari",
+          "url": "https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq"
+        }
+      ],
+      "duration_ms": 217872,
+      "name": "Lei balla sola",
+      "url": "https://open.spotify.com/track/36KtplF9itOd0tFVN1HYuf"
     },
     {
       "added_at": "2025-02-25 09:38:29",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
+        "name": "Citt\u00e0 Futura",
+        "url": "https://open.spotify.com/album/57VVdwvhb2E3hOp21U6Isw"
+      },
+      "artists": [
+        {
+          "name": "Bassolino",
+          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
+        }
+      ],
+      "duration_ms": 284804,
+      "name": "Citt\u00e0 Futura",
+      "url": "https://open.spotify.com/track/6eKPdRjUepZxs8GyaSfuap"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
         "name": "Prati Bagnati Del Monte Analogo",
         "url": "https://open.spotify.com/album/61B1GQvwCDsQMEP6yaySOB"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 388854,
       "name": "Estate",
       "url": "https://open.spotify.com/track/0cJy6RPy5VZSAmlCUWmRD1"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
-        "name": "Citt\u00e0 Futura",
-        "url": "https://open.spotify.com/album/57VVdwvhb2E3hOp21U6Isw"
-      },
-      "artists": [
-        {
-          "name": "Bassolino",
-          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
-        }
-      ],
-      "duration_ms": 284804,
-      "name": "Citt\u00e0 Futura",
-      "url": "https://open.spotify.com/track/6eKPdRjUepZxs8GyaSfuap"
     },
     {
       "added_at": "2025-02-25 09:38:29",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "L'indispensabile",
-        "url": "https://open.spotify.com/album/2dd0tiC5EWGCKRI3OnFmn9"
-      },
-      "artists": [
-        {
-          "name": "Vinicio Capossela",
-          "url": "https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM"
-        }
-      ],
-      "duration_ms": 407760,
-      "name": "Ultimo amore",
-      "url": "https://open.spotify.com/track/6kpNriwONdTQYHXeZeilYM"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
         "name": "Quando le canzoni finiscono",
         "url": "https://open.spotify.com/album/0pbaxeBm7EGjfBiiuD0LyE"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 238043,
       "name": "Un giardino",
       "url": "https://open.spotify.com/track/1xXKvZSKZGcBR4jNOvirl6"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
+        "name": "L'indispensabile",
+        "url": "https://open.spotify.com/album/2dd0tiC5EWGCKRI3OnFmn9"
+      },
+      "artists": [
+        {
+          "name": "Vinicio Capossela",
+          "url": "https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM"
+        }
+      ],
+      "duration_ms": 407760,
+      "name": "Ultimo amore",
+      "url": "https://open.spotify.com/track/6kpNriwONdTQYHXeZeilYM"
     },
     {
       "added_at": "2025-02-25 09:38:29",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
+        "name": "You've Changed",
+        "url": "https://open.spotify.com/album/7hGEPf44dnLcXPOfs3RBdX"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Bosso",
+          "url": "https://open.spotify.com/artist/1Y8kr8EHj08yZJHAWyQxoQ"
+        },
+        {
+          "name": "Sergio Cammariere",
+          "url": "https://open.spotify.com/artist/6dyQKg6sytjgPsPUFjsYXU"
+        }
+      ],
+      "duration_ms": 302689,
+      "name": "Per Ricordarmi Di Te",
+      "url": "https://open.spotify.com/track/4vYAHjRiwV0kjb4JIzLlHX"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
         "name": "Leaving",
         "url": "https://open.spotify.com/album/3YCBWF5ZskW5wMIiCnixRI"
       },
@@ -1159,26 +1179,6 @@
       "duration_ms": 235416,
       "name": "Leaving",
       "url": "https://open.spotify.com/track/6aT0JSqcYOtGuLIf9Q1G6K"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
-        "name": "You've Changed",
-        "url": "https://open.spotify.com/album/7hGEPf44dnLcXPOfs3RBdX"
-      },
-      "artists": [
-        {
-          "name": "Fabrizio Bosso",
-          "url": "https://open.spotify.com/artist/1Y8kr8EHj08yZJHAWyQxoQ"
-        },
-        {
-          "name": "Sergio Cammariere",
-          "url": "https://open.spotify.com/artist/6dyQKg6sytjgPsPUFjsYXU"
-        }
-      ],
-      "duration_ms": 302689,
-      "name": "Per Ricordarmi Di Te",
-      "url": "https://open.spotify.com/track/4vYAHjRiwV0kjb4JIzLlHX"
     },
     {
       "added_at": "2025-02-25 09:38:29",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "Ora beat!",
-        "url": "https://open.spotify.com/album/3tkErn9EJIiHVtDJ2xOWbj"
-      },
-      "artists": [
-        {
-          "name": "Stefano Torossi",
-          "url": "https://open.spotify.com/artist/0gQMsmHT9YZJYIQxM1yJmM"
-        }
-      ],
-      "duration_ms": 125572,
-      "name": "Bighellonando",
-      "url": "https://open.spotify.com/track/45XyiT4BoN2BglFr5dbEsH"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
         "name": "So In Love",
         "url": "https://open.spotify.com/album/3XXHWtBulLdFVGD8zW0oO2"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 208066,
       "name": "That Old Black Magic",
       "url": "https://open.spotify.com/track/6u1M0I5QpMequyfFxna5fL"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
+        "name": "Ora beat!",
+        "url": "https://open.spotify.com/album/3tkErn9EJIiHVtDJ2xOWbj"
+      },
+      "artists": [
+        {
+          "name": "Stefano Torossi",
+          "url": "https://open.spotify.com/artist/0gQMsmHT9YZJYIQxM1yJmM"
+        }
+      ],
+      "duration_ms": 125572,
+      "name": "Bighellonando",
+      "url": "https://open.spotify.com/track/45XyiT4BoN2BglFr5dbEsH"
     },
     {
       "added_at": "2025-02-25 09:38:29",
@@ -1475,6 +1475,26 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
+        "name": "Under Italian Skies",
+        "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
+      },
+      "artists": [
+        {
+          "name": "Roberta Gambarini",
+          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
+        },
+        {
+          "name": "Andrea Donati",
+          "url": "https://open.spotify.com/artist/0NZCNObxYB5k1IDkSNZyc0"
+        }
+      ],
+      "duration_ms": 323533,
+      "name": "Impronte",
+      "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
         "name": "New York Days",
         "url": "https://open.spotify.com/album/5qIvcmHXW5Av8XQGCAmeIK"
       },
@@ -1503,26 +1523,6 @@
       "duration_ms": 653973,
       "name": "Certi angoli segreti",
       "url": "https://open.spotify.com/track/0TgOi4joOrp0spXM754Z8X"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
-        "name": "Under Italian Skies",
-        "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
-      },
-      "artists": [
-        {
-          "name": "Roberta Gambarini",
-          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
-        },
-        {
-          "name": "Andrea Donati",
-          "url": "https://open.spotify.com/artist/0NZCNObxYB5k1IDkSNZyc0"
-        }
-      ],
-      "duration_ms": 323533,
-      "name": "Impronte",
-      "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
     },
     {
       "added_at": "2025-02-25 09:38:29",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "La Valle Dei Templi",
-        "url": "https://open.spotify.com/album/4DStIxg2IyyYIL2K1y504z"
-      },
-      "artists": [
-        {
-          "name": "Perigeo",
-          "url": "https://open.spotify.com/artist/0UB7tnXqRLUWF9dyktuA6e"
-        }
-      ],
-      "duration_ms": 184213,
-      "name": "Looping",
-      "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
         "name": "Racconti mediterranei",
         "url": "https://open.spotify.com/album/4GWgCiFuTFmnoPgjMkiuO2"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 454173,
       "name": "Canzone di Nausicaa",
       "url": "https://open.spotify.com/track/3NOKIQbCbTnl2808xd2V5B"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
+        "name": "La Valle Dei Templi",
+        "url": "https://open.spotify.com/album/4DStIxg2IyyYIL2K1y504z"
+      },
+      "artists": [
+        {
+          "name": "Perigeo",
+          "url": "https://open.spotify.com/artist/0UB7tnXqRLUWF9dyktuA6e"
+        }
+      ],
+      "duration_ms": 184213,
+      "name": "Looping",
+      "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
     },
     {
       "added_at": "2025-02-25 09:38:29",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
+        "name": "Senza Fine",
+        "url": "https://open.spotify.com/album/2trPbGJmjDnMWH0QICdpq3"
+      },
+      "artists": [
+        {
+          "name": "Luciano Biondini",
+          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
+        }
+      ],
+      "duration_ms": 137613,
+      "name": "Napule \u00c8",
+      "url": "https://open.spotify.com/track/2eRACc3Rpdo187IiE1gyF9"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
         "name": "Ten Stops",
         "url": "https://open.spotify.com/album/1B8N2qVW9oNfIn0Q7YE4QG"
       },
@@ -1847,22 +1863,6 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "Senza Fine",
-        "url": "https://open.spotify.com/album/2trPbGJmjDnMWH0QICdpq3"
-      },
-      "artists": [
-        {
-          "name": "Luciano Biondini",
-          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
-        }
-      ],
-      "duration_ms": 137613,
-      "name": "Napule \u00c8",
-      "url": "https://open.spotify.com/track/2eRACc3Rpdo187IiE1gyF9"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
         "name": "Blackbird",
         "url": "https://open.spotify.com/album/6YGuRFwhLbLC82kXpz4TpJ"
       },
@@ -1875,26 +1875,6 @@
       "duration_ms": 146618,
       "name": "Blackbird",
       "url": "https://open.spotify.com/track/1c69d1oTCalqQB6FO7pICP"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
-        "name": "My Songbook",
-        "url": "https://open.spotify.com/album/3i04DEvKjsJQSJahI2jW9E"
-      },
-      "artists": [
-        {
-          "name": "Enrico Pieranunzi",
-          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
-        },
-        {
-          "name": "Simona Severini",
-          "url": "https://open.spotify.com/artist/7svwx5ZfrR3TUQbGds1F5l"
-        }
-      ],
-      "duration_ms": 340493,
-      "name": "My Heart in a Song",
-      "url": "https://open.spotify.com/track/5PcNrgBKBr1r4NTmTlH5Am"
     },
     {
       "added_at": "2025-02-25 09:38:29",
@@ -1935,6 +1915,26 @@
       "duration_ms": 242645,
       "name": "Randagio",
       "url": "https://open.spotify.com/track/5w4Hm7e56SFJP1bMPB029u"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
+        "name": "My Songbook",
+        "url": "https://open.spotify.com/album/3i04DEvKjsJQSJahI2jW9E"
+      },
+      "artists": [
+        {
+          "name": "Enrico Pieranunzi",
+          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
+        },
+        {
+          "name": "Simona Severini",
+          "url": "https://open.spotify.com/artist/7svwx5ZfrR3TUQbGds1F5l"
+        }
+      ],
+      "duration_ms": 340493,
+      "name": "My Heart in a Song",
+      "url": "https://open.spotify.com/track/5PcNrgBKBr1r4NTmTlH5Am"
     },
     {
       "added_at": "2025-02-25 09:38:29",

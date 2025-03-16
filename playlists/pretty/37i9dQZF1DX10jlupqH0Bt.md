@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,169 likes - 63 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,433 likes - 63 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

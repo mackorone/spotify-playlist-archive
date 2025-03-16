@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Chappell Roan, Håkan Hellström, estraden och  NOTD med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,107 likes - 102 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,113 likes - 102 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 18 | [Blekgrå](https://open.spotify.com/track/6Fq36MpKdZHSdcBtP98nTX) | [Eden Alm](https://open.spotify.com/artist/4IsTqAm3Q0LnbSwSimAcnw) | [Blekgrå](https://open.spotify.com/album/0iOOkO4HXesEStWpgVqITU) | 3:15 |
 | 19 | [Let Me In](https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Let Me In](https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq) | 3:48 |
 | 20 | [Andas](https://open.spotify.com/track/3uGBGduzG2Wy5C3jRQOatB) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Andas](https://open.spotify.com/album/1RG65pwv31lbwjOfdEmfJR) | 2:21 |
-| 21 | [GOOD CREDIT](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
+| 21 | [GOOD CREDIT \(with Kendrick Lamar\)](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
 | 22 | [BIRDS FLY HIGH](https://open.spotify.com/track/63hXKh8T502h6Nkp2fuizM) | [Elias Hurtig](https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP) | [Birds fly high](https://open.spotify.com/album/0JtNg52YdsdeT8WbZs3ZdZ) | 2:43 |
 | 23 | [100 m](https://open.spotify.com/track/7ypXhGlc3KvaghLisybEz9) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [100 m](https://open.spotify.com/album/4Hmb99zrLMh6mWw9W7Ojv6) | 2:52 |
 | 24 | [MORTAL KOMBAT](https://open.spotify.com/track/2mJ3GtJzImwlmucY5Ffrno) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [MORTAL KOMBAT](https://open.spotify.com/album/6gOjy2B2NiAGiqPlVAKnTs) | 2:55 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 26 | [Rock and Roll, Summer](https://open.spotify.com/track/2wpi25Kv4W62DdDU8jrAFt) | [tibia](https://open.spotify.com/artist/14oZZcBTkCjGNKFIZ8N58t) | [See what heaven looks like now](https://open.spotify.com/album/46MlUsV2c7Jxi8tQItfT57) | 3:10 |
 | 27 | [Sunny Baby](https://open.spotify.com/track/1AH1KdgFBW2orzVFDqzrup) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Sunny Baby](https://open.spotify.com/album/5QTrD7sEFUlkt5wXHS2wEa) | 3:19 |
 | 28 | [Only Love](https://open.spotify.com/track/6fu8kFePHPqOz4WOOG0trB) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [hi, it's nice to meet me](https://open.spotify.com/album/0MMEETFIql7BICSfsIfoBF) | 4:19 |
-| 29 | [Love that hurts](https://open.spotify.com/track/0hNpDSUmh2NpDlAHHF9krX) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [So Long, Ruben](https://open.spotify.com/album/6nqDc8CPKCdWmaNysbYmfk) | 3:14 |
+| 29 | [Love That Hurts](https://open.spotify.com/track/0hNpDSUmh2NpDlAHHF9krX) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [So Long, Ruben](https://open.spotify.com/album/6nqDc8CPKCdWmaNysbYmfk) | 3:14 |
 | 30 | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE), [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc) | 2:59 |
 | 31 | [Mission](https://open.spotify.com/track/6iVHwPKzB5hN1jSCOHMw8z) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Mission](https://open.spotify.com/album/40O6jxEr7BR4qpMsqovjNx) | 1:58 |
 | 32 | [I Just Missed A Call](https://open.spotify.com/track/0nWMjJ0b226HZP139cPKqw) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Hilda](https://open.spotify.com/artist/0gNDtB2LFXVzalP35MXaql) | [Digital Notes](https://open.spotify.com/album/6VnvZ5urI6jcvIJongGShJ) | 2:26 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 82 | [Fotografi](https://open.spotify.com/track/02coKCchh7kufEs6b0s0Yt) | [Atmosfär](https://open.spotify.com/artist/1lyKZwLfr7m2hug2svSdUh) | [Fotografi](https://open.spotify.com/album/3qYoVeqzr8DcxASp0WZWKq) | 3:18 |
 | 83 | [me without you](https://open.spotify.com/track/71kFzVuZATF4HXpK8DH11F) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [me without you](https://open.spotify.com/album/06TnNAtIbzRUfLdZX35D4Z) | 3:52 |
 | 84 | [This Is Real](https://open.spotify.com/track/4LYXtoiuM9xEmxklVvQnLl) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [This Is Real](https://open.spotify.com/album/0VNjjHXqRFJ9NTqbmPT9pJ) | 3:07 |
-| 85 | [It Gets Better \(Forever Mix\)](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [It Gets Better \(Forever Mix\)](https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO) | 4:12 |
+| 85 | [It Gets Better \- Edit](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [It Gets Better \(Forever Mix\)](https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO) | 4:12 |
 | 86 | [Rock My World](https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Puku](https://open.spotify.com/artist/2V9pDaYdBePMB9EoKkhOf9) | [Rock My World](https://open.spotify.com/album/4bSZYuWLGG4keN9XSUxXPe) | 3:18 |
 | 87 | [JUMP](https://open.spotify.com/track/4WejDFaJx72saURVWVgOB8) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [JUMP](https://open.spotify.com/album/0uZgOU0f8jn1zSIwSaWLKs) | 3:00 |
 | 88 | [When the Sky Is Falling Down](https://open.spotify.com/track/0G2nSG6LUmef17m3iJtBxS) | [Moreau](https://open.spotify.com/artist/6wydoYiLiAUaJVxQc0iKpK) | [When the Sky Is Falling Down](https://open.spotify.com/album/0OcVhpkvGEnIIb7ctI8Jao) | 2:57 |

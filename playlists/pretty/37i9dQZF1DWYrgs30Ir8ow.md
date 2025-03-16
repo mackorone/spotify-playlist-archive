@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd frisse hits! Cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,000 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,009 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 |
-| 2 | [BAD](https://open.spotify.com/track/6o97vnNAuc3Bhdz3kohQPp) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [SDL 0.5](https://open.spotify.com/album/7LOn3yOzaj7KZQU70UgxFI) | 3:05 |
-| 3 | [NINAO](https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [NINAO](https://open.spotify.com/album/7mcrW5GLhiY9RbNJzAIzRk) | 2:47 |
-| 4 | [MUTT](https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:12 |
-| 5 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 |
-| 6 | [Casual](https://open.spotify.com/track/1Oq4ei25SeGivbXLcCnz7z) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:22 |
+| 2 | [Jouw Idee](https://open.spotify.com/track/6u9MrPWzCXj0pQjuglCyqy) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 3:20 |
+| 3 | [BAD](https://open.spotify.com/track/6o97vnNAuc3Bhdz3kohQPp) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [SDL 0.5](https://open.spotify.com/album/7LOn3yOzaj7KZQU70UgxFI) | 3:05 |
+| 4 | [NINAO](https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [NINAO](https://open.spotify.com/album/7mcrW5GLhiY9RbNJzAIzRk) | 2:47 |
+| 5 | [MUTT](https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:12 |
+| 6 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 |
 | 7 | [The Baddest](https://open.spotify.com/track/5L5wa7XXoPrleRSuwBiHHR) | [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [kans](https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr), [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ) | [The Baddest](https://open.spotify.com/album/7KPEH7yiNZ3qDFcozl1xTV) | 2:51 |
 | 8 | [The Way I Are](https://open.spotify.com/track/5osKlPBtBF4rC9o7PyCWm1) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [The Way I Are](https://open.spotify.com/album/5zWSMWktWUZq2crOfyWuxW) | 3:06 |
 | 9 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Constellations](https://open.spotify.com/track/6XZFPFanJb6RKGvuAAv3g8) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/4b1xWMGSJAtnnQxd2JVDw6) | 3:20 |
 | 40 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 |
 
-Snapshot ID: `Z9NjjgAAAAA1Uf6vieIsboB2W6Nx75XE`
+Snapshot ID: `Z9XBWwAAAAByPRn98KRot/UAxsJ6thhP`

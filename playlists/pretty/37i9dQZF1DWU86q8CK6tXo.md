@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > We're celebrating Women's History Month on EQUAL US with these game\-changing artists! Cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,259 likes - 39 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,255 likes - 39 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

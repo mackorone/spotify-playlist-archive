@@ -1,12 +1,12 @@
 {
   "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 150061,
+  "num_followers": 150099,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAABqc6ecinK4nZVscpeSX3iD",
+  "snapshot_id": "Z9NxgAAAAACajgm6fupx8Fpkh2GVRerC",
   "tracks": [
     {
       "added_at": null,
@@ -555,6 +555,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        }
+      ],
+      "duration_ms": 247333,
+      "name": "True Love (feat. Tay Iwar & Projexx)",
+      "url": "https://open.spotify.com/track/4204hwPYuToiuSunPFUoML"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
         "url": "https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q"
       },
@@ -579,30 +603,6 @@
       "duration_ms": 213599,
       "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        },
-        {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
-        }
-      ],
-      "duration_ms": 247333,
-      "name": "True Love (feat. Tay Iwar & Projexx)",
-      "url": "https://open.spotify.com/track/4204hwPYuToiuSunPFUoML"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/0sHyVWNc3nfxAYOTOwOlPx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Made In Lagos: Deluxe Edition",
         "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
       },
@@ -691,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/0sHyVWNc3nfxAYOTOwOlPx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 250720,
       "name": "Sweet One",
       "url": "https://open.spotify.com/track/7BxWEstQxXtjczBE7ErYrE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 191506,
+      "name": "Money & Love",
+      "url": "https://open.spotify.com/track/213Ymlnss7DUsqG7Ut1HW0"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 191506,
-      "name": "Money & Love",
-      "url": "https://open.spotify.com/track/213Ymlnss7DUsqG7Ut1HW0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 233160,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/19ehhyzTggrwMzaOzYt85g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 178586,
+      "name": "Bad To Me",
+      "url": "https://open.spotify.com/track/2HYcI74UpbMMxLZ1m7Xnfn"
     },
     {
       "added_at": null,
@@ -851,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 178586,
-      "name": "Bad To Me",
-      "url": "https://open.spotify.com/track/2HYcI74UpbMMxLZ1m7Xnfn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 183745,
       "name": "Bella",
       "url": "https://open.spotify.com/track/0O4XHiuVt3dBaOzSI49BtF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 205120,
+      "name": "Frames (Who's Gonna Know)",
+      "url": "https://open.spotify.com/track/1xQQJELCro7Fys7pUnHVYv"
     },
     {
       "added_at": null,
@@ -943,22 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 205120,
-      "name": "Frames (Who's Gonna Know)",
-      "url": "https://open.spotify.com/track/1xQQJELCro7Fys7pUnHVYv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SoundMan Vol. 1",
         "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
       },
@@ -983,6 +983,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 200146,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/5xFQlD4ITOWjZdHXjNghbX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
       },
@@ -999,34 +1015,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "S2",
-        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
+        "name": "Revenge Is Sweet",
+        "url": "https://open.spotify.com/album/352aXyfcekSqY1ZvC0jrBe"
       },
       "artists": [
+        {
+          "name": "Krept & Konan",
+          "url": "https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE"
+        },
         {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 181013,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/6GxsePQAbaPlzWefozE62n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 200146,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/5xFQlD4ITOWjZdHXjNghbX"
+      "duration_ms": 165774,
+      "name": "G Love",
+      "url": "https://open.spotify.com/track/2uuAE79hwuYDzEI20wDRpy"
     }
   ],
   "unique_name": "This Is Wizkid",

@@ -4,7 +4,7 @@
 
 > Altijd frisse hits! Cover: Benson Boone
 
-880 songs - 1 day 18 hr 56 min
+881 songs - 1 day 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Cardio](https://open.spotify.com/track/6GCpMCbl9ZBiTfPP5awzFa) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Cardio](https://open.spotify.com/album/0NxbEuuVrrTdKKAdBUZcmd) | 2:54 | 2023-08-07 | 2023-08-25 |
 | [Carrousel](https://open.spotify.com/track/3L5rczaS3ZiXepUbTIvHAp) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp) | [Carrousel](https://open.spotify.com/album/7yTJXbUMRfyHnkRqoXtkLt) | 2:10 | 2024-12-12 | 2025-02-28 |
 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 | 2024-06-04 | 2024-06-21 |
-| [Casual](https://open.spotify.com/track/1Oq4ei25SeGivbXLcCnz7z) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:22 | 2025-03-06 |  |
+| [Casual](https://open.spotify.com/track/1Oq4ei25SeGivbXLcCnz7z) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:22 | 2025-03-06 | 2025-03-16 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-02-23 | 2023-03-28 |
 | [Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Cha Cha Cha](https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6) | 2:55 | 2023-05-15 | 2023-06-06 |
 | [Champions League](https://open.spotify.com/track/5iH8UrvxTButDRaWECLDol) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Champions League](https://open.spotify.com/album/3BTw4LwFMLk7mHp0PjNAec) | 2:22 | 2023-11-13 | 2023-12-15 |
@@ -424,6 +424,7 @@
 | [Johnny](https://open.spotify.com/track/61mqrQaWEQ6TsL01b4TuIf) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Johnny](https://open.spotify.com/album/3voX07TL0mx8vLIVVLwNlR) | 3:25 | 2024-01-29 | 2024-03-08 |
 | [JOLENE](https://open.spotify.com/track/2PmMh2t7jAtN6cqFooA0Xy) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:09 | 2024-04-04 | 2024-04-26 |
 | [Jolene](https://open.spotify.com/track/1iUSupGwxSegT8RlPDJ3Cr) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [ILSE](https://open.spotify.com/artist/6qbr3M2PZv1k8qPVBTw707) | [Jolene](https://open.spotify.com/album/41i23J7Vzeb4QPWzKJfa8F) | 2:01 | 2024-01-15 | 2024-03-07 |
+| [Jouw Idee](https://open.spotify.com/track/6u9MrPWzCXj0pQjuglCyqy) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 3:20 | 2025-03-15 |  |
 | [Jump](https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 | 2024-03-28 | 2024-05-10 |
 | [Jungle](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Jungle](https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN) | 2:55 | 2023-09-25 | 2023-11-03 |
 | [Just Us](https://open.spotify.com/track/2QIChPucCEGOZjzkqFHxQ6) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Just Us](https://open.spotify.com/album/72TKdSLyVJMDrw8lPsTNtc) | 3:34 | 2023-10-12 | 2023-11-14 |

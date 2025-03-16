@@ -1,6 +1,6 @@
 {
   "description": "Empowered rhymes and vibes. Cover: Tinashe",
-  "num_followers": 478400,
+  "num_followers": 478386,
   "original_name": "Work It, Own It",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
-        "name": "When I Get Home",
-        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 175706,
-      "name": "Stay Flo",
-      "url": "https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw"
-    },
-    {
-      "added_at": "2024-06-12 09:07:18",
-      "album": {
         "name": "Beam Me Up Scotty",
         "url": "https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 246752,
       "name": "Itty Bitty Piggy",
       "url": "https://open.spotify.com/track/1uYxHHZBRliM9cNzCxq93g"
+    },
+    {
+      "added_at": "2024-06-12 09:07:18",
+      "album": {
+        "name": "When I Get Home",
+        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 175706,
+      "name": "Stay Flo",
+      "url": "https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw"
     },
     {
       "added_at": "2024-06-12 09:07:18",
@@ -1439,42 +1439,6 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
-        "name": "EVERYTHING YOU HEARD IS TRUE",
-        "url": "https://open.spotify.com/album/2x6YmHjZ0hkVETiz6IJ3EN"
-      },
-      "artists": [
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        },
-        {
-          "name": "Maison2500",
-          "url": "https://open.spotify.com/artist/4LM7PNYtQtrHXnfQYr16mx"
-        }
-      ],
-      "duration_ms": 137170,
-      "name": "wicked, sexy!",
-      "url": "https://open.spotify.com/track/6IsOt1shnug3aISsedXatq"
-    },
-    {
-      "added_at": "2024-06-12 09:07:18",
-      "album": {
-        "name": "Lipstick Lover",
-        "url": "https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 169386,
-      "name": "Lipstick Lover",
-      "url": "https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0"
-    },
-    {
-      "added_at": "2024-06-12 09:07:18",
-      "album": {
         "name": "I Like Dat (feat. BIA & Kehlani)",
         "url": "https://open.spotify.com/album/6j46dFtnzrjKNAmfcEtpKJ"
       },
@@ -1495,6 +1459,42 @@
       "duration_ms": 283305,
       "name": "I Like Dat (feat. BIA & Kehlani)",
       "url": "https://open.spotify.com/track/3e1C4xcn4REvbAa7M6VshF"
+    },
+    {
+      "added_at": "2024-06-12 09:07:18",
+      "album": {
+        "name": "Lipstick Lover",
+        "url": "https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "Lipstick Lover",
+      "url": "https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0"
+    },
+    {
+      "added_at": "2024-06-12 09:07:18",
+      "album": {
+        "name": "EVERYTHING YOU HEARD IS TRUE",
+        "url": "https://open.spotify.com/album/2x6YmHjZ0hkVETiz6IJ3EN"
+      },
+      "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        },
+        {
+          "name": "Maison2500",
+          "url": "https://open.spotify.com/artist/4LM7PNYtQtrHXnfQYr16mx"
+        }
+      ],
+      "duration_ms": 137170,
+      "name": "wicked, sexy!",
+      "url": "https://open.spotify.com/track/6IsOt1shnug3aISsedXatq"
     },
     {
       "added_at": "2024-06-12 09:07:18",

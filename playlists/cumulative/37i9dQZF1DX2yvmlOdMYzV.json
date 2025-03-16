@@ -692,7 +692,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 150706,
       "name": "All In",
       "url": "https://open.spotify.com/track/0BrDLkPp6BpWJinhCxqyDK"
@@ -5779,6 +5779,24 @@
     },
     {
       "album": {
+        "name": "OXO",
+        "url": "https://open.spotify.com/album/0Prm15tKRsBzDjkj9tIYOT"
+      },
+      "artists": [
+        {
+          "name": "Lola Moxom",
+          "url": "https://open.spotify.com/artist/108GZkpexhWFatGlQTbb1g"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228188,
+      "name": "GOOD4U",
+      "url": "https://open.spotify.com/track/3WVhiyLtF1pRkfn0ZWH1Ou"
+    },
+    {
+      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/3NCYgSaRffcH4a5Vw5bNTg"
       },
@@ -5926,6 +5944,24 @@
       "duration_ms": 214986,
       "name": "Guilty Conscience - Tame Impala Remix",
       "url": "https://open.spotify.com/track/4nNkCxutxk68CulzSBy0Tq"
+    },
+    {
+      "album": {
+        "name": "GUY",
+        "url": "https://open.spotify.com/album/6VGCdn6ROODtrypCowixlT"
+      },
+      "artists": [
+        {
+          "name": "Silas Short",
+          "url": "https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233176,
+      "name": "GUY",
+      "url": "https://open.spotify.com/track/4dnB3shgvzcG4qa2xY9SrI"
     },
     {
       "album": {
@@ -11988,7 +12024,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 91994,
       "name": "PIT STOP",
       "url": "https://open.spotify.com/track/4dEQyFlM6xPqB7UWMbn54x"

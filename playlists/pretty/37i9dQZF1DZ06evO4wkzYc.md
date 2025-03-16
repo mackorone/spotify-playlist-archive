@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 
 > This is Edicion Especial\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,794 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,900 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 32 | [Don \(En Vivo\)](https://open.spotify.com/track/3Zwq6Ih1Ojjrgx9rhkakp0) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Don \(En Vivo\)](https://open.spotify.com/album/7vhzZZ4h4s2wxPkatBqgWD) | 3:30 |
 | 33 | [El Chico \- En Vivo](https://open.spotify.com/track/74sZC4Ct0aNy3pCzvWV2bL) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Chico \(En Vivo\)](https://open.spotify.com/album/6nQUSaf8PN31ZjjAl5LFgF) | 2:27 |
 | 34 | [Luna](https://open.spotify.com/track/2Na64BFiR2dNfvqbFdhixX) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 3:34 |
-| 35 | [La Pareja Ideal \- Live](https://open.spotify.com/track/0nwTI8VwuCvNIR2mhq0rnr) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Pareja Ideal \(Live\)](https://open.spotify.com/album/7tf6GpdBaocZXuE1NlOR9F) | 4:09 |
-| 36 | [El Del Ice \- Live](https://open.spotify.com/track/1p4qVUJ8J2E8F7RcToq8Bf) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Del Ice \(Live\)](https://open.spotify.com/album/3LlXNXKkBrt0S43Jvwx5b8) | 3:36 |
+| 35 | [El Del Ice \- Live](https://open.spotify.com/track/1p4qVUJ8J2E8F7RcToq8Bf) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Del Ice \(Live\)](https://open.spotify.com/album/3LlXNXKkBrt0S43Jvwx5b8) | 3:36 |
+| 36 | [La Pareja Ideal \- Live](https://open.spotify.com/track/0nwTI8VwuCvNIR2mhq0rnr) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Pareja Ideal \(Live\)](https://open.spotify.com/album/7tf6GpdBaocZXuE1NlOR9F) | 4:09 |
 | 37 | [Que Lloro](https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Que Lloro](https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8) | 4:19 |
 | 38 | [Nestor \(El Nini\)](https://open.spotify.com/track/2whI3QJ3Slu3lv1Xnm5V3H) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 3:49 |
 | 39 | [Amarte](https://open.spotify.com/track/3VsZq5Vg6TYFyIUhMlMQRC) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 49 | [Jimmy Neutron](https://open.spotify.com/track/01P0P9xzhkQ3Mzs2QMzrjr) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:15 |
 | 50 | [Serafín](https://open.spotify.com/track/7DKx7f5mwJIcDb62NG0PfV) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Serafín](https://open.spotify.com/album/4QMWgjMVSP4cvmZIhv1u1X) | 4:00 |
 
-Snapshot ID: `Z9IgAAAAAABi1QZ7NusQf1Fd/YsA4hWN`
+Snapshot ID: `Z9NxgAAAAAAZzplbw9cEk0e58TjFsMfR`

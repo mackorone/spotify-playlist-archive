@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,405 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,446 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 18 | [I Need You Tonight \(2008 Remaster\)](https://open.spotify.com/track/52Iro1e1FR4w59jyOLawDh) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK) | 6:18 |
 | 19 | [Beer Drinkers & Hell Raisers \(2006 Remaster\)](https://open.spotify.com/track/3Oeuxw27oYmLF3jflwVK4F) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX) | 3:25 |
 | 20 | [Sure Got Cold After the Rain Fell](https://open.spotify.com/track/2kLUV1CN43PzxvEmpscZ45) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2) | 7:20 |
-| 21 | [Sharp Dressed Man](https://open.spotify.com/track/7aXgo7vAHDjHR0JrCX2qJv) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [The Baddest](https://open.spotify.com/album/5CGNEMUtCJanGlhQIgM4WZ) | 2:59 |
+| 21 | [Viva Las Vegas \- 2003 Remaster](https://open.spotify.com/track/7hB5TG3xxRBvBxX4ROayVL) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Chrome Smoke & BBQ: The ZZ Top Box](https://open.spotify.com/album/21XjbuoMaBrSjokj63ekw9) | 4:43 |
 | 22 | [I Got the Six \(2008 Remaster\)](https://open.spotify.com/track/3yYe6csPthNTUCcg6PVGjs) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK) | 2:54 |
-| 23 | [Viva Las Vegas \- 2003 Remaster](https://open.spotify.com/track/7hB5TG3xxRBvBxX4ROayVL) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Chrome Smoke & BBQ: The ZZ Top Box](https://open.spotify.com/album/21XjbuoMaBrSjokj63ekw9) | 4:43 |
+| 23 | [Sharp Dressed Man](https://open.spotify.com/track/7aXgo7vAHDjHR0JrCX2qJv) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [The Baddest](https://open.spotify.com/album/5CGNEMUtCJanGlhQIgM4WZ) | 2:59 |
 | 24 | [Cheap Sunglasses](https://open.spotify.com/track/2te8SC3btY8aSBtOLTQFie) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ) | 4:48 |
 | 25 | [Tube Snake Boogie](https://open.spotify.com/track/5SgSMB8pz1lolVOTtFCtIX) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [El Loco](https://open.spotify.com/album/4iQeNxZ5xlP9TirtiSfisY) | 3:03 |
 | 26 | [Sleeping Bag](https://open.spotify.com/track/2i14DjGjf1UQ9VwvB2vRZP) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 49 | [Balinese \(2005 Remaster\)](https://open.spotify.com/track/2SCXpY6ArQFpllTov1z1Lr) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV) | 2:36 |
 | 50 | [\(Somebody Else Been\) Shaking Your Tree](https://open.spotify.com/track/63dvxR46Wf4qEOUS21Vlfz) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx) | 2:35 |
 
-Snapshot ID: `Z9IgAAAAAADWzYuwMBUHGmxFw/g4Pz1v`
+Snapshot ID: `Z9NxgAAAAAAcHEMK28UrhSzAgSWef4vJ`

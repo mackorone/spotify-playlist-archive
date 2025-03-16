@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1010739,
+  "num_followers": 1011074,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAADGM8vNb76S9WF7nvz4jX74",
+  "snapshot_id": "Z9NxgAAAAAAqt71e2VdhALbqUfK7KFkO",
   "tracks": [
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Asignatura Pendiente",
-        "url": "https://open.spotify.com/album/3kMQSQJN1D9ABXcSsgJ2vK"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 245093,
-      "name": "Asignatura Pendiente",
-      "url": "https://open.spotify.com/track/1uvfOengybr6fzRxecMsuJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\"V1V0\"",
         "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 210267,
       "name": "Borracha",
       "url": "https://open.spotify.com/track/63gtXiQJ2c6YaDoi28k77N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Asignatura Pendiente",
+        "url": "https://open.spotify.com/album/3kMQSQJN1D9ABXcSsgJ2vK"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 245093,
+      "name": "Asignatura Pendiente",
+      "url": "https://open.spotify.com/track/1uvfOengybr6fzRxecMsuJ"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\"V1V0\"",
+        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 217263,
+      "name": "Qu\u00e9 Ganas",
+      "url": "https://open.spotify.com/track/7vX3qZmAwbMatzvqbduEYW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Con Los Pies en La Tierra",
         "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 250368,
       "name": "Otro Perdedor",
       "url": "https://open.spotify.com/track/5CXAHV4mt5tuIP7oI4ldeH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"V1V0\"",
-        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 217263,
-      "name": "Qu\u00e9 Ganas",
-      "url": "https://open.spotify.com/track/7vX3qZmAwbMatzvqbduEYW"
     },
     {
       "added_at": null,

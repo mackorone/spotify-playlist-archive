@@ -1,6 +1,6 @@
 {
   "description": "Mooi van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 35703,
+  "num_followers": 35723,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2025-03-14 13:41:30",
       "album": {
-        "name": "La Pression",
-        "url": "https://open.spotify.com/album/1nkmjcR3wg4w4rbjoGbWiX"
-      },
-      "artists": [
-        {
-          "name": "Claude",
-          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
-        }
-      ],
-      "duration_ms": 161311,
-      "name": "La Pression",
-      "url": "https://open.spotify.com/track/1JD59B3aSyEcI3yHYPZLIP"
-    },
-    {
-      "added_at": "2025-03-14 13:41:30",
-      "album": {
         "name": "De Stad",
         "url": "https://open.spotify.com/album/74oRzSmRTs0BPr4rQSvywO"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 158857,
       "name": "De Stad",
       "url": "https://open.spotify.com/track/2N0J2JFNDuRh4bEiaYWTHY"
+    },
+    {
+      "added_at": "2025-03-14 13:41:30",
+      "album": {
+        "name": "La Pression",
+        "url": "https://open.spotify.com/album/1nkmjcR3wg4w4rbjoGbWiX"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "duration_ms": 161311,
+      "name": "La Pression",
+      "url": "https://open.spotify.com/track/1JD59B3aSyEcI3yHYPZLIP"
     },
     {
       "added_at": "2025-03-14 13:41:30",
@@ -271,22 +271,6 @@
     {
       "added_at": "2025-03-14 13:41:30",
       "album": {
-        "name": "Beste Zangers 2024 (Claude)",
-        "url": "https://open.spotify.com/album/7cFYcG7GHXLS29svnOSWw7"
-      },
-      "artists": [
-        {
-          "name": "Claude",
-          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
-        }
-      ],
-      "duration_ms": 216320,
-      "name": "Toen Ik Je Zag",
-      "url": "https://open.spotify.com/track/5AM4yh4nq6shKIJqyhBvSI"
-    },
-    {
-      "added_at": "2025-03-14 13:41:30",
-      "album": {
         "name": "Hoeveel Tranen Moet Ik Huilen",
         "url": "https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm"
       },
@@ -303,22 +287,6 @@
     {
       "added_at": "2025-03-14 13:41:30",
       "album": {
-        "name": "Huisje, Boompje, Feestje",
-        "url": "https://open.spotify.com/album/4J9Wc64l9Wr0xdyUKoGtRo"
-      },
-      "artists": [
-        {
-          "name": "Juwls",
-          "url": "https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75"
-        }
-      ],
-      "duration_ms": 204615,
-      "name": "Huisje, Boompje, Feestje",
-      "url": "https://open.spotify.com/track/16XZUM3T4NcDPgRre4dHDp"
-    },
-    {
-      "added_at": "2025-03-14 13:41:30",
-      "album": {
         "name": "Niet Voor Lief",
         "url": "https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi"
       },
@@ -331,6 +299,38 @@
       "duration_ms": 174448,
       "name": "Bang Dat Ik Je Stem Vergeet",
       "url": "https://open.spotify.com/track/1LmGCG8AOvCsVvjOPbiY54"
+    },
+    {
+      "added_at": "2025-03-14 13:41:30",
+      "album": {
+        "name": "Beste Zangers 2024 (Claude)",
+        "url": "https://open.spotify.com/album/7cFYcG7GHXLS29svnOSWw7"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "Toen Ik Je Zag",
+      "url": "https://open.spotify.com/track/5AM4yh4nq6shKIJqyhBvSI"
+    },
+    {
+      "added_at": "2025-03-14 13:41:30",
+      "album": {
+        "name": "Huisje, Boompje, Feestje",
+        "url": "https://open.spotify.com/album/4J9Wc64l9Wr0xdyUKoGtRo"
+      },
+      "artists": [
+        {
+          "name": "Juwls",
+          "url": "https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75"
+        }
+      ],
+      "duration_ms": 204615,
+      "name": "Huisje, Boompje, Feestje",
+      "url": "https://open.spotify.com/track/16XZUM3T4NcDPgRre4dHDp"
     },
     {
       "added_at": "2025-03-14 13:41:30",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-03-14 13:41:30",
       "album": {
-        "name": "Parler Fran\u00e7ais",
-        "url": "https://open.spotify.com/album/2jhjGUrHKtd9xZJ3roaee2"
-      },
-      "artists": [
-        {
-          "name": "Claude",
-          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "Allez! Touch\u00e9!",
-      "url": "https://open.spotify.com/track/13s86KfJggu0QBQW4HoYDh"
-    },
-    {
-      "added_at": "2025-03-14 13:41:30",
-      "album": {
         "name": "Door En Door",
         "url": "https://open.spotify.com/album/4MM2s2BHa319dYoeSD4e9h"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 165001,
       "name": "Wat Als Ik Wat Mis",
       "url": "https://open.spotify.com/track/6M8VUoELSGXNSPDJrU3JNQ"
+    },
+    {
+      "added_at": "2025-03-14 13:41:30",
+      "album": {
+        "name": "Parler Fran\u00e7ais",
+        "url": "https://open.spotify.com/album/2jhjGUrHKtd9xZJ3roaee2"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "Allez! Touch\u00e9!",
+      "url": "https://open.spotify.com/track/13s86KfJggu0QBQW4HoYDh"
     },
     {
       "added_at": "2025-03-14 13:41:30",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-03-14 13:41:30",
       "album": {
-        "name": "Vrouw Van De Wereld",
-        "url": "https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Livay",
-          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
-        }
-      ],
-      "duration_ms": 173031,
-      "name": "Patronen",
-      "url": "https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV"
-    },
-    {
-      "added_at": "2025-03-14 13:41:30",
-      "album": {
         "name": "Alles Wat Ik Zoek (Radio Edit)",
         "url": "https://open.spotify.com/album/5UUFAAiSKelbyEjBLzepjt"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 168871,
       "name": "Alles Wat Ik Zoek - Radio Edit",
       "url": "https://open.spotify.com/track/1XdUtqaf0KdDxgnO8wY1y3"
+    },
+    {
+      "added_at": "2025-03-14 13:41:30",
+      "album": {
+        "name": "Vrouw Van De Wereld",
+        "url": "https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "duration_ms": 173031,
+      "name": "Patronen",
+      "url": "https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV"
     },
     {
       "added_at": "2025-03-14 13:41:30",

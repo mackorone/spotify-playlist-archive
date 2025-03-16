@@ -4,7 +4,7 @@
 
 > This is Ramin Djawadi\. The essential tracks, all in one playlist.
 
-79 songs - 3 hr 57 min
+80 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Breaker of Chains](https://open.spotify.com/track/4Lk1qSykuFO6mW926IVZJj) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 4 \(Music from the HBO Series\)](https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL) | 4:05 | 2024-11-18 |  |
 | [Brotherhood of Steel \(Full Version\)](https://open.spotify.com/track/1llOaeeKxiCra9QvwXCJNf) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Fallout \(Original Amazon Series Soundtrack\)](https://open.spotify.com/album/0o12gQfAjCZmnChTHcSMrr) | 6:27 | 2024-05-02 | 2024-06-21 |
 | [Bulletproof](https://open.spotify.com/track/0yySiTbX2RhrPnqWYyrPC1) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [3 Body Problem \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6VhG7xEPrBO3YjmQj9OcUn) | 3:15 | 2024-04-04 | 2024-04-14 |
+| [Chaos Is a Ladder](https://open.spotify.com/track/6iEvRqryWDEFleImTSLqR4) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 3 \(Music from the HBO Series\)](https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n) | 2:58 | 2025-03-16 |  |
 | [Dance of Dragons](https://open.spotify.com/track/31ZZ6UK4InCAb3AgoNMKol) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones: Season 5 \(Music from the HBO Series\)](https://open.spotify.com/album/0LQkLdG7VkkTZj0HbONsJQ) | 3:08 | 2024-07-12 | 2024-08-08 |
 | [Dark Wings, Dark Words](https://open.spotify.com/track/2YZy9wVrWyWIGJK7LsJbgZ) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 3 \(Music from the HBO Series\)](https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n) | 2:47 | 2024-04-04 |  |
 | [Dr\. Ford](https://open.spotify.com/track/1pm8TqG9dNIcMGTQNzjYh9) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/43pttVYo7IjBvive3uebVF) | 5:30 | 2024-04-04 |  |
@@ -40,7 +41,7 @@
 | [Key To Life](https://open.spotify.com/track/0CYSUcMcGBsMsxA6pEPT0V) | [Campfire](https://open.spotify.com/artist/54iFlEyl0Ns7oVIoee11W4) | [Win or Lose \(Original Soundtrack\)](https://open.spotify.com/album/5b8ZVBaIDmoFi7NEv3swE7) | 2:23 | 2025-02-23 |  |
 | [Kill Them All](https://open.spotify.com/track/4m3Irk2mc25kcmJC2uqGlL) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 2:35 | 2024-04-04 |  |
 | [King Of The North](https://open.spotify.com/track/27tYMG6SdydZhJMYjIUpR1) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 1:28 | 2024-04-04 |  |
-| [Kingslayer](https://open.spotify.com/track/4kkJe2xKp25GU3NA3rRCSl) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 3 \(Music from the HBO Series\)](https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n) | 2:11 | 2025-03-06 |  |
+| [Kingslayer](https://open.spotify.com/track/4kkJe2xKp25GU3NA3rRCSl) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 3 \(Music from the HBO Series\)](https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n) | 2:11 | 2025-03-06 | 2025-03-16 |
 | [Light of the Seven](https://open.spotify.com/track/6iLzFJhs4ATwJn7P1utZIJ) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones \(Music from the HBO® Series \- Season 6\)](https://open.spotify.com/album/7bBlW6L9r3ICFkbf2WRDXL) | 9:49 | 2024-04-04 |  |
 | [Maester](https://open.spotify.com/track/2Ift6YpqOCINgVYvGx8nVW) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones \(Music from the HBO® Series \- Season 6\)](https://open.spotify.com/album/7bBlW6L9r3ICFkbf2WRDXL) | 2:52 | 2024-04-04 |  |
 | [Main Title](https://open.spotify.com/track/2q6fxAvSpqXR4jx9Ne7RGz) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 1:46 | 2024-04-04 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: El C\u00f3modo Silencio De Los Que Hablan Poco.",
-  "num_followers": 191573,
+  "num_followers": 191577,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2025-03-14 03:00:09",
       "album": {
-        "name": "Fantasmas",
-        "url": "https://open.spotify.com/album/6FIXBpcKzb14AXzKo9Tx9L"
-      },
-      "artists": [
-        {
-          "name": "BBS Paranoicos",
-          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
-        }
-      ],
-      "duration_ms": 232457,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/1uqgJz87jIFsYdHDCbmTgT"
-    },
-    {
-      "added_at": "2025-03-14 03:00:09",
-      "album": {
         "name": "Esta Tarde Vi Llover",
         "url": "https://open.spotify.com/album/68EfOoUKQD6O5ZvCvtDzOp"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 153991,
       "name": "Esta Tarde Vi Llover",
       "url": "https://open.spotify.com/track/2wpimO7JjiN8HuoW5caZ3F"
+    },
+    {
+      "added_at": "2025-03-14 03:00:09",
+      "album": {
+        "name": "Fantasmas",
+        "url": "https://open.spotify.com/album/6FIXBpcKzb14AXzKo9Tx9L"
+      },
+      "artists": [
+        {
+          "name": "BBS Paranoicos",
+          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
+        }
+      ],
+      "duration_ms": 232457,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/1uqgJz87jIFsYdHDCbmTgT"
     },
     {
       "added_at": "2025-03-14 03:00:09",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-03-14 03:00:09",
       "album": {
-        "name": "All\u00ed Va",
-        "url": "https://open.spotify.com/album/4t8GmiNlKqpXlVcPJdvyT9"
-      },
-      "artists": [
-        {
-          "name": "Pettinellis",
-          "url": "https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD"
-        }
-      ],
-      "duration_ms": 153942,
-      "name": "All\u00ed Va",
-      "url": "https://open.spotify.com/track/7a4vF2iVE2BspL2yRy47nX"
-    },
-    {
-      "added_at": "2025-03-14 03:00:09",
-      "album": {
         "name": "Relatos Falsos De Historias Verdaderas",
         "url": "https://open.spotify.com/album/69WV2fR1pnJFNaskXNz6sS"
       },
@@ -443,18 +427,34 @@
     {
       "added_at": "2025-03-14 03:00:09",
       "album": {
-        "name": "Como es que no gozas",
-        "url": "https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv"
+        "name": "All\u00ed Va",
+        "url": "https://open.spotify.com/album/4t8GmiNlKqpXlVcPJdvyT9"
       },
       "artists": [
         {
-          "name": "La Floripondio",
-          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
+          "name": "Pettinellis",
+          "url": "https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD"
         }
       ],
-      "duration_ms": 169384,
-      "name": "Como es que no gozas",
-      "url": "https://open.spotify.com/track/6hMwYF9yok533cqZB631MN"
+      "duration_ms": 153942,
+      "name": "All\u00ed Va",
+      "url": "https://open.spotify.com/track/7a4vF2iVE2BspL2yRy47nX"
+    },
+    {
+      "added_at": "2025-03-14 03:00:09",
+      "album": {
+        "name": "Hojas de T\u00e9 (2023)",
+        "url": "https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "duration_ms": 209610,
+      "name": "Hojas de T\u00e9 - 2023",
+      "url": "https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0"
     },
     {
       "added_at": "2025-03-14 03:00:09",
@@ -475,18 +475,18 @@
     {
       "added_at": "2025-03-14 03:00:09",
       "album": {
-        "name": "Hojas de T\u00e9 (2023)",
-        "url": "https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe"
+        "name": "Como es que no gozas",
+        "url": "https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv"
       },
       "artists": [
         {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+          "name": "La Floripondio",
+          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
         }
       ],
-      "duration_ms": 209610,
-      "name": "Hojas de T\u00e9 - 2023",
-      "url": "https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0"
+      "duration_ms": 169384,
+      "name": "Como es que no gozas",
+      "url": "https://open.spotify.com/track/6hMwYF9yok533cqZB631MN"
     },
     {
       "added_at": "2025-03-14 03:00:09",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-03-14 03:00:09",
       "album": {
-        "name": "Ases Falsos En El Coliseo",
-        "url": "https://open.spotify.com/album/3z9ajon3uJlZpp4x3KIz3R"
-      },
-      "artists": [
-        {
-          "name": "Ases Falsos",
-          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
-        }
-      ],
-      "duration_ms": 243270,
-      "name": "Mala Fama - En Vivo",
-      "url": "https://open.spotify.com/track/1guVg6k2Hw4jwG70bqYzHI"
-    },
-    {
-      "added_at": "2025-03-14 03:00:09",
-      "album": {
         "name": "PORTAL",
         "url": "https://open.spotify.com/album/3DNTMjDlKj5kI7tuECzP2H"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 293252,
       "name": "Fiesta En El Barrio",
       "url": "https://open.spotify.com/track/4ADJLGCE2ZnOIvXJOaOPel"
+    },
+    {
+      "added_at": "2025-03-14 03:00:09",
+      "album": {
+        "name": "Ases Falsos En El Coliseo",
+        "url": "https://open.spotify.com/album/3z9ajon3uJlZpp4x3KIz3R"
+      },
+      "artists": [
+        {
+          "name": "Ases Falsos",
+          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
+        }
+      ],
+      "duration_ms": 243270,
+      "name": "Mala Fama - En Vivo",
+      "url": "https://open.spotify.com/track/1guVg6k2Hw4jwG70bqYzHI"
     },
     {
       "added_at": "2025-03-14 03:00:09",
@@ -1223,22 +1223,18 @@
     {
       "added_at": "2025-03-14 03:00:09",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7"
+        "name": "Punk Para Gatitos",
+        "url": "https://open.spotify.com/album/380arxDGMx4MMOgFZ9PwSn"
       },
       "artists": [
         {
-          "name": "Cler Canifr\u00fa",
-          "url": "https://open.spotify.com/artist/1dBUAcFepQhvIVgUUHxRPf"
-        },
-        {
-          "name": "Lula Bertoldi",
-          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
+          "name": "VerDor",
+          "url": "https://open.spotify.com/artist/68oZgpDCBYNeOCncHDrE9o"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa"
+      "duration_ms": 172000,
+      "name": "Mech\u00f3n",
+      "url": "https://open.spotify.com/track/68PYDFoH55e9euHECfuy8o"
     },
     {
       "added_at": "2025-03-14 03:00:09",
@@ -1259,18 +1255,22 @@
     {
       "added_at": "2025-03-14 03:00:09",
       "album": {
-        "name": "Punk Para Gatitos",
-        "url": "https://open.spotify.com/album/380arxDGMx4MMOgFZ9PwSn"
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7"
       },
       "artists": [
         {
-          "name": "VerDor",
-          "url": "https://open.spotify.com/artist/68oZgpDCBYNeOCncHDrE9o"
+          "name": "Cler Canifr\u00fa",
+          "url": "https://open.spotify.com/artist/1dBUAcFepQhvIVgUUHxRPf"
+        },
+        {
+          "name": "Lula Bertoldi",
+          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Mech\u00f3n",
-      "url": "https://open.spotify.com/track/68PYDFoH55e9euHECfuy8o"
+      "duration_ms": 219000,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa"
     },
     {
       "added_at": "2025-03-14 03:00:09",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-03-14 03:00:09",
       "album": {
-        "name": "Santos",
-        "url": "https://open.spotify.com/album/3h8muVhOvlsw6Olfn5XrHG"
-      },
-      "artists": [
-        {
-          "name": "Kapitol",
-          "url": "https://open.spotify.com/artist/5FuX1pfwNKtfSvimMmLSbt"
-        }
-      ],
-      "duration_ms": 225478,
-      "name": "Soldados",
-      "url": "https://open.spotify.com/track/3TCj56rGlJRCmX7L8Kgwgk"
-    },
-    {
-      "added_at": "2025-03-14 03:00:09",
-      "album": {
         "name": "Despertar (Cuando Todo Quema)",
         "url": "https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 201496,
       "name": "Despertar (Cuando Todo Quema)",
       "url": "https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX"
+    },
+    {
+      "added_at": "2025-03-14 03:00:09",
+      "album": {
+        "name": "Santos",
+        "url": "https://open.spotify.com/album/3h8muVhOvlsw6Olfn5XrHG"
+      },
+      "artists": [
+        {
+          "name": "Kapitol",
+          "url": "https://open.spotify.com/artist/5FuX1pfwNKtfSvimMmLSbt"
+        }
+      ],
+      "duration_ms": 225478,
+      "name": "Soldados",
+      "url": "https://open.spotify.com/track/3TCj56rGlJRCmX7L8Kgwgk"
     },
     {
       "added_at": "2025-03-14 03:00:09",

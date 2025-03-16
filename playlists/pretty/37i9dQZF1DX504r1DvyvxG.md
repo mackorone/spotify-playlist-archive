@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: George Harrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,655,279 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,655,361 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 49 | [That's the Way That the World Goes 'Round](https://open.spotify.com/track/6IcU0P6Ec5CM9qVqV1U2JH) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Bruised Orange](https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb) | 3:20 |
 | 50 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/4Vn7TykT27PIygBiZjTR2s) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Very Best of the Eagles \(2013 Remaster\)](https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa) | 6:31 |
 | 51 | [Your Song](https://open.spotify.com/track/7gCeodIXjhCLDWC5H1LOmT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm) | 4:04 |
-| 52 | [It's All Over Now Baby Blue](https://open.spotify.com/track/7hoWkhuHv9b3jiCbxX1kMm) | [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB) | [Rich Kid Blues](https://open.spotify.com/album/7m06IfHTHIxJHPlOrCybrk) | 3:49 |
-| 53 | [Hit Or Miss](https://open.spotify.com/track/4YJ1KDI6tUSapyD6XTAg8i) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Odetta Sings](https://open.spotify.com/album/1dG9AMcbsyxRCJO6aXL5jp) | 3:54 |
+| 52 | [Hit Or Miss](https://open.spotify.com/track/4YJ1KDI6tUSapyD6XTAg8i) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Odetta Sings](https://open.spotify.com/album/1dG9AMcbsyxRCJO6aXL5jp) | 3:54 |
+| 53 | [It's All Over Now Baby Blue](https://open.spotify.com/track/7hoWkhuHv9b3jiCbxX1kMm) | [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB) | [Rich Kid Blues](https://open.spotify.com/album/7m06IfHTHIxJHPlOrCybrk) | 3:49 |
 | 54 | [Blowin' in the Wind](https://open.spotify.com/track/62Yu8QL1g9pdbvN4XL9Rah) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [In the Wind](https://open.spotify.com/album/5XresJcJBgYkVQE9PATjli) | 2:57 |
 | 55 | [Ooh La La \- 2004 Remaster](https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [The Best of Faces: Good Boys When They're Asleep](https://open.spotify.com/album/375DYMUVvk7xXyKq5IaUTR) | 3:34 |
 | 56 | [Donna Donna](https://open.spotify.com/track/49uBVeaM3ixGD8VIeqh9KI) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 3:12 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 72 | [Red Dirt Girl](https://open.spotify.com/track/41QWKQjT6riBhHAGYHU9Xu) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Hickory Wind](https://open.spotify.com/album/5rAT05WHdhzdiJMw9fsKSX) | 4:05 |
 | 73 | [Love At The Five & Dime](https://open.spotify.com/track/5MhqCzQuPwHEVGS2i5zHOz) | [Nanci Griffith](https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0) | [The Last Of The True Believers](https://open.spotify.com/album/35HzQJGNwaNXWUInoJNz1t) | 4:39 |
 | 74 | [Alice's Restaurant Massacree](https://open.spotify.com/track/4OjKHySJHstsImlUW3qfml) | [Arlo Guthrie](https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw) | [Alice's Restaurant](https://open.spotify.com/album/0Y1XtcuCEFhVIyGtPbBmvm) | 18:36 |
-| 75 | [Black Is the Colour](https://open.spotify.com/track/29tvuiMPkb9q56VRoLVQKD) | [Tia Blake](https://open.spotify.com/artist/6fkGY2RJyI8UxNjMlDo9k1) | [Folksongs & Ballads](https://open.spotify.com/album/2JQDn2wgm2nLVxdWE0GJJa) | 2:28 |
-| 76 | [When I'm Gone](https://open.spotify.com/track/0yQ9vnsC7CyPMwAQ3BlWcJ) | [Phil Ochs](https://open.spotify.com/artist/3JhQGw54MOytJP3GZ8KNPo) | [There But For Fortune](https://open.spotify.com/album/5uhYaHfiH4leO4tbdEOZJe) | 4:13 |
+| 75 | [When I'm Gone](https://open.spotify.com/track/0yQ9vnsC7CyPMwAQ3BlWcJ) | [Phil Ochs](https://open.spotify.com/artist/3JhQGw54MOytJP3GZ8KNPo) | [There But For Fortune](https://open.spotify.com/album/5uhYaHfiH4leO4tbdEOZJe) | 4:13 |
+| 76 | [Black Is the Colour](https://open.spotify.com/track/29tvuiMPkb9q56VRoLVQKD) | [Tia Blake](https://open.spotify.com/artist/6fkGY2RJyI8UxNjMlDo9k1) | [Folksongs & Ballads](https://open.spotify.com/album/2JQDn2wgm2nLVxdWE0GJJa) | 2:28 |
 | 77 | [Crayon Angels](https://open.spotify.com/track/7iKnwGAMdY6LYLILGnsGhT) | [Judee Sill](https://open.spotify.com/artist/2IkwqvwEnXFlZEq6eFP1wL) | [Judee Sill](https://open.spotify.com/album/2zaIMRTlztlfkxLoo5nPtf) | 2:45 |
-| 78 | [Reason to Believe](https://open.spotify.com/track/1RcKqJ28uiE8EHPfg7Mg2J) | [Karen Dalton](https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy) | [1966](https://open.spotify.com/album/1K7tpapZGd6Ax1YA2vXNEA) | 2:24 |
-| 79 | [Universal Soldier](https://open.spotify.com/track/4MCI71gpCGwHsK2rv7c8pv) | [Buffy Sainte\-Marie](https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x) | [It's My Way](https://open.spotify.com/album/3xqpKfDsGJYbCdMndvxZmd) | 2:20 |
+| 78 | [Universal Soldier](https://open.spotify.com/track/4MCI71gpCGwHsK2rv7c8pv) | [Buffy Sainte\-Marie](https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x) | [It's My Way](https://open.spotify.com/album/3xqpKfDsGJYbCdMndvxZmd) | 2:20 |
+| 79 | [Reason to Believe](https://open.spotify.com/track/1RcKqJ28uiE8EHPfg7Mg2J) | [Karen Dalton](https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy) | [1966](https://open.spotify.com/album/1K7tpapZGd6Ax1YA2vXNEA) | 2:24 |
 | 80 | [Older Chests](https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
 | 81 | [Carolina In My Mind](https://open.spotify.com/track/2Fv3LSqbgv5lrdClrc6XKc) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [James Taylor Live](https://open.spotify.com/album/38OACLXl1hgUnsuCUv13HC) | 5:01 |
 | 82 | [Music Is Love](https://open.spotify.com/track/0O87QQVWgCkkXAfrhsal55) | [David Crosby](https://open.spotify.com/artist/59zdhVoWxSoHMc74n098Re) | [If I Could Only Remember My Name](https://open.spotify.com/album/4v9ZAufvuQKvTLcy21y6BM) | 3:22 |

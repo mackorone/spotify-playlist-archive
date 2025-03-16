@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover:  五月天 \(Mayday\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,513 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,599 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 23 | [科幻小說 \(prod\. by Sōryo\)](https://open.spotify.com/track/53XaSgJqHmYqhkJe4IpQEJ) | [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [如果每天都可以 happy happy 誰想要sad:＊\- 合作的秘密](https://open.spotify.com/album/54y9HZviKYV9sohtlYmBEb) | 3:13 |
 | 24 | [想念你想我](https://open.spotify.com/track/1sl9O7VLwGwdw4iXqnkbDP) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [Almost 幾乎是愛情](https://open.spotify.com/album/579BRjoSe2Xj9dB5gP0D8O) | 4:00 |
 | 25 | [珠寶行](https://open.spotify.com/track/0Llg1rG1U7IwAcJewatHLY) | [艾蜜莉AMILI](https://open.spotify.com/artist/2yphKbezBLHQNhrVEA4Uup), [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [珠寶行](https://open.spotify.com/album/167sHzAI1pwuvezo5sesIe) | 3:24 |
-| 26 | [你已經替我決定了 \- 電影《命中註定那頭鵝》主題曲](https://open.spotify.com/track/2PDdcf9HyMU93mqgNvJiVZ) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [你已經替我決定了 \- 電影《命中註定那頭鵝》主題曲](https://open.spotify.com/album/2wsKWIVEbeFEvqvjWsAfig) | 3:49 |
+| 26 | [你已經替我決定了《命中註定那頭鵝》電影主題曲](https://open.spotify.com/track/2PDdcf9HyMU93mqgNvJiVZ) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [你已經替我決定了《命中註定那頭鵝》電影主題曲](https://open.spotify.com/album/2wsKWIVEbeFEvqvjWsAfig) | 3:49 |
 | 27 | [只有雨知道](https://open.spotify.com/track/24iBAGCuGajdQXvxt3ItbL) | [苏星婕](https://open.spotify.com/artist/19nBOLVLKxrijWEvjpXFI8) | [只有雨知道](https://open.spotify.com/album/6kbmZXTRKri8wVxOSEypFu) | 3:05 |
 | 28 | [Six Degrees](https://open.spotify.com/track/1SMC4asXLbJMhckDg1PKAq) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Six Degrees](https://open.spotify.com/album/1GiYC9prlXmNGgYAbQ5Jiu) | 3:14 |
 | 29 | [我們離開這](https://open.spotify.com/track/79ErC0WrpMTYdl9uM6S4kM) | [質感流氓](https://open.spotify.com/artist/0wmqwpMoYoxUBJIlmf48it), [修齊](https://open.spotify.com/artist/2I5T2tiJUUo0V2gri9oFG5) | [我們離開這](https://open.spotify.com/album/4nf9UZy8ZUexUt1JACkYnn) | 2:34 |

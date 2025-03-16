@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 82790,
+  "num_followers": 82831,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,26 @@
     {
       "added_at": "2025-01-30 23:28:32",
       "album": {
+        "name": "Masego",
+        "url": "https://open.spotify.com/album/1eBp7lKuofxvC46hCYml0u"
+      },
+      "artists": [
+        {
+          "name": "Dj Obza",
+          "url": "https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh"
+        },
+        {
+          "name": "Leon Lee",
+          "url": "https://open.spotify.com/artist/7C2brYxxHiu329vBUebugD"
+        }
+      ],
+      "duration_ms": 411952,
+      "name": "Mang' Dakiwe (feat. Leon Lee)",
+      "url": "https://open.spotify.com/track/2uHImha8ZRh5gDQAsCzcle"
+    },
+    {
+      "added_at": "2025-01-30 23:28:32",
+      "album": {
         "name": "Mr Big Flexa",
         "url": "https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 250671,
       "name": "Goat",
       "url": "https://open.spotify.com/track/0jl64IvfpHeD6fzlbVzbP4"
-    },
-    {
-      "added_at": "2025-01-30 23:28:32",
-      "album": {
-        "name": "Masego",
-        "url": "https://open.spotify.com/album/1eBp7lKuofxvC46hCYml0u"
-      },
-      "artists": [
-        {
-          "name": "Dj Obza",
-          "url": "https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh"
-        },
-        {
-          "name": "Leon Lee",
-          "url": "https://open.spotify.com/artist/7C2brYxxHiu329vBUebugD"
-        }
-      ],
-      "duration_ms": 411952,
-      "name": "Mang' Dakiwe (feat. Leon Lee)",
-      "url": "https://open.spotify.com/track/2uHImha8ZRh5gDQAsCzcle"
     },
     {
       "added_at": "2025-01-30 23:28:32",
@@ -1255,34 +1255,6 @@
     {
       "added_at": "2025-01-30 23:28:32",
       "album": {
-        "name": "BIG FUN - THUTO THE HUMAN & 2WOBUNNIES VS INNER CITY (FEAT. JAY MUSIC)",
-        "url": "https://open.spotify.com/album/68DnMLu8TDXG6RwZ1AzfeK"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "Thuto The Human",
-          "url": "https://open.spotify.com/artist/5gAHEecJcLAR9qtLcaiVfj"
-        },
-        {
-          "name": "2woBunnies",
-          "url": "https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML"
-        },
-        {
-          "name": "Jay Music",
-          "url": "https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi"
-        }
-      ],
-      "duration_ms": 429026,
-      "name": "BIG FUN - THUTO THE HUMAN & 2WOBUNNIES VS INNER CITY (FEAT. JAY MUSIC)",
-      "url": "https://open.spotify.com/track/3JlIWcL8I4XISGbkkVYhvV"
-    },
-    {
-      "added_at": "2025-01-30 23:28:32",
-      "album": {
         "name": "Shuffle",
         "url": "https://open.spotify.com/album/40mArL86HrmKLZjj6KEQ9i"
       },
@@ -1307,6 +1279,34 @@
       "duration_ms": 375530,
       "name": "Shuffle",
       "url": "https://open.spotify.com/track/0jLE159BmNIIwongqStIp1"
+    },
+    {
+      "added_at": "2025-01-30 23:28:32",
+      "album": {
+        "name": "BIG FUN - THUTO THE HUMAN & 2WOBUNNIES VS INNER CITY (FEAT. JAY MUSIC)",
+        "url": "https://open.spotify.com/album/68DnMLu8TDXG6RwZ1AzfeK"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Thuto The Human",
+          "url": "https://open.spotify.com/artist/5gAHEecJcLAR9qtLcaiVfj"
+        },
+        {
+          "name": "2woBunnies",
+          "url": "https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML"
+        },
+        {
+          "name": "Jay Music",
+          "url": "https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi"
+        }
+      ],
+      "duration_ms": 429026,
+      "name": "BIG FUN - THUTO THE HUMAN & 2WOBUNNIES VS INNER CITY (FEAT. JAY MUSIC)",
+      "url": "https://open.spotify.com/track/3JlIWcL8I4XISGbkkVYhvV"
     }
   ],
   "unique_name": "Beast Mode Amapiano",

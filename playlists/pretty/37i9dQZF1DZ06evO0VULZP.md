@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 
 > This is Descendents\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,281 likes - 46 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,287 likes - 46 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 45 | [Cheer](https://open.spotify.com/track/60PehYqowykS4BzqhE8UEi) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy](https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA) | 3:03 |
 | 46 | [Grudge](https://open.spotify.com/track/4YpjGR5zqcDfxAhpAYbnG6) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:28 |
 
-Snapshot ID: `Z9IgAAAAAAAxi+aAUZO+eZAWEBTYAWPC`
+Snapshot ID: `Z9NxgAAAAAA1Hcdnt7u7Uj7WJB8pRTGR`

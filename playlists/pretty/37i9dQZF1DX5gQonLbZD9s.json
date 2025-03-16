@@ -1,6 +1,6 @@
 {
   "description": "The best uptempo pop for the workout girlies",
-  "num_followers": 1448359,
+  "num_followers": 1448435,
   "original_name": "Pumped Pop",
   "owner": {
     "name": "Spotify",
@@ -465,6 +465,22 @@
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
+      "added_at": "2025-03-07 05:00:35",
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 213337,
+      "name": "Zombieboy",
+      "url": "https://open.spotify.com/track/0ElVpg9XIswx3XWs6kUj6a"
+    },
+    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "Love?",
@@ -499,22 +515,6 @@
       "duration_ms": 292613,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
-    },
-    {
-      "added_at": "2025-03-07 05:00:35",
-      "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 213337,
-      "name": "Zombieboy",
-      "url": "https://open.spotify.com/track/0ElVpg9XIswx3XWs6kUj6a"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Save Your Tears (Remix)",
         "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Mean Girls (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 170528,
-      "name": "Not My Fault (with Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Acapulco",
         "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 187107,
       "name": "2 Be Loved (Am I Ready)",
       "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 170528,
+      "name": "Not My Fault (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1333,20 +1333,20 @@
       "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2025-02-28 05:00:58",
       "album": {
-        "name": "Spot a Fake",
-        "url": "https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD"
+        "name": "BINIverse",
+        "url": "https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
         }
       ],
-      "duration_ms": 167621,
-      "name": "Spot a Fake",
-      "url": "https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx"
+      "duration_ms": 170508,
+      "name": "Zero Pressure",
+      "url": "https://open.spotify.com/track/4xWZwHrIn5uS3Nft08Rk5O"
     }
   ],
   "unique_name": "Pumped Pop",

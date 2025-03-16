@@ -1,12 +1,12 @@
 {
   "description": "This is The Jones Girls. The essential tracks, all in one playlist.",
-  "num_followers": 3316,
+  "num_followers": 3318,
   "original_name": "This Is The Jones Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAC6TwKCE/DvfB8Wk2viU7MT",
+  "snapshot_id": "Z9NxgAAAAAAGNY2mgmhvX/BikLm+ahnO",
   "tracks": [
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 261866,
-      "name": "Get as Much Love as You Can",
-      "url": "https://open.spotify.com/track/528wN82D9KEA7xY59Go0Ls"
+      "duration_ms": 258613,
+      "name": "ASAP (As Soon as Possible)",
+      "url": "https://open.spotify.com/track/3fU5oXtdBs8QqpBvMQDWQl"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 258613,
-      "name": "ASAP (As Soon as Possible)",
-      "url": "https://open.spotify.com/track/3fU5oXtdBs8QqpBvMQDWQl"
+      "duration_ms": 261866,
+      "name": "Get as Much Love as You Can",
+      "url": "https://open.spotify.com/track/528wN82D9KEA7xY59Go0Ls"
     },
     {
       "added_at": null,
@@ -676,12 +676,16 @@
       },
       "artists": [
         {
-          "name": "Chris Ballin",
-          "url": "https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W"
+          "name": "Richard Anthony Davis",
+          "url": "https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL"
         },
         {
           "name": "Emmanuel",
           "url": "https://open.spotify.com/artist/5YBzrGR5OgC9pU4Dl5eU8o"
+        },
+        {
+          "name": "Chris Ballin",
+          "url": "https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W"
         },
         {
           "name": "Dean Edwards",
@@ -702,15 +706,11 @@
         {
           "name": "The Sound Principle",
           "url": "https://open.spotify.com/artist/6vBm0kFy8xndqPZRY8zpYw"
-        },
-        {
-          "name": "Richard Anthony Davis",
-          "url": "https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL"
         }
       ],
-      "duration_ms": 309000,
-      "name": "Could You Be Mine?",
-      "url": "https://open.spotify.com/track/592L5UVwLVl6kmxB8E2z7Y"
+      "duration_ms": 297000,
+      "name": "Lovers for Life",
+      "url": "https://open.spotify.com/track/70TgN1YwZOaqBmPLKOfbus"
     },
     {
       "added_at": null,
@@ -768,16 +768,12 @@
       },
       "artists": [
         {
-          "name": "Richard Anthony Davis",
-          "url": "https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL"
+          "name": "Chris Ballin",
+          "url": "https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W"
         },
         {
           "name": "Emmanuel",
           "url": "https://open.spotify.com/artist/5YBzrGR5OgC9pU4Dl5eU8o"
-        },
-        {
-          "name": "Chris Ballin",
-          "url": "https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W"
         },
         {
           "name": "Dean Edwards",
@@ -798,11 +794,15 @@
         {
           "name": "The Sound Principle",
           "url": "https://open.spotify.com/artist/6vBm0kFy8xndqPZRY8zpYw"
+        },
+        {
+          "name": "Richard Anthony Davis",
+          "url": "https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL"
         }
       ],
-      "duration_ms": 297000,
-      "name": "Lovers for Life",
-      "url": "https://open.spotify.com/track/70TgN1YwZOaqBmPLKOfbus"
+      "duration_ms": 309000,
+      "name": "Could You Be Mine?",
+      "url": "https://open.spotify.com/track/592L5UVwLVl6kmxB8E2z7Y"
     },
     {
       "added_at": null,

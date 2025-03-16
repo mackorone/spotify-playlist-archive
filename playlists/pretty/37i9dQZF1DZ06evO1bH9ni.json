@@ -1,29 +1,13 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 334920,
+  "num_followers": 334988,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAC4VfDqsS77phXb+ex+rBSh",
+  "snapshot_id": "Z9NxgAAAAADWpKj4lVTDzMLoOoontS2C",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Somos Arrieros",
-        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 156792,
-      "name": "Vida Ventajosa",
-      "url": "https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA"
-    },
     {
       "added_at": null,
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 142064,
       "name": "Cabr\u00f3n y Vago - En Vivo",
       "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos Arrieros",
+        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 156792,
+      "name": "Vida Ventajosa",
+      "url": "https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA"
     },
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Borracho",
-        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 231839,
-      "name": "Te Vas a Arrepentir",
-      "url": "https://open.spotify.com/track/54hFP1zeT7EGieLj0rABLm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Pa' la Historia",
         "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 155543,
       "name": "Yo Soy Rico",
       "url": "https://open.spotify.com/track/6ueysvoc0nj7piSJXEJGJx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Borracho",
+        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 231839,
+      "name": "Te Vas a Arrepentir",
+      "url": "https://open.spotify.com/track/54hFP1zeT7EGieLj0rABLm"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Estar\u00e9 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 146233,
+      "name": "No Estar\u00e9 Aqu\u00ed",
+      "url": "https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 137560,
       "name": "El Que Quiere Puede",
       "url": "https://open.spotify.com/track/4MGkZ1KQBirBI04UAo76pn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Estar\u00e9 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 146233,
-      "name": "No Estar\u00e9 Aqu\u00ed",
-      "url": "https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 
 > This is Muddy Waters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,841 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,846 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 | 22 | [You Gonna Need My Help](https://open.spotify.com/track/2TUF4yTaTVRYh1I64AjvqO) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:13 |
 | 23 | [Spoonful](https://open.spotify.com/track/2KQhquTTsARcnU7Y3b6NDW) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 4:13 |
 | 24 | [I Feel Like Going Home](https://open.spotify.com/track/5vGGeS8N3fNCQLzojfP3Qu) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 3:10 |
-| 25 | [Mad Love \(I Want You To Love Me\) \- Single Version](https://open.spotify.com/track/6KRVb1xpxVOdg4Q2jn36e6) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 3:03 |
+| 25 | [Spoonful'](https://open.spotify.com/track/43usRpZqz4BqLrgKEpzaIQ) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Voodoo Blues](https://open.spotify.com/album/5IbFDbi2vYfzmgrOaxaelo) | 2:44 |
 | 26 | [Short Dress Woman](https://open.spotify.com/track/5JoNCSJaHppA9EXDhYHmIY) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 2:49 |
-| 27 | [Spoonful'](https://open.spotify.com/track/43usRpZqz4BqLrgKEpzaIQ) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Voodoo Blues](https://open.spotify.com/album/5IbFDbi2vYfzmgrOaxaelo) | 2:44 |
-| 28 | [Tom Cat](https://open.spotify.com/track/1UHa7agK1kxbcyHLNQ8gTM) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Electric Mud](https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL) | 3:37 |
+| 27 | [Tom Cat](https://open.spotify.com/track/1UHa7agK1kxbcyHLNQ8gTM) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Electric Mud](https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL) | 3:37 |
+| 28 | [Mad Love \(I Want You To Love Me\) \- Single Version](https://open.spotify.com/track/6KRVb1xpxVOdg4Q2jn36e6) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 3:03 |
 | 29 | [The Red Rooster](https://open.spotify.com/track/1qdLSzpYZBqJcSBKbSc4e6) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 7:25 |
 | 30 | [Walkin' Thru The Park](https://open.spotify.com/track/4MWQ0HRkPlWq70BKxeY1S1) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Real Folk Blues](https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT) | 2:44 |
 | 31 | [Ring Up \- Paris, 4 Novembre 1968 \(Restauración 2023\)](https://open.spotify.com/track/2k0UVEOVlCMv3p9MX2jOtv) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Muddy Waters Blues Band Live Paris 1968 \(Restauración 2023\)](https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 | 49 | [Walkin' Blues](https://open.spotify.com/track/2xF0ubRru7TwLHdqFwH6Uo) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Real Folk Blues](https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT) | 2:58 |
 | 50 | [Sugar Sweet \- 1955 Single Version](https://open.spotify.com/track/57EUcSzG8IdY70NoeOUycb) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Hoochie Coochie Man: Complete Chess Masters \(Vol\. 2: 1952\-1958\)](https://open.spotify.com/album/2vbTviLzQVGNe8rGCOyyQo) | 2:29 |
 
-Snapshot ID: `Z9IgAAAAAAA5h5kGHDnTSzv/6dvpLcdW`
+Snapshot ID: `Z9NxgAAAAACifM4kwfrzlw7RS1ggxawW`

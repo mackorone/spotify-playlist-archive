@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,906 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,911 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 48 | [I Do](https://open.spotify.com/track/0QTI2S5oOheSLU8WQuGmja) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Beste Zangers 2023 \(Duncan Laurence\)](https://open.spotify.com/album/7d9Z8E52D6So8lzxJQ67y3) | 2:51 |
 | 49 | [Please Don't Go](https://open.spotify.com/track/7js5qnk3hGWb20H263sXWZ) | [Liliana](https://open.spotify.com/artist/1iRSAN1d2YuiQaOHvLMhwF), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [Please Don't Go](https://open.spotify.com/album/3hqERMu6KirdARs43Kr6JT) | 2:08 |
 | 50 | [Enough](https://open.spotify.com/track/7xGfUFdnjjkKjNaIzicum6) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Enough](https://open.spotify.com/album/2chEGfaMozvHc1GJuFF2Wg) | 3:51 |
-| 51 | [Anywhere](https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:11 |
-| 52 | [I Can't Wait Anymore](https://open.spotify.com/track/2mhZCXKVCX39DAoRsAiSTn) | [Sarah Blasko](https://open.spotify.com/artist/75jU2q0uEWzSIlqRJtedJV) | [I Can't Wait Anymore](https://open.spotify.com/album/3yAvj1ZvpxqkqeoFfvMDE9) | 4:09 |
-| 53 | [Kāhore He Manu E](https://open.spotify.com/track/41m7XS3swYTSZDR1rbfP8T) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Kāhore He Manu E](https://open.spotify.com/album/3faF34VLFPLjbJqfhknVDB) | 2:21 |
+| 51 | [Kāhore He Manu E](https://open.spotify.com/track/41m7XS3swYTSZDR1rbfP8T) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Kāhore He Manu E](https://open.spotify.com/album/3faF34VLFPLjbJqfhknVDB) | 2:21 |
+| 52 | [Anywhere](https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:11 |
+| 53 | [I Can't Wait Anymore](https://open.spotify.com/track/2mhZCXKVCX39DAoRsAiSTn) | [Sarah Blasko](https://open.spotify.com/artist/75jU2q0uEWzSIlqRJtedJV) | [I Can't Wait Anymore](https://open.spotify.com/album/3yAvj1ZvpxqkqeoFfvMDE9) | 4:09 |
 | 54 | [Face in the Crowd](https://open.spotify.com/track/0V9QY6NnXtAMwjltgMP0pl) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Face in the Crowd](https://open.spotify.com/album/5e811Cmtlnt225AQO1tIiu) | 3:24 |
 | 55 | [Smoking Lessons](https://open.spotify.com/track/52zlr5j372qsgHhmvrni4w) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Introverted Extrovert](https://open.spotify.com/album/0LlRW4Z7dQfUodtABNh9Zk) | 2:59 |
 | 56 | [Watching TV](https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Watching TV](https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD) | 2:40 |

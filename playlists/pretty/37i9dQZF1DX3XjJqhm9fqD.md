@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Rutshelle, John Legend and Michaël Brun
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,071 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,088 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 65 | [Thug Love](https://open.spotify.com/track/37PRqXgbusYfrUitGoVsKP) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Thug Love](https://open.spotify.com/album/01syB7Sv7P91d6OBnNjLm5) | 3:08 |
 | 66 | [Sal Vle](https://open.spotify.com/track/1fGEwTxAB5Q4bgtPQL47rm) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Mozart Louis](https://open.spotify.com/artist/1IgFh9pBdbDBFgaSn91oul) | [Kelly Krow](https://open.spotify.com/album/3EYeR8N7uxBO83LZxaqAXk) | 4:30 |
 | 67 | [New York City](https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi) | [Tabou Combo](https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh) | [Anthology, Vol\. IV](https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey) | 8:46 |
-| 68 | [Destine](https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7) | [Fatima Altieri](https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk), [Jmd Tunes](https://open.spotify.com/artist/0W43bPKlWhooocqSrhzTXj) | [Destine](https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2) | 3:31 |
+| 68 | [Way Too Nice](https://open.spotify.com/track/2l18jyrGuwoxS60DS5DzBR) | [Eyo\-E](https://open.spotify.com/artist/1fHqQb2xk144TtZxVGuULB) | [Way Too Nice](https://open.spotify.com/album/2L8L8ttHiZrH5ry8l6Ii65) | 2:05 |
 | 69 | [Flanm](https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ) | [Emeline Michel](https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r) | [The Very Best](https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb) | 4:46 |
-| 70 | [Way Too Nice](https://open.spotify.com/track/2l18jyrGuwoxS60DS5DzBR) | [Eyo\-E](https://open.spotify.com/artist/1fHqQb2xk144TtZxVGuULB) | [Way Too Nice](https://open.spotify.com/album/2L8L8ttHiZrH5ry8l6Ii65) | 2:05 |
+| 70 | [Destine](https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7) | [Fatima Altieri](https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk), [Jmd Tunes](https://open.spotify.com/artist/0W43bPKlWhooocqSrhzTXj) | [Destine](https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2) | 3:31 |
 | 71 | [Mennaj Moun Yo](https://open.spotify.com/track/2A8s6nWnUmtNmnMf08AW9K) | [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo) | [Mennaj Moun Yo](https://open.spotify.com/album/3v8j1bo9AMXzzc5LtHhUt7) | 3:08 |
 | 72 | [Imamou Lele](https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c) | [Boukman Eksperyans](https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp) | [Revolution](https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv) | 1:42 |
 | 73 | [Bal Tout](https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Bal Tout](https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn) | 3:11 |
@@ -101,9 +101,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 91 | [Tou Limen](https://open.spotify.com/track/5aAS1IwdIIdIF09CTioY0z) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Boss](https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov) | 3:47 |
 | 92 | [Na Va Wè Yo](https://open.spotify.com/track/1aEHivhKcjk3DHig271xzA) | [ManitoNation](https://open.spotify.com/artist/1QkGRbRqamey07IpztT9v3), [Paul Beaubrun](https://open.spotify.com/artist/0iP0A87vUxBPLi7Wdrjeot), [Kabysh](https://open.spotify.com/artist/3RW8JTuMBokuKGDPZ1xDWD) | [Trip Tropikal](https://open.spotify.com/album/6ZzjN4s7XnjEbl75AsKFcn) | 4:12 |
 | 93 | [Plenyen Player Yo](https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z) | [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio) | [Plenyen Player Yo](https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G) | 3:46 |
-| 94 | [Twa Fey](https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3) | [Riva Nyri Precil](https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0) | [Perle De Culture](https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v) | 4:25 |
-| 95 | [Can't Catch Me](https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C) | [Jessie Woo](https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL) | [Can't Catch Me](https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK) | 3:49 |
-| 96 | [Mpral Dòmi Nan Simityè](https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey) | [RAM](https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl) | [Ram 6: Manmanm Se Ginen](https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24) | 3:03 |
+| 94 | [Mpral Dòmi Nan Simityè](https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey) | [RAM](https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl) | [Ram 6: Manmanm Se Ginen](https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24) | 3:03 |
+| 95 | [Twa Fey](https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3) | [Riva Nyri Precil](https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0) | [Perle De Culture](https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v) | 4:25 |
+| 96 | [Can't Catch Me](https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C) | [Jessie Woo](https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL) | [Can't Catch Me](https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK) | 3:49 |
 | 97 | [Wine Pon Me \- Remix](https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS) | [J\. Sevad](https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3), [Spectrum the Originator](https://open.spotify.com/artist/0XfL2K0709iL1VEEbjCIBm) | [Flavors](https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo) | 2:46 |
 | 98 | [Te revoir](https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0) | [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Te revoir](https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc) | 3:25 |
 | 99 | [U.F.O.](https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc) | [Freedom](https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd), [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [U.F.O.](https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu) | 3:30 |

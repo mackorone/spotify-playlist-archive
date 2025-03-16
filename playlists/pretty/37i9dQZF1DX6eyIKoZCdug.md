@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,947 likes - 59 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,977 likes - 59 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bakulindele \(feat\. Muzi\) \- Extended Mix](https://open.spotify.com/track/5AoaeWtWGTTICPhMbiUFBF) | [Charles Webster](https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh), [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [Bakulindele \(feat\. Muzi\)](https://open.spotify.com/album/5gfX6L9OMQd3AuLqnEbV8s) | 6:58 |
+| 1 | [Bakulindele \- Extended Mix](https://open.spotify.com/track/5AoaeWtWGTTICPhMbiUFBF) | [Charles Webster](https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh), [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [Bakulindele](https://open.spotify.com/album/5gfX6L9OMQd3AuLqnEbV8s) | 6:58 |
 | 2 | [Pilgrimage to the Homeland](https://open.spotify.com/track/7836kZZp5LKsq4QMaJ4lrx) | [Z.E.N](https://open.spotify.com/artist/1e0U1rJZOxccXqF6oCyZT4) | [Parable EP](https://open.spotify.com/album/3AwDiF3MPo06RVZgUiscE9) | 7:05 |
 | 3 | [Replay](https://open.spotify.com/track/5EJGNjrRsfgwgFj7hvf7fR) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ), [Bobbi Fallon](https://open.spotify.com/artist/2iGBTGNxBGp36zT37zvpHB) | [Replay](https://open.spotify.com/album/7oY5Xy6be2R9efmDVoCnvi) | 3:33 |
 | 4 | [Sowa Pt\. 2](https://open.spotify.com/track/6ijHaB3JQaQzNctgZcqnbz) | [Mo Laudi](https://open.spotify.com/artist/3jWjZtXKLucI8YSgshXJhW), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Sowa Pt\. 2](https://open.spotify.com/album/7JRrvfLoXEIccCWXOwbphx) | 3:38 |

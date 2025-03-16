@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,349 likes - 69 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,425 likes - 69 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 31 | [No One Is Ever Going to Want Me](https://open.spotify.com/track/4McullpiOd45TwEHlOISgs) | [Giles Corey](https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv) | [Giles Corey](https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu) | 8:06 |
 | 32 | [Warmth of You](https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 3:33 |
 | 33 | [The Eternal \- 2007 Remaster](https://open.spotify.com/track/7rLB8H9GIzlxgXxXVqQltR) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Closer \(Collector's Edition\)](https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko) | 6:04 |
-| 34 | [Helpless Child](https://open.spotify.com/track/7jEfLF7XLMzBNj9w1PBmCq) | [Swans](https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA) | [Soundtracks for the Blind](https://open.spotify.com/album/7yV8WpwCChvzW3qr5MuzMf) | 15:47 |
+| 34 | [Breathing \- Short Mix](https://open.spotify.com/track/5cneBSnvxKVhdDErX3TWWp) | [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Mario Hammer And The Lonely Robot](https://open.spotify.com/artist/1inotkeSInj9u2UUeENFH5) | [Breathing \(Short Mix\)](https://open.spotify.com/album/10HmA4JcZrUufXF8zouONL) | 4:36 |
 | 35 | [Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:53 |
 | 36 | [Words](https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 5:48 |
 | 37 | [\(Something\)](https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 2:30 |
 | 38 | [I'm Going to Do It](https://open.spotify.com/track/6pS0PVQYaBYGkKPRxT5PEl) | [Giles Corey](https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv) | [Giles Corey](https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu) | 6:16 |
-| 39 | [Breathing \- Short Mix](https://open.spotify.com/track/5cneBSnvxKVhdDErX3TWWp) | [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Mario Hammer And The Lonely Robot](https://open.spotify.com/artist/1inotkeSInj9u2UUeENFH5) | [Breathing \(Short Mix\)](https://open.spotify.com/album/10HmA4JcZrUufXF8zouONL) | 4:36 |
+| 39 | [Helpless Child](https://open.spotify.com/track/7jEfLF7XLMzBNj9w1PBmCq) | [Swans](https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA) | [Soundtracks for the Blind](https://open.spotify.com/album/7yV8WpwCChvzW3qr5MuzMf) | 15:47 |
 | 40 | [a mother's daughter](https://open.spotify.com/track/5J0vNzIHn2ruZ8wPEAfdPN) | [Mieke](https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4) | [a mother's daughter](https://open.spotify.com/album/4fpCCi45NumQGmKMBSIWsS) | 2:48 |
 | 41 | [A Place To Sleep](https://open.spotify.com/track/3IRjaJfl3lNubGbRGXL7et) | [air hunger](https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0) | [A Place To Sleep](https://open.spotify.com/album/7wfuhwQqnIm5ojXsAxfV48) | 6:38 |
 | 42 | [Full Moon](https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1) | [Tomasz Mreńca](https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX), [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [Full Moon](https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN) | 4:22 |

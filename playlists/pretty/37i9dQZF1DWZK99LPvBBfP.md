@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 
 > Club classics from the homeland of dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,966 likes - 80 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,094 likes - 80 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 56 | [Higher Than the Sun \- Higher Than the Orb Mix](https://open.spotify.com/track/23UR03W03HWH1HFcF4rz9Z) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc) | 3:36 |
 | 57 | [That's the Way Love Is \- Underground Mix; Edit](https://open.spotify.com/track/5eFCFpmDbqGqpdOVE9CXCh) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi) | [Foundation](https://open.spotify.com/album/3ogZnk3kh6WOdJi8v1W0fH) | 4:15 |
 | 58 | [Adiós ayer](https://open.spotify.com/track/3inZkpVlyHfLoxwuyu2GYW) | [José Padilla](https://open.spotify.com/artist/7rDHusYGKfhI7ZNIGeUibU) | [Navigator\. 15th Anniversary Edition](https://open.spotify.com/album/6SeGjJ8MSAoYw44wcXsesp) | 5:02 |
-| 59 | [Canoa](https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx) | [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Canoa](https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt) | 9:06 |
-| 60 | [Alone \- Paradise](https://open.spotify.com/track/2kZdKCN82ds6hIhBRtmHox) | [Don Carlos](https://open.spotify.com/artist/5WF9UkgNk1JGU2C76UayUq) | [Mediterraneo \(Club Favourites Collection '90/98\)](https://open.spotify.com/album/0IypwuzkXm0mIhY3ZHEn9s) | 6:46 |
+| 59 | [Alone \- Paradise](https://open.spotify.com/track/2kZdKCN82ds6hIhBRtmHox) | [Don Carlos](https://open.spotify.com/artist/5WF9UkgNk1JGU2C76UayUq) | [Mediterraneo \(Club Favourites Collection '90/98\)](https://open.spotify.com/album/0IypwuzkXm0mIhY3ZHEn9s) | 6:46 |
+| 60 | [Canoa](https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx) | [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Canoa](https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt) | 9:06 |
 | 61 | [Mutual Feelin' \- Edit](https://open.spotify.com/track/05qsISHwuU9QGnce33vkpK) | [Somethin' Sanctified](https://open.spotify.com/artist/3y0q5tz9jmBCnqzPyLVzO0) | [Mutual Feelin' \(Edit\)](https://open.spotify.com/album/7tXpbm0az3GXSF9mTxni9O) | 3:46 |
 | 62 | [Big Love \- Eat Me Edit](https://open.spotify.com/track/2w6YlpVeyHazO6YcvpGxIS) | [Pete Heller](https://open.spotify.com/artist/5BiJE5QAwptqJobHRpBLFf) | [Big Love \(Eat Me Edit\)](https://open.spotify.com/album/1VANsPWsE1fU4Yo7X0QSxa) | 4:01 |
 | 63 | [Don't You Want Me \- Hooj Mix Edit](https://open.spotify.com/track/3zXRtN3UOtt197xbTxv1A1) | [Felix](https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk), [Rollo Armstrong](https://open.spotify.com/artist/6hFSukEzqXAkCIcXNnctZ4), [Red Jerry](https://open.spotify.com/artist/5TmU0aKScXjIZuJlHQcKaW) | [Essential \- The 90s](https://open.spotify.com/album/1suw2wSUQSR9ZJxL2xkh3e) | 3:07 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 70 | [Joy](https://open.spotify.com/track/2uMdRrbYYxOk2Hcqt1ZBL7) | [Moodymanc](https://open.spotify.com/artist/4aUxzq0r7O2RhqrHMc56BW) | [Joy](https://open.spotify.com/album/6szJjY0eocfiH3VeyFrSn9) | 9:16 |
 | 71 | [Pili Pili](https://open.spotify.com/track/5o63XXSCnte2qrXQfaFqLn) | [Jasper van't Hofs Pili Pili](https://open.spotify.com/artist/5SzgUF6HG0rix7dOgVzAFF) | [Post Scriptum](https://open.spotify.com/album/7uMOq45PDzQUNKVfmxjvtg) | 15:44 |
 | 72 | [The Jazz Man](https://open.spotify.com/track/0Mp7DjWV7Gz3t763KoJiW2) | [Moodswings](https://open.spotify.com/artist/1vG9q3GZ2xQug5Sut62kJI) | [Out of the Blue \(Compiled by Phil Mison\)](https://open.spotify.com/album/5mjArTowAXxILt35qOdfVS) | 5:36 |
-| 73 | [E Samba \- Club Mix](https://open.spotify.com/track/0piWS6CqL9AqUp62YmdhPV) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [Defected Presents House Masters \- Junior Jack](https://open.spotify.com/album/6R5BuoO5JiRKNM8N8OY4bw) | 7:13 |
+| 73 | [Nipple To The Bottle](https://open.spotify.com/track/6Xwx0eIvYiJPGBQwpoVcZq) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [The Masters Collection](https://open.spotify.com/album/28maj1N3DbhEHBC4jEROKx) | 5:56 |
 | 74 | [Camdino Soul](https://open.spotify.com/track/6jO4uy595sAigCrkKJIhdU) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf) | [Time For Change](https://open.spotify.com/album/2rBMhWTkBHdjWqpQkHbzI5) | 7:44 |
-| 75 | [Nipple To The Bottle](https://open.spotify.com/track/6Xwx0eIvYiJPGBQwpoVcZq) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [The Masters Collection](https://open.spotify.com/album/28maj1N3DbhEHBC4jEROKx) | 5:56 |
+| 75 | [E Samba \- Club Mix](https://open.spotify.com/track/0piWS6CqL9AqUp62YmdhPV) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [Defected Presents House Masters \- Junior Jack](https://open.spotify.com/album/6R5BuoO5JiRKNM8N8OY4bw) | 7:13 |
 | 76 | [The Rising Sun \- Danny Tenaglia Remix](https://open.spotify.com/track/1YnzvkqzoV8IN7D7VJT5q6) | [Heller & Farley](https://open.spotify.com/artist/56Tbaojr5VfDvHgray0kEd), [Danny Tenaglia](https://open.spotify.com/artist/2tG935baRE4mH8B3saiwbm) | [The Rising Sun](https://open.spotify.com/album/2pFVzm75oRseMAAhxWwVxg) | 10:07 |
 | 77 | [Lola's Theme \- Radio Edit](https://open.spotify.com/track/5mAh5J4w6BEZkajB1M7XrB) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP) | [Lola's Theme](https://open.spotify.com/album/0thmU9CS6evNvZSso54yCU) | 3:27 |
-| 78 | [Sueno Latino \- Paradise Version](https://open.spotify.com/track/0LsmbSRu39mBwEw4cTMpYW) | [Sueño Latino](https://open.spotify.com/artist/3E8tZZM4XEt5CBNcXDryTQ) | [Sueno Latino](https://open.spotify.com/album/4QTx2kmdAMu29VYZponTp7) | 10:34 |
+| 78 | [Porcelain](https://open.spotify.com/track/1hEh8Hc9lBAFWUghHBsCel) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play](https://open.spotify.com/album/1xB1tmm50ZhXwrNs89u7Jx) | 3:58 |
 | 79 | [My Boss \- Extended Remix](https://open.spotify.com/track/7jBqgmJj3XcyPq9OuL3bIB) | [Linda Di Franco](https://open.spotify.com/artist/7DslfczzwUOIbfmCiGmIgW) | [T.V\. Scene \(Sensurround Mix\)](https://open.spotify.com/album/5uPIx8188wcE4JsxGe4Kae) | 5:46 |
-| 80 | [Porcelain](https://open.spotify.com/track/1hEh8Hc9lBAFWUghHBsCel) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play](https://open.spotify.com/album/1xB1tmm50ZhXwrNs89u7Jx) | 3:58 |
+| 80 | [Sueno Latino \- Paradise Version](https://open.spotify.com/track/0LsmbSRu39mBwEw4cTMpYW) | [Sueño Latino](https://open.spotify.com/artist/3E8tZZM4XEt5CBNcXDryTQ) | [Sueno Latino](https://open.spotify.com/album/4QTx2kmdAMu29VYZponTp7) | 10:34 |
 
 Snapshot ID: `Zo/+iQAAAACRP7pwpF/gIsw0TTL/6pwP`

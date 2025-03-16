@@ -1,12 +1,12 @@
 {
   "description": "This is Bo Bundy. The essential tracks, all in one playlist.",
-  "num_followers": 1285,
+  "num_followers": 1286,
   "original_name": "This Is Bo Bundy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAACQ7+vLC2/eL86t65BJHOqV",
+  "snapshot_id": "Z9NxgAAAAADGbC23vKLLDDPm2WgbXamB",
   "tracks": [
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nino de Oro",
+        "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 109844,
+      "name": "RVD",
+      "url": "https://open.spotify.com/track/011I1gMWFeHO1dMaWamVdr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lonestar (Side A)",
         "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 124879,
       "name": "Pa los Hombres",
       "url": "https://open.spotify.com/track/0gFsz5GfIcGnO9eM4htJOS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nino de Oro",
-        "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 109844,
-      "name": "RVD",
-      "url": "https://open.spotify.com/track/011I1gMWFeHO1dMaWamVdr"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuerno De Chivo",
-        "url": "https://open.spotify.com/album/095rXozHEwtskDElFmJC2m"
-      },
-      "artists": [
-        {
-          "name": "Young Tapz",
-          "url": "https://open.spotify.com/artist/3Ufjh9B15yzmuUlv5m1x3y"
-        },
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 155376,
-      "name": "Cuerno De Chivo",
-      "url": "https://open.spotify.com/track/1x4gzzjvrJQYzzOFeCgXDG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bo Bundy On A Dirt Road",
         "url": "https://open.spotify.com/album/4b0ycCQXMVbdCbWKQXI2xR"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 144000,
       "name": "Bo Bundy On A Dirt Road",
       "url": "https://open.spotify.com/track/5pWflj63E3oq6BCIl8QJ2P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuerno De Chivo",
+        "url": "https://open.spotify.com/album/095rXozHEwtskDElFmJC2m"
+      },
+      "artists": [
+        {
+          "name": "Young Tapz",
+          "url": "https://open.spotify.com/artist/3Ufjh9B15yzmuUlv5m1x3y"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 155376,
+      "name": "Cuerno De Chivo",
+      "url": "https://open.spotify.com/track/1x4gzzjvrJQYzzOFeCgXDG"
     },
     {
       "added_at": null,
@@ -763,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Purple Files [Screwed Version]",
-        "url": "https://open.spotify.com/album/7LSXnSH9Wxob3yvooKRlc7"
-      },
-      "artists": [
-        {
-          "name": "HOODLUM",
-          "url": "https://open.spotify.com/artist/2tH2e9dYfRSD6pjLbcieGQ"
-        },
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 128782,
-      "name": "Made a 10 When I Woke Up [screwed version]",
-      "url": "https://open.spotify.com/track/6rap5jqI6kXreSfRrRUdT8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "E30",
         "url": "https://open.spotify.com/album/3wFy8XIYlQ3rVGL1g3PcAc"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 287973,
       "name": "Big Le$ter",
       "url": "https://open.spotify.com/track/5qGkr8pCLtW4BOvfOhamnB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Purple Files [Screwed Version]",
+        "url": "https://open.spotify.com/album/7LSXnSH9Wxob3yvooKRlc7"
+      },
+      "artists": [
+        {
+          "name": "HOODLUM",
+          "url": "https://open.spotify.com/artist/2tH2e9dYfRSD6pjLbcieGQ"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 128782,
+      "name": "Made a 10 When I Woke Up [screwed version]",
+      "url": "https://open.spotify.com/track/6rap5jqI6kXreSfRrRUdT8"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Devu\u00e9lveme a Mi Chica",
-        "url": "https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 188764,
-      "name": "Devu\u00e9lveme a Mi Chica",
-      "url": "https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nino de Oro",
         "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 256161,
       "name": "Slumped Freestyle",
       "url": "https://open.spotify.com/track/14JQQGwSxxhznG0OMfzNb0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Devu\u00e9lveme a Mi Chica",
+        "url": "https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "Devu\u00e9lveme a Mi Chica",
+      "url": "https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D"
     },
     {
       "added_at": null,

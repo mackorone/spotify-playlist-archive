@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35VK5frwUWn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/rjbarrett/">RJ Barrett</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,702 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,701 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35VK5frwUWn.md) - [plain]
 | 24 | [No Worries](https://open.spotify.com/track/6bdFbw9THAMceZtkPWXu8e) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Detail](https://open.spotify.com/artist/4sglKanXuoU0gqGYP3wiNv) | [I Am Not A Human Being II \(Deluxe\)](https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK) | 3:42 |
 | 25 | [Freddy Krueger \(feat\. Tee Grizzley\)](https://open.spotify.com/track/0hwkukpHcBJfGcIUxi1tK2) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Freddy Krueger \(feat\. Tee Grizzley\)](https://open.spotify.com/album/1RyJuFvHB1mIKGjynj533c) | 4:04 |
 | 26 | [Bubbly \(with Drake & Travis Scott\)](https://open.spotify.com/track/4KDNRh9Oor80z3XIxdWlui) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:45 |
-| 27 | [Ambition For Cash](https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Ambition For Cash](https://open.spotify.com/album/3lMWNCoEQzdbb9lSZa5gv9) | 2:23 |
-| 28 | [Foreva \(feat\. T.I.\)](https://open.spotify.com/track/23nOXuK95DPOiO62Ixgzza) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Rich Crack Baby](https://open.spotify.com/album/0c5QIo4MTyneCPZtXjr7BX) | 3:47 |
+| 27 | [Foreva \(feat\. T.I.\)](https://open.spotify.com/track/23nOXuK95DPOiO62Ixgzza) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Rich Crack Baby](https://open.spotify.com/album/0c5QIo4MTyneCPZtXjr7BX) | 3:47 |
+| 28 | [Ambition For Cash](https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Ambition For Cash](https://open.spotify.com/album/3lMWNCoEQzdbb9lSZa5gv9) | 2:23 |
 | 29 | [In A Minute](https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [In A Minute](https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco) | 3:20 |
 | 30 | [712PM](https://open.spotify.com/track/3FSwpQ9dBZBeBV6UdYHI2R) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 2:53 |
 | 31 | [Believe Me](https://open.spotify.com/track/6t2eIONH4Sax3R21QWiKNp) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Believe Me](https://open.spotify.com/album/7pnplSgRtopeTNyCxBJf4n) | 5:37 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35VK5frwUWn.md) - [plain]
 | 46 | [I Hate YoungBoy](https://open.spotify.com/track/3itijJswMR7p7RbfqlYf1Z) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Hate YoungBoy](https://open.spotify.com/album/1p1IFommrqqNjeNmnbl0Ao) | 4:21 |
 | 47 | [No Long Talk](https://open.spotify.com/track/6CfrYuD3YRDYdYvH9jNtXY) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 2:29 |
 | 48 | [P.I.M.P\. \- Snoop Dogg Remix](https://open.spotify.com/track/7D8gRgQ161fqXNOkcanJfa) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/0OfzVAXf5aVP4W4NIOLTKj) | 4:46 |
-| 49 | [Pimpin Ain't Eazy](https://open.spotify.com/track/5FxKZ4IajYIRDjAWAboiB4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pimpin' Ain't Eazy](https://open.spotify.com/album/5kltcGxaQ7kpkDx05qJlZ0) | 2:57 |
-| 50 | [Fuck It](https://open.spotify.com/track/50lOvJmUACTRJDxU62o5f6) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [King of Memphis](https://open.spotify.com/album/3HnNyOdm1T23RfhXl78CLt) | 3:30 |
+| 49 | [Fuck It](https://open.spotify.com/track/50lOvJmUACTRJDxU62o5f6) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [King of Memphis](https://open.spotify.com/album/3HnNyOdm1T23RfhXl78CLt) | 3:30 |
+| 50 | [Pimpin Ain't Eazy](https://open.spotify.com/track/5FxKZ4IajYIRDjAWAboiB4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pimpin' Ain't Eazy](https://open.spotify.com/album/5kltcGxaQ7kpkDx05qJlZ0) | 2:57 |
 
 Snapshot ID: `ZIsSZAAAAAAYkUaLRkysmC39qAtxmo7T`

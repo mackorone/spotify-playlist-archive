@@ -2581,6 +2581,24 @@
     },
     {
       "album": {
+        "name": "Lonesome Drifter",
+        "url": "https://open.spotify.com/album/64lDGn2XUSnXAncXh9Zzow"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198577,
+      "name": "Night Rider",
+      "url": "https://open.spotify.com/track/2ZAVci8nZRqLEWV60mogWV"
+    },
+    {
+      "album": {
         "name": "Fear and Saturday Night",
         "url": "https://open.spotify.com/album/6mf8iFx30NUcwRQ9TB0KO1"
       },
@@ -2906,7 +2924,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 155226,
       "name": "Satisfy Me",
       "url": "https://open.spotify.com/track/0OsGdYAv9kY6BxLlMg9622"

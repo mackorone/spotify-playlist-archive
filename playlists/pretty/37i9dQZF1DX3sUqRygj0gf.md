@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 
 > Warm acoustic covers of your favourite Christmas songs to get cozy, shop, wrap, cook or study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,103 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,102 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 | 16 | [Little Drummer Boy](https://open.spotify.com/track/6B6o0A7JkG2UfraR1V1nP2) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Little Drummer Boy](https://open.spotify.com/album/4HFh7LV7b9HhtfcRCklJ9z) | 2:51 |
 | 17 | [It's Christmas Once Again](https://open.spotify.com/track/3i3tBI9VHoQTU7SpTCvIKa) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [It's Christmas Once Again](https://open.spotify.com/album/3sBWTdjo4daMRXYjFGll31) | 3:00 |
 | 18 | [Old Time Christmas](https://open.spotify.com/track/5zIyymMc7mENbj2oRdJZsp) | [Palladinos](https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf) | [Old Time Christmas](https://open.spotify.com/album/400GevcjYjBmtOzCn6orRT) | 3:21 |
-| 19 | [O Little Town of Bethlehem](https://open.spotify.com/track/3o8hnh4QHvO1n7FtpZ1154) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [O Little Town of Bethlehem](https://open.spotify.com/album/6fD04UQuEKpf3xt92q0OYP) | 1:56 |
-| 20 | [Lonely This Christmas \- Acoustic](https://open.spotify.com/track/7ssh3PNGec8Q0F3RHuSki9) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Lonely This Christmas \(Acoustic\)](https://open.spotify.com/album/4rOT847XmxYe9LuTpea0Vt) | 2:50 |
+| 19 | [Lonely This Christmas \- Acoustic](https://open.spotify.com/track/7ssh3PNGec8Q0F3RHuSki9) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Lonely This Christmas \(Acoustic\)](https://open.spotify.com/album/4rOT847XmxYe9LuTpea0Vt) | 2:50 |
+| 20 | [O Little Town of Bethlehem](https://open.spotify.com/track/3o8hnh4QHvO1n7FtpZ1154) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [O Little Town of Bethlehem](https://open.spotify.com/album/6fD04UQuEKpf3xt92q0OYP) | 1:56 |
 | 21 | [Once In Royal David's City](https://open.spotify.com/track/4o9strKpeTHvt2ojETGPZf) | [The Mistrals](https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk) | [Once in Royal David's City](https://open.spotify.com/album/45URvI9CPhDETWSaMgyBDt) | 2:45 |
 | 22 | [Let It Be Christmas](https://open.spotify.com/track/1Q9f4fr5SaRPXjg8EaUcZ1) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Let It Be Christmas](https://open.spotify.com/album/0Si1rBa7WgB6kCb5aIG4jB) | 3:43 |
 | 23 | [Go Tell It On The Mountain](https://open.spotify.com/track/167NLVx6ZmZfIBe8GK3sSv) | [Praytell](https://open.spotify.com/artist/20QoRE4MEXGJpQwRktZ0LJ), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [It's Almost Christmas, Vol\. 3](https://open.spotify.com/album/48Ds43jzKqDa2IDAPPGBHN) | 3:11 |
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 | 25 | [Christmas For Cowboys](https://open.spotify.com/track/5qQSfrXlYeD7imnuwdFQHb) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [Christmas For Cowboys](https://open.spotify.com/album/4kXQizjEGZy2bIqBJUatO7) | 3:06 |
 | 26 | [Jingle Bells](https://open.spotify.com/track/2KRxlv5HnqTjgwdCPTvHMf) | [TWIN BEE](https://open.spotify.com/artist/7ojrDGf1QCVnNN3E0N5hKh) | [Jingle Bells](https://open.spotify.com/album/54ISUMSRupf0N5HNTrJDsk) | 3:10 |
 | 27 | [It Came Upon the Midnight Clear](https://open.spotify.com/track/0LIkmGyT1ztCTyB8cjpSxp) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [It Came Upon the Midnight Clear](https://open.spotify.com/album/16tTE4MqPmzFC9Xe7GxdTN) | 1:51 |
-| 28 | [Mary's Boy Child](https://open.spotify.com/track/2jC2rZIaQgX5omQTRzuuyx) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Mary's Boy Child](https://open.spotify.com/album/1N5IesmEO5VMlR2ONpybXI) | 1:57 |
-| 29 | [Maybe Next Christmas](https://open.spotify.com/track/4JYewrsUG5zpV0gTQ2DqJp) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [Maybe Next Christmas](https://open.spotify.com/album/5NaGbKAz6tToBAeK09bhpj) | 2:29 |
-| 30 | [Green Grows The Holly](https://open.spotify.com/track/3rmZq65IMXxP3jE2h0aIjJ) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Green Grows The Holly](https://open.spotify.com/album/66syYpRnwqFrK5EEiPOtYw) | 4:32 |
+| 28 | [Maybe Next Christmas](https://open.spotify.com/track/4JYewrsUG5zpV0gTQ2DqJp) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [Maybe Next Christmas](https://open.spotify.com/album/5NaGbKAz6tToBAeK09bhpj) | 2:29 |
+| 29 | [Green Grows The Holly](https://open.spotify.com/track/3rmZq65IMXxP3jE2h0aIjJ) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Green Grows The Holly](https://open.spotify.com/album/66syYpRnwqFrK5EEiPOtYw) | 4:32 |
+| 30 | [Mary's Boy Child](https://open.spotify.com/track/2jC2rZIaQgX5omQTRzuuyx) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Mary's Boy Child](https://open.spotify.com/album/1N5IesmEO5VMlR2ONpybXI) | 1:57 |
 | 31 | [Last Christmas](https://open.spotify.com/track/6bTev95WovVYs0JbQ8I6Vi) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Christmas Vol.2](https://open.spotify.com/album/70IoCLSMLnzQ5gaeABJ1qB) | 3:21 |
 | 32 | [My Grown\-Up Christmas List \- Acoustic](https://open.spotify.com/track/7ssaj3OghFAI8gMvTRbdak) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [My Grown\-Up Christmas List \(Acoustic\)](https://open.spotify.com/album/7DZUNrDWRLi5FF9Vf2qD7V) | 3:30 |
 | 33 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/6k4ay4fFySwUAIbfHnT4FK) | [Mark Jacobsen](https://open.spotify.com/artist/5KxXsQXx6s5DeW4oUaiqBR) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/1nfSsAZndSGQM4pMXV5qEV) | 2:55 |

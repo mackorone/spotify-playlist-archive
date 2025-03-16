@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R?si=1JdXJhwPRn6r7BYJHS84DQ">Hendré Baard</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,517 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,538 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 6 | [Push Me to the Floor](https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx) | [The Parlotones](https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs) | [Stardust Galaxies](https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro) | 4:11 |
 | 7 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
 | 8 | [Ware Noord](https://open.spotify.com/track/0Q5EE4R2qjXN0DBARGGxUk) | [Elvis Blue](https://open.spotify.com/artist/66TsrRnVkNfvLgLemHCLaJ) | [Ware Noord](https://open.spotify.com/album/1BGCuXGsGwL6f2QjhpwnO2) | 3:36 |
-| 9 | [Die Kortste Hier](https://open.spotify.com/track/5xO82P7iaRC0LoUc2pz21l) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Die Kortste Hier](https://open.spotify.com/album/7bQzKeNQdvwiiPmOh4yAo8) | 2:51 |
-| 10 | [Victor Ludorum](https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Victor Ludorum](https://open.spotify.com/album/53bANzS97yzookNh9mNnm3) | 3:09 |
+| 9 | [Victor Ludorum](https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Victor Ludorum](https://open.spotify.com/album/53bANzS97yzookNh9mNnm3) | 3:09 |
+| 10 | [Die Kortste Hier](https://open.spotify.com/track/5xO82P7iaRC0LoUc2pz21l) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Die Kortste Hier](https://open.spotify.com/album/7bQzKeNQdvwiiPmOh4yAo8) | 2:51 |
 | 11 | [Dying Heart](https://open.spotify.com/track/42o2rWzk14XNXKoC0DSupy) | [The Narrow](https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3) | [Dying Heart](https://open.spotify.com/album/1OtNfnjlpWjq1JOpoFWBAT) | 3:24 |
 | 12 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
 | 13 | [Loopdop](https://open.spotify.com/track/3HBDVe4cy78xRREk0HMb6r) | [MJ Nel](https://open.spotify.com/artist/0f26xBbgdKK8R4sD6vFO4A), [Ou Tekkies](https://open.spotify.com/artist/2uUXZoTBe7AQhZ9kVAaPOb) | [Loopdop](https://open.spotify.com/album/3JFCqg5ukbSwDetRqzIsmg) | 3:33 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 43 | [Lose Somebody \- Cover](https://open.spotify.com/track/3GLZidQawm1VUnuAgujRZF) | [Fountain of Solace](https://open.spotify.com/artist/30gtKdC6X6add6Q52SqBNz) | [Lose Somebody \(Cover\)](https://open.spotify.com/album/15VyLqc1PVNGdGHG0FHbJt) | 3:17 |
 | 44 | [Africa](https://open.spotify.com/track/2TceGONzzKH5mskSzoTpfA) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [Rewind](https://open.spotify.com/album/3MWLY2HOD6zSdw7AQTDRzF) | 3:27 |
 | 45 | [Back in the Day](https://open.spotify.com/track/0b8XiWav4wIZClvoxC2ptM) | [Nina Brand](https://open.spotify.com/artist/52xuRtfsFW0C8aBeDjc86a) | [Back in the Day](https://open.spotify.com/album/7CoECeuiiMHAxmV2W7vuM2) | 3:19 |
-| 46 | [Ten Seconds](https://open.spotify.com/track/7D9KPaGWVYgKVICbKaBsoi) | [Cutting Jade](https://open.spotify.com/artist/22MjeBWM1RMBsMKMYl3aSr) | [Between Two Lives](https://open.spotify.com/album/48QZU5VRCZTlFDstYCT8eJ) | 3:32 |
-| 47 | [Besete](https://open.spotify.com/track/6wXMpyH6tULngBV4WCxLxk) | [Van Der Aven](https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e) | [Besete](https://open.spotify.com/album/2MfLAD4mUzD9wxR6y0B2bA) | 3:50 |
-| 48 | [Pick Your Poison](https://open.spotify.com/track/58CmgjHD81STQJjKBT8m9y) | [The Parlotones](https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs) | [Forgotten Songs E.P\. 3 – Raw and Unheard](https://open.spotify.com/album/4J8WyZxxY1lqxyV6IaYb3c) | 3:15 |
-| 49 | [U Wanna?](https://open.spotify.com/track/7BPTBvp60w8GUxtl60uhxY) | [Coasters](https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep) | [U Wanna?](https://open.spotify.com/album/5riz13sY3X0edT7ayWp86g) | 3:48 |
+| 46 | [Pick Your Poison](https://open.spotify.com/track/58CmgjHD81STQJjKBT8m9y) | [The Parlotones](https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs) | [Forgotten Songs E.P\. 3 – Raw and Unheard](https://open.spotify.com/album/4J8WyZxxY1lqxyV6IaYb3c) | 3:15 |
+| 47 | [Ten Seconds](https://open.spotify.com/track/7D9KPaGWVYgKVICbKaBsoi) | [Cutting Jade](https://open.spotify.com/artist/22MjeBWM1RMBsMKMYl3aSr) | [Between Two Lives](https://open.spotify.com/album/48QZU5VRCZTlFDstYCT8eJ) | 3:32 |
+| 48 | [Burning For You](https://open.spotify.com/track/1alUZS10M2GGYcJiF9cSv2) | [So Kindly](https://open.spotify.com/artist/6fUX9WpmjfZ6brQClEEuWN) | [Burning For You](https://open.spotify.com/album/1H8LTaqQEooW3kxq46koJY) | 3:52 |
+| 49 | [Besete](https://open.spotify.com/track/6wXMpyH6tULngBV4WCxLxk) | [Van Der Aven](https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e) | [Besete](https://open.spotify.com/album/2MfLAD4mUzD9wxR6y0B2bA) | 3:50 |
 | 50 | [Hey Mister](https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8) | [Henry Ate](https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn) | [96\-03 The Singles](https://open.spotify.com/album/5bYKIrlRp4F2CIVcG9MgyO) | 3:13 |
 
 Snapshot ID: `Z9PMmQAAAADT2ij0wWdDY1jI7XPmXDA3`

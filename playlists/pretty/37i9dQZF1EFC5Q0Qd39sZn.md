@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,540 likes - 572 songs - 1 day 15 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,545 likes - 572 songs - 1 day 15 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,8 +219,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 209 | [Don't Lose Any Sleep](https://open.spotify.com/track/3LBp8KAovHdlBbseS5bvIF) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Greatest Hits \(Ten Years And Change 1979\-1991\)](https://open.spotify.com/album/0qRvb8w1YuZhBrhELRFPBK) | 4:20 |
 | 210 | [I Hear Your Voice](https://open.spotify.com/track/5kcdhV63UOtO2CCj59olOC) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Time](https://open.spotify.com/album/4o5S5EwZLGCIvWOaWonhkA) | 4:00 |
 | 211 | [Real Emotion](https://open.spotify.com/track/5bFt9A14TrFu1FQqQskzSl) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:25 |
-| 212 | [Breaking Apart](https://open.spotify.com/track/2ULBctUchzxFohl7MIcpiT) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Mr\. Lucky](https://open.spotify.com/album/1TNJ50y0CNOrsMTzEsYzyc) | 3:39 |
-| 213 | [I Don't Want to Be Your Friend](https://open.spotify.com/track/6XIgcKoXQbJEr6E8EikAyC) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [A Night To Remember](https://open.spotify.com/album/3wegC2LXYCQknfUuOYBwmz) | 4:21 |
+| 212 | [I Don't Want to Be Your Friend](https://open.spotify.com/track/6XIgcKoXQbJEr6E8EikAyC) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [A Night To Remember](https://open.spotify.com/album/3wegC2LXYCQknfUuOYBwmz) | 4:21 |
+| 213 | [Breaking Apart](https://open.spotify.com/track/2ULBctUchzxFohl7MIcpiT) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Mr\. Lucky](https://open.spotify.com/album/1TNJ50y0CNOrsMTzEsYzyc) | 3:39 |
 | 214 | [Does Anybody Really Fall in Love Anymore](https://open.spotify.com/track/0kKIjuEgtE5J930ugt5iJd) | [Kane Roberts](https://open.spotify.com/artist/12FdDK5z7grZIamaG6xTUK) | [Saints and Sinners](https://open.spotify.com/album/5bP6uh6TmVYOI6kVmDc7cz) | 4:25 |
 | 215 | [Come On Down](https://open.spotify.com/track/4HetWr51uag7ayWoZAX9d4) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/04LFXnEBkVE6mZfxGeCLbM) | 4:17 |
 | 216 | [Too Gone, Too Long](https://open.spotify.com/track/2IOjsucrORGHHlqIlF3OAF) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [EV3](https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN) | 4:42 |
@@ -309,8 +309,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 299 | [I See You In A Different Light](https://open.spotify.com/track/3ZJSit2Z7fKbtHnNA1Fnqv) | [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo), [Joel Hailey](https://open.spotify.com/artist/6AnUMBsjIzJ5PPXEqE3d0v) | [This Moment Is Mine](https://open.spotify.com/album/3tkdUlOR0x8lYElhaQUUbb) | 4:22 |
 | 300 | [Can't Fight the Moonlight](https://open.spotify.com/track/7iuY9uWlsTkdkuDjB4QRaJ) | [Country Nights](https://open.spotify.com/artist/1kjgbOuH2GDI8IrnCnFDRh) | [Classic Country Songs from the Movies Vol\. 2](https://open.spotify.com/album/3EoxMCFhNjRfit8MA4gXdr) | 3:36 |
 | 301 | [Numb \- 2017 Remaster](https://open.spotify.com/track/5bpFQj1Ceojaba0btoDTFw) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Fundamental: Further Listening 2005 \- 2007 \(2017 Remaster\)](https://open.spotify.com/album/4ZFuSmSto4VKVZ4glzep3j) | 4:43 |
-| 302 | [Don't Make Me Live Without You](https://open.spotify.com/track/4QamiGJ7vPuJvBCeCQgRMx) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [My Promise](https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ) | 4:00 |
-| 303 | [One Night With You \(Everyday of Your Life\)](https://open.spotify.com/track/1h22k2vpmDHIw1ZT0vee4c) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [One Night With You: The Best Of Love, Volume 2](https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB) | 4:24 |
+| 302 | [One Night With You \(Everyday of Your Life\)](https://open.spotify.com/track/1h22k2vpmDHIw1ZT0vee4c) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [One Night With You: The Best Of Love, Volume 2](https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB) | 4:24 |
+| 303 | [Don't Make Me Live Without You](https://open.spotify.com/track/4QamiGJ7vPuJvBCeCQgRMx) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [My Promise](https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ) | 4:00 |
 | 304 | [Cruel Nights](https://open.spotify.com/track/7oUxPHvb894AdTQTxIUGZm) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Brigade](https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m) | 4:04 |
 | 305 | [You Don't Have The Right](https://open.spotify.com/track/2VW7tqIuyIEUQ2fsq7Z8ji) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Living For The Weekend \(Deluxe Edition\)](https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ) | 3:43 |
 | 306 | [When Lovers Become Strangers](https://open.spotify.com/track/1CL3jh4Effnc19ZhQ5x8HL) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Love Hurts](https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW) | 4:46 |
@@ -364,8 +364,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 354 | [The Day I Stop Loving You](https://open.spotify.com/track/38uNbRy3dodbNYx78I0Tuu) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Evolution](https://open.spotify.com/album/6lFqMVJY7wWl1WLRmSYoug) | 5:02 |
 | 355 | [Never Gonna Break My Heart Again](https://open.spotify.com/track/7BEg23J2vdnoAbQ46styWQ) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [Deborah Cox \(Expanded\)](https://open.spotify.com/album/2SM60rNc5lbJXIxe7Ru4Xd) | 4:10 |
 | 356 | [\(I Wanna\) Feel Too Much](https://open.spotify.com/track/2FBP6usEyBWvc8P0029cjY) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Calm After ...](https://open.spotify.com/album/05Hh10LRqvS2SYOq5tzRTt) | 4:03 |
-| 357 | [Ordinary Day](https://open.spotify.com/track/0SAOnCMebI87Oy3xUBHaGS) | [Nick Lachey](https://open.spotify.com/artist/6ewMqjrF31lC8ywRsvm073) | [Ordinary Day](https://open.spotify.com/album/4Th3TOP5u65gHpVl8GLnJU) | 3:27 |
-| 358 | [Safe Place From The Storm \- Radio Mix](https://open.spotify.com/track/783pbFxtjCh946QCVr75iw) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Jon Gass](https://open.spotify.com/artist/7fkqSrrXRdljTJMdEjqlNQ) | [All That Matters](https://open.spotify.com/album/7IkFQ66wAlgoNTAKUyRXcw) | 5:20 |
+| 357 | [Safe Place From The Storm \- Radio Mix](https://open.spotify.com/track/783pbFxtjCh946QCVr75iw) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Jon Gass](https://open.spotify.com/artist/7fkqSrrXRdljTJMdEjqlNQ) | [All That Matters](https://open.spotify.com/album/7IkFQ66wAlgoNTAKUyRXcw) | 5:20 |
+| 358 | [Ordinary Day](https://open.spotify.com/track/0SAOnCMebI87Oy3xUBHaGS) | [Nick Lachey](https://open.spotify.com/artist/6ewMqjrF31lC8ywRsvm073) | [Ordinary Day](https://open.spotify.com/album/4Th3TOP5u65gHpVl8GLnJU) | 3:27 |
 | 359 | [Be A Little Easy On Me](https://open.spotify.com/track/07zlBVvt93kIiImzcaxju3) | [Charles & Eddie](https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD) | [Duophonic](https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA) | 5:09 |
 | 360 | [I Was Here](https://open.spotify.com/track/3FG4rxlmFJVzssS2NpQuZf) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [I Owe It All To You](https://open.spotify.com/album/6pwYoX2L9qT1YsiR08oeya) | 4:00 |
 | 361 | [I Couldn't Do That to Me](https://open.spotify.com/track/2nQqNWe3dNbKtLqWvuujh9) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Remnants \(Deluxe\)](https://open.spotify.com/album/1UGfwqUrXkfomZsxqfAjMY) | 4:27 |
@@ -581,4 +581,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 571 | [I'm Getting Used to You](https://open.spotify.com/track/4EM9yHufAESQ8eYSJy1rv1) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Dreaming of You](https://open.spotify.com/album/0OLKaGwn8zKJhrxHkUP6mR) | 4:05 |
 | 572 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 
-Snapshot ID: `AbsD9AAAAAAaB5GyKyajUtOLObEbxLZH`
+Snapshot ID: `AbsJlAAAAAD/76X+BfHeVf0zTUw6zHI+`

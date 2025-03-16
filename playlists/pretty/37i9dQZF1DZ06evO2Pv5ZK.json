@@ -1,12 +1,12 @@
 {
   "description": "This is Vangelis. The essential tracks, all in one playlist.",
-  "num_followers": 108299,
+  "num_followers": 108315,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAADN9INNkSfUcU9K/cioQWN8",
+  "snapshot_id": "Z9NxgAAAAACKhpQ7bDoTpKTYkQjtimFR",
   "tracks": [
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 314333,
-      "name": "Twenty Eighth Parallel",
-      "url": "https://open.spotify.com/track/15I4SzvLAI1mguGr9mgIUq"
+      "duration_ms": 226760,
+      "name": "Light and Shadow",
+      "url": "https://open.spotify.com/track/7Imvh030lE3llIlUIC4Nr9"
     },
     {
       "added_at": null,
@@ -216,15 +216,15 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 226760,
-      "name": "Light and Shadow",
-      "url": "https://open.spotify.com/track/7Imvh030lE3llIlUIC4Nr9"
+      "duration_ms": 314333,
+      "name": "Twenty Eighth Parallel",
+      "url": "https://open.spotify.com/track/15I4SzvLAI1mguGr9mgIUq"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Antarctica (Remastered)",
-        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
+        "name": "China",
+        "url": "https://open.spotify.com/album/0GPvraFrPjbXzY0H3fcudk"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 445613,
-      "name": "Theme From Antarctica - Remastered",
-      "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
+      "duration_ms": 164066,
+      "name": "The Tao Of Love",
+      "url": "https://open.spotify.com/track/1pbqHRbjsZPqXx0XiDLstV"
     },
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "China",
-        "url": "https://open.spotify.com/album/0GPvraFrPjbXzY0H3fcudk"
+        "name": "Antarctica (Remastered)",
+        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 164066,
-      "name": "The Tao Of Love",
-      "url": "https://open.spotify.com/track/1pbqHRbjsZPqXx0XiDLstV"
+      "duration_ms": 445613,
+      "name": "Theme From Antarctica - Remastered",
+      "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alexander (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Titans",
+      "url": "https://open.spotify.com/track/0VXRPy0D20PsuV35XIiJ1j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rosetta",
         "url": "https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 127106,
       "name": "In the magic of Cosmos",
       "url": "https://open.spotify.com/track/6l6eGJDCe2d0sEsgJNi2cU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alexander (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 239133,
-      "name": "Titans",
-      "url": "https://open.spotify.com/track/0VXRPy0D20PsuV35XIiJ1j"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosetta",
-        "url": "https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix"
+        "name": "Alexander (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 151408,
-      "name": "Celestial Whispers",
-      "url": "https://open.spotify.com/track/21TaTdMjtqEYQag9OWyloc"
+      "duration_ms": 95666,
+      "name": "Young Alexander",
+      "url": "https://open.spotify.com/track/4VoqLzKRCYB7Sd1ZOlpNzK"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alexander (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
+        "name": "Rosetta",
+        "url": "https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 95666,
-      "name": "Young Alexander",
-      "url": "https://open.spotify.com/track/4VoqLzKRCYB7Sd1ZOlpNzK"
+      "duration_ms": 151408,
+      "name": "Celestial Whispers",
+      "url": "https://open.spotify.com/track/21TaTdMjtqEYQag9OWyloc"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 
 > Aficionades que viven la intensidad de botanear ⚽️🌮🍻
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,014 likes - 90 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,038 likes - 90 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

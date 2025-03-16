@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Descer e os funks mais 🔑 do Brasil\. Foto: Kew, DJ LK da Escócia
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,512,980 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,513,856 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

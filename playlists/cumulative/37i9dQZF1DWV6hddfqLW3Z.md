@@ -4,7 +4,7 @@
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-188 songs - 11 hr 21 min
+189 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Mentiras \- Ao Vivo](https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Mentiras \(Ao Vivo\)](https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf) | 2:58 | 2025-02-07 |  |
 | [Meu Abrigo](https://open.spotify.com/track/5U28PY9MekLyCBYtLHGQpe) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 3:51 | 2022-08-19 | 2024-04-19 |
 | [Meu Esquema](https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3) | [Mundo Livre S/A](https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC) | [Por Pouco \(Bit Box\)](https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC) | 4:19 | 2022-08-19 |  |
-| [Mexeu comigo](https://open.spotify.com/track/7A8N1poNHW8yHXWIbLD5rL) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [iCollection](https://open.spotify.com/album/5RmJn59FZ0cGwGM6MqcgGg) | 3:34 | 2024-04-05 |  |
+| [Mexeu comigo](https://open.spotify.com/track/7A8N1poNHW8yHXWIbLD5rL) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [iCollection](https://open.spotify.com/album/5RmJn59FZ0cGwGM6MqcgGg) | 3:34 | 2024-04-05 | 2025-03-16 |
 | [Minha Felicidade](https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Minha Felicidade](https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5) | 3:37 | 2022-08-19 |  |
 | [Morro Dois Irmãos](https://open.spotify.com/track/0KFRKD16R8XL619JkEh241) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Morro Dois Irmãos](https://open.spotify.com/album/1r4A8xRMz97ApNkOg8rD16) | 4:19 | 2023-06-02 | 2023-06-17 |
 | [Moço](https://open.spotify.com/track/547mtUkBn129AOO8hc0xBE) | [Alaíde Costa](https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs) | [Moço](https://open.spotify.com/album/1jkJEFhHM2zjCT9QFDpiXs) | 4:27 | 2023-06-02 | 2023-06-17 |
@@ -184,6 +184,7 @@
 | [Velha Infância \- 2004 Digital Remaster](https://open.spotify.com/track/1mSxbLW7fKABfeY4lGpg0E) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas](https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1) | 4:10 | 2022-08-19 | 2024-04-19 |
 | [Vem conversar](https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Flora \- EP](https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3) | 2:38 | 2024-03-08 |  |
 | [Vento](https://open.spotify.com/track/6VQ5R3OQeQjwEwxPPlkNMi) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Vento](https://open.spotify.com/album/5bbVhxfRTR1e1Ps0XYOWkK) | 2:52 | 2024-04-26 |  |
+| [Vento Ventania](https://open.spotify.com/track/1qXIWVsx63zw4ACCZxNAfi) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Vento Ventania](https://open.spotify.com/album/29Z0AoN1FemSBs8rRElGHv) | 3:25 | 2025-03-07 |  |
 | [Vilarejo \- Ao Vivo](https://open.spotify.com/track/3E3jroGWmeblwYhW6YJvoK) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas Ao Vivo](https://open.spotify.com/album/5cnwEGGZCmPx1f3mLQK90b) | 4:33 | 2022-11-09 | 2025-03-13 |
 | [Voa](https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Garoa](https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe) | 2:44 | 2024-07-05 | 2024-07-13 |
 | [Voando \(Nel Blu Dipinto Di Blu\)](https://open.spotify.com/track/5eJ4kcwdET3HsQvwT5QSuX) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Voando \(Nel Blu Dipinto Di Blu\)](https://open.spotify.com/album/1QQkssDjcaEVl6pJhSOWIQ) | 3:56 | 2024-06-17 |  |

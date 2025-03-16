@@ -1,6 +1,6 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 159239,
+  "num_followers": 159303,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,26 @@
     {
       "added_at": "2025-02-28 17:15:34",
       "album": {
+        "name": "Kavita 1",
+        "url": "https://open.spotify.com/album/7hqmVqRcjVRqcEfoAQjqoO"
+      },
+      "artists": [
+        {
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+        },
+        {
+          "name": "Leci Brandao",
+          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
+        }
+      ],
+      "duration_ms": 392813,
+      "name": "Z\u00e9 Do Caro\u00e7o",
+      "url": "https://open.spotify.com/track/1x8uLFuwVbLxcvVerQtuWq"
+    },
+    {
+      "added_at": "2025-02-28 17:15:34",
+      "album": {
         "name": "Meu Coco",
         "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
       },
@@ -435,22 +455,6 @@
       "duration_ms": 212014,
       "name": "Sem Samba N\u00e3o D\u00e1",
       "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
-    },
-    {
-      "added_at": "2025-02-28 17:15:34",
-      "album": {
-        "name": "Maria Rita - Portugal",
-        "url": "https://open.spotify.com/album/3uditAAn9mrSsl7ZW7a9ks"
-      },
-      "artists": [
-        {
-          "name": "Maria Rita",
-          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
-        }
-      ],
-      "duration_ms": 282293,
-      "name": "Cara valente",
-      "url": "https://open.spotify.com/track/0JmNkza8Oax92TF7lJV8GZ"
     },
     {
       "added_at": "2025-02-28 17:15:34",
@@ -479,22 +483,18 @@
     {
       "added_at": "2025-02-28 17:15:34",
       "album": {
-        "name": "Kavita 1",
-        "url": "https://open.spotify.com/album/7hqmVqRcjVRqcEfoAQjqoO"
+        "name": "Maria Rita - Portugal",
+        "url": "https://open.spotify.com/album/3uditAAn9mrSsl7ZW7a9ks"
       },
       "artists": [
         {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
-        },
-        {
-          "name": "Leci Brandao",
-          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
+          "name": "Maria Rita",
+          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
         }
       ],
-      "duration_ms": 392813,
-      "name": "Z\u00e9 Do Caro\u00e7o",
-      "url": "https://open.spotify.com/track/1x8uLFuwVbLxcvVerQtuWq"
+      "duration_ms": 282293,
+      "name": "Cara valente",
+      "url": "https://open.spotify.com/track/0JmNkza8Oax92TF7lJV8GZ"
     },
     {
       "added_at": "2025-02-28 17:15:34",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-02-28 17:15:34",
       "album": {
-        "name": "Tamb\u00e9m Pede Bis",
-        "url": "https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D"
-      },
-      "artists": [
-        {
-          "name": "Pedro Miranda",
-          "url": "https://open.spotify.com/artist/32ChsjOKXXZrpDI6aAPo5l"
-        }
-      ],
-      "duration_ms": 171805,
-      "name": "Tamb\u00e9m Pede Bis",
-      "url": "https://open.spotify.com/track/7ArxNzr5D7OvRqes0S8CHY"
-    },
-    {
-      "added_at": "2025-02-28 17:15:34",
-      "album": {
         "name": "Macieira",
         "url": "https://open.spotify.com/album/1nfsB4TyQJUTefoMzBohSQ"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 203680,
       "name": "Macieira",
       "url": "https://open.spotify.com/track/2Aa7811ydihpw3zDKimFDX"
+    },
+    {
+      "added_at": "2025-02-28 17:15:34",
+      "album": {
+        "name": "Tamb\u00e9m Pede Bis",
+        "url": "https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D"
+      },
+      "artists": [
+        {
+          "name": "Pedro Miranda",
+          "url": "https://open.spotify.com/artist/32ChsjOKXXZrpDI6aAPo5l"
+        }
+      ],
+      "duration_ms": 171805,
+      "name": "Tamb\u00e9m Pede Bis",
+      "url": "https://open.spotify.com/track/7ArxNzr5D7OvRqes0S8CHY"
     },
     {
       "added_at": "2025-02-28 17:15:34",

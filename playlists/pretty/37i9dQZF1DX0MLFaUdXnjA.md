@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 
 > Sit back and relax to the chillest pop\.  Cover: HAIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,841,118 likes - 97 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,841,342 likes - 97 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

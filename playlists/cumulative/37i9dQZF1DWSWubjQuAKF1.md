@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Maciej Skiba
 
-384 songs - 18 hr 29 min
+385 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [OMG](https://open.spotify.com/track/2Qz4CbdfPWwFdgpQvumvjy) | [ROZIE](https://open.spotify.com/artist/59iWoTgpD2176IjqGmNZSo) | [OMG](https://open.spotify.com/album/0oXn4IpuCHcQvEEe6a0U5C) | 3:23 | 2024-08-01 | 2025-01-24 |
 | [Ona](https://open.spotify.com/track/40el6JNVIr1BbQDKas1DMC) | [xavier.](https://open.spotify.com/artist/7KTC7rg9tQlGKFxxO1Y7li), [NBALVCKY](https://open.spotify.com/artist/5jdPPKSFmxmRLFubteqYV1) | [Ona](https://open.spotify.com/album/02k6lkAxcaEzSpXnYgCdej) | 2:44 | 2024-11-28 | 2024-12-14 |
 | [Ona jest niebywała](https://open.spotify.com/track/3SDkCauHsCFX3cgdntWDzf) | [Artur Sikorski](https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A) | [Ona jest niebywała](https://open.spotify.com/album/1pvDMdsfHCUDq1Pkb7t4oC) | 2:01 | 2024-08-30 | 2025-01-24 |
+| [Only Love](https://open.spotify.com/track/4fE3PQDHE50vrcqN8ElxDr) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Only Love](https://open.spotify.com/album/4WjiBXuiBrFqkRgIG9OCfr) | 4:19 | 2025-03-13 |  |
 | [origami](https://open.spotify.com/track/0pVZChscauW6UcGyGPotBR) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [origami](https://open.spotify.com/album/2pVvZ1AwfGj9c0gJT7FD8u) | 2:37 | 2024-06-28 | 2024-09-14 |
 | [Ostatni raz](https://open.spotify.com/track/5o4s8SzJxPAXGpuoccNo6z) | [elis](https://open.spotify.com/artist/0fSSRqeUCWHm0ChaK8G9w0) | [Ostatni raz](https://open.spotify.com/album/6df8D3pnrik5kuxfOfLoqF) | 2:31 | 2024-08-30 | 2025-01-24 |
 | [Ostatnia piosenka o Tobie](https://open.spotify.com/track/17ZkGa33xEBbsWpgSqRNLM) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Ostatnia piosenka o Tobie](https://open.spotify.com/album/0JyoNvP2toqt8hWKfuYcaX) | 2:55 | 2024-11-07 | 2025-01-24 |
@@ -254,7 +255,7 @@
 | [Pamiętasz nas?](https://open.spotify.com/track/6HvzmkNyvkqBa3GBUiCjjp) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I), [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Pamiętasz nas?](https://open.spotify.com/album/7c9gbhkW4siOnhnezkPV64) | 3:11 | 2024-06-28 | 2024-07-12 |
 | [pamiętasz?](https://open.spotify.com/track/17oBC8vG7zlS0e7V0pBIQP) | [Alicja](https://open.spotify.com/artist/1QDigvoDqzcojpLCK6soAb), [Bartek Królik](https://open.spotify.com/artist/4rE8hvv3ZvCVAyaxZVtmTT) | [nie wracam](https://open.spotify.com/album/4Zmx2snI7W2imHGADlCup1) | 2:42 | 2024-06-28 | 2024-11-22 |
 | [Pamiętasz?](https://open.spotify.com/track/7Hl9kN1XUyYy6GF3PDuszJ) | [Julya](https://open.spotify.com/artist/3HLw79MyKKNt74t4hn3XgT) | [Pamiętasz?](https://open.spotify.com/album/55VJTpMsVzBuWIATjiREFb) | 3:56 | 2024-11-21 | 2025-01-24 |
-| [Para](https://open.spotify.com/track/1v5hiDzRDTqFaOlkw6w4ew) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Momenty](https://open.spotify.com/album/4PzF7jH91o75GXjFwvTaLa) | 3:08 | 2025-01-30 |  |
+| [Para](https://open.spotify.com/track/1v5hiDzRDTqFaOlkw6w4ew) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Momenty](https://open.spotify.com/album/4PzF7jH91o75GXjFwvTaLa) | 3:08 | 2025-01-30 | 2025-03-16 |
 | [Pastelowe Kredki](https://open.spotify.com/track/3KQOxCDBSeg6Bid2qYsQw3) | [Slavic DAMA](https://open.spotify.com/artist/7zyIbwt96luqV788BmvZxz), [Miko Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [Pastelowe Kredki](https://open.spotify.com/album/6vp7j3Iug4KbRTPF4VagsN) | 2:00 | 2024-12-06 | 2025-01-24 |
 | [Peripheral Lover](https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Peripheral Lover](https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz) | 3:15 | 2025-02-20 |  |
 | [Peron](https://open.spotify.com/track/4nDKB41PC9p4atL5KD8wLI) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [PROJEKT WOW](https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms) | [Peron](https://open.spotify.com/album/3Ql2LGYrdsMpxsaLG33SlK) | 2:46 | 2024-06-28 | 2024-08-31 |

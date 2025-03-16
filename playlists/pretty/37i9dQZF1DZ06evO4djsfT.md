@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,482 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,487 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 26 | [Glory 2 Glory](https://open.spotify.com/track/4Tgq7SCuvkMsms0416Z6EY) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 3:07 |
 | 27 | [This Is Life](https://open.spotify.com/track/3X5yUONtNNQgSx7vXhSci0) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:27 |
 | 28 | [CHECK](https://open.spotify.com/track/7oFYMJwyIYZJyKpPjEjSZK) | [DEON](https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [CHECK](https://open.spotify.com/album/6b6dgDphNvK0ezuuaIwoCN) | 3:27 |
-| 29 | [COME THRU](https://open.spotify.com/track/3U0Goea638QMskz9f7l53B) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [COME THRU](https://open.spotify.com/album/6p4j0KgKckQYEiAtLoOHub) | 2:39 |
+| 29 | [Eagle](https://open.spotify.com/track/5tx4rfrsFrxJGCmxVAsH0r) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Eagle](https://open.spotify.com/album/6b5bu55Djo84LSLKIKIb68) | 3:30 |
 | 30 | [Graves](https://open.spotify.com/track/3OPcnTopJhqCJ9ekOsnV1t) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 4:20 |
 | 31 | [The Name \(feat\. Koryn Hawthorne\)](https://open.spotify.com/track/1OLkuTadZZSdfzgUeemRsU) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:49 |
-| 32 | [Eagle](https://open.spotify.com/track/5tx4rfrsFrxJGCmxVAsH0r) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Eagle](https://open.spotify.com/album/6b5bu55Djo84LSLKIKIb68) | 3:30 |
+| 32 | [COME THRU](https://open.spotify.com/track/3U0Goea638QMskz9f7l53B) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [COME THRU](https://open.spotify.com/album/6p4j0KgKckQYEiAtLoOHub) | 2:39 |
 | 33 | [100](https://open.spotify.com/track/30lW7sca9vsJThBCifkwGo) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [100](https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv) | 3:39 |
 | 34 | [Danza](https://open.spotify.com/track/2tlTvn51vKm2y7B32aSqoG) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 3:23 |
 | 35 | [Built For This](https://open.spotify.com/track/5ihWb5kpd7brDr32wNebn6) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The Epilogue.](https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 49 | [Now They Know](https://open.spotify.com/track/1wfY6AQT8zIY9CVyd8Iy79) | [116](https://open.spotify.com/artist/7tTsvTUJ7lXBezazP5jU72), [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [Now They Know](https://open.spotify.com/album/6lpJPDD0Z1nY8HtvPBjG2c) | 4:30 |
 | 50 | [Monster](https://open.spotify.com/track/6Rbk8g1VWn2aXZXyNqP7Xb) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 3:17 |
 
-Snapshot ID: `Z9IgAAAAAACW5ipoqWKnEsBLhiOrn809`
+Snapshot ID: `Z9NxgAAAAACqK6S+B0uDuAQowD65V674`

@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-399 songs - 21 hr 41 min
+400 songs - 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [IN THE ALLEY](https://open.spotify.com/track/6rLZY5Jlr3PJVsMf9k6ixF) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [IN THE ALLEY](https://open.spotify.com/album/1ULgYsHVDh6c1zn5UPIqGh) | 2:42 | 2024-06-28 |  |
 | [In The Back \- Original Mix](https://open.spotify.com/track/60ujdXHloDnM7Dppefc2b2) | [DJ Fixx](https://open.spotify.com/artist/6x8SfgcTq31PTfe3SJrugo) | [In The Back](https://open.spotify.com/album/1wDlBASiT1YCFaZGyosFoi) | 3:36 | 2021-11-19 | 2022-01-08 |
 | [In The Place](https://open.spotify.com/track/64VyLST8MmGb2x5ilwNm2l) | [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP) | [In The Place](https://open.spotify.com/album/37l2dXxlFFKBZFi5lG3IMc) | 3:50 | 2023-12-15 |  |
-| [IN THE ZONE](https://open.spotify.com/track/3EZT1GQldSjQALioFg3XEp) | [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij) | [IN THE ZONE](https://open.spotify.com/album/0cSvYjnV5i1aU4Mpndu7FC) | 2:49 | 2024-08-09 |  |
+| [IN THE ZONE](https://open.spotify.com/track/3EZT1GQldSjQALioFg3XEp) | [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij) | [IN THE ZONE](https://open.spotify.com/album/0cSvYjnV5i1aU4Mpndu7FC) | 2:49 | 2024-08-09 | 2025-03-16 |
 | [Incantate](https://open.spotify.com/track/10lq0wRPNv7RVgIqDC89a9) | [Automhate](https://open.spotify.com/artist/6bWRCpJ69GQnmrL7gE4WHf), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [Incantate](https://open.spotify.com/album/5q5lbHaktTz85S1sS2IOol) | 4:36 | 2023-08-18 | 2023-09-10 |
 | [Joker \(Gawm Remix\)](https://open.spotify.com/track/6MQjOwzFgivGZM7Ke30uhB) | [Gawm](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL), [Frequency Pusher](https://open.spotify.com/artist/3VCKNFd2r6bFaSK3DSyqUT), [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz), [Daz Dillinger](https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4), [Tha Dogg Pound](https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT), [Luvaboy Tj](https://open.spotify.com/artist/7gE5hIAnB7EXgQUMhjfb92) | [Joker \(Gawm Remix\)](https://open.spotify.com/album/6rA8lYRLd9b0i4CSlhsoBR) | 3:24 | 2022-03-11 | 2022-09-10 |
 | [Juicy](https://open.spotify.com/track/7924NRevY7KfgupyhT6Xky) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3) | [Bangers\[6\].Zip](https://open.spotify.com/album/3djSUWm3m92BDIXUxg3Fii) | 3:08 | 2021-11-19 | 2022-01-08 |
@@ -396,6 +396,7 @@
 | [WATCH UR BACK](https://open.spotify.com/track/5QagFbE9AGkOcXUGu2VORs) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [VRG](https://open.spotify.com/artist/56hXYTbEGYdTwI2zjMMcVh), [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi) | [GORILLA WARFARE](https://open.spotify.com/album/5T8GgvkUuurpkaYsoTA1Dx) | 2:25 | 2023-08-18 | 2023-09-10 |
 | [Waves](https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Waves](https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd) | 4:54 | 2024-04-05 |  |
 | [Where You Are \- GRiZ Remix](https://open.spotify.com/track/47kEJq44ZBrRBD4gvdCu0v) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Where You Are \(GRiZ Remix\)](https://open.spotify.com/album/6kULCT45GzgLQp2DbCA0oS) | 4:00 | 2023-06-09 |  |
+| [Whiplash](https://open.spotify.com/track/2K1Grx3at2GH9ErGX1o9NV) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [SOFI](https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb) | [Whiplash](https://open.spotify.com/album/3JYuC5TTDbobgRCKo38xW9) | 3:15 | 2025-03-14 |  |
 | [Who Run Dis](https://open.spotify.com/track/4YqiqOr3raVtOeA0moroQP) | [Lit Lords](https://open.spotify.com/artist/3epW3XPRivDLEECq50MXCi) | [Who Run Dis](https://open.spotify.com/album/63ANwKD831AL1Y6o57875Q) | 3:40 | 2022-05-06 | 2022-07-24 |
 | [WHO WANNA FIGHT](https://open.spotify.com/track/7CroKhLQL6tkseFavqpQQb) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [WHO WANNA FIGHT](https://open.spotify.com/album/6LkLr6sPmO5QYBQT8DAxw4) | 2:32 | 2025-01-31 | 2025-03-01 |
 | [Who's Laughing Now](https://open.spotify.com/track/6gjSaRvPS9Nv5yAfNfp19n) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [Who's Laughing Now](https://open.spotify.com/album/48EADwiXTyVHcFPjllMsww) | 2:55 | 2024-02-16 | 2024-03-30 |

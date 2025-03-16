@@ -1,12 +1,12 @@
 {
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 71267,
+  "num_followers": 71275,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAAzhiNr6dzJvgFqINpKIqDC",
+  "snapshot_id": "Z9NxgAAAAABrfKJSHrAPLv63B29w/M9D",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Caesar",
-        "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 269506,
-      "name": "Beside You",
-      "url": "https://open.spotify.com/track/2KZYHks9fBXCX1Ac8McutM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apr\u00e8s (10th-anniversary edition)",
         "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 126720,
       "name": "La vie en rose",
       "url": "https://open.spotify.com/track/3PMFNGb08SzI0lLHL6ti08"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Caesar",
+        "url": "https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 269506,
+      "name": "Beside You",
+      "url": "https://open.spotify.com/track/2KZYHks9fBXCX1Ac8McutM"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
       "duration_ms": 163207,
       "name": "Broken Boy (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Punk Rock Valentines",
-        "url": "https://open.spotify.com/album/027RSxPgRW3dKo1pLaI0cv"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 238506,
-      "name": "Sea Of Love - Party Outtake 1981",
-      "url": "https://open.spotify.com/track/1nHForEEkbr9vjrs4LZ8qV"
     },
     {
       "added_at": null,
@@ -523,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Punk Rock Valentines",
+        "url": "https://open.spotify.com/album/027RSxPgRW3dKo1pLaI0cv"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 238506,
+      "name": "Sea Of Love - Party Outtake 1981",
+      "url": "https://open.spotify.com/track/1nHForEEkbr9vjrs4LZ8qV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Idiot",
         "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
       },
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 392160,
-      "name": "Fall In Love With Me",
-      "url": "https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apr\u00e8s (10th-anniversary edition)",
         "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 213960,
       "name": "Et Si Tu n'existais Pas",
       "url": "https://open.spotify.com/track/0hiwKOnFAJoCXYsniNg5MH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 392160,
+      "name": "Fall In Love With Me",
+      "url": "https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Preliminaires",
-        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 172880,
-      "name": "I Want To Go To The Beach",
-      "url": "https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apr\u00e8s (10th-anniversary edition)",
         "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 163013,
       "name": "Michelle",
       "url": "https://open.spotify.com/track/3L2CN09jZcXtet8kEVeLPz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Preliminaires",
+        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 172880,
+      "name": "I Want To Go To The Beach",
+      "url": "https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Post Pop Depression",
-        "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 366896,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/2jRQcQFH7XLPsIFZsSuHkB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apr\u00e8s (10th-anniversary edition)",
         "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Post Pop Depression",
+        "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 238387,
+      "name": "Chocolate Drops",
+      "url": "https://open.spotify.com/track/2WJ4KUVJhARzAB7HkZkr12"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Idiot",
         "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 174578,
       "name": "Funtime",
       "url": "https://open.spotify.com/track/3tFQ4Zz3FKz3s6sCdY1mQg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arista Heritage Series: Iggy Pop",
+        "url": "https://open.spotify.com/album/2uLW0zozcIW2QjSthikLLo"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 167560,
+      "name": "I'm Bored",
+      "url": "https://open.spotify.com/track/6GVfe1CSI7n6G8818mPArW"
     },
     {
       "added_at": null,
@@ -760,25 +776,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 238387,
-      "name": "Chocolate Drops",
-      "url": "https://open.spotify.com/track/2WJ4KUVJhARzAB7HkZkr12"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arista Heritage Series: Iggy Pop",
-        "url": "https://open.spotify.com/album/2uLW0zozcIW2QjSthikLLo"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 167560,
-      "name": "I'm Bored",
-      "url": "https://open.spotify.com/track/6GVfe1CSI7n6G8818mPArW"
+      "duration_ms": 366896,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/2jRQcQFH7XLPsIFZsSuHkB"
     },
     {
       "added_at": null,

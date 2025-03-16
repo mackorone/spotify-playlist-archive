@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
-  "num_followers": 18257,
+  "num_followers": 18260,
   "original_name": "This Is Amy Grant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAAsXRwDakPaDGQQsrvOCRD8",
+  "snapshot_id": "Z9NxgAAAAAD5gTGibwPjyofDlmeZeGNi",
   "tracks": [
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 210493,
-      "name": "What A Friend We Have In Jesus/Old Rugged Cross/How Great Thou Art - Medley",
-      "url": "https://open.spotify.com/track/6MVujIIaaERsNUJWBywK4n"
+      "duration_ms": 185946,
+      "name": "This Is My Father's World",
+      "url": "https://open.spotify.com/track/50R2nZ2MYPpPwI1DzgF2El"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 185946,
-      "name": "This Is My Father's World",
-      "url": "https://open.spotify.com/track/50R2nZ2MYPpPwI1DzgF2El"
+      "duration_ms": 210493,
+      "name": "What A Friend We Have In Jesus/Old Rugged Cross/How Great Thou Art - Medley",
+      "url": "https://open.spotify.com/track/6MVujIIaaERsNUJWBywK4n"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Father's Eyes",
+        "url": "https://open.spotify.com/album/7EJzRX6PB2SySpeD4wdb6S"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 246226,
+      "name": "Father's Eyes",
+      "url": "https://open.spotify.com/track/39dCwla9fnPt3RQHjwPQ5s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duets: Friends & Legends",
         "url": "https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd"
       },
@@ -775,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Father's Eyes",
-        "url": "https://open.spotify.com/album/7EJzRX6PB2SySpeD4wdb6S"
+        "name": "Legacy...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
       },
       "artists": [
         {
@@ -784,9 +800,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 246226,
-      "name": "Father's Eyes",
-      "url": "https://open.spotify.com/track/39dCwla9fnPt3RQHjwPQ5s"
+      "duration_ms": 243226,
+      "name": "Softly And Tenderly",
+      "url": "https://open.spotify.com/track/29kWfrWp7XaxcEHK1VNeV1"
     },
     {
       "added_at": null,
@@ -803,22 +819,6 @@
       "duration_ms": 156346,
       "name": "All I Ever Have To Be",
       "url": "https://open.spotify.com/track/2DIfq3gn9mHzWwvP1UIxNn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legacy...Hymns & Faith",
-        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "Softly And Tenderly",
-      "url": "https://open.spotify.com/track/29kWfrWp7XaxcEHK1VNeV1"
     },
     {
       "added_at": null,
@@ -855,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unguarded",
+        "url": "https://open.spotify.com/album/3ahs2R10w4vhfnbfZ92pDp"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 275373,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/5k9C1AK3bLo4igQ29fh1L4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Belong",
         "url": "https://open.spotify.com/album/6EhiVZsRCe402TDY6GdnxQ"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 205333,
       "name": "I Belong",
       "url": "https://open.spotify.com/track/4wsWAFT2FNbju838Mip9gJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unguarded",
-        "url": "https://open.spotify.com/album/3ahs2R10w4vhfnbfZ92pDp"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 275373,
-      "name": "Everywhere I Go",
-      "url": "https://open.spotify.com/track/5k9C1AK3bLo4igQ29fh1L4"
     },
     {
       "added_at": null,

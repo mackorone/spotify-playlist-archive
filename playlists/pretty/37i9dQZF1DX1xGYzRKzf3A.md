@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 
 > 45 grados y un chingo de cerveza..\. ¡Así suena el noreste!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,924 likes - 125 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,967 likes - 125 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 | 14 | [Se Murió De Amor](https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:06 |
 | 15 | [Vida Ventajosa](https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Somos Arrieros](https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT) | 2:36 |
 | 16 | [Sentimientos De Cartón](https://open.spotify.com/track/7ctLV5QnYVq3V89EK3XNsa) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Necesito Más De Ti](https://open.spotify.com/album/2nRHIdZqsgd9ONSzrTKsf9) | 3:03 |
-| 17 | [Compré Una Cantina](https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:39 |
+| 17 | [Oro](https://open.spotify.com/track/1sLQ6BFucWwgT8yaAFSpAx) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje y Tierno](https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati) | 3:10 |
 | 18 | [Fuerte No Soy](https://open.spotify.com/track/7A07Yu1dRND3RKDzbhKrDs) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 4:27 |
 | 19 | [Los Dos Amigos](https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [12 Kilates Puros Corridos](https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4) | 2:58 |
-| 20 | [Oro](https://open.spotify.com/track/1sLQ6BFucWwgT8yaAFSpAx) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje y Tierno](https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati) | 3:10 |
+| 20 | [Compré Una Cantina](https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:39 |
 | 21 | [A Ella](https://open.spotify.com/track/6xIiVGZs194HCa9wTVHRys) | [El Poder Del Norte](https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x) | [A Ellas](https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u) | 3:46 |
 | 22 | [Yo Ya Sabia Pa Donde Iba](https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Yo Ya Sabia Pa Donde Iba](https://open.spotify.com/album/7CIIaQHhYQDhuVaUybIw7R) | 3:01 |
 | 23 | [AMOR PROPIO](https://open.spotify.com/track/01cN1DKc5HH7F9MOBBjSip) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [AMOR PROPIO](https://open.spotify.com/album/7z3Yk4R2PWF0jkQp4ZKX4y) | 2:52 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 | 83 | [Cumbia Lunera](https://open.spotify.com/track/6X9AbFeo1MYxfJco7BiSS2) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Chúntaros Radio Poder](https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL) | 3:21 |
 | 84 | [Mi Unico Camino](https://open.spotify.com/track/0zD1NLTk9QkTj7CZFCGVpX) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Las Más Tocadas](https://open.spotify.com/album/20Bcfqp9GJ3UNL1mDlZepp) | 2:52 |
 | 85 | [Los Caminos de la Vida \- Spotify Singles](https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Caminos de la Vida \(Spotify Singles\)](https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5) | 5:28 |
-| 86 | [Bajo Mil Llaves](https://open.spotify.com/track/5sbfCd8LLNJtP4MeSA1JyX) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 2:26 |
-| 87 | [Rezando Por Ella \- En Vivo](https://open.spotify.com/track/6Lj9CyTg2BHdbTLLscmBsx) | [Elias Medina](https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ), [Akilatados](https://open.spotify.com/artist/69hqT9F600Vj7HsGsfskPX) | [Botes y Boleros \(En Vivo\)](https://open.spotify.com/album/5HYVtlNTOIlS0sJY3i26vX) | 2:39 |
+| 86 | [Rezando Por Ella \- En Vivo](https://open.spotify.com/track/6Lj9CyTg2BHdbTLLscmBsx) | [Elias Medina](https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ), [Akilatados](https://open.spotify.com/artist/69hqT9F600Vj7HsGsfskPX) | [Botes y Boleros \(En Vivo\)](https://open.spotify.com/album/5HYVtlNTOIlS0sJY3i26vX) | 2:39 |
+| 87 | [Bajo Mil Llaves](https://open.spotify.com/track/5sbfCd8LLNJtP4MeSA1JyX) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 2:26 |
 | 88 | [No Porque Seas Tú](https://open.spotify.com/track/79kcLoI5YEYCuAANwIYuE5) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 2:22 |
 | 89 | [Chiquilla Cariñosa \- Live At Nuevo León México / 2009](https://open.spotify.com/track/2iximC5NXwVzV9mgDQCUsk) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Catarino Leos](https://open.spotify.com/artist/6m7eLnlcA5i7bxAIsEmaxi) | [Desde La Cantina Vol\. II \(Live At Nuevo León México / 2009\)](https://open.spotify.com/album/4YdYOZk3r8RBMqCz06Xlqp) | 3:10 |
 | 90 | [Mil Noches](https://open.spotify.com/track/07lhQQZmg4ANOJ2ar5RecQ) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 Super Exitos](https://open.spotify.com/album/1KSE2b7yXmIQKcvYpINrLp) | 3:56 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 | 120 | [Mi Pregón](https://open.spotify.com/track/5EyZuJ9a2FAsgWxmjffl73) | [Los Chikos RK Ritmo Kumbiero](https://open.spotify.com/artist/0n7BQ1iMKUbfBP6QCxTqBt) | [Mi Pregón](https://open.spotify.com/album/6wiadyiTXY2DpfI6RMyXI2) | 3:21 |
 | 121 | [El Gallo Moro](https://open.spotify.com/track/1iQeJDK2YMwy0mSvMxtkV4) | [Paco Silva y su Tropa Colombiana](https://open.spotify.com/artist/2KXm36N0I8a4GOb6XvPCUE) | [Wepe Jepe](https://open.spotify.com/album/7D9L6rKQbickno8hZKTS72) | 3:42 |
 | 122 | [Cumbia de la Sabana](https://open.spotify.com/track/46Y0KrTfL2yMKOk7tdJoOT) | [Poder Vallenato](https://open.spotify.com/artist/0I7Eh63ngnKYSkVzp2WHJ2) | [15 exitos pa'gozar](https://open.spotify.com/album/3fBX0WDMRmV09E5jg6TbhO) | 3:32 |
-| 123 | [Juro Que Es por Ella](https://open.spotify.com/track/20yublwhQkHSiko0ranSlT) | [Los Amantes Del Vallenato](https://open.spotify.com/artist/5Qc5HoAa0zKDjTlzJw2OBh) | [Juro Que Es por Ella](https://open.spotify.com/album/4R0zKvzfufpo1ptWhG7tuh) | 4:10 |
-| 124 | [Bonito Son \- Cumbia](https://open.spotify.com/track/5oKWdLFUaztcQVmNpWEGNU) | [La Tropa Co\. De Paco Silva](https://open.spotify.com/artist/3a4RKM5UNodp7XAgavbDmb) | [La Tropa Loca Antología Musical](https://open.spotify.com/album/0leIcMcsAybcwMPVMgnQEe) | 3:35 |
+| 123 | [Bonito Son \- Cumbia](https://open.spotify.com/track/5oKWdLFUaztcQVmNpWEGNU) | [La Tropa Co\. De Paco Silva](https://open.spotify.com/artist/3a4RKM5UNodp7XAgavbDmb) | [La Tropa Loca Antología Musical](https://open.spotify.com/album/0leIcMcsAybcwMPVMgnQEe) | 3:35 |
+| 124 | [Juro Que Es por Ella](https://open.spotify.com/track/20yublwhQkHSiko0ranSlT) | [Los Amantes Del Vallenato](https://open.spotify.com/artist/5Qc5HoAa0zKDjTlzJw2OBh) | [Juro Que Es por Ella](https://open.spotify.com/album/4R0zKvzfufpo1ptWhG7tuh) | 4:10 |
 | 125 | [El Pasito de Monterrey](https://open.spotify.com/track/0QTHRYvvhhYPWNmy9NtU6C) | [Los Colombinos](https://open.spotify.com/artist/53KlwkpvOp3HFXNqy2xJPA) | [Nacio la Cumbia](https://open.spotify.com/album/3tt2S0MOGeYHkkVcMLsOiZ) | 2:57 |
 
 Snapshot ID: `ZpWnIwAAAAA4gxB+97kZsB7Ies+n2r9W`

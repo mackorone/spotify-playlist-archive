@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 
 > I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify 🎤
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,049 likes - 36 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,073 likes - 36 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 | 21 | [A mano a mano](https://open.spotify.com/track/0x4HvQuUbXAa4bYForAK7S) | [Rino Gaetano](https://open.spotify.com/artist/5RRPSRJpISAWEPOeSfYuhV) | [Ahi Maria 40th](https://open.spotify.com/album/1ig6PdGZl6gPbCd7N10Jcr) | 3:38 |
 | 22 | [L'Estate Sta Finendo](https://open.spotify.com/track/2ZgIpoW01dJhpHwkOCgV2d) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [The Singles 83/87](https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4) | 3:47 |
 | 23 | [La cura](https://open.spotify.com/track/4ysfdDuWc4QeRQxrxl7Zpr) | [Simone Cristicchi](https://open.spotify.com/artist/0sqq7uB8agn7oT15sssKRz), [Amara](https://open.spotify.com/artist/0DRQddAJlPIR3pMzRJm5kb) | [Quando sarai piccola](https://open.spotify.com/album/2aWZwqdkvyuhtmn28C9sqm) | 3:45 |
-| 24 | [Crêuza de mä \- New Mix 2014](https://open.spotify.com/track/4Y3WfBJo7kwWkvzU8jzbno) | [Fabrizio De André](https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm) | [Creuza de ma](https://open.spotify.com/album/6UGZ5FUUu2W0MWtEUvEcIJ) | 6:15 |
-| 25 | [Folle città](https://open.spotify.com/track/4o2cAoMoEdglmMI6Acx5IY) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [BANDABERTÈ](https://open.spotify.com/album/1M8gb4GMq9cQCVExvtWx0o) | 3:37 |
+| 24 | [Folle città](https://open.spotify.com/track/4o2cAoMoEdglmMI6Acx5IY) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [BANDABERTÈ](https://open.spotify.com/album/1M8gb4GMq9cQCVExvtWx0o) | 3:37 |
+| 25 | [Crêuza de mä \- New Mix 2014](https://open.spotify.com/track/4Y3WfBJo7kwWkvzU8jzbno) | [Fabrizio De André](https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm) | [Creuza de ma](https://open.spotify.com/album/6UGZ5FUUu2W0MWtEUvEcIJ) | 6:15 |
 | 26 | [Un tempo piccolo \(feat\. Tiromancino & Ditonellapiaga\)](https://open.spotify.com/track/2N68dlweJK3bjxCprbmm75) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [Tiromancino](https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5), [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Sulla riva del fiume](https://open.spotify.com/album/2r9qoPdgNW8SEADIXtYeH6) | 3:45 |
 | 27 | [Yes I Know My Way \- 2021 Remaster](https://open.spotify.com/track/0HVvtZhPgnuR2Nia1x8zUX) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Vai mo' \(2021 Remaster\)](https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX) | 3:36 |
 | 28 | [Tutto il resto è noia \(feat\. Tony Effe\)](https://open.spotify.com/track/2PmuzC0gr5Za1ubhKV5r0d) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Nostalgia](https://open.spotify.com/album/6awhjqs3acQA1WAYrsAPs6) | 2:21 |

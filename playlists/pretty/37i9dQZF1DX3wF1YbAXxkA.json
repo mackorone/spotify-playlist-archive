@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 25. ",
-  "num_followers": 100824,
+  "num_followers": 100961,
   "original_name": "EA SPORTS FC 25 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -97,22 +97,6 @@
       "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
     },
     {
-      "added_at": "2024-09-16 18:33:06",
-      "album": {
-        "name": "Lloret de Mar",
-        "url": "https://open.spotify.com/album/6umGWX7xQ0WgIDeZFsFFYX"
-      },
-      "artists": [
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        }
-      ],
-      "duration_ms": 125732,
-      "name": "Lloret de Mar",
-      "url": "https://open.spotify.com/track/4S78rQHd6cSC8g2TfdNJTf"
-    },
-    {
       "added_at": "2024-09-16 11:00:00",
       "album": {
         "name": "Clancy",
@@ -127,6 +111,22 @@
       "duration_ms": 196266,
       "name": "Midwest Indigo",
       "url": "https://open.spotify.com/track/7GVQS66ukm48XZVymA3ZUg"
+    },
+    {
+      "added_at": "2024-09-16 18:33:06",
+      "album": {
+        "name": "Lloret de Mar",
+        "url": "https://open.spotify.com/album/6umGWX7xQ0WgIDeZFsFFYX"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "duration_ms": 125732,
+      "name": "Lloret de Mar",
+      "url": "https://open.spotify.com/track/4S78rQHd6cSC8g2TfdNJTf"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -615,26 +615,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
-        "url": "https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "God Gave Me Feet For Dancing - feat. Yazmin Lacey",
-      "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Hyperdrama",
         "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 254346,
       "name": "The End",
       "url": "https://open.spotify.com/track/5lhIY0YgH7JhszpQNUC1dm"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
+        "url": "https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "God Gave Me Feet For Dancing - feat. Yazmin Lacey",
+      "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Beloved! Paradise! Jazz!?",
-        "url": "https://open.spotify.com/album/3RDAqHBWBHXRwVSJF9T8VW"
-      },
-      "artists": [
-        {
-          "name": "McKinley Dixon",
-          "url": "https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko"
-        }
-      ],
-      "duration_ms": 182307,
-      "name": "Run, Run, Run",
-      "url": "https://open.spotify.com/track/7gwO0ePo0xG2qjvQTgJvRJ"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Innamorato",
         "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 165244,
       "name": "Ancora, Ancora, Ancora",
       "url": "https://open.spotify.com/track/3Ipfe6NFwCvTtfBMl4NbBh"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Beloved! Paradise! Jazz!?",
+        "url": "https://open.spotify.com/album/3RDAqHBWBHXRwVSJF9T8VW"
+      },
+      "artists": [
+        {
+          "name": "McKinley Dixon",
+          "url": "https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko"
+        }
+      ],
+      "duration_ms": 182307,
+      "name": "Run, Run, Run",
+      "url": "https://open.spotify.com/track/7gwO0ePo0xG2qjvQTgJvRJ"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1181,22 +1181,6 @@
       "url": "https://open.spotify.com/track/10MTlKhDjVG0oFvRUd1Oc5"
     },
     {
-      "added_at": "2024-10-18 20:43:05",
-      "album": {
-        "name": "Decimal",
-        "url": "https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Decimal",
-      "url": "https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr"
-    },
-    {
       "added_at": "2024-09-16 11:00:00",
       "album": {
         "name": "My Reason",
@@ -1215,6 +1199,22 @@
       "duration_ms": 189375,
       "name": "My Reason",
       "url": "https://open.spotify.com/track/71A6PWUOjJfIzS1soAAMZM"
+    },
+    {
+      "added_at": "2024-10-18 20:43:05",
+      "album": {
+        "name": "Decimal",
+        "url": "https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Decimal",
+      "url": "https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Gwara Gwara",
-        "url": "https://open.spotify.com/album/1tTCpNbAR3vpq3PUFQw1Zm"
-      },
-      "artists": [
-        {
-          "name": "Moonchild Sanelly",
-          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Gwara Gwara",
-      "url": "https://open.spotify.com/track/3ITpuImbmMtavdxCPoYQsX"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Roses Ether",
         "url": "https://open.spotify.com/album/2otIbQUDCLNjKUM75j315q"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 178032,
       "name": "Roses Ether",
       "url": "https://open.spotify.com/track/6Ih6oi6CkOfkFaKvcQacw6"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Gwara Gwara",
+        "url": "https://open.spotify.com/album/1tTCpNbAR3vpq3PUFQw1Zm"
+      },
+      "artists": [
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Gwara Gwara",
+      "url": "https://open.spotify.com/track/3ITpuImbmMtavdxCPoYQsX"
     },
     {
       "added_at": "2024-09-16 11:00:00",

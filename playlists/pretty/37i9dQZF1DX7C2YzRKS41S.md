@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,746 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,795 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 53 | [Vai Atrás Da Vida Que Ela Te Espera](https://open.spotify.com/track/0QVpFZo7en9BEos1TQlwz1) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [Vai Atrás Da Vida Que Ela Te Espera](https://open.spotify.com/album/7Kj71cQBVCcqQtoJo1lce1) | 4:36 |
 | 54 | [CACHOEIRA](https://open.spotify.com/track/57l9vK3s0roL97GOIvbrbw) | [Hugo Branquinho](https://open.spotify.com/artist/1G7RC4anhU2mNCDNV0l8rs) | [CACHOEIRA](https://open.spotify.com/album/0oJqL5pvSwYGmpgZLH3gn3) | 3:40 |
 | 55 | [Meu Primeiro Amor](https://open.spotify.com/track/5Ui1KfWnjRAl3gCM6mrkVN) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Meu Primeiro Amor](https://open.spotify.com/album/4XzvYXmxuOyV0gXpVVz5pT) | 3:13 |
-| 56 | [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 |
-| 57 | [Mesma Sensação](https://open.spotify.com/track/7agqUicjzuTmStccvAwG1f) | [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ) | [Mesma Sensação](https://open.spotify.com/album/1ese8tfg7dYxhWnWhAp500) | 3:14 |
+| 56 | [Mesma Sensação](https://open.spotify.com/track/7agqUicjzuTmStccvAwG1f) | [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ) | [Mesma Sensação](https://open.spotify.com/album/1ese8tfg7dYxhWnWhAp500) | 3:14 |
+| 57 | [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 |
 | 58 | [Um Tanto](https://open.spotify.com/track/1BQhXbN8AzvHQrS7SvH58x) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Sol\-Te](https://open.spotify.com/album/3wk0JZQ0eTP1rpiAlMpuV6) | 3:37 |
 | 59 | [Águas do Teu Mar](https://open.spotify.com/track/4P2sNrma2uZhZR1ohth4VU) | [Erick Roza](https://open.spotify.com/artist/47JFoPclff1d4gHsR7lQG3) | [Águas do Teu Mar](https://open.spotify.com/album/3W1DLnpz0egsPFHcJdnoEB) | 2:28 |
 | 60 | [Pensando Bem](https://open.spotify.com/track/2vz5y776IIyrac1KkYuY75) | [Tó Brandileone](https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA), [Zé Luis Nascimento](https://open.spotify.com/artist/3DGZdkW22HAlgGpXOzzaaE), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Eu Sou Outro](https://open.spotify.com/album/7jsBgAZRvGyECgLpcEIa6Z) | 3:22 |

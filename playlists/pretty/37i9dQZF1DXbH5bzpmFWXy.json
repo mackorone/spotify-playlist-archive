@@ -1,6 +1,6 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Kevin AMF, Victor Mendivil, Dani Flow y Los Esquivel en portada.",
-  "num_followers": 286296,
+  "num_followers": 286329,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,22 @@
     {
       "added_at": "2025-03-04 18:51:25",
       "album": {
-        "name": "No Hay Loco Que No Corone",
-        "url": "https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0"
+        "name": "Entre las de 20",
+        "url": "https://open.spotify.com/album/0teu3BYgtk8WuPBZWeDVN6"
       },
       "artists": [
         {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 211084,
-      "name": "Cuando No Era Cantante",
-      "url": "https://open.spotify.com/track/3d0er23tJIl1H2j8ZvtDww"
+      "duration_ms": 168511,
+      "name": "Entre las de 20",
+      "url": "https://open.spotify.com/track/61OsemtnuPJ5R0LMEkw60S"
     },
     {
       "added_at": "2025-03-04 18:51:25",
@@ -779,22 +779,22 @@
     {
       "added_at": "2025-03-04 18:51:25",
       "album": {
-        "name": "Entre las de 20",
-        "url": "https://open.spotify.com/album/0teu3BYgtk8WuPBZWeDVN6"
+        "name": "No Hay Loco Que No Corone",
+        "url": "https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
         },
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
         }
       ],
-      "duration_ms": 168511,
-      "name": "Entre las de 20",
-      "url": "https://open.spotify.com/track/61OsemtnuPJ5R0LMEkw60S"
+      "duration_ms": 211084,
+      "name": "Cuando No Era Cantante",
+      "url": "https://open.spotify.com/track/3d0er23tJIl1H2j8ZvtDww"
     },
     {
       "added_at": "2025-03-04 18:51:25",
@@ -1059,30 +1059,6 @@
     {
       "added_at": "2025-03-04 18:51:25",
       "album": {
-        "name": "Don Dimadon",
-        "url": "https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA"
-      },
-      "artists": [
-        {
-          "name": "Remp",
-          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 184987,
-      "name": "Don Dimadon",
-      "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
-    },
-    {
-      "added_at": "2025-03-04 18:51:25",
-      "album": {
         "name": "Malas Rachas",
         "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
@@ -1103,6 +1079,30 @@
       "duration_ms": 260285,
       "name": "Malas Rachas - En Vivo",
       "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
+    },
+    {
+      "added_at": "2025-03-04 18:51:25",
+      "album": {
+        "name": "Don Dimadon",
+        "url": "https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA"
+      },
+      "artists": [
+        {
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 184987,
+      "name": "Don Dimadon",
+      "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
     },
     {
       "added_at": "2025-03-04 18:51:25",
@@ -1243,30 +1243,6 @@
     {
       "added_at": "2025-03-04 18:51:25",
       "album": {
-        "name": "Ando Enfocado",
-        "url": "https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq"
-      },
-      "artists": [
-        {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 184106,
-      "name": "Ando Enfocado",
-      "url": "https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d"
-    },
-    {
-      "added_at": "2025-03-04 18:51:25",
-      "album": {
         "name": "Lunetas",
         "url": "https://open.spotify.com/album/77PjwDAfnqkqKWm4yGlV93"
       },
@@ -1307,6 +1283,30 @@
       "duration_ms": 157440,
       "name": "Capuchas",
       "url": "https://open.spotify.com/track/2aKIZtzWNPRoDLkITdxGaB"
+    },
+    {
+      "added_at": "2025-03-04 18:51:25",
+      "album": {
+        "name": "Ando Enfocado",
+        "url": "https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 184106,
+      "name": "Ando Enfocado",
+      "url": "https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d"
     },
     {
       "added_at": "2025-03-04 18:51:25",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2025-03-04 18:51:25",
       "album": {
+        "name": "La P-90",
+        "url": "https://open.spotify.com/album/3f35t7f5GYuB54jTLW29We"
+      },
+      "artists": [
+        {
+          "name": "Sahir Montoya",
+          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
+        }
+      ],
+      "duration_ms": 115466,
+      "name": "La P-90",
+      "url": "https://open.spotify.com/track/1nMXGIFXA2bWyuqv3Q283w"
+    },
+    {
+      "added_at": "2025-03-04 18:51:25",
+      "album": {
         "name": "No Hay Loco Que No Corone",
         "url": "https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 164307,
       "name": "Can Am",
       "url": "https://open.spotify.com/track/7MK6edE9MWa7OVPFy0tbcM"
-    },
-    {
-      "added_at": "2025-03-04 18:51:25",
-      "album": {
-        "name": "La P-90",
-        "url": "https://open.spotify.com/album/3f35t7f5GYuB54jTLW29We"
-      },
-      "artists": [
-        {
-          "name": "Sahir Montoya",
-          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
-        }
-      ],
-      "duration_ms": 115466,
-      "name": "La P-90",
-      "url": "https://open.spotify.com/track/1nMXGIFXA2bWyuqv3Q283w"
     },
     {
       "added_at": "2025-03-04 18:51:25",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2025-03-04 18:51:25",
       "album": {
-        "name": "BUGATTI CHIRON",
-        "url": "https://open.spotify.com/album/69Gzsu5wyWB9uCmn3p0dYY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 206677,
-      "name": "BUGATTI CHIRON",
-      "url": "https://open.spotify.com/track/6R582RgN0hx6d4QDtrtcHU"
-    },
-    {
-      "added_at": "2025-03-04 18:51:25",
-      "album": {
         "name": "Ondeado V2",
         "url": "https://open.spotify.com/album/3QP7QduLUEP3xkQQNZpkYl"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 355869,
       "name": "Ondeado V2",
       "url": "https://open.spotify.com/track/5X5thivWst7CHdwIO3l2qw"
+    },
+    {
+      "added_at": "2025-03-04 18:51:25",
+      "album": {
+        "name": "BUGATTI CHIRON",
+        "url": "https://open.spotify.com/album/69Gzsu5wyWB9uCmn3p0dYY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 206677,
+      "name": "BUGATTI CHIRON",
+      "url": "https://open.spotify.com/track/6R582RgN0hx6d4QDtrtcHU"
     },
     {
       "added_at": "2025-03-04 18:51:25",
@@ -1863,26 +1863,6 @@
     {
       "added_at": "2025-03-04 18:51:25",
       "album": {
-        "name": "Estoy Carita",
-        "url": "https://open.spotify.com/album/7JLscX5AAvokBXhQS8CdQ0"
-      },
-      "artists": [
-        {
-          "name": "Victor Valverde",
-          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
-        },
-        {
-          "name": "El Compa JD",
-          "url": "https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0"
-        }
-      ],
-      "duration_ms": 153388,
-      "name": "Estoy Carita",
-      "url": "https://open.spotify.com/track/1fioo8JPVz6CEVe52xpYov"
-    },
-    {
-      "added_at": "2025-03-04 18:51:25",
-      "album": {
         "name": "Los Brothers (09/19)",
         "url": "https://open.spotify.com/album/0A5XLLKJ8Z7G6AM7uL4WzI"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 216310,
       "name": "Los Brothers (09/19)",
       "url": "https://open.spotify.com/track/0c8WcRLJRUuQfQIdmXAzpA"
+    },
+    {
+      "added_at": "2025-03-04 18:51:25",
+      "album": {
+        "name": "Estoy Carita",
+        "url": "https://open.spotify.com/album/7JLscX5AAvokBXhQS8CdQ0"
+      },
+      "artists": [
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+        },
+        {
+          "name": "El Compa JD",
+          "url": "https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0"
+        }
+      ],
+      "duration_ms": 153388,
+      "name": "Estoy Carita",
+      "url": "https://open.spotify.com/track/1fioo8JPVz6CEVe52xpYov"
     },
     {
       "added_at": "2025-03-04 18:51:25",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2025-03-04 18:51:25",
       "album": {
+        "name": "Otra Vez Pegue Un Vergazo",
+        "url": "https://open.spotify.com/album/29QJDqvpmZ75SvUe8n3ETz"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 169408,
+      "name": "Otra Vez Pegue Un Vergazo",
+      "url": "https://open.spotify.com/track/4McpYuSV5NUuvX2dv9Vhy6"
+    },
+    {
+      "added_at": "2025-03-04 18:51:25",
+      "album": {
         "name": "No Hay Loco Que No Corone",
         "url": "https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 159182,
       "name": "La Mariconera",
       "url": "https://open.spotify.com/track/6YBT8X7UohJrTv5BaRgAu8"
-    },
-    {
-      "added_at": "2025-03-04 18:51:25",
-      "album": {
-        "name": "Otra Vez Pegue Un Vergazo",
-        "url": "https://open.spotify.com/album/29QJDqvpmZ75SvUe8n3ETz"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 169408,
-      "name": "Otra Vez Pegue Un Vergazo",
-      "url": "https://open.spotify.com/track/4McpYuSV5NUuvX2dv9Vhy6"
     }
   ],
   "unique_name": "El Barrio MP3",

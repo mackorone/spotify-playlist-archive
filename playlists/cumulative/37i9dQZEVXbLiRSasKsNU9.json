@@ -14830,7 +14830,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 253333,
       "name": "CURSE (\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19)",
       "url": "https://open.spotify.com/track/77rZWogLvZ2NOf248oMd6N"
@@ -16796,7 +16796,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 195431,
       "name": "DIE TRYING",
       "url": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
@@ -37182,7 +37182,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -37872,7 +37872,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-16",
       "duration_ms": 185000,
       "name": "Maand",
       "url": "https://open.spotify.com/track/2ZzZ2qwZBWlDKs420hhloc"
@@ -72653,6 +72653,24 @@
     },
     {
       "album": {
+        "name": "\u0e19\u0e04\u0e23\u0e14\u0e32\u0e23\u0e32",
+        "url": "https://open.spotify.com/album/4EAcsAQeQ7kM5eO9UBBnfM"
+      },
+      "artists": [
+        {
+          "name": "YOUNGOHM",
+          "url": "https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196187,
+      "name": "\u0e19\u0e04\u0e23\u0e14\u0e32\u0e23\u0e32",
+      "url": "https://open.spotify.com/track/2wyjOiDh07ISNq0oq69G4e"
+    },
+    {
+      "album": {
         "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21 - Single",
         "url": "https://open.spotify.com/album/74xRXPyQxRiFj29WW1F1Ka"
       },
@@ -73050,6 +73068,24 @@
       "duration_ms": 237426,
       "name": "\u4e09\u4eba\u904a",
       "url": "https://open.spotify.com/track/0ZkoOzNcWkxXaeWzuBFWPU"
+    },
+    {
+      "album": {
+        "name": "\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u5f71\u89c6\u539f\u58f0\u5e26\u00b7\u53ea\u559c\u6b22\u4f60Love Moments",
+        "url": "https://open.spotify.com/album/7hcotSWQZpoxnAmA04vCOr"
+      },
+      "artists": [
+        {
+          "name": "Silence Wang",
+          "url": "https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236616,
+      "name": "\u50cf\u6674\u5929\u50cf\u96e8\u5929\uff08\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u5fc3\u52a8\u66f2\uff09",
+      "url": "https://open.spotify.com/track/298LjjcBvuQCAlwUWb9dKb"
     },
     {
       "album": {

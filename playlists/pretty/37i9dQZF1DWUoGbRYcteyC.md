@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 
 > Qué bonito se siente el amor\. 💘
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,988,923 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,988,990 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 51 | [Cohete](https://open.spotify.com/track/2P58XhyNkacK1LHSCk5O2t) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cohete](https://open.spotify.com/album/34L6DaZIUkzQvZwDd5Cx9a) | 2:52 |
 | 52 | [Tengamos Pasado](https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tengamos Pasado](https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF) | 3:00 |
 | 53 | [Llegaste tú](https://open.spotify.com/track/5gAbyyyD5Pr0WDkX8sNWSO) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Jesse & Joy](https://open.spotify.com/album/09Gz79Vlh6TDdL5qt5PhQR) | 4:05 |
-| 54 | [7 Veces](https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 |
-| 55 | [Carita Bonita](https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Carita Bonita](https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd) | 3:46 |
+| 54 | [Carita Bonita](https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Carita Bonita](https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd) | 3:46 |
+| 55 | [7 Veces](https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 |
 | 56 | [una foto de nosotros](https://open.spotify.com/track/6W515xp3vRZshHQYP7fBMi) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [al romper la burbuja](https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM) | 3:59 |
 | 57 | [el afortunado](https://open.spotify.com/track/4cgm8ysMxbJr6x84l7XArd) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz) | [el afortunado](https://open.spotify.com/album/2zrZBkIysHuJUkzYDQ9Lx2) | 3:20 |
 | 58 | [Café Con Canela](https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [The Islanauts](https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx) | [Gaia](https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY) | 4:18 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 69 | [de mi pa ti](https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [de mi pa ti](https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l) | 3:26 |
 | 70 | [Cuando Te Encuentre](https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Cuando Te Encuentre](https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC) | 2:56 |
 | 71 | [yo tuya, tú mío](https://open.spotify.com/track/6rqalHH9LASV0IMcDl77uY) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Caloncho](https://open.spotify.com/artist/177ejRPrISENgJPlACpRGJ) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 3:51 |
-| 72 | [Paracaídas](https://open.spotify.com/track/0xAgxTy0wAKlP1fULdIfao) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG), [SHEISA](https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8) | [Paracaídas](https://open.spotify.com/album/0ordq0iFB7VYOYhdl8ElTZ) | 2:35 |
-| 73 | [La Cura](https://open.spotify.com/track/0k5uE9yV9IXNXrNkPcWCfW) | [Bruno Romano](https://open.spotify.com/artist/5X0LwOlzNqPulEOFm9hH1k), [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [La Cura](https://open.spotify.com/album/1Uxqbryd9wcCJw0s38EuVU) | 3:34 |
+| 72 | [La Cura](https://open.spotify.com/track/0k5uE9yV9IXNXrNkPcWCfW) | [Bruno Romano](https://open.spotify.com/artist/5X0LwOlzNqPulEOFm9hH1k), [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [La Cura](https://open.spotify.com/album/1Uxqbryd9wcCJw0s38EuVU) | 3:34 |
+| 73 | [Paracaídas](https://open.spotify.com/track/0xAgxTy0wAKlP1fULdIfao) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG), [SHEISA](https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8) | [Paracaídas](https://open.spotify.com/album/0ordq0iFB7VYOYhdl8ElTZ) | 2:35 |
 | 74 | [Por Ti](https://open.spotify.com/track/4tedENnmJQTVp64e8XGUCm) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [Silencio](https://open.spotify.com/album/2mYLLf0fI3qMoXu2Ij6A8W) | 3:08 |
 | 75 | [La Que Yo Amo](https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 3](https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X) | 2:12 |
 

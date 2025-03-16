@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,271,690 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,271,836 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 46 | [I'll Be Seeing You](https://open.spotify.com/track/4fT0kbU0e5AxBgCt84qOzC) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [I'll Be Seeing You](https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL) | 6:07 |
 | 47 | [Moonlight Becomes You](https://open.spotify.com/track/0p5hnLhOSlRpn8BMYEed4Q) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Night Songs II](https://open.spotify.com/album/1X7eqeVcBMjmPvvUHFb7kV) | 3:27 |
 | 48 | [Monday](https://open.spotify.com/track/4FYmHTavxSVFUPyM2GUpPb) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [For One to Love](https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu) | 2:01 |
-| 49 | [I Walk A Little Faster](https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Dear Blossom,](https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c) | 3:53 |
+| 49 | [Never Let Me Go](https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H) | [First Conversation](https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1) | 4:31 |
 | 50 | [My Romance](https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Sings The Rodgers & Hart Songbook](https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN) | 3:42 |
-| 51 | [Never Let Me Go](https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H) | [First Conversation](https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1) | 4:31 |
+| 51 | [I Walk A Little Faster](https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Dear Blossom,](https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c) | 3:53 |
 | 52 | [As Time Goes By](https://open.spotify.com/track/4SD2UnbSVWBulYnFMg8KSi) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ), [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [Meet Me at the Movies \(feat\. Iiro Rantala\)](https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4) | 5:31 |
 | 53 | [Wild Is The Wind](https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T) | [Kari Kirkland](https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU) | [Wild Is The Wind](https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp) | 5:43 |
 | 54 | [Cheek to Cheek](https://open.spotify.com/track/78nzY9fNwCTxpVxjh3ITWn) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb), [Magnus Lindgren](https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN) | [Cheek to Cheek](https://open.spotify.com/album/6IRlKG1GX4XDN42ow8V3ot) | 7:03 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 62 | [Never Say Yes](https://open.spotify.com/track/2Ka8P81G57GuTFg6dP22qN) | [Maria Kim](https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB) | [Never Say Yes](https://open.spotify.com/album/670e77IHq9uXEBiaPh4fQZ) | 3:32 |
 | 63 | [As You Are](https://open.spotify.com/track/4NMmzP4VL8cPZmbBzr7zgI) | [Margareta Bengtson](https://open.spotify.com/artist/1JCdbZOcdCzEP77XJoj3Ov), [Jan Allan](https://open.spotify.com/artist/16oi0GQ9croDkKnFFCU1z6), [Anders Paulsson](https://open.spotify.com/artist/7ckFJ4mBSnZE1HYuF9DL2y), [Alberto Pinton](https://open.spotify.com/artist/3UjG2ialyrtso8EoqYavB2), [Third Saxes Galore](https://open.spotify.com/artist/5XylwFZ2XZhB1yGJ09z98X) | [As We Are](https://open.spotify.com/album/4NbKMvjr3BYWJydaVvwWjx) | 5:30 |
 | 64 | [People Will Say We're In Love](https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij) | [Kat Gang](https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi) | [Come Closer](https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39) | 2:58 |
-| 65 | [From This Moment On](https://open.spotify.com/track/70xqHGcL0BI5UCUFXIjqc2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [Bria](https://open.spotify.com/album/1QsBBWWuzjNgoEOZbI8K3N) | 5:55 |
-| 66 | [Li'l Darlin](https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU) | [Monica Borrfors](https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb) | [Li'l Darlin](https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9) | 3:15 |
+| 65 | [Li'l Darlin](https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU) | [Monica Borrfors](https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb) | [Li'l Darlin](https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9) | 3:15 |
+| 66 | [From This Moment On](https://open.spotify.com/track/70xqHGcL0BI5UCUFXIjqc2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [Bria](https://open.spotify.com/album/1QsBBWWuzjNgoEOZbI8K3N) | 5:55 |
 | 67 | [Like Someone in Love](https://open.spotify.com/track/1my1nf6O10GIZEZRp2Cxv7) | [Elisabeth Melander](https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm) | [Reflections of a Voice](https://open.spotify.com/album/7nGWElWBanIzLOX3S6jeQH) | 4:25 |
 | 68 | [You Go to My Head](https://open.spotify.com/track/1xxxPMRx3geNxH5IzUGpbX) | [Live Foyn Friis](https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af), [Bård Helgerud](https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh), [Rodrigo Villagra](https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv), [Magnus Sefaniassen Eide](https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw) | [Live Sings Sassy](https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr) | 6:16 |
 | 69 | [The Touch of Your Lips](https://open.spotify.com/track/5Qq1gWHJ0yFkW6cHNewvTZ) | [Richard Shelton](https://open.spotify.com/artist/5jCYSk9xAiet0VnSeYvi1t) | [An Englishman in Love in LA](https://open.spotify.com/album/723cgY8qRQjpkNYtGBgkIp) | 2:56 |

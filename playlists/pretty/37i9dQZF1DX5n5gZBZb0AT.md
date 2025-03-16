@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 908,680 likes - 40 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 908,776 likes - 40 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 12 | [DERNIERE DANCE FUNK](https://open.spotify.com/track/6NxIh2DTIOoATFmezrHv61) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or), [YXUNGXROTICA](https://open.spotify.com/artist/7gyc1wWTGmRwZpYtiFwH1D), [MC KRAKEN](https://open.spotify.com/artist/3Uy7W2zcbfxQWLDAXTPugq) | [DERNIERE DANCE FUNK](https://open.spotify.com/album/5sJAIhExhl8Ok1lAuQ8pPT) | 1:31 |
 | 13 | [Tacata \(Remix\)](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 |
 | 14 | [Life in Rio](https://open.spotify.com/track/7vtGOauV0Zz8Px5EJYm7d7) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [Life in Rio](https://open.spotify.com/album/2EuOCirl08WxbRY2cfj4H5) | 1:34 |
-| 15 | [AUTOMOTIVO EMPURRA](https://open.spotify.com/track/37IDTp3sPhcMNaYYZa7Ir6) | [sma$her](https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx) | [AUTOMOTIVO EMPURRA](https://open.spotify.com/album/2nwhU1YBl1CCMUQeKrh2lr) | 1:12 |
-| 16 | [NEON BLADE](https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [NEON BLADE](https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm) | 4:25 |
+| 15 | [NEON BLADE](https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [NEON BLADE](https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm) | 4:25 |
+| 16 | [AUTOMOTIVO EMPURRA](https://open.spotify.com/track/37IDTp3sPhcMNaYYZa7Ir6) | [sma$her](https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx) | [AUTOMOTIVO EMPURRA](https://open.spotify.com/album/2nwhU1YBl1CCMUQeKrh2lr) | 1:12 |
 | 17 | [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 |
 | 18 | [GHOST!](https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [GHOST!](https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3) | 3:51 |
 | 19 | [Live Another Day](https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Phonkageddon](https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg) | 2:13 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 24 | [WAKE UP!](https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [WAKE UP!](https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l) | 2:22 |
 | 25 | [FRESH](https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ) | [NXVAMANE](https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh) | [FRESH](https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si) | 1:08 |
 | 26 | [Mexican Phonk Eki](https://open.spotify.com/track/586x98q1tY2vlDlhN1BwQM) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [Mexican Phonk Eki](https://open.spotify.com/album/1vQpZhp0nRdlUT4m2cgV4k) | 1:38 |
-| 27 | [✻H+3+ЯД✻7luCJIo0T6...](https://open.spotify.com/track/4hjRjhLvBIMUUhRjb7DACd) | [vyrval](https://open.spotify.com/artist/4hJrxZPQydibSnMMq7PpB9) | [✻H+3+ЯД✻7luCJIo0T6...](https://open.spotify.com/album/3joHEvqURxvBwrT5JZS3Sn) | 3:10 |
-| 28 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 |
+| 27 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 |
+| 28 | [✻H+3+ЯД✻7luCJIo0T6...](https://open.spotify.com/track/4hjRjhLvBIMUUhRjb7DACd) | [vyrval](https://open.spotify.com/artist/4hJrxZPQydibSnMMq7PpB9) | [✻H+3+ЯД✻7luCJIo0T6...](https://open.spotify.com/album/3joHEvqURxvBwrT5JZS3Sn) | 3:10 |
 | 29 | [Crystals](https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d) | [Isolate.exe](https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI) | [Crystals](https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS) | 2:19 |
 | 30 | [REI DO BRASIL](https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG) | [Seek](https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6) | [REI DO BRASIL](https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7) | 1:37 |
 | 31 | [Scopin](https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Scopin](https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1) | 1:41 |

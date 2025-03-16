@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbu94YBG7Ye.md) - [plain]
 
 > Si la rompe está acá\. Foto: Luisa Sonza & Emilia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,463,120 likes - 51 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,463,491 likes - 51 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

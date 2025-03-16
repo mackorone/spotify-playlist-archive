@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,184 likes - 200 songs - 10 hr 59 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,186 likes - 200 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,7 +167,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 157 | [Never B Lonely](https://open.spotify.com/track/4L1rQRuGc8jWOwnHj37VSe) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP), [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI) | [Never B Lonely](https://open.spotify.com/album/769FMe3G1AtZM8IEcBYtvg) | 2:15 |
 | 158 | [Empty](https://open.spotify.com/track/58D2ovS7dHHgLmql6PiAeQ) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [Cxssidy](https://open.spotify.com/artist/3Y3lbzoi0F8wQIiTnIbDXq) | [Empty](https://open.spotify.com/album/2HfbK1ST2rbiFui9X3aJbb) | 2:25 |
 | 159 | [Check Dis Out](https://open.spotify.com/track/6gZ7DAxV3Y3e41rk5GBMzN) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [Check Dis Out](https://open.spotify.com/album/7Blc6HJNxFjfRepAwfPS1p) | 4:29 |
-| 160 | [CONTROL](https://open.spotify.com/track/5qapnzaAfva9OaYEsgkfbs) | [Thys](https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR), [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo), [Salvador Breed](https://open.spotify.com/artist/22xd8bAvjsXYYN3iGH2OwA), [VIER](https://open.spotify.com/artist/4dU80Fb1kJfjhzcm7pdoTZ) | [CONTROL](https://open.spotify.com/album/7mMAtdKKnTLuAhqH5GSPPa) | 3:28 |
+| 160 | [CONTROL](https://open.spotify.com/track/5qapnzaAfva9OaYEsgkfbs) | [Thys](https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR), [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo), [Salvador Breed](https://open.spotify.com/artist/3Fm7ghphFsZmeStY1gxcp2), [VIER](https://open.spotify.com/artist/4dU80Fb1kJfjhzcm7pdoTZ) | [CONTROL](https://open.spotify.com/album/7mMAtdKKnTLuAhqH5GSPPa) | 3:28 |
 | 161 | [We Rise \- Buunshin Remix](https://open.spotify.com/track/59tVW0aw3veS7AWMaV5H3B) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Buunshin](https://open.spotify.com/artist/5ucX3eT8wlEQGRVwUyeqBj) | [WE RISE: THE COLLECTION](https://open.spotify.com/album/5hcYuoeF5ObPswa459be8e) | 2:03 |
 | 162 | [SCREAMER](https://open.spotify.com/track/06upMwxjcRdKT4KrVq5uTx) | [Lizdek](https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG) | [SCREAMER](https://open.spotify.com/album/4ief9fgROFuIJMfgxslVWr) | 4:16 |
 | 163 | [Wet Peak Stars](https://open.spotify.com/track/5bZyJlELRUQatrt9SoJP8u) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Meth Math](https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T) | [Wet Peak Stars](https://open.spotify.com/album/58l8wpZzrtrxvyhIJbHwDB) | 3:19 |

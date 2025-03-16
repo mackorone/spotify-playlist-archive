@@ -1,33 +1,13 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 43115,
+  "num_followers": 43118,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAACEHNfs5lO7HDof7zcu4NqG",
+  "snapshot_id": "Z9NxgAAAAACGas3p2TLhSmsQouk2g8qQ",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "RE-CREO",
-        "url": "https://open.spotify.com/album/1wSaLMi54sHcTLvtWfMCEf"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Dazoner",
-          "url": "https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B"
-        }
-      ],
-      "duration_ms": 176923,
-      "name": "RE-CREO",
-      "url": "https://open.spotify.com/track/3KdOtZsp0nK3fLa5eztJRl"
-    },
     {
       "added_at": null,
       "album": {
@@ -443,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piensa En Mis Labios",
-        "url": "https://open.spotify.com/album/28uLx5hVcVsqpS1vfW7szR"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 197407,
-      "name": "Piensa En Mis Labios",
-      "url": "https://open.spotify.com/track/1BJ5lfbcxJnDICmo4QBF27"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/4ss4Hp44BnnJxCQua0TuSk"
       },
@@ -479,6 +443,22 @@
       "duration_ms": 187467,
       "name": "OMG",
       "url": "https://open.spotify.com/track/5gjRYrS0Vp6xO7wwSU9fQv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piensa En Mis Labios",
+        "url": "https://open.spotify.com/album/28uLx5hVcVsqpS1vfW7szR"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 197407,
+      "name": "Piensa En Mis Labios",
+      "url": "https://open.spotify.com/track/1BJ5lfbcxJnDICmo4QBF27"
     },
     {
       "added_at": null,
@@ -527,6 +507,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Por Tu Piel",
+        "url": "https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "Por Tu Piel",
+      "url": "https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ROMA",
         "url": "https://open.spotify.com/album/2a41sz8sMlWxR31PGTFLyW"
       },
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Tu Piel",
-        "url": "https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "Por Tu Piel",
-      "url": "https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Rencor Ni Mal De Amores",
         "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
       },
@@ -587,26 +567,6 @@
       "duration_ms": 198591,
       "name": "Sin Rencor Ni Mal De Amores",
       "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Retumbando en la Ciudad",
-        "url": "https://open.spotify.com/album/5cufO6yyzjtoouiGKv1R7J"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 214736,
-      "name": "Retumbando en la Ciudad",
-      "url": "https://open.spotify.com/track/729kMWkfzHPcum2dMczWoa"
     },
     {
       "added_at": null,
@@ -699,6 +659,26 @@
       "duration_ms": 381000,
       "name": "La Familia",
       "url": "https://open.spotify.com/track/3NFtMIwXTLsSrUua7AzxA6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Retumbando en la Ciudad",
+        "url": "https://open.spotify.com/album/5cufO6yyzjtoouiGKv1R7J"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 214736,
+      "name": "Retumbando en la Ciudad",
+      "url": "https://open.spotify.com/track/729kMWkfzHPcum2dMczWoa"
     },
     {
       "added_at": null,
@@ -839,22 +819,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e1melo",
-        "url": "https://open.spotify.com/album/3YUn7HRgQj6c8R0WeXpmpC"
+        "name": "Cheque En Blanco",
+        "url": "https://open.spotify.com/album/6wNGbXprjtkBgqmcDIjq5t"
       },
       "artists": [
         {
           "name": "Yoss Bones",
           "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 183529,
-      "name": "D\u00e1melo",
-      "url": "https://open.spotify.com/track/5C1YeWx8HhUnkWOuWvGxi2"
+      "duration_ms": 167471,
+      "name": "Cheque En Blanco",
+      "url": "https://open.spotify.com/track/3ptBToIJ9MHnMXrSEagTNI"
     },
     {
       "added_at": null,
@@ -883,18 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cheque En Blanco",
-        "url": "https://open.spotify.com/album/6wNGbXprjtkBgqmcDIjq5t"
+        "name": "D\u00e1melo",
+        "url": "https://open.spotify.com/album/3YUn7HRgQj6c8R0WeXpmpC"
       },
       "artists": [
         {
           "name": "Yoss Bones",
           "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 167471,
-      "name": "Cheque En Blanco",
-      "url": "https://open.spotify.com/track/3ptBToIJ9MHnMXrSEagTNI"
+      "duration_ms": 183529,
+      "name": "D\u00e1melo",
+      "url": "https://open.spotify.com/track/5C1YeWx8HhUnkWOuWvGxi2"
     },
     {
       "added_at": null,
@@ -1027,22 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/0bHlhoa28gqmsheSevIFZt"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/0QK3Yshn8c0plhuErNvmKz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feedback",
         "url": "https://open.spotify.com/album/3OI8rQ4iGVRVswrQGWAmr1"
       },
@@ -1067,8 +1031,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que Qued\u00f3",
-        "url": "https://open.spotify.com/album/4h69km8MmjfhpDEBXRnxhc"
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/0bHlhoa28gqmsheSevIFZt"
       },
       "artists": [
         {
@@ -1076,9 +1040,9 @@
           "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         }
       ],
-      "duration_ms": 207464,
-      "name": "Lo Que Qued\u00f3",
-      "url": "https://open.spotify.com/track/30Sn828wzCRX4ateJdo8hS"
+      "duration_ms": 204000,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/0QK3Yshn8c0plhuErNvmKz"
     },
     {
       "added_at": null,
@@ -1099,6 +1063,46 @@
       "duration_ms": 226666,
       "name": "De Roll",
       "url": "https://open.spotify.com/track/5yvRLSBdxhhVCZv9MvGKhE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Que Qued\u00f3",
+        "url": "https://open.spotify.com/album/4h69km8MmjfhpDEBXRnxhc"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 207464,
+      "name": "Lo Que Qued\u00f3",
+      "url": "https://open.spotify.com/track/30Sn828wzCRX4ateJdo8hS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dos Extra\u00f1os",
+        "url": "https://open.spotify.com/album/6rxxhbHjt4bwvrbm660BZ7"
+      },
+      "artists": [
+        {
+          "name": "Adehese",
+          "url": "https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "duration_ms": 196216,
+      "name": "Dos Extra\u00f1os",
+      "url": "https://open.spotify.com/track/4H6yrTlUFFtFe1qwHp2gOL"
     },
     {
       "added_at": null,
@@ -1163,30 +1167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dos Extra\u00f1os",
-        "url": "https://open.spotify.com/album/6rxxhbHjt4bwvrbm660BZ7"
-      },
-      "artists": [
-        {
-          "name": "Adehese",
-          "url": "https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        }
-      ],
-      "duration_ms": 196216,
-      "name": "Dos Extra\u00f1os",
-      "url": "https://open.spotify.com/track/4H6yrTlUFFtFe1qwHp2gOL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Termin\u00f3",
         "url": "https://open.spotify.com/album/63lAxlMVz2csTGTL21pAr9"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 213900,
       "name": "Se Termin\u00f3",
       "url": "https://open.spotify.com/track/50plcj5jttwA8Uhb6ETtIR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RE-CREO",
+        "url": "https://open.spotify.com/album/1wSaLMi54sHcTLvtWfMCEf"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Dazoner",
+          "url": "https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B"
+        }
+      ],
+      "duration_ms": 176923,
+      "name": "RE-CREO",
+      "url": "https://open.spotify.com/track/3KdOtZsp0nK3fLa5eztJRl"
     },
     {
       "added_at": null,

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Key Glock
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,674 likes - 78 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,676 likes - 78 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No Sweat](https://open.spotify.com/track/0K0jgfFssBL0Q5IcFMrsSz) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [No Sweat](https://open.spotify.com/album/6gUOpZLzz8nEAHgLRW9kxZ) | 2:35 |
-| 2 | [GOOD CREDIT](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
+| 2 | [GOOD CREDIT \(with Kendrick Lamar\)](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
 | 3 | [バグり \(feat\. kZm, Awich, PETZ, MonyHorse & JNKMN\)](https://open.spotify.com/track/3FdZ6MCqA9y0Hhlc8U9uSw) | [YENTOWN](https://open.spotify.com/artist/5MZKzz8nnucMHhJq34UZwe), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L) | [バグり \(feat\. kZm, Awich, PETZ, MonyHorse & JNKMN\)](https://open.spotify.com/album/2fPFTelUOr9Nw72DW55aHU) | 3:06 |
 | 4 | [RIGHT THERE!](https://open.spotify.com/track/336VOfFpogXMtrKoZI3NsE) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [RIGHT THERE!](https://open.spotify.com/album/4yW8JiZvkDk2hNdZPQ1Fso) | 3:18 |
 | 5 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 |

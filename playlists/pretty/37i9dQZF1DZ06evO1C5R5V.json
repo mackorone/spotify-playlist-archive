@@ -1,12 +1,12 @@
 {
   "description": "This is El Harag\u00e1n y Compa\u00f1\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 34227,
+  "num_followers": 34244,
   "original_name": "This Is El Harag\u00e1n y Compa\u00f1\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAD2h7qdU36D5ir8BhybhA9Y",
+  "snapshot_id": "Z9NxgAAAAAABBzaVjOF7PxRREcPutc9X",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Capela, Vol. 1 (Canciones para Escuchar)",
-        "url": "https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 231410,
-      "name": "En los A\u00f1os Treintas",
-      "url": "https://open.spotify.com/track/4ln59NsJPYXzc76BRUAwAw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En el Coraz\u00f3n No Hay Nada",
         "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 183576,
       "name": "Sue\u00f1os de la Ciudad",
       "url": "https://open.spotify.com/track/1vF4DBQzM7bEPjemMek3GK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Capela, Vol. 1 (Canciones para Escuchar)",
+        "url": "https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 231410,
+      "name": "En los A\u00f1os Treintas",
+      "url": "https://open.spotify.com/track/4ln59NsJPYXzc76BRUAwAw"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sesiones Ac\u00fasticas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1Ac1Kb7MCxIoWlBEM3C2Fr"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 267059,
-      "name": "El Camino del Coraz\u00f3n - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4WzOYzaJTMigSoeAStr3M2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 \u00c9xitos de Colecci\u00f3n",
         "url": "https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7"
       },
@@ -727,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Sin Visa, Vol. 5",
-        "url": "https://open.spotify.com/album/0AyiNIjnVL9xXOcQTIGEOp"
+        "name": "Sesiones Ac\u00fasticas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1Ac1Kb7MCxIoWlBEM3C2Fr"
       },
       "artists": [
         {
@@ -736,9 +720,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 228373,
-      "name": "La Noche y el Silencio",
-      "url": "https://open.spotify.com/track/3AVe4mvbEHRnflD75y5TAV"
+      "duration_ms": 267059,
+      "name": "El Camino del Coraz\u00f3n - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4WzOYzaJTMigSoeAStr3M2"
     },
     {
       "added_at": null,
@@ -755,6 +739,22 @@
       "duration_ms": 326133,
       "name": "En los A\u00f1os 30 - En Vivo",
       "url": "https://open.spotify.com/track/6i0Bd62X1NRfkdroWlwvo3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock Sin Visa, Vol. 5",
+        "url": "https://open.spotify.com/album/0AyiNIjnVL9xXOcQTIGEOp"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 228373,
+      "name": "La Noche y el Silencio",
+      "url": "https://open.spotify.com/track/3AVe4mvbEHRnflD75y5TAV"
     },
     {
       "added_at": null,

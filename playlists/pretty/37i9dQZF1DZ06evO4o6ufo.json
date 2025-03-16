@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 76610,
+  "num_followers": 76665,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAADLfAxYPIPUKt0Ggcmkgui7",
+  "snapshot_id": "Z9NxgAAAAAC/YbZ30DARd3doBSC17Ska",
   "tracks": [
     {
       "added_at": null,
@@ -675,22 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Soy Serafin",
-        "url": "https://open.spotify.com/album/6gl5yLhjGsSgZJG0Hu80KM"
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
       },
       "artists": [
         {
-          "name": "Los Intocables Del Norte",
-          "url": "https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z"
-        },
-        {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
         }
       ],
-      "duration_ms": 161703,
-      "name": "Yo Soy Serafin",
-      "url": "https://open.spotify.com/track/5eAiuGaZcQ8ckwSMLSDIBu"
+      "duration_ms": 169745,
+      "name": "El Dos Letras De Jalisco (En Vivo)",
+      "url": "https://open.spotify.com/track/6HZjVABCo7kWuwnuLwCItJ"
     },
     {
       "added_at": null,
@@ -711,22 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
+        "name": "Yo Soy Serafin",
+        "url": "https://open.spotify.com/album/6gl5yLhjGsSgZJG0Hu80KM"
       },
       "artists": [
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "Los Intocables Del Norte",
+          "url": "https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z"
         },
         {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 169745,
-      "name": "El Dos Letras De Jalisco (En Vivo)",
-      "url": "https://open.spotify.com/track/6HZjVABCo7kWuwnuLwCItJ"
+      "duration_ms": 161703,
+      "name": "Yo Soy Serafin",
+      "url": "https://open.spotify.com/track/5eAiuGaZcQ8ckwSMLSDIBu"
     },
     {
       "added_at": null,
@@ -751,22 +751,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culiac\u00e1n Deluxe (En Vivo)",
-        "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
       },
       "artists": [
-        {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
-        },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 219174,
-      "name": "El Pistolero (En Vivo)",
-      "url": "https://open.spotify.com/track/4BQ4yefJv2VJNj6brqANze"
+      "duration_ms": 178175,
+      "name": "El Puente Roto (En Vivo)",
+      "url": "https://open.spotify.com/track/7exNpJsnVhoErwT2wvO1AY"
     },
     {
       "added_at": null,
@@ -787,18 +783,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
+        "name": "Culiac\u00e1n Deluxe (En Vivo)",
+        "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
       },
       "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 178175,
-      "name": "El Puente Roto (En Vivo)",
-      "url": "https://open.spotify.com/track/7exNpJsnVhoErwT2wvO1AY"
+      "duration_ms": 219174,
+      "name": "El Pistolero (En Vivo)",
+      "url": "https://open.spotify.com/track/4BQ4yefJv2VJNj6brqANze"
     },
     {
       "added_at": null,

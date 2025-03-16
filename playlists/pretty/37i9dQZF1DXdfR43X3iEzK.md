@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > My alt/pop could mean anything! Cover: Wet
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,651 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,650 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,14 +51,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 41 | [In The Living Room](https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [In The Living Room](https://open.spotify.com/album/2HkwfUQg1Z4idyipFLuhnQ) | 4:23 |
 | 42 | [I think about it all the time featuring bon iver](https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:20 |
 | 43 | [Green](https://open.spotify.com/track/6WbhQCkDF5z1UosH9tOP3C) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Green](https://open.spotify.com/album/0rRFSUlfc5TPXuKbQx2tk3) | 3:57 |
-| 44 | [9\-5](https://open.spotify.com/track/4ECDmDKk1h0JmNqNQL6Aiw) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [11:11](https://open.spotify.com/album/64Nwjh0IJLk48W0QjhFgfQ) | 2:35 |
+| 44 | [RACER](https://open.spotify.com/track/3juZveIW3kxZUV7s75j55D) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [RACER](https://open.spotify.com/album/5DJ9CbMJJgQsWmJYLsCoyk) | 2:40 |
 | 45 | [American Doll](https://open.spotify.com/track/49qWseFkwRYjqCJCul5h9o) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [SALVATION](https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7) | 2:15 |
-| 46 | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 |
-| 47 | [RACER](https://open.spotify.com/track/3juZveIW3kxZUV7s75j55D) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [RACER](https://open.spotify.com/album/5DJ9CbMJJgQsWmJYLsCoyk) | 2:40 |
-| 48 | [infinyte](https://open.spotify.com/track/2Kl5gKDEka8E0JY9fbZK2g) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [infinyte](https://open.spotify.com/album/1WYACABvthzXRg3T5b6QZs) | 2:11 |
-| 49 | [AUX](https://open.spotify.com/track/3el0iIbfpM3a838tWxLuSO) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [AUX](https://open.spotify.com/album/4THxfUGkJIhtrlhBCWbgmZ) | 3:06 |
-| 50 | [Lizard](https://open.spotify.com/track/4rmMO7iCXpt4BClXUd5eDS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Lizard](https://open.spotify.com/album/3NJrjLlAcDdUsgP78WVuck) | 3:20 |
-| 51 | [Hot and Stupid](https://open.spotify.com/track/0B9yMae4fLWvjDQGFKon40) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Hot and Stupid](https://open.spotify.com/album/3RmYXWeVscd3fLgjS0c7tW) | 2:23 |
+| 46 | [9\-5](https://open.spotify.com/track/4ECDmDKk1h0JmNqNQL6Aiw) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [11:11](https://open.spotify.com/album/64Nwjh0IJLk48W0QjhFgfQ) | 2:35 |
+| 47 | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 |
+| 48 | [AUX](https://open.spotify.com/track/3el0iIbfpM3a838tWxLuSO) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [AUX](https://open.spotify.com/album/4THxfUGkJIhtrlhBCWbgmZ) | 3:06 |
+| 49 | [infinyte](https://open.spotify.com/track/2Kl5gKDEka8E0JY9fbZK2g) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [infinyte](https://open.spotify.com/album/1WYACABvthzXRg3T5b6QZs) | 2:11 |
+| 50 | [Hot and Stupid](https://open.spotify.com/track/0B9yMae4fLWvjDQGFKon40) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Hot and Stupid](https://open.spotify.com/album/3RmYXWeVscd3fLgjS0c7tW) | 2:23 |
+| 51 | [Lizard](https://open.spotify.com/track/4rmMO7iCXpt4BClXUd5eDS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Lizard](https://open.spotify.com/album/3NJrjLlAcDdUsgP78WVuck) | 3:20 |
 | 52 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 |
 | 53 | [madly](https://open.spotify.com/track/7fmt9chGer2jvnUhysySW1) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [madly](https://open.spotify.com/album/1A04yD0uVhmPJgpRyia9Lc) | 2:42 |
 | 54 | [Late to the Party](https://open.spotify.com/track/2Ks2VjMJthZ5sW7K7LljKS) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Late to the Party](https://open.spotify.com/album/0J7ZYI4k5S2uw7MW1BEtXN) | 3:12 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 69 | [Ghostly](https://open.spotify.com/track/4XzPBq65qvgxLclPvu0bQw) | [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [Ghostly](https://open.spotify.com/album/1LlEshLkn4bP1ACf2peFF0) | 3:23 |
 | 70 | [Nightmare\-1000](https://open.spotify.com/track/5AJFzzHaJSiog0iU61haCF) | [Sølv](https://open.spotify.com/artist/4QmC9vyeUlNcmR9sKzbmxe) | [Nightmare\-1000](https://open.spotify.com/album/1zOa3iFibeCxIv2LmyUN2n) | 4:30 |
 | 71 | [Call Me By Your Name](https://open.spotify.com/track/1CIy9H06HPGqs92dnKGTTG) | [Barny Fletcher](https://open.spotify.com/artist/5q9zHGohILrZ2j1bSL1VeG) | [Call Me By Your Name](https://open.spotify.com/album/1Rgi7cJxdtyEBiw82eRo0H) | 3:00 |
-| 72 | [Young\-Girl \(Illusion\)](https://open.spotify.com/track/7BXMOuzZnYYTj2mS0mbS7d) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Young\-Girl \(Illusion\)](https://open.spotify.com/album/10UrSqG6MvEutC0qfrZ1fK) | 3:09 |
-| 73 | [Cowboys!](https://open.spotify.com/track/3fa6yQ4cPzbGZ1iGdsLGps) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [Cowboys!](https://open.spotify.com/album/4E0ESe1xWk3PxnIjKWuyBS) | 2:54 |
-| 74 | [Near\-hearted](https://open.spotify.com/track/5vUGOdQxiPWVbeCQEfyhUt) | [BEEFCAKE](https://open.spotify.com/artist/6IfirsQubd1wvYMUdNQ6hj) | [Near\-hearted](https://open.spotify.com/album/2GaymFwMlPI5fzvxqlApwP) | 3:25 |
+| 72 | [Near\-hearted](https://open.spotify.com/track/5vUGOdQxiPWVbeCQEfyhUt) | [BEEFCAKE](https://open.spotify.com/artist/6IfirsQubd1wvYMUdNQ6hj) | [Near\-hearted](https://open.spotify.com/album/2GaymFwMlPI5fzvxqlApwP) | 3:25 |
+| 73 | [Young\-Girl \(Illusion\)](https://open.spotify.com/track/7BXMOuzZnYYTj2mS0mbS7d) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Young\-Girl \(Illusion\)](https://open.spotify.com/album/10UrSqG6MvEutC0qfrZ1fK) | 3:09 |
+| 74 | [Cowboys!](https://open.spotify.com/track/3fa6yQ4cPzbGZ1iGdsLGps) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [Cowboys!](https://open.spotify.com/album/4E0ESe1xWk3PxnIjKWuyBS) | 2:54 |
 | 75 | [Angel Blonde \(that's life!\)](https://open.spotify.com/track/6bjt5POsImUxhxLgt13Oxu) | [COSIMA](https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH) | [Angel Blonde \(that's life!\)](https://open.spotify.com/album/4FEZfwljIUtEk4MVPWk7bO) | 3:10 |
 | 76 | [Pop Out](https://open.spotify.com/track/4tJP37H4IBwmajRzyzLiNc) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Pop Out](https://open.spotify.com/album/30MkCiLrhvOpfSMaVuZIqn) | 2:29 |
 | 77 | [Good For Me](https://open.spotify.com/track/2n8dQ0i8f5qGbSuUFAKSJ1) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Good For Me](https://open.spotify.com/album/3UdCt2WeU8nsaSNrBRl7BA) | 3:22 |

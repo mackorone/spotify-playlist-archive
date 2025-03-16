@@ -4,7 +4,7 @@
 
 > This is Carin Leon\. The essential tracks, all in one playlist.
 
-165 songs - 8 hr 43 min
+166 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [La Boda del Huitlacoche \- En Vivo](https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Los Honorables](https://open.spotify.com/artist/3FBJxYbSWdf4s3b7qKbjRL) | [Borrachera Con Los Honorables \(En Vivo\)](https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd) | 3:08 | 2023-08-25 | 2025-03-12 |
 | [La Boda Del Huitlacoche \- Live](https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con Los Honorables \(Live\)](https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv) | 3:08 | 2022-06-01 | 2023-08-26 |
 | [La Chancleta](https://open.spotify.com/track/5XZvJ6snWZ66bKyoPZm7wz) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [La Chancleta](https://open.spotify.com/album/4F17JOxOh0m4lMrwgJS6iy) | 3:01 | 2024-08-25 | 2024-12-16 |
-| [La Esquina del Mall](https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Esquina del Mall](https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8) | 3:27 | 2022-10-11 |  |
+| [La Esquina del Mall](https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Esquina del Mall](https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8) | 3:27 | 2022-10-11 | 2025-03-16 |
 | [La Falta](https://open.spotify.com/track/7Ex9Z4MqgbHNiwQJHnXj0R) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Falta](https://open.spotify.com/album/6ZEqDHzgAxGE7ZHOk75ZuX) | 3:08 | 2022-07-28 | 2023-05-27 |
 | [La Farsante](https://open.spotify.com/track/4oudemVp2TYfCxL56Go6lk) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa) | 3:35 | 2022-06-01 | 2023-08-26 |
 | [La Farsante](https://open.spotify.com/track/63iq1gIl7v0KiFCFR8U530) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX) | 3:35 | 2023-08-25 | 2024-12-20 |
@@ -156,6 +156,7 @@
 | [Te Ví Con El](https://open.spotify.com/track/3osBlMQdoOr4Mw7DU0q2v3) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX) | 3:00 | 2023-08-25 |  |
 | [The One \(Pero No Como Yo\)](https://open.spotify.com/track/4IXn21cwFxilAD7SxfeYCN) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The One \(Pero No Como Yo\)](https://open.spotify.com/album/5kz3yJ6kdxXHY2BIW5Ldz1) | 2:56 | 2024-05-07 | 2024-06-13 |
 | [The One \(Pero No Como Yo\)](https://open.spotify.com/track/4sP0UhSgdEExt7KpcgWHFq) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The One \(Pero No Como Yo\)](https://open.spotify.com/album/1XHEmP9tUeP0oWRjntPfyX) | 2:56 | 2024-03-02 | 2024-05-07 |
+| [Tierra Trágame \(con Carín León\)](https://open.spotify.com/track/3FyeZnp9nMLxK2Xo7wAth4) | [Kakalo](https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Tierra Trágame \(con Carín León\)](https://open.spotify.com/album/4nDXv2MDmLPjo1n1tq1Mwd) | 2:52 | 2025-03-16 |  |
 | [Tres Veces Te Engañé \- En Vivo](https://open.spotify.com/track/2mDtpjFCkc94ZBGPNFUCRB) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Tres Veces Te Engañé \(En Vivo\)](https://open.spotify.com/album/67cz8x4lTBKle18uAhzeRa) | 4:16 | 2023-08-13 | 2023-09-16 |
 | [Tu \- En Vivo](https://open.spotify.com/track/0qZO3MuMgRecjEfDdnlGVY) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg) | 4:06 | 2023-08-25 |  |
 | [Tu \- Live](https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 4:06 | 2022-06-01 | 2023-08-26 |

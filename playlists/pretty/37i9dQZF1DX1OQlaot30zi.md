@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di RRARI DAL TACCO, Rose Villain, Low\-Red, Side Baby, Frezza e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,982 likes - 120 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,990 likes - 120 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 21 | [Acqua & Olio \(feat\. Quentin40\)](https://open.spotify.com/track/53HYWKlvlBbz4sNaeAb4Ds) | [9ova](https://open.spotify.com/artist/40ScoYJJAlWfFVrBmIQvJO), [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma) | [L'Estremità del Cerchio](https://open.spotify.com/album/4KNaxkBnTri4P0SrsDX8Yr) | 2:42 |
 | 22 | [Payday](https://open.spotify.com/track/5LBtPn3N4MiJqa7rgZlLl3) | [Lele](https://open.spotify.com/artist/5Ef0bhKWbzbSgfKlCguEoQ) | [Payday](https://open.spotify.com/album/3hpauAo0WgeI685KVE0CGv) | 2:36 |
 | 23 | [1000 indicazioni](https://open.spotify.com/track/34IHUKMMqjOi5JW5GImLa8) | [Stunk](https://open.spotify.com/artist/6eHbpr6dxKAYDUvL0kCU0t) | [1000 indicazioni](https://open.spotify.com/album/33ZGnOFNCkzTPtZWkj868E) | 2:06 |
-| 24 | [Nemmeno mille](https://open.spotify.com/track/6fE39jwmDMgnfsfcT699dN) | [Funk Shui Project](https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E), [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Polvere \(Director's cut\)](https://open.spotify.com/album/42MvJQeal6vjs0kmvWeFnp) | 2:12 |
+| 24 | [Nemmeno mille](https://open.spotify.com/track/6fE39jwmDMgnfsfcT699dN) | [Funk Shui Project](https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E), [Blo/B](https://open.spotify.com/artist/4QYU4MQEacNhS9Oe8PQEBH) | [Polvere \(Director's cut\)](https://open.spotify.com/album/42MvJQeal6vjs0kmvWeFnp) | 2:12 |
 | 25 | [Stupido Amarti](https://open.spotify.com/track/6DkSkXwJdc1jAVjQKDQhE5) | [Revé](https://open.spotify.com/artist/01Isxz2v0SDQALf5wpV74V), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [Stupido Amarti](https://open.spotify.com/album/3dsmZ8wpJ3SHtuMu1dv5BH) | 3:00 |
 | 26 | [NUVOLA](https://open.spotify.com/track/0YUc2caLF7zidyzeOAZdwx) | [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [NUVOLA](https://open.spotify.com/album/41l6vTvR72Qs2ozccH8ACl) | 3:05 |
 | 27 | [verità](https://open.spotify.com/track/3H29QrkGloKtf7Qmsr6872) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [verità](https://open.spotify.com/album/4iNmAbukMrlsz3ibl4CT6k) | 2:55 |

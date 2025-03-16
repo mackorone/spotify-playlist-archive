@@ -1,6 +1,6 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 787789,
+  "num_followers": 787903,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Solitude / Solitaire",
         "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 258333,
       "name": "Glory of Love",
       "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Lionel Richie",
-        "url": "https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 200506,
-      "name": "Truly",
-      "url": "https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Always On My Mind",
         "url": "https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 228840,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Lionel Richie",
+        "url": "https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 200506,
+      "name": "Truly",
+      "url": "https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "It's Real",
-        "url": "https://open.spotify.com/album/5gN7Im7VUNQm7sJnmdofMc"
-      },
-      "artists": [
-        {
-          "name": "James Ingram",
-          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
-        }
-      ],
-      "duration_ms": 253506,
-      "name": "I Don't Have the Heart",
-      "url": "https://open.spotify.com/track/5In7xBveNACCRX2uWNoPuW"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Double Fantasy",
         "url": "https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 212933,
       "name": "Woman - Remastered 2010",
       "url": "https://open.spotify.com/track/1BrbXIJ7b161oQ0PfC0K32"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "It's Real",
+        "url": "https://open.spotify.com/album/5gN7Im7VUNQm7sJnmdofMc"
+      },
+      "artists": [
+        {
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
+        }
+      ],
+      "duration_ms": 253506,
+      "name": "I Don't Have the Heart",
+      "url": "https://open.spotify.com/track/5In7xBveNACCRX2uWNoPuW"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Classic Eric Clapton",
-        "url": "https://open.spotify.com/album/5XkiwxKI2aJYzPq63WPSvJ"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "Wonderful Tonight",
-      "url": "https://open.spotify.com/track/3GBGdtSuPKI81bzrniHuF3"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "One In A Million You",
         "url": "https://open.spotify.com/album/3sT09KMUA39aQYCofvoA1j"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 252600,
       "name": "One in a Million You",
       "url": "https://open.spotify.com/track/1CzgvJvt2JRy4uEX3SVaxO"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Classic Eric Clapton",
+        "url": "https://open.spotify.com/album/5XkiwxKI2aJYzPq63WPSvJ"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "Wonderful Tonight",
+      "url": "https://open.spotify.com/track/3GBGdtSuPKI81bzrniHuF3"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2263,6 +2263,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Nothing Really Matters",
+        "url": "https://open.spotify.com/album/3melTGvrnMU9IGdi7EpuuU"
+      },
+      "artists": [
+        {
+          "name": "Mr. Probz",
+          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
+        }
+      ],
+      "duration_ms": 222041,
+      "name": "Nothing Really Matters",
+      "url": "https://open.spotify.com/track/7fWSIddv6LJG8ZXJFNVQyi"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "The Original Soundtrack",
         "url": "https://open.spotify.com/album/7pHLyF1GWxk65WE6Rkrod3"
       },
@@ -2307,22 +2323,6 @@
       "duration_ms": 242266,
       "name": "Back for Good - Radio Mix",
       "url": "https://open.spotify.com/track/24fQpRwKFkC3Fe8QtvvrNw"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Nothing Really Matters",
-        "url": "https://open.spotify.com/album/3melTGvrnMU9IGdi7EpuuU"
-      },
-      "artists": [
-        {
-          "name": "Mr. Probz",
-          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
-        }
-      ],
-      "duration_ms": 222041,
-      "name": "Nothing Really Matters",
-      "url": "https://open.spotify.com/track/7fWSIddv6LJG8ZXJFNVQyi"
     },
     {
       "added_at": "2022-08-26 12:00:00",

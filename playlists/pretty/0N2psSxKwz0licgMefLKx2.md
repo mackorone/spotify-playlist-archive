@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0N2psSxKwz0licgMefLKx2.md) - [plain]
 
 > From Toronto to Nashville \- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Chappell Roan
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 11,093 likes - 80 songs - 4 hr 26 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 11,092 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/0N2psSxKwz0licgMefLKx2.md) - [plain]
 | 9 | [Please Please Please \(feat\. Dolly Parton\)](https://open.spotify.com/track/6nrSo5ZWhsai0oeX257rRF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:04 |
 | 10 | [Cowboy Songs](https://open.spotify.com/track/7LV9OX6WfOTndB4BqoXDEE) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Cowboy Songs](https://open.spotify.com/album/6oYFjTGEuRoK7oeJisREF5) | 3:07 |
 | 11 | [Think I'm In Love With You](https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Think I’m In Love With You](https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR) | 3:42 |
-| 12 | [I Don't Love Here Anymore](https://open.spotify.com/track/1NvxMFUJm32lDXdxgTfd5z) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene \(Expanded Edition\)](https://open.spotify.com/album/3m9iIzYKrmMa4tLjASBqFs) | 3:59 |
+| 12 | [I Don't Love Here Anymore](https://open.spotify.com/track/1NvxMFUJm32lDXdxgTfd5z) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene \(20th Anniversary Edition\)](https://open.spotify.com/album/3m9iIzYKrmMa4tLjASBqFs) | 3:59 |
 | 13 | [Liar](https://open.spotify.com/track/4DVNb13HLAH4FmHz8eukMg) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken \(Pickin’ Up The Pieces\)](https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9) | 3:24 |
 | 14 | [Talk With Me](https://open.spotify.com/track/15yl5Tuk1QhV8ScQ8chspI) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Talk With Me](https://open.spotify.com/album/7k6FBmrJzoUkCAw1gN2855) | 3:16 |
 | 15 | [Sounds Like the Radio](https://open.spotify.com/track/4JhsEvyt5yUHPsUNDgxjRQ) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Cold Beer & Country Music](https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF) | 3:38 |

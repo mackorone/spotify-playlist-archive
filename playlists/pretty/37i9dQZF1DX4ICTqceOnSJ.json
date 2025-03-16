@@ -1,6 +1,6 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Diamante El\u00e9ctrico en portada.",
-  "num_followers": 406696,
+  "num_followers": 406708,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Destellos",
-        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
-      },
-      "artists": [
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 237786,
-      "name": "Popscuro",
-      "url": "https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Mediocre [Edici\u00f3n Especial]",
         "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 237386,
       "name": "Vidas Paralelas",
       "url": "https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Destellos",
+        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 237786,
+      "name": "Popscuro",
+      "url": "https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "The Room",
+        "url": "https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 286573,
+      "name": "Dead",
+      "url": "https://open.spotify.com/track/0qy3tNhBzyxKxcOqCczcVX"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 237880,
       "name": "Ca\u00f3tica Belleza",
       "url": "https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "The Room",
-        "url": "https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 286573,
-      "name": "Dead",
-      "url": "https://open.spotify.com/track/0qy3tNhBzyxKxcOqCczcVX"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Audiovisi\u00f3n",
-        "url": "https://open.spotify.com/album/3gbz7K4IwEupgQ1ZgLhzNQ"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 192546,
-      "name": "Por la Ventana",
-      "url": "https://open.spotify.com/track/0Opu86ApGccAwYL02yOEsj"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Otra Era",
         "url": "https://open.spotify.com/album/1Ag7xE38iyJ4NzzbRSpvah"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 244979,
       "name": "Otra Era",
       "url": "https://open.spotify.com/track/0D8qIsQZvrXmClkyp19Lsl"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Audiovisi\u00f3n",
+        "url": "https://open.spotify.com/album/3gbz7K4IwEupgQ1ZgLhzNQ"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 192546,
+      "name": "Por la Ventana",
+      "url": "https://open.spotify.com/track/0Opu86ApGccAwYL02yOEsj"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "Esquemas Juveniles",
+        "url": "https://open.spotify.com/album/0lrzI1FqUbC9BQH5MgKDNF"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 223027,
+      "name": "Yo No Te Pido la Luna",
+      "url": "https://open.spotify.com/track/4SFnGr7vly55T2PBLYtZ6c"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "Muchacha",
         "url": "https://open.spotify.com/album/47RB07x4FAdJZhkyNTEbPH"
       },
@@ -1511,22 +1527,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Esquemas Juveniles",
-        "url": "https://open.spotify.com/album/0lrzI1FqUbC9BQH5MgKDNF"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 223027,
-      "name": "Yo No Te Pido la Luna",
-      "url": "https://open.spotify.com/track/4SFnGr7vly55T2PBLYtZ6c"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Te debo una canci\u00f3n",
         "url": "https://open.spotify.com/album/4qsaZeogZgYAFJGbMi0qhz"
       },
@@ -1539,22 +1539,6 @@
       "duration_ms": 211491,
       "name": "Te debo una canci\u00f3n",
       "url": "https://open.spotify.com/track/3OZ0BqpkRr5NiZSDzlLLV1"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "Mientras T\u00fa Dorm\u00edas",
-        "url": "https://open.spotify.com/album/6O6vqLgrTwWZqTCCoJVjWm"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 257091,
-      "name": "Compartir",
-      "url": "https://open.spotify.com/track/50Jd7tX7dMu79Oknn7sXSW"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1587,6 +1571,22 @@
       "duration_ms": 265740,
       "name": "La Flotadera",
       "url": "https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Mientras T\u00fa Dorm\u00edas",
+        "url": "https://open.spotify.com/album/6O6vqLgrTwWZqTCCoJVjWm"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 257091,
+      "name": "Compartir",
+      "url": "https://open.spotify.com/track/50Jd7tX7dMu79Oknn7sXSW"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Rebeldes",
-        "url": "https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 325933,
-      "name": "Tormenta",
-      "url": "https://open.spotify.com/track/0rfngABgn6vIa6TVsubN5j"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Murasaki",
         "url": "https://open.spotify.com/album/6Wbe28xhFeR3q8gjhxgjrj"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 178756,
       "name": "Susurrito",
       "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Rebeldes",
+        "url": "https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 325933,
+      "name": "Tormenta",
+      "url": "https://open.spotify.com/track/0rfngABgn6vIa6TVsubN5j"
     }
   ],
   "unique_name": "Lo Mejor del Indie Latino  ",

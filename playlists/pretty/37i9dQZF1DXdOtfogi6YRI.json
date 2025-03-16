@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: AJLA",
-  "num_followers": 18423,
+  "num_followers": 18426,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-02-21 12:39:35",
       "album": {
+        "name": "MUSZ\u0118 ZAWIJA\u0106",
+        "url": "https://open.spotify.com/album/5nMwW2k3AICpnFrewo07Z2"
+      },
+      "artists": [
+        {
+          "name": "North Side District",
+          "url": "https://open.spotify.com/artist/5cgM3Z3Lp71ESK7UQLRVdS"
+        }
+      ],
+      "duration_ms": 136630,
+      "name": "MUSZ\u0118 ZAWIJA\u0106",
+      "url": "https://open.spotify.com/track/7llkzwJj4QtbGBBqU9dDWA"
+    },
+    {
+      "added_at": "2025-02-21 12:39:35",
+      "album": {
         "name": "Bezcenne S\u0142owa (DJ BRK x Moo Latte Version)",
         "url": "https://open.spotify.com/album/2Py8PzlFuuz7442rAfUzCE"
       },
@@ -835,6 +851,22 @@
     {
       "added_at": "2025-02-21 12:39:35",
       "album": {
+        "name": "Location",
+        "url": "https://open.spotify.com/album/2gcn8DaDw53YnwCdUYzDfF"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0119tha",
+          "url": "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/5apbcktB19IjcSOeVGipVe"
+    },
+    {
+      "added_at": "2025-02-21 12:39:35",
+      "album": {
         "name": "MAGAZINE/WAVERLY PLACE",
         "url": "https://open.spotify.com/album/1UTv2LKyIS0TvCRqsd4xRH"
       },
@@ -851,38 +883,6 @@
       "duration_ms": 170656,
       "name": "MAGAZINE",
       "url": "https://open.spotify.com/track/3xRUDRQvaWpSzcOoluGzIC"
-    },
-    {
-      "added_at": "2025-02-21 12:39:35",
-      "album": {
-        "name": "MUSZ\u0118 ZAWIJA\u0106",
-        "url": "https://open.spotify.com/album/5nMwW2k3AICpnFrewo07Z2"
-      },
-      "artists": [
-        {
-          "name": "North Side District",
-          "url": "https://open.spotify.com/artist/5cgM3Z3Lp71ESK7UQLRVdS"
-        }
-      ],
-      "duration_ms": 136630,
-      "name": "MUSZ\u0118 ZAWIJA\u0106",
-      "url": "https://open.spotify.com/track/7llkzwJj4QtbGBBqU9dDWA"
-    },
-    {
-      "added_at": "2025-02-21 12:39:35",
-      "album": {
-        "name": "Location",
-        "url": "https://open.spotify.com/album/2gcn8DaDw53YnwCdUYzDfF"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0119tha",
-          "url": "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Location",
-      "url": "https://open.spotify.com/track/5apbcktB19IjcSOeVGipVe"
     },
     {
       "added_at": "2025-02-21 12:39:35",
@@ -943,26 +943,6 @@
     {
       "added_at": "2025-02-21 12:39:35",
       "album": {
-        "name": "jezus",
-        "url": "https://open.spotify.com/album/6y0C25NRurw7EP4OOCxxvO"
-      },
-      "artists": [
-        {
-          "name": "Koza",
-          "url": "https://open.spotify.com/artist/5rm8Cp2ZHkyGl0TI3obsdb"
-        },
-        {
-          "name": "Kuba Wi\u0119cek",
-          "url": "https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L"
-        }
-      ],
-      "duration_ms": 136421,
-      "name": "jezus",
-      "url": "https://open.spotify.com/track/2VsjCLFYIDZEF8hOvXhMMm"
-    },
-    {
-      "added_at": "2025-02-21 12:39:35",
-      "album": {
         "name": "Jasny Obraz Ciemnych Czas\u00f3w",
         "url": "https://open.spotify.com/album/4WowdtJBbEbVEJOaywqtSh"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 185387,
       "name": "RMLJHF",
       "url": "https://open.spotify.com/track/3h1VqdlbgVsW7Sbcz4ll6o"
+    },
+    {
+      "added_at": "2025-02-21 12:39:35",
+      "album": {
+        "name": "jezus",
+        "url": "https://open.spotify.com/album/6y0C25NRurw7EP4OOCxxvO"
+      },
+      "artists": [
+        {
+          "name": "Koza",
+          "url": "https://open.spotify.com/artist/5rm8Cp2ZHkyGl0TI3obsdb"
+        },
+        {
+          "name": "Kuba Wi\u0119cek",
+          "url": "https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L"
+        }
+      ],
+      "duration_ms": 136421,
+      "name": "jezus",
+      "url": "https://open.spotify.com/track/2VsjCLFYIDZEF8hOvXhMMm"
     },
     {
       "added_at": "2025-02-21 12:39:35",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2025-02-21 12:39:35",
       "album": {
+        "name": "melody",
+        "url": "https://open.spotify.com/album/67fAmVuzvvP1HmZviYspUb"
+      },
+      "artists": [
+        {
+          "name": "Heczko",
+          "url": "https://open.spotify.com/artist/5ICsMFaQxZafgG5w4nFqcn"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "melody",
+      "url": "https://open.spotify.com/track/2clLQQghiF2vOz8mtEudrh"
+    },
+    {
+      "added_at": "2025-02-21 12:39:35",
+      "album": {
         "name": "KOCYK",
         "url": "https://open.spotify.com/album/6otKunCaKoVcwp8kwzQD0t"
       },
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2025-02-21 12:39:35",
       "album": {
-        "name": "melody",
-        "url": "https://open.spotify.com/album/67fAmVuzvvP1HmZviYspUb"
-      },
-      "artists": [
-        {
-          "name": "Heczko",
-          "url": "https://open.spotify.com/artist/5ICsMFaQxZafgG5w4nFqcn"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "melody",
-      "url": "https://open.spotify.com/track/2clLQQghiF2vOz8mtEudrh"
-    },
-    {
-      "added_at": "2025-02-21 12:39:35",
-      "album": {
         "name": "Wspania\u0142y \u015bwiat",
         "url": "https://open.spotify.com/album/5tCV1jri0G3Mr5iQ4z2LLJ"
       },
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-02-21 12:39:35",
       "album": {
-        "name": "WYCHOWANY NA ULICY SESAMZROBI\u0118",
-        "url": "https://open.spotify.com/album/1RZ0pAO9lYawFuoLf00ktx"
-      },
-      "artists": [
-        {
-          "name": "Mokebe",
-          "url": "https://open.spotify.com/artist/5aTIqwE8d480xJS7H3iJTC"
-        }
-      ],
-      "duration_ms": 118747,
-      "name": "WYCHOWANY NA ULICY SESAMZROBI\u0118",
-      "url": "https://open.spotify.com/track/7CgB8PjiaKfrl6KUOQ37E9"
-    },
-    {
-      "added_at": "2025-02-21 12:39:35",
-      "album": {
         "name": "Alladyn",
         "url": "https://open.spotify.com/album/4o2lg5XMiNIB9MPuPxgdUZ"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 164694,
       "name": "Alladyn",
       "url": "https://open.spotify.com/track/0hhZUb3t5nFMwDuOdN2yQs"
+    },
+    {
+      "added_at": "2025-02-21 12:39:35",
+      "album": {
+        "name": "WYCHOWANY NA ULICY SESAMZROBI\u0118",
+        "url": "https://open.spotify.com/album/1RZ0pAO9lYawFuoLf00ktx"
+      },
+      "artists": [
+        {
+          "name": "Mokebe",
+          "url": "https://open.spotify.com/artist/5aTIqwE8d480xJS7H3iJTC"
+        }
+      ],
+      "duration_ms": 118747,
+      "name": "WYCHOWANY NA ULICY SESAMZROBI\u0118",
+      "url": "https://open.spotify.com/track/7CgB8PjiaKfrl6KUOQ37E9"
     },
     {
       "added_at": "2025-02-21 12:39:35",
@@ -1447,22 +1447,6 @@
       "duration_ms": 144003,
       "name": "UCIEKAM",
       "url": "https://open.spotify.com/track/4MLwDuUPotk1Ygf5JdkvOb"
-    },
-    {
-      "added_at": "2025-02-21 12:39:35",
-      "album": {
-        "name": "Dla siebie",
-        "url": "https://open.spotify.com/album/0VdPiSoQkfhOfCkDWqhRDT"
-      },
-      "artists": [
-        {
-          "name": "the small town kids",
-          "url": "https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk"
-        }
-      ],
-      "duration_ms": 135041,
-      "name": "Dla siebie",
-      "url": "https://open.spotify.com/track/1wceoqd7eJ8uqwcajy2xwL"
     },
     {
       "added_at": "2025-02-21 12:39:35",
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2025-02-21 12:39:35",
       "album": {
+        "name": "Dla siebie",
+        "url": "https://open.spotify.com/album/0VdPiSoQkfhOfCkDWqhRDT"
+      },
+      "artists": [
+        {
+          "name": "the small town kids",
+          "url": "https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk"
+        }
+      ],
+      "duration_ms": 135041,
+      "name": "Dla siebie",
+      "url": "https://open.spotify.com/track/1wceoqd7eJ8uqwcajy2xwL"
+    },
+    {
+      "added_at": "2025-02-21 12:39:35",
+      "album": {
         "name": "ELECTRO COLOR +",
         "url": "https://open.spotify.com/album/4BUY9m3NSbidxdRTm4wTKX"
       },
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2025-02-21 12:39:35",
       "album": {
-        "name": "JORDAN PEELE",
-        "url": "https://open.spotify.com/album/02cL1StPWOqLY2KoBKEF8O"
+        "name": "ATARI",
+        "url": "https://open.spotify.com/album/162H9h59pFT1RB7vIq6hZD"
       },
       "artists": [
         {
-          "name": "NAUTOFON",
-          "url": "https://open.spotify.com/artist/5zNO7pJVe7GFYrkqdYUsqG"
+          "name": "CRANK ALL",
+          "url": "https://open.spotify.com/artist/26R9MlehfBKN3lu0tpcNCE"
         }
       ],
-      "duration_ms": 183455,
-      "name": "JORDAN PEELE",
-      "url": "https://open.spotify.com/track/0kT0GbHVY7fjAMau8OtzJ1"
+      "duration_ms": 148437,
+      "name": "ATARI",
+      "url": "https://open.spotify.com/track/5bFVMjr9x1tH9RwFmzLrZa"
     },
     {
       "added_at": "2025-02-21 12:39:35",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2025-02-21 12:39:35",
       "album": {
-        "name": "ATARI",
-        "url": "https://open.spotify.com/album/162H9h59pFT1RB7vIq6hZD"
+        "name": "JORDAN PEELE",
+        "url": "https://open.spotify.com/album/02cL1StPWOqLY2KoBKEF8O"
       },
       "artists": [
         {
-          "name": "CRANK ALL",
-          "url": "https://open.spotify.com/artist/26R9MlehfBKN3lu0tpcNCE"
+          "name": "NAUTOFON",
+          "url": "https://open.spotify.com/artist/5zNO7pJVe7GFYrkqdYUsqG"
         }
       ],
-      "duration_ms": 148437,
-      "name": "ATARI",
-      "url": "https://open.spotify.com/track/5bFVMjr9x1tH9RwFmzLrZa"
+      "duration_ms": 183455,
+      "name": "JORDAN PEELE",
+      "url": "https://open.spotify.com/track/0kT0GbHVY7fjAMau8OtzJ1"
     },
     {
       "added_at": "2025-02-21 12:39:35",
@@ -1791,30 +1791,6 @@
     {
       "added_at": "2025-02-21 12:39:35",
       "album": {
-        "name": "JEDEN ORGANIZM",
-        "url": "https://open.spotify.com/album/0Acc7VLx77DE0kBPiLikuE"
-      },
-      "artists": [
-        {
-          "name": "Bracki",
-          "url": "https://open.spotify.com/artist/0R4OUULhxKUm6b1O4R2B2A"
-        },
-        {
-          "name": "Zippy Ogar",
-          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
-        },
-        {
-          "name": "Chaos Beats",
-          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
-        }
-      ],
-      "duration_ms": 160820,
-      "name": "FAUX PAS",
-      "url": "https://open.spotify.com/track/1WhgELHuUA9cMo6skw3Y4g"
-    },
-    {
-      "added_at": "2025-02-21 12:39:35",
-      "album": {
         "name": "B\u0119dzie dobrze",
         "url": "https://open.spotify.com/album/3XWNKLsR1FGaJaMmsAvgJ7"
       },
@@ -1835,6 +1811,54 @@
       "duration_ms": 232258,
       "name": "B\u0119dzie dobrze",
       "url": "https://open.spotify.com/track/2mNLIVvraVC5ZOgly3IcFm"
+    },
+    {
+      "added_at": "2025-02-21 12:39:35",
+      "album": {
+        "name": "NOWY WOKAL",
+        "url": "https://open.spotify.com/album/7ouU2RfeQyoBeXsDcVhomC"
+      },
+      "artists": [
+        {
+          "name": "Zippy Ogar",
+          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
+        },
+        {
+          "name": "Bracki",
+          "url": "https://open.spotify.com/artist/0R4OUULhxKUm6b1O4R2B2A"
+        },
+        {
+          "name": "Chaos Beats",
+          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
+        }
+      ],
+      "duration_ms": 189767,
+      "name": "NOWY WOKAL",
+      "url": "https://open.spotify.com/track/0bZW5Log78bUgvShYkpBSS"
+    },
+    {
+      "added_at": "2025-02-21 12:39:35",
+      "album": {
+        "name": "JEDEN ORGANIZM",
+        "url": "https://open.spotify.com/album/0Acc7VLx77DE0kBPiLikuE"
+      },
+      "artists": [
+        {
+          "name": "Bracki",
+          "url": "https://open.spotify.com/artist/0R4OUULhxKUm6b1O4R2B2A"
+        },
+        {
+          "name": "Zippy Ogar",
+          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
+        },
+        {
+          "name": "Chaos Beats",
+          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
+        }
+      ],
+      "duration_ms": 160820,
+      "name": "FAUX PAS",
+      "url": "https://open.spotify.com/track/1WhgELHuUA9cMo6skw3Y4g"
     },
     {
       "added_at": "2025-02-21 12:39:35",
@@ -1879,50 +1903,6 @@
     {
       "added_at": "2025-02-21 12:39:35",
       "album": {
-        "name": "NOWY WOKAL",
-        "url": "https://open.spotify.com/album/7ouU2RfeQyoBeXsDcVhomC"
-      },
-      "artists": [
-        {
-          "name": "Zippy Ogar",
-          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
-        },
-        {
-          "name": "Bracki",
-          "url": "https://open.spotify.com/artist/0R4OUULhxKUm6b1O4R2B2A"
-        },
-        {
-          "name": "Chaos Beats",
-          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
-        }
-      ],
-      "duration_ms": 189767,
-      "name": "NOWY WOKAL",
-      "url": "https://open.spotify.com/track/0bZW5Log78bUgvShYkpBSS"
-    },
-    {
-      "added_at": "2025-02-21 12:39:35",
-      "album": {
-        "name": "pe\u0142ne serca puste drogi",
-        "url": "https://open.spotify.com/album/2lF0Mw7jmUKGVsvqnC9jup"
-      },
-      "artists": [
-        {
-          "name": "Marceli Bober",
-          "url": "https://open.spotify.com/artist/2UBt72ETJoNHwgIXi61LMH"
-        },
-        {
-          "name": "JupiJej",
-          "url": "https://open.spotify.com/artist/2k1FagZJCEG6HSZiGb5rvO"
-        }
-      ],
-      "duration_ms": 143999,
-      "name": "Godzina Premium",
-      "url": "https://open.spotify.com/track/4ns67OWKavFQ1pjvRvvKrw"
-    },
-    {
-      "added_at": "2025-02-21 12:39:35",
-      "album": {
         "name": "Ej czy s\u0142ysza\u0142e\u015b co si\u0119 dzieje na mie\u015bcie?",
         "url": "https://open.spotify.com/album/0WnuRxkxLdbLVmUOwl2Rkb"
       },
@@ -1951,6 +1931,26 @@
       "duration_ms": 141714,
       "name": "Ej czy s\u0142ysza\u0142e\u015b co si\u0119 dzieje na mie\u015bcie?",
       "url": "https://open.spotify.com/track/6P0v4ZJY1E2OxNZ89S6juF"
+    },
+    {
+      "added_at": "2025-02-21 12:39:35",
+      "album": {
+        "name": "pe\u0142ne serca puste drogi",
+        "url": "https://open.spotify.com/album/2lF0Mw7jmUKGVsvqnC9jup"
+      },
+      "artists": [
+        {
+          "name": "Marceli Bober",
+          "url": "https://open.spotify.com/artist/2UBt72ETJoNHwgIXi61LMH"
+        },
+        {
+          "name": "JupiJej",
+          "url": "https://open.spotify.com/artist/2k1FagZJCEG6HSZiGb5rvO"
+        }
+      ],
+      "duration_ms": 143999,
+      "name": "Godzina Premium",
+      "url": "https://open.spotify.com/track/4ns67OWKavFQ1pjvRvvKrw"
     },
     {
       "added_at": "2025-02-21 12:39:35",

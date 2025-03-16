@@ -1,6 +1,6 @@
 {
   "description": "A mix of the best modern Deathcore tracks. Cover: CABAL",
-  "num_followers": 246223,
+  "num_followers": 246331,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
@@ -561,10 +561,26 @@
       "url": "https://open.spotify.com/track/4O0qk2XaOAKVjLnKnEQ0RW"
     },
     {
+      "added_at": "2025-03-14 21:51:13",
+      "album": {
+        "name": "8.6 BLACKOUT",
+        "url": "https://open.spotify.com/album/6JqgKZZqJ7DMOL9HKi6c3b"
+      },
+      "artists": [
+        {
+          "name": "Disembodied Tyrant",
+          "url": "https://open.spotify.com/artist/6Mik5bw5uqwmpwjvc5PGYk"
+        }
+      ],
+      "duration_ms": 290104,
+      "name": "8.6 BLACKOUT",
+      "url": "https://open.spotify.com/track/7iO63Uh5PncPAneiyITz7R"
+    },
+    {
       "added_at": "2025-01-17 05:00:55",
       "album": {
-        "name": "Nihilus",
-        "url": "https://open.spotify.com/album/45QoTiIMPyNXb2tHkxex6T"
+        "name": "Born To Lose",
+        "url": "https://open.spotify.com/album/4vWFFMOKx27LnPbGP4HeF6"
       },
       "artists": [
         {
@@ -572,9 +588,9 @@
           "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
         }
       ],
-      "duration_ms": 214973,
-      "name": "Nihilus",
-      "url": "https://open.spotify.com/track/7e9lo5xNLCxtGF3AuU5WNW"
+      "duration_ms": 192553,
+      "name": "Born To Lose",
+      "url": "https://open.spotify.com/track/3w7hEGQDeQl6GKPIRT4hGp"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -611,6 +627,22 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/7atT7sF2atM7kc7yR1krit"
+      },
+      "artists": [
+        {
+          "name": "Brand of Sacrifice",
+          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Dynasty",
+      "url": "https://open.spotify.com/track/2th7mWLxZNhBqfa0IHC6b3"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
         "name": "Love Burns",
         "url": "https://open.spotify.com/album/0lzXhCQvgW1sw7V5CeWpZL"
       },
@@ -627,18 +659,18 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
-        "name": "Dynasty",
-        "url": "https://open.spotify.com/album/7atT7sF2atM7kc7yR1krit"
+        "name": "Suffer Forever",
+        "url": "https://open.spotify.com/album/5m1Osyb2DW62AZPVUC6vNK"
       },
       "artists": [
         {
-          "name": "Brand of Sacrifice",
-          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
+          "name": "Angelmaker",
+          "url": "https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG"
         }
       ],
-      "duration_ms": 266000,
-      "name": "Dynasty",
-      "url": "https://open.spotify.com/track/2th7mWLxZNhBqfa0IHC6b3"
+      "duration_ms": 203000,
+      "name": "Suffer Forever",
+      "url": "https://open.spotify.com/track/0Zz1oIV2hnTXfhVCjoi5Ck"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -659,18 +691,34 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
-        "name": "Suffer Forever",
-        "url": "https://open.spotify.com/album/5m1Osyb2DW62AZPVUC6vNK"
+        "name": "Zwielicht",
+        "url": "https://open.spotify.com/album/2KYHW0qffmoyIQe9JibNIu"
       },
       "artists": [
         {
-          "name": "Angelmaker",
-          "url": "https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG"
+          "name": "Mental Cruelty",
+          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
         }
       ],
-      "duration_ms": 203000,
-      "name": "Suffer Forever",
-      "url": "https://open.spotify.com/track/0Zz1oIV2hnTXfhVCjoi5Ck"
+      "duration_ms": 307526,
+      "name": "Obsessis a Daemonio",
+      "url": "https://open.spotify.com/track/5Cfpkql6atqov7YHVG7Py7"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
+        "name": "Nihilus",
+        "url": "https://open.spotify.com/album/45QoTiIMPyNXb2tHkxex6T"
+      },
+      "artists": [
+        {
+          "name": "Carcosa",
+          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Nihilus",
+      "url": "https://open.spotify.com/track/7e9lo5xNLCxtGF3AuU5WNW"
     },
     {
       "added_at": "2025-01-23 22:45:23",
@@ -687,38 +735,6 @@
       "duration_ms": 206857,
       "name": "NO REVIVES",
       "url": "https://open.spotify.com/track/2Ev083dzx80UqK8kMBXVNT"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
-        "name": "Born To Lose",
-        "url": "https://open.spotify.com/album/4vWFFMOKx27LnPbGP4HeF6"
-      },
-      "artists": [
-        {
-          "name": "Carcosa",
-          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
-        }
-      ],
-      "duration_ms": 192553,
-      "name": "Born To Lose",
-      "url": "https://open.spotify.com/track/3w7hEGQDeQl6GKPIRT4hGp"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
-        "name": "Zwielicht",
-        "url": "https://open.spotify.com/album/2KYHW0qffmoyIQe9JibNIu"
-      },
-      "artists": [
-        {
-          "name": "Mental Cruelty",
-          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
-        }
-      ],
-      "duration_ms": 307526,
-      "name": "Obsessis a Daemonio",
-      "url": "https://open.spotify.com/track/5Cfpkql6atqov7YHVG7Py7"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -803,22 +819,6 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
-        "name": "Infested",
-        "url": "https://open.spotify.com/album/0kjUWh9d41E0oZbberxxqV"
-      },
-      "artists": [
-        {
-          "name": "Bodysnatcher",
-          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
-        }
-      ],
-      "duration_ms": 238053,
-      "name": "Infested",
-      "url": "https://open.spotify.com/track/1cEnkOGW4qXk7QIm2bAq8W"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
         "name": "Righteous Man",
         "url": "https://open.spotify.com/album/1GTG9hbTBZtK07rIPmbcaI"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 216106,
       "name": "Keres",
       "url": "https://open.spotify.com/track/3OZopVlrXlZzhy9Inwin9C"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
+        "name": "Infested",
+        "url": "https://open.spotify.com/album/0kjUWh9d41E0oZbberxxqV"
+      },
+      "artists": [
+        {
+          "name": "Bodysnatcher",
+          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
+        }
+      ],
+      "duration_ms": 238053,
+      "name": "Infested",
+      "url": "https://open.spotify.com/track/1cEnkOGW4qXk7QIm2bAq8W"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -907,22 +923,6 @@
     {
       "added_at": "2025-03-14 21:51:13",
       "album": {
-        "name": "8.6 BLACKOUT",
-        "url": "https://open.spotify.com/album/6JqgKZZqJ7DMOL9HKi6c3b"
-      },
-      "artists": [
-        {
-          "name": "Disembodied Tyrant",
-          "url": "https://open.spotify.com/artist/6Mik5bw5uqwmpwjvc5PGYk"
-        }
-      ],
-      "duration_ms": 290104,
-      "name": "8.6 BLACKOUT",
-      "url": "https://open.spotify.com/track/7iO63Uh5PncPAneiyITz7R"
-    },
-    {
-      "added_at": "2025-03-14 21:51:13",
-      "album": {
         "name": "I'm Bored",
         "url": "https://open.spotify.com/album/7aRdLgA0zwgv0RzsmmtSZn"
       },
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
-        "name": "Hostage",
-        "url": "https://open.spotify.com/album/31ABP3oxNXYvlIGdnzxf36"
-      },
-      "artists": [
-        {
-          "name": "Fit For An Autopsy",
-          "url": "https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i"
-        }
-      ],
-      "duration_ms": 279506,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/7qHbY5PvQVGYRiQKE2Qojx"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
         "name": "The Fear of God",
         "url": "https://open.spotify.com/album/6jAKZs5AgEtvtvYHTjOcyj"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 122192,
       "name": "The Fear of God",
       "url": "https://open.spotify.com/track/4rY6F8L0xmTVOC3PcHX9Ji"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
+        "name": "Hostage",
+        "url": "https://open.spotify.com/album/31ABP3oxNXYvlIGdnzxf36"
+      },
+      "artists": [
+        {
+          "name": "Fit For An Autopsy",
+          "url": "https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i"
+        }
+      ],
+      "duration_ms": 279506,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/7qHbY5PvQVGYRiQKE2Qojx"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
-        "name": "Guilt Trip (feat. Mental Cruelty)",
-        "url": "https://open.spotify.com/album/4EwGr4b4RC2stv9yNVzrBR"
-      },
-      "artists": [
-        {
-          "name": "Caliban",
-          "url": "https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL"
-        },
-        {
-          "name": "Mental Cruelty",
-          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
-        }
-      ],
-      "duration_ms": 185608,
-      "name": "Guilt Trip (feat. Mental Cruelty)",
-      "url": "https://open.spotify.com/track/6hPO9zpZu9AwFoK5SuvelO"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/2AAnQSF4VAUQzIg8BSETpz"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 269142,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/7deQhRSrzcKOoID5EPvHCl"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
+        "name": "Guilt Trip (feat. Mental Cruelty)",
+        "url": "https://open.spotify.com/album/4EwGr4b4RC2stv9yNVzrBR"
+      },
+      "artists": [
+        {
+          "name": "Caliban",
+          "url": "https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL"
+        },
+        {
+          "name": "Mental Cruelty",
+          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
+        }
+      ],
+      "duration_ms": 185608,
+      "name": "Guilt Trip (feat. Mental Cruelty)",
+      "url": "https://open.spotify.com/track/6hPO9zpZu9AwFoK5SuvelO"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
-        "name": "Oscillator",
-        "url": "https://open.spotify.com/album/4T7ufJRwjYShYW2jhf22qW"
-      },
-      "artists": [
-        {
-          "name": "Make Them Suffer",
-          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
-        }
-      ],
-      "duration_ms": 240786,
-      "name": "Oscillator",
-      "url": "https://open.spotify.com/track/6KXAhYI4uJ7q2jzMvA02Wl"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
         "name": "A Bloodsoaked Symphony",
         "url": "https://open.spotify.com/album/7vuXhdZaR7E4FZMgLX7Z7X"
       },
@@ -1311,22 +1295,6 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
-        "name": "Bunny Suit",
-        "url": "https://open.spotify.com/album/6jv8JWoEppoobALGHLKnQo"
-      },
-      "artists": [
-        {
-          "name": "Darko US",
-          "url": "https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K"
-        }
-      ],
-      "duration_ms": 273333,
-      "name": "Bunny Suit",
-      "url": "https://open.spotify.com/track/4LubEIUvempGGLt6kaExjk"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
         "name": "A Hill to Die Upon",
         "url": "https://open.spotify.com/album/79VMfL0k3LZFy95k6xTM5m"
       },
@@ -1343,18 +1311,34 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
-        "name": "Hades",
-        "url": "https://open.spotify.com/album/7C5RDFQ6hRYl9hhoNJ5A7a"
+        "name": "Oscillator",
+        "url": "https://open.spotify.com/album/4T7ufJRwjYShYW2jhf22qW"
       },
       "artists": [
         {
-          "name": "Sun Eater",
-          "url": "https://open.spotify.com/artist/4gTpdTrY1wigOF2NvK409M"
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Hades",
-      "url": "https://open.spotify.com/track/72tsE9vOqdHaFnJRL17k2u"
+      "duration_ms": 240786,
+      "name": "Oscillator",
+      "url": "https://open.spotify.com/track/6KXAhYI4uJ7q2jzMvA02Wl"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
+        "name": "Bunny Suit",
+        "url": "https://open.spotify.com/album/6jv8JWoEppoobALGHLKnQo"
+      },
+      "artists": [
+        {
+          "name": "Darko US",
+          "url": "https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K"
+        }
+      ],
+      "duration_ms": 273333,
+      "name": "Bunny Suit",
+      "url": "https://open.spotify.com/track/4LubEIUvempGGLt6kaExjk"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -1371,6 +1355,22 @@
       "duration_ms": 189704,
       "name": "Alter of Self",
       "url": "https://open.spotify.com/track/222Pr7e0L9peOkdKVY9fIX"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
+        "name": "Hades",
+        "url": "https://open.spotify.com/album/7C5RDFQ6hRYl9hhoNJ5A7a"
+      },
+      "artists": [
+        {
+          "name": "Sun Eater",
+          "url": "https://open.spotify.com/artist/4gTpdTrY1wigOF2NvK409M"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Hades",
+      "url": "https://open.spotify.com/track/72tsE9vOqdHaFnJRL17k2u"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
-        "name": "Moments of Misery",
-        "url": "https://open.spotify.com/album/3WAYSoXWabbEFu2yjSU4Qg"
-      },
-      "artists": [
-        {
-          "name": "Heavy//Hitter",
-          "url": "https://open.spotify.com/artist/67VjKj4enx3D6auLtAZKCU"
-        }
-      ],
-      "duration_ms": 177428,
-      "name": "Heaven's Gate",
-      "url": "https://open.spotify.com/track/7nqXXHiraoBCFk7JBcx17Q"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
         "name": "Fury",
         "url": "https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 186358,
       "name": "Code of Honor",
       "url": "https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
+        "name": "Moments of Misery",
+        "url": "https://open.spotify.com/album/3WAYSoXWabbEFu2yjSU4Qg"
+      },
+      "artists": [
+        {
+          "name": "Heavy//Hitter",
+          "url": "https://open.spotify.com/artist/67VjKj4enx3D6auLtAZKCU"
+        }
+      ],
+      "duration_ms": 177428,
+      "name": "Heaven's Gate",
+      "url": "https://open.spotify.com/track/7nqXXHiraoBCFk7JBcx17Q"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/0SPTYQCJRxtW93E1M2rqap"
-      },
-      "artists": [
-        {
-          "name": "Reminitions",
-          "url": "https://open.spotify.com/artist/02Y2TRv2FeIzVieVOoaIRB"
-        }
-      ],
-      "duration_ms": 242644,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/6gdyMUqJgcZTv6JleU8ytr"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
         "name": "Demon King",
         "url": "https://open.spotify.com/album/7mQTEBCTYqQL58cJwGQBbn"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 237400,
       "name": "Demon King",
       "url": "https://open.spotify.com/track/7ynraW89Jj7tPYLaNihl6v"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/0SPTYQCJRxtW93E1M2rqap"
+      },
+      "artists": [
+        {
+          "name": "Reminitions",
+          "url": "https://open.spotify.com/artist/02Y2TRv2FeIzVieVOoaIRB"
+        }
+      ],
+      "duration_ms": 242644,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/6gdyMUqJgcZTv6JleU8ytr"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
-        "name": "Release",
-        "url": "https://open.spotify.com/album/23Bt42wtllzSdSYdBBCXLW"
-      },
-      "artists": [
-        {
-          "name": "Traitors",
-          "url": "https://open.spotify.com/artist/1GkXxneFQE4d5YTsrbN6Ya"
-        }
-      ],
-      "duration_ms": 244421,
-      "name": "Release",
-      "url": "https://open.spotify.com/track/4tGeH8kFzww24xr0S1kjEm"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
         "name": "Fathomless Maw",
         "url": "https://open.spotify.com/album/6RdK7lIglSnuA9xLqwTyMM"
       },
@@ -1631,18 +1615,34 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
-        "name": "Lower Purpose",
-        "url": "https://open.spotify.com/album/6DN1UI8IOm2BE46LbK83GS"
+        "name": "Release",
+        "url": "https://open.spotify.com/album/23Bt42wtllzSdSYdBBCXLW"
       },
       "artists": [
         {
-          "name": "Fit For An Autopsy",
-          "url": "https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i"
+          "name": "Traitors",
+          "url": "https://open.spotify.com/artist/1GkXxneFQE4d5YTsrbN6Ya"
         }
       ],
-      "duration_ms": 191120,
-      "name": "Lower Purpose",
-      "url": "https://open.spotify.com/track/4qZXF8cijXbF3RTRRnwHRe"
+      "duration_ms": 244421,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/4tGeH8kFzww24xr0S1kjEm"
+    },
+    {
+      "added_at": "2025-03-14 21:51:13",
+      "album": {
+        "name": "Predatory",
+        "url": "https://open.spotify.com/album/45SVAzIIYLwIGPsE554EtP"
+      },
+      "artists": [
+        {
+          "name": "Face Yourself",
+          "url": "https://open.spotify.com/artist/26DU5Lk20t68F2rYc2DcNU"
+        }
+      ],
+      "duration_ms": 176305,
+      "name": "Predatory",
+      "url": "https://open.spotify.com/track/0nCt6JIIzpA8XtQcd6PDtq"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -1659,6 +1659,22 @@
       "duration_ms": 153705,
       "name": "Shard Throat",
       "url": "https://open.spotify.com/track/3E2cJPNoEPrrxxZUihLQMU"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
+        "name": "Lower Purpose",
+        "url": "https://open.spotify.com/album/6DN1UI8IOm2BE46LbK83GS"
+      },
+      "artists": [
+        {
+          "name": "Fit For An Autopsy",
+          "url": "https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i"
+        }
+      ],
+      "duration_ms": 191120,
+      "name": "Lower Purpose",
+      "url": "https://open.spotify.com/track/4qZXF8cijXbF3RTRRnwHRe"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -1711,6 +1727,22 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
+        "name": "The Isnis",
+        "url": "https://open.spotify.com/album/66VAnDCxYlO2FfiC4stGtG"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Grin",
+          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
+        }
+      ],
+      "duration_ms": 197614,
+      "name": "The Isnis",
+      "url": "https://open.spotify.com/track/61hyN4WD3KyJ8adCThANGr"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
         "name": "Cut Off The Head",
         "url": "https://open.spotify.com/album/0tVym6cewgIKrXkBhvAvSv"
       },
@@ -1739,22 +1771,6 @@
       "duration_ms": 283741,
       "name": "In the Night",
       "url": "https://open.spotify.com/track/4VxKFbwSOqYYU93ndl1Ap7"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
-        "name": "The Isnis",
-        "url": "https://open.spotify.com/album/66VAnDCxYlO2FfiC4stGtG"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Grin",
-          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
-        }
-      ],
-      "duration_ms": 197614,
-      "name": "The Isnis",
-      "url": "https://open.spotify.com/track/61hyN4WD3KyJ8adCThANGr"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -1789,20 +1805,24 @@
       "url": "https://open.spotify.com/track/6TmUd3qdkx5FbRsY6IoSDS"
     },
     {
-      "added_at": "2025-01-17 05:00:55",
+      "added_at": "2025-03-14 21:51:13",
       "album": {
-        "name": "Starfire",
-        "url": "https://open.spotify.com/album/3IXsOde67YmhbBbt4Vknv0"
+        "name": "Carnage in Despair",
+        "url": "https://open.spotify.com/album/3G9IUcjFx2KaodHmkOAVqO"
       },
       "artists": [
         {
-          "name": "Darko US",
-          "url": "https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K"
+          "name": "Gutrectomy",
+          "url": "https://open.spotify.com/artist/0GAUayKtM7XULaNosOHwaD"
+        },
+        {
+          "name": "Kyle Medina",
+          "url": "https://open.spotify.com/artist/4gcF5DdDf5H5rdkHvnvRRO"
         }
       ],
-      "duration_ms": 244088,
-      "name": "Chrome Moon",
-      "url": "https://open.spotify.com/track/0yi9eWYklFlWDySJuHCl6I"
+      "duration_ms": 184106,
+      "name": "Carnage in Despair",
+      "url": "https://open.spotify.com/track/6ZrHf3qvDCMPaDR83ojn24"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -1823,6 +1843,22 @@
       "duration_ms": 136200,
       "name": "Agony",
       "url": "https://open.spotify.com/track/4uDff6HzvgfnCpHhowipHA"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
+        "name": "Starfire",
+        "url": "https://open.spotify.com/album/3IXsOde67YmhbBbt4Vknv0"
+      },
+      "artists": [
+        {
+          "name": "Darko US",
+          "url": "https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K"
+        }
+      ],
+      "duration_ms": 244088,
+      "name": "Chrome Moon",
+      "url": "https://open.spotify.com/track/0yi9eWYklFlWDySJuHCl6I"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -1893,22 +1929,6 @@
       "url": "https://open.spotify.com/track/4rgsjGJjQmPNQKrJcU0h46"
     },
     {
-      "added_at": "2025-03-14 21:51:13",
-      "album": {
-        "name": "Predatory",
-        "url": "https://open.spotify.com/album/45SVAzIIYLwIGPsE554EtP"
-      },
-      "artists": [
-        {
-          "name": "Face Yourself",
-          "url": "https://open.spotify.com/artist/26DU5Lk20t68F2rYc2DcNU"
-        }
-      ],
-      "duration_ms": 176305,
-      "name": "Predatory",
-      "url": "https://open.spotify.com/track/0nCt6JIIzpA8XtQcd6PDtq"
-    },
-    {
       "added_at": "2025-01-17 05:00:55",
       "album": {
         "name": "Barren and Breathless Macrocosm",
@@ -1925,22 +1945,6 @@
       "url": "https://open.spotify.com/track/3FlPw9Js3uGZQ0eNqWKtS3"
     },
     {
-      "added_at": "2025-03-14 21:51:13",
-      "album": {
-        "name": "Forsaken Soul",
-        "url": "https://open.spotify.com/album/68fVWXiPPEZiqEbIoNVd6Z"
-      },
-      "artists": [
-        {
-          "name": "Ov Ruin",
-          "url": "https://open.spotify.com/artist/6gdIQiCwQ0KlZTyE2Ldlgm"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Forsaken Soul",
-      "url": "https://open.spotify.com/track/3CukSTqDXEbkf6TNpyvPkO"
-    },
-    {
       "added_at": "2025-01-17 05:00:55",
       "album": {
         "name": "Dying Life",
@@ -1955,6 +1959,22 @@
       "duration_ms": 200629,
       "name": "Dying Life",
       "url": "https://open.spotify.com/track/5nm3w9H0Cc24qR7in5Tvph"
+    },
+    {
+      "added_at": "2025-03-14 21:51:13",
+      "album": {
+        "name": "Forsaken Soul",
+        "url": "https://open.spotify.com/album/68fVWXiPPEZiqEbIoNVd6Z"
+      },
+      "artists": [
+        {
+          "name": "Ov Ruin",
+          "url": "https://open.spotify.com/artist/6gdIQiCwQ0KlZTyE2Ldlgm"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Forsaken Soul",
+      "url": "https://open.spotify.com/track/3CukSTqDXEbkf6TNpyvPkO"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -2011,22 +2031,6 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
-        "name": "Magno Interitus",
-        "url": "https://open.spotify.com/album/7yRyJmmqFrwq6gFcAjNdj6"
-      },
-      "artists": [
-        {
-          "name": "CABAL",
-          "url": "https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO"
-        }
-      ],
-      "duration_ms": 225454,
-      "name": "Plague Bringer",
-      "url": "https://open.spotify.com/track/7MWR9jhJ9bNssmOHTdTE0T"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
         "name": "Survival",
         "url": "https://open.spotify.com/album/1yQX87mmZgUC1CH8R7EbLr"
       },
@@ -2043,6 +2047,22 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
+        "name": "Magno Interitus",
+        "url": "https://open.spotify.com/album/7yRyJmmqFrwq6gFcAjNdj6"
+      },
+      "artists": [
+        {
+          "name": "CABAL",
+          "url": "https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO"
+        }
+      ],
+      "duration_ms": 225454,
+      "name": "Plague Bringer",
+      "url": "https://open.spotify.com/track/7MWR9jhJ9bNssmOHTdTE0T"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
         "name": "No One's Above",
         "url": "https://open.spotify.com/album/3KUNHE5rZUUSLnLIcudqbH"
       },
@@ -2055,6 +2075,26 @@
       "duration_ms": 213733,
       "name": "No One's Above",
       "url": "https://open.spotify.com/track/1tL1eSbnVwjhttYr8ixETm"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
+        "name": "Exofilth 2.0 (feat. Within Destruction)",
+        "url": "https://open.spotify.com/album/1RBPVSbxOrzWvhkpiddIA1"
+      },
+      "artists": [
+        {
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        },
+        {
+          "name": "Within Destruction",
+          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
+        }
+      ],
+      "duration_ms": 214857,
+      "name": "Exofilth 2.0 (feat. Within Destruction)",
+      "url": "https://open.spotify.com/track/0koNVoxpCv9ho1NjkCTC0r"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -2093,6 +2133,22 @@
       "url": "https://open.spotify.com/track/19HmHAY4FPJXh8StiN8qLu"
     },
     {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
+        "name": "I Write To You, My Darling Decay",
+        "url": "https://open.spotify.com/album/65P5Jm9OqRUUbINjiYmiOu"
+      },
+      "artists": [
+        {
+          "name": "A Wake in Providence",
+          "url": "https://open.spotify.com/artist/60HAu8nsOGLPFtOOvar9wa"
+        }
+      ],
+      "duration_ms": 471605,
+      "name": "I Write To You, My Darling Decay",
+      "url": "https://open.spotify.com/track/6VBoXgIvYI3mrJE6eSd98X"
+    },
+    {
       "added_at": "2025-03-14 21:51:13",
       "album": {
         "name": "Deadweight",
@@ -2111,42 +2167,6 @@
       "duration_ms": 172136,
       "name": "Deadweight",
       "url": "https://open.spotify.com/track/5JqdZgMCEITkn0OOTwcy6W"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
-        "name": "I Write To You, My Darling Decay",
-        "url": "https://open.spotify.com/album/65P5Jm9OqRUUbINjiYmiOu"
-      },
-      "artists": [
-        {
-          "name": "A Wake in Providence",
-          "url": "https://open.spotify.com/artist/60HAu8nsOGLPFtOOvar9wa"
-        }
-      ],
-      "duration_ms": 471605,
-      "name": "I Write To You, My Darling Decay",
-      "url": "https://open.spotify.com/track/6VBoXgIvYI3mrJE6eSd98X"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
-        "name": "Exofilth 2.0 (feat. Within Destruction)",
-        "url": "https://open.spotify.com/album/1RBPVSbxOrzWvhkpiddIA1"
-      },
-      "artists": [
-        {
-          "name": "Distant",
-          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
-        },
-        {
-          "name": "Within Destruction",
-          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
-        }
-      ],
-      "duration_ms": 214857,
-      "name": "Exofilth 2.0 (feat. Within Destruction)",
-      "url": "https://open.spotify.com/track/0koNVoxpCv9ho1NjkCTC0r"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -2183,22 +2203,6 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
-        "name": "The Anguished Throne",
-        "url": "https://open.spotify.com/album/066lbqrEiKN7xEf3bSidD8"
-      },
-      "artists": [
-        {
-          "name": "Worm Shepherd",
-          "url": "https://open.spotify.com/artist/7hsOYe7y8uBqV4UUsVne73"
-        }
-      ],
-      "duration_ms": 340373,
-      "name": "The Anguished Throne",
-      "url": "https://open.spotify.com/track/2pQmZWhfn6aeHzE8OaJCJl"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/7ACxLfrkh5ADpD0Xwry40J"
       },
@@ -2211,6 +2215,22 @@
       "duration_ms": 194656,
       "name": "Demigod",
       "url": "https://open.spotify.com/track/1YuFLFos4LMkns1xJFaeow"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
+        "name": "The Anguished Throne",
+        "url": "https://open.spotify.com/album/066lbqrEiKN7xEf3bSidD8"
+      },
+      "artists": [
+        {
+          "name": "Worm Shepherd",
+          "url": "https://open.spotify.com/artist/7hsOYe7y8uBqV4UUsVne73"
+        }
+      ],
+      "duration_ms": 340373,
+      "name": "The Anguished Throne",
+      "url": "https://open.spotify.com/track/2pQmZWhfn6aeHzE8OaJCJl"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -2299,6 +2319,22 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
+        "name": "Crystal Prison",
+        "url": "https://open.spotify.com/album/34CWrX8ir3athSVoL6tyvq"
+      },
+      "artists": [
+        {
+          "name": "Defamed",
+          "url": "https://open.spotify.com/artist/5Yu9Nd4YF69bAfAaoqIg5r"
+        }
+      ],
+      "duration_ms": 255786,
+      "name": "Crystal Prison",
+      "url": "https://open.spotify.com/track/62Bx1A1qyruvGgdL2oyxNK"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
         "name": "Torturous Symphony (feat. Matthew K. Heafy)",
         "url": "https://open.spotify.com/album/6Q8AVnb0T0sesNOqXODHVH"
       },
@@ -2319,22 +2355,6 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
-        "name": "Crystal Prison",
-        "url": "https://open.spotify.com/album/34CWrX8ir3athSVoL6tyvq"
-      },
-      "artists": [
-        {
-          "name": "Defamed",
-          "url": "https://open.spotify.com/artist/5Yu9Nd4YF69bAfAaoqIg5r"
-        }
-      ],
-      "duration_ms": 255786,
-      "name": "Crystal Prison",
-      "url": "https://open.spotify.com/track/62Bx1A1qyruvGgdL2oyxNK"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
         "name": "Nightmare",
         "url": "https://open.spotify.com/album/7F1rW2vvNThPFpUtlxc0l5"
       },
@@ -2347,6 +2367,22 @@
       "duration_ms": 228304,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/16COWH18tMTErphM5E58XH"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
+        "name": "Burn Your Local Butcher",
+        "url": "https://open.spotify.com/album/7xmTE3xz2qGXA7OVV2hx1m"
+      },
+      "artists": [
+        {
+          "name": "To The Grave",
+          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
+        }
+      ],
+      "duration_ms": 184944,
+      "name": "Burn Your Local Butcher",
+      "url": "https://open.spotify.com/track/75Tg4F8LHcdVwobrWjDfvr"
     },
     {
       "added_at": "2025-03-14 21:51:13",
@@ -2419,22 +2455,6 @@
       "duration_ms": 190530,
       "name": "Banshee",
       "url": "https://open.spotify.com/track/5zCf7x1mTeCOf4Uzxw2WWm"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
-        "name": "Burn Your Local Butcher",
-        "url": "https://open.spotify.com/album/7xmTE3xz2qGXA7OVV2hx1m"
-      },
-      "artists": [
-        {
-          "name": "To The Grave",
-          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
-        }
-      ],
-      "duration_ms": 184944,
-      "name": "Burn Your Local Butcher",
-      "url": "https://open.spotify.com/track/75Tg4F8LHcdVwobrWjDfvr"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -2531,38 +2551,6 @@
       "duration_ms": 225440,
       "name": "On Wings of Carnage",
       "url": "https://open.spotify.com/track/7EqQT7pzLZ7SPfZpLcb1Wr"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
-        "name": "Portrait of God",
-        "url": "https://open.spotify.com/album/6sQXYY4UOfTmfCo5MbD0Jp"
-      },
-      "artists": [
-        {
-          "name": "Nouri Yetgin",
-          "url": "https://open.spotify.com/artist/4QWhRZYvNeYXSBkfW9hCap"
-        },
-        {
-          "name": "CABAL",
-          "url": "https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO"
-        },
-        {
-          "name": "Sugar Spine",
-          "url": "https://open.spotify.com/artist/2xevVC5j2Ink2VeA2wnwkR"
-        },
-        {
-          "name": "Distant",
-          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
-        },
-        {
-          "name": "Torn From Oblivion",
-          "url": "https://open.spotify.com/artist/5IXqeHYM84k26hwnTNDuZS"
-        }
-      ],
-      "duration_ms": 270484,
-      "name": "Portrait of God",
-      "url": "https://open.spotify.com/track/1W9sFH9GnNHPHYWNvkdN8A"
     },
     {
       "added_at": "2025-01-17 05:00:55",

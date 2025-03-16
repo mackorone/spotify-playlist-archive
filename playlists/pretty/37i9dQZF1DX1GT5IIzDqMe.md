@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,102 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,120 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 22 | [Pennies From Heaven \(Remastered\)](https://open.spotify.com/track/4EfIHd5ymQthDOEpZifCZ9) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Pennies From Heaven \(Remastered\)](https://open.spotify.com/album/0OU1d6ClYVzKrvtNzZANKB) | 3:18 |
 | 23 | [Ancelyn](https://open.spotify.com/track/2AoGPNyWIsnPTHhJnHdIuf) | [Claude Young](https://open.spotify.com/artist/7hWRneMDJulC1IMfHD1gt7) | [Patterns the Album](https://open.spotify.com/album/1XzqlBfwHGBtaLXT5j6zGw) | 5:07 |
 | 24 | [A.M\. Track](https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Protein Valve EP](https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp) | 5:30 |
-| 25 | [Telekinesis](https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [The Art of Music](https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm) | 5:20 |
+| 25 | [On A Journey](https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [On A Journey](https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412) | 4:31 |
 | 26 | [Savage & Beyond](https://open.spotify.com/track/0lkJ2mQVyImdu1qXDvKF6j) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ) | [Heavenly Revisited Album](https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs) | 3:29 |
 | 27 | [Just Want Another Chance \- Original Mix](https://open.spotify.com/track/2fLoViPlr6qskNBS19sO7j) | [Reese](https://open.spotify.com/artist/4ZZnndm8YgzLlG05uSmQOG), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Just Want Another Chance](https://open.spotify.com/album/4XagqaRMPdxYcBibgCgCWH) | 5:12 |
 | 28 | [Do It All Night \- Honey Dijon Remix \[Radio Edit\]](https://open.spotify.com/track/2H39iFssrfIvFm66Bm43AR) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Do It All Night \(Honey Dijon Remix \[Radio Edit\]\)](https://open.spotify.com/album/6Opkh7SR0vMoTDEfalZxc8) | 4:12 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 30 | [SoundwaveZ](https://open.spotify.com/track/6aPjtXcpw51zPzpxAqnyLg) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [ZebrA OctobrA](https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd) | [We All Move Together](https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid) | 3:08 |
 | 31 | [The Sound \- Extended Mix](https://open.spotify.com/track/64RmTfytQUOT73BeNrVlvx) | [Reese & Santonio](https://open.spotify.com/artist/6ZYPFa3rUYzI4j87w1CURo), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Reese](https://open.spotify.com/artist/4ZZnndm8YgzLlG05uSmQOG) | [The Sound / How To Play Our Music](https://open.spotify.com/album/5zY7Di2QT0Y2OZwmVwCr6w) | 6:48 |
 | 32 | [Red Room](https://open.spotify.com/track/1guCg3jJIYTDhfa35oWYV7) | [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Red Room](https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4) | 6:40 |
-| 33 | [On A Journey](https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [On A Journey](https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412) | 4:31 |
+| 33 | [Telekinesis](https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [The Art of Music](https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm) | 5:20 |
 | 34 | [The Protector](https://open.spotify.com/track/0Gmv7RQPrem1m4Amdc4Hhk) | [The Vision](https://open.spotify.com/artist/1IvqVCBOoWeuz2jj5fXYs5), [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Waveform Transmission Vol\. 2](https://open.spotify.com/album/0BmR9AfixKN0QsrkEHIXL2) | 3:28 |
 | 35 | [I Can't Believe \- Extended Mix](https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [I Can't Believe](https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW) | 6:09 |
 | 36 | [We All Move Together \- Album Mix](https://open.spotify.com/track/5bdh7s1mGPfiBh2Thxlxsu) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [We All Move Together](https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid) | 5:52 |

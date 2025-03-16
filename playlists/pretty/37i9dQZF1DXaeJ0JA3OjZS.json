@@ -1,6 +1,6 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 167298,
+  "num_followers": 167502,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
+        "name": "En Vivo Desde las Ca\u00f1as",
+        "url": "https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 164821,
+      "name": "Caballo R-15 - En Vivo",
+      "url": "https://open.spotify.com/track/3jhRsmwoJnL8wVB66FPOtU"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
         "name": "El Pulm\u00f3n",
         "url": "https://open.spotify.com/album/5elWI9k1RB0IJo1uWG1Ihu"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 212813,
       "name": "El Pulm\u00f2n",
       "url": "https://open.spotify.com/track/7pCq5BIgSQtbCeE4XwBHlR"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "En Vivo Desde las Ca\u00f1as",
-        "url": "https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 164821,
-      "name": "Caballo R-15 - En Vivo",
-      "url": "https://open.spotify.com/track/3jhRsmwoJnL8wVB66FPOtU"
     },
     {
       "added_at": "2024-09-20 06:00:00",

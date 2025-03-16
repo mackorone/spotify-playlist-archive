@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 
 > mostly rock
 
-[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 846 songs - 2 day 6 hr 7 min
+[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 854 songs - 2 day 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -852,7 +852,15 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 | 842 | [Freiheit](https://open.spotify.com/track/5Jl2Zy0tFajj1stlKRaLZt) | [DIGM](https://open.spotify.com/artist/2CO7BHHd3z8JRHyguv8GDs) | [Freiheit](https://open.spotify.com/album/3VNkqXhcLoeUSRjPSAZBy6) | 3:31 |
 | 843 | [Everywhere](https://open.spotify.com/track/5xvIn9HsyGAGVlqwhdgHb5) | [yuigot](https://open.spotify.com/artist/6JpGvdWdOnLTKuNWqOpYT0), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [Everywhere](https://open.spotify.com/album/3AkYtIIYIdzIVM3vjtYUum) | 2:54 |
 | 844 | [Blue Youth](https://open.spotify.com/track/04zTPJMXog2HpYK2mK5Wdg) | [Hikarinonakani](https://open.spotify.com/artist/7v1EcexaWSP0Ra29bQCsnm) | [Blue Youth](https://open.spotify.com/album/5fQudcd31VvtMr4IvFEWwo) | 1:48 |
-| 845 | [笑っちゃったよな](https://open.spotify.com/track/3YzhRJ1uDu6w7Ey5JyHbB1) | [マイナスジジョウ](https://open.spotify.com/artist/5hLShVBmgEiFV1mm4wPgAU) | [甘い追憶](https://open.spotify.com/album/6I8z5WlyHqEqHcZ9sYbhy9) | 2:02 |
-| 846 | [甘い追憶](https://open.spotify.com/track/3VIdcoIXRJfvpj2g9NfMgI) | [マイナスジジョウ](https://open.spotify.com/artist/5hLShVBmgEiFV1mm4wPgAU) | [甘い追憶](https://open.spotify.com/album/6I8z5WlyHqEqHcZ9sYbhy9) | 4:47 |
+| 845 | [yellow](https://open.spotify.com/track/3wjdR1VUyR9VFZElNd406D) | [rem time rem time](https://open.spotify.com/artist/3b8cBjWSd3Ape2B5PjSxPI) | [エピソード](https://open.spotify.com/album/1LlIfE93tMDKjerzTsbSaz) | 5:14 |
+| 846 | [笑っちゃったよな](https://open.spotify.com/track/3YzhRJ1uDu6w7Ey5JyHbB1) | [マイナスジジョウ](https://open.spotify.com/artist/5hLShVBmgEiFV1mm4wPgAU) | [甘い追憶](https://open.spotify.com/album/6I8z5WlyHqEqHcZ9sYbhy9) | 2:02 |
+| 847 | [甘い追憶](https://open.spotify.com/track/3VIdcoIXRJfvpj2g9NfMgI) | [マイナスジジョウ](https://open.spotify.com/artist/5hLShVBmgEiFV1mm4wPgAU) | [甘い追憶](https://open.spotify.com/album/6I8z5WlyHqEqHcZ9sYbhy9) | 4:47 |
+| 848 | [声](https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [声](https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc) | 4:23 |
+| 849 | [嘘月](https://open.spotify.com/track/4MwVirVMyerMiHkFomOZay) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [創作](https://open.spotify.com/album/3BnM7AuvYkREVqNTPIxTRH) | 4:50 |
+| 850 | [Highway Star, Speed Star](https://open.spotify.com/track/24mssXlFWI2yqDxIKyxdOz) | [Cymbals](https://open.spotify.com/artist/6SMP2z9rViDs6YNCXtCj29), [内田晴元](https://open.spotify.com/artist/0tyFs1AR7CN6SJktxcE11Z), [小泉一郎](https://open.spotify.com/artist/2kTBUEN2ycoPRCxkfR1mVo), [米山美弥子](https://open.spotify.com/artist/1RY91WE9NFfgt9eqPYINLB) | [Mr.Noone Special（通常盤）](https://open.spotify.com/album/44fNzdefeOROF0CrZkGTqI) | 4:21 |
+| 851 | [打上花火](https://open.spotify.com/track/4IouQaO9GkaHC7AtMErdSa) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [THANK YOU BLUE](https://open.spotify.com/album/7202ZrUyEoOv4xwbbBEfql) | 4:49 |
+| 852 | [錠剤](https://open.spotify.com/track/04niDJQ3mzjkwzvid0Otoi) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [錠剤](https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH) | 3:24 |
+| 853 | [Before I Rise](https://open.spotify.com/track/0SjWk4Beah9g6cBNTYLyR9) | [Jun Maeda](https://open.spotify.com/artist/1x2p2cfLYxgG9RtBt7VFUx), [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [Love Song from the Water](https://open.spotify.com/album/0zbJEjFr8Ak6HvhIsxG4us) | 5:19 |
+| 854 | [エターナル](https://open.spotify.com/track/7EgoCOjSAYms7FMjRIIjCb) | [UNLIMITS](https://open.spotify.com/artist/79J1fd1c3x60MVdSkBMGoX) | [And Your Birds Can Sing](https://open.spotify.com/album/3bM2fHvKI8k4vT4GcrBdCM) | 3:15 |
 
-Snapshot ID: `AAAE4T3cX53/+18nI30ct7mFvxsJ1KeT`
+Snapshot ID: `AAAE6n872dytSP1tJsTL3/wbu2H/hWUR`

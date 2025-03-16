@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-512 songs - 1 day 0 hr 58 min
+513 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Candyland](https://open.spotify.com/track/389bJW3MUNi8dMj1TIW7uq) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Douglas York](https://open.spotify.com/artist/2ctddlPISDNu5WNw50RUXS) | [Candyland](https://open.spotify.com/album/1OICnIb72oBIu2nPU51tGp) | 3:01 | 2024-02-23 | 2024-04-13 |
 | [Cardio](https://open.spotify.com/track/1gsrFaPPIpxsD92lNZHWzG) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Cardio](https://open.spotify.com/album/3Tb8sBjaY5Ah5Efpc8Z7xo) | 2:20 | 2021-10-29 | 2022-12-17 |
 | [Carried Away \(Love To Love\) \(with Madison Beer\) \[Tchami Remix\]](https://open.spotify.com/track/4UWYz4VDyycuuyN2A9B2sY) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [Carried Away \(Love To Love\) \[Tchami Remix\]](https://open.spotify.com/album/3jmkm8U4Fp8LX1qBH0nzmx) | 4:49 | 2021-10-29 | 2022-08-06 |
-| [Cathedral \(Piece Of Me\) \[feat\. JEN\]](https://open.spotify.com/track/7CXln4Z9LfQdsPpXaPrDQn) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [JEN](https://open.spotify.com/artist/6DaSJnsDXVDcrHzru4MHrx) | [Cathedral \(Piece Of Me\) \[feat\. JEN\]](https://open.spotify.com/album/7bOJCwe874SKa24MfzyNEG) | 2:28 | 2022-09-16 |  |
+| [Cathedral \(Piece Of Me\) \[feat\. JEN\]](https://open.spotify.com/track/7CXln4Z9LfQdsPpXaPrDQn) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [JEN](https://open.spotify.com/artist/6DaSJnsDXVDcrHzru4MHrx) | [Cathedral \(Piece Of Me\) \[feat\. JEN\]](https://open.spotify.com/album/7bOJCwe874SKa24MfzyNEG) | 2:28 | 2022-09-16 | 2025-03-16 |
 | [Certified](https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Certified](https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK) | 2:55 | 2023-08-11 | 2025-01-25 |
 | [Chain Gang](https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Chain Gang](https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0) | 1:47 | 2023-07-07 | 2024-12-09 |
 | [Champs Élysées](https://open.spotify.com/track/5gVBu5EPgBtvpdunsSCphU) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe) | [Champs Élysées](https://open.spotify.com/album/7CiBz23MJz5cZz4IPclRu5) | 2:41 | 2025-01-24 |  |
@@ -133,6 +133,7 @@
 | [Drinkin](https://open.spotify.com/track/1Usa0Fv8L9NmRKY4UYk4sD) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Drinkin](https://open.spotify.com/album/2M4jhdsyvC0xpuXXc1SKWE) | 2:16 | 2024-01-12 |  |
 | [DRIVE](https://open.spotify.com/track/3v6cqJNWyYT1A2xsaVnO2r) | [Podhajski](https://open.spotify.com/artist/4Uqq0JQaGLSDvsQMVGx1kL) | [DRIVE](https://open.spotify.com/album/5yXEJipjPEb2AOiCrXrMJv) | 4:40 | 2021-10-29 | 2022-07-28 |
 | [Drop It \(feat\. LUISAH\)](https://open.spotify.com/track/6SK5X1cj2G3vFNb7iTmLfV) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [Drop It \(feat\. LUISAH\)](https://open.spotify.com/album/7ouqlLsz812M3nTRAv9NYM) | 2:05 | 2022-04-01 | 2022-08-06 |
+| [Drop The Pressure](https://open.spotify.com/track/1uLSDYIvh11Zk8EnK1nDmd) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e) | [Drop The Pressure](https://open.spotify.com/album/1qBh6PFLZRe9HadEnxV1Bd) | 2:32 | 2025-03-14 |  |
 | [Droppin' It \(La La La\)](https://open.spotify.com/track/2rXuuV7atcaVO4cm4UZBZU) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R), [BURNERS!](https://open.spotify.com/artist/6G31XehhFwtvxM36etz7zw) | [Droppin' It \(La La La\)](https://open.spotify.com/album/7xYg6EaYOKlvp1rf1EPXX5) | 2:36 | 2023-12-01 |  |
 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2022-08-26 | 2024-04-19 |
 | [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 | 2022-08-26 | 2022-09-30 |

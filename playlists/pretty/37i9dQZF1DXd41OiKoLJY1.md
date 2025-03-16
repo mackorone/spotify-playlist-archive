@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: hannah Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,764 likes - 126 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,777 likes - 126 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

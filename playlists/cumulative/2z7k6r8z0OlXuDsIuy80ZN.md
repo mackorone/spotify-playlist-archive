@@ -4,7 +4,7 @@
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-303 songs - 15 hr 50 min
+304 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [CAMALEÓN](https://open.spotify.com/track/5H1LLTRLRw59GZh6Xd5lGe) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [Camaleón](https://open.spotify.com/album/0jCM9KSax5G30ZScKCTvAG) | 2:55 | 2022-08-06 | 2022-11-06 |
 | [CANDY](https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:13 | 2022-07-16 | 2022-08-14 |
 | [Caos](https://open.spotify.com/track/2wEKsQiSsvmVwWaIZ1uJb6) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [Caos](https://open.spotify.com/album/7eDnOE9K1rorJzNtQ7ZGP0) | 2:36 | 2023-03-18 | 2023-07-09 |
+| [capaz \(merengueton\)](https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:53 | 2025-03-15 |  |
 | [CARITA TRISTE](https://open.spotify.com/track/2mYlSgPvC5Np4mDg9DU5Mc) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [CARITA TRISTE](https://open.spotify.com/album/6TRRRmLdBwtELfN4EYeYSM) | 2:55 | 2024-09-07 |  |
 | [Carretera y manta](https://open.spotify.com/track/4RgqBP0RY3pQY3Z3d3fKnf) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Carretera y manta](https://open.spotify.com/album/3DlIRvWPWudQaYZOclzabT) | 2:43 | 2022-08-27 | 2023-01-07 |
 | [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2022-12-24 | 2023-03-19 |
@@ -218,7 +219,7 @@
 | [Pegao](https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pegao](https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll) | 2:40 | 2022-06-04 | 2022-12-11 |
 | [Plan fatal \(feat\. Juancho Sidecars, Sidecars\)](https://open.spotify.com/track/3WJYbZVCqG5EygdjCiBLmh) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC), [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj), [Juancho Sidecars](https://open.spotify.com/artist/0SbrR0n1dENC05Dg3Wt5wH) | [Plan fatal \(feat\. Juancho Sidecars, Sidecars\)](https://open.spotify.com/album/4SADYirwzSPh8Z0vtot42I) | 3:43 | 2022-11-19 | 2023-04-09 |
 | [PLAYA DEL INGLÉS](https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [PLAYA DEL INGLÉS](https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9) | 3:57 | 2023-02-04 | 2023-08-27 |
-| [Por Si No Te Vuelvo A Ver](https://open.spotify.com/track/20enjIUEen7tNZXTRLDxXi) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/album/7HullqBwYSwjV2qZjb7DqP) | 3:05 | 2024-11-30 |  |
+| [Por Si No Te Vuelvo A Ver](https://open.spotify.com/track/20enjIUEen7tNZXTRLDxXi) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/album/7HullqBwYSwjV2qZjb7DqP) | 3:05 | 2024-11-30 | 2025-03-16 |
 | [Porfa no te vayas](https://open.spotify.com/track/4J2HLNTxiVxxs6kWgTIN43) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Porfa no te vayas](https://open.spotify.com/album/5m71js7NkNRQNtS1wmfH7s) | 3:29 | 2022-01-15 | 2022-03-06 |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-05-07 | 2022-11-06 |
 | [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 | 2024-04-01 | 2024-09-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0jdtXxGhcy0ycjSBMT5Qij">Jack Antonoff</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,310 likes - 339 songs - 20 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,318 likes - 339 songs - 20 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 66 | [Beautiful Trauma](https://open.spotify.com/track/2DlIwu1iDTILEMXA7MUotn) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 4:10 |
 | 67 | [Paris](https://open.spotify.com/track/6J834IBcZJMH38ksrgAqwF) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 3:16 |
 | 68 | [Peach](https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 2:56 |
-| 69 | [Together](https://open.spotify.com/track/7CE9vL4mbtF1ZdzkYDUbgL) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 3:25 |
-| 70 | [The Alchemy](https://open.spotify.com/track/1dhMTsEZz6ZEquGvmzVoHn) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:16 |
+| 69 | [The Alchemy](https://open.spotify.com/track/1dhMTsEZz6ZEquGvmzVoHn) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:16 |
+| 70 | [Together](https://open.spotify.com/track/7CE9vL4mbtF1ZdzkYDUbgL) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 3:25 |
 | 71 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 |
 | 72 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 |
 | 73 | [hope is a dangerous thing for a woman like me to have \- but I have it](https://open.spotify.com/track/0fB77VOZ2FkQeKLv1DuEwp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:24 |
@@ -292,7 +292,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 282 | [Wildflowers \- From “Teen Spirit” Soundtrack](https://open.spotify.com/track/6oU0RydFrAk2D8KGOUnkB4) | [Elle Fanning](https://open.spotify.com/artist/5lBUWrTWtJewTgS394y0m9) | [Teen Spirit \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3lzC2zRQZM0EVP6Zjtc0Cq) | 3:31 |
 | 283 | [New York \[Feat\. Yoshiki\]](https://open.spotify.com/track/5dvJCDqqOo1k2SoQuikuVq) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6), [Yoshiki](https://open.spotify.com/artist/2EWIKpC6npt0GTe1Cq1KDm) | [New York \[Feat\. Yoshiki\]](https://open.spotify.com/album/5ikEiYpIpFiLkEeAswZkHU) | 2:53 |
 | 284 | [The Waiter](https://open.spotify.com/track/1xHyBrgtmX7Obe4gmJogkH) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:24 |
-| 285 | [People Still Show Up](https://open.spotify.com/track/6RifRYhCPJhpNXTr8iCkpA) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [People Still Show Up](https://open.spotify.com/album/4RAsOX4JG7hH7BCvGoBfK4) | 2:52 |
+| 285 | [people still show up](https://open.spotify.com/track/6RifRYhCPJhpNXTr8iCkpA) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [people still show up](https://open.spotify.com/album/4RAsOX4JG7hH7BCvGoBfK4) | 2:52 |
 | 286 | [DJ](https://open.spotify.com/track/29wNcK0QMe1MCASeDfdGpc) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 3:16 |
 | 287 | [Cool \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/2NV8520xo3iYrpD8wv4Sxy) | [Verdine White](https://open.spotify.com/artist/4tMJliVd96wXoMVNdcOBHp) | [Cool \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/0CnL6CPos3VkeqKRaR9Uwp) | 2:54 |
 | 288 | [Margo](https://open.spotify.com/track/01Q1oKFbm9puj0HoEf0pwL) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers \(Deluxe\)](https://open.spotify.com/album/6HdWNexk92vAHRQimnh4fF) | 3:17 |
@@ -348,4 +348,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 338 | [W.95th Street High](https://open.spotify.com/track/6D4wRSYyOHfJkYs2VelrbW) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 4:21 |
 | 339 | [I Will Stay Here](https://open.spotify.com/track/0Je3AfZFiRde3KcvZYlCS0) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 5:46 |
 
-Snapshot ID: `AbsD4AAAAABE2fVx2pUP7NdKnV3UnRp3`
+Snapshot ID: `AbsJvAAAAADPss7Hf71aFqfOi2J+SN56`

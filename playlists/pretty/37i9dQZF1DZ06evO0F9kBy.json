@@ -1,13 +1,29 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 26723,
+  "num_followers": 26728,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAACB0wNiFQdrt61y/jXWCwuW",
+  "snapshot_id": "Z9NxgAAAAAAZ0eGPS9J5/XvNORizoj8e",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wait / Praise The Giver",
+        "url": "https://open.spotify.com/album/1trTP6UbgtdJmY2tcyXH1i"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 248640,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/5r8bijZKA7EhbNhxmEjgFy"
+    },
     {
       "added_at": null,
       "album": {
@@ -455,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The In Between (from The Chosen)",
-        "url": "https://open.spotify.com/album/7oSnMRE1AdohIWO8WwfIfv"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 238431,
-      "name": "The In Between - from The Chosen",
-      "url": "https://open.spotify.com/track/3roS62frfF60JQD8jiacOK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alive Again",
         "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
       },
@@ -483,6 +483,22 @@
       "duration_ms": 239440,
       "name": "Alive Again",
       "url": "https://open.spotify.com/track/5c6flWJGgiffpYElobcA4P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The In Between (from The Chosen)",
+        "url": "https://open.spotify.com/album/7oSnMRE1AdohIWO8WwfIfv"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 238431,
+      "name": "The In Between - from The Chosen",
+      "url": "https://open.spotify.com/track/3roS62frfF60JQD8jiacOK"
     },
     {
       "added_at": null,
@@ -571,6 +587,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sanctuary Songs",
+        "url": "https://open.spotify.com/album/2xtIB6EI9M4qilg51YSuzB"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Paul Zach",
+          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
+        }
+      ],
+      "duration_ms": 228145,
+      "name": "Take it Easy",
+      "url": "https://open.spotify.com/track/2TfhMkVOjxZ4S0Al2FqRs8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All The People Said Amen",
+        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 365880,
+      "name": "Your Grace Is Enough/Here I Am Lord (Live)",
+      "url": "https://open.spotify.com/track/27TeIT5tc6vORm23A1gA4h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "House Of Miracles (Live)",
         "url": "https://open.spotify.com/album/4rPYrJInxyCcYiUHC8P0qD"
       },
@@ -595,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All The People Said Amen",
-        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 365880,
-      "name": "Your Grace Is Enough/Here I Am Lord (Live)",
-      "url": "https://open.spotify.com/track/27TeIT5tc6vORm23A1gA4h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Echoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
       },
@@ -623,30 +663,6 @@
       "duration_ms": 251680,
       "name": "Just as I Am",
       "url": "https://open.spotify.com/track/6gCXdSruNlJtm3guzzlaET"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sanctuary Songs",
-        "url": "https://open.spotify.com/album/2xtIB6EI9M4qilg51YSuzB"
-      },
-      "artists": [
-        {
-          "name": "The Porter's Gate",
-          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Paul Zach",
-          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
-        }
-      ],
-      "duration_ms": 228145,
-      "name": "Take it Easy",
-      "url": "https://open.spotify.com/track/2TfhMkVOjxZ4S0Al2FqRs8"
     },
     {
       "added_at": null,
@@ -699,34 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The St. Nemele Collab Sessions",
-        "url": "https://open.spotify.com/album/6HbrhmZ9osGyiKjUFDxQGJ"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        },
-        {
-          "name": "Tide Electric",
-          "url": "https://open.spotify.com/artist/5wDGjy2MLLLGu5gyFuBvbw"
-        }
-      ],
-      "duration_ms": 238720,
-      "name": "It's You - Tide Electric Remix",
-      "url": "https://open.spotify.com/track/0BjY74508Q2LZbjyP6ASQA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Joy of Jesus (feat. Matt Maher, Mac Powell & Ellie Holcomb) (feat. Matt Maher, Mac Powell & Ellie Holcomb)",
         "url": "https://open.spotify.com/album/2LeVGsWiMyhdTpiNctU5LZ"
       },
@@ -755,22 +743,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Creation",
-        "url": "https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX"
+        "name": "The St. Nemele Collab Sessions",
+        "url": "https://open.spotify.com/album/6HbrhmZ9osGyiKjUFDxQGJ"
       },
       "artists": [
         {
-          "name": "Mac Powell",
-          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
         },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        },
+        {
+          "name": "Tide Electric",
+          "url": "https://open.spotify.com/artist/5wDGjy2MLLLGu5gyFuBvbw"
         }
       ],
-      "duration_ms": 233080,
-      "name": "Baptized",
-      "url": "https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg"
+      "duration_ms": 238720,
+      "name": "It's You - Tide Electric Remix",
+      "url": "https://open.spotify.com/track/0BjY74508Q2LZbjyP6ASQA"
     },
     {
       "added_at": null,
@@ -787,6 +783,26 @@
       "duration_ms": 205933,
       "name": "Deliverer",
       "url": "https://open.spotify.com/track/5KAtrhdDrzLgtG4tmMH1w0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Creation",
+        "url": "https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX"
+      },
+      "artists": [
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 233080,
+      "name": "Baptized",
+      "url": "https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg"
     },
     {
       "added_at": null,
@@ -915,26 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Go Tell It (Gloria)",
-        "url": "https://open.spotify.com/album/0zyVJyBQiTJ5XEiRJMThbJ"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "The Choir Room",
-          "url": "https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK"
-        }
-      ],
-      "duration_ms": 199836,
-      "name": "Go Tell It (Gloria)",
-      "url": "https://open.spotify.com/track/3rBe2uBbzPxN1ldJpe2RAM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SPACE",
         "url": "https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw"
       },
@@ -951,22 +947,6 @@
       "duration_ms": 298640,
       "name": "Bless The One - Live",
       "url": "https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 231280,
-      "name": "Awake My Soul (A Thousand Tongues)",
-      "url": "https://open.spotify.com/track/62G1fPW9lyLHs1DGOyDRjL"
     },
     {
       "added_at": null,
@@ -991,22 +971,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grace Upon Grace",
-        "url": "https://open.spotify.com/album/6gFtUZRZF30vtAMKk4f0Mc"
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
       },
       "artists": [
-        {
-          "name": "Life.Church Worship",
-          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
-        },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 481266,
-      "name": "Inheritance",
-      "url": "https://open.spotify.com/track/6MyskHQ8Aa8W62Cmi3y9oz"
+      "duration_ms": 231280,
+      "name": "Awake My Soul (A Thousand Tongues)",
+      "url": "https://open.spotify.com/track/62G1fPW9lyLHs1DGOyDRjL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Go Tell It (Gloria)",
+        "url": "https://open.spotify.com/album/0zyVJyBQiTJ5XEiRJMThbJ"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "The Choir Room",
+          "url": "https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK"
+        }
+      ],
+      "duration_ms": 199836,
+      "name": "Go Tell It (Gloria)",
+      "url": "https://open.spotify.com/track/3rBe2uBbzPxN1ldJpe2RAM"
     }
   ],
   "unique_name": "This Is Matt Maher",

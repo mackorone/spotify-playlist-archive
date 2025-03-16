@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring edapollo
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,606 likes - 150 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,557 likes - 150 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 78 | [What You Did](https://open.spotify.com/track/5XEONEp0zR8hUQitG66IxA) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [eerie](https://open.spotify.com/artist/34Ms8SDF1EGvcSULOKjgaV) | [What You Did](https://open.spotify.com/album/16hPDvuC9mngcirBytn3YG) | 3:26 |
 | 79 | [Half Alive](https://open.spotify.com/track/3SgaIF7QF3DgRG3yFLlzVe) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Half Alive](https://open.spotify.com/album/6yKFZg4f9lFfEQ0cPNqFgY) | 3:32 |
 | 80 | [F.F.T.C](https://open.spotify.com/track/6SnZcxE4UhulltFZtJiUcw) | [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm), [LB aka LABAT](https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh) | [F.F.T.C](https://open.spotify.com/album/0mgeOAb5sCufpoM60sg6K2) | 4:45 |
-| 81 | [𝓔strellita](https://open.spotify.com/track/73gFY57zWZJcINlpUSZv4u) | [Ivohé](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL), [Youf](https://open.spotify.com/artist/4KrDys5MVHOIV0ICEKYCea) | [𝓔strellita](https://open.spotify.com/album/4pXRtvLWjCbCpn9bO1Rc9Z) | 4:28 |
+| 81 | [𝓔strellita](https://open.spotify.com/track/73gFY57zWZJcINlpUSZv4u) | [RubyyXo](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL), [Youf](https://open.spotify.com/artist/4KrDys5MVHOIV0ICEKYCea) | [𝓔strellita](https://open.spotify.com/album/4pXRtvLWjCbCpn9bO1Rc9Z) | 4:28 |
 | 82 | [sicklysweet \- Tobiahs Remix](https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm) | [Jetta](https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96), [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [sicklysweet \(Tobiahs Remix\)](https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh) | 2:17 |
 | 83 | [Anya ♡](https://open.spotify.com/track/6NO1U3U9CbPBBL3vVimXF6) | [FlowerBoyDeMii](https://open.spotify.com/artist/7HcU7yCOfyw3hqrj1ZSORc) | [Anya ♡](https://open.spotify.com/album/7bHfTwpvu3Hj7BP5Y5KaiU) | 2:26 |
 | 84 | [yoyo](https://open.spotify.com/track/6DNVY8fSGfbK28aO0qhIbG) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV) | [about dancing](https://open.spotify.com/album/3w7vFCsg2T4ft0HjvoDTdy) | 2:37 |

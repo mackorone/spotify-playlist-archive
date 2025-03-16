@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,609 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,613 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 41 | [Forever Free \(DeepFish Remix\) \(feat\. Nate Highfield & SILVER\)](https://open.spotify.com/track/2YT7OMlGZlaFpBpMGLtDuK) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Nate Highfield](https://open.spotify.com/artist/4JquAIlxYSGeqFcQyPUMVF), [SILVER](https://open.spotify.com/artist/1HXRQ8IflmWzNxTrymVI7u) | [Forever Free \(DeepFish Remix\) \(feat\. Nate Highfield & SILVER\)](https://open.spotify.com/album/3PJnw0E507X2yMby8pUHOm) | 3:24 |
 | 42 | [Rest](https://open.spotify.com/track/5NyWlLNaoz87Tym3lOGOte) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S), [Phi11a](https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS) | [Rest](https://open.spotify.com/album/01XpquB06EvN30tEws20cv) | 4:42 |
 | 43 | [Passionfruit](https://open.spotify.com/track/1HgYlsGP1lWzKp9vM08itv) | [GoodLuck](https://open.spotify.com/artist/4iSv3eRHwrwQTYbRCXxmL3) | [Passionfruit](https://open.spotify.com/album/5yJhQGEnuwbOUnlbY6aHCA) | 4:04 |
-| 44 | [Shake Shake](https://open.spotify.com/track/6fJ9sqQejWpH09whcI9YlH) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Shake Shake](https://open.spotify.com/album/3OsSTICzO2LsUrWRNLRTnr) | 3:40 |
-| 45 | [Dark Side](https://open.spotify.com/track/0LUsPZLpu4gxyLxKaHAI8g) | [Thor Rixon](https://open.spotify.com/artist/53Gm4E92lh1hMANUw9r2pX), [Deep Aztec](https://open.spotify.com/artist/5getpnTxZMpYRlfyXOjQQw) | [Dark Side](https://open.spotify.com/album/2VPAWHuNgQuowuPQzWU45b) | 4:05 |
+| 44 | [Dark Side](https://open.spotify.com/track/0LUsPZLpu4gxyLxKaHAI8g) | [Thor Rixon](https://open.spotify.com/artist/53Gm4E92lh1hMANUw9r2pX), [Deep Aztec](https://open.spotify.com/artist/5getpnTxZMpYRlfyXOjQQw) | [Dark Side](https://open.spotify.com/album/2VPAWHuNgQuowuPQzWU45b) | 4:05 |
+| 45 | [Shake Shake](https://open.spotify.com/track/6fJ9sqQejWpH09whcI9YlH) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Shake Shake](https://open.spotify.com/album/3OsSTICzO2LsUrWRNLRTnr) | 3:40 |
 | 46 | [So Cool](https://open.spotify.com/track/77ilrvQSGD3BWTDcFCn0FE) | [The Planetoids](https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm), [Tamara Dey](https://open.spotify.com/artist/5uR7S1soFxQcnnVMn6TIe9) | [So Cool](https://open.spotify.com/album/3qDSi20OwFqEp879zRl0Hx) | 3:27 |
 | 47 | [Roll On](https://open.spotify.com/track/2npX2eHUadkO7WIALUa66K) | [Dominic and Tom](https://open.spotify.com/artist/4F2LbcLZlrW3vimWra22SN) | [Roll On](https://open.spotify.com/album/7JwXBJOV5HVONGQGU9JXXy) | 3:23 |
 | 48 | [Can't Hurry Love](https://open.spotify.com/track/7385EDnK2hsXZT1yBUX4EB) | [Lloyd Cele](https://open.spotify.com/artist/3Ep2ZktnezHzTyx4oAFddg) | [Can't Hurry Love](https://open.spotify.com/album/5p9MT9gZX1J7X4QLj7A414) | 3:01 |

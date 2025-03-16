@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,436 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,446 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,15 +96,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 86 | [Arrows](https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Arrows](https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3) | 4:26 |
 | 87 | [天国にいちばん近い島](https://open.spotify.com/track/5ZwdNfFGj1ut9PzGgynYev) | [Tomoyo Harada](https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1) | [音楽と私](https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0) | 6:32 |
 | 88 | [Good Night Station](https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [BLUEHARLEM](https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ) | 5:27 |
-| 89 | [ねむるのまち～Tidur Tidur～](https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [帰ってから、歌いたくなってもいいようにと思ったのだ。](https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG) | 5:10 |
-| 90 | [A Rainy Night in NY](https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [A Rainy Night in NY](https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH) | 2:58 |
+| 89 | [A Rainy Night in NY](https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [A Rainy Night in NY](https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH) | 2:58 |
+| 90 | [ねむるのまち～Tidur Tidur～](https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [帰ってから、歌いたくなってもいいようにと思ったのだ。](https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG) | 5:10 |
 | 91 | [寝言の時間](https://open.spotify.com/track/0U9xmgGV9t6KouPHqYNvwV) | [Kicell](https://open.spotify.com/artist/5n0o8fBtnm15nMHwCOEa6O) | [寝言の時間](https://open.spotify.com/album/2EX58WObR8lLwJ27RUjEEP) | 4:50 |
 | 92 | [NEVER FALL IN LOVE AGAIN](https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [綺麗](https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN) | 3:53 |
 | 93 | [星明かりのトロイメライ](https://open.spotify.com/track/1PGaIt3b8ABOLZDZN0WKZS) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [ただいま](https://open.spotify.com/album/4YybvOoOrXps18hLkrsrEB) | 5:29 |
-| 94 | [素晴らしい世界](https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz) | [Naotaro Moriyama](https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued) | [素晴らしい世界](https://open.spotify.com/album/41kjvJsOSF46d9QIv8RuUy) | 7:37 |
-| 95 | [moonlight](https://open.spotify.com/track/6XFHr2ZCgyndx3LO47kEyL) | [Jane Jade](https://open.spotify.com/artist/6wmQqcVc9s7XztjlNNL2sm), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT), [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [moonlight](https://open.spotify.com/album/58BwJa6AO9RdRVBNJls2b7) | 3:19 |
-| 96 | [老夫婦](https://open.spotify.com/track/2vbXsUHfLlmH2svOb5oDv6) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [ばかのうた](https://open.spotify.com/album/0Q8mx1yHMWGG69vXrpiDrX) | 2:01 |
-| 97 | [いつしか](https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [いつしか](https://open.spotify.com/album/6x0XM8OMPAoUCt0uTmlCFq) | 4:00 |
+| 94 | [moonlight](https://open.spotify.com/track/6XFHr2ZCgyndx3LO47kEyL) | [Jane Jade](https://open.spotify.com/artist/6wmQqcVc9s7XztjlNNL2sm), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT), [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [moonlight](https://open.spotify.com/album/58BwJa6AO9RdRVBNJls2b7) | 3:19 |
+| 95 | [老夫婦](https://open.spotify.com/track/2vbXsUHfLlmH2svOb5oDv6) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [ばかのうた](https://open.spotify.com/album/0Q8mx1yHMWGG69vXrpiDrX) | 2:01 |
+| 96 | [いつしか](https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [いつしか](https://open.spotify.com/album/6x0XM8OMPAoUCt0uTmlCFq) | 4:00 |
+| 97 | [素晴らしい世界](https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz) | [Naotaro Moriyama](https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued) | [素晴らしい世界](https://open.spotify.com/album/41kjvJsOSF46d9QIv8RuUy) | 7:37 |
 | 98 | [6月の窓](https://open.spotify.com/track/5xdfhMrkOaDgl9f1yGaKIy) | [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [oar](https://open.spotify.com/album/22b8zl798zalEhOyGlZrnR) | 5:04 |
 | 99 | [Unknown](https://open.spotify.com/track/3ymmhmikPwzb3ZdDZ8GBgl) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [Unknown](https://open.spotify.com/album/1I5acP1fmbJh7F0g9GwsyA) | 4:04 |
 | 100 | [眠れぬ羊 \- with TENDRE](https://open.spotify.com/track/4JMKCqPqhwM7haY0mO3ezj) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Twilight](https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf) | 3:53 |

@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "maman",
+        "url": "https://open.spotify.com/album/2pguB7D2A9A8oHS76j9Egx"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180195,
+      "name": "maman",
+      "url": "https://open.spotify.com/track/1iJ9cSEWYQsd2M7ROFyIZx"
+    },
+    {
+      "album": {
         "name": "Mila",
         "url": "https://open.spotify.com/album/0mOdQScFDTA144bk5nt8AX"
       },

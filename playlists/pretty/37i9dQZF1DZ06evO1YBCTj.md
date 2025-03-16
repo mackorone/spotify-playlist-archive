@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YBCTj.md) - [plain]
 
 > This is keshi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,041 likes - 44 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,146 likes - 44 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YBCTj.md) - [plain]
 | 29 | [TOUCH](https://open.spotify.com/track/5cgy5vMqVZbd8hYutp2txu) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:25 |
 | 30 | [alright](https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 2:48 |
 | 31 | [always](https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 2:52 |
-| 32 | [War With Heaven](https://open.spotify.com/track/14gmLQPNYokqB8OKxAp69f) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:13 |
+| 32 | [it kills me](https://open.spotify.com/track/5QWGib8UBj4U9ybzmpuTUv) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [it kills me](https://open.spotify.com/album/2Pvln0VWu4UmatZ9cvlveU) | 2:35 |
 | 33 | [HELL/HEAVEN](https://open.spotify.com/track/4ZrT4GknVWRvBYA8AcLCeY) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:40 |
-| 34 | [it kills me](https://open.spotify.com/track/5QWGib8UBj4U9ybzmpuTUv) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [it kills me](https://open.spotify.com/album/2Pvln0VWu4UmatZ9cvlveU) | 2:35 |
+| 34 | [War With Heaven](https://open.spotify.com/track/14gmLQPNYokqB8OKxAp69f) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:13 |
 | 35 | [us](https://open.spotify.com/track/3r9eGg4SVPbhtiPTA9UkmK) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 4:08 |
 | 36 | [magnolia](https://open.spotify.com/track/6PAvEeeSw7zuaQTUnoZPlg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [magnolia](https://open.spotify.com/album/2HjiysHZDh1xSQQy2Uc0py) | 2:19 |
 | 37 | [xoxosos](https://open.spotify.com/track/2PcRcEPe8HkDhYsA6OV6d4) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [skeletons](https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0) | 2:33 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YBCTj.md) - [plain]
 | 43 | [more](https://open.spotify.com/track/24Sqz5FNuD6D5Utxeg4DmK) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:04 |
 | 44 | [atlas](https://open.spotify.com/track/0PQK5efczMVIIjScPRZYH5) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [skeletons](https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0) | 2:51 |
 
-Snapshot ID: `Z9IgAAAAAAAcxJ5ol/7l+UjYEGp80BSG`
+Snapshot ID: `Z9NxgAAAAACW7xt/cVJp550AoP7w8opx`

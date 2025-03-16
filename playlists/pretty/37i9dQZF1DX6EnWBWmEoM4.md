@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EnWBWmEoM4.md) - [plain]
 
 > Exitos de cuarteto del año\. Foto: Q´ Lokura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,895 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,989 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EnWBWmEoM4.md) - [plain]
 | 18 | [Luck Ra \| Mission 15](https://open.spotify.com/track/6CIMoDfTsvFVGhFi3v9Izn) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Luck Ra \| Mission 15](https://open.spotify.com/album/75ROUVsHe1IcWmeOBuFZtT) | 2:13 |
 | 19 | [Q' Tal](https://open.spotify.com/track/1PDtrQFf9pseH4J58Rf8iw) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Una Pasión](https://open.spotify.com/album/6yISxI632Khpi7zWaj91sQ) | 3:10 |
 | 20 | [Cuando Me Enamoro](https://open.spotify.com/track/03wQrSM0nV1WyPIgWvapG4) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Éxitos de Oro](https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK) | 2:54 |
-| 21 | [Amor Clasificado](https://open.spotify.com/track/5MK642wCaNr9hRDZ3kWyDX) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:44 |
+| 21 | [Amor Clasificado](https://open.spotify.com/track/5MK642wCaNr9hRDZ3kWyDX) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteto Característico \(A2000\)](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:44 |
 | 22 | [Universo Paralelo](https://open.spotify.com/track/6LBpjWMfy1NUfyxAJbcMRs) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Universo Paralelo](https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2) | 3:37 |
 | 23 | [Claro Que Lo Hice \- En vivo](https://open.spotify.com/track/0l3KYSBuArosib58MemWQF) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [Claro Que Lo Hice \(En vivo\)](https://open.spotify.com/album/6ZnNCbnDFX72KUG89gZl9G) | 3:26 |
 | 24 | [Ahora mírame](https://open.spotify.com/track/1TKwvpH6WFOaHWsBnYTSaK) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No me pidan que baje el volumen](https://open.spotify.com/album/4lfnuVjqXFDUCswpAqs2SC) | 4:34 |

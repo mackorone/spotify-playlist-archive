@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,514 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,535 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 92 | [La Caña de Azucar](https://open.spotify.com/track/6YVqeg5JlwwJkECyUmHPmo) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Historia Musical de Afrosound: 40 Éxitos](https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM) | 2:28 |
 | 93 | [Cumbia Indigena](https://open.spotify.com/track/6ldMNUXJpdxFcPecYTHNU5) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [Historia Musical de Lisandro Meza: 40 Éxitos](https://open.spotify.com/album/4pdipU1bAg54lJjG8i0bTo) | 2:29 |
 | 94 | [Cinco Pa las Doce](https://open.spotify.com/track/2jm1D6860RRJXfbTv4tRvI) | [Anibal Velasquez](https://open.spotify.com/artist/0wTrWHg7n7oL5UGT0I3VqE) | [Historia Musical de Aníbal Velásquez](https://open.spotify.com/album/5EsZaXFKjzsUMgFYmaaAkk) | 2:46 |
-| 95 | [Bacano](https://open.spotify.com/track/5OQxj4awrNDYMnvNAzwSjQ) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo) | [Éxitos los Tupamaros](https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM) | 3:29 |
-| 96 | [La Mafafa](https://open.spotify.com/track/6ssMfGx7MMrJlvdvuRfZCA) | [La Sonora Cordobesa](https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK), [Eliseo Herrera](https://open.spotify.com/artist/3YpIrDTEyfabU64t89sani), [Pedro Laza Y Sus Pelayeros](https://open.spotify.com/artist/0CulHu6suXmBEZRI9pYgnk) | [Historia Musical de la Sonora Cordobesa](https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0) | 2:35 |
+| 95 | [La Mafafa](https://open.spotify.com/track/6ssMfGx7MMrJlvdvuRfZCA) | [La Sonora Cordobesa](https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK), [Eliseo Herrera](https://open.spotify.com/artist/3YpIrDTEyfabU64t89sani), [Pedro Laza Y Sus Pelayeros](https://open.spotify.com/artist/0CulHu6suXmBEZRI9pYgnk) | [Historia Musical de la Sonora Cordobesa](https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0) | 2:35 |
+| 96 | [Bacano](https://open.spotify.com/track/5OQxj4awrNDYMnvNAzwSjQ) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo) | [Éxitos los Tupamaros](https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM) | 3:29 |
 | 97 | [Mil Horas](https://open.spotify.com/track/6GA4n3kmq8pTJLmntNlXDD) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Historia Musical de la Sonora Dinamita: 40 Éxitos](https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD) | 3:46 |
 | 98 | [El Eco y el Carretero](https://open.spotify.com/track/4lMlLqCKleGBiztVjpnpKl) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Historia Musical de Afrosound: 40 Éxitos](https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM) | 2:28 |
 | 99 | [El Ausente](https://open.spotify.com/track/01iowdZND8PTDZ5r8dQclR) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Historia Musical de Fruko: Éxitos](https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB) | 4:02 |

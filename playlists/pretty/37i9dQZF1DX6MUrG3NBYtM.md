@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 
 > De beste Indie & Alternative\. Cover: Sylvie Kreusch
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,382 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,372 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 | 57 | [We Made It](https://open.spotify.com/track/3nVuglijxmqA2eb4iFrprH) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [We Made It](https://open.spotify.com/album/261XhHuUmuav4NV5gwTaPI) | 3:14 |
 | 58 | [For a Friend](https://open.spotify.com/track/2mLdVh2Qxkf8UFBAKRHH6w) | [Elephant](https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW) | [For a Friend](https://open.spotify.com/album/1AwGiizKQAZznPk9w0Onbg) | 3:18 |
 | 59 | [See What Sticks](https://open.spotify.com/track/1kWMfZuciYaWSYIa4QrbKT) | [Komodo](https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU) | [Hell Go Rhythm](https://open.spotify.com/album/4EwrO3QrAG3IywH5jX1fsc) | 3:18 |
-| 60 | [Sirens !](https://open.spotify.com/track/6jPHjHJqA3GJrtAkboMTz7) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Sirens !](https://open.spotify.com/album/1yjrr0aEAOd0nYk3uuYVeR) | 3:30 |
+| 60 | [sirens !](https://open.spotify.com/track/6jPHjHJqA3GJrtAkboMTz7) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [sirens !](https://open.spotify.com/album/1yjrr0aEAOd0nYk3uuYVeR) | 3:30 |
 
 Snapshot ID: `Z9NjkwAAAAA1Iwsjo2a5cHBMazbiOkkF`

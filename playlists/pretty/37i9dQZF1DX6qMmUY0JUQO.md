@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 
 > Legendary tracks been produced on a TR\-909 drum machine\. Cover: Jeff Mills
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,637 likes - 50 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,715 likes - 50 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 | 36 | [My Heart Goes Boom \- Radio Version](https://open.spotify.com/track/4k75o8WPCPqDd2tgD4AKxU) | [French Affair](https://open.spotify.com/artist/6ja9fzugcFkIEIXRw3Ie1E) | [My Heart Goes Boom \(La Di da Da\)](https://open.spotify.com/album/0AVy1xmas9TvWDPPsHOC0G) | 3:40 |
 | 37 | [I'm Your Pusher](https://open.spotify.com/track/7dxAjXJvJ63V0bjQ13cCa9) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Colors](https://open.spotify.com/album/6axoq3JzasaOsl9FmLp0v9) | 5:35 |
 | 38 | [History \- Special Dance Mix](https://open.spotify.com/track/7wjpIve8KZjIfxF8crW5SF) | [Mai Tai](https://open.spotify.com/artist/0L0XA2oh77ZfPZiaBxw96D) | [History](https://open.spotify.com/album/6oPuo7PCqssFcUZkuGxoeq) | 7:18 |
-| 39 | [Boom\-Boom](https://open.spotify.com/track/7xpqxbOxqFTltGFvzdu6aV) | [dancer](https://open.spotify.com/artist/3hst5vmCCxskyGcL4kL1gb), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Boom\-Boom](https://open.spotify.com/album/5BFbZ5FhSIrz7JUpqrS1nL) | 7:45 |
-| 40 | [Boogie Mandroid](https://open.spotify.com/track/5FoAxha7zuDWQnPz5G0ARN) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Eddie Fowlkes](https://open.spotify.com/artist/5s52J0wTa9B4YFG39iqXny) | [Boogie Mandroid](https://open.spotify.com/album/112lhVvdNHLnRAugtFGWtM) | 5:41 |
+| 39 | [Boogie Mandroid](https://open.spotify.com/track/5FoAxha7zuDWQnPz5G0ARN) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Eddie Fowlkes](https://open.spotify.com/artist/5s52J0wTa9B4YFG39iqXny) | [Boogie Mandroid](https://open.spotify.com/album/112lhVvdNHLnRAugtFGWtM) | 5:41 |
+| 40 | [Boom\-Boom](https://open.spotify.com/track/7xpqxbOxqFTltGFvzdu6aV) | [dancer](https://open.spotify.com/artist/3hst5vmCCxskyGcL4kL1gb), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Boom\-Boom](https://open.spotify.com/album/5BFbZ5FhSIrz7JUpqrS1nL) | 7:45 |
 | 41 | [Chord Orbit](https://open.spotify.com/track/3vFj9rJXCjvfFUnXxNBRri) | [Gerd](https://open.spotify.com/artist/29IzCNDrWGPFXMmtCY3N83) | [Planet F.M.D.X\. Pt\. 2](https://open.spotify.com/album/7dRA65jkQ7svaLwYiDt2aw) | 5:41 |
 | 42 | [Horny \- '98 Radio Edit](https://open.spotify.com/track/79qPDRmHmJ5xcU7oyS8CQ1) | [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6), [Hot 'N' Juicy](https://open.spotify.com/artist/7c40GtC37kwpGDm8kbYcHr) | [Horny \(Radio Edit's\)](https://open.spotify.com/album/3WQ59lVT7UR1WvU0Of3W4D) | 3:07 |
 | 43 | [Too Funky \- Single Edit](https://open.spotify.com/track/4KjPPpRbthW8dSNdisR2Wi) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 3:44 |

@@ -1,13 +1,33 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 8737,
+  "num_followers": 8744,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAB9y8n9YJDetGx4+/XI2y+m",
+  "snapshot_id": "Z9NxgAAAAAD7pcLrR0eZiaQuZHUqrjL3",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "raat ki rani (Khruangbin Remix)",
+        "url": "https://open.spotify.com/album/0hHxD2fUWlqAcjXwIIiqaj"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 275531,
+      "name": "raat ki rani - Khruangbin Remix",
+      "url": "https://open.spotify.com/track/44QLYLXDebPCkTzcnGX4XA"
+    },
     {
       "added_at": null,
       "album": {
@@ -168,9 +188,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 313311,
-      "name": "Raat Ki Rani",
-      "url": "https://open.spotify.com/track/4fw0uoL1HXUhcgcU2gbVZN"
+      "duration_ms": 329935,
+      "name": "Na Gul",
+      "url": "https://open.spotify.com/track/3ysGLacY2BHPZlfmNLlcbQ"
     },
     {
       "added_at": null,
@@ -244,9 +264,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 329935,
-      "name": "Na Gul",
-      "url": "https://open.spotify.com/track/3ysGLacY2BHPZlfmNLlcbQ"
+      "duration_ms": 307007,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/2ZeVYOdBt4wqY5u7T54yWT"
     },
     {
       "added_at": null,
@@ -318,11 +338,19 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Moor Mother",
+          "url": "https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
         }
       ],
-      "duration_ms": 307007,
-      "name": "Whiskey",
-      "url": "https://open.spotify.com/track/2ZeVYOdBt4wqY5u7T54yWT"
+      "duration_ms": 374783,
+      "name": "Bolo Na (feat. Moor Mother, Joel Ross)",
+      "url": "https://open.spotify.com/track/4FQAxshBZidR2if07k021H"
     },
     {
       "added_at": null,
@@ -396,17 +424,13 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         },
         {
-          "name": "Moor Mother",
-          "url": "https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA"
-        },
-        {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+          "name": "Vijay Iyer",
+          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
         }
       ],
-      "duration_ms": 374783,
-      "name": "Bolo Na (feat. Moor Mother, Joel Ross)",
-      "url": "https://open.spotify.com/track/4FQAxshBZidR2if07k021H"
+      "duration_ms": 406831,
+      "name": "Saaqi (feat. Vijay Iyer)",
+      "url": "https://open.spotify.com/track/0BUQnIR6u8DFHClDlruO1u"
     },
     {
       "added_at": null,
@@ -575,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talvar",
-        "url": "https://open.spotify.com/album/2HScIV6V5QLSYZ6vyyctLT"
+        "name": "Siren Islands",
+        "url": "https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl"
       },
       "artists": [
         {
@@ -584,9 +608,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 200189,
-      "name": "Insaaf",
-      "url": "https://open.spotify.com/track/64zx8gCOeKKu3KINU2KiVb"
+      "duration_ms": 477881,
+      "name": "Island No. 2",
+      "url": "https://open.spotify.com/track/33FLHXMkJplhhT9gino6ad"
     },
     {
       "added_at": null,
@@ -651,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siren Islands",
-        "url": "https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl"
+        "name": "Talvar",
+        "url": "https://open.spotify.com/album/2HScIV6V5QLSYZ6vyyctLT"
       },
       "artists": [
         {
@@ -660,9 +684,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 477881,
-      "name": "Island No. 2",
-      "url": "https://open.spotify.com/track/33FLHXMkJplhhT9gino6ad"
+      "duration_ms": 200189,
+      "name": "Insaaf",
+      "url": "https://open.spotify.com/track/64zx8gCOeKKu3KINU2KiVb"
     },
     {
       "added_at": null,
@@ -800,9 +824,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 209898,
-      "name": "Housing Supply",
-      "url": "https://open.spotify.com/track/3WQg3BLWkZd3VaLNoavV0u"
+      "duration_ms": 245787,
+      "name": "Not Your Usual Night",
+      "url": "https://open.spotify.com/track/4GmOX4FuzC2lRAezV21V7G"
     }
   ],
   "unique_name": "This Is Arooj Aftab",

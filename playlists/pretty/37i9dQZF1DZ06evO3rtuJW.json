@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 33580,
+  "num_followers": 33585,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAADuoxfKAPIkRpHzuqw/p0kU",
+  "snapshot_id": "Z9NxgAAAAAAcmDUW1SXXQ9B43TyXcDZh",
   "tracks": [
     {
       "added_at": null,
@@ -386,15 +386,11 @@
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 196433,
-      "name": "Party in Heaven",
-      "url": "https://open.spotify.com/track/0nSwqwNqNUlNgpPJ4GDAMm"
+      "duration_ms": 164770,
+      "name": "High Speed",
+      "url": "https://open.spotify.com/track/6CibhjvNeSRJRy6XGshcZ4"
     },
     {
       "added_at": null,
@@ -474,31 +470,15 @@
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 164770,
-      "name": "High Speed",
-      "url": "https://open.spotify.com/track/6CibhjvNeSRJRy6XGshcZ4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Farewell",
-        "url": "https://open.spotify.com/album/2aU1tqCW4s0NM6xYSpm9Jx"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         },
         {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 163805,
-      "name": "Built Like a Soldier (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/09gIbtpXKZDU7G0WbFly25"
+      "duration_ms": 196433,
+      "name": "Party in Heaven",
+      "url": "https://open.spotify.com/track/0nSwqwNqNUlNgpPJ4GDAMm"
     },
     {
       "added_at": null,
@@ -527,22 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Swervin",
-        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
+        "name": "Farewell",
+        "url": "https://open.spotify.com/album/2aU1tqCW4s0NM6xYSpm9Jx"
       },
       "artists": [
         {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         },
         {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 200490,
-      "name": "Never Scared (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi"
+      "duration_ms": 163805,
+      "name": "Built Like a Soldier (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/09gIbtpXKZDU7G0WbFly25"
     },
     {
       "added_at": null,
@@ -563,6 +543,26 @@
       "duration_ms": 179444,
       "name": "Kill Shit (feat. Lil Bibby) - Bonus Track",
       "url": "https://open.spotify.com/track/4DLO89J3G62BcXy6coIukw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Swervin",
+        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 200490,
+      "name": "Never Scared (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Swervin",
-        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 148239,
-      "name": "Wilt Chamberlin",
-      "url": "https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PTSD (Deluxe)",
         "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 196659,
       "name": "Cap Guns",
       "url": "https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Swervin",
+        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 148239,
+      "name": "Wilt Chamberlin",
+      "url": "https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "#FreeMyHoodFuckYoHood: Bounce Out Edition",
-        "url": "https://open.spotify.com/album/2ROAftc11A5ptP94CNoPrD"
-      },
-      "artists": [
-        {
-          "name": "VonOff1700",
-          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 190511,
-      "name": "U Know Dat (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/6iKSh4ElPgyGlA5DY7ljLk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PTSD (Deluxe)",
         "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 162217,
       "name": "Real One",
       "url": "https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "#FreeMyHoodFuckYoHood: Bounce Out Edition",
+        "url": "https://open.spotify.com/album/2ROAftc11A5ptP94CNoPrD"
+      },
+      "artists": [
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 190511,
+      "name": "U Know Dat (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6iKSh4ElPgyGlA5DY7ljLk"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIG SCOOM (Vol. 1)",
-        "url": "https://open.spotify.com/album/08IxpbkS8U33weBUBYOy49"
-      },
-      "artists": [
-        {
-          "name": "MAF Teeski",
-          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 173565,
-      "name": "Throw (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/4GPdoLd1cWW8vgmij3mxLb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
         "url": "https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 244853,
       "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
       "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIG SCOOM (Vol. 1)",
+        "url": "https://open.spotify.com/album/08IxpbkS8U33weBUBYOy49"
+      },
+      "artists": [
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 173565,
+      "name": "Throw (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/4GPdoLd1cWW8vgmij3mxLb"
     },
     {
       "added_at": null,
@@ -999,6 +999,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 244329,
+      "name": "2 Chains",
+      "url": "https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The D.O.A. Tape",
         "url": "https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 153826,
       "name": "Being Honest (Remix) [feat. G Herbo]",
       "url": "https://open.spotify.com/track/2344qwORd0Q3bZhwssd2mw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 244329,
-      "name": "2 Chains",
-      "url": "https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq"
     }
   ],
   "unique_name": "This Is G Herbo",

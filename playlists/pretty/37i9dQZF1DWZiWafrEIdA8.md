@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,497 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,502 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 7 | [Text Me](https://open.spotify.com/track/1dN4Z7wZTQXLEl33RkMO3a) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Her](https://open.spotify.com/album/1XtTygUdUqtwPyErnZxLbR) | 2:57 |
 | 8 | [Nerdy Love](https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Nerdy Love](https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro) | 3:16 |
 | 9 | [Alone \(Feat\. LeeHi\)](https://open.spotify.com/track/2SSbQoEqPHu6qAgi3pFobY) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [ALONE](https://open.spotify.com/album/0t8BYpDMceb2cfEdHYwXhP) | 2:59 |
-| 10 | [Understand](https://open.spotify.com/track/0gVqDsMxAOREJ6WcdOuVHk) | [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [MELOH](https://open.spotify.com/album/4FsOISPX2LQ3xqq9TZZfm1) | 2:40 |
-| 11 | [COLD \(feat.10CM\)](https://open.spotify.com/track/4pZUVR0l4sPl8GKPm6FXDa) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [COLD](https://open.spotify.com/album/6qcSwL8RznHrNcex6o73z5) | 3:07 |
+| 10 | [COLD \(feat.10CM\)](https://open.spotify.com/track/4pZUVR0l4sPl8GKPm6FXDa) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [COLD](https://open.spotify.com/album/6qcSwL8RznHrNcex6o73z5) | 3:07 |
+| 11 | [Understand](https://open.spotify.com/track/0gVqDsMxAOREJ6WcdOuVHk) | [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [MELOH](https://open.spotify.com/album/4FsOISPX2LQ3xqq9TZZfm1) | 2:40 |
 | 12 | [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 |
 | 13 | [We Are](https://open.spotify.com/track/2SMq0lOqCTHayWa9juoI0d) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [We Are](https://open.spotify.com/album/67d43ZuedVWtZMc4nOm90J) | 3:16 |
 | 14 | [Rainy day \(Feat\. ASH ISLAND, Skinny Brown\)](https://open.spotify.com/track/4LxFRsy3TZjqAtAgIsjkez) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Rainy day](https://open.spotify.com/album/7lLMwJuLck4Rnd5GUi81j2) | 3:38 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7jyi24oHXJ6.md) - [plain]
 
 > Listen to the soundtracks of the EXchange series\. \(환승연애 시리즈 사운드 트랙들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,374 likes - 59 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,376 likes - 59 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

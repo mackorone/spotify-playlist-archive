@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Przebiśniegi
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,732 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,739 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 55 | [Kości](https://open.spotify.com/track/7ItTsut5l5eAj1hGb2WCCJ) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Kości](https://open.spotify.com/album/4pmTKtrPtbFh8XmGSEZNVQ) | 3:32 |
 | 56 | [Tańczę do Ciebie](https://open.spotify.com/track/22I924FKxxTIDS7JXQjaPE) | [Kuba Dąbrowski](https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP), [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Tańczę do Ciebie](https://open.spotify.com/album/59Kq0skwHuLhRpeffUuA9L) | 2:55 |
 | 57 | [MAMONY MILION](https://open.spotify.com/track/53camPfa0Fd8y1WzUcRjkP) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X) | [MAMONY MILION](https://open.spotify.com/album/1Webw1M55Xd9Rr1n51Qk70) | 3:19 |
-| 58 | [Chochoł](https://open.spotify.com/track/5vtPXR2oUVkw5FDG0aOZIF) | [Karolina Czarnecka](https://open.spotify.com/artist/6J2uYw9Hf0spyvUuwvEP1l), [Feno](https://open.spotify.com/artist/6KwSnGuV9Dq7GTF0WYZPJj) | [Chochoł](https://open.spotify.com/album/3hP3qwxotUja6DVFECK0md) | 3:19 |
+| 58 | [Chochoł](https://open.spotify.com/track/5vtPXR2oUVkw5FDG0aOZIF) | [Karolina Czarnecka](https://open.spotify.com/artist/6J2uYw9Hf0spyvUuwvEP1l), [Feno](https://open.spotify.com/artist/6KwSnGuV9Dq7GTF0WYZPJj), [Mike Johnson](https://open.spotify.com/artist/1Rv7NvFb9DhfzZcA33jotl) | [Chochoł](https://open.spotify.com/album/3hP3qwxotUja6DVFECK0md) | 3:19 |
 | 59 | [Ćma](https://open.spotify.com/track/4TsUpBDBZQLGaSEjNrgCKX) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Ćma](https://open.spotify.com/album/0bmxGp8qMZcfKrKFR6wJMz) | 4:39 |
 | 60 | [Nic](https://open.spotify.com/track/4HK1oowEpGl1v478pOWKaL) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [wojtman.fm](https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo) | [Nic](https://open.spotify.com/album/18ToHCJG3jhpyV9pIS5t84) | 2:32 |
 | 61 | [Zwierciadło](https://open.spotify.com/track/129TCiLRD80ck8JcEu0JmC) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [Zwierciadło](https://open.spotify.com/album/2E941hH81YIOPLEnu5YsaQ) | 2:36 |

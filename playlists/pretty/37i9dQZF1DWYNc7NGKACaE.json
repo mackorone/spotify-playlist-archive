@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 84323,
+  "num_followers": 84327,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -559,26 +559,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Virgulado",
-        "url": "https://open.spotify.com/album/6N1NIsdnVMvU9SGAFcOgSk"
-      },
-      "artists": [
-        {
-          "name": "Nino Leone",
-          "url": "https://open.spotify.com/artist/3WhUu0CKDwlQL9UDMccCCx"
-        },
-        {
-          "name": "Goodboysut",
-          "url": "https://open.spotify.com/artist/7mGIf59rGrAZEv55wcSXvW"
-        }
-      ],
-      "duration_ms": 127011,
-      "name": "Virgulado - Speed",
-      "url": "https://open.spotify.com/track/2W9O45APFy8vqX5g2Rtfns"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Semblante de Criminoso Speed",
         "url": "https://open.spotify.com/album/4OapHKHJ62yQphWbquFKQt"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 98475,
       "name": "Semblante de Criminoso Speed",
       "url": "https://open.spotify.com/track/4NXhoDZKkhtWfulsgqsmOa"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Virgulado",
+        "url": "https://open.spotify.com/album/6N1NIsdnVMvU9SGAFcOgSk"
+      },
+      "artists": [
+        {
+          "name": "Nino Leone",
+          "url": "https://open.spotify.com/artist/3WhUu0CKDwlQL9UDMccCCx"
+        },
+        {
+          "name": "Goodboysut",
+          "url": "https://open.spotify.com/artist/7mGIf59rGrAZEv55wcSXvW"
+        }
+      ],
+      "duration_ms": 127011,
+      "name": "Virgulado - Speed",
+      "url": "https://open.spotify.com/track/2W9O45APFy8vqX5g2Rtfns"
     },
     {
       "added_at": "2024-07-08 19:10:57",

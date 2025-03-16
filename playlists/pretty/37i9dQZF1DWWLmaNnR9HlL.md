@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 
 > La banda sonora para tus cenas en casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,356 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,363 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 93 | [Love Is Here To Stay](https://open.spotify.com/track/418awaNpluyE2Lvoh6lD0p) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Setembro](https://open.spotify.com/album/5ksQoz2k7IcACaWEL5Key6) | 4:22 |
 | 94 | [Don't Wait Too Long](https://open.spotify.com/track/1AmODJ8Py2tZRv28K5SuzX) | [Larry Klein](https://open.spotify.com/artist/0ej3IwUoiaLNMaWt9LFjRU), [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV), [Jesse Harris](https://open.spotify.com/artist/1SE144wEx5NYxXBKH5mOqy), [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/5Abc3wXAy8U1f79eVn7AGd) | 3:09 |
 | 95 | [Perfectly Imperfect](https://open.spotify.com/track/1gRxJURUiIEpsNGfhIKCrF) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Perfectly Imperfect](https://open.spotify.com/album/72TYaE6b6PDBrm9oFjCbRq) | 3:24 |
-| 96 | [Aves](https://open.spotify.com/track/40xybgjTNRocHrl3c8NfuR) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Midair](https://open.spotify.com/album/5l97IRN5PKVVhU9n0Wn59n) | 4:07 |
-| 97 | [Here Comes the Sun](https://open.spotify.com/track/7J29m3Vq5L3JuwGp8KjFMj) | [Sarah Menescal](https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD) | [Bossa n' Essentials](https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD) | 2:32 |
+| 96 | [Here Comes the Sun](https://open.spotify.com/track/7J29m3Vq5L3JuwGp8KjFMj) | [Sarah Menescal](https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD) | [Bossa n' Essentials](https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD) | 2:32 |
+| 97 | [Aves](https://open.spotify.com/track/40xybgjTNRocHrl3c8NfuR) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Midair](https://open.spotify.com/album/5l97IRN5PKVVhU9n0Wn59n) | 4:07 |
 | 98 | [La Fugitiva \(with Kevin Johansen\)](https://open.spotify.com/track/1jmDkMtuAQJgSiN9AulFcx) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 3:14 |
 | 99 | [La Sombra \(feat\. Leonel García\)](https://open.spotify.com/track/1AMzClglf6ggXTomlMOMkk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:40 |
 | 100 | [Havana \- Bossa Nova](https://open.spotify.com/track/0Tl1pHPHtn8WHMakC5VrVM) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Jacira](https://open.spotify.com/artist/5OcIpjam1QtlWktCiKGNzd), [makita](https://open.spotify.com/artist/3ozTbB0bc4emEQAZVipNgT) | [Havana \(Bossa Nova\)](https://open.spotify.com/album/3b3HGOoRb1eTmI6ilMRvWG) | 4:10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6cMOxomY5UW0TYHTvuv78N.md) - [plain]
 
 > Celebrate cottage life with this collection  of classics that are perfect for summer holiday fun.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 109,483 likes - 113 songs - 7 hr 46 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 109,481 likes - 113 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

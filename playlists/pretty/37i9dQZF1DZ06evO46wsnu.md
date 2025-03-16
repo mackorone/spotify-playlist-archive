@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46wsnu.md) - [plain]
 
 > This is Rise Against\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,572 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,607 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46wsnu.md) - [plain]
 | 38 | [Faint Resemblance \- Ghost Note Symphonies](https://open.spotify.com/track/6RTDyHa1vdrRLUNvFOH4Ry) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Ghost Note Symphonies, Vol.1](https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl) | 2:22 |
 | 39 | [Forfeit](https://open.spotify.com/track/2DFmAghYvS0NuF9dpQWQaV) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 3:44 |
 | 40 | [Blind](https://open.spotify.com/track/0hpo6LuKFOGzXYald8qr9m) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Long Forgotten Songs: B\-Sides & Covers 2000\-2013](https://open.spotify.com/album/3rsOMcHwc9NTQBgEBLcWlP) | 2:34 |
-| 41 | [Blood To Bleed](https://open.spotify.com/track/7kUKF6jER5BPGIRAgRxXnd) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/2oMdBbMYtKysZ9dvFAVzzz) | 3:48 |
-| 42 | [Heaven Knows](https://open.spotify.com/track/2oatfqk7BKfzdpmtcgu3Sc) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Rpm10](https://open.spotify.com/album/65HQSVksRU9QjPrCsvQK2E) | 3:23 |
+| 41 | [Heaven Knows](https://open.spotify.com/track/2oatfqk7BKfzdpmtcgu3Sc) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Rpm10](https://open.spotify.com/album/65HQSVksRU9QjPrCsvQK2E) | 3:23 |
+| 42 | [Blood To Bleed](https://open.spotify.com/track/7kUKF6jER5BPGIRAgRxXnd) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/2oMdBbMYtKysZ9dvFAVzzz) | 3:48 |
 | 43 | [The Numbers](https://open.spotify.com/track/2gDJhVspNZPpCEyzR9zOY0) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 4:59 |
 | 44 | [Far From Perfect \- Ghost Note Symphonies](https://open.spotify.com/track/5k1pZ19vT32fzCSeqRL26v) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Ghost Note Symphonies, Vol.1](https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl) | 3:53 |
-| 45 | [Dancing For Rain](https://open.spotify.com/track/04kOUITUlhSv65fjRbWlCq) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/2oMdBbMYtKysZ9dvFAVzzz) | 4:01 |
-| 46 | [Wolves](https://open.spotify.com/track/4cHwmGNGR4Tng8vbUypjfd) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Wolves](https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx) | 3:37 |
+| 45 | [Wolves](https://open.spotify.com/track/4cHwmGNGR4Tng8vbUypjfd) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Wolves](https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx) | 3:37 |
+| 46 | [Dancing For Rain](https://open.spotify.com/track/04kOUITUlhSv65fjRbWlCq) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/2oMdBbMYtKysZ9dvFAVzzz) | 4:01 |
 | 47 | [Monarch](https://open.spotify.com/track/5G3zN7LhZzHwD6RSLbPAUk) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 3:32 |
-| 48 | [Pain Mgmt](https://open.spotify.com/track/0T2s6fdO3RgZY2bPltwNJr) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation II](https://open.spotify.com/album/5yMunjWm6lcpvGYDYOfVt0) | 3:42 |
-| 49 | [Voices Off Camera \- Ghost Note Symphonies](https://open.spotify.com/track/3PaeUkXlQSmYKlR30fbdzU) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Ghost Note Symphonies, Vol.1](https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl) | 3:01 |
+| 48 | [Voices Off Camera \- Ghost Note Symphonies](https://open.spotify.com/track/3PaeUkXlQSmYKlR30fbdzU) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Ghost Note Symphonies, Vol.1](https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl) | 3:01 |
+| 49 | [Pain Mgmt](https://open.spotify.com/track/0T2s6fdO3RgZY2bPltwNJr) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation II](https://open.spotify.com/album/5yMunjWm6lcpvGYDYOfVt0) | 3:42 |
 | 50 | [Welcome To The Breakdown](https://open.spotify.com/track/3SHfZYUYMkz1PlE0WdVVap) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Wolves](https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx) | 3:03 |
 
-Snapshot ID: `Z9IgAAAAAAD5eYsoDcPwQ/nli6IDkTyy`
+Snapshot ID: `Z9NxgAAAAADbIaYJe98IlsZFDZ+r+5+p`

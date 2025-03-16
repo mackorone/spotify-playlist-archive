@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 66459,
+  "num_followers": 66463,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -235,26 +235,6 @@
     {
       "added_at": "2025-03-07 03:01:19",
       "album": {
-        "name": "Paisagem",
-        "url": "https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu"
-      },
-      "artists": [
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 212300,
-      "name": "Paisagem",
-      "url": "https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua"
-    },
-    {
-      "added_at": "2025-03-07 03:01:19",
-      "album": {
         "name": "Inten\u00e7\u00e3o / Gra\u00e7a (Ac\u00fastico em Paris, 2024)",
         "url": "https://open.spotify.com/album/6ltIOoVSHSoskUbPIfW4Xk"
       },
@@ -273,8 +253,28 @@
         }
       ],
       "duration_ms": 198214,
-      "name": "Inten\u00e7\u00e3o / Gra\u00e7a - Ao Vivo",
+      "name": "Inten\u00e7\u00e3o / Gra\u00e7a - Ac\u00fastico em Paris",
       "url": "https://open.spotify.com/track/3o2ZtYsTDYAmhxDRaSkCH4"
+    },
+    {
+      "added_at": "2025-03-07 03:01:19",
+      "album": {
+        "name": "Paisagem",
+        "url": "https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 212300,
+      "name": "Paisagem",
+      "url": "https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua"
     },
     {
       "added_at": "2025-03-07 03:01:19",

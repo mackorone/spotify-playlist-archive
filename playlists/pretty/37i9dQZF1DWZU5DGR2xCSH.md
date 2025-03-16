@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 
 > Los abanderados del rock argentino y sus himnos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,144,764 likes - 70 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,144,769 likes - 70 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 47 | [La Balsa](https://open.spotify.com/track/4J2xMy0kakU9sAin1uppxb) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Los Gatos](https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G) | 2:56 |
 | 48 | [El Extraño del Pelo Largo](https://open.spotify.com/track/684mSIt8bHBYGgIQjFsERt) | [La Joven Guardia](https://open.spotify.com/artist/5Pq1eqKbVKRziJs6cSUoBy) | [La Joven Guardia Cronología \- El Extraño del Pelo Largo \(1969\)](https://open.spotify.com/album/2Z5PSIAehRpKj55QrAMasD) | 2:46 |
 | 49 | [Jugo de Tomate](https://open.spotify.com/track/0agzpJR3jRbfLKhG5nWxx3) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 2:46 |
-| 50 | [Irresponsables](https://open.spotify.com/track/6d4d6cwiAf59mKxoRmXQoK) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/5chAuifdjaRoIqlnG4Lbun) | 2:40 |
-| 51 | [Solo Se Trata de Vivir](https://open.spotify.com/track/4vKvCed2EoxBl4DFSqSUH8) | [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Solo Se Trata de Vivir / Solopiano Vol\. 1](https://open.spotify.com/album/1qGJPF96mr8TReD46byqez) | 4:18 |
+| 50 | [Solo Se Trata de Vivir](https://open.spotify.com/track/4vKvCed2EoxBl4DFSqSUH8) | [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Solo Se Trata de Vivir / Solopiano Vol\. 1](https://open.spotify.com/album/1qGJPF96mr8TReD46byqez) | 4:18 |
+| 51 | [Irresponsables](https://open.spotify.com/track/6d4d6cwiAf59mKxoRmXQoK) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/5chAuifdjaRoIqlnG4Lbun) | 2:40 |
 | 52 | [Libros Sapienciales](https://open.spotify.com/track/5SS4Eu297wAFbXjpuagLe3) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [La Biblia](https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6) | 7:34 |
 | 53 | [Mañana Campestre](https://open.spotify.com/track/1f3uOzmizXQfkezHCdu53L) | [Arco Iris](https://open.spotify.com/artist/1fl6UrQ5p2aQQwKfkrPNpW) | [Tiempo de Resurrección](https://open.spotify.com/album/57QC2S4mWSAP2MwVIB40QM) | 2:49 |
 | 54 | [El Oso](https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB) | [Moris](https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5) | [Treinta Minutos de Vida](https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT) | 2:54 |

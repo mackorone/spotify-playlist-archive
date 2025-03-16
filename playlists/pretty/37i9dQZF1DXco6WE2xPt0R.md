@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > longe dos perigos noturnos
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,242 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,300 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 62 | [Here I Am](https://open.spotify.com/track/1iNEjh4Lb3zLvUc7MRiZsG) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Gratitude](https://open.spotify.com/album/3Sq6H7MlYzeXe9bIV4KPgF) | 2:53 |
 | 63 | [Crash for a Couple](https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Little Men \(Deluxe\)](https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB) | 4:00 |
 | 64 | [Stay Here Tonight](https://open.spotify.com/track/35osWEtUUselhnoFpwA3X2) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Good Life](https://open.spotify.com/album/2aFulxeOIYdakdVXjgaHDz) | 2:57 |
-| 65 | [Make Luv 2 Me](https://open.spotify.com/track/6wSS1PXZcHbjIKHwQK6g1v) | [Zo!](https://open.spotify.com/artist/0XoDNlIZvfQP47lyLBVIsz), [Monica Blaire](https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK) | [SunStorm](https://open.spotify.com/album/1ssu0v4LiGz7j3y2BUaj2j) | 10:35 |
+| 65 | [No Love Song](https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW) | [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [No Love Song](https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct) | 3:59 |
 | 66 | [Come To My Room](https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [The Beauty Created](https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR) | 4:31 |
-| 67 | [No Love Song](https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW) | [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [No Love Song](https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct) | 3:59 |
+| 67 | [Make Luv 2 Me](https://open.spotify.com/track/6wSS1PXZcHbjIKHwQK6g1v) | [Zo!](https://open.spotify.com/artist/0XoDNlIZvfQP47lyLBVIsz), [Monica Blaire](https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK) | [SunStorm](https://open.spotify.com/album/1ssu0v4LiGz7j3y2BUaj2j) | 10:35 |
 | 68 | [dumb luck \(Live at VEVO\)](https://open.spotify.com/track/0M3zo2dGoxG1hMzOWlJQ8U) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Live at VEVO](https://open.spotify.com/album/1auqYOyeliYPBgTAhBpQsl) | 2:38 |
 | 69 | [Last Time](https://open.spotify.com/track/7AvJrRBbe7U4eis5ifjf78) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Starfruit](https://open.spotify.com/album/6BX8c95i5dRgynP9sIzy6K) | 2:41 |
 | 70 | [Chocolate Covered Strawberries](https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Chocolate Covered Strawberries](https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb) | 4:10 |

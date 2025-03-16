@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,387 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,394 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 43 | [I′m Sorry](https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Alchemy of Souls: Light and Shadow, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg) | 4:16 |
 | 44 | [Blue Flower](https://open.spotify.com/track/4Xjw06dhxAVtsnug1ZpN76) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [Alchemy of Souls: Light and Shadow, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/72zxKpd3QFTf5X2JvXqtpP) | 3:48 |
 | 45 | [How you feelin' \(From "Love Scout" : Original Soundtrack\)](https://open.spotify.com/track/6kihmLVLuCAptKWX167SgR) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [How you feelin' \(From "Love Scout" : Original Soundtrack\) Part\. 2](https://open.spotify.com/album/7gEevtkLPJZrGRdGi6FoHb) | 3:44 |
-| 46 | [If You Ask Me What Love Is](https://open.spotify.com/track/5zsMOF3yWT4U1Vw5eaMQFH) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [If You Ask Me What Love Is](https://open.spotify.com/album/79ZPROThlkTsw8QqWGYkPe) | 3:43 |
-| 47 | [Don\`t you know\(PROD.ROCOBERRY\)](https://open.spotify.com/track/5jviSlh6YAznFM8JtMBEqV) | [ZO ZAZZ](https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf) | [Don\`t you know](https://open.spotify.com/album/2z9U8RSPOJnFZcHbQbh9Gw) | 5:01 |
+| 46 | [Don\`t you know\(PROD.ROCOBERRY\)](https://open.spotify.com/track/5jviSlh6YAznFM8JtMBEqV) | [ZO ZAZZ](https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf) | [Don\`t you know](https://open.spotify.com/album/2z9U8RSPOJnFZcHbQbh9Gw) | 5:01 |
+| 47 | [If You Ask Me What Love Is](https://open.spotify.com/track/5zsMOF3yWT4U1Vw5eaMQFH) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [If You Ask Me What Love Is](https://open.spotify.com/album/79ZPROThlkTsw8QqWGYkPe) | 3:43 |
 | 48 | [Winner](https://open.spotify.com/track/0XrldzaasptUorNkvoOQWU) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [CONNECTION](https://open.spotify.com/album/4JcUtBRZFtwYbhr2CZChcH) | 3:03 |
 | 49 | [Rhapsody of Sadness](https://open.spotify.com/track/3HIDWyZGwSe5MhrSP890nc) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Rhapsody of Sadness](https://open.spotify.com/album/2tu5FWMandguGnkiPxVOvV) | 3:55 |
 | 50 | [DrunKen Confession](https://open.spotify.com/track/0hqngwyh8WnPuYlLYHRQqp) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [DrunKen Confession](https://open.spotify.com/album/0IwBuSyXreDfgarE0TaAix) | 3:47 |
@@ -74,12 +74,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 64 | [It's You](https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [Destined with You \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz) | 3:23 |
 | 65 | [Officially Cool](https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Officially Cool](https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9) | 2:57 |
 | 66 | [Hongdae R&B](https://open.spotify.com/track/5TIwTvdD7OpJBt0tqIWLH3) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Hongdae R&B](https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb) | 3:02 |
-| 67 | [Falling Slowly](https://open.spotify.com/track/7efGmCE7FPDKmwyWnbcU0p) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [Falling Slowly](https://open.spotify.com/album/4lG2OGvs8iKdosM1ehaZ4s) | 3:57 |
-| 68 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 |
+| 67 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 |
+| 68 | [Falling Slowly](https://open.spotify.com/track/7efGmCE7FPDKmwyWnbcU0p) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [Falling Slowly](https://open.spotify.com/album/4lG2OGvs8iKdosM1ehaZ4s) | 3:57 |
 | 69 | [Hopeless Romantic \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Hopeless Romantic](https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS) | 3:55 |
 | 70 | [시작의 아이 ハジマリのコ \(Starting With You\)](https://open.spotify.com/track/2GMKQPMXdOGXsQkDYBN6wF) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [시작의 아이 ハジマリのコ \(Starting With You\)](https://open.spotify.com/album/7zt4FeVEYc2QuMPI11WIoO) | 4:16 |
-| 71 | [No Sad Song For My Broken Heart](https://open.spotify.com/track/68jFZoDvQrM4QUwZuC6oLa) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [All The Way](https://open.spotify.com/album/1s3QsCUiHLP0kbKUulGUMc) | 3:09 |
-| 72 | [When Spring Comes](https://open.spotify.com/track/6vt4R4q5YL4M2cxl7o6pTe) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [When Spring Comes](https://open.spotify.com/album/38vHJ0XSQiQYLyZjjb09Me) | 3:58 |
+| 71 | [When Spring Comes](https://open.spotify.com/track/6vt4R4q5YL4M2cxl7o6pTe) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [When Spring Comes](https://open.spotify.com/album/38vHJ0XSQiQYLyZjjb09Me) | 3:58 |
+| 72 | [No Sad Song For My Broken Heart](https://open.spotify.com/track/68jFZoDvQrM4QUwZuC6oLa) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [All The Way](https://open.spotify.com/album/1s3QsCUiHLP0kbKUulGUMc) | 3:09 |
 | 73 | [Dreaming](https://open.spotify.com/track/0KAe8Hh67OXolVlcsZDCIy) | [ANYUJIN](https://open.spotify.com/artist/3schR1HLbYu3RqqPDiDFrE) | [Dreaming : WEBTOON 'The Great X ANYUJIN \(IVE\)](https://open.spotify.com/album/58QAs8YSamH7yhU1VrHn3L) | 3:23 |
 | 74 | [Let's Say Goodbye](https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Alone](https://open.spotify.com/album/3dmYqpVPhfNzIGLd3p57Y4) | 4:03 |
 | 75 | [Journey](https://open.spotify.com/track/0bJK7JJxK8jph9Nazai0Dr) | [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Journey](https://open.spotify.com/album/2EQ9kO7mz10ZOvopsViCp8) | 3:30 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 77 | [17](https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [17](https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM) | 2:50 |
 | 78 | [Attention \(Feat\. DAWN, BLASÉ\)](https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Love Sick](https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek) | 2:58 |
 | 79 | [I Miss You So Much](https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [I Miss You So Much](https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM) | 3:36 |
-| 80 | [Promise](https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Promise](https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6) | 2:55 |
+| 80 | [Let's Stay Well \(My love X Roy Kim\)](https://open.spotify.com/track/3BlFzuu8yqE4bMrHKTViee) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Let's Stay Well \(My love X Roy Kim\)](https://open.spotify.com/album/434PxpoRd7LBO2VdPuefao) | 4:18 |
 
 Snapshot ID: `Z9FQbgAAAABf4j1Pr0NqBIMg0P98ZHWa`

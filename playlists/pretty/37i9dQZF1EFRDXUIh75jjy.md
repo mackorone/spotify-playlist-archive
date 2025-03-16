@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 625 likes - 213 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 626 likes - 213 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,8 +144,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 134 | [Here I Come](https://open.spotify.com/track/0fjGRLRER2rCKZfiuUBDwr) | [Dara Reneé](https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack/Season 3\)](https://open.spotify.com/album/71FLsJroKR8vr5BbWRZHGc) | 3:17 |
 | 135 | [One On The Way](https://open.spotify.com/track/4CYFGGc4EVyfktgY6Oli2B) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Lavender](https://open.spotify.com/album/11v89Gklx5GvGK6zfhj5jA) | 3:44 |
 | 136 | [I Still Pray](https://open.spotify.com/track/3uJjybFZWmfaYQG4PEiiCR) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [I Still Pray](https://open.spotify.com/album/5KfMhRi1Rvr9Eu3EQ9x16p) | 2:44 |
-| 137 | [Heaven](https://open.spotify.com/track/0MskASIXSqjZQ1vGk2cmvO) | [Sj](https://open.spotify.com/artist/3kBTda7vNOOAA2Tu5uD13Y), [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Heaven](https://open.spotify.com/album/65a42yxBwwMqziOQg9YOkA) | 2:30 |
-| 138 | [Lonely \(Planet Earth\)](https://open.spotify.com/track/76XsgurVtL8tGAjMjXdOza) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Lonely \(Planet Earth\)](https://open.spotify.com/album/3zIogyJOASeiqBwLSnIF0k) | 2:07 |
+| 137 | [Lonely \(Planet Earth\)](https://open.spotify.com/track/76XsgurVtL8tGAjMjXdOza) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Lonely \(Planet Earth\)](https://open.spotify.com/album/3zIogyJOASeiqBwLSnIF0k) | 2:07 |
+| 138 | [Heaven](https://open.spotify.com/track/0MskASIXSqjZQ1vGk2cmvO) | [Sj](https://open.spotify.com/artist/3kBTda7vNOOAA2Tu5uD13Y), [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Heaven](https://open.spotify.com/album/65a42yxBwwMqziOQg9YOkA) | 2:30 |
 | 139 | [Ego](https://open.spotify.com/track/4buILkAUAqLxfl8ep4iVrI) | [Rich Edwards](https://open.spotify.com/artist/79v9Al6rSVH9SFk0QzzOl1), [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Ego](https://open.spotify.com/album/71p1O9atppY1mj3GtTBJYN) | 3:13 |
 | 140 | [Say Love](https://open.spotify.com/track/03b6jFOFmLJ3TnuCgfhO1L) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Sj](https://open.spotify.com/artist/3kBTda7vNOOAA2Tu5uD13Y) | [Say Love](https://open.spotify.com/album/1IVeAtBK1ylGiK9Vn6qOzT) | 2:40 |
 | 141 | [Circles](https://open.spotify.com/track/40EouT4GbFzSTyxs447pBv) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Girl Problems](https://open.spotify.com/album/6toYxO6NCaUTUI0g5w2CEq) | 3:41 |
@@ -222,4 +222,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 212 | [Tidal Wave](https://open.spotify.com/track/4ZNjc5TKVprUo1e9NzeCqQ) | [Paulina Jayne](https://open.spotify.com/artist/2VQ1JuL4CakwuJVSgaNBDg) | [Paulina Jayne](https://open.spotify.com/album/4OxqxKz3fmSAcAr1clBfxV) | 3:08 |
 | 213 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
 
-Snapshot ID: `AbsD9AAAAAAn3Kuj2p5f0zYtvJ5KEavF`
+Snapshot ID: `AbsJigAAAAC6qY8svnxTtouKZamEQj/g`

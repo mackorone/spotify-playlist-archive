@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > A curated space for the avant\-garde\. Cover: feeble little horse
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,864 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,937 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 59 | [Drunk Talk](https://open.spotify.com/track/4tvtPbLFQLcK4QdMcDrvpV) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [Drunk Talk](https://open.spotify.com/album/1CAV9augIvtY9KBw3rmbVX) | 2:31 |
 | 60 | [Stones Throw](https://open.spotify.com/track/1RsbQnbk4ZFYDhfgp3IAYY) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Stones Throw](https://open.spotify.com/album/7fa2eM6t127lSiQwSbJXID) | 3:33 |
 | 61 | [Damn](https://open.spotify.com/track/7mGWyCWNG6YawxdstjupbQ) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/79SqMfih2FN1NaLtZUcccG) | 2:25 |
-| 62 | [Penthouse Samba](https://open.spotify.com/track/1q092hlxUk29fY9pAdxGrc) | [Marina Zispin](https://open.spotify.com/artist/4eDyyrcE0ztmLfCdwCiC2o), [Bianca Scout](https://open.spotify.com/artist/0SViH83GsqJ0GCwnmTTlep), [Martyn Reid](https://open.spotify.com/artist/0pQV9VPOMGKfr3Fkkyq07t) | [Penthouse Samba](https://open.spotify.com/album/6VI9Q6J522f93tYS8dwEdt) | 4:10 |
+| 62 | [Penthouse Samba](https://open.spotify.com/track/1q092hlxUk29fY9pAdxGrc) | [Marina Zispin](https://open.spotify.com/artist/4eDyyrcE0ztmLfCdwCiC2o) | [Penthouse Samba](https://open.spotify.com/album/6VI9Q6J522f93tYS8dwEdt) | 4:10 |
 | 63 | [OBSESSED](https://open.spotify.com/track/0ipHYEQf07qoReAWhVC3zO) | [Miguel Angeles](https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ) | [OBSESSED](https://open.spotify.com/album/0FDsgOzFI6dYxZkHN83p23) | 2:40 |
 | 64 | [untitled](https://open.spotify.com/track/65cZbTtLNKCiHz1LgCe44a) | [Blaxian](https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4) | [untitled](https://open.spotify.com/album/5fZozb3fnQVbCr3npr4TUV) | 2:27 |
 | 65 | [Hopeless Dreams](https://open.spotify.com/track/5FnRhAsZ49bWT959RnXtmJ) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Hopeless Dreams](https://open.spotify.com/album/4NxlfS6ZSFv4BPRGPCdF5s) | 2:53 |

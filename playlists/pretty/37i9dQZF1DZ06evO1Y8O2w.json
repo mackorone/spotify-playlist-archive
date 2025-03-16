@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAC7qFQ6rW54xfRyJ9NSPPiA",
+  "snapshot_id": "Z9NxgAAAAAC0rIZ5UaaOThSI+Y8Hcd/J",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Refuse To Be Lonely",
-        "url": "https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc"
+        "name": "Somewhere In My Lifetime (Expanded)",
+        "url": "https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 238920,
-      "name": "I Refuse to Be Lonely",
-      "url": "https://open.spotify.com/track/7ExBN9mMlaGDymm6SIZDPz"
+      "duration_ms": 256786,
+      "name": "Be Careful (How You Treat My Love)",
+      "url": "https://open.spotify.com/track/5HZBeOoFFy9yO5mzq6fgeK"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somewhere In My Lifetime (Expanded)",
-        "url": "https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw"
+        "name": "I Refuse To Be Lonely",
+        "url": "https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc"
       },
       "artists": [
         {
@@ -388,9 +388,45 @@
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 256786,
-      "name": "Be Careful (How You Treat My Love)",
-      "url": "https://open.spotify.com/track/5HZBeOoFFy9yO5mzq6fgeK"
+      "duration_ms": 238920,
+      "name": "I Refuse to Be Lonely",
+      "url": "https://open.spotify.com/track/7ExBN9mMlaGDymm6SIZDPz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Legacy Of Phyllis Hyman",
+        "url": "https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        },
+        {
+          "name": "Michael Henderson",
+          "url": "https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K"
+        }
+      ],
+      "duration_ms": 317293,
+      "name": "Can't We Fall in Love Again",
+      "url": "https://open.spotify.com/track/0c61XIxgnxVYAk3vum9TM3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prime Of My Life",
+        "url": "https://open.spotify.com/album/3Zt8flubel6shc4b9kmt2f"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 266040,
+      "name": "I Found Love",
+      "url": "https://open.spotify.com/track/5K3PneofTHEwyxmk3WBKW9"
     },
     {
       "added_at": null,
@@ -415,42 +451,6 @@
       "duration_ms": 358093,
       "name": "Everything I Have Is Good (feat. Norman Connors & Phyllis Hyman)",
       "url": "https://open.spotify.com/track/44Ju7KqdFitKeI5v66O250"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Prime Of My Life",
-        "url": "https://open.spotify.com/album/3Zt8flubel6shc4b9kmt2f"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 266040,
-      "name": "I Found Love",
-      "url": "https://open.spotify.com/track/5K3PneofTHEwyxmk3WBKW9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Legacy Of Phyllis Hyman",
-        "url": "https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        },
-        {
-          "name": "Michael Henderson",
-          "url": "https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K"
-        }
-      ],
-      "duration_ms": 317293,
-      "name": "Can't We Fall in Love Again",
-      "url": "https://open.spotify.com/track/0c61XIxgnxVYAk3vum9TM3"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Living All Alone",
+        "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 273333,
+      "name": "Slow Dancin'",
+      "url": "https://open.spotify.com/track/6LEF5au3B4MgVoeQTDE3tZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slingshot",
         "url": "https://open.spotify.com/album/4ZTtXdTxQFaHLJrJPxUt3x"
       },
@@ -691,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somewhere In My Lifetime (Expanded)",
-        "url": "https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 184253,
-      "name": "Here's That Rainy Day",
-      "url": "https://open.spotify.com/track/7u1TGBkS8n8r88oNiA84fO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forever with You",
         "url": "https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR"
       },
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living All Alone",
-        "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
+        "name": "Somewhere In My Lifetime (Expanded)",
+        "url": "https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 273333,
-      "name": "Slow Dancin'",
-      "url": "https://open.spotify.com/track/6LEF5au3B4MgVoeQTDE3tZ"
+      "duration_ms": 184253,
+      "name": "Here's That Rainy Day",
+      "url": "https://open.spotify.com/track/7u1TGBkS8n8r88oNiA84fO"
     },
     {
       "added_at": null,

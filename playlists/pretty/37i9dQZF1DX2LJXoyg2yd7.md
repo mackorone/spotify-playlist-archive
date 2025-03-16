@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 
 > The sweet sounds of Yemen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,633 likes - 40 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,649 likes - 40 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Qalt Habiby](https://open.spotify.com/track/6tz18XXepNwclwplcUpGO9) | [Aiman Qusailah](https://open.spotify.com/artist/5rhRBRSACiwECuHLhk5b8D) | [Qalt Habiby](https://open.spotify.com/album/1DNvSjT7MA0CB9o0EwE1sG) | 4:05 |
-| 2 | [يا سمار](https://open.spotify.com/track/4mhpimRVGZjXMpuaHYBiMO) | [Aseel Abu Baker](https://open.spotify.com/artist/3IaW9Q8ws0dqIRKaoBDUdf) | [جلسات وناسه 2017 الجزء 1](https://open.spotify.com/album/4vIvxdCMizMjxlJIXXj2Wk) | 6:39 |
+| 1 | [يا سمار](https://open.spotify.com/track/4mhpimRVGZjXMpuaHYBiMO) | [Aseel Abu Baker](https://open.spotify.com/artist/3IaW9Q8ws0dqIRKaoBDUdf) | [جلسات وناسه 2017 الجزء 1](https://open.spotify.com/album/4vIvxdCMizMjxlJIXXj2Wk) | 6:39 |
+| 2 | [Qalt Habiby](https://open.spotify.com/track/6tz18XXepNwclwplcUpGO9) | [Aiman Qusailah](https://open.spotify.com/artist/5rhRBRSACiwECuHLhk5b8D) | [Qalt Habiby](https://open.spotify.com/album/1DNvSjT7MA0CB9o0EwE1sG) | 4:05 |
 | 3 | [Sawfa Ahlam](https://open.spotify.com/track/6ajFglvGicQnC7xw09bdb2) | [Emy Hetari](https://open.spotify.com/artist/0KwPocJ1I0Lzrfs4uCQ3D0) | [Sawfa Ahlam](https://open.spotify.com/album/28TnLPv0nvekrLjGtKEdvq) | 3:45 |
 | 4 | [Ya Saher Aleainain](https://open.spotify.com/track/569GHmdXGxgsAgvqZFx4jF) | [Abu Baker Salim](https://open.spotify.com/artist/4vbzGXyNwi5mMWvPqHDHib) | [Sirr Hobbi](https://open.spotify.com/album/3VntSLELrNgNlPiJbTnB0W) | 6:46 |
 | 5 | [فائق الغزلان](https://open.spotify.com/track/48OuCA67DLWGPuPAIy7cZm) | [Hussain Moheb](https://open.spotify.com/artist/2LUDyDgFsYu4AlnUkBVRMk) | [حبيب ولا غريب](https://open.spotify.com/album/0aUs2ZwUVpT1xr8KIhwF3V) | 5:02 |

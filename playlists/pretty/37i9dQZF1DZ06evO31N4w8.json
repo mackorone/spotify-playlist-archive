@@ -1,12 +1,12 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 61946,
+  "num_followers": 61969,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAADmSLkTdZQ/9nkucGAACe/I",
+  "snapshot_id": "Z9NxgAAAAACDUAe2s7sirbVLOrOzY+Fl",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 189426,
-      "name": "Una Mujer Como T\u00fa",
-      "url": "https://open.spotify.com/track/62zSWES4N5m1tr7ovTMWf3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuesta Arriba",
         "url": "https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 208440,
       "name": "Al Ver Que Te Vas",
       "url": "https://open.spotify.com/track/0DRAf1NW1dBCMJOq5r0RKV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 189426,
+      "name": "Una Mujer Como T\u00fa",
+      "url": "https://open.spotify.com/track/62zSWES4N5m1tr7ovTMWf3"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 209333,
-      "name": "Tu y las Nubes",
-      "url": "https://open.spotify.com/track/2QlvSbUggsc1f6eyta9vnD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Exitos: La Maquina Musical Numero Uno",
         "url": "https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 202426,
       "name": "No Le Digas a Nadie",
       "url": "https://open.spotify.com/track/2ZWrmyPmx09XR0jPWkyrU3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Exitos Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "Tu y las Nubes",
+      "url": "https://open.spotify.com/track/2QlvSbUggsc1f6eyta9vnD"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Eso o M\u00e1s",
-        "url": "https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3"
+        "name": "15 Exitos: La Maquina Musical Numero Uno",
+        "url": "https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 214021,
-      "name": "Cara Bonita",
-      "url": "https://open.spotify.com/track/4WDP5rALWjwTrgQMau3PUE"
+      "duration_ms": 214973,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/1Pdf0Ra4DMrCeOQOYigle9"
     }
   ],
   "unique_name": "This Is Los Rieleros Del Norte",

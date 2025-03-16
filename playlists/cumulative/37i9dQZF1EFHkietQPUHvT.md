@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-75 songs - 3 hr 43 min
+76 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,8 +75,9 @@
 | [Reputation](https://open.spotify.com/track/2pvFQudKtJTEeiL6FIlqsy) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Reputation](https://open.spotify.com/album/19gLqW0o4f8Ua9l9ajQyxT) | 1:59 | 2024-02-26 |  |
 | [Short Ride](https://open.spotify.com/track/12BQS3wg7tkb6HySjhxDHX) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Short Ride](https://open.spotify.com/album/5GTjzOsKk8R250oKqgvmEg) | 2:49 | 2024-02-26 |  |
 | [Simple](https://open.spotify.com/track/1faJyWGSpckvsMnyr2QJFs) | [Fia Moon](https://open.spotify.com/artist/0UIbKpz6Owrre4L7XNjad4) | [Simple](https://open.spotify.com/album/4KDLdM2hHAGb57QMR8DJQr) | 3:07 | 2024-02-26 |  |
+| [Slow Motion](https://open.spotify.com/track/0BFlm17OcFErnis6lOAqGu) | [Emilia Tarrant](https://open.spotify.com/artist/1vf6uDbPOzuzMZAzunyGg0) | [Slow Motion](https://open.spotify.com/album/3C1eTUna7iyd8fYVonF2pR) | 3:01 | 2025-03-15 |  |
 | [Slow Motion](https://open.spotify.com/track/0hCXYFry9nmwIH2eoEXmWU) | [Emilia Tarrant](https://open.spotify.com/artist/1vf6uDbPOzuzMZAzunyGg0) | [Slow Motion](https://open.spotify.com/album/3BZ3lPJRN9DioJJrLttxQS) | 3:01 | 2024-02-26 | 2025-02-01 |
-| [Slow Motion](https://open.spotify.com/track/5oE6MdLzwQhd9lTA8dPACh) | [Emilia Tarrant](https://open.spotify.com/artist/1vf6uDbPOzuzMZAzunyGg0) | [Slow Motion \(Acoustic\)](https://open.spotify.com/album/4IAiQ34SM8YRQtsVkO4iKU) | 3:01 | 2025-01-31 |  |
+| [Slow Motion](https://open.spotify.com/track/5oE6MdLzwQhd9lTA8dPACh) | [Emilia Tarrant](https://open.spotify.com/artist/1vf6uDbPOzuzMZAzunyGg0) | [Slow Motion \(Acoustic\)](https://open.spotify.com/album/4IAiQ34SM8YRQtsVkO4iKU) | 3:01 | 2025-01-31 | 2025-03-16 |
 | [So What?](https://open.spotify.com/track/2GpUdjibaWYHpykqgKLfGW) | [Saibh Skelly](https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq) | [So What?](https://open.spotify.com/album/55Ur0PitFeUS67xqx8bajK) | 2:44 | 2025-01-23 |  |
 | [So What?](https://open.spotify.com/track/2Q5VYvBaOm66kYLpSMrBRo) | [Saibh Skelly](https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq) | [So What?](https://open.spotify.com/album/7usvzO394IoZs6wRmO0ysZ) | 2:44 | 2024-02-26 | 2025-01-24 |
 | [Straitjacket](https://open.spotify.com/track/5gu2zPGXuqs4otf3wNtXVb) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Straitjacket](https://open.spotify.com/album/1DZ20T7S0sdkbLgpPPiXlU) | 3:00 | 2024-02-26 |  |

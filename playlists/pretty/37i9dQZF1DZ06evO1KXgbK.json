@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 251536,
+  "num_followers": 251552,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAAC2SwKCyoS0jgnSqdtmI6A8",
+  "snapshot_id": "Z9NxgAAAAACYgmAfuz5923XG5XAxcxOK",
   "tracks": [
     {
       "added_at": null,
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever More (Love Songs, Hits & Duets)",
-        "url": "https://open.spotify.com/album/6ZYynOoi9YEBlSCUPE5Dlg"
-      },
-      "artists": [
-        {
-          "name": "James Ingram",
-          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "The Day I Fall In Love - Featuring Dolly Parton",
-      "url": "https://open.spotify.com/track/0bi3Yuwv936oMxD2VIK2Ci"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Porter Wagoner & Dolly Parton",
         "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 156160,
       "name": "The Last Thing On My Mind",
       "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever More (Love Songs, Hits & Duets)",
+        "url": "https://open.spotify.com/album/6ZYynOoi9YEBlSCUPE5Dlg"
+      },
+      "artists": [
+        {
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "The Day I Fall In Love - Featuring Dolly Parton",
+      "url": "https://open.spotify.com/track/0bi3Yuwv936oMxD2VIK2Ci"
     },
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eagle When She Flies",
-        "url": "https://open.spotify.com/album/2YWXeKsHZVctFXi45IiS4n"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Ricky Van Shelton",
-          "url": "https://open.spotify.com/artist/4uaaRGr9KMfYPDaUnBIngc"
-        }
-      ],
-      "duration_ms": 206306,
-      "name": "Rockin' Years (with Ricky Van Shelton)",
-      "url": "https://open.spotify.com/track/7rRvH22GRxGvsz1d2AnRXM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Honky Tonk Angels",
         "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 143333,
       "name": "Silver Threads and Golden Needles",
       "url": "https://open.spotify.com/track/0IQ0qn8a2TN9Tmo7p5KmUs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eagle When She Flies",
+        "url": "https://open.spotify.com/album/2YWXeKsHZVctFXi45IiS4n"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Ricky Van Shelton",
+          "url": "https://open.spotify.com/artist/4uaaRGr9KMfYPDaUnBIngc"
+        }
+      ],
+      "duration_ms": 206306,
+      "name": "Rockin' Years (with Ricky Van Shelton)",
+      "url": "https://open.spotify.com/track/7rRvH22GRxGvsz1d2AnRXM"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 156960,
+      "name": "Baby I'm Burnin'",
+      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bebe",
         "url": "https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 203427,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/3HCPcK7bCPAczLUfRmZEUn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "Baby I'm Burnin'",
-      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Essential Dolly Parton",
+        "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/7ob0221dnx0OOGVSzNZgXO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "To All The Girls...",
         "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 241880,
       "name": "From Here to the Moon and Back (feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/1SG91Ocs6KjP8DQlPmITgU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Dolly Parton",
-        "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/7ob0221dnx0OOGVSzNZgXO"
     },
     {
       "added_at": null,

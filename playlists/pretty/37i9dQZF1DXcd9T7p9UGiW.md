@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Xenia Manasseh
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,630 likes - 79 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,657 likes - 79 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

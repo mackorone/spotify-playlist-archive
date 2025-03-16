@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 
 > <a href="spotify:artist:12LgviUQ9DbfYJJ9niDWRq">Walter Trout</a> is taking over to share his blues favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,498 likes - 30 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,548 likes - 30 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

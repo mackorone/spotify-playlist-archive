@@ -1,6 +1,6 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 1042641,
+  "num_followers": 1042992,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,38 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
+        "name": "Hola (Remix)",
+        "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        }
+      ],
+      "duration_ms": 249520,
+      "name": "Hola - Remix",
+      "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
+    },
+    {
+      "added_at": "2025-03-14 06:00:10",
+      "album": {
         "name": "The Academy: Segunda Misi\u00f3n",
         "url": "https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu"
       },
@@ -963,38 +995,6 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
-        "name": "Hola (Remix)",
-        "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        },
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
-        }
-      ],
-      "duration_ms": 249520,
-      "name": "Hola - Remix",
-      "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
-    },
-    {
-      "added_at": "2025-03-14 06:00:10",
-      "album": {
         "name": "Holanda",
         "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
       },
@@ -1007,6 +1007,22 @@
       "duration_ms": 231693,
       "name": "Holanda",
       "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
+    },
+    {
+      "added_at": "2025-03-14 06:00:10",
+      "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2025-03-14 06:00:10",
@@ -1027,22 +1043,6 @@
       "duration_ms": 165275,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
-    },
-    {
-      "added_at": "2025-03-14 06:00:10",
-      "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2025-03-14 06:00:10",
@@ -1203,6 +1203,30 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
+        "name": "\u00d1ero Session 16",
+        "url": "https://open.spotify.com/album/0xi9kxStnEU6zWr9aC9eK1"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        }
+      ],
+      "duration_ms": 137406,
+      "name": "\u00d1ero Session 16",
+      "url": "https://open.spotify.com/track/2HBOtZ9ev6cNO9EnRO4JP3"
+    },
+    {
+      "added_at": "2025-03-14 06:00:10",
+      "album": {
         "name": "Espectacular",
         "url": "https://open.spotify.com/album/2HLdCDKtyV4VxHLYk5xvAS"
       },
@@ -1243,30 +1267,6 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
-        "name": "\u00d1ero Session 16",
-        "url": "https://open.spotify.com/album/0xi9kxStnEU6zWr9aC9eK1"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "LOOJAN",
-          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
-        }
-      ],
-      "duration_ms": 137406,
-      "name": "\u00d1ero Session 16",
-      "url": "https://open.spotify.com/track/2HBOtZ9ev6cNO9EnRO4JP3"
-    },
-    {
-      "added_at": "2025-03-14 06:00:10",
-      "album": {
         "name": "La Motora",
         "url": "https://open.spotify.com/album/3zH5JHBP0CD2gh8h1cV2U8"
       },
@@ -1291,22 +1291,22 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
-        "name": "Chosen Few: Grandes Exitos",
-        "url": "https://open.spotify.com/album/5CckZmLqh8aJ74pGLZPmaN"
+        "name": "Chaparrita",
+        "url": "https://open.spotify.com/album/2MkMRB6c583f0eINaVLXHL"
       },
       "artists": [
         {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
         },
         {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
         }
       ],
-      "duration_ms": 185640,
-      "name": "Freakytona",
-      "url": "https://open.spotify.com/track/5Ps2ZqATo5drFSEHtpp8lt"
+      "duration_ms": 158400,
+      "name": "Chaparrita",
+      "url": "https://open.spotify.com/track/7cxxLMhV6XyM3pOHXZig22"
     },
     {
       "added_at": "2025-03-14 06:00:10",
@@ -1323,6 +1323,26 @@
       "duration_ms": 171986,
       "name": "Normal",
       "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
+    },
+    {
+      "added_at": "2025-03-14 06:00:10",
+      "album": {
+        "name": "Chosen Few: Grandes Exitos",
+        "url": "https://open.spotify.com/album/5CckZmLqh8aJ74pGLZPmaN"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "Freakytona",
+      "url": "https://open.spotify.com/track/5Ps2ZqATo5drFSEHtpp8lt"
     },
     {
       "added_at": "2025-03-14 06:00:10",
@@ -1375,26 +1395,6 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
-        "name": "Chaparrita",
-        "url": "https://open.spotify.com/album/2MkMRB6c583f0eINaVLXHL"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        },
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Chaparrita",
-      "url": "https://open.spotify.com/track/7cxxLMhV6XyM3pOHXZig22"
-    },
-    {
-      "added_at": "2025-03-14 06:00:10",
-      "album": {
         "name": "Los Legendarios 001",
         "url": "https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf"
       },
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
-        "name": "Haw\u00e1i",
-        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 200197,
-      "name": "Haw\u00e1i",
-      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
-    },
-    {
-      "added_at": "2025-03-14 06:00:10",
-      "album": {
         "name": "BICHOTA",
         "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 178946,
       "name": "BICHOTA",
       "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
+    },
+    {
+      "added_at": "2025-03-14 06:00:10",
+      "album": {
+        "name": "Haw\u00e1i",
+        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 200197,
+      "name": "Haw\u00e1i",
+      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
     },
     {
       "added_at": "2025-03-14 06:00:10",
@@ -1847,6 +1847,34 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
+        "name": "DUCATI (feat. Hades66)",
+        "url": "https://open.spotify.com/album/3p85cVmq4LXmVyVwjV8Ymt"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 246290,
+      "name": "DUCATI (feat. Hades66)",
+      "url": "https://open.spotify.com/track/0wONQiSrMfVXJrhVqvC5lR"
+    },
+    {
+      "added_at": "2025-03-14 06:00:10",
+      "album": {
         "name": "Ella Quiere Hmm... Haa... Hmm...",
         "url": "https://open.spotify.com/album/7mPxdHON4WVzd11KSLJkt5"
       },
@@ -1871,26 +1899,6 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
-        "name": "Labios Mordidos (with KAROL G)",
-        "url": "https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Labios Mordidos (with KAROL G)",
-      "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
-    },
-    {
-      "added_at": "2025-03-14 06:00:10",
-      "album": {
         "name": "S\u00fabelo",
         "url": "https://open.spotify.com/album/2l929YaQMj0eFvPMMB4xyq"
       },
@@ -1911,6 +1919,26 @@
       "duration_ms": 239797,
       "name": "S\u00fabelo",
       "url": "https://open.spotify.com/track/3fHEwAssCgM4wJYdjT5Ch0"
+    },
+    {
+      "added_at": "2025-03-14 06:00:10",
+      "album": {
+        "name": "Labios Mordidos (with KAROL G)",
+        "url": "https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Labios Mordidos (with KAROL G)",
+      "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
     },
     {
       "added_at": "2025-03-14 06:00:10",
@@ -1955,54 +1983,6 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
-        "name": "DUCATI (feat. Hades66)",
-        "url": "https://open.spotify.com/album/3p85cVmq4LXmVyVwjV8Ymt"
-      },
-      "artists": [
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 246290,
-      "name": "DUCATI (feat. Hades66)",
-      "url": "https://open.spotify.com/track/0wONQiSrMfVXJrhVqvC5lR"
-    },
-    {
-      "added_at": "2025-03-14 06:00:10",
-      "album": {
-        "name": "SEXO ES LA MODA",
-        "url": "https://open.spotify.com/album/4bJWxZQFLrz2IW79KheuXD"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 165901,
-      "name": "SEXO ES LA MODA",
-      "url": "https://open.spotify.com/track/4U80gkwi6Qk0fBRcDuzn3E"
-    },
-    {
-      "added_at": "2025-03-14 06:00:10",
-      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
       },
@@ -2023,22 +2003,22 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+        "name": "SEXO ES LA MODA",
+        "url": "https://open.spotify.com/album/4bJWxZQFLrz2IW79KheuXD"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 188268,
-      "name": "No Hay Ley Parte 2 (with Rauw Alejandro)",
-      "url": "https://open.spotify.com/track/16pNGHrUDtUq5Qg4LnueIi"
+      "duration_ms": 165901,
+      "name": "SEXO ES LA MODA",
+      "url": "https://open.spotify.com/track/4U80gkwi6Qk0fBRcDuzn3E"
     },
     {
       "added_at": "2025-03-14 06:00:10",
@@ -2123,6 +2103,26 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 188268,
+      "name": "No Hay Ley Parte 2 (with Rauw Alejandro)",
+      "url": "https://open.spotify.com/track/16pNGHrUDtUq5Qg4LnueIi"
+    },
+    {
+      "added_at": "2025-03-14 06:00:10",
+      "album": {
         "name": "Le Clique: Vida Rockstar (X)",
         "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
       },
@@ -2167,26 +2167,22 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
-        "name": "Poblado",
-        "url": "https://open.spotify.com/album/7ijhdFeH6XcWG3DRC82uOR"
+        "name": "Me Fije",
+        "url": "https://open.spotify.com/album/14FrKuNUxsU8eEooOVW1DC"
       },
       "artists": [
         {
-          "name": "Crissin",
-          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
         },
         {
-          "name": "Totoy El Frio",
-          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
-        },
-        {
-          "name": "Natan & Shander",
-          "url": "https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 201596,
-      "name": "Poblado",
-      "url": "https://open.spotify.com/track/47gSYfwFBbV1BXHfXEq1qs"
+      "duration_ms": 202320,
+      "name": "Me Fije",
+      "url": "https://open.spotify.com/track/6Et5KimMg3IXwD6lJPGmQw"
     }
   ],
   "unique_name": "La Casa del Perreo",

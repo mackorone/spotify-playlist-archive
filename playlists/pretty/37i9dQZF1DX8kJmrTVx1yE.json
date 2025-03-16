@@ -1,6 +1,6 @@
 {
   "description": "Dale play, y que los temazos no paren.",
-  "num_followers": 134332,
+  "num_followers": 134342,
   "original_name": "Enganchados: Latinos",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
+        "name": "Todo De Ti",
+        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
+    },
+    {
+      "added_at": "2024-06-12 22:54:20",
+      "album": {
         "name": "Rompiendo Fronteras",
         "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 228146,
       "name": "S\u00e9 Que Te Duele",
       "url": "https://open.spotify.com/track/1OJkKHmXsZVKtWlECdpDAe"
-    },
-    {
-      "added_at": "2024-06-12 22:54:20",
-      "album": {
-        "name": "Todo De Ti",
-        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
     },
     {
       "added_at": "2024-06-12 22:54:20",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 165275,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
-    },
-    {
-      "added_at": "2024-06-12 22:54:20",
-      "album": {
         "name": "+ Es + (El Concierto / En Directo En El Estadio Vicente Calder\u00f3n / 2017)",
         "url": "https://open.spotify.com/album/6NmuOSiXv5WoA5lYjemVTt"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 250000,
       "name": "Y, \u00bfSi Fuera Ella? - + Es +",
       "url": "https://open.spotify.com/track/114xlNyBqwTIkOdrU8LajN"
+    },
+    {
+      "added_at": "2024-06-12 22:54:20",
+      "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 165275,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
     },
     {
       "added_at": "2024-06-12 22:54:20",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
-        "name": "Nek (spanish version)",
-        "url": "https://open.spotify.com/album/04HNYs9ilzC2h31dq7pVcP"
-      },
-      "artists": [
-        {
-          "name": "Nek",
-          "url": "https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ"
-        }
-      ],
-      "duration_ms": 225239,
-      "name": "Laura no est\u00e0",
-      "url": "https://open.spotify.com/track/10tzk7ZRjwnLKd3gjKLtTA"
-    },
-    {
-      "added_at": "2024-06-12 22:54:20",
-      "album": {
         "name": "Terral",
         "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 234373,
       "name": "Pasos de cero",
       "url": "https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ"
+    },
+    {
+      "added_at": "2024-06-12 22:54:20",
+      "album": {
+        "name": "Nek (spanish version)",
+        "url": "https://open.spotify.com/album/04HNYs9ilzC2h31dq7pVcP"
+      },
+      "artists": [
+        {
+          "name": "Nek",
+          "url": "https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ"
+        }
+      ],
+      "duration_ms": 225239,
+      "name": "Laura no est\u00e0",
+      "url": "https://open.spotify.com/track/10tzk7ZRjwnLKd3gjKLtTA"
     },
     {
       "added_at": "2024-06-12 22:54:20",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
+        "name": "La Historia De Magneto",
+        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
+      },
+      "artists": [
+        {
+          "name": "Magneto",
+          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
+        }
+      ],
+      "duration_ms": 265466,
+      "name": "Vuela, Vuela (Voyage, Voyage)",
+      "url": "https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp"
+    },
+    {
+      "added_at": "2024-06-12 22:54:20",
+      "album": {
         "name": "La Bella y la Bestia",
         "url": "https://open.spotify.com/album/71i8oV332P87FwYsKeoAsR"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 186359,
       "name": "La Bella y la Bestia",
       "url": "https://open.spotify.com/track/0G0p7mc4wEaQTsUpzEmkEs"
-    },
-    {
-      "added_at": "2024-06-12 22:54:20",
-      "album": {
-        "name": "La Historia De Magneto",
-        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
-      },
-      "artists": [
-        {
-          "name": "Magneto",
-          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
-        }
-      ],
-      "duration_ms": 265466,
-      "name": "Vuela, Vuela (Voyage, Voyage)",
-      "url": "https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp"
     },
     {
       "added_at": "2024-06-12 22:54:20",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
-        "name": "Otra Vida",
-        "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
-      },
-      "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        }
-      ],
-      "duration_ms": 190480,
-      "name": "Mi Persona Favorita",
-      "url": "https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe"
-    },
-    {
-      "added_at": "2024-06-12 22:54:20",
-      "album": {
         "name": "La Calle De Las Sirenas",
         "url": "https://open.spotify.com/album/3Qe5Ldqub3nZPjq26sS1fS"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 236160,
       "name": "La Calle De Las Sirenas",
       "url": "https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65"
+    },
+    {
+      "added_at": "2024-06-12 22:54:20",
+      "album": {
+        "name": "Otra Vida",
+        "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Mi Persona Favorita",
+      "url": "https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe"
     },
     {
       "added_at": "2024-06-12 22:54:20",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
-        "name": "CAIRO",
-        "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "CAIRO",
-      "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
-    },
-    {
-      "added_at": "2024-06-12 22:54:20",
-      "album": {
         "name": "Eres la Persona Correcta en el Momento Equivocado (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 206253,
       "name": "Caminar de Tu Mano (feat. Fonseca)",
       "url": "https://open.spotify.com/track/0IWBTieCc6wQZ0C4kCHP9q"
+    },
+    {
+      "added_at": "2024-06-12 22:54:20",
+      "album": {
+        "name": "CAIRO",
+        "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 201280,
+      "name": "CAIRO",
+      "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
     },
     {
       "added_at": "2024-06-12 22:54:20",

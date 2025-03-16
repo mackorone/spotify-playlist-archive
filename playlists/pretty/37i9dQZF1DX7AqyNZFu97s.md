@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Leah Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,239 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,241 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 8 | [the oxygen you left](https://open.spotify.com/track/2WXVter56LKAZSy3FFVJHh) | [Jordan Lee](https://open.spotify.com/artist/43Ew9lncWtcNtaXkvh4YOE) | [the oxygen you left](https://open.spotify.com/album/22uLKHTluzezSZjiPvqkpL) | 3:27 |
 | 9 | [Sweet Nothings](https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Sweet Nothings](https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh) | 2:53 |
 | 10 | [His Great Adventure](https://open.spotify.com/track/5AwcrwanzOiMyPd9PTaAPV) | [Emma Rawicz](https://open.spotify.com/artist/1lnfMuTAKnEVC5dLB4N0wl), [Gwilym Simcock](https://open.spotify.com/artist/6oXieOD3dHfCCmmy96W2eR) | [His Great Adventure](https://open.spotify.com/album/5YlMGGC1iOl5N0rq086wEP) | 7:30 |
-| 11 | [My Shayla](https://open.spotify.com/track/3ZzlF9ilIr2lPTz83sVJjl) | [Wohdee](https://open.spotify.com/artist/3lEOvjSLQnYiE2fUqUKvzE), [Pacman Tv](https://open.spotify.com/artist/064QCIJx5aYVOMzi7BvJLw) | [The Hatch](https://open.spotify.com/album/32XutNv8SUPshYxE4WX04I) | 2:40 |
+| 11 | [My Shayla](https://open.spotify.com/track/3ZzlF9ilIr2lPTz83sVJjl) | [Wohdee](https://open.spotify.com/artist/3lEOvjSLQnYiE2fUqUKvzE) | [My Shayla](https://open.spotify.com/album/32XutNv8SUPshYxE4WX04I) | 2:40 |
 | 12 | [Can't Fight The Feeling](https://open.spotify.com/track/5hP0MdXPdvJBNNVFnXbuNA) | [Sunkissed Child](https://open.spotify.com/artist/61hgmGkN3BNk2umSvUZBBw) | [Can't Fight The Feeling](https://open.spotify.com/album/2h6TE5BtYkz6aqSLZcR8Ux) | 3:27 |
 | 13 | [DeepWun](https://open.spotify.com/track/2LT4aVn5s6FhnR5rQdCyrh) | [FriendFromHome](https://open.spotify.com/artist/7xqoiDRU4lcQB4kPRhKgQI) | [DeepWun](https://open.spotify.com/album/5rfzrONXjw07HCwOlfb0zD) | 1:19 |
 | 14 | [Red Sea](https://open.spotify.com/track/1GPHLX444M4TPoeH2PkN5L) | [Lv](https://open.spotify.com/artist/0ZdEpgTWH5UAPeItBOSL5Y) | [Red Sea](https://open.spotify.com/album/20tFCHvKqXmcCwJcoBpWBA) | 2:12 |

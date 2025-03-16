@@ -1,4 +1,4 @@
-## Playlists \(8441\)
+## Playlists \(8442\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -6592,6 +6592,7 @@
 - [This Is Phoenix](/playlists/pretty/37i9dQZF1DZ06evO0RenIs.md)
 - [This Is Phyllis Hyman](/playlists/pretty/37i9dQZF1DZ06evO1Y8O2w.md)
 - [This Is Pink Floyd](/playlists/pretty/37i9dQZF1DZ06evO07zaak.md)
+- [This Is Playboi Carti](/playlists/pretty/37i9dQZF1DZ06evO3CRVnO.md)
 - [This Is Pop Smoke](/playlists/pretty/37i9dQZF1DZ06evO04kFZs.md)
 - [This Is Portugal\. The Man](/playlists/pretty/37i9dQZF1DWUbOQi4OiTx4.md)
 - [This Is Post Malone](/playlists/pretty/37i9dQZF1DZ06evO1aBeik.md)

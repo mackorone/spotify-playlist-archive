@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 
 > This is Los Tigres Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 738,405 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 738,630 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 | 49 | [Ya Te Vele](https://open.spotify.com/track/2c3uxj9M47y0x5iUtuAElQ) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Para Adoloridos](https://open.spotify.com/album/7oGNZ4nJZdboH4Q1Orbx6A) | 2:57 |
 | 50 | [La Sorpresa](https://open.spotify.com/track/62zUcRutyHb0msaCz5p9Ao) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Directo Al Corazon](https://open.spotify.com/album/5U0b7CBxQ6n6KDKseRGmGN) | 3:36 |
 
-Snapshot ID: `Z9IgAAAAAADC4nJdmk42NxFFQ83tQ7uR`
+Snapshot ID: `Z9NxgAAAAABAHfMdH3DqxCmAdhFO0bLJ`

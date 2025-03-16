@@ -1,6 +1,6 @@
 {
   "description": "2019\u5e74\u306b\u5e55\u3092\u958b\u3051\u305f\u4ee4\u548c\u3002\u30b9\u30c8\u30ea\u30fc\u30df\u30f3\u30b0\u3084\u52d5\u753b\u30b5\u30a4\u30c8\u3067\u306e\u30d0\u30a4\u30e9\u30eb\u304c\u5f71\u97ff\u529b\u3092\u5897\u3057\u3001\u793e\u4f1a\u60c5\u52e2\u3084\u4fa1\u5024\u89b3\u304c\u6fc0\u52d5\u3057\u3066\u3044\u308b\"\u30cb\u30e5\u30fc\u30ce\u30fc\u30de\u30eb\"\u306a\u6642\u4ee3\u306e\u30dd\u30c3\u30d7\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3002",
-  "num_followers": 327469,
+  "num_followers": 327558,
   "original_name": "\u4ee4\u548c\u30dd\u30c3\u30d7\u30b9",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-03-08 03:10:32",
       "album": {
-        "name": "replica",
-        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 229328,
-      "name": "\u8e0a\u308a\u5b50",
-      "url": "https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7"
-    },
-    {
-      "added_at": "2025-03-08 03:10:32",
-      "album": {
         "name": "\u6674\u308b",
         "url": "https://open.spotify.com/album/4O53dhmIctih3p2suAAgga"
       },
@@ -399,18 +383,34 @@
     {
       "added_at": "2025-03-08 03:10:32",
       "album": {
-        "name": "Sailing",
-        "url": "https://open.spotify.com/album/6EFHqgUZQ2vAgXwcXJqHsh"
+        "name": "replica",
+        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
       },
       "artists": [
         {
-          "name": "BE:FIRST",
-          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
         }
       ],
-      "duration_ms": 186586,
-      "name": "Sailing",
-      "url": "https://open.spotify.com/track/3Bfv3Wg4HAhNFdVgWSfT0z"
+      "duration_ms": 229328,
+      "name": "\u8e0a\u308a\u5b50",
+      "url": "https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7"
+    },
+    {
+      "added_at": "2025-03-08 03:10:32",
+      "album": {
+        "name": "MAGIC",
+        "url": "https://open.spotify.com/album/4dERKKPWhbvX7zxFTzNzNn"
+      },
+      "artists": [
+        {
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "HAPPY BIRTHDAY",
+      "url": "https://open.spotify.com/track/4FMz2RFrbDGzJO7K4D0vS3"
     },
     {
       "added_at": "2025-03-08 03:10:32",
@@ -447,18 +447,18 @@
     {
       "added_at": "2025-03-08 03:10:32",
       "album": {
-        "name": "MAGIC",
-        "url": "https://open.spotify.com/album/4dERKKPWhbvX7zxFTzNzNn"
+        "name": "Sailing",
+        "url": "https://open.spotify.com/album/6EFHqgUZQ2vAgXwcXJqHsh"
       },
       "artists": [
         {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
         }
       ],
-      "duration_ms": 258333,
-      "name": "HAPPY BIRTHDAY",
-      "url": "https://open.spotify.com/track/4FMz2RFrbDGzJO7K4D0vS3"
+      "duration_ms": 186586,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/3Bfv3Wg4HAhNFdVgWSfT0z"
     },
     {
       "added_at": "2025-03-08 03:10:32",
@@ -543,18 +543,18 @@
     {
       "added_at": "2025-03-08 03:10:32",
       "album": {
-        "name": "\u65b0\u3057\u3044\u604b\u4eba\u9054\u306b",
-        "url": "https://open.spotify.com/album/28gvMa5Tg0Idym44dEiRC0"
+        "name": "WOKE UP",
+        "url": "https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw"
       },
       "artists": [
         {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         }
       ],
-      "duration_ms": 286546,
-      "name": "\u65b0\u3057\u3044\u604b\u4eba\u9054\u306b",
-      "url": "https://open.spotify.com/track/5LclntckGFFGFUVGJk9Z4x"
+      "duration_ms": 188010,
+      "name": "WOKE UP",
+      "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
     },
     {
       "added_at": "2025-03-08 03:10:32",
@@ -611,18 +611,18 @@
     {
       "added_at": "2025-03-08 03:10:32",
       "album": {
-        "name": "WOKE UP",
-        "url": "https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw"
+        "name": "\u65b0\u3057\u3044\u604b\u4eba\u9054\u306b",
+        "url": "https://open.spotify.com/album/28gvMa5Tg0Idym44dEiRC0"
       },
       "artists": [
         {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
         }
       ],
-      "duration_ms": 188010,
-      "name": "WOKE UP",
-      "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
+      "duration_ms": 286546,
+      "name": "\u65b0\u3057\u3044\u604b\u4eba\u9054\u306b",
+      "url": "https://open.spotify.com/track/5LclntckGFFGFUVGJk9Z4x"
     },
     {
       "added_at": "2025-03-08 03:10:32",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-03-08 03:10:32",
       "album": {
+        "name": "ELEVEN",
+        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "ELEVEN",
+      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
+    },
+    {
+      "added_at": "2025-03-08 03:10:32",
+      "album": {
         "name": "\u6e80\u3061\u3066\u3086\u304f",
         "url": "https://open.spotify.com/album/6eRVinhid9kY4g0A9nUh5W"
       },
@@ -823,18 +839,18 @@
     {
       "added_at": "2025-03-08 03:10:32",
       "album": {
-        "name": "ELEVEN",
-        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
+        "name": "Rock this Party",
+        "url": "https://open.spotify.com/album/7ImXa5wWsZP3WuFBqcYxGf"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "timelesz",
+          "url": "https://open.spotify.com/artist/1ZFfhzyXjPvbzSYPlCIwo3"
         }
       ],
-      "duration_ms": 178453,
-      "name": "ELEVEN",
-      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
+      "duration_ms": 225900,
+      "name": "Rock this Party",
+      "url": "https://open.spotify.com/track/3ca5Q1gTQI3Alaiutw2DDo"
     },
     {
       "added_at": "2025-03-08 03:10:32",
@@ -875,22 +891,6 @@
       "duration_ms": 219200,
       "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
       "url": "https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT"
-    },
-    {
-      "added_at": "2025-03-08 03:10:32",
-      "album": {
-        "name": "Rock this Party",
-        "url": "https://open.spotify.com/album/7ImXa5wWsZP3WuFBqcYxGf"
-      },
-      "artists": [
-        {
-          "name": "timelesz",
-          "url": "https://open.spotify.com/artist/1ZFfhzyXjPvbzSYPlCIwo3"
-        }
-      ],
-      "duration_ms": 225900,
-      "name": "Rock this Party",
-      "url": "https://open.spotify.com/track/3ca5Q1gTQI3Alaiutw2DDo"
     },
     {
       "added_at": "2025-03-08 03:10:32",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-03-08 03:10:32",
       "album": {
-        "name": "\u306f\u3044\u3088\u308d\u3053\u3093\u3067",
-        "url": "https://open.spotify.com/album/4QU3XHH0tgaaIzCVf66i16"
-      },
-      "artists": [
-        {
-          "name": "Kocchi no Kento",
-          "url": "https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "\u306f\u3044\u3088\u308d\u3053\u3093\u3067",
-      "url": "https://open.spotify.com/track/41xGcFvQsGYQs0RDFvPfv3"
-    },
-    {
-      "added_at": "2025-03-08 03:10:32",
-      "album": {
         "name": "NIGHT DANCER",
         "url": "https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 210948,
       "name": "NIGHT DANCER",
       "url": "https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro"
+    },
+    {
+      "added_at": "2025-03-08 03:10:32",
+      "album": {
+        "name": "\u306f\u3044\u3088\u308d\u3053\u3093\u3067",
+        "url": "https://open.spotify.com/album/4QU3XHH0tgaaIzCVf66i16"
+      },
+      "artists": [
+        {
+          "name": "Kocchi no Kento",
+          "url": "https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "\u306f\u3044\u3088\u308d\u3053\u3093\u3067",
+      "url": "https://open.spotify.com/track/41xGcFvQsGYQs0RDFvPfv3"
     },
     {
       "added_at": "2025-03-08 03:10:32",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-03-08 03:10:32",
       "album": {
-        "name": "NG",
-        "url": "https://open.spotify.com/album/4eNwx9fVPUqrsKys2F5kqw"
-      },
-      "artists": [
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        }
-      ],
-      "duration_ms": 171615,
-      "name": "NG",
-      "url": "https://open.spotify.com/track/12jwNYJiHCSnXwbCmOm8Up"
-    },
-    {
-      "added_at": "2025-03-08 03:10:32",
-      "album": {
         "name": "\u4e00\u9014",
         "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
       },
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2025-03-08 03:10:32",
       "album": {
+        "name": "NG",
+        "url": "https://open.spotify.com/album/4eNwx9fVPUqrsKys2F5kqw"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "duration_ms": 171615,
+      "name": "NG",
+      "url": "https://open.spotify.com/track/12jwNYJiHCSnXwbCmOm8Up"
+    },
+    {
+      "added_at": "2025-03-08 03:10:32",
+      "album": {
         "name": "\u51ac\u3068\u6625",
         "url": "https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN"
       },
@@ -1375,22 +1375,6 @@
       "duration_ms": 256786,
       "name": "\u51ac\u3068\u6625",
       "url": "https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC"
-    },
-    {
-      "added_at": "2025-03-08 03:10:32",
-      "album": {
-        "name": "No.O -ring-",
-        "url": "https://open.spotify.com/album/2f2HoX9FvofLR1ruxImLiK"
-      },
-      "artists": [
-        {
-          "name": "Number_i",
-          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
-        }
-      ],
-      "duration_ms": 203029,
-      "name": "BON",
-      "url": "https://open.spotify.com/track/3FzRKDirkUsApk11WEz1wz"
     },
     {
       "added_at": "2025-03-08 03:10:32",
@@ -1427,26 +1411,6 @@
     {
       "added_at": "2025-03-08 03:10:32",
       "album": {
-        "name": "Falling (feat. Taka)",
-        "url": "https://open.spotify.com/album/4W7cA18z4TfyRKgnrAD0Sm"
-      },
-      "artists": [
-        {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        },
-        {
-          "name": "Taka",
-          "url": "https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B"
-        }
-      ],
-      "duration_ms": 178832,
-      "name": "Falling (feat. Taka)",
-      "url": "https://open.spotify.com/track/7HaUkQ34NYlOXFFspHeoG6"
-    },
-    {
-      "added_at": "2025-03-08 03:10:32",
-      "album": {
         "name": "SKYWALK",
         "url": "https://open.spotify.com/album/34T4K8s8PzTNOZ1vuBILYr"
       },
@@ -1459,22 +1423,6 @@
       "duration_ms": 223186,
       "name": "Walking with you",
       "url": "https://open.spotify.com/track/7tGDXCPLpAScEwmqab9YZd"
-    },
-    {
-      "added_at": "2025-03-08 03:10:32",
-      "album": {
-        "name": "Spacecraft / Sailing",
-        "url": "https://open.spotify.com/album/7t2KBW7fFGH4OzsmGBosKY"
-      },
-      "artists": [
-        {
-          "name": "BE:FIRST",
-          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
-        }
-      ],
-      "duration_ms": 299213,
-      "name": "\u8ab0\u3088\u308a\u3082",
-      "url": "https://open.spotify.com/track/0Jor9YHb8VKmMpboe7ZdUF"
     },
     {
       "added_at": "2025-03-08 03:10:32",
@@ -1495,6 +1443,26 @@
     {
       "added_at": "2025-03-08 03:10:32",
       "album": {
+        "name": "Falling (feat. Taka)",
+        "url": "https://open.spotify.com/album/4W7cA18z4TfyRKgnrAD0Sm"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        },
+        {
+          "name": "Taka",
+          "url": "https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B"
+        }
+      ],
+      "duration_ms": 178832,
+      "name": "Falling (feat. Taka)",
+      "url": "https://open.spotify.com/track/7HaUkQ34NYlOXFFspHeoG6"
+    },
+    {
+      "added_at": "2025-03-08 03:10:32",
+      "album": {
         "name": "ALXD",
         "url": "https://open.spotify.com/album/320EqC5cbWaxVViu3cJUAn"
       },
@@ -1507,6 +1475,22 @@
       "duration_ms": 248706,
       "name": "\u30ef\u30bf\u30ea\u30c9\u30ea",
       "url": "https://open.spotify.com/track/0ve9Tpz8Yw0I4eXhWsy21o"
+    },
+    {
+      "added_at": "2025-03-08 03:10:32",
+      "album": {
+        "name": "Spacecraft / Sailing",
+        "url": "https://open.spotify.com/album/7t2KBW7fFGH4OzsmGBosKY"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "duration_ms": 299213,
+      "name": "\u8ab0\u3088\u308a\u3082",
+      "url": "https://open.spotify.com/track/0Jor9YHb8VKmMpboe7ZdUF"
     },
     {
       "added_at": "2025-03-08 03:10:32",
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2025-03-08 03:10:32",
       "album": {
+        "name": "No.O -ring-",
+        "url": "https://open.spotify.com/album/2f2HoX9FvofLR1ruxImLiK"
+      },
+      "artists": [
+        {
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+        }
+      ],
+      "duration_ms": 203029,
+      "name": "BON",
+      "url": "https://open.spotify.com/track/3FzRKDirkUsApk11WEz1wz"
+    },
+    {
+      "added_at": "2025-03-08 03:10:32",
+      "album": {
         "name": "Overdose",
         "url": "https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa"
       },
@@ -1539,22 +1539,6 @@
       "duration_ms": 197093,
       "name": "Overdose",
       "url": "https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB"
-    },
-    {
-      "added_at": "2025-03-08 03:10:32",
-      "album": {
-        "name": "Puppets Can't Control You",
-        "url": "https://open.spotify.com/album/3y2CQYe2BvdDlrRP5CjQYR"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 194493,
-      "name": "Puppets Can\u2019t Control You",
-      "url": "https://open.spotify.com/track/6ERrZ4qND7JFoqNCnVBSKV"
     },
     {
       "added_at": "2025-03-08 03:10:32",
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2025-03-08 03:10:32",
       "album": {
-        "name": "Never Grow Up",
-        "url": "https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH"
+        "name": "Puppets Can't Control You",
+        "url": "https://open.spotify.com/album/3y2CQYe2BvdDlrRP5CjQYR"
       },
       "artists": [
         {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 196253,
-      "name": "Never Grow Up",
-      "url": "https://open.spotify.com/track/5aDgM8rYPT15CqjkN1EIKq"
+      "duration_ms": 194493,
+      "name": "Puppets Can\u2019t Control You",
+      "url": "https://open.spotify.com/track/6ERrZ4qND7JFoqNCnVBSKV"
     },
     {
       "added_at": "2025-03-08 03:10:32",
@@ -1619,6 +1603,22 @@
       "duration_ms": 296653,
       "name": "\u88f8\u306e\u5fc3",
       "url": "https://open.spotify.com/track/4Jv7U0JJpbQnOrjtDwDZTZ"
+    },
+    {
+      "added_at": "2025-03-08 03:10:32",
+      "album": {
+        "name": "Never Grow Up",
+        "url": "https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "duration_ms": 196253,
+      "name": "Never Grow Up",
+      "url": "https://open.spotify.com/track/5aDgM8rYPT15CqjkN1EIKq"
     },
     {
       "added_at": "2025-03-08 03:10:32",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 🏆 with WINK
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,314 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,309 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 84 | [GO BACK \(We Can't\)](https://open.spotify.com/track/7vSTWert1uL4NeG3EvBOYY) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [GO BACK \(We Can't\)](https://open.spotify.com/album/1Vomcw2K16iHH2KkkojTrZ) | 3:46 |
 | 85 | [Hitz](https://open.spotify.com/track/7mCDRMWEok4y7NHgKSfD2K) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Hitz](https://open.spotify.com/album/4HxksCl9JvGn7Ni77clzS8) | 2:48 |
 | 86 | [Breach](https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Breach](https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE) | 4:09 |
-| 87 | [u want me 2.0](https://open.spotify.com/track/3kkdLxiHkkDO76KXJdDKhG) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [u want me 2.0](https://open.spotify.com/album/7rxq7ndz7RxCN6PiELPyfl) | 2:09 |
-| 88 | [Crazy In The Club](https://open.spotify.com/track/4OohwCzQCntVJTNvYSpipr) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [DIMEPIECE](https://open.spotify.com/artist/2MAPKgHSqQLdWxK8bPlORU) | [Crazy In The Club](https://open.spotify.com/album/2mhocG4pFNSKvpKWu9GJPr) | 2:29 |
+| 87 | [Crazy In The Club](https://open.spotify.com/track/4OohwCzQCntVJTNvYSpipr) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [DIMEPIECE](https://open.spotify.com/artist/2MAPKgHSqQLdWxK8bPlORU) | [Crazy In The Club](https://open.spotify.com/album/2mhocG4pFNSKvpKWu9GJPr) | 2:29 |
+| 88 | [u want me 2.0](https://open.spotify.com/track/3kkdLxiHkkDO76KXJdDKhG) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [u want me 2.0](https://open.spotify.com/album/7rxq7ndz7RxCN6PiELPyfl) | 2:09 |
 | 89 | [Addiction](https://open.spotify.com/track/0HqJvuOzycUzCjAH3ZbjdS) | [Leveller Beats](https://open.spotify.com/artist/5yHwZWYTpwhOj6RjRep7gC), [Slanks](https://open.spotify.com/artist/3ubgPaF0WJapZWk05Olf2p), [Nyukyung](https://open.spotify.com/artist/2Fy5gf1UQY332twQmg1gfw) | [Addiction](https://open.spotify.com/album/1adaWczVKUAxvXR7rX4teZ) | 2:39 |
 | 90 | [Lost With You](https://open.spotify.com/track/6WpyVqYpxKmZtKyUvHJIK3) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [Lost With You](https://open.spotify.com/album/3YXPXr6pTSr5G8orBamN9c) | 3:10 |
 | 91 | [Ghoul](https://open.spotify.com/track/53ICazVbw0uQNOBnUff09a) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv), [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Monomyth](https://open.spotify.com/album/3snB2cQcZUkFYS1aawRQm9) | 3:05 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 94 | [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 |
 | 95 | [Lost In Mumbai](https://open.spotify.com/track/3WZDLEcdZXE0TtLYrbJmmH) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Lost In Mumbai](https://open.spotify.com/album/641ITlNYNF5fjZUoWM97yC) | 3:00 |
 | 96 | [Thrilla](https://open.spotify.com/track/2ePOVtay20vRQ33E1k1Qft) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [Thrilla](https://open.spotify.com/album/0huroHZfl6hAgdFdfp2dhL) | 2:14 |
-| 97 | [Ghost Of You](https://open.spotify.com/track/3QYE80UFrZZhIsm2998VdF) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn), [LYCA](https://open.spotify.com/artist/4naWgrSAZPl2RsnTFdST4H) | [Ghost Of You](https://open.spotify.com/album/1yhaid7FwnQJY1G21kB8JH) | 3:53 |
-| 98 | [TURN ME UP](https://open.spotify.com/track/48Rgzrr4Wxfbqq2gzHkM8J) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [TURN ME UP](https://open.spotify.com/album/1UaQOhg1Pa5LUbsKJ8Upib) | 2:27 |
+| 97 | [TURN ME UP](https://open.spotify.com/track/48Rgzrr4Wxfbqq2gzHkM8J) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [TURN ME UP](https://open.spotify.com/album/1UaQOhg1Pa5LUbsKJ8Upib) | 2:27 |
+| 98 | [Ghost Of You](https://open.spotify.com/track/3QYE80UFrZZhIsm2998VdF) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn), [LYCA](https://open.spotify.com/artist/4naWgrSAZPl2RsnTFdST4H) | [Ghost Of You](https://open.spotify.com/album/1yhaid7FwnQJY1G21kB8JH) | 3:53 |
 | 99 | [Forever](https://open.spotify.com/track/54kWlu1U9fphJ8VuNA39U9) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Forever](https://open.spotify.com/album/2CXoSi2bLD1vlydfdFSskL) | 3:28 |
 | 100 | [Cycles](https://open.spotify.com/track/5wD1R8jJ3OkmO77LzKFYFV) | [OMAS](https://open.spotify.com/artist/6TwO05VN5ZM3DYVEsP9vjK), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Cycles](https://open.spotify.com/album/0vwGdvJ3deQNv696OiPlro) | 3:58 |
 

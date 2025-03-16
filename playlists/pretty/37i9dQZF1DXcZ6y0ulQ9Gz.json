@@ -1,6 +1,6 @@
 {
   "description": "An eclectic mix of past & current indie favourites. Cover: Oklou",
-  "num_followers": 39881,
+  "num_followers": 39893,
   "original_name": "Indie Favourites",
   "owner": {
     "name": "Spotify",
@@ -319,18 +319,18 @@
     {
       "added_at": "2025-02-14 17:00:14",
       "album": {
-        "name": "Say Yes To Heaven",
-        "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 209156,
-      "name": "Say Yes To Heaven",
-      "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
+      "duration_ms": 326490,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
     },
     {
       "added_at": "2025-02-14 17:00:14",
@@ -351,18 +351,18 @@
     {
       "added_at": "2025-02-14 17:00:14",
       "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+        "name": "Say Yes To Heaven",
+        "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
       },
       "artists": [
         {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 326490,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
+      "duration_ms": 209156,
+      "name": "Say Yes To Heaven",
+      "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
     },
     {
       "added_at": "2025-02-14 17:00:14",
@@ -967,6 +967,22 @@
     {
       "added_at": "2025-02-14 17:00:14",
       "album": {
+        "name": "Tieduprightnow",
+        "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 249956,
+      "name": "Tieduprightnow",
+      "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
+    },
+    {
+      "added_at": "2025-02-14 17:00:14",
+      "album": {
         "name": "THE ANXIETY",
         "url": "https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K"
       },
@@ -991,22 +1007,6 @@
     {
       "added_at": "2025-02-14 17:00:14",
       "album": {
-        "name": "Tieduprightnow",
-        "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 249956,
-      "name": "Tieduprightnow",
-      "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
-    },
-    {
-      "added_at": "2025-02-14 17:00:14",
-      "album": {
         "name": "Untitled (Black Is)",
         "url": "https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle"
       },
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-02-14 17:00:14",
       "album": {
-        "name": "NEGATIVE",
-        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 145634,
-      "name": "i walk this earth all by myself",
-      "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
-    },
-    {
-      "added_at": "2025-02-14 17:00:14",
-      "album": {
         "name": "Bad Habit",
         "url": "https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 232114,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK"
+    },
+    {
+      "added_at": "2025-02-14 17:00:14",
+      "album": {
+        "name": "NEGATIVE",
+        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
     },
     {
       "added_at": "2025-02-14 17:00:14",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-02-14 17:00:14",
       "album": {
-        "name": "Tell Me I'm Pretty",
-        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 225973,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8"
-    },
-    {
-      "added_at": "2025-02-14 17:00:14",
-      "album": {
         "name": "Absolutely",
         "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 184767,
       "name": "The Dress",
       "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
+    },
+    {
+      "added_at": "2025-02-14 17:00:14",
+      "album": {
+        "name": "Tell Me I'm Pretty",
+        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 225973,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8"
     },
     {
       "added_at": "2025-02-14 17:00:14",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-02-14 17:00:14",
       "album": {
-        "name": "Fallen Star",
-        "url": "https://open.spotify.com/album/6GzXN4CWv0p5jIMKRU0ZBZ"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 224938,
-      "name": "Fallen Star",
-      "url": "https://open.spotify.com/track/60F6pgM6H6miNr5AmjxwjL"
-    },
-    {
-      "added_at": "2025-02-14 17:00:14",
-      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 221874,
       "name": "Perfect Places",
       "url": "https://open.spotify.com/track/7ARveOiD31w2Nq0n5FsSf8"
+    },
+    {
+      "added_at": "2025-02-14 17:00:14",
+      "album": {
+        "name": "Fallen Star",
+        "url": "https://open.spotify.com/album/6GzXN4CWv0p5jIMKRU0ZBZ"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 224938,
+      "name": "Fallen Star",
+      "url": "https://open.spotify.com/track/60F6pgM6H6miNr5AmjxwjL"
     },
     {
       "added_at": "2025-02-14 17:00:14",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2025-02-14 17:00:14",
       "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 195370,
+      "name": "Be Sweet",
+      "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
+    },
+    {
+      "added_at": "2025-02-14 17:00:14",
+      "album": {
         "name": "Two Star & The Dream Police",
         "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
       },
@@ -1383,18 +1399,18 @@
     {
       "added_at": "2025-02-14 17:00:14",
       "album": {
-        "name": "Historian",
-        "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
       },
       "artists": [
         {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
         }
       ],
-      "duration_ms": 391829,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
+      "duration_ms": 140080,
+      "name": "Wet Dream",
+      "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
     },
     {
       "added_at": "2025-02-14 17:00:14",
@@ -1435,34 +1451,18 @@
     {
       "added_at": "2025-02-14 17:00:14",
       "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+        "name": "Historian",
+        "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
       },
       "artists": [
         {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 140080,
-      "name": "Wet Dream",
-      "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
-    },
-    {
-      "added_at": "2025-02-14 17:00:14",
-      "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 195370,
-      "name": "Be Sweet",
-      "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
+      "duration_ms": 391829,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
     },
     {
       "added_at": "2025-02-14 17:00:14",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-02-14 17:00:14",
       "album": {
-        "name": "1950",
-        "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "1950",
-      "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
-    },
-    {
-      "added_at": "2025-02-14 17:00:14",
-      "album": {
         "name": "Caravelle",
         "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
       },
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2025-02-14 17:00:14",
       "album": {
+        "name": "1950",
+        "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "1950",
+      "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
+    },
+    {
+      "added_at": "2025-02-14 17:00:14",
+      "album": {
         "name": "Dance Fever",
         "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
       },
@@ -1599,6 +1599,22 @@
       "duration_ms": 234857,
       "name": "Free",
       "url": "https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1"
+    },
+    {
+      "added_at": "2025-02-14 17:00:14",
+      "album": {
+        "name": "Witches",
+        "url": "https://open.spotify.com/album/2tqLyWHOTHOGRvEYXUHoqM"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 195078,
+      "name": "Witches",
+      "url": "https://open.spotify.com/track/5BBK1WoaiD3b3sJ2UysLuM"
     },
     {
       "added_at": "2025-02-14 17:00:14",
@@ -1623,22 +1639,6 @@
       "duration_ms": 193600,
       "name": "Mile High (feat. Travis Scott & Metro Boomin)",
       "url": "https://open.spotify.com/track/4cQrSREMqBSvJ8ZzBZjVb8"
-    },
-    {
-      "added_at": "2025-02-14 17:00:14",
-      "album": {
-        "name": "Witches",
-        "url": "https://open.spotify.com/album/2tqLyWHOTHOGRvEYXUHoqM"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 195078,
-      "name": "Witches",
-      "url": "https://open.spotify.com/track/5BBK1WoaiD3b3sJ2UysLuM"
     },
     {
       "added_at": "2025-02-14 17:00:14",

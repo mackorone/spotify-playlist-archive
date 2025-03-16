@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Feat: Chappell Roan, Mia Wray, HAIM, Brad Cox, Selena Gomez, Lizzo + more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,888 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,927 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 32 | [JUMP](https://open.spotify.com/track/4WejDFaJx72saURVWVgOB8) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [JUMP](https://open.spotify.com/album/0uZgOU0f8jn1zSIwSaWLKs) | 3:00 |
 | 33 | [Comedown](https://open.spotify.com/track/0vz451SVtbqq5zDh4lrNwh) | [Tyne\-James Organ](https://open.spotify.com/artist/3E5mhmaKGxv8us9JoI157M) | [Comedown](https://open.spotify.com/album/0sScHpEzMP4cwaYuBHrXJq) | 2:31 |
 | 34 | [Flip The Switch x Songer](https://open.spotify.com/track/50b6wWNZ9QqemALLtaMPEd) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd), [Take Flight](https://open.spotify.com/artist/6qBVj3gXPWbEl45U8wyliG) | [Flip The Switch x Songer](https://open.spotify.com/album/3gPIe4coVzscTdurYNNz2R) | 3:16 |
-| 35 | [It Gets Better \(Forever Mix\)](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [It Gets Better \(Forever Mix\)](https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO) | 4:12 |
+| 35 | [It Gets Better \- Edit](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [It Gets Better \(Forever Mix\)](https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO) | 4:12 |
 | 36 | [Savior](https://open.spotify.com/track/5h1ZgjFl9o9Bc1UTlJ9V1l) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Savior](https://open.spotify.com/album/06D1vzjX7t7zLZJd9xIJ7g) | 3:36 |
 | 37 | [This Is The Silence](https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Forest Is The Path \(Extended Edition\)](https://open.spotify.com/album/6irdOmMm1renAtesHgETEv) | 2:59 |
 | 38 | [Wake Em Up](https://open.spotify.com/track/3LXRevaRWpJajAVKhgzvrd) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Wake Em Up](https://open.spotify.com/album/0PdmRhlaO6JuOcsWLVjPaK) | 2:09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,340 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,392 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 39 | [O Yaara](https://open.spotify.com/track/2lp1Tsn8H6mq0bzXgOeLHY) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [O Yaara](https://open.spotify.com/album/1X6DbsKiPHQycPTlxNamUS) | 4:36 |
 | 40 | [Naina](https://open.spotify.com/track/3SHopOL3KEJ8PFl3vJdfmF) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Khoobsurat](https://open.spotify.com/album/66PqhjAV83M26X8mJ8nqDO) | 3:45 |
 | 41 | [Ve Kamleya \- Asees Version](https://open.spotify.com/track/0t13TDloNQhmFFLOa4bMhs) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Ve Kamleya \- Asees Version](https://open.spotify.com/album/4rFLZ85c7DH7p7dTzMYanE) | 3:00 |
-| 42 | [Khoobsurat](https://open.spotify.com/track/1besAjT4S4E0TbBPulgqs2) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Stree 2](https://open.spotify.com/album/36DaAZreJ2iN4oPZ8HBUeU) | 4:04 |
+| 42 | [Jab Tak](https://open.spotify.com/track/35RWttZt8zGGzT0mWtlXpn) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [M.S.Dhoni \- The Untold Story](https://open.spotify.com/album/0UuTH5r9tyFJ2tqnvc1wWm) | 2:54 |
 | 43 | [Itni Si Baat Hain](https://open.spotify.com/track/3P167vmmGRGKHoy7uDugvy) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Azhar](https://open.spotify.com/album/0V1JQaeLB033XjgS7JqNbP) | 4:54 |
 | 44 | [Raat Bhar](https://open.spotify.com/track/3ctaMit7CuiHIPVYrRvm15) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Heropanti](https://open.spotify.com/album/3OozDMNwTvyCP4bOhsSou0) | 5:25 |
 | 45 | [Khwab](https://open.spotify.com/track/59alvnjzlbX6LaHhXGDZYv) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Khwab](https://open.spotify.com/album/0ICe966bo3oNsHRIBp4aQ7) | 2:38 |
-| 46 | [Jab Tak](https://open.spotify.com/track/35RWttZt8zGGzT0mWtlXpn) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [M.S.Dhoni \- The Untold Story](https://open.spotify.com/album/0UuTH5r9tyFJ2tqnvc1wWm) | 2:54 |
+| 46 | [Khoobsurat](https://open.spotify.com/track/1besAjT4S4E0TbBPulgqs2) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Stree 2](https://open.spotify.com/album/36DaAZreJ2iN4oPZ8HBUeU) | 4:04 |
 | 47 | [Rangisari \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/track/0DXfJ2iKRDEG7rPgssWFea) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Rangisari \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/album/5MB6DWb1irSWaalYH07Uzg) | 3:43 |
 | 48 | [O'Meri Laila \- Radio Version](https://open.spotify.com/track/0w82o6lVX8ENxGjWBecP4D) | [Joi Barua](https://open.spotify.com/artist/1UdYhDdrXVNJMAKghjdU6v) | [Laila Majnu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1RNEvKlb3YovuiE8Gw5VOO) | 3:11 |
 | 49 | [Iktara \(From "Wake Up Sid"\)](https://open.spotify.com/track/0bmp0lE3ArELHqda9PBMVG) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [I Love You...Forever](https://open.spotify.com/album/3v8bVKuoU4pdMhMx0hStRN) | 4:13 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 72 | [Baarishein \(Acoustic\)](https://open.spotify.com/track/3Ro0jYDrZcygFkdomURHqt) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein \(Acoustic\)](https://open.spotify.com/album/2YzCwXR0mLizrGV0sRVF2I) | 3:29 |
 | 73 | [Dhaaga](https://open.spotify.com/track/4wUtptr1RLnHyTlkbUKutH) | [Nilotpal Bora](https://open.spotify.com/artist/2JexWjjyHRNgAiDXNn7rsV), [Hussain Haidry](https://open.spotify.com/artist/2iABRD4RXxrhfiO1TPdFvy) | [Aspirants: Season 1 \(Music From the TVF Original Series\)](https://open.spotify.com/album/3hFz046pdpJkSIGSXtG5jE) | 3:52 |
 | 74 | [Kitni Haseen Zindagi](https://open.spotify.com/track/7x5gwdWM7oc6aJ7ZXy9Vnw) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Aks](https://open.spotify.com/album/4GdcSSWz7wOn0ZtOHfmINr) | 4:15 |
-| 75 | [Zehen X Saajna](https://open.spotify.com/track/6nbd9EhZimtWBkKgKeURqI) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Zehen X Saajna](https://open.spotify.com/album/6Hdbj2fIloxD6uSLOnuHGU) | 2:01 |
+| 75 | [Aao Chalein](https://open.spotify.com/track/7ADt3F5qdx8qPYdy6ODCar) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Bombay Dreams](https://open.spotify.com/album/5Y7esCvRwUxwEKFEJ6EUdU) | 3:05 |
 
 Snapshot ID: `Z8ghWwAAAAA4p+oiW25l3LROqpd9kXvp`

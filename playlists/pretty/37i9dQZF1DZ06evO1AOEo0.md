@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 
 > This is Shane & Shane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,804 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,808 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 | 40 | [Lord, I Need You](https://open.spotify.com/track/3rb16bvaqDbJxpAQMGYUcL) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 1](https://open.spotify.com/album/0QjjRF6uAOfTFr1Y6RHofZ) | 4:39 |
 | 41 | [Give Me Jesus](https://open.spotify.com/track/0RsaQMxAuonHIVM7pjQm6S) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 4:42 |
 | 42 | [O Praise the Name \(Live\)](https://open.spotify.com/track/06JooBbucchucT6w3HaMlR) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms Live](https://open.spotify.com/album/3UzKQzSKz9lo1rGBDm7iFv) | 4:52 |
-| 43 | [Grace Flows Down](https://open.spotify.com/track/2Stkuv3LO3UYhQTsIcEzYq) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage, Vol\. 2](https://open.spotify.com/album/25aDYnEtVSRnxFEghUmGGy) | 4:16 |
-| 44 | [Psalm 8 \(How Majestic Is Your Name\)](https://open.spotify.com/track/4SdrS21OB26xY1hWYTOA4i) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 5:22 |
+| 43 | [Psalm 8 \(How Majestic Is Your Name\)](https://open.spotify.com/track/4SdrS21OB26xY1hWYTOA4i) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 5:22 |
+| 44 | [Grace Flows Down](https://open.spotify.com/track/2Stkuv3LO3UYhQTsIcEzYq) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage, Vol\. 2](https://open.spotify.com/album/25aDYnEtVSRnxFEghUmGGy) | 4:16 |
 | 45 | [Speak O Lord](https://open.spotify.com/track/3aeNn39bXDyE2HNPkdYI62) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Modern Hymns](https://open.spotify.com/album/3um1S34YTMpbdo2kEum7k1) | 5:48 |
 | 46 | [O Come to the Altar](https://open.spotify.com/track/7JeZ9RrNEz0cPPvuHOVABz) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 11](https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3) | 5:40 |
-| 47 | [Turn Your Eyes Upon Jesus \(Acoustic\)](https://open.spotify.com/track/5sM3BfN131EnsfNUxJYIJz) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns in the Round](https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf) | 4:50 |
-| 48 | [Psalm 90 \(Satisfy Us with Your Love\)](https://open.spotify.com/track/1BsEjM4yjgsTlykhygDeNr) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 5:15 |
+| 47 | [Psalm 90 \(Satisfy Us with Your Love\)](https://open.spotify.com/track/1BsEjM4yjgsTlykhygDeNr) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 5:15 |
+| 48 | [Turn Your Eyes Upon Jesus \(Acoustic\)](https://open.spotify.com/track/5sM3BfN131EnsfNUxJYIJz) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns in the Round](https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf) | 4:50 |
 | 49 | [Come As You Are](https://open.spotify.com/track/7bIm0ycdw7tiQEjsKzSTmM) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 12](https://open.spotify.com/album/2vjhzwPDUzGP8Rp2iddddV) | 4:35 |
 | 50 | [Be Thou My Vision \(Lord You Are\) \[Acoustic\]](https://open.spotify.com/track/73O5yQB96iucUM1EGwVNhK) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns in the Round](https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf) | 4:13 |
 
-Snapshot ID: `Z9IgAAAAAABHYhpvP3Dp+sV7iC31xsTI`
+Snapshot ID: `Z9NxgAAAAABIDRXBhym1hnP8zNaQaP4x`

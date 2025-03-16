@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7OsxgbX67u.md) - [plain]
 
 > Listen to the music from Invincible, streaming only on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,251 likes - 71 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,516 likes - 71 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7OsxgbX67u.md) - [plain]
 | 15 | [I Ain't the One](https://open.spotify.com/track/4Eyn4IekRi5vMKiExXzHwf) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Hot Thoughts](https://open.spotify.com/album/1OPdyA7ZW7zIZEmSqThRGy) | 3:48 |
 | 16 | [What's Going On !](https://open.spotify.com/track/6pLzJ1xpUIqI2Xve5e0aA6) | [syd B](https://open.spotify.com/artist/6cBSgFUoVWA9CIA159x2Jr) | [What's Going On !](https://open.spotify.com/album/5rCGxHBPgoLfqLou8MbyzZ) | 2:04 |
 | 17 | [Indefinite Atmosphere](https://open.spotify.com/track/2ZnMITslZLW4ZY4IIFgTNI) | [Giovanni Tommaso](https://open.spotify.com/artist/4VcMULKNEFjwurIvv6ZHuG) | [Indefinitive Atmosphere](https://open.spotify.com/album/2nObWlqHbt8boxjX4Mb3xh) | 1:40 |
-| 18 | [Blockbuster Night Pt\. 1](https://open.spotify.com/track/4IkDkZxo0UamwkH3iunJRC) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Run The Jewels 2](https://open.spotify.com/album/07h5cYnfQm4mCDmEBiRtei) | 2:32 |
+| 18 | [Blockbuster Night Pt\. 1](https://open.spotify.com/track/4IkDkZxo0UamwkH3iunJRC) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Run The Jewels 2](https://open.spotify.com/album/07h5cYnfQm4mCDmEBiRtei) | 2:32 |
 | 19 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
 | 20 | [Weapon of Choice](https://open.spotify.com/track/08kB9HSfrcIi83rymwgjMz) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [The Greatest Hits: Why Try Harder](https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ) | 3:39 |
 | 21 | [Final Days](https://open.spotify.com/track/4CJiAsRwM7MaCgWlnFaSRz) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [KIWANUKA](https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ) | 4:10 |

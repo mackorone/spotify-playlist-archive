@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 163969,
+  "num_followers": 163983,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-03-06 16:00:38",
       "album": {
-        "name": "Tsunami",
-        "url": "https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY"
-    },
-    {
-      "added_at": "2025-03-06 16:00:38",
-      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 204400,
       "name": "Sorry - Original Demo",
       "url": "https://open.spotify.com/track/6eR1N0EBHiDkGDzegX99d3"
+    },
+    {
+      "added_at": "2025-03-06 16:00:38",
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY"
     },
     {
       "added_at": "2025-03-06 16:00:38",
@@ -823,26 +823,6 @@
     {
       "added_at": "2025-03-06 16:00:38",
       "album": {
-        "name": "Walk Long",
-        "url": "https://open.spotify.com/album/0zR3grZpgad6nqfPauPdnJ"
-      },
-      "artists": [
-        {
-          "name": "Psylo",
-          "url": "https://open.spotify.com/artist/4EvMhwDutimwUZSG7t38XI"
-        },
-        {
-          "name": "KINIDA",
-          "url": "https://open.spotify.com/artist/5rxk8Y4xZoD152zShQiwhB"
-        }
-      ],
-      "duration_ms": 248877,
-      "name": "Walk Long",
-      "url": "https://open.spotify.com/track/1ibtSIWTF1Ti00WMocGGir"
-    },
-    {
-      "added_at": "2025-03-06 16:00:38",
-      "album": {
         "name": "It's Not This",
         "url": "https://open.spotify.com/album/5XbxaUEQQ7jTJ5zBa19pjY"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 190769,
       "name": "It's Not This",
       "url": "https://open.spotify.com/track/12ZC7GrMQNo6xXJdN89d8P"
+    },
+    {
+      "added_at": "2025-03-06 16:00:38",
+      "album": {
+        "name": "Walk Long",
+        "url": "https://open.spotify.com/album/0zR3grZpgad6nqfPauPdnJ"
+      },
+      "artists": [
+        {
+          "name": "Psylo",
+          "url": "https://open.spotify.com/artist/4EvMhwDutimwUZSG7t38XI"
+        },
+        {
+          "name": "KINIDA",
+          "url": "https://open.spotify.com/artist/5rxk8Y4xZoD152zShQiwhB"
+        }
+      ],
+      "duration_ms": 248877,
+      "name": "Walk Long",
+      "url": "https://open.spotify.com/track/1ibtSIWTF1Ti00WMocGGir"
     },
     {
       "added_at": "2025-03-06 16:00:38",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-03-06 16:00:38",
       "album": {
-        "name": "Wasting Away",
-        "url": "https://open.spotify.com/album/5HcEKDA1oqtglt9Llh69KD"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 168956,
-      "name": "Out of My Mind",
-      "url": "https://open.spotify.com/track/5NfVKqJQhRIluNHXvgtWNK"
-    },
-    {
-      "added_at": "2025-03-06 16:00:38",
-      "album": {
         "name": "Live on Ice",
         "url": "https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a"
       },
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2025-03-06 16:00:38",
       "album": {
-        "name": "every scent",
-        "url": "https://open.spotify.com/album/3iQbcXxsmpGZRxQlr5ntwX"
+        "name": "Wasting Away",
+        "url": "https://open.spotify.com/album/5HcEKDA1oqtglt9Llh69KD"
       },
       "artists": [
         {
-          "name": "Yokin",
-          "url": "https://open.spotify.com/artist/3MXt6F8yjXrMeqgPpfcJuE"
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 251727,
-      "name": "every scent",
-      "url": "https://open.spotify.com/track/3CFqwu9NINgqvtc0W5AiKl"
+      "duration_ms": 168956,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/5NfVKqJQhRIluNHXvgtWNK"
     },
     {
       "added_at": "2025-03-06 16:00:38",
@@ -1211,6 +1195,22 @@
       "duration_ms": 199680,
       "name": "Remember",
       "url": "https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3"
+    },
+    {
+      "added_at": "2025-03-06 16:00:38",
+      "album": {
+        "name": "every scent",
+        "url": "https://open.spotify.com/album/3iQbcXxsmpGZRxQlr5ntwX"
+      },
+      "artists": [
+        {
+          "name": "Yokin",
+          "url": "https://open.spotify.com/artist/3MXt6F8yjXrMeqgPpfcJuE"
+        }
+      ],
+      "duration_ms": 251727,
+      "name": "every scent",
+      "url": "https://open.spotify.com/track/3CFqwu9NINgqvtc0W5AiKl"
     },
     {
       "added_at": "2025-03-06 16:00:38",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-03-06 16:00:38",
       "album": {
-        "name": "Take A Sip",
-        "url": "https://open.spotify.com/album/4spbnZknoM4B7n6I9MbYNG"
-      },
-      "artists": [
-        {
-          "name": "XIN LIU",
-          "url": "https://open.spotify.com/artist/3lxD7OESQHk5ESvrad8IGg"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "Take A Sip",
-      "url": "https://open.spotify.com/track/1Gk21dL0nKzuwjA34jOGs5"
-    },
-    {
-      "added_at": "2025-03-06 16:00:38",
-      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 281730,
       "name": "Love Hope Change",
       "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
+    },
+    {
+      "added_at": "2025-03-06 16:00:38",
+      "album": {
+        "name": "Take A Sip",
+        "url": "https://open.spotify.com/album/4spbnZknoM4B7n6I9MbYNG"
+      },
+      "artists": [
+        {
+          "name": "XIN LIU",
+          "url": "https://open.spotify.com/artist/3lxD7OESQHk5ESvrad8IGg"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "Take A Sip",
+      "url": "https://open.spotify.com/track/1Gk21dL0nKzuwjA34jOGs5"
     },
     {
       "added_at": "2025-03-06 16:00:38",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2025-03-06 16:00:38",
       "album": {
+        "name": "Basement Grooves",
+        "url": "https://open.spotify.com/album/17oUkIpNKzZMJiKckkUIf6"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/0lZwumiLo3yINe5vc3Y79M"
+    },
+    {
+      "added_at": "2025-03-06 16:00:38",
+      "album": {
         "name": "Build",
         "url": "https://open.spotify.com/album/6ASizE9wRKuBUsgARpMrkh"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 228705,
       "name": "Baby Cakes",
       "url": "https://open.spotify.com/track/1rr3sGDkWeisMDPRTe081L"
-    },
-    {
-      "added_at": "2025-03-06 16:00:38",
-      "album": {
-        "name": "Basement Grooves",
-        "url": "https://open.spotify.com/album/17oUkIpNKzZMJiKckkUIf6"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/0lZwumiLo3yINe5vc3Y79M"
     },
     {
       "added_at": "2025-03-06 16:00:38",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2025-03-06 16:00:38",
       "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/5TWPkPyoLrZJlDFC8ppVld"
+      },
+      "artists": [
+        {
+          "name": "reina",
+          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
+        }
+      ],
+      "duration_ms": 169208,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/6ag2M9QBSdT0HwTlfUYf50"
+    },
+    {
+      "added_at": "2025-03-06 16:00:38",
+      "album": {
         "name": "WINE",
         "url": "https://open.spotify.com/album/10bEr4txHrSj4oi8KzOUSy"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 250666,
       "name": "untitled (what's it gonna be)",
       "url": "https://open.spotify.com/track/76YpiW77bh2bCbvysBnwF4"
-    },
-    {
-      "added_at": "2025-03-06 16:00:38",
-      "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/5TWPkPyoLrZJlDFC8ppVld"
-      },
-      "artists": [
-        {
-          "name": "reina",
-          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
-        }
-      ],
-      "duration_ms": 169208,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/6ag2M9QBSdT0HwTlfUYf50"
     },
     {
       "added_at": "2025-03-06 16:00:38",

@@ -4,7 +4,7 @@
 
 > The latest of R&B in the UK\. Cover: Mychelle
 
-368 songs - 19 hr 8 min
+369 songs - 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Girlfriend](https://open.spotify.com/track/5deRvXDZlILXkHZG1DA4sJ) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Girlfriend](https://open.spotify.com/album/48MblNhpA4tKaIxlev3VvE) | 2:49 | 2023-07-21 | 2023-09-15 |
 | [Give](https://open.spotify.com/track/6nIEeQkpfPtijiUVsgiqTI) | [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv) | [Give](https://open.spotify.com/album/0CI4HNURaCU5gDJrfSv2Db) | 3:49 | 2024-05-10 | 2025-03-07 |
 | [Give Up The Fear](https://open.spotify.com/track/10tpSojwAIsgZAy4xbAiMB) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Give Up The Fear](https://open.spotify.com/album/3MS50q90DYesShrGsqAFve) | 2:39 | 2024-05-31 | 2025-03-07 |
-| [Glow](https://open.spotify.com/track/0coL1H5F5ZvN4fzPMWxvWq) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Glow](https://open.spotify.com/album/3uKS7fIydLpnjcCfDlSMkd) | 3:17 | 2025-03-07 |  |
+| [Glow](https://open.spotify.com/track/0coL1H5F5ZvN4fzPMWxvWq) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Glow](https://open.spotify.com/album/3uKS7fIydLpnjcCfDlSMkd) | 3:17 | 2025-03-07 | 2025-03-16 |
 | [Glowin 4 Me Pt\. 2 \(feat\. AMARIA BB\)](https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc), [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Glowin 4 Me Pt\. 2 \(feat\. AMARIA BB\)](https://open.spotify.com/album/1i0f9QAp1jFbJSpL4dkfCh) | 2:25 | 2023-05-15 | 2023-09-15 |
 | [Go Baby](https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:56 | 2023-09-22 | 2024-09-13 |
 | [Golden Child \(Jealous\)](https://open.spotify.com/track/1NHNnN4m39qq0v33BBaib8) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:27 | 2023-09-22 | 2024-09-13 |
@@ -154,6 +154,7 @@
 | [I know](https://open.spotify.com/track/1sfC1pBC9jUn5QUGbW4Inq) | [Owen Saward](https://open.spotify.com/artist/6uoe9e35wfVDtfCYtPoZdd), [Tayá](https://open.spotify.com/artist/0QHXPsTQVqvNPfK6edjInM) | [I know](https://open.spotify.com/album/6d007bzGban8JqmIvrubZW) | 3:15 | 2025-01-24 |  |
 | [i might](https://open.spotify.com/track/7G5msnKmV8flQ7IvQJfv9n) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [i might](https://open.spotify.com/album/4A1o93hNqwkiNYnexYvlYp) | 2:50 | 2024-02-16 | 2024-11-22 |
 | [I Might Be In Love With You](https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:37 | 2022-07-17 | 2023-07-22 |
+| [I Swear](https://open.spotify.com/track/0wfRDY7ervDHWGNByS7xPz) | [Owen Saward](https://open.spotify.com/artist/6uoe9e35wfVDtfCYtPoZdd) | [I Swear](https://open.spotify.com/album/6NFiUMCDwKUrWfrhPyHOJq) | 3:05 | 2025-03-14 |  |
 | [I Wanna](https://open.spotify.com/track/7vMDtQo3RbOx3rAONunUZS) | [Essii](https://open.spotify.com/artist/2TolczZeUz7fcmlANnFcMJ) | [I Wanna](https://open.spotify.com/album/0sZxfPTPYUQ7tCmCjyiWy0) | 2:10 | 2024-08-06 |  |
 | [I want you](https://open.spotify.com/track/6n2ZiEOuR5TtRqiriKCJfH) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [I want you](https://open.spotify.com/album/0GjmtqnYZv1RQ6nxOsoGZk) | 2:38 | 2023-07-21 | 2023-08-19 |
 | [I'll Be Loving You](https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [I'll Be Loving You](https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV) | 4:06 | 2022-07-17 | 2023-05-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 
 > These songs rocked the '60s\. Cover: The Rolling Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,613 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,773 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 | 51 | [Sunshine Of Your Love](https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 4:10 |
 | 52 | [Louie Louie](https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ) | [The Kingsmen](https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo) | [The Best of The Kingsmen](https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx) | 2:45 |
 | 53 | [Hello, I Love You](https://open.spotify.com/track/3bWGaqVeYKMlLss40mPgNn) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 2:13 |
-| 54 | [Mr\. Tambourine Man](https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Mr\. Tambourine Man](https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa) | 2:29 |
-| 55 | [Suite: Judy Blue Eyes \- 2005 Remaster](https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 7:24 |
+| 54 | [Suite: Judy Blue Eyes \- 2005 Remaster](https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 7:24 |
+| 55 | [Mr\. Tambourine Man](https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Mr\. Tambourine Man](https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa) | 2:29 |
 | 56 | [Foxey Lady](https://open.spotify.com/track/23MrkN7g6Q5U7GLIxNHN1B) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:18 |
 | 57 | [Crying](https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Crying](https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI) | 2:46 |
 | 58 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/0KpTFH1SzexN8SGc0GPILC) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Singles Plus](https://open.spotify.com/album/1v4O55JGou3T0Vlj06fdXz) | 2:25 |
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 | 78 | [The Weight \- Remastered](https://open.spotify.com/track/0sDqo9UPzPUtu9wEkI3zRB) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Expanded Edition\)](https://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk) | 4:38 |
 | 79 | [Pinball Wizard](https://open.spotify.com/track/60C8zGPTdAAmDshHnMuyfc) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy \(Remastered 2013 Super Deluxe Edition\)](https://open.spotify.com/album/5OISW6z3D02yCZn06mR1or) | 3:00 |
 | 80 | [Ramble On \- Remaster](https://open.spotify.com/track/4WTk7vle9ubGFvRUkaGUBd) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(Deluxe Edition\)](https://open.spotify.com/album/58N1RPC3B4mRkjBaug4u3X) | 4:34 |
-| 81 | [Sweet Caroline \- Single Version](https://open.spotify.com/track/6l7tK5SsMlN8a9ccgeIkpS) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [In My Lifetime](https://open.spotify.com/album/0mfMzPJTJni2cy7O5C2sxi) | 3:21 |
-| 82 | [Needles and Pins \- Mono](https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra) | [The Searchers](https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe) | [Needles & Pins](https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0) | 2:11 |
-| 83 | [The Sounds of Silence](https://open.spotify.com/track/39CGrUZUozjtjgAASzzB56) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Greatest Hits](https://open.spotify.com/album/25irJgxRNTlyg8pUmWfDVG) | 3:04 |
-| 84 | [Wild Thing](https://open.spotify.com/track/2cM6hAcaR3zsh2oYYV2MWU) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [Hit Single Anthology](https://open.spotify.com/album/2TG4d4Y39z7yDW7iTmVi6v) | 2:38 |
+| 81 | [Needles and Pins \- Mono](https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra) | [The Searchers](https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe) | [Needles & Pins](https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0) | 2:11 |
+| 82 | [Sweet Caroline \- Single Version](https://open.spotify.com/track/6l7tK5SsMlN8a9ccgeIkpS) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [In My Lifetime](https://open.spotify.com/album/0mfMzPJTJni2cy7O5C2sxi) | 3:21 |
+| 83 | [Wild Thing](https://open.spotify.com/track/2cM6hAcaR3zsh2oYYV2MWU) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [Hit Single Anthology](https://open.spotify.com/album/2TG4d4Y39z7yDW7iTmVi6v) | 2:38 |
+| 84 | [The Sounds of Silence](https://open.spotify.com/track/39CGrUZUozjtjgAASzzB56) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Greatest Hits](https://open.spotify.com/album/25irJgxRNTlyg8pUmWfDVG) | 3:04 |
 | 85 | [Gloria \- Stereo Version](https://open.spotify.com/track/5wfbkDVnNgPG4asSYvtMIC) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Gold \(International Version\)](https://open.spotify.com/album/7c0kHEfTvWuKKzhyiyuTNH) | 2:36 |
 | 86 | [Care Of Cell 44](https://open.spotify.com/track/5QXqz1KDz8Z8DmfQoxWmmy) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle](https://open.spotify.com/album/7K6JtyaSSVr7HidQsCHun0) | 3:55 |
 | 87 | [Sunny Afternoon](https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Face to Face \(Deluxe\)](https://open.spotify.com/album/6nkmtyFpZHm7piIFJgsxxa) | 3:30 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAACTjYf4MPGF7jDrOuU6j8qJ",
+  "snapshot_id": "Z9NxgAAAAACxt/ePvNvf+vKRH35WXp5g",
   "tracks": [
     {
       "added_at": null,
@@ -139,26 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Informal Introduction OG",
-        "url": "https://open.spotify.com/album/53ITXaRohUnllzMoXNbuSd"
-      },
-      "artists": [
-        {
-          "name": "Shade Sheist",
-          "url": "https://open.spotify.com/artist/6E8pGolyeInc820eQQak70"
-        },
-        {
-          "name": "Irv Gotti",
-          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
-        }
-      ],
-      "duration_ms": 282240,
-      "name": "All I Know (feat. Irv Gotti)",
-      "url": "https://open.spotify.com/track/6SJoDmdniQS2xI6uYxvXj0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Irv Gotti Presents... The Inc.",
         "url": "https://open.spotify.com/album/3DGkcr076qNEue0odlRrGk"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 278200,
       "name": "Intro (Various Artists/Irv Gotti Presents... The Inc.)",
       "url": "https://open.spotify.com/track/2nQvUJgNFgvdYGwGtLUUKh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Informal Introduction OG",
+        "url": "https://open.spotify.com/album/53ITXaRohUnllzMoXNbuSd"
+      },
+      "artists": [
+        {
+          "name": "Shade Sheist",
+          "url": "https://open.spotify.com/artist/6E8pGolyeInc820eQQak70"
+        },
+        {
+          "name": "Irv Gotti",
+          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
+        }
+      ],
+      "duration_ms": 282240,
+      "name": "All I Know (feat. Irv Gotti)",
+      "url": "https://open.spotify.com/track/6SJoDmdniQS2xI6uYxvXj0"
     },
     {
       "added_at": null,

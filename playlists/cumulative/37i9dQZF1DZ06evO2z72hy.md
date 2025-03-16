@@ -4,7 +4,7 @@
 
 > This is Gondwana\. The essential tracks, all in one playlist.
 
-89 songs - 6 hr 1 min
+90 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Divina verdad](https://open.spotify.com/track/6w9TXZ2DROwK2KUtA41D4N) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 5:25 | 2022-05-25 |  |
 | [Do It Right](https://open.spotify.com/track/4cUTAFvDn8BVMu69Gdb0UL) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Do It Right](https://open.spotify.com/album/7IgZXXTr4hSKXgkvjjky5U) | 3:44 | 2023-07-01 | 2023-07-29 |
 | [Do It Right](https://open.spotify.com/track/4uuWMM30p5K10k7amGqJXM) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Cali Roots Riddim 2023](https://open.spotify.com/album/2VV4AwkAHaWRJ3noJY6aWT) | 3:44 | 2023-07-28 |  |
-| [Down Under](https://open.spotify.com/track/6vDl3LpYcIkuqKM0XIbqBe) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [La 100 Vivo! 2da Edición \(Parte 2\)](https://open.spotify.com/album/028601b3iM0PZtzD76eKRv) | 3:36 | 2022-05-25 |  |
+| [Down Under](https://open.spotify.com/track/6vDl3LpYcIkuqKM0XIbqBe) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [La 100 Vivo! 2da Edición \(Parte 2\)](https://open.spotify.com/album/028601b3iM0PZtzD76eKRv) | 3:36 | 2022-05-25 | 2025-03-16 |
 | [Dulce Amor \(Sólo Un Latido\)](https://open.spotify.com/track/23d6sogOKvZOx7XtSEeNVs) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 3:47 | 2022-05-25 |  |
 | [El Beso Que Me da una Rosa](https://open.spotify.com/track/5PYs43QuMcrqq2wVPN0pgu) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 3:28 | 2022-06-11 |  |
 | [El Rito](https://open.spotify.com/track/5iccBUGytEmsMoJhaFeRag) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Reggae N Roll](https://open.spotify.com/album/0xvEOmEMONX0ohVCUcudb5) | 5:00 | 2022-05-25 | 2023-05-12 |
@@ -83,6 +83,7 @@
 | [Smile Souling](https://open.spotify.com/track/3asfbDhnzUpEvMuhPxWaXI) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana](https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw) | 4:33 | 2022-05-25 |  |
 | [Suave Pero Intenso](https://open.spotify.com/track/2aIUhZGLfRpG1AYCy4oX9d) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 4:36 | 2022-05-25 | 2024-01-30 |
 | [Susurro](https://open.spotify.com/track/2TxZ8JAypBhn7GWyzwX4hR) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 3:14 | 2022-05-25 |  |
+| [Sweet Reggae Music](https://open.spotify.com/track/3lPjIbzxGuheaH9fZILy03) | [Fayuca](https://open.spotify.com/artist/6xQZyvyDrPBSaO9pwRyMvy), [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7), [Jahricio](https://open.spotify.com/artist/66WqQRRBkNMTpOYkTaMx82) | [Sweet Reggae Music](https://open.spotify.com/album/2kZhtsWHys7Ft7hCylKgP9) | 3:18 | 2025-03-16 |  |
 | [Sólo Es Verdadero \(El Amor De Jah\)](https://open.spotify.com/track/5rbiiKLMsgT2m2pz57Hxaf) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 4:58 | 2022-05-25 | 2022-10-13 |
 | [Te Recuerdo Amanda](https://open.spotify.com/track/337eg34bKb97zZce5PUXQs) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 5:29 | 2022-06-04 | 2024-11-12 |
 | [Traficantes De Fe](https://open.spotify.com/track/10vTdkkK4noQfgt0oexX06) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza Por La Fuerza De La Razón](https://open.spotify.com/album/7mzgCNDT0IVvixRnHKcGmj) | 3:41 | 2022-05-25 | 2024-07-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mkT6beTY1k.md) - [plain]
 
 > time to confess your crush
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,678 likes - 51 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,691 likes - 51 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

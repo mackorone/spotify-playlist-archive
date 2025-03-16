@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Jon Pardi, Warren Zeiders, Miranda Lambert and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,774 likes - 74 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,942 likes - 74 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [She Drives Away](https://open.spotify.com/track/6ZIw7J7A095b3ekDdWw2eP) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [She Drives Away](https://open.spotify.com/album/4kJN4WFWdYHBWOzHa2woqz) | 3:09 |
 | 2 | [Love In Letting Go](https://open.spotify.com/track/5CXIuI2IL88KY3L9Vd259d) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi), [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Relapse, Lies, & Betrayal](https://open.spotify.com/album/5zHw4l7ugQFWW6gy0zUxpy) | 3:19 |
-| 3 | [I Don't Love Here Anymore](https://open.spotify.com/track/1NvxMFUJm32lDXdxgTfd5z) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene \(Expanded Edition\)](https://open.spotify.com/album/3m9iIzYKrmMa4tLjASBqFs) | 3:59 |
+| 3 | [I Don't Love Here Anymore](https://open.spotify.com/track/1NvxMFUJm32lDXdxgTfd5z) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene \(20th Anniversary Edition\)](https://open.spotify.com/album/3m9iIzYKrmMa4tLjASBqFs) | 3:59 |
 | 4 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 |
 | 5 | [Let Him In Anyway](https://open.spotify.com/track/0Inv68QN5D9ir2Z2vYAMY1) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Let Him In Anyway](https://open.spotify.com/album/0GwqVaf3VTFjDdq8bIw0lv) | 3:17 |
 | 6 | [Cold Beer Can \(feat\. Stephen Wilson Jr.\)](https://open.spotify.com/track/5OJktQaLRIrgwOvOAXKyHJ) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Cold Beer Can \(feat\. Stephen Wilson Jr.\)](https://open.spotify.com/album/0nRRw2OUq47O3EGHbc3zTU) | 2:43 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 13 | [I’m Movin’ On](https://open.spotify.com/track/53IX4MOIyOZQnKy6a3JnaX) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [I'm Movin' On](https://open.spotify.com/album/7FQLBkD3mdfh2UiLzhvNnN) | 3:44 |
 | 14 | [I Don't Wanna Know](https://open.spotify.com/track/6nMkOqB2XpHVF09Ogxn7DI) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Everything I Didn't Say](https://open.spotify.com/album/2KYarSTNNGsGXaq9vE1pjN) | 3:07 |
 | 15 | [Night Rider](https://open.spotify.com/track/2ZAVci8nZRqLEWV60mogWV) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Lonesome Drifter](https://open.spotify.com/album/64lDGn2XUSnXAncXh9Zzow) | 3:18 |
-| 16 | [Put the Whiskey Down](https://open.spotify.com/track/1u05RuJheZDOT2ZtbI2xGu) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD), [Edward Spear](https://open.spotify.com/artist/65iWIqBD7s2DIAby0GRPnm) | [Put the Whiskey Down](https://open.spotify.com/album/50yjk7G5rmB5eDsKViUjCD) | 3:24 |
+| 16 | [Put the Whiskey Down](https://open.spotify.com/track/1u05RuJheZDOT2ZtbI2xGu) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Put the Whiskey Down](https://open.spotify.com/album/50yjk7G5rmB5eDsKViUjCD) | 3:24 |
 | 17 | [Goin' Out Like That](https://open.spotify.com/track/4LmeUuO8RVxEERSKdmhjMe) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Goin' Out Like That](https://open.spotify.com/album/5nCueOlexV856TSMEmAPcS) | 2:58 |
 | 18 | [East Coast](https://open.spotify.com/track/4aFt8GeOqyZ2OtGwBsHY4x) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [East Coast](https://open.spotify.com/album/2ox0IEYLKRdPGNw1gPkW97) | 3:17 |
 | 19 | [Whiskey River](https://open.spotify.com/track/3j00wpBSw1REoxrez4Olrq) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Whiskey River](https://open.spotify.com/album/10vt8HkSt4mGFYK4NSHlXg) | 2:41 |

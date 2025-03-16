@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 
 > This is Shania Twain\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,783 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,806 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 32 | [Waking Up Dreaming](https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Waking Up Dreaming](https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn) | 3:18 |
 | 33 | [What Made You Say That \- Single Version](https://open.spotify.com/track/2ITLIytT1VERgqERFU9bG4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Shania Twain](https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz) | 2:59 |
 | 34 | [Life's About To Get Good](https://open.spotify.com/track/4h5uOWibuxo0qrtejla7Pb) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Now \(Deluxe\)](https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD) | 3:40 |
-| 35 | [Home Ain't Where His Heart Is \(Anymore\)](https://open.spotify.com/track/43C32gFFER5nS4LJffpEPZ) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:13 |
-| 36 | [Legends Never Die \- with Shania Twain](https://open.spotify.com/track/5iG3DidIjI5wUqNowgmXQb) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Show Pony](https://open.spotify.com/album/39R5c82ytTeEF85kmJTtNT) | 3:52 |
+| 35 | [Legends Never Die \- with Shania Twain](https://open.spotify.com/track/5iG3DidIjI5wUqNowgmXQb) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Show Pony](https://open.spotify.com/album/39R5c82ytTeEF85kmJTtNT) | 3:52 |
+| 36 | [Home Ain't Where His Heart Is \(Anymore\)](https://open.spotify.com/track/43C32gFFER5nS4LJffpEPZ) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:13 |
 | 37 | [Nah! \- Red Version](https://open.spotify.com/track/4etvQadS9nSmBNAWrwJod6) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 4:08 |
 | 38 | [Don't! \- Greatest Hits Version](https://open.spotify.com/track/6dPa3p9WGzvxDLOovJf8pH) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Don't!](https://open.spotify.com/album/79a6iHklq4kX2PKvxKPri3) | 3:58 |
 | 39 | [It Only Hurts When I'm Breathing \- Red Version](https://open.spotify.com/track/4vumsuBIb2nEFKLuNaOeGO) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Blue Versions\)](https://open.spotify.com/album/0VB5ymCq0odyXi4YWuoNB0) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 49 | [In My Car \(I'll Be The Driver\) \- Red Version](https://open.spotify.com/track/4MWNs5JLZRkn8IczZo8wru) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 3:16 |
 | 50 | [You're Still The One](https://open.spotify.com/track/6zoCGLQJPcecedGcbAzdkT) | [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Encontros Pelo Caminho](https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke) | 3:34 |
 
-Snapshot ID: `Z9IgAAAAAAB/cW51HWVrMiMIeIDIQc2e`
+Snapshot ID: `Z9NxgAAAAADknOPsONKe4Y4E3t+IQn69`

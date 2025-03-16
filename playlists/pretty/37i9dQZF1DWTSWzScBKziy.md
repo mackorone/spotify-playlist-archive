@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > All new Contemporary Christian songs on the rise! Cover: Dan Bremnes
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,993 likes - 85 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,066 likes - 85 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

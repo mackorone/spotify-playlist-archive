@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 
 > Get ready for a full\-body workout
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,058 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,074 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 | 8 | [Bison](https://open.spotify.com/track/6Pi63q4LPHNqe3hxAxtG1c) | [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Extent!](https://open.spotify.com/album/76AJlhZr2JTIZxt02gx6x2) | 2:12 |
 | 9 | [BROSKI](https://open.spotify.com/track/3pliB4yT7hYbwBI6qycYtg) | [Veer Sandhu](https://open.spotify.com/artist/2X1Bu6jg2Se8OclSxn4byQ), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [BROSKI](https://open.spotify.com/album/0bMlUYMYxF07MlN3RkNlik) | 2:37 |
 | 10 | [Proper Patola](https://open.spotify.com/track/39ujbBjTwwqUFySaCYDMMT) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Namaste England \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6qokplIH6RyEbm9Q2DiBQB) | 2:58 |
-| 11 | [Brown Munde](https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Brown Munde](https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs) | 4:14 |
-| 12 | [Snake](https://open.spotify.com/track/5Hbcsj2iTcsETphClTi4Wq) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Snake](https://open.spotify.com/album/7nFkbtIGw5DqUV5MSFZBip) | 2:20 |
+| 11 | [Snake](https://open.spotify.com/track/5Hbcsj2iTcsETphClTi4Wq) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Snake](https://open.spotify.com/album/7nFkbtIGw5DqUV5MSFZBip) | 2:20 |
+| 12 | [Brown Munde](https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Brown Munde](https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs) | 4:14 |
 | 13 | [Take It Easy](https://open.spotify.com/track/5si4xdFplkXAydKfFe1xXa) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:30 |
 | 14 | [Obsessed](https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru) | [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Obsessed](https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu) | 3:10 |
 | 15 | [MEDAL](https://open.spotify.com/track/4K5aBuakMjnDhFa56CmlHC) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [MEDAL](https://open.spotify.com/album/1UWSQ9JqRDlPfFMR89J9kf) | 2:13 |

@@ -1,6 +1,6 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 267249,
+  "num_followers": 267283,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Un Panteon Muy Vivo",
+        "url": "https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 423360,
+      "name": "La Carencia",
+      "url": "https://open.spotify.com/track/2UalqFij5ANcOwrPm9CtPb"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "This is Not America (feat. Ibeyi)",
         "url": "https://open.spotify.com/album/5J11N6p7TBOMPE5bg9mbax"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 231332,
       "name": "This is Not America (feat. Ibeyi)",
       "url": "https://open.spotify.com/track/7d8LusdMBU3yWUSWBpETjG"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Un Panteon Muy Vivo",
-        "url": "https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 423360,
-      "name": "La Carencia",
-      "url": "https://open.spotify.com/track/2UalqFij5ANcOwrPm9CtPb"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -523,18 +523,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Vengo",
-        "url": "https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua"
+        "name": "La Bala",
+        "url": "https://open.spotify.com/album/2zKOLLaPdOm8gouCwbzkgF"
       },
       "artists": [
         {
           "name": "Ana Tijoux",
           "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 184378,
-      "name": "Antipatriarca",
-      "url": "https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z"
+      "duration_ms": 253360,
+      "name": "Sacar la Voz",
+      "url": "https://open.spotify.com/track/1tR0tdHtTapWhGkUAEfgVR"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -555,22 +559,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Pateando Piedras",
-        "url": "https://open.spotify.com/album/6RctuyYdvP65YaFZMwv9Xo"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
-        }
-      ],
-      "duration_ms": 296040,
-      "name": "Por Qu\u00e9 Los Ricos",
-      "url": "https://open.spotify.com/track/0GvT2AUiVLteoFm11XgdjL"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "El Diablito",
         "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
       },
@@ -583,6 +571,22 @@
       "duration_ms": 280933,
       "name": "Aqu\u00ed No Pasa Nada",
       "url": "https://open.spotify.com/track/3fwn1dl9oo9tbUWCGzhJXx"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Pateando Piedras",
+        "url": "https://open.spotify.com/album/6RctuyYdvP65YaFZMwv9Xo"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "duration_ms": 296040,
+      "name": "Por Qu\u00e9 Los Ricos",
+      "url": "https://open.spotify.com/track/0GvT2AUiVLteoFm11XgdjL"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -659,22 +663,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "La Bala",
-        "url": "https://open.spotify.com/album/2zKOLLaPdOm8gouCwbzkgF"
+        "name": "Vengo",
+        "url": "https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua"
       },
       "artists": [
         {
           "name": "Ana Tijoux",
           "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 253360,
-      "name": "Sacar la Voz",
-      "url": "https://open.spotify.com/track/1tR0tdHtTapWhGkUAEfgVR"
+      "duration_ms": 184378,
+      "name": "Antipatriarca",
+      "url": "https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "His Great Songs",
-        "url": "https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX"
-      },
-      "artists": [
-        {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
-        }
-      ],
-      "duration_ms": 188066,
-      "name": "Luna Tucumana",
-      "url": "https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 220533,
       "name": "Los Dinosaurios - Live",
       "url": "https://open.spotify.com/track/0BWhmRyHvBLMcEJDAos2PD"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "His Great Songs",
+        "url": "https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX"
+      },
+      "artists": [
+        {
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
+        }
+      ],
+      "duration_ms": 188066,
+      "name": "Luna Tucumana",
+      "url": "https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Cantos revolucionarios de america latina",
-        "url": "https://open.spotify.com/album/2bD2Qk8NESRcHDcMmoHg9k"
-      },
-      "artists": [
-        {
-          "name": "Soledad Bravo",
-          "url": "https://open.spotify.com/artist/6wrOOWIlmDTI9G5MSpAuh2"
-        }
-      ],
-      "duration_ms": 270160,
-      "name": "Hasta siempre",
-      "url": "https://open.spotify.com/track/4f131ZKqnk9SudTFYcnJU7"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Sin Fronteras",
         "url": "https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 456933,
       "name": "Los desaparecidos",
       "url": "https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Cantos revolucionarios de america latina",
+        "url": "https://open.spotify.com/album/2bD2Qk8NESRcHDcMmoHg9k"
+      },
+      "artists": [
+        {
+          "name": "Soledad Bravo",
+          "url": "https://open.spotify.com/artist/6wrOOWIlmDTI9G5MSpAuh2"
+        }
+      ],
+      "duration_ms": 270160,
+      "name": "Hasta siempre",
+      "url": "https://open.spotify.com/track/4f131ZKqnk9SudTFYcnJU7"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Funkybar\u00edtico Hed\u00f3nico Fant\u00e1stico",
-        "url": "https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL"
-      },
-      "artists": [
-        {
-          "name": "Chancho En Piedra",
-          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
-        }
-      ],
-      "duration_ms": 240716,
-      "name": "El Mundo Que Nos Toc\u00f3 Vivir",
-      "url": "https://open.spotify.com/track/1KEi9GBOe3bXTj1WGM282v"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Un Le\u00f3n D-Mente",
         "url": "https://open.spotify.com/album/7pjA0y6GECeG1Qx731TSaz"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 346946,
       "name": "La Memoria",
       "url": "https://open.spotify.com/track/3GReYwQCbq9Y7FOrSVDAxQ"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Funkybar\u00edtico Hed\u00f3nico Fant\u00e1stico",
+        "url": "https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL"
+      },
+      "artists": [
+        {
+          "name": "Chancho En Piedra",
+          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
+        }
+      ],
+      "duration_ms": 240716,
+      "name": "El Mundo Que Nos Toc\u00f3 Vivir",
+      "url": "https://open.spotify.com/track/1KEi9GBOe3bXTj1WGM282v"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Somos Hermanas",
-        "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 230877,
-      "name": "Somos Hermanas",
-      "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Split",
         "url": "https://open.spotify.com/album/378dF8Ci1JMWc8J3yf0vf1"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 220520,
       "name": "Promesas y Perdones",
       "url": "https://open.spotify.com/track/5frSqRBs5NdRrjoZSCUUX7"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Somos Hermanas",
+        "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 230877,
+      "name": "Somos Hermanas",
+      "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Ellas",
-        "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
-      },
-      "artists": [
-        {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
-        },
-        {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
-        }
-      ],
-      "duration_ms": 284413,
-      "name": "Ellas",
-      "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "De Vuelta a Casa: Ayotzinapa Somos Todxs",
         "url": "https://open.spotify.com/album/3qx8RpeMgbrukkOSRwoLPx"
       },
@@ -1503,6 +1483,26 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Ellas",
+        "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
+      },
+      "artists": [
+        {
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        },
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        }
+      ],
+      "duration_ms": 284413,
+      "name": "Ellas",
+      "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "La Dieta del Lagarto",
         "url": "https://open.spotify.com/album/2TBrmbIm2ks1iQ6XExMyMw"
       },
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/0y9Oz2HQSp0zUEcHN0TguN"
-      },
-      "artists": [
-        {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
-        }
-      ],
-      "duration_ms": 193933,
-      "name": "Plegaria A Un Labrador",
-      "url": "https://open.spotify.com/track/6RrcBK5hXE6q11tkjbdQ4Z"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Yo No Quiero Volverme Tan Loco (En Vivo)",
         "url": "https://open.spotify.com/album/3w5AZnbgckUFu8kcH79DAr"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 257666,
       "name": "Canci\u00f3n De Alicia En El Pa\u00eds - En Vivo",
       "url": "https://open.spotify.com/track/26RdRBgT6NBI3higAhwUfU"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/0y9Oz2HQSp0zUEcHN0TguN"
+      },
+      "artists": [
+        {
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+        }
+      ],
+      "duration_ms": 193933,
+      "name": "Plegaria A Un Labrador",
+      "url": "https://open.spotify.com/track/6RrcBK5hXE6q11tkjbdQ4Z"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Regal\u00e9 Mis Ojos",
-        "url": "https://open.spotify.com/album/5RvjjlORiYbYh5NRSoTybS"
-      },
-      "artists": [
-        {
-          "name": "Nano Stern",
-          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
-        }
-      ],
-      "duration_ms": 260429,
-      "name": "Regal\u00e9 Mis Ojos",
-      "url": "https://open.spotify.com/track/0OQRpjoRZUBSN7q3VZ1znH"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Bella Ciao",
         "url": "https://open.spotify.com/album/5KHRo5czZnhlAfQ2e4840e"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 122436,
       "name": "Bella Ciao",
       "url": "https://open.spotify.com/track/6Jb5YWfJNHqadAeeSijMEU"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Regal\u00e9 Mis Ojos",
+        "url": "https://open.spotify.com/album/5RvjjlORiYbYh5NRSoTybS"
+      },
+      "artists": [
+        {
+          "name": "Nano Stern",
+          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
+        }
+      ],
+      "duration_ms": 260429,
+      "name": "Regal\u00e9 Mis Ojos",
+      "url": "https://open.spotify.com/track/0OQRpjoRZUBSN7q3VZ1znH"
     },
     {
       "added_at": "2024-05-10 03:00:00",

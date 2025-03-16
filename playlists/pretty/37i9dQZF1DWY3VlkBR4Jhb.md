@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3VlkBR4Jhb.md) - [plain]
 
 > The essential works of Franz Schubert.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,656 likes - 67 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,678 likes - 67 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

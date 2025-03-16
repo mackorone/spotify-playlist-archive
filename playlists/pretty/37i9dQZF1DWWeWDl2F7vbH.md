@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWeWDl2F7vbH.md) - [plain]
 
 > Celebrating the iconic tracks from the black queer club scene in 1980s and 1990s Chicago \- the defining era of house music\. Cover: Frankie Knuckles
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,799 likes - 50 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,842 likes - 50 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

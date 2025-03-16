@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 238861,
+  "num_followers": 238898,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAABUWQuXPCsKh1HyBOgFeSwG",
+  "snapshot_id": "Z9NxgAAAAAALr2fZliAjrUi4EAuqfyTG",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yo No Me Quiero Morir",
+        "url": "https://open.spotify.com/album/4z1fFOEDva3J9sggX3kwK0"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "Yo No Me Quiero Morir",
+      "url": "https://open.spotify.com/track/5xXaJHNtyBghk2F6AnP2PI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Guapa!",
         "url": "https://open.spotify.com/album/3W8rsvzUTJBSFoyPDCvCZo"
       },
@@ -223,26 +243,6 @@
       "duration_ms": 314181,
       "name": "Guapa!",
       "url": "https://open.spotify.com/track/5h15nCM30HBL6DKnfQwcFg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yo No Me Quiero Morir",
-        "url": "https://open.spotify.com/album/4z1fFOEDva3J9sggX3kwK0"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 203546,
-      "name": "Yo No Me Quiero Morir",
-      "url": "https://open.spotify.com/track/5xXaJHNtyBghk2F6AnP2PI"
     },
     {
       "added_at": null,
@@ -635,42 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Circe / \u201cOjos Tristes\u201d",
-        "url": "https://open.spotify.com/album/5J3vnuRHFpiA69ogWUksI5"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Circe / \u201cOjos Tristes\u201d",
-      "url": "https://open.spotify.com/track/2rFslJ6eaIEgxLyUXDmimi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gordo Fu",
-          "url": "https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "No Hay Palabras Bonitas",
-      "url": "https://open.spotify.com/track/3XGPIhoTG09ItjxNtdtEnE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buen Pez",
         "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
       },
@@ -695,6 +659,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gordo Fu",
+          "url": "https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "No Hay Palabras Bonitas",
+      "url": "https://open.spotify.com/track/3XGPIhoTG09ItjxNtdtEnE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Circe / \u201cOjos Tristes\u201d",
+        "url": "https://open.spotify.com/album/5J3vnuRHFpiA69ogWUksI5"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Circe / \u201cOjos Tristes\u201d",
+      "url": "https://open.spotify.com/track/2rFslJ6eaIEgxLyUXDmimi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El \u00daltimo Tango",
         "url": "https://open.spotify.com/album/7uvZ0u4gg8xAm8b9lps07W"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 250382,
       "name": "El \u00daltimo Tango",
       "url": "https://open.spotify.com/track/6pUeqmlV162GbTx76DbodN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Brujas y Otros H\u00e1bitos",
+        "url": "https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Alejandria / \"Ella Es Nost\u00e1lgica\"",
+      "url": "https://open.spotify.com/track/3bQ1dv2HzXWuniEYsyEE5x"
     },
     {
       "added_at": null,
@@ -759,22 +775,6 @@
       "duration_ms": 248000,
       "name": "Tardes",
       "url": "https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Brujas y Otros H\u00e1bitos",
-        "url": "https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Alejandria / \"Ella Es Nost\u00e1lgica\"",
-      "url": "https://open.spotify.com/track/3bQ1dv2HzXWuniEYsyEE5x"
     },
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cada Vez",
+        "url": "https://open.spotify.com/album/4eNiNe8uTe8LK410C4OOTJ"
+      },
+      "artists": [
+        {
+          "name": "Desert Ni\u00f1os",
+          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Cada Vez",
+      "url": "https://open.spotify.com/track/63Fb4Ug0IreGmhoKf6PVrt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cora",
         "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
       },
@@ -867,22 +887,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cada Vez",
-        "url": "https://open.spotify.com/album/4eNiNe8uTe8LK410C4OOTJ"
+        "name": "De Brujas y Otros H\u00e1bitos",
+        "url": "https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd"
       },
       "artists": [
-        {
-          "name": "Desert Ni\u00f1os",
-          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
-        },
         {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         }
       ],
-      "duration_ms": 207000,
-      "name": "Cada Vez",
-      "url": "https://open.spotify.com/track/63Fb4Ug0IreGmhoKf6PVrt"
+      "duration_ms": 155750,
+      "name": "Pachamama / \"Bendecido\"",
+      "url": "https://open.spotify.com/track/1VeKurzW12gmUhLsjY8q0s"
     },
     {
       "added_at": null,
@@ -907,22 +923,6 @@
       "duration_ms": 182200,
       "name": "Vegetales Con Pescado",
       "url": "https://open.spotify.com/track/79E00piO2jJc98iBP9mw7m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Brujas y Otros H\u00e1bitos",
-        "url": "https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 155750,
-      "name": "Pachamama / \"Bendecido\"",
-      "url": "https://open.spotify.com/track/1VeKurzW12gmUhLsjY8q0s"
     },
     {
       "added_at": null,
@@ -1031,26 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tiempo Cura",
-        "url": "https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Adan Golden Ganga",
-          "url": "https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH"
-        }
-      ],
-      "duration_ms": 208564,
-      "name": "El Tiempo Cura",
-      "url": "https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Brujas y Otros H\u00e1bitos",
         "url": "https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 256000,
       "name": "Mar\u00eda / \"Aroma de Jard\u00edn\"",
       "url": "https://open.spotify.com/track/4EpisBsyznGvegvu1luper"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tiempo Cura",
+        "url": "https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Adan Golden Ganga",
+          "url": "https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH"
+        }
+      ],
+      "duration_ms": 208564,
+      "name": "El Tiempo Cura",
+      "url": "https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy"
     }
   ],
   "unique_name": "This Is Charles Ans",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: ARTBAT, Vintage Culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,912 likes - 120 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,928 likes - 120 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

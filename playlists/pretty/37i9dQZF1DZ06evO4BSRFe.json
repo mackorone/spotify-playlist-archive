@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Machos. The essential tracks, all in one playlist.",
-  "num_followers": 63613,
+  "num_followers": 63642,
   "original_name": "This Is Banda Machos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAADJGgA/Nj33maRQblGmZLbs",
+  "snapshot_id": "Z9NxgAAAAACwK4jVTm0MwLBycaP2RfNs",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 2) [USA]",
-        "url": "https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 185146,
-      "name": "No soy monedita de oro",
-      "url": "https://open.spotify.com/track/3ndJWgaFnw92IeICfSlTrP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los machos tambi\u00e9n lloran",
         "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 188506,
       "name": "Motivos",
       "url": "https://open.spotify.com/track/65lfzguWycfHortBjpZAwr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 2) [USA]",
+        "url": "https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 185146,
+      "name": "No soy monedita de oro",
+      "url": "https://open.spotify.com/track/3ndJWgaFnw92IeICfSlTrP"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las 20 Poderosas (USA)",
-        "url": "https://open.spotify.com/album/6ZvT8iE0JiuguDiohKhcEF"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "La suegra",
-      "url": "https://open.spotify.com/track/0YIyyTbaIM0MYrfOLhvlrI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los machos tambi\u00e9n lloran",
         "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 177373,
       "name": "Cumbia torera",
       "url": "https://open.spotify.com/track/4DRCXdm5KJ76R2sWG4hwcD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las 20 Poderosas (USA)",
+        "url": "https://open.spotify.com/album/6ZvT8iE0JiuguDiohKhcEF"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "La suegra",
+      "url": "https://open.spotify.com/track/0YIyyTbaIM0MYrfOLhvlrI"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 156533,
-      "name": "Esclavo y amo",
-      "url": "https://open.spotify.com/track/6M9PBbQwZ73hKQoQBq2i3X"
+      "duration_ms": 174866,
+      "name": "Gracias mujer",
+      "url": "https://open.spotify.com/track/6ky62QbRkQK6zYNuHexica"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 174866,
-      "name": "Gracias mujer",
-      "url": "https://open.spotify.com/track/6ky62QbRkQK6zYNuHexica"
+      "duration_ms": 156533,
+      "name": "Esclavo y amo",
+      "url": "https://open.spotify.com/track/6M9PBbQwZ73hKQoQBq2i3X"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Batalla De Bandas Banda El Recodo Vs. Banda Machos",
-        "url": "https://open.spotify.com/album/1SctrZWYQz9kCm8uUXWxw6"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 189266,
-      "name": "Traficantes Michoacanos",
-      "url": "https://open.spotify.com/track/4dZGvGTg2Jay6IfM30d0GT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Estrellas de la Musica Mexicana (USA)",
         "url": "https://open.spotify.com/album/2JOLFDLR0yxFWPQ2V8f2tY"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 216306,
       "name": "Mi guitarra y yo",
       "url": "https://open.spotify.com/track/0edkcVjFnMaLouhsMHlcXw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Batalla De Bandas Banda El Recodo Vs. Banda Machos",
+        "url": "https://open.spotify.com/album/1SctrZWYQz9kCm8uUXWxw6"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 189266,
+      "name": "Traficantes Michoacanos",
+      "url": "https://open.spotify.com/track/4dZGvGTg2Jay6IfM30d0GT"
     },
     {
       "added_at": null,

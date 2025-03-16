@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuScfAxLGSt.md) - [plain]
 
 > Enjoy music from "Free!"! /水泳と青春と絆の物語「Free!」の世界をプレイリストで。©おおじこうじ・京都アニメーション／岩鳶高校水泳部
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,430 likes - 105 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,444 likes - 105 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

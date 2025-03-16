@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 
 > Así suena la música urbana de Panamá hoy\. Foto: Boza, Greeicy
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,121 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,151 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 | 14 | [BESITOS](https://open.spotify.com/track/18D77Y4jjTwk4IASWhzJNP) | [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr) | [BESITOS](https://open.spotify.com/album/0RktZ73zFuP7yTfkI3yJxX) | 2:28 |
 | 15 | [TITI](https://open.spotify.com/track/4dmK0F5E0jVMUPgY5tMkI3) | [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4) | [TITI](https://open.spotify.com/album/7H26CGe2Aom4hk3RucV8vU) | 3:07 |
 | 16 | [Cabrón](https://open.spotify.com/track/78Sic9yPWUuX89sDiPTZjH) | [Drezzel](https://open.spotify.com/artist/1k6emurw8qrq6voNUqLfNh), [Dria Thornton](https://open.spotify.com/artist/3hHsa1zuu5nvZMFhRykljj), [WE$TPHAL](https://open.spotify.com/artist/0XdcA1jN8Bkvzdsvj1Xz8D) | [Cabrón](https://open.spotify.com/album/50w7GUovplHUR3qEnfAfNf) | 3:49 |
-| 17 | [Benjamin](https://open.spotify.com/track/49MGvf2N9WkcZV2bwUj3XO) | [Don Pablo Mures](https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [The Boys C](https://open.spotify.com/artist/7hpjP1bD7QrBqYtZ4leZIz) | [Benjamin](https://open.spotify.com/album/6S2XNtbYSd8aAIXJja8Emb) | 4:11 |
+| 17 | [Benjamin](https://open.spotify.com/track/49MGvf2N9WkcZV2bwUj3XO) | [Don Pablo Mures](https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [El Boys C](https://open.spotify.com/artist/3B1GmppngulhD9aMDzTLs4) | [Benjamin](https://open.spotify.com/album/6S2XNtbYSd8aAIXJja8Emb) | 4:11 |
 | 18 | [Party En Mi Casa](https://open.spotify.com/track/5PEzhJIvmjFCFZcFZRze9S) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Sonrisas Tristes](https://open.spotify.com/album/4zzCQHjlhEEAidzfNRONJL) | 2:37 |
 | 19 | [Energias](https://open.spotify.com/track/2mfuy75A61Qnx3qApmZWMt) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Par De Quina](https://open.spotify.com/album/36dIYKnpAFMPUr6pBm8rob) | 3:18 |
 | 20 | [Lv los Botines](https://open.spotify.com/track/1qE6wkqpuD1UClL9HvOEDd) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [VLA Music Entertainment](https://open.spotify.com/artist/2EghqGAqc6ZSjkgqzUOeKC) | [Lv los Botines](https://open.spotify.com/album/60BDPAz8rAQuqH4HKfDTMD) | 2:46 |

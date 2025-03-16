@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 11,961 likes - 29 songs - 2 hr 4 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 11,973 likes - 29 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 11 | [people person](https://open.spotify.com/track/0YxsxZnnnKLKR0qOTHMk9A) | [Mclusky](https://open.spotify.com/artist/3xA9AB0f4BVjsSlyQc12iE) | [people person](https://open.spotify.com/album/0XLKvesRdOIJenxNsDiOlN) | 3:19 |
 | 12 | [The House](https://open.spotify.com/track/5Nkl5lMpN2QZ0KBkbf9RUj) | [Florida Man](https://open.spotify.com/artist/6EPsHGTJDk8dcqLdawsJyh) | [The House](https://open.spotify.com/album/0VQwHwgNPgIRULmrFjPZ1P) | 3:55 |
 | 13 | [Arrowhead](https://open.spotify.com/track/59VAMnorUAUOTzINy5KEpD) | [Charmer](https://open.spotify.com/artist/6vXndytZhDoSVuUIo3rOYc) | [Arrowhead](https://open.spotify.com/album/2wIc6Q44MWXDSxw8McR3pr) | 2:39 |
-| 14 | [GOOD CREDIT](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
+| 14 | [GOOD CREDIT \(with Kendrick Lamar\)](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
 | 15 | [Dominator](https://open.spotify.com/track/18YinpCHlLGQW32APCeiSA) | [clipping.](https://open.spotify.com/artist/5HJ2kX5UTwN4Ns8fB5Rn1I), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Jonathan Snipes](https://open.spotify.com/artist/5v69lcKunkvGk1SimYwL0M), [William Hutson](https://open.spotify.com/artist/709RUroHgigfxfOrPwVDAm) | [Dead Channel Sky](https://open.spotify.com/album/2AkszlufP2t2ZHfC8NKKvN) | 2:31 |
 | 16 | [S is For](https://open.spotify.com/track/2Tkeegscxs2qdrYGrqNjFj) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56) | [S is For](https://open.spotify.com/album/42rRciPqF6XnsDQUvVESKW) | 2:43 |
 | 17 | [Distant Constellations and the Psychedelic Incarceration](https://open.spotify.com/track/6PWap0x6fV8mGE7VZjch2n) | [Rwake](https://open.spotify.com/artist/2rg36V36COkrnBqhVHlYnh) | [The Return Of Magik](https://open.spotify.com/album/1886T3N5i6EMpvnW04wt1x) | 13:55 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Where faith meets R&B\. Cover: Lee Vasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,855 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,951 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [My Bad \- Part II](https://open.spotify.com/track/092ma5x9TwMidISolstbr3) | [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf) | [My Bad \(Part II\)](https://open.spotify.com/album/5hkYGn50bs9bGn34JT6fJW) | 2:22 |
+| 1 | [My Bad Part II](https://open.spotify.com/track/092ma5x9TwMidISolstbr3) | [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf) | [My Bad Part II](https://open.spotify.com/album/5hkYGn50bs9bGn34JT6fJW) | 2:22 |
 | 2 | [GIVER](https://open.spotify.com/track/7c4uc8olvz5S0yucOrM6pn) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [GIVER](https://open.spotify.com/album/4NJLvIp4vtBQP0uqqt1Ag1) | 3:08 |
 | 3 | [Fire](https://open.spotify.com/track/0d1df9f5MFgHIuUhBsAZmR) | [Kodoku](https://open.spotify.com/artist/2mDygmvuNzsZhLvMfEUfmu) | [Fire](https://open.spotify.com/album/6nRABaRj5iD6cDRWIIf84y) | 2:53 |
 | 4 | [Speak](https://open.spotify.com/track/1v8O3mM0jWxMFjmRLAlWfw) | [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [Speak](https://open.spotify.com/album/7iYoUb3wTE112IX12irwR0) | 3:35 |

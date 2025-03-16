@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,227 likes - 114 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,231 likes - 114 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 42 | [Perfect To Me \- Acoustic](https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Perfect to Me \(Acoustic\)](https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v) | 3:33 |
 | 43 | [Love Her](https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:13 |
 | 44 | [Fired Up](https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Fired Up](https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP) | 3:21 |
-| 45 | [Red](https://open.spotify.com/track/1ZCCVA90RcBOyiPPJPoNd6) | [Daniel Merriweather](https://open.spotify.com/artist/6HD2mo0Gz8wd8IbOXYwUfN) | [Love & War](https://open.spotify.com/album/7esBRX55cujeL0iSZWu0U6) | 3:53 |
-| 46 | [Rose](https://open.spotify.com/track/5UDkdxN87TOPiL7cTNkh7l) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [\[β\]](https://open.spotify.com/album/6z0zPy2FVo3zhpcFoVwuWF) | 4:13 |
+| 45 | [Rose](https://open.spotify.com/track/5UDkdxN87TOPiL7cTNkh7l) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [\[β\]](https://open.spotify.com/album/6z0zPy2FVo3zhpcFoVwuWF) | 4:13 |
+| 46 | [Red](https://open.spotify.com/track/1ZCCVA90RcBOyiPPJPoNd6) | [Daniel Merriweather](https://open.spotify.com/artist/6HD2mo0Gz8wd8IbOXYwUfN) | [Love & War](https://open.spotify.com/album/7esBRX55cujeL0iSZWu0U6) | 3:53 |
 | 47 | [Wild Enough](https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Wild Enough](https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4) | 3:06 |
 | 48 | [Hey Honey \(fra filmen Honey\)](https://open.spotify.com/track/0e1p08mJJyCQU7DRQu7VWK) | [Selma Sol Í Dali Pape](https://open.spotify.com/artist/0FD7P40OJQBG6RrjI7IKnL) | [Hey Honey \(fra filmen Honey\)](https://open.spotify.com/album/2SZVaS11dDhRK8aDHShYA7) | 3:02 |
 | 49 | [Rockabye \- Acoustic Version](https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Rockabye \(Acoustic\)](https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW) | 2:37 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 71 | [Hardest Thing](https://open.spotify.com/track/6uiZOA1aQzvuNzx4M2mqSl) | [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Eternal, Pt\. I](https://open.spotify.com/album/6rRX4DYKPWgJgdo1uwDDQg) | 4:11 |
 | 72 | [Weak \- Acoustic](https://open.spotify.com/track/5RvpcF6WipmIipuZbjJkVV) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ), [May Raya](https://open.spotify.com/artist/30I99Rrr7vPR38I9Wx8oQ9) | [Weak](https://open.spotify.com/album/4KeIxMxenWyNIfusGxKCb7) | 3:21 |
 | 73 | [Until The Hurting Is Gone](https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [1975](https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ) | 3:17 |
-| 74 | [Call Your Girlfriend](https://open.spotify.com/track/5hs8G87IGQq0Sz37oY9efX) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Call Your Girlfriend](https://open.spotify.com/album/1ecFIwEV47tnDAQLAyH8vu) | 3:14 |
-| 75 | [Make Me \(Cry\) \- Acoustic](https://open.spotify.com/track/4J87Y0ggs18DNP7XMn3f0X) | [Boreal](https://open.spotify.com/artist/0fov7ClSP5KDEJUbE0D0VI) | [Make Me \(Cry\) \[Acoustic\]](https://open.spotify.com/album/1cOw8MxemGm0BsJfHAKAo0) | 3:01 |
+| 74 | [Make Me \(Cry\) \- Acoustic](https://open.spotify.com/track/4J87Y0ggs18DNP7XMn3f0X) | [Boreal](https://open.spotify.com/artist/0fov7ClSP5KDEJUbE0D0VI) | [Make Me \(Cry\) \[Acoustic\]](https://open.spotify.com/album/1cOw8MxemGm0BsJfHAKAo0) | 3:01 |
+| 75 | [Call Your Girlfriend](https://open.spotify.com/track/5hs8G87IGQq0Sz37oY9efX) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Call Your Girlfriend](https://open.spotify.com/album/1ecFIwEV47tnDAQLAyH8vu) | 3:14 |
 | 76 | [Heartbeat](https://open.spotify.com/track/2Cj2XFOMBT8IrT0aapNTee) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Heartbeat](https://open.spotify.com/album/052xFq8blHwU5tv1kjeiak) | 3:20 |
 | 77 | [Black Beatles \- Acoustic](https://open.spotify.com/track/7tOwlsbz3lmbEjxmury4qZ) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Black Beatles \(Acoustic\)](https://open.spotify.com/album/3zQYmL17iTyCk3CUOTwPDf) | 3:31 |
 | 78 | [Hey Ya! \- Acoustic](https://open.spotify.com/track/4qJq5V3Ca2X615wxNV0QWB) | [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5) | [Hey Ya!](https://open.spotify.com/album/6T2TpTzKg9Q2ZEwBLZK92G) | 3:34 |
@@ -93,16 +93,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 83 | [No Fixed Abode](https://open.spotify.com/track/2kzWnWUUsn3o44PbOzFSjc) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [No Fixed Abode](https://open.spotify.com/album/75L4noRttyCn9pLojFp2IF) | 3:24 |
 | 84 | [Until The Morning Light](https://open.spotify.com/track/1kbp6nfmdzdY9cEdEzuK4Q) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [Until The Morning Light](https://open.spotify.com/album/4cVEjngO8IoVReFVgCd9DG) | 3:08 |
 | 85 | [Before](https://open.spotify.com/track/0cRzM3aHc01vnHIT3ImB3O) | [Ulrik Munther](https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM) | [Before](https://open.spotify.com/album/4PThhV9t25KFZAgmg680z8) | 4:20 |
-| 86 | [New Eyes \- Acoustic](https://open.spotify.com/track/2yKmYCA9JECFdN06Imdp0C) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Planets](https://open.spotify.com/album/2CarDiOUtxpQx9iaFlLA1O) | 3:09 |
-| 87 | [May I Have This Dance](https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [May I Have This Dance](https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC) | 3:31 |
+| 86 | [May I Have This Dance](https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [May I Have This Dance](https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC) | 3:31 |
+| 87 | [New Eyes \- Acoustic](https://open.spotify.com/track/2yKmYCA9JECFdN06Imdp0C) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Planets](https://open.spotify.com/album/2CarDiOUtxpQx9iaFlLA1O) | 3:09 |
 | 88 | [A Little More](https://open.spotify.com/track/75MKHk9JSlu8MOixmQ982v) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [A Little More](https://open.spotify.com/album/60A6xYVqBypnHNwdQnjlrx) | 2:24 |
 | 89 | [you up?](https://open.spotify.com/track/4sDt091Uz1G7Nnq9xTRtMn) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [The Things I Can't Take With Me](https://open.spotify.com/album/3PSY4nGEzBEDmrb1UQL4iJ) | 1:14 |
 | 90 | [Love Is In The Picture](https://open.spotify.com/track/7MUSG8BL1SVMv4fyfMPRB3) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Love Is In The Picture](https://open.spotify.com/album/2D8NA9YspchD0IdlnmNjkw) | 3:38 |
 | 91 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
 | 92 | [Say Goodnight](https://open.spotify.com/track/4xYTaeo4725e2XJTJYz3km) | [Freja Kirk](https://open.spotify.com/artist/6RkUXqTZlgi1qagWreJRgG) | [Say Goodnight](https://open.spotify.com/album/2SZ5OldmAx9zijGjLbSfor) | 2:46 |
 | 93 | [Let You Know](https://open.spotify.com/track/76vWvM44jeCgBKryBaLcqe) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Let You Know](https://open.spotify.com/album/4N9AuVTmDL04boSPuWksI9) | 3:10 |
-| 94 | [So Last Year](https://open.spotify.com/track/2EjmWm3yeQnjNisYR3SeQP) | [Magnus Münster](https://open.spotify.com/artist/1B5Ve8nZVrz3iRMwFnqEtn) | [So Last Year](https://open.spotify.com/album/3lOux7MSKA99Q9gF94ZLe2) | 3:25 |
-| 95 | [Lying To Yourself](https://open.spotify.com/track/7jpLx7Y8GCLvXwSQZ6qhQf) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Not That Special \- EP](https://open.spotify.com/album/2BaKMdx0fIY62NkZchjxKk) | 3:32 |
+| 94 | [Lying To Yourself](https://open.spotify.com/track/7jpLx7Y8GCLvXwSQZ6qhQf) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Not That Special \- EP](https://open.spotify.com/album/2BaKMdx0fIY62NkZchjxKk) | 3:32 |
+| 95 | [So Last Year](https://open.spotify.com/track/2EjmWm3yeQnjNisYR3SeQP) | [Magnus Münster](https://open.spotify.com/artist/1B5Ve8nZVrz3iRMwFnqEtn) | [So Last Year](https://open.spotify.com/album/3lOux7MSKA99Q9gF94ZLe2) | 3:25 |
 | 96 | [Feathers & Gasoline](https://open.spotify.com/track/3m7eo6EV3kkJwo6lmIBvkV) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90), [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Soulprints](https://open.spotify.com/album/0qovTAXnJUCwDspFQfT5k1) | 3:57 |
 | 97 | [Don't Wanna Know \- Acoustic Version](https://open.spotify.com/track/5l7gQEyycQWk10yVfXspVK) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Don't Wanna Know \(Acoustic Version\)](https://open.spotify.com/album/2pmiZkAmr1b35Aaf5cNCjY) | 3:03 |
 | 98 | [Sorry \- Live](https://open.spotify.com/track/2i4sEJNbfcEKtqU0dcY9O1) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Sorry \(Live\)](https://open.spotify.com/album/5wg6xwIm3iM5Fy1Et1KJH4) | 3:24 |

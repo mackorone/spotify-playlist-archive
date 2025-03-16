@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEr4IfnBNnly.md) - [plain]
 | 30 | [Please Just Wait](https://open.spotify.com/track/359QrJsYGzTGY7cJRw65HA) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Please Just Wait](https://open.spotify.com/album/3fqZKOBuPhGD1KVhe8WPBW) | 3:30 |
 | 31 | [Fine Lines](https://open.spotify.com/track/7vAe6XVRwfVjNq51ui5EfZ) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [No Path To Follow](https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ) | 3:53 |
 | 32 | [FINDING JOY](https://open.spotify.com/track/5EO6BbpRLsNvvGu89l9Z4x) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [FINDING JOY IN GREY SKIES: PART TWO](https://open.spotify.com/album/7hltHXLUrAImGEqdNw5OGL) | 1:08 |
-| 33 | [Cruel Intentions](https://open.spotify.com/track/5xpXXWREfd9x4juWhq280j) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/7Jo6Rt658T10xMMMA4Rbb5) | 3:50 |
-| 34 | [GOOD4U](https://open.spotify.com/track/3WVhiyLtF1pRkfn0ZWH1Ou) | [Lola Moxom](https://open.spotify.com/artist/108GZkpexhWFatGlQTbb1g) | [OXO](https://open.spotify.com/album/0Prm15tKRsBzDjkj9tIYOT) | 3:48 |
+| 33 | [GOOD4U](https://open.spotify.com/track/3WVhiyLtF1pRkfn0ZWH1Ou) | [Lola Moxom](https://open.spotify.com/artist/108GZkpexhWFatGlQTbb1g) | [OXO](https://open.spotify.com/album/0Prm15tKRsBzDjkj9tIYOT) | 3:48 |
+| 34 | [Cruel Intentions](https://open.spotify.com/track/5xpXXWREfd9x4juWhq280j) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/7Jo6Rt658T10xMMMA4Rbb5) | 3:50 |
 | 35 | [Know Better](https://open.spotify.com/track/6enN40hpEiicqIVjBf1Bvy) | [India Shan](https://open.spotify.com/artist/5U7ed4eqjReC376kSJKfs8), [Jake Elliott](https://open.spotify.com/artist/03ZNsipBqCaZxqC2VZpDNw) | [Know Better](https://open.spotify.com/album/7IJ9HLCyG6Qr2oFoE0f7mH) | 3:35 |
 | 36 | [Natural](https://open.spotify.com/track/3uwMHGr9MrULAHApB7ZeAS) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [No Path To Follow](https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ) | 4:18 |
 | 37 | [Coco Rouge](https://open.spotify.com/track/0b8icUet8OcAzKRWZcUrKI) | [Erin Bloomer](https://open.spotify.com/artist/5vPqlDBYNZiF5SrHGS6Cyt) | [Coco Rouge](https://open.spotify.com/album/5Uutgw648tiAnyBVGaP07t) | 3:27 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEr4IfnBNnly.md) - [plain]
 | 50 | [Reason in You](https://open.spotify.com/track/3qR86AzbWJLO6dZcsgBsXE) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/6AWSAFGksTbUeRaKhSUYLE) | 3:32 |
 | 51 | [Sorry Not Sorry](https://open.spotify.com/track/6sYDCx3rQZsadayyAuh8U8) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/6AWSAFGksTbUeRaKhSUYLE) | 2:55 |
 
-Snapshot ID: `AbsD4AAAAAAvO7aeDnKFGa/g0zgRUd2x`
+Snapshot ID: `AbsJlAAAAABTDydCfGUPOgiD1Y+yDa4C`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,362 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,368 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 39 | [ウミユリ海底譚](https://open.spotify.com/track/7d66NXUtZmUpHKYMgk9Q77) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 3:56 |
 | 40 | [QUEEN](https://open.spotify.com/track/4KXEPamxxfzDLG7Qv1eS4j) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [QUEEN](https://open.spotify.com/album/2AmHDRUOPKyrmVNZY8hyNq) | 2:21 |
 | 41 | [可愛いあの子が気にゐらない](https://open.spotify.com/track/2cljEZhP1PZcYHsitlCyW5) | [なるみや](https://open.spotify.com/artist/7DkhW1MaKKLwJTSC5TtVW3) | [可愛いあの子が気にゐらない](https://open.spotify.com/album/0VT7LIPGfvANx4jh5s11Ui) | 3:18 |
-| 42 | [混沌ブギ](https://open.spotify.com/track/5zc1HxKqQjGf9j46p1JM5P) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB) | [混沌ブギ](https://open.spotify.com/album/7ooHY1EZPOEZSq3oNWXXUQ) | 2:34 |
-| 43 | [人マニア](https://open.spotify.com/track/4H89WUjBaQMIiqcnMSVX1j) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [人マニア](https://open.spotify.com/album/0oUGAS1qyR8O5jbNe71uKn) | 2:07 |
+| 42 | [人マニア](https://open.spotify.com/track/4H89WUjBaQMIiqcnMSVX1j) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [人マニア](https://open.spotify.com/album/0oUGAS1qyR8O5jbNe71uKn) | 2:07 |
+| 43 | [混沌ブギ](https://open.spotify.com/track/5zc1HxKqQjGf9j46p1JM5P) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB) | [混沌ブギ](https://open.spotify.com/album/7ooHY1EZPOEZSq3oNWXXUQ) | 2:34 |
 | 44 | [Beyond the way](https://open.spotify.com/track/26I5UfjfxqsUAB2Ryr4utP) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS) | [Beyond the way](https://open.spotify.com/album/72mmKlShf9SvsGGQuOLi6u) | 3:00 |
 | 45 | [ハローセカイ](https://open.spotify.com/track/2SLuTdPR3ptm4V4byF8Iry) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ハローセカイ](https://open.spotify.com/album/1ylJHfWCcj02I8f45EJkXY) | 2:40 |
 | 46 | [アスノヨゾラ哨戒班](https://open.spotify.com/track/75tQZI2X1VwNOPtOrOrdpl) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS) | [未完成エイトビーツ](https://open.spotify.com/album/4R1TGj5yvneO62MVUYUpXL) | 2:57 |

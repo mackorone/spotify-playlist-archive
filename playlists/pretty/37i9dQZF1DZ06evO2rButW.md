@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 
 > This is Mon Laferte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 720,358 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 720,562 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 49 | [Paisaje Japonés](https://open.spotify.com/track/0Yo6IZJ5e4DJFKxlVPtzma) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Paisaje Japonés](https://open.spotify.com/album/1h4yooOKEv9XQRhmSG66PX) | 3:24 |
 | 50 | [Amado Mío](https://open.spotify.com/track/16B4vpVzBCj9muuoxPchlP) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 4:08 |
 
-Snapshot ID: `Z9IgAAAAAACUy4iLB9TySHs5+aTLve0Q`
+Snapshot ID: `Z9NxgAAAAAB9dhE96/+xvZqUwdfM9seg`

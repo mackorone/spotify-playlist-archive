@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,373 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,470 likes - 100 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,19 +66,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 56 | [Talisman](https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 4:02 |
 | 57 | [You're the One](https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG) | [S+C+A+R+R](https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw) | [I Lost My Body \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG) | 2:47 |
 | 58 | [X\-Dream](https://open.spotify.com/track/76sVe0f6NIgZo690KZyEEd) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [X\-Dream](https://open.spotify.com/album/6BSiu2BYuTWsLO8EyXpmgV) | 4:21 |
-| 59 | [The stars vs creatures](https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [A flame my love, a frequency](https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp) | 5:14 |
-| 60 | [Call](https://open.spotify.com/track/0NKMIeCLz6FhoziY1HjhtO) | [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [Call](https://open.spotify.com/album/0BtlgWzegBTP0xtKgLteJP) | 3:56 |
+| 59 | [Pura](https://open.spotify.com/track/4h0ahxYxMcgg6rmwVTr9AA) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [Pura](https://open.spotify.com/album/2WsUR9vWIndOnjKXvYcu3c) | 2:51 |
+| 60 | [The stars vs creatures](https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [A flame my love, a frequency](https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp) | 5:14 |
 | 61 | [Bridges](https://open.spotify.com/track/6WBhXzXyiwsDJ4y2yF3DOp) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Nedja](https://open.spotify.com/artist/0wEePcQsNMthoKEoNSMBIN) | [Heart \- EP](https://open.spotify.com/album/0mDHT3jOMRtAb3tsRJb8NP) | 3:01 |
-| 62 | [Flutter](https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 5:21 |
-| 63 | [Ohh Baby](https://open.spotify.com/track/4P19q3dSHap2uHkqRsF4YS) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Space Drag](https://open.spotify.com/album/0IRRsRMpxLm9wkQyFtoSfx) | 5:08 |
-| 64 | [If You Love Her \- Private Agenda Remix](https://open.spotify.com/track/6I4ABgetb4Q4vYXyq1JcxK) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD), [Private Agenda](https://open.spotify.com/artist/0Ach9AicviOrwIPxUPntnA) | [If You Love Her \(Private Agenda Remix\)](https://open.spotify.com/album/6IGhR8LbCzR5lj8TyunJmZ) | 4:04 |
-| 65 | [FTLOG](https://open.spotify.com/track/2KirxdpyaTzzgVEcnq1u1i) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [FTLOG](https://open.spotify.com/album/5d73JRRxvRybm2a7rRt21l) | 4:07 |
-| 66 | [Holding Hands](https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Holding Hands](https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J) | 2:50 |
-| 67 | [Thru U \(feat\. Bklava\)](https://open.spotify.com/track/4VQyqfE9UjTciUHqYeVl2R) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [I Feel You Feel](https://open.spotify.com/album/0kp7hFBIN1CFuv3gIBcdDo) | 2:57 |
-| 68 | [Grafts](https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts](https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw) | 22:31 |
-| 69 | [how2feel](https://open.spotify.com/track/0jMHvOP80LTKOQ8HMxE3yf) | [how2fly](https://open.spotify.com/artist/6pFQJsHFGonpyeIbXOYwkE) | [how2feel](https://open.spotify.com/album/6i9uwLdKpZTxrC65hJZArc) | 2:52 |
-| 70 | [Lines](https://open.spotify.com/track/63qu72CjJpo4TWkg7fY54B) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Lines](https://open.spotify.com/album/3kdKeoPkQpKnchJDmuzuNn) | 4:26 |
-| 71 | [Pura](https://open.spotify.com/track/4h0ahxYxMcgg6rmwVTr9AA) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [Pura](https://open.spotify.com/album/2WsUR9vWIndOnjKXvYcu3c) | 2:51 |
+| 62 | [Call](https://open.spotify.com/track/0NKMIeCLz6FhoziY1HjhtO) | [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [Call](https://open.spotify.com/album/0BtlgWzegBTP0xtKgLteJP) | 3:56 |
+| 63 | [Flutter](https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 5:21 |
+| 64 | [Ohh Baby](https://open.spotify.com/track/4P19q3dSHap2uHkqRsF4YS) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Space Drag](https://open.spotify.com/album/0IRRsRMpxLm9wkQyFtoSfx) | 5:08 |
+| 65 | [If You Love Her \- Private Agenda Remix](https://open.spotify.com/track/6I4ABgetb4Q4vYXyq1JcxK) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD), [Private Agenda](https://open.spotify.com/artist/0Ach9AicviOrwIPxUPntnA) | [If You Love Her \(Private Agenda Remix\)](https://open.spotify.com/album/6IGhR8LbCzR5lj8TyunJmZ) | 4:04 |
+| 66 | [FTLOG](https://open.spotify.com/track/2KirxdpyaTzzgVEcnq1u1i) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [FTLOG](https://open.spotify.com/album/5d73JRRxvRybm2a7rRt21l) | 4:07 |
+| 67 | [Holding Hands](https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Holding Hands](https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J) | 2:50 |
+| 68 | [Thru U \(feat\. Bklava\)](https://open.spotify.com/track/4VQyqfE9UjTciUHqYeVl2R) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [I Feel You Feel](https://open.spotify.com/album/0kp7hFBIN1CFuv3gIBcdDo) | 2:57 |
+| 69 | [Grafts](https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts](https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw) | 22:31 |
+| 70 | [how2feel](https://open.spotify.com/track/0jMHvOP80LTKOQ8HMxE3yf) | [how2fly](https://open.spotify.com/artist/6pFQJsHFGonpyeIbXOYwkE) | [how2feel](https://open.spotify.com/album/6i9uwLdKpZTxrC65hJZArc) | 2:52 |
+| 71 | [Lines](https://open.spotify.com/track/63qu72CjJpo4TWkg7fY54B) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Lines](https://open.spotify.com/album/3kdKeoPkQpKnchJDmuzuNn) | 4:26 |
 | 72 | [Of A Vessel](https://open.spotify.com/track/6H9EIZ81SWrwRTxwLcMgNz) | [Blank Gloss](https://open.spotify.com/artist/3ygskHdzS2MNz3ZsQfbkfB) | [Pop Ambient 2021](https://open.spotify.com/album/07YiA79O4x3dIVWAB5zhhJ) | 4:31 |
 | 73 | [SHEEP](https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:19 |
 | 74 | [Eon Lens](https://open.spotify.com/track/15qiprD5zSvHE0JF8duU3J) | [Next To Blue](https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco) | [Eon Lens](https://open.spotify.com/album/12ya6nZTDp02vO0W8uCwL6) | 5:43 |

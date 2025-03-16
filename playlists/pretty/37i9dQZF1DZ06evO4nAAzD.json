@@ -1,12 +1,12 @@
 {
   "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
-  "num_followers": 4181,
+  "num_followers": 4179,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9IgAAAAAADX3fq3KyWTKjK0C/MC7ev1",
+  "snapshot_id": "Z9NxgAAAAABXNQR6IphHeAZ6p/VBay/q",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "S\u00f3 por Essa Noite",
+        "url": "https://open.spotify.com/album/6TbQKxOD27HGaPDd0PXClr"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "JP Diazz",
+          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+        },
+        {
+          "name": "Nandela",
+          "url": "https://open.spotify.com/artist/5ZBgyN7hk6t2s74XcQyxrY"
+        },
+        {
+          "name": "Matheus Muniz",
+          "url": "https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI"
+        }
+      ],
+      "duration_ms": 171130,
+      "name": "S\u00f3 por Essa Noite",
+      "url": "https://open.spotify.com/track/2VD1sXwbJEWsfJX4ZRSHYA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set Dj Gm 3.0",
         "url": "https://open.spotify.com/album/41SaVrBv4KhINcfAyC8ePE"
       },
@@ -379,38 +411,6 @@
       "duration_ms": 390315,
       "name": "Set Dj Gm 3.0",
       "url": "https://open.spotify.com/track/5z9RaVCvG9NkxCLbyHKaf2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S\u00f3 por Essa Noite",
-        "url": "https://open.spotify.com/album/6TbQKxOD27HGaPDd0PXClr"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "JP Diazz",
-          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
-        },
-        {
-          "name": "Nandela",
-          "url": "https://open.spotify.com/artist/5ZBgyN7hk6t2s74XcQyxrY"
-        },
-        {
-          "name": "Matheus Muniz",
-          "url": "https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI"
-        }
-      ],
-      "duration_ms": 171130,
-      "name": "S\u00f3 por Essa Noite",
-      "url": "https://open.spotify.com/track/2VD1sXwbJEWsfJX4ZRSHYA"
     },
     {
       "added_at": null,
@@ -911,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hyperanhas (Ao Vivo no REP Festival)",
-        "url": "https://open.spotify.com/album/2whuigwd50Xjj5xX15EVWX"
-      },
-      "artists": [
-        {
-          "name": "REP Festival",
-          "url": "https://open.spotify.com/artist/2V9BaqjysjWIIi3GePdYXu"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 344234,
-      "name": "Quer Ir No Meu Show - Ao Vivo no REP Festival",
-      "url": "https://open.spotify.com/track/1MwefFkM5UKzG67GxzQIn1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2003",
         "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
       },
@@ -951,26 +931,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MINAS DE OURO",
-        "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
+        "name": "Hyperanhas (Ao Vivo no REP Festival)",
+        "url": "https://open.spotify.com/album/2whuigwd50Xjj5xX15EVWX"
       },
       "artists": [
         {
+          "name": "REP Festival",
+          "url": "https://open.spotify.com/artist/2V9BaqjysjWIIi3GePdYXu"
+        },
+        {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
         }
       ],
-      "duration_ms": 166956,
-      "name": "CENA DE FILME",
-      "url": "https://open.spotify.com/track/6B997koCVWsxhUuwcl1tFs"
+      "duration_ms": 344234,
+      "name": "Quer Ir No Meu Show - Ao Vivo no REP Festival",
+      "url": "https://open.spotify.com/track/1MwefFkM5UKzG67GxzQIn1"
     },
     {
       "added_at": null,
@@ -995,6 +971,30 @@
       "duration_ms": 186000,
       "name": "Na Onda do Boldo",
       "url": "https://open.spotify.com/track/42BwDKygmTWy01npggoFhl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MINAS DE OURO",
+        "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "CENA DE FILME",
+      "url": "https://open.spotify.com/track/6B997koCVWsxhUuwcl1tFs"
     },
     {
       "added_at": null,
@@ -1047,6 +1047,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nike Novo",
+        "url": "https://open.spotify.com/album/7vdftrf3dgyLrWO5LNXrOm"
+      },
+      "artists": [
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        }
+      ],
+      "duration_ms": 184256,
+      "name": "Nike Novo",
+      "url": "https://open.spotify.com/track/6dvmKKxL0An5ynDVAAkAZy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MINAS DE OURO",
         "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
       },
@@ -1075,30 +1099,6 @@
       "duration_ms": 182400,
       "name": "VIDA DE ARTISTA",
       "url": "https://open.spotify.com/track/09PuQONpor7FhWeB0Ph5Pn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nike Novo",
-        "url": "https://open.spotify.com/album/7vdftrf3dgyLrWO5LNXrOm"
-      },
-      "artists": [
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        }
-      ],
-      "duration_ms": 184256,
-      "name": "Nike Novo",
-      "url": "https://open.spotify.com/track/6dvmKKxL0An5ynDVAAkAZy"
     },
     {
       "added_at": null,
@@ -1199,26 +1199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gelo no Copo (Remix)",
-        "url": "https://open.spotify.com/album/5NCBnLl7vt3z5loG6kDcqM"
-      },
-      "artists": [
-        {
-          "name": "Cufe",
-          "url": "https://open.spotify.com/artist/5x7TPxozTWALMsXrBeA4BX"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 170318,
-      "name": "Gelo no Copo - Remix",
-      "url": "https://open.spotify.com/track/0oOQ4zepSFoaf8uPYMrn63"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tipo Trem Bala",
         "url": "https://open.spotify.com/album/05Dcxnk5vJMRCciw18U0Qc"
       },
@@ -1267,6 +1247,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gelo no Copo (Remix)",
+        "url": "https://open.spotify.com/album/5NCBnLl7vt3z5loG6kDcqM"
+      },
+      "artists": [
+        {
+          "name": "Cufe",
+          "url": "https://open.spotify.com/artist/5x7TPxozTWALMsXrBeA4BX"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 170318,
+      "name": "Gelo no Copo - Remix",
+      "url": "https://open.spotify.com/track/0oOQ4zepSFoaf8uPYMrn63"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lambo",
         "url": "https://open.spotify.com/album/7BHzV7j7SOUMbi1icPb0Aj"
       },
@@ -1291,22 +1291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Decolar",
-        "url": "https://open.spotify.com/album/5qErOgyiAC2liZZ9PATIMi"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 196402,
-      "name": "Decolar",
-      "url": "https://open.spotify.com/track/1niFof33T1bYI9lU26mIg9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quer Ibope",
         "url": "https://open.spotify.com/album/3d3XuKBeJDcqXJlwzxBr9x"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 223218,
       "name": "Quer Ibope",
       "url": "https://open.spotify.com/track/24vi6EYIoHqAlAQmPdmfdU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Decolar",
+        "url": "https://open.spotify.com/album/5qErOgyiAC2liZZ9PATIMi"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 196402,
+      "name": "Decolar",
+      "url": "https://open.spotify.com/track/1niFof33T1bYI9lU26mIg9"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > take the road less traveled
 
-205 songs - 13 hr 0 min
+206 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [My Love Will Not Change](https://open.spotify.com/track/0UIIgCWdaWgw7MnvHjyWgB) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u), [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [My Love Will Not Change](https://open.spotify.com/album/4UzPpqEh0vxcbDNF644Z5u) | 3:35 | 2024-03-25 | 2024-11-13 |
 | [Nancy From Now On](https://open.spotify.com/track/77RNVzAVwqWiZrZuWqMV2i) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:54 | 2024-11-12 |  |
 | [Neon Cross](https://open.spotify.com/track/5ayliDKP3otgKuYCfSiySg) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Neon Cross](https://open.spotify.com/album/2ENwnvyAD2AzUP2Z46l8bQ) | 4:24 | 2021-07-06 | 2024-11-13 |
+| [Night Rider](https://open.spotify.com/track/2ZAVci8nZRqLEWV60mogWV) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Lonesome Drifter](https://open.spotify.com/album/64lDGn2XUSnXAncXh9Zzow) | 3:18 | 2025-03-14 |  |
 | [Nobody Knows My Trouble](https://open.spotify.com/track/5qyIIrOLV5CCi4YzicRdwT) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Fear and Saturday Night](https://open.spotify.com/album/6mf8iFx30NUcwRQ9TB0KO1) | 4:15 | 2024-11-12 |  |
 | [Off the Shelf](https://open.spotify.com/track/0VovTymtgbuwSL0s56ITWU) | [Western Centuries](https://open.spotify.com/artist/0NlJw273FRxv1BFIYwYBTp) | [Weight of the World](https://open.spotify.com/album/2AEiFEuAhmxXnThxQDxBno) | 5:47 | 2021-07-06 | 2024-04-19 |
 | [Over Drinking](https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:10 | 2021-07-06 | 2024-11-13 |
@@ -161,7 +162,7 @@
 | [Rodeo Clown](https://open.spotify.com/track/0rbXbCiZAocA7bYP8JbQx2) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Hold My Beer, Vol\. 2](https://open.spotify.com/album/4UvP4sa5O6YQP1xr7Yb1xK) | 3:13 | 2021-07-06 | 2024-11-13 |
 | [Rollin' On](https://open.spotify.com/track/0HVNChZ47EoD5xKmXJmkOX) | [Jesse Daniel](https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY) | [Rollin' On](https://open.spotify.com/album/5ZMsoF7uGHmEHDGW92QGZ5) | 4:09 | 2021-07-06 | 2024-11-13 |
 | [Same Old Song](https://open.spotify.com/track/1iNzOvQkAeXDeVIni76Yb2) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic](https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM) | 2:54 | 2025-02-25 |  |
-| [Satisfy Me](https://open.spotify.com/track/0OsGdYAv9kY6BxLlMg9622) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Delilah](https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ) | 2:35 | 2024-11-12 |  |
+| [Satisfy Me](https://open.spotify.com/track/0OsGdYAv9kY6BxLlMg9622) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Delilah](https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ) | 2:35 | 2024-11-12 | 2025-03-16 |
 | [Sleeping on the Blacktop](https://open.spotify.com/track/3Ozx6IrGdoQyAworJzvBDE) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:12 | 2024-03-25 | 2024-11-13 |
 | [Sleeping on the Blacktop](https://open.spotify.com/track/6fhgO6p9DsTyHqPctyzDkV) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS) | 3:12 | 2021-07-06 |  |
 | [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 | 2021-07-06 | 2024-11-13 |

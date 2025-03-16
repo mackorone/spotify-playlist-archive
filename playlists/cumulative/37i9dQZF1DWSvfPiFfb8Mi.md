@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-353 songs - 23 hr 16 min
+354 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Lola’s Theme \- VIP](https://open.spotify.com/track/53o4CYK4YtTKmrnnWV6mFP) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP) | [Lola’s Theme \(VIP\)](https://open.spotify.com/album/0CpH0XG5uGunfnRpfiSyl0) | 7:18 | 2023-05-19 | 2023-07-22 |
 | [LoMhlaba \- Original Mix](https://open.spotify.com/track/2dbHZpfVKLsd0YqNEWtUbG) | [Cee ElAssaad](https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH), [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG) | [LoMhlaba EP](https://open.spotify.com/album/2Pkf27kgfSNPs71Jy4iWRp) | 7:52 | 2021-07-24 | 2023-05-20 |
 | [Look How Far We've Come](https://open.spotify.com/track/6PocfxbZxJm2OM3zOwO4pE) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [Look How Far We've Come](https://open.spotify.com/album/45icijppwUqUsUvLsAwc5Y) | 5:41 | 2024-05-17 | 2025-02-28 |
+| [Lose Control](https://open.spotify.com/track/5pIiOV7ZDmHWT1us1gTxJ4) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Kiinjo](https://open.spotify.com/artist/1oYyzyMTx629ZyyYENdhrZ) | [Lose Control](https://open.spotify.com/album/02jwqpA0J4oGG71M2gmikL) | 2:57 | 2025-03-14 |  |
 | [Lose My Mind](https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Lose My Mind](https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6) | 3:01 | 2023-05-19 |  |
 | [Lost In Space \(feat\. SG Lewis\)](https://open.spotify.com/track/142MW1OLW8GobITMDIhMCD) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Lost In Space \(feat\. SG Lewis\)](https://open.spotify.com/album/22zT7XF3pnP4T2MxDZOcDC) | 2:23 | 2021-07-24 | 2023-09-17 |
 | [Love If You Need It \(feat\. Fi McCluskey\) \- Mousse T.'s Classic Shizzle](https://open.spotify.com/track/1MQ1gkmAvEE0hIuPlyeaCz) | [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna), [Fi McCluskey](https://open.spotify.com/artist/72gbbXcVtvFcqEVEdL1LPf), [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6) | [Love If You Need It \(feat\. Fi McCluskey\)](https://open.spotify.com/album/7af5vVzmDMwfSGXjTZBZkE) | 3:24 | 2021-07-24 | 2025-02-15 |
@@ -345,7 +346,7 @@
 | [We Could Be Falling In Love \- Edit](https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [We Could Be Falling In Love](https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L) | 2:59 | 2023-09-22 |  |
 | [Weekend Love](https://open.spotify.com/track/0X89tZvVGokJi9NDuz5tqN) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Weekend Love](https://open.spotify.com/album/1JkJernn4xd0y6AeJM9N07) | 3:39 | 2023-05-19 | 2024-10-28 |
 | [Welcome To Organic](https://open.spotify.com/track/2RABiORxekaDV23sfNTjid) | [Mount Liberation Unlimited](https://open.spotify.com/artist/5zVhnqOyQesaJrFSC0wShT) | [Mount Liberation Unlimited](https://open.spotify.com/album/0NGgNO6HINijyLI7aHreKP) | 4:59 | 2021-07-24 | 2022-06-21 |
-| [What Am I](https://open.spotify.com/track/20yID5I7qOSNLrxCAwgzHL) | [GUINNY](https://open.spotify.com/artist/2We5sHePj1UqVLOFNU6IOK) | [What Am I](https://open.spotify.com/album/5uOtlVIBJkWWZxOk2RZSMm) | 3:11 | 2025-03-07 |  |
+| [What Am I](https://open.spotify.com/track/20yID5I7qOSNLrxCAwgzHL) | [GUINNY](https://open.spotify.com/artist/2We5sHePj1UqVLOFNU6IOK) | [What Am I](https://open.spotify.com/album/5uOtlVIBJkWWZxOk2RZSMm) | 3:11 | 2025-03-07 | 2025-03-16 |
 | [what i feel](https://open.spotify.com/track/0c27JOBxFuSPHqbT3d2BC9) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [tomorrow never comes](https://open.spotify.com/album/56gzHHGgjlbVo0okgZ3kNT) | 3:20 | 2024-09-27 |  |
 | [What You Mean to Me](https://open.spotify.com/track/2oh0F0WIDbbFDhaJHpBxOU) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Free Fall](https://open.spotify.com/album/6XouRdQWRuzp17zN4IMfjU) | 6:24 | 2021-07-24 | 2023-05-20 |
 | [When We're Together](https://open.spotify.com/track/7b08lI1kq7MnOeTOrQ3BGt) | [Love Language](https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM), [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Bodies in Motion](https://open.spotify.com/album/43sYrTIpg95heJTsJNowsA) | 3:16 | 2024-10-11 | 2024-11-21 |

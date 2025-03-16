@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Colombia.
 
-1,248 songs - 2 day 21 hr 21 min
+1,249 songs - 2 day 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,7 +413,7 @@
 | [FDSR](https://open.spotify.com/track/3KwYiawBfqngH7eaUHQn2N) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [FDSR](https://open.spotify.com/album/7klplPJ1UEKbEsUtm5FK0z) | 3:08 | 2024-10-12 |  |
 | [Fecha](https://open.spotify.com/track/14LaTeixKug7O2jNMK8u1C) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [MANIFESTING 20\-05](https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c) | 3:08 | 2024-04-12 | 2024-04-29 |
 | [Fecha \- Intro Extended](https://open.spotify.com/track/6VdtexT0eZUak5C3gdC6oD) | [Renzo Pianciola](https://open.spotify.com/artist/5gll5A4o6CPtrF4Vzk6KTQ) | [Fecha \(Intro Extended\)](https://open.spotify.com/album/20Oy35cVEFSZfPSxyzD5fA) | 3:09 | 2024-04-18 | 2024-04-26 |
-| [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:35 | 2022-09-15 |  |
+| [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:35 | 2022-09-15 | 2025-03-16 |
 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/3kUq4sBcmxhnOtNysZ9yrp) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/album/5tWcOAhihL1zYpaIktpoxu) | 2:36 | 2022-08-20 | 2022-09-16 |
 | [Feliz Nochebuena](https://open.spotify.com/track/2qvQPI8SPTB9AFr1de3X71) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [Una Leyenda: Rodolfo Aicardi \(Exitos\)](https://open.spotify.com/album/2pGgv9foPyYI6IqX1IhhKn) | 3:10 | 2021-12-26 | 2025-01-04 |
 | [Feliz Nochebuena](https://open.spotify.com/track/5AxSVcDZaAmhF7VgVvxZqU) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [De Triunfo en Triunfo](https://open.spotify.com/album/5pefwZ3srZQo7kBZgIBnkk) | 3:13 | 2023-12-26 | 2024-12-28 |
@@ -1048,6 +1048,7 @@
 | [Sobre las Olas](https://open.spotify.com/track/2ldG5rONyzUeVGIjzqbHOI) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Joseíto Martínez](https://open.spotify.com/artist/2tw2BrnDHhErZuk7ePrZcC) | [¡Para Bailar!](https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs) | 3:24 | 2023-12-26 | 2024-12-28 |
 | [Sobreviviré](https://open.spotify.com/track/7q5aOEf299r3G9Xj27UE0H) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [El Rey del Despecho \- Internacional](https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0) | 3:39 | 2022-07-28 | 2023-01-04 |
 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 | 2021-07-11 | 2022-05-08 |
+| [Solcito](https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu) | [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Solcito](https://open.spotify.com/album/3BzCHEyuOsxZrWq3M3CsR2) | 2:24 | 2025-03-15 |  |
 | [Solo Un Cigarro](https://open.spotify.com/track/1IU4yR9zKEdYDqQt7dI2yh) | [Pastor López](https://open.spotify.com/artist/5eHNeUjS4GogffJdQ1vVN5) | [Recordando a Pastor Lopez](https://open.spotify.com/album/5tmSVevQNFdbxFKTFOHWAk) | 2:48 | 2023-12-09 | 2025-01-04 |
 | [Solos](https://open.spotify.com/track/0WKd91LoIHCFIhDmgewjhy) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [La Melodia de la Calle "Updated"](https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8) | 3:08 | 2023-06-06 | 2024-04-19 |
 | [Solos \(feat\. Plan B\)](https://open.spotify.com/track/2ItA7kOg5NH6AygzU30sEv) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [La Melodia de la Calle \(Remastered\)](https://open.spotify.com/album/3gvDroaxVajs2EDUABP3C7) | 3:08 | 2023-05-30 | 2024-07-12 |

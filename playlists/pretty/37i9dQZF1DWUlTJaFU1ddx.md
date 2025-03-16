@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 
 > The sweet sounds of Jordan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,282 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,288 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,16 +32,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 | 22 | [KHAYYALA](https://open.spotify.com/track/33ZTgAaPHck9KIIOEnkSxC) | [EQuBE](https://open.spotify.com/artist/1vKZWmYdp9BQAbtrX9ORuu), [Almukhtar](https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8) | [KHAYYALA](https://open.spotify.com/album/4J1k05sRPi0Qlez40Z8nXg) | 3:09 |
 | 23 | [Serti Halali](https://open.spotify.com/track/5aV0Vl1Fv9s9PmWklzzlvz) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Serti Halali](https://open.spotify.com/album/0IiY9pwCRMsRdldrMpW03A) | 3:57 |
 | 24 | [انتي القدر](https://open.spotify.com/track/2qSOhlYYwnlmTh5MNlxv6T) | [Ayham](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [انتي القدر](https://open.spotify.com/album/3jm2Mw7iAV31QfoRverhwL) | 3:42 |
-| 25 | [Mn Gheirik Enti](https://open.spotify.com/track/19M24LvVumMVlcQIHusXyl) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r) | [Mn Gheirik Enti](https://open.spotify.com/album/41kBbSWRbStqfsrXeM5Cpo) | 3:01 |
-| 26 | [Awlaweeti](https://open.spotify.com/track/0BjeDBqH1MeHMqYUWjCqGe) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Awlaweeti](https://open.spotify.com/album/3a2OXlPWjiG2nlTMtgrMrT) | 3:38 |
+| 25 | [Awlaweeti](https://open.spotify.com/track/0BjeDBqH1MeHMqYUWjCqGe) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Awlaweeti](https://open.spotify.com/album/3a2OXlPWjiG2nlTMtgrMrT) | 3:38 |
+| 26 | [Mn Gheirik Enti](https://open.spotify.com/track/19M24LvVumMVlcQIHusXyl) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r) | [Mn Gheirik Enti](https://open.spotify.com/album/41kBbSWRbStqfsrXeM5Cpo) | 3:01 |
 | 27 | [Hold Your Ground](https://open.spotify.com/track/0KmiXlCv8005j9o340PW4e) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge), [Lowkey](https://open.spotify.com/artist/2ps77LMRMUCMl5N6uRWOTH) | [Hold Your Ground](https://open.spotify.com/album/6fxuBrz4h4iOuW5hVoiJmc) | 4:35 |
 | 28 | [Manama](https://open.spotify.com/track/3zOixogOi4v75PI7bkws2O) | [Dub Caravan](https://open.spotify.com/artist/7BhIlI9vRbaE1i1bYm81ZF), [Almukhtar](https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8) | [Manama](https://open.spotify.com/album/3pnLlR5wQ08LWbyb93clqe) | 3:40 |
 | 29 | [Ya Saad](https://open.spotify.com/track/4l7h95DV4TJimjWoZBRd9B) | [Farah Siraj](https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY) | [Ya Saad](https://open.spotify.com/album/3lMNn9CmmoS7oWUGUbgZ5Q) | 4:04 |
 | 30 | [Tmaneet Ashofak](https://open.spotify.com/track/5dueytCp1DWHJizVwQ34va) | [Omar Alabdallat](https://open.spotify.com/artist/3zbimX3Z591csbDHH2Iuxc), [Salah Alakhfash](https://open.spotify.com/artist/7zBvvEkToHUjaOmdVHHJfQ) | [Tmaneet Ashofak](https://open.spotify.com/album/0FIEcX7gSEX1h8PqsQbWhu) | 4:58 |
 | 31 | [Kounili El Musica](https://open.spotify.com/track/4UcpiWGup7TKr1NkqaBrQ7) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Kounili El Musica](https://open.spotify.com/album/77e5W1q40rJcSAJjt7GA1p) | 2:55 |
 | 32 | [OCB](https://open.spotify.com/track/65rWsK4Js9lGAhOQTpPTxM) | [AceQuared](https://open.spotify.com/artist/0KgK0OMTh21OHyab9UDg3r) | [Black Iris](https://open.spotify.com/album/5nBnqvnnQnAsCNxX8q1Xw1) | 2:54 |
-| 33 | [7ai](https://open.spotify.com/track/7lx7KcCLJtHTCFglYQC12y) | [Ayham](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix), [Bader Azem](https://open.spotify.com/artist/75hMrwzTIrdi0SvamLjY9D) | [Xvibe](https://open.spotify.com/album/6W7b9RFrdBE29953myz6b7) | 2:47 |
-| 34 | [ضويت الكون](https://open.spotify.com/track/2Mp14EuBWISckdn5vYr7ot) | [سعد الزين](https://open.spotify.com/artist/0c1jfiG9lurrqRQXumwYZe) | [ضويت الكون](https://open.spotify.com/album/3UkjsaDJ2zeu53ZyM6yJjj) | 4:05 |
+| 33 | [ضويت الكون](https://open.spotify.com/track/2Mp14EuBWISckdn5vYr7ot) | [سعد الزين](https://open.spotify.com/artist/0c1jfiG9lurrqRQXumwYZe) | [ضويت الكون](https://open.spotify.com/album/3UkjsaDJ2zeu53ZyM6yJjj) | 4:05 |
+| 34 | [7ai](https://open.spotify.com/track/7lx7KcCLJtHTCFglYQC12y) | [Ayham](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix), [Bader Azem](https://open.spotify.com/artist/75hMrwzTIrdi0SvamLjY9D) | [Xvibe](https://open.spotify.com/album/6W7b9RFrdBE29953myz6b7) | 2:47 |
 | 35 | [Pedazos de mi vida](https://open.spotify.com/track/5LXmGPStiy83Tnsq96G9V6) | [Farah Siraj](https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY) | [Nomad](https://open.spotify.com/album/0y5vb7o8uCKsA858HIG2dM) | 3:28 |
 | 36 | [Khalliha Ala Allah](https://open.spotify.com/track/4UiGACEtRM9N0PxuXzrVfQ) | [Diana Karazon](https://open.spotify.com/artist/3faPN9ZqiY5AFpYAe8WqGE) | [Khalliha Ala Allah](https://open.spotify.com/album/3yqmmWNUtIMWBlFImfPhb0) | 4:12 |
 | 37 | [Bafaker Kteer](https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Bafaker Kteer](https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi) | 3:20 |

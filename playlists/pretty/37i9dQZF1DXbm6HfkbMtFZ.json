@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 786679,
+  "num_followers": 787291,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2025-03-11 17:57:19",
       "album": {
+        "name": "Only God Was Above Us",
+        "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 266026,
+      "name": "Mary Boone",
+      "url": "https://open.spotify.com/track/6OjwIdLlkjCLuOThOwODEY"
+    },
+    {
+      "added_at": "2025-03-11 17:57:19",
+      "album": {
         "name": "Homegrown",
         "url": "https://open.spotify.com/album/4vAakYtJWrer6lENSAP19l"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 104067,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/15hp88Fwgqi3HgY2hq6cyi"
-    },
-    {
-      "added_at": "2025-03-11 17:57:19",
-      "album": {
-        "name": "Only God Was Above Us",
-        "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 266026,
-      "name": "Mary Boone",
-      "url": "https://open.spotify.com/track/6OjwIdLlkjCLuOThOwODEY"
     },
     {
       "added_at": "2025-03-11 17:57:19",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-03-11 17:57:19",
       "album": {
-        "name": "Addicted To You",
-        "url": "https://open.spotify.com/album/03mQWhCkJ77Hq9aP8dD21r"
-      },
-      "artists": [
-        {
-          "name": "Ben L'Oncle Soul",
-          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Two Trees",
-      "url": "https://open.spotify.com/track/64jxwV2kklovj7ldPsPsXF"
-    },
-    {
-      "added_at": "2025-03-11 17:57:19",
-      "album": {
         "name": "Miel de Montagne",
         "url": "https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 189776,
       "name": "Permis b b\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/1U3UL6FsYc2mcAQwWyYrn2"
+    },
+    {
+      "added_at": "2025-03-11 17:57:19",
+      "album": {
+        "name": "Addicted To You",
+        "url": "https://open.spotify.com/album/03mQWhCkJ77Hq9aP8dD21r"
+      },
+      "artists": [
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Two Trees",
+      "url": "https://open.spotify.com/track/64jxwV2kklovj7ldPsPsXF"
     },
     {
       "added_at": "2025-03-11 17:57:19",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-03-11 17:57:19",
       "album": {
-        "name": "Hunt for the Wilderpeople (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2XvgNn4HiItRHFG5R8i3Tg"
-      },
-      "artists": [
-        {
-          "name": "Moniker",
-          "url": "https://open.spotify.com/artist/6mLzqvtfYZ0tq6JKj4VTEW"
-        }
-      ],
-      "duration_ms": 145881,
-      "name": "Ocean Blue",
-      "url": "https://open.spotify.com/track/5BzGvBwBL3y2WSGml0rkLH"
-    },
-    {
-      "added_at": "2025-03-11 17:57:19",
-      "album": {
         "name": "Introducing...",
         "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 232760,
       "name": "Ride with Me",
       "url": "https://open.spotify.com/track/2ARIyufUagbk2YXbqJXYOH"
+    },
+    {
+      "added_at": "2025-03-11 17:57:19",
+      "album": {
+        "name": "Hunt for the Wilderpeople (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2XvgNn4HiItRHFG5R8i3Tg"
+      },
+      "artists": [
+        {
+          "name": "Moniker",
+          "url": "https://open.spotify.com/artist/6mLzqvtfYZ0tq6JKj4VTEW"
+        }
+      ],
+      "duration_ms": 145881,
+      "name": "Ocean Blue",
+      "url": "https://open.spotify.com/track/5BzGvBwBL3y2WSGml0rkLH"
     },
     {
       "added_at": "2025-03-11 17:57:19",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-03-11 17:57:19",
       "album": {
-        "name": "Boonie Town",
-        "url": "https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon"
-      },
-      "artists": [
-        {
-          "name": "Eli Smart",
-          "url": "https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb"
-        }
-      ],
-      "duration_ms": 259795,
-      "name": "Highschool Steady",
-      "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
-    },
-    {
-      "added_at": "2025-03-11 17:57:19",
-      "album": {
         "name": "Open Season",
         "url": "https://open.spotify.com/album/5z5qxQggmOBwSDjTOy77L6"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 240453,
       "name": "One Evening - Remix By VV",
       "url": "https://open.spotify.com/track/60EtNIlUeObRr4eCQ5ex3d"
+    },
+    {
+      "added_at": "2025-03-11 17:57:19",
+      "album": {
+        "name": "Boonie Town",
+        "url": "https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon"
+      },
+      "artists": [
+        {
+          "name": "Eli Smart",
+          "url": "https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb"
+        }
+      ],
+      "duration_ms": 259795,
+      "name": "Highschool Steady",
+      "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
     },
     {
       "added_at": "2025-03-11 17:57:19",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2025-03-11 17:57:19",
       "album": {
+        "name": "Last One Standing (Radio Edit)",
+        "url": "https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY"
+      },
+      "artists": [
+        {
+          "name": "Monophonics",
+          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
+        }
+      ],
+      "duration_ms": 203589,
+      "name": "Last One Standing - Radio Edit",
+      "url": "https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz"
+    },
+    {
+      "added_at": "2025-03-11 17:57:19",
+      "album": {
         "name": "In the Grace of Your Love",
         "url": "https://open.spotify.com/album/4gwqJXH0UUQFwrimYJKfmu"
       },
@@ -1623,18 +1639,18 @@
     {
       "added_at": "2025-03-11 17:57:19",
       "album": {
-        "name": "Last One Standing (Radio Edit)",
-        "url": "https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY"
+        "name": "My Conversation",
+        "url": "https://open.spotify.com/album/3eyiwYrYENzxjnumTXJoOw"
       },
       "artists": [
         {
-          "name": "Monophonics",
-          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
+          "name": "Silas Short",
+          "url": "https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ"
         }
       ],
-      "duration_ms": 203589,
-      "name": "Last One Standing - Radio Edit",
-      "url": "https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz"
+      "duration_ms": 196106,
+      "name": "My Conversation",
+      "url": "https://open.spotify.com/track/3HaXlnLbvkmdZN401glSoE"
     },
     {
       "added_at": "2025-03-11 17:57:19",
@@ -1687,22 +1703,6 @@
       "duration_ms": 279586,
       "name": "You Don't Have to Be a Star (To Be In My Show)",
       "url": "https://open.spotify.com/track/2JurHS80N98Yt3CdIBYz9M"
-    },
-    {
-      "added_at": "2025-03-11 17:57:19",
-      "album": {
-        "name": "My Conversation",
-        "url": "https://open.spotify.com/album/3eyiwYrYENzxjnumTXJoOw"
-      },
-      "artists": [
-        {
-          "name": "Silas Short",
-          "url": "https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "My Conversation",
-      "url": "https://open.spotify.com/track/3HaXlnLbvkmdZN401glSoE"
     },
     {
       "added_at": "2025-03-11 17:57:19",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2025-03-11 17:57:19",
       "album": {
+        "name": "The Horse",
+        "url": "https://open.spotify.com/album/667rVd02i2805C4FnKz3We"
+      },
+      "artists": [
+        {
+          "name": "The Ventures",
+          "url": "https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35"
+        }
+      ],
+      "duration_ms": 161626,
+      "name": "Grazing In The Grass",
+      "url": "https://open.spotify.com/track/4nP0zyVgE27NfsRbwLhROr"
+    },
+    {
+      "added_at": "2025-03-11 17:57:19",
+      "album": {
         "name": "Open Road",
         "url": "https://open.spotify.com/album/4qA2vh48jfsWeTLxwszs00"
       },
@@ -1859,18 +1875,18 @@
     {
       "added_at": "2025-03-11 17:57:19",
       "album": {
-        "name": "The Horse",
-        "url": "https://open.spotify.com/album/667rVd02i2805C4FnKz3We"
+        "name": "Bye Bye 17",
+        "url": "https://open.spotify.com/album/3lJgfGvlQIdJ9JdWAAape1"
       },
       "artists": [
         {
-          "name": "The Ventures",
-          "url": "https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35"
+          "name": "Har Mar Superstar",
+          "url": "https://open.spotify.com/artist/5wjWLK4KMqmRbdUtTEV1BG"
         }
       ],
-      "duration_ms": 161626,
-      "name": "Grazing In The Grass",
-      "url": "https://open.spotify.com/track/4nP0zyVgE27NfsRbwLhROr"
+      "duration_ms": 125962,
+      "name": "Late Night Morning Light",
+      "url": "https://open.spotify.com/track/36Jk4Gov47YOevltFX97sD"
     },
     {
       "added_at": "2025-03-11 17:57:19",
@@ -1891,22 +1907,6 @@
       "duration_ms": 278040,
       "name": "Intergalactic Love Song",
       "url": "https://open.spotify.com/track/29pSTaZjWmJtJhJtnxIMaK"
-    },
-    {
-      "added_at": "2025-03-11 17:57:19",
-      "album": {
-        "name": "Bye Bye 17",
-        "url": "https://open.spotify.com/album/3lJgfGvlQIdJ9JdWAAape1"
-      },
-      "artists": [
-        {
-          "name": "Har Mar Superstar",
-          "url": "https://open.spotify.com/artist/5wjWLK4KMqmRbdUtTEV1BG"
-        }
-      ],
-      "duration_ms": 125962,
-      "name": "Late Night Morning Light",
-      "url": "https://open.spotify.com/track/36Jk4Gov47YOevltFX97sD"
     },
     {
       "added_at": "2025-03-11 17:57:19",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2025-03-11 17:57:19",
       "album": {
+        "name": "Tako Tsubo (Extended)",
+        "url": "https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 268179,
+      "name": "Off to the Side",
+      "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"
+    },
+    {
+      "added_at": "2025-03-11 17:57:19",
+      "album": {
         "name": "The Midst of Things",
         "url": "https://open.spotify.com/album/2ayfyjguop22nTbxg5puSZ"
       },
@@ -1971,22 +1987,6 @@
       "duration_ms": 257153,
       "name": "Super Ego",
       "url": "https://open.spotify.com/track/2tRw3mlRNyEMl6FOtA1lBg"
-    },
-    {
-      "added_at": "2025-03-11 17:57:19",
-      "album": {
-        "name": "Tako Tsubo (Extended)",
-        "url": "https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 268179,
-      "name": "Off to the Side",
-      "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"
     }
   ],
   "unique_name": "Feel Good Dinner",

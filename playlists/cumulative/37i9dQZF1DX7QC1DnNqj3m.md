@@ -4,7 +4,7 @@
 
 > Bask in the sound of soul, old and new.
 
-125 songs - 7 hr 32 min
+126 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [CHILL ON ME](https://open.spotify.com/track/31DeTEQ3Y8G0I7DmwqLusq) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC) | [CHILL ON ME](https://open.spotify.com/album/1amVbKXct9YO5r2q7KK242) | 3:35 | 2024-09-05 | 2024-11-01 |
 | [Colourblind \(feat\. Loyle Carner\)](https://open.spotify.com/track/5I2qYkrOpXBNEM6SxUMdPM) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Colourblind \(feat\. Loyle Carner\)](https://open.spotify.com/album/2GTgSAWzylW8N74Kad1sZ3) | 3:55 | 2025-01-31 | 2025-03-12 |
 | [Don't Think You Ever Loved Me](https://open.spotify.com/track/3fMDMQEcEFW4LV7P6oay3b) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Don't Think You Ever Loved Me](https://open.spotify.com/album/7LFx0rToSRheeuvNMdjovz) | 6:36 | 2023-11-24 | 2024-09-29 |
-| [Double Standards \(feat\. Sampha\)](https://open.spotify.com/track/0eAXtuToazVgRJvKn8Rln9) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Double Standards \(feat\. Sampha\)](https://open.spotify.com/album/7tHZxQL7iGN8iFGMYqHA8i) | 5:01 | 2024-02-28 |  |
+| [Double Standards \(feat\. Sampha\)](https://open.spotify.com/track/0eAXtuToazVgRJvKn8Rln9) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Double Standards \(feat\. Sampha\)](https://open.spotify.com/album/7tHZxQL7iGN8iFGMYqHA8i) | 5:01 | 2024-02-28 | 2025-03-16 |
 | [Dream A Little Dream Of Me \- Single Version](https://open.spotify.com/track/78MI7mu1LV1k4IA2HzKmHe) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Love, Ella](https://open.spotify.com/album/1y5KGkUKO0NG32MhIIagCA) | 3:05 | 2023-11-24 |  |
 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 | 2023-11-24 |  |
 | [Feet Don't Fail Me Now](https://open.spotify.com/track/5goqVeMYUQecvpcjNxpadU) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:18 | 2023-11-24 |  |
@@ -133,5 +133,6 @@
 | [Will I See You Again?](https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Will I See You Again?](https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN) | 4:00 | 2023-11-24 | 2024-04-19 |
 | [Woman](https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:29 | 2023-11-24 | 2024-04-19 |
 | [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [You Never Visit Me \(feat\. Wale & Enny\)](https://open.spotify.com/album/5768qKkadOnArtFfrupjLe) | 4:24 | 2023-11-24 |  |
+| [Younger](https://open.spotify.com/track/4xCH7kDMDhYSgLiyMdYTj4) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Younger](https://open.spotify.com/album/3HNaAy3sM6qTb8ox0WKeid) | 3:00 | 2025-03-16 |  |
 
 \*This playlist was first scraped on 2023-12-04. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 
 > christmas always makes me cry
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,639 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,634 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 26 | [Silent Night](https://open.spotify.com/track/4iTfml41SOUBHXgMUHLUVV) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:11 |
 | 27 | [Loneliest Time Of Year](https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Loneliest Time Of Year](https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ) | 3:22 |
 | 28 | [Please Come Home For Christmas](https://open.spotify.com/track/2UTO3vuKleiyHjOGX1dppL) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ) | [Sings Christmas Songs](https://open.spotify.com/album/0sYk8ncYCqrrJPKeGiBwKL) | 2:50 |
-| 29 | [The First Noel](https://open.spotify.com/track/4WW2Bdai1qzTnNkWNJCGNg) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 2:44 |
-| 30 | [For Those Who Can't Be Here](https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [For Those Who Can't Be Here](https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx) | 3:03 |
+| 29 | [For Those Who Can't Be Here](https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [For Those Who Can't Be Here](https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx) | 3:03 |
+| 30 | [The First Noel](https://open.spotify.com/track/4WW2Bdai1qzTnNkWNJCGNg) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 2:44 |
 | 31 | [Silent Night, Holy Night](https://open.spotify.com/track/3TsoMWVVcbs1mKHBiW5aWz) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:15 |
 | 32 | [Christmas Must Be Tonight](https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 3:47 |
 | 33 | [Single On The 25th](https://open.spotify.com/track/3hTSUqyG6ntAYXjgYOjS16) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Single On The 25th](https://open.spotify.com/album/3dQ9PkqMkvgcjvEnKWEL3n) | 2:41 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 43 | [Christmas is The Only Time I'm Home](https://open.spotify.com/track/4JbwEU1apqYe1dXhThvjag) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Christmas is The Only Time I'm Home](https://open.spotify.com/album/1WuDKfHUB50Uz5bbv0Rn4Z) | 3:20 |
 | 44 | [Another Lonely Christmas](https://open.spotify.com/track/26F1nzp6tCtXsiDcBCfZcg) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Hits / The B\-Sides](https://open.spotify.com/album/30DQNLvFkUv9SS15o8jXHZ) | 4:53 |
 | 45 | [The World's Saddest Christmas Song](https://open.spotify.com/track/1exm59J0Hi2A4yuCcg0yf6) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [The World's Saddest Christmas Song](https://open.spotify.com/album/0TaeUIW1Stf0ddxqp3MZhK) | 4:29 |
-| 46 | [Just A Lonely Christmas \- Bonus Track / 2015 Mix Version](https://open.spotify.com/track/1Ph3qvqLo8696FOf4W9iAS) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/3mKxD3slkstGtfDxBI8p62) | 2:29 |
-| 47 | [long distance christmas](https://open.spotify.com/track/46jGv8HeBxL5ZcL5rjV2EG) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [long distance christmas](https://open.spotify.com/album/3ZFZN7pMgE5GYGHTz7VxfL) | 2:56 |
+| 46 | [long distance christmas](https://open.spotify.com/track/46jGv8HeBxL5ZcL5rjV2EG) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [long distance christmas](https://open.spotify.com/album/3ZFZN7pMgE5GYGHTz7VxfL) | 2:56 |
+| 47 | [Just A Lonely Christmas \- Bonus Track / 2015 Mix Version](https://open.spotify.com/track/1Ph3qvqLo8696FOf4W9iAS) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/3mKxD3slkstGtfDxBI8p62) | 2:29 |
 | 48 | [Christmas Eve Can Kill You](https://open.spotify.com/track/6siVeocuKKnuynQK4PV7AE) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Stories We Could Tell](https://open.spotify.com/album/5ucnCsHTkWKXCcCjrSEdw0) | 3:26 |
 | 49 | [Snow is Falling in Manhattan](https://open.spotify.com/track/1mx0tNZArxaY3Fq2yuaV36) | [Karl Blau](https://open.spotify.com/artist/7FeCvXxNn2D4Cf38i0zDul) | [Snow is Falling in Manhattan](https://open.spotify.com/album/4SiUjBiHK355OHnmUg9AnX) | 5:50 |
 | 50 | [This Time Last Year](https://open.spotify.com/track/4wUhXOfV4hqNTurbJkWOU9) | [Simone](https://open.spotify.com/artist/5k6BuuGye7fUjFvPOOJ8C2) | [This Time Last Year](https://open.spotify.com/album/09LBtelS62mavkNWHg325x) | 3:45 |

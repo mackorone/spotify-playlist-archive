@@ -4,7 +4,7 @@
 
 > aquí pura vibra chida ✨ CATRI7L y Paco Amoroso en portada
 
-433 songs - 22 hr 52 min
+434 songs - 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,10 +382,11 @@
 | [Teka \(with Peso Pluma\)](https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Teka \(with Peso Pluma\)](https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu) | 2:43 | 2024-04-19 | 2024-06-01 |
 | [Tempo](https://open.spotify.com/track/7icIDep1Jr3oJdgJSGsdnM) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Tempo](https://open.spotify.com/album/5TWuIEEbRxkdyn9HgiV69n) | 1:47 | 2023-10-20 | 2024-05-04 |
 | [Tengo Un Plan](https://open.spotify.com/track/3r9OpHiEaeMaBOa7kVtWtC) | [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi) | [Tengo Un Plan](https://open.spotify.com/album/3Y4j8ji75Vbudf59grMDr6) | 3:09 | 2024-04-12 | 2024-05-18 |
+| [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-14 |  |
 | [Tirando Flow Sesh \#11 \(feat\. El Bogueto & Ritorukai\)](https://open.spotify.com/track/77IPE0PA44eThYC41I3Dzh) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Ritorukai](https://open.spotify.com/artist/0D59XKX7L0hK51MK9fn4H8) | [Tirando Flow Sesh \#11 \(feat\. El Bogueto & Ritorukai\)](https://open.spotify.com/album/4qYgFOOlhq4gi2nipKRCMb) | 3:32 | 2023-09-08 | 2023-10-21 |
 | [Todavia \- Radio Edit](https://open.spotify.com/track/2anG3oj6XqxccnXJPUOnac) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy) | [Todavia \(Radio Edit\)](https://open.spotify.com/album/2ljlY9QPnJ6VJ3JxUcxqf8) | 3:23 | 2023-08-04 | 2023-08-06 |
 | [Todavía](https://open.spotify.com/track/6TrR94UaLsxnCMbdUXIVwI) | [DJ Pablito](https://open.spotify.com/artist/44cA8XUceHxTRIVRZAdvW5), [La Factoria](https://open.spotify.com/artist/00Lc7Ok0Grodr365KFTSi3), [Joycee](https://open.spotify.com/artist/7IjPW8bcW8D5mccCuVxbEC) | [Dj Pablito Presenta\- La Factoría](https://open.spotify.com/album/7LPdPCTfXLwJyW2UzghtVb) | 3:23 | 2023-10-20 | 2023-11-07 |
-| [Todo De Ti](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Todo De Ti](https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH) | 3:19 | 2023-06-09 |  |
+| [Todo De Ti](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Todo De Ti](https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH) | 3:19 | 2023-06-09 | 2025-03-16 |
 | [Tokome](https://open.spotify.com/track/0NaRr23qzWGYpd0YWRRQS6) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tokome](https://open.spotify.com/album/2U3MC2eCMzqyNvhNFDUfxo) | 2:37 | 2024-11-22 | 2024-12-07 |
 | [TOMMY & PAMELA](https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 3:29 | 2024-06-21 |  |
 | [Too Sweet](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 4:11 | 2024-04-12 | 2024-05-04 |

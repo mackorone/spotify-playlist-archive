@@ -4,7 +4,7 @@
 
 > Let the music flow through you...
 
-255 songs - 15 hr 31 min
+256 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Love](https://open.spotify.com/track/07KSmwPq4eu1boA3cZYYY4) | [Buttered](https://open.spotify.com/artist/2qyspw08f8cTqsn8tInrB4) | [Love](https://open.spotify.com/album/1Oae3gR24xLKyiBJqAu2Ft) | 4:51 | 2022-06-02 | 2022-09-09 |
 | [Love Bind](https://open.spotify.com/track/2Gv07vSQS9i4VvxWrE7SHI) | [LOU'ANA](https://open.spotify.com/artist/6bmZe9cAGCwdOgriWbhhy7) | [Moonlight Madness](https://open.spotify.com/album/6Qx42PLpE3V7Ojc3E2JLaz) | 3:21 | 2022-06-02 | 2022-07-22 |
 | [Love in the Open](https://open.spotify.com/track/7bHrageN8GFaQ1jC3G9f4H) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Love in the Open](https://open.spotify.com/album/7favYyfj0YmlHjZNPC3LfE) | 2:02 | 2024-03-14 |  |
+| [Love's For Fools](https://open.spotify.com/track/4GMPhvJowPmhwOGXCVd1JD) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Love's For Fools](https://open.spotify.com/album/3XMftUyGqfMztGHnxftUl6) | 4:50 | 2024-03-14 |  |
 | [MARY](https://open.spotify.com/track/6WkvT8SlxAKqQsOLeqIMRB) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [MARY](https://open.spotify.com/album/1XlZFlRQgdLrup2RMq4Lol) | 3:26 | 2023-12-14 | 2024-05-07 |
 | [maryjane](https://open.spotify.com/track/1HD7Z0tprZYcPC2okitF6z) | [KHYA](https://open.spotify.com/artist/4XgGyZXiobm9kfKFBdasgm) | [maryjane](https://open.spotify.com/album/0g56yZHVOSFB47HhNDnB0V) | 3:21 | 2023-02-24 |  |
 | [Met at the River](https://open.spotify.com/track/2sxQ1OkdtF7GyH1SVpDcI4) | [Mara TK](https://open.spotify.com/artist/3GzJfrTYqGHMASNHNNN7hN), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Met at the River](https://open.spotify.com/album/1syDBafjciFbCWgxm9zzP2) | 4:38 | 2022-06-02 | 2022-09-09 |
@@ -184,7 +185,7 @@
 | [Put It On Hold](https://open.spotify.com/track/6VXBOJfGbi8LFr6LItukTc) | [Mo’Ju](https://open.spotify.com/artist/08kSC3EyOASw4LU1BmBG6g) | [Put It On Hold](https://open.spotify.com/album/2N0um43ZRVVPA8Hn4fQ8Il) | 2:36 | 2022-06-02 | 2022-07-22 |
 | [Raye](https://open.spotify.com/track/1HCscV7IBGyxnaPh2jShMP) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Make It Happen \(Deluxe Edition\)](https://open.spotify.com/album/5RbJ1jOe7KFVfbB5GOLhUT) | 4:29 | 2022-06-02 |  |
 | [Red Room](https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Red Room](https://open.spotify.com/album/6nMLINUfKd2p6mZ3El99Yj) | 3:52 | 2022-06-02 | 2022-07-22 |
-| [Reelin'](https://open.spotify.com/track/0TGjVuX7qOk9rAjPnKi1p3) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Reelin'](https://open.spotify.com/album/1m0MWlkHpgpoZ7FuILeQWw) | 3:28 | 2024-03-14 |  |
+| [Reelin'](https://open.spotify.com/track/0TGjVuX7qOk9rAjPnKi1p3) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Reelin'](https://open.spotify.com/album/1m0MWlkHpgpoZ7FuILeQWw) | 3:28 | 2024-03-14 | 2025-03-16 |
 | [Reelin'](https://open.spotify.com/track/0pZrbb5wNwxRA3mqsl1SWN) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Everything's Fine](https://open.spotify.com/album/2OOTl13Kx9KxMF1ESG2u58) | 3:28 | 2023-03-23 | 2024-04-19 |
 | [Reelin'](https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Reelin'](https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C) | 3:28 | 2023-01-12 | 2023-03-27 |
 | [Ride or Die](https://open.spotify.com/track/40wfUw3Vf1V1a46CibHmt7) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/4ogV05oprfriua7n9icbvN) | 4:14 | 2022-06-02 | 2022-07-29 |

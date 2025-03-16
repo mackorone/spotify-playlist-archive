@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Dato' Sri Siti Nurhaliza, Lizzo, Calvin Harris, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,707 likes - 95 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,719 likes - 95 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 10 | [Bara Jiwa \- From "Blood Brothers: Bara Naga"](https://open.spotify.com/track/6pqk4T5wW0pVsxD9yEqTFE) | [Azlan & The Typewriter](https://open.spotify.com/artist/18veyTkB9uyo37bqh2YGTm), [Muzza](https://open.spotify.com/artist/0thwAA2c9qsCC0gk2glOLL) | [Bara Jiwa \(From "Blood Brothers: Bara Naga"\)](https://open.spotify.com/album/3NXrxbXSbUNh5wLHcTC5Ou) | 4:02 |
 | 11 | [我是真的相信過愛情](https://open.spotify.com/track/1jzf9hHC4ADMmQMWvKdhbg) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [我是真的相信過愛情](https://open.spotify.com/album/7cpBnzeIAjRomRz6QFpUbK) | 4:41 |
 | 12 | [human](https://open.spotify.com/track/3KvYoVJylO84n1aFbFJ8QF) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [human](https://open.spotify.com/album/1K8LPHaAbehFPjy4M28vay) | 2:22 |
-| 13 | [Senyum\-Senyum Raya](https://open.spotify.com/track/5NQUvHkqGlHDKeR0p5bgy0) | [Alif Satar](https://open.spotify.com/artist/3yyigIEvkU9FNjdVP23Le4), [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Senyum\-Senyum Raya](https://open.spotify.com/album/4Uv8vLdk79A4HnhV19kuUZ) | 2:44 |
+| 13 | [Senyum\-Senyum Raya](https://open.spotify.com/track/5NQUvHkqGlHDKeR0p5bgy0) | [Alif Satar & The Locos](https://open.spotify.com/artist/3QJLrhJdfnlCvNg7fcJWNP) | [Senyum\-Senyum Raya](https://open.spotify.com/album/4Uv8vLdk79A4HnhV19kuUZ) | 2:44 |
 | 14 | [Raya Bergaya](https://open.spotify.com/track/7m5jlz3Xddi8agiNsU4RV3) | [Kmy Kmo](https://open.spotify.com/artist/43ZXvAH7c6jRsqNIRWft4P), [Luca Sickta](https://open.spotify.com/artist/3pTnpQxoPsO7pptxSxA7yG), [Liza Hanim](https://open.spotify.com/artist/0TQk8sb9bPIMKGbvbkB51O) | [Raya Bergaya](https://open.spotify.com/album/4qMqZhAE3ObOVUQa1EPzVX) | 3:28 |
 | 15 | [Raya Pokai](https://open.spotify.com/track/4b4eOnxyuPqUlxs2fSyeMw) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx), [Danial Ismail](https://open.spotify.com/artist/3idBFNytuZgUsdhp2RSVe8), [Ellisda](https://open.spotify.com/artist/1P4O9MKNiMbDDmS6qt3MXl), [Izzrin Irfan](https://open.spotify.com/artist/3JquZZlOeGQFwAOEQZyccO), [Aish Farish](https://open.spotify.com/artist/3cDyntCEhI1upIWyHLeOXN) | [Raya Pokai](https://open.spotify.com/album/6S0z6HNTRPoeEBP6fxVOG7) | 3:43 |
 | 16 | [Kita Ra Raya](https://open.spotify.com/track/5HXhlPxVdUiq4kHpNFbSva) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr), [Kucaimars](https://open.spotify.com/artist/2qf0FNIDmfNQ3bTi9Gyj90), [Yunadia](https://open.spotify.com/artist/16W8EJ3641hpt13g7HFZjG), [Hariz Danial](https://open.spotify.com/artist/7bjyxQUykufrYXkSpud9XW), [Arif Kama](https://open.spotify.com/artist/58bmIxuVuW2nY9CaLpT1l6), [Mierul Hazly](https://open.spotify.com/artist/0NYxGHe2CH4lBJqXcIXuXp), [Sebrian Shah](https://open.spotify.com/artist/1P0M0jHtE2kOHFv2LrFaFJ), [Emeer Bakri](https://open.spotify.com/artist/6nBQC852okAtQU7nl4zf0Z) | [Kita Ra Raya](https://open.spotify.com/album/4Q07yJitZjFfIBZvAxqC8N) | 2:33 |
