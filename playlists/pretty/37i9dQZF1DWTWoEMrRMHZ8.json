@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Preta Gil",
-  "num_followers": 349624,
+  "num_followers": 349627,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng"
+      },
+      "artists": [
+        {
+          "name": "Samuel Rosa",
+          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
+        }
+      ],
+      "duration_ms": 236535,
+      "name": "Rio Dentro do Mar",
+      "url": "https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
         "name": "Eterna Alegria (Special Edition) [Ao Vivo]",
         "url": "https://open.spotify.com/album/5Cl79Wr1ZukFvRGM2zgG7z"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 205915,
       "name": "Mutir\u00e3o de Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/0yL2NJPP19vdualPdOCWet"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng"
-      },
-      "artists": [
-        {
-          "name": "Samuel Rosa",
-          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
-        }
-      ],
-      "duration_ms": 236535,
-      "name": "Rio Dentro do Mar",
-      "url": "https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -483,6 +483,26 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
+        "name": "Volta Por Cima",
+        "url": "https://open.spotify.com/album/43jVk8st8EuevYTvhf1tAI"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 139907,
+      "name": "Volta Por Cima",
+      "url": "https://open.spotify.com/track/0hXCcivWPOFFAvYEJdbPVj"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
         "name": "Praia do Futuro",
         "url": "https://open.spotify.com/album/24izpsE4XkFEwNRoauYBPg"
       },
@@ -507,22 +527,18 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "Volta Por Cima",
-        "url": "https://open.spotify.com/album/43jVk8st8EuevYTvhf1tAI"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc"
       },
       "artists": [
         {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
         }
       ],
-      "duration_ms": 139907,
-      "name": "Volta Por Cima",
-      "url": "https://open.spotify.com/track/0hXCcivWPOFFAvYEJdbPVj"
+      "duration_ms": 186000,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/0Aqtdx2KAgRCRQYYbJnKsh"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -543,22 +559,6 @@
       "duration_ms": 213377,
       "name": "Bananeira",
       "url": "https://open.spotify.com/track/4WgmnXbC1AeMIHzzrMY3o0"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc"
-      },
-      "artists": [
-        {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/0Aqtdx2KAgRCRQYYbJnKsh"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "DO MEU QUARTO",
-        "url": "https://open.spotify.com/album/7vaqb7TJAW7D2GOJaeR5h9"
-      },
-      "artists": [
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        }
-      ],
-      "duration_ms": 123750,
-      "name": "dona da minha cabe\u00e7a",
-      "url": "https://open.spotify.com/track/1y1pvjXU0iolEXqQuJ8gsY"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
         "name": "Bahia Com H",
         "url": "https://open.spotify.com/album/2UO7PFTEbd7DDwaUVSgVQR"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 264729,
       "name": "Bahia Com H",
       "url": "https://open.spotify.com/track/3Wll6TfRJ1bzskJsZQe89P"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
+        "name": "DO MEU QUARTO",
+        "url": "https://open.spotify.com/album/7vaqb7TJAW7D2GOJaeR5h9"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "duration_ms": 123750,
+      "name": "dona da minha cabe\u00e7a",
+      "url": "https://open.spotify.com/track/1y1pvjXU0iolEXqQuJ8gsY"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "Quatro Contas",
-        "url": "https://open.spotify.com/album/6JwRw6KKuyiP9y3XxY1v0P"
-      },
-      "artists": [
-        {
-          "name": "Dona Onete",
-          "url": "https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc"
-        }
-      ],
-      "duration_ms": 197842,
-      "name": "Quatro Contas",
-      "url": "https://open.spotify.com/track/5cItnbFV1GfC6YqWcx3rgT"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
         "name": "PIQUE",
         "url": "https://open.spotify.com/album/60w2pJCJwfeHzIKYQxue37"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 243333,
       "name": "A Melhor Sa\u00edda",
       "url": "https://open.spotify.com/track/6nnQ6idUNylK6LBckW9hyO"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
+        "name": "Quatro Contas",
+        "url": "https://open.spotify.com/album/6JwRw6KKuyiP9y3XxY1v0P"
+      },
+      "artists": [
+        {
+          "name": "Dona Onete",
+          "url": "https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc"
+        }
+      ],
+      "duration_ms": 197842,
+      "name": "Quatro Contas",
+      "url": "https://open.spotify.com/track/5cItnbFV1GfC6YqWcx3rgT"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -967,58 +967,6 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "Na Mi\u00fada",
-        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
-      },
-      "artists": [
-        {
-          "name": "Augusta Barna",
-          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
-        }
-      ],
-      "duration_ms": 142011,
-      "name": "Apesar de Agora",
-      "url": "https://open.spotify.com/track/7t5vyu2pZ4rnrJ6azywIaD"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
-        "name": "Perto de Mim",
-        "url": "https://open.spotify.com/album/6cC2ji5TGHyOcAglcwBDc6"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Necka Ayala",
-          "url": "https://open.spotify.com/artist/08g55FerICNj0oJ5Jkhmn3"
-        }
-      ],
-      "duration_ms": 200428,
-      "name": "Perto de Mim",
-      "url": "https://open.spotify.com/track/2Kw52vEmPePbbJALpaJawB"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
-        "name": "Salom\u00e9",
-        "url": "https://open.spotify.com/album/3l1VTAtEOZuSu4HZaksa7K"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fonseca",
-          "url": "https://open.spotify.com/artist/5nR2xFgBpWLB6h59dl5fss"
-        }
-      ],
-      "duration_ms": 236522,
-      "name": "Salom\u00e9",
-      "url": "https://open.spotify.com/track/0JOmgVgk2o6FxR8dyxoSaD"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
         "name": "Me Tira Do Eixo",
         "url": "https://open.spotify.com/album/2x5JUUTYSU5aEQqr4WJAIa"
       },
@@ -1043,6 +991,58 @@
       "duration_ms": 173529,
       "name": "Me Tira Do Eixo",
       "url": "https://open.spotify.com/track/5UJY9VMnLRE7feDVFPGDBf"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
+        "name": "Na Mi\u00fada",
+        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
+      },
+      "artists": [
+        {
+          "name": "Augusta Barna",
+          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
+        }
+      ],
+      "duration_ms": 142011,
+      "name": "Apesar de Agora",
+      "url": "https://open.spotify.com/track/7t5vyu2pZ4rnrJ6azywIaD"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
+        "name": "Salom\u00e9",
+        "url": "https://open.spotify.com/album/3l1VTAtEOZuSu4HZaksa7K"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fonseca",
+          "url": "https://open.spotify.com/artist/5nR2xFgBpWLB6h59dl5fss"
+        }
+      ],
+      "duration_ms": 236522,
+      "name": "Salom\u00e9",
+      "url": "https://open.spotify.com/track/0JOmgVgk2o6FxR8dyxoSaD"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
+        "name": "Perto de Mim",
+        "url": "https://open.spotify.com/album/6cC2ji5TGHyOcAglcwBDc6"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Necka Ayala",
+          "url": "https://open.spotify.com/artist/08g55FerICNj0oJ5Jkhmn3"
+        }
+      ],
+      "duration_ms": 200428,
+      "name": "Perto de Mim",
+      "url": "https://open.spotify.com/track/2Kw52vEmPePbbJALpaJawB"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "Coisas de Viver",
-        "url": "https://open.spotify.com/album/3dJWkE6flvMZ5o0AhjeCPc"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 191941,
-      "name": "Peito Aberto",
-      "url": "https://open.spotify.com/track/3LwpgwdlbC5kCRlPTrf2W8"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
         "name": "Baianidade Nag\u00f4",
         "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
       },
@@ -1111,22 +1095,18 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "Alma Turva",
-        "url": "https://open.spotify.com/album/0HiJoWzkfAENzSJcB9oVKQ"
+        "name": "Coisas de Viver",
+        "url": "https://open.spotify.com/album/3dJWkE6flvMZ5o0AhjeCPc"
       },
       "artists": [
         {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Wado",
-          "url": "https://open.spotify.com/artist/3rnWuDRQyfIuj7CdrCWLMo"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         }
       ],
-      "duration_ms": 141874,
-      "name": "Alma Turva",
-      "url": "https://open.spotify.com/track/719yUpGCeImqyzkOgZ4M55"
+      "duration_ms": 191941,
+      "name": "Peito Aberto",
+      "url": "https://open.spotify.com/track/3LwpgwdlbC5kCRlPTrf2W8"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -1163,6 +1143,30 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
+        "name": "Todo carnaval tem seu fim",
+        "url": "https://open.spotify.com/album/1hpYnot4DYD0jace4qsKnL"
+      },
+      "artists": [
+        {
+          "name": "Vers\u00e3o brasileira",
+          "url": "https://open.spotify.com/artist/0W1q0QDaLqfsW43ToxMN2E"
+        },
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        },
+        {
+          "name": "Renato Frei",
+          "url": "https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV"
+        }
+      ],
+      "duration_ms": 140100,
+      "name": "Todo carnaval tem seu fim",
+      "url": "https://open.spotify.com/track/5ggN8QDm492S8wQpb451Ks"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
         "name": "Universo de Paix\u00e3o",
         "url": "https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y"
       },
@@ -1195,22 +1199,22 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "Donatural (Ao Vivo)",
-        "url": "https://open.spotify.com/album/69sBJHQWjXQiMj9OiKZxvC"
+        "name": "Alma Turva",
+        "url": "https://open.spotify.com/album/0HiJoWzkfAENzSJcB9oVKQ"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
         },
         {
-          "name": "Marcelo D2",
-          "url": "https://open.spotify.com/artist/1yKaNMUreBaOTlGMjGS1na"
+          "name": "Wado",
+          "url": "https://open.spotify.com/artist/3rnWuDRQyfIuj7CdrCWLMo"
         }
       ],
-      "duration_ms": 215173,
-      "name": "Balan\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/4LKgxetmy9aos6dDYI7oPw"
+      "duration_ms": 141874,
+      "name": "Alma Turva",
+      "url": "https://open.spotify.com/track/719yUpGCeImqyzkOgZ4M55"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -1231,6 +1235,42 @@
       "duration_ms": 192271,
       "name": "Insensatez",
       "url": "https://open.spotify.com/track/6EEJ80jZ2VTdAEDh7oWjBv"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
+        "name": "Donatural (Ao Vivo)",
+        "url": "https://open.spotify.com/album/69sBJHQWjXQiMj9OiKZxvC"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        },
+        {
+          "name": "Marcelo D2",
+          "url": "https://open.spotify.com/artist/1yKaNMUreBaOTlGMjGS1na"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Balan\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/4LKgxetmy9aos6dDYI7oPw"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
+        "name": "PERDURAR (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1mlXUGcS3vUAWeCFB6u7zq"
+      },
+      "artists": [
+        {
+          "name": "Marco Baptista",
+          "url": "https://open.spotify.com/artist/4z72Rq6ZmZ4tIP1kY2CtmF"
+        }
+      ],
+      "duration_ms": 143812,
+      "name": "Ainda Bem - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1sDCgVenukInykyvUroLvy"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -1299,30 +1339,6 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "Todo carnaval tem seu fim",
-        "url": "https://open.spotify.com/album/1hpYnot4DYD0jace4qsKnL"
-      },
-      "artists": [
-        {
-          "name": "Vers\u00e3o brasileira",
-          "url": "https://open.spotify.com/artist/0W1q0QDaLqfsW43ToxMN2E"
-        },
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        },
-        {
-          "name": "Renato Frei",
-          "url": "https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV"
-        }
-      ],
-      "duration_ms": 140100,
-      "name": "Todo carnaval tem seu fim",
-      "url": "https://open.spotify.com/track/5ggN8QDm492S8wQpb451Ks"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
         "name": "Coragem",
         "url": "https://open.spotify.com/album/1nlkvskl6untUR98IWBiZP"
       },
@@ -1375,18 +1391,18 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "PERDURAR (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1mlXUGcS3vUAWeCFB6u7zq"
+        "name": "Voc\u00ea \u00c9 Linda",
+        "url": "https://open.spotify.com/album/13sGUqjK8h6xacaCzFXFEX"
       },
       "artists": [
         {
-          "name": "Marco Baptista",
-          "url": "https://open.spotify.com/artist/4z72Rq6ZmZ4tIP1kY2CtmF"
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
         }
       ],
-      "duration_ms": 143812,
-      "name": "Ainda Bem - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1sDCgVenukInykyvUroLvy"
+      "duration_ms": 244000,
+      "name": "Voc\u00ea \u00c9 Linda",
+      "url": "https://open.spotify.com/track/0nsBqLgnCcdXIZ0eFY77RR"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -1403,22 +1419,6 @@
       "duration_ms": 246875,
       "name": "Sou Fera",
       "url": "https://open.spotify.com/track/0HxX5p4HIO4pULJkCRbbqX"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
-        "name": "Voc\u00ea \u00c9 Linda",
-        "url": "https://open.spotify.com/album/13sGUqjK8h6xacaCzFXFEX"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Voc\u00ea \u00c9 Linda",
-      "url": "https://open.spotify.com/track/0nsBqLgnCcdXIZ0eFY77RR"
     },
     {
       "added_at": "2025-03-14 03:00:12",

@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 31736,
+  "num_followers": 31744,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2025-03-13 23:00:16",
       "album": {
-        "name": "It Takes A Woman",
-        "url": "https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 246986,
-      "name": "It Takes A Woman",
-      "url": "https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP"
-    },
-    {
-      "added_at": "2025-03-13 23:00:16",
-      "album": {
         "name": "The Man He Sees in Me",
         "url": "https://open.spotify.com/album/5oR5JuHZV4Yz7XvvBJHOCt"
       },
@@ -227,26 +211,6 @@
       "duration_ms": 165058,
       "name": "The Man He Sees in Me",
       "url": "https://open.spotify.com/track/0Zm4ZDBtiZCDp69Cxs5TaB"
-    },
-    {
-      "added_at": "2025-03-13 23:00:16",
-      "album": {
-        "name": "Purple Gas",
-        "url": "https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Noeline Hofmann",
-          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
-        }
-      ],
-      "duration_ms": 180152,
-      "name": "Purple Gas",
-      "url": "https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx"
     },
     {
       "added_at": "2025-03-13 23:00:16",
@@ -267,6 +231,22 @@
     {
       "added_at": "2025-03-13 23:00:16",
       "album": {
+        "name": "It Takes A Woman",
+        "url": "https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 246986,
+      "name": "It Takes A Woman",
+      "url": "https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP"
+    },
+    {
+      "added_at": "2025-03-13 23:00:16",
+      "album": {
         "name": "Good Horses (feat. Miranda Lambert)",
         "url": "https://open.spotify.com/album/51LSHfJxKu0e6V9N8TcdEG"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 237773,
       "name": "Good Horses (feat. Miranda Lambert)",
       "url": "https://open.spotify.com/track/2Y55wplSMT3ltQQOPvMC75"
+    },
+    {
+      "added_at": "2025-03-13 23:00:16",
+      "album": {
+        "name": "Purple Gas",
+        "url": "https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "duration_ms": 180152,
+      "name": "Purple Gas",
+      "url": "https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx"
     },
     {
       "added_at": "2025-03-13 23:00:16",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-03-13 23:00:16",
       "album": {
-        "name": "Southern Star",
-        "url": "https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 305306,
-      "name": "Southern Star",
-      "url": "https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN"
-    },
-    {
-      "added_at": "2025-03-13 23:00:16",
-      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/53vlkY1WXAW0MWRgGqR74z"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2025-03-13 23:00:16",
       "album": {
-        "name": "Happy, Pt. 2",
-        "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
+        "name": "Southern Star",
+        "url": "https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24"
       },
       "artists": [
         {
-          "name": "Douglas Firs",
-          "url": "https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4"
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
         }
       ],
-      "duration_ms": 230715,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
+      "duration_ms": 305306,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN"
     },
     {
       "added_at": "2025-03-13 23:00:16",
@@ -579,6 +563,22 @@
       "duration_ms": 234237,
       "name": "Overpass Graffiti",
       "url": "https://open.spotify.com/track/0HDQnAQQa0NrKt4q6SqF6a"
+    },
+    {
+      "added_at": "2025-03-13 23:00:16",
+      "album": {
+        "name": "Happy, Pt. 2",
+        "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
+      },
+      "artists": [
+        {
+          "name": "Douglas Firs",
+          "url": "https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4"
+        }
+      ],
+      "duration_ms": 230715,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
     },
     {
       "added_at": "2025-03-13 23:00:16",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-03-13 23:00:16",
       "album": {
+        "name": "Acoustic.Blues.Club",
+        "url": "https://open.spotify.com/album/7s8vvc5OxtIXmrpuIuesZZ"
+      },
+      "artists": [
+        {
+          "name": "MY BABY",
+          "url": "https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm"
+        }
+      ],
+      "duration_ms": 391654,
+      "name": "Out On Gin",
+      "url": "https://open.spotify.com/track/5mr2GkIw0iG9PHTFwOT2LE"
+    },
+    {
+      "added_at": "2025-03-13 23:00:16",
+      "album": {
         "name": "The Machine (Radio Edit)",
         "url": "https://open.spotify.com/album/2jiqkUjC2pa8roaYu71nd3"
       },
@@ -683,18 +699,18 @@
     {
       "added_at": "2025-03-13 23:00:16",
       "album": {
-        "name": "Acoustic.Blues.Club",
-        "url": "https://open.spotify.com/album/7s8vvc5OxtIXmrpuIuesZZ"
+        "name": "I Cry Alone",
+        "url": "https://open.spotify.com/album/1TuR4n1YDtRMgJhORKN5Na"
       },
       "artists": [
         {
-          "name": "MY BABY",
-          "url": "https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm"
+          "name": "Dawn Brothers",
+          "url": "https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a"
         }
       ],
-      "duration_ms": 391654,
-      "name": "Out On Gin",
-      "url": "https://open.spotify.com/track/5mr2GkIw0iG9PHTFwOT2LE"
+      "duration_ms": 211093,
+      "name": "I Cry Alone",
+      "url": "https://open.spotify.com/track/2KLXKaVVPN5JEQao4EX6aw"
     },
     {
       "added_at": "2025-03-13 23:00:16",
@@ -771,22 +787,6 @@
     {
       "added_at": "2025-03-13 23:00:16",
       "album": {
-        "name": "I Cry Alone",
-        "url": "https://open.spotify.com/album/1TuR4n1YDtRMgJhORKN5Na"
-      },
-      "artists": [
-        {
-          "name": "Dawn Brothers",
-          "url": "https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a"
-        }
-      ],
-      "duration_ms": 211093,
-      "name": "I Cry Alone",
-      "url": "https://open.spotify.com/track/2KLXKaVVPN5JEQao4EX6aw"
-    },
-    {
-      "added_at": "2025-03-13 23:00:16",
-      "album": {
         "name": "Mortality Blues",
         "url": "https://open.spotify.com/album/2iNKZdDYGZ2Aik3xW9CoUJ"
       },
@@ -855,18 +855,18 @@
     {
       "added_at": "2025-03-13 23:00:16",
       "album": {
-        "name": "Changing Waters",
-        "url": "https://open.spotify.com/album/5JJZPG9uKbMw4L0K8IT6qX"
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY"
       },
       "artists": [
         {
-          "name": "MISTER & MRS",
-          "url": "https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS"
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
         }
       ],
-      "duration_ms": 205091,
-      "name": "Changing Waters",
-      "url": "https://open.spotify.com/track/3xyHbp6IiNdAIRrteoHs3Q"
+      "duration_ms": 194474,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t"
     }
   ],
   "unique_name": "Country & Americana",

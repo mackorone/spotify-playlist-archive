@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Joost & Spinvis",
-  "num_followers": 9989,
+  "num_followers": 9997,
   "original_name": "indiepuntnl",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2025-03-13 23:00:30",
       "album": {
+        "name": "voor alles bang / h-e-l-p",
+        "url": "https://open.spotify.com/album/3yVBy9LeYgznW4mA0Q6bOW"
+      },
+      "artists": [
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        }
+      ],
+      "duration_ms": 187408,
+      "name": "h-e-l-p",
+      "url": "https://open.spotify.com/track/5oNlohQIizMEY8EbzJLpub"
+    },
+    {
+      "added_at": "2025-03-13 23:00:30",
+      "album": {
         "name": "drift",
         "url": "https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y"
       },
@@ -163,38 +179,6 @@
     {
       "added_at": "2025-03-13 23:00:30",
       "album": {
-        "name": "Verlaten Terrein",
-        "url": "https://open.spotify.com/album/1lFypumlh0lupowvAr4zFQ"
-      },
-      "artists": [
-        {
-          "name": "jet van der steen",
-          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
-        }
-      ],
-      "duration_ms": 165937,
-      "name": "Verlaten Terrein",
-      "url": "https://open.spotify.com/track/4VNEjFbnAG6wRj7AmP5L3S"
-    },
-    {
-      "added_at": "2025-03-13 23:00:30",
-      "album": {
-        "name": "voor alles bang / h-e-l-p",
-        "url": "https://open.spotify.com/album/3yVBy9LeYgznW4mA0Q6bOW"
-      },
-      "artists": [
-        {
-          "name": "Sef",
-          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
-        }
-      ],
-      "duration_ms": 187408,
-      "name": "h-e-l-p",
-      "url": "https://open.spotify.com/track/5oNlohQIizMEY8EbzJLpub"
-    },
-    {
-      "added_at": "2025-03-13 23:00:30",
-      "album": {
         "name": "Weer Verliefd",
         "url": "https://open.spotify.com/album/6Ip4bbABf0n2qieViUxktD"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 201750,
       "name": "Weer Verliefd",
       "url": "https://open.spotify.com/track/11xGbQB9tJX9qtM9HHCDMf"
+    },
+    {
+      "added_at": "2025-03-13 23:00:30",
+      "album": {
+        "name": "Verlaten Terrein",
+        "url": "https://open.spotify.com/album/1lFypumlh0lupowvAr4zFQ"
+      },
+      "artists": [
+        {
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
+        }
+      ],
+      "duration_ms": 165937,
+      "name": "Verlaten Terrein",
+      "url": "https://open.spotify.com/track/4VNEjFbnAG6wRj7AmP5L3S"
     },
     {
       "added_at": "2025-03-13 23:00:30",
@@ -307,6 +307,22 @@
     {
       "added_at": "2025-03-13 23:00:30",
       "album": {
+        "name": "Mijn Haren Ruiken Naar Vuur",
+        "url": "https://open.spotify.com/album/2Ew3FsEM2r6TrGiKeXQUaq"
+      },
+      "artists": [
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "duration_ms": 162694,
+      "name": "Mijn Haren Ruiken Naar Vuur",
+      "url": "https://open.spotify.com/track/4RM0MtCdgCQfypBVBGxX4f"
+    },
+    {
+      "added_at": "2025-03-13 23:00:30",
+      "album": {
         "name": "Vlinder",
         "url": "https://open.spotify.com/album/1HdguDX5OZ7JylppPeSQ8f"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 203264,
       "name": "Als Je Nog Wil",
       "url": "https://open.spotify.com/track/0Ead0P4QxEndPROj1rNrGT"
-    },
-    {
-      "added_at": "2025-03-13 23:00:30",
-      "album": {
-        "name": "Mijn Haren Ruiken Naar Vuur",
-        "url": "https://open.spotify.com/album/2Ew3FsEM2r6TrGiKeXQUaq"
-      },
-      "artists": [
-        {
-          "name": "S10",
-          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
-        }
-      ],
-      "duration_ms": 162694,
-      "name": "Mijn Haren Ruiken Naar Vuur",
-      "url": "https://open.spotify.com/track/4RM0MtCdgCQfypBVBGxX4f"
     },
     {
       "added_at": "2025-03-13 23:00:30",
@@ -387,22 +387,6 @@
     {
       "added_at": "2025-03-13 23:00:30",
       "album": {
-        "name": "Altijd Anders",
-        "url": "https://open.spotify.com/album/7ma0pucTvx56rAqs4bAzVp"
-      },
-      "artists": [
-        {
-          "name": "Massi",
-          "url": "https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056"
-        }
-      ],
-      "duration_ms": 228813,
-      "name": "Altijd Anders",
-      "url": "https://open.spotify.com/track/33EP7F8c3UUAJQzMYLcoyC"
-    },
-    {
-      "added_at": "2025-03-13 23:00:30",
-      "album": {
         "name": "Het Hart Bestaat Niet En De Rest Ook Niet",
         "url": "https://open.spotify.com/album/5TaJOGhCQhrg8AMf5WSwZW"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 209532,
       "name": "De Grens Tussen Ons",
       "url": "https://open.spotify.com/track/5jWLxOSU7WWpcNnPNbhCwz"
+    },
+    {
+      "added_at": "2025-03-13 23:00:30",
+      "album": {
+        "name": "Altijd Anders",
+        "url": "https://open.spotify.com/album/7ma0pucTvx56rAqs4bAzVp"
+      },
+      "artists": [
+        {
+          "name": "Massi",
+          "url": "https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056"
+        }
+      ],
+      "duration_ms": 228813,
+      "name": "Altijd Anders",
+      "url": "https://open.spotify.com/track/33EP7F8c3UUAJQzMYLcoyC"
     },
     {
       "added_at": "2025-03-13 23:00:30",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-03-13 23:00:30",
       "album": {
-        "name": "Spijbelaar",
-        "url": "https://open.spotify.com/album/455RrTsNFiMvIXPXt68RQQ"
-      },
-      "artists": [
-        {
-          "name": "Spijbelaar",
-          "url": "https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP"
-        }
-      ],
-      "duration_ms": 216582,
-      "name": "Alleen",
-      "url": "https://open.spotify.com/track/6qtYJkBV6sSKUnHejbyUsC"
-    },
-    {
-      "added_at": "2025-03-13 23:00:30",
-      "album": {
         "name": "Opslaan",
         "url": "https://open.spotify.com/album/7BJOX5oMsdH3g1IVVxEpy1"
       },
@@ -611,18 +595,18 @@
     {
       "added_at": "2025-03-13 23:00:30",
       "album": {
-        "name": "Hopeloze Romanticus",
-        "url": "https://open.spotify.com/album/3HYbI8aprHEvAyAXq1gZo8"
+        "name": "Spijbelaar",
+        "url": "https://open.spotify.com/album/455RrTsNFiMvIXPXt68RQQ"
       },
       "artists": [
         {
-          "name": "Q'n",
-          "url": "https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM"
+          "name": "Spijbelaar",
+          "url": "https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Allermooiste Pijn",
-      "url": "https://open.spotify.com/track/1UsdHth1uy9sAbZiJLzFt7"
+      "duration_ms": 216582,
+      "name": "Alleen",
+      "url": "https://open.spotify.com/track/6qtYJkBV6sSKUnHejbyUsC"
     },
     {
       "added_at": "2025-03-13 23:00:30",
@@ -643,18 +627,18 @@
     {
       "added_at": "2025-03-13 23:00:30",
       "album": {
-        "name": "Naamloze Liefde",
-        "url": "https://open.spotify.com/album/3kY5AWZimGg9ztotSt65Pw"
+        "name": "Hopeloze Romanticus",
+        "url": "https://open.spotify.com/album/3HYbI8aprHEvAyAXq1gZo8"
       },
       "artists": [
         {
-          "name": "Roos Blufpand",
-          "url": "https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC"
+          "name": "Q'n",
+          "url": "https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM"
         }
       ],
-      "duration_ms": 157752,
-      "name": "Nieuw Begin",
-      "url": "https://open.spotify.com/track/5whI35aoxvWEr5cnzgXj0P"
+      "duration_ms": 194000,
+      "name": "Allermooiste Pijn",
+      "url": "https://open.spotify.com/track/1UsdHth1uy9sAbZiJLzFt7"
     },
     {
       "added_at": "2025-03-13 23:00:30",
@@ -671,6 +655,22 @@
       "duration_ms": 167968,
       "name": "Sorry Lul",
       "url": "https://open.spotify.com/track/6cOAc4PczLoDpHKjfmvfdu"
+    },
+    {
+      "added_at": "2025-03-13 23:00:30",
+      "album": {
+        "name": "Naamloze Liefde",
+        "url": "https://open.spotify.com/album/3kY5AWZimGg9ztotSt65Pw"
+      },
+      "artists": [
+        {
+          "name": "Roos Blufpand",
+          "url": "https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC"
+        }
+      ],
+      "duration_ms": 157752,
+      "name": "Nieuw Begin",
+      "url": "https://open.spotify.com/track/5whI35aoxvWEr5cnzgXj0P"
     },
     {
       "added_at": "2025-03-13 23:00:30",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-03-13 23:00:30",
       "album": {
+        "name": "i miss u [brood]",
+        "url": "https://open.spotify.com/album/7K1uSKM8wyJyYtLmVTSUkp"
+      },
+      "artists": [
+        {
+          "name": "flens",
+          "url": "https://open.spotify.com/artist/6GUmsOojs1m8tTbp7ZsaaD"
+        }
+      ],
+      "duration_ms": 139889,
+      "name": "i miss u [brood]",
+      "url": "https://open.spotify.com/track/0IyJWLIhd3yiJMemiJLKPj"
+    },
+    {
+      "added_at": "2025-03-13 23:00:30",
+      "album": {
         "name": "BOM",
         "url": "https://open.spotify.com/album/5PxyxmfnaxniQaGXSvVaym"
       },
@@ -783,26 +799,6 @@
       "duration_ms": 126902,
       "name": "BOM",
       "url": "https://open.spotify.com/track/0CGEEbLcQQgGaf4W6vKfi6"
-    },
-    {
-      "added_at": "2025-03-13 23:00:30",
-      "album": {
-        "name": "Te Echt",
-        "url": "https://open.spotify.com/album/3vda2iqdmPnTyQ3vTMlRbW"
-      },
-      "artists": [
-        {
-          "name": "Nieuwe Gezichten",
-          "url": "https://open.spotify.com/artist/4264rIV4BlBGXdk0R9so4c"
-        },
-        {
-          "name": "Bo Menning",
-          "url": "https://open.spotify.com/artist/2k83szK3kujFBEO1icWht3"
-        }
-      ],
-      "duration_ms": 248799,
-      "name": "Te Echt",
-      "url": "https://open.spotify.com/track/33zJAMvzqHa7vMzK8oA9wZ"
     },
     {
       "added_at": "2025-03-13 23:00:30",

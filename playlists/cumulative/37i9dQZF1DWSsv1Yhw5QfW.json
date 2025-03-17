@@ -401,24 +401,6 @@
     },
     {
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/7mpaRCyqIZ5Tj5wTB5612U"
-      },
-      "artists": [
-        {
-          "name": "The Bangles",
-          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
-        }
-      ],
-      "date_added": "2020-07-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 235666,
-      "name": "Eternal Flame",
-      "url": "https://open.spotify.com/track/5g3ZD7PmrEQlQZKDW91yGG"
-    },
-    {
-      "album": {
         "name": "Essential - 80's Love",
         "url": "https://open.spotify.com/album/0wELDKiN6EnDFXc9HvvNPy"
       },
@@ -434,6 +416,28 @@
       "duration_ms": 236560,
       "name": "Eternal Flame",
       "url": "https://open.spotify.com/track/6KkS3pLIpngmIUNqIpMNHr"
+    },
+    {
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/7mpaRCyqIZ5Tj5wTB5612U"
+      },
+      "artists": [
+        {
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+        },
+        {
+          "name": "Susanna Hoffs",
+          "url": "https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL"
+        }
+      ],
+      "date_added": "2020-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235666,
+      "name": "Eternal Flame",
+      "url": "https://open.spotify.com/track/5g3ZD7PmrEQlQZKDW91yGG"
     },
     {
       "album": {

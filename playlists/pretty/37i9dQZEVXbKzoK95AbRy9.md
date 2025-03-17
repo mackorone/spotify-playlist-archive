@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,760 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,800 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 36 | [Imã de Problema](https://open.spotify.com/track/7HrDxxY2b7vOKxJHtqdXN6) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Toca Que Eu Quero Ouvir](https://open.spotify.com/album/1FN14esKWwt7bRRrdWDOHW) | 2:17 |
 | 37 | [Puta É Só um Detalhe](https://open.spotify.com/track/4eqOz5gdCYww9GB5q3q1pU) | [DJ Douglinhas](https://open.spotify.com/artist/27CMmXxUH8UMkVGuFNFSOi), [DJ Miller Oficial](https://open.spotify.com/artist/07ox80BTdnwoNNcQT5IvBP), [MC Torugo](https://open.spotify.com/artist/30qXkHd2Thmw1wqJvgRa7o) | [Puta É Só um Detalhe](https://open.spotify.com/album/1lDtxHF9So0nM2qJJ5ngso) | 2:38 |
 | 38 | [Amigo Da Minha Saudade \- Ao Vivo](https://open.spotify.com/track/07kLShG3HTeLXTqnFCqNAJ) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn) | 2:30 |
-| 39 | [Cacos De Vidro](https://open.spotify.com/track/0arxXBXzv96Q449DK1SmiX) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Kolo](https://open.spotify.com/artist/1rsA71w7RvNFRojjnFzHcG), [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Diamantes, Lágrimas e Rostos para Esquecer](https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu) | 2:29 |
+| 39 | [Cacos De Vidro \(sample: Esperar pra Ver\)](https://open.spotify.com/track/0arxXBXzv96Q449DK1SmiX) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Kolo](https://open.spotify.com/artist/1rsA71w7RvNFRojjnFzHcG), [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Diamantes, Lágrimas e Rostos para Esquecer](https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu) | 2:29 |
 | 40 | [Medley de Igaratá 4](https://open.spotify.com/track/6ejIcf1OdUmtOJ7fpFcEXo) | [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [DJ Guh Mix](https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD) | [A Nata de Tudo \- A Ovelha Negra](https://open.spotify.com/album/3S91wF3EWG7OvRjsK9F2lx) | 4:59 |
 | 41 | [Sei Tocar Violão \- Ao Vivo](https://open.spotify.com/track/5hFh5hsMEmfRYZvh4FRE8Z) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Ao Vivo em Brasília \(Vol.2\)](https://open.spotify.com/album/0kVr8PFSSxtjM4AxdY0WFV) | 2:44 |
 | 42 | [Última Noite \- Solo](https://open.spotify.com/track/3cwVKjzKSTfvacYJF6Tkub) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Obrigado Deus](https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [SEQUÊNCIA STRIPTEASE](https://open.spotify.com/track/7xeqjq45imp3qonWKqfyip) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Debby](https://open.spotify.com/artist/1hMpRPX4OZEaJgBi6BsjHh), [Mc Talibã](https://open.spotify.com/artist/2DMQ1LeygTDGeyErwBwaeG) | [SEQUÊNCIA STRIPTEASE](https://open.spotify.com/album/1bS7v3HQh9l3cfALnsa7c3) | 2:24 |
 | 50 | [Arruma Um Bão](https://open.spotify.com/track/6ukVCqH77f6cwRHyJBhGgy) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Termômetro](https://open.spotify.com/album/6zw5gasuMMyY7fqTDUX2xq) | 2:55 |
 
-Snapshot ID: `L2jtIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L2o+oAAAAAAAAAAAAAAAAAAAAAAAAGVu`

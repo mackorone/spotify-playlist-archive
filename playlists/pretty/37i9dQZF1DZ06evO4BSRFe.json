@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Machos. The essential tracks, all in one playlist.",
-  "num_followers": 63642,
+  "num_followers": 63664,
   "original_name": "This Is Banda Machos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9NxgAAAAACwK4jVTm0MwLBycaP2RfNs",
+  "snapshot_id": "Z9TDAAAAAAD9NIpvF3TirtfOhyVP3QA+",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sentimientos",
-        "url": "https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "Te lo debo a ti",
-      "url": "https://open.spotify.com/track/6ZekD6aJtWhH81FV7xIPHo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La reina de las bandas Vol. I",
         "url": "https://open.spotify.com/album/78dh7yHMwbb3dPUqmEDxj2"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 154546,
       "name": "Mi chica ideal",
       "url": "https://open.spotify.com/track/3QukO1TbU8SvQQrkwFoKWF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sentimientos",
+        "url": "https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "Te lo debo a ti",
+      "url": "https://open.spotify.com/track/6ZekD6aJtWhH81FV7xIPHo"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Estrellas de la Musica Mexicana (USA)",
-        "url": "https://open.spotify.com/album/2JOLFDLR0yxFWPQ2V8f2tY"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 216306,
-      "name": "Mi guitarra y yo",
-      "url": "https://open.spotify.com/track/0edkcVjFnMaLouhsMHlcXw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Batalla De Bandas Banda El Recodo Vs. Banda Machos",
         "url": "https://open.spotify.com/album/1SctrZWYQz9kCm8uUXWxw6"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 189266,
       "name": "Traficantes Michoacanos",
       "url": "https://open.spotify.com/track/4dZGvGTg2Jay6IfM30d0GT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Estrellas de la Musica Mexicana (USA)",
+        "url": "https://open.spotify.com/album/2JOLFDLR0yxFWPQ2V8f2tY"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 216306,
+      "name": "Mi guitarra y yo",
+      "url": "https://open.spotify.com/track/0edkcVjFnMaLouhsMHlcXw"
     },
     {
       "added_at": null,

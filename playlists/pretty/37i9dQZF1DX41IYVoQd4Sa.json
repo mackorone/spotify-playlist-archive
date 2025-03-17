@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e9\u05e7\u05dc \u05d5\u05d2\u05dc\u05e2\u05d3 \u05db\u05d4\u05e0\u05d0 ",
-  "num_followers": 31601,
+  "num_followers": 31611,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-03-13 22:00:04",
       "album": {
-        "name": "Vandalist",
-        "url": "https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        }
-      ],
-      "duration_ms": 208374,
-      "name": "Vandalist",
-      "url": "https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh"
-    },
-    {
-      "added_at": "2025-03-13 22:00:04",
-      "album": {
         "name": "\u05de\u05d6\u05dc \u05e9\u05d9\u05e9 \u05dc\u05d9 \u05de\u05d5\u05d6\u05d9\u05e7\u05d4",
         "url": "https://open.spotify.com/album/24yew2vDaykmrWYYaz92jM"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 174452,
       "name": "\u05d4\u05db\u05d9 \u05d9\u05e4\u05d4 \u05d1\u05d3\u05d9\u05e1\u05e7\u05d5",
       "url": "https://open.spotify.com/track/5P2Jj9F8jXWvbflKao1Fjg"
+    },
+    {
+      "added_at": "2025-03-13 22:00:04",
+      "album": {
+        "name": "Vandalist",
+        "url": "https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 208374,
+      "name": "Vandalist",
+      "url": "https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh"
     },
     {
       "added_at": "2025-03-13 22:00:04",
@@ -671,26 +671,6 @@
     {
       "added_at": "2025-03-13 22:00:04",
       "album": {
-        "name": "AYAYAY (feat. Dillom)",
-        "url": "https://open.spotify.com/album/5fnP4WvBKSWYeSVbmtKefP"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        },
-        {
-          "name": "Dillom",
-          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
-        }
-      ],
-      "duration_ms": 179779,
-      "name": "AYAYAY (feat. Dillom)",
-      "url": "https://open.spotify.com/track/3qZ8kllBS6LoyAW2QtBaJQ"
-    },
-    {
-      "added_at": "2025-03-13 22:00:04",
-      "album": {
         "name": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05d6\u05d4 \u05d1\u05e8\u05d5\u05e8",
         "url": "https://open.spotify.com/album/4h5okaeqvmjLvXOraI1JxI"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 248146,
       "name": "\u05db\u05db\u05d4 \u05d6\u05d4",
       "url": "https://open.spotify.com/track/4JzG1XWdSjEKlRJMlVWJ3f"
+    },
+    {
+      "added_at": "2025-03-13 22:00:04",
+      "album": {
+        "name": "AYAYAY (feat. Dillom)",
+        "url": "https://open.spotify.com/album/5fnP4WvBKSWYeSVbmtKefP"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        },
+        {
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+        }
+      ],
+      "duration_ms": 179779,
+      "name": "AYAYAY (feat. Dillom)",
+      "url": "https://open.spotify.com/track/3qZ8kllBS6LoyAW2QtBaJQ"
     },
     {
       "added_at": "2025-03-13 22:00:04",
@@ -823,18 +823,18 @@
     {
       "added_at": "2025-03-13 22:00:04",
       "album": {
-        "name": "DUMB (AATM) [Live]",
-        "url": "https://open.spotify.com/album/30i3NFMUCoBA42VYKT0woM"
+        "name": "\u05d1\u05d9\u05e7\u05d5\u05e8 \u05de\u05d5\u05dc\u05d3\u05ea",
+        "url": "https://open.spotify.com/album/7m3gaePnpW2B21eBfDMZH4"
       },
       "artists": [
         {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+          "name": "Roni Alter",
+          "url": "https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN"
         }
       ],
-      "duration_ms": 149043,
-      "name": "DUMB (AATM) - Live",
-      "url": "https://open.spotify.com/track/26EJ2XMpTC5RINUQOO50Cw"
+      "duration_ms": 245600,
+      "name": "\u05d1\u05d9\u05e7\u05d5\u05e8 \u05de\u05d5\u05dc\u05d3\u05ea",
+      "url": "https://open.spotify.com/track/4rT56VSPuaAJMbK73oHxzy"
     },
     {
       "added_at": "2025-03-13 22:00:04",
@@ -851,22 +851,6 @@
       "duration_ms": 145000,
       "name": "\u05d9\u05d5\u05de\u05d4",
       "url": "https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS"
-    },
-    {
-      "added_at": "2025-03-13 22:00:04",
-      "album": {
-        "name": "\u05d1\u05d9\u05e7\u05d5\u05e8 \u05de\u05d5\u05dc\u05d3\u05ea",
-        "url": "https://open.spotify.com/album/7m3gaePnpW2B21eBfDMZH4"
-      },
-      "artists": [
-        {
-          "name": "Roni Alter",
-          "url": "https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "\u05d1\u05d9\u05e7\u05d5\u05e8 \u05de\u05d5\u05dc\u05d3\u05ea",
-      "url": "https://open.spotify.com/track/4rT56VSPuaAJMbK73oHxzy"
     },
     {
       "added_at": "2025-03-13 22:00:04",
@@ -891,22 +875,6 @@
     {
       "added_at": "2025-03-13 22:00:04",
       "album": {
-        "name": "Caviar",
-        "url": "https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ"
-      },
-      "artists": [
-        {
-          "name": "Moscoman",
-          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
-        }
-      ],
-      "duration_ms": 246040,
-      "name": "Caviar",
-      "url": "https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa"
-    },
-    {
-      "added_at": "2025-03-13 22:00:04",
-      "album": {
         "name": "\u05e1\u05d9\u05de\u05e0\u05d9\u05dd \u05de\u05e7\u05d3\u05d9\u05de\u05d9\u05dd",
         "url": "https://open.spotify.com/album/3mPB7mDLvFypbUpMDX7FEd"
       },
@@ -927,18 +895,34 @@
     {
       "added_at": "2025-03-13 22:00:04",
       "album": {
-        "name": "\u05d0\u05dd \u05d6\u05d4 \u05d2\u05d3\u05d5\u05dc \u05e2\u05dc\u05d9",
-        "url": "https://open.spotify.com/album/389FWhGSyHar0vOHq2MFPy"
+        "name": "DUMB (AATM) [Live]",
+        "url": "https://open.spotify.com/album/30i3NFMUCoBA42VYKT0woM"
       },
       "artists": [
         {
-          "name": "\u05d9\u05d5\u05e9\u05d9",
-          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
         }
       ],
-      "duration_ms": 153600,
-      "name": "\u05d0\u05dd \u05d6\u05d4 \u05d2\u05d3\u05d5\u05dc \u05e2\u05dc\u05d9",
-      "url": "https://open.spotify.com/track/3HGdkY1fiewKxUU5dGQFv3"
+      "duration_ms": 149043,
+      "name": "DUMB (AATM) - Live",
+      "url": "https://open.spotify.com/track/26EJ2XMpTC5RINUQOO50Cw"
+    },
+    {
+      "added_at": "2025-03-13 22:00:04",
+      "album": {
+        "name": "Caviar",
+        "url": "https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ"
+      },
+      "artists": [
+        {
+          "name": "Moscoman",
+          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
+        }
+      ],
+      "duration_ms": 246040,
+      "name": "Caviar",
+      "url": "https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa"
     },
     {
       "added_at": "2025-03-13 22:00:04",
@@ -967,6 +951,22 @@
       "duration_ms": 190259,
       "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
       "url": "https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw"
+    },
+    {
+      "added_at": "2025-03-13 22:00:04",
+      "album": {
+        "name": "\u05d0\u05dd \u05d6\u05d4 \u05d2\u05d3\u05d5\u05dc \u05e2\u05dc\u05d9",
+        "url": "https://open.spotify.com/album/389FWhGSyHar0vOHq2MFPy"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05d5\u05e9\u05d9",
+          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "\u05d0\u05dd \u05d6\u05d4 \u05d2\u05d3\u05d5\u05dc \u05e2\u05dc\u05d9",
+      "url": "https://open.spotify.com/track/3HGdkY1fiewKxUU5dGQFv3"
     },
     {
       "added_at": "2025-03-13 22:00:04",

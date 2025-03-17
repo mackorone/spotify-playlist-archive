@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 142832,
+  "num_followers": 142852,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9NxgAAAAAC1wLA3EuNGIYqFu9y07w6o",
+  "snapshot_id": "Z9TDAAAAAABgq8WA2ymqB82uxoVnVoM7",
   "tracks": [
     {
       "added_at": null,
@@ -211,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Post",
-        "url": "https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd"
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 306773,
-      "name": "Possibly Maybe",
-      "url": "https://open.spotify.com/track/104n46NrvCQ2qXoBWY35ch"
+      "duration_ms": 101506,
+      "name": "Frosti",
+      "url": "https://open.spotify.com/track/7kyQeUJ6g5GQNHUfV2f79v"
     },
     {
       "added_at": null,
@@ -259,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Post",
+        "url": "https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 305440,
+      "name": "Possibly Maybe",
+      "url": "https://open.spotify.com/track/1tuyf2jFaU9kFevnSiMzGh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vespertine",
         "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
       },
@@ -268,25 +284,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 101506,
-      "name": "Frosti",
-      "url": "https://open.spotify.com/track/7kyQeUJ6g5GQNHUfV2f79v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Post",
-        "url": "https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 347026,
-      "name": "Isobel",
-      "url": "https://open.spotify.com/track/05meZdvKNj4FBxNbdMgpT6"
+      "duration_ms": 329360,
+      "name": "Hidden Place",
+      "url": "https://open.spotify.com/track/1Y4aFRwAwE5Ghm24vaYrnR"
     },
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vespertine",
-        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 329360,
-      "name": "Hidden Place",
-      "url": "https://open.spotify.com/track/1Y4aFRwAwE5Ghm24vaYrnR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Post",
         "url": "https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd"
       },
@@ -348,9 +332,25 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 237000,
-      "name": "Enjoy",
-      "url": "https://open.spotify.com/track/4N4qSX4RpU7U5TW6PMg84a"
+      "duration_ms": 347026,
+      "name": "Isobel",
+      "url": "https://open.spotify.com/track/05meZdvKNj4FBxNbdMgpT6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 268106,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/7CfR16ahj7mi6OwTZaPBri"
     },
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Post",
+        "url": "https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Enjoy",
+      "url": "https://open.spotify.com/track/4N4qSX4RpU7U5TW6PMg84a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vespertine",
         "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
       },
@@ -396,9 +412,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 268106,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/7CfR16ahj7mi6OwTZaPBri"
+      "duration_ms": 308960,
+      "name": "It's Not Up To You",
+      "url": "https://open.spotify.com/track/52LVnKB4Vs9XMi4rm4StNT"
     },
     {
       "added_at": null,
@@ -460,9 +476,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 308960,
-      "name": "It's Not Up To You",
-      "url": "https://open.spotify.com/track/52LVnKB4Vs9XMi4rm4StNT"
+      "duration_ms": 338400,
+      "name": "Undo",
+      "url": "https://open.spotify.com/track/4HuzulSsDeFqvq3e84ZIrI"
     },
     {
       "added_at": null,
@@ -515,38 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vespertine",
-        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 338400,
-      "name": "Undo",
-      "url": "https://open.spotify.com/track/4HuzulSsDeFqvq3e84ZIrI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Homogenic",
-        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 353266,
-      "name": "All Neon Like",
-      "url": "https://open.spotify.com/track/4PbYKPKq2hpDXV3YckN5tW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fossora",
         "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 286903,
       "name": "Atopos",
       "url": "https://open.spotify.com/track/3EdZdybDWDlGC0KumeGrqc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 353266,
+      "name": "All Neon Like",
+      "url": "https://open.spotify.com/track/4PbYKPKq2hpDXV3YckN5tW"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 44405,
-      "name": "Fagurt Er \u00ed Fj\u00f6r\u00f0um",
-      "url": "https://open.spotify.com/track/1GAOXR2gtrxQ28XW0weuWZ"
+      "duration_ms": 218154,
+      "name": "Ovule",
+      "url": "https://open.spotify.com/track/4mX0h2W7mxcIBh6anDsZMq"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
       "duration_ms": 244213,
       "name": "Triumph Of A Heart",
       "url": "https://open.spotify.com/track/2xMjSaJTUcwlv6lKQGTb5g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fossora",
-        "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 218154,
-      "name": "Ovule",
-      "url": "https://open.spotify.com/track/4mX0h2W7mxcIBh6anDsZMq"
     }
   ],
   "unique_name": "This Is Bj\u00f6rk",

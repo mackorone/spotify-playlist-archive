@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour 🌞
 
-554 songs - 1 day 10 hr 38 min
+555 songs - 1 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Change](https://open.spotify.com/track/6dMZduF6Qs2WiSzQs7gqk5) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Change](https://open.spotify.com/album/6h4CKrhhFHdF6ElBeF3hgE) | 3:09 | 2020-12-22 | 2022-11-13 |
 | [Changes](https://open.spotify.com/track/1eWpwmgJO9ZUINjCttvK4L) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Changes](https://open.spotify.com/album/0JVIuhIeX5ixqtVSgTBYMk) | 3:38 | 2024-04-05 |  |
 | [Chemicals](https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Chemicals](https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB) | 4:14 | 2022-05-13 | 2022-06-04 |
-| [Cherry Blossom](https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Cherry Blossom](https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD) | 3:27 | 2024-06-21 |  |
+| [Cherry Blossom](https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Cherry Blossom](https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD) | 3:27 | 2024-06-21 | 2025-03-17 |
 | [cherry blossom](https://open.spotify.com/track/44xUqPXksQ2MNtuF2AuRBN) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [cherry blossom](https://open.spotify.com/album/4iwQeZpCPNI3TNfhrYmk8U) | 2:20 | 2021-03-19 | 2022-07-29 |
 | [Chihiro](https://open.spotify.com/track/4sa0z53uQH0pBQPDaAnQcl) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [Chihiro \(Remixes\)](https://open.spotify.com/album/5PQgIvaINhDN7I3RNmtYyQ) | 3:32 | 2020-12-22 | 2023-12-16 |
 | [Chihiro](https://open.spotify.com/track/1frhZSh2UQNthJ5HOkXZig) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [Chihiro](https://open.spotify.com/album/42eghd1SOYj8A6q4w0f9yL) | 3:36 | 2020-12-22 | 2022-04-21 |
@@ -394,6 +394,7 @@
 | [Pressure](https://open.spotify.com/track/1T80qAVK3nXJAsEdnuppbp) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Waking Hours](https://open.spotify.com/album/0ZJ8jsAUo8z3d8nVjNl3aN) | 5:18 | 2020-12-22 | 2022-07-29 |
 | [Process](https://open.spotify.com/track/4qWAsBlrbaNEelKQ8rfzzs) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV) | [Process](https://open.spotify.com/album/27kimHatnzFYP6DyYMlCUP) | 3:10 | 2022-05-13 | 2022-06-04 |
 | [Project Redo \- Channel Tres Remix](https://open.spotify.com/track/0tAv9U6EKX3eNvHAPodtfk) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Sponge Cake Rebaked](https://open.spotify.com/album/4gXONT2fic10PJsKeNgwDK) | 4:29 | 2020-12-22 | 2022-04-19 |
+| [Promised Land](https://open.spotify.com/track/3xTNnjPANR2lwUagT8zDxc) | [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [Promised Land](https://open.spotify.com/album/55n66gPx07Qtmv96vbCDSk) | 3:34 | 2025-03-07 |  |
 | [Put Down Your Phone](https://open.spotify.com/track/22ic4Jo5wUgvdoQh8r1rxg) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [Put Down Your Phone](https://open.spotify.com/album/2s0pMH73bWJ6QpdvGWGpNl) | 2:43 | 2021-08-27 | 2022-07-29 |
 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/3Q8SnMp3lhGGoIJBDmYRPa) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Young Hearts](https://open.spotify.com/album/7qNttLERG60jtBqhMsLA7J) | 2:48 | 2023-11-17 |  |
 | [Reckless Desires](https://open.spotify.com/track/3YOF6HtXEj91j2SRYXoSEi) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Purple Noon](https://open.spotify.com/album/0gkOhkjdFwKUtz9YXbp22L) | 4:24 | 2020-12-22 | 2022-07-29 |

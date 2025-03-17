@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,649 likes - 163 songs - 9 hr 40 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,651 likes - 151 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,17 +159,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 149 | [Jaded \(Radio Edit\)](https://open.spotify.com/track/0zDEjgIDby9SN8JT9zv4aM) | [Cafe Disko](https://open.spotify.com/artist/7x6KEmSwlWNo0d628uyi7W), [stereoGO](https://open.spotify.com/artist/2yj54HmisGpQJexTLzdPQr) | [Jaded](https://open.spotify.com/album/6rzUg3N9gYDRZchSaylR57) | 2:38 |
 | 150 | [Lonely Road](https://open.spotify.com/track/2LhwyenNKYLqqEscGbGT3z) | [Bradley Denniston](https://open.spotify.com/artist/53kQBsEHAWWgAJtXLC37fh) | [Lonely Road](https://open.spotify.com/album/4hF7ABLDR0AUUcCzhJA1Fq) | 3:11 |
 | 151 | [On Your Mind](https://open.spotify.com/track/5qljVl7ywklYkhbpnEhTSu) | [Anna Duboc](https://open.spotify.com/artist/5Vyq6tE0rTepmsqSohBOOR) | [On Your Mind](https://open.spotify.com/album/5BUFsPR7mEU0dM2GNhb3up) | 2:24 |
-| 152 | [Turn It Up](https://open.spotify.com/track/611HXsIfVYJFR7AGTGtKOM) | [Capital Ferg](https://open.spotify.com/artist/2OU1zOg92LtsIXjkWxVx6H) | [Turn It Up](https://open.spotify.com/album/5NpIz6NTKmQbQqrzc2QBQU) | 3:26 |
-| 153 | [I Can See You Everywhere](https://open.spotify.com/track/4ZaB6FZ0DHN4N8sUPY3GPN) | [Wicked1](https://open.spotify.com/artist/5hKa0tMLs4S7CZEEwtMbJx), [KASTEYANA](https://open.spotify.com/artist/5nCKQBDvBKQQQU5aK9uiBP) | [I Can See You Everywhere](https://open.spotify.com/album/6exzlolodKbSQP0SYd0QSx) | 4:50 |
-| 154 | [California High](https://open.spotify.com/track/4fEr9tjUeysE7t5yGDA8Dz) | [Tyson Leamon](https://open.spotify.com/artist/6c8BsQ41qt32BaLRzllDJo) | [California High](https://open.spotify.com/album/2kefyy4R0ZcwEjWvHx7Iyh) | 3:40 |
-| 155 | [Another Time Another Place](https://open.spotify.com/track/48ry13O5XUOpL3IbgNCWJg) | [J Rick Flores](https://open.spotify.com/artist/6Z57dmb0qcwcV4syzn56Ko) | [Another Time Another Place](https://open.spotify.com/album/1IiQ8tFK3jS9upWEnYrKWK) | 3:52 |
-| 156 | [Lame Shit Cool \(Bussin' Beto\)](https://open.spotify.com/track/5NNznr2jZ5Min39vECXd1E) | [ET Boys](https://open.spotify.com/artist/3QxTGYOFDszXNRsWRMKd9z) | [PAOPU](https://open.spotify.com/album/2RCpBf65BfehE7ukMrg7k2) | 2:00 |
-| 157 | [Pullin Me Back](https://open.spotify.com/track/7BhKKNDJJwHVdUnoCILbhY) | [Adrian Acapella](https://open.spotify.com/artist/0JvHmHWQAEG07RMH3Va3Td), [Yung Abundance](https://open.spotify.com/artist/2pgBRPga2Y72RSjwDTBVF0) | [Introducing Smooth Turn up Music](https://open.spotify.com/album/5dR0rmrKdaPnPJr3DFsWpz) | 2:41 |
-| 158 | [Mariaca](https://open.spotify.com/track/6rHBhwufQ9NQas2QV0EL1y) | [Jm En High](https://open.spotify.com/artist/1ZVttX7nDySkCvUq04slEB) | [Mariaca](https://open.spotify.com/album/4EdWQjqS3BYiRIUFkTft9W) | 2:23 |
-| 159 | [UNCONDITIONAL LOVE](https://open.spotify.com/track/754MRLS3l218Qf8FooLQnX) | [TapWaterz](https://open.spotify.com/artist/1P2IprhlHyM9GEuVfa7Oof), [James Ian](https://open.spotify.com/artist/28P9pMHc3ejhVClcNxX4yW) | [UNCONDITIONAL LOVE](https://open.spotify.com/album/3cxpfeAbSk0DRmwYYBPxLF) | 3:17 |
-| 160 | [The Burglar](https://open.spotify.com/track/3wulkBTsrUhBJfPw8gil0R) | [Toyesauce](https://open.spotify.com/artist/6s60H6j3ZBYdTJA4Kixkxw) | [The Burglar](https://open.spotify.com/album/2Js9oTIW0RVbvHKJr9vyPq) | 3:43 |
-| 161 | [Hush](https://open.spotify.com/track/1KkwbgyZBXNJWtCohp77CA) | [Keyahxh](https://open.spotify.com/artist/77fGnJ4lxXstp9JCyWm2zk) | [Not to Much](https://open.spotify.com/album/4fpJcz4FhnUgpcKrMK6apo) | 2:07 |
-| 162 | [Love Me If You Must](https://open.spotify.com/track/70fYiSipzPY96LG9ZAkw63) | [ET Boys](https://open.spotify.com/artist/3QxTGYOFDszXNRsWRMKd9z) | [Love Me If You Must](https://open.spotify.com/album/5lN08s1lOWMYCFRjzQCayA) | 3:54 |
-| 163 | [Damn Good Looker](https://open.spotify.com/track/1MUJgIBSiuxoa43nR2RtNR) | [Brian Walton](https://open.spotify.com/artist/5nigiuSt4WVbotqjYkgVqq) | [Damn Good Looker](https://open.spotify.com/album/7MO30MxQcQssvOZGQe0ss5) | 3:20 |
 
-Snapshot ID: `AAAuZiwg3Z9TjWz1lXgda/uzri8gjvhw`
+Snapshot ID: `AAAuZ8r88iAVG43+UxoYX2vx3W8RShuj`

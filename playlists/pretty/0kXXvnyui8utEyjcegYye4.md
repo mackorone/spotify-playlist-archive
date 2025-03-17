@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 
 > 
 
-[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 312 songs - 18 hr 31 min
+[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 313 songs - 18 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -320,5 +320,6 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 | 310 | [Best Song Ever](https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:20 |
 | 311 | [Space Ghost Coast To Coast](https://open.spotify.com/track/0RZLmpEzGR2NHite6rvS5H) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:07 |
 | 312 | [Beggin' On Your Knees \(feat\. Victoria Justice\)](https://open.spotify.com/track/5A4OiB8vQcBIGe2GIMW8LF) | [Victorious Cast](https://open.spotify.com/artist/1KYszkVzlhV3rAqmAcYIgd), [Victoria Justice](https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6) | [Beggin' On Your Knees \(feat\. Victoria Justice\)](https://open.spotify.com/album/0ekqlxpGiU942zdVvPI8mh) | 3:14 |
+| 313 | [Lie To Me](https://open.spotify.com/track/0fnY4MQat2zJsb8FKyLM9D) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Chris Isaak](https://open.spotify.com/album/3dIasrAuimko9R2t4Z4N0N) | 4:13 |
 
-Snapshot ID: `AAADWVjg7vij0KpaJsb615jQ616cr+sG`
+Snapshot ID: `AAADWr98JrQCUqYHEyuFy4FeWBAPI6lZ`

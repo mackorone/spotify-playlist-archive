@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/02Zegjy92TEyYM8PSxvf8Y">Luther Vandross</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-120 songs - 9 hr 34 min
+121 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Are You Mad At Me?](https://open.spotify.com/track/6xPVDbHqQpShgKtra92m4O) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 4:35 | 2025-01-16 |  |
 | [Are You Using Me?](https://open.spotify.com/track/1QtxGA8cWVJPLEslj9CrL3) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 5:21 | 2025-01-16 |  |
 | [Because It's Really Love](https://open.spotify.com/track/4AAzip5bCUOhmDAu4eeRL4) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 6:13 | 2025-01-16 |  |
+| [Blue Moon \- Take 9/M](https://open.spotify.com/track/6VqCe4PcokSekHPJQaDx0B) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Presley](https://open.spotify.com/album/7GXP5OhYyPVLmcVfO9Iqin) | 2:42 | 2025-03-16 |  |
 | [Busy Body](https://open.spotify.com/track/0MWGZXF50XjMotSFDXLknm) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Busy Body](https://open.spotify.com/album/5Ql0BSlDT1AqZTZEzA8o3a) | 4:45 | 2025-01-16 |  |
 | [Can't Be Doin' That Now](https://open.spotify.com/track/127vkANgtDkuAsMd1knXB9) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Let Me Go](https://open.spotify.com/album/6LKej6X33QEOH1IIL9FWX5) | 4:47 | 2025-01-16 |  |
 | [Can't Get Enough Good Loving](https://open.spotify.com/track/6MBFVPHEc0HzGV9ghsxYRO) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Luther](https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM) | [This Close To You](https://open.spotify.com/album/3cxPGZ0ES2lA2zG8rIiTaF) | 4:36 | 2025-01-16 |  |
@@ -45,7 +46,7 @@
 | [Get Back to Love](https://open.spotify.com/track/65yhaCP919ZyVzb1hRmsZe) | [Lisa Fischer](https://open.spotify.com/artist/75NLTo547GvC8W5gmRDLLn) | [So Intense](https://open.spotify.com/album/4z1GsR89d4zTesFNiOhS6o) | 4:32 | 2025-01-16 |  |
 | [Get It Right](https://open.spotify.com/track/1zaigPe4NB94tc4CRshK46) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Get It Right](https://open.spotify.com/album/0Pe124sDVootFFmCMhqeHO) | 6:17 | 2025-01-16 |  |
 | [Give Me the Reason](https://open.spotify.com/track/4jwj7WcGHwNpG0ovatCbST) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 4:45 | 2025-01-16 |  |
-| [Good Rockin' Tonight](https://open.spotify.com/track/5yZQXR98v0kvhYQ7Adn8PK) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Platinum \- A Life In Music](https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE) | 2:11 | 2025-01-16 |  |
+| [Good Rockin' Tonight](https://open.spotify.com/track/5yZQXR98v0kvhYQ7Adn8PK) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Platinum \- A Life In Music](https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE) | 2:11 | 2025-01-16 | 2025-03-17 |
 | [Got a Date](https://open.spotify.com/track/5N5CTYlD18zBHzoOeroUyp) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [How Many Times Can We Say Goodbye \(Expanded Edition\)](https://open.spotify.com/album/66JPMpKGr5m2FIAqJdLwjN) | 5:19 | 2025-01-16 |  |
 | [Got Me Waiting](https://open.spotify.com/track/7lqwSAP2isafyCokjZd7aE) | [Heavy D & The Boyz](https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3) | [Nuttin' But Love](https://open.spotify.com/album/3WIm2cGDu6bRWAJDFhbgeK) | 4:31 | 2025-01-16 |  |
 | [Hustle](https://open.spotify.com/track/7ELbso0g9Ss0i11veHR2UJ) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Let Me Go](https://open.spotify.com/album/6LKej6X33QEOH1IIL9FWX5) | 5:45 | 2025-01-16 |  |

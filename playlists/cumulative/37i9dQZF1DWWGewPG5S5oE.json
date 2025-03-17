@@ -3299,6 +3299,32 @@
     },
     {
       "album": {
+        "name": "Made In New York",
+        "url": "https://open.spotify.com/album/6j23V92RmuD9h6SbZeXULT"
+      },
+      "artists": [
+        {
+          "name": "DJ KOCO aka SHIMOKITA",
+          "url": "https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR"
+        },
+        {
+          "name": "45trio",
+          "url": "https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs"
+        },
+        {
+          "name": "King TJ",
+          "url": "https://open.spotify.com/artist/6DMTo31eFZKRL4uF5BYGVT"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213838,
+      "name": "Made In New York",
+      "url": "https://open.spotify.com/track/5e7KO7EvjJ3aSzEDGlSJEZ"
+    },
+    {
+      "album": {
         "name": "MASKS",
         "url": "https://open.spotify.com/album/28UHrz5XOC5YDE7VXq6ggu"
       },
@@ -4706,7 +4732,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-17",
       "duration_ms": 258183,
       "name": "Rhapsody in Summer",
       "url": "https://open.spotify.com/track/23qk2CJ5m5Qw4X5xWAC3E6"

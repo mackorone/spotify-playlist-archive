@@ -2,9 +2,9 @@
 
 ### [A1](https://open.spotify.com/playlist/37i9dQZF1DX0sDai2F5jCQ)
 
-> Your shortcut to the best new Hip Hop\. Cover: Kerser
+> Your shortcut to the best new Hip Hop\. Cover: Playboi Carti
 
-520 songs - 1 day 1 hr 29 min
+523 songs - 1 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Classy Girl](https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv) | [Turbo](https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Classy Girl](https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk) | 2:53 | 2025-03-06 |  |
 | [cLOUDs](https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [cLOUDs](https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex) | 4:02 | 2025-02-24 |  |
 | [Cobra](https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Cobra](https://open.spotify.com/album/08VJzxuxr4leLd9YhJNlQl) | 2:48 | 2023-11-03 | 2023-12-22 |
-| [COCAINE NOSE](https://open.spotify.com/track/4rXxjHSAglOynjIF8Z34dx) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:31 | 2025-03-14 |  |
+| [COCAINE NOSE](https://open.spotify.com/track/4rXxjHSAglOynjIF8Z34dx) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:31 | 2025-03-14 | 2025-03-17 |
 | [COLD](https://open.spotify.com/track/2MlypFtQksknMDF1lTWd8g) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [COLD](https://open.spotify.com/album/79Hg45abjVAL52VXhjfXXG) | 2:23 | 2025-02-20 |  |
 | [Commando](https://open.spotify.com/track/3YgySDHOUDfhTB1roFjci0) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27) | [Commando](https://open.spotify.com/album/0XzaAUuAtI6R9cmxRg9dC2) | 2:16 | 2024-06-21 | 2024-09-13 |
 | [COOL DOWN \(feat\. YG\)](https://open.spotify.com/track/5xF2xRuCrPzdiuquJ363Ok) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [MAKE THE WEST GREAT AGAIN](https://open.spotify.com/album/7pAW452N8gTTdZFeuEjiTr) | 2:35 | 2024-05-09 | 2024-09-06 |
@@ -150,6 +150,7 @@
 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-04-30 | 2024-06-22 |
 | [Euphoric](https://open.spotify.com/track/7eVMSaoemrk7HiuZp33A3l) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Euphoric](https://open.spotify.com/album/4Myiyj4LgdPiGZg2BzOtt5) | 1:53 | 2023-10-12 | 2023-11-17 |
 | [Evicted](https://open.spotify.com/track/7fa52ALD2bCARSLj7R0BUw) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Evicted](https://open.spotify.com/album/3OhdKF1s2F5ZwXNd3UXYaP) | 2:41 | 2024-10-24 | 2025-01-17 |
+| [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 | 2025-03-17 |  |
 | [Evil Ways \(feat\. J\. Cole\)](https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:47 | 2023-11-17 | 2024-02-23 |
 | [EXPRESS](https://open.spotify.com/track/4STH7a2LDMTRIJbc2nMCEW) | [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N) | [EXPRESS](https://open.spotify.com/album/5Mvx2Xde7uhIXDkBFVnBUV) | 1:56 | 2024-08-29 | 2024-09-27 |
 | [F.A.M.E](https://open.spotify.com/track/4fOPM11OgnEvM6Ras1Aol3) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [Hooks](https://open.spotify.com/artist/3ByS6WHuxmY7mMp7HsVn3u), [Hooligan Skinny](https://open.spotify.com/artist/6E2hlUEGs0bO0ktdZKy1lh), [Masi Rooc](https://open.spotify.com/artist/7lVylfM4gOIszKc9dr1EOc) | [F.A.M.E](https://open.spotify.com/album/6vfLI2ZMWWyIN3gojyLwQQ) | 3:55 | 2023-09-22 | 2023-10-13 |
@@ -167,6 +168,7 @@
 | [FIELD TRIP](https://open.spotify.com/track/3lCb7ZYE3Fvie4JOPqpXfY) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [FIELD TRIP](https://open.spotify.com/album/73RJkZAkpUFHyGw4gTUQjK) | 2:43 | 2024-08-08 | 2024-10-25 |
 | [FIND THAT OUT](https://open.spotify.com/track/4sJeq1ugqcvV37y8Jr7v02) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [FIND THAT OUT](https://open.spotify.com/album/5JDlQqaZI47GNU3S0fVTQX) | 2:11 | 2024-06-21 | 2024-08-02 |
 | [Finding My Way](https://open.spotify.com/track/33ArwFU5L9M5S1lnTmAjz7) | [PROPH3T](https://open.spotify.com/artist/3CfDgUAqzcrVjX2GSgAroa), [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee) | [Finding My Way](https://open.spotify.com/album/2VJLah9SVibt5UYFU9HVM6) | 2:42 | 2023-10-19 | 2023-12-22 |
+| [Fine Art](https://open.spotify.com/track/3RFpr9aR7pBAFJ1XQnuThq) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU) | [Fine Art](https://open.spotify.com/album/6Wt3uI8G0yhXSvC0jAl9Cg) | 2:19 | 2025-03-17 |  |
 | [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 | 2023-10-09 | 2024-05-03 |
 | [Flip The Switch x Songer](https://open.spotify.com/track/50b6wWNZ9QqemALLtaMPEd) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd), [Take Flight](https://open.spotify.com/artist/6qBVj3gXPWbEl45U8wyliG) | [Flip The Switch x Songer](https://open.spotify.com/album/3gPIe4coVzscTdurYNNz2R) | 3:16 | 2025-03-13 |  |
 | [For You](https://open.spotify.com/track/6fUF3VmUAF0C1OqAg39HXy) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Mixed Emotions II \- EP](https://open.spotify.com/album/61CVDc5pgAaPRubBGAjx7D) | 2:28 | 2023-09-27 | 2023-11-17 |
@@ -350,6 +352,7 @@
 | [Peggy](https://open.spotify.com/track/6UPiTNzNmUFE59YkkyCs9n) | [Ceechynaa](https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg) | [Peggy](https://open.spotify.com/album/6sDFqQIVuSySxkc1F0tWCR) | 2:39 | 2025-01-09 | 2025-02-21 |
 | [Pepper](https://open.spotify.com/track/0OCFIEsSrmKueOiPK6S3xq) | [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Pepper](https://open.spotify.com/album/6Rg6yUy37Cb6Y1JeTRQv4Y) | 2:28 | 2023-10-13 | 2024-01-05 |
 | [Phat Butt](https://open.spotify.com/track/2b7aNhysTRNWSiNM47UeWG) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Phat Butt](https://open.spotify.com/album/13lNTRScGj4CVAYszzxioi) | 2:09 | 2024-06-21 | 2024-07-27 |
+| [PHILLY \(with Travis Scott\)](https://open.spotify.com/track/5SIvP6TdWc9DNvKbENjnYc) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:05 | 2025-03-17 |  |
 | [PHONE CALL](https://open.spotify.com/track/6W96fdY4F8f7E25vVJ4kMg) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [PHONE CALL](https://open.spotify.com/album/3ZeJ9Lo4KfxPDzYD6GrW1M) | 3:09 | 2025-02-13 |  |
 | [Pink Dreads](https://open.spotify.com/track/03q42wfmoXx8bYHwEuzBGh) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Pink Dreads](https://open.spotify.com/album/3ahkBm54CZgZ6N5UhpzJ1A) | 2:00 | 2025-01-16 |  |
 | [Pit Stop \(feat\. French Montana\)](https://open.spotify.com/track/51fqkA2jYEfXiUkcQYpCyB) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Pit Stop \(feat\. French Montana\)](https://open.spotify.com/album/6KwdG45dabKfLbbEFgEdCx) | 2:47 | 2023-10-19 | 2023-11-03 |

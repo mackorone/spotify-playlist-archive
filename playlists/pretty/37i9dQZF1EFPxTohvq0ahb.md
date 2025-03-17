@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo">Ester Dean</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,426 likes - 164 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,429 likes - 164 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 71 | [Hot Tottie \(feat\. JAY\-Z\)](https://open.spotify.com/track/1Vot6YSxInL52SGTN0XN9n) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 4:59 |
 | 72 | [Always Be Together](https://open.spotify.com/track/37kFlpLhkRrPA1AQ8ZAyqb) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [DNA \(Expanded Edition\)](https://open.spotify.com/album/7B8LPRplA8cByTSzgQvdxd) | 4:28 |
 | 73 | [Fool In Love](https://open.spotify.com/track/6ikk2CSM0lLh4WpY3qH7IA) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk \(Deluxe Explicit\)](https://open.spotify.com/album/3oQebIVUPY0IPiROZSIQFl) | 4:15 |
-| 74 | [Be Nice](https://open.spotify.com/track/3lKF2lBLLkxSrxsLHOdqCD) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Be Nice](https://open.spotify.com/album/1Wa0EtY5loqLQdUHIPJpHX) | 3:48 |
-| 75 | [Already Taken](https://open.spotify.com/track/5w3faWGjZFbTXkPXLAATkC) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Passion, Pain & Pleasure \(Deluxe Version\)](https://open.spotify.com/album/3sDoSYf2AKB2IegZmkISGD) | 3:57 |
+| 74 | [Already Taken](https://open.spotify.com/track/5w3faWGjZFbTXkPXLAATkC) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Passion, Pain & Pleasure \(Deluxe Version\)](https://open.spotify.com/album/3sDoSYf2AKB2IegZmkISGD) | 3:57 |
+| 75 | [Be Nice](https://open.spotify.com/track/3lKF2lBLLkxSrxsLHOdqCD) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Be Nice](https://open.spotify.com/album/1Wa0EtY5loqLQdUHIPJpHX) | 3:48 |
 | 76 | [Love Suicide \(feat\. Ester Dean\)](https://open.spotify.com/track/6WVXYeXd1O0bCEKxaEh6Si) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Ester Dean](https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM) | [Disc\-Overy](https://open.spotify.com/album/5vfUKFja5yx8a3TlrxjsjW) | 4:07 |
 | 77 | [\(Drop Dead\) Beautiful \(feat\. Sabi\)](https://open.spotify.com/track/5Zvzva2gweeEU46XEeeFSa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Sabi](https://open.spotify.com/artist/3tB8VKd0rtEnc9x8l78ymo) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:36 |
 | 78 | [love gang \(feat\. Charli XCX\)](https://open.spotify.com/track/3jjUphDBlbPzWD3Ft3tya1) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [love gang \(feat\. Charli XCX\)](https://open.spotify.com/album/78fh7LFI68DsHBe5Xt8XFE) | 2:58 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 163 | [Hurt Me](https://open.spotify.com/track/18LmvXtZWlNLzuQIqYi3IY) | [Remedy A Cappella](https://open.spotify.com/artist/3JvshbwnBNF1ESTeUVEgcN) | [Waves](https://open.spotify.com/album/7zup9UzCjOqh6wjVfuvpDV) | 3:20 |
 | 164 | [Stay](https://open.spotify.com/track/4bOScAqLDtf06SvJVhOEnw) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Stronger withEach Tear](https://open.spotify.com/album/2W99mgDwgiJRNJnXliJ6uA) | 3:49 |
 
-Snapshot ID: `AbsJvAAAAADWL2wjChUOgp4KzMRnk1Zr`
+Snapshot ID: `AbsPXAAAAADvZrw0bwwVev370sEfRgp1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Calvin Harris
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,619 likes - 101 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,641 likes - 101 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 11 | [Dust](https://open.spotify.com/track/2r9a4yyqoM0izDoldy4S8i) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Dust](https://open.spotify.com/album/0AKXaoCpKdJMOAvVy8Xt5O) | 3:11 |
 | 12 | [Forever Young](https://open.spotify.com/track/0wOdcEgqadzlYgBGunlHMV) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Forever Young](https://open.spotify.com/album/7xBAA2rjqdxZtJbi8FfdAn) | 2:58 |
 | 13 | [Not Enough](https://open.spotify.com/track/7q3vuEjw42Q1hdGQVqRKkx) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Not Enough](https://open.spotify.com/album/4EyjrQZHAoHovJOvFqn7BN) | 3:26 |
-| 14 | [Libra Wasteland](https://open.spotify.com/track/1U9VdmCmVeeZbIhMffXhe1) | [STARSIGNS](https://open.spotify.com/artist/4i6h8ZEK64FovE2EQCjMMZ), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7), [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [Libra Wasteland](https://open.spotify.com/album/3Ubbx28yxu3QWU8ndGiJRL) | 3:34 |
+| 14 | [Libra \- Wasteland](https://open.spotify.com/track/1U9VdmCmVeeZbIhMffXhe1) | [STARSIGNS](https://open.spotify.com/artist/4i6h8ZEK64FovE2EQCjMMZ), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7), [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [Libra Wasteland](https://open.spotify.com/album/3Ubbx28yxu3QWU8ndGiJRL) | 3:34 |
 | 15 | [Keep The Faith](https://open.spotify.com/track/40wS2odqmKnfpK8W23LNTW) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Keep The Faith](https://open.spotify.com/album/1ZtpnvC9pYqIZoXFKbVtnV) | 3:13 |
 | 16 | [Burn](https://open.spotify.com/track/6Qjj2GM9yVFD4mM9L3EfUx) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Burn](https://open.spotify.com/album/4VoDJLEzNcvNIMDSZ684yk) | 3:04 |
 | 17 | [BIG PANDA](https://open.spotify.com/track/7vu19S82Z197Gk0JVmT9Fg) | [Tokyomane](https://open.spotify.com/artist/2GaIPa6dUUQBlVNYeEF6PH), [DEF BAS](https://open.spotify.com/artist/3x4ATdU7Y5F5Lv1mWj7OBm) | [BIG PANDA](https://open.spotify.com/album/19wGYgivnEutVh4pgGUYQZ) | 2:01 |

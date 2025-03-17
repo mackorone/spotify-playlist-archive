@@ -1,6 +1,6 @@
 {
   "description": "Face-melters only. Cover: Eddie Van Halen",
-  "num_followers": 1507284,
+  "num_followers": 1507426,
   "original_name": "Legendary Guitar Solos",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Passion And Warfare",
-        "url": "https://open.spotify.com/album/1fyrOcra2DI3quvnzAEQ45"
-      },
-      "artists": [
-        {
-          "name": "Steve Vai",
-          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
-        }
-      ],
-      "duration_ms": 363333,
-      "name": "For the Love of God",
-      "url": "https://open.spotify.com/track/5m5I3KcV83zf2p2qbsnr3y"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
         "name": "Joe's Garage Acts I, II & III",
         "url": "https://open.spotify.com/album/6uJkCskko3O83SRYWQVsjS"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 547960,
       "name": "Watermelon In Easter Hay",
       "url": "https://open.spotify.com/track/0Q2dRzhPWFOex89dOjbq5Y"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Passion And Warfare",
+        "url": "https://open.spotify.com/album/1fyrOcra2DI3quvnzAEQ45"
+      },
+      "artists": [
+        {
+          "name": "Steve Vai",
+          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
+        }
+      ],
+      "duration_ms": 363333,
+      "name": "For the Love of God",
+      "url": "https://open.spotify.com/track/5m5I3KcV83zf2p2qbsnr3y"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -747,18 +747,18 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Flying In A Blue Dream",
-        "url": "https://open.spotify.com/album/4TZmVQz3aV8yxxcogVNFW6"
+        "name": "The Man Who Sold the World (2015 Remaster)",
+        "url": "https://open.spotify.com/album/4h9rWFWhgCSSrvIEQ0YhYG"
       },
       "artists": [
         {
-          "name": "Joe Satriani",
-          "url": "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 323066,
-      "name": "Flying in a Blue Dream",
-      "url": "https://open.spotify.com/track/2NrqjA3YUfNuZcmQzE2EJe"
+      "duration_ms": 492493,
+      "name": "The Width of a Circle - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2o9VAWKD7yvnyrBRw9tzgH"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "The Man Who Sold the World (2015 Remaster)",
-        "url": "https://open.spotify.com/album/4h9rWFWhgCSSrvIEQ0YhYG"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 492493,
-      "name": "The Width of a Circle - 2015 Remaster",
-      "url": "https://open.spotify.com/track/2o9VAWKD7yvnyrBRw9tzgH"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
         "name": "Here Come The Warm Jets",
         "url": "https://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 319373,
       "name": "Baby's On Fire - Remastered 2004",
       "url": "https://open.spotify.com/track/2PV9sorI2h94qEPke7SlGI"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Flying In A Blue Dream",
+        "url": "https://open.spotify.com/album/4TZmVQz3aV8yxxcogVNFW6"
+      },
+      "artists": [
+        {
+          "name": "Joe Satriani",
+          "url": "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
+        }
+      ],
+      "duration_ms": 323066,
+      "name": "Flying in a Blue Dream",
+      "url": "https://open.spotify.com/track/2NrqjA3YUfNuZcmQzE2EJe"
     }
   ],
   "unique_name": "Legendary Guitar Solos",

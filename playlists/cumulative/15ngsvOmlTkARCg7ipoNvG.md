@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,940 songs - 1 day 15 hr 27 min
+1,941 songs - 1 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1848,6 +1848,7 @@
 | [Waves Of Love](https://open.spotify.com/track/6tQDiUFkNcnR8uZqQGcMQG) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Waves Of Love](https://open.spotify.com/album/7LCAzp5ZTXeNsbBxKek5aD) | 1:02 | 2022-06-22 |  |
 | [Waves Of Thoughts](https://open.spotify.com/track/43YvXaDCoqjNg5aEhxlNpp) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Three Lines](https://open.spotify.com/album/7aY2g4RCd4JQKCSSOkDqhx) | 1:13 | 2024-01-29 |  |
 | [Way Up](https://open.spotify.com/track/0XSqfqtVZtvQrRCpjPVE0e) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Memory](https://open.spotify.com/album/7kE0OegnxT0EQeo3gRCEeK) | 1:16 | 2022-01-12 |  |
+| [We Are Home Arr\. For Cello](https://open.spotify.com/track/4bSSzDl3cVZbGmq03RPIha) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [We Are Home Arr\. For Cello](https://open.spotify.com/album/6TUYqktN7AO5vo52wE32ix) | 1:00 | 2025-03-16 |  |
 | [We Are Home Arr\. For Piano](https://open.spotify.com/track/4PPnaVmqCFuyAH2dyGcGLb) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [We Are Home Arr\. For Piano](https://open.spotify.com/album/7JQvPcO5ih7ejeNHfw4bX5) | 1:00 | 2025-03-11 |  |
 | [We Are In A Dream](https://open.spotify.com/track/0w1OaqWHg7XhjYIp8ZBCss) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [We Are In A Dream](https://open.spotify.com/album/1oeFHA8y6NnY3MY6lE2c4S) | 1:01 | 2023-02-15 | 2024-01-30 |
 | [We Are In A Dream \- Ambient Piano Version](https://open.spotify.com/track/7eUKqvWylubmhHtF89qx0v) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Duality](https://open.spotify.com/album/3NjhbD47cLVJGiiTC9s8NA) | 1:01 | 2023-02-14 |  |

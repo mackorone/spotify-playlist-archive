@@ -1,6 +1,6 @@
 {
   "description": "I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify \ud83c\udfa4",
-  "num_followers": 2073,
+  "num_followers": 2086,
   "original_name": "Sanremo: Le Cover",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,38 @@
     {
       "added_at": "2025-03-03 09:30:09",
       "album": {
+        "name": "Vai mo' (2021 Remaster)",
+        "url": "https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX"
+      },
+      "artists": [
+        {
+          "name": "Pino Daniele",
+          "url": "https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg"
+        }
+      ],
+      "duration_ms": 216543,
+      "name": "Yes I Know My Way - 2021 Remaster",
+      "url": "https://open.spotify.com/track/0HVvtZhPgnuR2Nia1x8zUX"
+    },
+    {
+      "added_at": "2025-03-03 09:30:09",
+      "album": {
+        "name": "Non Escludo Il Ritorno",
+        "url": "https://open.spotify.com/album/2y7bASqXNGSuou0uYGHUMk"
+      },
+      "artists": [
+        {
+          "name": "Franco Califano",
+          "url": "https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz"
+        }
+      ],
+      "duration_ms": 251373,
+      "name": "Un Tempo piccolo",
+      "url": "https://open.spotify.com/track/7cd6rqy01GXaUBJkzJvGzO"
+    },
+    {
+      "added_at": "2025-03-03 09:30:09",
+      "album": {
         "name": "Sulla riva del fiume",
         "url": "https://open.spotify.com/album/2r9qoPdgNW8SEADIXtYeH6"
       },
@@ -471,22 +503,6 @@
       "duration_ms": 225982,
       "name": "Un tempo piccolo (feat. Tiromancino & Ditonellapiaga)",
       "url": "https://open.spotify.com/track/2N68dlweJK3bjxCprbmm75"
-    },
-    {
-      "added_at": "2025-03-03 09:30:09",
-      "album": {
-        "name": "Vai mo' (2021 Remaster)",
-        "url": "https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX"
-      },
-      "artists": [
-        {
-          "name": "Pino Daniele",
-          "url": "https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg"
-        }
-      ],
-      "duration_ms": 216543,
-      "name": "Yes I Know My Way - 2021 Remaster",
-      "url": "https://open.spotify.com/track/0HVvtZhPgnuR2Nia1x8zUX"
     },
     {
       "added_at": "2025-03-03 09:30:09",
@@ -527,22 +543,6 @@
       "duration_ms": 208586,
       "name": "Yes I Know My Way (Live - Sanremo 2025)",
       "url": "https://open.spotify.com/track/02bftO6MWRAGc5vSKqayR7"
-    },
-    {
-      "added_at": "2025-03-03 09:30:09",
-      "album": {
-        "name": "Non Escludo Il Ritorno",
-        "url": "https://open.spotify.com/album/2y7bASqXNGSuou0uYGHUMk"
-      },
-      "artists": [
-        {
-          "name": "Franco Califano",
-          "url": "https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz"
-        }
-      ],
-      "duration_ms": 251373,
-      "name": "Un Tempo piccolo",
-      "url": "https://open.spotify.com/track/7cd6rqy01GXaUBJkzJvGzO"
     },
     {
       "added_at": "2025-03-03 09:30:09",

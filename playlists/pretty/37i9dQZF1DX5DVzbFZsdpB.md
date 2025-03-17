@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 
 > Creators you need to have on your RADAR: Big Small Talk, Relatables, Far East Confessions and I'm Wigging Out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,429 likes - 12 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,430 likes - 12 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

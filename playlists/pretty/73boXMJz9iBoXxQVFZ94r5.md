@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/73boXMJz9iBoXxQVFZ94r5.md) - [plain]
 
 > If you travel the world and the seven seas, cashing six figure checks in all currencies, this playlist is a perfect companion for that business class seat or limo ride...
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,586 likes - 23 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,585 likes - 23 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/73boXMJz9iBoXxQVFZ94r5.md) - [plain]
 | 17 | [Fast Cars Faster Women \(feat\. Daz\)](https://open.spotify.com/track/2idBwoubfdu2U4y5tQtWnK) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Daz](https://open.spotify.com/artist/6zSBgCtF2wq2V5cekaUyvi) | [The Stoned Immaculate](https://open.spotify.com/album/6bmIK4DcRUAub2ppHMeLvq) | 3:45 |
 | 18 | [Call to Arms](https://open.spotify.com/track/5X5J5ahVIy3K4uiMR93x3L) | [Frankmusik](https://open.spotify.com/artist/1Eqmku5RGosz51zTCZFgDi) | [By Nicole](https://open.spotify.com/album/3F2J5sH2cQqV2ugeTy3dph) | 3:33 |
 | 19 | [Flawless Remix \(feat\. Nicki Minaj\)](https://open.spotify.com/track/0zVMzJ37VQNFUNvdxxat2E) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 3:54 |
-| 20 | [Without Me](https://open.spotify.com/track/22TbtBhfPhnViXjoglOzCw) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Side Effects of You](https://open.spotify.com/album/3SiL5NnSXPxfgG84FKwkow) | 4:30 |
+| 20 | [Without Me \(feat\. Kelly Rowland & Missy Elliott\)](https://open.spotify.com/track/22TbtBhfPhnViXjoglOzCw) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Side Effects of You](https://open.spotify.com/album/3SiL5NnSXPxfgG84FKwkow) | 4:30 |
 | 21 | [Guts Over Fear](https://open.spotify.com/track/0VZs2OQq4axr8GFRdC9nyD) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Guts Over Fear](https://open.spotify.com/album/1x8e6xbrhtLgipVKFXhGdm) | 5:00 |
 | 22 | [Int'l Players Anthem \(I Choose You\) \(feat\. Outkast\)](https://open.spotify.com/track/0WANZVN6yCkSn1TZ1kDglP) | [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [UGK \(Underground Kingz\)](https://open.spotify.com/album/3dxyUXJed1U3Nznhis1juU) | 4:19 |
 | 23 | [These Things Happen](https://open.spotify.com/track/4jGqZyJhgM89rnIzCV2qZz) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [These Things Happen](https://open.spotify.com/album/6wDc63NhKy2PyXdbhkRmrl) | 2:24 |

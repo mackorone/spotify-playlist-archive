@@ -1,6 +1,6 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 12394,
+  "num_followers": 12400,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2025-03-12 09:14:22",
       "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 179560,
+      "name": "Rainy Days",
+      "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
+    },
+    {
+      "added_at": "2025-03-12 09:14:22",
+      "album": {
         "name": "To. X - The 5th Mini Album",
         "url": "https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD"
       },
@@ -155,22 +171,6 @@
     {
       "added_at": "2025-03-12 09:14:22",
       "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 179560,
-      "name": "Rainy Days",
-      "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
-    },
-    {
-      "added_at": "2025-03-12 09:14:22",
-      "album": {
         "name": "Warmth",
         "url": "https://open.spotify.com/album/700oyQvND1pNIADYqOkrre"
       },
@@ -187,22 +187,6 @@
     {
       "added_at": "2025-03-12 09:14:22",
       "album": {
-        "name": "Queen of Tears (Original Television Soundtrack), Pt.2",
-        "url": "https://open.spotify.com/album/0hJiHeURXoUEZMjiUxpbc6"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 235506,
-      "name": "Tell Me It's Not a Dream",
-      "url": "https://open.spotify.com/track/7nxoUuqcsDfv3PsPGeciWy"
-    },
-    {
-      "added_at": "2025-03-12 09:14:22",
-      "album": {
         "name": "Bam Yang Gang",
         "url": "https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 146197,
       "name": "Bam Yang Gang",
       "url": "https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy"
+    },
+    {
+      "added_at": "2025-03-12 09:14:22",
+      "album": {
+        "name": "Queen of Tears (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/0hJiHeURXoUEZMjiUxpbc6"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 235506,
+      "name": "Tell Me It's Not a Dream",
+      "url": "https://open.spotify.com/track/7nxoUuqcsDfv3PsPGeciWy"
     },
     {
       "added_at": "2025-03-12 09:14:22",
@@ -315,22 +315,6 @@
     {
       "added_at": "2025-03-12 09:14:22",
       "album": {
-        "name": "My Love From the Star Part 7",
-        "url": "https://open.spotify.com/album/76Ke9tCgKmlQTG2Nb810O0"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 243323,
-      "name": "Every moment of you",
-      "url": "https://open.spotify.com/track/2tY05I4MCH2eKnWTITUspC"
-    },
-    {
-      "added_at": "2025-03-12 09:14:22",
-      "album": {
         "name": "Grain of Sand",
         "url": "https://open.spotify.com/album/1Sf3c8MEe4cXaxZzOKgnhc"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 220309,
       "name": "Grain of Sand",
       "url": "https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3"
+    },
+    {
+      "added_at": "2025-03-12 09:14:22",
+      "album": {
+        "name": "My Love From the Star Part 7",
+        "url": "https://open.spotify.com/album/76Ke9tCgKmlQTG2Nb810O0"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 243323,
+      "name": "Every moment of you",
+      "url": "https://open.spotify.com/track/2tY05I4MCH2eKnWTITUspC"
     },
     {
       "added_at": "2025-03-12 09:14:22",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-03-12 09:14:22",
       "album": {
-        "name": "IM HERO",
-        "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
-      },
-      "artists": [
-        {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
-        }
-      ],
-      "duration_ms": 274386,
-      "name": "If We Ever Meet Again",
-      "url": "https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt"
-    },
-    {
-      "added_at": "2025-03-12 09:14:22",
-      "album": {
         "name": "I`m Firefly",
         "url": "https://open.spotify.com/album/1GJArSrDSNTyWeTvGeenAT"
       },
@@ -479,6 +463,22 @@
     {
       "added_at": "2025-03-12 09:14:22",
       "album": {
+        "name": "IM HERO",
+        "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "duration_ms": 274386,
+      "name": "If We Ever Meet Again",
+      "url": "https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt"
+    },
+    {
+      "added_at": "2025-03-12 09:14:22",
+      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -491,6 +491,26 @@
       "duration_ms": 316506,
       "name": "My sea",
       "url": "https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk"
+    },
+    {
+      "added_at": "2025-03-12 09:14:22",
+      "album": {
+        "name": "3:33",
+        "url": "https://open.spotify.com/album/1AzP7NB0qSSJJSLX9ZQe98"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 142614,
+      "name": "Ctrl",
+      "url": "https://open.spotify.com/track/3BxWRi8BjQquBqW6zbpQxJ"
     },
     {
       "added_at": "2025-03-12 09:14:22",
@@ -523,26 +543,6 @@
       "duration_ms": 210493,
       "name": "Every day, Every Moment",
       "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
-    },
-    {
-      "added_at": "2025-03-12 09:14:22",
-      "album": {
-        "name": "3:33",
-        "url": "https://open.spotify.com/album/1AzP7NB0qSSJJSLX9ZQe98"
-      },
-      "artists": [
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        },
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 142614,
-      "name": "Ctrl",
-      "url": "https://open.spotify.com/track/3BxWRi8BjQquBqW6zbpQxJ"
     },
     {
       "added_at": "2025-03-12 09:14:22",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-03-12 09:14:22",
       "album": {
-        "name": "How you feelin' (From \"Love Scout\" : Original Soundtrack) Part. 2",
-        "url": "https://open.spotify.com/album/7gEevtkLPJZrGRdGi6FoHb"
-      },
-      "artists": [
-        {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
-        }
-      ],
-      "duration_ms": 224280,
-      "name": "How you feelin' (From \"Love Scout\" : Original Soundtrack)",
-      "url": "https://open.spotify.com/track/6kihmLVLuCAptKWX167SgR"
-    },
-    {
-      "added_at": "2025-03-12 09:14:22",
-      "album": {
         "name": "Don`t you know",
         "url": "https://open.spotify.com/album/2z9U8RSPOJnFZcHbQbh9Gw"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": "2025-03-12 09:14:22",
       "album": {
+        "name": "How you feelin' (From \"Love Scout\" : Original Soundtrack) Part. 2",
+        "url": "https://open.spotify.com/album/7gEevtkLPJZrGRdGi6FoHb"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "duration_ms": 224280,
+      "name": "How you feelin' (From \"Love Scout\" : Original Soundtrack)",
+      "url": "https://open.spotify.com/track/6kihmLVLuCAptKWX167SgR"
+    },
+    {
+      "added_at": "2025-03-12 09:14:22",
+      "album": {
         "name": "If You Ask Me What Love Is",
         "url": "https://open.spotify.com/album/79ZPROThlkTsw8QqWGYkPe"
       },
@@ -767,22 +767,6 @@
       "duration_ms": 223040,
       "name": "If You Ask Me What Love Is",
       "url": "https://open.spotify.com/track/5zsMOF3yWT4U1Vw5eaMQFH"
-    },
-    {
-      "added_at": "2025-03-12 09:14:22",
-      "album": {
-        "name": "CONNECTION",
-        "url": "https://open.spotify.com/album/4JcUtBRZFtwYbhr2CZChcH"
-      },
-      "artists": [
-        {
-          "name": "ONEW",
-          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
-        }
-      ],
-      "duration_ms": 183186,
-      "name": "Winner",
-      "url": "https://open.spotify.com/track/0XrldzaasptUorNkvoOQWU"
     },
     {
       "added_at": "2025-03-12 09:14:22",
@@ -819,6 +803,22 @@
     {
       "added_at": "2025-03-12 09:14:22",
       "album": {
+        "name": "CONNECTION",
+        "url": "https://open.spotify.com/album/4JcUtBRZFtwYbhr2CZChcH"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "duration_ms": 183186,
+      "name": "Winner",
+      "url": "https://open.spotify.com/track/0XrldzaasptUorNkvoOQWU"
+    },
+    {
+      "added_at": "2025-03-12 09:14:22",
+      "album": {
         "name": "KING THE LAND (Original Television Soundtrack), Pt.3",
         "url": "https://open.spotify.com/album/4Y0Xe9mVSKmn0k24oVkrtU"
       },
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-03-12 09:14:22",
       "album": {
-        "name": "Alchemy of Souls, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5FEmnt9FCOivDPeAfNxuin"
-      },
-      "artists": [
-        {
-          "name": "JEONG SEWOON",
-          "url": "https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836"
-        }
-      ],
-      "duration_ms": 242213,
-      "name": "Just Watching You",
-      "url": "https://open.spotify.com/track/0pPl0eb7HcfwuXkFZqp4TU"
-    },
-    {
-      "added_at": "2025-03-12 09:14:22",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 228226,
       "name": "Rock With You - Spotify Singles",
       "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
+    },
+    {
+      "added_at": "2025-03-12 09:14:22",
+      "album": {
+        "name": "Alchemy of Souls, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5FEmnt9FCOivDPeAfNxuin"
+      },
+      "artists": [
+        {
+          "name": "JEONG SEWOON",
+          "url": "https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836"
+        }
+      ],
+      "duration_ms": 242213,
+      "name": "Just Watching You",
+      "url": "https://open.spotify.com/track/0pPl0eb7HcfwuXkFZqp4TU"
     },
     {
       "added_at": "2025-03-12 09:14:22",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-03-12 09:14:22",
       "album": {
-        "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
-        "url": "https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg"
-      },
-      "artists": [
-        {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
-      "url": "https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL"
-    },
-    {
-      "added_at": "2025-03-12 09:14:22",
-      "album": {
         "name": "The Ballads",
         "url": "https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 279266,
       "name": "\uac70\ub9ac\uc5d0\uc11c",
       "url": "https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI"
+    },
+    {
+      "added_at": "2025-03-12 09:14:22",
+      "album": {
+        "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
+        "url": "https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
+      "url": "https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL"
     },
     {
       "added_at": "2025-03-12 09:14:22",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-03-12 09:14:22",
       "album": {
-        "name": "I Miss You So Much",
-        "url": "https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM"
-      },
-      "artists": [
-        {
-          "name": "Hwang Karam",
-          "url": "https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc"
-        }
-      ],
-      "duration_ms": 216813,
-      "name": "I Miss You So Much",
-      "url": "https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU"
-    },
-    {
-      "added_at": "2025-03-12 09:14:22",
-      "album": {
         "name": "Let's Stay Well (My love X Roy Kim)",
         "url": "https://open.spotify.com/album/434PxpoRd7LBO2VdPuefao"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 258146,
       "name": "Let's Stay Well (My love X Roy Kim)",
       "url": "https://open.spotify.com/track/3BlFzuu8yqE4bMrHKTViee"
+    },
+    {
+      "added_at": "2025-03-12 09:14:22",
+      "album": {
+        "name": "I Miss You So Much",
+        "url": "https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM"
+      },
+      "artists": [
+        {
+          "name": "Hwang Karam",
+          "url": "https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc"
+        }
+      ],
+      "duration_ms": 216813,
+      "name": "I Miss You So Much",
+      "url": "https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU"
     }
   ],
   "unique_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",

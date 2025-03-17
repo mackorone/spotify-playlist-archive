@@ -1551,6 +1551,28 @@
     },
     {
       "album": {
+        "name": "AZ ALBUM",
+        "url": "https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "date_added": "2025-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Szeretsz-e",
+      "url": "https://open.spotify.com/track/19VmOgLl88ZWU6WXgatfEM"
+    },
+    {
+      "album": {
         "name": "memento",
         "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
       },

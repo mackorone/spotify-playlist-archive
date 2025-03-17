@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 50843,
+  "num_followers": 50846,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9NxgAAAAACJPCodRC6QhJeC5jask1W1",
+  "snapshot_id": "Z9TDAAAAAAB/f8Rf61oayeUI8hBnclCg",
   "tracks": [
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easter",
-        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 283400,
-      "name": "Ghost Dance",
-      "url": "https://open.spotify.com/track/3JRoZqOoTuQu6pI1prK7QC"
+      "duration_ms": 260133,
+      "name": "So You Want to Be",
+      "url": "https://open.spotify.com/track/5dZDQPiC2PGom8Q8pEqKgW"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 260133,
-      "name": "So You Want to Be",
-      "url": "https://open.spotify.com/track/5dZDQPiC2PGom8Q8pEqKgW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Easter",
         "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
       },
@@ -424,9 +408,25 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 243933,
-      "name": "25th Floor",
-      "url": "https://open.spotify.com/track/4juJw163tH0zGCptRcoTM4"
+      "duration_ms": 283400,
+      "name": "Ghost Dance",
+      "url": "https://open.spotify.com/track/3JRoZqOoTuQu6pI1prK7QC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twelve",
+        "url": "https://open.spotify.com/album/2r4tFFrAv3tgLjmCl0rLeR"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 347893,
+      "name": "Changing of the Guards",
+      "url": "https://open.spotify.com/track/6w6uf3E3yPgyFq6DmzI4nG"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twelve",
-        "url": "https://open.spotify.com/album/2r4tFFrAv3tgLjmCl0rLeR"
+        "name": "Easter",
+        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 347893,
-      "name": "Changing of the Guards",
-      "url": "https://open.spotify.com/track/6w6uf3E3yPgyFq6DmzI4nG"
+      "duration_ms": 243933,
+      "name": "25th Floor",
+      "url": "https://open.spotify.com/track/4juJw163tH0zGCptRcoTM4"
     },
     {
       "added_at": null,

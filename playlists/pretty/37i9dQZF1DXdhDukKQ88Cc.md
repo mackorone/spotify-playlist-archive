@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 <a href="spotify:artist:2eBqkaIfoNsOPCQCQEy5fD">Benny Jamz</a> 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,105 likes - 54 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,118 likes - 54 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

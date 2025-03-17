@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Draggin' the Days",
+        "url": "https://open.spotify.com/album/7jbaaaxYdLPSPjqYSCnAk7"
+      },
+      "artists": [
+        {
+          "name": "The Mahones",
+          "url": "https://open.spotify.com/artist/1aTLhV7R5gUjrR60ubjz6V"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213906,
+      "name": "A Drunken Night in Dublin",
+      "url": "https://open.spotify.com/track/52C4xs9PAoQ3u0cMYLXOKe"
+    },
+    {
+      "album": {
         "name": "Sleepin' Rough",
         "url": "https://open.spotify.com/album/11gXkG9RdZCEuJwIOZ7OPW"
       },
@@ -124,7 +142,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-17",
       "duration_ms": 195578,
       "name": "Banks of the Roses",
       "url": "https://open.spotify.com/track/2FiosROHDCTuWyRGCJyPfc"
@@ -1868,7 +1886,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-17",
       "duration_ms": 157875,
       "name": "The Cabin",
       "url": "https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT"
@@ -2394,6 +2412,24 @@
       "duration_ms": 118080,
       "name": "Waxies Dargle",
       "url": "https://open.spotify.com/track/1lrnJ87mFAVF6jkUJu4YKA"
+    },
+    {
+      "album": {
+        "name": "The Bollox",
+        "url": "https://open.spotify.com/album/0JNaZ27UDkqvTDqWK9efuP"
+      },
+      "artists": [
+        {
+          "name": "The Bollox",
+          "url": "https://open.spotify.com/artist/435s6mcvZ5gKmemNx6Kgip"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210835,
+      "name": "Welcome To Bastards Bay",
+      "url": "https://open.spotify.com/track/2tqi27SMrF3lfvVWVVlJfr"
     },
     {
       "album": {

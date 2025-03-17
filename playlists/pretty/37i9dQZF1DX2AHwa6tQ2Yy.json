@@ -1,6 +1,6 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 49848,
+  "num_followers": 49856,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Good Thing (Deluxe)",
-        "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 230853,
-      "name": "Naomi",
-      "url": "https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "The Winding Way",
         "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Us Without Me",
-        "url": "https://open.spotify.com/album/7rQcfmaOYzHKmAlyeuwdTt"
+        "name": "Good Thing (Deluxe)",
+        "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
       },
       "artists": [
         {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 200039,
-      "name": "Us Without Me",
-      "url": "https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C"
+      "duration_ms": 230853,
+      "name": "Naomi",
+      "url": "https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -587,6 +571,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "Us Without Me",
+        "url": "https://open.spotify.com/album/7rQcfmaOYzHKmAlyeuwdTt"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 200039,
+      "name": "Us Without Me",
+      "url": "https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "TMF",
         "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/3WWfApLKg76DOgntZABET6"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 203214,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Learning",
         "url": "https://open.spotify.com/album/2w11Pxtx3QBbVRPKstvPFL"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 283133,
       "name": "Learning",
       "url": "https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/3WWfApLKg76DOgntZABET6"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 203214,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -859,6 +859,26 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "Like a Ship",
+        "url": "https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "Keite Young",
+          "url": "https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn"
+        }
+      ],
+      "duration_ms": 353506,
+      "name": "Like a Ship",
+      "url": "https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "My Phone Can Die",
         "url": "https://open.spotify.com/album/6KvYRCl4xHiFbTDb3ql8Aa"
       },
@@ -883,26 +903,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Like a Ship",
-        "url": "https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "Keite Young",
-          "url": "https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn"
-        }
-      ],
-      "duration_ms": 353506,
-      "name": "Like a Ship",
-      "url": "https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Find My Way",
         "url": "https://open.spotify.com/album/6NWwBZ308qTBXufqWAboMe"
       },
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Universe",
-        "url": "https://open.spotify.com/album/1FQFL3StdKqMQctfhN4DR2"
-      },
-      "artists": [
-        {
-          "name": "Ash Minor",
-          "url": "https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG"
-        }
-      ],
-      "duration_ms": 246857,
-      "name": "Universe",
-      "url": "https://open.spotify.com/track/2DXQReXfqOI5nduLGRQQoF"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Hoodie",
         "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
       },
@@ -955,22 +939,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Sway (Remix)",
-        "url": "https://open.spotify.com/album/6Y58r14MEhkDyXYkqYrxvH"
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/1FQFL3StdKqMQctfhN4DR2"
       },
       "artists": [
         {
-          "name": "Myshaan",
-          "url": "https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN"
-        },
-        {
-          "name": "Rex Atirai",
-          "url": "https://open.spotify.com/artist/3YWnT7lNCBODL78ikRDomW"
+          "name": "Ash Minor",
+          "url": "https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG"
         }
       ],
-      "duration_ms": 236006,
-      "name": "Sway - Remix",
-      "url": "https://open.spotify.com/track/5LCrSMS9ix7OTA0jx4PYfM"
+      "duration_ms": 246857,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/2DXQReXfqOI5nduLGRQQoF"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -995,18 +975,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "you already know [demo_2021].wav",
-        "url": "https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210"
+        "name": "Sway (Remix)",
+        "url": "https://open.spotify.com/album/6Y58r14MEhkDyXYkqYrxvH"
       },
       "artists": [
         {
-          "name": "JACOT\u00c9NE",
-          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+          "name": "Myshaan",
+          "url": "https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN"
+        },
+        {
+          "name": "Rex Atirai",
+          "url": "https://open.spotify.com/artist/3YWnT7lNCBODL78ikRDomW"
         }
       ],
-      "duration_ms": 182169,
-      "name": "you already know [demo_2021].wav",
-      "url": "https://open.spotify.com/track/6xZuNFT2XCM4TesLeKh9C6"
+      "duration_ms": 236006,
+      "name": "Sway - Remix",
+      "url": "https://open.spotify.com/track/5LCrSMS9ix7OTA0jx4PYfM"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1023,6 +1007,22 @@
       "duration_ms": 209623,
       "name": "Addict",
       "url": "https://open.spotify.com/track/49xxb736ZAuvcI12r7AKO3"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "you already know [demo_2021].wav",
+        "url": "https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210"
+      },
+      "artists": [
+        {
+          "name": "JACOT\u00c9NE",
+          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+        }
+      ],
+      "duration_ms": 182169,
+      "name": "you already know [demo_2021].wav",
+      "url": "https://open.spotify.com/track/6xZuNFT2XCM4TesLeKh9C6"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "Fall Like The Rain",
+        "url": "https://open.spotify.com/album/6VFDGYo1TQRAI23mpxFP9Q"
+      },
+      "artists": [
+        {
+          "name": "Ash Minor",
+          "url": "https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Fall Like The Rain",
+      "url": "https://open.spotify.com/track/6IIcLW1w7vbUFYOic7JNRk"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY"
       },
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Fall Like The Rain",
-        "url": "https://open.spotify.com/album/6VFDGYo1TQRAI23mpxFP9Q"
+        "name": "Cure (Acoustic)",
+        "url": "https://open.spotify.com/album/25JiPiAO6AghQ1V5GHt9hQ"
       },
       "artists": [
         {
-          "name": "Ash Minor",
-          "url": "https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG"
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
         }
       ],
-      "duration_ms": 197647,
-      "name": "Fall Like The Rain",
-      "url": "https://open.spotify.com/track/6IIcLW1w7vbUFYOic7JNRk"
+      "duration_ms": 261927,
+      "name": "Cure (Acoustic)",
+      "url": "https://open.spotify.com/track/5TX18to7ocePDq2vztymUC"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Cure (Acoustic)",
-        "url": "https://open.spotify.com/album/25JiPiAO6AghQ1V5GHt9hQ"
-      },
-      "artists": [
-        {
-          "name": "Moonchild",
-          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
-        }
-      ],
-      "duration_ms": 261927,
-      "name": "Cure (Acoustic)",
-      "url": "https://open.spotify.com/track/5TX18to7ocePDq2vztymUC"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "exodus the north star",
         "url": "https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr"
       },
@@ -1151,22 +1151,6 @@
       "duration_ms": 205354,
       "name": "exodus the north star",
       "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "Love in the Open",
-        "url": "https://open.spotify.com/album/7favYyfj0YmlHjZNPC3LfE"
-      },
-      "artists": [
-        {
-          "name": "Jet Vesper",
-          "url": "https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2"
-        }
-      ],
-      "duration_ms": 122719,
-      "name": "Love in the Open",
-      "url": "https://open.spotify.com/track/7bHrageN8GFaQ1jC3G9f4H"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ"
+        "name": "Love in the Open",
+        "url": "https://open.spotify.com/album/7favYyfj0YmlHjZNPC3LfE"
       },
       "artists": [
         {
-          "name": "Elle Eliades",
-          "url": "https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i"
+          "name": "Jet Vesper",
+          "url": "https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9"
+      "duration_ms": 122719,
+      "name": "Love in the Open",
+      "url": "https://open.spotify.com/track/7bHrageN8GFaQ1jC3G9f4H"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1219,6 +1203,22 @@
       "duration_ms": 290000,
       "name": "Love's For Fools",
       "url": "https://open.spotify.com/track/4GMPhvJowPmhwOGXCVd1JD"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ"
+      },
+      "artists": [
+        {
+          "name": "Elle Eliades",
+          "url": "https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9"
     }
   ],
   "unique_name": "Soulful",

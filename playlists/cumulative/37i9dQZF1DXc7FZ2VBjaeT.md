@@ -4,7 +4,7 @@
 
 > Listen to all her biggest hits, in one place.
 
-142 songs - 8 hr 51 min
+143 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Cheek To Cheek](https://open.spotify.com/track/03oJxEzzNWN9REdfrRqRs9) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Hot Christmas Hits](https://open.spotify.com/album/5gkdC2yqeIClCn2Zx2jNX0) | 2:50 | 2022-05-09 | 2022-11-13 |
 | [Cheek To Cheek](https://open.spotify.com/track/0UuRIovHyU6KeTzY4gS0L2) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek \(Deluxe\)](https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu) | 2:50 | 2022-05-09 | 2024-04-07 |
 | [Cheek To Cheek](https://open.spotify.com/track/0U1WIxorOeHVtKChbVzpBu) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek](https://open.spotify.com/album/3bfLn4OV3TsBChYvKu0sgp) | 2:50 | 2020-10-16\* | 2022-07-29 |
-| [Dancin' In Circles](https://open.spotify.com/track/73nUaV6tDyvCiBZKhAR7kL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T) | 3:27 | 2020-10-16\* |  |
+| [Dancin' In Circles](https://open.spotify.com/track/73nUaV6tDyvCiBZKhAR7kL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/1QV5fPVm9bIVWsm0ngE34T) | 3:27 | 2020-10-16\* | 2025-03-17 |
 | [Diamond Heart](https://open.spotify.com/track/2dCcDpm6O6ocomusl5ao6p) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/4JiY4JUvXdEA7UFIbiAyor) | 3:30 | 2020-10-16\* | 2022-07-29 |
 | [Diamond Heart](https://open.spotify.com/track/45CPhDilfgK14IE7LbNvPh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:30 | 2022-05-09 | 2024-04-07 |
 | [Diamond Heart](https://open.spotify.com/track/5XtD05pQ1m23DcBIKdwdnP) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Best of Pop Rock](https://open.spotify.com/album/1yGSn27sbvhbVkanaszYFs) | 3:30 | 2022-05-09 | 2022-11-13 |
@@ -64,6 +64,7 @@
 | [Heal Me](https://open.spotify.com/track/5Ctq1DOZUWZqsQZXro2jf7) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:16 | 2020-10-16\* | 2024-04-07 |
 | [Hey Girl](https://open.spotify.com/track/554PnB96IltLzVlbinBstw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Florence Welch](https://open.spotify.com/artist/0IROOdQ2fQUcoaEPqt1Isg) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 4:15 | 2024-04-06 |  |
 | [Hold My Hand](https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Hold My Hand \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe) | 3:45 | 2022-05-09 |  |
+| [How Bad Do U Want Me](https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:58 | 2025-03-16 |  |
 | [I Concentrate On You](https://open.spotify.com/track/1Z2el1XLsdJwt6Kefb2F5p) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 3:56 | 2021-10-02 | 2021-10-16 |
 | [I Don't Know What Love Is](https://open.spotify.com/track/1EWKuMkjiVrHRoqAquXVfL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 2:57 | 2020-10-16\* | 2024-08-17 |
 | [I Get A Kick Out Of You](https://open.spotify.com/track/4TRX5ZivGItdUnpkRC3JyU) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [I Get A Kick Out Of You](https://open.spotify.com/album/7dSqdzXE3lZxd6QBKesRab) | 3:33 | 2021-08-05 | 2022-07-29 |

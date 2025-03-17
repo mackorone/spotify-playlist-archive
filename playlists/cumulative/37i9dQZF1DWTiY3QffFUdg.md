@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-258 songs - 13 hr 40 min
+259 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [I Need It More](https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [I Need It More](https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d) | 2:38 | 2024-06-07 |  |
 | [I Wanna Dance](https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [I Wanna Dance](https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl) | 3:18 | 2023-10-20 | 2024-07-15 |
 | [I WANT YOUR LOVE](https://open.spotify.com/track/3YlabQB2EfIqvxZDovTlc5) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Diøn](https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr), [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [I WANT YOUR LOVE](https://open.spotify.com/album/0LS8OojLep3r98rqrBwvaU) | 2:02 | 2024-11-08 | 2025-02-01 |
-| [I Was Made For Lovin' You](https://open.spotify.com/track/1OYKOmLoDZEm2FXQjb9rlB) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [I Was Made For Lovin' You](https://open.spotify.com/album/0GZsv8iYqVqDIDK4Zr8qyg) | 2:59 | 2025-01-10 |  |
+| [I Was Made For Lovin' You](https://open.spotify.com/track/1OYKOmLoDZEm2FXQjb9rlB) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [I Was Made For Lovin' You](https://open.spotify.com/album/0GZsv8iYqVqDIDK4Zr8qyg) | 2:59 | 2025-01-10 | 2025-03-17 |
 | [I'm Sorry \- southstar Remix](https://open.spotify.com/track/1DCR3o15qC2degQEYG5K2R) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi), [Janis Zielinski](https://open.spotify.com/artist/0qqVoFZdP1OB0N9FkGfJ4D), [sowhy3](https://open.spotify.com/artist/1U1FxSl6bYeFUeGcg8KOsE) | [Digital Chaos](https://open.spotify.com/album/7t8XvETweKzk5YjRfTQzYA) | 3:34 | 2024-07-12 |  |
 | [I'm The Devil](https://open.spotify.com/track/1xY26fxfR9QVrax98xxPLL) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [I'm The Devil](https://open.spotify.com/album/6AlsrLgmF5o7TiuX9w8Fgz) | 2:52 | 2024-08-16 | 2024-11-10 |
 | [In My Hands \(with Camden Cox\)](https://open.spotify.com/track/5tQBXtnSjBN6ohQYLCxBlX) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [In My Hands \(with Camden Cox\)](https://open.spotify.com/album/0dVvNRierRGIDIJcLabobW) | 3:40 | 2023-09-01 | 2023-09-19 |
@@ -213,6 +213,7 @@
 | [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 | 2023-09-19 |  |
 | [SexyBack \- TechnoBack](https://open.spotify.com/track/5sJ6PXZEyar0VfEgBt6HnN) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Mono Schwarz](https://open.spotify.com/artist/5vOyfExrjM77ls1SXN0CLF) | [SexyBack \(TechnoBack\)](https://open.spotify.com/album/5EGHrNs3I7o9voBxiUeWyf) | 2:26 | 2024-10-25 |  |
 | [Shadows Of The Night \- GIGI DAG Mix](https://open.spotify.com/track/5n3jPpWweeAWjSEIONrcXS) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un), [Boostedkids](https://open.spotify.com/artist/2PMTEy2vzCh81UZTpjK7fZ), [GIGI DAG](https://open.spotify.com/artist/5dnmJca9sE7eYfwKyeWVI0) | [Shadows Of The Night \(GIGI DAG Mix\)](https://open.spotify.com/album/5X1zTvAgAce4WDfP2vRBbi) | 2:42 | 2024-04-12 |  |
+| [Shake That](https://open.spotify.com/track/3t854jxXLppSGbOEYGQ3mI) | [Danimal](https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [Shake That](https://open.spotify.com/album/5fopLePPfYk56Ei99jOmLv) | 2:00 | 2025-03-14 |  |
 | [Shimmy Shake \(That Booty\)](https://open.spotify.com/track/2h113cdbuGT8CLmwppMVES) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [740 Boyz](https://open.spotify.com/artist/1gxehupXVKw95i03TQKppC) | [Shimmy Shake \(That Booty\)](https://open.spotify.com/album/0L3BHBCF1zCpgKY91PLtRK) | 1:57 | 2024-11-15 | 2024-12-26 |
 | [Silence](https://open.spotify.com/track/5iXgpgzmDiafKqRk4Tl4d2) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Silence](https://open.spotify.com/album/0NWM2Hrpligv2VaMnVUX2Y) | 2:58 | 2023-11-17 | 2024-07-29 |
 | [Silver Spark](https://open.spotify.com/track/2oMMOQL2NiNC97TEDmyjMk) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Silver Spark](https://open.spotify.com/album/0SWoFlfVjModLr3r5qeVNi) | 4:21 | 2024-05-17 | 2024-07-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Javiera Mena y Santiago Motorizado
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,462 likes - 101 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,459 likes - 101 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 238898,
+  "num_followers": 238936,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9NxgAAAAAALr2fZliAjrUi4EAuqfyTG",
+  "snapshot_id": "Z9TDAAAAAAB6jhGSD/MKpdoHK6HMorec",
   "tracks": [
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Circe / \u201cOjos Tristes\u201d",
-        "url": "https://open.spotify.com/album/5J3vnuRHFpiA69ogWUksI5"
+        "name": "De Brujas y Otros H\u00e1bitos",
+        "url": "https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Circe / \u201cOjos Tristes\u201d",
-      "url": "https://open.spotify.com/track/2rFslJ6eaIEgxLyUXDmimi"
+      "duration_ms": 154000,
+      "name": "Alejandria / \"Ella Es Nost\u00e1lgica\"",
+      "url": "https://open.spotify.com/track/3bQ1dv2HzXWuniEYsyEE5x"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Brujas y Otros H\u00e1bitos",
-        "url": "https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd"
+        "name": "Circe / \u201cOjos Tristes\u201d",
+        "url": "https://open.spotify.com/album/5J3vnuRHFpiA69ogWUksI5"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Alejandria / \"Ella Es Nost\u00e1lgica\"",
-      "url": "https://open.spotify.com/track/3bQ1dv2HzXWuniEYsyEE5x"
+      "duration_ms": 228000,
+      "name": "Circe / \u201cOjos Tristes\u201d",
+      "url": "https://open.spotify.com/track/2rFslJ6eaIEgxLyUXDmimi"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Brujas y Otros H\u00e1bitos",
+        "url": "https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 155750,
+      "name": "Pachamama / \"Bendecido\"",
+      "url": "https://open.spotify.com/track/1VeKurzW12gmUhLsjY8q0s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cada Vez",
         "url": "https://open.spotify.com/album/4eNiNe8uTe8LK410C4OOTJ"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 164597,
       "name": "Legendarios",
       "url": "https://open.spotify.com/track/5F37FuiLSSah3vW8Pr5sQD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Brujas y Otros H\u00e1bitos",
-        "url": "https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 155750,
-      "name": "Pachamama / \"Bendecido\"",
-      "url": "https://open.spotify.com/track/1VeKurzW12gmUhLsjY8q0s"
     },
     {
       "added_at": null,
@@ -1007,6 +1007,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Brujas y Otros H\u00e1bitos",
+        "url": "https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Mar\u00eda / \"Aroma de Jard\u00edn\"",
+      "url": "https://open.spotify.com/track/4EpisBsyznGvegvu1luper"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LDCR: Los Del Coraz\u00f3n Roto",
         "url": "https://open.spotify.com/album/2Bsf3oexDX6pAk6Za4iEhW"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 182127,
       "name": "Desde Que Te Bese",
       "url": "https://open.spotify.com/track/79aqsG5pFczwipwIHJIZDI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Brujas y Otros H\u00e1bitos",
-        "url": "https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Mar\u00eda / \"Aroma de Jard\u00edn\"",
-      "url": "https://open.spotify.com/track/4EpisBsyznGvegvu1luper"
     },
     {
       "added_at": null,

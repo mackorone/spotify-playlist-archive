@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Chappell Roan, Mother Mother, Warren Zeiders, HAIM and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,061 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,103 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 71 | [Veda's Groove](https://open.spotify.com/track/46hdFprhIiRRgad2YswhHo) | [Beatchild](https://open.spotify.com/artist/4k7KKAyXbpBKe0iziD7c2P) | [Veda's Groove](https://open.spotify.com/album/7jxDexTZG42zEiwHccOvlu) | 2:32 |
 | 72 | [The Seize](https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Seize](https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3) | 3:34 |
 | 73 | [Night Rider](https://open.spotify.com/track/2ZAVci8nZRqLEWV60mogWV) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Lonesome Drifter](https://open.spotify.com/album/64lDGn2XUSnXAncXh9Zzow) | 3:18 |
-| 74 | [Victorious \(feat\. Tia Wood\)](https://open.spotify.com/track/41NSGbhbOsL7E20Vlc7yhx) | [Shub](https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A), [Tia Wood](https://open.spotify.com/artist/2uW4osxGJrI1j4eqZg90kc) | [Victorious \(feat\. Tia Wood\)](https://open.spotify.com/album/17HTDcqKMpgfhHCqNR4Dl3) | 4:30 |
+| 74 | [Victorious \(feat\. Tia Wood\)](https://open.spotify.com/track/41NSGbhbOsL7E20Vlc7yhx) | [Shub](https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A), [Tia Wood](https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC) | [Victorious \(feat\. Tia Wood\)](https://open.spotify.com/album/17HTDcqKMpgfhHCqNR4Dl3) | 4:30 |
 | 75 | [MORTAL KOMBAT](https://open.spotify.com/track/2mJ3GtJzImwlmucY5Ffrno) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [MORTAL KOMBAT](https://open.spotify.com/album/6gOjy2B2NiAGiqPlVAKnTs) | 2:55 |
 | 76 | [Tokyo Lift \(5am\)](https://open.spotify.com/track/3nNHdtE7GDHCBwt6mA1D4M) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Tokyo Lift \(5am\)](https://open.spotify.com/album/5VOkDAIt6P6s1eNRhay1xE) | 2:24 |
 | 77 | [At Peace](https://open.spotify.com/track/1RCzGsb8Mg2y848NgwMK6Z) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [At Peace](https://open.spotify.com/album/6xdKQ53JqAMqBZlYyjZeV4) | 3:53 |

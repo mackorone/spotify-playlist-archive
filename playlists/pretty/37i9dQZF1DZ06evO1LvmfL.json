@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Swims. The essential tracks, all in one playlist.",
-  "num_followers": 354500,
+  "num_followers": 355002,
   "original_name": "This Is Teddy Swims",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9NxgAAAAABaWGz5iI/9031sw0KfA8uS",
+  "snapshot_id": "Z9TDAAAAAAD4Nrbd3tXbQTPYLrIbXLPK",
   "tracks": [
     {
       "added_at": null,
@@ -799,6 +799,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/7zF4bGdgix6bS2d1Fank0g"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 178007,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/0Pfk6RzGNhwEP6HeEGH7Ya"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rivers",
         "url": "https://open.spotify.com/album/5e3GudnXw3whduY1LIYh4f"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 229367,
       "name": "What's Going On",
       "url": "https://open.spotify.com/track/4hEAuRbB3YsnCw7DE2nJZV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/7zF4bGdgix6bS2d1Fank0g"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 178007,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/0Pfk6RzGNhwEP6HeEGH7Ya"
     },
     {
       "added_at": null,

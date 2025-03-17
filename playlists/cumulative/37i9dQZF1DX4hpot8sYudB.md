@@ -4,7 +4,7 @@
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-397 songs - 20 hr 35 min
+398 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Brown Noise Lullaby](https://open.spotify.com/track/1V8y7X3bRwUGJjKLnyzlbl) | [The Brownian Sleepers](https://open.spotify.com/artist/0knYqGnaAzMnPYgvzubyNN) | [Brown Noise Lullaby](https://open.spotify.com/album/4EGAs1QyIqB7tsSiHRZIbu) | 3:43 | 2022-05-05 | 2023-10-27 |
 | [Brown Noise Magic](https://open.spotify.com/track/5RQrltTM6S9EIiBYDIK9vh) | [Sky Travis](https://open.spotify.com/artist/5IkHDfUNRiqyATjgbDHuGy) | [Deep Brown Ocean](https://open.spotify.com/album/5ZCqluI3uyqcP5daizQfYu) | 3:00 | 2022-10-26 |  |
 | [Brown Noise Makes Me Sleepy](https://open.spotify.com/track/526BtZki2prdOsCbpVMkPZ) | [Brown Noise Studio](https://open.spotify.com/artist/7npBnBvj7J6RrSFJfDLBiA) | [Brown Noise Sleep](https://open.spotify.com/album/0XiEnSHy4SAoB7LrdO4Ky0) | 3:45 | 2022-01-07 | 2022-12-17 |
-| [Brown Noise Massage](https://open.spotify.com/track/5oq3rQbWntb1u6YH8DmFnp) | [Aurora Axis](https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM) | [Brown Noise Axis](https://open.spotify.com/album/1cVWNU4uNz7rWB48HVaT5R) | 3:34 | 2023-10-06 |  |
+| [Brown Noise Massage](https://open.spotify.com/track/5oq3rQbWntb1u6YH8DmFnp) | [Aurora Axis](https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM) | [Brown Noise Axis](https://open.spotify.com/album/1cVWNU4uNz7rWB48HVaT5R) | 3:34 | 2023-10-06 | 2025-03-17 |
 | [Brown Noise Naps](https://open.spotify.com/track/3g1Qtwh6E9GhCQC1uIa3m6) | [Brown Noise Studio](https://open.spotify.com/artist/7npBnBvj7J6RrSFJfDLBiA) | [Brown Noise Sleep](https://open.spotify.com/album/0XiEnSHy4SAoB7LrdO4Ky0) | 3:45 | 2022-01-07 |  |
 | [Brown Noise near the Baby Crib](https://open.spotify.com/track/2UvMW1EY2UOxgpxiWUaOyo) | [The Sleep Phasers](https://open.spotify.com/artist/0Hsi1ogeO5MpghqgXtuh9L) | [Brown Noise near the Baby Crib](https://open.spotify.com/album/0BGay7OcIt7wkDdIktSYa4) | 3:35 | 2022-07-29 |  |
 | [Brown Noise Notre Dame](https://open.spotify.com/track/1opDdUVWVjTFjuo6Dc1IaB) | [Sleep Sleep Sleep](https://open.spotify.com/artist/1OqVbmth0QR4OXPVPmIEyi) | [Sleep Noise](https://open.spotify.com/album/4vAdUTer5fygtGo2VeDt7q) | 3:16 | 2022-01-07 | 2022-12-17 |
@@ -363,6 +363,7 @@
 | [Soft Brown Noise \- Seamless](https://open.spotify.com/track/01BuGDsak2sRcIFCZuwFFZ) | [Oasis Magna](https://open.spotify.com/artist/644swZfx5CWX5B1g3njvr1) | [Soft Brown Noise](https://open.spotify.com/album/4dTSxzW8BjI83W1HsjBAAX) | 2:54 | 2022-06-14 |  |
 | [Soft Noise](https://open.spotify.com/track/7zFEaYPifMRKdllCixP61H) | [NoiseZ](https://open.spotify.com/artist/0sfBeyU3aHvVFEGrPBU3xq) | [Universal Sleep Noise](https://open.spotify.com/album/0K7WGFAOLM8IHYYk6wMaSv) | 2:46 | 2022-01-07 | 2022-12-17 |
 | [Sonitus IV](https://open.spotify.com/track/5zI6HBKceSwf4PfRGR8R1f) | [Byonde](https://open.spotify.com/artist/33ceGoMDGHMOenQtt0Ls8q) | [Serenity Noise](https://open.spotify.com/album/45msYzpaKzhNNCLpwRzzBX) | 3:05 | 2022-01-07 | 2023-03-10 |
+| [Soothing Blanket of Brown Noise](https://open.spotify.com/track/1AX1IB9cLclzB89lLi6NXJ) | [Freq Molecule](https://open.spotify.com/artist/0p03OqcToOGwKxzUkJQJkO) | [Soothing Blanket of Brown Noise](https://open.spotify.com/album/7pZ14KvOcfuk4Yi1Rsw6xz) | 5:27 | 2025-02-25 |  |
 | [Soothing Brown Noise](https://open.spotify.com/track/3mBiRT0FowrtQiLd8ppyQb) | [Everywhere Brown Noise](https://open.spotify.com/artist/4r6joVLgbTD7M07z1KIooA) | [Relax with Brown Noise](https://open.spotify.com/album/5vkFV8CLrYIXm5ag9bwdto) | 3:38 | 2022-01-07 | 2023-01-21 |
 | [Soothing Brown Noise](https://open.spotify.com/track/2FW8YAb6QaMbyLFDpnoFr5) | [Julia Sono](https://open.spotify.com/artist/7Bbr5r0eIb5k773rp7En9q) | [Soothing Brown Noise](https://open.spotify.com/album/7oU0nNxdUDwEaa4Ddft0l0) | 3:03 | 2022-10-26 |  |
 | [Soothing Brown Noise](https://open.spotify.com/track/4v1M8wCr4JmLIguRfDl8td) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Noise Comfort \(Brown Noise\)](https://open.spotify.com/album/4Ptw9UM5OpJrpjHxfe1upS) | 3:44 | 2022-01-07 | 2022-12-17 |

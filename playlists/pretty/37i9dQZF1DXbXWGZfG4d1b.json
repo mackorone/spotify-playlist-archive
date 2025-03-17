@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour. ",
-  "num_followers": 24042,
+  "num_followers": 24043,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "CORRENTADA",
-        "url": "https://open.spotify.com/album/3yWOpyyG9Plm2O1Y7uD4Gh"
-      },
-      "artists": [
-        {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
-        }
-      ],
-      "duration_ms": 271237,
-      "name": "Pulpo",
-      "url": "https://open.spotify.com/track/2VyySCdsyFL2Q0f6oiERG1"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
         "name": "Todo Sigue Igual",
         "url": "https://open.spotify.com/album/4AACc6XDAsXQiJfU4ZCxzk"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 255835,
       "name": "680/680",
       "url": "https://open.spotify.com/track/7x1v9v0mVzNJ4f2q0tXcN6"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
+        "name": "CORRENTADA",
+        "url": "https://open.spotify.com/album/3yWOpyyG9Plm2O1Y7uD4Gh"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "duration_ms": 271237,
+      "name": "Pulpo",
+      "url": "https://open.spotify.com/track/2VyySCdsyFL2Q0f6oiERG1"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -243,18 +243,22 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "Y Nada Sirve",
-        "url": "https://open.spotify.com/album/6uciJQidm2CY2M127Ei5Vq"
+        "name": "Ubicaci\u00f3n en Tiempo Real",
+        "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
       },
       "artists": [
         {
-          "name": "Catalina Ammaturo",
-          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        },
+        {
+          "name": "Paula Trama",
+          "url": "https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u"
         }
       ],
-      "duration_ms": 266666,
-      "name": "Y Nada Sirve",
-      "url": "https://open.spotify.com/track/4NtSf2833RafoCkuKrrSEi"
+      "duration_ms": 255860,
+      "name": "Los D\u00edas Que No Est\u00e1s",
+      "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -271,6 +275,22 @@
       "duration_ms": 311327,
       "name": "17",
       "url": "https://open.spotify.com/track/0lv7MF7EVnJe6g09LjeIjK"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
+        "name": "Y Nada Sirve",
+        "url": "https://open.spotify.com/album/6uciJQidm2CY2M127Ei5Vq"
+      },
+      "artists": [
+        {
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "Y Nada Sirve",
+      "url": "https://open.spotify.com/track/4NtSf2833RafoCkuKrrSEi"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -303,26 +323,6 @@
       "duration_ms": 185390,
       "name": "HAT TRICK",
       "url": "https://open.spotify.com/track/1dLUkI78UJyPZgcP3t9XUd"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
-        "name": "Ubicaci\u00f3n en Tiempo Real",
-        "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        },
-        {
-          "name": "Paula Trama",
-          "url": "https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u"
-        }
-      ],
-      "duration_ms": 255860,
-      "name": "Los D\u00edas Que No Est\u00e1s",
-      "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -395,6 +395,22 @@
       "duration_ms": 207181,
       "name": "Medalla De Oro A La Mejor Canci\u00f3n de Amor",
       "url": "https://open.spotify.com/track/5sRbPtGGRrkrtJdRU1p6G3"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
+        "name": "Este Lugar",
+        "url": "https://open.spotify.com/album/3Wqe1WTNbbFWuA46Zgo5a2"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 292758,
+      "name": "Este Lugar",
+      "url": "https://open.spotify.com/track/5xdyRUBcNEzNwOC0WocapT"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -483,22 +499,6 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "Este Lugar",
-        "url": "https://open.spotify.com/album/3Wqe1WTNbbFWuA46Zgo5a2"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 292758,
-      "name": "Este Lugar",
-      "url": "https://open.spotify.com/track/5xdyRUBcNEzNwOC0WocapT"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
         "name": "La Concentraci\u00f3n",
         "url": "https://open.spotify.com/album/6bbUZ2qsqrYUZT3lJh5xVX"
       },
@@ -531,18 +531,18 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "No Los Pueden Separar",
-        "url": "https://open.spotify.com/album/3UQL0qaEoWlzrDcK1W7Z6j"
+        "name": "Frutillas con Crema",
+        "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
       },
       "artists": [
         {
-          "name": "RYAN",
-          "url": "https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E"
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
         }
       ],
-      "duration_ms": 142147,
-      "name": "No Los Pueden Separar",
-      "url": "https://open.spotify.com/track/7oJgGoOiDOYcwvGkQswzbO"
+      "duration_ms": 162605,
+      "name": "Frutillas con Crema",
+      "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -563,18 +563,18 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "Frutillas con Crema",
-        "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
+        "name": "No Los Pueden Separar",
+        "url": "https://open.spotify.com/album/3UQL0qaEoWlzrDcK1W7Z6j"
       },
       "artists": [
         {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+          "name": "RYAN",
+          "url": "https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E"
         }
       ],
-      "duration_ms": 162605,
-      "name": "Frutillas con Crema",
-      "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
+      "duration_ms": 142147,
+      "name": "No Los Pueden Separar",
+      "url": "https://open.spotify.com/track/7oJgGoOiDOYcwvGkQswzbO"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "Caminar en Cristal",
-        "url": "https://open.spotify.com/album/3VurkmLzOWr3KDCUbTSC5S"
-      },
-      "artists": [
-        {
-          "name": "Catalina Ammaturo",
-          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
-        }
-      ],
-      "duration_ms": 144071,
-      "name": "Caminar en Cristal",
-      "url": "https://open.spotify.com/track/4YlHkunt4qLnQy1Gtvivlb"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
         "name": "Una Comedia Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 224031,
       "name": "Son\u00e1mbulos",
       "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
+        "name": "Caminar en Cristal",
+        "url": "https://open.spotify.com/album/3VurkmLzOWr3KDCUbTSC5S"
+      },
+      "artists": [
+        {
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+        }
+      ],
+      "duration_ms": 144071,
+      "name": "Caminar en Cristal",
+      "url": "https://open.spotify.com/track/4YlHkunt4qLnQy1Gtvivlb"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -947,6 +947,22 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
+        "name": "No Mor\u00ed",
+        "url": "https://open.spotify.com/album/5Wf6Min2kFIKeRpSnj0B0E"
+      },
+      "artists": [
+        {
+          "name": "Mostruo!",
+          "url": "https://open.spotify.com/artist/5Q3EFP1RdiY8cF6S4QktgE"
+        }
+      ],
+      "duration_ms": 183203,
+      "name": "No Mor\u00ed",
+      "url": "https://open.spotify.com/track/2hQmLzDJP2D4iPVseYJixK"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
         "name": "Destruyo Mi Guitarra",
         "url": "https://open.spotify.com/album/3xVTNIz26kYKfuwjPMomn9"
       },
@@ -983,22 +999,6 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "No Mor\u00ed",
-        "url": "https://open.spotify.com/album/5Wf6Min2kFIKeRpSnj0B0E"
-      },
-      "artists": [
-        {
-          "name": "Mostruo!",
-          "url": "https://open.spotify.com/artist/5Q3EFP1RdiY8cF6S4QktgE"
-        }
-      ],
-      "duration_ms": 183203,
-      "name": "No Mor\u00ed",
-      "url": "https://open.spotify.com/track/2hQmLzDJP2D4iPVseYJixK"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
         "name": "Navegando",
         "url": "https://open.spotify.com/album/43lwpoOoIiRukN8WCCVn3k"
       },
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
+        "name": "Amor Express",
+        "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
+      },
+      "artists": [
+        {
+          "name": "Andry Bett",
+          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
+        }
+      ],
+      "duration_ms": 214409,
+      "name": "Amor Express",
+      "url": "https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
         "name": "GLEEMONEX",
         "url": "https://open.spotify.com/album/43YE48NLIeNmltm3ok8oPv"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 226715,
       "name": "GLEEMONEX",
       "url": "https://open.spotify.com/track/2JU1pR0bBAWijuu9uVipNm"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
-        "name": "Amor Express",
-        "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
-      },
-      "artists": [
-        {
-          "name": "Andry Bett",
-          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
-        }
-      ],
-      "duration_ms": 214409,
-      "name": "Amor Express",
-      "url": "https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
+        "name": "malas decisiones",
+        "url": "https://open.spotify.com/album/6FcsRp3ZwHDzBZznM21Os5"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "duration_ms": 180989,
+      "name": "malas decisiones",
+      "url": "https://open.spotify.com/track/39FkLgL30jP9VnZ4FvO7g7"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
         "name": "Creo que necesito ir a dar una vuelta",
         "url": "https://open.spotify.com/album/1kVcC8GK5dhaX25mGRHAee"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 192137,
       "name": "Oh my goth",
       "url": "https://open.spotify.com/track/5TSNcNZkUI3iAvGUBOjyjw"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
-        "name": "malas decisiones",
-        "url": "https://open.spotify.com/album/6FcsRp3ZwHDzBZznM21Os5"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        }
-      ],
-      "duration_ms": 180989,
-      "name": "malas decisiones",
-      "url": "https://open.spotify.com/track/39FkLgL30jP9VnZ4FvO7g7"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "Entre L\u00edneas",
-        "url": "https://open.spotify.com/album/1bABFsJ5fcgwxnaimzmJxe"
-      },
-      "artists": [
-        {
-          "name": "Cerro Dubl\u00edn",
-          "url": "https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Entre L\u00edneas",
-      "url": "https://open.spotify.com/track/3jPgaRBb1VXKr3nt4pLvFp"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
         "name": "Estoy Bien",
         "url": "https://open.spotify.com/album/4EWSzR5GPHL14zrLrh7YS8"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 171272,
       "name": "Estoy Bien",
       "url": "https://open.spotify.com/track/3lzASIb59OFvxqNTw6B5FK"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
+        "name": "Entre L\u00edneas",
+        "url": "https://open.spotify.com/album/1bABFsJ5fcgwxnaimzmJxe"
+      },
+      "artists": [
+        {
+          "name": "Cerro Dubl\u00edn",
+          "url": "https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Entre L\u00edneas",
+      "url": "https://open.spotify.com/track/3jPgaRBb1VXKr3nt4pLvFp"
     },
     {
       "added_at": "2025-01-09 18:07:40",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-01-09 18:07:40",
       "album": {
-        "name": "ya soy, ya tengo",
-        "url": "https://open.spotify.com/album/7sLpt0HqSqdIaLvwwQuV8L"
-      },
-      "artists": [
-        {
-          "name": "Tarsitano",
-          "url": "https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG"
-        }
-      ],
-      "duration_ms": 249245,
-      "name": "ya soy, ya tengo",
-      "url": "https://open.spotify.com/track/1Xfzs3OXZg5aZ6pSj64ngb"
-    },
-    {
-      "added_at": "2025-01-09 18:07:40",
-      "album": {
         "name": "Perd\u00f3n pero con estas gafas no te escucho nada",
         "url": "https://open.spotify.com/album/6h1wX7CQWb04qZRzMYFF4O"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 118625,
       "name": "Perd\u00f3n pero con estas gafas no te escucho nada",
       "url": "https://open.spotify.com/track/1CD3JzkGVGylR2NpBgu3Qu"
+    },
+    {
+      "added_at": "2025-01-09 18:07:40",
+      "album": {
+        "name": "ya soy, ya tengo",
+        "url": "https://open.spotify.com/album/7sLpt0HqSqdIaLvwwQuV8L"
+      },
+      "artists": [
+        {
+          "name": "Tarsitano",
+          "url": "https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG"
+        }
+      ],
+      "duration_ms": 249245,
+      "name": "ya soy, ya tengo",
+      "url": "https://open.spotify.com/track/1Xfzs3OXZg5aZ6pSj64ngb"
     },
     {
       "added_at": "2025-01-09 18:07:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: iann dior
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,803 likes - 46 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,806 likes - 46 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

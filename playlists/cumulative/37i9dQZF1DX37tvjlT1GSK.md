@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Los Plebes del Rancho de Ariel Camacho en portada.
 
-516 songs - 1 day 3 hr 14 min
+517 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [El Poder De La Palabra](https://open.spotify.com/track/1kAYKWWCTLky4bqHQDocTJ) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Corridos Metafísicos](https://open.spotify.com/album/7wtaCv2CF3R8at9Ecq9CLw) | 3:46 | 2025-01-17 |  |
 | [El Poder de Tu Mirada](https://open.spotify.com/track/1eN387v5wRFvSHHBwtCxQW) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [No Te Pido Mucho](https://open.spotify.com/album/1HWPwiFJ5jmVP9dIjfFPYA) | 3:40 | 2021-12-27 | 2023-03-18 |
 | [El Rapido](https://open.spotify.com/track/3IDvZQYop4XSaTZHw4H5hK) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/08nFf278FBOyxTEssZx2LR) | 3:02 | 2023-03-17 | 2023-12-02 |
+| [El Rengo Del Gallo Giro](https://open.spotify.com/track/31yKkZ5xrfwE5kPfeAdBkK) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Pisteando En El Rancho](https://open.spotify.com/album/4VeyhffKkQ30n8NroxsEWF) | 4:07 | 2025-02-25 |  |
 | [El Silent](https://open.spotify.com/track/1A4brAeYlatGpoRxAs06UE) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Rojo](https://open.spotify.com/album/3TQE7Z8ScW2bFmB1DdVp7X) | 2:20 | 2023-09-15 | 2023-11-28 |
 | [El Spider](https://open.spotify.com/track/5vEzc1xNskSiereUFMvM6f) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Spider](https://open.spotify.com/album/5XuxGFaVALa6oTa9EByYkr) | 3:00 | 2024-10-04 | 2024-12-18 |
 | [El Tony](https://open.spotify.com/track/3SdIpwt0PjEstHUi1e0d7i) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Daniel Vazquez](https://open.spotify.com/artist/4kh6gKONPBfkCCd818b1PS) | [El Tony](https://open.spotify.com/album/7duHunpgpGBzL1v1xVJIBu) | 2:45 | 2022-05-13 | 2022-09-24 |
@@ -346,7 +347,7 @@
 | [No Vuelvo A Caer](https://open.spotify.com/track/2BOU7aZKVHmqjtSSvSDcKC) | [Ricky Barajas](https://open.spotify.com/artist/4xPyMG3TRjeYwXiD0SIZoe), [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j) | [No Vuelvo A Caer](https://open.spotify.com/album/73u0hobrcdl7TMpS7k3dur) | 2:44 | 2022-08-05 | 2022-09-24 |
 | [Noche De Fiesta](https://open.spotify.com/track/1m1Vqo9sa478m20bIr4j4O) | [Omar Acosta](https://open.spotify.com/artist/62TYc0jo76fDQDzV9SZMLE) | [Noche De Fiesta](https://open.spotify.com/album/5oMehedoelylYKrGFDJP0V) | 3:24 | 2022-07-01 | 2022-07-25 |
 | [Nomas La Cara Tienes](https://open.spotify.com/track/1zq7qEX7okw69ydD9Py2KC) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Nomas La Cara Tienes](https://open.spotify.com/album/11hxZaPUq1lmZStd6eAsJ7) | 3:37 | 2023-08-25 | 2024-02-10 |
-| [Notredame](https://open.spotify.com/track/6MMtGsp4X3kDjfb1oG4WHr) | [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S) | [Notredame](https://open.spotify.com/album/3mtyNz21MzxkG0PfR1bI9T) | 2:49 | 2024-10-04 |  |
+| [Notredame](https://open.spotify.com/track/6MMtGsp4X3kDjfb1oG4WHr) | [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S) | [Notredame](https://open.spotify.com/album/3mtyNz21MzxkG0PfR1bI9T) | 2:49 | 2024-10-04 | 2025-03-17 |
 | [O Me Voy O Te Vas](https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [O Me Voy O Te Vas](https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97) | 4:02 | 2023-12-01 |  |
 | [Odio](https://open.spotify.com/track/3lD9MZbyyl6fAirYEgmABl) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Odio](https://open.spotify.com/album/0ms6fqC1BTdBC8EXPVu7fj) | 2:33 | 2022-09-23 | 2023-02-18 |
 | [Ojitos Lindos](https://open.spotify.com/track/6JYE09qjRvxvGZBxPNOTw1) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Ojitos Lindos](https://open.spotify.com/album/5qcpDJhLdRHhLxoOhcFYE6) | 2:45 | 2023-06-09 | 2023-07-01 |

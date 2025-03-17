@@ -2547,6 +2547,28 @@
     },
     {
       "album": {
+        "name": "4AM (LA LA LA)",
+        "url": "https://open.spotify.com/album/1TYlqFHeXpIOaLSdnu8Kji"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        },
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        }
+      ],
+      "date_added": "2025-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "I HEART YOU",
+      "url": "https://open.spotify.com/track/2KulZwrv0Wg8OSiKIfvaMu"
+    },
+    {
+      "album": {
         "name": "Red (Big Machine Radio Release Special)",
         "url": "https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D"
       },
@@ -3470,7 +3492,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-17",
       "duration_ms": 159130,
       "name": "Mickey",
       "url": "https://open.spotify.com/track/1xQNzLluHdgoJKElrPAMqm"
@@ -4642,7 +4664,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-17",
       "duration_ms": 193171,
       "name": "Revolver",
       "url": "https://open.spotify.com/track/39KkGrkTwD0MIZAnWr9AkY"
@@ -5197,6 +5219,24 @@
     },
     {
       "album": {
+        "name": "Son Of The Forest (Edit)",
+        "url": "https://open.spotify.com/album/5iGbScYDCN4q78VgCfYCUL"
+      },
+      "artists": [
+        {
+          "name": "ST\u00dcM",
+          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
+        }
+      ],
+      "date_added": "2025-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285451,
+      "name": "Son Of The Forest - Edit",
+      "url": "https://open.spotify.com/track/7dXItXQY2FI0iBiNThn3oX"
+    },
+    {
+      "album": {
         "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
         "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
       },
@@ -5632,7 +5672,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-17",
       "duration_ms": 194211,
       "name": "TEMPO",
       "url": "https://open.spotify.com/track/6onDQO5YoJX83RzAV2m0wN"
@@ -6168,6 +6208,32 @@
       "duration_ms": 177689,
       "name": "Where Did You Go? (feat. MNEK)",
       "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
+    },
+    {
+      "album": {
+        "name": "Where I'm From",
+        "url": "https://open.spotify.com/album/71N6oT6Vtqs5xjn9b1xxYK"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        },
+        {
+          "name": "Belladonna (ofc) ",
+          "url": "https://open.spotify.com/artist/1ECGFhfV6SJLbKnTvBFsaQ"
+        }
+      ],
+      "date_added": "2025-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Where I'm From",
+      "url": "https://open.spotify.com/track/0JFNTfRWLqQ09z9ZHldX8d"
     },
     {
       "album": {

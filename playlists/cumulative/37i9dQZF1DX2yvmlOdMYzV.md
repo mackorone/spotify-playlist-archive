@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-909 songs - 2 day 1 hr 18 min
+910 songs - 2 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,7 @@
 | [Groove](https://open.spotify.com/track/6xWUhj2AAHajZVR7cgFPYG) | [vsteeze](https://open.spotify.com/artist/0giuLyNE6DPql79i42Jpfl), [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5), [PF Elle](https://open.spotify.com/artist/71rYqm8AUyvuzUguU3yaBR) | [Groove](https://open.spotify.com/album/6afCdV55pGn89LiZkplhGY) | 2:57 | 2022-11-09 | 2023-02-13 |
 | [Guilty Conscience \- Tame Impala Remix](https://open.spotify.com/track/4nNkCxutxk68CulzSBy0Tq) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Guilty Conscience \(Tame Impala Remix\)](https://open.spotify.com/album/01vW1gstMnLr5gWd03tlC5) | 3:34 | 2021-12-15 | 2022-04-07 |
 | [GUY](https://open.spotify.com/track/4dnB3shgvzcG4qa2xY9SrI) | [Silas Short](https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ) | [GUY](https://open.spotify.com/album/6VGCdn6ROODtrypCowixlT) | 3:53 | 2025-03-07 |  |
-| [H2L](https://open.spotify.com/track/4JsBp3ThdeJQ6SNdtLO1yw) | [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [H2L](https://open.spotify.com/album/410DaQe7k4IzCAyOffL6eG) | 3:47 | 2025-02-14 |  |
+| [H2L](https://open.spotify.com/track/4JsBp3ThdeJQ6SNdtLO1yw) | [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [H2L](https://open.spotify.com/album/410DaQe7k4IzCAyOffL6eG) | 3:47 | 2025-02-14 | 2025-03-17 |
 | [Hahaha \(feat\. KIRBY\)](https://open.spotify.com/track/0fDAR8dn2U6a4TXxS1NuKJ) | [Ni'jah](https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Swarm](https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX) | 1:53 | 2023-03-17 | 2023-08-26 |
 | [HANGING WITH YOU](https://open.spotify.com/track/2Fj4zjw9tV9NY1wWq0bAKN) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [HANGING WITH YOU](https://open.spotify.com/album/5HDraXX5eNcpYzNcyVyykH) | 3:50 | 2023-07-14 |  |
 | [Hard Work](https://open.spotify.com/track/4CuNDg0YWkNiSg0DZaAKuV) | [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [Travel Light](https://open.spotify.com/album/6DO84f1dP8CzkriP1C0U0Y) | 3:27 | 2022-02-11 | 2023-09-30 |
@@ -877,6 +877,7 @@
 | [what do ya miss?](https://open.spotify.com/track/6TMhaUV5u3LIHzcTGSpEom) | [Matt Storm](https://open.spotify.com/artist/5dWiBOsD2jLvYWUSR9XdaZ) | [what do ya miss?](https://open.spotify.com/album/1jeYMiSSwERFGeqQWUkKfi) | 2:39 | 2023-03-31 | 2024-06-16 |
 | [What Speaks](https://open.spotify.com/track/6ayHXjLC5FsNhOdYeEOaDN) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Moth](https://open.spotify.com/album/3QYrEoeYrBdBNrtsuoCor7) | 2:29 | 2024-06-15 | 2025-02-15 |
 | [What's Luv?](https://open.spotify.com/track/6ZVaa16xlSrloQhYPV63BW) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [What's Luv?](https://open.spotify.com/album/6C2yR407il1fwIhy3P5iPp) | 2:46 | 2024-01-12 | 2024-04-21 |
+| [When I Close My Eyes](https://open.spotify.com/track/4EkDdsHltvCs1qVsF8XKNO) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [When I Close My Eyes](https://open.spotify.com/album/02uOI0VExcmWzc3R2Y4jjT) | 3:52 | 2025-03-07 |  |
 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 | 2023-01-27 | 2023-08-12 |
 | [When It Comes Together](https://open.spotify.com/track/2izmpN7vA1Xn8I5FBLls6n) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [When It Comes Together](https://open.spotify.com/album/7IL0Qmw3AzVtUSbXa6dGic) | 3:08 | 2024-06-28 |  |
 | [When Was It Over](https://open.spotify.com/track/5G3AAgHRIuoyQyjMKawD9X) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Beautiful Pain](https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk) | 5:00 | 2024-08-30 | 2024-10-18 |

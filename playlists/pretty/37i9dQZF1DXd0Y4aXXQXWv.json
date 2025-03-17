@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui. Photo : Jean-Jacques Goldman",
-  "num_followers": 487632,
+  "num_followers": 487657,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
@@ -195,38 +195,6 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "caravane",
-        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
-      },
-      "artists": [
-        {
-          "name": "Rapha\u00ebl",
-          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
-        }
-      ],
-      "duration_ms": 206920,
-      "name": "Caravane",
-      "url": "https://open.spotify.com/track/2UXjdnCvgGGIXLrAwCVVQT"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
-        "name": "D'Eux",
-        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 254093,
-      "name": "Pour que tu m'aimes encore",
-      "url": "https://open.spotify.com/track/6qlpXtA29VcxCNgLWR5IWx"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
         "name": "Un air de rien",
         "url": "https://open.spotify.com/album/54Vo3EOEPuq4ERdzyIU4cE"
       },
@@ -243,6 +211,22 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
+        "name": "caravane",
+        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
+      },
+      "artists": [
+        {
+          "name": "Rapha\u00ebl",
+          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
+        }
+      ],
+      "duration_ms": 206920,
+      "name": "Caravane",
+      "url": "https://open.spotify.com/track/2UXjdnCvgGGIXLrAwCVVQT"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
         "name": "racine carr\u00e9e",
         "url": "https://open.spotify.com/album/6uyslsVGFsHKzdGUosFwBM"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 213933,
       "name": "Formidable",
       "url": "https://open.spotify.com/track/2AMysGXOe0zzZJMtH3Nizb"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 254093,
+      "name": "Pour que tu m'aimes encore",
+      "url": "https://open.spotify.com/track/6qlpXtA29VcxCNgLWR5IWx"
     },
     {
       "added_at": "2024-10-21 08:32:27",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "Tout pour la musique (Remasteris\u00e9 en 2004)",
-        "url": "https://open.spotify.com/album/0IePUOxaLDrCmaB6r7JyVl"
-      },
-      "artists": [
-        {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
-        }
-      ],
-      "duration_ms": 274626,
-      "name": "R\u00e9siste - Remasteris\u00e9 en 2004",
-      "url": "https://open.spotify.com/track/51BbACodhBnd9lBs2TI0YT"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
         "name": "Seul",
         "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 211293,
       "name": "Sous le vent",
       "url": "https://open.spotify.com/track/6VZB0ttlqGjpGMAcaomXh9"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
+        "name": "Tout pour la musique (Remasteris\u00e9 en 2004)",
+        "url": "https://open.spotify.com/album/0IePUOxaLDrCmaB6r7JyVl"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 274626,
+      "name": "R\u00e9siste - Remasteris\u00e9 en 2004",
+      "url": "https://open.spotify.com/track/51BbACodhBnd9lBs2TI0YT"
     },
     {
       "added_at": "2024-10-21 08:32:27",
@@ -631,30 +631,6 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "Chambre 12",
-        "url": "https://open.spotify.com/album/3Es3rIJujUaxh8HrPZwgmr"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        },
-        {
-          "name": "Jean-Philippe Massicot",
-          "url": "https://open.spotify.com/artist/5R6fqkq8FNNE0kevuUUxoz"
-        },
-        {
-          "name": "Tristan Salvati",
-          "url": "https://open.spotify.com/artist/3pHPYLcX7bnOWcMpyBch1D"
-        }
-      ],
-      "duration_ms": 185280,
-      "name": "Avenir - Radio Edit",
-      "url": "https://open.spotify.com/track/7culxZiBjN3w3yXqxgKIpD"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
         "name": "Claudio Cap\u00e9o (Version deluxe)",
         "url": "https://open.spotify.com/album/4Og72Rk9pjJ1OULtNaBcA1"
       },
@@ -691,6 +667,22 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
+        "name": "Toi + Moi",
+        "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
+      },
+      "artists": [
+        {
+          "name": "Gr\u00e9goire",
+          "url": "https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Toi + Moi",
+      "url": "https://open.spotify.com/track/1cl6UxttwMTjJXsdyMDUde"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
         "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
         "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
       },
@@ -707,18 +699,26 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "Toi + Moi",
-        "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
+        "name": "Chambre 12",
+        "url": "https://open.spotify.com/album/3Es3rIJujUaxh8HrPZwgmr"
       },
       "artists": [
         {
-          "name": "Gr\u00e9goire",
-          "url": "https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E"
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        },
+        {
+          "name": "Jean-Philippe Massicot",
+          "url": "https://open.spotify.com/artist/5R6fqkq8FNNE0kevuUUxoz"
+        },
+        {
+          "name": "Tristan Salvati",
+          "url": "https://open.spotify.com/artist/3pHPYLcX7bnOWcMpyBch1D"
         }
       ],
-      "duration_ms": 182800,
-      "name": "Toi + Moi",
-      "url": "https://open.spotify.com/track/1cl6UxttwMTjJXsdyMDUde"
+      "duration_ms": 185280,
+      "name": "Avenir - Radio Edit",
+      "url": "https://open.spotify.com/track/7culxZiBjN3w3yXqxgKIpD"
     },
     {
       "added_at": "2024-10-21 08:32:27",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
+        "name": "Cure",
+        "url": "https://open.spotify.com/album/0B7trrXpu1IShSqzJfB2Tw"
+      },
+      "artists": [
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/1EIhcoMZ3See5L28kNvuFe"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
         "name": "Ceinture noire",
         "url": "https://open.spotify.com/album/019J7AS3BBfPXy8rV3ZTJO"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 199040,
       "name": "La m\u00eame",
       "url": "https://open.spotify.com/track/3sjqktglX8F6EWvjUmHe0y"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
-        "name": "Cure",
-        "url": "https://open.spotify.com/album/0B7trrXpu1IShSqzJfB2Tw"
-      },
-      "artists": [
-        {
-          "name": "Eddy de Pretto",
-          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Kid",
-      "url": "https://open.spotify.com/track/1EIhcoMZ3See5L28kNvuFe"
     },
     {
       "added_at": "2024-10-21 08:32:27",

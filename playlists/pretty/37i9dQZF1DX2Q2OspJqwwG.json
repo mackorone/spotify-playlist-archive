@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 32720,
+  "num_followers": 32731,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-03-10 21:22:51",
       "album": {
-        "name": "AFTERCARE",
-        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 149440,
-      "name": "P*RNSTAR",
-      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
-    },
-    {
-      "added_at": "2025-03-10 21:22:51",
-      "album": {
         "name": "Embrace It",
         "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 104418,
       "name": "Embrace It",
       "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
+    },
+    {
+      "added_at": "2025-03-10 21:22:51",
+      "album": {
+        "name": "AFTERCARE",
+        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 149440,
+      "name": "P*RNSTAR",
+      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
     },
     {
       "added_at": "2025-03-10 21:22:51",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-03-10 21:22:51",
       "album": {
-        "name": "A Great Chaos (Deluxe)",
-        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 184375,
-      "name": "ss",
-      "url": "https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq"
-    },
-    {
-      "added_at": "2025-03-10 21:22:51",
-      "album": {
         "name": "Colores",
         "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 205933,
       "name": "Azul",
       "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
+    },
+    {
+      "added_at": "2025-03-10 21:22:51",
+      "album": {
+        "name": "A Great Chaos (Deluxe)",
+        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 184375,
+      "name": "ss",
+      "url": "https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq"
     },
     {
       "added_at": "2025-03-10 21:22:51",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2025-03-10 21:22:51",
       "album": {
-        "name": "HER",
-        "url": "https://open.spotify.com/album/3sbZ4PoHTIZL8bLSLwt84h"
+        "name": "Espresso Macchiato",
+        "url": "https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns"
       },
       "artists": [
         {
-          "name": "MINNIE",
-          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+          "name": "Tommy Cash",
+          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
         }
       ],
-      "duration_ms": 203464,
-      "name": "Blind Eyes Red",
-      "url": "https://open.spotify.com/track/0pk1V5jL0WcW8a2ZsrsEDl"
+      "duration_ms": 173746,
+      "name": "Espresso Macchiato",
+      "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
     },
     {
       "added_at": "2025-03-10 21:22:51",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2025-03-10 21:22:51",
       "album": {
-        "name": "Espresso Macchiato",
-        "url": "https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns"
+        "name": "HER",
+        "url": "https://open.spotify.com/album/3sbZ4PoHTIZL8bLSLwt84h"
       },
       "artists": [
         {
-          "name": "Tommy Cash",
-          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
         }
       ],
-      "duration_ms": 173746,
-      "name": "Espresso Macchiato",
-      "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
+      "duration_ms": 203464,
+      "name": "Blind Eyes Red",
+      "url": "https://open.spotify.com/track/0pk1V5jL0WcW8a2ZsrsEDl"
     },
     {
       "added_at": "2025-03-10 21:22:51",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2025-03-10 21:22:51",
       "album": {
+        "name": "Hai sa ne iubim ca nemtii",
+        "url": "https://open.spotify.com/album/2VfTTanjjQHbgRgF4Gften"
+      },
+      "artists": [
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        }
+      ],
+      "duration_ms": 150239,
+      "name": "Hai sa ne iubim ca nemtii",
+      "url": "https://open.spotify.com/track/2yUZv6utvoeV0B79YSn7pq"
+    },
+    {
+      "added_at": "2025-03-10 21:22:51",
+      "album": {
         "name": "Merhaba (Stil Turcesc)",
         "url": "https://open.spotify.com/album/184PJI3t6mfGCFlZ2h6Lbm"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 160450,
       "name": "P\u0103i naa",
       "url": "https://open.spotify.com/track/3BAZCKKEbilNdQgTSLBca9"
-    },
-    {
-      "added_at": "2025-03-10 21:22:51",
-      "album": {
-        "name": "Hai sa ne iubim ca nemtii",
-        "url": "https://open.spotify.com/album/2VfTTanjjQHbgRgF4Gften"
-      },
-      "artists": [
-        {
-          "name": "Dani Mocanu",
-          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
-        }
-      ],
-      "duration_ms": 150239,
-      "name": "Hai sa ne iubim ca nemtii",
-      "url": "https://open.spotify.com/track/2yUZv6utvoeV0B79YSn7pq"
     },
     {
       "added_at": "2025-03-10 21:22:51",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2025-03-10 21:22:51",
       "album": {
+        "name": "Spania",
+        "url": "https://open.spotify.com/album/6of64Cn0GSvyv3lxXMNIzc"
+      },
+      "artists": [
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        }
+      ],
+      "duration_ms": 159194,
+      "name": "Spania",
+      "url": "https://open.spotify.com/track/6YnNRZZH53YVue4gpk7jYQ"
+    },
+    {
+      "added_at": "2025-03-10 21:22:51",
+      "album": {
         "name": "Turbo Orange",
         "url": "https://open.spotify.com/album/4lF62RW4E2we6rlMq7KjGD"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 167203,
       "name": "E Adev\u0103rat",
       "url": "https://open.spotify.com/track/6PxNbn9eM5SIDTBBZfG9PX"
-    },
-    {
-      "added_at": "2025-03-10 21:22:51",
-      "album": {
-        "name": "Spania",
-        "url": "https://open.spotify.com/album/6of64Cn0GSvyv3lxXMNIzc"
-      },
-      "artists": [
-        {
-          "name": "Dani Mocanu",
-          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
-        }
-      ],
-      "duration_ms": 159194,
-      "name": "Spania",
-      "url": "https://open.spotify.com/track/6YnNRZZH53YVue4gpk7jYQ"
     },
     {
       "added_at": "2025-03-10 21:22:51",
@@ -1675,30 +1675,6 @@
     {
       "added_at": "2025-03-10 21:22:51",
       "album": {
-        "name": "How You Samba",
-        "url": "https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ"
-      },
-      "artists": [
-        {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Tinie Tempah",
-          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
-        }
-      ],
-      "duration_ms": 151680,
-      "name": "How You Samba",
-      "url": "https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1"
-    },
-    {
-      "added_at": "2025-03-10 21:22:51",
-      "album": {
         "name": "Eee Aaa | Burj Khalifa",
         "url": "https://open.spotify.com/album/2VU7IC0UMSavJkd7mbpr7P"
       },
@@ -1719,18 +1695,26 @@
     {
       "added_at": "2025-03-10 21:22:51",
       "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/0bkQHkezQPiBWDJRdB7Tys"
+        "name": "How You Samba",
+        "url": "https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ"
       },
       "artists": [
         {
-          "name": "Gya",
-          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
         }
       ],
-      "duration_ms": 145714,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/0MrBR6EVORoHjexRl6OJRP"
+      "duration_ms": 151680,
+      "name": "How You Samba",
+      "url": "https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1"
     },
     {
       "added_at": "2025-03-10 21:22:51",
@@ -1759,6 +1743,38 @@
     {
       "added_at": "2025-03-10 21:22:51",
       "album": {
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/0bkQHkezQPiBWDJRdB7Tys"
+      },
+      "artists": [
+        {
+          "name": "Gya",
+          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/0MrBR6EVORoHjexRl6OJRP"
+    },
+    {
+      "added_at": "2025-03-10 21:22:51",
+      "album": {
+        "name": "Inimi",
+        "url": "https://open.spotify.com/album/4UVwC4Wj5xcrblIEe4UqVH"
+      },
+      "artists": [
+        {
+          "name": "Andia",
+          "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
+        }
+      ],
+      "duration_ms": 176756,
+      "name": "Inimi",
+      "url": "https://open.spotify.com/track/1yqHs2M4rSgRzJ57ZWazpB"
+    },
+    {
+      "added_at": "2025-03-10 21:22:51",
+      "album": {
         "name": "Au!",
         "url": "https://open.spotify.com/album/39U4b5Y4sQKxLlCvMGzJR8"
       },
@@ -1779,38 +1795,18 @@
     {
       "added_at": "2025-03-10 21:22:51",
       "album": {
-        "name": "Amo, Amo",
-        "url": "https://open.spotify.com/album/0XyqaA2Aox5hnUJ6UlJTIh"
+        "name": "Maria, Maria",
+        "url": "https://open.spotify.com/album/2WXwrDnPKMh6DbB1ICbCGE"
       },
       "artists": [
         {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
-        },
-        {
-          "name": "Ministerul Manelelor",
-          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+          "name": "Lidia Buble",
+          "url": "https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH"
         }
       ],
-      "duration_ms": 147477,
-      "name": "Amo, Amo",
-      "url": "https://open.spotify.com/track/0gOjMBj92rLOX6M134LMMh"
-    },
-    {
-      "added_at": "2025-03-10 21:22:51",
-      "album": {
-        "name": "Inimi",
-        "url": "https://open.spotify.com/album/4UVwC4Wj5xcrblIEe4UqVH"
-      },
-      "artists": [
-        {
-          "name": "Andia",
-          "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
-        }
-      ],
-      "duration_ms": 176756,
-      "name": "Inimi",
-      "url": "https://open.spotify.com/track/1yqHs2M4rSgRzJ57ZWazpB"
+      "duration_ms": 160800,
+      "name": "Maria, Maria",
+      "url": "https://open.spotify.com/track/4ut3pv8Po5KNXRrfKQ39IX"
     }
   ],
   "unique_name": "Viral \u00een Rom\u00e2nia",

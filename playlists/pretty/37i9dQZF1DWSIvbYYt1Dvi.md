@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > dia 13 vc já sabe, djongador e a fome incontrolável
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,175,465 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,175,451 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 3 | [Da Onde Eu Venho](https://open.spotify.com/track/5na9M4vuGBFxIAQdD3Hg9s) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [NUME](https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm) | 2:17 |
 | 4 | [Inverno Cigano](https://open.spotify.com/track/7L2OtqVn0DAunFPEpGyf29) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Inverno Cigano](https://open.spotify.com/album/7K1BVkGH4GBm9r7avXPDM6) | 2:37 |
 | 5 | [Te Encontrar na Lapa](https://open.spotify.com/track/1rkP1QTDKqKUNkBMqauUz7) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [PATRONO](https://open.spotify.com/album/3KOm7ouLh0kOz6sJ8AdpVI) | 3:15 |
-| 6 | [Cacos De Vidro](https://open.spotify.com/track/0arxXBXzv96Q449DK1SmiX) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Kolo](https://open.spotify.com/artist/1rsA71w7RvNFRojjnFzHcG), [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Diamantes, Lágrimas e Rostos para Esquecer](https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu) | 2:29 |
+| 6 | [Cacos De Vidro \(sample: Esperar pra Ver\)](https://open.spotify.com/track/0arxXBXzv96Q449DK1SmiX) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Kolo](https://open.spotify.com/artist/1rsA71w7RvNFRojjnFzHcG), [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Diamantes, Lágrimas e Rostos para Esquecer](https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu) | 2:29 |
 | 7 | [Peita do Coringão](https://open.spotify.com/track/3efFIMPgqOhupP9mpk9DHG) | [Memphis Depay](https://open.spotify.com/artist/6vHeztszLzqchlxlfUnwAo), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h) | [Peita do Coringão](https://open.spotify.com/album/02YRoqfpEdkFNwwLpwDvmj) | 4:05 |
 | 8 | [Se Eu Pudesse](https://open.spotify.com/track/0UnVcQR3YU6DDSZ4RCiimj) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [PATRONO](https://open.spotify.com/album/3KOm7ouLh0kOz6sJ8AdpVI) | 4:11 |
 | 9 | [Rap Bom](https://open.spotify.com/track/1rAIZVMq28d5xTvbAKjHJR) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [Jackson Ganga](https://open.spotify.com/artist/2eAUt3uGVV4YJlyM9ZW161) | [Rap Bom](https://open.spotify.com/album/0Jw1xflA7TBugdF0BQZ9dQ) | 3:16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Il futuro dell'indie italiano è in questa playlist 👀 Cover: frambo
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,267 likes - 110 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,269 likes - 110 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

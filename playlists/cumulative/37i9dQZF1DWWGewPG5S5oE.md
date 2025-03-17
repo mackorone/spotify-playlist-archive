@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 山本剛
 
-395 songs - 1 day 7 hr 47 min
+396 songs - 1 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [LOST AND FOUND](https://open.spotify.com/track/6XFmI9JrepfB54inQuA5c1) | [Ryoko Moriyama](https://open.spotify.com/artist/1nw3JzV7O0FpOLcwmZ2IMP) | [LOST AND FOUND](https://open.spotify.com/album/6gAE7QWM0Ry10n1qoMrgvz) | 7:31 | 2024-12-17 | 2025-01-29 |
 | [Love Theme From Spartacus](https://open.spotify.com/track/7lhUU1b6OTUIxSYd4gmZwh) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [Sunrise](https://open.spotify.com/album/5w2YF6mrbiUiywvTW0Wgvc) | 4:22 | 2024-12-17 |  |
 | [Lucky Cookie](https://open.spotify.com/track/1Mv9PQtywsX4dzfJzgmiC2) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [Lucky Cookie](https://open.spotify.com/album/4cZqvtPsv9aEw0L8UHDTsE) | 3:52 | 2022-11-15 | 2023-02-17 |
+| [Made In New York](https://open.spotify.com/track/5e7KO7EvjJ3aSzEDGlSJEZ) | [DJ KOCO aka SHIMOKITA](https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR), [45trio](https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs), [King TJ](https://open.spotify.com/artist/6DMTo31eFZKRL4uF5BYGVT) | [Made In New York](https://open.spotify.com/album/6j23V92RmuD9h6SbZeXULT) | 3:33 | 2025-03-11 |  |
 | [MASKS](https://open.spotify.com/track/0BbwksR9DdhuG1DbEbtiaA) | [Banksia Trio](https://open.spotify.com/artist/3xEsdwaU685TDQp5p02Q4L), [須川崇志バンクシアトリオ](https://open.spotify.com/artist/1FKyKFEwsa7NXshFJKKkc9), [須川 崇志](https://open.spotify.com/artist/7257spgBvb4Lfl74wregRN), [林正樹](https://open.spotify.com/artist/406asAfsZHb4zHPlw2wYq7), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [MASKS](https://open.spotify.com/album/28UHrz5XOC5YDE7VXq6ggu) | 5:16 | 2023-08-22 | 2023-09-13 |
 | [MASQUERADE!](https://open.spotify.com/track/7COeUxxiLP2GqTIzOvCZhK) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [MASQUERADE!](https://open.spotify.com/album/4Z7AfRdyvxpPPH837iTaXS) | 3:48 | 2022-09-06 | 2022-10-05 |
 | [Master Blaster \(Jammin'\)](https://open.spotify.com/track/79o3fOmpXxhcxMa7mikdhW) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [Life / Master Blaster \(Jammin'\)](https://open.spotify.com/album/3KJOzHhk0troKxezPhNDuf) | 4:36 | 2024-08-06 | 2024-09-18 |
@@ -241,7 +242,7 @@
 | [REMEDY](https://open.spotify.com/track/7zIf3lvb2jqsyRWPX5IO4A) | [otoshik](https://open.spotify.com/artist/1L8gpoL5UFZvoQXkda0uXu) | [REMEDY](https://open.spotify.com/album/0o0mNGUywrcMgBGzmxAXd5) | 5:52 | 2025-01-21 | 2025-03-13 |
 | [resketch](https://open.spotify.com/track/08TJVPBVXL871ukrtwfIs5) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [resketch](https://open.spotify.com/album/6wLcbgKD8OFqSqFieK4Guf) | 3:43 | 2023-06-13 | 2023-08-02 |
 | [Retro Back Summer Action](https://open.spotify.com/track/6AKBzcm7FhGSBWGloW8PIr) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Retro Back Summer Action](https://open.spotify.com/album/2T7ZXlKJvux74171KivHr2) | 4:18 | 2023-07-04 | 2023-08-24 |
-| [Rhapsody in Summer](https://open.spotify.com/track/23qk2CJ5m5Qw4X5xWAC3E6) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [Rhapsody in Summer](https://open.spotify.com/album/0yBpvv6qLzwKglmzNs8iPw) | 4:18 | 2023-06-27 |  |
+| [Rhapsody in Summer](https://open.spotify.com/track/23qk2CJ5m5Qw4X5xWAC3E6) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [Rhapsody in Summer](https://open.spotify.com/album/0yBpvv6qLzwKglmzNs8iPw) | 4:18 | 2023-06-27 | 2025-03-17 |
 | [Rhapsody in Summer](https://open.spotify.com/track/6fAbEe45pqlP4p99UULOyS) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [Rhapsody in Summer](https://open.spotify.com/album/2niNBQtovVrAXXS4hixZhU) | 4:18 | 2023-06-27 | 2023-10-18 |
 | [Run&Gun](https://open.spotify.com/track/0BouwM0LLXksQIeoNxHUbr) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Run&Gun](https://open.spotify.com/album/3iHVZqJeO5pzwTK00S8tTT) | 3:00 | 2022-12-20 | 2023-01-18 |
 | [S.K.O.](https://open.spotify.com/track/0aT0RypXmcyq56WDJ50nTh) | [4Aces](https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL) | [4Aces](https://open.spotify.com/album/5Oo8yuKWgsWDufeEiolwSN) | 5:26 | 2023-04-25 | 2024-02-07 |

@@ -251,6 +251,24 @@
     },
     {
       "album": {
+        "name": "Elvis Presley",
+        "url": "https://open.spotify.com/album/7GXP5OhYyPVLmcVfO9Iqin"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2025-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162213,
+      "name": "Blue Moon - Take 9/M",
+      "url": "https://open.spotify.com/track/6VqCe4PcokSekHPJQaDx0B"
+    },
+    {
+      "album": {
         "name": "Busy Body",
         "url": "https://open.spotify.com/album/5Ql0BSlDT1AqZTZEzA8o3a"
       },
@@ -710,7 +728,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-17",
       "duration_ms": 131866,
       "name": "Good Rockin' Tonight",
       "url": "https://open.spotify.com/track/5yZQXR98v0kvhYQ7Adn8PK"

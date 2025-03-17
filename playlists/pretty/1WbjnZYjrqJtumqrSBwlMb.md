@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,033 songs - 2 day 15 hr 27 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,034 songs - 2 day 15 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1041,5 +1041,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1031 | [Blue Velvet](https://open.spotify.com/track/6AzdnFpMk4WzVvX85uVqsx) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 4:36 |
 | 1032 | [Body](https://open.spotify.com/track/3lRh3BAgwNXBJ6tjtvc6ZF) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:30 |
 | 1033 | [Unforgivable](https://open.spotify.com/track/3iHORLQOsA5ytboS5DDFl4) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Unforgivable](https://open.spotify.com/album/14a6nZ2fG6wnCYkfBBRoc7) | 3:43 |
+| 1034 | [Want You So Bad](https://open.spotify.com/track/69Wh0ipeW1z2x78lOpsKuL) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [English Graffiti \(Expanded Edition\)](https://open.spotify.com/album/0aroGGkehVjsg8QCNDGjTK) | 4:18 |
 
-Snapshot ID: `AAAIz4PRGfdP6gFIDpENya6sy8IHxTIh`
+Snapshot ID: `AAAI0JkQE0Po3Zpcb8KnMFKreXecOnpo`

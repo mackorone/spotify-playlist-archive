@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Fedde Le Grand
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 21,213 likes - 100 songs - 5 hr 12 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 21,214 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

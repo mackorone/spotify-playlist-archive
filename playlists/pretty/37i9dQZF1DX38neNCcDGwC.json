@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 58720,
+  "num_followers": 58738,
   "original_name": "Legendary Labels: Tuff Gong",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2022-03-03 13:49:40",
       "album": {
-        "name": "Burnin' (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
-      },
-      "artists": [
-        {
-          "name": "The Wailers",
-          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
-        }
-      ],
-      "duration_ms": 253986,
-      "name": "Burnin' And Lootin'",
-      "url": "https://open.spotify.com/track/34Jqj42hsT3O3N8yihE3B6"
-    },
-    {
-      "added_at": "2022-03-03 13:49:40",
-      "album": {
         "name": "Rastaman Vibration",
         "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
       },
@@ -163,18 +147,18 @@
     {
       "added_at": "2022-03-03 13:49:40",
       "album": {
-        "name": "Love Is My Religion",
-        "url": "https://open.spotify.com/album/1k9s8OWPk1TabF8sNlcGiL"
+        "name": "Burnin' (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
       },
       "artists": [
         {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
         }
       ],
-      "duration_ms": 228506,
-      "name": "Love Is My Religion",
-      "url": "https://open.spotify.com/track/231GdLYqcsvrqRhTjnFdvO"
+      "duration_ms": 253986,
+      "name": "Burnin' And Lootin'",
+      "url": "https://open.spotify.com/track/34Jqj42hsT3O3N8yihE3B6"
     },
     {
       "added_at": "2022-03-03 13:49:40",
@@ -207,6 +191,22 @@
       "duration_ms": 225480,
       "name": "Rastaman Chant",
       "url": "https://open.spotify.com/track/1WujDB3odQoKJYJNvhgEGL"
+    },
+    {
+      "added_at": "2022-03-03 13:49:40",
+      "album": {
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/1k9s8OWPk1TabF8sNlcGiL"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 228506,
+      "name": "Love Is My Religion",
+      "url": "https://open.spotify.com/track/231GdLYqcsvrqRhTjnFdvO"
     },
     {
       "added_at": "2022-03-03 13:49:40",

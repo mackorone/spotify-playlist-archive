@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX87WMoVNV42z.md) - [plain]
 
 > Two brothers trying to make it as dancers open their own club, but their artistic drive soon clashes with the business, threatening their relationship\. Watch Dance Brothers Now On Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175 likes - 36 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 174 likes - 36 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

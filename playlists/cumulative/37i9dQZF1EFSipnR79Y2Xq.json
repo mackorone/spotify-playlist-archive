@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "EL PROFESOR",
+        "url": "https://open.spotify.com/album/7D4tzXeK5a2ITIXmSUdPL8"
+      },
+      "artists": [
+        {
+          "name": "Esencia Noble",
+          "url": "https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr"
+        }
+      ],
+      "date_added": "2025-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194246,
+      "name": "EL PROFESOR",
+      "url": "https://open.spotify.com/track/0hWudpmS1MdReXWrNKZXGb"
+    },
+    {
+      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
       },

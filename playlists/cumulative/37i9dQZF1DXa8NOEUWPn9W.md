@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring Azzecca & Cole Knight
 
-1,109 songs - 2 day 16 hr 50 min
+1,110 songs - 2 day 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [Complicated \(with Fridayy\)](https://open.spotify.com/track/59AY7LaU5NR62aJNqtYSyJ) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Complicated \(with Fridayy\)](https://open.spotify.com/album/5Bp70oIMy6xDdm1GRjSxU3) | 4:30 | 2024-08-16 | 2024-12-14 |
 | [Conga Rock](https://open.spotify.com/track/28nynuyo2jMTzMyT146Bvu) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mat.Joe](https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ), [Toto Bona Lokua](https://open.spotify.com/artist/5y4XN2SJVH1eWbXhRS7lbK) | [Conga Rock](https://open.spotify.com/album/3rnrgH0bOWn4nQDF8EuKu5) | 4:30 | 2021-03-27\* | 2021-08-28 |
 | [Conspiracy](https://open.spotify.com/track/6onf7sfOexU1s9F8733kJy) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [Conspiracy](https://open.spotify.com/album/4DqTnfnTAxjnoAAG7aUscH) | 6:13 | 2021-03-27\* | 2021-05-03 |
-| [Control Yourself \- Radio Edit](https://open.spotify.com/track/49cvev2GTehnDkEGXYgcZ0) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Control Yourself EP](https://open.spotify.com/album/6tznRqtsPQgYo8YXYB5g19) | 3:35 | 2025-02-28 |  |
+| [Control Yourself \- Radio Edit](https://open.spotify.com/track/49cvev2GTehnDkEGXYgcZ0) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Control Yourself EP](https://open.spotify.com/album/6tznRqtsPQgYo8YXYB5g19) | 3:35 | 2025-02-28 | 2025-03-17 |
 | [Coolin](https://open.spotify.com/track/6ol2ZKZgFE7jV2rv6KsB11) | [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB) | [Coolin](https://open.spotify.com/album/67mdVbF5GykYcxqXhTHagp) | 2:35 | 2025-02-14 |  |
 | [CORAÇAO \- 20th Anniversary Mix](https://open.spotify.com/track/2KVAO2OAH6a9Tr2DqYL65g) | [Jerry Ropero](https://open.spotify.com/artist/73rKG9PlOR46yTmu2IqnSG), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Mijangos](https://open.spotify.com/artist/55Y97uxwaGhvalkzZbxyzf), [Jesús Fernández](https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum) | [CORAÇAO \(20th Anniversary Mix\)](https://open.spotify.com/album/76jQdtc4MNArbcZxWgZU3p) | 2:55 | 2024-08-23 |  |
 | [Cosmic Witch \(feat\. Anané\) \- Todd Terry Remix](https://open.spotify.com/track/7astMho5kK4qRN4uBywtWJ) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [Anane](https://open.spotify.com/artist/3cGghqrVTd3niWn9olcGYS), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Cosmic Witch \(feat\. Anané\) \[Todd Terry Remix\]](https://open.spotify.com/album/5dhJFz3gS57KjqKanFWlRV) | 6:17 | 2022-12-28 | 2023-01-06 |
@@ -923,6 +923,7 @@
 | [Sun Showers](https://open.spotify.com/track/5xbCwWdi2a6qa7zOFc7Ej6) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 4:34 | 2023-07-14 | 2023-09-30 |
 | [Sunday Best](https://open.spotify.com/track/0oUnCHrsjhjclb9owm741n) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Sunday Best](https://open.spotify.com/album/41i9jjaqgHvTJJjJRUiRTe) | 2:51 | 2025-02-07 |  |
 | [Sunshine \(My Girl\)](https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Sunshine \(My Girl\)](https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As) | 2:11 | 2023-09-01 | 2024-11-09 |
+| [Sunshine 2025](https://open.spotify.com/track/5uTjgnvttrNUfVFETRJ8TP) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Tomaz](https://open.spotify.com/artist/3GXiP6aI7feec8YTvLJfwf), [Filterheadz](https://open.spotify.com/artist/6XqUjMGrl5jFwwyQ6hheit) | [Sunshine 2025](https://open.spotify.com/album/6EOLwD4dOgXcZ3G4QpYwtC) | 3:38 | 2025-03-14 |  |
 | [Supersonic](https://open.spotify.com/track/7qzNN86nlI4YaslP5lZVb0) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Alex Now \(ES\)](https://open.spotify.com/artist/4eQ3wWnuaLwgtCzcAsgWZf) | [Supersonic](https://open.spotify.com/album/0EeLq0QPw6ogMvv4HZZGkB) | 2:17 | 2024-12-13 | 2025-02-23 |
 | [Supersonic](https://open.spotify.com/track/0vxf8HSKtY4xsbIzYUv9Fa) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO), [Jimmy James](https://open.spotify.com/artist/7et8xRIk2umQqXw4r8FAmU) | [Supersonic](https://open.spotify.com/album/6W85SVxebgvNsrB7HdUmFv) | 3:08 | 2024-09-06 | 2024-12-17 |
 | [Survival Mode](https://open.spotify.com/track/5NkuFcVjBnrZU6JKSAU546) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Night Creature](https://open.spotify.com/album/2jye5HOLZkOmO2p97B3fgU) | 3:31 | 2021-09-07 | 2022-04-20 |

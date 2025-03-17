@@ -1,6 +1,6 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 204253,
+  "num_followers": 204304,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2025-01-27 11:17:29",
       "album": {
+        "name": "Bi Saraha",
+        "url": "https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E"
+      },
+      "artists": [
+        {
+          "name": "Abeer Nehme",
+          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "Bala Ma Nhess",
+      "url": "https://open.spotify.com/track/5bQBkD9DriF3J4zSP45Wwx"
+    },
+    {
+      "added_at": "2025-01-27 11:17:29",
+      "album": {
         "name": "Rawaeaa Abd El Halim 5",
         "url": "https://open.spotify.com/album/2Dx9s3ceWiu7go3xMkdAs3"
       },
@@ -163,22 +179,6 @@
     {
       "added_at": "2025-01-27 11:17:29",
       "album": {
-        "name": "Bi Saraha",
-        "url": "https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E"
-      },
-      "artists": [
-        {
-          "name": "Abeer Nehme",
-          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "Bala Ma Nhess",
-      "url": "https://open.spotify.com/track/5bQBkD9DriF3J4zSP45Wwx"
-    },
-    {
-      "added_at": "2025-01-27 11:17:29",
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/2fJ49tfoV8bE0XEQ7eQXq3"
       },
@@ -191,22 +191,6 @@
       "duration_ms": 241506,
       "name": "Lamma Bada Yatathana",
       "url": "https://open.spotify.com/track/3BhgD8Kun1fXSW1KYTfnEO"
-    },
-    {
-      "added_at": "2025-01-27 11:17:29",
-      "album": {
-        "name": "Tekitoi?",
-        "url": "https://open.spotify.com/album/1uxmHOG4H7ZiXd6lhXnytU"
-      },
-      "artists": [
-        {
-          "name": "Rachid Taha",
-          "url": "https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV"
-        }
-      ],
-      "duration_ms": 373106,
-      "name": "Ya Rayah",
-      "url": "https://open.spotify.com/track/7ogJ1jO41fzk8iwlyxNZoK"
     },
     {
       "added_at": "2025-01-27 11:17:29",
@@ -227,6 +211,22 @@
       "duration_ms": 257656,
       "name": "Nefsy Ahbek",
       "url": "https://open.spotify.com/track/7yZc2gKENILqeJWofabYNF"
+    },
+    {
+      "added_at": "2025-01-27 11:17:29",
+      "album": {
+        "name": "Tekitoi?",
+        "url": "https://open.spotify.com/album/1uxmHOG4H7ZiXd6lhXnytU"
+      },
+      "artists": [
+        {
+          "name": "Rachid Taha",
+          "url": "https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV"
+        }
+      ],
+      "duration_ms": 373106,
+      "name": "Ya Rayah",
+      "url": "https://open.spotify.com/track/7ogJ1jO41fzk8iwlyxNZoK"
     },
     {
       "added_at": "2025-01-27 11:17:29",
@@ -391,6 +391,22 @@
     {
       "added_at": "2025-01-27 11:17:29",
       "album": {
+        "name": "El Makina",
+        "url": "https://open.spotify.com/album/2EIhDyhOzFspLD2nSj79XK"
+      },
+      "artists": [
+        {
+          "name": "Jadal",
+          "url": "https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f"
+        }
+      ],
+      "duration_ms": 260243,
+      "name": "Ana Bakhaf Min El Commitment",
+      "url": "https://open.spotify.com/track/5DJLUHviIEbqG1uXaoNzaq"
+    },
+    {
+      "added_at": "2025-01-27 11:17:29",
+      "album": {
         "name": "Mabidichay",
         "url": "https://open.spotify.com/album/1U9xlybG0rp68MxjwZTK2w"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 186897,
       "name": "Al Bint El Chalabeya",
       "url": "https://open.spotify.com/track/2OxygAH92guaY9kliJboul"
-    },
-    {
-      "added_at": "2025-01-27 11:17:29",
-      "album": {
-        "name": "El Makina",
-        "url": "https://open.spotify.com/album/2EIhDyhOzFspLD2nSj79XK"
-      },
-      "artists": [
-        {
-          "name": "Jadal",
-          "url": "https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f"
-        }
-      ],
-      "duration_ms": 260243,
-      "name": "Ana Bakhaf Min El Commitment",
-      "url": "https://open.spotify.com/track/5DJLUHviIEbqG1uXaoNzaq"
     },
     {
       "added_at": "2025-01-27 11:17:29",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-01-27 11:17:29",
       "album": {
-        "name": "Fi hagat (I love you)",
-        "url": "https://open.spotify.com/album/1oulttaZFG9C95Sv0DkhZS"
-      },
-      "artists": [
-        {
-          "name": "JOHANNA MORKOS",
-          "url": "https://open.spotify.com/artist/3FH2g6XjDpSbPJaiNmto22"
-        }
-      ],
-      "duration_ms": 167624,
-      "name": "Fi hagat (I love you)",
-      "url": "https://open.spotify.com/track/6N2WLWIbo7LO6GdMrBlJAe"
-    },
-    {
-      "added_at": "2025-01-27 11:17:29",
-      "album": {
         "name": "Ana Moush Kafer",
         "url": "https://open.spotify.com/album/4A3pPnIVNk84KqJODnLu7N"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 346800,
       "name": "Shou Hal Ayyam - 2008 Remastered",
       "url": "https://open.spotify.com/track/2zteUlFWPX7r4ttv20aOK4"
+    },
+    {
+      "added_at": "2025-01-27 11:17:29",
+      "album": {
+        "name": "Fi hagat (I love you)",
+        "url": "https://open.spotify.com/album/1oulttaZFG9C95Sv0DkhZS"
+      },
+      "artists": [
+        {
+          "name": "JOHANNA MORKOS",
+          "url": "https://open.spotify.com/artist/3FH2g6XjDpSbPJaiNmto22"
+        }
+      ],
+      "duration_ms": 167624,
+      "name": "Fi hagat (I love you)",
+      "url": "https://open.spotify.com/track/6N2WLWIbo7LO6GdMrBlJAe"
     },
     {
       "added_at": "2025-01-27 11:17:29",
@@ -915,26 +915,6 @@
     {
       "added_at": "2025-01-27 11:17:29",
       "album": {
-        "name": "Ya Zalamez",
-        "url": "https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo"
-      },
-      "artists": [
-        {
-          "name": "Apo & the Apostles",
-          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
-        },
-        {
-          "name": "Norah Shaqur",
-          "url": "https://open.spotify.com/artist/357LwT1uF798pX9P418HhS"
-        }
-      ],
-      "duration_ms": 233215,
-      "name": "Albi",
-      "url": "https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk"
-    },
-    {
-      "added_at": "2025-01-27 11:17:29",
-      "album": {
         "name": "R.I.M.I.X",
         "url": "https://open.spotify.com/album/2OVAzbPUeWOdrmcZ9Lr0Fc"
       },
@@ -959,18 +939,22 @@
     {
       "added_at": "2025-01-27 11:17:29",
       "album": {
-        "name": "A Time to Cry - a Lament over Jerusalem",
-        "url": "https://open.spotify.com/album/5Q1IFJcO2UoccuVQkIukc8"
+        "name": "Ya Zalamez",
+        "url": "https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo"
       },
       "artists": [
         {
-          "name": "Nai Barghouti",
-          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+          "name": "Apo & the Apostles",
+          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
+        },
+        {
+          "name": "Norah Shaqur",
+          "url": "https://open.spotify.com/artist/357LwT1uF798pX9P418HhS"
         }
       ],
-      "duration_ms": 208626,
-      "name": "Mum, Sing to the Wind",
-      "url": "https://open.spotify.com/track/6DdxuWERjRsWofoIuZJiwA"
+      "duration_ms": 233215,
+      "name": "Albi",
+      "url": "https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk"
     },
     {
       "added_at": "2025-01-27 11:17:29",
@@ -987,6 +971,22 @@
       "duration_ms": 137058,
       "name": "Halalalalaya",
       "url": "https://open.spotify.com/track/0bNJjUrO1ng64TlBzqfq1c"
+    },
+    {
+      "added_at": "2025-01-27 11:17:29",
+      "album": {
+        "name": "A Time to Cry - a Lament over Jerusalem",
+        "url": "https://open.spotify.com/album/5Q1IFJcO2UoccuVQkIukc8"
+      },
+      "artists": [
+        {
+          "name": "Nai Barghouti",
+          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+        }
+      ],
+      "duration_ms": 208626,
+      "name": "Mum, Sing to the Wind",
+      "url": "https://open.spotify.com/track/6DdxuWERjRsWofoIuZJiwA"
     },
     {
       "added_at": "2025-01-27 11:17:29",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-01-27 11:17:29",
       "album": {
-        "name": "Rawquha",
-        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
-      },
-      "artists": [
-        {
-          "name": "Apo & the Apostles",
-          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
-        }
-      ],
-      "duration_ms": 274363,
-      "name": "Walhani",
-      "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
-    },
-    {
-      "added_at": "2025-01-27 11:17:29",
-      "album": {
         "name": "Falaytaka Tahlou",
         "url": "https://open.spotify.com/album/4fRMjvfPoNSVNkJT0E4GFm"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 236800,
       "name": "Falaytaka Tahlou",
       "url": "https://open.spotify.com/track/2QC2N9Y3qfyeqFqyizohk6"
+    },
+    {
+      "added_at": "2025-01-27 11:17:29",
+      "album": {
+        "name": "Rawquha",
+        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
+      },
+      "artists": [
+        {
+          "name": "Apo & the Apostles",
+          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
+        }
+      ],
+      "duration_ms": 274363,
+      "name": "Walhani",
+      "url": "https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr"
     },
     {
       "added_at": "2025-01-27 11:17:29",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2025-01-27 11:17:29",
       "album": {
+        "name": "Bahlam Maak",
+        "url": "https://open.spotify.com/album/6bBpBOjZMiI8aWreQXLIQS"
+      },
+      "artists": [
+        {
+          "name": "Dania",
+          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Bahlam Maak",
+      "url": "https://open.spotify.com/track/2Tswp3UzBbZ9IhLURfDoWC"
+    },
+    {
+      "added_at": "2025-01-27 11:17:29",
+      "album": {
         "name": "\u0628\u062f\u064a \u0627\u062d\u0643\u064a\u0643",
         "url": "https://open.spotify.com/album/24l1EZQGlN4iiE8qnowy0Q"
       },
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2025-01-27 11:17:29",
       "album": {
-        "name": "Bahlam Maak",
-        "url": "https://open.spotify.com/album/6bBpBOjZMiI8aWreQXLIQS"
-      },
-      "artists": [
-        {
-          "name": "Dania",
-          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Bahlam Maak",
-      "url": "https://open.spotify.com/track/2Tswp3UzBbZ9IhLURfDoWC"
-    },
-    {
-      "added_at": "2025-01-27 11:17:29",
-      "album": {
         "name": "Bshi Yom",
         "url": "https://open.spotify.com/album/5zkU8WxN7m7HbkgRusjQyN"
       },
@@ -1343,22 +1343,6 @@
       "duration_ms": 294402,
       "name": "Bshi Yom",
       "url": "https://open.spotify.com/track/11MX2DEBj06gcQZmSzIuZ5"
-    },
-    {
-      "added_at": "2025-01-27 11:17:29",
-      "album": {
-        "name": "La7za",
-        "url": "https://open.spotify.com/album/0bTeTZPnvaUfdhAXj8RTyU"
-      },
-      "artists": [
-        {
-          "name": "Ghaliaa",
-          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
-        }
-      ],
-      "duration_ms": 206850,
-      "name": "La7za",
-      "url": "https://open.spotify.com/track/4VVpPqUEwJLJgAblQVBFWG"
     },
     {
       "added_at": "2025-01-27 11:17:29",
@@ -1407,6 +1391,22 @@
       "duration_ms": 169820,
       "name": "Adaysh Kan Fe Nas - Lo-fi remix",
       "url": "https://open.spotify.com/track/0WK4yj35ILpBivFUN9Nvy1"
+    },
+    {
+      "added_at": "2025-01-27 11:17:29",
+      "album": {
+        "name": "La7za",
+        "url": "https://open.spotify.com/album/0bTeTZPnvaUfdhAXj8RTyU"
+      },
+      "artists": [
+        {
+          "name": "Ghaliaa",
+          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
+        }
+      ],
+      "duration_ms": 206850,
+      "name": "La7za",
+      "url": "https://open.spotify.com/track/4VVpPqUEwJLJgAblQVBFWG"
     },
     {
       "added_at": "2025-01-27 11:17:29",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-433 songs - 23 hr 8 min
+434 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [But in the Movie Baby](https://open.spotify.com/track/3EvZ1juNUyel0ys1NtnaHX) | [Band of Gold](https://open.spotify.com/artist/0RnvWQ8qWXI7oM3PAno7lB) | [Band of Gold](https://open.spotify.com/album/45sljXHWgtmgHtDofS0WcD) | 3:59 | 2024-07-24 |  |
 | [By Candlelight](https://open.spotify.com/track/1LTgFZwX2k1Dl0NxjSaTMx) | [Harry Groener](https://open.spotify.com/artist/6S61JShQr2Td7pyjOKFEpQ), [David Garrison](https://open.spotify.com/artist/4HtdJYR72ol9zSQJRLJWO4) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 2:48 | 2024-07-24 |  |
 | [By The Mississinewah \- From "Something For The Boys"](https://open.spotify.com/track/0wVHNEAyRaiLiCLNWqiiYs) | [Betty Garrett](https://open.spotify.com/artist/5IJwd9vokleLKDk161Z7L7) | [Composers On Broadway: Cole Porter](https://open.spotify.com/album/7EWYzx1zF8JLJ7PH2yXuK9) | 3:16 | 2024-07-24 |  |
+| [Bye Bye Love \- Original Recording Remastered](https://open.spotify.com/track/2ilqH4qO5BpS3B9keqFqDR) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Everly Brothers](https://open.spotify.com/album/5cFL3OKYGj71I8i2uQ7YGp) | 2:18 | 2025-03-16 |  |
 | [C'est Magnifique \- Remastered](https://open.spotify.com/track/6ghdeAG64RBwahVxWzj9sa) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [Movin' On Broadway](https://open.spotify.com/album/0H3fpfEvApgmSPp8qivyOQ) | 2:19 | 2024-07-24 |  |
 | [Ca, c'est l'amour](https://open.spotify.com/track/6D1MpiDPPcnwF6txs3Arm0) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Smile \(The Audio Pearls Collection\)](https://open.spotify.com/album/0xnn7tttg62ixAwEgjip57) | 2:47 | 2024-07-24 |  |
 | [Cake Walking Babies from Home](https://open.spotify.com/track/0Aw0WcbLPkl44e9lz4wRNU) | [Young Sidney Bechet](https://open.spotify.com/artist/4kbB6ZBrfZaNZqFkjmGAPF) | [Young Sidney Bechet 1923\-1925](https://open.spotify.com/album/73WPlXuZNWeDu49lSAoVke) | 2:57 | 2024-07-24 |  |
@@ -237,7 +238,7 @@
 | [Most Gentlemen Don't Like Love](https://open.spotify.com/track/6dG9l4VKGjeOYoOZWa1NTy) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [I Get A Kick Out Of You \- The Cole Porter Songbook \(Vol\. II\)](https://open.spotify.com/album/115HTh9oZl6O2qLUTLAs4F) | 3:04 | 2024-07-24 |  |
 | [Move Mr\. Man \- Mono Single](https://open.spotify.com/track/0OEDiY9jgT6rorAbVUhIGv) | [The Contours](https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1) | [Do You Love Me \(Now That I Can Dance\)](https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89) | 2:15 | 2024-07-24 |  |
 | [My Broth of a Boy](https://open.spotify.com/track/6xmyIiCSXRv6urhz8iZRJJ) | [Mimi Bessette](https://open.spotify.com/artist/3o9tzN37xxFOeTyfIP88Pz) | [Lullabies of Broadway](https://open.spotify.com/album/75VMYPwK4rAZxnEULqfdiC) | 4:03 | 2024-07-24 |  |
-| [My Love, My Life](https://open.spotify.com/track/7pSllwShynNUGZNzcvjSuo) | [Benny Andersson](https://open.spotify.com/artist/0kV0e99xlTJcLKSu8KrLyp) | [Piano](https://open.spotify.com/album/3YGh4CN0JocLK0SwvJgMWc) | 3:46 | 2024-07-24 |  |
+| [My Love, My Life](https://open.spotify.com/track/7pSllwShynNUGZNzcvjSuo) | [Benny Andersson](https://open.spotify.com/artist/0kV0e99xlTJcLKSu8KrLyp) | [Piano](https://open.spotify.com/album/3YGh4CN0JocLK0SwvJgMWc) | 3:46 | 2024-07-24 | 2025-03-17 |
 | [My Mother](https://open.spotify.com/track/4bs42ocl3euSIXy5mx0XpZ) | [IRM](https://open.spotify.com/artist/43Z4QOUSr8acZTxO49M4bQ) | [Flowers Made Of Snow](https://open.spotify.com/album/5v3J5bVnxRCpdkFhtWqqkD) | 6:28 | 2024-07-24 |  |
 | [Myra & Christine](https://open.spotify.com/track/6KlRALXSprKK5HUSdm6YFn) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:00 | 2024-07-24 |  |
 | [Never Give Anything Away \(2023 Remastered\)](https://open.spotify.com/track/53liLAg6ggj6mYhagOyNhs) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Essential Classics, Vol\. 44: Cole Porter](https://open.spotify.com/album/1EDnnWpTU7c7sKrWxd6z4w) | 3:13 | 2024-07-24 |  |

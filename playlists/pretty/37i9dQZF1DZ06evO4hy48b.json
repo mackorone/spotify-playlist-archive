@@ -1,12 +1,12 @@
 {
   "description": "This is Aitana. The essential tracks, all in one playlist.",
-  "num_followers": 206148,
+  "num_followers": 206198,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9NxgAAAAACkJrZLwfBYVe69WP3BLA3N",
+  "snapshot_id": "Z9TDAAAAAADk7TtmcFgx9g3zXnrTZFqn",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando No S\u00e9 Qui\u00e9n Soy",
-        "url": "https://open.spotify.com/album/28Et1GjQGMGNY9oQNDVkGF"
+        "name": "Likes y Cicatrices",
+        "url": "https://open.spotify.com/album/450aVb02CfLVugPpSjUlWO"
       },
       "artists": [
         {
-          "name": "Amaia",
-          "url": "https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX"
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
         },
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 168933,
-      "name": "La Canci\u00f3n Que No Quiero Cantarte",
-      "url": "https://open.spotify.com/track/5PHEToa3yWlCiagig8MFE9"
+      "duration_ms": 235160,
+      "name": "La Electricidad",
+      "url": "https://open.spotify.com/track/0E3qf8HoJc2I7637mxgXjA"
     },
     {
       "added_at": null,
@@ -575,22 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Likes y Cicatrices",
-        "url": "https://open.spotify.com/album/450aVb02CfLVugPpSjUlWO"
+        "name": "Cuando No S\u00e9 Qui\u00e9n Soy",
+        "url": "https://open.spotify.com/album/28Et1GjQGMGNY9oQNDVkGF"
       },
       "artists": [
         {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+          "name": "Amaia",
+          "url": "https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX"
         },
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 235160,
-      "name": "La Electricidad",
-      "url": "https://open.spotify.com/track/0E3qf8HoJc2I7637mxgXjA"
+      "duration_ms": 168933,
+      "name": "La Canci\u00f3n Que No Quiero Cantarte",
+      "url": "https://open.spotify.com/track/5PHEToa3yWlCiagig8MFE9"
     },
     {
       "added_at": null,
@@ -971,26 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 174433,
-      "name": "Me Quedo",
-      "url": "https://open.spotify.com/track/6Nqi1fWKYXrVXmF3RtQbSf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
         "url": "https://open.spotify.com/album/7hmFzviCSViV9Y9VJvlfYB"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 198946,
       "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
       "url": "https://open.spotify.com/track/4abn7Lc3illnEHFc9ki6x2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 174433,
+      "name": "Me Quedo",
+      "url": "https://open.spotify.com/track/6Nqi1fWKYXrVXmF3RtQbSf"
     },
     {
       "added_at": null,

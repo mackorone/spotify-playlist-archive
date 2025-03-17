@@ -4,7 +4,7 @@
 
 > 
 
-262 songs - 16 hr 38 min
+264 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Get Hyped](https://open.spotify.com/track/7dbBjMNdSuuUKAMHJVbYv0) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Get Hyped](https://open.spotify.com/album/4YNhZdyR2LwcCzvVJq3S9M) | 3:17 | 2024-11-18 |  |
 | [Get On The Floor](https://open.spotify.com/track/4pLcVoeZbGRnid7stPrsWy) | [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Get On The Floor](https://open.spotify.com/album/7ypxsAkBOezGD31T616zv4) | 2:22 | 2023-07-20 |  |
 | [Get Rockin'](https://open.spotify.com/track/6FTus3GBuyRW10VbwgtUp7) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Get Rockin'](https://open.spotify.com/album/2qKqssflCtHWY8jw63Qey6) | 3:02 | 2025-03-06 |  |
+| [Give It to Me](https://open.spotify.com/track/0hWriVrNXaLiC5TO2GFyNc) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Vintage Culture & Friends, Vol\. 6 \(Pt\. I\)](https://open.spotify.com/album/27SNkj72LB2Ir4ujwFl3NF) | 3:08 | 2025-03-16 |  |
 | [Giving Me Life](https://open.spotify.com/track/2Je7t8J1MrumV3ClyIRm9N) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Giving Me Life](https://open.spotify.com/album/4kdnp2y5xRXsv3jZXPMCnq) | 3:15 | 2024-03-08 | 2024-05-22 |
 | [Go Hard](https://open.spotify.com/track/50xAER3SrklBtW7Fe0VciT) | [Jewel Kid](https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB) | [Go Hard](https://open.spotify.com/album/4kaqg98ATagSsnzO0Pl5y0) | 2:56 | 2024-12-31 |  |
 | [Gonna Make You Sweat \(Everybody Dance Now\) \- Edit Mix](https://open.spotify.com/track/2j3kCSx9ljhPkk2tYuNVZH) | [Moreno Pezzolato](https://open.spotify.com/artist/4T7wlRMvx47eHo5z78A5tQ) | [Gonna Make You Sweat \(Everybody Dance Now\) \(Edit\)](https://open.spotify.com/album/2pslnaxRj3AB3O7Tzv2wGg) | 2:38 | 2023-07-28 |  |
@@ -267,6 +268,7 @@
 | [Yes Man \- Radio Edit](https://open.spotify.com/track/47xypX1JI0skOo1wrqJpOP) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [Yes Man](https://open.spotify.com/album/7kdcsS4EJ0lXtIS9kLhpqg) | 3:50 | 2023-01-05 |  |
 | [Yo Yo Get Funky \- Andre Zimmer Remix](https://open.spotify.com/track/5j1y2im0leY3lJlcxLFx1B) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv), [Andre Zimmer](https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA) | [Yo Yo Get Funky \(Andre Zimmer Remix\)](https://open.spotify.com/album/20wZYUzsZfPHscp0kiPzZY) | 3:30 | 2024-03-11 |  |
 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 | 2024-01-19 |  |
+| [You Got It All](https://open.spotify.com/track/7Fi3VpI73AB2rRxrhowcen) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG), [D'Vision](https://open.spotify.com/artist/38hr97MYjug66uUdOxcCs1) | [You Got It All](https://open.spotify.com/album/5jEdAMxNCs4VBzfi1K7MmK) | 3:07 | 2025-03-16 |  |
 | [You Know](https://open.spotify.com/track/1xB5gt3cDATes2HlVs3ICe) | [Dario Nunez](https://open.spotify.com/artist/2xjAjRLHCAgqazA88wwDLh) | [You Know](https://open.spotify.com/album/5WIcuwJXPhM2iutKiMOcyQ) | 3:04 | 2024-06-10 |  |
 | [You Know Where The Floor Is](https://open.spotify.com/track/1RnEVv1M950IEiklbd01j1) | [Bad Intentions](https://open.spotify.com/artist/1EJZkoVUvWhgY0OJvdAXHw), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [You Know Where The Floor Is](https://open.spotify.com/album/1mvKgax9KJhxdNRrVjtFyQ) | 3:48 | 2023-12-26 |  |
 | [You On My Mind A Lot](https://open.spotify.com/track/1J4H1G61STqSy3G6gQ1M0r) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [You On My Mind A Lot](https://open.spotify.com/album/7rW4yWJuSxMAAKAE8VWKNs) | 3:04 | 2024-03-18 |  |

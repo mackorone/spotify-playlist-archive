@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
-  "num_followers": 49831,
+  "num_followers": 49850,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "Le chemin",
-        "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
-      },
-      "artists": [
-        {
-          "name": "Kyo",
-          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "Je cours",
-      "url": "https://open.spotify.com/track/15RN1rfzBWaAv6B9RBWLGu"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
         "name": "666.667 Club",
         "url": "https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 225933,
       "name": "L'homme press\u00e9",
       "url": "https://open.spotify.com/track/637T4loKlXPwfUdQVZjPTV"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
+        "name": "Le chemin",
+        "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
+      },
+      "artists": [
+        {
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "Je cours",
+      "url": "https://open.spotify.com/track/15RN1rfzBWaAv6B9RBWLGu"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "666.667 Club",
-        "url": "https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT"
-      },
-      "artists": [
-        {
-          "name": "Noir D\u00e9sir",
-          "url": "https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos"
-        }
-      ],
-      "duration_ms": 145066,
-      "name": "Comme elle vient",
-      "url": "https://open.spotify.com/track/1Na29wiC0macG2Va6DXvJ5"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
         "name": "La t\u00eate en arri\u00e8re",
         "url": "https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 163760,
       "name": "Rimini",
       "url": "https://open.spotify.com/track/5xo1GjsebrOd1iUVoJ6SEK"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
+        "name": "666.667 Club",
+        "url": "https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT"
+      },
+      "artists": [
+        {
+          "name": "Noir D\u00e9sir",
+          "url": "https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos"
+        }
+      ],
+      "duration_ms": 145066,
+      "name": "Comme elle vient",
+      "url": "https://open.spotify.com/track/1Na29wiC0macG2Va6DXvJ5"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "Jouer dehors",
-        "url": "https://open.spotify.com/album/5PO1wuSFiCYQZunByOqJfs"
-      },
-      "artists": [
-        {
-          "name": "Mademoiselle K",
-          "url": "https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "Jouer dehors",
-      "url": "https://open.spotify.com/track/3TVoY7A5OWdJvefHDEsfRf"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
         "name": "Aeromusical",
         "url": "https://open.spotify.com/album/6CSMQTYXVhm7FYh54tAtaF"
       },
@@ -543,6 +527,22 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
+        "name": "La t\u00eate en arri\u00e8re",
+        "url": "https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2"
+      },
+      "artists": [
+        {
+          "name": "Luke",
+          "url": "https://open.spotify.com/artist/4JPtvdV0f0CWOKhCIsF8qO"
+        }
+      ],
+      "duration_ms": 188280,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/2HGJqKtabrDzhXrWw1RylG"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
         "name": "Izia",
         "url": "https://open.spotify.com/album/6qZt3k8Y9XXtrAS1Vp6LKm"
       },
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "La t\u00eate en arri\u00e8re",
-        "url": "https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2"
+        "name": "Jouer dehors",
+        "url": "https://open.spotify.com/album/5PO1wuSFiCYQZunByOqJfs"
       },
       "artists": [
         {
-          "name": "Luke",
-          "url": "https://open.spotify.com/artist/4JPtvdV0f0CWOKhCIsF8qO"
+          "name": "Mademoiselle K",
+          "url": "https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI"
         }
       ],
-      "duration_ms": 188280,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/2HGJqKtabrDzhXrWw1RylG"
+      "duration_ms": 213880,
+      "name": "Jouer dehors",
+      "url": "https://open.spotify.com/track/3TVoY7A5OWdJvefHDEsfRf"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -783,42 +783,6 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "De jour comme de nuit",
-        "url": "https://open.spotify.com/album/2Qstn4PgalHk3b9w6YFJI0"
-      },
-      "artists": [
-        {
-          "name": "Astonvilla",
-          "url": "https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7"
-        },
-        {
-          "name": "Jean Baptiste Mory",
-          "url": "https://open.spotify.com/artist/1U8rYQJV2ZRLToXUNElojh"
-        },
-        {
-          "name": "Greg Baudrier",
-          "url": "https://open.spotify.com/artist/7GuuhlWi6XzX44SqqS9hHR"
-        },
-        {
-          "name": "Emmanuel Baroux",
-          "url": "https://open.spotify.com/artist/4GLhnY37gfDwczctnvppiB"
-        },
-        {
-          "name": "Franck Pilant",
-          "url": "https://open.spotify.com/artist/6dVTsBmqhIN3K2lPOg11N5"
-        },
-        {
-          "name": "Fr\u00e9d\u00e9ric Franchitti",
-          "url": "https://open.spotify.com/artist/3CFp5YtgEajDtIcDUJ420F"
-        }
-      ],
-      "duration_ms": 240560,
-      "name": "Regarde-moi",
-      "url": "https://open.spotify.com/track/6Fo0iSM2LaVTCLS3WkTXgz"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
         "name": "Trafalgar",
         "url": "https://open.spotify.com/album/2WjJE58CMkwX9OCdNW9S6T"
       },
@@ -831,6 +795,22 @@
       "duration_ms": 155706,
       "name": "Le bonheur",
       "url": "https://open.spotify.com/track/1WsPkcmKon4hQypbdtYiTo"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
+        "name": "Singles Collection (2001 - 2021)",
+        "url": "https://open.spotify.com/album/73W988ag6ew4iiNTbgMU0C"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "duration_ms": 208986,
+      "name": "Alice & June - Mix 2020",
+      "url": "https://open.spotify.com/track/7taoYAfDTtuI5dxSBeijUO"
     }
   ],
   "unique_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",

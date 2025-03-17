@@ -1,6 +1,6 @@
 {
   "description": "New indie from black artists driving the current. Cover: FKA twigs ",
-  "num_followers": 55686,
+  "num_followers": 55701,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2025-02-10 23:39:34",
       "album": {
-        "name": "DISTRACTION / SCREAM MY NAME",
-        "url": "https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 160007,
-      "name": "SCREAM MY NAME",
-      "url": "https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg"
-    },
-    {
-      "added_at": "2025-02-10 23:39:34",
-      "album": {
         "name": "With Only Your Mouth",
         "url": "https://open.spotify.com/album/3in3hrBp5PsAjMngNXVmPB"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 183564,
       "name": "With Only Your Mouth",
       "url": "https://open.spotify.com/track/7cpQwNcUnqqzIRCluyD4ry"
+    },
+    {
+      "added_at": "2025-02-10 23:39:34",
+      "album": {
+        "name": "Eusexua",
+        "url": "https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 263693,
+      "name": "Eusexua",
+      "url": "https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V"
     },
     {
       "added_at": "2025-02-10 23:39:34",
@@ -291,18 +291,18 @@
     {
       "added_at": "2025-02-10 23:39:34",
       "album": {
-        "name": "Eusexua",
-        "url": "https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj"
+        "name": "DISTRACTION / SCREAM MY NAME",
+        "url": "https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy"
       },
       "artists": [
         {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 263693,
-      "name": "Eusexua",
-      "url": "https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V"
+      "duration_ms": 160007,
+      "name": "SCREAM MY NAME",
+      "url": "https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg"
     },
     {
       "added_at": "2025-02-10 23:39:34",
@@ -391,38 +391,6 @@
     {
       "added_at": "2025-02-10 23:39:34",
       "album": {
-        "name": "Surface Tension",
-        "url": "https://open.spotify.com/album/632eFniptp1u6saHBEN06y"
-      },
-      "artists": [
-        {
-          "name": "Annahstasia",
-          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
-        }
-      ],
-      "duration_ms": 241040,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ"
-    },
-    {
-      "added_at": "2025-02-10 23:39:34",
-      "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "Already Gone",
-      "url": "https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ"
-    },
-    {
-      "added_at": "2025-02-10 23:39:34",
-      "album": {
         "name": "Dope Sick",
         "url": "https://open.spotify.com/album/2973KhbLLpi58GvCCTIbXn"
       },
@@ -447,6 +415,38 @@
     {
       "added_at": "2025-02-10 23:39:34",
       "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ"
+    },
+    {
+      "added_at": "2025-02-10 23:39:34",
+      "album": {
+        "name": "Surface Tension",
+        "url": "https://open.spotify.com/album/632eFniptp1u6saHBEN06y"
+      },
+      "artists": [
+        {
+          "name": "Annahstasia",
+          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
+        }
+      ],
+      "duration_ms": 241040,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ"
+    },
+    {
+      "added_at": "2025-02-10 23:39:34",
+      "album": {
         "name": "Lahai (Deluxe)",
         "url": "https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8"
       },
@@ -459,22 +459,6 @@
       "duration_ms": 226495,
       "name": "Dancing Circles 2.0",
       "url": "https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF"
-    },
-    {
-      "added_at": "2025-02-10 23:39:34",
-      "album": {
-        "name": "Floating Parade",
-        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 229619,
-      "name": "Floating Parade",
-      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
     },
     {
       "added_at": "2025-02-10 23:39:34",
@@ -507,6 +491,22 @@
       "duration_ms": 116852,
       "name": "A Girl Like You",
       "url": "https://open.spotify.com/track/7hLkwgguzGRq1rTyA3P9pr"
+    },
+    {
+      "added_at": "2025-02-10 23:39:34",
+      "album": {
+        "name": "Floating Parade",
+        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 229619,
+      "name": "Floating Parade",
+      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
     },
     {
       "added_at": "2025-02-10 23:39:34",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-02-10 23:39:34",
       "album": {
-        "name": "Glimmer of God",
-        "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 226693,
-      "name": "You're Bleeding Everywhere",
-      "url": "https://open.spotify.com/track/7Cz3M9HDUviKMdY3JOO1EC"
-    },
-    {
-      "added_at": "2025-02-10 23:39:34",
-      "album": {
         "name": "Drop",
         "url": "https://open.spotify.com/album/5hMekWTlnb8UKJohroZLQy"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 256819,
       "name": "Drop",
       "url": "https://open.spotify.com/track/63JgXc0KFuJ0L56E0gjqX8"
+    },
+    {
+      "added_at": "2025-02-10 23:39:34",
+      "album": {
+        "name": "Glimmer of God",
+        "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 226693,
+      "name": "You're Bleeding Everywhere",
+      "url": "https://open.spotify.com/track/7Cz3M9HDUviKMdY3JOO1EC"
     },
     {
       "added_at": "2025-02-10 23:39:34",
@@ -823,18 +823,18 @@
     {
       "added_at": "2025-02-10 23:39:34",
       "album": {
-        "name": "All Cylinders",
-        "url": "https://open.spotify.com/album/0Qjj0htf2HULFnHvhmb9XW"
+        "name": "Mary Jane",
+        "url": "https://open.spotify.com/album/3jx04kCoe1V9ogqoXLNs8g"
       },
       "artists": [
         {
-          "name": "Yves Jarvis",
-          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
         }
       ],
-      "duration_ms": 208329,
-      "name": "All Cylinders",
-      "url": "https://open.spotify.com/track/5ZyDdRIsvdX0AnypQ859Uv"
+      "duration_ms": 207053,
+      "name": "Mary Jane",
+      "url": "https://open.spotify.com/track/3MSL42Ay6qoGALjrIacm4L"
     }
   ],
   "unique_name": "Indie Frequency",

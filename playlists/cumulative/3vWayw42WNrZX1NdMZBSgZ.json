@@ -1555,7 +1555,7 @@
     },
     {
       "album": {
-        "name": "Bala Perdida",
+        "name": "BALA PERDIDA",
         "url": "https://open.spotify.com/album/2ioboE0aQ66tLoGHB7XCxK"
       },
       "artists": [
@@ -1572,7 +1572,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 224000,
-      "name": "Bala Perdida",
+      "name": "BALA PERDIDA",
       "url": "https://open.spotify.com/track/4vO9XibywfpscabvLgwGYH"
     },
     {
@@ -4822,6 +4822,10 @@
         {
           "name": "Arthur Hanlon",
           "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
       "date_added": "2024-11-08",

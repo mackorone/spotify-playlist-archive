@@ -1,6 +1,6 @@
 {
   "description": "We're born naked and the rest is drag. Cover: The Vivienne ",
-  "num_followers": 93716,
+  "num_followers": 93731,
   "original_name": "FIERCE",
   "owner": {
     "name": "Spotify",
@@ -179,26 +179,18 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Queens Everywhere (Cast Version)",
-        "url": "https://open.spotify.com/album/4qRdeAlRbk0LfK6IHgNf5n"
+        "name": "The Blonde & Pink Albums",
+        "url": "https://open.spotify.com/album/2Ggu5GAKTDpd3PcekYnZWe"
       },
       "artists": [
         {
-          "name": "RuPaul",
-          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
-        },
-        {
-          "name": "The Cast of RuPaul's Drag Race, Season 11",
-          "url": "https://open.spotify.com/artist/66HGzvDigC8CCp6ZGfEC6i"
-        },
-        {
-          "name": "Markaholic",
-          "url": "https://open.spotify.com/artist/0ZUGTZ3ItqNjAtQUVjNKnu"
+          "name": "Trixie Mattel",
+          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
         }
       ],
-      "duration_ms": 197422,
-      "name": "Queens Everywhere - Cast Version",
-      "url": "https://open.spotify.com/track/2zbCUcfKcM9RDsnDcuybvV"
+      "duration_ms": 156696,
+      "name": "Hello Hello",
+      "url": "https://open.spotify.com/track/3ASVJOZFgksyINCAEKBHaA"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -219,22 +211,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "The Blonde & Pink Albums",
-        "url": "https://open.spotify.com/album/2Ggu5GAKTDpd3PcekYnZWe"
-      },
-      "artists": [
-        {
-          "name": "Trixie Mattel",
-          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
-        }
-      ],
-      "duration_ms": 156696,
-      "name": "Hello Hello",
-      "url": "https://open.spotify.com/track/3ASVJOZFgksyINCAEKBHaA"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Break Up Bye Bye (Frock Destroyers Version)",
         "url": "https://open.spotify.com/album/4vydhCuNsBlq3S4PNCO5K6"
       },
@@ -251,22 +227,6 @@
       "duration_ms": 151825,
       "name": "Break Up Bye Bye - Frock Destroyers Version",
       "url": "https://open.spotify.com/track/13lgFanIzQVjIiVvxyAjjS"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "I Made It / Mirror Song / Losing is the New Winning (Las Vegas Live Medley)",
-        "url": "https://open.spotify.com/album/3PijFdAw2jAST2TApJBGWr"
-      },
-      "artists": [
-        {
-          "name": "The Cast of RuPaul's Drag Race, Season 12",
-          "url": "https://open.spotify.com/artist/082jBeu8MzgcpEAYU56yJt"
-        }
-      ],
-      "duration_ms": 469047,
-      "name": "I Made It / Mirror Song / Losing is the New Winning - Las Vegas Live Medley",
-      "url": "https://open.spotify.com/track/07kDfz5ku5fXzINGGYUWhn"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -303,6 +263,62 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Queens Everywhere (Cast Version)",
+        "url": "https://open.spotify.com/album/4qRdeAlRbk0LfK6IHgNf5n"
+      },
+      "artists": [
+        {
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+        },
+        {
+          "name": "The Cast of RuPaul's Drag Race, Season 11",
+          "url": "https://open.spotify.com/artist/66HGzvDigC8CCp6ZGfEC6i"
+        },
+        {
+          "name": "Markaholic",
+          "url": "https://open.spotify.com/artist/0ZUGTZ3ItqNjAtQUVjNKnu"
+        }
+      ],
+      "duration_ms": 197422,
+      "name": "Queens Everywhere - Cast Version",
+      "url": "https://open.spotify.com/track/2zbCUcfKcM9RDsnDcuybvV"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "I Made It / Mirror Song / Losing is the New Winning (Las Vegas Live Medley)",
+        "url": "https://open.spotify.com/album/3PijFdAw2jAST2TApJBGWr"
+      },
+      "artists": [
+        {
+          "name": "The Cast of RuPaul's Drag Race, Season 12",
+          "url": "https://open.spotify.com/artist/082jBeu8MzgcpEAYU56yJt"
+        }
+      ],
+      "duration_ms": 469047,
+      "name": "I Made It / Mirror Song / Losing is the New Winning - Las Vegas Live Medley",
+      "url": "https://open.spotify.com/track/07kDfz5ku5fXzINGGYUWhn"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "One Stone",
+        "url": "https://open.spotify.com/album/2fta3Z2ikci4mFYexn3AvO"
+      },
+      "artists": [
+        {
+          "name": "Trixie Mattel",
+          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
+        }
+      ],
+      "duration_ms": 185744,
+      "name": "Soldier",
+      "url": "https://open.spotify.com/track/2wWxekq0ATUJtpkmDxsSyL"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Werqin' Girl (Professional)",
         "url": "https://open.spotify.com/album/4cAQ8XGLVUtvVSpo2KYAnm"
       },
@@ -335,22 +351,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Sweet and Sour",
-        "url": "https://open.spotify.com/album/1w8Q8MWgBAgSNoI5wUL2qG"
-      },
-      "artists": [
-        {
-          "name": "Lemon",
-          "url": "https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "Sweet and Sour",
-      "url": "https://open.spotify.com/track/5Agunnfj2SyNhhFWNmQ8JE"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Hectic",
         "url": "https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB"
       },
@@ -367,18 +367,18 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "One Stone",
-        "url": "https://open.spotify.com/album/2fta3Z2ikci4mFYexn3AvO"
+        "name": "Sweet and Sour",
+        "url": "https://open.spotify.com/album/1w8Q8MWgBAgSNoI5wUL2qG"
       },
       "artists": [
         {
-          "name": "Trixie Mattel",
-          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
+          "name": "Lemon",
+          "url": "https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B"
         }
       ],
-      "duration_ms": 185744,
-      "name": "Soldier",
-      "url": "https://open.spotify.com/track/2wWxekq0ATUJtpkmDxsSyL"
+      "duration_ms": 108000,
+      "name": "Sweet and Sour",
+      "url": "https://open.spotify.com/track/5Agunnfj2SyNhhFWNmQ8JE"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -395,6 +395,22 @@
       "duration_ms": 156923,
       "name": "Bitch Like Me",
       "url": "https://open.spotify.com/track/1lV3NdZCVc8wZ1wdv25Gw5"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Barbara",
+        "url": "https://open.spotify.com/album/6PMAcubRYoflJL5bnAW0nZ"
+      },
+      "artists": [
+        {
+          "name": "Trixie Mattel",
+          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/1BjZQhaQy04o37ETiZrXdl"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -431,26 +447,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Excuse the Beauty",
-        "url": "https://open.spotify.com/album/6KgyGjGDF73gae1gkQZ9KS"
-      },
-      "artists": [
-        {
-          "name": "Latrice Royale",
-          "url": "https://open.spotify.com/artist/1MPCKhktsStR2Hnj1s2fvC"
-        },
-        {
-          "name": "Epiphany Mattel",
-          "url": "https://open.spotify.com/artist/0KjBV7nJq8mr5QDsyWzvyy"
-        }
-      ],
-      "duration_ms": 189440,
-      "name": "Excuse the Beauty",
-      "url": "https://open.spotify.com/track/6BiFUGb6TQSOtTNkZhXVhI"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Soak It Up",
         "url": "https://open.spotify.com/album/2pJbUeVzXT2f7HGB8H0H2F"
       },
@@ -467,6 +463,26 @@
       "duration_ms": 256298,
       "name": "Soak It Up (Remix)",
       "url": "https://open.spotify.com/track/3M8oAB4Nof44bWG5qP7gtq"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Excuse the Beauty",
+        "url": "https://open.spotify.com/album/6KgyGjGDF73gae1gkQZ9KS"
+      },
+      "artists": [
+        {
+          "name": "Latrice Royale",
+          "url": "https://open.spotify.com/artist/1MPCKhktsStR2Hnj1s2fvC"
+        },
+        {
+          "name": "Epiphany Mattel",
+          "url": "https://open.spotify.com/artist/0KjBV7nJq8mr5QDsyWzvyy"
+        }
+      ],
+      "duration_ms": 189440,
+      "name": "Excuse the Beauty",
+      "url": "https://open.spotify.com/track/6BiFUGb6TQSOtTNkZhXVhI"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -491,6 +507,22 @@
       "duration_ms": 248973,
       "name": "Blurred Bynes (feat. Detox & Vicky Vox)",
       "url": "https://open.spotify.com/track/4AjE5hWnTyLVoZkTO0nVCS"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm"
+      },
+      "artists": [
+        {
+          "name": "Trixie Mattel",
+          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Shadow - Spotify Singles",
+      "url": "https://open.spotify.com/track/6gGUDB4bS7FhhtGVmjADGr"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -527,18 +559,18 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Barbara",
-        "url": "https://open.spotify.com/album/6PMAcubRYoflJL5bnAW0nZ"
+        "name": "Cr\u00e8me Br\u00fbl\u00e9e",
+        "url": "https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu"
       },
       "artists": [
         {
-          "name": "Trixie Mattel",
-          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
+          "name": "Shea Coule\u00e9",
+          "url": "https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6"
         }
       ],
-      "duration_ms": 182068,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/1BjZQhaQy04o37ETiZrXdl"
+      "duration_ms": 172488,
+      "name": "Cr\u00e8me Br\u00fbl\u00e9e",
+      "url": "https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -575,22 +607,6 @@
       "duration_ms": 205217,
       "name": "Weight (feat. Epiphany Mattel)",
       "url": "https://open.spotify.com/track/07i9T9SDDHXuDuqs1wVAHb"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Cr\u00e8me Br\u00fbl\u00e9e",
-        "url": "https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu"
-      },
-      "artists": [
-        {
-          "name": "Shea Coule\u00e9",
-          "url": "https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6"
-        }
-      ],
-      "duration_ms": 172488,
-      "name": "Cr\u00e8me Br\u00fbl\u00e9e",
-      "url": "https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -663,22 +679,6 @@
       "duration_ms": 150500,
       "name": "Gimme What I Want",
       "url": "https://open.spotify.com/track/2s1HaxivaRNYacIAYZLRym"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm"
-      },
-      "artists": [
-        {
-          "name": "Trixie Mattel",
-          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Shadow - Spotify Singles",
-      "url": "https://open.spotify.com/track/6gGUDB4bS7FhhtGVmjADGr"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -895,6 +895,38 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/6jQMDvMwscJjhhXH4go8y9"
+      },
+      "artists": [
+        {
+          "name": "Courtney Act",
+          "url": "https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq"
+        }
+      ],
+      "duration_ms": 202476,
+      "name": "Boys Like Me",
+      "url": "https://open.spotify.com/track/6ACCpKQ0Ca5VmFaRqdKm9h"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Outside In",
+        "url": "https://open.spotify.com/album/6VT6gpzqEWSk5r0IulfDyR"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        }
+      ],
+      "duration_ms": 194361,
+      "name": "Outside In",
+      "url": "https://open.spotify.com/track/5Yi2qzDQ2HPv9k2J6ZCKso"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "My Pussy Is Like a Peach",
         "url": "https://open.spotify.com/album/2UF5W1roL28m982inA5g3w"
       },
@@ -907,22 +939,6 @@
       "duration_ms": 232636,
       "name": "My Pussy Is Like a Peach",
       "url": "https://open.spotify.com/track/1skWa3UtU951daIZVQtIEd"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Absolute Zero",
-        "url": "https://open.spotify.com/album/0torKYUkz3VBlHVxu0vsli"
-      },
-      "artists": [
-        {
-          "name": "Sharon Needles",
-          "url": "https://open.spotify.com/artist/7yPRmfUuRcpGwOsHVqQgae"
-        }
-      ],
-      "duration_ms": 198391,
-      "name": "Flamin' Hot",
-      "url": "https://open.spotify.com/track/7C32ylxyLfkmlVcJVSuJYb"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -943,18 +959,38 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Outside In",
-        "url": "https://open.spotify.com/album/6VT6gpzqEWSk5r0IulfDyR"
+        "name": "Champion (Ru X Blu)",
+        "url": "https://open.spotify.com/album/1NeBhG3TwAJ1YYk0bAT6pQ"
       },
       "artists": [
         {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+        },
+        {
+          "name": "Blu Hydrangea",
+          "url": "https://open.spotify.com/artist/0oYqfQLQ6DfSaJvjobEps0"
         }
       ],
-      "duration_ms": 194361,
-      "name": "Outside In",
-      "url": "https://open.spotify.com/track/5Yi2qzDQ2HPv9k2J6ZCKso"
+      "duration_ms": 178278,
+      "name": "Champion (Ru X Blu)",
+      "url": "https://open.spotify.com/track/3Hi69uRksd7Z2YQ9dEGDJP"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Absolute Zero",
+        "url": "https://open.spotify.com/album/0torKYUkz3VBlHVxu0vsli"
+      },
+      "artists": [
+        {
+          "name": "Sharon Needles",
+          "url": "https://open.spotify.com/artist/7yPRmfUuRcpGwOsHVqQgae"
+        }
+      ],
+      "duration_ms": 198391,
+      "name": "Flamin' Hot",
+      "url": "https://open.spotify.com/track/7C32ylxyLfkmlVcJVSuJYb"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -983,42 +1019,6 @@
       "duration_ms": 193320,
       "name": "AAA (feat. Alaska Thunderfuck, Courtney Act & Willam )",
       "url": "https://open.spotify.com/track/4aCczCIMedqUdGUcUqVb1N"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/6jQMDvMwscJjhhXH4go8y9"
-      },
-      "artists": [
-        {
-          "name": "Courtney Act",
-          "url": "https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq"
-        }
-      ],
-      "duration_ms": 202476,
-      "name": "Boys Like Me",
-      "url": "https://open.spotify.com/track/6ACCpKQ0Ca5VmFaRqdKm9h"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Champion (Ru X Blu)",
-        "url": "https://open.spotify.com/album/1NeBhG3TwAJ1YYk0bAT6pQ"
-      },
-      "artists": [
-        {
-          "name": "RuPaul",
-          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
-        },
-        {
-          "name": "Blu Hydrangea",
-          "url": "https://open.spotify.com/artist/0oYqfQLQ6DfSaJvjobEps0"
-        }
-      ],
-      "duration_ms": 178278,
-      "name": "Champion (Ru X Blu)",
-      "url": "https://open.spotify.com/track/3Hi69uRksd7Z2YQ9dEGDJP"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Much Betta",
         "url": "https://open.spotify.com/album/3fLH1ksOnNE6fjmBL5fgbB"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 204245,
       "name": "Empty",
       "url": "https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW"
-      },
-      "artists": [
-        {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Out of Office",
-        "url": "https://open.spotify.com/album/406xw48mEf8PUbq48eGu6C"
-      },
-      "artists": [
-        {
-          "name": "Karen From Finance",
-          "url": "https://open.spotify.com/artist/3LMNZjSHkbGJ7jKKJhG94f"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Out of Office",
-      "url": "https://open.spotify.com/track/2quoLHVf67QT7yPDoMQlTE"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Sunshine State",
         "url": "https://open.spotify.com/album/4QMqDNrRDg3Abr3viHFDka"
       },
@@ -1231,6 +1215,42 @@
       "duration_ms": 186686,
       "name": "Sunshine State",
       "url": "https://open.spotify.com/track/2wwO8AXtUB0qy8rT4dV9nP"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Out of Office",
+        "url": "https://open.spotify.com/album/406xw48mEf8PUbq48eGu6C"
+      },
+      "artists": [
+        {
+          "name": "Karen From Finance",
+          "url": "https://open.spotify.com/artist/3LMNZjSHkbGJ7jKKJhG94f"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Out of Office",
+      "url": "https://open.spotify.com/track/2quoLHVf67QT7yPDoMQlTE"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Part 2: The Antidote",
+        "url": "https://open.spotify.com/album/3BMSQ62xPnpHMyYx8CByYh"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        },
+        {
+          "name": "Little Boots",
+          "url": "https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30"
+        }
+      ],
+      "duration_ms": 169731,
+      "name": "I Specialise In Love",
+      "url": "https://open.spotify.com/track/5J0S0kIoIOH0FCs9Q6Y3B1"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1267,26 +1287,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Part 2: The Antidote",
-        "url": "https://open.spotify.com/album/3BMSQ62xPnpHMyYx8CByYh"
-      },
-      "artists": [
-        {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
-        },
-        {
-          "name": "Little Boots",
-          "url": "https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30"
-        }
-      ],
-      "duration_ms": 169731,
-      "name": "I Specialise In Love",
-      "url": "https://open.spotify.com/track/5J0S0kIoIOH0FCs9Q6Y3B1"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Here For It",
         "url": "https://open.spotify.com/album/0vLZFcJpMsjOsublHTFjIk"
       },
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Stars (Disco Mix)",
-        "url": "https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY"
-      },
-      "artists": [
-        {
-          "name": "Veronica Green",
-          "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "Stars - Disco Mix",
-      "url": "https://open.spotify.com/track/0NUqxqzbiABToJega47uSY"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Come Together",
         "url": "https://open.spotify.com/album/2a64YiIwjhOm2XrphHlPYc"
       },
@@ -1347,22 +1331,6 @@
       "duration_ms": 161400,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/7j9IL3tollUsa8Bkm5W32s"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Born Naked",
-        "url": "https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7"
-      },
-      "artists": [
-        {
-          "name": "RuPaul",
-          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
-        }
-      ],
-      "duration_ms": 212693,
-      "name": "Sissy That Walk",
-      "url": "https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1387,6 +1355,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Born Naked",
+        "url": "https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7"
+      },
+      "artists": [
+        {
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+        }
+      ],
+      "duration_ms": 212693,
+      "name": "Sissy That Walk",
+      "url": "https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Straight Outta Oz",
         "url": "https://open.spotify.com/album/1abVmBsdc82pIj9CQu7cN0"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 158222,
       "name": "Wrong Bitch",
       "url": "https://open.spotify.com/track/3eOYEYe2VUsiOSCW53OiZv"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Stars (Disco Mix)",
+        "url": "https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY"
+      },
+      "artists": [
+        {
+          "name": "Veronica Green",
+          "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
+        }
+      ],
+      "duration_ms": 252500,
+      "name": "Stars - Disco Mix",
+      "url": "https://open.spotify.com/track/0NUqxqzbiABToJega47uSY"
     },
     {
       "added_at": "2025-01-14 16:17:40",

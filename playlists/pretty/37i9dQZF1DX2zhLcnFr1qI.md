@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Baby, it's cold outside 🎁🌲 here's some EDM to keep warm!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,038 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,029 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 32 | [Winter Wonderland](https://open.spotify.com/track/2XU4sTuAJ882jJnimHyvVZ) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai) | [Winter Wonderland](https://open.spotify.com/album/1gOfnXRPhogf3nAiM8EGfr) | 2:44 |
 | 33 | [The Snowman \(Walking In The Air\) \[feat\. Mingue\]](https://open.spotify.com/track/0zCwYJPSR5tHyqlB70q5Mb) | [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [The Snowman \(Walking In The Air\) \[feat\. Mingue\]](https://open.spotify.com/album/3qeaSUEHDtlUOfRxo9HDcJ) | 2:29 |
 | 34 | [Holly Jolly Christmas](https://open.spotify.com/track/0JtruSwwDucpjKnUnKhz0b) | [Briseida](https://open.spotify.com/artist/28YlhRSPEFNqShzh1ZjKxG) | [Holly Jolly Christmas](https://open.spotify.com/album/1OKH32KFWv5cf2mTb8ENEz) | 5:05 |
-| 35 | [Jingle Bells \(feat\. Soran\)](https://open.spotify.com/track/4q6356bqn2qC7t3R6TVR6L) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Kaskade Christmas Deluxe](https://open.spotify.com/album/1xGImGcWsxl2BiB3Ky7g6I) | 3:21 |
+| 35 | [Jingle Bell Rock](https://open.spotify.com/track/4deFUDuDuzQqXXpjQ6Zhqf) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP) | [Jingle Bell Rock](https://open.spotify.com/album/4UHebJk04p3hFlun4xmhB5) | 3:00 |
 | 36 | [Winter Wonderland](https://open.spotify.com/track/4kIEyU0Jnp4lNUibWJ7teg) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Winter Wonderland](https://open.spotify.com/album/1iRgpbqUkSsntQR3GV76H4) | 2:46 |
-| 37 | [Jingle Bell Rock](https://open.spotify.com/track/4deFUDuDuzQqXXpjQ6Zhqf) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP) | [Jingle Bell Rock](https://open.spotify.com/album/4UHebJk04p3hFlun4xmhB5) | 3:00 |
+| 37 | [Jingle Bells \(feat\. Soran\)](https://open.spotify.com/track/4q6356bqn2qC7t3R6TVR6L) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Kaskade Christmas Deluxe](https://open.spotify.com/album/1xGImGcWsxl2BiB3Ky7g6I) | 3:21 |
 | 38 | [All I Want for Christmas](https://open.spotify.com/track/4Y22IgfwCLFVW6Utr8XXIu) | [Alvin Anthony](https://open.spotify.com/artist/40SW02sSkgw10VTYc6UT9H), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM), [JeLa](https://open.spotify.com/artist/5wiDn420KFBNE820kOUGft) | [All I Want for Christmas](https://open.spotify.com/album/4FzL46RWqK3yEm5JTdyTq1) | 2:58 |
 | 39 | [Are You With Me \- Christmas Mix](https://open.spotify.com/track/1jpHQ0q1plPQme7lm0Blil) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Are You With Me / Reality \(Christmas Remixes\)](https://open.spotify.com/album/4U4TGgkDz7FguxhVF15ICf) | 2:18 |
 | 40 | [Last Christmas \- YAMAS Edit](https://open.spotify.com/track/30CO4b3Z9zmbqyguI0nn1a) | [Max Fail](https://open.spotify.com/artist/6fyLFM7G6aSFpZ1BUUDCLf), [YAMAS](https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY) | [Last Christmas \(YAMAS Edit\)](https://open.spotify.com/album/0NAnNrWeRjfT7kMaB9QbLE) | 2:22 |

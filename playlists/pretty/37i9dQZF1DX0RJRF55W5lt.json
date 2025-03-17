@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: DJ EZ at Drumsheds",
-  "num_followers": 589662,
+  "num_followers": 589750,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,34 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
+        "name": "Execute",
+        "url": "https://open.spotify.com/album/6FZCuZTkHljeaz5kli8WC8"
+      },
+      "artists": [
+        {
+          "name": "Oxide & Neutrino",
+          "url": "https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf"
+        },
+        {
+          "name": "Lisa Maffia",
+          "url": "https://open.spotify.com/artist/2tiBXBk9svXUlNxP52KA6V"
+        },
+        {
+          "name": "Megaman",
+          "url": "https://open.spotify.com/artist/4jA144upx725mAobOElW0G"
+        },
+        {
+          "name": "Romeo",
+          "url": "https://open.spotify.com/artist/0QNydoO1XxBG1GUm4vjDeM"
+        }
+      ],
+      "duration_ms": 362373,
+      "name": "No Good 4 Me (feat. Megaman, Romeo and Lisa Maffia)",
+      "url": "https://open.spotify.com/track/7oysiJ2yYjVYzrGSmIEzME"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
         "name": "It's the Way '99",
         "url": "https://open.spotify.com/album/12GKH2hyb3lppMl3FUQn5B"
       },
@@ -495,58 +523,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Freak Like Me",
-        "url": "https://open.spotify.com/album/2WF4PpVoRbiyRRNPBqWXdE"
-      },
-      "artists": [
-        {
-          "name": "Dub Conspiracy",
-          "url": "https://open.spotify.com/artist/50JXpwiwsojrMGGHVfif0r"
-        },
-        {
-          "name": "Tru Faith",
-          "url": "https://open.spotify.com/artist/08aJyCqJgyyEVklHZe77R9"
-        },
-        {
-          "name": "Dome",
-          "url": "https://open.spotify.com/artist/3889voMug5hvUtUVC9WaUe"
-        }
-      ],
-      "duration_ms": 292533,
-      "name": "Freak Like Me - Dome's Peak Freak Remix",
-      "url": "https://open.spotify.com/track/7jUhvpXow0mD27v77F6vC2"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
-        "name": "Execute",
-        "url": "https://open.spotify.com/album/6FZCuZTkHljeaz5kli8WC8"
-      },
-      "artists": [
-        {
-          "name": "Oxide & Neutrino",
-          "url": "https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf"
-        },
-        {
-          "name": "Lisa Maffia",
-          "url": "https://open.spotify.com/artist/2tiBXBk9svXUlNxP52KA6V"
-        },
-        {
-          "name": "Megaman",
-          "url": "https://open.spotify.com/artist/4jA144upx725mAobOElW0G"
-        },
-        {
-          "name": "Romeo",
-          "url": "https://open.spotify.com/artist/0QNydoO1XxBG1GUm4vjDeM"
-        }
-      ],
-      "duration_ms": 362373,
-      "name": "No Good 4 Me (feat. Megaman, Romeo and Lisa Maffia)",
-      "url": "https://open.spotify.com/track/7oysiJ2yYjVYzrGSmIEzME"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "Masterblaster 2000",
         "url": "https://open.spotify.com/album/54DrfxFAuA9fdGus2bMWBu"
       },
@@ -567,6 +543,30 @@
       "duration_ms": 332746,
       "name": "Masterblaster 2000 - Oracles Remix",
       "url": "https://open.spotify.com/track/79QD38Dz9HaIHqQM9t7Wth"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "Freak Like Me",
+        "url": "https://open.spotify.com/album/2WF4PpVoRbiyRRNPBqWXdE"
+      },
+      "artists": [
+        {
+          "name": "Dub Conspiracy",
+          "url": "https://open.spotify.com/artist/50JXpwiwsojrMGGHVfif0r"
+        },
+        {
+          "name": "Tru Faith",
+          "url": "https://open.spotify.com/artist/08aJyCqJgyyEVklHZe77R9"
+        },
+        {
+          "name": "Dome",
+          "url": "https://open.spotify.com/artist/3889voMug5hvUtUVC9WaUe"
+        }
+      ],
+      "duration_ms": 292533,
+      "name": "Freak Like Me - Dome's Peak Freak Remix",
+      "url": "https://open.spotify.com/track/7jUhvpXow0mD27v77F6vC2"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Get Down (We Can Get Down)",
-        "url": "https://open.spotify.com/album/2RhvJDMfC7Ps9k34RDSSar"
-      },
-      "artists": [
-        {
-          "name": "Groove Chronicles (Noodles)",
-          "url": "https://open.spotify.com/artist/52ra5pt8grwDXQaE2AO5on"
-        }
-      ],
-      "duration_ms": 312758,
-      "name": "Get Down - We Can Get Down",
-      "url": "https://open.spotify.com/track/2IrVQQ9cR0W0igKz661O4p"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "Bump 'N' Grind",
         "url": "https://open.spotify.com/album/1F3SXkn1r3bIs0aV0vkzhN"
       },
@@ -699,26 +683,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Now And Always: 20 Years Of Dreaming",
-        "url": "https://open.spotify.com/album/7loeQSRUbnvwYLcmgt70D0"
-      },
-      "artists": [
-        {
-          "name": "GABRIELLE",
-          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
-        },
-        {
-          "name": "Wookie",
-          "url": "https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv"
-        }
-      ],
-      "duration_ms": 267947,
-      "name": "Sunshine - Wookie Main Mix",
-      "url": "https://open.spotify.com/track/0crvolcKNxcfLMBFt8I9Hx"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "Poision",
         "url": "https://open.spotify.com/album/5hZRHbGRokvmSvRFsEdLGL"
       },
@@ -739,6 +703,42 @@
       "duration_ms": 305026,
       "name": "Poision",
       "url": "https://open.spotify.com/track/03vwrapDLyriXEYpM1GJPj"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "Get Down (We Can Get Down)",
+        "url": "https://open.spotify.com/album/2RhvJDMfC7Ps9k34RDSSar"
+      },
+      "artists": [
+        {
+          "name": "Groove Chronicles (Noodles)",
+          "url": "https://open.spotify.com/artist/52ra5pt8grwDXQaE2AO5on"
+        }
+      ],
+      "duration_ms": 312758,
+      "name": "Get Down - We Can Get Down",
+      "url": "https://open.spotify.com/track/2IrVQQ9cR0W0igKz661O4p"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "Now And Always: 20 Years Of Dreaming",
+        "url": "https://open.spotify.com/album/7loeQSRUbnvwYLcmgt70D0"
+      },
+      "artists": [
+        {
+          "name": "GABRIELLE",
+          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
+        },
+        {
+          "name": "Wookie",
+          "url": "https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv"
+        }
+      ],
+      "duration_ms": 267947,
+      "name": "Sunshine - Wookie Main Mix",
+      "url": "https://open.spotify.com/track/0crvolcKNxcfLMBFt8I9Hx"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "4X4, Vol. 1",
-        "url": "https://open.spotify.com/album/4HZ7uAsCJu2KwI0AfSOGXk"
-      },
-      "artists": [
-        {
-          "name": "R.I.P Productions",
-          "url": "https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB"
-        }
-      ],
-      "duration_ms": 343222,
-      "name": "Oh Baby",
-      "url": "https://open.spotify.com/track/5lWkKEIg07sX9l8HcIU4Y9"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "In-Fidelity",
         "url": "https://open.spotify.com/album/6019qvnF1CbqBi32pAiV35"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 234607,
       "name": "Deeper Love",
       "url": "https://open.spotify.com/track/0KwE2yUq2e5lKSjK1MsKCt"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "4X4, Vol. 1",
+        "url": "https://open.spotify.com/album/4HZ7uAsCJu2KwI0AfSOGXk"
+      },
+      "artists": [
+        {
+          "name": "R.I.P Productions",
+          "url": "https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB"
+        }
+      ],
+      "duration_ms": 343222,
+      "name": "Oh Baby",
+      "url": "https://open.spotify.com/track/5lWkKEIg07sX9l8HcIU4Y9"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "UK Garage Classics - Best of Jeremy Sylvester, Vol. 3",
-        "url": "https://open.spotify.com/album/5xZ01zf5Pb93RJnt46sAuT"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Sylvester",
-          "url": "https://open.spotify.com/artist/7BRot2uprkudBUXhqv9R9l"
-        }
-      ],
-      "duration_ms": 348000,
-      "name": "C'est Cool",
-      "url": "https://open.spotify.com/track/6AAWrCUg5AEHhbeJpn01s5"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "Wookie (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 328243,
       "name": "Down On Me",
       "url": "https://open.spotify.com/track/3aFmm5TVUHInC0ruWkjUJ4"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "UK Garage Classics - Best of Jeremy Sylvester, Vol. 3",
+        "url": "https://open.spotify.com/album/5xZ01zf5Pb93RJnt46sAuT"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Sylvester",
+          "url": "https://open.spotify.com/artist/7BRot2uprkudBUXhqv9R9l"
+        }
+      ],
+      "duration_ms": 348000,
+      "name": "C'est Cool",
+      "url": "https://open.spotify.com/track/6AAWrCUg5AEHhbeJpn01s5"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
+        "name": "Sincere (Deluxe)",
+        "url": "https://open.spotify.com/album/0V76cokjWCIMO2pnElF1mw"
+      },
+      "artists": [
+        {
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+        },
+        {
+          "name": "Elisabeth Troy",
+          "url": "https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT"
+        }
+      ],
+      "duration_ms": 309520,
+      "name": "Attitude",
+      "url": "https://open.spotify.com/track/0mFEqYuAiWphuDLXj9h75n"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
         "name": "Pure Grime - The Very Best of Grime",
         "url": "https://open.spotify.com/album/4KoltQiyOJAt1ToaeyKkYj"
       },
@@ -1159,42 +1179,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Oh Boy",
-        "url": "https://open.spotify.com/album/77H1tCAFhXuNPg21nCNMgX"
-      },
-      "artists": [
-        {
-          "name": "Fabulous Baker Boys",
-          "url": "https://open.spotify.com/artist/5UGsrEKtGvlxh7YsdjKyjH"
-        }
-      ],
-      "duration_ms": 243874,
-      "name": "Oh Boy - Rafmat Radio Edit",
-      "url": "https://open.spotify.com/track/3023sMjiQEW2Cune78IfCJ"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
-        "name": "Sincere (Deluxe)",
-        "url": "https://open.spotify.com/album/0V76cokjWCIMO2pnElF1mw"
-      },
-      "artists": [
-        {
-          "name": "MJ Cole",
-          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
-        },
-        {
-          "name": "Elisabeth Troy",
-          "url": "https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT"
-        }
-      ],
-      "duration_ms": 309520,
-      "name": "Attitude",
-      "url": "https://open.spotify.com/track/0mFEqYuAiWphuDLXj9h75n"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "Pick Me Up",
         "url": "https://open.spotify.com/album/51HxoBrnXMvUuneVRRV5gl"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 403006,
       "name": "Pick Me Up - Licenced Mix",
       "url": "https://open.spotify.com/track/57sbI1IH9J5TBN2utbIoWM"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "Oh Boy",
+        "url": "https://open.spotify.com/album/77H1tCAFhXuNPg21nCNMgX"
+      },
+      "artists": [
+        {
+          "name": "Fabulous Baker Boys",
+          "url": "https://open.spotify.com/artist/5UGsrEKtGvlxh7YsdjKyjH"
+        }
+      ],
+      "duration_ms": 243874,
+      "name": "Oh Boy - Rafmat Radio Edit",
+      "url": "https://open.spotify.com/track/3023sMjiQEW2Cune78IfCJ"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Wishing I Were Home",
-        "url": "https://open.spotify.com/album/2c3hFrcNV2Z0485IQ5rJ1i"
-      },
-      "artists": [
-        {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
-        }
-      ],
-      "duration_ms": 375994,
-      "name": "Wishing I Were Home",
-      "url": "https://open.spotify.com/track/6RtZ4Kvk7apHXWFqiI0HLO"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "Smack Da House Vol.2",
         "url": "https://open.spotify.com/album/0UTxSDZxgcVhltuXOUT0uT"
       },
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
+        "name": "Wishing I Were Home",
+        "url": "https://open.spotify.com/album/2c3hFrcNV2Z0485IQ5rJ1i"
+      },
+      "artists": [
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        }
+      ],
+      "duration_ms": 375994,
+      "name": "Wishing I Were Home",
+      "url": "https://open.spotify.com/track/6RtZ4Kvk7apHXWFqiI0HLO"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
         "name": "All I do",
         "url": "https://open.spotify.com/album/7fR9oZPJHUDHoIxD1SxdOw"
       },
@@ -1287,22 +1287,6 @@
       "duration_ms": 368853,
       "name": "All I Do (Bump & Flex Club Mix)",
       "url": "https://open.spotify.com/track/6d5kAMXULpIYwfM5MgpiiM"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
-        "name": "4X4, Vol. 1",
-        "url": "https://open.spotify.com/album/4HZ7uAsCJu2KwI0AfSOGXk"
-      },
-      "artists": [
-        {
-          "name": "R.I.P Productions",
-          "url": "https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB"
-        }
-      ],
-      "duration_ms": 370405,
-      "name": "The Chant W.E.R",
-      "url": "https://open.spotify.com/track/3U3hN333aFVLwFlLvIIMx3"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -1359,6 +1343,38 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
+        "name": "4X4, Vol. 1",
+        "url": "https://open.spotify.com/album/4HZ7uAsCJu2KwI0AfSOGXk"
+      },
+      "artists": [
+        {
+          "name": "R.I.P Productions",
+          "url": "https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB"
+        }
+      ],
+      "duration_ms": 370405,
+      "name": "The Chant W.E.R",
+      "url": "https://open.spotify.com/track/3U3hN333aFVLwFlLvIIMx3"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "House Tracks for the Dancefloor, Vol. One",
+        "url": "https://open.spotify.com/album/4NONAXdztl5tL39YurSOj9"
+      },
+      "artists": [
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        }
+      ],
+      "duration_ms": 372480,
+      "name": "Dancing for Heaven - Club",
+      "url": "https://open.spotify.com/track/70YTThyJzwfYhy8old5EAu"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
         "name": "Morel's Grooves (Pt. 4)",
         "url": "https://open.spotify.com/album/4YAQY5sSGCgBG9auquen4A"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 417466,
       "name": "Let's Groove",
       "url": "https://open.spotify.com/track/2amYO9uSLjsHfLSUZVh5Wq"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
-        "name": "Pure Garage Reload - The Very Best Of Old Skool Garage",
-        "url": "https://open.spotify.com/album/4FVSogOmseVSnVJwvFEwQa"
-      },
-      "artists": [
-        {
-          "name": "Shola Ama",
-          "url": "https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6"
-        }
-      ],
-      "duration_ms": 341413,
-      "name": "Imagine - Asylum Remix",
-      "url": "https://open.spotify.com/track/7cQjdDB3ihCB7awAOZcfuE"
     }
   ],
   "unique_name": "UK Garage Classics",

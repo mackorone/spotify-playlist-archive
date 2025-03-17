@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-801 songs - 2 day 5 hr 38 min
+802 songs - 2 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Coda](https://open.spotify.com/track/2QlGj7JaBv2jggcK99kPKQ) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Psykos](https://open.spotify.com/album/6aLnXrlksffrrHRb6ktBF9) | 2:35 | 2024-05-28 |  |
 | [CODE](https://open.spotify.com/track/7mf1jqnFX2jgZg9bgK8V6r) | [The Comet Is Coming](https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU) | [Hyper\-Dimensional Expansion Beam](https://open.spotify.com/album/1XPsJnIVMjOt04rczMWVO4) | 4:15 | 2022-10-01 |  |
 | [coelacanth](https://open.spotify.com/track/4falh3eCRkyOvHk33ZV3AV) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH) | [plastic death](https://open.spotify.com/album/4LKhRqqNlRlWwt4d9GG3QW) | 6:34 | 2024-03-08 |  |
+| [Coka, I'm Fine](https://open.spotify.com/track/0b4sTnmz7wzodbY8fMkTry) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [在動物園散步才是正經事](https://open.spotify.com/album/3R06MVz2i8ynBUfar35Ixk) | 1:50 | 2025-03-17 |  |
 | [Cold Chillin' Cold Chillin'](https://open.spotify.com/track/1m3wtu9X4ReNFAE2fxH48j) | [Bomb the Music Industry!](https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7) | [SCRAMBLES](https://open.spotify.com/album/1SlZCvQYF5aKtFiFd65dVY) | 1:45 | 2022-04-19 | 2024-01-20 |
 | [Come On Over Here](https://open.spotify.com/track/1GsC3kC4vBEPt8ETD5W4CB) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 3:37 | 2023-05-21 |  |
 | [Come Together \- Remastered 2009](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 4:19 | 2022-08-07 | 2023-12-14 |

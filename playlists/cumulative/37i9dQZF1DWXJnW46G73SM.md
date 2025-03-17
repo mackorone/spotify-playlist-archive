@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف:زامباهولا \- شارموفرز و أكرم حسني
 
-1,408 songs - 3 day 6 hr 36 min
+1,409 songs - 3 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Aleky Eyoun](https://open.spotify.com/track/5kQCI3faUHASM28R91ksUY) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Aleky Eyoun](https://open.spotify.com/album/78SzkM05ePjjFN1PNBurUh) | 3:29 | 2022-02-16 | 2022-05-19 |
 | [Alf Rooh \(Manoukian/Angelo Remix\)](https://open.spotify.com/track/5s85Ha9iUpfjh4wB0yi7Ae) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI), [Guy Manoukian](https://open.spotify.com/artist/7cSr0LrHabJyfJRCEfoB00), [Mark F\. Angelo](https://open.spotify.com/artist/6e5TFHHFWLHjX82Vwacq6g) | [Alf Rooh \(Manoukian/Angelo Remix\)](https://open.spotify.com/album/31pWCpj4AthQfLCkPvHezl) | 2:59 | 2023-08-20 | 2023-10-20 |
 | [Alf Rooh \- ألف روح](https://open.spotify.com/track/2prFWJwT8jPBGTOlHAKx2b) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Alf Rooh \(ألف روح\)](https://open.spotify.com/album/2vqM1d2q5lvZPI6j1xf8ZE) | 2:58 | 2023-07-06 | 2023-08-09 |
-| [Alf Taheya \(Family Matter 3\)](https://open.spotify.com/track/3Gboliw6iTLJY1qKnI9pyC) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Alf Taheya \(Family Matter 3\)](https://open.spotify.com/album/49SBpALhWCPytc37Sw8o7h) | 3:23 | 2025-01-23 |  |
+| [Alf Taheya \(Family Matter 3\)](https://open.spotify.com/track/3Gboliw6iTLJY1qKnI9pyC) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Alf Taheya \(Family Matter 3\)](https://open.spotify.com/album/49SBpALhWCPytc37Sw8o7h) | 3:23 | 2025-01-23 | 2025-03-17 |
 | [Allah Yewafaa](https://open.spotify.com/track/54AXIMWDabxYyPjbR3CGDZ) | [Mohamed Chahine](https://open.spotify.com/artist/4gd9m8l0jFoPs1oPn2vpaW) | [Allah Yewafaa](https://open.spotify.com/album/5XDLX0E5OVJNVv6id3tEGf) | 3:31 | 2024-02-16 | 2024-05-03 |
 | [Alo Aleky](https://open.spotify.com/track/0zzrAsIPYKENTWOwZqYjYp) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Alo Aleky](https://open.spotify.com/album/0PpvOrpEHnxaxmzdrrpm26) | 2:58 | 2022-11-17 | 2023-02-03 |
 | [Alo Ya Albi](https://open.spotify.com/track/1x8DcXrICAz4tK96hOvHin) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Alo Ya Albi](https://open.spotify.com/album/0dDAnhpvukjscXB64M00Ad) | 2:54 | 2022-03-18 | 2022-07-11 |
@@ -386,7 +386,7 @@
 | [Habayeb Albi](https://open.spotify.com/track/1CXQ0YBCjBpNjjzPB7WCxn) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Habayeb Albi](https://open.spotify.com/album/7nC3FjyXyZtIglo9Zphvfv) | 2:58 | 2024-07-16 | 2024-09-06 |
 | [Habba Fo2](https://open.spotify.com/track/0vpfvsnG73kMqYJQLhECgc) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Habba Fo2](https://open.spotify.com/album/2qLsLY0ElXdXYY9iDiAjYw) | 2:59 | 2024-01-02 | 2024-02-08 |
 | [Habbeitak](https://open.spotify.com/track/5sWtbEcIpGB0FLzERXf113) | [Nesma Mahgoub](https://open.spotify.com/artist/68J05BuI8JQSdEwIyuBBVI), [OBADA Q](https://open.spotify.com/artist/12YFoLfEdYUglaGcUeU6ty) | [Habbeitak](https://open.spotify.com/album/78Q7pQRA2J1QEIg1NGYgWw) | 2:57 | 2024-02-13 | 2024-04-15 |
-| [Habebna](https://open.spotify.com/track/7dnOoqGBwHMHEzwgveB4sO) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Habebna](https://open.spotify.com/album/6udoWtucgo5nrmcLhRrFNR) | 4:08 | 2025-01-15 |  |
+| [Habebna](https://open.spotify.com/track/7dnOoqGBwHMHEzwgveB4sO) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Habebna](https://open.spotify.com/album/6udoWtucgo5nrmcLhRrFNR) | 4:08 | 2025-01-15 | 2025-03-17 |
 | [Habeena](https://open.spotify.com/track/4IoEukjtpg13X8pPHZidgH) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Habeena](https://open.spotify.com/album/5YeLEiEYQMMvDNC46cKLGx) | 3:18 | 2023-01-12 | 2023-01-14 |
 | [Habet Tabtaba](https://open.spotify.com/track/31l0bmTZLNaVOysinrJ2R1) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4), [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [Habet Tabtaba](https://open.spotify.com/album/3pKOzJL8yLs5sTWmze8rJW) | 4:04 | 2023-06-01 | 2023-07-14 |
 | [Habet Zekraiat](https://open.spotify.com/track/2w4Js4gM2W559oPh68SDaI) | [Mayada El Hennawy](https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz) | [Habet Zekraiat](https://open.spotify.com/album/6C407LUwJknjEg0sKQSeS3) | 4:41 | 2024-05-02 | 2024-07-04 |
@@ -919,6 +919,7 @@
 | [أحلامي مش بالليل](https://open.spotify.com/track/74ot8VQfzMdaLtNt53uwFR) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [أحلامي مش بالليل](https://open.spotify.com/album/3db6y1DVSHkcHUw84mR7F1) | 2:53 | 2022-11-03 | 2023-01-20 |
 | [أسيب نفسي وأغنى](https://open.spotify.com/track/2vPWM7HRQqv54d34itTpTS) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [أسيب نفسي وأغنى](https://open.spotify.com/album/0kg0psLhvJNYNSowHPiti6) | 4:43 | 2022-08-08 | 2022-10-28 |
 | [أصابك عشق](https://open.spotify.com/track/6h2mlePR7cOVXNZCO3LYCQ) | [El Megheny](https://open.spotify.com/artist/3mfzJJIc6jzl9FNOaNrGsV) | [أصابك عشق](https://open.spotify.com/album/5oZEdon8P2RV4sEgYS29vC) | 2:49 | 2024-12-13 | 2025-01-24 |
+| [ألف مره \( من مسلسل كامل العدد++ \)](https://open.spotify.com/track/2aZNUu6LFLD0nsppiw8f0p) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [ألف مره \( من مسلسل كامل العدد++ \)](https://open.spotify.com/album/3nHHSUiPdf5V88OgBsUSXA) | 2:38 | 2025-03-16 |  |
 | [أمانة ياقلبي](https://open.spotify.com/track/3FTEDGInbFF2kjecQsQZkb) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [أمانة ياقلبي](https://open.spotify.com/album/6OpGUC2jtawLCn4TWPV4Ny) | 3:40 | 2024-01-07 | 2024-02-14 |
 | [أنا الضمير](https://open.spotify.com/track/6rHftMLSENEU9UnC83rfGb) | [Ahmed Elseweasy](https://open.spotify.com/artist/0njKUrmrzCFy6D3813NPlk), [Mahib Sleat](https://open.spotify.com/artist/6MmPo4vru1QVS2uWhTQHT4) | [أنا الضمير](https://open.spotify.com/album/4BIxaMgT20n4334Y3Uz53R) | 3:18 | 2025-01-23 | 2025-02-21 |
 | [أنا الندل](https://open.spotify.com/track/5jnggsioZ2JbgjDZq2KrPV) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [أنا الندل](https://open.spotify.com/album/6kuuM31USrZHwLNX9xwvW7) | 2:39 | 2024-04-24 | 2024-05-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 850 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 853 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Снайпера](https://open.spotify.com/track/34nRREax6dS5rV7QJO3q9K) | [Alex Robov](https://open.spotify.com/artist/3dUX6G8rrysXN3GVdfpOBA), [Tedi Aleksandrova](https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn) | [Снайпера](https://open.spotify.com/album/1N19vBHkxvwjJvIduaKlVj) | 3:14 |
 | 50 | [Garden Of Eden](https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:59 |
 
-Snapshot ID: `L2jtIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L2o+oAAAAAAAAAAAAAAAAAAAAAAAAGVu`

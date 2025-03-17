@@ -1,12 +1,12 @@
 {
   "description": "This is Tex Tex. The essential tracks, all in one playlist.",
-  "num_followers": 9274,
+  "num_followers": 9278,
   "original_name": "This Is Tex Tex",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9NxgAAAAACdAz5/eG+yBDeZYu2fYVLF",
+  "snapshot_id": "Z9TDAAAAAADGY6JTTuk/8E4B6se6eyO0",
   "tracks": [
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Toque Magico",
-        "url": "https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 317252,
-      "name": "La Calle 16",
-      "url": "https://open.spotify.com/track/1wf4pyJiS0fkX84FLwoEPf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Vas a Acordar de Mi",
         "url": "https://open.spotify.com/album/3UWvD8vARmr4oXYLRfSXEP"
       },
@@ -583,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "*86",
-        "url": "https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA"
+        "name": "Un Toque Magico",
+        "url": "https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL"
       },
       "artists": [
         {
@@ -592,9 +576,25 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 196186,
-      "name": "Se Fue Con Otro",
-      "url": "https://open.spotify.com/track/7qwhXFE0IF2c7nCnIyRggF"
+      "duration_ms": 317252,
+      "name": "La Calle 16",
+      "url": "https://open.spotify.com/track/1wf4pyJiS0fkX84FLwoEPf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tex Tex 3",
+        "url": "https://open.spotify.com/album/3yd7QnbMmZ5uDiYb1u28Pi"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 229381,
+      "name": "Martin Rocka",
+      "url": "https://open.spotify.com/track/2yxtbkvt9biJlHxkJpN6yM"
     },
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tex Tex 3",
-        "url": "https://open.spotify.com/album/3yd7QnbMmZ5uDiYb1u28Pi"
+        "name": "*86",
+        "url": "https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 229381,
-      "name": "Martin Rocka",
-      "url": "https://open.spotify.com/track/2yxtbkvt9biJlHxkJpN6yM"
+      "duration_ms": 196186,
+      "name": "Se Fue Con Otro",
+      "url": "https://open.spotify.com/track/7qwhXFE0IF2c7nCnIyRggF"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 102217,
-      "name": "Vacas",
-      "url": "https://open.spotify.com/track/2yhXukrwoHoT2HAFAVFllc"
+      "duration_ms": 229093,
+      "name": "Deja en Paz Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5Ov9ys2XQdAuxBg8OW3Ugy"
     },
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 229093,
-      "name": "Deja en Paz Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5Ov9ys2XQdAuxBg8OW3Ugy"
+      "duration_ms": 102217,
+      "name": "Vacas",
+      "url": "https://open.spotify.com/track/2yhXukrwoHoT2HAFAVFllc"
     },
     {
       "added_at": null,

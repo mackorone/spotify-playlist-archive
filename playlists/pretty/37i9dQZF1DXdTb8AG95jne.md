@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: <br/> BAE CHUL SOO\(배철수\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: <br/> Chloe Char\(클로이 차\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,932 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,953 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kryptonite \(feat\. Henni\)](https://open.spotify.com/track/50dcsUaL1DEzuh8QlNuEpF) | [Chloe Char](https://open.spotify.com/artist/3kP9joDEb8O36na2Gd6mFJ), [Benny Char](https://open.spotify.com/artist/0fP10sGDcpc0dcfe1QoNhS), [Henni](https://open.spotify.com/artist/6nt5cp1v7eC6VFSo00EIKz) | [Kryptonite](https://open.spotify.com/album/1OF8oRoz4dzUfBrGDghif4) | 3:01 |
-| 2 | [널 쳐다볼 수 없다는 건 \(feat\. 애주레버\)](https://open.spotify.com/track/5pfn2VzX9479nIJpJimI7y) | [ONSEEON](https://open.spotify.com/artist/4cF9R9jQRn9KDSJ7NJukdy), [Azurever](https://open.spotify.com/artist/0e2qmR2yaHGVpsjwZpJ35N) | [널 쳐다볼 수 없다는 건](https://open.spotify.com/album/2C5UnsoKTOXkCStmqKoFjE) | 3:04 |
-| 3 | [Weekend Plan](https://open.spotify.com/track/6MEqLi6sAO1dNhvsIu8EBB) | [시문](https://open.spotify.com/artist/1av7TcuRUTFY08RJlMd7gt), [라라 Lara](https://open.spotify.com/artist/1FKYTUBCKMWh2JDdYdWObW) | [Weekend Plan](https://open.spotify.com/album/03MCtdcLL9qyior3POGFaC) | 2:52 |
+| 2 | [Break Up](https://open.spotify.com/track/4VaN00fKWOc8ZtYs3lc7v8) | [Yyeon](https://open.spotify.com/artist/0qmWztaNn9Nrriuo0aP4uR) | [Break Up](https://open.spotify.com/album/1tDDkdNzfpuEoukq3zrgOE) | 2:31 |
+| 3 | [Cherish](https://open.spotify.com/track/5xX9WHM9qn7zsYFKcTGTD1) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Cherish](https://open.spotify.com/album/2rIyU9oLnV4ap127MYOjL7) | 2:52 |
 | 4 | [Numb face](https://open.spotify.com/track/7HIM3fpXtx7edtpcdP1IZK) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Numb face](https://open.spotify.com/album/05vJSkIdQPRkCO6C1fbXsq) | 2:36 |
-| 5 | [Cherish](https://open.spotify.com/track/5xX9WHM9qn7zsYFKcTGTD1) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Cherish](https://open.spotify.com/album/2rIyU9oLnV4ap127MYOjL7) | 2:52 |
-| 6 | [Break Up](https://open.spotify.com/track/4VaN00fKWOc8ZtYs3lc7v8) | [Yyeon](https://open.spotify.com/artist/0qmWztaNn9Nrriuo0aP4uR) | [Break Up](https://open.spotify.com/album/1tDDkdNzfpuEoukq3zrgOE) | 2:31 |
+| 5 | [널 쳐다볼 수 없다는 건 \(feat\. 애주레버\)](https://open.spotify.com/track/5pfn2VzX9479nIJpJimI7y) | [ONSEEON](https://open.spotify.com/artist/4cF9R9jQRn9KDSJ7NJukdy), [Azurever](https://open.spotify.com/artist/0e2qmR2yaHGVpsjwZpJ35N) | [널 쳐다볼 수 없다는 건](https://open.spotify.com/album/2C5UnsoKTOXkCStmqKoFjE) | 3:04 |
+| 6 | [Weekend Plan](https://open.spotify.com/track/6MEqLi6sAO1dNhvsIu8EBB) | [시문](https://open.spotify.com/artist/1av7TcuRUTFY08RJlMd7gt), [라라 Lara](https://open.spotify.com/artist/1FKYTUBCKMWh2JDdYdWObW) | [Weekend Plan](https://open.spotify.com/album/03MCtdcLL9qyior3POGFaC) | 2:52 |
 | 7 | [Church OPPA \(feat\. BOBBY\)](https://open.spotify.com/track/7xCvtMLyJulCU5XyKBkdmm) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS), [BOBBY](https://open.spotify.com/artist/3n57zQFH0B71huZQnW6dku) | [Church OPPA](https://open.spotify.com/album/4MksleVcw0M4iYzqNWQXep) | 3:20 |
 | 8 | [Forget\-me\-not](https://open.spotify.com/track/2v6kKJwW5yBtEKOXTGa2nW) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Forget\-me\-not](https://open.spotify.com/album/0xKTK2nfIJNp3pswdDArhF) | 3:57 |
 | 9 | [Lucky \(feat\. Wonstein\)](https://open.spotify.com/track/4SuCrpZUlyOskt1mYpmDyx) | [Kim Oki](https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Hip Hop Retreat](https://open.spotify.com/album/7qmHNI4WN9SjpJjJzKpxql) | 6:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [School Day Nostalgia](https://open.spotify.com/track/5UGIaoiIUbQBNqoRhXVCAb) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [School Day Nostalgia](https://open.spotify.com/album/2XfFXZaYjsAoHwJZxkHG8r) | 3:21 |
 | 50 | [That year, That love](https://open.spotify.com/track/7gxUXbYdHZbMUf1gmeL5Vj) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [That year, That love](https://open.spotify.com/album/1WU28WOTWguO5Hl7HItAFb) | 3:08 |
 
-Snapshot ID: `Z9PfYAAAAABsGdzz6v+4mGMOYPygMQCP`
+Snapshot ID: `Z9d5GgAAAADnW//KgqAMr1YxA1JdCUrT`

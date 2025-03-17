@@ -4,7 +4,7 @@
 
 > wru? OTW!
 
-1,447 songs - 3 day 15 hr 2 min
+1,448 songs - 3 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1047,6 +1047,7 @@
 | [Raya Pop Pop](https://open.spotify.com/track/46b7q1bc3cqddrrbORs8MC) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Raya Pop Pop](https://open.spotify.com/album/4SjHtAj8DCfBzvKolcJmow) | 2:36 | 2025-02-28 | 2025-03-08 |
 | [Raya Rumah Terbuka](https://open.spotify.com/track/7L5IGb4QfgCvYW1TQ4vVYS) | [AishaHanim](https://open.spotify.com/artist/2grRug6kdQxfrDMnT1Y3Xa) | [Raya Rumah Terbuka](https://open.spotify.com/album/6RvvmdlKmECj1YfRUqSMKn) | 3:41 | 2023-04-13 | 2023-05-05 |
 | [Raya Terpaling Vibes](https://open.spotify.com/track/18RxFLQ5SDykcu7hWu8KO7) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Raya Terpaling Vibes](https://open.spotify.com/album/7l00SABmsOn9riS2lo9yJN) | 1:04 | 2025-03-07 |  |
+| [Raya ya ya](https://open.spotify.com/track/3veoUajhvh3RRu3Be1ilr8) | [Iman Troye](https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq), [Dato' Sri Aliff Syukri](https://open.spotify.com/artist/28EjmOA1xrfZfVFp9qQU0R) | [Raya ya ya](https://open.spotify.com/album/1f5dWyBEVa2XLX8vag3Wec) | 3:04 | 2025-03-07 |  |
 | [Real \(feat\. Pamungkas\)](https://open.spotify.com/track/0ASjlSVp2dyweESVaUR1Ss) | [Matter Halo](https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Nightvision \(Love Is God 8/16 Edition\)](https://open.spotify.com/album/25UbcDZ9swZeBoG7enakIj) | 4:42 | 2023-08-31 | 2023-09-08 |
 | [REALLY REALLY WANT](https://open.spotify.com/track/0bDYityuZwxxOCQIpQbs3o) | [GAC \(Gamaliél Audrey Cantika\)](https://open.spotify.com/artist/3YYdJZO7kX8nwDzN3YJzdW) | [REALLY REALLY WANT](https://open.spotify.com/album/7KSs5y6r6AgomSJMZ8N3XU) | 3:35 | 2023-07-20 | 2023-07-29 |
 | [RECKLESS](https://open.spotify.com/track/2aKOHXO2JQG9m7BImL7b0e) | [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti), [Rai Anvio](https://open.spotify.com/artist/6y4WbKZooQzBGNHGDsEG0u) | [RECKLESS](https://open.spotify.com/album/4zGdm3XwogvJ62gxsSeM77) | 3:56 | 2024-10-03 | 2025-01-11 |
@@ -1247,7 +1248,7 @@
 | [SUNYI](https://open.spotify.com/track/1UBbda9fmOcaOCkWgKK7bz) | [Joe Flizzow](https://open.spotify.com/artist/28JPqJh7jsUuxus33Kfwe7) | [SUNYI](https://open.spotify.com/album/4I7hYrZztzVYwj9dNBYYXX) | 3:52 | 2023-04-13 | 2023-05-05 |
 | [Sunyi Sepi](https://open.spotify.com/track/3MvWwT3UudBf4hE0ScyZ0L) | [Fiko Nainggolan](https://open.spotify.com/artist/0fOEDOEkZobdwo8jksF98r) | [Sunyi Sepi](https://open.spotify.com/album/4dLOnpFp2eCcLZAObRKNce) | 4:20 | 2024-01-12 | 2024-01-20 |
 | [Superstar](https://open.spotify.com/track/67PoRNvxs6jfj7f00UWOVN) | [Mojo](https://open.spotify.com/artist/1nxfzZDDm0a0msuLz0W4lx) | [Superstar](https://open.spotify.com/album/4qeHkpAdvYR2FLykm2OOcL) | 4:32 | 2023-12-01 | 2023-12-09 |
-| [Surga Menanti](https://open.spotify.com/track/4QSPX669LXh3KSKdCUMqhd) | [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W), [Mostafa Atef](https://open.spotify.com/artist/41qKm0lqT9phMXjU5ksLxN) | [Surga Menanti](https://open.spotify.com/album/63Upu2oooOHI0Jf3BQ8IGF) | 4:03 | 2025-02-28 |  |
+| [Surga Menanti](https://open.spotify.com/track/4QSPX669LXh3KSKdCUMqhd) | [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W), [Mostafa Atef](https://open.spotify.com/artist/41qKm0lqT9phMXjU5ksLxN) | [Surga Menanti](https://open.spotify.com/album/63Upu2oooOHI0Jf3BQ8IGF) | 4:03 | 2025-02-28 | 2025-03-17 |
 | [SurgaMu](https://open.spotify.com/track/32esdG9DqNblHD4iUKazgc) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Top Hits Religi UNGU](https://open.spotify.com/album/5LUvKmNlUENvnHrqDW4Xqn) | 4:18 | 2023-03-24 |  |
 | [Swag](https://open.spotify.com/track/1HbRWWqzfF55MzMpe6ZDl2) | [Jelex](https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s), [T\-LOG](https://open.spotify.com/artist/3GI8SSmtPZAluXrLexTN5u) | [Swag](https://open.spotify.com/album/1eE3dXhQI3QwvRANLjPcqp) | 1:27 | 2024-06-14 | 2024-06-22 |
 | [Sway](https://open.spotify.com/track/72jcArK2XacBC3coCyqD53) | [tylo](https://open.spotify.com/artist/0vOXId0a8VxdS7AiUoSQwI), [Pseudo](https://open.spotify.com/artist/4HqIcgpeGKabzBYczmfFgZ) | [Sway](https://open.spotify.com/album/0Em41Gp1puLBGiVXh0BmxZ) | 3:14 | 2024-05-31 | 2024-06-13 |

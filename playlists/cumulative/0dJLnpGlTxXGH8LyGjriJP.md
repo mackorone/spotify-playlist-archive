@@ -4,7 +4,7 @@
 
 > 
 
-838 songs - 1 day 18 hr 50 min
+839 songs - 1 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [GOTHAM](https://open.spotify.com/track/0pvmMTbbvdCCOqdCqW2mV4) | [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [GOTHAM](https://open.spotify.com/album/6y5ffr8O2xL95uwykeM0sT) | 2:14 | 2022-12-18 |  |
 | [Grace \(feat\. 42 Dugg\)](https://open.spotify.com/track/01JMnRUs2YOK6DDpdQASGY) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 3:23 | 2023-02-14 |  |
 | [Grave Digger \(feat\. Scorey\)](https://open.spotify.com/track/4iv96TbDra9Q1KYp10m39U) | [Shoebox Baby](https://open.spotify.com/artist/3GXyMzBhozW9CaHPg54y9f), [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Grave Digger \(feat\. Scorey\)](https://open.spotify.com/album/0wouYfibuQPhU2AkOOaQSm) | 2:50 | 2022-09-11 |  |
+| [GREECE \(feat\. Drake\)](https://open.spotify.com/track/35RJhm1pEovTBwnNR0zWad) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [GREECE \(feat\. Drake\)](https://open.spotify.com/album/3O6ywzP5LE5msmuBBTpaIN) | 3:38 | 2025-03-16 |  |
 | [Green Dot](https://open.spotify.com/track/7jGhydOLVj84A9rKheLIu6) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Green Dot](https://open.spotify.com/album/6A7OQQ4q3TD6PNPcmtTFuK) | 3:06 | 2022-05-25 |  |
 | [Grown Man](https://open.spotify.com/track/5VKG8ary0JW6iKemhmznzS) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [Grown Man](https://open.spotify.com/album/282shVOXRHSfBqexKhADTN) | 1:46 | 2023-03-31 |  |
 | [GTA](https://open.spotify.com/track/4XF9fk0STp9hx8xn5Suwpz) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:53 | 2024-03-25 |  |

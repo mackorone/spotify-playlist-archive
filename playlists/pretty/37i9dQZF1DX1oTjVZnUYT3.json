@@ -1,6 +1,6 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 467926,
+  "num_followers": 467949,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Hello mundo (Ao vivo)",
-        "url": "https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw"
+        "name": "Luar",
+        "url": "https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 157494,
-      "name": "Invocada (Participa\u00e7\u00e3o especial de L\u00e9o Santana) - Ao vivo",
-      "url": "https://open.spotify.com/track/4k20Ie47EcWtS4wMBn8w8S"
+      "duration_ms": 266173,
+      "name": "Palco",
+      "url": "https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -271,6 +267,26 @@
       "duration_ms": 156502,
       "name": "\u00c1gua de Beber",
       "url": "https://open.spotify.com/track/1IkE3IsuP4HNU073wsE6T5"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Hello mundo (Ao vivo)",
+        "url": "https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 157494,
+      "name": "Invocada (Participa\u00e7\u00e3o especial de L\u00e9o Santana) - Ao vivo",
+      "url": "https://open.spotify.com/track/4k20Ie47EcWtS4wMBn8w8S"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -307,34 +323,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Luar",
-        "url": "https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L"
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
       "artists": [
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
         }
       ],
-      "duration_ms": 266173,
-      "name": "Palco",
-      "url": "https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "O Canto da Cidade",
-        "url": "https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl"
-      },
-      "artists": [
-        {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "O Canto da Cidade",
-      "url": "https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6"
+      "duration_ms": 232200,
+      "name": "A Menina Dan\u00e7a",
+      "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -391,18 +391,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+        "name": "O Canto da Cidade",
+        "url": "https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl"
       },
       "artists": [
         {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
         }
       ],
-      "duration_ms": 232200,
-      "name": "A Menina Dan\u00e7a",
-      "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
+      "duration_ms": 204093,
+      "name": "O Canto da Cidade",
+      "url": "https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -451,22 +451,6 @@
       "duration_ms": 257786,
       "name": "Partido alto",
       "url": "https://open.spotify.com/track/6y5s9BzDRNWNVgJFeAjOld"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "20 Grandes Sucessos De Alceu Valen\u00e7a",
-        "url": "https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Tropicana (Morena Tropicana)",
-      "url": "https://open.spotify.com/track/54BLy0zSiBUOINjOwMC3M2"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -555,6 +539,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "20 Grandes Sucessos De Alceu Valen\u00e7a",
+        "url": "https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Tropicana (Morena Tropicana)",
+      "url": "https://open.spotify.com/track/54BLy0zSiBUOINjOwMC3M2"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Samba de Raiz - Ao Vivo",
         "url": "https://open.spotify.com/album/6T58aKZn3iMSizSYaF2pTc"
       },
@@ -583,30 +583,6 @@
       "duration_ms": 178613,
       "name": "O Mar Serenou",
       "url": "https://open.spotify.com/track/1N10tJPyQ70QcMLxhobSbJ"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        },
-        {
-          "name": "Elba Ramalho",
-          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
-        },
-        {
-          "name": "Geraldo Azevedo",
-          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
-        }
-      ],
-      "duration_ms": 306853,
-      "name": "Frevo Mulher - Ao Vivo",
-      "url": "https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -691,6 +667,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Fruto Proibido",
+        "url": "https://open.spotify.com/album/48SnM2iORxlYTyCefwJZvs"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        }
+      ],
+      "duration_ms": 338933,
+      "name": "Ovelha Negra",
+      "url": "https://open.spotify.com/track/5xpumjGGcdWvqWxYVrd7jI"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Acabou Chorare",
         "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
@@ -707,18 +699,26 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Fruto Proibido",
-        "url": "https://open.spotify.com/album/48SnM2iORxlYTyCefwJZvs"
+        "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
       },
       "artists": [
         {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        },
+        {
+          "name": "Elba Ramalho",
+          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
+        },
+        {
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
         }
       ],
-      "duration_ms": 338933,
-      "name": "Ovelha Negra",
-      "url": "https://open.spotify.com/track/5xpumjGGcdWvqWxYVrd7jI"
+      "duration_ms": 306853,
+      "name": "Frevo Mulher - Ao Vivo",
+      "url": "https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -803,22 +803,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Vamos Pro Mundo",
-        "url": "https://open.spotify.com/album/1g7A2Bmagu0IelCeIYDF2k"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Na Cad\u00eancia Do Samba",
-      "url": "https://open.spotify.com/track/11gIxacOHnCVPL0dZ3xOnC"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Chega",
         "url": "https://open.spotify.com/album/6TfxuhBfZuvtrP5Zfx3w8m"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 248480,
       "name": "\u00c0 Francesa",
       "url": "https://open.spotify.com/track/3dRU9xurI1QoVDs9FUHenD"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Vamos Pro Mundo",
+        "url": "https://open.spotify.com/album/1g7A2Bmagu0IelCeIYDF2k"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Na Cad\u00eancia Do Samba",
+      "url": "https://open.spotify.com/track/11gIxacOHnCVPL0dZ3xOnC"
     },
     {
       "added_at": "2021-11-26 03:18:52",

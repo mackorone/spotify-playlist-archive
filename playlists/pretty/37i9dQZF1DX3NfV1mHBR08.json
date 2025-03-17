@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 15143,
+  "num_followers": 15149,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2024-10-23 08:31:15",
       "album": {
+        "name": "Take You Home - SM STATION",
+        "url": "https://open.spotify.com/album/35xEwaC2WlMzkllTa3XwhK"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 234954,
+      "name": "Take You Home",
+      "url": "https://open.spotify.com/track/54Nx0KMNIIA0tAPewmd69X"
+    },
+    {
+      "added_at": "2024-10-23 08:31:15",
+      "album": {
         "name": "Palette",
         "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
       },
@@ -191,38 +207,6 @@
       "duration_ms": 217412,
       "name": "Palette (feat. G-DRAGON)",
       "url": "https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y"
-    },
-    {
-      "added_at": "2024-10-23 08:31:15",
-      "album": {
-        "name": "BLOSSOM - THE 3RD MINI ALBUM",
-        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 182253,
-      "name": "Good Night",
-      "url": "https://open.spotify.com/track/4UeyAaK7d1nxuW5kFjZAlw"
-    },
-    {
-      "added_at": "2024-10-23 08:31:15",
-      "album": {
-        "name": "Take You Home - SM STATION",
-        "url": "https://open.spotify.com/album/35xEwaC2WlMzkllTa3XwhK"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 234954,
-      "name": "Take You Home",
-      "url": "https://open.spotify.com/track/54Nx0KMNIIA0tAPewmd69X"
     },
     {
       "added_at": "2024-10-23 08:31:15",
@@ -263,6 +247,22 @@
       "duration_ms": 194439,
       "name": "I will listen never alone",
       "url": "https://open.spotify.com/track/5Ny8dTK7mUgpL04RV07gee"
+    },
+    {
+      "added_at": "2024-10-23 08:31:15",
+      "album": {
+        "name": "BLOSSOM - THE 3RD MINI ALBUM",
+        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 182253,
+      "name": "Good Night",
+      "url": "https://open.spotify.com/track/4UeyAaK7d1nxuW5kFjZAlw"
     },
     {
       "added_at": "2024-10-23 08:31:15",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-10-23 08:31:15",
       "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Through the Night",
-      "url": "https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd"
-    },
-    {
-      "added_at": "2024-10-23 08:31:15",
-      "album": {
         "name": "Webtoon YEONNOM OST Part.1",
         "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 240009,
       "name": "Way Back Home",
       "url": "https://open.spotify.com/track/2YeozkaCbAYWOdjMKahrjU"
+    },
+    {
+      "added_at": "2024-10-23 08:31:15",
+      "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Through the Night",
+      "url": "https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd"
     },
     {
       "added_at": "2024-10-23 08:31:15",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-10-23 08:31:15",
       "album": {
-        "name": "Love poem",
-        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 258238,
-      "name": "Love poem",
-      "url": "https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0"
-    },
-    {
-      "added_at": "2024-10-23 08:31:15",
-      "album": {
         "name": "Extraordinary Attorney Woo (Original Television SoundTrack) Pt. 1",
         "url": "https://open.spotify.com/album/1JNQlhazNG0N5gK1NoLAuK"
       },
@@ -579,22 +563,18 @@
     {
       "added_at": "2024-10-23 08:31:15",
       "album": {
-        "name": "Workaholic (feat. ASH ISLAND)",
-        "url": "https://open.spotify.com/album/5Rxn1cnJLLf8qgYJzB4KLu"
+        "name": "Love poem",
+        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
       },
       "artists": [
         {
-          "name": "h3hyeon",
-          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
-        },
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 193986,
-      "name": "Workaholic (feat. ASH ISLAND)",
-      "url": "https://open.spotify.com/track/5arR24jdVitzSURvv5hwIq"
+      "duration_ms": 258238,
+      "name": "Love poem",
+      "url": "https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0"
     },
     {
       "added_at": "2024-10-23 08:31:15",
@@ -611,6 +591,26 @@
       "duration_ms": 247063,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/23F5idO5E81O3VatxedjQM"
+    },
+    {
+      "added_at": "2024-10-23 08:31:15",
+      "album": {
+        "name": "Workaholic (feat. ASH ISLAND)",
+        "url": "https://open.spotify.com/album/5Rxn1cnJLLf8qgYJzB4KLu"
+      },
+      "artists": [
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 193986,
+      "name": "Workaholic (feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/5arR24jdVitzSURvv5hwIq"
     },
     {
       "added_at": "2024-10-23 08:31:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 > 2024 RADAR登場！持續發掘世一超新聲！Cover: Joya
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,209 likes - 69 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,212 likes - 69 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

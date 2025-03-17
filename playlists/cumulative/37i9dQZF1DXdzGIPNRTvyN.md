@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-294 songs - 13 hr 54 min
+295 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Ballerina](https://open.spotify.com/track/2rvd4QBrSRXmgzvbzBz1k7) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 1:47 | 2023-01-24 | 2024-07-17 |
 | [Bed of Clouds \(by a Babbling Brook\)](https://open.spotify.com/track/5G9TdCSs9GPwGSrwGjfIPo) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [River Peace](https://open.spotify.com/album/78qKa5xSG1kJaoi5nSo2NZ) | 2:44 | 2024-03-05 |  |
 | [Bel Flusso](https://open.spotify.com/track/5G9elfgCYkKL5fPCfKP6eD) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Bel Flusso](https://open.spotify.com/album/2E43nIu2dU5K0oEkgJJwo2) | 3:38 | 2023-05-19 |  |
+| [Blue Shadows](https://open.spotify.com/track/1S5UW31xDfoNW3Tc7rNyKp) | [Maira](https://open.spotify.com/artist/6x0Xdy7LgcYtyIWBG7CA04) | [Blue Shadows](https://open.spotify.com/album/1Iy98GEoDPSUJHx6iIKh5E) | 2:52 | 2025-03-14 |  |
 | [Bonvoya](https://open.spotify.com/track/312nTGasaGeNatMGWsjc56) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Bonvoya](https://open.spotify.com/album/0WzgkSpotQa1C2cDhrJDu1) | 2:37 | 2024-10-03 |  |
 | [Botanical Creek](https://open.spotify.com/track/0yprfzL1FDEhQ2q0ez80o4) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Botanical Creek](https://open.spotify.com/album/1WVPOp90EnS4O7jVvHxatZ) | 2:54 | 2024-11-11 |  |
 | [Boy](https://open.spotify.com/track/6onnyQliInBgkmiKD01kzX) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 2:42 | 2023-01-24 | 2024-11-29 |
@@ -190,7 +191,7 @@
 | [Oasis](https://open.spotify.com/track/7C8Rz0cs00PxqLFNK8M7Ni) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Oasis](https://open.spotify.com/album/1MM6e5be6yMO3nFcobJFDQ) | 2:04 | 2023-08-18 |  |
 | [Only you](https://open.spotify.com/track/3CqQsTiEYjy3LQXvxmdBws) | [Moon Swan](https://open.spotify.com/artist/2VGICkSc7ni1sr0orWXLo0) | [Only You](https://open.spotify.com/album/12UfG7di9fD2S65HGnlslw) | 3:00 | 2023-07-28 |  |
 | [Open Windows](https://open.spotify.com/track/0haM4uUy5Gl0qVdyn6csKG) | [Leonore Baldwin](https://open.spotify.com/artist/6ZlHe1gzZkHFr83kgRkxNA) | [Open Windows](https://open.spotify.com/album/2ieEchgcw6pTWoQSpNPDt7) | 2:42 | 2023-01-24 | 2024-08-23 |
-| [Oran Beinne](https://open.spotify.com/track/4n1CPCzzXKeiZxlEbIjlCX) | [Aisher Rami](https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ) | [Oran Beinne](https://open.spotify.com/album/34rIpAW5yFPTcP3Fbpkszx) | 2:40 | 2023-10-26 |  |
+| [Oran Beinne](https://open.spotify.com/track/4n1CPCzzXKeiZxlEbIjlCX) | [Aisher Rami](https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ) | [Oran Beinne](https://open.spotify.com/album/34rIpAW5yFPTcP3Fbpkszx) | 2:40 | 2023-10-26 | 2025-03-17 |
 | [Orange Sky \(Nature\)](https://open.spotify.com/track/5IulPk0sJRudaIxh5JbMgz) | [Clyde Price](https://open.spotify.com/artist/4xt2fTrl6aOgGVoVaeuh2Y) | [Orange Sky \(Meditation\)](https://open.spotify.com/album/3w2N8w1puVbjmFDp5kI54h) | 2:38 | 2023-09-28 |  |
 | [Organica](https://open.spotify.com/track/4Xuh7a0a5z0WbI6SZ0v5Co) | [Pouring Voices](https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF) | [Organica](https://open.spotify.com/album/2EvzFQ2SIe2gvNGtb71MwT) | 3:12 | 2024-06-03 |  |
 | [Panacea](https://open.spotify.com/track/3fmRwSmm3MkItB5cUMr4YE) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Panacea](https://open.spotify.com/album/2bLZwZtd96totLeWRYrq2f) | 2:46 | 2024-05-01 |  |

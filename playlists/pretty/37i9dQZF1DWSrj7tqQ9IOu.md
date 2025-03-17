@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : TheFrenchKris
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,978 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,979 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 13 | [Marseille](https://open.spotify.com/track/43qx8PEmvj1r7xO9BKjS3a) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Divinations](https://open.spotify.com/album/2uISRQaBpbTvGQL67DEFcV) | 3:56 |
 | 14 | [Citron](https://open.spotify.com/track/0S8xh81souCXhlkILDEkUk) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Citron](https://open.spotify.com/album/1asKuOHTA7Ps1PRLfMjS6I) | 3:25 |
 | 15 | [Love on Me \(Feat\. Later.\)](https://open.spotify.com/track/7fwa6nEqblfm4R4m21VOXi) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Blue Jeans](https://open.spotify.com/album/16H0zM50MAE4cHs9VKf958) | 3:05 |
-| 16 | [Instant magique](https://open.spotify.com/track/4Rq211xDDfyUGgNDnTBDzr) | [Blasé](https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc) | [BLABLABLA](https://open.spotify.com/album/01ht1SDPr9znFswq69J66Y) | 4:16 |
+| 16 | [Instant Magique](https://open.spotify.com/track/4Rq211xDDfyUGgNDnTBDzr) | [Blasé](https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc) | [BLABLABLA](https://open.spotify.com/album/01ht1SDPr9znFswq69J66Y) | 4:16 |
 | 17 | [Fou de toi](https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Fou de toi](https://open.spotify.com/album/4BrmiAZdqo2nXSLt9v2fVS) | 2:20 |
 | 18 | [Honeymoon](https://open.spotify.com/track/3JL428OmCG6TrjaOLqxF5R) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV) | [Honeymoon](https://open.spotify.com/album/0z0SNW1HzvqWaX48gUwK6Y) | 4:05 |
 | 19 | [Storytelling](https://open.spotify.com/track/5MhO98gtLl7YBTkHstcIn7) | [Clio](https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW) | [Storytelling](https://open.spotify.com/album/4ci3JRgERR0EXh4mlQaL7r) | 4:18 |

@@ -1,6 +1,6 @@
 {
   "description": "el primer tonto de tu vida quiero ser \ud83e\udd7a\ud83e\udd40\ud83d\ude2d",
-  "num_followers": 124835,
+  "num_followers": 125027,
   "original_name": "Sonidos del Ayer",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Y Para Siempre ...",
-        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 208066,
-      "name": "A Donde Vayas",
-      "url": "https://open.spotify.com/track/3yb8pakJMZzfiK7siLZLUM"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
         "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
       },
@@ -167,54 +151,6 @@
       "duration_ms": 177853,
       "name": "Supe Perder",
       "url": "https://open.spotify.com/track/6NUoNxL3tWnICLhFQ5obEW"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
-        "name": "Cl\u00e1sicos Latinos",
-        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
-        }
-      ],
-      "duration_ms": 243573,
-      "name": "Y Volver\u00e9 - Remastered 1994",
-      "url": "https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
-        "name": "Salvaje y Tierno",
-        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 140133,
-      "name": "Nunca Voy a Olvidarte",
-      "url": "https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
-        "name": "Canta Trovador",
-        "url": "https://open.spotify.com/album/5N2NkUNtknVxG1BtWy45U8"
-      },
-      "artists": [
-        {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "Te He Prometido",
-      "url": "https://open.spotify.com/track/7Et3UkjbCjRhRaACPBXRQg"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -235,8 +171,24 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Yo Te Necesito",
-        "url": "https://open.spotify.com/album/3hEe5rX51oJiXS3Lv9Yeiz"
+        "name": "Cl\u00e1sicos Latinos",
+        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        }
+      ],
+      "duration_ms": 243573,
+      "name": "Y Volver\u00e9 - Remastered 1994",
+      "url": "https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Y Para Siempre ...",
+        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
       },
       "artists": [
         {
@@ -244,9 +196,41 @@
           "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 178240,
-      "name": "Yo Te Necesito",
-      "url": "https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA"
+      "duration_ms": 208066,
+      "name": "A Donde Vayas",
+      "url": "https://open.spotify.com/track/3yb8pakJMZzfiK7siLZLUM"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Canta Trovador",
+        "url": "https://open.spotify.com/album/5N2NkUNtknVxG1BtWy45U8"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "Te He Prometido",
+      "url": "https://open.spotify.com/track/7Et3UkjbCjRhRaACPBXRQg"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Salvaje y Tierno",
+        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 140133,
+      "name": "Nunca Voy a Olvidarte",
+      "url": "https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -319,18 +303,18 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Fuiste M\u00eda un Verano",
-        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
+        "name": "Tu \u00daltima Canci\u00f3n",
+        "url": "https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa"
       },
       "artists": [
         {
-          "name": "Leonardo Favio",
-          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
         }
       ],
-      "duration_ms": 199013,
-      "name": "O Quiz\u00e1s Simplemente Le Regale una Rosa",
-      "url": "https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv"
+      "duration_ms": 262333,
+      "name": "Tu \u00daltima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/7dWSrvzawBZPa7VVeHZBn7"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -351,8 +335,8 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Me Volvi A Acordar De Ti",
-        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+        "name": "Yo Te Necesito",
+        "url": "https://open.spotify.com/album/3hEe5rX51oJiXS3Lv9Yeiz"
       },
       "artists": [
         {
@@ -360,25 +344,25 @@
           "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 207186,
-      "name": "Me Volv\u00ed A Acordar De Ti",
-      "url": "https://open.spotify.com/track/6n8Dl1KMjFoUIF9mzto4VP"
+      "duration_ms": 178240,
+      "name": "Yo Te Necesito",
+      "url": "https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA"
     },
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Tu \u00daltima Canci\u00f3n",
-        "url": "https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa"
+        "name": "Solo Baladas",
+        "url": "https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh"
       },
       "artists": [
         {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
         }
       ],
-      "duration_ms": 262333,
-      "name": "Tu \u00daltima Canci\u00f3n",
-      "url": "https://open.spotify.com/track/7dWSrvzawBZPa7VVeHZBn7"
+      "duration_ms": 206000,
+      "name": "Palabras Tristes",
+      "url": "https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -399,18 +383,18 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Solo Baladas",
-        "url": "https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh"
+        "name": "Fuiste M\u00eda un Verano",
+        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
       },
       "artists": [
         {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+          "name": "Leonardo Favio",
+          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Palabras Tristes",
-      "url": "https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw"
+      "duration_ms": 199013,
+      "name": "O Quiz\u00e1s Simplemente Le Regale una Rosa",
+      "url": "https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -447,6 +431,22 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
+        "name": "El Fen\u00f3meno",
+        "url": "https://open.spotify.com/album/7ANVnqecz5GSEmVcYOog6c"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "duration_ms": 159213,
+      "name": "Qu\u00e9 Tiene la Ni\u00f1a",
+      "url": "https://open.spotify.com/track/68tjkySJsysjABJ5HATZLR"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
         "name": "\u00daltimas Noticias",
         "url": "https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177"
       },
@@ -463,6 +463,22 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 207186,
+      "name": "Me Volv\u00ed A Acordar De Ti",
+      "url": "https://open.spotify.com/track/6n8Dl1KMjFoUIF9mzto4VP"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
         "name": "Serie 32: Yndio",
         "url": "https://open.spotify.com/album/0O3HWF8wuFCxwci1hC5UhE"
       },
@@ -475,38 +491,6 @@
       "duration_ms": 207586,
       "name": "Dame Un Beso Y Dime Adi\u00f3s",
       "url": "https://open.spotify.com/track/6XktzSnvdfStmmHIvhjVei"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
-        "name": "Si Me Recuerdas",
-        "url": "https://open.spotify.com/album/0HtYh5CyT365ONA1d46IRC"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 286400,
-      "name": "Tus Mentiras",
-      "url": "https://open.spotify.com/track/3MoQ3YG2Vy3bg9m4RRWvVD"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
-        "name": "El Fen\u00f3meno",
-        "url": "https://open.spotify.com/album/7ANVnqecz5GSEmVcYOog6c"
-      },
-      "artists": [
-        {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        }
-      ],
-      "duration_ms": 159213,
-      "name": "Qu\u00e9 Tiene la Ni\u00f1a",
-      "url": "https://open.spotify.com/track/68tjkySJsysjABJ5HATZLR"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -543,22 +527,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Y Por Esa Calle Vive",
-        "url": "https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA"
-      },
-      "artists": [
-        {
-          "name": "Los Baron De Apodaca",
-          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Y Por Esa Calle Vive",
-      "url": "https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "En Su Punto",
         "url": "https://open.spotify.com/album/0ph5nQiD5JvQHBC0AsKvTJ"
       },
@@ -571,6 +539,22 @@
       "duration_ms": 233266,
       "name": "Rosas Blancas",
       "url": "https://open.spotify.com/track/4D4dwuskd2c7Keg0VcQwN3"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Y Por Esa Calle Vive",
+        "url": "https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA"
+      },
+      "artists": [
+        {
+          "name": "Los Baron De Apodaca",
+          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Y Por Esa Calle Vive",
+      "url": "https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -591,18 +575,34 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "A Tu Recuerdo",
-        "url": "https://open.spotify.com/album/3lM4QDtuqPnVFLDfjNtzdY"
+        "name": "Si Me Recuerdas",
+        "url": "https://open.spotify.com/album/0HtYh5CyT365ONA1d46IRC"
       },
       "artists": [
         {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 206386,
-      "name": "A Tu Recuerdo",
-      "url": "https://open.spotify.com/track/3SZ5Q0KLVIIFKcXIKXb295"
+      "duration_ms": 286400,
+      "name": "Tus Mentiras",
+      "url": "https://open.spotify.com/track/3MoQ3YG2Vy3bg9m4RRWvVD"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Exitos Con Mariachi",
+        "url": "https://open.spotify.com/album/6F03Kjdql6MfZnNFIIH3zy"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "duration_ms": 183640,
+      "name": "Esa Pared",
+      "url": "https://open.spotify.com/track/2D7QsEzkNUzzFKqIFmvXcY"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -639,38 +639,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Vive",
-        "url": "https://open.spotify.com/album/5bGjmZEW8yxGggKMDulFPN"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Maria Napole\u00f3n",
-          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Despues De Tanto",
-      "url": "https://open.spotify.com/track/3nWYPT891FrWJTpdxLG4Xj"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
-        "name": "Exitos Con Mariachi",
-        "url": "https://open.spotify.com/album/6F03Kjdql6MfZnNFIIH3zy"
-      },
-      "artists": [
-        {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        }
-      ],
-      "duration_ms": 183640,
-      "name": "Esa Pared",
-      "url": "https://open.spotify.com/track/2D7QsEzkNUzzFKqIFmvXcY"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Los Exitos de Los Terricolas",
         "url": "https://open.spotify.com/album/0Unjdke7MtUvhko4pos0uG"
       },
@@ -683,6 +651,38 @@
       "duration_ms": 245880,
       "name": "Luto En Mi Alma",
       "url": "https://open.spotify.com/track/75losSBec1tZJmJb4pzURW"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "A Tu Recuerdo",
+        "url": "https://open.spotify.com/album/3lM4QDtuqPnVFLDfjNtzdY"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        }
+      ],
+      "duration_ms": 206386,
+      "name": "A Tu Recuerdo",
+      "url": "https://open.spotify.com/track/3SZ5Q0KLVIIFKcXIKXb295"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/5bGjmZEW8yxGggKMDulFPN"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Maria Napole\u00f3n",
+          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "Despues De Tanto",
+      "url": "https://open.spotify.com/track/3nWYPT891FrWJTpdxLG4Xj"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -735,38 +735,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "15 Exitos, Vol. I",
-        "url": "https://open.spotify.com/album/7uZRZ7Y3QgnLe0hrfAHgFr"
-      },
-      "artists": [
-        {
-          "name": "Los Caminantes",
-          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
-        }
-      ],
-      "duration_ms": 165960,
-      "name": "\u00c1ngel de la Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/7rcVxm6J2GC1Wg3ucPpFyH"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
-        "name": "Solo Para Ti",
-        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
-      },
-      "artists": [
-        {
-          "name": "Los Strwck",
-          "url": "https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Quien",
-      "url": "https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Una Carta",
         "url": "https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T"
       },
@@ -783,6 +751,22 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
+        "name": "15 Exitos, Vol. I",
+        "url": "https://open.spotify.com/album/7uZRZ7Y3QgnLe0hrfAHgFr"
+      },
+      "artists": [
+        {
+          "name": "Los Caminantes",
+          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
+        }
+      ],
+      "duration_ms": 165960,
+      "name": "\u00c1ngel de la Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/7rcVxm6J2GC1Wg3ucPpFyH"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
         "name": "Antolog\u00eda. . . Los Solitarios",
         "url": "https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 173506,
       "name": "Nada de tu amor",
       "url": "https://open.spotify.com/track/3N7oZZG0sPkdBITPI7LwYf"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Solo Para Ti",
+        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
+      },
+      "artists": [
+        {
+          "name": "Los Strwck",
+          "url": "https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Quien",
+      "url": "https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -879,6 +879,38 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
+        "name": "Una Carta",
+        "url": "https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        }
+      ],
+      "duration_ms": 204916,
+      "name": "Una Carta",
+      "url": "https://open.spotify.com/track/05tqXIvjzVRvR7IHl19NxS"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "25 Exitos",
+        "url": "https://open.spotify.com/album/3vhcKso4jXKeXF5TfJDNwo"
+      },
+      "artists": [
+        {
+          "name": "Los Solitarios",
+          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
+        }
+      ],
+      "duration_ms": 171213,
+      "name": "Ya se va",
+      "url": "https://open.spotify.com/track/2YHivNAfXw6rE6hdFcdCsJ"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
         "name": "Juanello",
         "url": "https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj"
       },
@@ -911,22 +943,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Una Carta",
-        "url": "https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T"
-      },
-      "artists": [
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        }
-      ],
-      "duration_ms": 204916,
-      "name": "Una Carta",
-      "url": "https://open.spotify.com/track/05tqXIvjzVRvR7IHl19NxS"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
         "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 212253,
       "name": "Dos Cartas y una Flor",
       "url": "https://open.spotify.com/track/08ewluhsdwbAnooftJw0ly"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
-        "name": "25 Exitos",
-        "url": "https://open.spotify.com/album/3vhcKso4jXKeXF5TfJDNwo"
-      },
-      "artists": [
-        {
-          "name": "Los Solitarios",
-          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
-        }
-      ],
-      "duration_ms": 171213,
-      "name": "Ya se va",
-      "url": "https://open.spotify.com/track/2YHivNAfXw6rE6hdFcdCsJ"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Serie Diamante (USA)",
-        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
-      },
-      "artists": [
-        {
-          "name": "Los Solitarios",
-          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "Nunca digas",
-      "url": "https://open.spotify.com/track/4pMyhL7qpkgIquLtn8ukUa"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "15 Exitos De Los Silver",
         "url": "https://open.spotify.com/album/02AOEqMXKTeyT91mm7VXx1"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 190840,
       "name": "Tri\u00e1ngulo",
       "url": "https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Serie Diamante (USA)",
+        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
+      },
+      "artists": [
+        {
+          "name": "Los Solitarios",
+          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "Nunca digas",
+      "url": "https://open.spotify.com/track/4pMyhL7qpkgIquLtn8ukUa"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
+        "name": "S\u00f3lo para enamorados",
+        "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
+      },
+      "artists": [
+        {
+          "name": "Los Baby's",
+          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "Por qu\u00e9?",
+      "url": "https://open.spotify.com/track/5RXdPnVu0Re9XvKo9v6Wx4"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
         "name": "Homenaje",
         "url": "https://open.spotify.com/album/4zTKmaPE1ExcLpq9L5FGYd"
       },
@@ -1379,18 +1395,18 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "S\u00f3lo para enamorados",
-        "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
+        "name": "Mano A Mano Volumen 2",
+        "url": "https://open.spotify.com/album/711RytcGqUZWMK90seBzdV"
       },
       "artists": [
         {
-          "name": "Los Baby's",
-          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
+          "name": "Yndio",
+          "url": "https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg"
         }
       ],
-      "duration_ms": 183693,
-      "name": "Por qu\u00e9?",
-      "url": "https://open.spotify.com/track/5RXdPnVu0Re9XvKo9v6Wx4"
+      "duration_ms": 169440,
+      "name": "Como Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/4cr9cfUYbIwuhqzhF9dpIZ"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1427,38 +1443,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Mano A Mano Volumen 2",
-        "url": "https://open.spotify.com/album/711RytcGqUZWMK90seBzdV"
-      },
-      "artists": [
-        {
-          "name": "Yndio",
-          "url": "https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "Como Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/4cr9cfUYbIwuhqzhF9dpIZ"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
-        "name": "Discograf\u00eda Completa Vol. 14",
-        "url": "https://open.spotify.com/album/5yQSPKGmlTssV2xP9NHqgs"
-      },
-      "artists": [
-        {
-          "name": "Los Iracundos",
-          "url": "https://open.spotify.com/artist/0xpMy6DeMBWX8zTURxB4h5"
-        }
-      ],
-      "duration_ms": 241080,
-      "name": "Apr\u00f3ntate a Vivir",
-      "url": "https://open.spotify.com/track/6AV4j0mfkuG8ugLGZToS4I"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "25 A\u00f1os De Fama",
         "url": "https://open.spotify.com/album/7siu4Zgk4UKPWbRr7v1iZw"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 175293,
       "name": "Tu Tienes Que Vivir Conmigo",
       "url": "https://open.spotify.com/track/57MsWWE95Vtn8jtmIiDSXl"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Antolog\u00eda...Los Baby's",
+        "url": "https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV"
+      },
+      "artists": [
+        {
+          "name": "Los Baby's",
+          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
+        }
+      ],
+      "duration_ms": 163906,
+      "name": "Mi loca pasi\u00f3n",
+      "url": "https://open.spotify.com/track/421JPp4bSpY5wJh6dB6Iuu"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1523,34 +1523,18 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Lo Mejor De Maria Conchita Alonso",
-        "url": "https://open.spotify.com/album/3jG74yZBWZx6bfyDCYk81x"
+        "name": "Discograf\u00eda Completa Vol. 14",
+        "url": "https://open.spotify.com/album/5yQSPKGmlTssV2xP9NHqgs"
       },
       "artists": [
         {
-          "name": "Maria Conchita Alonso",
-          "url": "https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9"
+          "name": "Los Iracundos",
+          "url": "https://open.spotify.com/artist/0xpMy6DeMBWX8zTURxB4h5"
         }
       ],
-      "duration_ms": 258573,
-      "name": "Acar\u00edciame",
-      "url": "https://open.spotify.com/track/36AZfm9TMpqDe0a97eQHZ5"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
-        "name": "Antolog\u00eda...Los Baby's",
-        "url": "https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV"
-      },
-      "artists": [
-        {
-          "name": "Los Baby's",
-          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
-        }
-      ],
-      "duration_ms": 163906,
-      "name": "Mi loca pasi\u00f3n",
-      "url": "https://open.spotify.com/track/421JPp4bSpY5wJh6dB6Iuu"
+      "duration_ms": 241080,
+      "name": "Apr\u00f3ntate a Vivir",
+      "url": "https://open.spotify.com/track/6AV4j0mfkuG8ugLGZToS4I"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
+        "name": "Lo Mejor De Maria Conchita Alonso",
+        "url": "https://open.spotify.com/album/3jG74yZBWZx6bfyDCYk81x"
+      },
+      "artists": [
+        {
+          "name": "Maria Conchita Alonso",
+          "url": "https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9"
+        }
+      ],
+      "duration_ms": 258573,
+      "name": "Acar\u00edciame",
+      "url": "https://open.spotify.com/track/36AZfm9TMpqDe0a97eQHZ5"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
         "name": "Cura Local (En Vivo)",
         "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
       },
@@ -1587,6 +1587,22 @@
       "duration_ms": 239310,
       "name": "Dame un Beso y Dime Adios - En Vivo",
       "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Una Sola Caida Y Las Abandonadas",
+        "url": "https://open.spotify.com/album/0xrskhlBwinqWkw3ePezNv"
+      },
+      "artists": [
+        {
+          "name": "Los Muecas",
+          "url": "https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b"
+        }
+      ],
+      "duration_ms": 176226,
+      "name": "Una Sola Ca\u00edda",
+      "url": "https://open.spotify.com/track/0EGNdaIWoY4JrVawzWCWb5"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1619,22 +1635,6 @@
       "duration_ms": 257573,
       "name": "Hipocres\u00eda",
       "url": "https://open.spotify.com/track/06eRk3yaU1C6gOraResEeF"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
-        "name": "Una Sola Caida Y Las Abandonadas",
-        "url": "https://open.spotify.com/album/0xrskhlBwinqWkw3ePezNv"
-      },
-      "artists": [
-        {
-          "name": "Los Muecas",
-          "url": "https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b"
-        }
-      ],
-      "duration_ms": 176226,
-      "name": "Una Sola Ca\u00edda",
-      "url": "https://open.spotify.com/track/0EGNdaIWoY4JrVawzWCWb5"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "15 Originales",
-        "url": "https://open.spotify.com/album/3hdbMZzO1TuICsCBlqssdr"
-      },
-      "artists": [
-        {
-          "name": "King Clave",
-          "url": "https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f"
-        }
-      ],
-      "duration_ms": 223506,
-      "name": "Mi Corazon Lloro",
-      "url": "https://open.spotify.com/track/7bkXRILwKZhhgRyvJJqteP"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Sucesos Musicales",
         "url": "https://open.spotify.com/album/55AnSsIpBATUlxZoPSiqC5"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 164506,
       "name": "Vecina",
       "url": "https://open.spotify.com/track/7alsNrwD1PXfQ1vDiffB8J"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "15 Originales",
+        "url": "https://open.spotify.com/album/3hdbMZzO1TuICsCBlqssdr"
+      },
+      "artists": [
+        {
+          "name": "King Clave",
+          "url": "https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f"
+        }
+      ],
+      "duration_ms": 223506,
+      "name": "Mi Corazon Lloro",
+      "url": "https://open.spotify.com/track/7bkXRILwKZhhgRyvJJqteP"
     },
     {
       "added_at": "2025-01-28 15:41:46",

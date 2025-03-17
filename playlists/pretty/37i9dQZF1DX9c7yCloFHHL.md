@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: JakoJako
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,806 likes - 102 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,923 likes - 102 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

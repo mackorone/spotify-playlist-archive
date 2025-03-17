@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Runnner
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,788 likes - 128 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,790 likes - 128 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

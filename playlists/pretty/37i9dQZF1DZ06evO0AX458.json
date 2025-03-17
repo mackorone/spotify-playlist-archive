@@ -1,12 +1,12 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 4120,
+  "num_followers": 4122,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9NxgAAAAACy3BNZwxuYFkomy2Wsildm",
+  "snapshot_id": "Z9TDAAAAAACUAyLmo9RXNI3Baq9OcozA",
   "tracks": [
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lament",
-        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
+        "name": "The Apollo Programme Was A Hoax",
+        "url": "https://open.spotify.com/album/2VfpzHUHKc4Ni26qeaD70D"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 168225,
-      "name": "Feign",
-      "url": "https://open.spotify.com/track/22XeCtcmvFRKEotV0kQshn"
+      "duration_ms": 191400,
+      "name": "The Apollo Programme Was A Hoax",
+      "url": "https://open.spotify.com/track/0sXsOeBuEEPQPmJpPQhISe"
     },
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Apollo Programme Was A Hoax",
-        "url": "https://open.spotify.com/album/2VfpzHUHKc4Ni26qeaD70D"
+        "name": "Lament",
+        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 191400,
-      "name": "The Apollo Programme Was A Hoax",
-      "url": "https://open.spotify.com/track/0sXsOeBuEEPQPmJpPQhISe"
+      "duration_ms": 168225,
+      "name": "Feign",
+      "url": "https://open.spotify.com/track/22XeCtcmvFRKEotV0kQshn"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
       "duration_ms": 184920,
       "name": "Harbor",
       "url": "https://open.spotify.com/track/1eZVWlibiTTrKiZJyZGvTn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lament",
-        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 200871,
-      "name": "Lament",
-      "url": "https://open.spotify.com/track/2W6o5dI0sfWRafsusPWZHJ"
     },
     {
       "added_at": null,
@@ -507,6 +491,22 @@
       "duration_ms": 210154,
       "name": "Hard to Explain",
       "url": "https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lament",
+        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 200871,
+      "name": "Lament",
+      "url": "https://open.spotify.com/track/2W6o5dI0sfWRafsusPWZHJ"
     },
     {
       "added_at": null,

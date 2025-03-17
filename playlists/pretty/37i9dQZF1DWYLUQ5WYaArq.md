@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > A little bit indie, a little bit electronic\. This week we're heading back to the 00s and the golden era of indietronica\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,325 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,315 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

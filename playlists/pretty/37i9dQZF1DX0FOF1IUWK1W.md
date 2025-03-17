@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Lauana Prado, Simone Mendes e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,537,306 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,537,962 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 44 | [Vai Lá \- Ao Vivo em Goiânia](https://open.spotify.com/track/5DxPUI3cMU7EkayHlYLJCI) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [iMEMsidão \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/4UUL0DKpsEb4JJf4tDbX2M) | 2:20 |
 | 45 | [Apaguei Pra Todos \- Ao Vivo](https://open.spotify.com/track/65vJAh07BdwurqR9SRa6f8) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Ferrugem 10 Anos, Vol\. 1: O Início \(Ao Vivo\)](https://open.spotify.com/album/4S9yXoEJxk13SHsFsnYLcm) | 3:18 |
 | 46 | [Xonei](https://open.spotify.com/track/2xTM0m9HD3gIqNSutA0LNJ) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Check\-In \(Ao Vivo\)](https://open.spotify.com/album/5Cs1VjhgG8FmA5rv5iXe3r) | 2:34 |
-| 47 | [Cacos De Vidro](https://open.spotify.com/track/0arxXBXzv96Q449DK1SmiX) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Kolo](https://open.spotify.com/artist/1rsA71w7RvNFRojjnFzHcG), [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Diamantes, Lágrimas e Rostos para Esquecer](https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu) | 2:29 |
+| 47 | [Cacos De Vidro \(sample: Esperar pra Ver\)](https://open.spotify.com/track/0arxXBXzv96Q449DK1SmiX) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Kolo](https://open.spotify.com/artist/1rsA71w7RvNFRojjnFzHcG), [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Diamantes, Lágrimas e Rostos para Esquecer](https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu) | 2:29 |
 | 48 | [2025](https://open.spotify.com/track/0UGGLKM970ymsBBN5TKjsD) | [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [DJ Oreia](https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI) | [2025](https://open.spotify.com/album/5Ta3QXRvo45oLDWUozwncl) | 2:52 |
 | 49 | [Vou Raspar Seu Bigodin](https://open.spotify.com/track/6dBNHXIJLpsgPlLroF4tf1) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ S2K](https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX) | [Vou Raspar Seu Bigodin](https://open.spotify.com/album/2ZcCYXE80W6jZSkgricqPW) | 1:44 |
 | 50 | [Puta É Só um Detalhe](https://open.spotify.com/track/4eqOz5gdCYww9GB5q3q1pU) | [DJ Douglinhas](https://open.spotify.com/artist/27CMmXxUH8UMkVGuFNFSOi), [DJ Miller Oficial](https://open.spotify.com/artist/07ox80BTdnwoNNcQT5IvBP), [MC Torugo](https://open.spotify.com/artist/30qXkHd2Thmw1wqJvgRa7o) | [Puta É Só um Detalhe](https://open.spotify.com/album/1lDtxHF9So0nM2qJJ5ngso) | 2:38 |

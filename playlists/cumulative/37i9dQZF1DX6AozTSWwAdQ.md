@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-431 songs - 22 hr 41 min
+432 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z) | 2:59 | 2023-09-17 |  |
 | [Fake Faces](https://open.spotify.com/track/4ntKnZnztFdovszJpIoeVO) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Fake Faces](https://open.spotify.com/album/7BxA4dGVgGP6JPoXohlnc4) | 2:54 | 2024-04-22 | 2024-07-19 |
 | [Fall 4 u](https://open.spotify.com/track/6EWUXXPFn2S7FBI0W7cs5l) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Fall 4 u](https://open.spotify.com/album/3tZfjLiISFF10SgVj4nsmw) | 3:33 | 2022-10-31 | 2022-11-08 |
-| [Fall on Me](https://open.spotify.com/track/10wIeKaNvOaUgvzUUfwu7L) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Fall on Me](https://open.spotify.com/album/3WFSscg1CmMws760Eir9Ot) | 3:36 | 2025-03-10 |  |
+| [Fall on Me](https://open.spotify.com/track/10wIeKaNvOaUgvzUUfwu7L) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Fall on Me](https://open.spotify.com/album/3WFSscg1CmMws760Eir9Ot) | 3:36 | 2025-03-10 | 2025-03-17 |
 | [Fall So Hard](https://open.spotify.com/track/07J3p1GchLPc2kAKFgd1TD) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Fall So Hard](https://open.spotify.com/album/3eMGUahL7jCK0PImHwWMnw) | 3:34 | 2022-06-06 | 2022-07-29 |
 | [Falling \- So In Love](https://open.spotify.com/track/3Wxa4sAD07yLRmbHmJn9QF) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [Falling \(So In Love\)](https://open.spotify.com/album/2WKM7bPaS5fiUj3utIac6l) | 3:43 | 2022-06-06 | 2022-07-29 |
 | [Falling Down \- Bonus Track](https://open.spotify.com/track/4jvjzW7Hm0yK4LvvE0Paz9) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Come Over When You're Sober, Pt\. 2](https://open.spotify.com/album/52JymrguPgkmmwLaWIusst) | 3:16 | 2022-07-25 | 2024-04-19 |
@@ -321,6 +321,7 @@
 | [Rigor Mortis Radio](https://open.spotify.com/track/006xBsccJhHkcrdUILF1cP) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Rigor Mortis Radio](https://open.spotify.com/album/5c8XabOTIVdkm39NkdAUJv) | 2:28 | 2023-07-17 | 2023-07-25 |
 | [RING ma Bell \(what a wonderful world\)](https://open.spotify.com/track/2b2Nibg3lTUTKctwwb7bEv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter two](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) | 3:26 | 2022-09-05 | 2022-09-12 |
 | [Rinn](https://open.spotify.com/track/6vK1C6ELbAVDZ5epWtnxns) | [My Life As Ali Thomas](https://open.spotify.com/artist/60QGyk5ToNbgI6fVGjZhHa) | [Rinn](https://open.spotify.com/album/1b3cj4iOydUI91x94QuLEe) | 3:27 | 2022-07-11 | 2022-07-13 |
+| [River Of Tears](https://open.spotify.com/track/4sC2H6ja1JalHAiPnR4gBA) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [River Of Tears](https://open.spotify.com/album/6k7bXAr8K2a0gkhjdLEohF) | 2:31 | 2025-03-17 |  |
 | [Rules R Made 2 B Broken](https://open.spotify.com/track/5wX68SsEADVhUjFdEyTOAd) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Ivy + Bean \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6gZ3zzVuQzN7UkjKeZBJRk) | 2:38 | 2022-09-05 | 2022-09-12 |
 | [RUNAWAY](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe) | 2:23 | 2023-05-29 |  |
 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 | 2023-02-13 |  |

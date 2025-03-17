@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udea8 ",
-  "num_followers": 28379,
+  "num_followers": 28380,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
+        "name": "See Me Shine",
+        "url": "https://open.spotify.com/album/7hhFdijqPRhVlNINGiFHs0"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 182072,
+      "name": "See Me Shine",
+      "url": "https://open.spotify.com/track/4smUNlnZPcX3Iga4pxPTUr"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
         "name": "Dans fr\u00e5n dig",
         "url": "https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g"
       },
@@ -195,42 +211,6 @@
       "duration_ms": 136666,
       "name": "Dans fr\u00e5n dig",
       "url": "https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
-        "name": "\u00c4nnu en dag",
-        "url": "https://open.spotify.com/album/31WMGaw85a6KcbQq0Ngp31"
-      },
-      "artists": [
-        {
-          "name": "Sickan",
-          "url": "https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl"
-        },
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "\u00c4nnu en dag",
-      "url": "https://open.spotify.com/track/6I9IHT1nhfPhm2l6eCSxs4"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
-        "name": "See Me Shine",
-        "url": "https://open.spotify.com/album/7hhFdijqPRhVlNINGiFHs0"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 182072,
-      "name": "See Me Shine",
-      "url": "https://open.spotify.com/track/4smUNlnZPcX3Iga4pxPTUr"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -263,6 +243,26 @@
       "duration_ms": 121383,
       "name": "Fin & Bad",
       "url": "https://open.spotify.com/track/7nwxrW8dM7LJWQ5ne64Adj"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
+        "name": "\u00c4nnu en dag",
+        "url": "https://open.spotify.com/album/31WMGaw85a6KcbQq0Ngp31"
+      },
+      "artists": [
+        {
+          "name": "Sickan",
+          "url": "https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl"
+        },
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "\u00c4nnu en dag",
+      "url": "https://open.spotify.com/track/6I9IHT1nhfPhm2l6eCSxs4"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -379,6 +379,26 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
+        "name": "Sp\u00e5r av BLod",
+        "url": "https://open.spotify.com/album/7aZiFpe3Ji0BQ3E2Uo7LzK"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        },
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
+        }
+      ],
+      "duration_ms": 160634,
+      "name": "Aktiv",
+      "url": "https://open.spotify.com/track/7FILcXgBfO8f48zLaIqb9g"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
         "name": "KrissyB",
         "url": "https://open.spotify.com/album/5Ye9jBwvEjQhl71G7Er6mK"
       },
@@ -419,26 +439,6 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
-        "name": "Sp\u00e5r av BLod",
-        "url": "https://open.spotify.com/album/7aZiFpe3Ji0BQ3E2Uo7LzK"
-      },
-      "artists": [
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        },
-        {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
-        }
-      ],
-      "duration_ms": 160634,
-      "name": "Aktiv",
-      "url": "https://open.spotify.com/track/7FILcXgBfO8f48zLaIqb9g"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/31ksRf0SjvqKDRJicFN246"
       },
@@ -475,6 +475,22 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
+        "name": "Pilestredet",
+        "url": "https://open.spotify.com/album/64bXB6oQ8SDEukSqIXNms1"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 194782,
+      "name": "Pilestredet",
+      "url": "https://open.spotify.com/track/41dM8Ol9WH0Um6XOx7VX5I"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/30pPojWH2mqVN5aXmocwRY"
       },
@@ -507,6 +523,22 @@
       "duration_ms": 136082,
       "name": "Big Steppa",
       "url": "https://open.spotify.com/track/43MYhAw47PmHz31xY3mdrI"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
+        "name": "Sjunka",
+        "url": "https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "duration_ms": 133375,
+      "name": "Sjunka",
+      "url": "https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -583,22 +615,6 @@
       "duration_ms": 135004,
       "name": "BLANCO",
       "url": "https://open.spotify.com/track/5LYFMzXTecAGk9cKxRpxwo"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
-        "name": "Sjunka",
-        "url": "https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7"
-      },
-      "artists": [
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        }
-      ],
-      "duration_ms": 133375,
-      "name": "Sjunka",
-      "url": "https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -747,22 +763,6 @@
       "duration_ms": 173465,
       "name": "L\u00f8sningsorienterte",
       "url": "https://open.spotify.com/track/60vClM4MsGoWmEKO1soSlV"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
-        "name": "Pilestredet",
-        "url": "https://open.spotify.com/album/64bXB6oQ8SDEukSqIXNms1"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 194782,
-      "name": "Pilestredet",
-      "url": "https://open.spotify.com/track/41dM8Ol9WH0Um6XOx7VX5I"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
+        "name": "Norge Elsker Rap",
+        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 110373,
+      "name": "Schnogodidougudugidoubudibow",
+      "url": "https://open.spotify.com/track/5p92TOuIaqTprq7BcTa3x3"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
         "name": "Frossa",
         "url": "https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO"
       },
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
-        "name": "Matrisen",
-        "url": "https://open.spotify.com/album/3dk3EKB9BAgMnIoI8lEDYj"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        }
-      ],
-      "duration_ms": 195577,
-      "name": "Matrisen",
-      "url": "https://open.spotify.com/track/7BZ3S5F0IRzzrC7ecSqYO2"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
         "name": "BECHO",
         "url": "https://open.spotify.com/album/7mzFSuPUp3POWTyHpOzMkK"
       },
@@ -1107,22 +1107,6 @@
       "duration_ms": 129882,
       "name": "BECHO",
       "url": "https://open.spotify.com/track/2NfxurrqwMoXW2bWYYWF63"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
-        "name": "Norge Elsker Rap",
-        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 110373,
-      "name": "Schnogodidougudugidoubudibow",
-      "url": "https://open.spotify.com/track/5p92TOuIaqTprq7BcTa3x3"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
-        "name": "I Care",
-        "url": "https://open.spotify.com/album/3eEH7sepvY4yYG8DGly0ii"
+        "name": "Matrisen",
+        "url": "https://open.spotify.com/album/3dk3EKB9BAgMnIoI8lEDYj"
       },
       "artists": [
         {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
         }
       ],
-      "duration_ms": 139764,
-      "name": "I Care",
-      "url": "https://open.spotify.com/track/05e7SNuOTnMpY6D39ZbNI6"
+      "duration_ms": 195577,
+      "name": "Matrisen",
+      "url": "https://open.spotify.com/track/7BZ3S5F0IRzzrC7ecSqYO2"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -1179,6 +1163,22 @@
       "duration_ms": 123149,
       "name": "MANDANA",
       "url": "https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
+        "name": "I Care",
+        "url": "https://open.spotify.com/album/3eEH7sepvY4yYG8DGly0ii"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        }
+      ],
+      "duration_ms": 139764,
+      "name": "I Care",
+      "url": "https://open.spotify.com/track/05e7SNuOTnMpY6D39ZbNI6"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
-        "name": "I Want You 2 Be Mine",
-        "url": "https://open.spotify.com/album/6xGLYXAdQ5ChOF5gsJRGnM"
-      },
-      "artists": [
-        {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
-        }
-      ],
-      "duration_ms": 162057,
-      "name": "I Want You 2 Be Mine",
-      "url": "https://open.spotify.com/track/11wfYbsYR8lVqLhCp3ChM3"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
         "name": "Bra \u00c5r",
         "url": "https://open.spotify.com/album/2ffzDTi3yaOAvTC843voOA"
       },
@@ -1235,6 +1219,38 @@
       "duration_ms": 109766,
       "name": "Cph Freestyle",
       "url": "https://open.spotify.com/track/5pH0He95Tcp7avZPVMAbxp"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
+        "name": "I Want You 2 Be Mine",
+        "url": "https://open.spotify.com/album/6xGLYXAdQ5ChOF5gsJRGnM"
+      },
+      "artists": [
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        }
+      ],
+      "duration_ms": 162057,
+      "name": "I Want You 2 Be Mine",
+      "url": "https://open.spotify.com/track/11wfYbsYR8lVqLhCp3ChM3"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
+        "name": "2X SPEKTRUM FREESTYLE",
+        "url": "https://open.spotify.com/album/3GX1PPcRgGZMBXPgMLtdhx"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 322431,
+      "name": "2X SPEKTRUM FREESTYLE",
+      "url": "https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -1263,26 +1279,6 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
-        "name": "+212 (feat. 23)",
-        "url": "https://open.spotify.com/album/3usbLTSVr2lALbFaMvBHMq"
-      },
-      "artists": [
-        {
-          "name": "Jonas Benyoub",
-          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
-        },
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        }
-      ],
-      "duration_ms": 171757,
-      "name": "+212 (feat. 23)",
-      "url": "https://open.spotify.com/track/6x7TWKdBz1R7pl7ykrAUvc"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
         "name": "Hva Vil Du",
         "url": "https://open.spotify.com/album/6ixMSXKsUgGFYyW1nYAaUS"
       },
@@ -1307,18 +1303,22 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
-        "name": "2X SPEKTRUM FREESTYLE",
-        "url": "https://open.spotify.com/album/3GX1PPcRgGZMBXPgMLtdhx"
+        "name": "+212 (feat. 23)",
+        "url": "https://open.spotify.com/album/3usbLTSVr2lALbFaMvBHMq"
       },
       "artists": [
         {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+          "name": "Jonas Benyoub",
+          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+        },
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
         }
       ],
-      "duration_ms": 322431,
-      "name": "2X SPEKTRUM FREESTYLE",
-      "url": "https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI"
+      "duration_ms": 171757,
+      "name": "+212 (feat. 23)",
+      "url": "https://open.spotify.com/track/6x7TWKdBz1R7pl7ykrAUvc"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -1483,18 +1483,22 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
-        "name": "Det Regner Penger (Allez Allez)",
-        "url": "https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k"
+        "name": "Palmerna",
+        "url": "https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa"
       },
       "artists": [
         {
-          "name": "AVGVSTVS",
-          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        },
+        {
+          "name": "Xpensive",
+          "url": "https://open.spotify.com/artist/2mKw2kl0Hhw8caVt0msuwe"
         }
       ],
-      "duration_ms": 93830,
-      "name": "Det Regner Penger (Allez Allez)",
-      "url": "https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567"
+      "duration_ms": 147013,
+      "name": "Palmerna",
+      "url": "https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V"
     }
   ],
   "unique_name": "100 (2)",

@@ -4,7 +4,7 @@
 
 > Your weekly dose of new dance\. Cover: Shouse
 
-2,983 songs - 6 day 20 hr 7 min
+2,984 songs - 6 day 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 | 2023-04-06 | 2023-05-12 |
 | [4EVR](https://open.spotify.com/track/2A3eCsmsW5ztqItagBLCVP) | [ISOKNOCK](https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [4EVR](https://open.spotify.com/album/5FsCLKDT9gEj9wZtO3ytXB) | 3:15 | 2024-08-01 | 2024-08-30 |
 | [5 Days](https://open.spotify.com/track/5ohlEsEOzBg6Ga7GQpqlrS) | [Moav](https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr) | [5 Days](https://open.spotify.com/album/3qpfJHrl2IkzPHmrvi3mCa) | 2:47 | 2023-10-06 | 2023-10-30 |
-| [5AM At Bagleys](https://open.spotify.com/track/3nKFvxs17ez3awL6S0IS8k) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [5AM At Bagleys](https://open.spotify.com/album/1BJAJAuOKPc5HoNfpzZrIK) | 4:10 | 2025-01-23 |  |
+| [5AM At Bagleys](https://open.spotify.com/track/3nKFvxs17ez3awL6S0IS8k) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [5AM At Bagleys](https://open.spotify.com/album/1BJAJAuOKPc5HoNfpzZrIK) | 4:10 | 2025-01-23 | 2025-03-17 |
 | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs) | 2:48 | 2024-06-06 | 2024-07-05 |
 | [7 Minutes In Heaven \- Tyron Hapi Remix](https://open.spotify.com/track/1rgpdZzSVBiCFTDu6HFcNR) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec), [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I) | [7 Minutes In Heaven \(Tyron Hapi Remix\)](https://open.spotify.com/album/6BeCmY9Y6oLy86uypv6Xdc) | 3:04 | 2023-06-29 | 2023-07-28 |
 | [808](https://open.spotify.com/track/1ZeZjflXJotwHx4uNX8QoK) | [3NDLES5](https://open.spotify.com/artist/1UHjR5NxoDxWX9feUfS6jL), [Crazymike](https://open.spotify.com/artist/0pqnRTJ9eQrOo7cpJzdAcF) | [808](https://open.spotify.com/album/2DbU0PvxwnwNUD25K1jGqc) | 2:53 | 2023-08-17 | 2023-09-01 |
@@ -145,6 +145,7 @@
 | [And We \(NRG Official Remix\)](https://open.spotify.com/track/57vSwos5T22v9sGqNWJuy7) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz) | [And We \(NRG Official Remix\)](https://open.spotify.com/album/2pq08blBD7IqCUPxBTRt5Z) | 3:01 | 2023-09-21 | 2023-10-13 |
 | [Angel of Mine](https://open.spotify.com/track/1w3wZWzYYDxunHZBmitPpu) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Angel of Mine](https://open.spotify.com/album/367CKbJE662Q86eiVUTnwB) | 2:42 | 2025-01-17 | 2025-03-14 |
 | [Angeles](https://open.spotify.com/track/0QNLboKNg60M1PmEBFoY6k) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Angeles / Build A Man](https://open.spotify.com/album/0AGElbWY5WV66ygbTy2aQr) | 2:03 | 2024-04-11 | 2024-05-03 |
+| [Angels For Each Other](https://open.spotify.com/track/7KPcippmg9MvPzb3dzNpQW) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Angels For Each Other](https://open.spotify.com/album/1bOANBDFMPylV75pmNK4l3) | 3:35 | 2025-03-17 |  |
 | [Animal](https://open.spotify.com/track/1Wr0gqqKIeFWE00rQmmjxD) | [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay) | [Animal](https://open.spotify.com/album/53bJj1UMAaNByFZV7h2QUC) | 2:36 | 2023-07-30 | 2023-08-18 |
 | [Animal](https://open.spotify.com/track/2ivDc5gzHTuDJKQaTgfsXo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Animal \(with Jason Derulo\)](https://open.spotify.com/album/5FOUiGyszC4bwhccbSOXhU) | 2:20 | 2024-04-18 | 2024-05-17 |
 | [ANITA](https://open.spotify.com/track/0NkBIQwCGngcIQWash96NH) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [ANITA](https://open.spotify.com/album/1Ih0ZdvWVSmNmVt14zLCbT) | 2:45 | 2024-06-27 | 2024-07-27 |

@@ -1049,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "Sway (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/2lszCSwBW2wm0yIwp0ag6z"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218950,
+      "name": "Sway - triple j Like A Version",
+      "url": "https://open.spotify.com/track/3SrUc3crJdSzNioTHaDQRf"
+    },
+    {
+      "album": {
         "name": "This Is How Tomorrow Moves",
         "url": "https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu"
       },

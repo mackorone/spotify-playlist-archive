@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 543833,
+  "num_followers": 543841,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Rated R - Deluxe Edition",
+        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "The Lost Art Of Keeping A Secret",
+      "url": "https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "From Beale Street to Oblivion",
         "url": "https://open.spotify.com/album/0NwhaAWEFAeUuZ7lrCCXFx"
       },
@@ -251,6 +267,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Welcome to Sky Valley",
+        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
+      },
+      "artists": [
+        {
+          "name": "Kyuss",
+          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+        }
+      ],
+      "duration_ms": 311906,
+      "name": "Demon Cleaner",
+      "url": "https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "The Action Is Go",
         "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
       },
@@ -279,22 +311,6 @@
       "duration_ms": 343306,
       "name": "Wires",
       "url": "https://open.spotify.com/track/4yl1IpHPuXUV2MjxXy6hZn"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Rated R - Deluxe Edition",
-        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "The Lost Art Of Keeping A Secret",
-      "url": "https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -331,18 +347,34 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Welcome to Sky Valley",
-        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
       },
       "artists": [
         {
-          "name": "Kyuss",
-          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 311906,
-      "name": "Demon Cleaner",
-      "url": "https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0"
+      "duration_ms": 352440,
+      "name": "Song For The Dead",
+      "url": "https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Godzilla's / Eatin' Dust",
+        "url": "https://open.spotify.com/album/7GyCk26ieCcV2CAtheDuYF"
+      },
+      "artists": [
+        {
+          "name": "Fu Manchu",
+          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Eatin' Dust",
+      "url": "https://open.spotify.com/track/2eHruBEy06Vt7VswO4ROhC"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -395,22 +427,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Godzilla's / Eatin' Dust",
-        "url": "https://open.spotify.com/album/7GyCk26ieCcV2CAtheDuYF"
-      },
-      "artists": [
-        {
-          "name": "Fu Manchu",
-          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Eatin' Dust",
-      "url": "https://open.spotify.com/track/2eHruBEy06Vt7VswO4ROhC"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Busse Woods",
         "url": "https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ"
       },
@@ -427,22 +443,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 352440,
-      "name": "Song For The Dead",
-      "url": "https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Gateway",
         "url": "https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER"
       },
@@ -455,6 +455,22 @@
       "duration_ms": 247013,
       "name": "Greenthumb",
       "url": "https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 364924,
+      "name": "God Is In The Radio",
+      "url": "https://open.spotify.com/track/1dVWz4VM5QkgzHLjFEKM4u"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -503,22 +519,6 @@
       "duration_ms": 389466,
       "name": "Barbarian",
       "url": "https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 364924,
-      "name": "God Is In The Radio",
-      "url": "https://open.spotify.com/track/1dVWz4VM5QkgzHLjFEKM4u"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -619,38 +619,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Stoner Witch",
-        "url": "https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw"
-      },
-      "artists": [
-        {
-          "name": "Melvins",
-          "url": "https://open.spotify.com/artist/2oJi7LuMzftVGKB6wpsBmO"
-        }
-      ],
-      "duration_ms": 72800,
-      "name": "Skweetis",
-      "url": "https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Blood Lust",
-        "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
-      },
-      "artists": [
-        {
-          "name": "Uncle Acid & The Deadbeats",
-          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
-        }
-      ],
-      "duration_ms": 435200,
-      "name": "Death's Door",
-      "url": "https://open.spotify.com/track/1UghmqyvyKeXpF1LsrBa2E"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Love Like Machines",
         "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
       },
@@ -683,6 +651,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Stoner Witch",
+        "url": "https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw"
+      },
+      "artists": [
+        {
+          "name": "Melvins",
+          "url": "https://open.spotify.com/artist/2oJi7LuMzftVGKB6wpsBmO"
+        }
+      ],
+      "duration_ms": 72800,
+      "name": "Skweetis",
+      "url": "https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Vols. 11 & 12",
         "url": "https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 333859,
       "name": "Noses in Roses, Forever",
       "url": "https://open.spotify.com/track/4tPTqcJWt67CGJLro27pwe"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Blood Lust",
+        "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
+      },
+      "artists": [
+        {
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
+        }
+      ],
+      "duration_ms": 435200,
+      "name": "Death's Door",
+      "url": "https://open.spotify.com/track/1UghmqyvyKeXpF1LsrBa2E"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Rainbows Are Free",
-        "url": "https://open.spotify.com/album/6mlZrNW9M8DNCEctuwdTJn"
-      },
-      "artists": [
-        {
-          "name": "Rainbows Are Free",
-          "url": "https://open.spotify.com/artist/2xdR2Stqa1oEu4lv7p9lXN"
-        }
-      ],
-      "duration_ms": 251253,
-      "name": "Are You Dead",
-      "url": "https://open.spotify.com/track/1P3gkOdyjK5ucr4N1ggLnq"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "The Great American Death Rattle",
         "url": "https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 244720,
       "name": "The Great American Death Rattle",
       "url": "https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Rainbows Are Free",
+        "url": "https://open.spotify.com/album/6mlZrNW9M8DNCEctuwdTJn"
+      },
+      "artists": [
+        {
+          "name": "Rainbows Are Free",
+          "url": "https://open.spotify.com/artist/2xdR2Stqa1oEu4lv7p9lXN"
+        }
+      ],
+      "duration_ms": 251253,
+      "name": "Are You Dead",
+      "url": "https://open.spotify.com/track/1P3gkOdyjK5ucr4N1ggLnq"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/2aXbEHQTfNI4xQ4jLoMy4d"
-      },
-      "artists": [
-        {
-          "name": "Hippie Death Cult",
-          "url": "https://open.spotify.com/artist/4IZavjyt6nf7m5fq31pjXl"
-        }
-      ],
-      "duration_ms": 362800,
-      "name": "Arise",
-      "url": "https://open.spotify.com/track/6Sq8Tkk3piqcxTzkrWiZao"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "CLDZ",
         "url": "https://open.spotify.com/album/1TQbXepj5CEXWpxz2HZQ34"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 416779,
       "name": "CLDZ",
       "url": "https://open.spotify.com/track/44BjQLjy1ShaviwGBobWi1"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/2aXbEHQTfNI4xQ4jLoMy4d"
+      },
+      "artists": [
+        {
+          "name": "Hippie Death Cult",
+          "url": "https://open.spotify.com/artist/4IZavjyt6nf7m5fq31pjXl"
+        }
+      ],
+      "duration_ms": 362800,
+      "name": "Arise",
+      "url": "https://open.spotify.com/track/6Sq8Tkk3piqcxTzkrWiZao"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Warp Riders",
-        "url": "https://open.spotify.com/album/0PN6KGJnEzkpTpmM1PP5z7"
-      },
-      "artists": [
-        {
-          "name": "The Sword",
-          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
-        }
-      ],
-      "duration_ms": 249333,
-      "name": "Tres Brujas",
-      "url": "https://open.spotify.com/track/02VH6OxidofPWj9u4t7TKd"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Blast Tyrant (Deluxe Version)",
         "url": "https://open.spotify.com/album/5KxVwhPQ9d0qp4iuQcAkgR"
       },
@@ -1579,6 +1563,38 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Warp Riders",
+        "url": "https://open.spotify.com/album/0PN6KGJnEzkpTpmM1PP5z7"
+      },
+      "artists": [
+        {
+          "name": "The Sword",
+          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
+        }
+      ],
+      "duration_ms": 249333,
+      "name": "Tres Brujas",
+      "url": "https://open.spotify.com/track/02VH6OxidofPWj9u4t7TKd"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Dopes To Infinity",
+        "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
+      },
+      "artists": [
+        {
+          "name": "Monster Magnet",
+          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
+        }
+      ],
+      "duration_ms": 267933,
+      "name": "Negasonic Teenage Warhead",
+      "url": "https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "The Sun",
         "url": "https://open.spotify.com/album/2kmk2rzJWOhD9HLEMnINpe"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 492494,
       "name": "Up in the Sky",
       "url": "https://open.spotify.com/track/0eXfZ0Tq12ErDNOJFnhZRm"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Witch",
-        "url": "https://open.spotify.com/album/37VVHGym3PMktFuWewZVf9"
-      },
-      "artists": [
-        {
-          "name": "Witch",
-          "url": "https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3"
-        }
-      ],
-      "duration_ms": 477920,
-      "name": "Seer",
-      "url": "https://open.spotify.com/track/2elF1O0Cz9SfXgkj96cUZE"
     }
   ],
   "unique_name": "Stoner Rock",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-206 songs - 15 hr 44 min
+207 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Corner of Heaven with You](https://open.spotify.com/track/224N7d1XLDBbBgOZ6QmyBv) | [Earl Okin](https://open.spotify.com/artist/5NVqliGdTXQoIfOTTzAKxk) | [Songs from a Basement](https://open.spotify.com/album/4quNKedgvcKb3yepHw9OgS) | 3:54 | 2024-07-24 |  |
 | [A Damsel in Distress: No\. 5\. Sing of Spring, "Spring is here" \(Version for Male Chorus by Jetse Bremer\)](https://open.spotify.com/track/3eeVCMS3jlw3ZPiop7Lfwh) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [The Gents](https://open.spotify.com/artist/6dWJvRTsfmxYqdp1t3TvoP), [Béni Csillag](https://open.spotify.com/artist/3j0FvSTCGzNlUt4IivrQcP) | [George Gershwin](https://open.spotify.com/album/791jmo8eC7Ot2KOZJPBJTX) | 3:05 | 2025-01-09 |  |
 | [A Day to God Is 1000 Years](https://open.spotify.com/track/5nYrCeufU1KfSmgB5dm8bM) | [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Birth of a Prince](https://open.spotify.com/album/54TKCQqJTfYF7P730Nza5q) | 3:57 | 2024-07-24 |  |
-| [A Foggy Day](https://open.spotify.com/track/5ElC7ec3IK5ONLImpQg6vz) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella and Louis](https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE) | 4:32 | 2024-07-24 |  |
+| [A Foggy Day](https://open.spotify.com/track/5ElC7ec3IK5ONLImpQg6vz) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella and Louis](https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE) | 4:32 | 2024-07-24 | 2025-03-17 |
 | [A Foggy Day \(In London Town\)](https://open.spotify.com/track/2YaDdaM7JTVqEPUSy9wAPh) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time](https://open.spotify.com/album/2koUTBXkwUt2uJYv0uezHx) | 2:31 | 2024-07-24 |  |
 | [A Woman Is A Sometime Thing](https://open.spotify.com/track/5vbBHk6iJzOqjP6VdoxvL3) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [An American Songbook](https://open.spotify.com/album/3gsiubesHF5mUeWZWRQZhS) | 4:43 | 2024-07-24 |  |
 | [A Wonderful Party](https://open.spotify.com/track/1VuExMCK2JZ1mNolmDHu8R) | [Lady Be Good 2015 Encores! Cast](https://open.spotify.com/artist/2ssvP0QiRL1FqjEU48w4cU) | [Lady, Be Good! \(2015 Encores! Cast Recording\)](https://open.spotify.com/album/0hjieHsrt1NpFOVc59nn17) | 1:19 | 2024-07-24 |  |
@@ -119,6 +119,7 @@
 | [Mary, Queen Of Scots](https://open.spotify.com/track/5CSSuStXPBgDlh9zpWiVI6) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Primrose](https://open.spotify.com/album/3vzbMJ8Ft5sE4y8pzNv782) | 3:40 | 2024-07-24 |  |
 | [Meadow Serenade](https://open.spotify.com/track/5bp206djNqqcAvRelJLA4H) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Ira Gershwin](https://open.spotify.com/artist/6Yd6jR0AcWlI8JjJ954IDV) | [Strike Up the Band](https://open.spotify.com/album/0MqP11myzDu3b38z18Pz7y) | 4:38 | 2024-07-24 |  |
 | [Merry Andrew](https://open.spotify.com/track/39HgE8EHWibUXzE1waoq1j) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Simon Tedeschi](https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6) | [Gershwin Take Two](https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY) | 1:59 | 2024-07-24 |  |
+| [My Funny Valentine](https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Young Lovers](https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur) | 2:30 | 2025-03-16 |  |
 | [My Man's Gone Now \- Live At The Village Vanguard, NYC; 6/25/1961](https://open.spotify.com/track/1wCe7Rl3SRopd2hZxny2Zg) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Sunday At The Village Vanguard \[Keepnews Collection\]](https://open.spotify.com/album/3uwufR7PwniMX7t3v4I5oB) | 6:24 | 2024-07-24 |  |
 | [My One and Only](https://open.spotify.com/track/63SfnQ4SzMHGpi76rTI1Gb) | [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG) | [Whispering Gypsy](https://open.spotify.com/album/5AJSTCfOQE0hOlmtCw5GwU) | 3:36 | 2025-01-09 |  |
 | [My One And Only Love](https://open.spotify.com/track/0uPkCpuoERqrkBL06Art50) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 4:55 | 2025-01-09 |  |

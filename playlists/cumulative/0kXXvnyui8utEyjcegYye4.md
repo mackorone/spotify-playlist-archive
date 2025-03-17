@@ -4,7 +4,7 @@
 
 > 
 
-320 songs - 18 hr 52 min
+321 songs - 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Lean Wit Me](https://open.spotify.com/track/3oDkdAySo1VQQG0ptV7uwa) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 2:55 | 2023-07-13 |  |
 | [Let Me Know](https://open.spotify.com/track/1qxfdtshzyOo9JwdPbvMYL) | [No Wyld](https://open.spotify.com/artist/4xM4nZLhGE0pMKbXA08s6A) | [Let Me Know](https://open.spotify.com/album/49gpIrDNPySeKw4s0sUEBd) | 4:11 | 2022-10-03 |  |
 | [Let Me Show You](https://open.spotify.com/track/7oCl9OYECGEdwGQ8mFnaCB) | [Kero One](https://open.spotify.com/artist/5EXuZB9s9F3ezkS7zpV8d1), [Azure](https://open.spotify.com/artist/1BpyxemaNUqmIzsVGwlJje) | [Kero & Azure](https://open.spotify.com/album/5jNDvq69MLMzdPcYzOW7X9) | 3:06 | 2021-10-01 |  |
+| [Lie To Me](https://open.spotify.com/track/0fnY4MQat2zJsb8FKyLM9D) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Chris Isaak](https://open.spotify.com/album/3dIasrAuimko9R2t4Z4N0N) | 4:13 | 2025-03-16 |  |
 | [Light It Up \- Remix](https://open.spotify.com/track/500mvzh7TRZ0YdnVeHhj8b) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nyla](https://open.spotify.com/artist/4VZY0nxYMSNotbS7WjNVQy), [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ) | [Peace Is The Mission \(Extended\)](https://open.spotify.com/album/4pCLlUxlKj3pNVdBtFyhrU) | 2:46 | 2022-10-04 |  |
 | [Little Talks](https://open.spotify.com/track/0uZ0orE84drZZzPKxCWSmR) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Into The Woods](https://open.spotify.com/album/4bxl07W8OBOP5PBXI5uhs6) | 4:27 | 2021-10-12 |  |
 | [Little Things](https://open.spotify.com/track/0TAmnCzOtqRfvA38DDLTjj) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home \(Expanded Edition\)](https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt) | 3:39 | 2025-02-09 |  |

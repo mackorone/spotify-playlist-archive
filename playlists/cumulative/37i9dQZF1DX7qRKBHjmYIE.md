@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con CA7RIEL & Paco Amoroso.
 
-867 songs - 1 day 22 hr 45 min
+868 songs - 1 day 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Amuleto](https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Amuleto](https://open.spotify.com/album/1U6e6MPp6JaQ9lFo6YJyKp) | 3:11 | 2022-09-06 | 2023-02-17 |
 | [Angel](https://open.spotify.com/track/15zIyFyJLwcoxxFYU2fT3I) | [LULÚ](https://open.spotify.com/artist/0WbhCU7N9haH6aBYhdqP8a), [Adrian Be](https://open.spotify.com/artist/1cvIlWofyBJLLrxQfX6ZtF) | [Angel](https://open.spotify.com/album/0g0qRFGKy3XoZ3B0xCa1Zi) | 2:24 | 2022-05-06 | 2022-07-29 |
 | [Antes De Partir](https://open.spotify.com/track/2mbxifzlODJWwSG5O6LMuY) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC), [Julian Carrion](https://open.spotify.com/artist/6A9coo36yFEB0cfxZT8cih) | [Antes De Partir](https://open.spotify.com/album/5vcN3zxTsyTPZcIlVDNhOq) | 5:27 | 2024-02-02 | 2024-04-27 |
+| [antonio banderas](https://open.spotify.com/track/0f5OsrCA49IeHZS2omDSB5) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [antonio banderas](https://open.spotify.com/album/06qlB6sf07ldcmzoN9wGSh) | 4:08 | 2025-03-14 |  |
 | [Apple](https://open.spotify.com/track/7CBlZqB7b1AcXksVCoiWZX) | [KAINA](https://open.spotify.com/artist/7c6eQSFEfIt9rV3gh4cgtj) | [Apple](https://open.spotify.com/album/4E2SOsnj6v1tGlWOZGNbCK) | 3:24 | 2022-02-01 | 2023-02-17 |
 | [Aqui?](https://open.spotify.com/track/3hIMhBDpIB6XbKoT843Ije) | [deadsoulsociety](https://open.spotify.com/artist/5jK1BdSQerlxAhyHMKpXe6) | [Aqui?](https://open.spotify.com/album/16s7UnxEudfSK1rcSgZ0VV) | 4:02 | 2024-04-19 | 2024-07-14 |
 | [aquí andamos](https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [aquí andamos](https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux) | 2:15 | 2023-11-10 | 2024-04-13 |
@@ -459,7 +460,7 @@
 | [Luna Villera](https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Luna Villera](https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi) | 3:57 | 2023-05-26 | 2023-08-26 |
 | [LUNA x VÉRTIGO](https://open.spotify.com/track/5pEGbFJNPJLf8KyM1sC9p7) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [LUNA x VÉRTIGO](https://open.spotify.com/album/1LY3n0BQRNDvItZMZ80Uw6) | 5:08 | 2024-07-26 | 2024-10-26 |
 | [Lüky Charm](https://open.spotify.com/track/1WoHkBbJbzRnyjoWKzIYTM) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Amor Escupido](https://open.spotify.com/album/14WhMR0dMyEdhoNVXnvG7w) | 3:20 | 2023-08-25 | 2023-09-30 |
-| [Mabel](https://open.spotify.com/track/0tIcZ2XCTKWLwi0qO094Bh) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Mabel](https://open.spotify.com/album/6EK9vgCCQNa7yhODD1K6Dn) | 2:40 | 2024-11-22 |  |
+| [Mabel](https://open.spotify.com/track/0tIcZ2XCTKWLwi0qO094Bh) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Mabel](https://open.spotify.com/album/6EK9vgCCQNa7yhODD1K6Dn) | 2:40 | 2024-11-22 | 2025-03-17 |
 | [Made of Gold \- Edit](https://open.spotify.com/track/3pMtWCYO44ow0AOj1RL99O) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Made of Gold](https://open.spotify.com/album/3tD15FVyV5uiCKsTPiTTNP) | 3:33 | 2021-12-02 | 2023-02-07 |
 | [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 | 2023-03-29 | 2023-05-20 |
 | [Magic Hour](https://open.spotify.com/track/6xHMi6HSt7yJvm3n81JZn6) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [Luna](https://open.spotify.com/album/4fhfwiNZaMuMrVst1cY7d4) | 1:15 | 2024-06-28 | 2024-08-17 |

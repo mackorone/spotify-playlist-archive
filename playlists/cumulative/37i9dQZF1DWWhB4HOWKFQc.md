@@ -4,7 +4,7 @@
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Hindia
 
-1,017 songs - 2 day 13 hr 14 min
+1,020 songs - 2 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-06-13 | 2024-07-19 |
 | [I Can't Wait](https://open.spotify.com/track/0X6urbVPZcWoeb68fTsmV3) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [I Can't Wait](https://open.spotify.com/album/2IQYQIoBOMdJPjUFcXrVce) | 2:11 | 2023-03-27 | 2023-04-28 |
 | [I Do](https://open.spotify.com/track/1uOFPJmg1yx3sfBqgv1JAS) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [I Do](https://open.spotify.com/album/1fGxTkzXHxKDcuB4Px1LdR) | 2:43 | 2023-09-21 | 2023-10-06 |
+| [I DO ME](https://open.spotify.com/track/5PclMa9Pxs1OFWSAS6Nid9) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [I DO ME](https://open.spotify.com/album/2w0HCMkBX7IRscliTVByqB) | 3:10 | 2025-03-16 |  |
 | [I Like You The Most](https://open.spotify.com/track/51IJ7laS1nxqDfjTz8xDfH) | [SHAD](https://open.spotify.com/artist/5MxQZFj0dZlvwo2bIFfE3p) | [I Like You The Most](https://open.spotify.com/album/1bIYccSTQbGFcCrqkuoRz1) | 2:44 | 2024-03-21 | 2024-03-27 |
 | [I Love You](https://open.spotify.com/track/7hyFKrPZo1Zv4D35MpTBdr) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 5:30 | 2024-11-28 | 2025-01-24 |
 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2024-07-09 | 2024-11-14 |
@@ -548,6 +549,7 @@
 | [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 | 2023-09-15 | 2023-10-13 |
 | [Mencintaimu](https://open.spotify.com/track/26aNjbOgTVrFZEx7was69A) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Mencintaimu](https://open.spotify.com/album/6sGKwCYtM7MlRkVYFWbNQY) | 4:34 | 2023-11-09 | 2024-02-29 |
 | [Mencintaimu \- \(From: 2nd Miracle in Cell No.7\)](https://open.spotify.com/track/2gsRMFzelZuRQo8r11RsLr) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Mencintaimu \(From: 2nd Miracle in Cell No.7\)](https://open.spotify.com/album/0TzkM6DQnhO5jydrJu2IyK) | 4:54 | 2025-01-08 |  |
+| [Menerima Luka](https://open.spotify.com/track/6Twf2B2IGXAN0YDJeTxkt2) | [Natasya Sabella](https://open.spotify.com/artist/2w2xKlumnOzCf5eVTkmNXn) | [Menerima Luka](https://open.spotify.com/album/7vXq8kRSMngRUfSTUty19Q) | 3:48 | 2025-03-16 |  |
 | [Mengapa](https://open.spotify.com/track/1QgYZyDzY22JkXbAuoYZBe) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Mengapa](https://open.spotify.com/album/52r9TATqxdVDU43VOS8n82) | 4:23 | 2023-11-09 | 2024-04-19 |
 | [Mengenang Bintang \( From 'Petualangan Sherina 2' \)](https://open.spotify.com/track/1PI0KjLkj1ZjMqekUocbGN) | [Sherina Munaf](https://open.spotify.com/artist/3UUS2j9dYbI6MB5ee8d0jp), [Derby](https://open.spotify.com/artist/3ife9toV28Lcs5VspZYMLr) | [Mengenang Bintang \( From 'Petualangan Sherina 2' \)](https://open.spotify.com/album/2Yx6TtL6tnapZYniHtWLS3) | 4:12 | 2023-10-05 | 2023-11-17 |
 | [Menghargai Kata Rindu](https://open.spotify.com/track/7dJXDo04rMWbfIepBGTfi0) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Menghargai Kata Rindu](https://open.spotify.com/album/6ZttUG5J6ohmAPaudE74Au) | 4:11 | 2023-06-15 | 2023-08-04 |
@@ -760,6 +762,7 @@
 | [Selendang Biru](https://open.spotify.com/track/1IU1mITWrgXfQrCDTjDgeh) | [Shinta Arsinta](https://open.spotify.com/artist/1NrPlp7STfCyPAoJgc2ZJg) | [Selendang Biru](https://open.spotify.com/album/2MoVigvG7je2nf9yBvBSzb) | 5:10 | 2024-06-06 | 2024-06-13 |
 | [Selesaikan Masa Lalumu Dulu](https://open.spotify.com/track/2o0zyc2cQ3gWXsBVpSl6Cn) | [Dimas M](https://open.spotify.com/artist/2Lp5Ti7LZGpcKPvD3KEthU) | [Selesaikan Masa Lalumu Dulu](https://open.spotify.com/album/390vXz4rdJ0dgs8gMEkwZR) | 1:57 | 2024-03-11 | 2024-05-10 |
 | [Semenjak Ada Dirimu](https://open.spotify.com/track/5H4MSA6eIr6x1iBTn1vpMG) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Semenjak Ada Dirimu](https://open.spotify.com/album/3ofCjilmmAuyucK9AwULA8) | 3:46 | 2024-09-13 | 2025-02-01 |
+| [Semesta Asmara](https://open.spotify.com/track/0tn3dQuEHJEhGlILenLYnM) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW) | [Semesta Asmara](https://open.spotify.com/album/5J9ZbBkXToilNQefkoL5Aq) | 3:47 | 2025-03-16 |  |
 | [Semoga](https://open.spotify.com/track/6cMVQgMRy4pMpSEyg2xd5z) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [RAYA](https://open.spotify.com/album/6xBlB6lznV9ZjVlPq7Xd80) | 4:29 | 2024-05-03 | 2024-06-19 |
 | [Semu](https://open.spotify.com/track/2pBvFdXgF5Q7IOT2EvATWF) | [AMAN](https://open.spotify.com/artist/0lSCTcMXqOhQu7mNCTcMSA) | [Semu](https://open.spotify.com/album/0bRyjuRv6cRSTgdiFaqGJz) | 3:39 | 2024-10-15 | 2025-01-09 |
 | [Semua Aku Dirayakan](https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Semua Aku Dirayakan](https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ) | 5:10 | 2023-10-18 | 2023-12-02 |

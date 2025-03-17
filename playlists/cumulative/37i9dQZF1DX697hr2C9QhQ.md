@@ -4,7 +4,7 @@
 
 > Rock legends from Ireland\. Cover: Sinéad O'Connor
 
-80 songs - 5 hr 26 min
+81 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [This Is](https://open.spotify.com/track/01LRmW8mraxDsUdQAihs4P) | [Aslan](https://open.spotify.com/artist/02pGsYqIR3RxXOflYYc4V7) | [Shame About Lucy Moonhead](https://open.spotify.com/album/0Y3Fv3Cumn9g1GNFwUEMOY) | 3:51 | 2022-03-17 | 2024-04-19 |
 | [This Is](https://open.spotify.com/track/0rmpVuNzKVMQXwSQGtNpt8) | [Aslan](https://open.spotify.com/artist/02pGsYqIR3RxXOflYYc4V7) | [Reeling In The Decades](https://open.spotify.com/album/4FLE3sQpCWW9zwB1HE7erQ) | 3:52 | 2022-03-17 | 2024-06-03 |
 | [Trouble \(With a Capital T\)](https://open.spotify.com/track/1R00EC48t1yyB0ncCW0QaO) | [Horslips](https://open.spotify.com/artist/2mcMCQLrNDEW6O1pAEK3dr) | [The Book of Invasions \(Bonus Tracks Version\)](https://open.spotify.com/album/3igmMH1MuTWQu8PJGPc2pf) | 3:27 | 2022-03-17 | 2024-02-25 |
-| [We Don't Need Nobody Else](https://open.spotify.com/track/4Rj5aUufrdxpEwoRHc50TM) | [Whipping Boy](https://open.spotify.com/artist/3oadMDBL4Wv7F5lkVwRWy2) | [Heartworm](https://open.spotify.com/album/3vOq1lCyVUrnbqXK2ZYhRJ) | 4:16 | 2022-03-17 |  |
+| [We Don't Need Nobody Else](https://open.spotify.com/track/4Rj5aUufrdxpEwoRHc50TM) | [Whipping Boy](https://open.spotify.com/artist/3oadMDBL4Wv7F5lkVwRWy2) | [Heartworm](https://open.spotify.com/album/3vOq1lCyVUrnbqXK2ZYhRJ) | 4:16 | 2022-03-17 | 2025-03-17 |
+| [When We Were Young](https://open.spotify.com/track/4qrZQgux5HbzKblPGFY0y0) | [Whipping Boy](https://open.spotify.com/artist/3oadMDBL4Wv7F5lkVwRWy2) | [Heartworm](https://open.spotify.com/album/3vOq1lCyVUrnbqXK2ZYhRJ) | 2:50 | 2022-03-17 |  |
 | [Where The Streets Have No Name \- Remastered](https://open.spotify.com/track/7h1YqA5MZrRxmkUFpukRcp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 5:36 | 2022-03-17 |  |
 | [Where's Me Jumper?](https://open.spotify.com/track/0wRBCcuhLoI85VbrPByx88) | [Sultans Of Ping F.C.](https://open.spotify.com/artist/6SdAlCpKHeAXKmNzvhuhSs), [Frank Mcnamara](https://open.spotify.com/artist/6gauCsjCSocvGc243BRdnT) | [Casual Sex In The Cineplex](https://open.spotify.com/album/3Nunc0C2S3K5heQ9VRQFPy) | 3:08 | 2022-03-17 |  |
 | [Whiskey In The Jar](https://open.spotify.com/track/2uLx3Gka9TGCz9Zgu7Uwav) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Shades Of A Blue Orphanage \(Deluxe\)](https://open.spotify.com/album/6jXNB46aXlL2oWY03GtFHy) | 5:45 | 2022-03-17 |  |

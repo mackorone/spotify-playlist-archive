@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66967,
+  "num_followers": 66976,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9NxgAAAAACQ6u0Bu/oA5kzT56N0MWbf",
+  "snapshot_id": "Z9TDAAAAAADMTOL0tc4qvrT0SwncSnT/",
   "tracks": [
     {
       "added_at": null,
@@ -83,26 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bondade de Deus (Goodness of God) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/4nopLVQt4ORCAzAsFisfGy"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
-        }
-      ],
-      "duration_ms": 329248,
-      "name": "Bondade de Deus (Goodness of God) - Ao Vivo",
-      "url": "https://open.spotify.com/track/6lC6UDR9sBHagx4R1q4t7c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Milagre Sou Eu",
         "url": "https://open.spotify.com/album/7g8BLM7W9A6uzvapx0IcjF"
       },
@@ -119,6 +99,26 @@
       "duration_ms": 246013,
       "name": "O Milagre Sou Eu",
       "url": "https://open.spotify.com/track/4OrQaYo5LtcNlHMBntcyf7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bondade de Deus (Goodness of God) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/4nopLVQt4ORCAzAsFisfGy"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        }
+      ],
+      "duration_ms": 329248,
+      "name": "Bondade de Deus (Goodness of God) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6lC6UDR9sBHagx4R1q4t7c"
     },
     {
       "added_at": null,
@@ -931,26 +931,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sopra Esp\u00edrito (Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo)",
-        "url": "https://open.spotify.com/album/4xEhmC9MdsDeExOCIBTPVo"
+        "name": "Existe Um Nome (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4gfqFsEIrYyTJasmmfMq5E"
       },
       "artists": [
-        {
-          "name": "Marcos Freire",
-          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
-        },
         {
           "name": "Eyshila",
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         },
         {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 326550,
-      "name": "Sopra Esp\u00edrito - Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo",
-      "url": "https://open.spotify.com/track/3xllqibWTuiSHhuzw2YkVK"
+      "duration_ms": 326263,
+      "name": "Existe Um Nome - Ao Vivo",
+      "url": "https://open.spotify.com/track/0pwAY9EOGY8QjGwaXZuDJG"
     },
     {
       "added_at": null,
@@ -971,22 +967,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Existe Um Nome (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4gfqFsEIrYyTJasmmfMq5E"
+        "name": "Sopra Esp\u00edrito (Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo)",
+        "url": "https://open.spotify.com/album/4xEhmC9MdsDeExOCIBTPVo"
       },
       "artists": [
+        {
+          "name": "Marcos Freire",
+          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
+        },
         {
           "name": "Eyshila",
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         },
         {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 326263,
-      "name": "Existe Um Nome - Ao Vivo",
-      "url": "https://open.spotify.com/track/0pwAY9EOGY8QjGwaXZuDJG"
+      "duration_ms": 326550,
+      "name": "Sopra Esp\u00edrito - Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo",
+      "url": "https://open.spotify.com/track/3xllqibWTuiSHhuzw2YkVK"
     },
     {
       "added_at": null,
@@ -1051,22 +1051,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Calma, Por favor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3DeAUGWcyPL0iLtDaObm4o"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 245560,
-      "name": "Calma, Por favor (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4ALbBPxJDFglnJZYRdUJLb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At\u00e9 Tocar o C\u00e9u",
         "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
       },
@@ -1079,6 +1063,26 @@
       "duration_ms": 313097,
       "name": "Com o Teu Fogo",
       "url": "https://open.spotify.com/track/4tZSrmVZ9Q72FJVEbNVjFG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ele Vem",
+        "url": "https://open.spotify.com/album/6gjRM3VHMVsfmCropNjAg0"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Mergulhar",
+          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 403586,
+      "name": "Ele Vem",
+      "url": "https://open.spotify.com/track/7DaTsKtZb7JwH9aYV2ZSbb"
     }
   ],
   "unique_name": "This Is Eyshila",

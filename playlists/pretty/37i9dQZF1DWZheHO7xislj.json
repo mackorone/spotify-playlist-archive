@@ -1,6 +1,6 @@
 {
   "description": "Perfect music for perfect food.",
-  "num_followers": 141334,
+  "num_followers": 141336,
   "original_name": "Soul Cuisine",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 233560,
-      "name": "Ain't No Love In The Heart Of The City - Single Version",
-      "url": "https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "Come Around and Love Me",
         "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 189706,
       "name": "Just Like You Used To",
       "url": "https://open.spotify.com/track/0KNKtfE0jOcGBeu7Y5pL7h"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "duration_ms": 233560,
+      "name": "Ain't No Love In The Heart Of The City - Single Version",
+      "url": "https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -291,22 +291,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "The Soul Album",
-        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Cigarettes and Coffee",
-      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "The Man In The Street: The Complete Yellow Stax Solo Singles (1968-1974)",
         "url": "https://open.spotify.com/album/0mRmuRVY94yZmwcItjpg5b"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 142746,
       "name": "I Forgot To Be Your Lover",
       "url": "https://open.spotify.com/track/3a19dv4IRhGjkyvgdUxEDu"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "The Soul Album",
+        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Cigarettes and Coffee",
+      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "Home Again (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 141325,
-      "name": "I'm Getting Ready",
-      "url": "https://open.spotify.com/track/5TWbNkeJnYkcT04J81apOr"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "The George Benson Collection",
         "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 316160,
       "name": "On Broadway",
       "url": "https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "Home Again (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 141325,
+      "name": "I'm Getting Ready",
+      "url": "https://open.spotify.com/track/5TWbNkeJnYkcT04J81apOr"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "The Essentials: Bloodstone",
-        "url": "https://open.spotify.com/album/40itH1o9OXNvjVjendp50L"
-      },
-      "artists": [
-        {
-          "name": "Bloodstone",
-          "url": "https://open.spotify.com/artist/1DXSrgY5dpBSTWPC0uhXcj"
-        }
-      ],
-      "duration_ms": 249093,
-      "name": "Natural High - Single Version",
-      "url": "https://open.spotify.com/track/73etijhz7pV4Wx7GTANLpq"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/3HvP4iWWHOzRNCJSPQU7Ng"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 239906,
       "name": "Gun",
       "url": "https://open.spotify.com/track/0MCEM7WuIw4tS9ih4HGE1S"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "The Essentials: Bloodstone",
+        "url": "https://open.spotify.com/album/40itH1o9OXNvjVjendp50L"
+      },
+      "artists": [
+        {
+          "name": "Bloodstone",
+          "url": "https://open.spotify.com/artist/1DXSrgY5dpBSTWPC0uhXcj"
+        }
+      ],
+      "duration_ms": 249093,
+      "name": "Natural High - Single Version",
+      "url": "https://open.spotify.com/track/73etijhz7pV4Wx7GTANLpq"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "Remember the Rain",
-        "url": "https://open.spotify.com/album/7yAsGlw9DqLpC6dICnIqtg"
-      },
-      "artists": [
-        {
-          "name": "Kadhja Bonet",
-          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
-        }
-      ],
-      "duration_ms": 280062,
-      "name": "Remember the Rain",
-      "url": "https://open.spotify.com/track/3bPlMzfHJMYqdAC80NLPTb"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "20 Greatest Hits",
         "url": "https://open.spotify.com/album/1FjPiiZ0qeq7GZ0nnuvHpH"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 178840,
       "name": "Am I The Same Girl",
       "url": "https://open.spotify.com/track/6NVzt2cA5Mgjd3pQjU1xwD"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "Remember the Rain",
+        "url": "https://open.spotify.com/album/7yAsGlw9DqLpC6dICnIqtg"
+      },
+      "artists": [
+        {
+          "name": "Kadhja Bonet",
+          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
+        }
+      ],
+      "duration_ms": 280062,
+      "name": "Remember the Rain",
+      "url": "https://open.spotify.com/track/3bPlMzfHJMYqdAC80NLPTb"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "Irma Thomas Collection: 1961-1966",
-        "url": "https://open.spotify.com/album/3MhMYjRhAkiZ9F4GDkcpuy"
-      },
-      "artists": [
-        {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
-        }
-      ],
-      "duration_ms": 159733,
-      "name": "Ruler Of My Heart",
-      "url": "https://open.spotify.com/track/2W9cyvOHeC26mSy96802Kk"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 265186,
       "name": "The Sweetest Taboo - Remastered",
       "url": "https://open.spotify.com/track/5SRvh35HZmN5bNe8iT4ST5"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "Irma Thomas Collection: 1961-1966",
+        "url": "https://open.spotify.com/album/3MhMYjRhAkiZ9F4GDkcpuy"
+      },
+      "artists": [
+        {
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+        }
+      ],
+      "duration_ms": 159733,
+      "name": "Ruler Of My Heart",
+      "url": "https://open.spotify.com/track/2W9cyvOHeC26mSy96802Kk"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 185893,
-      "name": "Bet Ain't Worth the Hand",
-      "url": "https://open.spotify.com/track/0VBBWt0uJxXNVb624WtOnC"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "R&B: From Doo-Wop To Hip-Hop",
         "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
       },
@@ -1163,22 +1147,18 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "Back for More",
-        "url": "https://open.spotify.com/album/4QshQgkwrqisn6j9yJZ1qb"
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
       "artists": [
         {
-          "name": "Al Johnson",
-          "url": "https://open.spotify.com/artist/4FkXsXGJUTP1J32k3ZYiOA"
-        },
-        {
-          "name": "Jean Carn",
-          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 309226,
-      "name": "I'm Back for More",
-      "url": "https://open.spotify.com/track/2zC0uKFfERvtOYNKendhEs"
+      "duration_ms": 185893,
+      "name": "Bet Ain't Worth the Hand",
+      "url": "https://open.spotify.com/track/0VBBWt0uJxXNVb624WtOnC"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -1211,6 +1191,26 @@
       "duration_ms": 230920,
       "name": "Starting All Over Again",
       "url": "https://open.spotify.com/track/3EN9HHihu5CtBWhcNi7Wa3"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "Back for More",
+        "url": "https://open.spotify.com/album/4QshQgkwrqisn6j9yJZ1qb"
+      },
+      "artists": [
+        {
+          "name": "Al Johnson",
+          "url": "https://open.spotify.com/artist/4FkXsXGJUTP1J32k3ZYiOA"
+        },
+        {
+          "name": "Jean Carn",
+          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
+        }
+      ],
+      "duration_ms": 309226,
+      "name": "I'm Back for More",
+      "url": "https://open.spotify.com/track/2zC0uKFfERvtOYNKendhEs"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "The Singles",
-        "url": "https://open.spotify.com/album/5vnoLSptaQlPaypbTgbdQm"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 314533,
-      "name": "She's Gone - Live 1982",
-      "url": "https://open.spotify.com/track/4x2qAh9aec2eIvp11mDDU2"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "The Very Best of Aretha Franklin - The 70's",
         "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 213560,
       "name": "Spanish Harlem",
       "url": "https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/5vnoLSptaQlPaypbTgbdQm"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 314533,
+      "name": "She's Gone - Live 1982",
+      "url": "https://open.spotify.com/track/4x2qAh9aec2eIvp11mDDU2"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "Dreamin' Wild",
-        "url": "https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P"
-      },
-      "artists": [
-        {
-          "name": "Donnie & Joe Emerson",
-          "url": "https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "Wheelin' And Dealin' - The Definitive Collection",
         "url": "https://open.spotify.com/album/5JRvmq9sCId3PUdS35aZKc"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 146306,
       "name": "Get out of My Life Woman",
       "url": "https://open.spotify.com/track/3wEjaj63quGasYmMwSv2v0"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "Dreamin' Wild",
+        "url": "https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P"
+      },
+      "artists": [
+        {
+          "name": "Donnie & Joe Emerson",
+          "url": "https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "Defence EP",
-        "url": "https://open.spotify.com/album/3tTvRrOthZJ5w7gEwXRuo0"
-      },
-      "artists": [
-        {
-          "name": "Pete Josef",
-          "url": "https://open.spotify.com/artist/7c59lOg1veety7jD83d31w"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Defence",
-      "url": "https://open.spotify.com/track/0uBXE0zIKcfFiFHHmMuU2R"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "I'm Back! Family & Friends",
         "url": "https://open.spotify.com/album/52C9QFWsfF3Kzb8riRPJzj"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 199426,
       "name": "Family Affair",
       "url": "https://open.spotify.com/track/1XvCs8az0V297Ex0I9VAPu"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "Defence EP",
+        "url": "https://open.spotify.com/album/3tTvRrOthZJ5w7gEwXRuo0"
+      },
+      "artists": [
+        {
+          "name": "Pete Josef",
+          "url": "https://open.spotify.com/artist/7c59lOg1veety7jD83d31w"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Defence",
+      "url": "https://open.spotify.com/track/0uBXE0zIKcfFiFHHmMuU2R"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "The Way I See It",
-        "url": "https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP"
-      },
-      "artists": [
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
-        }
-      ],
-      "duration_ms": 148240,
-      "name": "Let's Take a Walk",
-      "url": "https://open.spotify.com/track/0VMOq5oltI4Mmld5fUaoTO"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "Fulfillingness' First Finale",
         "url": "https://open.spotify.com/album/1kda4McF274Jl5x3aOAmPJ"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 208097,
       "name": "Smile Please",
       "url": "https://open.spotify.com/track/1ICQvlzjWbQkVcjEsEsHc3"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "The Way I See It",
+        "url": "https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP"
+      },
+      "artists": [
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        }
+      ],
+      "duration_ms": 148240,
+      "name": "Let's Take a Walk",
+      "url": "https://open.spotify.com/track/0VMOq5oltI4Mmld5fUaoTO"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "Tellin' It",
-        "url": "https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ"
-      },
-      "artists": [
-        {
-          "name": "Ann Peebles",
-          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Come to Mama",
-      "url": "https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "W.E.L.F.A.R.E",
         "url": "https://open.spotify.com/album/0K7EdB3RJI0gUvy6US0hIB"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 168004,
       "name": "W.E.L.F.A.R.E",
       "url": "https://open.spotify.com/track/4NfabFAMEHaKVbPoG8xmQ2"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "Tellin' It",
+        "url": "https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ"
+      },
+      "artists": [
+        {
+          "name": "Ann Peebles",
+          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Come to Mama",
+      "url": "https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -1771,30 +1771,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "Radio Music Society",
-        "url": "https://open.spotify.com/album/50ZGiAqYPxQpDVs7QT2ys8"
-      },
-      "artists": [
-        {
-          "name": "Esperanza Spalding",
-          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
-        },
-        {
-          "name": "Algebra Blessett",
-          "url": "https://open.spotify.com/artist/0ffXbLm7KIcfu3M1ee0UkP"
-        },
-        {
-          "name": "Lionel Loueke",
-          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
-        }
-      ],
-      "duration_ms": 316866,
-      "name": "Black Gold",
-      "url": "https://open.spotify.com/track/0Y1qnAow1UCOZuVfK47sPl"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "No Beginning No End",
         "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
       },
@@ -1827,18 +1803,26 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "A Nickel And A Nail And Ace Of Spades",
-        "url": "https://open.spotify.com/album/1RF1M8KE0XofOsRutwqLmK"
+        "name": "Radio Music Society",
+        "url": "https://open.spotify.com/album/50ZGiAqYPxQpDVs7QT2ys8"
       },
       "artists": [
         {
-          "name": "O.V. Wright",
-          "url": "https://open.spotify.com/artist/2eRG04xbRiI1AzY8uTCySk"
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        },
+        {
+          "name": "Algebra Blessett",
+          "url": "https://open.spotify.com/artist/0ffXbLm7KIcfu3M1ee0UkP"
+        },
+        {
+          "name": "Lionel Loueke",
+          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
         }
       ],
-      "duration_ms": 222533,
-      "name": "A Nickel And A Nail",
-      "url": "https://open.spotify.com/track/7y7r4FS4Uw5T0IfTraNlnE"
+      "duration_ms": 316866,
+      "name": "Black Gold",
+      "url": "https://open.spotify.com/track/0Y1qnAow1UCOZuVfK47sPl"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -1859,6 +1843,22 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
+        "name": "A Nickel And A Nail And Ace Of Spades",
+        "url": "https://open.spotify.com/album/1RF1M8KE0XofOsRutwqLmK"
+      },
+      "artists": [
+        {
+          "name": "O.V. Wright",
+          "url": "https://open.spotify.com/artist/2eRG04xbRiI1AzY8uTCySk"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "A Nickel And A Nail",
+      "url": "https://open.spotify.com/track/7y7r4FS4Uw5T0IfTraNlnE"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
         "name": "Elle",
         "url": "https://open.spotify.com/album/2J3eJIHwv0u4SkFO81F3Gf"
       },
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "No Beginning No End",
-        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 278855,
-      "name": "Come To My Door - Acoustic Version",
-      "url": "https://open.spotify.com/track/41MjJj7Kosc7ykXU9DGH8N"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "Baltimore",
         "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
       },
@@ -1903,22 +1887,6 @@
       "duration_ms": 298000,
       "name": "The Family",
       "url": "https://open.spotify.com/track/14wpG5eRZwU73l6TYrvgkT"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
-        "name": "It'll All Be Over",
-        "url": "https://open.spotify.com/album/3CLdAhzRYwIIf06iDSvlPA"
-      },
-      "artists": [
-        {
-          "name": "Supreme Jubilees",
-          "url": "https://open.spotify.com/artist/5XduRGfkKVRVqyEJ0D9trw"
-        }
-      ],
-      "duration_ms": 185480,
-      "name": "It'll All Be Over",
-      "url": "https://open.spotify.com/track/1KFtR58Hn1nQ9fR0DRnC9n"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -1951,6 +1919,38 @@
       "duration_ms": 174026,
       "name": "90% of Me Is You",
       "url": "https://open.spotify.com/track/4dz8fFVtr8dPMqGThk5Cbs"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "It'll All Be Over",
+        "url": "https://open.spotify.com/album/3CLdAhzRYwIIf06iDSvlPA"
+      },
+      "artists": [
+        {
+          "name": "Supreme Jubilees",
+          "url": "https://open.spotify.com/artist/5XduRGfkKVRVqyEJ0D9trw"
+        }
+      ],
+      "duration_ms": 185480,
+      "name": "It'll All Be Over",
+      "url": "https://open.spotify.com/track/1KFtR58Hn1nQ9fR0DRnC9n"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "No Beginning No End",
+        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "duration_ms": 278855,
+      "name": "Come To My Door - Acoustic Version",
+      "url": "https://open.spotify.com/track/41MjJj7Kosc7ykXU9DGH8N"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "Loose Fit",
-        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
-      },
-      "artists": [
-        {
-          "name": "Ruben Hein",
-          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
-        }
-      ],
-      "duration_ms": 228533,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/5nqhwqequdKtOc5G0gQxRS"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "You're Not Alone b/w I'm Gonna Get Loaded",
         "url": "https://open.spotify.com/album/7vPaGFQmtxOh75R5waO8Xl"
       },
@@ -2175,22 +2159,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "Lean On Me - The Songs Of Bill Withers (Bonustrack Edition)",
-        "url": "https://open.spotify.com/album/6SNemCUWVfYobddj98KgXh"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
-        }
-      ],
-      "duration_ms": 254040,
-      "name": "Kissing My Love",
-      "url": "https://open.spotify.com/track/7fljysjck4bLIJrJihDngN"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "Lovestreet 55",
         "url": "https://open.spotify.com/album/2OkeAHspKici6uEPr28cNH"
       },
@@ -2203,6 +2171,38 @@
       "duration_ms": 238013,
       "name": "Lovestreet 55",
       "url": "https://open.spotify.com/track/7uE1BW7yWMGtlhPMylrJV1"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "Loose Fit",
+        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+        }
+      ],
+      "duration_ms": 228533,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/5nqhwqequdKtOc5G0gQxRS"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "Lean On Me - The Songs Of Bill Withers (Bonustrack Edition)",
+        "url": "https://open.spotify.com/album/6SNemCUWVfYobddj98KgXh"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+        }
+      ],
+      "duration_ms": 254040,
+      "name": "Kissing My Love",
+      "url": "https://open.spotify.com/track/7fljysjck4bLIJrJihDngN"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "Loose Fit",
-        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
-      },
-      "artists": [
-        {
-          "name": "Ruben Hein",
-          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Rosie",
-      "url": "https://open.spotify.com/track/5gY5mb97G1JZFB8eved6rR"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "The Bleeding Edge",
         "url": "https://open.spotify.com/album/27EWlKpIxk0YCcpc3pI6ge"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 338080,
       "name": "Let's Straighten It Out",
       "url": "https://open.spotify.com/track/31RB0e7i3uPJfY5qz06ZHO"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "Loose Fit",
+        "url": "https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Rosie",
+      "url": "https://open.spotify.com/track/5gY5mb97G1JZFB8eved6rR"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "Another Side",
-        "url": "https://open.spotify.com/album/1eSgEDszxXr6haafSVkK7u"
-      },
-      "artists": [
-        {
-          "name": "Leo Nocentelli",
-          "url": "https://open.spotify.com/artist/7wpiEcyGHoPCwTLtdgx50e"
-        }
-      ],
-      "duration_ms": 214506,
-      "name": "You've Become a Habit",
-      "url": "https://open.spotify.com/track/373YZS4hMUPxFTHMG4TAFh"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "I Want to Be Loved",
         "url": "https://open.spotify.com/album/4vA6tOj1hFAib4Foxu2g6X"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 230106,
       "name": "Keep On Holding On",
       "url": "https://open.spotify.com/track/0ZYulti55Y3OumnwLQsn1M"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "Another Side",
+        "url": "https://open.spotify.com/album/1eSgEDszxXr6haafSVkK7u"
+      },
+      "artists": [
+        {
+          "name": "Leo Nocentelli",
+          "url": "https://open.spotify.com/artist/7wpiEcyGHoPCwTLtdgx50e"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "You've Become a Habit",
+      "url": "https://open.spotify.com/track/373YZS4hMUPxFTHMG4TAFh"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -2499,6 +2499,22 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
+        "name": "Motown 50",
+        "url": "https://open.spotify.com/album/3rCF2cgw8eRPtvRbcr63Bh"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 411360,
+      "name": "Papa Was A Rollin' Stone - Single Version",
+      "url": "https://open.spotify.com/track/5qf5RkyeFIwPdHrftXnOLq"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
         "name": "Jim",
         "url": "https://open.spotify.com/album/3Hoe3hptCyII2pA7tNEAab"
       },
@@ -2527,22 +2543,6 @@
       "duration_ms": 244373,
       "name": "Shake You Down",
       "url": "https://open.spotify.com/track/6AyURVQJn9o8qwiYvE37nG"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
-        "name": "Motown 50",
-        "url": "https://open.spotify.com/album/3rCF2cgw8eRPtvRbcr63Bh"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 411360,
-      "name": "Papa Was A Rollin' Stone - Single Version",
-      "url": "https://open.spotify.com/track/5qf5RkyeFIwPdHrftXnOLq"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -2591,6 +2591,22 @@
       "duration_ms": 196826,
       "name": "I'll Take You There",
       "url": "https://open.spotify.com/track/4j0M3v7GPijfIrzjN8QcuK"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "De Zwarte Lijst",
+        "url": "https://open.spotify.com/album/4mb8ZVI5MmAApY7909j5YK"
+      },
+      "artists": [
+        {
+          "name": "Wouter Hamel",
+          "url": "https://open.spotify.com/artist/7eK4wPcMgmSIxcGBS2lJl0"
+        }
+      ],
+      "duration_ms": 234120,
+      "name": "Demise - Radio Edit",
+      "url": "https://open.spotify.com/track/5I4Pd5lxfocsnQbTx5itEF"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -2811,22 +2827,6 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 303533,
-      "name": "Love And Happiness",
-      "url": "https://open.spotify.com/track/13FkFPnKX1eC2V3nwSy5YB"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
         "name": "Bet Ain't Worth the Hand / Bad Bad News",
         "url": "https://open.spotify.com/album/7Csuf8rJjBOP4GK11pPCw7"
       },
@@ -2839,6 +2839,22 @@
       "duration_ms": 207306,
       "name": "Bad Bad News",
       "url": "https://open.spotify.com/track/5CDrDzan4wRW3Dj4LD6meH"
+    },
+    {
+      "added_at": "2025-02-10 08:25:04",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 303533,
+      "name": "Love And Happiness",
+      "url": "https://open.spotify.com/track/13FkFPnKX1eC2V3nwSy5YB"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -2859,18 +2875,18 @@
     {
       "added_at": "2025-02-10 08:25:04",
       "album": {
-        "name": "De Zwarte Lijst",
-        "url": "https://open.spotify.com/album/4mb8ZVI5MmAApY7909j5YK"
+        "name": "Pieces of a Man",
+        "url": "https://open.spotify.com/album/6gZlPB0fBBD75qUSKSFKs0"
       },
       "artists": [
         {
-          "name": "Wouter Hamel",
-          "url": "https://open.spotify.com/artist/7eK4wPcMgmSIxcGBS2lJl0"
+          "name": "Gil Scott-Heron",
+          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
         }
       ],
-      "duration_ms": 234120,
-      "name": "Demise - Radio Edit",
-      "url": "https://open.spotify.com/track/5I4Pd5lxfocsnQbTx5itEF"
+      "duration_ms": 209593,
+      "name": "I Think I'll Call It Morning",
+      "url": "https://open.spotify.com/track/2NFaL70qpAezdlByUkFTOq"
     },
     {
       "added_at": "2025-02-10 08:25:04",
@@ -2891,22 +2907,6 @@
       "duration_ms": 254893,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/7hrUma6oSEaVwnlwkQa7XB"
-    },
-    {
-      "added_at": "2025-02-10 08:25:04",
-      "album": {
-        "name": "Pieces of a Man",
-        "url": "https://open.spotify.com/album/6gZlPB0fBBD75qUSKSFKs0"
-      },
-      "artists": [
-        {
-          "name": "Gil Scott-Heron",
-          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
-        }
-      ],
-      "duration_ms": 209593,
-      "name": "I Think I'll Call It Morning",
-      "url": "https://open.spotify.com/track/2NFaL70qpAezdlByUkFTOq"
     },
     {
       "added_at": "2025-02-10 08:25:04",

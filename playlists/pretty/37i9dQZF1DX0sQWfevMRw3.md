@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > ROCKSTAR LIFE!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,402 likes - 101 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,446 likes - 101 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

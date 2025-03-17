@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 803126,
+  "num_followers": 803217,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -59,26 +59,6 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
-        "name": "Deixa (feat. Ana Gabriela)",
-        "url": "https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 176025,
-      "name": "Deixa (feat. Ana Gabriela)",
-      "url": "https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp"
-    },
-    {
-      "added_at": "2025-03-07 03:00:31",
-      "album": {
         "name": "Dres",
         "url": "https://open.spotify.com/album/2VpIoTSvTf4bUqjAvT10iv"
       },
@@ -95,6 +75,26 @@
       "duration_ms": 343813,
       "name": "Pra Voc\u00ea Guardei O Amor",
       "url": "https://open.spotify.com/track/1EQ8sBQ7Abv9DvNBzhXAcv"
+    },
+    {
+      "added_at": "2025-03-07 03:00:31",
+      "album": {
+        "name": "Deixa (feat. Ana Gabriela)",
+        "url": "https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 176025,
+      "name": "Deixa (feat. Ana Gabriela)",
+      "url": "https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp"
     },
     {
       "added_at": "2025-03-07 03:00:31",
@@ -175,22 +175,6 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
-        "name": "P\u00fablico",
-        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
-      },
-      "artists": [
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 131426,
-      "name": "Devolva-Me (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
-    },
-    {
-      "added_at": "2025-03-07 03:00:31",
-      "album": {
         "name": "Djavan",
         "url": "https://open.spotify.com/album/3SrW9PsWq7ipPERLgck3tA"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 296106,
       "name": "Oceano",
       "url": "https://open.spotify.com/track/3iof6EclqePezHDibBiykI"
+    },
+    {
+      "added_at": "2025-03-07 03:00:31",
+      "album": {
+        "name": "P\u00fablico",
+        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 131426,
+      "name": "Devolva-Me (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
     },
     {
       "added_at": "2025-03-07 03:00:31",
@@ -295,6 +295,22 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
+        "name": "Na Press\u00e3o",
+        "url": "https://open.spotify.com/album/18gEdE7EJMpVeBCSDZgOdG"
+      },
+      "artists": [
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        }
+      ],
+      "duration_ms": 284293,
+      "name": "Paci\u00eancia",
+      "url": "https://open.spotify.com/track/6gBlkT2u5P7UyZUYH8WnKz"
+    },
+    {
+      "added_at": "2025-03-07 03:00:31",
+      "album": {
         "name": "F\u00e9 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0fwc0d0RgaCypAt32HGICQ"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 252600,
       "name": "Felicidade",
       "url": "https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6"
-    },
-    {
-      "added_at": "2025-03-07 03:00:31",
-      "album": {
-        "name": "Na Press\u00e3o",
-        "url": "https://open.spotify.com/album/18gEdE7EJMpVeBCSDZgOdG"
-      },
-      "artists": [
-        {
-          "name": "Lenine",
-          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
-        }
-      ],
-      "duration_ms": 284293,
-      "name": "Paci\u00eancia",
-      "url": "https://open.spotify.com/track/6gBlkT2u5P7UyZUYH8WnKz"
     },
     {
       "added_at": "2025-03-07 03:00:31",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
-        "name": "N\u00e3o Sou Nenhum Roberto, Mas \u00e0s Vezes Chego Perto",
-        "url": "https://open.spotify.com/album/2pOKaRgRQWuCbYFX2UeYDh"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 211237,
-      "name": "De Tanto Amor",
-      "url": "https://open.spotify.com/track/1Se9OjFwgSh05eRyOmDjLl"
-    },
-    {
-      "added_at": "2025-03-07 03:00:31",
-      "album": {
         "name": "Tempo Perdido (Vers\u00e3o Os Dias Eram Assim)",
         "url": "https://open.spotify.com/album/7t5ScMLW7t6WIa5F1VRvNN"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 208470,
       "name": "Tempo Perdido (Vers\u00e3o Os Dias Eram Assim)",
       "url": "https://open.spotify.com/track/5nJNdtx7ZtkNRKiYdhb87Z"
+    },
+    {
+      "added_at": "2025-03-07 03:00:31",
+      "album": {
+        "name": "N\u00e3o Sou Nenhum Roberto, Mas \u00e0s Vezes Chego Perto",
+        "url": "https://open.spotify.com/album/2pOKaRgRQWuCbYFX2UeYDh"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 211237,
+      "name": "De Tanto Amor",
+      "url": "https://open.spotify.com/track/1Se9OjFwgSh05eRyOmDjLl"
     },
     {
       "added_at": "2025-03-07 03:00:31",
@@ -635,38 +635,6 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
-        "name": "Por Pouco (Bit Box)",
-        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
-      },
-      "artists": [
-        {
-          "name": "Mundo Livre S/A",
-          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
-        }
-      ],
-      "duration_ms": 259480,
-      "name": "Meu Esquema",
-      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
-    },
-    {
-      "added_at": "2025-03-07 03:00:31",
-      "album": {
-        "name": "Flora - EP",
-        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Vem conversar",
-      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
-    },
-    {
-      "added_at": "2025-03-07 03:00:31",
-      "album": {
         "name": "Ofert\u00f3rio (Ao Vivo)",
         "url": "https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv"
       },
@@ -683,6 +651,22 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
+        "name": "Por Pouco (Bit Box)",
+        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
+      },
+      "artists": [
+        {
+          "name": "Mundo Livre S/A",
+          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "Meu Esquema",
+      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
+    },
+    {
+      "added_at": "2025-03-07 03:00:31",
+      "album": {
         "name": "Nossa m\u00fasica",
         "url": "https://open.spotify.com/album/7vdk9XKYqz9BL7mZlzIlfj"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 239642,
       "name": "Nossa m\u00fasica",
       "url": "https://open.spotify.com/track/4hpcc2wq84pilUgDbIPkDN"
+    },
+    {
+      "added_at": "2025-03-07 03:00:31",
+      "album": {
+        "name": "Flora - EP",
+        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Vem conversar",
+      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
     },
     {
       "added_at": "2025-03-07 03:00:31",
@@ -879,30 +879,6 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
-        "name": "N\u00f3s e o Mar",
-        "url": "https://open.spotify.com/album/2D17MtpiNuMjRABN5GpviU"
-      },
-      "artists": [
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "Diogo Monzo",
-          "url": "https://open.spotify.com/artist/5WQDCMkE5lMq5H0lkHKQmc"
-        },
-        {
-          "name": "Ricardo Bacelar",
-          "url": "https://open.spotify.com/artist/0ydGW5O1ai60prNBXKWSbF"
-        }
-      ],
-      "duration_ms": 233273,
-      "name": "O Barquinho",
-      "url": "https://open.spotify.com/track/1wfW4rHqRsodDpnH1fOD5R"
-    },
-    {
-      "added_at": "2025-03-07 03:00:31",
-      "album": {
         "name": "Calm\u00f4",
         "url": "https://open.spotify.com/album/3sd79IarRG4KrhNIRlxNy1"
       },
@@ -923,6 +899,30 @@
       "duration_ms": 254558,
       "name": "Calm\u00f4",
       "url": "https://open.spotify.com/track/5DHApowmRCAlCHRiLapAPh"
+    },
+    {
+      "added_at": "2025-03-07 03:00:31",
+      "album": {
+        "name": "N\u00f3s e o Mar",
+        "url": "https://open.spotify.com/album/2D17MtpiNuMjRABN5GpviU"
+      },
+      "artists": [
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "Diogo Monzo",
+          "url": "https://open.spotify.com/artist/5WQDCMkE5lMq5H0lkHKQmc"
+        },
+        {
+          "name": "Ricardo Bacelar",
+          "url": "https://open.spotify.com/artist/0ydGW5O1ai60prNBXKWSbF"
+        }
+      ],
+      "duration_ms": 233273,
+      "name": "O Barquinho",
+      "url": "https://open.spotify.com/track/1wfW4rHqRsodDpnH1fOD5R"
     },
     {
       "added_at": "2025-03-07 03:00:31",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
-        "name": "Ensacado",
-        "url": "https://open.spotify.com/album/2KQLD2oGnUJhwKiDep6SIE"
-      },
-      "artists": [
-        {
-          "name": "Josyara",
-          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
-        },
-        {
-          "name": "Pitty",
-          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
-        }
-      ],
-      "duration_ms": 179418,
-      "name": "Ensacado",
-      "url": "https://open.spotify.com/track/37ZLnHtXKDU8gde8qzsOcd"
-    },
-    {
-      "added_at": "2025-03-07 03:00:31",
-      "album": {
         "name": "Milton + esperanza",
         "url": "https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar"
       },
@@ -1079,6 +1059,26 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
+        "name": "Ensacado",
+        "url": "https://open.spotify.com/album/2KQLD2oGnUJhwKiDep6SIE"
+      },
+      "artists": [
+        {
+          "name": "Josyara",
+          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
+        },
+        {
+          "name": "Pitty",
+          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
+        }
+      ],
+      "duration_ms": 179418,
+      "name": "Ensacado",
+      "url": "https://open.spotify.com/track/37ZLnHtXKDU8gde8qzsOcd"
+    },
+    {
+      "added_at": "2025-03-07 03:00:31",
+      "album": {
         "name": "Disritmia / Ex-Amor",
         "url": "https://open.spotify.com/album/2LB5wjsGBFqaguPFGy1t3j"
       },
@@ -1095,22 +1095,6 @@
       "duration_ms": 299724,
       "name": "Disritmia / Ex-Amor",
       "url": "https://open.spotify.com/track/51CCN24j1CLClG3jDOe6yb"
-    },
-    {
-      "added_at": "2025-03-07 03:00:31",
-      "album": {
-        "name": "Real / Surreal (Deluxe)",
-        "url": "https://open.spotify.com/album/5QR2xVbwCNxOBgssCLEmhP"
-      },
-      "artists": [
-        {
-          "name": "Scalene",
-          "url": "https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z"
-        }
-      ],
-      "duration_ms": 170706,
-      "name": "Amanheceu",
-      "url": "https://open.spotify.com/track/2dnsqxCyWYslPCT6ajjUDI"
     },
     {
       "added_at": "2025-03-07 03:00:31",
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
-        "name": "Amuleto",
-        "url": "https://open.spotify.com/album/4HvVCCgm8aIdaDryqCjMCn"
+        "name": "Real / Surreal (Deluxe)",
+        "url": "https://open.spotify.com/album/5QR2xVbwCNxOBgssCLEmhP"
       },
       "artists": [
         {
-          "name": "Ti\u00ea",
-          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+          "name": "Scalene",
+          "url": "https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z"
         }
       ],
-      "duration_ms": 207530,
-      "name": "Amuleto",
-      "url": "https://open.spotify.com/track/5JEVbp6mX3umfQePbnN3sE"
+      "duration_ms": 170706,
+      "name": "Amanheceu",
+      "url": "https://open.spotify.com/track/2dnsqxCyWYslPCT6ajjUDI"
     },
     {
       "added_at": "2025-03-07 03:00:31",
@@ -1167,6 +1151,22 @@
       "duration_ms": 247812,
       "name": "O amor te d\u00e1",
       "url": "https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq"
+    },
+    {
+      "added_at": "2025-03-07 03:00:31",
+      "album": {
+        "name": "Amuleto",
+        "url": "https://open.spotify.com/album/4HvVCCgm8aIdaDryqCjMCn"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        }
+      ],
+      "duration_ms": 207530,
+      "name": "Amuleto",
+      "url": "https://open.spotify.com/track/5JEVbp6mX3umfQePbnN3sE"
     },
     {
       "added_at": "2025-03-07 03:00:31",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2025-03-07 03:00:31",
       "album": {
+        "name": "iCollection",
+        "url": "https://open.spotify.com/album/5RmJn59FZ0cGwGM6MqcgGg"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        }
+      ],
+      "duration_ms": 214426,
+      "name": "Mexeu comigo",
+      "url": "https://open.spotify.com/track/7A8N1poNHW8yHXWIbLD5rL"
+    },
+    {
+      "added_at": "2025-03-07 03:00:31",
+      "album": {
         "name": "Bananeira",
         "url": "https://open.spotify.com/album/2GRTmmPuhLAfvCEg9PrHxL"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 213377,
       "name": "Bananeira",
       "url": "https://open.spotify.com/track/4WgmnXbC1AeMIHzzrMY3o0"
-    },
-    {
-      "added_at": "2025-03-07 03:00:31",
-      "album": {
-        "name": "Vento Ventania",
-        "url": "https://open.spotify.com/album/29Z0AoN1FemSBs8rRElGHv"
-      },
-      "artists": [
-        {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Vento Ventania",
-      "url": "https://open.spotify.com/track/1qXIWVsx63zw4ACCZxNAfi"
     }
   ],
   "unique_name": "Cafezinho",

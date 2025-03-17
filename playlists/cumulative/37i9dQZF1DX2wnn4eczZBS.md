@@ -4,7 +4,7 @@
 
 > indie & indiepop in het Nederlands\. Cover: Joost & Spinvis
 
-169 songs - 8 hr 52 min
+170 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Hotel de Goudfazanten](https://open.spotify.com/track/3k10pBkw1BbRf7gUmWARQM) | [Jordy Dijkshoorn](https://open.spotify.com/artist/2rxfs3NQmggU6tSbZZJ3Ke) | [Hotel de Goudfazanten](https://open.spotify.com/album/5c3FvmDVsg3K2dNpWZGS6X) | 3:21 | 2024-10-11 | 2025-01-11 |
 | [Hou ik te weinig van mezelf](https://open.spotify.com/track/2j5vAHjU1JBBqihW6z56TS) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Hou ik te weinig van mezelf](https://open.spotify.com/album/34RXbvn4DMPXqm1cm6Lli0) | 2:24 | 2024-06-26 | 2024-09-10 |
 | [Huisje Boompje Hypotheek](https://open.spotify.com/track/1FFpBCHbDsFFoEODQvG9g1) | [Faske](https://open.spotify.com/artist/0WCFYAsNdBO9LraOxLoHoG) | [Huisje Boompje Hypotheek](https://open.spotify.com/album/3Ga4adTPm86fH9534gf98J) | 3:04 | 2024-06-26 | 2024-07-27 |
+| [i miss u \[brood\]](https://open.spotify.com/track/0IyJWLIhd3yiJMemiJLKPj) | [flens](https://open.spotify.com/artist/6GUmsOojs1m8tTbp7ZsaaD) | [i miss u \[brood\]](https://open.spotify.com/album/7K1uSKM8wyJyYtLmVTSUkp) | 2:19 | 2025-03-13 |  |
 | [IJs](https://open.spotify.com/track/1DMQuGNhRsqyw2YF2WPzC6) | [Babs](https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M) | [Half](https://open.spotify.com/album/7iioVMREgJtTMow2rRnbUt) | 2:32 | 2024-06-26 | 2024-08-30 |
 | [IK GELOOF HET NIET](https://open.spotify.com/track/3zYMY5Bgtm0GSxhSv0ri9n) | [Massi](https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056) | [IK GELOOF HET NIET](https://open.spotify.com/album/20gE1bwQ29W2vxSs6rHeC2) | 2:44 | 2024-11-07 | 2025-01-11 |
 | [Ik heb je zo gemist](https://open.spotify.com/track/78xwr7xEmWHXmIwliLNyyS) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Mathieu Terryn](https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK) | [drift](https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y) | 3:22 | 2025-01-10 |  |
@@ -142,7 +143,7 @@
 | [Steeds Weer](https://open.spotify.com/track/7uEC4z7GMQAgmhOV737AcR) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Meester Van Niks](https://open.spotify.com/album/5Y5iMbFdJDo0h91qRW0lLU) | 2:16 | 2025-03-07 |  |
 | [Suicide Vest](https://open.spotify.com/track/3dg92GcW0cYVTRdByFfiqU) | [Massi](https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056) | [Suicide Vest](https://open.spotify.com/album/2qfzIAJETQsix94hAecDmZ) | 4:02 | 2025-01-10 | 2025-03-08 |
 | [Symptomen](https://open.spotify.com/track/2MSF7qswBGmD3VdWxvWygs) | [Johannes Is Zijn Naam](https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0) | [Symptomen](https://open.spotify.com/album/2dYGcFYAJbqSMHw8H5hV6f) | 3:42 | 2024-10-09 |  |
-| [Te Echt](https://open.spotify.com/track/33zJAMvzqHa7vMzK8oA9wZ) | [Nieuwe Gezichten](https://open.spotify.com/artist/4264rIV4BlBGXdk0R9so4c), [Bo Menning](https://open.spotify.com/artist/2k83szK3kujFBEO1icWht3) | [Te Echt](https://open.spotify.com/album/3vda2iqdmPnTyQ3vTMlRbW) | 4:08 | 2025-02-07 |  |
+| [Te Echt](https://open.spotify.com/track/33zJAMvzqHa7vMzK8oA9wZ) | [Nieuwe Gezichten](https://open.spotify.com/artist/4264rIV4BlBGXdk0R9so4c), [Bo Menning](https://open.spotify.com/artist/2k83szK3kujFBEO1icWht3) | [Te Echt](https://open.spotify.com/album/3vda2iqdmPnTyQ3vTMlRbW) | 4:08 | 2025-02-07 | 2025-03-17 |
 | [Telefoon](https://open.spotify.com/track/7n76BZB7LkeM6DdIT1Y10i) | [Babs](https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M) | [Dit Is Toch Geen Manier Van Leven](https://open.spotify.com/album/1UmqlrapZ8JKr7sED5Km46) | 2:32 | 2025-02-27 | 2025-03-08 |
 | [Telkens Als Ik Jou Hier Zie](https://open.spotify.com/track/4jNi3dbpwO919Wlk0y1Krx) | [Meetsysteem](https://open.spotify.com/artist/2Dsv89oyAH1efJDlgDcXlm) | [Telkens Als Ik Jou Hier Zie](https://open.spotify.com/album/0Kh5Apkoc4KhW8KgGvHKYk) | 2:50 | 2024-06-26 | 2024-07-27 |
 | [Troostzoekers \(met Froukje\)](https://open.spotify.com/track/1EGEgAKpYg1T9zOVZKyP8J) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Sterrenlopen](https://open.spotify.com/album/5GMxtUUhppf2fnfCSivkKQ) | 3:32 | 2024-06-26 | 2024-08-30 |

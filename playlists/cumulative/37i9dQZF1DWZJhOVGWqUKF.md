@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: Volbeat
 
-391 songs - 22 hr 21 min
+392 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [DArkSide](https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DArkSide](https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq) | 2:44 | 2024-06-27 | 2024-12-20 |
 | [Dead Or Alive](https://open.spotify.com/track/122jYbqBkC5X3TO7AKpFgo) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Dead Or Alive](https://open.spotify.com/album/1XI9tZmvcoof83ZShzUwTL) | 3:43 | 2024-11-14 | 2024-11-22 |
 | [Death by a Thousand Cuts \- Feat\. Lucas Woodland](https://open.spotify.com/track/7B81PwYsKxxznT4frjjzFA) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH), [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU), [Lucas Woodland](https://open.spotify.com/artist/76iTTQpdw0ECsYeXVnKA2t) | [Death by a Thousand Cuts \(Feat\. Lucas Woodland\)](https://open.spotify.com/album/7t6lpHcNeLELIK4kuygGXg) | 5:21 | 2024-07-18 | 2025-01-01 |
+| [Death Do Us Part](https://open.spotify.com/track/4cfydDE0vCCa0MMBd2EPwm) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Death Do Us Part](https://open.spotify.com/album/6olQpH499EQGaUWo2ZkNIr) | 2:59 | 2025-03-13 |  |
 | [Decarabia](https://open.spotify.com/track/3Ie94l4qlS47GeIvzHLuVH) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Decarabia](https://open.spotify.com/album/7DCBSgIgSATKoG75slNunN) | 3:40 | 2024-08-01 | 2024-08-09 |
 | [Diamonds](https://open.spotify.com/track/3m483CLDWwqbat78cTk2Oa) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Diamonds](https://open.spotify.com/album/5PdzVcmTEKVpm1rqWzIbU8) | 3:56 | 2025-03-06 |  |
 | [Dirt On My Name \(feat\. Mirza Radonjica\)](https://open.spotify.com/track/1U9FCTadH13DERf6H5xqov) | [Enemy Inside](https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy), [Mirza Radonjica](https://open.spotify.com/artist/6IJ172Wtmx3Ap9wQacSyeO) | [Dirt On My Name \(feat\. Mirza Radonjica\)](https://open.spotify.com/album/2FsNcGuuNrwsoGnFhr0iT4) | 2:57 | 2025-01-16 | 2025-01-24 |
@@ -324,7 +325,7 @@
 | [Soldier In The Army of Love](https://open.spotify.com/track/1gQP8UKHi9eRVrTS8pm4ep) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [Soldier In The Army of Love](https://open.spotify.com/album/05gBPlkrFzoHDBtN4JseUS) | 2:58 | 2024-06-27 | 2024-07-23 |
 | [Someone Who Can](https://open.spotify.com/track/4I67eSiBu1uekf8yYnJi7K) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Someone Who Can](https://open.spotify.com/album/7t914q200AnbbeomCdJU9L) | 3:45 | 2025-01-16 | 2025-02-14 |
 | [Something To Do](https://open.spotify.com/track/1R4WmMTZxs7BcuHmHsbqu5) | [The Journey Back](https://open.spotify.com/artist/55CvD5dJc8ykAoramtPS71), [IMPVLSE](https://open.spotify.com/artist/4Xb8zLSdetzreInyw9csZN) | [Something To Do](https://open.spotify.com/album/1UhKtIWvOiiTtJhzgHo5FE) | 3:32 | 2024-11-28 | 2024-12-06 |
-| [SORRY I'M LATE](https://open.spotify.com/track/2zjBoQPdXMjgnVfnS8V9zx) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [SORRY I'M LATE](https://open.spotify.com/album/4ZxHPDJDDns4uIcYx9Q5us) | 3:15 | 2024-10-03 |  |
+| [SORRY I'M LATE](https://open.spotify.com/track/2zjBoQPdXMjgnVfnS8V9zx) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [SORRY I'M LATE](https://open.spotify.com/album/4ZxHPDJDDns4uIcYx9Q5us) | 3:15 | 2024-10-03 | 2025-03-17 |
 | [Special](https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Special](https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r) | 2:57 | 2024-10-10 | 2024-12-17 |
 | [Start A Comeback](https://open.spotify.com/track/2Fq6lhMu7yxGe4ksk4OPIu) | [Flash Forward](https://open.spotify.com/artist/7tdC77yyABquZ7vEAscwvB), [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [Start A Comeback](https://open.spotify.com/album/3MUabEx9hHnZAcDXTA1POx) | 3:01 | 2024-08-22 | 2024-08-30 |
 | [Starting Over](https://open.spotify.com/track/4ZjYbNTWBUqhTkq3ydZrM0) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [Starting Over](https://open.spotify.com/album/3IxDdaXI3bCQNt2AliVKu2) | 3:14 | 2025-01-30 |  |

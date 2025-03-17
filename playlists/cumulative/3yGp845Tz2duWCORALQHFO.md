@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-2,298 songs - 5 day 4 hr 30 min
+2,301 songs - 5 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -556,6 +556,7 @@
 | [echoes](https://open.spotify.com/track/4Q02ff6NGhoQBXv5oZLj63) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64) | [echoes](https://open.spotify.com/album/6D349h2vlc01e50wIEC1BK) | 2:52 | 2024-06-20 | 2024-06-29 |
 | [Echoes](https://open.spotify.com/track/1cw2vKwwn9aKq7J6FsVMRB) | [Deagon](https://open.spotify.com/artist/34h3uv9dVLZqv4chYpSXWw) | [Echoes](https://open.spotify.com/album/23WY6tvDQuPknmzHR3oqlQ) | 3:00 | 2024-07-05 | 2024-07-12 |
 | [Echoes \- Craig Connelly Remix](https://open.spotify.com/track/5gy0a8KW13qcOYwHLWk9v0) | [RAM](https://open.spotify.com/artist/4f0a5IgkYFHFts5Z9N9SDX), [Roxanne Emery](https://open.spotify.com/artist/70bIIPbBQeaFzRrIfahMEM), [Craig Connelly](https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL) | [Echoes \(Craig Connelly Remix\)](https://open.spotify.com/album/7wVlSe368K8R4fWLNUurdp) | 4:15 | 2024-11-24 | 2024-11-30 |
+| [Echoes Within](https://open.spotify.com/track/7GsapYEHIAGv30aowyU816) | [FluxCap](https://open.spotify.com/artist/3fCaZH5ooDMIrAyt2doyOu) | [Echoes Within](https://open.spotify.com/album/1aRKIzTREOUOlCVgBw8t0u) | 3:21 | 2025-03-16 |  |
 | [Ecstasy](https://open.spotify.com/track/0dxBN0SzADeaD2xU9QRJtv) | [Dirty Sound Boys](https://open.spotify.com/artist/0ASWinQIkjpJxXAwr7eVQ7) | [Ecstasy](https://open.spotify.com/album/7B0pLs2cJQV8gGWSHMFomp) | 2:50 | 2025-02-14 | 2025-02-22 |
 | [EDGE \- Blanke Remix](https://open.spotify.com/track/3NQinJIWliMnzomwtQzVNR) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [EDGE \(The Remixes\)](https://open.spotify.com/album/6NIM6v3gwobJAy7IY5jNJA) | 2:45 | 2024-06-20 | 2024-06-29 |
 | [Edge of Saturday Night](https://open.spotify.com/track/0C1tRNlfakowVNFn1IMeCV) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Edge of Saturday Night](https://open.spotify.com/album/09VDiKeG4eFlqac8GAPAJQ) | 3:26 | 2024-08-16 | 2024-08-24 |
@@ -1049,6 +1050,7 @@
 | [It Started With a Dream](https://open.spotify.com/track/265WL9WryTbqm9K9Agq2ne) | [FHONO](https://open.spotify.com/artist/5E3W9cit6Ec5ORdJvGy3k3) | [It Started With a Dream](https://open.spotify.com/album/5FMPyYKM6pmnxGIsW1zqxQ) | 3:40 | 2024-06-17 | 2024-06-21 |
 | [It's A Feeling](https://open.spotify.com/track/3py9E6Yll3JY9VKQEaZzP8) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [It's A Feeling](https://open.spotify.com/album/3lV6tjpfPlg08Yjs4WjsDZ) | 3:09 | 2024-07-05 | 2024-07-12 |
 | [It's About Us](https://open.spotify.com/track/2QJwMBAnrB6HDsS4dhTaNT) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [It's About Us](https://open.spotify.com/album/1obE6RQ5LGUFgIhvfg35e6) | 3:52 | 2025-01-31 | 2025-02-07 |
+| [It's Not Goodbye, It's See You Later](https://open.spotify.com/track/4irV4oqSYZ68tOI3OevIMr) | [Wafflecöne](https://open.spotify.com/artist/23Dew9ej0vuV9wVRxx7k3x) | [It's Not Goodbye, It's See You Later](https://open.spotify.com/album/3GBwSAuS1fqfdGh0yEp0ow) | 1:57 | 2025-03-16 |  |
 | [It's Really That Simple](https://open.spotify.com/track/41VrGIXMLPaQBOLdXV91Ab) | [Ellie Sax](https://open.spotify.com/artist/29F0PD42gPA2kL7wHWzgAN) | [It's Really That Simple](https://open.spotify.com/album/5uPEVqG2h8DiQUOyS534tM) | 4:22 | 2024-06-21 | 2024-06-29 |
 | [It's Strange](https://open.spotify.com/track/0V3ssu48VOqr1WwkPOD4Yt) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [It’s Strange](https://open.spotify.com/album/4PdIH020EAwcbah7q92WsG) | 3:32 | 2024-05-24 | 2024-06-01 |
 | [It's You](https://open.spotify.com/track/2kZ1PZF5vdffvaZwICsrL6) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Queen D](https://open.spotify.com/artist/6DP0yD9AqeiK3V57URKt4W) | [It's You](https://open.spotify.com/album/1cd6fSCJ2SnMDUVc7UZXip) | 3:37 | 2024-07-05 | 2024-07-12 |
@@ -1815,6 +1817,7 @@
 | [Si Te Vas](https://open.spotify.com/track/3D2jhnByvi7je8qYz3cWM1) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Si Te Vas](https://open.spotify.com/album/3o8GPFoFLVI0pfUPePSmbl) | 2:11 | 2024-07-19 | 2024-07-27 |
 | [Side Effects \(feat\. Rain Davis\)](https://open.spotify.com/track/6gUQ7eqBb1jfjwjO5bxkY8) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Rain Davis](https://open.spotify.com/artist/79hDbZJ13TGzE03T6CT44r) | [Rx](https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx) | 3:00 | 2024-05-17 | 2024-05-25 |
 | [Sideways](https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 4:13 | 2024-07-26 | 2024-08-02 |
+| [Sifa Ekele](https://open.spotify.com/track/5Wfe69muBWWmWVMF0xgGft) | [TRONIQ](https://open.spotify.com/artist/7xV87aLKIqjESEsoN9xOJE) | [Sifa Ekele](https://open.spotify.com/album/4i24TV9Jfno0Ajzt49JJQg) | 3:43 | 2025-03-16 |  |
 | [Silence](https://open.spotify.com/track/64QEKubw0hGFGI6JAyeIgl) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Silence](https://open.spotify.com/album/1DeviOm1Q9kfRInjKew0zj) | 4:00 | 2024-07-12 | 2024-07-19 |
 | [Silence Is Cold](https://open.spotify.com/track/2EXSJ8bcumfr9JwniQ6i5o) | [NEVERGLOW](https://open.spotify.com/artist/2K7Hlrg5cti0mVKx4l0Rwz), [Elle Hollis](https://open.spotify.com/artist/5ZCeCsLU92i1Uv75rarNNn) | [Silence Is Cold \(feat\. Elle Hollis\)](https://open.spotify.com/album/3wddpOidebE1hnh3CASZjA) | 2:39 | 2024-11-08 | 2024-11-16 |
 | [Sima Agua \(feat\. Mayra Andrade\)](https://open.spotify.com/track/7gpFZiYUxTQUu5iyUB7k78) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Sima Agua \(feat\. Mayra Andrade\)](https://open.spotify.com/album/0lHeNyUgnHnQkC3dNqIt0A) | 3:47 | 2024-09-20 | 2024-09-27 |

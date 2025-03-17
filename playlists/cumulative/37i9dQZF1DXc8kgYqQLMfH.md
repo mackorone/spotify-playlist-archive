@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,210 songs - 1 day 22 hr 8 min
+1,211 songs - 1 day 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Drift](https://open.spotify.com/track/7DgiTzkm5OcTlD4vYLmGS9) | [Revoir](https://open.spotify.com/artist/7FBH8ul4xUiYw1eYeBJs1f), [Ninn Tendo](https://open.spotify.com/artist/1OF6VqF0EwQP7tfJlFIVMw) | [Drift](https://open.spotify.com/album/6bmoUmUkCHbfKa4sb3iXEP) | 2:03 | 2021-11-10 | 2022-07-29 |
 | [driftaways](https://open.spotify.com/track/1ovbqyYP6O7UR7BQzg02qy) | [densitydrive](https://open.spotify.com/artist/6J05YtZ0cTSqqTm5W7Ar2e) | [driftaways](https://open.spotify.com/album/56fghvFpH5TbCG7iTSvNtd) | 2:15 | 2021-11-10 | 2022-06-03 |
 | [Driftin'](https://open.spotify.com/track/757PUL7j0KeE7HGPUQdNOr) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Mayaewk](https://open.spotify.com/artist/20oT5LKCdO5vqCSgZ83OsQ) | [Driftin'](https://open.spotify.com/album/6WMTc88FIzkJXsMLrjFirF) | 2:25 | 2023-11-17 | 2023-12-15 |
+| [Drifting](https://open.spotify.com/track/6SD1pxax8w0mb4HKFMHB6g) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q), [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [Drifting](https://open.spotify.com/album/4PgWB31QuLC06bxsG8HXEa) | 2:55 | 2025-03-14 |  |
 | [Drifting](https://open.spotify.com/track/1wr8Q5WOf1VHvIW2XlJ6WS) | [CRFT](https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM), [wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym) | [Drifting](https://open.spotify.com/album/5f5B4R0ddtk11JjCNpWPeY) | 2:02 | 2023-09-29 |  |
 | [Drifting](https://open.spotify.com/track/1mPjpQZdd5H4wvb4ZQ98Fm) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Drifting](https://open.spotify.com/album/1DUBPVEvAeWMvG663pp5Qc) | 2:27 | 2021-11-10 | 2022-07-29 |
 | [Drifting](https://open.spotify.com/track/6sQEOXvW9JyMiihWyCZv1E) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Drifting](https://open.spotify.com/album/00mz7xgsCHhPWtpJmHmr9U) | 2:00 | 2023-02-17 |  |
@@ -452,7 +453,7 @@
 | [Helium](https://open.spotify.com/track/5kNOPm4KEZb1rQcuW1Ceib) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [Helium](https://open.spotify.com/album/3fkualIq2JDtFczKqsapwD) | 2:15 | 2021-11-10 | 2022-07-22 |
 | [hello](https://open.spotify.com/track/7McehAjzhS8bEprBvY9KDJ) | [werklig](https://open.spotify.com/artist/27bOXURlYhViWycg2CYg6r) | [hello](https://open.spotify.com/album/4BY8K9Hr6r1QZHKxg9FYx1) | 1:58 | 2022-01-27 |  |
 | [here & now](https://open.spotify.com/track/7LrpylNEYXLNF2YqBerLa4) | [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt) | [here & now](https://open.spotify.com/album/5DiZQjPdPhAyMu1jboC0kU) | 1:32 | 2023-01-06 |  |
-| [Heroes](https://open.spotify.com/track/5MY4EnZdc8LuwfraVAyNFW) | [PØPE](https://open.spotify.com/artist/6rpgPKGnr7T1bpFh5wGZrx) | [Postcard](https://open.spotify.com/album/0o7HwPrLRbc6zyLHL8RuSr) | 1:58 | 2022-12-09 |  |
+| [Heroes](https://open.spotify.com/track/5MY4EnZdc8LuwfraVAyNFW) | [PØPE](https://open.spotify.com/artist/6rpgPKGnr7T1bpFh5wGZrx) | [Postcard](https://open.spotify.com/album/0o7HwPrLRbc6zyLHL8RuSr) | 1:58 | 2022-12-09 | 2025-03-17 |
 | [Heroic](https://open.spotify.com/track/1Mgfv6ihHH5ZjQkA2bagUg) | [rwethree](https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT) | [Heroic](https://open.spotify.com/album/0zkyDiJG7olarHq4ra9f8w) | 2:12 | 2023-09-15 | 2024-05-14 |
 | [Hiber Nation](https://open.spotify.com/track/1E8dmRocWJY7TMk908wpH9) | [Stekt](https://open.spotify.com/artist/5n6ZPmuIiA4rjI0BI20xBD) | [Hiber Nation](https://open.spotify.com/album/4IkDYVJ79vXbyUTUcynndN) | 2:42 | 2024-02-09 |  |
 | [hidden beauty](https://open.spotify.com/track/6HkdCCE61XLWwHN6QkMvDm) | [Kumegano](https://open.spotify.com/artist/3EiG8ERYtLZRuGCxrSyoSA) | [hidden beauty](https://open.spotify.com/album/34HsnHWY1avKoAksWZ4NiP) | 2:33 | 2022-11-11 |  |

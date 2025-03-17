@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 62206,
+  "num_followers": 62213,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9NxgAAAAADxY8HMSLpvQ72DKSiWLcyV",
+  "snapshot_id": "Z9TDAAAAAABE5oVi1hMZgagMZKF1ypOj",
   "tracks": [
     {
       "added_at": null,
@@ -267,18 +267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
+        "name": "\u00c9s Bem-Vindo \u00e0 Mesa",
+        "url": "https://open.spotify.com/album/79XQ40MyFbpEpTZU1lnPRS"
       },
       "artists": [
+        {
+          "name": "Leo Fonseca",
+          "url": "https://open.spotify.com/artist/34iSGCakITd5m0nZgIjkio"
+        },
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 334400,
-      "name": "Filho Do Deus Vivo - Ao Vivo",
-      "url": "https://open.spotify.com/track/06ZKQ9zWVEOR9C532mkj7K"
+      "duration_ms": 538285,
+      "name": "O Que Tua Gl\u00f3ria Fez Comigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5yonnE8BKuczROIGQKI6Ca"
     },
     {
       "added_at": null,
@@ -299,22 +303,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9s Bem-Vindo \u00e0 Mesa",
-        "url": "https://open.spotify.com/album/79XQ40MyFbpEpTZU1lnPRS"
+        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
       },
       "artists": [
-        {
-          "name": "Leo Fonseca",
-          "url": "https://open.spotify.com/artist/34iSGCakITd5m0nZgIjkio"
-        },
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 538285,
-      "name": "O Que Tua Gl\u00f3ria Fez Comigo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5yonnE8BKuczROIGQKI6Ca"
+      "duration_ms": 334400,
+      "name": "Filho Do Deus Vivo - Ao Vivo",
+      "url": "https://open.spotify.com/track/06ZKQ9zWVEOR9C532mkj7K"
     },
     {
       "added_at": null,

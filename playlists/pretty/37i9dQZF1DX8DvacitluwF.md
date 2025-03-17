@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P?si=j\_qQwtB3S866\-TOLshqc\_g">Rowlene</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,636 likes - 73 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,648 likes - 73 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

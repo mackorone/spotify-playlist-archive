@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Robe con Leiva.",
-  "num_followers": 596006,
+  "num_followers": 596072,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -395,18 +395,18 @@
     {
       "added_at": "2025-03-14 00:00:16",
       "album": {
-        "name": "El Polvo de los D\u00edas Raros",
-        "url": "https://open.spotify.com/album/49NvBmz5ULkzTBuoVD2GLc"
+        "name": "Agila",
+        "url": "https://open.spotify.com/album/3msSCqpQLoY0nl4RTSf1Is"
       },
       "artists": [
         {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
         }
       ],
-      "duration_ms": 247878,
-      "name": "El Polvo de los D\u00edas Raros",
-      "url": "https://open.spotify.com/track/6z98CyBiVapgBCecH98y4d"
+      "duration_ms": 281666,
+      "name": "So payaso",
+      "url": "https://open.spotify.com/track/5HSpMRUC4m3L3q48to2Kmu"
     },
     {
       "added_at": "2025-03-14 00:00:16",
@@ -447,18 +447,18 @@
     {
       "added_at": "2025-03-14 00:00:16",
       "album": {
-        "name": "Agila",
-        "url": "https://open.spotify.com/album/3msSCqpQLoY0nl4RTSf1Is"
+        "name": "El Polvo de los D\u00edas Raros",
+        "url": "https://open.spotify.com/album/49NvBmz5ULkzTBuoVD2GLc"
       },
       "artists": [
         {
-          "name": "Extremoduro",
-          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
         }
       ],
-      "duration_ms": 281666,
-      "name": "So payaso",
-      "url": "https://open.spotify.com/track/5HSpMRUC4m3L3q48to2Kmu"
+      "duration_ms": 247878,
+      "name": "El Polvo de los D\u00edas Raros",
+      "url": "https://open.spotify.com/track/6z98CyBiVapgBCecH98y4d"
     },
     {
       "added_at": "2025-03-14 00:00:16",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-03-14 00:00:16",
       "album": {
-        "name": "\u00c1ngulo Muerto",
-        "url": "https://open.spotify.com/album/2iPiyXrzDgEPJyla05Jbkl"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 299822,
-      "name": "\u00c1ngulo Muerto",
-      "url": "https://open.spotify.com/track/69RuJUe9MAfuyupPqfqSn1"
-    },
-    {
-      "added_at": "2025-03-14 00:00:16",
-      "album": {
         "name": "Arena En Los Bolsillos",
         "url": "https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 246240,
       "name": "Pajaros de Barro",
       "url": "https://open.spotify.com/track/4B6ko7lt1sUtyFzBDF4yfK"
+    },
+    {
+      "added_at": "2025-03-14 00:00:16",
+      "album": {
+        "name": "Canciones Prohibidas",
+        "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
+      },
+      "artists": [
+        {
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+        }
+      ],
+      "duration_ms": 318986,
+      "name": "Salir",
+      "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
     },
     {
       "added_at": "2025-03-14 00:00:16",
@@ -611,8 +611,24 @@
     {
       "added_at": "2025-03-14 00:00:16",
       "album": {
-        "name": "Canciones Prohibidas",
-        "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
+        "name": "\u00c1ngulo Muerto",
+        "url": "https://open.spotify.com/album/2iPiyXrzDgEPJyla05Jbkl"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 299822,
+      "name": "\u00c1ngulo Muerto",
+      "url": "https://open.spotify.com/track/69RuJUe9MAfuyupPqfqSn1"
+    },
+    {
+      "added_at": "2025-03-14 00:00:16",
+      "album": {
+        "name": "La ley innata",
+        "url": "https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu"
       },
       "artists": [
         {
@@ -620,9 +636,9 @@
           "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
         }
       ],
-      "duration_ms": 318986,
-      "name": "Salir",
-      "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
+      "duration_ms": 462013,
+      "name": "Dulce introducci\u00f3n al caos",
+      "url": "https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a"
     },
     {
       "added_at": "2025-03-14 00:00:16",
@@ -659,22 +675,6 @@
     {
       "added_at": "2025-03-14 00:00:16",
       "album": {
-        "name": "Bajo Presi\u00f3n",
-        "url": "https://open.spotify.com/album/0UQVnUty5NVhUOH3tKFbSK"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 259881,
-      "name": "Bajo Presi\u00f3n",
-      "url": "https://open.spotify.com/track/01aWWKx7oCpvTFOXmxdHtZ"
-    },
-    {
-      "added_at": "2025-03-14 00:00:16",
-      "album": {
         "name": "Gente Impresentable",
         "url": "https://open.spotify.com/album/79gPRqLvpQu9Kc8MYNYfSD"
       },
@@ -691,18 +691,18 @@
     {
       "added_at": "2025-03-14 00:00:16",
       "album": {
-        "name": "La ley innata",
-        "url": "https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu"
+        "name": "Las chingadas ganas de llorar",
+        "url": "https://open.spotify.com/album/6TR5ROAqehRhQDMAeOmqeR"
       },
       "artists": [
         {
-          "name": "Extremoduro",
-          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
         }
       ],
-      "duration_ms": 462013,
-      "name": "Dulce introducci\u00f3n al caos",
-      "url": "https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a"
+      "duration_ms": 199270,
+      "name": "Las chingadas ganas de llorar",
+      "url": "https://open.spotify.com/track/1NNx5a7BoQrKym6DKxmTAI"
     },
     {
       "added_at": "2025-03-14 00:00:16",
@@ -739,38 +739,6 @@
     {
       "added_at": "2025-03-14 00:00:16",
       "album": {
-        "name": "Las chingadas ganas de llorar",
-        "url": "https://open.spotify.com/album/6TR5ROAqehRhQDMAeOmqeR"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 199270,
-      "name": "Las chingadas ganas de llorar",
-      "url": "https://open.spotify.com/track/1NNx5a7BoQrKym6DKxmTAI"
-    },
-    {
-      "added_at": "2025-03-14 00:00:16",
-      "album": {
-        "name": "Gigante",
-        "url": "https://open.spotify.com/album/4GQpWhe2XtYdluFaDjqRup"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 252874,
-      "name": "Gigante",
-      "url": "https://open.spotify.com/track/2utHyBwLp3ONsYUkGoWoPw"
-    },
-    {
-      "added_at": "2025-03-14 00:00:16",
-      "album": {
         "name": "Muy Deficiente",
         "url": "https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1"
       },
@@ -803,6 +771,22 @@
     {
       "added_at": "2025-03-14 00:00:16",
       "album": {
+        "name": "Bajo Presi\u00f3n",
+        "url": "https://open.spotify.com/album/0UQVnUty5NVhUOH3tKFbSK"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 259881,
+      "name": "Bajo Presi\u00f3n",
+      "url": "https://open.spotify.com/track/01aWWKx7oCpvTFOXmxdHtZ"
+    },
+    {
+      "added_at": "2025-03-14 00:00:16",
+      "album": {
         "name": "El Mar No Cesa- Edici\u00f3n Especial",
         "url": "https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y"
       },
@@ -815,22 +799,6 @@
       "duration_ms": 241280,
       "name": "Mar adentro",
       "url": "https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH"
-    },
-    {
-      "added_at": "2025-03-14 00:00:16",
-      "album": {
-        "name": "Sopa fria",
-        "url": "https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj"
-      },
-      "artists": [
-        {
-          "name": "M-Clan",
-          "url": "https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6"
-        }
-      ],
-      "duration_ms": 297106,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj"
     },
     {
       "added_at": "2025-03-14 00:00:16",
@@ -867,6 +835,22 @@
     {
       "added_at": "2025-03-14 00:00:16",
       "album": {
+        "name": "Sopa fria",
+        "url": "https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj"
+      },
+      "artists": [
+        {
+          "name": "M-Clan",
+          "url": "https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6"
+        }
+      ],
+      "duration_ms": 297106,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj"
+    },
+    {
+      "added_at": "2025-03-14 00:00:16",
+      "album": {
         "name": "A Puerta Cerrada",
         "url": "https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1"
       },
@@ -883,22 +867,6 @@
     {
       "added_at": "2025-03-14 00:00:16",
       "album": {
-        "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
-        "url": "https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a"
-      },
-      "artists": [
-        {
-          "name": "Dani Mart\u00edn",
-          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
-      "url": "https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5"
-    },
-    {
-      "added_at": "2025-03-14 00:00:16",
-      "album": {
         "name": "Patchanka",
         "url": "https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ"
       },
@@ -911,6 +879,22 @@
       "duration_ms": 174973,
       "name": "Mala Vida",
       "url": "https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX"
+    },
+    {
+      "added_at": "2025-03-14 00:00:16",
+      "album": {
+        "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
+        "url": "https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a"
+      },
+      "artists": [
+        {
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
+      "url": "https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5"
     },
     {
       "added_at": "2025-03-14 00:00:16",
@@ -943,6 +927,22 @@
       "duration_ms": 234106,
       "name": "La rueca",
       "url": "https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk"
+    },
+    {
+      "added_at": "2025-03-14 00:00:16",
+      "album": {
+        "name": "Gigante",
+        "url": "https://open.spotify.com/album/4GQpWhe2XtYdluFaDjqRup"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 252874,
+      "name": "Gigante",
+      "url": "https://open.spotify.com/track/2utHyBwLp3ONsYUkGoWoPw"
     },
     {
       "added_at": "2025-03-14 00:00:16",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-03-14 00:00:16",
       "album": {
-        "name": "Veneno En La Piel",
-        "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
-      },
-      "artists": [
-        {
-          "name": "Radio Futura",
-          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Veneno en la Piel",
-      "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
-    },
-    {
-      "added_at": "2025-03-14 00:00:16",
-      "album": {
         "name": "Jugar Al Gua",
         "url": "https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0"
       },
@@ -1147,22 +1131,6 @@
     {
       "added_at": "2025-03-14 00:00:16",
       "album": {
-        "name": "Destrozares, Canciones para el Final de los Tiempos",
-        "url": "https://open.spotify.com/album/0XAsAUaEDTl6wlOAMhqfDS"
-      },
-      "artists": [
-        {
-          "name": "Robe",
-          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
-        }
-      ],
-      "duration_ms": 429000,
-      "name": "Del Tiempo Perdido",
-      "url": "https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki"
-    },
-    {
-      "added_at": "2025-03-14 00:00:16",
-      "album": {
         "name": "Ba\u00efonarena (Live)",
         "url": "https://open.spotify.com/album/7i5eD0VAL2fdeUNO1IQBDj"
       },
@@ -1175,6 +1143,38 @@
       "duration_ms": 288146,
       "name": "Me Quedo Contigo (Si Me Das A Elegir) - Live Ba\u00efonarena",
       "url": "https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5"
+    },
+    {
+      "added_at": "2025-03-14 00:00:16",
+      "album": {
+        "name": "Veneno En La Piel",
+        "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
+      },
+      "artists": [
+        {
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Veneno en la Piel",
+      "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
+    },
+    {
+      "added_at": "2025-03-14 00:00:16",
+      "album": {
+        "name": "Destrozares, Canciones para el Final de los Tiempos",
+        "url": "https://open.spotify.com/album/0XAsAUaEDTl6wlOAMhqfDS"
+      },
+      "artists": [
+        {
+          "name": "Robe",
+          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
+        }
+      ],
+      "duration_ms": 429000,
+      "name": "Del Tiempo Perdido",
+      "url": "https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki"
     },
     {
       "added_at": "2025-03-14 00:00:16",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-03-14 00:00:16",
       "album": {
-        "name": "Veo Veo Mamoneo",
-        "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
-      },
-      "artists": [
-        {
-          "name": "Rosendo",
-          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
-        }
-      ],
-      "duration_ms": 243040,
-      "name": "Masculino singular",
-      "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
-    },
-    {
-      "added_at": "2025-03-14 00:00:16",
-      "album": {
         "name": "Uno",
         "url": "https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 188914,
       "name": "Lo dif\u00edcil",
       "url": "https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1"
+    },
+    {
+      "added_at": "2025-03-14 00:00:16",
+      "album": {
+        "name": "Veo Veo Mamoneo",
+        "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
+      },
+      "artists": [
+        {
+          "name": "Rosendo",
+          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
+        }
+      ],
+      "duration_ms": 243040,
+      "name": "Masculino singular",
+      "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
     },
     {
       "added_at": "2025-03-14 00:00:16",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2025-03-14 00:00:16",
       "album": {
+        "name": "Maneras De Vivir",
+        "url": "https://open.spotify.com/album/62ej3kUjSLwWV9MnAtb20s"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f1o",
+          "url": "https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ"
+        }
+      ],
+      "duration_ms": 252933,
+      "name": "Maneras de Vivir (Single Estudio)",
+      "url": "https://open.spotify.com/track/7kCiAaismDVaCjpyGF3YJB"
+    },
+    {
+      "added_at": "2025-03-14 00:00:16",
+      "album": {
         "name": "La Salvaci\u00f3n",
         "url": "https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 285480,
       "name": "La Salvaci\u00f3n",
       "url": "https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ"
-    },
-    {
-      "added_at": "2025-03-14 00:00:16",
-      "album": {
-        "name": "Maneras De Vivir",
-        "url": "https://open.spotify.com/album/62ej3kUjSLwWV9MnAtb20s"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f1o",
-          "url": "https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ"
-        }
-      ],
-      "duration_ms": 252933,
-      "name": "Maneras de Vivir (Single Estudio)",
-      "url": "https://open.spotify.com/track/7kCiAaismDVaCjpyGF3YJB"
     },
     {
       "added_at": "2025-03-14 00:00:16",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-03-14 00:00:16",
       "album": {
-        "name": "Me Vuelves Puto Loco",
-        "url": "https://open.spotify.com/album/65fYJ12gYDLZOHUvnT81PO"
-      },
-      "artists": [
-        {
-          "name": "Dani Mart\u00edn",
-          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
-        }
-      ],
-      "duration_ms": 179158,
-      "name": "Me Vuelves Puto Loco",
-      "url": "https://open.spotify.com/track/4tzxgcaoO6D4zn0AEYiXSt"
-    },
-    {
-      "added_at": "2025-03-14 00:00:16",
-      "album": {
         "name": "Los Singles",
         "url": "https://open.spotify.com/album/4OHtmXevEbNgLl7nfa9IMG"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 245533,
       "name": "En Blanco Y Negro",
       "url": "https://open.spotify.com/track/0FJBWXOa9tYcJCxv1YxP9H"
+    },
+    {
+      "added_at": "2025-03-14 00:00:16",
+      "album": {
+        "name": "Me Vuelves Puto Loco",
+        "url": "https://open.spotify.com/album/65fYJ12gYDLZOHUvnT81PO"
+      },
+      "artists": [
+        {
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+        }
+      ],
+      "duration_ms": 179158,
+      "name": "Me Vuelves Puto Loco",
+      "url": "https://open.spotify.com/track/4tzxgcaoO6D4zn0AEYiXSt"
     },
     {
       "added_at": "2025-03-14 00:00:16",

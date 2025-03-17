@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Feat: Chappell Roan, Mia Wray, HAIM, Brad Cox, Selena Gomez, Lizzo + more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,927 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,938 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 99 | [Run](https://open.spotify.com/track/3OcRJhiDOT0SmM5LDj5xOi) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32), [Lui Mill](https://open.spotify.com/artist/0nn83CEnoSAKJrX9z2xPQj) | [Run](https://open.spotify.com/album/4I65GU6VDolGzbv9E8NeQn) | 4:30 |
 | 100 | [New Friends](https://open.spotify.com/track/3TJhZ9uBZ0HlBgdhCSdcXd) | [EGOISM](https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD) | [New Friends](https://open.spotify.com/album/26sf8h8q1Ren29voDdc2eS) | 3:46 |
 
-Snapshot ID: `Z9Oi7AAAAAA8g/XPtNzXEONwsOcS3LFn`
+Snapshot ID: `Z9dTMQAAAADubF4EF5Fr9X7fRyc9Xdeo`

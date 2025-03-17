@@ -111,26 +111,6 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "Better Days (feat. John Mayer)",
-      "url": "https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
         "name": "Somebody Else - Spotify Singles",
         "url": "https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 217960,
       "name": "Never Look Down",
       "url": "https://open.spotify.com/track/5QTfLHc6qfsWCrosur6LBb"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Better Days (feat. John Mayer)",
+      "url": "https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
-        "name": "Lykke te",
-        "url": "https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 164893,
-      "name": "Lykke te",
-      "url": "https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
         "name": "God Morgen",
         "url": "https://open.spotify.com/album/4kNtCWLFDsDLghPT97tndQ"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 171375,
       "name": "God Morgen",
       "url": "https://open.spotify.com/track/5LKdZiz1TDHGarVoQa1RTX"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
+        "name": "Lykke te",
+        "url": "https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 164893,
+      "name": "Lykke te",
+      "url": "https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -667,38 +667,6 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
-        "name": "happy place",
-        "url": "https://open.spotify.com/album/3AVrDEyYGkcf6txru4yDKZ"
-      },
-      "artists": [
-        {
-          "name": "yaeow",
-          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
-        }
-      ],
-      "duration_ms": 211648,
-      "name": "happy place",
-      "url": "https://open.spotify.com/track/3WexcBAuTg6p1XkaUqb3Td"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
-        "name": "Kanskje det g\u00e5r te helvete",
-        "url": "https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 146813,
-      "name": "Gjesten p\u00e5 festen",
-      "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
         "name": "Beautifully Ordinary",
         "url": "https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8"
       },
@@ -731,6 +699,38 @@
       "duration_ms": 226666,
       "name": "Pornography",
       "url": "https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
+        "name": "happy place",
+        "url": "https://open.spotify.com/album/3AVrDEyYGkcf6txru4yDKZ"
+      },
+      "artists": [
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+        }
+      ],
+      "duration_ms": 211648,
+      "name": "happy place",
+      "url": "https://open.spotify.com/track/3WexcBAuTg6p1XkaUqb3Td"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
+        "name": "Kanskje det g\u00e5r te helvete",
+        "url": "https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 146813,
+      "name": "Gjesten p\u00e5 festen",
+      "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
+        "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
+        "url": "https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 135480,
+      "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
+      "url": "https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
         "name": "Trenger deg n\u00e5",
         "url": "https://open.spotify.com/album/6B4xiyhjwsecreFUGVTVPp"
       },
@@ -795,22 +811,6 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
-        "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
-        "url": "https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8"
-      },
-      "artists": [
-        {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
-        }
-      ],
-      "duration_ms": 135480,
-      "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
-      "url": "https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
         "name": "Felt Cute Might Delete Later",
         "url": "https://open.spotify.com/album/2UuMruIqntCAoh3BbqgkRL"
       },
@@ -827,18 +827,18 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
-        "name": "Mamma sa det ordne se for snille piker",
-        "url": "https://open.spotify.com/album/280RBk4Y0wc3fxu0wrBbpF"
+        "name": "So Long, Ruben",
+        "url": "https://open.spotify.com/album/6nqDc8CPKCdWmaNysbYmfk"
       },
       "artists": [
         {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
         }
       ],
-      "duration_ms": 205655,
-      "name": "Mamma sa det ordne se for snille piker",
-      "url": "https://open.spotify.com/track/347ClSRvnHma5rSqUSL9R8"
+      "duration_ms": 194974,
+      "name": "Love That Hurts",
+      "url": "https://open.spotify.com/track/0hNpDSUmh2NpDlAHHF9krX"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -895,6 +895,22 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
+        "name": "ok",
+        "url": "https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 149573,
+      "name": "ok",
+      "url": "https://open.spotify.com/track/4R467GbyTVsRKQxArOWFVK"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
         "name": "Og eg lyger s\u00e5 det renner som en foss gjennom rommet",
         "url": "https://open.spotify.com/album/5Z2a34xi0uWqZK2nE72zHH"
       },
@@ -915,22 +931,6 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
-        "name": "ok",
-        "url": "https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 149573,
-      "name": "ok",
-      "url": "https://open.spotify.com/track/4R467GbyTVsRKQxArOWFVK"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
         "name": "Silver Bead Eyes",
         "url": "https://open.spotify.com/album/3QsOe6bfmogppjP21oRemA"
       },
@@ -943,34 +943,6 @@
       "duration_ms": 214160,
       "name": "Every Part of Me",
       "url": "https://open.spotify.com/track/0goH1d2JQVnLz6KweTsZzG"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
-        "name": "DIASPORA DREAMS (THE QUICK STYLE SELECTION)",
-        "url": "https://open.spotify.com/album/4CwJ4eyjJVNfoOT6dcs9pV"
-      },
-      "artists": [
-        {
-          "name": "Karpe",
-          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
-        },
-        {
-          "name": "Omar Sheriff",
-          "url": "https://open.spotify.com/artist/7bD3cjwHYADj9rsonLyx7U"
-        },
-        {
-          "name": "The Quick Style",
-          "url": "https://open.spotify.com/artist/6vLa9prTXyHYhTSC8z7IKC"
-        },
-        {
-          "name": "Mo Ayn",
-          "url": "https://open.spotify.com/artist/0WDI0f4hXiPrIrS4TUJDX7"
-        }
-      ],
-      "duration_ms": 229334,
-      "name": "Meri Jaan - LePark Studio, Milan",
-      "url": "https://open.spotify.com/track/1nkfNJaIe6XlSQwT1OS7pe"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -1023,6 +995,34 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
+        "name": "DIASPORA DREAMS (THE QUICK STYLE SELECTION)",
+        "url": "https://open.spotify.com/album/4CwJ4eyjJVNfoOT6dcs9pV"
+      },
+      "artists": [
+        {
+          "name": "Karpe",
+          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
+        },
+        {
+          "name": "Omar Sheriff",
+          "url": "https://open.spotify.com/artist/7bD3cjwHYADj9rsonLyx7U"
+        },
+        {
+          "name": "The Quick Style",
+          "url": "https://open.spotify.com/artist/6vLa9prTXyHYhTSC8z7IKC"
+        },
+        {
+          "name": "Mo Ayn",
+          "url": "https://open.spotify.com/artist/0WDI0f4hXiPrIrS4TUJDX7"
+        }
+      ],
+      "duration_ms": 229334,
+      "name": "Meri Jaan - LePark Studio, Milan",
+      "url": "https://open.spotify.com/track/1nkfNJaIe6XlSQwT1OS7pe"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
         "name": "BOY",
         "url": "https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi"
       },
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
-        "name": "KLIPP MEG I TI OG LIM MEG SAMMEN",
-        "url": "https://open.spotify.com/album/2g0oZHtjgfF5VMQJXR2f2g"
+        "name": "Mamma sa det ordne se for snille piker",
+        "url": "https://open.spotify.com/album/280RBk4Y0wc3fxu0wrBbpF"
       },
       "artists": [
         {
-          "name": "Gabrielle",
-          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
         }
       ],
-      "duration_ms": 195202,
-      "name": "Noen som forst\u00e5r",
-      "url": "https://open.spotify.com/track/0skJrhhZqWp7Q0Czpxxrlb"
+      "duration_ms": 205655,
+      "name": "Mamma sa det ordne se for snille piker",
+      "url": "https://open.spotify.com/track/347ClSRvnHma5rSqUSL9R8"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -1099,6 +1099,22 @@
       "duration_ms": 209078,
       "name": "Revolve",
       "url": "https://open.spotify.com/track/4c4SBx9iL4E8qqxOCNBHLP"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
+        "name": "KLIPP MEG I TI OG LIM MEG SAMMEN",
+        "url": "https://open.spotify.com/album/2g0oZHtjgfF5VMQJXR2f2g"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+        }
+      ],
+      "duration_ms": 195202,
+      "name": "Noen som forst\u00e5r",
+      "url": "https://open.spotify.com/track/0skJrhhZqWp7Q0Czpxxrlb"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
-        "name": "So Long, Ruben",
-        "url": "https://open.spotify.com/album/6nqDc8CPKCdWmaNysbYmfk"
-      },
-      "artists": [
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 194974,
-      "name": "Love That Hurts",
-      "url": "https://open.spotify.com/track/0hNpDSUmh2NpDlAHHF9krX"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
         "name": "Finaste s\u00e5 finns",
         "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
       },
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
-        "name": "Summer Rain",
-        "url": "https://open.spotify.com/album/2E1MUrxQRirP7wmVTzE82B"
-      },
-      "artists": [
-        {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
-        }
-      ],
-      "duration_ms": 162930,
-      "name": "Summer Rain",
-      "url": "https://open.spotify.com/track/3LVadaj97lffSz5nUD9mWC"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
         "name": "Woods",
         "url": "https://open.spotify.com/album/20f0ocH7TUh6Lv2cuLbjlN"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 207186,
       "name": "Faster",
       "url": "https://open.spotify.com/track/6clUgF41q59lyD2MYx3B74"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
+        "name": "Summer Rain",
+        "url": "https://open.spotify.com/album/2E1MUrxQRirP7wmVTzE82B"
+      },
+      "artists": [
+        {
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+        }
+      ],
+      "duration_ms": 162930,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/3LVadaj97lffSz5nUD9mWC"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
-        "name": "Over deg",
-        "url": "https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR"
-      },
-      "artists": [
-        {
-          "name": "Morgan Sulele",
-          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
-        }
-      ],
-      "duration_ms": 147093,
-      "name": "Over deg",
-      "url": "https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
         "name": "Skyfri himmel",
         "url": "https://open.spotify.com/album/1ZMfhQD8MkMGSqydaXAGgN"
       },
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
-        "name": "Happy Tears",
-        "url": "https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf"
+        "name": "Over deg",
+        "url": "https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR"
       },
       "artists": [
         {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+          "name": "Morgan Sulele",
+          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
         }
       ],
-      "duration_ms": 176433,
-      "name": "Happy Tears",
-      "url": "https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC"
+      "duration_ms": 147093,
+      "name": "Over deg",
+      "url": "https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
+        "name": "Finding You Again",
+        "url": "https://open.spotify.com/album/58rLhkfZO2qYvLBeV1ToiD"
+      },
+      "artists": [
+        {
+          "name": "Oklahoma",
+          "url": "https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow"
+        }
+      ],
+      "duration_ms": 198294,
+      "name": "Finding You Again",
+      "url": "https://open.spotify.com/track/59RTzis0xZIqlFBteJFsrB"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
         "name": "Hvalfangerbyen",
         "url": "https://open.spotify.com/album/6M2nSOHoe58dDU6dGluvWK"
       },
@@ -1339,18 +1339,34 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
-        "name": "Finding You Again",
-        "url": "https://open.spotify.com/album/58rLhkfZO2qYvLBeV1ToiD"
+        "name": "Happy Tears",
+        "url": "https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf"
       },
       "artists": [
         {
-          "name": "Oklahoma",
-          "url": "https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow"
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
         }
       ],
-      "duration_ms": 198294,
-      "name": "Finding You Again",
-      "url": "https://open.spotify.com/track/59RTzis0xZIqlFBteJFsrB"
+      "duration_ms": 176433,
+      "name": "Happy Tears",
+      "url": "https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
+        "name": "Hei p\u00e5 deg",
+        "url": "https://open.spotify.com/album/5GxpzfMjhjPrpk7lFLIhGz"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 163938,
+      "name": "Hei p\u00e5 deg",
+      "url": "https://open.spotify.com/track/7z08TMcTNpMClzFJ1Jo9oQ"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -1487,22 +1503,6 @@
       "duration_ms": 151893,
       "name": "Ikke lenger din",
       "url": "https://open.spotify.com/track/0Cngp8NHwtpB9bEtEvjr5P"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
-        "name": "Nostalgia / Again It's On",
-        "url": "https://open.spotify.com/album/5Xtz2f7NvXEpRSlnw687mG"
-      },
-      "artists": [
-        {
-          "name": "\u00a1BangBang Watergun!",
-          "url": "https://open.spotify.com/artist/2grhe2zaWXIncv3px0CwrJ"
-        }
-      ],
-      "duration_ms": 231240,
-      "name": "BusyBusyBusy",
-      "url": "https://open.spotify.com/track/2QwF6aewyuhAQ1nlkyQeYW"
     }
   ],
   "unique_name": "V\u00e5rstemning",

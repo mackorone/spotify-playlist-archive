@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Chappell Roan, Calvin Harris, HAIM and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,856 likes - 117 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,882 likes - 117 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

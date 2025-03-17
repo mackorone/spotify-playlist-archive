@@ -2748,7 +2748,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 232186,
       "name": "All The Stars (with SZA)",
       "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
@@ -10582,7 +10582,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 166880,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/5o0osRx8kYJTOqlOSggr9Z"
@@ -11814,7 +11814,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-17",
       "duration_ms": 151160,
       "name": "COCAINE NOSE",
       "url": "https://open.spotify.com/track/4rXxjHSAglOynjIF8Z34dx"
@@ -12558,7 +12558,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-17",
       "duration_ms": 147692,
       "name": "CRANK",
       "url": "https://open.spotify.com/track/7xAvtuHf8nGi5OtXVPYgb3"
@@ -17388,7 +17388,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -20630,7 +20630,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy"
@@ -27215,6 +27215,24 @@
     },
     {
       "album": {
+        "name": "It\u2019s Not You It\u2019s Me",
+        "url": "https://open.spotify.com/album/33DT8RcrU5J6JDHCrHlHyU"
+      },
+      "artists": [
+        {
+          "name": "Solven",
+          "url": "https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd"
+        }
+      ],
+      "date_added": "2025-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169536,
+      "name": "It\u2019s Not You It\u2019s Me",
+      "url": "https://open.spotify.com/track/0ldXe2ULoYmo3rOVDNqv8f"
+    },
+    {
+      "album": {
         "name": "JA",
         "url": "https://open.spotify.com/album/5rCeTbhVFUakJbAzWWTWTg"
       },
@@ -27908,7 +27926,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-17",
       "duration_ms": 92735,
       "name": "JUMPIN (with Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/7oZOCPjlLpHZtIebTXhlfZ"
@@ -37344,7 +37362,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -37460,7 +37478,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-17",
       "duration_ms": 154285,
       "name": "MUNYUN",
       "url": "https://open.spotify.com/track/2JJFJEvFSWyQ59Pwl2gqSF"
@@ -40300,7 +40318,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-17",
       "duration_ms": 174733,
       "name": "OLYMPIAN",
       "url": "https://open.spotify.com/track/4uoADk7q83CHvXHW3k1etM"
@@ -48316,7 +48334,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
@@ -52948,7 +52966,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
@@ -54860,7 +54878,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-17",
       "duration_ms": 193546,
       "name": "TRIM (with Future)",
       "url": "https://open.spotify.com/track/4qvsNsA4gQKC9HLrmPC2Vx"
@@ -55328,7 +55346,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-17",
       "duration_ms": 94825,
       "name": "TWIN TRIM (with Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/3surY3LebvLLdJezmiKUBO"
@@ -57986,7 +58004,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-17",
       "duration_ms": 181237,
       "name": "WE NEED ALL DA VIBES (with Young Thug & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4XcZp2xqbiD8YsnPboNUDo"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6XLByjEgAdhEl6uNFpmN8t.md) - [plain]
 
 > 
 
-[vida\_bence](https://open.spotify.com/user/vida_bence) - 1 like - 97 songs - 4 hr 59 min
+[vida\_bence](https://open.spotify.com/user/vida_bence) - 1 like - 98 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,5 +105,6 @@ pretty - [cumulative](/playlists/cumulative/6XLByjEgAdhEl6uNFpmN8t.md) - [plain]
 | 95 | [Gurulgatok](https://open.spotify.com/track/3tYdb1HYnrqcq9bdwsuxfg) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [Gurulgatok](https://open.spotify.com/album/4MXiWo5vhU1I3N9k72bu7F) | 2:27 |
 | 96 | [Bambi](https://open.spotify.com/track/29snt77VXxUpJqMOMDSUuo) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [M.K](https://open.spotify.com/artist/6s6Ejw3hKQlTCi6yVHPMki), [Igni](https://open.spotify.com/artist/5TZxii3VFeubJqXSWyAhkh), [Varga Norbi](https://open.spotify.com/artist/3LQD7ygHka6JxAyllNLPta) | [Bambi](https://open.spotify.com/album/7GokiCOPcgKDsWaXUkjqli) | 2:48 |
 | 97 | [Jamaica pt\. 1 \(Apartman\)](https://open.spotify.com/track/0rvE94vL7lrFFpsM5UzgYh) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [2023](https://open.spotify.com/album/6TGD1FXUBasDg8idQ9IGP5) | 2:46 |
+| 98 | [Szeretsz\-e](https://open.spotify.com/track/19VmOgLl88ZWU6WXgatfEM) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [AZ ALBUM](https://open.spotify.com/album/3TqmUOKPmFUO7Dg3VDgEXN) | 2:54 |
 
-Snapshot ID: `AAAAujILYMnvQms1XasQJwKZTykxP4Cn`
+Snapshot ID: `AAAAu6jxdezcJETLR54EmYqtMpxj270c`

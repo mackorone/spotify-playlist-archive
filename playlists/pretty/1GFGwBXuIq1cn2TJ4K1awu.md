@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Ten or eleven songs a week\. Updated every Sunday\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 21 likes - 11 songs - 40 min 5 sec
+[royva06](https://open.spotify.com/user/royva06) - 21 likes - 11 songs - 39 min 58 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [$10 Cowboy](https://open.spotify.com/track/77tSuH7nEYx2IWJm9TboDX) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za) | 3:35 |
-| 2 | [Walkin](https://open.spotify.com/track/1q8DwZtQen5fvyB7cKbShC) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 4:40 |
-| 3 | [Moderation](https://open.spotify.com/track/4K7wxxMOlSRWodONmW8ceG) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Pompeii](https://open.spotify.com/album/4EucMR080SkRlViV1nbDK9) | 4:04 |
-| 4 | [Are You Looking Up](https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:46 |
-| 5 | [Harvard](https://open.spotify.com/track/11yZhqxgNFNOe5TupfwSWw) | [Diet Cig](https://open.spotify.com/artist/6ommlbuccgdiKSgjvVlQ4W) | [Over Easy](https://open.spotify.com/album/1FfpE3Yj3hYdDfVa0EI8Ay) | 2:27 |
-| 6 | [Biochemical Equation](https://open.spotify.com/track/3pjoafi0X1QnfU9d2VVSvL) | [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Wu\-Tang Meets The Indie Culture](https://open.spotify.com/album/71i2DEJp6T0ywlT62T3gLv) | 3:56 |
-| 7 | [Out Getting Ribs](https://open.spotify.com/track/30JUrbIq4PsRjIvDz8freE) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [6 Feet Beneath The Moon](https://open.spotify.com/album/6uvdXVgHsioxRIo0cFnkD7) | 4:16 |
-| 8 | [Safe European Home \- Remastered](https://open.spotify.com/track/7iiofeVKhJz7ZbcI2jFcPm) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Give 'Em Enough Rope \(Remastered\)](https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg) | 3:50 |
-| 9 | [Building a Mystery](https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:07 |
-| 10 | [The Writing's on the Wall](https://open.spotify.com/track/5HKnWZRsDyGIrb6obvD0Yq) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Hungry Ghosts](https://open.spotify.com/album/3w6EJnnZ02Ntu7dCu9rs0F) | 3:34 |
-| 11 | [Liza \(All The Clouds'll Roll Away\)](https://open.spotify.com/track/2TzhQP0MuEQrmMPQTtoZIY) | [Sonny Stitt Quartet](https://open.spotify.com/artist/03Sna6rwmroeEViv4M4K8H) | [Kaleidoscope](https://open.spotify.com/album/3bCCbLWPMGgXEQy4rddKOb) | 2:46 |
+| 1 | [911](https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:46 |
+| 2 | [The Tower](https://open.spotify.com/track/5tH2qe9ZNeIpto9dxk4ufx) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [People Who Aren’t There Anymore](https://open.spotify.com/album/3QdtCfrX94pXYujQemM3ZM) | 3:36 |
+| 3 | [Microphone Master](https://open.spotify.com/track/4HBjg3KAkjoHZFWQL6STl5) | [Das EFX](https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG) | [Hold It Down](https://open.spotify.com/album/2t70lfxoIbKZHKFKN9ZnqE) | 4:31 |
+| 4 | [Pista \(Fresh Start\)](https://open.spotify.com/track/34DOledEvD7igMMVEWbaEO) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Let the Festivities Begin!](https://open.spotify.com/album/4MyJz5sB4YHeKVtlc9gt7x) | 3:22 |
+| 5 | [Radio](https://open.spotify.com/track/6tlRgNME7ULlY5OcvRdgYn) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let's Go](https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT) | 2:51 |
+| 6 | [midnight sun](https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 4:42 |
+| 7 | [Chains of Love](https://open.spotify.com/track/10CzIyOWd75NDoVfJ1myca) | [The Dirtbombs](https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb) | [Ultraglide In Black](https://open.spotify.com/album/5dUbfMC2mz6nB9mIZlTV4z) | 2:21 |
+| 8 | [No Reptiles](https://open.spotify.com/track/1SN1gifVAKecU85lZggS8k) | [Everything Everything](https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr) | [Get To Heaven \(Deluxe\)](https://open.spotify.com/album/1oScYOf8ImO6L9bdvhep1J) | 4:42 |
+| 9 | [Gap in the Clouds](https://open.spotify.com/track/7l5j3FapCyr6HxUgoAynM2) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Harmless Melodies](https://open.spotify.com/album/5CPwacWmIAaA5DLUq7EHUC) | 4:40 |
+| 10 | [Don't Mess With Bill \- Single Version](https://open.spotify.com/track/6UoklSOHrajLQkD98nP7re) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Deliver: The Singles 1961\-1971](https://open.spotify.com/album/4LXT51p1VlIIztpcYPTpY7) | 2:49 |
+| 11 | [Insomniac Dreaming](https://open.spotify.com/track/250jCVNYW5p5Y0vqJHMWp3) | [A.Dd+](https://open.spotify.com/artist/0oiw7PY6VPt7w2KsV9Xhcu) | [Insomniac Dreaming](https://open.spotify.com/album/6vo1ZJesiNfup7X8wUXMex) | 3:33 |
 
-Snapshot ID: `AAAFSWIThB5UtlLmEM1EsIX1sY+t+zbn`
+Snapshot ID: `AAAFX1ma+ENfNcmvO12/gLrZ54Y7zHLH`

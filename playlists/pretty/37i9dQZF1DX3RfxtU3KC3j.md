@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Yedinci Ev
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,651 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,624 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 21 | [İlkler Kalır](https://open.spotify.com/track/1hSat4DFZmIFb9arXE7riQ) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [İlkler Kalır](https://open.spotify.com/album/3LzUVmUwJGWOrsRc5u04qC) | 2:48 |
 | 22 | [Yüreğime Vur Kadehi](https://open.spotify.com/track/4PNNSSlUDfMCURa5uZR8xG) | [Demir Demirkan](https://open.spotify.com/artist/0ONcicRZwAgDDZyeWrLia3) | [Yüreğime Vur Kadehi](https://open.spotify.com/album/6KrTBOzIo8qM6MDBDQVigl) | 5:11 |
 | 23 | [Bir Çocuk Sevdim](https://open.spotify.com/track/6brOznfthS8yv8ESJrZBvB) | [Mengene](https://open.spotify.com/artist/6HSKmWihHIj3P9bmpO8hKD), [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Bir Çocuk Sevdim](https://open.spotify.com/album/0QFZdyTIn7UVcoxSU98KRM) | 5:07 |
-| 24 | [Ses Ver](https://open.spotify.com/track/3d317ORpL5gxioLwsBd0KL) | [Necati ve Saykolar](https://open.spotify.com/artist/7FcuvAno2oJYKcbRHpSTZu), [Erci\-E](https://open.spotify.com/artist/3fC4Ogs3gs8LwE0yNaSkwL) | [Ses Ver](https://open.spotify.com/album/7umOtHVpDEi0OwDIsd0fFI) | 3:00 |
+| 24 | [Ses Ver](https://open.spotify.com/track/3d317ORpL5gxioLwsBd0KL) | [Necati ve Saykolar](https://open.spotify.com/artist/7FcuvAno2oJYKcbRHpSTZu), [Erci E](https://open.spotify.com/artist/5Bd0FpVRSXZVGg1iLhYD3O) | [Ses Ver](https://open.spotify.com/album/7umOtHVpDEi0OwDIsd0fFI) | 3:00 |
 | 25 | [MECBURUM](https://open.spotify.com/track/3sAwWq40uK8QB5q1zKBHi5) | [Göksel İpekçi](https://open.spotify.com/artist/43lVodpMDfdEkkoowuyEkr) | [MECBURUM](https://open.spotify.com/album/5EVIcgxL3scIIUTvsZVUtj) | 2:48 |
 | 26 | [KAÇTIM DA GELDİM](https://open.spotify.com/track/0vM2hMO8LMBnNmb27n2ZAt) | [Kelle Paşa](https://open.spotify.com/artist/2RDsxxXoqn2sdaXa7EC8V1) | [KAÇTIM DA GELDİM](https://open.spotify.com/album/4tejZBMM2H4exTi4J562iD) | 3:36 |
 | 27 | [Tekrardan](https://open.spotify.com/track/0CRoh5OzdM8OT7GhAQFBNn) | [Sedef Sebüktekin](https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l), [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Tekrardan](https://open.spotify.com/album/7EMujW6Y1PeNPGLFji1IlP) | 3:02 |

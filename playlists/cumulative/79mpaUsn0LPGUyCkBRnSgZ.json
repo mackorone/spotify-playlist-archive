@@ -2787,6 +2787,24 @@
     },
     {
       "album": {
+        "name": "\u5728\u52d5\u7269\u5712\u6563\u6b65\u624d\u662f\u6b63\u7d93\u4e8b",
+        "url": "https://open.spotify.com/album/3R06MVz2i8ynBUfar35Ixk"
+      },
+      "artists": [
+        {
+          "name": "my little airport",
+          "url": "https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110329,
+      "name": "Coka, I'm Fine",
+      "url": "https://open.spotify.com/track/0b4sTnmz7wzodbY8fMkTry"
+    },
+    {
+      "album": {
         "name": "SCRAMBLES",
         "url": "https://open.spotify.com/album/1SlZCvQYF5aKtFiFd65dVY"
       },

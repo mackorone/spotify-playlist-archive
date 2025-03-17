@@ -868,7 +868,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-13",
+      "date_removed": null,
       "duration_ms": 180688,
       "name": "7 Dias",
       "url": "https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7"
@@ -5060,6 +5060,24 @@
       "duration_ms": 170422,
       "name": "Baja y Sube",
       "url": "https://open.spotify.com/track/19HdxwjuhFbN3trAA6EHYJ"
+    },
+    {
+      "album": {
+        "name": "Bajale 2",
+        "url": "https://open.spotify.com/album/5bvqIornW5PwybS2q7UpXb"
+      },
+      "artists": [
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        }
+      ],
+      "date_added": "2025-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139624,
+      "name": "Bajale 2",
+      "url": "https://open.spotify.com/track/1vVsx4eCWW93weO8eJL7BI"
     },
     {
       "album": {
@@ -28248,7 +28266,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-17",
       "duration_ms": 166801,
       "name": "M&M",
       "url": "https://open.spotify.com/track/3t72JCbFJ3syOhFC7x9Pa4"
@@ -32324,7 +32342,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 188930,
       "name": "Morena",
       "url": "https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt"
@@ -51700,7 +51718,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-17",
       "duration_ms": 168029,
       "name": "Una Noche en Caracas (Tauro)",
       "url": "https://open.spotify.com/track/7BUHZyUzwQowMLJ3qLDxRd"
@@ -56102,7 +56120,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-17",
       "duration_ms": 60696,
       "name": "\u00a1Papi a La Orden!",
       "url": "https://open.spotify.com/track/4e59exoJcom3crWcvcBSXe"

@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,264 songs - 3 day 14 hr 19 min
+2,266 songs - 3 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Aquatic Crystals](https://open.spotify.com/track/4pUOWikHwi87jPXYtwwb3v) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [Aquatic Crystals](https://open.spotify.com/album/2cUBsQeqRMJ3NqNVJsRW3U) | 2:05 | 2022-04-15 | 2023-02-14 |
 | [Arboreous](https://open.spotify.com/track/4yu1zpAy9PDX2p8NVdtXm1) | [Bogomolove](https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM), [Senn](https://open.spotify.com/artist/7xQncR3ejxUE58A6Ogb1Si) | [Dreamscape Jams](https://open.spotify.com/album/4pHBPlUYS6mg28OpyK7viH) | 1:59 | 2024-08-23 |  |
 | [are you still awake?](https://open.spotify.com/track/0yhPGQumNYiw9VI2MRzrxK) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU) | [are you still awake?](https://open.spotify.com/album/3zM77eNvVTifUQdcsxf6Bc) | 2:01 | 2023-02-13 |  |
-| [arrival](https://open.spotify.com/track/7J1e0LTIZRjdz7i6WWdWcF) | [foursite](https://open.spotify.com/artist/52zHyZn0uVtMXDhJXVIRma) | [arrival](https://open.spotify.com/album/4StEvC14w9UGdxD5SJqrhQ) | 2:49 | 2023-07-13 |  |
+| [arrival](https://open.spotify.com/track/7J1e0LTIZRjdz7i6WWdWcF) | [foursite](https://open.spotify.com/artist/52zHyZn0uVtMXDhJXVIRma) | [arrival](https://open.spotify.com/album/4StEvC14w9UGdxD5SJqrhQ) | 2:49 | 2023-07-13 | 2025-03-17 |
 | [Artful Haze](https://open.spotify.com/track/0Xlthct8SOi0gAdnn2GbRT) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Artful Haze](https://open.spotify.com/album/7etSid2yKrfknqNM8Tqs0Q) | 2:40 | 2022-04-15 | 2022-08-12 |
 | [artichoke](https://open.spotify.com/track/14kvN9rugvU6WxI7hF8RGV) | [Touristique](https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2) | [artichoke](https://open.spotify.com/album/0IGHj0l3i60tLiIaVRuJ4F) | 2:39 | 2024-02-09 |  |
 | [Artifacts](https://open.spotify.com/track/0X3tR78eWkLh5yBDBXb1tF) | [Hi Hotel](https://open.spotify.com/artist/5XpDsM9N17TONXweroKN59) | [Cassette](https://open.spotify.com/album/2Q6LqD1dFcW7IuekRJ9C01) | 3:42 | 2022-04-15 | 2022-10-14 |
@@ -247,7 +247,7 @@
 | [Blush](https://open.spotify.com/track/6smVZWU1IXU6HCGR5DN61g) | [Kyoto Dreams](https://open.spotify.com/artist/4iEdyYO8Va1fewpUAi6Mt2) | [Blush](https://open.spotify.com/album/6jWdLsVGwOaMVZlU5WIQ3V) | 2:37 | 2022-04-15 | 2022-07-08 |
 | [Blvck Kat](https://open.spotify.com/track/0Iu9uuTyFis6muasxFY7cV) | [lowerkaze](https://open.spotify.com/artist/7HjuawVefxsnyB9JVrJQcA) | [Blvck Kat](https://open.spotify.com/album/2sWYPBDHAKJNm8XxsZkLU9) | 3:16 | 2022-12-02 | 2024-10-22 |
 | [Boat In The Water](https://open.spotify.com/track/3HnK4jipVHwmYjskVtxp8c) | [Bogomolove](https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM) | [Boat In The Water](https://open.spotify.com/album/41OlZWdyIBOPqMJeyawECU) | 2:29 | 2022-06-24 | 2022-11-19 |
-| [boba latte](https://open.spotify.com/track/72l63X3sUTBpm08b807lZ6) | [faux kitsune](https://open.spotify.com/artist/77wxmMCyAJ6Nvkw8isSUNv) | [boba latte](https://open.spotify.com/album/1ToGvu8Pzb6LcPdz2Oqaui) | 1:41 | 2024-08-16 |  |
+| [boba latte](https://open.spotify.com/track/72l63X3sUTBpm08b807lZ6) | [faux kitsune](https://open.spotify.com/artist/77wxmMCyAJ6Nvkw8isSUNv) | [boba latte](https://open.spotify.com/album/1ToGvu8Pzb6LcPdz2Oqaui) | 1:41 | 2024-08-16 | 2025-03-17 |
 | [Bolivia](https://open.spotify.com/track/0rCMCvrYA4LKXFKdUSyseQ) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Bolivia](https://open.spotify.com/album/0sAapPHnSeEDZBDIP6diAg) | 2:36 | 2022-05-13 | 2022-11-12 |
 | [Bonanza](https://open.spotify.com/track/27cTfNXrA0SfCp1ucqB3Ee) | [MiDN8](https://open.spotify.com/artist/4SoTXSB2YaVSAlZcVTVuB4), [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Bonanza](https://open.spotify.com/album/16OmFtl47xkK1ygCXqTTIY) | 2:33 | 2022-09-09 | 2023-01-07 |
 | [Bonsai](https://open.spotify.com/track/0JS2nQBvx8JDpNadPPlqNb) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [Bonsai](https://open.spotify.com/album/5zWHDrWb8dBqMyJrebpqMU) | 2:15 | 2023-01-06 | 2023-10-20 |
@@ -628,6 +628,7 @@
 | [Eye Of The Storm](https://open.spotify.com/track/4DTfDKKSDkUeTWrTdmbSWe) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om) | [Eye Of The Storm](https://open.spotify.com/album/70BCNQtP6mmhmiXRrp6uKR) | 2:02 | 2022-05-27 | 2022-11-12 |
 | [Eyes Closed](https://open.spotify.com/track/46vOrwK5aYq71BwwIAv1iO) | [Red Cedar](https://open.spotify.com/artist/38yP6LHyPx5tNW9Il5ADFp) | [Eyes Closed](https://open.spotify.com/album/75NgOVy1YHg0cff4XhUsYQ) | 2:12 | 2024-11-15 | 2025-01-18 |
 | [Eye´s on the Price](https://open.spotify.com/track/4BEk85p0hvQtzGzJbHxBHP) | [Leo Perna](https://open.spotify.com/artist/0nZVFbVPVpCz6leeVjpWf7) | [Return of the Jack](https://open.spotify.com/album/3nTO2fsEvZmvfjIcoK7bDB) | 2:25 | 2023-03-08 | 2024-05-14 |
+| [fade](https://open.spotify.com/track/1TAyi2YdPbbNYSULs0EXbP) | [Beats on 21st](https://open.spotify.com/artist/2VBUiCVWzqYXz3VdzHQMG5) | [fade](https://open.spotify.com/album/4jIA0uhC3mxgNyHCUk534m) | 2:27 | 2025-03-14 |  |
 | [Fade](https://open.spotify.com/track/5AOVlBVKca5uYJ18Q29U6D) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Fade](https://open.spotify.com/album/6IFb5yjI69X7igE69Gm2dY) | 3:05 | 2022-10-07 |  |
 | [Fade Away](https://open.spotify.com/track/0N8xcgJldOu3c7sOM3xo7K) | [lostoutside](https://open.spotify.com/artist/6VnH3ZBgQcJl7aukGnVjjL) | [Fade Away](https://open.spotify.com/album/2evuwGsDHMb3h17P7v2Tc8) | 2:44 | 2022-04-15 | 2022-09-02 |
 | [Fade To Dawn](https://open.spotify.com/track/1yXAd2cV8iuryyrrfe7I73) | [Maudii](https://open.spotify.com/artist/4sh66zMHXR6pqwSnw82Tdj) | [Fade To Dawn](https://open.spotify.com/album/4hUYjD0WL1t4KGjw4Z6WCh) | 2:25 | 2022-07-01 | 2024-05-14 |
@@ -942,6 +943,7 @@
 | [immersive kaleidoscope](https://open.spotify.com/track/29PLMHXtuRpUgO2cNfsgWi) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [immersive kaleidoscope](https://open.spotify.com/album/5NFtnIgx3ikbkxzBHQyuKl) | 2:40 | 2023-09-29 |  |
 | [Imprints](https://open.spotify.com/track/1AjpbQ4hxw2LNy7QOJKxZh) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Tailored Times / Imprints](https://open.spotify.com/album/2N1V0jS8ZBNI8BjYvmXGtr) | 2:12 | 2022-11-11 |  |
 | [imstillfallingfor](https://open.spotify.com/track/2hug5L1Q26tKppSYubogeh) | [ELEWAKA](https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq) | [imstillfallingfor](https://open.spotify.com/album/0L7lZEjd0QxY2ApHlwmUbZ) | 3:16 | 2024-10-25 |  |
+| [in a haze](https://open.spotify.com/track/0OpsPckPFX5t1fEvPUDeER) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [in a haze](https://open.spotify.com/album/1eDBDOKDYy0wN0V5eRtyHK) | 1:56 | 2025-03-14 |  |
 | [in a..\. mood](https://open.spotify.com/track/06EpTiOF7FJajxmFd3iBZs) | [Au\-Gustí](https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7) | [in a..\. mood](https://open.spotify.com/album/5H1jIhE1wBYqDkWpEnTCsc) | 2:31 | 2023-01-06 | 2024-10-31 |
 | [In Dreams](https://open.spotify.com/track/6ZZ4QZuEgjKueuPKixfPC8) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [In Dreams](https://open.spotify.com/album/6JvmEOeIs3HOm2m8mRG5eZ) | 2:40 | 2023-02-13 | 2023-04-04 |
 | [In Harmony](https://open.spotify.com/track/77urtzULRJH4p0bDYvJ4OT) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [In Harmony](https://open.spotify.com/album/3NQVOoX4j90bmkYxUujsUG) | 2:31 | 2022-07-29 | 2022-08-12 |

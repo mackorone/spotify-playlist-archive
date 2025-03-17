@@ -2,7 +2,7 @@
 
 ### [K\-OST Center](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Hot & new K\-Drama OSTs are here! \(Cover: \(My Dearest Nemesis\)그놈은 흑염룡\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
+> Hot & new K\-Drama OSTs are here! \(Cover: My Dearest Nemesis\(그놈은 흑염룡\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
 1,024 songs - 2 day 14 hr 5 min
 

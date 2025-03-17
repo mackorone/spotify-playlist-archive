@@ -2,9 +2,9 @@
 
 ### [K\-Pop Duets \(러블리 듀엣\)](https://open.spotify.com/playlist/37i9dQZF1DWZYjbSZYSpu6)
 
-> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Lim Seung Ong x Nana\(임슬옹, 나나\)\)
+> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: JEONG EUN JI, Seo In Guk\(정은지, 서인국\)\)
 
-249 songs - 14 hr 52 min
+250 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [August \(Duet with CHOSNG\)](https://open.spotify.com/track/1o3nbJzw4MXtFr4r6JfvO3) | [The Orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI), [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [August \(Duet with CHOSNG\)](https://open.spotify.com/album/4NUQvW7uOiI3aDx2Qz9zVZ) | 3:27 | 2022-04-21 | 2022-07-14 |
 | [Autumn Memories \(with Lee Seok Hoon\)](https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Autumn Memories](https://open.spotify.com/album/1Bv77lq1y1C2nEqpVMy99O) | 3:58 | 2022-03-24 | 2022-07-28 |
 | [Based On A True Story \(Feat\. HEIZE\)](https://open.spotify.com/track/0ORoBq47N6JHgFXq52UAtM) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu) | 3:54 | 2022-07-25 | 2022-08-19 |
-| [Be there](https://open.spotify.com/track/5Xo68uezxbznhafOy4Zvii) | [Lim Seul Ong](https://open.spotify.com/artist/0lfuVlyKgbJIpdDXEfGRiR), [Nana](https://open.spotify.com/artist/0y7Ayco2wqh26ps6bYsor8) | [Be there](https://open.spotify.com/album/2SivmfiCW0Aez8fVapvvtN) | 3:44 | 2025-02-17 |  |
+| [Be there](https://open.spotify.com/track/5Xo68uezxbznhafOy4Zvii) | [Lim Seul Ong](https://open.spotify.com/artist/0lfuVlyKgbJIpdDXEfGRiR), [Nana](https://open.spotify.com/artist/0y7Ayco2wqh26ps6bYsor8) | [Be there](https://open.spotify.com/album/2SivmfiCW0Aez8fVapvvtN) | 3:44 | 2025-02-17 | 2025-03-17 |
 | [Be Your Enemy](https://open.spotify.com/track/1ssN3REdzr9dUIZ6T8rD1T) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Never Gonna Dance Again : Act 2 \- The 3rd Album](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) | 3:35 | 2022-03-24 |  |
 | [Beautiful Mint Life](https://open.spotify.com/track/7qKkB9oyLR3af8C17eFkqP) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV), [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Beautiful Mint Life](https://open.spotify.com/album/01rorj7OHIYYw5cfQzUwIi) | 3:24 | 2022-04-21 | 2022-07-25 |
 | [Because we loved](https://open.spotify.com/track/2JIaYEoBsURkmNab7EgYwA) | [KANG MINKYUNG](https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4), [CHOI JUNG HOON of JANNABI](https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4) | [Because we loved](https://open.spotify.com/album/2qarSzZiUyIe8RCdsilL7s) | 3:41 | 2022-09-27 |  |
@@ -43,6 +43,7 @@
 | [Close your eyes](https://open.spotify.com/track/5cayMuBfz8d5PjXTHPO1bX) | [B.O.](https://open.spotify.com/artist/7ajvZ2fngubfdjP15qyPY5), [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Close your eyes](https://open.spotify.com/album/5vGSp4d1JJ1wU7Rx7Y8XLe) | 3:17 | 2022-04-21 | 2022-07-09 |
 | [Come Back Home \(feat\. Yeeun\)](https://open.spotify.com/track/6Vl5W40Ve7mvbmPxKRhR94) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Yeeun](https://open.spotify.com/artist/4hMhbcPHd2nsZFhY1TNp8Y) | [Come Back Home](https://open.spotify.com/album/0itIaXewMbaWbViMKNstF9) | 3:26 | 2022-11-25 | 2023-07-08 |
 | [Complications \(ft\. SOLE\)](https://open.spotify.com/track/1XGtdNHscboubm98Ajuh7R) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [dopamine](https://open.spotify.com/album/7FOdOoz6j0vcY8UlIbft76) | 2:52 | 2024-06-20 |  |
+| [Couple](https://open.spotify.com/track/5qlHFVgVy3WBFw7vBZPjaL) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92), [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Couple \- Special Single](https://open.spotify.com/album/5w9TtiYrHhiJsfVDrE5vWx) | 3:36 | 2025-03-16 |  |
 | [Creamppang](https://open.spotify.com/track/4kPG3bVHSq0cfIIt0LQEsO) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Creamppang](https://open.spotify.com/album/2D0VlLiR8TavwuwEyHkavW) | 2:49 | 2022-04-21 | 2022-07-04 |
 | [Dawn do that](https://open.spotify.com/track/4xD5Vnn0DM8jksh1GCTqNu) | [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Dawn do that](https://open.spotify.com/album/6pmkZgZ01iByTV2hfaZmdo) | 4:03 | 2022-03-24 | 2022-07-29 |
 | [Day and night](https://open.spotify.com/track/1M8i2LV1vbJqbFsiwAT3eG) | [Espresso](https://open.spotify.com/artist/6MqxpdnAX09GQsbhc0bvrZ) | [Every Summer](https://open.spotify.com/album/0PthADRTRT4SAIkCkaHbp8) | 3:58 | 2022-03-24 | 2022-07-27 |

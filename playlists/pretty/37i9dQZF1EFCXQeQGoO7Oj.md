@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,917 likes - 496 songs - 1 day 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,919 likes - 496 songs - 1 day 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,8 +199,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 189 | [Who's In Your Head](https://open.spotify.com/track/5nhW8I46uDE5sc5ouEbzao) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Who's In Your Head](https://open.spotify.com/album/3olWRKG2KFhJoWsSRpCpja) | 3:03 |
 | 190 | [Army](https://open.spotify.com/track/1PzKBUHhyD035EQM9GNMfV) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 3:57 |
 | 191 | [The One](https://open.spotify.com/track/44kgtDJyAFv4Z01z7bIxco) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:46 |
-| 192 | [Coloratura](https://open.spotify.com/track/0jH7gF7KCk2Lom9gimaKms) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 10:17 |
-| 193 | [Lithonia](https://open.spotify.com/track/3uC4r2daXertBxxc8BpbbN) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 2:58 |
+| 192 | [Lithonia](https://open.spotify.com/track/3uC4r2daXertBxxc8BpbbN) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 2:58 |
+| 193 | [Coloratura](https://open.spotify.com/track/0jH7gF7KCk2Lom9gimaKms) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 10:17 |
 | 194 | [Bad To You \(with Normani & Nicki Minaj\)](https://open.spotify.com/track/7vJS1DPc3FzBtqBs8n3mW5) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Charlie's Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) | 2:51 |
 | 195 | [Show Me Love \- Radio Version](https://open.spotify.com/track/3gKL2RRGnquktudCkkBC0X) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Robyn Is Here](https://open.spotify.com/album/3cGycfFRPPd5uCxVkn284R) | 3:51 |
 | 196 | [We've Got It Goin' On \- Radio Edit](https://open.spotify.com/track/2rtDTRFjBoqyj2rgi5mOAF) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 3:39 |
@@ -406,8 +406,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 396 | [Pablo Escobar](https://open.spotify.com/track/39OeihQRJWcERIbuKrHyUj) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good](https://open.spotify.com/album/5JDvgDchniRt7s72WlHOH6) | 3:00 |
 | 397 | [Complicated](https://open.spotify.com/track/3pw68TdE3VY36Aba4LqZAi) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Have A Nice Day](https://open.spotify.com/album/3VfBy3QX5peTfME0UxzZ2P) | 3:37 |
 | 398 | [Nobody but You](https://open.spotify.com/track/024v6TtQuwzaudtdWFEOuM) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/1oWxRkI4V9d3hH3PqWpx9H) | 3:03 |
-| 399 | [Blank Space/Style](https://open.spotify.com/track/2DO19aPAU1zPD4eWSpgXrz) | [Nothing But Treble](https://open.spotify.com/artist/5Sng1k7qku7n6WAJsL1euv) | [This Time](https://open.spotify.com/album/2E3MuSG1OlV9ub5Enkpdmg) | 2:55 |
-| 400 | [¿Es En Serio?](https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Es En Serio?](https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5) | 3:13 |
+| 399 | [¿Es En Serio?](https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Es En Serio?](https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5) | 3:13 |
+| 400 | [Blank Space/Style](https://open.spotify.com/track/2DO19aPAU1zPD4eWSpgXrz) | [Nothing But Treble](https://open.spotify.com/artist/5Sng1k7qku7n6WAJsL1euv) | [This Time](https://open.spotify.com/album/2E3MuSG1OlV9ub5Enkpdmg) | 2:55 |
 | 401 | [Can't Find Entrance](https://open.spotify.com/track/2nGWmyIQqQ7Mp3P9nJuO1c) | [Those Dancing Days](https://open.spotify.com/artist/5JTKRNH8lzbZcSvOqZSehS) | [Daydreams & Nightmares](https://open.spotify.com/album/7AsvkOrucTnf34btkzSAFw) | 3:35 |
 | 402 | [Teenage Dream / Break Free](https://open.spotify.com/track/2JELSAbzbj1j2VbbqT7GyM) | [David Bedella](https://open.spotify.com/artist/7bkK3M7QA5LDpIbPoSC7dE), [Melanie La Barrie](https://open.spotify.com/artist/4qNlLAmNX0MLUIKl9I8vA1) | [& Juliet \(Original London Cast Recording\)](https://open.spotify.com/album/3JbJ4BZWKu38meXMPwmxmh) | 3:09 |
 | 403 | [Alive](https://open.spotify.com/track/2X9HHYtslWjm1rnh1Vy91g) | [Natalie Bassingthwaighte](https://open.spotify.com/artist/49NJc5qDmCRsN3SsBAqEa4) | [1000 Stars](https://open.spotify.com/album/46ekOtyTUnhxvmaW1hJkI0) | 3:31 |
@@ -505,4 +505,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 495 | [Io Non Piango Più](https://open.spotify.com/track/6dVtYE87ODIScZkBLM6nX8) | [Clara Moroni](https://open.spotify.com/artist/1xIa0kM33TSTfQvIeC7Ib8) | [Bambina Brava](https://open.spotify.com/album/4ELJA6fChKI9P7HeuP55gj) | 3:30 |
 | 496 | [Sem Explicacao](https://open.spotify.com/track/00wBx311oIwxJOHVvnybUt) | [Lucas Nathan](https://open.spotify.com/artist/6GBgcZEko9Nn4WJ3NSyVMb) | [Pra Beber 100 Moderacao](https://open.spotify.com/album/4gdu51udpSof8dbMWdQMKm) | 2:56 |
 
-Snapshot ID: `AbsJlAAAAABlYRzmUnnelk0rdMQX+Rt7`
+Snapshot ID: `AbsPNAAAAAA0cXH1NsTaYBK4wBT21OEQ`

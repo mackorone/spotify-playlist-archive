@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Chappell Roan, Selena Gomez & Benny Blanco, Lil Nas X, HAIM, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,320,972 likes - 101 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,321,183 likes - 101 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Zona Ganjah. The essential tracks, all in one playlist.",
-  "num_followers": 85713,
+  "num_followers": 85732,
   "original_name": "This Is Zona Ganjah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9NxgAAAAACf7cYTIz3Vq/YxrNt23uY2",
+  "snapshot_id": "Z9TDAAAAAAATnRx2H19XQzaMoLzfSzik",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 195040,
-      "name": "Irie",
-      "url": "https://open.spotify.com/track/6AfJLMn5KquPoEfybycZ4J"
+      "duration_ms": 189866,
+      "name": "Somos R",
+      "url": "https://open.spotify.com/track/69N8sDFDYqlJxAIjlNIQbt"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 189866,
-      "name": "Somos R",
-      "url": "https://open.spotify.com/track/69N8sDFDYqlJxAIjlNIQbt"
+      "duration_ms": 195040,
+      "name": "Irie",
+      "url": "https://open.spotify.com/track/6AfJLMn5KquPoEfybycZ4J"
     },
     {
       "added_at": null,
@@ -795,18 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cristal 9",
-        "url": "https://open.spotify.com/album/5QWvvygpPGzkw0wS8qVi2t"
+        "name": "Mundo de Cristal",
+        "url": "https://open.spotify.com/album/1XpK1Zt3D6SLvFafcrlqGL"
       },
       "artists": [
+        {
+          "name": "Green Valley",
+          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
+        },
         {
           "name": "Zona Ganjah",
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 198855,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/5wleH1Q7TtVP81uDoCztKd"
+      "duration_ms": 210000,
+      "name": "Mundo de Cristal",
+      "url": "https://open.spotify.com/track/7MnI59X5e5oV3LqM0EjZ8d"
     }
   ],
   "unique_name": "This Is Zona Ganjah",

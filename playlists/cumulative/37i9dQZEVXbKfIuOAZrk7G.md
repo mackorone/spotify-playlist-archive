@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-3,582 songs - 7 day 21 hr 39 min
+3,583 songs - 7 day 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [abcdefu](https://open.spotify.com/track/6EWepM3ld6UUzS2heUGNtg) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [abcdefu](https://open.spotify.com/album/6AD387MPa0wLq7aGrX44TH) | 2:37 | 2022-03-01 | 2022-03-10 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-10 | 2022-06-22 |
 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2022-11-08 | 2022-12-24 |
-| [Abracadabra](https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:43 | 2025-03-09 |  |
+| [Abracadabra](https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:43 | 2025-03-09 | 2025-03-17 |
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-18 | 2025-03-05 |
 | [Abrar’s Entry \| Jamal Kudu \(From "ANIMAL"\)](https://open.spotify.com/track/35FFqjqaPv1Fr9B1GtJdZO) | [Harshavardhan Rameshwar](https://open.spotify.com/artist/5CTu6FKerxlvZrsLb6BYaU), [Choir](https://open.spotify.com/artist/1EQLSftgrQ3WMEofBfhlIZ) | [Abrar’s Entry \| Jamal Kudu \(From "ANIMAL"\)](https://open.spotify.com/album/0n0KkxmGPAKTV8udObls8m) | 2:14 | 2023-12-26 | 2024-01-10 |
 | [Aces](https://open.spotify.com/track/2elzUKJebZM50u2i6dgVnP) | [dkj](https://open.spotify.com/artist/5FU1KYJheed7LZIM2r6KrE) | [Aces](https://open.spotify.com/album/3RZ5noE2X4Fn4OhdfslVex) | 2:02 | 2022-11-08 | 2022-11-16 |
@@ -935,6 +935,7 @@
 | [Everything You Have Done \- Meduza Edit](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Everything You Have Done \(Meduza Edit\)](https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe) | 2:36 | 2023-04-04 | 2023-04-30 |
 | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno) | 4:17 | 2023-12-19 | 2023-12-24 |
 | [EVIL](https://open.spotify.com/track/6UW10CbMTvqciT3X3Ldeox) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG) | 4:06 | 2023-04-25 | 2023-05-03 |
+| [Evil Jordan](https://open.spotify.com/track/7HhG4kC2bdexZjd4MWdGcp) | [fedo DJ](https://open.spotify.com/artist/0sfCfF62IjeupwxdvH7KM3), [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x), [vampvampvamp](https://open.spotify.com/artist/5T9Qk7MADn1JHGrd2QdCAG) | [Evil Jordan](https://open.spotify.com/album/46PGnvR6cU3QMQZSKRzLHy) | 2:11 | 2025-03-16 |  |
 | [Evil Jordan](https://open.spotify.com/track/0efLlKsfxZRupQc4JHymJQ) | [fedo DJ](https://open.spotify.com/artist/0sfCfF62IjeupwxdvH7KM3), [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x), [vampvampvamp](https://open.spotify.com/artist/5T9Qk7MADn1JHGrd2QdCAG) | [Evil Jordan](https://open.spotify.com/album/3BUBj7P3WCMlpcF6uAvT7K) | 2:14 | 2025-01-01 | 2025-01-05 |
 | [Evil Jordan](https://open.spotify.com/track/3vtJp67yAeJ0kr9GvnbImd) | [fedo DJ](https://open.spotify.com/artist/0sfCfF62IjeupwxdvH7KM3), [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x), [vampvampvamp](https://open.spotify.com/artist/5T9Qk7MADn1JHGrd2QdCAG) | [Evil Jordan](https://open.spotify.com/album/33j5cxdZ9rv8zsfHCHOnAr) | 2:14 | 2024-12-27 | 2025-01-02 |
 | [Evil Jordan](https://open.spotify.com/track/3RmxEgy4MZ5nYAwf0VQSGf) | [vampvampvamp](https://open.spotify.com/artist/5T9Qk7MADn1JHGrd2QdCAG) | [Evil Jordan](https://open.spotify.com/album/6evzK5Q7k6SPMkPlaZT1e5) | 2:14 | 2024-12-26 | 2024-12-28 |

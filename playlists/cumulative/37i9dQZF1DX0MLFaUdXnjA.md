@@ -4,7 +4,7 @@
 
 > Sit back and relax to the chillest pop\.  Cover: HAIM
 
-2,155 songs - 4 day 19 hr 52 min
+2,156 songs - 4 day 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [All Bad](https://open.spotify.com/track/4y1HwFNyfu2MPBTR0SKgdr) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Two Shades Blonder](https://open.spotify.com/album/4wsUtKnG1L5Yca5rdL4ZLg) | 2:31 | 2024-10-25 | 2024-12-21 |
 | [All for Nothing](https://open.spotify.com/track/4eOydYjbFRCfFZ8jxtwrQX) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [All for Nothing](https://open.spotify.com/album/0kWI8zbuMg3aNL7p6ceWJ7) | 3:23 | 2023-02-17 | 2023-04-01 |
 | [All For You](https://open.spotify.com/track/4eE6KCWXbXyEgLK6NtyzPX) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:45 | 2022-11-04 | 2023-03-11 |
+| [All I Ever Asked](https://open.spotify.com/track/1awQLv1J6LkeEQ5co4OOoQ) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:37 | 2025-03-16 |  |
 | [All I Need](https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:33 | 2022-05-20 | 2022-09-24 |
 | [All I Want \- Love That Lasts Mix](https://open.spotify.com/track/05ZA9WD25P4ynY41Bd15Km) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [All I Want \(Love That Lasts Mix\)](https://open.spotify.com/album/2VcY9Ks3xBxPSSWESzhCYu) | 2:55 | 2020-05-23 | 2020-12-04 |
 | [All My Friends](https://open.spotify.com/track/4VCm37NE6sEWdji4FUJsE7) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [All My Friends](https://open.spotify.com/album/24gA6N54awFC2B3Wmlc8pr) | 3:47 | 2021-09-11 | 2021-11-06 |

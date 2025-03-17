@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R?si=1JdXJhwPRn6r7BYJHS84DQ">Hendré Baard</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,538 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,550 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 21 | [Fok Jou](https://open.spotify.com/track/3gjE2fU1aAjumf4SKEZTTN) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Fok Jou](https://open.spotify.com/album/6TlCuwtOBbYPRjktVIKscV) | 3:30 |
 | 22 | [Wonder](https://open.spotify.com/track/18bCdBZVIjfYwVtd8FUqyN) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Eindbestemming](https://open.spotify.com/album/2rTAdgIxkg52eAzq3Ev6I7) | 2:45 |
 | 23 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 |
-| 24 | [Die Brug](https://open.spotify.com/track/0MozIJQu2CAVWogDilKDKj) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Die Brug](https://open.spotify.com/album/0yC6sDUuyb6T1rf0ruJjwA) | 3:30 |
+| 24 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |
 | 25 | [Vêr Van Die Huis Af](https://open.spotify.com/track/5VgaegynEASH8aApn1fxS0) | [MJ Nel](https://open.spotify.com/artist/0f26xBbgdKK8R4sD6vFO4A), [wiesner](https://open.spotify.com/artist/57bqeusfyDsCIt1qDA1J9I) | [Vêr Van Die Huis Af](https://open.spotify.com/album/5exylKwlQSPJE3iI6NTRj9) | 3:46 |
-| 26 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |
+| 26 | [Die Brug](https://open.spotify.com/track/0MozIJQu2CAVWogDilKDKj) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Die Brug](https://open.spotify.com/album/0yC6sDUuyb6T1rf0ruJjwA) | 3:30 |
 | 27 | [Oor Jou](https://open.spotify.com/track/2y2Fx9kG3SBmAwSDNrZE0o) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Oor Jou](https://open.spotify.com/album/0GKkRhtRDRjjj10Poa4bQi) | 3:58 |
 | 28 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |
 | 29 | [Gelukkige Lewe](https://open.spotify.com/track/3swdczqkARpXMh9mFxF2NO) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Gelukkige Lewe](https://open.spotify.com/album/4oRJ7f4lYdd1boDyEfHkjE) | 2:48 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 43 | [Lose Somebody \- Cover](https://open.spotify.com/track/3GLZidQawm1VUnuAgujRZF) | [Fountain of Solace](https://open.spotify.com/artist/30gtKdC6X6add6Q52SqBNz) | [Lose Somebody \(Cover\)](https://open.spotify.com/album/15VyLqc1PVNGdGHG0FHbJt) | 3:17 |
 | 44 | [Africa](https://open.spotify.com/track/2TceGONzzKH5mskSzoTpfA) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [Rewind](https://open.spotify.com/album/3MWLY2HOD6zSdw7AQTDRzF) | 3:27 |
 | 45 | [Back in the Day](https://open.spotify.com/track/0b8XiWav4wIZClvoxC2ptM) | [Nina Brand](https://open.spotify.com/artist/52xuRtfsFW0C8aBeDjc86a) | [Back in the Day](https://open.spotify.com/album/7CoECeuiiMHAxmV2W7vuM2) | 3:19 |
-| 46 | [Pick Your Poison](https://open.spotify.com/track/58CmgjHD81STQJjKBT8m9y) | [The Parlotones](https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs) | [Forgotten Songs E.P\. 3 – Raw and Unheard](https://open.spotify.com/album/4J8WyZxxY1lqxyV6IaYb3c) | 3:15 |
-| 47 | [Ten Seconds](https://open.spotify.com/track/7D9KPaGWVYgKVICbKaBsoi) | [Cutting Jade](https://open.spotify.com/artist/22MjeBWM1RMBsMKMYl3aSr) | [Between Two Lives](https://open.spotify.com/album/48QZU5VRCZTlFDstYCT8eJ) | 3:32 |
-| 48 | [Burning For You](https://open.spotify.com/track/1alUZS10M2GGYcJiF9cSv2) | [So Kindly](https://open.spotify.com/artist/6fUX9WpmjfZ6brQClEEuWN) | [Burning For You](https://open.spotify.com/album/1H8LTaqQEooW3kxq46koJY) | 3:52 |
-| 49 | [Besete](https://open.spotify.com/track/6wXMpyH6tULngBV4WCxLxk) | [Van Der Aven](https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e) | [Besete](https://open.spotify.com/album/2MfLAD4mUzD9wxR6y0B2bA) | 3:50 |
-| 50 | [Hey Mister](https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8) | [Henry Ate](https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn) | [96\-03 The Singles](https://open.spotify.com/album/5bYKIrlRp4F2CIVcG9MgyO) | 3:13 |
+| 46 | [Burning For You](https://open.spotify.com/track/1alUZS10M2GGYcJiF9cSv2) | [So Kindly](https://open.spotify.com/artist/6fUX9WpmjfZ6brQClEEuWN) | [Burning For You](https://open.spotify.com/album/1H8LTaqQEooW3kxq46koJY) | 3:52 |
+| 47 | [Pick Your Poison](https://open.spotify.com/track/58CmgjHD81STQJjKBT8m9y) | [The Parlotones](https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs) | [Forgotten Songs E.P\. 3 – Raw and Unheard](https://open.spotify.com/album/4J8WyZxxY1lqxyV6IaYb3c) | 3:15 |
+| 48 | [Ten Seconds](https://open.spotify.com/track/7D9KPaGWVYgKVICbKaBsoi) | [Cutting Jade](https://open.spotify.com/artist/22MjeBWM1RMBsMKMYl3aSr) | [Between Two Lives](https://open.spotify.com/album/48QZU5VRCZTlFDstYCT8eJ) | 3:32 |
+| 49 | [Hey Mister](https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8) | [Henry Ate](https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn) | [96\-03 The Singles](https://open.spotify.com/album/5bYKIrlRp4F2CIVcG9MgyO) | 3:13 |
+| 50 | [Besete](https://open.spotify.com/track/6wXMpyH6tULngBV4WCxLxk) | [Van Der Aven](https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e) | [Besete](https://open.spotify.com/album/2MfLAD4mUzD9wxR6y0B2bA) | 3:50 |
 
 Snapshot ID: `Z9PMmQAAAADT2ij0wWdDY1jI7XPmXDA3`

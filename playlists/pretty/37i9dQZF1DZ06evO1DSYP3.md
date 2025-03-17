@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,555 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,556 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 27 | [Lo Lo](https://open.spotify.com/track/3OOuvtYS6f6hQaTv1M5syj) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Great Escape](https://open.spotify.com/album/1fTkNWLxLiuQZ4u5sdGXps) | 3:23 |
 | 28 | [bamboo](https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 2:39 |
 | 29 | [Feel Me?](https://open.spotify.com/track/5LGJYig5XDRbS0f5pXGmmH) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Feel Me?](https://open.spotify.com/album/319EhuTWQQRHTQqSutFXsl) | 2:19 |
-| 30 | [Stunna Anthem](https://open.spotify.com/track/32swiA5dr04YdzEpLOTiXX) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 3:01 |
-| 31 | [Don't Lose Your Head](https://open.spotify.com/track/4QMCkz3JSWOEl7jRsDWlWP) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Zion I](https://open.spotify.com/artist/3LLs28LJVlXAjWc8UDkcQZ) | [Don't Lose Your Head](https://open.spotify.com/album/6LpAG5njnQXVbHfakYlHrI) | 2:41 |
+| 30 | [Don't Lose Your Head](https://open.spotify.com/track/4QMCkz3JSWOEl7jRsDWlWP) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Zion I](https://open.spotify.com/artist/3LLs28LJVlXAjWc8UDkcQZ) | [Don't Lose Your Head](https://open.spotify.com/album/6LpAG5njnQXVbHfakYlHrI) | 2:41 |
+| 31 | [Stunna Anthem](https://open.spotify.com/track/32swiA5dr04YdzEpLOTiXX) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 3:01 |
 | 32 | [shake ya ass \(feat\. P\-Lo\)](https://open.spotify.com/track/0quqp7sNqZnyrePWcTPfpi) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [drink bleach](https://open.spotify.com/album/4VQDvbycoUett0aIo9ku6r) | 3:21 |
 | 33 | [Power \(feat\. Nef The Pharaoh & P\-Lo\)](https://open.spotify.com/track/7BHEi0cFs6TVNFDvbBrAjz) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Nef The Pharaoh](https://open.spotify.com/artist/3DiSC0nSNNWpPy5ZK3mcrz), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [The Vault](https://open.spotify.com/album/2SWrHEcHbsRIFhnuA7addE) | 3:19 |
 | 34 | [Yeah](https://open.spotify.com/track/43ANv0oewa0CAnAr7QrTeD) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [For The Soil](https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3) | 1:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 49 | [Luh U](https://open.spotify.com/track/4eDRjjFdu1g6Q4Z4i9Dvjm) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Bosko](https://open.spotify.com/artist/520s2qSqvmjVMEW31EHmYJ) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 3:02 |
 | 50 | [Make a Move](https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx) | [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Make a Move](https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX) | 2:24 |
 
-Snapshot ID: `Z9NxgAAAAADZN6vqmBnny7+61W2Ic6F7`
+Snapshot ID: `Z9TDAAAAAADkpTWDdhpatyOt8eAEex7R`

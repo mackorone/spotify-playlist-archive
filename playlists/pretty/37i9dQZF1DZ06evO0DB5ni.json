@@ -1,12 +1,12 @@
 {
   "description": "This is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda. The essential tracks, all in one playlist.",
-  "num_followers": 821772,
+  "num_followers": 822076,
   "original_name": "This Is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9NxgAAAAABVu7Z+87yAPTIv3wwjgYvt",
+  "snapshot_id": "Z9TDAAAAAAA8W2YKm4Tz32oFfJZODfr1",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atento Aviso ... Rey Sin Reina",
-        "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 139759,
-      "name": "Safo En El Amor",
-      "url": "https://open.spotify.com/track/71BLIwRGw7O0pTIIjgUWaM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Busc\u00e1ndole A La Suerte",
         "url": "https://open.spotify.com/album/74bPnWHzQtUocCjMpK08au"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 138306,
       "name": "Busc\u00e1ndole A La Suerte",
       "url": "https://open.spotify.com/track/2jOajXFkllEHWaHgSzhuBV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atento Aviso ... Rey Sin Reina",
+        "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 139759,
+      "name": "Safo En El Amor",
+      "url": "https://open.spotify.com/track/71BLIwRGw7O0pTIIjgUWaM"
     },
     {
       "added_at": null,

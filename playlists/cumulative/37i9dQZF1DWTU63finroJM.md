@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: <strong>Rachel Chinouriri<strong>.
 
-1,895 songs - 4 day 6 hr 20 min
+1,896 songs - 4 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Berani](https://open.spotify.com/track/02LsjyEhRszT50M3zqBsbQ) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [Berani](https://open.spotify.com/album/2lPgDRjtMqX8KtysPcxCJB) | 3:17 | 2022-03-21 | 2023-04-18 |
 | [Bernafaslah Sejenak](https://open.spotify.com/track/7mL0RQHHu3N3fYFwawa8Mx) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Bernafaslah Sejenak](https://open.spotify.com/album/7KF9Kk6bpryWfjzTprCylS) | 4:28 | 2024-04-19 | 2024-05-11 |
 | [beso francés](https://open.spotify.com/track/3i2DjDgANCP3DjG0WxGNG5) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [beso francés](https://open.spotify.com/album/6HQv2j8lOELD9K7s240BwP) | 2:38 | 2023-01-06 | 2023-09-09 |
-| [best of me & you](https://open.spotify.com/track/7zLJ14Pk43ci8oWTuPSLzR) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [best of me & you](https://open.spotify.com/album/43laZWLFhqocwIYL3AHoII) | 2:52 | 2024-12-13 |  |
+| [best of me & you](https://open.spotify.com/track/7zLJ14Pk43ci8oWTuPSLzR) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [best of me & you](https://open.spotify.com/album/43laZWLFhqocwIYL3AHoII) | 2:52 | 2024-12-13 | 2025-03-17 |
 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 | 2024-07-26 | 2024-10-26 |
 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 | 2024-05-03 | 2024-09-07 |
 | [Better Days \(feat\. JUMADIBA\)](https://open.spotify.com/track/0vBoj1HfKDyB4SGQJPPUEK) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [BALANCE](https://open.spotify.com/album/53TUP9i0S2t2gDRe9pCfYB) | 1:53 | 2024-09-06 | 2025-01-12 |
@@ -538,6 +538,7 @@
 | [Finto cielo](https://open.spotify.com/track/6mT2w1ht77DkG5aKXzSJhc) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [DUMBA](https://open.spotify.com/album/2CQnHbVVhkjReejy5XKOCO) | 2:20 | 2024-05-17 | 2024-07-09 |
 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 | 2022-08-04 | 2022-09-05 |
 | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/track/3ksUlJXEkMyLt7Tm4sC2aq) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/album/02xnWnxfcuIKgAXpj1qsx9) | 3:04 | 2023-07-07 | 2024-01-20 |
+| [First Love](https://open.spotify.com/track/3NjRL5odT7eVY7zod4PROD) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [First Love](https://open.spotify.com/album/24Rm6uAR7zdpsgAlhjn7my) | 2:48 | 2025-03-14 |  |
 | [Five Black](https://open.spotify.com/track/3Pzx0UuZmhtowYJaW5B05s) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX) | [Five Black](https://open.spotify.com/album/4upjS5lPcbcAaL0SxmK7FB) | 2:44 | 2022-04-07 | 2022-04-13 |
 | [Flaca](https://open.spotify.com/track/4OXyQVIU3WpKXDimY4DsU8) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Flaca](https://open.spotify.com/album/2DiPW0TQNv1Xqp0FJ7vgbK) | 4:27 | 2022-03-24 | 2022-04-20 |
 | [Flash in the Pan](https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Eleven Songs](https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76) | 2:49 | 2023-10-13 | 2024-04-19 |

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Global.",
-  "num_followers": 1776871,
+  "num_followers": 1776915,
   "original_name": "Viral 50 - Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L2jtIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L2o+oAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "Bara Bada Bastu",
         "url": "https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "The Chase",
         "url": "https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "We Hug Now",
         "url": "https://open.spotify.com/album/30h62oCDd1lhOsJibIFieh"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "1 AM",
         "url": "https://open.spotify.com/album/6evgAhkIjw7vxBuKLObXWK"
@@ -73,7 +73,23 @@
       "url": "https://open.spotify.com/track/52p5h1D2QAfjiqmKawgMKg"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
+      "album": {
+        "name": "Tibok",
+        "url": "https://open.spotify.com/album/0adQix0U0hF4YN1xxbSgUU"
+      },
+      "artists": [
+        {
+          "name": "Earl Agustin",
+          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+        }
+      ],
+      "duration_ms": 326666,
+      "name": "Tibok",
+      "url": "https://open.spotify.com/track/2Dhdu4YB3y5U3RiIcCJduv"
+    },
+    {
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
@@ -93,39 +109,7 @@
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
-      "album": {
-        "name": "Tibok",
-        "url": "https://open.spotify.com/album/0adQix0U0hF4YN1xxbSgUU"
-      },
-      "artists": [
-        {
-          "name": "Earl Agustin",
-          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
-        }
-      ],
-      "duration_ms": 326666,
-      "name": "Tibok",
-      "url": "https://open.spotify.com/track/2Dhdu4YB3y5U3RiIcCJduv"
-    },
-    {
-      "added_at": "2025-03-15 16:07:42",
-      "album": {
-        "name": "Bitters\u00fc\u00df",
-        "url": "https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2"
-      },
-      "artists": [
-        {
-          "name": "Abor & Tynna",
-          "url": "https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Baller",
-      "url": "https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD"
-    },
-    {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "Hat\u0131r\u0131m Yok mu",
         "url": "https://open.spotify.com/album/0KNshE9SpQfVStSSJoPqnG"
@@ -141,7 +125,23 @@
       "url": "https://open.spotify.com/track/2lGPoP83l7qIHlWaM43My4"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
+      "album": {
+        "name": "Bitters\u00fc\u00df",
+        "url": "https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2"
+      },
+      "artists": [
+        {
+          "name": "Abor & Tynna",
+          "url": "https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Baller",
+      "url": "https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD"
+    },
+    {
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "I DO ME",
         "url": "https://open.spotify.com/album/2w0HCMkBX7IRscliTVByqB"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/5PclMa9Pxs1OFWSAS6Nid9"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "Boy Meets World",
         "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
@@ -177,7 +177,23 @@
       "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
+      "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
+    },
+    {
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "\u00c7IKAR B\u0130R\u0130 KAR\u015eIMA",
         "url": "https://open.spotify.com/album/2IcwSsMjpDTD30sjGzAS4X"
@@ -201,39 +217,7 @@
       "url": "https://open.spotify.com/track/1iOjOuccQP5gL52dQW8EqW"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
-      "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
-    },
-    {
-      "added_at": "2025-03-15 16:07:42",
-      "album": {
-        "name": "Ms. Whitman",
-        "url": "https://open.spotify.com/album/2keOrQb8yTI0WjBUZXJCMw"
-      },
-      "artists": [
-        {
-          "name": "Bhad Bhabie",
-          "url": "https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e"
-        }
-      ],
-      "duration_ms": 126036,
-      "name": "Ms. Whitman",
-      "url": "https://open.spotify.com/track/1LjSbD1yQ0RQc6mwxGHw4m"
-    },
-    {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "Finding Her",
         "url": "https://open.spotify.com/album/69xcXWqK1aN73KgVA2i3Zq"
@@ -253,23 +237,23 @@
       "url": "https://open.spotify.com/track/5ThyDv6aRVU8AH4vXQNldF"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
-        "name": "Ranjheya Ve",
-        "url": "https://open.spotify.com/album/5k1gcNPYHM5h2mEDpdxND1"
+        "name": "Ms. Whitman",
+        "url": "https://open.spotify.com/album/2keOrQb8yTI0WjBUZXJCMw"
       },
       "artists": [
         {
-          "name": "Zain Zohaib",
-          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+          "name": "Bhad Bhabie",
+          "url": "https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e"
         }
       ],
-      "duration_ms": 278474,
-      "name": "Ranjheya Ve",
-      "url": "https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0"
+      "duration_ms": 126036,
+      "name": "Ms. Whitman",
+      "url": "https://open.spotify.com/track/1LjSbD1yQ0RQc6mwxGHw4m"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "Congrats",
         "url": "https://open.spotify.com/album/2gXD1M54nEGHLVZZea22Rv"
@@ -285,23 +269,23 @@
       "url": "https://open.spotify.com/track/3aMIgXaB04SzL68n4lMWLL"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
-        "name": "Wackelkontakt",
-        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
+        "name": "Ranjheya Ve",
+        "url": "https://open.spotify.com/album/5k1gcNPYHM5h2mEDpdxND1"
       },
       "artists": [
         {
-          "name": "Oimara",
-          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
         }
       ],
-      "duration_ms": 168801,
-      "name": "Wackelkontakt",
-      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
+      "duration_ms": 278474,
+      "name": "Ranjheya Ve",
+      "url": "https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "La Plena (W Sound 05)",
         "url": "https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt"
@@ -325,7 +309,7 @@
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ"
@@ -341,7 +325,39 @@
       "url": "https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
+      "album": {
+        "name": "Wackelkontakt",
+        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
+      },
+      "artists": [
+        {
+          "name": "Oimara",
+          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
+        }
+      ],
+      "duration_ms": 168801,
+      "name": "Wackelkontakt",
+      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
+    },
+    {
+      "added_at": "2025-03-16 15:06:24",
+      "album": {
+        "name": "PASSO BEM SOLTO",
+        "url": "https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY"
+      },
+      "artists": [
+        {
+          "name": "ATLXS",
+          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
+        }
+      ],
+      "duration_ms": 116072,
+      "name": "PASSO BEM SOLTO - Slowed",
+      "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
+    },
+    {
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "Aldan\u0131r\u0131m",
         "url": "https://open.spotify.com/album/1nQJBqp4xqBPEv5MU2qxHt"
@@ -361,7 +377,7 @@
       "url": "https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "Arike",
         "url": "https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw"
@@ -377,7 +393,7 @@
       "url": "https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/4XdGFi19TK15rVAH9MiFBE"
@@ -393,43 +409,23 @@
       "url": "https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
-        "name": "Ruby",
-        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
       },
       "artists": [
         {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
         }
       ],
-      "duration_ms": 167754,
-      "name": "ExtraL (feat. Doechii)",
-      "url": "https://open.spotify.com/track/4EIFwndJvGpgFjsEbNuYif"
+      "duration_ms": 218660,
+      "name": "Sally, When The Wine Runs Out",
+      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
-      "album": {
-        "name": "PASSO BEM SOLTO",
-        "url": "https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY"
-      },
-      "artists": [
-        {
-          "name": "ATLXS",
-          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
-        }
-      ],
-      "duration_ms": 116072,
-      "name": "PASSO BEM SOLTO - Slowed",
-      "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
-    },
-    {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "Paro",
         "url": "https://open.spotify.com/album/1pnmSGbSYY19bPwUJ4XJOl"
@@ -449,43 +445,27 @@
       "url": "https://open.spotify.com/track/6nRGPf5tpeJtKpXZO5cgIT"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
-        "name": "Kansas Anymore (The Longest Goodbye)",
-        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
       },
       "artists": [
         {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 218660,
-      "name": "Sally, When The Wine Runs Out",
-      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
-    },
-    {
-      "added_at": "2025-03-15 16:07:42",
-      "album": {
-        "name": "YEDA YUNG",
-        "url": "https://open.spotify.com/album/2iCtI3xT8CcPyiyEuVIR2h"
-      },
-      "artists": [
-        {
-          "name": "YUNG DSA",
-          "url": "https://open.spotify.com/artist/5e8gOu2fk8b1txcXWlX1Pl"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
         },
         {
-          "name": "Year Down",
-          "url": "https://open.spotify.com/artist/4vIfkn8fo2rtRIBJi9fdku"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 159312,
-      "name": "YEDA YUNG",
-      "url": "https://open.spotify.com/track/7n5QRJlaXL5a3LCjOwsdcs"
+      "duration_ms": 167754,
+      "name": "ExtraL (feat. Doechii)",
+      "url": "https://open.spotify.com/track/4EIFwndJvGpgFjsEbNuYif"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "\u7535\u89c6\u5267\u300a\u96be\u54c4\u300b\u5f71\u89c6\u539f\u58f0\u5e26\u00b7\u53ea\u559c\u6b22\u4f60Love Moments",
         "url": "https://open.spotify.com/album/7hcotSWQZpoxnAmA04vCOr"
@@ -501,7 +481,7 @@
       "url": "https://open.spotify.com/track/298LjjcBvuQCAlwUWb9dKb"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "Descer",
         "url": "https://open.spotify.com/album/3qVMMSS3JJjcYutCfHr38j"
@@ -521,7 +501,27 @@
       "url": "https://open.spotify.com/track/2OMkXPz6pHdKJSkzxG0MwZ"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
+      "album": {
+        "name": "YEDA YUNG",
+        "url": "https://open.spotify.com/album/2iCtI3xT8CcPyiyEuVIR2h"
+      },
+      "artists": [
+        {
+          "name": "YUNG DSA",
+          "url": "https://open.spotify.com/artist/5e8gOu2fk8b1txcXWlX1Pl"
+        },
+        {
+          "name": "Year Down",
+          "url": "https://open.spotify.com/artist/4vIfkn8fo2rtRIBJi9fdku"
+        }
+      ],
+      "duration_ms": 159312,
+      "name": "YEDA YUNG",
+      "url": "https://open.spotify.com/track/7n5QRJlaXL5a3LCjOwsdcs"
+    },
+    {
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "Mendil",
         "url": "https://open.spotify.com/album/2qeb0VmAMVPV812lWjRvcB"
@@ -537,7 +537,23 @@
       "url": "https://open.spotify.com/track/366jopUhzxmlcO7m7I6q8G"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
+      "album": {
+        "name": "Jumping Machine (\u8df3\u697c\u673a)",
+        "url": "https://open.spotify.com/album/0ZrCpc5hnI1DGwUH3UCCQM"
+      },
+      "artists": [
+        {
+          "name": "LBI\u5229\u6bd4",
+          "url": "https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J"
+        }
+      ],
+      "duration_ms": 201642,
+      "name": "Jumping Machine (\u8df3\u697c\u673a)",
+      "url": "https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl"
+    },
+    {
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "S\u00f3 Rock 3",
         "url": "https://open.spotify.com/album/1bSlwawZmp5TyryRHIVHte"
@@ -573,71 +589,23 @@
       "url": "https://open.spotify.com/track/6QSYz3Nlcxwv1x0RWIgMoj"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
-        "name": "Jumping Machine (\u8df3\u697c\u673a)",
-        "url": "https://open.spotify.com/album/0ZrCpc5hnI1DGwUH3UCCQM"
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
       },
       "artists": [
         {
-          "name": "LBI\u5229\u6bd4",
-          "url": "https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 201642,
-      "name": "Jumping Machine (\u8df3\u697c\u673a)",
-      "url": "https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl"
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
-      "album": {
-        "name": "Yalan",
-        "url": "https://open.spotify.com/album/3nrLd9Q4s516grX2S04rZy"
-      },
-      "artists": [
-        {
-          "name": "Ceren Sagu",
-          "url": "https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX"
-        }
-      ],
-      "duration_ms": 266250,
-      "name": "Yalan",
-      "url": "https://open.spotify.com/track/2uniCPIy7f5Mi2AEfvQz7z"
-    },
-    {
-      "added_at": "2025-03-15 16:07:42",
-      "album": {
-        "name": "Zombie Love Kensington Paradise (Deluxe)",
-        "url": "https://open.spotify.com/album/7rZmKhsbVKUrqApd0GLp8T"
-      },
-      "artists": [
-        {
-          "name": "Skrilla",
-          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
-        }
-      ],
-      "duration_ms": 149766,
-      "name": "Doot Doot (6 7) (Bonus Track)",
-      "url": "https://open.spotify.com/track/3qgbmtmVEcIV6VYCbgj1cu"
-    },
-    {
-      "added_at": "2025-03-15 16:07:42",
-      "album": {
-        "name": "tau mich auf",
-        "url": "https://open.spotify.com/album/7dajv17bGrOJRn1I5etrcq"
-      },
-      "artists": [
-        {
-          "name": "Zartmann",
-          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
-        }
-      ],
-      "duration_ms": 110902,
-      "name": "tau mich auf",
-      "url": "https://open.spotify.com/track/6j8OrKDQHxXakjA7KKbWzj"
-    },
-    {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "Jhol",
         "url": "https://open.spotify.com/album/7grtFo2pj5wwRTM7c6NI9y"
@@ -657,23 +625,55 @@
       "url": "https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+        "name": "tau mich auf",
+        "url": "https://open.spotify.com/album/7dajv17bGrOJRn1I5etrcq"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
         }
       ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+      "duration_ms": 110902,
+      "name": "tau mich auf",
+      "url": "https://open.spotify.com/track/6j8OrKDQHxXakjA7KKbWzj"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
+      "album": {
+        "name": "Yalan",
+        "url": "https://open.spotify.com/album/3nrLd9Q4s516grX2S04rZy"
+      },
+      "artists": [
+        {
+          "name": "Ceren Sagu",
+          "url": "https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX"
+        }
+      ],
+      "duration_ms": 266250,
+      "name": "Yalan",
+      "url": "https://open.spotify.com/track/2uniCPIy7f5Mi2AEfvQz7z"
+    },
+    {
+      "added_at": "2025-03-16 15:06:24",
+      "album": {
+        "name": "Zombie Love Kensington Paradise (Deluxe)",
+        "url": "https://open.spotify.com/album/7rZmKhsbVKUrqApd0GLp8T"
+      },
+      "artists": [
+        {
+          "name": "Skrilla",
+          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
+        }
+      ],
+      "duration_ms": 149766,
+      "name": "Doot Doot (6 7) (Bonus Track)",
+      "url": "https://open.spotify.com/track/3qgbmtmVEcIV6VYCbgj1cu"
+    },
+    {
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "\u0e19\u0e04\u0e23\u0e14\u0e32\u0e23\u0e32",
         "url": "https://open.spotify.com/album/4EAcsAQeQ7kM5eO9UBBnfM"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/2wyjOiDh07ISNq0oq69G4e"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "A Complete Unknown (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/21abnHIwhrjqFs4Yywsm9t"
@@ -709,7 +709,7 @@
       "url": "https://open.spotify.com/track/47xQwrip8UriPhFPUjSRQ7"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
@@ -725,59 +725,7 @@
       "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
-      "album": {
-        "name": "Believe me",
-        "url": "https://open.spotify.com/album/1X0XJXpMfjUXThe9Gm5lot"
-      },
-      "artists": [
-        {
-          "name": "Greczula",
-          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
-        }
-      ],
-      "duration_ms": 179509,
-      "name": "Believe me",
-      "url": "https://open.spotify.com/track/6CshHyQHSzQhwaadpBQhH1"
-    },
-    {
-      "added_at": "2025-03-15 16:07:42",
-      "album": {
-        "name": "Tokicha",
-        "url": "https://open.spotify.com/album/6zAlmaTBclBxZ63eeWHPSe"
-      },
-      "artists": [
-        {
-          "name": "J Castle",
-          "url": "https://open.spotify.com/artist/7nNS9kiCWRqHGBcWxLB0Pk"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Tokicha",
-      "url": "https://open.spotify.com/track/5uPGtSSHtN28xUhX7W4eAp"
-    },
-    {
-      "added_at": "2025-03-15 16:07:42",
-      "album": {
-        "name": "Aku Dah Lupa",
-        "url": "https://open.spotify.com/album/0RG77mAMa6hOWUzZer5EB0"
-      },
-      "artists": [
-        {
-          "name": "F4dli",
-          "url": "https://open.spotify.com/artist/7rgcGnkoprdUMxbl7LSHfX"
-        }
-      ],
-      "duration_ms": 183179,
-      "name": "Aku Dah Lupa",
-      "url": "https://open.spotify.com/track/41zms2DBQjBNKDGc219LQT"
-    },
-    {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "PONTE LOKITA",
         "url": "https://open.spotify.com/album/23x1J2mnb1oMcD1ib0gCVx"
@@ -797,7 +745,27 @@
       "url": "https://open.spotify.com/track/0Lahr7sUDdtYnX3n3KobR6"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
+      "album": {
+        "name": "Tokicha",
+        "url": "https://open.spotify.com/album/6zAlmaTBclBxZ63eeWHPSe"
+      },
+      "artists": [
+        {
+          "name": "J Castle",
+          "url": "https://open.spotify.com/artist/7nNS9kiCWRqHGBcWxLB0Pk"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Tokicha",
+      "url": "https://open.spotify.com/track/5uPGtSSHtN28xUhX7W4eAp"
+    },
+    {
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "O Que Bate \u00c9 Maluquice",
         "url": "https://open.spotify.com/album/4cFKT3iVF65cmcBbgw5FWJ"
@@ -817,51 +785,7 @@
       "url": "https://open.spotify.com/track/5wV5dO1GOI4srs4Um5cJXo"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
-      "album": {
-        "name": "Confortas Pero Da\u00f1as",
-        "url": "https://open.spotify.com/album/0pokgIdya1JBKlYSaF7R3X"
-      },
-      "artists": [
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "Resonancia Et\u00e9rea",
-          "url": "https://open.spotify.com/artist/7cD8IM5x8k0vTOgY4kQzuB"
-        }
-      ],
-      "duration_ms": 249502,
-      "name": "Confortas Pero Da\u00f1as",
-      "url": "https://open.spotify.com/track/72PMAMYZYL060JML0S3khc"
-    },
-    {
-      "added_at": "2025-03-15 16:07:42",
-      "album": {
-        "name": "\u0e01\u0e38\u0e2b\u0e25\u0e32\u0e1a",
-        "url": "https://open.spotify.com/album/4E9BRdA6hdnLEdTUwJJs5V"
-      },
-      "artists": [
-        {
-          "name": "F.HERO",
-          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
-        },
-        {
-          "name": "Kantong Tungngern",
-          "url": "https://open.spotify.com/artist/5j2wM66qbeuJAygcWdMNpv"
-        },
-        {
-          "name": "Saran",
-          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
-        }
-      ],
-      "duration_ms": 235161,
-      "name": "\u0e01\u0e38\u0e2b\u0e25\u0e32\u0e1a",
-      "url": "https://open.spotify.com/track/1uFvvFnus5WZFizuRH02Q0"
-    },
-    {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
@@ -877,7 +801,7 @@
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "Jhol - Acoustic",
         "url": "https://open.spotify.com/album/1z8pfDEtCC0CxAOVT9IYkS"
@@ -901,7 +825,67 @@
       "url": "https://open.spotify.com/track/44LaY2y6wRRlSRjsqbKnuU"
     },
     {
-      "added_at": "2025-03-15 16:07:42",
+      "added_at": "2025-03-16 15:06:24",
+      "album": {
+        "name": "Aku Dah Lupa",
+        "url": "https://open.spotify.com/album/0RG77mAMa6hOWUzZer5EB0"
+      },
+      "artists": [
+        {
+          "name": "F4dli",
+          "url": "https://open.spotify.com/artist/7rgcGnkoprdUMxbl7LSHfX"
+        }
+      ],
+      "duration_ms": 183179,
+      "name": "Aku Dah Lupa",
+      "url": "https://open.spotify.com/track/41zms2DBQjBNKDGc219LQT"
+    },
+    {
+      "added_at": "2025-03-16 15:06:24",
+      "album": {
+        "name": "\u0e01\u0e38\u0e2b\u0e25\u0e32\u0e1a",
+        "url": "https://open.spotify.com/album/4E9BRdA6hdnLEdTUwJJs5V"
+      },
+      "artists": [
+        {
+          "name": "F.HERO",
+          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
+        },
+        {
+          "name": "Kantong Tungngern",
+          "url": "https://open.spotify.com/artist/5j2wM66qbeuJAygcWdMNpv"
+        },
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        }
+      ],
+      "duration_ms": 235161,
+      "name": "\u0e01\u0e38\u0e2b\u0e25\u0e32\u0e1a",
+      "url": "https://open.spotify.com/track/1uFvvFnus5WZFizuRH02Q0"
+    },
+    {
+      "added_at": "2025-03-16 15:06:24",
+      "album": {
+        "name": "Confortas Pero Da\u00f1as",
+        "url": "https://open.spotify.com/album/0pokgIdya1JBKlYSaF7R3X"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Resonancia Et\u00e9rea",
+          "url": "https://open.spotify.com/artist/7cD8IM5x8k0vTOgY4kQzuB"
+        }
+      ],
+      "duration_ms": 249502,
+      "name": "Confortas Pero Da\u00f1as",
+      "url": "https://open.spotify.com/track/72PMAMYZYL060JML0S3khc"
+    },
+    {
+      "added_at": "2025-03-16 15:06:24",
       "album": {
         "name": "Mona Lisa Motion",
         "url": "https://open.spotify.com/album/5pFWfukC0k2EAdOhzEtDch"
@@ -915,6 +899,30 @@
       "duration_ms": 132631,
       "name": "Mona Lisa Motion",
       "url": "https://open.spotify.com/track/18o2gKM9pMyEWWAT9ZaGvr"
+    },
+    {
+      "added_at": "2025-03-16 15:06:24",
+      "album": {
+        "name": "CURSE (\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19)",
+        "url": "https://open.spotify.com/album/5gck47MGPzpchPNcTAlfIl"
+      },
+      "artists": [
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E"
+        },
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "CURSE (\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19)",
+      "url": "https://open.spotify.com/track/77rZWogLvZ2NOf248oMd6N"
     }
   ],
   "unique_name": "Viral 50 - Global",

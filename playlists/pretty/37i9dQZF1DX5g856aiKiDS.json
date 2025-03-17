@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 502983,
+  "num_followers": 503066,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2025-02-06 08:02:11",
       "album": {
+        "name": "Why?",
+        "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 147373,
+      "name": "Why?",
+      "url": "https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM"
+    },
+    {
+      "added_at": "2025-02-06 08:02:11",
+      "album": {
         "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 232194,
       "name": "WINE (Feat.Changmo) (Prod. SUGA)",
       "url": "https://open.spotify.com/track/3eHkFA3StDR9BU7EVrUFLs"
-    },
-    {
-      "added_at": "2025-02-06 08:02:11",
-      "album": {
-        "name": "Why?",
-        "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 147373,
-      "name": "Why?",
-      "url": "https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM"
     },
     {
       "added_at": "2025-02-06 08:02:11",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-02-06 08:02:11",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Flu",
-      "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
-    },
-    {
-      "added_at": "2025-02-06 08:02:11",
-      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6"
       },
@@ -635,42 +619,6 @@
       "duration_ms": 175866,
       "name": "Promise",
       "url": "https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj"
-    },
-    {
-      "added_at": "2025-02-06 08:02:11",
-      "album": {
-        "name": "Do monsters love too?",
-        "url": "https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET"
-      },
-      "artists": [
-        {
-          "name": "eldon",
-          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
-        }
-      ],
-      "duration_ms": 202773,
-      "name": "Stupid",
-      "url": "https://open.spotify.com/track/6ktEI3U7Wnip2P5pEHchzq"
-    },
-    {
-      "added_at": "2025-02-06 08:02:11",
-      "album": {
-        "name": "You Might (Feat. SHIRT)",
-        "url": "https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD"
-      },
-      "artists": [
-        {
-          "name": "g0nny",
-          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
-        },
-        {
-          "name": "SHIRT",
-          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
-        }
-      ],
-      "duration_ms": 187185,
-      "name": "You Might (Feat. SHIRT)",
-      "url": "https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14"
     },
     {
       "added_at": "2025-02-06 08:02:11",
@@ -695,6 +643,58 @@
     {
       "added_at": "2025-02-06 08:02:11",
       "album": {
+        "name": "Do monsters love too?",
+        "url": "https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET"
+      },
+      "artists": [
+        {
+          "name": "eldon",
+          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
+        }
+      ],
+      "duration_ms": 202773,
+      "name": "Stupid",
+      "url": "https://open.spotify.com/track/6ktEI3U7Wnip2P5pEHchzq"
+    },
+    {
+      "added_at": "2025-02-06 08:02:11",
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Flu",
+      "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
+    },
+    {
+      "added_at": "2025-02-06 08:02:11",
+      "album": {
+        "name": "You Might (Feat. SHIRT)",
+        "url": "https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD"
+      },
+      "artists": [
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        },
+        {
+          "name": "SHIRT",
+          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
+        }
+      ],
+      "duration_ms": 187185,
+      "name": "You Might (Feat. SHIRT)",
+      "url": "https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14"
+    },
+    {
+      "added_at": "2025-02-06 08:02:11",
+      "album": {
         "name": "Another Miss Oh, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0gRxdS2kPjtmxoXgFWjJms"
       },
@@ -715,26 +715,6 @@
     {
       "added_at": "2025-02-06 08:02:11",
       "album": {
-        "name": "ordinary.",
-        "url": "https://open.spotify.com/album/5KxykJIMpVCFZ7zow2Td0k"
-      },
-      "artists": [
-        {
-          "name": "punchnello",
-          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
-        },
-        {
-          "name": "SAAY",
-          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
-        }
-      ],
-      "duration_ms": 217510,
-      "name": "Winter Blossom (feat. SAAY) (Prod. by 0channel)",
-      "url": "https://open.spotify.com/track/5BVjsCcDlYgJG2bB2jsOeI"
-    },
-    {
-      "added_at": "2025-02-06 08:02:11",
-      "album": {
         "name": "Cold Hands",
         "url": "https://open.spotify.com/album/54TzyNB4wYJZ5UKIFIsmoo"
       },
@@ -747,26 +727,6 @@
       "duration_ms": 194108,
       "name": "Cold Hands",
       "url": "https://open.spotify.com/track/5gNwUVmtSSxrM1TyvGJ9kn"
-    },
-    {
-      "added_at": "2025-02-06 08:02:11",
-      "album": {
-        "name": "Wish & Wind",
-        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
-      },
-      "artists": [
-        {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
-        }
-      ],
-      "duration_ms": 210158,
-      "name": "Jenga (feat. Gaeko)",
-      "url": "https://open.spotify.com/track/1dA1tlzwcJ3YDYsSul1m06"
     },
     {
       "added_at": "2025-02-06 08:02:11",
@@ -807,6 +767,46 @@
       "duration_ms": 324280,
       "name": "Hi spring Bye",
       "url": "https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX"
+    },
+    {
+      "added_at": "2025-02-06 08:02:11",
+      "album": {
+        "name": "ordinary.",
+        "url": "https://open.spotify.com/album/5KxykJIMpVCFZ7zow2Td0k"
+      },
+      "artists": [
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        },
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        }
+      ],
+      "duration_ms": 217510,
+      "name": "Winter Blossom (feat. SAAY) (Prod. by 0channel)",
+      "url": "https://open.spotify.com/track/5BVjsCcDlYgJG2bB2jsOeI"
+    },
+    {
+      "added_at": "2025-02-06 08:02:11",
+      "album": {
+        "name": "Wish & Wind",
+        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
+      },
+      "artists": [
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "duration_ms": 210158,
+      "name": "Jenga (feat. Gaeko)",
+      "url": "https://open.spotify.com/track/1dA1tlzwcJ3YDYsSul1m06"
     },
     {
       "added_at": "2025-02-06 08:02:11",
@@ -883,6 +883,22 @@
     {
       "added_at": "2025-02-06 08:02:11",
       "album": {
+        "name": "Paint on Spring",
+        "url": "https://open.spotify.com/album/3wHPgbPG7fuBktQszASI1I"
+      },
+      "artists": [
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd"
+        }
+      ],
+      "duration_ms": 232653,
+      "name": "Paint on Spring",
+      "url": "https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v"
+    },
+    {
+      "added_at": "2025-02-06 08:02:11",
+      "album": {
         "name": "Fxxxnds",
         "url": "https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 209400,
       "name": "Fxxxnds (Feat. Kim Min Seok of MeloMance)",
       "url": "https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4"
-    },
-    {
-      "added_at": "2025-02-06 08:02:11",
-      "album": {
-        "name": "Paint on Spring",
-        "url": "https://open.spotify.com/album/3wHPgbPG7fuBktQszASI1I"
-      },
-      "artists": [
-        {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd"
-        }
-      ],
-      "duration_ms": 232653,
-      "name": "Paint on Spring",
-      "url": "https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v"
     },
     {
       "added_at": "2025-02-06 08:02:11",

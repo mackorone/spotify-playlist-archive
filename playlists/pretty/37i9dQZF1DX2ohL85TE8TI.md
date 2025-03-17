@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 ### [K\-OST Center](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Hot & new K\-Drama OSTs are here! \(Cover: \(My Dearest Nemesis\)그놈은 흑염룡\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
+> Hot & new K\-Drama OSTs are here! \(Cover: My Dearest Nemesis\(그놈은 흑염룡\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,529,361 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,529,334 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [You Are the Apple of My Eye \(From "You Are the Apple of My Eye" \[Original Television Soundtrack\], Pt.2\)](https://open.spotify.com/track/19RJveMHfA1CvcnRGhPzzm) | [Jinyoung](https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i), [Dahyun](https://open.spotify.com/artist/5mq0LKFisC0tRxuvBVAY5P) | [You Are the Apple of My Eye \(From "You Are the Apple of My Eye" \[Original Television Soundtrack\], Pt.2\)](https://open.spotify.com/album/0QVjQYG5cMiQ0r7LH1E6sm) | 4:15 |
-| 2 | [Moonrise](https://open.spotify.com/track/4mcsKdjh66FHEWTsVUzZhJ) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [My Dearest Nemesis OST Part.4](https://open.spotify.com/album/0Js2J38m0fWQX7pAa6fu7G) | 3:37 |
-| 3 | [A\-YO](https://open.spotify.com/track/52ns1qnrnBTPrjm4VpYqYd) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Undercover High School OST Part.4 \(Soundtrack\)](https://open.spotify.com/album/7K6rd9LRMiL0gGkqVnglaI) | 2:50 |
-| 4 | [Dreaming \(From "SHOW MUSICAL Dream High"\)](https://open.spotify.com/track/0GaLB4VZOg6LBG4Q94RDZt) | [Kim Soo Hyun](https://open.spotify.com/artist/4rrL5p18CxtmmkT66SuKzZ), [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Dreaming \(From "SHOW MUSICAL Dream High"\)](https://open.spotify.com/album/5cC19bAq7vfQBv5cluTcS3) | 3:50 |
+| 1 | [Moonrise](https://open.spotify.com/track/4mcsKdjh66FHEWTsVUzZhJ) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [My Dearest Nemesis OST Part.4](https://open.spotify.com/album/0Js2J38m0fWQX7pAa6fu7G) | 3:37 |
+| 2 | [A\-YO](https://open.spotify.com/track/52ns1qnrnBTPrjm4VpYqYd) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Undercover High School OST Part.4 \(Soundtrack\)](https://open.spotify.com/album/7K6rd9LRMiL0gGkqVnglaI) | 2:50 |
+| 3 | [Dreaming \(From "SHOW MUSICAL Dream High"\)](https://open.spotify.com/track/0GaLB4VZOg6LBG4Q94RDZt) | [Kim Soo Hyun](https://open.spotify.com/artist/4rrL5p18CxtmmkT66SuKzZ), [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Dreaming \(From "SHOW MUSICAL Dream High"\)](https://open.spotify.com/album/5cC19bAq7vfQBv5cluTcS3) | 3:50 |
+| 4 | [You Are the Apple of My Eye \(From "You Are the Apple of My Eye" \[Original Television Soundtrack\], Pt.2\)](https://open.spotify.com/track/19RJveMHfA1CvcnRGhPzzm) | [Jinyoung](https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i), [Dahyun](https://open.spotify.com/artist/5mq0LKFisC0tRxuvBVAY5P) | [You Are the Apple of My Eye \(From "You Are the Apple of My Eye" \[Original Television Soundtrack\], Pt.2\)](https://open.spotify.com/album/0QVjQYG5cMiQ0r7LH1E6sm) | 4:15 |
 | 5 | [Shine A Light](https://open.spotify.com/track/4ABfPxJOul1rEdtl4iREz7) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [My Dearest Nemesis OST Part.2](https://open.spotify.com/album/5HO9khpMJ8FMFqF7GStjSD) | 2:55 |
 | 6 | [Blossom Flower](https://open.spotify.com/track/2CJAQQRkzVG7kLXiMDYvlv) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [다 핀 꽃 \(괜찮아 괜찮아 괜찮아!\)](https://open.spotify.com/album/553WzZgQUDHZDlsoJnPW8y) | 3:54 |
 | 7 | [Bird Song](https://open.spotify.com/track/5t4gFAD6xd9WsacZP32uxU) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [The potato lab, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/4eUdm8UPPfMEKNN0deQY8u) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [세일즈](https://open.spotify.com/track/4mTBbvZrYMUbKeREA86S1X) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [A Virtuous Business \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/3CKUGXvOShUUDxbW6840sB) | 3:21 |
 | 100 | [Boyfriend](https://open.spotify.com/track/7dk7jxKBun1JQ2pPPBxDYl) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [Cinderella at 2AM OST Part 4](https://open.spotify.com/album/6gmq8wZ2p5mFkg8DRyvZcE) | 3:22 |
 
-Snapshot ID: `Z9KZVgAAAACacleGasG9c3dnpjGH6j++`
+Snapshot ID: `Z9bSZQAAAABwbViOt0WkB8/t3nQygNJB`

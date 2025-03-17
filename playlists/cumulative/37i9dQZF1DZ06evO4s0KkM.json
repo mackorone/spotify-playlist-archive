@@ -1629,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "Going Out In Style",
+        "url": "https://open.spotify.com/album/4Adk6f8Ikbd17xCYWRpE1r"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206373,
+      "name": "The Hardest Mile",
+      "url": "https://open.spotify.com/track/4XkOAgeqwumhecjDcwP1Qv"
+    },
+    {
+      "album": {
         "name": "Going out in Style",
         "url": "https://open.spotify.com/album/7LEa9eWXGV2DsPldRkD1qo"
       },
@@ -1872,7 +1890,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-17",
       "duration_ms": 173133,
       "name": "Time To Go",
       "url": "https://open.spotify.com/track/543QuFu0LhPpbIVdrACJd9"

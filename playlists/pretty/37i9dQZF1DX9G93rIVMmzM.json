@@ -1,6 +1,6 @@
 {
   "description": "for the baddies.",
-  "num_followers": 329696,
+  "num_followers": 329817,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-03-07 05:00:32",
       "album": {
+        "name": "Sleepyhead",
+        "url": "https://open.spotify.com/album/16ks7N4Ur7Zz3wycIUfIMw"
+      },
+      "artists": [
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        }
+      ],
+      "duration_ms": 192340,
+      "name": "Sleepyhead",
+      "url": "https://open.spotify.com/track/7qiYSGc57LcmKTdBi0J14a"
+    },
+    {
+      "added_at": "2025-03-07 05:00:32",
+      "album": {
         "name": "Team Sleep (U.S. Release)",
         "url": "https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 167704,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/2fQpHHqpS5oK3K1QB5psVv"
-    },
-    {
-      "added_at": "2025-03-07 05:00:32",
-      "album": {
-        "name": "Sleepyhead",
-        "url": "https://open.spotify.com/album/16ks7N4Ur7Zz3wycIUfIMw"
-      },
-      "artists": [
-        {
-          "name": "Jutes",
-          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
-        }
-      ],
-      "duration_ms": 192340,
-      "name": "Sleepyhead",
-      "url": "https://open.spotify.com/track/7qiYSGc57LcmKTdBi0J14a"
     },
     {
       "added_at": "2025-03-07 05:00:32",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-03-07 05:00:32",
       "album": {
-        "name": "Wake",
-        "url": "https://open.spotify.com/album/3OiDWBs3h3OdroFZYGyNNB"
-      },
-      "artists": [
-        {
-          "name": "Hail The Sun",
-          "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6"
-        }
-      ],
-      "duration_ms": 125024,
-      "name": "Rolling Out the Red Carpet",
-      "url": "https://open.spotify.com/track/5ShA1hnZOOtZZHiObVtrzT"
-    },
-    {
-      "added_at": "2025-03-07 05:00:32",
-      "album": {
         "name": "velvet",
         "url": "https://open.spotify.com/album/2WGZh7y9KdsdA1q42eKzez"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 170462,
       "name": "velvet",
       "url": "https://open.spotify.com/track/729zO7DaoSJMOLSvOh7UNN"
+    },
+    {
+      "added_at": "2025-03-07 05:00:32",
+      "album": {
+        "name": "Wake",
+        "url": "https://open.spotify.com/album/3OiDWBs3h3OdroFZYGyNNB"
+      },
+      "artists": [
+        {
+          "name": "Hail The Sun",
+          "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6"
+        }
+      ],
+      "duration_ms": 125024,
+      "name": "Rolling Out the Red Carpet",
+      "url": "https://open.spotify.com/track/5ShA1hnZOOtZZHiObVtrzT"
     },
     {
       "added_at": "2025-03-07 05:00:32",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-03-07 05:00:32",
       "album": {
-        "name": "Love me, slow",
-        "url": "https://open.spotify.com/album/5I2v5h13rfLyFEVzEMoj6K"
-      },
-      "artists": [
-        {
-          "name": "PALESKIN",
-          "url": "https://open.spotify.com/artist/5eKP3s5CJQOYL65VzunrN1"
-        }
-      ],
-      "duration_ms": 233750,
-      "name": "Love me, slow",
-      "url": "https://open.spotify.com/track/1AhkwjEBHLuvLTN2XSUgeZ"
-    },
-    {
-      "added_at": "2025-03-07 05:00:32",
-      "album": {
         "name": "Don't Need You",
         "url": "https://open.spotify.com/album/35gFs2xTjmciWt5UXv4RwC"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 325142,
       "name": "Lovely (Forget Me Not)",
       "url": "https://open.spotify.com/track/3zyL8LRNulKlAHTtAB8Wh5"
+    },
+    {
+      "added_at": "2025-03-07 05:00:32",
+      "album": {
+        "name": "Love me, slow",
+        "url": "https://open.spotify.com/album/5I2v5h13rfLyFEVzEMoj6K"
+      },
+      "artists": [
+        {
+          "name": "PALESKIN",
+          "url": "https://open.spotify.com/artist/5eKP3s5CJQOYL65VzunrN1"
+        }
+      ],
+      "duration_ms": 233750,
+      "name": "Love me, slow",
+      "url": "https://open.spotify.com/track/1AhkwjEBHLuvLTN2XSUgeZ"
     }
   ],
   "unique_name": "ALLURE",
