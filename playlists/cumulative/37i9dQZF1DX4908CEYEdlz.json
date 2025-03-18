@@ -2434,7 +2434,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 197213,
       "name": "Forgotten",
       "url": "https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8"
@@ -2852,7 +2852,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 163752,
       "name": "Hourglass",
       "url": "https://open.spotify.com/track/1Pv2QqugNiCvldP9kAY352"
@@ -3090,7 +3090,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 221226,
       "name": "Keep It Away",
       "url": "https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf"
@@ -5265,6 +5265,24 @@
     },
     {
       "album": {
+        "name": "T.I.M.E.",
+        "url": "https://open.spotify.com/album/632ug91PGPg5ODJIJYNAUY"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238407,
+      "name": "T.I.M.E.",
+      "url": "https://open.spotify.com/track/6Wxesnvvvh44UMXCBF7wMa"
+    },
+    {
+      "album": {
         "name": "Tear Me to Pieces",
         "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
@@ -5984,6 +6002,24 @@
       "duration_ms": 261014,
       "name": "Trial By Fire",
       "url": "https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6"
+    },
+    {
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/0d9F5w8oadFRaibfV1a7SC"
+      },
+      "artists": [
+        {
+          "name": "Far From Alaska",
+          "url": "https://open.spotify.com/artist/1ztNPX8z169arfAY0TWFLB"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204672,
+      "name": "trouble",
+      "url": "https://open.spotify.com/track/3e57BXMAn0sICYcBf1VcWZ"
     },
     {
       "album": {

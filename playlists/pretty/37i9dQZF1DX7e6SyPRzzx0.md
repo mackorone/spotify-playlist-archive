@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 
 > The home of rage rap\. Cover: Yeat
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,888 likes - 65 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,078 likes - 65 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

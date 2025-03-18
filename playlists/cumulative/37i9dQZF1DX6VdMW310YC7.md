@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,744 songs - 4 day 23 hr 5 min
+1,745 songs - 4 day 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Angels](https://open.spotify.com/track/4TQmCn0e9L7XTiKY4Hk8X4) | [Dark Sky](https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV) | [Othona](https://open.spotify.com/album/0VN8KeolDU9D7Iv1ivEYvV) | 4:16 | 2020-02-29\* | 2020-03-16 |
 | [Another Chance \- Don Diablo Chill Mix](https://open.spotify.com/track/7HZqD8EWEBQrklzLf3oQer) | [Big Pineapple](https://open.spotify.com/artist/364ge6OLf1AsRisexSjfJN), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Another Chance \(Remixes\)](https://open.spotify.com/album/5pLiabGezZM6PTes04JYsF) | 3:37 | 2020-03-20 | 2020-08-20 |
 | [Another Dawn](https://open.spotify.com/track/77yuMisqclmt9pq5MnrxRA) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz), [Kinnship](https://open.spotify.com/artist/58fzPwxNFw1Ae500uB038l) | [Another Dawn](https://open.spotify.com/album/3SNNjZhX66AIm6ZNP7RKRv) | 3:16 | 2021-07-02 | 2022-01-13 |
+| [Another Day](https://open.spotify.com/track/3qI1xwNajsHpQ4AlSROw6T) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS) | [Another Day](https://open.spotify.com/album/3b7nT2oshMQTAqWqGoAJuy) | 2:19 | 2025-03-14 |  |
 | [Another Life](https://open.spotify.com/track/5oJFMNh2D1RxWFeOkO1sTz) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 6:40 | 2020-03-18 | 2021-02-19 |
 | [Another Time](https://open.spotify.com/track/2W9zh4QNFmuOyKHbtYYNm0) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Another Time](https://open.spotify.com/album/6puL9vl482M9AKa3fm7v3B) | 4:15 | 2021-02-26 | 2023-03-01 |
 | [Another Time](https://open.spotify.com/track/67f7gMWZ2PJI7IsUBs3mNQ) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Another Time](https://open.spotify.com/album/4rqr9zrFHD4fd2Y1hv6RKK) | 4:15 | 2023-03-10 | 2024-03-23 |
@@ -1217,7 +1218,7 @@
 | [POV \(with NEVRMIND\)](https://open.spotify.com/track/63fzBjCtxxS0peGMkyTfVP) | [LILO](https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA), [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [POV \(with NEVRMIND\)](https://open.spotify.com/album/3cHmRL9soTP6s1XFJNkUyo) | 2:34 | 2022-02-04 | 2022-02-09 |
 | [Pray for Us](https://open.spotify.com/track/49X931MF0VVnHFkhVU3M5r) | [FEYNMAN](https://open.spotify.com/artist/5bpKJkKb5h112Fy5eLMbWt) | [Air](https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut) | 4:46 | 2020-04-03 | 2020-10-09 |
 | [Pretty Good](https://open.spotify.com/track/07aFPwkdNSvNZvPg8B4dHs) | [E.VAX](https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr) | [E.VAX](https://open.spotify.com/album/1VBiQl2RvoMZObKGMypUWF) | 3:10 | 2022-08-26 | 2022-09-10 |
-| [Prism](https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Prism](https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB) | 3:15 | 2024-02-09 |  |
+| [Prism](https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Prism](https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB) | 3:15 | 2024-02-09 | 2025-03-18 |
 | [Private Island \(coldbrew Remix\)](https://open.spotify.com/track/3zcUZg6MoJPHPjt7vM1wx7) | [MÒZÂMBÎQÚE](https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T), [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [Private Island \(coldbrew Remix\)](https://open.spotify.com/album/7JjYuptyDfJSIeGIZtiUr5) | 2:13 | 2020-08-06 | 2022-01-13 |
 | [Priviet](https://open.spotify.com/track/3e66lQYqNYhZX1X2mBeO4L) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [Keeping the Little Things](https://open.spotify.com/album/1pT7zb48i6eE1YHC76IcLQ) | 4:55 | 2020-08-20 | 2020-10-09 |
 | [Problems](https://open.spotify.com/track/3GlJE0D0d8TsmcDLaCpVCq) | [Guille Alvarez](https://open.spotify.com/artist/4fe5ql9g8VB9jiBy37SuLY) | [Problems](https://open.spotify.com/album/1tPnmiEsktiEAVMjruALtI) | 2:37 | 2022-08-05 | 2022-10-13 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 170628,
+  "num_followers": 170652,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9TDAAAAAADbvJxj+i0IhQQLZ1Vv2hBI",
+  "snapshot_id": "Z9YUgAAAAABeJ6h+1S3vwuuzpQWAabd6",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Endgame",
-        "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
+        "name": "Siren Song Of The Counter-Culture",
+        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 234786,
-      "name": "Make It Stop (September's Children)",
-      "url": "https://open.spotify.com/track/0wHNrrefyaeVewm4NxjxrX"
+      "duration_ms": 200066,
+      "name": "Swing Life Away",
+      "url": "https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siren Song Of The Counter-Culture",
-        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
+        "name": "Endgame",
+        "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 200066,
-      "name": "Swing Life Away",
-      "url": "https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL"
+      "duration_ms": 234786,
+      "name": "Make It Stop (September's Children)",
+      "url": "https://open.spotify.com/track/0wHNrrefyaeVewm4NxjxrX"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rpm10",
-        "url": "https://open.spotify.com/album/65HQSVksRU9QjPrCsvQK2E"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 166880,
-      "name": "Like the Angel",
-      "url": "https://open.spotify.com/track/4t2rjxCXIJnBmRBkXJOYa5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siren Song Of The Counter-Culture",
         "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 223613,
       "name": "Paper Wings",
       "url": "https://open.spotify.com/track/6Nl8qp2bhHHWGYt3BYmsY1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rpm10",
+        "url": "https://open.spotify.com/album/65HQSVksRU9QjPrCsvQK2E"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 166880,
+      "name": "Like the Angel",
+      "url": "https://open.spotify.com/track/4t2rjxCXIJnBmRBkXJOYa5"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rpm10",
-        "url": "https://open.spotify.com/album/65HQSVksRU9QjPrCsvQK2E"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 203093,
-      "name": "Heaven Knows",
-      "url": "https://open.spotify.com/track/2oatfqk7BKfzdpmtcgu3Sc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siren Song Of The Counter-Culture",
         "url": "https://open.spotify.com/album/2oMdBbMYtKysZ9dvFAVzzz"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 228480,
       "name": "Blood To Bleed",
       "url": "https://open.spotify.com/track/7kUKF6jER5BPGIRAgRxXnd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rpm10",
+        "url": "https://open.spotify.com/album/65HQSVksRU9QjPrCsvQK2E"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/2oatfqk7BKfzdpmtcgu3Sc"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 217720,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/4cHwmGNGR4Tng8vbUypjfd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siren Song Of The Counter-Culture",
         "url": "https://open.spotify.com/album/2oMdBbMYtKysZ9dvFAVzzz"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 241440,
       "name": "Dancing For Rain",
       "url": "https://open.spotify.com/track/04kOUITUlhSv65fjRbWlCq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 217720,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/4cHwmGNGR4Tng8vbUypjfd"
     },
     {
       "added_at": null,

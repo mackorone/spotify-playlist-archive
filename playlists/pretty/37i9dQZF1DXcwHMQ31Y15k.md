@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Denny Caknan, Bella Bonita
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,829 likes - 100 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,020 likes - 100 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sinarengan](https://open.spotify.com/track/05JCo2qLuSp6Tm4yzqh95Z) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Bella Bonita](https://open.spotify.com/artist/3K6JJtWNTBwQudEUuKYLQI) | [Sinarengan](https://open.spotify.com/album/0pjz8ygNmSBbsZaGGyUYKw) | 5:33 |
-| 2 | [Anagata](https://open.spotify.com/track/4sDBs1DPdUDAtXURllceQG) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO), [Vanessazkl](https://open.spotify.com/artist/6a63zsoJVJ1oU4uMuWiyOa) | [Anagata](https://open.spotify.com/album/4krbrQO2PLhoSZYAqhTn80) | 5:26 |
+| 2 | [Anagata](https://open.spotify.com/track/4sDBs1DPdUDAtXURllceQG) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO), [Vanessazkl](https://open.spotify.com/artist/6a63zsoJVJ1oU4uMuWiyOa) | [Anagata](https://open.spotify.com/album/4krbrQO2PLhoSZYAqhTn80) | 5:13 |
 | 3 | [Jamu \- Janji Muanis](https://open.spotify.com/track/0VWjL0fITn5OpjGMBxbir9) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Gilga Sahid](https://open.spotify.com/artist/5C8I8tTLdvuS4SlNoFS9dg) | [Jamu \(Janji Muanis\)](https://open.spotify.com/album/0ih00C2bpBlVPVJG4Amcy5) | 5:30 |
 | 4 | [Tombo Kangen](https://open.spotify.com/track/2Gz4P6O0IjbIEJWGmz6yTZ) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Tombo Kangen](https://open.spotify.com/album/3LDnR7o41mFD5w5K1hQBtv) | 5:14 |
 | 5 | [Enak Rasane](https://open.spotify.com/track/4ADfkFYj6kD8Gt4rsr7WoW) | [Nabilla Gomes](https://open.spotify.com/artist/6ivuhvyIqTHWSUXinAOcyQ) | [Enak Rasane](https://open.spotify.com/album/0ZopuJIJhOL8G0taD0ZZ8O) | 3:50 |

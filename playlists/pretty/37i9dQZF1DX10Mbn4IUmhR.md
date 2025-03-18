@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > All the South African and global Pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl?si=QOJoE57dRrWuunOPf9aLFA">Tyler Page</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,785 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,782 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

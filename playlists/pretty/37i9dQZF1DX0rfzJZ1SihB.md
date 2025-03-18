@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rfzJZ1SihB.md) - [plain]
 
 > 2024 年金音 15 全名單出爐！和 Spotify 一起全力支持優秀獨立歌手與作品！
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,468 likes - 94 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,467 likes - 94 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

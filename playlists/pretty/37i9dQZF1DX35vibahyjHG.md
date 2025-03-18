@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > Listen to women at full volume\. Cover: <a href="https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp?si=4Ggxq2DlQFqf0qRPwS6p\_A"> Demi Lee Moore</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,073 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,122 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

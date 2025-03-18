@@ -1009,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "Anti-People Pleaser, Pt. 1",
+        "url": "https://open.spotify.com/album/5Qf3rfAwHvdye91p3ebaiu"
+      },
+      "artists": [
+        {
+          "name": "Chace",
+          "url": "https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253815,
+      "name": "Do Not Go Gentle into Goodbyes",
+      "url": "https://open.spotify.com/track/4J5MVJGewv7MjA2uuruxGV"
+    },
+    {
+      "album": {
         "name": "DOING IT AGAIN BABY",
         "url": "https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz"
       },
@@ -1334,7 +1352,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 194909,
       "name": "Get 2 Me",
       "url": "https://open.spotify.com/track/4nyQO3FVAI63h5a0HMgY9w"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New music from Chappell Roan, Mother Mother, Warren Zeiders, HAIM and more!",
+  "description": "New music from Chappell Roan, Playboi Carti, Mother Mother, Warren Zeiders, HAIM and more!",
   "name": "New Music Friday Canada",
   "tracks": [
     {
@@ -37264,7 +37264,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 197818,
       "name": "Boadicea",
       "url": "https://open.spotify.com/track/11fOGBS2bqTj9EYkJjlYvs"
@@ -110092,6 +110092,28 @@
       "duration_ms": 234817,
       "name": "Good Cookin'",
       "url": "https://open.spotify.com/track/3sLMQigQqOlOMbTeZNJQdB"
+    },
+    {
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190373,
+      "name": "GOOD CREDIT (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok"
     },
     {
       "album": {

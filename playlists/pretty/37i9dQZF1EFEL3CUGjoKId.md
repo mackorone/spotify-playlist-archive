@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEL3CUGjoKId.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrGNtrGiJfVh8TSrPHSiE">Christine McVie</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 484 likes - 88 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 485 likes - 88 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEL3CUGjoKId.md) - [plain]
 | 50 | [Do You Know](https://open.spotify.com/track/5aXSUZaSDgSvtuaAXyLtFL) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Behind the Mask](https://open.spotify.com/album/3aXrkfZW8FzUDOU0RwQ401) | 4:19 |
 | 51 | [Summertime Feeling](https://open.spotify.com/track/7HxCoqD2lcc6jGVqcgjh7A) | [S Club](https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L) | [Sunshine](https://open.spotify.com/album/4j6ruq2Htor6TsgbqEUhl0) | 3:16 |
 | 52 | [Nights in Estoril](https://open.spotify.com/track/4rfBf1yELLxpS6ohe0C3nc) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Time](https://open.spotify.com/album/2efkPPuJQ7JrTloWk4lhiV) | 4:47 |
-| 53 | [Sooner or Later](https://open.spotify.com/track/0FNgoOlsJMGIDVoEEtheDL) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Time](https://open.spotify.com/album/2efkPPuJQ7JrTloWk4lhiV) | 5:41 |
-| 54 | [The Challenge](https://open.spotify.com/track/2zZT3wyG5cHZhc5uPRmt7u) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Christine McVie](https://open.spotify.com/album/6qSmsdv6UxrqaB3oflB5Yy) | 4:41 |
+| 53 | [The Challenge](https://open.spotify.com/track/2zZT3wyG5cHZhc5uPRmt7u) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Christine McVie](https://open.spotify.com/album/6qSmsdv6UxrqaB3oflB5Yy) | 4:41 |
+| 54 | [Sooner or Later](https://open.spotify.com/track/0FNgoOlsJMGIDVoEEtheDL) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Time](https://open.spotify.com/album/2efkPPuJQ7JrTloWk4lhiV) | 5:41 |
 | 55 | [Too Far Gone](https://open.spotify.com/track/0KF9FGf5oDdgLdBbfutq49) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO), [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Lindsey Buckingham Christine McVie](https://open.spotify.com/album/0hV5tUdhxoe9ul2YVqco6b) | 3:20 |
 | 56 | [It's Ok with Me Baby](https://open.spotify.com/track/58nGbJZwNpqylln1h7qZTN) | [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur) | 2:37 |
 | 57 | [What a Shame](https://open.spotify.com/track/5wqtOvdY2hUQOkEMq33k1Y) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Future Games](https://open.spotify.com/album/0mrtsupVI772qJdmW17yP0) | 2:15 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEL3CUGjoKId.md) - [plain]
 | 87 | [Sweet Revenge](https://open.spotify.com/track/469gfzBdPNs6FfZ9SMEvlw) | [Christine Mcvie](https://open.spotify.com/artist/37vxFfgCPJ4ATpZjGPVWY2) | [In The Meantime](https://open.spotify.com/album/0fCzPs9l2rPF3eLPrEiQ9H) | 3:50 |
 | 88 | [Wanna Be With You \(Everywhere\)](https://open.spotify.com/track/5wUSCnSTvyRXUJzpAaorhz) | [GTF](https://open.spotify.com/artist/6qa9mE0Y9cguezXeXWJBQ1) | [Wanna Be With You \(Everywhere\)](https://open.spotify.com/album/1tAkT1wiSxVsR2hgYcirAh) | 3:15 |
 
-Snapshot ID: `AbsPIAAAAACxyRDezwLqQF+CwZC5cfQm`
+Snapshot ID: `AbsU6AAAAADqwDUALhK4dWYr/Ms6J1kv`

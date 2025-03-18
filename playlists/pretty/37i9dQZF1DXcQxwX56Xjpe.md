@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQxwX56Xjpe.md) - [plain]
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7?si=fb9c4fa1bdc64f0e">Lenny Kravitz's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=8688dba1fca74b00">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,560 likes - 32 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,570 likes - 32 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

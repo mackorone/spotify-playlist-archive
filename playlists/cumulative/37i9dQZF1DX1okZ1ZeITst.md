@@ -4,7 +4,7 @@
 
 > From the shower to the car, Disney songs that make you want to sing along, including songs from Mufasa: The Lion King.
 
-160 songs - 8 hr 13 min
+161 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,8 +164,9 @@
 | [You'll Be In My Heart](https://open.spotify.com/track/7C11GdiguhLd9j7Y6jHFm9) | [Glenn Close](https://open.spotify.com/artist/5gYZraqDisF60MICASfpWe), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Tarzan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C) | 1:36 | 2024-01-08 |  |
 | [You're Welcome](https://open.spotify.com/track/6U4VqEHy4n5VeiH4pQPL24) | [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 | 2024-01-08 |  |
 | [You've Got a Friend in Me](https://open.spotify.com/track/5yCPyI7CWSb6RzLupHLnnn) | [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [You've Got a Friend in Me](https://open.spotify.com/album/1qzCfhOlnggHIGJNfDNfws) | 2:08 | 2024-01-08 |  |
-| [You've Got a Friend in Me](https://open.spotify.com/track/5aaUXcrsXI477I93yBE8lu) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6WjuMbjLJHdI0EwjJR9ChA) | 2:04 | 2024-01-08 |  |
-| [You've Got a Friend in Me \- Duet](https://open.spotify.com/track/0tFlZBBAQFBwAHKpTOOv2Y) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW), [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Toy Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47OFnLtLVi5WrPYNXAwFGh) | 2:42 | 2024-01-08 |  |
+| [You've Got a Friend in Me](https://open.spotify.com/track/2stkLJ0JNcXkIRDNF3ld6c) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47OFnLtLVi5WrPYNXAwFGh) | 2:04 | 2025-03-18 |  |
+| [You've Got a Friend in Me](https://open.spotify.com/track/5aaUXcrsXI477I93yBE8lu) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6WjuMbjLJHdI0EwjJR9ChA) | 2:04 | 2024-01-08 | 2025-03-18 |
+| [You've Got a Friend in Me \- Duet](https://open.spotify.com/track/0tFlZBBAQFBwAHKpTOOv2Y) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW), [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Toy Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47OFnLtLVi5WrPYNXAwFGh) | 2:42 | 2024-01-08 | 2025-03-18 |
 | [Your Mother and Mine](https://open.spotify.com/track/0qQSVmrsYvD5hVaYNXWxNP) | [Kathryn Beaumont](https://open.spotify.com/artist/762gpacQ6WcT75zlkrc3Ls) | [Peter Pan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1tCVqfTbVWmXFXx0HmGkob) | 1:58 | 2024-01-08 |  |
 | [Zero To Hero \- From "Hercules"](https://open.spotify.com/track/21DxcOtDKlVOlmeYed1IG3) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [We Love Disney \(Deluxe\)](https://open.spotify.com/album/1F4gXThIF2VepRiWYyowAY) | 2:39 | 2024-01-08 |  |
 

@@ -1775,6 +1775,24 @@
     },
     {
       "album": {
+        "name": "Boys Don't Cry",
+        "url": "https://open.spotify.com/album/6J7vnOZiMpz0ckuqkyFpIX"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162453,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/6VkIPm8ow14mZ7QCUJSqSe"
+    },
+    {
+      "album": {
         "name": "Boys Like You",
         "url": "https://open.spotify.com/album/4lze7H8TQqIqnrRT9Sc351"
       },
@@ -4138,7 +4156,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 137843,
       "name": "Elephant",
       "url": "https://open.spotify.com/track/0ekxyRdkBINbTBQQIzgwQr"
@@ -8756,6 +8774,24 @@
       "duration_ms": 208421,
       "name": "Lipstick",
       "url": "https://open.spotify.com/track/1q4BCQssFe74UJmnWt5lov"
+    },
+    {
+      "album": {
+        "name": "Little Dreaming",
+        "url": "https://open.spotify.com/album/6FJ9yGyRou6MzvOePLeIJe"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203691,
+      "name": "Little Dreaming",
+      "url": "https://open.spotify.com/track/02B3AyjVkk7Z5Ktom1eH0q"
     },
     {
       "album": {
@@ -15150,7 +15186,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 207130,
       "name": "Underwear",
       "url": "https://open.spotify.com/track/10zG0Yamj5zQoWcRCnQI7Z"

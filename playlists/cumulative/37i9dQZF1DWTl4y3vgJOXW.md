@@ -4,7 +4,7 @@
 
 > Fourth quarter, two minutes left .\. get locked in\. Cover: Steph Curry and Jimmy Butler
 
-790 songs - 1 day 16 hr 42 min
+791 songs - 1 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Ambitionz Az A Ridah](https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:38 | 2024-10-25 | 2024-11-02 |
 | [Amped](https://open.spotify.com/track/2ydwqnjPOcM24MV0kLThwi) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 2:53 | 2023-06-30 | 2023-07-11 |
 | [Ante Up \(feat\. Busta Rhymes, Teflon & Remi Martin\) \- Remix](https://open.spotify.com/track/5osSw3tL07Tuid7AWsvYcc) | [M.O.P.](https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Teflon](https://open.spotify.com/artist/7362Tj1IkoHp7oWveGTf51), [Remi Martin](https://open.spotify.com/artist/7MseR8aIHbFMXzMAkRPCZy) | [Warriorz](https://open.spotify.com/album/0mw0v424Ribwwrt0oMVB1j) | 4:07 | 2022-06-24 | 2022-12-31 |
-| [Apex](https://open.spotify.com/track/3KRHgcuEJbulgfvDq1KBMh) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Apex](https://open.spotify.com/album/1F8XXwq1JefxbNWsDcwsEm) | 2:07 | 2025-02-28 |  |
+| [Apex](https://open.spotify.com/track/3KRHgcuEJbulgfvDq1KBMh) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Apex](https://open.spotify.com/album/1F8XXwq1JefxbNWsDcwsEm) | 2:07 | 2025-02-28 | 2025-03-18 |
 | [Aston Martin Music](https://open.spotify.com/track/5W7xC99N2Zzfh69r7I7zWK) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Teflon Don](https://open.spotify.com/album/0jipZxGtkTDHjVerLkzO80) | 4:30 | 2024-10-25 | 2024-11-02 |
 | [Aston Martin Truck](https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Aston Martin Truck](https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc) | 3:00 | 2022-10-21 | 2023-03-03 |
 | [Baby](https://open.spotify.com/track/2nKYHpmwjLaEOXS3o7QMiz) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Baby](https://open.spotify.com/album/0ssH9wMngti9j73Rb9kcfO) | 2:22 | 2021-09-02 | 2023-03-14 |
@@ -217,6 +217,7 @@
 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-07-12 | 2024-07-19 |
 | [Euro Freestyle](https://open.spotify.com/track/0vGLZJM88GnnftlPBg7t0n) | [Aaron Gordon](https://open.spotify.com/artist/55vQeqkGNzPcjJ8vtWDGGO) | [Euro Freestyle](https://open.spotify.com/album/7x0kApwgiSFl4Ed0wwDhMw) | 3:03 | 2024-07-12 | 2024-07-19 |
 | [EVERY CHANCE I GET \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:56 | 2021-09-02 |  |
+| [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 | 2025-03-17 |  |
 | [Exotic \(feat\. Lil Quill\)](https://open.spotify.com/track/7HylcjI7NSf14LdOJmVp1k) | [Yung Mal](https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2), [Lil Quill](https://open.spotify.com/artist/1LEL09dOsPfqbhwnf4tImR) | [6 Rings](https://open.spotify.com/album/7DclZ6gBE4tDdrmfNYlIQh) | 3:04 | 2023-02-17 | 2023-02-22 |
 | [Expensive \(feat\. Nicki Minaj\)](https://open.spotify.com/track/0IAkpYTRomExXOUJonNMTR) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Expensive \(feat\. Nicki Minaj\)](https://open.spotify.com/album/45y3NLn13x5gnIK6xVCKyF) | 2:15 | 2021-09-02 | 2022-06-25 |
 | [F U 2x](https://open.spotify.com/track/2ubNuGSCWRRxUfojPRebiA) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WHAM \(Extended Version\)](https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy) | 1:57 | 2025-01-24 |  |

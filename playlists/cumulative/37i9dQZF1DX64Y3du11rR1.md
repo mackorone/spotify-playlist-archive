@@ -4,7 +4,7 @@
 
 > Acoustic covers of sad songs.
 
-202 songs - 11 hr 29 min
+203 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Chasing Cars](https://open.spotify.com/track/3JKLrIrHpbHtDU1oeYtbYD) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 5](https://open.spotify.com/album/4GpfRZguf7uOAWUzKePjf5) | 4:06 | 2021-12-22 | 2022-11-19 |
 | [Chasing Cars \(Acoustic\)](https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Chasing Cars \(Acoustic\)](https://open.spotify.com/album/7xtPuadPQVQKfKUr7eQvC7) | 3:41 | 2022-11-18 |  |
 | [Circles](https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Circles](https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r) | 2:12 | 2022-12-16 |  |
+| [Closer](https://open.spotify.com/track/2w2pewokxDHk6bktVmz7GH) | [Eric Serenade](https://open.spotify.com/artist/6Hqfwx2sW2vYX6tvA1SMda) | [Closer](https://open.spotify.com/album/1EfRK5vjQxeRyFiDKGgNih) | 3:08 | 2025-03-17 |  |
 | [Cold Heart](https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Cold Heart](https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl) | 3:08 | 2022-05-04 |  |
 | [Come As You Are \(Acoustic\)](https://open.spotify.com/track/3WgFcr1pBo752wwbMCcfm4) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Come As You Are \(Acoustic\)](https://open.spotify.com/album/3n8y7xvzVZ4HB8JoWl23tt) | 2:32 | 2022-08-12 | 2022-11-19 |
 | [Come Clean \(Sad Girl Version\)](https://open.spotify.com/track/75XGUa45BKb0mjgd8hzj6O) | [roger weeks](https://open.spotify.com/artist/20vbbNquHFXVlhi1yfm0CN) | [Come Clean \(Sad Girl Version\)](https://open.spotify.com/album/3UcLWwedhuhGnUP1Ms6YA3) | 2:34 | 2023-05-12 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 134837,
+  "num_followers": 134862,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-02-22 00:14:45",
       "album": {
-        "name": "A Coisa Mais Bonita",
-        "url": "https://open.spotify.com/album/4myBNDGlwkJv92GYgN3SZ3"
-      },
-      "artists": [
-        {
-          "name": "Manda",
-          "url": "https://open.spotify.com/artist/1ZeF4gSmzi8ZdlXJUu4LG5"
-        }
-      ],
-      "duration_ms": 169383,
-      "name": "A Coisa Mais Bonita",
-      "url": "https://open.spotify.com/track/3iLP4mpaKMEbDyZPMTku6V"
-    },
-    {
-      "added_at": "2025-02-22 00:14:45",
-      "album": {
         "name": "Vai Atr\u00e1s Da Vida Que Ela Te Espera",
         "url": "https://open.spotify.com/album/7Kj71cQBVCcqQtoJo1lce1"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2025-02-22 00:14:45",
       "album": {
-        "name": "CACHOEIRA",
-        "url": "https://open.spotify.com/album/0oJqL5pvSwYGmpgZLH3gn3"
+        "name": "A Coisa Mais Bonita",
+        "url": "https://open.spotify.com/album/4myBNDGlwkJv92GYgN3SZ3"
       },
       "artists": [
         {
-          "name": "Hugo Branquinho",
-          "url": "https://open.spotify.com/artist/1G7RC4anhU2mNCDNV0l8rs"
+          "name": "Manda",
+          "url": "https://open.spotify.com/artist/1ZeF4gSmzi8ZdlXJUu4LG5"
         }
       ],
-      "duration_ms": 220141,
-      "name": "CACHOEIRA",
-      "url": "https://open.spotify.com/track/57l9vK3s0roL97GOIvbrbw"
+      "duration_ms": 169383,
+      "name": "A Coisa Mais Bonita",
+      "url": "https://open.spotify.com/track/3iLP4mpaKMEbDyZPMTku6V"
     },
     {
       "added_at": "2025-02-22 00:14:45",
@@ -951,6 +935,22 @@
       "duration_ms": 193136,
       "name": "Meu Primeiro Amor",
       "url": "https://open.spotify.com/track/5Ui1KfWnjRAl3gCM6mrkVN"
+    },
+    {
+      "added_at": "2025-02-22 00:14:45",
+      "album": {
+        "name": "CACHOEIRA",
+        "url": "https://open.spotify.com/album/0oJqL5pvSwYGmpgZLH3gn3"
+      },
+      "artists": [
+        {
+          "name": "Hugo Branquinho",
+          "url": "https://open.spotify.com/artist/1G7RC4anhU2mNCDNV0l8rs"
+        }
+      ],
+      "duration_ms": 220141,
+      "name": "CACHOEIRA",
+      "url": "https://open.spotify.com/track/57l9vK3s0roL97GOIvbrbw"
     },
     {
       "added_at": "2025-02-22 00:14:45",

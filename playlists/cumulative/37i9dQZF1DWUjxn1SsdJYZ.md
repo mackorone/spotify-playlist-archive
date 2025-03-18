@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: That Kid Kearve
 
-1,114 songs - 2 day 3 hr 44 min
+1,115 songs - 2 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [22 Packs](https://open.spotify.com/track/7c59JXGEQZAgNyh4od18xZ) | [Tbi$h](https://open.spotify.com/artist/6j7XK7KYc9Ie6pUqkFoS4U) | [22 Packs](https://open.spotify.com/album/3T9laywDWnN2UtXff4Adjk) | 2:46 | 2022-06-09 | 2022-10-21 |
 | [222](https://open.spotify.com/track/4RBWoGjwAm6rhIkHk3syjM) | [Jay Zayat](https://open.spotify.com/artist/3RNjL4SvUdzRwyJhqfuZrB) | [222](https://open.spotify.com/album/17a2v6wjvnjcsHnKyBv9Fq) | 2:30 | 2024-09-26 | 2024-11-29 |
 | [2pac](https://open.spotify.com/track/52441KGFUdzLHTPjugzNw4) | [Lavez](https://open.spotify.com/artist/34XFmmLOHraER0bnb7APK2), [Burd Brain](https://open.spotify.com/artist/26rs1ihEXjjLggHE9abqBG), [Castro](https://open.spotify.com/artist/7fmYjYhnT8J7ThoEd7sNgG) | [2pac](https://open.spotify.com/album/1yzjJhyztbd3b7NiQkwIKg) | 3:51 | 2024-06-20 | 2024-09-27 |
-| [3.5](https://open.spotify.com/track/2KHAipo66bS5o5wPDm3OAi) | [Eco$ystem](https://open.spotify.com/artist/42dkfArTdrcxq0NYRmo9rk), [Lowkeyhitmaker](https://open.spotify.com/artist/4IO0VlLADpnIh3Ewvc8q9t) | [3.5](https://open.spotify.com/album/2ee2QciU0Iy3cgM84E8SHy) | 2:40 | 2025-03-06 |  |
+| [3.5](https://open.spotify.com/track/2KHAipo66bS5o5wPDm3OAi) | [Eco$ystem](https://open.spotify.com/artist/42dkfArTdrcxq0NYRmo9rk), [Lowkeyhitmaker](https://open.spotify.com/artist/4IO0VlLADpnIh3Ewvc8q9t) | [3.5](https://open.spotify.com/album/2ee2QciU0Iy3cgM84E8SHy) | 2:40 | 2025-03-06 | 2025-03-18 |
 | [3am](https://open.spotify.com/track/1LYGpC6P9t7VARZxap9Kcx) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs), [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [3am](https://open.spotify.com/album/7HKTDmDebceTzrFxiCAO1m) | 3:29 | 2024-02-15 | 2024-08-23 |
 | [3am in Melbourne](https://open.spotify.com/track/0DvNezWZPknS0Ki7PF5mIV) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs) | [3am in Melbourne](https://open.spotify.com/album/5LAyCAtcgKnCMvd7HOpILF) | 2:38 | 2024-03-28 | 2024-05-10 |
 | [42](https://open.spotify.com/track/4K9xMdKPxDeRMmxGybVlpy) | [Maya Hirasedo](https://open.spotify.com/artist/79fiC2Vlgb2Q8u30JVcOm8), [Lil Jaye](https://open.spotify.com/artist/2lEJRLLPBCtAUdxVFl3qyl) | [42](https://open.spotify.com/album/7kNZo6GwS4daijRrKFKgbq) | 2:46 | 2023-12-21 | 2024-01-12 |
@@ -27,6 +27,7 @@
 | [64 Bars](https://open.spotify.com/track/4HrT0bSdtalmzfmoxiNE2Y) | [Nokz78](https://open.spotify.com/artist/4YpUneet1k2jaCfvCfUnZy) | [64 Bars](https://open.spotify.com/album/4lhZiRZudcm8eKSVnS11Aq) | 2:36 | 2022-03-21 | 2022-07-01 |
 | [6ft Deep](https://open.spotify.com/track/5rrimoExne1LbHehlfymWe) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [6ft Deep](https://open.spotify.com/album/51gi5hluD0n0nagrHTnLi7) | 2:32 | 2023-03-02 | 2023-04-21 |
 | [6gs](https://open.spotify.com/track/6mA8PVPy78DHdky2ho8I6L) | [KiD LaZE](https://open.spotify.com/artist/6aH7GRjtjfnnp9MNBzdq1n), [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs), [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs), [New Wave](https://open.spotify.com/artist/1itGTqVfKk3HKGvYqFOy2s) | [6gs](https://open.spotify.com/album/2NXbev6sftAddNx2oRf0Za) | 3:25 | 2022-09-29 | 2023-01-06 |
+| [6Ixer Baby](https://open.spotify.com/track/7sZzYkhOBiecAVRI7khwn2) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [6Ixer Baby](https://open.spotify.com/album/2r4xdZbczWggJpkHA0spBc) | 3:06 | 2025-03-18 |  |
 | [7 SEATER](https://open.spotify.com/track/4J1DnRKHVCbCUH5zrQ0ZMu) | [Lavez](https://open.spotify.com/artist/34XFmmLOHraER0bnb7APK2), [Burd Brain](https://open.spotify.com/artist/26rs1ihEXjjLggHE9abqBG), [Castro](https://open.spotify.com/artist/7fmYjYhnT8J7ThoEd7sNgG) | [7 SEATER](https://open.spotify.com/album/40XQK4asCHZHhJAbF2dokZ) | 3:11 | 2024-08-23 | 2024-11-08 |
 | [77](https://open.spotify.com/track/6EGnhQh2S3xcZSbgglQIUt) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [77](https://open.spotify.com/album/61WC7CaAwgk5vlCSKzCwQK) | 2:23 | 2022-11-03 | 2022-12-16 |
 | [777](https://open.spotify.com/track/4poMkivkZVPt6cWRPfSOUv) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [777](https://open.spotify.com/album/49MakTH6EbCMvPszbwvRAN) | 2:11 | 2023-08-03 | 2023-10-25 |

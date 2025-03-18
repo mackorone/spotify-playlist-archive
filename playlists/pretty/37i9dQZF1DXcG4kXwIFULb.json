@@ -1,6 +1,6 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 186748,
+  "num_followers": 186822,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Details",
-        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
-      },
-      "artists": [
-        {
-          "name": "Frou Frou",
-          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
-        }
-      ],
-      "duration_ms": 253893,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "The North Borders",
         "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 352246,
       "name": "Cirrus",
       "url": "https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Details",
+        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
+      },
+      "artists": [
+        {
+          "name": "Frou Frou",
+          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
+        }
+      ],
+      "duration_ms": 253893,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "Black Sands",
+        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "Kong",
+      "url": "https://open.spotify.com/track/7Cg3F9ZsZ2TYUnlza49NYh"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "Very Mercenary",
         "url": "https://open.spotify.com/album/1V3a7mBozraa6AXQmUNxFV"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 338279,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Black Sands",
-        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "Kong",
-      "url": "https://open.spotify.com/track/7Cg3F9ZsZ2TYUnlza49NYh"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Debut",
-        "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 295360,
-      "name": "Come to Me",
-      "url": "https://open.spotify.com/track/2ir9cmvZIpFYxaeMTa76DS"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Constructions",
         "url": "https://open.spotify.com/album/4Pe29bnChgivrOBbRsxLk3"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 308612,
       "name": "Sofa Rockers - Richard Dorfmeister Remix",
       "url": "https://open.spotify.com/track/6dfDcCymuavZngy46rSGMC"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 295360,
+      "name": "Come to Me",
+      "url": "https://open.spotify.com/track/2ir9cmvZIpFYxaeMTa76DS"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -595,18 +595,22 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Soon It Will Be Cold Enough",
-        "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
+        "name": "Koop Islands",
+        "url": "https://open.spotify.com/album/7utDnqKdc3HiSx54MSaGSc"
       },
       "artists": [
         {
-          "name": "Emancipator",
-          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
+          "name": "Koop",
+          "url": "https://open.spotify.com/artist/7wyBxBXLVLaiF2jxHCpvTe"
+        },
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
         }
       ],
-      "duration_ms": 180520,
-      "name": "Soon It Will Be Cold Enough to Build Fires",
-      "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
+      "duration_ms": 272760,
+      "name": "Koop Island Blues",
+      "url": "https://open.spotify.com/track/75sAWnVBYaaYs1mWbB05Qg"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -627,22 +631,18 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Koop Islands",
-        "url": "https://open.spotify.com/album/7utDnqKdc3HiSx54MSaGSc"
+        "name": "Soon It Will Be Cold Enough",
+        "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
       },
       "artists": [
         {
-          "name": "Koop",
-          "url": "https://open.spotify.com/artist/7wyBxBXLVLaiF2jxHCpvTe"
-        },
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+          "name": "Emancipator",
+          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
         }
       ],
-      "duration_ms": 272760,
-      "name": "Koop Island Blues",
-      "url": "https://open.spotify.com/track/75sAWnVBYaaYs1mWbB05Qg"
+      "duration_ms": 180520,
+      "name": "Soon It Will Be Cold Enough to Build Fires",
+      "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "Chillout Album 3",
+        "url": "https://open.spotify.com/album/07dF8IQWnmj2a9hxW4HdVS"
+      },
+      "artists": [
+        {
+          "name": "Lazy",
+          "url": "https://open.spotify.com/artist/40xNNEdgCc2RVHO6vagYC7"
+        }
+      ],
+      "duration_ms": 208186,
+      "name": "It's Over",
+      "url": "https://open.spotify.com/track/6jcSHz9Uz3Tg1t5IMVZnQ8"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "The Remixes",
         "url": "https://open.spotify.com/album/6LWpqZwfSS8X4nmqS9g44S"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 422000,
       "name": "Inside My Mind (Blue Skies) - Elephant Remix",
       "url": "https://open.spotify.com/track/2ZLfTG0D2CVl773CLfNGbO"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Chillout Album 3",
-        "url": "https://open.spotify.com/album/07dF8IQWnmj2a9hxW4HdVS"
-      },
-      "artists": [
-        {
-          "name": "Lazy",
-          "url": "https://open.spotify.com/artist/40xNNEdgCc2RVHO6vagYC7"
-        }
-      ],
-      "duration_ms": 208186,
-      "name": "It's Over",
-      "url": "https://open.spotify.com/track/6jcSHz9Uz3Tg1t5IMVZnQ8"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "genetic world",
+        "url": "https://open.spotify.com/album/401DhjeJg1yVIfBN2A55JY"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9l\u00e9popmusik",
+          "url": "https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF"
+        }
+      ],
+      "duration_ms": 241560,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/40Sw7gIi4EgHsdcesQvo5y"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "Nouvelle Vague",
         "url": "https://open.spotify.com/album/4eTJmNY6X5VJ0v8d0x0lkh"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 198026,
       "name": "Love Will Tear Us Apart",
       "url": "https://open.spotify.com/track/6kVauIy0iOT2u1Gs8TBIqJ"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "The Campfire Headphase",
-        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 324906,
-      "name": "Peacock Tail",
-      "url": "https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO"
     }
   ],
   "unique_name": "Chillout Classics",

@@ -3561,6 +3561,24 @@
     },
     {
       "album": {
+        "name": "Toy Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/47OFnLtLVi5WrPYNXAwFGh"
+      },
+      "artists": [
+        {
+          "name": "Randy Newman",
+          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124160,
+      "name": "You've Got a Friend in Me",
+      "url": "https://open.spotify.com/track/2stkLJ0JNcXkIRDNF3ld6c"
+    },
+    {
+      "album": {
         "name": "Toy Story 4 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6WjuMbjLJHdI0EwjJR9ChA"
       },
@@ -3572,7 +3590,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 124386,
       "name": "You've Got a Friend in Me",
       "url": "https://open.spotify.com/track/5aaUXcrsXI477I93yBE8lu"
@@ -3594,7 +3612,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 162213,
       "name": "You've Got a Friend in Me - Duet",
       "url": "https://open.spotify.com/track/0tFlZBBAQFBwAHKpTOOv2Y"

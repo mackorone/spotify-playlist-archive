@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-524 songs - 1 day 6 hr 3 min
+526 songs - 1 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Leave a Light On](https://open.spotify.com/track/4iVVU8DyQvOVsKafv3KWIF) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [What a Time To Be Alive](https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC) | 3:05 | 2023-02-23 | 2023-04-26 |
 | [Let Go](https://open.spotify.com/track/1VsltuFeMjASOFW8lIvmcr) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv), [Perquisite](https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2) | [Lovestruck Puzzles](https://open.spotify.com/album/5CYzxWpyxi1vePhH4Jlq6h) | 3:30 | 2023-02-23 |  |
 | [Let It Go](https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 4:20 | 2023-02-23 | 2023-04-26 |
+| [Let Me In](https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Let Me In](https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq) | 3:48 | 2025-03-17 |  |
 | [Letters](https://open.spotify.com/track/5II1sTlUHO9QAZBbxFUm8C) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Letters](https://open.spotify.com/album/4yl0l9uQmFY69HEABZ2IbA) | 3:01 | 2023-02-23 | 2024-06-21 |
 | [Let’s Go Home Together \- Stripped](https://open.spotify.com/track/2cptaUFdsU60tdh7zRglai) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Let’s Go Home Together \(Stripped\)](https://open.spotify.com/album/6hcBHK0n7wQygb6UN3MvKf) | 3:41 | 2023-02-23 |  |
 | [Lifeline](https://open.spotify.com/track/4JIuMgm9VaZ7RjdINnb0qW) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Colors](https://open.spotify.com/album/3gItu2V465QjUfK63UQM0K) | 2:59 | 2025-01-28 |  |
@@ -293,7 +294,7 @@
 | [Miracle Love](https://open.spotify.com/track/5zxJlZh20vaB1TcZAUZ8Pz) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Rainbow Valley](https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW) | 4:22 | 2024-04-11 |  |
 | [Miracles](https://open.spotify.com/track/5acs33Z7tV5aopOM7LClgL) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Miracles](https://open.spotify.com/album/2EhTv5KlLWkNaoVXZnlzAM) | 3:22 | 2023-08-17 | 2023-12-30 |
 | [Miracles](https://open.spotify.com/track/6LTULqwZrAFfdzJnsOaEmy) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [Beste Zangers 2021 \(Joe Buck\)](https://open.spotify.com/album/0VcY5kRBSi02BjPs314Aze) | 2:27 | 2023-02-23 | 2024-04-19 |
-| [Money In My Head](https://open.spotify.com/track/4ndeAoy1m2FzBiASupmnNX) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Something Out Of Nothing](https://open.spotify.com/album/52avYCo20BfLgGk50FvyRW) | 3:08 | 2024-01-16 |  |
+| [Money In My Head](https://open.spotify.com/track/4ndeAoy1m2FzBiASupmnNX) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Something Out Of Nothing](https://open.spotify.com/album/52avYCo20BfLgGk50FvyRW) | 3:08 | 2024-01-16 | 2025-03-18 |
 | [Mr\. Perfect](https://open.spotify.com/track/0mbHXi8yxRMXJbayDMF6zH) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [396](https://open.spotify.com/album/1oSGbegSlLHm4ibhbFWWik) | 3:07 | 2023-02-23 | 2024-03-27 |
 | [My Baby Left Me](https://open.spotify.com/track/2Pz0nvk2bpxZSfoBFdiZuc) | [Rox](https://open.spotify.com/artist/535yDaYpxzTz2T323SM5ro) | [My Baby Left Me](https://open.spotify.com/album/6m5aYJEffiAF6AnSIdpyPT) | 3:33 | 2023-04-25 | 2024-03-01 |
 | [Need You Now](https://open.spotify.com/track/7GAaTpSoTWUTbP2Yxlt4Hd) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/5RypFF6rN9MUxFe4aAWA28) | 3:56 | 2024-04-11 |  |
@@ -406,6 +407,7 @@
 | [Something in the Water](https://open.spotify.com/track/2NCYYlzzRKyX24hyyKPMeW) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Flags](https://open.spotify.com/album/1uyQnFBlGNgJEMpj7LOyyR) | 3:03 | 2023-02-23 | 2023-07-28 |
 | [Something in the Water](https://open.spotify.com/track/2TcxF4DfNVVEcNBZMJvDUz) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Flags](https://open.spotify.com/album/1jKGzq0r9MwXIbyHtQ6hBD) | 3:03 | 2023-07-20 | 2024-04-19 |
 | [Something in the Water](https://open.spotify.com/track/5ouXSHkPf6VnpeKqYuyBBU) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Something In The Water](https://open.spotify.com/album/1q1VBL1atF2cU73EECPj1N) | 3:03 | 2024-04-11 | 2024-08-12 |
+| [Something To Remember](https://open.spotify.com/track/2p8NCaU68YwlL8ZNnyLFxx) | [Thomas Nicolas](https://open.spotify.com/artist/7pXdNMrXe30tL64f3N5rN8) | [Something To Remember](https://open.spotify.com/album/5dNXnpsIQ7uYPOX8r4pruv) | 2:47 | 2025-03-17 |  |
 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 | 2023-02-23 | 2023-05-02 |
 | [Space For Two](https://open.spotify.com/track/07hBBiv9DqLCRECKmB0Q4n) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Space For Two](https://open.spotify.com/album/6f0vesZuawgU9KzR62srFN) | 3:26 | 2023-02-23 | 2024-04-19 |
 | [Space in My Heart](https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Space in My Heart](https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9) | 2:58 | 2024-02-26 |  |
@@ -516,7 +518,7 @@
 | [Why Do You Care](https://open.spotify.com/track/3oDn64B3LsqBfcvQA5UJrh) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [RONDÉ](https://open.spotify.com/album/2sSHHrTuj2PdyjHyQJsCtj) | 3:36 | 2024-04-11 |  |
 | [Why Do You Care](https://open.spotify.com/track/4miesggrLA9agA9lusKhV9) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [RONDÉ](https://open.spotify.com/album/7oQWTdzb0SHFhWp5cZZvZv) | 3:36 | 2023-04-25 | 2024-03-20 |
 | [Wild Grey Ocean](https://open.spotify.com/track/3NhEHxzfLEzvlYPK9hgmPR) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Grey Ocean](https://open.spotify.com/album/6H7rX9r5UAwdlkDtWOiW6v) | 3:54 | 2023-02-23 | 2023-04-26 |
-| [Wish You Well \(Feat\. Bernard Fanning\)](https://open.spotify.com/track/18DoMepvkwmJk4CPH0HCbk) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK), [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Wish You Well \(Feat\. Bernard Fanning\)](https://open.spotify.com/album/2xd07PANaM6jBT50rfG50U) | 2:50 | 2024-03-19 |  |
+| [Wish You Well \(Feat\. Bernard Fanning\)](https://open.spotify.com/track/18DoMepvkwmJk4CPH0HCbk) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK), [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Wish You Well \(Feat\. Bernard Fanning\)](https://open.spotify.com/album/2xd07PANaM6jBT50rfG50U) | 2:50 | 2024-03-19 | 2025-03-18 |
 | [With You](https://open.spotify.com/track/0Ew7NkseJTFtiFselBmFg1) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [With You](https://open.spotify.com/album/4y8kGaY6DtdPQ6xWVbzKh4) | 3:39 | 2023-02-23 | 2024-11-05 |
 | [Won't You Stay](https://open.spotify.com/track/3xSBlzT8N3WTXK5phOTIiQ) | [Michael Asnot](https://open.spotify.com/artist/1TfbvyIkRpQHY0JIsX4nuL) | [Won't You Stay](https://open.spotify.com/album/0UMogPftzVp0O5CUkOEr0b) | 2:52 | 2024-09-27 |  |
 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 | 2024-03-26 |  |

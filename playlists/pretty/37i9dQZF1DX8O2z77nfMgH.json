@@ -1,28 +1,32 @@
 {
   "description": "Puros lanzamientos. Lo nuevo de toda Iberoam\u00e9rica. Portada: Peso Pluma",
-  "num_followers": 890960,
+  "num_followers": 890942,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9Op0AAAAADZTewR0kj9rWF8AFGju6qk",
+  "snapshot_id": "Z9gZowAAAACMKzVM8+SyKfkn7lfeP8v3",
   "tracks": [
     {
       "added_at": "2025-03-14 04:00:16",
       "album": {
-        "name": "RARI",
-        "url": "https://open.spotify.com/album/6zRG79otIy95HLGDv44j1Z"
+        "name": "BANSHEE",
+        "url": "https://open.spotify.com/album/3Ory0Dd1Nrslodb0Po92AN"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 153394,
-      "name": "RARI",
-      "url": "https://open.spotify.com/track/3KTuR5TklU3D3BiBQkWEpI"
+      "duration_ms": 187466,
+      "name": "BANSHEE",
+      "url": "https://open.spotify.com/track/2phA5dZJrWqOBrOHFAgrjQ"
     },
     {
       "added_at": "2025-03-14 04:00:16",
@@ -51,22 +55,90 @@
     {
       "added_at": "2025-03-14 04:00:16",
       "album": {
-        "name": "BANSHEE",
-        "url": "https://open.spotify.com/album/3Ory0Dd1Nrslodb0Po92AN"
+        "name": "WOAHH (feat. Clarent)",
+        "url": "https://open.spotify.com/album/0gbMkiBhxKylsgLDimcb0M"
       },
       "artists": [
         {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
         }
       ],
-      "duration_ms": 187466,
-      "name": "BANSHEE",
-      "url": "https://open.spotify.com/track/2phA5dZJrWqOBrOHFAgrjQ"
+      "duration_ms": 259333,
+      "name": "WOAHH (feat. Clarent)",
+      "url": "https://open.spotify.com/track/7MNGE2R8drq3d04vH5Ahlm"
+    },
+    {
+      "added_at": "2025-03-14 04:00:16",
+      "album": {
+        "name": "RARI",
+        "url": "https://open.spotify.com/album/6zRG79otIy95HLGDv44j1Z"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 153394,
+      "name": "RARI",
+      "url": "https://open.spotify.com/track/3KTuR5TklU3D3BiBQkWEpI"
+    },
+    {
+      "added_at": "2025-03-14 04:00:16",
+      "album": {
+        "name": "SENTIMIENTO NATURAL",
+        "url": "https://open.spotify.com/album/155BdaQ76Y4yxxfKgljH4E"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 193006,
+      "name": "SENTIMIENTO NATURAL",
+      "url": "https://open.spotify.com/track/1uE2MpryIKEUZuGhSipqQG"
+    },
+    {
+      "added_at": "2025-03-14 04:00:16",
+      "album": {
+        "name": "Still Luvin",
+        "url": "https://open.spotify.com/album/4IxPNOw15YdDYoe5yBUZit"
+      },
+      "artists": [
+        {
+          "name": "Delaossa",
+          "url": "https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Bigla The Kid",
+          "url": "https://open.spotify.com/artist/3Gf3gwkmZyNuecCyJyVD9j"
+        }
+      ],
+      "duration_ms": 246974,
+      "name": "Still Luvin",
+      "url": "https://open.spotify.com/track/0SDmW4WnnMouTsPEv3kftj"
     },
     {
       "added_at": "2025-03-14 04:00:16",
@@ -107,34 +179,6 @@
     {
       "added_at": "2025-03-14 04:00:16",
       "album": {
-        "name": "WOAHH (feat. Clarent)",
-        "url": "https://open.spotify.com/album/0gbMkiBhxKylsgLDimcb0M"
-      },
-      "artists": [
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "WOAHH (feat. Clarent)",
-      "url": "https://open.spotify.com/track/7MNGE2R8drq3d04vH5Ahlm"
-    },
-    {
-      "added_at": "2025-03-14 04:00:16",
-      "album": {
         "name": "TAT\u00da",
         "url": "https://open.spotify.com/album/25I7wgyiOpw0nJBhAkYutI"
       },
@@ -147,6 +191,126 @@
       "duration_ms": 200777,
       "name": "TAT\u00da",
       "url": "https://open.spotify.com/track/7s2Eb3VgCT8o7ALu1jeTqk"
+    },
+    {
+      "added_at": "2025-03-14 04:00:16",
+      "album": {
+        "name": "una noche con hugel",
+        "url": "https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 191475,
+      "name": "una noche con hugel",
+      "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
+    },
+    {
+      "added_at": "2025-03-14 04:00:16",
+      "album": {
+        "name": "Solcito",
+        "url": "https://open.spotify.com/album/3BzCHEyuOsxZrWq3M3CsR2"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bueno",
+          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Solcito",
+      "url": "https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu"
+    },
+    {
+      "added_at": "2025-03-14 04:00:16",
+      "album": {
+        "name": "BHAVILONIA",
+        "url": "https://open.spotify.com/album/0eEO57wwLtByL2ubWCSshn"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 162158,
+      "name": "AGRIDULCE",
+      "url": "https://open.spotify.com/track/6oD4SAERighrgpWf6NJibb"
+    },
+    {
+      "added_at": "2025-03-14 04:00:16",
+      "album": {
+        "name": "El Embrujo",
+        "url": "https://open.spotify.com/album/6L5jtuC7ClOrNxolYpuJNz"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9rico",
+          "url": "https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 237713,
+      "name": "El Embrujo",
+      "url": "https://open.spotify.com/track/6bi1N5h3OS3KUcwW9usDY5"
+    },
+    {
+      "added_at": "2025-03-14 04:00:16",
+      "album": {
+        "name": "Pa Japon",
+        "url": "https://open.spotify.com/album/5ckhpwGgky943PHw30k8ak"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 140163,
+      "name": "Pa Japon",
+      "url": "https://open.spotify.com/track/2jQO5LouN3gBeB9iHxy9sI"
+    },
+    {
+      "added_at": "2025-03-14 04:00:16",
+      "album": {
+        "name": "La Dama",
+        "url": "https://open.spotify.com/album/2mfGjJ5WjQXi6NqFtDWoYd"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 168514,
+      "name": "La Dama",
+      "url": "https://open.spotify.com/track/0g7reTogQTQ3PRUQR4x8Hw"
     },
     {
       "added_at": "2025-03-14 04:00:16",
@@ -175,66 +339,38 @@
     {
       "added_at": "2025-03-14 04:00:16",
       "album": {
-        "name": "SENTIMIENTO NATURAL",
-        "url": "https://open.spotify.com/album/155BdaQ76Y4yxxfKgljH4E"
+        "name": "Vibras De Noche II",
+        "url": "https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0"
       },
       "artists": [
         {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
         }
       ],
-      "duration_ms": 193006,
-      "name": "SENTIMIENTO NATURAL",
-      "url": "https://open.spotify.com/track/1uE2MpryIKEUZuGhSipqQG"
+      "duration_ms": 198064,
+      "name": "Esa noche",
+      "url": "https://open.spotify.com/track/2mgB7dTJpANxh0Xayd0o9S"
     },
     {
       "added_at": "2025-03-14 04:00:16",
       "album": {
-        "name": "BHAVILONIA",
-        "url": "https://open.spotify.com/album/0eEO57wwLtByL2ubWCSshn"
+        "name": "B\u00c1ILAME GYAL",
+        "url": "https://open.spotify.com/album/5R64uQ1AaSAn7Ma2y6pq1T"
       },
       "artists": [
         {
-          "name": "Bhavi",
-          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Yapi",
+          "url": "https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn"
         }
       ],
-      "duration_ms": 162158,
-      "name": "AGRIDULCE",
-      "url": "https://open.spotify.com/track/6oD4SAERighrgpWf6NJibb"
-    },
-    {
-      "added_at": "2025-03-14 04:00:16",
-      "album": {
-        "name": "Still Luvin",
-        "url": "https://open.spotify.com/album/4IxPNOw15YdDYoe5yBUZit"
-      },
-      "artists": [
-        {
-          "name": "Delaossa",
-          "url": "https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Bigla The Kid",
-          "url": "https://open.spotify.com/artist/3Gf3gwkmZyNuecCyJyVD9j"
-        }
-      ],
-      "duration_ms": 246974,
-      "name": "Still Luvin",
-      "url": "https://open.spotify.com/track/0SDmW4WnnMouTsPEv3kftj"
+      "duration_ms": 139423,
+      "name": "B\u00c1ILAME GYAL",
+      "url": "https://open.spotify.com/track/1QFsvkGJAEvwbSSBiPtRVF"
     },
     {
       "added_at": "2025-03-14 04:00:16",
@@ -259,22 +395,82 @@
     {
       "added_at": "2025-03-14 04:00:16",
       "album": {
-        "name": "Vibras De Noche II",
-        "url": "https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0"
+        "name": "Ritmo del Negro (feat. Afro Bros)",
+        "url": "https://open.spotify.com/album/6mG3dg5NckQOp48AOTk7XW"
       },
       "artists": [
         {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
         },
         {
-          "name": "Macario Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        },
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
         }
       ],
-      "duration_ms": 198064,
-      "name": "Esa noche",
-      "url": "https://open.spotify.com/track/2mgB7dTJpANxh0Xayd0o9S"
+      "duration_ms": 198635,
+      "name": "Ritmo del Negro (feat. Afro Bros)",
+      "url": "https://open.spotify.com/track/3NyPKcrAyt67ZbWlUi8ZfG"
+    },
+    {
+      "added_at": "2025-03-14 04:00:16",
+      "album": {
+        "name": "\u00bfQu\u00e9 Esperabas?",
+        "url": "https://open.spotify.com/album/3Jk3zsszJyMascQL5XllLh"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 192976,
+      "name": "\u00bfQu\u00e9 Esperabas?",
+      "url": "https://open.spotify.com/track/6fGd8PEso2vyufhfxxioPg"
+    },
+    {
+      "added_at": "2025-03-14 04:00:16",
+      "album": {
+        "name": "Blink Twice (Dos Veces Remix)",
+        "url": "https://open.spotify.com/album/29rcLP1Uni7elTtxuiXF1J"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 154134,
+      "name": "Blink Twice - Dos Veces Remix",
+      "url": "https://open.spotify.com/track/6SNHfk6CipQOSALhblynof"
+    },
+    {
+      "added_at": "2025-03-14 04:00:16",
+      "album": {
+        "name": "Amarte Duele (Versiones de Ximena)",
+        "url": "https://open.spotify.com/album/06fM2eKOCsrKGxrUWYYSu0"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "Cuento - Versi\u00f3n de Ximena",
+      "url": "https://open.spotify.com/track/6KH5I74Q8OccGi5KLaxfDD"
     },
     {
       "added_at": "2025-03-14 04:00:16",
@@ -323,26 +519,6 @@
     {
       "added_at": "2025-03-14 04:00:16",
       "album": {
-        "name": "El Embrujo",
-        "url": "https://open.spotify.com/album/6L5jtuC7ClOrNxolYpuJNz"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9rico",
-          "url": "https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c"
-        },
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 237713,
-      "name": "El Embrujo",
-      "url": "https://open.spotify.com/track/6bi1N5h3OS3KUcwW9usDY5"
-    },
-    {
-      "added_at": "2025-03-14 04:00:16",
-      "album": {
         "name": "Marimba y Acorde\u00f3n",
         "url": "https://open.spotify.com/album/2W0TKAsiPjDzmqUn9CflX0"
       },
@@ -355,22 +531,6 @@
       "duration_ms": 138000,
       "name": "Marimba y Acorde\u00f3n",
       "url": "https://open.spotify.com/track/3ErtRTSe19O3hTGyQUJd1G"
-    },
-    {
-      "added_at": "2025-03-14 04:00:16",
-      "album": {
-        "name": "Pa Japon",
-        "url": "https://open.spotify.com/album/5ckhpwGgky943PHw30k8ak"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 140163,
-      "name": "Pa Japon",
-      "url": "https://open.spotify.com/track/2jQO5LouN3gBeB9iHxy9sI"
     },
     {
       "added_at": "2025-03-14 04:00:16",
@@ -395,46 +555,6 @@
     {
       "added_at": "2025-03-14 04:00:16",
       "album": {
-        "name": "La Dama",
-        "url": "https://open.spotify.com/album/2mfGjJ5WjQXi6NqFtDWoYd"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 168514,
-      "name": "La Dama",
-      "url": "https://open.spotify.com/track/0g7reTogQTQ3PRUQR4x8Hw"
-    },
-    {
-      "added_at": "2025-03-14 04:00:16",
-      "album": {
-        "name": "Solcito",
-        "url": "https://open.spotify.com/album/3BzCHEyuOsxZrWq3M3CsR2"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bueno",
-          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
-        },
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Solcito",
-      "url": "https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu"
-    },
-    {
-      "added_at": "2025-03-14 04:00:16",
-      "album": {
         "name": "NACER DE NUEVO",
         "url": "https://open.spotify.com/album/2Q3qBzFiex2SN5hWMEJj1H"
       },
@@ -451,26 +571,6 @@
       "duration_ms": 169142,
       "name": "A NADIE",
       "url": "https://open.spotify.com/track/2LzGvfga52Sb5nNvQWCOVX"
-    },
-    {
-      "added_at": "2025-03-14 04:00:16",
-      "album": {
-        "name": "Blink Twice (Dos Veces Remix)",
-        "url": "https://open.spotify.com/album/29rcLP1Uni7elTtxuiXF1J"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 154134,
-      "name": "Blink Twice - Dos Veces Remix",
-      "url": "https://open.spotify.com/track/6SNHfk6CipQOSALhblynof"
     },
     {
       "added_at": "2025-03-14 04:00:16",
@@ -507,30 +607,6 @@
     {
       "added_at": "2025-03-14 04:00:16",
       "album": {
-        "name": "una noche con hugel",
-        "url": "https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        }
-      ],
-      "duration_ms": 191475,
-      "name": "una noche con hugel",
-      "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
-    },
-    {
-      "added_at": "2025-03-14 04:00:16",
-      "album": {
         "name": "Ll\u00e9vame",
         "url": "https://open.spotify.com/album/1XweC6MnJea3Pz9jlLImji"
       },
@@ -547,38 +623,6 @@
     {
       "added_at": "2025-03-14 04:00:16",
       "album": {
-        "name": "\u00bfQu\u00e9 Esperabas?",
-        "url": "https://open.spotify.com/album/3Jk3zsszJyMascQL5XllLh"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 192976,
-      "name": "\u00bfQu\u00e9 Esperabas?",
-      "url": "https://open.spotify.com/track/6fGd8PEso2vyufhfxxioPg"
-    },
-    {
-      "added_at": "2025-03-14 04:00:16",
-      "album": {
-        "name": "Amarte Duele (Versiones de Ximena)",
-        "url": "https://open.spotify.com/album/06fM2eKOCsrKGxrUWYYSu0"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 263000,
-      "name": "Cuento - Versi\u00f3n de Ximena",
-      "url": "https://open.spotify.com/track/6KH5I74Q8OccGi5KLaxfDD"
-    },
-    {
-      "added_at": "2025-03-14 04:00:16",
-      "album": {
         "name": "flash y pose",
         "url": "https://open.spotify.com/album/64D3u9SGPGXcG2nBOqCVg0"
       },
@@ -591,22 +635,6 @@
       "duration_ms": 152575,
       "name": "flash y pose",
       "url": "https://open.spotify.com/track/0Pg1kpLvT0TxWWLsDERTpV"
-    },
-    {
-      "added_at": "2025-03-14 04:00:16",
-      "album": {
-        "name": "B\u00c1ILAME GYAL",
-        "url": "https://open.spotify.com/album/5R64uQ1AaSAn7Ma2y6pq1T"
-      },
-      "artists": [
-        {
-          "name": "Yapi",
-          "url": "https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn"
-        }
-      ],
-      "duration_ms": 139423,
-      "name": "B\u00c1ILAME GYAL",
-      "url": "https://open.spotify.com/track/1QFsvkGJAEvwbSSBiPtRVF"
     },
     {
       "added_at": "2025-03-14 04:00:16",
@@ -963,34 +991,6 @@
       "duration_ms": 194666,
       "name": "CONTIGO",
       "url": "https://open.spotify.com/track/2KyhasVFLEL9987jjGrRGx"
-    },
-    {
-      "added_at": "2025-03-14 04:00:16",
-      "album": {
-        "name": "Ritmo del Negro (feat. Afro Bros)",
-        "url": "https://open.spotify.com/album/6mG3dg5NckQOp48AOTk7XW"
-      },
-      "artists": [
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        },
-        {
-          "name": "Afro Bros",
-          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
-        }
-      ],
-      "duration_ms": 198635,
-      "name": "Ritmo del Negro (feat. Afro Bros)",
-      "url": "https://open.spotify.com/track/3NyPKcrAyt67ZbWlUi8ZfG"
     },
     {
       "added_at": "2025-03-14 04:00:16",

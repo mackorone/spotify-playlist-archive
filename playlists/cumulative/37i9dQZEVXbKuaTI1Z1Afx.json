@@ -2564,7 +2564,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR"
@@ -10332,7 +10332,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 230226,
       "name": "California",
       "url": "https://open.spotify.com/track/5eM6Rrk8rwLpUhrh7Kk5R1"
@@ -18538,7 +18538,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 199399,
       "name": "En Privado",
       "url": "https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO"
@@ -31866,7 +31866,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 180123,
       "name": "Irish Pub Song",
       "url": "https://open.spotify.com/track/6zX3HwSuoQThrabeoHJvCs"
@@ -45324,6 +45324,24 @@
       "duration_ms": 201935,
       "name": "offline",
       "url": "https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL"
+    },
+    {
+      "album": {
+        "name": "Goodies Old Is New: Come Dance With Me",
+        "url": "https://open.spotify.com/album/7bYagScdp86OZmxJZOxIXy"
+      },
+      "artists": [
+        {
+          "name": "Bertha Tillman",
+          "url": "https://open.spotify.com/artist/4aBSbKk01HYWR964gGyLg9"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142853,
+      "name": "Oh My Angel",
+      "url": "https://open.spotify.com/track/6WGFdJ3lRB7e0VDNEzpiAh"
     },
     {
       "album": {
@@ -58816,7 +58834,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 152234,
       "name": "still love you (todav\u00eda)",
       "url": "https://open.spotify.com/track/6ggzIOQ1wbVWjpGOzJvoqF"

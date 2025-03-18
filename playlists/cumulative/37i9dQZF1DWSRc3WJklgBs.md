@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,417 songs - 3 day 9 hr 48 min
+1,418 songs - 3 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -849,6 +849,7 @@
 | [Must Be Dreaming](https://open.spotify.com/track/16ux7RA90OUcVqhgrad44r) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [Must Be Dreaming](https://open.spotify.com/album/7bplOyFHY3tfZUgUr1KcCp) | 3:53 | 2023-08-04 |  |
 | [My Best Life \(feat\. Mike Waters\)](https://open.spotify.com/track/5kldIyD365H9iq8Cz1Jb5F) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Mike Waters](https://open.spotify.com/artist/35rZNMlMkBs7ghHmGKt0xq) | [My Best Life \(feat\. Mike Waters\)](https://open.spotify.com/album/57lxvNz7Fp3hHNtXspUkjC) | 3:32 | 2019-08-31 | 2020-10-30 |
 | [My Fix](https://open.spotify.com/track/27tMeLOBeObM0JVjEsnPCo) | [Benzi](https://open.spotify.com/artist/1dqyvasqrPO2j7VS8TOxDl), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa), [Velvet Cash](https://open.spotify.com/artist/2JE4L1DVUHTozvwDFAQkZr) | [My Fix](https://open.spotify.com/album/6ITzSDoQS1cPCIJ0Z0cKSh) | 2:31 | 2024-08-23 | 2024-09-21 |
+| [My Friends](https://open.spotify.com/track/1CDIWYnX6vo2IPCtRA07H2) | [Parada](https://open.spotify.com/artist/29y0WHW3GGg8GJC2M8uEge), [Axel Ehnström](https://open.spotify.com/artist/2sRQFLs62KkM8UTW3DjDFM) | [My Friends](https://open.spotify.com/album/0f6qHuMHy4GgzrUqyH2EL7) | 2:19 | 2025-03-14 |  |
 | [My Heart Is Your Heart \- Club Edit](https://open.spotify.com/track/2FqevXNVpzGd1jDhto40vC) | [Alex Schulz](https://open.spotify.com/artist/5OReTeTBZ578sj07hDS0x7), [Kid Alina](https://open.spotify.com/artist/3pgWYjWRZCFgIfywQq9IhQ) | [My Heart Is Your Heart \(Club Edit\)](https://open.spotify.com/album/0DiNAeiIpiUOYLVhZtadWk) | 3:19 | 2020-06-04 | 2021-09-11 |
 | [My Love](https://open.spotify.com/track/5wdRufqO0DroRmys6sCyMC) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [My Love](https://open.spotify.com/album/50Kxc6wBYTGukRltpSc85X) | 2:24 | 2019-08-27 | 2020-10-30 |
 | [My Love](https://open.spotify.com/track/0tAKTV17lyNkwJEPDlZzt5) | [Foreize](https://open.spotify.com/artist/0AWsSer0UQo5PBj3QO39k1), [Sophie Anderson](https://open.spotify.com/artist/1THxJc1o7LoO1sPGUsRFZi) | [My Love](https://open.spotify.com/album/4GfFrwbNCBgZdFY8JMOIYi) | 5:36 | 2019-08-09\* | 2020-03-29 |
@@ -859,7 +860,7 @@
 | [Need Me Right](https://open.spotify.com/track/6bGTVNNA07wWwyPFPa7PyD) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Need Me Right](https://open.spotify.com/album/6lkMuhT1CneIWN1wCnOGLM) | 2:24 | 2022-12-17 |  |
 | [Need U](https://open.spotify.com/track/48GmVZwvkoVC5StfMLfNJE) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Need U](https://open.spotify.com/album/2yBTjWwQLEr2i0LTIcUmwT) | 3:39 | 2019-08-31 | 2020-10-30 |
 | [Need You](https://open.spotify.com/track/6p6cQ8Tn7UV9MAPDe0pHD2) | [Cerus](https://open.spotify.com/artist/7fquLeTBUvpluuODNIgSLY), [Lyra D.](https://open.spotify.com/artist/3rzHZCEpnWprcZOnNXy1xE) | [Need You](https://open.spotify.com/album/3yUCouzEI7ZkzEldUq1WBX) | 3:48 | 2020-06-04 | 2021-09-25 |
-| [Need You](https://open.spotify.com/track/74cLnkWR7HipkVt9yLBBO1) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9), [The Luv](https://open.spotify.com/artist/1OsWW3Akaw0Xz5eeKORfhY) | [Need You](https://open.spotify.com/album/2NbcL4xJTl7QpBnLIrXuGY) | 3:34 | 2024-04-09 |  |
+| [Need You](https://open.spotify.com/track/74cLnkWR7HipkVt9yLBBO1) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9), [The Luv](https://open.spotify.com/artist/1OsWW3Akaw0Xz5eeKORfhY) | [Need You](https://open.spotify.com/album/2NbcL4xJTl7QpBnLIrXuGY) | 3:34 | 2024-04-09 | 2025-03-18 |
 | [Need You Now](https://open.spotify.com/track/4kd8NJrrfzzPvarSre2yAu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Jake Reese](https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ) | [Need You Now](https://open.spotify.com/album/5C3KEDOzJjeaEfyvrnGD68) | 3:01 | 2020-10-30 | 2021-09-25 |
 | [Need You Now](https://open.spotify.com/track/1Ic64CNrb7cZXrClDYDjpV) | [TCM](https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp), [Anklebreaker](https://open.spotify.com/artist/33SlSV9Phemrs59SmjA2QC) | [Need You Now](https://open.spotify.com/album/4Ov2ROEu45kJN8JsKGoXJm) | 3:04 | 2019-08-09\* | 2020-03-29 |
 | [Neon \(Alluvion\)](https://open.spotify.com/track/6QzlmvDyanUTOurfdXLLwR) | [Thomas Hayes](https://open.spotify.com/artist/1127FlmEDHXC26IBsg8zHP), [Joni Fatora](https://open.spotify.com/artist/43NRjpCGCIj6GkhnAMdC60) | [Neon \(Alluvion\)](https://open.spotify.com/album/2J1QlSIGYvivKQOShRog3h) | 3:26 | 2020-04-16 | 2021-09-11 |

@@ -348,7 +348,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 123241,
       "name": "Anytime",
       "url": "https://open.spotify.com/track/23whPg6ma3qTOfKwgtvsv4"
@@ -3424,6 +3424,32 @@
       "duration_ms": 240004,
       "name": "Live It Up",
       "url": "https://open.spotify.com/track/5ghFZ07jKDue7T8oPbh9nt"
+    },
+    {
+      "album": {
+        "name": "Local (Full Vocal VIP)",
+        "url": "https://open.spotify.com/album/0BCi6jk5L3PQlzMtqSy6jd"
+      },
+      "artists": [
+        {
+          "name": "Deekline",
+          "url": "https://open.spotify.com/artist/1V9Bmg9gpcQDBfNZBQCWw7"
+        },
+        {
+          "name": "More Fire Crew",
+          "url": "https://open.spotify.com/artist/5oZ8KfzPMkIanBdvY371cK"
+        },
+        {
+          "name": "Son of Sam (UK)",
+          "url": "https://open.spotify.com/artist/5wgz9u9N0RWsspIHUKXz2D"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190638,
+      "name": "Local - Full Vocal VIP",
+      "url": "https://open.spotify.com/track/1pnuXk6jGbRdq9uVd0bcuR"
     },
     {
       "album": {

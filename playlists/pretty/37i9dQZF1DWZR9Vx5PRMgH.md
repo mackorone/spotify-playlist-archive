@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZR9Vx5PRMgH.md) - [plain]
 
 > Un espacio dedicado a podcasts presentados o producidos por mujeres\. ¡Aquí el micrófono es de ellas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,719 likes - 15 songs - 19 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,718 likes - 15 songs - 19 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZR9Vx5PRMgH.md) - [plain]
 | 10 | [Espacio seguro: Hablar de tabúes \| Eva y Diana, de Calladitas No](https://open.spotify.com/episode/22wlKcaYBImnBtlUftsRO3) | [SASKIA](https://open.spotify.com/show/1HiQLRMeAieigFscUqEg4y) | [SASKIA](https://open.spotify.com/album/1HiQLRMeAieigFscUqEg4y) | 42:09 |
 | 11 | [Talking ´bout My Girl, parte 1.](https://open.spotify.com/episode/4V8fPzPthc5uDzUQabJb0K) | [Off The Record con Martha Debayle](https://open.spotify.com/show/01UlHcHkGC4q0GNQ1Jbz3y) | [Off The Record con Martha Debayle](https://open.spotify.com/album/01UlHcHkGC4q0GNQ1Jbz3y) | 29:34 |
 | 12 | [¿Cómo empezamos en redes sociales?](https://open.spotify.com/episode/2pT9DXVLJomsr78sMavO1l) | [La J y la M](https://open.spotify.com/show/3vLefYJ6uR6zlGXowM1VUk) | [La J y la M](https://open.spotify.com/album/3vLefYJ6uR6zlGXowM1VUk) | 37:07 |
-| 13 | [Los mejores consejos a mis 20's.](https://open.spotify.com/episode/2tkzxjNZqsLW21WVw4bLls) | [SIN FILTRO PODCAST](https://open.spotify.com/show/58KeGycCHLpvwHZM2yAhXL) | [SIN FILTRO PODCAST](https://open.spotify.com/album/58KeGycCHLpvwHZM2yAhXL) | 34:58 |
+| 13 | [Los mejores consejos a mis 20's.](https://open.spotify.com/episode/2tkzxjNZqsLW21WVw4bLls) | [SIN FILTRO PODCAST](https://open.spotify.com/show/58KeGycCHLpvwHZM2yAhXL) | [SIN FILTRO PODCAST](https://open.spotify.com/album/58KeGycCHLpvwHZM2yAhXL) | 34:15 |
 | 14 | [APRENDE a SANAR las HERIDAS de la INFANCIA y la RELACIÓN con MAMÁ ❤️ \| Infinitos con Martha Higareda](https://open.spotify.com/episode/2mgeuxm9bEOTAkuFigKKmU) | [Infinitos con Martha Higareda](https://open.spotify.com/show/0xM50fBBJEEDZvzjb7sGWJ) | [Infinitos con Martha Higareda](https://open.spotify.com/album/0xM50fBBJEEDZvzjb7sGWJ) | 1:54:41 |
 | 15 | [235: La importancia de pedir ayuda](https://open.spotify.com/episode/6cZ4IqrUGek9QDJhzD2XBj) | [Supéralo Por Favor](https://open.spotify.com/show/1YAjLWj6XA4yRhvSFprVwa) | [Supéralo Por Favor](https://open.spotify.com/album/1YAjLWj6XA4yRhvSFprVwa) | 28:28 |
 

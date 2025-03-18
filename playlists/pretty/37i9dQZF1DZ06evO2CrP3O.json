@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 135006,
+  "num_followers": 135014,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9TDAAAAAACSN6H0OFG2Gc9eaBVYotWS",
+  "snapshot_id": "Z9YUgAAAAAB7qapD2VaL+c5T+UEGYe3D",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart of Glass",
-        "url": "https://open.spotify.com/album/3vVl8EtdZcex2ubfCM0QFa"
+        "name": "Blondie (Remastered 2001)",
+        "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
       },
       "artists": [
-        {
-          "name": "Kingston Sound System",
-          "url": "https://open.spotify.com/artist/1YmCqinfQtDJdAnNas3WCc"
-        },
         {
           "name": "Blondie",
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 185716,
-      "name": "Heart of Glass",
-      "url": "https://open.spotify.com/track/6ZhKL3eyP0KxatLmtR56G9"
+      "duration_ms": 194533,
+      "name": "X Offender - Remastered 2001",
+      "url": "https://open.spotify.com/track/2Yn7a6j6jWq9xzQFP2myDS"
     },
     {
       "added_at": null,
@@ -287,18 +283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blondie (Remastered 2001)",
-        "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
+        "name": "Heart of Glass",
+        "url": "https://open.spotify.com/album/3vVl8EtdZcex2ubfCM0QFa"
       },
       "artists": [
+        {
+          "name": "Kingston Sound System",
+          "url": "https://open.spotify.com/artist/1YmCqinfQtDJdAnNas3WCc"
+        },
         {
           "name": "Blondie",
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 194533,
-      "name": "X Offender - Remastered 2001",
-      "url": "https://open.spotify.com/track/2Yn7a6j6jWq9xzQFP2myDS"
+      "duration_ms": 185716,
+      "name": "Heart of Glass",
+      "url": "https://open.spotify.com/track/6ZhKL3eyP0KxatLmtR56G9"
     },
     {
       "added_at": null,

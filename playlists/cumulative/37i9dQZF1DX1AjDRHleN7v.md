@@ -4,7 +4,7 @@
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-138 songs - 7 hr 49 min
+139 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Deixa o Amanhã pra Amanhã](https://open.spotify.com/track/3NPeM6KInz42Ez4rIpAkFF) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Várias Ondas](https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam) | 3:13 | 2023-09-01 |  |
 | [Deixa O Amor Fluir](https://open.spotify.com/track/7B5LFKQJZkI1Vh82dIMSW7) | [MARCEL](https://open.spotify.com/artist/6u0K20qShucTXhhb9lOZjX), [PEU](https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f) | [Deixa O Amor Fluir](https://open.spotify.com/album/7DLZbNQrrloT2jeEJJJJmo) | 2:56 | 2023-07-03 | 2023-11-11 |
 | [Desejo Paz](https://open.spotify.com/track/1YonaHaWEs6yIP4WErsdHg) | [MENSANA](https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL) | [Desejo Paz](https://open.spotify.com/album/0xqIXUwcFXolufH3ynFAKa) | 3:33 | 2024-12-06 |  |
-| [Deusa Do Amor \- Reggae Version](https://open.spotify.com/track/0ZxYosj0mowV4YcZlwhhia) | [Marcelinho Da Lua](https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK), [tranqüilo inc](https://open.spotify.com/artist/2RmRQYQ1LMLhCIxmIhIQgp) | [Deusa Do Amor \(Reggae Version\)](https://open.spotify.com/album/1oxZt4tOzbHFerdyA7LNBY) | 5:12 | 2025-02-21 |  |
+| [Deusa Do Amor \- Reggae Version](https://open.spotify.com/track/0ZxYosj0mowV4YcZlwhhia) | [Marcelinho Da Lua](https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK), [tranqüilo inc](https://open.spotify.com/artist/2RmRQYQ1LMLhCIxmIhIQgp) | [Deusa Do Amor \(Reggae Version\)](https://open.spotify.com/album/1oxZt4tOzbHFerdyA7LNBY) | 5:12 | 2025-02-21 | 2025-03-18 |
 | [Doce Amor \(Dulce Amor\)](https://open.spotify.com/track/7ramI65lUzXS2XN89aT6pr) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk), [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Doce Amor \(Dulce Amor\)](https://open.spotify.com/album/6AL0oMPAPWgIjsx0pGZrmd) | 5:12 | 2024-03-22 | 2024-04-13 |
 | [Donavi](https://open.spotify.com/track/2KeRDSJkHqbLgUGWjF79vk) | [Msário](https://open.spotify.com/artist/23uEfKXCMDz7CayvDlN3Az), [Karina Buhr](https://open.spotify.com/artist/02aXPl7xsSoWlV77cUXtbm) | [Donavi](https://open.spotify.com/album/20RUaloKOoD5AseI3z57iD) | 4:10 | 2023-08-04 | 2023-10-03 |
 | [Eleva](https://open.spotify.com/track/5sRGPPWfKuP6ytamjiZX00) | [Refinaria](https://open.spotify.com/artist/6d3WINgz7m8IPEt9rlYVgJ), [Chico Martins](https://open.spotify.com/artist/4AixCL5u5yznkGKB4DKCAw) | [Eleva](https://open.spotify.com/album/2ihl3JKPKWTIS342D41zFA) | 3:34 | 2023-08-18 | 2024-04-19 |
@@ -95,6 +95,7 @@
 | [Pé na Areia](https://open.spotify.com/track/0rjLArKWivN8Yr92shllXF) | [MaLu](https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC) | [Café da MaLu, Vol\. 04](https://open.spotify.com/album/2QlHzW201MuSYycjwacPzD) | 2:43 | 2024-07-05 |  |
 | [Péssimo Negócio \- Ao Vivo](https://open.spotify.com/track/1OgawoylbWhKEbEOS9rdvt) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Péssimo Negócio \(Ao Vivo\)](https://open.spotify.com/album/7KQm2twpmcGLTVzBDgnLuG) | 3:24 | 2024-04-12 | 2024-06-22 |
 | [Pôr do Sol](https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL) | [Noel Ferrari](https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux) | [Pôr do Sol](https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w) | 3:48 | 2023-07-03 |  |
+| [Que Seja de Alegria](https://open.spotify.com/track/1xJI23nZnGvXV7irhcdJQP) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Que Seja de Alegria](https://open.spotify.com/album/3ADcKDdPwqiHZrkDRtH4Ma) | 2:54 | 2025-03-17 |  |
 | [Que Vem Do Mar](https://open.spotify.com/track/0HnnjltageT1ZwKjVeG1u8) | [Angatu](https://open.spotify.com/artist/6y4sd9nPIx1gPjsnJDkqym), [Dasplanta](https://open.spotify.com/artist/2I3K4rd8YZHLYk6kXeSkKP), [Krabah](https://open.spotify.com/artist/1hfD9VGvCUYoQiB43vsHZB) | [Que Vem Do Mar](https://open.spotify.com/album/6aXTdntsgmdS6VLhVumua0) | 4:00 | 2024-02-02 | 2024-04-19 |
 | [Que Vem do Mar](https://open.spotify.com/track/3XNjsb2GWwT9lU3aT4Bnmj) | [Angatu](https://open.spotify.com/artist/6y4sd9nPIx1gPjsnJDkqym), [Dasplanta](https://open.spotify.com/artist/2I3K4rd8YZHLYk6kXeSkKP), [Krabah](https://open.spotify.com/artist/1hfD9VGvCUYoQiB43vsHZB) | [Que Vem do Mar](https://open.spotify.com/album/2KoifypEyKpsQw7wrOJZph) | 4:00 | 2023-07-03 | 2023-08-18 |
 | [Quem Sabe](https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB) | [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN), [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG) | [Quem Sabe](https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc) | 2:53 | 2024-07-05 | 2024-08-31 |

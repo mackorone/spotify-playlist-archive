@@ -1,6 +1,6 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 8324,
+  "num_followers": 8341,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,26 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "MAWZ",
+        "url": "https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "duration_ms": 211964,
+      "name": "A tus Pies",
+      "url": "https://open.spotify.com/track/6j1fzONzT6xPv85ofe3ZWd"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "Champagne",
         "url": "https://open.spotify.com/album/1hyojpXhtJZN8owpOxZVkx"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 233691,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/42aeewG3eWoiBVPHL4uIXs"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "MAWZ",
-        "url": "https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        }
-      ],
-      "duration_ms": 211964,
-      "name": "A tus Pies",
-      "url": "https://open.spotify.com/track/6j1fzONzT6xPv85ofe3ZWd"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1295,8 +1295,8 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "DAME LOVE",
-        "url": "https://open.spotify.com/album/0hOVNf2dTQBla88xQe9N2D"
+        "name": "CON OTRA",
+        "url": "https://open.spotify.com/album/52PuSx5sskih9PSdXE254e"
       },
       "artists": [
         {
@@ -1304,9 +1304,9 @@
           "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
         }
       ],
-      "duration_ms": 190557,
-      "name": "DAME LOVE",
-      "url": "https://open.spotify.com/track/5gUCERVwTOn0Oe3CnHVhdZ"
+      "duration_ms": 181500,
+      "name": "CON OTRA",
+      "url": "https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1443,8 +1443,8 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "CON OTRA",
-        "url": "https://open.spotify.com/album/52PuSx5sskih9PSdXE254e"
+        "name": "DAME LOVE",
+        "url": "https://open.spotify.com/album/0hOVNf2dTQBla88xQe9N2D"
       },
       "artists": [
         {
@@ -1452,9 +1452,25 @@
           "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
         }
       ],
-      "duration_ms": 181500,
-      "name": "CON OTRA",
-      "url": "https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0"
+      "duration_ms": 190557,
+      "name": "DAME LOVE",
+      "url": "https://open.spotify.com/track/5gUCERVwTOn0Oe3CnHVhdZ"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "L.O.V.E.",
+        "url": "https://open.spotify.com/album/0Vcer7S419SpqX0BX6nj2I"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "duration_ms": 118746,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/2mFfut7uFV9zEwAcIZIw0B"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1475,22 +1491,6 @@
       "duration_ms": 204629,
       "name": "Canela",
       "url": "https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "L.O.V.E.",
-        "url": "https://open.spotify.com/album/0Vcer7S419SpqX0BX6nj2I"
-      },
-      "artists": [
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        }
-      ],
-      "duration_ms": 118746,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/2mFfut7uFV9zEwAcIZIw0B"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "Dime al O\u00eddo",
+        "url": "https://open.spotify.com/album/0NRqcJWIOumhKAfHAIwzBJ"
+      },
+      "artists": [
+        {
+          "name": "Rhino",
+          "url": "https://open.spotify.com/artist/417ZD7de71arr4uRiyPAi3"
+        }
+      ],
+      "duration_ms": 171634,
+      "name": "Dime al O\u00eddo",
+      "url": "https://open.spotify.com/track/7wQXTBpseYNCs61ODmEJfk"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "A fuego (Bizarrap Remix)",
         "url": "https://open.spotify.com/album/3s7yFDaJ8eEFQyHvhvD0ap"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 239078,
       "name": "A fuego - Bizarrap Remix",
       "url": "https://open.spotify.com/track/3AKwyujeGxTQSZNbx9Ka3c"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "Dime al O\u00eddo",
-        "url": "https://open.spotify.com/album/0NRqcJWIOumhKAfHAIwzBJ"
-      },
-      "artists": [
-        {
-          "name": "Rhino",
-          "url": "https://open.spotify.com/artist/417ZD7de71arr4uRiyPAi3"
-        }
-      ],
-      "duration_ms": 171634,
-      "name": "Dime al O\u00eddo",
-      "url": "https://open.spotify.com/track/7wQXTBpseYNCs61ODmEJfk"
     },
     {
       "added_at": "2024-07-26 04:59:00",

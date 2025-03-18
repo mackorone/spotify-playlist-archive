@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 16 Mar 14:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 18 Mar 23:02 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 405132,
       "name": "+ sargasso +",
       "url": "https://open.spotify.com/track/5B3xFiAHesPmNHpW2eDJp8"
@@ -4506,7 +4506,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 229000,
       "name": "anointment",
       "url": "https://open.spotify.com/track/5oA1G5wko4qIZE3VokD3uC"
@@ -19910,7 +19910,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 127406,
       "name": "dodging",
       "url": "https://open.spotify.com/track/5fLws5pKoCpu4YfwH2rE1V"
@@ -43619,6 +43619,24 @@
     },
     {
       "album": {
+        "name": "Love (MKB)",
+        "url": "https://open.spotify.com/album/3bXf5d2HIuCMzurxLHdvm9"
+      },
+      "artists": [
+        {
+          "name": "Che",
+          "url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192406,
+      "name": "Love (MKB)",
+      "url": "https://open.spotify.com/track/55sHeRRTqwdtO4xRtFet0S"
+    },
+    {
+      "album": {
         "name": "LOVE 2",
         "url": "https://open.spotify.com/album/6CXe6T3fygwEdPdIAquWuS"
       },
@@ -54820,6 +54838,24 @@
       "duration_ms": 151706,
       "name": "People Need People",
       "url": "https://open.spotify.com/track/1hya0KkB4N71gtH5pg1wtl"
+    },
+    {
+      "album": {
+        "name": "people person",
+        "url": "https://open.spotify.com/album/3QPjj35fwclpXKBT1aFJAr"
+      },
+      "artists": [
+        {
+          "name": "Mclusky",
+          "url": "https://open.spotify.com/artist/3xA9AB0f4BVjsSlyQc12iE"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199040,
+      "name": "people person",
+      "url": "https://open.spotify.com/track/3VPK6iuF4qbHfibpmiOw0c"
     },
     {
       "album": {
@@ -68984,6 +69020,24 @@
       "duration_ms": 174213,
       "name": "Swallow My Tears",
       "url": "https://open.spotify.com/track/2EZd0TdGBQGy0yZB0DEh93"
+    },
+    {
+      "album": {
+        "name": "Sway (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/2lszCSwBW2wm0yIwp0ag6z"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218950,
+      "name": "Sway - triple j Like A Version",
+      "url": "https://open.spotify.com/track/3SrUc3crJdSzNioTHaDQRf"
     },
     {
       "album": {

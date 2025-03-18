@@ -4,7 +4,7 @@
 
 > A happy place 🪩🪩
 
-522 songs - 1 day 7 hr 56 min
+523 songs - 1 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,6 +445,7 @@
 | [So Good](https://open.spotify.com/track/4dFaM6tTq3DlUzEysFEqy3) | [Kiinjo](https://open.spotify.com/artist/1oYyzyMTx629ZyyYENdhrZ), [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [So Good](https://open.spotify.com/album/2KeahCZqf4BopqFg4mynGX) | 2:57 | 2025-01-10 |  |
 | [So Good, So Nice, So Bright](https://open.spotify.com/track/1xR2hDqoEDiFj9VTEo0Y4Q) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [There’s A Nightclub Inside My Head](https://open.spotify.com/album/0oUyx6mrd0DgFfo1DPMfdz) | 5:56 | 2022-01-14 | 2022-07-20 |
 | [So Pretty](https://open.spotify.com/track/359LcUDiG0kNC9wj9LJMo8) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [So Pretty](https://open.spotify.com/album/203Xqt7kaHARcEBwV9l7oh) | 2:41 | 2024-04-05 | 2024-06-29 |
+| [Soft Club X](https://open.spotify.com/track/0VNzVO3Fw2S8QBX8SA4JMm) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [Soft Club X](https://open.spotify.com/album/0foQfOFqazuGQjCoJZR0x2) | 3:02 | 2025-03-14 |  |
 | [Soleil](https://open.spotify.com/track/23WMleP3WZkCdYdg2j7JEP) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Soleil](https://open.spotify.com/album/1wdClJMfuGIwDnidRgglW7) | 3:48 | 2024-01-19 | 2024-02-10 |
 | [Solid Gold \(feat\. bshp\)](https://open.spotify.com/track/0IDU2CjK6ayag6xjarO3kh) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB), [bshp](https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ) | [Solid Gold \(feat\. bshp\)](https://open.spotify.com/album/59EfQjM7As9BfUSPcd8FKR) | 3:18 | 2022-01-14 | 2024-07-27 |
 | [Someone To Believe In](https://open.spotify.com/track/77pkQ78HK1doqywnoc8dX0) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Someone To Believe In / Riding High \(On Your Love\)](https://open.spotify.com/album/5mPx1jRwBingmVgJtXPENA) | 2:35 | 2022-04-06 | 2022-07-25 |
@@ -528,7 +529,7 @@
 | [You Believe](https://open.spotify.com/track/3BFdqKd3qb1xBLYkGos2nC) | [Alex Virgo](https://open.spotify.com/artist/2Gfe6n0twVYYNqUzWfhMlt), [Benjamin Groove](https://open.spotify.com/artist/1rIyllOyqyuj6dSNhhqM0l) | [You Believe](https://open.spotify.com/album/1c4ibOjI5OmL24HwpLKxON) | 4:15 | 2022-05-10 | 2022-06-27 |
 | [You Take Me Higher](https://open.spotify.com/track/64lDlWh45oGS2GofvC8Vp4) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [You Take Me Higher](https://open.spotify.com/album/6BZhpKcbowbpVSp9UGMNQ8) | 3:07 | 2024-07-05 |  |
 | [Your Good Times Are Here](https://open.spotify.com/track/7tAGnxLiQTU0EjezyOjUj2) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Your Good Times Are Here](https://open.spotify.com/album/6nEU8r105q0illnVY0ypDh) | 4:45 | 2022-01-14 | 2023-06-10 |
-| [YoYo Disco \- Purple Disco Machine Remix](https://open.spotify.com/track/6Vu17xDve7915qFNPk2Wgm) | [Wolfram](https://open.spotify.com/artist/1oBQPdm35NiPSEWIx8Yl24), [Josh Ludlow](https://open.spotify.com/artist/1LphufDWflOQPlEPW2oruD), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [YoYo Disco \(Purple Disco Machine Remix\)](https://open.spotify.com/album/0tDc609bhacST4RuXKBzxV) | 3:17 | 2023-12-26 |  |
+| [YoYo Disco \- Purple Disco Machine Remix](https://open.spotify.com/track/6Vu17xDve7915qFNPk2Wgm) | [Wolfram](https://open.spotify.com/artist/1oBQPdm35NiPSEWIx8Yl24), [Josh Ludlow](https://open.spotify.com/artist/1LphufDWflOQPlEPW2oruD), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [YoYo Disco \(Purple Disco Machine Remix\)](https://open.spotify.com/album/0tDc609bhacST4RuXKBzxV) | 3:17 | 2023-12-26 | 2025-03-18 |
 | [Zero](https://open.spotify.com/track/7hlbz0g2tpoBTPvLLEWKWR) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Zero](https://open.spotify.com/album/6dSzlxCbme1w6B16PX5KON) | 3:11 | 2022-01-14 | 2024-05-18 |
 
 \*This playlist was first scraped on 2022-02-13. Prior content cannot be recovered.

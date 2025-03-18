@@ -1,6 +1,6 @@
 {
   "description": "Las canciones que marcaron una \u00e9poca.",
-  "num_followers": 47936,
+  "num_followers": 47951,
   "original_name": "Los 2010 Argentina",
   "owner": {
     "name": "Spotify",
@@ -915,18 +915,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "La Luna Hueca",
-        "url": "https://open.spotify.com/album/3EcGvNWLVhGz2EeiiPCvwl"
+        "name": "Leb\u00f3n & Co.",
+        "url": "https://open.spotify.com/album/2VuiXEQmTm3WcwGVha8wW2"
       },
       "artists": [
         {
-          "name": "Skay Beilinson",
-          "url": "https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED"
+          "name": "David Leb\u00f3n",
+          "url": "https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 200506,
-      "name": "El Redentor Secreto",
-      "url": "https://open.spotify.com/track/2Lg3x1cTqZPtigNbpY75z9"
+      "duration_ms": 207396,
+      "name": "Puedo Sentirlo (feat. Julieta Venegas)",
+      "url": "https://open.spotify.com/track/53tBGB7t5IGnRBcAo2j8S8"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -947,22 +951,18 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Leb\u00f3n & Co.",
-        "url": "https://open.spotify.com/album/2VuiXEQmTm3WcwGVha8wW2"
+        "name": "La Luna Hueca",
+        "url": "https://open.spotify.com/album/3EcGvNWLVhGz2EeiiPCvwl"
       },
       "artists": [
         {
-          "name": "David Leb\u00f3n",
-          "url": "https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Skay Beilinson",
+          "url": "https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED"
         }
       ],
-      "duration_ms": 207396,
-      "name": "Puedo Sentirlo (feat. Julieta Venegas)",
-      "url": "https://open.spotify.com/track/53tBGB7t5IGnRBcAo2j8S8"
+      "duration_ms": 200506,
+      "name": "El Redentor Secreto",
+      "url": "https://open.spotify.com/track/2Lg3x1cTqZPtigNbpY75z9"
     },
     {
       "added_at": "2024-06-12 22:23:25",

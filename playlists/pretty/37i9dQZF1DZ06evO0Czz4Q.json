@@ -1,12 +1,12 @@
 {
   "description": "This is Luther Vandross. The essential tracks, all in one playlist.",
-  "num_followers": 130577,
+  "num_followers": 130604,
   "original_name": "This Is Luther Vandross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9TDAAAAAAD7DKUO4ZKZGEZ0KejdIk3u",
+  "snapshot_id": "Z9YUgAAAAAAQ4TNjSi7T+9MAt9VVVIDp",
   "tracks": [
     {
       "added_at": null,
@@ -175,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Night I Fell In Love",
-        "url": "https://open.spotify.com/album/20okHMjdnVL1rDtgPo81vY"
+        "name": "Dance With My Father",
+        "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
       },
       "artists": [
         {
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 256240,
-      "name": "If Only for One Night",
-      "url": "https://open.spotify.com/track/2p4WnpR3H16ywshkL2Fp1n"
+      "duration_ms": 247533,
+      "name": "If I Didn't Know Better",
+      "url": "https://open.spotify.com/track/6GBxfhz2eKwlF1OaYGy7Cx"
     },
     {
       "added_at": null,
@@ -207,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance With My Father",
-        "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
+        "name": "The Night I Fell In Love",
+        "url": "https://open.spotify.com/album/20okHMjdnVL1rDtgPo81vY"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 247533,
-      "name": "If I Didn't Know Better",
-      "url": "https://open.spotify.com/track/6GBxfhz2eKwlF1OaYGy7Cx"
+      "duration_ms": 256240,
+      "name": "If Only for One Night",
+      "url": "https://open.spotify.com/track/2p4WnpR3H16ywshkL2Fp1n"
     },
     {
       "added_at": null,
@@ -255,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dance With My Father",
+        "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 228400,
+      "name": "Buy Me a Rose",
+      "url": "https://open.spotify.com/track/3bwTYEaQGlIhZgLYG8qxpa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Best of Luther Vandross The Best of Love",
         "url": "https://open.spotify.com/album/5rrSO0mgkVmZF1qjPn0TKD"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 323960,
       "name": "If This World Were Mine (with Luther Vandross)",
       "url": "https://open.spotify.com/track/4fTPWK0B2Mg5Gulq8rarbb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dance With My Father",
-        "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 228400,
-      "name": "Buy Me a Rose",
-      "url": "https://open.spotify.com/track/3bwTYEaQGlIhZgLYG8qxpa"
     },
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever, For Always, For Love",
-        "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 316226,
-      "name": "Bad Boy / Having a Party",
-      "url": "https://open.spotify.com/track/6d3ic1mkWMxf5DPIW798f0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 322226,
       "name": "I Know",
       "url": "https://open.spotify.com/track/6PzHZ2el11aX8u3vMqH73J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever, For Always, For Love",
+        "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 316226,
+      "name": "Bad Boy / Having a Party",
+      "url": "https://open.spotify.com/track/6d3ic1mkWMxf5DPIW798f0"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busy Body",
-        "url": "https://open.spotify.com/album/5Ql0BSlDT1AqZTZEzA8o3a"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 325960,
-      "name": "Make Me a Believer",
-      "url": "https://open.spotify.com/track/1GwsrKwWdhU7iUpaB4eaIn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Give Me The Reason",
         "url": "https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 285600,
       "name": "Give Me the Reason",
       "url": "https://open.spotify.com/track/4jwj7WcGHwNpG0ovatCbST"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Busy Body",
+        "url": "https://open.spotify.com/album/5Ql0BSlDT1AqZTZEzA8o3a"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 325960,
+      "name": "Make Me a Believer",
+      "url": "https://open.spotify.com/track/1GwsrKwWdhU7iUpaB4eaIn"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busy Body",
-        "url": "https://open.spotify.com/album/5Ql0BSlDT1AqZTZEzA8o3a"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 558773,
-      "name": "Superstar / Until You Come Back to Me (That's What I'm Gonna Do)",
-      "url": "https://open.spotify.com/track/6ykYnj6kpUsaUur53jMnhN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Night With You: The Best Of Love, Volume 2",
         "url": "https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB"
       },
@@ -643,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Too Much: Greatest Hits",
-        "url": "https://open.spotify.com/album/0xzFxd6HmtKMneQGOhQTqT"
+        "name": "Busy Body",
+        "url": "https://open.spotify.com/album/5Ql0BSlDT1AqZTZEzA8o3a"
       },
       "artists": [
         {
@@ -652,9 +636,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 325812,
-      "name": "Michelle - Studio Mix",
-      "url": "https://open.spotify.com/track/0MjQ4Pt4wGbs2xXhkVhUTS"
+      "duration_ms": 558773,
+      "name": "Superstar / Until You Come Back to Me (That's What I'm Gonna Do)",
+      "url": "https://open.spotify.com/track/6ykYnj6kpUsaUur53jMnhN"
     },
     {
       "added_at": null,
@@ -671,6 +655,22 @@
       "duration_ms": 275133,
       "name": "Don't Want to Be a Fool",
       "url": "https://open.spotify.com/track/2rgMQNOF91LdmJClQAgqW9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Too Much: Greatest Hits",
+        "url": "https://open.spotify.com/album/0xzFxd6HmtKMneQGOhQTqT"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 325812,
+      "name": "Michelle - Studio Mix",
+      "url": "https://open.spotify.com/track/0MjQ4Pt4wGbs2xXhkVhUTS"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 315880,
-      "name": "The Impossible Dream",
-      "url": "https://open.spotify.com/track/6IJKQ0Qx44YypTSxOMc5AM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Your Secret Love",
         "url": "https://open.spotify.com/album/3F4E8x0AIxDFBFjFlLYPeN"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 335480,
       "name": "I Can Make It Better",
       "url": "https://open.spotify.com/track/70NmePXQxL3b688VuLSFae"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 315880,
+      "name": "The Impossible Dream",
+      "url": "https://open.spotify.com/track/6IJKQ0Qx44YypTSxOMc5AM"
     },
     {
       "added_at": null,

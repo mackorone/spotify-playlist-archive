@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-893 songs - 2 day 5 hr 0 min
+894 songs - 2 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,6 +392,7 @@
 | [hospital beach](https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [you missed the best part](https://open.spotify.com/album/1KX0aY23DP7aWsvCXxuEPx) | 2:04 | 2024-01-12 |  |
 | [Housekeys](https://open.spotify.com/track/1qjSdzpCDpXhWqVtUlaFSM) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [Housekeys](https://open.spotify.com/album/0NE4GXtHwL82n1NVKQa23k) | 3:44 | 2021-06-25 | 2022-07-26 |
 | [Human Shape](https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [DREAM SOUP](https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP) | 3:26 | 2022-06-01 | 2022-07-29 |
+| [I can do what I want](https://open.spotify.com/track/4ExoRP6SDTO8LvYIjUsyiK) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [I can do what I want](https://open.spotify.com/album/34syhtKXv345KDnYcJcmN7) | 3:00 | 2025-03-17 |  |
 | [I Can Dream](https://open.spotify.com/track/4T0V5H3xvsPtc8L7Gt0U3b) | [Luke Temple](https://open.spotify.com/artist/6MUv39LOn5bz2QW4SBKE85) | [I Can Dream](https://open.spotify.com/album/1FXJHXlWYHfQW3Iv5pA8l0) | 4:37 | 2024-06-17 | 2024-10-04 |
 | [I Can't Speak](https://open.spotify.com/track/2DX5gNbz6dPpv9UJpFgHRh) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [Weirdo Shrine](https://open.spotify.com/album/6q4OSe8nsfQ6eHYETx7yis) | 3:03 | 2020-10-05\* | 2022-04-17 |
 | [I Can’t Even Cry](https://open.spotify.com/track/2knRILXCUzgUfP10oxsgk3) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [I Can’t Even Cry](https://open.spotify.com/album/26k2vkmqtFn6hQtnWO2lSb) | 3:41 | 2024-08-16 | 2025-03-05 |
@@ -671,7 +672,7 @@
 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 | 2021-06-04 | 2023-11-05 |
 | [Rose Pink Cadillac](https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/2VaOn32haUapQOYnerK32W) | 4:21 | 2023-09-29 | 2024-04-19 |
 | [Rosy](https://open.spotify.com/track/7EIo6fHmAwg85BKBOXXhGz) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Rosy](https://open.spotify.com/album/7jnpHgUDNF63e6pazRhYXs) | 3:16 | 2024-10-04 | 2024-11-16 |
-| [RUFF RIDE](https://open.spotify.com/track/0yxOhm9EgkEDjAbXLyoObO) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [RUFF RIDE](https://open.spotify.com/album/3uypo9hATbNvyhiYYpNWQ2) | 2:36 | 2024-12-17 |  |
+| [RUFF RIDE](https://open.spotify.com/track/0yxOhm9EgkEDjAbXLyoObO) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [RUFF RIDE](https://open.spotify.com/album/3uypo9hATbNvyhiYYpNWQ2) | 2:36 | 2024-12-17 | 2025-03-18 |
 | [Run Away](https://open.spotify.com/track/2BvqUci2WyM2peHOCimt95) | [Old Man Canyon](https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx) | [Run Away](https://open.spotify.com/album/009DKE4MpIhgk3coS71bb1) | 3:23 | 2020-10-05\* | 2021-05-28 |
 | [Run To The Moon](https://open.spotify.com/track/03tXFHO65orOSnHlEDf0JK) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Run To The Moon](https://open.spotify.com/album/5OUIMs7DlmNEY1ia8IVQfs) | 3:45 | 2023-04-28 | 2024-06-18 |
 | [Running Around](https://open.spotify.com/track/35DHCZvQcy8PIM0eJmVS1X) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Running Around](https://open.spotify.com/album/3SZkoZ1AS0DAW8jyMQUQ0q) | 4:28 | 2022-03-07 | 2023-08-19 |

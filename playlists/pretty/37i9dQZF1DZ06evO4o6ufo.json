@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 76703,
+  "num_followers": 76748,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9TDAAAAAACuxqQgKat+qyzqGEWdDDVJ",
+  "snapshot_id": "Z9YUgAAAAADR8naXUV2+h4aR31IcCOq2",
   "tracks": [
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 198321,
-      "name": "Sorry Pa\u2019 Los Gabachos",
-      "url": "https://open.spotify.com/track/6pvWRtjFmdNM47Cuz4EqqS"
+      "duration_ms": 154318,
+      "name": "Como No Quererte",
+      "url": "https://open.spotify.com/track/7mfdX4DRVX18IUSi2F1Cki"
     },
     {
       "added_at": null,
@@ -684,29 +684,9 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 154318,
-      "name": "Como No Quererte",
-      "url": "https://open.spotify.com/track/7mfdX4DRVX18IUSi2F1Cki"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        },
-        {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
-        }
-      ],
-      "duration_ms": 169745,
-      "name": "El Dos Letras De Jalisco (En Vivo)",
-      "url": "https://open.spotify.com/track/6HZjVABCo7kWuwnuLwCItJ"
+      "duration_ms": 198321,
+      "name": "Sorry Pa\u2019 Los Gabachos",
+      "url": "https://open.spotify.com/track/6pvWRtjFmdNM47Cuz4EqqS"
     },
     {
       "added_at": null,
@@ -751,6 +731,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        }
+      ],
+      "duration_ms": 169745,
+      "name": "El Dos Letras De Jalisco (En Vivo)",
+      "url": "https://open.spotify.com/track/6HZjVABCo7kWuwnuLwCItJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Buena Cepa",
         "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 178175,
-      "name": "El Puente Roto (En Vivo)",
-      "url": "https://open.spotify.com/track/7exNpJsnVhoErwT2wvO1AY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Plebada del Mayo",
         "url": "https://open.spotify.com/album/1HPKQepsOHuKhlZG1gWGs3"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 311530,
       "name": "La Plebada del Mayo",
       "url": "https://open.spotify.com/track/0P9Q43GkZTMJl1vQmpjWFD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 178175,
+      "name": "El Puente Roto (En Vivo)",
+      "url": "https://open.spotify.com/track/7exNpJsnVhoErwT2wvO1AY"
     },
     {
       "added_at": null,

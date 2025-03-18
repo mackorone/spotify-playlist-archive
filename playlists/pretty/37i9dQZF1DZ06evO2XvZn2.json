@@ -1,12 +1,12 @@
 {
   "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
-  "num_followers": 15397,
+  "num_followers": 15398,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9TDAAAAAABzzLkGjwHmnUvti0Mas6wY",
+  "snapshot_id": "Z9YUgAAAAABhVoxWFiW5+ZkKZ2Pln3uq",
   "tracks": [
     {
       "added_at": null,
@@ -651,30 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
-        "url": "https://open.spotify.com/album/4eld4UYUr1RxKt5Z8ktFcI"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Fefi Oliveira",
-          "url": "https://open.spotify.com/artist/0q7queXJVvPOq2Ej8d2McH"
-        }
-      ],
-      "duration_ms": 191080,
-      "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
-      "url": "https://open.spotify.com/track/1NIVpauTuDo7hvRNMi0KMw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luna Para Ti (feat. Riccardo Frascari)",
         "url": "https://open.spotify.com/album/5PwTYoP0LgXel5HctvYlsm"
       },
@@ -695,6 +671,30 @@
       "duration_ms": 212362,
       "name": "Luna Para Ti (feat. Riccardo Frascari)",
       "url": "https://open.spotify.com/track/4zpwnpqgv58YIE3mGqxHBU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
+        "url": "https://open.spotify.com/album/4eld4UYUr1RxKt5Z8ktFcI"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Fefi Oliveira",
+          "url": "https://open.spotify.com/artist/0q7queXJVvPOq2Ej8d2McH"
+        }
+      ],
+      "duration_ms": 191080,
+      "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
+      "url": "https://open.spotify.com/track/1NIVpauTuDo7hvRNMi0KMw"
     },
     {
       "added_at": null,
@@ -735,30 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nadie Como Yo (feat. Riccardo Frascari)",
-        "url": "https://open.spotify.com/album/77wgeN8InWCzZuh7vrHhLn"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Riccardo Frascari",
-          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
-        }
-      ],
-      "duration_ms": 160038,
-      "name": "Nadie Como Yo (feat. Riccardo Frascari)",
-      "url": "https://open.spotify.com/track/2AuwBMf8LAIyxPx8kQp3z8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eva (feat. Riccardo Frascari)",
         "url": "https://open.spotify.com/album/5etNIcaFHbH0LbcTFoeCMB"
       },
@@ -779,6 +755,30 @@
       "duration_ms": 154120,
       "name": "Eva (feat. Riccardo Frascari)",
       "url": "https://open.spotify.com/track/2z2Zwa8JCOi4CLbJlI9DTf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nadie Como Yo (feat. Riccardo Frascari)",
+        "url": "https://open.spotify.com/album/77wgeN8InWCzZuh7vrHhLn"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Riccardo Frascari",
+          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
+        }
+      ],
+      "duration_ms": 160038,
+      "name": "Nadie Como Yo (feat. Riccardo Frascari)",
+      "url": "https://open.spotify.com/track/2AuwBMf8LAIyxPx8kQp3z8"
     },
     {
       "added_at": null,

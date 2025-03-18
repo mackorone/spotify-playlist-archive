@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 123335,
+  "num_followers": 123361,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -8,26 +8,6 @@
   },
   "snapshot_id": "Z66yAgAAAAAreXR6t/5DMt0XeoLbzEZH",
   "tracks": [
-    {
-      "added_at": "2025-02-14 03:01:22",
-      "album": {
-        "name": "Are You Even Real (feat. Giv\u0113on)",
-        "url": "https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 147702,
-      "name": "Are You Even Real (feat. Giv\u0113on)",
-      "url": "https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC"
-    },
     {
       "added_at": "2025-02-14 03:01:22",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 213571,
       "name": "worst behaviour (feat. Kehlani)",
       "url": "https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl"
+    },
+    {
+      "added_at": "2025-02-14 03:01:22",
+      "album": {
+        "name": "Are You Even Real (feat. Giv\u0113on)",
+        "url": "https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 147702,
+      "name": "Are You Even Real (feat. Giv\u0113on)",
+      "url": "https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC"
     },
     {
       "added_at": "2025-02-14 03:01:22",
@@ -1131,58 +1131,6 @@
     {
       "added_at": "2025-02-14 03:01:22",
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/2aFulxeOIYdakdVXjgaHDz"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Stay Here Tonight",
-      "url": "https://open.spotify.com/track/35osWEtUUselhnoFpwA3X2"
-    },
-    {
-      "added_at": "2025-02-14 03:01:22",
-      "album": {
-        "name": "Little Men (Deluxe)",
-        "url": "https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB"
-      },
-      "artists": [
-        {
-          "name": "Marc E. Bassy",
-          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
-        }
-      ],
-      "duration_ms": 240074,
-      "name": "Crash for a Couple",
-      "url": "https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna"
-    },
-    {
-      "added_at": "2025-02-14 03:01:22",
-      "album": {
-        "name": "SunStorm",
-        "url": "https://open.spotify.com/album/1ssu0v4LiGz7j3y2BUaj2j"
-      },
-      "artists": [
-        {
-          "name": "Zo!",
-          "url": "https://open.spotify.com/artist/0XoDNlIZvfQP47lyLBVIsz"
-        },
-        {
-          "name": "Monica Blaire",
-          "url": "https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK"
-        }
-      ],
-      "duration_ms": 635533,
-      "name": "Make Luv 2 Me",
-      "url": "https://open.spotify.com/track/6wSS1PXZcHbjIKHwQK6g1v"
-    },
-    {
-      "added_at": "2025-02-14 03:01:22",
-      "album": {
         "name": "No Love Song",
         "url": "https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct"
       },
@@ -1211,6 +1159,58 @@
       "duration_ms": 271453,
       "name": "Come To My Room",
       "url": "https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj"
+    },
+    {
+      "added_at": "2025-02-14 03:01:22",
+      "album": {
+        "name": "SunStorm",
+        "url": "https://open.spotify.com/album/1ssu0v4LiGz7j3y2BUaj2j"
+      },
+      "artists": [
+        {
+          "name": "Zo!",
+          "url": "https://open.spotify.com/artist/0XoDNlIZvfQP47lyLBVIsz"
+        },
+        {
+          "name": "Monica Blaire",
+          "url": "https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK"
+        }
+      ],
+      "duration_ms": 635533,
+      "name": "Make Luv 2 Me",
+      "url": "https://open.spotify.com/track/6wSS1PXZcHbjIKHwQK6g1v"
+    },
+    {
+      "added_at": "2025-02-14 03:01:22",
+      "album": {
+        "name": "Little Men (Deluxe)",
+        "url": "https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB"
+      },
+      "artists": [
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        }
+      ],
+      "duration_ms": 240074,
+      "name": "Crash for a Couple",
+      "url": "https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna"
+    },
+    {
+      "added_at": "2025-02-14 03:01:22",
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/2aFulxeOIYdakdVXjgaHDz"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Stay Here Tonight",
+      "url": "https://open.spotify.com/track/35osWEtUUselhnoFpwA3X2"
     },
     {
       "added_at": "2025-02-14 03:01:22",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-02-14 03:01:22",
       "album": {
-        "name": "Falling or flying",
-        "url": "https://open.spotify.com/album/1hWYt17game3yX5FEa3O7M"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204920,
-      "name": "Falling or flying",
-      "url": "https://open.spotify.com/track/7uiBtN7MLqQfaclC74DX3J"
-    },
-    {
-      "added_at": "2025-02-14 03:01:22",
-      "album": {
         "name": "New Growth",
         "url": "https://open.spotify.com/album/5FqqxmI6py4VQuCDCvGFJO"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 177053,
       "name": "No Pussy For Losers",
       "url": "https://open.spotify.com/track/5VDF6rpkDLlbmB8Vf8sxea"
+    },
+    {
+      "added_at": "2025-02-14 03:01:22",
+      "album": {
+        "name": "Falling or flying",
+        "url": "https://open.spotify.com/album/1hWYt17game3yX5FEa3O7M"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204920,
+      "name": "Falling or flying",
+      "url": "https://open.spotify.com/track/7uiBtN7MLqQfaclC74DX3J"
     },
     {
       "added_at": "2025-02-14 03:01:22",

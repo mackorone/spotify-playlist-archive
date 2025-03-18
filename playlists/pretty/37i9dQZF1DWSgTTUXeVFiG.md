@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,490 likes - 50 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,533 likes - 50 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 30 | [Nuestro Sueño \- En Vivo](https://open.spotify.com/track/0nrOLAiz0CCyqr3PZaT0Zw) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Grupo Niche \(En Vivo\)](https://open.spotify.com/album/4lrQEwqs459PbxfQGp11H3) | 5:35 |
 | 31 | [Tito Nieves Medley \(Sonambulo / El Amor Más Bonito / Almohada\) \- Live](https://open.spotify.com/track/2kSv1nvmn6OLDaUlvsryYp) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Una Historia Musical](https://open.spotify.com/album/3Upn5Xs3hq5NC0SXlI4W79) | 8:05 |
 | 32 | [Guantanamera \- Live](https://open.spotify.com/track/17m5ZCpxMEC1MyAeuu6u5L) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Jorge Santana](https://open.spotify.com/artist/68GKwB0h4qEbbEWfpT25Vm) | [Live In Africa](https://open.spotify.com/album/5YUlti1Sao9vMmKIinSTR1) | 4:53 |
-| 33 | [Lobo Domesticado "En Vivo"](https://open.spotify.com/track/5i784rg3A3YFVFE8YXLfme) | [Tommy Olivencia y Su Orquesta](https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx), [Hector Tricoche](https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En) | [40 Anniversary \(Live Hits\)](https://open.spotify.com/album/43VEjj157u4fGnlw4QN9vL) | 4:46 |
-| 34 | [Un Verano en Nueva York \- Live Version](https://open.spotify.com/track/0JcrTxvfkJb6vOowJorCfO) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Sergio George Presents Salsa Giants Plus EP \(Live\)](https://open.spotify.com/album/1zvssiQA5jXkAscHWZJp44) | 5:43 |
+| 33 | [Un Verano en Nueva York \- Live Version](https://open.spotify.com/track/0JcrTxvfkJb6vOowJorCfO) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Sergio George Presents Salsa Giants Plus EP \(Live\)](https://open.spotify.com/album/1zvssiQA5jXkAscHWZJp44) | 5:43 |
+| 34 | [Lobo Domesticado "En Vivo"](https://open.spotify.com/track/5i784rg3A3YFVFE8YXLfme) | [Tommy Olivencia y Su Orquesta](https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx), [Hector Tricoche](https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En) | [40 Anniversary \(Live Hits\)](https://open.spotify.com/album/43VEjj157u4fGnlw4QN9vL) | 4:46 |
 | 35 | [Probablemente \- Live](https://open.spotify.com/track/3uaiF0P7A9yo7aMsrE7Xlw) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [El Reencuentro \(Live In Lima\) \- Vol\. 2](https://open.spotify.com/album/5mGJ0vT7EfK2MXLkuLSQP6) | 5:24 |
 | 36 | [Conciencia \- En Vivo desde Puerto Rico](https://open.spotify.com/track/2kTplkLCuMb9wWkyQmo17s) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [40..\. y Contando \(En Vivo Desde Puerto Rico\)](https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp) | 3:16 |
 | 37 | [Llorarás \- En Vivo Desde Nueva York/2000](https://open.spotify.com/track/2Lg7ffRF4dzhxYSHJ0lS79) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [The Greatest Salsa Ever](https://open.spotify.com/album/5SaBVIfXpp1nsaiH9mn7y9) | 3:38 |

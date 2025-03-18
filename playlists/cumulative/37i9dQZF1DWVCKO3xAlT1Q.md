@@ -4,7 +4,7 @@
 
 > The official Eurovision Song Contest 2025 playlist.
 
-73 songs - 3 hr 35 min
+74 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 | 2024-05-11 | 2025-03-01 |
 | [Fighter \- Eurovision Version](https://open.spotify.com/track/6syLoIbMRXvCEr94FMVBHh) | [TALI](https://open.spotify.com/artist/6v6wot3YV1QnPry6mfrCLK) | [Fighter \(Eurovision Version\)](https://open.spotify.com/album/759G3cPO8KnudNnVPW7MV9) | 2:59 | 2024-05-11 | 2025-03-01 |
 | [Firefighter](https://open.spotify.com/track/5Ekw4o2ecrOCBF5rGB7KXs) | [Nutsa](https://open.spotify.com/artist/28BY95cMOgoVJrJK9YLS7Z) | [Firefighter](https://open.spotify.com/album/1uZCKKz6GFG8RXXQhRZ9vv) | 3:03 | 2024-05-11 | 2025-03-01 |
+| [Freedom \- Eurovision 2025 \- Georgia](https://open.spotify.com/track/5mjD2U1w6217p73LC9MEht) | [Mariam Shengelia](https://open.spotify.com/artist/57UpwmCYjUyIaKUWOO2gV3) | [Freedom \(Eurovision 2025 \- Georgia\)](https://open.spotify.com/album/1qDquxaoZDp77B9tr4WT2q) | 2:50 | 2025-03-17 |  |
 | [GAJA \- Eurovision Edit](https://open.spotify.com/track/0wNpA89DLOyKlZZVJ7wCac) | [Justyna Steczkowska](https://open.spotify.com/artist/4MoS5osilxUivShOUtUoZP) | [GAJA \(Eurovision Edit\)](https://open.spotify.com/album/5c5XVlbDvejnJUm3eEdN2N) | 3:00 | 2025-02-28 |  |
 | [Grito](https://open.spotify.com/track/2zhBeIoGEqISdQOu4HtQZc) | [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Festival da Canção 2024](https://open.spotify.com/album/4EQbuZ20BLzc1AenXH2dt5) | 2:56 | 2024-05-11 | 2025-03-01 |
 | [Hallucination](https://open.spotify.com/track/07JJ7J8JhEztiEcczioBws) | [Sissal](https://open.spotify.com/artist/19dHBZ2g62ice0ZsxxzRWP) | [Hallucination](https://open.spotify.com/album/4ErsLdiv1HwkVN0ueMtPRJ) | 3:03 | 2025-03-02 |  |

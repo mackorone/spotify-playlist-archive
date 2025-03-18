@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 365160,
+  "num_followers": 365182,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9TDAAAAAACTdElYBrlp0Fw33qvHOmN9",
+  "snapshot_id": "Z9YUgAAAAADioFbld78em7M+ReGttzKr",
   "tracks": [
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Departures",
-        "url": "https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj"
-      },
-      "artists": [
-        {
-          "name": "Jon Foreman",
-          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
-        },
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 243533,
-      "name": "A Place Called Earth",
-      "url": "https://open.spotify.com/track/4NUtKsTfiLOdgZDlwE07dN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "North Point Music: Beginnings",
         "url": "https://open.spotify.com/album/2nUPCwoRsqH34xEPzg0OtA"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 250186,
       "name": "It Is Well",
       "url": "https://open.spotify.com/track/2tEzz6a8TkScfoKYz5OY8Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Departures",
+        "url": "https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj"
+      },
+      "artists": [
+        {
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 243533,
+      "name": "A Place Called Earth",
+      "url": "https://open.spotify.com/track/4NUtKsTfiLOdgZDlwE07dN"
     },
     {
       "added_at": null,

@@ -427,22 +427,6 @@
     {
       "added_at": "2025-03-08 23:00:20",
       "album": {
-        "name": "Take Me To Your Heaven",
-        "url": "https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Perrelli",
-          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Tusen och en natt",
-      "url": "https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y"
-    },
-    {
-      "added_at": "2025-03-08 23:00:20",
-      "album": {
         "name": "Amazing",
         "url": "https://open.spotify.com/album/1B0mVsLzCERctx9aZDC5yN"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 181266,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/33qw98yPnShEQMoF72ORUa"
+    },
+    {
+      "added_at": "2025-03-08 23:00:20",
+      "album": {
+        "name": "Take Me To Your Heaven",
+        "url": "https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Perrelli",
+          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Tusen och en natt",
+      "url": "https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y"
     },
     {
       "added_at": "2025-03-08 23:00:20",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-03-08 23:00:20",
       "album": {
-        "name": "Now I Know",
-        "url": "https://open.spotify.com/album/1uap95G6btqs1OZLmkN1Gc"
-      },
-      "artists": [
-        {
-          "name": "Tennessee Tears",
-          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
-        }
-      ],
-      "duration_ms": 181633,
-      "name": "Now I Know",
-      "url": "https://open.spotify.com/track/591qy56kcfBuNgj1kregOM"
-    },
-    {
-      "added_at": "2025-03-08 23:00:20",
-      "album": {
         "name": "I Do Me",
         "url": "https://open.spotify.com/album/3PHMXQB20FRJ8GGqBFIi5M"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 163263,
       "name": "I Do Me",
       "url": "https://open.spotify.com/track/3dlu81sbakUxdtEHFnTJmz"
+    },
+    {
+      "added_at": "2025-03-08 23:00:20",
+      "album": {
+        "name": "Now I Know",
+        "url": "https://open.spotify.com/album/1uap95G6btqs1OZLmkN1Gc"
+      },
+      "artists": [
+        {
+          "name": "Tennessee Tears",
+          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
+        }
+      ],
+      "duration_ms": 181633,
+      "name": "Now I Know",
+      "url": "https://open.spotify.com/track/591qy56kcfBuNgj1kregOM"
     },
     {
       "added_at": "2025-03-08 23:00:20",

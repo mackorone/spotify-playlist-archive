@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-983 songs - 2 day 10 hr 12 min
+984 songs - 2 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,7 @@
 | [Good Night](https://open.spotify.com/track/4uVbW1zfl2PaPIEDH6ZGc3) | [FLEUR](https://open.spotify.com/artist/6WWEd7zMMyx6BKLnKukmeV), [Tio](https://open.spotify.com/artist/7LzfAWU6jvqg8fVeNc0fqB) | [Good Night](https://open.spotify.com/album/5hKKCZZGTPPmF4mpCgHj7z) | 2:58 | 2024-05-23 | 2024-06-05 |
 | [Good to me](https://open.spotify.com/track/2eCJSkC7zKOd4D4TflEKkI) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Good to me](https://open.spotify.com/album/5MGvOR8zMkSkW6gzYH7uSt) | 2:50 | 2024-02-06 | 2024-02-08 |
 | [Good to me](https://open.spotify.com/track/4mRJhOrI0AVjGwVVckvxgj) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Good to me](https://open.spotify.com/album/1IzjQzQU5N1mmZE563Rr8j) | 2:50 | 2024-02-06 | 2024-02-21 |
-| [grace](https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [grace](https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu) | 4:49 | 2022-10-20 |  |
+| [grace](https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [grace](https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu) | 4:49 | 2022-10-20 | 2025-03-18 |
 | [Gradate](https://open.spotify.com/track/04GV8JLkGPs2AOSrJjiOCX) | [U\-Key zone](https://open.spotify.com/artist/5UGa5DI6W2UrficTR8aZXj), [issei](https://open.spotify.com/artist/2qdOqduF7xgqSVd4153NdZ) | [Gradate](https://open.spotify.com/album/1LY3jOgcsqqu0cRFnWSMvj) | 3:49 | 2022-10-20 | 2022-11-30 |
 | [Greatest Hits](https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [I Love You Jennifer B](https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8) | 4:27 | 2022-10-20 | 2022-10-26 |
 | [Ground](https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Ground](https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw) | 3:02 | 2024-07-24 | 2024-11-01 |
@@ -460,6 +460,7 @@
 | [Make Up Your Mind](https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Make Up Your Mind](https://open.spotify.com/album/1Fb1bL19kIPe24nhMcpE80) | 2:52 | 2023-08-03 | 2024-05-09 |
 | [Marking My Time \- BADBADNOTGOOD Edit](https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Marking My Time \(BADBADNOTGOOD Edit\)](https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz) | 4:12 | 2023-12-19 | 2024-02-10 |
 | [Marshmallow](https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Marshmallow](https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx) | 3:02 | 2023-06-15 | 2024-02-09 |
+| [masshiro \(pure white\)](https://open.spotify.com/track/00WTRpkXPTms4ah74VurQi) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [masshiro \(pure white\)](https://open.spotify.com/album/6YChKs8gVLOWqQhmUyybOg) | 4:54 | 2025-03-11 |  |
 | [MAYA](https://open.spotify.com/track/4T5lFQKSZTdQljytCc80LC) | [HUGEN](https://open.spotify.com/artist/6bJa33vi3OFcQ75aITBhIw) | [MAYA](https://open.spotify.com/album/0a1zTAUD52X80T0pUfh0Ly) | 4:13 | 2024-05-01 | 2024-06-05 |
 | [Mayonaka no Door\~Stay with Me \- 2023 Mix](https://open.spotify.com/track/3cSIP8SktGigy9EUL3QAAe) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [POCKET PARK \(2023 Mix\)](https://open.spotify.com/album/6ZogsaUTY6mwjzg0503GvU) | 5:10 | 2023-06-20 | 2023-08-16 |
 | [Maze](https://open.spotify.com/track/7dO0DWNctendV8W3XbRBux) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [mimiko](https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I) | [Time Won't Stop](https://open.spotify.com/album/0rQDHxRhpolHbzQYcB510w) | 5:08 | 2022-12-20 | 2023-02-22 |

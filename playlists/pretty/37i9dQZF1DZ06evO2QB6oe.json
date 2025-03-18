@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 67949,
+  "num_followers": 67967,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9TDAAAAAACScWi9DX1OIefKVH4ME3in",
+  "snapshot_id": "Z9YUgAAAAAD7mMg4ue+dOkbUw0Q1XIPV",
   "tracks": [
     {
       "added_at": null,
@@ -543,6 +543,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00bfDe Qu\u00e9 Vamos a Hablar?",
+        "url": "https://open.spotify.com/album/1dexhNnGvId5xMSu1hlTqh"
+      },
+      "artists": [
+        {
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 185690,
+      "name": "\u00bfDe Qu\u00e9 Vamos a Hablar?",
+      "url": "https://open.spotify.com/track/3Ra7HSy3xOJo3gkdXFZ3NB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Tu Manera (feat. Ky-Mani Marley)",
         "url": "https://open.spotify.com/album/4RU5vBLmaIjQYnP0XueJUe"
       },
@@ -571,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUNAY",
-        "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 174917,
-      "name": "Buena Suerte",
-      "url": "https://open.spotify.com/track/4fAlzlBojsx7aA9llmidAN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Carretera",
         "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
       },
@@ -603,22 +607,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfDe Qu\u00e9 Vamos a Hablar?",
-        "url": "https://open.spotify.com/album/1dexhNnGvId5xMSu1hlTqh"
+        "name": "MUNAY",
+        "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
       },
       "artists": [
-        {
-          "name": "Camil\u00fa",
-          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
-        },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 185690,
-      "name": "\u00bfDe Qu\u00e9 Vamos a Hablar?",
-      "url": "https://open.spotify.com/track/3Ra7HSy3xOJo3gkdXFZ3NB"
+      "duration_ms": 174917,
+      "name": "Buena Suerte",
+      "url": "https://open.spotify.com/track/4fAlzlBojsx7aA9llmidAN"
     },
     {
       "added_at": null,
@@ -635,38 +635,6 @@
       "duration_ms": 159655,
       "name": "Esto Se Jodi\u00f3",
       "url": "https://open.spotify.com/track/1PPJODzFMJ0pnn5DgknzSS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adi\u00f3s",
-        "url": "https://open.spotify.com/album/2QszGFpzq25vKTPIdMySyu"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 198839,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/56egMSOttQh3ztykSqsk0u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Carretera",
-        "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Dulce Soledad",
-      "url": "https://open.spotify.com/track/41CIG5tvJwEvhbkxZiv2P0"
     },
     {
       "added_at": null,
@@ -695,6 +663,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Carretera",
+        "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Dulce Soledad",
+      "url": "https://open.spotify.com/track/41CIG5tvJwEvhbkxZiv2P0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adi\u00f3s",
+        "url": "https://open.spotify.com/album/2QszGFpzq25vKTPIdMySyu"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 198839,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/56egMSOttQh3ztykSqsk0u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin Haber Dormido",
         "url": "https://open.spotify.com/album/2TuwTjtSX2dXBKfaVODYsh"
       },
@@ -711,6 +711,38 @@
       "duration_ms": 187593,
       "name": "Sin Haber Dormido",
       "url": "https://open.spotify.com/track/3f8ohdsBs0EG9ktGccn4h0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Neta",
+        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 205959,
+      "name": "La Neta",
+      "url": "https://open.spotify.com/track/0DKIkTI5jB14BEC6sJlsFm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Carretera",
+        "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 212092,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7qZmhrhOXy2vRnaFezgmD2"
     },
     {
       "added_at": null,
@@ -739,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Carretera",
-        "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
+        "name": "En Letra de Otro",
+        "url": "https://open.spotify.com/album/2FSiTQRfhKBOb0my3NK60n"
       },
       "artists": [
         {
@@ -748,9 +780,9 @@
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 212092,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/7qZmhrhOXy2vRnaFezgmD2"
+      "duration_ms": 236893,
+      "name": "Estoy Enamorado",
+      "url": "https://open.spotify.com/track/1twgctCV8hHwexACjTzBRn"
     },
     {
       "added_at": null,
@@ -764,25 +796,9 @@
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 205959,
-      "name": "La Neta",
-      "url": "https://open.spotify.com/track/0DKIkTI5jB14BEC6sJlsFm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Letra de Otro",
-        "url": "https://open.spotify.com/album/2FSiTQRfhKBOb0my3NK60n"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 236893,
-      "name": "Estoy Enamorado",
-      "url": "https://open.spotify.com/track/1twgctCV8hHwexACjTzBRn"
+      "duration_ms": 173310,
+      "name": "Volver a Casa",
+      "url": "https://open.spotify.com/track/0fiY9KBlMWgK1xrQTlmzyS"
     },
     {
       "added_at": null,
@@ -823,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Neta",
-        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 173310,
-      "name": "Volver a Casa",
-      "url": "https://open.spotify.com/track/0fiY9KBlMWgK1xrQTlmzyS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUNAY",
         "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
       },
@@ -851,22 +851,6 @@
       "duration_ms": 186976,
       "name": "La S\u00e1bana y los Pies",
       "url": "https://open.spotify.com/track/2dO6OrbCT0eBuiExwfo6KZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aquila",
-        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 238440,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/4kmeo6vgaOwksRN95HgY9E"
     },
     {
       "added_at": null,
@@ -887,6 +871,22 @@
       "duration_ms": 178285,
       "name": "Jard\u00edn",
       "url": "https://open.spotify.com/track/6SpEFYmSZQJGuyL8tiyhnZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aquila",
+        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 238440,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/4kmeo6vgaOwksRN95HgY9E"
     },
     {
       "added_at": null,
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aquila",
-        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Qu\u00e9 Fuimos (feat. Matisse)",
-      "url": "https://open.spotify.com/track/5vRwOK31sTh80qJAZeP1Ox"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cumbiana II",
         "url": "https://open.spotify.com/album/4fscMZmg0NKVmgDDDE6mA6"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 193844,
       "name": "Pagamento",
       "url": "https://open.spotify.com/track/0FzATyAkvGkWdR6Rp0lN2x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aquila",
+        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Qu\u00e9 Fuimos (feat. Matisse)",
+      "url": "https://open.spotify.com/track/5vRwOK31sTh80qJAZeP1Ox"
     },
     {
       "added_at": null,
@@ -1007,18 +1007,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aquila",
-        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
+        "name": "PAUSA",
+        "url": "https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R"
       },
       "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 254253,
-      "name": "Vivo",
-      "url": "https://open.spotify.com/track/6MvSpQzS732DcvdHNc0hBj"
+      "duration_ms": 218665,
+      "name": "Cae de Una",
+      "url": "https://open.spotify.com/track/3NG3wfTRRPiGLxysGXG5RU"
     }
   ],
   "unique_name": "This Is Pedro Cap\u00f3",

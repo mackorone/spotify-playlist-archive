@@ -1,4 +1,4 @@
-## Playlists \(8442\)
+## Playlists \(8443\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -1202,8 +1202,8 @@
 - [Chill Dance Classics](/playlists/pretty/37i9dQZF1DX7sHfsYE2VI7.md)
 - [Chill Dinner](/playlists/pretty/37i9dQZF1DXb83YJL7gTWj.md)
 - [Chill Folk](/playlists/pretty/37i9dQZF1DWVl5gPCRkquk.md)
-- [Chill Gaming](/playlists/pretty/37i9dQZF1DWXpOtMyVOt4Q.md)
 - [Chill Gaming \(2\)](/playlists/pretty/37i9dQZF1DX6LV3QymAMCD.md)
+- [Chill Gaming 2025](/playlists/pretty/37i9dQZF1DWXpOtMyVOt4Q.md)
 - [Chill Gaming Beats](/playlists/pretty/37i9dQZF1DWTpLDJazDBum.md)
 - [Chill Hits](/playlists/pretty/37i9dQZF1DX4WYpdgoIcn6.md)
 - [Chill House 2025](/playlists/pretty/62bReXvmroQzQfEUuTNe3Y.md)
@@ -3954,6 +3954,7 @@
 - [NCS Releases](/playlists/pretty/7sZbq8QGyMnhKPcLJvCUFD.md)
 - [NCT 127 4TH TOUR \[NEO CITY – THE MOMENTUM\]](/playlists/pretty/37i9dQZF1DWTyD0Dn3MQUS.md)
 - [NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’](/playlists/pretty/37i9dQZF1DWYDzQuH58z2X.md)
+- [NCT WISH \[ASIA TOUR LOG in\]](/playlists/pretty/37i9dQZF1DWW5unMLFzqYY.md)
 - [NEW EDM 2025 ⚡ EDM HITS 2025 ⚡ MUSICA ELECTRONICA 2025](/playlists/pretty/3yGp845Tz2duWCORALQHFO.md)
 - [NEXT GEN](/playlists/pretty/37i9dQZF1DX7INdDhuhzXd.md)
 - [NEÓN](/playlists/pretty/37i9dQZF1DX2vWnOprRIq7.md)

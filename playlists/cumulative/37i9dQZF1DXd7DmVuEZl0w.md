@@ -4,7 +4,7 @@
 
 > Feel the spirit of Ramadan with Amdah and Anashid songs.
 
-159 songs - 8 hr 20 min
+160 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Al Eid Gaa](https://open.spotify.com/track/2MjIicyL4V6KB1IqnJiQlj) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Al Eid Gaa](https://open.spotify.com/album/6tBj3VQ01bZvoneHa9i3z9) | 1:49 | 2024-04-08 | 2024-04-19 |
 | [Al Eid Gaa](https://open.spotify.com/track/5ra4kmbcUvek1OdmMcDRm5) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Al Eid Gaa](https://open.spotify.com/album/3TwvfliTWcoaU3lc3PzGHu) | 1:49 | 2024-04-10 | 2025-01-29 |
 | [Al Kol Yafnny](https://open.spotify.com/track/0DP3o17gDVEe6ADkpHi8FD) | [Ahmed Hamdy](https://open.spotify.com/artist/7rwf98k7PayJKQCzFpm0xD) | [Ya Rasoul Allah](https://open.spotify.com/album/008HEgbo9fydgwkr7krc2W) | 3:27 | 2024-03-25 |  |
-| [Al meshratie](https://open.spotify.com/track/53gBFmbeysqMBXdo0nNo0y) | [Mohamed Fawzi](https://open.spotify.com/artist/35SDB2XBVuqWpURR3S53Ip) | [Al meshratie](https://open.spotify.com/album/1QkHO81bSJD1KKHx2vTEWn) | 5:42 | 2025-01-28 |  |
+| [Al meshratie](https://open.spotify.com/track/53gBFmbeysqMBXdo0nNo0y) | [Mohamed Fawzi](https://open.spotify.com/artist/35SDB2XBVuqWpURR3S53Ip) | [Al meshratie](https://open.spotify.com/album/1QkHO81bSJD1KKHx2vTEWn) | 5:42 | 2025-01-28 | 2025-03-18 |
 | [Al Quran](https://open.spotify.com/track/6n4qf4LMDMl5hQSS1HZe0h) | [Ahmed Bukhatir](https://open.spotify.com/artist/7H045XjM40okitH2R60OrR) | [Fartaqi](https://open.spotify.com/album/46y3eqKg2y5IceTGROJi6T) | 3:03 | 2024-03-11 | 2024-04-09 |
 | [Ala Tatafakron](https://open.spotify.com/track/03JZ24r3awWpKZED5dFNB6) | [Ahmed Burhan](https://open.spotify.com/artist/7Lbjz4JoUYXlnfN9knP8L7) | [Ala Tatafakron](https://open.spotify.com/album/3Yqzyju8x2QCqU2NfPgk9Y) | 2:21 | 2024-03-11 |  |
 | [Alem Belolob](https://open.spotify.com/track/6Syx7Efsg2UHyzT6YpzPm9) | [Bassma Atta](https://open.spotify.com/artist/0kYSjEPqFB08F7EP4Q1qgC) | [Alem Belolob](https://open.spotify.com/album/6qCKwAogbUb9ExdVr7VCbO) | 2:02 | 2024-03-11 |  |
@@ -126,6 +126,7 @@
 | [Zikir Hasbi Rabbi](https://open.spotify.com/track/4wIgRr8Qb5Snv5ftpj4deh) | [Munif Ahmad](https://open.spotify.com/artist/7fzsFvgrM5JTfh1wlYbCIp) | [Himpunan Zikir, Doa & Selawat Harian](https://open.spotify.com/album/1G9x54PdkkT04vb3NjtIbL) | 1:10 | 2024-03-11 |  |
 | [اتنين بمقام ملايين](https://open.spotify.com/track/0TchhsYsdtIsY6HCJ0YQWL) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اتنين بمقام ملايين](https://open.spotify.com/album/19CKrkJEOEKlPHId6Sex76) | 2:53 | 2024-04-08 | 2025-01-29 |
 | [اسم النبي](https://open.spotify.com/track/5ZzCbdcG8MfkzBuWhnDmKZ) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [بالمصري](https://open.spotify.com/album/2XWVTT7DR6IZY1WGsyTKuN) | 1:49 | 2024-03-11 | 2024-04-09 |
+| [البركة](https://open.spotify.com/track/17zNs2xrb6C7mHbYkoWlwM) | [Rana Samaha](https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW) | [البركة](https://open.spotify.com/album/3rKQn0JRMEg0E4rRJZn8FX) | 1:53 | 2025-03-13 |  |
 | [الرحمن](https://open.spotify.com/track/2XXC0lGlrKrBvy3nO3pSxU) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [من أسماء الله الحسنى](https://open.spotify.com/album/5DKWeowCb5NYYRjUmkpDUi) | 1:22 | 2025-02-20 |  |
 | [السلام](https://open.spotify.com/track/4Njx6uC3m76cjF6iax3SaQ) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [من أسماء الله الحسنى](https://open.spotify.com/album/5DKWeowCb5NYYRjUmkpDUi) | 1:12 | 2025-02-20 |  |
 | [الله](https://open.spotify.com/track/7KwKmMYnNGOTm30se4NpHB) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [من أسماء الله الحسنى](https://open.spotify.com/album/5DKWeowCb5NYYRjUmkpDUi) | 1:09 | 2025-02-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,601 likes - 144 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,602 likes - 144 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,13 +126,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 116 | [WYS \(feat\. RAYE\)](https://open.spotify.com/track/3PkqwtiofY6CVJDTtA9GbJ) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Green With Envy](https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc) | 2:44 |
 | 117 | [Ambition](https://open.spotify.com/track/0ykYUf381iNVClU9RyRfKT) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [SECOND](https://open.spotify.com/album/6eT16kw4EZwX9jlHaQQ4Ww) | 4:52 |
 | 118 | [Overture\. \- Live at the Royal Albert Hall](https://open.spotify.com/track/2aU4dNaEpGQIp1oGkmJlBZ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [The Heritage Orchestra](https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx) | [My 21st Century Symphony\. \(Live at the Royal Albert Hall\)](https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP) | 1:37 |
-| 119 | [South East London](https://open.spotify.com/track/1FMM2ZK0wK7RIQTbi8OiSu) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Rapman Presents: Blue Story, Music Inspired By The Original Motion Picture](https://open.spotify.com/album/7rEE5D5xsKP4yGpwXXF7Bl) | 3:14 |
-| 120 | [Glue \(feat\. RAYE\)](https://open.spotify.com/track/1Uf09GGlf7Nq4iCfCbaGKf) | [Somewhere Else](https://open.spotify.com/artist/5LA9eBtrAmkfQveuJZLH5h), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Glue \(feat\. RAYE\)](https://open.spotify.com/album/1mG1ciibiQf1hQ6CE41Z91) | 3:02 |
-| 121 | [Paralyzed \(feat\. RAYE\)](https://open.spotify.com/track/3kTthHt7h6paFEMOaIxXC3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Algorithm](https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW) | 4:38 |
-| 122 | [War \(feat\. Keon Bryce\)](https://open.spotify.com/track/1GxgwYCyhEiS8XDh8J1y85) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Keon Bryce](https://open.spotify.com/artist/7aoCuY6OJl2puP2hX6Fal0) | [Street's Disciple](https://open.spotify.com/album/0jghcWTsQzux5T9sAfZO13) | 4:17 |
-| 123 | [Summer Love](https://open.spotify.com/track/0Wma8BNaxMOJEynkQ4CoMv) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Summer Love](https://open.spotify.com/album/4Ztozwf1oKHvz97IyGaocr) | 6:59 |
-| 124 | [Dear Ben, Pt\. II](https://open.spotify.com/track/0jdveBJMYBs7lk1w0Pk9Jw) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:39 |
-| 125 | [FUFN \(Fuck You For Now\)](https://open.spotify.com/track/7hWESP9salkKYucipe5W99) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [FUFN \(Fuck You For Now\)](https://open.spotify.com/album/2q2NWhj9rd5WnKokMmapIq) | 3:35 |
+| 119 | [FUFN \(Fuck You For Now\)](https://open.spotify.com/track/7hWESP9salkKYucipe5W99) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [FUFN \(Fuck You For Now\)](https://open.spotify.com/album/2q2NWhj9rd5WnKokMmapIq) | 3:35 |
+| 120 | [South East London](https://open.spotify.com/track/1FMM2ZK0wK7RIQTbi8OiSu) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Rapman Presents: Blue Story, Music Inspired By The Original Motion Picture](https://open.spotify.com/album/7rEE5D5xsKP4yGpwXXF7Bl) | 3:14 |
+| 121 | [Glue \(feat\. RAYE\)](https://open.spotify.com/track/1Uf09GGlf7Nq4iCfCbaGKf) | [Somewhere Else](https://open.spotify.com/artist/5LA9eBtrAmkfQveuJZLH5h), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Glue \(feat\. RAYE\)](https://open.spotify.com/album/1mG1ciibiQf1hQ6CE41Z91) | 3:02 |
+| 122 | [Paralyzed \(feat\. RAYE\)](https://open.spotify.com/track/3kTthHt7h6paFEMOaIxXC3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Algorithm](https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW) | 4:38 |
+| 123 | [War \(feat\. Keon Bryce\)](https://open.spotify.com/track/1GxgwYCyhEiS8XDh8J1y85) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Keon Bryce](https://open.spotify.com/artist/7aoCuY6OJl2puP2hX6Fal0) | [Street's Disciple](https://open.spotify.com/album/0jghcWTsQzux5T9sAfZO13) | 4:17 |
+| 124 | [Summer Love](https://open.spotify.com/track/0Wma8BNaxMOJEynkQ4CoMv) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Summer Love](https://open.spotify.com/album/4Ztozwf1oKHvz97IyGaocr) | 6:59 |
+| 125 | [Dear Ben, Pt\. II](https://open.spotify.com/track/0jdveBJMYBs7lk1w0Pk9Jw) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:39 |
 | 126 | [Alien](https://open.spotify.com/track/0fZfRJ4LlniAOAvq2beBRI) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [Alien](https://open.spotify.com/album/7Lg6ullAYcXZA3VV8D7yBd) | 4:54 |
 | 127 | [Tell Me](https://open.spotify.com/track/3qERB87N7mWWvMiFnrMMzj) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [SECOND](https://open.spotify.com/album/6eT16kw4EZwX9jlHaQQ4Ww) | 3:27 |
 | 128 | [Masterpiece](https://open.spotify.com/track/2pOxs66DFLeyKgq7SHguLW) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [Stones & Giants](https://open.spotify.com/album/0pFsaEcaen7zirGPKDjqGC) | 4:11 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 143 | [Rough \- Axel Karakasis Remix](https://open.spotify.com/track/4Zq2jl1ZxsYOqBevqghdYa) | [Sintek](https://open.spotify.com/artist/5VVTbLgVKS2B0O7BoxRGBM) | [Rough](https://open.spotify.com/album/0EbJGp1zt5mtBztbMM7eMv) | 6:36 |
 | 144 | [Born Again](https://open.spotify.com/track/1M19Mdxx0zQPe2u150qeTq) | [Kiera Martin](https://open.spotify.com/artist/3cnUQjgbuSxzIxASWg2CJZ) | [Born Again](https://open.spotify.com/album/6EoVgNcbXUI7P4XWMeWfVK) | 3:52 |
 
-Snapshot ID: `AbsPIAAAAADGCkB/cD5fLWCV7H4N7d5j`
+Snapshot ID: `AbsU3gAAAAD+EhxfEMFBreYFYCN4ApLE`

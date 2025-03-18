@@ -4443,6 +4443,24 @@
     },
     {
       "album": {
+        "name": "Serenices",
+        "url": "https://open.spotify.com/album/0a5gEmKQowK8QiEeCNJ0F4"
+      },
+      "artists": [
+        {
+          "name": "Bliss Phenomena",
+          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183624,
+      "name": "Serenices",
+      "url": "https://open.spotify.com/track/0Ek8hkMhOi1A39mibfNAkM"
+    },
+    {
+      "album": {
         "name": "Serenitivity",
         "url": "https://open.spotify.com/album/6Vz2CBGS1UcQ1GDTopeXbF"
       },
@@ -5732,7 +5750,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 173892,
       "name": "Weightless Dreams",
       "url": "https://open.spotify.com/track/5UfsYYVyxWRpJ5sBA32Rns"

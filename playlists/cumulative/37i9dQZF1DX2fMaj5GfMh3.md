@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: Chappell Roan
 
-888 songs - 1 day 21 hr 10 min
+890 songs - 1 day 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 | 2024-11-14 | 2025-01-31 |
 | [boy i'd like to kill](https://open.spotify.com/track/46upLPyvXHEh4n3Ernt4U6) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [boy i'd like to kill](https://open.spotify.com/album/6Gc6cvlf1UpJHF4cp6ZFu7) | 2:27 | 2024-02-15 | 2024-04-26 |
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-24 | 2023-04-15 |
+| [Boys Don't Cry](https://open.spotify.com/track/6VkIPm8ow14mZ7QCUJSqSe) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Boys Don't Cry](https://open.spotify.com/album/6J7vnOZiMpz0ckuqkyFpIX) | 2:42 | 2025-03-17 |  |
 | [Boys Like You](https://open.spotify.com/track/3MZeBZsYFViZ5OchHkv7NM) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Boys Like You](https://open.spotify.com/album/4lze7H8TQqIqnrRT9Sc351) | 3:27 | 2023-06-22 | 2023-09-21 |
 | [Break My Heart](https://open.spotify.com/track/2PwqZgaeEsJ1SAPF6RmMmm) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Break My Heart](https://open.spotify.com/album/15hXWoOGHJ59KPpFQjwuCU) | 3:09 | 2023-06-08 | 2023-09-12 |
 | [Break ‘Em All](https://open.spotify.com/track/1hH8ByI9BkzG8ASsQJoqcH) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Break 'Em All](https://open.spotify.com/album/1eZMBwcCn2tf7sWn8Ug94a) | 3:33 | 2024-06-10 | 2024-09-13 |
@@ -229,7 +230,7 @@
 | [Effort](https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Effort](https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl) | 2:31 | 2023-04-13 | 2023-07-14 |
 | [Ego](https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Ego](https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf) | 2:52 | 2023-04-13 | 2023-07-14 |
 | [eighteen](https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [eighteen](https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY) | 3:09 | 2023-04-06 | 2023-07-28 |
-| [Elephant](https://open.spotify.com/track/0ekxyRdkBINbTBQQIzgwQr) | [JEN](https://open.spotify.com/artist/0EZPJDbK2vKYgDisXtBHUY) | [Elephant](https://open.spotify.com/album/05HCvXo1Dag4kSb58DVhB3) | 2:17 | 2025-01-09 |  |
+| [Elephant](https://open.spotify.com/track/0ekxyRdkBINbTBQQIzgwQr) | [JEN](https://open.spotify.com/artist/0EZPJDbK2vKYgDisXtBHUY) | [Elephant](https://open.spotify.com/album/05HCvXo1Dag4kSb58DVhB3) | 2:17 | 2025-01-09 | 2025-03-18 |
 | [Elevator Eyes](https://open.spotify.com/track/1AZoLkRwhHY5xSL9lGYrlc) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme \(Extended Cut\)](https://open.spotify.com/album/4HqIEAaytAyzVPnnT0j9j3) | 2:58 | 2023-08-25 | 2023-11-24 |
 | [Empire](https://open.spotify.com/track/2cnJ7OVVT5520sNo9vDhMH) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Empire](https://open.spotify.com/album/3bfDYcUq5kP93Vr34hYYJb) | 3:04 | 2024-10-22 | 2025-01-10 |
 | [Empty Bench](https://open.spotify.com/track/5FYoVG03kAIK0F8VuSKykk) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Empty Bench](https://open.spotify.com/album/3km5zzX8gjqQwNcc2E6LHk) | 3:06 | 2024-12-12 | 2025-02-19 |
@@ -479,6 +480,7 @@
 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 | 2023-09-07 | 2024-01-13 |
 | [Lilly](https://open.spotify.com/track/7AmQQNY6A0v1uWxx46hcD3) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hey mom, don’t worry I’m fine](https://open.spotify.com/album/4xfrjscotnULSQSFfjamgr) | 3:10 | 2024-01-04 | 2024-03-01 |
 | [Lipstick](https://open.spotify.com/track/1q4BCQssFe74UJmnWt5lov) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Lipstick](https://open.spotify.com/album/0xNBKoAOgkjxgDsmoa5lpV) | 3:28 | 2023-08-17 | 2023-12-13 |
+| [Little Dreaming](https://open.spotify.com/track/02B3AyjVkk7Z5Ktom1eH0q) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6FJ9yGyRou6MzvOePLeIJe) | 3:23 | 2025-03-17 |  |
 | [Little Runaway](https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [PULSE](https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5) | 3:15 | 2023-05-08 | 2023-08-11 |
 | [LLYLM](https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LLYLM](https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm) | 2:54 | 2023-02-24 | 2023-04-14 |
 | [Lo Que Queda de Mí](https://open.spotify.com/track/5ONDwiSzjziWVwmxRZCen6) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Lo Que Queda de Mí](https://open.spotify.com/album/5gSUafhGxfjgna6Wr0fiVc) | 3:50 | 2023-11-30 | 2024-03-15 |
@@ -821,7 +823,7 @@
 | [Ulterior Motives](https://open.spotify.com/track/0zfLf6IWFvJMGaubfJWtLk) | [OLIVIA](https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM) | [Ulterior Motives](https://open.spotify.com/album/0OOkiwWU6jpaprw7h8IYvm) | 2:34 | 2025-02-27 |  |
 | [UNAPOLOGETICALLY](https://open.spotify.com/track/6w8x20GjwpIHTJ3MAszyJh) | [llll](https://open.spotify.com/artist/4nooGDX5QxisOl67xm4BBE) | [UNAPOLOGETICALLY](https://open.spotify.com/album/7E0YLbuzHhReJCSQCfvVkU) | 2:58 | 2024-08-01 | 2024-09-20 |
 | [Undecided](https://open.spotify.com/track/67HfJMTt2jley2uzWzocKe) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Undecided](https://open.spotify.com/album/4rOBvkbMvjHEtQByHEUx4V) | 2:40 | 2024-02-05 | 2024-04-26 |
-| [Underwear](https://open.spotify.com/track/10zG0Yamj5zQoWcRCnQI7Z) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Underwear](https://open.spotify.com/album/2bLVEtFJZFX94OZ2oeUa9Y) | 3:27 | 2025-01-16 |  |
+| [Underwear](https://open.spotify.com/track/10zG0Yamj5zQoWcRCnQI7Z) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Underwear](https://open.spotify.com/album/2bLVEtFJZFX94OZ2oeUa9Y) | 3:27 | 2025-01-16 | 2025-03-18 |
 | [UNHEALTHY \(feat\. Shania Twain\)](https://open.spotify.com/track/2doTn2LWTKN1Z0lZJG2WQw) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [UNHEALTHY \(feat\. Shania Twain\)](https://open.spotify.com/album/6QEbEpz7fWR5N3HoIiSHFo) | 2:29 | 2023-05-25 | 2023-09-01 |
 | [Unicorn](https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Unicorn](https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR) | 2:50 | 2023-05-18 | 2023-08-18 |
 | [Universe](https://open.spotify.com/track/6qJXOI2wHjE98wEOruUd0w) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Universe](https://open.spotify.com/album/1nmF0O0ff5o47buSCKTWrx) | 2:46 | 2024-03-08 | 2024-06-21 |

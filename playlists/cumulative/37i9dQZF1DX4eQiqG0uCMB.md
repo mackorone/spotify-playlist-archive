@@ -4,7 +4,7 @@
 
 > Chill afro music to study with.
 
-318 songs - 16 hr 18 min
+319 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Fountains \(with Tems\)](https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:12 | 2022-06-09 | 2023-02-24 |
 | [Free My Mind](https://open.spotify.com/track/2NcJDSpMJsbyabOLoa00GM) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Free My Mind](https://open.spotify.com/album/5tnf29cBX19DsHpqDpa7Vn) | 2:55 | 2022-06-09 | 2023-03-26 |
 | [FYN](https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:27 | 2022-06-09 | 2024-04-19 |
-| [FYN](https://open.spotify.com/track/5gdhbzqHrZsjc3Rf3SdeXE) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [FYN](https://open.spotify.com/album/2U86RJZhOyvFzLxZtol3fH) | 3:27 | 2022-06-09 |  |
+| [FYN](https://open.spotify.com/track/5gdhbzqHrZsjc3Rf3SdeXE) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [FYN](https://open.spotify.com/album/2U86RJZhOyvFzLxZtol3fH) | 3:27 | 2022-06-09 | 2025-03-18 |
 | [Garden Lily](https://open.spotify.com/track/4YPpEhN0gk7Ctf7a6tELmS) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV) | [Garden Lily](https://open.spotify.com/album/0JLWiL0bVlAeJLLszt2TMg) | 2:17 | 2023-08-03 | 2023-09-10 |
 | [Gaslight 101](https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G) | 2:59 | 2024-03-22 | 2024-04-19 |
 | [Gaslight 101](https://open.spotify.com/track/1RFUyaEgrVucSKNm4I8XJs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/7ho3u9fJvZvMs48INUqhvl) | 2:59 | 2024-03-15 | 2024-04-26 |
@@ -150,6 +150,7 @@
 | [Jewel](https://open.spotify.com/track/5DIjE7u1jDyQSP07XBxQt3) | [Jay Cliff](https://open.spotify.com/artist/3NQNF50myZ7EUqNvvYX1RH) | [Jewel](https://open.spotify.com/album/3Z9d9ufQ9UqWICiasFdeel) | 2:13 | 2022-07-14 | 2022-07-21 |
 | [John Dumelo](https://open.spotify.com/track/7Bp8cqxHDVRLwJXFbXxt9B) | [Gho5t](https://open.spotify.com/artist/5fX5WCIuZTlEidRRmj5gug) | [John Dumelo](https://open.spotify.com/album/5QezEPPOMEx2hZjOqco9AP) | 2:16 | 2022-07-07 | 2022-07-22 |
 | [Jolie](https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jolie](https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ) | 3:29 | 2023-01-27 | 2025-03-08 |
+| [Jungle](https://open.spotify.com/track/3DNQ0lffkKOldmetNvdjeW) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [Jungle](https://open.spotify.com/album/7HQZo6UGbEkYWUP70Dv99m) | 3:38 | 2025-03-14 |  |
 | [King](https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laughter, Tears & Goosebumps](https://open.spotify.com/album/4dZjYBEciWomanesAv3fie) | 2:45 | 2022-06-09 |  |
 | [Know You](https://open.spotify.com/track/2ruXXt5eDmdm35hTCnGy0s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Know You](https://open.spotify.com/album/7Lx1a9NN4ns7NIEvVCzzWu) | 3:50 | 2022-06-09 |  |
 | [Lagbaja](https://open.spotify.com/track/4FW8rTluyTmcf3uYAm8qrC) | [Dimi Keye](https://open.spotify.com/artist/4efVJ70KH16hdCL57EL7UN) | [Lagbaja](https://open.spotify.com/album/1iTFgbalclhMSBNDS3lbdq) | 2:40 | 2023-07-21 | 2023-09-10 |

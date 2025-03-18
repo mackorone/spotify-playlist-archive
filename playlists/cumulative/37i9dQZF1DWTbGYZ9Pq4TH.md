@@ -4,7 +4,7 @@
 
 > Le canzoni d'amore italiane più romantiche di sempre ❤️
 
-251 songs - 16 hr 13 min
+252 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A un isolato da te](https://open.spotify.com/track/78flPZdW6F2pNfIkVVKCRI) | [Francesco Renga](https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2) | [Tempo Reale Extra](https://open.spotify.com/album/4g3w53fwewnSPWR8lMCksi) | 3:25 | 2021-09-26 | 2022-07-23 |
 | [Accetto Miracoli](https://open.spotify.com/track/22wcpWIq8EUqcFoF6wD0gg) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Accetto Miracoli](https://open.spotify.com/album/4W80Y3Ukg3dxhAKBQ8Cjej) | 3:31 | 2021-09-26 | 2022-07-28 |
 | [Acqua e Sale](https://open.spotify.com/track/2k5XUNGw2nD3qTl9C208Qr) | [MINACELENTANO](https://open.spotify.com/artist/2RaKpBVCLrHguQqQDcahYB) | [Mina Celentano](https://open.spotify.com/album/0fK3gESwoPn02N98BmuRid) | 4:42 | 2021-09-26 | 2023-01-08 |
-| [Alba](https://open.spotify.com/track/3slQ550jA1udn2keXTvu1U) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Alba](https://open.spotify.com/album/5KlWvjXQsetLk8KqvtCaJw) | 3:29 | 2025-01-23 |  |
+| [Alba](https://open.spotify.com/track/3slQ550jA1udn2keXTvu1U) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Alba](https://open.spotify.com/album/5KlWvjXQsetLk8KqvtCaJw) | 3:29 | 2025-01-23 | 2025-03-18 |
 | [Albachiara](https://open.spotify.com/track/53MYtv4tzLYg1hbu13Qbc0) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Albachiara](https://open.spotify.com/album/5MLtSbanLmt0QLEMKgqLD7) | 4:05 | 2025-01-23 |  |
 | [Almeno tu nell'universo](https://open.spotify.com/track/6kM1hV9AHul6j6t3mu7zIV) | [Mia Martini](https://open.spotify.com/artist/05JkDGFMHqlIz0GPjLh2p3) | [Martini Mia...](https://open.spotify.com/album/4K0sJHHnxLeyoUlfSjMgpB) | 5:06 | 2024-02-13 | 2024-04-03 |
 | [Almeno Tu Nell'universo \- Original Version](https://open.spotify.com/track/1gIDTn5bujBLjE5OPRW03Y) | [Mia Martini](https://open.spotify.com/artist/05JkDGFMHqlIz0GPjLh2p3) | [Davvero di Piu'](https://open.spotify.com/album/5BdoxMxKVw7RHhNjvxUL7t) | 5:06 | 2021-09-26 | 2022-07-29 |
@@ -136,6 +136,7 @@
 | [Le luci della città](https://open.spotify.com/track/2ovEk26S9eFIQJ8l7koWR9) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3s3ThjVMEWRqXV8b4H6sy4) | 2:59 | 2025-01-28 |  |
 | [Le Sei E Ventisei](https://open.spotify.com/track/2dT5WyNVkCfBMvvffAiwoG) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Il Primo Bacio Sulla Luna](https://open.spotify.com/album/1Xv9aoCKbnUD3S2OYAjbo8) | 4:44 | 2021-09-26 | 2022-07-24 |
 | [Le tasche piene di sassi](https://open.spotify.com/track/7FJ2MZUK52QYeARaSird6m) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Le tasche piene di sassi](https://open.spotify.com/album/0995VBTDyPAQLGY7ru2jXK) | 3:45 | 2021-09-26 | 2022-07-28 |
+| [Le Tasche Piene Di Sassi](https://open.spotify.com/track/4BenDOqr4Feas8CiWtRyzf) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Ora \(Deluxe Version\)](https://open.spotify.com/album/7u8aAYprJucEFRmH2l6tJJ) | 3:33 | 2025-02-18 |  |
 | [Luce \(Tramonti a Nord Est\)](https://open.spotify.com/track/09g4hFrDdBK3J52I3InPgl) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Asile's World](https://open.spotify.com/album/4NAldsRyud3P1gM53MpSEs) | 4:24 | 2021-09-26 | 2022-07-28 |
 | [L’Amore È Una Cosa Semplice](https://open.spotify.com/track/7b0qDOmCeqHIAsGK7j0MbI) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [L'amore è una cosa semplice \(Special Edition\)](https://open.spotify.com/album/4VqOwLPLbdl3GTNoygOLW1) | 4:02 | 2021-09-26 | 2022-07-16 |
 | [MADAME \- L'anima](https://open.spotify.com/track/0uAnrNNITY7KwmOqdVEsIK) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Persona](https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v) | 3:41 | 2023-02-20 | 2024-04-19 |

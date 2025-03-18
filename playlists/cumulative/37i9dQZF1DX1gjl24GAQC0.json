@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? (Cover: HxW (\ud638\uc2dcX\uc6b0\uc9c0) (SEVENTEEN)) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
+  "description": "Is it your favorite oppa or dongsaeng? (Cover: THE BOYZ(\ub354 \ubcf4\uc774\uc988)) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
   "name": "Hallyu Boy Bands (\ud55c\ub958 \ubcf4\uc774 \ubc34\ub4dc)",
   "tracks": [
     {
@@ -5248,7 +5248,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 168026,
       "name": "If I\u2019m S, Can You Be My N?",
       "url": "https://open.spotify.com/track/2y8vRHEoz15sYDmxyrDePO"
@@ -5936,7 +5936,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 168106,
       "name": "LEGGO",
       "url": "https://open.spotify.com/track/0Etk5PtxW6m3zDYR9Eb7W2"
@@ -7270,7 +7270,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-08",
+      "date_removed": null,
       "duration_ms": 221341,
       "name": "Monster",
       "url": "https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ"
@@ -10440,7 +10440,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 197733,
       "name": "The Starry Night",
       "url": "https://open.spotify.com/track/0daiNZK6DTgP65O4mM3Iv1"
@@ -10808,7 +10808,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 203500,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/34j16cc8dbfSQBUDSp5tBG"
@@ -11130,6 +11130,24 @@
       "duration_ms": 179440,
       "name": "Vroom Vroom",
       "url": "https://open.spotify.com/track/0MHiMXXoCcgzZVk33HLWmL"
+    },
+    {
+      "album": {
+        "name": "Unexpected",
+        "url": "https://open.spotify.com/album/0gr6ALnqNZF1LwubTWP48V"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235493,
+      "name": "VVV",
+      "url": "https://open.spotify.com/track/1W6L8HNg31ufhNVuTmTsH3"
     },
     {
       "album": {

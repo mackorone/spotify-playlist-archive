@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 117 | [18](https://open.spotify.com/track/4QZeKxBpLwZjqS0CYSShc6) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [Just for the Times](https://open.spotify.com/album/751FUQcmvpQEinjZhTOLHH) | 3:20 |
 | 118 | [alone at the party](https://open.spotify.com/track/0YO7moiEboCUBDFf0hefSk) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [hi, my name is insecure.](https://open.spotify.com/album/0eMtRVx589kCihum41ixGw) | 2:08 |
 | 119 | [Porn Lied To Us](https://open.spotify.com/track/3pC29aMxTQQpcmqMfRWjce) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI) | 2:35 |
-| 120 | [Tattoo](https://open.spotify.com/track/1OMIzQJSMhJFivURRPSLlS) | [Balcony](https://open.spotify.com/artist/5Jk42C5fwPHCgpyOypW2G7) | [Tattoo](https://open.spotify.com/album/3jk5S4EsRyhUMwwm2vPu3m) | 2:39 |
-| 121 | [Abis](https://open.spotify.com/track/1e5mY88sxeyor4BlNAmHaF) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [MAZZA MEZE](https://open.spotify.com/album/5XTWmesPDcCw2EFS8L7Aul) | 3:13 |
+| 120 | [Abis](https://open.spotify.com/track/1e5mY88sxeyor4BlNAmHaF) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [MAZZA MEZE](https://open.spotify.com/album/5XTWmesPDcCw2EFS8L7Aul) | 3:13 |
+| 121 | [Tattoo](https://open.spotify.com/track/1OMIzQJSMhJFivURRPSLlS) | [Balcony](https://open.spotify.com/artist/5Jk42C5fwPHCgpyOypW2G7) | [Tattoo](https://open.spotify.com/album/3jk5S4EsRyhUMwwm2vPu3m) | 2:39 |
 | 122 | [Boring!](https://open.spotify.com/track/4gNq9nu09xtyJ0wzlBbbTN) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Boring!](https://open.spotify.com/album/3l08XOvlLr4osGTSXX8xeQ) | 2:38 |
 | 123 | [B Side](https://open.spotify.com/track/2XvH31W7YcpuucT8Whpysk) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [B Side](https://open.spotify.com/album/3CzHO9MqBDnDPBBBtUfdYE) | 3:06 |
 | 124 | [Dear Future Lover](https://open.spotify.com/track/4jxRhpP155IQej01WSLBfa) | [William Chan](https://open.spotify.com/artist/0lTHF5hgNUeMetVJEBWwvx) | [Dear Future Lover](https://open.spotify.com/album/6OGO9961SlvI3k0uVdwEL2) | 2:46 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 132 | [Machu Picchu](https://open.spotify.com/track/44Uo9mTbDfmpy2PTL3KuUD) | [kid ryan](https://open.spotify.com/artist/1ncjiTAfWX4ipmk1WMHeHL) | [Machu Picchu](https://open.spotify.com/album/5q6YYFkNQzffl1IYxgoD47) | 2:48 |
 | 133 | [The View](https://open.spotify.com/track/0038fnjL6UVsKq5jzV5QGm) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [The View](https://open.spotify.com/album/4y8f3Y73QLPyoqGTzAn9qG) | 2:59 |
 
-Snapshot ID: `AbsPXAAAAADsfe5aFE+7ikjoYl9eCRvt`
+Snapshot ID: `AbsU3gAAAAAEZZuWPNYu6OBjIM0DnEu8`

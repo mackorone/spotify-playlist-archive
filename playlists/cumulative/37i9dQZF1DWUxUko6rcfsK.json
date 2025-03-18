@@ -1523,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/2xpvAnyCde4Q20Q193vfgR"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167849,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/6layeClm9iQ1xOPYZ9zbJU"
+    },
+    {
+      "album": {
         "name": "Rocketship",
         "url": "https://open.spotify.com/album/4za3vqGRKS1vFTQAhYnLwQ"
       },
@@ -1650,7 +1668,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 167179,
       "name": "Something To Remember",
       "url": "https://open.spotify.com/track/2p8NCaU68YwlL8ZNnyLFxx"

@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Wegh x Keskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,390,866 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,390,875 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [HUQQA](https://open.spotify.com/track/3xZxb7EIcNyRmDc8ECaWTl) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [HUQQA](https://open.spotify.com/album/0N9DqfmAxbZreJlgf8eXiU) | 2:07 |
-| 2 | [Yanlışlarla Karşılaştım](https://open.spotify.com/track/1AL39PMHvgw979PFKiEOhb) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT), [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [Yanlışlarla Karşılaştım](https://open.spotify.com/album/4HSGfGY1KBz8xHYwSnja5K) | 2:06 |
-| 3 | [HMDL](https://open.spotify.com/track/4gB1ND5arP2TEb7ZYAUrdL) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm), [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Chiko](https://open.spotify.com/artist/7Hw13rFlmgIGSKEaEIDZhS) | [HMDL](https://open.spotify.com/album/6Hc0LHGmWgFHtLLPkALdom) | 3:47 |
+| 1 | [HMDL](https://open.spotify.com/track/4gB1ND5arP2TEb7ZYAUrdL) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm), [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Chiko](https://open.spotify.com/artist/7Hw13rFlmgIGSKEaEIDZhS) | [HMDL](https://open.spotify.com/album/6Hc0LHGmWgFHtLLPkALdom) | 3:47 |
+| 2 | [HUQQA](https://open.spotify.com/track/3xZxb7EIcNyRmDc8ECaWTl) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [HUQQA](https://open.spotify.com/album/0N9DqfmAxbZreJlgf8eXiU) | 2:07 |
+| 3 | [Yanlışlarla Karşılaştım](https://open.spotify.com/track/1AL39PMHvgw979PFKiEOhb) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT), [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [Yanlışlarla Karşılaştım](https://open.spotify.com/album/4HSGfGY1KBz8xHYwSnja5K) | 2:06 |
 | 4 | [ÇIKAR BİRİ KARŞIMA](https://open.spotify.com/track/1iOjOuccQP5gL52dQW8EqW) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [ÇIKAR BİRİ KARŞIMA](https://open.spotify.com/album/2IcwSsMjpDTD30sjGzAS4X) | 2:47 |
 | 5 | [kAHpE](https://open.spotify.com/track/1oOkZEqPrAQLpwBsiYKRl8) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [kAHpE](https://open.spotify.com/album/4LJKT3syN0IUiZY4PIz2EQ) | 2:21 |
 | 6 | [Ölmedim Ben](https://open.spotify.com/track/5XGsUaTVnP4SAwBmWTJ6Fz) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Ölmedim Ben](https://open.spotify.com/album/5BDPRMeOh1GLNAsQq9GvBu) | 2:49 |
 | 7 | [KARANLIK](https://open.spotify.com/track/7ndejYcYfmvkbImaXiYf9C) | [Yung Kafa & Kücük Efendi](https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jumpa](https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is) | [KARANLIK](https://open.spotify.com/album/3GvrN7SB3jMknEnFhhFTdU) | 2:54 |
-| 8 | [Mırrmırr](https://open.spotify.com/track/0y0Cpis5Eh9hL7VTgjxBEL) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Mırrmırr](https://open.spotify.com/album/1sBfOMc35HEQ4epGYWwR7n) | 2:58 |
-| 9 | [NEON](https://open.spotify.com/track/4DPjZs1Jjw5mQ41w0xt9KA) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [NEON](https://open.spotify.com/album/7GTNIfApsUZTP72J4r7Pv8) | 2:31 |
+| 8 | [NEON](https://open.spotify.com/track/4DPjZs1Jjw5mQ41w0xt9KA) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [NEON](https://open.spotify.com/album/7GTNIfApsUZTP72J4r7Pv8) | 2:31 |
+| 9 | [Mırrmırr](https://open.spotify.com/track/0y0Cpis5Eh9hL7VTgjxBEL) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Mırrmırr](https://open.spotify.com/album/1sBfOMc35HEQ4epGYWwR7n) | 2:58 |
 | 10 | [16\-24](https://open.spotify.com/track/09tHyS9ROJEhXHWj8NpYMi) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [16\-24](https://open.spotify.com/album/42RLYxey9xLOaESHzuCUfO) | 2:27 |
 | 11 | [SCOTTY](https://open.spotify.com/track/65X5tjYqkJVWm3lTHDGXLO) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [DUA](https://open.spotify.com/album/4Rz2dqNZqmLRZAMxCgj61w) | 3:01 |
 | 12 | [Arkanı Kolla](https://open.spotify.com/track/3EayIr4Q9e8aaH2hjOcuTi) | [Santi Aka Universe](https://open.spotify.com/artist/0MhdeWkIfF9vxxRrefOt8V), [Joker](https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr) | [Arkanı Kolla](https://open.spotify.com/album/0walqItasVwTgFApKXhBdb) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [LAF](https://open.spotify.com/track/7rHLpc3SZobYPDyBF06uok) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [LAF](https://open.spotify.com/album/0FGpFHP4yc7uWScjSHkx8O) | 2:06 |
 | 50 | [Kalbim Yanımda](https://open.spotify.com/track/5JklTqhlU2hHinghsTvlX5) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Kalbim Yanımda](https://open.spotify.com/album/7pGOdUPRuS3sMFo03YBl4o) | 2:46 |
 
-Snapshot ID: `Z9NHbgAAAABbZG3CaKB2qGrYN1GBrjnu`
+Snapshot ID: `Z9fwXgAAAAA5+0Z4SC3Z6oHtPRY55PVQ`

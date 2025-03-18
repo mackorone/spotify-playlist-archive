@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 152648,
+  "num_followers": 152730,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
-        "name": "Spellbound",
-        "url": "https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH"
-      },
-      "artists": [
-        {
-          "name": "Paula Abdul",
-          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
-        }
-      ],
-      "duration_ms": 292933,
-      "name": "Rush Rush",
-      "url": "https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
         "name": "That's The Way Of The World",
         "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 299333,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH"
+      },
+      "artists": [
+        {
+          "name": "Paula Abdul",
+          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
+        }
+      ],
+      "duration_ms": 292933,
+      "name": "Rush Rush",
+      "url": "https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC"
     },
     {
       "added_at": "2025-01-03 20:45:47",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
-        "name": "A Bit Of Soul",
-        "url": "https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "One Step Ahead",
-      "url": "https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
         "name": "3+3",
         "url": "https://open.spotify.com/album/27eI33obJuyKebMTxAJJam"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 371706,
       "name": "Summer Breeze, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/7wcP2Aa2SliFhwi4SyfvfV"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
+        "name": "A Bit Of Soul",
+        "url": "https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "One Step Ahead",
+      "url": "https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ"
     },
     {
       "added_at": "2025-01-03 20:45:47",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
-        "name": "Q's Jook Joint",
-        "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        },
-        {
-          "name": "Tamia",
-          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
-        }
-      ],
-      "duration_ms": 373266,
-      "name": "You Put A Move On My Heart",
-      "url": "https://open.spotify.com/track/1RjCsqiatsrQwQvqjecr30"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
         "name": "Silky Soul",
         "url": "https://open.spotify.com/album/2IO8mNFG4FS3sdVWUG3qGC"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 317026,
       "name": "Can't Get over You",
       "url": "https://open.spotify.com/track/0JoU0lwoMyWxGkljNJpJoM"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
+        "name": "Q's Jook Joint",
+        "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        }
+      ],
+      "duration_ms": 373266,
+      "name": "You Put A Move On My Heart",
+      "url": "https://open.spotify.com/track/1RjCsqiatsrQwQvqjecr30"
     },
     {
       "added_at": "2025-01-03 20:45:47",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
-        "name": "Straight From The Heart",
-        "url": "https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 190520,
-      "name": "Where There Is Love - Remastered",
-      "url": "https://open.spotify.com/track/1HWOX9Er7FnEm9yuM7bTtj"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
         "name": "The Love Songs Collection",
         "url": "https://open.spotify.com/album/2Q8dU9GQEeuZRfJ6gpietG"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 373893,
       "name": "For the Good Times",
       "url": "https://open.spotify.com/track/1lRcKtjXlqcemLvShWPK8C"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
+        "name": "Straight From The Heart",
+        "url": "https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 190520,
+      "name": "Where There Is Love - Remastered",
+      "url": "https://open.spotify.com/track/1HWOX9Er7FnEm9yuM7bTtj"
     },
     {
       "added_at": "2025-01-03 20:45:47",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-01-03 20:45:47",
       "album": {
-        "name": "Pizzazz",
-        "url": "https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 315440,
-      "name": "Settle For My Love",
-      "url": "https://open.spotify.com/track/4QCCDd71NAygvMG3CzVDjT"
-    },
-    {
-      "added_at": "2025-01-03 20:45:47",
-      "album": {
         "name": "Caravan of Love (Expanded Version)",
         "url": "https://open.spotify.com/album/523bPeVpOAl1NmtiDqQAQ7"
       },
@@ -1671,6 +1655,26 @@
       "duration_ms": 374920,
       "name": "Insatiable Woman - 12\" Version",
       "url": "https://open.spotify.com/track/005dZEnx7On15zBKACxlG7"
+    },
+    {
+      "added_at": "2025-01-03 20:45:47",
+      "album": {
+        "name": "Stompin' At The Savoy",
+        "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
+      },
+      "artists": [
+        {
+          "name": "Rufus",
+          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "Sweet Thing - Live Version",
+      "url": "https://open.spotify.com/track/0pri9hL20P6wbjUtVB0Stt"
     }
   ],
   "unique_name": "Melodia & Nostalgia",

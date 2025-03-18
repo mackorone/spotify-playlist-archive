@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-451 songs - 23 hr 4 min
+452 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,7 +351,7 @@
 | [Revolve](https://open.spotify.com/track/0X33Oo6yg2qlTsrFiH1qta) | [Sleepless Eye](https://open.spotify.com/artist/0q1jgFxjleKLegFYRiyPxS) | [Revolve](https://open.spotify.com/album/5x1eSN3IFw7QEbT9sm44w2) | 3:07 | 2022-01-12 | 2024-05-21 |
 | [Rugare](https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC) | [Tendai Marwan](https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD) | [Rugare](https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM) | 3:08 | 2023-02-09 |  |
 | [Rymdresa](https://open.spotify.com/track/1xbfnRa7qVtoLWqr0xDljM) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Rymdresa](https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad) | 2:34 | 2023-02-22 | 2024-11-22 |
-| [Safe Inside](https://open.spotify.com/track/6vM10Qv5vKNpLvfdg4N4j0) | [Deep Seek](https://open.spotify.com/artist/4ZfigssSXJtyPsGoUYLPZy) | [Somewhere Else](https://open.spotify.com/album/2sSpHzan1oxIJ4z94Ub4SX) | 3:28 | 2024-08-14 |  |
+| [Safe Inside](https://open.spotify.com/track/6vM10Qv5vKNpLvfdg4N4j0) | [Deep Seek](https://open.spotify.com/artist/4ZfigssSXJtyPsGoUYLPZy) | [Somewhere Else](https://open.spotify.com/album/2sSpHzan1oxIJ4z94Ub4SX) | 3:28 | 2024-08-14 | 2025-03-18 |
 | [Sailing](https://open.spotify.com/track/16xMPyMOeOR7WtJWVyb269) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Sailing](https://open.spotify.com/album/3UEXZf6uErx8aa7Um8XrZL) | 2:51 | 2025-01-21 |  |
 | [Saint](https://open.spotify.com/track/2aqrU3psl80GT2YMExm50Z) | [Lamb & Mountain](https://open.spotify.com/artist/2WMPnzmwca8VGFhFIDmXSJ) | [The Ambient Mind](https://open.spotify.com/album/3lltLkrl9MR1sdeDaR4OSv) | 2:48 | 2022-04-13 | 2023-07-29 |
 | [Saturno](https://open.spotify.com/track/0REl0m4yaSf1YJFFU5M3Q7) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Constelaciones](https://open.spotify.com/album/0f3JsS5uJrWYW8gINPLSe1) | 3:40 | 2022-01-19 | 2023-07-29 |
@@ -425,6 +425,7 @@
 | [Touches](https://open.spotify.com/track/6KzdWw8Hi1bz1lVw2AXDzb) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Touches](https://open.spotify.com/album/0gr42nFesHmvHP2rihBldP) | 2:24 | 2024-02-07 | 2024-08-15 |
 | [Tranquil Tides](https://open.spotify.com/track/1xPIxuVVQPLsgIsLdnyMVa) | [Kimelén Millán](https://open.spotify.com/artist/2CQGzEtHPtZbUvaMGZupQK) | [Tranquil Tides](https://open.spotify.com/album/0mtTouu7QDJosgzXo9nvFg) | 2:57 | 2024-05-04 |  |
 | [Tranquil Twilight](https://open.spotify.com/track/1r2H27I3r0rqCi4l2osIjc) | [Luminous Dreamer](https://open.spotify.com/artist/3uq69LjzFbJ2hoM4ZQ6X4U) | [Tranquil Twilight](https://open.spotify.com/album/1YoFs6VGUuqM6hc1AU0Ufd) | 3:07 | 2024-05-20 |  |
+| [Transcapes](https://open.spotify.com/track/7C3pUbqrdRAfY4SZ2jUyU5) | [Transformator](https://open.spotify.com/artist/5OkZS3lQjVTPo57alUdmHI) | [Transcapes](https://open.spotify.com/album/4Pt89Dbvuf4YvtxgupMYJo) | 3:19 | 2025-02-28 |  |
 | [Unendlich](https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V) | [Nils Schreiber](https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl) | [Ich Wünsche](https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA) | 2:59 | 2022-12-30 | 2025-01-22 |
 | [Unfolding](https://open.spotify.com/track/5lgb2a2KzgBsk1Dmv87dKL) | [Manolakas](https://open.spotify.com/artist/1I2mrOO7itWnvfrda514vi) | [Unfolding](https://open.spotify.com/album/0yOaKPEteOBVPdhpHs0Xs7) | 2:32 | 2024-03-06 | 2024-03-21 |
 | [Uqugella](https://open.spotify.com/track/1GC9GHrhIOKCnPDaSA4a8E) | [Higher Highs](https://open.spotify.com/artist/4b6guplHYPbkerTOAplBK8) | [Binaural Beats for Relaxation](https://open.spotify.com/album/3qxbSBbBsBWpCn7LO5I6TZ) | 3:18 | 2022-04-13 | 2022-04-21 |

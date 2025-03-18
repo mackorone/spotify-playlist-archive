@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-296 songs - 17 hr 50 min
+297 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Amazon Prime](https://open.spotify.com/track/7wuJLTnogk3Q5Iy3fW4Vrv) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p), [1st Born](https://open.spotify.com/artist/1KBcM1utBexIFa20pstSMb) | [Amazon Prime](https://open.spotify.com/album/3d1z6S3dXHKcarGfMh1VhA) | 2:40 | 2023-04-04 | 2023-12-22 |
 | [Annihilation](https://open.spotify.com/track/43auTkxJdUs3TRkMNJROYj) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [In Two Worlds](https://open.spotify.com/album/5oAPopKo0zZwdDdYtzqgu9) | 4:30 | 2022-04-15 | 2022-11-27 |
 | [Anything](https://open.spotify.com/track/165zMkyh2bVwtu8mAhdTTz) | [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC) | [Anything](https://open.spotify.com/album/6AT2jvuQd9G0qs02hbLpCy) | 4:43 | 2022-04-15 | 2023-08-14 |
-| [Anytime](https://open.spotify.com/track/23whPg6ma3qTOfKwgtvsv4) | [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Anytime](https://open.spotify.com/album/6hokp0VzU4epNFbI03Z943) | 2:03 | 2024-03-01 |  |
+| [Anytime](https://open.spotify.com/track/23whPg6ma3qTOfKwgtvsv4) | [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Anytime](https://open.spotify.com/album/6hokp0VzU4epNFbI03Z943) | 2:03 | 2024-03-01 | 2025-03-18 |
 | [Arctic \- Bushbaby Remix](https://open.spotify.com/track/1MkrUTYCWDl2wNzMFhfHiN) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl), [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Arctic \(Bushbaby Remix\)](https://open.spotify.com/album/6GjC305lPo3Q5ibsGafSLu) | 3:02 | 2025-02-28 |  |
 | [B22s](https://open.spotify.com/track/5LhxBJEa3bWhcrnyiF7qmv) | [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [B22s](https://open.spotify.com/album/5DdSHU4JHlD0d5Rk6Rhl8A) | 2:32 | 2023-08-10 | 2023-10-28 |
 | [Back](https://open.spotify.com/track/54qy9HFmqlgtngpatAAAPp) | [DubbleT](https://open.spotify.com/artist/0qFd9z9Shj28sgoLwKr0Af), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Back](https://open.spotify.com/album/4anFbEJ3IamNPrz66GJZpD) | 3:58 | 2022-07-14 | 2025-02-21 |
@@ -171,6 +171,7 @@
 | [Lights](https://open.spotify.com/track/0ObQeoS1Mka9as8t4Tn9BC) | [Jacko](https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia), [DEEPROT](https://open.spotify.com/artist/5lxAcm7Djoylav7TnkFTHC) | [Lights](https://open.spotify.com/album/7pnFfPujVx8j0atIcYV2sP) | 4:16 | 2022-06-10 | 2024-05-17 |
 | [Live And Direct](https://open.spotify.com/track/36xxmNRjLOJdQzVuNDPRJo) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [Live And Direct](https://open.spotify.com/album/3Y25vmDNLn0ByJPZIBi8Td) | 2:51 | 2023-10-28 |  |
 | [Live It Up](https://open.spotify.com/track/5ghFZ07jKDue7T8oPbh9nt) | [A.2.Z](https://open.spotify.com/artist/4DdL680AJQUH0N9KcewTdQ) | [Live It Up](https://open.spotify.com/album/23JOrfgEKJvYNrFCdSoTDw) | 4:00 | 2022-04-15 | 2022-10-08 |
+| [Local \- Full Vocal VIP](https://open.spotify.com/track/1pnuXk6jGbRdq9uVd0bcuR) | [Deekline](https://open.spotify.com/artist/1V9Bmg9gpcQDBfNZBQCWw7), [More Fire Crew](https://open.spotify.com/artist/5oZ8KfzPMkIanBdvY371cK), [Son of Sam \(UK\)](https://open.spotify.com/artist/5wgz9u9N0RWsspIHUKXz2D) | [Local \(Full Vocal VIP\)](https://open.spotify.com/album/0BCi6jk5L3PQlzMtqSy6jd) | 3:10 | 2025-03-14 |  |
 | [Locked On](https://open.spotify.com/track/6eEcExRelnLP9W7jj7Fdla) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Locked On](https://open.spotify.com/album/4KOyVupmPwP8Vze5htTpku) | 4:17 | 2023-12-01 | 2024-06-28 |
 | [Lose My Mind](https://open.spotify.com/track/1Nv1cCXJoI59N4ep7wZ3mw) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Lose My Mind](https://open.spotify.com/album/2QDNm8JYyT7eo6B9EVzrZc) | 3:41 | 2022-04-15 | 2023-05-19 |
 | [Lose My Mind](https://open.spotify.com/track/6KBLXJFOWh0vbBEfejbMW8) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Faith In Chaos](https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr) | 3:41 | 2023-04-04 | 2024-04-19 |

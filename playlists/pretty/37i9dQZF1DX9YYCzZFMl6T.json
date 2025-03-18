@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 4096,
+  "num_followers": 4101,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
+        "name": "White Winter Hymnal",
+        "url": "https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 150563,
+      "name": "White Winter Hymnal",
+      "url": "https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
         "name": "Kid On Christmas",
         "url": "https://open.spotify.com/album/70dq1feEPWzESCayzL0DMW"
       },
@@ -471,22 +487,6 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "White Winter Hymnal",
-        "url": "https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 150563,
-      "name": "White Winter Hymnal",
-      "url": "https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
         "name": "Christmas Tree in the Window",
         "url": "https://open.spotify.com/album/2rwOJbEi8XzqrNHPl705ES"
       },
@@ -499,26 +499,6 @@
       "duration_ms": 264000,
       "name": "Christmas Tree in the Window",
       "url": "https://open.spotify.com/track/0yvWyeKe1Og8DDprkEv8gS"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
-        "name": "Baby, It's Cold Outside",
-        "url": "https://open.spotify.com/album/5WbrnqJRqMSQETMrywPgW4"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        },
-        {
-          "name": "Maria Muldaur",
-          "url": "https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT"
-        }
-      ],
-      "duration_ms": 271186,
-      "name": "Baby, It's Cold Outside",
-      "url": "https://open.spotify.com/track/2QISYl5ymxANso2WIy7rCN"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -543,6 +523,26 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
+        "name": "Baby, It's Cold Outside",
+        "url": "https://open.spotify.com/album/5WbrnqJRqMSQETMrywPgW4"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Maria Muldaur",
+          "url": "https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT"
+        }
+      ],
+      "duration_ms": 271186,
+      "name": "Baby, It's Cold Outside",
+      "url": "https://open.spotify.com/track/2QISYl5ymxANso2WIy7rCN"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
         "name": "Auld Lang Syne",
         "url": "https://open.spotify.com/album/4s7sdpEGqvu2Ji7gjQ3c1Y"
       },
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "Christmas Grass - The Collection",
-        "url": "https://open.spotify.com/album/2D2t6OQacfD3XgKM2HlGOp"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 194960,
-      "name": "One Bright Star",
-      "url": "https://open.spotify.com/track/1AArIMr7UDV8HJ7kS50zP1"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
         "name": "Rockin' Around The Christmas Tree / Jingle Bell Rock",
         "url": "https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 143909,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
+        "name": "Christmas Grass - The Collection",
+        "url": "https://open.spotify.com/album/2D2t6OQacfD3XgKM2HlGOp"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 194960,
+      "name": "One Bright Star",
+      "url": "https://open.spotify.com/track/1AArIMr7UDV8HJ7kS50zP1"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "My Favorite Gifts - Christmas Album",
-        "url": "https://open.spotify.com/album/1vp1t3L2xcRoCz9HuFJSDN"
-      },
-      "artists": [
-        {
-          "name": "Jim Avett",
-          "url": "https://open.spotify.com/artist/1Pv7Pz9LKcQBJUDCgJHVwA"
-        }
-      ],
-      "duration_ms": 254866,
-      "name": "The Brightest Star",
-      "url": "https://open.spotify.com/track/40qglXyFrw1Nar0beLlzJQ"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
         "name": "Christmas in Prison",
         "url": "https://open.spotify.com/album/6nkGgQ0pw4m3houhqn17rG"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 212333,
       "name": "Christmas in Prison",
       "url": "https://open.spotify.com/track/6HsawLUXxIwjPjkxgYFUwx"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
+        "name": "My Favorite Gifts - Christmas Album",
+        "url": "https://open.spotify.com/album/1vp1t3L2xcRoCz9HuFJSDN"
+      },
+      "artists": [
+        {
+          "name": "Jim Avett",
+          "url": "https://open.spotify.com/artist/1Pv7Pz9LKcQBJUDCgJHVwA"
+        }
+      ],
+      "duration_ms": 254866,
+      "name": "The Brightest Star",
+      "url": "https://open.spotify.com/track/40qglXyFrw1Nar0beLlzJQ"
     },
     {
       "added_at": "2024-12-20 18:31:17",

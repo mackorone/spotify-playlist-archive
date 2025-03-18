@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-912 songs - 2 day 10 hr 6 min
+913 songs - 2 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -620,6 +620,7 @@
 | [Perfect](https://open.spotify.com/track/0tBK7YV0UMWiqc8UFd6eT4) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [R&G \(Rhythm & Gangsta\): The Masterpiece](https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp) | 5:50 | 2024-01-29 |  |
 | [Perfect Defect](https://open.spotify.com/track/6YVJJwg4BErTU7SdL7XdBR) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Nothing \(Deluxe Explicit Version\)](https://open.spotify.com/album/1yy1UWlWsmbOJzQmcHlMyx) | 3:42 | 2024-06-24 |  |
 | [Perpetual Nights](https://open.spotify.com/track/0pY8hAX9fQsssx20qX30n1) | [Maxine Ashley](https://open.spotify.com/artist/5fYyfkrYbHDQreGr7cUul0) | [Moodswings](https://open.spotify.com/album/04cbd1zXbQrOuXfsTPmUpt) | 3:32 | 2024-06-20 | 2024-06-22 |
+| [Pescadores de Ensenada](https://open.spotify.com/track/2FbGpWyPHVBFL9C35SGcMs) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Hermosísimo Lucero](https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT) | 3:20 | 2025-03-17 |  |
 | [Piece By Piece](https://open.spotify.com/track/2WAwqgBGJb4igeTF07n6OG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Princess Anne High School Fabulous Marching Cavaliers](https://open.spotify.com/artist/5gFwLXV3kxr7yckCFOCzLP) | [Piece By Piece \- Music from the Motion Picture](https://open.spotify.com/album/210rAUA5H4xH6S9J0aHRLE) | 2:53 | 2024-10-13 |  |
 | [Piece By Piece](https://open.spotify.com/track/34Eq9XKbBktHSP17Yft9Xf) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Princess Anne High School Fabulous Marching Cavaliers](https://open.spotify.com/artist/5gFwLXV3kxr7yckCFOCzLP) | [Piece By Piece](https://open.spotify.com/album/3RNrlAvXWiF75OZgBqpbQc) | 2:53 | 2024-10-12 | 2024-10-14 |
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2024-01-29 |  |

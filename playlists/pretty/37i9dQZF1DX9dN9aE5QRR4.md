@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 
 ### [Nouvelle École](https://open.spotify.com/playlist/37i9dQZF1DX9dN9aE5QRR4)
 
-> La playlist officielle de l'émission Nouvelle École, disponible sur Netflix.
+> Vote pour ton titre préféré sur la playlist <a href="spotify:playlist:37i9dQZF1FiZm6UIhFGfsY">Nouvelle Ecole \- Le Versus.</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,992 likes - 56 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,005 likes - 56 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 | 55 | [Finale \- Nouvelle École](https://open.spotify.com/track/46NCn1HZ054Wy0o6H86teM) | [Dau](https://open.spotify.com/artist/1UMnJFeGreEat6fHl5Ae1L), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Finale \- Nouvelle École](https://open.spotify.com/album/0di4KeDALleQK2iV3R2YyS) | 3:00 |
 | 56 | [Yafama \- Nouvelle École](https://open.spotify.com/track/2rd3kchMtUoVCP7S7a0Lxa) | [Yuz Boy](https://open.spotify.com/artist/0D02Za9zPwvLFkiRQoi6qH), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ), [Bassey Kone](https://open.spotify.com/artist/041XhEqeFNWddFXmAeAIPp) | [Yafama \- Nouvelle École](https://open.spotify.com/album/73HDVkRvYkm2ubCRYifWT4) | 3:34 |
 
-Snapshot ID: `Zwe5gQAAAAC5HvJDoXdMDNYR4y3ubnMc`
+Snapshot ID: `Z9geGAAAAACEN9b1VVp1MKNWC89Pj/Ld`

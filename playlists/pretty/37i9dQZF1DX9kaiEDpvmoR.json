@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92990,
+  "num_followers": 92997,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-03-13 23:00:34",
       "album": {
+        "name": "Satanized",
+        "url": "https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 236794,
+      "name": "Satanized",
+      "url": "https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT"
+    },
+    {
+      "added_at": "2025-03-13 23:00:34",
+      "album": {
         "name": "Now or Never (feat. Lauren Alaina)",
         "url": "https://open.spotify.com/album/5qBLAcf1q3O8bvsyrweWNy"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 174946,
       "name": "Now or Never (feat. Lauren Alaina)",
       "url": "https://open.spotify.com/track/6GvYbJ7A0iAnGYFReRMxSa"
-    },
-    {
-      "added_at": "2025-03-13 23:00:34",
-      "album": {
-        "name": "Satanized",
-        "url": "https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 236794,
-      "name": "Satanized",
-      "url": "https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT"
     },
     {
       "added_at": "2025-03-13 23:00:34",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-03-13 23:00:34",
       "album": {
-        "name": "Regnbl\u00f6ta skor",
-        "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 150733,
-      "name": "Regnbl\u00f6ta skor",
-      "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
-    },
-    {
-      "added_at": "2025-03-13 23:00:34",
-      "album": {
         "name": "Den jag kunde blivit - Den jag blev",
         "url": "https://open.spotify.com/album/7uXYOA68E1WQSfBuVpvGQC"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 164700,
       "name": "Isn\u2019t That Enough",
       "url": "https://open.spotify.com/track/4fbxssdJB51UuMQiYQFxiI"
+    },
+    {
+      "added_at": "2025-03-13 23:00:34",
+      "album": {
+        "name": "Regnbl\u00f6ta skor",
+        "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 150733,
+      "name": "Regnbl\u00f6ta skor",
+      "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
     },
     {
       "added_at": "2025-03-13 23:00:34",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-03-13 23:00:34",
       "album": {
-        "name": "Bastard",
-        "url": "https://open.spotify.com/album/6PLulYvcgXjXRHPKaaGoc5"
-      },
-      "artists": [
-        {
-          "name": "Markus Kruneg\u00e5rd",
-          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Lilla livet",
-      "url": "https://open.spotify.com/track/2eW6bbfXtfMG6I3CRb1QfV"
-    },
-    {
-      "added_at": "2025-03-13 23:00:34",
-      "album": {
         "name": "Samma saga",
         "url": "https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 213882,
       "name": "Samma saga",
       "url": "https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe"
+    },
+    {
+      "added_at": "2025-03-13 23:00:34",
+      "album": {
+        "name": "Bastard",
+        "url": "https://open.spotify.com/album/6PLulYvcgXjXRHPKaaGoc5"
+      },
+      "artists": [
+        {
+          "name": "Markus Kruneg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Lilla livet",
+      "url": "https://open.spotify.com/track/2eW6bbfXtfMG6I3CRb1QfV"
     },
     {
       "added_at": "2025-03-13 23:00:34",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-03-13 23:00:34",
       "album": {
-        "name": "Du lever bara en g\u00e5ng",
-        "url": "https://open.spotify.com/album/3uTHyiH9oRSibuPZeryfjp"
-      },
-      "artists": [
-        {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
-        }
-      ],
-      "duration_ms": 184973,
-      "name": "Du lever bara en g\u00e5ng",
-      "url": "https://open.spotify.com/track/4XeAYorvujNce5c46bMCHw"
-    },
-    {
-      "added_at": "2025-03-13 23:00:34",
-      "album": {
         "name": "The Game",
         "url": "https://open.spotify.com/album/0wDTzzSQn1xqZvbmpZml0t"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 208592,
       "name": "The Game",
       "url": "https://open.spotify.com/track/4pEcoiN93VmnYF45qYoPrW"
+    },
+    {
+      "added_at": "2025-03-13 23:00:34",
+      "album": {
+        "name": "Du lever bara en g\u00e5ng",
+        "url": "https://open.spotify.com/album/3uTHyiH9oRSibuPZeryfjp"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "duration_ms": 184973,
+      "name": "Du lever bara en g\u00e5ng",
+      "url": "https://open.spotify.com/track/4XeAYorvujNce5c46bMCHw"
     },
     {
       "added_at": "2025-03-13 23:00:34",
@@ -955,6 +955,22 @@
     {
       "added_at": "2025-03-13 23:00:34",
       "album": {
+        "name": "Living Comes With Dying",
+        "url": "https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb"
+      },
+      "artists": [
+        {
+          "name": "sixten",
+          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
+        }
+      ],
+      "duration_ms": 186920,
+      "name": "Living Comes With Dying",
+      "url": "https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk"
+    },
+    {
+      "added_at": "2025-03-13 23:00:34",
+      "album": {
         "name": "Nyper mig i armen",
         "url": "https://open.spotify.com/album/464ROmnFOPiaEp2UbKRk09"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 195000,
       "name": "Nyper mig i armen",
       "url": "https://open.spotify.com/track/2ZyaNqLNxfJcCacEb9jVoT"
-    },
-    {
-      "added_at": "2025-03-13 23:00:34",
-      "album": {
-        "name": "Living Comes With Dying",
-        "url": "https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb"
-      },
-      "artists": [
-        {
-          "name": "sixten",
-          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
-        }
-      ],
-      "duration_ms": 186920,
-      "name": "Living Comes With Dying",
-      "url": "https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk"
     },
     {
       "added_at": "2025-03-13 23:00:34",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2025-03-13 23:00:34",
       "album": {
+        "name": "Discomforts",
+        "url": "https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 168497,
+      "name": "If You Ever Change Your Mind",
+      "url": "https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI"
+    },
+    {
+      "added_at": "2025-03-13 23:00:34",
+      "album": {
         "name": "Where Flowers Grow",
         "url": "https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm"
       },
@@ -1051,6 +1067,22 @@
       "duration_ms": 198000,
       "name": "Skin and Bones",
       "url": "https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU"
+    },
+    {
+      "added_at": "2025-03-13 23:00:34",
+      "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre 2024 (Tolkningarna)",
+        "url": "https://open.spotify.com/album/5MW11hiXsVTNA6gGekn8Dq"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 237561,
+      "name": "Jag vill tacka livet",
+      "url": "https://open.spotify.com/track/7bgXaQmsifJMTDk80rNd5U"
     },
     {
       "added_at": "2025-03-13 23:00:34",
@@ -1075,22 +1107,6 @@
     {
       "added_at": "2025-03-13 23:00:34",
       "album": {
-        "name": "S\u00e5 mycket b\u00e4ttre 2024 (Tolkningarna)",
-        "url": "https://open.spotify.com/album/5MW11hiXsVTNA6gGekn8Dq"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 237561,
-      "name": "Jag vill tacka livet",
-      "url": "https://open.spotify.com/track/7bgXaQmsifJMTDk80rNd5U"
-    },
-    {
-      "added_at": "2025-03-13 23:00:34",
-      "album": {
         "name": "Psalmer fr\u00e5n sjunde himlen",
         "url": "https://open.spotify.com/album/6iIazQb3uCv1TWY19GXVkA"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 178826,
       "name": "Hit men inte l\u00e4ngre",
       "url": "https://open.spotify.com/track/5VgF2ApYmDexlTEUALQCLp"
-    },
-    {
-      "added_at": "2025-03-13 23:00:34",
-      "album": {
-        "name": "Discomforts",
-        "url": "https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 168497,
-      "name": "If You Ever Change Your Mind",
-      "url": "https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI"
     },
     {
       "added_at": "2025-03-13 23:00:34",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-03-13 23:00:34",
       "album": {
-        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
-        "url": "https://open.spotify.com/album/1X1iav9zPw3e550HJ0B98C"
-      },
-      "artists": [
-        {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
-        }
-      ],
-      "duration_ms": 184493,
-      "name": "En kv\u00e4ll i tunnelbanan",
-      "url": "https://open.spotify.com/track/4R0cQO0CWatHVI6LlXs7l7"
-    },
-    {
-      "added_at": "2025-03-13 23:00:34",
-      "album": {
         "name": "Worthy",
         "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 208651,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
+    },
+    {
+      "added_at": "2025-03-13 23:00:34",
+      "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
+        "url": "https://open.spotify.com/album/1X1iav9zPw3e550HJ0B98C"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "duration_ms": 184493,
+      "name": "En kv\u00e4ll i tunnelbanan",
+      "url": "https://open.spotify.com/track/4R0cQO0CWatHVI6LlXs7l7"
     },
     {
       "added_at": "2025-03-13 23:00:34",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2025-03-13 23:00:34",
       "album": {
+        "name": "WILDSIDE",
+        "url": "https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "WILDSIDE",
+      "url": "https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB"
+    },
+    {
+      "added_at": "2025-03-13 23:00:34",
+      "album": {
         "name": "Ljusare moln",
         "url": "https://open.spotify.com/album/4vcTwhMZ0INwetdSlTHWWt"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 238000,
       "name": "Ljusare moln",
       "url": "https://open.spotify.com/track/2TvvVfjKB66mdJYI7CCXXA"
-    },
-    {
-      "added_at": "2025-03-13 23:00:34",
-      "album": {
-        "name": "WILDSIDE",
-        "url": "https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "WILDSIDE",
-      "url": "https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB"
     },
     {
       "added_at": "2025-03-13 23:00:34",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-03-13 23:00:34",
       "album": {
-        "name": "Portrait",
-        "url": "https://open.spotify.com/album/7sH4icMotSET9zBcbR5Gz4"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 346133,
-      "name": "No More Blues",
-      "url": "https://open.spotify.com/track/1Y8FFe5ZLw3k002uBeXQJU"
-    },
-    {
-      "added_at": "2025-03-13 23:00:34",
-      "album": {
         "name": "Whiskey Tears II",
         "url": "https://open.spotify.com/album/7HUXMttweSAC9mzBUtDIu2"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 176026,
       "name": "Whiskey Tears II",
       "url": "https://open.spotify.com/track/2mbUnUhOkGnFfSE6uW8kl2"
+    },
+    {
+      "added_at": "2025-03-13 23:00:34",
+      "album": {
+        "name": "Portrait",
+        "url": "https://open.spotify.com/album/7sH4icMotSET9zBcbR5Gz4"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 346133,
+      "name": "No More Blues",
+      "url": "https://open.spotify.com/track/1Y8FFe5ZLw3k002uBeXQJU"
     },
     {
       "added_at": "2025-03-13 23:00:34",
@@ -1403,6 +1403,38 @@
       "duration_ms": 281776,
       "name": "Hem till Dalarna",
       "url": "https://open.spotify.com/track/0WxY13xpXXt7f3zeUJRo0D"
+    },
+    {
+      "added_at": "2025-03-13 23:00:34",
+      "album": {
+        "name": "Via Dolorosa",
+        "url": "https://open.spotify.com/album/1n5WdaQJKAG8NTUq2M8d0f"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 276400,
+      "name": "Via Dolorosa",
+      "url": "https://open.spotify.com/track/2LEyM4qnfKydqSjV90OvZY"
+    },
+    {
+      "added_at": "2025-03-13 23:00:34",
+      "album": {
+        "name": "Stockholm",
+        "url": "https://open.spotify.com/album/1NXar6bRMnXksRvgKAM1GH"
+      },
+      "artists": [
+        {
+          "name": "Annika Wickihalder",
+          "url": "https://open.spotify.com/artist/6GmRbmLWorahORMpb3T7of"
+        }
+      ],
+      "duration_ms": 172333,
+      "name": "Stockholm",
+      "url": "https://open.spotify.com/track/4K6UHA21e8KDpp31rKixEV"
     },
     {
       "added_at": "2025-03-13 23:00:34",
@@ -1455,38 +1487,6 @@
       "duration_ms": 165333,
       "name": "Upp med hakan",
       "url": "https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM"
-    },
-    {
-      "added_at": "2025-03-13 23:00:34",
-      "album": {
-        "name": "Badass High School Band",
-        "url": "https://open.spotify.com/album/5wNBPhKhVXv1yOLB1mFxC4"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 234966,
-      "name": "Badass High School Band",
-      "url": "https://open.spotify.com/track/7CnkuNF0MUZ72hOJOd2KLG"
-    },
-    {
-      "added_at": "2025-03-13 23:00:34",
-      "album": {
-        "name": "Stockholm",
-        "url": "https://open.spotify.com/album/1NXar6bRMnXksRvgKAM1GH"
-      },
-      "artists": [
-        {
-          "name": "Annika Wickihalder",
-          "url": "https://open.spotify.com/artist/6GmRbmLWorahORMpb3T7of"
-        }
-      ],
-      "duration_ms": 172333,
-      "name": "Stockholm",
-      "url": "https://open.spotify.com/track/4K6UHA21e8KDpp31rKixEV"
     }
   ],
   "unique_name": "Aktuellt",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Murda Beatz, Rich The Kid\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,945 likes - 99 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,949 likes - 99 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [POP OUT](https://open.spotify.com/track/3j3SfV4hAcR4XjCvW393Gr) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:41 |
-| 2 | [EFFORTLESS \(feat\. Jay Park, GroovyRoom\)](https://open.spotify.com/track/6RLTUqLjJBvqfYksqPBxCu) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [GROOVYROOM](https://open.spotify.com/artist/1EZhXPedZ7Fc4grCSJTvIZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SWIRL](https://open.spotify.com/album/23do2zirGkCiF6ZMtVYk3T) | 3:01 |
+| 2 | [EFFORTLESS \(feat\. Jay Park\) \[Prod\. by GroovyRoom\]](https://open.spotify.com/track/6RLTUqLjJBvqfYksqPBxCu) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SWIRL](https://open.spotify.com/album/23do2zirGkCiF6ZMtVYk3T) | 3:00 |
 | 3 | [permission slip](https://open.spotify.com/track/2ZZi9yZmMk2AFLRPx3HpaA) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [permission slip](https://open.spotify.com/album/7K2VuX3Wcz2rZiOBn1K39y) | 2:53 |
 | 4 | [CUT THE LIGHTS.](https://open.spotify.com/track/0bYHcx3rUfV6SPKgVjJAGb) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [CUT THE LIGHTS.](https://open.spotify.com/album/5lEBtUY6STndUFxf2odnzn) | 2:44 |
 | 5 | [Wake Em Up](https://open.spotify.com/track/3LXRevaRWpJajAVKhgzvrd) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Wake Em Up](https://open.spotify.com/album/0PdmRhlaO6JuOcsWLVjPaK) | 2:09 |

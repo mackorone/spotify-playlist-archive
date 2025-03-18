@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 280596,
+  "num_followers": 280598,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9TDAAAAAABUteqEYs060XE3vOPCMzZp",
+  "snapshot_id": "Z9YUgAAAAAAKfgJcmw4kltpkSUc820PL",
   "tracks": [
     {
       "added_at": null,
@@ -1007,30 +1007,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFTER",
-        "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
+        "name": "AmarElo - Ao Vivo",
+        "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
       },
       "artists": [
         {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        },
+        {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "DJ RaMeMes (O DESTRUIDOR DO FUNK)",
-          "url": "https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3"
-        },
-        {
-          "name": "DJ Tonias",
-          "url": "https://open.spotify.com/artist/6R9FiidHLdoF8vJLIsnjub"
         }
       ],
-      "duration_ms": 179995,
-      "name": "Calma Amiga (feat. Anitta) - Dj RaMeMes (O DESTRUIDOR DO FUNK) & DJ Tonias Extended Mix",
-      "url": "https://open.spotify.com/track/3TRIwk9p4ACUJwTxs8SqWQ"
+      "duration_ms": 338250,
+      "name": "AmarElo (Sample: Sujeito de Sorte - Belchior) - Ao Vivo",
+      "url": "https://open.spotify.com/track/7EMNOr4AZYSpSSkc8pGtzI"
     }
   ],
   "unique_name": "This Is Pabllo Vittar",

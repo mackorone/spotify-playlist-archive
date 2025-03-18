@@ -4,7 +4,7 @@
 
 > Top Sharqi hits right now\. Cover: AL SHAMI
 
-186 songs - 10 hr 52 min
+187 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,8 +29,9 @@
 | [Ana Wein](https://open.spotify.com/track/5FUkSeyQJaH4kZ8frwvKYo) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Ana Wein](https://open.spotify.com/album/4ahaqIfKhv72tl8TxDzjHt) | 3:52 | 2023-05-05 | 2023-06-14 |
 | [Ana Weyak](https://open.spotify.com/track/1EKrYEbzcAFz3s5Vkb4yQz) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Ana Weyak](https://open.spotify.com/album/2jmEslJVrYeCBlFcbDS9Um) | 3:22 | 2022-05-04 | 2022-06-21 |
 | [Ann Alawan](https://open.spotify.com/track/2xVKEPd40xSs0LJbr6SNYa) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Ann Alawan](https://open.spotify.com/album/6COdyb4CSsqAvdvQGcOPMg) | 3:45 | 2022-05-04 | 2023-03-14 |
-| [Arbi Alaay](https://open.spotify.com/track/3GJTOLmsbqTpuQ1sLSxaYX) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Arbi Alaay](https://open.spotify.com/album/7cZ2lXO2x0odXvcd5EcAcn) | 3:00 | 2023-06-28 |  |
+| [Arbi Alaay](https://open.spotify.com/track/3GJTOLmsbqTpuQ1sLSxaYX) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Arbi Alaay](https://open.spotify.com/album/7cZ2lXO2x0odXvcd5EcAcn) | 3:00 | 2023-06-28 | 2025-03-18 |
 | [Ashani \- عشاني](https://open.spotify.com/track/1xXXbPSAXe6LPr6tWqvIvT) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Ashani \(عشاني\)](https://open.spotify.com/album/006QFhahdQs7JruC5wZtdj) | 3:33 | 2022-06-20 | 2023-06-28 |
+| [Asli Ana](https://open.spotify.com/track/0eqH5SceGkvfbxDXu7KaNZ) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [7arrir 3aqlak / Asli Ana](https://open.spotify.com/album/1JDKhvGNRFZSPXm1uVzTME) | 2:51 | 2025-03-17 |  |
 | [Atyab Qalb](https://open.spotify.com/track/0h1vwIUblTT3Ue9K2UE36f) | [Ahmad Zmaili](https://open.spotify.com/artist/4ocVQVhOCz7s01n7K6xmrq) | [Atyab Qalb](https://open.spotify.com/album/1CwNkOTza2CTdPQIh5uMeV) | 3:59 | 2023-05-05 | 2024-07-18 |
 | [Aw'at](https://open.spotify.com/track/2cjs0pwhhX9wZhJQ5llkoY) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Aw'at](https://open.spotify.com/album/1aNKF3LKw8wW65AWg9LRAX) | 3:41 | 2022-05-04 | 2022-07-17 |
 | [Awal Wahed \- أول واحد](https://open.spotify.com/track/3TRMyTLIbscI2U38QFU6FE) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Awal Wahed \(أول واحد\)](https://open.spotify.com/album/632lr49KgwwQXhV1dg6aeF) | 3:49 | 2022-06-20 | 2022-06-22 |

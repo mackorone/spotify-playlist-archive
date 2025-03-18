@@ -1,6 +1,6 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos.",
-  "num_followers": 1144783,
+  "num_followers": 1144766,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "La Era De La Boludez",
-        "url": "https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 313733,
-      "name": "\u00bfQu\u00e9 Ves?",
-      "url": "https://open.spotify.com/track/0aad6vDkOmu9d1aFNvOwYC"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Alta Suciedad",
         "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 264840,
       "name": "Cr\u00edmenes perfectos",
       "url": "https://open.spotify.com/track/6guoJhM9n5Fm7npXJ1rfsM"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "La Era De La Boludez",
+        "url": "https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 313733,
+      "name": "\u00bfQu\u00e9 Ves?",
+      "url": "https://open.spotify.com/track/0aad6vDkOmu9d1aFNvOwYC"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Infame",
-        "url": "https://open.spotify.com/album/5chAuifdjaRoIqlnG4Lbun"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 160280,
-      "name": "Irresponsables",
-      "url": "https://open.spotify.com/track/6d4d6cwiAf59mKxoRmXQoK"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Solo Se Trata de Vivir / Solopiano Vol. 1",
         "url": "https://open.spotify.com/album/1qGJPF96mr8TReD46byqez"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 258403,
       "name": "Solo Se Trata de Vivir",
       "url": "https://open.spotify.com/track/4vKvCed2EoxBl4DFSqSUH8"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Infame",
+        "url": "https://open.spotify.com/album/5chAuifdjaRoIqlnG4Lbun"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 160280,
+      "name": "Irresponsables",
+      "url": "https://open.spotify.com/track/6d4d6cwiAf59mKxoRmXQoK"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Obras Cumbres",
-        "url": "https://open.spotify.com/album/4PJLMwI0oUtDRTT8auZoaP"
+        "name": "Piano Bar",
+        "url": "https://open.spotify.com/album/2ATdTlBlalJD2fbQvCpLvL"
       },
       "artists": [
         {
-          "name": "Sumo",
-          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
         }
       ],
-      "duration_ms": 195573,
-      "name": "Los Viejos Vinagres",
-      "url": "https://open.spotify.com/track/1im6qBIKkKI74toy5Htaur"
+      "duration_ms": 135853,
+      "name": "Demoliendo Hoteles",
+      "url": "https://open.spotify.com/track/0CZ1zfFjhjixiBKB8kbCdt"
     }
   ],
   "unique_name": "Iconos del Rock Argentino",

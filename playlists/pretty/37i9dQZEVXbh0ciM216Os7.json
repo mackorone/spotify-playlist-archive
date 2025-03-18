@@ -6,8 +6,28 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACZrTlSsA1TL3sphgboSgPf",
+  "snapshot_id": "AAAAAAAAAACYP84BEOqOiI3cvl1cKLje",
   "tracks": [
+    {
+      "added_at": "2025-03-14 04:00:00",
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "GOOD CREDIT (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok"
+    },
     {
       "added_at": "2025-03-14 04:00:00",
       "album": {
@@ -23,6 +43,22 @@
       "duration_ms": 177586,
       "name": "The Big One",
       "url": "https://open.spotify.com/track/7DU7p7DXcOOfJMkDzeDSGU"
+    },
+    {
+      "added_at": "2025-03-14 04:00:00",
+      "album": {
+        "name": "Familiar",
+        "url": "https://open.spotify.com/album/2DDhjNTlNh2tkhxwIfgrY5"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 107563,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR"
     },
     {
       "added_at": "2025-03-14 04:00:00",
@@ -95,6 +131,22 @@
     {
       "added_at": "2025-03-14 04:00:00",
       "album": {
+        "name": "OXYGENE (from \"ASH\" Soundtrack)",
+        "url": "https://open.spotify.com/album/08EGCVDnFaO6RXMIpBMCKV"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "duration_ms": 93973,
+      "name": "OXYGENE (from \"ASH\" Soundtrack)",
+      "url": "https://open.spotify.com/track/3HI6iFB3mBxqvsrcgXQhBl"
+    },
+    {
+      "added_at": "2025-03-14 04:00:00",
+      "album": {
         "name": "Soul Survivorz",
         "url": "https://open.spotify.com/album/3MXI2R044MrBGFvvQvkmoF"
       },
@@ -127,38 +179,6 @@
     {
       "added_at": "2025-03-14 04:00:00",
       "album": {
-        "name": "OXYGENE (from \"ASH\" Soundtrack)",
-        "url": "https://open.spotify.com/album/08EGCVDnFaO6RXMIpBMCKV"
-      },
-      "artists": [
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        }
-      ],
-      "duration_ms": 93973,
-      "name": "OXYGENE (from \"ASH\" Soundtrack)",
-      "url": "https://open.spotify.com/track/3HI6iFB3mBxqvsrcgXQhBl"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
-        "name": "Familiar",
-        "url": "https://open.spotify.com/album/2DDhjNTlNh2tkhxwIfgrY5"
-      },
-      "artists": [
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 107563,
-      "name": "Familiar",
-      "url": "https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
         "name": "The Official FIFA World Cup 26\u2122\ufe0f Host City Themes",
         "url": "https://open.spotify.com/album/7L9SGRLWcvS9BdWs2fRPE7"
       },
@@ -175,30 +195,6 @@
       "duration_ms": 121844,
       "name": "Kansas City Theme x FIFA World Cup 26\u2122\ufe0f by Tech N9ne",
       "url": "https://open.spotify.com/track/1QiTUbglKQeJvOsOqvigHY"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
-        "name": "MUSIC",
-        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 190053,
-      "name": "BACKD00R (feat. Kendrick Lamar & Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg"
     },
     {
       "added_at": "2025-03-14 04:00:00",
@@ -235,6 +231,22 @@
     {
       "added_at": "2025-03-14 04:00:00",
       "album": {
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 218660,
+      "name": "Sally, When The Wine Runs Out",
+      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
+    },
+    {
+      "added_at": "2025-03-14 04:00:00",
+      "album": {
         "name": "Bleed (feat. Omar Apollo)",
         "url": "https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk"
       },
@@ -251,22 +263,6 @@
       "duration_ms": 179373,
       "name": "Bleed (feat. Omar Apollo)",
       "url": "https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
-        "name": "Kansas Anymore (The Longest Goodbye)",
-        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 218660,
-      "name": "Sally, When The Wine Runs Out",
-      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
     },
     {
       "added_at": "2025-03-14 04:00:00",
@@ -447,6 +443,22 @@
     {
       "added_at": "2025-03-14 04:00:00",
       "album": {
+        "name": "Worm in the Sun",
+        "url": "https://open.spotify.com/album/3SxhtkvIvcKOchlKgJ4aBN"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "duration_ms": 161240,
+      "name": "Worm in the Sun",
+      "url": "https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY"
+    },
+    {
+      "added_at": "2025-03-14 04:00:00",
+      "album": {
         "name": "BENT",
         "url": "https://open.spotify.com/album/2oj24prkNRyDJQtkVlmWux"
       },
@@ -467,22 +479,6 @@
     {
       "added_at": "2025-03-14 04:00:00",
       "album": {
-        "name": "Worm in the Sun",
-        "url": "https://open.spotify.com/album/3SxhtkvIvcKOchlKgJ4aBN"
-      },
-      "artists": [
-        {
-          "name": "ALEXSUCKS",
-          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
-        }
-      ],
-      "duration_ms": 161240,
-      "name": "Worm in the Sun",
-      "url": "https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
         "name": "Dragon Season... Equinox",
         "url": "https://open.spotify.com/album/52rPoXrmxR3JaAw9igvBqG"
       },
@@ -499,26 +495,6 @@
       "duration_ms": 188187,
       "name": "I Won't Lie Down",
       "url": "https://open.spotify.com/track/5U8aJm4YSFYSIXGDm8zMK1"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/2E1HeJfESK2AmxBkQlaQaZ"
-      },
-      "artists": [
-        {
-          "name": "Smif-N-Wessun",
-          "url": "https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0"
-        },
-        {
-          "name": "Pharoahe Monch",
-          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
-        }
-      ],
-      "duration_ms": 217664,
-      "name": "Medina",
-      "url": "https://open.spotify.com/track/7nUBKamt1V6mCMjVa9750z"
     },
     {
       "added_at": "2025-03-14 04:00:00",
@@ -547,6 +523,26 @@
       "duration_ms": 361013,
       "name": "Szechuan Capital - Dusted",
       "url": "https://open.spotify.com/track/3d1de8PnOJYTwMOWanQKoY"
+    },
+    {
+      "added_at": "2025-03-14 04:00:00",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/2E1HeJfESK2AmxBkQlaQaZ"
+      },
+      "artists": [
+        {
+          "name": "Smif-N-Wessun",
+          "url": "https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0"
+        },
+        {
+          "name": "Pharoahe Monch",
+          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+        }
+      ],
+      "duration_ms": 217664,
+      "name": "Medina",
+      "url": "https://open.spotify.com/track/7nUBKamt1V6mCMjVa9750z"
     },
     {
       "added_at": "2025-03-14 04:00:00",
@@ -591,34 +587,6 @@
     {
       "added_at": "2025-03-14 04:00:00",
       "album": {
-        "name": "Shostakovich: Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
-        "url": "https://open.spotify.com/album/5yI5jBtWF01weyuXH22Rfm"
-      },
-      "artists": [
-        {
-          "name": "Dmitri Shostakovich",
-          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Boston Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
-        },
-        {
-          "name": "Andris Nelsons",
-          "url": "https://open.spotify.com/artist/6fkV4LaygxybcMjo4cJLrI"
-        }
-      ],
-      "duration_ms": 395986,
-      "name": "Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
-      "url": "https://open.spotify.com/track/4dLVUG0RvDi1DmwWr48UcP"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
         "name": "Richard Russell Is Temporary",
         "url": "https://open.spotify.com/album/3y3KthMNEjQHXmArvK7dyV"
       },
@@ -643,6 +611,34 @@
       "duration_ms": 289630,
       "name": "The Meadows",
       "url": "https://open.spotify.com/track/6Xn78aRtXmwi1kdZPK0UES"
+    },
+    {
+      "added_at": "2025-03-14 04:00:00",
+      "album": {
+        "name": "Shostakovich: Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
+        "url": "https://open.spotify.com/album/5yI5jBtWF01weyuXH22Rfm"
+      },
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+        },
+        {
+          "name": "Andris Nelsons",
+          "url": "https://open.spotify.com/artist/6fkV4LaygxybcMjo4cJLrI"
+        }
+      ],
+      "duration_ms": 395986,
+      "name": "Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
+      "url": "https://open.spotify.com/track/4dLVUG0RvDi1DmwWr48UcP"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

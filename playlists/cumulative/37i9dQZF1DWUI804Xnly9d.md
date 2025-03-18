@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-502 songs - 1 day 4 hr 13 min
+503 songs - 1 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Jhoothi Chai](https://open.spotify.com/track/5ISTUCwZ9SzLgoY0wdwYLN) | [Meiyang Chang](https://open.spotify.com/artist/4kil03O4zZQwIsvj3SGCxH) | [Jhoothi Chai](https://open.spotify.com/album/2MzAQ0GKFGqTBB2Y7lOB7o) | 2:56 | 2023-09-20 | 2023-11-25 |
 | [Jo Tum Mere Ho](https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Jo Tum Mere Ho](https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW) | 4:11 | 2024-08-02 |  |
 | [Juda nehi hu](https://open.spotify.com/track/7J24bbx5NFY0mSQb0POBg6) | [Himpol Kalita](https://open.spotify.com/artist/5dTQOtRKiAdus7MuKqE83b) | [Juda nehi hu](https://open.spotify.com/album/1dNlr4Afpv1rwqOoDGg1I7) | 2:29 | 2024-09-03 | 2025-02-14 |
+| [Kaagaz Ke Phool](https://open.spotify.com/track/6doiO8LvoZLTfNg2TekxSZ) | [Mohnissh Zzade](https://open.spotify.com/artist/0vk40I5yG2WaD0nNy7IM4H) | [Kaagaz Ke Phool](https://open.spotify.com/album/4CsrGLeMjPrnjuIXqAOxUG) | 4:07 | 2025-03-17 |  |
 | [Kaash \(Mehfil Unplugged\)](https://open.spotify.com/track/2jeqpd4ASuRT4Ou5BxYekz) | [Nikhil Kotibhaskar](https://open.spotify.com/artist/7egL4IzmCXgj9AGCfnVBHx) | [Kaash \(Mehfil Unplugged\)](https://open.spotify.com/album/4Ey1RYnacQgSF1DKNGqREu) | 2:36 | 2024-04-15 | 2024-04-30 |
 | [Kaayar](https://open.spotify.com/track/6cbxJhOuZWDP8kEeM6QWYe) | [Khatth](https://open.spotify.com/artist/25z03NEKPCRRfHVBCsgOiY) | [Kaayar](https://open.spotify.com/album/3nuufuEPeDjesdwC7AqzNQ) | 2:14 | 2023-09-26 | 2024-02-03 |
 | [Kabhi Kabhi](https://open.spotify.com/track/1t3ypW6DYHtxdvR5lPWn8f) | [pho](https://open.spotify.com/artist/0eAgLEZjRTeUe2UqQhH9YC), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [Kabhi Kabhi](https://open.spotify.com/album/1QWMabbCgjaO8o7fqgeD3w) | 3:18 | 2024-04-19 | 2024-05-28 |
@@ -250,7 +251,7 @@
 | [Khwabon Ka Dariya](https://open.spotify.com/track/3zlMPdTbCRe5oQCKSkAm5f) | [Ragini Mahajan](https://open.spotify.com/artist/5PA77jWAXN6D1xZ2fcCWpJ) | [Khwabon Ka Dariya](https://open.spotify.com/album/70c87Cv0oWVdFigVmhztIu) | 2:12 | 2024-01-19 | 2024-02-14 |
 | [Khwabon Ke Rang \- Unplugged](https://open.spotify.com/track/6efy1N25gcAPybVUkYRCGK) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Khwabon Ke Rang \(Unplugged\)](https://open.spotify.com/album/5LXwwsipVjbLLrDjsMrSmW) | 1:40 | 2024-03-31 | 2024-04-16 |
 | [Khwaish](https://open.spotify.com/track/6wC3qTwNrty90JM9WXP0K6) | [Arshit](https://open.spotify.com/artist/224EYKBELbeX1n7R5fxnjP), [Luvdeep Saini Aka LDS](https://open.spotify.com/artist/09IBw62SGjjIOhl47qfnHs), [Sahil Randhawa](https://open.spotify.com/artist/47BLm9E1Q3mqdmzmqOvoU9) | [Khwaish](https://open.spotify.com/album/0QKrdsQcRuGXhqUIeIGfFs) | 3:46 | 2023-06-02 | 2023-07-08 |
-| [Khwaishein](https://open.spotify.com/track/5395Uz3H0nABxiJ3p5oNen) | [Shallum Lama](https://open.spotify.com/artist/4ufyGQgkJxP92QPasJAmMv) | [Manjari](https://open.spotify.com/album/65AH9sHOWbt7v47DJnkV6c) | 3:45 | 2024-10-21 |  |
+| [Khwaishein](https://open.spotify.com/track/5395Uz3H0nABxiJ3p5oNen) | [Shallum Lama](https://open.spotify.com/artist/4ufyGQgkJxP92QPasJAmMv) | [Manjari](https://open.spotify.com/album/65AH9sHOWbt7v47DJnkV6c) | 3:45 | 2024-10-21 | 2025-03-18 |
 | [Khwaishein hai meri](https://open.spotify.com/track/1pSZRr3h12xzKZUUasmbCL) | [Prasad Aalim](https://open.spotify.com/artist/472d15meTJCz0GzJel8SF6) | [Khwaishein hai meri](https://open.spotify.com/album/0uy1XpfCT3lgD7pfp6LTA8) | 2:51 | 2024-10-22 | 2025-02-13 |
 | [Khwaishein Meri](https://open.spotify.com/track/3Dbf1x9E6L8dyezdEQyzqP) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Khwaishein Meri](https://open.spotify.com/album/0EBeK2UVykZGTGmnMBFEci) | 3:37 | 2024-01-18 | 2024-03-13 |
 | [Kinaare](https://open.spotify.com/track/349xrTZ3A494zVirLQUeBb) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Kinaare](https://open.spotify.com/album/1atSYZFpKekl0u4JlEuzRC) | 2:41 | 2024-08-22 | 2025-02-15 |

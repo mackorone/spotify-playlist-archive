@@ -1,6 +1,6 @@
 {
   "description": "\u0e1f\u0e31\u0e07\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JEBE'. Artwork: Isu Kim",
-  "num_followers": 9432,
+  "num_followers": 9433,
   "original_name": "Fresh Finds Thailand",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2025-03-13 17:53:52",
       "album": {
+        "name": "\u0e19\u0e34\u0e23\u0e32\u0e28\u0e19\u0e49\u0e33\u0e15\u0e32 (listen to this when you cry)",
+        "url": "https://open.spotify.com/album/2HS0s8qLFPqlljAsiV29MB"
+      },
+      "artists": [
+        {
+          "name": "chaopimburabha",
+          "url": "https://open.spotify.com/artist/72oN0LjuQweZ8i1xKM3Err"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "\u0e40\u0e18\u0e2d\u0e15\u0e49\u0e2d\u0e07\u0e23\u0e49\u0e2d\u0e07\u0e44\u0e2b\u0e49 (you must cry)",
+      "url": "https://open.spotify.com/track/6VWBvwLTOPdbz2RKMTMtrf"
+    },
+    {
+      "added_at": "2025-03-13 17:53:52",
+      "album": {
         "name": "100 (Space Time)",
         "url": "https://open.spotify.com/album/6MzMdw73n0Jt5BoytZffBE"
       },
@@ -403,22 +419,6 @@
     {
       "added_at": "2025-03-13 17:53:52",
       "album": {
-        "name": "\u0e19\u0e34\u0e23\u0e32\u0e28\u0e19\u0e49\u0e33\u0e15\u0e32 (listen to this when you cry)",
-        "url": "https://open.spotify.com/album/2HS0s8qLFPqlljAsiV29MB"
-      },
-      "artists": [
-        {
-          "name": "chaopimburabha",
-          "url": "https://open.spotify.com/artist/72oN0LjuQweZ8i1xKM3Err"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "\u0e40\u0e18\u0e2d\u0e15\u0e49\u0e2d\u0e07\u0e23\u0e49\u0e2d\u0e07\u0e44\u0e2b\u0e49 (you must cry)",
-      "url": "https://open.spotify.com/track/6VWBvwLTOPdbz2RKMTMtrf"
-    },
-    {
-      "added_at": "2025-03-13 17:53:52",
-      "album": {
         "name": "\u0e2b\u0e32\u0e01\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48",
         "url": "https://open.spotify.com/album/5PQQL4JVPWehINvIBAsd4j"
       },
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-03-13 17:53:52",
       "album": {
-        "name": "Lost.",
-        "url": "https://open.spotify.com/album/36Li8OqMeFr2AVa5X6gyat"
-      },
-      "artists": [
-        {
-          "name": "Intoverse",
-          "url": "https://open.spotify.com/artist/1YS1KAkS2fUo7gNXHuMeMk"
-        }
-      ],
-      "duration_ms": 240821,
-      "name": "Lost.",
-      "url": "https://open.spotify.com/track/0FDl3MhupeY2ZypBTGiOie"
-    },
-    {
-      "added_at": "2025-03-13 17:53:52",
-      "album": {
         "name": "\u0e22\u0e32\u0e21\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e25\u0e21\u0e1e\u0e31\u0e14\u0e21\u0e32\u0e1e\u0e32\u0e09\u0e31\u0e19\u0e22\u0e49\u0e2d\u0e19\u0e01\u0e25\u0e31\u0e1a\u0e44\u0e1b",
         "url": "https://open.spotify.com/album/7pSxZAv4NE47r4mvfsXaEq"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 170056,
       "name": "\u0e22\u0e32\u0e21\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e25\u0e21\u0e1e\u0e31\u0e14\u0e21\u0e32\u0e1e\u0e32\u0e09\u0e31\u0e19\u0e22\u0e49\u0e2d\u0e19\u0e01\u0e25\u0e31\u0e1a\u0e44\u0e1b",
       "url": "https://open.spotify.com/track/76f0EYKaPbHHshFPmDcGSN"
+    },
+    {
+      "added_at": "2025-03-13 17:53:52",
+      "album": {
+        "name": "Lost.",
+        "url": "https://open.spotify.com/album/36Li8OqMeFr2AVa5X6gyat"
+      },
+      "artists": [
+        {
+          "name": "Intoverse",
+          "url": "https://open.spotify.com/artist/1YS1KAkS2fUo7gNXHuMeMk"
+        }
+      ],
+      "duration_ms": 240821,
+      "name": "Lost.",
+      "url": "https://open.spotify.com/track/0FDl3MhupeY2ZypBTGiOie"
     },
     {
       "added_at": "2025-03-13 17:53:52",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-03-13 17:53:52",
       "album": {
-        "name": "LOVE IS COMPLICATED",
-        "url": "https://open.spotify.com/album/5m873ScVnJJbQv5VLZ69OR"
-      },
-      "artists": [
-        {
-          "name": "JEEFIERCE",
-          "url": "https://open.spotify.com/artist/0HSHhiSxXYDDkpKIA2Si3M"
-        }
-      ],
-      "duration_ms": 222543,
-      "name": "LOVE IS COMPLICATED",
-      "url": "https://open.spotify.com/track/7nhtSBXOQtwmPb2WVNa0va"
-    },
-    {
-      "added_at": "2025-03-13 17:53:52",
-      "album": {
         "name": "\u0e1d\u0e37\u0e19",
         "url": "https://open.spotify.com/album/3VgVc8BlXoRQVpMSup7Zp1"
       },
@@ -707,6 +691,38 @@
       "duration_ms": 199250,
       "name": "\u0e1d\u0e37\u0e19",
       "url": "https://open.spotify.com/track/5SRf5XKiu9WzRDxuvmHiJm"
+    },
+    {
+      "added_at": "2025-03-13 17:53:52",
+      "album": {
+        "name": "\u0e22\u0e31\u0e01\u0e44\u0e2b\u0e25\u0e48\u0e41\u0e25\u0e49\u0e27\u0e44\u0e1b\u0e15\u0e48\u0e2d",
+        "url": "https://open.spotify.com/album/3GuvpKqOMNB6dkp0aYTS7V"
+      },
+      "artists": [
+        {
+          "name": "Tape",
+          "url": "https://open.spotify.com/artist/7xC1Qnv4hsZBXxelSyG086"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "\u0e22\u0e31\u0e01\u0e44\u0e2b\u0e25\u0e48\u0e41\u0e25\u0e49\u0e27\u0e44\u0e1b\u0e15\u0e48\u0e2d",
+      "url": "https://open.spotify.com/track/2XtIzMQMNp8ofZW4AEdSGA"
+    },
+    {
+      "added_at": "2025-03-13 17:53:52",
+      "album": {
+        "name": "LOVE IS COMPLICATED",
+        "url": "https://open.spotify.com/album/5m873ScVnJJbQv5VLZ69OR"
+      },
+      "artists": [
+        {
+          "name": "JEEFIERCE",
+          "url": "https://open.spotify.com/artist/0HSHhiSxXYDDkpKIA2Si3M"
+        }
+      ],
+      "duration_ms": 222543,
+      "name": "LOVE IS COMPLICATED",
+      "url": "https://open.spotify.com/track/7nhtSBXOQtwmPb2WVNa0va"
     },
     {
       "added_at": "2025-03-13 17:53:52",
@@ -743,6 +759,22 @@
     {
       "added_at": "2025-03-13 17:53:52",
       "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/4mbA3xDu6tYvR6KsKNeEJ6"
+      },
+      "artists": [
+        {
+          "name": "Cheyada",
+          "url": "https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "\u0e40\u0e23\u0e37\u0e2d\u0e19\u0e01\u0e23\u0e30\u0e08\u0e01",
+      "url": "https://open.spotify.com/track/7Ko9l6tzurRQR2LaSFQRyQ"
+    },
+    {
+      "added_at": "2025-03-13 17:53:52",
+      "album": {
         "name": "Friend With Romantic",
         "url": "https://open.spotify.com/album/05XU9FDBT8dNc3sW6QL5pg"
       },
@@ -755,22 +787,6 @@
       "duration_ms": 193043,
       "name": "Friend With Romantic",
       "url": "https://open.spotify.com/track/76CibRUtOleTQCvVgsAQIr"
-    },
-    {
-      "added_at": "2025-03-13 17:53:52",
-      "album": {
-        "name": "\u0e22\u0e31\u0e01\u0e44\u0e2b\u0e25\u0e48\u0e41\u0e25\u0e49\u0e27\u0e44\u0e1b\u0e15\u0e48\u0e2d",
-        "url": "https://open.spotify.com/album/3GuvpKqOMNB6dkp0aYTS7V"
-      },
-      "artists": [
-        {
-          "name": "Tape",
-          "url": "https://open.spotify.com/artist/7xC1Qnv4hsZBXxelSyG086"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "\u0e22\u0e31\u0e01\u0e44\u0e2b\u0e25\u0e48\u0e41\u0e25\u0e49\u0e27\u0e44\u0e1b\u0e15\u0e48\u0e2d",
-      "url": "https://open.spotify.com/track/2XtIzMQMNp8ofZW4AEdSGA"
     },
     {
       "added_at": "2025-03-13 17:53:52",
@@ -815,22 +831,6 @@
       "duration_ms": 281750,
       "name": "\u0e23\u0e2d\u0e22\u0e22\u0e34\u0e49\u0e21\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e21\u0e35 (The Happiness)",
       "url": "https://open.spotify.com/track/4uSTp3u7aWMqM3imdrSNzI"
-    },
-    {
-      "added_at": "2025-03-13 17:53:52",
-      "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/4mbA3xDu6tYvR6KsKNeEJ6"
-      },
-      "artists": [
-        {
-          "name": "Cheyada",
-          "url": "https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "\u0e40\u0e23\u0e37\u0e2d\u0e19\u0e01\u0e23\u0e30\u0e08\u0e01",
-      "url": "https://open.spotify.com/track/7Ko9l6tzurRQR2LaSFQRyQ"
     },
     {
       "added_at": "2025-03-13 17:53:52",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-03-13 17:53:52",
       "album": {
-        "name": "\u0e41\u0e25\u0e49\u0e27\u0e40\u0e23\u0e32\u0e08\u0e30\u0e44\u0e14\u0e49\u0e40\u0e08\u0e2d\u0e01\u0e31\u0e19\u0e2d\u0e35\u0e01\u0e44\u0e2b\u0e21 (N6946)",
-        "url": "https://open.spotify.com/album/0tKE1j7Nga6jrSRBN6kN86"
-      },
-      "artists": [
-        {
-          "name": "Navabxxm",
-          "url": "https://open.spotify.com/artist/3FLYokImQu0TmBgMPRaOPc"
-        }
-      ],
-      "duration_ms": 247767,
-      "name": "\u0e41\u0e25\u0e49\u0e27\u0e40\u0e23\u0e32\u0e08\u0e30\u0e44\u0e14\u0e49\u0e40\u0e08\u0e2d\u0e01\u0e31\u0e19\u0e2d\u0e35\u0e01\u0e44\u0e2b\u0e21 (N6946)",
-      "url": "https://open.spotify.com/track/0VIvjm0rP2eRazyAGYQT9a"
-    },
-    {
-      "added_at": "2025-03-13 17:53:52",
-      "album": {
         "name": "\u0e23\u0e31\u0e01\u0e41\u0e1a\u0e1a\u0e44\u0e2b\u0e19",
         "url": "https://open.spotify.com/album/2VWH1QLTtD6YmXr6F1tgOB"
       },
@@ -963,18 +947,18 @@
     {
       "added_at": "2025-03-13 17:53:52",
       "album": {
-        "name": "\u0e1c\u0e39\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e2b\u0e32\u0e22",
-        "url": "https://open.spotify.com/album/4O8widx9gS6sbz3uEQ1299"
+        "name": "\u0e41\u0e25\u0e49\u0e27\u0e40\u0e23\u0e32\u0e08\u0e30\u0e44\u0e14\u0e49\u0e40\u0e08\u0e2d\u0e01\u0e31\u0e19\u0e2d\u0e35\u0e01\u0e44\u0e2b\u0e21 (N6946)",
+        "url": "https://open.spotify.com/album/0tKE1j7Nga6jrSRBN6kN86"
       },
       "artists": [
         {
-          "name": "\u0e01\u0e32\u0e07\u0e40\u0e02\u0e19",
-          "url": "https://open.spotify.com/artist/6E1nqqVCcop8ieKOVmObAl"
+          "name": "Navabxxm",
+          "url": "https://open.spotify.com/artist/3FLYokImQu0TmBgMPRaOPc"
         }
       ],
-      "duration_ms": 274736,
-      "name": "\u0e1c\u0e39\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e2b\u0e32\u0e22",
-      "url": "https://open.spotify.com/track/4TBpUOChlS4LfsU1hJAoSw"
+      "duration_ms": 247767,
+      "name": "\u0e41\u0e25\u0e49\u0e27\u0e40\u0e23\u0e32\u0e08\u0e30\u0e44\u0e14\u0e49\u0e40\u0e08\u0e2d\u0e01\u0e31\u0e19\u0e2d\u0e35\u0e01\u0e44\u0e2b\u0e21 (N6946)",
+      "url": "https://open.spotify.com/track/0VIvjm0rP2eRazyAGYQT9a"
     },
     {
       "added_at": "2025-03-13 17:53:52",
@@ -995,6 +979,22 @@
     {
       "added_at": "2025-03-13 17:53:52",
       "album": {
+        "name": "\u0e1c\u0e39\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e2b\u0e32\u0e22",
+        "url": "https://open.spotify.com/album/4O8widx9gS6sbz3uEQ1299"
+      },
+      "artists": [
+        {
+          "name": "\u0e01\u0e32\u0e07\u0e40\u0e02\u0e19",
+          "url": "https://open.spotify.com/artist/6E1nqqVCcop8ieKOVmObAl"
+        }
+      ],
+      "duration_ms": 274736,
+      "name": "\u0e1c\u0e39\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e2b\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/4TBpUOChlS4LfsU1hJAoSw"
+    },
+    {
+      "added_at": "2025-03-13 17:53:52",
+      "album": {
         "name": "\u0e22\u0e34\u0e49\u0e21\u0e15\u0e32\u0e21 (Secret)",
         "url": "https://open.spotify.com/album/3MCECfaTGH2bURQertUwAC"
       },
@@ -1007,6 +1007,22 @@
       "duration_ms": 270166,
       "name": "\u0e22\u0e34\u0e49\u0e21\u0e15\u0e32\u0e21 (Secret)",
       "url": "https://open.spotify.com/track/0rilItx0LQ6ClMJSSPmznW"
+    },
+    {
+      "added_at": "2025-03-13 17:53:52",
+      "album": {
+        "name": "\u0e01\u0e25\u0e31\u0e27\u0e01\u0e32\u0e23\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32",
+        "url": "https://open.spotify.com/album/1KY2vKJsNsd6wNsWvAwq5B"
+      },
+      "artists": [
+        {
+          "name": "PATH DIZ",
+          "url": "https://open.spotify.com/artist/58OgXPZNJMtMWxTEsecDvn"
+        }
+      ],
+      "duration_ms": 250625,
+      "name": "\u0e01\u0e25\u0e31\u0e27\u0e01\u0e32\u0e23\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32",
+      "url": "https://open.spotify.com/track/6wjExxiqKNhbVDkwe7sgCt"
     },
     {
       "added_at": "2025-03-13 17:53:52",
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2025-03-13 17:53:52",
       "album": {
-        "name": "\u0e1e\u0e31\u0e14\u0e1c\u0e48\u0e32\u0e19\u0e44\u0e1b (Unwind)",
-        "url": "https://open.spotify.com/album/2V9s3DhKtTWM4b4ZmILzcv"
+        "name": "\u0e22\u0e31\u0e07\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e2d\u0e22\u0e39\u0e48\u0e40\u0e25\u0e22",
+        "url": "https://open.spotify.com/album/1C9kzjo2lH0sW9tfFBCQ9O"
       },
       "artists": [
         {
-          "name": "foundscape",
-          "url": "https://open.spotify.com/artist/5Jcdc84sWBETOlDggqy91F"
+          "name": "sriattle",
+          "url": "https://open.spotify.com/artist/3SHuorzd9Ib3cz0tGvnYxn"
         }
       ],
-      "duration_ms": 326341,
-      "name": "\u0e1e\u0e31\u0e14\u0e1c\u0e48\u0e32\u0e19\u0e44\u0e1b (Unwind)",
-      "url": "https://open.spotify.com/track/4tQ0Zj0c4g4716tYj7kky5"
+      "duration_ms": 294857,
+      "name": "\u0e22\u0e31\u0e07\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e2d\u0e22\u0e39\u0e48\u0e40\u0e25\u0e22",
+      "url": "https://open.spotify.com/track/6pSVHNVH1kZjlRu9DSm8op"
     },
     {
       "added_at": "2025-03-13 17:53:52",
@@ -1059,34 +1075,18 @@
     {
       "added_at": "2025-03-13 17:53:52",
       "album": {
-        "name": "\u0e22\u0e31\u0e07\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e2d\u0e22\u0e39\u0e48\u0e40\u0e25\u0e22",
-        "url": "https://open.spotify.com/album/1C9kzjo2lH0sW9tfFBCQ9O"
+        "name": "\u0e1e\u0e31\u0e14\u0e1c\u0e48\u0e32\u0e19\u0e44\u0e1b (Unwind)",
+        "url": "https://open.spotify.com/album/2V9s3DhKtTWM4b4ZmILzcv"
       },
       "artists": [
         {
-          "name": "sriattle",
-          "url": "https://open.spotify.com/artist/3SHuorzd9Ib3cz0tGvnYxn"
+          "name": "foundscape",
+          "url": "https://open.spotify.com/artist/5Jcdc84sWBETOlDggqy91F"
         }
       ],
-      "duration_ms": 294857,
-      "name": "\u0e22\u0e31\u0e07\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e2d\u0e22\u0e39\u0e48\u0e40\u0e25\u0e22",
-      "url": "https://open.spotify.com/track/6pSVHNVH1kZjlRu9DSm8op"
-    },
-    {
-      "added_at": "2025-03-13 17:53:52",
-      "album": {
-        "name": "She is summer",
-        "url": "https://open.spotify.com/album/2oXnhcBZzxwk3ZAJ2IA78Z"
-      },
-      "artists": [
-        {
-          "name": "KRISNUT",
-          "url": "https://open.spotify.com/artist/6k9tH2DDlndcsNtgLmWxLf"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "She is summer",
-      "url": "https://open.spotify.com/track/1cJcxY5q7RetP5Yt5sl4XZ"
+      "duration_ms": 326341,
+      "name": "\u0e1e\u0e31\u0e14\u0e1c\u0e48\u0e32\u0e19\u0e44\u0e1b (Unwind)",
+      "url": "https://open.spotify.com/track/4tQ0Zj0c4g4716tYj7kky5"
     },
     {
       "added_at": "2025-03-13 17:53:52",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2025-03-13 17:53:52",
       "album": {
+        "name": "She is summer",
+        "url": "https://open.spotify.com/album/2oXnhcBZzxwk3ZAJ2IA78Z"
+      },
+      "artists": [
+        {
+          "name": "KRISNUT",
+          "url": "https://open.spotify.com/artist/6k9tH2DDlndcsNtgLmWxLf"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "She is summer",
+      "url": "https://open.spotify.com/track/1cJcxY5q7RetP5Yt5sl4XZ"
+    },
+    {
+      "added_at": "2025-03-13 17:53:52",
+      "album": {
         "name": "\u0e15\u0e37\u0e48\u0e19\u0e15\u0e37\u0e48\u0e19\u0e15\u0e37\u0e48\u0e19 (2meetyou)",
         "url": "https://open.spotify.com/album/64B2YI5qCuWL91gSsVQh54"
       },
@@ -1123,6 +1139,22 @@
       "duration_ms": 208695,
       "name": "\u0e15\u0e37\u0e48\u0e19\u0e15\u0e37\u0e48\u0e19\u0e15\u0e37\u0e48\u0e19 (2meetyou)",
       "url": "https://open.spotify.com/track/0qP5zjouwd3GtuMK9r4EGK"
+    },
+    {
+      "added_at": "2025-03-13 17:53:52",
+      "album": {
+        "name": "Your style",
+        "url": "https://open.spotify.com/album/44yHHheij3AwiPYgZVrzq8"
+      },
+      "artists": [
+        {
+          "name": "MARK-k",
+          "url": "https://open.spotify.com/artist/5fgxJhJ73d7rhsNmLFP2WC"
+        }
+      ],
+      "duration_ms": 199322,
+      "name": "Your style",
+      "url": "https://open.spotify.com/track/1v1lsQRzkRc89pTgui5wtK"
     },
     {
       "added_at": "2025-03-13 17:53:52",
@@ -1175,6 +1207,22 @@
     {
       "added_at": "2025-03-13 17:53:52",
       "album": {
+        "name": "\u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13 (\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d)",
+        "url": "https://open.spotify.com/album/5ACtU7M9dgBJW7lNSyqkDx"
+      },
+      "artists": [
+        {
+          "name": "nipat newwave",
+          "url": "https://open.spotify.com/artist/30nj0ngxPX7fRSyJbqnrHg"
+        }
+      ],
+      "duration_ms": 289333,
+      "name": "\u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13 (\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d)",
+      "url": "https://open.spotify.com/track/50YizEhoER056FZ5BeGwkT"
+    },
+    {
+      "added_at": "2025-03-13 17:53:52",
+      "album": {
         "name": "\u0e1c\u0e35\u0e40\u0e2a\u0e37\u0e49\u0e2d",
         "url": "https://open.spotify.com/album/1fC3gkmNLahs5XyjmpTU9Q"
       },
@@ -1191,18 +1239,18 @@
     {
       "added_at": "2025-03-13 17:53:52",
       "album": {
-        "name": "\u0e01\u0e25\u0e31\u0e27\u0e01\u0e32\u0e23\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32",
-        "url": "https://open.spotify.com/album/1KY2vKJsNsd6wNsWvAwq5B"
+        "name": "\u0e2d\u0e22\u0e32\u0e01\u0e40\u0e25\u0e48\u0e32? (Wanna Say Something?)",
+        "url": "https://open.spotify.com/album/2LK4esj1lAFhzppjB3kFBd"
       },
       "artists": [
         {
-          "name": "PATH DIZ",
-          "url": "https://open.spotify.com/artist/58OgXPZNJMtMWxTEsecDvn"
+          "name": "Ball Pharanwat",
+          "url": "https://open.spotify.com/artist/4Yx9Q2qWC6p3ULryGrKN5p"
         }
       ],
-      "duration_ms": 250625,
-      "name": "\u0e01\u0e25\u0e31\u0e27\u0e01\u0e32\u0e23\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32",
-      "url": "https://open.spotify.com/track/6wjExxiqKNhbVDkwe7sgCt"
+      "duration_ms": 162461,
+      "name": "\u0e2d\u0e22\u0e32\u0e01\u0e40\u0e25\u0e48\u0e32? (Wanna Say Something?)",
+      "url": "https://open.spotify.com/track/0lUUj3QSRMOmhfpuUjmfJj"
     },
     {
       "added_at": "2025-03-13 17:53:52",
@@ -1243,22 +1291,6 @@
     {
       "added_at": "2025-03-13 17:53:52",
       "album": {
-        "name": "\u0e25\u0e47\u0e2d\u0e01\u0e21\u0e07",
-        "url": "https://open.spotify.com/album/6d0gqWfhXb3yfxUdqAAJFU"
-      },
-      "artists": [
-        {
-          "name": "WAYU",
-          "url": "https://open.spotify.com/artist/0W0AqPHY79bxEtgrmXhr0B"
-        }
-      ],
-      "duration_ms": 204705,
-      "name": "\u0e25\u0e47\u0e2d\u0e01\u0e21\u0e07",
-      "url": "https://open.spotify.com/track/3iJMf4V6siZ4SThYCQ5Jzk"
-    },
-    {
-      "added_at": "2025-03-13 17:53:52",
-      "album": {
         "name": "Unread",
         "url": "https://open.spotify.com/album/15Tdtmc4yNSpQMoDDPk16M"
       },
@@ -1271,6 +1303,38 @@
       "duration_ms": 183888,
       "name": "Unread",
       "url": "https://open.spotify.com/track/5Z6tQAskizBb6Vl1w63Clq"
+    },
+    {
+      "added_at": "2025-03-13 17:53:52",
+      "album": {
+        "name": "\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e08\u0e32\u0e01 (\u0e0a\u0e48\u0e27\u0e22\u0e2b\u0e25\u0e2d\u0e01\u0e09\u0e31\u0e19)",
+        "url": "https://open.spotify.com/album/7LMaGcqyD1EhIu6x2huZKo"
+      },
+      "artists": [
+        {
+          "name": "Sirin",
+          "url": "https://open.spotify.com/artist/13f1dMMIakEh2lrB6C1xB5"
+        }
+      ],
+      "duration_ms": 281538,
+      "name": "\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e08\u0e32\u0e01 (\u0e0a\u0e48\u0e27\u0e22\u0e2b\u0e25\u0e2d\u0e01\u0e09\u0e31\u0e19)",
+      "url": "https://open.spotify.com/track/4fPpv60pBog9Pfc5OiMVuy"
+    },
+    {
+      "added_at": "2025-03-13 17:53:52",
+      "album": {
+        "name": "\u0e25\u0e47\u0e2d\u0e01\u0e21\u0e07",
+        "url": "https://open.spotify.com/album/6d0gqWfhXb3yfxUdqAAJFU"
+      },
+      "artists": [
+        {
+          "name": "WAYU",
+          "url": "https://open.spotify.com/artist/0W0AqPHY79bxEtgrmXhr0B"
+        }
+      ],
+      "duration_ms": 204705,
+      "name": "\u0e25\u0e47\u0e2d\u0e01\u0e21\u0e07",
+      "url": "https://open.spotify.com/track/3iJMf4V6siZ4SThYCQ5Jzk"
     },
     {
       "added_at": "2025-03-13 17:53:52",
@@ -1291,22 +1355,6 @@
     {
       "added_at": "2025-03-13 17:53:52",
       "album": {
-        "name": "Your style",
-        "url": "https://open.spotify.com/album/44yHHheij3AwiPYgZVrzq8"
-      },
-      "artists": [
-        {
-          "name": "MARK-k",
-          "url": "https://open.spotify.com/artist/5fgxJhJ73d7rhsNmLFP2WC"
-        }
-      ],
-      "duration_ms": 199322,
-      "name": "Your style",
-      "url": "https://open.spotify.com/track/1v1lsQRzkRc89pTgui5wtK"
-    },
-    {
-      "added_at": "2025-03-13 17:53:52",
-      "album": {
         "name": "KISS KISS",
         "url": "https://open.spotify.com/album/7cn7Qvp4udqODglCKqoW8c"
       },
@@ -1319,22 +1367,6 @@
       "duration_ms": 188120,
       "name": "KISS KISS",
       "url": "https://open.spotify.com/track/35K4ZiFQYlsOTejZNen19j"
-    },
-    {
-      "added_at": "2025-03-13 17:53:52",
-      "album": {
-        "name": "\u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13 (\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d)",
-        "url": "https://open.spotify.com/album/5ACtU7M9dgBJW7lNSyqkDx"
-      },
-      "artists": [
-        {
-          "name": "nipat newwave",
-          "url": "https://open.spotify.com/artist/30nj0ngxPX7fRSyJbqnrHg"
-        }
-      ],
-      "duration_ms": 289333,
-      "name": "\u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13 (\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d)",
-      "url": "https://open.spotify.com/track/50YizEhoER056FZ5BeGwkT"
     },
     {
       "added_at": "2025-03-13 17:53:52",
@@ -1407,22 +1439,6 @@
     {
       "added_at": "2025-03-13 17:53:52",
       "album": {
-        "name": "\u0e2d\u0e22\u0e32\u0e01\u0e40\u0e25\u0e48\u0e32? (Wanna Say Something?)",
-        "url": "https://open.spotify.com/album/2LK4esj1lAFhzppjB3kFBd"
-      },
-      "artists": [
-        {
-          "name": "Ball Pharanwat",
-          "url": "https://open.spotify.com/artist/4Yx9Q2qWC6p3ULryGrKN5p"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "\u0e2d\u0e22\u0e32\u0e01\u0e40\u0e25\u0e48\u0e32? (Wanna Say Something?)",
-      "url": "https://open.spotify.com/track/0lUUj3QSRMOmhfpuUjmfJj"
-    },
-    {
-      "added_at": "2025-03-13 17:53:52",
-      "album": {
         "name": "\u0e43\u0e08\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e21\u0e35\u0e09\u0e31\u0e19",
         "url": "https://open.spotify.com/album/2OC1VJ4VyCV871U0ntcNeD"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 291428,
       "name": "\u0e43\u0e08\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e21\u0e35\u0e09\u0e31\u0e19",
       "url": "https://open.spotify.com/track/0svqgK7Vacxce7WmBNdSgK"
-    },
-    {
-      "added_at": "2025-03-13 17:53:52",
-      "album": {
-        "name": "\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e08\u0e32\u0e01 (\u0e0a\u0e48\u0e27\u0e22\u0e2b\u0e25\u0e2d\u0e01\u0e09\u0e31\u0e19)",
-        "url": "https://open.spotify.com/album/7LMaGcqyD1EhIu6x2huZKo"
-      },
-      "artists": [
-        {
-          "name": "Sirin",
-          "url": "https://open.spotify.com/artist/13f1dMMIakEh2lrB6C1xB5"
-        }
-      ],
-      "duration_ms": 281538,
-      "name": "\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e08\u0e32\u0e01 (\u0e0a\u0e48\u0e27\u0e22\u0e2b\u0e25\u0e2d\u0e01\u0e09\u0e31\u0e19)",
-      "url": "https://open.spotify.com/track/4fPpv60pBog9Pfc5OiMVuy"
     },
     {
       "added_at": "2025-03-13 17:53:52",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 775 likes - 136 songs - 14 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 776 likes - 136 songs - 14 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 90 | [God’s Been Good \- Live](https://open.spotify.com/track/2NvFKpZ6ECBe3wkSfvNS9K) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 5:58 |
 | 91 | [Let My Heart Dance](https://open.spotify.com/track/6yYOLd0hCWamG8grPlUHQw) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 3:14 |
 | 92 | [Mary’s Song \- Live](https://open.spotify.com/track/7DzqNeU96i94uSQ46hSnFk) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 5:33 |
-| 93 | [Free Falling](https://open.spotify.com/track/7mUhoT53JAHiFbh3wfHVZe) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 4:54 |
-| 94 | [A Reason to Dance \(Live\)](https://open.spotify.com/track/2EhWeDXgzMNM68RKrQDmAs) | [All Nations Worship Assembly Atlanta](https://open.spotify.com/artist/4KbJIMQX4cgPen58azB9JA) | [A Reason to Dance \(Live\)](https://open.spotify.com/album/5bE6EdmylycgoRzXfPCRAF) | 6:56 |
+| 93 | [A Reason to Dance \(Live\)](https://open.spotify.com/track/2EhWeDXgzMNM68RKrQDmAs) | [All Nations Worship Assembly Atlanta](https://open.spotify.com/artist/4KbJIMQX4cgPen58azB9JA) | [A Reason to Dance \(Live\)](https://open.spotify.com/album/5bE6EdmylycgoRzXfPCRAF) | 6:56 |
+| 94 | [Free Falling](https://open.spotify.com/track/7mUhoT53JAHiFbh3wfHVZe) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 4:54 |
 | 95 | [Take Me to the River](https://open.spotify.com/track/1YbR4gWmyMSnZJEOKppuIx) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 4:31 |
 | 96 | [I Found You \(feat\. Dante Bowe & Aaron Moses\)](https://open.spotify.com/track/6rWlOBdYTr4b642nY7dqcy) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [Kingdom Book One \(Deluxe\)](https://open.spotify.com/album/6yyl9jkkJYITe8z6dNDvIj) | 3:34 |
 | 97 | [real kind of love](https://open.spotify.com/track/3oufQfxtm0Kpos3oRzJv7f) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 2:49 |
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 117 | [Coming Home To You \(feat\. Roosevelt Stewart\)](https://open.spotify.com/track/7kKQvEaRv3VfcsqT03v1Zb) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [The Good Shepherd](https://open.spotify.com/album/2O83jwuM1ydrtVmRUax7W5) | 12:30 |
 | 118 | [Hidden Forest Spicy Trail Mix](https://open.spotify.com/track/1Q7Ed9mLOBmxHj3sZ8eJCh) | [LAEL](https://open.spotify.com/artist/6u0N8dav5uO0AdKr6l9EFp), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [My Grocery List \(EP\)](https://open.spotify.com/album/3coSLKO5HdvpgdXN18eSXY) | 2:39 |
 | 119 | [HOLLYWOOD](https://open.spotify.com/track/5DEGPKv1ZOuVsmLewXUCJq) | [The Apartment](https://open.spotify.com/artist/69IXR0c07FhGnuP7b3YShP), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Harolddd](https://open.spotify.com/artist/44av3ir0vktBzXpTjnuR7V), [Siri Worku](https://open.spotify.com/artist/10pLML8I8JsBxzEY4kmOWQ) | [HOLLYWOOD](https://open.spotify.com/album/1I100uS3CyoeJXEQ10Ioq1) | 3:13 |
-| 120 | [Campeón](https://open.spotify.com/track/3f85ozbzhf4wq7Vl7yxid7) | [Legado Music](https://open.spotify.com/artist/6NAa9sLEguLPdExVYn9tSW) | [Selah](https://open.spotify.com/album/17BYwDcMdfSMhOk9vfsiwy) | 5:48 |
-| 121 | [Peace Of God](https://open.spotify.com/track/1BcIvrdxFt6eHdMXMve4BU) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ahjah Walls](https://open.spotify.com/artist/3ndbQOJkH1hZns1W0k4tPY) | [Chapel Sessions \(Vol\. 2\)](https://open.spotify.com/album/1WoqVa4lSu0mPZgoj1DxZ2) | 4:40 |
+| 120 | [Peace Of God](https://open.spotify.com/track/1BcIvrdxFt6eHdMXMve4BU) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ahjah Walls](https://open.spotify.com/artist/3ndbQOJkH1hZns1W0k4tPY) | [Chapel Sessions \(Vol\. 2\)](https://open.spotify.com/album/1WoqVa4lSu0mPZgoj1DxZ2) | 4:40 |
+| 121 | [Campeón](https://open.spotify.com/track/3f85ozbzhf4wq7Vl7yxid7) | [Legado Music](https://open.spotify.com/artist/6NAa9sLEguLPdExVYn9tSW) | [Selah](https://open.spotify.com/album/17BYwDcMdfSMhOk9vfsiwy) | 5:48 |
 | 122 | [Hero \- Live](https://open.spotify.com/track/4drKB02HQdI49FtImjXSj4) | [AMEN Music](https://open.spotify.com/artist/3Bf9WsVILDpfxU0VDj1CHK), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [In The Light \(Live\)](https://open.spotify.com/album/2hJ0tPjPJuKUAncH63dHVl) | 11:41 |
 | 123 | [Move Your Heart / Worthy](https://open.spotify.com/track/1zy5SRJL5RuM5ygzFXCWDh) | [Jesus Co.](https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1), [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Mountains Move](https://open.spotify.com/album/16Y2cLHtfQOOZ6lpkYjE1J) | 4:33 |
 | 124 | [Grace Wouldn't Leave Me](https://open.spotify.com/track/2q4z8ulvADTrObvdRRLzWu) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [The Gathering](https://open.spotify.com/album/1i1RMxpn37I5CzQlbuQeDz) | 3:07 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 135 | [We Win](https://open.spotify.com/track/1s5hLtSYY4OxWvaVgxoSRK) | [Christina Bell](https://open.spotify.com/artist/3qNDQQUVRmXjr8wRuRUuI0) | [Still Faithful](https://open.spotify.com/album/5UWqdrtfkYqIYczMQn0W9M) | 6:36 |
 | 136 | [Champion/Gratitude \- Live](https://open.spotify.com/track/7C29F2bxN0l5E6p8XMk32U) | [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/3ipf9dH4349UTXQQD0yRVH) | 10:46 |
 
-Snapshot ID: `AbsPIAAAAAAufKYbiBas8M5D5TJQ6FTX`
+Snapshot ID: `AbsU3gAAAAAtsIExULIZu8qK6N90nXnw`

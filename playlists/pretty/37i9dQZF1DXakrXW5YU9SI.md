@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Przywitaj wiosnę błogimi dźwiękami 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,756 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,726 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 28 | [There’s a Field \(That’s Only Yours\)](https://open.spotify.com/track/4Yj2w2rPJmLRqVeeel9rZM) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Rearrange My World / There’s a Field \(That's Only Yours\)](https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn) | 2:04 |
 | 29 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 |
 | 30 | [Asshole](https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic](https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM) | 3:03 |
-| 31 | [Inside Out](https://open.spotify.com/track/3x39bVlJlxorxZGzBpc2yA) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Deluxe\)](https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf) | 3:57 |
-| 32 | [pretty](https://open.spotify.com/track/7zku2rvsa345C0kwQ4OEyZ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [pretty](https://open.spotify.com/album/4w5TWeEWxzS7qhsAUR5xE5) | 2:30 |
+| 31 | [pretty](https://open.spotify.com/track/7zku2rvsa345C0kwQ4OEyZ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [pretty](https://open.spotify.com/album/4w5TWeEWxzS7qhsAUR5xE5) | 2:30 |
+| 32 | [Inside Out](https://open.spotify.com/track/3x39bVlJlxorxZGzBpc2yA) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Deluxe\)](https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf) | 3:57 |
 | 33 | [Everything Is Peaceful Love](https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Everything Is Peaceful Love](https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs) | 3:30 |
 | 34 | [Sometimes](https://open.spotify.com/track/0Pfk6RzGNhwEP6HeEGH7Ya) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sometimes](https://open.spotify.com/album/7zF4bGdgix6bS2d1Fank0g) | 2:58 |
 | 35 | [do you think you could love me?](https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [do you think you could love me?](https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp) | 3:56 |
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 46 | [kyoto](https://open.spotify.com/track/0opYvODIONdV6edM316xO8) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [FUGAZI](https://open.spotify.com/album/1MetFDWprjq2O3RMhYfWnG) | 2:43 |
 | 47 | [abyss](https://open.spotify.com/track/40LqINLIDhx5qEJQfG7rnN) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [abyss](https://open.spotify.com/album/3hZjfIVdPdCym1PRPD57JT) | 2:09 |
 | 48 | [Gorset](https://open.spotify.com/track/5KkcaqjflHxH2MenhXxhXQ) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Gorset](https://open.spotify.com/album/2C6jNdGg4KZG0AdBJEKFuv) | 3:28 |
-| 49 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 |
+| 49 | [Kości](https://open.spotify.com/track/7ItTsut5l5eAj1hGb2WCCJ) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Kości](https://open.spotify.com/album/4pmTKtrPtbFh8XmGSEZNVQ) | 3:32 |
 | 50 | [Heartbreakdown](https://open.spotify.com/track/3JxE1VLDvO3B0l27LPunRt) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Heartbreakdown](https://open.spotify.com/album/0EDaM1SqlZIyOeWqsJfsKY) | 4:14 |
-| 51 | [Kości](https://open.spotify.com/track/7ItTsut5l5eAj1hGb2WCCJ) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Kości](https://open.spotify.com/album/4pmTKtrPtbFh8XmGSEZNVQ) | 3:32 |
+| 51 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 |
 | 52 | [SHELL \( OF A MAN \)](https://open.spotify.com/track/6dRl26fre0x2OcUCtObfmP) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SHELL \( OF A MAN \)](https://open.spotify.com/album/7LDJQ920ux5U1bOZvexKX3) | 3:39 |
 | 53 | [Ofelia \(M\. Pawlikowska\-Jasnorzewska\)](https://open.spotify.com/track/7sBP7vQcWySymKNWIj9rNp) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Nosowska](https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul) | [Ofelia \(M\. Pawlikowska\-Jasnorzewska\)](https://open.spotify.com/album/5HdAYwPyVW2wRYr76gL1m4) | 3:28 |
 | 54 | [Richardson \(feat\. Cassandra Jenkins\)](https://open.spotify.com/track/4Jrstw4tzEoFCE5hZMug96) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT), [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Richardson \(feat\. Cassandra Jenkins\)](https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp) | 3:44 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 56 | [Nigdy Mi Nie Przejdzie](https://open.spotify.com/track/0ZlTcfREOWGOoATsXbWHIl) | [Magda Bereda](https://open.spotify.com/artist/6NaOhgiHgKdbBk1SUaAt9d), [Piotr Rubik](https://open.spotify.com/artist/5WueU5rl41UJePlysv2ZON) | [Arbuzowy Zachód Słońca](https://open.spotify.com/album/0ZnWoBUG8Mr0o81WkfE4PK) | 3:19 |
 | 57 | [Stój](https://open.spotify.com/track/2gUWtzU7l87TY2ScTJyBzn) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Stój](https://open.spotify.com/album/5zdlebZzMuE3v4K1aDotFB) | 3:41 |
 | 58 | [⁠Godspeed](https://open.spotify.com/track/33u4P7aW3p8l6M14QvoJvo) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [3rd Rocket 666](https://open.spotify.com/album/04GxVH15zJEDngF4Qf5Wvs) | 4:01 |
-| 59 | [Wstyd](https://open.spotify.com/track/0YgKSJYoOyPWoyOoAOTkzk) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Mam szczęście](https://open.spotify.com/album/3UNZoZc7MNA1mcsREhVr43) | 2:44 |
-| 60 | [s.o.s.](https://open.spotify.com/track/2ZmrJdAL2KCp3dOhfuz7Yh) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Serce](https://open.spotify.com/album/2DS7nuqs28amXxGagoQ6fh) | 3:37 |
+| 59 | [Cud](https://open.spotify.com/track/5hhMCMRnKXW8IaUgKt4TZd) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [12](https://open.spotify.com/album/2Ja2TJxq2gWvuIAacJ9wxz) | 3:06 |
+| 60 | [Wstyd](https://open.spotify.com/track/0YgKSJYoOyPWoyOoAOTkzk) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Mam szczęście](https://open.spotify.com/album/3UNZoZc7MNA1mcsREhVr43) | 2:44 |
 
 Snapshot ID: `Z9PrHQAAAADjFpX7ktRzlpRQonWcgNRN`

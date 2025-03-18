@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: HOSHI x WOOZI \(SEVENTEEN\)
 
-476 songs - 1 day 2 hr 57 min
+477 songs - 1 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Be on Your side](https://open.spotify.com/track/5iQsAcv8MVj6VmgB8p5p5E) | [to HEROes](https://open.spotify.com/artist/4595ewOM0MqP7rWYdgBxvA) | [Be on Your side](https://open.spotify.com/album/586zV1h5mqSkQFCq93J8gF) | 3:39 | 2024-03-17 | 2025-03-07 |
 | [Beat Loud](https://open.spotify.com/track/0WRnKTDzekbS2w3gSNEmBo) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [Beat Loud](https://open.spotify.com/album/4sbCLv9RdWQjdEVoRltRZD) | 2:52 | 2024-05-07 | 2024-05-22 |
 | [Believe in You](https://open.spotify.com/track/3Hk8BKGT8dvK0ytIEtW58I) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Believe in You](https://open.spotify.com/album/2TF8O4dj2PjVi7ANQp5ACH) | 4:16 | 2024-07-09 | 2024-11-15 |
-| [Best Friend](https://open.spotify.com/track/6LiTEXFsVO0hbSnplg5HNO) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [Best Friend](https://open.spotify.com/album/6AD5IWv6dxm5JGo6D4lulH) | 3:17 | 2025-03-06 |  |
+| [Best Friend](https://open.spotify.com/track/6LiTEXFsVO0hbSnplg5HNO) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [Best Friend](https://open.spotify.com/album/6AD5IWv6dxm5JGo6D4lulH) | 3:17 | 2025-03-06 | 2025-03-18 |
 | [Better Half \(feat\. Omoinotake\)](https://open.spotify.com/track/1beUALLSloBEvYre65QiW6) | [JEONGHAN](https://open.spotify.com/artist/6KDLlQYeeqUe5OQ2JrdNzF), [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [Better Half \(feat\. Omoinotake\)](https://open.spotify.com/album/6nIPGzCGclgKS7r5vt5oy9) | 3:54 | 2025-03-06 |  |
 | [Birthday](https://open.spotify.com/track/7251TzfUfdUfvTiEm0VrjQ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Birthday](https://open.spotify.com/album/4lgToZ6PFbsj6PpN1qfKGa) | 2:44 | 2024-10-01 | 2025-03-07 |
 | [Black Out \(JO1 ver.\)](https://open.spotify.com/track/1o4Vt7q9MI7UueHETvJKrE) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Black Out \(JO1 ver.\)](https://open.spotify.com/album/1ZckrYjluJwpYvRnX2jRSk) | 3:23 | 2023-12-12 | 2024-01-17 |
@@ -109,7 +109,7 @@
 | [FLOW](https://open.spotify.com/track/2qLRfCmK69VvxTLpGzWLrj) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [FLOW](https://open.spotify.com/album/21CHgBI3l9kBYeAq9Ugawb) | 2:47 | 2024-03-07 | 2024-03-13 |
 | [FLY](https://open.spotify.com/track/6lOhNJIzPKHfR0wmmxO8Vr) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [FLY](https://open.spotify.com/album/5NmGBpMFTTM63A5O5g1IM2) | 3:31 | 2024-01-04 | 2024-03-13 |
 | [Forever Blue](https://open.spotify.com/track/5Epzmc0vxSjClQORKZnl34) | [crhug](https://open.spotify.com/artist/2YquAy5FoS3m5T1nvCpi3I) | [Forever Blue](https://open.spotify.com/album/002n8cm17f4VQz5Y2LWYVy) | 2:59 | 2024-02-20 | 2024-03-06 |
-| [Fraktsiya](https://open.spotify.com/track/6m66Qk7oHVwSNQIvdoul4E) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Fraktsiya](https://open.spotify.com/album/5XgrvgkM5v88spRinxNAt6) | 3:12 | 2025-03-06 |  |
+| [Fraktsiya](https://open.spotify.com/track/6m66Qk7oHVwSNQIvdoul4E) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Fraktsiya](https://open.spotify.com/album/5XgrvgkM5v88spRinxNAt6) | 3:12 | 2025-03-06 | 2025-03-18 |
 | [Freaking Happy](https://open.spotify.com/track/1HDW9vo3mnVbkQ02FIGgbC) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [Freaking Happy](https://open.spotify.com/album/19mziDAG9iXSpHdJrKgKYb) | 3:11 | 2023-11-23 | 2024-02-07 |
 | [Friends](https://open.spotify.com/track/2xAmZWPjOkZnXhKSZeeueF) | [Maison B](https://open.spotify.com/artist/1Qy0G8x4jcOS1XjupM5jse) | [Friends](https://open.spotify.com/album/4whmDWg2dPmjEWsRcxw9Vy) | 3:24 | 2024-02-15 | 2024-02-21 |
 | [Friends](https://open.spotify.com/track/5aRTOpLmrmlDSNDM2G0SBK) | [Maison B](https://open.spotify.com/artist/1Qy0G8x4jcOS1XjupM5jse) | [Friends](https://open.spotify.com/album/1eJkY7JkpbyHmyE5ix5Ss4) | 3:24 | 2024-02-15 | 2024-02-17 |
@@ -190,7 +190,7 @@
 | [Kyoutou feat\. RYOKI from BE:FIRST](https://open.spotify.com/track/2IdPiAdM5pUmUMtzS1UBnJ) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa), [RYOKI](https://open.spotify.com/artist/5wTRBlhKerluU2z9KGtdFm) | [Kyoutou feat\. RYOKI from BE:FIRST](https://open.spotify.com/album/5xZRKhx7mmHb6SwlY2uPwh) | 2:56 | 2024-04-02 | 2024-04-19 |
 | [Last Festival](https://open.spotify.com/track/4eDednnc8XIGpOmRNcho66) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Single 'Last Bell'](https://open.spotify.com/album/1wDhFS3mm7PlF93J6tu8My) | 3:11 | 2025-03-06 |  |
 | [Last Forever](https://open.spotify.com/track/0MoeICxt3WhCE4WN6y5XS3) | [Last Forever from BATTLE BOYS](https://open.spotify.com/artist/56N4RRJO3XMpJdFo2hhWpn) | [Last Forever](https://open.spotify.com/album/2WQamz2EQH2hxjsAPAwSL9) | 3:33 | 2024-07-30 | 2024-08-23 |
-| [Last Kiss](https://open.spotify.com/track/40YRfhvs1XDqQmjljboKqR) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single \[Last Kiss\]](https://open.spotify.com/album/0L01Rni8NhUiM7e6jQt5oJ) | 3:28 | 2025-03-06 |  |
+| [Last Kiss](https://open.spotify.com/track/40YRfhvs1XDqQmjljboKqR) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single \[Last Kiss\]](https://open.spotify.com/album/0L01Rni8NhUiM7e6jQt5oJ) | 3:28 | 2025-03-06 | 2025-03-18 |
 | [LEGGO](https://open.spotify.com/track/0Etk5PtxW6m3zDYR9Eb7W2) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [LEGGO](https://open.spotify.com/album/1Q7A27EREoht3InaYb51VP) | 2:48 | 2025-03-06 |  |
 | [LEGIT](https://open.spotify.com/track/4I8UCCTQMhCV1tUo6V2KmW) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [LEGIT](https://open.spotify.com/album/5nCj3iJFyQRysLH46vIySh) | 3:34 | 2024-02-06 | 2024-05-13 |
 | [Lemon Candy](https://open.spotify.com/track/5UfQcGBcUKjWrxl8p4mclk) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [HITCHHIKER \(Special Edition\)](https://open.spotify.com/album/7jraMr9F0Qj67bQ085lNvS) | 3:07 | 2024-05-28 | 2024-10-11 |
@@ -383,6 +383,7 @@
 | [Vanilla](https://open.spotify.com/track/40Sa8TQixEoPFU7kosThge) | [A.B.C\-Z](https://open.spotify.com/artist/4HXPfWNUCAFpjMoWyTWz5i) | [BEST OF A.B.C\-Z](https://open.spotify.com/album/0yk8RjLmJXhB9S5A0czgN1) | 4:43 | 2024-04-30 | 2024-05-15 |
 | [Venus](https://open.spotify.com/track/5A6AfI5wfTAY7xnxu1PSUq) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [EQUINOX \(Special Edition\)](https://open.spotify.com/album/5a3C5LKYVvfZGNxfNuT5Qa) | 3:18 | 2023-11-23 | 2024-05-08 |
 | [Vivid](https://open.spotify.com/track/3nXzWBaH6lhOksp1wu8hnL) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Vivid](https://open.spotify.com/album/326p2F8FWYrvdoVgSjLDdB) | 3:24 | 2023-11-23 | 2024-02-28 |
+| [VVV](https://open.spotify.com/track/1W6L8HNg31ufhNVuTmTsH3) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Unexpected](https://open.spotify.com/album/0gr6ALnqNZF1LwubTWP48V) | 3:55 | 2025-03-17 |  |
 | [Walkie Talkie](https://open.spotify.com/track/20mxgOiIMVXhwnDSwfCplt) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [THE FRAME](https://open.spotify.com/album/31T8IEaTjhKw9ziMXisaPe) | 3:04 | 2024-06-25 | 2024-07-03 |
 | [Walkin On Water](https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz) | 2:28 | 2025-03-06 |  |
 | [Waterfall](https://open.spotify.com/track/180UE30SYVQfYU02UzcyHT) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Waterfall](https://open.spotify.com/album/0w9NEJmBHrCvWewrujlOgt) | 2:53 | 2024-01-31 | 2024-04-11 |

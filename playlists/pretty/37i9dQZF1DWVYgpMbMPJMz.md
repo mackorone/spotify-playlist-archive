@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover:  Bethel Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,024,263 likes - 99 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,024,326 likes - 99 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

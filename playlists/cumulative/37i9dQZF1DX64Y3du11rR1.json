@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/1EfRK5vjQxeRyFiDKGgNih"
+      },
+      "artists": [
+        {
+          "name": "Eric Serenade",
+          "url": "https://open.spotify.com/artist/6Hqfwx2sW2vYX6tvA1SMda"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188124,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2w2pewokxDHk6bktVmz7GH"
+    },
+    {
+      "album": {
         "name": "Cold Heart",
         "url": "https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl"
       },

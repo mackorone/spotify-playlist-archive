@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Luke Bower
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,228 likes - 98 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,256 likes - 98 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

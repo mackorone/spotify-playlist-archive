@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > vi ses på din parkering om ingenting går fel 🚗
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,170 likes - 113 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,174 likes - 113 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

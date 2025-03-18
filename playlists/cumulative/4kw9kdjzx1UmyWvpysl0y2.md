@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-938 songs - 2 day 5 hr 6 min
+939 songs - 2 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,6 +688,7 @@
 | [Run Right Back](https://open.spotify.com/track/2sSn4HVYNcaegvazLKG0dz) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Holochrome](https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ) | [Run Right Back](https://open.spotify.com/album/6HR3uI5fIW1a9gq2Aa44Uw) | 4:04 | 2024-04-30 | 2024-07-20 |
 | [Running Faster](https://open.spotify.com/track/1eJyFR21xkbS6JJIt5PUCH) | [Seawayz](https://open.spotify.com/artist/1kDtzWANi4LOiGt0uM5Wjr), [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I) | [Running Faster](https://open.spotify.com/album/1XRiyMmGXUtzboy9peGHoe) | 3:51 | 2022-03-02 | 2022-05-13 |
 | [Rush](https://open.spotify.com/track/2CO0oj3F0zhFQwKjKD7H5h) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Rush](https://open.spotify.com/album/4kCmOv70f0zmMMS3rLYhIR) | 2:31 | 2023-06-14 | 2023-09-26 |
+| [RUSH](https://open.spotify.com/track/0XzKj2ATe07KA0eJfrdNjL) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [RUSH](https://open.spotify.com/album/3GttPaPelfvJFskKNHlVkS) | 2:53 | 2025-03-17 |  |
 | [S.O.S](https://open.spotify.com/track/6GILOzBgkTHtyinx0SvI4r) | [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd), [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [S.O.S](https://open.spotify.com/album/0z7xVubreIoeySVXQuAPN3) | 3:26 | 2024-11-25 | 2025-03-04 |
 | [Safer Place](https://open.spotify.com/track/3bEcHt8DDUMvK67yrd35Qy) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [LUX](https://open.spotify.com/artist/1xNeaOaf8khvhnxCU4TWcJ) | [Safer Place / Work My Body](https://open.spotify.com/album/473D1rbKmLyh3LtP92FHzs) | 2:52 | 2023-06-21 | 2023-09-26 |
 | [Saganaki](https://open.spotify.com/track/04iOj6dE03qS7icw2Y4qtK) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM) | [Saganaki](https://open.spotify.com/album/6i0N9UHCiTXb8bRI7aKQob) | 3:28 | 2023-04-04 | 2023-06-28 |

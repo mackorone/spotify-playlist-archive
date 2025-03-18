@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > where folk flowers bloom\. cover: The Man The Myth The Meatslab
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,250 likes - 117 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,272 likes - 117 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

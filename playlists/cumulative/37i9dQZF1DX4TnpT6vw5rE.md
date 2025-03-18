@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-325 songs - 18 hr 37 min
+326 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Selenite](https://open.spotify.com/track/2F75VUaZ39SNpcmKoKrtPI) | [salotto](https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE) | [Selenite](https://open.spotify.com/album/0HGLpa9WQQMHb4DgsjuNkb) | 2:56 | 2025-01-14 |  |
 | [Selina's Lullaby](https://open.spotify.com/track/5fuX8gwk2TGrpIKX6RR4Y3) | [Phabels](https://open.spotify.com/artist/4EAkTd9K3QcamFKfvb8jfo) | [Selina's Lullaby](https://open.spotify.com/album/6Kx4PI0i6MxVeodtP9YgBr) | 2:18 | 2020-12-08\* |  |
 | [Sepia Dreams](https://open.spotify.com/track/7AmKStZhRS1vo7aT3vURqO) | [Nebula Drift](https://open.spotify.com/artist/2KFE9LRhcbRSsSJBasIFjh) | [Sepia Dreams](https://open.spotify.com/album/3sykd6tVUWJwCNEhPKCshJ) | 2:42 | 2025-02-26 |  |
+| [Serenices](https://open.spotify.com/track/0Ek8hkMhOi1A39mibfNAkM) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Serenices](https://open.spotify.com/album/0a5gEmKQowK8QiEeCNJ0F4) | 3:03 | 2025-02-26 |  |
 | [Serenitivity](https://open.spotify.com/track/41hD0lo1wIP9GX25JE4Kfu) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Serenitivity](https://open.spotify.com/album/6Vz2CBGS1UcQ1GDTopeXbF) | 3:33 | 2020-12-08\* | 2021-07-06 |
 | [Serenity](https://open.spotify.com/track/1wlctHlUetiWICWw0ZZViF) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Serenity](https://open.spotify.com/album/03Al5TXt2KUtIo6vZkAxSt) | 3:03 | 2024-03-07 |  |
 | [Shorelines](https://open.spotify.com/track/0cVi3D1VYxux7GlRH8nqKf) | [Lucy Vincent](https://open.spotify.com/artist/3aZqkX0ePw0fBoERFYCD6Z) | [Shorelines](https://open.spotify.com/album/5vx5kFb4rwXMzWrCW2Cra0) | 3:16 | 2020-12-08\* | 2025-02-27 |
@@ -324,7 +325,7 @@
 | [We Belong To The Stars](https://open.spotify.com/track/2ud8DOtMIZABZJC0huKtFC) | [Castillo Indigo](https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv) | [We Belong To The Stars](https://open.spotify.com/album/2geyxNpK0n1rdkWJFAmajU) | 3:09 | 2022-12-30 | 2024-11-13 |
 | [We Come and We Go](https://open.spotify.com/track/1mBz7t3HGqDWZ5Wo5IEmDx) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [We Come and We Go](https://open.spotify.com/album/6EZNjD3i26f7ODIz42ymim) | 2:35 | 2025-01-14 |  |
 | [Weave Of Dreams](https://open.spotify.com/track/23xr0LguCmzvlN6OeTaTFb) | [William Keats](https://open.spotify.com/artist/17LlecIqr0KpoiUMya3KEO) | [Weave Of Dreams](https://open.spotify.com/album/0nMZ0q6ssZV679M2zZzoXN) | 2:55 | 2024-09-19 |  |
-| [Weightless Dreams](https://open.spotify.com/track/5UfsYYVyxWRpJ5sBA32Rns) | [Vayalada](https://open.spotify.com/artist/2MMloDSBp4kDC7SflBJrZi) | [Weightless Dreams](https://open.spotify.com/album/1a3IWoGFoLQ1leCfaT0h81) | 2:53 | 2023-10-06 |  |
+| [Weightless Dreams](https://open.spotify.com/track/5UfsYYVyxWRpJ5sBA32Rns) | [Vayalada](https://open.spotify.com/artist/2MMloDSBp4kDC7SflBJrZi) | [Weightless Dreams](https://open.spotify.com/album/1a3IWoGFoLQ1leCfaT0h81) | 2:53 | 2023-10-06 | 2025-03-18 |
 | [Westerfall](https://open.spotify.com/track/2pbp5D1W6KHMTHjVCopP1t) | [Auricz](https://open.spotify.com/artist/1PL9QegP0mArHAjJeJDKWN) | [Westerfall](https://open.spotify.com/album/47VRzxnUBkgeF0wVc5wTLy) | 3:19 | 2022-05-19 | 2023-11-22 |
 | [Where I Sleep](https://open.spotify.com/track/49Nyt0AqUWPzTrV7R4EmLo) | [Meodna](https://open.spotify.com/artist/1acgr2GgwWnpDzCjBF9wsn) | [Where I Sleep](https://open.spotify.com/album/0q0sEiRhgNW7iYlnPIcx3B) | 3:05 | 2024-01-30 | 2025-02-27 |
 | [Whispers Of Tomorrow](https://open.spotify.com/track/6gTHikNHtALWpLA4RKwpj1) | [Intunement](https://open.spotify.com/artist/4T9KclnNdDHCaeuc0k7pPN) | [Whispers Of Tomorrow](https://open.spotify.com/album/6RkA2N5iox9JCHEVWxkhWu) | 2:53 | 2024-03-14 | 2025-01-27 |

@@ -4,7 +4,7 @@
 
 > Instrumental piano versions of famous songs to make you fall asleep.
 
-152 songs - 7 hr 55 min
+156 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Beautiful day](https://open.spotify.com/track/7tvFtyI2LhuDAWWJA4mVqr) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Beautiful day](https://open.spotify.com/album/0RlsiytRwYEp3gu4R7AgzN) | 3:02 | 2023-09-29 |  |
 | [Beauty And The Beast](https://open.spotify.com/track/64Ld2wt8Mta8Bsx6AHfUqj) | [Donovan Lakeberg](https://open.spotify.com/artist/6jqNvAr2VhCaV556fIT3b8) | [Beauty And The Beast](https://open.spotify.com/album/3P5y0GZyb6kp6GCJDqjtLm) | 3:13 | 2023-09-29 |  |
 | [Believe](https://open.spotify.com/track/6kMwwEbT5D5PRQIcxnAMNv) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [Believe](https://open.spotify.com/album/2ksSiJnEhlCNvqSPxZKSRR) | 3:24 | 2023-11-17 |  |
+| [Birds of a Feather](https://open.spotify.com/track/0m3AJBXkOPykXBbvczisHm) | [Damien May](https://open.spotify.com/artist/0WTFaMNzMsXGgCGJpYX3Ou) | [Birds of a Feather](https://open.spotify.com/album/6iLAfljIFwZHe5jvMzotg5) | 2:47 | 2025-03-17 |  |
 | [Blackbird](https://open.spotify.com/track/4tOBuYNT6MX1r6DaVu7HYC) | [Laszlo Teofil](https://open.spotify.com/artist/2b9trXzxgbOKfsHAJoZo9a) | [Blackbird](https://open.spotify.com/album/3nnxWFQF3NRprMU3R3V4P4) | 3:08 | 2023-09-29 |  |
 | [Blessings](https://open.spotify.com/track/1Li49MRO6HwKVMS5GnjKqZ) | [Love Falk](https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK) | [Blessings](https://open.spotify.com/album/0YVoCMCJAPE1GpUZVtWA0w) | 3:23 | 2023-09-29 |  |
 | [Blue \(Da Ba Dee\)](https://open.spotify.com/track/4JGD5NiVmKVGBjVysCvKIw) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/1oFuXts0JAGBn1OhcWZp2F) | 2:59 | 2023-09-29 | 2024-09-04 |
@@ -62,6 +63,7 @@
 | [Go your own way](https://open.spotify.com/track/16pcdSTB0XzKh0fDa2bqHt) | [Anissa Henderson](https://open.spotify.com/artist/7hWN9tSQOmj0pafX5UWsjE) | [Somewhere only we know](https://open.spotify.com/album/7sTmrR8KKOUvFIM1RgeSbx) | 3:02 | 2023-09-29 |  |
 | [Golden Hour \- Piano](https://open.spotify.com/track/07UZEhzObdhFdBk91IDMxO) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 2:38 | 2023-09-29 | 2024-04-19 |
 | [Golden Hour \- Piano](https://open.spotify.com/track/6VfEhCxKzT7u1fW6lWtHV7) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Golden Hour \(Piano\)](https://open.spotify.com/album/7H4URknmYd8Am6pQLtZny6) | 2:38 | 2024-04-15 |  |
+| [Good Luck, Babe!](https://open.spotify.com/track/7BqCj8yFwzhgElZzC9a6fV) | [Aidan Jennings](https://open.spotify.com/artist/6uUXYuGPRAHHR0TrAvV62o) | [Good Luck, Babe!](https://open.spotify.com/album/3EoCgZ1BmLFnuyklddIXDE) | 2:28 | 2025-03-17 |  |
 | [Goodbye Yellow Brick Road](https://open.spotify.com/track/2qJsAAXFRJDzBDPnGD1HgA) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/3NQazGgBW6d4uioUvaaYx7) | 2:14 | 2023-12-22 |  |
 | [Groovy Kind Of Love](https://open.spotify.com/track/6faVa20KtdwfyzsJ6PaohE) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [Groovy Kind Of Love](https://open.spotify.com/album/6swG5Fj4XarYTsnOm3CVAk) | 3:12 | 2023-09-29 |  |
 | [Hallelujah](https://open.spotify.com/track/5Ejj6d6NWhR1g9oymWBlm2) | [Ron Lopata](https://open.spotify.com/artist/126P8vRqW1X8AOS0LfKbtA) | [Hallelujah](https://open.spotify.com/album/1pQ8qDBJqljz1SzaYXswJt) | 2:54 | 2024-03-22 | 2024-07-19 |
@@ -73,6 +75,7 @@
 | [Hot Stuff](https://open.spotify.com/track/7LPicH0obO6vabRfbMorYf) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Smells Like Teen Spirit](https://open.spotify.com/album/47A6gfz2DtzXSV0HpHQUiY) | 3:30 | 2023-09-29 |  |
 | [How Deep Is Your Love](https://open.spotify.com/track/7fMWxDPD58F8goBvmHheSe) | [Ciara Bess](https://open.spotify.com/artist/21mEXcNj7iVlrmlhownRpL) | [How Deep Is Your Love](https://open.spotify.com/album/36XmOrVk3emXrh5nG8RGPL) | 3:05 | 2023-09-29 |  |
 | [I Can't Make You Love Me](https://open.spotify.com/track/1n4ExWaFfgudUSyGVlH5nE) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [I Can't Make You Love Me](https://open.spotify.com/album/4uWU5s11VFZySwedeqOFuD) | 2:36 | 2023-09-29 |  |
+| [I Love You, I'm Sorry](https://open.spotify.com/track/6cQQn17qENxzPHazVOpeXH) | [Oak & Honey](https://open.spotify.com/artist/1uTw6urRN1eni0YP1wEGBb) | [I Love You, I'm Sorry](https://open.spotify.com/album/3dcE0xr4ZDE9bXhN4pHWxx) | 2:27 | 2025-03-17 |  |
 | [I Want It That Way \- Piano Version](https://open.spotify.com/track/6uwARfP6HL4IRwrrLiZgiN) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Famous Songs on Piano 1](https://open.spotify.com/album/2v5hcKlCisxBRszKsSUzOe) | 3:52 | 2023-09-29 |  |
 | [I will always love you](https://open.spotify.com/track/2AGRXcyV3vsCEMdvr8MVjO) | [Chloe Welch](https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD) | [Blackbird](https://open.spotify.com/album/3EDVscTRdrYrar4GWzCYNI) | 2:41 | 2023-09-29 |  |
 | [I Will Wait](https://open.spotify.com/track/3EiU5qZUHJhQFpavXkO2F7) | [Helene Augbert](https://open.spotify.com/artist/2UgCgBhnSiz8CAXdykcOXV) | [I Will Wait](https://open.spotify.com/album/2rIJ96WWRZkmgxP1lRp328) | 3:43 | 2023-09-29 |  |
@@ -128,7 +131,7 @@
 | [Super Trouper](https://open.spotify.com/track/1JEk9nzrQalaE3igPsrTAa) | [Alva Nørgaard](https://open.spotify.com/artist/7HIFfx126uBOqh9lGH8z2b) | [Super Trouper](https://open.spotify.com/album/5R1VLkJnWcEEjmE9SssEWO) | 3:28 | 2024-03-01 |  |
 | [Suspicious Minds](https://open.spotify.com/track/2fLbZSccSwBllR0LS0oTBL) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Smells Like Teen Spirit](https://open.spotify.com/album/47A6gfz2DtzXSV0HpHQUiY) | 2:03 | 2023-09-29 |  |
 | [Sweet Child Of Mine](https://open.spotify.com/track/1pHdcp6JpMyk1V5BO41C9r) | [Angie Goodham](https://open.spotify.com/artist/2UXaJJ11L0oeW9uCxQYxGl) | [Sweet Child Of Mine](https://open.spotify.com/album/4Gw2ScxvjGWYUygc961PbO) | 2:02 | 2023-09-29 | 2024-01-19 |
-| [Thank You For The Music](https://open.spotify.com/track/5ulQSckssGmu09iyxlgCYc) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Thank You For The Music](https://open.spotify.com/album/4CJ1FrArr8OwNTKIYryekH) | 3:26 | 2023-09-29 |  |
+| [Thank You For The Music](https://open.spotify.com/track/5ulQSckssGmu09iyxlgCYc) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Thank You For The Music](https://open.spotify.com/album/4CJ1FrArr8OwNTKIYryekH) | 3:26 | 2023-09-29 | 2025-03-18 |
 | [The Bones](https://open.spotify.com/track/1VxxM2CjF0982zpGHeMrxu) | [Caitlin Owens](https://open.spotify.com/artist/4bwu4i5ewOhlguYr195Wjj) | [The Bones](https://open.spotify.com/album/1Xk4W4ggHkNl4MwJehSQMr) | 3:11 | 2023-09-29 |  |
 | [The final countdown](https://open.spotify.com/track/63VSSY49F6356Lu87MxENx) | [Dan Goten](https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC) | [The final countdown](https://open.spotify.com/album/6Ol7Ix94ugJsxWppUl3n7R) | 2:37 | 2024-03-22 |  |
 | [The First Cut Is The Deepest](https://open.spotify.com/track/2AOwriifqUUyINxFwNqItE) | [Mick Fazio](https://open.spotify.com/artist/62ZayiWK1lr4ROa7YqpKkx) | [Songs for Sunday](https://open.spotify.com/album/0NqYqAmh1MwXEoJJPYBFwt) | 3:16 | 2023-09-29 |  |
@@ -142,6 +145,7 @@
 | [Titanium](https://open.spotify.com/track/7HpOhVbSYn8BNAEiSdvTFv) | [Chloe Welch](https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD) | [Titanium](https://open.spotify.com/album/02eiU5EW1pa8QDg7mczqPk) | 2:34 | 2023-09-29 |  |
 | [Tough Love](https://open.spotify.com/track/6fiJcteH6fErcmD13PmiPq) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Tough Love](https://open.spotify.com/album/6yMais1OVuoMMei5VUH6Bt) | 2:45 | 2023-09-29 |  |
 | [Under Pressure](https://open.spotify.com/track/5YCab8agd3ARAF7Y3Z4wbx) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Love Of My Life \(Tribute to Queen\)](https://open.spotify.com/album/5vUFHXS6MNa3HnJruSpda8) | 3:07 | 2023-09-29 |  |
+| [Under the Bridge](https://open.spotify.com/track/24WsdMaqUh6cxUW4HAcPML) | [Cyrus Holloway](https://open.spotify.com/artist/15imgSvNwI0COJ9tIz0f7b) | [Under the Bridge](https://open.spotify.com/album/3zwmDugY8BdGF9nRJSXpbX) | 2:14 | 2025-03-17 |  |
 | [Vampire](https://open.spotify.com/track/1PJ6gIJxcF3v9TwhrMPBjT) | [Danielle Quenoil](https://open.spotify.com/artist/4nr0yQbnbBCUqUSqQV53l0) | [Vampire](https://open.spotify.com/album/2pfliYSgsm7DY68Pxifaz8) | 3:07 | 2024-01-05 |  |
 | [Versace on the Floor](https://open.spotify.com/track/1yGi29gqjufSYeNWY2wPca) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Versace on the Floor](https://open.spotify.com/album/63JIMLku6xRaZvkpUQTs4R) | 3:18 | 2023-09-29 |  |
 | [Viva La Vida](https://open.spotify.com/track/7kxKactI72Fl5nZpTpLpJh) | [Chris Island](https://open.spotify.com/artist/2ul9XiZKBUguKSAl2b1His) | [Viva La Vida](https://open.spotify.com/album/4ywHnvPY7ZAp3C3440TJIs) | 3:48 | 2023-09-29 |  |

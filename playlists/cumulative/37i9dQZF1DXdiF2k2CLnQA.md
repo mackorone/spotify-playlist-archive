@@ -4,7 +4,7 @@
 
 > Den bästa och största rocklistan i Sverige! ⚡️
 
-253 songs - 16 hr 7 min
+254 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Double Nature](https://open.spotify.com/track/07yVHMlXo1yYj5pnpK5f5x) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Latest Version of the Truth](https://open.spotify.com/album/4hj9NQZbhv7LjEO147YBWx) | 4:44 | 2024-12-19 |  |
 | [Dream Stealer](https://open.spotify.com/track/5oQHPf5TmzfR55syUrSIeR) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Dream Stealer](https://open.spotify.com/album/6XEYQ3lAGzmK2JtT5ADpld) | 4:29 | 2024-08-01 | 2024-10-18 |
 | [Elevator Operator](https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Elevator Operator](https://open.spotify.com/album/6JNW5L80qRIaLPhN60fkaM) | 3:09 | 2025-01-23 | 2025-03-07 |
+| [Emergence](https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Emergence](https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH) | 6:26 | 2025-03-17 |  |
 | [Empire](https://open.spotify.com/track/0kbdnyL1f91rMM0eSyjqMm) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Empire](https://open.spotify.com/album/4AWRm5AIt0KJoo7RIH0dVp) | 4:20 | 2024-06-27 | 2024-08-02 |
 | [End The Transmission](https://open.spotify.com/track/7icbQ9Y2IQbI8CgXQCzA8c) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone](https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3) | 3:42 | 2024-06-27 |  |
 | [Enter Sandman](https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:31 | 2024-06-27 | 2024-11-08 |

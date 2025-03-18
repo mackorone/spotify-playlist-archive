@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 16 Mar 14:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 18 Mar 23:02 UTC.",
   "num_followers": 87,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAQVI5r4NKFPATPgeXm9RuSDHyPo26D",
+  "snapshot_id": "AAAQWhYq3FZJmBYKBOM94g+taEGxTfRR",
   "tracks": [
+    {
+      "added_at": "2025-03-17 04:02:42",
+      "album": {
+        "name": "Love (MKB)",
+        "url": "https://open.spotify.com/album/3bXf5d2HIuCMzurxLHdvm9"
+      },
+      "artists": [
+        {
+          "name": "Che",
+          "url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
+        }
+      ],
+      "duration_ms": 192406,
+      "name": "Love (MKB)",
+      "url": "https://open.spotify.com/track/55sHeRRTqwdtO4xRtFet0S"
+    },
     {
       "added_at": "2025-03-16 14:02:26",
       "album": {
@@ -71,6 +87,22 @@
       "duration_ms": 136327,
       "name": "Born Fire",
       "url": "https://open.spotify.com/track/2FktPXK8yLMFyx6ZTQtRSm"
+    },
+    {
+      "added_at": "2025-03-17 09:02:49",
+      "album": {
+        "name": "Sway (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/2lszCSwBW2wm0yIwp0ag6z"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 218950,
+      "name": "Sway - triple j Like A Version",
+      "url": "https://open.spotify.com/track/3SrUc3crJdSzNioTHaDQRf"
     },
     {
       "added_at": "2025-03-14 19:03:42",
@@ -489,6 +521,22 @@
       "url": "https://open.spotify.com/track/6Y7vnTPMGIuNP9w0r9FEQ4"
     },
     {
+      "added_at": "2025-03-17 23:02:40",
+      "album": {
+        "name": "people person",
+        "url": "https://open.spotify.com/album/3QPjj35fwclpXKBT1aFJAr"
+      },
+      "artists": [
+        {
+          "name": "Mclusky",
+          "url": "https://open.spotify.com/artist/3xA9AB0f4BVjsSlyQc12iE"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "people person",
+      "url": "https://open.spotify.com/track/3VPK6iuF4qbHfibpmiOw0c"
+    },
+    {
       "added_at": "2025-03-16 14:02:26",
       "album": {
         "name": "Fantastic Tomb",
@@ -779,54 +827,6 @@
       "duration_ms": 141176,
       "name": "DANCE ON ME",
       "url": "https://open.spotify.com/track/5xdjNYpQNhRldPHcl6FfgQ"
-    },
-    {
-      "added_at": "2025-03-07 04:03:10",
-      "album": {
-        "name": "+ sargasso +",
-        "url": "https://open.spotify.com/album/2x2oSr03mohnIV021ZWg1R"
-      },
-      "artists": [
-        {
-          "name": "Vildhjarta",
-          "url": "https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J"
-        }
-      ],
-      "duration_ms": 405132,
-      "name": "+ sargasso +",
-      "url": "https://open.spotify.com/track/5B3xFiAHesPmNHpW2eDJp8"
-    },
-    {
-      "added_at": "2025-03-09 19:04:05",
-      "album": {
-        "name": "anointment",
-        "url": "https://open.spotify.com/album/2ErOik3Sm5yDZCFkDWZ3co"
-      },
-      "artists": [
-        {
-          "name": "HARU NEMURI",
-          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "anointment",
-      "url": "https://open.spotify.com/track/5oA1G5wko4qIZE3VokD3uC"
-    },
-    {
-      "added_at": "2025-03-10 04:04:26",
-      "album": {
-        "name": "dodging",
-        "url": "https://open.spotify.com/album/7fVuj5ibDRzAXFy8vqZiGv"
-      },
-      "artists": [
-        {
-          "name": "kurtains",
-          "url": "https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP"
-        }
-      ],
-      "duration_ms": 127406,
-      "name": "dodging",
-      "url": "https://open.spotify.com/track/5fLws5pKoCpu4YfwH2rE1V"
     }
   ],
   "unique_name": "New Singles Now",

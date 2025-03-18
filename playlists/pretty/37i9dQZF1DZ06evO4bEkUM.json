@@ -1,12 +1,12 @@
 {
   "description": "This is Paramore. The essential tracks, all in one playlist.",
-  "num_followers": 919465,
+  "num_followers": 919607,
   "original_name": "This Is Paramore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9TDAAAAAAAHm1gBRrPO0DNUG1/v2pWP",
+  "snapshot_id": "Z9YUgAAAAACldC7owceIOqTzCJuazXSK",
   "tracks": [
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burning Down the House",
-        "url": "https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek"
+        "name": "All We Know Is Falling",
+        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 218093,
-      "name": "Burning Down the House",
-      "url": "https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1"
+      "duration_ms": 223280,
+      "name": "Brighter",
+      "url": "https://open.spotify.com/track/3GoNxPKPZPaAAZVQZ003TI"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All We Know Is Falling",
-        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
+        "name": "Burning Down the House",
+        "url": "https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 223280,
-      "name": "Brighter",
-      "url": "https://open.spotify.com/track/3GoNxPKPZPaAAZVQZ003TI"
+      "duration_ms": 218093,
+      "name": "Burning Down the House",
+      "url": "https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singles Club",
-        "url": "https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 208094,
-      "name": "Renegade",
-      "url": "https://open.spotify.com/track/6M9Da8TDERZzTdBYkxMRji"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All We Know Is Falling",
         "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 226293,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/5Pp1H1mFlL6o63omITUvfn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singles Club",
+        "url": "https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 208094,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/6M9Da8TDERZzTdBYkxMRji"
     },
     {
       "added_at": null,

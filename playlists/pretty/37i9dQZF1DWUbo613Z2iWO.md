@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Josh Levi
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,361 likes - 174 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,383 likes - 174 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 19 | [Forget U](https://open.spotify.com/track/7FgjoiSwkVAHHUAzubUTc5) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Forget U](https://open.spotify.com/album/6B6rKxe9yVNtMGrQztaTLO) | 2:33 |
 | 20 | [Pretty Girls Like R&B](https://open.spotify.com/track/4rYAFaC42GZuSM5PTv2ili) | [Aaron Page](https://open.spotify.com/artist/3VDL2INkcXTUD91WQ5qqEJ) | [Pretty Girls Like R&B](https://open.spotify.com/album/0Tij4YB5O8MByK4Ze0SnqF) | 2:24 |
 | 21 | [RUDUMB?](https://open.spotify.com/track/1RH05bSUuaRN1aq7l0lMtN) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [RUDUMB?](https://open.spotify.com/album/27zzEm2EZCnaEg7Gz6BpX4) | 1:57 |
-| 22 | [Overqualified](https://open.spotify.com/track/3lHwn0uVcDUXusIKOoBVHp) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 5:20 |
+| 22 | [Overqualified](https://open.spotify.com/track/3lHwn0uVcDUXusIKOoBVHp) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 5:18 |
 | 23 | [Lullaby](https://open.spotify.com/track/0RJVZpscIbTcsV5yt6960t) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju), [Paradise](https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto) | [Lullaby](https://open.spotify.com/album/5HoyMzfhOVitBuQbMDnq8a) | 3:37 |
 | 24 | [LYTM \- Remix](https://open.spotify.com/track/7pjLceVtuF7cW6odLMcsS2) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [LYTM \(Remix\)](https://open.spotify.com/album/73Zykj32OPA3JzVjLu8Bdk) | 2:40 |
 | 25 | [La La La La La](https://open.spotify.com/track/4OfUF1CY8WAsIBm36HOkWb) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [On my way!](https://open.spotify.com/album/3rWjzYdAQ9re4QkndcDvQE) | 2:07 |

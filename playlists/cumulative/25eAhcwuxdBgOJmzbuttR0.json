@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "2005",
+        "url": "https://open.spotify.com/album/1y8VIK1Q5ajXcuMKmapNTE"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203426,
+      "name": "2005",
+      "url": "https://open.spotify.com/track/1JMKlrFJ28qptDhPhk2h3o"
+    },
+    {
+      "album": {
         "name": "Collide With The Sky",
         "url": "https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk"
       },

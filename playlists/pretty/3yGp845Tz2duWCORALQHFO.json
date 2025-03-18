@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 26016,
+  "num_followers": 26022,
   "original_name": "NEW EDM 2025 \u26a1 EDM HITS 2025 \u26a1 MUSICA ELECTRONICA 2025",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABiSfPDf6hWL1wdZRwoqjGAUYqFI9lQ",
+  "snapshot_id": "AABiTmAXp8IOgRQzwFC2X8traGVQoB7h",
   "tracks": [
     {
       "added_at": "2025-03-14 12:01:00",
@@ -229,6 +229,22 @@
       "url": "https://open.spotify.com/track/4Vk2BQntLWiQ0DMiruVIOQ"
     },
     {
+      "added_at": "2025-03-17 13:57:50",
+      "album": {
+        "name": "Cornered",
+        "url": "https://open.spotify.com/album/0QG3uwJNLEvlB2vkpsP5mL"
+      },
+      "artists": [
+        {
+          "name": "Tej",
+          "url": "https://open.spotify.com/artist/23wNcGsGxFCpKLs1KoLiHL"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Cornered",
+      "url": "https://open.spotify.com/track/37U9uVBaelkgWJo4DV4yNG"
+    },
+    {
       "added_at": "2025-03-14 15:08:11",
       "album": {
         "name": "Aggression Unleashed",
@@ -309,6 +325,30 @@
       "url": "https://open.spotify.com/track/5qaBH4UBmWeidfGSQfnW51"
     },
     {
+      "added_at": "2025-03-17 13:56:54",
+      "album": {
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/4X2Hs6UK9s9HltyH5YFZ9O"
+      },
+      "artists": [
+        {
+          "name": "LOVESLAP",
+          "url": "https://open.spotify.com/artist/02oz9VVx9AXSoUQ8mA4LRS"
+        },
+        {
+          "name": "Sophia Lin",
+          "url": "https://open.spotify.com/artist/0d29gbCgj2P9WRmUjWMXs4"
+        },
+        {
+          "name": "Alex Dynamix",
+          "url": "https://open.spotify.com/artist/6uBnDa4XLRqlMZsoiH5F3Q"
+        }
+      ],
+      "duration_ms": 202661,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/64RLTESBlqroqIGwpDuztG"
+    },
+    {
       "added_at": "2025-03-16 13:31:04",
       "album": {
         "name": "It's Not Goodbye, It's See You Later",
@@ -375,6 +415,54 @@
       "duration_ms": 234000,
       "name": "Anaconda Strike",
       "url": "https://open.spotify.com/track/7tGzCjhUVfVSJmIxeGC8OX"
+    },
+    {
+      "added_at": "2025-03-17 13:57:51",
+      "album": {
+        "name": "Calypso",
+        "url": "https://open.spotify.com/album/4riuBQFUwPHhUt17Ey3pHw"
+      },
+      "artists": [
+        {
+          "name": "MIRAMAR",
+          "url": "https://open.spotify.com/artist/1cdAAVlSzE9pXHJQHDv2AK"
+        }
+      ],
+      "duration_ms": 192942,
+      "name": "Calypso",
+      "url": "https://open.spotify.com/track/5vxj3LXwlY5x7KUL0cH6YC"
+    },
+    {
+      "added_at": "2025-03-17 13:56:52",
+      "album": {
+        "name": "Body Rock",
+        "url": "https://open.spotify.com/album/4VLhUDOkhUIxIcXd1FPZBU"
+      },
+      "artists": [
+        {
+          "name": "Mark II",
+          "url": "https://open.spotify.com/artist/1cmenhh53C5UVyUOlzJ6qy"
+        }
+      ],
+      "duration_ms": 167343,
+      "name": "Body Rock",
+      "url": "https://open.spotify.com/track/3J5xphvGkNLXBGrCvYWZ79"
+    },
+    {
+      "added_at": "2025-03-17 13:55:51",
+      "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/3M0pQBDn0ndX5OUOsPgw1t"
+      },
+      "artists": [
+        {
+          "name": "R3ND",
+          "url": "https://open.spotify.com/artist/3kzkwE5OSH8L50iHuHc6KF"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/20xiTMZUHTNiBSvyQ7PKOZ"
     },
     {
       "added_at": "2025-03-14 14:49:31",

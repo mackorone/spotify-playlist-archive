@@ -4,30 +4,30 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 46,544 likes - 102 songs - 5 hr 29 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 46,560 likes - 102 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [KICKED OUTTA HEAVEN](https://open.spotify.com/track/56gBSM3gpNLjBJhDD4cMAh) | [Conor Matthews](https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq) | [KICKED OUTTA HEAVEN](https://open.spotify.com/album/4QMT7w6N35nax2jsbFhZrf) | 2:22 |
-| 2 | [Solitude](https://open.spotify.com/track/7DnXsjeOmOlT1LZVT4F6ey) | [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [Solitude](https://open.spotify.com/album/27PNybvsnGEaBIDhNPSjib) | 3:45 |
-| 3 | [Misery](https://open.spotify.com/track/1GnwRHSnwZ0clkFJgfHHBS) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO) | [Misery](https://open.spotify.com/album/7CvfOOp2EzaJtlaHe0rmIH) | 2:12 |
-| 4 | [Aweh](https://open.spotify.com/track/7qDjCYL4F7xvLm9LsqEw5U) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [Aweh](https://open.spotify.com/album/7FVDyG8RryPZC9qPzl1bzZ) | 3:04 |
-| 5 | [Jaded](https://open.spotify.com/track/6jp9R6vXAtu7QpHESIkecw) | [Isaac Lewis](https://open.spotify.com/artist/0zMOuBo9Jxo4JvgH2IHdHO) | [Jaded](https://open.spotify.com/album/6JY1XnVh6Qi6URj1rdNxoW) | 4:11 |
-| 6 | [NEVERLAND](https://open.spotify.com/track/0SuqIPx39YIK1YXGEC8aPU) | [Martin Oh](https://open.spotify.com/artist/6HLceITotixnO2OoXhc5so) | [BETTER PLACE EP](https://open.spotify.com/album/35HBM3aCghSdVuXwGdvoXN) | 3:15 |
-| 7 | [Masquerade](https://open.spotify.com/track/3Xk4QYUoZ1TszBMINEHkUa) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Masquerade](https://open.spotify.com/album/4RFi9MnCrBsxIM01Vq9hdy) | 3:47 |
-| 8 | [Dirty Old Town](https://open.spotify.com/track/6h445SubjrkKJZsfcO5fFY) | [The High Kings](https://open.spotify.com/artist/6wXjctGBzxkT0ghwfQ8FC0) | [Dirty Old Town / Rare Old Mountain Dew](https://open.spotify.com/album/6wYkULI6u28YxNPC5XKvES) | 2:53 |
-| 9 | [WOPX3](https://open.spotify.com/track/58xZAvotMgqk10Hi5bSJxc) | [Boobie Lootaveli](https://open.spotify.com/artist/6f4aJlAHj8LX3yAytAmWlu) | [WOPX3](https://open.spotify.com/album/1vNz4VBn5h16kHuTXq1H5c) | 2:48 |
-| 10 | [The One](https://open.spotify.com/track/7FXdnnHVqJHGqlcz53MlKQ) | [Lost Saints](https://open.spotify.com/artist/7yesAkgxokciQUMxMeZtsy) | [The One](https://open.spotify.com/album/5ga51N4eQOKEafwSuWNvUh) | 3:34 |
-| 11 | [Movin'](https://open.spotify.com/track/0uK4GJYVL6rx7yRMHHOKE5) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [The Plunge](https://open.spotify.com/album/3mGop1gP8tChVajxB4gEZ4) | 2:27 |
-| 12 | [To Be Evil](https://open.spotify.com/track/3SiL0WJs9X0NJf2QWlnwTC) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [To Be Evil](https://open.spotify.com/album/0qqJo4HFwXGKvHN9cudtly) | 3:45 |
-| 13 | [Emmagen Creek](https://open.spotify.com/track/4PYUQZvuL3UFZo9d6qS88o) | [Ruby Gill](https://open.spotify.com/artist/51KkytVOUvaM9m0CoY9mBU) | [Emmagen Creek](https://open.spotify.com/album/5sEvqH5OvXVgIJezftha5J) | 3:49 |
-| 14 | [Mascarade.](https://open.spotify.com/track/7gckqVJTgSzLbGZXqrhjwT) | [kaye](https://open.spotify.com/artist/2LWuiriYyZn5yvg4ejXEBc) | [Mascarade.](https://open.spotify.com/album/3YHQxtcMkKOXT4Vw8bKGrW) | 1:53 |
-| 15 | [ur name](https://open.spotify.com/track/1hdzwRpkRRRabHGgmh2xyF) | [Jay Faded](https://open.spotify.com/artist/1Uh0ICHXIezbKnGUoEVzyZ), [SWITCH O](https://open.spotify.com/artist/4BYxDAfIkHSb4HsaSzuLid) | [ur name](https://open.spotify.com/album/7DtIkGc5Hiy4esYaStZs6X) | 2:02 |
-| 16 | [No Touching](https://open.spotify.com/track/6DrkZ0vxnKqP3Jl5ARSajg) | [J\. Caesar](https://open.spotify.com/artist/6ORvJlDfKQanl44XNrLvJK) | [No Touching](https://open.spotify.com/album/514fshzV70Ao8jetSDsKLq) | 2:58 |
-| 17 | [Gstar](https://open.spotify.com/track/7LeJCEWWAhmslJW2h8DxmC) | [Skeptic](https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI) | [Gstar](https://open.spotify.com/album/1MqjcM8LCG8su5aZgqNKlP) | 2:56 |
-| 18 | [Ready](https://open.spotify.com/track/3F3GWsrvTU7KwBOcLEvUmC) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Ready](https://open.spotify.com/album/1L6rVYIUx2IyE90ysj8Gcb) | 2:59 |
-| 19 | [Grapevine](https://open.spotify.com/track/2ka2abqTdK4H4KegvBWhP2) | [J Roy](https://open.spotify.com/artist/7rRFedAKfMgBtaOqrkw6Wm) | [Grapevine](https://open.spotify.com/album/6i2bzeKCkCo46iJlDuZ7qR) | 2:40 |
-| 20 | [WA KA NA DU](https://open.spotify.com/track/76PJmdowt0Cti0eazIggsZ) | [Juls Cattáneo](https://open.spotify.com/artist/3GGuxaBVYQDOJjImFOXYkW) | [Weirdo](https://open.spotify.com/album/7GWhy98tLt7G9jPhqjYtZX) | 3:01 |
+| 2 | [WA KA NA DU](https://open.spotify.com/track/76PJmdowt0Cti0eazIggsZ) | [Juls Cattáneo](https://open.spotify.com/artist/3GGuxaBVYQDOJjImFOXYkW) | [Weirdo](https://open.spotify.com/album/7GWhy98tLt7G9jPhqjYtZX) | 3:01 |
+| 3 | [Solitude](https://open.spotify.com/track/7DnXsjeOmOlT1LZVT4F6ey) | [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [Solitude](https://open.spotify.com/album/27PNybvsnGEaBIDhNPSjib) | 3:45 |
+| 4 | [Misery](https://open.spotify.com/track/1GnwRHSnwZ0clkFJgfHHBS) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO) | [Misery](https://open.spotify.com/album/7CvfOOp2EzaJtlaHe0rmIH) | 2:12 |
+| 5 | [Aweh](https://open.spotify.com/track/7qDjCYL4F7xvLm9LsqEw5U) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [Aweh](https://open.spotify.com/album/7FVDyG8RryPZC9qPzl1bzZ) | 3:04 |
+| 6 | [Jaded](https://open.spotify.com/track/6jp9R6vXAtu7QpHESIkecw) | [Isaac Lewis](https://open.spotify.com/artist/0zMOuBo9Jxo4JvgH2IHdHO) | [Jaded](https://open.spotify.com/album/6JY1XnVh6Qi6URj1rdNxoW) | 4:11 |
+| 7 | [NEVERLAND](https://open.spotify.com/track/0SuqIPx39YIK1YXGEC8aPU) | [Martin Oh](https://open.spotify.com/artist/6HLceITotixnO2OoXhc5so) | [BETTER PLACE EP](https://open.spotify.com/album/35HBM3aCghSdVuXwGdvoXN) | 3:15 |
+| 8 | [Masquerade](https://open.spotify.com/track/3Xk4QYUoZ1TszBMINEHkUa) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Masquerade](https://open.spotify.com/album/4RFi9MnCrBsxIM01Vq9hdy) | 3:47 |
+| 9 | [Dirty Old Town](https://open.spotify.com/track/6h445SubjrkKJZsfcO5fFY) | [The High Kings](https://open.spotify.com/artist/6wXjctGBzxkT0ghwfQ8FC0) | [Dirty Old Town / Rare Old Mountain Dew](https://open.spotify.com/album/6wYkULI6u28YxNPC5XKvES) | 2:53 |
+| 10 | [WOPX3](https://open.spotify.com/track/58xZAvotMgqk10Hi5bSJxc) | [Boobie Lootaveli](https://open.spotify.com/artist/6f4aJlAHj8LX3yAytAmWlu) | [WOPX3](https://open.spotify.com/album/1vNz4VBn5h16kHuTXq1H5c) | 2:48 |
+| 11 | [The One](https://open.spotify.com/track/7FXdnnHVqJHGqlcz53MlKQ) | [Lost Saints](https://open.spotify.com/artist/7yesAkgxokciQUMxMeZtsy) | [The One](https://open.spotify.com/album/5ga51N4eQOKEafwSuWNvUh) | 3:34 |
+| 12 | [Movin'](https://open.spotify.com/track/0uK4GJYVL6rx7yRMHHOKE5) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [The Plunge](https://open.spotify.com/album/3mGop1gP8tChVajxB4gEZ4) | 2:27 |
+| 13 | [To Be Evil](https://open.spotify.com/track/3SiL0WJs9X0NJf2QWlnwTC) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [To Be Evil](https://open.spotify.com/album/0qqJo4HFwXGKvHN9cudtly) | 3:45 |
+| 14 | [Emmagen Creek](https://open.spotify.com/track/4PYUQZvuL3UFZo9d6qS88o) | [Ruby Gill](https://open.spotify.com/artist/51KkytVOUvaM9m0CoY9mBU) | [Emmagen Creek](https://open.spotify.com/album/5sEvqH5OvXVgIJezftha5J) | 3:49 |
+| 15 | [Mascarade.](https://open.spotify.com/track/7gckqVJTgSzLbGZXqrhjwT) | [kaye](https://open.spotify.com/artist/2LWuiriYyZn5yvg4ejXEBc) | [Mascarade.](https://open.spotify.com/album/3YHQxtcMkKOXT4Vw8bKGrW) | 1:53 |
+| 16 | [ur name](https://open.spotify.com/track/1hdzwRpkRRRabHGgmh2xyF) | [Jay Faded](https://open.spotify.com/artist/1Uh0ICHXIezbKnGUoEVzyZ), [SWITCH O](https://open.spotify.com/artist/4BYxDAfIkHSb4HsaSzuLid) | [ur name](https://open.spotify.com/album/7DtIkGc5Hiy4esYaStZs6X) | 2:02 |
+| 17 | [No Touching](https://open.spotify.com/track/6DrkZ0vxnKqP3Jl5ARSajg) | [J\. Caesar](https://open.spotify.com/artist/6ORvJlDfKQanl44XNrLvJK) | [No Touching](https://open.spotify.com/album/514fshzV70Ao8jetSDsKLq) | 2:58 |
+| 18 | [Gstar](https://open.spotify.com/track/7LeJCEWWAhmslJW2h8DxmC) | [Skeptic](https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI) | [Gstar](https://open.spotify.com/album/1MqjcM8LCG8su5aZgqNKlP) | 2:56 |
+| 19 | [Ready](https://open.spotify.com/track/3F3GWsrvTU7KwBOcLEvUmC) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Ready](https://open.spotify.com/album/1L6rVYIUx2IyE90ysj8Gcb) | 2:59 |
+| 20 | [Grapevine](https://open.spotify.com/track/2ka2abqTdK4H4KegvBWhP2) | [J Roy](https://open.spotify.com/artist/7rRFedAKfMgBtaOqrkw6Wm) | [Grapevine](https://open.spotify.com/album/6i2bzeKCkCo46iJlDuZ7qR) | 2:40 |
 | 21 | [Calling](https://open.spotify.com/track/4K4kDiCBdBuKm2jPhn6WZV) | [Gully](https://open.spotify.com/artist/1xYVI9pSD1zVoJPx7ThoQW), [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix) | [Calling](https://open.spotify.com/album/0jJizWZulzYtbDvJwj6g1T) | 1:41 |
 | 22 | [Dopeboy](https://open.spotify.com/track/5FtPapM2zslDdSYEri9Ls1) | [Tay Jordan](https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct) | [Dopeboy](https://open.spotify.com/album/0FrLwLBNhAhPc1QRl0dpIS) | 3:10 |
 | 23 | [Tun UP](https://open.spotify.com/track/52zmKQwDXI5GW4Tnw6ymgb) | [SB](https://open.spotify.com/artist/0aKoAwqRVhigYe3JlWJKg2) | [Tun UP](https://open.spotify.com/album/0kzkZsRStMVEkjX629oR8i) | 2:50 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 101 | [Your Attention](https://open.spotify.com/track/3wZu0KN8q7dGLs5oIQJdGN) | [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp), [Colcci](https://open.spotify.com/artist/2lJOX4tJ4zpcLgZTNmHhTG) | [Your Attention](https://open.spotify.com/album/2dUoRW42geMUiLqrcXLhkY) | 2:33 |
 | 102 | [Love of My Life](https://open.spotify.com/track/2wSg1TV7x1PEPirIRcaJB4) | [Nell Tiger Free](https://open.spotify.com/artist/3F85NDX4DaKSKFYGFiPszG) | [Love of My Life](https://open.spotify.com/album/2XhuaZcCDgBZgOf6NFfPEZ) | 3:39 |
 
-Snapshot ID: `AAAYkysnc8pKEgnIaDSbVXhH37vkQKLv`
+Snapshot ID: `AAAYlCd8GhjPIPHEZ9xIIyjjoZ4+KJ6b`

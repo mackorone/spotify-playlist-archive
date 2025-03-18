@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  D.O.D, NORTH
 
-1,321 songs - 2 day 22 hr 33 min
+1,322 songs - 2 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Baby](https://open.spotify.com/track/6bAgZ82ueaHXQ8PL0uARXc) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Baby](https://open.spotify.com/album/4zjeXfecjv5DvQr0TNraq3) | 2:38 | 2023-04-28 | 2023-08-01 |
 | [Baby Can You Reach](https://open.spotify.com/track/1KRYPVHqpjLB5peweL2cX5) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Rowetta](https://open.spotify.com/artist/2SbcWzAeIqhsmdyra9tW3z) | [Baby Can You Reach](https://open.spotify.com/album/4FWy3z2xJppiNTKteqVC6t) | 2:57 | 2024-08-22 |  |
 | [Back In The Taxi \- AMÉMÉ Midnight Remix](https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Back In The Taxi \(AMÉMÉ Remix\)](https://open.spotify.com/album/2DfcKSHUivCRQupV5tFbw3) | 4:26 | 2022-06-09 | 2022-07-15 |
+| [Back To Life](https://open.spotify.com/track/1FA0Adwe8FnRNpja1KYyT5) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Back To Life](https://open.spotify.com/album/4rTrhYf2Z7DZG91fQstCkW) | 3:33 | 2025-03-17 |  |
 | [Back To Life](https://open.spotify.com/track/49gSNB9go1HdREQ9X2tAs4) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Tom Westy](https://open.spotify.com/artist/0HhpiOJAde5crSTrd6sMbW) | [Connect](https://open.spotify.com/album/4VI4ooW0RGfpXLCaIODcXP) | 2:49 | 2024-11-21 |  |
 | [Back To Love](https://open.spotify.com/track/7bgg6TYXN8OCHDli94lOKe) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [Back To Love](https://open.spotify.com/album/4oeALA3Duci3OwWivbVNAN) | 2:45 | 2023-06-29 | 2023-12-14 |
 | [Back To You](https://open.spotify.com/track/0TLHzVO3fyM2pTg9XQWutm) | [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc), [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Back To You](https://open.spotify.com/album/5bluYOQ6ASt8vaB1LSA1TI) | 2:33 | 2023-06-08 | 2023-08-01 |

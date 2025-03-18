@@ -1,12 +1,12 @@
 {
   "description": "This is Shane & Shane. The essential tracks, all in one playlist.",
-  "num_followers": 35812,
+  "num_followers": 35814,
   "original_name": "This Is Shane & Shane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9TDAAAAAADzAQul1XPrA/Fj7CHOD0qw",
+  "snapshot_id": "Z9YUgAAAAADVPJL/ij9llouWYFEizgSt",
   "tracks": [
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Worship Initiative, Vol. 3",
-        "url": "https://open.spotify.com/album/2qqe9Y7HEiUE4SKIa9EEgQ"
+        "name": "The Worship Initiative, Vol. 7",
+        "url": "https://open.spotify.com/album/3G89R4Q9ml11o8G646UeMv"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 342625,
-      "name": "Before the Throne of God Above",
-      "url": "https://open.spotify.com/track/3ELvknrrLz8QL36CeIb6Je"
+      "duration_ms": 337954,
+      "name": "You're Beautiful",
+      "url": "https://open.spotify.com/track/6PExqNUN5D4nqBTamndm6k"
     },
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Worship Initiative, Vol. 7",
-        "url": "https://open.spotify.com/album/3G89R4Q9ml11o8G646UeMv"
+        "name": "The Worship Initiative, Vol. 3",
+        "url": "https://open.spotify.com/album/2qqe9Y7HEiUE4SKIa9EEgQ"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 337954,
-      "name": "You're Beautiful",
-      "url": "https://open.spotify.com/track/6PExqNUN5D4nqBTamndm6k"
+      "duration_ms": 342625,
+      "name": "Before the Throne of God Above",
+      "url": "https://open.spotify.com/track/3ELvknrrLz8QL36CeIb6Je"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vintage, Vol. 2",
-        "url": "https://open.spotify.com/album/25aDYnEtVSRnxFEghUmGGy"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 256512,
-      "name": "Grace Flows Down",
-      "url": "https://open.spotify.com/track/2Stkuv3LO3UYhQTsIcEzYq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Modern Hymns",
         "url": "https://open.spotify.com/album/3um1S34YTMpbdo2kEum7k1"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 348820,
       "name": "Speak O Lord",
       "url": "https://open.spotify.com/track/3aeNn39bXDyE2HNPkdYI62"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vintage, Vol. 2",
+        "url": "https://open.spotify.com/album/25aDYnEtVSRnxFEghUmGGy"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 256512,
+      "name": "Grace Flows Down",
+      "url": "https://open.spotify.com/track/2Stkuv3LO3UYhQTsIcEzYq"
     },
     {
       "added_at": null,

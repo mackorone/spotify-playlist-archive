@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of Buried Hearts\. \(보물섬의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-37 songs - 2 hr 0 min
+43 songs - 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,10 @@
 | [Animals](https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:51 | 2025-03-04 |  |
 | [As the World Caves In](https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [As the World Caves In](https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0) | 3:38 | 2025-03-04 |  |
 | [Ashes](https://open.spotify.com/track/3Pj6u2KTgepyyidp5xfbHp) | [Stellar](https://open.spotify.com/artist/5yw4tA8D5uG7tT3NaDvq10) | [Ashes](https://open.spotify.com/album/41gMZm0ib3Je8hU0eFNUwS) | 2:46 | 2025-03-04 |  |
+| [Break Through](https://open.spotify.com/track/4tn0pD2FqGzRk7aYlGYo3Q) | [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/4jmtdgwQ5KF7T4ctahZ9c3) | 3:49 | 2025-03-18 |  |
+| [Break Through \- Instrumental](https://open.spotify.com/track/1hwA08Pi1JnsDMovKant06) | [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/4jmtdgwQ5KF7T4ctahZ9c3) | 3:49 | 2025-03-18 |  |
+| [Break Through \- Orchestra Version](https://open.spotify.com/track/6DHYmbWoZ6fBJStg2IRXij) | [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/4jmtdgwQ5KF7T4ctahZ9c3) | 4:16 | 2025-03-18 |  |
+| [Break Through \- Orchestra Version Instrumental](https://open.spotify.com/track/1GnoYAe2J56T7gy6s6NEgC) | [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/4jmtdgwQ5KF7T4ctahZ9c3) | 4:16 | 2025-03-18 |  |
 | [Confusion](https://open.spotify.com/track/2Ra0CiV9BzLmIbxpbFHSLC) | [Shinae An](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/7BjmsMYl74bHxiPyq9UFZ5) | 4:06 | 2025-03-06 |  |
 | [Confusion \- Instrumental](https://open.spotify.com/track/6zxtrcFiwaRx6N945xUD6A) | [Shinae An](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/7BjmsMYl74bHxiPyq9UFZ5) | 4:06 | 2025-03-06 |  |
 | [Curated by Hong Hwayeon](https://open.spotify.com/track/46G6LdRd32v8oZzrpaSt02) | [Buried Hearts](https://open.spotify.com/artist/4w3eOAw5hMfec69SdYJ8Kw) | [Buried Hearts Audio Liners](https://open.spotify.com/album/4Hd0zQ6HI3ZtRxj8TdbqHl) | 0:24 | 2025-03-04 |  |
@@ -36,6 +40,8 @@
 | [Secret Garden](https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | 3:44 | 2025-03-04 |  |
 | [She Chose Me](https://open.spotify.com/track/6PGaHXbIW1oFf1ER258tLi) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 2:19 | 2025-03-04 |  |
 | [Shxtty Game](https://open.spotify.com/track/4UToDzb0OxKTPQNZt1aL4x) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 3:09 | 2025-03-04 |  |
+| [Stand By Me](https://open.spotify.com/track/7LlCMXer4UnovDGdFKhHQh) | [Elaine](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/0bnmX48jdvWM1DI84cEvdC) | 3:19 | 2025-03-18 |  |
+| [Stand By Me \- Instrumental](https://open.spotify.com/track/2MkQD4Y9XLF0NkzHDszA1n) | [Elaine](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/0bnmX48jdvWM1DI84cEvdC) | 3:19 | 2025-03-18 |  |
 | [Stronger \(What Doesn't Kill You\)](https://open.spotify.com/track/6D60klaHqbCl9ySc8VcRss) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj) | 3:41 | 2025-03-04 |  |
 | [Teeth](https://open.spotify.com/track/3NxWJWftvkstyxvb1pZlFo) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [CALM](https://open.spotify.com/album/46K4raQPIGem3N031upNj9) | 3:25 | 2025-03-04 |  |
 | [Unstoppable](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:37 | 2025-03-04 |  |

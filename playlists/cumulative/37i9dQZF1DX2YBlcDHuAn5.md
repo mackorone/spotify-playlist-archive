@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-210 songs - 12 hr 33 min
+211 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-09-01 | 2024-06-28 |
 | [Feel Alright](https://open.spotify.com/track/7fF6Af2M3vL4IUtE8cMy6G) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [I Feel Alright](https://open.spotify.com/album/1CEAVKLVVaCoKyEoVVr8Bh) | 2:56 | 2023-02-23 | 2023-10-06 |
 | [Feel Like Going Home \(feat\. The Southern Aces & Jw Roy\)](https://open.spotify.com/track/5vJxxRPswssA0WWHzd1g6s) | [Malford Milligan](https://open.spotify.com/artist/2QJLuDh3Dcw0RrNMusUMHz), [The Southern Aces](https://open.spotify.com/artist/3mwhEzwbXlTrbVojkG9LVI), [JW Roy](https://open.spotify.com/artist/3i31y6LSpJEgV5ny8fw66d) | [Life Will Humble You](https://open.spotify.com/album/4RhJ3rxqGdeYwyOy2GLQdZ) | 4:48 | 2023-04-27 | 2023-04-30 |
-| [First Round's On Me](https://open.spotify.com/track/1wlyN4XbTIQGc5m4m2itSP) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [First Round's On Me](https://open.spotify.com/album/5NV6aYPbb3rwxBg0isBUy8) | 3:56 | 2024-06-13 |  |
+| [First Round's On Me](https://open.spotify.com/track/1wlyN4XbTIQGc5m4m2itSP) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [First Round's On Me](https://open.spotify.com/album/5NV6aYPbb3rwxBg0isBUy8) | 3:56 | 2024-06-13 | 2025-03-18 |
 | [Flowers in the Fields](https://open.spotify.com/track/5FLPIPTV1R8g4gcQEcFcGB) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Flowers in the Fields](https://open.spotify.com/album/0PRGDUzgoxuwujJqD57qLB) | 3:06 | 2024-08-01 | 2025-01-17 |
 | [For The Better Of Me](https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ) | [Yentl](https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE) | [For The Better Of Me](https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg) | 3:50 | 2023-03-30 | 2024-08-30 |
 | [Forever a Prisoner](https://open.spotify.com/track/5UEffWajlacLxVJd2jODNX) | [Them Dirty Dimes](https://open.spotify.com/artist/5ALoTX7C68nChnuiz2loRP), [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Forever a Prisoner](https://open.spotify.com/album/489krjRSaaFyODbOscNedG) | 3:19 | 2023-08-31 | 2023-10-06 |
@@ -162,6 +162,7 @@
 | [Sam](https://open.spotify.com/track/79KtcWS9S7FhxVGmuyNLbe) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K), [Blue Grass Boogiemen](https://open.spotify.com/artist/0sP3ip1gi7QdAqpYiA4ZlA) | [Ride Again](https://open.spotify.com/album/3T0S5FrGoPeNbgCy2vMYEQ) | 3:06 | 2025-02-07 | 2025-03-14 |
 | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi) | 3:34 | 2025-02-03 |  |
 | [See You Better](https://open.spotify.com/track/3xxZ3wbTJut0V7GBXIosmj) | [Gregory Ackerman](https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX) | [See You Better](https://open.spotify.com/album/02koeBYuztkAMuAHu23XKE) | 3:26 | 2023-02-23 | 2023-02-28 |
+| [Separate Cars](https://open.spotify.com/track/7hwOnTyzAl6Jf8XIKEKv2A) | [Michael Asnot](https://open.spotify.com/artist/1TfbvyIkRpQHY0JIsX4nuL), [Silke](https://open.spotify.com/artist/1qA7JNMyTJw6VmOFr8pyI7) | [Separate Cars](https://open.spotify.com/album/0irmnMY7pNUETNQfVa1A1l) | 3:04 | 2025-03-13 |  |
 | [Silver Morning](https://open.spotify.com/track/7nSE52gSLazh76G7wzGGLt) | [Dan Tuffy](https://open.spotify.com/artist/7E3jTzEtqouFXINhlSgHiy), [Song Crew](https://open.spotify.com/artist/4BgaiIVWUFTGvJ0Pu1ax83), [Zlaya Loud](https://open.spotify.com/artist/4wD0BJ41uvaqif4jwDNP6D) | [Silver Morning](https://open.spotify.com/album/6t0tEMqPYhvwygv6RP4w6p) | 3:01 | 2023-06-02 | 2023-07-07 |
 | [Siren Song](https://open.spotify.com/track/04PEDvQGI03wjMzRohCQRS) | [Mattanja Joy Bradley](https://open.spotify.com/artist/6u9tyg6IXImKbuB5J12ush) | [Siren Song](https://open.spotify.com/album/0thadAuJeTfxPx5FJ9qjim) | 4:09 | 2023-09-14 | 2024-11-15 |
 | [Someone You Love](https://open.spotify.com/track/6oU5j3WOngnD1GcJtshyhB) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Someone You Love](https://open.spotify.com/album/0sMQLfLv6y3ALmcZXJXcUT) | 4:14 | 2023-02-23 | 2024-06-28 |

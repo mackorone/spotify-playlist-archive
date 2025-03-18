@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-188 songs - 9 hr 10 min
+189 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Gangland](https://open.spotify.com/track/1AGeDbAlIcoJN01bLkFN82) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Mankirt Aulakh \- Best Hits](https://open.spotify.com/album/5Cjo7LqqidLgnitIbm9G3L) | 2:48 | 2023-07-18 | 2024-04-19 |
 | [Gangland](https://open.spotify.com/track/4UY2GSXlMHfrfvPbBdlRDv) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Mankirt Aulakh \- Best Hits](https://open.spotify.com/album/1xp8NLdS2cGOKnqaNAGzgA) | 2:48 | 2024-04-06 | 2024-11-07 |
 | [Gangsta](https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 3:10 | 2023-07-18 | 2025-01-30 |
+| [Gangsta Bolliyan](https://open.spotify.com/track/2i8r1sJSgIuLpamd8WJHJp) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N), [Sycostyle](https://open.spotify.com/artist/0OXj50LoqFAQ9qj3dQ9yni) | [Gangsta Bolliyan](https://open.spotify.com/album/4FtmhzKJQ0U3PgZ28g0ucX) | 3:44 | 2025-03-17 |  |
 | [Gears](https://open.spotify.com/track/1cj4y0FUFStkfdEUPyDxfx) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [THE REVOLUTION](https://open.spotify.com/album/1QkGi708j70paXVgKdef65) | 2:30 | 2025-02-19 |  |
 | [GHOSTMODE](https://open.spotify.com/track/2h6MI6a8TkMQZDaZqj2H6o) | [Armaan Gill](https://open.spotify.com/artist/419l4iEymGkojTyDzVYA7j), [Arnaaz Gill](https://open.spotify.com/artist/23NCKM83KhH4vEK4JHTGfx) | [GHOSTMODE](https://open.spotify.com/album/6jC6tPEU71kg4XEx5fi5ea) | 2:27 | 2025-02-03 | 2025-02-26 |
 | [GODFATHER](https://open.spotify.com/track/4bY7k88P0CiTKSh8E0Qlzi) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:00 | 2024-01-30 | 2024-04-07 |
@@ -90,7 +91,7 @@
 | [Hero \(From "Badnaam"\)](https://open.spotify.com/track/0jF77Ini9zPCMMs7lmfogV) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Jayy Randhawa](https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w), [Yaari Ghuman](https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N) | [Hero \(From "Badnaam"\)](https://open.spotify.com/album/6WZJofCfrV15hdQX7AyfeL) | 3:33 | 2025-02-12 |  |
 | [Holster](https://open.spotify.com/track/42PJnUtHQi7hl7D47StuRp) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Advisory](https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj) | 2:07 | 2025-02-06 |  |
 | [HOMONYM](https://open.spotify.com/track/1jN6WPnJmcfuwP3MuST5v9) | [Xvir Grewal](https://open.spotify.com/artist/6kGxwXzhQX2OfUcGNi5Rh6), [Romeoz](https://open.spotify.com/artist/0YaSt6aMB7uVjmA52IwYPX) | [HOMONYM](https://open.spotify.com/album/6bVN0VRIntuVOmNsSg4abG) | 2:26 | 2025-03-13 |  |
-| [Hu Jattiye](https://open.spotify.com/track/72vuc3a2dvWXSKnbHgP1Yl) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Hu Jattiye](https://open.spotify.com/album/73R0sf5hUv3faSxgGBvIJ8) | 2:50 | 2025-02-03 |  |
+| [Hu Jattiye](https://open.spotify.com/track/72vuc3a2dvWXSKnbHgP1Yl) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Hu Jattiye](https://open.spotify.com/album/73R0sf5hUv3faSxgGBvIJ8) | 2:50 | 2025-02-03 | 2025-03-18 |
 | [Humble](https://open.spotify.com/track/3IJj5vXTXvXoGECDjoN0yL) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Humble](https://open.spotify.com/album/7G1XiSRwcQEaucF4EESV03) | 2:33 | 2025-03-10 |  |
 | [HUNDO](https://open.spotify.com/track/7yz7n00FMO8AUxgvBHXZab) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [HUNDO](https://open.spotify.com/album/0vJ4vgqMg9DXt6zsnXaVRN) | 2:23 | 2024-11-08 | 2024-12-04 |
 | [I Wish \(From "Pendu Boyz"\)](https://open.spotify.com/track/0KaRiO1uAtJemzUsxiuDEc) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Pendu Boyz](https://open.spotify.com/artist/77gJmotGj52JsPMGuFuvBW) | [I Wish \(From "Pendu Boyz"\)](https://open.spotify.com/album/4BfaidXSbgIq5DYLnSO3sy) | 2:14 | 2024-09-18 | 2024-11-22 |

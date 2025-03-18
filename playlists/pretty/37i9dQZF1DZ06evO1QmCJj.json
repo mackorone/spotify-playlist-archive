@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 43173,
+  "num_followers": 43180,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9TDAAAAAABs+q00Gc84bH1O2MtJi62D",
+  "snapshot_id": "Z9YUgAAAAAD6/PciY1+yEnOi59EMiJ3C",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERPOP",
-        "url": "https://open.spotify.com/album/6V77SSxyvFabMPHt4I5BF8"
+        "name": "c\u00f3mo te va?",
+        "url": "https://open.spotify.com/album/77moYaJ9XiDjHZCGBveUKD"
       },
       "artists": [
         {
-          "name": "Bel\u00e9n Aguilera",
-          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
-        },
-        {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
         }
       ],
-      "duration_ms": 172632,
-      "name": "LA TIRITA",
-      "url": "https://open.spotify.com/track/3PDpyXUoutFfBapsCDKAY8"
+      "duration_ms": 218853,
+      "name": "c\u00f3mo te va?",
+      "url": "https://open.spotify.com/track/3lf6mWt6LkbQ4OarnxrBGD"
     },
     {
       "added_at": null,
@@ -531,22 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "c\u00f3mo te va?",
-        "url": "https://open.spotify.com/album/77moYaJ9XiDjHZCGBveUKD"
+        "name": "SUPERPOP",
+        "url": "https://open.spotify.com/album/6V77SSxyvFabMPHt4I5BF8"
       },
       "artists": [
         {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+          "name": "Bel\u00e9n Aguilera",
+          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
         },
         {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 218853,
-      "name": "c\u00f3mo te va?",
-      "url": "https://open.spotify.com/track/3lf6mWt6LkbQ4OarnxrBGD"
+      "duration_ms": 172632,
+      "name": "LA TIRITA",
+      "url": "https://open.spotify.com/track/3PDpyXUoutFfBapsCDKAY8"
     },
     {
       "added_at": null,

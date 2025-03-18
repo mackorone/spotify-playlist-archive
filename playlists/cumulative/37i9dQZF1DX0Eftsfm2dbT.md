@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: Tiji Jojo
 
-1,493 songs - 3 day 4 hr 23 min
+1,494 songs - 3 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -952,6 +952,7 @@
 | [Popcorn and Coke](https://open.spotify.com/track/7tAOf5J6GJo1KFcszKgQ1c) | [KVGGLV](https://open.spotify.com/artist/5OHEsmlG3h8uYCTi08UktJ) | [Shaped Canvas 3](https://open.spotify.com/album/6Pl3PiHUB4elhbqXPl4Brb) | 2:37 | 2023-10-24 | 2023-11-09 |
 | [Practice](https://open.spotify.com/track/50bIuo6l6vXbdd0tQPmVK7) | [Daz](https://open.spotify.com/artist/7fG0HLe8Wy1jUNIqI6FDgE), [me2](https://open.spotify.com/artist/1bLpAMszAGByoGRRVdZsuh), [poivre](https://open.spotify.com/artist/6HVxJSc29cidSh4dmntzCf) | [Practice](https://open.spotify.com/album/7MMEOnxiXdFIbq7Fn8Ini2) | 3:52 | 2024-12-10 | 2024-12-25 |
 | [PRADA](https://open.spotify.com/track/64gcGnra2d9fIgtfeIcRiv) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN) | [Blood & Bones \(BLOOD\)](https://open.spotify.com/album/2CyunDLz6Yge8ocHHZi4nN) | 3:04 | 2023-12-18 | 2024-03-01 |
+| [PRE55URE \(feat\. JP THE WAVY, Awich, MFS\)](https://open.spotify.com/track/2ByayvcJqWwJ9uPlnVCXm5) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [SWIRL](https://open.spotify.com/album/23do2zirGkCiF6ZMtVYk3T) | 2:49 | 2025-03-17 |  |
 | [PRICELESS \(feat\. Fuji Taito & Lil Kaviar\)](https://open.spotify.com/track/6JxHPkdXYScyP2envWmpBn) | [Briza Yavaisz Daze](https://open.spotify.com/artist/7nT6RguiEyrhmdNg1hKOmv), [Fuji Taito](https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f), [Lil Kaviar](https://open.spotify.com/artist/6YbMkIcG0mQFp6JMLP8Ryb) | [PRICELESS \(feat\. Fuji Taito & Lil Kaviar\)](https://open.spotify.com/album/30duoeiXNRPGvBm9OCyMQK) | 2:36 | 2025-02-18 | 2025-03-05 |
 | [PRIDE](https://open.spotify.com/track/5iEVrkCrTfSfGUtF0SQlh3) | [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt) | [PRIDE](https://open.spotify.com/album/5k0nELnETzmKXNnlo74HaB) | 3:38 | 2024-05-09 | 2024-07-03 |
 | [PRO](https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:32 | 2023-09-21 | 2024-01-05 |
@@ -1381,7 +1382,7 @@
 | [イカれたゲーム](https://open.spotify.com/track/35AqyuX0ti4FuUnaElmC0o) | [KUJA](https://open.spotify.com/artist/57mU8ikgaVL2JTK5zrr01c), [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [EASTA](https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO) | [イカれたゲーム](https://open.spotify.com/album/3hEPaFA3NrAuHf28kaaqjB) | 3:38 | 2023-10-31 | 2023-11-02 |
 | [オレたちが気になる](https://open.spotify.com/track/5uk6OoObDUbDbvsbfVKlnu) | [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS), [炒炒](https://open.spotify.com/artist/7ACr4V99K9o7WZrPIFlys0), [D\-KARAT](https://open.spotify.com/artist/2RiJGoRLhaoP2CG6AM1ViK) | [Zee PACK vol.2](https://open.spotify.com/album/6SNvmlEdCEpJgUMGOiCokh) | 3:23 | 2023-12-20 | 2023-12-23 |
 | [カナデ](https://open.spotify.com/track/12f1Jpu5Xrcl7JVwmAf1uz) | [GADORO](https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2) | [カナデ](https://open.spotify.com/album/6rvvgIw4mLNYG6M4xE49Vn) | 4:23 | 2023-11-28 | 2024-01-31 |
-| [カリスマ](https://open.spotify.com/track/5UFg1r0PEjZ3KN4lhN89TK) | [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Dark Hero](https://open.spotify.com/album/4XbABQzmrgrArI8oHY65Lm) | 4:33 | 2025-02-12 |  |
+| [カリスマ](https://open.spotify.com/track/5UFg1r0PEjZ3KN4lhN89TK) | [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Dark Hero](https://open.spotify.com/album/4XbABQzmrgrArI8oHY65Lm) | 4:33 | 2025-02-12 | 2025-03-18 |
 | [キミは僕](https://open.spotify.com/track/12PVe4gkPEYQNLQQymQIbU) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [キミは僕](https://open.spotify.com/album/35EcbOyflIhCuOoJeB8fjI) | 3:16 | 2024-04-09 | 2024-05-08 |
 | [コンクリートサバンナ](https://open.spotify.com/track/76fLF0kLJ0mV7xTQqUHQZy) | [Chouji](https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu), [MuKuRo](https://open.spotify.com/artist/7tTAJHjW4myAy5ivdgwhJc) | [コンクリートサバンナ](https://open.spotify.com/album/3IFfDQyuO9RYAv3Zk4ZNOE) | 3:16 | 2024-08-28 | 2024-09-11 |
 | [サイコロ](https://open.spotify.com/track/2PyS0Dvx9eiAXWLgjg4qtN) | [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6) | [サイコロ](https://open.spotify.com/album/1Z6zdkNk4CnvDypdOnSKa1) | 2:28 | 2024-02-06 | 2024-02-08 |

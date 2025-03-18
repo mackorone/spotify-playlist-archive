@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3aj2q4.md) - [plain]
 
 > This is Evanescence\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,687 likes - 44 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,730 likes - 44 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3aj2q4.md) - [plain]
 | 43 | [Across The Universe](https://open.spotify.com/track/75Ov0ZIMoV0HuRwaPQsicp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Across The Universe](https://open.spotify.com/album/3EsATrrGKDb76NIdrOMk2F) | 3:42 |
 | 44 | [The Reckoning \- Live in Amsterdam](https://open.spotify.com/track/2DD2UFduTpt2vq8WefvFtp) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [The Reckoning \(feat\. Amy Lee\) \[Live in Amsterdam\]](https://open.spotify.com/album/6jALyqQddf992tgYntZITS) | 5:22 |
 
-Snapshot ID: `Z9TDAAAAAACq8LuGwwjK2BvuG3mDJHYt`
+Snapshot ID: `Z9YUgAAAAAC621WYV0CVSGqw4AAhRybA`

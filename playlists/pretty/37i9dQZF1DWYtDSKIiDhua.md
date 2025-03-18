@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Rich Brian
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,059 likes - 105 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,062 likes - 105 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 4 | [ANXIETY](https://open.spotify.com/track/7wpUHqR3bLfVR96oYUhp4H) | [Ryanded](https://open.spotify.com/artist/26SRl6CEf3sbyL29igYeUK), [Edi Suriandi](https://open.spotify.com/artist/6OSvlCVTeB5chGKBgSLU35) | [ANXIETY](https://open.spotify.com/album/0md5BbtGT1wVAT0k8PBd0h) | 3:12 |
 | 5 | [I Like It \(feat\. nomoe\)](https://open.spotify.com/track/2yZZEapVT0EiQVUilkWrli) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [QUARAW](https://open.spotify.com/artist/1vwJdPI8K8wdoQQTLdv0Dc), [nomoe](https://open.spotify.com/artist/5m97aceHZJPW3c1CyxKeSu) | [I Like It \(feat\. nomoe\)](https://open.spotify.com/album/7wGzCYdTyqwBd6BtNR40mC) | 2:15 |
 | 6 | [Forever This Time](https://open.spotify.com/track/6XO5EZIVntcbyWtczJjCC2) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Forever This Time](https://open.spotify.com/album/12Rm5vje8CH4J0iR3io2L8) | 4:05 |
-| 7 | [EFFORTLESS \(feat\. Jay Park, GroovyRoom\)](https://open.spotify.com/track/6RLTUqLjJBvqfYksqPBxCu) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [GROOVYROOM](https://open.spotify.com/artist/1EZhXPedZ7Fc4grCSJTvIZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SWIRL](https://open.spotify.com/album/23do2zirGkCiF6ZMtVYk3T) | 3:01 |
+| 7 | [EFFORTLESS \(feat\. Jay Park\) \[Prod\. by GroovyRoom\]](https://open.spotify.com/track/6RLTUqLjJBvqfYksqPBxCu) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SWIRL](https://open.spotify.com/album/23do2zirGkCiF6ZMtVYk3T) | 3:00 |
 | 8 | [The Seize](https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Seize](https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3) | 3:34 |
 | 9 | [more than a friend?](https://open.spotify.com/track/0EJSyxVGp7ZFbrj9WPaubp) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [FION](https://open.spotify.com/artist/5fLp7OniH3WILGy9DBSPNC) | [more than a friend?](https://open.spotify.com/album/4mt2aUYS6oZxdxeCxe1zTu) | 3:08 |
 | 10 | [Promises](https://open.spotify.com/track/5QJ40U3CynwRGa7wmFePDl) | [Arabelle](https://open.spotify.com/artist/7uU11RJKOt74chXI2s6eQf) | [Promises](https://open.spotify.com/album/4H1ifuiljrSCXJn2LI3zLC) | 3:03 |

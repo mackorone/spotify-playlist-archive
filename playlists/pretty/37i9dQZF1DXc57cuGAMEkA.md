@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック  Chappell Roan, Playboi Carti, Lizzo, Lil Nas X, Calvin Harris, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,359 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,366 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 3 | [GOOD CREDIT \(with Kendrick Lamar\)](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
 | 4 | [HOTBOX](https://open.spotify.com/track/398rCeBrqZr360MpS6EXE9) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HOTBOX](https://open.spotify.com/album/3dXTiG15LrfpSmQUP0au5g) | 3:02 |
 | 5 | [バグり \(feat\. kZm, Awich, PETZ, MonyHorse & JNKMN\)](https://open.spotify.com/track/3FdZ6MCqA9y0Hhlc8U9uSw) | [YENTOWN](https://open.spotify.com/artist/5MZKzz8nnucMHhJq34UZwe), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L) | [バグり \(feat\. kZm, Awich, PETZ, MonyHorse & JNKMN\)](https://open.spotify.com/album/2fPFTelUOr9Nw72DW55aHU) | 3:06 |
-| 6 | [Born Fire](https://open.spotify.com/track/2FktPXK8yLMFyx6ZTQtRSm) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:16 |
+| 6 | [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 |
 | 7 | [花無双](https://open.spotify.com/track/2sJyR6ekoLAHUBHuKO3J1d) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [花無双](https://open.spotify.com/album/0Vx6D5yGvkNYGbrDYhQTwA) | 3:43 |
 | 8 | [SMOKE THE PAIN AWAY](https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [SMOKE THE PAIN AWAY](https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP) | 2:42 |
 | 9 | [Sunset Blvd](https://open.spotify.com/track/2kpUNuingcchFIhLrbWxIO) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Sunset Blvd](https://open.spotify.com/album/4JCaqlPDBeT9kizAc3PGwL) | 2:47 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 28 | [To Sea](https://open.spotify.com/track/4QMmxplxf7qY6endElNF8j) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [To Sea](https://open.spotify.com/album/4ZCLCqngBOp6lPQx0ztHQ5) | 2:27 |
 | 29 | [謳う](https://open.spotify.com/track/2eqSORXMS2s9UoJ3r9gHrt) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [謳う](https://open.spotify.com/album/6E4AjOcvQT4hOjAGeRZOap) | 3:53 |
 | 30 | [Seasons](https://open.spotify.com/track/4nRCdoet9M0gA1UXJ9Pw8G) | [NOA](https://open.spotify.com/artist/1vpHPL6nejNAg9GXYrJ5ck) | [Seasons](https://open.spotify.com/album/3LKxzDyuWVbgYbFbIlyw4N) | 3:42 |
-| 31 | [EFFORTLESS \(feat\. Jay Park, GroovyRoom\)](https://open.spotify.com/track/6RLTUqLjJBvqfYksqPBxCu) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [GROOVYROOM](https://open.spotify.com/artist/1EZhXPedZ7Fc4grCSJTvIZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SWIRL](https://open.spotify.com/album/23do2zirGkCiF6ZMtVYk3T) | 3:01 |
+| 31 | [EFFORTLESS \(feat\. Jay Park\) \[Prod\. by GroovyRoom\]](https://open.spotify.com/track/6RLTUqLjJBvqfYksqPBxCu) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SWIRL](https://open.spotify.com/album/23do2zirGkCiF6ZMtVYk3T) | 3:00 |
 | 32 | [96ers](https://open.spotify.com/track/6AvxOYstG9cCD4RVQp4aJz) | [HxW](https://open.spotify.com/artist/1EReYiseDwE51FzGm7EK9n) | [HxW 1st Single Album 'BEAM'](https://open.spotify.com/album/4SOFnzIWYI2JU9ypuQX2E4) | 2:45 |
 | 33 | [Baby, Not Baby](https://open.spotify.com/track/6nabHsqIYAKS6Nnfuqauw9) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Accidentally On Purpose \- The 2nd Mini Album](https://open.spotify.com/album/70RduzYb3gbtmVs88CpAHV) | 3:13 |
 | 34 | [WHEE!](https://open.spotify.com/track/3UCnEKnght7sSlycogaSak) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Interview X](https://open.spotify.com/album/4TmQo5XPRgVleYrisal8n2) | 2:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 74 | [Glory](https://open.spotify.com/track/2h03aCUR0z5fKu5a26NGSt) | [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9) | [Glory](https://open.spotify.com/album/5G0tooiZgZU0RaroMA0FZK) | 4:46 |
 | 75 | [bamboo \- Radio Edit](https://open.spotify.com/track/4nRRgkj2Mz06rKszlAKVwc) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU) | [bamboo](https://open.spotify.com/album/6re6esdR18VkESmd46n7yr) | 4:57 |
 
-Snapshot ID: `Z9QqaAAAAADqU4mUOZW35awUR2IMucfs`
+Snapshot ID: `Z9giFwAAAABnJp2VuPOrA02GmBgcBAbh`

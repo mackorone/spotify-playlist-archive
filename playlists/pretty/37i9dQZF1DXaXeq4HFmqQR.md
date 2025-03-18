@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen: un homenaje a Violeta Parra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,369 likes - 35 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,370 likes - 35 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 26 | [Ser jazmín, ser golondrina](https://open.spotify.com/track/5Q8aLGX9xsYhXvLcsYgByg) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Aurora](https://open.spotify.com/album/3h5HDiDf8y6STQ2BOCLRRx) | 3:18 |
 | 27 | [LLORAR](https://open.spotify.com/track/3CHdlTAY8Lf7ldc0pJeIEf) | [Magdalena Matthey](https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [LLORAR](https://open.spotify.com/album/6TO1yAkdzT3CRVhJ32BZ3M) | 3:58 |
 | 28 | [La Jardinera](https://open.spotify.com/track/3sbXuCHjlXORPqmbrWhFot) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [El Folklore Y La Pasión](https://open.spotify.com/album/4QJ6TxU94ROZoXNro42def) | 2:49 |
-| 29 | [La culpa](https://open.spotify.com/track/7zXinGDq0pdDD7dZ6TORbs) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [La culpa](https://open.spotify.com/album/2lsItjwkRiLurSvlcy0691) | 5:30 |
-| 30 | [entre las sombras,](https://open.spotify.com/track/4LEBPYdBOgHF9aYCliGfhn) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ), [Martina Montaldo](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo), [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Albor](https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7) | 4:30 |
+| 29 | [entre las sombras,](https://open.spotify.com/track/4LEBPYdBOgHF9aYCliGfhn) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ), [Martina Montaldo](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo), [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Albor](https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7) | 4:30 |
+| 30 | [La culpa](https://open.spotify.com/track/7zXinGDq0pdDD7dZ6TORbs) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [La culpa](https://open.spotify.com/album/2lsItjwkRiLurSvlcy0691) | 5:30 |
 | 31 | [Una pena y un cariño](https://open.spotify.com/track/2AtHrzS1aqODE7eoILb1he) | [laia](https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5) | [Una pena y un cariño](https://open.spotify.com/album/7bSOUW9DY7RK8cT5UpaFPe) | 3:28 |
 | 32 | [Petronila](https://open.spotify.com/track/3mBj9zNLz4AvSEIauquNt7) | [Belencha](https://open.spotify.com/artist/76nNpUoU7lXyRKmoAkKPTM), [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Petronila](https://open.spotify.com/album/6gyKGERNhWJWIL76C9VRq6) | 3:31 |
 | 33 | [Ruka](https://open.spotify.com/track/4xGH1TnAIRjplERSykBNBS) | [Javiera Barreau](https://open.spotify.com/artist/6LRPIVdyITYNvP8TDK8kS6), [sgomez](https://open.spotify.com/artist/6HLvJhMwLNouctYrL6KiSN) | [Unita](https://open.spotify.com/album/6MNgjfzg5ZxIWaTOhS2ccx) | 4:33 |

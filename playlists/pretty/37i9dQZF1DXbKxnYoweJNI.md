@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: ØZI
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,472 likes - 130 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,474 likes - 130 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [EFFORTLESS \(feat\. Jay Park, GroovyRoom\)](https://open.spotify.com/track/6RLTUqLjJBvqfYksqPBxCu) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [GROOVYROOM](https://open.spotify.com/artist/1EZhXPedZ7Fc4grCSJTvIZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SWIRL](https://open.spotify.com/album/23do2zirGkCiF6ZMtVYk3T) | 3:01 |
+| 1 | [EFFORTLESS \(feat\. Jay Park\) \[Prod\. by GroovyRoom\]](https://open.spotify.com/track/6RLTUqLjJBvqfYksqPBxCu) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SWIRL](https://open.spotify.com/album/23do2zirGkCiF6ZMtVYk3T) | 3:00 |
 | 2 | [All On You](https://open.spotify.com/track/5xoZa4sntDk7Bj2QTmoD7c) | [LEO37](https://open.spotify.com/artist/1K4p8nRSSUoO6e3Npn77U6), [Robot Swing](https://open.spotify.com/artist/75MsybpGuMiLCp76Ou0LTV), [Flowstrong](https://open.spotify.com/artist/3KgKUvLzPtJSiXz0WC71YH), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO), [Dac](https://open.spotify.com/artist/0nWX29koulPYFLJoMxIpJx), [DCIV](https://open.spotify.com/artist/1ek0Tv8frXGgW6GCCE2jit), [FRαNKIE阿法](https://open.spotify.com/artist/3NvVbjPU6W2AOEWitAUqwe), [Lazy Habits](https://open.spotify.com/artist/3Bwm7GVj1bGNj6fxf80OKP), [Star Wu](https://open.spotify.com/artist/41imUY7LVjxTpJwTDgDR6v), [That's My Shhh](https://open.spotify.com/artist/5iUU1iEJjzYNmZv8l2rMVp) | [All On You](https://open.spotify.com/album/4nwsLD8jhZZcoJA9ZTIGSq) | 6:40 |
 | 3 | [萬華的蛇](https://open.spotify.com/track/4EARa82xF7kTi42jSUg0BE) | [DJ Didilong](https://open.spotify.com/artist/4VP44ZwK51R0y7ZbjJLHJR) | [東方美人](https://open.spotify.com/album/5R5DFfoTIrs65lJ3Y90RPq) | 4:15 |
 | 4 | [離岸 Au large](https://open.spotify.com/track/6cwbPYiNaj2hDD8hg1yKih) | [荒山茉莉 Molly in Mountain](https://open.spotify.com/artist/5D8hVSWaIaFmwFpC5y6asU) | [離岸 Au large](https://open.spotify.com/album/2RHqx0jvKQlwhJThxdTvQM) | 4:26 |

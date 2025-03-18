@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 
 > Dance tracks for your power moves
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,457 likes - 90 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,493 likes - 90 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 | 80 | [Can't Talk Right Now](https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Can't Talk Right Now](https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ) | 3:19 |
 | 81 | [Dizzy](https://open.spotify.com/track/4bH4PYPmrsKcw2rI5c3QqD) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [LOUII LANE](https://open.spotify.com/artist/0fvGg23DNfUvCS0dHT7g8v) | [Dizzy](https://open.spotify.com/album/5PG4dJqM18cKtGl0vE5cJk) | 2:27 |
 | 82 | [A2](https://open.spotify.com/track/3tEiz9H5kUnu6dNfsuZSeR) | [MANIBA](https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx) | [A2](https://open.spotify.com/album/6SZRUIf1d6HUVaDWsCsWCP) | 2:27 |
-| 83 | [Like Thunder](https://open.spotify.com/track/4iXvR6yFywrVJ7LuD4dy71) | [HIDDN](https://open.spotify.com/artist/0wqZ6mvk4DfOvtQUVniOCX), [Nøway](https://open.spotify.com/artist/2DOYVHP5s55Muqsv0TyFyU), [Calumny](https://open.spotify.com/artist/1VzCGzFPj5ZToYK3QmpD8R) | [Like Thunder](https://open.spotify.com/album/18zUdfT1bfo8ndN0upWRsO) | 2:21 |
-| 84 | [Got a Friend](https://open.spotify.com/track/0fdpoQFH8s3viiqy42p1f5) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [Guillaume Gordon](https://open.spotify.com/artist/3TfKErb0eKYPcZbuA32oPj) | [Currents](https://open.spotify.com/album/2rfaWwbzTb380DNEpLWQRy) | 2:42 |
+| 83 | [Got a Friend](https://open.spotify.com/track/0fdpoQFH8s3viiqy42p1f5) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [Guillaume Gordon](https://open.spotify.com/artist/3TfKErb0eKYPcZbuA32oPj) | [Currents](https://open.spotify.com/album/2rfaWwbzTb380DNEpLWQRy) | 2:42 |
+| 84 | [Like Thunder](https://open.spotify.com/track/4iXvR6yFywrVJ7LuD4dy71) | [HIDDN](https://open.spotify.com/artist/0wqZ6mvk4DfOvtQUVniOCX), [Nøway](https://open.spotify.com/artist/2DOYVHP5s55Muqsv0TyFyU), [Calumny](https://open.spotify.com/artist/1VzCGzFPj5ZToYK3QmpD8R) | [Like Thunder](https://open.spotify.com/album/18zUdfT1bfo8ndN0upWRsO) | 2:21 |
 | 85 | [Back In '99](https://open.spotify.com/track/2go9hE9lNmxdPdUSd2X2uh) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Back In '99](https://open.spotify.com/album/4QKHJEN7HIzyMDP7QCfhzs) | 2:47 |
 | 86 | [Brand New](https://open.spotify.com/track/48N52eeLSjB5zJU42Hgefb) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Brand New](https://open.spotify.com/album/5u3WhV88Z1fJYmr1AqDQct) | 2:10 |
 | 87 | [Stand In Line](https://open.spotify.com/track/29Hs0AdqnVUoPe3llVZ2fZ) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [Stand In Line](https://open.spotify.com/album/6oOQUuzEJhcCzE8WYxVM13) | 3:05 |

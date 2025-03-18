@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Chappell Roan
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,888 likes - 124 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,885 likes - 124 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

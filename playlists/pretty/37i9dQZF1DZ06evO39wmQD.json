@@ -1,12 +1,12 @@
 {
   "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
-  "num_followers": 3011,
+  "num_followers": 3013,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9TDAAAAAAAtZR2cS/EHEIfzzq1C+oEG",
+  "snapshot_id": "Z9YUgAAAAAD85H9u/JkwnA490BC+wOY3",
   "tracks": [
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Little Mermaid Live!",
-        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
+        "name": "Mean Girls (Music From The Motion Picture \u2013 Bonus Track Version)",
+        "url": "https://open.spotify.com/album/2VqGOWnMT8pJsYkRuEkqb7"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         }
       ],
-      "duration_ms": 132298,
-      "name": "Part of Your World (Reprise) - From \"The Little Mermaid Live!\"",
-      "url": "https://open.spotify.com/track/2v7WfLSmtaP09kX74RPTNJ"
+      "duration_ms": 50646,
+      "name": "Someone Gets Hurt - Reprise",
+      "url": "https://open.spotify.com/track/1uElzTQ3ZDKimyoTeShKAv"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mean Girls (Music From The Motion Picture \u2013 Bonus Track Version)",
-        "url": "https://open.spotify.com/album/2VqGOWnMT8pJsYkRuEkqb7"
+        "name": "The Little Mermaid Live!",
+        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         }
       ],
-      "duration_ms": 50646,
-      "name": "Someone Gets Hurt - Reprise",
-      "url": "https://open.spotify.com/track/1uElzTQ3ZDKimyoTeShKAv"
+      "duration_ms": 132298,
+      "name": "Part of Your World (Reprise) - From \"The Little Mermaid Live!\"",
+      "url": "https://open.spotify.com/track/2v7WfLSmtaP09kX74RPTNJ"
     },
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hailey's On It! (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "duration_ms": 167590,
+      "name": "Born for This",
+      "url": "https://open.spotify.com/track/79ifABR18J1kNepjRhWeCh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Little Mermaid Live!",
         "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 176477,
       "name": "If Only - From \"The Little Mermaid Live!\"",
       "url": "https://open.spotify.com/track/1WM0k6YUk7GwnxXjnDMNnC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hailey's On It! (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        }
-      ],
-      "duration_ms": 167590,
-      "name": "Born for This",
-      "url": "https://open.spotify.com/track/79ifABR18J1kNepjRhWeCh"
     },
     {
       "added_at": null,

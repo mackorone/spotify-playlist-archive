@@ -1,6 +1,6 @@
 {
   "description": "Die Klassiker des Schweizer Hip-Hop.",
-  "num_followers": 12489,
+  "num_followers": 12493,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2024-12-09 12:11:25",
       "album": {
+        "name": "Jede Tag Superstar",
+        "url": "https://open.spotify.com/album/2CMJp148PeeikwZvkCu1q5"
+      },
+      "artists": [
+        {
+          "name": "Manillio",
+          "url": "https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul"
+        }
+      ],
+      "duration_ms": 242550,
+      "name": "St\u00e4rne",
+      "url": "https://open.spotify.com/track/38yEl7W2oSadApIpDIwSKX"
+    },
+    {
+      "added_at": "2024-12-09 12:11:25",
+      "album": {
         "name": "Analfabad",
         "url": "https://open.spotify.com/album/1lOFtEufGCFM9Mwy3DgqLb"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 221426,
       "name": "Siemis",
       "url": "https://open.spotify.com/track/2kqXy5VfY8683DXZo7WZ77"
-    },
-    {
-      "added_at": "2024-12-09 12:11:25",
-      "album": {
-        "name": "Jede Tag Superstar",
-        "url": "https://open.spotify.com/album/2CMJp148PeeikwZvkCu1q5"
-      },
-      "artists": [
-        {
-          "name": "Manillio",
-          "url": "https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul"
-        }
-      ],
-      "duration_ms": 242550,
-      "name": "St\u00e4rne",
-      "url": "https://open.spotify.com/track/38yEl7W2oSadApIpDIwSKX"
     },
     {
       "added_at": "2024-12-09 12:11:25",

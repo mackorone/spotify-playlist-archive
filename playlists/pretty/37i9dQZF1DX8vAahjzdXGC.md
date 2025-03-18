@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Rich Brian, Chappell Roan, Lizzo hingga Denny Caknan & Bella Bonita
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,329 likes - 85 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,346 likes - 85 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 13 | [Baby, Not Baby](https://open.spotify.com/track/6nabHsqIYAKS6Nnfuqauw9) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Accidentally On Purpose \- The 2nd Mini Album](https://open.spotify.com/album/70RduzYb3gbtmVs88CpAHV) | 3:13 |
 | 14 | [Air](https://open.spotify.com/track/6HSns0qPQQfgekCrBF0Dkf) | [YEJI](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [AIR](https://open.spotify.com/album/6sJnzoRI9pXUo0gZxIviUS) | 3:14 |
 | 15 | [WHEE!](https://open.spotify.com/track/3UCnEKnght7sSlycogaSak) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Interview X](https://open.spotify.com/album/4TmQo5XPRgVleYrisal8n2) | 2:49 |
-| 16 | [EFFORTLESS \(feat\. Jay Park, GroovyRoom\)](https://open.spotify.com/track/6RLTUqLjJBvqfYksqPBxCu) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [GROOVYROOM](https://open.spotify.com/artist/1EZhXPedZ7Fc4grCSJTvIZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SWIRL](https://open.spotify.com/album/23do2zirGkCiF6ZMtVYk3T) | 3:01 |
+| 16 | [EFFORTLESS \(feat\. Jay Park\) \[Prod\. by GroovyRoom\]](https://open.spotify.com/track/6RLTUqLjJBvqfYksqPBxCu) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SWIRL](https://open.spotify.com/album/23do2zirGkCiF6ZMtVYk3T) | 3:00 |
 | 17 | [One Heart](https://open.spotify.com/track/6ArjJicjIjgcbKOzBtcBkh) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [One Heart](https://open.spotify.com/album/2GDMGlqGHyx9w6wRMXUrPL) | 4:02 |
 | 18 | [Bouquet for Me](https://open.spotify.com/track/7dlbeaOxrdBSt7TZDQNmZK) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Bouquet for Me](https://open.spotify.com/album/1dWlslDvWgxfH0OpdnOVyR) | 3:48 |
 | 19 | [สัมภเวซี้ \(GFF Ghost Friend Forever\) \- From ซองแดงแต่งผี](https://open.spotify.com/track/3VeFQ1auTXswblQYhpZuye) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [สัมภเวซี้ \(GFF Ghost Friend Forever\) \[From ซองแดงแต่งผี\]](https://open.spotify.com/album/6PpU1mdpIla4ZCafxgcQad) | 3:22 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 45 | [If Only I Could Wait](https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Danielle Haim](https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9) | [If Only I Could Wait b/w Walk Home](https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh) | 3:22 |
 | 46 | [Relationships](https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1) | 3:22 |
 | 47 | [Industrial Love Song](https://open.spotify.com/track/3089w7UmnSQboJ7wC3zchk) | [These New Puritans](https://open.spotify.com/artist/7w0e6inAfRWIEb9tWVgB7a), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Industrial Love Song / Bells](https://open.spotify.com/album/0jMKVV7RHBC8Pr0kV8R397) | 3:49 |
-| 48 | [Anagata](https://open.spotify.com/track/4sDBs1DPdUDAtXURllceQG) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO), [Vanessazkl](https://open.spotify.com/artist/6a63zsoJVJ1oU4uMuWiyOa) | [Anagata](https://open.spotify.com/album/4krbrQO2PLhoSZYAqhTn80) | 5:26 |
+| 48 | [Anagata](https://open.spotify.com/track/4sDBs1DPdUDAtXURllceQG) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO), [Vanessazkl](https://open.spotify.com/artist/6a63zsoJVJ1oU4uMuWiyOa) | [Anagata](https://open.spotify.com/album/4krbrQO2PLhoSZYAqhTn80) | 5:13 |
 | 49 | [I’m Movin’ On](https://open.spotify.com/track/53IX4MOIyOZQnKy6a3JnaX) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [I'm Movin' On](https://open.spotify.com/album/7FQLBkD3mdfh2UiLzhvNnN) | 3:44 |
 | 50 | [Let Me In](https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Let Me In](https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq) | 3:48 |
 | 51 | [Boys Don't Cry](https://open.spotify.com/track/6VkIPm8ow14mZ7QCUJSqSe) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Boys Don't Cry](https://open.spotify.com/album/6J7vnOZiMpz0ckuqkyFpIX) | 2:42 |

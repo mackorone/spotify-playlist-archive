@@ -1,12 +1,12 @@
 {
   "description": "This is Ice Spice. The essential tracks, all in one playlist.",
-  "num_followers": 72687,
+  "num_followers": 72703,
   "original_name": "This Is Ice Spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9TDAAAAAADsY5C6GIdXymzsasDTK1+P",
+  "snapshot_id": "Z9YUgAAAAAD/gpQI0r6enak1IGaxSJI+",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y2K!",
-        "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 129293,
-      "name": "Phat Butt",
-      "url": "https://open.spotify.com/track/3wKdqWNzGnxapDIaoocxR1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like..? (Deluxe)",
         "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 129636,
       "name": "How High?",
       "url": "https://open.spotify.com/track/0pTSYl7m6l4VYvf3mMi1Yd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y2K!",
+        "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 129293,
+      "name": "Phat Butt",
+      "url": "https://open.spotify.com/track/3wKdqWNzGnxapDIaoocxR1"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y2K! (Bonus)",
-        "url": "https://open.spotify.com/album/7kkWu2etRnJCM6HX7JzhuK"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 114437,
-      "name": "GYAT",
-      "url": "https://open.spotify.com/track/5yxtr4bxgYePGbACS82nrq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like..? (Deluxe)",
         "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 111780,
       "name": "Butterfly Ku",
       "url": "https://open.spotify.com/track/7e8ps3VqglKLsjzwMfFuxJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y2K! (Bonus)",
+        "url": "https://open.spotify.com/album/7kkWu2etRnJCM6HX7JzhuK"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 114437,
+      "name": "GYAT",
+      "url": "https://open.spotify.com/track/5yxtr4bxgYePGbACS82nrq"
     },
     {
       "added_at": null,

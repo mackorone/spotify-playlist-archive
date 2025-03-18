@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY?si=zJpi9U1BT5CrvL3Mpga3\-g"> Girlfriend</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,871 likes - 251 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,936 likes - 251 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

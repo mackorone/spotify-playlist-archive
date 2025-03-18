@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-571 songs - 1 day 15 hr 49 min
+572 songs - 1 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -548,7 +548,7 @@
 | [Voye](https://open.spotify.com/track/54GMmWJvKU8o1BrGB1NaqO) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Voye/Culture Is Chaos](https://open.spotify.com/album/5SGkJqdh31fCP50j2boyrv) | 4:34 | 2021-05-07 | 2022-04-17 |
 | [Waiting For You](https://open.spotify.com/track/67cSFn3SLBoKqGW20bswdw) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Waiting For You](https://open.spotify.com/album/6nNwHKu6VPH8XNSoLXOyGg) | 3:45 | 2021-07-30 | 2022-08-15 |
 | [Walk The Plank](https://open.spotify.com/track/2UOLMbCUDhHWWXxY3P8Pzk) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Childish\(ish\)](https://open.spotify.com/album/1dHOZWCFxMPDer1fKN2uOZ) | 4:45 | 2025-01-10 |  |
-| [Want You](https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Want You](https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc) | 3:58 | 2024-05-31 |  |
+| [Want You](https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Want You](https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc) | 3:58 | 2024-05-31 | 2025-03-18 |
 | [Warehouse](https://open.spotify.com/track/2wER3gVMMIWPusxOjoWlcQ) | [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic) | [Warehouse](https://open.spotify.com/album/5nMBgawIQbyTWNeQ5HVXxK) | 4:06 | 2021-05-07 | 2022-08-15 |
 | [Warrior](https://open.spotify.com/track/5cjbk2qAP4pWvntOySll30) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Warrior](https://open.spotify.com/album/6Ajxy3TSyqd7mZJI4QELXl) | 3:25 | 2024-04-26 | 2024-05-25 |
 | [Waves of the Soul](https://open.spotify.com/track/3pIFT7NY5IjtUoLlD1kWOt) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Waves of the Soul](https://open.spotify.com/album/3j0ZhOcH3kccfgsVKUa7mL) | 3:32 | 2022-06-03 | 2022-07-29 |
@@ -562,6 +562,7 @@
 | [Where You Are](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Where You Are](https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR) | 3:56 | 2023-06-09 | 2024-12-07 |
 | [Where's The Music Gone](https://open.spotify.com/track/0W2DNZ8ttfFvhlGCBgMq0s) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Paul Rogers](https://open.spotify.com/artist/6QkoiP5TNAX3xPGTYDLpAg) | [Where's The Music Gone](https://open.spotify.com/album/2gcKpdIcK8DTt99uPWZkxp) | 3:48 | 2024-07-12 |  |
 | [Wherever You Are](https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Wherever You Are](https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK) | 3:27 | 2024-06-07 |  |
+| [Wherever You Go](https://open.spotify.com/track/1EbzSgAawjmMdC4onsVj3Q) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [B Jones](https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq), [Eke](https://open.spotify.com/artist/2nVW87xBOKOyAO3kXRjCNw) | [Wherever You Go](https://open.spotify.com/album/4Ej2MKE2tZvLyFiD4XaUHT) | 3:17 | 2025-03-14 |  |
 | [Wicked Game](https://open.spotify.com/track/6AJAzlq5ujQWCzzwpeGEZA) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Wicked Game](https://open.spotify.com/album/6h4GwAgi9ePUFoEvN7LBrx) | 2:55 | 2024-07-26 |  |
 | [Win Win \- Yotto Remix](https://open.spotify.com/track/6n8Rao9bqH5zQnXiY6d7tr) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Win Win \(Yotto Remix\)](https://open.spotify.com/album/0lMeXS3yHep1snwNDuBKNG) | 4:03 | 2021-05-07 | 2022-04-21 |
 | [With You](https://open.spotify.com/track/18hPcmBPzTiHPQUKT9tC8v) | [Ali Bakgor](https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [With You](https://open.spotify.com/album/5xt7yJL0BWlhH3FM0cq0VP) | 3:15 | 2022-11-11 | 2023-03-02 |

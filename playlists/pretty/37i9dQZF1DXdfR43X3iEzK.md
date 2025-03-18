@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > My alt/pop could mean anything! Cover: Wet
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,653 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,654 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 77 | [Good For Me](https://open.spotify.com/track/2n8dQ0i8f5qGbSuUFAKSJ1) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Good For Me](https://open.spotify.com/album/3UdCt2WeU8nsaSNrBRl7BA) | 3:22 |
 | 78 | [New Mind](https://open.spotify.com/track/7kO3rAu2GgV3Vy6hwWs7L3) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [New Mind](https://open.spotify.com/album/5z2Wtm9imitPqU7jo3IbiA) | 2:46 |
 | 79 | [What Happened.](https://open.spotify.com/track/4JHIRSicUIwvi997lxoAN3) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [15](https://open.spotify.com/album/5eDAiMfKjtgrk5RK7OTfvO) | 2:33 |
-| 80 | [Get 2 Me](https://open.spotify.com/track/4nyQO3FVAI63h5a0HMgY9w) | [congratulations](https://open.spotify.com/artist/3Zd0jI43rmogm8qVt2QAdq) | [Get 2 Me](https://open.spotify.com/album/7CYwA8ioZnpTaCJiYVLvxq) | 3:14 |
+| 80 | [Do Not Go Gentle into Goodbyes](https://open.spotify.com/track/4J5MVJGewv7MjA2uuruxGV) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [Anti\-People Pleaser, Pt\. 1](https://open.spotify.com/album/5Qf3rfAwHvdye91p3ebaiu) | 4:13 |
 
 Snapshot ID: `Z9NxkAAAAACY6vVuLFsWwIHAAqhaX1J2`

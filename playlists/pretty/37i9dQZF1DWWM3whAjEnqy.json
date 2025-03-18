@@ -1,6 +1,6 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 599,
+  "num_followers": 605,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Everything Is Easy",
-        "url": "https://open.spotify.com/album/5Ic1mp3JN5Fv2gLrXK5y0r"
-      },
-      "artists": [
-        {
-          "name": "Rum Jungle",
-          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
-        }
-      ],
-      "duration_ms": 197663,
-      "name": "Everything Is Easy",
-      "url": "https://open.spotify.com/track/2ME1Q6GWXOt0oEqBHtDFvY"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Harlequin Dream",
         "url": "https://open.spotify.com/album/7cDFsmUgTousyXecwsWnjr"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 280952,
       "name": "Southern Sun",
       "url": "https://open.spotify.com/track/0sfMc7DhDVGRuTvVb53s5v"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Everything Is Easy",
+        "url": "https://open.spotify.com/album/5Ic1mp3JN5Fv2gLrXK5y0r"
+      },
+      "artists": [
+        {
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+        }
+      ],
+      "duration_ms": 197663,
+      "name": "Everything Is Easy",
+      "url": "https://open.spotify.com/track/2ME1Q6GWXOt0oEqBHtDFvY"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/1gSHyTYbpazDVGnzGtn4jn"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Talk It Out",
         "url": "https://open.spotify.com/album/1hK8ETmd5Dq4FOA5kWkGG6"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 190726,
       "name": "Talk It Out",
       "url": "https://open.spotify.com/track/3I6CQSc5hMvU4nh2DcTDBz"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/1gSHyTYbpazDVGnzGtn4jn"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Chimney's Afire",
-        "url": "https://open.spotify.com/album/4PucMCxh5r2SNaAtZNcvzw"
-      },
-      "artists": [
-        {
-          "name": "Josh Pyke",
-          "url": "https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "The Summer",
-      "url": "https://open.spotify.com/track/2xN6Xkcx09kPPlNR7gPZRV"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Roll Up Your Sleeves",
         "url": "https://open.spotify.com/album/68GTGs9r1hrO1SG9yG5uwb"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 184459,
       "name": "Roll Up Your Sleeves",
       "url": "https://open.spotify.com/track/7nrPyQ37J2BO24uoleVp35"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Chimney's Afire",
+        "url": "https://open.spotify.com/album/4PucMCxh5r2SNaAtZNcvzw"
+      },
+      "artists": [
+        {
+          "name": "Josh Pyke",
+          "url": "https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "The Summer",
+      "url": "https://open.spotify.com/track/2xN6Xkcx09kPPlNR7gPZRV"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Deeper Water",
-        "url": "https://open.spotify.com/album/2mrVJ60WIjwRgzLwVMyJDM"
+        "name": "Morning Sun",
+        "url": "https://open.spotify.com/album/4tdsg3GqsZV9aXZpeo0bQX"
       },
       "artists": [
         {
-          "name": "Paul Kelly",
-          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
+          "name": "The Beautiful Girls",
+          "url": "https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8"
         }
       ],
-      "duration_ms": 272093,
-      "name": "Deeper Water",
-      "url": "https://open.spotify.com/track/5CVjniZP6bYZEoC92A4sEf"
+      "duration_ms": 295266,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/7EbF4gSZiu6G6NDx5pHStP"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Morning Sun",
-        "url": "https://open.spotify.com/album/4tdsg3GqsZV9aXZpeo0bQX"
+        "name": "Deeper Water",
+        "url": "https://open.spotify.com/album/2mrVJ60WIjwRgzLwVMyJDM"
       },
       "artists": [
         {
-          "name": "The Beautiful Girls",
-          "url": "https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8"
+          "name": "Paul Kelly",
+          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
         }
       ],
-      "duration_ms": 295266,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/7EbF4gSZiu6G6NDx5pHStP"
+      "duration_ms": 272093,
+      "name": "Deeper Water",
+      "url": "https://open.spotify.com/track/5CVjniZP6bYZEoC92A4sEf"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Apple Crumble",
-        "url": "https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr"
-      },
-      "artists": [
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
-        }
-      ],
-      "duration_ms": 203316,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/4faiTk0Vx86PcE5TJ3sQnz"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Youngblood",
         "url": "https://open.spotify.com/album/4LKwkGDfN1OXZy1qXRAQZm"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 232746,
       "name": "Youngblood",
       "url": "https://open.spotify.com/track/2z1ZySfX3m36YL1XfwM84d"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Apple Crumble",
+        "url": "https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr"
+      },
+      "artists": [
+        {
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+        }
+      ],
+      "duration_ms": 203316,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/4faiTk0Vx86PcE5TJ3sQnz"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Between You and Me",
-        "url": "https://open.spotify.com/album/5dJM7tzRS4BBHUxROSOn26"
-      },
-      "artists": [
-        {
-          "name": "San Cisco",
-          "url": "https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0"
-        }
-      ],
-      "duration_ms": 266493,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/1pZaknf90sVRGNiftfF9X3"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "LO LA RU",
         "url": "https://open.spotify.com/album/7a6mqtb2gc5vM4RkfCVX7E"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 212173,
       "name": "God Forgot",
       "url": "https://open.spotify.com/track/5Pmvf3koZefZxHgOvTIGlQ"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Between You and Me",
+        "url": "https://open.spotify.com/album/5dJM7tzRS4BBHUxROSOn26"
+      },
+      "artists": [
+        {
+          "name": "San Cisco",
+          "url": "https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0"
+        }
+      ],
+      "duration_ms": 266493,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/1pZaknf90sVRGNiftfF9X3"
     },
     {
       "added_at": "2023-11-15 02:04:48",

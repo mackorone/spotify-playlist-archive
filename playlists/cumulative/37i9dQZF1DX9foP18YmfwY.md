@@ -4,7 +4,7 @@
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Davidson Silva
 
-203 songs - 16 hr 19 min
+204 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Ele Vem](https://open.spotify.com/track/1Okz2hMkYKZcR4eur9yqR6) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Ele Vem](https://open.spotify.com/album/3DudCmTbB56mU0KjFAexvG) | 5:31 | 2023-07-28 | 2023-10-07 |
 | [Em Silêncio](https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg) | [Fernando Vinhote](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS), [Padre Denis\-Ricard](https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb) | [Em Silêncio](https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z) | 3:48 | 2022-09-02 |  |
 | [Em Tua Presença](https://open.spotify.com/track/4ZOkEg8QoFFZqKrfwSkgNJ) | [Octavia de Assis](https://open.spotify.com/artist/1SBcO6ThKkKHIa0eEcX9km), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Em Tua Presença](https://open.spotify.com/album/0bCz6dSqYOM6yNEV9DhQvK) | 5:00 | 2022-09-02 |  |
-| [Emanuel, Eu Te Adoro](https://open.spotify.com/track/2RWixlFlwnlMHtzaJn727X) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR), [Entretons](https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa) | [Pequeno Rei](https://open.spotify.com/album/4CBQ1tVkMSfdRxNcezkYBz) | 4:53 | 2023-12-22 |  |
+| [Emanuel, Eu Te Adoro](https://open.spotify.com/track/2RWixlFlwnlMHtzaJn727X) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR), [Entretons](https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa) | [Pequeno Rei](https://open.spotify.com/album/4CBQ1tVkMSfdRxNcezkYBz) | 4:53 | 2023-12-22 | 2025-03-18 |
 | [Encontro a Sós](https://open.spotify.com/track/46z9goAGF6jnaXDFkfUwam) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Encontro a Sós](https://open.spotify.com/album/01xfN7vr1VH5h9S8zxeesX) | 4:33 | 2025-02-07 | 2025-02-17 |
 | [Enlace de Amor](https://open.spotify.com/track/6b8ZRMXDEQHDSAYLJ6oF8o) | [Ilmar Quintanilha](https://open.spotify.com/artist/1lymQbTdFZx62U5HMc0mIH), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Enlace de Amor](https://open.spotify.com/album/2NoypROgf6pBJGztIPghXp) | 4:46 | 2022-09-02 | 2023-01-14 |
 | [Esposa das Esposas](https://open.spotify.com/track/5vY7h6KxujUtNoMmE1u8tc) | [Bruna Marques](https://open.spotify.com/artist/7ya4P3mfkZQPp3rPn0xCZP), [Gabriel Kzam](https://open.spotify.com/artist/3yxZ1kM9oBVGQroZoP694k) | [Esposa das Esposas](https://open.spotify.com/album/4KWfXvmejlAUucIn681RoP) | 3:59 | 2023-05-12 |  |
@@ -180,6 +180,7 @@
 | [Seguir Viagem](https://open.spotify.com/track/6UYUXNfGduIYvSPMa5EXeg) | [Raquel Carpejani](https://open.spotify.com/artist/5dFoXRXGHF11wcn9CHUNgW) | [Seguir Viagem](https://open.spotify.com/album/0BfUIuyKS9QuOjXAlZVgpW) | 3:38 | 2024-12-20 |  |
 | [Seja Bem\-Vindo Jesus](https://open.spotify.com/track/2zjzKtTpDToXVkGLVFeHnd) | [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [Seja Bem\-Vindo Jesus](https://open.spotify.com/album/3FGzwFzkHg7zBriuyLpJua) | 5:10 | 2022-09-02 | 2023-03-18 |
 | [Seja Elevado \- Ao Vivo](https://open.spotify.com/track/6Ffb2kWofzil2OjrVnr6WA) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Seja Elevado \(Ao Vivo\)](https://open.spotify.com/album/22OWLgCGsjWOO2NAgm2v42) | 3:55 | 2025-01-31 | 2025-02-17 |
+| [Seja Forte e Corajoso \- Ao Vivo](https://open.spotify.com/track/04i8glpUdpgqOa9PWDo4uM) | [Deivison Pires](https://open.spotify.com/artist/4STGonJs3zY71VglZ1NkqT), [VITOHRIA SOUNDS](https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN) | [Seja Forte e Corajoso \(Ao Vivo\)](https://open.spotify.com/album/6QCjDE6PNN5yREjR7fk7HV) | 8:18 | 2025-03-17 |  |
 | [Ser Mais do Que Ter \- Ao Vivo](https://open.spotify.com/track/1ErMDwBrxnTTCePbbWaP35) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1), [Fátima Souza](https://open.spotify.com/artist/5TU9L0iVP8fFMA9QbN0F7m) | [Ser Mais do Que Ter \(Ao Vivo\)](https://open.spotify.com/album/7EDXi5EpI5wOWRmcsrYXOY) | 7:26 | 2025-01-24 |  |
 | [Serei Tudo](https://open.spotify.com/track/7yUwb2VL5m2fhlZBCK0dOh) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin), [Laura Salvador](https://open.spotify.com/artist/61ebYZYHMe4kwhxnA3Evh3) | [Serei Tudo](https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms) | 4:24 | 2023-10-06 |  |
 | [Seremos o Amor](https://open.spotify.com/track/7gbzb7eTvjIdI6uqI663TA) | [Ministério Reacender](https://open.spotify.com/artist/69I9OunTsBjEkPjKzuwHlX), [Paróquia Santa Terezinha](https://open.spotify.com/artist/2z82CXTLel1putelzeXQv8) | [Seremos o Amor](https://open.spotify.com/album/11269KCRvrv5jBX520lIDb) | 6:45 | 2024-09-27 |  |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 511997,
+  "num_followers": 512035,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Legado",
-        "url": "https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP"
-      },
-      "artists": [
-        {
-          "name": "Formell y los Van Van",
-          "url": "https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4"
-        }
-      ],
-      "duration_ms": 380484,
-      "name": "Amiga Mia",
-      "url": "https://open.spotify.com/track/3bpJ7IwjJtyTIf6clZ9GUl"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "Que Tiene Que Te Mueve",
         "url": "https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 289219,
       "name": "Ya T\u00fa No Coronas",
       "url": "https://open.spotify.com/track/3rhuPie2HVWD1yJ8NASOCV"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP"
+      },
+      "artists": [
+        {
+          "name": "Formell y los Van Van",
+          "url": "https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4"
+        }
+      ],
+      "duration_ms": 380484,
+      "name": "Amiga Mia",
+      "url": "https://open.spotify.com/track/3bpJ7IwjJtyTIf6clZ9GUl"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Legado",
-        "url": "https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP"
-      },
-      "artists": [
-        {
-          "name": "Formell y los Van Van",
-          "url": "https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4"
-        }
-      ],
-      "duration_ms": 313295,
-      "name": "Al Paso",
-      "url": "https://open.spotify.com/track/665FL9SYPVyf8ZMTvltwam"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "The Most From Beny More",
         "url": "https://open.spotify.com/album/0HLeuihxljxWozRHDvy0Yy"
       },
@@ -563,22 +547,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Te pone la cabeza mala",
-        "url": "https://open.spotify.com/album/0LgAYapMJemRXAD75pVs3v"
-      },
-      "artists": [
-        {
-          "name": "Juan Formell y Los Van Van",
-          "url": "https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy"
-        }
-      ],
-      "duration_ms": 248999,
-      "name": "Esto te pone la cabeza mala",
-      "url": "https://open.spotify.com/track/1bSiJ7JmdJJP5ycPfqLivI"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "El Charanguero Mayor",
         "url": "https://open.spotify.com/album/4YK55BcJGzust6FxGEIYn4"
       },
@@ -591,6 +559,38 @@
       "duration_ms": 392053,
       "name": "Se\u00f1ora",
       "url": "https://open.spotify.com/track/7jaeXpnMexADJXoIsMfS21"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP"
+      },
+      "artists": [
+        {
+          "name": "Formell y los Van Van",
+          "url": "https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4"
+        }
+      ],
+      "duration_ms": 313295,
+      "name": "Al Paso",
+      "url": "https://open.spotify.com/track/665FL9SYPVyf8ZMTvltwam"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Te pone la cabeza mala",
+        "url": "https://open.spotify.com/album/0LgAYapMJemRXAD75pVs3v"
+      },
+      "artists": [
+        {
+          "name": "Juan Formell y Los Van Van",
+          "url": "https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy"
+        }
+      ],
+      "duration_ms": 248999,
+      "name": "Esto te pone la cabeza mala",
+      "url": "https://open.spotify.com/track/1bSiJ7JmdJJP5ycPfqLivI"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -639,22 +639,6 @@
       "duration_ms": 303880,
       "name": "Esa Soy Yo",
       "url": "https://open.spotify.com/track/0M447oJEDm0pE8QDqbQlfi"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -711,6 +695,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Laberinto de Pasiones",
         "url": "https://open.spotify.com/album/2A99uuzdqdWZg9wZh12Nyv"
       },
@@ -759,18 +759,18 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Sin Escala",
-        "url": "https://open.spotify.com/album/0e12UMKQIn5tbSD08D3ma9"
+        "name": "Tranquilo Que Yo Controlo (Remasterizado)",
+        "url": "https://open.spotify.com/album/5j07wZn3eSyjnRch2zczmy"
       },
       "artists": [
         {
-          "name": "El Noro y Primera Clase",
-          "url": "https://open.spotify.com/artist/5wfvAqF5O8wjiLdwIpfwyf"
+          "name": "Pupy y Los Que Son Son",
+          "url": "https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH"
         }
       ],
-      "duration_ms": 295200,
-      "name": "La Bomba (Yo Lo S\u00e9)",
-      "url": "https://open.spotify.com/track/6Mq0PPDjAI9yaXZNZlwrOM"
+      "duration_ms": 273933,
+      "name": "Un Poquito al Rev\u00e9s - Remasterizado",
+      "url": "https://open.spotify.com/track/1JTYxQB9J2KchmYpmaluQF"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -799,18 +799,18 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Tranquilo Que Yo Controlo (Remasterizado)",
-        "url": "https://open.spotify.com/album/5j07wZn3eSyjnRch2zczmy"
+        "name": "Sin Escala",
+        "url": "https://open.spotify.com/album/0e12UMKQIn5tbSD08D3ma9"
       },
       "artists": [
         {
-          "name": "Pupy y Los Que Son Son",
-          "url": "https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH"
+          "name": "El Noro y Primera Clase",
+          "url": "https://open.spotify.com/artist/5wfvAqF5O8wjiLdwIpfwyf"
         }
       ],
-      "duration_ms": 273933,
-      "name": "Un Poquito al Rev\u00e9s - Remasterizado",
-      "url": "https://open.spotify.com/track/1JTYxQB9J2KchmYpmaluQF"
+      "duration_ms": 295200,
+      "name": "La Bomba (Yo Lo S\u00e9)",
+      "url": "https://open.spotify.com/track/6Mq0PPDjAI9yaXZNZlwrOM"
     },
     {
       "added_at": "2025-03-07 06:00:25",

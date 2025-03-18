@@ -2,7 +2,7 @@
 
 ### [Nouvelle École](https://open.spotify.com/playlist/37i9dQZF1DX9dN9aE5QRR4)
 
-> La playlist officielle de l'émission Nouvelle École, disponible sur Netflix.
+> Vote pour ton titre préféré sur la playlist <a href="spotify:playlist:37i9dQZF1FiZm6UIhFGfsY">Nouvelle Ecole \- Le Versus.</a>.
 
 104 songs - 4 hr 53 min
 

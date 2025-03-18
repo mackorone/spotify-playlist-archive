@@ -1,6 +1,6 @@
 {
   "description": "\u2600\ufe0f\n",
-  "num_followers": 92553,
+  "num_followers": 92554,
   "original_name": "V\u00e5rstemning",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
+        "name": "Never Look Down",
+        "url": "https://open.spotify.com/album/2x7SaulIo7LlGEx7EYAz1m"
+      },
+      "artists": [
+        {
+          "name": "Isak Benjamin",
+          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "Never Look Down",
+      "url": "https://open.spotify.com/track/5QTfLHc6qfsWCrosur6LBb"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
         "name": "A Lovestory",
         "url": "https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 184120,
       "name": "A Lovestory",
       "url": "https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
-        "name": "Never Look Down",
-        "url": "https://open.spotify.com/album/2x7SaulIo7LlGEx7EYAz1m"
-      },
-      "artists": [
-        {
-          "name": "Isak Benjamin",
-          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "Never Look Down",
-      "url": "https://open.spotify.com/track/5QTfLHc6qfsWCrosur6LBb"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -343,26 +343,6 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
-        "name": "Nanana",
-        "url": "https://open.spotify.com/album/6eWJBjH4era5edw2r5XmlL"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 146411,
-      "name": "Nanana",
-      "url": "https://open.spotify.com/track/5x1Hh2KQ8qXYxxSHC6ATAG"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
         "name": "Beroendeframkallande",
         "url": "https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 286122,
       "name": "Piya Piya Calling (feat. The Quick Style)",
       "url": "https://open.spotify.com/track/1K0d6cMvNwiAhQWJjqYJDu"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
+        "name": "Nanana",
+        "url": "https://open.spotify.com/album/6eWJBjH4era5edw2r5XmlL"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 146411,
+      "name": "Nanana",
+      "url": "https://open.spotify.com/track/5x1Hh2KQ8qXYxxSHC6ATAG"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
+        "name": "So Long, Ruben",
+        "url": "https://open.spotify.com/album/6nqDc8CPKCdWmaNysbYmfk"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 194974,
+      "name": "Love That Hurts",
+      "url": "https://open.spotify.com/track/0hNpDSUmh2NpDlAHHF9krX"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
         "name": "Trenger deg n\u00e5",
         "url": "https://open.spotify.com/album/6B4xiyhjwsecreFUGVTVPp"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 131642,
       "name": "Darkest Hour",
       "url": "https://open.spotify.com/track/6kVuwV25QpvLUDXwJEREwb"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
-        "name": "So Long, Ruben",
-        "url": "https://open.spotify.com/album/6nqDc8CPKCdWmaNysbYmfk"
-      },
-      "artists": [
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 194974,
-      "name": "Love That Hurts",
-      "url": "https://open.spotify.com/track/0hNpDSUmh2NpDlAHHF9krX"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
-        "name": "Silver Bead Eyes",
-        "url": "https://open.spotify.com/album/3QsOe6bfmogppjP21oRemA"
-      },
-      "artists": [
-        {
-          "name": "Resa Saffa Park",
-          "url": "https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv"
-        }
-      ],
-      "duration_ms": 214160,
-      "name": "Every Part of Me",
-      "url": "https://open.spotify.com/track/0goH1d2JQVnLz6KweTsZzG"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
         "name": "G\u00e5 bli lykkelig, du",
         "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 187281,
       "name": "G\u00e5 bli lykkelig, du",
       "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
+        "name": "Silver Bead Eyes",
+        "url": "https://open.spotify.com/album/3QsOe6bfmogppjP21oRemA"
+      },
+      "artists": [
+        {
+          "name": "Resa Saffa Park",
+          "url": "https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv"
+        }
+      ],
+      "duration_ms": 214160,
+      "name": "Every Part of Me",
+      "url": "https://open.spotify.com/track/0goH1d2JQVnLz6KweTsZzG"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
-        "name": "Woods",
-        "url": "https://open.spotify.com/album/20f0ocH7TUh6Lv2cuLbjlN"
-      },
-      "artists": [
-        {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
-        }
-      ],
-      "duration_ms": 207186,
-      "name": "Faster",
-      "url": "https://open.spotify.com/track/6clUgF41q59lyD2MYx3B74"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
         "name": "Summer Rain",
         "url": "https://open.spotify.com/album/2E1MUrxQRirP7wmVTzE82B"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 162930,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/3LVadaj97lffSz5nUD9mWC"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
+        "name": "Woods",
+        "url": "https://open.spotify.com/album/20f0ocH7TUh6Lv2cuLbjlN"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "duration_ms": 207186,
+      "name": "Faster",
+      "url": "https://open.spotify.com/track/6clUgF41q59lyD2MYx3B74"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
+        "name": "Hei p\u00e5 deg",
+        "url": "https://open.spotify.com/album/5GxpzfMjhjPrpk7lFLIhGz"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 163938,
+      "name": "Hei p\u00e5 deg",
+      "url": "https://open.spotify.com/track/7z08TMcTNpMClzFJ1Jo9oQ"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
         "name": "Tjue \u00e5r",
         "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
       },
@@ -1283,6 +1299,38 @@
       "duration_ms": 176808,
       "name": "F\u00f8r han for",
       "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
+        "name": "Happy Tears",
+        "url": "https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf"
+      },
+      "artists": [
+        {
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+        }
+      ],
+      "duration_ms": 176433,
+      "name": "Happy Tears",
+      "url": "https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
+        "name": "Finding You Again",
+        "url": "https://open.spotify.com/album/58rLhkfZO2qYvLBeV1ToiD"
+      },
+      "artists": [
+        {
+          "name": "Oklahoma",
+          "url": "https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow"
+        }
+      ],
+      "duration_ms": 198294,
+      "name": "Finding You Again",
+      "url": "https://open.spotify.com/track/59RTzis0xZIqlFBteJFsrB"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -1307,22 +1355,6 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
-        "name": "Finding You Again",
-        "url": "https://open.spotify.com/album/58rLhkfZO2qYvLBeV1ToiD"
-      },
-      "artists": [
-        {
-          "name": "Oklahoma",
-          "url": "https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow"
-        }
-      ],
-      "duration_ms": 198294,
-      "name": "Finding You Again",
-      "url": "https://open.spotify.com/track/59RTzis0xZIqlFBteJFsrB"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
         "name": "Hvalfangerbyen",
         "url": "https://open.spotify.com/album/6M2nSOHoe58dDU6dGluvWK"
       },
@@ -1335,38 +1367,6 @@
       "duration_ms": 200531,
       "name": "Hvalfangerbyen",
       "url": "https://open.spotify.com/track/1gWzPGtQeTDbaA1ee8e1Ji"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
-        "name": "Happy Tears",
-        "url": "https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf"
-      },
-      "artists": [
-        {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
-        }
-      ],
-      "duration_ms": 176433,
-      "name": "Happy Tears",
-      "url": "https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
-        "name": "Hei p\u00e5 deg",
-        "url": "https://open.spotify.com/album/5GxpzfMjhjPrpk7lFLIhGz"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 163938,
-      "name": "Hei p\u00e5 deg",
-      "url": "https://open.spotify.com/track/7z08TMcTNpMClzFJ1Jo9oQ"
     },
     {
       "added_at": "2025-03-13 23:00:23",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-03-13 23:00:23",
       "album": {
-        "name": "Har du glemt meg?",
-        "url": "https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY"
-      },
-      "artists": [
-        {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "Har du glemt meg?",
-      "url": "https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B"
-    },
-    {
-      "added_at": "2025-03-13 23:00:23",
-      "album": {
         "name": "Om du tror p\u00e5 oss",
         "url": "https://open.spotify.com/album/7kE6Q0jwl7Wr1icIIFwQQ6"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 230201,
       "name": "Om du tror p\u00e5 oss",
       "url": "https://open.spotify.com/track/4x8DtLpcjCTMrFym0aS5kL"
+    },
+    {
+      "added_at": "2025-03-13 23:00:23",
+      "album": {
+        "name": "Har du glemt meg?",
+        "url": "https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY"
+      },
+      "artists": [
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "Har du glemt meg?",
+      "url": "https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B"
     },
     {
       "added_at": "2025-03-13 23:00:23",

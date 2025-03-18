@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2429434,
+  "num_followers": 2429648,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -249,22 +249,6 @@
       "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
     },
     {
-      "added_at": "2024-10-17 16:02:56",
-      "album": {
-        "name": "Talaarawan",
-        "url": "https://open.spotify.com/album/2eT1XApzS0GmkJLMlCBdVv"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        }
-      ],
-      "duration_ms": 230218,
-      "name": "Salamin, Salamin",
-      "url": "https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb"
-    },
-    {
       "added_at": "2024-07-01 05:33:47",
       "album": {
         "name": "Tanong",
@@ -283,6 +267,22 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
+        "name": "Episode",
+        "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Give Me Your Forever",
+      "url": "https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
         "name": "Kathang Isip",
         "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
       },
@@ -297,20 +297,20 @@
       "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
     },
     {
-      "added_at": "2024-07-01 05:33:47",
+      "added_at": "2024-10-17 16:02:56",
       "album": {
-        "name": "Episode",
-        "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
+        "name": "Talaarawan",
+        "url": "https://open.spotify.com/album/2eT1XApzS0GmkJLMlCBdVv"
       },
       "artists": [
         {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
         }
       ],
-      "duration_ms": 244800,
-      "name": "Give Me Your Forever",
-      "url": "https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ"
+      "duration_ms": 230218,
+      "name": "Salamin, Salamin",
+      "url": "https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Ikaw Pa Rin",
-        "url": "https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k"
-      },
-      "artists": [
-        {
-          "name": "mrld",
-          "url": "https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma"
-        }
-      ],
-      "duration_ms": 191009,
-      "name": "Ikaw Pa Rin",
-      "url": "https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
         "name": "Sinta",
         "url": "https://open.spotify.com/album/0LAPQm2tSDLFDDpCfpw5DO"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 316683,
       "name": "Sinta",
       "url": "https://open.spotify.com/track/0aCmjkogiWIRu7205eZK6I"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
+        "name": "Ikaw Pa Rin",
+        "url": "https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k"
+      },
+      "artists": [
+        {
+          "name": "mrld",
+          "url": "https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma"
+        }
+      ],
+      "duration_ms": 191009,
+      "name": "Ikaw Pa Rin",
+      "url": "https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "711",
-        "url": "https://open.spotify.com/album/3rr7vncuxv64AzY98YwPIL"
-      },
-      "artists": [
-        {
-          "name": "TONEEJAY",
-          "url": "https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "711",
-      "url": "https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
         "name": "Padaba Taka",
         "url": "https://open.spotify.com/album/0Vl0nkEU0moIeAlY3gbYjZ"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 277583,
       "name": "Padaba Taka",
       "url": "https://open.spotify.com/track/07gUvSU765VtVbSoHPMHHO"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
+        "name": "711",
+        "url": "https://open.spotify.com/album/3rr7vncuxv64AzY98YwPIL"
+      },
+      "artists": [
+        {
+          "name": "TONEEJAY",
+          "url": "https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "711",
+      "url": "https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX"
     },
     {
       "added_at": "2024-07-01 05:33:47",

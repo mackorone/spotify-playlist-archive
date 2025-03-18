@@ -4,7 +4,7 @@
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/coming\-soon?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Newsletter coming soon...</a> Cover: Haim
 
-3,234 songs - 7 day 7 hr 56 min
+3,235 songs - 7 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -847,6 +847,7 @@
 | [Easy Violence \- Porches Remix](https://open.spotify.com/track/0Sl8DtJ5CYxGtvZ70vAFJz) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb), [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Easy Violence \(Porches Remix\)](https://open.spotify.com/album/0e4fKWP603AlQw9wwWnvum) | 2:36 | 2024-10-18 | 2024-12-21 |
 | [Easygoing](https://open.spotify.com/track/4r2D6XlI6RrUwV90bt6uBr) | [JDM Global](https://open.spotify.com/artist/3wFZTYWrzLzOf8OICy9fBl) | [Easygoing](https://open.spotify.com/album/0W36AtzYHeIxacZmJi4Ruc) | 3:30 | 2022-05-12 | 2022-06-16 |
 | [ecstacy \(slowed\)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS) | [SUICIDAL\-IDOL](https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI) | [ecstacy \(slowed\)](https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi) | 1:59 | 2023-10-02 | 2023-11-18 |
+| [Edge Of The Ocean](https://open.spotify.com/track/5zjQ3gF7xeNhMh0Is6wX0b) | [Ivy](https://open.spotify.com/artist/2TpNrO0G2ahji2IOR94TLA) | [Long Distance](https://open.spotify.com/album/2R6MZANJIreWzTd7kjtpa2) | 4:25 | 2025-03-17 |  |
 | [Edgewood](https://open.spotify.com/track/0LtwtBZ6zkKw4XOlqVQ9Wd) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Edgewood](https://open.spotify.com/album/4Ou2P6tgp9mVu6H0UtVt7w) | 3:40 | 2020-11-13 | 2021-01-12 |
 | [Effy Stonem](https://open.spotify.com/track/6ldcAaO9m1mEA5cPlt7j6B) | [Nick Mono](https://open.spotify.com/artist/4HyoBuDGnR8bp6TTrrVZ9q) | [Effy Stonem](https://open.spotify.com/album/6kSzgrkTcdI8pzCExx7ShY) | 2:40 | 2020-12-23 | 2021-04-16 |
 | [Ego](https://open.spotify.com/track/2qgXNUKWcCcXjRo2aMLjBa) | [Scruffpuppie](https://open.spotify.com/artist/4sfEJm0Dv8H6RFfeenNJEd) | [Ego](https://open.spotify.com/album/2jfGYnx0a3MrNkwXzn5mRt) | 2:28 | 2020-06-25 | 2020-07-31 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 184095,
+  "num_followers": 184116,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9TDAAAAAAAjB3wz0eYglI2Ll3uSqcY2",
+  "snapshot_id": "Z9YUgAAAAADopZp44UKs1z9hEsi+4QdS",
   "tracks": [
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 209666,
-      "name": "A Woman Left Lonely",
-      "url": "https://open.spotify.com/track/5NXI6TWg0mQRmbGPHzkoHk"
+      "duration_ms": 203400,
+      "name": "Get It While You Can",
+      "url": "https://open.spotify.com/track/3dOfHE5J4Qsj1hJ35vnfn4"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 203400,
-      "name": "Get It While You Can",
-      "url": "https://open.spotify.com/track/3dOfHE5J4Qsj1hJ35vnfn4"
+      "duration_ms": 209666,
+      "name": "A Woman Left Lonely",
+      "url": "https://open.spotify.com/track/5NXI6TWg0mQRmbGPHzkoHk"
     },
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Steve Mann: Alive And Pickin'",
-        "url": "https://open.spotify.com/album/2e82i0uQxkMwdJr8ASIvFe"
-      },
-      "artists": [
-        {
-          "name": "Steve Mann",
-          "url": "https://open.spotify.com/artist/2hcBQcl1OhkGXtcsuy2Mc1"
-        },
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 187413,
-      "name": "Trouble In Mind",
-      "url": "https://open.spotify.com/track/0c3YbzSctWakEYtmjVzlWB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 306093,
       "name": "Women Is Losers - Live at the Avalon Ballroom, San Francisco, CA - December 1966",
       "url": "https://open.spotify.com/track/7tk5U3oLW8pTpspY6JEAAE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Steve Mann: Alive And Pickin'",
+        "url": "https://open.spotify.com/album/2e82i0uQxkMwdJr8ASIvFe"
+      },
+      "artists": [
+        {
+          "name": "Steve Mann",
+          "url": "https://open.spotify.com/artist/2hcBQcl1OhkGXtcsuy2Mc1"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 187413,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/0c3YbzSctWakEYtmjVzlWB"
     },
     {
       "added_at": null,

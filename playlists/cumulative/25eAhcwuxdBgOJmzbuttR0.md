@@ -4,13 +4,14 @@
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-358 songs - 1 day 0 hr 17 min
+359 songs - 1 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(sic\)](https://open.spotify.com/track/1g8lVIsEkDaGD1nKw6fwUb) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 3:19 | 2023-03-28 |  |
 | [10's](https://open.spotify.com/track/5qG4mrKUlmGce1FA4wGrr7) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 4:49 | 2023-03-28 |  |
 | [1x1 \(feat\. Nova Twins\)](https://open.spotify.com/track/6sIbv1oWOuma2qV907MUbk) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:29 | 2023-03-28 |  |
+| [2005](https://open.spotify.com/track/1JMKlrFJ28qptDhPhk2h3o) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [2005](https://open.spotify.com/album/1y8VIK1Q5ajXcuMKmapNTE) | 3:23 | 2025-03-17 |  |
 | [A Match Into Water](https://open.spotify.com/track/54MXF9I8s3DuiQo3g0gZ5k) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:32 | 2023-06-07 |  |
 | [A.D.I.D.A.S.](https://open.spotify.com/track/0xgsyoVvRFSYvV5cdtYhX1) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 2:33 | 2023-05-18 |  |
 | [Addict \(Pop Goes Metal Cover\)](https://open.spotify.com/track/0sMFhcIvyaI97i5kjFZjHH) | [Jacob Takanashi](https://open.spotify.com/artist/3RN6BTGnOlXCU2D0rBOX4t), [Dave Capdevielle](https://open.spotify.com/artist/0h7SHjUsyFHxAQLNqb0Olz) | [Addict \(Pop Goes Metal Cover\)](https://open.spotify.com/album/7hR0EA57VfWr4ZC3TPQIkG) | 4:02 | 2023-10-30 |  |

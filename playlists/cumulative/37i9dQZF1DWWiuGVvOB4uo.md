@@ -4,7 +4,7 @@
 
 > Acoustic covers of all your favourite songs.
 
-319 songs - 17 hr 21 min
+320 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Blinding Lights](https://open.spotify.com/track/7q8Tf2APnxcQWKT69nfegF) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Blinding Lights](https://open.spotify.com/album/34fwE3cLPQVlNRA8seANC1) | 3:26 | 2024-02-02 |  |
 | [Boat](https://open.spotify.com/track/5J2CG1KDabRXqoV1KJP1np) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [Boat](https://open.spotify.com/album/37hzBgpWfxo0tieKhIs4l2) | 3:12 | 2023-06-08 |  |
 | [Body like backroad](https://open.spotify.com/track/4ftzIVYZ1lhBiQO3vuUfq0) | [Samuel Pine](https://open.spotify.com/artist/59FqDnWsY5WbBqDR5YE2nv) | [Body like backroad](https://open.spotify.com/album/2Bg7RrVYb7rjo314fI5vkO) | 2:48 | 2022-12-02 |  |
-| [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH) | [Catey Shaw](https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI) | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy) | 3:28 | 2022-08-26 |  |
+| [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH) | [Catey Shaw](https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI) | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy) | 3:28 | 2022-08-26 | 2025-03-18 |
 | [breakeven](https://open.spotify.com/track/1LvA1xObKcFK4eMsEKsEzP) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [breakeven](https://open.spotify.com/album/31NdbzRpE5w6lfvLdMsDeO) | 3:30 | 2022-12-23 |  |
 | [Breathless](https://open.spotify.com/track/2p5TVHyvFkVFBcJNKHwjh4) | [WestSouth](https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0) | [Breathless](https://open.spotify.com/album/4kJIsjIBDje8BRZb6xoVMn) | 2:46 | 2023-12-15 |  |
 | [Brief and Beautiful](https://open.spotify.com/track/7MOGp0X4VUfsvlZQFpKVhY) | [Fahrenhaidt](https://open.spotify.com/artist/36YkPEVyrGPidekkTErnko) | [Memories of Tomorrow](https://open.spotify.com/album/16gAW8RYGRjjHqUfedNpHY) | 3:39 | 2022-08-26 | 2023-02-03 |
@@ -244,7 +244,7 @@
 | [Redbone](https://open.spotify.com/track/1AMaBApVmeyBWai8k0QAMQ) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [Redbone](https://open.spotify.com/album/5iBdBYWTKoreXGuKlxBznd) | 2:51 | 2023-06-08 |  |
 | [Ridin' Solo](https://open.spotify.com/track/6VtXVWUzeJ4BtW08ppm9CH) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Ridin' Solo](https://open.spotify.com/album/7w5z58RtTGZn5JRUMlV0Tk) | 4:07 | 2022-08-26 | 2022-12-24 |
 | [Right Here Right Now](https://open.spotify.com/track/0d4V5zGWtZzsuWdr0cDPty) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Right Here Right Now](https://open.spotify.com/album/6KGK5IwZeEqf50uS3SOkXS) | 3:29 | 2022-08-26 | 2022-12-24 |
-| [Ruin My Life](https://open.spotify.com/track/1hRHMWrYGyDMVS7LaHgKSc) | [Eloise Kate](https://open.spotify.com/artist/5o8uKmI1GJP1DVCnt73oKE) | [Ruin My Life](https://open.spotify.com/album/6EqFlGWIh9s912Sff3YopH) | 3:28 | 2024-03-21 |  |
+| [Ruin My Life](https://open.spotify.com/track/1hRHMWrYGyDMVS7LaHgKSc) | [Eloise Kate](https://open.spotify.com/artist/5o8uKmI1GJP1DVCnt73oKE) | [Ruin My Life](https://open.spotify.com/album/6EqFlGWIh9s912Sff3YopH) | 3:28 | 2024-03-21 | 2025-03-18 |
 | [Ruin My Life](https://open.spotify.com/track/1qKOzZcVNDnmU0xiLJbORz) | [Eloise Kate](https://open.spotify.com/artist/5o8uKmI1GJP1DVCnt73oKE) | [Ruin My Life](https://open.spotify.com/album/5WyfkXyOVdQNtKcj0eF19w) | 3:28 | 2023-02-03 | 2024-04-19 |
 | [Ruin My Life](https://open.spotify.com/track/2bl1hEoJTAAgbbw9u1U7wY) | [Eloise Kate](https://open.spotify.com/artist/5o8uKmI1GJP1DVCnt73oKE) | [Ruin My Life](https://open.spotify.com/album/4aid7u08MEo6TJTkShJFEN) | 3:28 | 2022-08-26 | 2023-02-15 |
 | [Salt And The Sea](https://open.spotify.com/track/1JWtd8xh4Q5dyvnpBKh8L0) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Salt And The Sea](https://open.spotify.com/album/6GVE4CFlrukN6Od0AnWL0c) | 4:22 | 2022-08-26 | 2022-12-10 |
@@ -276,7 +276,7 @@
 | [Stay](https://open.spotify.com/track/0s9e0j3kCt5Ofmm5LmJEl9) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Stay](https://open.spotify.com/album/41xT4BqzV4UUH2V9T8dAT5) | 3:46 | 2024-01-12 |  |
 | [Stay with me](https://open.spotify.com/track/04tPBcDtaaIv28US53KjAV) | [Linus Svenning](https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8) | [Stay with me](https://open.spotify.com/album/5NenRWEwq6jxOugTnIEQlL) | 2:54 | 2022-12-23 |  |
 | [Stay with Me](https://open.spotify.com/track/3JQ71NtViPEp9utyY349ut) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Stay with Me](https://open.spotify.com/album/4tpkRxlOxQaNMPlxczThF1) | 3:10 | 2022-08-26 | 2023-08-25 |
-| [Steal My Sunshine](https://open.spotify.com/track/5nt4jj7r2dCnR9chlOaiur) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Steal My Sunshine](https://open.spotify.com/album/5mo1IZa96A4BsJ6AKHGHMw) | 3:42 | 2022-08-26 |  |
+| [Steal My Sunshine](https://open.spotify.com/track/5nt4jj7r2dCnR9chlOaiur) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Steal My Sunshine](https://open.spotify.com/album/5mo1IZa96A4BsJ6AKHGHMw) | 3:42 | 2022-08-26 | 2025-03-18 |
 | [Still The One](https://open.spotify.com/track/1euXH7sEOodtVT7S4QNYRD) | [Andrew Galucki](https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP) | [Still The One](https://open.spotify.com/album/2A7NsEN1bbpAROAOiRIGkC) | 3:31 | 2023-08-31 |  |
 | [Sunflower](https://open.spotify.com/track/2mqO0ZAmZKQbv8WBtnviS9) | [Layla and Jonah](https://open.spotify.com/artist/0JECA8NZVFC9ELpMS17ogu) | [Sunflower](https://open.spotify.com/album/510lnNlmB9cHSDqnpxWXs7) | 3:09 | 2022-08-26 | 2023-01-20 |
 | [Sweet Jane](https://open.spotify.com/track/3AsmFcxnAv5FtTsV9g45bj) | [Arturo Jimenes](https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr) | [Sweet Jane](https://open.spotify.com/album/1KuTjN7XA6kuziupnXOyTG) | 3:33 | 2022-08-26 | 2023-01-20 |
@@ -284,6 +284,7 @@
 | [Take A Picture](https://open.spotify.com/track/2lSGH56F0FIgPRGsMFy676) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [Take A Picture](https://open.spotify.com/album/6AB3Pfl1BXmLpTp3Z3ADk1) | 3:12 | 2022-08-26 | 2023-02-18 |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/3l3vryEgMzxrBLMaQBVpIT) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Take Me Home, Country Roads](https://open.spotify.com/album/0kYCLkmfgoIswQmHamph4M) | 3:31 | 2022-08-26 | 2023-01-20 |
 | [Take on Me](https://open.spotify.com/track/1KUPfNsRaZbZB3NUeXhUcm) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Take on Me](https://open.spotify.com/album/12NMWW1pgidVHBD6XU8vfz) | 3:09 | 2022-08-26 |  |
+| [Taste](https://open.spotify.com/track/1xUN5ZZ7pJySj9pa9UiWpZ) | [Robin T.](https://open.spotify.com/artist/49DfPZbBWoyT9tu7YRBDGq) | [Taste](https://open.spotify.com/album/0DUrfU6HigN6VulouqEGzt) | 3:09 | 2025-03-17 |  |
 | [The A Team](https://open.spotify.com/track/5lbeUlfWKtXsUsOk6tscZz) | [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct) | [The A Team](https://open.spotify.com/album/5F0rVfRsZs4pbmjVlbVD55) | 3:05 | 2022-08-26 | 2023-02-03 |
 | [The Best](https://open.spotify.com/track/1cskeMwfKX1G0mV1T0ypHf) | [Von Allen](https://open.spotify.com/artist/6XzdZwXu9yspPxr3u2DnBG) | [The Best](https://open.spotify.com/album/0diqsjfEEOC1n4LVVLSMgr) | 3:37 | 2024-02-02 |  |
 | [The Chemicals Between Us](https://open.spotify.com/track/09lHGt2md0FVLwHtnSeMvV) | [Palladinos](https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf) | [The Chemicals Between Us](https://open.spotify.com/album/7MKlXS1i6qtDhd7gU80uSw) | 2:53 | 2022-08-26 | 2023-02-03 |

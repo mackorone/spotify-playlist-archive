@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94 likes - 195 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 95 likes - 195 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 114 | [Let's Put Our Heads Together](https://open.spotify.com/track/55eZdjrzbSDCdyGldVjeXW) | [Dick Powell](https://open.spotify.com/artist/5hGZNLPNm2t3W0v28geOIK) | [There's Two Sides to Every Story](https://open.spotify.com/album/2h0guLYfqx2MfiusyEW3Hw) | 2:29 |
 | 115 | [Hooray for de Yankee Dollar](https://open.spotify.com/track/3h7omHLyeyHZxUEXGyTdmw) | [Phineas Newborn Jr.](https://open.spotify.com/artist/1WsMRWV5KEC2AxpYkeb2Cf) | [Plays Harold Arlen's Music from Jamaica](https://open.spotify.com/album/05jRnFn99eXi3f33S8Ad9X) | 3:30 |
 | 116 | [In A Jocular Vein](https://open.spotify.com/track/1bbpLVP3zLeoRtAbOFThJF) | [The Weavers](https://open.spotify.com/artist/4E5eAkpbJLO40r8fWNWm6X) | [Together Again](https://open.spotify.com/album/2cYr5Q3iZHC3v6QFupmdPu) | 1:31 |
-| 117 | [Noah](https://open.spotify.com/track/0ntszQBXc1b3ycd7JIl0Lk) | [Woody Herman & His Orchestra](https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn) | [Welcome to My Dream](https://open.spotify.com/album/0DdGWUa83ELS8iOT66bo1o) | 3:21 |
-| 118 | [For Every Fish](https://open.spotify.com/track/3AmHpajlAdhKPKO42JoHyh) | [Phineas Newborn Jr.](https://open.spotify.com/artist/1WsMRWV5KEC2AxpYkeb2Cf) | [Plays Harold Arlen's Music from Jamaica](https://open.spotify.com/album/05jRnFn99eXi3f33S8Ad9X) | 3:44 |
+| 117 | [For Every Fish](https://open.spotify.com/track/3AmHpajlAdhKPKO42JoHyh) | [Phineas Newborn Jr.](https://open.spotify.com/artist/1WsMRWV5KEC2AxpYkeb2Cf) | [Plays Harold Arlen's Music from Jamaica](https://open.spotify.com/album/05jRnFn99eXi3f33S8Ad9X) | 3:44 |
+| 118 | [Noah](https://open.spotify.com/track/0ntszQBXc1b3ycd7JIl0Lk) | [Woody Herman & His Orchestra](https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn) | [Welcome to My Dream](https://open.spotify.com/album/0DdGWUa83ELS8iOT66bo1o) | 3:21 |
 | 119 | [Pretty to Walk With \- Remastered](https://open.spotify.com/track/6cG8Uv5r9xr8Fe2OQz93T7) | [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [Stormy Weather \(The Audio Pearls Collection\)](https://open.spotify.com/album/0cKZt5KRdA8bTF1eyi2p3b) | 2:55 |
 | 120 | [Jerusalem \- Live](https://open.spotify.com/track/66RNWVcr1p2BndiNBZvQbF) | [Aquabella](https://open.spotify.com/artist/5KyFe21EBZxVaT1FP5FQIB) | [Jubilee Live](https://open.spotify.com/album/4sJoPgpsGYX4sUJEAvzvy2) | 5:06 |
 | 121 | [Strange As It Seems](https://open.spotify.com/track/0LOxAo3BsLuUe0smgNEnYA) | [The Boswell Sisters](https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN) | [Anthology \(1925\-1936\)](https://open.spotify.com/album/4AW133ZOLu4rAaImOP4cbE) | 1:38 |
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 194 | [Be Yourself](https://open.spotify.com/track/6yxG4DUyWo3TOuOVSLlFy9) | [RICHYFEIN](https://open.spotify.com/artist/2d0qI4NoEE9GH20qXpByph), [Dukeee](https://open.spotify.com/artist/45dEm7cqNob0CT3raETqHO) | [Trip On My Mind](https://open.spotify.com/album/5Pk2fExyrgdBebtERAEppx) | 2:55 |
 | 195 | [Intro to Necessity](https://open.spotify.com/track/7BiVEwi5DvPSFb8Z2WE518) | [David Staller](https://open.spotify.com/artist/3NZQn55ReTcDxkdftWW1Az), [Terri White](https://open.spotify.com/artist/79Gxi9msUDwqFtEvocmAJN) | [Finian's Rainbow \(Irish Repertory Theatre Cast Recording\)](https://open.spotify.com/album/1MmpLk5yBwgHevhiGh3FVB) | 0:27 |
 
-Snapshot ID: `AbsPKgAAAABpJNB9dqY9aPniRwy9bxyj`
+Snapshot ID: `AbsU1AAAAAAAaMPCl227crQAAsMdZm3X`

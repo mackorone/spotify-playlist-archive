@@ -1,12 +1,12 @@
 {
   "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
-  "num_followers": 51400,
+  "num_followers": 51404,
   "original_name": "This Is Bonnie Raitt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9TDAAAAAACvG6u1OBs9a47U4JRxc13L",
+  "snapshot_id": "Z9YUgAAAAABcbvXRPV93ZH3vOvvDGAUl",
   "tracks": [
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nick Of Time",
-        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 194908,
-      "name": "Nobody's Girl",
-      "url": "https://open.spotify.com/track/3N3Pa8T8epLgjMplqbetq8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Takin' My Time",
         "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 180000,
       "name": "Guilty - 2008 Remaster",
       "url": "https://open.spotify.com/track/2QUpntd3v7cZQByy7Kyh4L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 194908,
+      "name": "Nobody's Girl",
+      "url": "https://open.spotify.com/track/3N3Pa8T8epLgjMplqbetq8"
     },
     {
       "added_at": null,
@@ -767,6 +767,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stay Awake (Various Interpretations Of Music From Vintage Disney Films)",
+        "url": "https://open.spotify.com/album/48eR76ue3eFPCJdBppIWQ0"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        },
+        {
+          "name": "Was (Not Was)",
+          "url": "https://open.spotify.com/artist/7Jmod60ZpPG0tckhY0Ls0p"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "Baby Mine",
+      "url": "https://open.spotify.com/track/5DyFc8rXIB1uvvIqq6Kcj2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Threads",
         "url": "https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 309040,
       "name": "Live Wire",
       "url": "https://open.spotify.com/track/39YLkuJY39HjEtw1dgdptd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stay Awake (Various Interpretations Of Music From Vintage Disney Films)",
-        "url": "https://open.spotify.com/album/48eR76ue3eFPCJdBppIWQ0"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        },
-        {
-          "name": "Was (Not Was)",
-          "url": "https://open.spotify.com/artist/7Jmod60ZpPG0tckhY0Ls0p"
-        }
-      ],
-      "duration_ms": 194160,
-      "name": "Baby Mine",
-      "url": "https://open.spotify.com/track/5DyFc8rXIB1uvvIqq6Kcj2"
     },
     {
       "added_at": null,

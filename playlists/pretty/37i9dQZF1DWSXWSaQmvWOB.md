@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: Jalen Ngonda
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,761 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,885 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Just As Long As We're Together](https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just As Long As We're Together](https://open.spotify.com/album/2q05Sy95Dj43lDHqXANajn) | 3:14 |
 | 2 | [Heal Me Good](https://open.spotify.com/track/38exnGlvAOkYZEKpSJe11U) | [Yufu](https://open.spotify.com/artist/4lq7hzzPRSVIU1bvThHpPj) | [Heal Me Good](https://open.spotify.com/album/6DjI2Od6U3WvvRmpD7gsiH) | 4:07 |
 | 3 | [We've Got Tonight](https://open.spotify.com/track/04OYDsrg0a2mKjNxS75utD) | [Ladies of Soul](https://open.spotify.com/artist/5iCxLV7tMHPBf8GC9I2qmb), [Berget Lewis](https://open.spotify.com/artist/56EYDRc4IlffrNZyE5vtOx), [Edsilia Rombley](https://open.spotify.com/artist/1gdEZYmSkbreRam9wU3upg), [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [We've Got Tonight](https://open.spotify.com/album/7aoJiYpuA8dZTCeIz9Sjdz) | 3:33 |
-| 4 | [Overqualified](https://open.spotify.com/track/3lHwn0uVcDUXusIKOoBVHp) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 5:20 |
+| 4 | [Overqualified](https://open.spotify.com/track/3lHwn0uVcDUXusIKOoBVHp) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 5:18 |
 | 5 | [I GØT HOME](https://open.spotify.com/track/5VxqabAotndQmMTlsWrNS7) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [I GØT HOME](https://open.spotify.com/album/1i9dFWQahF4K6IbUCopjFS) | 2:16 |
 | 6 | [Sugarcoat](https://open.spotify.com/track/15JA8Cex1Q10LgJ31llVdR) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder: Book III](https://open.spotify.com/album/02ClJ7AJWANCqGNJ42urXa) | 2:00 |
 | 7 | [Black Magic](https://open.spotify.com/track/6atKugO0itgKT1S6Ty13XO) | [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn) | [Cosmic Gold](https://open.spotify.com/album/57nFnn7qbMP2TD72wZuMBH) | 4:54 |

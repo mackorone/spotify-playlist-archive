@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,373 songs - 6 day 22 hr 38 min
+4,374 songs - 6 day 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2014,7 +2014,7 @@
 | [Lavaa](https://open.spotify.com/track/2EUkWXNFy5nxzrEEXG8QLt) | [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7) | [Lavaa](https://open.spotify.com/album/3SWsnb4U4gmADnu7L7tf98) | 1:51 | 2020-03-27 | 2020-05-30 |
 | [Lavender](https://open.spotify.com/track/7wSkoXvluRMn8IOpvS60eN) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sling Dilly](https://open.spotify.com/artist/6XMpIUezd0F9j0NT7u3jZl) | [Lavender](https://open.spotify.com/album/4h9KvqU4dYtffJpa213nGp) | 1:09 | 2019-05-26\* | 2019-06-15 |
 | [Lavender](https://open.spotify.com/track/6nhg2OcyEtiG1yprRHIqin) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Lavender](https://open.spotify.com/album/4YaRgzbVNJV4sQCjfeqMgx) | 3:09 | 2021-07-09 | 2021-09-10 |
-| [Lavender](https://open.spotify.com/track/6OP7rt2g1GX4aZhwRFRyUV) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Lavender](https://open.spotify.com/album/5yUU4d1WcmO1fJSRlGih9c) | 2:36 | 2025-03-07 |  |
+| [Lavender](https://open.spotify.com/track/6OP7rt2g1GX4aZhwRFRyUV) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Lavender](https://open.spotify.com/album/5yUU4d1WcmO1fJSRlGih9c) | 2:36 | 2025-03-07 | 2025-03-18 |
 | [Lavender Clouds](https://open.spotify.com/track/3jfPTjVuN8UpKdhMdZXQYK) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [ESCHES](https://open.spotify.com/artist/38XzG3WR91KrZPn7GxeMKS) | [Lavender Clouds](https://open.spotify.com/album/1KY4y4WJZzKg2eGjHBCItm) | 2:08 | 2021-12-17 | 2022-01-21 |
 | [LAX Terminal](https://open.spotify.com/track/2hLzQ3GT0aS7YpyNrPjo2o) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [LAX Terminal](https://open.spotify.com/album/1ly06Gqy6NGiioPVB3Kev4) | 1:34 | 2019-05-28 | 2019-10-11 |
 | [Lay Back](https://open.spotify.com/track/3nZRHoCF0HbHtIMDxr8bNC) | [JoDu](https://open.spotify.com/artist/2UVaYQceUD4DAYR4pzaN6A) | [Off the Tracks](https://open.spotify.com/album/6h3O9tZXMuMgxjimt0nkkN) | 3:08 | 2019-05-26\* | 2019-06-26 |
@@ -2448,6 +2448,7 @@
 | [Morning Glow](https://open.spotify.com/track/03UKH7unkeOer6mbroB56Q) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Morning Glow](https://open.spotify.com/album/2f4wtOv1lnMBQ09OY97sDJ) | 1:37 | 2022-05-26 | 2022-11-20 |
 | [Morning Glow](https://open.spotify.com/track/3xN13sfbVEdS3rGRXcbuAp) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Morning Glow](https://open.spotify.com/album/6Z3F47a2bEhuZ2egTXUyRO) | 1:37 | 2022-12-22 | 2023-01-27 |
 | [Morning Glow](https://open.spotify.com/track/6dFXtKwpTjkYhDA80x4y8a) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Morning Glow](https://open.spotify.com/album/68aKOZGK0WeZkb5bDnscJE) | 1:37 | 2022-11-17 | 2022-12-14 |
+| [Morning Hug](https://open.spotify.com/track/2e4g7mcYZmRA2f4TAOHftF) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Morning Hug](https://open.spotify.com/album/126OcPlgXnIeMP2sBFb6pg) | 2:01 | 2025-03-14 |  |
 | [Morning in Tbilisi](https://open.spotify.com/track/0eUyvXi1OHuJxikJau7tiw) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Morning in Tbilisi](https://open.spotify.com/album/06jAGa8VCpCFUkZgZCuxqg) | 2:51 | 2020-07-31 | 2021-02-12 |
 | [Morning Lovers](https://open.spotify.com/track/0vS6qDzCDjqSRyPlUDWcrS) | [Finder](https://open.spotify.com/artist/67DHWGOdLU3uY36GatWuCS) | [Morning Lovers](https://open.spotify.com/album/3p1oifDNpTp0iM1j9xsmEV) | 2:21 | 2024-01-26 | 2024-03-01 |
 | [morning mood](https://open.spotify.com/track/5IM5amYdIdW6fx0sU8a0fm) | [mar\-feliz](https://open.spotify.com/artist/2mzOhpj1B9Yc4ORHgsATmN) | [morning mood](https://open.spotify.com/album/4ygeo0HmZ6jOvFWbvuRlka) | 1:48 | 2020-03-31 | 2020-06-24 |

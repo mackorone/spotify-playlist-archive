@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 
 > Selections of North Indian classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,649 likes - 50 songs - 13 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,672 likes - 50 songs - 13 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 24 | [Taaron Bhari Raat \- Raga Malkauns \- Raga Malkauns \- Drut Ektala](https://open.spotify.com/track/0DtWXjhnx8FMJhj8uTsZWB) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Ashish Ragwani](https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO), [Abhinay Ravande](https://open.spotify.com/artist/2ozeNR3NziMtnuokdpAByx) | [Taaron Bhari Raat \- Raga Malkauns](https://open.spotify.com/album/7pAJD1ZAIiHkkwYxQQazQI) | 10:25 |
 | 25 | [Chandrakaush Alap](https://open.spotify.com/track/4hrp2BLqRV6XO2oOp5IVeY) | [Nikhil Banerjee](https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1) | [Chandrakaush Khamaj 1967](https://open.spotify.com/album/4fY7XyZhcMPXyqXo5FOkh7) | 20:24 |
 | 26 | [Raag Mishra Shirvranjani Taal Deepchandi](https://open.spotify.com/track/1pvvfWnFF3va8LrjbUDx8S) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Aashish Khan](https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Jugalbandi II](https://open.spotify.com/album/5shZ28NNUrgvj8bsSuAo40) | 21:49 |
-| 27 | [Bhavani Dayani Raag Mishra Bhairavi Sadra](https://open.spotify.com/track/6S8hdKKsm9DkOaTMWn2JCh) | [Jyoti Debnath](https://open.spotify.com/artist/4rcwtJdLLfRtwc4TLvvcWk) | [Bhavani Dayani Raag Mishra Bhairavi Sadra](https://open.spotify.com/album/40GaEcinaieQsIXisQygW7) | 5:35 |
-| 28 | [Raga Kirwani \- Alap Gat \- Teental](https://open.spotify.com/track/2Gq5kWJ1NRufo0QOfVyGTj) | [Iqubal Huein](https://open.spotify.com/artist/0CnxFv42PMTnwphcBkCdnA), [Brij Narayan](https://open.spotify.com/artist/5VJZyz56NQuUuxB7Hd0urs) | [Brij Narayan](https://open.spotify.com/album/72ZMJKTHsYFQRZBM0iL5kw) | 10:13 |
+| 27 | [Raga Kirwani \- Alap Gat \- Teental](https://open.spotify.com/track/2Gq5kWJ1NRufo0QOfVyGTj) | [Iqubal Huein](https://open.spotify.com/artist/0CnxFv42PMTnwphcBkCdnA), [Brij Narayan](https://open.spotify.com/artist/5VJZyz56NQuUuxB7Hd0urs) | [Brij Narayan](https://open.spotify.com/album/72ZMJKTHsYFQRZBM0iL5kw) | 10:13 |
+| 28 | [Bhavani Dayani Raag Mishra Bhairavi Sadra](https://open.spotify.com/track/6S8hdKKsm9DkOaTMWn2JCh) | [Jyoti Debnath](https://open.spotify.com/artist/4rcwtJdLLfRtwc4TLvvcWk) | [Bhavani Dayani Raag Mishra Bhairavi Sadra](https://open.spotify.com/album/40GaEcinaieQsIXisQygW7) | 5:35 |
 | 29 | [Raga Basant Bahar \- Raga Basant Bahar \- Ektaal \- Teentaal](https://open.spotify.com/track/5EmNsq9at10HMawWfhM2K6) | [Kishori Amonkar](https://open.spotify.com/artist/0tLjWOxzh42O8gr0nFzv45) | [Sangeet Sartaj, Vol\. 1 & 2](https://open.spotify.com/album/0KyNZodk1oplO3iJhy5GHk) | 29:27 |
 | 30 | [Raga Bhairavii: Baju Band Khul Khul Jani](https://open.spotify.com/track/6JyggcRCT6CEw7JVDJfODF) | [Shruti Sadolikar](https://open.spotify.com/artist/6caUPzMY65rQ7qk9yw2xDq) | [Raga Miyan\-Ki\-Todi, Raga Bibhas & Raga Bhairavi](https://open.spotify.com/album/02Utu7DnngYqwgcHr2rN4H) | 13:43 |
 | 31 | [Raga Bhimpalasi \- Live](https://open.spotify.com/track/2NAJP1wqoaxbSJLiv2X8tL) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Ravi Shankar Collection: Live: Ravi Shankar At The Monterey International Pop Festival](https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0) | 27:17 |

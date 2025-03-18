@@ -4,7 +4,7 @@
 
 > Devotional tracks for an immersive Ramadan\. Cover: Atif Aslam
 
-103 songs - 9 hr 46 min
+105 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Lam Yat Nazeeron](https://open.spotify.com/track/3gp2g2nzSPY2I8eNlNND9Y) | [Abdul Rauf Roofi](https://open.spotify.com/artist/3TQzauPaIXPAY3IdstJw5y) | [Rehmat Hi Rehmat](https://open.spotify.com/album/1LAj70hIY2tDMo2m7UtXlu) | 7:07 | 2024-02-21 | 2024-03-22 |
 | [Lamyati Nazeero Kafi Nazarin](https://open.spotify.com/track/4Ro9g1K81Xn2JzbvTJCxLR) | [Waseem Ahmed](https://open.spotify.com/artist/3hxAEnme2cH02IX91bOQaA), [Danish Ahmed](https://open.spotify.com/artist/0hnSNpwhbXNbo2T1tkt9EJ), [Wajahat Ali](https://open.spotify.com/artist/7v6SqMFyHCxtY4Ox3AChg4), [Junaid Rehmani](https://open.spotify.com/artist/0vgVXrXIVzbeuuHTfZ3tg1), [Waqar Hussain](https://open.spotify.com/artist/25guS5j6KqfntMgtWakAdU) | [Lamyati Nazeero Kafi Nazarin](https://open.spotify.com/album/5yh3CIbaSO1hWyGRtI7auw) | 7:22 | 2024-03-22 |  |
 | [Madina Madina](https://open.spotify.com/track/2bdN1sxueKxLTi0tCN7zcq) | [Raffey Ismail](https://open.spotify.com/artist/11Yzhu6LvmYZXSf5e7vyuR) | [Madina Madina](https://open.spotify.com/album/2LOVb8bLCz8TYF17VknOLg) | 5:29 | 2024-03-14 | 2024-03-22 |
+| [Madinay Bula Sohneya](https://open.spotify.com/track/4avrqvaryvU5a5Pc8uRhur) | [Mehak Ali](https://open.spotify.com/artist/6XnTAfn0rCJ6hrABktaOIW) | [Madinay Bula Sohneya](https://open.spotify.com/album/3jFwOGGHBQ37j98z1Ab5iw) | 6:17 | 2025-03-17 |  |
 | [Madine Walay Aaqa](https://open.spotify.com/track/3AqH9fJL6R1fmwwbGOcH8l) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Madine Walay Aaqa](https://open.spotify.com/album/126YBZmRktl6lA9Ur3vuaf) | 7:25 | 2024-03-22 |  |
 | [Main To Ummati Hoon](https://open.spotify.com/track/10sbxVDdPHgaqg4DthlEUD) | [Farooq Haider](https://open.spotify.com/artist/5rz1bZEo5BAZErRuzmvRxz) | [Main To Ummati Hoon](https://open.spotify.com/album/7L2aACASUFcNmZwPFM2lIR) | 4:30 | 2024-02-21 |  |
 | [Marhaba \(Naat\)](https://open.spotify.com/track/6PHkHpktUuXuOMkw3NTX4Y) | [Omer Nadeem](https://open.spotify.com/artist/0JictZKAbTssPcgxviJTOQ) | [Marhaba \(Naat\)](https://open.spotify.com/album/7LrVw2uyi76oW3GuWLanVD) | 3:55 | 2024-02-21 | 2024-03-15 |
@@ -106,6 +107,7 @@
 | [Ya Muhammad \(PBUH\)](https://open.spotify.com/track/3renu7MJv6JUAVVduvgbNM) | [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Ya Muhammad \(PBUH\)](https://open.spotify.com/album/1NY6DnrflgT7865M9eEkuZ) | 4:02 | 2024-02-21 |  |
 | [Ya Muhammad Noor\-e\-mujassam](https://open.spotify.com/track/5Hsrb0Xz7ECKHbfMXaN5qb) | [Kashif Din](https://open.spotify.com/artist/7CjchDq0Hkq3CHBePVofRr) | [Ya Muhammad Noor\-e\-mujassam](https://open.spotify.com/album/3OFGxNGHw1NaQMxnWk89jA) | 4:07 | 2024-02-21 |  |
 | [Ya Nabi \(s.a.w\) Durood o Salaam](https://open.spotify.com/track/5rcxEwduXIVMMT8zJdKh10) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Ya Nabi \(s.a.w\) Durood o Salaam](https://open.spotify.com/album/2v4zNul8yOSZVRd3ypLmcs) | 5:39 | 2024-02-21 |  |
+| [Ya Nabi Salam Alaika](https://open.spotify.com/track/0rFMtP81248EFHTrIYbQfn) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Ya Nabi Salam Alaika](https://open.spotify.com/album/1bO1Uq4RbVq9l6WqSGL5jb) | 4:54 | 2025-03-17 |  |
 | [Ya Nabi Salam Alaika \(S.A.W.W\)](https://open.spotify.com/track/3cca0FszjUAkg6mvISlqY6) | [Boss Menn](https://open.spotify.com/artist/6l3Cv46bf92QuX8VaIqdXz) | [Ya Nabi Salam Alaika \(S.A.W.W\)](https://open.spotify.com/album/5CYRRzUFhgCRMl0QatmEZ6) | 3:48 | 2024-04-02 |  |
 | [Ya Nabi Salam Alayka](https://open.spotify.com/track/5HHjEUuf9lNhQWJ1pZeGgI) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Thank You Allah \(Turkish Version\)](https://open.spotify.com/album/1Wul1gjulHQkgnZ1aZMgne) | 4:56 | 2024-03-21 |  |
 | [Yaa Nabi](https://open.spotify.com/track/36ffDR0oxNSX2ZBdC376HD) | [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF) | [Yaa Nabi](https://open.spotify.com/album/3hHe4MtbLOLB3ukOwaZfvT) | 3:54 | 2024-03-14 |  |

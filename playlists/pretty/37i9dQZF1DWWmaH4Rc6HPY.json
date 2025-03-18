@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Morat en portada.",
-  "num_followers": 34234,
+  "num_followers": 34259,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-03-07 06:00:22",
       "album": {
+        "name": "A Fuego",
+        "url": "https://open.spotify.com/album/5fwB9BD3xstcl7cZpxYFmH"
+      },
+      "artists": [
+        {
+          "name": "Robleis",
+          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
+        }
+      ],
+      "duration_ms": 167538,
+      "name": "A Fuego",
+      "url": "https://open.spotify.com/track/2MNcAkHDpVqGbRsaqO7LF2"
+    },
+    {
+      "added_at": "2025-03-07 06:00:22",
+      "album": {
         "name": "Igual de gris",
         "url": "https://open.spotify.com/album/01ue76B6p752PENdJ6eurO"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 196395,
       "name": "Igual de gris",
       "url": "https://open.spotify.com/track/4cScSwuQMKmvAsJmwQt4E0"
-    },
-    {
-      "added_at": "2025-03-07 06:00:22",
-      "album": {
-        "name": "A Fuego",
-        "url": "https://open.spotify.com/album/5fwB9BD3xstcl7cZpxYFmH"
-      },
-      "artists": [
-        {
-          "name": "Robleis",
-          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
-        }
-      ],
-      "duration_ms": 167538,
-      "name": "A Fuego",
-      "url": "https://open.spotify.com/track/2MNcAkHDpVqGbRsaqO7LF2"
     },
     {
       "added_at": "2025-03-07 06:00:22",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-03-07 06:00:22",
       "album": {
-        "name": "Secuaz (Noches de Sal\u00f3n)",
-        "url": "https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 237324,
-      "name": "Secuaz - Noches de Sal\u00f3n",
-      "url": "https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR"
-    },
-    {
-      "added_at": "2025-03-07 06:00:22",
-      "album": {
         "name": "EL PEOR",
         "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2025-03-07 06:00:22",
       "album": {
-        "name": "Que Noche la de Anoche",
-        "url": "https://open.spotify.com/album/3xA3hokEPtRNegsQJDpECZ"
+        "name": "Secuaz (Noches de Sal\u00f3n)",
+        "url": "https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD"
       },
       "artists": [
         {
-          "name": "Elefante",
-          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
         }
       ],
-      "duration_ms": 233128,
-      "name": "Que Noche la de Anoche",
-      "url": "https://open.spotify.com/track/5FfoldezP9X0pm6TdFPLxK"
+      "duration_ms": 237324,
+      "name": "Secuaz - Noches de Sal\u00f3n",
+      "url": "https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR"
     },
     {
       "added_at": "2025-03-07 06:00:22",
@@ -859,6 +843,22 @@
       "duration_ms": 162712,
       "name": "Te Desenamoraste",
       "url": "https://open.spotify.com/track/5A20iH28ulrJ8U3WfCmsJM"
+    },
+    {
+      "added_at": "2025-03-07 06:00:22",
+      "album": {
+        "name": "Que Noche la de Anoche",
+        "url": "https://open.spotify.com/album/3xA3hokEPtRNegsQJDpECZ"
+      },
+      "artists": [
+        {
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+        }
+      ],
+      "duration_ms": 233128,
+      "name": "Que Noche la de Anoche",
+      "url": "https://open.spotify.com/track/5FfoldezP9X0pm6TdFPLxK"
     },
     {
       "added_at": "2025-03-07 06:00:22",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2025-03-07 06:00:22",
       "album": {
+        "name": "donde qued\u00e9 yo?",
+        "url": "https://open.spotify.com/album/1UYFv9czF3faJyHqPZyNGB"
+      },
+      "artists": [
+        {
+          "name": "Ana Sofi W.",
+          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
+        }
+      ],
+      "duration_ms": 131628,
+      "name": "plan fatal",
+      "url": "https://open.spotify.com/track/4kedmv1tn2kx6xt8WP27kK"
+    },
+    {
+      "added_at": "2025-03-07 06:00:22",
+      "album": {
         "name": "El para\u00edso #2",
         "url": "https://open.spotify.com/album/64GURwXiHXbcjdCIxk6Bpu"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 174629,
       "name": "El para\u00edso #2",
       "url": "https://open.spotify.com/track/0Sk0gQDXrdlrCFk8xFYOrx"
-    },
-    {
-      "added_at": "2025-03-07 06:00:22",
-      "album": {
-        "name": "donde qued\u00e9 yo?",
-        "url": "https://open.spotify.com/album/1UYFv9czF3faJyHqPZyNGB"
-      },
-      "artists": [
-        {
-          "name": "Ana Sofi W.",
-          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
-        }
-      ],
-      "duration_ms": 131628,
-      "name": "plan fatal",
-      "url": "https://open.spotify.com/track/4kedmv1tn2kx6xt8WP27kK"
     },
     {
       "added_at": "2025-03-07 06:00:22",
@@ -1259,18 +1259,22 @@
     {
       "added_at": "2025-03-07 06:00:22",
       "album": {
-        "name": "Miami 1990",
-        "url": "https://open.spotify.com/album/4EAYebe5JweiTduq6ctvdn"
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/3OImMIbnVXy6OV1yJHSYeH"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 236146,
-      "name": "Miami 1990",
-      "url": "https://open.spotify.com/track/7rhp1dmQkCmDlJBWmmeApS"
+      "duration_ms": 325145,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/4Ey3GCtvICUIJDM0wUCPd0"
     },
     {
       "added_at": "2025-03-07 06:00:22",
@@ -1291,22 +1295,18 @@
     {
       "added_at": "2025-03-07 06:00:22",
       "album": {
-        "name": "Silencio",
-        "url": "https://open.spotify.com/album/3OImMIbnVXy6OV1yJHSYeH"
+        "name": "Miami 1990",
+        "url": "https://open.spotify.com/album/4EAYebe5JweiTduq6ctvdn"
       },
       "artists": [
         {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
         }
       ],
-      "duration_ms": 325145,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/4Ey3GCtvICUIJDM0wUCPd0"
+      "duration_ms": 236146,
+      "name": "Miami 1990",
+      "url": "https://open.spotify.com/track/7rhp1dmQkCmDlJBWmmeApS"
     },
     {
       "added_at": "2025-03-07 06:00:22",

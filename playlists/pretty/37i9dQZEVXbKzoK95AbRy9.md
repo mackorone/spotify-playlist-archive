@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,800 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,836 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [SEQUÊNCIA STRIPTEASE](https://open.spotify.com/track/7xeqjq45imp3qonWKqfyip) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Debby](https://open.spotify.com/artist/1hMpRPX4OZEaJgBi6BsjHh), [Mc Talibã](https://open.spotify.com/artist/2DMQ1LeygTDGeyErwBwaeG) | [SEQUÊNCIA STRIPTEASE](https://open.spotify.com/album/1bS7v3HQh9l3cfALnsa7c3) | 2:24 |
 | 50 | [Arruma Um Bão](https://open.spotify.com/track/6ukVCqH77f6cwRHyJBhGgy) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Termômetro](https://open.spotify.com/album/6zw5gasuMMyY7fqTDUX2xq) | 2:55 |
 
-Snapshot ID: `L2o+oAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L2uQIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

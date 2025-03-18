@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Jon Pardi, Warren Zeiders, Miranda Lambert and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,066 likes - 74 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,194 likes - 74 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

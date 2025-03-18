@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-637 songs - 1 day 8 hr 30 min
+638 songs - 1 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Friends](https://open.spotify.com/track/3MZSuu8bD15Ha7LtRWyMQg) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Friends](https://open.spotify.com/album/2simPoFMlXOgstLyQQYomC) | 2:34 | 2024-08-21 | 2024-09-27 |
 | [Fruängen](https://open.spotify.com/track/5foc3SckhG8CWzTq3JQ7w1) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Molly från Fruängen](https://open.spotify.com/album/2vQc4MLIdCDZzkSNdSwvB7) | 3:48 | 2024-09-26 | 2024-11-23 |
 | [Fuck ditt liv](https://open.spotify.com/track/29w6XkR2SlXSd6avlHvejW) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Fuck ditt liv](https://open.spotify.com/album/2PUu9XBFuCzLw8lY2ZChq0) | 2:42 | 2024-08-15 | 2024-10-11 |
+| [FUFN \(Fuck You For Now\)](https://open.spotify.com/track/7hWESP9salkKYucipe5W99) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [FUFN \(Fuck You For Now\)](https://open.spotify.com/album/2q2NWhj9rd5WnKokMmapIq) | 3:35 | 2025-03-17 |  |
 | [Funniest Thing](https://open.spotify.com/track/2750HhdibiPb7kY84SEtYX) | [Nomi Tales](https://open.spotify.com/artist/2kHbs6arBtyzIgY5l86m3K) | [Funniest Thing](https://open.spotify.com/album/65Qr7xBuGjO0x1iWicAuze) | 2:54 | 2025-02-07 | 2025-03-14 |
 | [FXCK UP THE WORLD \(feat\. Future\)](https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:04 | 2025-02-27 |  |
 | [Förlora](https://open.spotify.com/track/3ZkV52G1vRvVJRY0jgNY0S) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Kyss mig snabbt i otakt](https://open.spotify.com/album/2vy7VEefdqEVG458oaDGr6) | 3:09 | 2024-08-09 | 2024-09-13 |

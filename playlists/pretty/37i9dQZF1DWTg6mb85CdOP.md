@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 
 > Celebremos la magia de estar juntxs, ¡Nos vemos el 14, 15 y 16 de Febrero en Las Estacas! <a href="https://bahidora.com//"> Compra tus entradas aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,765 likes - 76 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,764 likes - 76 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 | 32 | [LA QUE PUEDE, PUEDE](https://open.spotify.com/track/6gIWpyqE5r0Ebgacpg5i0M) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:34 |
 | 33 | [boss](https://open.spotify.com/track/1wbfnoIbYDqablRSVuNC2m) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [boss](https://open.spotify.com/album/4vubWhYIAvE2QKfjcnMyHe) | 2:11 |
 | 34 | [Cumbia del Olvido](https://open.spotify.com/track/1oCHMNWzKJdwdwjsPMjXf3) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN) | 3:36 |
-| 35 | [No One's Watching Me \- feat\. Olivia Dean](https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 4:22 |
-| 36 | [Sun Colored Eyes](https://open.spotify.com/track/2Rlw1EslDSKSODPst1GhOY) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Harvest](https://open.spotify.com/album/7hIjNhXoPqyARBpaKpS3nk) | 3:55 |
+| 35 | [Sun Colored Eyes](https://open.spotify.com/track/2Rlw1EslDSKSODPst1GhOY) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Harvest](https://open.spotify.com/album/7hIjNhXoPqyARBpaKpS3nk) | 3:55 |
+| 36 | [No One's Watching Me \- feat\. Olivia Dean](https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 4:22 |
 | 37 | [10% \(feat\. Kali Uchis\)](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 |
 | 38 | [¡Ay! El Amor](https://open.spotify.com/track/1qwxoareNYzR62kM9iK9Ww) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Amor Andino](https://open.spotify.com/album/0UtZKdJlBaxmdAUNaAm7r8) | 3:33 |
 | 39 | [culo && teta](https://open.spotify.com/track/765QWTHAHRodgT40xmEGI0) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Joss ML](https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA) | [SEXOLANDIA](https://open.spotify.com/album/34q8BcQiDWmbD2MFFy4nPy) | 2:32 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 | 67 | [Miso](https://open.spotify.com/track/3mDRf1zjvoSOlIGjcIZdJ6) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn), [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Kinesia](https://open.spotify.com/album/717qkZW9A78xtt11FHM6e6) | 3:32 |
 | 68 | [Hold Me \- Synth\-a\-pella](https://open.spotify.com/track/401IoxkzMv0h4kkuNWyyfZ) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Devotion](https://open.spotify.com/album/2e7LQqvJdInqGHnjEIsAaJ) | 2:20 |
 | 69 | [Alien Mode](https://open.spotify.com/track/5z0Ax4PO7lk4soofizbRjj) | [Pearson Sound](https://open.spotify.com/artist/3lN70MoiO9u6b95CsTeB1J) | [Alien Mode](https://open.spotify.com/album/61uZXQS5ixS4SbNzuRToKr) | 6:03 |
-| 70 | [Juanita](https://open.spotify.com/track/17j3whgzlB8jJPwQZDqiSc) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Gemelo](https://open.spotify.com/album/16hyi0FtwSiv2Kojazr71m) | 3:46 |
-| 71 | [Still Flowing Water](https://open.spotify.com/track/6mUcXOfpjOwlIeSZ7WXdkL) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Fuzzy Logic / Still Flowing Water](https://open.spotify.com/album/5aP5JuYG4xOpdRU7MTOloL) | 5:59 |
-| 72 | [Paradise Architects](https://open.spotify.com/track/5ZRwdo1UUMOKh3wXEJJxRL) | [Theo Parrish](https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz) | [First Floor](https://open.spotify.com/album/5iVsUH1RQbojywBR2SoVua) | 6:02 |
+| 70 | [Still Flowing Water](https://open.spotify.com/track/6mUcXOfpjOwlIeSZ7WXdkL) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Fuzzy Logic / Still Flowing Water](https://open.spotify.com/album/5aP5JuYG4xOpdRU7MTOloL) | 5:59 |
+| 71 | [Paradise Architects](https://open.spotify.com/track/5ZRwdo1UUMOKh3wXEJJxRL) | [Theo Parrish](https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz) | [First Floor](https://open.spotify.com/album/5iVsUH1RQbojywBR2SoVua) | 6:02 |
+| 72 | [Juanita](https://open.spotify.com/track/17j3whgzlB8jJPwQZDqiSc) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Gemelo](https://open.spotify.com/album/16hyi0FtwSiv2Kojazr71m) | 3:46 |
 | 73 | [Telepathy](https://open.spotify.com/track/2pniyAySZsOuSbfStSQGxk) | [Mystery Affair](https://open.spotify.com/artist/7uC8zxltPgrwtEqWRWwHFv) | [Telepathy](https://open.spotify.com/album/74s3acCJloOEtfjPJCLgPL) | 5:15 |
 | 74 | [Rave Escape](https://open.spotify.com/track/7uoGsf6BKGDMtQcg4HNgGa) | [Zombies In Miami](https://open.spotify.com/artist/42ZWiibQTSxTJSBV7oziPy), [Mystery Affair](https://open.spotify.com/artist/7uC8zxltPgrwtEqWRWwHFv) | [Empatia](https://open.spotify.com/album/11PANYFNyhBYDrfPogUE26) | 6:27 |
 | 75 | [Tibet](https://open.spotify.com/track/1V36A17ZSWakulIEDX71al) | [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd), [Rosa Pistola](https://open.spotify.com/artist/06fEHseCklFEuDgM5dccHX) | [SOUND BLASTA](https://open.spotify.com/album/0JyZ583PiMYMhNLI7pWxRy) | 2:27 |

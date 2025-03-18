@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 12662,
+  "num_followers": 12670,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9TDAAAAAAAt2klBY1HRD7tdGT5L/ZH+",
+  "snapshot_id": "Z9YUgAAAAAB9I2T9tTIrl9SKpLfUdvW5",
   "tracks": [
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alla En Lynwood (En Vivo)",
+        "url": "https://open.spotify.com/album/0OhdTL3qbFHUo6Qo2fc7Ul"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "Alla En Lynwood - En Vivo",
+      "url": "https://open.spotify.com/track/00yHdOJRayC728xYDY7ioe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Tiempos Cambian",
         "url": "https://open.spotify.com/album/4auHxC2aWnFgL1pXqUw86a"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta el Dia de Hoy",
-        "url": "https://open.spotify.com/album/6GSeGmTye0w8QJ99CDy3oh"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 189450,
-      "name": "Hasta el Dia de Hoy",
-      "url": "https://open.spotify.com/track/17OipakbVTusJ6e6MeQSNw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vueltas De La Vida",
         "url": "https://open.spotify.com/album/1EwUWq8uTZHRoAfnmo51W7"
       },
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alla En Lynwood (En Vivo)",
-        "url": "https://open.spotify.com/album/0OhdTL3qbFHUo6Qo2fc7Ul"
+        "name": "Hasta el Dia de Hoy",
+        "url": "https://open.spotify.com/album/6GSeGmTye0w8QJ99CDy3oh"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 203250,
-      "name": "Alla En Lynwood - En Vivo",
-      "url": "https://open.spotify.com/track/00yHdOJRayC728xYDY7ioe"
+      "duration_ms": 189450,
+      "name": "Hasta el Dia de Hoy",
+      "url": "https://open.spotify.com/track/17OipakbVTusJ6e6MeQSNw"
     },
     {
       "added_at": null,

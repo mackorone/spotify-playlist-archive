@@ -2,7 +2,7 @@
 
 ### [Mixtape](https://open.spotify.com/playlist/37i9dQZF1DWU9jBen8IUSn)
 
-> Lucy Dacus shares some old school love songs, just in time for Valentine's\. <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
+> Lucy Dacus shares some old school love songs\. <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
 
 698 songs - 1 day 21 hr 35 min
 

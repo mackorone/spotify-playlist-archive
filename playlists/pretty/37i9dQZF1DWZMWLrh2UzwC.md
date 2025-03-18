@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Dato' Sri Siti Nurhaliza, Lizzo, Calvin Harris, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,713 likes - 95 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,717 likes - 95 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 19 | [Baby, Not Baby](https://open.spotify.com/track/6nabHsqIYAKS6Nnfuqauw9) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Accidentally On Purpose \- The 2nd Mini Album](https://open.spotify.com/album/70RduzYb3gbtmVs88CpAHV) | 3:13 |
 | 20 | [Air](https://open.spotify.com/track/6HSns0qPQQfgekCrBF0Dkf) | [YEJI](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [AIR](https://open.spotify.com/album/6sJnzoRI9pXUo0gZxIviUS) | 3:14 |
 | 21 | [WHEE!](https://open.spotify.com/track/3UCnEKnght7sSlycogaSak) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Interview X](https://open.spotify.com/album/4TmQo5XPRgVleYrisal8n2) | 2:49 |
-| 22 | [EFFORTLESS \(feat\. Jay Park, GroovyRoom\)](https://open.spotify.com/track/6RLTUqLjJBvqfYksqPBxCu) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [GROOVYROOM](https://open.spotify.com/artist/1EZhXPedZ7Fc4grCSJTvIZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SWIRL](https://open.spotify.com/album/23do2zirGkCiF6ZMtVYk3T) | 3:01 |
+| 22 | [EFFORTLESS \(feat\. Jay Park\) \[Prod\. by GroovyRoom\]](https://open.spotify.com/track/6RLTUqLjJBvqfYksqPBxCu) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SWIRL](https://open.spotify.com/album/23do2zirGkCiF6ZMtVYk3T) | 3:00 |
 | 23 | [平原上的火焰 \(電影《平原上的火焰》同名主題曲\)](https://open.spotify.com/track/0ri44o0cevfN00U1JA5TVY) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [平原上的火焰](https://open.spotify.com/album/6X1pxcmtzP3y3fSp7WrZdz) | 5:00 |
 | 24 | [Gementar Rentak Jiwa](https://open.spotify.com/track/5ON7QbOnwLlN7yxw15s4Oo) | [Tuju](https://open.spotify.com/artist/3DpduguWUTtn3NQ1PFr2Kd) | [Gementar Rentak Jiwa](https://open.spotify.com/album/0slKPmHgW0iSaZQdORVBr2) | 2:46 |
 | 25 | [Raya Dulu Baru Kamu](https://open.spotify.com/track/5wYMkuXx7EtMekc17al70Z) | [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV), [Qistina Khaled](https://open.spotify.com/artist/369EV4mKtnrQbrWtaSLKBc) | [Raya Dulu Baru Kamu](https://open.spotify.com/album/0oNcmyNAAcJn7S6wTvmMD7) | 2:18 |

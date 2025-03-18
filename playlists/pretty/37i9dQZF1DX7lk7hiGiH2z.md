@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Endlich Frühling mit allen Songs für längere Tage!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,542 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,551 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 39 | [Nach draußen gehn](https://open.spotify.com/track/2cqVti1MrsPMW010dEY99r) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [herrH ist da! \- Das Album](https://open.spotify.com/album/4CM8QXMOVoPvWLtI1Rhm5h) | 3:13 |
 | 40 | [Singt ein Vogel](https://open.spotify.com/track/6p6i094Q8LZRWebVHvWasC) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Oster\- und Frühlingslieder](https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi) | 1:28 |
 | 41 | [Wenn es Frühling wird im Hasenland](https://open.spotify.com/track/7MPobyJg4jGMalvxGZRXRE) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Hasengeschichte \- Die Lieder](https://open.spotify.com/album/1EtDPG0Uju2blhBqouf9vt) | 2:37 |
-| 42 | [Blüht ein Blümlein](https://open.spotify.com/track/317zFUecVbUcEmca5IK4UW) | [KIDDINX Music](https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8) | [Frühlingslieder \(Omas schönste\)](https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz) | 1:35 |
+| 42 | [Frühling!](https://open.spotify.com/track/0Q7RAfNgc6iLtYHHywpTO1) | [Reinhard Horn](https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI) | [Frühling](https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq) | 2:57 |
 | 43 | [Frühlingslied](https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt) | [Unser Sandmännchen](https://open.spotify.com/artist/02Z9KUEjSTXcsmEB7uhDiJ) | [015/Abends im Walde](https://open.spotify.com/album/4BhFBcF5S9Cjdw8ayDsZQI) | 2:03 |
-| 44 | [Frühling!](https://open.spotify.com/track/0Q7RAfNgc6iLtYHHywpTO1) | [Reinhard Horn](https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI) | [Frühling](https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq) | 2:57 |
-| 45 | [Das Schneeglöckchen](https://open.spotify.com/track/6LfAr70Pm7LzeQhZXCWKFu) | [Katharina Blume](https://open.spotify.com/artist/0TlcU6fYXkRWNSENlFSl4Y), [Christian König](https://open.spotify.com/artist/6Dgp0ZVwXyJx6M0Na3jTLK) | [Die 40 besten Fingerspiel\-Lieder](https://open.spotify.com/album/2VchLiBoh6mOEH6CnEt4Dq) | 1:06 |
-| 46 | [Rumspringen](https://open.spotify.com/track/6vMv8uw1u2T0OvlZsvX8bZ) | [Bernd Begemann](https://open.spotify.com/artist/4OY3MNylZg1nxCpFILirnH), [Belinda](https://open.spotify.com/artist/6tfFPvA0Pw2jbDrhVoNHxY) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 2:29 |
+| 44 | [Blüht ein Blümlein](https://open.spotify.com/track/317zFUecVbUcEmca5IK4UW) | [KIDDINX Music](https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8) | [Frühlingslieder \(Omas schönste\)](https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz) | 1:35 |
+| 45 | [Rumspringen](https://open.spotify.com/track/6vMv8uw1u2T0OvlZsvX8bZ) | [Bernd Begemann](https://open.spotify.com/artist/4OY3MNylZg1nxCpFILirnH), [Belinda](https://open.spotify.com/artist/6tfFPvA0Pw2jbDrhVoNHxY) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 2:29 |
+| 46 | [Das Schneeglöckchen](https://open.spotify.com/track/6LfAr70Pm7LzeQhZXCWKFu) | [Katharina Blume](https://open.spotify.com/artist/0TlcU6fYXkRWNSENlFSl4Y), [Christian König](https://open.spotify.com/artist/6Dgp0ZVwXyJx6M0Na3jTLK) | [Die 40 besten Fingerspiel\-Lieder](https://open.spotify.com/album/2VchLiBoh6mOEH6CnEt4Dq) | 1:06 |
 | 47 | [Bunte Blumen auf der Wiese](https://open.spotify.com/track/2cKgAEfsp3zVyhiLHwQ0p6) | [Detlev Jöcker](https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4) | [Frühlingsspaß und Osterhas](https://open.spotify.com/album/5PTzP0cm11j8aze10r6TdQ) | 2:26 |
 | 48 | [Kunterbunte Jahreszeiten](https://open.spotify.com/track/3f1o3xCeuyP7WDnfOlprgQ) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Kunterbunte Jahreszeiten](https://open.spotify.com/album/5fmCT5pOmaEcdWuAvvnS8a) | 3:10 |
 | 49 | [Dann ist der Frühling da! \(Fröhliches Kinderlied zum Frühling\)](https://open.spotify.com/track/4aaYT4tqQK0FvuvVd1Cky6) | [Sternschnuppe](https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5) | [Frühlingslieder: Schöne Kinderlieder zum Frühling](https://open.spotify.com/album/0Hz27wHnXEiywIidy4YQz5) | 5:36 |

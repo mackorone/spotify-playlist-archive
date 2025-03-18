@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 107249,
+  "num_followers": 107262,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9TDAAAAAAAzRBbu7nT9iWttwTkQMsqS",
+  "snapshot_id": "Z9YUgAAAAAAStc9EXhWh5w7Itld5qn4q",
   "tracks": [
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 220666,
-      "name": "Uncomfortable",
-      "url": "https://open.spotify.com/track/6qKSmXS6AOmSFAnmSxkASx"
+      "duration_ms": 182000,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/1nbK54b5KkCw3CoJxFWxEg"
     },
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/1nbK54b5KkCw3CoJxFWxEg"
+      "duration_ms": 220666,
+      "name": "Uncomfortable",
+      "url": "https://open.spotify.com/track/6qKSmXS6AOmSFAnmSxkASx"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 250881,
-      "name": "Black Vultures",
-      "url": "https://open.spotify.com/track/42rrPJg1u7rX7Rx52taVVn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ReAniMate 3.0: The CoVeRs eP",
         "url": "https://open.spotify.com/album/5WKmPd9CsLopbhYQMM4rxI"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 208240,
       "name": "Heathens",
       "url": "https://open.spotify.com/track/27WReIpBz5x9DPiCoVus4T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 250881,
+      "name": "Black Vultures",
+      "url": "https://open.spotify.com/track/42rrPJg1u7rX7Rx52taVVn"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halestorm (Deluxe)",
-        "url": "https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 198560,
-      "name": "Love / Hate Heartbreak",
-      "url": "https://open.spotify.com/track/10cmYEzChfAzj7dxQzRDvO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ReAniMate 2.0: The CoVeRs eP",
         "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 307160,
       "name": "Shoot to Thrill",
       "url": "https://open.spotify.com/track/2MwCQtdvtZGbW2Iu92FfFv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Halestorm (Deluxe)",
+        "url": "https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 198560,
+      "name": "Love / Hate Heartbreak",
+      "url": "https://open.spotify.com/track/10cmYEzChfAzj7dxQzRDvO"
     },
     {
       "added_at": null,

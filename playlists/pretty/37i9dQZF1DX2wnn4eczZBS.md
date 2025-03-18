@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: Joost & Spinvis
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,997 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,999 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 14 | [Koortsdroom](https://open.spotify.com/track/1Cor9T7xkYxRBdVX3hbaPN) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [Koortsdroom](https://open.spotify.com/album/6CSACtHjdRc1cUXaqHnebL) | 2:36 |
 | 15 | [dichtbij, veraf](https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [kleine auto, grote hot wheel](https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP) | 4:25 |
 | 16 | [Disco Dip](https://open.spotify.com/track/3ozI7vH6AYsSeiGYB53iwr) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Partijtje \(Deluxe\)](https://open.spotify.com/album/5CdmWnzhXsmDOcmEfbXCY0) | 3:05 |
-| 17 | [Zieke Wereld](https://open.spotify.com/track/3uuNvNmN2O2ufgGoMNoLrC) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Zieke Wereld](https://open.spotify.com/album/0Xiq0JmDnC7RM0yaLbFQ5p) | 3:04 |
-| 18 | [Drijfzand](https://open.spotify.com/track/4FQYVoqLzGiMFMKKWu4BNs) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Drijfzand](https://open.spotify.com/album/7ppndnAeYPCnO4YkpjLQeC) | 2:58 |
+| 17 | [Drijfzand](https://open.spotify.com/track/4FQYVoqLzGiMFMKKWu4BNs) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Drijfzand](https://open.spotify.com/album/7ppndnAeYPCnO4YkpjLQeC) | 2:58 |
+| 18 | [Zieke Wereld](https://open.spotify.com/track/3uuNvNmN2O2ufgGoMNoLrC) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Zieke Wereld](https://open.spotify.com/album/0Xiq0JmDnC7RM0yaLbFQ5p) | 3:04 |
 | 19 | [Mijn Haren Ruiken Naar Vuur](https://open.spotify.com/track/4RM0MtCdgCQfypBVBGxX4f) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Mijn Haren Ruiken Naar Vuur](https://open.spotify.com/album/2Ew3FsEM2r6TrGiKeXQUaq) | 2:42 |
 | 20 | [Vlinder](https://open.spotify.com/track/1ylgbB1PBVQPtE9TQvRNH8) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Vlinder](https://open.spotify.com/album/1HdguDX5OZ7JylppPeSQ8f) | 2:49 |
 | 21 | [Als Je Nog Wil](https://open.spotify.com/track/0Ead0P4QxEndPROj1rNrGT) | [Aarde aan Daan](https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf) | [Als Je Nog Wil](https://open.spotify.com/album/7cqBNb3K8Uexr8KfEDyM6d) | 3:23 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 27 | [Wind In De Zeilen](https://open.spotify.com/track/1CuunQxTRe5jL13ikuQ67Y) | [Tienson](https://open.spotify.com/artist/6NuwXIFcHEYmeu6Tf9BGt8) | [Wind In De Zeilen](https://open.spotify.com/album/1Vcc1C8T9ktEhGmmlx8A0D) | 3:35 |
 | 28 | [Lach](https://open.spotify.com/track/05P1nGFVfX5YYXH51nPeeJ) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Lach](https://open.spotify.com/album/1m1Ksb78UTjW9QsOAlDfJI) | 3:06 |
 | 29 | [Privilege](https://open.spotify.com/track/3gwaFleOpagO6aYVfFmw5r) | [Jean Jacques](https://open.spotify.com/artist/3U02wTIYzwf7JA2zD2SDSR) | [Privilege](https://open.spotify.com/album/6gsH7vfaUl3k5nCUzXlKZr) | 1:58 |
-| 30 | [Filmster](https://open.spotify.com/track/33hQTFcIB1w2NTGSXwnvAj) | [dorpsstraat 3](https://open.spotify.com/artist/48XLHMAiLI8SAihFXXeV1A) | [Staal Op Staal](https://open.spotify.com/album/4ATUDakW1IL9zYu3oEG74Q) | 3:55 |
-| 31 | [Zonder Naam](https://open.spotify.com/track/2L9SjKxjHUPiZ4KRNZsbri) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Zonder Naam](https://open.spotify.com/album/5QEFqvIyfTxjiRgPMuKuq5) | 3:01 |
+| 30 | [Zonder Naam](https://open.spotify.com/track/2L9SjKxjHUPiZ4KRNZsbri) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Zonder Naam](https://open.spotify.com/album/5QEFqvIyfTxjiRgPMuKuq5) | 3:01 |
+| 31 | [Filmster](https://open.spotify.com/track/33hQTFcIB1w2NTGSXwnvAj) | [dorpsstraat 3](https://open.spotify.com/artist/48XLHMAiLI8SAihFXXeV1A) | [Staal Op Staal](https://open.spotify.com/album/4ATUDakW1IL9zYu3oEG74Q) | 3:55 |
 | 32 | [Het Outro](https://open.spotify.com/track/6bk3p646tz37ZqL0k3gDfe) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Het Outro](https://open.spotify.com/album/2ERyEdzLAJEyia7NzuHImY) | 3:20 |
 | 33 | [Het Vliegt Voorbij](https://open.spotify.com/track/64RQ9dINfcD3JD14eXkMpM) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Het Vliegt Voorbij](https://open.spotify.com/album/1Zn9pVkbFGIqIWJhIgw4Yl) | 2:43 |
 | 34 | [Opslaan](https://open.spotify.com/track/0TPR59Vp9iwjsX5AUMOUik) | [Hiltje](https://open.spotify.com/artist/7IzRpPjjOsoCkhctY8lAb8) | [Opslaan](https://open.spotify.com/album/7BJOX5oMsdH3g1IVVxEpy1) | 3:09 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 44 | [Ik Weet Het](https://open.spotify.com/track/1urU2l9m5Flg1YpphUPY26) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Ik Weet Het](https://open.spotify.com/album/6i2wKXyedwwZqobblxVfZt) | 4:01 |
 | 45 | [Grote Broer](https://open.spotify.com/track/4csTiBrNaJRGzGNnbKCsO8) | [FULCO](https://open.spotify.com/artist/6KXC42r3VuasqhvMOFKxJt) | [Grote Broer](https://open.spotify.com/album/1Q0RsEiKg0OxHfsIsGUPkc) | 2:33 |
 | 46 | [platland](https://open.spotify.com/track/1j3P5pmvUmNB6YXk7FXxbi) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [platland](https://open.spotify.com/album/6sUOZxIoaSE3fC4jGrTCKC) | 3:26 |
-| 47 | [alsof](https://open.spotify.com/track/7hhWTzZgcam9ZRBhOFNGRe) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [alsof](https://open.spotify.com/album/2nx0CS76TRvuLEmOlQr9zK) | 3:32 |
-| 48 | [i miss u \[brood\]](https://open.spotify.com/track/0IyJWLIhd3yiJMemiJLKPj) | [flens](https://open.spotify.com/artist/6GUmsOojs1m8tTbp7ZsaaD) | [i miss u \[brood\]](https://open.spotify.com/album/7K1uSKM8wyJyYtLmVTSUkp) | 2:19 |
+| 47 | [i miss u \[brood\]](https://open.spotify.com/track/0IyJWLIhd3yiJMemiJLKPj) | [flens](https://open.spotify.com/artist/6GUmsOojs1m8tTbp7ZsaaD) | [i miss u \[brood\]](https://open.spotify.com/album/7K1uSKM8wyJyYtLmVTSUkp) | 2:19 |
+| 48 | [alsof](https://open.spotify.com/track/7hhWTzZgcam9ZRBhOFNGRe) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [alsof](https://open.spotify.com/album/2nx0CS76TRvuLEmOlQr9zK) | 3:32 |
 | 49 | [BOM](https://open.spotify.com/track/0CGEEbLcQQgGaf4W6vKfi6) | [Hang Youth](https://open.spotify.com/artist/33s4eablBmnrPlE3y6CZFR) | [BOM](https://open.spotify.com/album/5PxyxmfnaxniQaGXSvVaym) | 2:06 |
 | 50 | [Stapvoets](https://open.spotify.com/track/5MOYwUWtAMrT2ualbTNxY0) | [Toverjas](https://open.spotify.com/artist/5zMml0lnXLktIwo5TT0cqW) | [Stapvoets](https://open.spotify.com/album/3Gvclg5FnfdjbSYrgRVA80) | 2:58 |
 

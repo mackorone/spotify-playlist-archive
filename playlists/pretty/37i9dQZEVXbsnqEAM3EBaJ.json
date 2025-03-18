@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAesIjTFbElIKGRz1770F2c",
+  "snapshot_id": "AAAAAAAAAADB0ccHWeWCp/RxFj9hBHAV",
   "tracks": [
     {
       "added_at": "2025-03-14 03:00:00",
@@ -39,6 +39,26 @@
       "duration_ms": 238407,
       "name": "T.I.M.E.",
       "url": "https://open.spotify.com/track/6Wxesnvvvh44UMXCBF7wMa"
+    },
+    {
+      "added_at": "2025-03-14 03:00:00",
+      "album": {
+        "name": "Angels For Each Other",
+        "url": "https://open.spotify.com/album/1bOANBDFMPylV75pmNK4l3"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 215076,
+      "name": "Angels For Each Other",
+      "url": "https://open.spotify.com/track/7KPcippmg9MvPzb3dzNpQW"
     },
     {
       "added_at": "2025-03-14 03:00:00",
@@ -107,26 +127,6 @@
     {
       "added_at": "2025-03-14 03:00:00",
       "album": {
-        "name": "Angels For Each Other",
-        "url": "https://open.spotify.com/album/1bOANBDFMPylV75pmNK4l3"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 215076,
-      "name": "Angels For Each Other",
-      "url": "https://open.spotify.com/track/7KPcippmg9MvPzb3dzNpQW"
-    },
-    {
-      "added_at": "2025-03-14 03:00:00",
-      "album": {
         "name": "I Will Not Break",
         "url": "https://open.spotify.com/album/2BhXDbFXnedoT6G30DrpLP"
       },
@@ -139,6 +139,38 @@
       "duration_ms": 292058,
       "name": "I Will Not Break",
       "url": "https://open.spotify.com/track/3TuZPqlHK7P6lhMOJ7qwll"
+    },
+    {
+      "added_at": "2025-03-14 03:00:00",
+      "album": {
+        "name": "The Shadow Elite",
+        "url": "https://open.spotify.com/album/368LvzVtG97TQPF42TAwch"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "duration_ms": 279493,
+      "name": "The Shadow Elite",
+      "url": "https://open.spotify.com/track/1hjiZRmHByToO3dPjFSGUH"
+    },
+    {
+      "added_at": "2025-03-14 03:00:00",
+      "album": {
+        "name": "Antolog\u00eda",
+        "url": "https://open.spotify.com/album/08miYSY2Iw8dWN6zX7KnBH"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "Dime Qui\u00e9n",
+      "url": "https://open.spotify.com/track/7CRodV5Cwy7IyKbP9rYTOx"
     },
     {
       "added_at": "2025-03-14 03:00:00",
@@ -175,38 +207,6 @@
       "duration_ms": 454666,
       "name": "Ein langer Weg",
       "url": "https://open.spotify.com/track/4BjXZXez1sUCXQFidFNwh6"
-    },
-    {
-      "added_at": "2025-03-14 03:00:00",
-      "album": {
-        "name": "The Shadow Elite",
-        "url": "https://open.spotify.com/album/368LvzVtG97TQPF42TAwch"
-      },
-      "artists": [
-        {
-          "name": "Behemoth",
-          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
-        }
-      ],
-      "duration_ms": 279493,
-      "name": "The Shadow Elite",
-      "url": "https://open.spotify.com/track/1hjiZRmHByToO3dPjFSGUH"
-    },
-    {
-      "added_at": "2025-03-14 03:00:00",
-      "album": {
-        "name": "Antolog\u00eda",
-        "url": "https://open.spotify.com/album/08miYSY2Iw8dWN6zX7KnBH"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "Dime Qui\u00e9n",
-      "url": "https://open.spotify.com/track/7CRodV5Cwy7IyKbP9rYTOx"
     },
     {
       "added_at": "2025-03-14 03:00:00",
@@ -343,78 +343,6 @@
     {
       "added_at": "2025-03-14 03:00:00",
       "album": {
-        "name": "D\u00e4monen : Sturm",
-        "url": "https://open.spotify.com/album/0EDdJ19fpXgvzjnGspHYHB"
-      },
-      "artists": [
-        {
-          "name": "Blutengel",
-          "url": "https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR"
-        }
-      ],
-      "duration_ms": 277111,
-      "name": "The right path",
-      "url": "https://open.spotify.com/track/2zF4ysfKulsSOFkhstsYlS"
-    },
-    {
-      "added_at": "2025-03-14 03:00:00",
-      "album": {
-        "name": "Here Be Dragons",
-        "url": "https://open.spotify.com/album/5W3Uw0MWDnca1Ch87V52K7"
-      },
-      "artists": [
-        {
-          "name": "Avantasia",
-          "url": "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
-        },
-        {
-          "name": "Adrienne Cowan",
-          "url": "https://open.spotify.com/artist/2GAs9vOeYJWkniJPBZpd75"
-        }
-      ],
-      "duration_ms": 335626,
-      "name": "Avalon",
-      "url": "https://open.spotify.com/track/75IRjTso82AH1QPnpruZuG"
-    },
-    {
-      "added_at": "2025-03-14 03:00:00",
-      "album": {
-        "name": "P\u00e1nico (VMG)",
-        "url": "https://open.spotify.com/album/6LTWQ01avRapIfYca9gWal"
-      },
-      "artists": [
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        },
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 292634,
-      "name": "El Viejo Comunista (VMG)",
-      "url": "https://open.spotify.com/track/5KoBBIXjlNhYeBLisjmu0r"
-    },
-    {
-      "added_at": "2025-03-14 03:00:00",
-      "album": {
-        "name": "Cuerpos En La Ciudad",
-        "url": "https://open.spotify.com/album/3fjF6iUBB0YKRmnY3BMgn8"
-      },
-      "artists": [
-        {
-          "name": "The Covers Duo",
-          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
-        }
-      ],
-      "duration_ms": 140984,
-      "name": "Cuerpos En La Ciudad",
-      "url": "https://open.spotify.com/track/7MUmLECrYpijk17RnxPQuB"
-    },
-    {
-      "added_at": "2025-03-14 03:00:00",
-      "album": {
         "name": "Keep The Faith",
         "url": "https://open.spotify.com/album/1ZtpnvC9pYqIZoXFKbVtnV"
       },
@@ -435,50 +363,22 @@
     {
       "added_at": "2025-03-14 03:00:00",
       "album": {
-        "name": "The Warner Recordings (1985-1994) [2025 Remaster]",
-        "url": "https://open.spotify.com/album/6MSNtv4VP7CS8nh8Xu32v7"
+        "name": "Here Be Dragons",
+        "url": "https://open.spotify.com/album/5W3Uw0MWDnca1Ch87V52K7"
       },
       "artists": [
         {
-          "name": "David Lee Roth",
-          "url": "https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3"
-        }
-      ],
-      "duration_ms": 253003,
-      "name": "You're Breathin' It (Urban NYC Mix) - 2025 Remaster",
-      "url": "https://open.spotify.com/track/7h4io0fUvBR7YM1gHyhb2V"
-    },
-    {
-      "added_at": "2025-03-14 03:00:00",
-      "album": {
-        "name": "Antibloom",
-        "url": "https://open.spotify.com/album/7BNQ4V36nmrd3m8ckYmFSk"
-      },
-      "artists": [
+          "name": "Avantasia",
+          "url": "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
+        },
         {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+          "name": "Adrienne Cowan",
+          "url": "https://open.spotify.com/artist/2GAs9vOeYJWkniJPBZpd75"
         }
       ],
-      "duration_ms": 178560,
-      "name": "Stress",
-      "url": "https://open.spotify.com/track/1k7MFmBvpUJd0YZjwqQWM9"
-    },
-    {
-      "added_at": "2025-03-14 03:00:00",
-      "album": {
-        "name": "I Believe (Alternate Edit)",
-        "url": "https://open.spotify.com/album/1KNS3sHZ6es6nrpA6nF4dv"
-      },
-      "artists": [
-        {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
-        }
-      ],
-      "duration_ms": 205393,
-      "name": "I Believe (Alternate Edit)",
-      "url": "https://open.spotify.com/track/3lLXCf8wmwk3qIHGLEzUDI"
+      "duration_ms": 335626,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/75IRjTso82AH1QPnpruZuG"
     },
     {
       "added_at": "2025-03-14 03:00:00",
@@ -507,18 +407,86 @@
     {
       "added_at": "2025-03-14 03:00:00",
       "album": {
-        "name": "Curious Ruminant",
-        "url": "https://open.spotify.com/album/1m5tTXkBOzJEiwDz1TyPIG"
+        "name": "Cuerpos En La Ciudad",
+        "url": "https://open.spotify.com/album/3fjF6iUBB0YKRmnY3BMgn8"
       },
       "artists": [
         {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
         }
       ],
-      "duration_ms": 355680,
-      "name": "Over Jerusalem",
-      "url": "https://open.spotify.com/track/3PcSN0Crczqq6WHCGlUyiq"
+      "duration_ms": 140984,
+      "name": "Cuerpos En La Ciudad",
+      "url": "https://open.spotify.com/track/7MUmLECrYpijk17RnxPQuB"
+    },
+    {
+      "added_at": "2025-03-14 03:00:00",
+      "album": {
+        "name": "I Believe (Alternate Edit)",
+        "url": "https://open.spotify.com/album/1KNS3sHZ6es6nrpA6nF4dv"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "duration_ms": 205393,
+      "name": "I Believe (Alternate Edit)",
+      "url": "https://open.spotify.com/track/3lLXCf8wmwk3qIHGLEzUDI"
+    },
+    {
+      "added_at": "2025-03-14 03:00:00",
+      "album": {
+        "name": "Antibloom",
+        "url": "https://open.spotify.com/album/7BNQ4V36nmrd3m8ckYmFSk"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "Stress",
+      "url": "https://open.spotify.com/track/1k7MFmBvpUJd0YZjwqQWM9"
+    },
+    {
+      "added_at": "2025-03-14 03:00:00",
+      "album": {
+        "name": "P\u00e1nico (VMG)",
+        "url": "https://open.spotify.com/album/6LTWQ01avRapIfYca9gWal"
+      },
+      "artists": [
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 292634,
+      "name": "El Viejo Comunista (VMG)",
+      "url": "https://open.spotify.com/track/5KoBBIXjlNhYeBLisjmu0r"
+    },
+    {
+      "added_at": "2025-03-14 03:00:00",
+      "album": {
+        "name": "D\u00e4monen : Sturm",
+        "url": "https://open.spotify.com/album/0EDdJ19fpXgvzjnGspHYHB"
+      },
+      "artists": [
+        {
+          "name": "Blutengel",
+          "url": "https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR"
+        }
+      ],
+      "duration_ms": 277111,
+      "name": "The right path",
+      "url": "https://open.spotify.com/track/2zF4ysfKulsSOFkhstsYlS"
     },
     {
       "added_at": "2025-03-14 03:00:00",
@@ -535,6 +503,38 @@
       "duration_ms": 218800,
       "name": "Make Up Your Mind",
       "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
+    },
+    {
+      "added_at": "2025-03-14 03:00:00",
+      "album": {
+        "name": "The Warner Recordings (1985-1994) [2025 Remaster]",
+        "url": "https://open.spotify.com/album/6MSNtv4VP7CS8nh8Xu32v7"
+      },
+      "artists": [
+        {
+          "name": "David Lee Roth",
+          "url": "https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3"
+        }
+      ],
+      "duration_ms": 253003,
+      "name": "You're Breathin' It (Urban NYC Mix) - 2025 Remaster",
+      "url": "https://open.spotify.com/track/7h4io0fUvBR7YM1gHyhb2V"
+    },
+    {
+      "added_at": "2025-03-14 03:00:00",
+      "album": {
+        "name": "Curious Ruminant",
+        "url": "https://open.spotify.com/album/1m5tTXkBOzJEiwDz1TyPIG"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "duration_ms": 355680,
+      "name": "Over Jerusalem",
+      "url": "https://open.spotify.com/track/3PcSN0Crczqq6WHCGlUyiq"
     },
     {
       "added_at": "2025-03-14 03:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-03-14 03:00:00",
       "album": {
+        "name": "Oceanside Countryside",
+        "url": "https://open.spotify.com/album/40ChvqM7J5wXo5SgducJwt"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "duration_ms": 152998,
+      "name": "Dance Dance Dance",
+      "url": "https://open.spotify.com/track/7aoThRoN8Rj3Y7N9p0hNsN"
+    },
+    {
+      "added_at": "2025-03-14 03:00:00",
+      "album": {
         "name": "Me Sobran las Ganas (Cuando Te Vas)",
         "url": "https://open.spotify.com/album/2YvrMCoIpDsOW6Cz7UD5qj"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 182293,
       "name": "Me Sobran las Ganas (Cuando Te Vas)",
       "url": "https://open.spotify.com/track/18SrWIyth3DmyLgDiZfR6a"
-    },
-    {
-      "added_at": "2025-03-14 03:00:00",
-      "album": {
-        "name": "Oceanside Countryside",
-        "url": "https://open.spotify.com/album/40ChvqM7J5wXo5SgducJwt"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        }
-      ],
-      "duration_ms": 152998,
-      "name": "Dance Dance Dance",
-      "url": "https://open.spotify.com/track/7aoThRoN8Rj3Y7N9p0hNsN"
     },
     {
       "added_at": "2025-03-14 03:00:00",
@@ -651,26 +651,6 @@
     {
       "added_at": "2025-03-14 03:00:00",
       "album": {
-        "name": "QUEENS OF GROOVE",
-        "url": "https://open.spotify.com/album/3Z9hzZwfZ0qy7S3Fxwlsrj"
-      },
-      "artists": [
-        {
-          "name": "Santa Salut",
-          "url": "https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH"
-        },
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "\u00bfCu\u00e1nto Falta?",
-      "url": "https://open.spotify.com/track/1UX5D199zPs7NsuojVNequ"
-    },
-    {
-      "added_at": "2025-03-14 03:00:00",
-      "album": {
         "name": "Let\u2019s Stay Together (Alternative Radio Mix, 1983)",
         "url": "https://open.spotify.com/album/7sBqVyoUD6me10VdO0bNL3"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 230146,
       "name": "Let's Stay Together - Alternative Radio Mix, 1983",
       "url": "https://open.spotify.com/track/37gLEFVAkPi68XoZhwldgY"
+    },
+    {
+      "added_at": "2025-03-14 03:00:00",
+      "album": {
+        "name": "QUEENS OF GROOVE",
+        "url": "https://open.spotify.com/album/3Z9hzZwfZ0qy7S3Fxwlsrj"
+      },
+      "artists": [
+        {
+          "name": "Santa Salut",
+          "url": "https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "\u00bfCu\u00e1nto Falta?",
+      "url": "https://open.spotify.com/track/1UX5D199zPs7NsuojVNequ"
     },
     {
       "added_at": "2025-03-14 03:00:00",

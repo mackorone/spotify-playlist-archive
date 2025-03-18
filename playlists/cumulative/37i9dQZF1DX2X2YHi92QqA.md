@@ -2,9 +2,9 @@
 
 ### [Весняний релакс](https://open.spotify.com/playlist/37i9dQZF1DX2X2YHi92QqA)
 
-> Вдих, видих 🧘🏼‍♀️🌸
+> Музика, щоб насолодитися першими теплими промінчиками ☀️
 
-179 songs - 9 hr 31 min
+183 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Somebody Else](https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Somebody Else](https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o) | 3:23 | 2024-09-01 |  |
 | [Spinnin'](https://open.spotify.com/track/2xWPDIps7ger8WRUE84bg9) | [Garden City Movement](https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa), [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [Spinnin'](https://open.spotify.com/album/4CRfnrDgWkCNq4jO08YzQt) | 3:17 | 2024-07-12 | 2024-07-27 |
 | [Stardust](https://open.spotify.com/track/4266h07udCdZ83jswW10IG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [ROOM UNDER THE STAIRS](https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0) | 3:52 | 2024-06-14 | 2024-09-02 |
+| [Stomach Butterflies](https://open.spotify.com/track/3ODfNdDz9b9VmABFncYmPG) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Stomach Butterflies](https://open.spotify.com/album/3yP0f4ywFTS8Y2SJAtmIvv) | 2:51 | 2025-03-17 |  |
 | [Sunflower](https://open.spotify.com/track/2MKUKzxL3U4bZ12QYhRS4i) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Sunflower](https://open.spotify.com/album/03g79cWftoGqwO48vn9wOn) | 3:23 | 2024-06-14 | 2024-08-02 |
 | [Sweetest Heart](https://open.spotify.com/track/66hVnkXp2fedj5uDXArbfl) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Sweetest Heart](https://open.spotify.com/album/3Kqj4em7mdF3fXF5CGe8xL) | 3:16 | 2025-02-28 |  |
 | [swim](https://open.spotify.com/track/3z0wu0aE5CGRKyklWuBV6H) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [swim](https://open.spotify.com/album/6ac199VGYaOpv21gYAd3Ya) | 4:42 | 2025-02-28 |  |
@@ -69,7 +70,7 @@
 | [Бути простим](https://open.spotify.com/track/7sd4YTOKjvwHOXnWQw5CDb) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Бути простим](https://open.spotify.com/album/1Fy0CYAFIRLbwsoejhHU4S) | 2:31 | 2024-06-14 |  |
 | [більше ніж здається](https://open.spotify.com/track/2HllpojdmP0If39UA6BACR) | [typeled](https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq) | [більше ніж здається](https://open.spotify.com/album/2KTMSSHuMJyKXaWoaOYuDH) | 2:40 | 2024-07-12 | 2024-10-08 |
 | [Біля серця](https://open.spotify.com/track/20SSuP71R4A88qHQu4BKY6) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Біля серця](https://open.spotify.com/album/5QKwlUsyDw4fJ4c3zTPZPY) | 2:16 | 2024-11-30 |  |
-| [вальс під вибухи](https://open.spotify.com/track/6ZvDRsoF2zharptwEoZZVM) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [вальс під вибухи](https://open.spotify.com/album/2uxoj7vfms9GUFolkl3FFw) | 3:30 | 2024-06-14 |  |
+| [вальс під вибухи](https://open.spotify.com/track/6ZvDRsoF2zharptwEoZZVM) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [вальс під вибухи](https://open.spotify.com/album/2uxoj7vfms9GUFolkl3FFw) | 3:30 | 2024-06-14 | 2025-03-18 |
 | [Вартові Галактики](https://open.spotify.com/track/2pDBnweQiJKvnfFVcS5sRY) | [Krechet](https://open.spotify.com/artist/4hn6wAjApsXShY05vN6IRR) | [Вартові Галактики](https://open.spotify.com/album/4cvZMWkTdV3pnNDcUZYn4e) | 2:06 | 2024-09-01 | 2024-10-08 |
 | [Вибач](https://open.spotify.com/track/2vh6McN6DvD764I7tibUNP) | [Я Тоня](https://open.spotify.com/artist/5XTKx5IOWJHQcAll31CY5a), [ZAKHAR BO](https://open.spotify.com/artist/1Nnqp96D17UJ3CgRGIJwl4) | [Вибач](https://open.spotify.com/album/7hOiPRX9mYcMnL3K4CYwlS) | 3:37 | 2025-02-28 |  |
 | [Воля \- full version](https://open.spotify.com/track/3YdeXVe2cwGjHOCsgDPXsb) | [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Воля \(full version\)](https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf) | 2:44 | 2024-06-14 |  |
@@ -123,8 +124,9 @@
 | [Моя утома](https://open.spotify.com/track/1SIkdGNpPPBwNtZqVAq4RO) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0) | [Моя утома](https://open.spotify.com/album/4sP1lkLKPxozycub24LV3V) | 3:02 | 2024-06-14 | 2024-09-02 |
 | [Мої гори](https://open.spotify.com/track/1xSZU917Nak0KAlHPOTgwt) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Мої гори](https://open.spotify.com/album/5Zmrb5grx6WfEvCwBaH7ex) | 3:23 | 2024-06-14 | 2024-09-02 |
 | [Місто](https://open.spotify.com/track/7bF2K3W2oBO7WHlWHwDJ7h) | [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [Місто](https://open.spotify.com/album/2WYvnOaNKWahvHvgYqgDbl) | 2:18 | 2024-07-12 |  |
-| [Навесні](https://open.spotify.com/track/0WXJRCeH5CRbFUAq7pyvqM) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [Навесні](https://open.spotify.com/album/7CWR6kNbMJ9hZpO0Dh1bcC) | 2:39 | 2024-06-14 |  |
-| [Надія є](https://open.spotify.com/track/3rpw8RiimS9cakLpQIUy5f) | [Mad Heads](https://open.spotify.com/artist/2q3fzwgqdfcrJNIdy7hpXY) | [Надія є](https://open.spotify.com/album/6nM5bSJO1gSx5efyQfBURb) | 4:37 | 2024-06-14 |  |
+| [на репіті](https://open.spotify.com/track/0bG51wdiS7RIFVjdEGqapY) | [Гурт Дно](https://open.spotify.com/artist/4t9utcHzJznAOIInsK0SQg), [renie cares](https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB), [Yevhenii Dubovyk](https://open.spotify.com/artist/3OfJlVTGldxJXYiZaL5Kdn) | [на репіті](https://open.spotify.com/album/02zVnntNRecaDUBNl5b9t3) | 2:17 | 2025-03-17 |  |
+| [Навесні](https://open.spotify.com/track/0WXJRCeH5CRbFUAq7pyvqM) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [Навесні](https://open.spotify.com/album/7CWR6kNbMJ9hZpO0Dh1bcC) | 2:39 | 2024-06-14 | 2025-03-18 |
+| [Надія є](https://open.spotify.com/track/3rpw8RiimS9cakLpQIUy5f) | [Mad Heads](https://open.spotify.com/artist/2q3fzwgqdfcrJNIdy7hpXY) | [Надія є](https://open.spotify.com/album/6nM5bSJO1gSx5efyQfBURb) | 4:37 | 2024-06-14 | 2025-03-18 |
 | [Не засну](https://open.spotify.com/track/6ak3VHnrq0angPugVN08ER) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ) | [Не засну](https://open.spotify.com/album/6OSWN0osXRuxeOzsrjBmxR) | 2:27 | 2024-09-01 | 2025-02-17 |
 | [Не знаєш](https://open.spotify.com/track/3reJdN9u8tZK59kG8WYwYt) | [YARIMA](https://open.spotify.com/artist/1nZ0jfkEdCujq7nFxlk9Uc) | [Не знаєш](https://open.spotify.com/album/6wqVClS3xP3ibboUR1Q9ag) | 2:32 | 2024-09-01 | 2024-10-18 |
 | [Неймовірно тонка](https://open.spotify.com/track/0AA74JKFRsdzHhn3lggX4p) | [INGRET](https://open.spotify.com/artist/43Gc9czfpJK1ijNMPOCtYy) | [Неймовірно тонка](https://open.spotify.com/album/6my1K6UekghuCoude69cg7) | 3:09 | 2024-07-12 | 2024-09-20 |
@@ -137,7 +139,7 @@
 | [Обіймай](https://open.spotify.com/track/6mw9bYCoKnRfNt7erbOBpr) | [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe), [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Коли квітне папороть](https://open.spotify.com/album/4Sue4Nkc79cFi44txiLEL6) | 3:22 | 2024-06-14 | 2024-07-13 |
 | [Обійми](https://open.spotify.com/track/4KZEv7obFLk0guL6mHnmnU) | [ba.latskii](https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz) | [Обійми](https://open.spotify.com/album/1pgUS7VLQ7tE9bz2kb5EJE) | 3:27 | 2024-09-01 | 2024-10-08 |
 | [Особистий рай](https://open.spotify.com/track/75LJxqoSy5MSM2xCFzQp8F) | [Геля Зозуля](https://open.spotify.com/artist/5NR8eODM4CQ2X6rBuGpZ2B), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Особистий рай](https://open.spotify.com/album/1O8gbNfK8cIQ0DT0RK9KzY) | 3:05 | 2024-09-01 |  |
-| [Останні дні літа](https://open.spotify.com/track/031XeWxYnh6nAeXRPOtilL) | [Spiv Brativ](https://open.spotify.com/artist/1R7CiJX2ZHVowGfQ3GZW6b) | [Останні дні літа](https://open.spotify.com/album/1AnEqWNGG6zADfC3VEUmam) | 3:30 | 2024-09-01 |  |
+| [Останні дні літа](https://open.spotify.com/track/031XeWxYnh6nAeXRPOtilL) | [Spiv Brativ](https://open.spotify.com/artist/1R7CiJX2ZHVowGfQ3GZW6b) | [Останні дні літа](https://open.spotify.com/album/1AnEqWNGG6zADfC3VEUmam) | 3:30 | 2024-09-01 | 2025-03-18 |
 | [Останній день](https://open.spotify.com/track/3LgqAmRSuS9zJ6609vG76K) | [POPIL](https://open.spotify.com/artist/24aU0N7zrhEXFJkl48F1he), [typeled](https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq) | [Останній день](https://open.spotify.com/album/0y9C9wKg9kCAZoxKZZ5Zhd) | 4:50 | 2024-10-07 | 2024-12-14 |
 | [Останній день літа](https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [Останній день літа](https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8) | 3:18 | 2024-09-01 |  |
 | [Осінь](https://open.spotify.com/track/1E5EqKZKqG8H7J8sawXmt5) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q) | [Осінь](https://open.spotify.com/album/4nZKzOG7XO24r5spCqXAvQ) | 2:38 | 2024-09-01 | 2024-12-01 |
@@ -160,11 +162,13 @@
 | [СНІГ](https://open.spotify.com/track/7jsPtPItlDphgbk6eo7VUn) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [СНІГ](https://open.spotify.com/album/1fz1Cjx3zu6ehoF1Y8NNjs) | 3:26 | 2024-12-20 | 2025-03-01 |
 | [Сніг](https://open.spotify.com/track/0XKdC9BEMZyzPodYOyrhfH) | [Valeriia Vovk](https://open.spotify.com/artist/2JujXZh274ctLCsqh0E6l8) | [Сніг](https://open.spotify.com/album/22aNgAsBDS5I1TTL1gXwCH) | 3:18 | 2025-01-20 | 2025-02-25 |
 | [Солов'ї](https://open.spotify.com/track/2LFs6apdfs1cIkrVscZpca) | [Oxana Trach](https://open.spotify.com/artist/1VqqAM2W8jfZSq8hKU7Kww) | [Солов'ї](https://open.spotify.com/album/1RltwzS3oGphyquYRIReC4) | 2:23 | 2024-06-14 | 2024-08-07 |
+| [Сонце](https://open.spotify.com/track/1OJ7eFvEXgLhrH6ggW1Ot3) | [Valeriia Vovk](https://open.spotify.com/artist/2JujXZh274ctLCsqh0E6l8) | [Сонце](https://open.spotify.com/album/5GFMST9V0e6VZzUXa2FbCw) | 4:23 | 2025-03-17 |  |
 | [Сонячна](https://open.spotify.com/track/5DyqWpCHHVfB6BO3Uucdxg) | [Сальто Назад](https://open.spotify.com/artist/51y4QBUQpFncG7cY6HMsIW) | [Діти](https://open.spotify.com/album/7i9VX5UVn6oRKLCowh3rlZ) | 3:58 | 2024-06-14 |  |
 | [Сосни](https://open.spotify.com/track/5KiGsTkfN86b6oEyzLJ0uS) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS) | [Янанебібув](https://open.spotify.com/album/6G88Fi3Xa2MGwUTjuS23oh) | 4:31 | 2024-09-01 | 2024-12-01 |
 | [Станемо тишею](https://open.spotify.com/track/2FnTCTmdUdOt3PlWDThCQs) | [Kadnay](https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ) | [Станемо тишею](https://open.spotify.com/album/3EajDdMOQJCs2j2m6fKIPG) | 3:09 | 2024-09-01 | 2024-12-07 |
 | [Сюди](https://open.spotify.com/track/7b6HdH29D0TaaFAW2R3uCO) | [MAYOROVA](https://open.spotify.com/artist/3C25DyRTXI62MvfFYBMP7Y) | [Сюди](https://open.spotify.com/album/6dXZrSmosfiKJbyaiscUEP) | 3:00 | 2024-09-01 | 2025-02-25 |
 | [Так люблять лиш раз](https://open.spotify.com/track/2rwEbC0qA6VYrADOuiSh7N) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Так люблять лиш раз](https://open.spotify.com/album/6om0I6dHkp1ZtVDRAPpeF8) | 3:43 | 2024-11-30 | 2025-02-25 |
+| [Так некрасиво](https://open.spotify.com/track/0ACo8fQlRJ4ENG7RXcyScr) | [Марія Ткачук](https://open.spotify.com/artist/76uEuRv3y0M5HUTcSpNidW) | [Так некрасиво](https://open.spotify.com/album/1QzZuzZ7GFuOGP3PV3vVGX) | 2:54 | 2025-03-17 |  |
 | [Так треба](https://open.spotify.com/track/2GVVd6OCJRvirUCQXeZX2M) | [Melancholydi](https://open.spotify.com/artist/01gFGpB3Lew9liOqNthKBe) | [Так треба](https://open.spotify.com/album/497fn0Zo4R5Sz8PKN5FWwe) | 3:23 | 2025-02-24 | 2025-03-01 |
 | [Такі різні](https://open.spotify.com/track/3oYbQrdYm5MztmS3R5xPmO) | [NICHKA](https://open.spotify.com/artist/4wePP7WrVuqGPqkXe2P3mJ) | [Такі різні](https://open.spotify.com/album/6Dtic6mqZLUhKDelOgMMXk) | 3:18 | 2024-06-14 | 2024-08-04 |
 | [Твоє ім'я](https://open.spotify.com/track/5d0gbfAxeKEjNshNukJB84) | [Grohotsky](https://open.spotify.com/artist/42GlDtFvb6lgqHj7oc4SSi) | [Твоє ім'я](https://open.spotify.com/album/1sN2Ef13yhv6aGwgmXbXrU) | 4:15 | 2025-02-24 | 2025-03-01 |

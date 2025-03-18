@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 27138,
+  "num_followers": 27152,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9TDAAAAAABDWD6HhDauwEa157Knk0F+",
+  "snapshot_id": "Z9YUgAAAAAACmJyBFiQfxElI4D4OLbti",
   "tracks": [
     {
       "added_at": null,
@@ -751,30 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Nuevo Dia",
-        "url": "https://open.spotify.com/album/6w3v2OwRiIPlygawEW9rXM"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        },
-        {
-          "name": "Los Del Cristo",
-          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
-        },
-        {
-          "name": "Fernando llanos",
-          "url": "https://open.spotify.com/artist/0R1I0zOAHYjQ7Hue05j6Ht"
-        }
-      ],
-      "duration_ms": 195995,
-      "name": "Un Nuevo Dia",
-      "url": "https://open.spotify.com/track/7pvsKR96tWwAamXiLGvFCW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PARY",
         "url": "https://open.spotify.com/album/2A2nUmF7VufHsPY6uEiCLh"
       },
@@ -795,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos y Sentimientos",
+        "url": "https://open.spotify.com/album/6rcVo1GNdKxs6JDwHth5QH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 144057,
+      "name": "Vida Mafioso",
+      "url": "https://open.spotify.com/track/60qjW0ecl3vFlklpH6PLPG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EXCENTRICON",
         "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
       },
@@ -811,18 +803,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos y Sentimientos",
-        "url": "https://open.spotify.com/album/6rcVo1GNdKxs6JDwHth5QH"
+        "name": "Un Nuevo Dia",
+        "url": "https://open.spotify.com/album/6w3v2OwRiIPlygawEW9rXM"
       },
       "artists": [
         {
           "name": "Los Gemelos De Sinaloa",
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Los Del Cristo",
+          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
+        },
+        {
+          "name": "Fernando llanos",
+          "url": "https://open.spotify.com/artist/0R1I0zOAHYjQ7Hue05j6Ht"
         }
       ],
-      "duration_ms": 144057,
-      "name": "Vida Mafioso",
-      "url": "https://open.spotify.com/track/60qjW0ecl3vFlklpH6PLPG"
+      "duration_ms": 195995,
+      "name": "Un Nuevo Dia",
+      "url": "https://open.spotify.com/track/7pvsKR96tWwAamXiLGvFCW"
     },
     {
       "added_at": null,

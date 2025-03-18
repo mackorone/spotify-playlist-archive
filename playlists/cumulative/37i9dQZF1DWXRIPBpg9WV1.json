@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/2OhkPafzvJpI5mnssJopSE"
+      },
+      "artists": [
+        {
+          "name": "Ned Regan",
+          "url": "https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173320,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/0D9nsRK6vBGT4VftiZekQ5"
+    },
+    {
+      "album": {
         "name": "Best Part",
         "url": "https://open.spotify.com/album/7FjQaXOdJ43fn5I1UJDRwB"
       },
@@ -938,6 +956,24 @@
       "duration_ms": 168332,
       "name": "Demons",
       "url": "https://open.spotify.com/track/4kUStH2WW43Ly9wXHOry5v"
+    },
+    {
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/3UzVUS8ypAuHFjMrzrFHCJ"
+      },
+      "artists": [
+        {
+          "name": "Mateo Varela",
+          "url": "https://open.spotify.com/artist/69xxT258WnlYNSEt01Dh5w"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165624,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/6gFp6Ej6cEozSSfL9nmoBh"
     },
     {
       "album": {
@@ -1733,6 +1769,24 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6E7fFRTgcnn0LDylXFmxZd"
+      },
+      "artists": [
+        {
+          "name": "Velvet Pines",
+          "url": "https://open.spotify.com/artist/2LD1CbmqGxPI5l13pMDITB"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164750,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3I9O3RcYR18jIo0q7t82an"
+    },
+    {
+      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/07XgGTzEYfa2YMAOZ6tU5a"
       },
@@ -2018,6 +2072,24 @@
       "duration_ms": 256825,
       "name": "I Just Called To Say I Love You",
       "url": "https://open.spotify.com/track/6dUP73tiRW1NyyFAbVqLkM"
+    },
+    {
+      "album": {
+        "name": "I love you, I'm sorry",
+        "url": "https://open.spotify.com/album/35aDCfbOCuJU1tDhjv2vwp"
+      },
+      "artists": [
+        {
+          "name": "Jonka Tribute",
+          "url": "https://open.spotify.com/artist/3RBASZuevPXGYdPtyltxT9"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153877,
+      "name": "I love you, I'm sorry",
+      "url": "https://open.spotify.com/track/1fI1V8UNvkYRoQjQ5NwwPS"
     },
     {
       "album": {
@@ -2597,6 +2669,24 @@
     },
     {
       "album": {
+        "name": "Locked out of Heaven",
+        "url": "https://open.spotify.com/album/1RAcIv2tp2b0ecgXgjV0bW"
+      },
+      "artists": [
+        {
+          "name": "The Poet",
+          "url": "https://open.spotify.com/artist/37LEXAV1tfykNBoe1FgSPy"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189552,
+      "name": "Locked out of Heaven",
+      "url": "https://open.spotify.com/track/7M83IRqkPhYzv9GfvqgQpo"
+    },
+    {
+      "album": {
         "name": "Losing My Religion",
         "url": "https://open.spotify.com/album/1l6yEEy9rRZSpbCdo2EW63"
       },
@@ -2972,6 +3062,24 @@
       "duration_ms": 206000,
       "name": "Perfect - Acoustic Guitar",
       "url": "https://open.spotify.com/track/4PiaKCDfrFPih8JJW0nyfP"
+    },
+    {
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/1zbtBWLfA81iWb0MXPxpr2"
+      },
+      "artists": [
+        {
+          "name": "Samuel Kahn",
+          "url": "https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221437,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/6II4SCUodkwcSV6A63Ue1D"
     },
     {
       "album": {
@@ -3886,7 +3994,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 184773,
       "name": "The Joker and The Queen - Instrumental",
       "url": "https://open.spotify.com/track/48HuyDX4mzi3VjkAYzgYLJ"

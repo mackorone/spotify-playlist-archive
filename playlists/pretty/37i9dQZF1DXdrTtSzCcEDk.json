@@ -1,15 +1,63 @@
 {
   "description": "Listen to the soundtracks of Buried Hearts. (\ubcf4\ubb3c\uc12c\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) You can also listen to songs selected by the cast. (\ucd9c\uc5f0\uc9c4\ub4e4\uc774 \uc9c1\uc811 \uc120\uc815\ud55c \ucd94\ucc9c\uace1\ub4e4\ub3c4 \ub4e4\uc5b4\ubcf4\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.)",
-  "num_followers": 379,
+  "num_followers": 383,
   "original_name": "\ubcf4\ubb3c\uc12c (Buried Hearts)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8j5UAAAAAAKMPCTQcLPDn3BE1dw4Koa",
+  "snapshot_id": "Z9jNIQAAAAC0QPvgPlGipiTyN7hOyRU0",
   "tracks": [
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
+      "album": {
+        "name": "Buried Hearts (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/4jmtdgwQ5KF7T4ctahZ9c3"
+      },
+      "artists": [
+        {
+          "name": "Seol Hoseung (SURL)",
+          "url": "https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4"
+        }
+      ],
+      "duration_ms": 229440,
+      "name": "Break Through",
+      "url": "https://open.spotify.com/track/4tn0pD2FqGzRk7aYlGYo3Q"
+    },
+    {
+      "added_at": "2025-03-18 01:32:17",
+      "album": {
+        "name": "Buried Hearts (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/4jmtdgwQ5KF7T4ctahZ9c3"
+      },
+      "artists": [
+        {
+          "name": "Seol Hoseung (SURL)",
+          "url": "https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4"
+        }
+      ],
+      "duration_ms": 256160,
+      "name": "Break Through - Orchestra Version",
+      "url": "https://open.spotify.com/track/6DHYmbWoZ6fBJStg2IRXij"
+    },
+    {
+      "added_at": "2025-03-18 01:32:17",
+      "album": {
+        "name": "Buried Hearts (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/0bnmX48jdvWM1DI84cEvdC"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel"
+        }
+      ],
+      "duration_ms": 199493,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/7LlCMXer4UnovDGdFKhHQh"
+    },
+    {
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "Buried Hearts (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/7BjmsMYl74bHxiPyq9UFZ5"
@@ -25,7 +73,7 @@
       "url": "https://open.spotify.com/track/2Ra0CiV9BzLmIbxpbFHSLC"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "Buried Hearts (Original Television Soundtrack) Pt. 2",
         "url": "https://open.spotify.com/album/4fAXwYv6x7K1r8B4bVod3l"
@@ -41,7 +89,55 @@
       "url": "https://open.spotify.com/track/4EamzBjJGIZKearknNq3hy"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
+      "album": {
+        "name": "Buried Hearts (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/4jmtdgwQ5KF7T4ctahZ9c3"
+      },
+      "artists": [
+        {
+          "name": "Seol Hoseung (SURL)",
+          "url": "https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4"
+        }
+      ],
+      "duration_ms": 256160,
+      "name": "Break Through - Orchestra Version Instrumental",
+      "url": "https://open.spotify.com/track/1GnoYAe2J56T7gy6s6NEgC"
+    },
+    {
+      "added_at": "2025-03-18 01:32:17",
+      "album": {
+        "name": "Buried Hearts (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/4jmtdgwQ5KF7T4ctahZ9c3"
+      },
+      "artists": [
+        {
+          "name": "Seol Hoseung (SURL)",
+          "url": "https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4"
+        }
+      ],
+      "duration_ms": 229440,
+      "name": "Break Through - Instrumental",
+      "url": "https://open.spotify.com/track/1hwA08Pi1JnsDMovKant06"
+    },
+    {
+      "added_at": "2025-03-18 01:32:17",
+      "album": {
+        "name": "Buried Hearts (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/0bnmX48jdvWM1DI84cEvdC"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel"
+        }
+      ],
+      "duration_ms": 199493,
+      "name": "Stand By Me - Instrumental",
+      "url": "https://open.spotify.com/track/2MkQD4Y9XLF0NkzHDszA1n"
+    },
+    {
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "Buried Hearts (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/7BjmsMYl74bHxiPyq9UFZ5"
@@ -57,7 +153,7 @@
       "url": "https://open.spotify.com/track/6zxtrcFiwaRx6N945xUD6A"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "Buried Hearts (Original Television Soundtrack) Pt. 2",
         "url": "https://open.spotify.com/album/4fAXwYv6x7K1r8B4bVod3l"
@@ -73,7 +169,7 @@
       "url": "https://open.spotify.com/track/1XHW83PfcmB4UgXF79UMCa"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "Buried Hearts Audio Liners",
         "url": "https://open.spotify.com/album/4Hd0zQ6HI3ZtRxj8TdbqHl"
@@ -89,7 +185,7 @@
       "url": "https://open.spotify.com/track/326rv8D7yDLuQ8mhD9MFbt"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "We Are",
         "url": "https://open.spotify.com/album/67d43ZuedVWtZMc4nOm90J"
@@ -113,7 +209,7 @@
       "url": "https://open.spotify.com/track/2SMq0lOqCTHayWa9juoI0d"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "LADY",
         "url": "https://open.spotify.com/album/3VuokauXicAVtmjIhMCXeW"
@@ -129,7 +225,7 @@
       "url": "https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "\u58f1",
         "url": "https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd"
@@ -145,7 +241,7 @@
       "url": "https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "OO-LI",
         "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
@@ -161,7 +257,7 @@
       "url": "https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "MAP OF THE SOUL : 7",
         "url": "https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS"
@@ -181,7 +277,7 @@
       "url": "https://open.spotify.com/track/3IB5qOeMayvpOdHxYCL5tZ"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "Band Aid",
         "url": "https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX"
@@ -197,7 +293,7 @@
       "url": "https://open.spotify.com/track/4UToDzb0OxKTPQNZt1aL4x"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "Letters with notes",
         "url": "https://open.spotify.com/album/5eOVVp7IQsGYgYQsVKn74P"
@@ -213,7 +309,7 @@
       "url": "https://open.spotify.com/track/6SFurcT8NOuglistyVb2F9"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "thousand years",
         "url": "https://open.spotify.com/album/3pDA2ikEslIDXpzIWmauQY"
@@ -229,7 +325,7 @@
       "url": "https://open.spotify.com/track/0nSEAABoviV818GLEZsD6r"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "YOUNHA 6th Album 'END THEORY'",
         "url": "https://open.spotify.com/album/7nzPuFSw98m1si3pqARggs"
@@ -245,7 +341,7 @@
       "url": "https://open.spotify.com/track/7tOsgOjrzBVQqyaMDBlZV8"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "Ashes",
         "url": "https://open.spotify.com/album/41gMZm0ib3Je8hU0eFNUwS"
@@ -261,7 +357,7 @@
       "url": "https://open.spotify.com/track/3Pj6u2KTgepyyidp5xfbHp"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "Buried Hearts Audio Liners",
         "url": "https://open.spotify.com/album/4Hd0zQ6HI3ZtRxj8TdbqHl"
@@ -277,7 +373,7 @@
       "url": "https://open.spotify.com/track/00LvCjP2ObMXWxIxPEhGU7"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "Fast & Furious Presents: Hobbs & Shaw (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6Y1wIHHmTIqv3mnVvQNJNH"
@@ -293,7 +389,7 @@
       "url": "https://open.spotify.com/track/7ssJMybqD4c4dkpoU81mlZ"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "This Is Acting (Deluxe Version)",
         "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
@@ -309,7 +405,7 @@
       "url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "ITAEWON CLASS (Original Television Soundtrack) Pt.2",
         "url": "https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293"
@@ -325,7 +421,7 @@
       "url": "https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "Stronger (Deluxe Version)",
         "url": "https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj"
@@ -341,7 +437,7 @@
       "url": "https://open.spotify.com/track/6D60klaHqbCl9ySc8VcRss"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "Wego Wego (Killer Peter X Xdinary Heroes) [Original Webtoon Soundtrack]",
         "url": "https://open.spotify.com/album/0cnPQZPwrX36jXboMOh264"
@@ -357,7 +453,7 @@
       "url": "https://open.spotify.com/track/66VUcyKcFpi3Ks0HW9jjgt"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "CALM",
         "url": "https://open.spotify.com/album/46K4raQPIGem3N031upNj9"
@@ -373,7 +469,7 @@
       "url": "https://open.spotify.com/track/3NxWJWftvkstyxvb1pZlFo"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
@@ -389,7 +485,7 @@
       "url": "https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "Death Of An Optimist",
         "url": "https://open.spotify.com/album/0n5LA95QYWAs9wwkkA8Sji"
@@ -405,7 +501,7 @@
       "url": "https://open.spotify.com/track/3pShTDa5E1bPBkrc1mxxGY"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "GGUM",
         "url": "https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V"
@@ -421,7 +517,7 @@
       "url": "https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "\ucc9c\ud558\uc77c\uc0c9\ubc15\uc815\uae08 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2bWcfSTXh7xx8SDHYcCqd8"
@@ -437,7 +533,7 @@
       "url": "https://open.spotify.com/track/2IfcPq2ioDQLUSy62fXneR"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "Buried Hearts Audio Liners",
         "url": "https://open.spotify.com/album/4Hd0zQ6HI3ZtRxj8TdbqHl"
@@ -453,7 +549,7 @@
       "url": "https://open.spotify.com/track/46G6LdRd32v8oZzrpaSt02"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
@@ -469,7 +565,7 @@
       "url": "https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "A flower bookmark",
         "url": "https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI"
@@ -485,7 +581,7 @@
       "url": "https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
@@ -501,7 +597,7 @@
       "url": "https://open.spotify.com/track/6XXKB32Om6WuXg3uEWwTob"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "mama's boy (deluxe)",
         "url": "https://open.spotify.com/album/6ZsCg58PZj6jFALfiB5ZtX"
@@ -517,7 +613,7 @@
       "url": "https://open.spotify.com/track/2VMhO32IsyhshnUoKhjCBE"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "NOWITZKI",
         "url": "https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq"
@@ -533,7 +629,7 @@
       "url": "https://open.spotify.com/track/3Me33RhzAgPcS97lkhIT1u"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
@@ -549,7 +645,7 @@
       "url": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "To Let A Good Thing Die",
         "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
@@ -565,7 +661,7 @@
       "url": "https://open.spotify.com/track/6PGaHXbIW1oFf1ER258tLi"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -581,7 +677,7 @@
       "url": "https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
@@ -601,7 +697,7 @@
       "url": "https://open.spotify.com/track/6Xgq7MvZiet0hVi3KaDSgJ"
     },
     {
-      "added_at": "2025-03-06 01:24:32",
+      "added_at": "2025-03-18 01:32:17",
       "album": {
         "name": "As the World Caves In",
         "url": "https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0"

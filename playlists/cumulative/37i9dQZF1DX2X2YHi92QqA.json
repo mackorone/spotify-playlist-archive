@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0412\u0434\u0438\u0445, \u0432\u0438\u0434\u0438\u0445 \ud83e\uddd8\ud83c\udffc\u200d\u2640\ufe0f\ud83c\udf38",
+  "description": "\u041c\u0443\u0437\u0438\u043a\u0430, \u0449\u043e\u0431 \u043d\u0430\u0441\u043e\u043b\u043e\u0434\u0438\u0442\u0438\u0441\u044f \u043f\u0435\u0440\u0448\u0438\u043c\u0438 \u0442\u0435\u043f\u043b\u0438\u043c\u0438 \u043f\u0440\u043e\u043c\u0456\u043d\u0447\u0438\u043a\u0430\u043c\u0438 \u2600\ufe0f",
   "name": "\u0412\u0435\u0441\u043d\u044f\u043d\u0438\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "tracks": [
     {
@@ -849,6 +849,24 @@
     },
     {
       "album": {
+        "name": "Stomach Butterflies",
+        "url": "https://open.spotify.com/album/3yP0f4ywFTS8Y2SJAtmIvv"
+      },
+      "artists": [
+        {
+          "name": "MAX BARSKIH",
+          "url": "https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171176,
+      "name": "Stomach Butterflies",
+      "url": "https://open.spotify.com/track/3ODfNdDz9b9VmABFncYmPG"
+    },
+    {
+      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/03g79cWftoGqwO48vn9wOn"
       },
@@ -1178,7 +1196,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 210000,
       "name": "\u0432\u0430\u043b\u044c\u0441 \u043f\u0456\u0434 \u0432\u0438\u0431\u0443\u0445\u0438",
       "url": "https://open.spotify.com/track/6ZvDRsoF2zharptwEoZZVM"
@@ -2199,6 +2217,32 @@
     },
     {
       "album": {
+        "name": "\u043d\u0430 \u0440\u0435\u043f\u0456\u0442\u0456",
+        "url": "https://open.spotify.com/album/02zVnntNRecaDUBNl5b9t3"
+      },
+      "artists": [
+        {
+          "name": "\u0413\u0443\u0440\u0442 \u0414\u043d\u043e",
+          "url": "https://open.spotify.com/artist/4t9utcHzJznAOIInsK0SQg"
+        },
+        {
+          "name": "renie cares",
+          "url": "https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB"
+        },
+        {
+          "name": "Yevhenii Dubovyk",
+          "url": "https://open.spotify.com/artist/3OfJlVTGldxJXYiZaL5Kdn"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137620,
+      "name": "\u043d\u0430 \u0440\u0435\u043f\u0456\u0442\u0456",
+      "url": "https://open.spotify.com/track/0bG51wdiS7RIFVjdEGqapY"
+    },
+    {
+      "album": {
         "name": "\u041d\u0430\u0432\u0435\u0441\u043d\u0456",
         "url": "https://open.spotify.com/album/7CWR6kNbMJ9hZpO0Dh1bcC"
       },
@@ -2210,7 +2254,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 159000,
       "name": "\u041d\u0430\u0432\u0435\u0441\u043d\u0456",
       "url": "https://open.spotify.com/track/0WXJRCeH5CRbFUAq7pyvqM"
@@ -2228,7 +2272,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 277813,
       "name": "\u041d\u0430\u0434\u0456\u044f \u0454",
       "url": "https://open.spotify.com/track/3rpw8RiimS9cakLpQIUy5f"
@@ -2470,7 +2514,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 210248,
       "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0434\u043d\u0456 \u043b\u0456\u0442\u0430",
       "url": "https://open.spotify.com/track/031XeWxYnh6nAeXRPOtilL"
@@ -2885,6 +2929,24 @@
     },
     {
       "album": {
+        "name": "\u0421\u043e\u043d\u0446\u0435",
+        "url": "https://open.spotify.com/album/5GFMST9V0e6VZzUXa2FbCw"
+      },
+      "artists": [
+        {
+          "name": "Valeriia Vovk",
+          "url": "https://open.spotify.com/artist/2JujXZh274ctLCsqh0E6l8"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263000,
+      "name": "\u0421\u043e\u043d\u0446\u0435",
+      "url": "https://open.spotify.com/track/1OJ7eFvEXgLhrH6ggW1Ot3"
+    },
+    {
+      "album": {
         "name": "\u0414\u0456\u0442\u0438",
         "url": "https://open.spotify.com/album/7i9VX5UVn6oRKLCowh3rlZ"
       },
@@ -2972,6 +3034,24 @@
       "duration_ms": 223532,
       "name": "\u0422\u0430\u043a \u043b\u044e\u0431\u043b\u044f\u0442\u044c \u043b\u0438\u0448 \u0440\u0430\u0437",
       "url": "https://open.spotify.com/track/2rwEbC0qA6VYrADOuiSh7N"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0430\u043a \u043d\u0435\u043a\u0440\u0430\u0441\u0438\u0432\u043e",
+        "url": "https://open.spotify.com/album/1QzZuzZ7GFuOGP3PV3vVGX"
+      },
+      "artists": [
+        {
+          "name": "\u041c\u0430\u0440\u0456\u044f \u0422\u043a\u0430\u0447\u0443\u043a",
+          "url": "https://open.spotify.com/artist/76uEuRv3y0M5HUTcSpNidW"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174901,
+      "name": "\u0422\u0430\u043a \u043d\u0435\u043a\u0440\u0430\u0441\u0438\u0432\u043e",
+      "url": "https://open.spotify.com/track/0ACo8fQlRJ4ENG7RXcyScr"
     },
     {
       "album": {

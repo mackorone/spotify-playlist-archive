@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/5bsjxcIL5IExlkjUUT3LqN"
+      },
+      "artists": [
+        {
+          "name": "Liv Joy",
+          "url": "https://open.spotify.com/artist/050mtzVtUlI66423bb1UKm"
+        }
+      ],
+      "date_added": "2025-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174175,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/01ROOZyL7yFfuVZsOmcxVJ"
+    },
+    {
+      "album": {
         "name": "Acknowledge",
         "url": "https://open.spotify.com/album/7qZbzUnRPRPSWGpgOYt2ud"
       },
@@ -556,7 +574,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 165023,
       "name": "Along",
       "url": "https://open.spotify.com/track/6BClTbOxNLsOR3BdQQEahj"

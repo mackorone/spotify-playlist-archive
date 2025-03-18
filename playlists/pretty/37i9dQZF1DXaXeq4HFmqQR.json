@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen: un homenaje a Violeta Parra. ",
-  "num_followers": 14369,
+  "num_followers": 14370,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-02-05 15:44:52",
       "album": {
-        "name": "La culpa",
-        "url": "https://open.spotify.com/album/2lsItjwkRiLurSvlcy0691"
-      },
-      "artists": [
-        {
-          "name": "Evelyn Cornejo",
-          "url": "https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6"
-        }
-      ],
-      "duration_ms": 330005,
-      "name": "La culpa",
-      "url": "https://open.spotify.com/track/7zXinGDq0pdDD7dZ6TORbs"
-    },
-    {
-      "added_at": "2025-02-05 15:44:52",
-      "album": {
         "name": "Albor",
         "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 270279,
       "name": "entre las sombras,",
       "url": "https://open.spotify.com/track/4LEBPYdBOgHF9aYCliGfhn"
+    },
+    {
+      "added_at": "2025-02-05 15:44:52",
+      "album": {
+        "name": "La culpa",
+        "url": "https://open.spotify.com/album/2lsItjwkRiLurSvlcy0691"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Cornejo",
+          "url": "https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6"
+        }
+      ],
+      "duration_ms": 330005,
+      "name": "La culpa",
+      "url": "https://open.spotify.com/track/7zXinGDq0pdDD7dZ6TORbs"
     },
     {
       "added_at": "2025-02-05 15:44:52",

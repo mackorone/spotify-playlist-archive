@@ -528,7 +528,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 197500,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/6LiTEXFsVO0hbSnplg5HNO"
@@ -1858,7 +1858,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 192560,
       "name": "Fraktsiya",
       "url": "https://open.spotify.com/track/6m66Qk7oHVwSNQIvdoul4E"
@@ -3412,7 +3412,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 208373,
       "name": "Last Kiss",
       "url": "https://open.spotify.com/track/40YRfhvs1XDqQmjljboKqR"
@@ -7076,6 +7076,24 @@
       "duration_ms": 204400,
       "name": "Vivid",
       "url": "https://open.spotify.com/track/3nXzWBaH6lhOksp1wu8hnL"
+    },
+    {
+      "album": {
+        "name": "Unexpected",
+        "url": "https://open.spotify.com/album/0gr6ALnqNZF1LwubTWP48V"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235493,
+      "name": "VVV",
+      "url": "https://open.spotify.com/track/1W6L8HNg31ufhNVuTmTsH3"
     },
     {
       "album": {

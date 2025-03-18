@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: DJ EZ at Drumsheds
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,750 likes - 75 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,849 likes - 75 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,12 +59,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 49 | [Space Rider \- MJ Cole Vocal Mix](https://open.spotify.com/track/17FKIehIe3xjlwOxlC1kWW) | [Shaun Escoffery](https://open.spotify.com/artist/4QQV60vtp1G3XReD6dWgNz), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Oyster Music \- The MJ Cole Mixes](https://open.spotify.com/album/0l8mKOWMYe3r0vV5bQo9IY) | 5:15 |
 | 50 | [Love Bug \- Bump Mix](https://open.spotify.com/track/1aNW5AgRPpg4M10r7R7EcH) | [Ramsey](https://open.spotify.com/artist/0Jc5OpQ81K0Vbt6ESFB6zU), [Fen](https://open.spotify.com/artist/5YcvAFIoignxIQf2xrFOVL), [Lyndsey Moore](https://open.spotify.com/artist/7jc4bFQYRoQwlCWvquX5SD) | [Pure Garage Rewind](https://open.spotify.com/album/2SUjSPglsVlIv9pom5A9vq) | 5:55 |
 | 51 | [Kung\-Fu](https://open.spotify.com/track/5y7mEkaEL1fivzcwNhYtrU) | [187 Lockdown](https://open.spotify.com/artist/1tlAuGE8fWLJOWyqdBrR2p) | [187](https://open.spotify.com/album/7v4aQVzT2vh3S4kinfpnV4) | 6:31 |
-| 52 | [My Desire \- Dreem Team Remix](https://open.spotify.com/track/4wDuuEI9ecmWVVQVfHfrp3) | [AMIRA](https://open.spotify.com/artist/32GCwVMzzFTuaFhQGXgdxD) | [My Desire \(Remixes\)](https://open.spotify.com/album/7m7dj6cgyKXzOkBHF4MDug) | 5:44 |
-| 53 | [Deeper Love](https://open.spotify.com/track/0KwE2yUq2e5lKSjK1MsKCt) | [Ruff Driverz](https://open.spotify.com/artist/0lBn2JE9uxCxlEhITJ8nuX) | [In\-Fidelity](https://open.spotify.com/album/6019qvnF1CbqBi32pAiV35) | 3:54 |
-| 54 | [Oh Baby](https://open.spotify.com/track/5lWkKEIg07sX9l8HcIU4Y9) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [4X4, Vol\. 1](https://open.spotify.com/album/4HZ7uAsCJu2KwI0AfSOGXk) | 5:43 |
+| 52 | [Deeper Love](https://open.spotify.com/track/0KwE2yUq2e5lKSjK1MsKCt) | [Ruff Driverz](https://open.spotify.com/artist/0lBn2JE9uxCxlEhITJ8nuX) | [In\-Fidelity](https://open.spotify.com/album/6019qvnF1CbqBi32pAiV35) | 3:54 |
+| 53 | [Oh Baby](https://open.spotify.com/track/5lWkKEIg07sX9l8HcIU4Y9) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [4X4, Vol\. 1](https://open.spotify.com/album/4HZ7uAsCJu2KwI0AfSOGXk) | 5:43 |
+| 54 | [My Desire \- Dreem Team Remix](https://open.spotify.com/track/4wDuuEI9ecmWVVQVfHfrp3) | [AMIRA](https://open.spotify.com/artist/32GCwVMzzFTuaFhQGXgdxD) | [My Desire \(Remixes\)](https://open.spotify.com/album/7m7dj6cgyKXzOkBHF4MDug) | 5:44 |
 | 55 | [Wondering Why](https://open.spotify.com/track/1hEON5HHAv2GFuapRYuW8Y) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [Vula Malinga](https://open.spotify.com/artist/62cbToG9jGPFvL0P2DslNf) | [Cut To The Chase](https://open.spotify.com/album/23qJYwn8Ws7ByE8JOOxKLk) | 3:36 |
-| 56 | [Down On Me](https://open.spotify.com/track/3aFmm5TVUHInC0ruWkjUJ4) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Wookie \(Deluxe Edition\)](https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk) | 5:28 |
-| 57 | [C'est Cool](https://open.spotify.com/track/6AAWrCUg5AEHhbeJpn01s5) | [Jeremy Sylvester](https://open.spotify.com/artist/7BRot2uprkudBUXhqv9R9l) | [UK Garage Classics \- Best of Jeremy Sylvester, Vol\. 3](https://open.spotify.com/album/5xZ01zf5Pb93RJnt46sAuT) | 5:48 |
+| 56 | [C'est Cool](https://open.spotify.com/track/6AAWrCUg5AEHhbeJpn01s5) | [Jeremy Sylvester](https://open.spotify.com/artist/7BRot2uprkudBUXhqv9R9l) | [UK Garage Classics \- Best of Jeremy Sylvester, Vol\. 3](https://open.spotify.com/album/5xZ01zf5Pb93RJnt46sAuT) | 5:48 |
+| 57 | [Down On Me](https://open.spotify.com/track/3aFmm5TVUHInC0ruWkjUJ4) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Wookie \(Deluxe Edition\)](https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk) | 5:28 |
 | 58 | [Triplets](https://open.spotify.com/track/5K2nfj6reBygjD9gcI7AIH) | [Sticky](https://open.spotify.com/artist/2M9VekPKghfVcZKgiugbNH) | [UK Garage Beats V2](https://open.spotify.com/album/7KLkeK27wbHpuuUaHNr1Yr) | 5:09 |
 | 59 | [God Made Me Phunky \(Extended Mix\)](https://open.spotify.com/track/4tvejslaZsD6Y0pFCWipwJ) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS) | [God Made Me Phunky](https://open.spotify.com/album/4h3Jd9QhtT9TifEhLq9xkc) | 6:16 |
 | 60 | [Attitude](https://open.spotify.com/track/0mFEqYuAiWphuDLXj9h75n) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [Elisabeth Troy](https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT) | [Sincere \(Deluxe\)](https://open.spotify.com/album/0V76cokjWCIMO2pnElF1mw) | 5:09 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 63 | [Pick Me Up \- Licenced Mix](https://open.spotify.com/track/57sbI1IH9J5TBN2utbIoWM) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [Pick Me Up](https://open.spotify.com/album/51HxoBrnXMvUuneVRRV5gl) | 6:43 |
 | 64 | [Oh Boy \- Rafmat Radio Edit](https://open.spotify.com/track/3023sMjiQEW2Cune78IfCJ) | [Fabulous Baker Boys](https://open.spotify.com/artist/5UGsrEKtGvlxh7YsdjKyjH) | [Oh Boy](https://open.spotify.com/album/77H1tCAFhXuNPg21nCNMgX) | 4:03 |
 | 65 | [Jump to It](https://open.spotify.com/track/1y4BT0G5NzgTvUCMOd5Fwx) | [Double 99](https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3) | [Double 99 Double Pack](https://open.spotify.com/album/7zIkRSt3IFmc8pxW25jyHz) | 5:24 |
-| 66 | [Deep Inside \- Shadow Child Remix Edit](https://open.spotify.com/track/1jQcOeW5okWigW2CzW6MrM) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside \(Remixes\)](https://open.spotify.com/album/2kVFyllWGoCFiDdpwHaTxs) | 2:25 |
-| 67 | [Joy](https://open.spotify.com/track/36xCum3i0EQyr2mw02X3U0) | [Janet Rushmore](https://open.spotify.com/artist/18teEg25jbPOp9juFgIZtU) | [Smack Da House Vol.2](https://open.spotify.com/album/0UTxSDZxgcVhltuXOUT0uT) | 5:29 |
+| 66 | [Joy](https://open.spotify.com/track/36xCum3i0EQyr2mw02X3U0) | [Janet Rushmore](https://open.spotify.com/artist/18teEg25jbPOp9juFgIZtU) | [Smack Da House Vol.2](https://open.spotify.com/album/0UTxSDZxgcVhltuXOUT0uT) | 5:29 |
+| 67 | [Deep Inside \- Shadow Child Remix Edit](https://open.spotify.com/track/1jQcOeW5okWigW2CzW6MrM) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside \(Remixes\)](https://open.spotify.com/album/2kVFyllWGoCFiDdpwHaTxs) | 2:25 |
 | 68 | [Wishing I Were Home](https://open.spotify.com/track/6RtZ4Kvk7apHXWFqiI0HLO) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Wishing I Were Home](https://open.spotify.com/album/2c3hFrcNV2Z0485IQ5rJ1i) | 6:15 |
 | 69 | [All I Do \(Bump & Flex Club Mix\)](https://open.spotify.com/track/6d5kAMXULpIYwfM5MgpiiM) | [Cleptomaniacs](https://open.spotify.com/artist/5vsTFEVitPhOSaJy0aQN6L) | [All I do](https://open.spotify.com/album/7fR9oZPJHUDHoIxD1SxdOw) | 6:08 |
 | 70 | [Club Lonely](https://open.spotify.com/track/4TSKJlNqqGbyHB9mSmRpUt) | [Club Asylum](https://open.spotify.com/artist/5TpyNFaq1IDeWEkHZOMAIH) | [Club Asylum Sampler, Vol\. 1](https://open.spotify.com/album/6fonnepHRdzo5l0fminGAq) | 5:14 |

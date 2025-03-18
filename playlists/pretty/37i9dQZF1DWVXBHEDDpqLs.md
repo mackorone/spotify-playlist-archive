@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best cuts from the underground 💎 💎 at the heart of club culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,796 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,850 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Uhhh](https://open.spotify.com/track/4I6TKOCGVHNMte2QsBIHiW) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [Uhhh](https://open.spotify.com/album/4dBEmiRpgEPgPk2jsg5JsH) | 4:55 |
-| 2 | [Part I](https://open.spotify.com/track/1xCva4FzEDBfB2RIvRoc1w) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8), [Hagop Tchaparian](https://open.spotify.com/artist/14hI6ZlrKB6X81Y046P2MW) | [Kino](https://open.spotify.com/album/4rQhm4Eis9sawqytu2L4Fd) | 3:35 |
-| 3 | [Play With Fire](https://open.spotify.com/track/0Mft6nUX3bh3ZcgVJv1iwB) | [Normal Pleasure](https://open.spotify.com/artist/4khBCYLWyHyGoOpkAoJkyI) | [MELBOURNE'S DEAD!!](https://open.spotify.com/album/1q465dLj8WqBV3hCPvzwgy) | 5:14 |
-| 4 | [Top Shotta](https://open.spotify.com/track/0FzkIzLle6uP0BHBj0iFHt) | [DJ co.kr](https://open.spotify.com/artist/29B31wBYJN1MJjE76whSHk), [h4rdy](https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Top Shotta](https://open.spotify.com/album/1t72pTWuIAFOFL6oln8fQu) | 4:10 |
-| 5 | [The Wash](https://open.spotify.com/track/5wkUjIWHJLqUYMuME2QGR1) | [Sully](https://open.spotify.com/artist/6ryGFEDvM7703b889hPUFZ) | [Model Collapse / The Wash](https://open.spotify.com/album/6dChWU9lgwwBPiU2gVCbFL) | 3:55 |
+| 1 | [Part I](https://open.spotify.com/track/1xCva4FzEDBfB2RIvRoc1w) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8), [Hagop Tchaparian](https://open.spotify.com/artist/14hI6ZlrKB6X81Y046P2MW) | [Kino](https://open.spotify.com/album/4rQhm4Eis9sawqytu2L4Fd) | 3:35 |
+| 2 | [The Wash](https://open.spotify.com/track/5wkUjIWHJLqUYMuME2QGR1) | [Sully](https://open.spotify.com/artist/6ryGFEDvM7703b889hPUFZ) | [Model Collapse / The Wash](https://open.spotify.com/album/6dChWU9lgwwBPiU2gVCbFL) | 3:55 |
+| 3 | [Uhhh](https://open.spotify.com/track/4I6TKOCGVHNMte2QsBIHiW) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [Uhhh](https://open.spotify.com/album/4dBEmiRpgEPgPk2jsg5JsH) | 4:55 |
+| 4 | [Play With Fire](https://open.spotify.com/track/0Mft6nUX3bh3ZcgVJv1iwB) | [Normal Pleasure](https://open.spotify.com/artist/4khBCYLWyHyGoOpkAoJkyI) | [MELBOURNE'S DEAD!!](https://open.spotify.com/album/1q465dLj8WqBV3hCPvzwgy) | 5:14 |
+| 5 | [Top Shotta](https://open.spotify.com/track/0FzkIzLle6uP0BHBj0iFHt) | [DJ co.kr](https://open.spotify.com/artist/29B31wBYJN1MJjE76whSHk), [h4rdy](https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Top Shotta](https://open.spotify.com/album/1t72pTWuIAFOFL6oln8fQu) | 4:10 |
 | 6 | [Stuck](https://open.spotify.com/track/0lWuvIaViwzqDgwctjIR2N) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE), [Leonce](https://open.spotify.com/artist/4CtHfoB4Jfn9hpWMHBq3lc) | [Dusted / Stuck](https://open.spotify.com/album/0veFYF5sryqYViMj0jmI2N) | 3:27 |
 | 7 | [Pondeggi](https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [E Wata](https://open.spotify.com/artist/2me33xonIRaOkg980kntBy) | [Pondeggi](https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT) | 4:39 |
 | 8 | [Web Harvest](https://open.spotify.com/track/0yTrbRqSrvipYpBq4vdHUC) | [Danny Goliger](https://open.spotify.com/artist/58hwRYvd98tYQPesSo9bHi) | [Exonym](https://open.spotify.com/album/16YjRnK92pPqwY9oWsj9gk) | 5:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 | 99 | [Picking Flowers](https://open.spotify.com/track/2O3cy7DKdobrA8e0bqrPEI) | [Lake Hills](https://open.spotify.com/artist/5y5zEG94qXEAbvj1kP0SR5) | [Picking Flowers](https://open.spotify.com/album/5PaNphWwcQRzuJR0tLAOvB) | 4:16 |
 | 100 | [Slay The Beast](https://open.spotify.com/track/51F6fC9PaCAbFScUjU64vG) | [Or:la](https://open.spotify.com/artist/2HMcYonnetvTrEXnwIvchf), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Trusting Theta](https://open.spotify.com/album/5jQu29iTC5O5tZ4GD99y2o) | 3:42 |
 
-Snapshot ID: `Z9PLOwAAAADpItcQQPagU7VzBm//9K7e`
+Snapshot ID: `Z9hf6QAAAAApC9UXdDWm5Q1w1yTNzFaI`

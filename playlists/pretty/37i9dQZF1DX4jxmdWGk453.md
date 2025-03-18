@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 
 > All your favourite Christmas carols sung for you by a vocal ensemble.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,123 likes - 78 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,099 likes - 78 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 | 12 | [The First Noel](https://open.spotify.com/track/2q3NNQqn8DaehA2M0qyKHT) | [Dean Hort Quartet](https://open.spotify.com/artist/1C5rovJ0DxYtVAsEWQIQfj) | [The First Noel](https://open.spotify.com/album/5mvwUwNxgqw3NrHCfWr0tp) | 2:11 |
 | 13 | [Winter Wonderland](https://open.spotify.com/track/0Pk12bzTnJwaZLm2fMYpG4) | [The King's Singers](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) | [Harmonious Voices: An Acapella Christmas](https://open.spotify.com/album/5pVny6olyOzXV3nA2LSs6Q) | 4:36 |
 | 14 | [In dulci jubilo \(Arr\. Bach\)](https://open.spotify.com/track/6OpZlfzW5UypTPmwT4QMaO) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [The Gesualdo Six](https://open.spotify.com/artist/2z846SqjChnjieVgTfRq3X), [Owain Park](https://open.spotify.com/artist/3sOOPbHn8MPZMvCvGDQnsQ) | [Christmas: A Cappella Carols and Hymns](https://open.spotify.com/album/7hFCs7k5xCiuuxPbvJe9Sy) | 2:57 |
-| 15 | [Silent Night, Holy Night](https://open.spotify.com/track/1MUk881Qv9Caiw9jxLk6qR) | [Franz Xaver Gruber](https://open.spotify.com/artist/395Z91yDQ05pkMbRKik18y), [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Stephen Cleobury](https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No) | [Christmas Carols](https://open.spotify.com/album/2IfPdn5qYxHNlik5Zb7fKT) | 2:32 |
-| 16 | [In Dulci Jubilo](https://open.spotify.com/track/5WWRWV9k4RbZBzpbGt5XVB) | [The Sixteen](https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS), [Harry Christophers](https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu) | [The Complete Traditional Christmas Carols Collection](https://open.spotify.com/album/3NNkz7mLEcrAWteAi4J4v2) | 3:51 |
+| 15 | [In Dulci Jubilo](https://open.spotify.com/track/5WWRWV9k4RbZBzpbGt5XVB) | [The Sixteen](https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS), [Harry Christophers](https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu) | [The Complete Traditional Christmas Carols Collection](https://open.spotify.com/album/3NNkz7mLEcrAWteAi4J4v2) | 3:51 |
+| 16 | [Silent Night, Holy Night](https://open.spotify.com/track/1MUk881Qv9Caiw9jxLk6qR) | [Franz Xaver Gruber](https://open.spotify.com/artist/395Z91yDQ05pkMbRKik18y), [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Stephen Cleobury](https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No) | [Christmas Carols](https://open.spotify.com/album/2IfPdn5qYxHNlik5Zb7fKT) | 2:32 |
 | 17 | [Jingle Bells \(Arr\. Langford\)](https://open.spotify.com/track/6PH7M86XnVy8FaS8tYtvDb) | [James Lord Pierpont](https://open.spotify.com/artist/4dQg1sHFFZrwuVN87UxJgb), [The Gesualdo Six](https://open.spotify.com/artist/2z846SqjChnjieVgTfRq3X), [Owain Park](https://open.spotify.com/artist/3sOOPbHn8MPZMvCvGDQnsQ) | [Christmas: A Cappella Carols and Hymns](https://open.spotify.com/album/7hFCs7k5xCiuuxPbvJe9Sy) | 1:51 |
 | 18 | [In the bleak mid\-winter](https://open.spotify.com/track/4nUVdV40QXXLiURFgNO3q6) | [Harold Darke](https://open.spotify.com/artist/0w5R8w5n1DiEnqt6C36ugm), [John Bowen](https://open.spotify.com/artist/4d4dDd3rH8w9lGp62LesY6), [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [David Briggs](https://open.spotify.com/artist/6fpm54DfoAd1JokubtQiNL), [Stephen Cleobury](https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No) | [Silent Night \- 25 Carols of Peace & Tranquility](https://open.spotify.com/album/6EnGpnM3JoyVG6oa7l9ujw) | 4:18 |
 | 19 | [Winter Wonderland](https://open.spotify.com/track/03hoxhb9QTw2jMyxlC05fM) | [Millennia Choir](https://open.spotify.com/artist/0DYyjQ07NlZcMysO4UEN9R) | [Millenium Choir](https://open.spotify.com/album/08RVRU04laKLl3Lw3SNI3f) | 1:25 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 | 77 | [O Tannenbaum](https://open.spotify.com/track/1cU1C2UyM7Os13XKI8SQPz) | [The Barbershop Singers](https://open.spotify.com/artist/2ihbqMC5FLIURCSTBvsQed) | [A Barbershop Christmas](https://open.spotify.com/album/0sra8b07OvY3gfezNtToSf) | 0:59 |
 | 78 | [Adam Lay Ybounden](https://open.spotify.com/track/2Joa1vzPsN00z8SzkTPFNc) | [The Sixteen](https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS) | [A Traditional Christmas Carol Collection, Vol\. II](https://open.spotify.com/album/7gVtoqma3finMEnqIpDq5Y) | 1:21 |
 
-Snapshot ID: `Z2BOhAAAAAC03geCT93/6jWUOqMe8mIM`
+Snapshot ID: `Z9gAtAAAAAAFkCsqXLpiMgNh7L9tA1qq`

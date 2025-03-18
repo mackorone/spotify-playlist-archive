@@ -1,6 +1,6 @@
 {
   "description": "The cinnamon-infused, crisp-air-breathing, crunchy-leaves-walking, chunky-knit-wearing, seasonal-latte-drinking playlist. ",
-  "num_followers": 528867,
+  "num_followers": 528842,
   "original_name": "pumpkin spice",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "I Won't Be Your Foe",
-        "url": "https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 164195,
-      "name": "Maybe October",
-      "url": "https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc"
-    },
-    {
-      "added_at": "2024-10-03 23:15:00",
-      "album": {
         "name": "Stranger in the Alps",
         "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 247306,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/5YTJXAM6j8jEQ5vC8Q67GL"
+    },
+    {
+      "added_at": "2024-10-03 23:15:00",
+      "album": {
+        "name": "I Won't Be Your Foe",
+        "url": "https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 164195,
+      "name": "Maybe October",
+      "url": "https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "Changes All The Time",
-        "url": "https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 279429,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"
-    },
-    {
-      "added_at": "2024-10-03 23:15:00",
-      "album": {
         "name": "The Commons",
         "url": "https://open.spotify.com/album/4K8gqz3BWiZBfkGeoWdg6d"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 324893,
       "name": "The Commons",
       "url": "https://open.spotify.com/track/5PfJka4aeWTPLTpzUaxVrb"
+    },
+    {
+      "added_at": "2024-10-03 23:15:00",
+      "album": {
+        "name": "Changes All The Time",
+        "url": "https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 279429,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "Heaven in the Right Light",
-        "url": "https://open.spotify.com/album/5kkjoTcwN0TkOjSSC55TCA"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 220955,
-      "name": "Heaven in the Right Light",
-      "url": "https://open.spotify.com/track/6HEpTm4JrCTKKEXMnoYc0e"
-    },
-    {
-      "added_at": "2024-10-03 23:15:00",
-      "album": {
         "name": "Like I Used To",
         "url": "https://open.spotify.com/album/2WYwG9H90bEhcHdyeUdA3h"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 233013,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/0Wv9Ckm088qsVkMKPH170C"
+    },
+    {
+      "added_at": "2024-10-03 23:15:00",
+      "album": {
+        "name": "Heaven in the Right Light",
+        "url": "https://open.spotify.com/album/5kkjoTcwN0TkOjSSC55TCA"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 220955,
+      "name": "Heaven in the Right Light",
+      "url": "https://open.spotify.com/track/6HEpTm4JrCTKKEXMnoYc0e"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "the warmth",
-        "url": "https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy"
+        "name": "Sahar",
+        "url": "https://open.spotify.com/album/2MsR68gI6TNZSztsRYgs6p"
       },
       "artists": [
         {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+          "name": "Tamino",
+          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
         }
       ],
-      "duration_ms": 270934,
-      "name": "the warmth",
-      "url": "https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe"
+      "duration_ms": 170315,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/6tDTR7BdMt8sRUgKTRDDvj"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "Sahar",
-        "url": "https://open.spotify.com/album/2MsR68gI6TNZSztsRYgs6p"
+        "name": "the warmth",
+        "url": "https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy"
       },
       "artists": [
         {
-          "name": "Tamino",
-          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
         }
       ],
-      "duration_ms": 170315,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/6tDTR7BdMt8sRUgKTRDDvj"
+      "duration_ms": 270934,
+      "name": "the warmth",
+      "url": "https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -1419,6 +1419,26 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
+        "name": "yeti",
+        "url": "https://open.spotify.com/album/5gV0RiQSQfuac6mApqgBDy"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        },
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 252152,
+      "name": "yeti",
+      "url": "https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T"
+    },
+    {
+      "added_at": "2024-10-03 23:15:00",
+      "album": {
         "name": "Autumn Variations",
         "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
       },
@@ -1431,22 +1451,6 @@
       "duration_ms": 206008,
       "name": "Punchline",
       "url": "https://open.spotify.com/track/4gqRVDvnILW0cvBWZzKcRf"
-    },
-    {
-      "added_at": "2024-10-03 23:15:00",
-      "album": {
-        "name": "That's Just The Way It Is, Babe",
-        "url": "https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 208253,
-      "name": "That\u2019s Just The Way It Is, Babe",
-      "url": "https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -1467,22 +1471,18 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "yeti",
-        "url": "https://open.spotify.com/album/5gV0RiQSQfuac6mApqgBDy"
+        "name": "That's Just The Way It Is, Babe",
+        "url": "https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE"
       },
       "artists": [
         {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        },
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
         }
       ],
-      "duration_ms": 252152,
-      "name": "yeti",
-      "url": "https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T"
+      "duration_ms": 208253,
+      "name": "That\u2019s Just The Way It Is, Babe",
+      "url": "https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M"
     },
     {
       "added_at": "2024-10-03 23:15:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-10-03 23:15:00",
       "album": {
-        "name": "Cairngorms",
-        "url": "https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 252878,
-      "name": "Cairngorms",
-      "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
-    },
-    {
-      "added_at": "2024-10-03 23:15:00",
-      "album": {
         "name": "Autumn Variations",
         "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 175878,
       "name": "When Will I Be Alright",
       "url": "https://open.spotify.com/track/5S1CxlxcDGMf6c0WcEvF4K"
+    },
+    {
+      "added_at": "2024-10-03 23:15:00",
+      "album": {
+        "name": "Cairngorms",
+        "url": "https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 252878,
+      "name": "Cairngorms",
+      "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
     },
     {
       "added_at": "2024-10-03 23:15:00",

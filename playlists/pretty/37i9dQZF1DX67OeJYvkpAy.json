@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: JBEE",
-  "num_followers": 88842,
+  "num_followers": 88836,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "High (All The Time)",
+        "url": "https://open.spotify.com/album/5oEDFjrZMu10f4e7g50UXr"
+      },
+      "artists": [
+        {
+          "name": "RhyRab",
+          "url": "https://open.spotify.com/artist/4EXmCLyMavmdNi3JTmbvSS"
+        }
+      ],
+      "duration_ms": 160030,
+      "name": "High (All The Time)",
+      "url": "https://open.spotify.com/track/6dQQEf0syaKQkG3qGUwsU5"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/21I5Lnj2L2hXDvHGr1AiMR"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 135000,
       "name": "Voices",
       "url": "https://open.spotify.com/track/6HfHA59NuCFzWWLOZ8WHzv"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "High (All The Time)",
-        "url": "https://open.spotify.com/album/5oEDFjrZMu10f4e7g50UXr"
-      },
-      "artists": [
-        {
-          "name": "RhyRab",
-          "url": "https://open.spotify.com/artist/4EXmCLyMavmdNi3JTmbvSS"
-        }
-      ],
-      "duration_ms": 160030,
-      "name": "High (All The Time)",
-      "url": "https://open.spotify.com/track/6dQQEf0syaKQkG3qGUwsU5"
     },
     {
       "added_at": "2024-11-22 00:00:00",

@@ -4,7 +4,7 @@
 
 > Ajude seu bebê a dormir com músicas relaxantes da Disney.
 
-79 songs - 3 hr 50 min
+80 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Speechless](https://open.spotify.com/track/2KMgXD6lt8fVOa2xIQwJdm) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Mindful](https://open.spotify.com/album/31qCPFxPGehOvU9ysAeUqI) | 3:50 | 2021-04-26 |  |
 | [T.O.T.S\. Main Title](https://open.spotify.com/track/510i6uuZJ4ctIAFoqEd3EU) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:23 | 2021-04-26 |  |
 | [The Bare Necessities \- Instrumental](https://open.spotify.com/track/747WbLmzVVbiNDMx2LL9Ic) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Sleepytime Lullabies](https://open.spotify.com/album/4pHb2LkBfPjbMlkGWISDF6) | 1:31 | 2021-04-26 |  |
+| [The Life of Riley \- Orgel Version](https://open.spotify.com/track/6QJaxDk1IT15zDsylB7v0l) | [Disney Orgel](https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8) | [Disney Orgel/Oyasumi BGM Vol.3](https://open.spotify.com/album/2ykhS20xYBuHUk7O1HPt3A) | 3:23 | 2025-03-17 |  |
 | [The Second Star to the Right](https://open.spotify.com/track/3gpIZfdsatptNlFaWezOME) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Calm](https://open.spotify.com/album/156mQC6K3aOBBoPRJnURCX) | 2:24 | 2021-04-26 |  |
 | [The Second Star to the Right \- Instrumental](https://open.spotify.com/track/11ivd2hEFCMAQa5a8077Xo) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Baby Sweet Dreams and Lullabies](https://open.spotify.com/album/16pvzqs551DZy6VrUVkLDg) | 1:29 | 2021-04-26 |  |
 | [The Ship](https://open.spotify.com/track/4KdrgmXjJ29AsCjE6x1qr3) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 4:55 | 2021-04-26 |  |

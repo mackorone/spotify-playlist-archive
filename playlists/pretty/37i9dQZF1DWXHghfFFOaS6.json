@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 356992,
+  "num_followers": 357066,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -799,26 +799,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Beatmaker",
-        "url": "https://open.spotify.com/album/26r7BEpLvogzNadNhpR73H"
-      },
-      "artists": [
-        {
-          "name": "Matt Berry",
-          "url": "https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto"
-        },
-        {
-          "name": "Emma Noble",
-          "url": "https://open.spotify.com/artist/0wKTCSORBOl42BQBahvy6g"
-        }
-      ],
-      "duration_ms": 177842,
-      "name": "Beatmaker",
-      "url": "https://open.spotify.com/track/2oXbBzR7XvLQDSxZumgsIN"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Best by Far",
         "url": "https://open.spotify.com/album/4HRoAeVyVORkenqpt9oXIk"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 252933,
       "name": "Be Thankful",
       "url": "https://open.spotify.com/track/2bULDC7iIk43NXgGKA4vPB"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Beatmaker",
+        "url": "https://open.spotify.com/album/26r7BEpLvogzNadNhpR73H"
+      },
+      "artists": [
+        {
+          "name": "Matt Berry",
+          "url": "https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto"
+        },
+        {
+          "name": "Emma Noble",
+          "url": "https://open.spotify.com/artist/0wKTCSORBOl42BQBahvy6g"
+        }
+      ],
+      "duration_ms": 177842,
+      "name": "Beatmaker",
+      "url": "https://open.spotify.com/track/2oXbBzR7XvLQDSxZumgsIN"
     },
     {
       "added_at": "2022-07-14 19:24:43",

@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 105691,
+  "num_followers": 105717,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9TDAAAAAABbEA5yhiSqMqPSyYyFjYZ1",
+  "snapshot_id": "Z9YUgAAAAADTi5LVLk76rh9x83zHY1e1",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando El Sol Salga Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Te Han Dicho de M\u00ed",
-      "url": "https://open.spotify.com/track/1TVVzbCHWduRZubpPxzDkz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "30 Anos",
         "url": "https://open.spotify.com/album/59StiRT1AuVJIaZn2igYWL"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 284238,
       "name": "30 Anos",
       "url": "https://open.spotify.com/track/0hSmN6ZwUx9wU7WBW0QAyz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando El Sol Salga Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Te Han Dicho de M\u00ed",
+      "url": "https://open.spotify.com/track/1TVVzbCHWduRZubpPxzDkz"
     },
     {
       "added_at": null,
@@ -511,54 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando El Sol Salga Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 181706,
-      "name": "Zapatos Nuevos",
-      "url": "https://open.spotify.com/track/7BcdzFXBXCaHVmOmoUXCmo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Jefe De Las Plazas",
-        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "El Bitachero",
-      "url": "https://open.spotify.com/track/3uGo2w4vTh6iktL20sEYb0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Millonario De Amor",
-        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 168626,
-      "name": "Ya No Me Preguntes",
-      "url": "https://open.spotify.com/track/46jA1c08Ti5zcSqnn1WgJu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serie Top Ten",
         "url": "https://open.spotify.com/album/74dGCcyijMhAuNLja18GUZ"
       },
@@ -591,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Millonario De Amor",
+        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 168626,
+      "name": "Ya No Me Preguntes",
+      "url": "https://open.spotify.com/track/46jA1c08Ti5zcSqnn1WgJu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e1s Exitos Con El Shaka",
         "url": "https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO"
       },
@@ -616,9 +584,25 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 198960,
-      "name": "M.P. Natural",
-      "url": "https://open.spotify.com/track/1LVPTmZhf9PNn2kHNFIImD"
+      "duration_ms": 182946,
+      "name": "El Bitachero",
+      "url": "https://open.spotify.com/track/3uGo2w4vTh6iktL20sEYb0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando El Sol Salga Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 181706,
+      "name": "Zapatos Nuevos",
+      "url": "https://open.spotify.com/track/7BcdzFXBXCaHVmOmoUXCmo"
     },
     {
       "added_at": null,
@@ -655,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Jefe De Las Plazas",
+        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "M.P. Natural",
+      "url": "https://open.spotify.com/track/1LVPTmZhf9PNn2kHNFIImD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Millonario De Amor",
         "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 242613,
       "name": "Quince Minutos De Ti",
       "url": "https://open.spotify.com/track/2fczBn1fEYW5vJASRovoln"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Jefe De Las Plazas",
-        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "El Santo De La Palma",
-      "url": "https://open.spotify.com/track/3W9AG3MZIN1EwBijFfpt91"
     },
     {
       "added_at": null,
@@ -719,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Jefe De Las Plazas",
+        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 194146,
+      "name": "El Santo De La Palma",
+      "url": "https://open.spotify.com/track/3W9AG3MZIN1EwBijFfpt91"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Plaza Nueva",
         "url": "https://open.spotify.com/album/1p3NVsYWDAYQAPfXEIpHk7"
       },
@@ -731,22 +731,6 @@
       "duration_ms": 218120,
       "name": "Arcoiris",
       "url": "https://open.spotify.com/track/2turqKp8C1j8kSg6EKU6x5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recordando A El Shaka",
-        "url": "https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 190026,
-      "name": "La Maestra - Ranchera Version",
-      "url": "https://open.spotify.com/track/1UUutkWcWg1vUeuWIlsuqW"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
       "duration_ms": 143229,
       "name": "Un Mar De Penas",
       "url": "https://open.spotify.com/track/6k4dy9siLo45PEbLHvOAVN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recordando A El Shaka",
+        "url": "https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "La Maestra - Ranchera Version",
+      "url": "https://open.spotify.com/track/1UUutkWcWg1vUeuWIlsuqW"
     },
     {
       "added_at": null,

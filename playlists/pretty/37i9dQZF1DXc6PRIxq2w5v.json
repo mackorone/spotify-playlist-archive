@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Lecrae, Lukas Agustinho",
-  "num_followers": 179342,
+  "num_followers": 179376,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -655,18 +655,26 @@
     {
       "added_at": "2025-02-28 03:01:05",
       "album": {
-        "name": "777 na Mente",
-        "url": "https://open.spotify.com/album/03yWHI8We0NZAfknyQJ0qT"
+        "name": "Te Agrade\u00e7o",
+        "url": "https://open.spotify.com/album/2OgK8zK56Xw5l5hMBryLhJ"
       },
       "artists": [
         {
-          "name": "Daniel Salez",
-          "url": "https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO"
+          "name": "Duardin",
+          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
-      "duration_ms": 165899,
-      "name": "777 na Mente",
-      "url": "https://open.spotify.com/track/0aSkRNhaDky7FO13Z13hGb"
+      "duration_ms": 157384,
+      "name": "Te Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/4YUOSGwxMeYB8oRXSqVykI"
     },
     {
       "added_at": "2025-02-28 03:01:05",
@@ -715,26 +723,18 @@
     {
       "added_at": "2025-02-28 03:01:05",
       "album": {
-        "name": "Te Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/2OgK8zK56Xw5l5hMBryLhJ"
+        "name": "777 na Mente",
+        "url": "https://open.spotify.com/album/03yWHI8We0NZAfknyQJ0qT"
       },
       "artists": [
         {
-          "name": "Duardin",
-          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+          "name": "Daniel Salez",
+          "url": "https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO"
         }
       ],
-      "duration_ms": 157384,
-      "name": "Te Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/4YUOSGwxMeYB8oRXSqVykI"
+      "duration_ms": 165899,
+      "name": "777 na Mente",
+      "url": "https://open.spotify.com/track/0aSkRNhaDky7FO13Z13hGb"
     },
     {
       "added_at": "2025-02-28 03:01:05",
@@ -1023,30 +1023,6 @@
     {
       "added_at": "2025-02-28 03:01:05",
       "album": {
-        "name": "B\u00edblia no Jeans",
-        "url": "https://open.spotify.com/album/1p3FBw3lyxNsvspB0k1xjb"
-      },
-      "artists": [
-        {
-          "name": "Kinho",
-          "url": "https://open.spotify.com/artist/66LPSXokrR2pkStUf6Ympt"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 138591,
-      "name": "B\u00edblia no Jeans",
-      "url": "https://open.spotify.com/track/3bZhgep8ZbUA5Sl9jH2CKv"
-    },
-    {
-      "added_at": "2025-02-28 03:01:05",
-      "album": {
         "name": "Sangue",
         "url": "https://open.spotify.com/album/68t3Pq78Lt2hAguwFSWUDj"
       },
@@ -1067,6 +1043,30 @@
       "duration_ms": 173548,
       "name": "Sangue",
       "url": "https://open.spotify.com/track/0iuI32iEQ10jIp5SOTxbqx"
+    },
+    {
+      "added_at": "2025-02-28 03:01:05",
+      "album": {
+        "name": "B\u00edblia no Jeans",
+        "url": "https://open.spotify.com/album/1p3FBw3lyxNsvspB0k1xjb"
+      },
+      "artists": [
+        {
+          "name": "Kinho",
+          "url": "https://open.spotify.com/artist/66LPSXokrR2pkStUf6Ympt"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 138591,
+      "name": "B\u00edblia no Jeans",
+      "url": "https://open.spotify.com/track/3bZhgep8ZbUA5Sl9jH2CKv"
     },
     {
       "added_at": "2025-02-28 03:01:05",

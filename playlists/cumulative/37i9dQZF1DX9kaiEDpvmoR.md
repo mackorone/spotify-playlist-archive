@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-306 songs - 17 hr 27 min
+307 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Are You Ok](https://open.spotify.com/track/2NRxZBBYN1RAEboT8wC60x) | [Anders Hojer](https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY) | [Are You Ok](https://open.spotify.com/album/2NlDrsaG6JjlxZoS5M8H0H) | 4:34 | 2024-08-08 | 2024-09-14 |
 | [Atlantic](https://open.spotify.com/track/5kIxyCOaIx7wxWnbVva9Nt) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Misemotional](https://open.spotify.com/album/3FaYgjSf0JzLIcrRcldU6s) | 3:14 | 2024-08-22 | 2024-10-04 |
 | [Backseat Driver](https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Backseat Driver](https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm) | 3:48 | 2024-10-10 |  |
-| [Badass High School Band](https://open.spotify.com/track/7CnkuNF0MUZ72hOJOd2KLG) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Badass High School Band](https://open.spotify.com/album/5wNBPhKhVXv1yOLB1mFxC4) | 3:54 | 2025-01-02 |  |
+| [Badass High School Band](https://open.spotify.com/track/7CnkuNF0MUZ72hOJOd2KLG) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Badass High School Band](https://open.spotify.com/album/5wNBPhKhVXv1yOLB1mFxC4) | 3:54 | 2025-01-02 | 2025-03-18 |
 | [Bar Thinking](https://open.spotify.com/track/2nJfr4oazvlWLoeNYZWQhD) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Bar Thinking](https://open.spotify.com/album/6JCtqw85DgIoIhu7xqA90c) | 3:05 | 2024-06-27 | 2024-08-30 |
 | [Bara vara mig själv](https://open.spotify.com/track/2FZ3LanaveWTMf2aWaMnpy) | [Lisa Miskovsky](https://open.spotify.com/artist/5J0dXmqEYctfFsmcakqZFH) | [Eljest](https://open.spotify.com/album/3D0jMkMGAaZ7AbPnYr4tJG) | 4:06 | 2025-03-10 |  |
 | [Bermuda Triangle](https://open.spotify.com/track/3VfcwjlkUMqbXlJlXpWr5u) | [Lexi Berg](https://open.spotify.com/artist/5ZN5AAuWmyLdheRP0rE7dK) | [Bermuda Triangle](https://open.spotify.com/album/1SaesdaWRe58QoVxuNqy5z) | 3:20 | 2024-09-19 | 2024-10-15 |
@@ -281,6 +281,7 @@
 | [Vi kommer aldrig](https://open.spotify.com/track/7kGS4wTFv3Mzu41Uxbcei8) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F), [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Vi kommer aldrig](https://open.spotify.com/album/5ey4CjvDR571IBBvhyRQew) | 3:13 | 2024-06-27 | 2024-08-16 |
 | [Vi lämnar det så](https://open.spotify.com/track/4ubcbAoGBNg3oS1JQBwtD7) | [PYK](https://open.spotify.com/artist/317eF06yGGhg5YgcNxDqvm) | [Vi lämnar det så](https://open.spotify.com/album/6ojlFDERZgValMPokz2ulK) | 3:03 | 2025-01-09 | 2025-01-17 |
 | [Vi står inte ut](https://open.spotify.com/track/79SPnz1ts8Qky3HrWxj3YA) | [Tomas Rimeika](https://open.spotify.com/artist/6gDITTUXRJ4mb0fhiOcyyz) | [Den klarnande april](https://open.spotify.com/album/5XpmuYfcGCz2P8k73UCnGG) | 3:17 | 2024-09-12 | 2024-09-20 |
+| [Via Dolorosa](https://open.spotify.com/track/2LEyM4qnfKydqSjV90OvZY) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Via Dolorosa](https://open.spotify.com/album/1n5WdaQJKAG8NTUq2M8d0f) | 4:36 | 2025-03-13 |  |
 | [Viker inte ner mig än](https://open.spotify.com/track/1PIDqdVm2Or0tep3zHbkBz) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn), [Vapendragarna](https://open.spotify.com/artist/2oLvIYXFghwfx85ywFoR2G) | [Viker inte ner mig än](https://open.spotify.com/album/2mFPWvGbmGbPErZLI1qAl2) | 3:47 | 2024-06-27 | 2024-10-25 |
 | [Vill ha mer \- 2024 Version](https://open.spotify.com/track/1GjRVj6OdWmFqRW7Uv8VII) | [Nordman](https://open.spotify.com/artist/71c9ORC5hHt0J1TGCa5nxN) | [Vill ha mer \(2024 Version\)](https://open.spotify.com/album/6ixoV6ViSH8oxveefb0IFl) | 2:44 | 2024-08-08 | 2024-10-13 |
 | [Vingar](https://open.spotify.com/track/2tv7wKMIWw9Z1NpcTN3XX5) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Vingar](https://open.spotify.com/album/3IhYDgccVPQzJ8Y0x1O7au) | 2:53 | 2024-06-27 | 2024-08-16 |

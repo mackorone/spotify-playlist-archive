@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : Asinine
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,542 likes - 40 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,533 likes - 40 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 2 | [LAISSE MOI](https://open.spotify.com/track/2HtLEBcHtlwr6yRaxEekTz) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [LE DERNIER RAYON DE SOLEIL](https://open.spotify.com/album/0RKowuKEHhFPmQlLbZi9Qv) | 2:30 |
 | 3 | [Fame](https://open.spotify.com/track/0GL5nwLsI6wWcYmivpsTTm) | [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq), [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [Fame](https://open.spotify.com/album/3ksC92vl5p5eK1MoJOEcmB) | 2:37 |
 | 4 | [Constellation](https://open.spotify.com/track/776EM83TyPF8nMX5lhk4wr) | [Caballero & JeanJass](https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6), [Stony Stone](https://open.spotify.com/artist/39eNWcMW3ts3zXEQQ34jgR) | [Constellation](https://open.spotify.com/album/4XRoAuZ0VH8uCQ4F6tvtTb) | 2:32 |
-| 5 | [CONTRE LA GALERE](https://open.spotify.com/track/5c1WHENe0qdFgBg265gYiX) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [CONTRE LA GALERE](https://open.spotify.com/album/7C01Ua8kaCqSSZOwZCgqZ9) | 3:09 |
-| 6 | [La vérité](https://open.spotify.com/track/4HgrXhFMT1CED72ea1WPWN) | [GS](https://open.spotify.com/artist/5rtvBFj4IeWDwKjf9cmeKv) | [La vérité](https://open.spotify.com/album/17zdMc6qzoHxgxoRjPMeNc) | 2:20 |
-| 7 | [BALKAN](https://open.spotify.com/track/3m2DXuw3P1PDwYZXBZADtE) | [clubb29](https://open.spotify.com/artist/0K7keeoOzJy1x8eQPVdgNg) | [BALKAN](https://open.spotify.com/album/3lim0OZua7PTdQFMmYPR9C) | 2:27 |
-| 8 | [Les miens](https://open.spotify.com/track/1uQ1ebo8QI290xQD2vg4FM) | [Sopico](https://open.spotify.com/artist/01fkQiYuBZt16vQ8iRIc7g) | [Les miens](https://open.spotify.com/album/6CHv8IHxHN3kw1JcbCG2sI) | 2:52 |
+| 5 | [La vérité](https://open.spotify.com/track/4HgrXhFMT1CED72ea1WPWN) | [GS](https://open.spotify.com/artist/5rtvBFj4IeWDwKjf9cmeKv) | [La vérité](https://open.spotify.com/album/17zdMc6qzoHxgxoRjPMeNc) | 2:20 |
+| 6 | [BALKAN](https://open.spotify.com/track/3m2DXuw3P1PDwYZXBZADtE) | [clubb29](https://open.spotify.com/artist/0K7keeoOzJy1x8eQPVdgNg) | [BALKAN](https://open.spotify.com/album/3lim0OZua7PTdQFMmYPR9C) | 2:27 |
+| 7 | [Les miens](https://open.spotify.com/track/1uQ1ebo8QI290xQD2vg4FM) | [Sopico](https://open.spotify.com/artist/01fkQiYuBZt16vQ8iRIc7g) | [Les miens](https://open.spotify.com/album/6CHv8IHxHN3kw1JcbCG2sI) | 2:52 |
+| 8 | [CONTRE LA GALERE](https://open.spotify.com/track/5c1WHENe0qdFgBg265gYiX) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [CONTRE LA GALERE](https://open.spotify.com/album/7C01Ua8kaCqSSZOwZCgqZ9) | 3:09 |
 | 9 | [Anchorage](https://open.spotify.com/track/0s3mKAIy0HRSnVhNxxwljF) | [Asinine](https://open.spotify.com/artist/2w10N3hV0WUy9gwONm435C) | [Anchorage](https://open.spotify.com/album/3HUcOAR2ctbnY0VqwneqtK) | 3:16 |
 | 10 | [PARIS COÛTE CHER](https://open.spotify.com/track/4HPzEje6SZaDT3zotP1WsP) | [PHLP](https://open.spotify.com/artist/14UW64obRS8GNXHzbRK9DL) | [PARIS COÛTE CHER](https://open.spotify.com/album/3Gamd30buPoNPHPs3bWROi) | 2:54 |
 | 11 | [404, Pt\. 2](https://open.spotify.com/track/1VFmdgGYXGBEfJEXEUHszX) | [Elh Kmer](https://open.spotify.com/artist/6DTpmzMa0Gz93kRKUo4JfQ) | [404, Pt\. 2](https://open.spotify.com/album/5dwWQbLbauuiF3anELjguk) | 3:14 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 39 | [ENDIABLÉ](https://open.spotify.com/track/2KiWTROXdDLUjhrbswMfT1) | [Golgoth](https://open.spotify.com/artist/6YPGhj88VOEmQ6e9qTotvA) | [ENDIABLÉ](https://open.spotify.com/album/4b6DIlesckixl2tPq7NLoy) | 2:59 |
 | 40 | [OH WOW](https://open.spotify.com/track/2t99hWfpJaPhVzyCQjctJv) | [Joha Wallas](https://open.spotify.com/artist/5LdU2LamUIoKGhEvOcDFvr) | [OH WOW](https://open.spotify.com/album/7dImm22cH2ki9SjL0iQkMq) | 2:41 |
 
-Snapshot ID: `Z9NjfQAAAABlTYOSvzeGvr0SSnXDxcIj`
+Snapshot ID: `Z9gMTwAAAAAQAifO1TjLVcKVCpp1trMj`

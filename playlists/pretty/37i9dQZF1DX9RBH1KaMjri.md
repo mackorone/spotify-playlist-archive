@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RBH1KaMjri.md) - [plain]
 
 > From the clubs to the piano bars, from yesterday to today, these are the sounds of queer NYC.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,171 likes - 49 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,188 likes - 49 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RBH1KaMjri.md) - [plain]
 | 11 | [I'm Always Chasing Rainbows \- Single Version](https://open.spotify.com/track/3qGSbmoxm34OL0HbyDaX9a) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [The Complete Decca Masters \(Plus\)](https://open.spotify.com/album/1FB5UJKvWTEVyFBAbHwIP0) | 2:59 |
 | 12 | [I Just Called to Say I Love You \(Live\)](https://open.spotify.com/track/1r6SLdvuhJ6IXJNBQaB1kv) | [Marie Blake](https://open.spotify.com/artist/6XDoNRZ6wX3tiN2NKhd9t6) | [The Five Oaks](https://open.spotify.com/album/4FG8wVAmMDKOUUXpDziWrX) | 4:16 |
 | 13 | [Hush, Hush, Sweet Charlotte](https://open.spotify.com/track/7piKtR55k2SsnV7I01ncNI) | [Patti Page](https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF) | [Hush, Hush Sweet Charlotte](https://open.spotify.com/album/5hrRtvlJL4JBUX5dIrwT1b) | 2:32 |
-| 14 | [I'll Be Seeing You](https://open.spotify.com/track/4H6qbtQCYJMP2OGwk7H5I5) | [Kahal](https://open.spotify.com/artist/3i9XdmQ8trYVj4EABWCDu5), [Sammy Fain](https://open.spotify.com/artist/6DcuGTufMNJ15KJuZpptqz), [Liberace](https://open.spotify.com/artist/695gNCDVviH3s5ZYVs2VNK) | [Liberace's Greatest Hits](https://open.spotify.com/album/6nVMzCH4PWgO38zESTtWyb) | 2:59 |
+| 14 | [I'll Be Seeing You](https://open.spotify.com/track/4H6qbtQCYJMP2OGwk7H5I5) | [Liberace](https://open.spotify.com/artist/695gNCDVviH3s5ZYVs2VNK) | [Liberace's Greatest Hits](https://open.spotify.com/album/6nVMzCH4PWgO38zESTtWyb) | 2:59 |
 | 15 | [Wicked Little Town](https://open.spotify.com/track/0THihoUsGU6TY5p8rSZ5QW) | [Stephen Trask](https://open.spotify.com/artist/6N8wx4up8tNTIulkyL6zHe) | [Hedwig And The Angry Inch \(Original Cast Recording\)](https://open.spotify.com/album/1nDUzE7LFkfVBRAf5ZSfbr) | 3:39 |
 | 16 | [Running up That Hill](https://open.spotify.com/track/1UcMeoZJrug09vdweKnb68) | [Kiki And Herb](https://open.spotify.com/artist/1i4qxoD3u9H6h8U1uPLT90) | [Will Die For You](https://open.spotify.com/album/7HfrDQ9eRVY22xgnFvW3G9) | 5:28 |
 | 17 | [The Golden Age of Hustlers](https://open.spotify.com/track/3acyAROGMUNFvQOHNXiFlR) | [Justin Vivian Bond](https://open.spotify.com/artist/7BeTLKIHLguUVyIrFP92jY) | [Dendrophile](https://open.spotify.com/album/1I4Tu4iB3peOC5fJNK8Bte) | 5:07 |

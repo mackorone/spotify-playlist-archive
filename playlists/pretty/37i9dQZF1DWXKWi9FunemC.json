@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 362751,
+  "num_followers": 362920,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Stay Close",
-        "url": "https://open.spotify.com/album/7oYNsctXYKRxdbcvrvXXmN"
-      },
-      "artists": [
-        {
-          "name": "Austin Sebek",
-          "url": "https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8"
-        }
-      ],
-      "duration_ms": 194716,
-      "name": "Stay Close",
-      "url": "https://open.spotify.com/track/3OAL4fkGJ2sImt2Lhy4D7V"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "In Bloom",
         "url": "https://open.spotify.com/album/1p2mOtXzL6GZV5NMuap85T"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 193000,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/2TNhDjD4wb5XFO2Z7FFWve"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Stay Close",
+        "url": "https://open.spotify.com/album/7oYNsctXYKRxdbcvrvXXmN"
+      },
+      "artists": [
+        {
+          "name": "Austin Sebek",
+          "url": "https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8"
+        }
+      ],
+      "duration_ms": 194716,
+      "name": "Stay Close",
+      "url": "https://open.spotify.com/track/3OAL4fkGJ2sImt2Lhy4D7V"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -839,30 +839,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Neighbor Songs",
-        "url": "https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So"
-      },
-      "artists": [
-        {
-          "name": "The Porter's Gate",
-          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
-        },
-        {
-          "name": "Casey J",
-          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
-        },
-        {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "Daughters of Zion",
-      "url": "https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Taste And See",
         "url": "https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg"
       },
@@ -915,6 +891,30 @@
       "duration_ms": 280054,
       "name": "Worth Mine",
       "url": "https://open.spotify.com/track/31Zcf0CbOcZy4Y2LX5pBsU"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Neighbor Songs",
+        "url": "https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Casey J",
+          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
+        },
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "Daughters of Zion",
+      "url": "https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I"
     },
     {
       "added_at": "2024-08-03 00:38:12",

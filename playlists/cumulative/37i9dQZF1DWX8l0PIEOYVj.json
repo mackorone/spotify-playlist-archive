@@ -6751,6 +6751,28 @@
     },
     {
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6ejls8K144xqnwYmBIfIqj"
+      },
+      "artists": [
+        {
+          "name": "Woyfer",
+          "url": "https://open.spotify.com/artist/5CFFpEKkEi23jPdCiXu5x4"
+        },
+        {
+          "name": "Donna Tella",
+          "url": "https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202058,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/4CVjl5t09xOnmYxkOrBdL9"
+    },
+    {
+      "album": {
         "name": "Higher Than Heaven",
         "url": "https://open.spotify.com/album/4aJ8OzxXJGc9aZzIwIEzjx"
       },
@@ -8444,7 +8466,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 210000,
       "name": "Lie",
       "url": "https://open.spotify.com/track/1lM7pNocZRjhiK7VK2VRTQ"

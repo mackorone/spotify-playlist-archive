@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "Inception",
+        "url": "https://open.spotify.com/album/73BrwGBY3zdh1234E5b0M1"
+      },
+      "artists": [
+        {
+          "name": "SpheraQ",
+          "url": "https://open.spotify.com/artist/3st3c9lOShlywDU01lnEEE"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 574049,
+      "name": "All The Pain",
+      "url": "https://open.spotify.com/track/3jnAffFaqxwrOmmrVthUzn"
+    },
+    {
+      "album": {
         "name": "Retro Feeling",
         "url": "https://open.spotify.com/album/4zgfozHgvODELDnbICeQCO"
       },
@@ -154,10 +172,32 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 352000,
       "name": "All The Time",
       "url": "https://open.spotify.com/track/0GlusaGgDCccKi0xr4xDXv"
+    },
+    {
+      "album": {
+        "name": "THE XO EFFECT",
+        "url": "https://open.spotify.com/album/60XGsGJPE77Xqtz2PExkaB"
+      },
+      "artists": [
+        {
+          "name": "Fatso 98",
+          "url": "https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr"
+        },
+        {
+          "name": "Deep Essentials",
+          "url": "https://open.spotify.com/artist/4GKBiT9eByOCqj0045uolO"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435576,
+      "name": "ALL THIS LOVE",
+      "url": "https://open.spotify.com/track/3wRO5WEymRqOmiVqAIIKmZ"
     },
     {
       "album": {
@@ -337,6 +377,28 @@
     },
     {
       "album": {
+        "name": "Bakulindele",
+        "url": "https://open.spotify.com/album/5gfX6L9OMQd3AuLqnEbV8s"
+      },
+      "artists": [
+        {
+          "name": "Charles Webster",
+          "url": "https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh"
+        },
+        {
+          "name": "Muzi",
+          "url": "https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418000,
+      "name": "Bakulindele - Extended Mix",
+      "url": "https://open.spotify.com/track/5AoaeWtWGTTICPhMbiUFBF"
+    },
+    {
+      "album": {
         "name": "BAUHAUS",
         "url": "https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07"
       },
@@ -440,7 +502,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 402056,
       "name": "Breathe - Ed-ward Remix",
       "url": "https://open.spotify.com/track/6nkQmI4HgnFuutM9fUkdAE"
@@ -1110,7 +1172,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 374444,
       "name": "Feeling.",
       "url": "https://open.spotify.com/track/0KIXHtySBkxDB3sNYIVjCj"
@@ -1428,7 +1490,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 447857,
       "name": "Grootman (Spiritual Love Affair)",
       "url": "https://open.spotify.com/track/3GkzVmBju18ibwKCIJwVwz"
@@ -2550,7 +2612,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 439980,
       "name": "Make My Heart Sing",
       "url": "https://open.spotify.com/track/4KTui0DbAetpOjMVRQqnhl"
@@ -3108,7 +3170,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 385717,
       "name": "Ngifuna Wena (Amalobolo)",
       "url": "https://open.spotify.com/track/6ewh3pmuRykYH8RMGoCb7M"
@@ -3346,10 +3408,32 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-17",
+      "date_removed": null,
       "duration_ms": 311649,
       "name": "Once Again - Mixed",
       "url": "https://open.spotify.com/track/4l4ORGf3ThdKDjjyCOxJdL"
+    },
+    {
+      "album": {
+        "name": "Reputation",
+        "url": "https://open.spotify.com/album/6Y9ZGpkBpSQwYj44xjTItS"
+      },
+      "artists": [
+        {
+          "name": "Sculptured Music",
+          "url": "https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN"
+        },
+        {
+          "name": "Jaidene Veda",
+          "url": "https://open.spotify.com/artist/5RnHlRFELc91Qk6dV6mhNG"
+        }
+      ],
+      "date_added": "2025-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326158,
+      "name": "Only You Know (feat. Jaidene Veda)",
+      "url": "https://open.spotify.com/track/7fdystua9Prp0XWWfpzBhv"
     },
     {
       "album": {
@@ -3512,7 +3596,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 416283,
       "name": "Praise You (feat. Kabza De Small & Stakev)",
       "url": "https://open.spotify.com/track/20ViaCg5GzOr9VPlGvJLaj"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí\. Foto: Vera GRV.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,102 likes - 27 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,104 likes - 27 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

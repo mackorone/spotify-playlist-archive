@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Chappell Roan \(Cover\), Zartmann, Selena Gomez und mehr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,526 likes - 96 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,535 likes - 96 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

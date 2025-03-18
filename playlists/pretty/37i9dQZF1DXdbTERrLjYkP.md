@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Sabrina Sterling
+> Discover the next wave of talent writing their own songs\. Cover: Aggy Ally
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,629 likes - 65 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,622 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lonely In Love](https://open.spotify.com/track/1ObXcuEtF8F9BIcRabX7kM) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Lonely In Love](https://open.spotify.com/album/3MeUdi6Ls8BwLkN1E8pmiR) | 2:38 |
-| 2 | [Fled Into The Night](https://open.spotify.com/track/0wZ3P7rmQeTdf9R13l6JgH) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Fled Into The Night](https://open.spotify.com/album/1fbkk6CLtaeyS1kKpNAvtM) | 4:07 |
-| 3 | [Want Me](https://open.spotify.com/track/4jM8r5G6yNfLbhf3kPm2s9) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Want Me](https://open.spotify.com/album/0p2KyEFZmeOiHUWbDmpABJ) | 3:33 |
-| 4 | [Savior](https://open.spotify.com/track/5h1ZgjFl9o9Bc1UTlJ9V1l) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Savior](https://open.spotify.com/album/06D1vzjX7t7zLZJd9xIJ7g) | 3:36 |
-| 5 | [leaving the light on](https://open.spotify.com/track/2laoiawCssC9Rwp9Y2tB0c) | [Siena](https://open.spotify.com/artist/2YLY2wTMVd6FwFqFLWwP7C) | [leaving the light on](https://open.spotify.com/album/0ivZgmUEVnj82IgMLyH4GY) | 2:58 |
-| 6 | [Think About It](https://open.spotify.com/track/04s3GWkrMPdbJwYFY6UloW) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [think about it](https://open.spotify.com/album/4yHUj0gc9nEAhOtWeGPJMH) | 4:09 |
-| 7 | [The Garden](https://open.spotify.com/track/3J0ALYQczECrd6tmUr5WUH) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [The Garden](https://open.spotify.com/album/4tGIrqpwEBRV2EbB0ckVDe) | 3:16 |
-| 8 | [Josephine](https://open.spotify.com/track/14ZMcrAWGFB0ltAxgrtH5U) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Josephine](https://open.spotify.com/album/1smFBTxb71pr5K3rVjc1Yt) | 4:37 |
-| 9 | [Why Keep Trying?](https://open.spotify.com/track/2ZN7xICw1NCMvDffky7Crj) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [Why Keep Trying?](https://open.spotify.com/album/3UUWAoL4MspBet1B7lNJNX) | 3:42 |
+| 1 | [Why Keep Trying?](https://open.spotify.com/track/2ZN7xICw1NCMvDffky7Crj) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [Why Keep Trying?](https://open.spotify.com/album/3UUWAoL4MspBet1B7lNJNX) | 3:42 |
+| 2 | [Lonely In Love](https://open.spotify.com/track/1ObXcuEtF8F9BIcRabX7kM) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Lonely In Love](https://open.spotify.com/album/3MeUdi6Ls8BwLkN1E8pmiR) | 2:38 |
+| 3 | [Fled Into The Night](https://open.spotify.com/track/0wZ3P7rmQeTdf9R13l6JgH) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Fled Into The Night](https://open.spotify.com/album/1fbkk6CLtaeyS1kKpNAvtM) | 4:07 |
+| 4 | [Want Me](https://open.spotify.com/track/4jM8r5G6yNfLbhf3kPm2s9) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Want Me](https://open.spotify.com/album/0p2KyEFZmeOiHUWbDmpABJ) | 3:33 |
+| 5 | [Savior](https://open.spotify.com/track/5h1ZgjFl9o9Bc1UTlJ9V1l) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Savior](https://open.spotify.com/album/06D1vzjX7t7zLZJd9xIJ7g) | 3:36 |
+| 6 | [leaving the light on](https://open.spotify.com/track/2laoiawCssC9Rwp9Y2tB0c) | [Siena](https://open.spotify.com/artist/2YLY2wTMVd6FwFqFLWwP7C) | [leaving the light on](https://open.spotify.com/album/0ivZgmUEVnj82IgMLyH4GY) | 2:58 |
+| 7 | [Think About It](https://open.spotify.com/track/04s3GWkrMPdbJwYFY6UloW) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [think about it](https://open.spotify.com/album/4yHUj0gc9nEAhOtWeGPJMH) | 4:09 |
+| 8 | [The Garden](https://open.spotify.com/track/3J0ALYQczECrd6tmUr5WUH) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [The Garden](https://open.spotify.com/album/4tGIrqpwEBRV2EbB0ckVDe) | 3:16 |
+| 9 | [Josephine](https://open.spotify.com/track/14ZMcrAWGFB0ltAxgrtH5U) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Josephine](https://open.spotify.com/album/1smFBTxb71pr5K3rVjc1Yt) | 4:37 |
 | 10 | [Bluebird](https://open.spotify.com/track/73k5rySilKqE1DRJ0VoNSi) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Bluebird](https://open.spotify.com/album/4bh2nuVjY6wuFaCGmsUCRb) | 3:31 |
 | 11 | [Before and After](https://open.spotify.com/track/35h9op1g3NEzO6hsCVg4WC) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Before and After](https://open.spotify.com/album/0UR3jVqkxNWkQq1jtNcyyb) | 2:48 |
 | 12 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 64 | [Flowers](https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Flowers](https://open.spotify.com/album/4zewk35WNIuJhQ9aR0MwQw) | 3:44 |
 | 65 | [Chameleon](https://open.spotify.com/track/4bYL3lV43UcPlRRUDeRvdH) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Chameleon](https://open.spotify.com/album/0a1Ml3TKQuBrnlaRUoyqA1) | 3:37 |
 
-Snapshot ID: `Z9OpwQAAAAAeR/5PFlpEb7MyfUDhhNIY`
+Snapshot ID: `Z9hrxAAAAABjJyctDH2BObF3Hh7dF+oA`

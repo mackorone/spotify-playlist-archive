@@ -1,12 +1,12 @@
 {
   "description": "This is Summer Walker. The essential tracks, all in one playlist.",
-  "num_followers": 130891,
+  "num_followers": 130908,
   "original_name": "This Is Summer Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9TDAAAAAADSz8fxhhzt4cJgRcnekLPW",
+  "snapshot_id": "Z9YUgAAAAABPcQtQtcKA3Cz8QfoW6dfy",
   "tracks": [
     {
       "added_at": null,
@@ -799,26 +799,6 @@
       "duration_ms": 127085,
       "name": "Session 33",
       "url": "https://open.spotify.com/track/1k7Sn04nBNcLKbSwORsFgJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poetic Pain",
-        "url": "https://open.spotify.com/album/353P9S1WpRssEgUvXW4kvo"
-      },
-      "artists": [
-        {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 215405,
-      "name": "Love Cycle (with Summer Walker)",
-      "url": "https://open.spotify.com/track/3JP7KdSVvcX3mTfitBp2Ec"
     }
   ],
   "unique_name": "This Is Summer Walker",

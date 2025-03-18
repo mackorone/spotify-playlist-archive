@@ -4,7 +4,7 @@
 
 > Un espacio dedicado a podcasts presentados o producidos por mujeres\. ¡Aquí el micrófono es de ellas!
 
-40 songs - 1 day 21 hr 6 min
+40 songs - 1 day 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Espacio seguro: Hablar de tabúes \| Eva y Diana, de Calladitas No](https://open.spotify.com/episode/22wlKcaYBImnBtlUftsRO3) | [SASKIA](https://open.spotify.com/show/1HiQLRMeAieigFscUqEg4y) | [SASKIA](https://open.spotify.com/album/1HiQLRMeAieigFscUqEg4y) | 42:09 | 2025-03-11 |  |
 | [FEMINISMO 30 \- T3](https://open.spotify.com/episode/7jvWztfJDco81LelqFpWwH) | [Seis de Copas](https://open.spotify.com/show/0rcejj6eHA5u2Z3geS2inO) | [Seis de Copas](https://open.spotify.com/album/0rcejj6eHA5u2Z3geS2inO) | 3:50:43 | 2025-03-11 |  |
 | [La Amistad l Las Alucines l 01x32](https://open.spotify.com/episode/09A65oSB87KBxo7MhMba1t) | [Las Alucines](https://open.spotify.com/show/5kopp3hL0uRgLZUh7nOvia) | [Las Alucines](https://open.spotify.com/album/5kopp3hL0uRgLZUh7nOvia) | 1:09:33 | 2025-03-11 |  |
-| [Los mejores consejos a mis 20's.](https://open.spotify.com/episode/2tkzxjNZqsLW21WVw4bLls) | [SIN FILTRO PODCAST](https://open.spotify.com/show/58KeGycCHLpvwHZM2yAhXL) | [SIN FILTRO PODCAST](https://open.spotify.com/album/58KeGycCHLpvwHZM2yAhXL) | 34:58 | 2025-03-11 |  |
+| [Los mejores consejos a mis 20's.](https://open.spotify.com/episode/2tkzxjNZqsLW21WVw4bLls) | [SIN FILTRO PODCAST](https://open.spotify.com/show/58KeGycCHLpvwHZM2yAhXL) | [SIN FILTRO PODCAST](https://open.spotify.com/album/58KeGycCHLpvwHZM2yAhXL) | 34:15 | 2025-03-11 |  |
 | [Mamitis Viajera 😐✈️ @EvaMariaBeristain \#chisme](https://open.spotify.com/episode/2LiUvlwAzyzqy4KNw4s3mf) | [Noche De Chicxs](https://open.spotify.com/show/06X9VZLwWLBNiHS0sbdmmt) | [Noche De Chicxs](https://open.spotify.com/album/06X9VZLwWLBNiHS0sbdmmt) | 1:26:34 | 2024-03-07 | 2025-03-11 |
 | [Menú para un orgasmo, mecarillas, arte , erotismo y pornografia.](https://open.spotify.com/episode/0Jhl9Ez1bsKnkUfT1Rmcru) | [The F\* Talk](https://open.spotify.com/show/3qQvFH5jBPPF7JdbtbsaiX) | [The F\* Talk](https://open.spotify.com/album/3qQvFH5jBPPF7JdbtbsaiX) | 39:23 | 2024-03-07 | 2025-03-11 |
 | [Mi DATE me ABANDONÓ en el MCDONALD’S \(EP57\)](https://open.spotify.com/episode/5bfPKhjPsBuQ5TKr9d7yvn) | [Dos Mujeres Una Copa](https://open.spotify.com/show/0wuvVwMzGhs3cqn83v1uZf) | [Dos Mujeres Una Copa](https://open.spotify.com/album/0wuvVwMzGhs3cqn83v1uZf) | 22:37 | 2024-03-07 | 2025-03-11 |

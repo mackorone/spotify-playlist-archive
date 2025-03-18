@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Dani Gambino",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Strat",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -130,7 +130,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 198066,
       "name": "4 My People",
       "url": "https://open.spotify.com/track/6VazZGCjYSMKpU50JXH9qz"
@@ -454,6 +454,24 @@
       "duration_ms": 177272,
       "name": "ANATOLI",
       "url": "https://open.spotify.com/track/1XaESunLfD5BmNNjSExrHq"
+    },
+    {
+      "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
     },
     {
       "album": {
@@ -1384,10 +1402,28 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 272000,
       "name": "Europa League",
       "url": "https://open.spotify.com/track/10XT0sJ9X6mphdFnkPcutl"
+    },
+    {
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183928,
+      "name": "EVIL J0RDAN",
+      "url": "https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w"
     },
     {
       "album": {
@@ -1538,7 +1574,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 211187,
       "name": "Fuck Polizei",
       "url": "https://open.spotify.com/track/4jkBnmyINno5OGQe1D5PK1"
@@ -1564,6 +1600,32 @@
       "duration_ms": 186122,
       "name": "FWTIA",
       "url": "https://open.spotify.com/track/49Nl81fFdiJEVLhhhaDLqC"
+    },
+    {
+      "album": {
+        "name": "GUARANTEE",
+        "url": "https://open.spotify.com/album/2nQHKHLCJ7dqjQeld96iFK"
+      },
+      "artists": [
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "Mad Clip",
+          "url": "https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151898,
+      "name": "GANGSTA",
+      "url": "https://open.spotify.com/track/2fduNRNDHBMVBtOX4bZNvX"
     },
     {
       "album": {
@@ -1722,6 +1784,24 @@
       "duration_ms": 155076,
       "name": "GIMMIE",
       "url": "https://open.spotify.com/track/3C4vDKPYaUpG0ZH8y4axeV"
+    },
+    {
+      "album": {
+        "name": "Gin & Bacardi",
+        "url": "https://open.spotify.com/album/2UqSxctXVnDQSBF3mcfrXY"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178560,
+      "name": "Gin & Bacardi",
+      "url": "https://open.spotify.com/track/0j4ZUJgIYKPG3EsnvH6l2Q"
     },
     {
       "album": {
@@ -2291,6 +2371,28 @@
     },
     {
       "album": {
+        "name": "GUARANTEE",
+        "url": "https://open.spotify.com/album/2nQHKHLCJ7dqjQeld96iFK"
+      },
+      "artists": [
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "KRISTY",
+      "url": "https://open.spotify.com/track/7Eo50lcMqtHXAfjVW3ladX"
+    },
+    {
+      "album": {
         "name": "KSANA",
         "url": "https://open.spotify.com/album/5S9Qckpu5pJdznQEvPpuMM"
       },
@@ -2742,7 +2844,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 182376,
       "name": "Mesanyxta",
       "url": "https://open.spotify.com/track/7k1NpTv7vNWaZbIU3UxGol"
@@ -3516,7 +3618,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 225230,
       "name": "PROVLIMA",
       "url": "https://open.spotify.com/track/539dzbXamyNpK1LA9LMWdW"

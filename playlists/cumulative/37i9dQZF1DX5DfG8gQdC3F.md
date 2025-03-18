@@ -2,9 +2,9 @@
 
 ### [New Music Friday Canada](https://open.spotify.com/playlist/37i9dQZF1DX5DfG8gQdC3F)
 
-> New music from Chappell Roan, Mother Mother, Warren Zeiders, HAIM and more!
+> New music from Chappell Roan, Playboi Carti, Mother Mother, Warren Zeiders, HAIM and more!
 
-16,220 songs - 35 day 21 hr 4 min
+16,221 songs - 35 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1876,7 +1876,7 @@
 | [BLVCK](https://open.spotify.com/track/3Xk1P17aNuts1bsUegex9n) | [La+ch](https://open.spotify.com/artist/22w0Xg5kpu5simeHw3afNG), [SVDP](https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb), [Backxwash](https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg) | [BLVCK](https://open.spotify.com/album/3aqSx1cZdYG06hrDHxRpjx) | 3:13 | 2024-02-02 | 2024-02-10 |
 | [BMXXing](https://open.spotify.com/track/5xR8ngEQmlQ1U2xSE0KzTo) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [BMXXing](https://open.spotify.com/album/5cH3Lzm6kYM7sxkpDprzkd) | 2:35 | 2024-06-07 | 2024-06-15 |
 | [BOA](https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [BOA](https://open.spotify.com/album/0oXRheajSwu5UTpcDzloop) | 2:34 | 2024-05-10 | 2024-05-18 |
-| [Boadicea](https://open.spotify.com/track/11fOGBS2bqTj9EYkJjlYvs) | [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Boadicea](https://open.spotify.com/album/4ulFJZge5LMnGfMNeD6uh2) | 3:17 | 2025-03-14 |  |
+| [Boadicea](https://open.spotify.com/track/11fOGBS2bqTj9EYkJjlYvs) | [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Boadicea](https://open.spotify.com/album/4ulFJZge5LMnGfMNeD6uh2) | 3:17 | 2025-03-14 | 2025-03-18 |
 | [Boat](https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Boat](https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS) | 3:05 | 2023-04-21 | 2023-04-29 |
 | [Bobby Sox](https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:44 | 2024-01-19 | 2024-01-27 |
 | [Bobtail Road](https://open.spotify.com/track/5kPu5GCBKldjAy2sMgU2bU) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [Bobtail Road](https://open.spotify.com/album/37pFeBTwztjSqMzYqTcEqV) | 3:32 | 2023-10-13 | 2023-10-21 |
@@ -5539,6 +5539,7 @@
 | [Good Care](https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Good Care](https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d) | 3:14 | 2023-01-27 | 2023-02-04 |
 | [Good Company](https://open.spotify.com/track/0bs4c6mFxhNMqQvOjv4vR3) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Good Company](https://open.spotify.com/album/2PgLWCDmJKChhZab33Pth9) | 2:37 | 2022-12-02 | 2022-12-10 |
 | [Good Cookin'](https://open.spotify.com/track/3sLMQigQqOlOMbTeZNJQdB) | [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Johnny Venus](https://open.spotify.com/artist/2Gs98Wl43BSYOJcExQ58Sx) | [Good Cookin'](https://open.spotify.com/album/1y71gH8af9vqXieR1GM3Zx) | 3:54 | 2024-11-08 | 2024-11-16 |
+| [GOOD CREDIT \(with Kendrick Lamar\)](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-17 |  |
 | [Good Die Young](https://open.spotify.com/track/4PBbKFSAr3d5EjdYlBOkyO) | [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X), [Nukky](https://open.spotify.com/artist/36Y5yKxh2CVhwXDuRMIc69), [Karl Wolf](https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7) | [Built Different](https://open.spotify.com/album/2NC1EwNfx1iiYTgM5ES2lb) | 2:14 | 2023-10-20 | 2023-10-28 |
 | [Good Dream](https://open.spotify.com/track/1U4jlnas1vDAI9BNtpyohV) | [Mae Martin](https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn) | [Good Dream / Stowaway](https://open.spotify.com/album/3nIJ6OwyVRrRaV3iynN5HE) | 3:03 | 2025-01-24 | 2025-02-01 |
 | [Good Enough](https://open.spotify.com/track/5Ev582e7ykI3jVCCJ0ECZM) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/3HVCEunHy1YDjtBjmWNdtv) | 3:02 | 2023-08-11 | 2023-08-19 |

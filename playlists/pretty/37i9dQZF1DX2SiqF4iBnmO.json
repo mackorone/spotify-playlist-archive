@@ -1,6 +1,6 @@
 {
   "description": "Only music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 138634,
+  "num_followers": 138701,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
@@ -51,6 +51,22 @@
     {
       "added_at": "2024-07-10 08:31:19",
       "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "added_at": "2024-07-10 08:31:19",
+      "album": {
         "name": "FutureSex/LoveSounds",
         "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
       },
@@ -67,22 +83,6 @@
       "duration_ms": 242733,
       "name": "SexyBack (feat. Timbaland)",
       "url": "https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR"
-    },
-    {
-      "added_at": "2024-07-10 08:31:19",
-      "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 291293,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2024-07-10 08:31:19",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-07-10 08:31:19",
       "album": {
-        "name": "Thump Pick Six Connie",
-        "url": "https://open.spotify.com/album/113nqnTrK2JWXpKAGySjtN"
-      },
-      "artists": [
-        {
-          "name": "Connie",
-          "url": "https://open.spotify.com/artist/1ejdpp0rh0w6ppfEYlcZdx"
-        }
-      ],
-      "duration_ms": 276840,
-      "name": "Funky Little Beat",
-      "url": "https://open.spotify.com/track/4pf3zH0mVt3UdZfa0Veoyx"
-    },
-    {
-      "added_at": "2024-07-10 08:31:19",
-      "album": {
         "name": "Ce n'est q'un d\u00e9but (Remastered)",
         "url": "https://open.spotify.com/album/4LIUpkPUBnNGUYkgNuCHAs"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 270008,
       "name": "Probl\u00e8mes d'Amour",
       "url": "https://open.spotify.com/track/5BCD68l2CC8BdJB0ZGA3N9"
+    },
+    {
+      "added_at": "2024-07-10 08:31:19",
+      "album": {
+        "name": "Thump Pick Six Connie",
+        "url": "https://open.spotify.com/album/113nqnTrK2JWXpKAGySjtN"
+      },
+      "artists": [
+        {
+          "name": "Connie",
+          "url": "https://open.spotify.com/artist/1ejdpp0rh0w6ppfEYlcZdx"
+        }
+      ],
+      "duration_ms": 276840,
+      "name": "Funky Little Beat",
+      "url": "https://open.spotify.com/track/4pf3zH0mVt3UdZfa0Veoyx"
     }
   ],
   "unique_name": "808 Classics",

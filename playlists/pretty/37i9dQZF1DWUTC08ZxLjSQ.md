@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Ayoub Hattab\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,639 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,643 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [NSAY](https://open.spotify.com/track/11VT3trAQIQEu7eoAohlgu) | [Ayoub Hattab](https://open.spotify.com/artist/718mVE4zMicra6iqqKY5h3) | [NSAY](https://open.spotify.com/album/0gPZzBI5DxJPzSxH75EuIR) | 3:47 |
 | 2 | [هما سابونا](https://open.spotify.com/track/7oTnx9O7DubWLOvjYn8tai) | [Rahal](https://open.spotify.com/artist/1omKn2cMrRaKnCcOOeQ4yg) | [الخوف](https://open.spotify.com/album/4FXMWjo5IxroKIZSjaS0v9) | 3:02 |
 | 3 | [200](https://open.spotify.com/track/3rrS7mcwknkYKMyuc35cqR) | [Sakt](https://open.spotify.com/artist/1eMFiDZA4Kzrzru5Ni4zWy), [REVU](https://open.spotify.com/artist/11Hsr9QUjZgI5ABHm4urjT) | [200](https://open.spotify.com/album/5fh9U7dE6CMhhuEfWtBEi5) | 2:02 |
-| 4 | [بطل اللّيل](https://open.spotify.com/track/5EkZW0pGpwaVkPomonWYsd) | [Nour Yamm](https://open.spotify.com/artist/0DiKAWOh13CGK5v0f8KyXR) | [بطل اللّيل](https://open.spotify.com/album/6O9WlkU4z1lN6zH0BfvILZ) | 3:20 |
-| 5 | [SHIKA SHYAKA](https://open.spotify.com/track/7q38eXaAnnVFZPLFZNu1e5) | [Shikago](https://open.spotify.com/artist/54LaKdog6976vaviJ1JoWH) | [SHIKA SHYAKA](https://open.spotify.com/album/0CpyR13JBqQuX5zxuuzzzR) | 2:27 |
-| 6 | [Ballerina](https://open.spotify.com/track/78fs5ektDphjXmEjZy99Do) | [SeLTa](https://open.spotify.com/artist/3bguvSKT0vGUlQ07zEyxfP) | [Ballerina](https://open.spotify.com/album/4RsqLNot8uxTQGH0FBoQTZ) | 3:08 |
-| 7 | [SHI YOUM](https://open.spotify.com/track/5tRkSiBQIratndFW0vEyYp) | [Nawal](https://open.spotify.com/artist/4I7cv8uAvHYwNrMgHer9bV) | [SHI YOUM](https://open.spotify.com/album/2ywLVuySYv49ljRVcGRbdh) | 3:17 |
-| 8 | [Maybelline](https://open.spotify.com/track/1MDTKxx1WtO0kqXg0wbwTP) | [Mosalem](https://open.spotify.com/artist/0GAz4YKcVJUZHWQxvQit51), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [Maybelline](https://open.spotify.com/album/29BLOMEe1K0m2BDyQfBLPk) | 3:07 |
-| 9 | [OTRA VIE](https://open.spotify.com/track/2VqS3Le78P5Wu079l5NhGU) | [Versa999](https://open.spotify.com/artist/3RRMhfBORIKZm7UHVPxlaF) | [SABRE](https://open.spotify.com/album/6g1Ydfai9gjc79aBIjCa3R) | 2:26 |
-| 10 | [طوفان](https://open.spotify.com/track/6DzSH06EC0ZHUnlhNkfzup) | [Nagham Saleh](https://open.spotify.com/artist/0wrEkzmsrMABB9Kd3IBuuL), [Sulisizer](https://open.spotify.com/artist/5bih06rDRtnqB7v5S8MTSE) | [طوفان](https://open.spotify.com/album/5MfAP8f8YEshTl5QHN7H4C) | 3:28 |
-| 11 | [Akhir mra andwi 3lik](https://open.spotify.com/track/6L4GDVK68EqR55ZU9S1AzZ) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [Akhir mra andwi 3lik](https://open.spotify.com/album/0ImYUSh7Nm5weQenDdzWPt) | 3:43 |
+| 4 | [Akhir mra andwi 3lik](https://open.spotify.com/track/6L4GDVK68EqR55ZU9S1AzZ) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [Akhir mra andwi 3lik](https://open.spotify.com/album/0ImYUSh7Nm5weQenDdzWPt) | 3:43 |
+| 5 | [بطل اللّيل](https://open.spotify.com/track/5EkZW0pGpwaVkPomonWYsd) | [Nour Yamm](https://open.spotify.com/artist/0DiKAWOh13CGK5v0f8KyXR) | [بطل اللّيل](https://open.spotify.com/album/6O9WlkU4z1lN6zH0BfvILZ) | 3:20 |
+| 6 | [SHIKA SHYAKA](https://open.spotify.com/track/7q38eXaAnnVFZPLFZNu1e5) | [Shikago](https://open.spotify.com/artist/54LaKdog6976vaviJ1JoWH) | [SHIKA SHYAKA](https://open.spotify.com/album/0CpyR13JBqQuX5zxuuzzzR) | 2:27 |
+| 7 | [Ballerina](https://open.spotify.com/track/78fs5ektDphjXmEjZy99Do) | [SeLTa](https://open.spotify.com/artist/3bguvSKT0vGUlQ07zEyxfP) | [Ballerina](https://open.spotify.com/album/4RsqLNot8uxTQGH0FBoQTZ) | 3:08 |
+| 8 | [SHI YOUM](https://open.spotify.com/track/5tRkSiBQIratndFW0vEyYp) | [Nawal](https://open.spotify.com/artist/4I7cv8uAvHYwNrMgHer9bV) | [SHI YOUM](https://open.spotify.com/album/2ywLVuySYv49ljRVcGRbdh) | 3:17 |
+| 9 | [Maybelline](https://open.spotify.com/track/1MDTKxx1WtO0kqXg0wbwTP) | [Mosalem](https://open.spotify.com/artist/0GAz4YKcVJUZHWQxvQit51), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [Maybelline](https://open.spotify.com/album/29BLOMEe1K0m2BDyQfBLPk) | 3:07 |
+| 10 | [OTRA VIE](https://open.spotify.com/track/2VqS3Le78P5Wu079l5NhGU) | [Versa999](https://open.spotify.com/artist/3RRMhfBORIKZm7UHVPxlaF) | [SABRE](https://open.spotify.com/album/6g1Ydfai9gjc79aBIjCa3R) | 2:26 |
+| 11 | [طوفان](https://open.spotify.com/track/6DzSH06EC0ZHUnlhNkfzup) | [Nagham Saleh](https://open.spotify.com/artist/0wrEkzmsrMABB9Kd3IBuuL), [Sulisizer](https://open.spotify.com/artist/5bih06rDRtnqB7v5S8MTSE) | [طوفان](https://open.spotify.com/album/5MfAP8f8YEshTl5QHN7H4C) | 3:28 |
 | 12 | [Carlos](https://open.spotify.com/track/6FLCfjtaMnrPEekgs8gXvo) | [Alvin](https://open.spotify.com/artist/6xUqSYMbFny0Ykts599lMA), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Ameen](https://open.spotify.com/album/2OUcKfMj7bfT835aMtnfRX) | 2:33 |
 | 13 | [Ma7atta](https://open.spotify.com/track/0euDvd4QFkYT3l6odgwHM1) | [CØZMIC](https://open.spotify.com/artist/4ryHxFelvcMsJw8yox4M5H), [ASTRO](https://open.spotify.com/artist/4jFrvW7EKQviP7bhUNfSTv) | [Ma7atta](https://open.spotify.com/album/0LOP57Nq57T9tHNfcQKvbA) | 3:49 |
 | 14 | [Nafas](https://open.spotify.com/track/2Btno75FFpfIMwzcGhXlKx) | [Seera](https://open.spotify.com/artist/2F1QgtQgZA2gx2ovc1bEkc), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Nafas](https://open.spotify.com/album/1lnHGQ4S6ZeRwfVlfs4Gft) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [ما في دراما](https://open.spotify.com/track/1QNVvnsVd7xuROBW0zsfp7) | [Nurzy](https://open.spotify.com/artist/5kdhUtn46gU4rHVSbHRVEE) | [ما في دراما](https://open.spotify.com/album/1LqhYqrtXru7BtclhJtdeL) | 4:00 |
 | 50 | [Ya Lala](https://open.spotify.com/track/47qNUxTHGDEaXabp6v1OBj) | [Majaz](https://open.spotify.com/artist/6SMbDiMWTUPhoyEhPwzn0H) | [Ya Lala](https://open.spotify.com/album/66lnvwhzM6WKPtIdTuWy8L) | 4:53 |
 
-Snapshot ID: `Z7MUOgAAAAA6GWaTXFrEaBeJ59V+lJpt`
+Snapshot ID: `Z9gGMQAAAACyl4YNbVw1RMc3dQeQ9qR4`

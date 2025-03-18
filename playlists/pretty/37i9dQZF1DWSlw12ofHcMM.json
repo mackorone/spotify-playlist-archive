@@ -1,6 +1,6 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1378000,
+  "num_followers": 1378072,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Reskinned",
-        "url": "https://open.spotify.com/album/2n775kjBbQspGYqtEISssJ"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 222733,
-      "name": "Trouble In Mind",
-      "url": "https://open.spotify.com/track/1kB0EodRXnYykSHZZOPnf6"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "Wary + Strange",
         "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 215560,
       "name": "Trouble Finds You",
       "url": "https://open.spotify.com/track/1gwDIyATjLVi42oBsyUgyJ"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Reskinned",
+        "url": "https://open.spotify.com/album/2n775kjBbQspGYqtEISssJ"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 222733,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/1kB0EodRXnYykSHZZOPnf6"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Want",
-        "url": "https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ"
+        "name": "Black Sun",
+        "url": "https://open.spotify.com/album/6b7USoPQHOlfaelSrPPVo9"
       },
       "artists": [
         {
-          "name": "Kelsey Waters",
-          "url": "https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT"
+          "name": "Irma",
+          "url": "https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f"
         }
       ],
-      "duration_ms": 170810,
-      "name": "Want",
-      "url": "https://open.spotify.com/track/7BVRDaghQHyDqtRdjdMTsu"
+      "duration_ms": 206634,
+      "name": "Black Sun",
+      "url": "https://open.spotify.com/track/63UtBlg0KZZYueVi6r8DQp"
     }
   ],
   "unique_name": "Swagger",

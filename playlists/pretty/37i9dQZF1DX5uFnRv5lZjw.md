@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uFnRv5lZjw.md) - [plain]
 
 > 2025: doom scrolling is out, off\-grid is in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 759 likes - 45 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 921 likes - 45 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,22 +35,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uFnRv5lZjw.md) - [plain]
 | 25 | [Healing Tendrils](https://open.spotify.com/track/41ThXtLwrQtNmL4kxtoHKe) | [Stanley Lloyd](https://open.spotify.com/artist/32BtOzjlmKXKmYpKFIX6OY) | [Healing Tendrils](https://open.spotify.com/album/0RiGwcltuObnCRpjiAOpJS) | 2:40 |
 | 26 | [With Winds Free](https://open.spotify.com/track/6MpLfCVfp8IshjM6eqQQhC) | [Waqar Jachin](https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu) | [With Winds Free](https://open.spotify.com/album/1HdDpEpJGTt1MdU7t491Ov) | 2:29 |
 | 27 | [Stronghold](https://open.spotify.com/track/7u88VSbgr8shaE8AEQgxWr) | [Eldur Hæettu](https://open.spotify.com/artist/1lGzKi0vUzzzT5b2U4CMHC) | [Stronghold](https://open.spotify.com/album/0sgtGomrGyyVDpMka5CFAK) | 2:51 |
-| 28 | [Copper Corners](https://open.spotify.com/track/2ZOHuRyNd05kKlsZVKPnuD) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Copper Corners](https://open.spotify.com/album/1ex8osQco2SsMVEvJBrwEA) | 2:24 |
-| 29 | [Moment In Time](https://open.spotify.com/track/6elxWhsFbXqdYuD7QCeWgM) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Moment In Time](https://open.spotify.com/album/2THxRrRB28hjygxAf7y7JW) | 2:10 |
-| 30 | [When you know, you know](https://open.spotify.com/track/4CsFtHD9LKRpBHmj9rowFq) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [When you know, you know](https://open.spotify.com/album/3q8ciLZpMajLdjS9i7oUpm) | 2:40 |
-| 31 | [Playful Wind](https://open.spotify.com/track/7rOurgjncvw0IFiCJiEI7o) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Playful Wind](https://open.spotify.com/album/6ubQk4XamI1kBK1CqUDiSz) | 2:05 |
+| 28 | [Playful Wind](https://open.spotify.com/track/7rOurgjncvw0IFiCJiEI7o) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Playful Wind](https://open.spotify.com/album/6ubQk4XamI1kBK1CqUDiSz) | 2:05 |
+| 29 | [Copper Corners](https://open.spotify.com/track/2ZOHuRyNd05kKlsZVKPnuD) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Copper Corners](https://open.spotify.com/album/1ex8osQco2SsMVEvJBrwEA) | 2:24 |
+| 30 | [Moment In Time](https://open.spotify.com/track/6elxWhsFbXqdYuD7QCeWgM) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Moment In Time](https://open.spotify.com/album/2THxRrRB28hjygxAf7y7JW) | 2:10 |
+| 31 | [When you know, you know](https://open.spotify.com/track/4CsFtHD9LKRpBHmj9rowFq) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [When you know, you know](https://open.spotify.com/album/3q8ciLZpMajLdjS9i7oUpm) | 2:40 |
 | 32 | [Laurence](https://open.spotify.com/track/5VW6aFOUabBvUI94eDFVSe) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [Laurence](https://open.spotify.com/album/56xYvj6tVsPP8HpZYphfUW) | 3:00 |
-| 33 | [Are You Sure](https://open.spotify.com/track/2TqLlM0y1UJMRIrbunTpmG) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Are You Sure](https://open.spotify.com/album/2VKd1pXPnFyyhbNryo22um) | 2:10 |
-| 34 | [The Great Unknown](https://open.spotify.com/track/4l9EIKt3aYxiGm0Qm2FdoB) | [Sam & Me](https://open.spotify.com/artist/0I6YHl8NdEHLGwdklwhTCm) | [The Great Unknown](https://open.spotify.com/album/3gMUGhgcBKa0hdHQyuGgvR) | 1:46 |
+| 33 | [The Great Unknown](https://open.spotify.com/track/4l9EIKt3aYxiGm0Qm2FdoB) | [Sam & Me](https://open.spotify.com/artist/0I6YHl8NdEHLGwdklwhTCm) | [The Great Unknown](https://open.spotify.com/album/3gMUGhgcBKa0hdHQyuGgvR) | 1:46 |
+| 34 | [Are You Sure](https://open.spotify.com/track/2TqLlM0y1UJMRIrbunTpmG) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Are You Sure](https://open.spotify.com/album/2VKd1pXPnFyyhbNryo22um) | 2:10 |
 | 35 | [Talk to Them](https://open.spotify.com/track/3oGWkoSBS9wpmf48OlI54i) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Talk to Them](https://open.spotify.com/album/2KuOjVGZuTGKh260hLfX3T) | 2:24 |
-| 36 | [Fleeting Dreams](https://open.spotify.com/track/5gHcTERPThy3uSkgj8Cegt) | [Ash Forrest](https://open.spotify.com/artist/6hoYRcfEHX7qRbBvQpoGCV) | [Fleeting Dreams](https://open.spotify.com/album/2Yqf95s4VCPO21d5URnAR1) | 2:21 |
-| 37 | [Skyline Sonnet](https://open.spotify.com/track/5IqPPFogK8Quw9iKgnvqxl) | [Quentin Noire](https://open.spotify.com/artist/1FXZ3lnXGrC1N5WGYOzmRm) | [Skyline Sonnet](https://open.spotify.com/album/0pLZ2ao9Gg7nKiIWewdlVh) | 2:36 |
+| 36 | [Skyline Sonnet](https://open.spotify.com/track/5IqPPFogK8Quw9iKgnvqxl) | [Quentin Noire](https://open.spotify.com/artist/1FXZ3lnXGrC1N5WGYOzmRm) | [Skyline Sonnet](https://open.spotify.com/album/0pLZ2ao9Gg7nKiIWewdlVh) | 2:36 |
+| 37 | [In Regards to A Dream](https://open.spotify.com/track/6KMe6OFo5QCi9co4Vnfz8I) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [In Regards to A Dream](https://open.spotify.com/album/19VRs67fPxLG5QzQME6zE8) | 3:03 |
 | 38 | [Hiver](https://open.spotify.com/track/3X7jAbQljjes5YZPV1TAUP) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Hiver](https://open.spotify.com/album/1wKl4ZvsF3qx5EVq9hKgy4) | 2:29 |
-| 39 | [In Regards to A Dream](https://open.spotify.com/track/6KMe6OFo5QCi9co4Vnfz8I) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [In Regards to A Dream](https://open.spotify.com/album/19VRs67fPxLG5QzQME6zE8) | 3:03 |
+| 39 | [Fleeting Dreams](https://open.spotify.com/track/5gHcTERPThy3uSkgj8Cegt) | [Ash Forrest](https://open.spotify.com/artist/6hoYRcfEHX7qRbBvQpoGCV) | [Fleeting Dreams](https://open.spotify.com/album/2Yqf95s4VCPO21d5URnAR1) | 2:21 |
 | 40 | [Far Apart](https://open.spotify.com/track/0fRhQua0hDniGl8Ya6FObR) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Far Apart](https://open.spotify.com/album/0qhruBrhX5rEM8dyCXOK0X) | 2:04 |
 | 41 | [Padua](https://open.spotify.com/track/51uN1ea8n1Gcy8oTe7LddO) | [Seán Ó Riain](https://open.spotify.com/artist/5UppcMSMhMJ0GkluIUwwF2) | [Padua](https://open.spotify.com/album/6zYcA2On0fSISK9SH4dAFX) | 2:32 |
-| 42 | [Home](https://open.spotify.com/track/4dOD4uPnmDmh8LKkC3jQ8o) | [Sune Klintberg](https://open.spotify.com/artist/3TXiQjSvTxhlNZTML8XJQY) | [Home](https://open.spotify.com/album/6m4x8gXUxYmkr7Dj850nzg) | 2:46 |
-| 43 | [Follow](https://open.spotify.com/track/3d5Mi2IFJ9J4MSWwUFvyEl) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Follow](https://open.spotify.com/album/1R8czr85JJr1ouJ4KI3BPS) | 2:01 |
+| 42 | [Follow](https://open.spotify.com/track/3d5Mi2IFJ9J4MSWwUFvyEl) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Follow](https://open.spotify.com/album/1R8czr85JJr1ouJ4KI3BPS) | 2:01 |
+| 43 | [Home](https://open.spotify.com/track/4dOD4uPnmDmh8LKkC3jQ8o) | [Sune Klintberg](https://open.spotify.com/artist/3TXiQjSvTxhlNZTML8XJQY) | [Home](https://open.spotify.com/album/6m4x8gXUxYmkr7Dj850nzg) | 2:46 |
 | 44 | [Sole In Viso](https://open.spotify.com/track/46o8PS9zl4HryzFZEVgtwm) | [Emilio Abruzzo](https://open.spotify.com/artist/3Cmm3KzKAdZM69mMxxLaDK) | [Sole In Viso](https://open.spotify.com/album/6spKUg9mnuj7UNvjOR5w7S) | 2:23 |
 | 45 | [Falling Softly](https://open.spotify.com/track/74KTeVGUFWJfVw3e7k0W0s) | [Gustav Potter](https://open.spotify.com/artist/26s4OPUnJXERdx6o2KGIL6) | [Falling Softly](https://open.spotify.com/album/1sdwS0IyPGfEpjkMdgpc4T) | 2:19 |
 

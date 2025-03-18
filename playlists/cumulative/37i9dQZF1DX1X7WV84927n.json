@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Airless",
+        "url": "https://open.spotify.com/album/7dzC977gXdzUET8qUnFFg9"
+      },
+      "artists": [
+        {
+          "name": "UNWELL",
+          "url": "https://open.spotify.com/artist/6HgyYcL2o79g16VeIUdnne"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Airless",
+      "url": "https://open.spotify.com/track/2JuZrK7CuroMHQ6wKqOn75"
+    },
+    {
+      "album": {
         "name": "Back From the Dead (Deluxe)",
         "url": "https://open.spotify.com/album/4o4YBwtC9qWnEUssNaPzuW"
       },
@@ -11010,7 +11028,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 179361,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/20nsiZn8teC5v8V5j2g8Bz"

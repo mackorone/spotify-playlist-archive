@@ -1989,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "B\u00c1ILAME GYAL",
+        "url": "https://open.spotify.com/album/5R64uQ1AaSAn7Ma2y6pq1T"
+      },
+      "artists": [
+        {
+          "name": "Yapi",
+          "url": "https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139423,
+      "name": "B\u00c1ILAME GYAL",
+      "url": "https://open.spotify.com/track/1QFsvkGJAEvwbSSBiPtRVF"
+    },
+    {
+      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/77RnZZL53tsWQ0gTRgAFkW"
       },
@@ -8726,7 +8744,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 210000,
       "name": "MAL DE AMORES",
       "url": "https://open.spotify.com/track/1usKzwMu9aXkOopVWWpIf9"
@@ -10672,6 +10690,32 @@
       "duration_ms": 152110,
       "name": "Ojos Rojos",
       "url": "https://open.spotify.com/track/5hYRabCQuFZN8yVCQsSeyF"
+    },
+    {
+      "album": {
+        "name": "Orilla",
+        "url": "https://open.spotify.com/album/660WBhfDrgHNtkXNfyPs6Z"
+      },
+      "artists": [
+        {
+          "name": "8belial",
+          "url": "https://open.spotify.com/artist/3GMBcFbI21Tbi1POVBmCwb"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Virtual Flavor",
+          "url": "https://open.spotify.com/artist/5WvT6IGJwVag6w2KXL1DtA"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193359,
+      "name": "Orilla",
+      "url": "https://open.spotify.com/track/4zEW9cHkayxZk2eojf6cgA"
     },
     {
       "album": {
@@ -14848,7 +14892,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 221962,
       "name": "Tuss",
       "url": "https://open.spotify.com/track/0qd7ACCc9z2mlTYgPRcnUJ"

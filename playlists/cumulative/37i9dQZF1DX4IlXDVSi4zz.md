@@ -4,7 +4,7 @@
 
 > Dance the night away and just blame it on Tulum!
 
-260 songs - 16 hr 31 min
+261 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,8 +242,9 @@
 | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/track/54seQV7MCcppBrznALCdlT) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft) | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY) | 6:30 | 2024-04-19 |  |
 | [TULUM](https://open.spotify.com/track/5M78hc4mehGI2p8HEcgkrk) | [Pllws](https://open.spotify.com/artist/1MFhgehbIObqmgnONpXeFq), [Las Prez](https://open.spotify.com/artist/5059qZwA16CgTTFxWTF4Tl) | [TULUM](https://open.spotify.com/album/6U69FDRdNrQAtuEu2XwIiA) | 3:26 | 2022-03-29 | 2022-07-29 |
 | [Una Bluna](https://open.spotify.com/track/5w751wHxeQVDLuC5EfjGRv) | [Rampue](https://open.spotify.com/artist/3YRLUjgMJ1xg1TIcknIxlv) | [Stiff Little Spinners, Vol\. 4](https://open.spotify.com/album/7zuqXEbXgEKCKcUXWCFY5V) | 7:18 | 2022-03-29 | 2022-07-11 |
+| [una noche con hugel](https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [una noche con hugel](https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT) | 3:11 | 2025-03-14 |  |
 | [Unison](https://open.spotify.com/track/3Xuf2ni1P0IVpTCXzajUD6) | [Alex Galvan](https://open.spotify.com/artist/5hwl51WQuZm30rZu6gHjR1), [Andec James](https://open.spotify.com/artist/5shYFgmpQjNNq0kunbCYWW) | [Unison EP](https://open.spotify.com/album/05yiUS0a8doI7Dhc0R5mBP) | 7:38 | 2023-01-04 | 2023-02-10 |
-| [Upside Down](https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [Upside Down](https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH) | 2:42 | 2025-01-24 |  |
+| [Upside Down](https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [Upside Down](https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH) | 2:42 | 2025-01-24 | 2025-03-18 |
 | [Vamo a Dale Duro \- Uproot Andy Remix](https://open.spotify.com/track/0LxaK3oMBNQc2Q9YVOjnj2) | [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc) | [Vamo a Dale Duro \(Uproot Andy Remix\)](https://open.spotify.com/album/4qWrDMj5B73oaMBI89fNyz) | 5:24 | 2022-09-02 | 2022-10-13 |
 | [Veneno](https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Sophia Ardessore](https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw) | [Veneno](https://open.spotify.com/album/2EQauiLBwWg9SCzJ07bEHj) | 2:23 | 2024-03-08 | 2024-04-20 |
 | [Víctor Jara](https://open.spotify.com/track/5Uyp05hXNyZ36m4oUzhS4G) | [Seba Campos](https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF) | [Vivir](https://open.spotify.com/album/7x9knGXeetiW9caJAHzRwv) | 5:15 | 2022-04-24 | 2022-07-29 |

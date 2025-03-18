@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBBHjTe4oAd.md) - [plain]
 
 > Mi toro, aquí una playlist perrona para dar el fucking roll por el barril con el Lalito y el Josuesy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,692 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,751 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

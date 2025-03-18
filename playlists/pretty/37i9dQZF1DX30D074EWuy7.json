@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
-  "num_followers": 32193,
+  "num_followers": 32205,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -771,26 +771,6 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "Prati Bagnati Del Monte Analogo",
-        "url": "https://open.spotify.com/album/61B1GQvwCDsQMEP6yaySOB"
-      },
-      "artists": [
-        {
-          "name": "Raul Lovisoni",
-          "url": "https://open.spotify.com/artist/14c03pepaaW7MNk7D5LG48"
-        },
-        {
-          "name": "Francesco Messina",
-          "url": "https://open.spotify.com/artist/0z1i074D0xFtfxWLgZ3sGj"
-        }
-      ],
-      "duration_ms": 566966,
-      "name": "Hula Om",
-      "url": "https://open.spotify.com/track/1xBke1qBIpQHmM9q3hKemz"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
         "name": "Musica Nuda - My Favorite Tunes",
         "url": "https://open.spotify.com/album/4r4EAuG5rF6nzJu2haUQQ2"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 190053,
       "name": "Bach Aire",
       "url": "https://open.spotify.com/track/0wUKunfyR7JY0fyQ9Iq1wW"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
+        "name": "Prati Bagnati Del Monte Analogo",
+        "url": "https://open.spotify.com/album/61B1GQvwCDsQMEP6yaySOB"
+      },
+      "artists": [
+        {
+          "name": "Raul Lovisoni",
+          "url": "https://open.spotify.com/artist/14c03pepaaW7MNk7D5LG48"
+        },
+        {
+          "name": "Francesco Messina",
+          "url": "https://open.spotify.com/artist/0z1i074D0xFtfxWLgZ3sGj"
+        }
+      ],
+      "duration_ms": 566966,
+      "name": "Hula Om",
+      "url": "https://open.spotify.com/track/1xBke1qBIpQHmM9q3hKemz"
     },
     {
       "added_at": "2025-02-25 09:38:29",
@@ -987,6 +987,22 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
+        "name": "Maison Maravilha",
+        "url": "https://open.spotify.com/album/6Q7qzoGfTHFMHMQBoPa7Yj"
+      },
+      "artists": [
+        {
+          "name": "Joe Barbieri",
+          "url": "https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT"
+        }
+      ],
+      "duration_ms": 310466,
+      "name": "Normalmente",
+      "url": "https://open.spotify.com/track/4wymTjjL8l8KOS70s7b6IX"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
         "name": "Moon Kin",
         "url": "https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 156838,
       "name": "Samo",
       "url": "https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
-        "name": "Maison Maravilha",
-        "url": "https://open.spotify.com/album/6Q7qzoGfTHFMHMQBoPa7Yj"
-      },
-      "artists": [
-        {
-          "name": "Joe Barbieri",
-          "url": "https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT"
-        }
-      ],
-      "duration_ms": 310466,
-      "name": "Normalmente",
-      "url": "https://open.spotify.com/track/4wymTjjL8l8KOS70s7b6IX"
     },
     {
       "added_at": "2025-02-25 09:38:29",
@@ -1067,38 +1067,6 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "Tempo al Tempo",
-        "url": "https://open.spotify.com/album/2Pg5JP20FpZXP3S8aveehk"
-      },
-      "artists": [
-        {
-          "name": "Collettivo Immaginario",
-          "url": "https://open.spotify.com/artist/2t5W9mdX4tCfJwUMgRLJaM"
-        },
-        {
-          "name": "Tommaso Cappellato",
-          "url": "https://open.spotify.com/artist/5xu6nwws5Wrbd5TayescJ2"
-        },
-        {
-          "name": "Alberto Lincetto",
-          "url": "https://open.spotify.com/artist/41WwoISWXs9IrlyQM2oM62"
-        },
-        {
-          "name": "Nicol\u00f2 Masetto",
-          "url": "https://open.spotify.com/artist/6RxoPk24rnMUwWvlFSnjiq"
-        },
-        {
-          "name": "Danilo Plessow",
-          "url": "https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle"
-        }
-      ],
-      "duration_ms": 377930,
-      "name": "Tempo al Tempo",
-      "url": "https://open.spotify.com/track/5fJPhL4bpFTElmkDwjaOME"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
         "name": "Chiara Civello 7752",
         "url": "https://open.spotify.com/album/1YZkGzLfEIJDzLugOASTMa"
       },
@@ -1131,6 +1099,38 @@
       "duration_ms": 165573,
       "name": "Giuramento (feat. Gabriele Mirabassi)",
       "url": "https://open.spotify.com/track/15zNDagxqRrKm4HWtcvTZv"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
+        "name": "Tempo al Tempo",
+        "url": "https://open.spotify.com/album/2Pg5JP20FpZXP3S8aveehk"
+      },
+      "artists": [
+        {
+          "name": "Collettivo Immaginario",
+          "url": "https://open.spotify.com/artist/2t5W9mdX4tCfJwUMgRLJaM"
+        },
+        {
+          "name": "Tommaso Cappellato",
+          "url": "https://open.spotify.com/artist/5xu6nwws5Wrbd5TayescJ2"
+        },
+        {
+          "name": "Alberto Lincetto",
+          "url": "https://open.spotify.com/artist/41WwoISWXs9IrlyQM2oM62"
+        },
+        {
+          "name": "Nicol\u00f2 Masetto",
+          "url": "https://open.spotify.com/artist/6RxoPk24rnMUwWvlFSnjiq"
+        },
+        {
+          "name": "Danilo Plessow",
+          "url": "https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle"
+        }
+      ],
+      "duration_ms": 377930,
+      "name": "Tempo al Tempo",
+      "url": "https://open.spotify.com/track/5fJPhL4bpFTElmkDwjaOME"
     },
     {
       "added_at": "2025-02-25 09:38:29",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "Non mi resta che tacere",
-        "url": "https://open.spotify.com/album/5hmztkj3i2mGUjPFKdjjwA"
-      },
-      "artists": [
-        {
-          "name": "Marta Frigo",
-          "url": "https://open.spotify.com/artist/08Z3yD7mKBrpXTlrh0mGpj"
-        }
-      ],
-      "duration_ms": 275291,
-      "name": "Non mi resta che tacere",
-      "url": "https://open.spotify.com/track/78zfOvtwijnDEc03lJunsl"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
         "name": "La Strada Invisibile",
         "url": "https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 288616,
       "name": "Tuareg",
       "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
+        "name": "Non mi resta che tacere",
+        "url": "https://open.spotify.com/album/5hmztkj3i2mGUjPFKdjjwA"
+      },
+      "artists": [
+        {
+          "name": "Marta Frigo",
+          "url": "https://open.spotify.com/artist/08Z3yD7mKBrpXTlrh0mGpj"
+        }
+      ],
+      "duration_ms": 275291,
+      "name": "Non mi resta che tacere",
+      "url": "https://open.spotify.com/track/78zfOvtwijnDEc03lJunsl"
     },
     {
       "added_at": "2025-02-25 09:38:29",
@@ -1771,18 +1771,18 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "La Valle Dei Templi",
-        "url": "https://open.spotify.com/album/4DStIxg2IyyYIL2K1y504z"
+        "name": "NON-BACKGROUND MUSIC",
+        "url": "https://open.spotify.com/album/05gsbxcGDXKKUEX2oAuahF"
       },
       "artists": [
         {
-          "name": "Perigeo",
-          "url": "https://open.spotify.com/artist/0UB7tnXqRLUWF9dyktuA6e"
+          "name": "72-HOUR POST FIGHT",
+          "url": "https://open.spotify.com/artist/0QywAgoqmactggMU0Vfwf0"
         }
       ],
-      "duration_ms": 184213,
-      "name": "Looping",
-      "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
+      "duration_ms": 280537,
+      "name": "CANDLEFACE THEME",
+      "url": "https://open.spotify.com/track/41YcKoZizBFkK5ATTkLewm"
     },
     {
       "added_at": "2025-02-25 09:38:29",
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "NON-BACKGROUND MUSIC",
-        "url": "https://open.spotify.com/album/05gsbxcGDXKKUEX2oAuahF"
+        "name": "La Valle Dei Templi",
+        "url": "https://open.spotify.com/album/4DStIxg2IyyYIL2K1y504z"
       },
       "artists": [
         {
-          "name": "72-HOUR POST FIGHT",
-          "url": "https://open.spotify.com/artist/0QywAgoqmactggMU0Vfwf0"
+          "name": "Perigeo",
+          "url": "https://open.spotify.com/artist/0UB7tnXqRLUWF9dyktuA6e"
         }
       ],
-      "duration_ms": 280537,
-      "name": "CANDLEFACE THEME",
-      "url": "https://open.spotify.com/track/41YcKoZizBFkK5ATTkLewm"
+      "duration_ms": 184213,
+      "name": "Looping",
+      "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
     },
     {
       "added_at": "2025-02-25 09:38:29",
@@ -1919,26 +1919,6 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "Meridies",
-        "url": "https://open.spotify.com/album/6T3Ecl7sM27f9W4UCpBWxN"
-      },
-      "artists": [
-        {
-          "name": "Go Dugong",
-          "url": "https://open.spotify.com/artist/5JPe09JXKnZxN6oLYJMaKh"
-        },
-        {
-          "name": "Mai Mai Mai",
-          "url": "https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3"
-        }
-      ],
-      "duration_ms": 242645,
-      "name": "Randagio",
-      "url": "https://open.spotify.com/track/5w4Hm7e56SFJP1bMPB029u"
-    },
-    {
-      "added_at": "2025-02-25 09:38:29",
-      "album": {
         "name": "Tabacco e Caff\u00e8",
         "url": "https://open.spotify.com/album/2NeByVBLwcAhdcnQw86MkH"
       },
@@ -1963,6 +1943,26 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
+        "name": "Meridies",
+        "url": "https://open.spotify.com/album/6T3Ecl7sM27f9W4UCpBWxN"
+      },
+      "artists": [
+        {
+          "name": "Go Dugong",
+          "url": "https://open.spotify.com/artist/5JPe09JXKnZxN6oLYJMaKh"
+        },
+        {
+          "name": "Mai Mai Mai",
+          "url": "https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3"
+        }
+      ],
+      "duration_ms": 242645,
+      "name": "Randagio",
+      "url": "https://open.spotify.com/track/5w4Hm7e56SFJP1bMPB029u"
+    },
+    {
+      "added_at": "2025-02-25 09:38:29",
+      "album": {
         "name": "Ampia",
         "url": "https://open.spotify.com/album/0W0sZWeJSHiGZqa2ddXEnw"
       },
@@ -1979,18 +1979,22 @@
     {
       "added_at": "2025-02-25 09:38:29",
       "album": {
-        "name": "Franco Cerri Jazz",
-        "url": "https://open.spotify.com/album/4VphmaeJQ8CAbRMRz9QDA8"
+        "name": "Nauplia",
+        "url": "https://open.spotify.com/album/0kOi2BR2cvfhtqBi7e7CqR"
       },
       "artists": [
         {
-          "name": "Franco Cerri",
-          "url": "https://open.spotify.com/artist/1kk5a0EzDK5su94EBYUKPw"
+          "name": "Maria Pia De Vito",
+          "url": "https://open.spotify.com/artist/2WdJBOMuv70FribaCLT5vE"
+        },
+        {
+          "name": "Rita Marcotulli",
+          "url": "https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ"
         }
       ],
-      "duration_ms": 79041,
-      "name": "Generazia",
-      "url": "https://open.spotify.com/track/2KWRSw7WgfSNcdiEWM8Q72"
+      "duration_ms": 248240,
+      "name": "Come un ritratto",
+      "url": "https://open.spotify.com/track/1xD323f4XEBlW1lfOeKtts"
     }
   ],
   "unique_name": "Jazz Italia",

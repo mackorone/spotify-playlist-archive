@@ -2,7 +2,7 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Sabrina Sterling
+> Discover the next wave of talent writing their own songs\. Cover: Aggy Ally
 
 824 songs - 1 day 20 hr 0 min
 

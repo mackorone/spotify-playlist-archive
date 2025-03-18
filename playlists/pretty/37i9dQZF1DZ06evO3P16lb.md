@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P16lb.md) - [plain]
 
 > This is Lupita Infante\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 431 likes - 41 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 432 likes - 41 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P16lb.md) - [plain]
 | 6 | [Amorcito Corazón](https://open.spotify.com/track/1z3UgtvtJm0WZ8LCg8efKS) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Mariachi Sol De Mexico De Jose Hernandez](https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG) | [Amorcito Corazón](https://open.spotify.com/album/3NG0a4l4VbwZ1rPlIm7g70) | 2:29 |
 | 7 | [Mes Doce](https://open.spotify.com/track/0vO8vUtgIW3eZnalAzzDjI) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Mes Doce](https://open.spotify.com/album/4AFiyO0hxJx17fyt8UfrHi) | 2:50 |
 | 8 | [¿Seguimos o No?](https://open.spotify.com/track/1NsjmaxOjSXMexCLix1WAI) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [¿Seguimos o No?](https://open.spotify.com/album/561lSkRFe7fRTVrR4afGcq) | 2:22 |
-| 9 | [Bésame Mucho \(with Lupita Infante\)](https://open.spotify.com/track/1XMI6Ym8dnyQWJfDgu3AdX) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [All About Love \(Deluxe Tour Edition\)](https://open.spotify.com/album/69aRmWllq9m7C8P3PSRSf6) | 4:13 |
-| 10 | [Cumbiecitas Elegantes](https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cumbiecitas Elegantes](https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq) | 2:47 |
+| 9 | [Cumbiecitas Elegantes](https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cumbiecitas Elegantes](https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq) | 2:47 |
+| 10 | [Bésame Mucho \(with Lupita Infante\)](https://open.spotify.com/track/1XMI6Ym8dnyQWJfDgu3AdX) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [All About Love \(Deluxe Tour Edition\)](https://open.spotify.com/album/69aRmWllq9m7C8P3PSRSf6) | 4:13 |
 | 11 | [Podemos \(No Volver a la Ciudad\)](https://open.spotify.com/track/12jIkwudYzvOEjd4ImdORM) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Podemos \(No Volver a la Ciudad\)](https://open.spotify.com/album/4YzAnJ4kj0GDILoM1g8lhO) | 3:10 |
 | 12 | [Pa' Dentro \- Versión Banda](https://open.spotify.com/track/0wSUDHaUc7peRqea2B8Rg6) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 2:31 |
 | 13 | [Ya Ni Me Acuerdo](https://open.spotify.com/track/0TsMyNgWOyiOngOYBvRKj0) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Serenata](https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn) | 3:15 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P16lb.md) - [plain]
 | 40 | [Pos Cui Cui Ri \- En Vivo](https://open.spotify.com/track/3OGCYPudeYS8VBdnSFO1HS) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 3:13 |
 | 41 | [Canto del Bracero \- En Vivo](https://open.spotify.com/track/7BKUAIlg48DZpcSxMTX7gV) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 3:03 |
 
-Snapshot ID: `Z9TDAAAAAACCo729SYWAGgGNN4IY5kgO`
+Snapshot ID: `Z9YUgAAAAABVOmzmpdiMjbgO02iyh5F9`

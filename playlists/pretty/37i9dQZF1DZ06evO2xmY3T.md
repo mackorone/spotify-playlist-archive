@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 
 > This is Cardi B\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,199 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,203 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 | 49 | [On Dat Money \(with Cardi B\)](https://open.spotify.com/track/0mqpGFcwWR8Jv3PGN87uT5) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [On Dat Money \(with Cardi B\) \(Alternate Versions\)](https://open.spotify.com/album/1wX65Zm7U60cwcPX4ouMuK) | 2:31 |
 | 50 | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l) | 3:45 |
 
-Snapshot ID: `Z9TDAAAAAADLgYrqKveyuVIR2cFOkarc`
+Snapshot ID: `Z9YUgAAAAAC93Jy5Tb4MSHnIIyuIpucc`

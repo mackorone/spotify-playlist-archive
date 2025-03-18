@@ -4,7 +4,7 @@
 
 > Future & melodic bass 🛸 with Dabin
 
-743 songs - 1 day 20 hr 29 min
+744 songs - 1 day 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [High](https://open.spotify.com/track/0apCPw4wHWMtW3DPR6Aou7) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Jo Cohen](https://open.spotify.com/artist/0Szh8DhUXEL2iujQ9cdS4q), [Lusil](https://open.spotify.com/artist/1AzsVW3RPGZk0foQcGktHZ) | [High](https://open.spotify.com/album/3ZFzU8m52LCtZXnfKLvpao) | 3:04 | 2022-07-08 | 2024-07-27 |
 | [High on Life](https://open.spotify.com/track/1GSCyF7EzsmYhfcXX5GEez) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV), [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6) | [High on Life](https://open.spotify.com/album/0uSam5GTUJioSK4DAQLlHx) | 3:16 | 2022-07-29 | 2023-04-09 |
 | [High on Life](https://open.spotify.com/track/6ZX9CSWDRpf6C0aSP59pym) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV), [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6) | [High on Life](https://open.spotify.com/album/1CSE2niI6bZxdFRxLoAg41) | 3:16 | 2022-07-08 | 2022-08-25 |
+| [Higher](https://open.spotify.com/track/4CVjl5t09xOnmYxkOrBdL9) | [Woyfer](https://open.spotify.com/artist/5CFFpEKkEi23jPdCiXu5x4), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Higher](https://open.spotify.com/album/6ejls8K144xqnwYmBIfIqj) | 3:22 | 2025-03-14 |  |
 | [Higher Than Heaven](https://open.spotify.com/track/6UdWxz9fpHsd1l7epg4jyH) | [Blosso](https://open.spotify.com/artist/5Jn30mbNDGHLSxfCUZc7XM), [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [Higher Than Heaven](https://open.spotify.com/album/4aJ8OzxXJGc9aZzIwIEzjx) | 4:51 | 2022-09-16 | 2022-12-13 |
 | [hold and carry](https://open.spotify.com/track/63Bk4sMqW3lC16x5ykq7IV) | [IAMSAM](https://open.spotify.com/artist/6RsUpx0KNqH6at7oNsRkXD), [Lucian](https://open.spotify.com/artist/5CVsjwjuzUOrlEc2OJbUg4) | [silhouettes](https://open.spotify.com/album/50ZkHJHxprZbKhwZRNj3J9) | 3:56 | 2024-03-01 | 2024-04-13 |
 | [Hold Me](https://open.spotify.com/track/14PyY68X7D0J6i2xtdajEo) | [SANE](https://open.spotify.com/artist/6yVHCcCg5H7eycOZJzAbVT), [2nd Life](https://open.spotify.com/artist/2j1Yftz0qNufy1z5jfNYab) | [Hold Me](https://open.spotify.com/album/5aUyuveFrtgWfyXcsTCoX8) | 2:26 | 2022-07-08 | 2024-02-06 |
@@ -384,7 +385,7 @@
 | [Let Me Out](https://open.spotify.com/track/6iiyEi5H54pHJRA9neoHQo) | [ARAYA](https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Let Me Out](https://open.spotify.com/album/1xVqDFUmogPRr2RQ05Kk2a) | 3:36 | 2024-09-06 |  |
 | [Let You Down](https://open.spotify.com/track/4koJOexsJfCdpyiWPlu3K9) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Let You Down](https://open.spotify.com/album/53fvgmWkvP8FKGbdO4zWiI) | 3:29 | 2023-05-19 | 2023-09-14 |
 | [Letting It All Go](https://open.spotify.com/track/7mcOBTRohDNk7xK2ohDBE5) | [Josh Teed](https://open.spotify.com/artist/0m5NlhNMYQc0gUmvmRmVUS), [9 Theory](https://open.spotify.com/artist/06tYi7DxoKe8PfYCeHGGFK) | [Letting It All Go](https://open.spotify.com/album/2raRphAzetrqPVL47unmXJ) | 6:29 | 2024-08-30 | 2024-09-07 |
-| [Lie](https://open.spotify.com/track/1lM7pNocZRjhiK7VK2VRTQ) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [Lie](https://open.spotify.com/album/4dno18wmZxZldvHiApenIa) | 3:30 | 2023-09-22 |  |
+| [Lie](https://open.spotify.com/track/1lM7pNocZRjhiK7VK2VRTQ) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [Lie](https://open.spotify.com/album/4dno18wmZxZldvHiApenIa) | 3:30 | 2023-09-22 | 2025-03-18 |
 | [Lie Awake](https://open.spotify.com/track/0A3E1Vig87YNwysgnhwPvv) | [SadBois](https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ), [Xyan](https://open.spotify.com/artist/4EDCf6apSbfCPkoDqGyVOy), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Lie Awake](https://open.spotify.com/album/7o9yymac690fmOnuXhqglk) | 2:54 | 2024-05-03 | 2024-12-21 |
 | [Lifeline](https://open.spotify.com/track/13IZmcVnhtkMMGqO9P4IUU) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Lifeline](https://open.spotify.com/album/2Ok5nuAXcRNMqYh9DRlahf) | 3:45 | 2023-07-07 | 2024-02-14 |
 | [Lifeline](https://open.spotify.com/track/0ZjFvlOaEVnD2eBj3ognHw) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Lifeline](https://open.spotify.com/album/4EBBQs8jtQeYjPx5WC5pZU) | 3:11 | 2024-04-12 | 2024-08-02 |

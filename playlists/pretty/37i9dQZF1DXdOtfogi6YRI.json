@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: AJLA",
-  "num_followers": 18424,
+  "num_followers": 18421,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2025-02-21 12:39:35",
       "album": {
+        "name": "Brednie",
+        "url": "https://open.spotify.com/album/6qiv1Rt3YMKLkuyaAw1WpC"
+      },
+      "artists": [
+        {
+          "name": "Promie\u0144",
+          "url": "https://open.spotify.com/artist/7eijvMViYR2Qh5a3APXCwl"
+        }
+      ],
+      "duration_ms": 195176,
+      "name": "Brednie",
+      "url": "https://open.spotify.com/track/23WlmV7ysgQ7MFHJ1BtD9B"
+    },
+    {
+      "added_at": "2025-02-21 12:39:35",
+      "album": {
         "name": "AJAJAJ",
         "url": "https://open.spotify.com/album/2g50S2D1EfNLnGUNJnUaUG"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 165245,
       "name": "AJAJAJ",
       "url": "https://open.spotify.com/track/1Cty9fxCnw62jT518LuWSM"
-    },
-    {
-      "added_at": "2025-02-21 12:39:35",
-      "album": {
-        "name": "Brednie",
-        "url": "https://open.spotify.com/album/6qiv1Rt3YMKLkuyaAw1WpC"
-      },
-      "artists": [
-        {
-          "name": "Promie\u0144",
-          "url": "https://open.spotify.com/artist/7eijvMViYR2Qh5a3APXCwl"
-        }
-      ],
-      "duration_ms": 195176,
-      "name": "Brednie",
-      "url": "https://open.spotify.com/track/23WlmV7ysgQ7MFHJ1BtD9B"
     },
     {
       "added_at": "2025-02-21 12:39:35",
@@ -559,42 +559,6 @@
     {
       "added_at": "2025-02-21 12:39:35",
       "album": {
-        "name": "Pami\u0119tniki Pigmej\u00f3w",
-        "url": "https://open.spotify.com/album/5s8JXLzi2eonyRh9nyiP1D"
-      },
-      "artists": [
-        {
-          "name": "Kosma Kr\u00f3l",
-          "url": "https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI"
-        },
-        {
-          "name": "Kania",
-          "url": "https://open.spotify.com/artist/3MetjMHjReEw9IZKH3m7zq"
-        }
-      ],
-      "duration_ms": 193635,
-      "name": "Pami\u0119tniki Pigmej\u00f3w",
-      "url": "https://open.spotify.com/track/1mHOrCM9vUbvBKhGQHy4Wi"
-    },
-    {
-      "added_at": "2025-02-21 12:39:35",
-      "album": {
-        "name": "tempelhof",
-        "url": "https://open.spotify.com/album/23WBOzHYHQmXfydfkvl2ix"
-      },
-      "artists": [
-        {
-          "name": "Hubert.",
-          "url": "https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH"
-        }
-      ],
-      "duration_ms": 170307,
-      "name": "tempelhof",
-      "url": "https://open.spotify.com/track/4lc2cq5pBsrms3JY6CS9l8"
-    },
-    {
-      "added_at": "2025-02-21 12:39:35",
-      "album": {
         "name": "Sunset",
         "url": "https://open.spotify.com/album/0sozO4gKD2xTGZhuHGCF6C"
       },
@@ -615,6 +579,22 @@
       "duration_ms": 253604,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/0OHydAhpZ3tcnvvNyG9M6C"
+    },
+    {
+      "added_at": "2025-02-21 12:39:35",
+      "album": {
+        "name": "tempelhof",
+        "url": "https://open.spotify.com/album/23WBOzHYHQmXfydfkvl2ix"
+      },
+      "artists": [
+        {
+          "name": "Hubert.",
+          "url": "https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "tempelhof",
+      "url": "https://open.spotify.com/track/4lc2cq5pBsrms3JY6CS9l8"
     },
     {
       "added_at": "2025-02-21 12:39:35",
@@ -647,6 +627,26 @@
       "duration_ms": 242608,
       "name": "NONSTOP",
       "url": "https://open.spotify.com/track/6ZYojLrnfvENyrsvP5Lru8"
+    },
+    {
+      "added_at": "2025-02-21 12:39:35",
+      "album": {
+        "name": "Pami\u0119tniki Pigmej\u00f3w",
+        "url": "https://open.spotify.com/album/5s8JXLzi2eonyRh9nyiP1D"
+      },
+      "artists": [
+        {
+          "name": "Kosma Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI"
+        },
+        {
+          "name": "Kania",
+          "url": "https://open.spotify.com/artist/3MetjMHjReEw9IZKH3m7zq"
+        }
+      ],
+      "duration_ms": 193635,
+      "name": "Pami\u0119tniki Pigmej\u00f3w",
+      "url": "https://open.spotify.com/track/1mHOrCM9vUbvBKhGQHy4Wi"
     },
     {
       "added_at": "2025-02-21 12:39:35",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-02-21 12:39:35",
       "album": {
-        "name": "Ale Boli!",
-        "url": "https://open.spotify.com/album/4Lhi9Li8RsBAke2BM6sda9"
-      },
-      "artists": [
-        {
-          "name": "Micha\u0142 Anio\u0142",
-          "url": "https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS"
-        }
-      ],
-      "duration_ms": 113333,
-      "name": "Ale Boli!",
-      "url": "https://open.spotify.com/track/4Mbgf7iCBWoHABhcUPhWlN"
-    },
-    {
-      "added_at": "2025-02-21 12:39:35",
-      "album": {
         "name": "Zawsze",
         "url": "https://open.spotify.com/album/6g0UbXE7lpeY399E178U88"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 173379,
       "name": "Zawsze",
       "url": "https://open.spotify.com/track/6cevsYFP4dyYQnA7K1alpE"
+    },
+    {
+      "added_at": "2025-02-21 12:39:35",
+      "album": {
+        "name": "Ale Boli!",
+        "url": "https://open.spotify.com/album/4Lhi9Li8RsBAke2BM6sda9"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 Anio\u0142",
+          "url": "https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS"
+        }
+      ],
+      "duration_ms": 113333,
+      "name": "Ale Boli!",
+      "url": "https://open.spotify.com/track/4Mbgf7iCBWoHABhcUPhWlN"
     },
     {
       "added_at": "2025-02-21 12:39:35",
@@ -903,6 +903,26 @@
     {
       "added_at": "2025-02-21 12:39:35",
       "album": {
+        "name": "Gdzie by\u015b si\u0119 chcia\u0142a obudzi\u0107?",
+        "url": "https://open.spotify.com/album/4K5ZaGcVQMpCGkMDK9jeep"
+      },
+      "artists": [
+        {
+          "name": "Hodak",
+          "url": "https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
+        }
+      ],
+      "duration_ms": 199285,
+      "name": "Gdzie by\u015b si\u0119 chcia\u0142a obudzi\u0107?",
+      "url": "https://open.spotify.com/track/0ZfFvtLadMbxYY3wEDVKwp"
+    },
+    {
+      "added_at": "2025-02-21 12:39:35",
+      "album": {
         "name": "MAGAZINE/WAVERLY PLACE",
         "url": "https://open.spotify.com/album/1UTv2LKyIS0TvCRqsd4xRH"
       },
@@ -967,6 +987,22 @@
     {
       "added_at": "2025-02-21 12:39:35",
       "album": {
+        "name": "TEQUILA I BILARD",
+        "url": "https://open.spotify.com/album/1q0NNAmutqgOTmCa8hm8VW"
+      },
+      "artists": [
+        {
+          "name": "Kaespen",
+          "url": "https://open.spotify.com/artist/10PJudnCduYdRAWt6ej8by"
+        }
+      ],
+      "duration_ms": 200111,
+      "name": "TEQUILA I BILARD",
+      "url": "https://open.spotify.com/track/4wgybKRLOSicfyJLK5d61u"
+    },
+    {
+      "added_at": "2025-02-21 12:39:35",
+      "album": {
         "name": "Ch\u0142opak, kt\u00f3ry \u017cy\u0142 w swojej g\u0142owie",
         "url": "https://open.spotify.com/album/3Da3R3T5AzWHvnNZp3D7SE"
       },
@@ -987,8 +1023,8 @@
     {
       "added_at": "2025-02-21 12:39:35",
       "album": {
-        "name": "Gdzie by\u015b si\u0119 chcia\u0142a obudzi\u0107?",
-        "url": "https://open.spotify.com/album/4K5ZaGcVQMpCGkMDK9jeep"
+        "name": "Sandman",
+        "url": "https://open.spotify.com/album/3GzN0Q80lTZMJsPkLKFSy0"
       },
       "artists": [
         {
@@ -1000,45 +1036,9 @@
           "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
         }
       ],
-      "duration_ms": 199285,
-      "name": "Gdzie by\u015b si\u0119 chcia\u0142a obudzi\u0107?",
-      "url": "https://open.spotify.com/track/0ZfFvtLadMbxYY3wEDVKwp"
-    },
-    {
-      "added_at": "2025-02-21 12:39:35",
-      "album": {
-        "name": "TEQUILA I BILARD",
-        "url": "https://open.spotify.com/album/1q0NNAmutqgOTmCa8hm8VW"
-      },
-      "artists": [
-        {
-          "name": "Kaespen",
-          "url": "https://open.spotify.com/artist/10PJudnCduYdRAWt6ej8by"
-        }
-      ],
-      "duration_ms": 200111,
-      "name": "TEQUILA I BILARD",
-      "url": "https://open.spotify.com/track/4wgybKRLOSicfyJLK5d61u"
-    },
-    {
-      "added_at": "2025-02-21 12:39:35",
-      "album": {
-        "name": "O CZYM BYM RAPOWA\u0141",
-        "url": "https://open.spotify.com/album/2oIK8zLQsmBwbSyYxkeSEr"
-      },
-      "artists": [
-        {
-          "name": "Odys",
-          "url": "https://open.spotify.com/artist/6AatL3YtstbqZymDDoxLYm"
-        },
-        {
-          "name": "asthma",
-          "url": "https://open.spotify.com/artist/3hz3fhj1laajEycfVkQRlN"
-        }
-      ],
-      "duration_ms": 194250,
-      "name": "O CZYM BYM RAPOWA\u0141",
-      "url": "https://open.spotify.com/track/14VdY46u8mxP1fW68U554w"
+      "duration_ms": 151764,
+      "name": "Sandman",
+      "url": "https://open.spotify.com/track/1vYNAjjzMFZiSS8deHB25Q"
     },
     {
       "added_at": "2025-02-21 12:39:35",
@@ -1071,6 +1071,26 @@
       "duration_ms": 156923,
       "name": "ZE MN\u0104 CHOD\u0179",
       "url": "https://open.spotify.com/track/3HSp54q7oEq5ISaklaL3qQ"
+    },
+    {
+      "added_at": "2025-02-21 12:39:35",
+      "album": {
+        "name": "O CZYM BYM RAPOWA\u0141",
+        "url": "https://open.spotify.com/album/2oIK8zLQsmBwbSyYxkeSEr"
+      },
+      "artists": [
+        {
+          "name": "Odys",
+          "url": "https://open.spotify.com/artist/6AatL3YtstbqZymDDoxLYm"
+        },
+        {
+          "name": "asthma",
+          "url": "https://open.spotify.com/artist/3hz3fhj1laajEycfVkQRlN"
+        }
+      ],
+      "duration_ms": 194250,
+      "name": "O CZYM BYM RAPOWA\u0141",
+      "url": "https://open.spotify.com/track/14VdY46u8mxP1fW68U554w"
     },
     {
       "added_at": "2025-02-21 12:39:35",
@@ -1135,26 +1155,6 @@
     {
       "added_at": "2025-02-21 12:39:35",
       "album": {
-        "name": "Sandman",
-        "url": "https://open.spotify.com/album/3GzN0Q80lTZMJsPkLKFSy0"
-      },
-      "artists": [
-        {
-          "name": "Hodak",
-          "url": "https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU"
-        },
-        {
-          "name": "2K",
-          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
-        }
-      ],
-      "duration_ms": 151764,
-      "name": "Sandman",
-      "url": "https://open.spotify.com/track/1vYNAjjzMFZiSS8deHB25Q"
-    },
-    {
-      "added_at": "2025-02-21 12:39:35",
-      "album": {
         "name": "Bar",
         "url": "https://open.spotify.com/album/2YDTKA6uIOwMc4Wpq8cBll"
       },
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2025-02-21 12:39:35",
       "album": {
+        "name": "melody",
+        "url": "https://open.spotify.com/album/67fAmVuzvvP1HmZviYspUb"
+      },
+      "artists": [
+        {
+          "name": "Heczko",
+          "url": "https://open.spotify.com/artist/5ICsMFaQxZafgG5w4nFqcn"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "melody",
+      "url": "https://open.spotify.com/track/2clLQQghiF2vOz8mtEudrh"
+    },
+    {
+      "added_at": "2025-02-21 12:39:35",
+      "album": {
         "name": "ACID MORO AFTERGLOW",
         "url": "https://open.spotify.com/album/628qTbHKYJCeatPUkyHFrp"
       },
@@ -1199,6 +1215,26 @@
       "duration_ms": 174857,
       "name": "FULL TIME RAVER - LOUD ABOUT US! REMIX",
       "url": "https://open.spotify.com/track/30xmFBFVKpRLvQazLPqdE8"
+    },
+    {
+      "added_at": "2025-02-21 12:39:35",
+      "album": {
+        "name": "PERSPEKTYWY",
+        "url": "https://open.spotify.com/album/65unSo2DJtcMUpfezO3YSi"
+      },
+      "artists": [
+        {
+          "name": "Leo Ros",
+          "url": "https://open.spotify.com/artist/1qXCTpQh1JNGdTnHRnUjtf"
+        },
+        {
+          "name": "F.U.$",
+          "url": "https://open.spotify.com/artist/7EVFc8KexA2b4tr9UzZOh6"
+        }
+      ],
+      "duration_ms": 186631,
+      "name": "PERSPEKTYWY",
+      "url": "https://open.spotify.com/track/6rQUbKwsQ08aloKo5hEQZf"
     },
     {
       "added_at": "2025-02-21 12:39:35",
@@ -1243,58 +1279,6 @@
     {
       "added_at": "2025-02-21 12:39:35",
       "album": {
-        "name": "PERSPEKTYWY",
-        "url": "https://open.spotify.com/album/65unSo2DJtcMUpfezO3YSi"
-      },
-      "artists": [
-        {
-          "name": "Leo Ros",
-          "url": "https://open.spotify.com/artist/1qXCTpQh1JNGdTnHRnUjtf"
-        },
-        {
-          "name": "F.U.$",
-          "url": "https://open.spotify.com/artist/7EVFc8KexA2b4tr9UzZOh6"
-        }
-      ],
-      "duration_ms": 186631,
-      "name": "PERSPEKTYWY",
-      "url": "https://open.spotify.com/track/6rQUbKwsQ08aloKo5hEQZf"
-    },
-    {
-      "added_at": "2025-02-21 12:39:35",
-      "album": {
-        "name": "melody",
-        "url": "https://open.spotify.com/album/67fAmVuzvvP1HmZviYspUb"
-      },
-      "artists": [
-        {
-          "name": "Heczko",
-          "url": "https://open.spotify.com/artist/5ICsMFaQxZafgG5w4nFqcn"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "melody",
-      "url": "https://open.spotify.com/track/2clLQQghiF2vOz8mtEudrh"
-    },
-    {
-      "added_at": "2025-02-21 12:39:35",
-      "album": {
-        "name": "Sussy Jazz",
-        "url": "https://open.spotify.com/album/34hRcdcClDfAvR33kHEmKf"
-      },
-      "artists": [
-        {
-          "name": "Tlen Zafrozny",
-          "url": "https://open.spotify.com/artist/6ai0EQ512l9MC7sQzSdLUa"
-        }
-      ],
-      "duration_ms": 161833,
-      "name": "Sussy Jazz",
-      "url": "https://open.spotify.com/track/3rwCGGnztKfKDm2U06j9Ec"
-    },
-    {
-      "added_at": "2025-02-21 12:39:35",
-      "album": {
         "name": "JELLY",
         "url": "https://open.spotify.com/album/3lPE4D0XmS8KnIrCUvCx2o"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 177391,
       "name": "JELLY",
       "url": "https://open.spotify.com/track/6BddL8zXMg9KsfouwTihit"
+    },
+    {
+      "added_at": "2025-02-21 12:39:35",
+      "album": {
+        "name": "Sussy Jazz",
+        "url": "https://open.spotify.com/album/34hRcdcClDfAvR33kHEmKf"
+      },
+      "artists": [
+        {
+          "name": "Tlen Zafrozny",
+          "url": "https://open.spotify.com/artist/6ai0EQ512l9MC7sQzSdLUa"
+        }
+      ],
+      "duration_ms": 161833,
+      "name": "Sussy Jazz",
+      "url": "https://open.spotify.com/track/3rwCGGnztKfKDm2U06j9Ec"
     },
     {
       "added_at": "2025-02-21 12:39:35",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2025-02-21 12:39:35",
       "album": {
+        "name": "Alladyn",
+        "url": "https://open.spotify.com/album/4o2lg5XMiNIB9MPuPxgdUZ"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        }
+      ],
+      "duration_ms": 164694,
+      "name": "Alladyn",
+      "url": "https://open.spotify.com/track/0hhZUb3t5nFMwDuOdN2yQs"
+    },
+    {
+      "added_at": "2025-02-21 12:39:35",
+      "album": {
         "name": "Ka\u0142u\u017ca k\u0142amstw",
         "url": "https://open.spotify.com/album/0VIroa4cV43OudJZeR0TlT"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 165517,
       "name": "Ka\u0142u\u017ca k\u0142amstw",
       "url": "https://open.spotify.com/track/2WpEdoz8TkTU8S25s21W3E"
-    },
-    {
-      "added_at": "2025-02-21 12:39:35",
-      "album": {
-        "name": "Alladyn",
-        "url": "https://open.spotify.com/album/4o2lg5XMiNIB9MPuPxgdUZ"
-      },
-      "artists": [
-        {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
-        }
-      ],
-      "duration_ms": 164694,
-      "name": "Alladyn",
-      "url": "https://open.spotify.com/track/0hhZUb3t5nFMwDuOdN2yQs"
     },
     {
       "added_at": "2025-02-21 12:39:35",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-02-21 12:39:35",
       "album": {
-        "name": "patodeweloper",
-        "url": "https://open.spotify.com/album/2aJiT7bMvTnDLRhe9GWBnl"
-      },
-      "artists": [
-        {
-          "name": "Hooligan Peach",
-          "url": "https://open.spotify.com/artist/67DtbGvYUBXMk8SP95RCOi"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "patodeweloper",
-      "url": "https://open.spotify.com/track/4OdOIBThCGvgK4obi6ZscW"
-    },
-    {
-      "added_at": "2025-02-21 12:39:35",
-      "album": {
         "name": "WHOOP WHOOP",
         "url": "https://open.spotify.com/album/19pclJrXhH67ncIWTtATPk"
       },
@@ -1667,6 +1651,22 @@
     {
       "added_at": "2025-02-21 12:39:35",
       "album": {
+        "name": "patodeweloper",
+        "url": "https://open.spotify.com/album/2aJiT7bMvTnDLRhe9GWBnl"
+      },
+      "artists": [
+        {
+          "name": "Hooligan Peach",
+          "url": "https://open.spotify.com/artist/67DtbGvYUBXMk8SP95RCOi"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "patodeweloper",
+      "url": "https://open.spotify.com/track/4OdOIBThCGvgK4obi6ZscW"
+    },
+    {
+      "added_at": "2025-02-21 12:39:35",
+      "album": {
         "name": "JORDAN PEELE",
         "url": "https://open.spotify.com/album/02cL1StPWOqLY2KoBKEF8O"
       },
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2025-02-21 12:39:35",
       "album": {
-        "name": "urbancard ep",
-        "url": "https://open.spotify.com/album/1hHZSUz9tnpwLBDbfiYJ0L"
-      },
-      "artists": [
-        {
-          "name": "asl33p",
-          "url": "https://open.spotify.com/artist/6lAdHrwad3QyDb70RvvM1g"
-        }
-      ],
-      "duration_ms": 154646,
-      "name": "gasn\u0105",
-      "url": "https://open.spotify.com/track/4xXYIuuvKLj9YTKK6Q8M1P"
-    },
-    {
-      "added_at": "2025-02-21 12:39:35",
-      "album": {
         "name": "3w1",
         "url": "https://open.spotify.com/album/3H398ralQidCL7fWpv2Ojk"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 126315,
       "name": "3w1",
       "url": "https://open.spotify.com/track/3jv3p8GJm9JElvTVVejj2B"
+    },
+    {
+      "added_at": "2025-02-21 12:39:35",
+      "album": {
+        "name": "urbancard ep",
+        "url": "https://open.spotify.com/album/1hHZSUz9tnpwLBDbfiYJ0L"
+      },
+      "artists": [
+        {
+          "name": "asl33p",
+          "url": "https://open.spotify.com/artist/6lAdHrwad3QyDb70RvvM1g"
+        }
+      ],
+      "duration_ms": 154646,
+      "name": "gasn\u0105",
+      "url": "https://open.spotify.com/track/4xXYIuuvKLj9YTKK6Q8M1P"
     },
     {
       "added_at": "2025-02-21 12:39:35",
@@ -1791,30 +1791,6 @@
     {
       "added_at": "2025-02-21 12:39:35",
       "album": {
-        "name": "B\u0119dzie dobrze",
-        "url": "https://open.spotify.com/album/3XWNKLsR1FGaJaMmsAvgJ7"
-      },
-      "artists": [
-        {
-          "name": "TVB",
-          "url": "https://open.spotify.com/artist/194gAIlqoRQtBnToq45byL"
-        },
-        {
-          "name": "Guest Julka",
-          "url": "https://open.spotify.com/artist/7nmNPZucUmo9x6Mh5llOoZ"
-        },
-        {
-          "name": "Krzaquu",
-          "url": "https://open.spotify.com/artist/4nK9Szdh0NKJpySxhGEvfj"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "B\u0119dzie dobrze",
-      "url": "https://open.spotify.com/track/2mNLIVvraVC5ZOgly3IcFm"
-    },
-    {
-      "added_at": "2025-02-21 12:39:35",
-      "album": {
         "name": "NOWY WOKAL",
         "url": "https://open.spotify.com/album/7ouU2RfeQyoBeXsDcVhomC"
       },
@@ -1835,6 +1811,30 @@
       "duration_ms": 189767,
       "name": "NOWY WOKAL",
       "url": "https://open.spotify.com/track/0bZW5Log78bUgvShYkpBSS"
+    },
+    {
+      "added_at": "2025-02-21 12:39:35",
+      "album": {
+        "name": "B\u0119dzie dobrze",
+        "url": "https://open.spotify.com/album/3XWNKLsR1FGaJaMmsAvgJ7"
+      },
+      "artists": [
+        {
+          "name": "TVB",
+          "url": "https://open.spotify.com/artist/194gAIlqoRQtBnToq45byL"
+        },
+        {
+          "name": "Guest Julka",
+          "url": "https://open.spotify.com/artist/7nmNPZucUmo9x6Mh5llOoZ"
+        },
+        {
+          "name": "Krzaquu",
+          "url": "https://open.spotify.com/artist/4nK9Szdh0NKJpySxhGEvfj"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "B\u0119dzie dobrze",
+      "url": "https://open.spotify.com/track/2mNLIVvraVC5ZOgly3IcFm"
     },
     {
       "added_at": "2025-02-21 12:39:35",

@@ -1572,7 +1572,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 180293,
       "name": "Puccini: Madama Butterfly, Act 1: \"Ah! Ah! quanto cielo!\" - \"Ancora un passo or via\" (Coro, Butterfly, Sharpless)",
       "url": "https://open.spotify.com/track/3QgrBIFrguy9QkKhGw1Adr"
@@ -2060,6 +2060,36 @@
       "duration_ms": 150480,
       "name": "Turandot, Act I: Signore, ascolta!",
       "url": "https://open.spotify.com/track/49xX0JOQufLKlueVBPzT0r"
+    },
+    {
+      "album": {
+        "name": "Verdi: Il trovatore",
+        "url": "https://open.spotify.com/album/48eWgnNGxUo5NIg4Y7bSsc"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213880,
+      "name": "Verdi: Il trovatore, Act 1: \"Tacea la notte placida\" (Leonora)",
+      "url": "https://open.spotify.com/track/0knATV5PNjw2KacFgMwmwy"
     },
     {
       "album": {

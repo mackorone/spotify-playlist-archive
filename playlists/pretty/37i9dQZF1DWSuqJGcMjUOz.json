@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6836,
+  "num_followers": 6835,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Cantalou",
+        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "Les amants de Pomp\u00e9i",
+      "url": "https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "BOYZ",
         "url": "https://open.spotify.com/album/28AfjnVaDTnKwoBpcolWv0"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 210791,
       "name": "Croise les doigts",
       "url": "https://open.spotify.com/track/1Gy5hu4pDPRxkR0eWB5lfs"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Cantalou",
-        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
-      },
-      "artists": [
-        {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "Les amants de Pomp\u00e9i",
-      "url": "https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "\u00c9chapper \u00e0 la nuit",
-        "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
-      },
-      "artists": [
-        {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "Je vais te faire danser",
-      "url": "https://open.spotify.com/track/5vnSIodkn5kokXyxJXs76l"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Et on pleurera ensemble",
         "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 151586,
       "name": "\u00c9coute",
       "url": "https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "\u00c9chapper \u00e0 la nuit",
+        "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 191360,
+      "name": "Je vais te faire danser",
+      "url": "https://open.spotify.com/track/5vnSIodkn5kokXyxJXs76l"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
-        "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
-      },
-      "artists": [
-        {
-          "name": "Lou-Adriane Cassidy",
-          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
-        }
-      ],
-      "duration_ms": 108066,
-      "name": "J'esp\u00e8re encore que quelque part l'attente s'arr\u00eate",
-      "url": "https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Traits d'union",
         "url": "https://open.spotify.com/album/1T4kcoQnEoGL75Nii6bI4g"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 245250,
       "name": "Trait d'union",
       "url": "https://open.spotify.com/track/4D5JucdHfnZmiPPKrX0aj1"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
+        "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
+      },
+      "artists": [
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "duration_ms": 108066,
+      "name": "J'esp\u00e8re encore que quelque part l'attente s'arr\u00eate",
+      "url": "https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1839,18 +1839,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Oniromancie",
-        "url": "https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI"
+        "name": "On frap la route?",
+        "url": "https://open.spotify.com/album/7hES63PMmDtTdyuXzN2usE"
       },
       "artists": [
         {
-          "name": "Laurence-Anne",
-          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
+          "name": "Guessmi",
+          "url": "https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2"
         }
       ],
-      "duration_ms": 216146,
-      "name": "Polymorphe",
-      "url": "https://open.spotify.com/track/2A8mCfjcGkxaAqnSEhCkwJ"
+      "duration_ms": 172000,
+      "name": "Holla",
+      "url": "https://open.spotify.com/track/6GBNzIYj90vLRZNmdiS3VR"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1871,18 +1871,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "On frap la route?",
-        "url": "https://open.spotify.com/album/7hES63PMmDtTdyuXzN2usE"
+        "name": "Oniromancie",
+        "url": "https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI"
       },
       "artists": [
         {
-          "name": "Guessmi",
-          "url": "https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2"
+          "name": "Laurence-Anne",
+          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Holla",
-      "url": "https://open.spotify.com/track/6GBNzIYj90vLRZNmdiS3VR"
+      "duration_ms": 216146,
+      "name": "Polymorphe",
+      "url": "https://open.spotify.com/track/2A8mCfjcGkxaAqnSEhCkwJ"
     },
     {
       "added_at": "2024-06-19 20:38:05",

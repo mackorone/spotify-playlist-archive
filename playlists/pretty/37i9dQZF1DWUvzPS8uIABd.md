@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. 🍒 Kannessa Evelina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,558 likes - 65 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,567 likes - 65 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,14 +12,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 2 | [Kirsikat](https://open.spotify.com/track/0RrtayzwGZd7rCvLgrDmMU) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Kirsikat](https://open.spotify.com/album/7dWEiZ4iqA45KlrjXosIHQ) | 3:26 |
 | 3 | [Sekunnis \(feat\. Sexmane\)](https://open.spotify.com/track/2K9HxEeocA79vkagSXaFAo) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sekunnis \(feat\. Sexmane\)](https://open.spotify.com/album/0Vy3GjJAA8XAe0mSoBEOvX) | 2:29 |
 | 4 | [Tommi \(seksipommi\)](https://open.spotify.com/track/6NayXQIy7SzSyEO9drruZD) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Tommi \(seksipommi\)](https://open.spotify.com/album/5I6OiKKrslEEJiEewYBN9G) | 2:24 |
-| 5 | [Ministerinpaikal](https://open.spotify.com/track/0eM9z8LrY9bdKF99D0P98i) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Ministerinpaikal / 1987](https://open.spotify.com/album/0F2xzUyFFvkTIRKHhVsfu7) | 3:48 |
-| 6 | [Kauniita lauseita](https://open.spotify.com/track/4ACfTWp8gMiZopmMFOKnhV) | [Jannika B](https://open.spotify.com/artist/5ffRhIFF1wJD3JJLDXt4hY), [Toni Wirtanen](https://open.spotify.com/artist/5fIKQDlnegXI1qxcG3Kv9o) | [Kauniita lauseita](https://open.spotify.com/album/22wxHPiznEMfgCEIdl4bYx) | 2:57 |
-| 7 | [Leijonanruokaa](https://open.spotify.com/track/2gYKkaZDgonVODfPQBQtW3) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Leijonanruokaa](https://open.spotify.com/album/3pbw8Ifw6yayhXGLnc1pWj) | 3:14 |
-| 8 | [Nostetaan malja](https://open.spotify.com/track/3rDcrOoZrJkcfw6hAiS81v) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Nostetaan malja](https://open.spotify.com/album/7yauXHI1V7dxIjNFDP1DoZ) | 2:46 |
-| 9 | [Anna tulla](https://open.spotify.com/track/4Fzm0uCnAM4Ep59ZVvi5wB) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Anna tulla](https://open.spotify.com/album/2RSDaUPuRXmLEUsHQK2P3R) | 3:13 |
-| 10 | [Hitaammin hautaan](https://open.spotify.com/track/56gErvTUBhx82XqEauET28) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Hitaammin hautaan](https://open.spotify.com/album/5sacMb3lLplhX3RT9LiKw7) | 2:58 |
-| 11 | [Ehkä Se Siitä](https://open.spotify.com/track/4d7xDAIBA521hbsGZieQvQ) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ehkä Se Siitä](https://open.spotify.com/album/4FUJlkb2IaKtkBX2O5AKpN) | 3:02 |
-| 12 | [Sekaisin](https://open.spotify.com/track/17MJxFMzJkmy1f9m1ubTS3) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Sekaisin](https://open.spotify.com/album/1FPmzpbf0RY6x5ermqKC8q) | 2:43 |
+| 5 | [Nostetaan malja](https://open.spotify.com/track/3rDcrOoZrJkcfw6hAiS81v) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Nostetaan malja](https://open.spotify.com/album/7yauXHI1V7dxIjNFDP1DoZ) | 2:46 |
+| 6 | [Anna tulla](https://open.spotify.com/track/4Fzm0uCnAM4Ep59ZVvi5wB) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Anna tulla](https://open.spotify.com/album/2RSDaUPuRXmLEUsHQK2P3R) | 3:13 |
+| 7 | [Hitaammin hautaan](https://open.spotify.com/track/56gErvTUBhx82XqEauET28) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Hitaammin hautaan](https://open.spotify.com/album/5sacMb3lLplhX3RT9LiKw7) | 2:58 |
+| 8 | [Sekaisin](https://open.spotify.com/track/17MJxFMzJkmy1f9m1ubTS3) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Sekaisin](https://open.spotify.com/album/1FPmzpbf0RY6x5ermqKC8q) | 2:43 |
+| 9 | [Kauniita lauseita](https://open.spotify.com/track/4ACfTWp8gMiZopmMFOKnhV) | [Jannika B](https://open.spotify.com/artist/5ffRhIFF1wJD3JJLDXt4hY), [Toni Wirtanen](https://open.spotify.com/artist/5fIKQDlnegXI1qxcG3Kv9o) | [Kauniita lauseita](https://open.spotify.com/album/22wxHPiznEMfgCEIdl4bYx) | 2:57 |
+| 10 | [Ministerinpaikal](https://open.spotify.com/track/0eM9z8LrY9bdKF99D0P98i) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Ministerinpaikal / 1987](https://open.spotify.com/album/0F2xzUyFFvkTIRKHhVsfu7) | 3:48 |
+| 11 | [Leijonanruokaa](https://open.spotify.com/track/2gYKkaZDgonVODfPQBQtW3) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Leijonanruokaa](https://open.spotify.com/album/3pbw8Ifw6yayhXGLnc1pWj) | 3:14 |
+| 12 | [Ehkä Se Siitä](https://open.spotify.com/track/4d7xDAIBA521hbsGZieQvQ) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ehkä Se Siitä](https://open.spotify.com/album/4FUJlkb2IaKtkBX2O5AKpN) | 3:02 |
 | 13 | [Miljoonii \(feat\. TUULI\)](https://open.spotify.com/track/3kK8hgEtjb9tcBjIRv2674) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi), [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Miljoonii \(feat\. TUULI\)](https://open.spotify.com/album/4Aj6yWiJMb9N8dpdRccoZx) | 2:45 |
 | 14 | [Tupakkaa ja rakkautta](https://open.spotify.com/track/1Ksud6DSBg0brnHcjVbm3k) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Tupakkaa ja rakkautta](https://open.spotify.com/album/55MdrXPKrFlHAKWbZKzLz6) | 3:22 |
 | 15 | [Mietitkö sä mua](https://open.spotify.com/track/6AYQ3CQePkIRZ6ouD3BF5c) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Mietitkö sä mua](https://open.spotify.com/album/4OYNKIuDMncidwWHfaHXaU) | 2:44 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 64 | [San Francisco Boy](https://open.spotify.com/track/76NMPdhz29sqm6pOnRkhd6) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [San Francisco Boy](https://open.spotify.com/album/1zQJ4WlT5SLCNZNrMErnwb) | 2:34 |
 | 65 | [Nuori & kuolematon](https://open.spotify.com/track/2atByJ9SAhyxRncHVEcJqs) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [Ollie](https://open.spotify.com/artist/4e9ntSageEujJboJQBXtCd) | [Nuori & kuolematon](https://open.spotify.com/album/1mypvjFwLJfFLS3aM07poc) | 2:33 |
 
-Snapshot ID: `Z9av6AAAAACDIMnf7jbSLpZCNEawDBCG`
+Snapshot ID: `Z9fLUgAAAACmjbrlySfZWCs5xHsbusJ8`

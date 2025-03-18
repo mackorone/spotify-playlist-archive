@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: 紫 今
 
-1,033 songs - 2 day 14 hr 41 min
+1,034 songs - 2 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Banquet](https://open.spotify.com/track/2gUrRUgr10dRIqRXWtbZsZ) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [Banquet](https://open.spotify.com/album/1mLswaDUHOOUoxgevsNs9T) | 3:51 | 2023-07-27 | 2024-01-11 |
 | [basement](https://open.spotify.com/track/3MIc6RMb83SodnfE7T5XNU) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [ANORAK! / DIMWORK](https://open.spotify.com/album/104w26GFWkYQErMzsQ8ISZ) | 1:48 | 2023-08-08 | 2023-08-23 |
 | [bath towel](https://open.spotify.com/track/2lGke9fAXi9CgEth5SYxYl) | [Ibe CALLER](https://open.spotify.com/artist/4Rtes03Wneo2iF5YD0aCDo) | [bath towel](https://open.spotify.com/album/2OBD5zoic2ELtu8Ak0zVvT) | 3:30 | 2023-12-05 | 2023-12-13 |
+| [beautifulね](https://open.spotify.com/track/5PH4OEOxFrUCGBRJORhCMh) | [PEDRO](https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0) | [beautifulね](https://open.spotify.com/album/5NI6YBLxZhIoaNHiQeNuV3) | 4:43 | 2025-03-11 |  |
 | [Beauty and the Beast](https://open.spotify.com/track/60AlhgBWHsGEcKXix3FFNZ) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [Beauty and the Beast](https://open.spotify.com/album/3VfPRyqrBengV19luJEGNz) | 4:10 | 2024-04-02 | 2024-04-19 |
 | [Because of the Night](https://open.spotify.com/track/4S5mEnMUixAl2ZKFqaayen) | [コロブチカ](https://open.spotify.com/artist/13DtUTAgjkfoHgimlJQYwC) | [Because of the Night](https://open.spotify.com/album/6vMJUHLvZHaVBCRFssJdG8) | 3:38 | 2025-03-11 |  |
 | [BIRTHDAY](https://open.spotify.com/track/4aULuHlNkw0JtUgarkgO4c) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [RE:BIRTH](https://open.spotify.com/album/1lzeSqAU7CcMDjZo23tslk) | 5:02 | 2023-09-26 | 2023-10-04 |
@@ -276,7 +277,7 @@
 | [Mustang](https://open.spotify.com/track/4QpzWTSyAX0ISn7HYUaXuQ) | [Apes](https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4) | [Mustang](https://open.spotify.com/album/0XYgW77cAbWQ81jZSMQsIR) | 3:40 | 2024-05-30 | 2024-06-12 |
 | [my crush](https://open.spotify.com/track/3yo61FHsqmMJ2xueMfOBmx) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [my crush](https://open.spotify.com/album/41rqIUnX9a5qrAhlwsUe2c) | 2:40 | 2024-03-19 | 2024-09-18 |
 | [MY FLIGHT](https://open.spotify.com/track/7L2eEhN4CkzFe1oXJCeVdF) | [AIRCRAFT](https://open.spotify.com/artist/56xP3O4YvqejlueiysaheO) | [MY FLIGHT](https://open.spotify.com/album/0P5pCc1np56jKzFaCjo9eF) | 3:54 | 2023-12-12 | 2024-01-05 |
-| [My Way](https://open.spotify.com/track/2xUsIWnfQyforCmrmC3gn3) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [My Way](https://open.spotify.com/album/0Dt64usclewDSwkQvjQGm3) | 2:49 | 2024-11-12 |  |
+| [My Way](https://open.spotify.com/track/2xUsIWnfQyforCmrmC3gn3) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [My Way](https://open.spotify.com/album/0Dt64usclewDSwkQvjQGm3) | 2:49 | 2024-11-12 | 2025-03-18 |
 | [Naitokeba Yokatta](https://open.spotify.com/track/3peHF4gr5QvwgeAoM3ElXp) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Naitokeba Yokatta](https://open.spotify.com/album/3zJcDgm5S3uY5Aj3Ed6LFZ) | 3:01 | 2023-09-26 | 2023-10-04 |
 | [NARIYUKI\-MAKASE](https://open.spotify.com/track/6IlwrxsEdVVWO4QRu91EBY) | [OKOJO](https://open.spotify.com/artist/1RTVAEXT1GPXtN6MQjiaXU) | [NARIYUKI\-MAKASE](https://open.spotify.com/album/1aQebxLOZ0GmpPflLzGVv4) | 3:01 | 2023-08-08 | 2023-08-16 |
 | [Neptune](https://open.spotify.com/track/5ie87sMCiBIV3gxyejXNui) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Neptune](https://open.spotify.com/album/6OyzxDepRyonDq53G3kUPU) | 3:18 | 2023-12-19 | 2024-01-10 |

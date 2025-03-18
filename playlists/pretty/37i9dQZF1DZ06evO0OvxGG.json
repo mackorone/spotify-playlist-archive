@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 7300,
+  "num_followers": 7305,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9TDAAAAAACTTjMb71MBD7T5UVQ9P4xT",
+  "snapshot_id": "Z9YUgAAAAACNTmylUGUtfi07w2MZaUSS",
   "tracks": [
     {
       "added_at": null,
@@ -94,11 +94,19 @@
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "Yung Nobre",
+          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
         }
       ],
-      "duration_ms": 194884,
-      "name": "Oompa Loompa",
-      "url": "https://open.spotify.com/track/7jkJFBfBHW78JccPtxMdOU"
+      "duration_ms": 175262,
+      "name": "8x5",
+      "url": "https://open.spotify.com/track/2tu6PRCVT397ILFiPfngkt"
     },
     {
       "added_at": null,
@@ -182,19 +190,11 @@
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        },
-        {
-          "name": "Yung Nobre",
-          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
         }
       ],
-      "duration_ms": 175262,
-      "name": "8x5",
-      "url": "https://open.spotify.com/track/2tu6PRCVT397ILFiPfngkt"
+      "duration_ms": 194884,
+      "name": "Oompa Loompa",
+      "url": "https://open.spotify.com/track/7jkJFBfBHW78JccPtxMdOU"
     },
     {
       "added_at": null,
@@ -496,13 +496,13 @@
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "Vhulto",
-          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
+          "name": "Dr. Ace",
+          "url": "https://open.spotify.com/artist/52dSNopLwNvZtlrQ0TUAh7"
         }
       ],
-      "duration_ms": 90000,
-      "name": "Velotrol",
-      "url": "https://open.spotify.com/track/6ufP9EO1fy6LOlwfKLvD43"
+      "duration_ms": 140108,
+      "name": "Eu Gosto",
+      "url": "https://open.spotify.com/track/7iCtr0g6SX8otCdG0GrTx2"
     },
     {
       "added_at": null,
@@ -580,13 +580,13 @@
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "Dr. Ace",
-          "url": "https://open.spotify.com/artist/52dSNopLwNvZtlrQ0TUAh7"
+          "name": "Vhulto",
+          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
         }
       ],
-      "duration_ms": 140108,
-      "name": "Eu Gosto",
-      "url": "https://open.spotify.com/track/7iCtr0g6SX8otCdG0GrTx2"
+      "duration_ms": 90000,
+      "name": "Velotrol",
+      "url": "https://open.spotify.com/track/6ufP9EO1fy6LOlwfKLvD43"
     },
     {
       "added_at": null,
@@ -728,17 +728,13 @@
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "HG RealTrem",
-          "url": "https://open.spotify.com/artist/5GtA2XrucPK4gSSD9G1sKs"
-        },
-        {
           "name": "Leo Justi",
           "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Preso na Minha BCT",
-      "url": "https://open.spotify.com/track/0LeAkijREFI8nnHK2xIQ5H"
+      "duration_ms": 148000,
+      "name": "A Jogada Que \u00c9 Foda",
+      "url": "https://open.spotify.com/track/4StZobTljFrwK85NRxkBHg"
     },
     {
       "added_at": null,
@@ -755,26 +751,6 @@
       "duration_ms": 174550,
       "name": "N\u00e3o Gosto",
       "url": "https://open.spotify.com/track/23dDG4rg0mZT3YwKOTgF8T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trem Bala",
-        "url": "https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e"
-      },
-      "artists": [
-        {
-          "name": "DJ Leonardo Rafael",
-          "url": "https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 136624,
-      "name": "Trem Bala",
-      "url": "https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul"
     },
     {
       "added_at": null,
@@ -803,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trem Bala",
+        "url": "https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e"
+      },
+      "artists": [
+        {
+          "name": "DJ Leonardo Rafael",
+          "url": "https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 136624,
+      "name": "Trem Bala",
+      "url": "https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Malvatrem (Deluxe)",
         "url": "https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv"
       },
@@ -812,13 +808,17 @@
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
+          "name": "HG RealTrem",
+          "url": "https://open.spotify.com/artist/5GtA2XrucPK4gSSD9G1sKs"
+        },
+        {
           "name": "Leo Justi",
           "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
         }
       ],
-      "duration_ms": 148000,
-      "name": "A Jogada Que \u00c9 Foda",
-      "url": "https://open.spotify.com/track/4StZobTljFrwK85NRxkBHg"
+      "duration_ms": 168000,
+      "name": "Preso na Minha BCT",
+      "url": "https://open.spotify.com/track/0LeAkijREFI8nnHK2xIQ5H"
     },
     {
       "added_at": null,

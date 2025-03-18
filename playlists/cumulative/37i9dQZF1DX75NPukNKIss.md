@@ -4,7 +4,7 @@
 
 > Way 2 Slizzy\. Click into the feed to learn all about the movement\. Cover: Cash Cobain
 
-102 songs - 4 hr 48 min
+105 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [ATTITUDE \(FEAT\. CHARLIE WILSON & CASH COBAIN\)](https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Attitude \(feat\. Charlie Wilson & Cash Cobain\)](https://open.spotify.com/album/5qT2WTrg8b062akPjO9AGY) | 2:41 | 2024-10-25 |  |
 | [BABY](https://open.spotify.com/track/1hs6NSqRaOSnnsHDTq23D4) | [FLEE](https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p) | [BABY](https://open.spotify.com/album/1A2scsZ160QX6nuUkCEJ04) | 2:14 | 2024-12-13 | 2024-12-21 |
 | [Baby Girl On The Way](https://open.spotify.com/track/6FHsuGMFpmY4cxT7qL4l1c) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Baby Girl On The Way](https://open.spotify.com/album/10JghYSsQ9P5vXQQpcOoZq) | 2:52 | 2024-10-25 |  |
+| [BACKD00R \(feat\. Kendrick Lamar & Jhené Aiko\)](https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-17 |  |
 | [Bad For Me](https://open.spotify.com/track/46htLemGubh1NvYMbeBGeV) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Fuck A Friendzone 2](https://open.spotify.com/album/0MLdG6HlXagozTFyYQFsoj) | 3:58 | 2025-02-14 |  |
 | [Be Alone](https://open.spotify.com/track/60mLVgBx8LkBAMWsL9s3bi) | [Tyler Loyal](https://open.spotify.com/artist/7pgbjv3FWqKcMKQckkbd3j) | [Be Alone](https://open.spotify.com/album/6AXdFVJhSzC1sndGfBuFNM) | 1:58 | 2024-12-20 | 2025-01-11 |
 | [Beishu](https://open.spotify.com/track/2ZW0S50cpLNPf0cDANvjrT) | [Stelair](https://open.spotify.com/artist/13JA5UadZYfANIKzGJjc5J) | [Beishu](https://open.spotify.com/album/4mgGMS9sl45p1nH6WIN2lL) | 2:00 | 2025-02-14 |  |
@@ -40,6 +41,7 @@
 | [Dunk Contest](https://open.spotify.com/track/4GP9jcPbHlpu9v1lezfi8V) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Dunk Contest](https://open.spotify.com/album/3b9qtBH7FdyWcTSHS0ThdF) | 3:16 | 2025-02-28 |  |
 | [EST or PST](https://open.spotify.com/track/3KqQMOSEFNfPZ3FAYLld3I) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [EST or PST](https://open.spotify.com/album/7faGHQHOhuK5nhJVR6CavI) | 3:05 | 2024-10-25 |  |
 | [FAVORITE LADY \(with NAV & Cash Cobain\)](https://open.spotify.com/track/4DCvMCGfSBMoNwvpKqtCpt) | [Diany Dior](https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [FAVORITE LADY \(with NAV & Cash Cobain\)](https://open.spotify.com/album/78adtlPeGeYd1Am0o9dNz7) | 3:24 | 2024-10-25 |  |
+| [FINE SHIT](https://open.spotify.com/track/79mFFAOYcG8ZF6AN1JecAL) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 1:46 | 2025-03-17 |  |
 | [finsta](https://open.spotify.com/track/6NTMbHwbNGst9dlSIMTL9J) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [finsta / bia](https://open.spotify.com/album/38qPytt8dq096j0s9M6l7Q) | 2:40 | 2024-11-06 |  |
 | [Fisherrr \- Remix](https://open.spotify.com/track/1rrV4ymf3Tp3xuLgB4zCRN) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Fisherrr \(Remix\)](https://open.spotify.com/album/12MvGwLQqtkCUCMw0IsAyz) | 3:55 | 2024-10-25 |  |
 | [For Us](https://open.spotify.com/track/4PZInlAe9norwHBqjZGZTV) | [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a) | [Lovers & Friends \(Deluxe\)](https://open.spotify.com/album/0giPLwNlEMmok6u3QWcjBW) | 2:50 | 2024-10-25 |  |
@@ -67,6 +69,7 @@
 | [Make It](https://open.spotify.com/track/5Kruw5nxEp8kP9PSENCs2j) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Make It](https://open.spotify.com/album/2ALakB56cdxPOLT3jByPcn) | 3:00 | 2024-11-22 | 2024-11-30 |
 | [Masterpiece](https://open.spotify.com/track/6tnpw5No4aPQaYvh53AiPJ) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [MR\. R2R](https://open.spotify.com/album/3wayBXXQkgzlcK2LDVsJlv) | 2:27 | 2024-10-25 | 2024-12-27 |
 | [Maybach Van \(Pissin Standing Up\) \[feat\. TTO K.T.\]](https://open.spotify.com/track/1h7WDoYcIKMMytNe6F2J6u) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [TTO K.T.](https://open.spotify.com/artist/64NUmfhISKp7DetZjlAAos) | [Trill Bill](https://open.spotify.com/album/7t2ToFb8NXJsP5XKHGV5gO) | 2:20 | 2024-11-29 |  |
+| [Mind Gone](https://open.spotify.com/track/7l6v5Odkyww5UyurIp3yxv) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [Dthang](https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr) | [Perfect Storm](https://open.spotify.com/album/4StaOoKvc1slai3SMaOhCZ) | 2:37 | 2025-03-17 |  |
 | [Miss Independent](https://open.spotify.com/track/40i6QrKX6zHdmqe7gn8Osc) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [Miss Independent](https://open.spotify.com/album/1zXqQo90W30wPoXJOxLzEz) | 3:05 | 2024-10-25 |  |
 | [More Of Yah Love \(Mhmm\)](https://open.spotify.com/track/2NHNALfjfVxHjw1Ke1v7ql) | [Btb Dezz](https://open.spotify.com/artist/7dsfjJOEJ0naEgecbf0lol) | [More Of Yah Love \(Mhmm\)](https://open.spotify.com/album/1KSlCzOu82iaI92bXuKKHD) | 2:07 | 2024-11-22 |  |
 | [ms.beautiful V](https://open.spotify.com/track/2u0I3ZqpAoj59pfYAfFyTs) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [porno story](https://open.spotify.com/album/1u2eDAbSLeXrIiBYiHWCd3) | 2:12 | 2024-10-25 |  |

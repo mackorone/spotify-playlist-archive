@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 109936,
+  "num_followers": 109952,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -323,18 +323,22 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Striptease",
-        "url": "https://open.spotify.com/album/0xElYfxH7E9JXw5Sq3s8Gi"
+        "name": "Lastima",
+        "url": "https://open.spotify.com/album/2M3EmYAlbA52gefdceSa05"
       },
       "artists": [
         {
-          "name": "El Chojin",
-          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        },
+        {
+          "name": "Selected Music",
+          "url": "https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y"
         }
       ],
-      "duration_ms": 221826,
-      "name": "R\u00ede Cuando Puedas",
-      "url": "https://open.spotify.com/track/18YCZgBpjvd7OiDzlqffj9"
+      "duration_ms": 223290,
+      "name": "Lastima",
+      "url": "https://open.spotify.com/track/7LK6f8PSEBdVHxFky21fYv"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -355,22 +359,18 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Lastima",
-        "url": "https://open.spotify.com/album/2M3EmYAlbA52gefdceSa05"
+        "name": "Striptease",
+        "url": "https://open.spotify.com/album/0xElYfxH7E9JXw5Sq3s8Gi"
       },
       "artists": [
         {
-          "name": "Neutro Shorty",
-          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
-        },
-        {
-          "name": "Selected Music",
-          "url": "https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y"
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
         }
       ],
-      "duration_ms": 223290,
-      "name": "Lastima",
-      "url": "https://open.spotify.com/track/7LK6f8PSEBdVHxFky21fYv"
+      "duration_ms": 221826,
+      "name": "R\u00ede Cuando Puedas",
+      "url": "https://open.spotify.com/track/18YCZgBpjvd7OiDzlqffj9"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Psicofonia",
-        "url": "https://open.spotify.com/album/1G7aXRkiE08dm6tlf93qQw"
-      },
-      "artists": [
-        {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        }
-      ],
-      "duration_ms": 184255,
-      "name": "Matar o Morir",
-      "url": "https://open.spotify.com/track/1ApXrpI3xopc2kaOpq46vV"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "Aire para Vivir",
         "url": "https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Benedicto",
-        "url": "https://open.spotify.com/album/73R2cCN0UrSP3CvaDZ7ZGw"
+        "name": "Psicofonia",
+        "url": "https://open.spotify.com/album/1G7aXRkiE08dm6tlf93qQw"
       },
       "artists": [
         {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
         }
       ],
-      "duration_ms": 194666,
-      "name": "Benedicto",
-      "url": "https://open.spotify.com/track/7FGDgc6tYMmK2BMavtJf6h"
+      "duration_ms": 184255,
+      "name": "Matar o Morir",
+      "url": "https://open.spotify.com/track/1ApXrpI3xopc2kaOpq46vV"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1467,6 +1451,22 @@
       "duration_ms": 228000,
       "name": "Vive Libre",
       "url": "https://open.spotify.com/track/2upEDhmJRBtGgcFCXhQ7nV"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Benedicto",
+        "url": "https://open.spotify.com/album/73R2cCN0UrSP3CvaDZ7ZGw"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "Benedicto",
+      "url": "https://open.spotify.com/track/7FGDgc6tYMmK2BMavtJf6h"
     },
     {
       "added_at": "2025-01-31 06:00:22",
@@ -1827,30 +1827,6 @@
     {
       "added_at": "2025-01-31 06:00:22",
       "album": {
-        "name": "Cuarto De Siglo",
-        "url": "https://open.spotify.com/album/22VXblIBThalOjB8xPsXWJ"
-      },
-      "artists": [
-        {
-          "name": "Skool 77",
-          "url": "https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX"
-        },
-        {
-          "name": "Zaheed Santana",
-          "url": "https://open.spotify.com/artist/4U6A7XTrz6J9D7FKHvkCMQ"
-        },
-        {
-          "name": "Ximbo",
-          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
-        }
-      ],
-      "duration_ms": 244177,
-      "name": "Cuarto De Siglo",
-      "url": "https://open.spotify.com/track/3eTgegtLXfjpr0IY2E2AKg"
-    },
-    {
-      "added_at": "2025-01-31 06:00:22",
-      "album": {
         "name": "Jamming Sin Fronteras",
         "url": "https://open.spotify.com/album/1Bt7lT0WFNHlvd1yGC8zlJ"
       },
@@ -1879,6 +1855,30 @@
       "duration_ms": 250732,
       "name": "Jamming Sin Fronteras",
       "url": "https://open.spotify.com/track/5Ot6yfkeBUKllxb0ghQQij"
+    },
+    {
+      "added_at": "2025-01-31 06:00:22",
+      "album": {
+        "name": "Cuarto De Siglo",
+        "url": "https://open.spotify.com/album/22VXblIBThalOjB8xPsXWJ"
+      },
+      "artists": [
+        {
+          "name": "Skool 77",
+          "url": "https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX"
+        },
+        {
+          "name": "Zaheed Santana",
+          "url": "https://open.spotify.com/artist/4U6A7XTrz6J9D7FKHvkCMQ"
+        },
+        {
+          "name": "Ximbo",
+          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
+        }
+      ],
+      "duration_ms": 244177,
+      "name": "Cuarto De Siglo",
+      "url": "https://open.spotify.com/track/3eTgegtLXfjpr0IY2E2AKg"
     },
     {
       "added_at": "2025-01-31 06:00:22",

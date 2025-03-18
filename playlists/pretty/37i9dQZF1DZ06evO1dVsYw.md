@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dVsYw.md) - [plain]
 
 > This is Racionais MC's\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,751 likes - 34 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,792 likes - 34 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,15 +32,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dVsYw.md) - [plain]
 | 22 | [Mágico de Oz](https://open.spotify.com/track/6G6FR1CEiuwkEbp33ryGAY) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 7:36 |
 | 23 | [Somos o Que Somos](https://open.spotify.com/track/2u9TNvu3s7bvuzluO18B0P) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr), [DJ CIA](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL) | [Cores & Valores](https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m) | 1:07 |
 | 24 | [Diário de um Detento \(Ao Vivo\)](https://open.spotify.com/track/4W3OLec9sTB37yegHQVxOq) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Musicas para Churrasco, Vol.1 \(Ao Vivo\) \(Delux Edition\)](https://open.spotify.com/album/5Tna37qsQnWE9aLPHNPmah) | 8:13 |
-| 25 | [Mil Faces de um Homem Leal \(Marighella\)](https://open.spotify.com/track/5MYKqp6J8rstffAQBCE2nl) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Mil Faces de um Homem Leal \(Marighella\)](https://open.spotify.com/album/1hqniVJju4Nj9qGJR2ZeIR) | 9:58 |
-| 26 | [Voz Ativa](https://open.spotify.com/track/63cu2niWEmBV2HAbWhMZGZ) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Raio X do Brasil](https://open.spotify.com/album/2QMZRtm35gtG3ZJs0yl9EM) | 5:12 |
+| 25 | [Voz Ativa](https://open.spotify.com/track/63cu2niWEmBV2HAbWhMZGZ) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Raio X do Brasil](https://open.spotify.com/album/2QMZRtm35gtG3ZJs0yl9EM) | 5:12 |
+| 26 | [Mil Faces de um Homem Leal \(Marighella\)](https://open.spotify.com/track/5MYKqp6J8rstffAQBCE2nl) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Mil Faces de um Homem Leal \(Marighella\)](https://open.spotify.com/album/1hqniVJju4Nj9qGJR2ZeIR) | 9:58 |
 | 27 | [O Mau e o Bem](https://open.spotify.com/track/4xo4XiELxxKdvCOR3p00EX) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Cores & Valores](https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m) | 4:58 |
 | 28 | [Tempos Difíceis \- Ao Vivo](https://open.spotify.com/track/1Ldsc5zXVqOiUdKsDTq5HG) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 3:44 |
-| 29 | [Capítulo 4, Versículo 3 – Da Rua E Do Povo, O Hip Hop: Um Manifesto Paulistano](https://open.spotify.com/track/4dqhw6XOCGeaAxlP4yGwpV) | [Liga Carnaval SP](https://open.spotify.com/artist/31SU63Dknz98JD66U9zJPt), [G.R.C.S.E.S\. Vai\-Vai](https://open.spotify.com/artist/2Asu95Ut2mLtc8hsnpkTzE), [Luiz Felipe](https://open.spotify.com/artist/0w3ToityJnCyZacH2wzmqk), [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr), [Sol da Vai\-Vai](https://open.spotify.com/artist/02uWG83UtstFnjmKfBVENF) | [Sambas de Enredo: Carnaval SP 2024 \(Grupo Especial, Acesso e Acesso II\)](https://open.spotify.com/album/1TXRS714j125DTxduDHugX) | 5:36 |
-| 30 | [Panico na Zona Sul](https://open.spotify.com/track/6uNitskNYppKgkaQQgjKmZ) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Raio X do Brasil](https://open.spotify.com/album/2QMZRtm35gtG3ZJs0yl9EM) | 4:38 |
+| 29 | [Panico na Zona Sul](https://open.spotify.com/track/6uNitskNYppKgkaQQgjKmZ) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Raio X do Brasil](https://open.spotify.com/album/2QMZRtm35gtG3ZJs0yl9EM) | 4:38 |
+| 30 | [Capítulo 4, Versículo 3 – Da Rua E Do Povo, O Hip Hop: Um Manifesto Paulistano](https://open.spotify.com/track/4dqhw6XOCGeaAxlP4yGwpV) | [Liga Carnaval SP](https://open.spotify.com/artist/31SU63Dknz98JD66U9zJPt), [G.R.C.S.E.S\. Vai\-Vai](https://open.spotify.com/artist/2Asu95Ut2mLtc8hsnpkTzE), [Luiz Felipe](https://open.spotify.com/artist/0w3ToityJnCyZacH2wzmqk), [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr), [Sol da Vai\-Vai](https://open.spotify.com/artist/02uWG83UtstFnjmKfBVENF) | [Sambas de Enredo: Carnaval SP 2024 \(Grupo Especial, Acesso e Acesso II\)](https://open.spotify.com/album/1TXRS714j125DTxduDHugX) | 5:36 |
 | 31 | [Beco Sem Saída \- Ao Vivo](https://open.spotify.com/track/1X8ADi0LT3YU72H7QMBj4z) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 3:34 |
 | 32 | [Intro \- People Get Up And Drive Your Funky Soul \- Ao Vivo](https://open.spotify.com/track/0mxcW0LJMBXHVT8PXaD8H0) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 2:45 |
 | 33 | [Mano na Porta do Bar \- Ao Vivo](https://open.spotify.com/track/5GYBM7QhacNgVzzZNUXfEr) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 4:11 |
 | 34 | [O Mal e o Bem](https://open.spotify.com/track/76Nv2osNj3GmNnb1W8YWw5) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 4:54 |
 
-Snapshot ID: `Z9TDAAAAAAC4mi7Yw/mpBjzL3xonjN2/`
+Snapshot ID: `Z9YUgAAAAAD9qjmhk+ff/FnGGak0+oa5`

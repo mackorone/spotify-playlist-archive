@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-688 songs - 1 day 9 hr 39 min
+689 songs - 1 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Above](https://open.spotify.com/track/4uoHgmUJsuMVMS7sPUaO4a) | [Airship Express](https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG) | [Above](https://open.spotify.com/album/32nAgDpHWd7fan3Q4115SQ) | 2:47 | 2025-01-08 |  |
 | [Above Us](https://open.spotify.com/track/6bZHe7cY3zW5BQsujcbdku) | [Beloved More](https://open.spotify.com/artist/4MK9CnbT54N8i28jWYx4s8) | [Above Us](https://open.spotify.com/album/1KrLvsO5sD7EgAvjE9wxDP) | 2:58 | 2024-12-17 |  |
 | [abundance](https://open.spotify.com/track/2ql3MvEcsA946YC2Ob0sQc) | [Elvio Martín](https://open.spotify.com/artist/1rOPEkX83RQnXXOO55RJM7) | [abundance](https://open.spotify.com/album/4cjm7LC3n8iypOqeDO7yzO) | 2:44 | 2024-07-09 | 2025-01-19 |
+| [Abyss](https://open.spotify.com/track/01ROOZyL7yFfuVZsOmcxVJ) | [Liv Joy](https://open.spotify.com/artist/050mtzVtUlI66423bb1UKm) | [Abyss](https://open.spotify.com/album/5bsjxcIL5IExlkjUUT3LqN) | 2:54 | 2025-03-05 |  |
 | [Acknowledge](https://open.spotify.com/track/3b9FmqamhswFKthJpVEGHk) | [Latehours](https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM) | [Acknowledge](https://open.spotify.com/album/7qZbzUnRPRPSWGpgOYt2ud) | 2:59 | 2024-07-09 |  |
 | [Across](https://open.spotify.com/track/03Se4kO33S5ohOqW2V9mr3) | [Matt Deep](https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm) | [Across](https://open.spotify.com/album/1rnbCqbgNfK9GmzyZIvZhl) | 2:55 | 2025-01-22 |  |
 | [Ad Astra](https://open.spotify.com/track/0v7I8fgIlTNg3MSk4osm1j) | [Volta Celeste](https://open.spotify.com/artist/6dQx2H9bZ0X8UdyjkNAmNI) | [Ad Astra](https://open.spotify.com/album/1LR1BYVE2XyzNqI2YMFjsQ) | 2:38 | 2024-11-05 | 2024-12-13 |
@@ -38,7 +39,7 @@
 | [Alleviation](https://open.spotify.com/track/6hz5qA35YWENEvi1qlb9xt) | [Sia Moon](https://open.spotify.com/artist/438yZZcqMapAevM5nIBGTG) | [Alleviation](https://open.spotify.com/album/5peWe4tisKmGmYXfymYHgS) | 3:28 | 2023-03-23 | 2024-02-09 |
 | [Allt finns kvar](https://open.spotify.com/track/6eTRQbYbCnrnm0ghn4eUNd) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Allt finns kvar](https://open.spotify.com/album/4peQko6d1eFGavCfFHJGT3) | 3:59 | 2023-03-23 | 2024-02-09 |
 | [Alma](https://open.spotify.com/track/2j9r4JRWjLsFn7VEibICxz) | [Pedro Caceres](https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA) | [Alma](https://open.spotify.com/album/1VkVWLRl4jyxBUUDvMKy7K) | 2:51 | 2023-03-23 | 2024-02-09 |
-| [Along](https://open.spotify.com/track/6BClTbOxNLsOR3BdQQEahj) | [Decanõe](https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA) | [Along](https://open.spotify.com/album/0XnvcUfXbUREtjiDc1l0m1) | 2:45 | 2024-07-09 |  |
+| [Along](https://open.spotify.com/track/6BClTbOxNLsOR3BdQQEahj) | [Decanõe](https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA) | [Along](https://open.spotify.com/album/0XnvcUfXbUREtjiDc1l0m1) | 2:45 | 2024-07-09 | 2025-03-18 |
 | [Alpha Lupi](https://open.spotify.com/track/1cL02nUAGcbSZFE8rJuK4I) | [Lake Melville](https://open.spotify.com/artist/2qZD20bVk0hgogpaDPbxmG) | [Alpha Lupi](https://open.spotify.com/album/7JwcCMKHFkPslad9qn6yy1) | 3:16 | 2024-05-04 | 2025-03-06 |
 | [Altai](https://open.spotify.com/track/2Vd91FjcKOHXn8kiFv0gnV) | [Sezja](https://open.spotify.com/artist/2HwBdENnqvDpXaeLBMBtqF) | [Altai](https://open.spotify.com/album/3xbZExB6U4whgGNV1OP5LW) | 3:17 | 2023-03-23 | 2024-02-09 |
 | [Altitude](https://open.spotify.com/track/4oMMgWfDl9k3FUIL6BltNs) | [Obviame](https://open.spotify.com/artist/5O2OGECehpgmmdVmWInftr) | [Altitude](https://open.spotify.com/album/2g8YMB3eMQVfkfmhxuQI6j) | 3:02 | 2024-08-30 |  |

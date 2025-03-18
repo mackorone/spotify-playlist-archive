@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate the season with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,894 likes - 70 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,887 likes - 70 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 48 | [I Saw Three Ships](https://open.spotify.com/track/5XRkCGAzvGsG1ygRm1JPd1) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [On Christmas Day! \(20 Holiday Family Favorites\)](https://open.spotify.com/album/6yPYut6ZVZqhJICvp84Ucc) | 1:56 |
 | 49 | [Up on the Housetop](https://open.spotify.com/track/3psbuTV2kE7qTFdTDQU39w) | [Fisher\-Price](https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Fisher\-Price Holiday Favorites](https://open.spotify.com/album/1Zb1osR7tSDPUcbh28NqaR) | 1:23 |
 | 50 | [Christmas Time](https://open.spotify.com/track/6IDvTrlkrfNjbT5K8KDpIg) | [The Fixies](https://open.spotify.com/artist/1GmIrV9vwP3OqwrvUI64nm) | [Christmas Time](https://open.spotify.com/album/51RNxuaLwgCQ4dY1zTh9TC) | 2:05 |
-| 51 | [Dear Santa, I tried](https://open.spotify.com/track/0ibytb9kWM9HOlzfT6ND0D) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [Dear Santa, I tried](https://open.spotify.com/album/15Yi1iLZt6Zrf8dkNhX6D4) | 1:46 |
+| 51 | [My Happy Sled + Jingle Bells](https://open.spotify.com/track/2fftyBYmRMCTiIIpQNa8JC) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [My Happy Sled + Jingle Bells](https://open.spotify.com/album/3ZCCNYnKQwlLCqtcoEygIh) | 3:00 |
 | 52 | [Wintertime is better with friends](https://open.spotify.com/track/4ypLX5jEzTcsCdiyXoiqP7) | [Mini Smiley](https://open.spotify.com/artist/60IT25papFnCsrfkel54e8) | [Christmas Songs](https://open.spotify.com/album/5XBcomV7h7rzOiQULV6o0m) | 2:36 |
 | 53 | [Christmas Time](https://open.spotify.com/track/7zaBeDLJCht8KSvkvGIRje) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Pj Panda Christmas Party 2](https://open.spotify.com/album/4xIEYSi2W8tIE3O8km7GJ3) | 2:01 |
 | 54 | [We Wish You a Merry Christmas](https://open.spotify.com/track/7Ctxl1dKrbv8GAuFxzJ8pR) | [Plim Plim](https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8) | [Merry Christmas! Vol\. 2](https://open.spotify.com/album/4dXjs365PDPBoQmxyPreef) | 2:14 |
 | 55 | [Frenchie, Don't Eat The Christmas Tree](https://open.spotify.com/track/1quDa34OPuY1chb0vAKmtO) | [Marc Biala](https://open.spotify.com/artist/6LLoUeo7ZlkB1Sy5yIlVSg) | [Frenchie, Don't Eat The Christmas Tree](https://open.spotify.com/album/2RsXIpTTgPkd0F7YDUi7uH) | 2:16 |
 | 56 | [Joy to the World](https://open.spotify.com/track/3cFuSTypYJO8LF2TYz8Ass) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Joy to the World](https://open.spotify.com/album/6e5Hmvy9OWlcAq8ucP7iS9) | 2:07 |
-| 57 | [My Happy Sled + Jingle Bells](https://open.spotify.com/track/2fftyBYmRMCTiIIpQNa8JC) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [My Happy Sled + Jingle Bells](https://open.spotify.com/album/3ZCCNYnKQwlLCqtcoEygIh) | 3:00 |
+| 57 | [Dear Santa, I tried](https://open.spotify.com/track/0ibytb9kWM9HOlzfT6ND0D) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [Dear Santa, I tried](https://open.spotify.com/album/15Yi1iLZt6Zrf8dkNhX6D4) | 1:46 |
 | 58 | [We Wish You a Merry Christmas](https://open.spotify.com/track/5XssuqGt2h4vJeaYvgAd64) | [The Nursery Rhymes](https://open.spotify.com/artist/62WeEJTAzSXNxt3nXhQMj9) | [Christmas Lullabies for Babies \- Ukulele Songs](https://open.spotify.com/album/3moWHsmRQcLONCfFxCPumu) | 1:09 |
 | 59 | [Christmas Time](https://open.spotify.com/track/3dEcwdMkpGKBqikwgjGXXv) | [Jools TV](https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN) | [Christmas Time](https://open.spotify.com/album/3jOlSmUriGAdcDeSwZjgEH) | 2:42 |
 | 60 | [Wish Upon a Christmas](https://open.spotify.com/track/121fVyrxUotXXDNmoUJSAC) | [Imitator Tots](https://open.spotify.com/artist/6GV2xsgXl785KIfT2Vov6I) | [Wish Upon a Christmas](https://open.spotify.com/album/5yhVdVdyZKjPE59rxqCyVx) | 2:01 |

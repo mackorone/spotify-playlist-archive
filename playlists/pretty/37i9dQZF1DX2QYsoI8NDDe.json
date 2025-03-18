@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Vivir Quintana",
-  "num_followers": 489960,
+  "num_followers": 489954,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "El Beso",
-        "url": "https://open.spotify.com/album/7g9R1E1UH8WlAjg4zV2xfi"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 155645,
-      "name": "El Beso",
-      "url": "https://open.spotify.com/track/37yyaWgqSRle0sKxW2p4Vc"
-    },
-    {
-      "added_at": "2025-03-07 05:00:42",
-      "album": {
         "name": "Pago Por Ver",
         "url": "https://open.spotify.com/album/3wke7VdRARNq0ZVSXqgkmc"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 182586,
       "name": "Pago Por Ver",
       "url": "https://open.spotify.com/track/6OrMKlkHsK8T7FnaVOgglZ"
+    },
+    {
+      "added_at": "2025-03-07 05:00:42",
+      "album": {
+        "name": "El Beso",
+        "url": "https://open.spotify.com/album/7g9R1E1UH8WlAjg4zV2xfi"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 155645,
+      "name": "El Beso",
+      "url": "https://open.spotify.com/track/37yyaWgqSRle0sKxW2p4Vc"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -983,26 +983,6 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "Las Morras",
-        "url": "https://open.spotify.com/album/1hUbp2MmNLyqivPFkvYrYw"
-      },
-      "artists": [
-        {
-          "name": "Domenica",
-          "url": "https://open.spotify.com/artist/2Sx37QWa4qXUVVDI67pTvX"
-        },
-        {
-          "name": "Angelina Victoria",
-          "url": "https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL"
-        }
-      ],
-      "duration_ms": 197245,
-      "name": "Las Morras",
-      "url": "https://open.spotify.com/track/5fmPKuO8EhL4OdOuanUjIa"
-    },
-    {
-      "added_at": "2025-03-07 05:00:42",
-      "album": {
         "name": "Me Quedar\u00e9 Por Siempre",
         "url": "https://open.spotify.com/album/7qJYXzIyDwpYbW1AQqJ03z"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 182000,
       "name": "Me Quedar\u00e9 Por Siempre",
       "url": "https://open.spotify.com/track/6aekf4PNWIbreHKb1j4fL1"
+    },
+    {
+      "added_at": "2025-03-07 05:00:42",
+      "album": {
+        "name": "Las Morras",
+        "url": "https://open.spotify.com/album/1hUbp2MmNLyqivPFkvYrYw"
+      },
+      "artists": [
+        {
+          "name": "Domenica",
+          "url": "https://open.spotify.com/artist/2Sx37QWa4qXUVVDI67pTvX"
+        },
+        {
+          "name": "Angelina Victoria",
+          "url": "https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL"
+        }
+      ],
+      "duration_ms": 197245,
+      "name": "Las Morras",
+      "url": "https://open.spotify.com/track/5fmPKuO8EhL4OdOuanUjIa"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "TONTA",
-        "url": "https://open.spotify.com/album/7gfp7ejyLLRYpJpsinVgxX"
-      },
-      "artists": [
-        {
-          "name": "NXNNI",
-          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
-        }
-      ],
-      "duration_ms": 162453,
-      "name": "TONTA",
-      "url": "https://open.spotify.com/track/5Tl27NRoLSRTV1WRUSdnUk"
-    },
-    {
-      "added_at": "2025-03-07 05:00:42",
-      "album": {
         "name": "A Mucha Honra",
         "url": "https://open.spotify.com/album/1IbcDpHFX8oKYnipXxeZmG"
       },
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
+        "name": "TONTA",
+        "url": "https://open.spotify.com/album/7gfp7ejyLLRYpJpsinVgxX"
+      },
+      "artists": [
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        }
+      ],
+      "duration_ms": 162453,
+      "name": "TONTA",
+      "url": "https://open.spotify.com/track/5Tl27NRoLSRTV1WRUSdnUk"
+    },
+    {
+      "added_at": "2025-03-07 05:00:42",
+      "album": {
         "name": "Aguanta Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4cslzaiSqKBdavHlQkSe10"
       },
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/4mWjo0GCQ0LaFZOrZppIEI"
-      },
-      "artists": [
-        {
-          "name": "Domenica",
-          "url": "https://open.spotify.com/artist/2Sx37QWa4qXUVVDI67pTvX"
-        }
-      ],
-      "duration_ms": 177150,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/2yTBoj98BbfJx72n3Npbt2"
-    },
-    {
-      "added_at": "2025-03-07 05:00:42",
-      "album": {
         "name": "Pa Donde Sea",
         "url": "https://open.spotify.com/album/73mXUPl4AI4WSSiYOpnded"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 126412,
       "name": "Pa Donde Sea",
       "url": "https://open.spotify.com/track/3saOhEuvUlZLkcrxyu8kyM"
+    },
+    {
+      "added_at": "2025-03-07 05:00:42",
+      "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/4mWjo0GCQ0LaFZOrZppIEI"
+      },
+      "artists": [
+        {
+          "name": "Domenica",
+          "url": "https://open.spotify.com/artist/2Sx37QWa4qXUVVDI67pTvX"
+        }
+      ],
+      "duration_ms": 177150,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/2yTBoj98BbfJx72n3Npbt2"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "Te Mereces Un Amor",
-        "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Te Mereces Un Amor",
-      "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
-    },
-    {
-      "added_at": "2025-03-07 05:00:42",
-      "album": {
         "name": "Do\u00f1a Soledad",
         "url": "https://open.spotify.com/album/6xu4RkKBWn5YM5DUyG8n4W"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 140997,
       "name": "Do\u00f1a Soledad",
       "url": "https://open.spotify.com/track/4QhqXxZK9nm914O4N8URAf"
+    },
+    {
+      "added_at": "2025-03-07 05:00:42",
+      "album": {
+        "name": "Te Mereces Un Amor",
+        "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Te Mereces Un Amor",
+      "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
+        "name": "Ni Pedo",
+        "url": "https://open.spotify.com/album/1V9Cd1r9p6u1oDGuHriLsF"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+        }
+      ],
+      "duration_ms": 142955,
+      "name": "Ni Pedo",
+      "url": "https://open.spotify.com/track/3WLdR3ObZtUiFwZgr8n7pE"
+    },
+    {
+      "added_at": "2025-03-07 05:00:42",
+      "album": {
         "name": "CHIQUIS - BEE SIDE",
         "url": "https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4"
       },
@@ -1467,22 +1483,6 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "Ni Pedo",
-        "url": "https://open.spotify.com/album/1V9Cd1r9p6u1oDGuHriLsF"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e9lica Gallegos",
-          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
-        }
-      ],
-      "duration_ms": 142955,
-      "name": "Ni Pedo",
-      "url": "https://open.spotify.com/track/3WLdR3ObZtUiFwZgr8n7pE"
-    },
-    {
-      "added_at": "2025-03-07 05:00:42",
-      "album": {
         "name": "Donde Todo Comenzo",
         "url": "https://open.spotify.com/album/3AvSFdVFojl9hmt7xxC7LH"
       },
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
+        "name": "Esto Es Lo M\u00edo",
+        "url": "https://open.spotify.com/album/2LiyZ5nz5himXbdbSVJUl9"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+        }
+      ],
+      "duration_ms": 121141,
+      "name": "Esto Es Lo M\u00edo",
+      "url": "https://open.spotify.com/track/3QPtJy4luaQEW2BhhAhv5i"
+    },
+    {
+      "added_at": "2025-03-07 05:00:42",
+      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/5Op1x1Hx8j3vYjnEBLGS6v"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 178364,
       "name": "Vete",
       "url": "https://open.spotify.com/track/6sdyIPisM0l6okphIRIdjU"
-    },
-    {
-      "added_at": "2025-03-07 05:00:42",
-      "album": {
-        "name": "Asi Hablamos en Tijuana",
-        "url": "https://open.spotify.com/album/1ZJdq8T70yjgAoQ5dq6t7Z"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 167223,
-      "name": "Asi Hablamos en Tijuana",
-      "url": "https://open.spotify.com/track/5yR0SsJoB4Z8ZnUU2DTOaU"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -1563,18 +1563,34 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "Esto Es Lo M\u00edo",
-        "url": "https://open.spotify.com/album/2LiyZ5nz5himXbdbSVJUl9"
+        "name": "Asi Hablamos en Tijuana",
+        "url": "https://open.spotify.com/album/1ZJdq8T70yjgAoQ5dq6t7Z"
       },
       "artists": [
         {
-          "name": "Ang\u00e9lica Gallegos",
-          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 121141,
-      "name": "Esto Es Lo M\u00edo",
-      "url": "https://open.spotify.com/track/3QPtJy4luaQEW2BhhAhv5i"
+      "duration_ms": 167223,
+      "name": "Asi Hablamos en Tijuana",
+      "url": "https://open.spotify.com/track/5yR0SsJoB4Z8ZnUU2DTOaU"
+    },
+    {
+      "added_at": "2025-03-07 05:00:42",
+      "album": {
+        "name": "NOS ALUMBRO LA LUNA",
+        "url": "https://open.spotify.com/album/5kor3uRlpC1trzdASyhoU7"
+      },
+      "artists": [
+        {
+          "name": "Lili Zetina",
+          "url": "https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j"
+        }
+      ],
+      "duration_ms": 157481,
+      "name": "NOS ALUMBRO LA LUNA",
+      "url": "https://open.spotify.com/track/0Z4hp4L6dbdO35tVTCmQ4H"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -1599,22 +1615,6 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "NOS ALUMBRO LA LUNA",
-        "url": "https://open.spotify.com/album/5kor3uRlpC1trzdASyhoU7"
-      },
-      "artists": [
-        {
-          "name": "Lili Zetina",
-          "url": "https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j"
-        }
-      ],
-      "duration_ms": 157481,
-      "name": "NOS ALUMBRO LA LUNA",
-      "url": "https://open.spotify.com/track/0Z4hp4L6dbdO35tVTCmQ4H"
-    },
-    {
-      "added_at": "2025-03-07 05:00:42",
-      "album": {
         "name": "Te mereces un amor",
         "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
       },
@@ -1627,22 +1627,6 @@
       "duration_ms": 224160,
       "name": "La Casa de la Esquina",
       "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
-    },
-    {
-      "added_at": "2025-03-07 05:00:42",
-      "album": {
-        "name": "Al Olvido",
-        "url": "https://open.spotify.com/album/4SEU3UedBgW7TYvCmPYhz2"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Al Olvido",
-      "url": "https://open.spotify.com/track/3KGzELBfeMGnI9tSWyMNgU"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -1683,6 +1667,22 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
+        "name": "Al Olvido",
+        "url": "https://open.spotify.com/album/4SEU3UedBgW7TYvCmPYhz2"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Al Olvido",
+      "url": "https://open.spotify.com/track/3KGzELBfeMGnI9tSWyMNgU"
+    },
+    {
+      "added_at": "2025-03-07 05:00:42",
+      "album": {
         "name": "Dos Balas",
         "url": "https://open.spotify.com/album/76v60AQbzVgs6YyKUtOVgb"
       },
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
+        "name": "Tres Veces Te Enga\u00f1e",
+        "url": "https://open.spotify.com/album/7c375M7evTfsicTNfPV3Yw"
+      },
+      "artists": [
+        {
+          "name": "Sarah La Morena",
+          "url": "https://open.spotify.com/artist/7073ZEqNEhm0NGaGMnpbFQ"
+        }
+      ],
+      "duration_ms": 215999,
+      "name": "Tres Veces Te Enga\u00f1e",
+      "url": "https://open.spotify.com/track/4IqKKRx9af3qGiSC9rdqMz"
+    },
+    {
+      "added_at": "2025-03-07 05:00:42",
+      "album": {
         "name": "Tres Mundos",
         "url": "https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk"
       },
@@ -1739,22 +1755,6 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "Tres Veces Te Enga\u00f1e",
-        "url": "https://open.spotify.com/album/7c375M7evTfsicTNfPV3Yw"
-      },
-      "artists": [
-        {
-          "name": "Sarah La Morena",
-          "url": "https://open.spotify.com/artist/7073ZEqNEhm0NGaGMnpbFQ"
-        }
-      ],
-      "duration_ms": 215999,
-      "name": "Tres Veces Te Enga\u00f1e",
-      "url": "https://open.spotify.com/track/4IqKKRx9af3qGiSC9rdqMz"
-    },
-    {
-      "added_at": "2025-03-07 05:00:42",
-      "album": {
         "name": "Ni El Dinero Ni Nada (En Vivo)",
         "url": "https://open.spotify.com/album/7g5OiP73DVPgH2y0YcrKAP"
       },
@@ -1767,6 +1767,22 @@
       "duration_ms": 150935,
       "name": "Ni El Dinero Ni Nada - En Vivo",
       "url": "https://open.spotify.com/track/70Z5TUJaJ3G9335olKP7SL"
+    },
+    {
+      "added_at": "2025-03-07 05:00:42",
+      "album": {
+        "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
+        "url": "https://open.spotify.com/album/3ZABi0k9MypplQrI3Nhjge"
+      },
+      "artists": [
+        {
+          "name": "Priscila y Sus Balas De Plata",
+          "url": "https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO"
+        }
+      ],
+      "duration_ms": 529000,
+      "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
+      "url": "https://open.spotify.com/track/2ZhXMT6srfdYRpjmppVlKA"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -1803,22 +1819,6 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
-        "url": "https://open.spotify.com/album/3ZABi0k9MypplQrI3Nhjge"
-      },
-      "artists": [
-        {
-          "name": "Priscila y Sus Balas De Plata",
-          "url": "https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO"
-        }
-      ],
-      "duration_ms": 529000,
-      "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
-      "url": "https://open.spotify.com/track/2ZhXMT6srfdYRpjmppVlKA"
-    },
-    {
-      "added_at": "2025-03-07 05:00:42",
-      "album": {
         "name": "Ya No Te Pienso",
         "url": "https://open.spotify.com/album/1Q1lcynXqfrHqOqc4LyEAS"
       },
@@ -1851,18 +1851,18 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/1WQjrvnjK6hrI1qJMLTWzE"
+        "name": "Entre la Guerra y el Amor",
+        "url": "https://open.spotify.com/album/4dGWpZzWmzh35ofyU6GqzO"
       },
       "artists": [
         {
-          "name": "Fatima Campo",
-          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 173613,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/1sjqFkrXXF8FrmMr19HXUo"
+      "duration_ms": 178826,
+      "name": "Entre la Guerra y el Amor",
+      "url": "https://open.spotify.com/track/1EV0IQkQqklR3vPQhjW3cU"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -1883,18 +1883,18 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "Entre la Guerra y el Amor",
-        "url": "https://open.spotify.com/album/4dGWpZzWmzh35ofyU6GqzO"
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/1WQjrvnjK6hrI1qJMLTWzE"
       },
       "artists": [
         {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
         }
       ],
-      "duration_ms": 178826,
-      "name": "Entre la Guerra y el Amor",
-      "url": "https://open.spotify.com/track/1EV0IQkQqklR3vPQhjW3cU"
+      "duration_ms": 173613,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/1sjqFkrXXF8FrmMr19HXUo"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "Rosa Pastel",
-        "url": "https://open.spotify.com/album/1Rv252BlB3FncjXuOv3SEK"
-      },
-      "artists": [
-        {
-          "name": "NXNNI",
-          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
-        }
-      ],
-      "duration_ms": 185040,
-      "name": "Rosa Pastel",
-      "url": "https://open.spotify.com/track/7JBVvPuKETheoyCOqQ2y2P"
-    },
-    {
-      "added_at": "2025-03-07 05:00:42",
-      "album": {
         "name": "Te Me Sigues Antojando",
         "url": "https://open.spotify.com/album/5MmoawkYlXuROoreINB1k6"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 185360,
       "name": "Te Me Sigues Antojando",
       "url": "https://open.spotify.com/track/1lmHmsQN66qHztoYgWrzZy"
+    },
+    {
+      "added_at": "2025-03-07 05:00:42",
+      "album": {
+        "name": "Rosa Pastel",
+        "url": "https://open.spotify.com/album/1Rv252BlB3FncjXuOv3SEK"
+      },
+      "artists": [
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        }
+      ],
+      "duration_ms": 185040,
+      "name": "Rosa Pastel",
+      "url": "https://open.spotify.com/track/7JBVvPuKETheoyCOqQ2y2P"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "Mujeres al Tiro",
-        "url": "https://open.spotify.com/album/577zkQIUhCOe1sNx2UT3Hg"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 145962,
-      "name": "Mujeres al Tiro",
-      "url": "https://open.spotify.com/track/5xQKTTsrltk1SBrWTGjzD8"
-    },
-    {
-      "added_at": "2025-03-07 05:00:42",
-      "album": {
         "name": "NADIE TE NECESITA",
         "url": "https://open.spotify.com/album/6o9qf3JCGBTibrBlmDDgyx"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 177000,
       "name": "NADIE TE NECESITA",
       "url": "https://open.spotify.com/track/2MQd8ifA2TMa0YoRJSKQo9"
+    },
+    {
+      "added_at": "2025-03-07 05:00:42",
+      "album": {
+        "name": "Mujeres al Tiro",
+        "url": "https://open.spotify.com/album/577zkQIUhCOe1sNx2UT3Hg"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "duration_ms": 145962,
+      "name": "Mujeres al Tiro",
+      "url": "https://open.spotify.com/track/5xQKTTsrltk1SBrWTGjzD8"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "T\u00fa, Solamente T\u00fa",
-        "url": "https://open.spotify.com/album/2vSo3dxG5oktb1HKdI1Mof"
-      },
-      "artists": [
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 202219,
-      "name": "T\u00fa, Solamente T\u00fa",
-      "url": "https://open.spotify.com/track/71NhyYmqQL4TcCmVvLZG5i"
-    },
-    {
-      "added_at": "2025-03-07 05:00:42",
-      "album": {
         "name": "Cambio De Canci\u00f3n",
         "url": "https://open.spotify.com/album/669yLYUn6jylypYi5lmge1"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 169548,
       "name": "Cambio De Canci\u00f3n",
       "url": "https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q"
+    },
+    {
+      "added_at": "2025-03-07 05:00:42",
+      "album": {
+        "name": "T\u00fa, Solamente T\u00fa",
+        "url": "https://open.spotify.com/album/2vSo3dxG5oktb1HKdI1Mof"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 202219,
+      "name": "T\u00fa, Solamente T\u00fa",
+      "url": "https://open.spotify.com/track/71NhyYmqQL4TcCmVvLZG5i"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -2303,6 +2303,22 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
+        "name": "Busca Otro Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6fvx4HALVK3h4cGd24v6IQ"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 229077,
+      "name": "Busca Otro Amor (En Vivo)",
+      "url": "https://open.spotify.com/track/612bRKznhv8gN6Jwsr5IPX"
+    },
+    {
+      "added_at": "2025-03-07 05:00:42",
+      "album": {
         "name": "No Me Pregunten Por \u00c9l",
         "url": "https://open.spotify.com/album/3tF7QyTPnYypPP9LXAG5cm"
       },
@@ -2335,22 +2351,6 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "Beliconas",
-        "url": "https://open.spotify.com/album/03dOg3kjLlQ5ftioBZ7KmD"
-      },
-      "artists": [
-        {
-          "name": "Victoria La Mala",
-          "url": "https://open.spotify.com/artist/67Ve4PFfgeDZuowPNJ42fc"
-        }
-      ],
-      "duration_ms": 161506,
-      "name": "Beliconas",
-      "url": "https://open.spotify.com/track/71jVCWrWErZhrvVywvVLgM"
-    },
-    {
-      "added_at": "2025-03-07 05:00:42",
-      "album": {
         "name": "Espero",
         "url": "https://open.spotify.com/album/0NsFKfShP1vNxOf6MzSGjf"
       },
@@ -2367,18 +2367,18 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "Busca Otro Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6fvx4HALVK3h4cGd24v6IQ"
+        "name": "Beliconas",
+        "url": "https://open.spotify.com/album/03dOg3kjLlQ5ftioBZ7KmD"
       },
       "artists": [
         {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+          "name": "Victoria La Mala",
+          "url": "https://open.spotify.com/artist/67Ve4PFfgeDZuowPNJ42fc"
         }
       ],
-      "duration_ms": 229077,
-      "name": "Busca Otro Amor (En Vivo)",
-      "url": "https://open.spotify.com/track/612bRKznhv8gN6Jwsr5IPX"
+      "duration_ms": 161506,
+      "name": "Beliconas",
+      "url": "https://open.spotify.com/track/71jVCWrWErZhrvVywvVLgM"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -2499,22 +2499,6 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "No Te Vas",
-        "url": "https://open.spotify.com/album/0MJ8NfcM3aZg6H1ILrsxNv"
-      },
-      "artists": [
-        {
-          "name": "MAR",
-          "url": "https://open.spotify.com/artist/07z2rbjbFEmLhSxD1ZD7wu"
-        }
-      ],
-      "duration_ms": 174524,
-      "name": "No Te Vas",
-      "url": "https://open.spotify.com/track/2phShCIgHpwSsUaW4btIQn"
-    },
-    {
-      "added_at": "2025-03-07 05:00:42",
-      "album": {
         "name": "As\u00ed Nom\u00e1s",
         "url": "https://open.spotify.com/album/1DJ1t2VC98iToO2Xw0cIPy"
       },
@@ -2527,6 +2511,22 @@
       "duration_ms": 191028,
       "name": "As\u00ed Nom\u00e1s",
       "url": "https://open.spotify.com/track/56J7bkvuNDfs2e9YGbI01E"
+    },
+    {
+      "added_at": "2025-03-07 05:00:42",
+      "album": {
+        "name": "No Te Vas",
+        "url": "https://open.spotify.com/album/0MJ8NfcM3aZg6H1ILrsxNv"
+      },
+      "artists": [
+        {
+          "name": "MAR",
+          "url": "https://open.spotify.com/artist/07z2rbjbFEmLhSxD1ZD7wu"
+        }
+      ],
+      "duration_ms": 174524,
+      "name": "No Te Vas",
+      "url": "https://open.spotify.com/track/2phShCIgHpwSsUaW4btIQn"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -2567,18 +2567,18 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "Mami",
-        "url": "https://open.spotify.com/album/2EeLB9blYyIU7LiTsyrR93"
+        "name": "No Hay Manera",
+        "url": "https://open.spotify.com/album/2HLXZBob8SXDFTYA8Bi2ZV"
       },
       "artists": [
         {
-          "name": "Ivonne Galaz",
-          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+          "name": "Vicky Terrazas",
+          "url": "https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG"
         }
       ],
-      "duration_ms": 163124,
-      "name": "Mami",
-      "url": "https://open.spotify.com/track/4Bxkwi7HQ9jBuAvTiby8Hy"
+      "duration_ms": 245576,
+      "name": "No Hay Manera",
+      "url": "https://open.spotify.com/track/7e7i4o5cXELRWOJuAwNH4u"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -2595,22 +2595,6 @@
       "duration_ms": 234864,
       "name": "Besarte As\u00ed",
       "url": "https://open.spotify.com/track/4xTWpD61M50UT4ocYdhUwQ"
-    },
-    {
-      "added_at": "2025-03-07 05:00:42",
-      "album": {
-        "name": "No Hay Manera",
-        "url": "https://open.spotify.com/album/2HLXZBob8SXDFTYA8Bi2ZV"
-      },
-      "artists": [
-        {
-          "name": "Vicky Terrazas",
-          "url": "https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG"
-        }
-      ],
-      "duration_ms": 245576,
-      "name": "No Hay Manera",
-      "url": "https://open.spotify.com/track/7e7i4o5cXELRWOJuAwNH4u"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -2639,22 +2623,18 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "MMV",
-        "url": "https://open.spotify.com/album/0aQOnHAszcOTYoKvjKRCLg"
+        "name": "Mami",
+        "url": "https://open.spotify.com/album/2EeLB9blYyIU7LiTsyrR93"
       },
       "artists": [
         {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        },
-        {
-          "name": "NXNNI",
-          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
         }
       ],
-      "duration_ms": 174000,
-      "name": "No Pude Mas",
-      "url": "https://open.spotify.com/track/6RDCYF5avxZBDOWtUfVOGK"
+      "duration_ms": 163124,
+      "name": "Mami",
+      "url": "https://open.spotify.com/track/4Bxkwi7HQ9jBuAvTiby8Hy"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -2675,18 +2655,22 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "Un Amor en el Olvido",
-        "url": "https://open.spotify.com/album/6q00MyI9sqAZ5RcglZzi0R"
+        "name": "MMV",
+        "url": "https://open.spotify.com/album/0aQOnHAszcOTYoKvjKRCLg"
       },
       "artists": [
         {
-          "name": "Irene del Rosario",
-          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        },
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
         }
       ],
-      "duration_ms": 182040,
-      "name": "Un Amor en el Olvido",
-      "url": "https://open.spotify.com/track/0HospTDnDM29cIreAUpPqQ"
+      "duration_ms": 174000,
+      "name": "No Pude Mas",
+      "url": "https://open.spotify.com/track/6RDCYF5avxZBDOWtUfVOGK"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -2707,6 +2691,22 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
+        "name": "Un Amor en el Olvido",
+        "url": "https://open.spotify.com/album/6q00MyI9sqAZ5RcglZzi0R"
+      },
+      "artists": [
+        {
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Un Amor en el Olvido",
+      "url": "https://open.spotify.com/track/0HospTDnDM29cIreAUpPqQ"
+    },
+    {
+      "added_at": "2025-03-07 05:00:42",
+      "album": {
         "name": "Por Confiar En El Amor",
         "url": "https://open.spotify.com/album/0cuBvItc5BUgQWh0WJ7pW6"
       },
@@ -2719,22 +2719,6 @@
       "duration_ms": 166763,
       "name": "Por Confiar En El Amor",
       "url": "https://open.spotify.com/track/3tQbxSWtiQH65UIKrvScfn"
-    },
-    {
-      "added_at": "2025-03-07 05:00:42",
-      "album": {
-        "name": "2 Balas",
-        "url": "https://open.spotify.com/album/6NL6xe066Q3EOcwX3Sb7J7"
-      },
-      "artists": [
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "2 Balas",
-      "url": "https://open.spotify.com/track/3wu4eH71M7yZ2dd9oPDXir"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -2771,8 +2755,8 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "El Jessy (En Vivo)",
-        "url": "https://open.spotify.com/album/3Ngx7p0l05OfeGYru824iz"
+        "name": "Ismael (En Vivo)",
+        "url": "https://open.spotify.com/album/5CJzX8xV9XeSlC22tWPJ4T"
       },
       "artists": [
         {
@@ -2780,25 +2764,9 @@
           "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
         }
       ],
-      "duration_ms": 179256,
-      "name": "El Jessy (En Vivo)",
-      "url": "https://open.spotify.com/track/5HMqqH3biqgksrHFmOTuci"
-    },
-    {
-      "added_at": "2025-03-07 05:00:42",
-      "album": {
-        "name": "3 Consejos",
-        "url": "https://open.spotify.com/album/0n3NogLDNZRwsU22lD7Q0c"
-      },
-      "artists": [
-        {
-          "name": "Irene del Rosario",
-          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
-        }
-      ],
-      "duration_ms": 222937,
-      "name": "3 Consejos",
-      "url": "https://open.spotify.com/track/5Vbg1vjwEUpXe81Rs50Ste"
+      "duration_ms": 163840,
+      "name": "Ismael (En Vivo)",
+      "url": "https://open.spotify.com/track/614Kdv71MWjSPwDK7pNyTy"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -2819,8 +2787,8 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "San Mike",
-        "url": "https://open.spotify.com/album/49o87APRm62j0t13TMOB4E"
+        "name": "2 Balas",
+        "url": "https://open.spotify.com/album/6NL6xe066Q3EOcwX3Sb7J7"
       },
       "artists": [
         {
@@ -2828,25 +2796,9 @@
           "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
         }
       ],
-      "duration_ms": 171250,
-      "name": "San Mike",
-      "url": "https://open.spotify.com/track/1IsK1ydUSOuc32aMwYB0wa"
-    },
-    {
-      "added_at": "2025-03-07 05:00:42",
-      "album": {
-        "name": "Secreto a Voces",
-        "url": "https://open.spotify.com/album/2BuPVkRF2ztEWjMbjL1lGY"
-      },
-      "artists": [
-        {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
-        }
-      ],
-      "duration_ms": 189169,
-      "name": "Secreto a Voces",
-      "url": "https://open.spotify.com/track/6DBvRsanC4rtCMxT3J1hTL"
+      "duration_ms": 171500,
+      "name": "2 Balas",
+      "url": "https://open.spotify.com/track/3wu4eH71M7yZ2dd9oPDXir"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -2867,6 +2819,22 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
+        "name": "Secreto a Voces",
+        "url": "https://open.spotify.com/album/2BuPVkRF2ztEWjMbjL1lGY"
+      },
+      "artists": [
+        {
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        }
+      ],
+      "duration_ms": 189169,
+      "name": "Secreto a Voces",
+      "url": "https://open.spotify.com/track/6DBvRsanC4rtCMxT3J1hTL"
+    },
+    {
+      "added_at": "2025-03-07 05:00:42",
+      "album": {
         "name": "Quiz\u00e1s Ma\u00f1ana",
         "url": "https://open.spotify.com/album/09JmTJCZF852vM3wsiO5iw"
       },
@@ -2879,6 +2847,54 @@
       "duration_ms": 275064,
       "name": "Quiz\u00e1s Ma\u00f1ana",
       "url": "https://open.spotify.com/track/4Jze2pgd8QU9XHjzFCIFKL"
+    },
+    {
+      "added_at": "2025-03-07 05:00:42",
+      "album": {
+        "name": "3 Consejos",
+        "url": "https://open.spotify.com/album/0n3NogLDNZRwsU22lD7Q0c"
+      },
+      "artists": [
+        {
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+        }
+      ],
+      "duration_ms": 222937,
+      "name": "3 Consejos",
+      "url": "https://open.spotify.com/track/5Vbg1vjwEUpXe81Rs50Ste"
+    },
+    {
+      "added_at": "2025-03-07 05:00:42",
+      "album": {
+        "name": "San Mike",
+        "url": "https://open.spotify.com/album/49o87APRm62j0t13TMOB4E"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        }
+      ],
+      "duration_ms": 171250,
+      "name": "San Mike",
+      "url": "https://open.spotify.com/track/1IsK1ydUSOuc32aMwYB0wa"
+    },
+    {
+      "added_at": "2025-03-07 05:00:42",
+      "album": {
+        "name": "El Jessy (En Vivo)",
+        "url": "https://open.spotify.com/album/3Ngx7p0l05OfeGYru824iz"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 179256,
+      "name": "El Jessy (En Vivo)",
+      "url": "https://open.spotify.com/track/5HMqqH3biqgksrHFmOTuci"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -2919,42 +2935,6 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "Puras de Anta\u00f1o (En Vivo)",
-        "url": "https://open.spotify.com/album/2FgnOXjYaFkzaoduSBd8L9"
-      },
-      "artists": [
-        {
-          "name": "Irene del Rosario",
-          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
-        },
-        {
-          "name": "El Bandolero \u201cMe\u00f1o Sanchez\u201d",
-          "url": "https://open.spotify.com/artist/1XMtJ87SixVfw7rWRBaxEi"
-        }
-      ],
-      "duration_ms": 203953,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/7BY5WC7X69hcprijxmAXZa"
-    },
-    {
-      "added_at": "2025-03-07 05:00:42",
-      "album": {
-        "name": "Ismael (En Vivo)",
-        "url": "https://open.spotify.com/album/5CJzX8xV9XeSlC22tWPJ4T"
-      },
-      "artists": [
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 163840,
-      "name": "Ismael (En Vivo)",
-      "url": "https://open.spotify.com/track/614Kdv71MWjSPwDK7pNyTy"
-    },
-    {
-      "added_at": "2025-03-07 05:00:42",
-      "album": {
         "name": "Canci\u00f3n Mixteca",
         "url": "https://open.spotify.com/album/0a1E8N0bliZhY5BRsrSNcx"
       },
@@ -2967,6 +2947,22 @@
       "duration_ms": 182815,
       "name": "Canci\u00f3n Mixteca",
       "url": "https://open.spotify.com/track/3bHiyULgixfvtCVi6uOWcs"
+    },
+    {
+      "added_at": "2025-03-07 05:00:42",
+      "album": {
+        "name": "En Vivo Con DC",
+        "url": "https://open.spotify.com/album/0WoAtQOZEwpwFCMCZXsdwu"
+      },
+      "artists": [
+        {
+          "name": "Designo Celestial",
+          "url": "https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb"
+        }
+      ],
+      "duration_ms": 151901,
+      "name": "When I was your Man - En Vivo",
+      "url": "https://open.spotify.com/track/4uD5lKiR8j3rVLVzCsEzSq"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -3003,18 +2999,22 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "En Vivo Con DC",
-        "url": "https://open.spotify.com/album/0WoAtQOZEwpwFCMCZXsdwu"
+        "name": "Puras de Anta\u00f1o (En Vivo)",
+        "url": "https://open.spotify.com/album/2FgnOXjYaFkzaoduSBd8L9"
       },
       "artists": [
         {
-          "name": "Designo Celestial",
-          "url": "https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb"
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+        },
+        {
+          "name": "El Bandolero \u201cMe\u00f1o Sanchez\u201d",
+          "url": "https://open.spotify.com/artist/1XMtJ87SixVfw7rWRBaxEi"
         }
       ],
-      "duration_ms": 151901,
-      "name": "When I was your Man - En Vivo",
-      "url": "https://open.spotify.com/track/4uD5lKiR8j3rVLVzCsEzSq"
+      "duration_ms": 203953,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/7BY5WC7X69hcprijxmAXZa"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -3035,22 +3035,6 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "Qu\u00e9date",
-        "url": "https://open.spotify.com/album/7vsZ1eLcc5cuB5RYHbtvAj"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Gonzalez",
-          "url": "https://open.spotify.com/artist/63xIVHz3HtaoAYSUhk9cWZ"
-        }
-      ],
-      "duration_ms": 203093,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/3uwZWvCoFKldnlCiTBn5vi"
-    },
-    {
-      "added_at": "2025-03-07 05:00:42",
-      "album": {
         "name": "Diosas en Texas",
         "url": "https://open.spotify.com/album/5x1bnHtL5zNcukQDnV7Kpk"
       },
@@ -3063,6 +3047,22 @@
       "duration_ms": 153600,
       "name": "No Regreses",
       "url": "https://open.spotify.com/track/7FL0je0WadxJ8uPrY7UaR4"
+    },
+    {
+      "added_at": "2025-03-07 05:00:42",
+      "album": {
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/7vsZ1eLcc5cuB5RYHbtvAj"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Gonzalez",
+          "url": "https://open.spotify.com/artist/63xIVHz3HtaoAYSUhk9cWZ"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/3uwZWvCoFKldnlCiTBn5vi"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -3167,6 +3167,22 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
+        "name": "En Mi Soledad",
+        "url": "https://open.spotify.com/album/5nVAi9SXCc6U2jouydyOOG"
+      },
+      "artists": [
+        {
+          "name": "Lluvia Ar\u00e1mbula",
+          "url": "https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92"
+        }
+      ],
+      "duration_ms": 127978,
+      "name": "Solo T\u00fa Nomas",
+      "url": "https://open.spotify.com/track/6z3ntFQzzu0aGtrHAKcCiR"
+    },
+    {
+      "added_at": "2025-03-07 05:00:42",
+      "album": {
         "name": "Quien Dijo Miedo",
         "url": "https://open.spotify.com/album/11lgpTTA3o6uoEVqgYaaMP"
       },
@@ -3199,18 +3215,18 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "En Mi Soledad",
-        "url": "https://open.spotify.com/album/5nVAi9SXCc6U2jouydyOOG"
+        "name": "Puras \u00cdntimas, Vol. 2",
+        "url": "https://open.spotify.com/album/6JUKteZl8ZyBPT9HoPKat6"
       },
       "artists": [
         {
-          "name": "Lluvia Ar\u00e1mbula",
-          "url": "https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92"
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
         }
       ],
-      "duration_ms": 127978,
-      "name": "Solo T\u00fa Nomas",
-      "url": "https://open.spotify.com/track/6z3ntFQzzu0aGtrHAKcCiR"
+      "duration_ms": 180869,
+      "name": "Dos Mujeres Que Se Aman",
+      "url": "https://open.spotify.com/track/0zseYjZafRmPqVnorzeN1z"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -3227,22 +3243,6 @@
       "duration_ms": 145518,
       "name": "El Bato Gacho",
       "url": "https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq"
-    },
-    {
-      "added_at": "2025-03-07 05:00:42",
-      "album": {
-        "name": "Puras \u00cdntimas, Vol. 2",
-        "url": "https://open.spotify.com/album/6JUKteZl8ZyBPT9HoPKat6"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 180869,
-      "name": "Dos Mujeres Que Se Aman",
-      "url": "https://open.spotify.com/track/0zseYjZafRmPqVnorzeN1z"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -3267,22 +3267,6 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "G. Blanco",
-        "url": "https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ"
-      },
-      "artists": [
-        {
-          "name": "GiGi",
-          "url": "https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "G. Blanco",
-      "url": "https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8"
-    },
-    {
-      "added_at": "2025-03-07 05:00:42",
-      "album": {
         "name": "Gracias Porque Volviste (En Vivo)",
         "url": "https://open.spotify.com/album/0onBB8E2ddzVEt70JfwxfJ"
       },
@@ -3299,18 +3283,18 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
-        "name": "\u00bfPor Qu\u00e9 Te Conoc\u00ed?",
-        "url": "https://open.spotify.com/album/3bhgyMNnZTGZoA6NEe6X0H"
+        "name": "G. Blanco",
+        "url": "https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ"
       },
       "artists": [
         {
-          "name": "Mariachi Divas de Cindy Shea",
-          "url": "https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd"
+          "name": "GiGi",
+          "url": "https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8"
         }
       ],
-      "duration_ms": 209185,
-      "name": "\u00bfPor Qu\u00e9 Te Conoc\u00ed?",
-      "url": "https://open.spotify.com/track/7LqpB2MK0SavPSijGWJtWC"
+      "duration_ms": 178280,
+      "name": "G. Blanco",
+      "url": "https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -3327,6 +3311,22 @@
       "duration_ms": 117429,
       "name": "Soy Mala",
       "url": "https://open.spotify.com/track/10pyLImhmwLQcl3G4ahJZB"
+    },
+    {
+      "added_at": "2025-03-07 05:00:42",
+      "album": {
+        "name": "\u00bfPor Qu\u00e9 Te Conoc\u00ed?",
+        "url": "https://open.spotify.com/album/3bhgyMNnZTGZoA6NEe6X0H"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Divas de Cindy Shea",
+          "url": "https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd"
+        }
+      ],
+      "duration_ms": 209185,
+      "name": "\u00bfPor Qu\u00e9 Te Conoc\u00ed?",
+      "url": "https://open.spotify.com/track/7LqpB2MK0SavPSijGWJtWC"
     },
     {
       "added_at": "2025-03-07 05:00:42",
@@ -3363,6 +3363,22 @@
     {
       "added_at": "2025-03-07 05:00:42",
       "album": {
+        "name": "Me Siento Libre (En Vivo)",
+        "url": "https://open.spotify.com/album/0Z3D0zDT21or5NFSFNBFBm"
+      },
+      "artists": [
+        {
+          "name": "Gaby Romero",
+          "url": "https://open.spotify.com/artist/1LWE6vCfCcdzmBLJ8aTkKy"
+        }
+      ],
+      "duration_ms": 147896,
+      "name": "Me Siento Libre - En Vivo",
+      "url": "https://open.spotify.com/track/227vbjK2tlAOl76wNwLzl9"
+    },
+    {
+      "added_at": "2025-03-07 05:00:42",
+      "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/7woSt0FwAJM0hyV9MFOo3B"
       },
@@ -3375,22 +3391,6 @@
       "duration_ms": 221830,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/7gKM9YuToXcbqAmrPqASAt"
-    },
-    {
-      "added_at": "2025-03-07 05:00:42",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/6BlVAhCDf00WIGzOJhYqOw"
-      },
-      "artists": [
-        {
-          "name": "Grace Guill\u00e9n",
-          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
-        }
-      ],
-      "duration_ms": 233360,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/6RO01uGuxwCoJnGwrZqbRN"
     }
   ],
   "unique_name": "Women of M\u00fasica Mexicana",

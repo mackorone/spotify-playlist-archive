@@ -1,6 +1,6 @@
 {
   "description": "Music from the winners and nominees of the 82nd Golden Globe Awards. ",
-  "num_followers": 7256,
+  "num_followers": 7257,
   "original_name": "Golden Globes Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
+        "name": "Alien: Romulus (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3ATIqlNEKrhahipc3NiBqt"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Wallfisch",
+          "url": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+        }
+      ],
+      "duration_ms": 158125,
+      "name": "The Chrysalis",
+      "url": "https://open.spotify.com/track/2aUTiExslj9SGVRwZyh5VG"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
         "name": "Baby Reindeer (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/1mO7Kknfl075sdQfCQ4ixh"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 163880,
       "name": "Leaving Darrien",
       "url": "https://open.spotify.com/track/5Ebf43ulRIpMHSaWzSIIZL"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
-        "name": "Alien: Romulus (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3ATIqlNEKrhahipc3NiBqt"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Wallfisch",
-          "url": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
-        }
-      ],
-      "duration_ms": 158125,
-      "name": "The Chrysalis",
-      "url": "https://open.spotify.com/track/2aUTiExslj9SGVRwZyh5VG"
     },
     {
       "added_at": "2024-12-20 14:00:08",

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/1qQPONAR8e3OosId6ibAqm"
+      },
+      "artists": [
+        {
+          "name": "Ryan Updike",
+          "url": "https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176670,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/33VeSJ6nlBpjOx2lvgYoMq"
+    },
+    {
+      "album": {
         "name": "Uke Classics",
         "url": "https://open.spotify.com/album/27AhRs4C9zr6daRn8f0ckn"
       },
@@ -70,7 +88,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 198349,
       "name": "Adore You - Ukulele Version",
       "url": "https://open.spotify.com/track/2zO27QsWDlFWJuquK2I7T5"
@@ -88,7 +106,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 172265,
       "name": "All About That Bass",
       "url": "https://open.spotify.com/track/4yFXcoJlvPFG4te0WU6rMr"
@@ -340,7 +358,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 157421,
       "name": "Bones",
       "url": "https://open.spotify.com/track/1JaX6jmjUKiXHfurxbYhpv"
@@ -581,6 +599,42 @@
     },
     {
       "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/1sK5Yy6L3jJgb7j9HGqZma"
+      },
+      "artists": [
+        {
+          "name": "Michelle Turtle",
+          "url": "https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246139,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/4U865nUJqG2MrMvafrTvR3"
+    },
+    {
+      "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/3pnNOpZHb8EXMktsu8cMB3"
+      },
+      "artists": [
+        {
+          "name": "Hannah Sugar",
+          "url": "https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184191,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/3VuvWfMoSfj0mAaNI4xrFm"
+    },
+    {
+      "album": {
         "name": "Ukulele 2020 Hits! (Ukulele Version)",
         "url": "https://open.spotify.com/album/5SO7tllIFBT4ZqFbRgdEkk"
       },
@@ -592,7 +646,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 181385,
       "name": "Don't Start Now - Ukulele Version",
       "url": "https://open.spotify.com/track/12v4asulImAdU8BagKjivV"
@@ -833,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Havana",
+        "url": "https://open.spotify.com/album/55z94pd9HT56Vhcp6dJbeh"
+      },
+      "artists": [
+        {
+          "name": "Michelle Turtle",
+          "url": "https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123066,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/03SFncapMVwsxXvXGw56FR"
+    },
+    {
+      "album": {
         "name": "Heather",
         "url": "https://open.spotify.com/album/0AUiVvugI0KDonoRFZktg9"
       },
@@ -974,6 +1046,24 @@
       "duration_ms": 260142,
       "name": "Home",
       "url": "https://open.spotify.com/track/4WgELWW9pq8cTJsTKryjpA"
+    },
+    {
+      "album": {
+        "name": "HOT TO GO!",
+        "url": "https://open.spotify.com/album/5x2YRGeuBDkdfr9JlGV1oK"
+      },
+      "artists": [
+        {
+          "name": "Michelle Turtle",
+          "url": "https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184492,
+      "name": "HOT TO GO!",
+      "url": "https://open.spotify.com/track/5LTSLxgxBVrpxJ2Epkob1B"
     },
     {
       "album": {
@@ -1788,7 +1878,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 161196,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/6UtasvGN57nLSQURZzSMYh"
@@ -2264,6 +2354,24 @@
       "duration_ms": 197306,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/6Fs6w8DpsvDWSBZ31YMQOO"
+    },
+    {
+      "album": {
+        "name": "That's So True",
+        "url": "https://open.spotify.com/album/1PzQPMKhp02IYgy9m03tOW"
+      },
+      "artists": [
+        {
+          "name": "Hannah Sugar",
+          "url": "https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179438,
+      "name": "That's So True",
+      "url": "https://open.spotify.com/track/3TQR9sX6WofUdAGqBizdhi"
     },
     {
       "album": {

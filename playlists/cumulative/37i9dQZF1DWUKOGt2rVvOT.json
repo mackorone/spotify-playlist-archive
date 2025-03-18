@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u9019\u4e9b\u6b4c\u9084\u5f88\u7d05\u4e5f\uff01\u5df2\u7d93\u6709\u5169\u4e09\u5e74\u4e86\uff1f\u9ad8\u4eba\u6c23\u91d1\u66f2\u8b93\u4f60\u4e00\u8def\u807d\u4e0b\u53bb\uff01Cover: \u738b\u5fc3\u51cc (Cyndi Wang)",
+  "description": "\u9019\u4e9b\u6b4c\u9084\u5f88\u7d05\u4e5f\uff01\u5df2\u7d93\u6709\u5169\u4e09\u5e74\u4e86\uff1f\u9ad8\u4eba\u6c23\u91d1\u66f2\u8b93\u4f60\u4e00\u8def\u807d\u4e0b\u53bb\uff01Cover: \u9e8b\u5148\u751f (Mixer )",
   "name": "\u9ad8\u4eba\u6c23\u91d1\u66f2",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 156416,
       "name": "3am - Demo Ver.",
       "url": "https://open.spotify.com/track/7u8RM7nUKUk93CYsEp8Krr"
@@ -842,6 +842,24 @@
       "duration_ms": 268630,
       "name": "\u4f60\u597d\u55ce",
       "url": "https://open.spotify.com/track/2T7LYExbf85ML5WrzWBz1F"
+    },
+    {
+      "album": {
+        "name": "\u95dc\ufe52\u8207\u59b3",
+        "url": "https://open.spotify.com/album/3ppaxXLCwGE8OZFkSMJ0fR"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u5343\u5a1c",
+          "url": "https://open.spotify.com/artist/3iGNpRQH6ei188rHVvwytb"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256532,
+      "name": "\u4f60\u6210\u4e86\u6211\u597d\u591a\u500b\u8ab0",
+      "url": "https://open.spotify.com/track/0U4nAcrnz5nxHTaOxAftOt"
     },
     {
       "album": {
@@ -2384,7 +2402,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-04",
+      "date_removed": null,
       "duration_ms": 195483,
       "name": "\u6211\u4f1a\u7b49",
       "url": "https://open.spotify.com/track/5Rzpn60KTM11EBETHaF9Kt"
@@ -2546,7 +2564,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 215978,
       "name": "\u6211\u6703\u5f88\u611b\u4f60",
       "url": "https://open.spotify.com/track/7JWyo2NuGy34VrIlecg3QA"
@@ -2842,7 +2860,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-04",
+      "date_removed": null,
       "duration_ms": 253026,
       "name": "\u6700\u7b28\u7684\u601d\u5ff5",
       "url": "https://open.spotify.com/track/1ad7DutOiTpbcSGTuyJkGu"
@@ -3724,7 +3742,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 278296,
       "name": "\u8aaa\u4e0d\u51fa\u53e3 (feat. \u4f0d\u4f70)",
       "url": "https://open.spotify.com/track/3GYRteOB6zIZYNu6O0EXkW"

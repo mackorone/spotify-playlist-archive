@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle piano covers.
 
-430 songs - 22 hr 46 min
+433 songs - 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Bed of Roses \- Piano Version](https://open.spotify.com/track/6Naow8IG97ZDZfHOFCrXFe) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Calm Piano Covers no 1](https://open.spotify.com/album/1e92hWodKmzfDtXDaAyEiP) | 4:17 | 2022-11-18 | 2023-10-06 |
 | [Believe](https://open.spotify.com/track/0N9xzUyUM5qsnPLzQctbkY) | [Kim Jonas](https://open.spotify.com/artist/1FlrpSI88fx7RNjHNHbc2H) | [Believe](https://open.spotify.com/album/2CJPmEHO5WizRLynmx3pN9) | 3:05 | 2025-02-14 |  |
 | [Believe \- Piano Version](https://open.spotify.com/track/43dhdQCqo7Hl6eVaVllPaH) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [90s Piano Covers \(Vol\. 1\)](https://open.spotify.com/album/2m5eShSE6Mu4IL00sePped) | 3:17 | 2022-08-01 | 2023-11-17 |
+| [Birds of a Feather](https://open.spotify.com/track/0m3AJBXkOPykXBbvczisHm) | [Damien May](https://open.spotify.com/artist/0WTFaMNzMsXGgCGJpYX3Ou) | [Birds of a Feather](https://open.spotify.com/album/6iLAfljIFwZHe5jvMzotg5) | 2:47 | 2025-03-17 |  |
 | [Blackbird](https://open.spotify.com/track/6cexWa8kKUHMvs77YamPPs) | [Chloe Welch](https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD) | [Blackbird](https://open.spotify.com/album/3EDVscTRdrYrar4GWzCYNI) | 3:22 | 2023-06-22 |  |
 | [Blackbird](https://open.spotify.com/track/4tOBuYNT6MX1r6DaVu7HYC) | [Laszlo Teofil](https://open.spotify.com/artist/2b9trXzxgbOKfsHAJoZo9a) | [Blackbird](https://open.spotify.com/album/3nnxWFQF3NRprMU3R3V4P4) | 3:08 | 2022-12-16 | 2023-06-23 |
 | [Blessings](https://open.spotify.com/track/1Li49MRO6HwKVMS5GnjKqZ) | [Love Falk](https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK) | [Blessings](https://open.spotify.com/album/0YVoCMCJAPE1GpUZVtWA0w) | 3:23 | 2023-01-20 |  |
@@ -182,6 +183,7 @@
 | [I Feel It Coming](https://open.spotify.com/track/32iww11xhYb12qU8rZTp7c) | [Steffi du Retz](https://open.spotify.com/artist/7COfBp7javjOBGr1ibVPA8) | [I Feel It Coming](https://open.spotify.com/album/4a3t6Fj5yIoQnRW0GSNXGQ) | 3:39 | 2023-01-06 |  |
 | [I Like Me Better](https://open.spotify.com/track/3w8O04Mi1efnH8n6pFg7et) | [Tom Powers](https://open.spotify.com/artist/5tqJLLaSDpdhDAwqWgAdXM) | [The Beauty Of Piano](https://open.spotify.com/album/3zWYnKwjRMjWaGx7Ix95Jb) | 4:13 | 2022-08-01 | 2023-06-14 |
 | [I Love You So](https://open.spotify.com/track/6Pa9HUOaEaIIHMputOMIUw) | [Moelizi](https://open.spotify.com/artist/3Ai64gmUdBby8LEa6HRWEJ) | [I Love You So](https://open.spotify.com/album/4tgrB9xx23ZTp0piP2LUXz) | 3:05 | 2022-08-01 | 2023-05-06 |
+| [I Love You, I'm Sorry](https://open.spotify.com/track/6cQQn17qENxzPHazVOpeXH) | [Oak & Honey](https://open.spotify.com/artist/1uTw6urRN1eni0YP1wEGBb) | [I Love You, I'm Sorry](https://open.spotify.com/album/3dcE0xr4ZDE9bXhN4pHWxx) | 2:27 | 2025-03-17 |  |
 | [I Still Haven't Found What I'm Looking For \- Piano Version](https://open.spotify.com/track/4lPMv8xyxDTx2iLk9hwOHb) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Piano Covers Part I](https://open.spotify.com/album/0WXTylU55NFcO4gLH2e4JP) | 3:45 | 2022-11-18 |  |
 | [I Want It That Way](https://open.spotify.com/track/3xoscGfo3Sbmc00fDVEBaR) | [Sander Bjerke](https://open.spotify.com/artist/5CNvO8oqz1vgXgVLKA4ehv) | [I Want It That Way](https://open.spotify.com/album/639i9A2oB8V2mexPHN0lBM) | 3:36 | 2023-11-17 |  |
 | [I Want It That Way \- Piano](https://open.spotify.com/track/1Bu86zdORjUpEc5XX778zr) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [I Want It That Way \(Piano\)](https://open.spotify.com/album/6Sjse4JmBxoNchc9FMhhSs) | 2:12 | 2022-09-05 | 2023-04-13 |
@@ -296,7 +298,7 @@
 | [Right Here Waiting](https://open.spotify.com/track/34qR9YyC7FxLfkfq8JQS6p) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Right Here Waiting](https://open.spotify.com/album/3rPEZpmAnrGOvZWlAyfwAj) | 2:57 | 2024-02-09 |  |
 | [Right Here Waiting](https://open.spotify.com/track/6ULMLA6uLwvbMMYprohGHH) | [Korina Bedoya](https://open.spotify.com/artist/4NGAeafqorkBEwYlBZHnpt) | [Right Here Waiting](https://open.spotify.com/album/5QeI18uS9Z91uqZzpVnDcH) | 3:08 | 2023-01-06 | 2023-06-23 |
 | [River](https://open.spotify.com/track/5Jbp8J5xuVv6gd3TBR1Zvk) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [Christmas Lights](https://open.spotify.com/album/0AArO6paluj1u7vrmEBATx) | 4:10 | 2022-10-28 | 2023-02-25 |
-| [Roar](https://open.spotify.com/track/1IaC5cHREG8T3GCu6cNQq1) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [Roar](https://open.spotify.com/album/7hfurqRQar16Zd0JXrCncb) | 3:48 | 2023-11-17 |  |
+| [Roar](https://open.spotify.com/track/1IaC5cHREG8T3GCu6cNQq1) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [Roar](https://open.spotify.com/album/7hfurqRQar16Zd0JXrCncb) | 3:48 | 2023-11-17 | 2025-03-18 |
 | [Rocket Man](https://open.spotify.com/track/6ff2TinoXWHCn0JnfUAp2b) | [Fiona Greenly](https://open.spotify.com/artist/1o7MqXOsAEoLkc9YEj7m9c) | [Rocket Man](https://open.spotify.com/album/1AvBbSVmZXYJtEt5GePDMR) | 3:04 | 2023-02-24 | 2023-06-23 |
 | [Rockstar](https://open.spotify.com/track/2uM09IwC6W4Txne0cCZWmp) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [Rockstar](https://open.spotify.com/album/3BUyqgRsdfypzDEeNISpe5) | 2:55 | 2023-04-28 |  |
 | [Ruin My Life](https://open.spotify.com/track/64aOxh3nmJQYS2GqWBP4lP) | [Haley Steegens](https://open.spotify.com/artist/50oUrFxXcPqq2Sk4RVfq6e) | [Ruin My Life](https://open.spotify.com/album/2qYtTfyhjIOrudRZWE34xv) | 2:18 | 2022-09-05 |  |
@@ -355,7 +357,7 @@
 | [Tears in Heaven](https://open.spotify.com/track/5mT6hAXbgcb3IGSy2gmHtD) | [Caio Ghisi](https://open.spotify.com/artist/2nPDE1Hn3O6VYxJAjHLcsp) | [Tears in Heaven](https://open.spotify.com/album/2Dmxvjk3f8x0nwcBw7OIyb) | 3:01 | 2022-08-01 | 2023-06-09 |
 | [Thank You For The Music](https://open.spotify.com/track/5ulQSckssGmu09iyxlgCYc) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Thank You For The Music](https://open.spotify.com/album/4CJ1FrArr8OwNTKIYryekH) | 3:26 | 2023-01-06 | 2024-09-07 |
 | [That's The Way It Is](https://open.spotify.com/track/4xMDyCESzvK2wNxeslM8M5) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [Céline Piano Covers](https://open.spotify.com/album/7nJe5fPZkiHCxQ4OPGuj8k) | 2:44 | 2023-04-14 |  |
-| [THATS WHAT I WANT](https://open.spotify.com/track/2291OZxZ4Ra3FNKDhljgBr) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [CUFF IT](https://open.spotify.com/album/4yU9HvloC2VTTKnTqlNT4P) | 3:19 | 2023-03-17 |  |
+| [THATS WHAT I WANT](https://open.spotify.com/track/2291OZxZ4Ra3FNKDhljgBr) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [CUFF IT](https://open.spotify.com/album/4yU9HvloC2VTTKnTqlNT4P) | 3:19 | 2023-03-17 | 2025-03-18 |
 | [The final countdown](https://open.spotify.com/track/63VSSY49F6356Lu87MxENx) | [Dan Goten](https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC) | [The final countdown](https://open.spotify.com/album/6Ol7Ix94ugJsxWppUl3n7R) | 2:37 | 2024-03-22 |  |
 | [The First Cut Is The Deepest](https://open.spotify.com/track/2AOwriifqUUyINxFwNqItE) | [Mick Fazio](https://open.spotify.com/artist/62ZayiWK1lr4ROa7YqpKkx) | [Songs for Sunday](https://open.spotify.com/album/0NqYqAmh1MwXEoJJPYBFwt) | 3:16 | 2022-08-01 | 2024-01-19 |
 | [The Joke](https://open.spotify.com/track/3Sq6BHPQVRWE9WHvFDQzNz) | [Zola Davis](https://open.spotify.com/artist/78EI36rEoD1ZiOHSgYroWP) | [The Joke](https://open.spotify.com/album/5jPbLh8xYOuczLIsnHeDng) | 3:31 | 2022-08-01 |  |
@@ -387,6 +389,7 @@
 | [True Colors \- Piano Version](https://open.spotify.com/track/047B5xypjW3iozKNgJgHMK) | [Alec Dufner](https://open.spotify.com/artist/6rcLXQVBq8vXaXDoatwCsz) | [Timeless Classics On Piano \- Part I](https://open.spotify.com/album/1oAIunhTkzflIbFknRJKaO) | 2:55 | 2022-08-01 |  |
 | [Un\-Break My Heart \- Piano Version](https://open.spotify.com/track/0BzvsmMbasJqL2UQQWISjm) | [Alec Dufner](https://open.spotify.com/artist/6rcLXQVBq8vXaXDoatwCsz) | [Timeless Classics On Piano \- Part IV](https://open.spotify.com/album/2kqhwuZNdKS2LMckmMGdLf) | 3:06 | 2022-11-18 | 2023-05-06 |
 | [Under Pressure](https://open.spotify.com/track/5YCab8agd3ARAF7Y3Z4wbx) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Love Of My Life \(Tribute to Queen\)](https://open.spotify.com/album/5vUFHXS6MNa3HnJruSpda8) | 3:07 | 2022-08-01 | 2024-01-19 |
+| [Under the Bridge](https://open.spotify.com/track/24WsdMaqUh6cxUW4HAcPML) | [Cyrus Holloway](https://open.spotify.com/artist/15imgSvNwI0COJ9tIz0f7b) | [Under the Bridge](https://open.spotify.com/album/3zwmDugY8BdGF9nRJSXpbX) | 2:14 | 2025-03-17 |  |
 | [Unholy](https://open.spotify.com/track/48y6yD5FxqqaeKNUJ1tYdP) | [Mica Stromberg](https://open.spotify.com/artist/4yyxz7bc0tROTIRMaTKnnK) | [Unholy](https://open.spotify.com/album/2mXDmRXOqw0ZSO0Hfxlrn5) | 3:17 | 2022-11-18 | 2023-01-07 |
 | [Until I Found You](https://open.spotify.com/track/2yIXvAOhIvWZz7wzYTQIdB) | [Eva Witzell](https://open.spotify.com/artist/0A3DJSJYUBT9R1G9Z4zIS6) | [Until I Found You](https://open.spotify.com/album/41NiXyPSiRAoVPJQUw9CR8) | 2:42 | 2022-11-18 |  |
 | [Vampire](https://open.spotify.com/track/1PJ6gIJxcF3v9TwhrMPBjT) | [Danielle Quenoil](https://open.spotify.com/artist/4nr0yQbnbBCUqUSqQV53l0) | [Vampire](https://open.spotify.com/album/2pfliYSgsm7DY68Pxifaz8) | 3:07 | 2024-01-05 |  |

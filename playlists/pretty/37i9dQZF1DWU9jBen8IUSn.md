@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 
 ### [Mixtape](https://open.spotify.com/playlist/37i9dQZF1DWU9jBen8IUSn)
 
-> Lucy Dacus shares some old school love songs, just in time for Valentine's\. <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
+> Lucy Dacus shares some old school love songs\. <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,458 likes - 25 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,462 likes - 25 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 | 24 | [Then You Can Tell Me Goodbye](https://open.spotify.com/track/1bDjWyTOXs0sxQMC1mchSM) | [Bettye Swann](https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W) | [Bettye Swann](https://open.spotify.com/album/1oHCwJLBDoKDOfdznsRjNs) | 3:46 |
 | 25 | [We'll Meet Again](https://open.spotify.com/track/5EQfcSb929cWIeLJPIZoby) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Anthology](https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN) | 3:11 |
 
-Snapshot ID: `Z67N4gAAAADnf0WbGa0J4/Dic7upGg5A`
+Snapshot ID: `Z9ibSQAAAADmSElzvjnxqGHOBpRrl1XG`

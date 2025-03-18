@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 147190,
+  "num_followers": 147254,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-02-18 15:28:48",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/22XlTgyhVbZZPzPLmrBS87"
-      },
-      "artists": [
-        {
-          "name": "Relaxed Minds",
-          "url": "https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R"
-        }
-      ],
-      "duration_ms": 249739,
-      "name": "Wave Foam",
-      "url": "https://open.spotify.com/track/22TrxuTE2bllUWnZVJ3Qcp"
-    },
-    {
-      "added_at": "2025-02-18 15:28:48",
-      "album": {
         "name": "Temperate Rainforest Sounds",
         "url": "https://open.spotify.com/album/0LY9Tily5yuPkUxAa4jyou"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 191500,
       "name": "Temperate Rainforest Sounds",
       "url": "https://open.spotify.com/track/3av7HNGWI6Xvg8eXt9NOYr"
+    },
+    {
+      "added_at": "2025-02-18 15:28:48",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/22XlTgyhVbZZPzPLmrBS87"
+      },
+      "artists": [
+        {
+          "name": "Relaxed Minds",
+          "url": "https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R"
+        }
+      ],
+      "duration_ms": 249739,
+      "name": "Wave Foam",
+      "url": "https://open.spotify.com/track/22TrxuTE2bllUWnZVJ3Qcp"
     },
     {
       "added_at": "2025-02-18 15:28:48",
@@ -815,18 +815,18 @@
     {
       "added_at": "2025-02-18 15:28:48",
       "album": {
-        "name": "Nature",
-        "url": "https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ"
+        "name": "Birds",
+        "url": "https://open.spotify.com/album/0sWItLKbPToTiiVrlYi1EX"
       },
       "artists": [
         {
-          "name": "The Rainforest Collective",
-          "url": "https://open.spotify.com/artist/5DzuSKp2ib9DD7ZIeOg2sz"
+          "name": "Wonderful Escape",
+          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
         }
       ],
-      "duration_ms": 165296,
-      "name": "Zen Nature Sounds",
-      "url": "https://open.spotify.com/track/5AltIifJScpUdJyQNxf3oj"
+      "duration_ms": 154338,
+      "name": "Birds in Village Park",
+      "url": "https://open.spotify.com/track/0QzUxmfNfouNor0fUpslhn"
     }
   ],
   "unique_name": "Sons da Natureza",

@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Cover: Moder",
-  "num_followers": 45308,
+  "num_followers": 45312,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,26 @@
     {
       "added_at": "2025-02-27 23:01:30",
       "album": {
+        "name": "CVLT",
+        "url": "https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        }
+      ],
+      "duration_ms": 154695,
+      "name": "CROCI \u20ac CRISTI",
+      "url": "https://open.spotify.com/track/2PapS7vOF7plqO5pytAbEz"
+    },
+    {
+      "added_at": "2025-02-27 23:01:30",
+      "album": {
         "name": "Teoria Del Contrario Mixtape Vol. 3",
         "url": "https://open.spotify.com/album/5P7QlydmH0HKv5u6VOwyOg"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 173877,
       "name": "VERBATIM (feat. Kkrisna & Johnny Marsiglia) \u2013 Prod. Strage",
       "url": "https://open.spotify.com/track/0VtGVvtb1GYKqx6KwO6iG3"
-    },
-    {
-      "added_at": "2025-02-27 23:01:30",
-      "album": {
-        "name": "CVLT",
-        "url": "https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        },
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        }
-      ],
-      "duration_ms": 154695,
-      "name": "CROCI \u20ac CRISTI",
-      "url": "https://open.spotify.com/track/2PapS7vOF7plqO5pytAbEz"
     },
     {
       "added_at": "2025-02-27 23:01:30",
@@ -795,26 +795,22 @@
     {
       "added_at": "2025-02-27 23:01:30",
       "album": {
-        "name": "Struggle Music",
-        "url": "https://open.spotify.com/album/0yzj3wIn7Lx9m6ZbQgVY29"
+        "name": "CVLT",
+        "url": "https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1"
       },
       "artists": [
         {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
         },
         {
-          "name": "Frank Siciliano",
-          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
         }
       ],
-      "duration_ms": 216086,
-      "name": "Con i soldi in testa",
-      "url": "https://open.spotify.com/track/0gwqVCPx5Yezme7Ny6wzMt"
+      "duration_ms": 166208,
+      "name": "MALEDETTI",
+      "url": "https://open.spotify.com/track/4Niczbt1B1FtLb8wibdbR5"
     },
     {
       "added_at": "2025-02-27 23:01:30",
@@ -835,22 +831,26 @@
     {
       "added_at": "2025-02-27 23:01:30",
       "album": {
-        "name": "CVLT",
-        "url": "https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1"
+        "name": "Struggle Music",
+        "url": "https://open.spotify.com/album/0yzj3wIn7Lx9m6ZbQgVY29"
       },
       "artists": [
         {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
         },
         {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+          "name": "Frank Siciliano",
+          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 166208,
-      "name": "MALEDETTI",
-      "url": "https://open.spotify.com/track/4Niczbt1B1FtLb8wibdbR5"
+      "duration_ms": 216086,
+      "name": "Con i soldi in testa",
+      "url": "https://open.spotify.com/track/0gwqVCPx5Yezme7Ny6wzMt"
     },
     {
       "added_at": "2025-02-27 23:01:30",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2025-02-27 23:01:30",
       "album": {
-        "name": "ALHAMBRA",
-        "url": "https://open.spotify.com/album/0e4RNAX5GnP0hx6GctdaO1"
-      },
-      "artists": [
-        {
-          "name": "En?gma",
-          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 137941,
-      "name": "ALHAMBRA",
-      "url": "https://open.spotify.com/track/3sXz09jHZvaW0efN5Fo3fm"
-    },
-    {
-      "added_at": "2025-02-27 23:01:30",
-      "album": {
         "name": "60 Hz",
         "url": "https://open.spotify.com/album/3KQwNJg8LJTJ4ES4OmAblt"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 224000,
       "name": "Notte Blu",
       "url": "https://open.spotify.com/track/2JiiQIk1Pr0k6DJdxuySB9"
+    },
+    {
+      "added_at": "2025-02-27 23:01:30",
+      "album": {
+        "name": "ALHAMBRA",
+        "url": "https://open.spotify.com/album/0e4RNAX5GnP0hx6GctdaO1"
+      },
+      "artists": [
+        {
+          "name": "En?gma",
+          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 137941,
+      "name": "ALHAMBRA",
+      "url": "https://open.spotify.com/track/3sXz09jHZvaW0efN5Fo3fm"
     },
     {
       "added_at": "2025-02-27 23:01:30",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2025-02-27 23:01:30",
       "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 391733,
+      "name": "La porra",
+      "url": "https://open.spotify.com/track/0LUdlO6ZJMUFdV9jnSWDwv"
+    },
+    {
+      "added_at": "2025-02-27 23:01:30",
+      "album": {
         "name": "Musica Cicatrene",
         "url": "https://open.spotify.com/album/2lT5pe1rUrrhzLY0AYvu5d"
       },
@@ -1259,34 +1275,22 @@
     {
       "added_at": "2025-02-27 23:01:30",
       "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
+        "name": "Adversus",
+        "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
       },
       "artists": [
         {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 391733,
-      "name": "La porra",
-      "url": "https://open.spotify.com/track/0LUdlO6ZJMUFdV9jnSWDwv"
-    },
-    {
-      "added_at": "2025-02-27 23:01:30",
-      "album": {
-        "name": "Mi fist (Remastered version)",
-        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
-      },
-      "artists": [
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+        },
         {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+          "name": "Kaos One",
+          "url": "https://open.spotify.com/artist/1RFdjZ9IJTz0g3QmbV3kUh"
         }
       ],
-      "duration_ms": 221806,
-      "name": "Cronache di resistenza - Hard to do",
-      "url": "https://open.spotify.com/track/3nEmwAy1uQD8Nwr93J8vYc"
+      "duration_ms": 256026,
+      "name": "Miglia e promesse",
+      "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
     },
     {
       "added_at": "2025-02-27 23:01:30",
@@ -1315,22 +1319,18 @@
     {
       "added_at": "2025-02-27 23:01:30",
       "album": {
-        "name": "Adversus",
-        "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
+        "name": "Mi fist (Remastered version)",
+        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
       },
       "artists": [
         {
-          "name": "Colle Der Fomento",
-          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
-        },
-        {
-          "name": "Kaos One",
-          "url": "https://open.spotify.com/artist/1RFdjZ9IJTz0g3QmbV3kUh"
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
         }
       ],
-      "duration_ms": 256026,
-      "name": "Miglia e promesse",
-      "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
+      "duration_ms": 221806,
+      "name": "Cronache di resistenza - Hard to do",
+      "url": "https://open.spotify.com/track/3nEmwAy1uQD8Nwr93J8vYc"
     },
     {
       "added_at": "2025-02-27 23:01:30",
@@ -1379,22 +1379,6 @@
       "duration_ms": 291757,
       "name": "Poeti estinti",
       "url": "https://open.spotify.com/track/5tz7hOlCqP7hYeLfLaT9pk"
-    },
-    {
-      "added_at": "2025-02-27 23:01:30",
-      "album": {
-        "name": "Mi fist (Remastered version)",
-        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 194322,
-      "name": "Vida loca - Remix 2k4",
-      "url": "https://open.spotify.com/track/3ZiIgbO4CTKZYMO0EE1D9X"
     },
     {
       "added_at": "2025-02-27 23:01:30",
@@ -1467,6 +1451,22 @@
       "duration_ms": 171942,
       "name": "Heart",
       "url": "https://open.spotify.com/track/4X5uhcK7wjQItrJq34g1LB"
+    },
+    {
+      "added_at": "2025-02-27 23:01:30",
+      "album": {
+        "name": "Mi fist (Remastered version)",
+        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "duration_ms": 194322,
+      "name": "Vida loca - Remix 2k4",
+      "url": "https://open.spotify.com/track/3ZiIgbO4CTKZYMO0EE1D9X"
     },
     {
       "added_at": "2025-02-27 23:01:30",
@@ -1611,6 +1611,26 @@
     {
       "added_at": "2025-02-27 23:01:30",
       "album": {
+        "name": "Fuoco Sacro",
+        "url": "https://open.spotify.com/album/4gCsyBvpyCGQ0ScO6eHXUD"
+      },
+      "artists": [
+        {
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        },
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        }
+      ],
+      "duration_ms": 193122,
+      "name": "Quante Notti (feat. Franco126)",
+      "url": "https://open.spotify.com/track/1BgewDwAKOBUQBBhm772V6"
+    },
+    {
+      "added_at": "2025-02-27 23:01:30",
+      "album": {
         "name": "Sacrosanto (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Om2nAPw1pT9BiK4vj1SDD"
       },
@@ -1631,26 +1651,6 @@
       "duration_ms": 164783,
       "name": "La Fame",
       "url": "https://open.spotify.com/track/3kwdLQJF7xuqa6FG9Us8Om"
-    },
-    {
-      "added_at": "2025-02-27 23:01:30",
-      "album": {
-        "name": "Fuoco Sacro",
-        "url": "https://open.spotify.com/album/4gCsyBvpyCGQ0ScO6eHXUD"
-      },
-      "artists": [
-        {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
-        },
-        {
-          "name": "Franco126",
-          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
-        }
-      ],
-      "duration_ms": 193122,
-      "name": "Quante Notti (feat. Franco126)",
-      "url": "https://open.spotify.com/track/1BgewDwAKOBUQBBhm772V6"
     },
     {
       "added_at": "2025-02-27 23:01:30",
@@ -1879,6 +1879,30 @@
     {
       "added_at": "2025-02-27 23:01:30",
       "album": {
+        "name": "Beat Coin",
+        "url": "https://open.spotify.com/album/7GK5xFWfFQBUisVtld1PiX"
+      },
+      "artists": [
+        {
+          "name": "DJ Gengis",
+          "url": "https://open.spotify.com/artist/4f4ERDE3xkOakb8zOnlaRp"
+        },
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        },
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        }
+      ],
+      "duration_ms": 187415,
+      "name": "Sembra un film",
+      "url": "https://open.spotify.com/track/504QJc7vkwG4vuV3abgASn"
+    },
+    {
+      "added_at": "2025-02-27 23:01:30",
+      "album": {
         "name": "Mercato nero",
         "url": "https://open.spotify.com/album/3WRF5zh8b6OlHVIUdYbIyJ"
       },
@@ -1907,50 +1931,34 @@
     {
       "added_at": "2025-02-27 23:01:30",
       "album": {
-        "name": "Beat Coin",
-        "url": "https://open.spotify.com/album/7GK5xFWfFQBUisVtld1PiX"
+        "name": "Payback",
+        "url": "https://open.spotify.com/album/05dBxSbBWiQo2IRtfkXWnG"
       },
       "artists": [
         {
-          "name": "DJ Gengis",
-          "url": "https://open.spotify.com/artist/4f4ERDE3xkOakb8zOnlaRp"
+          "name": "Rak",
+          "url": "https://open.spotify.com/artist/3tnVct3V6mIWk5FnBGCuVt"
         },
         {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+          "name": "Kamyar",
+          "url": "https://open.spotify.com/artist/4cTOxBErR9Of5kMfjVw86j"
         },
         {
           "name": "Danno",
           "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
-        }
-      ],
-      "duration_ms": 187415,
-      "name": "Sembra un film",
-      "url": "https://open.spotify.com/track/504QJc7vkwG4vuV3abgASn"
-    },
-    {
-      "added_at": "2025-02-27 23:01:30",
-      "album": {
-        "name": "Ragazzi fuori",
-        "url": "https://open.spotify.com/album/2RgScSlYyVlMPB2KiYnS88"
-      },
-      "artists": [
-        {
-          "name": "Funk Shui Project",
-          "url": "https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E"
         },
         {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+          "name": "Gianni Bismark",
+          "url": "https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa"
         },
         {
-          "name": "Davide Shorty",
-          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+          "name": "icaro",
+          "url": "https://open.spotify.com/artist/7KSeB7JWqSs50h47yIPzfC"
         }
       ],
-      "duration_ms": 189145,
-      "name": "Ragazzi fuori",
-      "url": "https://open.spotify.com/track/2QQ3rN78weEKTKBK3Op4dw"
+      "duration_ms": 280000,
+      "name": "Svegliarsi a Roma",
+      "url": "https://open.spotify.com/track/4S9yzQBJb7hMFG07XKufsm"
     },
     {
       "added_at": "2025-02-27 23:01:30",
@@ -1995,34 +2003,26 @@
     {
       "added_at": "2025-02-27 23:01:30",
       "album": {
-        "name": "Payback",
-        "url": "https://open.spotify.com/album/05dBxSbBWiQo2IRtfkXWnG"
+        "name": "Ragazzi fuori",
+        "url": "https://open.spotify.com/album/2RgScSlYyVlMPB2KiYnS88"
       },
       "artists": [
         {
-          "name": "Rak",
-          "url": "https://open.spotify.com/artist/3tnVct3V6mIWk5FnBGCuVt"
+          "name": "Funk Shui Project",
+          "url": "https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E"
         },
         {
-          "name": "Kamyar",
-          "url": "https://open.spotify.com/artist/4cTOxBErR9Of5kMfjVw86j"
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
         },
         {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
-        },
-        {
-          "name": "Gianni Bismark",
-          "url": "https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa"
-        },
-        {
-          "name": "icaro",
-          "url": "https://open.spotify.com/artist/7KSeB7JWqSs50h47yIPzfC"
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Svegliarsi a Roma",
-      "url": "https://open.spotify.com/track/4S9yzQBJb7hMFG07XKufsm"
+      "duration_ms": 189145,
+      "name": "Ragazzi fuori",
+      "url": "https://open.spotify.com/track/2QQ3rN78weEKTKBK3Op4dw"
     },
     {
       "added_at": "2025-02-27 23:01:30",
@@ -2143,6 +2143,22 @@
     {
       "added_at": "2025-02-27 23:01:30",
       "album": {
+        "name": "Promo EP",
+        "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
+      },
+      "artists": [
+        {
+          "name": "OneMic",
+          "url": "https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25"
+        }
+      ],
+      "duration_ms": 368156,
+      "name": "Delle Volte",
+      "url": "https://open.spotify.com/track/56lf3YqtKy262x9fUQXAmD"
+    },
+    {
+      "added_at": "2025-02-27 23:01:30",
+      "album": {
         "name": "Nuova Era",
         "url": "https://open.spotify.com/album/1faK0mEwzWWxkVEQGfFL8Q"
       },
@@ -2171,42 +2187,6 @@
     {
       "added_at": "2025-02-27 23:01:30",
       "album": {
-        "name": "Promo EP",
-        "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
-      },
-      "artists": [
-        {
-          "name": "OneMic",
-          "url": "https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25"
-        }
-      ],
-      "duration_ms": 368156,
-      "name": "Delle Volte",
-      "url": "https://open.spotify.com/track/56lf3YqtKy262x9fUQXAmD"
-    },
-    {
-      "added_at": "2025-02-27 23:01:30",
-      "album": {
-        "name": "Gotico Romanzo",
-        "url": "https://open.spotify.com/album/3DS8jzLQI1pkMOqLRg1fNT"
-      },
-      "artists": [
-        {
-          "name": "Pufuleti",
-          "url": "https://open.spotify.com/artist/3M4DsAM4T4bZ9uDwVoAb8A"
-        },
-        {
-          "name": "Fed Nance",
-          "url": "https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm"
-        }
-      ],
-      "duration_ms": 131054,
-      "name": "Calici di gemme",
-      "url": "https://open.spotify.com/track/5ExnPohf7VvltswNWXH9iD"
-    },
-    {
-      "added_at": "2025-02-27 23:01:30",
-      "album": {
         "name": "Rosso Fuoco",
         "url": "https://open.spotify.com/album/488oHGsY9aP0vynkOBwZCE"
       },
@@ -2227,6 +2207,26 @@
       "duration_ms": 227520,
       "name": "Rosso Fuoco",
       "url": "https://open.spotify.com/track/5dpmfVEMO4Lb2lHSEzpK68"
+    },
+    {
+      "added_at": "2025-02-27 23:01:30",
+      "album": {
+        "name": "Gotico Romanzo",
+        "url": "https://open.spotify.com/album/3DS8jzLQI1pkMOqLRg1fNT"
+      },
+      "artists": [
+        {
+          "name": "Pufuleti",
+          "url": "https://open.spotify.com/artist/3M4DsAM4T4bZ9uDwVoAb8A"
+        },
+        {
+          "name": "Fed Nance",
+          "url": "https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm"
+        }
+      ],
+      "duration_ms": 131054,
+      "name": "Calici di gemme",
+      "url": "https://open.spotify.com/track/5ExnPohf7VvltswNWXH9iD"
     },
     {
       "added_at": "2025-02-27 23:01:30",
@@ -2331,26 +2331,6 @@
     {
       "added_at": "2025-02-27 23:01:30",
       "album": {
-        "name": "WILD",
-        "url": "https://open.spotify.com/album/3XCnmBLMNHEJZ7YHv9PuUK"
-      },
-      "artists": [
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        },
-        {
-          "name": "Big Joe",
-          "url": "https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI"
-        }
-      ],
-      "duration_ms": 148334,
-      "name": "WILD",
-      "url": "https://open.spotify.com/track/47m0BEZRvD0fAPMqe87Nxa"
-    },
-    {
-      "added_at": "2025-02-27 23:01:30",
-      "album": {
         "name": "Amore puro",
         "url": "https://open.spotify.com/album/4ghCrqj3HwLzKeeqAfO4rD"
       },
@@ -2367,6 +2347,26 @@
       "duration_ms": 204081,
       "name": "Amore puro",
       "url": "https://open.spotify.com/track/17beKSnTNuVjiQd2lIOonB"
+    },
+    {
+      "added_at": "2025-02-27 23:01:30",
+      "album": {
+        "name": "WILD",
+        "url": "https://open.spotify.com/album/3XCnmBLMNHEJZ7YHv9PuUK"
+      },
+      "artists": [
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        },
+        {
+          "name": "Big Joe",
+          "url": "https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI"
+        }
+      ],
+      "duration_ms": 148334,
+      "name": "WILD",
+      "url": "https://open.spotify.com/track/47m0BEZRvD0fAPMqe87Nxa"
     },
     {
       "added_at": "2025-02-27 23:01:30",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2025-02-27 23:01:30",
       "album": {
-        "name": "Dio lodato",
-        "url": "https://open.spotify.com/album/1LYlr506rnjgDipxwXwkzV"
-      },
-      "artists": [
-        {
-          "name": "Joe Cassano",
-          "url": "https://open.spotify.com/artist/5ZPb4m701cVcj87M0qbqtL"
-        }
-      ],
-      "duration_ms": 260183,
-      "name": "Dio lodato per sta chanche",
-      "url": "https://open.spotify.com/track/114hZLY1cAfvd9gFaDAxoN"
-    },
-    {
-      "added_at": "2025-02-27 23:01:30",
-      "album": {
         "name": "Scrivo Ancora 3",
         "url": "https://open.spotify.com/album/167xJZRSEzQp9MLsWDDrU2"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 239494,
       "name": "Nati per questo",
       "url": "https://open.spotify.com/track/71Um2ad6jBsi1V9Sff5dVi"
+    },
+    {
+      "added_at": "2025-02-27 23:01:30",
+      "album": {
+        "name": "Dio lodato",
+        "url": "https://open.spotify.com/album/1LYlr506rnjgDipxwXwkzV"
+      },
+      "artists": [
+        {
+          "name": "Joe Cassano",
+          "url": "https://open.spotify.com/artist/5ZPb4m701cVcj87M0qbqtL"
+        }
+      ],
+      "duration_ms": 260183,
+      "name": "Dio lodato per sta chanche",
+      "url": "https://open.spotify.com/track/114hZLY1cAfvd9gFaDAxoN"
     },
     {
       "added_at": "2025-02-27 23:01:30",
@@ -2567,22 +2567,6 @@
     {
       "added_at": "2025-02-27 23:01:30",
       "album": {
-        "name": "Generazione Di Sconvolti",
-        "url": "https://open.spotify.com/album/79jJoqnwIm7NuDGFpvK0dV"
-      },
-      "artists": [
-        {
-          "name": "Ape",
-          "url": "https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Ne Parlero' Con Te",
-      "url": "https://open.spotify.com/track/4eHz63b9Wus5sRtErW3HG0"
-    },
-    {
-      "added_at": "2025-02-27 23:01:30",
-      "album": {
         "name": "Ancorati",
         "url": "https://open.spotify.com/album/7C0N0jjDplX2gN8SMpgKze"
       },
@@ -2599,6 +2583,22 @@
       "duration_ms": 190000,
       "name": "Ancorati",
       "url": "https://open.spotify.com/track/1MsfM1qhZ3M7M7ETOXVque"
+    },
+    {
+      "added_at": "2025-02-27 23:01:30",
+      "album": {
+        "name": "Generazione Di Sconvolti",
+        "url": "https://open.spotify.com/album/79jJoqnwIm7NuDGFpvK0dV"
+      },
+      "artists": [
+        {
+          "name": "Ape",
+          "url": "https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Ne Parlero' Con Te",
+      "url": "https://open.spotify.com/track/4eHz63b9Wus5sRtErW3HG0"
     },
     {
       "added_at": "2025-02-27 23:01:30",

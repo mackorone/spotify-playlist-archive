@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Music for your soul\. Cover: Terrace Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 818,274 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 818,304 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 27 | [RIGIO \(fall 4 u\)](https://open.spotify.com/track/1IFZwCYqLH5tGfp0V9YP4L) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh) | [RIGIO \(fall 4 u\)](https://open.spotify.com/album/31iHGzTpg9XlyaL7jZi3Uq) | 2:58 |
 | 28 | [El Día Más Triste](https://open.spotify.com/track/1WWwgzUIHwxP2R0PmpMUuL) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [El Día Más Triste](https://open.spotify.com/album/2V7mY5tOEcPiaWXULQDlTp) | 3:24 |
 | 29 | [The Light \(I Need You\)](https://open.spotify.com/track/02ONt6TdguBGgJzJTzwXCN) | [threetwenty](https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK) | [The Light \(I Need You\)](https://open.spotify.com/album/62V1Z7zodlcga1W3uZeVAl) | 3:37 |
-| 30 | [Overqualified](https://open.spotify.com/track/3lHwn0uVcDUXusIKOoBVHp) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 5:20 |
+| 30 | [Overqualified](https://open.spotify.com/track/3lHwn0uVcDUXusIKOoBVHp) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 5:18 |
 | 31 | [DJ's Chord Organ \(feat\. SZA\)](https://open.spotify.com/track/1JtAIBbCgomz38qPBSJzCn) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 5:15 |
 | 32 | [Art of War](https://open.spotify.com/track/7FdS8jLabsc3ym9VY8kGjK) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Art of War](https://open.spotify.com/album/3PqJN4iYjY0IpMBPZqspwm) | 2:06 |
 | 33 | [Hey Girl\(s\)](https://open.spotify.com/track/470gEf45gAhLewLVc5IkKJ) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Hey Girl \(s\)](https://open.spotify.com/album/40XyC5tZmkh6aeFr78qQME) | 3:48 |

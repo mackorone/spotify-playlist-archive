@@ -1,6 +1,6 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 73529,
+  "num_followers": 73532,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-03-11 02:06:10",
       "album": {
-        "name": "Adam & Eve",
-        "url": "https://open.spotify.com/album/0DIay3dTps5nQRfq3LLcss"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Adam & Eve",
-      "url": "https://open.spotify.com/track/63vscEc34aVwFMsdYM88gd"
-    },
-    {
-      "added_at": "2025-03-11 02:06:10",
-      "album": {
         "name": "Mission Bell",
         "url": "https://open.spotify.com/album/07HizW0Hwz3rDY9aDtoLXS"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 318840,
       "name": "Violin",
       "url": "https://open.spotify.com/track/7eRDTkDUO5UVWgla9Max4h"
+    },
+    {
+      "added_at": "2025-03-11 02:06:10",
+      "album": {
+        "name": "Adam & Eve",
+        "url": "https://open.spotify.com/album/0DIay3dTps5nQRfq3LLcss"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Adam & Eve",
+      "url": "https://open.spotify.com/track/63vscEc34aVwFMsdYM88gd"
     },
     {
       "added_at": "2025-03-11 02:06:10",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-03-11 02:06:10",
       "album": {
-        "name": "the boy",
-        "url": "https://open.spotify.com/album/24AGxWAjb7QYqlNaoWlsDz"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        }
-      ],
-      "duration_ms": 216530,
-      "name": "the boy",
-      "url": "https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF"
-    },
-    {
-      "added_at": "2025-03-11 02:06:10",
-      "album": {
         "name": "Marry Me",
         "url": "https://open.spotify.com/album/7n9jLAuh8HNrYro75jL6vP"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 207259,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/6DPoEX6N7vzf9v2lIbxLt3"
+    },
+    {
+      "added_at": "2025-03-11 02:06:10",
+      "album": {
+        "name": "the boy",
+        "url": "https://open.spotify.com/album/24AGxWAjb7QYqlNaoWlsDz"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 216530,
+      "name": "the boy",
+      "url": "https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF"
     },
     {
       "added_at": "2025-03-11 02:06:10",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2025-03-11 02:06:10",
       "album": {
+        "name": "Sometimes It's Something, Sometimes It's Nothing at All",
+        "url": "https://open.spotify.com/album/3vgpygHRpJDWTVUXEqNTUR"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 118826,
+      "name": "Rosie",
+      "url": "https://open.spotify.com/track/09t8F6vwElB6scMtsGpyaP"
+    },
+    {
+      "added_at": "2025-03-11 02:06:10",
+      "album": {
         "name": "Colony of Bees",
         "url": "https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU"
       },
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2025-03-11 02:06:10",
       "album": {
-        "name": "Sometimes It's Something, Sometimes It's Nothing at All",
-        "url": "https://open.spotify.com/album/3vgpygHRpJDWTVUXEqNTUR"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 118826,
-      "name": "Rosie",
-      "url": "https://open.spotify.com/track/09t8F6vwElB6scMtsGpyaP"
-    },
-    {
-      "added_at": "2025-03-11 02:06:10",
-      "album": {
         "name": "You Belong To Somebody Else",
         "url": "https://open.spotify.com/album/0KFJcWV5MW76YWSfKS83rW"
       },
@@ -1155,22 +1155,6 @@
       "duration_ms": 199144,
       "name": "You Belong To Somebody Else",
       "url": "https://open.spotify.com/track/20R40KmQrdwKES14PmDwaf"
-    },
-    {
-      "added_at": "2025-03-11 02:06:10",
-      "album": {
-        "name": "WILD CHILD",
-        "url": "https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR"
-      },
-      "artists": [
-        {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
-        }
-      ],
-      "duration_ms": 133106,
-      "name": "I Don't Wanna Go Downtown",
-      "url": "https://open.spotify.com/track/7tnvzuwBCzMcSqYlLgOyRU"
     },
     {
       "added_at": "2025-03-11 02:06:10",
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2025-03-11 02:06:10",
       "album": {
-        "name": "Alone, Together",
-        "url": "https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ"
+        "name": "WILD CHILD",
+        "url": "https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR"
       },
       "artists": [
         {
-          "name": "Daniel Pearson",
-          "url": "https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm"
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
         }
       ],
-      "duration_ms": 295066,
-      "name": "The Open Sea",
-      "url": "https://open.spotify.com/track/7sPdbKOGW6OYEE6F2jNrD8"
+      "duration_ms": 133106,
+      "name": "I Don't Wanna Go Downtown",
+      "url": "https://open.spotify.com/track/7tnvzuwBCzMcSqYlLgOyRU"
     },
     {
       "added_at": "2025-03-11 02:06:10",
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2025-03-11 02:06:10",
       "album": {
-        "name": "Give Me Everything",
-        "url": "https://open.spotify.com/album/0A28FCqEuG6uiAHIPQcLwe"
+        "name": "Alone, Together",
+        "url": "https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ"
       },
       "artists": [
         {
-          "name": "Q.Z.B",
-          "url": "https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG"
+          "name": "Daniel Pearson",
+          "url": "https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm"
         }
       ],
-      "duration_ms": 192542,
-      "name": "Give Me Everything",
-      "url": "https://open.spotify.com/track/5AZWf9rIKcTBGsHfRDOb3M"
+      "duration_ms": 295066,
+      "name": "The Open Sea",
+      "url": "https://open.spotify.com/track/7sPdbKOGW6OYEE6F2jNrD8"
     },
     {
       "added_at": "2025-03-11 02:06:10",
@@ -1259,18 +1243,34 @@
     {
       "added_at": "2025-03-11 02:06:10",
       "album": {
-        "name": "Purple Haze",
-        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
+        "name": "The Stray Birds",
+        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
       },
       "artists": [
         {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+          "name": "The Stray Birds",
+          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
         }
       ],
-      "duration_ms": 205395,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
+      "duration_ms": 212026,
+      "name": "Dream in Blue",
+      "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
+    },
+    {
+      "added_at": "2025-03-11 02:06:10",
+      "album": {
+        "name": "Give Me Everything",
+        "url": "https://open.spotify.com/album/0A28FCqEuG6uiAHIPQcLwe"
+      },
+      "artists": [
+        {
+          "name": "Q.Z.B",
+          "url": "https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG"
+        }
+      ],
+      "duration_ms": 192542,
+      "name": "Give Me Everything",
+      "url": "https://open.spotify.com/track/5AZWf9rIKcTBGsHfRDOb3M"
     }
   ],
   "unique_name": "\u82b1\u8349\u4e0b\u5348\u8336",

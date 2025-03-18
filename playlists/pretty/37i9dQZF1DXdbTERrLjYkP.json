@@ -1,13 +1,29 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Sabrina Sterling",
-  "num_followers": 217629,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Aggy Ally",
+  "num_followers": 217622,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9OpwQAAAAAeR/5PFlpEb7MyfUDhhNIY",
+  "snapshot_id": "Z9hrxAAAAABjJyctDH2BObF3Hh7dF+oA",
   "tracks": [
+    {
+      "added_at": "2025-03-07 05:00:33",
+      "album": {
+        "name": "Why Keep Trying?",
+        "url": "https://open.spotify.com/album/3UUWAoL4MspBet1B7lNJNX"
+      },
+      "artists": [
+        {
+          "name": "Aggy Ally",
+          "url": "https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs"
+        }
+      ],
+      "duration_ms": 222162,
+      "name": "Why Keep Trying?",
+      "url": "https://open.spotify.com/track/2ZN7xICw1NCMvDffky7Crj"
+    },
     {
       "added_at": "2025-02-28 05:00:34",
       "album": {
@@ -135,22 +151,6 @@
       "duration_ms": 277037,
       "name": "Josephine",
       "url": "https://open.spotify.com/track/14ZMcrAWGFB0ltAxgrtH5U"
-    },
-    {
-      "added_at": "2025-03-07 05:00:33",
-      "album": {
-        "name": "Why Keep Trying?",
-        "url": "https://open.spotify.com/album/3UUWAoL4MspBet1B7lNJNX"
-      },
-      "artists": [
-        {
-          "name": "Aggy Ally",
-          "url": "https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs"
-        }
-      ],
-      "duration_ms": 222162,
-      "name": "Why Keep Trying?",
-      "url": "https://open.spotify.com/track/2ZN7xICw1NCMvDffky7Crj"
     },
     {
       "added_at": "2025-03-07 05:00:33",

@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Filow, Ikkimel
 
-2,563 songs - 5 day 0 hr 19 min
+2,564 songs - 5 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1799,7 +1799,7 @@
 | [Push Up \- Original Mix](https://open.spotify.com/track/0pfP5XgWsu3uDB6NygGBEq) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up EP](https://open.spotify.com/album/78XpOkI7hXvDvO0prSJJ4b) | 4:00 | 2023-01-09 | 2023-03-22 |
 | [Pussy](https://open.spotify.com/track/3vagFJCZdj6Y43MyTuTRRG) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Pussy](https://open.spotify.com/album/3Fn2IEnBfAdxz2lrYpYYpS) | 2:55 | 2025-01-30 | 2025-02-07 |
 | [Pussy & Millions \(feat\. Travis Scott\)](https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:02 | 2022-11-10 | 2022-11-16 |
-| [Pusteblume](https://open.spotify.com/track/2exlK2N3UXrw5fVsAhSimu) | [GReeeN](https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd) | [Pusteblume](https://open.spotify.com/album/5vDviDx5Q5pgQpR7NpIAT9) | 2:48 | 2025-01-20 |  |
+| [Pusteblume](https://open.spotify.com/track/2exlK2N3UXrw5fVsAhSimu) | [GReeeN](https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd) | [Pusteblume](https://open.spotify.com/album/5vDviDx5Q5pgQpR7NpIAT9) | 2:48 | 2025-01-20 | 2025-03-18 |
 | [r4ver girl](https://open.spotify.com/track/3FG2KF53DvrOC6Zc7iaNIR) | [skrt cobain](https://open.spotify.com/artist/7rlplvcY6ubrKGdhRJUvuV) | [r4ver girl](https://open.spotify.com/album/6G5vDGdzRSuRyYnkMxJK0j) | 1:56 | 2023-11-30 | 2023-12-08 |
 | [Rad11o\_akt11v](https://open.spotify.com/track/3R3SXJL4YThY75W1oxj5Pr) | [emi x](https://open.spotify.com/artist/5kDJnYkE7Xm5zgEsJHb23u), [7kcalls](https://open.spotify.com/artist/47Ql4CydCR9X29C3bpLk2x) | [Rad11o\_akt11v](https://open.spotify.com/album/0bxOVoZrpJV2M84zUMK7XP) | 2:03 | 2024-09-16 | 2024-10-04 |
 | [Radar](https://open.spotify.com/track/2kkAjht9Fu0vUbmGRIGgGE) | [TELESHOP](https://open.spotify.com/artist/0Cr5IUi0VbocOLWgz8wiXx) | [Radar](https://open.spotify.com/album/3TPoZEepcDbc5b3HHM3uca) | 2:18 | 2023-11-30 | 2023-12-08 |
@@ -1808,6 +1808,7 @@
 | [Randali](https://open.spotify.com/track/7x76MsHLcWQ4rLlHVkT7yw) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Randali](https://open.spotify.com/album/1NSEKARvPRzT2tSG1DZrmi) | 2:23 | 2024-06-27 | 2024-09-20 |
 | [Rapide \(Feat\. Boby Cornelius\)](https://open.spotify.com/track/5KOoIgOLXhdqC70suGkoYW) | [DREAM DJ TEAM](https://open.spotify.com/artist/78HKXj2z44JthdgoqT9ElL), [Boby Cornelius](https://open.spotify.com/artist/1gRzKks0ok55INcBtuvmb4) | [Rapide \(Feat\. Boby Cornelius\)](https://open.spotify.com/album/1VAx7TSKvAotcxvC9qiZq8) | 5:37 | 2024-02-15 | 2024-03-15 |
 | [Rarri Dreamin](https://open.spotify.com/track/0m7YMWqQU8hfUhx4uqAPqm) | [TM](https://open.spotify.com/artist/2yh2yg3b2viRskto7M1cx7), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [Rarri Dreamin](https://open.spotify.com/album/2f7kdW1FGZptnGTjbOr3D0) | 2:10 | 2022-06-09 | 2022-07-05 |
+| [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 | 2025-03-17 |  |
 | [Ratzfatz](https://open.spotify.com/track/6KEyc6UCEDFEvGYJK8uNIh) | [Filow](https://open.spotify.com/artist/0BRUlYcw8Rr4MGHe8kRgTv), [kira on the phone](https://open.spotify.com/artist/3hy2bcEqMKxkoO3emLgoZw) | [ICKE](https://open.spotify.com/album/7mKmT11hQapyQq7hWZscy8) | 2:28 | 2024-09-16 | 2024-10-25 |
 | [Raue Zärtlichkeit](https://open.spotify.com/track/4QYtmLxnMNsX1dfjIg3fTJ) | [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [Raue Zärtlichkeit](https://open.spotify.com/album/3re4AICzx9AEd1XfE9oAZ0) | 2:15 | 2023-08-10 | 2023-08-18 |
 | [raupenimmersatt](https://open.spotify.com/track/1XpBBylGvUNg1vMtT8ubXo) | [kevin](https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz) | [raupenimmersatt](https://open.spotify.com/album/6GBs6LrTnJIlhT8xXwuWot) | 2:41 | 2024-08-08 | 2024-08-23 |

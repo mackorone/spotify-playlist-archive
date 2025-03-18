@@ -4,7 +4,7 @@
 
 > Hottest indie sound from Asia\. Cover: moon tang \(Hong Kong\)
 
-1,811 songs - 4 day 13 hr 39 min
+1,812 songs - 4 day 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,7 +433,7 @@
 | [Earth](https://open.spotify.com/track/5UqUMoymWBJD3bAKK7rGb2) | [Lee Jun Hyung](https://open.spotify.com/artist/6Op1UrYjepK3TvjsjnCeTq) | [Earth](https://open.spotify.com/album/72W91ap1swKyQxPxhWIHgJ) | 4:35 | 2022-07-28 | 2022-09-23 |
 | [Easy Lighter](https://open.spotify.com/track/3ZPJCJMNaBQZG65nnlGgQ3) | [N.Y.P.D\. 南洋派對](https://open.spotify.com/artist/0uGCA6uvmofOBLPplBhyAY) | [Easy Lighter](https://open.spotify.com/album/0kAocczsJutXrc6QWMjYH6) | 6:21 | 2024-04-11 | 2024-04-19 |
 | [Easy Like 123](https://open.spotify.com/track/5WafeWUNLnf2BY9UJ3xgRP) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [FUNFAIR](https://open.spotify.com/album/5n2ics3EJmLttFmgBkeC7i) | 2:28 | 2022-04-07 | 2022-04-22 |
-| [EFFORTLESS \(feat\. Jay Park, GroovyRoom\)](https://open.spotify.com/track/6RLTUqLjJBvqfYksqPBxCu) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [GROOVYROOM](https://open.spotify.com/artist/1EZhXPedZ7Fc4grCSJTvIZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SWIRL](https://open.spotify.com/album/23do2zirGkCiF6ZMtVYk3T) | 3:01 | 2025-03-13 |  |
+| [EFFORTLESS \(feat\. Jay Park\) \[Prod\. by GroovyRoom\]](https://open.spotify.com/track/6RLTUqLjJBvqfYksqPBxCu) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SWIRL](https://open.spotify.com/album/23do2zirGkCiF6ZMtVYk3T) | 3:00 | 2025-03-13 |  |
 | [eko \- Edit](https://open.spotify.com/track/2LpAgQiBOnkhx2MS5Cpg9F) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [eko](https://open.spotify.com/album/7eKyBS8bK0jnfIWByYDrzB) | 2:01 | 2024-10-24 | 2024-12-13 |
 | [Eksplisit](https://open.spotify.com/track/0VIvXVm6RN2Dm0cCZxKHTq) | [Normal Eve](https://open.spotify.com/artist/6c7nlW5vkowcTcgspuXUIS) | [Eksplisit](https://open.spotify.com/album/28x4n2ncfpIByC8Q76lxVU) | 3:32 | 2023-02-16 | 2023-03-18 |
 | [Elevator Music \(OMG\)](https://open.spotify.com/track/4mYTYavKZErjx5MjDuaNW2) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Blueboy Must Die](https://open.spotify.com/album/7HxuP6eVdhcYH810tElmAg) | 2:44 | 2023-09-07 | 2023-10-13 |
@@ -922,6 +922,7 @@
 | [Meteor Shower](https://open.spotify.com/track/4U04CJyjD2HzMjHMBnVn0h) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [I Dig You](https://open.spotify.com/album/118ouAtcHqDD7t7YV2hD1O) | 3:03 | 2024-10-24 | 2024-12-08 |
 | [Metro](https://open.spotify.com/track/3INpvUzUP1gt23GfMoX85l) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [Metro](https://open.spotify.com/album/5UWCJbMmXDVjikrRPTAjAe) | 3:04 | 2023-08-03 | 2023-08-11 |
 | [Midnight Hotline](https://open.spotify.com/track/3vTvVfBQis7wysyjxUJJ8x) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Midnight Hotline](https://open.spotify.com/album/0Si5mCrv82BWvDogiYjzs9) | 3:38 | 2023-04-13 | 2023-04-21 |
+| [Midnight in Saigon](https://open.spotify.com/track/4jRZrYnaOzg17S9y2H2O3K) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA), [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [Midnight in Saigon](https://open.spotify.com/album/26mZY7qSQb8RCJSvzSdxb6) | 3:12 | 2025-03-13 |  |
 | [Midnight Shower](https://open.spotify.com/track/2HAQUaYAb7ZOvB3H4hbm17) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW) | [Midnight Shower](https://open.spotify.com/album/7LVxJi3t2gt9wUv27F3tiF) | 3:20 | 2022-05-06 | 2022-06-24 |
 | [midnight train](https://open.spotify.com/track/1tor3qcC8328FTK4NSEbMF) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [we've been here before](https://open.spotify.com/album/6MHgBh6b08AKDR6X5TrJZz) | 3:05 | 2024-11-29 | 2025-02-28 |
 | [Mikael](https://open.spotify.com/track/3DOq3iCt2I1X9cPAWdWGXB) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [Mikael](https://open.spotify.com/album/0bYXowGjv2zW5QN2nyvuO0) | 4:25 | 2024-11-08 | 2024-11-22 |
@@ -1461,7 +1462,7 @@
 | [To summer didn’t shine for us](https://open.spotify.com/track/3Slem59fCLqnreAqQxu23l) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [To summer didn’t shine for us](https://open.spotify.com/album/6V9lhpcM3w24zcjJfeVNX9) | 2:59 | 2023-08-29 | 2023-09-08 |
 | [to the sun](https://open.spotify.com/track/5aQo7kv4u7sBffv33tiDf4) | [daystar](https://open.spotify.com/artist/3ILIaSsV4kXXvqqFcvyeCC) | [to the sun](https://open.spotify.com/album/4KaoUgkGoDZjwrniEm9km8) | 3:56 | 2025-01-10 | 2025-02-14 |
 | [To You](https://open.spotify.com/track/7lGmpmEv5uQDlNnMl3XFyd) | [The Whisperer](https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz) | [To You](https://open.spotify.com/album/3iOPGslKOV5FiHv9GAfFd9) | 4:11 | 2024-10-10 | 2024-11-01 |
-| [Toast](https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Toast](https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb) | 2:34 | 2023-06-15 |  |
+| [Toast](https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Toast](https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb) | 2:34 | 2023-06-15 | 2025-03-18 |
 | [Together](https://open.spotify.com/track/6O0OJF1r7cUKLeKCwdW4tS) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [Together](https://open.spotify.com/album/5F4nx93yqmXlEhBMdxBJ2g) | 3:10 | 2024-08-16 | 2024-10-18 |
 | [TOGETHER!](https://open.spotify.com/track/5mrIZ0lvgFr5wnrYbzV0C1) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 3:06 | 2023-08-29 |  |
 | [Told You So](https://open.spotify.com/track/44oV4Lbj57EoORRzSNWCRX) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Genesis](https://open.spotify.com/album/1uIG9MSyXNBiq3cgH6Und5) | 5:13 | 2022-06-23 | 2022-07-15 |

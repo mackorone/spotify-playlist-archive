@@ -1,6 +1,6 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 134461,
+  "num_followers": 134489,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
@@ -927,18 +927,18 @@
     {
       "added_at": "2025-02-28 16:00:14",
       "album": {
-        "name": "early summer 2022",
-        "url": "https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs"
+        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
+        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
       },
       "artists": [
         {
-          "name": "Kazumasa Oda",
-          "url": "https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR"
+          "name": "Schroeder-Headz",
+          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
         }
       ],
-      "duration_ms": 274066,
-      "name": "\u3053\u306e\u65e5\u306e\u3053\u3068",
-      "url": "https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh"
+      "duration_ms": 195693,
+      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
+      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
     },
     {
       "added_at": "2025-02-28 16:00:14",
@@ -959,18 +959,18 @@
     {
       "added_at": "2025-02-28 16:00:14",
       "album": {
-        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
-        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
+        "name": "early summer 2022",
+        "url": "https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs"
       },
       "artists": [
         {
-          "name": "Schroeder-Headz",
-          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
+          "name": "Kazumasa Oda",
+          "url": "https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR"
         }
       ],
-      "duration_ms": 195693,
-      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
-      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
+      "duration_ms": 274066,
+      "name": "\u3053\u306e\u65e5\u306e\u3053\u3068",
+      "url": "https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh"
     },
     {
       "added_at": "2025-02-28 16:00:14",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2025-02-28 16:00:14",
       "album": {
+        "name": "Ninh Binh Brother's Homestay",
+        "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
+      },
+      "artists": [
+        {
+          "name": "MIZ",
+          "url": "https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq"
+        }
+      ],
+      "duration_ms": 228038,
+      "name": "\u30d1\u30ec\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV"
+    },
+    {
+      "added_at": "2025-02-28 16:00:14",
+      "album": {
         "name": "\u30ea\u30e7\u30a6\u30e1\u30f3\u30b7\u30c0\uff0f\u30b5\u30f3\u30b5\u30fc\u30e9",
         "url": "https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J"
       },
@@ -1107,38 +1123,6 @@
       "duration_ms": 167885,
       "name": "Moon Dance",
       "url": "https://open.spotify.com/track/2mMZ6RsGVCUJwNuJekjlAx"
-    },
-    {
-      "added_at": "2025-02-28 16:00:14",
-      "album": {
-        "name": "Ninh Binh Brother's Homestay",
-        "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
-      },
-      "artists": [
-        {
-          "name": "MIZ",
-          "url": "https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq"
-        }
-      ],
-      "duration_ms": 228038,
-      "name": "\u30d1\u30ec\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV"
-    },
-    {
-      "added_at": "2025-02-28 16:00:14",
-      "album": {
-        "name": "\u3081\u3050\u308b",
-        "url": "https://open.spotify.com/album/6h4XyRagPLC8pSqbWls32G"
-      },
-      "artists": [
-        {
-          "name": "Yuga",
-          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
-        }
-      ],
-      "duration_ms": 265026,
-      "name": "\u3081\u3050\u308b",
-      "url": "https://open.spotify.com/track/0K5kuJdxRE7oT7jMfPDwLp"
     },
     {
       "added_at": "2025-02-28 16:00:14",
@@ -1175,22 +1159,18 @@
     {
       "added_at": "2025-02-28 16:00:14",
       "album": {
-        "name": "Night Flow",
-        "url": "https://open.spotify.com/album/6BUtooxe1o0S9rSLZbmZ24"
+        "name": "\u3081\u3050\u308b",
+        "url": "https://open.spotify.com/album/6h4XyRagPLC8pSqbWls32G"
       },
       "artists": [
         {
-          "name": "\u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6",
-          "url": "https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye"
-        },
-        {
-          "name": "\u30a4\u30ce\u30a6\u30a8\u30ef\u30e9\u30d3",
-          "url": "https://open.spotify.com/artist/5DhlHgEyxSctLdzRoo5T44"
+          "name": "Yuga",
+          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
         }
       ],
-      "duration_ms": 249940,
-      "name": "reiji no machi",
-      "url": "https://open.spotify.com/track/5hMGyNKCPjI0VFjS0YoozL"
+      "duration_ms": 265026,
+      "name": "\u3081\u3050\u308b",
+      "url": "https://open.spotify.com/track/0K5kuJdxRE7oT7jMfPDwLp"
     },
     {
       "added_at": "2025-02-28 16:00:14",
@@ -1207,6 +1187,26 @@
       "duration_ms": 238800,
       "name": "\u3064\u3050\u307f",
       "url": "https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ"
+    },
+    {
+      "added_at": "2025-02-28 16:00:14",
+      "album": {
+        "name": "Night Flow",
+        "url": "https://open.spotify.com/album/6BUtooxe1o0S9rSLZbmZ24"
+      },
+      "artists": [
+        {
+          "name": "\u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6",
+          "url": "https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye"
+        },
+        {
+          "name": "\u30a4\u30ce\u30a6\u30a8\u30ef\u30e9\u30d3",
+          "url": "https://open.spotify.com/artist/5DhlHgEyxSctLdzRoo5T44"
+        }
+      ],
+      "duration_ms": 249940,
+      "name": "reiji no machi",
+      "url": "https://open.spotify.com/track/5hMGyNKCPjI0VFjS0YoozL"
     },
     {
       "added_at": "2025-02-28 16:00:14",
@@ -1563,6 +1563,30 @@
     {
       "added_at": "2025-02-28 16:00:14",
       "album": {
+        "name": "moonlight",
+        "url": "https://open.spotify.com/album/58BwJa6AO9RdRVBNJls2b7"
+      },
+      "artists": [
+        {
+          "name": "Jane Jade",
+          "url": "https://open.spotify.com/artist/6wmQqcVc9s7XztjlNNL2sm"
+        },
+        {
+          "name": "Yuga",
+          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
+        },
+        {
+          "name": "Sakura Fujiwara",
+          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "moonlight",
+      "url": "https://open.spotify.com/track/6XFHr2ZCgyndx3LO47kEyL"
+    },
+    {
+      "added_at": "2025-02-28 16:00:14",
+      "album": {
         "name": "\u3070\u304b\u306e\u3046\u305f",
         "url": "https://open.spotify.com/album/0Q8mx1yHMWGG69vXrpiDrX"
       },
@@ -1595,26 +1619,18 @@
     {
       "added_at": "2025-02-28 16:00:14",
       "album": {
-        "name": "moonlight",
-        "url": "https://open.spotify.com/album/58BwJa6AO9RdRVBNJls2b7"
+        "name": "oar",
+        "url": "https://open.spotify.com/album/22b8zl798zalEhOyGlZrnR"
       },
       "artists": [
         {
-          "name": "Jane Jade",
-          "url": "https://open.spotify.com/artist/6wmQqcVc9s7XztjlNNL2sm"
-        },
-        {
-          "name": "Yuga",
-          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
-        },
-        {
-          "name": "Sakura Fujiwara",
-          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
+          "name": "\u89d2\u9285\u771f\u5b9f",
+          "url": "https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ"
         }
       ],
-      "duration_ms": 199333,
-      "name": "moonlight",
-      "url": "https://open.spotify.com/track/6XFHr2ZCgyndx3LO47kEyL"
+      "duration_ms": 304933,
+      "name": "6\u6708\u306e\u7a93",
+      "url": "https://open.spotify.com/track/5xdfhMrkOaDgl9f1yGaKIy"
     },
     {
       "added_at": "2025-02-28 16:00:14",
@@ -1631,22 +1647,6 @@
       "duration_ms": 457613,
       "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
       "url": "https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz"
-    },
-    {
-      "added_at": "2025-02-28 16:00:14",
-      "album": {
-        "name": "oar",
-        "url": "https://open.spotify.com/album/22b8zl798zalEhOyGlZrnR"
-      },
-      "artists": [
-        {
-          "name": "\u89d2\u9285\u771f\u5b9f",
-          "url": "https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ"
-        }
-      ],
-      "duration_ms": 304933,
-      "name": "6\u6708\u306e\u7a93",
-      "url": "https://open.spotify.com/track/5xdfhMrkOaDgl9f1yGaKIy"
     },
     {
       "added_at": "2025-02-28 16:00:14",

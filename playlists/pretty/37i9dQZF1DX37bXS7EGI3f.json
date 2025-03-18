@@ -1,6 +1,6 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Nightwish\n",
-  "num_followers": 795409,
+  "num_followers": 795472,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
+        "name": "Power of Will",
+        "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
+      },
+      "artists": [
+        {
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+        }
+      ],
+      "duration_ms": 233653,
+      "name": "Power of Will",
+      "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
         "name": "The Wicked Rule The Night",
         "url": "https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 264946,
       "name": "The Wicked Rule The Night",
       "url": "https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
-        "name": "Power of Will",
-        "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
-      },
-      "artists": [
-        {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
-        }
-      ],
-      "duration_ms": 233653,
-      "name": "Power of Will",
-      "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Dance Till We Sink",
-        "url": "https://open.spotify.com/album/7DyG3F5Y3igBwH4WuRIlmt"
-      },
-      "artists": [
-        {
-          "name": "A Wildheart's Tale",
-          "url": "https://open.spotify.com/artist/7rs9jSwkWMCtMgth8HUNNb"
-        }
-      ],
-      "duration_ms": 178999,
-      "name": "Dance Till We Sink",
-      "url": "https://open.spotify.com/track/5RJTbctfEPvxAWa4ejPwDm"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Feed the Fire",
         "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 199000,
       "name": "Feed the Fire",
       "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Dance Till We Sink",
+        "url": "https://open.spotify.com/album/7DyG3F5Y3igBwH4WuRIlmt"
+      },
+      "artists": [
+        {
+          "name": "A Wildheart's Tale",
+          "url": "https://open.spotify.com/artist/7rs9jSwkWMCtMgth8HUNNb"
+        }
+      ],
+      "duration_ms": 178999,
+      "name": "Dance Till We Sink",
+      "url": "https://open.spotify.com/track/5RJTbctfEPvxAWa4ejPwDm"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Queen of Shadow",
-        "url": "https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku"
-      },
-      "artists": [
-        {
-          "name": "Delain",
-          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
-        },
-        {
-          "name": "Paolo Ribaldini",
-          "url": "https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN"
-        }
-      ],
-      "duration_ms": 242146,
-      "name": "Queen of Shadow (feat. Paolo Ribaldini)",
-      "url": "https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Target Acquired (feat. Megan McDuffee)",
         "url": "https://open.spotify.com/album/2V5RiMu96qwpW0dDY0LDXt"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 288166,
       "name": "Target Acquired",
       "url": "https://open.spotify.com/track/25x7xXk5m6oCO1x67J0HRY"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Queen of Shadow",
+        "url": "https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku"
+      },
+      "artists": [
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        },
+        {
+          "name": "Paolo Ribaldini",
+          "url": "https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN"
+        }
+      ],
+      "duration_ms": 242146,
+      "name": "Queen of Shadow (feat. Paolo Ribaldini)",
+      "url": "https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Deified",
-        "url": "https://open.spotify.com/album/0s6HINWvUrRD3EmQG8YRPn"
-      },
-      "artists": [
-        {
-          "name": "Tony Iommi",
-          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
-        }
-      ],
-      "duration_ms": 236521,
-      "name": "Deified",
-      "url": "https://open.spotify.com/track/57X3y9aTt59bXdszZm1U8C"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "The Bell",
         "url": "https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 271486,
       "name": "The Bell",
       "url": "https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Deified",
+        "url": "https://open.spotify.com/album/0s6HINWvUrRD3EmQG8YRPn"
+      },
+      "artists": [
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+        }
+      ],
+      "duration_ms": 236521,
+      "name": "Deified",
+      "url": "https://open.spotify.com/track/57X3y9aTt59bXdszZm1U8C"
     },
     {
       "added_at": "2024-09-20 04:24:16",

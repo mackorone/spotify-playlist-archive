@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 
 > Get ready for a full\-body workout
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,086 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,110 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vancouver](https://open.spotify.com/track/1QKIZctspbifzxSJr6i7JX) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Young G.O.A.T](https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq) | 2:43 |
 | 2 | [Softly](https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 2:35 |
 | 3 | [Check It Out](https://open.spotify.com/track/4VosVUajzm6nzGlSb6nP3L) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Check It Out](https://open.spotify.com/album/1vF3ag997oVOcaSYVlFytV) | 3:15 |
-| 4 | [BALLE BALLE](https://open.spotify.com/track/4v4aw9AOuiWsx9BwEMzKW1) | [Panjabi Hit Squad](https://open.spotify.com/artist/3IlSLDQTwlMSGiWDRoJ0Gj) | [BALLE BALLE](https://open.spotify.com/album/7x8wLXXTxrb7rQVjKinM4C) | 3:46 |
+| 4 | [Cheques](https://open.spotify.com/track/4eBvRhTJ2AcxCsbfTUjoRp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 3:03 |
 | 5 | [Hadd Todta \- From "Majhail"](https://open.spotify.com/track/4Ra4w2di4Pw2Wd3iUID7EK) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj) | [Hadd Todta \(From "Majhail"\)](https://open.spotify.com/album/76TqXlblGWmMvVNLJtNw0I) | 2:37 |
-| 6 | [Cheques](https://open.spotify.com/track/4eBvRhTJ2AcxCsbfTUjoRp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 3:03 |
+| 6 | [Jee Karda](https://open.spotify.com/track/316FmbbWpvia0G28dG5sBa) | [Jellio DBI](https://open.spotify.com/artist/3Ue5OGf3ztxcHf1ZVsENzJ) | [Jee Karda](https://open.spotify.com/album/33iJ3qcns14MKnWK3NxHiU) | 3:24 |
 | 7 | [9:45](https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb) | [Prabh Singh](https://open.spotify.com/artist/0VAIiNSKG4DWkSaIy5qWz1), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Rooh Sandhu](https://open.spotify.com/artist/54E3dYx7RpaGZaDVXJTWjr) | [9:45](https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR) | 1:57 |
 | 8 | [Bison](https://open.spotify.com/track/6Pi63q4LPHNqe3hxAxtG1c) | [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Extent!](https://open.spotify.com/album/76AJlhZr2JTIZxt02gx6x2) | 2:12 |
 | 9 | [BROSKI](https://open.spotify.com/track/3pliB4yT7hYbwBI6qycYtg) | [Veer Sandhu](https://open.spotify.com/artist/2X1Bu6jg2Se8OclSxn4byQ), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [BROSKI](https://open.spotify.com/album/0bMlUYMYxF07MlN3RkNlik) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 | 49 | [Nachan Nu Jee Karda \(From "Angrezi Medium"\)](https://open.spotify.com/track/2zQeAeH3q0K7U2AWEcVOsF) | [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Tigerstyle](https://open.spotify.com/artist/5DPXmKUA7F5ZKDNww9jWIS) | [Nachan Nu Jee Karda \(From "Angrezi Medium"\)](https://open.spotify.com/album/0GrVV09R7votIjQBpBLwLC) | 2:47 |
 | 50 | [Baddlan De Kaalje \(From "Chal Mera Putt" Soundtrack\)](https://open.spotify.com/track/4zxFqGMNVDcU6wGSVnveDy) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Baddlan De Kaalje \(From "Chal Mera Putt" Soundtrack\)](https://open.spotify.com/album/0UUv0LvI9q5axEJXTMiNqO) | 3:18 |
 
-Snapshot ID: `Z9LGjAAAAAA6P3QCBohGMGNlzTbsELIu`
+Snapshot ID: `Z9fU4QAAAADHEIB9RNwBO1OuvJSt+uI5`

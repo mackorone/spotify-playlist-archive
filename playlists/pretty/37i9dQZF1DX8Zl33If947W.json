@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 184587,
+  "num_followers": 184662,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Mit K",
-        "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
-      },
-      "artists": [
-        {
-          "name": "Kraftklub",
-          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
-        }
-      ],
-      "duration_ms": 258360,
-      "name": "Kein Liebeslied",
-      "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
         "name": "Grande",
         "url": "https://open.spotify.com/album/1eYX6uNoyhwTdZMELCKnMW"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 230413,
       "name": "Wenn du tanzt",
       "url": "https://open.spotify.com/track/0G7vexduCvboPyIGjJXQIC"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
+        "name": "Mit K",
+        "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
+      },
+      "artists": [
+        {
+          "name": "Kraftklub",
+          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
+        }
+      ],
+      "duration_ms": 258360,
+      "name": "Kein Liebeslied",
+      "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -999,18 +999,18 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Normal zu lieben",
-        "url": "https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz"
+        "name": "Wenn Worte meine Sprache w\u00e4ren",
+        "url": "https://open.spotify.com/album/2ai3kNWda8ZBpeL9Shfxbc"
       },
       "artists": [
         {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+          "name": "Tim Bendzko",
+          "url": "https://open.spotify.com/artist/3xDVmZmDpaF1uuez2N7mKl"
         }
       ],
-      "duration_ms": 176680,
-      "name": "Normal zu lieben",
-      "url": "https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ"
+      "duration_ms": 209480,
+      "name": "Wenn Worte meine Sprache w\u00e4ren",
+      "url": "https://open.spotify.com/track/3tIN1SDHpOb0vmnLHjL0IH"
     }
   ],
   "unique_name": "Liebeslieder",

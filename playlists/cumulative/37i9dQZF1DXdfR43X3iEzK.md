@@ -4,7 +4,7 @@
 
 > My alt/pop could mean anything! Cover: Wet
 
-210 songs - 11 hr 1 min
+211 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Delirium](https://open.spotify.com/track/4uDSbSTjuPL75gz5Z3ABHH) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Delirium](https://open.spotify.com/album/0RRGB1JrVg84M72UL19BmT) | 2:46 | 2024-08-23 | 2024-10-14 |
 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 | 2024-07-12 | 2025-03-14 |
 | [Dive](https://open.spotify.com/track/5WMA8AmXGff8wo450I3Ecn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Dive](https://open.spotify.com/album/1bSqgLKbe0KMX9RcjYvtkX) | 3:59 | 2024-06-07 | 2025-03-08 |
+| [Do Not Go Gentle into Goodbyes](https://open.spotify.com/track/4J5MVJGewv7MjA2uuruxGV) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [Anti\-People Pleaser, Pt\. 1](https://open.spotify.com/album/5Qf3rfAwHvdye91p3ebaiu) | 4:13 | 2025-03-14 |  |
 | [DOING IT AGAIN BABY](https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [DOING IT AGAIN BABY](https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz) | 2:25 | 2024-06-07 | 2025-03-08 |
 | [dont let me go](https://open.spotify.com/track/7uVwJHgkpOI8mCCa0T23Vr) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [dont let me go](https://open.spotify.com/album/2Sn6jvX2QNfeE0mW1gmhCS) | 2:53 | 2024-06-07 | 2025-03-08 |
 | [DUMB](https://open.spotify.com/track/5spmxbavbQ3keV5hx4jwM2) | [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo) | [BLACK DIAMOND](https://open.spotify.com/album/00aWPd7iB5wgq8oaarPFKf) | 2:38 | 2025-03-07 |  |
@@ -79,7 +80,7 @@
 | [Free](https://open.spotify.com/track/0w78hawHvWANKTeFe8Vouv) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Free](https://open.spotify.com/album/7o6p1Siw6MlP1lsPS6uucX) | 3:11 | 2024-07-12 | 2025-02-11 |
 | [Fuck It](https://open.spotify.com/track/2EvTsqvQ1nT7Mp2xgPl1fm) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [Fuck It](https://open.spotify.com/album/1eg74Dv2l9Rq2fWvkici0w) | 2:16 | 2025-03-14 |  |
 | [Ganni Top \(She Gets What She Needs\)](https://open.spotify.com/track/4S2kZNqRtVNHCXFQKDQpEX) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Ganni Top \(She Gets What She Needs\)](https://open.spotify.com/album/1CTAbh7U5e7KzKQAfX7aNx) | 2:07 | 2024-10-10 |  |
-| [Get 2 Me](https://open.spotify.com/track/4nyQO3FVAI63h5a0HMgY9w) | [congratulations](https://open.spotify.com/artist/3Zd0jI43rmogm8qVt2QAdq) | [Get 2 Me](https://open.spotify.com/album/7CYwA8ioZnpTaCJiYVLvxq) | 3:14 | 2025-03-14 |  |
+| [Get 2 Me](https://open.spotify.com/track/4nyQO3FVAI63h5a0HMgY9w) | [congratulations](https://open.spotify.com/artist/3Zd0jI43rmogm8qVt2QAdq) | [Get 2 Me](https://open.spotify.com/album/7CYwA8ioZnpTaCJiYVLvxq) | 3:14 | 2025-03-14 | 2025-03-18 |
 | [Ghostly](https://open.spotify.com/track/4XzPBq65qvgxLclPvu0bQw) | [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [Ghostly](https://open.spotify.com/album/1LlEshLkn4bP1ACf2peFF0) | 3:23 | 2025-03-14 |  |
 | [Girl, so confusing featuring lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Girl, so confusing featuring lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 | 2024-07-12 | 2025-03-14 |
 | [Give A Little Of Your Love](https://open.spotify.com/track/4R4jVksnEFM9T1yuyQGkyr) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Give A Little Of Your Love](https://open.spotify.com/album/1Q1cWOYVelc0Ofb0le0slM) | 3:29 | 2024-07-18 | 2024-08-02 |

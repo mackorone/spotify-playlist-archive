@@ -9119,6 +9119,24 @@
     },
     {
       "album": {
+        "name": "Soft Club X",
+        "url": "https://open.spotify.com/album/0foQfOFqazuGQjCoJZR0x2"
+      },
+      "artists": [
+        {
+          "name": "Soul Legend",
+          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182290,
+      "name": "Soft Club X",
+      "url": "https://open.spotify.com/track/0VNzVO3Fw2S8QBX8SA4JMm"
+    },
+    {
+      "album": {
         "name": "Soleil",
         "url": "https://open.spotify.com/album/1wdClJMfuGIwDnidRgglW7"
       },
@@ -10884,7 +10902,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 197437,
       "name": "YoYo Disco - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/6Vu17xDve7915qFNPk2Wgm"

@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 9631907,
+  "num_followers": 9634971,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z89ISgAAAAAEbWMW+L8z3dBgLcyiOeG0",
+  "snapshot_id": "Z9g7mQAAAAAf9OkNTC2MtHEt07WezuWa",
   "tracks": [
     {
       "added_at": "2024-10-04 13:19:49",
@@ -115,6 +115,26 @@
       "duration_ms": 145115,
       "name": "Funk de Beleza - Slowed",
       "url": "https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4"
+    },
+    {
+      "added_at": "2025-02-28 15:27:21",
+      "album": {
+        "name": "MTG - RITMO ZELDA",
+        "url": "https://open.spotify.com/album/62R2H85ZiKLp0lYHPprQWV"
+      },
+      "artists": [
+        {
+          "name": "JXM",
+          "url": "https://open.spotify.com/artist/2nGwC9QG6Hpw4fSDgNpn5n"
+        },
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/4DWPOsGWbW7sBHb1UuBvWs"
+        }
+      ],
+      "duration_ms": 107111,
+      "name": "MTG - RITMO ZELDA - Super Slowed",
+      "url": "https://open.spotify.com/track/5XwNsUvJxk38263zeXrfXI"
     },
     {
       "added_at": "2024-07-05 13:50:01",
@@ -241,6 +261,22 @@
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
+      "added_at": "2025-02-28 15:27:21",
+      "album": {
+        "name": "PASSO BEM SOLTO",
+        "url": "https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY"
+      },
+      "artists": [
+        {
+          "name": "ATLXS",
+          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
+        }
+      ],
+      "duration_ms": 116072,
+      "name": "PASSO BEM SOLTO - Slowed",
+      "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
+    },
+    {
       "added_at": "2022-05-20 10:12:52",
       "album": {
         "name": "METAMORPHOSIS",
@@ -275,46 +311,6 @@
       "duration_ms": 67596,
       "name": "VAPO NO SETOR",
       "url": "https://open.spotify.com/track/25MzUGleMnmyoeTNRZ8QF1"
-    },
-    {
-      "added_at": "2025-02-28 15:27:21",
-      "album": {
-        "name": "MTG - RITMO ZELDA",
-        "url": "https://open.spotify.com/album/62R2H85ZiKLp0lYHPprQWV"
-      },
-      "artists": [
-        {
-          "name": "JXM",
-          "url": "https://open.spotify.com/artist/2nGwC9QG6Hpw4fSDgNpn5n"
-        },
-        {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/4DWPOsGWbW7sBHb1UuBvWs"
-        }
-      ],
-      "duration_ms": 107111,
-      "name": "MTG - RITMO ZELDA - Super Slowed",
-      "url": "https://open.spotify.com/track/5XwNsUvJxk38263zeXrfXI"
-    },
-    {
-      "added_at": "2024-04-12 15:41:29",
-      "album": {
-        "name": "MASHA ULTRAFUNK",
-        "url": "https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC"
-      },
-      "artists": [
-        {
-          "name": "HISTED",
-          "url": "https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD"
-        },
-        {
-          "name": "TXVSTERPLAYA",
-          "url": "https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5"
-        }
-      ],
-      "duration_ms": 93650,
-      "name": "MASHA ULTRAFUNK",
-      "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
     },
     {
       "added_at": "2024-02-09 15:25:18",
@@ -401,48 +397,24 @@
       "url": "https://open.spotify.com/track/0ePdvQb4qFBA9Ps1QZwhMu"
     },
     {
-      "added_at": "2024-12-13 05:45:00",
+      "added_at": "2024-04-12 15:41:29",
       "album": {
-        "name": "EVOLUTION FUNK VOL. I",
-        "url": "https://open.spotify.com/album/0Sx1oekEz6qmAHZ2atqpVp"
+        "name": "MASHA ULTRAFUNK",
+        "url": "https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC"
       },
       "artists": [
         {
-          "name": "satirin",
-          "url": "https://open.spotify.com/artist/7g38XDW5EXI4dMTUkYjVTO"
+          "name": "HISTED",
+          "url": "https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD"
         },
         {
-          "name": "FUNK DEMON",
-          "url": "https://open.spotify.com/artist/14p92d87nODRl5HeejOJ3v"
-        },
-        {
-          "name": "EVO",
-          "url": "https://open.spotify.com/artist/7K9EQ4PoBKZpE7Dm28JITY"
+          "name": "TXVSTERPLAYA",
+          "url": "https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5"
         }
       ],
-      "duration_ms": 144437,
-      "name": "MATUSHKA ULTRAFUNK",
-      "url": "https://open.spotify.com/track/1hno5s900j7E6WoXY35OW8"
-    },
-    {
-      "added_at": "2025-01-24 16:35:17",
-      "album": {
-        "name": "Lya Funk",
-        "url": "https://open.spotify.com/album/3kJEka5x8yw9xg02X0mwBH"
-      },
-      "artists": [
-        {
-          "name": "V\u00d8J",
-          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
-        },
-        {
-          "name": "TRVNSPORTER",
-          "url": "https://open.spotify.com/artist/7qxDImq6MFph8fLy0FOTCq"
-        }
-      ],
-      "duration_ms": 129597,
-      "name": "Lya Funk",
-      "url": "https://open.spotify.com/track/2FYlmspnovRvPOP0a5d53A"
+      "duration_ms": 93650,
+      "name": "MASHA ULTRAFUNK",
+      "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
     },
     {
       "added_at": "2025-01-17 15:31:38",
@@ -657,22 +629,6 @@
       "url": "https://open.spotify.com/track/2sTYP8L0PNm3CtgKsj1gOF"
     },
     {
-      "added_at": "2025-02-28 15:27:21",
-      "album": {
-        "name": "PASSO BEM SOLTO",
-        "url": "https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY"
-      },
-      "artists": [
-        {
-          "name": "ATLXS",
-          "url": "https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah"
-        }
-      ],
-      "duration_ms": 116072,
-      "name": "PASSO BEM SOLTO - Slowed",
-      "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
-    },
-    {
       "added_at": "2024-08-30 14:16:34",
       "album": {
         "name": "FUNK UNIVERSO",
@@ -707,6 +663,50 @@
       "duration_ms": 118194,
       "name": "BRAZILIAN DAN\u00c7A PHONK",
       "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
+    },
+    {
+      "added_at": "2024-12-13 05:45:00",
+      "album": {
+        "name": "EVOLUTION FUNK VOL. I",
+        "url": "https://open.spotify.com/album/0Sx1oekEz6qmAHZ2atqpVp"
+      },
+      "artists": [
+        {
+          "name": "satirin",
+          "url": "https://open.spotify.com/artist/7g38XDW5EXI4dMTUkYjVTO"
+        },
+        {
+          "name": "FUNK DEMON",
+          "url": "https://open.spotify.com/artist/14p92d87nODRl5HeejOJ3v"
+        },
+        {
+          "name": "EVO",
+          "url": "https://open.spotify.com/artist/7K9EQ4PoBKZpE7Dm28JITY"
+        }
+      ],
+      "duration_ms": 144437,
+      "name": "MATUSHKA ULTRAFUNK",
+      "url": "https://open.spotify.com/track/1hno5s900j7E6WoXY35OW8"
+    },
+    {
+      "added_at": "2025-01-24 16:35:17",
+      "album": {
+        "name": "Lya Funk",
+        "url": "https://open.spotify.com/album/3kJEka5x8yw9xg02X0mwBH"
+      },
+      "artists": [
+        {
+          "name": "V\u00d8J",
+          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
+        },
+        {
+          "name": "TRVNSPORTER",
+          "url": "https://open.spotify.com/artist/7qxDImq6MFph8fLy0FOTCq"
+        }
+      ],
+      "duration_ms": 129597,
+      "name": "Lya Funk",
+      "url": "https://open.spotify.com/track/2FYlmspnovRvPOP0a5d53A"
     },
     {
       "added_at": "2023-10-06 14:17:07",
@@ -1019,6 +1019,26 @@
       "duration_ms": 199450,
       "name": "AVANGARD - Slowed",
       "url": "https://open.spotify.com/track/36KN8cwJgQmIOYaUS0Lvvu"
+    },
+    {
+      "added_at": "2025-03-17 15:11:21",
+      "album": {
+        "name": "YOLANDA RAYO, Vol. 2",
+        "url": "https://open.spotify.com/album/1qNrl06lX2xyJaRqnXj9r2"
+      },
+      "artists": [
+        {
+          "name": "DJ DYLANFK",
+          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
+        },
+        {
+          "name": "DJ KCH",
+          "url": "https://open.spotify.com/artist/1ddGyB75XRevt00TWHDI09"
+        }
+      ],
+      "duration_ms": 131006,
+      "name": "YOLANDA RAYO, Vol. 2 - Super Slowed",
+      "url": "https://open.spotify.com/track/626Be6h2Onb5HyfhMFG63w"
     },
     {
       "added_at": "2023-05-05 15:57:14",
@@ -1425,26 +1445,6 @@
       "url": "https://open.spotify.com/track/2SQp5yapF1ZwiuKgaFuFMJ"
     },
     {
-      "added_at": "2025-02-21 14:00:23",
-      "album": {
-        "name": "KUATR0",
-        "url": "https://open.spotify.com/album/7klOHdTglD5R7yhEVUmjKB"
-      },
-      "artists": [
-        {
-          "name": "S4nri0",
-          "url": "https://open.spotify.com/artist/0oV5Z0bl2CEOKxeN8FZHi7"
-        },
-        {
-          "name": "Kobe Mane",
-          "url": "https://open.spotify.com/artist/4BTssiFELKNdNf96QDT3hQ"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "KUATR0",
-      "url": "https://open.spotify.com/track/4kzt8RUsBa8RFQe8pRLDel"
-    },
-    {
       "added_at": "2025-01-31 17:10:47",
       "album": {
         "name": "RISADA CHUCK 01",
@@ -1619,50 +1619,6 @@
       "duration_ms": 144019,
       "name": "PLANETA DESCONHECIDO",
       "url": "https://open.spotify.com/track/1bGCQoaz734Y5jeZ6GiUZ1"
-    },
-    {
-      "added_at": "2025-01-17 15:31:38",
-      "album": {
-        "name": "EMPTY FUNK",
-        "url": "https://open.spotify.com/album/5BKAwGbVKGIu7cJspBFsjs"
-      },
-      "artists": [
-        {
-          "name": "DJ Anemia",
-          "url": "https://open.spotify.com/artist/6vvNcm1On2wFwZNXB63a7B"
-        },
-        {
-          "name": "crier",
-          "url": "https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl"
-        },
-        {
-          "name": "sixnite",
-          "url": "https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk"
-        }
-      ],
-      "duration_ms": 121666,
-      "name": "EMPTY FUNK",
-      "url": "https://open.spotify.com/track/35vfzOdNc9qIMlcIjzwxJP"
-    },
-    {
-      "added_at": "2025-01-07 20:52:35",
-      "album": {
-        "name": "Montagem Lunar Diamante",
-        "url": "https://open.spotify.com/album/0JYZjOll98BB5vPgl2xOLN"
-      },
-      "artists": [
-        {
-          "name": "DJ DYLANFK",
-          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
-        },
-        {
-          "name": "WXCHSXN",
-          "url": "https://open.spotify.com/artist/3V9pMeaokZlFw0a80Cff3O"
-        }
-      ],
-      "duration_ms": 185245,
-      "name": "Montagem Lunar Diamante - Slowed",
-      "url": "https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr"
     },
     {
       "added_at": "2024-05-10 15:00:06",
@@ -1931,6 +1887,26 @@
       "duration_ms": 114593,
       "name": "The Automotivo Infernal 1.0 - Purple",
       "url": "https://open.spotify.com/track/0nfnslHCHU8n3LqT7DhtGw"
+    },
+    {
+      "added_at": "2025-02-21 14:00:23",
+      "album": {
+        "name": "KUATR0",
+        "url": "https://open.spotify.com/album/7klOHdTglD5R7yhEVUmjKB"
+      },
+      "artists": [
+        {
+          "name": "S4nri0",
+          "url": "https://open.spotify.com/artist/0oV5Z0bl2CEOKxeN8FZHi7"
+        },
+        {
+          "name": "Kobe Mane",
+          "url": "https://open.spotify.com/artist/4BTssiFELKNdNf96QDT3hQ"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "KUATR0",
+      "url": "https://open.spotify.com/track/4kzt8RUsBa8RFQe8pRLDel"
     }
   ],
   "unique_name": "phonk",

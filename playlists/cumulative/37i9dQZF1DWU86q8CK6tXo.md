@@ -2,7 +2,7 @@
 
 ### [EQUAL US](https://open.spotify.com/playlist/37i9dQZF1DWU86q8CK6tXo)
 
-> We're celebrating Women's History Month on EQUAL US with these game\-changing artists! Cover: SZA
+> We're celebrating Women's History Month on EQUAL US with these game\-changing artists! Cover: Taylor Swift
 
 1,763 songs - 3 day 23 hr 15 min
 

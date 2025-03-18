@@ -1641,6 +1641,28 @@
     },
     {
       "album": {
+        "name": "Gangsta Bolliyan",
+        "url": "https://open.spotify.com/album/4FtmhzKJQ0U3PgZ28g0ucX"
+      },
+      "artists": [
+        {
+          "name": "Khan Bhaini",
+          "url": "https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N"
+        },
+        {
+          "name": "Sycostyle",
+          "url": "https://open.spotify.com/artist/0OXj50LoqFAQ9qj3dQ9yni"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224680,
+      "name": "Gangsta Bolliyan",
+      "url": "https://open.spotify.com/track/2i8r1sJSgIuLpamd8WJHJp"
+    },
+    {
+      "album": {
         "name": "THE REVOLUTION",
         "url": "https://open.spotify.com/album/1QkGi708j70paXVgKdef65"
       },
@@ -1872,7 +1894,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-18",
       "duration_ms": 170000,
       "name": "Hu Jattiye",
       "url": "https://open.spotify.com/track/72vuc3a2dvWXSKnbHgP1Yl"

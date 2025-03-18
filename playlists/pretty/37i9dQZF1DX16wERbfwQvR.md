@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16wERbfwQvR.md) - [plain]
 
 > Father of the symphony and string quartet, and teacher to both Mozart and Beethoven\. This is Haydn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,107 likes - 62 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,128 likes - 62 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-164 songs - 11 hr 0 min
+165 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Sunlit Smile!](https://open.spotify.com/track/48spUdSXNLwakQV7vpIc9m) | [Eve/巴 日和\(CV.花江夏樹\)、漣 ジュン\(CV:内田雄馬\)](https://open.spotify.com/artist/5ZmvttsV0fyB06yAfxPCmK) | [あんさんぶるスターズ！アルバムシリーズ Eden](https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC) | 4:09 | 2024-04-26 | 2025-01-29 |
 | [SunnyTrip Summer](https://open.spotify.com/track/5qz6AbE4lsrBNCCTQGZJml) | [ALKALOID](https://open.spotify.com/artist/1gbL5yRuV5ygOEe5wVBkdK) | [あんさんぶるスターズ！！ ESアイドルソング Season5 ALKALOID「SunnyTrip Summer」](https://open.spotify.com/album/5oqDaZ6OOiPqEpIduUbgCy) | 3:31 | 2024-07-12 |  |
 | [Swee2wink Love Letter](https://open.spotify.com/track/0pi8djDltXS8pPXpgQHkGa) | [2wink/葵 ひなた&葵 ゆうた\(CV.斉藤壮馬\)](https://open.spotify.com/artist/4PCSbUSb6gjdnV0I5X0ErS) | [2wink「Swee2wink Love Letter」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/5Pmd4CEBY1s8cturrRi49z) | 3:44 | 2025-01-08 |  |
-| [Temptation Magic](https://open.spotify.com/track/0b5yb5KzoZidRrBopIP33d) | [Switch/逆先夏目\(CV.野島健児\)、青葉つむぎ\(CV.石川界人\)、春川宙\(CV.山本和臣\)](https://open.spotify.com/artist/5d82rmaDyzFjTqqczGYXEV) | [あんさんぶるスターズ！ アルバムシリーズ Switch](https://open.spotify.com/album/0479uOQcSG1f0TMSfcL62u) | 5:34 | 2024-11-09 |  |
+| [Temptation Magic](https://open.spotify.com/track/0b5yb5KzoZidRrBopIP33d) | [Switch/逆先夏目\(CV.野島健児\)、青葉つむぎ\(CV.石川界人\)、春川宙\(CV.山本和臣\)](https://open.spotify.com/artist/5d82rmaDyzFjTqqczGYXEV) | [あんさんぶるスターズ！ アルバムシリーズ Switch](https://open.spotify.com/album/0479uOQcSG1f0TMSfcL62u) | 5:34 | 2024-11-09 | 2025-03-18 |
 | [THE GENESIS](https://open.spotify.com/track/5tY74vouzdfyGYpTqFFmev) | [Eden/乱 凪砂\(CV.諏訪部順一\)、巴 日和\(CV.花江夏樹\)、七種 茨\(CV.逢坂良太\)、漣 ジュン\(CV.内田雄馬\)](https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK) | [あんさんぶるスターズ！アルバムシリーズ Eden](https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC) | 4:08 | 2024-04-26 | 2025-03-17 |
 | [Trap For You](https://open.spotify.com/track/7GFQVeJfaM3zQ0CSAWiPXy) | [Eve/巴 日和\(CV.花江夏樹\)、漣 ジュン\(CV:内田雄馬\)](https://open.spotify.com/artist/5ZmvttsV0fyB06yAfxPCmK) | [あんさんぶるスターズ！アルバムシリーズ Eden](https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC) | 4:08 | 2024-04-26 |  |
 | [TRICK with TREAT!!\(with UNDEAD\)](https://open.spotify.com/track/2V8SHwxBkbhPDGjCFEIggf) | [2wink/葵 ひなた&葵 ゆうた\(CV.斉藤壮馬\)](https://open.spotify.com/artist/4PCSbUSb6gjdnV0I5X0ErS) | [あんさんぶるスターズ！アルバムシリーズ 2wink](https://open.spotify.com/album/2EhHCiaRN1bz3tfVfZpIs1) | 4:32 | 2024-10-10 | 2024-12-25 |
@@ -148,6 +148,7 @@
 | [僕らのステラ](https://open.spotify.com/track/2bnwmebEaREd1EKXvcG9CF) | [流星隊／深海 奏汰\(CV.西山 宏太朗\)、南雲 鉄虎\(CV.中島 ヨシキ\)、高峯 翠\(CV.渡辺 拓海\)、仙石 忍\(CV.新田 杏樹\)、守沢 千秋\(CV.帆世 雄一\)](https://open.spotify.com/artist/7CJMlJDmJqILvjKmXvrUxe) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 流星隊](https://open.spotify.com/album/6e3obtGSFhup7yHHHYksid) | 3:33 | 2024-04-26 | 2024-12-15 |
 | [勇侠青春謳](https://open.spotify.com/track/6f2lqCBtPtJ5XHGtrLZpWi) | [Valkyrie & 紅月/斎宮 宗\(CV.高橋 広樹\)、影片 みか\(CV.大須賀 純\)、蓮巳 敬人\(CV.梅原 裕一郎\)、鬼龍 紅郎 \(CV.神尾 晋一郎\)、神崎 颯馬\(CV.神永 圭佑\)](https://open.spotify.com/artist/7vbRrVS90KcQJxoi5YwIGM) | [Valkyrie ＆ 紅月「勇侠青春謳」 あんさんぶるスターズ！！ COVER SONG SERIES 04](https://open.spotify.com/album/6jO2cWUC0274MSeo1yCQql) | 4:23 | 2024-12-12 |  |
 | [喪失寓意 \-LOST BALLADE\-](https://open.spotify.com/track/6uQgJRvVHunJPkz4T6mb4D) | [M∀N∀](https://open.spotify.com/artist/729LyVIzyS6B0KaS3AZnci) | [あんさんぶるスターズ！！ シャッフルユニットソング M∀N∀「喪失寓意 \-LOST BALLADE\-」](https://open.spotify.com/album/5zux0yQaIObjz2e8HHbflS) | 3:19 | 2024-07-30 |  |
+| [夏鳥の詩 \-サマーバード\- \- Game Edit](https://open.spotify.com/track/7ILrFq6VkqmCx8LdrXooRL) | [紅月/蓮巳敬人\(CV.梅原裕一郎\)、鬼龍紅郎\(CV.神尾晋一郎\)、神崎颯馬\(CV.神永圭佑\)](https://open.spotify.com/artist/2uqHLjgXdyv3XJhoeAespG) | [あんさんぶるスターズ！！ 紅月「夏鳥の詩 \-サマーバード\-」 \(Game Edit\)](https://open.spotify.com/album/5pwjlcxQkjJ16XRN7TPFvf) | 2:28 | 2025-03-11 |  |
 | [夜に駆ける](https://open.spotify.com/track/5blci0P2JzxqqzdlReqHwT) | [ALKALOID & Double Face/天城 一彩\(CV.梶原 岳人\)、白鳥 藍良\(CV.天﨑 滉平\)、礼瀬 マヨイ\(CV.重松 千晴\)、風早 巽\(CV.中澤 まさとも\)、三毛縞 斑\(CV.鳥海 浩輔\)、桜河 こはく\(CV.海渡 翼\)](https://open.spotify.com/artist/5yL2QmpTzB4eQ7Yz3OHww1) | [ALKALOID ＆ Double Face「夜に駆ける」 あんさんぶるスターズ！！ COVER SONG SERIES 07](https://open.spotify.com/album/3rYOi7jld0iaQhBKB3Y796) | 4:20 | 2024-04-26 |  |
 | [夜空、然りとて鵲は](https://open.spotify.com/track/0J2lo6VK6HwPk39ML26knY) | [紅月/蓮巳敬人\(CV.梅原裕一郎\)、鬼龍紅郎\(CV.神尾晋一郎\)、神崎颯馬\(CV.神永圭佑\)](https://open.spotify.com/artist/2uqHLjgXdyv3XJhoeAespG) | [紅月「月光奇譚」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/069zrfaEQIbpcoLh2YX5kH) | 3:37 | 2025-01-31 |  |
 | [夢ノ咲流星隊歌](https://open.spotify.com/track/6rgPjeSP3mA7V0hXbUWGpI) | [流星隊/守沢千秋\(CV.帆世雄一\)、深海奏汰\(CV.西山宏太朗\)、南雲鉄虎\(CV.中島ヨシキ\)、高峯翠\(CV.渡辺拓海\)、仙石忍\(CV.新田杏樹\)](https://open.spotify.com/artist/1McImYokA5QMesgOLKNpnl) | [あんさんぶるスターズ！ アルバムシリーズ 流星隊](https://open.spotify.com/album/51xCDrABka0BpPMG1p0qNe) | 4:51 | 2024-12-12 | 2025-01-06 |
