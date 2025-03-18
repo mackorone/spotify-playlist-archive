@@ -1,4 +1,4 @@
-## Playlists \(8443\)
+## Playlists \(8444\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -3927,6 +3927,7 @@
 - [My Hero Academia](/playlists/pretty/37i9dQZF1DX9Uv7i7ODBAM.md)
 - [My Liberation Notes \(나의 해방일지\)](/playlists/pretty/37i9dQZF1DXd4LoztuhuiY.md)
 - [My Life With The Walter Boys Official Playlist](/playlists/pretty/37i9dQZF1DWWJTipjkC7Fa.md)
+- [My Ordinary Life](/playlists/pretty/4RrQcnMUXuCZL61xFoddMk.md)
 - [My Pets](/playlists/pretty/37i9dQZF1DXafnfRcoly0r.md)
 - [My body is the earth, my mind the sky](/playlists/pretty/3jPJ5g3oEckEYHmI9Tdh5L.md)
 - [My favourite furry songs](/playlists/pretty/123cOpfFuSZh45wQ4Tdjku.md)
