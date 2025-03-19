@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "ALL IN (Lieblingslieder)",
+        "url": "https://open.spotify.com/album/3l4OJNnPVJGK8Dg9dvkRFZ"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163601,
+      "name": "ALL IN (Lieblingslieder)",
+      "url": "https://open.spotify.com/track/3VIEbpdr64a1mNSa8MqBAm"
+    },
+    {
+      "album": {
         "name": "Anna-Lena",
         "url": "https://open.spotify.com/album/5p43YwAvnW9SP3s5jVsO1Q"
       },
@@ -2508,7 +2526,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 204283,
       "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
       "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,861 songs - 4 day 0 hr 33 min
+1,862 songs - 4 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -837,7 +837,7 @@
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2021-07-25 | 2021-09-19 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 | 2021-09-19 | 2022-01-08 |
 | [Industry Plant](https://open.spotify.com/track/31EsbpCFl01yQtLncNdjSz) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Industry Plant](https://open.spotify.com/album/2pTk2jxZu1vnVybVRyBToh) | 2:20 | 2024-09-21 | 2025-01-22 |
-| [Industry Plant](https://open.spotify.com/track/74vBh0Da8FCjtvg8BpnbS2) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:20 | 2025-03-08 |  |
+| [Industry Plant](https://open.spotify.com/track/74vBh0Da8FCjtvg8BpnbS2) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:20 | 2025-03-08 | 2025-03-19 |
 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 | 2021-12-28 | 2022-01-30 |
 | [Innerlijke Rust](https://open.spotify.com/track/2w7lsIkOJ11xigclNdQQyQ) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Innerlijke Rust](https://open.spotify.com/album/6JoawV1wERDwkY8uHCuIQC) | 2:29 | 2021-08-01 | 2021-08-13 |
 | [Innerlijke Rust](https://open.spotify.com/track/6fNjOtz46tTGKvpiYLAeca) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Selfmade](https://open.spotify.com/album/55afGc64Had70T8GfW2jOt) | 2:29 | 2021-09-05 | 2021-09-12 |
@@ -1380,7 +1380,7 @@
 | [Sabr](https://open.spotify.com/track/1qb1O5NZErBCccHoUTLfop) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Sabr](https://open.spotify.com/album/0zv0Zqgr17GO8SnYSUvW5G) | 3:01 | 2023-07-15 | 2023-07-27 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-08 | 2022-03-06 |
 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-09-13 | 2024-09-26 |
-| [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2024-09-25 | 2025-03-16 |
+| [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2024-09-25 |  |
 | [Samen](https://open.spotify.com/track/275765DrtmWP29V5kVzU9g) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Grote Versnelling](https://open.spotify.com/album/1cJOcjPpaDbGxe7qDfA5Cd) | 3:25 | 2021-10-16 | 2021-12-06 |
 | [Samen](https://open.spotify.com/track/3scjUSDA8V4XdvSv0PSQvA) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Grote Versnelling](https://open.spotify.com/album/6U2JgdmQQ7QWQgGOksaRof) | 3:25 | 2021-09-19 | 2021-10-16 |
 | [Samen](https://open.spotify.com/track/7725InXp7RtmU6RwMnVOwW) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Samen](https://open.spotify.com/album/4xZiuM9QZAqYi8FJPULcym) | 3:25 | 2021-09-12 | 2021-09-19 |
@@ -1495,7 +1495,8 @@
 | [SPONSA](https://open.spotify.com/track/7tfMQY5LIZ2bBzW8GNzRXD) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [PINK SUMMER](https://open.spotify.com/album/4j33fN2BPocBEJTsguqRPl) | 2:35 | 2024-07-20 | 2024-07-22 |
 | [Spooky Love](https://open.spotify.com/track/3KbW03Tu5Q2k876P2LqKNk) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Championships](https://open.spotify.com/album/11CyESxdaPU7YyCPhkYbWy) | 3:00 | 2021-10-31 | 2021-10-31 |
 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 | 2025-01-25 | 2025-02-23 |
-| [Sports car](https://open.spotify.com/track/4il87YHqSV9UqbBkXM7z7m) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:45 | 2025-02-22 |  |
+| [Sports car](https://open.spotify.com/track/4il87YHqSV9UqbBkXM7z7m) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:45 | 2025-02-22 | 2025-03-19 |
+| [Sports car](https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 2:45 | 2025-03-18 |  |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-06-03 | 2023-11-05 |
 | [squabble up](https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:37 | 2024-11-24 | 2025-02-16 |
 | [St\. Chroma \(feat\. Daniel Caesar\)](https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 3:17 | 2024-10-29 | 2024-11-04 |

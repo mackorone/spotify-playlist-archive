@@ -1,12 +1,12 @@
 {
   "description": "Today's top country music!",
-  "num_followers": 35194,
+  "num_followers": 35193,
   "original_name": "Top Country Hits 2025",
   "owner": {
     "name": "Topsify Canada",
     "url": "https://open.spotify.com/user/playlistmecanada"
   },
-  "snapshot_id": "AAAbGUXg0Uk817ymZXlV7Z+cT9pDyh22",
+  "snapshot_id": "AAAbGwIJwChQ8/XbW+zhUxZP44E96+Fl",
   "tracks": [
     {
       "added_at": "2025-03-15 00:50:10",
@@ -43,6 +43,22 @@
       "duration_ms": 157200,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
+    },
+    {
+      "added_at": "2025-03-18 18:52:51",
+      "album": {
+        "name": "Not At This Party",
+        "url": "https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 212437,
+      "name": "Not At This Party",
+      "url": "https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di"
     },
     {
       "added_at": "2025-03-15 00:50:10",

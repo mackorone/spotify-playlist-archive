@@ -785,6 +785,24 @@
     },
     {
       "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/1jbAaXRhrqIP4TncCMK0nl"
+      },
+      "artists": [
+        {
+          "name": "Big Time Rush",
+          "url": "https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201040,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/38pDOscIEtpJFbKx9cds7J"
+    },
+    {
+      "album": {
         "name": "Welcome to the Jungle (Deluxe)",
         "url": "https://open.spotify.com/album/5cA9DE1YE50J95RETKQk9v"
       },
@@ -4872,7 +4890,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 202960,
       "name": "Raise Your Glass",
       "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
@@ -7410,6 +7428,24 @@
       "duration_ms": 216575,
       "name": "Work from Home (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1JsUAmsjNz6oGuRTFG93qH"
+    },
+    {
+      "album": {
+        "name": "BTR",
+        "url": "https://open.spotify.com/album/09hjiLPem1MNlqzswdPhsJ"
+      },
+      "artists": [
+        {
+          "name": "Big Time Rush",
+          "url": "https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224333,
+      "name": "Worldwide",
+      "url": "https://open.spotify.com/track/3Xy72SaZ34vUrBKOeBYDCT"
     },
     {
       "album": {

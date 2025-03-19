@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-30",
-  "description": "The indie viral hits you can't escape. Cover: Chappell Roan",
+  "description": "The indie viral hits you can't escape. Cover: ROLE MODEL",
   "name": "Indie that hits different ",
   "tracks": [
     {
@@ -677,6 +677,24 @@
     },
     {
       "album": {
+        "name": "Master of My Make-Believe",
+        "url": "https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284400,
+      "name": "Disparate Youth",
+      "url": "https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH"
+    },
+    {
+      "album": {
         "name": "Hozier (Special Edition)",
         "url": "https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz"
       },
@@ -980,7 +998,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 232985,
       "name": "He's My Man",
       "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 264289,
       "name": "look what you're doing to me",
       "url": "https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9"
@@ -2026,6 +2044,24 @@
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+    },
+    {
+      "album": {
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218660,
+      "name": "Sally, When The Wine Runs Out",
+      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
     },
     {
       "album": {

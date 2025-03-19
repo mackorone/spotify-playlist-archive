@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 
 > This is bludnymph\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,223 likes - 27 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,224 likes - 27 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 | 15 | [BODY PARTS](https://open.spotify.com/track/0HOIQFVrO2723jRy2DjSIa) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [BODY PARTS \(Full Frontal\)](https://open.spotify.com/album/4w75VZ9STaOeTNQnUoC9G4) | 3:12 |
 | 16 | [Mozart](https://open.spotify.com/track/4EISOJDYezvr8UtIeOy3sj) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Mozart](https://open.spotify.com/album/2uCwKi5lViWMVTCCwp2JwL) | 1:37 |
 | 17 | [End Of The World](https://open.spotify.com/track/5DcYAGea9lp1MQh1V293tr) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [End Of The World](https://open.spotify.com/album/09cG6BcdEtyjjbeLFG7TvS) | 2:38 |
-| 18 | [Popsicle](https://open.spotify.com/track/7BcQVXI8S1PQVNhuX3Z6uH) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Popsicle \(Extra Sticky\)](https://open.spotify.com/album/0eM1beQrKuuFSAWCqBHWlg) | 1:50 |
-| 19 | [Incognito](https://open.spotify.com/track/7y1XREM9DIRIH5FwQcwOaB) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [FEAST \(Let’s Eat Yuh Yuh\)](https://open.spotify.com/album/6AaZk65wZdhu7GtKTM9dPx) | 2:39 |
+| 18 | [Incognito](https://open.spotify.com/track/7y1XREM9DIRIH5FwQcwOaB) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [FEAST \(Let’s Eat Yuh Yuh\)](https://open.spotify.com/album/6AaZk65wZdhu7GtKTM9dPx) | 2:39 |
+| 19 | [Popsicle](https://open.spotify.com/track/7BcQVXI8S1PQVNhuX3Z6uH) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Popsicle \(Extra Sticky\)](https://open.spotify.com/album/0eM1beQrKuuFSAWCqBHWlg) | 1:50 |
 | 20 | [Lickity Splickity](https://open.spotify.com/track/2subOu3jev6n2eftUkyZ1A) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lickity Splickity](https://open.spotify.com/album/42v0j9VZLeGOY4NcjO1cYP) | 2:29 |
 | 21 | [Press It \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/3WTfdJjvB2NKINRJMEiJa1) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Press It \(Fast & Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/69oUhrCikb8oTcZSakoCkm) | 2:01 |
 | 22 | [DarkMagicSillySexy \(origin story\)](https://open.spotify.com/track/5zf0I513OSe5u5C3Czc3bc) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [DROOL](https://open.spotify.com/album/46uDWaLv4goRceYW9atPaI) | 2:45 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 | 26 | [Moonwater](https://open.spotify.com/track/6fgu5zrPe5ExF7RmyJZUg6) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Moonwater](https://open.spotify.com/album/0x4mCb6qjCziAQM8cQuQYv) | 1:52 |
 | 27 | [Wishin](https://open.spotify.com/track/0jXAVglTzvblAEV8ctD5ou) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [Indigowavv](https://open.spotify.com/artist/2yzeix2G6wK5nEJAudnC4Z) | [Wishin](https://open.spotify.com/album/4MuJLxFax2HZAMwl8xdhzv) | 2:53 |
 
-Snapshot ID: `Z9YUgAAAAABXqZe8CBRncCf4Sb3HS4ig`
+Snapshot ID: `Z9dmAAAAAABHhVFo4e7s9EcKQt+NTBr+`

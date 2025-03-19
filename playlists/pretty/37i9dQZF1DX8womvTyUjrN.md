@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: EMJAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,931 likes - 55 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,937 likes - 55 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

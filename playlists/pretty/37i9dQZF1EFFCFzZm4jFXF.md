@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85 likes - 111 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 86 likes - 111 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 53 | [Start Again](https://open.spotify.com/track/4myl3HcwPiwUdkuRl3x8Ws) | [Nathan Grisdale](https://open.spotify.com/artist/2CxdgVG8zBFMBPZb4NCb9l) | [Start Again](https://open.spotify.com/album/1W2oxgJRPxIWU9KOaJZ2Qn) | 3:37 |
 | 54 | [Slaves](https://open.spotify.com/track/481A3z4zAE8Oj2GO5onvvW) | [Tom Martin](https://open.spotify.com/artist/4P0KP5wunIHTElWsbeCow2) | [Slaves](https://open.spotify.com/album/4ShraflxQL4i5T7RvBKIVh) | 3:22 |
 | 55 | [run and hide](https://open.spotify.com/track/4ykgVfodt4mnApqbgX3oTX) | [Ruben Pol](https://open.spotify.com/artist/1eCiBMynCZBUlq0v5FeB2w) | [Infused Romance](https://open.spotify.com/album/2tLQcTuBFmEfuQZAsyB4Yj) | 2:45 |
-| 56 | [Twój](https://open.spotify.com/track/1KZkHbHds54V05FMXfR0Uf) | [Mateusz Golicki](https://open.spotify.com/artist/3ZIGVZeygg8uw2snhprtRO) | [Twój](https://open.spotify.com/album/50wxFePh1Gwc3whyx6jKdO) | 3:06 |
-| 57 | [When Your Heart Breaks](https://open.spotify.com/track/2biGgg6gebga1at1nAUAFP) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 3:33 |
+| 56 | [When Your Heart Breaks](https://open.spotify.com/track/2biGgg6gebga1at1nAUAFP) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 3:33 |
+| 57 | [Twój](https://open.spotify.com/track/1KZkHbHds54V05FMXfR0Uf) | [Mateusz Golicki](https://open.spotify.com/artist/3ZIGVZeygg8uw2snhprtRO) | [Twój](https://open.spotify.com/album/50wxFePh1Gwc3whyx6jKdO) | 3:06 |
 | 58 | [Midnight](https://open.spotify.com/track/0QDXHAPzManj6nrpAaIDvq) | [Curtis Walsh](https://open.spotify.com/artist/1skYjCzZNmy9Zjk7mdFgeS) | [Midnight](https://open.spotify.com/album/6YC6iMp9rv2swytDsECKbX) | 3:13 |
 | 59 | [Trophy](https://open.spotify.com/track/64P8m0QuAltOAXVZvPIv0P) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Trophy](https://open.spotify.com/album/2wnBvRDwXgGjfO4b1vAGPf) | 3:03 |
 | 60 | [Strangers](https://open.spotify.com/track/3gvhr2lER4orcdXJD9uM9n) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq) | [Strangers](https://open.spotify.com/album/3NfgRNjjFzEK2yVk4hwuug) | 3:18 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 110 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 111 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AbsU6AAAAAAJIppuNigTgnmOGDFJ7L+n`
+Snapshot ID: `AbsafgAAAAA/CMVKUL7lgLu6wLQU6i7k`

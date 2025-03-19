@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 
 > This is Summer Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,908 likes - 42 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,936 likes - 42 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 | 41 | [Your Friends \(feat\. Summer Walker\)](https://open.spotify.com/track/0u4jOsRESGP1irJNTJQlGX) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Your Friends \(feat\. Summer Walker\)](https://open.spotify.com/album/6XJjYBR0cHPDJsIskQX9mM) | 3:34 |
 | 42 | [Session 33](https://open.spotify.com/track/1k7Sn04nBNcLKbSwORsFgJ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 2:07 |
 
-Snapshot ID: `Z9YUgAAAAABPcQtQtcKA3Cz8QfoW6dfy`
+Snapshot ID: `Z9dmAAAAAADrRlpDfD51rfUTBijXedGk`

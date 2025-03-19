@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 
 > This is Roy Ayers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,919 likes - 49 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,939 likes - 49 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 | 35 | [Day Dreaming](https://open.spotify.com/track/4H5zpPqtT57VcAePUCNSM8) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Red, Black & Green](https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ) | 5:34 |
 | 36 | [The Bad Vibes Intro](https://open.spotify.com/track/6oDnofOSeVbv8RJPg6rGpW) | [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Good Vibes / Bad Vibes](https://open.spotify.com/album/0c9e9wpCtoUd4laxFFSlby) | 0:32 |
 | 37 | [Sunshine \- Demo](https://open.spotify.com/track/3MD8QD5aVUjE7DsE5eBg7t) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Virgin Ubiquity II](https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6) | 5:00 |
-| 38 | [Wasting](https://open.spotify.com/track/3gX3MH4xNWXaQOinDORqZh) | [The Vision](https://open.spotify.com/artist/33nwA09TKiO0nWmUrI3E1I), [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM), [Kon](https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Vision](https://open.spotify.com/album/7GWwRPL4keJ9Xd460YHwR5) | 4:41 |
+| 38 | [Searching](https://open.spotify.com/track/432fHKBQfXMMgU7yyEtRvz) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Share My World](https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW) | 5:05 |
 | 39 | [The Boogie Back](https://open.spotify.com/track/6IST9f4O5DtXuxal7RM7A3) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Change Up The Groove](https://open.spotify.com/album/2odkikUoXGKyYYi5rcY79M) | 4:40 |
-| 40 | [Searching](https://open.spotify.com/track/432fHKBQfXMMgU7yyEtRvz) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Share My World](https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW) | 5:05 |
+| 40 | [Wasting](https://open.spotify.com/track/3gX3MH4xNWXaQOinDORqZh) | [The Vision](https://open.spotify.com/artist/33nwA09TKiO0nWmUrI3E1I), [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM), [Kon](https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Vision](https://open.spotify.com/album/7GWwRPL4keJ9Xd460YHwR5) | 4:41 |
 | 41 | [Bands Jukes](https://open.spotify.com/track/1VoHbA54cMaIBxCqNoO2HT) | [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Good Vibes / Bad Vibes](https://open.spotify.com/album/0c9e9wpCtoUd4laxFFSlby) | 1:45 |
 | 42 | [Can't You See Me](https://open.spotify.com/track/5WvuwQ9U5qh0enH4NxnkYr) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Send Me](https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB) | 6:58 |
 | 43 | [In the Mood \(feat\. Kanye West & Roy Ayers\)](https://open.spotify.com/track/4v3AYUgQvwdbO9FY8tJBCo) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Eardrum](https://open.spotify.com/album/4gjttixmMAKMzzfrfGmDGr) | 3:55 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 | 48 | [Poo Poo La La](https://open.spotify.com/track/2oadlkk3BsJyYhqcTU2NCz) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [In The Dark \(Expanded Edition\)](https://open.spotify.com/album/7374P9KcnkgNpxAmNEu5VF) | 6:30 |
 | 49 | [Don't Stop The Feeling](https://open.spotify.com/track/3ZDW6AElGDqEchxoMvFwQ4) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Best Of Roy Ayers](https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp) | 8:15 |
 
-Snapshot ID: `Z9YUgAAAAADNe5uznH0h/2WFAmd2lmTC`
+Snapshot ID: `Z9dmAAAAAADCaYvviMz6fY/b/3GUAk/l`

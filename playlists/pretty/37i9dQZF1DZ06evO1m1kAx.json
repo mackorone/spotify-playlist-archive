@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 6967,
+  "num_followers": 6971,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAAAS0ZhjdfeZuEY25Y3crj/n",
+  "snapshot_id": "Z9dmAAAAAABY0+/2Dlkonv92Tofew8AR",
   "tracks": [
     {
       "added_at": null,
@@ -335,26 +335,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horoscopes",
-        "url": "https://open.spotify.com/album/6GjoTQIrbosUnJzTqM2oNF"
+        "name": "Realness Over Hype",
+        "url": "https://open.spotify.com/album/5Lr8uyHyEVzyHj4yTUF6JW"
       },
       "artists": [
         {
-          "name": "Basketmouth",
-          "url": "https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4"
+          "name": "Victor AD",
+          "url": "https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N"
         },
         {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 163507,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/716irYdOvfRgpu3HeelScT"
+      "duration_ms": 165789,
+      "name": "See God",
+      "url": "https://open.spotify.com/track/4tCeALAdETzi8VXAgn4nun"
     },
     {
       "added_at": null,
@@ -395,22 +391,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Realness Over Hype",
-        "url": "https://open.spotify.com/album/5Lr8uyHyEVzyHj4yTUF6JW"
+        "name": "Horoscopes",
+        "url": "https://open.spotify.com/album/6GjoTQIrbosUnJzTqM2oNF"
       },
       "artists": [
         {
-          "name": "Victor AD",
-          "url": "https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N"
+          "name": "Basketmouth",
+          "url": "https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4"
         },
         {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 165789,
-      "name": "See God",
-      "url": "https://open.spotify.com/track/4tCeALAdETzi8VXAgn4nun"
+      "duration_ms": 163507,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/716irYdOvfRgpu3HeelScT"
     },
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/1fiHrYxjPq2p6zGoGpUyoT"
-      },
-      "artists": [
-        {
-          "name": "Yokinto",
-          "url": "https://open.spotify.com/artist/4WQV9I3NFrhSc8hjwxD4G4"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 167669,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/5242uXSOzpOxCeEwiUKuws"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grass 2 Grace",
         "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 271720,
       "name": "No Shakin",
       "url": "https://open.spotify.com/track/2I4PuUJLbVQUiGLnZpQRqV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/1fiHrYxjPq2p6zGoGpUyoT"
+      },
+      "artists": [
+        {
+          "name": "Yokinto",
+          "url": "https://open.spotify.com/artist/4WQV9I3NFrhSc8hjwxD4G4"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 167669,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/5242uXSOzpOxCeEwiUKuws"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Holy Holy",
+        "url": "https://open.spotify.com/album/1oP1d81iy9iuRQZQjtX1jS"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 267318,
+      "name": "Holy Holy",
+      "url": "https://open.spotify.com/track/6DnvcwVVayZ4xfMuBn8ZfK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Worry Me",
         "url": "https://open.spotify.com/album/6XUaZvaQMG42gPY1KqVP9p"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 193044,
       "name": "Worry Me",
       "url": "https://open.spotify.com/track/1l1iB9yTcm1oDex1ZwKOwu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Holy Holy",
-        "url": "https://open.spotify.com/album/1oP1d81iy9iuRQZQjtX1jS"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 267318,
-      "name": "Holy Holy",
-      "url": "https://open.spotify.com/track/6DnvcwVVayZ4xfMuBn8ZfK"
     },
     {
       "added_at": null,

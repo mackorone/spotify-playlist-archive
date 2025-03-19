@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-635 songs - 1 day 3 hr 31 min
+637 songs - 1 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Aislingeach](https://open.spotify.com/track/45YmYHJG9AoFEg6X2xvmTV) | [Chloe Doyle](https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r) | [Aislingeach](https://open.spotify.com/album/1OkHickHsYjJvqrprMhxAr) | 2:01 | 2022-04-22 | 2024-09-25 |
 | [Al fín](https://open.spotify.com/track/3F1jev8GAdSB1jyKHuAqhZ) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Al fín](https://open.spotify.com/album/0FjpiJwqP0wFPTdi0tbTs7) | 2:28 | 2022-07-27 | 2025-02-27 |
 | [Alba](https://open.spotify.com/track/5eEYSPaVwg4Fe1KCMYunQf) | [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Alba](https://open.spotify.com/album/1TRZDyBjo3syOMRNL6luIq) | 2:32 | 2022-04-22 | 2024-02-14 |
+| [All Worth It](https://open.spotify.com/track/5EyvPgIywchbSPtcJ0V0z4) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [All Worth It](https://open.spotify.com/album/5jkl9jH5W4cXNzAWkN3Giu) | 2:07 | 2025-03-18 |  |
 | [Alone in the crowd](https://open.spotify.com/track/1hYJR8FJuusobeDp9IBOs6) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Alone in the crowd](https://open.spotify.com/album/3pdsFTTSJLP66YwPMOZvSO) | 2:50 | 2024-03-25 |  |
 | [Altar](https://open.spotify.com/track/4GBWvw48RFr6WQDSvFJ5yh) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Altar](https://open.spotify.com/album/7gmheB2m41ayIEe5yPWFPj) | 2:17 | 2023-02-13 |  |
 | [Amable](https://open.spotify.com/track/16VZ9OzusJbud7xZsPnq1V) | [Pelagia Calisto](https://open.spotify.com/artist/51V1l6ATUknZWvH8YdRkVv) | [Amable](https://open.spotify.com/album/0fXfiMKFMlS4dQWBRkguej) | 2:12 | 2024-01-08 |  |
@@ -601,6 +602,7 @@
 | [Verses](https://open.spotify.com/track/6t1T3fMWfv5svT4ZTsBnBY) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Verses](https://open.spotify.com/album/0oEfniLgEookbXSSQSpIqE) | 3:15 | 2022-04-22 | 2023-08-15 |
 | [verträumt](https://open.spotify.com/track/2VrSJrGv8MBnQY5M6OkeeB) | [Friedrich Hauser](https://open.spotify.com/artist/3Y8frXJquHsEiB2pg3oVUy) | [schlaflos](https://open.spotify.com/album/7IaFRUsh4JDjZg0AsRg1BQ) | 2:55 | 2022-04-22 | 2023-08-15 |
 | [Verträumt](https://open.spotify.com/track/6yfuxuWZNEnwOykWXStzxY) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Verträumt](https://open.spotify.com/album/1QLGJWEAeddXVFaAwI6gZ4) | 2:14 | 2022-04-22 | 2024-04-16 |
+| [View From Above](https://open.spotify.com/track/3dHjeyJwvZWdI2v1brpERX) | [Drifreda](https://open.spotify.com/artist/6KvPFVsqQeAyZxp9MUUGTW) | [View From Above](https://open.spotify.com/album/3LcYeoeaysXPD8dtsTmS1I) | 2:44 | 2025-03-18 |  |
 | [Views Of Nature](https://open.spotify.com/track/6QjDVuX5ufvEQZfo5gmBKi) | [Tiphaine Calvet](https://open.spotify.com/artist/1242qzkR8hc2Hv5AdHpiIU) | [Views Of Nature](https://open.spotify.com/album/5Xb5hY2GNbjDB6RGVD64kl) | 2:18 | 2022-04-22 | 2023-10-05 |
 | [Vilma](https://open.spotify.com/track/6M2N8fKC1Ik2rX6ZFW9QOf) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Vilma](https://open.spotify.com/album/7Hnxfd28t4evemd8q6oLKG) | 2:00 | 2022-04-22 | 2023-01-27 |
 | [Viva Valeriana](https://open.spotify.com/track/4k8AC9xUl0o7JG7qlVQBZi) | [Anaëlle Mei](https://open.spotify.com/artist/109jb0FywTHrzudz9XfX4L) | [Viva Valeriana](https://open.spotify.com/album/5c8qEdjduemMVmUxuMKp8n) | 1:52 | 2022-11-14 | 2023-08-15 |

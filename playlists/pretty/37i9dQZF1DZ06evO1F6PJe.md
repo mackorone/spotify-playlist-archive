@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,859 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,879 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 31 | [Happier Times](https://open.spotify.com/track/4iEHQSpgBrclLwErcU5Lwj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Ballad of John Henry](https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN) | 6:40 |
 | 32 | [No Good Place For The Lonely](https://open.spotify.com/track/1N1dVl208WmkZJ1MtLkBc3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 8:38 |
 | 33 | [Summertime \(Live\)](https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues From The Heart Live \(Live\)](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 5:49 |
-| 34 | [One Less Cross to Bear \- Live Version](https://open.spotify.com/track/1OzeFaTHSjQ20ycXdUgHCl) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at Radio City Music Hall](https://open.spotify.com/album/26KqnXS7z05nYCYGiGG7di) | 5:38 |
-| 35 | [I Want My Crown](https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:19 |
-| 36 | [Well, I Done Got Over It](https://open.spotify.com/track/7boJk2iDtxib7PdpxHdqd9) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 2:54 |
-| 37 | [Black Lung Heartache](https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 4:14 |
+| 34 | [I Want My Crown](https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:19 |
+| 35 | [One Less Cross to Bear \- Live Version](https://open.spotify.com/track/1OzeFaTHSjQ20ycXdUgHCl) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at Radio City Music Hall](https://open.spotify.com/album/26KqnXS7z05nYCYGiGG7di) | 5:38 |
+| 36 | [Black Lung Heartache](https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 4:14 |
+| 37 | [Well, I Done Got Over It](https://open.spotify.com/track/7boJk2iDtxib7PdpxHdqd9) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 2:54 |
 | 38 | [Further On Up the Road \- Live](https://open.spotify.com/track/0k3b8cI0Q6Q1ZkG1XlWdGg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Joe Bonamassa Live from the Royal Albert Hall](https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd) | 5:44 |
 | 39 | [The Heart That Never Waits \(Live\)](https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tales Of Time \(Live\)](https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3) | 8:31 |
 | 40 | [I Got All You Need](https://open.spotify.com/track/6OX01r0SwFsy7KIwh7euHj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Driving Towards The Daylight](https://open.spotify.com/album/5AjDtAXzFEQPbfZSAnIM5R) | 3:03 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 43 | [Four Day Creep](https://open.spotify.com/track/2r46l03PjLiW5Xy6BLMfbj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [Four Day Creep](https://open.spotify.com/album/5NlKdlWeryULQL6rGI5bzW) | 3:52 |
 | 44 | [Twenty\-Four Hour Blues](https://open.spotify.com/track/1GIkTBgTJYpWmvLYz2Nxrp) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 4:32 |
 | 45 | [Prisoner \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/0lJaKtdseCtmsSsYHXptfC) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Hollywood Bowl With Orchestra](https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG) | 8:35 |
-| 46 | [Driving Wheel](https://open.spotify.com/track/4Lvby06863caCqrmISPYp3) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [S.O.S\. 4: Blues For Your Soul](https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5) | 3:33 |
-| 47 | [Woke Up Dreaming](https://open.spotify.com/track/6jI6VHcbFUqDDAelgPXWzp) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 2:51 |
-| 48 | [What I've Known For A Very Long Time](https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:33 |
+| 46 | [What I've Known For A Very Long Time](https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:33 |
+| 47 | [Driving Wheel](https://open.spotify.com/track/4Lvby06863caCqrmISPYp3) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [S.O.S\. 4: Blues For Your Soul](https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5) | 3:33 |
+| 48 | [Woke Up Dreaming](https://open.spotify.com/track/6jI6VHcbFUqDDAelgPXWzp) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 2:51 |
 | 49 | [Ball Peen Hammer](https://open.spotify.com/track/3jSj1k7V0y3JmahnH8YM4m) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 3:27 |
 | 50 | [Hold On Loosely](https://open.spotify.com/track/3Vq8wBBUJgatW2fQKyfs4n) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Hold On Loosely](https://open.spotify.com/album/3sW8zDAYpgztuFiQQpr9H4) | 4:44 |
 
-Snapshot ID: `Z9YUgAAAAADmddcFpyHZ3R78/jnqKT5f`
+Snapshot ID: `Z9dmAAAAAABysIrcds7fZPP2cSSVOHGC`

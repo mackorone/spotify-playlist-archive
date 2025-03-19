@@ -4,7 +4,7 @@
 
 > 
 
-918 songs - 1 day 20 hr 39 min
+919 songs - 1 day 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Cut the Check \(feat\. Chief Keef\)](https://open.spotify.com/track/6U1ueRYXTjFHuJ9Ld2LBIW) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 2:50 | 2025-01-29 |  |
 | [Danny Phantom Feat\. Ken Car$on](https://open.spotify.com/track/2lOMj6dBqU13JOS5OglScH) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Lite Fortunato](https://open.spotify.com/artist/1u6pg7JgRnNX5g91p6BD1w) | [Fatal Attraction](https://open.spotify.com/album/3UIHAda8Frxxmm1PnnGtgA) | 1:55 | 2023-01-07 | 2023-05-09 |
 | [DARK BROTHERHOOD \(feat\. Lil Baby\)](https://open.spotify.com/track/2q2HyvGHcDbIgHi9o5gpFQ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 3:39 | 2023-01-20 | 2023-04-24 |
+| [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 | 2025-03-18 |  |
 | [Darkest Before Dawn](https://open.spotify.com/track/4RIdKsqdglJ5JqTG8kTvw7) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [Me, Myself & I](https://open.spotify.com/album/3SoT68kHV9Q8Y3NR3Bo7Ok) | 3:56 | 2022-07-02 | 2023-04-12 |
 | [Darling, I \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:13 | 2024-11-05 |  |
 | [David's Song \- Tom Misch Remix](https://open.spotify.com/track/4nl1sTJewkAySvB63v7k5g) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [David's Song](https://open.spotify.com/album/7pi3VTkRkV4Hm6jTWEhrpK) | 4:12 | 2024-02-14 | 2024-04-24 |

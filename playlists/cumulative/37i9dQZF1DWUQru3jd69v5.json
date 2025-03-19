@@ -10805,6 +10805,32 @@
     },
     {
       "album": {
+        "name": "VITE SGRAMMATE",
+        "url": "https://open.spotify.com/album/3S0Lghs0zeHRNDclNlW8FN"
+      },
+      "artists": [
+        {
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
+        },
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        },
+        {
+          "name": "IDUA",
+          "url": "https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161860,
+      "name": "FEBBRE DELL'ORO (feat. Ele A)",
+      "url": "https://open.spotify.com/track/3LXTuGn1b170DuUnr2FLBv"
+    },
+    {
+      "album": {
         "name": "Federico",
         "url": "https://open.spotify.com/album/4doOQDtIkkjGr2Hz77cjLT"
       },
@@ -10926,6 +10952,24 @@
       "duration_ms": 167491,
       "name": "FERRO (feat. Rasty Kilo)",
       "url": "https://open.spotify.com/track/1PSoQsnBRfq3hIZGKQhoa8"
+    },
+    {
+      "album": {
+        "name": "festa del pap\u00e0",
+        "url": "https://open.spotify.com/album/4zCvCiSfmn9HCofRYfozAY"
+      },
+      "artists": [
+        {
+          "name": "LUCHITOS",
+          "url": "https://open.spotify.com/artist/1q4ioEGGMSQFjAt24zkXkX"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165957,
+      "name": "festa del pap\u00e0",
+      "url": "https://open.spotify.com/track/62KYbaWdtbHvL3lmbcCjQb"
     },
     {
       "album": {
@@ -11336,7 +11380,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 123428,
       "name": "FLASH",
       "url": "https://open.spotify.com/track/5UKMkdiPsmEca4XjiXXGdD"

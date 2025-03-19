@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 
 > Beat e rime, oggi come una volta\. Cover: Moder
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,312 likes - 150 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,314 likes - 150 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

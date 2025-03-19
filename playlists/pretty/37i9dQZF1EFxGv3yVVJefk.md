@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/02Zegjy92TEyYM8PSxvf8Y">Luther Vandross</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129 likes - 119 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 131 likes - 119 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 77 | [Treat You Right](https://open.spotify.com/track/5ME38UKRyQJgdld9gIzTmg) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Best of Luther Vandross The Best of Love](https://open.spotify.com/album/5rrSO0mgkVmZF1qjPn0TKD) | 6:37 |
 | 78 | [I'm Gonna Start Today](https://open.spotify.com/track/3ChYEWoGGZE9O8Jlo37ZXp) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Power Of Love](https://open.spotify.com/album/4mSFu3YmqIHfPngFDqZl4f) | 6:13 |
 | 79 | [Come Back](https://open.spotify.com/track/2F5QpDPTjOzMwcIJQOl9Mt) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Any Love](https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC) | 4:14 |
-| 80 | [Nights In Harlem](https://open.spotify.com/track/6lh0AqT1So3DLXmLCOq7lO) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Precise](https://open.spotify.com/artist/1DCg5oUIDsOQKJNgvsfq8U) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 4:57 |
-| 81 | [Are You Gonna Love Me](https://open.spotify.com/track/3jRIHUvQIiL3LcJSzSaL7p) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Any Love](https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC) | 5:10 |
+| 80 | [Are You Gonna Love Me](https://open.spotify.com/track/3jRIHUvQIiL3LcJSzSaL7p) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Any Love](https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC) | 5:10 |
+| 81 | [Nights In Harlem](https://open.spotify.com/track/6lh0AqT1So3DLXmLCOq7lO) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Precise](https://open.spotify.com/artist/1DCg5oUIDsOQKJNgvsfq8U) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 4:57 |
 | 82 | [Love Forgot](https://open.spotify.com/track/1SdTlnlYsIuLqzvKIACKIf) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Luther Vandross](https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS) | 5:36 |
 | 83 | [Your Love](https://open.spotify.com/track/6VDIQFJdiazMG9vSdzDPbx) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Voice of Love](https://open.spotify.com/album/5ZfXooTd6gPtFrSQrCZ3Jr) | 4:02 |
 | 84 | [Dream Lover](https://open.spotify.com/track/6ci6IogNBgBxSMLKm78HUf) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 4:32 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 118 | [A Brand New Day \- Radio Mix](https://open.spotify.com/track/4NrRL6djROkYxWrfYidbee) | [Emerald](https://open.spotify.com/artist/4PdFh3s3gKyoCB1Pcpci9l) | [A Brand New Day](https://open.spotify.com/album/3qkEyGnitBPZpFL9aqimXl) | 3:14 |
 | 119 | [In This Lonely Hour](https://open.spotify.com/track/1lYOzU0fzs3yQuhXB9bHlj) | [Delores Hall](https://open.spotify.com/artist/0EpH9VlSM5qidHHnDORvS6) | [Hall\-Mark!!](https://open.spotify.com/album/7vWxgfco70D8I6ZslLZHcd) | 2:34 |
 
-Snapshot ID: `AbsUygAAAABLRsH1YMYkNxFscpvk2G4d`
+Snapshot ID: `AbsafgAAAACU1dzshywFDKZ1hjjtFkE+`

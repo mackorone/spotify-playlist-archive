@@ -1,12 +1,12 @@
 {
   "description": "This is Kidz Bop Kids. The essential tracks, all in one playlist.",
-  "num_followers": 172772,
+  "num_followers": 172766,
   "original_name": "This Is Kidz Bop Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAACZ/09BzOB99reXtBKaWMxv",
+  "snapshot_id": "Z9dmAAAAAACYARPeeUM5TT3sVdrDHcSi",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2023",
-        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 142383,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/5ItaHbk9Vs36DBZEmg3jxP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 34",
         "url": "https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 176866,
       "name": "24K Magic",
       "url": "https://open.spotify.com/track/0uO8gotUNmO7v5agFzqS7y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 2023",
+        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 142383,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/5ItaHbk9Vs36DBZEmg3jxP"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 162410,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/6gnkJg4PI3nFB2dH0p7Zcg"
+      "duration_ms": 146233,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/4wbEBmAhxOchkSdfltzavr"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 146233,
-      "name": "Kings & Queens",
-      "url": "https://open.spotify.com/track/4wbEBmAhxOchkSdfltzavr"
+      "duration_ms": 162410,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/6gnkJg4PI3nFB2dH0p7Zcg"
     },
     {
       "added_at": null,

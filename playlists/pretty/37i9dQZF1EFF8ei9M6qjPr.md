@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 15 | [Everybody Wants You](https://open.spotify.com/track/48EDM7iimVXiKEOdo4AJk6) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [It’s Never Really Over \(Expanded\)](https://open.spotify.com/album/5UtK7iPrjxMrxsQe1bPqkm) | 3:20 |
 | 16 | [mr\. sunshine](https://open.spotify.com/track/2NJefEQeqDKUdyiy38GFoV) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 0](https://open.spotify.com/album/3wNkf6SHSN19bVxWCNC3Lu) | 2:57 |
 | 17 | [Hands On You](https://open.spotify.com/track/5IWFDIRqqjKPlzzGTpVRoA) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Hands On You](https://open.spotify.com/album/0Rg4eBaxjPnrnBH3JcD7rK) | 2:35 |
-| 18 | [Real Life Sux](https://open.spotify.com/track/60pVjEAPLUQ30hkdfFB0TP) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Real Life Sux](https://open.spotify.com/album/3wMQxx61faMQkbUk6uJOtz) | 2:23 |
-| 19 | [River](https://open.spotify.com/track/3UrmjZcjcYP3zFUdfWOy46) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [River](https://open.spotify.com/album/7jfhFHdRgOjyDAvIZ4WNL8) | 2:36 |
+| 18 | [River](https://open.spotify.com/track/3UrmjZcjcYP3zFUdfWOy46) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [River](https://open.spotify.com/album/7jfhFHdRgOjyDAvIZ4WNL8) | 2:36 |
+| 19 | [Real Life Sux](https://open.spotify.com/track/60pVjEAPLUQ30hkdfFB0TP) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Real Life Sux](https://open.spotify.com/album/3wMQxx61faMQkbUk6uJOtz) | 2:23 |
 | 20 | [IMPRINT](https://open.spotify.com/track/0nFenpZcQjGiEcy4y0EZKT) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [EMOTIONS](https://open.spotify.com/album/5SJtQAJHiRPgXfkp9PrOUN) | 3:00 |
 | 21 | [Happy](https://open.spotify.com/track/1WbjIWan3JBeOV4wrIveRA) | [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Happy](https://open.spotify.com/album/5vkTIncsqYZfSof8ys9ae9) | 2:13 |
 | 22 | [happiness](https://open.spotify.com/track/4hMcb6afvdD4zdPhGSJkxX) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/3viPcBAym7FXyZWuvTM5T7) | 3:16 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 164 | [ALL I NEED](https://open.spotify.com/track/6Qdsd8iXAdcmDvBdAMz3WL) | [Mia Sora](https://open.spotify.com/artist/5KfyVusD5stu0TBkXqAqiw) | [ALL I NEED](https://open.spotify.com/album/2e7iBgtxzE2lymEAjYSnS5) | 3:30 |
 | 165 | [Forever](https://open.spotify.com/track/35SKywJkP3BZU7RDwk370f) | [Jesse James](https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK) | [Operator Please Put Me Through](https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9) | 4:46 |
 
-Snapshot ID: `AbsU6AAAAACZn47z9w1m+8BHGr2Rqi0N`
+Snapshot ID: `AbsafgAAAAAr4ipP2x8et698nBg6uDjf`

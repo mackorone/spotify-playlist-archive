@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,942 likes - 66 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,910 likes - 66 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 45 | [ALTAGAMA](https://open.spotify.com/track/2OGXuOaxAEjSen6gz3w2lB) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [ALTAGAMA](https://open.spotify.com/album/5CBhqqrQa4XTNQmo24XKrB) | 2:30 |
 | 46 | [antonio banderas](https://open.spotify.com/track/0f5OsrCA49IeHZS2omDSB5) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [antonio banderas](https://open.spotify.com/album/06qlB6sf07ldcmzoN9wGSh) | 4:08 |
 | 47 | [Notorio](https://open.spotify.com/track/56xvigEBuCJ2X5UJctt15K) | [Dano](https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Lua de Santana](https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam) | [Nuevos Trapos](https://open.spotify.com/album/05QwR4mSOlpHbtYFAOcB4f) | 3:08 |
-| 48 | [Despedida](https://open.spotify.com/track/6oFlNVvlrUghNPE1C4JKli) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Despedida](https://open.spotify.com/album/30jgZDcMKM7vqe40aOQB9u) | 3:56 |
+| 48 | [Despedida](https://open.spotify.com/track/6oFlNVvlrUghNPE1C4JKli) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Despedida](https://open.spotify.com/album/30jgZDcMKM7vqe40aOQB9u) | 3:56 |
 | 49 | [No Vidente](https://open.spotify.com/track/0DTiI8rTrOlVaLQOaabmWL) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [No Vidente](https://open.spotify.com/album/175BGHVGXilknQfpSYSkwh) | 2:43 |
 | 50 | [CONTIGO](https://open.spotify.com/track/2KyhasVFLEL9987jjGrRGx) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [CONTIGO](https://open.spotify.com/album/2zifAxUjj1mUVdqsfxdqrv) | 3:14 |
 | 51 | [Te Acostumbraste](https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Te Acostumbraste](https://open.spotify.com/album/5EkipqfG0SB3Rph3JfPf0U) | 3:02 |

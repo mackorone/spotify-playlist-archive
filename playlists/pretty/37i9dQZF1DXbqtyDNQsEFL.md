@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4?si=oBE9NV6rSAWNnhw67SFURQ>EJ Newton</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,088 likes - 80 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,125 likes - 80 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

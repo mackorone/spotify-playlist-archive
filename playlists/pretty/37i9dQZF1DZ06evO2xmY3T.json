@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 679203,
+  "num_followers": 679205,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAAC93Jy5Tb4MSHnIIyuIpucc",
+  "snapshot_id": "Z9dmAAAAAAC5NfWBzM/N57C8vQOOTq86",
   "tracks": [
     {
       "added_at": null,
@@ -899,30 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dinero",
-        "url": "https://open.spotify.com/album/1fT1s4VMXc9xGIamDyFz9S"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Dinero",
-      "url": "https://open.spotify.com/track/22mQXNE0nCuWq4yOwcadIn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Writing on the Wall (feat. Post Malone & Cardi B)",
         "url": "https://open.spotify.com/album/2ZoLcA4NMOjJGFKeANgNpF"
       },
@@ -947,6 +923,30 @@
       "duration_ms": 201270,
       "name": "Writing on the Wall (feat. Post Malone & Cardi B)",
       "url": "https://open.spotify.com/track/7x9nXsowok1JszkVztI5NI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/1fT1s4VMXc9xGIamDyFz9S"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/22mQXNE0nCuWq4yOwcadIn"
     },
     {
       "added_at": null,

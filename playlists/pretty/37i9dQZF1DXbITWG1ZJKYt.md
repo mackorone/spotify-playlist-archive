@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 
 > The best tunes in Jazz history\. Cover: Wayne Shorter
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,193,203 likes - 250 songs - 21 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,194,258 likes - 250 songs - 21 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

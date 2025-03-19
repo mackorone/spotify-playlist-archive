@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Giorgio Poi in cover della playlist con il meglio dell’indie italiano 👨🆚🪰
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,535 likes - 66 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,527 likes - 66 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

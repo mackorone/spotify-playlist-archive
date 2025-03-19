@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,734 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,740 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 26 | [Ram Pam \(feat\. Mystic Marley & Flowdan\)](https://open.spotify.com/track/4CBFPivDAGGSXFih8RyaVE) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Mystic Marley](https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Ram Pam \(feat\. Mystic Marley & Flowdan\)](https://open.spotify.com/album/5gKmNjiXT4IFO5ZLYXJB75) | 2:51 |
 | 27 | [Out of Control](https://open.spotify.com/track/6QPmvFHUfdCMg2ubBjZdFh) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Out Of Control](https://open.spotify.com/album/5Fzg5JxyGtVdt10KoyHwYc) | 3:42 |
 | 28 | [Stop & Search](https://open.spotify.com/track/2Vo4v0z35aGBQ5uSyfiE2k) | [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b), [Hugh Hardie](https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW) | [Stop & Search](https://open.spotify.com/album/1tcqS2dDfgCNfSDnBeMbPa) | 3:22 |
-| 29 | [Innocence 2025](https://open.spotify.com/track/3dNDt0VLKc0xUcuTI20Q73) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [Innocence 2025](https://open.spotify.com/album/5zumT6xPCZUHJnKR2ng3pY) | 2:50 |
+| 29 | [Innocence 2025](https://open.spotify.com/track/3dNDt0VLKc0xUcuTI20Q73) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [Innocence 2025](https://open.spotify.com/album/5zumT6xPCZUHJnKR2ng3pY) | 2:48 |
 | 30 | [Savage](https://open.spotify.com/track/04fBENQTDO2gM8NRVNRf4e) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Savage](https://open.spotify.com/album/6wTizwMekuDFKmDejb1z3S) | 3:24 |
 | 31 | [Bang Bang \(feat\. Stylo G, Riko Dan & Frisco\)](https://open.spotify.com/track/3jzfiKtkueyzmvWVelVwtk) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [Bang Bang \(feat\. Stylo G, Riko Dan & Frisco\)](https://open.spotify.com/album/4US7XENYjIouFj9wniTQR5) | 2:49 |
 | 32 | [Cry](https://open.spotify.com/track/19PNwoHLzMO5oCHxHWqMqq) | [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE), [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [Cry](https://open.spotify.com/album/7JQUqf7ujvuBWwvSxhHNbC) | 4:00 |

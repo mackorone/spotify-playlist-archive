@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥 with MUST DIE! & Kayzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,275 likes - 200 songs - 10 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,288 likes - 200 songs - 10 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 4 | [HARDEST MFS](https://open.spotify.com/track/6sStFqQdlp0L4vEXk24Ms6) | [LAYZ](https://open.spotify.com/artist/2ozQcs5XxFaj5fvA02zhwo), [RZRKT](https://open.spotify.com/artist/28H813zcseKDMDftpws5ZC) | [HARDEST MFS](https://open.spotify.com/album/4NjQ5EqUWxaKRj8We9X15u) | 4:17 |
 | 5 | [GET SMACKED](https://open.spotify.com/track/4d9PS5dlzlRd3oGhNLxPCb) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [Vastive](https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH) | [GET SMACKED](https://open.spotify.com/album/4fxtTnPxoJpfL2z9FgFZ2j) | 3:40 |
 | 6 | [Wubcraft](https://open.spotify.com/track/3g8WmeSOar7RKuQEEfNhZo) | [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [Wubcraft](https://open.spotify.com/album/0vOIYEyFrixFT4I6quSsIJ) | 2:35 |
-| 7 | [Innocence 2025](https://open.spotify.com/track/3dNDt0VLKc0xUcuTI20Q73) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [Innocence 2025](https://open.spotify.com/album/5zumT6xPCZUHJnKR2ng3pY) | 2:50 |
+| 7 | [Innocence 2025](https://open.spotify.com/track/3dNDt0VLKc0xUcuTI20Q73) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [Innocence 2025](https://open.spotify.com/album/5zumT6xPCZUHJnKR2ng3pY) | 2:48 |
 | 8 | [Weird & ODD](https://open.spotify.com/track/5N30OmjoSrdGRd7U7xkEmn) | [Wodd](https://open.spotify.com/artist/3TFrAhV5T8qgFOhpaQlUHG) | [Weird & ODD](https://open.spotify.com/album/25uLQgfbFL6njUMLNRSoaL) | 3:42 |
 | 9 | [Ego Death](https://open.spotify.com/track/3YjsMJyOqdZqLpHbiUg5I9) | [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3), [Mr\. Bill](https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB), [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2) | [Sprouted](https://open.spotify.com/album/287AkkDi4fPIjUzrSNTJez) | 3:55 |
 | 10 | [DIZZY SPELL](https://open.spotify.com/track/4MgG06U8F0OdSxaEUInEtK) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [DIZZY SPELL](https://open.spotify.com/album/2K09XunjUmF6fU9cc5OeS6) | 3:12 |

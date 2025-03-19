@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,217 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,249 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 49 | [Gobe](https://open.spotify.com/track/0OU8OELBKP0WlQmK4Uedse) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Gobe](https://open.spotify.com/album/5sFGAjqTJ1c0WVa3zNpk4Z) | 3:49 |
 | 50 | [Maserati \(Remix\)](https://open.spotify.com/track/7glMaSseNC233Ntl6NhGC5) | [Olakira](https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Maserati \(Remix\)](https://open.spotify.com/album/2rUhpReSQ0taUFdT9kEt50) | 3:28 |
 
-Snapshot ID: `Z9YUgAAAAAAGJvWOrFKH644yM+6WOTkV`
+Snapshot ID: `Z9dmAAAAAAA7hxTcrC9+dpmTGAh5Y3w1`

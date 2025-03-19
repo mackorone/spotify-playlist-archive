@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Barry Can't Swim
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,375 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,388 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 52 | [Let Me Be](https://open.spotify.com/track/3JBkQIlptLCP3L6Pi5DyRe) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Forward Motion](https://open.spotify.com/album/2r0bmobkJjR0OVdF6oVd5w) | 3:16 |
 | 53 | [Banggg](https://open.spotify.com/track/4f5uSjREePyZcVtFSMiUKH) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Banggg](https://open.spotify.com/album/3mWHF2gfMwZgcdMzi8MRGh) | 2:32 |
 | 54 | [No Bad Vibes](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [No Bad Vibes](https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32) | 2:42 |
-| 55 | [True Religion](https://open.spotify.com/track/78wZn0wdzhj3imUleYWd5M) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [True Religion](https://open.spotify.com/album/0Uowlm2LLlqaoAMFtajKat) | 2:50 |
+| 55 | [True Religion](https://open.spotify.com/track/78wZn0wdzhj3imUleYWd5M) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [True Religion](https://open.spotify.com/album/0Uowlm2LLlqaoAMFtajKat) | 2:50 |
 | 56 | [Otherside](https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Otherside](https://open.spotify.com/album/3BYf1IG8EqDbhzdpljcFWY) | 3:53 |
 | 57 | [Friday \(Alone Right Now\)](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI II \(Mixtape\)](https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR) | 2:31 |
 | 58 | [Got to Change](https://open.spotify.com/track/5oV0DfWqOf8hn40u37hepA) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/7uxfQPw7jZrMCwmFijglNT) | 3:11 |

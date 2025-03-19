@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Royal & the Serpent
 
-2,585 songs - 5 day 20 hr 23 min
+2,586 songs - 5 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -984,6 +984,7 @@
 | [Heaven In Your Hands](https://open.spotify.com/track/0Bfu8xiBLLtNk66S0CWnPY) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Heaven In Your Hands](https://open.spotify.com/album/57ZBVLIHtcXfBdicj7K1Tr) | 2:58 | 2024-02-02 | 2024-02-24 |
 | [Heaven Without You](https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Heaven Without You](https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6) | 2:55 | 2023-04-21 | 2023-06-17 |
 | [Heavy](https://open.spotify.com/track/2bbNjtgjr0ZOaPK7SOcVbV) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Heavy](https://open.spotify.com/album/6AhdoMFKBYnTZxvOEbZ3O4) | 3:23 | 2022-12-09 | 2023-01-28 |
+| [Heavy](https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU) | [florence road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Heavy](https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe) | 3:20 | 2025-03-18 |  |
 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 | 2024-01-19 | 2024-03-23 |
 | [Heavy Heart \- Edit](https://open.spotify.com/track/3Gbk5JvijQQxg5q8AkGdmw) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Heavy Heart](https://open.spotify.com/album/0J97gh6EZ7bqsqq4IeGe68) | 3:46 | 2022-03-04 | 2022-05-14 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-24 | 2024-10-19 |

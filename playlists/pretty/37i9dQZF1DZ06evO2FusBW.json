@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 10776,
+  "num_followers": 10778,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAACt5rqq28x6w2inUORUksBs",
+  "snapshot_id": "Z9dmAAAAAAAWuenWPw7SKdjtR0sK60i2",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le R\u00eave d'une note",
-        "url": "https://open.spotify.com/album/3kaHw48zUVcXBK5wCsWITY"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 1354080,
-      "name": "Meditation 22",
-      "url": "https://open.spotify.com/track/2zyt5VHuSeLPBfUjl9uDNx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sleep Meditations",
         "url": "https://open.spotify.com/album/7jUPTcLc38L1PLCfpBceai"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 272550,
       "name": "Sleep Meditation: Light Sleep Schumann Resonance 432 Hz",
       "url": "https://open.spotify.com/track/3945Sap2pWM7WJsCiH3g5E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le R\u00eave d'une note",
+        "url": "https://open.spotify.com/album/3kaHw48zUVcXBK5wCsWITY"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 1354080,
+      "name": "Meditation 22",
+      "url": "https://open.spotify.com/track/2zyt5VHuSeLPBfUjl9uDNx"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotive Piano",
-        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 153137,
-      "name": "Evolving Memories",
-      "url": "https://open.spotify.com/track/7fatRhuZtEj2KB2VGefprE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Portraits in Film",
         "url": "https://open.spotify.com/album/5UgUWVUhDfevhi7qYOClzB"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 199648,
       "name": "Brave Heart",
       "url": "https://open.spotify.com/track/040Md6cPvzjqwPXZIcPnm4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emotive Piano",
+        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 153137,
+      "name": "Evolving Memories",
+      "url": "https://open.spotify.com/track/7fatRhuZtEj2KB2VGefprE"
     },
     {
       "added_at": null,

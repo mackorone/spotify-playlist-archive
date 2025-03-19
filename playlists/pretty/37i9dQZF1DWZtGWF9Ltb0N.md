@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 
 > Floor shattering bass and dark soundscapes ♣️
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,017 likes - 150 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,147 likes - 150 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Innocence 2025](https://open.spotify.com/track/3dNDt0VLKc0xUcuTI20Q73) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [Innocence 2025](https://open.spotify.com/album/5zumT6xPCZUHJnKR2ng3pY) | 2:50 |
+| 1 | [Innocence 2025](https://open.spotify.com/track/3dNDt0VLKc0xUcuTI20Q73) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [Innocence 2025](https://open.spotify.com/album/5zumT6xPCZUHJnKR2ng3pY) | 2:48 |
 | 2 | [Ear Candy](https://open.spotify.com/track/7mnbw6GQSg7I8IZgqKeBnu) | [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Ear Candy](https://open.spotify.com/album/1yhUxyUJ6YV6etU9UfFow1) | 3:40 |
 | 3 | [as i do](https://open.spotify.com/track/18gjLS71ghGPo3aH1yiPvD) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [as i do](https://open.spotify.com/album/5zMh7cULaOC4aovstHJc2K) | 2:24 |
 | 4 | [Fearless](https://open.spotify.com/track/5GJszyjsdTvv8eFWFTR9ir) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [Fearless](https://open.spotify.com/album/2NWFcWy8nsgEoUBGbufr4X) | 3:12 |

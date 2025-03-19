@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Chappell Roan, Håkan Hellström, estraden och  NOTD med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,095 likes - 102 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,090 likes - 102 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 67 | [Time Will Tell](https://open.spotify.com/track/73PgCK2nCjzcUKTW9edP3a) | [Figurines](https://open.spotify.com/artist/3EUJrwnewqImKJfVIXNSZi) | [Time Will Tell](https://open.spotify.com/album/5mTPiWnMoiz6uAyIjzeOsB) | 3:06 |
 | 68 | [Pilestredet](https://open.spotify.com/track/41dM8Ol9WH0Um6XOx7VX5I) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Pilestredet](https://open.spotify.com/album/64bXB6oQ8SDEukSqIXNms1) | 3:14 |
 | 69 | [Riverside](https://open.spotify.com/track/1PkgzejM4DGWV9bJ56J4mV) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq) | [Riverside](https://open.spotify.com/album/0b7C73CiZ1Nd78UYqMC6fa) | 3:23 |
-| 70 | [Oh Wow!](https://open.spotify.com/track/5POJ3Tww2a3C1zIm6ue3Kb) | [Modern Man](https://open.spotify.com/artist/7KxRZnHyYLxNPfOxMneKKf) | [Oh Wow!](https://open.spotify.com/album/0OPvQCP4lBIXgapIZlPl3m) | 2:55 |
+| 70 | [Oh Wow!](https://open.spotify.com/track/5POJ3Tww2a3C1zIm6ue3Kb) | [Modern Man](https://open.spotify.com/artist/7KxRZnHyYLxNPfOxMneKKf) | [Make Something Great Again](https://open.spotify.com/album/0OPvQCP4lBIXgapIZlPl3m) | 2:55 |
 | 71 | [Fool](https://open.spotify.com/track/6iVW6m4beUfsuIK6AO0aSs) | [SVRD](https://open.spotify.com/artist/4pIMOpPSlzohGNTW8O6A9y) | [dance?](https://open.spotify.com/album/3BLhRfnMCmruUGqYI4W6eO) | 3:05 |
 | 72 | [Moves](https://open.spotify.com/track/68VD5Tq2i6B2s7LBUv4Nwh) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC), [Emil Assergård](https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm) | [Moves](https://open.spotify.com/album/4tz2mPHT5xYZya1ybGH0oF) | 2:43 |
 | 73 | [LA VIDA LOCA](https://open.spotify.com/track/5nbnr7HKBQSAnz1K8OBYil) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [LA VIDA LOCA](https://open.spotify.com/album/38wRkKVHQOqV0lQEHZPoEI) | 2:01 |

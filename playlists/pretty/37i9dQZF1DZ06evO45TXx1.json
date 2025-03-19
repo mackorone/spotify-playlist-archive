@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 13153,
+  "num_followers": 13166,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAAD40CLX/fU5JGXmoPq1pv0p",
+  "snapshot_id": "Z9dmAAAAAACj0M1/afSF/HLRg7gGhVwc",
   "tracks": [
     {
       "added_at": null,
@@ -231,26 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Marcos Beatman",
-          "url": "https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk"
-        }
-      ],
-      "duration_ms": 196165,
-      "name": "Rotina",
-      "url": "https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Larga Essa Vida",
         "url": "https://open.spotify.com/album/4fraCYAYq2B7H3AsennyRp"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 119008,
       "name": "Larga Essa Vida",
       "url": "https://open.spotify.com/track/1I7rnx1blEUfgEi9owDD4C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Marcos Beatman",
+          "url": "https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk"
+        }
+      ],
+      "duration_ms": 196165,
+      "name": "Rotina",
+      "url": "https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb"
     },
     {
       "added_at": null,
@@ -895,8 +895,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+        "name": "\u00c1cido na Boca",
+        "url": "https://open.spotify.com/album/2aseP6ITCcqf11e9Y97w01"
       },
       "artists": [
         {
@@ -904,13 +904,17 @@
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "JayP",
-          "url": "https://open.spotify.com/artist/1lHdqt2eVlrG5ZYyWujdu3"
+          "name": "Mc Menorzinha",
+          "url": "https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
         }
       ],
-      "duration_ms": 106549,
-      "name": "Atacante",
-      "url": "https://open.spotify.com/track/4IJJsRnEZOXgglgVEXyyAi"
+      "duration_ms": 170624,
+      "name": "\u00c1cido na Boca",
+      "url": "https://open.spotify.com/track/0vmAjXhJSBKmMMkoEXu2CI"
     },
     {
       "added_at": null,
@@ -935,8 +939,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c1cido na Boca",
-        "url": "https://open.spotify.com/album/2aseP6ITCcqf11e9Y97w01"
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
       },
       "artists": [
         {
@@ -944,17 +948,13 @@
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Mc Menorzinha",
-          "url": "https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+          "name": "JayP",
+          "url": "https://open.spotify.com/artist/1lHdqt2eVlrG5ZYyWujdu3"
         }
       ],
-      "duration_ms": 170624,
-      "name": "\u00c1cido na Boca",
-      "url": "https://open.spotify.com/track/0vmAjXhJSBKmMMkoEXu2CI"
+      "duration_ms": 106549,
+      "name": "Atacante",
+      "url": "https://open.spotify.com/track/4IJJsRnEZOXgglgVEXyyAi"
     },
     {
       "added_at": null,
@@ -1019,6 +1019,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maldita",
+        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 110071,
+      "name": "\u00daltima Vez",
+      "url": "https://open.spotify.com/track/6750ETCZArnUYN2KQbXGE7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "44",
         "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 163846,
       "name": "Rude",
       "url": "https://open.spotify.com/track/76uuhlsoVlG3F6Umr8mnHX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maldita",
-        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 110071,
-      "name": "\u00daltima Vez",
-      "url": "https://open.spotify.com/track/6750ETCZArnUYN2KQbXGE7"
     },
     {
       "added_at": null,
@@ -1287,6 +1287,26 @@
       "duration_ms": 192807,
       "name": "P\u00e9talas",
       "url": "https://open.spotify.com/track/0LVGGVzzPqArsRUq3PoZa5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nativo",
+        "url": "https://open.spotify.com/album/2FGqHsA9CM6A1mPnu53g0k"
+      },
+      "artists": [
+        {
+          "name": "Cassol",
+          "url": "https://open.spotify.com/artist/0hg0SDpSJsbcMjsRoHdnsu"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 181124,
+      "name": "Podep\u00e1",
+      "url": "https://open.spotify.com/track/6jriETT3aG0EdRVB3bQna7"
     }
   ],
   "unique_name": "This Is Mc Luanna",

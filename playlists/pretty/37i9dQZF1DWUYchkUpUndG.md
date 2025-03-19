@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=hK\-x7IDkTJ2LdkftEVCnPQ>Moses Bliss</a> and <a href=https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk?si=uHKBkCl\-TAeeiCFjq0VVUA>Chandler Moore</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,664 likes - 93 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,707 likes - 93 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 50 | [Trinity](https://open.spotify.com/track/7LjCtSY1znMRXhWoOIN9rt) | [Sublime Elevation](https://open.spotify.com/artist/4tRNO66GV2N5FoE9fSD6ld), [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [Gospel hints](https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc) | [Trinity](https://open.spotify.com/album/1W6TxLIGrxKqoDuqk3ctxd) | 2:17 |
 | 51 | [GLORY](https://open.spotify.com/track/6a9sgDluCHwEKDMqAtIOcR) | [PRODYSGROUP](https://open.spotify.com/artist/117JIFH7qKIH6XFGefJy2j), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [CB3](https://open.spotify.com/album/26N6BZIL4pnXJmoywB7aai) | 2:52 |
 | 52 | [GUIDE ME](https://open.spotify.com/track/0qjGtJ9p7T3YITq7U9Mhvc) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4) | [GUIDE ME](https://open.spotify.com/album/06ry03hWs8NLvZKUZ2WBq2) | 2:40 |
-| 53 | [The Invitation \- Grace's Version](https://open.spotify.com/track/7cu8qfP88qhpBxQ2ZvMB8f) | [Gap Worship](https://open.spotify.com/artist/6NO2s6R49ys1KmpSU8KWQa), [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [The Invitation](https://open.spotify.com/album/46dd3h3Fl0DBqXKtLsCARC) | 8:46 |
+| 53 | [The Invitation \- Grace's Version](https://open.spotify.com/track/7cu8qfP88qhpBxQ2ZvMB8f) | [Gap Worship](https://open.spotify.com/artist/6NO2s6R49ys1KmpSU8KWQa), [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [The Invitation \(Revisited\)](https://open.spotify.com/album/46dd3h3Fl0DBqXKtLsCARC) | 8:46 |
 | 54 | [Intimacy](https://open.spotify.com/track/3kvQ1aWiP1OHawDszvNEeO) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Intimacy](https://open.spotify.com/album/4msg6xi048k2ZrXiw3plqA) | 7:19 |
 | 55 | [Elami Igama \(feat\. Archbishop Vusi Gama\)](https://open.spotify.com/track/3TqdKfBudItvf7tlyO6C3u) | [Rising Sun Choir](https://open.spotify.com/artist/7mdK7M7xSaBmUxRbgNf3mj), [Archbishop Vusi Gama](https://open.spotify.com/artist/4h3SbHA4dtdf9aXzhPnIu0) | [Elami Igama \(feat\. Archbishop Vusi Gama\)](https://open.spotify.com/album/2q0hfTZD8cyNN05eDuI813) | 4:54 |
 | 56 | [Ri Do Ima \(Bishop RC Madzinge Tribute\) \- Live](https://open.spotify.com/track/0oP1vYqdbr6iLHtmyy25cM) | [ROFHIWA MANYAGA](https://open.spotify.com/artist/6hYQnls4RShBxrh47cd6i5) | [Ri Do Ima \(Bishop RC Madzinge Tribute\) \[Live\]](https://open.spotify.com/album/5N5fhUtjZMqwrMA7SJJ2MV) | 7:44 |

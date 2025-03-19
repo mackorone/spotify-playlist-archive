@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvCktKHpf5G.md) - [plain]
 
 > ¡Puro perreo intenso en la comodidad de tu habitación!
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,857 likes - 99 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,896 likes - 99 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

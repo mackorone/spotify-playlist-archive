@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: 3House
 
-778 songs - 1 day 17 hr 43 min
+779 songs - 1 day 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Black & White](https://open.spotify.com/track/1fRVkCzUtiSJskr0WeahmB) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Black & White](https://open.spotify.com/album/2BCerfmHXuVVKbJH1Uls66) | 2:01 | 2024-08-15 | 2024-08-23 |
 | [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 | 2023-04-20 | 2023-06-16 |
 | [blame](https://open.spotify.com/track/0WVynoxYPMuxR5XnFflGfv) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [blame](https://open.spotify.com/album/51u2gNSJOxzIthq90Oj2Pa) | 2:54 | 2024-04-11 | 2024-08-02 |
+| [Blanco](https://open.spotify.com/track/1mS6WBo2ZH9TXnjMEIOTcW) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Blanco](https://open.spotify.com/album/7gO4N7Lhppp9QHwjnUA6Mb) | 3:10 | 2025-03-06 |  |
 | [Bless Her Heart](https://open.spotify.com/track/2wPM1Dk12o8u8dMNveQqhm) | [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Bliss](https://open.spotify.com/album/273G5nf7G44BxNW0IuXzZr) | 2:16 | 2024-07-12 | 2024-10-11 |
 | [BLEU](https://open.spotify.com/track/2ejXbpySI4QktdyRmWwHWn) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [BLEU](https://open.spotify.com/album/5Po9lNxbAHpLCo9XHKfu24) | 3:08 | 2024-09-26 | 2024-11-08 |
 | [BLUE](https://open.spotify.com/track/6KrRLTu0znn13IY3HD6bdr) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [BLUE](https://open.spotify.com/album/5dPtTMKOCj18R2tapTWMDx) | 2:30 | 2023-06-15 | 2024-02-23 |
@@ -587,7 +588,7 @@
 | [Slow \(with Ciara\)](https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Slow \(with Ciara\)](https://open.spotify.com/album/3pVjFaJut000WiN2WZBtKK) | 3:12 | 2023-04-20 | 2024-06-01 |
 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2023-09-07 | 2024-02-09 |
 | [Slow Grind](https://open.spotify.com/track/2TbwCYJSZrDpEz1cTIwTjx) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Slow Grind](https://open.spotify.com/album/3BYP5vePLZqrYrMYoTuAYe) | 3:39 | 2025-02-13 |  |
-| [Smell The Daises](https://open.spotify.com/track/2sTq0X4MDSkxCJlWRxZoY6) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Smell The Daises](https://open.spotify.com/album/6fPAIReQn5pSujZslHEwGk) | 4:10 | 2025-02-27 |  |
+| [Smell The Daisies](https://open.spotify.com/track/2sTq0X4MDSkxCJlWRxZoY6) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Smell The Daisies](https://open.spotify.com/album/6fPAIReQn5pSujZslHEwGk) | 4:10 | 2025-02-27 |  |
 | [Smile Away](https://open.spotify.com/track/5Q4DZsj6zIdiMo8IvoIlHY) | [Jeff Darko](https://open.spotify.com/artist/3sBwgjV04Bb5QrEvOZp1Nd), [Caesar](https://open.spotify.com/artist/6TlSyoLPJijSVzFpPL9nOi) | [Smile Away](https://open.spotify.com/album/3w4wHIAfI5j7rZ4YYNJyy1) | 4:07 | 2024-07-04 | 2024-10-11 |
 | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA) | 3:06 | 2023-03-23 | 2024-02-23 |
 | [Smooth Operator](https://open.spotify.com/track/08CZBPPhtvtSnSRk88Z6AK) | [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu), [Michaela](https://open.spotify.com/artist/4ORoaZhVBXIzhnubUbdd5S) | [Smooth Operator](https://open.spotify.com/album/1Gt2tyMYNqqUDNPWk3R1QX) | 2:51 | 2023-12-14 | 2023-12-22 |

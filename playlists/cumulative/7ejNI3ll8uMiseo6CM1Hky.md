@@ -4,7 +4,7 @@
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-170 songs - 9 hr 37 min
+171 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [CAN'T GET OVER YOU \(feat\. Clams Casino\)](https://open.spotify.com/track/39oeKRgsLeynDIbWuXyA47) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 1:47 | 2019-11-21 |  |
 | [Catch Me \(feat\. Naaz\)](https://open.spotify.com/track/4UIAJ1WnUvAPPdkzq2rn1i) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Blood For Mercy](https://open.spotify.com/album/7ACxS7rtYV8HyHgj0FD0cb) | 2:42 | 2018-12-06 |  |
 | [Chamber Of Reflection](https://open.spotify.com/track/5oeOWXjH8NZFOWP0SpSXqV) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/7xPhDaYZ2ejV04aNtdBdvj) | 3:51 | 2019-11-12 |  |
+| [Charlie's Inferno](https://open.spotify.com/track/2tmei4gBweN2TsRcTgIh0t) | [That Handsome Devil](https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT) | [The Heart Goes to Heaven, The Head Goes to Hell](https://open.spotify.com/album/0R3w6vjfaZlWHK28Z0RsfK) | 3:44 | 2025-03-18 |  |
 | [Childish Flamingos](https://open.spotify.com/track/7vt8HJ3xsjxSbVNipnkpQm) | [GoodMeme](https://open.spotify.com/artist/7rtVNkyhjLlLixT4bAMvcz) | [Childish Flamingos](https://open.spotify.com/album/1fEe1CzUVBjkG4RwDOqytJ) | 2:54 | 2022-10-11 |  |
 | [Closer](https://open.spotify.com/track/3F4M4IaluOCuLto737CRXq) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [Jennie A.](https://open.spotify.com/artist/2bx0ckgYnvvFPzDlGpupN2) | [Closer](https://open.spotify.com/album/4MibJfBVUOE0xrGJVg6WXS) | 4:31 | 2018-12-06 |  |
 | [Cotton Candy](https://open.spotify.com/track/6pTXXNyt5ofhClLOKM8oOQ) | [MilkyyMelodies](https://open.spotify.com/artist/2fg8s4dEi5FbvZKQdEvRoO) | [Cotton Candy](https://open.spotify.com/album/2RkbbCl9JrCJzOTfAfiAqE) | 2:51 | 2024-12-03 | 2025-01-09 |

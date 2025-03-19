@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > Made in Morocco, 100% hits marocains.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,709 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,803 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 34 | [3DABI](https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r) | 3:22 |
 | 35 | [Guardia](https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Guardia](https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa) | 3:18 |
 | 36 | [Ma Jolie](https://open.spotify.com/track/7pktxOiANdgQnzJmp7vwON) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 2:24 |
-| 37 | [Go](https://open.spotify.com/track/2g2x70gCZb31tUFcACNeL5) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [Go](https://open.spotify.com/album/6Bp7UQPt8gXp3SFk3CF70Q) | 2:08 |
-| 38 | [Chouwafat](https://open.spotify.com/track/2karLWYLu8wPrGQnY7CZvC) | [Houssainy](https://open.spotify.com/artist/0Vd0wj4JUTJ6M4ts8Xhpko), [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1), [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Chouwafat](https://open.spotify.com/album/0TfxgYWyl2Rfg6dvxMXsOs) | 3:24 |
+| 37 | [Chouwafat](https://open.spotify.com/track/2karLWYLu8wPrGQnY7CZvC) | [Houssainy](https://open.spotify.com/artist/0Vd0wj4JUTJ6M4ts8Xhpko), [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1), [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Chouwafat](https://open.spotify.com/album/0TfxgYWyl2Rfg6dvxMXsOs) | 3:24 |
+| 38 | [Jarh 9Dim](https://open.spotify.com/track/2D90uQttl2UcZRgYDKDIMD) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Jarh 9dim](https://open.spotify.com/album/7K2R7t8bkj3N8T58r48tVw) | 2:57 |
 | 39 | [Abala Ya Bali](https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Abala Ya Bali](https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1) | 3:48 |
 | 40 | [Oh qu'elle est belle](https://open.spotify.com/track/7wwQoJtPLBVeMIZlW11cp6) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Décennie](https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA) | 3:40 |
 
-Snapshot ID: `Z8q8ggAAAACZdJd11ScYJE6EkoK4Hdwk`
+Snapshot ID: `Z9k/UAAAAAC4Jzxmqy4prXMG8vq2DO/x`

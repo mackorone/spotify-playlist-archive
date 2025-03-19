@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,171 likes - 85 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,198 likes - 85 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cadence Of Hearts](https://open.spotify.com/track/0eW6mb6EWgD0flCMsvg26d) | [Em Monet](https://open.spotify.com/artist/2hzlSHfKcUQMB1B3wTwOd0) | [Cadence Of Hearts](https://open.spotify.com/album/4kbHYQ42sOgJE870vk19Lv) | 2:15 |
 | 2 | [¿Me Concederías este Baile?](https://open.spotify.com/track/2lJDxCo8I6muWb1tjLLT9g) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [¿Me Concederías este Baile?](https://open.spotify.com/album/5t50tb5TDHbPkDNF6gK6jv) | 3:13 |
 | 3 | [Madame Señora](https://open.spotify.com/track/3N3Oyfhwsf3Y9xkpgxDnck) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Madame Señora](https://open.spotify.com/album/3RncnfVEmFPkZB92PQl0HD) | 2:18 |
-| 4 | [Lascia Fare A Me](https://open.spotify.com/track/6w9aMtE5ZxHnOrfzSkDuTs) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Lascia Fare A Me](https://open.spotify.com/album/293fwp3wtlduTDJxkRVUOv) | 3:05 |
-| 5 | [Una Vela Encendida](https://open.spotify.com/track/3G5CM3B822P8kFFQOS4aRx) | [Isaac Valero](https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm) | [Una Vela Encendida](https://open.spotify.com/album/36Pd3FdKzfJ6uBVf8vlbTh) | 2:43 |
-| 6 | [Day of the Dead](https://open.spotify.com/track/6xKZtSbSn7QQLROYGwIO8T) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Day of the Dead](https://open.spotify.com/album/5e492cFRPmZDkqkV70KEJp) | 2:12 |
+| 4 | [Day of the Dead](https://open.spotify.com/track/6xKZtSbSn7QQLROYGwIO8T) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Day of the Dead](https://open.spotify.com/album/5e492cFRPmZDkqkV70KEJp) | 2:12 |
+| 5 | [Lascia Fare A Me](https://open.spotify.com/track/6w9aMtE5ZxHnOrfzSkDuTs) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Lascia Fare A Me](https://open.spotify.com/album/293fwp3wtlduTDJxkRVUOv) | 3:05 |
+| 6 | [Una Vela Encendida](https://open.spotify.com/track/3G5CM3B822P8kFFQOS4aRx) | [Isaac Valero](https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm) | [Una Vela Encendida](https://open.spotify.com/album/36Pd3FdKzfJ6uBVf8vlbTh) | 2:43 |
 | 7 | [Peacemaker](https://open.spotify.com/track/5wiWB7EmRHOLm8liHplcEX) | [Mike Hense](https://open.spotify.com/artist/3NU4JVUYY3da2SyQjksPDh) | [Peacemaker](https://open.spotify.com/album/76nt60jEPyuQAB99VaVBgV) | 2:57 |
-| 8 | [Our Journey](https://open.spotify.com/track/34VrVAqwPb3ZbO1PU98ncG) | [Auguste Braun](https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc) | [Our Journey](https://open.spotify.com/album/73kCt312ImbXeN3BLhlzzs) | 2:29 |
-| 9 | [Beyond Any Doubt](https://open.spotify.com/track/0hKUf6QOZ9IPA8tMnghi51) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Beyond Any Doubt](https://open.spotify.com/album/7fapRWAW0Gi5HWxspy0yC5) | 2:48 |
-| 10 | [Who](https://open.spotify.com/track/4NDPR97nB1PuQ7773VK5WK) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Who](https://open.spotify.com/album/4mV8P8lGIWFFlrYlPc94Wz) | 2:57 |
+| 8 | [Who](https://open.spotify.com/track/4NDPR97nB1PuQ7773VK5WK) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Who](https://open.spotify.com/album/4mV8P8lGIWFFlrYlPc94Wz) | 2:57 |
+| 9 | [Our Journey](https://open.spotify.com/track/34VrVAqwPb3ZbO1PU98ncG) | [Auguste Braun](https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc) | [Our Journey](https://open.spotify.com/album/73kCt312ImbXeN3BLhlzzs) | 2:29 |
+| 10 | [Beyond Any Doubt](https://open.spotify.com/track/0hKUf6QOZ9IPA8tMnghi51) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Beyond Any Doubt](https://open.spotify.com/album/7fapRWAW0Gi5HWxspy0yC5) | 2:48 |
 | 11 | [Estrella del Alba](https://open.spotify.com/track/75MArQvQxnXcf1eihuGMIj) | [Mirta Alvarez](https://open.spotify.com/artist/4zEFyJWmosnx8lZKfy8EkZ) | [Estrella del Alba](https://open.spotify.com/album/1tPzlsbmcvftBFrSJtamoG) | 2:57 |
 | 12 | [Miniatura No.23 \- Trémulo Lamento](https://open.spotify.com/track/1g7RJi4R1rCriDQUsETRf4) | [Gerson Lizama](https://open.spotify.com/artist/7JJMRNaFGLhYUIC59g4xGL) | [Miniatura No.23 \- Trémulo Lamento](https://open.spotify.com/album/3TmeHfTpMHcPqQSOAFbZeC) | 2:10 |
 | 13 | [Jobim: Road to the Sun](https://open.spotify.com/track/6LhNIBQ3c711HIIhwWoFpx) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Sharon Isbin](https://open.spotify.com/artist/3TXeUeBzDNk93uvzr0byAu) | [Latin Romances for Guitar](https://open.spotify.com/album/3NUzY7X9ebHv9lJpQBtIrQ) | 2:32 |
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 | 16 | [Life As We Knew It](https://open.spotify.com/track/2GMPd1Imsdm4l9nQAdLKEe) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Life As We Knew It](https://open.spotify.com/album/3F8Wf8zgwhjhisqdpTGcG5) | 3:37 |
 | 17 | [Brisa](https://open.spotify.com/track/1Yq3YiBlTldgN2jJn3JTCW) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Brisa](https://open.spotify.com/album/0GuqxpAAAS5LSEEM7HD5sG) | 2:18 |
 | 18 | [Meyehualco](https://open.spotify.com/track/60TA1wktj8y67xnmyH0ISC) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Meyehualco](https://open.spotify.com/album/5JO6noENoD4vyFxpfUWWZA) | 4:13 |
-| 19 | [Serenade](https://open.spotify.com/track/7MD29BNc56aTaxjlGF82CL) | [Viktor Dahlgren](https://open.spotify.com/artist/6VrIZ7a7y73WrXVliEqL45) | [Serenade](https://open.spotify.com/album/6Kv6CdSStZVhsXsqKGA1Wx) | 3:15 |
-| 20 | [Lake Tahoe](https://open.spotify.com/track/1WzAwlgMrKrbImVPK7nxHY) | [Mac Lawlor](https://open.spotify.com/artist/0GaniHLie4Bik5osPQxfM3) | [Lake Tahoe](https://open.spotify.com/album/7qDXnV1wkeeCjx3ryDWHyk) | 3:02 |
+| 19 | [Lake Tahoe](https://open.spotify.com/track/1WzAwlgMrKrbImVPK7nxHY) | [Mac Lawlor](https://open.spotify.com/artist/0GaniHLie4Bik5osPQxfM3) | [Lake Tahoe](https://open.spotify.com/album/7qDXnV1wkeeCjx3ryDWHyk) | 3:02 |
+| 20 | [Walking Around Santiago](https://open.spotify.com/track/547zA3UNGPouhvPF0LCpt7) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Walking Around Santiago](https://open.spotify.com/album/0ZIPPkIC1LFYM3W5HyPewJ) | 4:46 |
 | 21 | [Não quebre meu coração](https://open.spotify.com/track/5tbaj51irlL5qMPt9aokTV) | [Jose Luis Minguez](https://open.spotify.com/artist/6SGQqtwYmt7PRq59A3N0kY) | [Não quebre meu coração](https://open.spotify.com/album/44t0sTuExv0q5bgwDHR71l) | 2:58 |
-| 22 | [Walking Around Santiago](https://open.spotify.com/track/547zA3UNGPouhvPF0LCpt7) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Walking Around Santiago](https://open.spotify.com/album/0ZIPPkIC1LFYM3W5HyPewJ) | 4:46 |
-| 23 | [Tiempo Diferente](https://open.spotify.com/track/2Ydby2f4z6soHFOJ5vwksZ) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [Tiempo Diferente](https://open.spotify.com/album/7Hop5OQe2ynxNv0CoOUR9g) | 2:27 |
+| 22 | [Tiempo Diferente](https://open.spotify.com/track/2Ydby2f4z6soHFOJ5vwksZ) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [Tiempo Diferente](https://open.spotify.com/album/7Hop5OQe2ynxNv0CoOUR9g) | 2:27 |
+| 23 | [Serenade](https://open.spotify.com/track/7MD29BNc56aTaxjlGF82CL) | [Viktor Dahlgren](https://open.spotify.com/artist/6VrIZ7a7y73WrXVliEqL45) | [Serenade](https://open.spotify.com/album/6Kv6CdSStZVhsXsqKGA1Wx) | 3:15 |
 | 24 | [Merula](https://open.spotify.com/track/28rRAAV0wy18FNxLgH46WQ) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Merula](https://open.spotify.com/album/3L05XKpAW8M2i9j7z1BbeN) | 4:09 |
 | 25 | [Me Muero Sin Tus Besos](https://open.spotify.com/track/5A1XB9lNEvGHWNu1hkOpKT) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:25 |
 | 26 | [Holding Hands](https://open.spotify.com/track/6XUTzew4WENpk18JlfU9BU) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Holding Hands](https://open.spotify.com/album/5tdIQB7ClKnQJNAONbtcTy) | 2:28 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 | 84 | [Oda al Amor](https://open.spotify.com/track/2BZqPAeZmKOip0RBXy5rLF) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Oda al Amor](https://open.spotify.com/album/36ijVR5mkPZBGCof2VEZLe) | 2:47 |
 | 85 | [Runaway](https://open.spotify.com/track/0VwA4OOrK4K0qrfaFBHCoi) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Runaway](https://open.spotify.com/album/2R6ToEr49KC9zrmE3zevdV) | 2:50 |
 
-Snapshot ID: `Z9APoAAAAACwgmRewn0+idK4nJCjWduG`
+Snapshot ID: `Z9lBWgAAAACyG4nNv2TNtTcNiAgDYR+3`

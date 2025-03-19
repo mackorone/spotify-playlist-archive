@@ -8204,7 +8204,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 195431,
       "name": "DIE TRYING",
       "url": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
@@ -10064,7 +10064,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 167754,
       "name": "ExtraL (feat. Doechii)",
       "url": "https://open.spotify.com/track/4EIFwndJvGpgFjsEbNuYif"
@@ -24810,7 +24810,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 161738,
       "name": "POP OUT",
       "url": "https://open.spotify.com/track/3j3SfV4hAcR4XjCvW393Gr"
@@ -25430,7 +25430,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 107933,
       "name": "RADAR",
       "url": "https://open.spotify.com/track/3lAEHk0eZzMKtCUFLXz8Ln"
@@ -27988,7 +27988,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "sining (feat. Jay R)",
       "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
@@ -29088,10 +29088,28 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 165045,
       "name": "Sports car",
       "url": "https://open.spotify.com/track/4il87YHqSV9UqbBkXM7z7m"
+    },
+    {
+      "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165045,
+      "name": "Sports car",
+      "url": "https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S"
     },
     {
       "album": {
@@ -34150,7 +34168,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 169333,
       "name": "WAKE UP F1LTHY (with Travis Scott)",
       "url": "https://open.spotify.com/track/1pzN8bCzy017iK3vWzkk6Z"

@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films.
 
-182 songs - 12 hr 32 min
+183 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [COLORs](https://open.spotify.com/track/4aqQN7pU0Razhap9AadWxh) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [V](https://open.spotify.com/album/57gUMsNaEyRTFWuKufAizA) | 2:50 | 2023-01-17 |  |
 | [Crunchyroll Anime Awards Theme](https://open.spotify.com/track/7tRWsI0z6X7dV5PHDBPzcN) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [Crunchyroll Anime Awards Theme](https://open.spotify.com/album/17lFOjflySH9gg3fLoPG1W) | 5:17 | 2024-03-26 |  |
 | [DARK ARIA](https://open.spotify.com/track/3SR85l1lZDNPr68rkAlYOy) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [俺だけレベルアップな件 Original Soundtrack](https://open.spotify.com/album/1XtpQSucGXigcvW8qmfZHn) | 2:21 | 2024-03-26 |  |
+| [DARK ARIA \-ARISE\-](https://open.spotify.com/track/0BSGwoTRRZ0q58WB8RXLO3) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [XAI](https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [DARK ARIA \-ARISE\-](https://open.spotify.com/album/2JnWgaONEiGWfT2jkOpoEH) | 2:20 | 2025-03-18 |  |
 | [DARK ARIA <LV2>](https://open.spotify.com/track/5Mg4ZgUgR6whGObRh6UGn0) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [XAI](https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N) | [LEveL](https://open.spotify.com/album/4GW8o02gQfeJKEXNivXz9M) | 2:22 | 2024-01-23 |  |
 | [DOA](https://open.spotify.com/track/3oID0W8xzgfMWD5KFop4xA) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan" Original Soundtrack](https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa) | 3:26 | 2022-06-21 | 2024-04-19 |
 | [DOA](https://open.spotify.com/track/7Jvht2ZKSBpiKTYy7qj6qc) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Aimee Blackschleger](https://open.spotify.com/artist/7rFMYhsVx0XJQ9sqVgEZAd) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 3:26 | 2022-06-07 |  |

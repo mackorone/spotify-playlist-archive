@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 
 > Die beste country musiek\. Omslag: <a href="https://open.spotify.com/artist/0Y2DVvg0bwD4dBrjNZTxqd?si=EWU53sHxThqJJzdHNOdyUA">Logan Pietersen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,783 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,791 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

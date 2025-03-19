@@ -1,13 +1,29 @@
 {
-  "description": "Wat kan het Nederlands toch mooi zijn. Cover: Maaike Ouboter & Eric Corton",
-  "num_followers": 31954,
+  "description": "Wat kan het Nederlands toch mooi zijn. Cover: Leonie Meijer",
+  "num_followers": 31973,
   "original_name": "Mooi Nederlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9LiVQAAAAAkyWwcBQcaMLfcEjauQYGr",
+  "snapshot_id": "Z9la4AAAAABYMrfReEZItywjlIoSsnbP",
   "tracks": [
+    {
+      "added_at": "2025-03-13 13:49:09",
+      "album": {
+        "name": "Ik neem jou mee",
+        "url": "https://open.spotify.com/album/5IRN8OAVrY8gm2vjhCpp18"
+      },
+      "artists": [
+        {
+          "name": "Leonie Meijer",
+          "url": "https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve"
+        }
+      ],
+      "duration_ms": 169456,
+      "name": "Ik neem jou mee",
+      "url": "https://open.spotify.com/track/1NEawk3FwC4DAte737OmtG"
+    },
     {
       "added_at": "2025-03-13 13:49:09",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 158560,
       "name": "Lijn",
       "url": "https://open.spotify.com/track/0HOrDesxpndcI38kujDxei"
-    },
-    {
-      "added_at": "2025-03-13 13:49:09",
-      "album": {
-        "name": "Ik neem jou mee",
-        "url": "https://open.spotify.com/album/5IRN8OAVrY8gm2vjhCpp18"
-      },
-      "artists": [
-        {
-          "name": "Leonie Meijer",
-          "url": "https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve"
-        }
-      ],
-      "duration_ms": 169456,
-      "name": "Ik neem jou mee",
-      "url": "https://open.spotify.com/track/1NEawk3FwC4DAte737OmtG"
     },
     {
       "added_at": "2025-03-13 13:49:09",

@@ -4,7 +4,7 @@
 
 > where folk flowers bloom\. cover: The Man The Myth The Meatslab
 
-451 songs - 1 day 2 hr 30 min
+452 songs - 1 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 | 2024-03-15 | 2024-11-09 |
 | [Be](https://open.spotify.com/track/0puGl6gLKNvG7Ze4X7Hliq) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Be](https://open.spotify.com/album/7HUojHE25L3aSp0TaqqBXS) | 1:51 | 2023-12-15 | 2024-02-10 |
 | [bear walk](https://open.spotify.com/track/2xUZROCCn0xZY6jJXTuUwe) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this is my california / bear walk](https://open.spotify.com/album/5yoqiFg0uwj2yDSM962Kpy) | 3:33 | 2024-12-06 |  |
+| [Best Guess](https://open.spotify.com/track/6b3VHyOfkhi6RnzDJuqceh) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Talk](https://open.spotify.com/album/6kX0IaoVlOu3my3g9Zzi36) | 4:00 | 2025-03-18 |  |
 | [better off](https://open.spotify.com/track/3XrlBRs4Kz1dFHZ7PfNehy) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [better off](https://open.spotify.com/album/5iX6joje4V2KmLlLUgjMfT) | 3:58 | 2024-11-22 | 2025-03-13 |
 | [Bindi in the Dirt](https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH) | [Mikayla Pasterfield](https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA) | [Bindi in the Dirt](https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm) | 3:51 | 2023-10-06 | 2024-08-17 |
 | [Bird cage blue and yellow](https://open.spotify.com/track/3qhyW08FypET71F65dYZZc) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Songs of Origin](https://open.spotify.com/album/2l9etGpqZ3uyqa5I2xozjv) | 3:14 | 2024-10-01 | 2025-02-22 |

@@ -4,7 +4,7 @@
 
 > mostly rock
 
-855 songs - 2 day 6 hr 47 min
+856 songs - 2 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [manegoto](https://open.spotify.com/track/2EqGkMtjIWWTBFI1KqNv8i) | [sagara\_nao](https://open.spotify.com/artist/165qMyIOpq14o4JNU0LlJr), [uami](https://open.spotify.com/artist/3xiMlcfR162PpRFXtCV6fE) | [manegoto](https://open.spotify.com/album/5tcCHiQ8lV23LkWOOfslxN) | 2:56 | 2024-04-25 |  |
 | [MEADOW](https://open.spotify.com/track/51fuWCZ2Iv7VtNsxGb9LaO) | [COLLAPSE](https://open.spotify.com/artist/3aLpODUWftL6JfrOed62f5) | [DELIRIUM POETRY](https://open.spotify.com/album/0SpoatymVcI2rwYvSIlvqR) | 4:55 | 2024-05-18 |  |
 | [Melody Smash \(feat\. LIL SOFT TENNIS\)](https://open.spotify.com/track/25PKUtvIPhiVoNkiFoOAqv) | [TEMPLIME](https://open.spotify.com/artist/55ci5kA4LZrGVdJRbIe6E6), [HOSHIMIYA TOTO](https://open.spotify.com/artist/4Q2PcVL35XedJ6qmd5aC8l), [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ) | [POP\-AID](https://open.spotify.com/album/1GMnqT9EffWh7xtXiD9y5g) | 3:32 | 2024-06-30 |  |
+| [Melt 10th ANNIVERSARY MIX](https://open.spotify.com/track/38VPKnanXWhNiv0NueMyh9) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [Melt 10th ANNIVERSARY MIX](https://open.spotify.com/album/6S6EpxUbkTbwSiqGeWIb2y) | 5:05 | 2025-03-18 |  |
 | [memosepia](https://open.spotify.com/track/2jbXbbQHmS8yxG6ONpr1JQ) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [memosepia / gray](https://open.spotify.com/album/090bgQZzZVsYNCj9FnwG17) | 3:55 | 2024-10-02 |  |
 | [mercurytenshi](https://open.spotify.com/track/1G1sjL9bSTOEyTGBCPJmvO) | [yuzuha](https://open.spotify.com/artist/1E1ZQGewEUYhLSd3hvreon) | [feather](https://open.spotify.com/album/0OrHQZHemDJ4Wvyo6S3G9d) | 3:06 | 2024-05-03 |  |
 | [METOROPORITAN](https://open.spotify.com/track/5Sj9M1Pl6f4IIrxzrLbqdm) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [NAKIGOTO,](https://open.spotify.com/album/2OVSflRQ7zERLrLk3eAqmL) | 3:35 | 2023-12-27 |  |

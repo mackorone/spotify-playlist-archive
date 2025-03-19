@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 271772,
       "name": "A La Louca",
       "url": "https://open.spotify.com/track/23lccGseZyEwefnHGH4Dxk"
@@ -277,6 +277,42 @@
     },
     {
       "album": {
+        "name": "Amerikan Dread",
+        "url": "https://open.spotify.com/album/2LKuJ9cDl3NITydPwFeX5U"
+      },
+      "artists": [
+        {
+          "name": "Victor",
+          "url": "https://open.spotify.com/artist/31PvbfXXUNvhoSaT6Quw30"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232928,
+      "name": "Amerikan Dread",
+      "url": "https://open.spotify.com/track/3JsZDeJBfDlxCWBTOgNX4H"
+    },
+    {
+      "album": {
+        "name": "Ada El Lail",
+        "url": "https://open.spotify.com/album/6izreZKbtr7I1q0ZLDzVCY"
+      },
+      "artists": [
+        {
+          "name": "Ehab Tawfik",
+          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295506,
+      "name": "Ana Leek",
+      "url": "https://open.spotify.com/track/34CLjlG2tL1y8WxynGOVwt"
+    },
+    {
+      "album": {
         "name": "Velox",
         "url": "https://open.spotify.com/album/0ni2CUfr78oLX1MVfpAOPl"
       },
@@ -448,7 +484,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 218000,
       "name": "Baby It's Too Late",
       "url": "https://open.spotify.com/track/5MTfkalr6ATMrCK7Yvl16A"
@@ -560,10 +596,28 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 374498,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/19crOxoTyjovnQuJqCtA3x"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Enya",
+        "url": "https://open.spotify.com/album/7m2SeyUbci5c1Iil2ZiWoz"
+      },
+      "artists": [
+        {
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211533,
+      "name": "Boadicea - 2009 Remaster",
+      "url": "https://open.spotify.com/track/334NOoaLMyFnHbTguCcG54"
     },
     {
       "album": {
@@ -769,6 +823,24 @@
     },
     {
       "album": {
+        "name": "People From Ibiza (The Very Best - Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4hj4TGXo3s3hDosLXwYjyA"
+      },
+      "artists": [
+        {
+          "name": "Sandy Marton",
+          "url": "https://open.spotify.com/artist/1D33JhHkXxj78Y8oiyg41L"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355578,
+      "name": "Camel by Camel - Mix Vocal",
+      "url": "https://open.spotify.com/track/7pOYYtkbNhBGWpPhpWl2ow"
+    },
+    {
+      "album": {
         "name": "Over the Sand",
         "url": "https://open.spotify.com/album/1QdKmYaAzKPYNrCX80yXzD"
       },
@@ -816,7 +888,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 169733,
       "name": "Casablanca Moon",
       "url": "https://open.spotify.com/track/4PNhRqC5OfxkfC4dHRqDgN"
@@ -1384,7 +1456,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 207493,
       "name": "Eski Dostum",
       "url": "https://open.spotify.com/track/5SspInIz2xtB2mEm5c7RYX"
@@ -1618,7 +1690,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 265124,
       "name": "Garden",
       "url": "https://open.spotify.com/track/7lCFqlVFKkYQUhvk5oozO3"
@@ -1728,7 +1800,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 211666,
       "name": "Haai",
       "url": "https://open.spotify.com/track/5hodEx7PKBeUCfaq242vWU"
@@ -2162,10 +2234,28 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 320333,
       "name": "Le Serpent",
       "url": "https://open.spotify.com/track/7lfsbvVeajfdw3l8Cww7Ls"
+    },
+    {
+      "album": {
+        "name": "Affaires Etrangeres",
+        "url": "https://open.spotify.com/album/5ZH8xmmt6zEr0QVG6ufIpG"
+      },
+      "artists": [
+        {
+          "name": "Pacha",
+          "url": "https://open.spotify.com/artist/2czndwlX6h1rjHwpLX0MXj"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230343,
+      "name": "Le Soviet",
+      "url": "https://open.spotify.com/track/180YEl1rRQrnvWasjF7pRB"
     },
     {
       "album": {
@@ -2573,6 +2663,24 @@
     },
     {
       "album": {
+        "name": "Benim \u015eark\u0131lar\u0131m, Vol. 2 / Siyah I\u015f\u0131klar",
+        "url": "https://open.spotify.com/album/7kOLuQMzxVpvhF3vkLriIB"
+      },
+      "artists": [
+        {
+          "name": "Kayahan",
+          "url": "https://open.spotify.com/artist/71wTGSTWEPSLnfe7tA2wkX"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185200,
+      "name": "Mor Menek\u015fe",
+      "url": "https://open.spotify.com/track/5Y7m7ZdwKMzMtXtDRre3gc"
+    },
+    {
+      "album": {
         "name": "Rituals of Gorontalo",
         "url": "https://open.spotify.com/album/2RKu6dtRlcKqKlVqI8g7AE"
       },
@@ -2610,6 +2718,24 @@
       "duration_ms": 212489,
       "name": "Mountains",
       "url": "https://open.spotify.com/track/2F2naxPU8VV7U8IkAWlkfA"
+    },
+    {
+      "album": {
+        "name": "In Between EP",
+        "url": "https://open.spotify.com/album/4tzdDeoT9TUWFKGhs6XctU"
+      },
+      "artists": [
+        {
+          "name": "Philip Chernikov",
+          "url": "https://open.spotify.com/artist/0OHKCGlf6KA0SPH8tIvzw1"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394960,
+      "name": "Multicultural",
+      "url": "https://open.spotify.com/track/2C6pRbpZJA7wHk59iBQuF0"
     },
     {
       "album": {
@@ -2730,6 +2856,24 @@
       "duration_ms": 311692,
       "name": "Nasnusa",
       "url": "https://open.spotify.com/track/25VsX5GaM7gjWnbgjQXk7o"
+    },
+    {
+      "album": {
+        "name": "LIPDUB",
+        "url": "https://open.spotify.com/album/2gdGWj5q6sJxiJQN6I1PwY"
+      },
+      "artists": [
+        {
+          "name": "The Populists",
+          "url": "https://open.spotify.com/artist/3HQnlw1ltcQBL50M4zxkzN"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427714,
+      "name": "NI-NI",
+      "url": "https://open.spotify.com/track/3g3DevPGoE6NuagcledVPX"
     },
     {
       "album": {
@@ -3775,6 +3919,28 @@
     },
     {
       "album": {
+        "name": "La grande accumulation",
+        "url": "https://open.spotify.com/album/5MSWT3UL8zksEbsPyOZ9zJ"
+      },
+      "artists": [
+        {
+          "name": "Anadol",
+          "url": "https://open.spotify.com/artist/7FIDz1yp4L6MZbHCdyLUfx"
+        },
+        {
+          "name": "Marie Klock",
+          "url": "https://open.spotify.com/artist/1dHVFjDxyoHcxS5M1he5CB"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340186,
+      "name": "Sonate au jambon",
+      "url": "https://open.spotify.com/track/3ShwKeAVrwfrfQDU6EzGaa"
+    },
+    {
+      "album": {
         "name": "Sopratutto",
         "url": "https://open.spotify.com/album/0UP6UvJRoyOhIrMOI9bafu"
       },
@@ -3866,7 +4032,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 265238,
       "name": "Spectra",
       "url": "https://open.spotify.com/track/6KEmE0HgxKzIxXegmqNj1j"
@@ -3920,7 +4086,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 220935,
       "name": "Sve Su Seke Jebene",
       "url": "https://open.spotify.com/track/4vh4iPaADbbLDFrnELsuzS"
@@ -4722,6 +4888,24 @@
       "duration_ms": 244346,
       "name": "\u3055\u3066\u3082\u5929\u6674 \u5922\u685c",
       "url": "https://open.spotify.com/track/7CjemMyaSin0jhauJJaYzB"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30fb\u30e1\u30cb\u30fc\u30fb\u30d5\u30ec\u30f3\u30ba (2004 Remaster)",
+        "url": "https://open.spotify.com/album/3CwZZl3TEBIFIF3Iw3i14V"
+      },
+      "artists": [
+        {
+          "name": "Yuki Okazaki",
+          "url": "https://open.spotify.com/artist/2B9lM0cHKeQs5YRQBThYoo"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251800,
+      "name": "\u30b9\u30fc\u30f3 - 2004 Remaster",
+      "url": "https://open.spotify.com/track/7aQ4BdWgvYVQdoKadFFlQD"
     },
     {
       "album": {

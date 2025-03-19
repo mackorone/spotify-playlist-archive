@@ -1,12 +1,12 @@
 {
   "description": "This is Roy Ayers. The essential tracks, all in one playlist.",
-  "num_followers": 15919,
+  "num_followers": 15939,
   "original_name": "This Is Roy Ayers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAADNe5uznH0h/2WFAmd2lmTC",
+  "snapshot_id": "Z9dmAAAAAADCaYvviMz6fY/b/3GUAk/l",
   "tracks": [
     {
       "added_at": null,
@@ -747,6 +747,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Share My World",
+        "url": "https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 305800,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/432fHKBQfXMMgU7yyEtRvz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Change Up The Groove",
+        "url": "https://open.spotify.com/album/2odkikUoXGKyYYi5rcY79M"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 280840,
+      "name": "The Boogie Back",
+      "url": "https://open.spotify.com/track/6IST9f4O5DtXuxal7RM7A3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Vision",
         "url": "https://open.spotify.com/album/7GWwRPL4keJ9Xd460YHwR5"
       },
@@ -771,42 +807,6 @@
       "duration_ms": 281186,
       "name": "Wasting",
       "url": "https://open.spotify.com/track/3gX3MH4xNWXaQOinDORqZh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Change Up The Groove",
-        "url": "https://open.spotify.com/album/2odkikUoXGKyYYi5rcY79M"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 280840,
-      "name": "The Boogie Back",
-      "url": "https://open.spotify.com/track/6IST9f4O5DtXuxal7RM7A3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Share My World",
-        "url": "https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 305800,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/432fHKBQfXMMgU7yyEtRvz"
     },
     {
       "added_at": null,

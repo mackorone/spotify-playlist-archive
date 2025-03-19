@@ -1452,7 +1452,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 136571,
       "name": "Aloh Aloh",
       "url": "https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd"
@@ -3542,7 +3542,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -21960,7 +21960,7 @@
       ],
       "date_added": "2025-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 223566,
       "name": "Polvito Pa la Racha",
       "url": "https://open.spotify.com/track/1pYZB1mdGSMpOu4vTh1v3w"
@@ -26436,6 +26436,28 @@
       "duration_ms": 253500,
       "name": "Socio",
       "url": "https://open.spotify.com/track/2H4SvdfK9ret8B4cjNvrum"
+    },
+    {
+      "album": {
+        "name": "Solcito",
+        "url": "https://open.spotify.com/album/3BzCHEyuOsxZrWq3M3CsR2"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bueno",
+          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Solcito",
+      "url": "https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu"
     },
     {
       "album": {

@@ -9815,6 +9815,24 @@
     },
     {
       "album": {
+        "name": "Only you",
+        "url": "https://open.spotify.com/album/2ewQ6rgeUj5HL0fJUUJT17"
+      },
+      "artists": [
+        {
+          "name": "Niels Wang",
+          "url": "https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188976,
+      "name": "Only you",
+      "url": "https://open.spotify.com/track/0QAA5dIWYqGGC9gkxWniEO"
+    },
+    {
+      "album": {
         "name": "Traces",
         "url": "https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW"
       },

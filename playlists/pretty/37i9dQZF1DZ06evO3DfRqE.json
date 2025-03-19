@@ -1,12 +1,12 @@
 {
   "description": "This is Jake Shimabukuro. The essential tracks, all in one playlist.",
-  "num_followers": 8240,
+  "num_followers": 8242,
   "original_name": "This Is Jake Shimabukuro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAABub8gdJ/ZIQpl27bv1NJ9T",
+  "snapshot_id": "Z9dmAAAAAADdDTU3KzmIubRx2IEQF5TB",
   "tracks": [
     {
       "added_at": null,
@@ -659,22 +659,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nature Spirit",
-        "url": "https://open.spotify.com/album/6YsUV3AaDrM9pB9AaYmLWr"
+        "name": "Travels",
+        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
       },
       "artists": [
-        {
-          "name": "Kotaro Oshio",
-          "url": "https://open.spotify.com/artist/21HpfUqBSYSTMF20FOw2V2"
-        },
         {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 249706,
-      "name": "\u6e1a",
-      "url": "https://open.spotify.com/track/27wzJWgo11uq4mTUGX2Eob"
+      "duration_ms": 239226,
+      "name": "Oama",
+      "url": "https://open.spotify.com/track/1BnHU5GFBvVuSlNSXnQCo2"
     },
     {
       "added_at": null,
@@ -695,34 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travels",
-        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
+        "name": "Nature Spirit",
+        "url": "https://open.spotify.com/album/6YsUV3AaDrM9pB9AaYmLWr"
       },
       "artists": [
+        {
+          "name": "Kotaro Oshio",
+          "url": "https://open.spotify.com/artist/21HpfUqBSYSTMF20FOw2V2"
+        },
         {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 239226,
-      "name": "Oama",
-      "url": "https://open.spotify.com/track/1BnHU5GFBvVuSlNSXnQCo2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
-        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "\u30d5\u30e9\u30ac\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/5C43UUvEzv0ReAgQCx1dAP"
+      "duration_ms": 249706,
+      "name": "\u6e1a",
+      "url": "https://open.spotify.com/track/27wzJWgo11uq4mTUGX2Eob"
     },
     {
       "added_at": null,
@@ -743,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Love Ukulele",
-        "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 183853,
-      "name": "Ukulele Bros",
-      "url": "https://open.spotify.com/track/4xbOzbF4ziyqyxLU4vOQzV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Travels",
         "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
       },
@@ -775,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peace Love Ukulele",
+        "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 183853,
+      "name": "Ukulele Bros",
+      "url": "https://open.spotify.com/track/4xbOzbF4ziyqyxLU4vOQzV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
         "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
       },
@@ -784,9 +768,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 246320,
-      "name": "\u30db\u30ef\u30a4\u30eb\u30fb\u30de\u30a4\u30fb\u30ae\u30bf\u30fc\u30fb\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9 - Solo",
-      "url": "https://open.spotify.com/track/1fI9vslIQpY8PYSbO5tlL9"
+      "duration_ms": 224400,
+      "name": "\u30d5\u30e9\u30ac\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/5C43UUvEzv0ReAgQCx1dAP"
     },
     {
       "added_at": null,
@@ -827,6 +811,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30d5\u30e9\u30ac\u30fc\u30eb\u3000-\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af-",
+        "url": "https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 116426,
+      "name": "\u30b0\u30e9\u30c7\u30e5\u30a8\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/3lEIwrld3ahz9tAlNQAyq7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
+        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 246320,
+      "name": "\u30db\u30ef\u30a4\u30eb\u30fb\u30de\u30a4\u30fb\u30ae\u30bf\u30fc\u30fb\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9 - Solo",
+      "url": "https://open.spotify.com/track/1fI9vslIQpY8PYSbO5tlL9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live With Jake Shimabukuro",
+        "url": "https://open.spotify.com/album/2PwQ4z0rIku4NEEkIVL0so"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 214631,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/7IHqxgfRBmjWe0XErLOEsS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Learn to Let Go",
         "url": "https://open.spotify.com/album/6A0H4yzf2rXgtK6RTKZPMF"
       },
@@ -855,54 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30d5\u30e9\u30ac\u30fc\u30eb\u3000-\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af-",
-        "url": "https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 116426,
-      "name": "\u30b0\u30e9\u30c7\u30e5\u30a8\u30fc\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/3lEIwrld3ahz9tAlNQAyq7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live With Jake Shimabukuro",
-        "url": "https://open.spotify.com/album/2PwQ4z0rIku4NEEkIVL0so"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 214631,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/7IHqxgfRBmjWe0XErLOEsS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30a6\u30a9\u30fc\u30ad\u30f3\u30b0\u30fb\u30c0\u30a6\u30f3\u30fb\u30ec\u30a4\u30f3\u30d2\u30eb",
-        "url": "https://open.spotify.com/album/5UouzqwCT3k6kOvAI3HtC6"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 164906,
-      "name": "\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8 - \u30ea\u30d7\u30ea\u30fc\u30b9",
-      "url": "https://open.spotify.com/track/16sJhBAwKFfXO8HEjGsh6m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brickman Across America: Heart and Soul of American Music",
         "url": "https://open.spotify.com/album/02SZD1s8U4VJ2aCPXBXzr8"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 246647,
       "name": "Hawaii Rain",
       "url": "https://open.spotify.com/track/0YDWWwtms7jztv2tLBJi5p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30a6\u30a9\u30fc\u30ad\u30f3\u30b0\u30fb\u30c0\u30a6\u30f3\u30fb\u30ec\u30a4\u30f3\u30d2\u30eb",
+        "url": "https://open.spotify.com/album/5UouzqwCT3k6kOvAI3HtC6"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 164906,
+      "name": "\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8 - \u30ea\u30d7\u30ea\u30fc\u30b9",
+      "url": "https://open.spotify.com/track/16sJhBAwKFfXO8HEjGsh6m"
     },
     {
       "added_at": null,

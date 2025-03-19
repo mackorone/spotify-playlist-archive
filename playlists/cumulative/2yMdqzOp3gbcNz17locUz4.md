@@ -4,7 +4,7 @@
 
 > furry, ΘΔ, indie\. Cover: <a href="https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH?si=xKEjvLs9Qz2sC0ciFa1\-9Q">GABUISLOST</a> \|\| Visit our <a href="https://indieanthro.com">website</a> for more ✨
 
-167 songs - 8 hr 48 min
+168 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [silly dancers & necromancers](https://open.spotify.com/track/3j98I7tc7XzE4nOeQwbYuB) | [Starri](https://open.spotify.com/artist/5bpxCCdYWV0fZxJhrZEye5) | [B4EVER](https://open.spotify.com/album/2C1hIryExseP7EjpqHIh08) | 2:06 | 2024-12-28 |  |
 | [Slow Start](https://open.spotify.com/track/2XHym52UhEAbxSymPMUV64) | [Keep it Together](https://open.spotify.com/artist/3ofzJ1WKyqzCkAQLC9SIA8) | [Departures](https://open.spotify.com/album/0UxfpuOL93usUyfqRodI2Y) | 3:50 | 2025-01-31 |  |
 | [SLOWDANCE](https://open.spotify.com/track/1uMf1CtoOAetmkoDe5uRXP) | [Shinemachine](https://open.spotify.com/artist/54UmANd8X3X3hrK78sdGaD) | [Shinemachine](https://open.spotify.com/album/4MvnA2bRmpUxwzsgpaUrlA) | 4:01 | 2024-10-07 |  |
+| [slugs, shells, pellets](https://open.spotify.com/track/0vz83YM6YiPaHn8W9gIIhm) | [weareallmadeofstardust](https://open.spotify.com/artist/11Pqmw0qGx32PYZI49hCMi) | [Do You Ever Stop Whining ?](https://open.spotify.com/album/3VUhus5UNV3p7Y5hY1uYue) | 3:12 | 2025-03-18 |  |
 | [Snow](https://open.spotify.com/track/0511sFKHLfWzdwcfMhbDIJ) | [Bałtyk](https://open.spotify.com/artist/6DvaD5SDKpAtta09armsv9) | [Hope You Can Hear Me Now](https://open.spotify.com/album/4eHctZOtL6X6DixAKYvGfM) | 4:36 | 2024-06-21 |  |
 | [soldier](https://open.spotify.com/track/6SiCWN504BjsrltC65gCyL) | [ghostsocial](https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN) | [mutt county](https://open.spotify.com/album/4Jc4ExxRw4sMNLJWfgRzZr) | 1:30 | 2024-09-27 | 2025-03-01 |
 | [SOLO SO LONG!](https://open.spotify.com/track/1Z8ZEL5VBsrv3isNOiGVXu) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [SOLO SO LONG!](https://open.spotify.com/album/53bry5BJ4ftArb1VROy0fu) | 2:23 | 2024-10-25 | 2025-01-09 |

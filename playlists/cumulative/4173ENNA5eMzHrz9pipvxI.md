@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Tiësto &amp; Dyzen
 
-1,671 songs - 3 day 7 hr 53 min
+1,672 songs - 3 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Back N Forth](https://open.spotify.com/track/1lu9DGjufsxS6m7CnuL1An) | [SLVR](https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU) | [Back N Forth](https://open.spotify.com/album/0DGlrQi4k2PkBTXiZ0Bbre) | 2:12 | 2023-02-17 | 2023-02-25 |
 | [Back Once More](https://open.spotify.com/track/2RRClVP1ldNEGKNtEChgA9) | [PAJANE](https://open.spotify.com/artist/3xur0inruYquZ8zO73xq1q) | [Back Once More](https://open.spotify.com/album/3CLW4u9uTV6pFMsPYrJSIk) | 2:15 | 2022-07-01 | 2022-07-16 |
 | [Back Room](https://open.spotify.com/track/4FBQrJOZoZHAZpUemTSnde) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8), [Dissolut](https://open.spotify.com/artist/00qEejZyY0fO6WFTRtuCVO) | [Back Room](https://open.spotify.com/album/779eU0pmBcfnKgVi8KHYZl) | 2:50 | 2022-08-05 | 2022-08-20 |
+| [Back To Life](https://open.spotify.com/track/1FA0Adwe8FnRNpja1KYyT5) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Back To Life](https://open.spotify.com/album/4rTrhYf2Z7DZG91fQstCkW) | 3:33 | 2025-03-18 |  |
 | [Bad Boys](https://open.spotify.com/track/0JPcvd0v324wxse9XhvT7a) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Alex O'Clock](https://open.spotify.com/artist/2K91we4sYTdu2m0nRdO940) | [Bad Boys](https://open.spotify.com/album/1h91E7DWJbcg7YVuCmXReC) | 2:16 | 2024-05-16 | 2024-05-24 |
 | [Bad Girls](https://open.spotify.com/track/3RmEZBzLtImE9xRTcBXA0N) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5) | [Bad Girls](https://open.spotify.com/album/6KY6rpMQKmsgm6uUuVLGop) | 2:19 | 2022-08-19 | 2022-09-03 |
 | [Bad Like That](https://open.spotify.com/track/7sxFEiy7tnFAbO4OSGHcqr) | [NightFunk](https://open.spotify.com/artist/1UgUBnYpGyrYfGIfkMp08O) | [Bad Like That](https://open.spotify.com/album/0me3KoXDHPItPsYgBZ5edV) | 3:52 | 2022-06-03 | 2022-06-20 |
@@ -739,7 +740,7 @@
 | [It Burns](https://open.spotify.com/track/1ErBChhaYaWQuQ4zdnnx8C) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [It Burns \- EP](https://open.spotify.com/album/2Ez7bO7GYBLHsgXdApOnl2) | 3:12 | 2023-05-11 | 2023-05-26 |
 | [It Doesn't Matter](https://open.spotify.com/track/5I9JYEaXmKsrHlXsnvNYjd) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD) | [It Doesn't Matter](https://open.spotify.com/album/60pKd4GWa9RYzVRspilfHg) | 2:24 | 2023-02-24 | 2023-03-04 |
 | [It's A Hard Knock Life \- Prezioso Remix](https://open.spotify.com/track/2ibx46fwgGe3u2pirSgjj7) | [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [It's A Hard Knock Life \(Prezioso Remix\)](https://open.spotify.com/album/6SNomlenerzizegZNU4yoU) | 2:29 | 2022-06-17 | 2022-07-02 |
-| [It’s Not You It’s Me](https://open.spotify.com/track/0ldXe2ULoYmo3rOVDNqv8f) | [Solven](https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd) | [It’s Not You It’s Me](https://open.spotify.com/album/33DT8RcrU5J6JDHCrHlHyU) | 2:49 | 2025-03-14 |  |
+| [It's Not You, It's Me](https://open.spotify.com/track/0ldXe2ULoYmo3rOVDNqv8f) | [Solven](https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd) | [It's Not You, It's Me](https://open.spotify.com/album/33DT8RcrU5J6JDHCrHlHyU) | 2:49 | 2025-03-14 |  |
 | [iY\-Yi \(feat\. Takunda\)](https://open.spotify.com/track/5bVhd4sLxWGpx7twMqxr93) | [William Last KRM](https://open.spotify.com/artist/5TIgVeqYHwf9v56rySzVRw), [Takunda](https://open.spotify.com/artist/4acGGY0Q49aj0M5I6KrRP7) | [iY\-Yi \(feat\. Takunda\)](https://open.spotify.com/album/2EJZlhZ7y8UrTFiP2yXlQZ) | 3:02 | 2022-07-01 | 2022-07-16 |
 | [Jack & Jolene](https://open.spotify.com/track/2c7WkFr3D8VxHDsG6W3Hd5) | [Basstian](https://open.spotify.com/artist/4eSY2mrbzDfUKawV0DaeZd), [Justmylørd](https://open.spotify.com/artist/58sypdKE0jQGon7SqrHyTo), [João Faria](https://open.spotify.com/artist/1jBojFT8egA5XQrSwUUFRA) | [Jack & Jolene](https://open.spotify.com/album/2pwYfH1sHdL3rsc5mdIsOr) | 2:37 | 2022-09-30 | 2022-10-14 |
 | [Jacking](https://open.spotify.com/track/7KuKfd8wgecJT18v1fplRN) | [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG) | [Jacking](https://open.spotify.com/album/4C58HM2kpSaibjH3FMn5fc) | 3:01 | 2022-10-14 | 2022-10-28 |

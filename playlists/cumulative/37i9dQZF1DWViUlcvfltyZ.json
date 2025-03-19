@@ -2981,6 +2981,28 @@
     },
     {
       "album": {
+        "name": "Bulma",
+        "url": "https://open.spotify.com/album/1TDDVYkg5RoJmuq7Ef7kIa"
+      },
+      "artists": [
+        {
+          "name": "Garda 1990",
+          "url": "https://open.spotify.com/artist/05uhPVxB57fPfp234c3lSC"
+        },
+        {
+          "name": "Sick Tamburo",
+          "url": "https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152790,
+      "name": "Bulma",
+      "url": "https://open.spotify.com/track/3Zo1U4KNLUIIP3OlgZApPc"
+    },
+    {
+      "album": {
         "name": "Small Talk",
         "url": "https://open.spotify.com/album/66AjMxQjNL85pbYBV4fFL8"
       },

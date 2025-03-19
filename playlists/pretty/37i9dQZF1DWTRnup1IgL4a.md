@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,786 likes - 130 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,815 likes - 130 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,18 +14,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 | 4 | [Crimson sunset](https://open.spotify.com/track/0MaFpCeo9BL7M9arKLdThw) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Crimson sunset](https://open.spotify.com/album/4elmegwwSrsoIqpqL0ZLYg) | 2:37 |
 | 5 | [Husker](https://open.spotify.com/track/6sj9EO7zIISy4ZOreagxeR) | [David Isner](https://open.spotify.com/artist/2WGXK53ulKkW9Cmi7anYRI) | [Husker](https://open.spotify.com/album/3kFF1dznSHdC8Y2nD7KeF5) | 2:31 |
 | 6 | [The Space Between Us](https://open.spotify.com/track/7ltsUby2slylSm4sourcaO) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [The Space Between Us](https://open.spotify.com/album/1lN1xuGaayIqMdbh2EpuVN) | 2:11 |
-| 7 | [The Mural](https://open.spotify.com/track/5M9bPsknT89l9tVjCh8kSI) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Mural](https://open.spotify.com/album/0oCHjXHrYiPoVLjHYnum88) | 2:08 |
+| 7 | [Soft Rain](https://open.spotify.com/track/3XVYaiSb0e492iJuyfOrd4) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Soft Rain](https://open.spotify.com/album/1wt6ILOvZuZrvbVYb94PXP) | 2:13 |
 | 8 | [Saint Placide](https://open.spotify.com/track/3pdhKb8GivqG4PVhNujVu8) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Saint Placide](https://open.spotify.com/album/3b247w7f2QfCQgTMpuppup) | 2:35 |
-| 9 | [Soft Rain](https://open.spotify.com/track/3XVYaiSb0e492iJuyfOrd4) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Soft Rain](https://open.spotify.com/album/1wt6ILOvZuZrvbVYb94PXP) | 2:13 |
-| 10 | [Undisclosed](https://open.spotify.com/track/4dhFpcYkC1ZPoWOZk8vibv) | [Cécile Rose](https://open.spotify.com/artist/2j8mNHrkExvwIQGsEdsTcP) | [Undisclosed](https://open.spotify.com/album/5aEic1eQ20DIc4ZJ9QyA6U) | 2:09 |
-| 11 | [Albatroz](https://open.spotify.com/track/6pkOGtH05w1pZh7oF7l7rA) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Albatroz](https://open.spotify.com/album/5erw9xZgmumf9gY3BuDpDb) | 2:41 |
-| 12 | [The Still Shore](https://open.spotify.com/track/2tmplG2gm71y0F5hFruGri) | [Ivan Pirman](https://open.spotify.com/artist/76BMzkMBbRiZ6WuWDOUPNg) | [The Still Shore](https://open.spotify.com/album/3hO07xFDZ9ZKjsFOd5GwTU) | 2:14 |
+| 9 | [Albatroz](https://open.spotify.com/track/6pkOGtH05w1pZh7oF7l7rA) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Albatroz](https://open.spotify.com/album/5erw9xZgmumf9gY3BuDpDb) | 2:41 |
+| 10 | [The Still Shore](https://open.spotify.com/track/2tmplG2gm71y0F5hFruGri) | [Ivan Pirman](https://open.spotify.com/artist/76BMzkMBbRiZ6WuWDOUPNg) | [The Still Shore](https://open.spotify.com/album/3hO07xFDZ9ZKjsFOd5GwTU) | 2:14 |
+| 11 | [The Mural](https://open.spotify.com/track/5M9bPsknT89l9tVjCh8kSI) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Mural](https://open.spotify.com/album/0oCHjXHrYiPoVLjHYnum88) | 2:08 |
+| 12 | [Undisclosed](https://open.spotify.com/track/4dhFpcYkC1ZPoWOZk8vibv) | [Cécile Rose](https://open.spotify.com/artist/2j8mNHrkExvwIQGsEdsTcP) | [Undisclosed](https://open.spotify.com/album/5aEic1eQ20DIc4ZJ9QyA6U) | 2:09 |
 | 13 | [Casting Shadows](https://open.spotify.com/track/2BOy2Kv6cEOv7SOl9XYDWW) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Casting Shadows](https://open.spotify.com/album/1taI73hX4GC0HzNJAWd9sg) | 3:12 |
-| 14 | [The Masks](https://open.spotify.com/track/6Yc14KO3pRPusbPrXbhTXW) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Masks](https://open.spotify.com/album/3nelL7cD1n3JL1NZOGVMyb) | 2:37 |
-| 15 | [Beautiful Water](https://open.spotify.com/track/6rSI1ju36TtwzqvHpzpZEy) | [Cecil Noss](https://open.spotify.com/artist/6txsRmyLk0moX5OAgIN95x) | [Beautiful Water](https://open.spotify.com/album/2jou4IaNXgV4NxDbvYEvxg) | 2:58 |
-| 16 | [Silhouette Skies](https://open.spotify.com/track/78C9AYb8YTvptbLb5BxK8U) | [Enzo Costa](https://open.spotify.com/artist/08bZKTxSPaQAvmzc5YvDAQ) | [Silhouette Skies](https://open.spotify.com/album/5fUeEN4zSwvSAUDGCpdekb) | 2:39 |
-| 17 | [Meadows](https://open.spotify.com/track/1808M1IEnm8OFn0FDQvJDm) | [Faelt](https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX) | [Meadows](https://open.spotify.com/album/6HVfGn8vy3W6zFcpf3Oz2b) | 3:22 |
-| 18 | [Silent Ridge](https://open.spotify.com/track/6kVuf8HWMytcy6LHMfXxyG) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Silent Ridge](https://open.spotify.com/album/18I4PeFcnSBgm77OKMdGdy) | 2:33 |
+| 14 | [Silhouette Skies](https://open.spotify.com/track/78C9AYb8YTvptbLb5BxK8U) | [Enzo Costa](https://open.spotify.com/artist/08bZKTxSPaQAvmzc5YvDAQ) | [Silhouette Skies](https://open.spotify.com/album/5fUeEN4zSwvSAUDGCpdekb) | 2:39 |
+| 15 | [The Masks](https://open.spotify.com/track/6Yc14KO3pRPusbPrXbhTXW) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Masks](https://open.spotify.com/album/3nelL7cD1n3JL1NZOGVMyb) | 2:37 |
+| 16 | [Beautiful Water](https://open.spotify.com/track/6rSI1ju36TtwzqvHpzpZEy) | [Cecil Noss](https://open.spotify.com/artist/6txsRmyLk0moX5OAgIN95x) | [Beautiful Water](https://open.spotify.com/album/2jou4IaNXgV4NxDbvYEvxg) | 2:58 |
+| 17 | [Silent Ridge](https://open.spotify.com/track/6kVuf8HWMytcy6LHMfXxyG) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Silent Ridge](https://open.spotify.com/album/18I4PeFcnSBgm77OKMdGdy) | 2:33 |
+| 18 | [Meadows](https://open.spotify.com/track/1808M1IEnm8OFn0FDQvJDm) | [Faelt](https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX) | [Meadows](https://open.spotify.com/album/6HVfGn8vy3W6zFcpf3Oz2b) | 3:22 |
 | 19 | [Unspoken](https://open.spotify.com/track/5W3wbuaJXsYrO9VfcKiHH4) | [Hayden Phoenix](https://open.spotify.com/artist/50RQSrhyCEESbROELBFA3r) | [Unspoken](https://open.spotify.com/album/4DHUitOJqpemgWNBgAe1Ve) | 2:28 |
 | 20 | [Daybreak](https://open.spotify.com/track/07N5NE0fL2Mr8GZ3CZNxoD) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Daybreak](https://open.spotify.com/album/0ClB01rHJW4BkMmxxUOli2) | 2:14 |
 | 21 | [Stillness](https://open.spotify.com/track/6LjrczTRiY4ZWG85vdD3W5) | [Mattias Blom](https://open.spotify.com/artist/1BaxgJpBm81CBBpUhRnVO9) | [Stillness](https://open.spotify.com/album/7g1FCiurDarlhgX1EhSnMx) | 2:40 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 | 129 | [The Visitor](https://open.spotify.com/track/10pWsW6PgcElqhHBIRPoea) | [Henry Windon](https://open.spotify.com/artist/6DQOxNdaDC3E2vfbUjpTNH) | [The Visitor](https://open.spotify.com/album/5OMtHhYzhag9BwO9YZ0tRs) | 2:07 |
 | 130 | [Night Route](https://open.spotify.com/track/5v2bNil9KFJXcwsBAup9lf) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [Night Route](https://open.spotify.com/album/5ExiMJ4mQ24kmLN1Gl9WHJ) | 2:21 |
 
-Snapshot ID: `Z9AJ2wAAAACxj1lk/jE/rPVF7Qh1JeMq`
+Snapshot ID: `Z9k8cwAAAAAEs2p68/YGMBNOhtwxJQJb`

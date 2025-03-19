@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover: 鄧小巧
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,732 likes - 464 songs - 1 day 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,735 likes - 464 songs - 1 day 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

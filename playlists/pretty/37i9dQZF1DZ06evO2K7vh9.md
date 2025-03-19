@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 
 > This is Lil Tecca\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,266 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,404 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 45 | [Dolly \(with Lil Uzi Vert\)](https://open.spotify.com/track/77Xwqkw7VrV8E5FCq9JhO8) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 2:59 |
 | 46 | [Treesha](https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Treesha](https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy) | 1:45 |
 | 47 | [CHOPPA SHOOT THE LOUDEST \(with Chief Keef, feat.Trippie Redd\)](https://open.spotify.com/track/2MyQK6cKu9IAzNXiBm7TD0) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 4:01 |
-| 48 | [Never Again \(feat\. Lil Tecca\)](https://open.spotify.com/track/4r2RvehxpkkOYkMUyUXpkx) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Proud Of Myself](https://open.spotify.com/album/0wEkiIBzTdP3BWpq0YhUYP) | 3:09 |
-| 49 | [prada \(Remix\) \(feat\. Lil Tecca\)](https://open.spotify.com/track/6W1aqjLCj3O4M1Pko8Bq6f) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [prada \(Remix\)](https://open.spotify.com/album/33mzi9tnIWkjOQYIi7b242) | 1:52 |
+| 48 | [prada \(Remix\) \(feat\. Lil Tecca\)](https://open.spotify.com/track/6W1aqjLCj3O4M1Pko8Bq6f) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [prada \(Remix\)](https://open.spotify.com/album/33mzi9tnIWkjOQYIi7b242) | 1:52 |
+| 49 | [Never Again \(feat\. Lil Tecca\)](https://open.spotify.com/track/4r2RvehxpkkOYkMUyUXpkx) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Proud Of Myself](https://open.spotify.com/album/0wEkiIBzTdP3BWpq0YhUYP) | 3:09 |
 | 50 | [She Want Some More \(feat\. Ken Carson\)](https://open.spotify.com/track/6MXlAZuSUsbKAN68ErtWj5) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Ken Carson](https://open.spotify.com/artist/6BURJsrwD35kYYZlpMw2Xs) | [She Want Some More \(feat\. Ken Carson\)](https://open.spotify.com/album/2MNgdTVRIyedTK7n3Ej46C) | 3:04 |
 
-Snapshot ID: `Z9YUgAAAAACi6tDoA1uL/R/QTjUQgasI`
+Snapshot ID: `Z9dmAAAAAAAD5k0DGydrzIx5z+mtaYX9`

@@ -2,9 +2,9 @@
 
 ### [Women of Anime](https://open.spotify.com/playlist/37i9dQZF1DXblYBkrEcpLK)
 
-> Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: TOGENASHITOGEARI トゲナシトゲアリ
+> Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Nana Mizuki 水樹奈々
 
-742 songs - 2 day 1 hr 17 min
+743 songs - 2 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,7 @@
 | [Silky Heart](https://open.spotify.com/track/3qwaCcjR2r977dmeNHsyWt) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [Best Album](https://open.spotify.com/album/0Dn3MxWI1u4fzRtXX955MD) | 3:58 | 2022-06-14 | 2022-06-19 |
 | [Sincerely](https://open.spotify.com/track/4thBZp9kEDqeSwLtwcAZgk) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Lonely Queen's Liberation Party](https://open.spotify.com/album/4QP8jwitKgzWaNONjLof5h) | 4:35 | 2022-06-09 | 2024-02-14 |
 | [Skyreach](https://open.spotify.com/track/427vfPt3SW5ZhtCqwajhaT) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [Various BLUE](https://open.spotify.com/album/5rpTgoIEM03GbTQ6kyXxT0) | 4:28 | 2022-08-02 | 2023-01-06 |
-| [Snow halation \- From CrosSing](https://open.spotify.com/track/4SIzU7Ve2yie7PMzIfL0WL) | [新田恵海](https://open.spotify.com/artist/379SB9OTZ8TnUfCYsTxF9y) | [Snow halation \- From CrosSing](https://open.spotify.com/album/3N1C10GQCPbCH3v84R52iC) | 4:18 | 2025-02-11 |  |
+| [Snow halation \- From CrosSing](https://open.spotify.com/track/4SIzU7Ve2yie7PMzIfL0WL) | [新田恵海](https://open.spotify.com/artist/379SB9OTZ8TnUfCYsTxF9y) | [Snow halation \- From CrosSing](https://open.spotify.com/album/3N1C10GQCPbCH3v84R52iC) | 4:18 | 2025-02-11 | 2025-03-19 |
 | [Snow Tears](https://open.spotify.com/track/01zfaWg8i0Xpg0oCnU6bvU) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [Day of Bright Sunshine](https://open.spotify.com/album/4XapCPKTWCYcIEXoWsfguK) | 4:30 | 2022-07-07 | 2022-07-24 |
 | [snowspring](https://open.spotify.com/track/7tonj11VpAOhsOH7QgJPhq) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [snowspring](https://open.spotify.com/album/6097pqjwHjLkbbWj30WQmt) | 3:42 | 2024-02-13 | 2024-04-29 |
 | [So Precious](https://open.spotify.com/track/1xq5OxDUGhqBFXgjC9TGPK) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [So Precious](https://open.spotify.com/album/6LexuWYpwKbdy00OH8l9Xk) | 3:29 | 2024-07-03 | 2024-07-10 |
@@ -381,7 +381,7 @@
 | [Welcome!](https://open.spotify.com/track/5kcPYZhmbe7M7rcO3bI9PV) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [Welcome!](https://open.spotify.com/album/2KlzKHbKhBL8n3jWNUnUfd) | 3:14 | 2023-10-24 | 2023-11-18 |
 | [What's your Identity?](https://open.spotify.com/track/6ZYS22xpIw2AIDzpL6ZFp7) | [Sae Otsuka](https://open.spotify.com/artist/5GRsTGu3LNc4NlgG5Osobv) | [アバンタイトル](https://open.spotify.com/album/2eC8tp47jsNKiB8c3YmR4B) | 3:42 | 2022-06-24 | 2022-07-07 |
 | [White Lyrical Kingdom](https://open.spotify.com/track/2lZZCsLdqbkCtEADTsx9w1) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [White Lyrical Kingdom](https://open.spotify.com/album/4QC4x75GRyTk1btQkxUWZS) | 4:44 | 2023-11-16 | 2023-11-23 |
-| [With a Wish](https://open.spotify.com/track/1HmfIpFrfILvJLYJKGBH8z) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [With a Wish](https://open.spotify.com/album/7Ewp3pc0xqGmdTCQDz5Aeq) | 3:50 | 2025-03-11 |  |
+| [With a Wish](https://open.spotify.com/track/1HmfIpFrfILvJLYJKGBH8z) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [With a Wish](https://open.spotify.com/album/7Ewp3pc0xqGmdTCQDz5Aeq) | 3:50 | 2025-03-11 | 2025-03-19 |
 | [with me](https://open.spotify.com/track/5YVoKdp1k9loRXBDz07ftR) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [with me](https://open.spotify.com/album/3kECOWXvCjb8uR8vqukYls) | 3:48 | 2024-04-16 | 2024-05-29 |
 | [YAMAZAKURA](https://open.spotify.com/track/16sWvf8J80qCiiBUKpBLIN) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [サイダーのように言葉が湧き上がる オリジナル・サウンドトラック](https://open.spotify.com/album/6pxDZTN1fMAzDOb0VEJ5s8) | 4:51 | 2022-07-07 | 2022-07-23 |
 | [YESとNOの間に](https://open.spotify.com/track/39RrY70qJFGRvOK51z5Mbw) | [22/7](https://open.spotify.com/artist/7tn9UjhRgGnDjOWOXuzIgZ) | [YESとNOの間に](https://open.spotify.com/album/3QIha5QmzCBlUuGS87bdHr) | 4:10 | 2024-08-03 | 2024-08-23 |
@@ -511,7 +511,7 @@
 | [タルヒ](https://open.spotify.com/track/6UX5gT61Lw3bz8mRM7K6jn) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [narrow](https://open.spotify.com/album/7jwJgkGWSepDEsapqf1E3h) | 3:44 | 2022-06-09 | 2022-07-24 |
 | [ダイスキ。](https://open.spotify.com/track/4i05yRq3HPOqm0rAE8QrE3) | [大橋彩香](https://open.spotify.com/artist/74VIJfMSLnKe5eU3yvv2RT) | [WINGS](https://open.spotify.com/album/6mzr5fb350NIRtnT4lKhVC) | 4:07 | 2022-06-12 | 2022-06-26 |
 | [チカっとチカ千花っ](https://open.spotify.com/track/31E8YKD0j4cI1R0gfocCtb) | [藤原千花\(CV:小原好美\)](https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 2:58 | 2022-06-09 | 2025-01-21 |
-| [チキチキバンバン](https://open.spotify.com/track/7xm0KJMfeaJQmQdDxAipiY) | [QUEENDOM](https://open.spotify.com/artist/6IW91qUpcrhbGuZxubrG70) | [チキチキバンバン](https://open.spotify.com/album/1BWf1vYaM0zNWE6uuFFcvF) | 3:22 | 2022-06-09 | 2025-02-12 |
+| [チキチキバンバン](https://open.spotify.com/track/7xm0KJMfeaJQmQdDxAipiY) | [QUEENDOM](https://open.spotify.com/artist/6IW91qUpcrhbGuZxubrG70) | [チキチキバンバン](https://open.spotify.com/album/1BWf1vYaM0zNWE6uuFFcvF) | 3:22 | 2022-06-09 |  |
 | [テディ](https://open.spotify.com/track/2OjJCrpKXpMH7UWYNAVsZX) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [テディ](https://open.spotify.com/album/4HXAOO5FXlE0T3Y2PvNJgv) | 4:45 | 2022-06-14 | 2022-07-29 |
 | [ディア・パンタレイ](https://open.spotify.com/track/4nMTH2T9Cj4jxLCF8fLigp) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ディア・パンタレイ](https://open.spotify.com/album/3OnnSAL9s1IWt1vR622lyI) | 4:12 | 2024-02-20 | 2024-03-27 |
 | [デビきゅー](https://open.spotify.com/track/6J3gSl9trhgr55W9wpNHRK) | [Yu Serizawa](https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP) | [デビきゅー](https://open.spotify.com/album/0OSFzXPDtVqUiiVAEa5A7H) | 3:36 | 2022-07-07 | 2022-07-10 |
@@ -639,6 +639,7 @@
 | [愛故](https://open.spotify.com/track/5tVHc3sHss7o3gwBiMo24D) | [むﾄ](https://open.spotify.com/artist/38gt1AsY6ZhEtrOP7e94ui) | [愛故](https://open.spotify.com/album/3kZzmKM5IwUyYStjHFTGoG) | 3:44 | 2024-01-30 | 2024-02-14 |
 | [憧れをいっぱい](https://open.spotify.com/track/2isCWO5dMBDzyLscHVoJIO) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [高木龍一](https://open.spotify.com/artist/0MOmJmB3YdUmRsAG2bwjh2), [倉本千奈](https://open.spotify.com/artist/5ziidtfez7ZP5x9nU7Ytsv) | [憧れをいっぱい](https://open.spotify.com/album/4bfFfcHJsG1ZQ35hzbVT9a) | 4:48 | 2024-08-22 | 2024-09-13 |
 | [打上花火](https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [打上花火](https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS) | 4:49 | 2022-07-28 | 2024-02-14 |
+| [拍動](https://open.spotify.com/track/0zn5uqcWGguTDw5c7tIHMB) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [CONTEMPORARY EMOTION](https://open.spotify.com/album/01KRguA9zLTOZeutYFHsbZ) | 3:10 | 2025-03-18 |  |
 | [拝啓、わたしへ](https://open.spotify.com/track/5b34ld3EjSkD6b0gCc8yxC) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [拝啓、わたしへ](https://open.spotify.com/album/6qHp8By4YBR4N64lffM54n) | 4:31 | 2024-04-23 | 2024-05-22 |
 | [指先ハート](https://open.spotify.com/track/3vwoUh3UV9y5IqDSb5D6Us) | [大西亜玖璃](https://open.spotify.com/artist/6aUFQSt39umq1GsNbYu4u3) | [夢で逢えなくても／指先ハート](https://open.spotify.com/album/5MPA4vZpUId6YaKiMNt9vB) | 4:02 | 2023-10-24 | 2023-11-18 |
 | [数センチメンタル](https://open.spotify.com/track/3qujwlukYDnnW8YMhDuUMf) | [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw) | [数センチメンタル](https://open.spotify.com/album/6DrKTI77wgOlpMPcCKPAqY) | 3:06 | 2023-04-11 | 2024-05-02 |

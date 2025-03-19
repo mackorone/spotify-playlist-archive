@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY77tub05nHz.md) - [plain]
 
 > Vos enfants les connaissent par coeur\. Et vous ?
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,284 likes - 38 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,289 likes - 38 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

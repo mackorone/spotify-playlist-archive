@@ -2185,6 +2185,24 @@
     },
     {
       "album": {
+        "name": "S",
+        "url": "https://open.spotify.com/album/6QTpBMKMIa2OFMqZBQu2Pm"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2025-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179391,
+      "name": "BEBE",
+      "url": "https://open.spotify.com/track/5iXD5rOKV99XGtkaiucHpM"
+    },
+    {
+      "album": {
         "name": "CHIMIRO VOL.1",
         "url": "https://open.spotify.com/album/1rbStC1P0naeSLzdWxnf32"
       },

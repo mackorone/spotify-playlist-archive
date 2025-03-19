@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover artist: Tiffy Vera, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,218,841 likes - 150 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,218,848 likes - 150 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 42 | [Still Small Voice](https://open.spotify.com/track/0N0bFgkkvD6sIX8PfJ1Ywi) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Still Small Voice](https://open.spotify.com/album/499GkCyuTPX1U2BXhSDBon) | 3:25 |
 | 43 | [THAT](https://open.spotify.com/track/1p1EPGPu3kZLAyNKHiRPdJ) | [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb) | [Wrist In Gauze](https://open.spotify.com/album/6sRwKps4fBqEnN5qixgEib) | 1:14 |
 | 44 | [BABYMAN](https://open.spotify.com/track/0ijCqg7FRUx5RPcEAESmGY) | [Sonic Reducer](https://open.spotify.com/artist/4fSqBIjaypPHHyGIkrebEL) | [BABYMAN](https://open.spotify.com/album/3LMtIYgD4rorW666pMFqbc) | 2:49 |
-| 45 | [just a body](https://open.spotify.com/track/30F3ZCz9WPqOdFerPIvw76) | [RVE](https://open.spotify.com/artist/4xXhVe5E4Vtd9qV47tQomY) | [Howlin'](https://open.spotify.com/album/1IiNYhuv5Z74SJpBzO3SLK) | 3:28 |
+| 45 | [just a body](https://open.spotify.com/track/30F3ZCz9WPqOdFerPIvw76) | [RVE](https://open.spotify.com/artist/4xXhVe5E4Vtd9qV47tQomY) | [just a body](https://open.spotify.com/album/1IiNYhuv5Z74SJpBzO3SLK) | 3:28 |
 | 46 | [Do You Wrong](https://open.spotify.com/track/1fVMPkM0jXEZQj9s9GXWzw) | [Desmond](https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY) | [Do You Wrong](https://open.spotify.com/album/3UIwnlyuYiCSXk0WL6nKL2) | 3:46 |
 | 47 | [ATOH](https://open.spotify.com/track/6BKmFihMaaJ0G9blWUxxQJ) | [シャッポ](https://open.spotify.com/artist/0gcK8vIyzGRwvNeHkCZgFz) | [ATOH](https://open.spotify.com/album/60ebnNELMQExY2T8HvVyn2) | 4:29 |
 | 48 | [STITCHES](https://open.spotify.com/track/19Lmd19zNpjx2EYgnPKWDl) | [Scar](https://open.spotify.com/artist/3DyUi3wp8COAWvHHd1Qq7H) | [STITCHES](https://open.spotify.com/album/3cVN0AYpfE4AsgV3mWPiuT) | 4:14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bwDxS.md) - [plain]
 
 > This is Sabrina Carpenter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,329 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,890 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bwDxS.md) - [plain]
 | 28 | [Lonesome](https://open.spotify.com/track/0HYhOGKAHiOsv8GW4JdMJ8) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:07 |
 | 29 | [Why](https://open.spotify.com/track/1byScELwcJffsdL5QWa6Yk) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Why](https://open.spotify.com/album/55QjSqhCofvsx559gCIMI7) | 2:51 |
 | 30 | [Exhale](https://open.spotify.com/track/6CagMrZXJUdGGIw6Eaepos) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 2:44 |
-| 31 | [WOW \(feat\. Sabrina Carpenter\) \- Remix](https://open.spotify.com/track/5WokFKscrfGEGGLPTu3jgO) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [WOW \(feat\. Sabrina Carpenter\) \[Remix\]](https://open.spotify.com/album/1RE0ZZJkxSZXdkNac4lcJD) | 2:59 |
-| 32 | [Paris](https://open.spotify.com/track/359HNzfOXhCMHB1pNKhyfH) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 3:38 |
+| 31 | [Paris](https://open.spotify.com/track/359HNzfOXhCMHB1pNKhyfH) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 3:38 |
+| 32 | [WOW \(feat\. Sabrina Carpenter\) \- Remix](https://open.spotify.com/track/5WokFKscrfGEGGLPTu3jgO) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [WOW \(feat\. Sabrina Carpenter\) \[Remix\]](https://open.spotify.com/album/1RE0ZZJkxSZXdkNac4lcJD) | 2:59 |
 | 33 | [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 |
 | 34 | [Nonsense \- Sped Up Version](https://open.spotify.com/track/5KeI897tZgjezHKvxlaOaR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Nonsense \(Sped Up Version\)](https://open.spotify.com/album/23eBqMqUmcb1wcxuXfYw6k) | 2:17 |
 | 35 | [how many things](https://open.spotify.com/track/6NvlhDdVgFotNgPK30LM2T) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bwDxS.md) - [plain]
 | 49 | [We'll Be The Stars](https://open.spotify.com/track/7lqkNvVxJdYDCSAwSJNzHs) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Eyes Wide Open](https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df) | 3:06 |
 | 50 | [Pushing 20](https://open.spotify.com/track/1xMHC2XPuDyBWU1ULY7eMA) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 2:46 |
 
-Snapshot ID: `Z9YUgAAAAAC5mkwtyEsL6aCbabEU7iD4`
+Snapshot ID: `Z9dmAAAAAADsDjc3iR9S7hVYgDxTG0np`

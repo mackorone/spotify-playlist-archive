@@ -5651,6 +5651,24 @@
     },
     {
       "album": {
+        "name": "Candlelight",
+        "url": "https://open.spotify.com/album/6Jlk8pXHVrPuzVRM9gXz5S"
+      },
+      "artists": [
+        {
+          "name": "Poella",
+          "url": "https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60245,
+      "name": "Candlelight",
+      "url": "https://open.spotify.com/track/5gGpIi25h1SH3mrrTfIzlO"
+    },
+    {
+      "album": {
         "name": "Relaxing Piano, Vol. 2",
         "url": "https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM"
       },

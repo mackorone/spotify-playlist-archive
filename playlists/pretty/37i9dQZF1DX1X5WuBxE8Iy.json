@@ -1,13 +1,29 @@
 {
   "description": "Las mejores canciones de Princesas de Disney.",
-  "num_followers": 159183,
+  "num_followers": 159267,
   "original_name": "Disney Princesa Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0Uz2AAAAAD5umNI+wtAhg1WSO5sudFF",
+  "snapshot_id": "Z9niOgAAAAAtXf5yrHD4E3SF4QmkGmwa",
   "tracks": [
+    {
+      "added_at": "2025-03-18 21:14:34",
+      "album": {
+        "name": "Blanca Nieves (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/5P0ab0UkCa07CU0LNXdCSc"
+      },
+      "artists": [
+        {
+          "name": "Mariana D\u00e1vila",
+          "url": "https://open.spotify.com/artist/2KdBD7KTyXqgxu5klRWJbL"
+        }
+      ],
+      "duration_ms": 291586,
+      "name": "Un Deseo en M\u00ed",
+      "url": "https://open.spotify.com/track/76pSjb8dSV1ZQ05mGWGDvV"
+    },
     {
       "added_at": "2024-11-26 02:35:04",
       "album": {

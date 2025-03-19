@@ -4,7 +4,7 @@
 
 > All your girl crushes\(걸크러쉬\) in one place\. Cover: NMIXX
 
-524 songs - 1 day 3 hr 25 min
+525 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [BATTER UP](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BATTER UP](https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7) | 3:08 | 2023-12-04 |  |
 | [BBB](https://open.spotify.com/track/1Xj89xyCM5Edza6AqTpRuB) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [BXX](https://open.spotify.com/album/3xX7eBfa5HTqDZXepyvjfw) | 2:46 | 2024-03-19 | 2024-03-28 |
 | [BByong](https://open.spotify.com/track/5kVS7aNCn4N7X4zQ39auiK) | [Saturday](https://open.spotify.com/artist/4UeJgAodtmUXfxU1GoJUph) | [The 3rd Single Album 'IKYK'](https://open.spotify.com/album/2WWuzV3ig4U9SanbnkQWyM) | 3:29 | 2021-01-15 | 2022-04-18 |
+| [BEBE](https://open.spotify.com/track/5iXD5rOKV99XGtkaiucHpM) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [S](https://open.spotify.com/album/6QTpBMKMIa2OFMqZBQu2Pm) | 2:59 | 2025-03-19 |  |
 | [because I can not decide](https://open.spotify.com/track/3Vj6e7Fbyt0LqXiDxnd1qg) | [Jenyer](https://open.spotify.com/artist/05uheFGPahVh2nHIZK1KuB) | [the moment i loved](https://open.spotify.com/album/3KJwj3qcRvAXEiYDZ5IP88) | 3:27 | 2021-01-17 | 2022-04-21 |
 | [BIBI Vengeance](https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Lowlife Princess: Noir](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 2:45 | 2022-11-20 | 2024-04-19 |
 | [Bicycle](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:59 | 2021-02-28 | 2022-04-16 |
@@ -453,7 +454,7 @@
 | [Tippy Toes](https://open.spotify.com/track/1MKmSbQfJpEVnC3XfGywyF) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [Tippy Toes](https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w) | 3:08 | 2022-03-21 | 2022-07-28 |
 | [TMI](https://open.spotify.com/track/02si9gT8Hnst5aquHN6xid) | [HOT PLACE](https://open.spotify.com/artist/6gZNGW5Z8225h3C4F0vB0X) | [HOT PLACE](https://open.spotify.com/album/5EVQFFeaylvDkgYCzcpheQ) | 3:19 | 2021-02-26 | 2022-04-20 |
 | [To\. X](https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [To\. X \- The 5th Mini Album](https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD) | 2:50 | 2023-12-04 | 2024-10-16 |
-| [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2022-03-14 |  |
+| [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2022-03-14 | 2025-03-19 |
 | [Too young to die \(Prod\. FRANTS\)](https://open.spotify.com/track/4vYEpQ762uNTfIgZ6Rqyd2) | [HOOK](https://open.spotify.com/artist/3pS5aTs5sdGlypb1vVWhvA), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 2:55 | 2022-03-29 | 2022-04-21 |
 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 | 2024-07-26 |  |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-06 |  |
@@ -463,7 +464,7 @@
 | [Uh\-Oh](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Uh\-Oh](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) | 3:27 | 2021-01-15 | 2022-07-29 |
 | [UhUh](https://open.spotify.com/track/7DLH6I3RzLhMEiaOfahwbm) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Re:Scene](https://open.spotify.com/album/1C78MdRvc88435lTnGxGUF) | 3:22 | 2024-03-27 | 2024-04-03 |
 | [ULT](https://open.spotify.com/track/3XNXfOmvlsMxD3G5FWbzpj) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [ULT](https://open.spotify.com/album/0veNUIgNPdXFfJUmr3z7Lu) | 2:26 | 2024-02-15 | 2024-02-20 |
-| [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-05-01 | 2025-03-18 |
+| [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-05-01 |  |
 | [UNTOUCHABLE](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 3:14 | 2024-01-08 | 2024-07-17 |
 | [Up & Down](https://open.spotify.com/track/6BKOhvRPY54uvfqWwg7MKi) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [AH YEAH](https://open.spotify.com/album/54r8xseUAz0c9ORidjAKmZ) | 3:09 | 2021-02-28 | 2022-04-13 |
 | [UP \- KARINA Solo](https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 2:46 | 2024-10-10 |  |
@@ -513,7 +514,7 @@
 | [XXL](https://open.spotify.com/track/05QXjyZgsAq6J84J6SlbyV) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [XXL EP](https://open.spotify.com/album/0EbH9upNSg6zsdFZ8g11Yl) | 2:32 | 2024-03-27 | 2024-04-17 |
 | [XXXX](https://open.spotify.com/track/49jIwnU0pAUWorDG4ahISg) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 2:48 | 2022-07-13 | 2022-07-19 |
 | [YELLOW](https://open.spotify.com/track/70MvFJJYtpgklEmUofSSce) | [Lim Kim](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [GENERASIAN](https://open.spotify.com/album/3qtOtUcdfFRVzHoCQLrHQo) | 3:02 | 2021-03-02 | 2022-04-20 |
-| [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 | 2023-10-06 |  |
+| [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 | 2023-10-06 | 2025-03-19 |
 | [You can't sit with us](https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 3:17 | 2021-08-10 | 2022-07-27 |
 | [You, jam](https://open.spotify.com/track/5TQc5UXJqciohmOLbHDyEF) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Light a Wish](https://open.spotify.com/album/4rweatsYVwajSONjLE5Qi9) | 3:19 | 2021-10-23 | 2022-04-17 |
 | [youknowbetter 니가 더 잘 알잖아](https://open.spotify.com/track/1ej66Z3M6DfmoZeJCSrOxN) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [youknowbetter 니가 더 잘 알잖아](https://open.spotify.com/album/3uMVRM9uNZS8T26PhWwRwr) | 3:38 | 2021-02-26 | 2022-04-18 |

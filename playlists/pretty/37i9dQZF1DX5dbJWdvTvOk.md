@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 
 > Canciones instrumentales de guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,079 likes - 300 songs - 13 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,089 likes - 300 songs - 13 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,19 +12,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 | 2 | [Gambrels of the Sky](https://open.spotify.com/track/6AYKnVV6OEgnOreURn48Kt) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Gambrels of the Sky](https://open.spotify.com/album/4UwgahnCyZDBe2L0jJLGGR) | 2:09 |
 | 3 | [Confirmation](https://open.spotify.com/track/4fjlynkBlFfxY8qvZ75Yn1) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Confirmation](https://open.spotify.com/album/3DSrPW0S0FjoyzWjgP5RXS) | 2:39 |
 | 4 | [San Sebastian](https://open.spotify.com/track/6r9LaBQgUkbQzqjxCFQRVO) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [San Sebastian](https://open.spotify.com/album/0bCjvoW1iidtDENdbN0z1x) | 2:25 |
-| 5 | [Meliora](https://open.spotify.com/track/5Rcadz15kuvonMLJ6Oc8OF) | [Vita Alexander](https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz) | [Meliora](https://open.spotify.com/album/0ez2YoSEOUJJOgHDlprSxR) | 2:21 |
-| 6 | [Droplets](https://open.spotify.com/track/5dqXVZIkN8zzWQTStYGr0i) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [Droplets](https://open.spotify.com/album/3hgVEb5uOhSbwPnosbYMZt) | 2:22 |
+| 5 | [Droplets](https://open.spotify.com/track/5dqXVZIkN8zzWQTStYGr0i) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [Droplets](https://open.spotify.com/album/3hgVEb5uOhSbwPnosbYMZt) | 2:22 |
+| 6 | [Meliora](https://open.spotify.com/track/5Rcadz15kuvonMLJ6Oc8OF) | [Vita Alexander](https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz) | [Meliora](https://open.spotify.com/album/0ez2YoSEOUJJOgHDlprSxR) | 2:21 |
 | 7 | [Balo](https://open.spotify.com/track/3kWxlicl0tDchSb56IwAbf) | [Bergama](https://open.spotify.com/artist/0pBH0dXlXMOCgZ8KacxmxL) | [Balo](https://open.spotify.com/album/6a5RpBqYIEyNulXT8siCD2) | 2:35 |
 | 8 | [In Search of Gems](https://open.spotify.com/track/10Ilz6KAPyPnizZvNApmsf) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [In Search of Gems](https://open.spotify.com/album/3Fq4PRvtCZkVm7QbatRWvX) | 2:32 |
 | 9 | [Horizons](https://open.spotify.com/track/3blZZtbNZsv7GR1x2PWkYc) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Horizons](https://open.spotify.com/album/2Si9bFcCwJOPPxnPDoYetT) | 1:56 |
 | 10 | [Momentum](https://open.spotify.com/track/7mrg5cLVN0NkkIt9GqHYEt) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Momentum](https://open.spotify.com/album/4JKUVM28m3Iu8jN51TXpIz) | 2:35 |
 | 11 | [Light in the Shadows](https://open.spotify.com/track/79AfPJ1bT8wlAXkbUvAMzO) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Light in the Shadows](https://open.spotify.com/album/4VaMblRF0zOjnkpwu3dLFb) | 3:02 |
 | 12 | [La llegada de la primavera](https://open.spotify.com/track/1bk2bPAAFZGlaQE4uNxn3V) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [La llegada de la primavera](https://open.spotify.com/album/1q4vVhaVCoh9bNzs9ZhPkq) | 2:06 |
-| 13 | [The Game Changer](https://open.spotify.com/track/35CHmzwJtxFaX2jrTwxvSS) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [The Game Changer](https://open.spotify.com/album/1aRdcDtkN2qlomNDagQ85C) | 2:26 |
-| 14 | [Present in Time](https://open.spotify.com/track/39vFCMEPxWlD0HBts4fKRp) | [Enzo Costa](https://open.spotify.com/artist/08bZKTxSPaQAvmzc5YvDAQ) | [Present in Time](https://open.spotify.com/album/3oNoDzhVK91lRjBQOifgXW) | 2:29 |
-| 15 | [Another Time](https://open.spotify.com/track/5B86TJA6dpcXzZ7sh8wQpq) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Another Time](https://open.spotify.com/album/2X3xWHXPfx2mUfPEwjBs3K) | 2:25 |
-| 16 | [Conclusions](https://open.spotify.com/track/6VN2Sn6CQXLQodRLPzL5cm) | [Sten Hammarlund](https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x) | [Conclusions](https://open.spotify.com/album/7uNjcU7S7gkmQVeBWWpncq) | 2:01 |
-| 17 | [Spitalfields](https://open.spotify.com/track/2hrVoFSh9c8FpuYC6KrUlt) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Spitalfields](https://open.spotify.com/album/1FAKr8DkcxIXk8NXJQAcsA) | 2:55 |
+| 13 | [Present in Time](https://open.spotify.com/track/39vFCMEPxWlD0HBts4fKRp) | [Enzo Costa](https://open.spotify.com/artist/08bZKTxSPaQAvmzc5YvDAQ) | [Present in Time](https://open.spotify.com/album/3oNoDzhVK91lRjBQOifgXW) | 2:29 |
+| 14 | [Another Time](https://open.spotify.com/track/5B86TJA6dpcXzZ7sh8wQpq) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Another Time](https://open.spotify.com/album/2X3xWHXPfx2mUfPEwjBs3K) | 2:25 |
+| 15 | [Conclusions](https://open.spotify.com/track/6VN2Sn6CQXLQodRLPzL5cm) | [Sten Hammarlund](https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x) | [Conclusions](https://open.spotify.com/album/7uNjcU7S7gkmQVeBWWpncq) | 2:01 |
+| 16 | [Spitalfields](https://open.spotify.com/track/2hrVoFSh9c8FpuYC6KrUlt) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Spitalfields](https://open.spotify.com/album/1FAKr8DkcxIXk8NXJQAcsA) | 2:55 |
+| 17 | [The Game Changer](https://open.spotify.com/track/35CHmzwJtxFaX2jrTwxvSS) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [The Game Changer](https://open.spotify.com/album/1aRdcDtkN2qlomNDagQ85C) | 2:26 |
 | 18 | [Ethereal Elegance](https://open.spotify.com/track/7fJVWSFwuSzOZKFw08HBTX) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Ethereal Elegance](https://open.spotify.com/album/07yC22JfkYTwIu57Ho3ctq) | 2:02 |
 | 19 | [County Clare](https://open.spotify.com/track/0NetSB2EidrnN9AxQUuj8s) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [County Clare](https://open.spotify.com/album/7KYYW1IeQvD3SjcDgEbMBA) | 3:04 |
 | 20 | [Shadows and Sunlight](https://open.spotify.com/track/3b2eNZja0ok5k8QQjn3ezu) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Shadows and Sunlight](https://open.spotify.com/album/48ererOiL22UHujflBgt0r) | 2:56 |
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 | 299 | [By the Hour](https://open.spotify.com/track/1feJUG6eBlaxsogKjFMKzv) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [By the Hour](https://open.spotify.com/album/1j4eDrQJoyWFuop21WWjrd) | 3:09 |
 | 300 | [Reminiscent Of Us](https://open.spotify.com/track/1CyUDJ44PxxDxKyNcS9n9H) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Reminiscent Of Us](https://open.spotify.com/album/7GZ9cChnV0Z267BDz8n4sg) | 2:33 |
 
-Snapshot ID: `Z88VXAAAAACIDjf/CTrRUDNI5gouJsmf`
+Snapshot ID: `Z9k1hAAAAACnDNAfyh2xBlkMOuB9xDzW`

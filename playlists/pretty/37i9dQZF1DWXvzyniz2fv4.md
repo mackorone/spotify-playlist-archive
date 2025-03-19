@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,731 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,730 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 13 | [Ibiza](https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Ibiza](https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7) | 2:30 |
 | 14 | [Equação](https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy) | [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Equação](https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC) | 3:02 |
 | 15 | [Pode falar \- Acústico](https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [UM44K Acústico](https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh) | 2:43 |
-| 16 | [Yin Yang](https://open.spotify.com/track/4dfYeOXuSPR6ZG9oxtj1yR) | [Moreiranavoz](https://open.spotify.com/artist/2ti4Q3nLT9uQmGdiJIYKDX), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Delta7](https://open.spotify.com/artist/4kZTC2MdZt3AgKWBvS17C3) | [Yin Yang](https://open.spotify.com/album/3aYIj4pNgN7Y9jgR9wCKQ1) | 2:42 |
+| 16 | [Yin Yang](https://open.spotify.com/track/4dfYeOXuSPR6ZG9oxtj1yR) | [Moreiranavoz](https://open.spotify.com/artist/2ti4Q3nLT9uQmGdiJIYKDX), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Martins.prodz](https://open.spotify.com/artist/1DQaq7dn5kLHc3qFiVplZr) | [Yin Yang](https://open.spotify.com/album/3aYIj4pNgN7Y9jgR9wCKQ1) | 2:42 |
 | 17 | [Luz da Lua](https://open.spotify.com/track/6MjNdgoDAWesTjXUYg1ETC) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Oriente Acústico](https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1) | 3:35 |
 | 18 | [Mensagem](https://open.spotify.com/track/7kfXIHFbBINJeUtXaPodZw) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [lowz](https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q) | [Mensagem](https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26) | 2:19 |
 | 19 | [4 da Manhã \- Acústico](https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2) | [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Acústico: Sem Perceber + 4 da Manhã](https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR) | 3:28 |

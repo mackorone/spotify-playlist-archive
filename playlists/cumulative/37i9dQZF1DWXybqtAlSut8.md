@@ -4,7 +4,7 @@
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-87 songs - 3 hr 44 min
+88 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Greener Pastures](https://open.spotify.com/track/1MAQP8f7QWAjItJ0XtwWBP) | [J Stepan](https://open.spotify.com/artist/2uF3aGwBsOYAxyCSCQuQzz) | [Greener Pastures](https://open.spotify.com/album/47tLMghDhPZA4eD4yHTXgS) | 2:32 | 2025-02-21 |  |
 | [He Is Near](https://open.spotify.com/track/5XVaTfPnzPaQAgQobVjPMX) | [Andrea Bergfeld](https://open.spotify.com/artist/4mWXiBDSDQA9XRPQqQsQNl) | [He Is Near](https://open.spotify.com/album/5L583RmMoftX92GbeeK88U) | 2:39 | 2024-12-10 |  |
 | [He Shall Feed His Flock](https://open.spotify.com/track/2jZ8tqe6R2EmZZei0f2UPa) | [Gabriel Hart](https://open.spotify.com/artist/1PF8nm4oU1vVqzWLehmjrr) | [He Shall Feed His Flock](https://open.spotify.com/album/6omqeIVajSFPf0o4TWA5WQ) | 2:38 | 2024-10-22 |  |
+| [Here As In Heaven](https://open.spotify.com/track/1wo3GK2jEuRriOsWAm1Ptf) | [Carlo Verde](https://open.spotify.com/artist/3XEOasc1hHiS4EAcYVI1Lt) | [Here As In Heaven](https://open.spotify.com/album/1VTY0PzMDDBJqDAGqgHJjA) | 3:24 | 2025-03-18 |  |
 | [Holy Holy Holy](https://open.spotify.com/track/1IO1YHZ8ZqlkX3HOCcduyH) | [Everlasting Harmony](https://open.spotify.com/artist/1cImd7ASALUaW3myp7bcAx) | ['Tis So Sweet To Trust In Jesus](https://open.spotify.com/album/2q0nCyvwCrqlKhj5PK2JG4) | 2:08 | 2024-03-20 | 2025-03-05 |
 | [Holy One Where Art Though](https://open.spotify.com/track/37GBu2M1RWkoO0Y4LTOo5Q) | [J Stepan](https://open.spotify.com/artist/2uF3aGwBsOYAxyCSCQuQzz) | [Holy One Where Art Though](https://open.spotify.com/album/1PkymTV6ZLDaGIAyJExwht) | 2:03 | 2024-09-24 |  |
 | [How Great Thou Art](https://open.spotify.com/track/5jTAJBqOZQIFp0gndvqR75) | [Orcrist](https://open.spotify.com/artist/1N5Q4G5YuaZkMi4M8Kef2U) | [How Great Thou Art](https://open.spotify.com/album/5nBnV844JGJgufUEmm3rVH) | 3:26 | 2024-11-06 |  |

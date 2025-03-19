@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 
 > The official Eurovision Song Contest 2025 playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,067,464 likes - 36 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,068,010 likes - 36 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 | 17 | [Hallucination](https://open.spotify.com/track/07JJ7J8JhEztiEcczioBws) | [Sissal](https://open.spotify.com/artist/19dHBZ2g62ice0ZsxxzRWP) | [Hallucination](https://open.spotify.com/album/4ErsLdiv1HwkVN0ueMtPRJ) | 3:03 |
 | 18 | [Kiss Kiss Goodbye](https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Kiss Kiss Goodbye](https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD) | 2:56 |
 | 19 | [Volevo essere un duro](https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Volevo essere un duro](https://open.spotify.com/album/3bq0Zk9IMKngHA7QnefTxT) | 3:05 |
-| 20 | [La poupée monte le son](https://open.spotify.com/track/7uUZf0d7YEFvfEspnYopXN) | [Laura Thorn](https://open.spotify.com/artist/7mj5xXWTY7waS2qPkjnWpx) | [La poupée monte le son](https://open.spotify.com/album/6anSSKFQybFbbOLdhdJMj1) | 2:58 |
+| 20 | [La poupée monte le son \- LSC Edit](https://open.spotify.com/track/7uUZf0d7YEFvfEspnYopXN) | [Laura Thorn](https://open.spotify.com/artist/7mj5xXWTY7waS2qPkjnWpx) | [La poupée monte le son \(LSC Edit\)](https://open.spotify.com/album/6anSSKFQybFbbOLdhdJMj1) | 2:58 |
 | 21 | [ICH KOMME](https://open.spotify.com/track/52NFoPnzxOKPIcJIQ9mb5Q) | [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR) | [ICH KOMME](https://open.spotify.com/album/37Jo8WGCWZTAv53vweYlYx) | 3:00 |
 | 22 | [Strobe Lights](https://open.spotify.com/track/0Tx2AeVKiYQjk8u9p4j6kV) | [Red Sebastian](https://open.spotify.com/artist/3PiYJXv5SQpP9vwMXSCDV8) | [Strobe Lights](https://open.spotify.com/album/70Nt6WqKh6H42SRVLenoFF) | 2:58 |
 | 23 | [Asteromata](https://open.spotify.com/track/2aE2SRm4QraCuDBNnBsRIz) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Asteromata](https://open.spotify.com/album/02dO5tdgmZFm72qmWAETdA) | 2:55 |

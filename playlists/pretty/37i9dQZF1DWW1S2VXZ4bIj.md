@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: LISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,853 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,908 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 | 43 | [ดวงเดียว](https://open.spotify.com/track/2hmlHJy0ew0bejRWj98hmN) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ดวงเดียว](https://open.spotify.com/album/6ILsKnkhdWRkshoepSoNgI) | 4:08 |
 | 44 | [เดินทางโดยสวัสดิภาพ](https://open.spotify.com/track/5xEtdOxQ3z18NWmDhG98N5) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [THAOWAN](https://open.spotify.com/artist/2bZps5eDWmWtRwjs54Qtwj) | [ชานชา\(ลา\)](https://open.spotify.com/album/1hjPLRs9m5kEJiTyYQSfiq) | 3:52 |
 | 45 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 |
-| 46 | [ชุ่มฉ่ำ](https://open.spotify.com/track/5l6uO5TPKSzO8JdgY8Z32Y) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ชุ่มฉ่ำ](https://open.spotify.com/album/7I1EvufQ6FQYUluyHAFSKk) | 3:39 |
+| 46 | [ชุ่มฉ่ำ \(ChumCham\)](https://open.spotify.com/track/5l6uO5TPKSzO8JdgY8Z32Y) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ชุ่มฉ่ำ \(ChumCham\)](https://open.spotify.com/album/7I1EvufQ6FQYUluyHAFSKk) | 3:39 |
 | 47 | [ตัวโดน](https://open.spotify.com/track/6PgrERReqbpJHFtOpSzdPj) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ตัวโดน](https://open.spotify.com/album/4gLGowAWp62z0BaSgC59Qf) | 3:47 |
 | 48 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 |
 | 49 | [ทุกครั้งที่หลับตา \(Lucid Dream\)](https://open.spotify.com/track/4xtYwmu1FkBQkOhK5fTqd4) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ทุกครั้งที่หลับตา \(Lucid Dream\)](https://open.spotify.com/album/4iwWf24XP5mfvnhsnSjxsI) | 5:23 |

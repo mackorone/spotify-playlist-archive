@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2MVOmcETWNEZHSxdhG5e9k.md) - [plain]
 
 > Melodic Progressive, Progressive House and Vocal Trance\. Selections from Chris Lyons DJ&\#x27;s &quot;Riding The Soundwave&quot; webradio show.
 
-[Chris Lyons DJ](https://open.spotify.com/user/dr1qyhdgceut17a2728ig8g1a) - 10 likes - 71 songs - 8 hr 10 min
+[Chris Lyons DJ](https://open.spotify.com/user/dr1qyhdgceut17a2728ig8g1a) - 11 likes - 71 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

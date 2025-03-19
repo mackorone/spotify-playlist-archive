@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Celebrating the power of amazing female pop artists.  Cover: Olivia Rodrigo & Lady Gaga",
+  "description": "Celebrating the power of amazing female pop artists.  Cover: Chappell Roan",
   "name": "Women of Pop",
   "tracks": [
     {
@@ -2248,7 +2248,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 164554,
       "name": "CRAZY",
       "url": "https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS"
@@ -4644,7 +4644,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 337733,
       "name": "Hung Up",
       "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
@@ -6150,6 +6150,24 @@
       "duration_ms": 232338,
       "name": "Like I'm Gonna Lose You",
       "url": "https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt"
+    },
+    {
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123517,
+      "name": "like JENNIE",
+      "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
     },
     {
       "album": {
@@ -11886,7 +11904,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/5D34wRmbFS29AjtTOP2QJe"

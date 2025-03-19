@@ -4,30 +4,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa Benjamin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,656 likes - 93 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,661 likes - 93 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bara Bada Bastu](https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Bara Bada Bastu](https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON) | 2:46 |
-| 2 | [Ministerinpaikal](https://open.spotify.com/track/0eM9z8LrY9bdKF99D0P98i) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Ministerinpaikal / 1987](https://open.spotify.com/album/0F2xzUyFFvkTIRKHhVsfu7) | 3:48 |
-| 3 | [Tommi \(seksipommi\)](https://open.spotify.com/track/6NayXQIy7SzSyEO9drruZD) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Tommi \(seksipommi\)](https://open.spotify.com/album/5I6OiKKrslEEJiEewYBN9G) | 2:24 |
+| 2 | [Tommi \(seksipommi\)](https://open.spotify.com/track/6NayXQIy7SzSyEO9drruZD) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Tommi \(seksipommi\)](https://open.spotify.com/album/5I6OiKKrslEEJiEewYBN9G) | 2:24 |
+| 3 | [Ministerinpaikal](https://open.spotify.com/track/0eM9z8LrY9bdKF99D0P98i) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Ministerinpaikal / 1987](https://open.spotify.com/album/0F2xzUyFFvkTIRKHhVsfu7) | 3:48 |
 | 4 | [Sekunnis \(feat\. Sexmane\)](https://open.spotify.com/track/2K9HxEeocA79vkagSXaFAo) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sekunnis \(feat\. Sexmane\)](https://open.spotify.com/album/0Vy3GjJAA8XAe0mSoBEOvX) | 2:29 |
 | 5 | [Anna tulla](https://open.spotify.com/track/4Fzm0uCnAM4Ep59ZVvi5wB) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Anna tulla](https://open.spotify.com/album/2RSDaUPuRXmLEUsHQK2P3R) | 3:13 |
 | 6 | [Nostetaan malja](https://open.spotify.com/track/3rDcrOoZrJkcfw6hAiS81v) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Nostetaan malja](https://open.spotify.com/album/7yauXHI1V7dxIjNFDP1DoZ) | 2:46 |
-| 7 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 |
-| 8 | [Made Of](https://open.spotify.com/track/4xlcLdfBSMO56LEbhfbVtx) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Made Of](https://open.spotify.com/album/3qrzLXpKrkxYvdS5oDfpDV) | 3:01 |
-| 9 | [Mietitkö sä mua](https://open.spotify.com/track/6AYQ3CQePkIRZ6ouD3BF5c) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Mietitkö sä mua](https://open.spotify.com/album/4OYNKIuDMncidwWHfaHXaU) | 2:44 |
-| 10 | [MASIINA](https://open.spotify.com/track/25FQ6nVIcLOMfl5Rnmud57) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [MASIINA](https://open.spotify.com/album/3aNazUoV8x82EPaGQMwWgW) | 3:14 |
-| 11 | [SMOKE THE PAIN AWAY](https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [SMOKE THE PAIN AWAY](https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP) | 2:42 |
-| 12 | [Kirsikat](https://open.spotify.com/track/0RrtayzwGZd7rCvLgrDmMU) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Kirsikat](https://open.spotify.com/album/7dWEiZ4iqA45KlrjXosIHQ) | 3:26 |
-| 13 | [HOTBOX](https://open.spotify.com/track/398rCeBrqZr360MpS6EXE9) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HOTBOX](https://open.spotify.com/album/3dXTiG15LrfpSmQUP0au5g) | 3:02 |
-| 14 | [Dust](https://open.spotify.com/track/2r9a4yyqoM0izDoldy4S8i) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Dust](https://open.spotify.com/album/0AKXaoCpKdJMOAvVy8Xt5O) | 3:11 |
+| 7 | [Kirsikat](https://open.spotify.com/track/0RrtayzwGZd7rCvLgrDmMU) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Kirsikat](https://open.spotify.com/album/7dWEiZ4iqA45KlrjXosIHQ) | 3:26 |
+| 8 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 |
+| 9 | [MASIINA](https://open.spotify.com/track/25FQ6nVIcLOMfl5Rnmud57) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [MASIINA](https://open.spotify.com/album/3aNazUoV8x82EPaGQMwWgW) | 3:14 |
+| 10 | [Dust](https://open.spotify.com/track/2r9a4yyqoM0izDoldy4S8i) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Dust](https://open.spotify.com/album/0AKXaoCpKdJMOAvVy8Xt5O) | 3:11 |
+| 11 | [Made Of](https://open.spotify.com/track/4xlcLdfBSMO56LEbhfbVtx) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Made Of](https://open.spotify.com/album/3qrzLXpKrkxYvdS5oDfpDV) | 3:01 |
+| 12 | [Mietitkö sä mua](https://open.spotify.com/track/6AYQ3CQePkIRZ6ouD3BF5c) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Mietitkö sä mua](https://open.spotify.com/album/4OYNKIuDMncidwWHfaHXaU) | 2:44 |
+| 13 | [SMOKE THE PAIN AWAY](https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [SMOKE THE PAIN AWAY](https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP) | 2:42 |
+| 14 | [HOTBOX](https://open.spotify.com/track/398rCeBrqZr360MpS6EXE9) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HOTBOX](https://open.spotify.com/album/3dXTiG15LrfpSmQUP0au5g) | 3:02 |
 | 15 | [Hitaammin hautaan](https://open.spotify.com/track/56gErvTUBhx82XqEauET28) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Hitaammin hautaan](https://open.spotify.com/album/5sacMb3lLplhX3RT9LiKw7) | 2:58 |
 | 16 | [Ikävä mua](https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Pitäiskö mun soittaa sille](https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640) | 2:34 |
-| 17 | [Sunset Blvd](https://open.spotify.com/track/2kpUNuingcchFIhLrbWxIO) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Sunset Blvd](https://open.spotify.com/album/4JCaqlPDBeT9kizAc3PGwL) | 2:47 |
-| 18 | [Revolution](https://open.spotify.com/track/1xYhFfJInHS8hsGfrJW4lI) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Revolution](https://open.spotify.com/album/3XyCo0tUkIHQ2vRDDlBgWy) | 3:00 |
-| 19 | [10 000 tuntii](https://open.spotify.com/track/6xLnpRH0AICTolSlPERAJK) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [10 000 tuntii](https://open.spotify.com/album/6EgRhNmKgqozqEPgPBa0Xq) | 2:15 |
-| 20 | [Garden Of Eden](https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:59 |
+| 17 | [Garden Of Eden](https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:59 |
+| 18 | [Sunset Blvd](https://open.spotify.com/track/2kpUNuingcchFIhLrbWxIO) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Sunset Blvd](https://open.spotify.com/album/4JCaqlPDBeT9kizAc3PGwL) | 2:47 |
+| 19 | [Revolution](https://open.spotify.com/track/1xYhFfJInHS8hsGfrJW4lI) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Revolution](https://open.spotify.com/album/3XyCo0tUkIHQ2vRDDlBgWy) | 3:00 |
+| 20 | [10 000 tuntii](https://open.spotify.com/track/6xLnpRH0AICTolSlPERAJK) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [10 000 tuntii](https://open.spotify.com/album/6EgRhNmKgqozqEPgPBa0Xq) | 2:15 |
 | 21 | [Shanghain valot \- UMK edit](https://open.spotify.com/track/3e2mYXFNuwiXChs7frlpQc) | [Annika Eklund](https://open.spotify.com/artist/4Mkkqyn486EFswOyka40ip), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw), [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM), [Keira](https://open.spotify.com/artist/5DEU6xCvrSgrpI5GsMFZng), [Laura Voutilainen](https://open.spotify.com/artist/1vDg9KYrfgHzDJQGP2VQfe), [Linda Lampenius](https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T) | [Shanghain valot \(UMK edit\)](https://open.spotify.com/album/5btZewsv5zXGOPOEROnvAU) | 3:25 |
 | 22 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 |
 | 23 | [Sateenkaaret on pyöreitä](https://open.spotify.com/track/3muAyFD0nIA5Y3APoSzfCB) | [Pikku G](https://open.spotify.com/artist/52k2KcEXIZTnYD2EpOoJiZ) | [Sateenkaaret on pyöreitä](https://open.spotify.com/album/2DyBHjFwYR2vkUsLltXZpA) | 2:57 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 92 | [Ainutlaatuinen](https://open.spotify.com/track/492KK2E3cyWKthhZKBfEr4) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Ainutlaatuinen](https://open.spotify.com/album/02iD0MjewEEvBdXiSdXRRk) | 2:40 |
 | 93 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 |
 
-Snapshot ID: `Z9avVgAAAAClDNhymUTL4WimFjqoaKyk`
+Snapshot ID: `Z9lq+wAAAAA9RB08nkLvq+G6We2veiwz`

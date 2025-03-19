@@ -1,12 +1,12 @@
 {
   "description": "This is mxmtoon. The essential tracks, all in one playlist.",
-  "num_followers": 47456,
+  "num_followers": 47460,
   "original_name": "This Is mxmtoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAAAvilLcz5BxQVWxi+ldHd3x",
+  "snapshot_id": "Z9dmAAAAAAAS6Nj0k6NKhbQJ+0Li0nG+",
   "tracks": [
     {
       "added_at": null,
@@ -359,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "the masquerade",
+        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 156120,
+      "name": "seasonal depression",
+      "url": "https://open.spotify.com/track/0lmn3d7hn5MwQotOvPFKxy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BUFFET",
         "url": "https://open.spotify.com/album/2rcWSO4RL6mtSA6kGjz6hV"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 110011,
       "name": "walk but in a garden (feat. mxmtoon)",
       "url": "https://open.spotify.com/track/5pqYKSkxyjVU0f3k0tLppv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "the masquerade",
-        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 156120,
-      "name": "seasonal depression",
-      "url": "https://open.spotify.com/track/0lmn3d7hn5MwQotOvPFKxy"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 142573,
-      "name": "plastic pony",
-      "url": "https://open.spotify.com/track/4nx1caorxzv8ItosxZqrfG"
+      "duration_ms": 185346,
+      "name": "kaleidoscope",
+      "url": "https://open.spotify.com/track/0gKFdeEir1HGakZnACHIps"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 185346,
-      "name": "kaleidoscope",
-      "url": "https://open.spotify.com/track/0gKFdeEir1HGakZnACHIps"
+      "duration_ms": 142573,
+      "name": "plastic pony",
+      "url": "https://open.spotify.com/track/4nx1caorxzv8ItosxZqrfG"
     },
     {
       "added_at": null,

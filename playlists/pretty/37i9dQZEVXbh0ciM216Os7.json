@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACYP84BEOqOiI3cvl1cKLje",
+  "snapshot_id": "AAAAAAAAAAAsU94eZC+3am6wYdYSzfi6",
   "tracks": [
     {
       "added_at": "2025-03-14 04:00:00",
@@ -22,27 +22,15 @@
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 190373,
-      "name": "GOOD CREDIT (with Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
-        "name": "The Big One",
-        "url": "https://open.spotify.com/album/6zWd21VBaksMJJM2UrCLo6"
-      },
-      "artists": [
+        },
         {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 177586,
-      "name": "The Big One",
-      "url": "https://open.spotify.com/track/7DU7p7DXcOOfJMkDzeDSGU"
+      "duration_ms": 190053,
+      "name": "BACKD00R (feat. Kendrick Lamar & Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg"
     },
     {
       "added_at": "2025-03-14 04:00:00",
@@ -83,6 +71,22 @@
     {
       "added_at": "2025-03-14 04:00:00",
       "album": {
+        "name": "The Big One",
+        "url": "https://open.spotify.com/album/6zWd21VBaksMJJM2UrCLo6"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        }
+      ],
+      "duration_ms": 177586,
+      "name": "The Big One",
+      "url": "https://open.spotify.com/track/7DU7p7DXcOOfJMkDzeDSGU"
+    },
+    {
+      "added_at": "2025-03-14 04:00:00",
+      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/27PNybvsnGEaBIDhNPSjib"
       },
@@ -107,6 +111,22 @@
     {
       "added_at": "2025-03-14 04:00:00",
       "album": {
+        "name": "OXYGENE (from \"ASH\" Soundtrack)",
+        "url": "https://open.spotify.com/album/08EGCVDnFaO6RXMIpBMCKV"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "duration_ms": 93973,
+      "name": "OXYGENE (from \"ASH\" Soundtrack)",
+      "url": "https://open.spotify.com/track/3HI6iFB3mBxqvsrcgXQhBl"
+    },
+    {
+      "added_at": "2025-03-14 04:00:00",
+      "album": {
         "name": "Anthem",
         "url": "https://open.spotify.com/album/7CTKP2Zz7Zfqoake0lB5ei"
       },
@@ -127,22 +147,6 @@
       "duration_ms": 363619,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/32a8jbDTdYxLy489EwfK5Z"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
-        "name": "OXYGENE (from \"ASH\" Soundtrack)",
-        "url": "https://open.spotify.com/album/08EGCVDnFaO6RXMIpBMCKV"
-      },
-      "artists": [
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        }
-      ],
-      "duration_ms": 93973,
-      "name": "OXYGENE (from \"ASH\" Soundtrack)",
-      "url": "https://open.spotify.com/track/3HI6iFB3mBxqvsrcgXQhBl"
     },
     {
       "added_at": "2025-03-14 04:00:00",
@@ -247,22 +251,18 @@
     {
       "added_at": "2025-03-14 04:00:00",
       "album": {
-        "name": "Bleed (feat. Omar Apollo)",
-        "url": "https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk"
+        "name": "Valentine's Day Freestyle '25",
+        "url": "https://open.spotify.com/album/1ifU9X3dO0jDTLwzghijsM"
       },
       "artists": [
         {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        },
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
         }
       ],
-      "duration_ms": 179373,
-      "name": "Bleed (feat. Omar Apollo)",
-      "url": "https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT"
+      "duration_ms": 209732,
+      "name": "Valentine's Day Freestyle '25",
+      "url": "https://open.spotify.com/track/6N0b6jlahlvHsV5MyZd0f8"
     },
     {
       "added_at": "2025-03-14 04:00:00",
@@ -287,6 +287,26 @@
     {
       "added_at": "2025-03-14 04:00:00",
       "album": {
+        "name": "Bleed (feat. Omar Apollo)",
+        "url": "https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        },
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 179373,
+      "name": "Bleed (feat. Omar Apollo)",
+      "url": "https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT"
+    },
+    {
+      "added_at": "2025-03-14 04:00:00",
+      "album": {
         "name": "Satanized",
         "url": "https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX"
       },
@@ -299,30 +319,6 @@
       "duration_ms": 236800,
       "name": "Satanized",
       "url": "https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
-        "name": "Ruby",
-        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 230171,
-      "name": "Damn Right (feat. Childish Gambino & Kali Uchis)",
-      "url": "https://open.spotify.com/track/6HjYE79OOCGEhkIRfXLqrz"
     },
     {
       "added_at": "2025-03-14 04:00:00",
@@ -363,6 +359,30 @@
     {
       "added_at": "2025-03-14 04:00:00",
       "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 230171,
+      "name": "Damn Right (feat. Childish Gambino & Kali Uchis)",
+      "url": "https://open.spotify.com/track/6HjYE79OOCGEhkIRfXLqrz"
+    },
+    {
+      "added_at": "2025-03-14 04:00:00",
+      "album": {
         "name": "I Will Not Break",
         "url": "https://open.spotify.com/album/2BhXDbFXnedoT6G30DrpLP"
       },
@@ -399,6 +419,26 @@
     {
       "added_at": "2025-03-14 04:00:00",
       "album": {
+        "name": "Albion Files",
+        "url": "https://open.spotify.com/album/6Kwh9JzeZqXtees3Y2h0FL"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Ogi",
+          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+        }
+      ],
+      "duration_ms": 253231,
+      "name": "Not Sharing",
+      "url": "https://open.spotify.com/track/3oGWXOsz8OUmdoL57OlWIL"
+    },
+    {
+      "added_at": "2025-03-14 04:00:00",
+      "album": {
         "name": "Have You Ever Seen The Rain",
         "url": "https://open.spotify.com/album/5oDYNgWJJAzoqk5u5jZj8k"
       },
@@ -419,26 +459,6 @@
       "duration_ms": 125109,
       "name": "Have You Ever Seen The Rain",
       "url": "https://open.spotify.com/track/1yzgMzhlFNdGAlL5Mopdoq"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
-        "name": "Albion Files",
-        "url": "https://open.spotify.com/album/6Kwh9JzeZqXtees3Y2h0FL"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Ogi",
-          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
-        }
-      ],
-      "duration_ms": 253231,
-      "name": "Not Sharing",
-      "url": "https://open.spotify.com/track/3oGWXOsz8OUmdoL57OlWIL"
     },
     {
       "added_at": "2025-03-14 04:00:00",
@@ -475,26 +495,6 @@
       "duration_ms": 177530,
       "name": "BENT",
       "url": "https://open.spotify.com/track/49Tynaepq59P6LAoAlzaIe"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
-        "name": "Dragon Season... Equinox",
-        "url": "https://open.spotify.com/album/52rPoXrmxR3JaAw9igvBqG"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        }
-      ],
-      "duration_ms": 188187,
-      "name": "I Won't Lie Down",
-      "url": "https://open.spotify.com/track/5U8aJm4YSFYSIXGDm8zMK1"
     },
     {
       "added_at": "2025-03-14 04:00:00",
@@ -587,34 +587,6 @@
     {
       "added_at": "2025-03-14 04:00:00",
       "album": {
-        "name": "Richard Russell Is Temporary",
-        "url": "https://open.spotify.com/album/3y3KthMNEjQHXmArvK7dyV"
-      },
-      "artists": [
-        {
-          "name": "Everything Is Recorded",
-          "url": "https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X"
-        },
-        {
-          "name": "Roses Gabor",
-          "url": "https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "Rickey Washington",
-          "url": "https://open.spotify.com/artist/44WW6k1ZbsjSVZJ6t8nkeI"
-        }
-      ],
-      "duration_ms": 289630,
-      "name": "The Meadows",
-      "url": "https://open.spotify.com/track/6Xn78aRtXmwi1kdZPK0UES"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
         "name": "Shostakovich: Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
         "url": "https://open.spotify.com/album/5yI5jBtWF01weyuXH22Rfm"
       },
@@ -639,6 +611,34 @@
       "duration_ms": 395986,
       "name": "Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
       "url": "https://open.spotify.com/track/4dLVUG0RvDi1DmwWr48UcP"
+    },
+    {
+      "added_at": "2025-03-14 04:00:00",
+      "album": {
+        "name": "Richard Russell Is Temporary",
+        "url": "https://open.spotify.com/album/3y3KthMNEjQHXmArvK7dyV"
+      },
+      "artists": [
+        {
+          "name": "Everything Is Recorded",
+          "url": "https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X"
+        },
+        {
+          "name": "Roses Gabor",
+          "url": "https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Rickey Washington",
+          "url": "https://open.spotify.com/artist/44WW6k1ZbsjSVZJ6t8nkeI"
+        }
+      ],
+      "duration_ms": 289630,
+      "name": "The Meadows",
+      "url": "https://open.spotify.com/track/6Xn78aRtXmwi1kdZPK0UES"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

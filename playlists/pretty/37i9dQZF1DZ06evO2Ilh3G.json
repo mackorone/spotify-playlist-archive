@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 116978,
+  "num_followers": 116974,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAAAKkVhTbsWvHHRHygme6RZa",
+  "snapshot_id": "Z9dmAAAAAACtmdABudB3+W3Ui4qNad67",
   "tracks": [
     {
       "added_at": null,
@@ -1091,22 +1091,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "CODE (feat. Moneybagg Yo)",
-        "url": "https://open.spotify.com/album/42jB9RVqk28zOVbbKhSMX1"
+        "name": "EXIT 9 (with Blxst and Offset)",
+        "url": "https://open.spotify.com/album/3DAkWjDTQOieiModXxLIUl"
       },
       "artists": [
         {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
         },
         {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 192427,
-      "name": "CODE (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/5uVW9FWVaQde0lfF4hYs4C"
+      "duration_ms": 210229,
+      "name": "EXIT 9 - with Blxst and Offset",
+      "url": "https://open.spotify.com/track/542Yp18797lywr3zZTG2sC"
     }
   ],
   "unique_name": "This Is Offset",

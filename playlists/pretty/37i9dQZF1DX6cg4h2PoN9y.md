@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cg4h2PoN9y.md) - [plain]
 
 > All things Billie!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,413,461 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,414,286 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

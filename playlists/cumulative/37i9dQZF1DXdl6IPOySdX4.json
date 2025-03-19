@@ -1241,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "The Downward Spiral (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5I7lLu8xXJfGRdFUqHaLQU"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373306,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/5mc6EyF1OIEOhAkD0Gg9Lc"
+    },
+    {
+      "album": {
         "name": "Wildheart (Deluxe Version)",
         "url": "https://open.spotify.com/album/6W8ZsoinSMViZMh9aYK7gQ"
       },
@@ -3508,7 +3526,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 191786,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1T575AhHueYinKSDflEsGK"

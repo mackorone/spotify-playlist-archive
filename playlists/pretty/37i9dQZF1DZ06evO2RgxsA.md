@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,906 likes - 49 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,919 likes - 49 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 48 | [She's Nubs](https://open.spotify.com/track/2D38ZBnSMwhH48kMmZwaEP) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [War on Errorism](https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV) | 2:05 |
 | 49 | [Take Two Placebos And Call Me Lame](https://open.spotify.com/track/21iXdVnWCEpYuOmeY9YKPh) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 2:25 |
 
-Snapshot ID: `Z9YUgAAAAAD04GJyRBCxKvqREWaeJN4H`
+Snapshot ID: `Z9dmAAAAAABnqSBmQpK7Daz3WgW7dtzo`

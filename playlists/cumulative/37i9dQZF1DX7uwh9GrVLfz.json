@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. Cover: yutori",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. Cover: ROTTENGRAFFTY ",
   "name": "Punk Japan",
   "tracks": [
     {
@@ -344,6 +344,24 @@
       "duration_ms": 170426,
       "name": "Andy",
       "url": "https://open.spotify.com/track/3JnVplRv5OFdNP8fHIZLYy"
+    },
+    {
+      "album": {
+        "name": "Angelic town",
+        "url": "https://open.spotify.com/album/4HwFpRlpCz7ZJ3sVpfXA4o"
+      },
+      "artists": [
+        {
+          "name": "May Forth",
+          "url": "https://open.spotify.com/artist/6MYn2A1crz0GWAqp2Ctyxj"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191538,
+      "name": "Angelic town",
+      "url": "https://open.spotify.com/track/0psvtk7zvaQseEEckFmjOu"
     },
     {
       "album": {
@@ -1564,7 +1582,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 143975,
       "name": "CHANGE",
       "url": "https://open.spotify.com/track/4n4VNZKDtShFyoM77L2Gni"
@@ -4453,6 +4471,28 @@
     },
     {
       "album": {
+        "name": "Wabi Sabi -Sabi-",
+        "url": "https://open.spotify.com/album/4rXzqtHbEYt1UyMQjFLRCR"
+      },
+      "artists": [
+        {
+          "name": "ROTTENGRAFFTY",
+          "url": "https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj"
+        },
+        {
+          "name": "TAKUMA",
+          "url": "https://open.spotify.com/artist/7CcCUhKZWvb3tvXtcMAb45"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149893,
+      "name": "Kirifuda (feat. TAKUMA from 10-FEET)",
+      "url": "https://open.spotify.com/track/5vL44zUh8BW1BNJsE5TV45"
+    },
+    {
+      "album": {
         "name": "Gyaru no wakusei",
         "url": "https://open.spotify.com/album/4JYNAjXr8GQL7PxJfEORk0"
       },
@@ -5642,7 +5682,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-26",
+      "date_removed": null,
       "duration_ms": 222093,
       "name": "MUZIC",
       "url": "https://open.spotify.com/track/1LrmWErruRbgfafzcilZNS"
@@ -5786,7 +5826,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 52983,
       "name": "MY VOICE DESTROYS CUSTOMS",
       "url": "https://open.spotify.com/track/4zYDn1WFH2p9rzYT579dNX"
@@ -11622,7 +11662,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 190316,
       "name": "\u30b5\u30e9\u30c0\u30c7\u30a4\u30ba",
       "url": "https://open.spotify.com/track/2jNPFA1UeTt4KtRlbwQXyZ"

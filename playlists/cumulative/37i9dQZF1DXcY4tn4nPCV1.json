@@ -466,7 +466,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 122560,
       "name": "Au matin du magicien",
       "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 148146,
       "name": "Banquet for A Boy from the Neighbourhood",
       "url": "https://open.spotify.com/track/3qP3pv8Gp8ODZeWm2V9bxc"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 172329,
       "name": "Ce joli sourire",
       "url": "https://open.spotify.com/track/6AgsG9TKwyNN98mVAfuf7O"
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 159871,
       "name": "Chalet High",
       "url": "https://open.spotify.com/track/05IVJHxixrLD0oVi63i6Fn"
@@ -2198,7 +2198,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 125374,
       "name": "Faded Portrait",
       "url": "https://open.spotify.com/track/3z4hK6i9TGy2s7kmP6h2qO"
@@ -2738,7 +2738,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 126078,
       "name": "Graphite",
       "url": "https://open.spotify.com/track/5DFfMIOV51LYdeoIs3GiKx"
@@ -4654,7 +4654,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 126778,
       "name": "M\u00e9lange Weaved",
       "url": "https://open.spotify.com/track/4xmr3ICJGqZFJAOTWWo5ZV"
@@ -6418,7 +6418,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 132937,
       "name": "Silent sky",
       "url": "https://open.spotify.com/track/7jOC9bmHMZ5m4S1ZDAYgzn"
@@ -7340,7 +7340,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 135642,
       "name": "The shadow",
       "url": "https://open.spotify.com/track/35FJNNkCTHJ8qKyfPXDbxL"
@@ -7668,7 +7668,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 153000,
       "name": "Truth And The End Of Summer",
       "url": "https://open.spotify.com/track/28ZyTBjsokcGuw3F59L3aC"
@@ -7776,7 +7776,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 161624,
       "name": "Un Lent Mouvement",
       "url": "https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe"
@@ -8502,6 +8502,24 @@
       "duration_ms": 202250,
       "name": "Wide Skies",
       "url": "https://open.spotify.com/track/7dgAZemjrAuLHTOikyWtbA"
+    },
+    {
+      "album": {
+        "name": "Willow in the woods",
+        "url": "https://open.spotify.com/album/2tkPXD2fiHatzQ2EYFY75T"
+      },
+      "artists": [
+        {
+          "name": "Alto Fernando",
+          "url": "https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130881,
+      "name": "Willow in the woods",
+      "url": "https://open.spotify.com/track/1tFcwSBMSHsY3SUtdLSE58"
     },
     {
       "album": {

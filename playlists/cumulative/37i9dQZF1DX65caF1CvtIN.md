@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-235 songs - 10 hr 28 min
+237 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [For 4](https://open.spotify.com/track/1wqN0d4GvN2xHlnGNPmKDa) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [For](https://open.spotify.com/album/4ghcAKdZyyugvjRyaTABdM) | 2:21 | 2022-09-12 |  |
 | [For Mark](https://open.spotify.com/track/0lmuyNAxG9YA3LfXftGzPS) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [For Mark](https://open.spotify.com/album/6zhsUXC9QsXZnpAH2uxR3c) | 5:09 | 2022-08-03 | 2024-10-01 |
 | [Fordi jeg vil](https://open.spotify.com/track/1GwBsmxZo3knfuxkIIoSCs) | [Eline Neteland](https://open.spotify.com/artist/4EXNBWhy685Yit4VemEbR6) | [Fordi jeg vil](https://open.spotify.com/album/6cz5dR8Q4uHCGmqaZDENSo) | 2:43 | 2022-10-04 |  |
+| [Full Of Hope](https://open.spotify.com/track/22MzUApfgFWn3loU2idcuC) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Full Of Hope](https://open.spotify.com/album/7A5lNSaEP8BjCHxHOgvbKD) | 2:12 | 2025-03-18 |  |
 | [Give and Take](https://open.spotify.com/track/1ZuWu44vG2cTSX2BaTMORM) | [Otto Mitch](https://open.spotify.com/artist/1z83SKsSScydhd9ImLkUCP) | [Give and Take](https://open.spotify.com/album/3jYUbXJT616rFP3Nm3oO68) | 2:14 | 2023-08-01 |  |
 | [Glitter](https://open.spotify.com/track/3v9Pk1fxLg5MvKm9i5WraZ) | [Tim Karlsen](https://open.spotify.com/artist/3I0dZZLw0lTrptPX7nNc59) | [Glitter](https://open.spotify.com/album/0L8EQKHSBRT1ZjeB8bH8vX) | 2:52 | 2022-08-26 |  |
 | [Golden Hour](https://open.spotify.com/track/7cY9kWU1cPLJ1wxxvKEZMh) | [Leila Milki](https://open.spotify.com/artist/4DXSD40PBK0g20FwbdMUON) | [Springtime Improvisations](https://open.spotify.com/album/5ezMUY3NhgxPsufHezSG7D) | 1:34 | 2022-08-03 |  |
@@ -208,6 +209,7 @@
 | [Spring Roses](https://open.spotify.com/track/62T1anGMtce8jCIdXIQRvL) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Spring Roses](https://open.spotify.com/album/2egZ9KaWhJHiylvZxaUW6F) | 2:41 | 2024-04-03 |  |
 | [Staden](https://open.spotify.com/track/0ttyQPhxTXajLR9vNCBvV9) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Staden](https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3) | 2:01 | 2022-08-26 |  |
 | [Sunday Morning](https://open.spotify.com/track/1KkOMxw7qpYrwdY9ll2HCC) | [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G), [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm) | [Sunday Morning](https://open.spotify.com/album/2kSQFXnxl0aYFUHyCLtQmG) | 2:42 | 2023-05-09 |  |
+| [Swadhisthana](https://open.spotify.com/track/5tWz0ZTSkBbgDOjKCYUtp6) | [Silicon Silence](https://open.spotify.com/artist/3IsFn83rSDMVENUU5jK5O5) | [Swadhisthana](https://open.spotify.com/album/4Rbm9A3luj0euz4KL7OSV8) | 2:48 | 2025-03-18 |  |
 | [Sway](https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sway](https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo) | 2:21 | 2022-08-03 | 2025-01-22 |
 | [Symbios](https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Symbios](https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE) | 2:53 | 2022-08-03 | 2025-01-22 |
 | [Tala](https://open.spotify.com/track/1qXgnbIFHqeRFdjKhDSB7X) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Tala](https://open.spotify.com/album/6fXcGN9Oj6OVDKTnIkGUhT) | 3:07 | 2023-09-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste pop songs. Cover: Chappell Roan",
-  "num_followers": 97867,
+  "num_followers": 97866,
   "original_name": "Fresh Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9ghNwAAAABpEmVPR0ZHdqege9V6AqtY",
+  "snapshot_id": "Z9lZOwAAAAAcRqmhnO5NdXpewRzwyrzd",
   "tracks": [
     {
       "added_at": "2025-03-17 13:18:47",
@@ -247,6 +247,26 @@
     {
       "added_at": "2025-03-17 13:18:47",
       "album": {
+        "name": "Silverline (lean on me)",
+        "url": "https://open.spotify.com/album/6oUIMVSaRi6UycUXpDA3oj"
+      },
+      "artists": [
+        {
+          "name": "Laura Tesoro",
+          "url": "https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2"
+        },
+        {
+          "name": "Anna Winkin",
+          "url": "https://open.spotify.com/artist/19wbJkKeRqpnf1ibyz1tVI"
+        }
+      ],
+      "duration_ms": 184426,
+      "name": "Silverline (lean on me)",
+      "url": "https://open.spotify.com/track/2j7ex6Rt50bJJw2ei7KOO1"
+    },
+    {
+      "added_at": "2025-03-17 13:18:47",
+      "album": {
         "name": "Next Summer",
         "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 188876,
       "name": "With You (with Sofia Camara)",
       "url": "https://open.spotify.com/track/6UPK99uGkoFmEhHLe1Dx67"
-    },
-    {
-      "added_at": "2025-03-17 13:18:47",
-      "album": {
-        "name": "Silverline (lean on me)",
-        "url": "https://open.spotify.com/album/6oUIMVSaRi6UycUXpDA3oj"
-      },
-      "artists": [
-        {
-          "name": "Laura Tesoro",
-          "url": "https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2"
-        },
-        {
-          "name": "Anna Winkin",
-          "url": "https://open.spotify.com/artist/19wbJkKeRqpnf1ibyz1tVI"
-        }
-      ],
-      "duration_ms": 184426,
-      "name": "Silverline (lean on me)",
-      "url": "https://open.spotify.com/track/2j7ex6Rt50bJJw2ei7KOO1"
     },
     {
       "added_at": "2025-03-17 13:18:47",

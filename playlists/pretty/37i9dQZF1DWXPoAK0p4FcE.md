@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 
 > อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: YEW
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,638 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,634 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 | 9 | [ตาข่ายดักฝัน \(Rainbow Catcher\)](https://open.spotify.com/track/6PAS5UAJQLYgzRJu2s2a8U) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [Rainbow Landscape](https://open.spotify.com/album/1ZwmlC8iroJsQ9o76cYdCd) | 4:25 |
 | 10 | [ทุกวันเหมือนเดิม](https://open.spotify.com/track/4zQNXqaOsprULnmPpJzthQ) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [ทุกวันเหมือนเดิม](https://open.spotify.com/album/3u1yAY03tT0NgH6eXJX6NJ) | 4:03 |
 | 11 | [ในห้องเดิม \(Claustrophobia\)](https://open.spotify.com/track/55iW4BryMzudU98ySEhn1E) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ในห้องเดิม \(Claustrophobia\)](https://open.spotify.com/album/7hKiyBHI3KUPU1sbNCQT6H) | 4:08 |
-| 12 | [ชุ่มฉ่ำ](https://open.spotify.com/track/5l6uO5TPKSzO8JdgY8Z32Y) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ชุ่มฉ่ำ](https://open.spotify.com/album/7I1EvufQ6FQYUluyHAFSKk) | 3:39 |
+| 12 | [ชุ่มฉ่ำ \(ChumCham\)](https://open.spotify.com/track/5l6uO5TPKSzO8JdgY8Z32Y) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ชุ่มฉ่ำ \(ChumCham\)](https://open.spotify.com/album/7I1EvufQ6FQYUluyHAFSKk) | 3:39 |
 | 13 | [โลกยังหมุนไป \(Heart Echo\)](https://open.spotify.com/track/09lWajRUw0LOLZCM72l7a8) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [โลกยังหมุนไป \(Heart Echo\)](https://open.spotify.com/album/3zeCl9WvCuGll12kRI3D4a) | 4:17 |
 | 14 | [ให้เธอรู้](https://open.spotify.com/track/3bxsNh46m1cicdfcNptwOY) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ให้เธอรู้](https://open.spotify.com/album/7spK5lX3p2nBLYmgyA5CyX) | 4:11 |
 | 15 | [แบบที่ฉันเคยทำ](https://open.spotify.com/track/3lR3TCz0rBkXxL9XTpBMNB) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [แบบที่ฉันเคยทำ](https://open.spotify.com/album/4obX6QrYrEGPI2LgVVWnoL) | 4:16 |

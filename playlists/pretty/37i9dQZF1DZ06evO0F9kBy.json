@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 26736,
+  "num_followers": 26740,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAACjDHY3BhaktOVUUSQ1u2pV",
+  "snapshot_id": "Z9dmAAAAAABsdShZr8+eXJW4nMkGpQsO",
   "tracks": [
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive & Breathing",
-        "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 239256,
-      "name": "Lord of My Life",
-      "url": "https://open.spotify.com/track/6vGSYpEzyiAT3vVcGeJgXt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sanctuary Songs",
         "url": "https://open.spotify.com/album/2xtIB6EI9M4qilg51YSuzB"
       },
@@ -863,28 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Faithfulness (feat. Steffany Gretzinger)",
-      "url": "https://open.spotify.com/track/78ANuoRf4FZNRcUDtSaFiL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Stories I Tell Myself",
-        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
+        "name": "Alive & Breathing",
+        "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
       },
       "artists": [
         {
@@ -892,9 +856,9 @@
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 256066,
-      "name": "Burning Heart of God",
-      "url": "https://open.spotify.com/track/6BZNiWZcn87Xc8R3JyOkII"
+      "duration_ms": 239256,
+      "name": "Lord of My Life",
+      "url": "https://open.spotify.com/track/6vGSYpEzyiAT3vVcGeJgXt"
     },
     {
       "added_at": null,
@@ -915,6 +879,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 256066,
+      "name": "Burning Heart of God",
+      "url": "https://open.spotify.com/track/6BZNiWZcn87Xc8R3JyOkII"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Faithfulness (feat. Steffany Gretzinger)",
+      "url": "https://open.spotify.com/track/78ANuoRf4FZNRcUDtSaFiL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jesus, Firm Foundation: Hymns of Worship",
         "url": "https://open.spotify.com/album/6qmPIJGrMMPT3erUNOdJpi"
       },
@@ -931,18 +931,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+        "name": "Worship And Believe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2x3pEnvjOnFfn6er1yGlf4"
       },
       "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 231280,
-      "name": "Awake My Soul (A Thousand Tongues)",
-      "url": "https://open.spotify.com/track/62G1fPW9lyLHs1DGOyDRjL"
+      "duration_ms": 210666,
+      "name": "Hallelujah, You Are Good (feat. Matt Maher)",
+      "url": "https://open.spotify.com/track/3XenID3zL7KUMTgBhNp9Iz"
     },
     {
       "added_at": null,
@@ -967,22 +971,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worship And Believe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2x3pEnvjOnFfn6er1yGlf4"
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
       },
       "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 210666,
-      "name": "Hallelujah, You Are Good (feat. Matt Maher)",
-      "url": "https://open.spotify.com/track/3XenID3zL7KUMTgBhNp9Iz"
+      "duration_ms": 231280,
+      "name": "Awake My Soul (A Thousand Tongues)",
+      "url": "https://open.spotify.com/track/62G1fPW9lyLHs1DGOyDRjL"
     },
     {
       "added_at": null,

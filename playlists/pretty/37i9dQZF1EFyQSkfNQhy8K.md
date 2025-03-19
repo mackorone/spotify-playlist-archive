@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,615 likes - 186 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,614 likes - 186 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 84 | [Only One \(feat\. Di Genius\)](https://open.spotify.com/track/1LUp83N3Zh6FE5lpGdiUaU) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Julia Michaels](https://open.spotify.com/artist/5iZfdXW7Tr4Th4MuqFeyIh), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [Only One \(feat\. Di Genius\)](https://open.spotify.com/album/2Mug7a9txQpNZv3HunvIIc) | 3:38 |
 | 85 | [La Gira](https://open.spotify.com/track/0okUQOY50Ewk2qFUZM98C6) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [La Gira](https://open.spotify.com/album/1r4macev7NFEbzNhsfSWft) | 3:14 |
 | 86 | [MEJOR ASÍ](https://open.spotify.com/track/5toFwwO0qh5MwDXuPYRLe2) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 2:53 |
-| 87 | [Al Lau](https://open.spotify.com/track/1oeIC89Q2kH7pBhUnGGFi0) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Al Lau](https://open.spotify.com/album/3ub3CVweJ2BJAZD1PTm4st) | 2:44 |
-| 88 | [Bebé](https://open.spotify.com/track/1nJlNCRsYvmP8e91qQ2jop) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 2:55 |
+| 87 | [Bebé](https://open.spotify.com/track/1nJlNCRsYvmP8e91qQ2jop) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 2:55 |
+| 88 | [Al Lau](https://open.spotify.com/track/1oeIC89Q2kH7pBhUnGGFi0) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Al Lau](https://open.spotify.com/album/3ub3CVweJ2BJAZD1PTm4st) | 2:44 |
 | 89 | [SORNERITO](https://open.spotify.com/track/2gN4tTPjZceqOy2F0OJZQk) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 2:19 |
 | 90 | [Yo Le Mentí](https://open.spotify.com/track/3YfGttVKDOWNnDVqgYrrsE) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S) | 4:35 |
 | 91 | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Greeicy](https://open.spotify.com/artist/3R7i50Gdd7a4H4ORgEjFs3), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI) | 4:34 |
@@ -157,8 +157,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 147 | [Tokio](https://open.spotify.com/track/6fE7XcLoadUog7a85tVjne) | [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:32 |
 | 148 | [Sandunga](https://open.spotify.com/track/7EDPfx0FpzEU6eKnHKqyCU) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Sandunga](https://open.spotify.com/album/26svn8qJxkSRCrCVFXIA0F) | 2:49 |
 | 149 | [Paciente Por Ti \(feat\. Danny Ocean\)](https://open.spotify.com/track/17ng15Pe3DslSZdEm5JcIQ) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Dimelo, Mike](https://open.spotify.com/album/6hINc8GXHTJDpe5jtRslvY) | 3:18 |
-| 150 | [No Voy A Cambiar](https://open.spotify.com/track/6mflYV4snpVRc7SLkeb80n) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [No Voy A Cambiar](https://open.spotify.com/album/1rtdyipqp4TCLicTHf9gp5) | 4:02 |
-| 151 | [Cuidala](https://open.spotify.com/track/6G4zlCgYDXs9FiXf3qLefV) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Me Reinventé](https://open.spotify.com/album/3kRzYH7DIxKJT8SCRYcBH2) | 3:37 |
+| 150 | [Cuidala](https://open.spotify.com/track/6G4zlCgYDXs9FiXf3qLefV) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Me Reinventé](https://open.spotify.com/album/3kRzYH7DIxKJT8SCRYcBH2) | 3:37 |
+| 151 | [No Voy A Cambiar](https://open.spotify.com/track/6mflYV4snpVRc7SLkeb80n) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [No Voy A Cambiar](https://open.spotify.com/album/1rtdyipqp4TCLicTHf9gp5) | 4:02 |
 | 152 | [Trago Al Pecho](https://open.spotify.com/track/2FizWFIAvYANGK4CHOzGFw) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Trago Al Pecho](https://open.spotify.com/album/1ZgHIkKZSnxj0DbBKmOdv4) | 2:48 |
 | 153 | [Tu Canción](https://open.spotify.com/track/7luRwvd1VnAkqzA9cNQ0ad) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 2:50 |
 | 154 | [Olvidar](https://open.spotify.com/track/6bXhgSB0JZwxFl4qUdN6eC) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Olvidar](https://open.spotify.com/album/2YgC5ADumNhLMefJ7H30eL) | 3:02 |
@@ -172,8 +172,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 162 | [Exclusivos](https://open.spotify.com/track/0mgWP7XJ4yxwZzUmRX0HGW) | [Periko & Jessi Leon](https://open.spotify.com/artist/31d96XTKL3soxtdxzUVEP6) | [Exclusivos](https://open.spotify.com/album/3H10cEHm6jQyozDBn3NiAe) | 2:50 |
 | 163 | [La Partiste Con Tu Regalo](https://open.spotify.com/track/0RWEHFVi52OBbZmfGx1ANm) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Partiste Con Tu Regalo](https://open.spotify.com/album/4pzaKXE25bruaPwda3BM11) | 3:36 |
 | 164 | [De Donde Vengo](https://open.spotify.com/track/1zxO2zDpTbOkzxNkxxk5S2) | [Mila](https://open.spotify.com/artist/3w1KTqetFroZp8sL55Mmrp) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:34 |
-| 165 | [Para Ti No](https://open.spotify.com/track/0HWBXSJ2HAdINCZS7pDTzV) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Para Ti No](https://open.spotify.com/album/3KlCYfjv2GuUmqMUmLTWNO) | 3:19 |
-| 166 | [Vogue](https://open.spotify.com/track/7vYp30GiDVh3QQPdNsBWRo) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Vogue](https://open.spotify.com/album/0rRzrUT0vUVG9V7qyLpxPy) | 3:02 |
+| 165 | [Vogue](https://open.spotify.com/track/7vYp30GiDVh3QQPdNsBWRo) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Vogue](https://open.spotify.com/album/0rRzrUT0vUVG9V7qyLpxPy) | 3:02 |
+| 166 | [Para Ti No](https://open.spotify.com/track/0HWBXSJ2HAdINCZS7pDTzV) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Para Ti No](https://open.spotify.com/album/3KlCYfjv2GuUmqMUmLTWNO) | 3:19 |
 | 167 | [Chimbita](https://open.spotify.com/track/1YNEfc1XUXKoR12dsHL1OI) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Chimbita](https://open.spotify.com/album/43eryQivpY07mW42LUkJu1) | 2:10 |
 | 168 | [Santa Para Que Porfa](https://open.spotify.com/track/52qnXpspvSfn6VK96iADHG) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Santa Para Que Porfa](https://open.spotify.com/album/6y60Q4HPD3K9V0anQN0y2P) | 2:56 |
 | 169 | [Anillo](https://open.spotify.com/track/3BOvThJyP2y1rS5IYxYToZ) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Anillo](https://open.spotify.com/album/055pQ4oHabSbcFkoXSzfpg) | 2:40 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 185 | [Neruda](https://open.spotify.com/track/1OMonvPrtr2Y50MJje52A0) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Dimelo, Mike](https://open.spotify.com/album/6hINc8GXHTJDpe5jtRslvY) | 2:29 |
 | 186 | [Tango](https://open.spotify.com/track/1KSWO08GFqAzmfUSfKfwNl) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [Alaya](https://open.spotify.com/album/4nXbn9OTGwVGOBumFSF7Ul) | 3:25 |
 
-Snapshot ID: `AbsU6AAAAADd0E/d/GFec1ws9sY+cE8u`
+Snapshot ID: `AbsafgAAAAAJpwZAM0CY3mk5rn+Oi8H0`

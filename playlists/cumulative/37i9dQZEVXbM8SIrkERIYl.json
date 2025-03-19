@@ -910,7 +910,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-04",
+      "date_removed": null,
       "duration_ms": 295893,
       "name": "Africa",
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
@@ -16324,7 +16324,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -17900,7 +17900,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 156293,
       "name": "MOJO JOJO",
       "url": "https://open.spotify.com/track/3WRUvGqySBZC6RkB5c2w1S"
@@ -20678,7 +20678,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 185706,
       "name": "PHILLY (with Travis Scott)",
       "url": "https://open.spotify.com/track/5SIvP6TdWc9DNvKbENjnYc"
@@ -22448,7 +22448,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
@@ -24572,10 +24572,28 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 165045,
       "name": "Sports car",
       "url": "https://open.spotify.com/track/4il87YHqSV9UqbBkXM7z7m"
+    },
+    {
+      "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165045,
+      "name": "Sports car",
+      "url": "https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S"
     },
     {
       "album": {
@@ -26278,7 +26296,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 293293,
       "name": "Tennessee Whiskey",
       "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"

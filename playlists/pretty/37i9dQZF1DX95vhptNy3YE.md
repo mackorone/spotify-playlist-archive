@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Péricles, Seu Jorge e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,903 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,886 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 34 | [Sem Foto](https://open.spotify.com/track/2xYyitQHifMU31LPWGRVSZ) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [Skinny Beats](https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r) | [Sem Foto](https://open.spotify.com/album/2uKrEWsu00pkCZBZrfgyS2) | 2:56 |
 | 35 | [calor do momento](https://open.spotify.com/track/66nRZPGdQWXZhTSfvpIFDS) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [OS GAROTIN DE SÃO GONÇALO](https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ) | 3:19 |
 | 36 | [Elixir](https://open.spotify.com/track/7uI3uYghcCTdPBYdr6qODT) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Elixir](https://open.spotify.com/album/5XAz2CGZR28YpdaJ9cvbpg) | 4:23 |
-| 37 | [Tempo pra nos Dois](https://open.spotify.com/track/63ciYRzVXfrX7Uchke7B8U) | [SoulBlack](https://open.spotify.com/artist/0TIUr5SWYSc8fMkrCLeqEx), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Tempo pra nos Dois](https://open.spotify.com/album/4kBw2T5fCcNsc4wDBjuvkM) | 2:25 |
+| 37 | [Tempo Pra Nós Dois](https://open.spotify.com/track/63ciYRzVXfrX7Uchke7B8U) | [SoulBlack](https://open.spotify.com/artist/0TIUr5SWYSc8fMkrCLeqEx), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Tempo Pra Nós Dois](https://open.spotify.com/album/4kBw2T5fCcNsc4wDBjuvkM) | 2:25 |
 | 38 | [Maior Barato](https://open.spotify.com/track/5xrOwoxaAKovm3FcbbMQ0s) | [Milthinho](https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp), [Mania do Brasil](https://open.spotify.com/artist/7qX0K6BkuG9e9Hio2tWcE8) | [Mania Especial: Milthinho, Vol\. 2](https://open.spotify.com/album/2rsRFJB28YPlvYm1LDZmtF) | 3:44 |
 | 39 | [Dorme Com Deus \- Ao Vivo](https://open.spotify.com/track/29x19EWLWMB1sn8WD5iynZ) | [Tá Na Mente](https://open.spotify.com/artist/1x7Y5zQOvhROVPgy73689r), [Rony Lucio](https://open.spotify.com/artist/1vTOFf3Fkf6ElO9P1oBuCm), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Dorme Com Deus \(Ao Vivo\)](https://open.spotify.com/album/4rSEw4EQsTnuF92r9NWbDF) | 3:35 |
 | 40 | [Ninguém Precisa Se Odiar \- Ao Vivo](https://open.spotify.com/track/0PbchTAcLGIoweqrEckmBl) | [Renan Oliveira](https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm) | [Ninguém Precisa Se Odiar \(Ao Vivo\)](https://open.spotify.com/album/3ROdOIwYZFhZYzy3D4VXGo) | 2:37 |

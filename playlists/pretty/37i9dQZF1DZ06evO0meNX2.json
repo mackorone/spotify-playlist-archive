@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 36475,
+  "num_followers": 36491,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAAAMZSS5a02Xs3dIwI0gxdg6",
+  "snapshot_id": "Z9dmAAAAAABCG71rgUwBToPvOAzVTs9j",
   "tracks": [
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 179605,
-      "name": "El Motor",
-      "url": "https://open.spotify.com/track/3ACSiYnQcqaKf0p3OfzQrU"
+      "duration_ms": 198325,
+      "name": "Parque De Diversiones",
+      "url": "https://open.spotify.com/track/791oMvyY57IAKN31XYJ2PE"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 198325,
-      "name": "Parque De Diversiones",
-      "url": "https://open.spotify.com/track/791oMvyY57IAKN31XYJ2PE"
+      "duration_ms": 179605,
+      "name": "El Motor",
+      "url": "https://open.spotify.com/track/3ACSiYnQcqaKf0p3OfzQrU"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Hermanos",
-        "url": "https://open.spotify.com/album/4PuGOf57G5baJToJqDNSGS"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "Los Hermanos",
-      "url": "https://open.spotify.com/track/69IpqQ12TwdrzxA5jfUfpN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nos Gusta La Fiesta",
         "url": "https://open.spotify.com/album/0tLaUDX5gWY1sj3vZ2QTTK"
       },
@@ -655,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Hermanos",
+        "url": "https://open.spotify.com/album/4PuGOf57G5baJToJqDNSGS"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 217200,
+      "name": "Los Hermanos",
+      "url": "https://open.spotify.com/track/69IpqQ12TwdrzxA5jfUfpN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Golpes De La Vida",
         "url": "https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY"
       },
@@ -662,15 +662,11 @@
         {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "ZARAMAY",
-          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
         }
       ],
-      "duration_ms": 246671,
-      "name": "Vida Loca",
-      "url": "https://open.spotify.com/track/0TQjuQbF9O7wEZucVz4OT4"
+      "duration_ms": 210968,
+      "name": "Si Yo Me Activo",
+      "url": "https://open.spotify.com/track/20ujrHb2a79uFDJnmET4Rf"
     },
     {
       "added_at": null,
@@ -746,11 +742,15 @@
         {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
         }
       ],
-      "duration_ms": 210968,
-      "name": "Si Yo Me Activo",
-      "url": "https://open.spotify.com/track/20ujrHb2a79uFDJnmET4Rf"
+      "duration_ms": 246671,
+      "name": "Vida Loca",
+      "url": "https://open.spotify.com/track/0TQjuQbF9O7wEZucVz4OT4"
     },
     {
       "added_at": null,

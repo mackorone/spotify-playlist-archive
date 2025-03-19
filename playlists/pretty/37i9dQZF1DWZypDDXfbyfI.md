@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZypDDXfbyfI.md) - [plain]
 
 > Éxitos de todos los tiempos musicalizan tu cocina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,523 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,620 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

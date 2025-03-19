@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,267,475 likes - 200 songs - 14 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,267,858 likes - 200 songs - 14 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

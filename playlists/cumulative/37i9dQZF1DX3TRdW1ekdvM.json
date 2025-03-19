@@ -1911,24 +1911,6 @@
     },
     {
       "album": {
-        "name": "Sleep Sounds: Binural Music",
-        "url": "https://open.spotify.com/album/2PEe2JAAbeTioRgmSpfbVT"
-      },
-      "artists": [
-        {
-          "name": "Binaural Beats Sleep",
-          "url": "https://open.spotify.com/artist/5C95YXNLyaqbZjhwXMjZ4r"
-        }
-      ],
-      "date_added": "2021-12-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 190262,
-      "name": "Theta Wave 5Hz",
-      "url": "https://open.spotify.com/track/6JUpXHOhsQWn0ptRITy1Gq"
-    },
-    {
-      "album": {
         "name": "#Quiet Ambience",
         "url": "https://open.spotify.com/album/30TXNWQkiKCgftn8Mqh04s"
       },
@@ -1969,13 +1951,31 @@
     },
     {
       "album": {
-        "name": "\" Deep Therapy Vibrations \"",
+        "name": "Sleep Sounds: Binural Music",
+        "url": "https://open.spotify.com/album/2PEe2JAAbeTioRgmSpfbVT"
+      },
+      "artists": [
+        {
+          "name": "Sonoramic",
+          "url": "https://open.spotify.com/artist/4CAMxaEbGwkhKqWBLcI7AA"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190262,
+      "name": "Theta Wave 5Hz",
+      "url": "https://open.spotify.com/track/6JUpXHOhsQWn0ptRITy1Gq"
+    },
+    {
+      "album": {
+        "name": "Deep Therapy Vibrations",
         "url": "https://open.spotify.com/album/2TXP6UatW9JtkR9EIgKMed"
       },
       "artists": [
         {
-          "name": "Study Alpha Waves",
-          "url": "https://open.spotify.com/artist/3UDxdbAXqqKJG1pWgUgOCp"
+          "name": "Sonoramic",
+          "url": "https://open.spotify.com/artist/4CAMxaEbGwkhKqWBLcI7AA"
         }
       ],
       "date_added": "2022-05-17",
@@ -2085,24 +2085,6 @@
     },
     {
       "album": {
-        "name": "Binaural Beats for Deep Sleeping",
-        "url": "https://open.spotify.com/album/6UWhxbcXZLWc8g8N1AfJod"
-      },
-      "artists": [
-        {
-          "name": "Binaural Beats",
-          "url": "https://open.spotify.com/artist/5lKaPKuNyNz6LN6NfM5vz1"
-        }
-      ],
-      "date_added": "2021-12-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 231255,
-      "name": "Theta Waves for Sleeping Aid",
-      "url": "https://open.spotify.com/track/1CT6mKyUMshi15W3a42r6R"
-    },
-    {
-      "album": {
         "name": "12 Ambient Sounds: Perfect for Massage & Relaxation",
         "url": "https://open.spotify.com/album/3KSav8qEyzxbZCZTCSNqb6"
       },
@@ -2152,6 +2134,24 @@
       "duration_ms": 231255,
       "name": "Theta Waves for Sleeping Aid",
       "url": "https://open.spotify.com/track/3B4UpeTzNGiKPfBe8tq9GD"
+    },
+    {
+      "album": {
+        "name": "Binaural Beats for Deep Sleeping",
+        "url": "https://open.spotify.com/album/6UWhxbcXZLWc8g8N1AfJod"
+      },
+      "artists": [
+        {
+          "name": "Sonoramic",
+          "url": "https://open.spotify.com/artist/4CAMxaEbGwkhKqWBLcI7AA"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231255,
+      "name": "Theta Waves for Sleeping Aid",
+      "url": "https://open.spotify.com/track/1CT6mKyUMshi15W3a42r6R"
     },
     {
       "album": {

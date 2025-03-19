@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyxueI1JMs3.md) - [plain]
 
 > Music from “A3!”, Japan’s top anime style mobile games.イケメン役者育成ゲーム『A3!』公式プレイリスト！©Liber Entertainment Inc\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,824 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,825 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

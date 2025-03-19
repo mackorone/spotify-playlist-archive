@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Davidson Silva
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,874 likes - 70 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,936 likes - 70 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Barry Can't Swim
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,202 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,198 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 | 40 | [Asphalt](https://open.spotify.com/track/3fAqHozWFRgns0CAFEbekC) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Asphalt](https://open.spotify.com/album/5FMvxZocKUrvCVRhoQlbf0) | 2:47 |
 | 41 | [Angie's Wedding \- Smez's Edit](https://open.spotify.com/track/17au33tISuGIHCzaAjF25h) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Angie's Wedding](https://open.spotify.com/album/7435H9TKLYjU4KqvGSlK5N) | 3:09 |
 | 42 | [Talk Talk Talk](https://open.spotify.com/track/2AcvdEAVDfdXxlWoi82apC) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Talk Talk Talk](https://open.spotify.com/album/2i9bKhZ9HOdYWLAS92fARL) | 3:54 |
-| 43 | [Smell The Daises](https://open.spotify.com/track/2sTq0X4MDSkxCJlWRxZoY6) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Smell The Daises](https://open.spotify.com/album/6fPAIReQn5pSujZslHEwGk) | 4:10 |
+| 43 | [Smell The Daisies](https://open.spotify.com/track/2sTq0X4MDSkxCJlWRxZoY6) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Smell The Daisies](https://open.spotify.com/album/6fPAIReQn5pSujZslHEwGk) | 4:10 |
 | 44 | [lvl 6 \- VIDEO GAMES](https://open.spotify.com/track/4rUzVbdbpROiDvrn6EqMsH) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [lvl 6 \- VIDEO GAMES](https://open.spotify.com/album/4qqSFJ9ylEJoW2PB0vid5I) | 3:39 |
 | 45 | [Arm fell asleep](https://open.spotify.com/track/1k8EbQ64geRSgIghSRfR9R) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX) | [Arm fell asleep](https://open.spotify.com/album/6BDf31jpGIBShiFXzUdJC3) | 4:48 |
 | 46 | [SET HER FREE!](https://open.spotify.com/track/2am3CrIbWoGJBAkgq6GaBY) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [YAFA](https://open.spotify.com/album/5MT6po8jCHwMfZWuBpsTim) | 2:20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,857 likes - 76 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,860 likes - 76 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

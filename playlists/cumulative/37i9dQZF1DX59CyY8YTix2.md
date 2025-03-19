@@ -2,9 +2,9 @@
 
 ### [She Rocks](https://open.spotify.com/playlist/37i9dQZF1DX59CyY8YTix2)
 
-> 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ん・フェニ
+> 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ブランデー戦記
 
-1,836 songs - 4 day 18 hr 1 min
+1,839 songs - 4 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Boys, be ambitious](https://open.spotify.com/track/4vcHIzIDBsUllvqneWA6kD) | [TOKYO SHIOKOUJI](https://open.spotify.com/artist/0bnrNhhm8syLjMDOzqO0BL), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Boys, be ambitious](https://open.spotify.com/album/6aGMeoHhzvc5VIPtu3evWW) | 4:16 | 2023-01-17 | 2023-01-25 |
 | [Bracing air](https://open.spotify.com/track/4sAaR2qRc52jhS5SlbFOed) | [sumera](https://open.spotify.com/artist/57mUVnAYH1rN3F3bm5lFBt) | [Bracing air](https://open.spotify.com/album/32UdlkgVKV9jZMO0vT073Q) | 2:22 | 2022-06-07 | 2022-06-10 |
 | [Brainstop](https://open.spotify.com/track/5EkY5awFL3ketwiDsWkJmS) | [SAGOSAID](https://open.spotify.com/artist/63ojIZR5KasJ1PaouPVdsD) | [Brainstop](https://open.spotify.com/album/0TeQdYW2qGkM9yLNRmeGxs) | 2:30 | 2023-04-11 | 2023-05-10 |
+| [Breakfast special](https://open.spotify.com/track/0HN0KWvmzzK5f4bg9csrl8) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [Breakfast special](https://open.spotify.com/album/0a2Ix2wrKXKuPk4iq8uPWh) | 2:01 | 2025-03-18 |  |
 | [Breaking into the Space](https://open.spotify.com/track/4M1P9ArgpfNc5hyGTyTEVk) | [STEREOGIRL](https://open.spotify.com/artist/0VEN6k2yg8hCRyBHesHWSL) | [Spirit & Opportunity](https://open.spotify.com/album/6OQ5s8LyOK30yxBdDysZGN) | 2:51 | 2022-05-31 | 2022-07-28 |
 | [Bring it on](https://open.spotify.com/track/47si56TyftOEH6xZbgL2Tt) | [Sayaka Yamamoto](https://open.spotify.com/artist/0MkmM5Vy3gj9QX1JHiYCiK) | [Bring it on](https://open.spotify.com/album/4escCJsWwwuBWWVprF2Jkt) | 4:01 | 2023-05-09 | 2023-05-30 |
 | [Broken Song](https://open.spotify.com/track/1G6A1ymQOop6o0V0imT2Gl) | [SAGOSAID](https://open.spotify.com/artist/63ojIZR5KasJ1PaouPVdsD) | [Tough Love Therapy](https://open.spotify.com/album/0WAe0aNKZkj8QW8QY77d4k) | 3:33 | 2023-06-27 | 2023-07-19 |
@@ -150,7 +151,7 @@
 | [CHOTTO CHOTTO](https://open.spotify.com/track/55kIki7uA3uBAPhZM0CZfZ) | [Rei](https://open.spotify.com/artist/74BJTJjtRUwMBB8TjHiVwr), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [QUILT](https://open.spotify.com/album/6kx8fsC5cPGPW3UnknwIC5) | 3:47 | 2022-05-31 | 2022-06-25 |
 | [Chu Chu Song](https://open.spotify.com/track/4nDWG3USDzV0Io1w9ibyeO) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Chu Chu Song](https://open.spotify.com/album/0ISat8f2DfoFqVtjoTmHbb) | 2:54 | 2022-09-08 | 2022-09-15 |
 | [City Girl](https://open.spotify.com/track/6CDNvw1UvFtZAKZ1miGx1Q) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [City Girl](https://open.spotify.com/album/1iEEMuYRyBL7anoLkHXz7a) | 4:00 | 2022-11-15 | 2022-11-25 |
-| [CLASSIC](https://open.spotify.com/track/2EE5bX7zFI6TCbIvvL8A4y) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [CLASSIC](https://open.spotify.com/album/6tsA7mKlSnFrI1LMUbd1pP) | 4:34 | 2025-01-28 |  |
+| [CLASSIC](https://open.spotify.com/track/2EE5bX7zFI6TCbIvvL8A4y) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [CLASSIC](https://open.spotify.com/album/6tsA7mKlSnFrI1LMUbd1pP) | 4:34 | 2025-01-28 | 2025-03-19 |
 | [coast](https://open.spotify.com/track/5ZZm4mN1L6LFc3dgLP1HP1) | [kikori](https://open.spotify.com/artist/0cXjUfMnBp4CtqzWyPTaEM) | [coast](https://open.spotify.com/album/6E5cf5CsV2jma4rlF18S2M) | 5:00 | 2022-06-02 | 2022-06-04 |
 | [color](https://open.spotify.com/track/5iESDik6mW9qYwAJyClFPb) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [color](https://open.spotify.com/album/5ZKatxoImDrUV4EpSxvJx4) | 3:59 | 2022-06-02 | 2022-07-11 |
 | [Color Me feat\. マヒトゥ・ザ・ピーポー](https://open.spotify.com/track/0RUH1oKxLmG1ZICLHqF8W8) | [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN), [マヒトゥ・ザ・ピーポー](https://open.spotify.com/artist/63fYqqdUZw9L2BuQKqVvOe) | [Color Me feat\. マヒトゥ・ザ・ピーポー](https://open.spotify.com/album/3xe0c6Ly4VWsc01NkAFc9O) | 4:36 | 2022-06-30 | 2022-07-19 |
@@ -372,7 +373,7 @@
 | [Ideals](https://open.spotify.com/track/0m0XrQzGh9sjDIJYL0CXJx) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [Ideals](https://open.spotify.com/album/70ENwTNE8LEAUN4KHAIgi2) | 2:55 | 2022-05-26 | 2022-06-07 |
 | [Ideals](https://open.spotify.com/track/5mtJlCniBac2Jhx0eorAPZ) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [On This Planet](https://open.spotify.com/album/50jTBdULiq1mR4B8DG5m6e) | 2:55 | 2023-06-06 | 2023-06-14 |
 | [Iikotobakkajanai Sekai](https://open.spotify.com/track/0NzwGLEDSvzoVDPnyDWTPO) | [やましたりな](https://open.spotify.com/artist/1O235Li0262kkP7gfP6B5W) | [Ne.](https://open.spotify.com/album/2weNt1LD22f8lUHEjh9O8f) | 4:31 | 2023-12-12 | 2023-12-20 |
-| [IKIZAMA](https://open.spotify.com/track/5yppaWzGbOvKS2Wik6oWUk) | [East Of Eden](https://open.spotify.com/artist/3lvaevDiFzsr9cUrMV8HYn) | [The First Eden \- Seeds Of Hope \(Selected Edition\)](https://open.spotify.com/album/3TPdkObXMZnVVW2JhivaZf) | 3:51 | 2025-03-11 |  |
+| [IKIZAMA](https://open.spotify.com/track/5yppaWzGbOvKS2Wik6oWUk) | [East Of Eden](https://open.spotify.com/artist/3lvaevDiFzsr9cUrMV8HYn) | [The First Eden \- Seeds Of Hope \(Selected Edition\)](https://open.spotify.com/album/3TPdkObXMZnVVW2JhivaZf) | 3:51 | 2025-03-11 | 2025-03-19 |
 | [IMPLOSION](https://open.spotify.com/track/19160f74RVyQt9vNi93n7p) | [COLLAPSE](https://open.spotify.com/artist/3aLpODUWftL6JfrOed62f5) | [IMPLOSION](https://open.spotify.com/album/084RA5tsqFHyRe8eHytxaC) | 3:09 | 2022-05-26 | 2022-06-22 |
 | [IN MY ROOM](https://open.spotify.com/track/5o84Xk1e6YCHNLsxy1arHT) | [THE TOMBOYS](https://open.spotify.com/artist/0BxA6yATaPwCIvbvXxyGAy) | [IN MY ROOM](https://open.spotify.com/album/1z1i2xeIZwvDH24kkU4ow4) | 3:53 | 2022-11-23 | 2022-12-07 |
 | [Incarnation](https://open.spotify.com/track/2pg1TkWWTFUALftksUZ0ND) | [NELKE](https://open.spotify.com/artist/0hLfZOfwBDMejvKITJksrG) | [Incarnation](https://open.spotify.com/album/09LOUe1UXiYyBUctfTBR6o) | 4:36 | 2024-10-01 | 2025-03-12 |
@@ -797,6 +798,7 @@
 | [Thank Uuuuu for ....](https://open.spotify.com/track/6M3BdsIKQfcjazn6AQaY72) | [U](https://open.spotify.com/artist/5yg4eMyfkrqwiI4AQsr65h) | [HEARTRHYTHMO](https://open.spotify.com/album/5e4WLSYxYacF9MyWdOdpqF) | 3:37 | 2022-06-30 | 2022-07-06 |
 | [That I](https://open.spotify.com/track/53UazAHPCpRwkrsGBEIZzV) | [D.B.Inches](https://open.spotify.com/artist/7KEhGKSsPLAgoNLnRG6bd8) | [That I](https://open.spotify.com/album/4l3WEaz9RRGERXY9h5MMjP) | 3:42 | 2023-06-27 | 2023-07-05 |
 | [The 1st chapter](https://open.spotify.com/track/4yhKrIVgnaQM3YD3dbDFc4) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [The 1st chapter](https://open.spotify.com/album/61MfHl4QOaS3pHyP9WWg5v) | 4:12 | 2023-05-23 | 2023-06-30 |
+| [The End of the F\*\*\*ing World](https://open.spotify.com/track/3QjiZvyA3BEVKOldWbwgvS) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [The End of the F\*\*\*ing World](https://open.spotify.com/album/0QE8Ni8QuDwINxg4bjPZIS) | 4:04 | 2025-03-18 |  |
 | [the eye drops from 7th floor make my eyes burn](https://open.spotify.com/track/5muzgZHK75iLi3HgBf5OFg) | [bungeitengoku](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [the eye drops from 7th floor make my eyes burn](https://open.spotify.com/album/4Sh6E35orP4cqcKA7lPrfT) | 3:48 | 2023-01-17 | 2023-01-25 |
 | [The Glass Forest](https://open.spotify.com/track/0s880A67CN3VuHjLB06o3T) | [くしゃみ。。](https://open.spotify.com/artist/4Bl6epmDiy4cm8sbijZNfG) | [The Glass Forest](https://open.spotify.com/album/5lvvdA17OQJkQmhgCD4qXM) | 2:59 | 2023-10-17 | 2023-11-01 |
 | [The Goldmine](https://open.spotify.com/track/6jySeYVTWo7S9HE1A9q7ju) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [The Goldmine](https://open.spotify.com/album/3bFJ75u5NpQsqi4HtxVHmQ) | 3:32 | 2023-11-14 | 2024-01-24 |
@@ -871,7 +873,7 @@
 | [will](https://open.spotify.com/track/7uIA62xRJFwgWZFLx7QHeu) | [paranoid void](https://open.spotify.com/artist/3tIzE1MQigIhocuWtGBNrx) | [will](https://open.spotify.com/album/5JmEMTf3HPwj0ozKACqXS8) | 4:20 | 2024-08-06 | 2024-09-18 |
 | [winnie](https://open.spotify.com/track/3TXi4Jus3AHmAvLZ0almWX) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [we are the tiva 2](https://open.spotify.com/album/7aJijMfdNjvuJdtyFzJA1U) | 3:01 | 2023-06-13 | 2023-06-21 |
 | [Within Us Invincible Summer](https://open.spotify.com/track/1xZWP04Wk0kuyr4u9gIsiS) | [Naive Super](https://open.spotify.com/artist/7K0bB9EYroWULvFkVVMWFS) | [Within Us Invincible Summer](https://open.spotify.com/album/3UJtXHUg3uEHCnY94N8y3Q) | 3:34 | 2022-06-07 | 2022-07-12 |
-| [Without you](https://open.spotify.com/track/7utMFMe3A0Ki8mwOm2kAIX) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [Without you](https://open.spotify.com/album/42r4ioVAytvz2fvvfYrutO) | 4:39 | 2025-02-18 |  |
+| [Without you](https://open.spotify.com/track/7utMFMe3A0Ki8mwOm2kAIX) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [Without you](https://open.spotify.com/album/42r4ioVAytvz2fvvfYrutO) | 4:39 | 2025-02-18 | 2025-03-19 |
 | [Wonder](https://open.spotify.com/track/4TsAkPGvhdonwGTKGMlpzq) | [Tocago](https://open.spotify.com/artist/5WYxT3w8PntFhAJC48Y7oc) | [Wonder](https://open.spotify.com/album/5W139K2yQAbuAv6aIZ4udl) | 2:47 | 2023-08-08 | 2023-08-10 |
 | [Wonder](https://open.spotify.com/track/7LmyUMkJ3NZXaznMpKbyBP) | [Tocago](https://open.spotify.com/artist/5WYxT3w8PntFhAJC48Y7oc) | [Wonder](https://open.spotify.com/album/7vfrEch41gKo7P7NTFhU2a) | 2:47 | 2023-08-08 | 2023-08-23 |
 | [Woolly](https://open.spotify.com/track/5fqq7HOGNSRjc9CSwkwhDk) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [Woolly](https://open.spotify.com/album/38f696Nby5Tqqwq3Cg8VNx) | 4:22 | 2022-06-02 | 2022-07-27 |
@@ -1487,6 +1489,7 @@
 | [天使になったら](https://open.spotify.com/track/3GNVa2iKdQtMzjMyHqamCk) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [天使になったら](https://open.spotify.com/album/5NjNjH6wvLD4j36Ukk8SJY) | 3:30 | 2023-08-22 | 2023-08-24 |
 | [天使にマーチンを](https://open.spotify.com/track/4YTWjMuDy6YDPvzx5Yf9pU) | [The Otals](https://open.spotify.com/artist/2L8w8wwNFtKVGd9CLkicfe) | [スランバーワンダーランドへようこそ / 天使にマーチンを](https://open.spotify.com/album/5f2aTLKs7pAuFVlUsHk164) | 4:06 | 2024-05-21 | 2024-06-12 |
 | [天使のキス](https://open.spotify.com/track/0BPqXMCGVxCIcBo7WPjOzj) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [天使のキス](https://open.spotify.com/album/3lt2LRlBbR6N0OuRSpCuz4) | 3:00 | 2023-05-30 | 2023-06-21 |
+| [天国思想 \- exist mix](https://open.spotify.com/track/7laguABZVSuH23LXNDuLFC) | [終日柄](https://open.spotify.com/artist/6GB4djlOOFXCLvTgVeBIG9) | [在る](https://open.spotify.com/album/79gVB2L0lhHuBRGGUOYEdt) | 5:01 | 2025-03-18 |  |
 | [天誅 \- 雫 Solo Ver.](https://open.spotify.com/track/4niTdJjxV9I1VVgvespSlj) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [天誅 \(雫 Solo Ver.\)](https://open.spotify.com/album/7id6IiB550ml0ZlbjPUBNU) | 4:05 | 2023-11-07 | 2024-01-24 |
 | [太陽光発電](https://open.spotify.com/track/0Rk04NcsQBH3DVUQP3XFwY) | [Hoach5000](https://open.spotify.com/artist/1LqzNg0KlZGwDrNClMNMYo) | [太陽光発電](https://open.spotify.com/album/6oNiE4hGpsi8bloziYS5TN) | 3:28 | 2022-11-23 | 2022-11-24 |
 | [失恋回転寿司](https://open.spotify.com/track/7LrbJAwIXnzDAHZEoNKpqS) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [pink](https://open.spotify.com/album/01C39G0ZRM19MdKlFMHsa7) | 3:50 | 2024-03-19 | 2024-04-24 |

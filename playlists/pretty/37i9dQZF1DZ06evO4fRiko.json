@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Brown. The essential tracks, all in one playlist.",
-  "num_followers": 913252,
+  "num_followers": 913355,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAAAy7NnPMgzFz2yJeZ7kOBdE",
+  "snapshot_id": "Z9dmAAAAAADvhNbucJXGJIXaS4HMPO4x",
   "tracks": [
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy (Remix)",
-        "url": "https://open.spotify.com/album/07oupZyy8xBQq0RQmXmg5z"
-      },
-      "artists": [
-        {
-          "name": "DaniLeigh",
-          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4CMrdHWqic0usIZfTrKoI3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Exclusive (Expanded Edition)",
         "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 250666,
       "name": "Kiss Kiss (feat. T-Pain)",
       "url": "https://open.spotify.com/track/3wKKkGVn7cVSfgPeYYIiXG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Easy (Remix)",
+        "url": "https://open.spotify.com/album/07oupZyy8xBQq0RQmXmg5z"
+      },
+      "artists": [
+        {
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4CMrdHWqic0usIZfTrKoI3"
     },
     {
       "added_at": null,

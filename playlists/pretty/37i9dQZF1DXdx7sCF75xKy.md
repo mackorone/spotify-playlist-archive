@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 
 > Listen to women at full volume\. Cover: rhyu
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,201 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,211 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 14 | [Sebulan Raya](https://open.spotify.com/track/4k7kapsnvALN8WJYFfB8JJ) | [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t) | [Sebulan Raya](https://open.spotify.com/album/0OqG7jTaIIWg0F1lqXktkD) | 3:13 |
 | 15 | [KEJAR](https://open.spotify.com/track/2iWiB5PzxHgqI4MvIEE7bF) | [Zizi Kirana](https://open.spotify.com/artist/3HgrsNDURBPYS1KlN7LgnE) | [KEJAR](https://open.spotify.com/album/0LhQyLipCvGImiOzZS7bjg) | 3:02 |
 | 16 | [Berat Sebelah](https://open.spotify.com/track/5kTrmbKX3Smrd2BFhj4oue) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Fasa](https://open.spotify.com/album/0UI4CCBeKA3Wrj4iymyYUc) | 3:34 |
-| 17 | [Titik Mula](https://open.spotify.com/track/4rVHMNjY3Cf6fwd9NYWfIC) | [Mary Grace](https://open.spotify.com/artist/5DJNxfiIgCQ7nJ1QRTQcsF) | [Titik Mula](https://open.spotify.com/album/3IQhuysrfYfML67fMhOZZ2) | 3:53 |
+| 17 | [Titik Mula](https://open.spotify.com/track/4rVHMNjY3Cf6fwd9NYWfIC) | [Mary Grace](https://open.spotify.com/artist/09DVXI1bBlBZo8KEkMorR2) | [Titik Mula](https://open.spotify.com/album/3IQhuysrfYfML67fMhOZZ2) | 3:53 |
 | 18 | [Merah](https://open.spotify.com/track/3TGgs9d4A4MTUd5wyWFHND) | [Zazzleen](https://open.spotify.com/artist/0dztDwlWsGVbmLxEp93KHN) | [Merah](https://open.spotify.com/album/4zvndqtQJIg97j6tXrL0Wt) | 4:08 |
 | 19 | [Hari Ini Kumengerti](https://open.spotify.com/track/6FUdW1if9HbIVDv6LLuYuz) | [Intan Shafinas](https://open.spotify.com/artist/74Zez2T23wh3l3MkAarhIh) | [Hari Ini Kumengerti](https://open.spotify.com/album/0OdjpaedA0eMgEcOOC1Ts9) | 3:45 |
 | 20 | [Bunga](https://open.spotify.com/track/6eCFAP5OyiIvlarb4Ac8bq) | [Ara Johari](https://open.spotify.com/artist/0xuL8l2qakTAyURbZb1gtc) | [Bunga](https://open.spotify.com/album/4DoxjpmCQrmiWNSuCr7Vzg) | 3:48 |

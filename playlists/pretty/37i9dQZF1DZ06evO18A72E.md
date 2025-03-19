@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18A72E.md) - [plain]
 
 > This is Panic! At The Disco\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,129 likes - 43 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,120 likes - 43 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18A72E.md) - [plain]
 | 42 | [Memories](https://open.spotify.com/track/0k8tcDGLSqUQAeuoOaUJj2) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 3:25 |
 | 43 | [When the Day Met the Night](https://open.spotify.com/track/7v1b3qExlTFrpFWrtcnUpE) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 4:53 |
 
-Snapshot ID: `Z9YUgAAAAADOwVBE1/6kUTGrZUd7vQQa`
+Snapshot ID: `Z9dmAAAAAACOj7Ab5lzD1YAmIfnDF1Dt`

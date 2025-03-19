@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 
 > This is Def Leppard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,998 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,016 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 | 49 | [Dangerous](https://open.spotify.com/track/5RdVA7oxXNG08TIPAJrDic) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Def Leppard](https://open.spotify.com/album/68zsPqS53fVtv9jUU2GZPz) | 3:26 |
 | 50 | [Undefeated](https://open.spotify.com/track/7w2W2XIem4XdNfgSQzbypm) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Mirror Ball – Live & More](https://open.spotify.com/album/3dAgxpN9US0pj3OB3hOq32) | 4:40 |
 
-Snapshot ID: `Z9YUgAAAAADFo7HCOZJj6l2DE83NnnF5`
+Snapshot ID: `Z9dmAAAAAABuZo46T5jv9fuVVU6qlNhu`

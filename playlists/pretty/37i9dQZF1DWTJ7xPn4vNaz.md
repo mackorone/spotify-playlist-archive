@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ7xPn4vNaz.md) - [plain]
 
 > The biggest songs of the 1970s\. Cover: Roberta Flack
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,721,096 likes - 150 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,721,444 likes - 150 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

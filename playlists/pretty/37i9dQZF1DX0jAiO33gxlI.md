@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Clara Lima, Luedji Luna, Cynthia Luz, Negra Li, Boombeat, Azzy, Duquesa
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,780 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,769 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 24 | [Aqui Tem](https://open.spotify.com/track/2vkjhjpOJQBOFluK0fCp4X) | [Leandro Palmerah](https://open.spotify.com/artist/6MBhZ9myeFgXE3PvlsJqYS), [NóizProd](https://open.spotify.com/artist/3ww1Cvu2JnTEqxpRQwlGGZ), [Mano Fler](https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx) | [Aqui Tem](https://open.spotify.com/album/4UVgmDJQFkEI3FPssYvsqD) | 4:12 |
 | 25 | [Agradecer](https://open.spotify.com/track/3O40wL0HwIkKczJwZEoICx) | [Gigante No Mic](https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX) | [Agradecer](https://open.spotify.com/album/4Qt3A7kXjrO8Xnz336QH9F) | 3:31 |
 | 26 | [Renascer](https://open.spotify.com/track/6wWZ5ptp5YrTEgBqAm3hos) | [Memphis Depay](https://open.spotify.com/artist/6vHeztszLzqchlxlfUnwAo), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Renascer](https://open.spotify.com/album/6xQGe7nkat7dSTv26EmxGn) | 2:52 |
-| 27 | [Yin Yang](https://open.spotify.com/track/4dfYeOXuSPR6ZG9oxtj1yR) | [Moreiranavoz](https://open.spotify.com/artist/2ti4Q3nLT9uQmGdiJIYKDX), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Delta7](https://open.spotify.com/artist/4kZTC2MdZt3AgKWBvS17C3) | [Yin Yang](https://open.spotify.com/album/3aYIj4pNgN7Y9jgR9wCKQ1) | 2:42 |
+| 27 | [Yin Yang](https://open.spotify.com/track/4dfYeOXuSPR6ZG9oxtj1yR) | [Moreiranavoz](https://open.spotify.com/artist/2ti4Q3nLT9uQmGdiJIYKDX), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Martins.prodz](https://open.spotify.com/artist/1DQaq7dn5kLHc3qFiVplZr) | [Yin Yang](https://open.spotify.com/album/3aYIj4pNgN7Y9jgR9wCKQ1) | 2:42 |
 | 28 | [Sonhos](https://open.spotify.com/track/0o3tIZF0ynWB8nNq56bY30) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Sonhos](https://open.spotify.com/album/6OymBjfucKH5crAVVi0JZR) | 3:18 |
 | 29 | [Perfil \#101 \- Morde As Costas](https://open.spotify.com/track/7AqU01F7PztRL2YpqHgQap) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Saffi](https://open.spotify.com/artist/7B2LE0Bhy4FxYlJnOuVO1k) | [Perfil \#101 \- Morde As Costas](https://open.spotify.com/album/3Aba5wb56tSCatbmECEGqt) | 2:21 |
 | 30 | [Cartier Santos Dumont](https://open.spotify.com/track/173oBdI5W1ucG1MUdAMsor) | [Febre90s](https://open.spotify.com/artist/3Igua105OJq78XPcPKPGku), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE), [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM) | [Cartier Santos Dumont](https://open.spotify.com/album/3QXwSeMoEEnD8QHNjfFfG4) | 2:24 |

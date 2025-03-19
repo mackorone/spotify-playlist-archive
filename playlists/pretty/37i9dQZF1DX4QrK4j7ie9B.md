@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4QrK4j7ie9B.md) - [plain]
 
 > The ultimate classical playlist for post\-workout stretching, meditation and mindfulness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,482 likes - 46 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,514 likes - 46 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

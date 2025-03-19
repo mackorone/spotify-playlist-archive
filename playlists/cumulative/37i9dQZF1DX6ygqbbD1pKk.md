@@ -4,7 +4,7 @@
 
 > Todos tus éxitos favoritos de Disney\. Mufasa, Moana 2, Encanto y mucho más!
 
-143 songs - 7 hr 15 min
+144 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 3:16 | 2023-09-15 |  |
 | [U Know What's Up](https://open.spotify.com/track/0d83zVs3OmdjrhfoAxg1dE) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [Turning Red \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3) | 3:08 | 2023-09-15 |  |
 | [Un Amigo Fiel](https://open.spotify.com/track/6GTcMZqvnPzBvOeylpRSdk) | [Rubén Trujillo](https://open.spotify.com/artist/6KT2TYbf3hbyQsye7cpqOV) | [Aladdín \(Edición Especial/Banda Sonora Original en Español\)](https://open.spotify.com/album/4Aq9s6WnRz26dN0SYEueJk) | 2:26 | 2023-09-15 |  |
+| [Un Deseo en Mí](https://open.spotify.com/track/76pSjb8dSV1ZQ05mGWGDvV) | [Mariana Dávila](https://open.spotify.com/artist/2KdBD7KTyXqgxu5klRWJbL) | [Blanca Nieves \(Banda Sonora Original\)](https://open.spotify.com/album/5P0ab0UkCa07CU0LNXdCSc) | 4:51 | 2025-03-18 |  |
 | [Un mundo ideal \(Versión Créditos\)](https://open.spotify.com/track/5pGJgq1KxaRHEOZTD0egWL) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Aladdín \(Banda De Sonido Original en Español\)](https://open.spotify.com/album/7aPWDugGx9KNY4YGjBbDSs) | 4:01 | 2023-09-15 |  |
 | [Un Poco Loco](https://open.spotify.com/track/2FkSd709jZmvngPNUg7jkQ) | [Luis Ángel Gómez Jaramillo](https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5), [Gael Garcia Bernal](https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 1:52 | 2023-09-15 | 2024-10-18 |
 | [Un Poco Loco](https://open.spotify.com/track/65vseJi4kug0grGTTSmH2u) | [Luis Ángel Gómez Jaramillo](https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5), [Gael Garcia Bernal](https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p) | [Coco \(Banda Sonora Original en Español\)](https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI) | 1:52 | 2024-10-17 |  |

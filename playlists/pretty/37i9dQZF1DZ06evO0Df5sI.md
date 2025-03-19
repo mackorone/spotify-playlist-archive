@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 
 > This is Alkaline Trio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,771 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,777 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 44 | [Maybe I'll Catch Fire](https://open.spotify.com/track/1SAu5cfWXQPqd3CppSkhWA) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Maybe I'll Catch Fire](https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK) | 3:07 |
 | 45 | [The Sacrifice](https://open.spotify.com/track/4d4yRBNhVyISQ2lreeEmut) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [The Sacrifice / At Sickness](https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL) | 3:28 |
 | 46 | [Demon and Division](https://open.spotify.com/track/1z1KFCZnxDl5YsJPhJcqqB) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 3:16 |
-| 47 | [Kiss You To Death](https://open.spotify.com/track/74ocpSSePJzUbfstuWISWD) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [My Shame Is True \(Deluxe Edition\)](https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV) | 3:21 |
-| 48 | [Goodbye Forever](https://open.spotify.com/track/7BLDpoxWYAiRihzazyiOQu) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [The Alkaline Trio](https://open.spotify.com/album/0H1aJgfXxsVNzfpAlKGhtH) | 2:50 |
+| 47 | [Goodbye Forever](https://open.spotify.com/track/7BLDpoxWYAiRihzazyiOQu) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [The Alkaline Trio](https://open.spotify.com/album/0H1aJgfXxsVNzfpAlKGhtH) | 2:50 |
+| 48 | [Kiss You To Death](https://open.spotify.com/track/74ocpSSePJzUbfstuWISWD) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [My Shame Is True \(Deluxe Edition\)](https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV) | 3:21 |
 | 49 | [Fuck You Aurora](https://open.spotify.com/track/2VDhNJigUBtbkxToyLPu2I) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Maybe I'll Catch Fire](https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK) | 4:49 |
 | 50 | [At Sickness](https://open.spotify.com/track/2i5EFz6afRqGBDNtQOolEH) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [The Sacrifice / At Sickness](https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL) | 3:53 |
 
-Snapshot ID: `Z9YUgAAAAABkI2xoxlYh/v3JwPcoTp8J`
+Snapshot ID: `Z9dmAAAAAAAPAxUPJ/IRaUnMH0Lb99jE`

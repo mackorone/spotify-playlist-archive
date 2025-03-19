@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: LE SSERAFIM
 
-1,413 songs - 3 day 3 hr 22 min
+1,414 songs - 3 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Beautiful Liar](https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [REASON](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) | 3:03 | 2023-01-09 | 2023-04-05 |
 | [BEAUTIFUL MONSTER](https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [WE NEED LOVE](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) | 3:00 | 2022-07-19 | 2022-10-14 |
 | [Beautiful Restriction](https://open.spotify.com/track/7CHDUDw89DCR8vvI0yTXGa) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [A Time Called You \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5qHH0SHWf5yQxG4yqHnIzY) | 3:52 | 2023-09-08 | 2023-11-10 |
+| [BEBE](https://open.spotify.com/track/5iXD5rOKV99XGtkaiucHpM) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [S](https://open.spotify.com/album/6QTpBMKMIa2OFMqZBQu2Pm) | 2:59 | 2025-03-17 |  |
 | [Because I](https://open.spotify.com/track/0mh54tHuGhlfC0ypt92CPq) | [CHIMIRO](https://open.spotify.com/artist/5edUSurLivUZXjtOKqAMOY) | [CHIMIRO VOL.1](https://open.spotify.com/album/1rbStC1P0naeSLzdWxnf32) | 5:01 | 2023-04-25 | 2023-05-17 |
 | [Behind The Curtain](https://open.spotify.com/track/14nturKxV48wR3lbknehiu) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Masterpiece](https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ) | 2:58 | 2023-07-25 | 2023-09-22 |
 | [Best Friend Ever](https://open.spotify.com/track/1Z5Dmg7Dvu0X4oSdqLZ3Lu) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Best Friend Ever](https://open.spotify.com/album/4cT6f8tGzBtybpBNYPEQoX) | 3:21 | 2023-02-08 | 2023-04-18 |

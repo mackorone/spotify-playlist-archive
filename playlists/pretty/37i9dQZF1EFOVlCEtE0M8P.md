@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,242 likes - 246 songs - 14 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,243 likes - 246 songs - 14 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 64 | [Attached To You](https://open.spotify.com/track/2KCMKqK2hFvUiio8pzuHRC) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:36 |
 | 65 | [Revolution \- EP Version](https://open.spotify.com/track/71jr6tYkIteQX0PuR7cbUe) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Galantis EP](https://open.spotify.com/album/2MhV8VxLYe6jSC6Z14MxfW) | 3:49 |
 | 66 | [Bones](https://open.spotify.com/track/3aAmODvCT7Mf2c94zMOCGN) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [Life](https://open.spotify.com/album/0OwVeTY6EU5CuHNhEhc4kJ) | 4:00 |
-| 67 | [Fighter](https://open.spotify.com/track/2rCp1guc98g6pxqWELfh2b) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:41 |
-| 68 | [Boom Boom Back](https://open.spotify.com/track/7F23DCedR78uUiAVbY3vG1) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [VIVA HINDS](https://open.spotify.com/album/4uZYu8YuWfnDcEAnmJ0UQj) | 3:24 |
+| 67 | [Boom Boom Back](https://open.spotify.com/track/7F23DCedR78uUiAVbY3vG1) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [VIVA HINDS](https://open.spotify.com/album/4uZYu8YuWfnDcEAnmJ0UQj) | 3:24 |
+| 68 | [Fighter](https://open.spotify.com/track/2rCp1guc98g6pxqWELfh2b) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:41 |
 | 69 | [Kill For You](https://open.spotify.com/track/0BuW1JbaKtMpAxLyjpHf9n) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:44 |
 | 70 | [Two Things Can Be True](https://open.spotify.com/track/38fBiZhAfXclw5avjMiu1b) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:45 |
 | 71 | [good for it](https://open.spotify.com/track/3uJnrjozwZjtElWVYkwX41) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [new skin](https://open.spotify.com/album/79IXyvIKV3yo80B9fpLCux) | 3:54 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 85 | [Better By Now](https://open.spotify.com/track/0HBvEjoX56Ms9quzgKPi4l) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68) | [No Escape Out Of Time](https://open.spotify.com/album/5xDzV2IFfcVOFK3n4EksKs) | 4:06 |
 | 86 | [Love to My Cobain](https://open.spotify.com/track/2UfCks3j9KYfvf0ELmnO6v) | [Jeffree Star](https://open.spotify.com/artist/0ZVqyfTk5GaaRiQNQaW9jg) | [Love to My Cobain](https://open.spotify.com/album/6q0tGOIKIbNIWpuyD8zYSC) | 4:37 |
 | 87 | [Nobody Told Me](https://open.spotify.com/track/6kxgE6qfqrXsKWMWSbUxaB) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Underground Luxury](https://open.spotify.com/album/177byugYOk12NcfRtWvghY) | 3:23 |
-| 88 | [Riding Solo](https://open.spotify.com/track/6ybNJZF5XxvLUwHZVzopWV) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [The Prettiest Curse](https://open.spotify.com/album/6FumkInA48vTNiUcTMzlbp) | 3:36 |
-| 89 | [Saccharine](https://open.spotify.com/track/1NiPI7ATyw4ZwI2b858XrT) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Saccharine](https://open.spotify.com/album/4JKSFwpmyXKYnSdplEcKXz) | 3:12 |
+| 88 | [Saccharine](https://open.spotify.com/track/1NiPI7ATyw4ZwI2b858XrT) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Saccharine](https://open.spotify.com/album/4JKSFwpmyXKYnSdplEcKXz) | 3:12 |
+| 89 | [Riding Solo](https://open.spotify.com/track/6ybNJZF5XxvLUwHZVzopWV) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [The Prettiest Curse](https://open.spotify.com/album/6FumkInA48vTNiUcTMzlbp) | 3:36 |
 | 90 | [Big Bang](https://open.spotify.com/track/5PZYx77iX5fHnV0k92rXAs) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Big Bang](https://open.spotify.com/album/4nWjwpB38UNcyce4tM21d7) | 2:49 |
 | 91 | [Fake Sugar](https://open.spotify.com/track/1WDVZNals95SINqXbGPHgs) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:29 |
 | 92 | [Long Time Coming](https://open.spotify.com/track/6Asx1JqGcQGEjbmJuhEDdY) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova](https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb) | 3:24 |
@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 132 | [Staring At The Ceiling](https://open.spotify.com/track/2w2iCUjTKbuGJ5OtCSqOS6) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Perfect Picture](https://open.spotify.com/album/1ChwZuPoRvA8Z5uprRsO2P) | 3:43 |
 | 133 | [Comedown](https://open.spotify.com/track/0QG1WcZLIR6SI6HcENvq62) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Sugar Water](https://open.spotify.com/album/2T17eNpNaZjeuDFcW3Mgfs) | 2:38 |
 | 134 | [Bleed](https://open.spotify.com/track/73k6CSBwtpNiMNMVagMsUK) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [Life](https://open.spotify.com/album/0OwVeTY6EU5CuHNhEhc4kJ) | 3:30 |
-| 135 | [Knock Yourself Out](https://open.spotify.com/track/5GyXZ7DiUmJPdZnO0syfVA) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Hopeless Romantic](https://open.spotify.com/album/0KQoc67ApuKSx5qBPtrXJt) | 4:04 |
-| 136 | [Slugger](https://open.spotify.com/track/4rrXiaY0xav3DstODYfNl5) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 3:00 |
+| 135 | [Slugger](https://open.spotify.com/track/4rrXiaY0xav3DstODYfNl5) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 3:00 |
+| 136 | [Knock Yourself Out](https://open.spotify.com/track/5GyXZ7DiUmJPdZnO0syfVA) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Hopeless Romantic](https://open.spotify.com/album/0KQoc67ApuKSx5qBPtrXJt) | 4:04 |
 | 137 | [Go Baby Go](https://open.spotify.com/track/7caGhEAbbH6WXTjcXJFG3L) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:03 |
 | 138 | [Oh My God](https://open.spotify.com/track/1DJ4xfLYFfJ5FIYVMsyigX) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 4:44 |
 | 139 | [Off My Mind](https://open.spotify.com/track/5j04PtFqIYTitAIVINjhOz) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/1vfCJpWRr50g1jvcWtXnjH) | 3:09 |
@@ -169,8 +169,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 159 | [Clouds \(Song for John\)](https://open.spotify.com/track/7l08XZdspWcHUxwnf4MfMC) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 2:31 |
 | 160 | [Shivers](https://open.spotify.com/track/00thPgmLw1MtgpJyKWOiXm) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:47 |
 | 161 | [Kills Me To Be Kind](https://open.spotify.com/track/5iup3v0ACOZxhjmEa1Uc1z) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [The Mess We Seem To Make \(Deluxe\)](https://open.spotify.com/album/3C1OK6djJ12taoAWI95Sef) | 4:40 |
-| 162 | [LSD](https://open.spotify.com/track/0xgOHnxm100ArcfEn9hu6Y) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Second Nature](https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw) | 3:40 |
-| 163 | [pixie dust](https://open.spotify.com/track/3lh4K4ksY84ATTQNbcTg4u) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for pixie](https://open.spotify.com/album/5dLZH32QBSqkcHhJxHTqb6) | 2:08 |
+| 162 | [pixie dust](https://open.spotify.com/track/3lh4K4ksY84ATTQNbcTg4u) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for pixie](https://open.spotify.com/album/5dLZH32QBSqkcHhJxHTqb6) | 2:08 |
+| 163 | [LSD](https://open.spotify.com/track/0xgOHnxm100ArcfEn9hu6Y) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Second Nature](https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw) | 3:40 |
 | 164 | [Kiss Me](https://open.spotify.com/track/1RMYwkxY1v6RryYIbfDHjY) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [The Mess We Seem To Make \(Deluxe\)](https://open.spotify.com/album/3C1OK6djJ12taoAWI95Sef) | 3:34 |
 | 165 | [Keep Running](https://open.spotify.com/track/1H6zoDzELpfEuYEDxparjv) | [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Giants](https://open.spotify.com/album/5jZ99kZu474tcvbhzBuqHI) | 3:18 |
 | 166 | [Cry Baby](https://open.spotify.com/track/34CBLV8ypdoSsYZ5aMcbxc) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Heartbeat Highway](https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r) | 3:23 |
@@ -193,8 +193,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 183 | [Real Thing](https://open.spotify.com/track/1r4YhgOx3OYHsjRF8NgF5e) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [REAL THING](https://open.spotify.com/album/2uigbDgEe5WhlYbPID5Aqe) | 3:40 |
 | 184 | [Good Times to Come](https://open.spotify.com/track/6Ax3UATQ5dvCE0OMeY8f3c) | [DanDlion](https://open.spotify.com/artist/6dLGrJfOwF5gdyI8Ga7b76) | [FRUITION](https://open.spotify.com/album/1mfewN8zutQBuDzvHfB70U) | 3:04 |
 | 185 | [Rose Garden](https://open.spotify.com/track/3iDx3DfuNqVmhlpgd6gY7N) | [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Someone Out There](https://open.spotify.com/album/3h30Uo7ctjnKADgYzcUj40) | 3:56 |
-| 186 | [Ashes](https://open.spotify.com/track/2FPZFg04VyVdHx6UsDJUrt) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Memory Of A Day](https://open.spotify.com/album/4H1TE5m2eltLhVKVuB53b1) | 4:02 |
-| 187 | [Just Be Friends](https://open.spotify.com/track/4h2IL1bjFUiXJ2RJ3SV1bS) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 3:37 |
+| 186 | [Just Be Friends](https://open.spotify.com/track/4h2IL1bjFUiXJ2RJ3SV1bS) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 3:37 |
+| 187 | [Ashes](https://open.spotify.com/track/2FPZFg04VyVdHx6UsDJUrt) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Memory Of A Day](https://open.spotify.com/album/4H1TE5m2eltLhVKVuB53b1) | 4:02 |
 | 188 | [Infinite Roses](https://open.spotify.com/track/4cYD6UGs6vagGhyaWPChWF) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Sugar Water](https://open.spotify.com/album/3JSLVKZqrDVyeUSSVsvhYj) | 3:15 |
 | 189 | [Driving Away](https://open.spotify.com/track/5XoUJbl2vGMiYbHms8uRur) | [Le Castle Vania](https://open.spotify.com/artist/2KrXlzpSX4wWvJ2555FWLv), [Sunsun](https://open.spotify.com/artist/6aRbmjSshc0rcjwhfB3d7Y) | [Feels Like Fire](https://open.spotify.com/album/5jjKneb7IuD2alCJy3SM78) | 4:17 |
 | 190 | [Save Me](https://open.spotify.com/track/2MqSIyClHdLr3qCpttt5Re) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Sugar Water](https://open.spotify.com/album/2T17eNpNaZjeuDFcW3Mgfs) | 3:43 |
@@ -234,8 +234,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 224 | [Last First Kiss](https://open.spotify.com/track/2BkTfuyjLkLn9uA45nRu5H) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh) | [Forever](https://open.spotify.com/album/3XZSdDA1pUrZaDpK1QSjgq) | 3:14 |
 | 225 | [Possessed](https://open.spotify.com/track/5MUzO83XyuikiIyPAy2Yr6) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 3:49 |
 | 226 | [For The Weekend](https://open.spotify.com/track/3aEL5BEVGThlYhaYPVmO50) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 2:48 |
-| 227 | [P.O.Y.F](https://open.spotify.com/track/4cQRnjPfvjMdykfI6adfma) | [Carlito Olivero](https://open.spotify.com/artist/6Nm6C6IBVGA2LahxuWn60h) | [D.D.B.R.W.S.](https://open.spotify.com/album/0Lv1HSVEt2X5iIgCmNkpJl) | 2:49 |
-| 228 | [Love Makes You Do Crazy Things](https://open.spotify.com/track/6QldjjkwxMwjS09D9z6zFt) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 3:45 |
+| 227 | [Love Makes You Do Crazy Things](https://open.spotify.com/track/6QldjjkwxMwjS09D9z6zFt) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 3:45 |
+| 228 | [P.O.Y.F](https://open.spotify.com/track/4cQRnjPfvjMdykfI6adfma) | [Carlito Olivero](https://open.spotify.com/artist/6Nm6C6IBVGA2LahxuWn60h) | [D.D.B.R.W.S.](https://open.spotify.com/album/0Lv1HSVEt2X5iIgCmNkpJl) | 2:49 |
 | 229 | [Figure It Out](https://open.spotify.com/track/0nFAA4Qo9Ik6gHJ3CtW3yu) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 2:53 |
 | 230 | [Man On A Road](https://open.spotify.com/track/5RfxBQl0U4h6Hm2HqO367a) | [George Cosby](https://open.spotify.com/artist/7oyk8Ug4Su6UeST5j4g5aG) | [Man On A Road](https://open.spotify.com/album/1RXgxDpl07zH1TNQRak1LW) | 3:18 |
 | 231 | [Lose It All](https://open.spotify.com/track/3eFZOQG2iX3XHTiJzjrEqz) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 2:52 |
@@ -255,4 +255,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 245 | [Never Love Me](https://open.spotify.com/track/73wdJkuGNi5r5yaxQcbbnx) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [Unrealistic](https://open.spotify.com/album/7DJ38rShyy5odFN0uT9C8i) | 2:00 |
 | 246 | [Goodbye Wrong](https://open.spotify.com/track/5DrxXrWnsxkpbR0QUBj8aS) | [Dawn Marie](https://open.spotify.com/artist/4BCgFgcMiSfFEmRIqeAD1K) | [Goodbye Wrong](https://open.spotify.com/album/3dFRqt0nO1GxdcBaE3ryth) | 3:25 |
 
-Snapshot ID: `AbsU3gAAAAC+7rdAE1BiMNA7hJOwpR+O`
+Snapshot ID: `AbsafgAAAACOZt4jBMwhs3fsX7A104Oh`

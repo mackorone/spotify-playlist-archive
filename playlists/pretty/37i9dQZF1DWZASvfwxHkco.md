@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZASvfwxHkco.md) - [plain]
 
 > 世界中で話題のエレクトロニック・ダンスミュージックを一つのプレイリストに！Cover: Sloppy Disk \(KM and TJO\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,034 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,035 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

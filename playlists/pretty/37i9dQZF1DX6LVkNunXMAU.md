@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > indie folk latino de estación\. Foto: Paz Carrara y Raly Barrionuevo
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,724 likes - 95 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,733 likes - 95 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

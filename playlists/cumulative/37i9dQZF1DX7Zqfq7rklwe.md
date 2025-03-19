@@ -4,7 +4,7 @@
 
 > Suomen suurin ja paras rock\-soittolista\. Kannessa Ghost.
 
-200 songs - 13 hr 11 min
+201 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 | 2024-09-11 | 2025-01-10 |
 | [Haluaako Piepponen turpaan?](https://open.spotify.com/track/08jQ1OPwy0gJ6VrlWRPKH9) | [Viikate](https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l) | [Haluaako Piepponen turpaan?](https://open.spotify.com/album/3va93w0LhqBOsmUUKmxmSg) | 3:32 | 2024-10-24 | 2025-01-24 |
 | [Hearts Burst into Fire](https://open.spotify.com/track/6DsILuMLGYN6QqPXlhGHWo) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Scream Aim Fire](https://open.spotify.com/album/2mGohCvbL3klQgXyTj7uNB) | 4:57 | 2024-09-11 | 2024-09-13 |
+| [Heaven's On Fire](https://open.spotify.com/track/1brpdmqkx3kSxyqzqXfW7J) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Animalize](https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB) | 3:21 | 2025-03-18 |  |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-26 |  |
 | [Hellizabeth](https://open.spotify.com/track/0D0In37um5HwU97VlPG7Uz) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Hellizabeth](https://open.spotify.com/album/2jtUXVEKaB3D49EDq7TVlL) | 3:40 | 2025-02-13 |  |
 | [Heroes](https://open.spotify.com/track/2PlPpcspUIj23Jh1chR46K) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Heroes](https://open.spotify.com/album/2nFATbGbMdVWFd9OdtLLsN) | 3:45 | 2024-09-11 | 2025-02-07 |

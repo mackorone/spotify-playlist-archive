@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Lilly Palmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,950,534 likes - 74 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,950,521 likes - 74 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

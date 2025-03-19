@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-815 songs - 1 day 11 hr 23 min
+817 songs - 1 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Drawing Board](https://open.spotify.com/track/4V3hWllK49K8uZVecugi7B) | [Anisha Gale](https://open.spotify.com/artist/0R9PTFYaGHm7AgJAZjerfr) | [Break of Day](https://open.spotify.com/album/1k6gJNxCkFgHbdWu8C00HR) | 2:06 | 2021-12-08 | 2024-04-05 |
 | [Dreams Forever](https://open.spotify.com/track/4jC1oGON5Oei2Gm80RRej5) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Dreams Forever](https://open.spotify.com/album/5yfv3WJqhIjuYo0HxGpxVZ) | 2:18 | 2023-03-24 |  |
 | [Dreams you couldn't follow](https://open.spotify.com/track/2CyT7LpArgmWWcSdOITJZK) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Dreams you couldn't follow](https://open.spotify.com/album/3wP9D613xVXJG7mwm8038z) | 2:34 | 2024-01-12 |  |
+| [Drifting Feathers](https://open.spotify.com/track/6ectiSKVdKSsWTK2MU4UPj) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Drifting Feathers](https://open.spotify.com/album/44tNOMKSsOJDn7Vi4r5OUm) | 2:47 | 2025-03-18 |  |
 | [Driving Alongside](https://open.spotify.com/track/3OAPa9BnaZoHYbDvaa952w) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Driving Alongside](https://open.spotify.com/album/5i4GPhiFsiEmNxgrFITm5D) | 2:29 | 2023-12-15 |  |
 | [Droplets](https://open.spotify.com/track/4jiLmkrPY1FBPrQH4OINHb) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Droplets](https://open.spotify.com/album/3Kwg8RafrMsS05OQSuRRqP) | 3:06 | 2025-02-19 |  |
 | [Drømmefanger](https://open.spotify.com/track/0T6bYCFzm1OZQYaKgpJw0e) | [Gunni Møller](https://open.spotify.com/artist/1W3Msj0w5UgqoO24nOybtE) | [Drømmefanger](https://open.spotify.com/album/4tWm0QSK75J3iiXBALU7zF) | 2:18 | 2022-07-01 | 2022-12-10 |
@@ -291,7 +292,7 @@
 | [Havana](https://open.spotify.com/track/2GpaE8yk3gqH02k3h3Dmyq) | [Petite Guitare](https://open.spotify.com/artist/3vBuuLV3C6cLsz2UtUUDfN) | [Havana](https://open.spotify.com/album/02zn5PgCVPHmuZ1dcp6yb3) | 2:06 | 2024-01-12 |  |
 | [Havana Vieja](https://open.spotify.com/track/5ykTeQ3ky7XyS7js8jqRNW) | [Lester Hope](https://open.spotify.com/artist/3tgc4N85veoQX4jjx62ivq) | [Havana Vieja](https://open.spotify.com/album/4G5bMXtQj8ZR99j6QU1Oqf) | 2:51 | 2022-03-04 | 2024-07-30 |
 | [Have Faith In What Will Be](https://open.spotify.com/track/1oq0mwvjEoJPdnjq1relpX) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Have Faith In What Will Be](https://open.spotify.com/album/3WyBMmOjjn6kcTgZS3jlxV) | 3:18 | 2023-10-27 | 2024-05-24 |
-| [Hearst Castle](https://open.spotify.com/track/12cCmWHx28TrgZfNRgm4Jk) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Hearst Castle](https://open.spotify.com/album/1Pntow9W3aD2pdyepoGygN) | 2:08 | 2023-03-10 |  |
+| [Hearst Castle](https://open.spotify.com/track/12cCmWHx28TrgZfNRgm4Jk) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Hearst Castle](https://open.spotify.com/album/1Pntow9W3aD2pdyepoGygN) | 2:08 | 2023-03-10 | 2025-03-19 |
 | [Heat Waves \- Guitar](https://open.spotify.com/track/70IohoujPBAt3fNCqYvpxh) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Heat Waves \(Guitar\)](https://open.spotify.com/album/5nR0oeYlZEnPBlKvNi1RQS) | 4:08 | 2022-04-05 | 2023-03-10 |
 | [Heaven and Heart](https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D) | [Cardboard Fort](https://open.spotify.com/artist/6REpB3pDhUNmdel10sIhaB) | [Heaven and Heart](https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk) | 2:20 | 2021-12-08 | 2024-06-15 |
 | [Held in Light](https://open.spotify.com/track/3OYAsyTRj1WTiqbGlaEUCf) | [Elias Valley](https://open.spotify.com/artist/4TbkywGYWEQjRwVYsgUDMV) | [Held in Light](https://open.spotify.com/album/6uA6wyX1M4DGD9DIn9acVK) | 2:33 | 2025-03-05 |  |
@@ -366,7 +367,7 @@
 | [La Fenice](https://open.spotify.com/track/1x8cTmOxmRcRmySayLAJ9C) | [Matthias Trapp](https://open.spotify.com/artist/5WKLrD3PamTJ6XPLeI3CXg) | [La Fenice](https://open.spotify.com/album/50dvR7Lo3Ir9wMOfpiby3Y) | 2:39 | 2024-01-12 |  |
 | [La Largo](https://open.spotify.com/track/3olW01y6J6xJK9bORKX2lN) | [Raphael de Santiago](https://open.spotify.com/artist/7swmr8PxBMfAXdEoDFzmpY) | [La Largo](https://open.spotify.com/album/0NpneUFE5gYog3A8QUfwsr) | 2:04 | 2023-02-24 | 2024-04-05 |
 | [La Promenade](https://open.spotify.com/track/6StJgUQTkXWw4R00002izA) | [Clotilde Dupuy](https://open.spotify.com/artist/4y31i4eg78AV7G4sP7IZZC) | [La Promenade](https://open.spotify.com/album/4XeJ8S2iCa4mEWVKC9svOa) | 3:02 | 2021-12-08 | 2023-09-08 |
-| [La Taverne](https://open.spotify.com/track/3mnqApvGyVFEqgFr77X9ij) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [La Taverne](https://open.spotify.com/album/1OuYr9HD5X4SIlzfuRALlo) | 2:35 | 2023-11-24 |  |
+| [La Taverne](https://open.spotify.com/track/3mnqApvGyVFEqgFr77X9ij) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [La Taverne](https://open.spotify.com/album/1OuYr9HD5X4SIlzfuRALlo) | 2:35 | 2023-11-24 | 2025-03-19 |
 | [La Venue](https://open.spotify.com/track/17Z6iT4BizcR7BnqqBrzTi) | [Marina Portier](https://open.spotify.com/artist/5eY2S3YgZLBtyyEBgP9m7z) | [La Venue](https://open.spotify.com/album/0eGdnNpMq1wzNMtLICDSHZ) | 1:48 | 2023-05-12 | 2023-08-19 |
 | [Labyrinth](https://open.spotify.com/track/56GaSp5xjMWEwsbSnI35JQ) | [Gairloch](https://open.spotify.com/artist/6EHbx04jKV7mm9YB8X3Ywd) | [Labyrinth](https://open.spotify.com/album/4E8Eyp8NYNqSRtxPp5F59Y) | 2:32 | 2021-12-08 | 2022-02-02 |
 | [Lacrime](https://open.spotify.com/track/4kkylod0jvQnK7Ognj9OUP) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [Lacrime](https://open.spotify.com/album/0xh6Z1tnwWL1H79Lapk4AG) | 1:51 | 2023-05-12 | 2023-08-19 |
@@ -390,6 +391,7 @@
 | [Le Marais](https://open.spotify.com/track/6iPpvVIvrSbH8zaEtQSDCn) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Le Marais](https://open.spotify.com/album/3GzC9R053ap38En4eZI3v6) | 2:20 | 2023-08-31 |  |
 | [Le minuit glacé](https://open.spotify.com/track/54ZMjrPx3tZ3qI3sGmbfB8) | [Séraphine Crépin](https://open.spotify.com/artist/4XR40KDmxNGUPXdxXv7FkS) | [Le minuit glacé](https://open.spotify.com/album/4TGrOoZktt23ZDE8FoYzNy) | 2:08 | 2022-01-19 | 2023-10-27 |
 | [Leap Of Faith](https://open.spotify.com/track/0Hop5LbeV6B7gLkdRQnpcq) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Leap Of Faith](https://open.spotify.com/album/6nggNkn35TZ4MrSn0pPz0G) | 2:44 | 2021-12-08 | 2022-06-10 |
+| [Leben](https://open.spotify.com/track/64Fui69wRsnb7DGj00asBt) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Leben](https://open.spotify.com/album/7uzp1YQSlqHwlFOzjxRwoS) | 2:38 | 2025-03-18 |  |
 | [Leme](https://open.spotify.com/track/1B5el46SxWXSGfI7Lsn5g4) | [Oliver Leonardo](https://open.spotify.com/artist/2tn2eGCJFEG139hn8b1UIj) | [Leme](https://open.spotify.com/album/2N7E7yXlRKE3pwFMmspN1z) | 2:53 | 2021-12-08 | 2024-03-29 |
 | [Lento](https://open.spotify.com/track/0gpSLKKUeEeD5QxpxJDrMP) | [Christopher Varela](https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK) | [Lento](https://open.spotify.com/album/7d7LdZLRTgvHEHXTHdFQ88) | 2:00 | 2023-08-17 |  |
 | [Les Ondes](https://open.spotify.com/track/06vt7BIMyVW3CrvWNQ5vCx) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Les Ondes](https://open.spotify.com/album/47iTH8q00rx6DxOhU6UQcp) | 1:44 | 2022-06-10 | 2023-08-19 |

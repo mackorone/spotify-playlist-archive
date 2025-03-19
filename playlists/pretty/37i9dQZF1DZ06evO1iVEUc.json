@@ -1,12 +1,12 @@
 {
   "description": "This is Angie Stone. The essential tracks, all in one playlist.",
-  "num_followers": 25164,
+  "num_followers": 25174,
   "original_name": "This Is Angie Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAABcwlF9rJQKONLvsodQOU3m",
+  "snapshot_id": "Z9dmAAAAAACTCQR0/TXk4V65dj/dMb2Z",
   "tracks": [
     {
       "added_at": null,
@@ -115,26 +115,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Instant Vintage",
-        "url": "https://open.spotify.com/album/2Dfk3iSj303wZD28aXq5ov"
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
       },
       "artists": [
         {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
-        },
-        {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Calvin Richardson",
-          "url": "https://open.spotify.com/artist/5lckATQU3N7Ralsw3VfnRb"
         }
       ],
-      "duration_ms": 204106,
-      "name": "Excuse Me",
-      "url": "https://open.spotify.com/track/72V3zdMD3x7CxNhtN7xYX5"
+      "duration_ms": 262766,
+      "name": "Think It Over",
+      "url": "https://open.spotify.com/track/548aQWCnaW5d6ytu4yoD4v"
     },
     {
       "added_at": null,
@@ -187,18 +179,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
+        "name": "Instant Vintage",
+        "url": "https://open.spotify.com/album/2Dfk3iSj303wZD28aXq5ov"
       },
       "artists": [
         {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        },
+        {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Calvin Richardson",
+          "url": "https://open.spotify.com/artist/5lckATQU3N7Ralsw3VfnRb"
         }
       ],
-      "duration_ms": 262766,
-      "name": "Think It Over",
-      "url": "https://open.spotify.com/track/548aQWCnaW5d6ytu4yoD4v"
+      "duration_ms": 204106,
+      "name": "Excuse Me",
+      "url": "https://open.spotify.com/track/72V3zdMD3x7CxNhtN7xYX5"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 222570,
-      "name": "Forget About Me",
-      "url": "https://open.spotify.com/track/42hNrPluWAiCOULra1Ckpz"
+      "duration_ms": 209345,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/5RMf9Fc1U4x7kHgx5Swb7H"
     },
     {
       "added_at": null,
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 209345,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/5RMf9Fc1U4x7kHgx5Swb7H"
+      "duration_ms": 222570,
+      "name": "Forget About Me",
+      "url": "https://open.spotify.com/track/42hNrPluWAiCOULra1Ckpz"
     },
     {
       "added_at": null,

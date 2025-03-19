@@ -2090,7 +2090,7 @@
       ],
       "date_added": "2025-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 163601,
       "name": "ALL IN (Lieblingslieder)",
       "url": "https://open.spotify.com/track/3VIEbpdr64a1mNSa8MqBAm"
@@ -2228,7 +2228,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 232186,
       "name": "All The Stars (with SZA)",
       "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
@@ -3090,7 +3090,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 128780,
       "name": "Angels Sippen Mashup",
       "url": "https://open.spotify.com/track/6WpRQIRWVfmaS6gr22Zxh0"
@@ -9504,7 +9504,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 225000,
       "name": "CHARGE DEM HOES A FEE (with Future & Travis Scott)",
       "url": "https://open.spotify.com/track/21aDVa64pWR8SYQ7wBRMkd"
@@ -14132,7 +14132,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 135082,
       "name": "eehhhyyy",
       "url": "https://open.spotify.com/track/1cXo8i9dgutdqjhjz3Zwqq"
@@ -15186,7 +15186,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -18752,7 +18752,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 217606,
       "name": "Gianna",
       "url": "https://open.spotify.com/track/01JATpwGBlirlrNfDHTjaD"
@@ -23872,6 +23872,24 @@
     {
       "album": {
         "name": "It's Not You, It's Me",
+        "url": "https://open.spotify.com/album/33DT8RcrU5J6JDHCrHlHyU"
+      },
+      "artists": [
+        {
+          "name": "Solven",
+          "url": "https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd"
+        }
+      ],
+      "date_added": "2025-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169536,
+      "name": "It's Not You, It's Me",
+      "url": "https://open.spotify.com/track/0ldXe2ULoYmo3rOVDNqv8f"
+    },
+    {
+      "album": {
+        "name": "It's Not You, It's Me",
         "url": "https://open.spotify.com/album/5Hj9h1VSYymVyPivNOFQZm"
       },
       "artists": [
@@ -23976,24 +23994,6 @@
       "duration_ms": 199512,
       "name": "ITALODISCO",
       "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
-    },
-    {
-      "album": {
-        "name": "It\u2019s Not You It\u2019s Me",
-        "url": "https://open.spotify.com/album/33DT8RcrU5J6JDHCrHlHyU"
-      },
-      "artists": [
-        {
-          "name": "Solven",
-          "url": "https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd"
-        }
-      ],
-      "date_added": "2025-03-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 169536,
-      "name": "It\u2019s Not You It\u2019s Me",
-      "url": "https://open.spotify.com/track/0ldXe2ULoYmo3rOVDNqv8f"
     },
     {
       "album": {
@@ -31266,7 +31266,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 132631,
       "name": "Mona Lisa Motion",
       "url": "https://open.spotify.com/track/18o2gKM9pMyEWWAT9ZaGvr"
@@ -43342,10 +43342,28 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 165045,
       "name": "Sports car",
       "url": "https://open.spotify.com/track/4il87YHqSV9UqbBkXM7z7m"
+    },
+    {
+      "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165045,
+      "name": "Sports car",
+      "url": "https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S"
     },
     {
       "album": {
@@ -46308,7 +46326,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -46326,7 +46344,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -50583,7 +50601,7 @@
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 181237,
+      "duration_ms": 181626,
       "name": "WE NEED ALL DA VIBES (with Young Thug & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4XcZp2xqbiD8YsnPboNUDo"
     },

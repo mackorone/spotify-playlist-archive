@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 
 > This is Young Thug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,924 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,993 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WaFyg.md) - [plain]
 | 44 | [Wyclef Jean](https://open.spotify.com/track/55OdqrG8WLmsYyY1jijD9b) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [JEFFERY](https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H) | 3:56 |
 | 45 | [Choppa Won't Miss \(feat\. Young Thug\)](https://open.spotify.com/track/5O9zs6G6RcB6yP1OKwnwiM) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 3:37 |
 | 46 | [Throw Sum Mo](https://open.spotify.com/track/5uqphUYsR45kPYplrYSAQh) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [SremmLife](https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7) | 4:20 |
-| 47 | [Raw \(Might Just\)](https://open.spotify.com/track/6YXOWhiHHnywkCNKJTdGNj) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 2](https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz) | 3:30 |
-| 48 | [ON GOD \(feat\. Young Thug\)](https://open.spotify.com/track/5euYMGygjq2IAfpzOD08Qb) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 4:10 |
+| 47 | [ON GOD \(feat\. Young Thug\)](https://open.spotify.com/track/5euYMGygjq2IAfpzOD08Qb) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 4:10 |
+| 48 | [Raw \(Might Just\)](https://open.spotify.com/track/6YXOWhiHHnywkCNKJTdGNj) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 2](https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz) | 3:30 |
 | 49 | [Just Like Me \(feat\. Young Thug\)](https://open.spotify.com/track/0uH6JssU7mWkTT9mqeqEvL) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:40 |
 | 50 | [Livin It Up \(with Post Malone & A$AP Rocky\)](https://open.spotify.com/track/7zjEyeBsaw9gV0jofJLfOM) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 3:30 |
 
-Snapshot ID: `Z9YUgAAAAADK65ycoImYTqRBqtOFl025`
+Snapshot ID: `Z9dmAAAAAACEoFSzUGBzqgakLNyl+cnO`

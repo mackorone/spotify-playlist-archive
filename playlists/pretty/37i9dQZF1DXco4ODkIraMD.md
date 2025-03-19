@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco4ODkIraMD.md) - [plain]
 
 > Esos éxitos que todavía quieres seguir escuchando\. Foto: J Balvin
 
-[Spotify](https://open.spotify.com/user/spotify) - 664,385 likes - 125 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 664,411 likes - 125 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

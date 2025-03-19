@@ -1,12 +1,12 @@
 {
   "description": "This is Phoenix. The essential tracks, all in one playlist.",
-  "num_followers": 95720,
+  "num_followers": 95735,
   "original_name": "This Is Phoenix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAAAZVq6RdXOTXo1D1ciUjKBR",
+  "snapshot_id": "Z9dmAAAAAACiYo4m2OU8+G57E/6lCgXH",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bankrupt!",
+        "url": "https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "Drakkar Noir",
+      "url": "https://open.spotify.com/track/6CdWtrWlB3ejs39G69CBjq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alphabetical",
         "url": "https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 230453,
       "name": "Run Run Run",
       "url": "https://open.spotify.com/track/2OxcH2hvo4SrVGO3gd7RJO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's Never Been Like That (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 220720,
-      "name": "One Time Too Many",
-      "url": "https://open.spotify.com/track/7tpkQLjgZwNHQzagkvAJ7h"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bankrupt!",
-        "url": "https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg"
+        "name": "It's Never Been Like That (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 202173,
-      "name": "Drakkar Noir",
-      "url": "https://open.spotify.com/track/6CdWtrWlB3ejs39G69CBjq"
+      "duration_ms": 220720,
+      "name": "One Time Too Many",
+      "url": "https://open.spotify.com/track/7tpkQLjgZwNHQzagkvAJ7h"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Never Been Like That (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
+        "name": "Bankrupt!",
+        "url": "https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 301373,
-      "name": "North",
-      "url": "https://open.spotify.com/track/0k2TN25JrgWAFG5LRQMFD7"
+      "duration_ms": 223173,
+      "name": "S.O.S In Bel Air",
+      "url": "https://open.spotify.com/track/6V5z0wPN6HRK56Q17pgOzL"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bankrupt!",
-        "url": "https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg"
+        "name": "It's Never Been Like That (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 223173,
-      "name": "S.O.S In Bel Air",
-      "url": "https://open.spotify.com/track/6V5z0wPN6HRK56Q17pgOzL"
+      "duration_ms": 301373,
+      "name": "North",
+      "url": "https://open.spotify.com/track/0k2TN25JrgWAFG5LRQMFD7"
     },
     {
       "added_at": null,

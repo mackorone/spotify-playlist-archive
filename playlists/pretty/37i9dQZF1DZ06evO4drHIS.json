@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 16066,
+  "num_followers": 16085,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAAC+BUHXhrF+mxbtnuSDhT5p",
+  "snapshot_id": "Z9dmAAAAAADuqEHyc7kcdfoKI2IU8jYJ",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 270600,
-      "name": "Hoja En Blanco",
-      "url": "https://open.spotify.com/track/410oSeukkBVpi4w8cAJfDy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Canta Con El Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 193986,
       "name": "Quiero Un Amor",
       "url": "https://open.spotify.com/track/1WMXbzmkyrKPHFQlhtJjoM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 270600,
+      "name": "Hoja En Blanco",
+      "url": "https://open.spotify.com/track/410oSeukkBVpi4w8cAJfDy"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A\u00fan As\u00ed Te Vas",
-        "url": "https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW"
+        "name": "Una Buena Ranchera",
+        "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 196960,
-      "name": "A\u00fan As\u00ed Te Vas",
-      "url": "https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP"
+      "duration_ms": 203813,
+      "name": "Un Mont\u00f3n De Estrellas",
+      "url": "https://open.spotify.com/track/4YFlX9yi2B3b3yGClAuQq6"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Buena Ranchera",
-        "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
+        "name": "A\u00fan As\u00ed Te Vas",
+        "url": "https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW"
       },
       "artists": [
         {
@@ -644,25 +644,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 203813,
-      "name": "Un Mont\u00f3n De Estrellas",
-      "url": "https://open.spotify.com/track/4YFlX9yi2B3b3yGClAuQq6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quise Algo Bien",
-        "url": "https://open.spotify.com/album/3DLb8AydQEZnO45KGh5xcE"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "Quise Algo Bien",
-      "url": "https://open.spotify.com/track/4F7HyIU2dZQduMTGgIxds5"
+      "duration_ms": 196960,
+      "name": "A\u00fan As\u00ed Te Vas",
+      "url": "https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP"
     },
     {
       "added_at": null,
@@ -683,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
-        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
+        "name": "Quise Algo Bien",
+        "url": "https://open.spotify.com/album/3DLb8AydQEZnO45KGh5xcE"
       },
       "artists": [
         {
@@ -692,9 +676,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 199973,
-      "name": "\u00c9chame A M\u00ed La Culpa - En Vivo Desde Pa\u2019l Norte",
-      "url": "https://open.spotify.com/track/2FR0aP9ppAiu2LYH122ZFa"
+      "duration_ms": 188906,
+      "name": "Quise Algo Bien",
+      "url": "https://open.spotify.com/track/4F7HyIU2dZQduMTGgIxds5"
     },
     {
       "added_at": null,
@@ -711,6 +695,22 @@
       "duration_ms": 172653,
       "name": "Gaviota Traidora",
       "url": "https://open.spotify.com/track/4oimJ9AgVLAgZ00qTbCPan"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
+        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 199973,
+      "name": "\u00c9chame A M\u00ed La Culpa - En Vivo Desde Pa\u2019l Norte",
+      "url": "https://open.spotify.com/track/2FR0aP9ppAiu2LYH122ZFa"
     },
     {
       "added_at": null,

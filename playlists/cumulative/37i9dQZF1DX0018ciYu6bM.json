@@ -5767,6 +5767,24 @@
     },
     {
       "album": {
+        "name": "HOT",
+        "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143797,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY"
+    },
+    {
+      "album": {
         "name": "SEVENTEEN 4th Album 'Face the Sun'",
         "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
       },
@@ -5884,7 +5902,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 234040,
       "name": "Hug",
       "url": "https://open.spotify.com/track/1Yy0eOzubrYK75bXH3rFbF"
@@ -6368,7 +6386,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 161693,
       "name": "IF I SAY, I LOVE YOU",
       "url": "https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0"
@@ -7078,6 +7096,24 @@
       "duration_ms": 173080,
       "name": "KNOCK",
       "url": "https://open.spotify.com/track/6KiEF5zqzHiFjzdm8gChz7"
+    },
+    {
+      "album": {
+        "name": "Fe3O4: FORWARD",
+        "url": "https://open.spotify.com/album/1qOD7pel3w9en2JKQ3l6Ha"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165773,
+      "name": "KNOW ABOUT ME",
+      "url": "https://open.spotify.com/track/5yfhzEct1ulyU6g5oVRraj"
     },
     {
       "album": {
@@ -12184,7 +12220,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 157120,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO"
@@ -12708,6 +12744,28 @@
       "duration_ms": 219690,
       "name": "Sweet Dream",
       "url": "https://open.spotify.com/track/52S5z54LOqFTKmrUVPMn5z"
+    },
+    {
+      "album": {
+        "name": "Sweet Dreams (feat. Miguel)",
+        "url": "https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172952,
+      "name": "Sweet Dreams (feat. Miguel)",
+      "url": "https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k"
     },
     {
       "album": {

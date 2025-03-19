@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1l6u9Tapgr.md) - [plain]
 
 > 3月19日\(水\)にSpotify O\-EASTにて開催される<a href="https://spotify\-earlynoise.jp/">Spotify Early Noise Night \#17</a>出演アーティストを特集！
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,657 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,665 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bunny Girl](https://open.spotify.com/track/3CeUMk1K4RPOpyzxn7JKZV) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [AKASAKI \- 2024](https://open.spotify.com/album/72Y5bHjwM0AJQG2zfkhaLX) | 3:37 |
 | 2 | [カテゴライズ](https://open.spotify.com/track/2XNMG5FlJvFSnn6PiHnvjk) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [アナザーダイバーシティ](https://open.spotify.com/album/7DsLGDK8qjjgQTMO8iLHkz) | 3:47 |
 | 3 | [Once Upon a Night](https://open.spotify.com/track/6NTOH3wfwoKreU8NNVFoGm) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Once Upon a Night](https://open.spotify.com/album/4gkEIUc6Cph9qvuqCIiZyp) | 3:43 |
-| 4 | [ラストライブ](https://open.spotify.com/track/7Jy3tDChEXMDXvO223c0VR) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [ラストライブ](https://open.spotify.com/album/1RBl7BPBmZYRiwD5fcuf4Q) | 2:49 |
+| 4 | [The End of the F\*\*\*ing World](https://open.spotify.com/track/3QjiZvyA3BEVKOldWbwgvS) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [The End of the F\*\*\*ing World](https://open.spotify.com/album/0QE8Ni8QuDwINxg4bjPZIS) | 4:04 |
 | 5 | [Burn](https://open.spotify.com/track/04Dbxc4nRWzB8C8nIFk0TT) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Burn](https://open.spotify.com/album/3XbqJfOyI32pBHZ2Np89nv) | 2:49 |
 | 6 | [Apollo](https://open.spotify.com/track/40yE0gCybjI6ND0hCac2ft) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [WiND](https://open.spotify.com/album/55Ajgl4mS2poq5DFRPNoQl) | 3:43 |
-| 7 | [弾きこもり](https://open.spotify.com/track/07D4dLAReaGI2X6fQYbOGK) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [AKASAKI \- 2024](https://open.spotify.com/album/72Y5bHjwM0AJQG2zfkhaLX) | 2:59 |
+| 7 | [爆速論理ness](https://open.spotify.com/track/3JT0OG84nHM2wjomQRwgiR) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [爆速論理ness](https://open.spotify.com/album/7bFYDEEKvOPkOft06Tvf8L) | 2:32 |
 | 8 | [ワンタイムエピローグ](https://open.spotify.com/track/5ihqyte3hZEibOp2xFDAkm) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [ワンタイムエピローグ](https://open.spotify.com/album/4yuDiUMUIfaEItFEyTWcme) | 3:34 |
 | 9 | [Nightglow Dreamer](https://open.spotify.com/track/5BqfuwS9e5dScbSrclgQjT) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF), [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Nightglow Dreamer](https://open.spotify.com/album/5rAoX1PnzxNoGQd4RQDgky) | 4:29 |
 | 10 | [Youth \(feat\. Skaai\)](https://open.spotify.com/track/5f7Yii4MaG1ksyHHsb0KCP) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Youth \(feat\. Skaai\)](https://open.spotify.com/album/48b1YVvyE3HpukwhEZR2Y9) | 2:52 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1l6u9Tapgr.md) - [plain]
 | 29 | [Dogs](https://open.spotify.com/track/7A8ZnTcuNJND102tTbLslQ) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [A Million More](https://open.spotify.com/album/00piYDmC0gNpC9g0zJcyeW) | 2:21 |
 | 30 | [今夜は君と](https://open.spotify.com/track/0iScVKBOQx6EujCxpv5BRs) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [AKASAKI \- 2024](https://open.spotify.com/album/72Y5bHjwM0AJQG2zfkhaLX) | 3:52 |
 | 31 | [カウントダウン・ラグ](https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [インナーダイアログ](https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh) | 5:25 |
-| 32 | [Kids](https://open.spotify.com/track/5dhMEDu00uyzUxm17ISNaZ) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [Kids](https://open.spotify.com/album/58XUjSZ9pcuH3PaiMiijIl) | 3:03 |
+| 32 | [ラストライブ](https://open.spotify.com/track/7Jy3tDChEXMDXvO223c0VR) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [ラストライブ](https://open.spotify.com/album/1RBl7BPBmZYRiwD5fcuf4Q) | 2:49 |
 | 33 | [WISE](https://open.spotify.com/track/17rNKPoxgh6liNaHIJdmpO) | [voquote](https://open.spotify.com/artist/7e4RwZzwd7DW2HCb0N0CcR), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [WISE](https://open.spotify.com/album/3OXArtuzggaE9fdSgfyAgF) | 3:11 |
 | 34 | [Danceless Island](https://open.spotify.com/track/1HveaXiH8hnI1spsowkeCL) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Danceless Island](https://open.spotify.com/album/1syVDDqzi6brKX5hosWs8u) | 3:45 |
 | 35 | [ルーツ](https://open.spotify.com/track/62RawuaHiuLMiGKWj7KI07) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [AKASAKI \- 2024](https://open.spotify.com/album/72Y5bHjwM0AJQG2zfkhaLX) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1l6u9Tapgr.md) - [plain]
 | 49 | [独歩](https://open.spotify.com/track/2ot9zW8vWnJWdnMv7l2pHW) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [ロンリーパラドックス](https://open.spotify.com/album/4KadXvqLOsB4WUCHzleYFV) | 3:14 |
 | 50 | [Bunny Girl \- Natural](https://open.spotify.com/track/5l4FTl6b2I0eSF4dltwjnD) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [AKASAKI \- 2024](https://open.spotify.com/album/72Y5bHjwM0AJQG2zfkhaLX) | 3:35 |
 
-Snapshot ID: `Z7SghgAAAAApIRtwUeLUnegLQDGW3TFK`
+Snapshot ID: `Z9mKlQAAAACaPUoBniCNXnaacamzbwXb`

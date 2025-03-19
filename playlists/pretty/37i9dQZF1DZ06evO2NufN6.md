@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 
 > This is Mac Miller\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,230 likes - 42 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,364 likes - 42 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 | 26 | [Surf](https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 5:30 |
 | 27 | [Shangri\-La](https://open.spotify.com/track/2VOnMNQWQ44OqHWwvXn5z6) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 2:49 |
 | 28 | [Jet Fuel](https://open.spotify.com/track/2JmFRXaJrkAUD2cs6U20KG) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 5:45 |
-| 29 | [Donald Trump](https://open.spotify.com/track/6Aa7aDayiQHnUw1dUvdneZ) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Best Day Ever \(5th Anniversary Remastered Edition\)](https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj) | 2:44 |
-| 30 | [Knock Knock](https://open.spotify.com/track/46wojTgyEs6lbgaWB6yIuz) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 3:17 |
+| 29 | [Knock Knock](https://open.spotify.com/track/46wojTgyEs6lbgaWB6yIuz) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 3:17 |
+| 30 | [Donald Trump](https://open.spotify.com/track/6Aa7aDayiQHnUw1dUvdneZ) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Best Day Ever \(5th Anniversary Remastered Edition\)](https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj) | 2:44 |
 | 31 | [Objects in the Mirror](https://open.spotify.com/track/4O0xktTx6zrClJ7OPzMpDT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Watching Movies with the Sound Off](https://open.spotify.com/album/5lftuHeYvtCA64xGfUviwS) | 4:19 |
 | 32 | [Thoughts from a Balcony](https://open.spotify.com/track/1DWDoxqAXqMJ4B8QUMaQUw) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Macadelic](https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q) | 3:05 |
 | 33 | [ROS](https://open.spotify.com/track/388jD8ko9cvFM9cd9TYDrl) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 5:43 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NufN6.md) - [plain]
 | 41 | [Soulmate](https://open.spotify.com/track/2puHJmjL4jvO19aEA7kzcb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 4:32 |
 | 42 | [We \(feat\. CeeLo Green\)](https://open.spotify.com/track/4k5UZm89ZX0YAHUp55zpt9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:19 |
 
-Snapshot ID: `Z9YUgAAAAAC1jYarLpze5SJNXiNIr57F`
+Snapshot ID: `Z9dmAAAAAAB23B80/vT2SVyz8hLjj7JH`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 233 songs - 11 hr 47 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 234 songs - 11 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -241,5 +241,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 231 | [Hot in NY](https://open.spotify.com/track/4RYRUDApJsPKTJIvBUz6a5) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 1:58 |
 | 232 | [Rebuke](https://open.spotify.com/track/56dcNOb2HEjZfPEaNP9Vze) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [KAYTRAMINÉ](https://open.spotify.com/album/0iAbMGXKXGfmtmneJrsNcl) | 1:58 |
 | 233 | [Enough](https://open.spotify.com/track/0tKyAbwXl2oG2pqHSLlle0) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16), [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [I Thought It'd Be Different](https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX) | 2:46 |
+| 234 | [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 |
 
-Snapshot ID: `AAAeCm+Kec1JD4TDYAAPkKZ55jZ2R4r/`
+Snapshot ID: `AAAeC64352ojoNI1xgR2WTxnJ4tMChG1`

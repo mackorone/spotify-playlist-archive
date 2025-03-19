@@ -4,7 +4,7 @@
 
 > This is Nívea Soares\. The essential tracks, all in one playlist.
 
-80 songs - 9 hr 3 min
+81 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Bênção](https://open.spotify.com/track/1evlfCwP69atq9ahcTggiu) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [A Bênção](https://open.spotify.com/album/6Q9PrTuJMZuKgjtQMm8RR4) | 5:57 | 2023-07-10 |  |
 | [A Honra \- Ao Vivo](https://open.spotify.com/track/1enGreYd6GsdExr1srM2Yw) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [A Honra \(Ao Vivo\)](https://open.spotify.com/album/04dC8dz9ef7jGDCmo9pLby) | 7:29 | 2023-07-10 | 2023-09-26 |
 | [Abre os Selos \- Ao Vivo](https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Abre os Selos \(Ao Vivo\)](https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl) | 7:54 | 2024-06-30 |  |
-| [Acende o Fogo / Eu Me Prostro \- Ao Vivo](https://open.spotify.com/track/19XUB0kiYgNVx0RRx8sdls) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Acende o Fogo / Eu Me Prostro \(Ao Vivo\)](https://open.spotify.com/album/1nwCVNk24Z3iKotK788Dvw) | 8:28 | 2023-07-10 |  |
+| [Acende o Fogo / Eu Me Prostro \- Ao Vivo](https://open.spotify.com/track/19XUB0kiYgNVx0RRx8sdls) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Acende o Fogo / Eu Me Prostro \(Ao Vivo\)](https://open.spotify.com/album/1nwCVNk24Z3iKotK788Dvw) | 8:28 | 2023-07-10 | 2025-03-19 |
 | [Amigo Incomparável \- Ao vivo](https://open.spotify.com/track/2mrj06EgF9HJudXKYmX6VR) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW) | [Amigo Incomparável \(Ao Vivo\)](https://open.spotify.com/album/1aeUe3lYFvmKnIYkWVJAoY) | 6:33 | 2024-09-26 |  |
 | [Aquece o Meu Coração](https://open.spotify.com/track/2aGB2W0U9ObOOHI8CrIJrK) | [Antonio Cirilo](https://open.spotify.com/artist/4wBBDf0QcQX0l1UVbBbrLz), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Canção da Eternidade](https://open.spotify.com/album/0ZrAyZUi61AwVWw7Cq2LtO) | 8:12 | 2023-07-10 | 2023-09-26 |
 | [Caminho no Deserto](https://open.spotify.com/track/2sKdvtNeQ3D2Lt6ZCHNNSa) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Caminho no Deserto](https://open.spotify.com/album/53ExbRaSYoHhR5ZAvD2U62) | 6:49 | 2023-07-10 |  |
@@ -44,6 +44,7 @@
 | [Jesus \- Ao Vivo](https://open.spotify.com/track/1tLprGViXjMjX1mwvncJc7) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Jesus \(Ao Vivo\)](https://open.spotify.com/album/6mf39m0DBS39bfATCHwNM5) | 7:17 | 2023-07-10 |  |
 | [Jireh](https://open.spotify.com/track/0kZhQrrPGE2UnjXebXZVFL) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Bruno Graça](https://open.spotify.com/artist/4XNkLWO4TBqVlmJSDQMZyx), [Coral Black To Black](https://open.spotify.com/artist/70l6zlqQSQ7ldQ5eoyLuEC) | [Jireh](https://open.spotify.com/album/4FiL7tytS8757LLp4SRIqq) | 9:35 | 2023-07-10 |  |
 | [Mais Perto Quero Estar \- Ao Vivo](https://open.spotify.com/track/06byebWiwp4uIMprLBt93Q) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/0pmYMCW5mtqbnpFkoACEmO) | 2:11 | 2023-07-10 |  |
+| [Maravilhado](https://open.spotify.com/track/6ztdqO8mEJr8no28Hr0gD3) | [Gateway Worship Português](https://open.spotify.com/artist/22De2olWYrU8vpToSBq0Xy), [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Gloria A Deus](https://open.spotify.com/album/2krT7tZVv5nde0MiKYOdvx) | 6:19 | 2025-03-19 |  |
 | [Maravilhado \- Ao Vivo](https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Maravilhado \(Ao Vivo\)](https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam) | 7:34 | 2023-07-10 |  |
 | [Me Esvaziar](https://open.spotify.com/track/7HemTaab1JIVwxizP0tZSo) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Nívea Soares 10 Anos \(Ao Vivo\)](https://open.spotify.com/album/1pzFv6y05pHyhZQMfuQJTA) | 6:57 | 2023-07-10 |  |
 | [Me Levantou](https://open.spotify.com/track/3DFCYOjz2ahzyPxkdzZX2w) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Um Lugar para 2](https://open.spotify.com/album/3DeMyJMsgElqGKsCFSPE90) | 5:34 | 2023-07-10 | 2024-07-21 |

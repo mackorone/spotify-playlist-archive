@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMOmoXKqHTD.md) - [plain]
 
 > Sing along and enjoy the drive
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,969,919 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,970,536 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

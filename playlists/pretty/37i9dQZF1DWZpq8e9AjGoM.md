@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpq8e9AjGoM.md) - [plain]
 
 > The sound of spring.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,849 likes - 221 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,876 likes - 221 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,29 +13,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpq8e9AjGoM.md) - [plain]
 | 3 | [estiu](https://open.spotify.com/track/1vzwRWE2Vj7JZwqBqi9ivM) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [estiu](https://open.spotify.com/album/2PRpPe7NkIjknf6tudsPfL) | 2:47 |
 | 4 | [Rester Dans Les Parages](https://open.spotify.com/track/3NqUYlQxTAWw3Mg3OaOwUE) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Rester Dans Les Parages](https://open.spotify.com/album/2sEefiUsuwEzMN8tXzxXVQ) | 2:28 |
 | 5 | [Entre arboles](https://open.spotify.com/track/4dxawLKeBaDFQ27USfWFrq) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Entre arboles](https://open.spotify.com/album/0osL3EqdQcGwFhVgnmJ6qV) | 1:59 |
-| 6 | [Time Passed](https://open.spotify.com/track/1y3dPuREeSHPKvpkrWyMbq) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Time Passed](https://open.spotify.com/album/19Ui6lsluQ6ZMb3tkkaJeN) | 3:05 |
-| 7 | [Solglimt](https://open.spotify.com/track/75fWxZM4OMTJxDHAKdGeaV) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Solglimt](https://open.spotify.com/album/0XhYgsUeKCHBESpTk4uFGd) | 2:33 |
-| 8 | [The Leaf](https://open.spotify.com/track/50w3ns6IRRfOChZbOMxC2W) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [The Leaf](https://open.spotify.com/album/098cZTzYQnnjgzghoLzX7R) | 2:43 |
-| 9 | [Fiesso d’Artico](https://open.spotify.com/track/5GbvPWxgru1Pxx7vLuyZmO) | [Joviano Carrera](https://open.spotify.com/artist/7CP9gWsfC3ZmfDnGdspj93) | [Fiesso d’Artico](https://open.spotify.com/album/1v7IPSwcdq7wcIFDfcFJSs) | 2:39 |
+| 6 | [Solglimt](https://open.spotify.com/track/75fWxZM4OMTJxDHAKdGeaV) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Solglimt](https://open.spotify.com/album/0XhYgsUeKCHBESpTk4uFGd) | 2:33 |
+| 7 | [Time Passed](https://open.spotify.com/track/1y3dPuREeSHPKvpkrWyMbq) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Time Passed](https://open.spotify.com/album/19Ui6lsluQ6ZMb3tkkaJeN) | 3:05 |
+| 8 | [Fiesso d’Artico](https://open.spotify.com/track/5GbvPWxgru1Pxx7vLuyZmO) | [Joviano Carrera](https://open.spotify.com/artist/7CP9gWsfC3ZmfDnGdspj93) | [Fiesso d’Artico](https://open.spotify.com/album/1v7IPSwcdq7wcIFDfcFJSs) | 2:39 |
+| 9 | [The Leaf](https://open.spotify.com/track/50w3ns6IRRfOChZbOMxC2W) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [The Leaf](https://open.spotify.com/album/098cZTzYQnnjgzghoLzX7R) | 2:43 |
 | 10 | [Ray](https://open.spotify.com/track/2DGFV4U3tPuoTq0vTRfYja) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Ray](https://open.spotify.com/album/47ce8yosa7ZuuLDpQfzGtp) | 2:10 |
-| 11 | [Ripples](https://open.spotify.com/track/4NU4Y3FG1CsEixl8pYX2Fu) | [Joseph McGrahl](https://open.spotify.com/artist/6PlWx5ZUw2UWUIltBfrNrH) | [Ripples](https://open.spotify.com/album/5AbULnPTFt8SZOUka4pL2x) | 2:06 |
+| 11 | [Strosande](https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Strosande](https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM) | 3:02 |
 | 12 | [A place of peace](https://open.spotify.com/track/1BhXzIRZGi3qdKoFUFfFfs) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [A place of peace](https://open.spotify.com/album/6cgDCpcdalyujS9oZjK7f4) | 2:40 |
-| 13 | [Strosande](https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Strosande](https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM) | 3:02 |
-| 14 | [Summer Nights](https://open.spotify.com/track/45BcuKF5ILiWrIoa4owvTg) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Summer Nights](https://open.spotify.com/album/2iy4xz7MDiw6WTBIs3B91t) | 2:03 |
-| 15 | [Just As I Imagined](https://open.spotify.com/track/5oJJGbEDS8kWwr92m3GREr) | [Thiago Izan](https://open.spotify.com/artist/0Q0myhwEBVvGaX7xTOpAyt) | [Just As I Imagined](https://open.spotify.com/album/5HhNV0gvi5FILnL562n1Rv) | 2:17 |
-| 16 | [Falling Into You](https://open.spotify.com/track/07az0EJ4iIVajGjdAZlPIg) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Falling Into You](https://open.spotify.com/album/4gPCAoHao4O8zYd25H0ERh) | 3:13 |
-| 17 | [Overthinking](https://open.spotify.com/track/7iZUYJmbGmKvoQtsrEqLtG) | [Martes Fiore](https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W) | [Overthinking](https://open.spotify.com/album/1Vq5TtquMxnDCwdlkqG5KL) | 2:16 |
-| 18 | [Automne Nordique](https://open.spotify.com/track/2ujxJqOusPaIhbeej7zaXv) | [Léon Branche](https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm) | [Automne Nordique](https://open.spotify.com/album/2CJKxKIUE2IxWHIAkVbQEo) | 1:57 |
-| 19 | [Melodies of a Forgotten Love](https://open.spotify.com/track/26IMug9vJDzigbtSrb7sXO) | [Elion Headford](https://open.spotify.com/artist/3DtXDehf7i5tjLgcwhXaM0) | [Melodies of a Forgotten Love](https://open.spotify.com/album/0LgYK7sydaJqrZj0KeLC83) | 2:24 |
-| 20 | [Root Flower](https://open.spotify.com/track/2zzO7vk8Z8SuguCHydFnkg) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Root Flower](https://open.spotify.com/album/488shae3ei66l5yQvTP0Fz) | 2:10 |
-| 21 | [Prismatica](https://open.spotify.com/track/5xQWLT4lXtHCHaW0KpO9eR) | [Gilded Reverie](https://open.spotify.com/artist/293KvG5a4tl3xjpUsnXjym) | [Prismatica](https://open.spotify.com/album/3v8RlORlVz11yClxzXersI) | 2:34 |
-| 22 | [Window to Another Life](https://open.spotify.com/track/78tOr1AwBWFK9I6MyhS180) | [Fleur Bloom](https://open.spotify.com/artist/0jKbA25jr47ARj2fA7CEjR) | [Window to Another Life](https://open.spotify.com/album/485gyREge1p5jbfNpPn7OZ) | 2:24 |
-| 23 | [Clouds](https://open.spotify.com/track/3Kh7SwnaYrFOFHoVow98w7) | [Marinenko](https://open.spotify.com/artist/2SakhZoZ1yklBM7XhWf7AA) | [Clouds](https://open.spotify.com/album/39s00lORhE8uVodSvyRx80) | 2:45 |
-| 24 | [Eyes Closes](https://open.spotify.com/track/0c4x6XhKGWuXA0H7nScxRE) | [Melanié Poret](https://open.spotify.com/artist/1qP02f6jA0m3AZ8devpRNu) | [Eyes Closes](https://open.spotify.com/album/5Oy3n0YjvLO074yXZuNlfx) | 2:30 |
+| 13 | [Just As I Imagined](https://open.spotify.com/track/5oJJGbEDS8kWwr92m3GREr) | [Thiago Izan](https://open.spotify.com/artist/0Q0myhwEBVvGaX7xTOpAyt) | [Just As I Imagined](https://open.spotify.com/album/5HhNV0gvi5FILnL562n1Rv) | 2:17 |
+| 14 | [Falling Into You](https://open.spotify.com/track/07az0EJ4iIVajGjdAZlPIg) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Falling Into You](https://open.spotify.com/album/4gPCAoHao4O8zYd25H0ERh) | 3:13 |
+| 15 | [Window to Another Life](https://open.spotify.com/track/78tOr1AwBWFK9I6MyhS180) | [Fleur Bloom](https://open.spotify.com/artist/0jKbA25jr47ARj2fA7CEjR) | [Window to Another Life](https://open.spotify.com/album/485gyREge1p5jbfNpPn7OZ) | 2:24 |
+| 16 | [Root Flower](https://open.spotify.com/track/2zzO7vk8Z8SuguCHydFnkg) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Root Flower](https://open.spotify.com/album/488shae3ei66l5yQvTP0Fz) | 2:10 |
+| 17 | [Summer Nights](https://open.spotify.com/track/45BcuKF5ILiWrIoa4owvTg) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Summer Nights](https://open.spotify.com/album/2iy4xz7MDiw6WTBIs3B91t) | 2:03 |
+| 18 | [Prismatica](https://open.spotify.com/track/5xQWLT4lXtHCHaW0KpO9eR) | [Gilded Reverie](https://open.spotify.com/artist/293KvG5a4tl3xjpUsnXjym) | [Prismatica](https://open.spotify.com/album/3v8RlORlVz11yClxzXersI) | 2:34 |
+| 19 | [Clouds](https://open.spotify.com/track/3Kh7SwnaYrFOFHoVow98w7) | [Marinenko](https://open.spotify.com/artist/2SakhZoZ1yklBM7XhWf7AA) | [Clouds](https://open.spotify.com/album/39s00lORhE8uVodSvyRx80) | 2:45 |
+| 20 | [Years Gone By](https://open.spotify.com/track/4Wh4CEwY02vdiErroICrIS) | [Gale Moore](https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw) | [Years Gone By](https://open.spotify.com/album/0ms9pTEwVNrZ2lu3Cd1ago) | 2:36 |
+| 21 | [Eyes Closes](https://open.spotify.com/track/0c4x6XhKGWuXA0H7nScxRE) | [Melanié Poret](https://open.spotify.com/artist/1qP02f6jA0m3AZ8devpRNu) | [Eyes Closes](https://open.spotify.com/album/5Oy3n0YjvLO074yXZuNlfx) | 2:30 |
+| 22 | [Melodies of a Forgotten Love](https://open.spotify.com/track/26IMug9vJDzigbtSrb7sXO) | [Elion Headford](https://open.spotify.com/artist/3DtXDehf7i5tjLgcwhXaM0) | [Melodies of a Forgotten Love](https://open.spotify.com/album/0LgYK7sydaJqrZj0KeLC83) | 2:24 |
+| 23 | [Ripples](https://open.spotify.com/track/4NU4Y3FG1CsEixl8pYX2Fu) | [Joseph McGrahl](https://open.spotify.com/artist/6PlWx5ZUw2UWUIltBfrNrH) | [Ripples](https://open.spotify.com/album/5AbULnPTFt8SZOUka4pL2x) | 2:06 |
+| 24 | [Overthinking](https://open.spotify.com/track/7iZUYJmbGmKvoQtsrEqLtG) | [Martes Fiore](https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W) | [Overthinking](https://open.spotify.com/album/1Vq5TtquMxnDCwdlkqG5KL) | 2:16 |
 | 25 | [Amiable](https://open.spotify.com/track/1WNj5OaWzAZyyAeumYFWPn) | [Sonja Elliott](https://open.spotify.com/artist/7kKuC431bgNSQmNpEUBbbr) | [Amiable](https://open.spotify.com/album/3rWRFWT7dErO0kTLSeqgJn) | 2:37 |
 | 26 | [The Old Garden](https://open.spotify.com/track/6brQG7CUofzdsnNx3qssrh) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [The Old Garden](https://open.spotify.com/album/4Jb3hdLpWGCRrNM6so6KXM) | 2:54 |
-| 27 | [Morning in Rome](https://open.spotify.com/track/3khHooqz6aYMeFJOQN79gz) | [Henri Fleur](https://open.spotify.com/artist/15cHdlUWr4RxcrF0gyfcCw) | [Morning in Rome](https://open.spotify.com/album/6esAVjh47ZytLUpYpdAQYO) | 2:34 |
-| 28 | [Years Gone By](https://open.spotify.com/track/4Wh4CEwY02vdiErroICrIS) | [Gale Moore](https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw) | [Years Gone By](https://open.spotify.com/album/0ms9pTEwVNrZ2lu3Cd1ago) | 2:36 |
+| 27 | [Automne Nordique](https://open.spotify.com/track/2ujxJqOusPaIhbeej7zaXv) | [Léon Branche](https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm) | [Automne Nordique](https://open.spotify.com/album/2CJKxKIUE2IxWHIAkVbQEo) | 1:57 |
+| 28 | [Morning in Rome](https://open.spotify.com/track/3khHooqz6aYMeFJOQN79gz) | [Henri Fleur](https://open.spotify.com/artist/15cHdlUWr4RxcrF0gyfcCw) | [Morning in Rome](https://open.spotify.com/album/6esAVjh47ZytLUpYpdAQYO) | 2:34 |
 | 29 | [Flower Wings](https://open.spotify.com/track/0Q9AH52EwC19MjsaJpVf9S) | [Léon Mignard](https://open.spotify.com/artist/1qwQOqXTSElUUKTCdwkfHL) | [Flower Wings](https://open.spotify.com/album/40VuQEGGWo9QHWSHQiUhWv) | 2:18 |
 | 30 | [Ethereal Echo](https://open.spotify.com/track/3b69dyUMr81gp1lOqhTMam) | [Panner Garlix](https://open.spotify.com/artist/64ixo2TVhbwcDgM7n4koOR) | [Ethereal Echo](https://open.spotify.com/album/58wTkyo7i284z4BWv4bf0d) | 3:33 |
 | 31 | [Mornings](https://open.spotify.com/track/5daGd5PsrHGyfp1oK4hFsF) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Mornings](https://open.spotify.com/album/71U2C4uF4c9CdvtwbLev7o) | 2:36 |
@@ -230,4 +230,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpq8e9AjGoM.md) - [plain]
 | 220 | [Fifth Season](https://open.spotify.com/track/1ZBFbDeigSeewJ4fjslV0p) | [Dani Mezzo](https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n) | [Fifth Season](https://open.spotify.com/album/7ljI3UpeR4ewS323IfBQQV) | 2:47 |
 | 221 | [Retrouvailles](https://open.spotify.com/track/11JN2F71WjDG5uZZ0i1vMd) | [Gabriel Auer](https://open.spotify.com/artist/0K6PfxKmrBfId9GnQZADfM) | [Retrouvailles](https://open.spotify.com/album/4lDonUI9z7jnJosqAoH1S7) | 2:52 |
 
-Snapshot ID: `Z9BdzgAAAAD0221O92Xby/tdNTeOG/NT`
+Snapshot ID: `Z9lcgwAAAAAV7LeNoZwAUIbcdh+QEvXJ`

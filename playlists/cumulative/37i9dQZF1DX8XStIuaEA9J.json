@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-25",
-  "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: LANA & Awich",
+  "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u30b3\u30ec\u30b5\u30ef",
   "name": "Teen Culture",
   "tracks": [
     {
@@ -773,6 +773,42 @@
     },
     {
       "album": {
+        "name": "Soleil",
+        "url": "https://open.spotify.com/album/5IvRWjwHomEny5T2nAtfT7"
+      },
+      "artists": [
+        {
+          "name": "Ryubi Miyase",
+          "url": "https://open.spotify.com/artist/1zS6Z0i0nNN7cZJoLqmyJk"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226506,
+      "name": "Bad Blood",
+      "url": "https://open.spotify.com/track/3Y36R1NE0x1jW34w0VcwJa"
+    },
+    {
+      "album": {
+        "name": "my space my time",
+        "url": "https://open.spotify.com/album/4FEG8bXJBFT9z1W0SULuOb"
+      },
+      "artists": [
+        {
+          "name": "\u6709\u83ef",
+          "url": "https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185666,
+      "name": "Bad boy",
+      "url": "https://open.spotify.com/track/00E6fYvxymYPtimPt1m7wL"
+    },
+    {
+      "album": {
         "name": "BANDAGE",
         "url": "https://open.spotify.com/album/6n2pGYbSxV3RtXgJHcqMxz"
       },
@@ -832,7 +868,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 234626,
       "name": "Better Half (feat. Omoinotake)",
       "url": "https://open.spotify.com/track/1beUALLSloBEvYre65QiW6"
@@ -1487,6 +1523,28 @@
     },
     {
       "album": {
+        "name": "Chrome Hearts",
+        "url": "https://open.spotify.com/album/6zypzp1bwsarSSwKZiBsem"
+      },
+      "artists": [
+        {
+          "name": "Only U",
+          "url": "https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt"
+        },
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207227,
+      "name": "Chrome Hearts",
+      "url": "https://open.spotify.com/track/1Snd011SQ1dhuNARKYIFvj"
+    },
+    {
+      "album": {
         "name": "City Love City Love City Love",
         "url": "https://open.spotify.com/album/4ilkK1WGXup1RfvD01flUe"
       },
@@ -1498,7 +1556,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 204264,
       "name": "City Love City Love City Love",
       "url": "https://open.spotify.com/track/5LnWFzlhchc0ruF3tRcb3J"
@@ -1708,6 +1766,24 @@
       "duration_ms": 214871,
       "name": "Curse of Love",
       "url": "https://open.spotify.com/track/7ALNs2wG7YBMIqou85P22G"
+    },
+    {
+      "album": {
+        "name": "To the one who chose me and the one who did not choose me",
+        "url": "https://open.spotify.com/album/6tlmoidAsdokPY9tcYlpV4"
+      },
+      "artists": [
+        {
+          "name": "Koresawa",
+          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152506,
+      "name": "Cute",
+      "url": "https://open.spotify.com/track/6jcqQCCsyt4p9dSwETvXMR"
     },
     {
       "album": {
@@ -2211,6 +2287,24 @@
     },
     {
       "album": {
+        "name": "DREAMER",
+        "url": "https://open.spotify.com/album/4nFGHGYOaZxK3BoYU50xXa"
+      },
+      "artists": [
+        {
+          "name": "Lilas",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246542,
+      "name": "DREAMER",
+      "url": "https://open.spotify.com/track/2F6nzFUtzy3mUhZlPfbRdb"
+    },
+    {
+      "album": {
         "name": "Dreamer Drivers",
         "url": "https://open.spotify.com/album/5iSbbsT99xlq3TAlY2wXSi"
       },
@@ -2338,6 +2432,24 @@
       "duration_ms": 148089,
       "name": "Drop",
       "url": "https://open.spotify.com/track/0hhUYRTVgcq7oD4qVLDgR2"
+    },
+    {
+      "album": {
+        "name": "DSTM",
+        "url": "https://open.spotify.com/album/7db93AxaM3DpA75ZC5Uijr"
+      },
+      "artists": [
+        {
+          "name": "ONE OR EIGHT",
+          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176714,
+      "name": "DSTM",
+      "url": "https://open.spotify.com/track/6h6y3m83xvAOoCW3JZpzzf"
     },
     {
       "album": {
@@ -3561,6 +3673,24 @@
     },
     {
       "album": {
+        "name": "HOT",
+        "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143797,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY"
+    },
+    {
+      "album": {
         "name": "hot lemon (Remix)",
         "url": "https://open.spotify.com/album/6MNsyAUtnCzLnuo1dJQBMB"
       },
@@ -3794,7 +3924,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 212259,
       "name": "ID feat. RYOKI (BE:FIRST), RYUKI (MAZZEL), JIMMY (PSYCHIC FEVER), FELIP",
       "url": "https://open.spotify.com/track/2cXkFKFgEW5Myc0yNy6CqL"
@@ -4050,10 +4180,28 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 207422,
       "name": "JOin us!!",
       "url": "https://open.spotify.com/track/4ji2ttFn6ADN01SB8vC4dR"
+    },
+    {
+      "album": {
+        "name": "JOOOOKE",
+        "url": "https://open.spotify.com/album/5Db4faF7Qcj7RUH5po6Xor"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183966,
+      "name": "JOOOOKE",
+      "url": "https://open.spotify.com/track/6XdHXowM9CEZICEQPu71F2"
     },
     {
       "album": {
@@ -4354,7 +4502,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 152633,
       "name": "L4DY",
       "url": "https://open.spotify.com/track/4S7rVcmRg9wEpAwu05ynvc"
@@ -5331,6 +5479,24 @@
     },
     {
       "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/4ejHEQ41IAEtaZuXEPqeCv"
+      },
+      "artists": [
+        {
+          "name": "ME:I",
+          "url": "https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173413,
+      "name": "MUSE",
+      "url": "https://open.spotify.com/track/0KBawRsiH5aUNgFy6H4mIv"
+    },
+    {
+      "album": {
         "name": "I'll Be Cute When You See Me",
         "url": "https://open.spotify.com/album/73gLuSuMKY13uGbfcvkseg"
       },
@@ -5919,6 +6085,24 @@
     },
     {
       "album": {
+        "name": "One Heart",
+        "url": "https://open.spotify.com/album/2GDMGlqGHyx9w6wRMXUrPL"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242250,
+      "name": "One Heart",
+      "url": "https://open.spotify.com/track/6ArjJicjIjgcbKOzBtcBkh"
+    },
+    {
+      "album": {
         "name": "With YOU-th",
         "url": "https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR"
       },
@@ -6168,6 +6352,24 @@
       "duration_ms": 152493,
       "name": "PARAGRAPH",
       "url": "https://open.spotify.com/track/0nwVaounL0nnbelxWz2eOg"
+    },
+    {
+      "album": {
+        "name": "PARAPARA MIXTAPE",
+        "url": "https://open.spotify.com/album/4QDjWBG8UFQBrvqrKaDmUI"
+      },
+      "artists": [
+        {
+          "name": "Liza",
+          "url": "https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249136,
+      "name": "PARAPARA",
+      "url": "https://open.spotify.com/track/6fLXJrzTWka1nXjU6IHcN2"
     },
     {
       "album": {
@@ -6538,7 +6740,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 184993,
       "name": "ReawakeR (feat. Felix of Stray Kids)",
       "url": "https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL"
@@ -6560,6 +6762,24 @@
       "duration_ms": 151626,
       "name": "RED OUT",
       "url": "https://open.spotify.com/track/24uvFK1ceLlMEa5WqZAQoB"
+    },
+    {
+      "album": {
+        "name": "Stronger (feat. Awich) / \u82b1\u30fb\u9b41 (feat. Medusa, E.V.P & IFE) / Red Wine (It Tastes Young & Rich)",
+        "url": "https://open.spotify.com/album/2KssrI7RIA0Unb4p30blvl"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196932,
+      "name": "Red Wine (It Tastes Young & Rich)",
+      "url": "https://open.spotify.com/track/4YZXpETSuNWLCPv1kzKtYC"
     },
     {
       "album": {
@@ -6722,7 +6942,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 174768,
       "name": "rooftop",
       "url": "https://open.spotify.com/track/2BiW2mCVcfDr49njt7j5B6"
@@ -8583,6 +8803,24 @@
     },
     {
       "album": {
+        "name": "Walk In Water",
+        "url": "https://open.spotify.com/album/6ETsBr7zYRKgi5IHbUzwCt"
+      },
+      "artists": [
+        {
+          "name": "kZm",
+          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183072,
+      "name": "Walk In Water",
+      "url": "https://open.spotify.com/track/1oQdve0CyA5yCBEe43LspB"
+    },
+    {
+      "album": {
         "name": "HOP",
         "url": "https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz"
       },
@@ -8612,7 +8850,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 190785,
       "name": "We don't need heroes",
       "url": "https://open.spotify.com/track/66PLaLborZo2mvNIs546T5"
@@ -9190,7 +9428,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 245400,
       "name": "\u3042\u305f\u3057\u3092\u9078\u3070\u306a\u304b\u3063\u305f\u541b\u3078",
       "url": "https://open.spotify.com/track/0xPxNWKQZTYud7Ubr9RkQ7"
@@ -9226,7 +9464,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 136073,
       "name": "\u3042\u3069\u3051\u6ce3\u304f",
       "url": "https://open.spotify.com/track/30vZeqyMd3Z0mXL27h6X6O"
@@ -10174,7 +10412,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 186306,
       "name": "\u307e\u305f\u306d",
       "url": "https://open.spotify.com/track/3zf8HzKHuLWmxRiM6OuMz8"
@@ -11836,6 +12074,44 @@
       "duration_ms": 160133,
       "name": "\u30d0\u30a4\u30de\u30a4\u30c0\u30fc\u30ea\u30f3",
       "url": "https://open.spotify.com/track/0EJv7wenuEybeZQLHDplr3"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30b0\u308a (feat. kZm, Awich, PETZ, MonyHorse & JNKMN)",
+        "url": "https://open.spotify.com/album/2fPFTelUOr9Nw72DW55aHU"
+      },
+      "artists": [
+        {
+          "name": "YENTOWN",
+          "url": "https://open.spotify.com/artist/5MZKzz8nnucMHhJq34UZwe"
+        },
+        {
+          "name": "kZm",
+          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "PETZ",
+          "url": "https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT"
+        },
+        {
+          "name": "MonyHorse",
+          "url": "https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD"
+        },
+        {
+          "name": "JNKMN",
+          "url": "https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186835,
+      "name": "\u30d0\u30b0\u308a (feat. kZm, Awich, PETZ, MonyHorse & JNKMN)",
+      "url": "https://open.spotify.com/track/3FdZ6MCqA9y0Hhlc8U9uSw"
     },
     {
       "album": {
@@ -14198,7 +14474,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 229222,
       "name": "\u5e78\u305b\u306a\u7d04\u675f\u3002",
       "url": "https://open.spotify.com/track/4aCVgRxtJhMacAjskNQCWe"
@@ -15107,6 +15383,28 @@
     },
     {
       "album": {
+        "name": "\u685c\u306e\u3042\u3068",
+        "url": "https://open.spotify.com/album/5p5dt480MJ6IwhcQhVJvUv"
+      },
+      "artists": [
+        {
+          "name": "Tani Yuuki",
+          "url": "https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX"
+        },
+        {
+          "name": "cross-dominance",
+          "url": "https://open.spotify.com/artist/6uCy22wWyFB4Rvc2CRIaSP"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240393,
+      "name": "\u685c\u306e\u3042\u3068",
+      "url": "https://open.spotify.com/track/185Oo2BjmDBlEQTHHeUd2K"
+    },
+    {
+      "album": {
         "name": "\u685c\u65e5\u548c\u3068\u30bf\u30a4\u30e0\u30de\u30b7\u30f3 with \u521d\u97f3\u30df\u30af\uff0f\u521d\u590f",
         "url": "https://open.spotify.com/album/2vxWLmD9gv9RDgL4SM71Wg"
       },
@@ -15342,6 +15640,24 @@
       "duration_ms": 310997,
       "name": "\u6e80\u3061\u3066\u3086\u304f",
       "url": "https://open.spotify.com/track/5glPFBAuA1C85tBcVWVzvO"
+    },
+    {
+      "album": {
+        "name": "\u7206\u901f\u8ad6\u7406ness",
+        "url": "https://open.spotify.com/album/7bFYDEEKvOPkOft06Tvf8L"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152871,
+      "name": "\u7206\u901f\u8ad6\u7406ness",
+      "url": "https://open.spotify.com/track/3JT0OG84nHM2wjomQRwgiR"
     },
     {
       "album": {
@@ -15874,6 +16190,24 @@
       "duration_ms": 294800,
       "name": "\u82b1\u675f\u304c\u4f3c\u5408\u3046\u541b\u3078 - fantastic ver.",
       "url": "https://open.spotify.com/track/2vVaTLbzFN5TPIayqJDxv7"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u7121\u53cc",
+        "url": "https://open.spotify.com/album/0Vx6D5yGvkNYGbrDYhQTwA"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223858,
+      "name": "\u82b1\u7121\u53cc",
+      "url": "https://open.spotify.com/track/2sJyR6ekoLAHUBHuKO3J1d"
     },
     {
       "album": {

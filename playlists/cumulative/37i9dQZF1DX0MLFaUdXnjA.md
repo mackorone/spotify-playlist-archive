@@ -4,7 +4,7 @@
 
 > Sit back and relax to the chillest pop\.  Cover: HAIM
 
-2,156 songs - 4 day 19 hr 56 min
+2,157 songs - 4 day 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1390,6 +1390,7 @@
 | [Only When I Look into Your Eyes](https://open.spotify.com/track/5MgXxIwMUkJQlv5WYxlUNS) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Only When I Look into Your Eyes](https://open.spotify.com/album/45ZFRr0nHeDqhUI4Vi20lt) | 3:19 | 2021-08-07 | 2022-01-08 |
 | [Orange](https://open.spotify.com/track/4bXpGGhF2W3oieNMDfJl38) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Orange](https://open.spotify.com/album/1j0ghnEkIWulw3bEANXLNQ) | 2:44 | 2024-05-03 | 2024-05-18 |
 | [Orange\-coloured day](https://open.spotify.com/track/3jXy5FvEftfAWa6Bk5ukAy) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Orange\-coloured day](https://open.spotify.com/album/5LSivLzjAl3bOSECr27PHj) | 2:48 | 2024-06-07 | 2024-06-15 |
+| [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-03-18 |  |
 | [Ordinary People](https://open.spotify.com/track/0FrHyYxj92dg4qIu8BO30l) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Ordinary People](https://open.spotify.com/album/5ofUV5bkz4T0rWWwJdhoOR) | 4:13 | 2020-06-29 | 2020-10-09 |
 | [ORIGAMI](https://open.spotify.com/track/72NmXqiEP6N6eXBgEBzlWZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SINK NOW, SWIM LATER](https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k) | 3:02 | 2025-02-21 |  |
 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 | 2021-05-22 | 2021-08-07 |

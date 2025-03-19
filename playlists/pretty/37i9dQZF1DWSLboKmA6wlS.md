@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ฟังผลงานจากศิลปินรุ่นใหม่กัน\. ศิลปิน: JEBE'\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,433 likes - 95 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,434 likes - 95 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

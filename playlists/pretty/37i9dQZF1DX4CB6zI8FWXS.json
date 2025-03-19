@@ -227,6 +227,22 @@
     {
       "added_at": "2025-03-06 15:00:20",
       "album": {
+        "name": "Blanco",
+        "url": "https://open.spotify.com/album/7gO4N7Lhppp9QHwjnUA6Mb"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 190638,
+      "name": "Blanco",
+      "url": "https://open.spotify.com/track/1mS6WBo2ZH9TXnjMEIOTcW"
+    },
+    {
+      "added_at": "2025-03-06 15:00:20",
+      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/7zF4bGdgix6bS2d1Fank0g"
       },
@@ -487,7 +503,7 @@
     {
       "added_at": "2025-03-06 15:00:20",
       "album": {
-        "name": "Smell The Daises",
+        "name": "Smell The Daisies",
         "url": "https://open.spotify.com/album/6fPAIReQn5pSujZslHEwGk"
       },
       "artists": [
@@ -501,7 +517,7 @@
         }
       ],
       "duration_ms": 250253,
-      "name": "Smell The Daises",
+      "name": "Smell The Daisies",
       "url": "https://open.spotify.com/track/2sTq0X4MDSkxCJlWRxZoY6"
     },
     {

@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 330869,
+  "num_followers": 331027,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAABKoD/vv6bsbYLIdJPgn2Qi",
+  "snapshot_id": "Z9dmAAAAAADeeVkgmzFxwyQLwCErykGU",
   "tracks": [
     {
       "added_at": null,
@@ -403,6 +403,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mafiosa",
+        "url": "https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 170237,
+      "name": "Mafiosa",
+      "url": "https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Haciendo Magia",
         "url": "https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 151486,
       "name": "Princesa",
       "url": "https://open.spotify.com/track/1JhGcvVRdJoteIf56GkGwf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mafiosa",
-        "url": "https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 170237,
-      "name": "Mafiosa",
-      "url": "https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb"
     },
     {
       "added_at": null,
@@ -867,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duele Tu Abandono (En Vivo)",
-        "url": "https://open.spotify.com/album/2GsM14v55cfq9hPlfXRzan"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 226345,
-      "name": "Duele Tu Abandono (En Vivo)",
-      "url": "https://open.spotify.com/track/2G1w6qfHd03zBzsNjAkPOt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE GOAT",
         "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 213507,
       "name": "Si Supieran",
       "url": "https://open.spotify.com/track/2vRxyehSZkbxL17aM9lxQX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duele Tu Abandono (En Vivo)",
+        "url": "https://open.spotify.com/album/2GsM14v55cfq9hPlfXRzan"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 226345,
+      "name": "Duele Tu Abandono (En Vivo)",
+      "url": "https://open.spotify.com/track/2G1w6qfHd03zBzsNjAkPOt"
     },
     {
       "added_at": null,

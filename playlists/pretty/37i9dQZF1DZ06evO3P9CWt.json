@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 280598,
+  "num_followers": 280604,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAAAKfgJcmw4kltpkSUc820PL",
+  "snapshot_id": "Z9dmAAAAAAAcraO2/x3bL0V2l2NWeCFc",
   "tracks": [
     {
       "added_at": null,
@@ -827,6 +827,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eu Nunca Fui Embora",
+        "url": "https://open.spotify.com/album/518eTaR0LiBmCtyjepuLaB"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 199629,
+      "name": "Eu Te Amo / Eu Te Odeio (I\u00d4-I\u00d4)",
+      "url": "https://open.spotify.com/track/3GFMmirWIKNp8OyMSf83Dg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pop 2",
         "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 231573,
       "name": "I Got It (feat. Brooke Candy, CupcakKe and Pabllo Vittar)",
       "url": "https://open.spotify.com/track/7tjQl5EC72HBJRAKxP3Bvm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eu Nunca Fui Embora",
-        "url": "https://open.spotify.com/album/518eTaR0LiBmCtyjepuLaB"
-      },
-      "artists": [
-        {
-          "name": "Fresno",
-          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 199629,
-      "name": "Eu Te Amo / Eu Te Odeio (I\u00d4-I\u00d4)",
-      "url": "https://open.spotify.com/track/3GFMmirWIKNp8OyMSf83Dg"
     },
     {
       "added_at": null,
@@ -907,26 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para\u00edso",
-        "url": "https://open.spotify.com/album/75DV3LLntXpYsaKqRahzlt"
-      },
-      "artists": [
-        {
-          "name": "Lucas Lucco",
-          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Para\u00edso",
-      "url": "https://open.spotify.com/track/7u9maPG2E4cN9qChpe80qm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CUBA Remix",
         "url": "https://open.spotify.com/album/6sJgvH0e4Y0BBQmSdixOtY"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 162700,
       "name": "CUBA Remix",
       "url": "https://open.spotify.com/track/0a3IsWmHYDYXCqIsCVx4TF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para\u00edso",
+        "url": "https://open.spotify.com/album/75DV3LLntXpYsaKqRahzlt"
+      },
+      "artists": [
+        {
+          "name": "Lucas Lucco",
+          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/7u9maPG2E4cN9qChpe80qm"
     },
     {
       "added_at": null,

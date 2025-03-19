@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 
 > Lovely, acoustic pop\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,962 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,008 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

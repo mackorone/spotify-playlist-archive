@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0vazKoFv2TDrHUfBarjJ0n">Boy Blue</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47 likes - 59 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 48 likes - 59 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 58 | [Die Classic](https://open.spotify.com/track/1hoeH2WEypMiZqrXA7A1kG) | [secs on the beach](https://open.spotify.com/artist/5zDEuV2X31GgJ4R0tPosmM) | [Die Classic](https://open.spotify.com/album/2AaTxD0THPDjS2amHyTyb5) | 2:00 |
 | 59 | [Not My Problem](https://open.spotify.com/track/00xbhCeJjnu5IJbKUJRoz0) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [You Should Prolly Sit Down For This](https://open.spotify.com/album/1IsDPJrQijue8GwAw6j3gz) | 3:07 |
 
-Snapshot ID: `AbsU3gAAAADrdpl7WT3G/yw78GQ9Vve8`
+Snapshot ID: `AbsafgAAAADzTCh8CuMdex6EMw5S11Hk`

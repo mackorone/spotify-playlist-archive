@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 
 > este día del amor y la amistad enciende la llama de la pasión con El Mali 😈🥂🥵🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,277 likes - 85 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,335 likes - 85 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

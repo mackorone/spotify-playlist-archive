@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our universe ft\. nova twins ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,198 likes - 82 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,163 likes - 82 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

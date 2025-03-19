@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 
 > This is Kittie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,316 likes - 47 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,329 likes - 47 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 | 46 | [Around Your Heart](https://open.spotify.com/track/2LMK7i9K7mvr3T7M0TlIb7) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Funeral For Yesterday](https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj) | 2:56 |
 | 47 | [What Have I Done?](https://open.spotify.com/track/3emGJN0Mc6vibbn50avynV) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 5:25 |
 
-Snapshot ID: `Z9YUgAAAAABawMSopDFJog/FmZR67j/x`
+Snapshot ID: `Z9dmAAAAAAANpSQTXe40ePp+hVoL187f`

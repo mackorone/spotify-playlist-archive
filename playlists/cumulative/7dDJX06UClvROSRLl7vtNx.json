@@ -872,6 +872,24 @@
     {
       "album": {
         "name": "Are You With Me",
+        "url": "https://open.spotify.com/album/29gSIz1mK5ZIoKOnshant3"
+      },
+      "artists": [
+        {
+          "name": "Mellowdy",
+          "url": "https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151978,
+      "name": "Are You With Me",
+      "url": "https://open.spotify.com/track/3ICy1GAnWag1jZ8IPRu4pY"
+    },
+    {
+      "album": {
+        "name": "Are You With Me",
         "url": "https://open.spotify.com/album/0xk0DimpO7ovSx4nMcmXvU"
       },
       "artists": [

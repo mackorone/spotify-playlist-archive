@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ8HCIPoGGKp.md) - [plain]
 
 > Calming green frequencies and nature sounds to help you relax and sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,340 likes - 200 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,620 likes - 200 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

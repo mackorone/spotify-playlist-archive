@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Inspirational hip hop\. Cover: Fridayy
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,975 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,999 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 46 | [Blessings from You](https://open.spotify.com/track/6nSwLd1Bfw7P2U0wKa8skc) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Blessings from You](https://open.spotify.com/album/33zun5PDGGOUHjtJ6lD11c) | 3:26 |
 | 47 | [POSSIBLE](https://open.spotify.com/track/1g9uGfP5KkNQYIIO7MhhVs) | [KATALAYI](https://open.spotify.com/artist/2LxNotaSxtfn4X78ksdvc6) | [POSSIBLE](https://open.spotify.com/album/0otXDYuMij2kKeuFU9Xqc0) | 3:07 |
 | 48 | [Never Scared](https://open.spotify.com/track/4ArXK7w8xQlAd6cixC0b1I) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU) | [In My Head](https://open.spotify.com/album/0YtOj7ckJtghcUUxmVh2Gt) | 3:16 |
-| 49 | [CLEAR SKIES](https://open.spotify.com/track/4MIpHdVgSMCngmwUmSgW1q) | [RAY G](https://open.spotify.com/artist/1mGgGsYIUyBrrYQNL9XD5C), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj) | [CLEAR SKIES](https://open.spotify.com/album/6TyAJnWKr8kMBZo9L9EWy7) | 2:06 |
+| 49 | [CLEAR SKIES](https://open.spotify.com/track/4MIpHdVgSMCngmwUmSgW1q) | [RAY G](https://open.spotify.com/artist/1mGgGsYIUyBrrYQNL9XD5C), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj), [Bigg J Bless](https://open.spotify.com/artist/3rgL08vwzgLID396Gv2Ydk) | [CLEAR SKIES](https://open.spotify.com/album/6TyAJnWKr8kMBZo9L9EWy7) | 2:06 |
 | 50 | [Cheers](https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Tale of a Free Man](https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh) | 3:42 |
 | 51 | [Devoted](https://open.spotify.com/track/12cxIlOsMLQONItDrIiQjq) | [Kashh Kade](https://open.spotify.com/artist/029BjbYHANOxmuCPJM96dI), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Devoted](https://open.spotify.com/album/22r8vtoEXLKHqOsKEKb5eT) | 2:54 |
 | 52 | [Thank You Lord \(feat\. Fridayy\)](https://open.spotify.com/track/3SEkpudtZpHg83ulvK5fb4) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Keed Talk To ‘Em 2](https://open.spotify.com/album/0oCjauVTuzCzr6YMYcxRu1) | 3:47 |

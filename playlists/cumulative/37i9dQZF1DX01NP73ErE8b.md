@@ -4,7 +4,7 @@
 
 > I brani italiani che abbiamo on repeat 🔁 Bresh in cover
 
-211 songs - 10 hr 59 min
+212 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Non ho bisogno di te](https://open.spotify.com/track/4DM3aalAzejRhIEy4u5Oov) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Non ho bisogno di te](https://open.spotify.com/album/4xoyTSSSLTjh0arh3L8UzE) | 2:30 | 2024-07-01 | 2024-09-24 |
 | [Non Lo So \(feat\. chiello\)](https://open.spotify.com/track/5mOazYGaNJnv1zxMyNH6Rc) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:54 | 2025-02-03 |  |
 | [Non è vero che sto bene](https://open.spotify.com/track/3Sr7d5L9UGjRMzgkYSEYG8) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Non è vero che sto bene](https://open.spotify.com/album/3aMmvKIfghs4i3i0uFVzYk) | 3:40 | 2024-12-19 | 2025-01-10 |
-| [Nostalgia \(feat\. Neffa\)](https://open.spotify.com/track/1rOvPh1Ys3n8gQzor8MVrg) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA), [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Nostalgia](https://open.spotify.com/album/6awhjqs3acQA1WAYrsAPs6) | 3:04 | 2025-02-27 |  |
+| [Nostalgia \(feat\. Neffa\)](https://open.spotify.com/track/1rOvPh1Ys3n8gQzor8MVrg) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA), [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Nostalgia](https://open.spotify.com/album/6awhjqs3acQA1WAYrsAPs6) | 3:04 | 2025-02-27 | 2025-03-19 |
 | [NOTTE CATTIVA](https://open.spotify.com/track/1d4YCwCYfH8coMCIgvnCPl) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [NOTTE CATTIVA](https://open.spotify.com/album/0PE0OfDz2k5Q0t1fP35vPq) | 2:35 | 2024-07-01 | 2024-09-13 |
 | [OCCHI TRISTI](https://open.spotify.com/track/4e2RfHOwvXuRjxiYSbQVOI) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [OCCHI TRISTI](https://open.spotify.com/album/75VqF5XRsP5fDxZmfsgKyc) | 2:45 | 2024-10-22 | 2025-02-12 |
 | [Oh Mamma Mia \(feat\. Rose Villain\)](https://open.spotify.com/track/4GkgNC3bpLqXyuxWvlNfKI) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:48 | 2025-01-10 |  |
@@ -208,6 +208,7 @@
 | [uguale a me \(feat\. Marco Mengoni\)](https://open.spotify.com/track/3eabpzStQsPOmhcrUjVkNq) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f), [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [poké melodrama](https://open.spotify.com/album/2wTktpdvwoQdSYVhw54Lbz) | 3:04 | 2024-07-01 | 2024-08-20 |
 | [Un mondo a parte](https://open.spotify.com/track/5niBKNtMNJTSPLTCBTc3wr) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Il corpo umano VOL\. 1](https://open.spotify.com/album/5GElpFAAm9NuWFau9h9Oj9) | 4:00 | 2025-01-30 |  |
 | [Una Notte](https://open.spotify.com/track/69jWbZWK29hyhmgxz4PLyJ) | [Achille G](https://open.spotify.com/artist/7vMpOECMoeSUhj7gARuii1), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Una Notte](https://open.spotify.com/album/5fFQVaWtOUtqKKMkcWYa2S) | 2:50 | 2024-07-18 | 2024-08-20 |
+| [Una scatola di mogano \- MERCURIO](https://open.spotify.com/track/2IpeIL6i4jn0tNa0239bOG) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Una scatola di mogano \- MERCURIO](https://open.spotify.com/album/6Jyt0QXVx5m2UgdNmYqLVA) | 2:45 | 2025-03-18 |  |
 | [vabbè ciao](https://open.spotify.com/track/3UMayUk8vyZ76MAkKmxiYG) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Non so chi ha creato il mondo ma so che era innamorato](https://open.spotify.com/album/5I60YSIaGjXDuR7TOIiHgl) | 2:40 | 2024-07-01 | 2024-11-29 |
 | [VALENTINE](https://open.spotify.com/track/19SU905ZSV18Uzw1V76jp5) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [VALENTINE](https://open.spotify.com/album/2P797s7JPzhhepZId6WySP) | 2:38 | 2025-01-16 | 2025-02-21 |
 | [VELENO](https://open.spotify.com/track/2K7bv4Q0FNNKPt4PPPCjOi) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [VELENO](https://open.spotify.com/album/5yyaogWQcARbLR0FGz1wel) | 3:18 | 2024-07-01 | 2024-09-06 |

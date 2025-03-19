@@ -4,7 +4,7 @@
 
 > Las mejores canciones de Princesas de Disney.
 
-83 songs - 4 hr 8 min
+84 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [True Love's Kiss \- From "Enchanted"/ Soundtrack Version](https://open.spotify.com/track/0enYe3J97eUBaxSbZvYNsQ) | [Amy Adams](https://open.spotify.com/artist/1gkcZQArk5rV8uBwG8y5FX), [James Marsden](https://open.spotify.com/artist/4PMcxAosgYzNpvMCq04K7u) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:12 | 2023-08-17 |  |
 | [Trust Again \- Inspired by "Raya and The Last Dragon"](https://open.spotify.com/track/6XDfioly4ZYDHxQFppvPjK) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Yonnyboii](https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR), [Matthaios](https://open.spotify.com/artist/1SrWbIDP84JcSDr0oTBAQw), [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [Trust Again \(Inspired by "Raya and the Last Dragon"\)](https://open.spotify.com/album/6aJ5OwHbcgDLOvVOTHg2yq) | 3:46 | 2023-08-17 | 2024-08-10 |
 | [Un Amigo Fiel](https://open.spotify.com/track/6GTcMZqvnPzBvOeylpRSdk) | [Rubén Trujillo](https://open.spotify.com/artist/6KT2TYbf3hbyQsye7cpqOV) | [Aladdín \(Edición Especial/Banda Sonora Original en Español\)](https://open.spotify.com/album/4Aq9s6WnRz26dN0SYEueJk) | 2:26 | 2024-08-09 |  |
+| [Un Deseo en Mí](https://open.spotify.com/track/76pSjb8dSV1ZQ05mGWGDvV) | [Mariana Dávila](https://open.spotify.com/artist/2KdBD7KTyXqgxu5klRWJbL) | [Blanca Nieves \(Banda Sonora Original\)](https://open.spotify.com/album/5P0ab0UkCa07CU0LNXdCSc) | 4:51 | 2025-03-18 |  |
 | [Un Mundo Ideal](https://open.spotify.com/track/3abaJIO6xhd6hFWgqqXXmZ) | [Analy](https://open.spotify.com/artist/4aSk2OaHOTGndh1DfTg42F), [Demian Bichir](https://open.spotify.com/artist/64QY3QAj4yJWXcpWuw9fMo) | [Aladdín \(Edición Especial/Banda Sonora Original en Español\)](https://open.spotify.com/album/4Aq9s6WnRz26dN0SYEueJk) | 2:40 | 2022-05-19 |  |
 | [Un mundo ideal \(Versión Créditos\)](https://open.spotify.com/track/5pGJgq1KxaRHEOZTD0egWL) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Aladdín \(Banda De Sonido Original en Español\)](https://open.spotify.com/album/7aPWDugGx9KNY4YGjBbDSs) | 4:01 | 2024-08-09 |  |
 | [Un Salto Adelante](https://open.spotify.com/track/4YLKSQgmCpl3TS1k4p7rpS) | [Demian Bichir](https://open.spotify.com/artist/64QY3QAj4yJWXcpWuw9fMo) | [Aladdín \(Edición Especial/Banda Sonora Original en Español\)](https://open.spotify.com/album/4Aq9s6WnRz26dN0SYEueJk) | 2:22 | 2024-08-09 |  |

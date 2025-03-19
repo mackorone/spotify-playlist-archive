@@ -1,12 +1,12 @@
 {
   "description": "Les hits du moment au Maroc. Cover: GIMS",
-  "num_followers": 680351,
+  "num_followers": 680357,
   "original_name": "Hot Hits Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8oXPgAAAACdM8AWpchhr6tW2CxxuUsu",
+  "snapshot_id": "Z9k/CQAAAACyp9Kp/ZsWEPBZBx8oGDVM",
   "tracks": [
     {
       "added_at": "2025-03-06 21:44:30",
@@ -27,22 +27,6 @@
     {
       "added_at": "2025-03-06 21:44:30",
       "album": {
-        "name": "Jedi ou Jedek",
-        "url": "https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv"
-      },
-      "artists": [
-        {
-          "name": "Mounim Slimani",
-          "url": "https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38"
-        }
-      ],
-      "duration_ms": 182535,
-      "name": "Jedi ou Jedek",
-      "url": "https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE"
-    },
-    {
-      "added_at": "2025-03-06 21:44:30",
-      "album": {
         "name": "LE NORD SE SOUVIENT : L'ODYSS\u00c9E",
         "url": "https://open.spotify.com/album/1zNMg3ouAmuzATO21HkNa3"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 167813,
       "name": "NINAO",
       "url": "https://open.spotify.com/track/2uBKQbVcw8G9m34lGYM6VA"
+    },
+    {
+      "added_at": "2025-03-06 21:44:30",
+      "album": {
+        "name": "Jedi ou Jedek",
+        "url": "https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv"
+      },
+      "artists": [
+        {
+          "name": "Mounim Slimani",
+          "url": "https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38"
+        }
+      ],
+      "duration_ms": 182535,
+      "name": "Jedi ou Jedek",
+      "url": "https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE"
     },
     {
       "added_at": "2025-03-06 21:44:30",

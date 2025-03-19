@@ -4,7 +4,7 @@
 
 > The best of 2000s Y2K nostalgia, from \*NSYNC's Bye Bye Bye, to Shakira, Usher, The White Stripes, Beyonce, Outkast, Wheatus, The Fray, Avril Lavigne + more.
 
-265 songs - 17 hr 15 min
+266 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Grow A Pear](https://open.spotify.com/track/2ISUiwj8xXqHeUFcen0AIU) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Cannibal \(Expanded Edition\)](https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23) | 3:28 | 2024-04-10 |  |
 | [Half On a Sack](https://open.spotify.com/track/4jA9iztK8seGSGo05lJ0Cu) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT) | [Most Known Unknown](https://open.spotify.com/album/0Pe9KCcaFK7CkeZPWXCuaB) | 3:26 | 2022-06-03 |  |
 | [Halo](https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 4:21 | 2022-06-03 |  |
+| [Hard Out Here for a Pimp \(feat\. Paula Campbell\)](https://open.spotify.com/track/17ZCxegdCt1y0reBkHVmMB) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT), [Paula Campbell](https://open.spotify.com/artist/2EPYzyk8q2xb7APLZ8c1YA) | [Most Known Unknown](https://open.spotify.com/album/0Pe9KCcaFK7CkeZPWXCuaB) | 2:49 | 2025-03-18 |  |
 | [Hate It Or Love It](https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:26 | 2023-02-21 |  |
 | [Headlock](https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 3:35 | 2024-10-21 |  |
 | [Hey Daddy \(Daddy's Home\)](https://open.spotify.com/track/030OCtLMrljNhp8OWHBWW3) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 3:44 | 2023-09-11 |  |

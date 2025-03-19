@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-2,106 songs - 5 day 11 hr 4 min
+2,107 songs - 5 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [And Dance](https://open.spotify.com/track/0rw0Sj9i91oefFk3TLGNIE) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Culturally Appropriate](https://open.spotify.com/album/6K7kj9XKdeeDSwLuEKgU1c) | 5:28 | 2022-12-03 | 2023-01-07 |
 | [Ando High](https://open.spotify.com/track/28Gm6dfEgNOkuxWxvu0unH) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Insomniac Records](https://open.spotify.com/artist/51xR0dvqUomzb5eY6dvT4M) | [Best of Insomniac Records: 2023](https://open.spotify.com/album/70ZyWrGgoffODlaUheuFx2) | 2:45 | 2023-12-29 | 2024-01-22 |
 | [Angels & Queens \- Paul Woolford’s Special Request Mix](https://open.spotify.com/track/210eXjYCr8kTvSeNMp7CkY) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H) | [Angels & Queens \(Paul Woolford’s Special Request Mix\)](https://open.spotify.com/album/2rP0Leupj6NTNAVcJOrjwQ) | 3:30 | 2023-02-11 | 2023-02-20 |
+| [Angels For Each Other](https://open.spotify.com/track/7KPcippmg9MvPzb3dzNpQW) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Angels For Each Other](https://open.spotify.com/album/1bOANBDFMPylV75pmNK4l3) | 3:35 | 2025-03-18 |  |
 | [Another Dimension](https://open.spotify.com/track/6JvxvazbCGARCcZKm8qsCf) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [B\-Sides](https://open.spotify.com/album/39C0lar5IGZVwPXhO0ZYvI) | 5:23 | 2024-11-01 | 2024-11-23 |
 | [Another Life](https://open.spotify.com/track/3VXcbOdepy7zQwu6wRjluQ) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [AudioLust & HigherLove](https://open.spotify.com/album/5Lnww31IKGURS2FjoEOlkf) | 5:53 | 2023-02-11 | 2023-02-20 |
 | [Another Man](https://open.spotify.com/track/245VL28D59Gwh7Rky0UOZ8) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [Another Man](https://open.spotify.com/album/6he529CzIcZCnJnakpynUP) | 3:32 | 2023-03-31 | 2023-04-15 |

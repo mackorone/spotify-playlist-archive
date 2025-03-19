@@ -58,7 +58,7 @@
 | [Pushing the Tides](https://open.spotify.com/track/0svFlmFdw4sxlJzsLTXeTo) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 3:29 | 2022-05-30 |  |
 | [Quintessence](https://open.spotify.com/track/7n2K9HW8OhwFpWEdzeYu79) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:27 | 2022-06-08 |  |
 | [Quintessence \- 2024 Remaster](https://open.spotify.com/track/39EcADFCwesDWcMleYBYzb) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye \(15th Anniversary Deluxe Edition\)](https://open.spotify.com/album/22BMsIMHQ5TayHOJvjF4y4) | 5:27 | 2024-10-08 | 2025-02-05 |
-| [Roots Remain](https://open.spotify.com/track/5llEJFL6NzKYgMTEb68XtL) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Emperor of Sand](https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF) | 6:28 | 2022-05-30 | 2025-02-03 |
+| [Roots Remain](https://open.spotify.com/track/5llEJFL6NzKYgMTEb68XtL) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Emperor of Sand](https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF) | 6:28 | 2022-05-30 |  |
 | [Scorpion Breath](https://open.spotify.com/track/36dvfTxi43vTmGQOAnxsi5) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Emperor of Sand](https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF) | 3:19 | 2024-08-23 | 2024-09-11 |
 | [Seabeast](https://open.spotify.com/track/4dlsUdGXRe5nkxMIauacJq) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 4:15 | 2022-05-30 |  |
 | [Show Yourself](https://open.spotify.com/track/1dfHpGeaXunLRNvzSZOZtc) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Emperor of Sand](https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF) | 3:02 | 2022-05-30 |  |
@@ -85,6 +85,6 @@
 | [Toe to Toes](https://open.spotify.com/track/7ppgV0Y4cDjNWFtNYmRzsD) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Toe to Toes](https://open.spotify.com/album/0u1dWanZBy4vkzZnLJZmZ3) | 4:29 | 2022-05-30 |  |
 | [Tread Lightly](https://open.spotify.com/track/46PDxEshU0SPeKY36Pu3FY) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Once More 'Round the Sun](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) | 5:14 | 2022-05-30 |  |
 | [White Walker](https://open.spotify.com/track/3jGDbNotjMR5CNaeIg0f1O) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Medium Rarities](https://open.spotify.com/album/3xeGtowrXCRjPOmZahNAoW) | 4:20 | 2022-05-30 | 2022-10-13 |
-| [Word to the Wise](https://open.spotify.com/track/2aYtAI8xvZLUTZPYZMC6ad) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Emperor of Sand](https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF) | 4:00 | 2023-01-31 |  |
+| [Word to the Wise](https://open.spotify.com/track/2aYtAI8xvZLUTZPYZMC6ad) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Emperor of Sand](https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF) | 4:00 | 2023-01-31 | 2025-03-19 |
 
 \*This playlist was first scraped on 2022-05-31. Prior content cannot be recovered.

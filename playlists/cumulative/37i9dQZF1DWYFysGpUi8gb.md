@@ -4,7 +4,7 @@
 
 > welcome to the underground\. greetings from model/acritz.
 
-230 songs - 14 hr 15 min
+231 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [This Is Real](https://open.spotify.com/track/4LYXtoiuM9xEmxklVvQnLl) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [This Is Real](https://open.spotify.com/album/0VNjjHXqRFJ9NTqbmPT9pJ) | 3:07 | 2025-03-12 |  |
 | [Too Many Mistakes](https://open.spotify.com/track/5f7IQH83jOEEVEfpTKQx4z) | [LOOK MUM NO COMPUTER](https://open.spotify.com/artist/24KLOfQv2HrpsCerfN6bef) | [Too Many Mistakes](https://open.spotify.com/album/6VeQJGw0Uk17ScwdSA1bMe) | 3:39 | 2024-06-14 | 2024-07-27 |
 | [TORMENTOR](https://open.spotify.com/track/4FcQeSZNS22TDJbjm5qw3I) | [HONESTY](https://open.spotify.com/artist/0IHlkUZPVWLz5yUbz8H5Bv) | [TORMENTOR](https://open.spotify.com/album/2RqLDB8NYtRMd0MoALQzEc) | 5:10 | 2024-11-22 |  |
+| [Total euphoria](https://open.spotify.com/track/3yp3Hp8OzYV2IoSjYaoqff) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Total euphoria](https://open.spotify.com/album/4JDRogeVzmOCAaVtsdPpuv) | 4:30 | 2025-03-18 |  |
 | [Trying](https://open.spotify.com/track/6W5THMvSEH6WMj2vwqWZTz) | [Saloon Dion](https://open.spotify.com/artist/5jyDRjrVTg2M6uHOQF5MhU) | [Trying](https://open.spotify.com/album/6BZuOzwSbvmWQFU6FXO1YL) | 3:33 | 2024-08-16 | 2024-10-07 |
 | [Tunnel Vision](https://open.spotify.com/track/0tldm2ZKydRvESpRMOncFb) | [Sam Akpro](https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2) | [Tunnel Vision](https://open.spotify.com/album/6QFWj6X7L5n1PuV3JRRoXQ) | 4:10 | 2025-02-21 |  |
 | [Umbrella Tree](https://open.spotify.com/track/6sxVrDXBrdL80ZQKtqUxHb) | [Dura Mater](https://open.spotify.com/artist/1cA9T4W714BiqPU1PaTz9P) | [Umbrella Tree](https://open.spotify.com/album/0tqj67OS0gdFcknGMDCjem) | 3:40 | 2024-06-14 | 2024-07-13 |

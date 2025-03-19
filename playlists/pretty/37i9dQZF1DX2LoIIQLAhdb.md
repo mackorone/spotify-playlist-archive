@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Merveille
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,074 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,083 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 22 | [WIN WIN](https://open.spotify.com/track/3OjzBXbO7TGzYPTrO40Avo) | [Davy One](https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz) | [WIN WIN](https://open.spotify.com/album/2Afunln1aFmy1ZKwQ1buyE) | 1:52 |
 | 23 | [Ils se demandent](https://open.spotify.com/track/1nCzYAumI9KtAmT21Ntzoo) | [Denden](https://open.spotify.com/artist/66YKNnSIqZwFDjrH0i9EAY) | [Ils se demandent](https://open.spotify.com/album/18g5YnnItpU6UQJS7k6Iva) | 1:42 |
 | 24 | [MON SOLEIL](https://open.spotify.com/track/5VxWEYJj16nZoKLDeXUKcc) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [MON SOLEIL](https://open.spotify.com/album/1tf9EDtZbZ93p8uY16cAl5) | 3:04 |
-| 25 | [MAYA JAMA](https://open.spotify.com/track/7EKurcbXGq3vhsBAalwVWb) | [Sonny Rave](https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy), [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [MAYA JAMA](https://open.spotify.com/album/13nHakFBkWdCFoHKS5th6V) | 2:41 |
+| 25 | [MAYA JAMA \(feat\. Green Montana\)](https://open.spotify.com/track/7EKurcbXGq3vhsBAalwVWb) | [Sonny Rave](https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy), [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [MAYA JAMA \(feat\. Green Montana\)](https://open.spotify.com/album/13nHakFBkWdCFoHKS5th6V) | 2:41 |
 | 26 | [Que toi](https://open.spotify.com/track/5fh8vD7HHqsHWCtiuejMZ6) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [TESTIMONY.](https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK) | 4:02 |
 | 27 | [Que dalle](https://open.spotify.com/track/4gCoc6I3V4kEBhYp9r84gt) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Que dalle](https://open.spotify.com/album/75eKtzkGSIcANu1hny54Fi) | 2:57 |
 | 28 | [SALE](https://open.spotify.com/track/6C2ovFhNrKlJRoLbOKmCMJ) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [SALE](https://open.spotify.com/album/5tvPovo3aWrL31HlfBzL1K) | 3:05 |

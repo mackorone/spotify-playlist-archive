@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Feat: Chappell Roan, Mia Wray, HAIM, Brad Cox, Selena Gomez, Lizzo + more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,929 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,931 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 
 > This is Emei\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,501 likes - 29 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,509 likes - 29 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 | 5 | [Love Me Not](https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Love Me Not](https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh) | 2:20 |
 | 6 | [Irresponsible](https://open.spotify.com/track/0zlJpc8mUU9x92uU8t5f6p) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:04 |
 | 7 | [Trust Issues](https://open.spotify.com/track/0SSu4wiFjCPcRE5Sx3ni0A) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Trust Issues](https://open.spotify.com/album/29FWknxiELyLTfZGBDpmRk) | 2:20 |
-| 8 | [Late to the Party](https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late to the Party](https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR) | 2:57 |
-| 9 | [You Are Bad](https://open.spotify.com/track/6tSSghRWA2iOW4jGXSttwX) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 2:18 |
+| 8 | [You Are Bad](https://open.spotify.com/track/6tSSghRWA2iOW4jGXSttwX) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 2:18 |
+| 9 | [Late to the Party](https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late to the Party](https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR) | 2:57 |
 | 10 | [Cynical](https://open.spotify.com/track/0HoXKvtfGFB2CCQvOfNjcd) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:14 |
 | 11 | [Ferris Bueller](https://open.spotify.com/track/14YzvOvrATzkS7f5sJOw2k) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [End of an Era](https://open.spotify.com/album/4I0vC4wtvUmowO4rMM3eOV) | 1:57 |
 | 12 | [Backtrack](https://open.spotify.com/track/6XFtHhrlPKL4qEVDVMOcd6) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/0X3WVWpooMcgdYUCGQDzJy) | 2:38 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 | 17 | [End of an Era](https://open.spotify.com/track/5esqIDtXmnl0EIoiuLFsjp) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [End of an Era](https://open.spotify.com/album/4I0vC4wtvUmowO4rMM3eOV) | 2:13 |
 | 18 | [RE\-IGNITION](https://open.spotify.com/track/3R1618eXJB4mMxIZzLv3Ac) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ARB4](https://open.spotify.com/artist/7e2hk3B42soSKnZhzCkOD8), [Jazz Alonso](https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY), [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RE\-IGNITION](https://open.spotify.com/album/0RaMpMa53l4NSA7QOlDlju) | 3:24 |
 | 19 | [ALL THESE KIDS](https://open.spotify.com/track/4GCMUoBhLMELZ9yf1xHQbc) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [ALL THESE KIDS](https://open.spotify.com/album/2PiygkH7sI89FdZc9GVdKM) | 1:57 |
-| 20 | [Agree to Disagree](https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 2:22 |
-| 21 | [THE PART](https://open.spotify.com/track/2RCZZqbvNR5pEORY3p8PY2) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/1gyUNc54TWzgzXtPvOdOYN) | 2:44 |
+| 20 | [THE PART](https://open.spotify.com/track/2RCZZqbvNR5pEORY3p8PY2) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/1gyUNc54TWzgzXtPvOdOYN) | 2:44 |
+| 21 | [Agree to Disagree](https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 2:22 |
 | 22 | [Picky](https://open.spotify.com/track/1qTHWIDjnghhPe294079cZ) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:20 |
 | 23 | [9 LIVES](https://open.spotify.com/track/64APtv04ls8z8Cjv6iGUsY) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [9 LIVES](https://open.spotify.com/album/7hpEYDgSxgLy8t8TFNnCn7) | 3:02 |
 | 24 | [Hold On Me \(feat\. Emei\)](https://open.spotify.com/track/5asMstLe5UTmy01PCdM43c) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Hold On Me \(feat\. Emei\)](https://open.spotify.com/album/0tMVeea5aLMQqOFGSPWwyI) | 2:29 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 | 28 | [SUNNYD](https://open.spotify.com/track/4vnauoJf6OYYU73jPUJbZa) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [SUNNYD](https://open.spotify.com/album/1D8kmnJy5pX2oxTsydOEYZ) | 2:06 |
 | 29 | [Don't Know About The World](https://open.spotify.com/track/7xil2jjcEh4kaU3XXoAPh8) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:23 |
 
-Snapshot ID: `Z9YUgAAAAAC+5C8+mM6AET+oMpPZlRbE`
+Snapshot ID: `Z9dmAAAAAAAZyJHOQ5WeUhLQ3QnoGh+x`

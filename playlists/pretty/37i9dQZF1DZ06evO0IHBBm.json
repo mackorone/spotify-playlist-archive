@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 30624,
+  "num_followers": 30630,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAAABddCiUlJ+xg24wMTLrxHE",
+  "snapshot_id": "Z9dmAAAAAAB0sSzWhejMATAc9qlZ9Ys7",
   "tracks": [
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deixa Senhor",
+        "url": "https://open.spotify.com/album/1vOizfnBsBejbnHvGbYpp6"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 362987,
+      "name": "Deixa Senhor",
+      "url": "https://open.spotify.com/track/06z7qj0dpj7xdl6rFvbgiO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "100 Anos do Movimento Pentecostal",
         "url": "https://open.spotify.com/album/4Wo3iXk6J7vQ9PUYxpf2VU"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 835400,
       "name": "Sabor de Mel / Terremoto Santo / Deus dos Deuses / Minha Ben\u00e7\u00e3o / A Mensagem da Cruz - Ao vivo",
       "url": "https://open.spotify.com/track/1NwKNiyfbuCaMS3IZBcrCI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deixa Senhor",
-        "url": "https://open.spotify.com/album/1vOizfnBsBejbnHvGbYpp6"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 362987,
-      "name": "Deixa Senhor",
-      "url": "https://open.spotify.com/track/06z7qj0dpj7xdl6rFvbgiO"
     },
     {
       "added_at": null,
@@ -707,22 +707,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cad\u00ea o vencedor?",
-        "url": "https://open.spotify.com/album/07yxyLlox691nqPNZDyvNq"
+        "name": "Damares 2011 (ao vivo)",
+        "url": "https://open.spotify.com/album/0OdC5VKTFR1xwwvFHy3Bfp"
       },
       "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        },
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 222602,
-      "name": "N\u00e3o pare (Participa\u00e7\u00e3o especial de Damares)",
-      "url": "https://open.spotify.com/track/1vZgOwVMWo33msljJa4h5t"
+      "duration_ms": 401213,
+      "name": "Em adora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/74I4URHglkwMY0c7bPEdZH"
     },
     {
       "added_at": null,
@@ -743,18 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damares 2011 (ao vivo)",
-        "url": "https://open.spotify.com/album/0OdC5VKTFR1xwwvFHy3Bfp"
+        "name": "Cad\u00ea o vencedor?",
+        "url": "https://open.spotify.com/album/07yxyLlox691nqPNZDyvNq"
       },
       "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        },
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 401213,
-      "name": "Em adora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/74I4URHglkwMY0c7bPEdZH"
+      "duration_ms": 222602,
+      "name": "N\u00e3o pare (Participa\u00e7\u00e3o especial de Damares)",
+      "url": "https://open.spotify.com/track/1vZgOwVMWo33msljJa4h5t"
     },
     {
       "added_at": null,

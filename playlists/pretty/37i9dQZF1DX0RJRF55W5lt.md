@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: DJ EZ at Drumsheds
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,849 likes - 75 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,967 likes - 75 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Almond Milk
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,061 likes - 92 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,063 likes - 92 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

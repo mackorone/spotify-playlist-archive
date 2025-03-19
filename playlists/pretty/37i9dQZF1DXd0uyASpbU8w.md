@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Selena Gomez & benny blanco, Davido, Lizzo and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,482 likes - 73 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,495 likes - 73 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 45 | [As'lali](https://open.spotify.com/track/528XssoAYo593ksrUBz50U) | [Lisa Li](https://open.spotify.com/artist/3QM8TCMBrYa8fkxNLtS3wl), [XeinSoul](https://open.spotify.com/artist/7LTiUiavkNKjdSSSOQyJQU) | [As'lali](https://open.spotify.com/album/515iyUBxgXkF5z4ipoWm3U) | 5:31 |
 | 46 | [Another Mess I Make](https://open.spotify.com/track/27aqkdGNCiEt6o2BLRdbda) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nkatha Muthoni](https://open.spotify.com/artist/6GsjoCCj2BMdqDSjbl6B2P) | [Another Mess I Make](https://open.spotify.com/album/4MpHnTvay6SD8GPU0uCMQ8) | 4:17 |
 | 47 | [What Do I Do?](https://open.spotify.com/track/6V4Rf276IlbCk3q6T1zxrx) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [Kozo Zwane](https://open.spotify.com/artist/0Sa8nh1qc2jZhlqddED69k), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [There's a Burning Sensation Where My Heart Used to Be](https://open.spotify.com/album/58GU30ulA0gAb0a55mYiDb) | 4:18 |
-| 48 | [SAID IT ALL](https://open.spotify.com/track/2CUY2xTP37Mi5yhdMacHzr) | [RGRSNW](https://open.spotify.com/artist/0iXnQiDftxiAJTqoeJ2noD), [Medicine Man](https://open.spotify.com/artist/2M6UiphHTgRyegjyLia9sg) | [SAID IT ALL](https://open.spotify.com/album/60jcfrJHEA03ii3qL0pfSO) | 2:29 |
+| 48 | [SAID IT ALL](https://open.spotify.com/track/2CUY2xTP37Mi5yhdMacHzr) | [RGRSNW](https://open.spotify.com/artist/0iXnQiDftxiAJTqoeJ2noD), [Medicine Man](https://open.spotify.com/artist/4uXbFCSa5qgzcwjmDM64iz) | [SAID IT ALL](https://open.spotify.com/album/60jcfrJHEA03ii3qL0pfSO) | 2:29 |
 | 49 | [Moonwalking in Reverse](https://open.spotify.com/track/7qiQKJ7G59t8uNmWwR1S6R) | [Spoek Mathambo](https://open.spotify.com/artist/3qw0OXlLhqI78xEWw9Ys8O) | [Moonwalking in Reverse](https://open.spotify.com/album/7EHXufQYUL707bguENW9WX) | 1:55 |
 | 50 | [Mntano Muntu \- Radio Edit](https://open.spotify.com/track/6a5FYSzK5cbABmt7Vduwp4) | [Omhle Diya](https://open.spotify.com/artist/1jCxLCuwQF1FUGbaLCn5pz), [Ntokzin](https://open.spotify.com/artist/01n03WadoqgmHHDQ24v3kV) | [Mntano Muntu](https://open.spotify.com/album/2ylD0SBoChdvmkCCg9qKbX) | 4:30 |
 | 51 | [WTSG\_1](https://open.spotify.com/track/4JUMFfpTELJCYZDDsI9Y19) | [Mbuso de Mbazo](https://open.spotify.com/artist/2e4bNESMyPyfdLjpZ83g9O) | [WTSG\_7](https://open.spotify.com/album/1bHVL6IvnZ389n4Gr2aCi2) | 6:08 |

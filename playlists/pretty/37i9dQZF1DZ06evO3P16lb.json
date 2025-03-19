@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAABVOmzmpdiMjbgO02iyh5F9",
+  "snapshot_id": "Z9dmAAAAAADeQ4xD0Gl5XrSIF8OM3ct3",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfSeguimos o No?",
-        "url": "https://open.spotify.com/album/561lSkRFe7fRTVrR4afGcq"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 142710,
-      "name": "\u00bfSeguimos o No?",
-      "url": "https://open.spotify.com/track/1NsjmaxOjSXMexCLix1WAI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cumbiecitas Elegantes",
         "url": "https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 253335,
       "name": "B\u00e9same Mucho (with Lupita Infante)",
       "url": "https://open.spotify.com/track/1XMI6Ym8dnyQWJfDgu3AdX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00bfSeguimos o No?",
+        "url": "https://open.spotify.com/album/561lSkRFe7fRTVrR4afGcq"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 142710,
+      "name": "\u00bfSeguimos o No?",
+      "url": "https://open.spotify.com/track/1NsjmaxOjSXMexCLix1WAI"
     },
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 214088,
-      "name": "Sabor a Mi",
-      "url": "https://open.spotify.com/track/7fJnVdI1eJL3gyclZSFERl"
+      "duration_ms": 237029,
+      "name": "Dejar\u00e9",
+      "url": "https://open.spotify.com/track/74UeUWEOPMtVyhXNHitGi8"
     },
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano y Mujer II",
-        "url": "https://open.spotify.com/album/0PlPEqIeW4t3oTa0biWs0C"
-      },
-      "artists": [
-        {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        },
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 259624,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/2E5FC6gMayGYlilOQ53ZSi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Me Va la Voz",
         "url": "https://open.spotify.com/album/0l3hGDxoI1CHMTrWkA8u9k"
       },
@@ -387,6 +367,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piano y Mujer II",
+        "url": "https://open.spotify.com/album/0PlPEqIeW4t3oTa0biWs0C"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 259624,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/2E5FC6gMayGYlilOQ53ZSi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Serenata",
         "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
       },
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 237029,
-      "name": "Dejar\u00e9",
-      "url": "https://open.spotify.com/track/74UeUWEOPMtVyhXNHitGi8"
+      "duration_ms": 214088,
+      "name": "Sabor a Mi",
+      "url": "https://open.spotify.com/track/7fJnVdI1eJL3gyclZSFERl"
     },
     {
       "added_at": null,
@@ -435,22 +435,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flor Sin Reto\u00f1o",
-        "url": "https://open.spotify.com/album/1IBxPCtaWBMojqn7XkIiSy"
+        "name": "Puras de Mi Abuelo, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk"
       },
       "artists": [
         {
           "name": "Lupita Infante",
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        },
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
         }
       ],
-      "duration_ms": 196939,
-      "name": "Flor Sin Reto\u00f1o",
-      "url": "https://open.spotify.com/track/2KDYFxmIMYR7qUO2IkG9jx"
+      "duration_ms": 194705,
+      "name": "Cien A\u00f1os - En Vivo",
+      "url": "https://open.spotify.com/track/0abywAZKp30hCllOLhq8P6"
     },
     {
       "added_at": null,
@@ -471,18 +467,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras de Mi Abuelo, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk"
+        "name": "Flor Sin Reto\u00f1o",
+        "url": "https://open.spotify.com/album/1IBxPCtaWBMojqn7XkIiSy"
       },
       "artists": [
         {
           "name": "Lupita Infante",
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        },
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
         }
       ],
-      "duration_ms": 194705,
-      "name": "Cien A\u00f1os - En Vivo",
-      "url": "https://open.spotify.com/track/0abywAZKp30hCllOLhq8P6"
+      "duration_ms": 196939,
+      "name": "Flor Sin Reto\u00f1o",
+      "url": "https://open.spotify.com/track/2KDYFxmIMYR7qUO2IkG9jx"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Son de la Negra / Cielito Lindo / Volver Volver / Si Nos Dejan",
-        "url": "https://open.spotify.com/album/5CIPyfvFZ9kFPh6WFNWrcS"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 431032,
-      "name": "El Son de la Negra / Cielito Lindo / Volver Volver / Si Nos Dejan",
-      "url": "https://open.spotify.com/track/3srgVBgOp0l96HMSzhkObm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00c9XICO (CAN I STAY)",
         "url": "https://open.spotify.com/album/6ZXcVsYRdUKUReGYRLrTD2"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 186018,
       "name": "M\u00e9xico (Can I Stay)",
       "url": "https://open.spotify.com/track/1PuOLi2DuqheibqK4wTCI8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Son de la Negra / Cielito Lindo / Volver Volver / Si Nos Dejan",
+        "url": "https://open.spotify.com/album/5CIPyfvFZ9kFPh6WFNWrcS"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 431032,
+      "name": "El Son de la Negra / Cielito Lindo / Volver Volver / Si Nos Dejan",
+      "url": "https://open.spotify.com/track/3srgVBgOp0l96HMSzhkObm"
     },
     {
       "added_at": null,

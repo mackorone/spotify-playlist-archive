@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 
 > Piano music for fall vibes and autumnal moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,110 likes - 226 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,104 likes - 226 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "A playlist to get you through your whole workday.",
-  "num_followers": 323923,
+  "num_followers": 324072,
   "original_name": "Music for a Workday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlWIJQAAAAA+KBhowE5FWcZnEzHz24Q+",
+  "snapshot_id": "Z9lCJAAAAACi8YPcJwD4D6XytNE0dbBz",
   "tracks": [
     {
       "added_at": "2024-04-05 00:00:00",
@@ -91,6 +91,30 @@
       "duration_ms": 326490,
       "name": "About You",
       "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
+    },
+    {
+      "added_at": "2025-03-18 09:51:32",
+      "album": {
+        "name": "Call Me When You Break Up (with Gracie Abrams)",
+        "url": "https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 126831,
+      "name": "Call Me When You Break Up (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -209,6 +233,22 @@
       "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
     },
     {
+      "added_at": "2025-03-18 09:51:32",
+      "album": {
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 218660,
+      "name": "Sally, When The Wine Runs Out",
+      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
+    },
+    {
       "added_at": "2024-04-05 00:00:00",
       "album": {
         "name": "Mistaken Identity",
@@ -225,6 +265,26 @@
       "url": "https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"
     },
     {
+      "added_at": "2025-03-18 09:51:32",
+      "album": {
+        "name": "Crashing (with Kali Uchis)",
+        "url": "https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 187660,
+      "name": "Crashing (with Kali Uchis)",
+      "url": "https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW"
+    },
+    {
       "added_at": "2024-04-05 00:00:00",
       "album": {
         "name": "Good Riddance (Deluxe)",
@@ -239,6 +299,26 @@
       "duration_ms": 245629,
       "name": "I know it won't work",
       "url": "https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Stuck with U",
+        "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 228482,
+      "name": "Stuck with U (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -275,26 +355,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Stuck with U",
-        "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 228482,
-      "name": "Stuck with U (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Don't Play That Song (Mono)",
         "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
       },
@@ -307,6 +367,38 @@
       "duration_ms": 180055,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
+    },
+    {
+      "added_at": "2025-03-18 09:51:32",
+      "album": {
+        "name": "We Hug Now",
+        "url": "https://open.spotify.com/album/30h62oCDd1lhOsJibIFieh"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 248821,
+      "name": "We Hug Now",
+      "url": "https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy"
+    },
+    {
+      "added_at": "2025-03-18 09:51:32",
+      "album": {
+        "name": "Next Summer",
+        "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 165676,
+      "name": "Next Summer",
+      "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1395,22 +1487,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 162533,
-      "name": "Bring It On Home to Me",
-      "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
       },
@@ -1439,6 +1515,22 @@
       "duration_ms": 193795,
       "name": "To Die For",
       "url": "https://open.spotify.com/track/2ZTYlnhhV1UAReg7wIGolx"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 162533,
+      "name": "Bring It On Home to Me",
+      "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1711,6 +1803,22 @@
       "duration_ms": 142186,
       "name": "Respect - 2003 Remaster",
       "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
+    },
+    {
+      "added_at": "2025-03-18 09:51:32",
+      "album": {
+        "name": "The Reaper",
+        "url": "https://open.spotify.com/album/56quvGXHpGk8v1UoAirScb"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "The Reaper",
+      "url": "https://open.spotify.com/track/1h1cFLBjXf4SgoCxbrcrLC"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2055,6 +2163,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/3ETKNL7BaU8N2gh1GH4HXQ"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 144530,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/2K0r5GD5zYlEMx2M7ZMcqG"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Let You Love Me",
         "url": "https://open.spotify.com/album/4INRJMYMJrSPsf5mbW26Fm"
       },
@@ -2083,22 +2207,6 @@
       "duration_ms": 206360,
       "name": "Eleven",
       "url": "https://open.spotify.com/track/1ToprX3cpBiXoAe5eNSk74"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/3ETKNL7BaU8N2gh1GH4HXQ"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 144530,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/2K0r5GD5zYlEMx2M7ZMcqG"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2387,102 +2495,6 @@
       "duration_ms": 177200,
       "name": "Need Your Love",
       "url": "https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "golden thing",
-        "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        }
-      ],
-      "duration_ms": 219300,
-      "name": "golden thing",
-      "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "I Get The Sweetest Feeling",
-        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "I Get The Sweetest Feeling",
-      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "K-12 (After School \u2013 Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7ndwJvNRNljkK9r4JLNcX2"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 154817,
-      "name": "The Bakery",
-      "url": "https://open.spotify.com/track/5xlntPcXIDzcpHZjpQKcU2"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "Boys Like You (Acoustic)",
-        "url": "https://open.spotify.com/album/5vFQw6vOWYH9SaYVbSY9to"
-      },
-      "artists": [
-        {
-          "name": "Anna Clendening",
-          "url": "https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD"
-        }
-      ],
-      "duration_ms": 238576,
-      "name": "Boys Like You - Acoustic",
-      "url": "https://open.spotify.com/track/51xRMJFRBrW9C1RI1qW4S0"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/64OLfOz30pmwGnjngRodRT"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 218385,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/7E1kK0D0goo85p02ZAoa8Y"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "Carry On Up The Charts",
-        "url": "https://open.spotify.com/album/497CgsHDSzUL42ErcTIJEV"
-      },
-      "artists": [
-        {
-          "name": "The Beautiful South",
-          "url": "https://open.spotify.com/artist/4fomCZiFUMX73KJ0YQ0V90"
-        }
-      ],
-      "duration_ms": 244666,
-      "name": "Song For Whoever - Single Version",
-      "url": "https://open.spotify.com/track/1zb6cUXJ1RtnOrtn3dgo6h"
     }
   ],
   "unique_name": "Music for a Workday",

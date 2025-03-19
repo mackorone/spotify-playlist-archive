@@ -4,7 +4,7 @@
 
 > Rock e punk dall'Italia 🎸 Cara Calma in cover
 
-1,368 songs - 3 day 4 hr 11 min
+1,369 songs - 3 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Buio](https://open.spotify.com/track/2lsKGcKe6FizRGPimPtBal) | [LOREN](https://open.spotify.com/artist/7i1dBxscRnTkZIVoo0F29h) | [Buio](https://open.spotify.com/album/3LwsCmNWnnlwQm5TAMFzaW) | 3:19 | 2022-07-28 | 2022-08-26 |
 | [Buio](https://open.spotify.com/track/6X1PE6tOCJa9mpXdcCIswg) | [LOREN](https://open.spotify.com/artist/7i1dBxscRnTkZIVoo0F29h) | [Buio](https://open.spotify.com/album/0SWsn6jGy0EQzBGGQysYc6) | 3:20 | 2022-07-07 | 2022-07-29 |
 | [buio/luce](https://open.spotify.com/track/5Igi6TYXJt8hrEenbqZtMT) | [Martina](https://open.spotify.com/artist/5FUuvvK6pzPDOJsRl10Z8p) | [buio/luce](https://open.spotify.com/album/21gbCfIeS5qpxTIa6vpbTn) | 1:54 | 2024-06-06 | 2024-07-05 |
+| [Bulma](https://open.spotify.com/track/3Zo1U4KNLUIIP3OlgZApPc) | [Garda 1990](https://open.spotify.com/artist/05uhPVxB57fPfp234c3lSC), [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp) | [Bulma](https://open.spotify.com/album/1TDDVYkg5RoJmuq7Ef7kIa) | 2:32 | 2025-03-18 |  |
 | [Bureaucracy Apocalypse](https://open.spotify.com/track/3PcdEROHFmkaVzQLnlhNao) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Small Talk](https://open.spotify.com/album/66AjMxQjNL85pbYBV4fFL8) | 2:02 | 2023-11-02 | 2023-12-01 |
 | [Burrone](https://open.spotify.com/track/1NaD3BZ3iokShwJjmRAvFz) | [Arianna Pasini](https://open.spotify.com/artist/0PvxzN9MSvVMYj0b0fuwzA) | [Burrone](https://open.spotify.com/album/4JyFlh34wPSfiPDJVrYAmf) | 3:02 | 2023-11-23 | 2024-02-23 |
 | [Buttami Giù](https://open.spotify.com/track/0vAe99uZ3avcFFlLFwM7ow) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [Buttami Giù](https://open.spotify.com/album/3aVWnMXssTGsU9ZVm6wgBv) | 2:54 | 2022-05-09 | 2022-07-22 |

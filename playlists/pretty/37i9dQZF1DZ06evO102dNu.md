@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 
 > This is Frank Sinatra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,202,574 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,202,619 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 | 43 | [Summer Wind](https://open.spotify.com/track/1KGFGleVVS76wuLiOtS7Iu) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Duets \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya) | 2:33 |
 | 44 | [One Note Samba \(Samba de Uma Nota So\)](https://open.spotify.com/track/54DTLQMjyF60TY8b4jkKRa) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra/Jobim: The Complete Reprise Recordings](https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX) | 2:20 |
 | 45 | [Autumn Leaves \- 1999 Remastered](https://open.spotify.com/track/1Yv6PMPkvLdCIFbm9kanaz) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Where Are You? \(Remastered / Expanded Edition\)](https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1) | 2:52 |
-| 46 | [Let Me Try Again \(Laisse Moi le Temps\)](https://open.spotify.com/track/3unwkk28BubxXKFNzVGHMY) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ol' Blue Eyes Is Back](https://open.spotify.com/album/7rume1B0CM3J35YeAYq0zu) | 3:31 |
-| 47 | [All Of Me \- Remastered 1998](https://open.spotify.com/track/1GLA53wyoybkJIQPLJR1Ml) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Swing Easy!](https://open.spotify.com/album/6j0yZEGpZBnoAQYIH0pIG7) | 2:06 |
+| 46 | [All Of Me \- Remastered 1998](https://open.spotify.com/track/1GLA53wyoybkJIQPLJR1Ml) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Swing Easy!](https://open.spotify.com/album/6j0yZEGpZBnoAQYIH0pIG7) | 2:06 |
+| 47 | [Let Me Try Again \(Laisse Moi le Temps\)](https://open.spotify.com/track/3unwkk28BubxXKFNzVGHMY) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ol' Blue Eyes Is Back](https://open.spotify.com/album/7rume1B0CM3J35YeAYq0zu) | 3:31 |
 | 48 | [Polka Dots and Moonbeams](https://open.spotify.com/track/0HFWS5C6ThNeuOr10Xz21U) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Essential Frank Sinatra with the Tommy Dorsey Orchestra \(with Frank Sinatra\)](https://open.spotify.com/album/6mcP2ZPyrpMIOrXvSDNQ3g) | 3:19 |
 | 49 | [Luck Be A Lady](https://open.spotify.com/track/3AgY5gLURlcdYBVGv1RVm7) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [My Kind Of Broadway](https://open.spotify.com/album/4pA0MHfxB10F9Q8HhoItIh) | 5:14 |
 | 50 | [Moonlight In Vermont \- Remastered 1998](https://open.spotify.com/track/1ymaji9iiLLfPOq91srHeH) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Fly With Me \(Expanded Edition\)](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) | 3:32 |
 
-Snapshot ID: `Z9YUgAAAAABypAXOUDNTcB7/Hbrpms2b`
+Snapshot ID: `Z9dmAAAAAAC6H9UcqZgegikg+9SHKAlD`

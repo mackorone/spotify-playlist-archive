@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 517077,
+  "num_followers": 517133,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
+        "name": "Dixie Chicken",
+        "url": "https://open.spotify.com/album/4xtCtXkGuTbHQwTaVd5FCF"
+      },
+      "artists": [
+        {
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+        }
+      ],
+      "duration_ms": 239106,
+      "name": "Dixie Chicken",
+      "url": "https://open.spotify.com/track/0eTHlx53lUn95HVsJtR6Qx"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
         "name": "Molly Hatchet",
         "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 426000,
       "name": "Dreams I'll Never See",
       "url": "https://open.spotify.com/track/7pmQ1repUoMbViMlPrZyuD"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
-        "name": "I'm No Angel",
-        "url": "https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe"
-      },
-      "artists": [
-        {
-          "name": "Gregg Allman",
-          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
-        }
-      ],
-      "duration_ms": 222893,
-      "name": "I'm No Angel",
-      "url": "https://open.spotify.com/track/2Yt2u7vNSCkPUy1awRFSPV"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Dixie Chicken",
-        "url": "https://open.spotify.com/album/4xtCtXkGuTbHQwTaVd5FCF"
+        "name": "I'm No Angel",
+        "url": "https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe"
       },
       "artists": [
         {
-          "name": "Little Feat",
-          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+          "name": "Gregg Allman",
+          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
         }
       ],
-      "duration_ms": 239106,
-      "name": "Dixie Chicken",
-      "url": "https://open.spotify.com/track/0eTHlx53lUn95HVsJtR6Qx"
+      "duration_ms": 222893,
+      "name": "I'm No Angel",
+      "url": "https://open.spotify.com/track/2Yt2u7vNSCkPUy1awRFSPV"
     },
     {
       "added_at": "2024-07-05 17:03:45",

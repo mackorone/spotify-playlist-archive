@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. Cover: yutori
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. Cover: ROTTENGRAFFTY
 
-818 songs - 1 day 19 hr 29 min
+820 songs - 1 day 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [After 30 years](https://open.spotify.com/track/3HbdkqhTM4maDSnNI5bV1b) | [LABRET](https://open.spotify.com/artist/28gEh6RZDT8AHNjm78kEfY) | [AFTER 30 YEARS](https://open.spotify.com/album/24wJdb9QkcqtqWIF8yxnca) | 3:16 | 2022-06-28 | 2022-07-20 |
 | [Ain't Nothing](https://open.spotify.com/track/1Y5CDS0yJ10aB5g0xWaQ5Z) | [BACK DROP BOMB](https://open.spotify.com/artist/7iT9CcoboEEyJXPPrnLM3T) | [Ain't Nothing](https://open.spotify.com/album/2TyfNadUiT54W25ySe9K7E) | 4:21 | 2022-05-12 | 2022-07-29 |
 | [Andy](https://open.spotify.com/track/3JnVplRv5OFdNP8fHIZLYy) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [Andy](https://open.spotify.com/album/2ZIm49qejBACCFTueJ8wTc) | 2:50 | 2022-05-12 | 2024-11-06 |
+| [Angelic town](https://open.spotify.com/track/0psvtk7zvaQseEEckFmjOu) | [May Forth](https://open.spotify.com/artist/6MYn2A1crz0GWAqp2Ctyxj) | [Angelic town](https://open.spotify.com/album/4HwFpRlpCz7ZJ3sVpfXA4o) | 3:11 | 2025-03-18 |  |
 | [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 | 2023-04-15 |
 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-04-13 | 2023-09-21 |
 | [ANTI ANGER CONTROL](https://open.spotify.com/track/1uPPNErpuO72oAPnzwhdzn) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [i!i!i!i!](https://open.spotify.com/album/4fSo1ByAhFJSzhQ5YyMDaZ) | 1:43 | 2023-04-11 | 2023-05-10 |
@@ -92,7 +93,7 @@
 | [Chain of Emotions](https://open.spotify.com/track/6TD4IgWz4W3tyyh2MBUY7S) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [Into Another World](https://open.spotify.com/album/633gkF2gOK4kJGTiCfNoWl) | 4:07 | 2022-05-12 | 2023-05-11 |
 | [Chain Reaction](https://open.spotify.com/track/2Nu30TK5pHMHxjiVJQ7gxr) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [illuminate](https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC) | 3:23 | 2022-05-12 |  |
 | [CHAMPiONS](https://open.spotify.com/track/25DKLVXbY747FnWBpum6k5) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [CHAMPiONS](https://open.spotify.com/album/1tgzTFdkXKzMhZhsHZs0PD) | 4:01 | 2025-02-25 |  |
-| [CHANGE](https://open.spotify.com/track/4n4VNZKDtShFyoM77L2Gni) | [GOOD4NOTHING](https://open.spotify.com/artist/32VxoMUMRUcnYscQ9gAWar) | [HEARTS BURNING](https://open.spotify.com/album/5aVvzWfairbdVBAT4LnP18) | 2:23 | 2024-04-16 |  |
+| [CHANGE](https://open.spotify.com/track/4n4VNZKDtShFyoM77L2Gni) | [GOOD4NOTHING](https://open.spotify.com/artist/32VxoMUMRUcnYscQ9gAWar) | [HEARTS BURNING](https://open.spotify.com/album/5aVvzWfairbdVBAT4LnP18) | 2:23 | 2024-04-16 | 2025-03-19 |
 | [CHANGE](https://open.spotify.com/track/5T2GDBSTn6wM21iNWM6Eik) | [GOOD4NOTHING](https://open.spotify.com/artist/32VxoMUMRUcnYscQ9gAWar) | [HEARTS BURNING](https://open.spotify.com/album/37bmqz9g2Y0PdOWcxQRKaX) | 2:23 | 2024-04-16 | 2024-04-19 |
 | [CHANGES](https://open.spotify.com/track/2LJu1JfpZw1ekxaHGMIam3) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [CHANGES](https://open.spotify.com/album/0N9hph6Prr4UgH9ah1EZaH) | 3:23 | 2022-05-12 | 2022-11-13 |
 | [charon](https://open.spotify.com/track/69YwNmEyRLwT9b92Mzzoyi) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [charon](https://open.spotify.com/album/4Ek52lnfKg3amniAROTb5F) | 3:36 | 2025-02-11 |  |
@@ -252,6 +253,7 @@
 | [KICKIN'YOUR HEAD](https://open.spotify.com/track/3tgAbhJ2TP4HeVdprAqwV9) | [SOBUT](https://open.spotify.com/artist/7wiOTXhsRROAbAm7GDETD4) | [KICKIN' YOUR HEAD](https://open.spotify.com/album/1p07aehQpgQVndO8pnqRwK) | 2:56 | 2022-05-24 | 2022-07-25 |
 | [KILLER,Muddy Greed](https://open.spotify.com/track/0Yo7YBmvoA36hmRAM1F7NN) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [KILLER,Muddy Greed](https://open.spotify.com/album/3sp61F4s7fSWvfvVODCbU8) | 2:59 | 2022-07-21 | 2022-08-10 |
 | [KILLER,Muddy Greed](https://open.spotify.com/track/24YwAMhwJ6kqakYmQPs9aU) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [KILLER,Muddy Greed](https://open.spotify.com/album/4dgWKzRQiu0wDzD3hnniH5) | 2:59 | 2022-07-07 | 2022-07-29 |
+| [Kirifuda \(feat\. TAKUMA from 10\-FEET\)](https://open.spotify.com/track/5vL44zUh8BW1BNJsE5TV45) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj), [TAKUMA](https://open.spotify.com/artist/7CcCUhKZWvb3tvXtcMAb45) | [Wabi Sabi \-Sabi\-](https://open.spotify.com/album/4rXzqtHbEYt1UyMQjFLRCR) | 2:29 | 2025-03-18 |  |
 | [Koizakari sexy](https://open.spotify.com/track/05IxzOSir8L1yeqxWWC2so) | [Su凸ko D凹koi](https://open.spotify.com/artist/1nPzXqUlZz6YJAiyepAY51) | [Gyaru no wakusei](https://open.spotify.com/album/4JYNAjXr8GQL7PxJfEORk0) | 5:26 | 2024-03-12 | 2024-04-19 |
 | [KOKORONOPAGE](https://open.spotify.com/track/0sOtP0rGkChcOZbFXCaZ83) | [GaGaGa SP](https://open.spotify.com/artist/1i2ol7SBMNLazfzSZKRGwM) | [KOKORONOPAGE](https://open.spotify.com/album/3wqfkzjNQqx9SSAiTJYaem) | 2:53 | 2023-12-19 | 2024-02-28 |
 | [Koushu Road](https://open.spotify.com/track/1QTqwO6IvE5wcabJZMfUZH) | [Su凸ko D凹koi](https://open.spotify.com/artist/1nPzXqUlZz6YJAiyepAY51) | [Su凸ko D凹koi wo Shinjiruna](https://open.spotify.com/album/2O6tyCxGJvx19VuupjDezA) | 4:44 | 2023-05-23 | 2024-03-27 |
@@ -317,7 +319,7 @@
 | [morning glow](https://open.spotify.com/track/3gKtZrjO0VUPZRr6yQCzGt) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [morning glow](https://open.spotify.com/album/2Yt5IA6dZq0lm1n0BPsxik) | 3:02 | 2023-07-06 | 2023-07-21 |
 | [morning glow](https://open.spotify.com/track/7vRVeeoAMz9peuYiHkjRiN) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [morning glow](https://open.spotify.com/album/1UGxYO35TP44XoyzE4QJ1g) | 3:02 | 2023-07-06 | 2024-12-31 |
 | [MUZIC](https://open.spotify.com/track/4Zxt7WB2E7qkyav5eiSYnj) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [AIN'T SEEN NOTHING YET](https://open.spotify.com/album/4RU5eq7GsGxKEo28TdOHUg) | 3:38 | 2022-05-12 | 2022-07-23 |
-| [MUZIC](https://open.spotify.com/track/1LrmWErruRbgfafzcilZNS) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [MUZIC](https://open.spotify.com/album/4UfnTbzbPnLbF6K1RttHp5) | 3:42 | 2022-05-12 | 2025-02-26 |
+| [MUZIC](https://open.spotify.com/track/1LrmWErruRbgfafzcilZNS) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [MUZIC](https://open.spotify.com/album/4UfnTbzbPnLbF6K1RttHp5) | 3:42 | 2022-05-12 |  |
 | [MY FIRST KISS](https://open.spotify.com/track/2sZkMsfevQczFFXNBzr6al) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [LOVE IS A BATTLEFIELD](https://open.spotify.com/album/2xpMvwe3ftugumuaJR3flV) | 3:11 | 2023-12-12 | 2024-04-19 |
 | [MY FIRST KISS](https://open.spotify.com/track/3giExKWjsn2GSeXR5AQIMc) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [LOVE IS A BATTLEFIELD](https://open.spotify.com/album/3UW4q3FZ3YCCzyXe8zTYFa) | 3:11 | 2022-07-21 | 2023-12-09 |
 | [MY FIRST KISS](https://open.spotify.com/track/5KwK5Ojq91gC2gBEWuopOS) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [LOVE IS A BATTLEFIELD](https://open.spotify.com/album/1QwhR7nfWScyyDaa6Rwj5y) | 3:11 | 2022-05-19 | 2022-07-28 |
@@ -325,7 +327,7 @@
 | [My One Wish](https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [My One Wish](https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk) | 2:52 | 2023-10-17 | 2024-02-29 |
 | [My Secret Summer](https://open.spotify.com/track/3FwwlkM5aps7yKctEwKLuS) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [WILL KEEP MARCHING](https://open.spotify.com/album/2olIfuO9oEQ0DBQPeBjb5A) | 2:57 | 2022-05-12 | 2022-07-23 |
 | [My Sweet Boy](https://open.spotify.com/track/5QEhvxHw4pMi6Bbcz2nLPr) | [SpecialThanks](https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk) | [MY SWEET BOY](https://open.spotify.com/album/3meTktdE5iPhISF7lFdSbI) | 2:47 | 2022-05-12 | 2022-07-27 |
-| [MY VOICE DESTROYS CUSTOMS](https://open.spotify.com/track/4zYDn1WFH2p9rzYT579dNX) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [EP!!!!NI\-HAO!!!!](https://open.spotify.com/album/0VgkAbqypRDe2ryOnf9rtF) | 0:52 | 2025-02-25 |  |
+| [MY VOICE DESTROYS CUSTOMS](https://open.spotify.com/track/4zYDn1WFH2p9rzYT579dNX) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [EP!!!!NI\-HAO!!!!](https://open.spotify.com/album/0VgkAbqypRDe2ryOnf9rtF) | 0:52 | 2025-02-25 | 2025-03-19 |
 | [N.S.O.](https://open.spotify.com/track/3rnUX9PbuWG7W8yVftuJvg) | [JUANAFAN CLUB](https://open.spotify.com/artist/68NIBIkk9yQAajOWWtl8f2) | [N.S.O.](https://open.spotify.com/album/3xVxvzEkLNZsNCNhNhfcxi) | 5:12 | 2022-07-14 | 2022-07-20 |
 | [Nagisa](https://open.spotify.com/track/0u8dRvBuJYPxr7xysHXhCe) | [UNMASK aLIVE](https://open.spotify.com/artist/4wZznngFKM7rP9mTk2dRGo) | [UNMASK aLIVE](https://open.spotify.com/album/3eG7tLgIVZ0nbc1N0JdBSD) | 2:28 | 2022-05-12 | 2022-07-29 |
 | [Nakamanouta](https://open.spotify.com/track/47ksmgpGttB6zmHmIy0CyW) | [The Mass Missile](https://open.spotify.com/artist/0ZZkqs16RgXFeUQbRdGFef) | [Nakamanouta](https://open.spotify.com/album/4uGinRpuwIDnU5qyCmto1H) | 4:57 | 2022-05-12 | 2022-07-21 |
@@ -645,7 +647,7 @@
 | [サイケデリックな彼女](https://open.spotify.com/track/3nZyIZW08LJLUlwxa8d6Lh) | [THE HAMIDA SHE’S](https://open.spotify.com/artist/4joyyVcWcBimHEgquIi4x4) | [純情讃歌](https://open.spotify.com/album/7oL0JRcOeBbw5p419a1mTU) | 1:51 | 2024-02-20 | 2024-02-28 |
 | [サイコーサイコー](https://open.spotify.com/track/1oL4bX4VeHl3wgOPSXK7xQ) | [3SET\-BOB](https://open.spotify.com/artist/4WcDR835C8UDz2Ul0L7lt6) | [サイコーサイコー](https://open.spotify.com/album/19lzPEo30rzNkKUayXwmbe) | 3:58 | 2023-06-13 | 2023-06-28 |
 | [サバシスター's THEME \- 2024 ver.](https://open.spotify.com/track/1cvy3uzdTG80BJK31OG9CK) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 3:32 | 2024-03-07 | 2024-09-04 |
-| [サラダデイズ](https://open.spotify.com/track/2jNPFA1UeTt4KtRlbwQXyZ) | [OCHA∞ME](https://open.spotify.com/artist/0ZTPHSqruVKSdZSmCBskxT) | [walk on the boat](https://open.spotify.com/album/2BskKoJuiayJ271zOvBCNh) | 3:10 | 2024-10-15 |  |
+| [サラダデイズ](https://open.spotify.com/track/2jNPFA1UeTt4KtRlbwQXyZ) | [OCHA∞ME](https://open.spotify.com/artist/0ZTPHSqruVKSdZSmCBskxT) | [walk on the boat](https://open.spotify.com/album/2BskKoJuiayJ271zOvBCNh) | 3:10 | 2024-10-15 | 2025-03-19 |
 | [サラバ!](https://open.spotify.com/track/52UewcDEkdImgLW0C3F6L0) | [THE PERRY](https://open.spotify.com/artist/2bUj8mfwedR3OobVVLgGOx) | [サラバ!](https://open.spotify.com/album/1NyAWXMA2vd5IJegmhQppV) | 3:11 | 2022-05-12 | 2022-07-25 |
 | [サルバドルサーガ](https://open.spotify.com/track/1WZI1YpskgHrl7bEsNcfFB) | [粗品](https://open.spotify.com/artist/7xqEtCgCQWtiuvlkM5Wigc) | [サルバドルサーガ](https://open.spotify.com/album/16nWKbGApwXiwjXK2JtkGY) | 3:15 | 2024-02-27 | 2024-03-01 |
 | [シグナル](https://open.spotify.com/track/4Ybp3UvVXvraRNwOCWnrNq) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 3:39 | 2022-08-16 |  |

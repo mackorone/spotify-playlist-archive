@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 
 > This is Kodak Black\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,943 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,001 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 23 | [Unexplainable](https://open.spotify.com/track/6X5x6uOKio6vBiHyptfkGV) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 2:30 |
 | 24 | [Already](https://open.spotify.com/track/3XoMtVDuIbmMQ9UKSShXti) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Institution](https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj) | 4:01 |
 | 25 | [One Take Freestyle Remix \(feat\. Kodak Black\)](https://open.spotify.com/track/0XUgIKMFqoQfbF04tapYOD) | [1900Rugrat](https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [One Take Freestyle Remix \(feat\. Kodak Black\)](https://open.spotify.com/album/17gLxN7uVYy7gNAMUmhl0D) | 3:42 |
-| 26 | [BË QUIET \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/7DYa1xK4QzVZTejOnPBzQN) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [LYFESTYLE](https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc) | 2:54 |
-| 27 | [Corrlinks and JPay](https://open.spotify.com/track/189SCF7XFCfIQybq5CZwD9) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 3:02 |
+| 26 | [Corrlinks and JPay](https://open.spotify.com/track/189SCF7XFCfIQybq5CZwD9) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 3:02 |
+| 27 | [BË QUIET \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/7DYa1xK4QzVZTejOnPBzQN) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [LYFESTYLE](https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc) | 2:54 |
 | 28 | [hibachi \(feat\. Kodak Black & 21 Savage\)](https://open.spotify.com/track/7FCDmAel69bzxRkOxbh2dB) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 2:50 |
 | 29 | [If I'm Lyin', I'm Flyin'](https://open.spotify.com/track/7HdNB8nvJOBwHa8hIkzvxp) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 2:10 |
 | 30 | [Shake Back](https://open.spotify.com/track/7HbJiOw9TePjIcvvHCeWRc) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Institution](https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj) | 3:03 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 43 | [Day for Day](https://open.spotify.com/track/0rGipWrGwAnZsaVkyiJpap) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 2:48 |
 | 44 | [Cyber Truck](https://open.spotify.com/track/4DpqKZHmMLx1YN8ieULMp9) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Trill Bill](https://open.spotify.com/album/7t2ToFb8NXJsP5XKHGV5gO) | 2:34 |
 | 45 | [Walk](https://open.spotify.com/track/3wspfG772mi1c25JpnNOVP) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Walk/Spin](https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT) | 2:46 |
-| 46 | [Rain Snow](https://open.spotify.com/track/3HdS2u68EgyAxUokwbY2r7) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Rain Snow](https://open.spotify.com/album/4J8J59Y2vgHOCjj3ftrQ0t) | 3:11 |
+| 46 | [MoshPit \(feat\. Juice WRLD\)](https://open.spotify.com/track/4KX8vXbouybtUptEyYxtIk) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 2:44 |
 | 47 | [Patty Cake](https://open.spotify.com/track/0bXFIF7iL17TYLyx8JHziM) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 3:18 |
-| 48 | [MoshPit \(feat\. Juice WRLD\)](https://open.spotify.com/track/4KX8vXbouybtUptEyYxtIk) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 2:44 |
-| 49 | [Shit Show \(feat\. Veeze & Lil Yachty\)](https://open.spotify.com/track/7Hz5ctf4toOdrv5jjJ1zHM) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Gift For The Streets](https://open.spotify.com/album/2XRIFNw0ODKJ4GO3DwjOBE) | 2:45 |
+| 48 | [Shit Show \(feat\. Veeze & Lil Yachty\)](https://open.spotify.com/track/7Hz5ctf4toOdrv5jjJ1zHM) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Gift For The Streets](https://open.spotify.com/album/2XRIFNw0ODKJ4GO3DwjOBE) | 2:45 |
+| 49 | [Rain Snow](https://open.spotify.com/track/3HdS2u68EgyAxUokwbY2r7) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Rain Snow](https://open.spotify.com/album/4J8J59Y2vgHOCjj3ftrQ0t) | 3:11 |
 | 50 | [Hit Stick](https://open.spotify.com/track/0tBESQdomKNyQQQk32nfA4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Hit Stick](https://open.spotify.com/album/2Ke0SlOOJmQ8zvs7tOjEZN) | 3:13 |
 
-Snapshot ID: `Z9YUgAAAAAD1RnOOwHwQo4o4rGOA3Ifs`
+Snapshot ID: `Z9dmAAAAAACF/RM8nYEEFUwhLd9ymymt`

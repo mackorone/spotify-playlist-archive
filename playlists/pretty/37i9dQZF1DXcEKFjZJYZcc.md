@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 
 > Positive, uplifting piano to make you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,670 likes - 199 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,845 likes - 199 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,18 +24,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 | 14 | [Notions](https://open.spotify.com/track/118Gg76FPkdYt2uWzYejHh) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Notions](https://open.spotify.com/album/30kwvznWYzuaYvZedSFPkK) | 2:23 |
 | 15 | [Warm Embrace](https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Warm Embrace](https://open.spotify.com/album/5TY47fQyAFrMzWLcsl08UY) | 2:43 |
 | 16 | [Stav](https://open.spotify.com/track/1ltPSEQo0VjEF979y3B2I3) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Stav](https://open.spotify.com/album/6PHiSyeG1zzSUfDZYm8gKQ) | 2:48 |
-| 17 | [Vallem Amnis](https://open.spotify.com/track/6eBxKLQLiUFAyKTk1ne3gt) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Vallem Amnis](https://open.spotify.com/album/31OAlgXkFQC6cNqPgI4OYr) | 2:30 |
-| 18 | [Evenly Balanced](https://open.spotify.com/track/4m3u1eHjGKnA3GPgjBd7Cb) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [Evenly Balanced](https://open.spotify.com/album/6jMkqhISeUr6pPAZFjjKAM) | 2:04 |
-| 19 | [In Bloom](https://open.spotify.com/track/6QFWbbpOKdG4lXT0v7PYkc) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [In Bloom](https://open.spotify.com/album/72gnMEAchdc8soFSlIlpEh) | 2:52 |
-| 20 | [Herbariums](https://open.spotify.com/track/4NgQB5HgCTNVV9QZS5u1jR) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Herbariums](https://open.spotify.com/album/2GZSKSrzyA6y3CqKHeF1Qc) | 2:10 |
-| 21 | [Memories oh Memories](https://open.spotify.com/track/0kkCdwO0YUP8RWrGUGvRoL) | [Anton Vega](https://open.spotify.com/artist/7H15xwuYNLQKF74GgsYfw7) | [Memories oh Memories](https://open.spotify.com/album/4ETSS7UrgjY7mgwTAmsLfJ) | 2:35 |
+| 17 | [Vespera](https://open.spotify.com/track/3kRMgnaBoU2JeLVN3TeGIJ) | [Freya Bagger](https://open.spotify.com/artist/5eXjvPNzzT9oZcbK0zuSj7) | [Vespera](https://open.spotify.com/album/1pej4Wxd7Wo5FmWmiyeeFS) | 2:25 |
+| 18 | [Head Above The Clouds](https://open.spotify.com/track/79UbZ8oiJFtsl3fRjCsChx) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Head Above The Clouds](https://open.spotify.com/album/08h7ZE3uPWXalzuaJXP6sL) | 2:39 |
+| 19 | [Vallem Amnis](https://open.spotify.com/track/6eBxKLQLiUFAyKTk1ne3gt) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Vallem Amnis](https://open.spotify.com/album/31OAlgXkFQC6cNqPgI4OYr) | 2:30 |
+| 20 | [Evenly Balanced](https://open.spotify.com/track/4m3u1eHjGKnA3GPgjBd7Cb) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [Evenly Balanced](https://open.spotify.com/album/6jMkqhISeUr6pPAZFjjKAM) | 2:04 |
+| 21 | [Herbariums](https://open.spotify.com/track/4NgQB5HgCTNVV9QZS5u1jR) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Herbariums](https://open.spotify.com/album/2GZSKSrzyA6y3CqKHeF1Qc) | 2:10 |
 | 22 | [Naked](https://open.spotify.com/track/45d2JrwB423sR5mC9eI7BM) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Naked](https://open.spotify.com/album/3NQO6Taj5fCknYeSs3aNJc) | 2:55 |
-| 23 | [Mornings](https://open.spotify.com/track/5daGd5PsrHGyfp1oK4hFsF) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Mornings](https://open.spotify.com/album/71U2C4uF4c9CdvtwbLev7o) | 2:36 |
-| 24 | [Vespera](https://open.spotify.com/track/3kRMgnaBoU2JeLVN3TeGIJ) | [Freya Bagger](https://open.spotify.com/artist/5eXjvPNzzT9oZcbK0zuSj7) | [Vespera](https://open.spotify.com/album/1pej4Wxd7Wo5FmWmiyeeFS) | 2:25 |
+| 23 | [In Bloom](https://open.spotify.com/track/6QFWbbpOKdG4lXT0v7PYkc) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [In Bloom](https://open.spotify.com/album/72gnMEAchdc8soFSlIlpEh) | 2:52 |
+| 24 | [Mornings](https://open.spotify.com/track/5daGd5PsrHGyfp1oK4hFsF) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Mornings](https://open.spotify.com/album/71U2C4uF4c9CdvtwbLev7o) | 2:36 |
 | 25 | [Journey](https://open.spotify.com/track/1quhoqxC3qTryCIJUnDcRA) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Journey](https://open.spotify.com/album/1VnMbZezkNaowQQHJ7HP3u) | 2:23 |
 | 26 | [Serenity’s Whisper](https://open.spotify.com/track/6SHsPZFABvN3fPk9rWxeET) | [Heiko Kolt](https://open.spotify.com/artist/3WusNlLQT1lSZdx9orJhBB) | [Serenity’s Whisper](https://open.spotify.com/album/3mSLvGhzMSD0se47t7HTSc) | 2:33 |
 | 27 | [If Life Was a Movie](https://open.spotify.com/track/1N1hyuRCNsnCju2cQKVHvt) | [John Sachs](https://open.spotify.com/artist/36zpvuRMJBhxITxE9MP4Dn) | [If Life Was a Movie](https://open.spotify.com/album/3qTbSVue1rwLVNL2tqyuby) | 1:45 |
-| 28 | [Head Above The Clouds](https://open.spotify.com/track/79UbZ8oiJFtsl3fRjCsChx) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Head Above The Clouds](https://open.spotify.com/album/08h7ZE3uPWXalzuaJXP6sL) | 2:39 |
+| 28 | [Memories oh Memories](https://open.spotify.com/track/0kkCdwO0YUP8RWrGUGvRoL) | [Anton Vega](https://open.spotify.com/artist/7H15xwuYNLQKF74GgsYfw7) | [Memories oh Memories](https://open.spotify.com/album/4ETSS7UrgjY7mgwTAmsLfJ) | 2:35 |
 | 29 | [Beyond the Moon](https://open.spotify.com/track/1JREewfvHs3rhxGrjRsOpk) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Beyond the Moon](https://open.spotify.com/album/6WUXMFDNS0eOw8I8uBygaM) | 2:19 |
 | 30 | [I Dare Not Dream: Fantasia on a Theme](https://open.spotify.com/track/7yw6puga275rUZa82ItJy8) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [I Dare Not Dream: Fantasia on a Theme](https://open.spotify.com/album/6Afe584fHx7s4nT3gBHRAn) | 2:54 |
 | 31 | [Healing a Wing](https://open.spotify.com/track/5zZPRScC5O9ygYRZJJitVJ) | [Dave Sherman](https://open.spotify.com/artist/7p9avjMf6a7ZqxS011oeuO) | [Healing a Wing](https://open.spotify.com/album/1wbXWuLylQrPKdpGauLt8C) | 2:20 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 | 198 | [Trei](https://open.spotify.com/track/5bHQg9Zu5BjBcwwtKWL8JK) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Trei](https://open.spotify.com/album/4lm7RojcsLs6xVCVmKuH5k) | 2:31 |
 | 199 | [Placid](https://open.spotify.com/track/1u3h3PCvrzTSCSPhCiQH3Q) | [Anoire](https://open.spotify.com/artist/3g7pYrMzsYgKrNPyMKNf7K) | [Placid](https://open.spotify.com/album/3W1xO9Ba7QCJ8vXCsaoE63) | 2:32 |
 
-Snapshot ID: `Z9OpxQAAAABuh4hyy/B0I+JMH3slK8Wr`
+Snapshot ID: `Z9lc8gAAAACJVB8isCO1qqr682Yxelrc`

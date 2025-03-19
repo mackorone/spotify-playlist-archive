@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 
 > This is J Boog\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,076 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,083 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 5 | [Fire Up Di Roses \(with The Green, Common Kings & Fiji\)](https://open.spotify.com/track/3Y9kBavkO9sD8K7QZki0se) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Fire Up Di Roses \(with The Green, Common Kings & Fiji\)](https://open.spotify.com/album/5mo5nalgXTB1DSfAtSK93e) | 3:56 |
 | 6 | [Let's Do It Again](https://open.spotify.com/track/4TBtGrMgUYH7D5Tf5HLvyz) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 3:12 |
 | 7 | [Ganja Farmer](https://open.spotify.com/track/1VPnps7LuU2ryN2fQrmsfA) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Hear Me Roar](https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo) | 3:51 |
-| 8 | [Leaving With Me](https://open.spotify.com/track/0jREd56kAWsJUGsQbBsWPl) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Live Up](https://open.spotify.com/album/1ZvSUAW5du5OC4D3aMB7VZ) | 4:01 |
-| 9 | [Press Rewind](https://open.spotify.com/track/1Js26hznhkLlFeRoxCtyNq) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 4:34 |
+| 8 | [Press Rewind](https://open.spotify.com/track/1Js26hznhkLlFeRoxCtyNq) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 4:34 |
+| 9 | [Leaving With Me](https://open.spotify.com/track/0jREd56kAWsJUGsQbBsWPl) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Live Up](https://open.spotify.com/album/1ZvSUAW5du5OC4D3aMB7VZ) | 4:01 |
 | 10 | [No Other Love](https://open.spotify.com/track/2fb8kXjXaT2hkK86VrmThw) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Monterey or Bust, Vol\. 2](https://open.spotify.com/album/2zLwFPoUPCopbjHzSjyEYM) | 3:13 |
 | 11 | [Lifetime Lover](https://open.spotify.com/track/3mm6WxGLfv4RfnTgTP0mYI) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Hear Me Roar](https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo) | 3:50 |
 | 12 | [Let Me Love You](https://open.spotify.com/track/5wN7FwXj5SujmvTPkWwdbn) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Wash House Ting](https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 49 | [This Is Love](https://open.spotify.com/track/6kT2DiTbDomd5UJtBJb5Jv) | [Monsta Ganjah](https://open.spotify.com/artist/1S66TJhuIfLtz0yEfpv1BL), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Pacific Coast Highway](https://open.spotify.com/album/2tVLaJCNrTTEWRqGDtxDiH) | 4:03 |
 | 50 | [Pina Colada](https://open.spotify.com/track/2xdRUkk8QpCeByPM9e7GVD) | [Kiwini Vaitai](https://open.spotify.com/artist/5bE3HtCcvJ4gLtw8aMQpyi), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Independently Bizarre](https://open.spotify.com/album/1LIfFWLTOutqBKQI1zEISj) | 4:10 |
 
-Snapshot ID: `Z9YUgAAAAADwRsOeH5tl60J8vxkC11iO`
+Snapshot ID: `Z9dmAAAAAABtW3lQ/4FmsntmPPgXJgyK`

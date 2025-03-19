@@ -4,7 +4,7 @@
 
 > Music from "Solo Leveling"! /アニメ「俺だけレベルアップな件」の世界を彩る楽曲をプレイリストで。©Solo Leveling Animation Partners
 
-27 songs - 2 hr 3 min
+28 songs - 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [aikari](https://open.spotify.com/track/2jdYJwjJDycr1dguBL324F) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [俺だけレベルアップな件 Original Soundtrack](https://open.spotify.com/album/1XtpQSucGXigcvW8qmfZHn) | 4:26 | 2025-01-04 |  |
 | [Am→Km](https://open.spotify.com/track/4lRI6xco5hQaNDECcCp8Yt) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [俺だけレベルアップな件 Original Soundtrack](https://open.spotify.com/album/1XtpQSucGXigcvW8qmfZHn) | 3:54 | 2025-01-04 |  |
 | [DARK ARIA](https://open.spotify.com/track/3SR85l1lZDNPr68rkAlYOy) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [俺だけレベルアップな件 Original Soundtrack](https://open.spotify.com/album/1XtpQSucGXigcvW8qmfZHn) | 2:21 | 2025-01-04 |  |
+| [DARK ARIA \-ARISE\-](https://open.spotify.com/track/0BSGwoTRRZ0q58WB8RXLO3) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [XAI](https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [DARK ARIA \-ARISE\-](https://open.spotify.com/album/2JnWgaONEiGWfT2jkOpoEH) | 2:20 | 2025-03-18 |  |
 | [DunGeoN](https://open.spotify.com/track/3h5Hxi8qKMNHxwniRljrcB) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [俺だけレベルアップな件 Original Soundtrack](https://open.spotify.com/album/1XtpQSucGXigcvW8qmfZHn) | 4:29 | 2025-01-04 |  |
 | [everydayLV.0](https://open.spotify.com/track/3qRAtMMx0jWuttdQchzADF) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [俺だけレベルアップな件 Original Soundtrack](https://open.spotify.com/album/1XtpQSucGXigcvW8qmfZHn) | 5:23 | 2025-01-04 |  |
 | [Hunter→Monster](https://open.spotify.com/track/48sQeZIatG6jC0kD7zgzHs) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [俺だけレベルアップな件 Original Soundtrack](https://open.spotify.com/album/1XtpQSucGXigcvW8qmfZHn) | 4:21 | 2025-01-04 |  |

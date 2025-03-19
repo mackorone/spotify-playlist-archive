@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,595 likes - 348 songs - 19 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,597 likes - 348 songs - 19 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,8 +181,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 171 | [Monster](https://open.spotify.com/track/0HibscTifrgtT2zgqdKjC2) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Infinite Things](https://open.spotify.com/album/4ynl3QNO1lnfJWqWDJmb1A) | 3:11 |
 | 172 | [Make It Hard To Love You](https://open.spotify.com/track/0cJ19SMVX83SJnNfIjmX8c) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 3:19 |
 | 173 | [On My Mind \(feat\. Leo Kalyan\)](https://open.spotify.com/track/7o5i46NjAqBbfgXCJtvHeb) | [Frost](https://open.spotify.com/artist/4cr1vZsdjcY434Aqc3fDBt), [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [On My Mind \(feat\. Leo Kalyan\)](https://open.spotify.com/album/61qGaLD8KuczuHqEszC12M) | 5:50 |
-| 174 | [Unpredictable](https://open.spotify.com/track/0Hz3UFZz5QFnxl2UsEhiHB) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Unpredictable](https://open.spotify.com/album/5Yc2TXEU0CpftnNuKR2A9R) | 3:49 |
-| 175 | [Sad Girl Music \(feat\. BANKS\)](https://open.spotify.com/track/6Zx9jLPOmRwZSxf7zdwoth) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Sad Girl Music \(feat\. BANKS\)](https://open.spotify.com/album/0WkKqicUopy6vqSqm4LJLj) | 3:23 |
+| 174 | [Sad Girl Music \(feat\. BANKS\)](https://open.spotify.com/track/6Zx9jLPOmRwZSxf7zdwoth) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Sad Girl Music \(feat\. BANKS\)](https://open.spotify.com/album/0WkKqicUopy6vqSqm4LJLj) | 3:23 |
+| 175 | [Unpredictable](https://open.spotify.com/track/0Hz3UFZz5QFnxl2UsEhiHB) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Unpredictable](https://open.spotify.com/album/5Yc2TXEU0CpftnNuKR2A9R) | 3:49 |
 | 176 | [Rude Love](https://open.spotify.com/track/4p2x6JTf4Zxg4VTjOmI07r) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Rude Love](https://open.spotify.com/album/0okWcXKuFdofPUPHRipBfd) | 3:11 |
 | 177 | [Sing That Song \(feat\. Celeste\) \- Radio Edit](https://open.spotify.com/track/3q5AATAYobIW7Nz24EDk1T) | [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Sing That Song \(feat\. Celeste\)](https://open.spotify.com/album/55C5efBYETSqazd7tJPLv3) | 2:59 |
 | 178 | [Glory Days \(feat\. Hayley Kiyoko\) \- Party Pupils Remix](https://open.spotify.com/track/3CZqTaiEQdN61xQP58BNRO) | [Sweater Beats](https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt) | [Glory Days \(feat\. Hayley Kiyoko\) \[Party Pupils Remix\]](https://open.spotify.com/album/3JH2u1LgVvwsCppzohPDBu) | 2:48 |
@@ -357,4 +357,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 347 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 348 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `AbsU6AAAAAAKoll7DQ9z19MBHvmFOaE6`
+Snapshot ID: `AbsafgAAAADmjbFKaBKJrA7EfOMx24dL`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtZ8vUCzche.md) - [plain]
 
 > An eclectic collection of brilliantly produced and recorded tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,375,841 likes - 200 songs - 16 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,376,186 likes - 200 songs - 16 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

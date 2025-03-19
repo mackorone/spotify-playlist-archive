@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-850 songs - 1 day 12 hr 41 min
+852 songs - 1 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Barcelona Sunrise](https://open.spotify.com/track/4MGhkZ6FM6jvW4REJvJaVN) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Barcelona Sunrise](https://open.spotify.com/album/278KHG4sDOO9Bv2ACj0YsM) | 2:45 | 2024-03-08 |  |
 | [Beacon Hill](https://open.spotify.com/track/4zGJ5Kmf6LTGRdqypW8kqi) | [Frederic Dupont](https://open.spotify.com/artist/1kG7NP29tzvsYI6dEmOZFF) | [Lonely Road](https://open.spotify.com/album/1LJWSx15vryP5OKOrSLEa8) | 3:12 | 2021-12-08 | 2022-05-11 |
 | [Beautiful symbol](https://open.spotify.com/track/0Sc485nvujwCllSECRF2sT) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Beautiful symbol](https://open.spotify.com/album/0Kd5h9Eqr1B0RclDkHK8UJ) | 2:19 | 2023-03-24 | 2024-09-26 |
+| [Beautiful Österlen](https://open.spotify.com/track/31cyfFC7eSZunaGwYcJlEb) | [Bill Soeder](https://open.spotify.com/artist/2QZ8GuCD39JBAgRSlZHhhn) | [Beautiful Österlen](https://open.spotify.com/album/44Y4YhLSDk4mjDOc9Rb9Ir) | 1:56 | 2025-03-18 |  |
 | [Beber](https://open.spotify.com/track/6zdOx3LZzFC2N8sktS9Q9d) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [Beber](https://open.spotify.com/album/3cY2rn8DBLUH2JCI4w15km) | 4:13 | 2021-12-08 | 2022-07-08 |
 | [Before The Tide](https://open.spotify.com/track/2EA0USkLuQoDCZhOl73g25) | [Solomon Davis](https://open.spotify.com/artist/1UsbAYI6GPRqkeH7BEWkBl) | [Before The Tide](https://open.spotify.com/album/7bHzqhTmGGfDNvYHEFQQGi) | 2:37 | 2022-10-28 | 2024-04-20 |
 | [Before We Go](https://open.spotify.com/track/1I6l7jb9XihT5gUtXx9xA5) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 2:49 | 2024-02-02 |  |
@@ -744,6 +745,7 @@
 | [The Bird's Nest](https://open.spotify.com/track/1tY1E5TeQj4kcZVQQZLUqx) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [The Bird's Nest](https://open.spotify.com/album/1rFbbm5Ms87iwZR8gVgkUw) | 2:48 | 2022-07-01 | 2022-09-23 |
 | [The Bloomer Stars](https://open.spotify.com/track/4d4w8iA84Zvsf0TtyrDqpZ) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [The Bloomer Stars](https://open.spotify.com/album/6zdqiQXuoGXKt5FlJDowmq) | 2:39 | 2023-12-15 |  |
 | [The Distant Echo](https://open.spotify.com/track/7dRtgpbpGUqOOQir25wm02) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [The Distant Echo](https://open.spotify.com/album/5xdr7fV5vsaLMgi8PArvGP) | 1:42 | 2022-11-18 | 2023-06-03 |
+| [The Dreamer](https://open.spotify.com/track/4JeCz2VmJDfpdw5nJUg7kV) | [J\. Kahnberg](https://open.spotify.com/artist/2aLfgyCUwAWVDqwmtjyJxs) | [The Dreamer](https://open.spotify.com/album/1MWZ3bhElou5DzdnnjnKVs) | 2:21 | 2025-03-18 |  |
 | [The Flower](https://open.spotify.com/track/1DvaEFXZrWjBL7mLe1EEDo) | [Ashton Foster](https://open.spotify.com/artist/6lleSq8jhlTKsIH0GeGSM4) | [The Flower](https://open.spotify.com/album/7JOxzs00yBfKsr2ORbtbFJ) | 2:36 | 2024-10-01 |  |
 | [The Game Changer](https://open.spotify.com/track/35CHmzwJtxFaX2jrTwxvSS) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [The Game Changer](https://open.spotify.com/album/1aRdcDtkN2qlomNDagQ85C) | 2:26 | 2024-10-23 |  |
 | [The Highland](https://open.spotify.com/track/34fmLyZjHRr1iQQacMd6hn) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [At The Break Of Dawn](https://open.spotify.com/album/54yCLINTA6eCrtuBbIze8Q) | 3:00 | 2021-12-08 | 2022-09-09 |

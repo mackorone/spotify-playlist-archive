@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-276 songs - 15 hr 46 min
+277 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [ファブリック・フラワー](https://open.spotify.com/track/3EzCdvLrgxYJkLXrwoPpml) | [Wolpis Carter](https://open.spotify.com/artist/5gBtcJIa6ZLJB1HUwfik4J) | [ファブリック・フラワー](https://open.spotify.com/album/3zVCnrLb0V85Xo5i7ZSgcN) | 2:40 | 2024-07-08 |  |
 | [フラッシュバッカー](https://open.spotify.com/track/2qdPWFrknWyLXYIPpbtAgD) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:35 | 2023-05-06 |  |
 | [フールフールフール](https://open.spotify.com/track/7dObELU1sPaGTfbQWZILcR) | [おくのほそみち](https://open.spotify.com/artist/6JGvjK1tVqPt9KrvNuUQLl), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [フールフールフール](https://open.spotify.com/album/3ZxZh1qFViq0igteZ5y7Cb) | 3:13 | 2024-05-20 |  |
+| [ヘイヴン](https://open.spotify.com/track/6aTSQHD767wxox2zqpUWj1) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [ヘイヴン](https://open.spotify.com/album/7tnjWKvtu1FFvWxjgXDYTW) | 3:23 | 2025-03-18 |  |
 | [ベビ・デビ](https://open.spotify.com/track/1tkjaxBJW8qAkBXPfxRrAy) | [CULUA](https://open.spotify.com/artist/3sQqFA3jHUjGGUoUvwX7B2) | [ベビ・デビ](https://open.spotify.com/album/0ByoLvApyMJSHqY0echmtF) | 2:56 | 2025-01-13 |  |
 | [マトリョシカ \- ORIGINAL](https://open.spotify.com/track/74A5fPLR86U9XWYostkXwS) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 3:18 | 2024-09-08 |  |
 | [メンヘラじゃないもん!](https://open.spotify.com/track/24E0iUwAK5CI2uUxucydxe) | [勇魚](https://open.spotify.com/artist/515c1YJxPvInDVwQbFvPvf) | [メンヘラじゃないもん!](https://open.spotify.com/album/1YO5k5RbPMiXCOp8YQG0vk) | 3:16 | 2024-08-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 
 > Aktuell musik med etablerade och intressanta artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,997 likes - 89 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,995 likes - 89 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

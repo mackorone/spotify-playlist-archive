@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125451,
+  "num_followers": 125454,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATzYKnZNwRvCkdaE0KAWnrJ8DwnlWM",
+  "snapshot_id": "AAATz/qY75oLv8lduVmXG6CvEZpL9Zki",
   "tracks": [
+    {
+      "added_at": "2025-03-18 15:00:38",
+      "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/56Z8kjqUaZ5qfq7sW9h9CJ"
+      },
+      "artists": [
+        {
+          "name": "rshand",
+          "url": "https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16"
+        },
+        {
+          "name": "Lewyn",
+          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/6m5nyZ7HsnNJ5C1XvkY6Ga"
+    },
     {
       "added_at": "2025-03-17 15:12:03",
       "album": {
@@ -1167,86 +1187,6 @@
       "duration_ms": 167213,
       "name": "Therapy - VIP",
       "url": "https://open.spotify.com/track/4DJoqSLh5xeRGWd3iFkG7H"
-    },
-    {
-      "added_at": "2024-12-10 17:15:54",
-      "album": {
-        "name": "Silk Selections 02",
-        "url": "https://open.spotify.com/album/478IBtvh3n0y5At5wpoTRY"
-      },
-      "artists": [
-        {
-          "name": "zensei \u30bc\u30f3\u30bb\u30fc",
-          "url": "https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63"
-        }
-      ],
-      "duration_ms": 164650,
-      "name": "games",
-      "url": "https://open.spotify.com/track/6OhpQ4deBbmA4J6gUGw92o"
-    },
-    {
-      "added_at": "2024-12-09 17:01:17",
-      "album": {
-        "name": "Wide Open",
-        "url": "https://open.spotify.com/album/27xkRKbfs3scIzNeO3lgRQ"
-      },
-      "artists": [
-        {
-          "name": "Topi",
-          "url": "https://open.spotify.com/artist/6WP0h3qR0awvIWPMvE72F8"
-        }
-      ],
-      "duration_ms": 184918,
-      "name": "Wide Open",
-      "url": "https://open.spotify.com/track/0ICvgo8qnBYhVUqGAycdqG"
-    },
-    {
-      "added_at": "2024-12-06 17:26:22",
-      "album": {
-        "name": "Breathe Underwater",
-        "url": "https://open.spotify.com/album/3w08iS8VSt0YarhcDW0lNq"
-      },
-      "artists": [
-        {
-          "name": "Psy Trance Mafia",
-          "url": "https://open.spotify.com/artist/6AJiVMljdDi2Z1GF43m60q"
-        },
-        {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
-        },
-        {
-          "name": "Blastoyz",
-          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
-        }
-      ],
-      "duration_ms": 393931,
-      "name": "BOOMBA",
-      "url": "https://open.spotify.com/track/5LHRP4KmkSMCqrGbLUGaTo"
-    },
-    {
-      "added_at": "2024-12-05 17:11:55",
-      "album": {
-        "name": "Coming Back",
-        "url": "https://open.spotify.com/album/2So8OhcHSzn4jwr7gBtL7W"
-      },
-      "artists": [
-        {
-          "name": "WRLD",
-          "url": "https://open.spotify.com/artist/4VqBNQRr0nDN0trNUOn0co"
-        },
-        {
-          "name": "Solomon France",
-          "url": "https://open.spotify.com/artist/2NGEzvIbogjqVnEEnksrXp"
-        },
-        {
-          "name": "Chris Quinton",
-          "url": "https://open.spotify.com/artist/45qV493J7MwbVjUOtpWrU4"
-        }
-      ],
-      "duration_ms": 175813,
-      "name": "Coming Back",
-      "url": "https://open.spotify.com/track/0KyzYW34VTdeIxT01HGz6m"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

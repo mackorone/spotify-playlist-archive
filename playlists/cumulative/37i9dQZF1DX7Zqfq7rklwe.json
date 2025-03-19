@@ -1297,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "Animalize",
+        "url": "https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201400,
+      "name": "Heaven's On Fire",
+      "url": "https://open.spotify.com/track/1brpdmqkx3kSxyqzqXfW7J"
+    },
+    {
+      "album": {
         "name": "Heavy Is the Crown",
         "url": "https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq"
       },

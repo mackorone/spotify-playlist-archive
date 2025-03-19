@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAAAuA42P+xl5EMDxSvM5Fcfk",
+  "snapshot_id": "Z9dmAAAAAADIZzgVjc7xbekAfOk3SeNb",
   "tracks": [
     {
       "added_at": null,
@@ -371,30 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liberdade",
-        "url": "https://open.spotify.com/album/0KzNvhi6othcvW3HyYdj2W"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ferr",
-          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 223146,
-      "name": "Rio Nilo",
-      "url": "https://open.spotify.com/track/4HFDkgSNKq7XFuq3pDi9Zk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Azz Veizz (Das Minas)",
         "url": "https://open.spotify.com/album/4xcSH0hD8XqnSecEJVAbPv"
       },
@@ -435,6 +411,30 @@
       "duration_ms": 417831,
       "name": "Azz Veizz (Das Minas)",
       "url": "https://open.spotify.com/track/2SLR4vTHHs0zyR6B1UUqk7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liberdade",
+        "url": "https://open.spotify.com/album/0KzNvhi6othcvW3HyYdj2W"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ferr",
+          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 223146,
+      "name": "Rio Nilo",
+      "url": "https://open.spotify.com/track/4HFDkgSNKq7XFuq3pDi9Zk"
     },
     {
       "added_at": null,
@@ -606,11 +606,15 @@
         {
           "name": "Mayra Maldjian",
           "url": "https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk"
+        },
+        {
+          "name": "Djamila Ribeiro",
+          "url": "https://open.spotify.com/artist/5tQuAu98DIum7c9AgtX1BF"
         }
       ],
-      "duration_ms": 458496,
-      "name": "Origens",
-      "url": "https://open.spotify.com/track/4m761r02qZI0mIZiTfuz9U"
+      "duration_ms": 519168,
+      "name": "Manifesto / Pule, Garota",
+      "url": "https://open.spotify.com/track/1VIBGa37qbipRVncehwjf7"
     },
     {
       "added_at": null,
@@ -726,15 +730,11 @@
         {
           "name": "Mayra Maldjian",
           "url": "https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk"
-        },
-        {
-          "name": "Djamila Ribeiro",
-          "url": "https://open.spotify.com/artist/5tQuAu98DIum7c9AgtX1BF"
         }
       ],
-      "duration_ms": 519168,
-      "name": "Manifesto / Pule, Garota",
-      "url": "https://open.spotify.com/track/1VIBGa37qbipRVncehwjf7"
+      "duration_ms": 458496,
+      "name": "Origens",
+      "url": "https://open.spotify.com/track/4m761r02qZI0mIZiTfuz9U"
     },
     {
       "added_at": null,
@@ -755,6 +755,30 @@
       "duration_ms": 228165,
       "name": "Minha Parte",
       "url": "https://open.spotify.com/track/16YONjMPRBd8tVd3QnhxTl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Na Atividade (feat. IZA)",
+        "url": "https://open.spotify.com/album/4h1LY8YXe9xLXZl3wmU4gR"
+      },
+      "artists": [
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Rafael Porrada",
+          "url": "https://open.spotify.com/artist/2vo894WKHL8iUZkm0Ory1z"
+        }
+      ],
+      "duration_ms": 140444,
+      "name": "Na Atividade (feat. IZA)",
+      "url": "https://open.spotify.com/track/5QMXwNwtiPrHUBngQ1u3q8"
     },
     {
       "added_at": null,
@@ -783,30 +807,6 @@
       "duration_ms": 258656,
       "name": "Coroa de Flores",
       "url": "https://open.spotify.com/track/3p9uy80dCV8Mvwqxk4lnSQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Na Atividade (feat. IZA)",
-        "url": "https://open.spotify.com/album/4h1LY8YXe9xLXZl3wmU4gR"
-      },
-      "artists": [
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Rafael Porrada",
-          "url": "https://open.spotify.com/artist/2vo894WKHL8iUZkm0Ory1z"
-        }
-      ],
-      "duration_ms": 140444,
-      "name": "Na Atividade (feat. IZA)",
-      "url": "https://open.spotify.com/track/5QMXwNwtiPrHUBngQ1u3q8"
     },
     {
       "added_at": null,

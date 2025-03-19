@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-882 songs - 2 day 10 hr 11 min
+883 songs - 2 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -683,6 +683,7 @@
 | [スウィートインスピレーション \- feat\. 仮谷せいら](https://open.spotify.com/track/7sLGRcKrp4km7tCeQUgaWJ) | [アンニュイ・ホリデイ](https://open.spotify.com/artist/4bvnpQWFoBrNWySwtF8b3b), [Seira Kariya](https://open.spotify.com/artist/0iJ6VIGJffJ0vCLJHc3xqO) | [スウィートインスピレーション \(feat\. 仮谷せいら\)](https://open.spotify.com/album/0fpUZbFCy7eyvKQcycy8Uf) | 4:59 | 2022-11-15 | 2022-11-23 |
 | [スウィート・ソウル・レヴュー \(duet with Rainych, feat\. evening cinema\)](https://open.spotify.com/track/7zc7YIxrfTzXSXTe6oQKwH) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj), [Rainych](https://open.spotify.com/artist/3dTzeO0QCd86cXSgQ04Y3r), [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [スウィート・ソウル・レヴュー \(duet with Rainych, feat\. evening cinema\)](https://open.spotify.com/album/3spkvo7ENdH913rigIMaKI) | 4:34 | 2022-05-24 | 2022-07-27 |
 | [スターダスト](https://open.spotify.com/track/0OzrEXUFsOMbQtoIm39nj6) | [高岩 遼](https://open.spotify.com/artist/19z1uIJW41iCghBEJMyEqd) | [スターダスト](https://open.spotify.com/album/5T45dqv3Icqw1wLx3Ah9YV) | 3:30 | 2024-02-29 | 2024-07-31 |
+| [ステイ・イン・トゥナイト](https://open.spotify.com/track/2njRYGDdRfMVeKVftiVOda) | [向田民子](https://open.spotify.com/artist/3UcirJpXk6043mUqjDCcIS) | [ステイ・イン・トゥナイト](https://open.spotify.com/album/1XErvQZaRNYBveR1focbYb) | 4:02 | 2025-03-11 |  |
 | [ストレンジバード](https://open.spotify.com/track/33SKM1skEKGragmvSoy29f) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [Neo Oriented](https://open.spotify.com/album/1s7cSIMsphIt4ELBfOfEbC) | 3:32 | 2024-08-28 | 2024-10-11 |
 | [スパンコールの女](https://open.spotify.com/track/1LGqKRFZOEXobQcfk5d2Ue) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:30 | 2024-03-26 | 2024-04-19 |
 | [スパンコールの女](https://open.spotify.com/track/3HFqp1jOem1Htc6K7nFpTm) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [愛が一層メロウ \- Single](https://open.spotify.com/album/38Uv2EtCEfUpfWdHVvVtaV) | 3:38 | 2023-01-17 | 2024-03-23 |

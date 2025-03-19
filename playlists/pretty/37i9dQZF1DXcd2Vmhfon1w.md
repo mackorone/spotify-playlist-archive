@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Dano
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,097 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,146 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 4 | [Nueva Season](https://open.spotify.com/track/1NY6GxLcNIo5tmdBZ2uJSC) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) | [Nueva Season](https://open.spotify.com/album/1lCpCUkyehHRqVv3q7elLm) | 3:47 |
 | 5 | [Celine \(with Kidd Keo\)](https://open.spotify.com/track/5ER5Fr1Cv7N3chJhAapt66) | [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Celine \(with Kidd Keo\)](https://open.spotify.com/album/4Uew91PetBzYYnSg83m3HT) | 2:56 |
 | 6 | [HOY VUELVO A EMPEZAR](https://open.spotify.com/track/61cBItHUImAFtkNTuP3D5E) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [HOY VUELVO A EMPEZAR](https://open.spotify.com/album/0GdFzC6jXrfKFpiWEnW8bA) | 3:20 |
-| 7 | [Oro y Platino](https://open.spotify.com/track/04DrDbFScExRdbrgW36QTq) | [RADE](https://open.spotify.com/artist/2Be5gecyvPCbsLUp0o6k6h), [Ocer y Rade](https://open.spotify.com/artist/0fgRCULXpG4okFdlpat4e3) | [Oro y Platino](https://open.spotify.com/album/0tHWPt47bOy7ftQL5TnjTu) | 3:18 |
+| 7 | [Oro y Platino](https://open.spotify.com/track/04DrDbFScExRdbrgW36QTq) | [RADE](https://open.spotify.com/artist/2Be5gecyvPCbsLUp0o6k6h), [Ocer y Rade](https://open.spotify.com/artist/0fgRCULXpG4okFdlpat4e3), [VWAE](https://open.spotify.com/artist/1967KPsv00ZiL9lGd6w04s) | [Oro y Platino](https://open.spotify.com/album/0tHWPt47bOy7ftQL5TnjTu) | 3:18 |
 | 8 | [Veneno](https://open.spotify.com/track/5AQTFpm3oDPTenmw5Lmfoi) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Tour Liffee](https://open.spotify.com/album/0UYDVbpaX2fpXiGDsxPzsY) | 4:18 |
 | 9 | [Florian Wirtz](https://open.spotify.com/track/1mUL8L75S58pqmKwa8Fs07) | [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4), [Delson Aravena](https://open.spotify.com/artist/7z3WDAzeazNjQckDeenDAf) | [Florian Wirtz](https://open.spotify.com/album/6BV9kvOVmWcteGF4yDO27w) | 2:06 |
 | 10 | [Volver](https://open.spotify.com/track/6rwYZI7sVX2fIdTmc27flL) | [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Volver](https://open.spotify.com/album/2j6YJ0BZPF1FISLalfgPGv) | 3:30 |

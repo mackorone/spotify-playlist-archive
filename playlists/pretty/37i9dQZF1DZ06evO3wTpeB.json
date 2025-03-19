@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Aka Mind. The essential tracks, all in one playlist.",
-  "num_followers": 4430,
+  "num_followers": 4436,
   "original_name": "This Is Ali Aka Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAAB2oHGi/DcVTwhcW2SlwwY4",
+  "snapshot_id": "Z9dmAAAAAADiPPaVKw1DcKlSpL8n3+vo",
   "tracks": [
     {
       "added_at": null,
@@ -467,6 +467,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rap Conciencia",
+        "url": "https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "ALI Prod.",
+          "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
+        }
+      ],
+      "duration_ms": 226840,
+      "name": "Pasaporte Colombiano",
+      "url": "https://open.spotify.com/track/6pnaNZn44tnO71640OEEB8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De nuevo en esto",
         "url": "https://open.spotify.com/album/2JoL0e92xRfRw4nF3YVpqY"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 220690,
       "name": "De nuevo en esto",
       "url": "https://open.spotify.com/track/33iRwpRjqxK2vTSZ8zVx7m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rap Conciencia",
-        "url": "https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "ALI Prod.",
-          "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
-        }
-      ],
-      "duration_ms": 226840,
-      "name": "Pasaporte Colombiano",
-      "url": "https://open.spotify.com/track/6pnaNZn44tnO71640OEEB8"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mestizo",
-        "url": "https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw"
+        "name": "Una Oportunidad",
+        "url": "https://open.spotify.com/album/4siy0X5dG8LiSX2EbGYbV7"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         }
       ],
-      "duration_ms": 148607,
-      "name": "Mestizo",
-      "url": "https://open.spotify.com/track/2FEJmKj4F8DsR24MpDUqZY"
+      "duration_ms": 213333,
+      "name": "Una Oportunidad",
+      "url": "https://open.spotify.com/track/5bJvvd2M5byWc8t8DJ5dwr"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Oportunidad",
-        "url": "https://open.spotify.com/album/4siy0X5dG8LiSX2EbGYbV7"
+        "name": "Mestizo",
+        "url": "https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Una Oportunidad",
-      "url": "https://open.spotify.com/track/5bJvvd2M5byWc8t8DJ5dwr"
+      "duration_ms": 148607,
+      "name": "Mestizo",
+      "url": "https://open.spotify.com/track/2FEJmKj4F8DsR24MpDUqZY"
     },
     {
       "added_at": null,
@@ -743,30 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apartamento 23",
-        "url": "https://open.spotify.com/album/2X5xKYHX32aybrZiZznQet"
-      },
-      "artists": [
-        {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-        },
-        {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
-        },
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 229500,
-      "name": "Olvidarme de Ti",
-      "url": "https://open.spotify.com/track/3maV3zRST3lH8rT5RHVHzH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cypher Lado B",
         "url": "https://open.spotify.com/album/6EWQflQucPkygMGtzzeVce"
       },
@@ -827,6 +803,30 @@
       "duration_ms": 305015,
       "name": "Cypher Lado B",
       "url": "https://open.spotify.com/track/7cuwYmPLL3nHTYaLEKqfOD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apartamento 23",
+        "url": "https://open.spotify.com/album/2X5xKYHX32aybrZiZznQet"
+      },
+      "artists": [
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        },
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 229500,
+      "name": "Olvidarme de Ti",
+      "url": "https://open.spotify.com/track/3maV3zRST3lH8rT5RHVHzH"
     },
     {
       "added_at": null,

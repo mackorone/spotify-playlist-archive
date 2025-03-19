@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,687 likes - 180 songs - 13 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,818 likes - 180 songs - 13 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

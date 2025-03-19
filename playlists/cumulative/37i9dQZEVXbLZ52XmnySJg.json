@@ -918,7 +918,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 341054,
       "name": "Agar Tum Saath Ho (From \"Tamasha\")",
       "url": "https://open.spotify.com/track/2FCXQHugkoHE1K3tiDu8pu"
@@ -3132,7 +3132,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 214357,
       "name": "blue",
       "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
@@ -3472,7 +3472,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-18",
+      "date_removed": null,
       "duration_ms": 357067,
       "name": "Bulleya",
       "url": "https://open.spotify.com/track/3tgdOveYac7YMEAQD9sGLf"
@@ -8928,7 +8928,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-09",
+      "date_removed": null,
       "duration_ms": 325257,
       "name": "Ishq Sufiyana (Male)",
       "url": "https://open.spotify.com/track/5zcfnScTSFGCHGY1yeXWke"
@@ -9128,7 +9128,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 212108,
       "name": "Jaana Samjho Na (From \"Bhool Bhulaiyaa 3\")",
       "url": "https://open.spotify.com/track/1PALLCSlHwAI4upY3sMg8u"
@@ -17142,6 +17142,36 @@
       "duration_ms": 228000,
       "name": "Power",
       "url": "https://open.spotify.com/track/63fNl8H9wgFG5pUdsSXZyF"
+    },
+    {
+      "album": {
+        "name": "Premalo (From \"Court\")",
+        "url": "https://open.spotify.com/album/6615NEKrA7tCuV4mzHQDe8"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Sameera Bharadwaj",
+          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
+        },
+        {
+          "name": "Vijai Bulganin",
+          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
+        },
+        {
+          "name": "Purnachary",
+          "url": "https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331489,
+      "name": "Premalo (From \"Court\")",
+      "url": "https://open.spotify.com/track/09aG8t0WBF266vlVoZJktP"
     },
     {
       "album": {

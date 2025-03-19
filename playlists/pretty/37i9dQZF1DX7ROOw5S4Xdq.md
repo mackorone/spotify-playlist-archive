@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Sarah Beatriz, Bruna Karla
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,991 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,041 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 45 | [O Dia Que Será Pra Sempre \- Ao Vivo](https://open.spotify.com/track/2JU7Rqef9b4gE7SEACTL8v) | [Lu Quirino](https://open.spotify.com/artist/0Xd97yg7GBn14A591IQyzf) | [O Dia Que Será Pra Sempre \(Ao vivo\)](https://open.spotify.com/album/7rrl0XIXCMF2aefCbCa0Si) | 4:56 |
 | 46 | [O Céu é o Seu Lugar](https://open.spotify.com/track/68u0FYoBif2FbZPnDW0Vzr) | [GABY CARDOZO](https://open.spotify.com/artist/4oIWUklFPtxXHxXB8E5Vic) | [O Céu é o Seu Lugar](https://open.spotify.com/album/0MybHNAs9A2io5BC0EWZiX) | 4:54 |
 | 47 | [Eu Sou Canela de Fogo \(Ao Vivo\)](https://open.spotify.com/track/1oJd98gwFv0SA1fEflMksU) | [Família Cavalcanty](https://open.spotify.com/artist/68ClCwCtcofBZISAuAB5NU) | [Eu Sou Canela de Fogo \(Ao Vivo\)](https://open.spotify.com/album/5PiXofiOy2elTG9bX8e4u7) | 3:49 |
-| 48 | [A Tua Face em Mim](https://open.spotify.com/track/5fP0l7LjwDWJujDb4LjNAt) | [Wesley Moreira](https://open.spotify.com/artist/1s1zyCQg54pFADw4Wp9bXr), [Fran Caroline](https://open.spotify.com/artist/0cHlbiyFCFO3MYxmj4YsgN) | [A Tua Face em Mim](https://open.spotify.com/album/0S2KRlG96Sxb69gzGYmkWA) | 3:55 |
+| 48 | [A Tua Face em Mim](https://open.spotify.com/track/5fP0l7LjwDWJujDb4LjNAt) | [Wesley Moreira](https://open.spotify.com/artist/1s1zyCQg54pFADw4Wp9bXr), [Fran Caroline](https://open.spotify.com/artist/0cHlbiyFCFO3MYxmj4YsgN), [Hope Music](https://open.spotify.com/artist/3P2GQUiCksLiNMZv0xozwu) | [A Tua Face em Mim](https://open.spotify.com/album/0S2KRlG96Sxb69gzGYmkWA) | 3:55 |
 | 49 | [Abba](https://open.spotify.com/track/5mOddgnUBZpcrBAkWHAT0a) | [Bridge Music](https://open.spotify.com/artist/2lJWeO8o4Khn1VYEATXCGu), [Alda Cristina](https://open.spotify.com/artist/0bZdkwbru9Rl3FhR88Fqjn) | [Abba](https://open.spotify.com/album/7o9KH1OFVlNSln5CAY4ZSD) | 3:57 |
 | 50 | [Coração de Jó \(Ao Vivo\)](https://open.spotify.com/track/3ewn7fHg9rtk5uIbzyAcjk) | [Lara Oli](https://open.spotify.com/artist/7BvQvWaLPzA4oKQ4NHz1Op) | [Coração de Jó \(Ao Vivo\)](https://open.spotify.com/album/0RnDGmIoTF1VFEZ6Q1xTxE) | 4:03 |
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Haryanvi Hip-Hop! Cover: KD DESIROCK",
+  "description": "Best of Haryanvi Hip-Hop! Cover: Dhanda Nyoliwala",
   "name": "RAP 91 Haryanvi",
   "tracks": [
     {
@@ -236,7 +236,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 221990,
       "name": "3 Fire",
       "url": "https://open.spotify.com/track/2krBl5Y2rHW8QZZMk1cQTa"
@@ -2778,7 +2778,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 186136,
       "name": "Flex",
       "url": "https://open.spotify.com/track/1uLxPLyCN67HcQwaPrabTj"
@@ -3816,6 +3816,24 @@
       "duration_ms": 182822,
       "name": "Jaat Brat",
       "url": "https://open.spotify.com/track/7mYpS6ZxxD5hVXtnorjceQ"
+    },
+    {
+      "album": {
+        "name": "Jaat Devta",
+        "url": "https://open.spotify.com/album/6tArfBUUCjjt5vQEVk4cHv"
+      },
+      "artists": [
+        {
+          "name": "The VIJU",
+          "url": "https://open.spotify.com/artist/10ho8uAPRKlVcDDSHu1AZv"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150006,
+      "name": "Jaat Devta",
+      "url": "https://open.spotify.com/track/5uUJaoi31e48BSyqjRb2Zk"
     },
     {
       "album": {
@@ -5236,7 +5254,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 226874,
       "name": "Me & You",
       "url": "https://open.spotify.com/track/36aG9R2LXbBbBowd4Nehi4"
@@ -6821,6 +6839,28 @@
     },
     {
       "album": {
+        "name": "Whizz Kid",
+        "url": "https://open.spotify.com/album/1OMGake3qqeCjnfsuBnDB3"
+      },
+      "artists": [
+        {
+          "name": "Rawme Hooda",
+          "url": "https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE"
+        },
+        {
+          "name": "Kaymcee",
+          "url": "https://open.spotify.com/artist/7IGmGEKygpDUyHHB5LmDx2"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202408,
+      "name": "Sach",
+      "url": "https://open.spotify.com/track/1DVuvzFkyTbZ7FYV4CoaTm"
+    },
+    {
+      "album": {
         "name": "Saiyaan Ji",
         "url": "https://open.spotify.com/album/3dXkflPMFhUZ2XtHO5yMS5"
       },
@@ -7194,6 +7234,24 @@
       "duration_ms": 154553,
       "name": "Suit Ki Kadhayi",
       "url": "https://open.spotify.com/track/372TareXWYPDPaJWpr5BGH"
+    },
+    {
+      "album": {
+        "name": "Surrey BC",
+        "url": "https://open.spotify.com/album/4FZjdxEiFL0HWL4antngWO"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227826,
+      "name": "Surrey BC",
+      "url": "https://open.spotify.com/track/7uMZMs65u1FlVYdmvQKXMs"
     },
     {
       "album": {

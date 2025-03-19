@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 黒田卓也
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,050 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,055 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 9 | [Dinorah Dinorah](https://open.spotify.com/track/0dfoaHpuXceorV83nheGIr) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Dinorah Dinorah](https://open.spotify.com/album/096ytg0kaGva5C6WYReb7W) | 4:37 |
 | 10 | [Conflicting](https://open.spotify.com/track/7sjJb0GmthGYl8TXGzwh4n) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP) | [Conflicting](https://open.spotify.com/album/0LBqMg7aOOg2FYjjY4NmdN) | 2:55 |
 | 11 | [Bossa Nova](https://open.spotify.com/track/3raUJEvHo8Q62qEJtVPk74) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Bossa Nova](https://open.spotify.com/album/0GctVrad0vDtgAVybtRiWR) | 3:15 |
-| 12 | [Smell The Daises](https://open.spotify.com/track/2sTq0X4MDSkxCJlWRxZoY6) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Smell The Daises](https://open.spotify.com/album/6fPAIReQn5pSujZslHEwGk) | 4:10 |
+| 12 | [Smell The Daisies](https://open.spotify.com/track/2sTq0X4MDSkxCJlWRxZoY6) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Smell The Daisies](https://open.spotify.com/album/6fPAIReQn5pSujZslHEwGk) | 4:10 |
 | 13 | [Free Hit](https://open.spotify.com/track/64iMHv9Wb8xYRHa8yVTyJd) | [44th Move](https://open.spotify.com/artist/0RLaOKZ3L4fiKuOvgt0VYx), [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Richard Spaven](https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI) | [Free Hit](https://open.spotify.com/album/5bDvEIhhfCSV4fj4p74ELh) | 4:49 |
 | 14 | [Brainstorm](https://open.spotify.com/track/07qtSLcfDBeajxXXkfM5I9) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Brainstorm](https://open.spotify.com/album/3vBpkh0Y4G8g8ff8Z1GrDJ) | 3:15 |
 | 15 | [URAH](https://open.spotify.com/track/0Yb57OXbeD7SLeYlfWcTCr) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [URAH](https://open.spotify.com/album/2r1B1VZu7DXsismv94sH0h) | 3:43 |

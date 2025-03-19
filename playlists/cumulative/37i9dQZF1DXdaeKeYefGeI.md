@@ -2,7 +2,7 @@
 
 ### [Mooi Nederlands](https://open.spotify.com/playlist/37i9dQZF1DXdaeKeYefGeI)
 
-> Wat kan het Nederlands toch mooi zijn\. Cover: Maaike Ouboter & Eric Corton
+> Wat kan het Nederlands toch mooi zijn\. Cover: Leonie Meijer
 
 200 songs - 12 hr 16 min
 

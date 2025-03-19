@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p37CU.md) - [plain]
 
 > This is EARTHGANG\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,078 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,079 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p37CU.md) - [plain]
 | 34 | [Opium \(feat\. EARTHGANG\)](https://open.spotify.com/track/4jNs9cJBsFTiahZAe3iuwV) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Song Machine, Season One: Strange Timez \(Deluxe\)](https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz) | 6:50 |
 | 35 | [Menace](https://open.spotify.com/track/6P0qxnyxLL6D7Gmm8ZMlF2) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Antagonist](https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ) | 3:05 |
 | 36 | [Stuck \(feat\. Arin Ray\)](https://open.spotify.com/track/37lsV513gD04gFvKIPCw4N) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Mirrorland](https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB) | 4:30 |
-| 37 | [FLAVORS OF KARMA](https://open.spotify.com/track/1mnPd5i99TknL0OQD340yn) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [PERFECT FANTASY](https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND) | 4:34 |
+| 37 | [PUT IN WORK \(feat\. Tommy Newport\)](https://open.spotify.com/track/6f0WsFJtn4Ptcil4koEfQP) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [PERFECT FANTASY](https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND) | 3:45 |
 | 38 | [LIE TO ME](https://open.spotify.com/track/6Cd4O7wpDas5PQruBM58S4) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 4:07 |
 | 39 | [Oshun \(with EARTHGANG & 6LACK feat\. Jurdan Bryant\)](https://open.spotify.com/track/1ohxmwWvLNWIlt0kUo8kZF) | [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Jurdan Bryant](https://open.spotify.com/artist/1orGzEcUk9PolAOUmBZLR1) | [Spilligion](https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy) | 4:02 |
 | 40 | [Top Down](https://open.spotify.com/track/6o2YQhGPwCdYBPpisPFInv) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Mirrorland](https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p37CU.md) - [plain]
 | 49 | [Jupiter \(with Mereba & JID feat\. EARTHGANG, Jurdan Bryant, Hollywood JB & Benji.\)](https://open.spotify.com/track/0je2CwkO13cSNRJzastZKB) | [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Jurdan Bryant](https://open.spotify.com/artist/1orGzEcUk9PolAOUmBZLR1), [Hollywood JB](https://open.spotify.com/artist/7rQhG9iwQZilVSDCivPQO4), [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2) | [Spilligion](https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy) | 2:26 |
 | 50 | [Liquor Sto'](https://open.spotify.com/track/6fUHMhwKBSmetq2T1PvCKK) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Strays with Rabies](https://open.spotify.com/album/3bYMVNcOHLDv2z6yWEl3yb) | 4:56 |
 
-Snapshot ID: `Z9YUgAAAAADioJ8ynYt5tK0FLZMSx0tw`
+Snapshot ID: `Z9dmAAAAAADYzICcvRJYjQDwwqmLo3r8`

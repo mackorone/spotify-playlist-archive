@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > All Black like the cover of Essence\. Cover: <a href="spotify:artist:5RTLRtXjbXI2lSXc6jxlAz">Ravyn Lenae</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,069,430 likes - 125 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,069,398 likes - 125 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

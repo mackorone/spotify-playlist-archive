@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-885 songs - 1 day 20 hr 32 min
+886 songs - 1 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [All My Love](https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [All My Love](https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI) | 3:07 | 2025-01-23 | 2025-02-21 |
 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 | 2023-03-22 | 2023-05-05 |
 | [All The Stars \(with SZA\)](https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) | 3:52 | 2025-02-24 | 2025-02-26 |
+| [Alla Ska Dö](https://open.spotify.com/track/42JjxAcdxkqNOkx1HpPizt) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Alla Ska Dö](https://open.spotify.com/album/4FGa0t6nw3MaVpLGs0cIif) | 2:46 | 2025-03-18 |  |
 | [Alla vill \(feat\. estraden\)](https://open.spotify.com/track/2EFfc7Z7rMneOxLfezQKxI) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Alla vill \(feat\. estraden\)](https://open.spotify.com/album/3mzjCTMgep2TJKZCJfwgvI) | 2:53 | 2024-03-08 | 2024-06-14 |
 | [Alla våra minnen](https://open.spotify.com/track/7kV2ZRMkpozWRusXJ8Lr2q) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Alla våra minnen](https://open.spotify.com/album/7MqregKC8Neq9ab630ZeGI) | 3:10 | 2022-04-21 | 2022-08-26 |
 | [Alright \(feat\. KIDDO\)](https://open.spotify.com/track/1vUOJpWc091SBYULNvz9mp) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Alright \(feat\. KIDDO\)](https://open.spotify.com/album/0Nn6sMoZFBIUIsy8fpILrI) | 2:49 | 2021-12-16 | 2022-01-08 |

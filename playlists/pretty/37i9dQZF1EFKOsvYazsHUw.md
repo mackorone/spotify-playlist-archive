@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 63 | [Easy On Yourself](https://open.spotify.com/track/5LVmJesDOJD1ntudqD51Ms) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U) | 2:44 |
 | 64 | [No Strings](https://open.spotify.com/track/3tPvpGO4yTqpDuJIKnPRYv) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Excuse Me \(Deluxe\)](https://open.spotify.com/album/3CEWoLRhNHEtBcw1wmgWd8) | 3:00 |
 | 65 | [bodytalk](https://open.spotify.com/track/4rrqU96CxRTeKGt342pRsN) | [Lyon](https://open.spotify.com/artist/57gnEMExR8CJdZ7MYYbbrN) | [Falling Up](https://open.spotify.com/album/4bfPCG7peRJfmVAfQOvdHb) | 3:27 |
-| 66 | [falling up](https://open.spotify.com/track/7mZGZjiVK1buBSwRhOEnpN) | [Lyon](https://open.spotify.com/artist/57gnEMExR8CJdZ7MYYbbrN) | [Falling Up](https://open.spotify.com/album/4bfPCG7peRJfmVAfQOvdHb) | 3:57 |
-| 67 | [Hold On Till We Get There](https://open.spotify.com/track/2tWWiYOQ5bqMAeT6Wbbc0X) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:40 |
+| 66 | [Hold On Till We Get There](https://open.spotify.com/track/2tWWiYOQ5bqMAeT6Wbbc0X) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:40 |
+| 67 | [falling up](https://open.spotify.com/track/7mZGZjiVK1buBSwRhOEnpN) | [Lyon](https://open.spotify.com/artist/57gnEMExR8CJdZ7MYYbbrN) | [Falling Up](https://open.spotify.com/album/4bfPCG7peRJfmVAfQOvdHb) | 3:57 |
 | 68 | [13 Months of Sunshine](https://open.spotify.com/track/16ISIfafspiGHjPH7EZmJe) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:27 |
 | 69 | [Selfish](https://open.spotify.com/track/49AmjLr38cCCe8gqVGJ6YF) | [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw) | [The Spectrum](https://open.spotify.com/album/77iaciBoduT9eNQ94w4S7V) | 3:56 |
 | 70 | [Careless \(feat\. CHIIILD\)](https://open.spotify.com/track/3VB6d1KOFGhSOMqbwveW1k) | [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [The Spectrum](https://open.spotify.com/album/77iaciBoduT9eNQ94w4S7V) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 99 | [Daddy Issues](https://open.spotify.com/track/1BFk3zOw0TuMSDSE5b8X8e) | [Josephina](https://open.spotify.com/artist/4WyMWzN7gNNKIt3ZfGNU9F) | [Daddy Issues](https://open.spotify.com/album/2DUMBKY3GldHNTDMQnUBtM) | 2:14 |
 | 100 | [Murder](https://open.spotify.com/track/7Ev7Bb8tPrQFR2MvQzrfM9) | [Thes](https://open.spotify.com/artist/7nnzlSxfrZkifdVvMhKyGp) | [Young Giant](https://open.spotify.com/album/4j6RpYZk9y67ggu1gWO8QL) | 4:35 |
 
-Snapshot ID: `AbsU6AAAAAC9KZ3xE7/Px5xniwpvbCEl`
+Snapshot ID: `AbsadAAAAACOEPfmkP4WtQ0kNYP5maFa`

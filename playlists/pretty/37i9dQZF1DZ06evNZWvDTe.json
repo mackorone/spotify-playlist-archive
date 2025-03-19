@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 12286,
+  "num_followers": 12291,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAAAOYMySCXtztQjpy8BOLGEJ",
+  "snapshot_id": "Z9dmAAAAAAAyCvHWki99eyGMU+kiNqCd",
   "tracks": [
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rapperholic",
-        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "EL",
-          "url": "https://open.spotify.com/artist/4pU8XJNeU0LJhfZQOQcYoh"
-        }
-      ],
-      "duration_ms": 225625,
-      "name": "U Go Kill Me (feat. El)",
-      "url": "https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anointing",
         "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 216546,
       "name": "Anointing",
       "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rapperholic",
+        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "EL",
+          "url": "https://open.spotify.com/artist/4pU8XJNeU0LJhfZQOQcYoh"
+        }
+      ],
+      "duration_ms": 225625,
+      "name": "U Go Kill Me (feat. El)",
+      "url": "https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sarkology",
-        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 86661,
-      "name": "Sizeless (Skit)",
-      "url": "https://open.spotify.com/track/5t10bvJ3Zv3jKtU7YlwZSQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homicide",
         "url": "https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 183477,
       "name": "Homicide",
       "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 86661,
+      "name": "Sizeless (Skit)",
+      "url": "https://open.spotify.com/track/5t10bvJ3Zv3jKtU7YlwZSQ"
     },
     {
       "added_at": null,
@@ -911,22 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sarkology",
-        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "Illuminati",
-      "url": "https://open.spotify.com/track/1ZXEvJhugYz8uBqrm4yv2c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 94838,
       "name": "Intro",
       "url": "https://open.spotify.com/track/0rw5Wf8pmw9H7xYPsN6iIm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 166800,
+      "name": "Illuminati",
+      "url": "https://open.spotify.com/track/1ZXEvJhugYz8uBqrm4yv2c"
     },
     {
       "added_at": null,
@@ -979,8 +979,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sarkology",
-        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
       },
       "artists": [
         {
@@ -988,13 +988,13 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Burna Boy N Aka",
-          "url": "https://open.spotify.com/artist/4bYmtZBkPlKEP2sUV5ZQMM"
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
         }
       ],
-      "duration_ms": 258964,
-      "name": "Special Sumone (feat. Burna Boy n Aka)",
-      "url": "https://open.spotify.com/track/7iwOlLnaysT2Z92dx3PTio"
+      "duration_ms": 205578,
+      "name": "Mewu (feat. Akwaboah)",
+      "url": "https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI"
     }
   ],
   "unique_name": "This Is Sarkodie",

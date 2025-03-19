@@ -1125,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "At Night",
+        "url": "https://open.spotify.com/album/59Dy1DGXPMfcFmzWQUVsu8"
+      },
+      "artists": [
+        {
+          "name": "C.M.H",
+          "url": "https://open.spotify.com/artist/7eMrolcvKtdRpB6OrG3tIx"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174125,
+      "name": "At Night",
+      "url": "https://open.spotify.com/track/1QX2SYLb1nATOdaS2eer1U"
+    },
+    {
+      "album": {
         "name": "At Sundown",
         "url": "https://open.spotify.com/album/4a959CZK3XoUMEOASsiL8N"
       },
@@ -8378,6 +8396,24 @@
       "duration_ms": 164461,
       "name": "Morning Stroll",
       "url": "https://open.spotify.com/track/4RojRunkpA8Hmk4hJHCeZw"
+    },
+    {
+      "album": {
+        "name": "Morning Write",
+        "url": "https://open.spotify.com/album/3TECXzv0JenFb76sIXaCCY"
+      },
+      "artists": [
+        {
+          "name": "May Laude",
+          "url": "https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164663,
+      "name": "Morning Write",
+      "url": "https://open.spotify.com/track/3wQ4jhM4hH3a9SKqGStvkl"
     },
     {
       "album": {

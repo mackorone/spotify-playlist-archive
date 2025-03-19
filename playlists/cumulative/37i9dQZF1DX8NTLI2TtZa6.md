@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-557 songs - 23 hr 50 min
+558 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,6 +513,7 @@
 | [Time in its fury](https://open.spotify.com/track/0VtPANl5cMiIwhZj7Wb26v) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Time in its fury](https://open.spotify.com/album/4x4LYQ1bmp8yf9HE58WLeL) | 2:23 | 2024-10-15 |  |
 | [Timid Scripts](https://open.spotify.com/track/3zahvGDaE79KRUr447Jrzw) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Timid Scripts](https://open.spotify.com/album/0kmd10LA2U5C6jnXE8WcBn) | 2:24 | 2022-10-14 |  |
 | [Toivoa](https://open.spotify.com/track/3lbo5NWbt8k2xqncCsMB7q) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Toivoa](https://open.spotify.com/album/0hMgtsmdSuDVDsk3W5Q2ug) | 2:01 | 2022-12-22 | 2024-05-24 |
+| [Token](https://open.spotify.com/track/0hB3bysyufVO1pUCj1rYwS) | [Farsjön](https://open.spotify.com/artist/1JVGbsUCqcTgrQP6qc3LEe) | [Token](https://open.spotify.com/album/4uL1RDBqy4Ji6D8UaEUwlE) | 3:16 | 2025-03-18 |  |
 | [Tomorrow](https://open.spotify.com/track/1uoWQRwh5Oa6XP7Sbgo933) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Shooting star](https://open.spotify.com/album/6cHrmMSz6fxBy4SUShsxCK) | 2:45 | 2022-12-22 | 2025-01-30 |
 | [Traces](https://open.spotify.com/track/5F9n6BJytzN6kqEQR2wv05) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Traces](https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW) | 2:01 | 2021-12-07 | 2022-04-22 |
 | [Traces](https://open.spotify.com/track/0JdJYYA2fjAGplb5VLYL07) | [Leyland Moore](https://open.spotify.com/artist/6B68z24fHjW2BFiwzthkzO) | [Traces](https://open.spotify.com/album/4lzXcaZXKBzk0aaX6fFzlE) | 3:13 | 2021-12-07 | 2022-04-02 |

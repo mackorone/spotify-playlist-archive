@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 
 > This is Moneybagg Yo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,398 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,407 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 | 49 | [SPEAK](https://open.spotify.com/track/3kZTs4DX113J0YjNl6e6H1) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:19 |
 | 50 | [Type A N\*\*\*a](https://open.spotify.com/track/2E5JwQRxlWVKs7OjRbMyFQ) | [Nino Breeze](https://open.spotify.com/artist/5hdJowXyDT6CIEAXXToqUt), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Type A N\*\*\*a](https://open.spotify.com/album/7ixz0AWnSc5jyadYwmebkU) | 4:06 |
 
-Snapshot ID: `Z9YUgAAAAABMCPcnLA1ex6O6TxmhT9jG`
+Snapshot ID: `Z9dmAAAAAAChXwIg4leDDi4ZUZarav22`

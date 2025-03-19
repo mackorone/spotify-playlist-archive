@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 18 Mar 23:02 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 19 Mar 23:03 UTC.
 
-4,374 songs - 10 day 2 hr 57 min
+4,376 songs - 10 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -903,7 +903,7 @@
 | [Damn Shame](https://open.spotify.com/track/5XP4NbKorAE3mMl5gcuQW6) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Damn Shame](https://open.spotify.com/album/4kMW4QkHFBOBvx5wIn8uDF) | 2:48 | 2024-12-13 | 2024-12-15 |
 | [Damn This Goes Hard on Mute !!](https://open.spotify.com/track/5v4aJYrQADDLMtBQxAtBNJ) | [Acidgvrl](https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f), [Yûmi](https://open.spotify.com/artist/3m8rTxRDybQjzmsC0DU1ni) | [Damn This Goes Hard on Mute !!](https://open.spotify.com/album/7dfLcjnNUz9aO2TDU6lKXi) | 2:20 | 2024-06-23 | 2024-06-26 |
 | [DANCE \(BW3\)](https://open.spotify.com/track/5v0ERNJDuf1dRl92LHRzkC) | [bango balenci](https://open.spotify.com/artist/4BRchUufCww3elXTIG9nAE) | [DANCE \(BW3\)](https://open.spotify.com/album/6PoKv3S1FxMlLnBoBoVI6V) | 2:59 | 2024-06-27 | 2024-06-29 |
-| [DANCE ON ME](https://open.spotify.com/track/5xdjNYpQNhRldPHcl6FfgQ) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [DANCE ON ME](https://open.spotify.com/album/1A4XtcimYQPgU6kSDWjOdk) | 2:21 | 2025-03-07 |  |
+| [DANCE ON ME](https://open.spotify.com/track/5xdjNYpQNhRldPHcl6FfgQ) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [DANCE ON ME](https://open.spotify.com/album/1A4XtcimYQPgU6kSDWjOdk) | 2:21 | 2025-03-07 | 2025-03-19 |
 | [Dance on the Shoreline](https://open.spotify.com/track/5hcnIghzFIBbEKakcrpWJi) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [Dance on the Shoreline](https://open.spotify.com/album/14P5CEk2LqBFRdvjfTZvu5) | 4:20 | 2024-10-01 | 2024-10-04 |
 | [dance with me](https://open.spotify.com/track/0XxXIiZP0rJBS8S841UVdu) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou) | [dance with me](https://open.spotify.com/album/6czKpCwKPUEBaSXkfnADLZ) | 2:06 | 2024-08-16 | 2024-08-20 |
 | [Dancing At The Edge Of The World](https://open.spotify.com/track/2BU1bI7FsgbXwjdYVSIRB0) | [Brooke Combe](https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO) | [Dancing At The Edge Of The World](https://open.spotify.com/album/4vZriq52cx6wFPZNaM9xAu) | 3:25 | 2024-08-01 | 2024-08-03 |
@@ -1675,6 +1675,7 @@
 | [Hell of a Show](https://open.spotify.com/track/0WnevIEd25dTywBplnFNeY) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Hell of a Show](https://open.spotify.com/album/2C5hxtTGObdEG2rZZHVqPn) | 1:47 | 2024-07-10 | 2024-07-13 |
 | [Hell Or High Water](https://open.spotify.com/track/3eFrJnRorDC3BYPPXpbMBF) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Hell Or High Water](https://open.spotify.com/album/02Vv39T1NCVoc5EetX7k1q) | 2:36 | 2024-09-13 | 2024-09-18 |
 | [Hello B\*tch](https://open.spotify.com/track/1hzAauRjVOW3QJlCUTP3X4) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Hello B\*tch](https://open.spotify.com/album/5bWWgmLIujZiZrJUzxbhFn) | 2:19 | 2024-06-07 | 2024-06-12 |
+| [Hello Heaven, Hello](https://open.spotify.com/track/2jUcuBOT2eoBnoMBTM4L1i) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Hello Heaven, Hello](https://open.spotify.com/album/5YLk7hXivQWJezkRnWEfbH) | 9:06 | 2025-03-18 |  |
 | [Hello, Hi](https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Hello, Hi](https://open.spotify.com/album/10HfbJ0arWU8m6YOg85Q9y) | 2:15 | 2024-12-30 | 2025-01-13 |
 | [her](https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [her](https://open.spotify.com/album/6cUhnbhBBTFNb6z2w7llGx) | 2:51 | 2024-08-30 | 2024-09-05 |
 | [Her Eyes](https://open.spotify.com/track/6iTYBfAOuy7oSMyppweXc7) | [The Cost](https://open.spotify.com/artist/2ri95nI6rqJLWhn6VifREp), [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Her Eyes](https://open.spotify.com/album/1HlRjRD9b4DZriCMW3WvNg) | 4:44 | 2024-06-03 | 2024-06-06 |
@@ -1975,7 +1976,7 @@
 | [intro](https://open.spotify.com/track/3d1YtKpp27rNxBShzzKbrw) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [intro + up! up! up!](https://open.spotify.com/album/0lonx6kXB21iLRpdkgv78L) | 3:10 | 2025-01-24 | 2025-01-30 |
 | [IOU](https://open.spotify.com/track/3akZGuqQhifRrFYB8UCell) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag), [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [IOU](https://open.spotify.com/album/0q3267f3x9hLlTiZ07aUMa) | 3:11 | 2024-11-01 | 2024-11-06 |
 | [iPrettyMf](https://open.spotify.com/track/4EylGDfJ5s4kgDEmLrjdnN) | [Acidgvrl](https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f), [Yûmi](https://open.spotify.com/artist/3m8rTxRDybQjzmsC0DU1ni) | [iPrettyMf](https://open.spotify.com/album/1WrAhJBkcjMUEE6yB0Sgw9) | 2:40 | 2024-09-18 | 2024-09-20 |
-| [IS THIS LOVE](https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:35 | 2025-03-11 |  |
+| [IS THIS LOVE](https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:35 | 2025-03-11 | 2025-03-19 |
 | [Is This Love To You](https://open.spotify.com/track/2ncHgB3JjvnY4YcoMo8tGl) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Is This Love To You](https://open.spotify.com/album/5wEwgDkXxpWYoa18RjS85V) | 2:55 | 2024-10-25 | 2024-10-30 |
 | [It Aint Nun](https://open.spotify.com/track/5JcVmVRmSnCi34DarNogd5) | [CHRIST DILLINGER](https://open.spotify.com/artist/5wtRHmD5xeAYuwxiteR5t3), [Acid Souljah](https://open.spotify.com/artist/2grkafhEWV2QfpX4ooErud), [smokedope2016](https://open.spotify.com/artist/3hGJ4nHdF99Vs0gQdXz5Nw), [Dj Smokey](https://open.spotify.com/artist/6o5wSBDuLpn2vRpPvGuGBy), [Xhris2Eazy](https://open.spotify.com/artist/2BDkJ2lHOi7dyu7Y4N1MAg) | [It Aint Nun](https://open.spotify.com/album/4pS9web7O3L5n8iQjaM4Dz) | 4:29 | 2024-09-12 | 2024-09-14 |
 | [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 | 2024-05-24 | 2024-05-26 |
@@ -3227,6 +3228,7 @@
 | [SEANCE](https://open.spotify.com/track/2mXIcrTmKqYtiD341iyUsK) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [SEANCE](https://open.spotify.com/album/3onwUtsY4wwesn52pdDzbx) | 2:32 | 2024-12-13 | 2024-12-20 |
 | [search & destroy](https://open.spotify.com/track/4yR7QwLrd5ctle68uKaKrt) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [search & destroy](https://open.spotify.com/album/2740XBFuln7su35UWo3Awz) | 1:57 | 2024-09-14 | 2024-09-18 |
 | [Searching](https://open.spotify.com/track/0vLBNIZX6GoUxWEK0AOxv6) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Searching](https://open.spotify.com/album/5cgqD2Qs2Ft0Eulpdllwyr) | 3:07 | 2025-02-24 | 2025-03-01 |
+| [Searching for a Pulse](https://open.spotify.com/track/3pnzgkJK4b8O8ip6hbbGVX) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [Searching for a Pulse](https://open.spotify.com/album/4h37SlXVExO3hi8YVNlom9) | 2:39 | 2025-03-18 |  |
 | [Season of Memories](https://open.spotify.com/track/6QHWOhx5fYFKtI3LhgLrqM) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Season of Memories \(Special Album\)](https://open.spotify.com/album/3RKQHq3qRjvC1haI9WxOKM) | 3:06 | 2025-01-13 | 2025-01-22 |
 | [Season of the Witch](https://open.spotify.com/track/3fwOTdRiF56yb9c1gY9Su7) | [Farmer's Wife](https://open.spotify.com/artist/01epJHd4z4JfvkUBWHD5Os) | [Season of the Witch](https://open.spotify.com/album/3smZjvhu8O1Q2LEof6Vzb0) | 4:40 | 2024-10-01 | 2024-10-04 |
 | [Second Chance](https://open.spotify.com/track/5yv9mtTQgznL1USOVXU2Yp) | [Angara](https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3), [Elliot Vast](https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA) | [Second Chance](https://open.spotify.com/album/3nQzX1oyna97eYIjZ6U4PW) | 3:10 | 2024-07-31 | 2024-08-02 |

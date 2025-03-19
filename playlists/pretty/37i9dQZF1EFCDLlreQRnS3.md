@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37 likes - 127 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 38 likes - 127 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 87 | [The Point in Loving You](https://open.spotify.com/track/2yqvG9Izoq4CNPEgL1Ek41) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 2:55 |
 | 88 | [What I Wanted \- Denis Neve Remix](https://open.spotify.com/track/2KmS4tAa0XegfGt5LOHCsj) | [Sunlight Project](https://open.spotify.com/artist/5LCi8fJi3KXdJOaAtVZy7t), [Denis Neve](https://open.spotify.com/artist/5IROUcc1w1dYbubLCM3Dsl) | [What I Wanted](https://open.spotify.com/album/3LuNPzILkPXQIPUGN9K8ME) | 7:46 |
 | 89 | [Don't Look Back \(feat\. Moli\)](https://open.spotify.com/track/2AICmyqafrUWmY6oSrPffO) | [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Don't Look Back \(feat\. Moli\)](https://open.spotify.com/album/3Zq6nGhlOOTMYuOo8WDZux) | 3:09 |
-| 90 | [Take What You Want](https://open.spotify.com/track/2kmfbNQKqmiWDUEf1oPeBi) | [Miles & Miles](https://open.spotify.com/artist/00hQm1Gj5PmmqpQPfKVP0U), [Babet](https://open.spotify.com/artist/6HFzq45VLbD7rHb67YQwZz) | [Take What You Want](https://open.spotify.com/album/5LvJLeuk1vxEh3AxlulLm8) | 2:57 |
-| 91 | [Foundations](https://open.spotify.com/track/7lkwDDJUosg2aejawcon9O) | [Adam Ulanicki](https://open.spotify.com/artist/1vpmKYpHvgrwxooa6PCtsQ) | [Foundations](https://open.spotify.com/album/7B0pezOTRnXZQyURsjirjc) | 2:50 |
+| 90 | [Foundations](https://open.spotify.com/track/7lkwDDJUosg2aejawcon9O) | [Adam Ulanicki](https://open.spotify.com/artist/1vpmKYpHvgrwxooa6PCtsQ) | [Foundations](https://open.spotify.com/album/7B0pezOTRnXZQyURsjirjc) | 2:50 |
+| 91 | [Take What You Want](https://open.spotify.com/track/2kmfbNQKqmiWDUEf1oPeBi) | [Miles & Miles](https://open.spotify.com/artist/00hQm1Gj5PmmqpQPfKVP0U), [Babet](https://open.spotify.com/artist/6HFzq45VLbD7rHb67YQwZz) | [Take What You Want](https://open.spotify.com/album/5LvJLeuk1vxEh3AxlulLm8) | 2:57 |
 | 92 | [All Of The Lights](https://open.spotify.com/track/3jUNIhpyHyGWvlhWU6g9ob) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Joyse](https://open.spotify.com/artist/7cc79tfG2SrWeOdmgKZl8X) | [All Of The Lights](https://open.spotify.com/album/1b5NbbarHpHXKRVSoT0jSE) | 3:30 |
 | 93 | [Bring on the Rain](https://open.spotify.com/track/6MfzUY9AQHe3PBSnB1Xg0O) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Bring on the Rain](https://open.spotify.com/album/7rIeLvwWsNfIUzwWPO1wlX) | 3:12 |
 | 94 | [Yeah Yeah Yeah](https://open.spotify.com/track/7pJeq5nRA2NhrRuIxvM3ZV) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv), [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:55 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 126 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
 | 127 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `AbsU6AAAAABrLfTbMhPl7ukTuNagSjXK`
+Snapshot ID: `AbsafgAAAAAhSq8JlSqzzsfUGOnoulXY`

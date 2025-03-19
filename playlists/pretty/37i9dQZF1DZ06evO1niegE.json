@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 8157,
+  "num_followers": 8156,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAAC4zK+bPMFSm48iv+Qya/Br",
+  "snapshot_id": "Z9dmAAAAAACfdUlpRY3mstXCETKpMtrF",
   "tracks": [
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 290040,
-      "name": "La Buena Lecci\u00f3n",
-      "url": "https://open.spotify.com/track/6kKmJ38xO1j0YoSLqg4e1r"
+      "duration_ms": 234253,
+      "name": "Vivir En Silencio",
+      "url": "https://open.spotify.com/track/1sOMXJwAWXmZ2pWrSoYfwt"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 234253,
-      "name": "Vivir En Silencio",
-      "url": "https://open.spotify.com/track/1sOMXJwAWXmZ2pWrSoYfwt"
+      "duration_ms": 290040,
+      "name": "La Buena Lecci\u00f3n",
+      "url": "https://open.spotify.com/track/6kKmJ38xO1j0YoSLqg4e1r"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
       "duration_ms": 201453,
       "name": "mucho texto",
       "url": "https://open.spotify.com/track/52bveGvtg6PtlEVxtxH5T4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Retrofuturismo",
-        "url": "https://open.spotify.com/album/2UD0pOeSTiEqLcZNVoX36O"
-      },
-      "artists": [
-        {
-          "name": "MiSHNRZ",
-          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "VHS",
-      "url": "https://open.spotify.com/track/3OrVqG7CoKW0RIFeEPLPSY"
     },
     {
       "added_at": null,
@@ -703,6 +683,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Retrofuturismo",
+        "url": "https://open.spotify.com/album/2UD0pOeSTiEqLcZNVoX36O"
+      },
+      "artists": [
+        {
+          "name": "MiSHNRZ",
+          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "VHS",
+      "url": "https://open.spotify.com/track/3OrVqG7CoKW0RIFeEPLPSY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Breve Espacio",
         "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
       },
@@ -715,26 +715,6 @@
       "duration_ms": 226586,
       "name": "Esper\u00e1ndote",
       "url": "https://open.spotify.com/track/39nSeEjpm1bIMM275pSaef"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alta Joya",
-        "url": "https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva"
-      },
-      "artists": [
-        {
-          "name": "George Rhoads",
-          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "Alta Joya",
-      "url": "https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv"
     },
     {
       "added_at": null,
@@ -775,6 +755,26 @@
       "duration_ms": 183066,
       "name": "Amor Particular",
       "url": "https://open.spotify.com/track/41x3Zgm2LornuG311321J6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alta Joya",
+        "url": "https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva"
+      },
+      "artists": [
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "Alta Joya",
+      "url": "https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv"
     },
     {
       "added_at": null,

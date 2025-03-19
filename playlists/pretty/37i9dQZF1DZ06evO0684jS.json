@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 879938,
+  "num_followers": 879972,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAAAWLuvuO17OEhoWoXJ/+y8F",
+  "snapshot_id": "Z9dmAAAAAADH6P4mBlqF56DsPipikCxq",
   "tracks": [
     {
       "added_at": null,
@@ -499,6 +499,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 219893,
+      "name": "Make Me Proud",
+      "url": "https://open.spotify.com/track/7yfg0Eer6UZZt5tZ1XdsWz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DUMMY BOY (Revised)",
         "url": "https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 179404,
       "name": "FEFE (feat. Nicki Minaj & Murda Beatz)",
       "url": "https://open.spotify.com/track/43VXG87ajppI8mO1Mxo8vu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Take Care (Deluxe)",
-        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 219893,
-      "name": "Make Me Proud",
-      "url": "https://open.spotify.com/track/7yfg0Eer6UZZt5tZ1XdsWz"
     },
     {
       "added_at": null,

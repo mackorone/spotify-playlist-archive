@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Runnner
 
-1,507 songs - 3 day 14 hr 27 min
+1,508 songs - 3 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -614,6 +614,7 @@
 | [Heaven in Your Head](https://open.spotify.com/track/4GBxHpWJ8kF8w1hX8pw4VL) | [Nuclear Daisies](https://open.spotify.com/artist/4YeyVA4cQEijNzJIBMqYOo) | [Heaven in Your Head](https://open.spotify.com/album/1ijAzqI3b0LJdS0fgWaDJ1) | 3:14 | 2022-05-06 | 2022-10-01 |
 | [Heaven Is Your Company](https://open.spotify.com/track/5FuSWZB44fvaG86WNoZIPn) | [Death Bells](https://open.spotify.com/artist/14aKkOrkqm6amS81rUMZPg) | [Heaven Is Your Company](https://open.spotify.com/album/2DGj34CUI2CdjstGXkAtRN) | 3:09 | 2023-06-15 | 2023-07-23 |
 | [Heaven Is Your Company](https://open.spotify.com/track/7kZs1XgzlyQhMNHLzPA9cj) | [Death Bells](https://open.spotify.com/artist/14aKkOrkqm6amS81rUMZPg) | [Take My Spirit Now](https://open.spotify.com/album/5icbSNSho1t6Yc82qWC0vR) | 3:09 | 2023-06-15 | 2023-12-09 |
+| [Heavy](https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU) | [florence road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Heavy](https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe) | 3:20 | 2025-03-18 |  |
 | [Hell of a Life](https://open.spotify.com/track/39bU8AEH68pHW6rGXKg9gR) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:15 | 2024-10-11 |  |
 | [Hello, Hi](https://open.spotify.com/track/6IVk7Q7oc6rDBIvj77HUD2) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Hello, Hi](https://open.spotify.com/album/15SPCpxHawJKpc7y3x4wqx) | 2:46 | 2022-04-29 | 2022-05-18 |
 | [Her](https://open.spotify.com/track/3vOfOukwKoWE6AGRXscucS) | [FUR](https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a) | [Her](https://open.spotify.com/album/5SlWmYvt5uc2ga9MmkUxBH) | 3:51 | 2022-08-05 | 2023-05-20 |

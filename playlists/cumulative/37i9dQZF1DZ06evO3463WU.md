@@ -4,7 +4,7 @@
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-125 songs - 7 hr 7 min
+126 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Ignoraste Mis Lagrimas](https://open.spotify.com/track/3uIpPg75d1L8uIKAQBBz9I) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa) | 2:54 | 2022-06-01 | 2024-09-11 |
 | [Ignoraste Mis Lágrimas](https://open.spotify.com/track/12M4PzpcGsn49aJvxkaadh) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV) | 2:54 | 2024-09-11 |  |
 | [Inventame Un Amor](https://open.spotify.com/track/6Nd55mIC9CFul1mVagPtFa) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [20 Exitos](https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21) | 4:01 | 2022-06-03 | 2024-09-16 |
-| [Invéntame Un Amor](https://open.spotify.com/track/0TsfSmAtQig4YnIlISqVmw) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Mariachi Santa María](https://open.spotify.com/artist/54oub6uzta6IHPRNCQlttQ) | [Invéntame Un Amor](https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J) | 4:01 | 2025-02-05 |  |
+| [Invéntame Un Amor](https://open.spotify.com/track/0TsfSmAtQig4YnIlISqVmw) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Mariachi Santa María](https://open.spotify.com/artist/54oub6uzta6IHPRNCQlttQ) | [Invéntame Un Amor](https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J) | 4:01 | 2025-02-05 | 2025-03-19 |
 | [La Fuerza Del Amor](https://open.spotify.com/track/7IYqBfbJyLX1e2MYf04ezI) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [La Fuerza Del Amor](https://open.spotify.com/album/2B4Ry5xyWtrJeIj8JiqCmo) | 4:17 | 2022-06-01 | 2023-11-11 |
 | [La Reyna De Mi Hogar](https://open.spotify.com/track/5XJRpYdbXxef7by5M4OcAm) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV) | 3:32 | 2024-11-14 |  |
 | [Las Llaves De Mi Alma](https://open.spotify.com/track/6vvBP49CrNlSBEV0tsTo8V) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/69gdI8NQ0yB8nfP6eoj4lC) | 2:52 | 2022-06-12 | 2022-10-13 |
@@ -108,6 +108,7 @@
 | [Que Te Paso](https://open.spotify.com/track/5DsX6k1XSBuKj3GxHItIZV) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mas Fuerte Que Nunca](https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi) | 2:37 | 2022-06-01 | 2022-10-13 |
 | [Quiero Dormir Contigo](https://open.spotify.com/track/3RTUCcYjlntHPOFrA9pteD) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Cuenta Conmigo](https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se) | 3:09 | 2022-08-20 | 2022-08-22 |
 | [Qué Bonito](https://open.spotify.com/track/3AG3kaV6b3DDQDCEDN1HdS) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Qué Bonito](https://open.spotify.com/album/0Z05URN9ad0MN2TuakJH0u) | 2:47 | 2022-06-01 |  |
+| [Siempre Te Voy A Recordar](https://open.spotify.com/track/03Ger3TJI5fd5KFDYvZQfP) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Te Amo Y Te Amaré](https://open.spotify.com/album/2Znp7ihFVi0PFm2Csq5wKS) | 3:46 | 2025-03-19 |  |
 | [Te Amo Y Te Lo Digo](https://open.spotify.com/track/6HQTfGCo5O2itJ25D1yytt) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Cuenta Conmigo](https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se) | 3:02 | 2024-09-14 |  |
 | [Te Amo y Te Lo Digo](https://open.spotify.com/track/3oyseqmvN8v73vcp7z0yx8) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Lo Mejor De Mi Repertorio](https://open.spotify.com/album/3dEdr01jgZ35RTRKO3HEaR) | 3:02 | 2022-06-01 | 2024-09-14 |
 | [Te Deseo Lo Mejor \- Versión Mariachi](https://open.spotify.com/track/4JmJUdY5z9NhJYDdRx6cuC) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Te Deseo Lo Mejor \(Versión Mariachi\)](https://open.spotify.com/album/4n1aw8mKj9hZTqC8TcXoDr) | 2:38 | 2022-06-01 | 2024-12-06 |

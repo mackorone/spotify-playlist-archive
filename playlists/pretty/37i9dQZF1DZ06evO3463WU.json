@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 151886,
+  "num_followers": 151900,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAACKf1Yd9mrRMBUMTG77Z+Me",
+  "snapshot_id": "Z9dmAAAAAADY4vuxyUuqOaI77xo+ysZp",
   "tracks": [
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sinverg\u00fcenza Y Mujeriego",
+        "url": "https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 206843,
+      "name": "Unidos Para Amarnos",
+      "url": "https://open.spotify.com/track/6pRMjfUSKsKKfJWXEvbBL9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e1rchate",
         "url": "https://open.spotify.com/album/2T8bt0Spo7yhtPFCVspHPc"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 165903,
       "name": "M\u00e1rchate",
       "url": "https://open.spotify.com/track/0uC0uPbZONNDiiQMxD2MyH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sinverg\u00fcenza Y Mujeriego",
-        "url": "https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 206843,
-      "name": "Unidos Para Amarnos",
-      "url": "https://open.spotify.com/track/6pRMjfUSKsKKfJWXEvbBL9"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) [Banda]",
-        "url": "https://open.spotify.com/album/6HFyobtjc5a3X80wLUjLu1"
-      },
-      "artists": [
-        {
-          "name": "Max Peraza",
-          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
-        },
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) - Banda",
-      "url": "https://open.spotify.com/track/2asLjAakW5V1kdgZnbf5UZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cien Por Ciento Sincero",
         "url": "https://open.spotify.com/album/6HOlmYD1XgnsPTvPUqUYbq"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 229160,
       "name": "Y Las Mariposas",
       "url": "https://open.spotify.com/track/6Evs8xJsQ9Yw0z10XAOd6W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) [Banda]",
+        "url": "https://open.spotify.com/album/6HFyobtjc5a3X80wLUjLu1"
+      },
+      "artists": [
+        {
+          "name": "Max Peraza",
+          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 218493,
+      "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) - Banda",
+      "url": "https://open.spotify.com/track/2asLjAakW5V1kdgZnbf5UZ"
     },
     {
       "added_at": null,
@@ -903,22 +903,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inv\u00e9ntame Un Amor",
-        "url": "https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J"
+        "name": "Te Amo Y Te Amar\u00e9",
+        "url": "https://open.spotify.com/album/2Znp7ihFVi0PFm2Csq5wKS"
       },
       "artists": [
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Mariachi Santa Mar\u00eda",
-          "url": "https://open.spotify.com/artist/54oub6uzta6IHPRNCQlttQ"
         }
       ],
-      "duration_ms": 241359,
-      "name": "Inv\u00e9ntame Un Amor",
-      "url": "https://open.spotify.com/track/0TsfSmAtQig4YnIlISqVmw"
+      "duration_ms": 226580,
+      "name": "Siempre Te Voy A Recordar",
+      "url": "https://open.spotify.com/track/03Ger3TJI5fd5KFDYvZQfP"
     }
   ],
   "unique_name": "This Is Pancho Barraza",

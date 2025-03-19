@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > Det bedste nye pop ❤️ Lizzooo
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,751 likes - 142 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,746 likes - 142 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

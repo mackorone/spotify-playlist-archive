@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz?si=vifkgyFKR6mKTqLFn5uJvg>Prinx Emmanuel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,684 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,700 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

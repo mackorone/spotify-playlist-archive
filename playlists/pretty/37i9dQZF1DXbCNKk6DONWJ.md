@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbCNKk6DONWJ.md) - [plain]
 
 > Featuring all your favourite songs from The Archies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,470 likes - 17 songs - 41 min 26 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,471 likes - 17 songs - 41 min 26 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

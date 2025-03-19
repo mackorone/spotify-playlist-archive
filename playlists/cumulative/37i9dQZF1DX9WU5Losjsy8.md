@@ -4,7 +4,7 @@
 
 > Von Ischgl bis Obertauern\. Après\-Ski ist nur einmal im Jahr!
 
-166 songs - 8 hr 24 min
+167 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Mann für Amore \- Single Mix](https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Von Herzen](https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC) | 3:52 | 2023-09-18 |  |
 | [Abenteuerland](https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N) | [Pur](https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx) | [Hits Pur \- 20 Jahre Eine Band \(Fan Edition\)](https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO) | 4:40 | 2024-03-27 | 2025-03-01 |
 | [Abfahrt](https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Dorfdisko](https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL) | 3:26 | 2023-07-14 |  |
+| [ALL IN \(Lieblingslieder\)](https://open.spotify.com/track/3VIEbpdr64a1mNSa8MqBAm) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [ALL IN \(Lieblingslieder\)](https://open.spotify.com/album/3l4OJNnPVJGK8Dg9dvkRFZ) | 2:43 | 2025-03-18 |  |
 | [Anna\-Lena](https://open.spotify.com/track/1N7HWv5UZrmhGYJAExPBSO) | [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Deejay Matze](https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4) | [Anna\-Lena](https://open.spotify.com/album/5p43YwAvnW9SP3s5jVsO1Q) | 3:00 | 2024-02-09 | 2024-02-16 |
 | [Anna\-Lena](https://open.spotify.com/track/5NTiHVwhx2FpUsuSbgkDGE) | [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Deejay Matze](https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4) | [Anna\-Lena](https://open.spotify.com/album/2NQEW9DajvxCNWSyj0eS5d) | 3:00 | 2023-07-14 | 2024-01-18 |
 | [ANNE KAFFEEKANNE](https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd) | [TIM PLVNK](https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk) | [ANNE KAFFEEKANNE](https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i) | 2:20 | 2024-04-30 |  |
@@ -128,7 +129,7 @@
 | [Mozart \(Ciao Niveau\)](https://open.spotify.com/track/2izhQz92OLdlp2KxNwwu4O) | [Tobee](https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r) | [Mozart \(Ciao Niveau\)](https://open.spotify.com/album/7jODSZ4ensMN1GqU19pifB) | 2:52 | 2024-04-30 |  |
 | [Nachbarn](https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Nachbarn](https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea) | 3:01 | 2023-07-14 |  |
 | [Neverland](https://open.spotify.com/track/7HJ7K2RacfpaX2DTEvwYpS) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Neverland](https://open.spotify.com/album/2bDZ4TekRc3saVb0O1G7ik) | 3:32 | 2024-02-15 | 2024-06-19 |
-| [Nie mehr Alkohol \- freie Getränke](https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Nie mehr Alkohol \- freie Getränke](https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y) | 3:24 | 2023-07-14 |  |
+| [Nie mehr Alkohol \- freie Getränke](https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Nie mehr Alkohol \- freie Getränke](https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y) | 3:24 | 2023-07-14 | 2025-03-19 |
 | [Nimm mich mit ins Paradies](https://open.spotify.com/track/2ZqVzQrbA3FuXKOUBBqpRy) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [Julian Benz](https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp) | [Nimm mich mit ins Paradies](https://open.spotify.com/album/3MS34bdsyJSrdMnbEac3pn) | 2:44 | 2024-02-15 | 2024-04-19 |
 | [Nimm mich mit ins Paradies](https://open.spotify.com/track/6nOWw1hXnr3FB5F8VKDqzu) | [Julian Benz](https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp), [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Nimm mich mit ins Paradies](https://open.spotify.com/album/3ol2K9AiuZqrl0Yar8CEHm) | 2:44 | 2023-07-14 | 2024-01-19 |
 | [Oben ohne](https://open.spotify.com/track/5evW30Vom9nZ9YKadUymD3) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Oben ohne](https://open.spotify.com/album/1nHLLz8GNrA4GeaKLkay7M) | 2:59 | 2024-03-22 |  |

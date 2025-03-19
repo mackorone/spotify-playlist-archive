@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vJ2U3sN7xj.md) - [plain]
 
 > nos fuimos de fiesta con Yailin La Mas Viral  🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 908,400 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 908,442 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

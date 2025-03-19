@@ -2461,6 +2461,28 @@
     },
     {
       "album": {
+        "name": "BANSHEE",
+        "url": "https://open.spotify.com/album/3Ory0Dd1Nrslodb0Po92AN"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187466,
+      "name": "BANSHEE",
+      "url": "https://open.spotify.com/track/2phA5dZJrWqOBrOHFAgrjQ"
+    },
+    {
+      "album": {
         "name": "Bar",
         "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
       },
@@ -4108,7 +4130,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 134778,
       "name": "CHINGON",
       "url": "https://open.spotify.com/track/6UNLWd8LUk9nNgmU6AcXct"
@@ -22958,7 +22980,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 201027,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/0vfPiExVUcECwzpQ3vfV0R"
@@ -25036,7 +25058,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-08",
+      "date_removed": null,
       "duration_ms": 172427,
       "name": "UWAIE",
       "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"

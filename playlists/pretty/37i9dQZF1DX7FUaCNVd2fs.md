@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FUaCNVd2fs.md) - [plain]
 
 > Sleepy, cosy piano music for snoozing, power naps and relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,904 likes - 164 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,913 likes - 164 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,16 +12,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FUaCNVd2fs.md) - [plain]
 | 2 | [The Path Unwinds](https://open.spotify.com/track/021CxXvGrxUY6X2PXqrW5c) | [Lukasz Allain](https://open.spotify.com/artist/3O2fAJFoOE1uxFK9ZXouLc) | [The Path Unwinds](https://open.spotify.com/album/3sAeswtRu2pVWIk9WrvYSF) | 2:52 |
 | 3 | [So Still](https://open.spotify.com/track/5Oyts6S9nV0eKgpN8pZMQj) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [So Still](https://open.spotify.com/album/2r6SI58mqGIUTngRoGPFUo) | 2:18 |
 | 4 | [Little eyes](https://open.spotify.com/track/0ujCuPifSXi03mgGeqbsvC) | [Leddei](https://open.spotify.com/artist/52c7HK8GD8wokmwHeNXGhs) | [Little eyes](https://open.spotify.com/album/5YYGBgnXZ9M36cOYlWKbQi) | 2:19 |
-| 5 | [For A Moment](https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2) | [Haley Morrison](https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET) | [For A Moment](https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO) | 3:21 |
-| 6 | [Cádiz](https://open.spotify.com/track/2fQTBDA81IyaYgtr2Gz4Wl) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Cádiz](https://open.spotify.com/album/5YBGQGNe1qX309BmK6eDFL) | 2:12 |
-| 7 | [Clear And Calm](https://open.spotify.com/track/4Gn7QkFfIUdoJnRnmMBIZ7) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Clear And Calm](https://open.spotify.com/album/2JUNDwk1OCuOqTLdgbS8zv) | 2:10 |
-| 8 | [Grounded in Love](https://open.spotify.com/track/6r3yNcTDGZxBsvUi5hwpOf) | [Rocco](https://open.spotify.com/artist/70qMxbmTMbxS4MCjkkZvTH) | [Grounded in Love](https://open.spotify.com/album/7dgM19C1eRfwg33ev3jLV8) | 2:23 |
-| 9 | [Night Clouds](https://open.spotify.com/track/0OpqhQTV2qBimQyFhQAuDF) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Night Clouds](https://open.spotify.com/album/7lSnDLFVQkxKYmtPQWeFTd) | 2:52 |
-| 10 | [This Silent Night](https://open.spotify.com/track/5jGACx1QuHblS6yNrBSeEU) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [This Silent Night](https://open.spotify.com/album/6HbFMkBUb1jTvnjKcmClOX) | 2:05 |
-| 11 | [Lucid Dreams](https://open.spotify.com/track/6O9AWPGehNHiSJ1sNcKgBg) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [Lucid Dreams](https://open.spotify.com/album/11fdE1fXnkCVmNKgqNDEEm) | 2:50 |
-| 12 | [Sleeping Forest](https://open.spotify.com/track/3VpHOtfXljfg3cPkE1hrzd) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Sleeping Forest](https://open.spotify.com/album/4B7jHTpuKUHgvU2YdlsLiO) | 3:48 |
-| 13 | [Nordic Sunset](https://open.spotify.com/track/6daWwJ5d0lswGClgWB18Pc) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Nordic Sunset](https://open.spotify.com/album/65Cml5MnWFs3jeca3oiyGl) | 2:30 |
-| 14 | [Cornerstone](https://open.spotify.com/track/50asLnxLvpjOfFv7f20Ol5) | [Aveline Evan](https://open.spotify.com/artist/3Wrv7jhidzGqxmx2bmubem) | [Cornerstone](https://open.spotify.com/album/1pcfLlpMAQ6jPx9eI39aDs) | 2:40 |
+| 5 | [Cádiz](https://open.spotify.com/track/2fQTBDA81IyaYgtr2Gz4Wl) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Cádiz](https://open.spotify.com/album/5YBGQGNe1qX309BmK6eDFL) | 2:12 |
+| 6 | [For A Moment](https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2) | [Haley Morrison](https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET) | [For A Moment](https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO) | 3:21 |
+| 7 | [Grounded in Love](https://open.spotify.com/track/6r3yNcTDGZxBsvUi5hwpOf) | [Rocco](https://open.spotify.com/artist/70qMxbmTMbxS4MCjkkZvTH) | [Grounded in Love](https://open.spotify.com/album/7dgM19C1eRfwg33ev3jLV8) | 2:23 |
+| 8 | [Clear And Calm](https://open.spotify.com/track/4Gn7QkFfIUdoJnRnmMBIZ7) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Clear And Calm](https://open.spotify.com/album/2JUNDwk1OCuOqTLdgbS8zv) | 2:10 |
+| 9 | [This Silent Night](https://open.spotify.com/track/5jGACx1QuHblS6yNrBSeEU) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [This Silent Night](https://open.spotify.com/album/6HbFMkBUb1jTvnjKcmClOX) | 2:05 |
+| 10 | [Nordic Sunset](https://open.spotify.com/track/6daWwJ5d0lswGClgWB18Pc) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Nordic Sunset](https://open.spotify.com/album/65Cml5MnWFs3jeca3oiyGl) | 2:30 |
+| 11 | [Night Clouds](https://open.spotify.com/track/0OpqhQTV2qBimQyFhQAuDF) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Night Clouds](https://open.spotify.com/album/7lSnDLFVQkxKYmtPQWeFTd) | 2:52 |
+| 12 | [Cornerstone](https://open.spotify.com/track/50asLnxLvpjOfFv7f20Ol5) | [Aveline Evan](https://open.spotify.com/artist/3Wrv7jhidzGqxmx2bmubem) | [Cornerstone](https://open.spotify.com/album/1pcfLlpMAQ6jPx9eI39aDs) | 2:40 |
+| 13 | [Lucid Dreams](https://open.spotify.com/track/6O9AWPGehNHiSJ1sNcKgBg) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [Lucid Dreams](https://open.spotify.com/album/11fdE1fXnkCVmNKgqNDEEm) | 2:50 |
+| 14 | [Sleeping Forest](https://open.spotify.com/track/3VpHOtfXljfg3cPkE1hrzd) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Sleeping Forest](https://open.spotify.com/album/4B7jHTpuKUHgvU2YdlsLiO) | 3:48 |
 | 15 | [The Land You Belong](https://open.spotify.com/track/0VJwxkumrClrt4Y41evUpy) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [The Land You Belong](https://open.spotify.com/album/3uj2AIVg0qfo3NR2HlGkEq) | 2:24 |
 | 16 | [Approaching View](https://open.spotify.com/track/0mF6mYZxi3HLMfKJpXT6JT) | [Keith Foster](https://open.spotify.com/artist/5e1yO1Z9BVf2csEYLGqQ2j) | [Approaching View](https://open.spotify.com/album/4LemwZw7HfUQQ63MqzVuHz) | 2:25 |
 | 17 | [Nuit Claire](https://open.spotify.com/track/6tCcyb0NtqtKCMHzX2YZIh) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Nuit Claire](https://open.spotify.com/album/3j4Rvcw23462SvnuIf5PgC) | 2:44 |
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FUaCNVd2fs.md) - [plain]
 | 21 | [For Hannah](https://open.spotify.com/track/18vwnhgOGi7GDZxbglYac7) | [Gia](https://open.spotify.com/artist/2EF6KwiVbFHUsL53LQ2y4R) | [For Hannah](https://open.spotify.com/album/6nHjXDACCN3DnmrLD3Epih) | 2:52 |
 | 22 | [Afterlight](https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Afterlight](https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX) | 3:20 |
 | 23 | [moonlight in my heart](https://open.spotify.com/track/2PquyxqnifehQWWYRQm7wE) | [Rocky Road Heaven](https://open.spotify.com/artist/5Sl6AeIxVJBWaJp4kWYeQ9) | [moonlight in my heart](https://open.spotify.com/album/2cgT5qag7EB0BEtZJZ9qzd) | 2:38 |
-| 24 | [Meaning Of Life](https://open.spotify.com/track/3m6dt7vpVFKM6VawzTUSbR) | [Our Sense](https://open.spotify.com/artist/7vUyFSVFxPY2dxiiosiqhY) | [Meaning Of Life](https://open.spotify.com/album/0JTJbjoyZxpYEGROgEriRU) | 2:34 |
-| 25 | [Daylight](https://open.spotify.com/track/0dVsSv0xlnO3CJd4osrt2w) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Daylight](https://open.spotify.com/album/1MMZ6TC0X0LcztVxsx2oYr) | 2:39 |
-| 26 | [Mystic Rivers](https://open.spotify.com/track/24qUwzHcqj4x9JIJ5FP5JO) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Mystic Rivers](https://open.spotify.com/album/2J5LFFXdwIVXxLSmm3wxej) | 3:11 |
-| 27 | [Quiet Moments](https://open.spotify.com/track/2Zof2lqNWh3mum2rtnQsCc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Quiet Moments](https://open.spotify.com/album/1lQIkbvbkJqqK3t7t8iwcc) | 2:00 |
-| 28 | [By the water](https://open.spotify.com/track/2YoLc0qnDHNgjpuaF0nxOV) | [Big Marsh](https://open.spotify.com/artist/4d2MCwL7Etc9TuxNALb5IF) | [By the water](https://open.spotify.com/album/33LaRBVTZeUUY5bpWBZMJe) | 2:23 |
-| 29 | [Fire Lily](https://open.spotify.com/track/2uSAha9mpw97lxp4Gpp2HK) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Fire Lily](https://open.spotify.com/album/7vwV0V7Xn0c9f5WGNTJhZ8) | 2:28 |
-| 30 | [Bona Fide](https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE) | [Linn Hope](https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D) | [Bona Fide](https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC) | 2:37 |
+| 24 | [Daylight](https://open.spotify.com/track/0dVsSv0xlnO3CJd4osrt2w) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Daylight](https://open.spotify.com/album/1MMZ6TC0X0LcztVxsx2oYr) | 2:39 |
+| 25 | [Mystic Rivers](https://open.spotify.com/track/24qUwzHcqj4x9JIJ5FP5JO) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Mystic Rivers](https://open.spotify.com/album/2J5LFFXdwIVXxLSmm3wxej) | 3:11 |
+| 26 | [Quiet Moments](https://open.spotify.com/track/2Zof2lqNWh3mum2rtnQsCc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Quiet Moments](https://open.spotify.com/album/1lQIkbvbkJqqK3t7t8iwcc) | 2:00 |
+| 27 | [By the water](https://open.spotify.com/track/2YoLc0qnDHNgjpuaF0nxOV) | [Big Marsh](https://open.spotify.com/artist/4d2MCwL7Etc9TuxNALb5IF) | [By the water](https://open.spotify.com/album/33LaRBVTZeUUY5bpWBZMJe) | 2:23 |
+| 28 | [Bona Fide](https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE) | [Linn Hope](https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D) | [Bona Fide](https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC) | 2:37 |
+| 29 | [Meaning Of Life](https://open.spotify.com/track/3m6dt7vpVFKM6VawzTUSbR) | [Our Sense](https://open.spotify.com/artist/7vUyFSVFxPY2dxiiosiqhY) | [Meaning Of Life](https://open.spotify.com/album/0JTJbjoyZxpYEGROgEriRU) | 2:34 |
+| 30 | [Fire Lily](https://open.spotify.com/track/2uSAha9mpw97lxp4Gpp2HK) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Fire Lily](https://open.spotify.com/album/7vwV0V7Xn0c9f5WGNTJhZ8) | 2:28 |
 | 31 | [Sing To Me](https://open.spotify.com/track/3a4y408TGCZCoQICRo9bLN) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Sing To Me](https://open.spotify.com/album/6XBB7li71b9uZPbQ2os5HI) | 2:17 |
 | 32 | [All You Want](https://open.spotify.com/track/5hJYtuUAsHMnmRe1aogTfX) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [All You Want](https://open.spotify.com/album/4STwzDy8LTnUsA6AImZZy7) | 3:40 |
 | 33 | [Providential](https://open.spotify.com/track/2SJYDILOKnfms6VeB5nbHV) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Providential](https://open.spotify.com/album/78MbTcogTNTH2kxhxpNFBx) | 2:42 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FUaCNVd2fs.md) - [plain]
 | 163 | [Tra Di Noi](https://open.spotify.com/track/7yJJuCckCfvjuIVDK96KlL) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Tra Di Noi](https://open.spotify.com/album/0J5qqU8x786MCP07FHgJGa) | 2:30 |
 | 164 | [Quicksand](https://open.spotify.com/track/17jvo4FD4s17STVTrf099y) | [Margus Paavo](https://open.spotify.com/artist/1rYnDP2t7hKxNQyJP2e66n) | [Quicksand](https://open.spotify.com/album/5ckkKPGjmusZozuLk3EWkq) | 2:49 |
 
-Snapshot ID: `Z9A6sQAAAACO8rVpq3y980h3PpORr119`
+Snapshot ID: `Z9mKxgAAAAAsGoFpF2o/bklbVQIBSEI+`

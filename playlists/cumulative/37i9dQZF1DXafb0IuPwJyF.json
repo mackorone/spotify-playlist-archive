@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: \u85e4\u4e95 \u98a8",
+  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: XG",
   "name": "Tokyo Super Hits! ",
   "tracks": [
     {
@@ -1896,6 +1896,24 @@
       "duration_ms": 231250,
       "name": "Burning",
       "url": "https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM"
+    },
+    {
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/428NUiCIToyIhyAQEf2zAw"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189006,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/0hwtEIit3clZ8uVLYGyCyj"
     },
     {
       "album": {
@@ -9804,7 +9822,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 196680,
       "name": "NEW LOOK",
       "url": "https://open.spotify.com/track/451U7NEyfqtVefeIgSoJF0"
@@ -10084,7 +10102,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 185896,
       "name": "No.5",
       "url": "https://open.spotify.com/track/5kXmyxToZp5zMN67Pek2UV"
@@ -17953,6 +17971,24 @@
     },
     {
       "album": {
+        "name": "\u308f\u305f\u3057\u306b\u82b1\u675f",
+        "url": "https://open.spotify.com/album/2QNHCEUiNTXtcHSjoVWvNl"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228611,
+      "name": "\u308f\u305f\u3057\u306b\u82b1\u675f",
+      "url": "https://open.spotify.com/track/1vLQ5s4eumtmUcov4cP9jt"
+    },
+    {
+      "album": {
         "name": "\u308f\u3092\u3093",
         "url": "https://open.spotify.com/album/6CaESXa0TuGHe5JZzlsSf2"
       },
@@ -21500,7 +21536,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 267797,
       "name": "\u30e6\u30fc\u30e2\u30a2",
       "url": "https://open.spotify.com/track/11PjPUWOqFDsuMllKqGZsB"
@@ -25860,6 +25896,24 @@
       "duration_ms": 175000,
       "name": "\u733f\u829d\u5c45",
       "url": "https://open.spotify.com/track/3LY9pxrkW6J3TTAL5ZwNuI"
+    },
+    {
+      "album": {
+        "name": "\u7425\u73c0",
+        "url": "https://open.spotify.com/album/4QXFq3HeLYtD7AqkWDna5F"
+      },
+      "artists": [
+        {
+          "name": "SEKAI NO OWARI",
+          "url": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261648,
+      "name": "\u7425\u73c0",
+      "url": "https://open.spotify.com/track/08rovJEJniq6bcwLLHhHmj"
     },
     {
       "album": {

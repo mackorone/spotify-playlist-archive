@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative\. Cover: <a href="https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD?si=8I0aJ87tSQ21BY3d39y\_MA">DemiMa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,270 likes - 55 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,273 likes - 55 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is ALI\. The essential tracks, all in one playlist.
 
-63 songs - 4 hr 4 min
+64 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [SHOW TIME](https://open.spotify.com/track/5eOOnFQHQdb5DpJvZRPS2l) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [SHOW TIME](https://open.spotify.com/album/24yJA2oiDwau8NsrcqH2lw) | 4:44 | 2022-12-23 |  |
 | [SPARKLE](https://open.spotify.com/track/2IIE9qJNoazhj61870dgkO) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 4:25 | 2023-01-31 |  |
 | [STAYING IN THE GROOVE](https://open.spotify.com/track/2nQFemzvvRyC2B6UM0zRME) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [STAYING IN THE GROOVE](https://open.spotify.com/album/0G6HaT2usfAR4Y7WmFPp1q) | 4:50 | 2022-12-23 |  |
+| [SURVIVE（feat\. LEO from ALI）](https://open.spotify.com/track/4ojAyqC0MO4dVzXr1TSUgD) | [香取慎吾](https://open.spotify.com/artist/23aPUZaR8bESXN4UD3T2Sx), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Circus Funk](https://open.spotify.com/album/4hBLOwItcFt69KFbMZdtrY) | 4:43 | 2025-03-19 |  |
 | [TEENAGE CITY RIOT](https://open.spotify.com/track/3LT9TScu8L84wBZLHfpSwu) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb) | [INGLOURIOUS EASTERN COWBOY](https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg) | 3:40 | 2022-12-23 | 2023-07-12 |
 | [TEENAGE CITY RIOT](https://open.spotify.com/track/5OZGr81O9jLzE5vk8CHUJB) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 3:41 | 2023-07-11 |  |
 | [Temptations](https://open.spotify.com/track/2HyCSbrfRjy0smkJMol7Oy) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Temptations](https://open.spotify.com/album/6vR3bL2HLIKKWpukolyqbM) | 2:49 | 2022-12-23 |  |

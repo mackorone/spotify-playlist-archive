@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: LE SSERAFIM (\ub974\uc138\ub77c\ud54c)) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: STAYC(\uc2a4\ud14c\uc774\uc528)) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "New Music K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -4836,6 +4836,24 @@
       "duration_ms": 269626,
       "name": "A Love Only Heaven Permits",
       "url": "https://open.spotify.com/track/0API3BOY98GkpXmZA6qtGN"
+    },
+    {
+      "album": {
+        "name": "A LOVE SUPREME",
+        "url": "https://open.spotify.com/album/6vVLCnbCm8LGi77X0yjfqB"
+      },
+      "artists": [
+        {
+          "name": "CHAIN REACTION",
+          "url": "https://open.spotify.com/artist/6uAWiq7o2XzohdQ6M5zN7U"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 700779,
+      "name": "A Love Supreme",
+      "url": "https://open.spotify.com/track/13wudIIl7RjbOfWxvXKdz6"
     },
     {
       "album": {
@@ -14455,6 +14473,24 @@
     },
     {
       "album": {
+        "name": "BA BA BYE",
+        "url": "https://open.spotify.com/album/0pROa7KeXHCdolbjAi3wLp"
+      },
+      "artists": [
+        {
+          "name": "ROCKY",
+          "url": "https://open.spotify.com/artist/3bQABAi10Xqg1WsMAhYdBZ"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195293,
+      "name": "BA BA BYE",
+      "url": "https://open.spotify.com/track/142pVQPToEYbjWwxpJMpM0"
+    },
+    {
+      "album": {
         "name": "BABEL",
         "url": "https://open.spotify.com/album/3CApRJRL9vFGado5MZCExF"
       },
@@ -18548,6 +18584,24 @@
       "duration_ms": 231466,
       "name": "Beauty(2022)",
       "url": "https://open.spotify.com/track/1gaE9GDp3ctETPzSPcjhZs"
+    },
+    {
+      "album": {
+        "name": "S",
+        "url": "https://open.spotify.com/album/6QTpBMKMIa2OFMqZBQu2Pm"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179391,
+      "name": "BEBE",
+      "url": "https://open.spotify.com/track/5iXD5rOKV99XGtkaiucHpM"
     },
     {
       "album": {
@@ -28547,6 +28601,36 @@
     },
     {
       "album": {
+        "name": "MUSM op.7",
+        "url": "https://open.spotify.com/album/5rJE91mSCxtkCKVM78Q69W"
+      },
+      "artists": [
+        {
+          "name": "MUSM",
+          "url": "https://open.spotify.com/artist/7uT444qheRWiJsA0EGvXFh"
+        },
+        {
+          "name": "Min Suhyun",
+          "url": "https://open.spotify.com/artist/65xV9oKFVEnfWBoHqgm9vm"
+        },
+        {
+          "name": "Moudy",
+          "url": "https://open.spotify.com/artist/5XUBN8oP05jR9st5x2TksH"
+        },
+        {
+          "name": "Vincent Blue",
+          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195646,
+      "name": "Cactus (feat. Vincent Blue, Moudy, Min Suhyun) (prod. Luque, Youngjin, Moudy)",
+      "url": "https://open.spotify.com/track/4RvgIrH7rLOxjdrjO1KtMO"
+    },
+    {
+      "album": {
         "name": "Cactus, Cactus",
         "url": "https://open.spotify.com/album/3hfUaz21ZhJQ7Fa9amwMhZ"
       },
@@ -31376,7 +31460,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 222037,
       "name": "Chantepleure",
       "url": "https://open.spotify.com/track/3uFqbKQm8939lVJf14iOtl"
@@ -49550,7 +49634,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 195895,
       "name": "drr",
       "url": "https://open.spotify.com/track/1MFbFqpSYFYbpvafKihLfP"
@@ -55696,7 +55780,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 174786,
       "name": "faff",
       "url": "https://open.spotify.com/track/5AEqNwD5njdUasGayCr6wF"
@@ -78722,7 +78806,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 218573,
       "name": "How Can I Live",
       "url": "https://open.spotify.com/track/3rnBKdULUSah5b7MqXMxND"
@@ -80524,7 +80608,7 @@
       },
       "artists": [
         {
-          "name": "\ud669\uc18c\uc724",
+          "name": "Hwang Soyoon",
           "url": "https://open.spotify.com/artist/41v8KRJraohAPib31yym6K"
         }
       ],
@@ -83986,6 +84070,24 @@
       "duration_ms": 214109,
       "name": "I Like You (Feat. amin)",
       "url": "https://open.spotify.com/track/5r4wRmS9UFyO62zqLuW7Bi"
+    },
+    {
+      "album": {
+        "name": "I live in my heart",
+        "url": "https://open.spotify.com/album/1hq4LYXSVmsBHpREq1wJ3n"
+      },
+      "artists": [
+        {
+          "name": "#Annyeong",
+          "url": "https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215741,
+      "name": "I live in my heart",
+      "url": "https://open.spotify.com/track/73Mwr1U5v0FofFkUsg3T8n"
     },
     {
       "album": {
@@ -91116,7 +91218,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 184200,
       "name": "In Love With You",
       "url": "https://open.spotify.com/track/2NV9q7Jr2jef81FNWLjvXK"
@@ -102286,7 +102388,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 168106,
       "name": "LEGGO",
       "url": "https://open.spotify.com/track/0Etk5PtxW6m3zDYR9Eb7W2"
@@ -109250,6 +109352,24 @@
       "duration_ms": 207893,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/6bM1AM7nvmkpFxUaH3eWk5"
+    },
+    {
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/5NTgQKgjw5lVvlyC6A3KWM"
+      },
+      "artists": [
+        {
+          "name": "SODI",
+          "url": "https://open.spotify.com/artist/6TPuCPv6OUuAw2svkvNWHv"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/4U2skUMy8XYVPVgskKNeej"
     },
     {
       "album": {
@@ -118362,7 +118482,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 149640,
       "name": "Memory of Us",
       "url": "https://open.spotify.com/track/6UkxVKbi1lyAyHefVbD7Ru"
@@ -121244,7 +121364,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 115452,
       "name": "Money Ain't (feat. jamesMacA6oi)",
       "url": "https://open.spotify.com/track/0XhJrTAHxlWSn5OvrefmnF"
@@ -124485,6 +124605,24 @@
     },
     {
       "album": {
+        "name": "My Dream is Monochrome",
+        "url": "https://open.spotify.com/album/3byU3VI4xQjUYeTZL3mySL"
+      },
+      "artists": [
+        {
+          "name": "byebyesea",
+          "url": "https://open.spotify.com/artist/6riFTYc983NGqLzQBW3UZK"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228615,
+      "name": "My Dream is Monochrome",
+      "url": "https://open.spotify.com/track/6QIf5p89yzY6m6MIndOU8I"
+    },
+    {
+      "album": {
         "name": "My Dream Is You",
         "url": "https://open.spotify.com/album/2NktEX0ZiLFaopHSknEFuO"
       },
@@ -126640,7 +126778,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 218666,
       "name": "NAGARE BOSHI",
       "url": "https://open.spotify.com/track/6TyYpGabpQ5IzRfpBBqdAz"
@@ -148700,7 +148838,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 245040,
       "name": "Reason (feat. Shin Yong Jae)",
       "url": "https://open.spotify.com/track/2RHYZkdbA7sBqVfmSZujzc"
@@ -149338,7 +149476,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 202560,
       "name": "Regret",
       "url": "https://open.spotify.com/track/7Do7RCLSRhaHnVvdqHFxLW"
@@ -152578,7 +152716,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 195505,
       "name": "Romantic Tutu",
       "url": "https://open.spotify.com/track/4X1o1aRdGEJSR3HmIQ6z71"
@@ -155362,6 +155500,24 @@
       "duration_ms": 203173,
       "name": "sandcastle",
       "url": "https://open.spotify.com/track/6orA1IgG7nqVJ5lOeRMNHQ"
+    },
+    {
+      "album": {
+        "name": "Sandcastle",
+        "url": "https://open.spotify.com/album/44d9XeTjrRTxeXIT7gpRLA"
+      },
+      "artists": [
+        {
+          "name": "Airman",
+          "url": "https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Sandcastle - Instrumental",
+      "url": "https://open.spotify.com/track/5xKUhGDSLPM7RxK7vXRLPv"
     },
     {
       "album": {
@@ -168490,7 +168646,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 220333,
       "name": "Stally",
       "url": "https://open.spotify.com/track/5csFh1NIAS27MSokl4snHf"
@@ -182271,6 +182427,24 @@
     },
     {
       "album": {
+        "name": "The Girl I Loved Back Then",
+        "url": "https://open.spotify.com/album/40l3ap1BpxGKzpw7jp6vh2"
+      },
+      "artists": [
+        {
+          "name": "Park Yeon",
+          "url": "https://open.spotify.com/artist/7FLSZxzIiUZlWc71MSQCg8"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210537,
+      "name": "The Girl I Loved Back Then",
+      "url": "https://open.spotify.com/track/0BLE1CP2olmOnaNb04LGIt"
+    },
+    {
+      "album": {
         "name": "The Girl Who Leapt Through Time",
         "url": "https://open.spotify.com/album/21ohpNi9Lgli1jJPdabpMp"
       },
@@ -186298,7 +186472,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 240400,
       "name": "This Isn't The End (with YUJU)",
       "url": "https://open.spotify.com/track/2e304fao2kLWLCmqU5iMcB"
@@ -188235,6 +188409,24 @@
     },
     {
       "album": {
+        "name": "TIP TOE",
+        "url": "https://open.spotify.com/album/3kPCOgirmmOhEGA6O2T3Te"
+      },
+      "artists": [
+        {
+          "name": "Candy Shop",
+          "url": "https://open.spotify.com/artist/47bUCJh3LXBeQtrTnWEwXn"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199320,
+      "name": "TIP TOE",
+      "url": "https://open.spotify.com/track/65QEXobLqddjn9u2BHAv0c"
+    },
+    {
+      "album": {
         "name": "Tip Toe",
         "url": "https://open.spotify.com/album/7BRoWF4rQC3lMseZyoogUv"
       },
@@ -188936,6 +189128,28 @@
       "duration_ms": 225000,
       "name": "To the sea",
       "url": "https://open.spotify.com/track/1923hlnoridwVAAuBbp42G"
+    },
+    {
+      "album": {
+        "name": "To the season we loved",
+        "url": "https://open.spotify.com/album/2PkWh1meEYy96QZGsN9nqq"
+      },
+      "artists": [
+        {
+          "name": "TONE",
+          "url": "https://open.spotify.com/artist/2R4B49CdrjImBVWuLYhsXR"
+        },
+        {
+          "name": "\ud669\ubcd1\ud76c",
+          "url": "https://open.spotify.com/artist/0SZrUpoXlqwV8Sg353qB6U"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203677,
+      "name": "To the season we loved (feat. hwang beoyng hee)",
+      "url": "https://open.spotify.com/track/3MPYSFhTSt4HC2jmEhiZ1B"
     },
     {
       "album": {
@@ -191116,7 +191330,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 244150,
       "name": "Trauma",
       "url": "https://open.spotify.com/track/7KE80Djfl8WR02D89E1hXS"
@@ -201387,6 +201601,24 @@
     },
     {
       "album": {
+        "name": "We'll be fine (Band Version)",
+        "url": "https://open.spotify.com/album/5rdUQsOIMry9jJt1Pk7WeV"
+      },
+      "artists": [
+        {
+          "name": "Neul",
+          "url": "https://open.spotify.com/artist/5rtRatj0wvn1xhL7WuFUJA"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198852,
+      "name": "We\u2032ll be fine (Band Version)",
+      "url": "https://open.spotify.com/track/5zEouLtErapLWkZjomopQX"
+    },
+    {
+      "album": {
         "name": "EXchange3, Pt. 6 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3JfC9YGcl15T6FUPMycQMP"
       },
@@ -204768,6 +205000,24 @@
       "duration_ms": 191853,
       "name": "WHISPER",
       "url": "https://open.spotify.com/track/52uklJhyhJbLvHrgkiqCaW"
+    },
+    {
+      "album": {
+        "name": "My Dearest Nemesis OST Part.5",
+        "url": "https://open.spotify.com/album/10mkyBqLkP5QB7YrkEcRmo"
+      },
+      "artists": [
+        {
+          "name": "Sondia",
+          "url": "https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231600,
+      "name": "Whispers to the Night",
+      "url": "https://open.spotify.com/track/2F7OhPMjt8Qg1zZyKzr7Ca"
     },
     {
       "album": {
@@ -211668,6 +211918,24 @@
       "duration_ms": 205906,
       "name": "You And Me And Everything",
       "url": "https://open.spotify.com/track/446uODF3odMHMaPwoCCNqf"
+    },
+    {
+      "album": {
+        "name": "You approach me like spring",
+        "url": "https://open.spotify.com/album/58k6KfISaCmmJu0rIfFpVL"
+      },
+      "artists": [
+        {
+          "name": "Han Kyung Il",
+          "url": "https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177416,
+      "name": "You approach me like spring",
+      "url": "https://open.spotify.com/track/6jKwq3xzwurtjnmAvqBvvC"
     },
     {
       "album": {
@@ -221238,6 +221506,28 @@
       "duration_ms": 209866,
       "name": "\uc0b0 \ub4e4 \ubc14\ub78c \uc232",
       "url": "https://open.spotify.com/track/3wUszQLU5mAQikODrHniEU"
+    },
+    {
+      "album": {
+        "name": "\uc0b0\ucc45",
+        "url": "https://open.spotify.com/album/2Ny0U3Q9xHyd643DCGtxBF"
+      },
+      "artists": [
+        {
+          "name": "INDOW",
+          "url": "https://open.spotify.com/artist/3dntKZ6Ou96WfB2EQ30Iwh"
+        },
+        {
+          "name": "sdy",
+          "url": "https://open.spotify.com/artist/2pLNWAWPJJwM2r2zfDinLZ"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "\uc0b0\ucc45 (feat. \uc2a4\ub514)",
+      "url": "https://open.spotify.com/track/4TIzsudO9k32a9ExR5Zobi"
     },
     {
       "album": {

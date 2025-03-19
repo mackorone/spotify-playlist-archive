@@ -4,7 +4,7 @@
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-109 songs - 7 hr 7 min
+110 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Dust in the Wind](https://open.spotify.com/track/0CrYxqgUeDqKB4CWMRiGJG) | [Pedro Javier González](https://open.spotify.com/artist/2Pj7GhoqwVMNz7Qck7V0XZ) | [Guitarra](https://open.spotify.com/album/2Ky0XoCjZXxzMsPNQxaWrj) | 3:20 | 2024-02-01 | 2024-04-19 |
 | [Dust in the Wind](https://open.spotify.com/track/5krgMALvJ9nXdJ5BF5blFN) | [Pedro Javier González](https://open.spotify.com/artist/2Pj7GhoqwVMNz7Qck7V0XZ) | [Guitarra](https://open.spotify.com/album/7GWMKie2BiYP0oQ1ScNFGD) | 3:20 | 2024-04-05 |  |
 | [Elenion](https://open.spotify.com/track/3516oXWeN9OdbHTUlCelOd) | [Ana Alcaide](https://open.spotify.com/artist/0kd6wWqc6KIbwHGZBGUdMN) | [Leyenda](https://open.spotify.com/album/3FlkqKCP2xJ9zcutzwZqAa) | 4:18 | 2023-09-01 | 2024-04-19 |
-| [Elenion](https://open.spotify.com/track/7kZMrcXykEDuSbzY8Cj15Q) | [Ana Alcaide](https://open.spotify.com/artist/0kd6wWqc6KIbwHGZBGUdMN) | [Leyenda](https://open.spotify.com/album/7vs2BPITlljDIE5RP5NFmd) | 4:18 | 2024-04-05 |  |
+| [Elenion](https://open.spotify.com/track/7kZMrcXykEDuSbzY8Cj15Q) | [Ana Alcaide](https://open.spotify.com/artist/0kd6wWqc6KIbwHGZBGUdMN) | [Leyenda](https://open.spotify.com/album/7vs2BPITlljDIE5RP5NFmd) | 4:18 | 2024-04-05 | 2025-03-19 |
 | [España, Op\. 165: No\. 2, Tango \(Transcr\. for Guitar by Andrés Segovia\) \- Live at the Fundación Juan March](https://open.spotify.com/track/7ec7NpnONAYDLF3O1WHIPh) | [Isaac Albéniz](https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp), [Ricardo Gallén](https://open.spotify.com/artist/1XlKgZWAWycE0gjpzMk4JT) | [Albéniz: España, Op\. 165: No\. 2, Tango](https://open.spotify.com/album/337JY60SklzcRsh9XSIoN9) | 2:45 | 2024-10-23 |  |
 | [Evening Embrace](https://open.spotify.com/track/2pvYHngjUT2Gg9hQtMUSjb) | [Johannes Linstead](https://open.spotify.com/artist/3bO8GsqYe5H4xTkcP5ZUZm) | [Mediterranea](https://open.spotify.com/album/6sxRxfaqxOLUq6YffLmoak) | 4:25 | 2023-09-01 | 2024-09-11 |
 | [Evening Embrace](https://open.spotify.com/track/2y3JlvkZk1pO1T8Yhl6uw9) | [Johannes Linstead](https://open.spotify.com/artist/3bO8GsqYe5H4xTkcP5ZUZm) | [Mediterranea](https://open.spotify.com/album/7pPwGFAjsWR8F8E1cRuoF4) | 4:25 | 2024-04-05 |  |
@@ -104,6 +104,7 @@
 | [Tarantas](https://open.spotify.com/track/4aPpZdPSokp6H9zMpJvzZA) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/4kKheS9UXOnll6Wz1fyyv9) | 2:33 | 2024-04-05 |  |
 | [The Endless Dance](https://open.spotify.com/track/1Kpydr7RXuFVFWbUDJp3sB) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Carter, Jason: Contemporary Spanish Guitar](https://open.spotify.com/album/1b89KybJIh8S51U48wdUjl) | 9:02 | 2023-09-01 | 2024-04-19 |
 | [The Endless Dance](https://open.spotify.com/track/5PjuqD0vCX5GhDX0POF1td) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Carter, Jason: Contemporary Spanish Guitar](https://open.spotify.com/album/0haIe7968D1EoweMZC4qrv) | 9:02 | 2024-04-05 |  |
+| [The Last Matador](https://open.spotify.com/track/3mQkFymDjaD18JmPt72odo) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [The Last Matador](https://open.spotify.com/album/2uGA86CeB6Z41yqdYOV9Bz) | 2:12 | 2025-03-18 |  |
 | [Torero](https://open.spotify.com/track/28wsuYdlvWeUDQCxJDbo5r) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Cuchama](https://open.spotify.com/album/4pVKGwZmlCJAj87KgN48KW) | 5:06 | 2024-02-01 | 2024-04-19 |
 | [Torero](https://open.spotify.com/track/24gx0KrSELx32x4rurTbEu) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Cuchama](https://open.spotify.com/album/1I7Vcy2FecSv04Tb2dlAPr) | 5:07 | 2024-04-05 |  |
 | [Torero](https://open.spotify.com/track/6Ql5ovfv38vALEkP00TMzJ) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Cuchama](https://open.spotify.com/album/4l6MESQt1Y9UVmF0ugDOOI) | 5:07 | 2023-09-01 | 2024-02-03 |

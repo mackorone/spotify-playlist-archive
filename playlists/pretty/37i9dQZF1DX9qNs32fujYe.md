@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Lacuna Coil
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,311,128 likes - 200 songs - 14 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,311,407 likes - 200 songs - 14 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

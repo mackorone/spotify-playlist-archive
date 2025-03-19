@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,311 likes - 40 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,315 likes - 40 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 11 | [Control](https://open.spotify.com/track/1nJIYo1g5V4aOnglr7qhnj) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 3:43 |
 | 12 | [Pulmonary Archery](https://open.spotify.com/track/3OqHyWQTYL7qqni8eqbghB) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 3:22 |
 | 13 | [Blue Spade](https://open.spotify.com/track/4CDZqDBSTDHzmQKE46wCTq) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 5:31 |
-| 14 | [We Are the End](https://open.spotify.com/track/2xSXidQMWwJOhH0x22uePn) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl) | 3:46 |
+| 14 | [Rough Hands](https://open.spotify.com/track/1qWWnRhkr50brRpXpThodc) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/1707YW8weHIje0KhkNogkg) | 5:30 |
 | 15 | [Side Walk When She Walks](https://open.spotify.com/track/0ZQtCXF4oA6vz4W7A9iDT0) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 4:22 |
 | 16 | [Waterwings \(And Other Poolside Fashion Faux Pas\)](https://open.spotify.com/track/4Hcv9D5PkjFUvJqDme4CeB) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 2:38 |
 | 17 | [Familiar Drugs](https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Familiar Drugs](https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B) | 4:18 |
-| 18 | [Rough Hands](https://open.spotify.com/track/1qWWnRhkr50brRpXpThodc) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/1707YW8weHIje0KhkNogkg) | 5:30 |
+| 18 | [We Are the End](https://open.spotify.com/track/2xSXidQMWwJOhH0x22uePn) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl) | 3:46 |
 | 19 | [Happiness by the Kilowatt](https://open.spotify.com/track/1WkBlSjsAy200erfndrRU5) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 5:11 |
 | 20 | [Little Girls Pointing and Laughing](https://open.spotify.com/track/5b0ZFCqgkYc3XdA4cbjT2S) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 4:52 |
 | 21 | [The Northern](https://open.spotify.com/track/2VPv0LJafL4Gdp67ZWPBDV) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 4:28 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 39 | [The Dead Heart](https://open.spotify.com/track/1LRUSV7dc7sfeLKQx0szKJ) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Aussie Tour 7inch](https://open.spotify.com/album/63StEaSHnTVqtGy6dwBqnB) | 4:40 |
 | 40 | [Accept Crime](https://open.spotify.com/track/5jPB5Pgus7EhKidYkoCjcl) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Death Letter](https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW) | 3:48 |
 
-Snapshot ID: `Z9YUgAAAAABifHDpTc1aaVusNS6pQR/u`
+Snapshot ID: `Z9dmAAAAAAAR1jwrge1RJSueDuLuX+01`

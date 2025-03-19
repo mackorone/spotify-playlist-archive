@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-547 songs - 23 hr 9 min
+549 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Dream of Green](https://open.spotify.com/track/4lvb5gc7WFy1tUXqoFYn3m) | [Ken Verheecke](https://open.spotify.com/artist/2zRXC9OjmjzJYeGJ76irbl) | [A Dream of Green](https://open.spotify.com/album/0JYAv81NOJxsxpVnkJKRgo) | 2:01 | 2022-06-17 | 2023-09-08 |
 | [A Dream Told Me It's Time](https://open.spotify.com/track/71XCoL2dNlYWDV3GAYl8a3) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [A Dream Told Me It's Time](https://open.spotify.com/album/4Gf9hVEVk47INwB8Yp1sSH) | 3:00 | 2023-03-10 | 2023-06-23 |
 | [A Few Reasons](https://open.spotify.com/track/5f47RLk3HgmaCBrhI9Ibrf) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [A Few Reasons](https://open.spotify.com/album/6NAR2psL2E6ViUIZgHurEZ) | 2:31 | 2022-06-17 | 2025-03-12 |
+| [A Pause in Time](https://open.spotify.com/track/0JsrO43QxoH9jVIZ5o0kZQ) | [Ivan Pirman](https://open.spotify.com/artist/76BMzkMBbRiZ6WuWDOUPNg) | [A Pause in Time](https://open.spotify.com/album/3SourEMhZgyUDEkb9uMaE3) | 2:22 | 2025-03-18 |  |
 | [A place to go](https://open.spotify.com/track/7oFm6C4wxkkVM1t1Via4mu) | [KORIBA](https://open.spotify.com/artist/0ttPJjx1cSyAn4CNVPNpEJ) | [Lonely Trip](https://open.spotify.com/album/2ezeL6Yi22qbpZnPgjU9nf) | 2:15 | 2023-03-24 | 2023-06-23 |
 | [A Quiet Haven](https://open.spotify.com/track/4OraVyKuW65iz5tUgfN6a0) | [Poetics of Memory](https://open.spotify.com/artist/7z2N8PTwv87AKvjJ7BYknl) | [A Quiet Haven](https://open.spotify.com/album/4AmSXmEKrVH7IJUPuSGks0) | 2:43 | 2022-06-17 | 2023-10-13 |
 | [A Quiet Message](https://open.spotify.com/track/71cuAghXvaIQVBKGRwPDcK) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [A Quiet Message](https://open.spotify.com/album/2oXytMuBdpnQjKnqnSgqdT) | 2:45 | 2023-04-28 | 2023-06-23 |
@@ -506,6 +507,7 @@
 | [Traveling Sunset](https://open.spotify.com/track/5yf5lrd0n9SUGyrEDoGb1I) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Traveling Sunset](https://open.spotify.com/album/63vO3TWmFFBV1nNhNhbsPR) | 2:13 | 2022-10-14 | 2023-09-08 |
 | [Triste](https://open.spotify.com/track/1sz5nK8klruuA3wyUilEKB) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Triste](https://open.spotify.com/album/7FGCrHscT6y5OwLDIYKj3O) | 4:03 | 2022-07-15 | 2024-04-20 |
 | [Tropea](https://open.spotify.com/track/2KjlaQdk4M6h7WPHCCOsjk) | [Giovanni Benatti](https://open.spotify.com/artist/6C9bWJOawsAAYTfz5xbrkq) | [Tropea](https://open.spotify.com/album/61us2aGdGHCB7SOlJe7Qsj) | 1:57 | 2023-03-24 | 2023-06-23 |
+| [Turning Right](https://open.spotify.com/track/2ZVNMfJ2Ncn3t6tyH7WRtF) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Turning Right](https://open.spotify.com/album/68ySkYxH2cExnjDC6WUD88) | 2:10 | 2025-03-18 |  |
 | [Tuscany](https://open.spotify.com/track/30Oh4ng8nkRQVhTtJEFI5I) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Tuscany](https://open.spotify.com/album/6HOv6lf3yleb4aJr9H76dw) | 2:04 | 2022-11-25 | 2024-05-25 |
 | [Two Years of Solitude](https://open.spotify.com/track/5xjHdFsOlRgdnu6RJTqpwV) | [Dawa Sherpa](https://open.spotify.com/artist/16QnPlBSrFOGlH44k9L7nN) | [Unsung Heroes](https://open.spotify.com/album/7htqaGMhM1r263JYtSEgiQ) | 2:25 | 2022-06-17 | 2023-09-08 |
 | [Una Nueva Frontera](https://open.spotify.com/track/6pMVwNAVEW1zABrAAKY5sD) | [Loulou Metellus](https://open.spotify.com/artist/2A2AbvIq2SmTFLWbzqtoLX) | [Una Nueva Frontera](https://open.spotify.com/album/7BXWsrOKF9NG5HNerJ8MpB) | 1:57 | 2022-07-01 | 2023-09-14 |

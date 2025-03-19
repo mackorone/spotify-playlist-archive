@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX803vyzYHRCn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/iammilanrouge/">Milan Harris</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,979 likes - 49 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,988 likes - 49 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX803vyzYHRCn.md) - [plain]
 | 27 | [Exchange](https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:14 |
 | 28 | [Already Won \(feat\. Lil Durk\)](https://open.spotify.com/track/2wOnrN7fkzV4NsLqym2C6O) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 3:32 |
 | 29 | [Run This Town](https://open.spotify.com/track/5zz33Ev3mwKnpXI9IZ3a8K) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Blueprint 3](https://open.spotify.com/album/1g3Ek21j6qDWt2CtravhrX) | 4:27 |
-| 30 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/7g7ZSLwsRWWnkuQ2s3Iq8X) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/2RhQb6lyiOVIH0IV1KVmLu) | 3:09 |
+| 30 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/7g7ZSLwsRWWnkuQ2s3Iq8X) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/2RhQb6lyiOVIH0IV1KVmLu) | 3:09 |
 | 31 | [Don't 4get](https://open.spotify.com/track/6955Y2FCvRBBXl06Qq0fh8) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 3:18 |
 | 32 | [Summer With Miami](https://open.spotify.com/track/17HCeeGuZnh6pE53F128JI) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [Harlem \- Diary Of A Summer](https://open.spotify.com/album/5q9MWXFGe9ynNzn0kBgma5) | 3:26 |
 | 33 | [I CAN HAVE IT ALL \(feat\. Bryson Tiller, H.E.R\. & Meek Mill\)](https://open.spotify.com/track/1WTv76ouGCJZ0Rhz15YkIC) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 4:30 |

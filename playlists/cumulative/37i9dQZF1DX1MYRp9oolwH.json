@@ -2303,6 +2303,32 @@
     },
     {
       "album": {
+        "name": "Kalalokooda (From \"Mana Iddari Premakatha\")",
+        "url": "https://open.spotify.com/album/0Rkcscpp4vtbaYVAkVW6BC"
+      },
+      "artists": [
+        {
+          "name": "Maaruthi",
+          "url": "https://open.spotify.com/artist/4jFRwFXYT4HqtsshJZ8ERY"
+        },
+        {
+          "name": "Subhash Siripelly",
+          "url": "https://open.spotify.com/artist/790UazcRswvzJwHnJSBn78"
+        },
+        {
+          "name": "Riyan",
+          "url": "https://open.spotify.com/artist/4eVstfBeT3tvBTeuCIFVrT"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282282,
+      "name": "Kalalokooda - From \"Mana Iddari Premakatha\"",
+      "url": "https://open.spotify.com/track/0h7cS91xtRaaRzd43nvxt4"
+    },
+    {
+      "album": {
         "name": "Calling Sahasra",
         "url": "https://open.spotify.com/album/7z8mz9k3KufJtJ7Iep32je"
       },
@@ -3310,7 +3336,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 285326,
       "name": "Meenu",
       "url": "https://open.spotify.com/track/3luKXJpyD1E6q8XXoe3qJv"

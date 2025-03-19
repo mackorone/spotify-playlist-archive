@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 73858,
+  "num_followers": 73863,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAAChBKmGAgTnnIhtjjqlSaaN",
+  "snapshot_id": "Z9dmAAAAAAAuXn9kNA0y7+vCPHCVAbAg",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "cut! (feat. Julia Michaels)",
+        "url": "https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 128164,
+      "name": "cut! (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Chain (From the Motion Picture Soundtrack \"The Kitchen\")",
         "url": "https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 291533,
       "name": "The Chain - From the Motion Picture Soundtrack \"The Kitchen\"",
       "url": "https://open.spotify.com/track/47yfbuX2JXVg0STjXEGAps"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "cut! (feat. Julia Michaels)",
-        "url": "https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 128164,
-      "name": "cut! (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO"
     },
     {
       "added_at": null,
@@ -971,26 +971,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Look At Us Now (Honeycomb)",
-        "url": "https://open.spotify.com/album/2S7QuTmHNJKy4HIebRADEx"
+        "name": "Intermission",
+        "url": "https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c"
       },
       "artists": [
         {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        },
-        {
-          "name": "Daisy Jones & The Six",
-          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
         }
       ],
-      "duration_ms": 232706,
-      "name": "Look At Us Now (Honeycomb)",
-      "url": "https://open.spotify.com/track/15k7Cy2QyZYV9getS22KXI"
+      "duration_ms": 169826,
+      "name": "this is how a woman leaves",
+      "url": "https://open.spotify.com/track/73gDqerzfaAMhJEbMHgq2E"
     },
     {
       "added_at": null,
@@ -1011,18 +1003,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Intermission",
-        "url": "https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c"
+        "name": "Look At Us Now (Honeycomb)",
+        "url": "https://open.spotify.com/album/2S7QuTmHNJKy4HIebRADEx"
       },
       "artists": [
         {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        },
+        {
+          "name": "Daisy Jones & The Six",
+          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
         }
       ],
-      "duration_ms": 169826,
-      "name": "this is how a woman leaves",
-      "url": "https://open.spotify.com/track/73gDqerzfaAMhJEbMHgq2E"
+      "duration_ms": 232706,
+      "name": "Look At Us Now (Honeycomb)",
+      "url": "https://open.spotify.com/track/15k7Cy2QyZYV9getS22KXI"
     }
   ],
   "unique_name": "This Is Maren Morris",

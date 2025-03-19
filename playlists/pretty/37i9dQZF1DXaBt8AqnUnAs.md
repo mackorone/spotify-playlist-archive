@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,331 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,348 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 8 | [INOCENTE](https://open.spotify.com/track/0oIl9QzWrp7ccEhcyRGArw) | [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq) | [INOCENTE](https://open.spotify.com/album/7jTFuAWHhPQqRXIZdljYEn) | 2:19 |
 | 9 | [Tempo](https://open.spotify.com/track/5h2umbNHTvGiT1gE4tTFCr) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Tempo](https://open.spotify.com/album/7opYgdcsTkMNxFNHWZueO8) | 2:53 |
 | 10 | [Paladar Infantil](https://open.spotify.com/track/2CzIoSG4eDkstyTiXzjryy) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Paladar Infantil](https://open.spotify.com/album/6y1V62Msb6V5oiVJkYa9Dx) | 2:23 |
-| 11 | [Despedida](https://open.spotify.com/track/6oFlNVvlrUghNPE1C4JKli) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Despedida](https://open.spotify.com/album/30jgZDcMKM7vqe40aOQB9u) | 3:56 |
+| 11 | [Despedida](https://open.spotify.com/track/6oFlNVvlrUghNPE1C4JKli) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Despedida](https://open.spotify.com/album/30jgZDcMKM7vqe40aOQB9u) | 3:56 |
 | 12 | [Minha Falta](https://open.spotify.com/track/5TV6sqYi6e7xKHGg7v9v6L) | [Lelo](https://open.spotify.com/artist/7aIQvpghsvNZpGCSn9XAl6), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Minha Falta](https://open.spotify.com/album/5pnsxj7heXToQvMrr8CpOw) | 2:24 |
 | 13 | [Talvez Não Seja](https://open.spotify.com/track/5mtEGUGPJwDHgo92pHY3Tu) | [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Talvez Não Seja](https://open.spotify.com/album/7FZk0HuDvDv6cBO8HC5AHQ) | 2:10 |
 | 14 | [Quarta de cinzas](https://open.spotify.com/track/4tJklWo2MaSlxSQQlwX1Ec) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Dos Mlk](https://open.spotify.com/artist/6dWDdfqdDSVt4BltsyDBqH) | [Até o Próximo Carnaval Vol.2](https://open.spotify.com/album/7fSiapRFBXxlbVTjJxAe8X) | 2:43 |

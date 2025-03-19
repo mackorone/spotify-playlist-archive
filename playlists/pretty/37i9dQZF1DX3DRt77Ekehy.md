@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DRt77Ekehy.md) - [plain]
 
 > A positive Solfeggio Frequency, used by many for meditation, manifestation and healing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,258 likes - 190 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,420 likes - 190 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Luther Vandross. The essential tracks, all in one playlist.",
-  "num_followers": 130604,
+  "num_followers": 130638,
   "original_name": "This Is Luther Vandross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAAAQ4TNjSi7T+9MAt9VVVIDp",
+  "snapshot_id": "Z9dmAAAAAAAAx0YQS9qQrxa1Kw6dHyqj",
   "tracks": [
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me The Reason",
-        "url": "https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj"
+        "name": "Any Love",
+        "url": "https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 285600,
-      "name": "Give Me the Reason",
-      "url": "https://open.spotify.com/track/4jwj7WcGHwNpG0ovatCbST"
+      "duration_ms": 438466,
+      "name": "Love Won't Let Me Wait",
+      "url": "https://open.spotify.com/track/0j8bk2BNaEj0PYcNFCGwLb"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Any Love",
-        "url": "https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC"
+        "name": "Give Me The Reason",
+        "url": "https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 438466,
-      "name": "Love Won't Let Me Wait",
-      "url": "https://open.spotify.com/track/0j8bk2BNaEj0PYcNFCGwLb"
+      "duration_ms": 285600,
+      "name": "Give Me the Reason",
+      "url": "https://open.spotify.com/track/4jwj7WcGHwNpG0ovatCbST"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me The Reason",
-        "url": "https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 373800,
-      "name": "Because It's Really Love",
-      "url": "https://open.spotify.com/track/4AAzip5bCUOhmDAu4eeRL4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Your Secret Love",
         "url": "https://open.spotify.com/album/3F4E8x0AIxDFBFjFlLYPeN"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 335480,
       "name": "I Can Make It Better",
       "url": "https://open.spotify.com/track/70NmePXQxL3b688VuLSFae"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Me The Reason",
+        "url": "https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 373800,
+      "name": "Because It's Really Love",
+      "url": "https://open.spotify.com/track/4AAzip5bCUOhmDAu4eeRL4"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 
 > Where your new favourite bands are discovered\. Cover: florence road
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,248 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,272 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

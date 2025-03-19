@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/6560RgzahjBUplHfzm454m?si=q98YaAI5Scuaa74raXDFPQ">Chipego</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF?si=aZWAGFHMTIipljZtJuRcjw">Kunmie</a>\. Artwork: Isu Kim.
 
-1,255 songs - 2 day 14 hr 46 min
+1,256 songs - 2 day 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Ara'dugbo](https://open.spotify.com/track/3O4DCs31QwwkSZu7iiyT0L) | [Lawrenzo](https://open.spotify.com/artist/5hCvw8WSOd30fAXwEiN73i), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Ara'dugbo](https://open.spotify.com/album/3ytprv7m4KzkW7Jgy1WleT) | 3:06 | 2022-09-30 | 2022-10-29 |
 | [Arike](https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Arike](https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw) | 2:04 | 2025-03-05 |  |
 | [Arise](https://open.spotify.com/track/3PXVIAoWdQKt18DojyEWQI) | [Kaptain](https://open.spotify.com/artist/7ML0FG7erVlQvCsfktO4EH), [Gerian](https://open.spotify.com/artist/07DL9OVC5jPi0d29RsF7xq) | [Addicted / Arise](https://open.spotify.com/album/4ttoGuPlX5HthFo7PXrq3x) | 2:36 | 2024-03-06 | 2024-04-03 |
+| [Asere](https://open.spotify.com/track/5FAaOowtxu31DxJB93KOq3) | [Koko Koseso](https://open.spotify.com/artist/7FvgYlCKJSEIMYligM774G) | [A Song for My Miracle Baby](https://open.spotify.com/album/6VcBPDfWOJiX1CcKR7NCp2) | 2:28 | 2025-03-18 |  |
 | [Ashawo \- Remix](https://open.spotify.com/track/3H8LjVVEAp2yO7IerkhXU7) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [Black & White \(Before the Tape\)](https://open.spotify.com/album/7BjZT0pTYpt8BxnpZw7bhl) | 2:33 | 2024-06-04 | 2024-07-03 |
 | [Assignment](https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y) | [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [DJ FortuneDJ](https://open.spotify.com/artist/3H1ujqsrtJXeYDoJ2Ar9I9) | [Assignment](https://open.spotify.com/album/2CnjO9KA45Cu5OTtshEr0D) | 2:17 | 2023-03-05 | 2023-03-10 |
 | [ASSUMPTIONS](https://open.spotify.com/track/5LbwNe7yhEb341wLcvCnh6) | [Sipho the Gift](https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8), [PDOT O](https://open.spotify.com/artist/7KAvy18LeTZXBZhYxfqN3l) | [ASSUMPTIONS](https://open.spotify.com/album/4nMwIUlOAHwqIDVaMgMv1C) | 3:15 | 2024-09-11 | 2024-10-05 |

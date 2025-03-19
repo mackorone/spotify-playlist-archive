@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 196286,
+  "num_followers": 196336,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAADC6lCLDht8gGxZ/oQ7DV/X",
+  "snapshot_id": "Z9dmAAAAAAC1mGlz3xToo4Ad5IL8zelh",
   "tracks": [
     {
       "added_at": null,
@@ -223,26 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solita",
-        "url": "https://open.spotify.com/album/4jnbjRmfIxT6M5ECYpXizH"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Solita",
-      "url": "https://open.spotify.com/track/5bZ1FNzTSeFOg58a4k00iQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Muero",
         "url": "https://open.spotify.com/album/0S0AgQdXnkT47Ig8ADDjbF"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 216000,
       "name": "Pa' Andar Risue\u00f1o",
       "url": "https://open.spotify.com/track/4PXt1De2NogcDlcDkf9jJa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solita",
+        "url": "https://open.spotify.com/album/4jnbjRmfIxT6M5ECYpXizH"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Solita",
+      "url": "https://open.spotify.com/track/5bZ1FNzTSeFOg58a4k00iQ"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ahora Es Diferente",
+        "url": "https://open.spotify.com/album/6RLa16uDQO8vSQ3VN9RWo6"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 279642,
+      "name": "Ahora Es Diferente",
+      "url": "https://open.spotify.com/track/6tST0LckVOXThIgappR0qk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Necesidad",
         "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 227000,
       "name": "Est\u00e1 Caliente",
       "url": "https://open.spotify.com/track/40q3AqR9WiKOTlA79Iyv9h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ahora Es Diferente",
-        "url": "https://open.spotify.com/album/6RLa16uDQO8vSQ3VN9RWo6"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 279642,
-      "name": "Ahora Es Diferente",
-      "url": "https://open.spotify.com/track/6tST0LckVOXThIgappR0qk"
     },
     {
       "added_at": null,
@@ -923,34 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo x Nada",
-        "url": "https://open.spotify.com/album/7CfBFVgvd2aEXHHYWbgiJe"
-      },
-      "artists": [
-        {
-          "name": "El Pinche Mara",
-          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 374571,
-      "name": "Todo x Nada",
-      "url": "https://open.spotify.com/track/2VHgL82Mtbso1VoMikWkS7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nada Es Perfecto",
         "url": "https://open.spotify.com/album/0KjxP6TB25u8qxDLfnEiJq"
       },
@@ -983,6 +955,34 @@
       "duration_ms": 250285,
       "name": "No Me Pregunten",
       "url": "https://open.spotify.com/track/0FO90XkPlzhUyoU5wysmyd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo x Nada",
+        "url": "https://open.spotify.com/album/7CfBFVgvd2aEXHHYWbgiJe"
+      },
+      "artists": [
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 374571,
+      "name": "Todo x Nada",
+      "url": "https://open.spotify.com/track/2VHgL82Mtbso1VoMikWkS7"
     },
     {
       "added_at": null,

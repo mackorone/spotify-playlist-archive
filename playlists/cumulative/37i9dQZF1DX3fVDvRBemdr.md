@@ -2,7 +2,7 @@
 
 ### [Liever Hollands](https://open.spotify.com/playlist/37i9dQZF1DX3fVDvRBemdr)
 
-> Wekelijkse update met Hollands en volks\. Cover: Frank van Etten
+> Wekelijkse update met Hollands en volks\. Cover: Raymon Hermans
 
 262 songs - 12 hr 53 min
 

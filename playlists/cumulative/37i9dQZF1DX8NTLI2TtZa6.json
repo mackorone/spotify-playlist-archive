@@ -9155,6 +9155,24 @@
     },
     {
       "album": {
+        "name": "Token",
+        "url": "https://open.spotify.com/album/4uL1RDBqy4Ji6D8UaEUwlE"
+      },
+      "artists": [
+        {
+          "name": "Farsj\u00f6n",
+          "url": "https://open.spotify.com/artist/1JVGbsUCqcTgrQP6qc3LEe"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196196,
+      "name": "Token",
+      "url": "https://open.spotify.com/track/0hB3bysyufVO1pUCj1rYwS"
+    },
+    {
+      "album": {
         "name": "Shooting star",
         "url": "https://open.spotify.com/album/6cHrmMSz6fxBy4SUShsxCK"
       },

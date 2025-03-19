@@ -5384,7 +5384,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 206000,
       "name": "Big Daddy Jok",
       "url": "https://open.spotify.com/track/4rxkcSqMbOaoPIyofEUBZ8"
@@ -7376,7 +7376,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -10320,7 +10320,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-18",
+      "date_removed": null,
       "duration_ms": 224136,
       "name": "Cry For Me",
       "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
@@ -11750,6 +11750,24 @@
     {
       "album": {
         "name": "LE NORD SE SOUVIENT : L'ODYSS\u00c9E",
+        "url": "https://open.spotify.com/album/1zNMg3ouAmuzATO21HkNa3"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "DIANA",
+      "url": "https://open.spotify.com/track/0e8k68O1K7MlttnuUjjS7f"
+    },
+    {
+      "album": {
+        "name": "LE NORD SE SOUVIENT : L'ODYSS\u00c9E",
         "url": "https://open.spotify.com/album/7athqoshLvzm5ylV8mVzwb"
       },
       "artists": [
@@ -11760,7 +11778,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 139200,
       "name": "DIANA",
       "url": "https://open.spotify.com/track/6lGSvbcSYpjgfsCaUc7Djo"
@@ -14358,7 +14376,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 163472,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/1pqKCnjkTBcAX6NyzSDahf"
@@ -14376,7 +14394,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 163472,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/4FwLPPSDgNfDKyVBUYF5LH"
@@ -19858,7 +19876,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 172600,
       "name": "Jerrican (feat. La Mano 1.9)",
       "url": "https://open.spotify.com/track/1Rn5zyHq4ocm7L5LSplVAB"
@@ -24834,7 +24852,7 @@
       ],
       "date_added": "2025-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-18",
+      "date_removed": null,
       "duration_ms": 189786,
       "name": "M'envoler",
       "url": "https://open.spotify.com/track/5tjcfD27bNYQiYObzIo9Ig"
@@ -25742,7 +25760,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 180195,
       "name": "maman",
       "url": "https://open.spotify.com/track/1FsIoCTWHx6lB0f3PgYdtz"
@@ -30022,10 +30040,28 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 135257,
       "name": "OHMA TOKITA",
       "url": "https://open.spotify.com/track/0M3oxmcIljJfjIPhpEwcyH"
+    },
+    {
+      "album": {
+        "name": "LE NORD SE SOUVIENT",
+        "url": "https://open.spotify.com/album/0T5ku9aLMwF95KFYViOY6d"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135257,
+      "name": "OHMA TOKITA",
+      "url": "https://open.spotify.com/track/1wIYhnlxhlumfaRBPtZmRL"
     },
     {
       "album": {
@@ -37386,10 +37422,28 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 165978,
       "name": "SOIS PAS TIMIDE",
       "url": "https://open.spotify.com/track/0yyFAbTlOk7DFhh6RSug9S"
+    },
+    {
+      "album": {
+        "name": "LE NORD SE SOUVIENT",
+        "url": "https://open.spotify.com/album/0T5ku9aLMwF95KFYViOY6d"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165978,
+      "name": "SOIS PAS TIMIDE",
+      "url": "https://open.spotify.com/track/1sccu8ze6ETRiNbNH9pj5N"
     },
     {
       "album": {
@@ -37820,6 +37874,28 @@
     {
       "album": {
         "name": "LE NORD SE SOUVIENT",
+        "url": "https://open.spotify.com/album/0T5ku9aLMwF95KFYViOY6d"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188818,
+      "name": "SPIDER",
+      "url": "https://open.spotify.com/track/4oVMLxxYpQLYx8gx4JjuuY"
+    },
+    {
+      "album": {
+        "name": "LE NORD SE SOUVIENT",
         "url": "https://open.spotify.com/album/55DUcp4pTvwD4VzUnWaXfw"
       },
       "artists": [
@@ -37834,7 +37910,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 188818,
       "name": "SPIDER",
       "url": "https://open.spotify.com/track/5NWpquAje6NyvxD57oXNu6"

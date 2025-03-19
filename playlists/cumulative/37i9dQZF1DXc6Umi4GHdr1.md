@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-416 songs - 18 hr 28 min
+418 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Midnight Rain](https://open.spotify.com/track/2O0NykJV0XOkbHAsedN21s) | [Zion Houston](https://open.spotify.com/artist/3RRD1mgaBFYXz3NFGiuDGj) | [Midnight Rain](https://open.spotify.com/album/1IV7ToivCrCyOBoQMbKGok) | 2:09 | 2022-12-09 | 2023-10-13 |
 | [Midnight Sun](https://open.spotify.com/track/49np3roHmTZhiHhO4P2suj) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Midnight Sun](https://open.spotify.com/album/4Vghw5bCOZnBkD4W1Mr9I9) | 1:50 | 2022-05-27 | 2022-07-22 |
 | [Midsommarblomster](https://open.spotify.com/track/1m5RLwW0Bkmkb5yeCn33du) | [Astrid Everdahl](https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz) | [Midsommarblomster](https://open.spotify.com/album/61xdS2VlEuTV5Qy0VvoPCv) | 3:07 | 2022-06-10 | 2022-07-29 |
+| [Miles Away](https://open.spotify.com/track/5WOTsUHvAlPZ8sHmH1WQjN) | [Taylor Owen](https://open.spotify.com/artist/6ZjCGd6OJIo6RTmtY8Kz0v) | [Miles Away](https://open.spotify.com/album/4VxDO1Z1SjVv8mi6Yl0wFX) | 3:16 | 2025-03-18 |  |
 | [Minore Sostenuto, Op\. 107](https://open.spotify.com/track/7xyK7jldqjNERe6RP0DWuZ) | [Mauro Giuliani](https://open.spotify.com/artist/4qXtGiJP51BsAIi4bJNeir), [Bill Russell](https://open.spotify.com/artist/7ilKUFoBWbdNujwb6t0PKe) | [Minore Sostenuto, Op\. 107](https://open.spotify.com/album/3AegI4cYed4MJCAF39DqQC) | 3:16 | 2022-11-18 | 2023-05-27 |
 | [Misspent Life](https://open.spotify.com/track/3ktxKAEJ3WvNezNl00O041) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Misspent Life](https://open.spotify.com/album/4dFszxldPJd0l36xuAXPu2) | 2:48 | 2022-12-09 | 2024-07-18 |
 | [Moments](https://open.spotify.com/track/1GgytkMdKCMIhzDcPHTJMX) | [Caylee Luna](https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8) | [Moments](https://open.spotify.com/album/0841nT5RLsINf4vERrhMrB) | 2:19 | 2024-01-12 |  |
@@ -240,6 +241,7 @@
 | [No Puedo Evitarlo](https://open.spotify.com/track/1NxCJMENnTIPWQYNx1AdVu) | [Aurelia](https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA) | [No Puedo Evitarlo](https://open.spotify.com/album/1i0nstc0LWCSvMCNczk1e6) | 2:37 | 2024-03-08 | 2024-05-10 |
 | [No Worries](https://open.spotify.com/track/2yBaIXKjsNGxGFlaqob4qI) | [Oliver Bade](https://open.spotify.com/artist/2W1nq0Ox5T3BshpYbjxjCj) | [No Worries](https://open.spotify.com/album/6ARmrbdkKDqXtvDy9p8ktK) | 1:50 | 2023-04-28 | 2023-08-26 |
 | [Nocturne Op\. 4 No\. 2](https://open.spotify.com/track/4iK7z42CWaijzImqMHMlwY) | [Pacific Strings](https://open.spotify.com/artist/5rMCidkAPpXFooZbVUrbuZ) | [Nocturne Op\. 4 No\. 2](https://open.spotify.com/album/4WadMNopzoXjhz6T4IHq7l) | 2:17 | 2022-11-18 | 2023-05-27 |
+| [Nordic Glow](https://open.spotify.com/track/58yhvahn8dxalqdlfUjOjR) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [Nordic Glow](https://open.spotify.com/album/28BWSUfI8JyxRF1ekYu1rX) | 2:17 | 2025-03-18 |  |
 | [Northern Lights](https://open.spotify.com/track/2KBsor7M5dzpNzOGTGEzvf) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Northern Lights](https://open.spotify.com/album/6Is1SWxtKzl1oHvNV81G8L) | 2:14 | 2024-08-20 |  |
 | [Now's Not The Time](https://open.spotify.com/track/1DC5UfKYnUeMTQaKscS46L) | [Gabriel Sellier](https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ) | [Now's Not The Time](https://open.spotify.com/album/1WaKJvnkORcs3oIvRErCBt) | 2:58 | 2024-03-08 | 2024-05-10 |
 | [Of Late](https://open.spotify.com/track/4evlwCXiSNsnuaFwWuHXge) | [Isabella Molinero](https://open.spotify.com/artist/37C7aJnXB81MAsj0UqX4PV) | [Of Late](https://open.spotify.com/album/3zSOTg5EL4xTzLjYJf3ETP) | 2:04 | 2022-04-22 | 2023-05-27 |

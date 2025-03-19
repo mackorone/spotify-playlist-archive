@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 
 > This is Pedro Capó\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,967 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,974 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 41 | [La Sábana y los Pies](https://open.spotify.com/track/2dO6OrbCT0eBuiExwfo6KZ) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [MUNAY](https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8) | 3:06 |
 | 42 | [Jardín](https://open.spotify.com/track/6SpEFYmSZQJGuyL8tiyhnZ) | [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mis No Lugares](https://open.spotify.com/album/5UTVOml5TfH7wUeCkqxM8k) | 2:58 |
 | 43 | [Libre](https://open.spotify.com/track/4kmeo6vgaOwksRN95HgY9E) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Aquila](https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI) | 3:58 |
-| 44 | [Gracias \- Remix](https://open.spotify.com/track/3EPkYtHqRXZAxE9K7xxC2W) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Gracias \(Remix\)](https://open.spotify.com/album/7DIEwl5kON89D6kXzPSZwB) | 4:13 |
+| 44 | [Pagamento](https://open.spotify.com/track/0FzATyAkvGkWdR6Rp0lN2x) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Cumbiana II](https://open.spotify.com/album/4fscMZmg0NKVmgDDDE6mA6) | 3:13 |
 | 45 | [Bandera Blanca](https://open.spotify.com/track/3NNR3dPoW2B0M8HEM66TEo) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [MUNAY](https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8) | 3:12 |
-| 46 | [Pagamento](https://open.spotify.com/track/0FzATyAkvGkWdR6Rp0lN2x) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Cumbiana II](https://open.spotify.com/album/4fscMZmg0NKVmgDDDE6mA6) | 3:13 |
+| 46 | [Gracias \- Remix](https://open.spotify.com/track/3EPkYtHqRXZAxE9K7xxC2W) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Gracias \(Remix\)](https://open.spotify.com/album/7DIEwl5kON89D6kXzPSZwB) | 4:13 |
 | 47 | [Qué Fuimos \(feat\. Matisse\)](https://open.spotify.com/track/5vRwOK31sTh80qJAZeP1Ox) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Aquila](https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI) | 3:29 |
-| 48 | [Duele Amarte Así \(feat\. Pedro Capó\)](https://open.spotify.com/track/3NKeZuT6hzbC6a5cJ6F5te) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Por Tu Bien](https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr) | 3:48 |
-| 49 | [El Aprendiz \(with Pedro Capó\) \- En Vivo Desde Guanajuato](https://open.spotify.com/track/6wC2vAyhQo40HeENRI23aq) | [Samo](https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Me Quito el Sombrero \(En Vivo Desde Guanajuato\)](https://open.spotify.com/album/7cT5blE7IUCgqb20TzbQiJ) | 4:23 |
+| 48 | [El Aprendiz \(with Pedro Capó\) \- En Vivo Desde Guanajuato](https://open.spotify.com/track/6wC2vAyhQo40HeENRI23aq) | [Samo](https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Me Quito el Sombrero \(En Vivo Desde Guanajuato\)](https://open.spotify.com/album/7cT5blE7IUCgqb20TzbQiJ) | 4:23 |
+| 49 | [Duele Amarte Así \(feat\. Pedro Capó\)](https://open.spotify.com/track/3NKeZuT6hzbC6a5cJ6F5te) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Por Tu Bien](https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr) | 3:48 |
 | 50 | [Cae de Una](https://open.spotify.com/track/3NG3wfTRRPiGLxysGXG5RU) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [PAUSA](https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R) | 3:38 |
 
-Snapshot ID: `Z9YUgAAAAAD7mMg4ue+dOkbUw0Q1XIPV`
+Snapshot ID: `Z9dmAAAAAAC1FJHLmExj95p4w2z129FK`

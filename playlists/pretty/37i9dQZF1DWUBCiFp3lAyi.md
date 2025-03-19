@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBCiFp3lAyi.md) - [plain]
 
 > Your personalized GTA radio station.
 
-[Spotify](https://open.spotify.com/user/spotify) - 659,819 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 660,022 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

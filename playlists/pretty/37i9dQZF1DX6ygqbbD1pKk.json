@@ -1,13 +1,29 @@
 {
   "description": "Todos tus \u00e9xitos favoritos de Disney. Mufasa, Moana 2, Encanto y mucho m\u00e1s!",
-  "num_followers": 190448,
+  "num_followers": 190480,
   "original_name": "Disney Hits Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9h3GwAAAACzyjJUITM8czAL4VNtDtoa",
+  "snapshot_id": "Z9niIQAAAACC7n3FN/0oYakDqXIWN3I3",
   "tracks": [
+    {
+      "added_at": "2025-03-18 21:14:09",
+      "album": {
+        "name": "Blanca Nieves (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/5P0ab0UkCa07CU0LNXdCSc"
+      },
+      "artists": [
+        {
+          "name": "Mariana D\u00e1vila",
+          "url": "https://open.spotify.com/artist/2KdBD7KTyXqgxu5klRWJbL"
+        }
+      ],
+      "duration_ms": 291586,
+      "name": "Un Deseo en M\u00ed",
+      "url": "https://open.spotify.com/track/76pSjb8dSV1ZQ05mGWGDvV"
+    },
     {
       "added_at": "2025-01-22 12:59:18",
       "album": {

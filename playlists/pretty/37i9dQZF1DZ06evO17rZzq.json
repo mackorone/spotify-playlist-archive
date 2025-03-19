@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 4342,
+  "num_followers": 4344,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAABaWBZZgFIKL52jtsR7kG+g",
+  "snapshot_id": "Z9dmAAAAAACQQkvgohZlqV53vLToB6Ma",
   "tracks": [
     {
       "added_at": null,
@@ -287,6 +287,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reasonable Woman",
+        "url": "https://open.spotify.com/album/2JYsCq8rOuQXkwv9BtJEa8"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Jimmy Jolliff",
+          "url": "https://open.spotify.com/artist/7uzmxsPUTv4bfNtrLhr5jk"
+        }
+      ],
+      "duration_ms": 160723,
+      "name": "Champion (feat. Tierra Whack, Kaliii & Jimmy Jolliff)",
+      "url": "https://open.spotify.com/track/4eTa1ZOffRhCQtnM2Ag9cB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mani/Pedi",
         "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
       },
@@ -323,34 +351,6 @@
       "duration_ms": 181812,
       "name": "Eat It Up (feat. BIA)",
       "url": "https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reasonable Woman",
-        "url": "https://open.spotify.com/album/2JYsCq8rOuQXkwv9BtJEa8"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Tierra Whack",
-          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "Jimmy Jolliff",
-          "url": "https://open.spotify.com/artist/7uzmxsPUTv4bfNtrLhr5jk"
-        }
-      ],
-      "duration_ms": 160723,
-      "name": "Champion (feat. Tierra Whack, Kaliii & Jimmy Jolliff)",
-      "url": "https://open.spotify.com/track/4eTa1ZOffRhCQtnM2Ag9cB"
     },
     {
       "added_at": null,

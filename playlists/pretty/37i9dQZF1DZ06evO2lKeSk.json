@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 349782,
+  "num_followers": 349836,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAACzrzXVGfgQIju/kZ6gl3C7",
+  "snapshot_id": "Z9dmAAAAAABE560t30ynsS6vxlqUaB57",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Como Soy",
-        "url": "https://open.spotify.com/album/32VCHqymjw33HvCc42QrTV"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 251066,
-      "name": "Lo S\u00e9",
-      "url": "https://open.spotify.com/track/0Hck3EapnJ8Zcot91KM2XH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Un Mismo Corazon",
         "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 211680,
       "name": "Paz en Este Amor",
       "url": "https://open.spotify.com/track/3FfajmH9zGvlsOlO78SQhN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy Como Soy",
+        "url": "https://open.spotify.com/album/32VCHqymjw33HvCc42QrTV"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 251066,
+      "name": "Lo S\u00e9",
+      "url": "https://open.spotify.com/track/0Hck3EapnJ8Zcot91KM2XH"
     },
     {
       "added_at": null,

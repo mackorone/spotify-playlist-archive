@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLNIxmtGu8N.md) - [plain]
 
 > Go\-Go Music from the heart of Washington, DC.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,820 likes - 75 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,844 likes - 75 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLNIxmtGu8N.md) - [plain]
 | 36 | [9\-5 \- Live](https://open.spotify.com/track/6nGtQpAg5wAXdRLk6qI23R) | [The Full Bump](https://open.spotify.com/artist/65jSGg8uFsWlplXmWgaBpp), [Big Action](https://open.spotify.com/artist/0hLqtceiHhwQ6TkUpUx7P4) | [The Xperience \(Live\)](https://open.spotify.com/album/2IUtSVYnypmEFugkvsWHQ4) | 3:14 |
 | 37 | [In My Bag](https://open.spotify.com/track/7aByrp7pIkKFMI62GAK4uN) | [ABM Band](https://open.spotify.com/artist/2eJJQI2s8ZwcVQhGw9NTwH) | [Lock Down the Streets](https://open.spotify.com/album/61JjQOiq3MkHDzCqpuU1C7) | 4:43 |
 | 38 | [Unthinkable](https://open.spotify.com/track/3p6pPa10cok7rFffLux60R) | [Tru Expressionz](https://open.spotify.com/artist/1MaOfxXN7HEoXz5cus0IOx) | [Tru Expressionz Greatest Hits](https://open.spotify.com/album/0b4AQ1LPfKyDd5WSGTkdLb) | 4:50 |
-| 39 | [I Hurd It's The Bomb](https://open.spotify.com/track/5mHGr6Zq8IKZUx7rZQcY04) | [Backyard Band](https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03) | [Skillet](https://open.spotify.com/album/2qi6EpS7aX4kXdtxY13P8F) | 10:09 |
+| 39 | [I Hurd It's the Bomb](https://open.spotify.com/track/5mHGr6Zq8IKZUx7rZQcY04) | [Backyard Band](https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03) | [Skillet](https://open.spotify.com/album/2qi6EpS7aX4kXdtxY13P8F) | 10:09 |
 | 40 | [Byb Hello \(Bonus Track\)](https://open.spotify.com/track/4T0FAthftPuGCvFF0KsJTV) | [Backyard Band](https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03) | [Street Antidote](https://open.spotify.com/album/7vOoHtMP9YTN9jIO7cwbf3) | 7:48 |
 | 41 | [Splash](https://open.spotify.com/track/1dS3VCsu4WK6RwiTZ5PqVF) | [Uncalled 4 Band](https://open.spotify.com/artist/5t3sAJf2ghaIwJjWukTuEX) | [Best of Bag of Beats](https://open.spotify.com/album/4aZqoQKekEXZx7i0JwbyYg) | 9:41 |
 | 42 | [Lay It Down](https://open.spotify.com/track/3wyJydA4NYUVBzi3hZeUt5) | [Reaction Band](https://open.spotify.com/artist/67cjHiRC2gsQWs3G0KZRnE) | [Greatest Hits](https://open.spotify.com/album/3WdCIfF6N895H2P4XSlRxj) | 6:00 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLNIxmtGu8N.md) - [plain]
 | 62 | [One Leg Up](https://open.spotify.com/track/5mXQ7uRNyn8Fc1d15v7eC9) | [Pure Elegance](https://open.spotify.com/artist/1MNXP3xNtL6tvPZKy7RZUw) | [One Leg Up](https://open.spotify.com/album/4f3L4JoL17TXS7OZfMRXXc) | 10:04 |
 | 63 | [Overnight Scenario](https://open.spotify.com/track/66nXdAjGXyb76XkmVL0p9n) | [Rare Essence](https://open.spotify.com/artist/4vKZXZH0eDibGsDxMVzZDh) | [Classic Cuts, Vol\. 1](https://open.spotify.com/album/2owP9hfrBzMbvSMppf9wrP) | 4:56 |
 | 64 | [Hee Hee Haw](https://open.spotify.com/track/33iTHUJGtgLLIu7qaYTGKc) | [Northeast Groovers](https://open.spotify.com/artist/1IHadvTpb1JrZ5VxqH4FzS) | [DJ Flexx Presents \- GO GO 95](https://open.spotify.com/album/1fMcsgqM8kcWmvZONHcbh5) | 7:46 |
-| 65 | [Booty Call](https://open.spotify.com/track/5qTFVsgVtZcPdmbiKSh1OP) | [Northeast Groovers](https://open.spotify.com/artist/1IHadvTpb1JrZ5VxqH4FzS) | [Straight From The Basement](https://open.spotify.com/album/4pKISK9UXzq8Q5ZdNDSv4N) | 7:13 |
-| 66 | [Tear The Club Up](https://open.spotify.com/track/543joO4Z5GEJV2ANiNwOcf) | [Backyard Band](https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03) | [Skillet](https://open.spotify.com/album/2qi6EpS7aX4kXdtxY13P8F) | 8:55 |
+| 65 | [Booty Call](https://open.spotify.com/track/5qTFVsgVtZcPdmbiKSh1OP) | [Northeast Groovers](https://open.spotify.com/artist/1IHadvTpb1JrZ5VxqH4FzS) | [Straight from the Basement](https://open.spotify.com/album/4pKISK9UXzq8Q5ZdNDSv4N) | 7:13 |
+| 66 | [Tear the Club Up](https://open.spotify.com/track/543joO4Z5GEJV2ANiNwOcf) | [Backyard Band](https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03) | [Skillet](https://open.spotify.com/album/2qi6EpS7aX4kXdtxY13P8F) | 8:55 |
 | 67 | [Body Snatchers](https://open.spotify.com/track/6smyjljSEtD6shLJMYN3d9) | [Rare Essence](https://open.spotify.com/artist/4vKZXZH0eDibGsDxMVzZDh) | [Body Snatchers](https://open.spotify.com/album/03MnHkvMFqef37sUibcq2G) | 6:03 |
 | 68 | [Drop The Bomb](https://open.spotify.com/track/651ogESjErYNdRWCto4pjP) | [Northeast Groovers](https://open.spotify.com/artist/1IHadvTpb1JrZ5VxqH4FzS) | [On Fire](https://open.spotify.com/album/79Bto5Kn26MKh0GNj5l0uv) | 4:26 |
 | 69 | [The Water](https://open.spotify.com/track/3yDUcKMfVRPXugdpRv4oar) | [Northeast Groovers](https://open.spotify.com/artist/1IHadvTpb1JrZ5VxqH4FzS) | [Straight from the Basement](https://open.spotify.com/album/51LT5vzPLIfxs4MdDmPq8A) | 6:00 |

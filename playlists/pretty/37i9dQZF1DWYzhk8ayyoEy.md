@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzhk8ayyoEy.md) - [plain]
 
 ### [shine](https://open.spotify.com/playlist/37i9dQZF1DWYzhk8ayyoEy)
 
-> Warm, inspirational pop, that's good at heart\.  Cover: Josh Groban
+> Warm, inspirational pop, that's good at heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,805 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,818 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Be Alright](https://open.spotify.com/track/0bMVmNosAnBxQR33fHcqYM) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Be Alright](https://open.spotify.com/album/35GvFcCqZCZgrIOIoeGYlX) | 3:43 |
-| 2 | [Flowers](https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Flowers](https://open.spotify.com/album/4zewk35WNIuJhQ9aR0MwQw) | 3:44 |
+| 1 | [Flowers](https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Flowers](https://open.spotify.com/album/4zewk35WNIuJhQ9aR0MwQw) | 3:44 |
+| 2 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
 | 3 | [Heaven On My Mind](https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Heaven On My Mind](https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR) | 3:23 |
 | 4 | [Rise Up](https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 4:13 |
 | 5 | [Lift Me Up](https://open.spotify.com/track/1KSaE7YB6ifUQpm03ovRJ4) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Lift Me Up](https://open.spotify.com/album/14ihhTxeU4tvod0p2rPPrP) | 3:21 |
-| 6 | [GOOD DAY](https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e) | 2:50 |
-| 7 | [Time To Make A Change \(feat\. MonoNeon\)](https://open.spotify.com/track/3Ln9vpfeUYCtb73kkF6Ldn) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j) | [The Beginning](https://open.spotify.com/album/3Uy5319iFlPvzKtUGCwUrQ) | 3:41 |
-| 8 | [Take It Slow](https://open.spotify.com/track/037EaTG9buSaUFsZ5wSkWH) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Take It Slow](https://open.spotify.com/album/248s9Op0jXEPrPYnA1Z9uR) | 3:15 |
-| 9 | [Vulnerable](https://open.spotify.com/track/1BBmpZequI1IykpN0KddLe) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Vulnerable](https://open.spotify.com/album/37C8CqGiLPZ1gBD7tZjyQU) | 3:32 |
-| 10 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
+| 6 | [Be Alright](https://open.spotify.com/track/0bMVmNosAnBxQR33fHcqYM) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Be Alright](https://open.spotify.com/album/35GvFcCqZCZgrIOIoeGYlX) | 3:43 |
+| 7 | [GOOD DAY](https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e) | 2:50 |
+| 8 | [Time To Make A Change \(feat\. MonoNeon\)](https://open.spotify.com/track/3Ln9vpfeUYCtb73kkF6Ldn) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j) | [The Beginning](https://open.spotify.com/album/3Uy5319iFlPvzKtUGCwUrQ) | 3:41 |
+| 9 | [Take It Slow](https://open.spotify.com/track/037EaTG9buSaUFsZ5wSkWH) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Take It Slow](https://open.spotify.com/album/248s9Op0jXEPrPYnA1Z9uR) | 3:15 |
+| 10 | [Vulnerable](https://open.spotify.com/track/1BBmpZequI1IykpN0KddLe) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Vulnerable](https://open.spotify.com/album/37C8CqGiLPZ1gBD7tZjyQU) | 3:32 |
 | 11 | [Love In Control](https://open.spotify.com/track/7KAHR6ZMUiqBHyCKB8NN1u) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Stand Together](https://open.spotify.com/album/5kWZUjqYYyE0nBQTo39Ohy) | 3:38 |
 | 12 | [Belong Together](https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI) | 2:28 |
 | 13 | [wildflower](https://open.spotify.com/track/2PtPgifaaf3zple5JmOu0m) | [Jordan Frye](https://open.spotify.com/artist/41IbYYlSlUZBjudQNAGvDu) | [wildflower](https://open.spotify.com/album/2Tbw2822fUUCPECiVspPM4) | 3:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzhk8ayyoEy.md) - [plain]
 | 74 | [Good Day](https://open.spotify.com/track/0FEXQUgIG0X2rhdT3nuQ3M) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Good Day](https://open.spotify.com/album/1HSgWrfiiWkMNUr8abCu1c) | 2:53 |
 | 75 | [Don't Give Up On Me \- \(From "Five Feet Apart"\)](https://open.spotify.com/track/5A3fPy30SN2wuzrahpcxvV) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Naive](https://open.spotify.com/album/20mlgqmD6YJwkNuAfLRcDC) | 3:16 |
 
-Snapshot ID: `Z9OpwgAAAADzmqv0apSHp0BxesFb7kCL`
+Snapshot ID: `Z9oD3gAAAAAXttTDv44zuc2wQXzbmnmp`

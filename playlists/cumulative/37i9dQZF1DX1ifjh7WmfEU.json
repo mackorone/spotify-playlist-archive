@@ -1637,6 +1637,24 @@
     },
     {
       "album": {
+        "name": "Full Of Hope",
+        "url": "https://open.spotify.com/album/7A5lNSaEP8BjCHxHOgvbKD"
+      },
+      "artists": [
+        {
+          "name": "Noah Foem",
+          "url": "https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132697,
+      "name": "Full Of Hope",
+      "url": "https://open.spotify.com/track/22MzUApfgFWn3loU2idcuC"
+    },
+    {
+      "album": {
         "name": "V\u00f6gel",
         "url": "https://open.spotify.com/album/7ofPT1pFfppppZKF1l6jrh"
       },

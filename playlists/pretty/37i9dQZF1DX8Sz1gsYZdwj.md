@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Sz1gsYZdwj.md) - [plain]
 
 > Drift off to these peaceful classical melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,213 likes - 135 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,306 likes - 135 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Veiled Remembrance](https://open.spotify.com/track/5ottoPWbTULvnKU5PSCysf) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Veiled Remembrance](https://open.spotify.com/album/6qwFoOfdmNmHT0aTrXBlzA) | 2:52 |
-| 2 | [Cádiz](https://open.spotify.com/track/2fQTBDA81IyaYgtr2Gz4Wl) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Cádiz](https://open.spotify.com/album/5YBGQGNe1qX309BmK6eDFL) | 2:12 |
+| 1 | [Cádiz](https://open.spotify.com/track/2fQTBDA81IyaYgtr2Gz4Wl) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Cádiz](https://open.spotify.com/album/5YBGQGNe1qX309BmK6eDFL) | 2:12 |
+| 2 | [Veiled Remembrance](https://open.spotify.com/track/5ottoPWbTULvnKU5PSCysf) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Veiled Remembrance](https://open.spotify.com/album/6qwFoOfdmNmHT0aTrXBlzA) | 2:52 |
 | 3 | [nocturnal summer](https://open.spotify.com/track/5fGKMCSBHAhRW9923UBO3c) | [forever day](https://open.spotify.com/artist/2xZ6v1AA2KEKLIYafq7a0a) | [nocturnal summer & road to isabelle](https://open.spotify.com/album/23aavgdGxGJIduhBWoOfSu) | 2:37 |
 | 4 | [Silent Among Strangers](https://open.spotify.com/track/0QesMtYIzZ8yLPbSNYXqW1) | [Yeer Ifinies](https://open.spotify.com/artist/3GOZgVR0H4p50c5LaZ8kQx) | [Silent Among Strangers](https://open.spotify.com/album/6O8w2goMMDonSZnugTW4kL) | 2:30 |
 | 5 | [Empires Luck](https://open.spotify.com/track/3eKndOAWTLzbzqaAdBRwBR) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Empires Luck](https://open.spotify.com/album/3Dm6sCX8BsO4t8TEOPO6DO) | 3:02 |
@@ -19,24 +19,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Sz1gsYZdwj.md) - [plain]
 | 9 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 |
 | 10 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 |
 | 11 | [Where Dreams Begin](https://open.spotify.com/track/6Q3W3lQNWQJ3wGzXlAmHd7) | [Acirassi](https://open.spotify.com/artist/30uYGdJCm0u2mNZzICXAf9) | [Where Dreams Begin](https://open.spotify.com/album/0PsJWHZYcrJYa6TOIBamrD) | 2:43 |
-| 12 | [Winter Ends Here](https://open.spotify.com/track/0uWMXaYpiAP0Eig5brMGpD) | [Riku Arai](https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28) | [Winter Ends Here](https://open.spotify.com/album/7kXf5brsq55KnrnVSBbvKi) | 2:33 |
-| 13 | [WARMTH OF THE WIND](https://open.spotify.com/track/5yXFHymXahLnDErLk0wBun) | [GRACE UNDERWOOD](https://open.spotify.com/artist/3Q9WSdSKTYAVrqpyumgwqp) | [WARMTH OF THE WIND](https://open.spotify.com/album/61e0S11tCBQPOhemFKwiF4) | 2:51 |
-| 14 | [Slow Movements](https://open.spotify.com/track/5Ts7azb9QNWm8r64F4QZap) | [Claire Lerdier](https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k) | [Slow Movements](https://open.spotify.com/album/5utCrR0B4LDVvgCpeRVKIX) | 2:53 |
-| 15 | [Abandoned](https://open.spotify.com/track/07e1UOoLHenRgycuDjaLdT) | [Pass Sacaglia](https://open.spotify.com/artist/0ZrsvPjO4XAYfYXzoTroF5) | [Abandoned](https://open.spotify.com/album/3nVkrDvCKza3Wv8CGSX9os) | 2:44 |
-| 16 | [premier amour](https://open.spotify.com/track/3dLwUzb6aiBJnjsIGpfOOH) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [premier amour](https://open.spotify.com/album/0zRTkkUJhHUpRh3Go2X6Yz) | 2:38 |
-| 17 | [The Quiet Room](https://open.spotify.com/track/0Iq6y319N2q1xTj3QtjvQF) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [The Quiet Room](https://open.spotify.com/album/1bUlMMwOomK8AOUqGJUYeu) | 2:28 |
-| 18 | [Morning Stroll](https://open.spotify.com/track/3yTWImqxM0Vd3izQPXHLdz) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Morning Stroll](https://open.spotify.com/album/5AntDnve8CcLpMxfNaIchR) | 2:09 |
-| 19 | [Fire Lily](https://open.spotify.com/track/2uSAha9mpw97lxp4Gpp2HK) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Fire Lily](https://open.spotify.com/album/7vwV0V7Xn0c9f5WGNTJhZ8) | 2:28 |
-| 20 | [Sérénité](https://open.spotify.com/track/3BRf8a39rGKSSBp7AmqclQ) | [Stace Brinorma](https://open.spotify.com/artist/0uhbT4yNeyFnQePzFddGJk) | [Sérénité](https://open.spotify.com/album/0RcyNjfoHSNHmMqRpo2RW6) | 2:34 |
-| 21 | [So Still](https://open.spotify.com/track/5Oyts6S9nV0eKgpN8pZMQj) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [So Still](https://open.spotify.com/album/2r6SI58mqGIUTngRoGPFUo) | 2:18 |
-| 22 | [Meaning Of Life](https://open.spotify.com/track/3m6dt7vpVFKM6VawzTUSbR) | [Our Sense](https://open.spotify.com/artist/7vUyFSVFxPY2dxiiosiqhY) | [Meaning Of Life](https://open.spotify.com/album/0JTJbjoyZxpYEGROgEriRU) | 2:34 |
-| 23 | [closer](https://open.spotify.com/track/36J08RU5mlBaKPcNdkxLoa) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [closer](https://open.spotify.com/album/44ZRGnsdTom76RKEsCHSkN) | 2:56 |
+| 12 | [Slow Movements](https://open.spotify.com/track/5Ts7azb9QNWm8r64F4QZap) | [Claire Lerdier](https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k) | [Slow Movements](https://open.spotify.com/album/5utCrR0B4LDVvgCpeRVKIX) | 2:53 |
+| 13 | [Winter Ends Here](https://open.spotify.com/track/0uWMXaYpiAP0Eig5brMGpD) | [Riku Arai](https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28) | [Winter Ends Here](https://open.spotify.com/album/7kXf5brsq55KnrnVSBbvKi) | 2:33 |
+| 14 | [Abandoned](https://open.spotify.com/track/07e1UOoLHenRgycuDjaLdT) | [Pass Sacaglia](https://open.spotify.com/artist/0ZrsvPjO4XAYfYXzoTroF5) | [Abandoned](https://open.spotify.com/album/3nVkrDvCKza3Wv8CGSX9os) | 2:44 |
+| 15 | [premier amour](https://open.spotify.com/track/3dLwUzb6aiBJnjsIGpfOOH) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [premier amour](https://open.spotify.com/album/0zRTkkUJhHUpRh3Go2X6Yz) | 2:38 |
+| 16 | [WARMTH OF THE WIND](https://open.spotify.com/track/5yXFHymXahLnDErLk0wBun) | [GRACE UNDERWOOD](https://open.spotify.com/artist/3Q9WSdSKTYAVrqpyumgwqp) | [WARMTH OF THE WIND](https://open.spotify.com/album/61e0S11tCBQPOhemFKwiF4) | 2:51 |
+| 17 | [Fire Lily](https://open.spotify.com/track/2uSAha9mpw97lxp4Gpp2HK) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Fire Lily](https://open.spotify.com/album/7vwV0V7Xn0c9f5WGNTJhZ8) | 2:28 |
+| 18 | [The Quiet Room](https://open.spotify.com/track/0Iq6y319N2q1xTj3QtjvQF) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [The Quiet Room](https://open.spotify.com/album/1bUlMMwOomK8AOUqGJUYeu) | 2:28 |
+| 19 | [So Still](https://open.spotify.com/track/5Oyts6S9nV0eKgpN8pZMQj) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [So Still](https://open.spotify.com/album/2r6SI58mqGIUTngRoGPFUo) | 2:18 |
+| 20 | [Morning Stroll](https://open.spotify.com/track/3yTWImqxM0Vd3izQPXHLdz) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Morning Stroll](https://open.spotify.com/album/5AntDnve8CcLpMxfNaIchR) | 2:09 |
+| 21 | [Meaning Of Life](https://open.spotify.com/track/3m6dt7vpVFKM6VawzTUSbR) | [Our Sense](https://open.spotify.com/artist/7vUyFSVFxPY2dxiiosiqhY) | [Meaning Of Life](https://open.spotify.com/album/0JTJbjoyZxpYEGROgEriRU) | 2:34 |
+| 22 | [closer](https://open.spotify.com/track/36J08RU5mlBaKPcNdkxLoa) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [closer](https://open.spotify.com/album/44ZRGnsdTom76RKEsCHSkN) | 2:56 |
+| 23 | [Sérénité](https://open.spotify.com/track/3BRf8a39rGKSSBp7AmqclQ) | [Stace Brinorma](https://open.spotify.com/artist/0uhbT4yNeyFnQePzFddGJk) | [Sérénité](https://open.spotify.com/album/0RcyNjfoHSNHmMqRpo2RW6) | 2:34 |
 | 24 | [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 |
-| 25 | [From A Distance](https://open.spotify.com/track/3SjLu50VyJyELmAYxPOKO8) | [Isora Hill](https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM) | [From A Distance](https://open.spotify.com/album/0AWi2GaZtWl5tscgxkUB9P) | 2:57 |
-| 26 | [Chuchotement](https://open.spotify.com/track/2NWOoi4HoSZFX0sySYIqVi) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [Chuchotement](https://open.spotify.com/album/291s2oBqqd2yA0AmII2KTy) | 2:14 |
-| 27 | [moonlight in my heart](https://open.spotify.com/track/2PquyxqnifehQWWYRQm7wE) | [Rocky Road Heaven](https://open.spotify.com/artist/5Sl6AeIxVJBWaJp4kWYeQ9) | [moonlight in my heart](https://open.spotify.com/album/2cgT5qag7EB0BEtZJZ9qzd) | 2:38 |
-| 28 | [Vuelta](https://open.spotify.com/track/0mPUDi1UgV7xvwMo31wYlR) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Vuelta](https://open.spotify.com/album/71bxnh6ZfVRvmW6BpyXgiB) | 2:03 |
-| 29 | [Glance Out A Casement Window](https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Glance Out A Casement Window](https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L) | 2:10 |
+| 25 | [Chuchotement](https://open.spotify.com/track/2NWOoi4HoSZFX0sySYIqVi) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [Chuchotement](https://open.spotify.com/album/291s2oBqqd2yA0AmII2KTy) | 2:14 |
+| 26 | [moonlight in my heart](https://open.spotify.com/track/2PquyxqnifehQWWYRQm7wE) | [Rocky Road Heaven](https://open.spotify.com/artist/5Sl6AeIxVJBWaJp4kWYeQ9) | [moonlight in my heart](https://open.spotify.com/album/2cgT5qag7EB0BEtZJZ9qzd) | 2:38 |
+| 27 | [Vuelta](https://open.spotify.com/track/0mPUDi1UgV7xvwMo31wYlR) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Vuelta](https://open.spotify.com/album/71bxnh6ZfVRvmW6BpyXgiB) | 2:03 |
+| 28 | [Glance Out A Casement Window](https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Glance Out A Casement Window](https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L) | 2:10 |
+| 29 | [From A Distance](https://open.spotify.com/track/3SjLu50VyJyELmAYxPOKO8) | [Isora Hill](https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM) | [From A Distance](https://open.spotify.com/album/0AWi2GaZtWl5tscgxkUB9P) | 2:57 |
 | 30 | [Ce Jour Là](https://open.spotify.com/track/6Y7GT4UuGkUFhYHxVLQ4bF) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Ce Jour Là](https://open.spotify.com/album/2nQtY69UjbRQQYkjMHnqXB) | 2:48 |
 | 31 | [Shaman](https://open.spotify.com/track/1BpmW0DUzzFCsDmBtcGY2k) | [Harold Kay](https://open.spotify.com/artist/2syEslXYK8k3kpiQ2RXBDm) | [Shaman](https://open.spotify.com/album/0mGr21i3WKYLlEouTu8lae) | 2:18 |
 | 32 | [Elysian](https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Elysian](https://open.spotify.com/album/4UhcamXh0XDDEbLUirjiQQ) | 2:19 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Sz1gsYZdwj.md) - [plain]
 | 134 | [New Moon](https://open.spotify.com/track/4SWqlyQxKodNKeirLkcysT) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Beyond The Horizon](https://open.spotify.com/album/424n6K5q9ff7X0dUJooPZn) | 3:00 |
 | 135 | [Landsort](https://open.spotify.com/track/0VrOdgTIh68gW8p9WkXSPY) | [Olivia Meyer](https://open.spotify.com/artist/473vc3cGQmpGSHrcyvePWE) | [Fantasia](https://open.spotify.com/album/5h0R2d0rhCu6V46L91UBN4) | 2:19 |
 
-Snapshot ID: `Z9A3jAAAAABhj9hDtR+BKLqOkgbuyNry`
+Snapshot ID: `Z9mKOQAAAAC4VNleqlFsofo0mxIG+7Fr`

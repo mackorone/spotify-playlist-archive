@@ -26,4 +26,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 | 16 | [The Scholar's Mate](https://open.spotify.com/track/2qKga0VHaH41ajUMbVofcb) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 1:18 |
 | 17 | [Welcome To LaBelle](https://open.spotify.com/track/39ymvR1OhXUe0qt7YeFA7y) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 2:15 |
 
-Snapshot ID: `Z9YUgAAAAACw0Y8b3oLKUekbUh8Fg4ic`
+Snapshot ID: `Z9dmAAAAAADJLqrBdMHSvlt4K+M77H7a`

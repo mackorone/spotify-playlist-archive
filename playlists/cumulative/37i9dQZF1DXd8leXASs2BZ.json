@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: YungFLX",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Liza",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 225608,
       "name": "Anokoro (feat. Amo)",
       "url": "https://open.spotify.com/track/51xJNAeCMtGGqQMYFms8JR"
@@ -2625,6 +2625,24 @@
     },
     {
       "album": {
+        "name": "Buono!",
+        "url": "https://open.spotify.com/album/0NsewgAhRIctpK2n1xvu0d"
+      },
+      "artists": [
+        {
+          "name": "J.Peter",
+          "url": "https://open.spotify.com/artist/0bARf1n7M10zgVaZiyLqCg"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105088,
+      "name": "Buono!",
+      "url": "https://open.spotify.com/track/1ThZ68nn11RNIeTdo3ZpkY"
+    },
+    {
+      "album": {
         "name": "TAD",
         "url": "https://open.spotify.com/album/6eGfXkLZC1h6PBftRMEzZs"
       },
@@ -2640,7 +2658,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 141951,
       "name": "Business",
       "url": "https://open.spotify.com/track/20EF6W7Egi1d1rUEboe5MB"
@@ -3882,7 +3900,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 160267,
       "name": "diamond",
       "url": "https://open.spotify.com/track/3V5yyKEqm0SiwdxXvhvepB"
@@ -5068,6 +5086,24 @@
       "duration_ms": 176091,
       "name": "Face Time",
       "url": "https://open.spotify.com/track/5cFRLH85pxJZMeHa9RFSwo"
+    },
+    {
+      "album": {
+        "name": "Fadeout",
+        "url": "https://open.spotify.com/album/2wt18ArJSb1b8t36iXf2f2"
+      },
+      "artists": [
+        {
+          "name": "RICHMAN",
+          "url": "https://open.spotify.com/artist/3ZvCnJCDfKjWaKJC8x0ors"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136142,
+      "name": "Fadeout",
+      "url": "https://open.spotify.com/track/2QQKk25Hrif6LvocGSKbyh"
     },
     {
       "album": {
@@ -6900,7 +6936,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 142464,
       "name": "HEARTLESS",
       "url": "https://open.spotify.com/track/3Huapz5ar9lXjqweSxi1lb"
@@ -8417,6 +8453,28 @@
     },
     {
       "album": {
+        "name": "Katei",
+        "url": "https://open.spotify.com/album/0R4GfLuc6n09Ic2wcpGN5b"
+      },
+      "artists": [
+        {
+          "name": "\u65e5\u672c\u733f",
+          "url": "https://open.spotify.com/artist/2iSogZBel5MRLfXjfWhRrL"
+        },
+        {
+          "name": "RhymeTube",
+          "url": "https://open.spotify.com/artist/31iJDnqpS43YIG18nTFx14"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118400,
+      "name": "Katei",
+      "url": "https://open.spotify.com/track/2PhoAyqO383kv05KlWBRcZ"
+    },
+    {
+      "album": {
         "name": "KEEP IT ALL DAY (feat. tombijerk, LiTa $leepy & Bixey)",
         "url": "https://open.spotify.com/album/2jO9qlt6kf4m9Rk8q4h5gz"
       },
@@ -9383,6 +9441,24 @@
     },
     {
       "album": {
+        "name": "LOVE myself",
+        "url": "https://open.spotify.com/album/2aYCaT5GmtO9YcZAutUumb"
+      },
+      "artists": [
+        {
+          "name": "Back Street Blues",
+          "url": "https://open.spotify.com/artist/3rCf49MZAEGvV1eAhV3R5E"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165300,
+      "name": "LOVE myself",
+      "url": "https://open.spotify.com/track/50nQHvQOb2coS906BsX1Ma"
+    },
+    {
+      "album": {
         "name": "Lovers & Friends",
         "url": "https://open.spotify.com/album/2DD1Xy3CjEcsepJEBStfGg"
       },
@@ -9558,7 +9634,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 202645,
       "name": "Mama I Can Fly",
       "url": "https://open.spotify.com/track/30m2COgY5EzfPii95m1sX2"
@@ -11340,7 +11416,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 130909,
       "name": "ORERAWABAKA",
       "url": "https://open.spotify.com/track/6H72Kk5zUVT64VjeMk8YVG"
@@ -11666,10 +11742,28 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 185964,
       "name": "PARADISE",
       "url": "https://open.spotify.com/track/6JM7bl5UCaKeVujyjcdOBy"
+    },
+    {
+      "album": {
+        "name": "PARAPARA MIXTAPE",
+        "url": "https://open.spotify.com/album/4QDjWBG8UFQBrvqrKaDmUI"
+      },
+      "artists": [
+        {
+          "name": "Liza",
+          "url": "https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129276,
+      "name": "PARADOX",
+      "url": "https://open.spotify.com/track/2k3n4QTwWpvAIlHpRrsI8N"
     },
     {
       "album": {
@@ -12984,7 +13078,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 179271,
       "name": "Roulette",
       "url": "https://open.spotify.com/track/1m6ZCpVoGuWrHckmoqL2DB"
@@ -16113,6 +16207,28 @@
     },
     {
       "album": {
+        "name": "WAVE8 (feat. Ole)",
+        "url": "https://open.spotify.com/album/4BgZVJEoDwHgqBmbKRfY7v"
+      },
+      "artists": [
+        {
+          "name": "ISAFAT",
+          "url": "https://open.spotify.com/artist/33wEh0YSqRNAP4PZrH0zkt"
+        },
+        {
+          "name": "Ole",
+          "url": "https://open.spotify.com/artist/7m9yK07LzbtyQCfhtNkUEd"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202001,
+      "name": "WAVE8 (feat. Ole)",
+      "url": "https://open.spotify.com/track/6uOYOzfuG7KyWcjrid3r4j"
+    },
+    {
+      "album": {
         "name": "Way Good",
         "url": "https://open.spotify.com/album/4o1pJRtw1KYrt8mXqudCRm"
       },
@@ -16835,6 +16951,24 @@
     },
     {
       "album": {
+        "name": "YOUNG & ADULT",
+        "url": "https://open.spotify.com/album/1sygFSi0CXOaoIcBR3ZaG5"
+      },
+      "artists": [
+        {
+          "name": "e5",
+          "url": "https://open.spotify.com/artist/5UOj6C1InE5WTmBXNuemt4"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211327,
+      "name": "YOUNG & ADULT",
+      "url": "https://open.spotify.com/track/2oxXv40QM9nwX5nRXqWbEy"
+    },
+    {
+      "album": {
         "name": "ICON",
         "url": "https://open.spotify.com/album/2T9uqa1ZOZiHu2FGrbOWgR"
       },
@@ -17062,6 +17196,24 @@
       "duration_ms": 129709,
       "name": "\u3044\u3054\u30fc\u3088",
       "url": "https://open.spotify.com/track/0mT1r5bewOTt8c2mvPjCHb"
+    },
+    {
+      "album": {
+        "name": "MADE MA WHOLE HOOD SWAGED UP",
+        "url": "https://open.spotify.com/album/4vqg35uTJkvuPGNaYHxx2Z"
+      },
+      "artists": [
+        {
+          "name": "CFN MALIK",
+          "url": "https://open.spotify.com/artist/3uX4LhOfuyc2waeiEr2GjX"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219130,
+      "name": "\u304a\u3057\u3083\u308c",
+      "url": "https://open.spotify.com/track/2FfqCOkyJ4RO2d6YyGQSqq"
     },
     {
       "album": {

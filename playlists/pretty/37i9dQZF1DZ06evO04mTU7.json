@@ -1,12 +1,12 @@
 {
   "description": "This is AJULIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8005,
+  "num_followers": 8013,
   "original_name": "This Is AJULIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAAAiYmob5gMuejCJTQxrQN4K",
+  "snapshot_id": "Z9dmAAAAAAAWs83RNrt/J12achsWIYn8",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "AJU",
+        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+        }
+      ],
+      "duration_ms": 163934,
+      "name": "Marido de Bandida",
+      "url": "https://open.spotify.com/track/6qybczOKmJLTfomZrtD5fF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BANDIDA",
         "url": "https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 179824,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AJU",
-        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "iamlope$$",
-          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
-        }
-      ],
-      "duration_ms": 163934,
-      "name": "Marido de Bandida",
-      "url": "https://open.spotify.com/track/6qybczOKmJLTfomZrtD5fF"
     },
     {
       "added_at": null,

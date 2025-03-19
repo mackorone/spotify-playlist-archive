@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJHbb1RH8Fr.md) - [plain]
 
 > Ruhunu dinlendireceğin bu kutsal ayda yolculuğuna eşlik edecek ney ezgileri\. Görsel: Sultanahmet Camii
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,555 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,572 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

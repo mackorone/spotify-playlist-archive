@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 
 > Mooi van eigen bodem 🇳🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,789 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,812 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 34 | [Als je dat maar weet](https://open.spotify.com/track/0vCYVti6bnSVbkMry56gnV) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Als je dat maar weet](https://open.spotify.com/album/1lFDMlBZLTEEQapivdovx1) | 2:35 |
 | 35 | [Je Draagt Het Niet Alleen](https://open.spotify.com/track/1sJ91H9pD2L0MXgyjJUZSo) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Beste Zangers 2024 \(Aflevering 3\- Matthijn Buwalda\)](https://open.spotify.com/album/08pHaYLv5D5f7uX86DtRXq) | 3:23 |
 | 36 | [Kamers Van Je Hart](https://open.spotify.com/track/2AGZtaBJprg0gcHae60e96) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Kamers Van Je Hart](https://open.spotify.com/album/23xvYYsPwhQD2Sc543wZf2) | 3:10 |
-| 37 | [Wat Ik Ook Ga Doen \- Live @ Philips Stadion, Eindhoven 2024](https://open.spotify.com/track/3c3e66jUoGP04uX6IyMljV) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Groots De Laatste \- Live In Het Philips Stadion](https://open.spotify.com/album/0Ddv5pUl9FzLGf35J6YSJW) | 4:34 |
-| 38 | [Adem In Adem Uit](https://open.spotify.com/track/6O90xKE9h8oYqW6Wm9gO3B) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Tempo Giusto](https://open.spotify.com/album/38I4hDn3sXGtCI8bEiL8X6) | 4:17 |
-| 39 | [Lijn](https://open.spotify.com/track/0HOrDesxpndcI38kujDxei) | [Eric Corton](https://open.spotify.com/artist/0MBeoJ5pWZwyXWuEBmq9Qv), [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [Lijn](https://open.spotify.com/album/23nU1k5lNa9KG0Ifgzvnzf) | 2:38 |
-| 40 | [Tijd Genoeg](https://open.spotify.com/track/7JGJexoaC9puUyX51N5JJe) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv), [Holly Mae Brood](https://open.spotify.com/artist/7KmE9e7DEnGRV4ZPhBj83k) | [Tijd Genoeg](https://open.spotify.com/album/4A6d7ZUpUrfpmcRG2RdTVF) | 2:51 |
-| 41 | [Tikkie Voor De Tranen](https://open.spotify.com/track/6qhH43TLfe30AvzKPsvTEl) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Tikkie Voor De Tranen](https://open.spotify.com/album/44MrnLxg9BLf7PX7N8cDFm) | 2:35 |
-| 42 | [Brussel](https://open.spotify.com/track/1UOymAhcklZlgfa8k1BUUB) | [Bolle Tito](https://open.spotify.com/artist/20768ncxf9ouMj8IKAB6nc), [Keizer](https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW), [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO) | [Brussel](https://open.spotify.com/album/57PclOxkYeM34Xr0oGV62z) | 2:50 |
-| 43 | [Wat Ik Ook Ga Doen](https://open.spotify.com/track/35BBNYg2fEtgYjkgJrGcg1) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Wat Ik Ook Ga Doen](https://open.spotify.com/album/4SQiHWRdAA9WfUF3tae3XY) | 2:38 |
+| 37 | [Adem In Adem Uit](https://open.spotify.com/track/6O90xKE9h8oYqW6Wm9gO3B) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Tempo Giusto](https://open.spotify.com/album/38I4hDn3sXGtCI8bEiL8X6) | 4:17 |
+| 38 | [Lijn](https://open.spotify.com/track/0HOrDesxpndcI38kujDxei) | [Eric Corton](https://open.spotify.com/artist/0MBeoJ5pWZwyXWuEBmq9Qv), [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [Lijn](https://open.spotify.com/album/23nU1k5lNa9KG0Ifgzvnzf) | 2:38 |
+| 39 | [Ik neem jou mee](https://open.spotify.com/track/1NEawk3FwC4DAte737OmtG) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Ik neem jou mee](https://open.spotify.com/album/5IRN8OAVrY8gm2vjhCpp18) | 2:49 |
+| 40 | [Wat Ik Ook Ga Doen](https://open.spotify.com/track/35BBNYg2fEtgYjkgJrGcg1) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Wat Ik Ook Ga Doen](https://open.spotify.com/album/4SQiHWRdAA9WfUF3tae3XY) | 2:38 |
+| 41 | [Tijd Genoeg](https://open.spotify.com/track/7JGJexoaC9puUyX51N5JJe) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv), [Holly Mae Brood](https://open.spotify.com/artist/7KmE9e7DEnGRV4ZPhBj83k) | [Tijd Genoeg](https://open.spotify.com/album/4A6d7ZUpUrfpmcRG2RdTVF) | 2:51 |
+| 42 | [Tikkie Voor De Tranen](https://open.spotify.com/track/6qhH43TLfe30AvzKPsvTEl) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Tikkie Voor De Tranen](https://open.spotify.com/album/44MrnLxg9BLf7PX7N8cDFm) | 2:35 |
+| 43 | [Brussel](https://open.spotify.com/track/1UOymAhcklZlgfa8k1BUUB) | [Bolle Tito](https://open.spotify.com/artist/20768ncxf9ouMj8IKAB6nc), [Keizer](https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW), [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO) | [Brussel](https://open.spotify.com/album/57PclOxkYeM34Xr0oGV62z) | 2:50 |
 | 44 | [Zie Ik Jou Weer Morgen?](https://open.spotify.com/track/07iAKwRXb0yRWPK0cqasFZ) | [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd), [Ruth Jacott](https://open.spotify.com/artist/0NM27i2hSW1lbc7rYa5D6u) | [Zie Ik Jou Weer Morgen?](https://open.spotify.com/album/0tUcPCqXyt90DHnHWMtaMo) | 3:08 |
 | 45 | [Slaap Lekker](https://open.spotify.com/track/64EB0FN3fLIslczqsDjVx1) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Slaap Lekker](https://open.spotify.com/album/58WAXCxWYLQgMybk6ZRQVJ) | 2:14 |
 | 46 | [Altijd Iets Nieuws](https://open.spotify.com/track/4XCBdhCFFkwhEryfsbKRGs) | [Sherefa Yorks](https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE) | [Altijd Iets Nieuws](https://open.spotify.com/album/3XCevLnio6ETwdWnJnp9Su) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 49 | [Alsof](https://open.spotify.com/track/0AqCxKxCmZcLpWW4hD4hWv) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Alsof](https://open.spotify.com/album/6VtLheGYOudLBOwCTkDK9S) | 2:55 |
 | 50 | [Zin In Het Leven](https://open.spotify.com/track/5dyLNO5s3BKjKYmHAj75VK) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Zin In Het Leven](https://open.spotify.com/album/4oLXbJ12gAFe9pHFliC2ON) | 3:25 |
 
-Snapshot ID: `Z9QyCgAAAAA7ydUgvAGBn1PLWs+8iITY`
+Snapshot ID: `Z9lbawAAAAAAneogSUX4p+T9ZD7BfU0o`

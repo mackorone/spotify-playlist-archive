@@ -4,7 +4,7 @@
 
 > 
 
-2,091 songs - 4 day 16 hr 9 min
+2,092 songs - 4 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -701,6 +701,7 @@
 | [Fuck That](https://open.spotify.com/track/3VlCIYEdNORYA3OF5K0nQm) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 2:24 | 2021-11-30 |  |
 | [Fuckthepopulation](https://open.spotify.com/track/0XfsT6rbC7myipngFhWa9T) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [My Liver Will Handle What My Heart Can't](https://open.spotify.com/album/2VrpzWjnsiELWKXOJAFhme) | 2:30 | 2024-03-10 |  |
 | [Full Circle](https://open.spotify.com/track/7GSfkeT2OcsPln1L8onHXm) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/237EqTv2dtmYvRWcADo4lj) | 3:41 | 2022-11-24 |  |
+| [FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ) | [PLAY](https://open.spotify.com/album/69k3PIjF6T9POAX0WCRpNC) | 3:07 | 2025-03-18 |  |
 | [G.R.E.Y.G.O.D.S.](https://open.spotify.com/track/2AD0AClM5SLRuw6N5J0tFi) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [G.R.E.Y.G.O.D.S.](https://open.spotify.com/album/2MNt1A6zTasukEQpd8QCoc) | 2:33 | 2021-08-05 |  |
 | [GAME OVER](https://open.spotify.com/track/1bTmG9Oir37ggslW0sl4c6) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [GAME OVER](https://open.spotify.com/album/4Si8ak6IhfNjzpfl9fSJ9R) | 2:20 | 2021-08-05 |  |
 | [Gang Baby](https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [SLUT SZN](https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke) | 2:18 | 2024-11-25 |  |

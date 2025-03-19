@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuQS7VQhd6f.md) - [plain]
 
 > All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: Marvin Sapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,415 likes - 150 songs - 14 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,516 likes - 150 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

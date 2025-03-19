@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 
 > This is NAV\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,477 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,480 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,14 +30,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 20 | [Wolves \(with NAV\)](https://open.spotify.com/track/1dnsojUNfvhiztcITLzruj) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Meet The Woo 2 \(Deluxe\)](https://open.spotify.com/album/5NTOvCGu7HT4DgJGLXtKUU) | 3:14 |
 | 21 | [Car Sick \(feat\. NAV & Metro Boomin\)](https://open.spotify.com/track/4xisLMFhYADhKnkOCCV4Am) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:39 |
 | 22 | [6AM Thoughts \(with Cash Cobain & Bay Swag\)](https://open.spotify.com/track/4l4gr5KjRl1msqINS47y20) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [6AM Thoughts](https://open.spotify.com/album/6Y7WV9kM9IS5mhcgrvIbfx) | 3:20 |
-| 23 | [Up](https://open.spotify.com/track/5qbcsZMwL0x46sX7VO37Ye) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 3:19 |
-| 24 | [Leaders \(feat\. NAV\)](https://open.spotify.com/track/4D7NrSeqkTarBrJ80b2sBc) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Eternal Atake \(Deluxe\) \- LUV vs\. The World 2](https://open.spotify.com/album/0fEO7g2c5onkaXsybEtuD2) | 3:14 |
+| 23 | [Leaders \(feat\. NAV\)](https://open.spotify.com/track/4D7NrSeqkTarBrJ80b2sBc) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Eternal Atake \(Deluxe\) \- LUV vs\. The World 2](https://open.spotify.com/album/0fEO7g2c5onkaXsybEtuD2) | 3:14 |
+| 24 | [Up](https://open.spotify.com/track/5qbcsZMwL0x46sX7VO37Ye) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 3:19 |
 | 25 | [Held Me Down](https://open.spotify.com/track/0jiW3PNiHJxOhWh9oPBJ7m) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 3:48 |
 | 26 | [Friends & Family](https://open.spotify.com/track/1U6Qqq2JQzOWoHYqtG7pYO) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Emergency Tsunami](https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL) | 2:25 |
 | 27 | [Rexdale](https://open.spotify.com/track/1r9Sbh5cc4kC0g7eUPnscB) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Rexdale](https://open.spotify.com/album/7luxPo6uIc8GseoVfDBqB4) | 2:05 |
 | 28 | [Vicodin](https://open.spotify.com/track/19CWeHbg3Z9XJH4Uzdk6tf) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Bad Habits \(Deluxe\)](https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO) | 2:11 |
-| 29 | [Hit](https://open.spotify.com/track/0gHcxtyWQT0HrlGxaxP1KT) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 2:49 |
-| 30 | [ABOUT YOU \(with NAV\)](https://open.spotify.com/track/098a0ODkRj8IUbEGVZMsyN) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 3:24 |
+| 29 | [ABOUT YOU \(with NAV\)](https://open.spotify.com/track/098a0ODkRj8IUbEGVZMsyN) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 3:24 |
+| 30 | [Hit](https://open.spotify.com/track/0gHcxtyWQT0HrlGxaxP1KT) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 2:49 |
 | 31 | [Baller](https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Baller](https://open.spotify.com/album/1QKQ5VaVGwH8zsqTqGU8Zs) | 2:30 |
 | 32 | [Price On My Head \(feat\. The Weeknd\)](https://open.spotify.com/track/4hqOmrCCJKyiuwDexd8c2t) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Bad Habits \(Deluxe\)](https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO) | 3:37 |
 | 33 | [Codeine \(feat\. Gunna\)](https://open.spotify.com/track/6NzuJWrNriXAbSmscAuSIq) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 49 | [Interstellar \(with Lil Uzi Vert\)](https://open.spotify.com/track/5HRXn4V1qL4CFNizMsFrTy) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 2:44 |
 | 50 | [A$AP Ferg](https://open.spotify.com/track/4EbULzyWMuFx94aoIY1MlJ) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 4:17 |
 
-Snapshot ID: `Z9YUgAAAAAAsvSUds0xqAUVCSOZolhg8`
+Snapshot ID: `Z9dmAAAAAAAPdA5wqsB9WZUtb1AnWnbi`

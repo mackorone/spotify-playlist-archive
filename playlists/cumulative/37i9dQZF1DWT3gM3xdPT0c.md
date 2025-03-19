@@ -4,12 +4,13 @@
 
 > Warm instrumental guitar for a gentle start.
 
-407 songs - 17 hr 29 min
+411 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [13 de Julio](https://open.spotify.com/track/2htFLReJu6umNjsW1jAsMM) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Pampa y Misterio](https://open.spotify.com/album/0l517ILh9o9JHdRw7WsrrX) | 1:51 | 2023-01-20 | 2023-08-26 |
 | [A Marshmellow World](https://open.spotify.com/track/4TezFmLWnhe2gmwSg9oBgN) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [A Marshmellow World](https://open.spotify.com/album/06EGglJ1g08GNBiSEdzctZ) | 1:46 | 2024-11-06 | 2025-03-12 |
+| [A Pause in Time](https://open.spotify.com/track/0JsrO43QxoH9jVIZ5o0kZQ) | [Ivan Pirman](https://open.spotify.com/artist/76BMzkMBbRiZ6WuWDOUPNg) | [A Pause in Time](https://open.spotify.com/album/3SourEMhZgyUDEkb9uMaE3) | 2:22 | 2025-03-18 |  |
 | [A place to go](https://open.spotify.com/track/7oFm6C4wxkkVM1t1Via4mu) | [KORIBA](https://open.spotify.com/artist/0ttPJjx1cSyAn4CNVPNpEJ) | [Lonely Trip](https://open.spotify.com/album/2ezeL6Yi22qbpZnPgjU9nf) | 2:15 | 2023-03-24 | 2024-05-24 |
 | [A Quiet Message](https://open.spotify.com/track/71cuAghXvaIQVBKGRwPDcK) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [A Quiet Message](https://open.spotify.com/album/2oXytMuBdpnQjKnqnSgqdT) | 2:45 | 2023-05-09 | 2023-06-14 |
 | [A Sweet Portrait](https://open.spotify.com/track/3tWMxyyVYEFZDHhvQa2CtY) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [A Sweet Portrait](https://open.spotify.com/album/1BbCTjpeM7eKKLQwpNUzDl) | 2:27 | 2023-03-24 |  |
@@ -236,6 +237,7 @@
 | [Love Again](https://open.spotify.com/track/3QFAzAqPqhFmpodso3L3zX) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [I Found You](https://open.spotify.com/album/5uW6Fo9RnB9IBjHcDtVVwQ) | 2:23 | 2022-03-04 | 2024-07-19 |
 | [Low Hanging Fruit](https://open.spotify.com/track/4Cjmwt8CPG0zusrNcnavxZ) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Low Hanging Fruit](https://open.spotify.com/album/1reJ7jRbbumaDTAabKziE6) | 3:59 | 2022-03-04 | 2023-08-10 |
 | [Low Valleys](https://open.spotify.com/track/7dYhKDt0CuvY007Ftb1YLx) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Low Valleys](https://open.spotify.com/album/52XySoOJ3cX9Pyb8oYYOXO) | 2:43 | 2022-04-22 | 2024-06-08 |
+| [Lullaby](https://open.spotify.com/track/7goB8XbGH0dOpuOKh33M2V) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Lullaby](https://open.spotify.com/album/0gltiSlcJXlCkGICZ5hVx5) | 2:54 | 2025-03-18 |  |
 | [Matter Of Time](https://open.spotify.com/track/0inCIgjn7rsDDvyFVgMCPl) | [Miller & Bronx](https://open.spotify.com/artist/2qDhaB25EdIZQQ8dF4EBqt) | [Matter Of Time](https://open.spotify.com/album/5oM7hQhVfxOl9pRYIv2zDi) | 1:47 | 2022-07-15 | 2022-11-18 |
 | [Maybe Tomorrow It Will Change](https://open.spotify.com/track/6olLemdG5vLF9msH832Lg6) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Maybe Tomorrow It Will Change](https://open.spotify.com/album/0GwHdP2HTwPNhgWvTSR24c) | 2:42 | 2022-03-04 | 2025-03-12 |
 | [Meadows](https://open.spotify.com/track/1808M1IEnm8OFn0FDQvJDm) | [Faelt](https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX) | [Meadows](https://open.spotify.com/album/6HVfGn8vy3W6zFcpf3Oz2b) | 3:22 | 2024-04-19 |  |
@@ -247,7 +249,7 @@
 | [More Than Yesterday](https://open.spotify.com/track/2rdQdrAeQkyO5X6kfwfWO5) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [More Than Yesterday](https://open.spotify.com/album/27MZUFtc98oIebovnNxmVp) | 2:34 | 2022-10-07 | 2023-04-22 |
 | [Morning flight](https://open.spotify.com/track/6cCJDEcjnMC88bJWpfkGIz) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Morning flight](https://open.spotify.com/album/7DpdN294vUmSSPI9EEkv3Q) | 2:18 | 2025-03-11 |  |
 | [Morning Light](https://open.spotify.com/track/0selXaJihgVtLwxUSabMys) | [Hans Johansen](https://open.spotify.com/artist/6mCxkqJgErnJ1HmseA4qsM) | [Morning Light](https://open.spotify.com/album/3WD5ysTL46aG7XskWr62ma) | 3:26 | 2022-11-18 | 2023-05-10 |
-| [Morning Sun](https://open.spotify.com/track/6FGHrwN6licvwTO7hrLrby) | [David Isner](https://open.spotify.com/artist/2WGXK53ulKkW9Cmi7anYRI) | [Morning Sun](https://open.spotify.com/album/7Ek7uY15mW4oWeOq5hHn2R) | 2:28 | 2024-12-10 |  |
+| [Morning Sun](https://open.spotify.com/track/6FGHrwN6licvwTO7hrLrby) | [David Isner](https://open.spotify.com/artist/2WGXK53ulKkW9Cmi7anYRI) | [Morning Sun](https://open.spotify.com/album/7Ek7uY15mW4oWeOq5hHn2R) | 2:28 | 2024-12-10 | 2025-03-19 |
 | [Morning Sunshine](https://open.spotify.com/track/5rsWf7mkphWxE4cssWhRxM) | [Patrick Leon](https://open.spotify.com/artist/7EU9C8bv0IKb2lRUxzhAXO) | [Morning Sunshine](https://open.spotify.com/album/0JFar9Iob4H6VNpItVj5oS) | 1:56 | 2024-06-07 |  |
 | [Morning to Do List](https://open.spotify.com/track/0wlkGWrxewjWnvbbCC8DP1) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Easy Escapes](https://open.spotify.com/album/73E00oJBEjxA3lS0DniBvn) | 2:53 | 2022-08-05 | 2023-02-25 |
 | [Mountain Springs](https://open.spotify.com/track/6FndQWYzwj8kfv30aFAs3W) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [Mountain Spring](https://open.spotify.com/album/6vNMYzLWj0VjiS14yE2zjG) | 2:26 | 2022-06-10 | 2022-09-17 |
@@ -356,6 +358,7 @@
 | [The Other Side Of The Sun](https://open.spotify.com/track/1tQC5wVWIxwsSTY5lPXIeI) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [The Other Side Of The Sun](https://open.spotify.com/album/7DnYdqzWAnfnJEmqFlyBbi) | 2:35 | 2022-04-05 | 2024-05-24 |
 | [The Pine Scent](https://open.spotify.com/track/1mrXKtCqNEV9DskdVP4gHv) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [The Pine Scent](https://open.spotify.com/album/6TiZi0HaJe10KYypuaAVnU) | 2:19 | 2024-01-12 |  |
 | [The Rainbow](https://open.spotify.com/track/17RZOpjS9as3aMnvMA976O) | [Cary Bestwood](https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV) | [The Rainbow](https://open.spotify.com/album/0UBviprrJBKJPfjrfDTqqI) | 2:07 | 2022-05-27 | 2023-03-25 |
+| [The Shy One](https://open.spotify.com/track/2AWuAZwrhr25GkHWhFBJWu) | [Max Stewart](https://open.spotify.com/artist/3QVwxtN8aGF1GSyZqqcEow) | [The Shy One](https://open.spotify.com/album/58mTGqoMhqOcFG4ULgj2NI) | 2:09 | 2025-03-18 |  |
 | [The Space Between Us](https://open.spotify.com/track/7ltsUby2slylSm4sourcaO) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [The Space Between Us](https://open.spotify.com/album/1lN1xuGaayIqMdbh2EpuVN) | 2:11 | 2024-05-10 | 2025-02-20 |
 | [The Summer House](https://open.spotify.com/track/5bc5OxgJbevqYvM1gWXpYg) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Summer House](https://open.spotify.com/album/5PqyY80r1xYaT5Wkqk4BDH) | 2:02 | 2023-04-21 | 2025-02-25 |
 | [The Sun Is a Gift](https://open.spotify.com/track/5UHGm6KfaM0RcutxxYBh33) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [The Sun Is a Gift](https://open.spotify.com/album/3VVQEMWToUITIx6as34Kbe) | 2:50 | 2024-06-07 |  |
@@ -372,6 +375,7 @@
 | [Traveling Through](https://open.spotify.com/track/1UygGXclx9iMNWArEXmQZf) | [Timber Row](https://open.spotify.com/artist/64ICK2JUkKFcevsUA8N8Ll) | [Lone Rider](https://open.spotify.com/album/2KhCe7d9REnKhzfiR3BDFp) | 2:14 | 2022-03-04 | 2023-04-22 |
 | [True At Heart](https://open.spotify.com/track/73h3TJ84CCvwCfvvLpcVdq) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [True At Heart](https://open.spotify.com/album/0F6Y7O5CCZ8Ivlqb1A7uCV) | 2:13 | 2024-08-20 |  |
 | [Tuscany](https://open.spotify.com/track/30Oh4ng8nkRQVhTtJEFI5I) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Tuscany](https://open.spotify.com/album/6HOv6lf3yleb4aJr9H76dw) | 2:04 | 2022-11-25 | 2023-05-10 |
+| [Under the Maple Tree](https://open.spotify.com/track/5rQMtXDTOZJhoYmtegIMFD) | [Auguste Braun](https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc) | [Under the Maple Tree](https://open.spotify.com/album/20E4sk292E3oYqE4dr3VDU) | 2:58 | 2025-03-18 |  |
 | [Under the Stars](https://open.spotify.com/track/4hBZeB6q56Jzq3wDh1MuPF) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Under the Stars](https://open.spotify.com/album/51EkjvbQPcZksWNjfrUi91) | 2:16 | 2023-02-24 | 2024-06-15 |
 | [Unforced](https://open.spotify.com/track/56hk6GkYuk8AmUOdjPEYDb) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [Unforced](https://open.spotify.com/album/1ID1Z4DCgMELtWTnLyscGQ) | 2:21 | 2022-03-04 | 2022-05-27 |
 | [Untroubled by a Rainy Day](https://open.spotify.com/track/6v3HIQUCauIZNQZMo0MExg) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Untroubled by a Rainy Day](https://open.spotify.com/album/7BCgTPmYfV2YhtNsIXcYFR) | 3:03 | 2022-03-04 | 2024-05-10 |

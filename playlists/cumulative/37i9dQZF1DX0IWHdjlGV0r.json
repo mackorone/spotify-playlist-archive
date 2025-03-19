@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-21",
+      "date_removed": null,
       "duration_ms": 189120,
       "name": "Acqua Passata",
       "url": "https://open.spotify.com/track/52eHiUKvh9btZMY8M3JD03"
@@ -688,7 +688,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 200235,
       "name": "Bugie Diverse",
       "url": "https://open.spotify.com/track/5F5vop7HZv4BjauPiUYY7R"
@@ -904,7 +904,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 179863,
       "name": "CHIAGNE (feat. Lazza & Takagi & Ketra)",
       "url": "https://open.spotify.com/track/36EFgeHW1tOUyMAhZ6cjfD"
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 151333,
       "name": "Con uno sguardo (feat. Tony Boy)",
       "url": "https://open.spotify.com/track/1eXLKnYOKvM5WV3J6xvxFm"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 192688,
       "name": "CRAZY LOVE",
       "url": "https://open.spotify.com/track/3HYK8FMGNQu1Whl8DdtsRC"
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 174146,
       "name": "CUORI SPEZZATI",
       "url": "https://open.spotify.com/track/55h9la9ICtndO2PgH8U5E1"
@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 167727,
       "name": "Dimenticare",
       "url": "https://open.spotify.com/track/5EOJ7bFZhGQv61R7vTFXk3"
@@ -1456,7 +1456,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 184615,
       "name": "Dritto al Cuore",
       "url": "https://open.spotify.com/track/2bsczj9bIOWSwWXcVhZEvX"
@@ -1681,6 +1681,24 @@
     },
     {
       "album": {
+        "name": "NON SONO GES\u00d9",
+        "url": "https://open.spotify.com/album/6ExmoTCkfrCs3NbaVRjDeL"
+      },
+      "artists": [
+        {
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115026,
+      "name": "GANGSTA LOVE",
+      "url": "https://open.spotify.com/track/39lWme9vIQaoq6OOofXhLR"
+    },
+    {
+      "album": {
         "name": "Piccolo principe",
         "url": "https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU"
       },
@@ -1796,7 +1814,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-20",
+      "date_removed": null,
       "duration_ms": 164847,
       "name": "HONEY (feat. Lazza & Capo Plaza)",
       "url": "https://open.spotify.com/track/2HIv4bKTCULRZ2eZIkVB3N"
@@ -1818,7 +1836,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 191999,
       "name": "I LOVE IT (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
@@ -1862,7 +1880,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 187881,
       "name": "I P\u2019 ME, TU P\u2019 TE",
       "url": "https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF"
@@ -2088,7 +2106,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 188888,
       "name": "La Notte di San Lorenzo",
       "url": "https://open.spotify.com/track/79Fh7hxRa2QDiLN3VMrFjL"
@@ -2336,7 +2354,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 221631,
       "name": "MADAME - L'anima (feat. Madame)",
       "url": "https://open.spotify.com/track/3go5ZuMoFTKl5ugai8nAKi"
@@ -2390,7 +2408,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-17",
+      "date_removed": null,
       "duration_ms": 161873,
       "name": "Male",
       "url": "https://open.spotify.com/track/3PBBak16foXdHh0trdc8Hd"
@@ -2490,7 +2508,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 165216,
       "name": "MONDAY (feat. Shiva & Michelangelo)",
       "url": "https://open.spotify.com/track/3gMPES6pOosBWxkXAakOxq"
@@ -2732,7 +2750,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 166214,
       "name": "Niente da perdere",
       "url": "https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5"
@@ -3010,7 +3028,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-24",
+      "date_removed": null,
       "duration_ms": 165721,
       "name": "Password",
       "url": "https://open.spotify.com/track/1WXNkrOGGFpG7tjMVHLzxr"
@@ -3130,7 +3148,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 220588,
       "name": "Perdere \u2018a capa (feat. Geolier)",
       "url": "https://open.spotify.com/track/4vd7gUuDg8Ks19SzZxzeHD"
@@ -3302,7 +3320,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 155200,
       "name": "Respiro",
       "url": "https://open.spotify.com/track/31ePh9rOTkIERrloY8BUUc"
@@ -3324,7 +3342,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 171005,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/5JhvP5zFShla9LBIjEh6uO"
@@ -3360,7 +3378,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 187034,
       "name": "SAFARI",
       "url": "https://open.spotify.com/track/6qp6wR3IDPGGSEPJogtkGy"
@@ -3430,7 +3448,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "Scale (con Luch\u00e8)",
       "url": "https://open.spotify.com/track/5kaJg74U4GWosPvjOJujXD"
@@ -3544,7 +3562,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 205840,
       "name": "SI STAT\u2019 TU",
       "url": "https://open.spotify.com/track/6s5DJ2zRf9T3A2VidCCHxZ"
@@ -3724,7 +3742,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 138358,
       "name": "Stanza",
       "url": "https://open.spotify.com/track/2EBlqIr8yZLUqTiWtB9Tgo"
@@ -4242,7 +4260,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 185426,
       "name": "Vogl Sul A Te",
       "url": "https://open.spotify.com/track/4JajIgqHJAV0Neboj76fqG"

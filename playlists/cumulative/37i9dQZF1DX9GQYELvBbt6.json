@@ -1163,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "The End of the F***ing World",
+        "url": "https://open.spotify.com/album/0QE8Ni8QuDwINxg4bjPZIS"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244285,
+      "name": "The End of the F***ing World",
+      "url": "https://open.spotify.com/track/3QjiZvyA3BEVKOldWbwgvS"
+    },
+    {
+      "album": {
         "name": "The Nails",
         "url": "https://open.spotify.com/album/67QCIL6ILTQRP9e7MRMkgl"
       },
@@ -1484,7 +1502,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 185752,
       "name": "\u3061\u3085\u3001\u591a\u69d8\u6027\u3002",
       "url": "https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df"
@@ -1668,7 +1686,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 270900,
       "name": "\u308f\u3092\u3093",
       "url": "https://open.spotify.com/track/2jGj8CmWeybFK4rjZOLowA"
@@ -2396,7 +2414,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 217173,
       "name": "\u5b64\u72ec\u306e\u9be8",
       "url": "https://open.spotify.com/track/1v4FsjoFEp9vgHwVJJBkeV"
@@ -2414,10 +2432,28 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 251266,
       "name": "\u601d\u60f3\u72af",
       "url": "https://open.spotify.com/track/5o3LSzu8xCMDpbAwm4dZ46"
+    },
+    {
+      "album": {
+        "name": "\u604b\u611b\u5f8c\u907a\u75c7",
+        "url": "https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167400,
+      "name": "\u604b\u611b\u5f8c\u907a\u75c7",
+      "url": "https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25"
     },
     {
       "album": {
@@ -2432,7 +2468,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 252928,
       "name": "\u60aa\u5922\u306e\u3088\u3046\u306a - Acoustic",
       "url": "https://open.spotify.com/track/5UedywpBjrrvbhwDzjDAUn"
@@ -3030,7 +3066,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 182114,
       "name": "\u8fce",
       "url": "https://open.spotify.com/track/40B8VGHyDQEa4JlrI6LatP"

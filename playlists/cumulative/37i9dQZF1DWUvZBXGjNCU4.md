@@ -4,12 +4,13 @@
 
 > Warm and cozy acoustic instrumentals.
 
-377 songs - 17 hr 3 min
+380 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [13 de Julio](https://open.spotify.com/track/2htFLReJu6umNjsW1jAsMM) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Pampa y Misterio](https://open.spotify.com/album/0l517ILh9o9JHdRw7WsrrX) | 1:51 | 2023-01-20 | 2023-09-16 |
 | [A Moment To Arise](https://open.spotify.com/track/3122D1oPB9S7azLBXWBrtS) | [Matt Emilien Parker](https://open.spotify.com/artist/1J9TuyJ5QFyXmGqGUHjCYl) | [A Moment To Arise](https://open.spotify.com/album/3eFAeBv4QZXulrBoTmphas) | 2:30 | 2022-05-13 | 2022-06-10 |
+| [A Pause in Time](https://open.spotify.com/track/0JsrO43QxoH9jVIZ5o0kZQ) | [Ivan Pirman](https://open.spotify.com/artist/76BMzkMBbRiZ6WuWDOUPNg) | [A Pause in Time](https://open.spotify.com/album/3SourEMhZgyUDEkb9uMaE3) | 2:22 | 2025-03-18 |  |
 | [A place to go](https://open.spotify.com/track/7oFm6C4wxkkVM1t1Via4mu) | [KORIBA](https://open.spotify.com/artist/0ttPJjx1cSyAn4CNVPNpEJ) | [Lonely Trip](https://open.spotify.com/album/2ezeL6Yi22qbpZnPgjU9nf) | 2:15 | 2023-03-31 | 2023-06-10 |
 | [A Quiet Message](https://open.spotify.com/track/71cuAghXvaIQVBKGRwPDcK) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [A Quiet Message](https://open.spotify.com/album/2oXytMuBdpnQjKnqnSgqdT) | 2:45 | 2023-04-28 | 2023-09-01 |
 | [A Sky Full of Stars](https://open.spotify.com/track/5RMXMzhvM7gptBbxwYrQaH) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [A Sky Full of Stars](https://open.spotify.com/album/7m0M3PVmOoJDlhWGDFSvH1) | 2:36 | 2022-12-09 | 2023-06-23 |
@@ -167,6 +168,7 @@
 | [Ice, Slowly Melting](https://open.spotify.com/track/5aH0ooVXa9MufZGh3t7U11) | [Matt Emilien Parker](https://open.spotify.com/artist/1J9TuyJ5QFyXmGqGUHjCYl) | [A Moment To Arise](https://open.spotify.com/album/3eFAeBv4QZXulrBoTmphas) | 1:58 | 2022-05-13 | 2022-06-10 |
 | [If I Can Make It To The Hill](https://open.spotify.com/track/4CMxXvhCI8kVTsHqdmN2IZ) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [If I Can Make It To The Hill](https://open.spotify.com/album/7Cd8BWAq74gw22EGkK8HIu) | 4:04 | 2022-05-13 | 2024-04-06 |
 | [Im Sonnenblumenfeld](https://open.spotify.com/track/3IFZMY6ohZsOgTVcMyL5b8) | [Erling Kruger](https://open.spotify.com/artist/4yyGsrMPRSGVkD8eNDfIGB) | [Am Flussufer](https://open.spotify.com/album/16sGnI2slEAdvJ1PHZkHmJ) | 2:55 | 2022-05-13 | 2022-05-27 |
+| [Impulses](https://open.spotify.com/track/3kmBJdeCOtTSRpbkfhJJcR) | [Bo Svensson](https://open.spotify.com/artist/6zWJx2jK0mRPBJEWMWyGTQ) | [Impulses](https://open.spotify.com/album/5bVqWoBoZ3OFiUkgF9Dgs1) | 2:07 | 2025-03-18 |  |
 | [In A Slow Moment](https://open.spotify.com/track/6tHQxrvxKbZAr2E0wEoX87) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [In A Slow Moment](https://open.spotify.com/album/0AJSoKEOFJ7uoaE0tqh8m5) | 2:50 | 2022-05-13 | 2024-04-06 |
 | [In Daisies Lain](https://open.spotify.com/track/5cfyGiPqoeKsIGgnmj6Hvq) | [Georg Gardner](https://open.spotify.com/artist/6f0loscSdyOfbHMWJSV9Pv) | [In Daisies Lain](https://open.spotify.com/album/48Ry8I2qQ5R6wyMfVQMjwf) | 2:21 | 2022-12-23 | 2023-06-23 |
 | [In Over My Head](https://open.spotify.com/track/67Gpq5M3Eo5v0rLIr9Upse) | [Charlie Oakfield](https://open.spotify.com/artist/2ExlksqshO8Lce70P62KN1) | [In Over My Head](https://open.spotify.com/album/1oJxvFxbM8zooEZyCnbrSG) | 3:47 | 2024-07-19 |  |
@@ -191,6 +193,7 @@
 | [Last Days of April](https://open.spotify.com/track/1S7CCMZhklFA5qQQ7MpRoi) | [Lido Danielle](https://open.spotify.com/artist/4xfdrrJlyc8m3dJS5W59OP) | [Last Days of April](https://open.spotify.com/album/356KV0cpPpgKnxca5zQNPx) | 2:51 | 2023-08-11 |  |
 | [Last Fall](https://open.spotify.com/track/7cJxIvDCtQ42oQDmnqw7bP) | [Diego de Frigiliana](https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7) | [Last Fall](https://open.spotify.com/album/12UyG4b6DjNB3KT7bEsl6i) | 2:31 | 2025-01-20 |  |
 | [Lavendel](https://open.spotify.com/track/4z9Qej0akvAJ9SRbSa4LGY) | [Suno Light](https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h) | [Green Fields](https://open.spotify.com/album/2Tlm0lRIBuVsLhxPJiJc39) | 2:57 | 2023-02-24 | 2024-03-08 |
+| [Leben](https://open.spotify.com/track/64Fui69wRsnb7DGj00asBt) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Leben](https://open.spotify.com/album/7uzp1YQSlqHwlFOzjxRwoS) | 2:38 | 2025-03-18 |  |
 | [Light on the Horizon](https://open.spotify.com/track/0ZJ3l5D3mVtv7JPS63OITC) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Light on the Horizon](https://open.spotify.com/album/6UVIzwrAE25SibE8HWlrFP) | 2:29 | 2022-10-07 | 2024-04-06 |
 | [Lighthouse](https://open.spotify.com/track/527HRQnZDhhXM4fWV3iTga) | [Moody Me](https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8) | [Lighthouse](https://open.spotify.com/album/3AvjxvjZIFayjwENZ5ZFni) | 2:42 | 2022-05-13 | 2024-04-06 |
 | [Like no other](https://open.spotify.com/track/4OPE3wPxaqWeUtz0BmBwpW) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Like no other](https://open.spotify.com/album/75k6x2e7p4fOqFTYtkJtQb) | 2:32 | 2023-02-24 |  |

@@ -1,28 +1,32 @@
 {
   "description": "The playlist made for furries, by furries.  Request @ spotify.furrest.online",
-  "num_followers": 524,
+  "num_followers": 523,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADV/CYlDc82RMKWLnxyp2vqz5IyGRZ",
+  "snapshot_id": "AAADWdx79kL9Ab67KZGkxMvfJVRuU/oB",
   "tracks": [
     {
-      "added_at": "2025-03-11 21:33:40",
+      "added_at": "2025-03-18 20:21:30",
       "album": {
-        "name": "herdbound",
-        "url": "https://open.spotify.com/album/1U37WNDGRpBEG0SreBA2Yy"
+        "name": "long_time.MP4",
+        "url": "https://open.spotify.com/album/2D2bxVuPyflihXmnDerYUN"
       },
       "artists": [
         {
-          "name": "bit depth",
-          "url": "https://open.spotify.com/artist/3ANWcrMiEHWt9CdQaLBRiZ"
+          "name": "lil fasty",
+          "url": "https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU"
+        },
+        {
+          "name": "zerofault",
+          "url": "https://open.spotify.com/artist/65tVi1aPs0FiP3FujkbNeo"
         }
       ],
-      "duration_ms": 283276,
-      "name": "antler crimes",
-      "url": "https://open.spotify.com/track/4aNz4UAOIBvC6hnnobhUuF"
+      "duration_ms": 124338,
+      "name": "long_time.MP4",
+      "url": "https://open.spotify.com/track/5AKjpH0izAn7ZRK38LUiAR"
     },
     {
       "added_at": "2025-03-07 21:59:26",
@@ -95,6 +99,22 @@
       "duration_ms": 164571,
       "name": "nonbinary",
       "url": "https://open.spotify.com/track/3hJl4ZMJkaPCowO2BdE2Oe"
+    },
+    {
+      "added_at": "2025-03-11 21:33:40",
+      "album": {
+        "name": "herdbound",
+        "url": "https://open.spotify.com/album/1U37WNDGRpBEG0SreBA2Yy"
+      },
+      "artists": [
+        {
+          "name": "bit depth",
+          "url": "https://open.spotify.com/artist/3ANWcrMiEHWt9CdQaLBRiZ"
+        }
+      ],
+      "duration_ms": 283276,
+      "name": "antler crimes",
+      "url": "https://open.spotify.com/track/4aNz4UAOIBvC6hnnobhUuF"
     },
     {
       "added_at": "2025-03-10 01:38:56",

@@ -1,28 +1,32 @@
 {
   "description": "Cruise to the smooth grooves of these yacht rock tunes.",
-  "num_followers": 1649074,
+  "num_followers": 1649257,
   "original_name": "Yacht Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4UcjQAAAACfPPLlHrYfWNFfk9Wl7ORk",
+  "snapshot_id": "Z9n+4wAAAAA+eO5mBc301z2kSPLIkdwc",
   "tracks": [
     {
       "added_at": "2022-11-23 23:22:42",
       "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+        "name": "Lean on Me: The Best of Bill Withers",
+        "url": "https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Grover Washington, Jr.",
+          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
+        },
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
-      "duration_ms": 246040,
-      "name": "Human Nature",
-      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
+      "duration_ms": 237373,
+      "name": "Just the Two of Us (feat. Bill Withers) - Edit",
+      "url": "https://open.spotify.com/track/2tH28YyKYOldxhuBHoI79M"
     },
     {
       "added_at": "2022-11-23 23:22:42",
@@ -43,22 +47,18 @@
     {
       "added_at": "2022-11-23 23:22:42",
       "album": {
-        "name": "Lean on Me: The Best of Bill Withers",
-        "url": "https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C"
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
       "artists": [
         {
-          "name": "Grover Washington, Jr.",
-          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
-        },
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 237373,
-      "name": "Just the Two of Us (feat. Bill Withers) - Edit",
-      "url": "https://open.spotify.com/track/2tH28YyKYOldxhuBHoI79M"
+      "duration_ms": 246040,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
     },
     {
       "added_at": "2022-11-23 23:22:42",
@@ -209,6 +209,22 @@
       "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
     },
     {
+      "added_at": "2025-03-18 23:16:51",
+      "album": {
+        "name": "Sweet Vendetta",
+        "url": "https://open.spotify.com/album/6VzCFPdEdR0JghlEpDMhk6"
+      },
+      "artists": [
+        {
+          "name": "Adrian Gurvitz",
+          "url": "https://open.spotify.com/artist/1VKSw4zNYbYK2BXbOOXkcd"
+        }
+      ],
+      "duration_ms": 254426,
+      "name": "The Wonder of It All",
+      "url": "https://open.spotify.com/track/4K27hW9Y2KCagcBscyxCHA"
+    },
+    {
       "added_at": "2022-11-23 23:22:42",
       "album": {
         "name": "Toto IV",
@@ -271,6 +287,22 @@
       "duration_ms": 213973,
       "name": "Steal Away - Remastered",
       "url": "https://open.spotify.com/track/7v5rsCN3LhX9XaIlWyTdx3"
+    },
+    {
+      "added_at": "2025-03-18 23:16:51",
+      "album": {
+        "name": "Maxus",
+        "url": "https://open.spotify.com/album/3NqdoUkICbpsyzX1d5fzJO"
+      },
+      "artists": [
+        {
+          "name": "Maxus",
+          "url": "https://open.spotify.com/artist/23dBg5HdfYGtBBc96KfyWw"
+        }
+      ],
+      "duration_ms": 202386,
+      "name": "Keep a Light On",
+      "url": "https://open.spotify.com/track/2Vt8R8AmB7zBd5gS7CmlW1"
     },
     {
       "added_at": "2022-11-23 23:22:42",
@@ -383,6 +415,22 @@
       "duration_ms": 283400,
       "name": "How Much I Feel",
       "url": "https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w"
+    },
+    {
+      "added_at": "2025-03-18 23:16:51",
+      "album": {
+        "name": "Arcade",
+        "url": "https://open.spotify.com/album/0a1A3fIDAcAGNjtOkuYSOj"
+      },
+      "artists": [
+        {
+          "name": "Patrick Simmons",
+          "url": "https://open.spotify.com/artist/1kZxI5FlVdFxgoRaiJ8hf0"
+        }
+      ],
+      "duration_ms": 198840,
+      "name": "Sue Sad",
+      "url": "https://open.spotify.com/track/089Zaqd0wVe4klO5ulU8ZP"
     },
     {
       "added_at": "2022-11-23 23:22:42",
@@ -515,6 +563,22 @@
       "duration_ms": 260866,
       "name": "So Into You",
       "url": "https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX"
+    },
+    {
+      "added_at": "2025-03-18 23:16:51",
+      "album": {
+        "name": "Bi-Coastal",
+        "url": "https://open.spotify.com/album/18q7pXVYXXcuDPkstx2yxC"
+      },
+      "artists": [
+        {
+          "name": "Peter Allen",
+          "url": "https://open.spotify.com/artist/6748v9yNrbb4PPJuvfoMRa"
+        }
+      ],
+      "duration_ms": 233893,
+      "name": "One Step Over The Borderline",
+      "url": "https://open.spotify.com/track/0vC5XOsNOv90a578plbJMs"
     },
     {
       "added_at": "2022-11-23 23:22:42",
@@ -817,6 +881,22 @@
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
     },
     {
+      "added_at": "2025-03-18 23:16:51",
+      "album": {
+        "name": "Take Me to Your Heaven",
+        "url": "https://open.spotify.com/album/4g1mkfQkdM7nh1Dfgxo7dp"
+      },
+      "artists": [
+        {
+          "name": "Stevie Woods",
+          "url": "https://open.spotify.com/artist/4ReLjO7IQ9EehWClyzlPds"
+        }
+      ],
+      "duration_ms": 227026,
+      "name": "Steal the Night",
+      "url": "https://open.spotify.com/track/3SZefPGkYIBiBodCgMzWie"
+    },
+    {
       "added_at": "2023-10-27 19:13:41",
       "album": {
         "name": "The Very Best Of Dan Fogelberg",
@@ -901,6 +981,22 @@
       "url": "https://open.spotify.com/track/62obgbkuUt75nDIiIcLI4T"
     },
     {
+      "added_at": "2025-03-18 23:16:51",
+      "album": {
+        "name": "Dane Donohue",
+        "url": "https://open.spotify.com/album/34LLJFmhTpNRaKVR5qnqwx"
+      },
+      "artists": [
+        {
+          "name": "Dane Donohue",
+          "url": "https://open.spotify.com/artist/4kTI0EhldC81wN7PSBki3A"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "Tracey",
+      "url": "https://open.spotify.com/track/70Y477l8SQjtHb1eJxk215"
+    },
+    {
       "added_at": "2024-03-28 13:52:19",
       "album": {
         "name": "Brian Elliot",
@@ -979,6 +1075,22 @@
       "duration_ms": 220853,
       "name": "Take Me to Your Heaven",
       "url": "https://open.spotify.com/track/2QQDZl9xzGOM3z0JevtVgZ"
+    },
+    {
+      "added_at": "2025-03-18 23:16:51",
+      "album": {
+        "name": "Breezin'",
+        "url": "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 341733,
+      "name": "Breezin'",
+      "url": "https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY"
     },
     {
       "added_at": "2022-11-23 23:22:42",
@@ -1497,6 +1609,22 @@
       "url": "https://open.spotify.com/track/1JFt7RvlIgRrTs4dXYbw0o"
     },
     {
+      "added_at": "2025-03-18 23:16:51",
+      "album": {
+        "name": "Cool Fool",
+        "url": "https://open.spotify.com/album/5y5UZa5Nl26PfFugFworBq"
+      },
+      "artists": [
+        {
+          "name": "Bruce Roberts",
+          "url": "https://open.spotify.com/artist/1liZxHhIHGMKRPV0Fdy4a5"
+        }
+      ],
+      "duration_ms": 265106,
+      "name": "Cool Fool",
+      "url": "https://open.spotify.com/track/2Xsl0KsPjC6U9i8eiT7UM2"
+    },
+    {
       "added_at": "2022-11-23 23:22:42",
       "album": {
         "name": "Maxus",
@@ -2005,6 +2133,22 @@
       "url": "https://open.spotify.com/track/0pDCVNozy0RLEfQpJ6bPYJ"
     },
     {
+      "added_at": "2025-03-18 23:16:51",
+      "album": {
+        "name": "Messina",
+        "url": "https://open.spotify.com/album/3smMqT4lzj37LW1u35NVXd"
+      },
+      "artists": [
+        {
+          "name": "Jim Messina",
+          "url": "https://open.spotify.com/artist/62MaT134frQwZdcvQcjcSY"
+        }
+      ],
+      "duration_ms": 192760,
+      "name": "Money Alone",
+      "url": "https://open.spotify.com/track/0qQ54H5Lovb3oLxg9Nd9Vj"
+    },
+    {
       "added_at": "2022-11-23 23:22:42",
       "album": {
         "name": "Windsong",
@@ -2051,6 +2195,22 @@
       "duration_ms": 336533,
       "name": "Who's Right, Who's Wrong",
       "url": "https://open.spotify.com/track/0ci1kKhT51MR9Ghd43S8Y7"
+    },
+    {
+      "added_at": "2025-03-18 23:16:51",
+      "album": {
+        "name": "Coming Home to You",
+        "url": "https://open.spotify.com/album/1alPcdlT7j3E32tjaW2d9A"
+      },
+      "artists": [
+        {
+          "name": "Michael Franks",
+          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
+        }
+      ],
+      "duration_ms": 241680,
+      "name": "Coming Home to You",
+      "url": "https://open.spotify.com/track/6rtsYCFUB1ugObbwEPPGOx"
     },
     {
       "added_at": "2023-08-15 18:29:14",

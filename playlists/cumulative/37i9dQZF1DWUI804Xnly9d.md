@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-503 songs - 1 day 4 hr 17 min
+504 songs - 1 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Kahani](https://open.spotify.com/track/6sMxjlCiYvcfmK8DxfIXeH) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Kahani](https://open.spotify.com/album/7I29dbTNdImBhxnqhOEEWD) | 4:05 | 2024-03-14 | 2024-08-09 |
 | [Kaheen Dur](https://open.spotify.com/track/3aao7Ivw6dX2JwadKVB86f) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa) | [Kaheen Dur](https://open.spotify.com/album/1qSuMszKzt2pQUnBD4ZiDD) | 3:20 | 2023-07-12 | 2023-09-16 |
 | [Kaisa Hai Tu](https://open.spotify.com/track/7ha7c175FMuemBB38vvIrl) | [Tirth Thakkar](https://open.spotify.com/artist/3b98XmPzCYNOIX2m8GzqAf) | [Kaisa Hai Tu](https://open.spotify.com/album/42ymCah47LkmJtV1AhjJAj) | 3:15 | 2024-03-11 | 2024-05-07 |
-| [Kaise Bataun](https://open.spotify.com/track/7kZPzHdYiNLacsoCBxSpI3) | [Sur](https://open.spotify.com/artist/6L5KkoxG4x8q5kGTMER0U5) | [Kaise Bataun](https://open.spotify.com/album/2N8oJuriRWv8yM4nNIAclm) | 3:10 | 2025-02-13 |  |
+| [Kaise Bataun](https://open.spotify.com/track/7kZPzHdYiNLacsoCBxSpI3) | [Sur](https://open.spotify.com/artist/6L5KkoxG4x8q5kGTMER0U5) | [Kaise Bataun](https://open.spotify.com/album/2N8oJuriRWv8yM4nNIAclm) | 3:10 | 2025-02-13 | 2025-03-19 |
 | [Kaisi Jadugari](https://open.spotify.com/track/6gkf7KZtpXHSRDuAyIkEMA) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Kaisi Jadugari](https://open.spotify.com/album/157Zl2ubrkwXp4w73P1uhL) | 4:27 | 2023-05-17 | 2023-11-11 |
 | [Kaisi Paheli Hai](https://open.spotify.com/track/3FATescVmj7FwpMBFuxiTi) | [Harsh Aviral](https://open.spotify.com/artist/6CubMMfX7jm8MABuC9YKo1) | [Kaisi Paheli Hai](https://open.spotify.com/album/0ahcJDHn6Wf2JMVv1z5G5z) | 3:15 | 2025-03-13 |  |
 | [Kajal](https://open.spotify.com/track/0YVpNFgaEt2NFBAcUBiZU0) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl) | [Madari](https://open.spotify.com/album/44VVN1lOB0mYZFEMDv5yX8) | 2:41 | 2023-06-09 | 2023-08-04 |
@@ -378,6 +378,7 @@
 | [Rehne De](https://open.spotify.com/track/6ncgVTdFLosRDk7jykKI92) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB), [Mikey McCleary](https://open.spotify.com/artist/0Qmekzsp0MrycjVuSteJNn) | [Subah Ke Taare](https://open.spotify.com/album/0ysTWzXqgUdfk15ZHZsYye) | 3:52 | 2024-02-07 | 2024-08-10 |
 | [Rihaa](https://open.spotify.com/track/5dOj9WPvBwVjTwRtp9o3x9) | [Vansh Verma](https://open.spotify.com/artist/6gy4NgGFpdJF5jRvNOVt45) | [Rihaa](https://open.spotify.com/album/2HlZYPatRLjhAR1rTRZEiH) | 4:39 | 2024-06-28 | 2024-08-31 |
 | [Rok Na Paya](https://open.spotify.com/track/4YuFsqg0XZdOvsspVcoyeF) | [Swastik The Band](https://open.spotify.com/artist/740SYcL7Hl2TatDM2wYV8V) | [Rok Na Paya](https://open.spotify.com/album/1tWrFRHjlm4O3WOQgZwEXo) | 3:48 | 2024-03-21 | 2024-04-13 |
+| [Rooh 2.0](https://open.spotify.com/track/7Cc3Vu309kkiPjhaE5VRaX) | [Arslan Nizami](https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203), [Qafilah](https://open.spotify.com/artist/0Vla5cpeRPCjHktZzvsnOd) | [Riqqat](https://open.spotify.com/album/3wITZhDN89HODZfs4IawWA) | 4:45 | 2025-03-18 |  |
 | [Roshni Ka Sira](https://open.spotify.com/track/59jj3LZxOuRbmdfyes94m4) | [Pulkit Jain](https://open.spotify.com/artist/1XUV920NkslALtUg2Msk4U) | [Roshni Ka Sira](https://open.spotify.com/album/3BMZq92gJk681qk9Y899Zo) | 3:41 | 2023-07-03 | 2024-01-16 |
 | [Rozana](https://open.spotify.com/track/1C2V2Y06UX5V0UQfTWmmcc) | [Sahil](https://open.spotify.com/artist/0VTeniNQkQ4cezeg8IFwF9), [Harshvardhan Gadhvi](https://open.spotify.com/artist/4vqHtxsxPXsEQEwkE7QzeC), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep) | [Rozana](https://open.spotify.com/album/60oSlQMsD8VdJLgv8UiVvi) | 2:44 | 2024-11-22 | 2025-02-04 |
 | [Ruk Ja Zara](https://open.spotify.com/track/1kjZhK0yDSb0EJ3CtAhdLo) | [Shaktay](https://open.spotify.com/artist/4RdvM1ZV9Qpkf9Og8jqu6N) | [Ruk Ja Zara](https://open.spotify.com/album/709EDNOfKy6fgn33Hmu1df) | 3:56 | 2024-04-12 | 2024-05-16 |

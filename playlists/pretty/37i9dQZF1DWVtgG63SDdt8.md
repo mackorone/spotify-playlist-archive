@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Luke Bower
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,256 likes - 98 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,253 likes - 98 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 15 | [Man of the Valley 2025](https://open.spotify.com/track/0zZZG6uLUv4zE3cCsrEInN) | [John Waller](https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL), [Sophee Waller](https://open.spotify.com/artist/3ahmnB1cPV3cBRP0WX0Asf) | [Man of the Valley 2025](https://open.spotify.com/album/0QDAEmUwbLWXtGCZTZWPNv) | 4:16 |
 | 16 | [Holy Place](https://open.spotify.com/track/6MM8mhMbWxZBgd4UPOQ9Me) | [Todd Tilghman](https://open.spotify.com/artist/5k73v1si3UFBqtVQciw7RQ) | [Holy Place](https://open.spotify.com/album/0n8mlD4Phqx3PvbVFVHBiH) | 3:31 |
 | 17 | [Can't Help But Praise \- Acoustic](https://open.spotify.com/track/4q1YjQtBrnUghS2eq0rRoM) | [Jordan Colle](https://open.spotify.com/artist/5ZWnENjJ3uHA9fyKeUBvH1) | [Can't Help But Praise](https://open.spotify.com/album/1tZ8t1azZS4BzGJZED2NlN) | 3:44 |
-| 18 | [You Are](https://open.spotify.com/track/5Z0KDq0pU1hm8KsT6NnAcy) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy), [Cecily Hennigan](https://open.spotify.com/artist/3zYhPKXlVf8jlSHqlpiqWh) | [Songs We've Been Meaning To Release](https://open.spotify.com/album/0tPpIgGuLCnWJO75ynrLUt) | 3:23 |
+| 18 | [You Are](https://open.spotify.com/track/5Z0KDq0pU1hm8KsT6NnAcy) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Songs We've Been Meaning To Release](https://open.spotify.com/album/0tPpIgGuLCnWJO75ynrLUt) | 3:23 |
 | 19 | [Tend \- Live](https://open.spotify.com/track/48coTJmM6gVsjGQcvzihge) | [Emmy Rose](https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Tend \(Live\)](https://open.spotify.com/album/5ggbPIq5UwLEthNL7uM1RX) | 6:49 |
 | 20 | [The Church \- Live](https://open.spotify.com/track/0POGWdh6yA9NBiIAzUWFAk) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [The Church \(Live\)](https://open.spotify.com/album/2Dq1ZZ2r98oP6tBjClD7K9) | 9:06 |
 | 21 | [Trust In God / Blessed Assurance](https://open.spotify.com/track/3V4YXdFvGT2ycg1JIcLwFR) | [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF), [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Trust In God / Blessed Assurance](https://open.spotify.com/album/76Lrnk0xOjrXIr8ZlmVNrE) | 3:51 |

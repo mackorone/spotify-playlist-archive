@@ -4,7 +4,7 @@
 
 > Your essential Ramadan Series songs! Cover: Elissa
 
-126 songs - 6 hr 41 min
+127 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Tetr Mosalsal Layali AL Shemaisy](https://open.spotify.com/track/3ADHv3poD95cLwiQUbY2d7) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Tetr Mosalsal Layali AL Shemaisy](https://open.spotify.com/album/0xvlOd8fvLrWIp4hDM9PY1) | 3:58 | 2025-03-13 |  |
 | [Titanic](https://open.spotify.com/track/4hmE5n6FXjXipmfTIIQP8c) | [Samad Officiel](https://open.spotify.com/artist/0PugkIpOnPjZTEEcrLO3PB) | [Titanic](https://open.spotify.com/album/62AOGBLuBhM3a47OFRQyRL) | 2:46 | 2025-03-06 |  |
 | [Um 44](https://open.spotify.com/track/2MJtV0sadDfLHWHCrWbZGy) | [ابلة فاهيتا](https://open.spotify.com/artist/5m3Ulg93AiFnsEN6dGnp16) | [ام ٤٤](https://open.spotify.com/album/6Gd0TCMk22xKVrncE9mHVe) | 3:06 | 2025-03-03 | 2025-03-11 |
-| [wa7edo elwa7ed](https://open.spotify.com/track/3x0RpuXv5fOdKyPvoDoowe) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [wa7edo elwa7ed](https://open.spotify.com/album/7LzA52HvdLTCum6HkGROyp) | 3:04 | 2025-03-06 |  |
+| [wa7edo elwa7ed](https://open.spotify.com/track/3x0RpuXv5fOdKyPvoDoowe) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [wa7edo elwa7ed](https://open.spotify.com/album/7LzA52HvdLTCum6HkGROyp) | 3:04 | 2025-03-06 | 2025-03-19 |
 | [We Lesa Ya Donya](https://open.spotify.com/track/3T3rQCq9rwox4gF1ATaJNz) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [We Lesa Ya Donya](https://open.spotify.com/album/5Cmt2DK38UfaUXSYnWYxdm) | 3:08 | 2024-03-10 | 2024-03-13 |
 | [We9tach](https://open.spotify.com/track/3Bcp7WUGhMU0Zs0EwWd71f) | [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [We9tach](https://open.spotify.com/album/0tVGUZGgQ4ykPtq3TVvzyA) | 3:21 | 2024-03-10 | 2025-03-04 |
 | [Ya Harema \( Moslsl Zahra Omri \)](https://open.spotify.com/track/1QcjJYJzOFtfO8HLiodEWW) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Ya Harema \( Moslsl Zahra Omri \)](https://open.spotify.com/album/6WRRi0pMCPGnYmYPNEALLJ) | 3:23 | 2025-03-06 |  |
@@ -105,6 +105,7 @@
 | [حبنا و حكاياته \[من مسلسل بقينا اتنين\]](https://open.spotify.com/track/0stK9caha5c11yPeowpbqc) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [حبنا و حكاياته \[من مسلسل بقينا اتنين\]](https://open.spotify.com/album/6mB0Ng7Ha7EuQ7WDuvUUNC) | 4:21 | 2024-03-27 | 2025-02-28 |
 | [حبيبي وابن حبيبي \- من مسلسل كامل العدد ++](https://open.spotify.com/track/5OcVGQFVNvHt25O5ko22tF) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [حبيبي وابن حبيبي \(من مسلسل كامل العدد ++\)](https://open.spotify.com/album/67zii02wzTY1Zq4ExpGAUy) | 3:16 | 2025-03-06 |  |
 | [حضرات السادة](https://open.spotify.com/track/1Z4Rd2m5gjmyU4BIXqzUZo) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Mariam Aziz](https://open.spotify.com/artist/563PinGcFs6wzMU2fxgeXD) | [حضرات السادة](https://open.spotify.com/album/7M5PupuhIP6Y5GzMnHsGlp) | 2:26 | 2025-03-03 |  |
+| [حفلة تنكرية](https://open.spotify.com/track/41IZAYettcwnRMaS3ZewW7) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [حفلة تنكرية](https://open.spotify.com/album/1jlPHHOIkfLUYWzbsCOBxF) | 3:10 | 2025-03-18 |  |
 | [خلصانه \- من مسلسل فراوله](https://open.spotify.com/track/3YZwHqngxGBWAgmji4VGRY) | [El Madfaagya](https://open.spotify.com/artist/7Dw6fBcDUSorbHGdg1gsub), [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo), [Nelly Karim](https://open.spotify.com/artist/1gLtm4UDve4ZIJ8keqUq9G) | [خلصانه \(من مسلسل فراوله\)](https://open.spotify.com/album/5NuSjuJJmjZFS8W6t3Wb1t) | 2:33 | 2024-04-05 | 2025-02-28 |
 | [دوارة](https://open.spotify.com/track/5OXhTWBpG2CKbPjORQXmCf) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [دوارة](https://open.spotify.com/album/0Gnt7VNxg6SGCpeGlbPSvP) | 3:17 | 2024-03-10 | 2025-03-07 |
 | [زامباهولا](https://open.spotify.com/track/3GxSdwd4Y1i5xCOY2IDPh4) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [زامباهولا](https://open.spotify.com/album/29d089qSiwvpl7VZq1yeJa) | 2:54 | 2025-03-04 |  |

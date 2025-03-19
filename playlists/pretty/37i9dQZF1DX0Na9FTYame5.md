@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Na9FTYame5.md) - [plain]
 
 > Deutschrap für die emotions\. Cover: Florentina, FOURTY
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,791 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,786 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZpGiQ.md) - [plain]
 
 > This is Lil Wayne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,716 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,808 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZpGiQ.md) - [plain]
 | 31 | [Pop It Off](https://open.spotify.com/track/41Rb31TeUfCQqSHrPTbsrL) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Pop It Off](https://open.spotify.com/album/2K72Xpc2mhuNAIz2mwcvwt) | 3:09 |
 | 32 | [Back on the Road \(feat\. Lil Wayne\)](https://open.spotify.com/track/3MsEJbnW0SYWNzQ6D1j5Xm) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [The Crossroads](https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR) | 2:36 |
 | 33 | [Tweaker \(feat\. Lil Wayne\) \- Remix](https://open.spotify.com/track/16m5nuykE5WbvIjSAFvK6E) | [GELO](https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tweaker \(Remix\)](https://open.spotify.com/album/6bBfMv4a8sG6Qj8N1naxuX) | 3:38 |
-| 34 | [Let It Rock](https://open.spotify.com/track/6TrNRd98WksT9Kkmx9uj6R) | [Kevin Rudolf](https://open.spotify.com/artist/0Chxmm4XMM87mJOHvyiUzL), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [In The City](https://open.spotify.com/album/5bHhH3k4p4ugORIb3q9BHd) | 3:51 |
-| 35 | [I'm So Paid](https://open.spotify.com/track/6M07mzRP5ByQiWexLtR8PU) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 4:24 |
+| 34 | [I'm So Paid](https://open.spotify.com/track/6M07mzRP5ByQiWexLtR8PU) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 4:24 |
+| 35 | [Let It Rock](https://open.spotify.com/track/6TrNRd98WksT9Kkmx9uj6R) | [Kevin Rudolf](https://open.spotify.com/artist/0Chxmm4XMM87mJOHvyiUzL), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [In The City](https://open.spotify.com/album/5bHhH3k4p4ugORIb3q9BHd) | 3:51 |
 | 36 | [Rich As Fuck](https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [I Am Not A Human Being II \(Deluxe\)](https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK) | 3:43 |
 | 37 | [Beware](https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 3:55 |
 | 38 | [A Milli](https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 3:41 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZpGiQ.md) - [plain]
 | 45 | [Back That Azz Up](https://open.spotify.com/track/6o2g1BJvtYQssH84kBYs7y) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Mannie Fresh](https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1) | [400 Degreez](https://open.spotify.com/album/6wpqS71CJr3I0dLguYiZdJ) | 4:25 |
 | 46 | [Twist Made Me](https://open.spotify.com/track/4AZKDSYA1qtpiZQBdXno2j) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Sorry 4 The Wait](https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp) | 2:28 |
 | 47 | [All The Time](https://open.spotify.com/track/0USZx50eApN045zIIyjePN) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Natasha Mosley](https://open.spotify.com/artist/1fYdgyGBrMIEML5cuo5FpZ) | [All The Time](https://open.spotify.com/album/0FLBYsbtkgS11YvAnJc0Ct) | 4:24 |
-| 48 | [Droppin' Seeds \(feat\. Lil' Wayne\)](https://open.spotify.com/track/39u2PsqrAZpZ0KPx6CjasV) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 1:00 |
-| 49 | [Blunt Blowin](https://open.spotify.com/track/0BKXZkU8oGad58MyTFyFXu) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter IV \(Complete Edition\)](https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp) | 5:12 |
+| 48 | [Blunt Blowin](https://open.spotify.com/track/0BKXZkU8oGad58MyTFyFXu) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter IV \(Complete Edition\)](https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp) | 5:12 |
+| 49 | [Droppin' Seeds \(feat\. Lil' Wayne\)](https://open.spotify.com/track/39u2PsqrAZpZ0KPx6CjasV) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 1:00 |
 | 50 | [Believer \(feat\. Lil Wayne\)](https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Believer \(feat\. Lil Wayne\)](https://open.spotify.com/album/6Q0aPCxLqK5EDSJdlPkNeT) | 3:39 |
 
-Snapshot ID: `Z9YUgAAAAAAoBgoCzCObLJPNk14qOpDm`
+Snapshot ID: `Z9dmAAAAAADIvPCH04ZiGLVNpDuCeg1X`

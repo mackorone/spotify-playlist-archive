@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 
 > Así como lo pediste, ponte cursi con las canciones más románticas\. La Arrolladora en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,029,698 likes - 125 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,029,831 likes - 125 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 184116,
+  "num_followers": 184139,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAADopZp44UKs1z9hEsi+4QdS",
+  "snapshot_id": "Z9dmAAAAAACj6XuRbQr9MnY8iYxduirl",
   "tracks": [
     {
       "added_at": null,
@@ -819,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Pearl Sessions",
+        "url": "https://open.spotify.com/album/2wkjA7zJrCFQcBJpD4tHA7"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 99706,
+      "name": "Overheard In The Studio...",
+      "url": "https://open.spotify.com/track/0rB1ACV8tKm8lDGtsgMfIO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joplin In Concert",
         "url": "https://open.spotify.com/album/2wb0OEOLPIiEtsqq2tgCk5"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 345800,
       "name": "All Is Loneliness - Live at The Fillmore West, San Francisco, CA - April 1970",
       "url": "https://open.spotify.com/track/7AQD7uDsoBbVE9gk0Rb2pu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Pearl Sessions",
-        "url": "https://open.spotify.com/album/2wkjA7zJrCFQcBJpD4tHA7"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 99706,
-      "name": "Overheard In The Studio...",
-      "url": "https://open.spotify.com/track/0rB1ACV8tKm8lDGtsgMfIO"
     },
     {
       "added_at": null,

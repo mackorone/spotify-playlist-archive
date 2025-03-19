@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 30144,
+  "num_followers": 30154,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAACzFMhrfLNKT2SPQZP9ZrtI",
+  "snapshot_id": "Z9dmAAAAAABK1U3lvUtRr8MKoVeP4k8p",
   "tracks": [
     {
       "added_at": null,
@@ -803,42 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Country State Of Mind",
-        "url": "https://open.spotify.com/album/7aM9Q3hl6uxC4xGuDdVyBY"
-      },
-      "artists": [
-        {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 180472,
-      "name": "Why Me",
-      "url": "https://open.spotify.com/track/25OnNQJNBJgGDxmi4AUN6F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Silver Tongued Devil and I",
-        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 194546,
-      "name": "The Taker",
-      "url": "https://open.spotify.com/track/18j2NHQJQ7Jrx4jWy2K1qu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Star Is Born",
         "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
       },
@@ -859,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Silver Tongued Devil and I",
+        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "The Taker",
+      "url": "https://open.spotify.com/track/18j2NHQJQ7Jrx4jWy2K1qu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Essential Kris Kristofferson",
         "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 178440,
       "name": "From the Bottle to the Bottom",
       "url": "https://open.spotify.com/track/0l9vfqSNiJQhlgCB3IY6xM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Country State Of Mind",
+        "url": "https://open.spotify.com/album/7aM9Q3hl6uxC4xGuDdVyBY"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 180472,
+      "name": "Why Me",
+      "url": "https://open.spotify.com/track/25OnNQJNBJgGDxmi4AUN6F"
     },
     {
       "added_at": null,
@@ -1031,22 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Closer to the Bone",
-        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 170920,
-      "name": "Good Morning John",
-      "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Kris Kristofferson",
         "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 215133,
       "name": "Casey's Last Ride",
       "url": "https://open.spotify.com/track/51ixKYFELQvEYoMcWOmg34"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Closer to the Bone",
+        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 170920,
+      "name": "Good Morning John",
+      "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
     },
     {
       "added_at": null,
@@ -1095,22 +1095,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Closer to the Bone",
-        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 212306,
-      "name": "From Here to Forever",
-      "url": "https://open.spotify.com/track/2yPUVAm73P5lU5S904nDsP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 219106,
       "name": "Folsom Prison Blues - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/0NTN3g4W3DMqwA8Cy0KrCK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Closer to the Bone",
+        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "From Here to Forever",
+      "url": "https://open.spotify.com/track/2yPUVAm73P5lU5S904nDsP"
     },
     {
       "added_at": null,
@@ -1199,22 +1199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Closer to the Bone",
-        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 152586,
-      "name": "Closer to the Bone",
-      "url": "https://open.spotify.com/track/4sS68UKofTv1lPsUuwh6Sf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 152680,
       "name": "Are You Sure Hank Done It This Way - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/7ATWHFSb8bWHTFyQ30t1Qf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Closer to the Bone",
+        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 152586,
+      "name": "Closer to the Bone",
+      "url": "https://open.spotify.com/track/4sS68UKofTv1lPsUuwh6Sf"
     },
     {
       "added_at": null,

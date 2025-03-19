@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,834 likes - 75 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,850 likes - 75 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Touch This](https://open.spotify.com/track/5oBzTOLyFuNnJms39sRCQ2) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Touch This](https://open.spotify.com/album/0ck0aiilEopVVPZoJdN8y3) | 2:08 |
 | 2 | [Everybody \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:00 |
-| 3 | [JUMP](https://open.spotify.com/track/0pvqu6KxCWzjjZ7UlsNvdz) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [JUMP](https://open.spotify.com/album/6ebP2bfXSp6rdmhtsEdM0R) | 1:51 |
+| 3 | [I Know](https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [I Know](https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z) | 2:32 |
 | 4 | [jersey luv](https://open.spotify.com/track/2Z2MAil7tpZhHOB2noIJUd) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc), [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [jersey luv](https://open.spotify.com/album/0d6POIYXleUr4Wrh0oRk8U) | 3:51 |
 | 5 | [Epiphany \(I'm Leaving\) \- Jersey Club Remix](https://open.spotify.com/track/1QQIi0N6NqkSKtCPN8vYwr) | [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj), [Loog](https://open.spotify.com/artist/5EMKpvztIr3J7icWA5or1I), [ProdByAbnormal](https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe) | [Epiphany \(I'm Leaving\) \[Jersey Club Remix\]](https://open.spotify.com/album/1NiJM6oLaqru3BlKw1V2wo) | 2:49 |
 | 6 | [My Humps \- JBroadway Remix](https://open.spotify.com/track/3jCMS72hCFNF1NESsL6L9m) | [JBroadway](https://open.spotify.com/artist/6WdccSPsTJcEHFoSdWpYvh), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [My Humps \(JBroadway Remix\)](https://open.spotify.com/album/2YFV7FShMxZW4zUMF0KnXw) | 2:15 |
 | 7 | [Diamondz n Roses](https://open.spotify.com/track/2fBbISpNAgBmaHdDrJE5lr) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F), [VaporGod](https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm) | [After 7](https://open.spotify.com/album/3jMiuPdLcZ3svm5u2hSmnj) | 1:57 |
-| 8 | [I Know](https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [I Know](https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z) | 2:32 |
+| 8 | [All My Ladies](https://open.spotify.com/track/3rIrIajLfPH2pom9OLlJwY) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [All My Ladies](https://open.spotify.com/album/1l1zRxLqhq4woSMIwK5VwG) | 1:13 |
 | 9 | [You](https://open.spotify.com/track/74JW8w5UPKzRPLcNatdeSI) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [You](https://open.spotify.com/album/25r1j0BMSlROBkubbzd86I) | 1:48 |
 | 10 | [Need](https://open.spotify.com/track/1YeEq1cEWsYbCGYPhatHdV) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [Need](https://open.spotify.com/album/7oneUSVIt6PoefdQ36Vdo2) | 2:37 |
 | 11 | [Millions \- Jumbo Sounds Mix](https://open.spotify.com/track/6vXb4B2xZTNXPFJGaOMO5q) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Millions \(Jumbo Sounds Mix\)](https://open.spotify.com/album/3oMxuwT3lWVKT9C6NZabpJ) | 2:38 |
 | 12 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 |
 | 13 | [Her Majesty](https://open.spotify.com/track/5x21SoPedWPGUlgUNJdLtq) | [djhuncho](https://open.spotify.com/artist/2V2Q0pAqXg4afAdAHiHVFw), [Tromac](https://open.spotify.com/artist/3HfSChsugeA7w4ZplQFCrk) | [Her Majesty](https://open.spotify.com/album/3dJ5KkCmoiDUlVEDwLJzsm) | 3:06 |
-| 14 | [All My Ladies](https://open.spotify.com/track/3rIrIajLfPH2pom9OLlJwY) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [All My Ladies](https://open.spotify.com/album/1l1zRxLqhq4woSMIwK5VwG) | 1:13 |
+| 14 | [Garden Kisses \- Jersey Club](https://open.spotify.com/track/5GXxbbiPn4zcjWhP0nyRgN) | [noturgf](https://open.spotify.com/artist/32ENZVmItiETXMCYfM1bbS) | [Garden Kisses \(Jersey Club\)](https://open.spotify.com/album/2Ti1ZCceE5gjPl0rot3YvC) | 1:50 |
 | 15 | [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 |
 | 16 | [Jersey](https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Jersey](https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma) | 2:51 |
-| 17 | [Garden Kisses \- Jersey Club](https://open.spotify.com/track/5GXxbbiPn4zcjWhP0nyRgN) | [noturgf](https://open.spotify.com/artist/32ENZVmItiETXMCYfM1bbS) | [Garden Kisses \(Jersey Club\)](https://open.spotify.com/album/2Ti1ZCceE5gjPl0rot3YvC) | 1:50 |
+| 17 | [JUMP](https://open.spotify.com/track/0pvqu6KxCWzjjZ7UlsNvdz) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [JUMP](https://open.spotify.com/album/6ebP2bfXSp6rdmhtsEdM0R) | 1:51 |
 | 18 | [ROCK \(with Wolfrum\)](https://open.spotify.com/track/4sSqv7FL3yOFIITX6lCCLr) | [dj Shawny](https://open.spotify.com/artist/6d88nPjQLpyxi8vH3wgkrx), [Wolfrum](https://open.spotify.com/artist/3MVjEZDE3qjZWGFtdrGt45) | [ROCK \(with Wolfrum\)](https://open.spotify.com/album/2QdWqDazDLGxLS8MkqBQic) | 3:01 |
 | 19 | [sins \(let me in\)](https://open.spotify.com/track/6EQLN1Fl8oy46k4FMwhxug) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [sins \(let me in\)](https://open.spotify.com/album/67sbzjPbujx9SQwLyOetYg) | 2:08 |
 | 20 | [DO IT AGAIN \(feat\. 2Rare\)](https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [DO IT AGAIN \(feat\. 2Rare\)](https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe) | 3:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 74 | [Weak \(Bend Over\)](https://open.spotify.com/track/16PG9ykp0W7xXJoQNQkHa2) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2) | [Ayo Smallz](https://open.spotify.com/album/7s6M62riQwHDzomBaeYp3E) | 1:25 |
 | 75 | [Dream \(Jersey Club\)](https://open.spotify.com/track/22XIrFI5WOVWPUv9kcz8zM) | [DJ T Marq](https://open.spotify.com/artist/2UPw3yaK96nTf0IF0Yi0EO) | [Dream \(Jersey Club\)](https://open.spotify.com/album/4YTmm883UTU4wWOEc2FZie) | 2:03 |
 
-Snapshot ID: `Z9RptgAAAADyvHaxzDvBDvesBfHsiKbM`
+Snapshot ID: `Z9mcbQAAAAAhbv7PgTari7SjCjET+wGR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 
 > Grüezi! This is 100% made in Switzerland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,042 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,047 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

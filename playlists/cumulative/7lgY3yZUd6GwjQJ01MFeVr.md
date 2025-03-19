@@ -4,7 +4,7 @@
 
 > Today's top country music!
 
-198 songs - 10 hr 45 min
+199 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Never Left Me \(From Twisters: The Album\)](https://open.spotify.com/track/3IuBfjh6U8r2K0a5sP8Lvf) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Never Left Me \(From Twisters: The Album\)](https://open.spotify.com/album/7g8sRyHTnJBUuDb5VkzBP9) | 3:11 | 2024-06-17 |  |
 | [New To Country](https://open.spotify.com/track/11nmHJICkQ9emiYJJINygH) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [New To Country](https://open.spotify.com/album/1ubJSiGbO0OsLHwFFs8NBr) | 2:57 | 2024-07-02 |  |
 | [No\. 7 Road](https://open.spotify.com/track/196gHiMKy67smff9ITYtQ5) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [No\. 7 Road](https://open.spotify.com/album/5ew2r7jhSR1oaCJinVXbwH) | 3:02 | 2023-12-08 | 2024-02-10 |
+| [Not At This Party](https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Not At This Party](https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t) | 3:32 | 2025-03-18 |  |
 | [Old Dirt Roads](https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Old Dirt Roads](https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU) | 3:47 | 2023-12-08 | 2024-07-03 |
 | [One Thing At A Time](https://open.spotify.com/track/6KGtAlYvgm4W9PoYabFAYE) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time \(Sampler\)](https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1) | 3:26 | 2023-12-08 | 2024-06-06 |
 | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ) | 3:28 | 2024-06-21 |  |

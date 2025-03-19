@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > That's that big energy\. Cover: K\. Forest, Bolu Ajibade, Saudin
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,965 likes - 65 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,978 likes - 65 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 15 | [Bounce In The Brass](https://open.spotify.com/track/73BnD0wHXmoxR6tuOWrjN5) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [FEYI](https://open.spotify.com/artist/2E41RSTUOR7CBYbfzXYI2t) | [Bounce In The Brass](https://open.spotify.com/album/5vatQzDCLPcmLIAb8Wr3MY) | 2:35 |
 | 16 | [Sunday Best](https://open.spotify.com/track/0oUnCHrsjhjclb9owm741n) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Sunday Best](https://open.spotify.com/album/41i9jjaqgHvTJJjJRUiRTe) | 2:51 |
 | 17 | [Hot & Mysterious](https://open.spotify.com/track/0fs75XwQHj1mdIWUhvNohh) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Hot & Mysterious](https://open.spotify.com/album/2WUZrYy8Edtl3xmrWWDEAq) | 2:35 |
-| 18 | [Wifey Riddim](https://open.spotify.com/track/2aVlas4LxSoIIJUkqFLXOB) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Jorja Smtih](https://open.spotify.com/artist/3oXpY28wTnwrpscvgQyK06), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Club Shy Room 2](https://open.spotify.com/album/1wk3qcMvPAOMTw3W75ymSX) | 2:28 |
+| 18 | [Wifey Riddim](https://open.spotify.com/track/2aVlas4LxSoIIJUkqFLXOB) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Club Shy Room 2](https://open.spotify.com/album/1wk3qcMvPAOMTw3W75ymSX) | 2:28 |
 | 19 | [Bounce In The Brass Part 2](https://open.spotify.com/track/2Kpvn5PAHEi2RKKRedg2o9) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [FEYI](https://open.spotify.com/artist/2E41RSTUOR7CBYbfzXYI2t) | [Bounce In The Brass Part 2](https://open.spotify.com/album/72TbVFRkaxBjJklWjxwQXg) | 3:40 |
 | 20 | [Chop Chop](https://open.spotify.com/track/1BdhRuRVmYutuWW9GvbLoZ) | [Farrah Fawx](https://open.spotify.com/artist/5xcBwfNxf3WXLFZcNhu2Cy) | [Chop Chop](https://open.spotify.com/album/5fvPt3t8Nqa0cvTeXWMvfB) | 2:12 |
 | 21 | [RIGIO \(fall 4 u\)](https://open.spotify.com/track/1IFZwCYqLH5tGfp0V9YP4L) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh) | [RIGIO \(fall 4 u\)](https://open.spotify.com/album/31iHGzTpg9XlyaL7jZi3Uq) | 2:58 |

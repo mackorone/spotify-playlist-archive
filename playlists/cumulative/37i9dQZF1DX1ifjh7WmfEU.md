@@ -4,7 +4,7 @@
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-277 songs - 12 hr 11 min
+278 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Four Days With You](https://open.spotify.com/track/7dGuSEYGWw0BJpjbe9nzZL) | [Nina Fiadh](https://open.spotify.com/artist/4nN747xiBnX6REwmnzlDfJ) | [Four Days With You](https://open.spotify.com/album/2829sYIZlhdcS0VZ4oNin2) | 2:52 | 2022-05-27 | 2024-10-02 |
 | [Friend](https://open.spotify.com/track/0IYFu2XwAw4upJLfODQAWo) | [Leonard Anderson](https://open.spotify.com/artist/1cXE0r5JyjFer1EwCcv8zS) | [Relaxing Piano Classics](https://open.spotify.com/album/3pLxieuvyteE7gyAJYyAbz) | 2:45 | 2022-11-14 | 2024-04-10 |
 | [Friend](https://open.spotify.com/track/41jpD9d8fOSzOya79B7A7K) | [Leonard Anderson](https://open.spotify.com/artist/1cXE0r5JyjFer1EwCcv8zS) | [Friend](https://open.spotify.com/album/3gMNDU94vR2HTmQen6gfqT) | 2:45 | 2022-05-27 | 2022-12-06 |
+| [Full Of Hope](https://open.spotify.com/track/22MzUApfgFWn3loU2idcuC) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Full Of Hope](https://open.spotify.com/album/7A5lNSaEP8BjCHxHOgvbKD) | 2:12 | 2025-03-18 |  |
 | [Gavina](https://open.spotify.com/track/1cnkQQvgQnxCm4eQGwtHhs) | [Olec Mün](https://open.spotify.com/artist/4hLe2OQqb2f9wzkGuQBJIE) | [Vögel](https://open.spotify.com/album/7ofPT1pFfppppZKF1l6jrh) | 5:34 | 2023-02-21 | 2024-04-19 |
 | [Gavina](https://open.spotify.com/track/3dl8ypgkuvNw4vn3HFE1ky) | [Olec Mün](https://open.spotify.com/artist/4hLe2OQqb2f9wzkGuQBJIE) | [Gavina](https://open.spotify.com/album/4RteWlcqa9xzb6iKmo0ZAr) | 5:34 | 2022-05-27 | 2025-01-23 |
 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 | 2022-05-27 |  |

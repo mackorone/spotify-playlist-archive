@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 203390,
+  "num_followers": 203412,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAADPEETLdR0zC0hYtGWzBHxj",
+  "snapshot_id": "Z9dmAAAAAAA902D5ER2M6rEnlUtErpG/",
   "tracks": [
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        },
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 297533,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/6Jk2ueMBIuTZU3aNKjUTGR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moments: Wait (Live)",
         "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 312254,
       "name": "The Blood (Live)",
       "url": "https://open.spotify.com/track/71cDTlRal4bmGUcu213rYt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        },
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 297533,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/6Jk2ueMBIuTZU3aNKjUTGR"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Center (Live)",
-        "url": "https://open.spotify.com/album/14twTxZEfFwCDuKXmajio1"
+        "name": "You Make Me Brave (Live)",
+        "url": "https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm"
       },
       "artists": [
         {
@@ -608,13 +608,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Abbie Gamboa",
-          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
         }
       ],
-      "duration_ms": 465379,
-      "name": "Center - Live",
-      "url": "https://open.spotify.com/track/4UYRVsS5vkpuBZXtpHU6iF"
+      "duration_ms": 366160,
+      "name": "You Make Me Brave (Live)",
+      "url": "https://open.spotify.com/track/3IgSDKkHpfLBEbBNoygoqb"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Make Me Brave (Live)",
-        "url": "https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm"
+        "name": "Center (Live)",
+        "url": "https://open.spotify.com/album/14twTxZEfFwCDuKXmajio1"
       },
       "artists": [
         {
@@ -648,13 +648,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
         }
       ],
-      "duration_ms": 366160,
-      "name": "You Make Me Brave (Live)",
-      "url": "https://open.spotify.com/track/3IgSDKkHpfLBEbBNoygoqb"
+      "duration_ms": 465379,
+      "name": "Center - Live",
+      "url": "https://open.spotify.com/track/4UYRVsS5vkpuBZXtpHU6iF"
     },
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simple",
-        "url": "https://open.spotify.com/album/4vkHgRSat7jX2Egvy0zeys"
+        "name": "No One Like The Lord (Live)",
+        "url": "https://open.spotify.com/album/0zKlGpmcShEFFSvWeWR8B0"
       },
       "artists": [
         {
@@ -688,13 +688,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Emmy Rose",
-          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
         }
       ],
-      "duration_ms": 293377,
-      "name": "Tend",
-      "url": "https://open.spotify.com/track/4x6SymFX0lfohFb6rUk9dj"
+      "duration_ms": 500300,
+      "name": "No One Like The Lord (Live)",
+      "url": "https://open.spotify.com/track/6R3Zp0J2CMp1CgZEQcfWPa"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No One Like The Lord (Live)",
-        "url": "https://open.spotify.com/album/0zKlGpmcShEFFSvWeWR8B0"
+        "name": "Simple",
+        "url": "https://open.spotify.com/album/4vkHgRSat7jX2Egvy0zeys"
       },
       "artists": [
         {
@@ -728,13 +728,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+          "name": "Emmy Rose",
+          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
         }
       ],
-      "duration_ms": 500300,
-      "name": "No One Like The Lord (Live)",
-      "url": "https://open.spotify.com/track/6R3Zp0J2CMp1CgZEQcfWPa"
+      "duration_ms": 293377,
+      "name": "Tend",
+      "url": "https://open.spotify.com/track/4x6SymFX0lfohFb6rUk9dj"
     },
     {
       "added_at": null,
@@ -903,18 +903,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "After All These Years",
-        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
       },
       "artists": [
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
         }
       ],
-      "duration_ms": 314306,
-      "name": "Gravity (Instrumental)",
-      "url": "https://open.spotify.com/track/5sycWSwH9Ces4PjsGSiLs7"
+      "duration_ms": 317789,
+      "name": "By the Grace of God",
+      "url": "https://open.spotify.com/track/2RZnkyWDeEfq9iYrfFjHsH"
     },
     {
       "added_at": null,
@@ -939,22 +943,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
+        "name": "After All These Years",
+        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
       },
       "artists": [
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
         }
       ],
-      "duration_ms": 317789,
-      "name": "By the Grace of God",
-      "url": "https://open.spotify.com/track/2RZnkyWDeEfq9iYrfFjHsH"
+      "duration_ms": 314306,
+      "name": "Gravity (Instrumental)",
+      "url": "https://open.spotify.com/track/5sycWSwH9Ces4PjsGSiLs7"
     },
     {
       "added_at": null,
@@ -1003,8 +1003,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bethel Music en Espa\u00f1ol (Live)",
-        "url": "https://open.spotify.com/album/6vwX3cU4LYtzNsltDuKBqn"
+        "name": "For the Sake of the World",
+        "url": "https://open.spotify.com/album/6211HgvnEsZFSpCosSd52T"
       },
       "artists": [
         {
@@ -1012,17 +1012,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        },
-        {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
         }
       ],
-      "duration_ms": 414280,
-      "name": "Padre Nuestro (En Vivo)",
-      "url": "https://open.spotify.com/track/3pjl44IOMQPTcxrf7gE74v"
+      "duration_ms": 452013,
+      "name": "This Is Amazing Grace",
+      "url": "https://open.spotify.com/track/6ypvZnpX4w9B1VdgmjlhjS"
     }
   ],
   "unique_name": "This Is Bethel Music",

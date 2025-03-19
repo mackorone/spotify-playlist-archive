@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Dato' Sri Siti Nurhaliza, Lizzo, Calvin Harris, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,717 likes - 95 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,719 likes - 95 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

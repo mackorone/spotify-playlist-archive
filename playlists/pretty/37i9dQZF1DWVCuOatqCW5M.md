@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from King, Arijit Singh & Martin Garrix and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,889 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,927 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 3 | [Teen Ginne Se Pehle](https://open.spotify.com/track/4YHnpUMYiHqVe9RrL7vWhb) | [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs) | [Teen Ginne Se Pehle](https://open.spotify.com/album/2M4n0pUOh4EwAqdzyhjZyN) | 4:01 |
 | 4 | [Rangreza](https://open.spotify.com/track/0PO3CJpN4CjP5uF5gSUCq4) | [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Sanjeev Chaturvedi](https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA) | [Rangreza](https://open.spotify.com/album/2f8VtYnVc9LgGv813311Xl) | 3:48 |
 | 5 | [Kab Aur Kaise](https://open.spotify.com/track/1deiRYIJxWtk7DMDNjjgJO) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Kab Aur Kaise](https://open.spotify.com/album/0J3FZsjW6sQh4URtfzaYYU) | 2:34 |
-| 6 | [Pyaar Aata Hai](https://open.spotify.com/track/2MFa2NcTwKmPSsxzswq8my) | [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Pyaar Aata Hai](https://open.spotify.com/album/6WRkYCsWvnoLMXiv1rHDJq) | 4:23 |
+| 6 | [Pyaar Aata Hai](https://open.spotify.com/track/2MFa2NcTwKmPSsxzswq8my) | [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Pyaar Aata Hai](https://open.spotify.com/album/6WRkYCsWvnoLMXiv1rHDJq) | 4:23 |
 | 7 | [Ho Gaya Pyar Re](https://open.spotify.com/track/1uX0NwDpA6ywsl2WnD73Pi) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy), [Gourov Dasgupta](https://open.spotify.com/artist/3o3G8YHpQHYo70WtJ4Hg8W) | [The Heartbreak Chhora](https://open.spotify.com/album/1gbk2kMovW8hiA6DJCzuIG) | 2:33 |
 | 8 | [Chaand Jaisa Yaar](https://open.spotify.com/track/3R7447mMv3O3yPR8cBKNVJ) | [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF) | [Chaand Jaisa Yaar](https://open.spotify.com/album/2DQIZrOnJ2MiCmxH6CZwxA) | 4:52 |
 | 9 | [Chhora Pardesi](https://open.spotify.com/track/3HEofNqegMCevv6TqRyeQK) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Chhora Pardesi](https://open.spotify.com/album/47WsHtGnKir40L3Di8oylC) | 3:28 |

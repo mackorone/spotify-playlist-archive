@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/6kX0IaoVlOu3my3g9Zzi36"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240364,
+      "name": "Best Guess",
+      "url": "https://open.spotify.com/track/6b3VHyOfkhi6RnzDJuqceh"
+    },
+    {
+      "album": {
         "name": "better off",
         "url": "https://open.spotify.com/album/5iX6joje4V2KmLlLUgjMfT"
       },

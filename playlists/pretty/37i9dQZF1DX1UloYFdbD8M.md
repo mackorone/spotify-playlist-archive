@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: The Down Troddence
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,609 likes - 76 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,621 likes - 76 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

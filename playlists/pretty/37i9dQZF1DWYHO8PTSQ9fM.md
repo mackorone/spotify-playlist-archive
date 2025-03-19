@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 
 > Les hits du moment au Maroc\. Cover: GIMS
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,351 likes - 48 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,357 likes - 48 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PIRATE](https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:59 |
-| 2 | [Jedi ou Jedek](https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Jedi ou Jedek](https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv) | 3:02 |
-| 3 | [NINAO](https://open.spotify.com/track/2uBKQbVcw8G9m34lGYM6VA) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LE NORD SE SOUVIENT : L'ODYSSÉE](https://open.spotify.com/album/1zNMg3ouAmuzATO21HkNa3) | 2:47 |
+| 2 | [NINAO](https://open.spotify.com/track/2uBKQbVcw8G9m34lGYM6VA) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LE NORD SE SOUVIENT : L'ODYSSÉE](https://open.spotify.com/album/1zNMg3ouAmuzATO21HkNa3) | 2:47 |
+| 3 | [Jedi ou Jedek](https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Jedi ou Jedek](https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv) | 3:02 |
 | 4 | [BOUHALI](https://open.spotify.com/track/17AuJgvjtgyQ7QogOS9zMY) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 2:52 |
 | 5 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 |
 | 6 | [Dawini](https://open.spotify.com/track/5d54P8T7TXGwE2d0zyN3uu) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Dawini](https://open.spotify.com/album/3013V6wepDbBnb81uVU95j) | 2:41 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 | 47 | [Ya Mektoubi](https://open.spotify.com/track/2Ylhm1lBkTkn9UAxKL9akH) | [Bilal Assarguini](https://open.spotify.com/artist/2taSKJRDLOVQg0g0RnFDVH) | [Ya Mektoubi](https://open.spotify.com/album/4Me68q3TV8r9mPi4nqHI2L) | 3:43 |
 | 48 | [Matgheltech](https://open.spotify.com/track/00c3VyS0fPdFOZa8PNsXgX) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Matgheltech](https://open.spotify.com/album/5WBdOgzrEPdn0TB5GaYSh0) | 3:15 |
 
-Snapshot ID: `Z8oXPgAAAACdM8AWpchhr6tW2CxxuUsu`
+Snapshot ID: `Z9k/CQAAAACyp9Kp/ZsWEPBZBx8oGDVM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest in pop\. Cover: Chappell Roan
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,959 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,953 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 83 | [I Think We're Worth Saving](https://open.spotify.com/track/0QaG4Q8a6OZZg04HMTk8bT) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [I Think We're Worth Saving](https://open.spotify.com/album/4QEc8thwbHD3PwRfyWlks5) | 2:57 |
 | 84 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 |
 | 85 | [MANIAC](https://open.spotify.com/track/3CptguqWjLoOwMoO2DCHWm) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [MANIAC](https://open.spotify.com/album/0EXlZmZDM7xx2lQf8hQjP9) | 2:52 |
-| 86 | [True Religion](https://open.spotify.com/track/78wZn0wdzhj3imUleYWd5M) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [True Religion](https://open.spotify.com/album/0Uowlm2LLlqaoAMFtajKat) | 2:50 |
+| 86 | [True Religion](https://open.spotify.com/track/78wZn0wdzhj3imUleYWd5M) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [True Religion](https://open.spotify.com/album/0Uowlm2LLlqaoAMFtajKat) | 2:50 |
 | 87 | [When We Kiss](https://open.spotify.com/track/2OlFA7WMfBtr1JvONddJaI) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [When We Kiss](https://open.spotify.com/album/1GPY2MwnSFIT0zVyKaeO0L) | 3:32 |
 | 88 | [i shouldn’t call you \(w/ Nightly\)](https://open.spotify.com/track/7LYBMhke7RVEEpO88z3T5T) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [i shouldn’t call you \(w/ Nightly\)](https://open.spotify.com/album/2iaPZAC0JXKjD0YrKQY16f) | 3:09 |
 | 89 | [Cry Baby](https://open.spotify.com/track/0NrOeqIaRmnZT1xWw4Onr1) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Cry Baby](https://open.spotify.com/album/3ESzkaJUUVHRvClOdjzoNV) | 2:55 |

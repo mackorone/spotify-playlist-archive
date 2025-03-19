@@ -4,7 +4,7 @@
 
 > Wake up at your own pace with gentle piano music.
 
-150 songs - 6 hr 32 min
+151 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Soothing Solitude](https://open.spotify.com/track/7j2sPZ3tWJilkCZM8MnIGN) | [Alisa Moon](https://open.spotify.com/artist/73wq226FP4G1SgFEhIDib3) | [Soothing Solitude](https://open.spotify.com/album/1IebMfL6xlMbRogxNY8UvO) | 2:19 | 2025-02-18 |  |
 | [stargazing](https://open.spotify.com/track/5Tm55bnuYOavqPLbueGYS4) | [Esperance](https://open.spotify.com/artist/4HphhPtgKql1Mzeo4snWgg) | [stargazing](https://open.spotify.com/album/0FCL5YSgPtrC3NQYOCwxZs) | 2:20 | 2024-11-05 |  |
 | [Sunset Aglow](https://open.spotify.com/track/2xfXbJK08v7gZb9YvPr0UZ) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 2:42 | 2021-04-21 |  |
+| [Swadhisthana](https://open.spotify.com/track/5tWz0ZTSkBbgDOjKCYUtp6) | [Silicon Silence](https://open.spotify.com/artist/3IsFn83rSDMVENUU5jK5O5) | [Swadhisthana](https://open.spotify.com/album/4Rbm9A3luj0euz4KL7OSV8) | 2:48 | 2025-03-18 |  |
 | [The Land You Belong](https://open.spotify.com/track/0VJwxkumrClrt4Y41evUpy) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [The Land You Belong](https://open.spotify.com/album/3uj2AIVg0qfo3NR2HlGkEq) | 2:24 | 2024-12-11 |  |
 | [The Light Will Return](https://open.spotify.com/track/0wHtZIo4VfYdXVKj3xrxWG) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [The Light Will Return](https://open.spotify.com/album/4HBKYcRStmQOq1QrdPceqo) | 2:45 | 2021-04-21 | 2024-12-04 |
 | [The Room Upstairs](https://open.spotify.com/track/2TOXQ1L2NjnKYAwrHbzDgZ) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr) | [The Room Upstairs](https://open.spotify.com/album/2nroqN7kkTUrFfw8K55wP1) | 2:20 | 2021-04-21 |  |

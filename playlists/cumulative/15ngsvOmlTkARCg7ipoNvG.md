@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,941 songs - 1 day 15 hr 28 min
+1,942 songs - 1 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Calming Waters](https://open.spotify.com/track/1ieXiW4KlaV8FSAKIBlKrV) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Cello](https://open.spotify.com/album/10FYDKljITHunEsUCAHFUe) | 1:39 | 2022-01-20 |  |
 | [Calmness \- Cello Version](https://open.spotify.com/track/0ciB5W1l6QG9jNwD5n8UJy) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Calmness](https://open.spotify.com/album/69Tzmwn08RnnDb4USQx8BI) | 1:00 | 2023-04-08 | 2024-02-13 |
 | [Campfire](https://open.spotify.com/track/55OTwZtL5U2HAXLW86UvOJ) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2024-01-30 |
+| [Candlelight](https://open.spotify.com/track/5gGpIi25h1SH3mrrTfIzlO) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Candlelight](https://open.spotify.com/album/6Jlk8pXHVrPuzVRM9gXz5S) | 1:00 | 2025-03-18 |  |
 | [Candlelight Moment](https://open.spotify.com/track/3i7FowRAW6yxHbSaLbE0Er) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:01 | 2023-12-23 | 2025-03-03 |
 | [Candlelight Reflection](https://open.spotify.com/track/50YDbitAZS6VVCbWo6jJaR) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Candlelight Reflection](https://open.spotify.com/album/5a3yHjPYp20crxN6i8lU06) | 1:00 | 2024-09-26 |  |
 | [Candles](https://open.spotify.com/track/2YFNDBmx785ZpzBtmtWvmw) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Healing Times](https://open.spotify.com/album/6qdmuTYMx38tROfSOPMHL7) | 1:28 | 2022-01-20 |  |

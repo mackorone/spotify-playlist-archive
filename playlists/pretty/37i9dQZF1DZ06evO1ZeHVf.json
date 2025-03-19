@@ -1,12 +1,12 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 45956,
+  "num_followers": 45987,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAAC5zBGSs3I16eAHaozZeXxy",
+  "snapshot_id": "Z9dmAAAAAADHa3iPz3NbcAyOwhFbZzPl",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 250733,
-      "name": "Never Lost",
-      "url": "https://open.spotify.com/track/31I8gxix4Go4Mui0WsWuku"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CeCe Winans",
         "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 335200,
       "name": "Holy Spirit, Come Fill This Place",
       "url": "https://open.spotify.com/track/1jwTbXQa3GJWgBCNxxuL0g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 250733,
+      "name": "Never Lost",
+      "url": "https://open.spotify.com/track/31I8gxix4Go4Mui0WsWuku"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 320110,
-      "name": "Waging War",
-      "url": "https://open.spotify.com/track/1TKNkFNRWL5YcefJeIkfKz"
+      "duration_ms": 276866,
+      "name": "His Strength Is Perfect",
+      "url": "https://open.spotify.com/track/1MbkUFQoTjVJJ970GTT87M"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alone In His Presence",
-        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 276866,
-      "name": "His Strength Is Perfect",
-      "url": "https://open.spotify.com/track/1MbkUFQoTjVJJ970GTT87M"
+      "duration_ms": 320110,
+      "name": "Waging War",
+      "url": "https://open.spotify.com/track/1TKNkFNRWL5YcefJeIkfKz"
     },
     {
       "added_at": null,

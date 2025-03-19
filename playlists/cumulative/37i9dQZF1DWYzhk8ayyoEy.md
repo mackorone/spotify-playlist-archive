@@ -2,7 +2,7 @@
 
 ### [shine](https://open.spotify.com/playlist/37i9dQZF1DWYzhk8ayyoEy)
 
-> Warm, inspirational pop, that's good at heart\.  Cover: Josh Groban
+> Warm, inspirational pop, that's good at heart.
 
 164 songs - 9 hr 11 min
 

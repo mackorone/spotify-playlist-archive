@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with Crankdat
 
-[Spotify](https://open.spotify.com/user/spotify) - 981,168 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 981,209 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Whiplash](https://open.spotify.com/track/2K1Grx3at2GH9ErGX1o9NV) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [SOFI](https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb) | [Whiplash](https://open.spotify.com/album/3JYuC5TTDbobgRCKo38xW9) | 3:15 |
 | 2 | [System Shock](https://open.spotify.com/track/48xIuXP8AN7dnan1Afsoqv) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [System Shock](https://open.spotify.com/album/7ADLWJaRuxts3AfNcJPXQq) | 2:16 |
 | 3 | [Bass Bop](https://open.spotify.com/track/3xHirM5jTmVmcEdgbcmqOo) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Bass Bop](https://open.spotify.com/album/5JeO9o1VyBtfDgx6SmB1FO) | 2:41 |
-| 4 | [Innocence 2025](https://open.spotify.com/track/3dNDt0VLKc0xUcuTI20Q73) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [Innocence 2025](https://open.spotify.com/album/5zumT6xPCZUHJnKR2ng3pY) | 2:50 |
+| 4 | [Innocence 2025](https://open.spotify.com/track/3dNDt0VLKc0xUcuTI20Q73) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [Innocence 2025](https://open.spotify.com/album/5zumT6xPCZUHJnKR2ng3pY) | 2:48 |
 | 5 | [Fall Away](https://open.spotify.com/track/55BUd2feeBMNek0NwXEYT7) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Return to the Spectrum of Intergalactic Happiness](https://open.spotify.com/album/7nD3FgLtAjNqWb953Hjigu) | 4:13 |
 | 6 | [Light Up](https://open.spotify.com/track/7oouv30MA1XJGi0PvCosE7) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Light Up](https://open.spotify.com/album/0ob9yvDuBLAEhfX2RDKkUC) | 3:10 |
 | 7 | [WONKY](https://open.spotify.com/track/1PqDk7xj3S2IUrvt7y8JMw) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [WONKY](https://open.spotify.com/album/5fnyNsCy9D1m1NWxoG0Hae) | 2:52 |

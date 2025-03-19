@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-930 songs - 1 day 15 hr 44 min
+931 songs - 1 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,6 +551,7 @@
 | [Onironautas](https://open.spotify.com/track/6s76KH2PyYupeKvcz6hRgV) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Onironautas](https://open.spotify.com/album/51UJxYKsEZqK7qtTHj2NBy) | 3:10 | 2021-12-07 | 2022-09-24 |
 | [Only Illusions](https://open.spotify.com/track/4012c458CqXwqUCv4RLlRj) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [Only Illusions](https://open.spotify.com/album/0UPSh5J1QGnWPWeB7WIh3B) | 2:26 | 2024-10-15 |  |
 | [Only My Truth](https://open.spotify.com/track/63WeYLkKYPF3ybwkvlGEGB) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Only My Truth](https://open.spotify.com/album/3Zi9UxcwNDiI9SFKw5af9h) | 2:10 | 2023-01-26 | 2024-10-23 |
+| [Only you](https://open.spotify.com/track/0QAA5dIWYqGGC9gkxWniEO) | [Niels Wang](https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT) | [Only you](https://open.spotify.com/album/2ewQ6rgeUj5HL0fJUUJT17) | 3:08 | 2025-03-18 |  |
 | [Onthou](https://open.spotify.com/track/0CoSBNNeO8JgayAfLttECk) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Traces](https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW) | 2:08 | 2021-12-07 | 2022-05-06 |
 | [Onyx](https://open.spotify.com/track/75Y41KT0PeczPom4iZFs87) | [Brian Charlie](https://open.spotify.com/artist/0s3zGPEjLXfQMOETZfkvOT) | [Onyx](https://open.spotify.com/album/381RgbrHTumeg0pKzXtDdn) | 2:43 | 2023-01-26 | 2025-01-29 |
 | [Open](https://open.spotify.com/track/67YdGjtAZIsWGMXGrZSrg3) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Open](https://open.spotify.com/album/4IHdgNyR4VPmTI5bFUbq2r) | 2:37 | 2024-05-21 |  |

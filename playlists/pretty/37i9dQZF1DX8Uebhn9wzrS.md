@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,084,957 likes - 675 songs - 1 day 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,085,362 likes - 675 songs - 1 day 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

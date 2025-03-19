@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
-  "num_followers": 18263,
+  "num_followers": 18266,
   "original_name": "This Is Amy Grant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAADFp+yxQshQGUrMbm9peZcS",
+  "snapshot_id": "Z9dmAAAAAACQdZnNRJrHTImFMqZAmMXD",
   "tracks": [
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Age To Age",
-        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
+        "name": "House Of Love (Remastered)",
+        "url": "https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 252333,
-      "name": "Raining On The Inside",
-      "url": "https://open.spotify.com/track/5bZJhaDjmiyd3mmorGRRGS"
+      "duration_ms": 181853,
+      "name": "Big Yellow Taxi",
+      "url": "https://open.spotify.com/track/5reaWOvB4w0Gp8KjwKXqcu"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "House Of Love (Remastered)",
-        "url": "https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb"
+        "name": "Age To Age",
+        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 181853,
-      "name": "Big Yellow Taxi",
-      "url": "https://open.spotify.com/track/5reaWOvB4w0Gp8KjwKXqcu"
+      "duration_ms": 252333,
+      "name": "Raining On The Inside",
+      "url": "https://open.spotify.com/track/5bZJhaDjmiyd3mmorGRRGS"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
       "duration_ms": 335960,
       "name": "Stay For A While",
       "url": "https://open.spotify.com/track/5kKdMpS0kUxrMqLzgQvPTr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "House Of Love (Remastered)",
+        "url": "https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 276933,
+      "name": "House Of Love",
+      "url": "https://open.spotify.com/track/1NLUdUNqji3A8G1UMKHicV"
     },
     {
       "added_at": null,
@@ -683,22 +699,6 @@
       "duration_ms": 214760,
       "name": "My Jesus, I Love Thee",
       "url": "https://open.spotify.com/track/5tDeg3UaEMAN8duYwTPiXW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "House Of Love (Remastered)",
-        "url": "https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 276933,
-      "name": "House Of Love",
-      "url": "https://open.spotify.com/track/1NLUdUNqji3A8G1UMKHicV"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Alone (Remastered)",
-        "url": "https://open.spotify.com/album/1zlf9fxadKTjVlWLrg1bYT"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 156346,
-      "name": "All I Ever Have To Be",
-      "url": "https://open.spotify.com/track/2DIfq3gn9mHzWwvP1UIxNn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be Still And Know... Hymns & Faith",
         "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 233200,
       "name": "Be Still And Know",
       "url": "https://open.spotify.com/track/3WD7NRVmvnoNwVf3NtufTc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Alone (Remastered)",
+        "url": "https://open.spotify.com/album/1zlf9fxadKTjVlWLrg1bYT"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 156346,
+      "name": "All I Ever Have To Be",
+      "url": "https://open.spotify.com/track/2DIfq3gn9mHzWwvP1UIxNn"
     },
     {
       "added_at": null,
@@ -891,22 +891,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music Inspired By The Story",
-        "url": "https://open.spotify.com/album/1gkIyLIl58xpc4BwF009gg"
+        "name": "Heart In Motion",
+        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
       },
       "artists": [
-        {
-          "name": "Nichole Nordeman",
-          "url": "https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh"
-        },
         {
           "name": "Amy Grant",
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 254613,
-      "name": "I'm With You (Ruth & Naomi)",
-      "url": "https://open.spotify.com/track/4eGgsvwDvWz6ElLvo2zY7P"
+      "duration_ms": 260440,
+      "name": "Galileo",
+      "url": "https://open.spotify.com/track/5k6PqEbyX3NT4oTMJn2tj6"
     }
   ],
   "unique_name": "This Is Amy Grant",

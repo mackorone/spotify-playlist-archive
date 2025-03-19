@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,275 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,299 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,19 +14,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 | 4 | [Por Una Cabeza](https://open.spotify.com/track/6ZwB9Jtr64BbYYVo2fGGuc) | [Gypsy Flamenco Masters](https://open.spotify.com/artist/3fvnWc7bLQVnkrtFI298rl) | [Romantic Flamenco Music\- Acoustic Guitar Songs For Romance, Dining, Latin Party, Lounge & Relaxation](https://open.spotify.com/album/55YXKQiJuaokkwiOFLcp1i) | 3:02 |
 | 5 | [Aranjuez](https://open.spotify.com/track/51rgkP5QNQ304AqCmqPW36) | [Robert Michaels](https://open.spotify.com/artist/5oMvKfHAyoVcXM1TkmXw2I) | [Utopia](https://open.spotify.com/album/2PhxV6j84KRNIXW2YAyy51) | 4:30 |
 | 6 | [Susurros Del Viento](https://open.spotify.com/track/5Ciq3uMIf4SL0ZSbcMNoQn) | [J\. Silver](https://open.spotify.com/artist/3MRXHZdW001ggkduJ5CJja) | [Susurros Del Viento](https://open.spotify.com/album/5n7vpFa0NnqBKxtWd3EMp9) | 1:59 |
-| 7 | [I Still Need You](https://open.spotify.com/track/5quviriYlmlsNQ1mkJv1fC) | [Dan Sistos](https://open.spotify.com/artist/19Aad89RQqALXtLkaHt7Hh) | [The Road To Euphoria](https://open.spotify.com/album/3yzy9L2iOAzBBdqVC8TwVW) | 2:37 |
-| 8 | [Who](https://open.spotify.com/track/4NDPR97nB1PuQ7773VK5WK) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Who](https://open.spotify.com/album/4mV8P8lGIWFFlrYlPc94Wz) | 2:57 |
-| 9 | [Corazón Salvaje](https://open.spotify.com/track/37qJYapQI7GL2fqQDMr83j) | [Antonio Conti](https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk) | [Corazón Salvaje](https://open.spotify.com/album/0E2QLlVDkRDa4zSVMIhXDb) | 3:40 |
-| 10 | [Elenion](https://open.spotify.com/track/7kZMrcXykEDuSbzY8Cj15Q) | [Ana Alcaide](https://open.spotify.com/artist/0kd6wWqc6KIbwHGZBGUdMN) | [Leyenda](https://open.spotify.com/album/7vs2BPITlljDIE5RP5NFmd) | 4:18 |
-| 11 | [Day of the Dead](https://open.spotify.com/track/6xKZtSbSn7QQLROYGwIO8T) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Day of the Dead](https://open.spotify.com/album/5e492cFRPmZDkqkV70KEJp) | 2:12 |
-| 12 | [Beautiful Eyes](https://open.spotify.com/track/1MHqusTSSA5UOjNZFkOugB) | [Spanish Guitar Chill Out](https://open.spotify.com/artist/71ey1tIAyP0CDMalhfwT8Q) | [2017 Relaxed Spanish Guitar](https://open.spotify.com/album/15get6QSHM8hkQJEpjEKzy) | 2:13 |
+| 7 | [Who](https://open.spotify.com/track/4NDPR97nB1PuQ7773VK5WK) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Who](https://open.spotify.com/album/4mV8P8lGIWFFlrYlPc94Wz) | 2:57 |
+| 8 | [I Still Need You](https://open.spotify.com/track/5quviriYlmlsNQ1mkJv1fC) | [Dan Sistos](https://open.spotify.com/artist/19Aad89RQqALXtLkaHt7Hh) | [The Road To Euphoria](https://open.spotify.com/album/3yzy9L2iOAzBBdqVC8TwVW) | 2:37 |
+| 9 | [Day of the Dead](https://open.spotify.com/track/6xKZtSbSn7QQLROYGwIO8T) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Day of the Dead](https://open.spotify.com/album/5e492cFRPmZDkqkV70KEJp) | 2:12 |
+| 10 | [Corazón Salvaje](https://open.spotify.com/track/37qJYapQI7GL2fqQDMr83j) | [Antonio Conti](https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk) | [Corazón Salvaje](https://open.spotify.com/album/0E2QLlVDkRDa4zSVMIhXDb) | 3:40 |
+| 11 | [Una Vela Encendida](https://open.spotify.com/track/3G5CM3B822P8kFFQOS4aRx) | [Isaac Valero](https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm) | [Una Vela Encendida](https://open.spotify.com/album/36Pd3FdKzfJ6uBVf8vlbTh) | 2:43 |
+| 12 | [The Last Matador](https://open.spotify.com/track/3mQkFymDjaD18JmPt72odo) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [The Last Matador](https://open.spotify.com/album/2uGA86CeB6Z41yqdYOV9Bz) | 2:12 |
 | 13 | [Madame Señora](https://open.spotify.com/track/3N3Oyfhwsf3Y9xkpgxDnck) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Madame Señora](https://open.spotify.com/album/3RncnfVEmFPkZB92PQl0HD) | 2:18 |
-| 14 | [Cuidad De Esperanza](https://open.spotify.com/track/1DaftASYoGjPZeBqLN6c7C) | [NomadsPlace](https://open.spotify.com/artist/29LPAexrNbALMSFdg58wvu) | [En Casa de Nuevo](https://open.spotify.com/album/2rJtYri3ZApxr7CvKBsBja) | 3:15 |
-| 15 | [Midnight Bolero](https://open.spotify.com/track/67SBVQzIscGk8sxs3XpkPF) | [Armik](https://open.spotify.com/artist/2Z8XcWdgy5dSaiQR3d7tHK) | [Amor De Guitarra](https://open.spotify.com/album/7yoNem1kQLMondAaO3Zqa5) | 4:52 |
+| 14 | [Beautiful Eyes](https://open.spotify.com/track/1MHqusTSSA5UOjNZFkOugB) | [Spanish Guitar Chill Out](https://open.spotify.com/artist/71ey1tIAyP0CDMalhfwT8Q) | [2017 Relaxed Spanish Guitar](https://open.spotify.com/album/15get6QSHM8hkQJEpjEKzy) | 2:13 |
+| 15 | [Cuidad De Esperanza](https://open.spotify.com/track/1DaftASYoGjPZeBqLN6c7C) | [NomadsPlace](https://open.spotify.com/artist/29LPAexrNbALMSFdg58wvu) | [En Casa de Nuevo](https://open.spotify.com/album/2rJtYri3ZApxr7CvKBsBja) | 3:15 |
 | 16 | [Spanish Nights](https://open.spotify.com/track/65XPPR5GGETPXqwMIBRB1b) | [Young & Rollins](https://open.spotify.com/artist/2uYKLNEOZuLjpZXOGoAlKJ) | [Esperanza](https://open.spotify.com/album/4qrZ5gpHaFYhsqWeaLyFjZ) | 4:57 |
 | 17 | [Tu Belleza Me Conmueve](https://open.spotify.com/track/55onRB7WnEqgzHtt6yK6r5) | [Penélope Diaz](https://open.spotify.com/artist/2LDBNTLWlHsBYpstmWFZth) | [Tu Belleza Me Conmueve](https://open.spotify.com/album/36NgnG3aFUkeK6e9y71j3e) | 3:20 |
 | 18 | [Una Vida Pasada](https://open.spotify.com/track/6ZLRCFiUrLVyITDoGdfZPG) | [Alex Airaldi](https://open.spotify.com/artist/4CSqxvgnTEdUlydfORC5UH) | [Una Vida Pasada](https://open.spotify.com/album/5jD1xbj9EER6LYSRLiXSUs) | 2:30 |
-| 19 | [Una Vela Encendida](https://open.spotify.com/track/3G5CM3B822P8kFFQOS4aRx) | [Isaac Valero](https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm) | [Una Vela Encendida](https://open.spotify.com/album/36Pd3FdKzfJ6uBVf8vlbTh) | 2:43 |
+| 19 | [Midnight Bolero](https://open.spotify.com/track/67SBVQzIscGk8sxs3XpkPF) | [Armik](https://open.spotify.com/artist/2Z8XcWdgy5dSaiQR3d7tHK) | [Amor De Guitarra](https://open.spotify.com/album/7yoNem1kQLMondAaO3Zqa5) | 4:52 |
 | 20 | [Lozana](https://open.spotify.com/track/1huCke5q1BjT7VxypUCrc6) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Lozana](https://open.spotify.com/album/4iHmLYrL4zab3KOyydNKNb) | 2:09 |
 | 21 | [Verdiales](https://open.spotify.com/track/58fh4j02ygZ2GOOvSF77oa) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Absolute Flamenco](https://open.spotify.com/album/3JyXlTgWth2WMGYl5COXQ4) | 2:10 |
 | 22 | [D'arie II](https://open.spotify.com/track/3qpMDHurZmTZXz6cioYqdX) | [Ella Mikhailenko](https://open.spotify.com/artist/0ib7cieXiFElKhmVbFFzKy), [Jaume Compte](https://open.spotify.com/artist/3YYuXsiiVfHdsF6l209vCU) | [Tariq](https://open.spotify.com/album/40RV3GOzwZCOqVgQ8Fz8QY) | 2:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 | 74 | [Bésame Mucho](https://open.spotify.com/track/0WlaFDGrsRstbIF44eWLVP) | [Javier Van Velthoven](https://open.spotify.com/artist/4rUmg0lEB3QIm4OpxiTxoZ) | [Bésame Mucho](https://open.spotify.com/album/0Fr2ZGB1zrWW6RRjSajNtn) | 3:11 |
 | 75 | [The Endless Dance](https://open.spotify.com/track/5PjuqD0vCX5GhDX0POF1td) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Carter, Jason: Contemporary Spanish Guitar](https://open.spotify.com/album/0haIe7968D1EoweMZC4qrv) | 9:02 |
 
-Snapshot ID: `Z9AOZAAAAAA73lMo+ZKgBia3taMxxuCO`
+Snapshot ID: `Z9lAgwAAAACv3U5kuzDEJAWVhat2YBvo`

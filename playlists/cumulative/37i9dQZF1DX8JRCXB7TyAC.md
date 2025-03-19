@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs.
 
-138 songs - 6 hr 51 min
+139 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,9 +122,10 @@
 | [Salute](https://open.spotify.com/track/6kk3T6M88cunWGspzNqlVr) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [Salute](https://open.spotify.com/album/2jIIGk955mGc9fMIDuBa7I) | 3:07 | 2023-07-24 | 2023-11-10 |
 | [Samjhota \(feat\. Kay D\)](https://open.spotify.com/track/2oHMFQHewclqxeNP8zt7yZ) | [Monty Sehrawat](https://open.spotify.com/artist/6WpldzFXzmtrk0RydeZrL4), [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Kay D](https://open.spotify.com/artist/7xThNFckeyb6roLYdLmyEm) | [Samjhota \(feat\. Kay D\)](https://open.spotify.com/album/0WIaCSH8K0G9fFjqqoLthR) | 2:08 | 2024-07-31 |  |
 | [Street Fighter](https://open.spotify.com/track/6ezpV5Ed5K3pxbgSp0aNti) | [Parv Dahiya](https://open.spotify.com/artist/7kMapJs8YANqYWoc9VqZQ2), [Tarun Haritas](https://open.spotify.com/artist/2nYjdyBBeLWFuKaqfUWStD) | [Street Fighter](https://open.spotify.com/album/6w1kw9aXKpC3tJri75Nxyp) | 2:35 | 2024-08-30 |  |
+| [Surrey BC](https://open.spotify.com/track/7uMZMs65u1FlVYdmvQKXMs) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Surrey BC](https://open.spotify.com/album/4FZjdxEiFL0HWL4antngWO) | 3:47 | 2025-03-18 |  |
 | [System](https://open.spotify.com/track/2YubJQ3VbHtwSvSed7837i) | [Surender Romio](https://open.spotify.com/artist/2HvRwVX1VLbmdhXy55LDbO), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [System](https://open.spotify.com/album/4nMFvVARjlHbvnT3v4hxvG) | 2:31 | 2025-02-27 |  |
 | [Tair Paatge](https://open.spotify.com/track/49fe97w18d7UWkJ5Ig5l0H) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Tair Paatge](https://open.spotify.com/album/55Ac8oT3KR3RaE9tg9QTpG) | 4:05 | 2023-07-24 | 2023-08-01 |
-| [Takkar](https://open.spotify.com/track/4FykPEBDvdSby4OA5CfUqS) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Music Nasha](https://open.spotify.com/artist/6YvJWewMypP77lmdqRMMkB) | [Nuke](https://open.spotify.com/album/0agmnQzKZ1aKvC4eSFau14) | 2:41 | 2025-02-10 |  |
+| [Takkar](https://open.spotify.com/track/4FykPEBDvdSby4OA5CfUqS) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Music Nasha](https://open.spotify.com/artist/6YvJWewMypP77lmdqRMMkB) | [Nuke](https://open.spotify.com/album/0agmnQzKZ1aKvC4eSFau14) | 2:41 | 2025-02-10 | 2025-03-19 |
 | [Target](https://open.spotify.com/track/3dMIUgx4oCPjBlOtN8X7Z0) | [Mavrix](https://open.spotify.com/artist/3ivej5P51jgZiJKDNfZd11) | [Target](https://open.spotify.com/album/1c2n4BfMREowVQJ5sr1CmW) | 2:45 | 2023-07-24 | 2024-01-06 |
 | [Target 2](https://open.spotify.com/track/6TiXW1QTLAoRGqFmIw2SgL) | [Mavrix](https://open.spotify.com/artist/3ivej5P51jgZiJKDNfZd11), [Duhan Muzic](https://open.spotify.com/artist/2uuKzuZ3JZXuMhUkYyS0xz) | [Target 2](https://open.spotify.com/album/7MwOyeoMdqiA2SJYXLMahp) | 2:30 | 2023-10-03 | 2023-11-10 |
 | [Tedhe Chaalak](https://open.spotify.com/track/5EXNgdixf4572ATdvnSdXL) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Tedhe Chaalak](https://open.spotify.com/album/48e53D1ZHIh0EfVpCySju6) | 3:16 | 2024-02-22 |  |

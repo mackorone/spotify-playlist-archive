@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 
 > Beats lo\-fi con sabor mexa\. Takeover: Chill&Go\. Arte: Lis Marroquin
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,798 likes - 60 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,822 likes - 60 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -291,6 +291,28 @@
     },
     {
       "album": {
+        "name": "L'Afrique Noire: Rondes, comptines et berceuses",
+        "url": "https://open.spotify.com/album/0Ufc5bq0LAxURvbIliQ6Is"
+      },
+      "artists": [
+        {
+          "name": "Marl\u00e8ne Ngaro",
+          "url": "https://open.spotify.com/artist/4y0VNgJx63Ej5iXeJB0XQA"
+        },
+        {
+          "name": "Mamadoudiam Camara",
+          "url": "https://open.spotify.com/artist/3gDxxcdGvBylHmLIRyERGE"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106400,
+      "name": "I'm going chop crabs - Allons attraper des crabes (Lib\u00e9ria)",
+      "url": "https://open.spotify.com/track/2p7Qf4oR88FwGUCPgjYOei"
+    },
+    {
+      "album": {
         "name": "Comptines et berceuses du baobab (L'Afrique noire en comptines)",
         "url": "https://open.spotify.com/album/4cbQkK9Ax2x2bB7tANTeiK"
       },
@@ -322,7 +344,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 166546,
-      "name": "Iny hono izy (L\u2019oiseau blanc)",
+      "name": "Iny hono izy",
       "url": "https://open.spotify.com/track/1EoX7j2GJg6ZfDrc84Lnlu"
     },
     {
@@ -342,28 +364,6 @@
       "duration_ms": 108066,
       "name": "It\u00e4 z\u00e2ke - Awe beb\u00ebe",
       "url": "https://open.spotify.com/track/0HP4B2VIQJtfyShJ1Ap0u4"
-    },
-    {
-      "album": {
-        "name": "L'Afrique Noire: Rondes, comptines et berceuses",
-        "url": "https://open.spotify.com/album/0Ufc5bq0LAxURvbIliQ6Is"
-      },
-      "artists": [
-        {
-          "name": "Marl\u00e8ne Ngaro",
-          "url": "https://open.spotify.com/artist/4y0VNgJx63Ej5iXeJB0XQA"
-        },
-        {
-          "name": "Mamadoudiam Camara",
-          "url": "https://open.spotify.com/artist/3gDxxcdGvBylHmLIRyERGE"
-        }
-      ],
-      "date_added": "2021-05-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 106400,
-      "name": "I\u2019m going chop crabs - Allons attraper des crabes (Lib\u00e9ria)",
-      "url": "https://open.spotify.com/track/2p7Qf4oR88FwGUCPgjYOei"
     },
     {
       "album": {
@@ -774,7 +774,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 129093,
-      "name": "Tia zaza (Les petits enfants)",
+      "name": "Tia zaza",
       "url": "https://open.spotify.com/track/77LNJpPQvGsNrUqVCKO1kq"
     },
     {
@@ -872,7 +872,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 116346,
-      "name": "Zaza madio (L\u2019enfant propre)",
+      "name": "Zaza madio",
       "url": "https://open.spotify.com/track/2Cc0O2ddZtIvduOQGM4byP"
     }
   ],

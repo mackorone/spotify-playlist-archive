@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,276 likes - 173 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,277 likes - 173 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 96 | [Bad Feeling](https://open.spotify.com/track/5L3rFG7ttfr4OK87dbUfle) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:26 |
 | 97 | [Vintage](https://open.spotify.com/track/2t8MNKWuCNh8eZFZ4ANZRR) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/216PcZkvm5Rnt6LgctC0X9) | 3:39 |
 | 98 | [All the Rage](https://open.spotify.com/track/6LU5xomPbOc1XADDwU0L36) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [All the Rage](https://open.spotify.com/album/2AxFTHoqk5jY7yRlUkS0GG) | 3:06 |
-| 99 | [Kid Wonder](https://open.spotify.com/track/3UlnJciJMXFgnIubWkoghm) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 2:47 |
-| 100 | [Someone For Me](https://open.spotify.com/track/4RqWoB5cfvROXfgO8pYKzL) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:34 |
+| 99 | [Someone For Me](https://open.spotify.com/track/4RqWoB5cfvROXfgO8pYKzL) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:34 |
+| 100 | [Kid Wonder](https://open.spotify.com/track/3UlnJciJMXFgnIubWkoghm) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 2:47 |
 | 101 | [Galaxy \(feat\. Stan Walker\)](https://open.spotify.com/track/1joM5RLNRDmsR2AiF5XaRF) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Get 'Em Girls](https://open.spotify.com/album/7t6s6NWaLUEkRQEDqp8yNN) | 4:04 |
 | 102 | [Oh God \(feat\. Konshens\)](https://open.spotify.com/track/7cs2ujAGExV7scDYTPLsMX) | [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Oh God \(feat\. Konshens\)](https://open.spotify.com/album/2puY2Kn8P7AAPV8GuH6f6Q) | 3:17 |
 | 103 | [Private Life](https://open.spotify.com/track/3FkyJH5uE5XmN3voocBcYK) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 4:23 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 172 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 173 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `AbsU3gAAAACqzjLkcaCMm/Nj0lP6C9/S`
+Snapshot ID: `AbsafgAAAACJYZTL9y4RfoEPUTEOayuJ`

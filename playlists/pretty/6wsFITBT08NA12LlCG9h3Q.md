@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6wsFITBT08NA12LlCG9h3Q.md) - [plain]
 
 > A <a href="http://www.digster.fm/decades">classic playlist</a> with the best hits of the 90s featuring No Doubt, Nirvana, and more.
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 151,244 likes - 51 songs - 3 hr 27 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 151,238 likes - 51 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/6wsFITBT08NA12LlCG9h3Q.md) - [plain]
 | 50 | [California Love \- Original Version](https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:44 |
 | 51 | [Come As You Are](https://open.spotify.com/track/6N0ZAWkJUWUI0QYG2VwHmL) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Deluxe Edition\)](https://open.spotify.com/album/1ySR0W1hHxPDKCBWdvzRvc) | 3:38 |
 
-Snapshot ID: `AAAEdbsKcq+T1mcX8KNyy8Kg8TeIan64`
+Snapshot ID: `AAAEeFVn+FeZ8nBIyai2Qz1ceaUypLTj`

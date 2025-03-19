@@ -103,6 +103,32 @@
     },
     {
       "album": {
+        "name": "Adhi Dha Surprisu (From \"Robinhood\")",
+        "url": "https://open.spotify.com/album/0xuRXbsij9sk8c3IQEtZA7"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229458,
+      "name": "Adhi Dha Surprisu (From \"Robinhood\")",
+      "url": "https://open.spotify.com/track/1g8IC4Ks0OldTvWw5NpFHG"
+    },
+    {
+      "album": {
         "name": "Hi Nanna",
         "url": "https://open.spotify.com/album/1dpKR9xGrVPqN4l78ymrKD"
       },
@@ -756,7 +782,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 203052,
       "name": "Chamkeela Angeelesi",
       "url": "https://open.spotify.com/track/3GCwsB2loRGeUL8oq2Y4TW"

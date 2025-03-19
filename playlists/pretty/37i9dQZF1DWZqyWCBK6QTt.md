@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 
 > The songs you love, in ways you’ve never heard before\. Cover: Damiano David
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,388 likes - 150 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,424 likes - 150 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

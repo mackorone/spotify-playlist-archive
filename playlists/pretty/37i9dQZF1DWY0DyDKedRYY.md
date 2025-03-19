@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music on our radar, featuring Moody Joody
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,965 likes - 56 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,961 likes - 56 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

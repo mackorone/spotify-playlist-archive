@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 539 songs - 1 day 11 hr 42 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 538 songs - 1 day 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -546,6 +546,5 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 536 | [Erica Western Teleport](https://open.spotify.com/track/5zliHc6Y8g8fy23ecBaods) | [Emperor X](https://open.spotify.com/artist/7taxbHlqWyBiQEc38vNT9z) | [Western Teleport](https://open.spotify.com/album/0zN3afLG7nPnIC8qSGVpp9) | 3:33 |
 | 537 | [Grog](https://open.spotify.com/track/2MgrfiUgqkS4s6l5Cem0SY) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [GROG](https://open.spotify.com/album/1TEMvDFgL8AGNszROlwxOE) | 0:21 |
 | 538 | [Hunchback](https://open.spotify.com/track/0VHwZQkuVS8JFKMGL3HURj) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Childish Prodigy](https://open.spotify.com/album/3TmWAswHIm0Vb08qymeagU) | 4:49 |
-| 539 | [Coka, I'm Fine](https://open.spotify.com/track/0b4sTnmz7wzodbY8fMkTry) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [在動物園散步才是正經事](https://open.spotify.com/album/3R06MVz2i8ynBUfar35Ixk) | 1:50 |
 
-Snapshot ID: `AAAG+QQ3tvNT8Y1Smd1Paeil+wumeIgy`
+Snapshot ID: `AAAG+nMsaQbO3mJgkbzTGGehhv9DpG9/`

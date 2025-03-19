@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVMPm8eZaQf.md) - [plain]
 
 > Fresh takes and unexpected covers of songs originally written by Post Malone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,027 likes - 47 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,026 likes - 47 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

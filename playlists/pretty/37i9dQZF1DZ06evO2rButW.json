@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 721034,
+  "num_followers": 721279,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAABmVbEysumaMlm9jdAzPVqF",
+  "snapshot_id": "Z9dmAAAAAACrbH94zAVgb9srtk3iaFCt",
   "tracks": [
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 181786,
+      "name": "El Cristal",
+      "url": "https://open.spotify.com/track/4GlwFumhEXNTaBh8foBax6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grandes \u00c9xitos del Boleroglam, Vol. 2",
         "url": "https://open.spotify.com/album/49k8bx6FKOeKocIRppwnYE"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 242478,
       "name": "Hoy No",
       "url": "https://open.spotify.com/track/41SJBO05x4mHd6tuSf9BTZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 181786,
-      "name": "El Cristal",
-      "url": "https://open.spotify.com/track/4GlwFumhEXNTaBh8foBax6"
     },
     {
       "added_at": null,

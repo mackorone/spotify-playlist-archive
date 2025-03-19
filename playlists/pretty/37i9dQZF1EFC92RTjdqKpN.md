@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 76 | [Fire \(feat\. Pitbull\)](https://open.spotify.com/track/4tKDNJH4ylLAxfwYqqUM1d) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Tattoos](https://open.spotify.com/album/1OdcBxCNY52OXH0r4odXqP) | 3:36 |
 | 77 | [IT girl](https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [IT girl](https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG) | 2:33 |
 | 78 | [STAY WITH ME \- KR Ver.](https://open.spotify.com/track/6Bz2nEZLNYm1hEB3c3upoj) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [RISE](https://open.spotify.com/album/5g83RiFIYU6NlMIF5Wp8kk) | 3:22 |
-| 79 | [Changed](https://open.spotify.com/track/6tyyxy6jFiNTUawKe9Q7UC) | [Stanaj](https://open.spotify.com/artist/3zrUX1hQrUB9aXcOiyQLmN) | [From A Distance](https://open.spotify.com/album/2ekHnPrPK0Fqxt0mSGDbZs) | 3:27 |
-| 80 | [One Of Those Days](https://open.spotify.com/track/4qoRtBttExNQ8eguqiYsRg) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Just Whitney](https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX) | 4:15 |
+| 79 | [One Of Those Days](https://open.spotify.com/track/4qoRtBttExNQ8eguqiYsRg) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Just Whitney](https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX) | 4:15 |
+| 80 | [Changed](https://open.spotify.com/track/6tyyxy6jFiNTUawKe9Q7UC) | [Stanaj](https://open.spotify.com/artist/3zrUX1hQrUB9aXcOiyQLmN) | [From A Distance](https://open.spotify.com/album/2ekHnPrPK0Fqxt0mSGDbZs) | 3:27 |
 | 81 | [Take Me Higher](https://open.spotify.com/track/1SH0feHEZ3qny9JIZPsq4P) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Party Never Ends](https://open.spotify.com/album/07hKp30OfkSekfN5IsmShA) | 3:00 |
 | 82 | [Way Back](https://open.spotify.com/track/38wnxXZdT2v7I31mHJ3Puv) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [TLC](https://open.spotify.com/album/0Etb5PXUH3sXTnC59r2MKZ) | 3:46 |
 | 83 | [Turn Back Time \(feat\. Teemu\)](https://open.spotify.com/track/02FZ7CS69ZwsLQMngR3rhW) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Teemu](https://open.spotify.com/artist/00FaHSRJeGv1dbHhnqhHqz) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:49 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 196 | [Tonight](https://open.spotify.com/track/4aTAQCJIGLU5RRcnZNPftn) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/6ohDfN4WqQolD87G6s3j3U) | 3:53 |
 | 197 | [Impossible](https://open.spotify.com/track/42gXlZEqFQ6Slmo9jxATv5) | [Shin Giwon Piano](https://open.spotify.com/artist/0hKq3u04JU5IuGNSTGyngJ) | [Kpop Piano \#69](https://open.spotify.com/album/5p1EcRrbWRuuCL8hlitUXQ) | 3:06 |
 
-Snapshot ID: `AbsU3gAAAABAV805vntmmtT6zlk17j63`
+Snapshot ID: `AbsadAAAAAAXf+OFdC8AZm2YIJlrWwgr`

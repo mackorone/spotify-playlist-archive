@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8zRsEZD80f.md) - [plain]
 
 > Sácale provecho a este tiempo en casa\. Encuentra contenido de educación y entretenimiento para niños.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,460 likes - 10 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,460 likes - 10 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BINGO Y PEPINILLOS](https://open.spotify.com/episode/6R7yIeVIM7AWvWu4jJu50l) | [Las Nuevas Historias de CoComelon](https://open.spotify.com/show/7DCKChFDBfsMVe7s9OegAV) | [Las Nuevas Historias de CoComelon](https://open.spotify.com/album/7DCKChFDBfsMVe7s9OegAV) | 6:25 |
-| 2 | [Danilo tiene visitas \| Veterinario \| Profesiones Asombrosas \| Cuentos para niños](https://open.spotify.com/episode/1hGP0DEMX6qMbinxx6JBoi) | [Cuentos Increíbles](https://open.spotify.com/show/5E34gr7EYqEuBxJLjpRVNv) | [Cuentos Increíbles](https://open.spotify.com/album/5E34gr7EYqEuBxJLjpRVNv) | 8:06 |
+| 2 | [Danilo tiene visitas \| Veterinario \| Profesiones Asombrosas \| Cuentos para niños](https://open.spotify.com/episode/1hGP0DEMX6qMbinxx6JBoi) | [Cuentos Increíbles](https://open.spotify.com/show/5E34gr7EYqEuBxJLjpRVNv) | [Cuentos Increíbles](https://open.spotify.com/album/5E34gr7EYqEuBxJLjpRVNv) | 7:36 |
 | 3 | [La noche estrellada de Van Gogh 109 \| Cuentos Infantiles \| Personajes históricos](https://open.spotify.com/episode/581j5n0SRSEGxdvV1Xz7EA) | [Había Una Vez by Naran Xadul \| Cuentos Infantiles](https://open.spotify.com/show/2dQROSMuwFhQzpiFWCgvTo) | [Había Una Vez by Naran Xadul \| Cuentos Infantiles](https://open.spotify.com/album/2dQROSMuwFhQzpiFWCgvTo) | 9:00 |
 | 4 | [El Monstruo de las Faltas](https://open.spotify.com/episode/1Psk9SIiel40n91asil9Sy) | [Pequehistorias](https://open.spotify.com/show/6KO9n0r0kheSTuc7VJ6s9N) | [Pequehistorias](https://open.spotify.com/album/6KO9n0r0kheSTuc7VJ6s9N) | 4:59 |
 | 5 | [T2 Episodio 10 .\- “El principe y la sandia"](https://open.spotify.com/episode/3xSCWDfR8NAMTsjYSsLeQI) | [Cuando Cuentes Cuentos](https://open.spotify.com/show/64j4fK9Pf1fNsupPSNQ7iy) | [Cuando Cuentes Cuentos](https://open.spotify.com/album/64j4fK9Pf1fNsupPSNQ7iy) | 3:56 |

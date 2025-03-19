@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 8688,
+  "num_followers": 8706,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAAA11ptl8QnUJlRfJw7qY4X5",
+  "snapshot_id": "Z9dmAAAAAABu0SLz/TB7DQboQDGansW7",
   "tracks": [
     {
       "added_at": null,
@@ -364,9 +364,25 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 232896,
-      "name": "Glowing Up",
-      "url": "https://open.spotify.com/track/5aeUHbWlVXp0TZ0L1tuKsc"
+      "duration_ms": 212755,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3nKmSupO0qbI35eDTA5zjI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beyond the Lights (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/17UmRH4jCFTlpSdSWCOooV"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "Fly Before You Fall",
+      "url": "https://open.spotify.com/track/4ifnF552GdodBaOmdSOUP2"
     },
     {
       "added_at": null,
@@ -387,22 +403,6 @@
       "duration_ms": 229053,
       "name": "Alright",
       "url": "https://open.spotify.com/track/6oFsUGtEpV7qZGyYpQGtJe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beyond the Lights (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/17UmRH4jCFTlpSdSWCOooV"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "Fly Before You Fall",
-      "url": "https://open.spotify.com/track/4ifnF552GdodBaOmdSOUP2"
     },
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 212755,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/3nKmSupO0qbI35eDTA5zjI"
+      "duration_ms": 232896,
+      "name": "Glowing Up",
+      "url": "https://open.spotify.com/track/5aeUHbWlVXp0TZ0L1tuKsc"
     },
     {
       "added_at": null,
@@ -727,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Billy Porter Presents: The Soul of Richard Rodgers",
+        "url": "https://open.spotify.com/album/6kb6n9vKLCgHFUxAploR9a"
+      },
+      "artists": [
+        {
+          "name": "Billy Porter",
+          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/6JyFgebcvdpni9fYO4X7wN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "She Is Risen: Volume 2",
         "url": "https://open.spotify.com/album/72jbyvIFtaHSX1AVanSt4H"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 256010,
       "name": "Everything's Alright",
       "url": "https://open.spotify.com/track/2D0D658P6lylzWeiBxXgrD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Billy Porter Presents: The Soul of Richard Rodgers",
-        "url": "https://open.spotify.com/album/6kb6n9vKLCgHFUxAploR9a"
-      },
-      "artists": [
-        {
-          "name": "Billy Porter",
-          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
-        },
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/6JyFgebcvdpni9fYO4X7wN"
     },
     {
       "added_at": null,
@@ -808,13 +808,17 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         },
         {
+          "name": "Oliver Tompsett",
+          "url": "https://open.spotify.com/artist/10uOf0MNfjh90mGfD1bS6Q"
+        },
+        {
           "name": "Scott Alan",
           "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
         }
       ],
-      "duration_ms": 296655,
-      "name": "At All",
-      "url": "https://open.spotify.com/track/4mm1OFHCY0XzldGu19L0w3"
+      "duration_ms": 463020,
+      "name": "Always / Goodnight",
+      "url": "https://open.spotify.com/track/2lthIAIwXMyIYnEAPQfbP1"
     },
     {
       "added_at": null,
@@ -876,9 +880,9 @@
           "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
         }
       ],
-      "duration_ms": 238937,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/7pYnM6Ot9LQjrkYfSy2V8a"
+      "duration_ms": 296655,
+      "name": "At All",
+      "url": "https://open.spotify.com/track/4mm1OFHCY0XzldGu19L0w3"
     },
     {
       "added_at": null,
@@ -960,17 +964,13 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         },
         {
-          "name": "Oliver Tompsett",
-          "url": "https://open.spotify.com/artist/10uOf0MNfjh90mGfD1bS6Q"
-        },
-        {
           "name": "Scott Alan",
           "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
         }
       ],
-      "duration_ms": 463020,
-      "name": "Always / Goodnight",
-      "url": "https://open.spotify.com/track/2lthIAIwXMyIYnEAPQfbP1"
+      "duration_ms": 238937,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/7pYnM6Ot9LQjrkYfSy2V8a"
     },
     {
       "added_at": null,

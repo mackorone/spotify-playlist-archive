@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 
 > Pump up your adrenaline with Punjabi hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,718 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,830 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 2 | [Demand](https://open.spotify.com/track/6hgEgdYq9g9TN9ZN46hFor) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9), [FXRZII](https://open.spotify.com/artist/6kZ4nGuE2fWal8c08vL5Wm), [Moon Light](https://open.spotify.com/artist/5B3Z1P57sSFCo4EJvpMuCv) | [Demand](https://open.spotify.com/album/4viVwvTguVORx3uX0cWvUC) | 2:35 |
 | 3 | [Never Fold](https://open.spotify.com/track/3JkVYvxNoGf2HCWJo61462) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [SOE](https://open.spotify.com/artist/503jMzlAxbEpfltywmU45E) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 3:03 |
 | 4 | [Gangsta Bolliyan](https://open.spotify.com/track/2i8r1sJSgIuLpamd8WJHJp) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N), [Sycostyle](https://open.spotify.com/artist/0OXj50LoqFAQ9qj3dQ9yni) | [Gangsta Bolliyan](https://open.spotify.com/album/4FtmhzKJQ0U3PgZ28g0ucX) | 3:44 |
-| 5 | [MANIAC \- Bonus Track \[From "GLORY"\]](https://open.spotify.com/track/7flUTy7LFKqIqERV7qgxeO) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [MANIAC \- Bonus Track \[From "GLORY"\]](https://open.spotify.com/album/625teJ2rC8nsi8dfGUYjU6) | 2:53 |
-| 6 | [Still Rollin](https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 |
-| 7 | [Wavy](https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Wavy](https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt) | 2:41 |
-| 8 | [Gandasa](https://open.spotify.com/track/6GG4lSyFgj1i2OO9AVgsd7) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [Gandasa](https://open.spotify.com/album/0KWSoiZauWkXFzIyikODKF) | 2:28 |
-| 9 | [Humble](https://open.spotify.com/track/3IJj5vXTXvXoGECDjoN0yL) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Humble](https://open.spotify.com/album/7G1XiSRwcQEaucF4EESV03) | 2:33 |
-| 10 | [Greatest](https://open.spotify.com/track/77mI75scDZpgK0gZ565FNZ) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patandar](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:58 |
-| 11 | [Bande 4](https://open.spotify.com/track/1eCJkMId2CBCWpukvmVHk2) | [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Bande 4](https://open.spotify.com/album/7MtkRxJx2PFFHSzjRLda38) | 3:04 |
+| 5 | [Bande 4](https://open.spotify.com/track/1eCJkMId2CBCWpukvmVHk2) | [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Bande 4](https://open.spotify.com/album/7MtkRxJx2PFFHSzjRLda38) | 3:04 |
+| 6 | [MANIAC \- Bonus Track \[From "GLORY"\]](https://open.spotify.com/track/7flUTy7LFKqIqERV7qgxeO) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [MANIAC \- Bonus Track \[From "GLORY"\]](https://open.spotify.com/album/625teJ2rC8nsi8dfGUYjU6) | 2:53 |
+| 7 | [Still Rollin](https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 |
+| 8 | [Wavy](https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Wavy](https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt) | 2:41 |
+| 9 | [Gandasa](https://open.spotify.com/track/6GG4lSyFgj1i2OO9AVgsd7) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [Gandasa](https://open.spotify.com/album/0KWSoiZauWkXFzIyikODKF) | 2:28 |
+| 10 | [Humble](https://open.spotify.com/track/3IJj5vXTXvXoGECDjoN0yL) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Humble](https://open.spotify.com/album/7G1XiSRwcQEaucF4EESV03) | 2:33 |
+| 11 | [Greatest](https://open.spotify.com/track/77mI75scDZpgK0gZ565FNZ) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patandar](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:58 |
 | 12 | [Double Dose](https://open.spotify.com/track/5SEtz18nGFtT8IiyaAJC2z) | [Kulbir Jhinjer](https://open.spotify.com/artist/5xeLNyuZaJBjLpyjopm22n), [Saheb](https://open.spotify.com/artist/3ukEIJ46BpHQxnrWSbqaIq), [Professor](https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt) | [Double Dose](https://open.spotify.com/album/6Y755xcBdMoWO4jAxHuJqr) | 2:50 |
 | 13 | [Rubicon Drill](https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Forever](https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq) | 3:08 |
 | 14 | [Softly](https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 49 | [Rollin Loud](https://open.spotify.com/track/5dHES7RU9sX30MxgIuHi1h) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [INDERZY](https://open.spotify.com/artist/2wnEx44eFeFJDWS2rPILkJ) | [Rollin Loud](https://open.spotify.com/album/6YfxQmZXimBQLy6XL4YvQz) | 2:38 |
 | 50 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 |
 
-Snapshot ID: `Z9gNBAAAAABTFTHSBMtv2z0svEVXEI9G`
+Snapshot ID: `Z9mH/AAAAAChI5EZwCI6I6ZKF/z1OMGN`

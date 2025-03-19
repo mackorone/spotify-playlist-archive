@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 168740,
+  "num_followers": 168792,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAAAzMUsWWrZJt1pkHrszhESs",
+  "snapshot_id": "Z9dmAAAAAADXsYzK91bdk1g5gI7gZv1+",
   "tracks": [
     {
       "added_at": null,
@@ -883,26 +883,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Intentions",
-        "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
       },
       "artists": [
         {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 161319,
-      "name": "Turks (with Gunna & ft. Travis Scott)",
-      "url": "https://open.spotify.com/track/7IMwEtpAiJanqF6vQteZN2"
+      "duration_ms": 226000,
+      "name": "bread & butter",
+      "url": "https://open.spotify.com/track/7IqsNN0EMckx9YqddgXlwg"
     },
     {
       "added_at": null,
@@ -923,18 +915,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+        "name": "Good Intentions",
+        "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
       },
       "artists": [
         {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 226000,
-      "name": "bread & butter",
-      "url": "https://open.spotify.com/track/7IqsNN0EMckx9YqddgXlwg"
+      "duration_ms": 161319,
+      "name": "Turks (with Gunna & ft. Travis Scott)",
+      "url": "https://open.spotify.com/track/7IMwEtpAiJanqF6vQteZN2"
     },
     {
       "added_at": null,

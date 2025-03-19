@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,781 songs - 3 day 7 hr 5 min
+1,783 songs - 3 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -965,6 +965,7 @@
 | [Morning Dew](https://open.spotify.com/track/1LlWrUUgRE2Mqxdbcpj6NF) | [Blue George](https://open.spotify.com/artist/3iXwpImyv9kqSfxcTtfou5) | [Morning Dew](https://open.spotify.com/album/7rjp836UdyTfcc2XtWjyB2) | 2:39 | 2024-07-30 |  |
 | [Morning In June](https://open.spotify.com/track/5qvj3mHMXXxtzGSXIYQwjt) | [Rukkirahu](https://open.spotify.com/artist/5zTrvOLnNeQEzrRQH07NxM) | [Morning In June](https://open.spotify.com/album/17sS5SwMaMKCeU3GMPZMux) | 2:55 | 2025-02-18 |  |
 | [Morning Song](https://open.spotify.com/track/0CSW0V2PU9WOEbxBkltPio) | [Melody of Sound](https://open.spotify.com/artist/1jbj3bUyRhQ8FqU55nERZ4) | [Morning Song](https://open.spotify.com/album/0oXikKT6FVhUyV4ASmXF19) | 2:09 | 2021-06-18 | 2022-09-24 |
+| [Morning Write](https://open.spotify.com/track/3wQ4jhM4hH3a9SKqGStvkl) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Morning Write](https://open.spotify.com/album/3TECXzv0JenFb76sIXaCCY) | 2:44 | 2025-03-18 |  |
 | [Morphée](https://open.spotify.com/track/2ewd25cXIdZvLxbgGh5eYA) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Automne](https://open.spotify.com/album/6KjNkS21n7ICAQRmUVrCK7) | 3:12 | 2019-12-04 | 2020-09-30 |
 | [Mother](https://open.spotify.com/track/7cewGJQD5mApwm7C4O4CJg) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [Mother](https://open.spotify.com/album/7G0zM5Kc1VMsLPS58RvPku) | 2:46 | 2020-11-10 | 2021-01-18 |
 | [Mother May I](https://open.spotify.com/track/46yWOqnL99hM5O7OD0Y8Tf) | [Xie Qi](https://open.spotify.com/artist/6HFojJ4dKdfE6sHHB1XZpb) | [Mother May I](https://open.spotify.com/album/5nJnrCHJTzd429URLTrfch) | 2:34 | 2020-12-01 | 2021-04-08 |
@@ -1465,6 +1466,7 @@
 | [Survivor](https://open.spotify.com/track/1u1aXnuFIFr5rm3Z1h7NWK) | [Mikael Sapin](https://open.spotify.com/artist/1WhZafhbkuYM3mJTIMEbAo) | [Wild Life](https://open.spotify.com/album/2cpFdGNeFHT99X4oHmDQe0) | 2:15 | 2021-06-24 | 2021-09-24 |
 | [Suvi](https://open.spotify.com/track/180sqT5oq8Vcxob0B39CIu) | [Oscar Sundberg](https://open.spotify.com/artist/6dqgUbsMsMRsWoRnuibxwl) | [Suvi](https://open.spotify.com/album/4bLauhS6WHuvbXKKhpb7X4) | 5:04 | 2019-05-26\* | 2019-09-19 |
 | [Svaj](https://open.spotify.com/track/0RdeSJMPOXBb8a1MmEP7Fq) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Svaj](https://open.spotify.com/album/5mxzoB3Xja5f0sVuI1nsv3) | 2:26 | 2022-04-28 | 2023-09-23 |
+| [Swadhisthana](https://open.spotify.com/track/5tWz0ZTSkBbgDOjKCYUtp6) | [Silicon Silence](https://open.spotify.com/artist/3IsFn83rSDMVENUU5jK5O5) | [Swadhisthana](https://open.spotify.com/album/4Rbm9A3luj0euz4KL7OSV8) | 2:48 | 2025-03-18 |  |
 | [Swamp](https://open.spotify.com/track/1s8esXu1jTNJ49RwotQLSc) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Swamp](https://open.spotify.com/album/6JWJL7LDHzUVknPtZIxv71) | 2:01 | 2021-05-22 | 2022-07-29 |
 | [Swan Spring](https://open.spotify.com/track/3orRX2Ms4jy4dU9KqJ9zT1) | [Simon Westman](https://open.spotify.com/artist/5BfaOl251rYEVEU1RCwzSW) | [Swan Spring](https://open.spotify.com/album/3VA909nOCURUPvOCRowksy) | 3:00 | 2021-07-01 | 2022-12-06 |
 | [Sway](https://open.spotify.com/track/4ihRH9DsiK7bpOyArN9vew) | [Dmitry Evgrafov](https://open.spotify.com/artist/5gO6Qun6lW2PILwqcvEug8) | [Collage](https://open.spotify.com/album/2n1P0CgObbX5aNpKwPiKtF) | 2:36 | 2019-05-26\* | 2020-03-17 |

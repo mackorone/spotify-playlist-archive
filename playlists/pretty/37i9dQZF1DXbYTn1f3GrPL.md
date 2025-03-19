@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYTn1f3GrPL.md) - [plain]
 
 > Música serena de piano para dormir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,467 likes - 219 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,493 likes - 219 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,26 +16,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYTn1f3GrPL.md) - [plain]
 | 6 | [Sleeping On Clouds](https://open.spotify.com/track/3hZOoFLCKOWk7UlHbqQbo0) | [Etne Skiöld](https://open.spotify.com/artist/2hBTCIkNqbHQYTDIhxDfJD) | [Sleeping On Clouds](https://open.spotify.com/album/6EQ1DXLD8BGNnK2hgmcJv3) | 2:00 |
 | 7 | [The Breeze and The Wildflower](https://open.spotify.com/track/6Plm2aAPOdsimkWZiL7VVd) | [Roasting Coffee Beans](https://open.spotify.com/artist/03dlT1wdnhRBavp2hsrmoY) | [The Breeze and The Wildflower](https://open.spotify.com/album/6IINRvEFdsEwwk38Q3jQEO) | 2:45 |
 | 8 | [Oslnivý](https://open.spotify.com/track/3Sb2MXhccqLN6jqZEWSxDB) | [Séverine Royal](https://open.spotify.com/artist/3IL097aOxiyd0goKefIDlz) | [Oslnivý](https://open.spotify.com/album/7aLiMkw1IoofXKM3Cf2XGy) | 2:18 |
-| 9 | [Grounded in Love](https://open.spotify.com/track/6r3yNcTDGZxBsvUi5hwpOf) | [Rocco](https://open.spotify.com/artist/70qMxbmTMbxS4MCjkkZvTH) | [Grounded in Love](https://open.spotify.com/album/7dgM19C1eRfwg33ev3jLV8) | 2:23 |
-| 10 | [Chuchotement](https://open.spotify.com/track/2NWOoi4HoSZFX0sySYIqVi) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [Chuchotement](https://open.spotify.com/album/291s2oBqqd2yA0AmII2KTy) | 2:14 |
-| 11 | [Little eyes](https://open.spotify.com/track/0ujCuPifSXi03mgGeqbsvC) | [Leddei](https://open.spotify.com/artist/52c7HK8GD8wokmwHeNXGhs) | [Little eyes](https://open.spotify.com/album/5YYGBgnXZ9M36cOYlWKbQi) | 2:19 |
-| 12 | [By the water](https://open.spotify.com/track/2YoLc0qnDHNgjpuaF0nxOV) | [Big Marsh](https://open.spotify.com/artist/4d2MCwL7Etc9TuxNALb5IF) | [By the water](https://open.spotify.com/album/33LaRBVTZeUUY5bpWBZMJe) | 2:23 |
+| 9 | [Little eyes](https://open.spotify.com/track/0ujCuPifSXi03mgGeqbsvC) | [Leddei](https://open.spotify.com/artist/52c7HK8GD8wokmwHeNXGhs) | [Little eyes](https://open.spotify.com/album/5YYGBgnXZ9M36cOYlWKbQi) | 2:19 |
+| 10 | [By the water](https://open.spotify.com/track/2YoLc0qnDHNgjpuaF0nxOV) | [Big Marsh](https://open.spotify.com/artist/4d2MCwL7Etc9TuxNALb5IF) | [By the water](https://open.spotify.com/album/33LaRBVTZeUUY5bpWBZMJe) | 2:23 |
+| 11 | [Grounded in Love](https://open.spotify.com/track/6r3yNcTDGZxBsvUi5hwpOf) | [Rocco](https://open.spotify.com/artist/70qMxbmTMbxS4MCjkkZvTH) | [Grounded in Love](https://open.spotify.com/album/7dgM19C1eRfwg33ev3jLV8) | 2:23 |
+| 12 | [Chuchotement](https://open.spotify.com/track/2NWOoi4HoSZFX0sySYIqVi) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [Chuchotement](https://open.spotify.com/album/291s2oBqqd2yA0AmII2KTy) | 2:14 |
 | 13 | [The Quiet Room](https://open.spotify.com/track/0Iq6y319N2q1xTj3QtjvQF) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [The Quiet Room](https://open.spotify.com/album/1bUlMMwOomK8AOUqGJUYeu) | 2:28 |
 | 14 | [day by day](https://open.spotify.com/track/50G6irpZApduau5QFZhicP) | [Nature then Nurture](https://open.spotify.com/artist/2uXzMvEa7FA2izNUxuDH2Y) | [day by day](https://open.spotify.com/album/3s3vBEGWENJESmsyeDpl4s) | 2:17 |
-| 15 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 |
-| 16 | [Nordic Sunset](https://open.spotify.com/track/6daWwJ5d0lswGClgWB18Pc) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Nordic Sunset](https://open.spotify.com/album/65Cml5MnWFs3jeca3oiyGl) | 2:30 |
-| 17 | [fleur au vent](https://open.spotify.com/track/0FVTRr4Xf05TsboxNTESFI) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [fleur au vent](https://open.spotify.com/album/3uJ98jRYQe813KxNufJxKl) | 2:36 |
-| 18 | [Veiled Remembrance](https://open.spotify.com/track/5ottoPWbTULvnKU5PSCysf) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Veiled Remembrance](https://open.spotify.com/album/6qwFoOfdmNmHT0aTrXBlzA) | 2:52 |
+| 15 | [fleur au vent](https://open.spotify.com/track/0FVTRr4Xf05TsboxNTESFI) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [fleur au vent](https://open.spotify.com/album/3uJ98jRYQe813KxNufJxKl) | 2:36 |
+| 16 | [Veiled Remembrance](https://open.spotify.com/track/5ottoPWbTULvnKU5PSCysf) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Veiled Remembrance](https://open.spotify.com/album/6qwFoOfdmNmHT0aTrXBlzA) | 2:52 |
+| 17 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 |
+| 18 | [Nordic Sunset](https://open.spotify.com/track/6daWwJ5d0lswGClgWB18Pc) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Nordic Sunset](https://open.spotify.com/album/65Cml5MnWFs3jeca3oiyGl) | 2:30 |
 | 19 | [lavande](https://open.spotify.com/track/4EJN7S0RIFD50gZQOf4pRM) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [lavande](https://open.spotify.com/album/3F4ggN1yBna5FlNj8Bw8Y7) | 2:36 |
-| 20 | [Slow Movements](https://open.spotify.com/track/5Ts7azb9QNWm8r64F4QZap) | [Claire Lerdier](https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k) | [Slow Movements](https://open.spotify.com/album/5utCrR0B4LDVvgCpeRVKIX) | 2:53 |
-| 21 | [Picture Life](https://open.spotify.com/track/4bjAEUYwbMIcd3e86EinLN) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Picture Life](https://open.spotify.com/album/21ZXPpXidDE9KvpZRCB12d) | 2:29 |
-| 22 | [WARMTH OF THE WIND](https://open.spotify.com/track/5yXFHymXahLnDErLk0wBun) | [GRACE UNDERWOOD](https://open.spotify.com/artist/3Q9WSdSKTYAVrqpyumgwqp) | [WARMTH OF THE WIND](https://open.spotify.com/album/61e0S11tCBQPOhemFKwiF4) | 2:51 |
-| 23 | [Goodmight](https://open.spotify.com/track/7rLMGoaWru8BOjoU73vXO1) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Goodmight](https://open.spotify.com/album/7vBcf7bIKJfuYvSucoHNAE) | 2:13 |
+| 20 | [Picture Life](https://open.spotify.com/track/4bjAEUYwbMIcd3e86EinLN) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Picture Life](https://open.spotify.com/album/21ZXPpXidDE9KvpZRCB12d) | 2:29 |
+| 21 | [WARMTH OF THE WIND](https://open.spotify.com/track/5yXFHymXahLnDErLk0wBun) | [GRACE UNDERWOOD](https://open.spotify.com/artist/3Q9WSdSKTYAVrqpyumgwqp) | [WARMTH OF THE WIND](https://open.spotify.com/album/61e0S11tCBQPOhemFKwiF4) | 2:51 |
+| 22 | [Goodmight](https://open.spotify.com/track/7rLMGoaWru8BOjoU73vXO1) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Goodmight](https://open.spotify.com/album/7vBcf7bIKJfuYvSucoHNAE) | 2:13 |
+| 23 | [Quiet Reverie](https://open.spotify.com/track/1uGHNaIqgdSVkW9Edz20Og) | [Siri Eijde](https://open.spotify.com/artist/2ND34rpSifp76bnMDtffEV) | [Quiet Reverie](https://open.spotify.com/album/5HFnlATLEcpPTZzjtifDQS) | 2:27 |
 | 24 | [Nighttime](https://open.spotify.com/track/7lOIqEy05P44D2ZDDrUEF4) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Nighttime](https://open.spotify.com/album/7hDXLdzwTJ5GqB7T0A5bnb) | 2:39 |
 | 25 | [Soft Focus](https://open.spotify.com/track/2RnZhye8X48n6dhZakrI1T) | [Big Marsh](https://open.spotify.com/artist/4d2MCwL7Etc9TuxNALb5IF) | [Soft Focus](https://open.spotify.com/album/5sSjbQbNspCTJIy1f3pZsc) | 2:39 |
 | 26 | [Budsofspring](https://open.spotify.com/track/1aQzaAkL8VuVPxXQQojT4w) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Budsofspring](https://open.spotify.com/album/3rBAssDSdBPvcfuuZVl6RU) | 2:14 |
-| 27 | [Conversations](https://open.spotify.com/track/5iU1vfBMdbpGj1QT3sPcy8) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Conversations](https://open.spotify.com/album/4aYNTrTcQisJeqN1xZuBOn) | 2:53 |
-| 28 | [Quiet Reverie](https://open.spotify.com/track/1uGHNaIqgdSVkW9Edz20Og) | [Siri Eijde](https://open.spotify.com/artist/2ND34rpSifp76bnMDtffEV) | [Quiet Reverie](https://open.spotify.com/album/5HFnlATLEcpPTZzjtifDQS) | 2:27 |
+| 27 | [Slow Movements](https://open.spotify.com/track/5Ts7azb9QNWm8r64F4QZap) | [Claire Lerdier](https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k) | [Slow Movements](https://open.spotify.com/album/5utCrR0B4LDVvgCpeRVKIX) | 2:53 |
+| 28 | [Conversations](https://open.spotify.com/track/5iU1vfBMdbpGj1QT3sPcy8) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Conversations](https://open.spotify.com/album/4aYNTrTcQisJeqN1xZuBOn) | 2:53 |
 | 29 | [ruisseau](https://open.spotify.com/track/1pGAxLO4ca9a7GIp7SisRs) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [ruisseau](https://open.spotify.com/album/5x8igXPi7BRJaA6hefKs2q) | 2:25 |
 | 30 | [Abandoned](https://open.spotify.com/track/07e1UOoLHenRgycuDjaLdT) | [Pass Sacaglia](https://open.spotify.com/artist/0ZrsvPjO4XAYfYXzoTroF5) | [Abandoned](https://open.spotify.com/album/3nVkrDvCKza3Wv8CGSX9os) | 2:44 |
 | 31 | [Torrero](https://open.spotify.com/track/6nLMLEetvwwmZxnENQrQWn) | [Lexi Bradley](https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm) | [Torrero](https://open.spotify.com/album/0Gk7thcw6IxFTqQjlT1d6Q) | 2:22 |
@@ -228,4 +228,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYTn1f3GrPL.md) - [plain]
 | 218 | [At Dawn](https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:16 |
 | 219 | [Mass](https://open.spotify.com/track/0EyMOXlxP0iH4I9SOAjKtS) | [Zwera](https://open.spotify.com/artist/3jYcRq1Sqb24bcf0FDGdWn) | [Mass](https://open.spotify.com/album/2LTY4ASorTFysOfV8Nk1c2) | 2:10 |
 
-Snapshot ID: `Z9OpxAAAAABaP+GwM2/Hk0BRbKoq+A9P`
+Snapshot ID: `Z9mImQAAAAB7s4fcJDzbeTd+JD/h+hF2`

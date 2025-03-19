@@ -3195,6 +3195,28 @@
     },
     {
       "album": {
+        "name": "long_time.MP4",
+        "url": "https://open.spotify.com/album/2D2bxVuPyflihXmnDerYUN"
+      },
+      "artists": [
+        {
+          "name": "lil fasty",
+          "url": "https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU"
+        },
+        {
+          "name": "zerofault",
+          "url": "https://open.spotify.com/artist/65tVi1aPs0FiP3FujkbNeo"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124338,
+      "name": "long_time.MP4",
+      "url": "https://open.spotify.com/track/5AKjpH0izAn7ZRK38LUiAR"
+    },
+    {
+      "album": {
         "name": "LOVESICK",
         "url": "https://open.spotify.com/album/6MwQkbIxD6S2H8bB3gTsT0"
       },

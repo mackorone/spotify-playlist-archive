@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUij1y62UPcn.md) - [plain]
 
 > Aidez vos enfants à commencer la journée du bon pied avec ces chansons positives
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,121 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,130 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

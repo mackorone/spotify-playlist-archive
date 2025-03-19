@@ -6423,6 +6423,24 @@
     },
     {
       "album": {
+        "name": "For Heaven's Sake",
+        "url": "https://open.spotify.com/album/3hwhf5CODjmUIlS1IOvfYN"
+      },
+      "artists": [
+        {
+          "name": "Gene Hart Trio",
+          "url": "https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270500,
+      "name": "For Heaven's Sake",
+      "url": "https://open.spotify.com/track/6zy0wH34bdXKZmkODKVEii"
+    },
+    {
+      "album": {
         "name": "For Jan",
         "url": "https://open.spotify.com/album/00kBMTEVOjTctQyjaFwRBP"
       },
@@ -7284,6 +7302,24 @@
       "duration_ms": 255106,
       "name": "Gramercy Sunset",
       "url": "https://open.spotify.com/track/3dtrI8OOHWxMyg6EHNecdt"
+    },
+    {
+      "album": {
+        "name": "Green Flash",
+        "url": "https://open.spotify.com/album/5ZdBepf6y7xyAORA8DQw4F"
+      },
+      "artists": [
+        {
+          "name": "Kristian Hart Trio",
+          "url": "https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224403,
+      "name": "Green Flash",
+      "url": "https://open.spotify.com/track/5xvWyNc96sna64z86Fkv9d"
     },
     {
       "album": {
@@ -11762,7 +11798,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 147539,
       "name": "Love Stories",
       "url": "https://open.spotify.com/track/1YkTLEO57RnNZDXQ699rMh"
@@ -13906,7 +13942,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 198025,
       "name": "New sponsor",
       "url": "https://open.spotify.com/track/6EIQvvPBFyPsa4zRJYtoNq"
@@ -17120,6 +17156,24 @@
     {
       "album": {
         "name": "Soliloquy",
+        "url": "https://open.spotify.com/album/1lEZ02mZ6K8WOgqBifduRS"
+      },
+      "artists": [
+        {
+          "name": "Fulton Street Players",
+          "url": "https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198076,
+      "name": "Soliloquy",
+      "url": "https://open.spotify.com/track/4ntvfWNUEZgH5jM4Ryd2q9"
+    },
+    {
+      "album": {
+        "name": "Soliloquy",
         "url": "https://open.spotify.com/album/1VFMQG2BAGIE3xBp1ejr34"
       },
       "artists": [
@@ -20026,7 +20080,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 201508,
       "name": "This Morning",
       "url": "https://open.spotify.com/track/2kpki79GZZ2BNg5dNcvRUO"

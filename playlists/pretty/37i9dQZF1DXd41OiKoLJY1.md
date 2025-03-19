@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: hannah Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,802 likes - 126 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,815 likes - 126 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 22 | [Masterpiece](https://open.spotify.com/track/7Jo0O6UwsT3CbarNQaM9xN) | [Malena Leonard](https://open.spotify.com/artist/0lPMwxyqfgMx585GQpJ09A) | [Masterpiece](https://open.spotify.com/album/1gxK5KOvlhFZSNWk1lMvVz) | 2:49 |
 | 23 | [Dilemma](https://open.spotify.com/track/6TN15RFvfavKdkeADFAZfs) | [JY](https://open.spotify.com/artist/3QCJGwp2dI1HbJFPktaYHu), [Maro Ignacio](https://open.spotify.com/artist/6jE4xHJbmYMz6uqY8b15xk) | [Dilemma](https://open.spotify.com/album/7mjDMXsyiEpiHoWUai2YtN) | 4:27 |
 | 24 | [Meet Again](https://open.spotify.com/track/6q10bmTD8bI5dS1mdpx18o) | [KREY](https://open.spotify.com/artist/2qsKmvV47a1XIRQizWZUzy) | [Meet Again](https://open.spotify.com/album/3S3mNFrGgNAvWfFkLGNoZ7) | 3:47 |
-| 25 | [BAKIT HINDI PA NGAYON?](https://open.spotify.com/track/3zjGbASTjZpgswcbuiALdy) | [JYN](https://open.spotify.com/artist/6PU5tCDqS56iAy8eEDumNR), [NICOLO MENDOZA](https://open.spotify.com/artist/0gJwVdFaiT5w0pUVBQM6tq) | [BAKIT HINDI PA NGAYON?](https://open.spotify.com/album/0etzCEaCzlJs0EFIRrk5U5) | 5:00 |
+| 25 | [Bakit hindi pa ngayon?](https://open.spotify.com/track/3zjGbASTjZpgswcbuiALdy) | [JYN](https://open.spotify.com/artist/6PU5tCDqS56iAy8eEDumNR), [Nicolo Mendoza](https://open.spotify.com/artist/0gJwVdFaiT5w0pUVBQM6tq) | [Bakit hindi pa ngayon?](https://open.spotify.com/album/0etzCEaCzlJs0EFIRrk5U5) | 5:00 |
 | 26 | [\(Life in Parenthesis\)](https://open.spotify.com/track/0T85vwx6wCLth3TO21uCXw) | [Stephanie Zubiri](https://open.spotify.com/artist/7hYTGQTPWe83vCza935TDi) | [\(Life in Parenthesis\)](https://open.spotify.com/album/3r9HrEIROYMknOZ56XWSw4) | 3:51 |
 | 27 | [dopamine](https://open.spotify.com/track/2m6HqlaAXs2BvlOAWslMdf) | [KAI.ZEN](https://open.spotify.com/artist/2TMub1vgKdjAFlEjBC3Trx) | [dopamine](https://open.spotify.com/album/3HnH5kCoTnKSHX5rcMVtR5) | 3:40 |
 | 28 | [second at best](https://open.spotify.com/track/3jfoCmmfBIdUXSFShB8ORW) | [faculty club](https://open.spotify.com/artist/3nDE117kLXPi2Wxl1UtJVB) | [second at best](https://open.spotify.com/album/5SGEzCS6E1s7962GT5bOD3) | 3:40 |

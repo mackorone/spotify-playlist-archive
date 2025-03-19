@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,602 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,641 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 31 | [Sofazinho \- Ao Vivo](https://open.spotify.com/track/2PMLdLt5QeOuOgxfAvx1in) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Live\-Móvel \(Ao Vivo\)](https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2) | 3:07 |
 | 32 | [O Que Houve? \- Ao Vivo](https://open.spotify.com/track/6fDadQZ5QlZgYqpZhDfwek) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Ao Vivo Em Maceió](https://open.spotify.com/album/0ua7snDhitmW4xhrNODuFC) | 4:39 |
 | 33 | [Muié, Chapéu e Butina \- Ao Vivo](https://open.spotify.com/track/1ZB3pjR7MdkIBbBzz4Fg9C) | [Loubet](https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI) | [Made in Roça \(Ao Vivo\)](https://open.spotify.com/album/3rRfJJYjeoqranLMo1udIU) | 3:07 |
-| 34 | [Moleque](https://open.spotify.com/track/0oMaaZT0hHsy7QMfpidYtI) | [Pacheco](https://open.spotify.com/artist/6L8qkVcwxbMShYXrQHy5Uy), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Moleque](https://open.spotify.com/album/4QIhY16gSJ8F2kf2eDvGUt) | 3:14 |
+| 34 | [Moleque](https://open.spotify.com/track/0oMaaZT0hHsy7QMfpidYtI) | [Pacheco](https://open.spotify.com/artist/6L8qkVcwxbMShYXrQHy5Uy), [Marília Mendonça](https://open.spotify.com/artist/6QxHENQOzTLnj0gs1sLRL7) | [Moleque](https://open.spotify.com/album/4QIhY16gSJ8F2kf2eDvGUt) | 3:14 |
 | 35 | [Antídoto \- Ao Vivo](https://open.spotify.com/track/1I0uC6uLpAd1qUljbn4vf2) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Na Praia 2 \(Ao Vivo\)](https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN) | 3:02 |
 | 36 | [Medida Certa](https://open.spotify.com/track/44mr3ypWNHa0inr3heiOb2) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Medida Certa](https://open.spotify.com/album/5odHcyWv2Zcw2O9Y273EYB) | 3:06 |
 | 37 | [Beber Com Emergência \- Ao Vivo](https://open.spotify.com/track/1IcbQvHb9B7MikgQjfJtAl) | [Jefferson Moraes](https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C) | [Start In São Paulo \(ao Vivo\)](https://open.spotify.com/album/33pKsFhYvUCQkZTmUx4h9k) | 2:16 |

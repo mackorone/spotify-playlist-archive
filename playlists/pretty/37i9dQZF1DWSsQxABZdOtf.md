@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,409 likes - 70 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,416 likes - 70 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 6 | [bastard](https://open.spotify.com/track/7wezQzF31IztdsWRiyV0gJ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [bastard](https://open.spotify.com/album/1PwWm9XDlFgWpcOuquC0K0) | 2:16 |
 | 7 | [I Guess We're Not The Same](https://open.spotify.com/track/36nYS9AwMR06ph6imdjn7J) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [I Guess We’re Not The Same](https://open.spotify.com/album/2qcjJEhyv2SCJOphfOIGZ3) | 3:31 |
 | 8 | [Girl](https://open.spotify.com/track/07DapAVEtfc5KvHVpORuUn) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Girl](https://open.spotify.com/album/4qROVm5bhCJAhkM4AW7pNt) | 3:32 |
-| 9 | [True Religion](https://open.spotify.com/track/78wZn0wdzhj3imUleYWd5M) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [True Religion](https://open.spotify.com/album/0Uowlm2LLlqaoAMFtajKat) | 2:50 |
+| 9 | [True Religion](https://open.spotify.com/track/78wZn0wdzhj3imUleYWd5M) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [True Religion](https://open.spotify.com/album/0Uowlm2LLlqaoAMFtajKat) | 2:50 |
 | 10 | [Heavy Weight](https://open.spotify.com/track/5AI6FsXYw74lzeSc71N4KS) | [1st Klase](https://open.spotify.com/artist/5gPZ9xZ09FdYzbHIdGB2bA), [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Heavy Weight](https://open.spotify.com/album/2B1k03thqdi8nIIzqfi12J) | 2:46 |
 | 11 | [High School Drums](https://open.spotify.com/track/4LPZu2fAQNZiq9Hccb9gMm) | [Dubbel Dutch](https://open.spotify.com/artist/08k2TtlE1pYESgljfijLaI) | [Pleasing Drums](https://open.spotify.com/album/5LqFuglCtEYG0MrHLUIElb) | 2:22 |
 | 12 | [Kingdom Is Rising](https://open.spotify.com/track/65vhZh8G8AQdplZw7yPRYa) | [Obeka](https://open.spotify.com/artist/0Kjw9SscR2JkDUUNA508hf) | [Kingdom Is Rising](https://open.spotify.com/album/4WW4DikTD5qm27ulCWVeIu) | 4:36 |

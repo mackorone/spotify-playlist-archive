@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 
 > This is Dean Martin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,513 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,524 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 33 | [Fools Rush In](https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dream with Dean](https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL) | 3:02 |
 | 34 | [I Wish You Love](https://open.spotify.com/track/5t784eXSTD20yOLmNcEkAC) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 12 \(1961\)](https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh) | 2:27 |
 | 35 | [Hit The Road To Dreamland](https://open.spotify.com/track/42bFdw8VS4bu57F2pNmEeh) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Sleep Warm](https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa) | 2:51 |
-| 36 | [Arrivederci Roma \- Remastered 1998](https://open.spotify.com/track/6PHtklwObDCFCY7FDm10Wj) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Italian Love Songs](https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10) | 2:41 |
-| 37 | [True Love \(Duet\)](https://open.spotify.com/track/6Rqkp1ZOYSwGzoXIUh4rau) | [Deana Martin](https://open.spotify.com/artist/1LeG1CIzi0OnjP8CTcnSVV), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Destination Moon](https://open.spotify.com/album/0f6FwrVg0HKjKwFrPXJ06k) | 3:09 |
-| 38 | [I'm Confessin' \(That I Love You\)](https://open.spotify.com/track/6EN0fTxduMrFWuFK46pi7Z) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dream with Dean](https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL) | 3:14 |
-| 39 | [Good Mornin' Life](https://open.spotify.com/track/3AnTfM2O5kUtlZfZ5O3hyB) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 8 \(1957\-1958\)](https://open.spotify.com/album/3qkVx3Bic5wetQLYEYKPuK) | 2:16 |
-| 40 | [I've Grown Accustomed to Her Face \(feat\. Dean Martin\)](https://open.spotify.com/track/6g5aYgw2cdd4rFDpZ7bnxT) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Italia](https://open.spotify.com/album/5V2wSvrTzQRRLA7RRXfekM) | 3:08 |
-| 41 | [Things](https://open.spotify.com/track/5kkuFmsiEYlDXHoCWLey4B) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Country Style](https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt) | 2:39 |
+| 36 | [True Love \(Duet\)](https://open.spotify.com/track/6Rqkp1ZOYSwGzoXIUh4rau) | [Deana Martin](https://open.spotify.com/artist/1LeG1CIzi0OnjP8CTcnSVV), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Destination Moon](https://open.spotify.com/album/0f6FwrVg0HKjKwFrPXJ06k) | 3:09 |
+| 37 | [Arrivederci Roma \- Remastered 1998](https://open.spotify.com/track/6PHtklwObDCFCY7FDm10Wj) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Italian Love Songs](https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10) | 2:41 |
+| 38 | [Good Mornin' Life](https://open.spotify.com/track/3AnTfM2O5kUtlZfZ5O3hyB) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 8 \(1957\-1958\)](https://open.spotify.com/album/3qkVx3Bic5wetQLYEYKPuK) | 2:16 |
+| 39 | [I'm Confessin' \(That I Love You\)](https://open.spotify.com/track/6EN0fTxduMrFWuFK46pi7Z) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dream with Dean](https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL) | 3:14 |
+| 40 | [Things](https://open.spotify.com/track/5kkuFmsiEYlDXHoCWLey4B) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Country Style](https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt) | 2:39 |
+| 41 | [I've Grown Accustomed to Her Face \(feat\. Dean Martin\)](https://open.spotify.com/track/6g5aYgw2cdd4rFDpZ7bnxT) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Italia](https://open.spotify.com/album/5V2wSvrTzQRRLA7RRXfekM) | 3:08 |
 | 42 | [Promise Her Anything \- 1998 Digital Remaster](https://open.spotify.com/track/4UXSAkJHUU8SYwpux3ikRq) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 2:57 |
 | 43 | [My Rifle, My Pony And Me \- Remastered](https://open.spotify.com/track/0dG69tIjOO6DSltDSINNOJ) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [At The Movies](https://open.spotify.com/album/6Dsdu27CRQNlDvs3jF7BLK) | 2:48 |
 | 44 | [Goodnight Sweetheart](https://open.spotify.com/track/455eJSxXbR1NVNucLVXayS) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Sleep Warm](https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 49 | [Non Dimenticar](https://open.spotify.com/track/4d4Z8IilRC921QjOpKaWsw) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 12 \(1961\)](https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh) | 3:08 |
 | 50 | [The Naughty Lady Of Shady Lane](https://open.spotify.com/track/4i6YRfiLsCW30cPAbwMV40) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 5 \(1954\)](https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM) | 2:56 |
 
-Snapshot ID: `Z9YUgAAAAAAsJotxKvzpp1ehNS5Otswf`
+Snapshot ID: `Z9dmAAAAAAAL3EdN5SeHM8hFZQoeCkOp`

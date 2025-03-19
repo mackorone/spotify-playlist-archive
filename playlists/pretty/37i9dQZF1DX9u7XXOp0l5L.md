@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9u7XXOp0l5L.md) - [plain]
 
 > Non\-stop een goed gevoel!
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,818 likes - 125 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,860 likes - 125 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

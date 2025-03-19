@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 36 | [Nostalgic](https://open.spotify.com/track/505idOF1JBk7WXlJ75BALj) | [Jordan Jay](https://open.spotify.com/artist/3htJBdRyfwyCTKgpZAj6pY) | [Nostalgic](https://open.spotify.com/album/0ANAg2M3iPZtgDwzQ4sIqk) | 2:20 |
 | 37 | [No One Else](https://open.spotify.com/track/7xRNtmOCuXqkm7eRNQsowl) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [A Radiant Sign](https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl) | 3:26 |
 | 38 | [21 Candles](https://open.spotify.com/track/5eFlBcW5apxIXqyfTzjBMp) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy](https://open.spotify.com/album/0qZnfUUOH8FkPZBNptfmKr) | 2:44 |
-| 39 | [Less Of A Woman](https://open.spotify.com/track/36ukbvDkk8gIu3CzvoCpH9) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy](https://open.spotify.com/album/0qZnfUUOH8FkPZBNptfmKr) | 2:34 |
-| 40 | [Loveless](https://open.spotify.com/track/19So3cXuMUSiffB8AXzr9r) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Loveless](https://open.spotify.com/album/1IsfgWTtfRYs3VyVQXll1s) | 2:54 |
+| 39 | [Loveless](https://open.spotify.com/track/19So3cXuMUSiffB8AXzr9r) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Loveless](https://open.spotify.com/album/1IsfgWTtfRYs3VyVQXll1s) | 2:54 |
+| 40 | [Less Of A Woman](https://open.spotify.com/track/36ukbvDkk8gIu3CzvoCpH9) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy](https://open.spotify.com/album/0qZnfUUOH8FkPZBNptfmKr) | 2:34 |
 | 41 | [Highlight](https://open.spotify.com/track/2VJrDLdiLcw9bSZMe73sWG) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going](https://open.spotify.com/album/7vehBp2yn4AlDZw0SQ8IHf) | 3:33 |
 | 42 | [Aura](https://open.spotify.com/track/6MKX22DUshtfsOfdHzdve5) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Aura](https://open.spotify.com/album/4bv6FylWnT6nYM0ik2l79O) | 3:32 |
 | 43 | [Point of View](https://open.spotify.com/track/5pdycEF3g4wnfTlb92BnW7) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Point of View](https://open.spotify.com/album/6m7FyjVOUtN9y5kfVrdyQL) | 3:10 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 50 | [Priority](https://open.spotify.com/track/0jgIsq6BtybOp4R1udNuOP) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Priority](https://open.spotify.com/album/6SGPIdhRflWG0jvIp7ftGj) | 3:16 |
 | 51 | [MAGIC](https://open.spotify.com/track/6OhYnnNVRvLRBy580Wit9k) | [Park kang hyun](https://open.spotify.com/artist/6GuseRhHqcubzIgtBob2Pk) | [Music Collaboration\-MAGIC](https://open.spotify.com/album/6CR946phNnK0cI2Qnw4L1O) | 3:10 |
 
-Snapshot ID: `AbsU6AAAAACV9tzju7hqLhxJV8r7nxdc`
+Snapshot ID: `AbsafgAAAAD/Shw9xgpj+46+SepQcm9u`

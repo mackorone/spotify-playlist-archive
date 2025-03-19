@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/6560RgzahjBUplHfzm454m?si=q98YaAI5Scuaa74raXDFPQ">Chipego</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF?si=aZWAGFHMTIipljZtJuRcjw">Kunmie</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,245 likes - 52 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,257 likes - 53 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LET IT FALL](https://open.spotify.com/track/6cwKz4YmVkGC5lMxxUR5u2) | [Chipego](https://open.spotify.com/artist/6560RgzahjBUplHfzm454m), [Phonikz](https://open.spotify.com/artist/6YX1n5yl2H2RdidVHWnoc5) | [Don't Forget to Remember](https://open.spotify.com/album/0mVgxsgka5Flw5eRE5DesS) | 3:46 |
-| 2 | [Arike](https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Arike](https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw) | 2:04 |
+| 1 | [Arike](https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Arike](https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw) | 2:04 |
+| 2 | [LET IT FALL](https://open.spotify.com/track/6cwKz4YmVkGC5lMxxUR5u2) | [Chipego](https://open.spotify.com/artist/6560RgzahjBUplHfzm454m), [Phonikz](https://open.spotify.com/artist/6YX1n5yl2H2RdidVHWnoc5) | [Don't Forget to Remember](https://open.spotify.com/album/0mVgxsgka5Flw5eRE5DesS) | 3:46 |
 | 3 | [Free](https://open.spotify.com/track/3oNPOIzZYk6WCCvSSLDLqI) | [Muthoka](https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp) | [Free](https://open.spotify.com/album/0TwahsX1CAvVgooTwZSvP1) | 2:35 |
 | 4 | [Pookie](https://open.spotify.com/track/5Q7AAQv0YGXEKRy9bTs8nz) | [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr) | [Pookie](https://open.spotify.com/album/6X1yNc6oCLtW9THe9shuNr) | 2:09 |
 | 5 | [On My Way](https://open.spotify.com/track/4lJwa1WP9M9hoXRWgRcfZE) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [On My Way](https://open.spotify.com/album/2A8J6ynoK3NQh3WQA2tPeE) | 3:56 |
@@ -46,19 +46,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 36 | [Sneaky Link](https://open.spotify.com/track/3YDt11AUb5rwwbrLcygGag) | [Brokuod](https://open.spotify.com/artist/6uYPGiuDI0H0SFB9FbJxHk) | [Sneaky Link](https://open.spotify.com/album/5cXKp2GlZYjrB1uzeU1JYA) | 3:00 |
 | 37 | [Ready 4 Ya](https://open.spotify.com/track/3bcTkS4knT6qBGRVqPnOW9) | [KALI](https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI), [Majessty](https://open.spotify.com/artist/0y91S0mvM0OnHcvAuL7mMr) | [Ready 4 Ya](https://open.spotify.com/album/7BffRev7gyTHbzrgEnd8sO) | 3:24 |
 | 38 | [The Girl who once lived](https://open.spotify.com/track/2zy11KP2dVLxV183xwDYxy) | [Ntinyari](https://open.spotify.com/artist/6mxky4PjUkwpCDOTdOeksC) | [The Girl who once lived](https://open.spotify.com/album/0MNkmk2HeY0COtibdKe3Q6) | 3:25 |
-| 39 | [OUTGROWN](https://open.spotify.com/track/4Y5QYv3npGSmC3mPcaxDVx) | [Agum](https://open.spotify.com/artist/65clSGoG8QMqMDxmpkZPhw) | [OUTGROWN](https://open.spotify.com/album/30LAd0BP8dRmDty37j8o26) | 4:13 |
-| 40 | [Sunday](https://open.spotify.com/track/7zPzWT3WjSqszmpS54pUUa) | [SSSOUNDMAN](https://open.spotify.com/artist/6ozIxfjjWlPEWxMCwdrFii) | [Sunday](https://open.spotify.com/album/4W7gufMbRo0lw53VRI9gEA) | 1:25 |
-| 41 | [Alhaji](https://open.spotify.com/track/5XrgPJask6SnYkoPDQAHQy) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [Iliya Entertainment Music](https://open.spotify.com/artist/0NwtS6wE1fRewrOxxSCSKh) | [Alhaji](https://open.spotify.com/album/70vdKrzZ5W8XqRj4YcbWyr) | 2:01 |
-| 42 | [Healing](https://open.spotify.com/track/3xD1r9yHgvuwBole90zKkU) | [Dhee Drey](https://open.spotify.com/artist/6DPKGja52YjzYYKdGTLwyU) | [Healing](https://open.spotify.com/album/59IcABfOlnrpMczpzxneK8) | 2:46 |
-| 43 | [Loco](https://open.spotify.com/track/3nu3wQ8o2HXj7E8wlQEKRC) | [Jomanie](https://open.spotify.com/artist/1MryqL3mBaTJu2je1P8L5c) | [Loco](https://open.spotify.com/album/3997iuy5cSmN5XE0mOL7E4) | 2:29 |
-| 44 | [where did the sun go?](https://open.spotify.com/track/04qU2CG6PhTzmC0EhqsErn) | [olayinka ehi](https://open.spotify.com/artist/2EsyrViPfcXSN2bQDy9zor) | [where did the sun go?](https://open.spotify.com/album/0E3pazD9wJt804nKTJpIFY) | 3:37 |
-| 45 | [On Me \(with Wizard Chan\)](https://open.spotify.com/track/1sTb119l9nOTsSLarTjzVh) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [On Me \(with Wizard Chan\)](https://open.spotify.com/album/30kEddQjzAx36K4GhVcPoK) | 3:10 |
-| 46 | [Energy](https://open.spotify.com/track/2VlGwDbdEUrV1sWPtMG9pz) | [Da\_Kudu](https://open.spotify.com/artist/4TIVFHjglPyRyjBzejy5Gn), [Kyla Blac](https://open.spotify.com/artist/1kwzoZ4QgiipDIZF5UzWpz), [Kbrizzy](https://open.spotify.com/artist/1Xoq1ablrkXxmFHR8l5vMc) | [Energy](https://open.spotify.com/album/67U8mjwFr3JMI0V1NjGglA) | 3:21 |
-| 47 | [CRYBABY](https://open.spotify.com/track/5QQjJDCm7zlNZ4DwzHRzHv) | [Tolani](https://open.spotify.com/artist/6ILYtYSwIa2Aygcqr8PTds) | [CRYBABY](https://open.spotify.com/album/4umlxMAT72AjjRpsb0D5p5) | 2:23 |
-| 48 | [pitpony](https://open.spotify.com/track/1MwQ4rjZzRK7XOzRknPOFc) | [Second House](https://open.spotify.com/artist/3T45Gk2rlZuajL50HYD0eB) | [pitpony](https://open.spotify.com/album/0sjccPzfTeu9ix7UgL227c) | 2:36 |
-| 49 | [Mi Amor](https://open.spotify.com/track/1GBk5m0nHSV2nwWv0fxpzA) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL) | [Mi Amor](https://open.spotify.com/album/0PJi5AejTSG6WN9JvqeMds) | 1:57 |
-| 50 | [ZERO](https://open.spotify.com/track/5iBci2k3I7ohRBZTNViOxM) | [Twitchpapi](https://open.spotify.com/artist/5kZxf4lsVpHE9AnLqUpmpZ), [Khae](https://open.spotify.com/artist/0kroNzNkh8kegYkbldIRIl) | [ZERO](https://open.spotify.com/album/0vQMdZcY4TCXci7WtKE9cY) | 2:49 |
-| 51 | [Tire for you](https://open.spotify.com/track/6sQ2uap6DjHt3f8oGkIOYi) | [Ramoni](https://open.spotify.com/artist/2LTGsXndJZLNRNhNt1726O) | [Something Light](https://open.spotify.com/album/3DYsQLlWUFowxn4BA1FWud) | 2:52 |
-| 52 | [Omo To Sexy](https://open.spotify.com/track/0Ra2JEiYVrZwDyyNzMWKmQ) | [BLNDE](https://open.spotify.com/artist/3ZA9FgX4nLjbfGgn7dOukU) | [Omo To Sexy](https://open.spotify.com/album/3ajUkC6s6WOUx64JZJZZsL) | 2:47 |
+| 39 | [Asere](https://open.spotify.com/track/5FAaOowtxu31DxJB93KOq3) | [Koko Koseso](https://open.spotify.com/artist/7FvgYlCKJSEIMYligM774G) | [A Song for My Miracle Baby](https://open.spotify.com/album/6VcBPDfWOJiX1CcKR7NCp2) | 2:28 |
+| 40 | [OUTGROWN](https://open.spotify.com/track/4Y5QYv3npGSmC3mPcaxDVx) | [Agum](https://open.spotify.com/artist/65clSGoG8QMqMDxmpkZPhw) | [OUTGROWN](https://open.spotify.com/album/30LAd0BP8dRmDty37j8o26) | 4:13 |
+| 41 | [Sunday](https://open.spotify.com/track/7zPzWT3WjSqszmpS54pUUa) | [SSSOUNDMAN](https://open.spotify.com/artist/6ozIxfjjWlPEWxMCwdrFii) | [Sunday](https://open.spotify.com/album/4W7gufMbRo0lw53VRI9gEA) | 1:25 |
+| 42 | [Alhaji](https://open.spotify.com/track/5XrgPJask6SnYkoPDQAHQy) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [Iliya Entertainment Music](https://open.spotify.com/artist/0NwtS6wE1fRewrOxxSCSKh) | [Alhaji](https://open.spotify.com/album/70vdKrzZ5W8XqRj4YcbWyr) | 2:01 |
+| 43 | [Healing](https://open.spotify.com/track/3xD1r9yHgvuwBole90zKkU) | [Dhee Drey](https://open.spotify.com/artist/6DPKGja52YjzYYKdGTLwyU) | [Healing](https://open.spotify.com/album/59IcABfOlnrpMczpzxneK8) | 2:46 |
+| 44 | [Loco](https://open.spotify.com/track/3nu3wQ8o2HXj7E8wlQEKRC) | [Jomanie](https://open.spotify.com/artist/1MryqL3mBaTJu2je1P8L5c) | [Loco](https://open.spotify.com/album/3997iuy5cSmN5XE0mOL7E4) | 2:29 |
+| 45 | [where did the sun go?](https://open.spotify.com/track/04qU2CG6PhTzmC0EhqsErn) | [olayinka ehi](https://open.spotify.com/artist/2EsyrViPfcXSN2bQDy9zor) | [where did the sun go?](https://open.spotify.com/album/0E3pazD9wJt804nKTJpIFY) | 3:37 |
+| 46 | [On Me \(with Wizard Chan\)](https://open.spotify.com/track/1sTb119l9nOTsSLarTjzVh) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [On Me \(with Wizard Chan\)](https://open.spotify.com/album/30kEddQjzAx36K4GhVcPoK) | 3:10 |
+| 47 | [Energy](https://open.spotify.com/track/2VlGwDbdEUrV1sWPtMG9pz) | [Da\_Kudu](https://open.spotify.com/artist/4TIVFHjglPyRyjBzejy5Gn), [Kyla Blac](https://open.spotify.com/artist/1kwzoZ4QgiipDIZF5UzWpz), [Kbrizzy](https://open.spotify.com/artist/1Xoq1ablrkXxmFHR8l5vMc) | [Energy](https://open.spotify.com/album/67U8mjwFr3JMI0V1NjGglA) | 3:21 |
+| 48 | [CRYBABY](https://open.spotify.com/track/5QQjJDCm7zlNZ4DwzHRzHv) | [Tolani](https://open.spotify.com/artist/6ILYtYSwIa2Aygcqr8PTds) | [CRYBABY](https://open.spotify.com/album/4umlxMAT72AjjRpsb0D5p5) | 2:23 |
+| 49 | [pitpony](https://open.spotify.com/track/1MwQ4rjZzRK7XOzRknPOFc) | [Second House](https://open.spotify.com/artist/3T45Gk2rlZuajL50HYD0eB) | [pitpony](https://open.spotify.com/album/0sjccPzfTeu9ix7UgL227c) | 2:36 |
+| 50 | [Mi Amor](https://open.spotify.com/track/1GBk5m0nHSV2nwWv0fxpzA) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL) | [Mi Amor](https://open.spotify.com/album/0PJi5AejTSG6WN9JvqeMds) | 1:57 |
+| 51 | [ZERO](https://open.spotify.com/track/5iBci2k3I7ohRBZTNViOxM) | [Twitchpapi](https://open.spotify.com/artist/5kZxf4lsVpHE9AnLqUpmpZ), [Khae](https://open.spotify.com/artist/0kroNzNkh8kegYkbldIRIl) | [ZERO](https://open.spotify.com/album/0vQMdZcY4TCXci7WtKE9cY) | 2:49 |
+| 52 | [Tire for you](https://open.spotify.com/track/6sQ2uap6DjHt3f8oGkIOYi) | [Ramoni](https://open.spotify.com/artist/2LTGsXndJZLNRNhNt1726O) | [Something Light](https://open.spotify.com/album/3DYsQLlWUFowxn4BA1FWud) | 2:52 |
+| 53 | [Omo To Sexy](https://open.spotify.com/track/0Ra2JEiYVrZwDyyNzMWKmQ) | [BLNDE](https://open.spotify.com/artist/3ZA9FgX4nLjbfGgn7dOukU) | [Omo To Sexy](https://open.spotify.com/album/3ajUkC6s6WOUx64JZJZZsL) | 2:47 |
 
-Snapshot ID: `Z9DAgAAAAAAMlOK7tJT2ucS905q4Z3XB`
+Snapshot ID: `Z9n7BAAAAACCLc3f9R0Paa/Y94tTsOcI`

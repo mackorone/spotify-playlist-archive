@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Mitch Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,670 likes - 85 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,712 likes - 85 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

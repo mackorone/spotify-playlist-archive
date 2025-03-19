@@ -1,12 +1,12 @@
 {
   "description": "This is DannyLux. The essential tracks, all in one playlist.",
-  "num_followers": 71500,
+  "num_followers": 71561,
   "original_name": "This Is DannyLux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAAAfw/Qto5lNzlInzKO91sE8",
+  "snapshot_id": "Z9dmAAAAAADaEHilUnjKchDjTGfqr/mx",
   "tracks": [
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Gracias A Ti",
-      "url": "https://open.spotify.com/track/4AYXjnxnA4Tsr8CAYuKQDo"
+      "duration_ms": 219000,
+      "name": "Tristeza Y Traicion",
+      "url": "https://open.spotify.com/track/3otr23EypFovRCjnPODejZ"
     },
     {
       "added_at": null,
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Tristeza Y Traicion",
-      "url": "https://open.spotify.com/track/3otr23EypFovRCjnPODejZ"
+      "duration_ms": 189000,
+      "name": "Gracias A Ti",
+      "url": "https://open.spotify.com/track/4AYXjnxnA4Tsr8CAYuKQDo"
     },
     {
       "added_at": null,
@@ -491,22 +491,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUR",
-        "url": "https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA"
+        "name": "Love </3",
+        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
       },
       "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
         {
           "name": "DannyLux",
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 134894,
-      "name": "Amigos Para Qu\u00e9",
-      "url": "https://open.spotify.com/track/5KcCiFGD4xEsUBhdglc7Ws"
+      "duration_ms": 229500,
+      "name": "Ense\u00f1ame",
+      "url": "https://open.spotify.com/track/3I6nXjL30GFmraDrSHqd8g"
     },
     {
       "added_at": null,
@@ -527,18 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love </3",
-        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
+        "name": "SUR",
+        "url": "https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA"
       },
       "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
         {
           "name": "DannyLux",
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 229500,
-      "name": "Ense\u00f1ame",
-      "url": "https://open.spotify.com/track/3I6nXjL30GFmraDrSHqd8g"
+      "duration_ms": 134894,
+      "name": "Amigos Para Qu\u00e9",
+      "url": "https://open.spotify.com/track/5KcCiFGD4xEsUBhdglc7Ws"
     },
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perdido En Ti",
+        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 175720,
+      "name": "Como Tu Quieras",
+      "url": "https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las Dos Caras Del Amor",
         "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perdido En Ti",
-        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 175720,
-      "name": "Como Tu Quieras",
-      "url": "https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Junto A Ti",
         "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
       },
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Me Borres",
-        "url": "https://open.spotify.com/album/6Z527zpsy6DqiNCLpiwxK6"
-      },
-      "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 231435,
-      "name": "No Me Borres",
-      "url": "https://open.spotify.com/track/12RbliJEQtREQV60AmDD7x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love </3",
         "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
       },
@@ -715,22 +695,6 @@
       "duration_ms": 211500,
       "name": "Nuestro Pasado",
       "url": "https://open.spotify.com/track/1wOrWC2AG0JAnce4l67bjJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DLUX",
-        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 183559,
-      "name": "ATRAPADO",
-      "url": "https://open.spotify.com/track/3DsaZoOtRQuOtkeMlFKEvZ"
     },
     {
       "added_at": null,
@@ -751,8 +715,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "EVOLUXION",
-        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+        "name": "No Me Borres",
+        "url": "https://open.spotify.com/album/6Z527zpsy6DqiNCLpiwxK6"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 231435,
+      "name": "No Me Borres",
+      "url": "https://open.spotify.com/track/12RbliJEQtREQV60AmDD7x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
       },
       "artists": [
         {
@@ -760,9 +744,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 145165,
-      "name": "HOUSE OF LUX 2",
-      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
+      "duration_ms": 183559,
+      "name": "ATRAPADO",
+      "url": "https://open.spotify.com/track/3DsaZoOtRQuOtkeMlFKEvZ"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
       "duration_ms": 199421,
       "name": "rompo esquemas",
       "url": "https://open.spotify.com/track/1WvFuZUZBHrx2JPCn4zEDK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EVOLUXION",
+        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 145165,
+      "name": "HOUSE OF LUX 2",
+      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
     },
     {
       "added_at": null,

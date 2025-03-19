@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-770 songs - 1 day 9 hr 26 min
+771 songs - 1 day 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Anywhere](https://open.spotify.com/track/400oVcUSO7uYqGSj8KjN8g) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v), [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR) | [Anywhere](https://open.spotify.com/album/21ptT4ISYfDiAXfRmBtp9w) | 2:23 | 2025-03-01 |  |
 | [Anywhere With You](https://open.spotify.com/track/55KplvBzr2DNKvWTnxm2mS) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Anywhere With You](https://open.spotify.com/album/1isQywIBds6XO5h6ZaU36K) | 2:23 | 2023-10-27 | 2024-01-08 |
 | [Apologize](https://open.spotify.com/track/0tEC32rSvBK2o4lwQbEvM7) | [Saxena](https://open.spotify.com/artist/4RmAlZapfAsWhj2k1pHsKe), [LUKUS](https://open.spotify.com/artist/1MRIxJ469v984abDvc1sMi), [FN Chill](https://open.spotify.com/artist/60LpFfDTaI1Gn2qN42sRb7), [Jethro](https://open.spotify.com/artist/15oiQRdZa4LrpfMbJ2dwzK) | [Apologize](https://open.spotify.com/album/3A01OtSBqE1cyF0yY3ZcUT) | 2:47 | 2024-10-10 |  |
+| [Are You With Me](https://open.spotify.com/track/3ICy1GAnWag1jZ8IPRu4pY) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Are You With Me](https://open.spotify.com/album/29gSIz1mK5ZIoKOnshant3) | 2:31 | 2025-03-18 |  |
 | [Are You With Me](https://open.spotify.com/track/6EagnEg9fcmVnVTnVc2pRN) | [PHURS](https://open.spotify.com/artist/2UXdzClMex3N47C9m1fkeX), [Timmy Commerford](https://open.spotify.com/artist/0Y0r9IKRjfC62MAYMDEMZO) | [Are You With Me](https://open.spotify.com/album/0xk0DimpO7ovSx4nMcmXvU) | 2:30 | 2024-05-24 | 2024-07-05 |
 | [Around The Sun](https://open.spotify.com/track/7kRI2M30QkCXK5fIVO9qQe) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Kidd Thorn](https://open.spotify.com/artist/56ZpzAG62hbF97XLdQCy3t) | [Around The Sun](https://open.spotify.com/album/37bbpzGIPULPmY6xJj2ii9) | 2:40 | 2024-04-15 | 2024-08-26 |
 | [Astronaut](https://open.spotify.com/track/3WYgESGKl0kqUApiP0tU5J) | [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb) | [Astronaut](https://open.spotify.com/album/4bb6EgApaazm7mUw3yZJIZ) | 2:10 | 2024-05-27 | 2024-06-24 |

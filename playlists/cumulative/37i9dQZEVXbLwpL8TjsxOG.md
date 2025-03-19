@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-1,131 songs - 2 day 17 hr 48 min
+1,132 songs - 2 day 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,7 +405,7 @@
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:00 | 2025-03-08 |  |
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-02-01 | 2025-03-09 |
 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-12 | 2024-12-16 |
-| [Love Song](https://open.spotify.com/track/2XEtdVgbgltXfzVQppAkbi) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [未來](https://open.spotify.com/album/4y11FrvacuhutkuV9T1mlq) | 4:29 | 2025-03-02 |  |
+| [Love Song](https://open.spotify.com/track/2XEtdVgbgltXfzVQppAkbi) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [未來](https://open.spotify.com/album/4y11FrvacuhutkuV9T1mlq) | 4:29 | 2025-03-02 | 2025-03-19 |
 | [Love U Like That](https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Love U Like That](https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA) | 3:31 | 2023-08-24 | 2023-08-26 |
 | [Love wins all](https://open.spotify.com/track/0djkJ3iAARXRCbfbwwVc3o) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love wins all](https://open.spotify.com/album/2bwwRhKbLeD3LvNDXauV2T) | 4:31 | 2024-01-25 | 2024-03-03 |
 | [LOVE, MONEY, FAME \(feat\. DJ Khaled\)](https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [SEVENTEEN 12th Mini Album 'SPILL THE FEELS'](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 3:06 | 2024-10-15 | 2024-11-01 |
@@ -1118,6 +1118,7 @@
 | [難道喜歡處女座 \(Alter Ego\)](https://open.spotify.com/track/3XDGgm7csVkxnqVlyLMRTx) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [SEVEN](https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o) | 3:37 | 2021-12-05 | 2021-12-12 |
 | [難道我還未夠難](https://open.spotify.com/track/6LOP8nbFXFydvDELLs1uss) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [Never Too Late, My Path, Mi Way](https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA) | 4:20 | 2022-01-18 | 2022-02-19 |
 | [雪不完的浪漫](https://open.spotify.com/track/0bGz5wNK3CjMnR69UChJav) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [Jessica Chan](https://open.spotify.com/artist/5sFnO2RFenl7kwYcxKEA7D) | [雪不完的浪漫](https://open.spotify.com/album/08GMne3Z7lnLjobjwXTDpn) | 3:01 | 2021-12-12 | 2022-02-06 |
+| [電燈膽](https://open.spotify.com/track/1TAz93GRvOHAuKfmoXjWsp) | [Stephy Tang](https://open.spotify.com/artist/4ujntV2BGRi7X4UbCmTFX0) | [Dating Stephy](https://open.spotify.com/album/58Az000U2R7vI7695QurXa) | 3:34 | 2025-03-18 |  |
 | [霸道總裁](https://open.spotify.com/track/5p84NRJ6dOpaMTSqx5Fhil) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [霸道總裁](https://open.spotify.com/album/37G5n1hUVjNoKBP1p5L8kN) | 3:35 | 2023-08-25 | 2023-08-27 |
 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-08-07 | 2023-08-18 |
 | [青年危機](https://open.spotify.com/track/3g0L1x7OvFrsgy9e25LP7I) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [青年危機](https://open.spotify.com/album/3k7ZHbjHjOQsadMVss6NKF) | 3:38 | 2023-07-22 | 2023-07-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,381 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,434 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

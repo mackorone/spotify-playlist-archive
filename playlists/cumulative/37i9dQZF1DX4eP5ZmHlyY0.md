@@ -2,9 +2,9 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: HOSHI x WOOZI \(SEVENTEEN\)
+> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: ONE OR EIGHT
 
-477 songs - 1 day 3 hr 1 min
+479 songs - 1 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [DARK MATTER](https://open.spotify.com/track/0JTMpgGCb3AYhFj5CT8C6V) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [FANTASTIC ROCKET](https://open.spotify.com/album/1lgDUdGBXBYYWS6MtyTFT6) | 3:11 | 2023-12-05 | 2024-01-03 |
 | [Darlin’](https://open.spotify.com/track/7BHFfKeKQuY7XfYi2DjO9E) | [DEEP](https://open.spotify.com/artist/3uh7AvkWcUbrc7ZXR0MW4b) | [Darlin’](https://open.spotify.com/album/7s0tExsJ0h3OWFEqfrsZIT) | 3:31 | 2024-01-02 | 2024-01-17 |
 | [Dash](https://open.spotify.com/track/5APxbxUDWyUChpgjJ0YQzE) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | ['Caligo Pt.1'](https://open.spotify.com/album/1aOh0kGw8kvLCEPttInx98) | 2:54 | 2025-03-06 |  |
+| [Daybreak](https://open.spotify.com/track/1KTF3VM3K8BG02jMS6EeJk) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [Daybreak](https://open.spotify.com/album/0DWHw48fL8FFeVUOjgekS6) | 3:35 | 2025-03-19 |  |
 | [Daydream](https://open.spotify.com/track/06QuQaDv68bvr8oaNXoSSY) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [OCTAVE / Daydream](https://open.spotify.com/album/5xFM0bU4tuO8e67eOgtaPA) | 3:31 | 2024-02-20 | 2024-05-29 |
 | [Days](https://open.spotify.com/track/1f8qRx4uWmiwSIsQoZU5rH) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [NOT OKAY](https://open.spotify.com/album/7uBc2WW6vvm2QH6Nre7ND1) | 4:19 | 2024-02-27 | 2024-05-29 |
 | [DEAR MY LOVER](https://open.spotify.com/track/6zCa0mAKrk7w4p6lfUnOsS) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [P.U!](https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU) | 4:59 | 2024-01-02 | 2025-03-07 |
@@ -94,6 +95,7 @@
 | [Downforce](https://open.spotify.com/track/5JdT5kFwFoM3SSYSwRT9d3) | [SUPER★DRAGON](https://open.spotify.com/artist/2O86rYMEuvyrkOhyooK87W) | [Downforce](https://open.spotify.com/album/0FBtOBWbZ8leLwZLjgkslc) | 3:27 | 2024-09-10 | 2024-10-02 |
 | [DRAW+ing](https://open.spotify.com/track/4gcGVSVzZPnCeBt3Be1bmQ) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [DRAW+ing](https://open.spotify.com/album/54O5v1GtPDAeGMTw3lCG82) | 3:24 | 2024-06-04 | 2024-07-10 |
 | [Dropkick](https://open.spotify.com/track/3epNFRifLGAHdsuLCsaVfE) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : NOW](https://open.spotify.com/album/3Y4LfcFHqqewsQE2clXvlL) | 2:58 | 2023-11-23 | 2024-06-05 |
+| [DSTM](https://open.spotify.com/track/6h6y3m83xvAOoCW3JZpzzf) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [DSTM](https://open.spotify.com/album/7db93AxaM3DpA75ZC5Uijr) | 2:56 | 2025-03-19 |  |
 | [E\-NERGY BOYS](https://open.spotify.com/track/2Jui39MTkglBvzflZdIlin) | [DA PUMP](https://open.spotify.com/artist/3NRXKeatDxKe4apH6XawKX) | [E\-NERGY BOYS](https://open.spotify.com/album/262JbB9qoH8wrqzP9yKS6Y) | 3:21 | 2024-02-13 | 2024-02-21 |
 | [Earth, Wind & Fire \- Japanese Ver.](https://open.spotify.com/track/51jvR5cPRh3Yfiwo5qdNXw) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Earth, Wind & Fire \(Japanese Ver.\)](https://open.spotify.com/album/6DvZZhY6bGqDuPbCSyZHcx) | 2:59 | 2024-06-18 | 2024-07-10 |
 | [Eighdays](https://open.spotify.com/track/5uTBYCoNktVoHiNYhZTLrF) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [Eighdays](https://open.spotify.com/album/2atzkjLZ1m2rv26VwJ71Jv) | 4:03 | 2024-07-26 | 2024-07-31 |
@@ -102,7 +104,7 @@
 | [Extraordinary day](https://open.spotify.com/track/4yKvdFbKn2W1lKKMwHQswp) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Extraordinary day](https://open.spotify.com/album/25nQUx8eJNhjD4SCFo3jtW) | 3:20 | 2025-02-04 |  |
 | [Eyes On Me](https://open.spotify.com/track/79O9h4Q9w1X6w3tHTJSu8y) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Eyes On Me](https://open.spotify.com/album/2raPbaN1bh2UWTGqgz8Gvl) | 2:51 | 2023-11-23 | 2024-01-17 |
 | [Fake It](https://open.spotify.com/track/2FrtsVTFPEvH77oKfFHgfV) | [w\-inds.](https://open.spotify.com/artist/2UEnhov0KDPYU2dmGUjfcn) | [Fake It](https://open.spotify.com/album/3Xmw8PnZTNZ4o5th7upzAj) | 3:10 | 2024-02-13 | 2024-03-06 |
-| [Fantasy \- JAPANESE ver.](https://open.spotify.com/track/4oL1T9BRj4DL4mLouGH70c) | [FANTASY BOYS](https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU) | [SHINE THE WAY](https://open.spotify.com/album/3bHMKYPbbyTq2SpaRWrjaN) | 4:09 | 2025-03-11 |  |
+| [Fantasy \- JAPANESE ver.](https://open.spotify.com/track/4oL1T9BRj4DL4mLouGH70c) | [FANTASY BOYS](https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU) | [SHINE THE WAY](https://open.spotify.com/album/3bHMKYPbbyTq2SpaRWrjaN) | 4:09 | 2025-03-11 | 2025-03-19 |
 | [FIRE feat\. SPRITE](https://open.spotify.com/track/2JS7GVyUaxLFFetF3YWfc8) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [FIRE feat\. SPRITE](https://open.spotify.com/album/0zysbDsgljdkU8cW7RYoen) | 3:51 | 2023-11-23 | 2024-02-14 |
 | [FIREWORK](https://open.spotify.com/track/5FWZ9epRluqJTzOnsayeo2) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : WE](https://open.spotify.com/album/0ouqxqCo93ccmKOXhMz3RC) | 3:08 | 2023-11-23 | 2024-04-10 |
 | [FIRST](https://open.spotify.com/track/6YlLUGKM1bsa3yioZHQ258) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [FIRST](https://open.spotify.com/album/1zcQeP14f6c0LuCRsMnil8) | 3:14 | 2024-09-03 | 2024-11-10 |
@@ -398,7 +400,7 @@
 | [Whatcha Gonna Do](https://open.spotify.com/track/7xW477Puc2lltQKKYbihrw) | [IVVY](https://open.spotify.com/artist/2vt1pSDdswpATBUN6lPMre) | [Whatcha Gonna Do](https://open.spotify.com/album/4CHSQQXvYFdtNgiN5gsLsL) | 3:38 | 2023-11-28 | 2024-01-10 |
 | [Whatever Happens](https://open.spotify.com/track/43gyzi5Iyfaz6OqzxhJhkK) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Whatever Happens](https://open.spotify.com/album/07x7srlQ4mrF6rGSs9yPdd) | 3:09 | 2024-04-02 | 2024-06-19 |
 | [WHEE!](https://open.spotify.com/track/3UCnEKnght7sSlycogaSak) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Interview X](https://open.spotify.com/album/4TmQo5XPRgVleYrisal8n2) | 2:49 | 2025-03-09 |  |
-| [When I'm With You](https://open.spotify.com/track/15cQVPbbwv0sZXrHRIAZeX) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAMSCAPE](https://open.spotify.com/album/4iF9sRunhefmp2zO5ys0AB) | 3:31 | 2025-03-06 |  |
+| [When I'm With You](https://open.spotify.com/track/15cQVPbbwv0sZXrHRIAZeX) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAMSCAPE](https://open.spotify.com/album/4iF9sRunhefmp2zO5ys0AB) | 3:31 | 2025-03-06 | 2025-03-19 |
 | [WHERE DO WE GO](https://open.spotify.com/track/0i2M5m2D1CYl3X1VKhmfW9) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WHERE DO WE GO](https://open.spotify.com/album/6GkIf5MU4sXwa1rHurNVAc) | 2:37 | 2024-09-13 | 2024-10-16 |
 | [WHERE DO WE GO](https://open.spotify.com/track/0tTp9wVKMoa6nPckEOJTpn) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WHERE DO WE GO \(Special Edition\)](https://open.spotify.com/album/2jRq5eYKHh0qFRfeflfQKE) | 2:37 | 2024-10-16 | 2025-03-07 |
 | [WHITE SNOW](https://open.spotify.com/track/7fUSOeRqyDSapxbZHxYBCG) | [IVVY](https://open.spotify.com/artist/2vt1pSDdswpATBUN6lPMre) | [WHITE SNOW](https://open.spotify.com/album/3gApldsoKO741jMMS5B0WY) | 4:05 | 2023-11-23 | 2023-11-29 |

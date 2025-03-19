@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 151742,
+  "num_followers": 151791,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAADNGGgHmMKoHIlIcqQp4vbc",
+  "snapshot_id": "Z9dmAAAAAAAgu0ewVofkbltT59Gadlsj",
   "tracks": [
     {
       "added_at": null,
@@ -771,6 +771,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vinho",
+        "url": "https://open.spotify.com/album/2uzAaxLP1X1JVNpN9kJa1h"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 172608,
+      "name": "ci\u00fame bobo - b\u00f4nus track",
+      "url": "https://open.spotify.com/track/5kRHcPpwskPBHsKZUMfLwn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LITTLE LOVE",
         "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 176795,
       "name": "SEXY",
       "url": "https://open.spotify.com/track/0ReqDOp3nbS49HRy4BrmkY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vinho",
-        "url": "https://open.spotify.com/album/2uzAaxLP1X1JVNpN9kJa1h"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 172608,
-      "name": "ci\u00fame bobo - b\u00f4nus track",
-      "url": "https://open.spotify.com/track/5kRHcPpwskPBHsKZUMfLwn"
     },
     {
       "added_at": null,
@@ -843,6 +843,38 @@
       "duration_ms": 206309,
       "name": "Blindado por Deus",
       "url": "https://open.spotify.com/track/4O1JF5Yngbc9jc7doenL4n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "18K",
+        "url": "https://open.spotify.com/album/5STh8ZE7MwksBxQo6APYbo"
+      },
+      "artists": [
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        },
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/09bMYbg60r42iQsG8afMnA"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        }
+      ],
+      "duration_ms": 284117,
+      "name": "Meu Mundo",
+      "url": "https://open.spotify.com/track/1hw5UuO6s1DRAJmCn4Nc1H"
     },
     {
       "added_at": null,
@@ -887,38 +919,6 @@
       "duration_ms": 217539,
       "name": "VALHO NADA",
       "url": "https://open.spotify.com/track/18XOY618zQH4bFw3TgVT9L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "18K",
-        "url": "https://open.spotify.com/album/5STh8ZE7MwksBxQo6APYbo"
-      },
-      "artists": [
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        },
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/09bMYbg60r42iQsG8afMnA"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        }
-      ],
-      "duration_ms": 284117,
-      "name": "Meu Mundo",
-      "url": "https://open.spotify.com/track/1hw5UuO6s1DRAJmCn4Nc1H"
     },
     {
       "added_at": null,

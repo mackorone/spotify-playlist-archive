@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/coming\-soon?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Newsletter coming soon...</a> Cover: Haim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,177,551 likes - 121 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,177,555 likes - 121 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

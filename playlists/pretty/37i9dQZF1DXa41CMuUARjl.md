@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Martin Garrix & Arijit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,919 likes - 120 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,986 likes - 120 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 12 | [The Other Side of Matrix](https://open.spotify.com/track/4yvTKoug0u40b2UWeUHQWK) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Guii Balas](https://open.spotify.com/artist/606PTWPJ7w9Pbp1POmvEcG) | [TOOLS 4 HARDWORKERS 002](https://open.spotify.com/album/6JEITEa8coXI7XpTGMJQCu) | 6:24 |
 | 13 | [Nothing Better Than Music](https://open.spotify.com/track/4eZafPjosGlJF6QVxeTdUS) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Nothing Better Than Music](https://open.spotify.com/album/0cBWTiLeGxFpAk5JwbX9S3) | 2:35 |
 | 14 | [Feel It For You](https://open.spotify.com/track/76vnxLIS70EvlISthDydnE) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Feel It For You](https://open.spotify.com/album/5JsQ0nnJ1jzG6QsjZyIh0F) | 3:31 |
-| 15 | [Innocence 2025](https://open.spotify.com/track/3dNDt0VLKc0xUcuTI20Q73) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [Innocence 2025](https://open.spotify.com/album/5zumT6xPCZUHJnKR2ng3pY) | 2:50 |
+| 15 | [Innocence 2025](https://open.spotify.com/track/3dNDt0VLKc0xUcuTI20Q73) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [Innocence 2025](https://open.spotify.com/album/5zumT6xPCZUHJnKR2ng3pY) | 2:48 |
 | 16 | [Where I'm From](https://open.spotify.com/track/0JFNTfRWLqQ09z9ZHldX8d) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [Belladonna \(ofc\) ](https://open.spotify.com/artist/1ECGFhfV6SJLbKnTvBFsaQ) | [Where I'm From](https://open.spotify.com/album/71N6oT6Vtqs5xjn9b1xxYK) | 3:22 |
 | 17 | [Rock My World](https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Puku](https://open.spotify.com/artist/2V9pDaYdBePMB9EoKkhOf9) | [Rock My World](https://open.spotify.com/album/4bSZYuWLGG4keN9XSUxXPe) | 3:18 |
 | 18 | [Whiplash](https://open.spotify.com/track/2K1Grx3at2GH9ErGX1o9NV) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [SOFI](https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb) | [Whiplash](https://open.spotify.com/album/3JYuC5TTDbobgRCKo38xW9) | 3:15 |

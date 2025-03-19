@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "MASSEDUCTION",
+        "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46413,
+      "name": "Dancing With A Ghost",
+      "url": "https://open.spotify.com/track/5yOqqpZTG1qof9x9519hr1"
+    },
+    {
+      "album": {
         "name": "St. Vincent",
         "url": "https://open.spotify.com/album/2CJnMhwEEkS8R1ctgt5llf"
       },
@@ -804,7 +822,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-19",
       "duration_ms": 241600,
       "name": "Sugarboy",
       "url": "https://open.spotify.com/track/35TIanClNm1DxcyREpNC7g"

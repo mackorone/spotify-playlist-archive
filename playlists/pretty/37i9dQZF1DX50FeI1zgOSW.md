@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Shravan Sridhar
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,694 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,702 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 5 | [Iruppen](https://open.spotify.com/track/6zYC2cUgamLYbi7LbjKg74) | [Vathshan](https://open.spotify.com/artist/6ri9k2w6ZVXHghuukFQjcz), [Jerone B](https://open.spotify.com/artist/4EYTQPjQI2KbkhdCziPYd5) | [Iruppen](https://open.spotify.com/album/2PguHoayiMNOx3mzll6zrf) | 4:03 |
 | 6 | [Cappuccino](https://open.spotify.com/track/6UUN4R8AFzTAy0t36Gy5sa) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Hi\-Polar](https://open.spotify.com/artist/5r1MeyZN01dQ963hBaTChW) | [Cappuccino](https://open.spotify.com/album/0zT6PGfOSAmNR9LfHkkqIk) | 3:22 |
 | 7 | [Tharunangal \- From "Think Indie"](https://open.spotify.com/track/0MBe9DRlGzrJFRteb7kA3i) | [Sarah Black](https://open.spotify.com/artist/42HHTJt9IDWgxElbHzZStO) | [Tharunangal \(From "Think Indie"\)](https://open.spotify.com/album/5F5U3hC2yuHOA7CMN068bC) | 2:28 |
-| 8 | [Padhe Padhe \(1mm Orginals\)](https://open.spotify.com/track/0jMWvP1cdTtvLheCUJSMss) | [Dinesh Chandrasekhar](https://open.spotify.com/artist/1JQFKVPnyx86axpdxADe7K), [Sashank S](https://open.spotify.com/artist/4rv5ShQhoPBKGiuydRLdTH), [Kapa Chaitanya](https://open.spotify.com/artist/0bxFXFHqxa9soCq3lwXEPk) | [Padhe Padhe \(1mm Orginals\)](https://open.spotify.com/album/6SsmTthKyQAf2gK214dL4v) | 2:51 |
+| 8 | [Padhe Padhe \(1mm Originals\)](https://open.spotify.com/track/0jMWvP1cdTtvLheCUJSMss) | [Dinesh Chandrasekhar](https://open.spotify.com/artist/1JQFKVPnyx86axpdxADe7K), [Sashank S](https://open.spotify.com/artist/4rv5ShQhoPBKGiuydRLdTH), [Kapa Chaitanya](https://open.spotify.com/artist/0bxFXFHqxa9soCq3lwXEPk) | [Padhe Padhe \(1mm Originals\)](https://open.spotify.com/album/6SsmTthKyQAf2gK214dL4v) | 2:51 |
 | 9 | [Adiye Paduthadha](https://open.spotify.com/track/0eJfW6OvnpAlU4c7j3Y7Sj) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g), [V2 Vijay Vicky](https://open.spotify.com/artist/7zyTYIiNKFMRW0NlZZAeBF), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Adiye Paduthadha](https://open.spotify.com/album/0ENQp0ak7FMjhgTWvstp0F) | 3:38 |
 | 10 | [Empty hand](https://open.spotify.com/track/3njyySsHr7viXEfgxv5v3U) | [Hidden frequencies](https://open.spotify.com/artist/5rAZDoXWpwb5v3pqstP4WB), [Guru Gopalan](https://open.spotify.com/artist/3ZCZd3bpEeDoCczZUBNPYW) | [Empty hand](https://open.spotify.com/album/2IDykOuQ2l1S5knqnGP2Ri) | 3:01 |
 | 11 | [Parakkuren](https://open.spotify.com/track/3ABotuOlhH8li3F0qgjT53) | [Viveck Ji](https://open.spotify.com/artist/2xE2rQ9G421frjq03UDlaD) | [Parakkuren](https://open.spotify.com/album/0hM4L4JJRKVGY21mSy6Qlf) | 4:34 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 316833,
+  "num_followers": 316876,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAAAsliRPTH8Ye4gOuO6c8bSU",
+  "snapshot_id": "Z9dmAAAAAACDzPyzVGyz7GkPuyPu6d6C",
   "tracks": [
     {
       "added_at": null,
@@ -795,22 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Can't Use My Name (feat. Jimi Hendrix)",
-        "url": "https://open.spotify.com/album/4Zf9s5cZnvprrmMF0Dnl5l"
+        "name": "Rainbow Bridge",
+        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
       },
       "artists": [
-        {
-          "name": "Curtis Knight & The Squires",
-          "url": "https://open.spotify.com/artist/7zakdAMC3vbUue4IxQh9Xl"
-        },
         {
           "name": "Jimi Hendrix",
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 134400,
-      "name": "Fool for You Baby (feat. Jimi Hendrix)",
-      "url": "https://open.spotify.com/track/2nVgBK2QQoIzTH6qROcix2"
+      "duration_ms": 215133,
+      "name": "Room Full of Mirrors",
+      "url": "https://open.spotify.com/track/7uQcSTXM4q7tGzguGVeLtX"
     }
   ],
   "unique_name": "This Is Jimi Hendrix",

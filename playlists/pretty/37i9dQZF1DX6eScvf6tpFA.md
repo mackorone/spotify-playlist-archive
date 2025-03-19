@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 
 > <a href="spotify:artist:7o2Y6TQr9B0ynZGhUDAkyj">Lotic</a>'s favorite tracks\. Updated regularly\. Curated by Lotic\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,491 likes - 65 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,489 likes - 65 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 | 29 | [MANIFESTO \(feat\. Domo Genesis\)](https://open.spotify.com/track/6qouBO0wJtYc3k7DfKRUBx) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:55 |
 | 30 | [IDGAF](https://open.spotify.com/track/19yYZxguSuz2UUgW6J7fOO) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [4 da 304’s](https://open.spotify.com/album/5N6520vpd3Nj66r18wlU4s) | 2:28 |
 | 31 | [Yikes](https://open.spotify.com/track/75dLEqanQTupF3dtP9exT5) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Yikes](https://open.spotify.com/album/2IvvAdx63KEfVHPAvYdQ1O) | 2:36 |
-| 32 | [Poenka](https://open.spotify.com/track/6NNS7zZ86ZohlXLIhXOU2Y) | [De Schuurman](https://open.spotify.com/artist/4PiQEwBGt6N4Hlblsia5N4) | [Bubbling Inside](https://open.spotify.com/album/4Xs5TnPOdo343Df5NCmgBZ) | 3:34 |
+| 32 | [Poenka](https://open.spotify.com/track/6NNS7zZ86ZohlXLIhXOU2Y) | [DE SCHUURMAN](https://open.spotify.com/artist/4PiQEwBGt6N4Hlblsia5N4) | [Bubbling Inside](https://open.spotify.com/album/4Xs5TnPOdo343Df5NCmgBZ) | 3:34 |
 | 33 | [No Debate](https://open.spotify.com/track/3xtG9ZIlwhW9nRuq39z0Iw) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/0jJEiaA2W9eFhTXC1EGMqG) | 2:13 |
 | 34 | [Peng Black Girls \(feat\. Amia Brave\)](https://open.spotify.com/track/4pRaCcnpz979CNaMiOS1tS) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Amia Brave](https://open.spotify.com/artist/3Sjv0t3F7FMsQrkWVZcOuW) | [Peng Black Girls \(feat\. Amia Brave\)](https://open.spotify.com/album/2bflMoQjvDfL59NRUMHylP) | 3:30 |
 | 35 | [Jelly](https://open.spotify.com/track/7upI4eeUGFQWpHvFF36p2G) | [Big Homie Ty.Ni](https://open.spotify.com/artist/0IiQOvnmgZpXMLB1fLVYko) | [Jelly](https://open.spotify.com/album/62vEl5UFS0O6XcF7haIZDN) | 2:22 |

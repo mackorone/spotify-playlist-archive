@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 
 > Use Delta frequencies for the best night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,792 likes - 139 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,148 likes - 139 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 | 30 | [Delta Sleep Waves 98Hz \- 99.6Hz](https://open.spotify.com/track/51US4kWdKFk1uWhRXG1LbV) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Delta Mind](https://open.spotify.com/album/3fUJVv905XG6LDsQc0s0Zn) | 2:52 |
 | 31 | [Delta Sinus 100 Hz \- 104 Hz](https://open.spotify.com/track/2W4P2eSwyw8KLGBrAgXnac) | [Noise Shapers](https://open.spotify.com/artist/4Ck8TQHS7YHz4ql7WbAwFY) | [Noise Shapers](https://open.spotify.com/album/5b9KgzqeksMOBW1u0RTnaQ) | 3:16 |
 | 32 | [Subconcious Delta Sinus 104Hz \- 106Hz](https://open.spotify.com/track/0TPns33GmXwiHO40SqeE4q) | [Sleeping Stars](https://open.spotify.com/artist/54dYMs8urBZyC8MDEifWuc) | [Subconcious](https://open.spotify.com/album/0PR5aydbGJutcoABq6Ja3o) | 3:07 |
-| 33 | [Delta Healing](https://open.spotify.com/track/6xfB2UCADlA2BHYZCxZMAH) | [Binaural Beats Study Music](https://open.spotify.com/artist/0rV884TJaWtmnJf392FG6e) | [Binaural Sounds for Studying](https://open.spotify.com/album/6QXRYdfKCtYXKG0CiNK7Sc) | 3:24 |
+| 33 | [Delta Healing](https://open.spotify.com/track/6xfB2UCADlA2BHYZCxZMAH) | [Sonoramic](https://open.spotify.com/artist/4CAMxaEbGwkhKqWBLcI7AA) | [Binaural Sounds for Studying](https://open.spotify.com/album/6QXRYdfKCtYXKG0CiNK7Sc) | 3:24 |
 | 34 | [Limitless \- Delta Sinus 132Hz \- 133Hz](https://open.spotify.com/track/7oyUv4e3GnJuviEIGd4dQR) | [Universal Frequency](https://open.spotify.com/artist/0pIcKP7M8X29OqdKClIIJH) | [Alpha Focus](https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp) | 3:20 |
 | 35 | [Binaural Delta Sinus 100 Hz \- L 104 Hz \- R](https://open.spotify.com/track/1pnQJQaFaeJbSpq42ofWmV) | [Ambient Tech](https://open.spotify.com/artist/08Ava0X5w3SgoLnrpJMZf8) | [Enhanced Focus and Concentration: Harnessing Binaural Delta Tones](https://open.spotify.com/album/5hdscV6O2ezFnpLyAC5tTI) | 3:29 |
 | 36 | [Quiet Repose \(Delta Binaural\)](https://open.spotify.com/track/1SSyFNx4h5oSZXf8o3l6U1) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Quiet Repose & Undulating Peace \(Delta Binaural\)](https://open.spotify.com/album/4YG95wbpFpc0R98BprpowX) | 3:22 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 | 74 | [Delta 73.9 Hz \- 76 Hz](https://open.spotify.com/track/72u4bNSbSYVmnxSD64U4ML) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Binaural Bliss](https://open.spotify.com/album/76tMa9BWw3Ps71go8XdbYs) | 4:00 |
 | 75 | [Abyssal Hibernation \(Delta Drone L144Hz R147Hz\)](https://open.spotify.com/track/7jhb9dcIOBSghyCuhHGfV1) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Halcyon Daydream](https://open.spotify.com/album/1DjC6VA3VUrBr5xgQCV9SF) | 3:12 |
 | 76 | [Delta Flow 93Hz \- 96Hz](https://open.spotify.com/track/2nehZ56ki7zOcpZ0MkTCZT) | [Binaural Lazers](https://open.spotify.com/artist/6OapBcknZrpX52wPvBCc8Z) | [Delta Patterns](https://open.spotify.com/album/3ygEMyVK61m7M9SEZvnaAI) | 2:15 |
-| 77 | [Zen Delta Waves](https://open.spotify.com/track/5vrwJbrwiJRhLIin2qpoyn) | [Binaural Beats Study Music](https://open.spotify.com/artist/0rV884TJaWtmnJf392FG6e) | [Binaural Sounds for Studying](https://open.spotify.com/album/6QXRYdfKCtYXKG0CiNK7Sc) | 3:32 |
+| 77 | [Zen Delta Waves](https://open.spotify.com/track/5vrwJbrwiJRhLIin2qpoyn) | [Sonoramic](https://open.spotify.com/artist/4CAMxaEbGwkhKqWBLcI7AA) | [Binaural Sounds for Studying](https://open.spotify.com/album/6QXRYdfKCtYXKG0CiNK7Sc) | 3:32 |
 | 78 | [Deep Sleep 3 Hz Drone](https://open.spotify.com/track/279WfshbvRdtkSeHG69GMm) | [Dronal](https://open.spotify.com/artist/5JdRe38yBQW84oz1rjPvLL) | [Binaural Delta Sinus](https://open.spotify.com/album/5Nilmc6apWTsMi8cqBVjU9) | 3:45 |
 | 79 | [Binaural Delta Waves 58\-58.5 Hz](https://open.spotify.com/track/1SFqeroxwFNEiQFkR4tgOz) | [Binaural Healing Frequencies](https://open.spotify.com/artist/0O3hasNaQ353zIkDpwn4Ul) | [Binaural Delta Waves 58\-58.5 Hz](https://open.spotify.com/album/63tbjNcDy424UFV0hrMgis) | 2:33 |
 | 80 | [Delta Air 2 Hz](https://open.spotify.com/track/1zK3i6SOS8jVVkSPbX1ZYI) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Air](https://open.spotify.com/album/7dp6tirAcf60q6p48NsQwj) | 3:04 |

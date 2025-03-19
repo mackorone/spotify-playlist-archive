@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Anetha.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,731 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,755 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 26 | [One Mind](https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [One Mind EP](https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm) | 5:45 |
 | 27 | [Everything Changes \(But I Won't\)](https://open.spotify.com/track/2WGOTUuDEW2NxuJVFWvmcB) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/79SqMfih2FN1NaLtZUcccG) | 3:51 |
 | 28 | [Act A Fool](https://open.spotify.com/track/21muZspAq0wIHfn2WvkMg8) | [Charlie Powell](https://open.spotify.com/artist/7elzzq09RJe28w2d7kNRru) | [Act A Fool](https://open.spotify.com/album/6W8PoI7IqO1emJsHFUnNCh) | 2:31 |
-| 29 | [True Religion](https://open.spotify.com/track/78wZn0wdzhj3imUleYWd5M) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [True Religion](https://open.spotify.com/album/0Uowlm2LLlqaoAMFtajKat) | 2:50 |
+| 29 | [True Religion](https://open.spotify.com/track/78wZn0wdzhj3imUleYWd5M) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [True Religion](https://open.spotify.com/album/0Uowlm2LLlqaoAMFtajKat) | 2:50 |
 | 30 | [Ashes](https://open.spotify.com/track/334GuKwzVHyHHrG2DczgKd) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Ashes](https://open.spotify.com/album/3G60uWVJXhTJ90dCCh2xBB) | 3:06 |
 | 31 | [QQQQ](https://open.spotify.com/track/3B9gRLf1eT5DadhEY9fqda) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [QQQQ](https://open.spotify.com/album/7Kayz2sfMlJvNVGZsYPd5I) | 3:23 |
 | 32 | [I Look Good](https://open.spotify.com/track/2nO5YCEAQLPYKLbza7N64Z) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [I Look Good](https://open.spotify.com/album/538gE7qZ8YA2vZeYO8jO36) | 2:44 |

@@ -4,7 +4,7 @@
 
 > Made in Morocco, 100% hits marocains.
 
-443 songs - 23 hr 43 min
+444 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Ghir Ntiya](https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Ghir Ntiya](https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm) | 3:34 | 2022-05-10 | 2023-08-09 |
 | [Ghir Ntiya \- غير انتيا](https://open.spotify.com/track/6XoNRINIM8Lbgv8WDESilv) | [Othmane Boulboul](https://open.spotify.com/artist/2TZI7LihfsP6ZEW0W18dkY) | [Ghir Ntiya \(غير انتيا\)](https://open.spotify.com/album/4px3SsR6W8XCcftVF35v3M) | 3:05 | 2022-10-13 | 2022-10-31 |
 | [Ghorba](https://open.spotify.com/track/2qEevE8eTAeR1kfWzqkEPw) | [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [Mr Casablanca](https://open.spotify.com/artist/2iIBdi49pjdh580ovditIY) | [Ghorba](https://open.spotify.com/album/1cMWUUCkcxavvahY9LdMLc) | 4:04 | 2022-01-15 | 2022-07-12 |
-| [Go](https://open.spotify.com/track/2g2x70gCZb31tUFcACNeL5) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [Go](https://open.spotify.com/album/6Bp7UQPt8gXp3SFk3CF70Q) | 2:08 | 2025-02-27 |  |
+| [Go](https://open.spotify.com/track/2g2x70gCZb31tUFcACNeL5) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [Go](https://open.spotify.com/album/6Bp7UQPt8gXp3SFk3CF70Q) | 2:08 | 2025-02-27 | 2025-03-19 |
 | [Goodbye](https://open.spotify.com/track/1HJZok3nL68K9ML6Twa1bQ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Goodbye](https://open.spotify.com/album/4JCbVtET4IE4bMe8cixaHf) | 3:11 | 2024-01-26 | 2024-08-29 |
 | [Goulo Lhabibi](https://open.spotify.com/track/7ERaNCwzEUT8AOrFsKLWmm) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Goulo Lhabibi](https://open.spotify.com/album/0h2Uhhf98ZSqkcVensqc9y) | 2:41 | 2022-02-16 | 2022-06-12 |
 | [Guardia](https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Guardia](https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa) | 3:18 | 2024-10-10 |  |
@@ -182,6 +182,7 @@
 | [J'en ai marre !](https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [J'en ai marre !](https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX) | 3:31 | 2021-12-25 | 2022-04-08 |
 | [Jabha Fraso](https://open.spotify.com/track/5lS1g9BokChTZaLbymsxbz) | [Zakaria Ghafouli](https://open.spotify.com/artist/5m3exVDqKodrTlc3jECMTD) | [Jabha Fraso](https://open.spotify.com/album/6vUgmqUiOCNQT7HBGJt859) | 3:19 | 2022-05-10 | 2022-06-25 |
 | [Jamais de la vie](https://open.spotify.com/track/6RzXRaw6AnyIvK7tDLppd4) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Jamais de la vie](https://open.spotify.com/album/2PcSVRu7i7SCeEJl6iDXTy) | 3:49 | 2022-11-07 | 2023-02-03 |
+| [Jarh 9Dim](https://open.spotify.com/track/2D90uQttl2UcZRgYDKDIMD) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Jarh 9dim](https://open.spotify.com/album/7K2R7t8bkj3N8T58r48tVw) | 2:57 | 2025-03-18 |  |
 | [Jayeb Khbari](https://open.spotify.com/track/7g6MW822UoLSQCFrSXUZCI) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Jayeb Khbari](https://open.spotify.com/album/0RFcMf8UFXmaltJ8mk2oV6) | 3:08 | 2023-07-21 | 2023-12-07 |
 | [Je M'en Fous](https://open.spotify.com/track/0D5ZNFuO7cN9xvhYQKdj9t) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [MB](https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe) | [Je M'en Fous](https://open.spotify.com/album/06ZRa1jHSnD74FYyQXADbd) | 2:57 | 2024-01-03 | 2024-02-18 |
 | [Je sais que t'as mal](https://open.spotify.com/track/3TwCVgOkFhx6CBFYUYnPzP) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Je sais que t'as mal](https://open.spotify.com/album/6kKGhPm6m2GagsZdW34Qui) | 2:35 | 2023-03-22 | 2023-05-14 |

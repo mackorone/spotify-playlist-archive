@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanDkFGa4syx.md) - [plain]
 
 > basic emotions, ik wil terug naar toen
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,522 likes - 200 songs - 12 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,578 likes - 200 songs - 12 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

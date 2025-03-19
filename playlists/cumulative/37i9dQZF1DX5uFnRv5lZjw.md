@@ -4,7 +4,7 @@
 
 > 2025: doom scrolling is out, off\-grid is in.
 
-45 songs - 1 hr 52 min
+47 songs - 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Floating in Between](https://open.spotify.com/track/26uNq6Q320YkGvrgmYb09t) | [Potting Shed Dreams](https://open.spotify.com/artist/2xotsVJoq3CP69eHgQNux6) | [Floating in Between](https://open.spotify.com/album/1C4AaDwT02U80E9aaVbj1I) | 2:12 | 2025-03-07 |  |
 | [Follow](https://open.spotify.com/track/3d5Mi2IFJ9J4MSWwUFvyEl) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Follow](https://open.spotify.com/album/1R8czr85JJr1ouJ4KI3BPS) | 2:01 | 2025-03-07 |  |
 | [Foothills](https://open.spotify.com/track/0oVBOb9DTb5x9fOQOK0RRV) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Foothills](https://open.spotify.com/album/1JLVBPMupd4nb0JzUDWzsi) | 2:13 | 2025-03-07 |  |
+| [Half Of My Soul](https://open.spotify.com/track/5ykVoVdexmabNS0Oi8RFSs) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Half Of My Soul](https://open.spotify.com/album/6Ph4IPNvLZZh6kqBxmbZ60) | 3:41 | 2025-03-18 |  |
 | [Healing Tendrils](https://open.spotify.com/track/41ThXtLwrQtNmL4kxtoHKe) | [Stanley Lloyd](https://open.spotify.com/artist/32BtOzjlmKXKmYpKFIX6OY) | [Healing Tendrils](https://open.spotify.com/album/0RiGwcltuObnCRpjiAOpJS) | 2:40 | 2025-03-07 |  |
 | [Hiver](https://open.spotify.com/track/3X7jAbQljjes5YZPV1TAUP) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Hiver](https://open.spotify.com/album/1wKl4ZvsF3qx5EVq9hKgy4) | 2:29 | 2025-03-07 |  |
 | [Home](https://open.spotify.com/track/4dOD4uPnmDmh8LKkC3jQ8o) | [Sune Klintberg](https://open.spotify.com/artist/3TXiQjSvTxhlNZTML8XJQY) | [Home](https://open.spotify.com/album/6m4x8gXUxYmkr7Dj850nzg) | 2:46 | 2025-03-07 |  |
@@ -51,6 +52,7 @@
 | [The Great Unknown](https://open.spotify.com/track/4l9EIKt3aYxiGm0Qm2FdoB) | [Sam & Me](https://open.spotify.com/artist/0I6YHl8NdEHLGwdklwhTCm) | [The Great Unknown](https://open.spotify.com/album/3gMUGhgcBKa0hdHQyuGgvR) | 1:46 | 2025-03-07 |  |
 | [The Light](https://open.spotify.com/track/4tcHKbxCCK98i0Tw9kRHax) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [The Light](https://open.spotify.com/album/6pgKASOwqNzcedfkVriGIy) | 1:59 | 2025-03-07 |  |
 | [The Only One](https://open.spotify.com/track/6ffWLQVoGsJyXeqkgXSAIg) | [Aron E\. Ross](https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4) | [The Only One](https://open.spotify.com/album/3PMbgWveWWvXDqNl8h8v4m) | 2:56 | 2025-03-07 |  |
+| [Token](https://open.spotify.com/track/0hB3bysyufVO1pUCj1rYwS) | [Farsjön](https://open.spotify.com/artist/1JVGbsUCqcTgrQP6qc3LEe) | [Token](https://open.spotify.com/album/4uL1RDBqy4Ji6D8UaEUwlE) | 3:16 | 2025-03-18 |  |
 | [When you know, you know](https://open.spotify.com/track/4CsFtHD9LKRpBHmj9rowFq) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [When you know, you know](https://open.spotify.com/album/3q8ciLZpMajLdjS9i7oUpm) | 2:40 | 2025-03-07 |  |
 | [With Winds Free](https://open.spotify.com/track/6MpLfCVfp8IshjM6eqQQhC) | [Waqar Jachin](https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu) | [With Winds Free](https://open.spotify.com/album/1HdDpEpJGTt1MdU7t491Ov) | 2:29 | 2025-03-07 |  |
 

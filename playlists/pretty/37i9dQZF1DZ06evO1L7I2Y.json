@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3242,
+  "num_followers": 3244,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAAAYvmZf1/2OqC81uuXInpcJ",
+  "snapshot_id": "Z9dmAAAAAADWtqFFxI6vMyiF8hvmIjv4",
   "tracks": [
     {
       "added_at": null,
@@ -327,30 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Levado - Spotify Singles",
-        "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Rennan Guerra",
-          "url": "https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA"
-        },
-        {
-          "name": "Patrick Laplan",
-          "url": "https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o"
-        }
-      ],
-      "duration_ms": 175922,
-      "name": "Levado - Spotify Singles",
-      "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PELE",
         "url": "https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh"
       },
@@ -387,6 +363,30 @@
       "duration_ms": 164571,
       "name": "Stephen King",
       "url": "https://open.spotify.com/track/54Lt2Ge2OBZoFInMDJmU92"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Levado - Spotify Singles",
+        "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Rennan Guerra",
+          "url": "https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA"
+        },
+        {
+          "name": "Patrick Laplan",
+          "url": "https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o"
+        }
+      ],
+      "duration_ms": 175922,
+      "name": "Levado - Spotify Singles",
+      "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
     },
     {
       "added_at": null,
@@ -706,39 +706,11 @@
         {
           "name": "Terra",
           "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        },
-        {
-          "name": "Kash",
-          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
         }
       ],
-      "duration_ms": 224841,
-      "name": "N.I.N.A",
-      "url": "https://open.spotify.com/track/5ITMvmuOHl4OweZI81wF6X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Downhill Domination - SECOND EDITION",
-        "url": "https://open.spotify.com/album/6mbbLYoIInIZ8aYXwgF3iN"
-      },
-      "artists": [
-        {
-          "name": "NIKITO Labrae",
-          "url": "https://open.spotify.com/artist/7kJlA28zS73R2HbzBGSbVg"
-        },
-        {
-          "name": "BPP Tan",
-          "url": "https://open.spotify.com/artist/0hdjrAuYJ4KPQGHVX9bd7U"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 251076,
-      "name": "Bizarro",
-      "url": "https://open.spotify.com/track/51gfLlDOW80LNC7s0Uoy1k"
+      "duration_ms": 81730,
+      "name": "10X Melhor (Interl\u00fadio)",
+      "url": "https://open.spotify.com/track/6l8WdWrVFAkG6sbpdEHyEm"
     },
     {
       "added_at": null,
@@ -763,6 +735,30 @@
       "duration_ms": 161095,
       "name": "Fed Tracks #14: Recado",
       "url": "https://open.spotify.com/track/1AzsKMkoDCBhbOw5OU1Ii1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Downhill Domination - SECOND EDITION",
+        "url": "https://open.spotify.com/album/6mbbLYoIInIZ8aYXwgF3iN"
+      },
+      "artists": [
+        {
+          "name": "NIKITO Labrae",
+          "url": "https://open.spotify.com/artist/7kJlA28zS73R2HbzBGSbVg"
+        },
+        {
+          "name": "BPP Tan",
+          "url": "https://open.spotify.com/artist/0hdjrAuYJ4KPQGHVX9bd7U"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 251076,
+      "name": "Bizarro",
+      "url": "https://open.spotify.com/track/51gfLlDOW80LNC7s0Uoy1k"
     },
     {
       "added_at": null,
@@ -806,11 +802,15 @@
         {
           "name": "Terra",
           "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        },
+        {
+          "name": "Kash",
+          "url": "https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt"
         }
       ],
-      "duration_ms": 81730,
-      "name": "10X Melhor (Interl\u00fadio)",
-      "url": "https://open.spotify.com/track/6l8WdWrVFAkG6sbpdEHyEm"
+      "duration_ms": 224841,
+      "name": "N.I.N.A",
+      "url": "https://open.spotify.com/track/5ITMvmuOHl4OweZI81wF6X"
     },
     {
       "added_at": null,
@@ -927,34 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revoada",
-        "url": "https://open.spotify.com/album/6mGAkk5Is9C9FZSaMSnU1Z"
-      },
-      "artists": [
-        {
-          "name": "Chris Beats Zn",
-          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
-        },
-        {
-          "name": "Vitin",
-          "url": "https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS"
-        },
-        {
-          "name": "Xandy MC",
-          "url": "https://open.spotify.com/artist/5oQnCQtwReXr4ai56qGWMC"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 195447,
-      "name": "Revoada",
-      "url": "https://open.spotify.com/track/7n68UDdlNilSIsqI9A4ROG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Copy",
         "url": "https://open.spotify.com/album/0aabe3MkHEfOH89G3AA7rX"
       },
@@ -987,6 +959,34 @@
       "duration_ms": 181778,
       "name": "Copy",
       "url": "https://open.spotify.com/track/3Q6P44efSOTR4O52255KmX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revoada",
+        "url": "https://open.spotify.com/album/6mGAkk5Is9C9FZSaMSnU1Z"
+      },
+      "artists": [
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        },
+        {
+          "name": "Vitin",
+          "url": "https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS"
+        },
+        {
+          "name": "Xandy MC",
+          "url": "https://open.spotify.com/artist/5oQnCQtwReXr4ai56qGWMC"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 195447,
+      "name": "Revoada",
+      "url": "https://open.spotify.com/track/7n68UDdlNilSIsqI9A4ROG"
     },
     {
       "added_at": null,

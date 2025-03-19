@@ -1995,6 +1995,28 @@
     },
     {
       "album": {
+        "name": "Angels For Each Other",
+        "url": "https://open.spotify.com/album/1bOANBDFMPylV75pmNK4l3"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215076,
+      "name": "Angels For Each Other",
+      "url": "https://open.spotify.com/track/7KPcippmg9MvPzb3dzNpQW"
+    },
+    {
+      "album": {
         "name": "B-Sides",
         "url": "https://open.spotify.com/album/39C0lar5IGZVwPXhO0ZYvI"
       },

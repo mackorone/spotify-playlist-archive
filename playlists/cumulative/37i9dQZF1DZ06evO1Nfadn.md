@@ -4,7 +4,7 @@
 
 > This is Banda Maguey\. The essential tracks, all in one playlist.
 
-138 songs - 6 hr 38 min
+139 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Cuánto Te Quiero](https://open.spotify.com/track/0LOqmTGUdzodF0alpMXvGG) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lagrimas De Sangre](https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG) | 3:11 | 2025-03-02 |  |
 | [Cómo La Luna](https://open.spotify.com/track/3QaDuk77U04e1EURbWzUFu) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/1XUEpKccqhu7ww9kna6pv0) | 3:01 | 2024-12-11 |  |
 | [De Esta Sierra A La Otra](https://open.spotify.com/track/78XrMgHFKr2RPYDcPd8dhF) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Metamorfosis](https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy) | 2:30 | 2022-10-13 | 2023-11-11 |
+| [De Nuevo Solo](https://open.spotify.com/track/3ZZKXeR4aienNTE0JzXFVO) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Éxitos de Oro](https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq) | 3:22 | 2025-03-19 |  |
 | [Dos Camionetas](https://open.spotify.com/track/4MzFbkFoldveCNWW5MCBK2) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt) | 2:15 | 2024-06-04 |  |
 | [Dos Gotas de Agua](https://open.spotify.com/track/6685gkTvHOFLb3go14K2I0) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [15 Canciones Favoritas](https://open.spotify.com/album/7bQTZGWH4siZ5JBnGsOAcU) | 2:54 | 2023-12-13 |  |
 | [Dos Gotas de Agua](https://open.spotify.com/track/3zOX9kZFskHnK2rp1abpCJ) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Mil Gracias](https://open.spotify.com/album/0RE8GBPjlZBTx9RXHC0LGO) | 2:56 | 2022-06-01 | 2023-12-14 |
@@ -81,7 +82,7 @@
 | [La Negra Tete](https://open.spotify.com/track/4DbREQlyfOX0p6PiymhkvW) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Serie 20 Exitos](https://open.spotify.com/album/0LqVH79uT6txB15PXmZLci) | 2:56 | 2022-06-02 | 2022-08-25 |
 | [La Prendita](https://open.spotify.com/track/1QTZrB89xhOmqxXRnJLweE) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lo Que Son las Cosas](https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi) | 3:06 | 2022-06-01 |  |
 | [La Que Se Fue](https://open.spotify.com/track/4xy7wejmM34LnfhLDIpanB) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Metamorfosis](https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy) | 2:19 | 2022-11-04 | 2023-06-26 |
-| [La Ranchera Pajona](https://open.spotify.com/track/0ZvZGvz5fUAgRmq5KuTgqm) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa Que Veas Lo Que Se Siente](https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg) | 2:29 | 2022-06-03 |  |
+| [La Ranchera Pajona](https://open.spotify.com/track/0ZvZGvz5fUAgRmq5KuTgqm) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa Que Veas Lo Que Se Siente](https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg) | 2:29 | 2022-06-03 | 2025-03-19 |
 | [La Traicionera](https://open.spotify.com/track/1cHG4Z9p9qSwKVs8AetKAz) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lagrimas De Sangre](https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG) | 2:15 | 2022-09-18 | 2024-06-04 |
 | [Lagrimas de Sangre](https://open.spotify.com/track/3oyOsqtU1QWWoYY9sxafFw) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lagrimas De Sangre](https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG) | 2:41 | 2022-06-11 |  |
 | [Las Petacas](https://open.spotify.com/track/76RQYa0a3rpPuwewAzKcrw) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 3:15 | 2022-06-01 | 2022-09-30 |

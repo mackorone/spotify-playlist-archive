@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 
 > This is Muse\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 801,963 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,052 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 | 49 | [1685 \(feat\. Muse\)](https://open.spotify.com/track/0ZVjdWHetSBLb4udxSyofy) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [1685 \(feat\. Muse\)](https://open.spotify.com/album/2AxRNzVhdHgJwtCwbr405e) | 3:56 |
 | 50 | [Showbiz](https://open.spotify.com/track/2sCFFlnYg6Lk75GCcfSXEz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 5:17 |
 
-Snapshot ID: `Z9YUgAAAAADzct22/z9flzYNtCkL9zlA`
+Snapshot ID: `Z9dmAAAAAAB1ZIgHS3eGi5it2q9D8XJt`

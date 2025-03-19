@@ -1,12 +1,12 @@
 {
   "description": "This is Shirley Caesar. The essential tracks, all in one playlist.",
-  "num_followers": 5524,
+  "num_followers": 5525,
   "original_name": "This Is Shirley Caesar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAABLTlniRknksrOyazHGuAph",
+  "snapshot_id": "Z9dmAAAAAAB/1OW2goIMPlgsg0bSAntS",
   "tracks": [
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/62qUV1EdZM75Py1OVf50BR"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "Satan, You're a Liar",
-      "url": "https://open.spotify.com/track/1JTfSGTnXqUEYV4JDGFgYM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shirley Caesar and Friends",
         "url": "https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW"
       },
@@ -547,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shirley Caesar: Her Very Best",
-        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "The Lord Will Make a Way",
-      "url": "https://open.spotify.com/track/6v4owQIaYIlZ4MVAdpcsC2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shirley Caesar Live .... He Will Come",
         "url": "https://open.spotify.com/album/4gFxfVqXsSFolfA5MHosnL"
       },
@@ -579,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Miracle In Harlem",
-        "url": "https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2"
+        "name": "Shirley Caesar: Her Very Best",
+        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
       },
       "artists": [
         {
@@ -588,9 +556,25 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 401800,
-      "name": "How I Love Jesus",
-      "url": "https://open.spotify.com/track/6AEfS7fqWpSn8llgMVjfvs"
+      "duration_ms": 220666,
+      "name": "The Lord Will Make a Way",
+      "url": "https://open.spotify.com/track/6v4owQIaYIlZ4MVAdpcsC2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/62qUV1EdZM75Py1OVf50BR"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 230266,
+      "name": "Satan, You're a Liar",
+      "url": "https://open.spotify.com/track/1JTfSGTnXqUEYV4JDGFgYM"
     },
     {
       "added_at": null,
@@ -615,6 +599,22 @@
       "duration_ms": 302120,
       "name": "I Know It Was the Blood",
       "url": "https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Miracle In Harlem",
+        "url": "https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 401800,
+      "name": "How I Love Jesus",
+      "url": "https://open.spotify.com/track/6AEfS7fqWpSn8llgMVjfvs"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Harvest Collection: Shirley Caesar",
+        "url": "https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 176527,
+      "name": "My Testimony",
+      "url": "https://open.spotify.com/track/4BilCEaBPaQ295OUpKF6zf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Gospel Explosion: Recorded Live",
         "url": "https://open.spotify.com/album/2OFQFPtUzrUvsBYg3C2Q7I"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 303626,
       "name": "Sweeping Through the City (Live)",
       "url": "https://open.spotify.com/track/1FFqxSXK9HOZuzLQrNrJmJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Harvest Collection: Shirley Caesar",
-        "url": "https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 176527,
-      "name": "My Testimony",
-      "url": "https://open.spotify.com/track/4BilCEaBPaQ295OUpKF6zf"
     },
     {
       "added_at": null,

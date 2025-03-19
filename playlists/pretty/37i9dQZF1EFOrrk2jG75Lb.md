@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4MkRES9UEFwJnvM571eiWt">Gloria Trevi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,519 likes - 53 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,518 likes - 53 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 | 52 | [Ojos De Fuego](https://open.spotify.com/track/2CD3R2whD46r746lsyvfBc) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Duele](https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ) | 3:20 |
 | 53 | [Aurora](https://open.spotify.com/track/3wUKXujHMVw2HzSEqTRMwe) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9) | 3:54 |
 
-Snapshot ID: `AbsU3gAAAABngM+kPNrtX+cM3LGHLycJ`
+Snapshot ID: `AbsafgAAAAA/o8iJq0swOkMZNVUNoZRz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 
 > A classic playlist full of favorites of the 80s! Featuring hits from Queen, Tears For Fears, The Go\-Go's and many many more!
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 324,042 likes - 105 songs - 7 hr 19 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 324,043 likes - 105 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 | 104 | [Every Rose Has Its Thorn \- 2003 Remaster](https://open.spotify.com/track/43GS3mtezoIFiuIZCLLiDY) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 4:20 |
 | 105 | [Sofa \#2 \- Live](https://open.spotify.com/track/5T2alV23Cti08eTqK5Y42Q) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [You Can't Do That On Stage Anymore, Vol\. 1 \(Live\)](https://open.spotify.com/album/2Ekqr3FJo41daBiMY3VkaS) | 3:02 |
 
-Snapshot ID: `AAAFOBbrjKUsARhfw15oS7rv+TXdjiSn`
+Snapshot ID: `AAAFPclFGGSxmyEHeuK5UuHCB2CvKzxL`

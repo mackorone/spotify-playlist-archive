@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0NEThBmp8Mb.md) - [plain]
 
 > This Christmas get exactly what you want...Listen to the music from Babygirl, now in theaters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,243 likes - 22 songs - 59 min 29 sec
+[Spotify](https://open.spotify.com/user/spotify) - 24,274 likes - 22 songs - 59 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

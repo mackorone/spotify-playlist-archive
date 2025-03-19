@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnsOmlEBKuk.md) - [plain]
 
 > Ruido blanco para ayudar a los bebés a dormir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,867 likes - 200 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,005 likes - 200 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -13043,6 +13043,24 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30c6\u30a4\u30fb\u30a4\u30f3\u30fb\u30c8\u30a5\u30ca\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/1XErvQZaRNYBveR1focbYb"
+      },
+      "artists": [
+        {
+          "name": "\u5411\u7530\u6c11\u5b50",
+          "url": "https://open.spotify.com/artist/3UcirJpXk6043mUqjDCcIS"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "\u30b9\u30c6\u30a4\u30fb\u30a4\u30f3\u30fb\u30c8\u30a5\u30ca\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/2njRYGDdRfMVeKVftiVOda"
+    },
+    {
+      "album": {
         "name": "Neo Oriented",
         "url": "https://open.spotify.com/album/1s7cSIMsphIt4ELBfOfEbC"
       },

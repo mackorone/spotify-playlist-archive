@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani che abbiamo on repeat 🔁 Bresh in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,049 likes - 65 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,246 likes - 65 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,16 +62,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 52 | [Eco](https://open.spotify.com/track/3ycj36w66i2rIGJli4Ruhi) | [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [Eco](https://open.spotify.com/album/4iCnGvbZKQwj252lciCfLc) | 3:14 |
 | 53 | [Demoni](https://open.spotify.com/track/2Ikps0R1llyosWCHo1CP4E) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Demoni](https://open.spotify.com/album/1vcK4ZlqXjptGzGl8lbbkG) | 3:41 |
 | 54 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 |
-| 55 | [Non Lo So \(feat\. chiello\)](https://open.spotify.com/track/5mOazYGaNJnv1zxMyNH6Rc) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:54 |
-| 56 | [Fango in Paradiso](https://open.spotify.com/track/7Co4JFHHRVoAf9lCx37aGx) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [Fango in Paradiso](https://open.spotify.com/album/3eFNcxTdVUPRkwWFPTc6PO) | 3:29 |
-| 57 | [Niente Panico](https://open.spotify.com/track/1GVDt0vn0wJ1QemPfMEWTU) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Niente Panico](https://open.spotify.com/album/1zjDLM4aRsRa4Z1TwkXr0d) | 3:01 |
-| 58 | [5cm](https://open.spotify.com/track/09zTRP1jupO6evQj54cqoO) | [Zero Assoluto](https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe) | [5cm](https://open.spotify.com/album/4nU1cJTiDUmTp5bcNOIdAU) | 2:52 |
-| 59 | [Per due come noi](https://open.spotify.com/track/5mKHtB2OGDXzbsInzW7veZ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Per due come noi](https://open.spotify.com/album/6vkoEHhulbsz7twfso0VxJ) | 3:32 |
-| 60 | [tg1](https://open.spotify.com/track/2wHUZktOO8T1G9NNhytve4) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [tg1](https://open.spotify.com/album/5l3kHPbXM2pKXboLcganHn) | 2:46 |
-| 61 | [Romantico Ma Muori](https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Romantico Ma Muori](https://open.spotify.com/album/0js12ciEGYY4tTcCLKgwwY) | 2:46 |
-| 62 | [San Luca \(feat\. Luca Carboni\)](https://open.spotify.com/track/4elAiEgBssziHLfCrBoEA2) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T), [Luca Carboni](https://open.spotify.com/artist/1wmD3O9TEeshZVuFVgpm0g) | [ALASKA BABY](https://open.spotify.com/album/4lGkGC8tCG3G7CwmEYzpzq) | 5:33 |
-| 63 | [DUE GATTI A MILANO](https://open.spotify.com/track/07ml1sRzeQQIj6U6lfWS95) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [VITA\_FUSA](https://open.spotify.com/album/7lUQ8zSvRJwgC77Pb3St5Z) | 2:52 |
-| 64 | [Nostalgia \(feat\. Neffa\)](https://open.spotify.com/track/1rOvPh1Ys3n8gQzor8MVrg) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA), [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Nostalgia](https://open.spotify.com/album/6awhjqs3acQA1WAYrsAPs6) | 3:04 |
+| 55 | [Una scatola di mogano \- MERCURIO](https://open.spotify.com/track/2IpeIL6i4jn0tNa0239bOG) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Una scatola di mogano \- MERCURIO](https://open.spotify.com/album/6Jyt0QXVx5m2UgdNmYqLVA) | 2:45 |
+| 56 | [Non Lo So \(feat\. chiello\)](https://open.spotify.com/track/5mOazYGaNJnv1zxMyNH6Rc) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:54 |
+| 57 | [Fango in Paradiso](https://open.spotify.com/track/7Co4JFHHRVoAf9lCx37aGx) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [Fango in Paradiso](https://open.spotify.com/album/3eFNcxTdVUPRkwWFPTc6PO) | 3:29 |
+| 58 | [Niente Panico](https://open.spotify.com/track/1GVDt0vn0wJ1QemPfMEWTU) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Niente Panico](https://open.spotify.com/album/1zjDLM4aRsRa4Z1TwkXr0d) | 3:01 |
+| 59 | [5cm](https://open.spotify.com/track/09zTRP1jupO6evQj54cqoO) | [Zero Assoluto](https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe) | [5cm](https://open.spotify.com/album/4nU1cJTiDUmTp5bcNOIdAU) | 2:52 |
+| 60 | [Per due come noi](https://open.spotify.com/track/5mKHtB2OGDXzbsInzW7veZ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Per due come noi](https://open.spotify.com/album/6vkoEHhulbsz7twfso0VxJ) | 3:32 |
+| 61 | [tg1](https://open.spotify.com/track/2wHUZktOO8T1G9NNhytve4) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [tg1](https://open.spotify.com/album/5l3kHPbXM2pKXboLcganHn) | 2:46 |
+| 62 | [Romantico Ma Muori](https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Romantico Ma Muori](https://open.spotify.com/album/0js12ciEGYY4tTcCLKgwwY) | 2:46 |
+| 63 | [San Luca \(feat\. Luca Carboni\)](https://open.spotify.com/track/4elAiEgBssziHLfCrBoEA2) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T), [Luca Carboni](https://open.spotify.com/artist/1wmD3O9TEeshZVuFVgpm0g) | [ALASKA BABY](https://open.spotify.com/album/4lGkGC8tCG3G7CwmEYzpzq) | 5:33 |
+| 64 | [DUE GATTI A MILANO](https://open.spotify.com/track/07ml1sRzeQQIj6U6lfWS95) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [VITA\_FUSA](https://open.spotify.com/album/7lUQ8zSvRJwgC77Pb3St5Z) | 2:52 |
 | 65 | [MMH \(feat\. Rose Villain\)](https://open.spotify.com/track/49mN8ph1LK58r7TMYW1Srb) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [MMH \(feat\. Rose Villain\)](https://open.spotify.com/album/5JUg1RbqXhroV8e4nfxSMy) | 3:07 |
 
-Snapshot ID: `Z9hFrQAAAACPvo051tLT5dvn2ANotwDD`
+Snapshot ID: `Z9lNegAAAACK0KaHg/1BljKglH3m1qMg`

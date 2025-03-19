@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9YUgAAAAAD6ZDs//CyfctqjabxJdo92",
+  "snapshot_id": "Z9dmAAAAAAByfCsLvjCMOhBWxkmImj3d",
   "tracks": [
     {
       "added_at": null,
@@ -392,9 +392,25 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 247324,
-      "name": "Home Versus Home",
-      "url": "https://open.spotify.com/track/1xCHmRrMoqWgW3pMlyiJpR"
+      "duration_ms": 292628,
+      "name": "Aberdeen 1987",
+      "url": "https://open.spotify.com/track/4IPBnGpwKJIlSdlq8kgZVv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 154626,
+      "name": "Slackerpop",
+      "url": "https://open.spotify.com/track/7qgp4PNvNPG5vPoMeGg29E"
     },
     {
       "added_at": null,
@@ -415,22 +431,6 @@
       "duration_ms": 212399,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/7w7WlXyXPuo0AuuWMSGw98"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 154626,
-      "name": "Slackerpop",
-      "url": "https://open.spotify.com/track/7qgp4PNvNPG5vPoMeGg29E"
     },
     {
       "added_at": null,
@@ -460,25 +460,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 292628,
-      "name": "Aberdeen 1987",
-      "url": "https://open.spotify.com/track/4IPBnGpwKJIlSdlq8kgZVv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ready to Call",
-        "url": "https://open.spotify.com/album/4CMzznQBNj0AP2uDAxbbGS"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 219405,
-      "name": "Ready to Call",
-      "url": "https://open.spotify.com/track/5ie3gZHgWj0Tip7YxJFTn6"
+      "duration_ms": 247324,
+      "name": "Home Versus Home",
+      "url": "https://open.spotify.com/track/1xCHmRrMoqWgW3pMlyiJpR"
     },
     {
       "added_at": null,
@@ -499,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wildheart Dreaming",
-        "url": "https://open.spotify.com/album/66OUu51LrvQjuywPP78Itc"
+        "name": "Ready to Call",
+        "url": "https://open.spotify.com/album/4CMzznQBNj0AP2uDAxbbGS"
       },
       "artists": [
         {
@@ -508,25 +492,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 192638,
-      "name": "Fight or Run",
-      "url": "https://open.spotify.com/track/1bkRlqgIqGHsthK66ot39Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 316893,
-      "name": "Cool Ethan",
-      "url": "https://open.spotify.com/track/2qHRHqAVw7HPjCiJHF4UPM"
+      "duration_ms": 219405,
+      "name": "Ready to Call",
+      "url": "https://open.spotify.com/track/5ie3gZHgWj0Tip7YxJFTn6"
     },
     {
       "added_at": null,
@@ -547,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
+        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
       },
       "artists": [
         {
@@ -556,9 +524,25 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 270706,
-      "name": "Distant Memory",
-      "url": "https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f"
+      "duration_ms": 316893,
+      "name": "Cool Ethan",
+      "url": "https://open.spotify.com/track/2qHRHqAVw7HPjCiJHF4UPM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wildheart Dreaming",
+        "url": "https://open.spotify.com/album/66OUu51LrvQjuywPP78Itc"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 192638,
+      "name": "Fight or Run",
+      "url": "https://open.spotify.com/track/1bkRlqgIqGHsthK66ot39Q"
     },
     {
       "added_at": null,
@@ -595,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Young (Belane)",
-        "url": "https://open.spotify.com/album/5wEeKv902cFqUggE8dJ3ND"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "I Am Home",
-      "url": "https://open.spotify.com/track/4kxZCCAbX5Rw0bKglRTSRI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scatterbrain",
         "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
       },
@@ -620,9 +588,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 224160,
-      "name": "Carnival Time",
-      "url": "https://open.spotify.com/track/0d05B9yk71AD3d4PRb1LbB"
+      "duration_ms": 270706,
+      "name": "Distant Memory",
+      "url": "https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f"
     },
     {
       "added_at": null,
@@ -639,6 +607,22 @@
       "duration_ms": 195066,
       "name": "Scatterbrain",
       "url": "https://open.spotify.com/track/4WcdCE3c0lY31jac8qPRnt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "Carnival Time",
+      "url": "https://open.spotify.com/track/0d05B9yk71AD3d4PRb1LbB"
     }
   ],
   "unique_name": "This Is The XCERTS",

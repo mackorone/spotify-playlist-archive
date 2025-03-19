@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,286 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,291 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 | 32 | [Original](https://open.spotify.com/track/3RI4zqzeqTBAXFe2q2HPe5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 4:07 |
 | 33 | [Mary](https://open.spotify.com/track/4XVPHQOQlIPYsX8D2GW8uu) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Mary](https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo) | 4:21 |
 | 34 | [CCTV](https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [As Promised](https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX) | 4:13 |
-| 35 | [U Go Kill Me \(feat\. El\)](https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [EL](https://open.spotify.com/artist/4pU8XJNeU0LJhfZQOQcYoh) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 3:45 |
-| 36 | [Anointing](https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Anointing](https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg) | 3:36 |
+| 35 | [Anointing](https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Anointing](https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg) | 3:36 |
+| 36 | [U Go Kill Me \(feat\. El\)](https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [EL](https://open.spotify.com/artist/4pU8XJNeU0LJhfZQOQcYoh) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 3:45 |
 | 37 | [Chingam \(feat\. Bisa Kdei\)](https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Chingam \(feat\. Bisa Kdei\)](https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs) | 3:34 |
 | 38 | [CONFETTI](https://open.spotify.com/track/6h4RT6Vwb9bo8agXsFVqlW) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 1:40 |
 | 39 | [Jehovah](https://open.spotify.com/track/3MRQW0T4HCkgOYnrsLa6BV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [This Is Not The Tape, Sorry 4 The Wait II](https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8) | 2:32 |
 | 40 | [It's My Life](https://open.spotify.com/track/216YULEAPFqGpco9dgXuTm) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [It's My Life](https://open.spotify.com/album/3uSzlKDimKTw7si5clmqud) | 3:45 |
 | 41 | [Tonga](https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Tonga](https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8) | 3:22 |
-| 42 | [Sizeless \(Skit\)](https://open.spotify.com/track/5t10bvJ3Zv3jKtU7YlwZSQ) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 1:26 |
-| 43 | [Homicide](https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6) | [Homicide](https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81) | 3:03 |
+| 42 | [Homicide](https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6) | [Homicide](https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81) | 3:03 |
+| 43 | [Sizeless \(Skit\)](https://open.spotify.com/track/5t10bvJ3Zv3jKtU7YlwZSQ) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 1:26 |
 | 44 | [Highest, Pt\. 1 \- Interlude](https://open.spotify.com/track/4crdW05OWhinvkKKe0jz8o) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Suli Breaks](https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 0:35 |
 | 45 | [Happy Day](https://open.spotify.com/track/2CwQ6rEsoirjV8nu33BVyy) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Happy Day](https://open.spotify.com/album/4qJhOsV4i9fi8blINlt8Qk) | 3:32 |
-| 46 | [Illuminati](https://open.spotify.com/track/1ZXEvJhugYz8uBqrm4yv2c) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 2:46 |
-| 47 | [Intro](https://open.spotify.com/track/0rw5Wf8pmw9H7xYPsN6iIm) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 1:34 |
+| 46 | [Intro](https://open.spotify.com/track/0rw5Wf8pmw9H7xYPsN6iIm) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 1:34 |
+| 47 | [Illuminati](https://open.spotify.com/track/1ZXEvJhugYz8uBqrm4yv2c) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 2:46 |
 | 48 | [Oofeets](https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [Oofeets](https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y) | 3:46 |
 | 49 | [BRAG](https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [BRAG](https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR) | 2:29 |
-| 50 | [Special Sumone \(feat\. Burna Boy n Aka\)](https://open.spotify.com/track/7iwOlLnaysT2Z92dx3PTio) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Burna Boy N Aka](https://open.spotify.com/artist/4bYmtZBkPlKEP2sUV5ZQMM) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 4:18 |
+| 50 | [Mewu \(feat\. Akwaboah\)](https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Mary](https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo) | 3:25 |
 
-Snapshot ID: `Z9YUgAAAAAAOYMySCXtztQjpy8BOLGEJ`
+Snapshot ID: `Z9dmAAAAAAAyCvHWki99eyGMU+kiNqCd`

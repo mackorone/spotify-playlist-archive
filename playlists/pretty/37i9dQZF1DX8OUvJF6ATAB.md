@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,407 likes - 100 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,427 likes - 100 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

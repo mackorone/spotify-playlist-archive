@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Endelig fredag og ny musik fra <a href="spotify:artist:2rR0cafJvL0JVTC8E2qIqt">Saveus</a>, Benny Jamz, Selena Gomez og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,346 likes - 104 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,344 likes - 104 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 31 | [Close Range](https://open.spotify.com/track/7cHlNnLJD0RPhALmesnneD) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Close Range](https://open.spotify.com/album/4USUstWxap4sq9pHQPbVPI) | 3:18 |
 | 32 | [We Follow Rivers](https://open.spotify.com/track/61s6Zb850ZEUazOtit6clH) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB), [Milo Orchis](https://open.spotify.com/artist/6GKlPleRvsXLGblMgR6SyN) | [The Sailor's Compilation, Pt\. 2](https://open.spotify.com/album/6N1QvNqWFzMbQiOfEwCSgz) | 3:09 |
 | 33 | [Let Me In](https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Let Me In](https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq) | 3:48 |
-| 34 | [Astronaut Mogensen](https://open.spotify.com/track/4T2ZeRjeliAOtjcCRQiYGx) | [Juncker](https://open.spotify.com/artist/6UiybWUSi4hZ8AZcqMJVL1) | [Astronaut Mogensen](https://open.spotify.com/album/2LWQJEPcSadEl59XuCTgpk) | 3:41 |
+| 34 | [Astronaut Mogensen](https://open.spotify.com/track/4T2ZeRjeliAOtjcCRQiYGx) | [Juncker](https://open.spotify.com/artist/6UiybWUSi4hZ8AZcqMJVL1), [Hervé Toure](https://open.spotify.com/artist/4G1VOPk6DtYaxYzMDkguED) | [Astronaut Mogensen](https://open.spotify.com/album/2LWQJEPcSadEl59XuCTgpk) | 3:41 |
 | 35 | [Hvis Jeg Var Din Kæreste](https://open.spotify.com/track/5L85n8Bdgn3SUkRrkmMJKR) | [Lars Vegas](https://open.spotify.com/artist/2QhFv0WvpdgTMGoXYl9Uoz) | [Hvis Jeg Var Din Kæreste](https://open.spotify.com/album/5DQr43EnEuyndlL2x3YeCy) | 3:31 |
 | 36 | [Only Love](https://open.spotify.com/track/4fE3PQDHE50vrcqN8ElxDr) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Only Love](https://open.spotify.com/album/4WjiBXuiBrFqkRgIG9OCfr) | 4:19 |
 | 37 | [Savior](https://open.spotify.com/track/5h1ZgjFl9o9Bc1UTlJ9V1l) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Savior](https://open.spotify.com/album/06D1vzjX7t7zLZJd9xIJ7g) | 3:36 |

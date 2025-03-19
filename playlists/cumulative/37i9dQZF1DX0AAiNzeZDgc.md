@@ -4,7 +4,7 @@
 
 > This Is STAYC\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 33 min
+53 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,10 +14,12 @@
 | [ASAP \- Japanese Ver.](https://open.spotify.com/track/3Wt0F41P9eevGDvBSIIqhE) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [POPPY \(Japanese Ver.\)](https://open.spotify.com/album/7GAgQKzoFrEo0ijpW88se8) | 3:14 | 2023-08-17 |  |
 | [BEAUTIFUL MONSTER](https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [WE NEED LOVE](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) | 3:00 | 2023-08-17 |  |
 | [Beauty Bomb](https://open.spotify.com/track/13nOpaV3IK7P2jw9FDA7tW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 3:20 | 2024-07-03 |  |
+| [BEBE](https://open.spotify.com/track/5iXD5rOKV99XGtkaiucHpM) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [S](https://open.spotify.com/album/6QTpBMKMIa2OFMqZBQu2Pm) | 2:59 | 2025-03-18 |  |
 | [Bubble](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [TEENFRESH](https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x) | 2:59 | 2023-08-17 |  |
 | [BUTTERFLY](https://open.spotify.com/track/1q97NRLZfQlXYvZJAQ7tln) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:27 | 2023-08-17 |  |
 | [Cheeky Icy Thang](https://open.spotify.com/track/3BhyxulZ13uWZS6LqiYiCj) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 2:30 | 2024-07-03 |  |
 | [COMPLEX](https://open.spotify.com/track/1JWtIj2hmFjGucIlC7zfAe) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STEREOTYPE](https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj) | 3:06 | 2023-08-17 |  |
+| [DIAMOND](https://open.spotify.com/track/6jZWXuxBv9CNeaxGUvZRIK) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [S](https://open.spotify.com/album/6QTpBMKMIa2OFMqZBQu2Pm) | 2:22 | 2025-03-18 |  |
 | [Fakin’ \( Sumin & Yoon \)](https://open.spotify.com/track/6q3mMMdxQCjrfUME0YZnSU) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 2:46 | 2024-07-03 |  |
 | [Fancy \- Spotify Singles](https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Fancy \- Spotify Singles](https://open.spotify.com/album/23EfZLPRMwseUucHSXCCTq) | 3:13 | 2024-03-15 |  |
 | [Find \( Sieun & Seeun & J \)](https://open.spotify.com/track/1L0WXikXzwL95TDHTUuWQE) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 2:14 | 2024-07-03 |  |
@@ -34,6 +36,7 @@
 | [LOVE FOOL](https://open.spotify.com/track/2OhOkew9BkkLTGBG9cFOz5) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYDOM](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) | 3:38 | 2023-08-17 |  |
 | [Meant To Be](https://open.spotify.com/track/6o43jr5fDTiNeMkcgR42I4) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [...l](https://open.spotify.com/album/3mOHNMIoQXQfux8b0pgQI0) | 3:42 | 2024-10-30 |  |
 | [Nada](https://open.spotify.com/track/2nZFLtfsBxQWHkFCHkepTH) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 3:05 | 2024-07-03 |  |
+| [PIPE DOWN](https://open.spotify.com/track/1y42u9UuJJvlSS61zv9eux) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [S](https://open.spotify.com/album/6QTpBMKMIa2OFMqZBQu2Pm) | 2:21 | 2025-03-18 |  |
 | [Poppy \(Korean Ver.\)](https://open.spotify.com/track/7KqISJoXbapng18bmmG0oa) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Teddy Bear](https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x) | 2:58 | 2023-08-17 |  |
 | [POPPY \- Japanese Ver.](https://open.spotify.com/track/7aQOA3ggmKpjleEtabVYbI) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [POPPY \(Japanese Ver.\)](https://open.spotify.com/album/7GAgQKzoFrEo0ijpW88se8) | 2:59 | 2023-08-17 |  |
 | [Roses \( ISA \)](https://open.spotify.com/track/4JSCXX9t09nio3UEPw4AWe) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 2:41 | 2024-07-03 |  |

@@ -4,7 +4,7 @@
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-273 songs - 11 hr 35 min
+276 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Camino](https://open.spotify.com/track/6iRtD6kgCTAHOl5nXmOkop) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Camino](https://open.spotify.com/album/5nyL3abLor8WN4Ba6mJIyr) | 2:15 | 2024-02-21 |  |
 | [Campania](https://open.spotify.com/track/2Nf6J9vOtyzP4gX6xBvLv9) | [Gilded Reverie](https://open.spotify.com/artist/293KvG5a4tl3xjpUsnXjym) | [Campania](https://open.spotify.com/album/10Ol0BRzxel4NoqxFSJgC8) | 2:21 | 2024-04-17 |  |
 | [Certain Days](https://open.spotify.com/track/3YKPxRJDUHhnFJUyjV57JQ) | [Viljar Iversen](https://open.spotify.com/artist/57zxco4Z1lUt03EMLy3GYl) | [Certain Days](https://open.spotify.com/album/2u2aoV0YFFubHvzgkaN244) | 2:18 | 2023-10-18 |  |
+| [Changes](https://open.spotify.com/track/0siCo4tyMFCgKJaa3i7wvK) | [Lester Milton](https://open.spotify.com/artist/2Xuimz47Nd6ltLsj9c1vgE) | [Changes](https://open.spotify.com/album/3zdjBv8NJkDQmgRdMtpCYJ) | 2:10 | 2025-03-18 |  |
 | [Chaque seconde](https://open.spotify.com/track/7zE6q0FE26UZxgVt6HfZTK) | [Brielle De Villiers](https://open.spotify.com/artist/04Xt0qmp91mLlKm5aFsWWW) | [Chaque seconde](https://open.spotify.com/album/28jXOYo12w7BRvB9lA2q3V) | 2:06 | 2023-10-18 |  |
 | [Chasing lights](https://open.spotify.com/track/1oxnn6zzA7x9p8o46JetXm) | [Giles Garnier](https://open.spotify.com/artist/7kROE0Pp2o1NqMVIWLX3Vg) | [Chasing lights](https://open.spotify.com/album/2hD5lpDeL7dOU3EQGxkfGX) | 2:14 | 2023-10-18 | 2024-10-16 |
 | [Cold Fire](https://open.spotify.com/track/1C8yK8kQsb2J4wzavoa1gR) | [Lot Gordon](https://open.spotify.com/artist/1Q6LTB4M1mV3SVrtW0ZIWl) | [Cold Fire](https://open.spotify.com/album/3gcMnFOQNITW4ULBIGhpcj) | 3:01 | 2023-10-18 | 2024-10-02 |
@@ -109,6 +110,7 @@
 | [Free Falling](https://open.spotify.com/track/6ruIYimg1WHbK2ciDt1hWv) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Free Falling](https://open.spotify.com/album/1xX4HiqbN3j0R4F71pbLHe) | 3:19 | 2023-10-18 |  |
 | [Friedliebend](https://open.spotify.com/track/1DhBkcETHP709aHSpJozE7) | [Heike Blau](https://open.spotify.com/artist/3dcO6J0QtVq4xwePBwkq3W) | [Friedliebend](https://open.spotify.com/album/0ErzD4yq39nTwzDwAIIfhy) | 2:12 | 2023-10-18 | 2024-10-02 |
 | [From the Seas and the Streams](https://open.spotify.com/track/2AotVdY2lkRFWn0j5dQymP) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [From the Seas and the Streams](https://open.spotify.com/album/0SFqRZjTN8wcgIPG4E7ulc) | 2:29 | 2023-11-08 |  |
+| [Full Of Hope](https://open.spotify.com/track/22MzUApfgFWn3loU2idcuC) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Full Of Hope](https://open.spotify.com/album/7A5lNSaEP8BjCHxHOgvbKD) | 2:12 | 2025-03-18 |  |
 | [Garden Of Dreams](https://open.spotify.com/track/7ywZFL0EYH5UFjDbmIGYUp) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [Garden Of Dreams](https://open.spotify.com/album/30qBdTgHf1pJI54TyiLv7B) | 2:49 | 2023-10-18 | 2024-10-02 |
 | [Glass Maze](https://open.spotify.com/track/0Gip9R2bdofMa8bp0ix7yu) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Glass Maze](https://open.spotify.com/album/50ifG2BjEBlPjelAE1VsIS) | 3:51 | 2025-01-14 |  |
 | [Hammock](https://open.spotify.com/track/7LTVGmS15JBwO11pTS4ykt) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Hammock](https://open.spotify.com/album/02duehzy4k0kc3iDwoLVkr) | 2:06 | 2023-10-18 |  |
@@ -261,6 +263,7 @@
 | [Unwind Dreams](https://open.spotify.com/track/3uas6wnNDf3NYFwkh1IBnq) | [Lakes of Lagan](https://open.spotify.com/artist/72lKRBDN7nlWA93GIjn7KW) | [Unwind Dreams](https://open.spotify.com/album/4SjMQNEG5sdFqVHzmpjfh6) | 2:52 | 2024-10-01 |  |
 | [Utsjoki](https://open.spotify.com/track/6QjleATuBevQEy00ssnKhH) | [Vegard](https://open.spotify.com/artist/3KSiDeHcHXc19XgnzXGlXJ) | [Utsjoki](https://open.spotify.com/album/5eLLUN5nLMRCUMf63NKPBT) | 2:23 | 2023-10-18 |  |
 | [Valencia](https://open.spotify.com/track/0lyxuER9HktBcYRwpaasqs) | [Gaspar Becerra](https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj) | [Valencia](https://open.spotify.com/album/5EblH0XOm0QKeOEeypwONP) | 2:54 | 2023-10-18 | 2025-02-27 |
+| [Velora Hearts](https://open.spotify.com/track/20OBs0J1ajLj4FgdjOANbh) | [Klara Ericsson](https://open.spotify.com/artist/0p6O1VFehc49qi21Rb7fXO) | [Velora Hearts](https://open.spotify.com/album/7AxEOdbYtQJHUkhD5idtoI) | 2:31 | 2025-03-18 |  |
 | [velvet void](https://open.spotify.com/track/3wEBkJFS7AngSwHAEcrkFb) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [velvet void](https://open.spotify.com/album/2mDvDFwJV8FnrR6eq1Hm5e) | 2:28 | 2023-10-18 |  |
 | [Vicino a te](https://open.spotify.com/track/0jyMAqJwPO3ov7Mo3vHAbb) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Vicino a te](https://open.spotify.com/album/4ytOeb0tk33w4DlIP2P4SC) | 2:26 | 2023-10-18 | 2024-09-04 |
 | [Villa Cortese](https://open.spotify.com/track/0XBYGS44lCaxUKtrjJEWtu) | [Livia Marcella](https://open.spotify.com/artist/3KwM0iGMCIBr2BJbDB8RQq) | [Villa Cortese](https://open.spotify.com/album/0Q9SFuITF91V41glxx88Dn) | 2:39 | 2024-04-22 |  |

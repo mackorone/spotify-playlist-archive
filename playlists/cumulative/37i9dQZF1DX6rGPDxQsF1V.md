@@ -4,7 +4,7 @@
 
 > <a href="spotify:playlist:37i9dQZF1DXayDMsJG9ZBv">Hot Hits Japan</a>、もしくは<a href="spotify:playlist:37i9dQZF1DXafb0IuPwJyF">Tokyo Super Hits</a>に10週以上リスト・インしたメガヒット曲をひとつのプレイリストに。Cover: Sabrina Carpenter
 
-261 songs - 15 hr 36 min
+262 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [M八七](https://open.spotify.com/track/3sFdaHo9D3hfiFt2wVi6a5) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [M八七](https://open.spotify.com/album/0QY96kqY4P5tJQaEmaE0CK) | 4:23 | 2023-01-29 | 2023-10-03 |
 | [Never Be Us](https://open.spotify.com/track/0U321yFgfVH4a1oxuvcKov) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Views from the 23rd Floor](https://open.spotify.com/album/4JBZXq2yPGAeW6AbbT0d6p) | 2:44 | 2023-01-29 |  |
 | [Never Be Us](https://open.spotify.com/track/2vsuCOAQHF1ZWVRu7cC1R0) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Views from the 23rd Floor](https://open.spotify.com/album/7pSijAxlWRpMAU7MrnCRjt) | 2:44 | 2023-11-13 | 2024-04-19 |
+| [NEW LOOK](https://open.spotify.com/track/451U7NEyfqtVefeIgSoJF0) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [NEW LOOK](https://open.spotify.com/album/0nIHweIUCe2nVy5stte3GY) | 3:16 | 2025-03-18 |  |
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-10-24 |  |
 | [NIGHT DANCER](https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [NIGHT DANCER](https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy) | 3:30 | 2023-02-15 |  |
 | [No.5](https://open.spotify.com/track/5kXmyxToZp5zMN67Pek2UV) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [No.5](https://open.spotify.com/album/7rMxnxMlaCnxSBhqYXxu3H) | 3:05 | 2025-02-06 |  |
@@ -120,7 +121,7 @@
 | [Our Style](https://open.spotify.com/track/0wQNg9hzXfuqvtFsDfFYOs) | [WILYWNKA](https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy), [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr) | [Our Style](https://open.spotify.com/album/5MOelqDl97K1GaclujEZD8) | 4:02 | 2023-01-29 | 2023-05-23 |
 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 | 2023-01-29 |  |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2023-01-29 | 2023-05-23 |
-| [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 | 2024-04-04 |  |
+| [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 | 2024-04-04 | 2025-03-19 |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-10-30 |  |
 | [Poppin' Shakin'](https://open.spotify.com/track/0jfFu1W96AlrsMqXSZZlSt) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Poppin' Shakin'](https://open.spotify.com/album/3yTEI6nQJTTHPVlFauTCsv) | 3:12 | 2023-01-29 | 2023-04-09 |
 | [Presence I](https://open.spotify.com/track/67ac4Gv6M977YUNSPY71LI) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Takako Matsu](https://open.spotify.com/artist/1UDGHCGnWyikwidtaymNpz), [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [3exes](https://open.spotify.com/artist/2VNaqz6PRTduwGnaaWgwE5) | [Presence](https://open.spotify.com/album/7phQpXC8t9cF5VbtKJx1aD) | 4:10 | 2023-01-29 | 2023-03-01 |

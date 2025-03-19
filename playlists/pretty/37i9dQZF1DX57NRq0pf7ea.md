@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57NRq0pf7ea.md) - [plain]
 
 > ¡Estos son los hits que acompañan la fiesta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,357 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,418 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

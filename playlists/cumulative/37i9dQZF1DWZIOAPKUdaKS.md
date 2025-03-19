@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-799 songs - 1 day 10 hr 37 min
+800 songs - 1 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Alchemy cubes](https://open.spotify.com/track/2LHzhExjWHuUKbccZO96h6) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Alchemy cubes](https://open.spotify.com/album/7Mv8mMwy315g5GKXYngNdH) | 2:48 | 2022-07-19 | 2024-12-18 |
 | [Alignment](https://open.spotify.com/track/3JRA65bOIayOI3nag2qqhI) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Alignment](https://open.spotify.com/album/2ak75QxRASpMwY9OLj2gSn) | 1:53 | 2022-01-04 | 2022-10-25 |
 | [All The Way](https://open.spotify.com/track/70wQ4GEaLnFb1N3x6w9DD8) | [Thane Oliverson](https://open.spotify.com/artist/0AsFKDsc3IkADjvtPBEI5k) | [All The Way](https://open.spotify.com/album/0X7ZASZKFRhy6ANYCXl3RI) | 2:41 | 2021-12-07 | 2023-04-05 |
+| [All Worth It](https://open.spotify.com/track/5EyvPgIywchbSPtcJ0V0z4) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [All Worth It](https://open.spotify.com/album/5jkl9jH5W4cXNzAWkN3Giu) | 2:07 | 2025-03-18 |  |
 | [Almonte](https://open.spotify.com/track/7zIIyNRGYpFSCtEf2SfcrL) | [Paco Ruiz](https://open.spotify.com/artist/0u9wDbPkhtpcLsufDJ4zc8) | [Almonte](https://open.spotify.com/album/5VJsgBNa4q6FyUIN3Bpvkp) | 2:31 | 2021-12-07 | 2022-11-25 |
 | [Alone in the crowd](https://open.spotify.com/track/1hYJR8FJuusobeDp9IBOs6) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Alone in the crowd](https://open.spotify.com/album/3pdsFTTSJLP66YwPMOZvSO) | 2:50 | 2024-04-03 |  |
 | [Always](https://open.spotify.com/track/1RrzJG3MHtVbgmnpFuUKG9) | [Shin Suzuma](https://open.spotify.com/artist/6a3Jke3IQZCLtEkZOjro89) | [Introspect](https://open.spotify.com/album/6AxKd6jWuhiHs5hiVPi92Y) | 3:18 | 2023-05-03 | 2024-01-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,515 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,550 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

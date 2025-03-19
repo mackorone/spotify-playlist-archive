@@ -4,7 +4,7 @@
 
 > The premier indie melancholia playlist, featuring Daniel Caesar & Rex Orange County
 
-424 songs - 1 day 4 hr 22 min
+425 songs - 1 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Fire](https://open.spotify.com/track/2QUEBOSGpKpL6bzzbQiwwo) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/04HMMwLmjkftjWy7xc6Bho) | 3:37 | 2020-08-30 | 2020-09-11 |
 | [First Love/Late Spring](https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 4:38 | 2022-08-26 |  |
 | [First Prize Bravery](https://open.spotify.com/track/6tyLrGQXuo4XW03ABP2tSr) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [First Prize Bravery](https://open.spotify.com/album/2vYjxxhVSixhbg1rxDKmsd) | 3:50 | 2019-10-26 | 2022-04-15 |
-| [Flightless Bird, American Mouth](https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Shepherd's Dog](https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX) | 4:01 | 2023-10-07 |  |
+| [Flightless Bird, American Mouth](https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Shepherd's Dog](https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX) | 4:01 | 2023-10-07 | 2025-03-19 |
 | [folks](https://open.spotify.com/track/1alJwHrE2dnC8QiTrnVDTk) | [doe bed](https://open.spotify.com/artist/1taZ0AU1T90fiyOzY0Lpbx) | [folks](https://open.spotify.com/album/63t0ENmlzHSXiCo45aRVP5) | 2:12 | 2020-08-30 | 2020-09-11 |
 | [Fourth of July](https://open.spotify.com/track/1LjVNoqN5YsWf9vGu2JzhF) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Fourth of July](https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL) | 4:39 | 2022-07-01 | 2024-09-14 |
 | [Freakin' Out On the Interstate](https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Freakin' Out On The Interstate \(Acoustic Version \[Live\]\)](https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl) | 4:11 | 2022-08-26 |  |
@@ -404,6 +404,7 @@
 | [Wasting My Young Years](https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:24 | 2019-09-29\* | 2024-09-14 |
 | [We Are Bleeding](https://open.spotify.com/track/6CvIbhqgEYxxAfVl7r2Frg) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [The Perfect Plan](https://open.spotify.com/album/2UeJbrZMJSAJ7qadAbEOuW) | 4:59 | 2020-08-30 | 2020-09-11 |
 | [We Are Nowhere and It's Now](https://open.spotify.com/track/5m2r9qnpZSWU6zRXmZlCgj) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning \(Remastered\)](https://open.spotify.com/album/4tpKgz8yC8yAgfND0BiogA) | 4:12 | 2020-08-30 | 2020-09-11 |
+| [We Hug Now](https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [We Hug Now](https://open.spotify.com/album/30h62oCDd1lhOsJibIFieh) | 4:08 | 2025-03-18 |  |
 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 | 2022-08-26 | 2024-09-14 |
 | [what can you say](https://open.spotify.com/track/6MrHbVStATMttFI6NEoaf5) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/5W6TxvIqACEfnxm0VgPhv7) | 2:28 | 2020-08-30 | 2020-09-11 |
 | [What Once Was](https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:15 | 2022-08-26 |  |

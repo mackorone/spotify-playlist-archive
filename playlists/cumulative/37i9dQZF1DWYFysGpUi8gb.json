@@ -3787,6 +3787,24 @@
     },
     {
       "album": {
+        "name": "Total euphoria",
+        "url": "https://open.spotify.com/album/4JDRogeVzmOCAaVtsdPpuv"
+      },
+      "artists": [
+        {
+          "name": "caroline",
+          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
+        }
+      ],
+      "date_added": "2025-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270205,
+      "name": "Total euphoria",
+      "url": "https://open.spotify.com/track/3yp3Hp8OzYV2IoSjYaoqff"
+    },
+    {
+      "album": {
         "name": "Trying",
         "url": "https://open.spotify.com/album/6BZuOzwSbvmWQFU6FXO1YL"
       },

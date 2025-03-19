@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV3Tk4GO2fq.md) - [plain]
 
 > The biggest songs of the 1950s\. Cover: Elvis Presley
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,832,976 likes - 150 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,833,103 likes - 150 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

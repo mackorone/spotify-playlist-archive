@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,562 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,561 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Стань](https://open.spotify.com/track/475G1r5398lgxVY7Ld7m8r) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Жить в кайф](https://open.spotify.com/album/4ktDOYU0Jual1ELFTPhFd6) | 3:08 |
 | 50 | [Lambada](https://open.spotify.com/track/2aYfXHAnWqcVkaadPi1q4H) | [N1NT3ND0](https://open.spotify.com/artist/6WI9EjCdJWcwOFFtubMrGM) | [N1NT3ND0](https://open.spotify.com/album/3SBnshLBGaxBP8V0ymihGS) | 3:25 |
 
-Snapshot ID: `L2uQIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L2zhoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

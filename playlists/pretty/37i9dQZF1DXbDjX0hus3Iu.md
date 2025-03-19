@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 
 > The early pioneers and current favorites in Southern Rock\. Cover: Lynyrd Skynyrd
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,077 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,133 likes - 100 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 20 | [Walk On Water](https://open.spotify.com/track/2PAD6vBzSjxDnmm3WB8eI9) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [I Got Your Country Right Here](https://open.spotify.com/album/0zucVZLdGmH0opcSZ6aE4q) | 3:31 |
 | 21 | [Willin'](https://open.spotify.com/track/0jMyU6bO52IYhAEoWbT4K9) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Sailin' Shoes](https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt) | 2:54 |
 | 22 | [Hold On Loosely](https://open.spotify.com/track/6hQszXJIYhtjmSTmDqZpeU) | [38 Special](https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi) | [20th Century Masters The Millennium Collection: Best of 38 Special](https://open.spotify.com/album/5gditTVu3JNE5P8T6tafiH) | 4:39 |
-| 23 | [Dreams I'll Never See](https://open.spotify.com/track/7pmQ1repUoMbViMlPrZyuD) | [Molly Hatchet](https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10) | [Molly Hatchet](https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3) | 7:06 |
-| 24 | [I'm No Angel](https://open.spotify.com/track/2Yt2u7vNSCkPUy1awRFSPV) | [Gregg Allman](https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I) | [I'm No Angel](https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe) | 3:42 |
+| 23 | [Dixie Chicken](https://open.spotify.com/track/0eTHlx53lUn95HVsJtR6Qx) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Dixie Chicken](https://open.spotify.com/album/4xtCtXkGuTbHQwTaVd5FCF) | 3:59 |
+| 24 | [Dreams I'll Never See](https://open.spotify.com/track/7pmQ1repUoMbViMlPrZyuD) | [Molly Hatchet](https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10) | [Molly Hatchet](https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3) | 7:06 |
 | 25 | [Tuesday's Gone](https://open.spotify.com/track/64sn7wgJfeQKY3Jisnl59w) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced' Leh\-'Nerd 'Skin\-'Nerd](https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs) | 7:30 |
-| 26 | [Dixie Chicken](https://open.spotify.com/track/0eTHlx53lUn95HVsJtR6Qx) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Dixie Chicken](https://open.spotify.com/album/4xtCtXkGuTbHQwTaVd5FCF) | 3:59 |
+| 26 | [I'm No Angel](https://open.spotify.com/track/2Yt2u7vNSCkPUy1awRFSPV) | [Gregg Allman](https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I) | [I'm No Angel](https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe) | 3:42 |
 | 27 | [Keep On Smilin'](https://open.spotify.com/track/6sHrxsewgTMPs2Di4x636C) | [Wet Willie](https://open.spotify.com/artist/6fzgnTv8gVkfFhA6V8Qdsh) | [Keep On Smilin'](https://open.spotify.com/album/1795bIZgqJOLkUh2d0JO60) | 3:57 |
 | 28 | [There Goes Another Love Song](https://open.spotify.com/track/5jKdSZtw2yst6FzDJ4yvEV) | [The Outlaws](https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9) | [The Outlaws](https://open.spotify.com/album/5NR8rq89bfEMA7JJGzfFkp) | 3:04 |
 | 29 | [Highway Song](https://open.spotify.com/track/0R5nPSbAqQoNjKBByWnN95) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Strikes](https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM) | 7:30 |

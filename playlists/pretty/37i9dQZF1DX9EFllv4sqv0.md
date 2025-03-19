@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EFllv4sqv0.md) - [plain]
 
 > Level up your gaming with these afro tracks\. Cover: Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,546 likes - 69 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,607 likes - 69 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

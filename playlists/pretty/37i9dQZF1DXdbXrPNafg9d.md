@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Feeble Little Horse
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,290,888 likes - 175 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,290,908 likes - 175 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

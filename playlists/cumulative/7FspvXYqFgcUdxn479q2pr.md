@@ -4,7 +4,7 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover:  Joshwa
 
-456 songs - 22 hr 27 min
+457 songs - 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Animal \(R3HAB VIP Remix\)](https://open.spotify.com/track/3K25KGPo19Sa9PGaaHXj1E) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Animal \(with Jason Derulo\) \[R3HAB VIP Remix\]](https://open.spotify.com/album/6DES4HtkY6IHlsHFSf4dff) | 2:35 | 2024-06-07 | 2024-06-15 |
 | [Another Season Alone](https://open.spotify.com/track/68KuCs163Mp4z6O3CD7TrY) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Another Season Alone](https://open.spotify.com/album/4h3gqt64QYaWexOPgsufP8) | 3:12 | 2024-10-10 | 2024-10-25 |
 | [Arrival](https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Arrival](https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww) | 3:24 | 2025-01-30 |  |
+| [Back To Life](https://open.spotify.com/track/1FA0Adwe8FnRNpja1KYyT5) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Back To Life](https://open.spotify.com/album/4rTrhYf2Z7DZG91fQstCkW) | 3:33 | 2025-03-18 |  |
 | [Bad Boy For Life](https://open.spotify.com/track/21svQEALLlrbJNYeRxMeWg) | [Vasovski Live](https://open.spotify.com/artist/2tDYKg6IgydH7HnIdEz0v7) | [Bad Boy for Life](https://open.spotify.com/album/0ffRbCgRegpS6ucR1MBTcE) | 2:08 | 2024-06-10 | 2024-06-15 |
 | [Bad Boys](https://open.spotify.com/track/0JPcvd0v324wxse9XhvT7a) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Alex O'Clock](https://open.spotify.com/artist/2K91we4sYTdu2m0nRdO940) | [Bad Boys](https://open.spotify.com/album/1h91E7DWJbcg7YVuCmXReC) | 2:16 | 2024-05-16 | 2024-05-24 |
 | [Bala \(feat\. Flori del Pino\)](https://open.spotify.com/track/0bqaziJFioJtEWzBx3VYlD) | [Gianluca Vacchi](https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ), [Flori del Pino](https://open.spotify.com/artist/1OsGGctJwvyAI3zB2MAU8V) | [Bala \(feat\. Flori del Pino\)](https://open.spotify.com/album/5rQ430QJCz7yrEn1s6T1rZ) | 2:55 | 2024-05-10 | 2024-05-17 |
@@ -218,7 +219,7 @@
 | [Interstellar](https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Interstellar](https://open.spotify.com/album/2ho3nPmkmeKJkpJkT3tU9A) | 3:51 | 2024-11-28 | 2025-01-04 |
 | [Iris](https://open.spotify.com/track/604csdosSsu81iT1E1MsVx) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE) | [Iris](https://open.spotify.com/album/3ZZzYMQiFBrAq1rgtjfBKP) | 2:54 | 2024-08-23 | 2024-08-31 |
 | [It Ain't Safe](https://open.spotify.com/track/6lAYlIYhPgHw6cXkxAmiJg) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Tavatli](https://open.spotify.com/artist/1B8akzCypOte40Fscvj968) | [It Ain't Safe](https://open.spotify.com/album/6HQwDAc3znaAWHtuMVhB7E) | 3:47 | 2024-06-28 | 2024-07-05 |
-| [It’s Not You It’s Me](https://open.spotify.com/track/0ldXe2ULoYmo3rOVDNqv8f) | [Solven](https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd) | [It’s Not You It’s Me](https://open.spotify.com/album/33DT8RcrU5J6JDHCrHlHyU) | 2:49 | 2025-03-14 |  |
+| [It's Not You, It's Me](https://open.spotify.com/track/0ldXe2ULoYmo3rOVDNqv8f) | [Solven](https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd) | [It's Not You, It's Me](https://open.spotify.com/album/33DT8RcrU5J6JDHCrHlHyU) | 2:49 | 2025-03-14 |  |
 | [Jevlis Ka \(feat\. FeniFina\)](https://open.spotify.com/track/5h2C8tsq6rhFI1pTj3x9Yl) | [Kratex](https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo), [FeniFina](https://open.spotify.com/artist/0uqWIFMdje9foFYABNOuAQ) | [Jevlis Ka \(feat\. FeniFina\)](https://open.spotify.com/album/4pxGewcE2di5jSngWCMeej) | 2:30 | 2025-02-20 |  |
 | [Jump](https://open.spotify.com/track/5rX7lQzWSk3b6RA5FNcEVc) | [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o) | [Jump](https://open.spotify.com/album/3ecDkFlkQ4Ehu48eFfaCiN) | 3:04 | 2025-02-13 |  |
 | [June](https://open.spotify.com/track/1xfj8i1OvEhqJmWncOV2d5) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb) | [June](https://open.spotify.com/album/5R8lqTv6VUfTgPyuA3vScp) | 2:43 | 2024-04-26 | 2024-06-08 |

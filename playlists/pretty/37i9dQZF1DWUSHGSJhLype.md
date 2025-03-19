@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: DG e Batidão Stronda, J\. Eskine, Mc Davi, MC G15
 
-[Spotify](https://open.spotify.com/user/spotify) - 651,126 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 651,363 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

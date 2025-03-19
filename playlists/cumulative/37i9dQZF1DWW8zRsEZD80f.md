@@ -4,13 +4,13 @@
 
 > Sácale provecho a este tiempo en casa\. Encuentra contenido de educación y entretenimiento para niños.
 
-10 songs - 1 hr 18 min
+10 songs - 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [BINGO Y PEPINILLOS](https://open.spotify.com/episode/6R7yIeVIM7AWvWu4jJu50l) | [Las Nuevas Historias de CoComelon](https://open.spotify.com/show/7DCKChFDBfsMVe7s9OegAV) | [Las Nuevas Historias de CoComelon](https://open.spotify.com/album/7DCKChFDBfsMVe7s9OegAV) | 6:25 | 2023-04-03 |  |
 | [Cuento infantil: Día negro en el fondo del mar\- Parte 1\- Temporada 16\- Episodio 1](https://open.spotify.com/episode/1iRXXD9RxmGr0dyhWTn0mc) | [Cuentos infantiles con La Tía Botas](https://open.spotify.com/show/23IncSoqzftrCB1Cn2q05A) | [Cuentos infantiles con La Tía Botas](https://open.spotify.com/album/23IncSoqzftrCB1Cn2q05A) | 17:49 | 2023-04-03 |  |
-| [Danilo tiene visitas \| Veterinario \| Profesiones Asombrosas \| Cuentos para niños](https://open.spotify.com/episode/1hGP0DEMX6qMbinxx6JBoi) | [Cuentos Increíbles](https://open.spotify.com/show/5E34gr7EYqEuBxJLjpRVNv) | [Cuentos Increíbles](https://open.spotify.com/album/5E34gr7EYqEuBxJLjpRVNv) | 8:06 | 2023-04-03 |  |
+| [Danilo tiene visitas \| Veterinario \| Profesiones Asombrosas \| Cuentos para niños](https://open.spotify.com/episode/1hGP0DEMX6qMbinxx6JBoi) | [Cuentos Increíbles](https://open.spotify.com/show/5E34gr7EYqEuBxJLjpRVNv) | [Cuentos Increíbles](https://open.spotify.com/album/5E34gr7EYqEuBxJLjpRVNv) | 7:36 | 2023-04-03 |  |
 | [El Monstruo de las Faltas](https://open.spotify.com/episode/1Psk9SIiel40n91asil9Sy) | [Pequehistorias](https://open.spotify.com/show/6KO9n0r0kheSTuc7VJ6s9N) | [Pequehistorias](https://open.spotify.com/album/6KO9n0r0kheSTuc7VJ6s9N) | 4:59 | 2023-04-03 |  |
 | [Fruits & Vegetables](https://open.spotify.com/episode/3SakcmNMj9JuM0iZ4ck9Gg) | [Mi Loco Profesor de Inglés](https://open.spotify.com/show/4TrXjBqH968z6HWrMIVo03) | [Mi Loco Profesor de Inglés](https://open.spotify.com/album/4TrXjBqH968z6HWrMIVo03) | 7:03 | 2023-04-03 |  |
 | [La Margarita enamorada, cuento para niños](https://open.spotify.com/episode/3SdfzOSHYw4eduSV9Sp2u9) | [Cuentos para el Alma, pequeñas grandes historias...](https://open.spotify.com/show/2kTGtxzzzOppOzw0EfeAlG) | [Cuentos para el Alma, pequeñas grandes historias...](https://open.spotify.com/album/2kTGtxzzzOppOzw0EfeAlG) | 2:41 | 2023-04-03 |  |

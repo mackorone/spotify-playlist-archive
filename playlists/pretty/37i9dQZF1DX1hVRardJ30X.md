@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Aitana & Myke Towers, Peso Pluma,  Maria Becerra, Anitta and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,756 likes - 52 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,778 likes - 52 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

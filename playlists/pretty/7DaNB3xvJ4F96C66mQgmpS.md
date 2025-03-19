@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 
 > Hip Hop workout hits to get your mental right and blood pumping\. Soundtrack your workout with heavy\-hitting bangers from Kendrick Lamar, Offset, Travis Scott, Drake and more!  High Energy Rap \| Hip Hop Workout \| Rap Bangers \| Rap Workout
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 86,264 likes - 109 songs - 5 hr 59 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 86,263 likes - 109 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 | 108 | [The Grinch](https://open.spotify.com/track/1W24W6jQegnNh0x5DfBBPT) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 4](https://open.spotify.com/album/0tKX7BLXiiRgXUKYdJzjEz) | 1:31 |
 | 109 | [SO WHAT \(FEAT\. DC THE DON\)](https://open.spotify.com/track/6fdxpwerepfYpTCjchuP5J) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [LOST IN HERE](https://open.spotify.com/album/4URIzfA3qieoUfUmBRTwFS) | 3:02 |
 
-Snapshot ID: `AAAKdIwLu4PpVDVLSC4NAlOUaNHLvgtH`
+Snapshot ID: `AAAKecVbodgSq7yXXfBYEk6D6CjSZdq/`

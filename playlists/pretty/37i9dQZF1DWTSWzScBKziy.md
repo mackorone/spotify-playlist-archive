@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > All new Contemporary Christian songs on the rise! Cover: Dan Bremnes
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,147 likes - 85 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,172 likes - 85 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 3 | [God Shows Up](https://open.spotify.com/track/61YmoYlzwA2qR8uaMYsr77) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [God Shows Up](https://open.spotify.com/album/6gDaH2oBvUsvcl3hTtrRjz) | 3:05 |
 | 4 | [Can't Help But Praise \- Acoustic](https://open.spotify.com/track/4q1YjQtBrnUghS2eq0rRoM) | [Jordan Colle](https://open.spotify.com/artist/5ZWnENjJ3uHA9fyKeUBvH1) | [Can't Help But Praise](https://open.spotify.com/album/1tZ8t1azZS4BzGJZED2NlN) | 3:44 |
 | 5 | [Man of the Valley 2025](https://open.spotify.com/track/0zZZG6uLUv4zE3cCsrEInN) | [John Waller](https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL), [Sophee Waller](https://open.spotify.com/artist/3ahmnB1cPV3cBRP0WX0Asf) | [Man of the Valley 2025](https://open.spotify.com/album/0QDAEmUwbLWXtGCZTZWPNv) | 4:16 |
-| 6 | [You Are](https://open.spotify.com/track/5Z0KDq0pU1hm8KsT6NnAcy) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy), [Cecily Hennigan](https://open.spotify.com/artist/3zYhPKXlVf8jlSHqlpiqWh) | [Songs We've Been Meaning To Release](https://open.spotify.com/album/0tPpIgGuLCnWJO75ynrLUt) | 3:23 |
+| 6 | [You Are](https://open.spotify.com/track/5Z0KDq0pU1hm8KsT6NnAcy) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Songs We've Been Meaning To Release](https://open.spotify.com/album/0tPpIgGuLCnWJO75ynrLUt) | 3:23 |
 | 7 | [Call Your Name](https://open.spotify.com/track/6DF7bbGc7yDdOjUhCULMud) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Call Your Name](https://open.spotify.com/album/4vaSuASnMqTwnG8wIAfAPg) | 3:06 |
 | 8 | [Better Yet](https://open.spotify.com/track/09B7bzzmF8nWZnBlyWO6cE) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Still Waters \(Deluxe\)](https://open.spotify.com/album/7pQOANzJHd49X22IgJvjIf) | 3:10 |
 | 9 | [Overthinking](https://open.spotify.com/track/7BeFiQEFwd0KPuBNrYJK5M) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Overthinking](https://open.spotify.com/album/2Rctwsyq7hUCJ20mAFW6KH) | 3:24 |

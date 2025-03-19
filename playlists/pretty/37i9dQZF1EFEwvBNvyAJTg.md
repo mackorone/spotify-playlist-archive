@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76 likes - 218 songs - 11 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 77 likes - 218 songs - 11 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -201,8 +201,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 191 | [Heartslap](https://open.spotify.com/track/4K81soo8r8lpB711m7E0ze) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [Mykal Kilgore](https://open.spotify.com/artist/0YO1x9lk7UJdHjR16lC23F) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 3:09 |
 | 192 | [Nobody but You](https://open.spotify.com/track/3xc9WGY2CSKSxjY7YhVnEl) | [Nadeah](https://open.spotify.com/artist/0aTt9pxnOoozI8UoyJ7jSc) | [Venus Gets Even \(International Version\)](https://open.spotify.com/album/0Nyk48bnfHK6KEgQ1a1SjP) | 5:43 |
 | 193 | [Invisible Girl](https://open.spotify.com/track/3JLsOYOM8yuEuOSzdE7p6k) | [Gabriella Cilmi](https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE) | [Ten](https://open.spotify.com/album/7mFPFmUxUnFh4HhL97ff0z) | 3:33 |
-| 194 | [Are We Gonna Play?](https://open.spotify.com/track/53AjjgxI3plxw34vGwpr1H) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Finding Neverland The Album \(Songs From The Broadway Musical\)](https://open.spotify.com/album/69grMvq7lgEuogl6YdpnBW) | 2:48 |
-| 195 | [Confession](https://open.spotify.com/track/1RrEqGeTBHbT1TBxzmgCLb) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confession](https://open.spotify.com/album/66wBAMjEf5TUHLDvoN8hqK) | 3:21 |
+| 194 | [Confession](https://open.spotify.com/track/1RrEqGeTBHbT1TBxzmgCLb) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confession](https://open.spotify.com/album/66wBAMjEf5TUHLDvoN8hqK) | 3:21 |
+| 195 | [Are We Gonna Play?](https://open.spotify.com/track/53AjjgxI3plxw34vGwpr1H) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Finding Neverland The Album \(Songs From The Broadway Musical\)](https://open.spotify.com/album/69grMvq7lgEuogl6YdpnBW) | 2:48 |
 | 196 | [Trapped In The Car](https://open.spotify.com/track/5MxTZtqUmFkrpYREy81x6V) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Lost But Found](https://open.spotify.com/album/0K9YYtCyU5ePduZcnwdN2H) | 2:46 |
 | 197 | [Sweet Release](https://open.spotify.com/track/6slHYtUdsRou97ZKllTF2w) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 3:08 |
 | 198 | [TEST YOU](https://open.spotify.com/track/0cNCZ2X0ckWZYxD1sjhnWI) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [IT'S NOT ABOUT YOU NO MORE](https://open.spotify.com/album/53GNAJjBMwGNXcIX5ps6Iy) | 2:46 |
@@ -227,4 +227,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 217 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
 | 218 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `AbsU6AAAAADOB/VHVai4NG9IHulIbsrQ`
+Snapshot ID: `AbsafgAAAADVCMDErkvBnkUPNc/yHLLc`

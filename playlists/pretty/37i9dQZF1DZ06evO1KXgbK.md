@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 
 > This is Dolly Parton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,576 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,593 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 23 | [Friends!](https://open.spotify.com/track/7ede53DnquX0WWavwWE7QH) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Friends!](https://open.spotify.com/album/71brFMV2wvwbfIoWvSMDzG) | 2:29 |
 | 24 | [My Tennessee Mountain Home](https://open.spotify.com/track/6rQlfR31QLNCBrq0no1Qc2) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [My Tennessee Mountain Home](https://open.spotify.com/album/6q8iUpZY2133bBWl0KITcp) | 3:07 |
 | 25 | [Jolene \(feat\. Dolly Parton\)](https://open.spotify.com/track/4i8xlL0EqaSj9piUVUOQQO) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [PTX Vol\. IV \- Classics](https://open.spotify.com/album/00JpoY0ZaQRXTNJUruibfX) | 2:11 |
-| 26 | [After the Gold Rush \- 2015 Remaster](https://open.spotify.com/track/22GKOoU7q9YGhaedUzhlpT) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio II \(2016 Remaster\)](https://open.spotify.com/album/6exPHeQxJirI2kkgLss9d7) | 3:31 |
-| 27 | [Two Doors Down](https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Here You Come Again](https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr) | 3:08 |
+| 26 | [Two Doors Down](https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Here You Come Again](https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr) | 3:08 |
+| 27 | [After the Gold Rush \- 2015 Remaster](https://open.spotify.com/track/22GKOoU7q9YGhaedUzhlpT) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio II \(2016 Remaster\)](https://open.spotify.com/album/6exPHeQxJirI2kkgLss9d7) | 3:31 |
 | 28 | [Night Moves](https://open.spotify.com/track/4Zk5JSZklL3yIT6J5n9j9t) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Rockstar \(Deluxe\)](https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN) | 5:39 |
 | 29 | [God Only Knows \(with Dolly Parton\)](https://open.spotify.com/track/34n8xD9eHSdpwIGffhSLvW) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [God Only Knows \(with Dolly Parton\)](https://open.spotify.com/album/1gpKIhj9oqbjJIDMvZhAdF) | 3:33 |
 | 30 | [Love Is Like a Butterfly](https://open.spotify.com/track/7d4hiv8TcJ2vx9BjSxqvj8) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Love Is Like a Butterfly](https://open.spotify.com/album/3MLoZC9rEBvyA2zLKBNYxT) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 49 | [I Will Always Love You](https://open.spotify.com/track/3wTEtCLPMrXkw2bovFIVNO) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Songs of Cinema](https://open.spotify.com/album/7I6nVGkWC7IUrgyaMZiHUw) | 3:36 |
 | 50 | [It Wasn't God Who Made Honky Tonk Angels](https://open.spotify.com/track/0zUXyDr4tSc7iSfdX7Zjtd) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id), [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Honky Tonk Angels](https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w) | 2:51 |
 
-Snapshot ID: `Z9YUgAAAAAB4U5MuZyYgdVQdZRMtzahB`
+Snapshot ID: `Z9dmAAAAAACokFIcom/XarvacKRNpYpC`

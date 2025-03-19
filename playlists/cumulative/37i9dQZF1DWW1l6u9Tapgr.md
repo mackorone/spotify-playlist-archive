@@ -4,7 +4,7 @@
 
 > 3月19日\(水\)にSpotify O\-EASTにて開催される<a href="https://spotify\-earlynoise.jp/">Spotify Early Noise Night \#17</a>出演アーティストを特集！
 
-196 songs - 11 hr 1 min
+198 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Inori](https://open.spotify.com/track/2q8CAa5H8Bih1zWvwzAglO) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [Sea of Love](https://open.spotify.com/album/6X7MO86uhjtTrUI4HbwYHA) | 3:30 | 2024-05-16 | 2024-08-18 |
 | [July](https://open.spotify.com/track/4cs68fKzmJPTerjUvumIGl) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [MAKTUB](https://open.spotify.com/album/1VJhOQJIMs0eARPnI2UTyr) | 3:32 | 2024-08-18 | 2025-01-10 |
 | [Kick Up \(feat\. ralph\)](https://open.spotify.com/track/4aZpjruA4GGvDNH9XwXaXc) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Kick Up \(feat\. ralph\)](https://open.spotify.com/album/0VTOiRW8jyQiTFXZP8fcsT) | 3:07 | 2024-08-18 | 2025-01-10 |
-| [Kids](https://open.spotify.com/track/5dhMEDu00uyzUxm17ISNaZ) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [Kids](https://open.spotify.com/album/58XUjSZ9pcuH3PaiMiijIl) | 3:03 | 2025-01-09 |  |
+| [Kids](https://open.spotify.com/track/5dhMEDu00uyzUxm17ISNaZ) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [Kids](https://open.spotify.com/album/58XUjSZ9pcuH3PaiMiijIl) | 3:03 | 2025-01-09 | 2025-03-19 |
 | [Kids Return](https://open.spotify.com/track/3JNBBQwg73CyGP1kbtkhZI) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [DJ SCRATCH NICE](https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY) | [Kids Return](https://open.spotify.com/album/3sG9iKn22dJKaTX2ZohHmf) | 3:13 | 2024-05-16 | 2025-01-10 |
 | [LAZY](https://open.spotify.com/track/2GKKJHU9FwZRiVv5upPszO) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [GENE](https://open.spotify.com/album/02YMpTWtl4ZYGwyDtDpSKl) | 3:40 | 2024-08-18 | 2025-01-10 |
 | [LAZY](https://open.spotify.com/track/4hOX56ThfbrHQyNfBisB92) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [LAZY](https://open.spotify.com/album/0OCm5RpB0BYQhrYpH3unft) | 3:45 | 2024-05-16 | 2024-08-18 |
@@ -106,6 +106,7 @@
 | [SUNSET \(feat\. IO & Yo\-Sea\)](https://open.spotify.com/track/5XAasKwKOjFVG7BUkOagLc) | [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [AQUA](https://open.spotify.com/album/15kFXzYhN3UFMdpU5umEB4) | 2:41 | 2024-08-18 | 2025-01-10 |
 | [Super Ball](https://open.spotify.com/track/6eh0kyNpZlmJbtMb1mLHTo) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [TWO MOON](https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa) | 3:23 | 2024-05-16 | 2025-01-10 |
 | [TEENAGE VIBE feat\. Tohji](https://open.spotify.com/track/5k59SQn3GJ0FgDsDzeOnLH) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [DISTORTION](https://open.spotify.com/album/2nKHK0XJNGksRIFK4xnaBI) | 2:37 | 2024-05-16 | 2024-08-18 |
+| [The End of the F\*\*\*ing World](https://open.spotify.com/track/3QjiZvyA3BEVKOldWbwgvS) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [The End of the F\*\*\*ing World](https://open.spotify.com/album/0QE8Ni8QuDwINxg4bjPZIS) | 4:04 | 2025-03-18 |  |
 | [Time is Over](https://open.spotify.com/track/0wSJH37VmqSMJdh1ns6dCI) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Time is Over](https://open.spotify.com/album/5CXHvXpRQlU0h0smVuJUpc) | 3:24 | 2025-01-23 |  |
 | [Time is Over](https://open.spotify.com/track/4sY67ZLLwkuh5wn5sdwRHa) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Time is Over](https://open.spotify.com/album/71M79kQeKxgOCS7zNLOsR7) | 3:24 | 2025-01-09 | 2025-01-24 |
 | [TOMODACHI](https://open.spotify.com/track/2mzr4sHf6Yj2RGnXeh2hHV) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [ロンリーパラドックス](https://open.spotify.com/album/4KadXvqLOsB4WUCHzleYFV) | 4:08 | 2025-01-09 |  |
@@ -175,7 +176,7 @@
 | [天使](https://open.spotify.com/track/4DUGFp2Psn92CCCZTZGSES) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [ANTI BLUE](https://open.spotify.com/album/2GMgfddCOMg5kioJOUth2C) | 4:07 | 2024-08-18 | 2025-01-10 |
 | [幾億光年](https://open.spotify.com/track/56BC0IdIow3PdAhPeci36H) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/0rBEgMduJWpRUxqJ58miU3) | 4:36 | 2024-08-18 | 2025-01-10 |
 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 | 2024-05-16 | 2024-08-19 |
-| [弾きこもり](https://open.spotify.com/track/07D4dLAReaGI2X6fQYbOGK) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [AKASAKI \- 2024](https://open.spotify.com/album/72Y5bHjwM0AJQG2zfkhaLX) | 2:59 | 2025-01-09 |  |
+| [弾きこもり](https://open.spotify.com/track/07D4dLAReaGI2X6fQYbOGK) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [AKASAKI \- 2024](https://open.spotify.com/album/72Y5bHjwM0AJQG2zfkhaLX) | 2:59 | 2025-01-09 | 2025-03-19 |
 | [心](https://open.spotify.com/track/4gPnGHTxsWl4Y3ki5syQR7) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [OMSB](https://open.spotify.com/artist/69qFe6XoI53jVctgtSug7d) | [MAKTUB](https://open.spotify.com/album/1VJhOQJIMs0eARPnI2UTyr) | 3:46 | 2024-05-16 | 2024-08-18 |
 | [悪夢のような](https://open.spotify.com/track/56OS3wtq9IiVDiO0hW1yKm) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような1週間](https://open.spotify.com/album/0LnARpfUs0NQ94beJ9jAC9) | 4:19 | 2025-01-09 |  |
 | [惑星](https://open.spotify.com/track/2xifiMVguiMdv7b42sWFCN) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [惑星](https://open.spotify.com/album/5GPaYEIdlA6ozkFDrz34Zx) | 3:36 | 2024-05-16 | 2024-08-18 |
@@ -187,6 +188,7 @@
 | [波まかせ](https://open.spotify.com/track/37TzRnbrNNpN0mHR40oe8B) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [AKASAKI \- 2024](https://open.spotify.com/album/72Y5bHjwM0AJQG2zfkhaLX) | 3:28 | 2025-01-09 |  |
 | [渦幕](https://open.spotify.com/track/7pcTevAQGcz4HxeyXDKkRg) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [渦幕](https://open.spotify.com/album/0RpAonftWJz2XX5Rrlc8TK) | 4:09 | 2024-08-18 | 2025-01-10 |
 | [焦動](https://open.spotify.com/track/5jMhr5mbqgytUnPZBcHNmr) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [焦動](https://open.spotify.com/album/3yMtqQIh5pHTIobXvrWxCo) | 4:05 | 2025-01-09 |  |
+| [爆速論理ness](https://open.spotify.com/track/3JT0OG84nHM2wjomQRwgiR) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [爆速論理ness](https://open.spotify.com/album/7bFYDEEKvOPkOft06Tvf8L) | 2:32 | 2025-03-18 |  |
 | [独歩](https://open.spotify.com/track/2ot9zW8vWnJWdnMv7l2pHW) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [ロンリーパラドックス](https://open.spotify.com/album/4KadXvqLOsB4WUCHzleYFV) | 3:14 | 2025-01-09 |  |
 | [眩しい、眩しすぎる](https://open.spotify.com/track/0GgTd7vT5PgAmLhNl49i9k) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:52 | 2024-08-18 | 2025-01-10 |
 | [私小説](https://open.spotify.com/track/7MUWSFvkTSMsLR6XAPksUZ) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc) | 4:12 | 2024-08-18 | 2025-01-10 |
