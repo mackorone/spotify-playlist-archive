@@ -1,4 +1,4 @@
-## Playlists \(8446\)
+## Playlists \(8447\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -16,6 +16,7 @@
 - [\#SundayFunday](/playlists/pretty/5cdRxEiQmawJaraYYEF7Di.md)
 - [\#hopecore](/playlists/pretty/37i9dQZF1DXb6ejV2Sv22Q.md)
 - [\#vainsuomihitit](/playlists/pretty/37i9dQZF1DWUvzPS8uIABd.md)
+- [$](/playlists/pretty/4J7RnCQEJNeM4wxdjV76tM.md)
 - [&ME's DJ Mix](/playlists/pretty/37i9dQZF1DWZBkF7fHyaoI.md)
 - [&ME's track IDs](/playlists/pretty/37i9dQZF1DXdf6bvyXShR3.md)
 - ['80s All Lined Up](/playlists/pretty/37i9dQZF1DXbB7yFaZiAQX.md)
