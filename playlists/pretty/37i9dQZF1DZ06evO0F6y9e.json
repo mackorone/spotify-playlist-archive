@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1025892,
+  "num_followers": 1026001,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAABVV/L03bdVvZXD9TSTa4rJ",
+  "snapshot_id": "Z9i3gAAAAAAA9NvsnvupPl07fwMnJtYu",
   "tracks": [
     {
       "added_at": null,
@@ -335,26 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hablando Claro (En Vivo)",
-        "url": "https://open.spotify.com/album/1EoAsDmaX09sqmujjiLSGD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 190671,
-      "name": "Hablando Claro (En Vivo)",
-      "url": "https://open.spotify.com/track/0LRjxh137biMdqdPVH3PBv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00fasica Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 232573,
       "name": "M\u00fasica Rom\u00e1ntica",
       "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hablando Claro (En Vivo)",
+        "url": "https://open.spotify.com/album/1EoAsDmaX09sqmujjiLSGD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 190671,
+      "name": "Hablando Claro (En Vivo)",
+      "url": "https://open.spotify.com/track/0LRjxh137biMdqdPVH3PBv"
     },
     {
       "added_at": null,
@@ -558,11 +558,15 @@
         {
           "name": "Los Tucanes De Tijuana",
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "Tapy Quintero",
+          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
         }
       ],
-      "duration_ms": 172898,
-      "name": "Tus Verdades (En Vivo)",
-      "url": "https://open.spotify.com/track/15Y1KUm93ke9daK1JlqsjM"
+      "duration_ms": 166720,
+      "name": "Las Heladas (En Vivo)",
+      "url": "https://open.spotify.com/track/49sWgJFx6kdGSqejVZrF6C"
     },
     {
       "added_at": null,
@@ -634,15 +638,11 @@
         {
           "name": "Los Tucanes De Tijuana",
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        },
-        {
-          "name": "Tapy Quintero",
-          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
         }
       ],
-      "duration_ms": 166720,
-      "name": "Las Heladas (En Vivo)",
-      "url": "https://open.spotify.com/track/49sWgJFx6kdGSqejVZrF6C"
+      "duration_ms": 172898,
+      "name": "Tus Verdades (En Vivo)",
+      "url": "https://open.spotify.com/track/15Y1KUm93ke9daK1JlqsjM"
     },
     {
       "added_at": null,

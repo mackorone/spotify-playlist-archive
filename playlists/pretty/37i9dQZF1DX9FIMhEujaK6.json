@@ -1,6 +1,6 @@
 {
   "description": "The ultimate chilled soundtrack to bring your day to a close.",
-  "num_followers": 508449,
+  "num_followers": 508726,
   "original_name": "Ibiza Sunset",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-09-12 17:04:48",
       "album": {
+        "name": "Pastoral",
+        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 220630,
+      "name": "Pastoral",
+      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
+    },
+    {
+      "added_at": "2024-09-12 17:04:48",
+      "album": {
         "name": "Complicated (with Fridayy)",
         "url": "https://open.spotify.com/album/5Bp70oIMy6xDdm1GRjSxU3"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 270545,
       "name": "Complicated (with Fridayy)",
       "url": "https://open.spotify.com/track/59AY7LaU5NR62aJNqtYSyJ"
-    },
-    {
-      "added_at": "2024-09-12 17:04:48",
-      "album": {
-        "name": "Pastoral",
-        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 220630,
-      "name": "Pastoral",
-      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
     },
     {
       "added_at": "2024-09-12 17:04:48",
@@ -747,18 +747,22 @@
     {
       "added_at": "2024-09-12 17:04:48",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/6vYmmB9HVm8dYgHePsit3J"
+        "name": "Talking Like That",
+        "url": "https://open.spotify.com/album/6NgQBkhn7gc9tcxdsORlgi"
       },
       "artists": [
         {
-          "name": "Archie Holmes",
-          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "EMME",
+          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
         }
       ],
-      "duration_ms": 152322,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/5cBl0sH659FIDNoAY7BDe7"
+      "duration_ms": 231014,
+      "name": "Talking Like That",
+      "url": "https://open.spotify.com/track/2mO6cLDxTnT9NVnQ6iVfVF"
     },
     {
       "added_at": "2024-09-12 17:04:48",
@@ -783,22 +787,18 @@
     {
       "added_at": "2024-09-12 17:04:48",
       "album": {
-        "name": "Talking Like That",
-        "url": "https://open.spotify.com/album/6NgQBkhn7gc9tcxdsORlgi"
+        "name": "Better",
+        "url": "https://open.spotify.com/album/6vYmmB9HVm8dYgHePsit3J"
       },
       "artists": [
         {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        },
-        {
-          "name": "EMME",
-          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
+          "name": "Archie Holmes",
+          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
         }
       ],
-      "duration_ms": 231014,
-      "name": "Talking Like That",
-      "url": "https://open.spotify.com/track/2mO6cLDxTnT9NVnQ6iVfVF"
+      "duration_ms": 152322,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/5cBl0sH659FIDNoAY7BDe7"
     },
     {
       "added_at": "2024-09-12 17:04:48",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-09-12 17:04:48",
       "album": {
-        "name": "Most Perfect People (Are Mostly Not Perfect)",
-        "url": "https://open.spotify.com/album/6K7WuxpOo0zujnk4lJ23SY"
-      },
-      "artists": [
-        {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Most Perfect People (Are Mostly Not Perfect)",
-      "url": "https://open.spotify.com/track/6xTyX0WLjYpm5iZP1DJwvS"
-    },
-    {
-      "added_at": "2024-09-12 17:04:48",
-      "album": {
         "name": "Indigo EP",
         "url": "https://open.spotify.com/album/4J4yF6eBnLo7w9NXu0S0TM"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 372897,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/0riJCeCbLqBwoVSnG3FMXM"
+    },
+    {
+      "added_at": "2024-09-12 17:04:48",
+      "album": {
+        "name": "Most Perfect People (Are Mostly Not Perfect)",
+        "url": "https://open.spotify.com/album/6K7WuxpOo0zujnk4lJ23SY"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Most Perfect People (Are Mostly Not Perfect)",
+      "url": "https://open.spotify.com/track/6xTyX0WLjYpm5iZP1DJwvS"
     },
     {
       "added_at": "2024-09-12 17:04:48",

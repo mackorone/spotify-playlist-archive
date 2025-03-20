@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-577 songs - 1 day 18 hr 27 min
+578 songs - 1 day 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Achinkad](https://open.spotify.com/track/6KiS9YtjvBEr96wazaVfO4) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Aboogi](https://open.spotify.com/album/3h6QffNxkTZPEPFzBqyTUk) | 4:16 | 2023-12-15 | 2024-04-19 |
 | [Achinkad](https://open.spotify.com/track/7eArOOr6p5TiYNGH6jHALx) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Aboogi](https://open.spotify.com/album/4HtjxGyTwAPzU8nrg4BGtw) | 4:16 | 2023-07-10 | 2024-05-08 |
 | [Acosadora \- Radio Edit](https://open.spotify.com/track/1CppY4y3oYEv6NIC4w9irf) | [La Misa Negra](https://open.spotify.com/artist/0Q6BYEUIIzKDzxFd4sRD8h) | [La Misa Negra](https://open.spotify.com/album/16j4GvZ0iM29F0eyRjwQD6) | 3:52 | 2023-07-10 | 2024-04-19 |
-| [Acredita No Véio \(Listen To The Old Man\)](https://open.spotify.com/track/0RSiFen1SUT1zJKNR5GD8K) | [Pelé](https://open.spotify.com/artist/6Jl5aPUnvKIHTvwlz75CcO), [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Acredita No Véio \(Listen to the Old Man\)](https://open.spotify.com/album/1oAlMjCrX96EszL3w9bjBR) | 3:34 | 2024-03-08 |  |
+| [Acredita No Véio \(Listen To The Old Man\)](https://open.spotify.com/track/0RSiFen1SUT1zJKNR5GD8K) | [Pelé](https://open.spotify.com/artist/6Jl5aPUnvKIHTvwlz75CcO), [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Acredita No Véio \(Listen to the Old Man\)](https://open.spotify.com/album/1oAlMjCrX96EszL3w9bjBR) | 3:34 | 2024-03-08 | 2025-03-20 |
 | [Adwa](https://open.spotify.com/track/3tPU9qd7xkzgDpKvqEd1eG) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/5GgdFrmouCR0Ud5Ag7IC8H) | 5:56 | 2023-07-10 | 2024-04-19 |
 | [Adwa](https://open.spotify.com/track/71NAxmG4jKuNV83yFGyShn) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/7DEDf5W3DlySzcs4CQuiuF) | 5:56 | 2023-07-10 | 2023-10-21 |
 | [Afe Ato Yen Bio](https://open.spotify.com/track/6IwbrqhA8HxDwcIWNbAbGV) | [De Frank Professionals](https://open.spotify.com/artist/1fE63ATeabzzI5ohMJSw7n) | [Afro\-Beat Airways: Ghana & Togo 1974\-1978 \(Analog Africa No\. 8\)](https://open.spotify.com/album/4ogePZ3mtDw3frtBFbkhGZ) | 4:42 | 2023-07-10 |  |
@@ -81,6 +81,7 @@
 | [Body Yako](https://open.spotify.com/track/5TM74yw7ukVkZTlPEKdJvE) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Kongo Elektro](https://open.spotify.com/artist/1Ja1nsBM1xawlIJoBgU52K), [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [NO VISA](https://open.spotify.com/album/6pvu589LBprC7VAaUh4Q7y) | 4:14 | 2023-07-10 | 2024-04-19 |
 | [Bogando](https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H) | [Voy Pa Allá](https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4) | 4:23 | 2023-07-10 |  |
 | [Bola de Cristal](https://open.spotify.com/track/2CBCFIzmumJ8pHEv2bcQZt) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5) | [O Futuro Não Demora](https://open.spotify.com/album/195RDcBkD9dUqWBO75eCgQ) | 4:12 | 2023-07-10 |  |
+| [Bolingo \(Ça va Saravá\)](https://open.spotify.com/track/6ed6527UIvYtm7ObFCU2oJ) | [Jupiter & Okwess](https://open.spotify.com/artist/2tujJgEWPfR8gdqVw183dT), [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [Bolingo](https://open.spotify.com/album/3q5zgKsObjCUx0T4tVG5Ry) | 4:21 | 2024-11-08 |  |
 | [Bombs turn into roses](https://open.spotify.com/track/1l2XXLNdNT6NwhbA72gGXK) | [Maya Youssef](https://open.spotify.com/artist/22gopXlmzkLT1dG7kUbIhX), [Barney Morse\-Brown](https://open.spotify.com/artist/2Uxn8i5tsBK4qtziBgZ4sk), [Sebastian Flaig](https://open.spotify.com/artist/5yzmz1q53Nn9xcMIbA7jPU) | [Syrian Dreams \(Bonus Track Version\)](https://open.spotify.com/album/0TK4Ps3DS3u7VAnsggJzMs) | 3:55 | 2024-03-08 |  |
 | [Bonde \(with Ry Cooder\)](https://open.spotify.com/track/28HE2hcTggk9F46G9Ra6PY) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Talking Timbuktu](https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk) | 5:28 | 2023-07-10 | 2024-04-19 |
 | [Bonde \(with Ry Cooder\)](https://open.spotify.com/track/7L5FEYVfpIEGHJOv6gZ6EW) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 5:24 | 2023-07-10 | 2023-11-04 |

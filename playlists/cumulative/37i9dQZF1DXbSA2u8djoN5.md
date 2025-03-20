@@ -4,7 +4,7 @@
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Erika Isac, M.G.L.
 
-136 songs - 6 hr 33 min
+137 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Fierbe](https://open.spotify.com/track/4Gya3VF9e3oYKreBxPl0KO) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Bun Venit Acasa \(Deluxe\)](https://open.spotify.com/album/5A4tD7qWgfhfOJ1kXJY9SF) | 2:02 | 2024-07-04 |  |
 | [Flori de Lavandă](https://open.spotify.com/track/4UT5u2Qvd43ubrrEpcxdVK) | [Keed](https://open.spotify.com/artist/0cxGXbq93iJdSmql4iqHol), [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX) | [Flori de Lavandă](https://open.spotify.com/album/0XLsQLNSDLKN2d6tmvI5KD) | 3:14 | 2024-06-27 | 2024-10-02 |
 | [Fricile](https://open.spotify.com/track/2xPuPrusdRIPTZp6wb3Wun) | [Faust](https://open.spotify.com/artist/1bw5CKaDvXFOs4i32eKJZg), [AdyB](https://open.spotify.com/artist/6uPDO8HMJ8MVqcn9PxdLXk) | [Fricile](https://open.spotify.com/album/0cUlR98YmXvQMUrrFg3wrf) | 3:31 | 2024-12-05 | 2025-01-24 |
+| [FĂRĂ SUFLET](https://open.spotify.com/track/6pHFBc5d5GrTX5ZE3whuxz) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV), [Chimie](https://open.spotify.com/artist/3Ah361wcXL9Y4QRDEprLOS), [andrei](https://open.spotify.com/artist/5tXxrzPQRZ7UK2cAQNSQW2) | [BIPOLAR](https://open.spotify.com/album/7lbbq1I52g04xbldIDxpvn) | 2:48 | 2025-03-14 |  |
 | [Geamu Jos](https://open.spotify.com/track/1DnIvjsDkZqUixC0DYC2zz) | [Shift](https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy), [Ruby](https://open.spotify.com/artist/1kpfvsGkNIdxTAnTRnsKLK), [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO) | [Geamu Jos](https://open.spotify.com/album/0fX17ZEJoKEDL5fL6kNOhQ) | 2:31 | 2024-09-19 | 2024-12-06 |
 | [Generația de suflet](https://open.spotify.com/track/2VvhTfq8IoYMRar82DZnkd) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR) | [Generația de suflet](https://open.spotify.com/album/2gpCgNYS1fXv8IpfShm3d0) | 2:33 | 2024-09-26 | 2024-12-06 |
 | [Geometrie sonoră](https://open.spotify.com/track/6Q55EOAZM9iCSe0o1DmV8c) | [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [RADIOFONIC](https://open.spotify.com/album/28TjBMndTDtdBNWHbgtcbL) | 3:36 | 2024-11-21 | 2025-01-10 |
@@ -108,7 +109,7 @@
 | [ROLLIE](https://open.spotify.com/track/0JGIR7mGyhQZAe7tK53S9b) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [ROLLIE](https://open.spotify.com/album/6HjQqheXJnbHMCuVxi6Otn) | 3:25 | 2024-10-17 | 2024-11-30 |
 | [Românească](https://open.spotify.com/track/6IvsHJJMAbf6lUBpFaSii4) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Românească](https://open.spotify.com/album/1U498gIRXMiyOtf9DI4glf) | 2:33 | 2025-01-23 | 2025-03-07 |
 | [Sa MM Care Pleaca](https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Sa MM Care Pleaca](https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds) | 1:59 | 2024-09-19 |  |
-| [Scandal](https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU) | [Sapte](https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Scandal](https://open.spotify.com/album/5aLIlfIdT9HKXksk98qG3q) | 3:16 | 2024-06-27 |  |
+| [Scandal](https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU) | [Sapte](https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Scandal](https://open.spotify.com/album/5aLIlfIdT9HKXksk98qG3q) | 3:16 | 2024-06-27 | 2025-03-20 |
 | [SCI\-FI \(cu IRAIDA\)](https://open.spotify.com/track/3okomQtoPOKU2MZARYyPiS) | [Serotone](https://open.spotify.com/artist/7nN2m7VvqkvB9bbFVgzBYn), [IRAIDA](https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov) | [SCI\-FI \(cu IRAIDA\)](https://open.spotify.com/album/2DIGNFof9SDrDuzf1PZpyd) | 2:40 | 2024-08-01 | 2024-08-23 |
 | [Seria 5](https://open.spotify.com/track/41oOSj88trRGw0i16Rh9u1) | [Kepa](https://open.spotify.com/artist/0Mx93t13mwLCqOoQTQnILw), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Seria 5](https://open.spotify.com/album/3oCFqA2d4sGzfbY2Gx6c4I) | 2:32 | 2024-07-26 | 2024-09-20 |
 | [Shot](https://open.spotify.com/track/7oRs530KPTYBT8NdSIh6Kx) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY), [BAZOOKA](https://open.spotify.com/artist/5VF7pRN0tgUIRWjsVmnpY1), [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR) | [Shot](https://open.spotify.com/album/3Mmx6Jw7tay29R7KQzE8KE) | 3:48 | 2024-09-26 |  |

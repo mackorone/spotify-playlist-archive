@@ -214,7 +214,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 145115,
       "name": "Ainda Ontem",
       "url": "https://open.spotify.com/track/5uig3Oq5R05OuOAERGKnlu"
@@ -1223,6 +1223,42 @@
     },
     {
       "album": {
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/3RKZ16c9LDpjVxy0cgzaY0"
+      },
+      "artists": [
+        {
+          "name": "AuraLoom",
+          "url": "https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/5X3gHNzvUgXpmspojKy1e1"
+    },
+    {
+      "album": {
+        "name": "Daybreak (Ambient Mix)",
+        "url": "https://open.spotify.com/album/1Dcb1mbFazHmCHfeCFaKA3"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178085,
+      "name": "Daybreak - Ambient Mix",
+      "url": "https://open.spotify.com/track/0iq7zuXUhZPKHQNJNRaREv"
+    },
+    {
+      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/6EkjU24XAGODFqayayfIIE"
       },
@@ -2030,10 +2066,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 153124,
       "name": "Finding Solitude",
       "url": "https://open.spotify.com/track/44GNDx5mPRKiwSLjJAe5Yg"
+    },
+    {
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/0hYBbk7oEdsgy66KGLPxTi"
+      },
+      "artists": [
+        {
+          "name": "salotto",
+          "url": "https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182521,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/4i3OJoaAtc64bAKLYRZuos"
     },
     {
       "album": {
@@ -2142,6 +2196,24 @@
       "duration_ms": 174107,
       "name": "For the time being",
       "url": "https://open.spotify.com/track/1vpxWzr6wT0YNgk69ChHRC"
+    },
+    {
+      "album": {
+        "name": "Frid",
+        "url": "https://open.spotify.com/album/0bgm25oNFNBYOznSIykkvB"
+      },
+      "artists": [
+        {
+          "name": "Ljusnan",
+          "url": "https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139843,
+      "name": "Frid",
+      "url": "https://open.spotify.com/track/6CgkDd7PJVghkT2gDA3EJ5"
     },
     {
       "album": {
@@ -2444,7 +2516,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 170583,
       "name": "Hush",
       "url": "https://open.spotify.com/track/2WsGdaZkFsUSrpn4QVWcI1"
@@ -2610,6 +2682,24 @@
       "duration_ms": 176750,
       "name": "In the deep",
       "url": "https://open.spotify.com/track/0KCrx98nbNZoy4y0GYA4l1"
+    },
+    {
+      "album": {
+        "name": "In Time",
+        "url": "https://open.spotify.com/album/1dGggdaWu5MEDvAEs7lKz0"
+      },
+      "artists": [
+        {
+          "name": "Tankeflukt",
+          "url": "https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163406,
+      "name": "In Time",
+      "url": "https://open.spotify.com/track/2g50U4tLDDkXeX6diW9Ifs"
     },
     {
       "album": {
@@ -3564,7 +3654,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 150199,
       "name": "Night Light",
       "url": "https://open.spotify.com/track/4iRBjXN9x4UdOrT9c6sSsL"
@@ -4421,6 +4511,24 @@
     },
     {
       "album": {
+        "name": "Recumbent",
+        "url": "https://open.spotify.com/album/0DTsSWOCx0CJUDTv3QouHt"
+      },
+      "artists": [
+        {
+          "name": "Rellendum",
+          "url": "https://open.spotify.com/artist/35Dv8voHOrXTBT26FFYTxY"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127866,
+      "name": "Recumbent",
+      "url": "https://open.spotify.com/track/6pFr2LQhkK3vwJ7WeQdwea"
+    },
+    {
+      "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/1w7Q6LXwYTvhWNdt6ZQuXS"
       },
@@ -4562,6 +4670,28 @@
       "duration_ms": 165000,
       "name": "Reveries",
       "url": "https://open.spotify.com/track/6zCnCeruSOYJ4LYQNHa4hN"
+    },
+    {
+      "album": {
+        "name": "revival",
+        "url": "https://open.spotify.com/album/0FMAT7Rqa7N9YKJ1EyOUxS"
+      },
+      "artists": [
+        {
+          "name": "Jesse Brown",
+          "url": "https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT"
+        },
+        {
+          "name": "Andy Salvanos",
+          "url": "https://open.spotify.com/artist/25Q9si63JQHlQk12dMLZhb"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129881,
+      "name": "revival",
+      "url": "https://open.spotify.com/track/3pCfEaYHtIsaNyA10z5zBl"
     },
     {
       "album": {
@@ -5919,6 +6049,24 @@
     },
     {
       "album": {
+        "name": "The Gathering Dusk",
+        "url": "https://open.spotify.com/album/0ZYhSA0Te716xYjqTRXhbw"
+      },
+      "artists": [
+        {
+          "name": "Sophie Hutchings",
+          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199329,
+      "name": "The Gathering Dusk",
+      "url": "https://open.spotify.com/track/3uSV4d8Opejd6aCx0Phoaq"
+    },
+    {
+      "album": {
         "name": "The Grass",
         "url": "https://open.spotify.com/album/135DspnDnLyzwCcPijPmjX"
       },
@@ -5970,6 +6118,24 @@
       "duration_ms": 155478,
       "name": "The Last Light",
       "url": "https://open.spotify.com/track/5Q6tpNCQsROJYtUDbZfG5U"
+    },
+    {
+      "album": {
+        "name": "The Nocturnal Hours",
+        "url": "https://open.spotify.com/album/6u8Jkz0oGLflAdUp4VAVdU"
+      },
+      "artists": [
+        {
+          "name": "Bon Vie",
+          "url": "https://open.spotify.com/artist/5HNWBc46bpwk0Aa5klthkQ"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151112,
+      "name": "The Nocturnal Hours",
+      "url": "https://open.spotify.com/track/6d9QfrRflhuaElrI1CGZtZ"
     },
     {
       "album": {
@@ -6416,7 +6582,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 204439,
       "name": "Waiting For The Moment",
       "url": "https://open.spotify.com/track/0PWTD37PzDoCU9CunHUokE"

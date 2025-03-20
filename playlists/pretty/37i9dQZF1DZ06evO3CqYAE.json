@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 12141,
+  "num_followers": 12152,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAADzsMgBewyGcnECFoleqyNQ",
+  "snapshot_id": "Z9i3gAAAAADtxhSa8KCjkLwVeSP+BwDo",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 264026,
-      "name": "Lifter",
-      "url": "https://open.spotify.com/track/5MZwEDNE3AnecfSieetFaD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jesus",
         "url": "https://open.spotify.com/album/473sA5uXcDEmZaiyehhnOR"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 375563,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/4oaP5L5MMPyIjRKA7hr0ya"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 264026,
+      "name": "Lifter",
+      "url": "https://open.spotify.com/track/5MZwEDNE3AnecfSieetFaD"
     },
     {
       "added_at": null,

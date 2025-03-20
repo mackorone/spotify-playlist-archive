@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > it's JENNIE's world 🌎
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,126,016 likes - 104 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,125,747 likes - 104 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

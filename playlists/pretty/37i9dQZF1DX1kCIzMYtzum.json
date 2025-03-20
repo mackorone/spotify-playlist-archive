@@ -1,33 +1,13 @@
 {
   "description": "Home is where the main stage is \ud83d\udc97 with Martin Garrix",
-  "num_followers": 332733,
+  "num_followers": 333233,
   "original_name": "EDM 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9Op2QAAAACcak5H3Veea3U6m8OjS2M/",
+  "snapshot_id": "Z9sQewAAAACDWPfOwjIqmJo4gpxJadLS",
   "tracks": [
-    {
-      "added_at": "2025-03-14 04:00:25",
-      "album": {
-        "name": "Angels For Each Other",
-        "url": "https://open.spotify.com/album/1bOANBDFMPylV75pmNK4l3"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 215076,
-      "name": "Angels For Each Other",
-      "url": "https://open.spotify.com/track/7KPcippmg9MvPzb3dzNpQW"
-    },
     {
       "added_at": "2025-03-14 04:00:25",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 187086,
       "name": "Beautiful People",
       "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
+    },
+    {
+      "added_at": "2025-03-14 04:00:25",
+      "album": {
+        "name": "Angels For Each Other",
+        "url": "https://open.spotify.com/album/1bOANBDFMPylV75pmNK4l3"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 215076,
+      "name": "Angels For Each Other",
+      "url": "https://open.spotify.com/track/7KPcippmg9MvPzb3dzNpQW"
     },
     {
       "added_at": "2025-03-14 04:00:25",
@@ -1267,22 +1267,22 @@
     {
       "added_at": "2025-03-14 04:00:25",
       "album": {
-        "name": "Walkerworld 2.0",
-        "url": "https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw"
+        "name": "Another World",
+        "url": "https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Faouzia",
-          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
         }
       ],
-      "duration_ms": 153207,
-      "name": "Last Song (feat. Faouzia)",
-      "url": "https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6"
+      "duration_ms": 144000,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO"
     },
     {
       "added_at": "2025-03-14 04:00:25",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2025-03-14 04:00:25",
       "album": {
-        "name": "Another World",
-        "url": "https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Another World",
-      "url": "https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO"
-    },
-    {
-      "added_at": "2025-03-14 04:00:25",
-      "album": {
         "name": "Angel In The Dark",
         "url": "https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 199335,
       "name": "Angel In The Dark",
       "url": "https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb"
+    },
+    {
+      "added_at": "2025-03-14 04:00:25",
+      "album": {
+        "name": "Walkerworld 2.0",
+        "url": "https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "duration_ms": 153207,
+      "name": "Last Song (feat. Faouzia)",
+      "url": "https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6"
     },
     {
       "added_at": "2025-03-14 04:00:25",
@@ -1439,26 +1439,22 @@
     {
       "added_at": "2025-03-14 04:00:25",
       "album": {
-        "name": "Fire (Official UEFA EURO 2024 Song)",
-        "url": "https://open.spotify.com/album/7qNPp8Jh4LzA0pEMNiTcNQ"
+        "name": "Feeling Good",
+        "url": "https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
         },
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        },
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 168928,
-      "name": "Fire - Official UEFA EURO 2024 Song",
-      "url": "https://open.spotify.com/track/7MYLHLCf0YWR4TVs3owDny"
+      "duration_ms": 203307,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP"
     },
     {
       "added_at": "2025-03-14 04:00:25",
@@ -1487,22 +1483,30 @@
     {
       "added_at": "2025-03-14 04:00:25",
       "album": {
-        "name": "Feeling Good",
-        "url": "https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk"
+        "name": "Edge Of The World (feat. Nu-La)",
+        "url": "https://open.spotify.com/album/5v93LnHvcpo8xS7bl1DCA5"
       },
       "artists": [
         {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        },
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
         }
       ],
-      "duration_ms": 203307,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP"
+      "duration_ms": 173432,
+      "name": "Edge Of The World (feat. Nu-La)",
+      "url": "https://open.spotify.com/track/2zfWwqiWzmXRsyICIDbwGW"
     },
     {
       "added_at": "2025-03-14 04:00:25",
@@ -1539,6 +1543,34 @@
       "duration_ms": 163863,
       "name": "A Bar Song (Tipsy) [Remix}",
       "url": "https://open.spotify.com/track/5yr1JLt5hokAyU8NBr75jr"
+    },
+    {
+      "added_at": "2025-03-14 04:00:25",
+      "album": {
+        "name": "Carry You",
+        "url": "https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        },
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "duration_ms": 215905,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2"
     },
     {
       "added_at": "2025-03-14 04:00:25",
@@ -1591,34 +1623,6 @@
     {
       "added_at": "2025-03-14 04:00:25",
       "album": {
-        "name": "Carry You",
-        "url": "https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        },
-        {
-          "name": "Declan J Donovan",
-          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
-        }
-      ],
-      "duration_ms": 215905,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2"
-    },
-    {
-      "added_at": "2025-03-14 04:00:25",
-      "album": {
         "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
         "url": "https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w"
       },
@@ -1647,6 +1651,30 @@
     {
       "added_at": "2025-03-14 04:00:25",
       "album": {
+        "name": "Fire (Official UEFA EURO 2024 Song)",
+        "url": "https://open.spotify.com/album/7qNPp8Jh4LzA0pEMNiTcNQ"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 168928,
+      "name": "Fire - Official UEFA EURO 2024 Song",
+      "url": "https://open.spotify.com/track/7MYLHLCf0YWR4TVs3owDny"
+    },
+    {
+      "added_at": "2025-03-14 04:00:25",
+      "album": {
         "name": "Comfort In Chaos",
         "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
       },
@@ -1663,34 +1691,6 @@
       "duration_ms": 236270,
       "name": "Tears (with Paige Cavell)",
       "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
-    },
-    {
-      "added_at": "2025-03-14 04:00:25",
-      "album": {
-        "name": "Edge Of The World (feat. Nu-La)",
-        "url": "https://open.spotify.com/album/5v93LnHvcpo8xS7bl1DCA5"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
-        },
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        },
-        {
-          "name": "Nu-La",
-          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
-        }
-      ],
-      "duration_ms": 173432,
-      "name": "Edge Of The World (feat. Nu-La)",
-      "url": "https://open.spotify.com/track/2zfWwqiWzmXRsyICIDbwGW"
     },
     {
       "added_at": "2025-03-14 04:00:25",
@@ -1715,22 +1715,26 @@
     {
       "added_at": "2025-03-14 04:00:25",
       "album": {
-        "name": "Flex",
-        "url": "https://open.spotify.com/album/2ufdXSRJm2ve5T0cBQjwkm"
+        "name": "Chills (Feel My Love)",
+        "url": "https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
         },
         {
-          "name": "Oscar L",
-          "url": "https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
         }
       ],
-      "duration_ms": 212812,
-      "name": "Flex",
-      "url": "https://open.spotify.com/track/5xEkS8jl0DwBNMU7uBEm7e"
+      "duration_ms": 163399,
+      "name": "Chills (Feel My Love)",
+      "url": "https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x"
     },
     {
       "added_at": "2025-03-14 04:00:25",
@@ -1755,26 +1759,22 @@
     {
       "added_at": "2025-03-14 04:00:25",
       "album": {
-        "name": "Chills (Feel My Love)",
-        "url": "https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y"
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/2ufdXSRJm2ve5T0cBQjwkm"
       },
       "artists": [
         {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+          "name": "Oscar L",
+          "url": "https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm"
         }
       ],
-      "duration_ms": 163399,
-      "name": "Chills (Feel My Love)",
-      "url": "https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x"
+      "duration_ms": 212812,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/5xEkS8jl0DwBNMU7uBEm7e"
     },
     {
       "added_at": "2025-03-14 04:00:25",
@@ -2019,30 +2019,6 @@
     {
       "added_at": "2025-03-14 04:00:25",
       "album": {
-        "name": "Sweet Disposition (John Summit & Silver Panda Remix)",
-        "url": "https://open.spotify.com/album/1xGF8XISTlMx8LCZrxhLa5"
-      },
-      "artists": [
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Silver Panda",
-          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
-        }
-      ],
-      "duration_ms": 251904,
-      "name": "Sweet Disposition - John Summit & Silver Panda Remix",
-      "url": "https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL"
-    },
-    {
-      "added_at": "2025-03-14 04:00:25",
-      "album": {
         "name": "Young Again",
         "url": "https://open.spotify.com/album/5kVE6Fu72iprhv4sDL26ym"
       },
@@ -2079,6 +2055,30 @@
       "duration_ms": 143117,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/2XJSKm7Ie15xQnoP1bY0Fp"
+    },
+    {
+      "added_at": "2025-03-14 04:00:25",
+      "album": {
+        "name": "Sweet Disposition (John Summit & Silver Panda Remix)",
+        "url": "https://open.spotify.com/album/1xGF8XISTlMx8LCZrxhLa5"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Silver Panda",
+          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
+        }
+      ],
+      "duration_ms": 251904,
+      "name": "Sweet Disposition - John Summit & Silver Panda Remix",
+      "url": "https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL"
     },
     {
       "added_at": "2025-03-14 04:00:25",
@@ -2123,6 +2123,22 @@
       "duration_ms": 173333,
       "name": "Don't Kill My Vibe",
       "url": "https://open.spotify.com/track/4QF4IfN0TqvJ00V7qHkLRw"
+    },
+    {
+      "added_at": "2025-03-14 04:00:25",
+      "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/2vyEDah2v9XhwJpMAc0ulB"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/7JRwX5i43f5T4T5hVodZ7v"
     },
     {
       "added_at": "2025-03-14 04:00:25",
@@ -2187,22 +2203,6 @@
       "duration_ms": 156000,
       "name": "Addiction (feat. KEL)",
       "url": "https://open.spotify.com/track/7GgpGxQmLLLEPj1c556hdP"
-    },
-    {
-      "added_at": "2025-03-14 04:00:25",
-      "album": {
-        "name": "Let You Go",
-        "url": "https://open.spotify.com/album/2vyEDah2v9XhwJpMAc0ulB"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/7JRwX5i43f5T4T5hVodZ7v"
     }
   ],
   "unique_name": "EDM 2025",

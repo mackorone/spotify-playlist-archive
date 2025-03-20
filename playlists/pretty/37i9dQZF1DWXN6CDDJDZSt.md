@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXN6CDDJDZSt.md) - [plain]
 
 > An introduction to Giacomo Puccini, one of the great Italian opera composers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,114 likes - 71 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,135 likes - 71 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

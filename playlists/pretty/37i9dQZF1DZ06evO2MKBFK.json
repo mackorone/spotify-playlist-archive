@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 631585,
+  "num_followers": 631634,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAACnLeqfLCEwu6DVGPugiiev",
+  "snapshot_id": "Z9i3gAAAAADIBNow+eOR5cDhJBHV5FWY",
   "tracks": [
     {
       "added_at": null,
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2NE1 1st Mini Album",
-        "url": "https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba"
-      },
-      "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        },
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/2eDGx6nbrznlTmf6YMjrRi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tell Me Goodbye",
         "url": "https://open.spotify.com/album/5Nmqr0lMATwA9XzOoLYHJX"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 232933,
       "name": "My Heaven",
       "url": "https://open.spotify.com/track/6M78En84cFYQxdYABC2fZO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2NE1 1st Mini Album",
+        "url": "https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        },
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/2eDGx6nbrznlTmf6YMjrRi"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BIGBANG Vol.1",
+        "url": "https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Big Boy (T.O.P Solo)",
+      "url": "https://open.spotify.com/track/0MTvnT0Hn4UUnqY6Z8PieG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bigbang 03",
         "url": "https://open.spotify.com/album/0UewBgAMHugPdwS4Utk8SH"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 218618,
       "name": "Forever With U (Feat. Park Bom)",
       "url": "https://open.spotify.com/track/7czVcA9IUsAy61QdQaX2Tw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BIGBANG Vol.1",
-        "url": "https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Big Boy (T.O.P Solo)",
-      "url": "https://open.spotify.com/track/0MTvnT0Hn4UUnqY6Z8PieG"
     },
     {
       "added_at": null,

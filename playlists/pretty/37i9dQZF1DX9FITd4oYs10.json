@@ -1099,6 +1099,26 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
+        "name": "Rouff",
+        "url": "https://open.spotify.com/album/3WCqEEZX2B01fJh6MUQxvQ"
+      },
+      "artists": [
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Ashira",
+          "url": "https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa"
+        }
+      ],
+      "duration_ms": 234032,
+      "name": "Flo Jo",
+      "url": "https://open.spotify.com/track/6RhaUcDOtoYg8xz8SM4wSy"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
         "name": "Dior",
         "url": "https://open.spotify.com/album/1OtjO72XdEOLXSEKlgEP7y"
       },
@@ -1127,26 +1147,6 @@
       "duration_ms": 186666,
       "name": "Dior",
       "url": "https://open.spotify.com/track/6iIN2VXurWz90YBHXOIziD"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
-        "name": "Rouff",
-        "url": "https://open.spotify.com/album/3WCqEEZX2B01fJh6MUQxvQ"
-      },
-      "artists": [
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        },
-        {
-          "name": "Ashira",
-          "url": "https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa"
-        }
-      ],
-      "duration_ms": 234032,
-      "name": "Flo Jo",
-      "url": "https://open.spotify.com/track/6RhaUcDOtoYg8xz8SM4wSy"
     },
     {
       "added_at": "2024-08-16 20:28:24",

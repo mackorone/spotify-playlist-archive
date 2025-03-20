@@ -4,7 +4,7 @@
 
 > 듣고만 있어도 행복한 노래들과 더더욱 행복하세요 ;\)
 
-156 songs - 8 hr 42 min
+157 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [No MBTI](https://open.spotify.com/track/0ElgcgukyFblmSOu1IDFhu) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [No MBTI](https://open.spotify.com/album/6Cov5vJwPPSEaLyd9Gog8R) | 2:45 | 2023-11-03 | 2024-02-10 |
 | [Once In a Summer \(feat\. Ashley Alisha & Kelsey Kuan\)](https://open.spotify.com/track/5O0ug2pQVceJN72y7Flsbn) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Once In a Summer](https://open.spotify.com/album/7mieRQVDslmslEystozZ0t) | 3:20 | 2024-03-08 |  |
 | [Oneureul Gieokhaja \(Ingatlah Hari Ini\) \- Original Soundtrack Cinta Tak Seindah Drama Korea](https://open.spotify.com/track/05jWq9zYFhzVlAyId8rEN3) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Oneureul Gieokhaja \(Ingatlah Hari Ini\) \- Original Soundtrack Cinta Tak Seindah Drama Korea](https://open.spotify.com/album/28GoAqZtvVBLerde573OJD) | 3:47 | 2024-10-24 |  |
+| [Ordinary life](https://open.spotify.com/track/5Ivx0LkXUVGSybJgPXwQNE) | [IGWI](https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U) | [Ordinary life](https://open.spotify.com/album/6oTKzZ9cRz3xgAcbPRV3fT) | 4:06 | 2024-11-06 |  |
 | [Page 0](https://open.spotify.com/track/10X2ihhKwPyKzo89h4965O) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Page 0](https://open.spotify.com/album/1MX2MhEx1G8BCiYrlSomgg) | 3:07 | 2024-03-08 |  |
 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 | 2024-03-08 |  |
 | [Parade](https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:02 | 2023-11-03 | 2023-12-30 |
@@ -144,7 +145,7 @@
 | [Together](https://open.spotify.com/track/4yLHe4OAlIFnHerGgHNXBm) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) | 4:04 | 2023-11-03 | 2024-03-09 |
 | [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 | 2023-11-03 |  |
 | [Tutorial](https://open.spotify.com/track/4hYcI5bg1lu4LwjRKJlS9V) | [Fishingirls](https://open.spotify.com/artist/3sEqL7PBWr9jrCxB1tV6DI) | [Visible World](https://open.spotify.com/album/41raa6r0NfpRzanU92NkKX) | 3:12 | 2024-03-21 | 2024-05-28 |
-| [Utopia](https://open.spotify.com/track/4NxTbQeq4MI4YIo6vtf43v) | [ZHOUMI](https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH), [HENDERY](https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs) | [Utopia](https://open.spotify.com/album/2dnjFIjZWbpZKs5JYCBsnh) | 3:49 | 2024-10-24 |  |
+| [Utopia](https://open.spotify.com/track/4NxTbQeq4MI4YIo6vtf43v) | [ZHOUMI](https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH), [HENDERY](https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs) | [Utopia](https://open.spotify.com/album/2dnjFIjZWbpZKs5JYCBsnh) | 3:49 | 2024-10-24 | 2025-03-20 |
 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 2:55 | 2023-11-03 | 2024-03-09 |
 | [Violet](https://open.spotify.com/track/7yvfL6YPEj91CxZZlQTk4z) | [J.Fla](https://open.spotify.com/artist/2GbvMs4GBhcjd9d4N9sGUV) | [Colours: The First](https://open.spotify.com/album/1F51jRZBetMoziSlIaj2Xa) | 1:48 | 2024-05-27 | 2024-08-04 |
 | [Virtual Idol](https://open.spotify.com/track/4mMtn8zhy4IaOwzNCgSbCT) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : 134\-1](https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS) | 2:29 | 2024-03-06 | 2024-03-09 |

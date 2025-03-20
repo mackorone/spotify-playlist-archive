@@ -4,11 +4,11 @@
 
 > This is Ximena Sariñana\. The essential tracks, all in one playlist.
 
-81 songs - 4 hr 54 min
+82 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A un Paso de Baile de Ti](https://open.spotify.com/track/5sDVzfHhH3RpTPzzbV7qrX) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Vuélame el Corazón](https://open.spotify.com/album/0B8yGjETSTqrg08Nmrqn5j) | 3:21 | 2023-12-26 |  |
+| [A un Paso de Baile de Ti](https://open.spotify.com/track/5sDVzfHhH3RpTPzzbV7qrX) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Vuélame el Corazón](https://open.spotify.com/album/0B8yGjETSTqrg08Nmrqn5j) | 3:21 | 2023-12-26 | 2025-03-20 |
 | [Agua Salada](https://open.spotify.com/track/4zZU1HHT7TcfluhNFfIyLN) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cuba Pintada](https://open.spotify.com/album/4aq6JOU5CaorKccaLlzxAi) | 3:30 | 2023-12-26 | 2024-10-12 |
 | [Aire soy \(feat\. Ximena Sariñana\)](https://open.spotify.com/track/1ORb6uGvpjsFwZK8FUpzWy) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Papitwo \(Deluxe\)](https://open.spotify.com/album/6mgs9ywhBqW5QSCMyYPC3g) | 4:08 | 2023-12-26 |  |
 | [ALV](https://open.spotify.com/track/0czJDMboe5qf9NTHisp6kO) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [ALV](https://open.spotify.com/album/79NYLb4A4a1OwBRbLAsyfk) | 3:37 | 2024-07-27 |  |
@@ -56,6 +56,7 @@
 | [No Te Vayas](https://open.spotify.com/track/2Qm7E9UitJaLknrQp3YXgd) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Los Himnos del Amor](https://open.spotify.com/album/00oqeg7bfUjuQWLqgrdZ2k) | 3:26 | 2024-10-26 | 2025-01-08 |
 | [No Te Vayas](https://open.spotify.com/track/6wz2a7hZNgLoPzSJyx9Ms9) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [No Te Vayas](https://open.spotify.com/album/0k4dSQx0YRgv43KFpxNWTb) | 3:26 | 2024-01-27 | 2024-10-17 |
 | [No vuelvo más](https://open.spotify.com/track/2rpLnBl2ktVU7ZtjgCXGVZ) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre](https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g) | 4:13 | 2023-12-26 |  |
+| [Normal](https://open.spotify.com/track/0QMjDhmWXKnYe6w5Gp8eQU) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre](https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g) | 3:40 | 2025-03-20 |  |
 | [Nostalgia](https://open.spotify.com/track/3wwHxBjK4Y1IohNUVgwX31) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nostalgia](https://open.spotify.com/album/056KBSR2KBMankHXTbizsL) | 2:55 | 2023-12-26 | 2024-08-24 |
 | [Nunca Tuve Tanto](https://open.spotify.com/track/4WQaXkwA43WaPBuAZdtoe1) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nunca Tuve Tanto](https://open.spotify.com/album/0J9MueZfsiHyDIqTZKrj4c) | 2:49 | 2024-12-20 |  |
 | [Nunca Tuve Tanto](https://open.spotify.com/track/676WeBQ2T3dW4p8mywOZvG) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nunca Tuve Tanto](https://open.spotify.com/album/1yHxFivky2OZXF0lNBxrzB) | 2:49 | 2023-12-26 | 2024-12-20 |

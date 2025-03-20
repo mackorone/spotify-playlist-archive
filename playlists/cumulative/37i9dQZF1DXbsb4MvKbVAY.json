@@ -6645,6 +6645,24 @@
     },
     {
       "album": {
+        "name": "I See Colors",
+        "url": "https://open.spotify.com/album/0LNWH7AsEJIxiTmkWEzYG1"
+      },
+      "artists": [
+        {
+          "name": "Veres",
+          "url": "https://open.spotify.com/artist/2kdNITSsmCcu0j7crdbEi7"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213837,
+      "name": "I See Colors",
+      "url": "https://open.spotify.com/track/0bGrJBy1wHtwJIaQjb2nnm"
+    },
+    {
+      "album": {
         "name": "I Wanna Thank Me (feat. Niecy Nash)",
         "url": "https://open.spotify.com/album/0XWBLjX39G0QsoItK55PmO"
       },
@@ -9292,7 +9310,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 114637,
       "name": "Love Is A Stillness",
       "url": "https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9"

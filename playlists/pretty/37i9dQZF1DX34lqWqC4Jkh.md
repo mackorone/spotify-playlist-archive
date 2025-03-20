@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqWqC4Jkh.md) - [plain]
 
 > to: the love of my life
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,850 likes - 84 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,955 likes - 84 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

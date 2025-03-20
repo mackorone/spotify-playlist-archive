@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Jayda
 
-304 songs - 19 hr 12 min
+305 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,8 @@
 | [Things You Said \(feat\. Moira Dela Torre\)](https://open.spotify.com/track/4H2Ih1tUC2OjIQCHhOnKiB) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Things You Said](https://open.spotify.com/album/5hLHJZoOp7mW4sCTxrc8TI) | 3:54 | 2024-07-02 | 2024-09-25 |
 | [This Na Malambing](https://open.spotify.com/track/5ZIyDMWHtEjIS9YkmUY5zz) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD), [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [This Na Malambing](https://open.spotify.com/album/4gNnQzuEStRVzmWvpK1s6T) | 3:50 | 2024-07-02 | 2024-09-07 |
 | [Through The Years \- From “Lolo and the Kid"](https://open.spotify.com/track/4CkwBFexkKpSVt76urws7y) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Through The Years \(From “Lolo and the Kid"\)](https://open.spotify.com/album/5Q9CEhY1XZsLljY7e7EI7w) | 3:58 | 2024-08-30 | 2024-11-23 |
-| [Tibok](https://open.spotify.com/track/2Dhdu4YB3y5U3RiIcCJduv) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Tibok](https://open.spotify.com/album/0adQix0U0hF4YN1xxbSgUU) | 5:26 | 2024-07-02 |  |
+| [Tibok](https://open.spotify.com/track/0Tuo5hZJi0f9InKf4NAtZt) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Ang Mutya Ng Section E \(A Viva One Original Series Soundtrack\)](https://open.spotify.com/album/3C0w3s7OOjdzyxnzT04Tvl) | 5:26 | 2025-03-19 |  |
+| [Tibok](https://open.spotify.com/track/2Dhdu4YB3y5U3RiIcCJduv) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Tibok](https://open.spotify.com/album/0adQix0U0hF4YN1xxbSgUU) | 5:26 | 2024-07-02 | 2025-03-20 |
 | [Tiger](https://open.spotify.com/track/2dLNWQzhAn3w9iBUVnXZb3) | [Mayonnaise](https://open.spotify.com/artist/7lIVjtsgz0y1oRQFBAVNzq) | [Thanks For Everything](https://open.spotify.com/album/2x4KmypZUlBJ7YYsKYeYnr) | 4:21 | 2024-07-02 | 2024-08-10 |
 | [TORPE](https://open.spotify.com/track/2nlD5OnCCotJVhOY2gGkEw) | [JAO](https://open.spotify.com/artist/6Bc3V3kVnWpY5kqQN6nio5) | [TORPE](https://open.spotify.com/album/5OPsL7uBEZtbHg0ZV2eUti) | 2:53 | 2025-02-25 |  |
 | [Toyo](https://open.spotify.com/track/1PxsXBSYcsO86i3RZZEwd5) | [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Toyo](https://open.spotify.com/album/2m4TsjHM0SnencJriOXEMM) | 4:12 | 2024-09-27 | 2025-02-13 |

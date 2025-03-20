@@ -4,12 +4,12 @@
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-156 songs - 10 hr 38 min
+158 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1/2 Singing Bowl \(Ascension\) \- Excerpt](https://open.spotify.com/track/4C4Cni4yKvGFthrJ3VRjfM) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Meditations](https://open.spotify.com/album/79EfVLabvmR4nUhpr2rF8s) | 4:30 | 2022-01-06 | 2024-01-23 |
-| [432 Hz Ultimate Reality](https://open.spotify.com/track/7xDsfqzeaXwAJM6ePGHXgk) | [Sternutatory](https://open.spotify.com/artist/581glPGSKcjBbozXRHt7n8) | [432 Hz Ultimate Reality](https://open.spotify.com/album/70hplQhaVdexN9cpJDLGTv) | 3:22 | 2025-01-08 |  |
+| [432 Hz Ultimate Reality](https://open.spotify.com/track/7xDsfqzeaXwAJM6ePGHXgk) | [Sternutatory](https://open.spotify.com/artist/581glPGSKcjBbozXRHt7n8) | [432 Hz Ultimate Reality](https://open.spotify.com/album/70hplQhaVdexN9cpJDLGTv) | 3:22 | 2025-01-08 | 2025-03-20 |
 | [A Journey Within](https://open.spotify.com/track/1aHR0CE0nwtAmppo9J4xBD) | [Drums N' Bowls](https://open.spotify.com/artist/5KmLjJ47cAYvQaJAMvLwLO) | [A Journey Within](https://open.spotify.com/album/6J5ZnOkpFsgl0ufIZgSNhY) | 5:24 | 2024-11-14 |  |
 | [Abundance](https://open.spotify.com/track/0rhg4Ev9NAA9P6NNbD7f62) | [Sun Vibrations](https://open.spotify.com/artist/0Km084nANAUaHxyoThFDH6) | [Soundbath](https://open.spotify.com/album/3utL06Yt0D8eedA3BF7ERo) | 11:40 | 2022-01-06 | 2022-12-14 |
 | [Accepting Fate \(Sound Bath\)](https://open.spotify.com/track/5nwliGmNkUUuu5bFbpnu0T) | [JLM](https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ) | [Optimistic Outlook](https://open.spotify.com/album/05MztDn1w1Cv5n2Y6sW4i1) | 2:53 | 2022-01-06 | 2024-03-01 |
@@ -30,7 +30,7 @@
 | [Bowl Presence](https://open.spotify.com/track/6AXiRk2bu8P60bZiMOVLHR) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Bowl Presence](https://open.spotify.com/album/3kvmaFF4Z1BFtNScFNGJjC) | 3:32 | 2022-12-13 |  |
 | [Bowls of Peace](https://open.spotify.com/track/1ZnT8c13FdHVHQwVpwJAX7) | [Sophisto](https://open.spotify.com/artist/64fwopk0HjUIjcj3QS58vP) | [Bowls of Peace](https://open.spotify.com/album/5gHrrOLNTjGgqZG6xMkRsR) | 2:24 | 2022-12-13 |  |
 | [Bowls Singing In Rain](https://open.spotify.com/track/3ifRFotnUDoLLfnk2LHlve) | [Skye Saraswati](https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3) | [Ahimsa](https://open.spotify.com/album/4ik1k0ZjV52DGDKqQXiZ4m) | 3:24 | 2022-12-13 |  |
-| [Bowlsong](https://open.spotify.com/track/5g9RCOeaztckqKQyxMmNyW) | [Wounderous Flight](https://open.spotify.com/artist/6DIGdnc8rQh4G8ZGrtQzZh) | [Bowlsong](https://open.spotify.com/album/7hKYJG6dQY17H7d3RAJREu) | 2:27 | 2022-12-13 |  |
+| [Bowlsong](https://open.spotify.com/track/5g9RCOeaztckqKQyxMmNyW) | [Wounderous Flight](https://open.spotify.com/artist/6DIGdnc8rQh4G8ZGrtQzZh) | [Bowlsong](https://open.spotify.com/album/7hKYJG6dQY17H7d3RAJREu) | 2:27 | 2022-12-13 | 2025-03-20 |
 | [Brook](https://open.spotify.com/track/2RsoQkqUa60wRf5eT9tls4) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Brook](https://open.spotify.com/album/7BmzxCXDaZXNkvkGJBnUvH) | 3:08 | 2025-02-11 |  |
 | [Burning Falls](https://open.spotify.com/track/7csKERMlHz0u5a8WlRVkXN) | [Synchroni city](https://open.spotify.com/artist/6ZAHK2JnTWUA06MRPEXgYp) | [Burning Falls](https://open.spotify.com/album/2m2aNN9aCH9rxBmV3BU4G3) | 2:54 | 2025-03-04 |  |
 | [Cacophony A432](https://open.spotify.com/track/4UUY9ZUYBzZiFsYbfxXeki) | [Natural Tuning](https://open.spotify.com/artist/0db3whzEc8o8hAIp7Q9wp5) | [Cacophony A432](https://open.spotify.com/album/2sict1ksexBHINmD0zIL5T) | 3:40 | 2022-04-14 |  |
@@ -105,6 +105,7 @@
 | [New Force](https://open.spotify.com/track/6kVYw6szdMMK7jcZKhQzQd) | [Ashami Mantras](https://open.spotify.com/artist/2GRKiHcYCBni3lSujepe79) | [New Force](https://open.spotify.com/album/0lwbr5oIOR3CFgSC8lt4Fm) | 2:51 | 2025-01-31 |  |
 | [Next Moment \- 432 Hz](https://open.spotify.com/track/3j6bdU5gjL8BwOel976Ntg) | [Liam Armstrong](https://open.spotify.com/artist/3DsYgBfA8QoZTZohcLf1jy) | [Next Moment \- 432 Hz](https://open.spotify.com/album/3blhjHGTCpNVl4D5umEpKo) | 3:21 | 2024-01-22 |  |
 | [Noctilucent](https://open.spotify.com/track/3m8aAgxiL7SMOTPym9s5Gx) | [Everglades](https://open.spotify.com/artist/5bfwEl4yO80YBMyJWkM7gk) | [Noctilucent](https://open.spotify.com/album/0GueoJsCl18CjDpVSCUTi4) | 2:20 | 2024-12-12 |  |
+| [One With Simplicity](https://open.spotify.com/track/2guoaCAPZb6ixmHgupofMb) | [AuraLoom](https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV) | [One With Simplicity](https://open.spotify.com/album/0jr5wGTluHptfqUjzt88JU) | 2:36 | 2025-03-19 |  |
 | [Optimistic Outlook \(Sound Bath\)](https://open.spotify.com/track/0UK7EvfHhwPH5nboxoH9BO) | [JLM](https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ) | [Optimistic Outlook](https://open.spotify.com/album/05MztDn1w1Cv5n2Y6sW4i1) | 3:04 | 2022-01-06 | 2025-01-09 |
 | [Pacifiquement](https://open.spotify.com/track/3ODp59g4fuL0KsTvKB1atC) | [Maiken Jokum](https://open.spotify.com/artist/3k6qLcyKmWGoOQfK8Uskvy) | [Pacifiquement](https://open.spotify.com/album/430ttSN75LpAVHMszOujl6) | 3:24 | 2022-04-26 | 2024-11-29 |
 | [Peaceful Escape](https://open.spotify.com/track/2k62YuxP6pG6cLoCfMdbFP) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Healing Mantra](https://open.spotify.com/album/2r0rAXvotCBnCcvAlI3LCG) | 2:54 | 2022-03-25 | 2024-03-01 |
@@ -132,6 +133,7 @@
 | [Soft Rays](https://open.spotify.com/track/1YhSbspYxHcaEdbl3faWno) | [Kai Stellar](https://open.spotify.com/artist/5Ni9tbQ9r28mw5RS8AyGQr) | [Soft Rays](https://open.spotify.com/album/1FRbznRmaHORqPniW6aSqB) | 2:50 | 2025-03-04 |  |
 | [Soil](https://open.spotify.com/track/0dy1qrmvBmk1QOJHSHSJsA) | [Beyond Observable](https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq) | [Treetop Whisperer](https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN) | 3:10 | 2023-04-06 | 2024-03-01 |
 | [Solar Plexus Chakra \(Manipura\) \- 3 Octaves E](https://open.spotify.com/track/163wIVMDQwvwLleCgvCTfJ) | [Yeshi Namdak](https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri) | [7 Chakra Meditation with Tibetan Bowls](https://open.spotify.com/album/2c8pxiKmUpGVvIjEWChg9X) | 2:50 | 2022-01-06 | 2024-08-03 |
+| [Solar Seraph](https://open.spotify.com/track/63THLVop1w7YRIMO9ij01U) | [Milleah](https://open.spotify.com/artist/5S8hNWbGuoD4rTAnNxuxze) | [Solar Seraph](https://open.spotify.com/album/6Qorf7wIB8XWZ2FsBaTM8x) | 2:58 | 2025-03-19 |  |
 | [Sonic Massage \- Singing Bowl Only](https://open.spotify.com/track/6MBi5eimnlk2NWOqlfJuUC) | [Ben Scott](https://open.spotify.com/artist/6Wg54IsLeFHsxjRlhQnMXd) | [Tibetan Chakra Meditations](https://open.spotify.com/album/0gvC6ZI3rJ3G6r5fB6qjzb) | 2:49 | 2022-01-06 |  |
 | [Soul Elevation](https://open.spotify.com/track/5Pfn4dkyAIJoFz9ulqAkc5) | [Natura Relax](https://open.spotify.com/artist/084iu69ZxshixVfB7rcRg7), [Enchanted Sounds](https://open.spotify.com/artist/2c6l8ejTfqwvp2G2YAzq9M) | [Hang Drum Meditation](https://open.spotify.com/album/3cxLTdp6xaC6OG3iC16rZn) | 1:15 | 2024-05-01 |  |
 | [Soul in Harmony](https://open.spotify.com/track/31yC95ewyxC6HzeKtmt3go) | [Jasmine Soft](https://open.spotify.com/artist/1VK5l4RiFvFSypcRxg8a0l) | [Tam Tam Gong Bath: Pure Healing Meditation](https://open.spotify.com/album/6oF7GoyOelYXe2G7tykDZS) | 4:10 | 2022-01-06 | 2024-03-01 |

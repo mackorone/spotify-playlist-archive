@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 > Stay current with the latest indie\-alt tracks\. Cover: Myles Smtih.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,612 likes - 60 songs - 3 hr 19 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,610 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nice To Meet You \(feat\. Lainey Wilson\)](https://open.spotify.com/track/2tQSuufhS5XHz0E8EBi55M) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Nice To Meet You \(feat\. Lainey Wilson\)](https://open.spotify.com/album/72T4AbLCP6vmRzA5C2iLFi) | 2:56 |
 | 2 | [SMARTPHONE MAKE ME DUMB](https://open.spotify.com/track/1ZHzO47YcJQWZd7TVqZKIE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [SMARTPHONE MAKE ME DUMB](https://open.spotify.com/album/0wtqjgDzHqDPgUtkavt79b) | 2:37 |
 | 3 | [Malibu](https://open.spotify.com/track/20O68YXmVnI0MzVfOy9WQ4) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Malibu](https://open.spotify.com/album/2Z5S2hgUpivyXs9T5LnxiS) | 4:02 |
-| 4 | [FUFN \(Fuck You For Now\)](https://open.spotify.com/track/0dfexwGBjaANxD7ZDXFtFX) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [FUFN \(Fuck You For Now\)](https://open.spotify.com/album/0yICr3gvAwwfsJypjJzS2P) | 3:35 |
+| 4 | [FUFN](https://open.spotify.com/track/0dfexwGBjaANxD7ZDXFtFX) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [FUFN](https://open.spotify.com/album/0yICr3gvAwwfsJypjJzS2P) | 3:35 |
 | 5 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 |
 | 6 | [Did You Love Somebody \(feat\. Sir Chloe\)](https://open.spotify.com/track/3lZhH5QiBpcPUrvSy5VfZz) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire), [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Did You Love Somebody \(feat\. Sir Chloe\)](https://open.spotify.com/album/5AiC1ESCiFpZcDxSWylVeB) | 4:08 |
 | 7 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 |

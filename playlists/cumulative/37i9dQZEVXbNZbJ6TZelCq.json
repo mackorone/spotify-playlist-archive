@@ -2454,7 +2454,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-19",
+      "date_removed": null,
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -7392,7 +7392,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 151160,
       "name": "COCAINE NOSE",
       "url": "https://open.spotify.com/track/4rXxjHSAglOynjIF8Z34dx"
@@ -8713,6 +8713,24 @@
     },
     {
       "album": {
+        "name": "Dark Thoughts",
+        "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136991,
+      "name": "Dark Thoughts",
+      "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
+    },
+    {
+      "album": {
         "name": "LUCIFER",
         "url": "https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS"
       },
@@ -9894,7 +9912,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-18",
+      "date_removed": null,
       "duration_ms": 145040,
       "name": "Diss Music Romania",
       "url": "https://open.spotify.com/track/00h0W7OACncGvIWVhwGhPX"
@@ -16778,7 +16796,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 158896,
       "name": "I SEEEEEE YOU BABY BOI",
       "url": "https://open.spotify.com/track/2ydagYqcyFfRtQPzKc5E8l"
@@ -18038,7 +18056,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Jenifer buci de fier",
       "url": "https://open.spotify.com/track/40GLYWLoMFhkuoDImEwHm4"
@@ -18314,7 +18332,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 92735,
       "name": "JUMPIN (with Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/7oZOCPjlLpHZtIebTXhlfZ"
@@ -23242,7 +23260,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 154285,
       "name": "MUNYUN",
       "url": "https://open.spotify.com/track/2JJFJEvFSWyQ59Pwl2gqSF"

@@ -2,7 +2,7 @@
 
 ### [Spotify Singles: Complete Collection](https://open.spotify.com/playlist/37i9dQZF1DWTUm9HjVUKnL)
 
-> The full collection of Spotify Singles recordings\. Cover: Harry Styles
+> The full collection of Spotify Singles recordings\. Cover: Damiano David
 
 1,316 songs - 3 day 7 hr 14 min
 

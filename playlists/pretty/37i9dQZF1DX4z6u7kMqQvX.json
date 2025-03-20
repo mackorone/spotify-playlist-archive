@@ -1,6 +1,6 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 107466,
+  "num_followers": 107467,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
+        "name": "Martes 13",
+        "url": "https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 250790,
+      "name": "Te Dej\u00e9 una Carta",
+      "url": "https://open.spotify.com/track/7vKUZpHXiwMx3NvJyJC0MC"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
         "name": "Dos Hemisferios",
         "url": "https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 215931,
       "name": "Dos Hemisferios",
       "url": "https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
-        "name": "Martes 13",
-        "url": "https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 250790,
-      "name": "Te Dej\u00e9 una Carta",
-      "url": "https://open.spotify.com/track/7vKUZpHXiwMx3NvJyJC0MC"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "\u00c9ramos lo m\u00e1s",
-        "url": "https://open.spotify.com/album/7JR1aMehX24jFZ24gO0Dpg"
-      },
-      "artists": [
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "\u00c9ramos lo m\u00e1s",
-      "url": "https://open.spotify.com/track/7u2DT6k6Wwdb0e8qKiAdNs"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
         "name": "sin dormir",
         "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
       },
@@ -791,22 +775,18 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
-        "url": "https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9"
+        "name": "\u00c9ramos lo m\u00e1s",
+        "url": "https://open.spotify.com/album/7JR1aMehX24jFZ24gO0Dpg"
       },
       "artists": [
         {
-          "name": "Rosario Ortega",
-          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
         }
       ],
-      "duration_ms": 187514,
-      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
-      "url": "https://open.spotify.com/track/4ItghFzjyBOtbR8J4mJ0hP"
+      "duration_ms": 209426,
+      "name": "\u00c9ramos lo m\u00e1s",
+      "url": "https://open.spotify.com/track/7u2DT6k6Wwdb0e8qKiAdNs"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -831,6 +811,26 @@
       "duration_ms": 219826,
       "name": "M\u00e1quinas de hacer todo al mismo tiempo",
       "url": "https://open.spotify.com/track/6zkasCD1K9iC4r5thyK6ti"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
+        "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
+        "url": "https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9"
+      },
+      "artists": [
+        {
+          "name": "Rosario Ortega",
+          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 187514,
+      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
+      "url": "https://open.spotify.com/track/4ItghFzjyBOtbR8J4mJ0hP"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "Desprogramado",
-        "url": "https://open.spotify.com/album/4NgiQKB70vqBCVe9TsWjWL"
-      },
-      "artists": [
-        {
-          "name": "Hipnotica",
-          "url": "https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY"
-        }
-      ],
-      "duration_ms": 181845,
-      "name": "Desprogramado",
-      "url": "https://open.spotify.com/track/79v8NJzeW6pXkL6vWbIGY1"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
         "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
         "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 326961,
       "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
       "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
+        "name": "Desprogramado",
+        "url": "https://open.spotify.com/album/4NgiQKB70vqBCVe9TsWjWL"
+      },
+      "artists": [
+        {
+          "name": "Hipnotica",
+          "url": "https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY"
+        }
+      ],
+      "duration_ms": 181845,
+      "name": "Desprogramado",
+      "url": "https://open.spotify.com/track/79v8NJzeW6pXkL6vWbIGY1"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "Secret Love",
-        "url": "https://open.spotify.com/album/2Xj55Dpq6MKO1GAV3zPmzO"
-      },
-      "artists": [
-        {
-          "name": "Maria Campos",
-          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Secret Love",
-      "url": "https://open.spotify.com/track/4KU2To33B4P5gANKi3P5Nu"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
         "name": "balada para el fin del mundo",
         "url": "https://open.spotify.com/album/5oMb9DNJOLnVtawJVhmIs1"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 202655,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
+        "name": "Secret Love",
+        "url": "https://open.spotify.com/album/2Xj55Dpq6MKO1GAV3zPmzO"
+      },
+      "artists": [
+        {
+          "name": "Maria Campos",
+          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Secret Love",
+      "url": "https://open.spotify.com/track/4KU2To33B4P5gANKi3P5Nu"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "Me Estoy Enamorando",
-        "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
         "name": "X AMOR",
         "url": "https://open.spotify.com/album/4RhwgeqH9jfFBPptPeM7P1"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 242755,
       "name": "X AMOR",
       "url": "https://open.spotify.com/track/3dVxdzni1LpSrHY4trEbMK"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
     },
     {
       "added_at": "2025-03-14 03:00:12",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2025-03-14 03:00:12",
       "album": {
-        "name": "Perdoname amor",
-        "url": "https://open.spotify.com/album/4kJBJbwTiiWslEAx5S41KU"
-      },
-      "artists": [
-        {
-          "name": "La Figui",
-          "url": "https://open.spotify.com/artist/5QqWmfNdVYRaUOZ93oJJmn"
-        },
-        {
-          "name": "Potra",
-          "url": "https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO"
-        }
-      ],
-      "duration_ms": 202857,
-      "name": "Perdoname amor",
-      "url": "https://open.spotify.com/track/60lkCw09ehFMdRAjSZSi8o"
-    },
-    {
-      "added_at": "2025-03-14 03:00:12",
-      "album": {
         "name": "La Puerta",
         "url": "https://open.spotify.com/album/6aEKqi158pdsZCKcMjiHlP"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 177083,
       "name": "La Puerta",
       "url": "https://open.spotify.com/track/6v988u9uCkXho3hvjqom1s"
+    },
+    {
+      "added_at": "2025-03-14 03:00:12",
+      "album": {
+        "name": "Perdoname amor",
+        "url": "https://open.spotify.com/album/4kJBJbwTiiWslEAx5S41KU"
+      },
+      "artists": [
+        {
+          "name": "La Figui",
+          "url": "https://open.spotify.com/artist/5QqWmfNdVYRaUOZ93oJJmn"
+        },
+        {
+          "name": "Potra",
+          "url": "https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO"
+        }
+      ],
+      "duration_ms": 202857,
+      "name": "Perdoname amor",
+      "url": "https://open.spotify.com/track/60lkCw09ehFMdRAjSZSi8o"
     },
     {
       "added_at": "2025-03-14 03:00:12",

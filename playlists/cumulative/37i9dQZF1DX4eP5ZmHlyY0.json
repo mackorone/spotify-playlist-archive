@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "+82 Pressin'",
+        "url": "https://open.spotify.com/album/4BHK4cuYnptvcw0yOCzh8Y"
+      },
+      "artists": [
+        {
+          "name": "MARK",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+        },
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202400,
+      "name": "+82 Pressin'",
+      "url": "https://open.spotify.com/track/1gh9hWNAzDR46rn52uyoiV"
+    },
+    {
+      "album": {
         "name": "PINK CRUSH",
         "url": "https://open.spotify.com/album/6w7J6E5wHhGDWPIVRaoAvl"
       },
@@ -2110,7 +2132,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 174800,
       "name": "GIANT",
       "url": "https://open.spotify.com/track/5cZUp0PoAYzsXefD0pdALc"
@@ -4894,7 +4916,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 220053,
       "name": "Only One Story",
       "url": "https://open.spotify.com/track/1nCg2Dg1ay6oNNsROOid1F"
@@ -6466,7 +6488,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 172952,
       "name": "Sweet Dreams (feat. Miguel)",
       "url": "https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k"
@@ -6870,7 +6892,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 211266,
       "name": "TOP OF THE GAME",
       "url": "https://open.spotify.com/track/4fMLyGn9Ku23CLO9draGbB"

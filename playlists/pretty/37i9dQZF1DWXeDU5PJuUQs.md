@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,641 likes - 64 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,763 likes - 64 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 20 | [No Me Sigas Más \- En Vivo](https://open.spotify.com/track/26sh3TichZ1YnLGHvCnJVP) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi), [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [35 Años \(En Vivo\)](https://open.spotify.com/album/1aMMeshkQBx8XjnABlzGMn) | 4:01 |
 | 21 | [A Puro Dolor / Un Montón de Estrellas \- Live](https://open.spotify.com/track/479e6N75lPYvWORxdUp8fZ) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [A Puro Dolor / Un Montón de Estrellas \(Live\)](https://open.spotify.com/album/4ZAXQiJmXveCBSefUhlwHE) | 3:12 |
 | 22 | [Cumbia Dile \- En Vivo](https://open.spotify.com/track/6OkKSac9tED1Pnxo16G9Ng) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [En Vivo Movistar Arena, Sesión 6](https://open.spotify.com/album/3UOFdd8nRoCnDXDD733Mcf) | 2:37 |
-| 23 | [No Va a Venir](https://open.spotify.com/track/7khla88C1xwKeI6qzwcOuH) | [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [URIEL LOZANO / Zapada EN VIVO en UN POCO DE RUIDO!](https://open.spotify.com/album/5UecDIxoca5aq0Xko7VcuE) | 1:08 |
+| 23 | [Yo Era](https://open.spotify.com/track/3n6EihEumKlLky7mfeOj71) | [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Q' LOKURA / Zapada EN VIVO en UN POCO DE RUIDO!](https://open.spotify.com/album/2bjRXWxUeKc2X7PYoUBs3v) | 2:12 |
 | 24 | [Enamorado de ti \- Live](https://open.spotify.com/track/2XlREDMzVX02dEcrv9qyeQ) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Live](https://open.spotify.com/album/28OBVQHbRD3faNpl4jW4U8) | 1:46 |
 | 25 | [Estoy Buscando un Amor \- En Vivo](https://open.spotify.com/track/0YZh1ldHeWENOALTKRpwEW) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En Vivo](https://open.spotify.com/album/3KwyevLnQNE7nXJtmIOLc9) | 1:46 |
 | 26 | [Pa' la Selección \- En Vivo](https://open.spotify.com/track/6o74gO9Cc65yOph1pWnWmS) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Luna Park \(En Vivo\)](https://open.spotify.com/album/1Oatu8AcJtDJsC24cEJr3r) | 3:18 |
@@ -71,6 +71,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 61 | [Jurabas Tu \- En Vivo](https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo 2019](https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8) | 2:27 |
 | 62 | [El Delirio de Perderte / Te Vas a Arrepentir / Vete](https://open.spotify.com/track/3XgBkO4HqaUmF9QmtYSQHC) | [Los Lamas](https://open.spotify.com/artist/7wj7mzfPsDlJjUyg2TIW1n), [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX), [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [El Delirio de Perderte / Te Vas a Arrepentir / Vete](https://open.spotify.com/album/7kaJpPaXQWftu2JtlcPnKS) | 6:02 |
 | 63 | [Nunca Más \- En Vivo](https://open.spotify.com/track/0KNEOI14ngvaVebUikICG7) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Nunca Más \(En Vivo\)](https://open.spotify.com/album/1cVkFAllEL8LHbwU0OHsUA) | 3:04 |
-| 64 | [El Maestro \- En Vivo](https://open.spotify.com/track/0lPf2bsPuQb3nJBKPZcA3q) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [El Maestro \(En Vivo\)](https://open.spotify.com/album/3zF4GveHnKZxpDUbyz4eOM) | 4:20 |
+| 64 | [No Llores \- En Vivo](https://open.spotify.com/track/24U7yMeIbDoIn8aZXtOj13) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [En Vivo en el Gran Rex](https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx) | 2:57 |
 
 Snapshot ID: `Z9SbAwAAAAD6zky5avfbomc6ebujQzCU`

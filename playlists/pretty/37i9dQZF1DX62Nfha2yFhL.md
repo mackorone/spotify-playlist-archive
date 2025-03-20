@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Own Thing](https://open.spotify.com/track/12Ji6jw8obSZ00XfagBxud) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [Own Thing](https://open.spotify.com/album/22hrrkRhDX1Qr9gGCCLa0H) | 2:41 |
-| 2 | [Impact](https://open.spotify.com/track/4mGAgHZ5kZwxvXEYqOxbOu) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Impact](https://open.spotify.com/album/2M4e4YtEp2Dyrozz7ghg1U) | 5:00 |
+| 2 | [Impact](https://open.spotify.com/track/4mGAgHZ5kZwxvXEYqOxbOu) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Impact](https://open.spotify.com/album/2M4e4YtEp2Dyrozz7ghg1U) | 4:59 |
 | 3 | [Oh I](https://open.spotify.com/track/6lgpP2tQ8zyVHZTNUKJk1q) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Oh I](https://open.spotify.com/album/3Na8m2k5Xz4PZkA4l5FoBz) | 3:57 |
 | 4 | [Playing With Fire](https://open.spotify.com/track/04RTHjA20H65nhX9REmVQu) | [Ballad](https://open.spotify.com/artist/5rzpNZtFsVj1CxuF9qzeRx), [Jaye Locke](https://open.spotify.com/artist/6etTs24y7PrNhUggFGCGf9) | [Playing With Fire](https://open.spotify.com/album/73yJ7Lj6yuNLE6tRUcAosl) | 2:17 |
 | 5 | [Stay In Time](https://open.spotify.com/track/1Nl0xn0EDNVfuY6yb7hKTv) | [Nicole Chambers](https://open.spotify.com/artist/5kvxSGkZcVesEX2mqw0AtC) | [Love Had Other Plans, Pt\. 2](https://open.spotify.com/album/0JMXQR3Ya4UI3KDK2IdHav) | 3:12 |

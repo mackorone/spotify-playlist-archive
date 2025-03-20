@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di RRARI DAL TACCO, Rose Villain, Low\-Red, Side Baby, Frezza e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,014 likes - 120 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,022 likes - 120 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

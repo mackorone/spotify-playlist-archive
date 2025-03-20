@@ -2,7 +2,7 @@
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> De nieuwste Nederlandse pop! Cover: Roxy & Koen
+> De nieuwste Nederlandse pop! Cover: Roxy Dekker & Koen
 
 884 songs - 1 day 18 hr 30 min
 

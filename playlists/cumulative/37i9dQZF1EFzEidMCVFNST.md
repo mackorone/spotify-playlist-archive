@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-478 songs - 22 hr 45 min
+479 songs - 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,8 @@
 | [Motivo pra Beber](https://open.spotify.com/track/4lotNFykiveDxmTwWQcO85) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Motivo pra Beber](https://open.spotify.com/album/4McyvomF64tgv5diV7gh8T) | 2:45 | 2024-01-29 |  |
 | [Muda De Planeta](https://open.spotify.com/track/02pratXuIvJ6NlCdmNcFhR) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Acústico Do Nada](https://open.spotify.com/album/64p7CrFGlKyEFvAnv3P0D4) | 2:07 | 2025-01-30 |  |
 | [Muita Falta](https://open.spotify.com/track/47fSU1jYWAwygy0kL4CwEE) | [Os Parazim](https://open.spotify.com/artist/0jhNzTzC1CZaf2FFgBVCMT), [Thiago e Samuel](https://open.spotify.com/artist/47G1BLjQOWOwr75duaf1QC), [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [Pra Beber Chorando](https://open.spotify.com/album/38OcA8qfNUeOTATJTbo93Y) | 2:34 | 2024-01-29 |  |
-| [Mãozinha pra Cima \- Ao Vivo](https://open.spotify.com/track/1iiLYGY4EFABbBeylX68IO) | [Talis e Welinton](https://open.spotify.com/artist/1NBkKa2SgVP0uirl5vAB8t), [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [Os Mineiros Tão Chegando \(Ao Vivo\)](https://open.spotify.com/album/0lqfQYbROoPPdSVHhIrqqr) | 2:59 | 2024-01-29 |  |
+| [Mãozinha pra Cima](https://open.spotify.com/track/1lziNb9KzK3EQa3zJzLRy0) | [Talis e Welinton](https://open.spotify.com/artist/1NBkKa2SgVP0uirl5vAB8t), [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [Aí Desgramou](https://open.spotify.com/album/3GKbqm3AIzroso7uhXqSQC) | 2:59 | 2025-03-19 |  |
+| [Mãozinha pra Cima \- Ao Vivo](https://open.spotify.com/track/1iiLYGY4EFABbBeylX68IO) | [Talis e Welinton](https://open.spotify.com/artist/1NBkKa2SgVP0uirl5vAB8t), [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [Os Mineiros Tão Chegando \(Ao Vivo\)](https://open.spotify.com/album/0lqfQYbROoPPdSVHhIrqqr) | 2:59 | 2024-01-29 | 2025-03-20 |
 | [Na Cama Compensa](https://open.spotify.com/track/5AueELOkv6OEs9yN0NZPZO) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Na Cama Compensa](https://open.spotify.com/album/3k3EzpAgpxmjgTjQKWPAly) | 2:48 | 2024-01-29 |  |
 | [Na Cama Dela](https://open.spotify.com/track/4Z4prz78H1qIqKW0jTVlkw) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [ROB](https://open.spotify.com/artist/28BqOPsYMkqVhM6uaLH0mC) | [Na Cama Dela](https://open.spotify.com/album/77z0X7AicfNv100O53IWQU) | 3:12 | 2024-01-29 | 2024-08-13 |
 | [Na Cama Dela](https://open.spotify.com/track/3RRi0avqiUOLAl97XFAEXz) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [Rob Suárez](https://open.spotify.com/artist/0VzSusN9DJTXG802JBdkmT) | [Na Cama Dela](https://open.spotify.com/album/0xndJjz6YrSd6Stn4SvU3z) | 3:12 | 2024-08-12 |  |

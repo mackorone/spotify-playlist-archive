@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-874 songs - 3 day 4 hr 5 min
+875 songs - 3 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,7 +423,7 @@
 | [Life Is...](https://open.spotify.com/track/0DSxtNjXsZk06n3Fqdjl26) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Life Is...](https://open.spotify.com/album/2kVQXgXsVuu41T86tXb4vo) | 4:13 | 2022-10-24 | 2022-11-18 |
 | [LIFETIME](https://open.spotify.com/track/1eO0SE3sEubF64JYIMUkOC) | [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [CHXRL](https://open.spotify.com/artist/53YDsmOqu4zlV0VQbNUUNZ) | [LIFETIME](https://open.spotify.com/album/7vCihcZvgFZJTWeGHmFsZY) | 5:36 | 2024-07-05 | 2024-08-31 |
 | [Lifetime \- KASSIN Remix](https://open.spotify.com/track/1x8T63Txd5UnTvHUKlN4x0) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs), [KASSIN](https://open.spotify.com/artist/43U47RCO85AIb75zzIypfl) | [Lifetime \(KASSIN Remix\)](https://open.spotify.com/album/40VYumgeItn0xMNP5pp1eM) | 5:21 | 2024-04-05 | 2025-01-11 |
-| [Light Down](https://open.spotify.com/track/0wlYNRYVtGYJsJcd2xe31k) | [Meloko](https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg), [Garla](https://open.spotify.com/artist/7rWJlrAgnfBKkExJOPqpiQ) | [Light Down](https://open.spotify.com/album/59t9U3I17pMqt5ixq3ELpb) | 4:34 | 2024-08-09 |  |
+| [Light Down](https://open.spotify.com/track/0wlYNRYVtGYJsJcd2xe31k) | [Meloko](https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg), [Garla](https://open.spotify.com/artist/7rWJlrAgnfBKkExJOPqpiQ) | [Light Down](https://open.spotify.com/album/59t9U3I17pMqt5ixq3ELpb) | 4:34 | 2024-08-09 | 2025-03-20 |
 | [Light up my dark](https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Light up my dark](https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA) | 3:28 | 2024-07-26 | 2024-10-05 |
 | [Like A Dream](https://open.spotify.com/track/5BfmbGA0K89froxm1kNBF1) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [Like A Dream](https://open.spotify.com/album/2g6OYPEIP9D20JF6MRxElp) | 4:13 | 2024-08-30 |  |
 | [Like Dat](https://open.spotify.com/track/27C2ZFkZL7ylL4bAcHwLOd) | [Danidane](https://open.spotify.com/artist/0iuUN6j3vMee2NUjkFJDF3), [MAAURA](https://open.spotify.com/artist/40AKih5OpGrRTlHilgilSN) | [Like Dat](https://open.spotify.com/album/6ee6CcsF6D44Kv7LJDgrtX) | 2:58 | 2025-03-14 |  |
@@ -594,6 +594,7 @@
 | [Oud Imperial](https://open.spotify.com/track/4LTCKJhqbHAa8sbDZ5XBMF) | [Michael Simon](https://open.spotify.com/artist/47tdos6tQTQ9AntqjEQjnj) | [Oud Imperial](https://open.spotify.com/album/7khYH0dkJQYr557uLisMal) | 8:36 | 2021-04-21 | 2022-08-19 |
 | [Oudara \- Club Mix](https://open.spotify.com/track/0QX9AiK3RhrJuJEHBlpYVd) | [Daniel Rateuke](https://open.spotify.com/artist/27NerKeEGofbhhDMEhagyq) | [Oudara](https://open.spotify.com/album/7rdSwrZvfnJZfSl8Cmi3Mk) | 5:45 | 2022-07-01 | 2022-07-20 |
 | [Oui](https://open.spotify.com/track/0ul0kiAntcvHNjFxmalmAH) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Oui](https://open.spotify.com/album/67FpC9iDSgusXtLlAFjNLz) | 6:12 | 2024-10-04 | 2024-10-11 |
+| [Our Future](https://open.spotify.com/track/62oJjkXdoGQ9T44blbOSky) | [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Amal Nemer](https://open.spotify.com/artist/4dJbkK58s6mj9RGElqCNhm), [Adam Nazar](https://open.spotify.com/artist/0K9gqsmGSMWBcf0tDgbMGa) | [Our Future](https://open.spotify.com/album/73QTtFjtCw5z6AT1MewUBC) | 4:10 | 2025-03-14 |  |
 | [Out of Focus \(feat\. Zoot Woman\) \- Âme Remix](https://open.spotify.com/track/3jc7WSwiPPAjdokdwVflJk) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Zoot Woman](https://open.spotify.com/artist/25w2vpqq7dYleBAqMx7Ijx), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Nobody Is Not Loved, Remixes, Pt\. 3](https://open.spotify.com/album/5bFS2PZfzq8CGP58M23ktV) | 6:24 | 2022-06-10 | 2022-12-24 |
 | [Out of Sight](https://open.spotify.com/track/0oXlBKfmpMcpjHF94j5UBd) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv), [Nina Nst](https://open.spotify.com/artist/6S7CIpIi5NY2ZmdUP9Wh4Q) | [Out of Sight](https://open.spotify.com/album/5o602wD0yatOExl8G8qWkw) | 4:02 | 2023-12-15 | 2024-10-26 |
 | [Overnight](https://open.spotify.com/track/2ckYzNOvjKVQX5ARttEhlo) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Overnight](https://open.spotify.com/album/6Bx2GZ9URhZitfByTc5eCS) | 3:58 | 2023-11-30 | 2024-02-24 |

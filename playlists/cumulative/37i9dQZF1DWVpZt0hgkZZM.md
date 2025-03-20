@@ -4,7 +4,7 @@
 
 > ¡Pasadía y sabrosura!
 
-228 songs - 15 hr 4 min
+229 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [La Colombina](https://open.spotify.com/track/4Ta7BfcQLJnSmZRzmLiDOw) | [Los Ocho De Colombia](https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO), [Éder Ortega](https://open.spotify.com/artist/10F9S7qIt4XGUIovk8wuqZ) | [Historia Musical de los Ocho de Colombia](https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq) | 3:38 | 2024-04-06 | 2024-07-22 |
 | [La Cortina](https://open.spotify.com/track/0XpkNGlNxymDTXO1SzcWDN) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Margarita](https://open.spotify.com/artist/0L921lGxWEpNId5sF8rBbl) | [Música Tropical de Colombia, Vol\. 8](https://open.spotify.com/album/5JXgXf9poscgE9mKObQUoi) | 2:53 | 2021-12-16 | 2023-08-28 |
 | [La Danza de los Mirlos \- Instrumental](https://open.spotify.com/track/7HHFSKXG3UIaJDdVkkrI3c) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Historia Musical de Afrosound: 40 Éxitos](https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM) | 2:54 | 2024-07-12 | 2025-02-02 |
+| [La Empanadita](https://open.spotify.com/track/2YGjLZYNypW8aKRVM8fIDZ) | [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Historia Musical de Calixto Ochoa: 40 Éxitos](https://open.spotify.com/album/2m8Ca1G3Hq1biWbYIkjDkE) | 3:50 | 2024-07-12 |  |
 | [La Fotografia](https://open.spotify.com/track/7i9uj69rIkwhdfTEufTlZO) | [Richie Cepeda](https://open.spotify.com/artist/6xRglkIjJnIhNWRE69S0WJ) | [Mis Exitos Vol.1](https://open.spotify.com/album/1OMSX1edYAzHljA8tU1z0x) | 4:06 | 2021-12-16 | 2024-04-19 |
 | [La Lira](https://open.spotify.com/track/5iQLKcB8MT3TcgBk1qFscs) | [Los Embajadores Vallenato](https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X) | [Grandes Exitos](https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM) | 3:28 | 2021-12-16 | 2023-05-27 |
 | [La Mafafa](https://open.spotify.com/track/6ssMfGx7MMrJlvdvuRfZCA) | [La Sonora Cordobesa](https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK), [Eliseo Herrera](https://open.spotify.com/artist/3YpIrDTEyfabU64t89sani), [Pedro Laza Y Sus Pelayeros](https://open.spotify.com/artist/0CulHu6suXmBEZRI9pYgnk) | [Historia Musical de la Sonora Cordobesa](https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0) | 2:35 | 2024-07-12 |  |
@@ -168,7 +169,7 @@
 | [muero por verla luis mateus vallenato](https://open.spotify.com/track/0TONniNVBHXA4QvTw93P91) | [14 vallenatos sabroso corta venas vol.1 exitos](https://open.spotify.com/artist/06KHPOCzkYqiehC5da8hrl) | [14 vallenatos sabroso](https://open.spotify.com/album/0gXmF1WjNrMS7lr2IGvZlc) | 4:43 | 2021-12-16 | 2024-04-19 |
 | [Murió el Amor](https://open.spotify.com/track/3IBHk98QXBCC7Zv8mbOD4G) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Historia Musical de los Chiches Vallenatos: Éxitos Originales](https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt) | 4:09 | 2021-12-16 | 2024-04-06 |
 | [Muñeca Linda](https://open.spotify.com/track/3tMOxV5YBp4Z9F7f8YOpPI) | [Los Ocho De Colombia](https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO) | [Historia Musical de los Ocho de Colombia](https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq) | 3:32 | 2024-04-06 |  |
-| [No Pude Quitarte las Espinas](https://open.spotify.com/track/6BEFSPf7fEJCWdTtNprn3j) | [Erick Escobar](https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W), [Nayo Quintero](https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO) | [Historia Musical de 14 Vallenatos Románticos](https://open.spotify.com/album/3LMhF3xPIjr9e2e9sdFR9U) | 3:55 | 2024-04-06 |  |
+| [No Pude Quitarte las Espinas](https://open.spotify.com/track/6BEFSPf7fEJCWdTtNprn3j) | [Erick Escobar](https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W), [Nayo Quintero](https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO) | [Historia Musical de 14 Vallenatos Románticos](https://open.spotify.com/album/3LMhF3xPIjr9e2e9sdFR9U) | 3:55 | 2024-04-06 | 2025-03-20 |
 | [No Quiero Perderte](https://open.spotify.com/track/6R9LJSxA6wo0f5qbug8Ely) | [Luis Mateus Y La Nueva Generacion](https://open.spotify.com/artist/47Bb4NcbxnlPH6LIYgAGFF), [David Rendon](https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX) | [14 Vallenatos Románticos, Vol\. 2](https://open.spotify.com/album/5qalo3WHEnhtAXM9hlQBY3) | 4:52 | 2021-12-16 | 2024-04-19 |
 | [Noches de Fantasia](https://open.spotify.com/track/3PeQq6jHoOXcEi3OjDO6xu) | [Roberto Antonio](https://open.spotify.com/artist/1OuxoQIMrPUQOoshgkopYx) | [Mentirosa](https://open.spotify.com/album/1WfKKkx38gcIJrdekcDwO4) | 3:51 | 2021-12-16 |  |
 | [Nochesde Fantasia](https://open.spotify.com/track/20gUAOtCVLjX2x3tUaNinY) | [Roberto Antonio](https://open.spotify.com/artist/1OuxoQIMrPUQOoshgkopYx) | [Bailando Con Roberto Antonio](https://open.spotify.com/album/0doc3F2HPyvkprfqQkyD3w) | 3:53 | 2021-12-16 | 2024-02-09 |

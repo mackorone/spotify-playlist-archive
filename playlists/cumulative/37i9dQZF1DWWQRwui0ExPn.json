@@ -45792,7 +45792,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 102236,
       "name": "Frizzante",
       "url": "https://open.spotify.com/track/3QcACSIExmfcnMx9ZUXIsO"
@@ -59012,7 +59012,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 124500,
       "name": "Industrial Skyfall",
       "url": "https://open.spotify.com/track/3evbYbOixIUNCfOXSkrFsZ"
@@ -62460,7 +62460,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-25",
+      "date_removed": null,
       "duration_ms": 155435,
       "name": "Jouissance",
       "url": "https://open.spotify.com/track/1KuLyZWT9FbLsFGsi6LpXU"
@@ -71844,7 +71844,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 130015,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/626uDYzL00EWwr92rTREz3"
@@ -102114,7 +102114,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 138352,
       "name": "Roll the Dice",
       "url": "https://open.spotify.com/track/4dSXPcxNserQeYmrJYVKFi"
@@ -106984,6 +106984,24 @@
       "duration_ms": 141800,
       "name": "Shimmering",
       "url": "https://open.spotify.com/track/2zrGYgP08Z7jodj5WUxuET"
+    },
+    {
+      "album": {
+        "name": "shimmers",
+        "url": "https://open.spotify.com/album/5RdPoV2NtACzvtrt70azWd"
+      },
+      "artists": [
+        {
+          "name": "sloh rou",
+          "url": "https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116756,
+      "name": "shimmers",
+      "url": "https://open.spotify.com/track/6iNQ0fLQhPPiCDOwp6aaOs"
     },
     {
       "album": {
@@ -118479,6 +118497,28 @@
     },
     {
       "album": {
+        "name": "sundown",
+        "url": "https://open.spotify.com/album/3O0CfJ4Iei7CJV3u0bCmKs"
+      },
+      "artists": [
+        {
+          "name": "B-Side",
+          "url": "https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O"
+        },
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100814,
+      "name": "sundown",
+      "url": "https://open.spotify.com/track/3zgp5YFeWXFKLhJCB1tMpZ"
+    },
+    {
+      "album": {
         "name": "Voyage",
         "url": "https://open.spotify.com/album/3hBqYQCIB3a0iBYiUqWoNy"
       },
@@ -119528,6 +119568,24 @@
       "duration_ms": 144000,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/7u9uPqcZRvYbq9KfNLTcF8"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/3DipFw150DI1cDUnaAoOu4"
+      },
+      "artists": [
+        {
+          "name": "Screwaholic",
+          "url": "https://open.spotify.com/artist/5eU7vrLU6MHqmoGKPSDAbb"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137578,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4JreKrf8Qu58FAu5dr5LFv"
     },
     {
       "album": {

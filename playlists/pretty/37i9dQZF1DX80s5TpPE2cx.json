@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Cruel Santino",
-  "num_followers": 14970,
+  "num_followers": 14993,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -323,8 +323,8 @@
     {
       "added_at": "2025-03-14 05:42:32",
       "album": {
-        "name": "In The Morning",
-        "url": "https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW"
+        "name": "Better Days / Wetin Dey",
+        "url": "https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
         }
       ],
-      "duration_ms": 187206,
-      "name": "In The Morning",
-      "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
+      "duration_ms": 146447,
+      "name": "Wetin Dey",
+      "url": "https://open.spotify.com/track/6rB1KkvMlXl5hPB7EbTWw5"
     },
     {
       "added_at": "2025-03-14 05:42:32",
@@ -483,8 +483,8 @@
     {
       "added_at": "2025-03-14 05:42:32",
       "album": {
-        "name": "Better Days / Wetin Dey",
-        "url": "https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun"
+        "name": "In The Morning",
+        "url": "https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
         }
       ],
-      "duration_ms": 146447,
-      "name": "Wetin Dey",
-      "url": "https://open.spotify.com/track/6rB1KkvMlXl5hPB7EbTWw5"
+      "duration_ms": 187206,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
     },
     {
       "added_at": "2025-03-14 05:42:32",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-03-14 05:42:32",
       "album": {
-        "name": "Skedaddle",
-        "url": "https://open.spotify.com/album/4sFlx19QsShdNFbRS1PwrO"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 150858,
-      "name": "Skedaddle",
-      "url": "https://open.spotify.com/track/58cAdQzxl5avwnhYpJg8C7"
-    },
-    {
-      "added_at": "2025-03-14 05:42:32",
-      "album": {
         "name": "First Signs Of Me",
         "url": "https://open.spotify.com/album/2vIJ06C2k4jqCL4jT5ckfo"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 229653,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/70Vi4xM9hhWhby2TH2IsGg"
+    },
+    {
+      "added_at": "2025-03-14 05:42:32",
+      "album": {
+        "name": "Skedaddle",
+        "url": "https://open.spotify.com/album/4sFlx19QsShdNFbRS1PwrO"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 150858,
+      "name": "Skedaddle",
+      "url": "https://open.spotify.com/track/58cAdQzxl5avwnhYpJg8C7"
     },
     {
       "added_at": "2025-03-14 05:42:32",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-03-14 05:42:32",
       "album": {
-        "name": "sundays",
-        "url": "https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP"
-      },
-      "artists": [
-        {
-          "name": "\u00d8bed",
-          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "sundays",
-      "url": "https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ"
-    },
-    {
-      "added_at": "2025-03-14 05:42:32",
-      "album": {
         "name": "Leap of Faith",
         "url": "https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 259134,
       "name": "My Wave",
       "url": "https://open.spotify.com/track/7FbmKPvnVKpyd45jDsRhlF"
+    },
+    {
+      "added_at": "2025-03-14 05:42:32",
+      "album": {
+        "name": "sundays",
+        "url": "https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP"
+      },
+      "artists": [
+        {
+          "name": "\u00d8bed",
+          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "sundays",
+      "url": "https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ"
     },
     {
       "added_at": "2025-03-14 05:42:32",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-03-14 05:42:32",
       "album": {
-        "name": "Lagos City Vice",
-        "url": "https://open.spotify.com/album/4ogJSCLn5r8ShZZdAnlBj5"
-      },
-      "artists": [
-        {
-          "name": "WANI",
-          "url": "https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "China Designer",
-      "url": "https://open.spotify.com/track/67OocI3BccxEbDwPoJGwk0"
-    },
-    {
-      "added_at": "2025-03-14 05:42:32",
-      "album": {
         "name": "Boytoy",
         "url": "https://open.spotify.com/album/3FrtQZ6SzVEnCu8jebdrP7"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 139459,
       "name": "Boytoy",
       "url": "https://open.spotify.com/track/26JP5SQwytblnVcW1x9kGc"
+    },
+    {
+      "added_at": "2025-03-14 05:42:32",
+      "album": {
+        "name": "Lagos City Vice",
+        "url": "https://open.spotify.com/album/4ogJSCLn5r8ShZZdAnlBj5"
+      },
+      "artists": [
+        {
+          "name": "WANI",
+          "url": "https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "China Designer",
+      "url": "https://open.spotify.com/track/67OocI3BccxEbDwPoJGwk0"
     }
   ],
   "unique_name": "Alt\u00e9 Classics ",

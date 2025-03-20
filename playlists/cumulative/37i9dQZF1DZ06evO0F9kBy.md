@@ -4,7 +4,7 @@
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-97 songs - 7 hr 17 min
+98 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Firelight](https://open.spotify.com/track/1j5N5RTJPkawg8eYodXo9z) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP) | 4:14 | 2022-09-14 | 2022-10-13 |
 | [Flesh And Bone](https://open.spotify.com/track/6ZY1RmNRqBosEHmgQP5I8B) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 6:05 | 2022-09-14 | 2022-10-08 |
 | [Give Thanks To God](https://open.spotify.com/track/4Ox0ZgzigtRmNipYiZrY9h) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Give Thanks To God](https://open.spotify.com/album/4sp4pvAi81nztpcuPWNa3g) | 3:34 | 2024-09-23 |  |
-| [Go Tell It \(Gloria\)](https://open.spotify.com/track/3rBe2uBbzPxN1ldJpe2RAM) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK) | [Go Tell It \(Gloria\)](https://open.spotify.com/album/0zyVJyBQiTJ5XEiRJMThbJ) | 3:19 | 2023-12-13 |  |
+| [Go Tell It \(Gloria\)](https://open.spotify.com/track/3rBe2uBbzPxN1ldJpe2RAM) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK) | [Go Tell It \(Gloria\)](https://open.spotify.com/album/0zyVJyBQiTJ5XEiRJMThbJ) | 3:19 | 2023-12-13 | 2025-03-20 |
 | [God, Turn It Around \(feat\. Matt Maher\) \- Live Version](https://open.spotify.com/track/3h6jF4dFCELdphlOk0wlFc) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [God, Turn It Around](https://open.spotify.com/album/7MUAMw8GcvLQmtDZ6mADWU) | 4:40 | 2024-08-03 |  |
 | [Hallelujah Anyway](https://open.spotify.com/track/3Cp0A3E8eC9NYJkRdA9Pg9) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Hallelujah Anyway](https://open.spotify.com/album/1sndI5DfQfIDCxOG7vBIwy) | 3:45 | 2023-12-13 |  |
 | [Hallelujah, You Are Good \(feat\. Matt Maher\)](https://open.spotify.com/track/3XenID3zL7KUMTgBhNp9Iz) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Worship And Believe \(Deluxe Edition\)](https://open.spotify.com/album/2x3pEnvjOnFfn6er1yGlf4) | 3:30 | 2022-09-14 |  |
@@ -72,6 +72,7 @@
 | [No Body \(feat\. Matt Maher\)](https://open.spotify.com/track/3KhD8sFLTlH2rFvMskQoUb) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Get Out of the Way of Your Own Heart \(Deluxe Edition\)](https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN) | 4:06 | 2022-09-14 |  |
 | [One Heart at a Time](https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [One Heart at a Time](https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG) | 4:22 | 2022-09-24 | 2024-06-30 |
 | [Only Good Will Grow \(feat\. Brian Elmquist\)](https://open.spotify.com/track/4wVD5bjDg7vJErEv0a4apm) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Brian Elmquist](https://open.spotify.com/artist/5EfuemsjOXqraQLj0WAjHM) | [Only Good Will Grow](https://open.spotify.com/album/36OsXL7Ib4ux8PGSrvTi5P) | 2:32 | 2022-09-14 | 2022-10-24 |
+| [Praise The Giver](https://open.spotify.com/track/7qU5CtWCaDBFvHQ20MeZTL) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Wait / Praise The Giver](https://open.spotify.com/album/1trTP6UbgtdJmY2tcyXH1i) | 4:01 | 2025-03-20 |  |
 | [Remembrance \(Communion Song\)](https://open.spotify.com/track/4U1kozpFOiKDYb7CDjqPt7) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 5:18 | 2022-09-14 |  |
 | [Rest](https://open.spotify.com/track/7nEzee6SW3xOxh5ciJsei2) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP) | 4:40 | 2022-09-14 | 2023-02-02 |
 | [Run To The Father](https://open.spotify.com/track/2Sl2SQCQ3SAqB9u08FVeSc) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 4:41 | 2022-09-14 |  |

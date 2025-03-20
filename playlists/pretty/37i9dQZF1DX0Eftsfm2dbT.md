@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: YENTOWN
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,976 likes - 81 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,002 likes - 81 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 19 | [Red Mug](https://open.spotify.com/track/17yYNiYFHWHZFjR90nFKj2) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [Red Mug](https://open.spotify.com/album/6IFCZmMeSWopbn7NigDriu) | 2:00 |
 | 20 | [Yoyogi Alien](https://open.spotify.com/track/3uyJWZDb8i49fmZSqPuc1F) | [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6) | [Yoyogi Alien](https://open.spotify.com/album/1YDJUDRGsTWG8pSF3hR18O) | 2:33 |
 | 21 | [Saint\-Seiya](https://open.spotify.com/track/62i7iuG7akqkLJGLAyRxlx) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [zero\-one](https://open.spotify.com/album/6mj5Cq5VB75f9PQG2xNI5w) | 1:41 |
-| 22 | [NAMUABIDABUTSU](https://open.spotify.com/track/4Ut51OA7TQws6H317lKNL7) | [TSUBAKI](https://open.spotify.com/artist/4JYzhKm64vGTGyOXq0qw4l) | [NAMUABIDABUTSU](https://open.spotify.com/album/7mdjhXD3lrQN53elroaBL4) | 3:27 |
+| 22 | [NAMUABIDABUTSU](https://open.spotify.com/track/4Ut51OA7TQws6H317lKNL7) | [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1) | [NAMUABIDABUTSU](https://open.spotify.com/album/7mdjhXD3lrQN53elroaBL4) | 3:27 |
 | 23 | [Maybe](https://open.spotify.com/track/6CLe2yX8UTEClxLwy02sTh) | [SPARTA](https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA) | [Maybe](https://open.spotify.com/album/5Cu4fK6VT2w9KrvgU00E2V) | 3:07 |
 | 24 | [DREAMIN' BOI ISSUE Pt.2](https://open.spotify.com/track/1ytbxItZUYiba4KfHgmaCJ) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [DREAMIN' BOI ISSUE Pt.2](https://open.spotify.com/album/12Ih90Oy0zPcqmL1xLr8bj) | 2:12 |
 | 25 | [Life has changed](https://open.spotify.com/track/5gJGF6bSk2EBhvQ3EVLPrl) | [YungFLX](https://open.spotify.com/artist/4602NT3AQtVUISnd0cSXSe) | [In My Mood.](https://open.spotify.com/album/1EpL6trlGzFmUa6ilNxbMa) | 2:46 |

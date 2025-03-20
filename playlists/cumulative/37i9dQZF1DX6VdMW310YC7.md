@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,745 songs - 4 day 23 hr 7 min
+1,746 songs - 4 day 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,7 @@
 | [Current Mood](https://open.spotify.com/track/51nEqnd8J0vPDAAmqCU0S9) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR) | [Current Mood](https://open.spotify.com/album/7gBjrZVgMF3rllXzlSGc8u) | 6:18 | 2020-05-18 | 2020-07-18 |
 | [Daffodils](https://open.spotify.com/track/6Wx7Zbi9bgT0qqqmWndWW5) | [Jacaszek](https://open.spotify.com/artist/46xbeTrtjYfCObCHTlGOPW) | [Daffodils](https://open.spotify.com/album/0wc6Yze5PRKUGdMPayCTGq) | 5:01 | 2020-05-18 | 2021-01-11 |
 | [Dapple](https://open.spotify.com/track/6zU1KwHoeJfyinQtFyst4m) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Dapple](https://open.spotify.com/album/1P2cw0QNAaWCdPF7H5fxvJ) | 3:28 | 2020-03-20 | 2022-04-21 |
-| [Dark In This Room](https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Dark In This Room](https://open.spotify.com/album/0wrMY5uUsBFVvfnXLLeA6z) | 4:12 | 2024-06-21 |  |
+| [Dark In This Room](https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Dark In This Room](https://open.spotify.com/album/0wrMY5uUsBFVvfnXLLeA6z) | 4:12 | 2024-06-21 | 2025-03-20 |
 | [Dawn \(feat\. ROBB\)](https://open.spotify.com/track/6u34bB6XweoIFTtBOEvoZr) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [ROBB](https://open.spotify.com/artist/4fCOnFAkJPYFgK847YsUXv) | [Dawn EP](https://open.spotify.com/album/6r12F8ZnMQxGdUVBWoBjqM) | 4:33 | 2020-05-18 | 2020-07-03 |
 | [Day Dream](https://open.spotify.com/track/35anp3GjvtlMY0869WNQpY) | [Eleven Fly](https://open.spotify.com/artist/34qu9X2o3eh1ly1VgbGbuK), [March 13](https://open.spotify.com/artist/1HFMq4FxAkAIGOedJoCBDO) | [Run / Day Dream EP](https://open.spotify.com/album/1LTOux9nnTVZe1pDRPzOLT) | 3:38 | 2020-05-18 | 2020-07-18 |
 | [Daybreak](https://open.spotify.com/track/1laVJxoALXrvIeVesYSkzW) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Daybreak](https://open.spotify.com/album/4j5869Gvx7MsgWmtCzmKt7) | 3:34 | 2023-01-06 | 2023-06-17 |
@@ -960,6 +960,7 @@
 | [Maelstrom](https://open.spotify.com/track/4ItMchWCT6d3acnzQfcpmy) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Breathing](https://open.spotify.com/album/1bgPsKJwqED6DoNaZNdM42) | 3:57 | 2020-02-29\* | 2020-03-16 |
 | [Magic](https://open.spotify.com/track/7GYLsGlCPqSkLBNDC5mVyl) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe), [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Magic](https://open.spotify.com/album/3sv4c3hqHP1ZO8Nj62W8TS) | 2:50 | 2020-05-19 | 2020-07-03 |
 | [Magnolia](https://open.spotify.com/track/60JoeD2lqbdEdHJKWpr4fR) | [Mill3ristic](https://open.spotify.com/artist/5uw2mAXEjBHYEMGEmef3vj) | [Decursu Temporis](https://open.spotify.com/album/2vZcrEW0gOQNTuces3LFLF) | 1:57 | 2020-07-18 | 2020-10-09 |
+| [Maitri](https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Maitri](https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX) | 2:57 | 2025-03-14 |  |
 | [Make It Happen](https://open.spotify.com/track/7K1TsEgLCoNxr7tvPRJgrL) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 5:12 | 2022-08-26 | 2022-09-10 |
 | [Make Me Feel](https://open.spotify.com/track/15vFVksXhTVTq0ey47ZOfu) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Trust in Me \- EP](https://open.spotify.com/album/0f8vVaVqgqyVnzeB4m67R0) | 3:21 | 2020-05-18 | 2020-07-18 |
 | [Make Sense](https://open.spotify.com/track/3k5qpizh47tL2CmTsxjs8L) | [Hior Chronik](https://open.spotify.com/artist/0WwDqOLT2m5PuAsFGkEybC), [Anna\-Maria Marjamäki](https://open.spotify.com/artist/3jLyfJjicxYfifKU3dXfLJ) | [Descent](https://open.spotify.com/album/2rowpF97jKbr5ZwqBnMJVk) | 4:37 | 2020-03-17 | 2022-04-21 |

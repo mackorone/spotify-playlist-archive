@@ -5809,6 +5809,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 02",
+        "url": "https://open.spotify.com/album/63Ic75x61p1Mtdcyt8roK5"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u6d77\u6625\u9999 (CV.\u4e2d\u6751\u7e6a\u91cc\u5b50)",
+          "url": "https://open.spotify.com/artist/4VYbbwQ4B6bjc3bJEAjFlL"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217880,
+      "name": "\u30ad\u30e9\u30e1\u30ad\u9032\u884c\u5f62",
+      "url": "https://open.spotify.com/track/0zUxcMSrVLfjuloZtMEBGD"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER THE@TER CHALLENGE 03",
         "url": "https://open.spotify.com/album/3BOcNeDAEEFU9Jns8HSdiw"
       },
@@ -6920,7 +6938,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 255800,
       "name": "\u30e9\u30b9\u30c8\u30fb\u30a2\u30af\u30c8\u30ec\u30b9",
       "url": "https://open.spotify.com/track/7aFUFcStteLnHV1nWxq871"

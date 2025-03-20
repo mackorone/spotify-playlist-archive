@@ -4,7 +4,7 @@
 
 > Lift our voices to Him.
 
-187 songs - 11 hr 45 min
+189 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Lead Me Lord](https://open.spotify.com/track/4dgbVC6F4toQWbqtxGUxY2) | [The Company](https://open.spotify.com/artist/719ZCUqy59oGckcB1MzVTx) | [Lead Me Lord](https://open.spotify.com/album/2i9U09DwsC70jXSznN3dEj) | 3:56 | 2024-03-19 |  |
 | [Let Me The Bearer Of Your Love](https://open.spotify.com/track/1nE5BBrg9sICWlSaE3ddDJ) | [Bukas Palad Music Ministry](https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI) | [Let Me Be the Bearer of Your Love \(A Prayer of a Consecrated Person to God Year of the Clergy & Consecrated Persons 2018\)](https://open.spotify.com/album/5CeKSlONRkoJMb5twVYCRr) | 4:03 | 2023-05-27 |  |
 | [Let Me The Bearer Of Your Love](https://open.spotify.com/track/49VqZClgitESaTcukpSoUU) | [Bukas Palad Music Ministry](https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI) | [Let Me Be the Bearer of Your Love \(A Prayer of a Consecrated Person to God Year of the Clergy & Consecrated Persons 2018\)](https://open.spotify.com/album/7yfhxD2gbd9LWtgOuMxHVP) | 4:03 | 2023-05-27 | 2024-04-19 |
+| [Lord, Send Out Your Spirit \(Psalm 104\)](https://open.spotify.com/track/6E0RsM5FmKwvYl3Jrh0ZQG) | [Himig Heswita](https://open.spotify.com/artist/5vbrczoZLVdjnPuXS7pIt2), [Jeff Ryan Almia Miraflor SJ](https://open.spotify.com/artist/3EzchrOoit4Kl2IZuPdg9a) | [Place Me with Your Son](https://open.spotify.com/album/6HnZ9GvYhsFK19tTbrcl9A) | 3:28 | 2025-03-19 |  |
 | [Maging Katulad Mo](https://open.spotify.com/track/2h6LeC15ynRwIKfg23RN3Z) | [Poppert Bernadas](https://open.spotify.com/artist/6R9MgvtKnpQwMsBMGBr6Hl) | [Maging Katulad Mo](https://open.spotify.com/album/4hh6PV1ZfVjhe2zZ86nauK) | 4:16 | 2023-05-27 |  |
 | [Maging Katulad Mo](https://open.spotify.com/track/3fEX3r2qCLlkrzEw1DqTnk) | [Poppert Bernadas](https://open.spotify.com/artist/6R9MgvtKnpQwMsBMGBr6Hl) | [Maging Katulad Mo](https://open.spotify.com/album/7eqDsFLkkFXnNb6HzPIOO0) | 4:16 | 2023-05-27 | 2024-04-19 |
 | [Magnificat](https://open.spotify.com/track/0Kb9ij6PHxjcil9J2EEz1w) | [Hangad](https://open.spotify.com/artist/6arqpozmPzDwU2DSqllSKX), [Ryza Martinez](https://open.spotify.com/artist/32HuW4Anxc8FZmIPhdpEEt) | [Magalak!](https://open.spotify.com/album/4vMOX7btSPw3xDzc8N8C3b) | 3:49 | 2023-05-27 | 2024-10-25 |
@@ -178,6 +179,7 @@
 | [Tell the World of His Love](https://open.spotify.com/track/0JFuL8kYWWbFhUqsQ15YAh) | [Jamie Rivera](https://open.spotify.com/artist/4w9rFB4pUAUO3OloDQ6wn7) | [Heal Our Land](https://open.spotify.com/album/3c6Mc9tJzhNuK2lDA3sUkh) | 3:58 | 2024-04-18 |  |
 | [Tell the World of His Love](https://open.spotify.com/track/415z6QurDuHWdiSUBoliCD) | [Jamie Rivera](https://open.spotify.com/artist/4w9rFB4pUAUO3OloDQ6wn7) | [Heal Our Land](https://open.spotify.com/album/0amSotTFOh2Bz5xGgkJpja) | 3:58 | 2023-05-27 | 2024-04-19 |
 | [Tell the World of His Love \- 25th Anniversary Edition](https://open.spotify.com/track/0DHAPMFS8mguinkaQ3XEc8) | [Mass Appeal Choir](https://open.spotify.com/artist/0pHKLJU2cFuHWlKSPxvIWv), [Trina Belamide](https://open.spotify.com/artist/5E3VMSkQZ8oV01Ef7Qd07n) | [Tell the World of His Love \(25th Anniversary Edition\)](https://open.spotify.com/album/7uGIHLEb2VblhWlUjybMHx) | 5:19 | 2023-05-27 |  |
+| [Tell The World Of His Love \- Christmas Version](https://open.spotify.com/track/2aOg8LkABAx24IzdJXfmx6) | [Bukas Palad Music Ministry](https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI), [Hangad Music Ministry](https://open.spotify.com/artist/19HHOyJpm8aNxPUkHaWrK0), [Ateneo Chamber Singers](https://open.spotify.com/artist/6BhC65tVU4pWgyZMs5fv3U) | [Tell The World Of His Love \(30th Anniversary Edition\)](https://open.spotify.com/album/3eyHCyD9snnaSCdqdwQdpG) | 3:35 | 2025-03-19 |  |
 | [The Hands That First Held Mary's Child](https://open.spotify.com/track/6vNKmEVcAzacuQGnP4dFci) | [Arman Ferrer](https://open.spotify.com/artist/5YfGrMU4Es7wuGjgC9kuU7), [Kilyawan Consortium of Voices](https://open.spotify.com/artist/5RtTfMMKT06x7vXGN8hWsZ) | [The Hands That First Held Mary's Child](https://open.spotify.com/album/6zuI0hRnPVrqJjNvGPAPKW) | 4:52 | 2023-05-27 |  |
 | [The Hands That First Held Mary's Child](https://open.spotify.com/track/7ngqOBViJsjMqbrDyzs2F4) | [Arman Ferrer](https://open.spotify.com/artist/5YfGrMU4Es7wuGjgC9kuU7), [Kilyawan Consortium of Voices](https://open.spotify.com/artist/5RtTfMMKT06x7vXGN8hWsZ) | [Christmas Begins](https://open.spotify.com/album/6YVtWPL3llNzdCECybMvSz) | 4:52 | 2023-05-27 | 2024-04-19 |
 | [The Summons](https://open.spotify.com/track/2PId7TKSMAcFVM9Ovf1afz) | [John Basil Dungo](https://open.spotify.com/artist/7Gyw3BmXiyTRza4Ds7fgiN) | [The Summons](https://open.spotify.com/album/722SuQLnNDFT1224sYVJy7) | 4:33 | 2023-05-27 |  |

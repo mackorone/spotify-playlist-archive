@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > The best voices in R&B\. Cover: Sasha Keable
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,373 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,394 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 23 | [So Beautiful](https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw) | [Johnny Venus](https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [So Beautiful](https://open.spotify.com/album/1vXBs4AY9fjXsp8tivxXwb) | 3:47 |
 | 24 | [MUTT](https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:12 |
 | 25 | [This body](https://open.spotify.com/track/1OMgq21kzpvXOJzE8Cufnx) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Do you feel the same?](https://open.spotify.com/album/5yWWc7zmTtLFxB9aqFWA0N) | 4:20 |
-| 26 | [Impact](https://open.spotify.com/track/4mGAgHZ5kZwxvXEYqOxbOu) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Impact](https://open.spotify.com/album/2M4e4YtEp2Dyrozz7ghg1U) | 5:00 |
+| 26 | [Impact](https://open.spotify.com/track/4mGAgHZ5kZwxvXEYqOxbOu) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Impact](https://open.spotify.com/album/2M4e4YtEp2Dyrozz7ghg1U) | 4:59 |
 | 27 | [Open Light](https://open.spotify.com/track/0SYNPBvXt0bDUlcFpftz8h) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [For The Deported](https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY) | 3:38 |
 | 28 | [If I Have to Change](https://open.spotify.com/track/6sBHJyktb4PAbrQ2lj3w9T) | [Melina Malone](https://open.spotify.com/artist/605KmpfOyF5FrdSfQkHnq3) | [If I Have to Change](https://open.spotify.com/album/0TuZUq16Z7K84CQ3H8xNEp) | 3:56 |
 | 29 | [Whole New Wardrobe](https://open.spotify.com/track/0h8KtXkpdruN69pSj6Jeav) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x) | [Whole New Wardrobe](https://open.spotify.com/album/6pECjeAHgRpfrukDkAJd8P) | 2:00 |

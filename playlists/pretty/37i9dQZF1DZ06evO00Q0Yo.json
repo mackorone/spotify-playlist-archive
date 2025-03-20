@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 19018,
+  "num_followers": 19022,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAADGQKM0LeQOHdI2+CnKmdCE",
+  "snapshot_id": "Z9i3gAAAAAAQIKEJVg0X69Rz4+Vg6g7A",
   "tracks": [
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diana (feat. Flo Milli)",
-        "url": "https://open.spotify.com/album/7E0jB8tjVNMG1phWYiLEm4"
-      },
-      "artists": [
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 125142,
-      "name": "Diana (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/49ZXHFSsv5gkknhNqubu0R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pretty Girls Cry Too (feat. Lay Bankz, Saweetie & Flo Milli)",
         "url": "https://open.spotify.com/album/4EPslQriJfV1wLD1NS49IU"
       },
@@ -648,9 +628,29 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 107322,
-      "name": "Got The Juice",
-      "url": "https://open.spotify.com/track/4cDMiCvsWskTW4LHtZqscq"
+      "duration_ms": 150293,
+      "name": "Toast",
+      "url": "https://open.spotify.com/track/5djffOhSkIRnKAtZ2bMoqv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diana (feat. Flo Milli)",
+        "url": "https://open.spotify.com/album/7E0jB8tjVNMG1phWYiLEm4"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 125142,
+      "name": "Diana (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/49ZXHFSsv5gkknhNqubu0R"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
       "duration_ms": 138240,
       "name": "Pretty Girls",
       "url": "https://open.spotify.com/track/2u3hKhl5ltq0gbFo8ivsbB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Money (feat. Flo Milli)",
-        "url": "https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 150652,
-      "name": "Money (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP"
     },
     {
       "added_at": null,
@@ -716,9 +696,45 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 150293,
-      "name": "Toast",
-      "url": "https://open.spotify.com/track/5djffOhSkIRnKAtZ2bMoqv"
+      "duration_ms": 107322,
+      "name": "Got The Juice",
+      "url": "https://open.spotify.com/track/4cDMiCvsWskTW4LHtZqscq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Money (feat. Flo Milli)",
+        "url": "https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 150652,
+      "name": "Money (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ho, why is you here ?",
+        "url": "https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 106763,
+      "name": "Pockets Bigger",
+      "url": "https://open.spotify.com/track/6qwlA0caBeRjIlaqnucLrC"
     },
     {
       "added_at": null,
@@ -739,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ho, why is you here ?",
-        "url": "https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P"
+        "name": "Fine Ho, Stay",
+        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
       },
       "artists": [
         {
@@ -748,9 +764,9 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 106763,
-      "name": "Pockets Bigger",
-      "url": "https://open.spotify.com/track/6qwlA0caBeRjIlaqnucLrC"
+      "duration_ms": 122790,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/0g1im1B9PnwuSexz7BogHb"
     },
     {
       "added_at": null,
@@ -779,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fine Ho, Stay",
-        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
+        "name": "Ho, why is you here ?",
+        "url": "https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P"
       },
       "artists": [
         {
@@ -788,9 +804,9 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 122790,
-      "name": "Understand",
-      "url": "https://open.spotify.com/track/0g1im1B9PnwuSexz7BogHb"
+      "duration_ms": 203043,
+      "name": "Like That Bitch",
+      "url": "https://open.spotify.com/track/7zoZd2MuTaQEdF1rlq6Vv1"
     },
     {
       "added_at": null,
@@ -815,22 +831,6 @@
       "duration_ms": 159820,
       "name": "Snatched (with Flo Milli & Saucy Santana) - Remix",
       "url": "https://open.spotify.com/track/214gn7n7rA6KbRIYpznXJT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ho, why is you here ?",
-        "url": "https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 203043,
-      "name": "Like That Bitch",
-      "url": "https://open.spotify.com/track/7zoZd2MuTaQEdF1rlq6Vv1"
     },
     {
       "added_at": null,

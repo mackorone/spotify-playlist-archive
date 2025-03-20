@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon.",
-  "num_followers": 26153,
+  "num_followers": 26161,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -494,15 +494,11 @@
         {
           "name": "Young Fly",
           "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
-        },
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         }
       ],
-      "duration_ms": 147120,
-      "name": "PANNONIA",
-      "url": "https://open.spotify.com/track/5v1qS9RS2g42zeXHevEdYn"
+      "duration_ms": 109455,
+      "name": "SUV",
+      "url": "https://open.spotify.com/track/6jIOiFrWhqvDGzwONFKl3j"
     },
     {
       "added_at": "2025-03-17 13:24:31",
@@ -646,11 +642,15 @@
         {
           "name": "Young Fly",
           "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        },
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         }
       ],
-      "duration_ms": 109455,
-      "name": "SUV",
-      "url": "https://open.spotify.com/track/6jIOiFrWhqvDGzwONFKl3j"
+      "duration_ms": 147120,
+      "name": "PANNONIA",
+      "url": "https://open.spotify.com/track/5v1qS9RS2g42zeXHevEdYn"
     },
     {
       "added_at": "2025-03-17 13:24:31",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-03-17 13:24:31",
       "album": {
-        "name": "Barbi Baba",
-        "url": "https://open.spotify.com/album/07MLMgLbx7wUeKUlPeA0fb"
-      },
-      "artists": [
-        {
-          "name": "Feh\u00e9r Kriszti\u00e1n",
-          "url": "https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX"
-        }
-      ],
-      "duration_ms": 150697,
-      "name": "Barbi Baba",
-      "url": "https://open.spotify.com/track/2XHqalPmKugChuhFtMBErf"
-    },
-    {
-      "added_at": "2025-03-17 13:24:31",
-      "album": {
         "name": "SZ\u00cdVTIPR\u00d3",
         "url": "https://open.spotify.com/album/3drLrYFMCLk7wsa5Uk6b6k"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 195789,
       "name": "SZ\u00cdVTIPR\u00d3",
       "url": "https://open.spotify.com/track/5LsAiClz23EjfEvQpyzuUi"
+    },
+    {
+      "added_at": "2025-03-17 13:24:31",
+      "album": {
+        "name": "Barbi Baba",
+        "url": "https://open.spotify.com/album/07MLMgLbx7wUeKUlPeA0fb"
+      },
+      "artists": [
+        {
+          "name": "Feh\u00e9r Kriszti\u00e1n",
+          "url": "https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX"
+        }
+      ],
+      "duration_ms": 150697,
+      "name": "Barbi Baba",
+      "url": "https://open.spotify.com/track/2XHqalPmKugChuhFtMBErf"
     },
     {
       "added_at": "2025-03-17 13:24:31",
@@ -799,26 +799,6 @@
     {
       "added_at": "2025-03-17 13:24:31",
       "album": {
-        "name": "Gyere Kisl\u00e1ny",
-        "url": "https://open.spotify.com/album/7u1VEXdOplmEB5UQPJEzUX"
-      },
-      "artists": [
-        {
-          "name": "Feh\u00e9r Kriszti\u00e1n",
-          "url": "https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX"
-        },
-        {
-          "name": "Burai",
-          "url": "https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO"
-        }
-      ],
-      "duration_ms": 216521,
-      "name": "Gyere Kisl\u00e1ny",
-      "url": "https://open.spotify.com/track/4ZXIRnU7kU6HCxjIUEVgoH"
-    },
-    {
-      "added_at": "2025-03-17 13:24:31",
-      "album": {
         "name": "Torz",
         "url": "https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh"
       },
@@ -895,6 +875,26 @@
     {
       "added_at": "2025-03-17 13:24:31",
       "album": {
+        "name": "Gyere Kisl\u00e1ny",
+        "url": "https://open.spotify.com/album/7u1VEXdOplmEB5UQPJEzUX"
+      },
+      "artists": [
+        {
+          "name": "Feh\u00e9r Kriszti\u00e1n",
+          "url": "https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX"
+        },
+        {
+          "name": "Burai",
+          "url": "https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO"
+        }
+      ],
+      "duration_ms": 216521,
+      "name": "Gyere Kisl\u00e1ny",
+      "url": "https://open.spotify.com/track/4ZXIRnU7kU6HCxjIUEVgoH"
+    },
+    {
+      "added_at": "2025-03-17 13:24:31",
+      "album": {
         "name": "NINCS HOLNAP",
         "url": "https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd"
       },
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-03-17 13:24:31",
       "album": {
-        "name": "Boldogtalans\u00e1g",
-        "url": "https://open.spotify.com/album/61nJQwXqRRvAcvWWsclK18"
-      },
-      "artists": [
-        {
-          "name": "BSW",
-          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
-        }
-      ],
-      "duration_ms": 186091,
-      "name": "Boldogtalans\u00e1g",
-      "url": "https://open.spotify.com/track/1NJqCgWaY3kwdt2f7M1iui"
-    },
-    {
-      "added_at": "2025-03-17 13:24:31",
-      "album": {
         "name": "Torz",
         "url": "https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 178800,
       "name": "Doktor - Torz",
       "url": "https://open.spotify.com/track/5BMR7642rtK1PdcsMDhuFf"
+    },
+    {
+      "added_at": "2025-03-17 13:24:31",
+      "album": {
+        "name": "Boldogtalans\u00e1g",
+        "url": "https://open.spotify.com/album/61nJQwXqRRvAcvWWsclK18"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        }
+      ],
+      "duration_ms": 186091,
+      "name": "Boldogtalans\u00e1g",
+      "url": "https://open.spotify.com/track/1NJqCgWaY3kwdt2f7M1iui"
     },
     {
       "added_at": "2025-03-17 13:24:31",
@@ -983,26 +983,18 @@
     {
       "added_at": "2025-03-17 13:24:31",
       "album": {
-        "name": "BANNANI",
-        "url": "https://open.spotify.com/album/1tHyKcCUoVbv045LQBFKHO"
+        "name": "l\u00e1nc",
+        "url": "https://open.spotify.com/album/09BkttRkb1DswriD8v2MO3"
       },
       "artists": [
         {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
-        },
-        {
-          "name": "VZS",
-          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
-        },
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw"
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
         }
       ],
-      "duration_ms": 170000,
-      "name": "SENKI NEM SZ\u00d3L R\u00c1NK",
-      "url": "https://open.spotify.com/track/2vE3ycwf1fDcPt5v8RykaT"
+      "duration_ms": 159512,
+      "name": "l\u00e1nc",
+      "url": "https://open.spotify.com/track/4gmKiblmETOzpLtFIaxCyb"
     },
     {
       "added_at": "2025-03-17 13:24:31",
@@ -1023,22 +1015,6 @@
     {
       "added_at": "2025-03-17 13:24:31",
       "album": {
-        "name": "l\u00e1nc",
-        "url": "https://open.spotify.com/album/09BkttRkb1DswriD8v2MO3"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 159512,
-      "name": "l\u00e1nc",
-      "url": "https://open.spotify.com/track/4gmKiblmETOzpLtFIaxCyb"
-    },
-    {
-      "added_at": "2025-03-17 13:24:31",
-      "album": {
         "name": "Kettesben",
         "url": "https://open.spotify.com/album/5bRbI8eixiSaKNUGviC8gM"
       },
@@ -1051,6 +1027,30 @@
       "duration_ms": 159677,
       "name": "Kettesben",
       "url": "https://open.spotify.com/track/29BG2WmjGcikewITCPTP9G"
+    },
+    {
+      "added_at": "2025-03-17 13:24:31",
+      "album": {
+        "name": "BANNANI",
+        "url": "https://open.spotify.com/album/1tHyKcCUoVbv045LQBFKHO"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        },
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        },
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "SENKI NEM SZ\u00d3L R\u00c1NK",
+      "url": "https://open.spotify.com/track/2vE3ycwf1fDcPt5v8RykaT"
     },
     {
       "added_at": "2025-03-17 13:24:31",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-03-17 13:24:31",
       "album": {
-        "name": "Lobby",
-        "url": "https://open.spotify.com/album/7HiUwLRzsriG26I5PoXjEb"
-      },
-      "artists": [
-        {
-          "name": "\u00c9BERK\u00d3MA",
-          "url": "https://open.spotify.com/artist/45u5WLva3klzXW3rQuJ9U1"
-        }
-      ],
-      "duration_ms": 188863,
-      "name": "Lobby",
-      "url": "https://open.spotify.com/track/63rx8LjNlbbpYTqNKLJtN7"
-    },
-    {
-      "added_at": "2025-03-17 13:24:31",
-      "album": {
         "name": "rabiga",
         "url": "https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH"
       },
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2025-03-17 13:24:31",
       "album": {
+        "name": "Lobby",
+        "url": "https://open.spotify.com/album/7HiUwLRzsriG26I5PoXjEb"
+      },
+      "artists": [
+        {
+          "name": "\u00c9BERK\u00d3MA",
+          "url": "https://open.spotify.com/artist/45u5WLva3klzXW3rQuJ9U1"
+        }
+      ],
+      "duration_ms": 188863,
+      "name": "Lobby",
+      "url": "https://open.spotify.com/track/63rx8LjNlbbpYTqNKLJtN7"
+    },
+    {
+      "added_at": "2025-03-17 13:24:31",
+      "album": {
         "name": "Ajt\u00f3-Ablak",
         "url": "https://open.spotify.com/album/3P8qiCsYloQSXGnTh5GmBh"
       },
@@ -1203,22 +1203,6 @@
       "duration_ms": 154914,
       "name": "Ajt\u00f3-Ablak",
       "url": "https://open.spotify.com/track/5z5HbbfwHWT9kJTDmprT1o"
-    },
-    {
-      "added_at": "2025-03-17 13:24:31",
-      "album": {
-        "name": "Orgonabokor",
-        "url": "https://open.spotify.com/album/4xn0VgbSMtx1mXopS3bYat"
-      },
-      "artists": [
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        }
-      ],
-      "duration_ms": 215596,
-      "name": "Orgonabokor",
-      "url": "https://open.spotify.com/track/6hWRlcm3CHovEzXNjsIJUG"
     },
     {
       "added_at": "2025-03-17 13:24:31",
@@ -1259,94 +1243,18 @@
     {
       "added_at": "2025-03-17 13:24:31",
       "album": {
-        "name": "Nekem ez a fless",
-        "url": "https://open.spotify.com/album/145gn7ULDwmk73BPFKIMam"
+        "name": "Orgonabokor",
+        "url": "https://open.spotify.com/album/4xn0VgbSMtx1mXopS3bYat"
       },
       "artists": [
         {
-          "name": "HENN",
-          "url": "https://open.spotify.com/artist/7MiVTMPyOXp6jr9H3mFHBb"
-        },
-        {
-          "name": "Hibrid",
-          "url": "https://open.spotify.com/artist/4eQzOeeIdEKVDAhOA2y0JP"
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
         }
       ],
-      "duration_ms": 180133,
-      "name": "Nekem ez a fless",
-      "url": "https://open.spotify.com/track/1z9TztWBItgIKO3vmiBB9d"
-    },
-    {
-      "added_at": "2025-03-17 13:24:31",
-      "album": {
-        "name": "SISTAHOOD",
-        "url": "https://open.spotify.com/album/7lnEyUR9F596kkFbnGMvVE"
-      },
-      "artists": [
-        {
-          "name": "Sisi",
-          "url": "https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f"
-        },
-        {
-          "name": "Kr\u00fabi",
-          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
-        }
-      ],
-      "duration_ms": 210020,
-      "name": "Baszok R\u00e1tok",
-      "url": "https://open.spotify.com/track/0M3j65N63vJMzvFgif2R5R"
-    },
-    {
-      "added_at": "2025-03-17 13:24:31",
-      "album": {
-        "name": "Frida Kahlo",
-        "url": "https://open.spotify.com/album/5HMnxIdbBRvoTW5PvNbBoo"
-      },
-      "artists": [
-        {
-          "name": "Carson Coma",
-          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
-        },
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        }
-      ],
-      "duration_ms": 163107,
-      "name": "Frida Kahlo",
-      "url": "https://open.spotify.com/track/7CMqBgZAFANJNyQueevWvR"
-    },
-    {
-      "added_at": "2025-03-17 13:24:31",
-      "album": {
-        "name": "skatulya I",
-        "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "kapu",
-      "url": "https://open.spotify.com/track/4IIEKJ3RVCc7z3PZdD5PZu"
-    },
-    {
-      "added_at": "2025-03-17 13:24:31",
-      "album": {
-        "name": "M\u00e1r nem sz\u00e9d\u00fcl\u00f6k (Rolling back)",
-        "url": "https://open.spotify.com/album/1l3Y1NWpMHiYdAX6rWB1le"
-      },
-      "artists": [
-        {
-          "name": "Parno Graszt",
-          "url": "https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "M\u00e1r nem sz\u00e9d\u00fcl\u00f6k",
-      "url": "https://open.spotify.com/track/5cp1amsVOYe2HFbiaezm4B"
+      "duration_ms": 215596,
+      "name": "Orgonabokor",
+      "url": "https://open.spotify.com/track/6hWRlcm3CHovEzXNjsIJUG"
     },
     {
       "added_at": "2025-03-17 13:24:31",
@@ -1371,6 +1279,66 @@
     {
       "added_at": "2025-03-17 13:24:31",
       "album": {
+        "name": "Nekem ez a fless",
+        "url": "https://open.spotify.com/album/145gn7ULDwmk73BPFKIMam"
+      },
+      "artists": [
+        {
+          "name": "HENN",
+          "url": "https://open.spotify.com/artist/7MiVTMPyOXp6jr9H3mFHBb"
+        },
+        {
+          "name": "Hibrid",
+          "url": "https://open.spotify.com/artist/4eQzOeeIdEKVDAhOA2y0JP"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "Nekem ez a fless",
+      "url": "https://open.spotify.com/track/1z9TztWBItgIKO3vmiBB9d"
+    },
+    {
+      "added_at": "2025-03-17 13:24:31",
+      "album": {
+        "name": "Frida Kahlo",
+        "url": "https://open.spotify.com/album/5HMnxIdbBRvoTW5PvNbBoo"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        },
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        }
+      ],
+      "duration_ms": 163107,
+      "name": "Frida Kahlo",
+      "url": "https://open.spotify.com/track/7CMqBgZAFANJNyQueevWvR"
+    },
+    {
+      "added_at": "2025-03-17 13:24:31",
+      "album": {
+        "name": "SISTAHOOD",
+        "url": "https://open.spotify.com/album/7lnEyUR9F596kkFbnGMvVE"
+      },
+      "artists": [
+        {
+          "name": "Sisi",
+          "url": "https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f"
+        },
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "duration_ms": 210020,
+      "name": "Baszok R\u00e1tok",
+      "url": "https://open.spotify.com/track/0M3j65N63vJMzvFgif2R5R"
+    },
+    {
+      "added_at": "2025-03-17 13:24:31",
+      "album": {
         "name": "Isten Vezet",
         "url": "https://open.spotify.com/album/1Jw4iKegHWiohgkA6lV84g"
       },
@@ -1391,6 +1359,38 @@
     {
       "added_at": "2025-03-17 13:24:31",
       "album": {
+        "name": "M\u00e1r nem sz\u00e9d\u00fcl\u00f6k (Rolling back)",
+        "url": "https://open.spotify.com/album/1l3Y1NWpMHiYdAX6rWB1le"
+      },
+      "artists": [
+        {
+          "name": "Parno Graszt",
+          "url": "https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "M\u00e1r nem sz\u00e9d\u00fcl\u00f6k",
+      "url": "https://open.spotify.com/track/5cp1amsVOYe2HFbiaezm4B"
+    },
+    {
+      "added_at": "2025-03-17 13:24:31",
+      "album": {
+        "name": "skatulya I",
+        "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "kapu",
+      "url": "https://open.spotify.com/track/4IIEKJ3RVCc7z3PZdD5PZu"
+    },
+    {
+      "added_at": "2025-03-17 13:24:31",
+      "album": {
         "name": "EZ AZ \u00c1RA",
         "url": "https://open.spotify.com/album/2Yq1EgoRmXaTXjk7blZU96"
       },
@@ -1407,22 +1407,18 @@
     {
       "added_at": "2025-03-17 13:24:31",
       "album": {
-        "name": "Orgonabokor (Part 2)",
-        "url": "https://open.spotify.com/album/3NKZ2rRG5MGpdF897X3zr2"
+        "name": "van1szekt\u00e1m",
+        "url": "https://open.spotify.com/album/5TTjgHeXcIyRktz65PVuAj"
       },
       "artists": [
         {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        },
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
         }
       ],
-      "duration_ms": 173100,
-      "name": "Entit\u00e1s",
-      "url": "https://open.spotify.com/track/3mZBqTbxSpyY5cZfbj5reu"
+      "duration_ms": 195157,
+      "name": "priluki",
+      "url": "https://open.spotify.com/track/0zvt9tYgfOquMYpXN2srkw"
     },
     {
       "added_at": "2025-03-17 13:24:31",
@@ -1443,18 +1439,22 @@
     {
       "added_at": "2025-03-17 13:24:31",
       "album": {
-        "name": "van1szekt\u00e1m",
-        "url": "https://open.spotify.com/album/5TTjgHeXcIyRktz65PVuAj"
+        "name": "Orgonabokor (Part 2)",
+        "url": "https://open.spotify.com/album/3NKZ2rRG5MGpdF897X3zr2"
       },
       "artists": [
         {
-          "name": "ByeAlex \u00e9s a Slepp",
-          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        },
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
         }
       ],
-      "duration_ms": 195157,
-      "name": "priluki",
-      "url": "https://open.spotify.com/track/0zvt9tYgfOquMYpXN2srkw"
+      "duration_ms": 173100,
+      "name": "Entit\u00e1s",
+      "url": "https://open.spotify.com/track/3mZBqTbxSpyY5cZfbj5reu"
     },
     {
       "added_at": "2025-03-17 13:24:31",

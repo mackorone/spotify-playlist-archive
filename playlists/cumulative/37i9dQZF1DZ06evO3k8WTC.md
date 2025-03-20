@@ -4,7 +4,7 @@
 
 > This is At the Drive\-In\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 11 min
+56 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Catacomb](https://open.spotify.com/track/57ZTyoRXlwQrhXZuq0cfCQ) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Catacomb](https://open.spotify.com/album/6rMTnk6gBiqzqKIvn1Ruj1) | 3:44 | 2022-11-17 |  |
 | [Chanbara](https://open.spotify.com/track/5Gh7uZTnZx3bpCyGaY7wpt) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 2:59 | 2022-11-17 |  |
 | [Communication Drive\-in](https://open.spotify.com/track/3F3kBSAsSongfPxmwF83ln) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/7xnsCIwWMRVaVGFORsRfxP) | 1:44 | 2022-11-17 | 2023-05-10 |
-| [Communication Drive\-in](https://open.spotify.com/track/5zRFyfg5g32auwHudWKNca) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 1:44 | 2023-05-09 |  |
+| [Communication Drive\-in](https://open.spotify.com/track/5zRFyfg5g32auwHudWKNca) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 1:44 | 2023-05-09 | 2025-03-20 |
 | [Continuum](https://open.spotify.com/track/5z5DVvRd8Wkr9fWz8Pb64A) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/3Ka6oBfQ6rdAvQ1kK9KYvX) | 4:02 | 2022-11-17 | 2023-12-14 |
 | [Continuum](https://open.spotify.com/track/67GKBxCS4OBLzigktvn2Un) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [in•ter a•li•a](https://open.spotify.com/album/0WVX9vbT6mcYkMP3yL260X) | 4:02 | 2023-12-13 |  |
 | [Cosmonaut](https://open.spotify.com/track/24aqWL70wk57xR2OfYnu37) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0x6Y2eA8Boakdrq9x2agdF) | 3:23 | 2022-11-17 | 2023-05-15 |
@@ -53,6 +53,7 @@
 | [Rascuache](https://open.spotify.com/track/2VzLvjB0nNqqiVVWKFDV0n) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Vaya](https://open.spotify.com/album/1dQADTXF672pzeJPcRwjbs) | 3:21 | 2022-11-17 |  |
 | [Schaffino](https://open.spotify.com/track/1dYBzV2cObLLx8SLqx4hWT) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/7xnsCIwWMRVaVGFORsRfxP) | 2:48 | 2022-11-17 | 2023-05-08 |
 | [Schaffino](https://open.spotify.com/track/7uBeV3Eep9rwpz4VJlsGS8) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 2:48 | 2023-05-07 |  |
+| [Skips on the Record](https://open.spotify.com/track/20kCEEuKQotTCJjUxSiT4z) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 3:07 | 2025-03-20 |  |
 | [Sleepwalk Capsules](https://open.spotify.com/track/3S59EdH9sqkEewzw9ucbna) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0x6Y2eA8Boakdrq9x2agdF) | 3:27 | 2022-11-17 | 2023-05-15 |
 | [Sleepwalk Capsules](https://open.spotify.com/track/5MPyJHuBjX41v3UggiVr6r) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um) | 3:27 | 2023-05-14 |  |
 | [Starslight](https://open.spotify.com/track/46XBLbYXATk5wgodMQNRR4) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Acrobatic Tenement](https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip) | 1:18 | 2023-05-12 |  |

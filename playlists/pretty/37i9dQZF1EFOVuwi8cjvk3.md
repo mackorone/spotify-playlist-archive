@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343 likes - 242 songs - 14 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 342 likes - 242 songs - 14 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,8 +191,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 181 | [Like Them \(feat\. Tory Lanez, Rick Ross\)](https://open.spotify.com/track/6Xfb6qPfyxd74crexohl8p) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Pressure](https://open.spotify.com/album/4IJsz38bUJjUXkFBhU8icl) | 3:50 |
 | 182 | [Make U A Believer](https://open.spotify.com/track/3d9qL4raQJ9NlV7aCUXhLb) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Hard II Love](https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz) | 4:06 |
 | 183 | [Jo Bros](https://open.spotify.com/track/6RMNFacCLVjpthfp62orGz) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O) | [One Night Only](https://open.spotify.com/album/6GdJPhGu12KSZ7KdgBfye1) | 3:35 |
-| 184 | [Charge It To The Rap Game](https://open.spotify.com/track/4qQePxheRSXNd2lqlvgGYd) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Ludaversal \(Deluxe\)](https://open.spotify.com/album/2KlVwY7H9B9KvFXJglqzWq) | 3:50 |
-| 185 | [CHEVALIER CITADIN](https://open.spotify.com/track/2K54qMapljPASWtY4HvsRC) | [NeS](https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9) | [POUR DE VRAI](https://open.spotify.com/album/49e3VAZuj9MqEjaEGE2fBL) | 2:29 |
+| 184 | [CHEVALIER CITADIN](https://open.spotify.com/track/2K54qMapljPASWtY4HvsRC) | [NeS](https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9) | [POUR DE VRAI](https://open.spotify.com/album/49e3VAZuj9MqEjaEGE2fBL) | 2:29 |
+| 185 | [Charge It To The Rap Game](https://open.spotify.com/track/4qQePxheRSXNd2lqlvgGYd) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Ludaversal \(Deluxe\)](https://open.spotify.com/album/2KlVwY7H9B9KvFXJglqzWq) | 3:50 |
 | 186 | [Better](https://open.spotify.com/track/4W1HsvmcGtusNPyqdVOqaV) | [Ama](https://open.spotify.com/artist/4Rjre9XSCfV3kpSj8Ow776) | [Ama, who?](https://open.spotify.com/album/7BWDLFcIlUrgZdtjwLEJxw) | 4:40 |
 | 187 | [Lyrical Healing](https://open.spotify.com/track/6QkRTkarDVgHf2WGGcmU5g) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Ludaversal \(Deluxe\)](https://open.spotify.com/album/2KlVwY7H9B9KvFXJglqzWq) | 1:16 |
 | 188 | [Miracles](https://open.spotify.com/track/6oFEizgUZD7x6QSbjkqD7b) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Miracles](https://open.spotify.com/album/2BkwErxEfjc7a8MXtU8GyB) | 3:23 |
@@ -251,4 +251,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 241 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 | 242 | [Get Krazy](https://open.spotify.com/track/2O3YgsmoPyKvbHCNmRFEOA) | [Bigg Dogg](https://open.spotify.com/artist/2Fsd7VeBkpjuYnPk87X57g) | [The Vaccine](https://open.spotify.com/album/2Uky9NSAp1e9ILVPIBqoLE) | 4:11 |
 
-Snapshot ID: `AbsafgAAAABi8+WgIfONn3Ofl3WQSo/u`
+Snapshot ID: `AbsgHgAAAACA0iaq9/C6M2V00gt8mxO9`

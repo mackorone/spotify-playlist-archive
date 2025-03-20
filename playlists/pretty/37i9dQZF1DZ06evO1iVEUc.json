@@ -1,12 +1,12 @@
 {
   "description": "This is Angie Stone. The essential tracks, all in one playlist.",
-  "num_followers": 25174,
+  "num_followers": 25206,
   "original_name": "This Is Angie Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAACTCQR0/TXk4V65dj/dMb2Z",
+  "snapshot_id": "Z9i3gAAAAADHfDLTsdmP5iWGYV+tBZpq",
   "tracks": [
     {
       "added_at": null,
@@ -290,15 +290,11 @@
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
         }
       ],
-      "duration_ms": 236240,
-      "name": "The Ingredients Of Love (feat. Musiq Soulchild)",
-      "url": "https://open.spotify.com/track/46ojXpU8hKUPFiDhBwUt6J"
+      "duration_ms": 237306,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/38BLnUKD9m1v7Xaf07u7F0"
     },
     {
       "added_at": null,
@@ -362,11 +358,15 @@
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
         }
       ],
-      "duration_ms": 237306,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/38BLnUKD9m1v7Xaf07u7F0"
+      "duration_ms": 236240,
+      "name": "The Ingredients Of Love (feat. Musiq Soulchild)",
+      "url": "https://open.spotify.com/track/46ojXpU8hKUPFiDhBwUt6J"
     },
     {
       "added_at": null,
@@ -383,6 +383,42 @@
       "duration_ms": 152007,
       "name": "Trouble Man",
       "url": "https://open.spotify.com/track/1DVPQbeV6bU8sQDCouSCmt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Art of Love & War",
+        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Take Everything In",
+      "url": "https://open.spotify.com/track/0S9J927viE05YinAFLoUUi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Wanna Thank Ya",
+        "url": "https://open.spotify.com/album/1Ec9ZPtER6ZbZ6uiJdwdEF"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 227133,
+      "name": "I Wanna Thank Ya (feat. Snoop Dogg) - Radio Edit",
+      "url": "https://open.spotify.com/track/1vWvdcZZRzNXYSw8c4HOY9"
     },
     {
       "added_at": null,
@@ -411,42 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Wanna Thank Ya",
-        "url": "https://open.spotify.com/album/1Ec9ZPtER6ZbZ6uiJdwdEF"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 227133,
-      "name": "I Wanna Thank Ya (feat. Snoop Dogg) - Radio Edit",
-      "url": "https://open.spotify.com/track/1vWvdcZZRzNXYSw8c4HOY9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Art of Love & War",
-        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Take Everything In",
-      "url": "https://open.spotify.com/track/0S9J927viE05YinAFLoUUi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do What U Gotta Do",
         "url": "https://open.spotify.com/album/72zbFzJ4FMbeIsm1bvsn0H"
       },
@@ -459,6 +459,22 @@
       "duration_ms": 204080,
       "name": "Do What U Gotta Do",
       "url": "https://open.spotify.com/track/6wo7R2MQZ0uZdKNozW6U97"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stone Love",
+        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "You Don't Love Me",
+      "url": "https://open.spotify.com/track/6LgeYzc85nIiOg9ZcaRjRu"
     },
     {
       "added_at": null,
@@ -479,22 +495,6 @@
       "duration_ms": 202409,
       "name": "Somaw",
       "url": "https://open.spotify.com/track/7j360rnoPfIwKlEW8qSx2g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stone Love",
-        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "You Don't Love Me",
-      "url": "https://open.spotify.com/track/6LgeYzc85nIiOg9ZcaRjRu"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unexpected",
-        "url": "https://open.spotify.com/album/03GXHujYDvYF7zkSUC1KlU"
+        "name": "Stone Love",
+        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 206786,
-      "name": "I Ain\u2019t Hearin\u2019 U",
-      "url": "https://open.spotify.com/track/2QAcA00lpN2u4n15tcKm3R"
+      "duration_ms": 35293,
+      "name": "Stoned Love (Intro)",
+      "url": "https://open.spotify.com/track/64d9VM45lpwAv5ihZHEDbm"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stone Love",
-        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
+        "name": "Unexpected",
+        "url": "https://open.spotify.com/album/03GXHujYDvYF7zkSUC1KlU"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 35293,
-      "name": "Stoned Love (Intro)",
-      "url": "https://open.spotify.com/track/64d9VM45lpwAv5ihZHEDbm"
+      "duration_ms": 206786,
+      "name": "I Ain\u2019t Hearin\u2019 U",
+      "url": "https://open.spotify.com/track/2QAcA00lpN2u4n15tcKm3R"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 81019,
+  "num_followers": 81030,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAADcT6SgumLkpp3PxBWSOc5B",
+  "snapshot_id": "Z9i3gAAAAAC0+kK1TzYyEHO7jJi6EyWD",
   "tracks": [
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From A Basement On The Hill",
-        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 33800,
-      "name": "Ostrich And Chirping",
-      "url": "https://open.spotify.com/track/25OfkVstO0W60e8OHCggox"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Either/Or: Expanded Edition",
         "url": "https://open.spotify.com/album/0QKE0f5dMf8kc8TtlxkXtw"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 198973,
       "name": "2:45 AM",
       "url": "https://open.spotify.com/track/1CHGb6pmqnHlzQeHX9wHfn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From A Basement On The Hill",
+        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 33800,
+      "name": "Ostrich And Chirping",
+      "url": "https://open.spotify.com/track/25OfkVstO0W60e8OHCggox"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roman Candle",
-        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 220840,
-      "name": "Kiwi Maddog 20/20 (version 2 of 2)",
-      "url": "https://open.spotify.com/track/5GwXU2PDHWykajNQ2Gaj8e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Elliott Smith: Expanded 25th Anniversary Edition",
         "url": "https://open.spotify.com/album/4XFvmYc0AI61WsLCdAnMuT"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 180120,
       "name": "St. Ides Heaven - 25th Anniversary Remaster",
       "url": "https://open.spotify.com/track/7zOdsysP1duel1IiG0UtWL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 220840,
+      "name": "Kiwi Maddog 20/20 (version 2 of 2)",
+      "url": "https://open.spotify.com/track/5GwXU2PDHWykajNQ2Gaj8e"
     },
     {
       "added_at": null,

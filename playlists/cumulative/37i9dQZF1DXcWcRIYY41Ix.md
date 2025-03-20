@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: alberto.vela.
 
-781 songs - 1 day 22 hr 30 min
+782 songs - 1 day 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Aquella Isla](https://open.spotify.com/track/48Wzi08M8VECe31oRxR3xY) | [Piedra](https://open.spotify.com/artist/01DSpvRUPG3Er9sIS3UIsb) | [Aquella Isla](https://open.spotify.com/album/5seeApZQAnWMbCTIun23ai) | 2:05 | 2024-05-30 | 2024-06-15 |
 | [Aquellos Misterios](https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Aquellos Misterios](https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT) | 2:29 | 2022-09-23 | 2022-10-15 |
 | [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 | 2023-08-04 | 2023-08-18 |
+| [Arrullito](https://open.spotify.com/track/3UQhsG1P4KM2cueYmYMWRi) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Arrullito](https://open.spotify.com/album/4kASZ1hMeBCDM1bE61NQLz) | 3:48 | 2025-03-13 |  |
 | [As vidas caladas](https://open.spotify.com/track/4Efc5WGKeeEVruEsTq36r2) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1), [Caamaño & Ameixeiras](https://open.spotify.com/artist/6y3amaH2PNp48kslVnR7WH) | [As vidas caladas](https://open.spotify.com/album/13khQGThr8cw5jaKqlIipO) | 3:32 | 2024-06-14 |  |
 | [Asesina](https://open.spotify.com/track/1oTv4yrhxmIEJNc31vv4db) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [Asesina](https://open.spotify.com/album/19rufpTetxXAnNTU0BeLYS) | 3:25 | 2024-03-15 | 2024-06-01 |
 | [Aunque No Sea Yo](https://open.spotify.com/track/4zrePmHHjkkic4xZGPg8PB) | [Vicky Gastelo](https://open.spotify.com/artist/6oIeX7RcNGYp83pCtlNPqb), [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [Aunque No Sea Yo](https://open.spotify.com/album/74j5XhF4zIq06Y4Hq6zRtp) | 3:34 | 2022-01-27 | 2022-02-25 |
@@ -777,7 +778,7 @@
 | [Yemaya](https://open.spotify.com/track/2HVjSBp66ZdDoJ3r0oryOQ) | [Sibila](https://open.spotify.com/artist/32oM4BbE1zXFs0wZV6O0ZT) | [Yemaya](https://open.spotify.com/album/2EUCdSAaYYQjYku6FsDNw7) | 4:32 | 2024-06-21 | 2024-10-02 |
 | [Yo Canto](https://open.spotify.com/track/2nnTebR8wLANK80hXnxSai) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Yo Canto](https://open.spotify.com/album/65xr20VjHKAGc7Nna1a18v) | 3:45 | 2022-06-10 | 2022-07-15 |
 | [Yo no Necesito de Mucho](https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 2:51 | 2022-03-04 | 2024-07-27 |
-| [Yo No Quiero Ser Tu Amigo](https://open.spotify.com/track/4OmUYRDycYSiuI6JwBVmEW) | [Yo Vivo Navegando](https://open.spotify.com/artist/2PsLvXIkERMvCRYXqErit4) | [Yo No Quiero Ser Tu Amigo](https://open.spotify.com/album/3NK1SQIZb7E53hA2B1pmNG) | 3:18 | 2025-03-07 |  |
+| [Yo No Quiero Ser Tu Amigo](https://open.spotify.com/track/4OmUYRDycYSiuI6JwBVmEW) | [Yo Vivo Navegando](https://open.spotify.com/artist/2PsLvXIkERMvCRYXqErit4) | [Yo No Quiero Ser Tu Amigo](https://open.spotify.com/album/3NK1SQIZb7E53hA2B1pmNG) | 3:18 | 2025-03-07 | 2025-03-20 |
 | [Yo podría ser John Wayne](https://open.spotify.com/track/0ip49KbUd1NO3p3cTHjvTA) | [Pauline En La Playa](https://open.spotify.com/artist/6lWRTt7KIsFeuwixhbgnTe) | [Yo podría ser John Wayne](https://open.spotify.com/album/3KFC3C9KjGflulgXtEZY6E) | 4:18 | 2024-09-24 | 2024-10-26 |
 | [Yo Soy](https://open.spotify.com/track/530CUFzf8pqO9cbSM0C5SB) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Yo Soy](https://open.spotify.com/album/6CO6GE3u3JTuxdcE10nE0e) | 3:36 | 2021-12-24 | 2024-10-05 |
 | [¡Desaparece!](https://open.spotify.com/track/1NwIqopnNT8SGtNUMPs5f1) | [Pez Mago](https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY) | [¡Desaparece!](https://open.spotify.com/album/1AXXtUOauS7V45A2xFksu7) | 3:45 | 2025-01-16 | 2025-02-14 |

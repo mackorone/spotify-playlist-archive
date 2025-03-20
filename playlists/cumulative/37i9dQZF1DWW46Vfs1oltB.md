@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/> Lil Moshpit, Sik\-K\)
 
-1,481 songs - 3 day 8 hr 20 min
+1,482 songs - 3 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,6 +384,7 @@
 | [FAKE RAPPERS KILLER \(Feat\. northfacegawd\)](https://open.spotify.com/track/5Bok398XfFLisIi72rZqSo) | [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb), [northfacegawd](https://open.spotify.com/artist/620Vx5hEMowoa71wXk4bu1) | [FAKE RAPPERS KILLER](https://open.spotify.com/album/52Htfn8fvmMajlxTlVtP4b) | 2:58 | 2021-12-21 | 2022-06-13 |
 | [Fallin' Down \(Feat\. Lee Wonseok Of Daybreak\)](https://open.spotify.com/track/6eTsJBlu61kyZElt46ccyP) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z), [Lee Wonseok Of Daybreak](https://open.spotify.com/artist/6nsnwexVKaWE48ICgtAbI5) | [Goodbye My Twenties](https://open.spotify.com/album/1ZtPpEifhy20NC0tTjbtQo) | 3:02 | 2022-01-20 | 2022-06-09 |
 | [Family \(Feat\. THAMA\)](https://open.spotify.com/track/36PJlu7LbBOfbN3nIVsQPE) | [CHOIZA](https://open.spotify.com/artist/3vvgBPro7lDMdReL1Ct2Hx), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Family](https://open.spotify.com/album/3HTihlNuWSPglGitQ7dQ3H) | 4:13 | 2022-01-26 | 2022-07-05 |
+| [Fancy Car \(Feat\. Jhunnit\)](https://open.spotify.com/track/6S6NplSxaMgbLJMzX8zfz5) | [Noducksoon](https://open.spotify.com/artist/5edtUlKuXuqzKiwlzADBT8), [Jhunnit](https://open.spotify.com/artist/6aO0qbEy27EtuZj0pojedr) | [UNBOILED](https://open.spotify.com/album/6qNNhZOqHMKmpydjXJYaSG) | 2:53 | 2025-03-20 |  |
 | [Far Post \(Feat\. lobonabeat!\) \(Prod\. Codec\)](https://open.spotify.com/track/0vbRPuxNIjwPxsMIGWIETR) | [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva) | [Far Post \(Feat\. lobonabeat!\) \(Prod\. Codec\)](https://open.spotify.com/album/7CAhYWb2V9tKfFgZZ56K45) | 2:59 | 2022-05-11 | 2022-07-07 |
 | [FASHO](https://open.spotify.com/track/3CcOvobFZW42wJBh5oXd7Q) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [Woodie Gochild](https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [AT H1GHR](https://open.spotify.com/album/4FxVsRxBjnKKCrHZ6YldQO) | 7:03 | 2024-08-08 | 2024-11-28 |
 | [FAST CAR](https://open.spotify.com/track/0TQaONVVeqCZo3jxPIPcVl) | [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl) | [FAST CAR](https://open.spotify.com/album/3SQ7gbz9AkWT751cyw0IPx) | 3:01 | 2022-09-06 | 2022-12-20 |

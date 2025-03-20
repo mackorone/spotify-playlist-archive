@@ -1879,6 +1879,24 @@
     },
     {
       "album": {
+        "name": "Ordinary life",
+        "url": "https://open.spotify.com/album/6oTKzZ9cRz3xgAcbPRV3fT"
+      },
+      "artists": [
+        {
+          "name": "IGWI",
+          "url": "https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U"
+        }
+      ],
+      "date_added": "2024-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246354,
+      "name": "Ordinary life",
+      "url": "https://open.spotify.com/track/5Ivx0LkXUVGSybJgPXwQNE"
+    },
+    {
+      "album": {
         "name": "Page 0",
         "url": "https://open.spotify.com/album/1MX2MhEx1G8BCiYrlSomgg"
       },
@@ -2564,7 +2582,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 229320,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/4NxTbQeq4MI4YIo6vtf43v"

@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 10CM\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Dragon Pony \(드래곤포니\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-910 songs - 2 day 7 hr 38 min
+911 songs - 2 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,6 +531,7 @@
 | [not even close](https://open.spotify.com/track/1jITrOKQdU6LbaosTXCt0i) | [isnotequalto](https://open.spotify.com/artist/2wDEeSb27uMLqlT8Bx9TuF) | [not even close](https://open.spotify.com/album/6udZp5kz6Qs86hCjjRy1zN) | 2:53 | 2022-06-18 | 2022-06-21 |
 | [not gonna love](https://open.spotify.com/track/0scY0FycWIn2ut429xuMja) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:12 | 2022-06-23 | 2022-06-26 |
 | [not me not mine](https://open.spotify.com/track/0q7lWRi07OMLWSwm0vHIwJ) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [not me not mine](https://open.spotify.com/album/09VUrzSER2CE0geP6odR1y) | 5:16 | 2024-01-31 | 2024-05-10 |
+| [Not Out](https://open.spotify.com/track/3vpxOqE2uaaH3lf09soVnA) | [Dragon Pony](https://open.spotify.com/artist/2aRhzujDfJ1mVe2XdddXYL) | [Not Out](https://open.spotify.com/album/0yK6IfmwKH9FuuZoFTkHtN) | 3:13 | 2025-03-19 |  |
 | [Nothin' Without You](https://open.spotify.com/track/2hV74m69tD0OavP0g6TEn6) | [Hangsung](https://open.spotify.com/artist/7s2auzTJqfLyxtzExY9xrh) | [Nothin' Without You](https://open.spotify.com/album/59KZBxgwyG3TaNQ8LjmIbO) | 2:42 | 2024-06-05 | 2024-11-07 |
 | [nothing but](https://open.spotify.com/track/4tVxP9VLIgzD9oRLmzioQT) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Letters with notes](https://open.spotify.com/album/5eOVVp7IQsGYgYQsVKn74P) | 3:21 | 2023-09-04 | 2023-11-10 |
 | [Now \(Feat\. THAMA\)](https://open.spotify.com/track/3VAD6IG91tzUaSlPeei63M) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:55 | 2022-04-22 | 2022-07-27 |
@@ -605,7 +606,7 @@
 | [Really Like You](https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Really Like You](https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu) | 2:58 | 2024-03-08 | 2024-11-07 |
 | [Really, you \- Band Version](https://open.spotify.com/track/5a5KcVrZhXQw7hs7CprfT1) | [Bluepaprika](https://open.spotify.com/artist/5UsQ1MY9PhBPfYkbb1cC0z) | [Really, you](https://open.spotify.com/album/0rBDqUxuWeuA9ADnD16Kqw) | 4:01 | 2023-07-07 | 2023-07-13 |
 | [REASON](https://open.spotify.com/track/2RqjrPwWWk6MOo6YzqYJ6U) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[REASON\]](https://open.spotify.com/album/0VZzJkiIK51ygHS5n1qRnZ) | 3:17 | 2023-01-14 | 2023-04-06 |
-| [Rebellion](https://open.spotify.com/track/6bpn1BPAXOTBv14AG5EwG3) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5), [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Rebellion](https://open.spotify.com/album/6gCLXpitNrlglz2pg7WrAN) | 3:44 | 2025-02-05 |  |
+| [Rebellion](https://open.spotify.com/track/6bpn1BPAXOTBv14AG5EwG3) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5), [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Rebellion](https://open.spotify.com/album/6gCLXpitNrlglz2pg7WrAN) | 3:44 | 2025-02-05 | 2025-03-20 |
 | [RED](https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [RED](https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl) | 2:56 | 2023-01-06 | 2024-10-16 |
 | [RED](https://open.spotify.com/track/1JsBcVdlKZJmDPJWu4wJPC) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [RED](https://open.spotify.com/album/5CrMZwZuJcDpzFmMO35vxN) | 2:56 | 2022-07-22 | 2023-01-05 |
 | [RED](https://open.spotify.com/track/4Dy1Iav5ND9bJCHE090An9) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [RED](https://open.spotify.com/album/4CMscoZuaGi6UEDC2Wpdtk) | 2:56 | 2022-04-12 | 2022-07-29 |

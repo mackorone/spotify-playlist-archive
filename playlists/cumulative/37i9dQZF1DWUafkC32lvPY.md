@@ -4,7 +4,7 @@
 
 > lofi beats by Latinxs.
 
-92 songs - 3 hr 40 min
+93 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [La Selva Nos Llama](https://open.spotify.com/track/5TxJV8NHD8o0HaWE6j81g2) | [Lofi Cult](https://open.spotify.com/artist/50RQP8HILBQ3Dr9HG6L9U5) | [Lofi Latino, Vol\. 2](https://open.spotify.com/album/1yh52bY2XzrbPdVkJuOGBb) | 2:18 | 2023-06-26 |  |
 | [La Tierra del Pan y del Café](https://open.spotify.com/track/3IUyr9sPr453ymdfGA6NjB) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [Autorretrato](https://open.spotify.com/album/4KxqWP1Cs5JbSbebfUXWRP) | 2:50 | 2023-09-14 | 2023-11-04 |
 | [Labios](https://open.spotify.com/track/4yJFZnusyvXhCtjFs1yv2I) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Labios](https://open.spotify.com/album/2S2MaTTdjv5GlMKN53Eyab) | 2:44 | 2023-07-14 | 2023-09-15 |
-| [Landscaper](https://open.spotify.com/track/21zlk57FeY4Vc0L00rDuiD) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [Landscape Ride](https://open.spotify.com/album/7ycpXvVU0EUsxORzSGMHhA) | 2:27 | 2023-06-26 |  |
+| [Landscaper](https://open.spotify.com/track/21zlk57FeY4Vc0L00rDuiD) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [Landscape Ride](https://open.spotify.com/album/7ycpXvVU0EUsxORzSGMHhA) | 2:27 | 2023-06-26 | 2025-03-20 |
 | [Like Coconut From The Tree](https://open.spotify.com/track/0PwWBtV1EUmg1TtKtJPM85) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT) | [Like Coconut From The Tree](https://open.spotify.com/album/7bu1eXJ1qIb9sDC0Jq3AhC) | 2:02 | 2023-06-26 |  |
 | [Los días grises \(Remix\)](https://open.spotify.com/track/5HS4clb7EG8MeRGybBVPRY) | [Los Bosques](https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Remixes lofi del Regional Chill](https://open.spotify.com/album/0zYXLwvBFEYXKJg9bI8YAT) | 2:03 | 2023-09-14 |  |
 | [love in medellín](https://open.spotify.com/track/5mGAQqsga5RzDp8NoQgmsH) | [neptune kid](https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA) | [love in medellín](https://open.spotify.com/album/6IHUbJzZ2P4XMC9fq4O7TA) | 1:49 | 2023-06-26 | 2024-05-10 |
@@ -100,5 +100,6 @@
 | [Viendo el mundial con papá](https://open.spotify.com/track/4WL5S9cINoUEez1KCBOM0F) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl), [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Viendo el mundial con papá](https://open.spotify.com/album/3BeOJF0rFsw8HY32U54oOW) | 2:09 | 2023-09-14 |  |
 | [Viento de Arrabal](https://open.spotify.com/track/1md8gp3aWVhSu39J92ADYi) | [Los Bosques](https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG), [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om) | [Monte Nativo](https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku) | 2:07 | 2023-06-26 |  |
 | [Vueltas](https://open.spotify.com/track/1eVE0xK0vChhI2Ey8vEN0s) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [Kebyn Moon](https://open.spotify.com/artist/1RdlOYPsbV6HIoQaoKmYlV) | [Vueltas](https://open.spotify.com/album/0GnzcCxFuBmx7VWXnHbLUK) | 1:55 | 2023-06-26 |  |
+| [Wait 4 Me](https://open.spotify.com/track/5ecWbl0CpnRafOwDL4DnHO) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Wait 4 Me](https://open.spotify.com/album/4NYbuxgVV6eVf8BMjg1Zzf) | 1:56 | 2025-03-14 |  |
 
 \*This playlist was first scraped on 2023-06-28. Prior content cannot be recovered.

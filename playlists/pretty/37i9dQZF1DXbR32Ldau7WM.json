@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: Hanabie.",
-  "num_followers": 295034,
+  "num_followers": 295076,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-03-18 15:00:43",
       "album": {
-        "name": "\u30b7\u30a7\u30fc\u30c9\u306e\u57c3\u306f\u5ef6\u9577",
-        "url": "https://open.spotify.com/album/1O7CgTorM9nD4Uf9uqeffJ"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "\u30b7\u30a7\u30fc\u30c9\u306e\u57c3\u306f\u5ef6\u9577",
-      "url": "https://open.spotify.com/track/3fPilEQed9XCVEMHqvXsmg"
-    },
-    {
-      "added_at": "2025-03-18 15:00:43",
-      "album": {
         "name": "UN-APEX",
         "url": "https://open.spotify.com/album/09xKEYd8CymEeCNANki8Sl"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 260099,
       "name": "UN-APEX",
       "url": "https://open.spotify.com/track/0jmMSb8fGqcn7gKQ7vfdNj"
+    },
+    {
+      "added_at": "2025-03-18 15:00:43",
+      "album": {
+        "name": "\u30b7\u30a7\u30fc\u30c9\u306e\u57c3\u306f\u5ef6\u9577",
+        "url": "https://open.spotify.com/album/1O7CgTorM9nD4Uf9uqeffJ"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "\u30b7\u30a7\u30fc\u30c9\u306e\u57c3\u306f\u5ef6\u9577",
+      "url": "https://open.spotify.com/track/3fPilEQed9XCVEMHqvXsmg"
     },
     {
       "added_at": "2025-03-18 15:00:43",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-03-18 15:00:43",
       "album": {
-        "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
-        "url": "https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 269093,
-      "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
-      "url": "https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0"
-    },
-    {
-      "added_at": "2025-03-18 15:00:43",
-      "album": {
         "name": "Make It Out Alive",
         "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 209799,
       "name": "Make It Out Alive",
       "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
+    },
+    {
+      "added_at": "2025-03-18 15:00:43",
+      "album": {
+        "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
+        "url": "https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 269093,
+      "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
+      "url": "https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0"
     },
     {
       "added_at": "2025-03-18 15:00:43",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-03-18 15:00:43",
       "album": {
-        "name": "Delusion:All",
-        "url": "https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 184909,
-      "name": "Delusion:All",
-      "url": "https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3"
-    },
-    {
-      "added_at": "2025-03-18 15:00:43",
-      "album": {
         "name": "sakanaction",
         "url": "https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2025-03-18 15:00:43",
       "album": {
+        "name": "Delusion:All",
+        "url": "https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 184909,
+      "name": "Delusion:All",
+      "url": "https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3"
+    },
+    {
+      "added_at": "2025-03-18 15:00:43",
+      "album": {
         "name": "Bu-ikikaesu",
         "url": "https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K"
       },
@@ -1095,22 +1095,6 @@
       "duration_ms": 186293,
       "name": "ChuChu Lovely MuniMuni MuraMura PrinPrin Boron Nururu ReroRero",
       "url": "https://open.spotify.com/track/4vLhi74fctCnK4OFbiiS6P"
-    },
-    {
-      "added_at": "2025-03-18 15:00:43",
-      "album": {
-        "name": "Everybody!!",
-        "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
-      },
-      "artists": [
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
-        }
-      ],
-      "duration_ms": 169697,
-      "name": "\u3084\u3063\u3066\u307f\u3088\u3046",
-      "url": "https://open.spotify.com/track/6ahKnsl2tuTCyaBwt45WAz"
     },
     {
       "added_at": "2025-03-18 15:00:43",
@@ -1143,6 +1127,22 @@
       "duration_ms": 195600,
       "name": "\u3042\u306a\u305f\u306b",
       "url": "https://open.spotify.com/track/1egQB7JmuDdaWdWtODlrja"
+    },
+    {
+      "added_at": "2025-03-18 15:00:43",
+      "album": {
+        "name": "Everybody!!",
+        "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 169697,
+      "name": "\u3084\u3063\u3066\u307f\u3088\u3046",
+      "url": "https://open.spotify.com/track/6ahKnsl2tuTCyaBwt45WAz"
     },
     {
       "added_at": "2025-03-18 15:00:43",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-03-18 15:00:43",
       "album": {
-        "name": "\u6b8b\u97ff\u30ea\u30d5\u30a1\u30ec\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/46tySm112BCkEkfssfPODv"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 254746,
-      "name": "\u30ad\u30df\u30b7\u30c0\u30a4\u5217\u8eca",
-      "url": "https://open.spotify.com/track/0a5rZP8sYdlvBRVmcNovyC"
-    },
-    {
-      "added_at": "2025-03-18 15:00:43",
-      "album": {
         "name": "DocumentaLy",
         "url": "https://open.spotify.com/album/27S5Z17E6ZJNNuPoKddhGb"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 246759,
       "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
       "url": "https://open.spotify.com/track/3Fki7feUIjOBqclsgHsDhL"
+    },
+    {
+      "added_at": "2025-03-18 15:00:43",
+      "album": {
+        "name": "\u6b8b\u97ff\u30ea\u30d5\u30a1\u30ec\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/46tySm112BCkEkfssfPODv"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 254746,
+      "name": "\u30ad\u30df\u30b7\u30c0\u30a4\u5217\u8eca",
+      "url": "https://open.spotify.com/track/0a5rZP8sYdlvBRVmcNovyC"
     },
     {
       "added_at": "2025-03-18 15:00:43",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-03-18 15:00:43",
       "album": {
-        "name": "\u75db\u899a",
-        "url": "https://open.spotify.com/album/0RtFA6ThC0dUyWN1fhqEit"
-      },
-      "artists": [
-        {
-          "name": "amazarashi",
-          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
-        }
-      ],
-      "duration_ms": 269777,
-      "name": "\u75db\u899a",
-      "url": "https://open.spotify.com/track/3wnQnCDKSSlQDJELGWzj0V"
-    },
-    {
-      "added_at": "2025-03-18 15:00:43",
-      "album": {
         "name": "BRING YOUR BOARD!!",
         "url": "https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 199826,
       "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
       "url": "https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg"
+    },
+    {
+      "added_at": "2025-03-18 15:00:43",
+      "album": {
+        "name": "\u75db\u899a",
+        "url": "https://open.spotify.com/album/0RtFA6ThC0dUyWN1fhqEit"
+      },
+      "artists": [
+        {
+          "name": "amazarashi",
+          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+        }
+      ],
+      "duration_ms": 269777,
+      "name": "\u75db\u899a",
+      "url": "https://open.spotify.com/track/3wnQnCDKSSlQDJELGWzj0V"
     },
     {
       "added_at": "2025-03-18 15:00:43",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-03-18 15:00:43",
       "album": {
-        "name": "Teenage Blue",
-        "url": "https://open.spotify.com/album/3gM1zCIe4OEvLZRms1x1GF"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
-        }
-      ],
-      "duration_ms": 225644,
-      "name": "Teenage Blue",
-      "url": "https://open.spotify.com/track/4Fm8ggLr1zXelWShFbqiZE"
-    },
-    {
-      "added_at": "2025-03-18 15:00:43",
-      "album": {
         "name": "\u6c38\u9060\u306e\u4e0d\u5728\u8a3c\u660e",
         "url": "https://open.spotify.com/album/5y7E3hUWGNoY98C1TubePY"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 261440,
       "name": "\u6c38\u9060\u306e\u4e0d\u5728\u8a3c\u660e",
       "url": "https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis"
+    },
+    {
+      "added_at": "2025-03-18 15:00:43",
+      "album": {
+        "name": "Teenage Blue",
+        "url": "https://open.spotify.com/album/3gM1zCIe4OEvLZRms1x1GF"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 225644,
+      "name": "Teenage Blue",
+      "url": "https://open.spotify.com/track/4Fm8ggLr1zXelWShFbqiZE"
     },
     {
       "added_at": "2025-03-18 15:00:43",

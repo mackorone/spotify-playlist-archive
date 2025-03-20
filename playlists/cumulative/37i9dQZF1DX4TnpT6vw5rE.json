@@ -3207,6 +3207,24 @@
     },
     {
       "album": {
+        "name": "Mimosa",
+        "url": "https://open.spotify.com/album/4vGqznDBnofJ4df0QUM0Tb"
+      },
+      "artists": [
+        {
+          "name": "Sheila's Disciples",
+          "url": "https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO"
+        }
+      ],
+      "date_added": "2025-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Mimosa",
+      "url": "https://open.spotify.com/track/2oW7OUvAO37WFMAgbcK8in"
+    },
+    {
+      "album": {
         "name": "Mission at Beccles",
         "url": "https://open.spotify.com/album/233G9MsUHRJCERpaVpTaFS"
       },
@@ -5030,7 +5048,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 195789,
       "name": "Tetrial",
       "url": "https://open.spotify.com/track/3RKdfJKiVlFEYkHy95Wipt"

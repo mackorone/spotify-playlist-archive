@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 
 > 
 
-[beans](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 210 likes - 174 songs - 5 hr 30 min
+[can of beans](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 210 likes - 176 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,5 +182,7 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 | 172 | [so numb that she's in hell \- 2025 Version](https://open.spotify.com/track/4Fa74jnKpzzfjU9zeDT07P) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [SO NUMB THAT SHE'S IN HELL!!!](https://open.spotify.com/album/5dzEMs2kYYU98AixEZwAky) | 2:51 |
 | 173 | [so numb that she's in hell \- 2025 Instrumental](https://open.spotify.com/track/5ow9jFQv0VZGKdXijrVP71) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [SO NUMB THAT SHE'S IN HELL!!!](https://open.spotify.com/album/5dzEMs2kYYU98AixEZwAky) | 2:51 |
 | 174 | [so numb that she's in hell \- 2021 Version](https://open.spotify.com/track/0SIXarTWclRfrkBDhHPjBB) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [SO NUMB THAT SHE'S IN HELL!!!](https://open.spotify.com/album/5dzEMs2kYYU98AixEZwAky) | 1:55 |
+| 175 | [WIN WIN WIN](https://open.spotify.com/track/6eeRIbNpBDu98MRRUHl6ID) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [WIN WIN WIN](https://open.spotify.com/album/1tB0QyCUz3fJM5FVzvtdVN) | 2:52 |
+| 176 | [WIN WIN WIN \- Instrumental](https://open.spotify.com/track/3dzrZUMKDhNMrBe3VBS2qG) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [WIN WIN WIN](https://open.spotify.com/album/1tB0QyCUz3fJM5FVzvtdVN) | 2:52 |
 
-Snapshot ID: `AAAAf3bsm16AsduyX+YAFlwlMGznLGjI`
+Snapshot ID: `AAAAgBp9VDtOekcNsG0EQFDIduBLxmcO`

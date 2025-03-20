@@ -2,7 +2,7 @@
 
 ### [Spotify Singles: Covers](https://open.spotify.com/playlist/37i9dQZF1DWZqyWCBK6QTt)
 
-> The songs you love, in ways you’ve never heard before\. Cover: Damiano David
+> The songs you love, in ways you’ve never heard before\. Cover: Riley Green
 
 440 songs - 1 day 3 hr 13 min
 

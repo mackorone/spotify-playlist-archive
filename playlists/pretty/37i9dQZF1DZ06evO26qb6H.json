@@ -1,12 +1,12 @@
 {
   "description": "This is Murda Beatz. The essential tracks, all in one playlist.",
-  "num_followers": 3155,
+  "num_followers": 3159,
   "original_name": "This Is Murda Beatz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAAAWirkK+MN3YgsB9BvXYoYq",
+  "snapshot_id": "Z9i3gAAAAABJvgFIo9Z9lqZKsHrF+Pyu",
   "tracks": [
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 137640,
-      "name": "Good Evening",
-      "url": "https://open.spotify.com/track/5HG4ipny0N1oGdeYkHbggO"
+      "duration_ms": 143960,
+      "name": "Stuck in Between",
+      "url": "https://open.spotify.com/track/0RjweECF6Y4zdR1cixjmiG"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 143960,
-      "name": "Stuck in Between",
-      "url": "https://open.spotify.com/track/0RjweECF6Y4zdR1cixjmiG"
+      "duration_ms": 137640,
+      "name": "Good Evening",
+      "url": "https://open.spotify.com/track/5HG4ipny0N1oGdeYkHbggO"
     },
     {
       "added_at": null,
@@ -483,26 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beef",
-        "url": "https://open.spotify.com/album/0e7ntcb8IOMnnHqJkxihR3"
+        "name": "Bless Yo Trap",
+        "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
       },
       "artists": [
         {
-          "name": "9lokknine",
-          "url": "https://open.spotify.com/artist/0ceH34CATvfgphxnLRWFkm"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+          "name": "Smokepurpp",
+          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
         },
         {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 181306,
-      "name": "Beef",
-      "url": "https://open.spotify.com/track/01MnJO1gfqVGACFAWMXNPU"
+      "duration_ms": 170000,
+      "name": "123",
+      "url": "https://open.spotify.com/track/2uVRSSzX96V7Rzlhx7fosj"
     },
     {
       "added_at": null,
@@ -547,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bless Yo Trap",
-        "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
-      },
-      "artists": [
-        {
-          "name": "Smokepurpp",
-          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "123",
-      "url": "https://open.spotify.com/track/2uVRSSzX96V7Rzlhx7fosj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "420 in London",
         "url": "https://open.spotify.com/album/1BMfByaGjaWoSraUSfCQQh"
       },
@@ -587,6 +563,30 @@
       "duration_ms": 219088,
       "name": "420 in London",
       "url": "https://open.spotify.com/track/1zDwQIp3BgbH9dSmYtPBDH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beef",
+        "url": "https://open.spotify.com/album/0e7ntcb8IOMnnHqJkxihR3"
+      },
+      "artists": [
+        {
+          "name": "9lokknine",
+          "url": "https://open.spotify.com/artist/0ceH34CATvfgphxnLRWFkm"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 181306,
+      "name": "Beef",
+      "url": "https://open.spotify.com/track/01MnJO1gfqVGACFAWMXNPU"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/4hoY7EvJ5DFDNGlN2eG2MN"
-      },
-      "artists": [
-        {
-          "name": "Duvy",
-          "url": "https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 136306,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/5ZuP7gjwZlBcGsxcSOtpfa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1Night (feat. PARTYNEXTDOOR, 21 Savage & Murda Beatz)",
         "url": "https://open.spotify.com/album/7dYqsPwOXNU2PXl00fkaAG"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 156521,
       "name": "McQueen",
       "url": "https://open.spotify.com/track/4vLRgSxcRmhnhAl9dKb0jl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/4hoY7EvJ5DFDNGlN2eG2MN"
+      },
+      "artists": [
+        {
+          "name": "Duvy",
+          "url": "https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 136306,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/5ZuP7gjwZlBcGsxcSOtpfa"
     },
     {
       "added_at": null,

@@ -4889,6 +4889,32 @@
     },
     {
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1ea31ImgDvalTNdhLKN4kP"
+      },
+      "artists": [
+        {
+          "name": "softy",
+          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
+        },
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        },
+        {
+          "name": "JazzyHan",
+          "url": "https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120750,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/0E3mdDji1HOyCQWAt2p4FH"
+    },
+    {
+      "album": {
         "name": "auras",
         "url": "https://open.spotify.com/album/5hVjFNVS0blgqbkSt5efzh"
       },
@@ -6848,6 +6874,28 @@
       "duration_ms": 178000,
       "name": "Beachwalker",
       "url": "https://open.spotify.com/track/2tUg45VysqBwS9fidbdjCf"
+    },
+    {
+      "album": {
+        "name": "Beacon",
+        "url": "https://open.spotify.com/album/1KEEjnCLpomB95zruxK8I8"
+      },
+      "artists": [
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "softy",
+          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "Beacon",
+      "url": "https://open.spotify.com/track/42hMkVcL01a9AVW9QG1iYp"
     },
     {
       "album": {
@@ -25268,7 +25316,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 137437,
       "name": "Floating",
       "url": "https://open.spotify.com/track/3iU03u35p553a6UHOkn6JG"
@@ -49534,7 +49582,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 156404,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/0h4FhO4anm49Y1RqOtJGr6"
@@ -54046,6 +54094,24 @@
       "duration_ms": 122750,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/0R1CjGONKrRmkCm9KTjDJY"
+    },
+    {
+      "album": {
+        "name": "Ocean Breath",
+        "url": "https://open.spotify.com/album/0YhJ8TcTop6mjDAhIWrvIN"
+      },
+      "artists": [
+        {
+          "name": "T.Check",
+          "url": "https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105542,
+      "name": "Ocean Breath",
+      "url": "https://open.spotify.com/track/6Dl6UDx0lJroYWhPW2bXuq"
     },
     {
       "album": {
@@ -64166,7 +64232,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 143611,
       "name": "Sakura",
       "url": "https://open.spotify.com/track/2r26Lz065fusSQ80STF956"

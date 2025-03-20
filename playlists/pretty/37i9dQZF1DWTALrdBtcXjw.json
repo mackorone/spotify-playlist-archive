@@ -1,6 +1,6 @@
 {
   "description": "Instrumental Jazz to set the mood for a relaxed evening.",
-  "num_followers": 422735,
+  "num_followers": 422742,
   "original_name": "Jazzy Dinner",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2025-03-13 14:11:22",
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/2wfDE3UXThq9OPW1dCRIit"
-      },
-      "artists": [
-        {
-          "name": "Gathering in Jazz",
-          "url": "https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh"
-        }
-      ],
-      "duration_ms": 197665,
-      "name": "The Shape of Blue",
-      "url": "https://open.spotify.com/track/11oZK9EdlMVLqVIIxkUFVx"
-    },
-    {
-      "added_at": "2025-03-13 14:11:22",
-      "album": {
         "name": "Sideways",
         "url": "https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 291500,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/5iSawMqnY9rgPkUHhSvyNT"
+    },
+    {
+      "added_at": "2025-03-13 14:11:22",
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/2wfDE3UXThq9OPW1dCRIit"
+      },
+      "artists": [
+        {
+          "name": "Gathering in Jazz",
+          "url": "https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh"
+        }
+      ],
+      "duration_ms": 197665,
+      "name": "The Shape of Blue",
+      "url": "https://open.spotify.com/track/11oZK9EdlMVLqVIIxkUFVx"
     },
     {
       "added_at": "2025-03-13 14:11:22",
@@ -199,22 +199,6 @@
     {
       "added_at": "2025-03-13 14:11:22",
       "album": {
-        "name": "Changes over Time",
-        "url": "https://open.spotify.com/album/6eMW0RnkkZMD7cBIznCP6i"
-      },
-      "artists": [
-        {
-          "name": "Jon Davis",
-          "url": "https://open.spotify.com/artist/50COs4RSxBcXjOyOg56BZc"
-        }
-      ],
-      "duration_ms": 245698,
-      "name": "My Cherie Amour",
-      "url": "https://open.spotify.com/track/7DHFPzbBjip4vhw5DM9AFR"
-    },
-    {
-      "added_at": "2025-03-13 14:11:22",
-      "album": {
         "name": "I Wished on the Moon",
         "url": "https://open.spotify.com/album/6aALwyIISIOXJnXe5KqcH2"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 284284,
       "name": "I Wished on the Moon",
       "url": "https://open.spotify.com/track/6INyWFbiJFlZ6pmtaty1QE"
+    },
+    {
+      "added_at": "2025-03-13 14:11:22",
+      "album": {
+        "name": "Changes over Time",
+        "url": "https://open.spotify.com/album/6eMW0RnkkZMD7cBIznCP6i"
+      },
+      "artists": [
+        {
+          "name": "Jon Davis",
+          "url": "https://open.spotify.com/artist/50COs4RSxBcXjOyOg56BZc"
+        }
+      ],
+      "duration_ms": 245698,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/7DHFPzbBjip4vhw5DM9AFR"
     },
     {
       "added_at": "2025-03-13 14:11:22",
@@ -331,18 +331,26 @@
     {
       "added_at": "2025-03-13 14:11:22",
       "album": {
-        "name": "Everybody Gets the Blues",
-        "url": "https://open.spotify.com/album/5hgDmpI3ISYVnqZrpAZf2N"
+        "name": "Triple Play",
+        "url": "https://open.spotify.com/album/5yMWBKYnLrYHMJeA9j9nwr"
       },
       "artists": [
         {
-          "name": "Eric Scott Reed",
-          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
+          "name": "Harold Danko",
+          "url": "https://open.spotify.com/artist/26IGMCxg4NgtwUVLlX5rPw"
+        },
+        {
+          "name": "Jay Anderson",
+          "url": "https://open.spotify.com/artist/7eaHILZta913Fkf49T57SV"
+        },
+        {
+          "name": "Jeff Hirshfield",
+          "url": "https://open.spotify.com/artist/52O6frArSmachHxpz0NSTZ"
         }
       ],
-      "duration_ms": 229226,
-      "name": "Everybody Gets the Blues",
-      "url": "https://open.spotify.com/track/0ns3AARhJgB5o2WqTDPzSm"
+      "duration_ms": 433266,
+      "name": "Ancient and Distant",
+      "url": "https://open.spotify.com/track/2kXJ6su5YWx1a3YQilPxmF"
     },
     {
       "added_at": "2025-03-13 14:11:22",
@@ -367,26 +375,18 @@
     {
       "added_at": "2025-03-13 14:11:22",
       "album": {
-        "name": "Triple Play",
-        "url": "https://open.spotify.com/album/5yMWBKYnLrYHMJeA9j9nwr"
+        "name": "Everybody Gets the Blues",
+        "url": "https://open.spotify.com/album/5hgDmpI3ISYVnqZrpAZf2N"
       },
       "artists": [
         {
-          "name": "Harold Danko",
-          "url": "https://open.spotify.com/artist/26IGMCxg4NgtwUVLlX5rPw"
-        },
-        {
-          "name": "Jay Anderson",
-          "url": "https://open.spotify.com/artist/7eaHILZta913Fkf49T57SV"
-        },
-        {
-          "name": "Jeff Hirshfield",
-          "url": "https://open.spotify.com/artist/52O6frArSmachHxpz0NSTZ"
+          "name": "Eric Scott Reed",
+          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
         }
       ],
-      "duration_ms": 433266,
-      "name": "Ancient and Distant",
-      "url": "https://open.spotify.com/track/2kXJ6su5YWx1a3YQilPxmF"
+      "duration_ms": 229226,
+      "name": "Everybody Gets the Blues",
+      "url": "https://open.spotify.com/track/0ns3AARhJgB5o2WqTDPzSm"
     },
     {
       "added_at": "2025-03-13 14:11:22",
@@ -827,18 +827,18 @@
     {
       "added_at": "2025-03-13 14:11:22",
       "album": {
-        "name": "The Role of the Rhythm Section",
-        "url": "https://open.spotify.com/album/44yX1YQnWpelj8c2yNOamH"
+        "name": "Let's Face the Music",
+        "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
       },
       "artists": [
         {
-          "name": "Steven Feifke",
-          "url": "https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S"
+          "name": "Reinhardt Winkler",
+          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
         }
       ],
-      "duration_ms": 346786,
-      "name": "Here's That Rainy Day",
-      "url": "https://open.spotify.com/track/2C1LmPGwkeVbV14Gn49ka8"
+      "duration_ms": 257148,
+      "name": "Beatrice",
+      "url": "https://open.spotify.com/track/3G5w8xxvPfQMpBbnM0ymhf"
     },
     {
       "added_at": "2025-03-13 14:11:22",
@@ -883,18 +883,18 @@
     {
       "added_at": "2025-03-13 14:11:22",
       "album": {
-        "name": "Let's Face the Music",
-        "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
+        "name": "The Role of the Rhythm Section",
+        "url": "https://open.spotify.com/album/44yX1YQnWpelj8c2yNOamH"
       },
       "artists": [
         {
-          "name": "Reinhardt Winkler",
-          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
+          "name": "Steven Feifke",
+          "url": "https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S"
         }
       ],
-      "duration_ms": 257148,
-      "name": "Beatrice",
-      "url": "https://open.spotify.com/track/3G5w8xxvPfQMpBbnM0ymhf"
+      "duration_ms": 346786,
+      "name": "Here's That Rainy Day",
+      "url": "https://open.spotify.com/track/2C1LmPGwkeVbV14Gn49ka8"
     },
     {
       "added_at": "2025-03-13 14:11:22",
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-03-13 14:11:22",
       "album": {
+        "name": "Remembering",
+        "url": "https://open.spotify.com/album/2elaIEGm1mApCONikdISZD"
+      },
+      "artists": [
+        {
+          "name": "Hyuntae Kim",
+          "url": "https://open.spotify.com/artist/2vLAFtpsgJCb9MDtmDvCwS"
+        }
+      ],
+      "duration_ms": 360986,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/1pQyBAVelwGAMURXVBhpm7"
+    },
+    {
+      "added_at": "2025-03-13 14:11:22",
+      "album": {
         "name": "Dimensions",
         "url": "https://open.spotify.com/album/7m6RY5dNO4AlHC6WReFdD8"
       },
@@ -931,18 +947,26 @@
     {
       "added_at": "2025-03-13 14:11:22",
       "album": {
-        "name": "Remembering",
-        "url": "https://open.spotify.com/album/2elaIEGm1mApCONikdISZD"
+        "name": "At The Deer Head Inn",
+        "url": "https://open.spotify.com/album/5dv5GivEsrsnfdwLNHVzQx"
       },
       "artists": [
         {
-          "name": "Hyuntae Kim",
-          "url": "https://open.spotify.com/artist/2vLAFtpsgJCb9MDtmDvCwS"
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        {
+          "name": "Paul Motian",
+          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
+        },
+        {
+          "name": "Gary Peacock",
+          "url": "https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y"
         }
       ],
-      "duration_ms": 360986,
-      "name": "Count On Me",
-      "url": "https://open.spotify.com/track/1pQyBAVelwGAMURXVBhpm7"
+      "duration_ms": 561826,
+      "name": "Chandra",
+      "url": "https://open.spotify.com/track/40KYa8MjDOKIByCm3iv8P9"
     },
     {
       "added_at": "2025-03-13 14:11:22",
@@ -1015,30 +1039,6 @@
     {
       "added_at": "2025-03-13 14:11:22",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/6QFy0zMnOL1Y5oacJYP2RE"
-      },
-      "artists": [
-        {
-          "name": "Juan Ortiz",
-          "url": "https://open.spotify.com/artist/72wv4vWevdN2V78wvxj44U"
-        },
-        {
-          "name": "Gene Jackson",
-          "url": "https://open.spotify.com/artist/6vmvNKIhsms4fxFD8YfQG8"
-        },
-        {
-          "name": "Hiroshi Takase",
-          "url": "https://open.spotify.com/artist/5wdKbfjSsOpldsBV3GBg9H"
-        }
-      ],
-      "duration_ms": 324133,
-      "name": "Song for Selene (I'll Meet You in My Dreams)",
-      "url": "https://open.spotify.com/track/7667MFk3EPtbJJrXpPPmAg"
-    },
-    {
-      "added_at": "2025-03-13 14:11:22",
-      "album": {
         "name": "Street Of Dreams",
         "url": "https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr"
       },
@@ -1071,26 +1071,26 @@
     {
       "added_at": "2025-03-13 14:11:22",
       "album": {
-        "name": "At The Deer Head Inn",
-        "url": "https://open.spotify.com/album/5dv5GivEsrsnfdwLNHVzQx"
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/6QFy0zMnOL1Y5oacJYP2RE"
       },
       "artists": [
         {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+          "name": "Juan Ortiz",
+          "url": "https://open.spotify.com/artist/72wv4vWevdN2V78wvxj44U"
         },
         {
-          "name": "Paul Motian",
-          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
+          "name": "Gene Jackson",
+          "url": "https://open.spotify.com/artist/6vmvNKIhsms4fxFD8YfQG8"
         },
         {
-          "name": "Gary Peacock",
-          "url": "https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y"
+          "name": "Hiroshi Takase",
+          "url": "https://open.spotify.com/artist/5wdKbfjSsOpldsBV3GBg9H"
         }
       ],
-      "duration_ms": 561826,
-      "name": "Chandra",
-      "url": "https://open.spotify.com/track/40KYa8MjDOKIByCm3iv8P9"
+      "duration_ms": 324133,
+      "name": "Song for Selene (I'll Meet You in My Dreams)",
+      "url": "https://open.spotify.com/track/7667MFk3EPtbJJrXpPPmAg"
     },
     {
       "added_at": "2025-03-13 14:11:22",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2025-03-13 14:11:22",
       "album": {
+        "name": "Laura",
+        "url": "https://open.spotify.com/album/5f4u1UAeaEXeyxNRwbHcUu"
+      },
+      "artists": [
+        {
+          "name": "Dena DeRose",
+          "url": "https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3"
+        }
+      ],
+      "duration_ms": 288832,
+      "name": "Laura",
+      "url": "https://open.spotify.com/track/0UwLwTTurSDXBzGQCfGno8"
+    },
+    {
+      "added_at": "2025-03-13 14:11:22",
+      "album": {
         "name": "Doxy",
         "url": "https://open.spotify.com/album/35ojbhp0w19sGLHuUV7uAU"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 191835,
       "name": "Doxy",
       "url": "https://open.spotify.com/track/1RkqoAf31HsCMaTNzTzcG6"
-    },
-    {
-      "added_at": "2025-03-13 14:11:22",
-      "album": {
-        "name": "Laura",
-        "url": "https://open.spotify.com/album/5f4u1UAeaEXeyxNRwbHcUu"
-      },
-      "artists": [
-        {
-          "name": "Dena DeRose",
-          "url": "https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3"
-        }
-      ],
-      "duration_ms": 288832,
-      "name": "Laura",
-      "url": "https://open.spotify.com/track/0UwLwTTurSDXBzGQCfGno8"
     },
     {
       "added_at": "2025-03-13 14:11:22",
@@ -1303,6 +1303,30 @@
     {
       "added_at": "2025-03-13 14:11:22",
       "album": {
+        "name": "Pannonica",
+        "url": "https://open.spotify.com/album/1Enu9y8qf10c0w7eykUfmB"
+      },
+      "artists": [
+        {
+          "name": "Battista Lena",
+          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
+        },
+        {
+          "name": "Marco Fratini",
+          "url": "https://open.spotify.com/artist/1eKijoAFquBuMfQ2uK5AgX"
+        },
+        {
+          "name": "Giovanni Paolo Liguori",
+          "url": "https://open.spotify.com/artist/41C1QkN1baxWRNppaBt9CH"
+        }
+      ],
+      "duration_ms": 346923,
+      "name": "Pannonica",
+      "url": "https://open.spotify.com/track/0h3wot8Yt2SKK6Nw170b0M"
+    },
+    {
+      "added_at": "2025-03-13 14:11:22",
+      "album": {
         "name": "2223",
         "url": "https://open.spotify.com/album/01BqKk5UlUnYfWhaMplxWE"
       },
@@ -1327,30 +1351,6 @@
       "duration_ms": 434839,
       "name": "2223",
       "url": "https://open.spotify.com/track/0UCKaDSR7Q9RMG4HECtlWT"
-    },
-    {
-      "added_at": "2025-03-13 14:11:22",
-      "album": {
-        "name": "Pannonica",
-        "url": "https://open.spotify.com/album/1Enu9y8qf10c0w7eykUfmB"
-      },
-      "artists": [
-        {
-          "name": "Battista Lena",
-          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
-        },
-        {
-          "name": "Marco Fratini",
-          "url": "https://open.spotify.com/artist/1eKijoAFquBuMfQ2uK5AgX"
-        },
-        {
-          "name": "Giovanni Paolo Liguori",
-          "url": "https://open.spotify.com/artist/41C1QkN1baxWRNppaBt9CH"
-        }
-      ],
-      "duration_ms": 346923,
-      "name": "Pannonica",
-      "url": "https://open.spotify.com/track/0h3wot8Yt2SKK6Nw170b0M"
     },
     {
       "added_at": "2025-03-13 14:11:22",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2025-03-13 14:11:22",
       "album": {
+        "name": "The Feeling of Jazz",
+        "url": "https://open.spotify.com/album/3B8VwWDAs0YoJrDxIXXsA1"
+      },
+      "artists": [
+        {
+          "name": "Juraj Stanik Trio",
+          "url": "https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra"
+        }
+      ],
+      "duration_ms": 292521,
+      "name": "The Feeling of Jazz",
+      "url": "https://open.spotify.com/track/2Zkvc2hQqBuNauHGj3uXWl"
+    },
+    {
+      "added_at": "2025-03-13 14:11:22",
+      "album": {
         "name": "Live at Unity",
         "url": "https://open.spotify.com/album/0YlTrukNtRdVQUkRrOFKas"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 382453,
       "name": "Masthuggsgruppen - Live",
       "url": "https://open.spotify.com/track/3sTcMXmNCg2pLwhBJtLaU0"
-    },
-    {
-      "added_at": "2025-03-13 14:11:22",
-      "album": {
-        "name": "The Feeling of Jazz",
-        "url": "https://open.spotify.com/album/3B8VwWDAs0YoJrDxIXXsA1"
-      },
-      "artists": [
-        {
-          "name": "Juraj Stanik Trio",
-          "url": "https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra"
-        }
-      ],
-      "duration_ms": 292521,
-      "name": "The Feeling of Jazz",
-      "url": "https://open.spotify.com/track/2Zkvc2hQqBuNauHGj3uXWl"
     },
     {
       "added_at": "2025-03-13 14:11:22",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2025-03-13 14:11:22",
       "album": {
+        "name": "Monky Donkey",
+        "url": "https://open.spotify.com/album/651fHcUZBplRqdCZihyDzv"
+      },
+      "artists": [
+        {
+          "name": "G\u00e1bor Bolla",
+          "url": "https://open.spotify.com/artist/1gjizoJDEVRQAASb72Sn9z"
+        }
+      ],
+      "duration_ms": 472640,
+      "name": "Monky Donkey",
+      "url": "https://open.spotify.com/track/5wjbM7hhv66toC3a1fXdcT"
+    },
+    {
+      "added_at": "2025-03-13 14:11:22",
+      "album": {
         "name": "This Morning",
         "url": "https://open.spotify.com/album/4dUC48CIoIQfW6oSQFbhJs"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 304042,
       "name": "This Morning",
       "url": "https://open.spotify.com/track/27dFurQnD2C32fvTEcBS4V"
-    },
-    {
-      "added_at": "2025-03-13 14:11:22",
-      "album": {
-        "name": "Monky Donkey",
-        "url": "https://open.spotify.com/album/651fHcUZBplRqdCZihyDzv"
-      },
-      "artists": [
-        {
-          "name": "G\u00e1bor Bolla",
-          "url": "https://open.spotify.com/artist/1gjizoJDEVRQAASb72Sn9z"
-        }
-      ],
-      "duration_ms": 472640,
-      "name": "Monky Donkey",
-      "url": "https://open.spotify.com/track/5wjbM7hhv66toC3a1fXdcT"
     },
     {
       "added_at": "2025-03-13 14:11:22",

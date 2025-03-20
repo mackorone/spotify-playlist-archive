@@ -4,7 +4,7 @@
 
 > Music to encourage emotional and physical healing through Reiki.
 
-311 songs - 16 hr 30 min
+316 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Ancestral Spirit](https://open.spotify.com/track/4pIM5eZaCM2x4P1KqUDSTk) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Shaman Spirit Flute](https://open.spotify.com/album/39Q6KP8xGG0olJZMSwK7x9) | 1:15 | 2022-05-19 | 2023-07-29 |
 | [Ancient Voices \(From Call of the Mystic\)](https://open.spotify.com/track/4VYZ5F1Efe5elXeGBPCbcG) | [Karunesh](https://open.spotify.com/artist/4M6YdvdCPW1fvQYbLwmNWZ) | [Enlightenment \- A Sacred Collection](https://open.spotify.com/album/4PPdwkiaWNXo2BEKCNr9SF) | 5:19 | 2024-05-11 | 2024-08-22 |
 | [Andares](https://open.spotify.com/track/2S5om86Ep9oh6JXhJvBfpu) | [Solace Sonique](https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR) | [Andares](https://open.spotify.com/album/1g8IPQwsHTli253GySckDM) | 2:31 | 2024-05-11 | 2025-02-19 |
+| [Anemoia](https://open.spotify.com/track/3k0mcXHw42I47DG9vfIyrf) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Anemoia](https://open.spotify.com/album/4GrukSoHpBRuDXdyKitgw0) | 2:47 | 2025-03-19 |  |
 | [Angelical](https://open.spotify.com/track/2LzNS6YlpkehtEINlWNtV2) | [No Nem\-1](https://open.spotify.com/artist/2nWmDoCWQwcZQe6eemVZtp) | [Angelical](https://open.spotify.com/album/2O9gwqHI8P7XAr1yPp1xST) | 3:22 | 2021-12-22 | 2024-09-06 |
 | [Anna's Log](https://open.spotify.com/track/08Q8hexJUIjCJzNFrH6kKz) | [Montauk Season](https://open.spotify.com/artist/1CxzUz71eYdN6LFkku1F8H) | [Anna's Log](https://open.spotify.com/album/0HGph8QAx4WPBbxisXNb0U) | 2:36 | 2024-04-07 | 2024-09-06 |
 | [Annabel](https://open.spotify.com/track/6zxaXSm7712CPYNYWiXezc) | [Skeru](https://open.spotify.com/artist/2VtgVsxxb33b7iZ71BNDg7) | [Annabel](https://open.spotify.com/album/1V9WknQNNtRgdlJQElt8yn) | 2:27 | 2024-06-11 | 2025-02-06 |
@@ -91,7 +92,7 @@
 | [Empty Slate](https://open.spotify.com/track/4WFD4BI69FAqVnc1m7AWX5) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Empty Slate](https://open.spotify.com/album/365tS4BxAZwZinvGaxUJp3) | 2:38 | 2025-02-05 |  |
 | [Endless Reverie](https://open.spotify.com/track/0miJuO3YdsF14aZHLMQsEn) | [Lumara](https://open.spotify.com/artist/1IFpiv3qvu1L2SDxCDhNsK) | [Endless Reverie](https://open.spotify.com/album/7EFHWzodfgkniNtHZdWa0Y) | 2:34 | 2024-05-11 |  |
 | [Enhanced Focus](https://open.spotify.com/track/6J0xbhP0rn31Gq2ck22oUw) | [Elevated Minds](https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6) | [Enhanced Focus](https://open.spotify.com/album/5LaaldAHQVLAbqWXpYDdrw) | 3:12 | 2023-03-30 | 2025-02-19 |
-| [Epilogue](https://open.spotify.com/track/3SuA0W1bN0TmEl9dXge51i) | [Magnus Hartman](https://open.spotify.com/artist/0mAdUTIB13jBSnfdYp7xKl) | [Epilogue](https://open.spotify.com/album/3veI6Ek6CPU159ZRsZLpaZ) | 2:07 | 2023-11-24 |  |
+| [Epilogue](https://open.spotify.com/track/3SuA0W1bN0TmEl9dXge51i) | [Magnus Hartman](https://open.spotify.com/artist/0mAdUTIB13jBSnfdYp7xKl) | [Epilogue](https://open.spotify.com/album/3veI6Ek6CPU159ZRsZLpaZ) | 2:07 | 2023-11-24 | 2025-03-20 |
 | [Ethereal Dusk](https://open.spotify.com/track/7m8vI24uefaSl1SEMnrn6R) | [Lonat](https://open.spotify.com/artist/631KbNLTNvAFvxjyGArKp6) | [Ethereal Dusk](https://open.spotify.com/album/36XHs1kVVkK3B6Jz0NEDjg) | 2:52 | 2024-06-11 |  |
 | [Ethereals](https://open.spotify.com/track/3L17BiHK8zfdVoOFt7Onxl) | [Little Circuits](https://open.spotify.com/artist/1UyzP6admqk7jIIgedlD4B) | [Ethereals](https://open.spotify.com/album/24jPNmfxU3YonaSzEHirqP) | 3:04 | 2024-06-11 |  |
 | [Evening Sun](https://open.spotify.com/track/6oXpMOJy1mM2enYV60U3J1) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [Evening Sun](https://open.spotify.com/album/0gZyNPvko4EkySk7Krpvqf) | 2:43 | 2024-05-11 |  |
@@ -127,6 +128,7 @@
 | [Hills Of Clarity](https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL) | [Elevated Minds](https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6) | [Hills Of Clarity](https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA) | 4:15 | 2021-12-22 | 2025-01-15 |
 | [Hope](https://open.spotify.com/track/65jM7hkw0Nm0fJMiVMYw5b) | [Inner Soundscape](https://open.spotify.com/artist/4kzC9vZGmg6KYDHlI7f3ce), [Jonas Sjöblom](https://open.spotify.com/artist/3jglZKe9rgIy3nielm7ORi) | [Hope](https://open.spotify.com/album/1szdQT7PlIeZaZQ06MkKP8) | 3:48 | 2024-07-13 | 2024-12-20 |
 | [Howl at Night](https://open.spotify.com/track/0ec9yOc1nC6MDw9eDWrAD1) | [Dayonas Dream](https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3) | [Howl at Night](https://open.spotify.com/album/6OUOrvhAZdos5F3v3TnNbk) | 3:23 | 2025-02-18 |  |
+| [Hypnosos](https://open.spotify.com/track/0cspm6EoD1heGcgYekKBRs) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Hypnosos](https://open.spotify.com/album/4IseWIkmG85uQWjNfZqp70) | 2:18 | 2025-03-19 |  |
 | [Illumination of the Heart](https://open.spotify.com/track/4PSXQc6mV7ZJpLEJ4vkfUR) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Light](https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I) | 9:41 | 2021-12-22 | 2022-06-25 |
 | [In Cycles](https://open.spotify.com/track/5vjKJnFZGJf3f1slK57JNp) | [Inez Wolde](https://open.spotify.com/artist/433Ic9GNVFmaxAQz46hIlu) | [In Cycles](https://open.spotify.com/album/1Z3fUgGPw0FrfL5rLQSzlO) | 2:49 | 2023-05-05 | 2025-02-06 |
 | [In jouw armen](https://open.spotify.com/track/27U2vAXaXKEFo3oaqYFqq3) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [In jouw armen](https://open.spotify.com/album/0R7SDTTsNQOpxGKM5PVKKm) | 3:10 | 2021-12-22 | 2025-02-19 |
@@ -156,8 +158,9 @@
 | [Lilium Armenum](https://open.spotify.com/track/1TV8wpo0Cdh6cfpWIJIQ91) | [Greet The Day](https://open.spotify.com/artist/1NOoLv44Fhhctc2GYYMD7R) | [Lilium Armenum](https://open.spotify.com/album/4ygSspzeuORXY7tEEkVBSe) | 3:01 | 2024-05-11 |  |
 | [Little Swallow](https://open.spotify.com/track/1I0k8K0RQSZZKWGVXw2uDD) | [Mollis](https://open.spotify.com/artist/1QT9mxEShl9BmYBUhnr1DG) | [Little Swallow](https://open.spotify.com/album/4JNFQHbtSsuqD9UtiNiGnN) | 3:34 | 2021-12-22 | 2024-08-22 |
 | [Lost In The Moment](https://open.spotify.com/track/1EQjRFsujGt5MXWcZ3e41d) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Lost In The Moment](https://open.spotify.com/album/0XyDvrRxaVpme3G218gzJ5) | 3:32 | 2023-01-20 | 2023-04-14 |
+| [Luminous Light \(spa\)](https://open.spotify.com/track/6ddfT9K5oCWonxZRjHncQk) | [Ambiosis](https://open.spotify.com/artist/3Rg4fOMUW3gvG8qdIazNX1) | [Luminous Light \(spa\)](https://open.spotify.com/album/0uAGBLnVMW7wPwnzogFk6E) | 2:35 | 2025-03-19 |  |
 | [Lysa](https://open.spotify.com/track/71CYIlZUay1sVrfUlQBagr) | [Liva](https://open.spotify.com/artist/3OUnfI9kqulSplNuBsIf1p) | [Lysa](https://open.spotify.com/album/6xh61dVNbjiZoPxJuzDxGn) | 2:54 | 2024-05-11 |  |
-| [Macromedas](https://open.spotify.com/track/4r2XXfxvEHvQoSz1FVsrVu) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Macromedas](https://open.spotify.com/album/2clBnik7oSq4iYjWCITgYl) | 2:33 | 2022-03-09 |  |
+| [Macromedas](https://open.spotify.com/track/4r2XXfxvEHvQoSz1FVsrVu) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Macromedas](https://open.spotify.com/album/2clBnik7oSq4iYjWCITgYl) | 2:33 | 2022-03-09 | 2025-03-20 |
 | [Maitrī / Loving\-Kindness](https://open.spotify.com/track/3fxhUzK3MnVxAuLweBht7Z) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Prabhāta Dhara / Morning Flow](https://open.spotify.com/album/2sPa9bingfnxan7LKLOivy) | 3:24 | 2025-03-07 |  |
 | [Me Segure](https://open.spotify.com/track/7pkRv94aXaSd5wYzMzM0OT) | [Fleur Harmon](https://open.spotify.com/artist/3LzyV3YGTAhie6tKAGAdh7) | [Me Segure](https://open.spotify.com/album/74YPxHGHyuInkemmIUMnGl) | 3:13 | 2021-12-22 | 2025-02-06 |
 | [Midnight Dreams](https://open.spotify.com/track/7HJ63Qn9DkGH7EbtgnvAIJ) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [Midnight Dreams](https://open.spotify.com/album/0CFgufSpMBSyNGF337JT6c) | 2:51 | 2024-08-21 |  |
@@ -167,6 +170,7 @@
 | [My Life](https://open.spotify.com/track/75ovDWR2daEUvICb8585dy) | [Kenio Fuke](https://open.spotify.com/artist/7uE6tFEp50CS9YaQVKkVGh) | [Stillness](https://open.spotify.com/album/3W1ghlO1UtrBU4l7jGFhSw) | 5:03 | 2024-05-11 |  |
 | [Mystique Garden](https://open.spotify.com/track/1kqdfOEMGEtjMoPnD69JKn) | [Baya Lakshmi](https://open.spotify.com/artist/50tighC78c8RUNqduI3rv5) | [Mystique Garden](https://open.spotify.com/album/22vqrzMQgNuilRS25m08hL) | 3:08 | 2022-07-08 |  |
 | [Nada Más](https://open.spotify.com/track/7w9Lh7UjwwcF5H3lkIEQg0) | [Abel de Paula](https://open.spotify.com/artist/0D7gbspnUTEMXhKGUz6jJ7) | [Nada Más](https://open.spotify.com/album/7sGTpsv4C3LsSFrPk8LiY2) | 2:43 | 2024-01-30 |  |
+| [Naigma](https://open.spotify.com/track/1tdmIgIyr5HJwHljh0WccJ) | [Chasing Storms](https://open.spotify.com/artist/12Gz0AKNrCzOwYPuURs7ux) | [Naigma](https://open.spotify.com/album/0Kr4QJ5RDIXB2r07xjdPst) | 3:22 | 2025-03-19 |  |
 | [Namaste](https://open.spotify.com/track/7qLT0sVYjM9MlIf7sHfEcX) | [Start Of Something Good](https://open.spotify.com/artist/37qYg33d5znCp06dghSGz4) | [Namaste](https://open.spotify.com/album/2HBModmTCfZew2Z2UYxiQ9) | 2:57 | 2021-12-22 | 2025-02-19 |
 | [Namaste Divine](https://open.spotify.com/track/3sxAZF5XL7usW8oZ1PtR7F) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Namaste Divine](https://open.spotify.com/album/4Loei0XfBWhjqMyFEyU4mP) | 4:04 | 2023-01-09 | 2023-04-14 |
 | [Natura Deambulatio](https://open.spotify.com/track/2gaji8CCmGrYVh2Ccy69wy) | [Floating Portal](https://open.spotify.com/artist/1gxkloW3LpZ1pcP7iqdN5X) | [Natura Deambulatio](https://open.spotify.com/album/2bptLMr6eyfYPvQjQJqyn2) | 3:30 | 2024-04-07 | 2024-08-22 |
@@ -179,6 +183,7 @@
 | [No Longer Without You](https://open.spotify.com/track/58ODMaEmUCpk5bU7qoHLDD) | [Auxelia](https://open.spotify.com/artist/3IH62hlsEFxT7wDV7Sr3sj) | [No Longer Without You](https://open.spotify.com/album/4oG2TJs9l9xlBW9CTFZ44U) | 2:49 | 2021-12-22 |  |
 | [northern lights](https://open.spotify.com/track/0tyzmd5KBrAsZconCuzWzw) | [Aquas](https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej) | [northern lights](https://open.spotify.com/album/3qQR5EapUTTrGRupps1xKg) | 2:43 | 2025-02-05 |  |
 | [Nu Och Då](https://open.spotify.com/track/6NFfWWPPT29ZlkJrEwC2JN) | [Mira Appelquist](https://open.spotify.com/artist/7duj1Wl88dFeqsgmXdxoDW) | [Nu Och Då](https://open.spotify.com/album/495epNYdGBDMYDF7tU6PWT) | 2:24 | 2023-01-20 | 2024-12-20 |
+| [Oceanic Overture](https://open.spotify.com/track/050A11dO1UflrEdRaPJrlo) | [Darmian Coté](https://open.spotify.com/artist/79EfJQ6cOqIfLPuply0JCl) | [Oceanic Overture](https://open.spotify.com/album/0ylpizV3KR6WsgKeRzn2H2) | 3:18 | 2025-03-19 |  |
 | [Om Shanti \(432 Hz\)](https://open.spotify.com/track/4ypEOe9cpgDX8SY1zM6coc) | [Binaural Healing Frequencies](https://open.spotify.com/artist/0O3hasNaQ353zIkDpwn4Ul) | [Om Shanti \(432 Hz\)](https://open.spotify.com/album/3lXcQYiBwotYEOOLZWOeoK) | 2:32 | 2024-04-07 |  |
 | [On A Bed Of Peace](https://open.spotify.com/track/2xAU6r6GSaapYwAyR9hiqB) | [Delta Lab](https://open.spotify.com/artist/54v62EvD3dmxVaEo3LTVYe) | [On A Bed Of Peace](https://open.spotify.com/album/1HOEnUoODyeJV6bgW45s02) | 4:41 | 2022-03-29 | 2024-12-20 |
 | [Opal Healing](https://open.spotify.com/track/1iqwffzgK59NVMpdv4kAYM) | [Zen Wuan](https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY) | [Opal Healing](https://open.spotify.com/album/2hlrfHf4tZwaWLu7tVxjlE) | 2:58 | 2021-12-22 | 2024-10-19 |

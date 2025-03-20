@@ -4,7 +4,7 @@
 
 > ☀️
 
-166 songs - 8 hr 35 min
+167 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Coming Home \(from NRK\-scenen at P3 Gull\) \[feat\. Ruben, Chris Holsten, Hillari, Anna Lille\]](https://open.spotify.com/track/2uqMA5ZyEWiau08lBqmO8Q) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P), [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk), [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF), [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Coming Home \(from NRK\-scenen at P3 Gull\) \[feat\. Ruben, Chris Holsten, Hillari, Anna Lille\]](https://open.spotify.com/album/7ylc8QuYzhUA3aM66QOfFf) | 3:46 | 2025-01-16 |  |
 | [Dance All Over Me](https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:14 | 2024-06-27 |  |
 | [Dangerous](https://open.spotify.com/track/16pWwIOwWNrS7Hrt6YDxok) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Dangerous](https://open.spotify.com/album/0EdDw4yXJ4x1X44QCkM8i1) | 3:30 | 2024-06-27 | 2024-08-21 |
+| [Dans med meg](https://open.spotify.com/track/4WWC3GHZTLLjP2IPCOFbMh) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Dans med meg](https://open.spotify.com/album/0CRtzpxCmfPCpujTsP2pWo) | 2:54 | 2025-03-13 |  |
 | [Darkest Hour](https://open.spotify.com/track/6kVuwV25QpvLUDXwJEREwb) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Felt Cute Might Delete Later](https://open.spotify.com/album/2UuMruIqntCAoh3BbqgkRL) | 2:11 | 2024-06-27 |  |
 | [Deathbed](https://open.spotify.com/track/63zL4acsiE0QI5N214BrZB) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Deathbed](https://open.spotify.com/album/2xzMh5FNtZkKM1xTCkkSBX) | 2:41 | 2024-12-05 | 2025-02-16 |
 | [December \(honey, honey\)](https://open.spotify.com/track/1DHjMF3lRv2aQwDqXWbHvE) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [December \(honey, honey\)](https://open.spotify.com/album/4gZYxtIzGLlyY8J6p9Of8i) | 2:55 | 2024-06-27 | 2025-03-06 |
@@ -72,7 +73,7 @@
 | [Hvis jeg ikke var meg selv](https://open.spotify.com/track/3tHXA83mhSXOHPAAIAgaMp) | [deLillos](https://open.spotify.com/artist/5gsErkGsLeCYCSK0Pxj01N), [Me for Queen](https://open.spotify.com/artist/1H7mNprYkefKwq5C0VWS9M) | [20 Lillos uten filter](https://open.spotify.com/album/6BS9ZWKOhOfwryrPDg4lAa) | 4:12 | 2025-01-30 | 2025-02-08 |
 | [Hvit sommer](https://open.spotify.com/track/6MexyFGps6nfd5aDl1W50l) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Hvit sommer](https://open.spotify.com/album/6gzb9XtcWUz7Zkccyym86u) | 2:28 | 2024-06-27 | 2024-10-11 |
 | [I don't want nobody but your body](https://open.spotify.com/track/49cJqSdMc8AebAsjnTM9H9) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [I don't want nobody but your body](https://open.spotify.com/album/1xABETXf5cysdaFsx1k6sD) | 2:51 | 2024-09-19 | 2024-10-28 |
-| [Ikke lenger din](https://open.spotify.com/track/0Cngp8NHwtpB9bEtEvjr5P) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Indre liv](https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb) | 2:31 | 2024-10-24 |  |
+| [Ikke lenger din](https://open.spotify.com/track/0Cngp8NHwtpB9bEtEvjr5P) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Indre liv](https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb) | 2:31 | 2024-10-24 | 2025-03-20 |
 | [Ingen vil elsk dæ \(feat\. Sval\)](https://open.spotify.com/track/3yjLOG1b2sCVBrXw0tIpWh) | [Regnvær](https://open.spotify.com/artist/527pgsBl16NWDwKewwEDki), [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [Ingen vil elsk dæ \(feat\. Sval\)](https://open.spotify.com/album/437l13e8pR43UXQXYSqAQy) | 2:18 | 2024-10-17 | 2025-01-17 |
 | [It´s Ok If You Forget Me \(feat\. Emma Jensen\)](https://open.spotify.com/track/61g5DDHobx9aPCBsKgKiqP) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n), [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [It's Ok If You Forget Me](https://open.spotify.com/album/5gojU2qbIqKDBO7L1Q8OOG) | 2:56 | 2025-01-16 |  |
 | [Josefin](https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Josefin](https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk) | 3:34 | 2024-06-27 |  |

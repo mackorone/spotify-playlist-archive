@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,779 songs - 3 day 20 hr 20 min
+1,781 songs - 3 day 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,7 +344,7 @@
 | [Don't Leave Me](https://open.spotify.com/track/3qW216m3rs8Qa5Okko5nxa) | [Rejhan](https://open.spotify.com/artist/1pF8GzVwDoRd6bi9Un1Z1S) | [Don't Leave Me](https://open.spotify.com/album/0d4TY7f9ZCA7QDaUjFIjT0) | 3:29 | 2024-05-02 | 2024-05-24 |
 | [Don't Miss The Beat](https://open.spotify.com/track/6sbr07TZE4bTY7DPyiceub) | [Frans](https://open.spotify.com/artist/1y5T3Prq30eW5RkpaUWNOQ) | [Don't Miss The Beat](https://open.spotify.com/album/4H3aY7zksFONKg2OWBqsKu) | 2:41 | 2024-05-23 | 2024-06-21 |
 | [Don't Run](https://open.spotify.com/track/2ZguEqVTShZE8yNoHjRJC9) | [Josefine](https://open.spotify.com/artist/5iLaZnrGlRUHm2PwZ33dIt) | [Don't Run](https://open.spotify.com/album/5NQJVbrdpHqY7QgkrJEHnl) | 2:35 | 2023-03-09 | 2023-05-20 |
-| [Don't Stop](https://open.spotify.com/track/3StgrlhRpFhZjS6gJOgIeX) | [Ludwig Hart](https://open.spotify.com/artist/74ELd1GTp5fY2NFCiY5RNl) | [Stay Young](https://open.spotify.com/album/3ClO0kTio3jxicICq3gQ79) | 3:15 | 2024-09-26 |  |
+| [Don't Stop](https://open.spotify.com/track/3StgrlhRpFhZjS6gJOgIeX) | [Ludwig Hart](https://open.spotify.com/artist/74ELd1GTp5fY2NFCiY5RNl) | [Stay Young](https://open.spotify.com/album/3ClO0kTio3jxicICq3gQ79) | 3:15 | 2024-09-26 | 2025-03-20 |
 | [Don't Tell Me What To Do](https://open.spotify.com/track/66vQCZCKvbXwvGxU9H5H8q) | [Felin](https://open.spotify.com/artist/0M3FnNOwLaADbsJw92lftP) | [Don't Tell Me What To Do](https://open.spotify.com/album/1sY6OJRWD3PEvApNPxDkLZ) | 2:43 | 2024-02-15 | 2024-03-25 |
 | [Don't Want To Know](https://open.spotify.com/track/5sZaLWNPVqcqRv0JFj4uY1) | [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds), [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP) | [Don't Want To Know](https://open.spotify.com/album/0bQfhNwmDbFTLpY6EYOJZF) | 2:23 | 2022-03-10 | 2022-04-21 |
 | [Don't You Dare](https://open.spotify.com/track/4pPlZhhuHGACJewIvWNEMG) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Don't You Dare](https://open.spotify.com/album/7jZ5uylJxeg5TA1jHy32LQ) | 2:53 | 2022-05-26 | 2023-01-08 |
@@ -583,6 +583,7 @@
 | [Glittret](https://open.spotify.com/track/1flHUFk0tmQxAgCFcgg5NK) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Glittret](https://open.spotify.com/album/03xYeyaQWSy9HD9Zw8uqO5) | 4:36 | 2022-04-28 | 2022-07-14 |
 | [Gloria](https://open.spotify.com/track/2CghTghvdsGOiTWAHoEOaf) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Gloria](https://open.spotify.com/album/5ttGp9NcuUNKFSwHd1h9j6) | 2:52 | 2025-03-07 | 2025-03-14 |
 | [glued to the floor](https://open.spotify.com/track/20Y7AHrMDTxzOxMfw0jCv5) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [glued to the floor](https://open.spotify.com/album/0kA1PVu4d8eMmN0kc7EL9o) | 2:18 | 2023-04-13 | 2023-07-07 |
+| [glöm det](https://open.spotify.com/track/4OLwEZqfG8GyJkjH6frFSW) | [TUVA](https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q) | [glöm det](https://open.spotify.com/album/3L66LCj1nrl49zNx8BRRHq) | 3:19 | 2025-03-14 |  |
 | [GoGetter](https://open.spotify.com/track/1i3CHFEK8QXKu9Rbt6Oaci) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [GoGetter](https://open.spotify.com/album/6VH0BeeYUr8WcTZMGw7l4J) | 2:39 | 2024-05-16 | 2024-06-14 |
 | [Gold](https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Gold](https://open.spotify.com/album/02OvGMtilHmYxr56GTph7M) | 3:12 | 2023-05-25 | 2023-08-07 |
 | [Gold Rush](https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Gold Rush](https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0) | 4:44 | 2022-06-23 | 2023-08-17 |
@@ -1193,7 +1194,7 @@
 | [Peak of life](https://open.spotify.com/track/2PwaDY6hpMwb1RZCb10Gkf) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Peak of life](https://open.spotify.com/album/4ox2lFM7CKQLoVMYm04F59) | 2:22 | 2023-10-19 | 2023-10-23 |
 | [Pengar](https://open.spotify.com/track/2qqbehBMkoYX7mxEVP8q9i) | [Annika Norlin](https://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1) | [Hydra / Pengar](https://open.spotify.com/album/7FkFLq0d78ZsWvwzOpaKzz) | 3:36 | 2021-12-16 | 2022-03-10 |
 | [PENGAR OCH PENGARNAS DRÄNGAR \(Radio Edit\)](https://open.spotify.com/track/7q4YIj34l3NVNAebhnYUCo) | [Mattias Alkberg](https://open.spotify.com/artist/5p8AjcGi5g19fWNvC2zhqE), [Olle Nyman](https://open.spotify.com/artist/7hNRlzzTVQGsXeSLllu2at), [Rebecka Digervall](https://open.spotify.com/artist/3vHSNoHRWSvrQlbFnVR4Bw) | [PENGAR OCH PENGARNAS DRÄNGAR \(Radio Edit\)](https://open.spotify.com/album/6kFB7PqxaMpnzyAVOyhDCU) | 3:33 | 2024-02-15 | 2024-04-05 |
-| [Persienner](https://open.spotify.com/track/7EGGNKZu6kvI683xoZjsIx) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Persienner](https://open.spotify.com/album/6u4qwlUZYZlcMP8C85vpGp) | 3:16 | 2024-09-26 |  |
+| [Persienner](https://open.spotify.com/track/7EGGNKZu6kvI683xoZjsIx) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Persienner](https://open.spotify.com/album/6u4qwlUZYZlcMP8C85vpGp) | 3:16 | 2024-09-26 | 2025-03-20 |
 | [PERUVIAN LILIES](https://open.spotify.com/track/6tZxHGe7Y8jLEITwA1nJqA) | [Adam Taal](https://open.spotify.com/artist/1dYTeeSzWkPMdQw8N7aYbR) | [PERUVIAN LILIES](https://open.spotify.com/album/6p4GPJRujHUq7QQ7kg7dWv) | 3:00 | 2024-04-25 | 2024-05-10 |
 | [Picking Up](https://open.spotify.com/track/6tNIRsPksF7AO6dzE2zjlP) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Romeo](https://open.spotify.com/album/4JILgQ2bXqNFc0QvIGb0LR) | 3:19 | 2024-10-04 |  |
 | [Piller](https://open.spotify.com/track/3xZ690zBbgyUX7vwZhCrQv) | [Klara & Jag](https://open.spotify.com/artist/2X2m34XTofjWhhW0Wnya5k) | [I stadens famn](https://open.spotify.com/album/6QKW1QYSFKgwGD0ajHRvNm) | 3:20 | 2022-05-12 | 2022-07-23 |
@@ -1375,6 +1376,7 @@
 | [Snälla bli min \- Spotify Studio It's Hits Recording](https://open.spotify.com/track/1ZJdjsCEdolnRN83W9dWiX) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Snälla bli min \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/4lb6TvMkq5XG77Vdydcy4a) | 2:38 | 2021-12-16 | 2022-03-11 |
 | [Snöar I April](https://open.spotify.com/track/52aE4Wr5rFoioFiXm0kehr) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Snöar I April](https://open.spotify.com/album/208rn4DQxOpMy0DDrha1rP) | 3:36 | 2024-02-24 | 2024-04-12 |
 | [So Alive](https://open.spotify.com/track/6jYqBYYrk4oRdPirwCPYlz) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [I Still Hide](https://open.spotify.com/album/3hhlscP3tUgIgdNW198tHl) | 3:29 | 2021-12-16 | 2022-03-31 |
+| [So much worse](https://open.spotify.com/track/53xhoI60X5BE0xYOqsGuiR) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [So much worse](https://open.spotify.com/album/73kvrZB4ck7G1Ka7YZcqyB) | 2:24 | 2025-03-14 |  |
 | [Soaked](https://open.spotify.com/track/1mFdADJrIdTRCSG5AwCdIC) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Soaked](https://open.spotify.com/album/0yN6Cb4nY1eCzs4HFJyCsz) | 3:32 | 2021-12-16 | 2022-03-11 |
 | [Socker Och Vatten](https://open.spotify.com/track/4fGEODf7h2D1wtxE9SAaKE) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Vatten](https://open.spotify.com/album/1TdBDgXrb8ELHqUKDl9uUa) | 3:18 | 2022-04-01 | 2023-09-29 |
 | [Sockerdricka](https://open.spotify.com/track/0BRiFaYDS7IbM2YO0DFvrP) | [Petrus](https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG) | [Sockerdricka](https://open.spotify.com/album/4OJ1YpiBv213DlnbVmYXYf) | 3:22 | 2024-06-27 | 2024-09-28 |

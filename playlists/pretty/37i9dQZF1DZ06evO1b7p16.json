@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAAB12JlPgtsfHjSEOVA53eZL",
+  "snapshot_id": "Z9i3gAAAAADKNvvD4Z2rbky3w+9PObxV",
   "tracks": [
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Again",
-        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+        "name": "Bullet With Butterfly Wings",
+        "url": "https://open.spotify.com/album/1ZEg013HK19x0U7IUYT5aG"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 206106,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/66tVNSi55Hh2J4mfa3Dvuj"
+      "duration_ms": 272093,
+      "name": "Bullet With Butterfly Wings",
+      "url": "https://open.spotify.com/track/6B6d64PpWBT6tLfxT0eMhE"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bullet With Butterfly Wings",
-        "url": "https://open.spotify.com/album/1ZEg013HK19x0U7IUYT5aG"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 272093,
-      "name": "Bullet With Butterfly Wings",
-      "url": "https://open.spotify.com/track/6B6d64PpWBT6tLfxT0eMhE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Again",
         "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
       },
@@ -588,9 +572,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 213533,
-      "name": "New Again",
-      "url": "https://open.spotify.com/track/5ZB0YmZ4e9TEuPa2ghD3XI"
+      "duration_ms": 206106,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/66tVNSi55Hh2J4mfa3Dvuj"
     },
     {
       "added_at": null,
@@ -611,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Victory Style, Vol. 5",
+        "url": "https://open.spotify.com/album/2WTpvwVyDW00HMYAjVyc9k"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "The Ballad Of Sal Villanueva",
+      "url": "https://open.spotify.com/track/5wd2AS3onzv83EUFPxuOkj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "152",
         "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
       },
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victory Style, Vol. 5",
-        "url": "https://open.spotify.com/album/2WTpvwVyDW00HMYAjVyc9k"
+        "name": "New Again",
+        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 232066,
-      "name": "The Ballad Of Sal Villanueva",
-      "url": "https://open.spotify.com/track/5wd2AS3onzv83EUFPxuOkj"
+      "duration_ms": 213533,
+      "name": "New Again",
+      "url": "https://open.spotify.com/track/5ZB0YmZ4e9TEuPa2ghD3XI"
     },
     {
       "added_at": null,

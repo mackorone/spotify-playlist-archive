@@ -5895,6 +5895,24 @@
     },
     {
       "album": {
+        "name": "Bajale 2",
+        "url": "https://open.spotify.com/album/5bvqIornW5PwybS2q7UpXb"
+      },
+      "artists": [
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139624,
+      "name": "Bajale 2",
+      "url": "https://open.spotify.com/track/1vVsx4eCWW93weO8eJL7BI"
+    },
+    {
+      "album": {
         "name": "Cuanto Quiero Que Me Quieras",
         "url": "https://open.spotify.com/album/24IDQKU9KabNPJENJApSsJ"
       },
@@ -34521,6 +34539,28 @@
     },
     {
       "album": {
+        "name": "MOTINHA 2.0 (Mete Marcha)",
+        "url": "https://open.spotify.com/album/15PHJFLeNIt2dfJIHtMP9F"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118081,
+      "name": "MOTINHA 2.0 (Mete Marcha)",
+      "url": "https://open.spotify.com/track/456hxgSVUAJVgPV0UncG68"
+    },
+    {
+      "album": {
         "name": "Canto Por Amor",
         "url": "https://open.spotify.com/album/22cN2EKsSASNKE1N944gPJ"
       },
@@ -39818,7 +39858,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 177230,
       "name": "Pas3",
       "url": "https://open.spotify.com/track/2aXVqDJenLCbo1ejAmKwp3"
@@ -50192,7 +50232,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 167955,
       "name": "TATTOO",
       "url": "https://open.spotify.com/track/3KgHiAVuP88QoQs9CO4z1P"

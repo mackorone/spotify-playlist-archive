@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e9\u05e7\u05dc \u05d5\u05d2\u05dc\u05e2\u05d3 \u05db\u05d4\u05e0\u05d0 ",
-  "num_followers": 31631,
+  "num_followers": 31641,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -519,42 +519,6 @@
     {
       "added_at": "2025-03-13 22:00:04",
       "album": {
-        "name": "\u05e1\u05d9\u05d1\u05d4 \u05dc\u05d4\u05de\u05e9\u05d9\u05da",
-        "url": "https://open.spotify.com/album/3vlqdMupazRdXbkBoFhVbR"
-      },
-      "artists": [
-        {
-          "name": "Alma Gov",
-          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
-        },
-        {
-          "name": "\u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
-          "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
-        }
-      ],
-      "duration_ms": 179875,
-      "name": "\u05e1\u05d9\u05d1\u05d4 \u05dc\u05d4\u05de\u05e9\u05d9\u05da",
-      "url": "https://open.spotify.com/track/2mT8XmPzfQ4TuWNUgLcjgR"
-    },
-    {
-      "added_at": "2025-03-13 22:00:04",
-      "album": {
-        "name": "Vandalist",
-        "url": "https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        }
-      ],
-      "duration_ms": 208374,
-      "name": "Vandalist",
-      "url": "https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh"
-    },
-    {
-      "added_at": "2025-03-13 22:00:04",
-      "album": {
         "name": "\u05db\u05e0\u05e2\u05df (12 \u05de\u05e8\u05d2\u05dc\u05d9\u05dd)",
         "url": "https://open.spotify.com/album/0KG0JVyFQYi7ojbOF0jTUy"
       },
@@ -575,6 +539,42 @@
       "duration_ms": 290969,
       "name": "\u05db\u05e0\u05e2\u05df (12 \u05de\u05e8\u05d2\u05dc\u05d9\u05dd)",
       "url": "https://open.spotify.com/track/5Am5GSd3X37xFizHRop1YO"
+    },
+    {
+      "added_at": "2025-03-13 22:00:04",
+      "album": {
+        "name": "Vandalist",
+        "url": "https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 208374,
+      "name": "Vandalist",
+      "url": "https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh"
+    },
+    {
+      "added_at": "2025-03-13 22:00:04",
+      "album": {
+        "name": "\u05e1\u05d9\u05d1\u05d4 \u05dc\u05d4\u05de\u05e9\u05d9\u05da",
+        "url": "https://open.spotify.com/album/3vlqdMupazRdXbkBoFhVbR"
+      },
+      "artists": [
+        {
+          "name": "Alma Gov",
+          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+        },
+        {
+          "name": "\u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
+          "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
+        }
+      ],
+      "duration_ms": 179875,
+      "name": "\u05e1\u05d9\u05d1\u05d4 \u05dc\u05d4\u05de\u05e9\u05d9\u05da",
+      "url": "https://open.spotify.com/track/2mT8XmPzfQ4TuWNUgLcjgR"
     },
     {
       "added_at": "2025-03-13 22:00:04",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-03-13 22:00:04",
       "album": {
-        "name": "\u05d9\u05d5\u05de\u05d4",
-        "url": "https://open.spotify.com/album/5hW3gJJtJpndoaMAASs6tC"
-      },
-      "artists": [
-        {
-          "name": "Tohar Gadasi",
-          "url": "https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "\u05d9\u05d5\u05de\u05d4",
-      "url": "https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS"
-    },
-    {
-      "added_at": "2025-03-13 22:00:04",
-      "album": {
         "name": "\u05db\u05e0\u05e4\u05d9 \u05e8\u05d5\u05d7",
         "url": "https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 239411,
       "name": "\u05db\u05e0\u05e4\u05d9 \u05e8\u05d5\u05d7",
       "url": "https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW"
+    },
+    {
+      "added_at": "2025-03-13 22:00:04",
+      "album": {
+        "name": "\u05d9\u05d5\u05de\u05d4",
+        "url": "https://open.spotify.com/album/5hW3gJJtJpndoaMAASs6tC"
+      },
+      "artists": [
+        {
+          "name": "Tohar Gadasi",
+          "url": "https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "\u05d9\u05d5\u05de\u05d4",
+      "url": "https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS"
     },
     {
       "added_at": "2025-03-13 22:00:04",
@@ -924,8 +924,8 @@
           "url": "https://open.spotify.com/artist/2omk6v84kD0vX9TaAZ7jR2"
         },
         {
-          "name": "\u05d9\u05d4\u05d5\u05d3\u05d4 \u05e2\u05d3\u05e8",
-          "url": "https://open.spotify.com/artist/5LhqNdFK1YXr8qcf7is7Kh"
+          "name": "Yehuda Eder",
+          "url": "https://open.spotify.com/artist/1q9k9hbLjVHv5XLEroG1am"
         },
         {
           "name": "\u05d4\u05e8\u05d9 \u05dc\u05d9\u05e4\u05e9\u05d9\u05e5",
@@ -935,22 +935,6 @@
       "duration_ms": 190259,
       "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
       "url": "https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw"
-    },
-    {
-      "added_at": "2025-03-13 22:00:04",
-      "album": {
-        "name": "Caviar",
-        "url": "https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ"
-      },
-      "artists": [
-        {
-          "name": "Moscoman",
-          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
-        }
-      ],
-      "duration_ms": 246040,
-      "name": "Caviar",
-      "url": "https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa"
     },
     {
       "added_at": "2025-03-13 22:00:04",
@@ -971,18 +955,18 @@
     {
       "added_at": "2025-03-13 22:00:04",
       "album": {
-        "name": "\u05d0\u05dd \u05d6\u05d4 \u05d2\u05d3\u05d5\u05dc \u05e2\u05dc\u05d9",
-        "url": "https://open.spotify.com/album/389FWhGSyHar0vOHq2MFPy"
+        "name": "Caviar",
+        "url": "https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ"
       },
       "artists": [
         {
-          "name": "\u05d9\u05d5\u05e9\u05d9",
-          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+          "name": "Moscoman",
+          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
         }
       ],
-      "duration_ms": 153600,
-      "name": "\u05d0\u05dd \u05d6\u05d4 \u05d2\u05d3\u05d5\u05dc \u05e2\u05dc\u05d9",
-      "url": "https://open.spotify.com/track/3HGdkY1fiewKxUU5dGQFv3"
+      "duration_ms": 246040,
+      "name": "Caviar",
+      "url": "https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa"
     },
     {
       "added_at": "2025-03-13 22:00:04",
@@ -999,6 +983,22 @@
       "duration_ms": 181185,
       "name": "Hate You Instead",
       "url": "https://open.spotify.com/track/77AGoCzOrj72qFgQDM0H8D"
+    },
+    {
+      "added_at": "2025-03-13 22:00:04",
+      "album": {
+        "name": "\u05d0\u05dd \u05d6\u05d4 \u05d2\u05d3\u05d5\u05dc \u05e2\u05dc\u05d9",
+        "url": "https://open.spotify.com/album/389FWhGSyHar0vOHq2MFPy"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05d5\u05e9\u05d9",
+          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "\u05d0\u05dd \u05d6\u05d4 \u05d2\u05d3\u05d5\u05dc \u05e2\u05dc\u05d9",
+      "url": "https://open.spotify.com/track/3HGdkY1fiewKxUU5dGQFv3"
     },
     {
       "added_at": "2025-03-13 22:00:04",

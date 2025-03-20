@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa JVG.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,372 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,382 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ministerinpaikal](https://open.spotify.com/track/0eM9z8LrY9bdKF99D0P98i) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Ministerinpaikal / 1987](https://open.spotify.com/album/0F2xzUyFFvkTIRKHhVsfu7) | 3:48 |
 | 2 | [MVP \(feat\. ibe & Elastinen\)](https://open.spotify.com/track/7AEPMkRjqF9wPoOBAPpRp5) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [MVP \(feat\. ibe & Elastinen\)](https://open.spotify.com/album/1xAtCy8uDkU0FS7Hxhtjlp) | 3:05 |
 | 3 | [MASIINA](https://open.spotify.com/track/25FQ6nVIcLOMfl5Rnmud57) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [MASIINA](https://open.spotify.com/album/3aNazUoV8x82EPaGQMwWgW) | 3:14 |
-| 4 | [Vasen laituri \(feat\. AHTI\)](https://open.spotify.com/track/63jEXNkVDnPO8wzFsdryfi) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Vasen laituri \(feat\. AHTI\)](https://open.spotify.com/album/1nEKEtap5DfkayJpSlrHw0) | 3:00 |
-| 5 | [Sekunnis \(feat\. Sexmane\)](https://open.spotify.com/track/2K9HxEeocA79vkagSXaFAo) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sekunnis \(feat\. Sexmane\)](https://open.spotify.com/album/0Vy3GjJAA8XAe0mSoBEOvX) | 2:29 |
-| 6 | [Mitä meist jää](https://open.spotify.com/track/6wspZiK5qqoX0HL6zYX4CQ) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Mitä meist jää](https://open.spotify.com/album/0kNKcAFFALuDImbKDSksJ9) | 2:29 |
-| 7 | [Nirvanaan](https://open.spotify.com/track/6OyeI54Bby8Jd4ltzzB7b2) | [Young Mike](https://open.spotify.com/artist/6fWwDqSHfbKp204VY6DgQa), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Nirvanaan](https://open.spotify.com/album/6lviRudwcezsFNZ6eyT130) | 2:41 |
-| 8 | [Diana](https://open.spotify.com/track/19LWPpXTX49k1KANJ46ydb) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Diana](https://open.spotify.com/album/7B837fOa9ySaE1M9mccVxX) | 2:58 |
+| 4 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Menestys on paras tapa kostaa](https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm) | 2:45 |
+| 5 | [Vasen laituri \(feat\. AHTI\)](https://open.spotify.com/track/63jEXNkVDnPO8wzFsdryfi) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Vasen laituri \(feat\. AHTI\)](https://open.spotify.com/album/1nEKEtap5DfkayJpSlrHw0) | 3:00 |
+| 6 | [Diana](https://open.spotify.com/track/19LWPpXTX49k1KANJ46ydb) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Diana](https://open.spotify.com/album/7B837fOa9ySaE1M9mccVxX) | 2:58 |
+| 7 | [Sekunnis \(feat\. Sexmane\)](https://open.spotify.com/track/2K9HxEeocA79vkagSXaFAo) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sekunnis \(feat\. Sexmane\)](https://open.spotify.com/album/0Vy3GjJAA8XAe0mSoBEOvX) | 2:29 |
+| 8 | [Mitä meist jää](https://open.spotify.com/track/6wspZiK5qqoX0HL6zYX4CQ) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Mitä meist jää](https://open.spotify.com/album/0kNKcAFFALuDImbKDSksJ9) | 2:29 |
 | 9 | [Ikävä mua](https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Pitäiskö mun soittaa sille](https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640) | 2:34 |
-| 10 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Menestys on paras tapa kostaa](https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm) | 2:45 |
+| 10 | [Nirvanaan](https://open.spotify.com/track/6OyeI54Bby8Jd4ltzzB7b2) | [Young Mike](https://open.spotify.com/artist/6fWwDqSHfbKp204VY6DgQa), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Nirvanaan](https://open.spotify.com/album/6lviRudwcezsFNZ6eyT130) | 2:41 |
 | 11 | [Lampaita](https://open.spotify.com/track/3wRxUXh6dJLurn1RgLIeUD) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Lampaita](https://open.spotify.com/album/2Fi7vJlbTVcXTovePKPlJb) | 2:29 |
 | 12 | [Nostetaan malja](https://open.spotify.com/track/3rDcrOoZrJkcfw6hAiS81v) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Nostetaan malja](https://open.spotify.com/album/7yauXHI1V7dxIjNFDP1DoZ) | 2:46 |
 | 13 | [Mietitkö sä mua](https://open.spotify.com/track/6AYQ3CQePkIRZ6ouD3BF5c) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Mietitkö sä mua](https://open.spotify.com/album/4OYNKIuDMncidwWHfaHXaU) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [HAAVERI](https://open.spotify.com/track/43abPnVxTyDK7rg5EDXWKc) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0) | [SEPPO MIXTAPE](https://open.spotify.com/album/6k0CnWRzKZDKb7BG4j6A1g) | 2:37 |
 | 50 | [Juhlittavaa \(feat\. Lyttä\)](https://open.spotify.com/track/025yrw6g4e5OM4R9TpJqhQ) | [Rosvo](https://open.spotify.com/artist/17E9HKanfFAw5InWXjf5R1), [Lyttä](https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn) | [Juhlittavaa \(feat\. Lyttä\)](https://open.spotify.com/album/27f3BuFXVj423LXp423lTd) | 2:46 |
 
-Snapshot ID: `Z9nHWAAAAAAmf0NlIyAudYjO7B67/o5a`
+Snapshot ID: `Z9p/cwAAAAD3WmmW8nhtwwMeofNZVMDL`

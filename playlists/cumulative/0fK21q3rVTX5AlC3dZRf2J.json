@@ -1855,6 +1855,24 @@
     },
     {
       "album": {
+        "name": "WIN WIN WIN",
+        "url": "https://open.spotify.com/album/1tB0QyCUz3fJM5FVzvtdVN"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172722,
+      "name": "WIN WIN WIN",
+      "url": "https://open.spotify.com/track/6eeRIbNpBDu98MRRUHl6ID"
+    },
+    {
+      "album": {
         "name": "kittydog music album",
         "url": "https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk"
       },

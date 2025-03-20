@@ -712,7 +712,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 215380,
       "name": "Brushstrokes of Reunion",
       "url": "https://open.spotify.com/track/6MRB2Geu2buc27CQqOPXgl"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 182240,
       "name": "Call It Love - Edit",
       "url": "https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU"
@@ -1678,6 +1678,24 @@
       "duration_ms": 322988,
       "name": "Fugue (Bin Song)",
       "url": "https://open.spotify.com/track/3SLy3jHtaGsaGqpGaqtYGc"
+    },
+    {
+      "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/6AuJCBu9x0QF69P9Y8Zdfj"
+      },
+      "artists": [
+        {
+          "name": "Maria Somerville",
+          "url": "https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243280,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/5cICW30wJh0GNydrFw4v7d"
     },
     {
       "album": {
@@ -3202,7 +3220,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-03",
+      "date_removed": null,
       "duration_ms": 317467,
       "name": "Running",
       "url": "https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp"

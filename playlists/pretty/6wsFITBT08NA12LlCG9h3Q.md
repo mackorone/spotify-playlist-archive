@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6wsFITBT08NA12LlCG9h3Q.md) - [plain]
 
 > A <a href="http://www.digster.fm/decades">classic playlist</a> with the best hits of the 90s featuring No Doubt, Nirvana, and more.
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 151,238 likes - 51 songs - 3 hr 27 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 151,226 likes - 51 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

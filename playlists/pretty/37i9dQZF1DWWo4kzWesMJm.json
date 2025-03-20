@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 168618,
+  "num_followers": 168626,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2025-02-27 12:38:25",
       "album": {
+        "name": "Gourmandises",
+        "url": "https://open.spotify.com/album/27GazU6l1uTiP8WW4sw5vy"
+      },
+      "artists": [
+        {
+          "name": "Aliz\u00e9e",
+          "url": "https://open.spotify.com/artist/53deL58uye6fCqRK4COtR4"
+        }
+      ],
+      "duration_ms": 264282,
+      "name": "Moi... Lolita",
+      "url": "https://open.spotify.com/track/6e0LjNPkRqxIAlmmdjWSV8"
+    },
+    {
+      "added_at": "2025-02-27 12:38:25",
+      "album": {
         "name": "Chaque seconde (feat. M. Pokora)",
         "url": "https://open.spotify.com/album/6tksgNrY872kjEs4q2v3Um"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 165986,
       "name": "Chaque seconde (feat. M. Pokora)",
       "url": "https://open.spotify.com/track/1pnzctM9itTsKupaQWDQwe"
-    },
-    {
-      "added_at": "2025-02-27 12:38:25",
-      "album": {
-        "name": "Gourmandises",
-        "url": "https://open.spotify.com/album/27GazU6l1uTiP8WW4sw5vy"
-      },
-      "artists": [
-        {
-          "name": "Aliz\u00e9e",
-          "url": "https://open.spotify.com/artist/53deL58uye6fCqRK4COtR4"
-        }
-      ],
-      "duration_ms": 264282,
-      "name": "Moi... Lolita",
-      "url": "https://open.spotify.com/track/6e0LjNPkRqxIAlmmdjWSV8"
     },
     {
       "added_at": "2025-02-27 12:38:25",
@@ -259,22 +259,6 @@
     {
       "added_at": "2025-02-27 12:38:25",
       "album": {
-        "name": "Les yeux plus gros que le monde",
-        "url": "https://open.spotify.com/album/1D2Rs9qcENebbiDR5wk88T"
-      },
-      "artists": [
-        {
-          "name": "Black M",
-          "url": "https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw"
-        }
-      ],
-      "duration_ms": 252573,
-      "name": "Sur ma route",
-      "url": "https://open.spotify.com/track/3Uyt0WO3wOopnUBCe9BaXl"
-    },
-    {
-      "added_at": "2025-02-27 12:38:25",
-      "album": {
         "name": "Chaque seconde",
         "url": "https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 219865,
       "name": "La terre est ronde",
       "url": "https://open.spotify.com/track/2wyreldlNuoBG7ju3fUynK"
+    },
+    {
+      "added_at": "2025-02-27 12:38:25",
+      "album": {
+        "name": "Les yeux plus gros que le monde",
+        "url": "https://open.spotify.com/album/1D2Rs9qcENebbiDR5wk88T"
+      },
+      "artists": [
+        {
+          "name": "Black M",
+          "url": "https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw"
+        }
+      ],
+      "duration_ms": 252573,
+      "name": "Sur ma route",
+      "url": "https://open.spotify.com/track/3Uyt0WO3wOopnUBCe9BaXl"
     },
     {
       "added_at": "2025-02-27 12:38:25",
@@ -391,22 +391,6 @@
     {
       "added_at": "2025-02-27 12:38:25",
       "album": {
-        "name": "Nino Ferrer",
-        "url": "https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG"
-      },
-      "artists": [
-        {
-          "name": "Nino Ferrer",
-          "url": "https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv"
-        }
-      ],
-      "duration_ms": 275040,
-      "name": "Le sud",
-      "url": "https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD"
-    },
-    {
-      "added_at": "2025-02-27 12:38:25",
-      "album": {
         "name": "Photos de voyages (Remastered)",
         "url": "https://open.spotify.com/album/6Mhp0Fb0RoraaLNZ0fFRwR"
       },
@@ -423,26 +407,18 @@
     {
       "added_at": "2025-02-27 12:38:25",
       "album": {
-        "name": "Chambre 12",
-        "url": "https://open.spotify.com/album/3Es3rIJujUaxh8HrPZwgmr"
+        "name": "Nino Ferrer",
+        "url": "https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG"
       },
       "artists": [
         {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        },
-        {
-          "name": "Jean-Philippe Massicot",
-          "url": "https://open.spotify.com/artist/5R6fqkq8FNNE0kevuUUxoz"
-        },
-        {
-          "name": "Tristan Salvati",
-          "url": "https://open.spotify.com/artist/3pHPYLcX7bnOWcMpyBch1D"
+          "name": "Nino Ferrer",
+          "url": "https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv"
         }
       ],
-      "duration_ms": 185280,
-      "name": "Avenir - Radio Edit",
-      "url": "https://open.spotify.com/track/7culxZiBjN3w3yXqxgKIpD"
+      "duration_ms": 275040,
+      "name": "Le sud",
+      "url": "https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD"
     },
     {
       "added_at": "2025-02-27 12:38:25",
@@ -495,6 +471,30 @@
     {
       "added_at": "2025-02-27 12:38:25",
       "album": {
+        "name": "Chambre 12",
+        "url": "https://open.spotify.com/album/3Es3rIJujUaxh8HrPZwgmr"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        },
+        {
+          "name": "Jean-Philippe Massicot",
+          "url": "https://open.spotify.com/artist/5R6fqkq8FNNE0kevuUUxoz"
+        },
+        {
+          "name": "Tristan Salvati",
+          "url": "https://open.spotify.com/artist/3pHPYLcX7bnOWcMpyBch1D"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "Avenir - Radio Edit",
+      "url": "https://open.spotify.com/track/7culxZiBjN3w3yXqxgKIpD"
+    },
+    {
+      "added_at": "2025-02-27 12:38:25",
+      "album": {
         "name": "Rom\u00e9o Et Juliette, Les enfants de V\u00e9rone",
         "url": "https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46"
       },
@@ -524,7 +524,7 @@
       },
       "artists": [
         {
-          "name": "La petite culotte",
+          "name": "Vinc\u00e8",
           "url": "https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd"
         }
       ],
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-02-27 12:38:25",
       "album": {
-        "name": "Louise Attaque",
-        "url": "https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz"
-      },
-      "artists": [
-        {
-          "name": "Louise Attaque",
-          "url": "https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9"
-        }
-      ],
-      "duration_ms": 197706,
-      "name": "L\u00e9a",
-      "url": "https://open.spotify.com/track/709Vk4ahhCM6ENgRVTTYw6"
-    },
-    {
-      "added_at": "2025-02-27 12:38:25",
-      "album": {
         "name": "L\u00d8VE",
         "url": "https://open.spotify.com/album/5fdRqRdlIX33J8ruK9jd3I"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 197840,
       "name": "Paris-Seychelles",
       "url": "https://open.spotify.com/track/4xSZWcXvu6w4I3dQyQ7QND"
+    },
+    {
+      "added_at": "2025-02-27 12:38:25",
+      "album": {
+        "name": "Louise Attaque",
+        "url": "https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz"
+      },
+      "artists": [
+        {
+          "name": "Louise Attaque",
+          "url": "https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "L\u00e9a",
+      "url": "https://open.spotify.com/track/709Vk4ahhCM6ENgRVTTYw6"
     },
     {
       "added_at": "2025-02-27 12:38:25",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-02-27 12:38:25",
       "album": {
-        "name": "D'Eux",
-        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 249733,
-      "name": "Pri\u00e8re pa\u00efenne",
-      "url": "https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4"
-    },
-    {
-      "added_at": "2025-02-27 12:38:25",
-      "album": {
         "name": "Louane",
         "url": "https://open.spotify.com/album/7rDvst38yYrJFGqs4W25Y8"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2025-02-27 12:38:25",
       "album": {
-        "name": "Amoureuse (Edition Deluxe)",
-        "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
       },
       "artists": [
         {
-          "name": "V\u00e9ronique Sanson",
-          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
         }
       ],
-      "duration_ms": 221600,
-      "name": "Amoureuse - Remasteris\u00e9 en 2008",
-      "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
+      "duration_ms": 249733,
+      "name": "Pri\u00e8re pa\u00efenne",
+      "url": "https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4"
     },
     {
       "added_at": "2025-02-27 12:38:25",
@@ -747,6 +731,22 @@
     {
       "added_at": "2025-02-27 12:38:25",
       "album": {
+        "name": "Amoureuse (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9ronique Sanson",
+          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Amoureuse - Remasteris\u00e9 en 2008",
+      "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
+    },
+    {
+      "added_at": "2025-02-27 12:38:25",
+      "album": {
         "name": "\u00e0 2 \u00e0 3",
         "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
       },
@@ -767,7 +767,23 @@
     {
       "added_at": "2025-02-27 12:38:25",
       "album": {
-        "name": "caravane",
+        "name": "la derniere annee",
+        "url": "https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4"
+      },
+      "artists": [
+        {
+          "name": "De Palmas",
+          "url": "https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "Sur la route",
+      "url": "https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr"
+    },
+    {
+      "added_at": "2025-02-27 12:38:25",
+      "album": {
+        "name": "Caravane",
         "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
       },
       "artists": [
@@ -795,22 +811,6 @@
       "duration_ms": 265333,
       "name": "La ballade de Jim",
       "url": "https://open.spotify.com/track/4lI8A7xmuQqGDj28dzelH4"
-    },
-    {
-      "added_at": "2025-02-27 12:38:25",
-      "album": {
-        "name": "la derniere annee",
-        "url": "https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4"
-      },
-      "artists": [
-        {
-          "name": "De Palmas",
-          "url": "https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "Sur la route",
-      "url": "https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr"
     },
     {
       "added_at": "2025-02-27 12:38:25",

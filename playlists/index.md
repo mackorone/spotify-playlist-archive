@@ -4252,7 +4252,7 @@
 - [On Tour Japan: Stray Kids](/playlists/pretty/37i9dQZF1DX7icshDizO3x.md)
 - [On Tour Japan: TWICE](/playlists/pretty/37i9dQZF1DX06p2NnNBbZc.md)
 - [On Tour Japan: The 1975](/playlists/pretty/37i9dQZF1DWTHL8EjCsJbp.md)
-- [On Tour Korea: Alaina Castillo](/playlists/pretty/37i9dQZF1DX9YuquEmVMFY.md)
+- [On Tour Korea: Yonezu Kenshi](/playlists/pretty/37i9dQZF1DX9YuquEmVMFY.md)
 - [On to Something Good](/playlists/pretty/3FfBohQXFlgFnYubzrvoq4.md)
 - [Once Upon A Time](/playlists/pretty/37i9dQZF1DX6ALixlKf7N8.md)
 - [Once Upon a Time](/playlists/pretty/37i9dQZF1DWYmqmG1uY1on.md)

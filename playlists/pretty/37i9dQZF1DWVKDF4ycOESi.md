@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Rose Villain in cover + le migliori uscite della settimana! Con brani di Chappell Roan, Calvin Harris, Selena Gomez e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,233 likes - 95 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,253 likes - 95 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

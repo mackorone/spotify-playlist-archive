@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Cina Soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,533 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,570 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 | 6 | [i think i love you 2](https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [i think i love you 2](https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9) | 2:44 |
 | 7 | [Ifineme](https://open.spotify.com/track/6U6usyI67RBLnGxL2MWGKC) | [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV) | [Ifineme X Upstandin](https://open.spotify.com/album/1lyDMxu8Hr76pVQveFi3Yk) | 2:59 |
 | 8 | [Omo To Sexy](https://open.spotify.com/track/0Ra2JEiYVrZwDyyNzMWKmQ) | [BLNDE](https://open.spotify.com/artist/3ZA9FgX4nLjbfGgn7dOukU) | [Omo To Sexy](https://open.spotify.com/album/3ajUkC6s6WOUx64JZJZZsL) | 2:47 |
-| 9 | [Iyanu](https://open.spotify.com/track/2vVtf4WoiXXU5MhJw0JHuA) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Iyanu](https://open.spotify.com/album/5Ujy1ZcmvbCAgP4Vux11ux) | 2:32 |
+| 9 | [You are](https://open.spotify.com/track/2vVtf4WoiXXU5MhJw0JHuA) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [You are](https://open.spotify.com/album/5Ujy1ZcmvbCAgP4Vux11ux) | 2:32 |
 | 10 | [MEGA MONEY MEGA](https://open.spotify.com/track/0GtkFcwZrNVpkPOavG1gfZ) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [MEGA MONEY MEGA](https://open.spotify.com/album/77bphBtAaaTCuM7pkFO7YV) | 2:48 |
 | 11 | [No Love](https://open.spotify.com/track/1vGvRiSzARAfvfVVcQ4JhX) | [Diane Dddd](https://open.spotify.com/artist/62MufOQctTd5rxW46i0ehY), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Juste un Vendredi](https://open.spotify.com/album/4PEmo8y2wO77HbJniDoAk0) | 3:13 |
 | 12 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Bad Vibes](https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g) | 2:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYpU3rwrcAz.md) - [plain]
 
 > Relaxing piano works by Chopin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,534 likes - 42 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,570 likes - 42 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

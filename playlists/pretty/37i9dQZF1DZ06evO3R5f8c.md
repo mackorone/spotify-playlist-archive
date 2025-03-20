@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,432 likes - 50 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,511 likes - 50 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 47 | [Take It All Off](https://open.spotify.com/track/3GTjWvuD6D78ZPRoXOBAt1) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 6:37 |
 | 48 | [Extra Time On You \(feat\. Portia Monique\)](https://open.spotify.com/track/61ZwhDqqQCMoK29InoEdKD) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Portia Monique](https://open.spotify.com/artist/4Gfgfu8VYfDlejKCKU9mpc) | [Pieces Of Me](https://open.spotify.com/album/6Ss90Zy6lfk5VHeX1JjasR) | 7:22 |
 | 49 | [Traveller \- Extended Mix](https://open.spotify.com/track/3QF8Xtfvgnyk0tRUnDxTFU) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Nomsa Mazwai](https://open.spotify.com/artist/4oX9xchwhV2UzF7Wsxoyg5), [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7) | [Traveller \(Extended Mix\)](https://open.spotify.com/album/1CnnR1LNyGFzpcNkrbljoB) | 7:19 |
-| 50 | [Never Saw You Coming \(feat\. Tsepo\) \- DJ Spinna Galactic Vocal Mix](https://open.spotify.com/track/12NDXliaBBgklpBNkUlyVI) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Tsepo](https://open.spotify.com/artist/2ddrvJRLukdqsvi7HaLTPt), [DJ Spinna](https://open.spotify.com/artist/0CpTjiY3prMIFqfgNbOORc) | [Never Saw You Coming \(feat\. Tsepo\)](https://open.spotify.com/album/7o2ey4eoyW8t7H9dHux8He) | 8:28 |
+| 50 | [Happy Day \- Remix](https://open.spotify.com/track/7KNEobclCZ59sF3CqrABZ0) | [Jo Carlos](https://open.spotify.com/artist/20uAC0gihyM94CpMA5F5zA), [DJ ANUNNAKI](https://open.spotify.com/artist/3A6wZyGMZVXRuAglmzTCqm), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Happy Day \(Remix\)](https://open.spotify.com/album/5wo6UOtgUUbs5JuGNs9Wxm) | 2:09 |
 
-Snapshot ID: `Z9dmAAAAAABMmlFUv6KGJygjwqrcZKN4`
+Snapshot ID: `Z9i3gAAAAADrMgzHW6dAdblDNUH4E9Xr`

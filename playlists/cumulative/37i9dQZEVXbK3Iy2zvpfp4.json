@@ -236,7 +236,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-19",
+      "date_removed": null,
       "duration_ms": 133571,
       "name": "1 AM",
       "url": "https://open.spotify.com/track/52p5h1D2QAfjiqmKawgMKg"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 133607,
       "name": "1 AM",
       "url": "https://open.spotify.com/track/1J4GwCYlxppes4LtrKjBtX"
@@ -4381,6 +4381,28 @@
     },
     {
       "album": {
+        "name": "Back To Life (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/7ottNjrMancqvRpwvJLK2H"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212413,
+      "name": "Back To Life (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/5zsfgeZ8D7G6aE0FXF0mAZ"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
       },
@@ -8410,7 +8432,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 232911,
       "name": "CAN'T GET HIGH",
       "url": "https://open.spotify.com/track/0di7FlF3BDjhbYCCTJjGFw"
@@ -15440,6 +15462,28 @@
       "duration_ms": 156218,
       "name": "Everything You Have Done - Meduza Edit",
       "url": "https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77"
+    },
+    {
+      "album": {
+        "name": "Evil Jordan",
+        "url": "https://open.spotify.com/album/2m5VPg0k6KUgvvRRNRF1ZS"
+      },
+      "artists": [
+        {
+          "name": "Elycust",
+          "url": "https://open.spotify.com/artist/2AK9Vzgu6ZPhFii5QX4jay"
+        },
+        {
+          "name": "Ratno",
+          "url": "https://open.spotify.com/artist/0XocD4vXj1Py5keqrNeFI0"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131317,
+      "name": "Evil Jordan",
+      "url": "https://open.spotify.com/track/65crMs75pzhrmJXAuFQpkE"
     },
     {
       "album": {
@@ -33164,7 +33208,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-18",
+      "date_removed": null,
       "duration_ms": 132631,
       "name": "Mona Lisa Motion",
       "url": "https://open.spotify.com/track/18o2gKM9pMyEWWAT9ZaGvr"
@@ -35540,7 +35584,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 108631,
       "name": "NASTY!",
       "url": "https://open.spotify.com/track/4xrwTSVdZqfEatmMgTprp3"
@@ -46398,7 +46442,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 136744,
       "name": "Sexxxy",
       "url": "https://open.spotify.com/track/2dEAsMfwRLivghKsVNwXLJ"
@@ -56696,7 +56740,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 168801,
       "name": "Wackelkontakt",
       "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"

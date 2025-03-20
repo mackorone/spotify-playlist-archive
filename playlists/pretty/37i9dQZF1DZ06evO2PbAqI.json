@@ -1,12 +1,12 @@
 {
   "description": "This is Lacuna Coil. The essential tracks, all in one playlist.",
-  "num_followers": 32801,
+  "num_followers": 32820,
   "original_name": "This Is Lacuna Coil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAAC+b53ZwpKUyuRJVhJqEwIE",
+  "snapshot_id": "Z9i3gAAAAABASVvZkxCntt6Mt36qcEa2",
   "tracks": [
     {
       "added_at": null,
@@ -179,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shallow Life",
-        "url": "https://open.spotify.com/album/7kitcTV4f9h0cvH6NaNqH0"
+        "name": "Delirium",
+        "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
       },
       "artists": [
         {
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 201146,
-      "name": "Spellbound",
-      "url": "https://open.spotify.com/track/4DXswc4p8mel7E6C1ZSHDq"
+      "duration_ms": 235093,
+      "name": "Blood, Tears, Dust",
+      "url": "https://open.spotify.com/track/6gXWMvHAZ8EPYRmcXXoNxk"
     },
     {
       "added_at": null,
@@ -211,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delirium",
-        "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
+        "name": "Shallow Life",
+        "url": "https://open.spotify.com/album/7kitcTV4f9h0cvH6NaNqH0"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 235093,
-      "name": "Blood, Tears, Dust",
-      "url": "https://open.spotify.com/track/6gXWMvHAZ8EPYRmcXXoNxk"
+      "duration_ms": 201146,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/4DXswc4p8mel7E6C1ZSHDq"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delirium",
-        "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 236266,
-      "name": "My Demons",
-      "url": "https://open.spotify.com/track/31B9r2N9vAqhHciZanfucd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Anima (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 371426,
       "name": "Veneficium",
       "url": "https://open.spotify.com/track/2SievHiWihoHHBaes2m8Wx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delirium",
+        "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 236266,
+      "name": "My Demons",
+      "url": "https://open.spotify.com/track/31B9r2N9vAqhHciZanfucd"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broken Crown Halo",
-        "url": "https://open.spotify.com/album/6P5nvFW7lUOwGGvDNYuVvG"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 236226,
-      "name": "I Forgive (But I Won't Forget Your Name)",
-      "url": "https://open.spotify.com/track/6sBzoJcptqlnns1eJ03wXF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Anima (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 235213,
       "name": "Sword of Anger",
       "url": "https://open.spotify.com/track/61DtDotCR1DeZPbI6Ky0UP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Broken Crown Halo",
+        "url": "https://open.spotify.com/album/6P5nvFW7lUOwGGvDNYuVvG"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 236226,
+      "name": "I Forgive (But I Won't Forget Your Name)",
+      "url": "https://open.spotify.com/track/6sBzoJcptqlnns1eJ03wXF"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delirium",
-        "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 317191,
-      "name": "The House of Shame",
-      "url": "https://open.spotify.com/track/3mEExxNbWKdTJImI7KTvU0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Comalies XX",
         "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
       },
@@ -583,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL"
+        "name": "Delirium",
+        "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
       },
       "artists": [
         {
@@ -592,9 +576,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 276560,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op"
+      "duration_ms": 317191,
+      "name": "The House of Shame",
+      "url": "https://open.spotify.com/track/3mEExxNbWKdTJImI7KTvU0"
     },
     {
       "added_at": null,
@@ -647,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comalies XX",
-        "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL"
       },
       "artists": [
         {
@@ -656,9 +640,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 226906,
-      "name": "Daylight Dancer XX",
-      "url": "https://open.spotify.com/track/6axoZ12xNleLVD0RVuHyU4"
+      "duration_ms": 276560,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op"
     },
     {
       "added_at": null,
@@ -695,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Comalies XX",
+        "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 226906,
+      "name": "Daylight Dancer XX",
+      "url": "https://open.spotify.com/track/6axoZ12xNleLVD0RVuHyU4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Delirium",
         "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
       },
@@ -707,22 +707,6 @@
       "duration_ms": 229280,
       "name": "You Love Me 'Cause I Hate You",
       "url": "https://open.spotify.com/track/0j2QDNeAmt2WxrmAEQJUe0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Comalies XX",
-        "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Entwined XX",
-      "url": "https://open.spotify.com/track/5OpNtpewQJsLhyM11ZiyfC"
     },
     {
       "added_at": null,
@@ -759,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shallow Life",
-        "url": "https://open.spotify.com/album/7kitcTV4f9h0cvH6NaNqH0"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "I Like It",
-      "url": "https://open.spotify.com/track/1CxtFFOZHWMR6oiG3GbIiq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Comalies XX",
         "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
       },
@@ -784,9 +752,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 221093,
-      "name": "Humane XX",
-      "url": "https://open.spotify.com/track/1AgDZ2kqcpQUKIhkhunWvJ"
+      "duration_ms": 231920,
+      "name": "Entwined XX",
+      "url": "https://open.spotify.com/track/5OpNtpewQJsLhyM11ZiyfC"
     },
     {
       "added_at": null,
@@ -807,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shallow Life",
+        "url": "https://open.spotify.com/album/7kitcTV4f9h0cvH6NaNqH0"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "I Like It",
+      "url": "https://open.spotify.com/track/1CxtFFOZHWMR6oiG3GbIiq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Comalies",
         "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 211973,
       "name": "Self Deception",
       "url": "https://open.spotify.com/track/4Q6f9HqFcXzWQtHyvhVOLA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comalies XX",
+        "url": "https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Humane XX",
+      "url": "https://open.spotify.com/track/1AgDZ2kqcpQUKIhkhunWvJ"
     },
     {
       "added_at": null,

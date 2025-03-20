@@ -4,7 +4,7 @@
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Jagjit Singh
 
-72 songs - 9 hr 23 min
+73 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Ki Hath Aya Tere Sahnoon Tarpaha Ke](https://open.spotify.com/track/0YGDJmZrd4TQ9J3L5WzRMw) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Abdul Sattar Tari](https://open.spotify.com/artist/5a75FBOofgVIoDb33jmiz2) | [Ghulam Ali Punjabi Mehfil](https://open.spotify.com/album/0RutIwb1qQWNeAk2ExYrtV) | 8:49 | 2024-04-24 |  |
 | [Kinna Sohna Tainu](https://open.spotify.com/track/2amrgg9O41iXSAIRnxU7su) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [30 Greatest Hits Nusrat Fateh Ali Khan and Sabri Brothers](https://open.spotify.com/album/0bGcGPQfXs78eUEgJ2XfHp) | 9:38 | 2023-02-15 | 2024-04-19 |
 | [Kinna Sohna Tainu](https://open.spotify.com/track/6ZSg7tQPECNUrGI2KSzFW1) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Big Boss Of Sufi Nusrat Fateh Ali Khan](https://open.spotify.com/album/3cYWUr0ckFlYZVLPnWkVoN) | 9:38 | 2023-12-18 |  |
-| [Kivain Gori Chalni Ae](https://open.spotify.com/track/48qsTL4KxMPkaCJJRWQpiz) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Abdul Sattar Tari](https://open.spotify.com/artist/5a75FBOofgVIoDb33jmiz2) | [Ghulam Ali Punjabi Mehfil](https://open.spotify.com/album/0RutIwb1qQWNeAk2ExYrtV) | 7:22 | 2024-04-24 |  |
+| [Kivain Gori Chalni Ae](https://open.spotify.com/track/48qsTL4KxMPkaCJJRWQpiz) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Abdul Sattar Tari](https://open.spotify.com/artist/5a75FBOofgVIoDb33jmiz2) | [Ghulam Ali Punjabi Mehfil](https://open.spotify.com/album/0RutIwb1qQWNeAk2ExYrtV) | 7:22 | 2024-04-24 | 2025-03-20 |
 | [Kiven Mukhre Ton Nazran Hatawan](https://open.spotify.com/track/1pMK7GI3AqrHZISTBMqsIs) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Kanday Utte Mehrma Ve](https://open.spotify.com/album/1Euo5hXtaDZNzwJ6jbRFxK) | 21:10 | 2023-02-15 |  |
 | [Kiven Mukhre Ton Nazran Hatawan](https://open.spotify.com/track/0Ibco1p94QkiiZ7NE8qmci) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Kanday Utte Mehrma Ve](https://open.spotify.com/album/0UiADrDM427r2gBguo8Rg5) | 21:10 | 2023-12-18 | 2024-04-19 |
 | [Kyon Rukha Rukha Bolna](https://open.spotify.com/track/4cBkTMciTLDqKmwVLTIccP) | [Shaukat Ali](https://open.spotify.com/artist/5BPicaWEOTTLJXrUCTtSWq) | [Has Bol Ve](https://open.spotify.com/album/5R7s3zRWle2nkoeGYq6wXe) | 5:02 | 2025-02-01 |  |
@@ -59,6 +59,7 @@
 | [Pehli Wari Ehnan Akhian](https://open.spotify.com/track/1rv170ZsobLD7RP5mLGQW7) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Punjabi Mehfil](https://open.spotify.com/album/2G0aJaQ7NgRl1U0FAD3Usu) | 7:53 | 2023-02-15 |  |
 | [Pyar Hoyi Janda Ae \- From "Arjan"](https://open.spotify.com/track/0PrYEWfbDw2tQXb5q68M2j) | [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Pyar Hoyi Janda Ae \(From "Arjan"\)](https://open.spotify.com/album/3naa4ohg6r82kiizdnUMBT) | 4:43 | 2025-02-01 |  |
 | [Raat Chanani Maen Turan](https://open.spotify.com/track/1zgIrkuKeSrVLnTGioQmux) | [Deedar Singh Pardesi](https://open.spotify.com/artist/4NACb6Hrl23pBf62alPMzu) | [Ek Buta Ambi Da](https://open.spotify.com/album/7JPCcT3dRCHKueWHrrgF5i) | 4:08 | 2023-02-15 |  |
+| [Ranjheya Ve](https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Ranjheya Ve](https://open.spotify.com/album/5k1gcNPYHM5h2mEDpdxND1) | 4:38 | 2025-03-19 |  |
 | [Ruh Le Gaya Dil da Jani](https://open.spotify.com/track/1NwvqenZqqhO2ibwEUTAbB) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Tarranum Naaz](https://open.spotify.com/artist/3i77C8F5q6oEiuRB80xgye) | [Dil Mera Dol Da](https://open.spotify.com/album/0St1cPJ8E8BOr4ZR48KxAr) | 9:08 | 2023-02-15 |  |
 | [Rutba](https://open.spotify.com/track/1VtoihGms5WJk85W2OLqeP) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Kali Jotta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5PX3Pa8S9mb76rDis21Ljc) | 6:44 | 2025-02-01 |  |
 | [Ruttan Aaiyan Mera Yaar Ni Aaya](https://open.spotify.com/track/4RhgKAdnUhQUL8QlzJMQWy) | [Ustad Hussain Baksh Gullo](https://open.spotify.com/artist/51RSLapvDimrmV9YZqgoWn) | [Abr Barsa Na Hawa Tez Chali](https://open.spotify.com/album/7m7GoFsaFxblSjZ2tFcZ7d) | 6:10 | 2023-02-15 | 2024-04-19 |

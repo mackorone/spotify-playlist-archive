@@ -2132,7 +2132,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 148474,
       "name": "ch\u0142opaki jak my",
       "url": "https://open.spotify.com/track/6LGCQoRKiwA2jIikkKun57"
@@ -7936,7 +7936,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 191187,
       "name": "M\u0142ody Ma Plik",
       "url": "https://open.spotify.com/track/4s0fanyHAItdkmd51Egkn7"
@@ -11559,6 +11559,24 @@
     },
     {
       "album": {
+        "name": "Sentymenty",
+        "url": "https://open.spotify.com/album/647wZqwIFPEUxVJh9eNniL"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154181,
+      "name": "Sentymenty",
+      "url": "https://open.spotify.com/track/4TbDlszXA0QfSHHYVT39xG"
+    },
+    {
+      "album": {
         "name": "ostatnie dni przekl\u0119tych dni",
         "url": "https://open.spotify.com/album/5FKKMJh5wj6oVoz4MGTaLF"
       },
@@ -14112,6 +14130,36 @@
       "duration_ms": 189700,
       "name": "Znalaz\u0142em pieni\u0105dze",
       "url": "https://open.spotify.com/track/6Kmm6QwMjkXh4tVtViPsWx"
+    },
+    {
+      "album": {
+        "name": "ZNOWU RAZEM",
+        "url": "https://open.spotify.com/album/5vtQOIMKonxuVfSQcB3bx9"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Bonus RPK",
+          "url": "https://open.spotify.com/artist/070tdNOiP3pIsGlqNfVkG3"
+        },
+        {
+          "name": "BeMelo",
+          "url": "https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx"
+        },
+        {
+          "name": "Dj Taek",
+          "url": "https://open.spotify.com/artist/5FhjSSoKazHVr8mWpiwW6R"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "ZNOWU RAZEM",
+      "url": "https://open.spotify.com/track/070NUoVC1oXwH5ywdagLg1"
     },
     {
       "album": {

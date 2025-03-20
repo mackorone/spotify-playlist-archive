@@ -5701,6 +5701,24 @@
     },
     {
       "album": {
+        "name": "Savior",
+        "url": "https://open.spotify.com/album/06D1vzjX7t7zLZJd9xIJ7g"
+      },
+      "artists": [
+        {
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216133,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/5h1ZgjFl9o9Bc1UTlJ9V1l"
+    },
+    {
+      "album": {
         "name": "Say",
         "url": "https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY"
       },
@@ -7546,7 +7564,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 164233,
       "name": "Wstyd",
       "url": "https://open.spotify.com/track/0YgKSJYoOyPWoyOoAOTkzk"

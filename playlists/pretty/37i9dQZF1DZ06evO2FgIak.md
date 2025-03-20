@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 
 > This is Muddy Waters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,862 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,871 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 | 49 | [Walkin' Blues](https://open.spotify.com/track/2xF0ubRru7TwLHdqFwH6Uo) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Real Folk Blues](https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT) | 2:58 |
 | 50 | [Sugar Sweet \- 1955 Single Version](https://open.spotify.com/track/57EUcSzG8IdY70NoeOUycb) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Hoochie Coochie Man: Complete Chess Masters \(Vol\. 2: 1952\-1958\)](https://open.spotify.com/album/2vbTviLzQVGNe8rGCOyyQo) | 2:29 |
 
-Snapshot ID: `Z9dmAAAAAACe09OS0CeAAe/9OpONoZhg`
+Snapshot ID: `Z9i3gAAAAACemOOgsVPzlk7+/FF8Z+j0`

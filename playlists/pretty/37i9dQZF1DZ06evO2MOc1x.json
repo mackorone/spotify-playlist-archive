@@ -1,12 +1,12 @@
 {
   "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
-  "num_followers": 51407,
+  "num_followers": 51414,
   "original_name": "This Is Bonnie Raitt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAADQ7ePhWDLKqisxbVeiKoY1",
+  "snapshot_id": "Z9i3gAAAAABWfoQltBA+m8GojjBInrEq",
   "tracks": [
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Longing In Their Hearts",
-        "url": "https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 267666,
-      "name": "You",
-      "url": "https://open.spotify.com/track/0gvmmdReQ6mZ9fVFiRaLOZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Give It Up (2008 Remaster)",
         "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 228640,
       "name": "Love Has No Pride - 2008 Remaster",
       "url": "https://open.spotify.com/track/5IaEafAl7QJbxu9DG1usyb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Longing In Their Hearts",
+        "url": "https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 267666,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0gvmmdReQ6mZ9fVFiRaLOZ"
     },
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Longing In Their Hearts",
-        "url": "https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 219866,
-      "name": "Dimming Of The Day",
-      "url": "https://open.spotify.com/track/3g3ngs81nNMZn6kW1BA8Hs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call It Home, Vol. 1",
         "url": "https://open.spotify.com/album/2BgDbmhRwn30Kv24s6Kzq0"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 248080,
       "name": "Call It Home",
       "url": "https://open.spotify.com/track/4EN9iaFnuzHQRDZwNt8fpM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Longing In Their Hearts",
+        "url": "https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "Dimming Of The Day",
+      "url": "https://open.spotify.com/track/3g3ngs81nNMZn6kW1BA8Hs"
     },
     {
       "added_at": null,
@@ -459,18 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Takin' My Time",
-        "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
       },
       "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
         {
           "name": "Bonnie Raitt",
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 223133,
-      "name": "You've Been in Love Too Long - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1jiYXUtNTeZzebDXDGgGQd"
+      "duration_ms": 271133,
+      "name": "I\u2019m In The Mood (feat. Bonnie Raitt)",
+      "url": "https://open.spotify.com/track/5ZMRMaydpaWtuxlNFx9D6n"
     },
     {
       "added_at": null,
@@ -491,22 +495,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Healer",
-        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
+        "name": "Takin' My Time",
+        "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
       },
       "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
         {
           "name": "Bonnie Raitt",
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 271133,
-      "name": "I\u2019m In The Mood (feat. Bonnie Raitt)",
-      "url": "https://open.spotify.com/track/5ZMRMaydpaWtuxlNFx9D6n"
+      "duration_ms": 223133,
+      "name": "You've Been in Love Too Long - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1jiYXUtNTeZzebDXDGgGQd"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Souls Alike",
-        "url": "https://open.spotify.com/album/3iK0XCTRh5zfLjfrmO3agU"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 218960,
-      "name": "I Will Not Be Broken",
-      "url": "https://open.spotify.com/track/7dS8Pt5M2lsBJuPhTMvRuq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Takin' My Time",
         "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 180000,
       "name": "Guilty - 2008 Remaster",
       "url": "https://open.spotify.com/track/2QUpntd3v7cZQByy7Kyh4L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Souls Alike",
+        "url": "https://open.spotify.com/album/3iK0XCTRh5zfLjfrmO3agU"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 218960,
+      "name": "I Will Not Be Broken",
+      "url": "https://open.spotify.com/track/7dS8Pt5M2lsBJuPhTMvRuq"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best Of Bonnie Raitt On Capitol 1989-2003",
+        "url": "https://open.spotify.com/album/1FV3yQh4QovuCGWqJuRdl4"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 217933,
+      "name": "Silver Lining - Radio Edit",
+      "url": "https://open.spotify.com/track/7lkKtkioFFFk9nkwNLRHER"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 240666,
       "name": "Love Letters",
       "url": "https://open.spotify.com/track/6pqNafE84udPaoFLGffd7E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Bonnie Raitt On Capitol 1989-2003",
-        "url": "https://open.spotify.com/album/1FV3yQh4QovuCGWqJuRdl4"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 217933,
-      "name": "Silver Lining - Radio Edit",
-      "url": "https://open.spotify.com/track/7lkKtkioFFFk9nkwNLRHER"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nick Of Time",
-        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 225866,
-      "name": "Too Soon To Tell",
-      "url": "https://open.spotify.com/track/21bGSuzzoQOKcmz59uDuwH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dig In Deep",
         "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 249093,
       "name": "Gypsy In Me",
       "url": "https://open.spotify.com/track/4w539nhl7KGUajmyrX5GNq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 225866,
+      "name": "Too Soon To Tell",
+      "url": "https://open.spotify.com/track/21bGSuzzoQOKcmz59uDuwH"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, chiello)",
-  "num_followers": 47199,
+  "num_followers": 47197,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,22 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
+        "name": "La mia stanza (Deluxe)",
+        "url": "https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "duration_ms": 162038,
+      "name": "Mai come gli altri - Acoustic",
+      "url": "https://open.spotify.com/track/3veCrNj8NA2tCfnPLXSOOr"
+    },
+    {
+      "added_at": "2025-02-21 00:01:30",
+      "album": {
         "name": "PROLOGO",
         "url": "https://open.spotify.com/album/3zMx1otz8AGfuZ7bQ4JMhL"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 149557,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/40FRMdRcEgEVEIzcNxZZ2z"
-    },
-    {
-      "added_at": "2025-02-21 00:01:30",
-      "album": {
-        "name": "La mia stanza (Deluxe)",
-        "url": "https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q"
-      },
-      "artists": [
-        {
-          "name": "NASKA",
-          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
-        }
-      ],
-      "duration_ms": 162038,
-      "name": "Mai come gli altri - Acoustic",
-      "url": "https://open.spotify.com/track/3veCrNj8NA2tCfnPLXSOOr"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "cloud love",
-        "url": "https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk"
-      },
-      "artists": [
-        {
-          "name": "Anzj",
-          "url": "https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu"
-        }
-      ],
-      "duration_ms": 89832,
-      "name": "sto bene, a volte",
-      "url": "https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu"
-    },
-    {
-      "added_at": "2025-02-21 00:01:30",
-      "album": {
         "name": "cattive abitudini",
         "url": "https://open.spotify.com/album/7CVTvlGG8yvKuMu8kU1LTr"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 125000,
       "name": "ti sei scordata del mio compleanno",
       "url": "https://open.spotify.com/track/2qlC6uXZjQOkfkEdOHRxVN"
+    },
+    {
+      "added_at": "2025-02-21 00:01:30",
+      "album": {
+        "name": "cloud love",
+        "url": "https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk"
+      },
+      "artists": [
+        {
+          "name": "Anzj",
+          "url": "https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu"
+        }
+      ],
+      "duration_ms": 89832,
+      "name": "sto bene, a volte",
+      "url": "https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1183,18 +1183,22 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "non sto bene, va bene cos\u00ec",
-        "url": "https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN"
+        "name": "TauroTape3",
+        "url": "https://open.spotify.com/album/3O1hIgLryt4q65Y1YcjXdp"
       },
       "artists": [
         {
-          "name": "Chakra",
-          "url": "https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv"
+          "name": "Tauro Boys",
+          "url": "https://open.spotify.com/artist/3co0PkJ0FkzdkjRPkBf9WM"
+        },
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
         }
       ],
-      "duration_ms": 113816,
-      "name": "Ho perso il cuore,",
-      "url": "https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO"
+      "duration_ms": 177777,
+      "name": "Xelisa2 (feat. ARIETE)",
+      "url": "https://open.spotify.com/track/0TFwQNQV9TzDRSh05ljlv7"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1219,22 +1223,18 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "TauroTape3",
-        "url": "https://open.spotify.com/album/3O1hIgLryt4q65Y1YcjXdp"
+        "name": "non sto bene, va bene cos\u00ec",
+        "url": "https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN"
       },
       "artists": [
         {
-          "name": "Tauro Boys",
-          "url": "https://open.spotify.com/artist/3co0PkJ0FkzdkjRPkBf9WM"
-        },
-        {
-          "name": "ARIETE",
-          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+          "name": "Chakra",
+          "url": "https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv"
         }
       ],
-      "duration_ms": 177777,
-      "name": "Xelisa2 (feat. ARIETE)",
-      "url": "https://open.spotify.com/track/0TFwQNQV9TzDRSh05ljlv7"
+      "duration_ms": 113816,
+      "name": "Ho perso il cuore,",
+      "url": "https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "DIMENTICARE IL MONDO",
-        "url": "https://open.spotify.com/album/6JbEkpxrc8ThVu6BRHJM6n"
-      },
-      "artists": [
-        {
-          "name": "Nashley",
-          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
-        }
-      ],
-      "duration_ms": 168391,
-      "name": "Cattivi ragazzi per bene",
-      "url": "https://open.spotify.com/track/6Rscz9jgGiI6A3lc7XNRZK"
-    },
-    {
-      "added_at": "2025-02-21 00:01:30",
-      "album": {
         "name": "bambino perfetto",
         "url": "https://open.spotify.com/album/70URwszSHh76Vb3zj6YlEG"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 140160,
       "name": "bambino perfetto",
       "url": "https://open.spotify.com/track/7dBnuF21ssUjkqUPO8gApy"
+    },
+    {
+      "added_at": "2025-02-21 00:01:30",
+      "album": {
+        "name": "DIMENTICARE IL MONDO",
+        "url": "https://open.spotify.com/album/6JbEkpxrc8ThVu6BRHJM6n"
+      },
+      "artists": [
+        {
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+        }
+      ],
+      "duration_ms": 168391,
+      "name": "Cattivi ragazzi per bene",
+      "url": "https://open.spotify.com/track/6Rscz9jgGiI6A3lc7XNRZK"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1347,22 +1347,18 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "CONFESSIONE",
-        "url": "https://open.spotify.com/album/0cDiwdOYaCtEc97xbdAxPH"
+        "name": "Campi Elisi",
+        "url": "https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT"
       },
       "artists": [
         {
-          "name": "Sally Cruz",
-          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
-        },
-        {
-          "name": "Mike Defunto",
-          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+          "name": "FRERO",
+          "url": "https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox"
         }
       ],
-      "duration_ms": 144187,
-      "name": "ALESSIA",
-      "url": "https://open.spotify.com/track/2wfjLU8g13JsfNEj7jfrCz"
+      "duration_ms": 177931,
+      "name": "Campi Elisi",
+      "url": "https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1391,18 +1387,22 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "Campi Elisi",
-        "url": "https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT"
+        "name": "CONFESSIONE",
+        "url": "https://open.spotify.com/album/0cDiwdOYaCtEc97xbdAxPH"
       },
       "artists": [
         {
-          "name": "FRERO",
-          "url": "https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox"
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
         }
       ],
-      "duration_ms": 177931,
-      "name": "Campi Elisi",
-      "url": "https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK"
+      "duration_ms": 144187,
+      "name": "ALESSIA",
+      "url": "https://open.spotify.com/track/2wfjLU8g13JsfNEj7jfrCz"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0"
-      },
-      "artists": [
-        {
-          "name": "\u00cbgo",
-          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
-        }
-      ],
-      "duration_ms": 120058,
-      "name": "Hasta la Muerte",
-      "url": "https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF"
-    },
-    {
-      "added_at": "2025-02-21 00:01:30",
-      "album": {
         "name": "Letto grande",
         "url": "https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC"
       },
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "Buio",
-        "url": "https://open.spotify.com/album/6nQXpUEDkG6oMCP0CX8z1Q"
+        "name": "Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0"
       },
       "artists": [
         {
-          "name": "ANSIAH",
-          "url": "https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB"
+          "name": "\u00cbgo",
+          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
         }
       ],
-      "duration_ms": 142747,
-      "name": "Buio",
-      "url": "https://open.spotify.com/track/4cDJPaxKz8n1CHpsP481Td"
+      "duration_ms": 120058,
+      "name": "Hasta la Muerte",
+      "url": "https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1523,6 +1507,22 @@
       "duration_ms": 180278,
       "name": "Sotto lo zero",
       "url": "https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy"
+    },
+    {
+      "added_at": "2025-02-21 00:01:30",
+      "album": {
+        "name": "Buio",
+        "url": "https://open.spotify.com/album/6nQXpUEDkG6oMCP0CX8z1Q"
+      },
+      "artists": [
+        {
+          "name": "ANSIAH",
+          "url": "https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB"
+        }
+      ],
+      "duration_ms": 142747,
+      "name": "Buio",
+      "url": "https://open.spotify.com/track/4cDJPaxKz8n1CHpsP481Td"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -1623,6 +1623,26 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
+        "name": "Ceramica",
+        "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        },
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Ceramica",
+      "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
+    },
+    {
+      "added_at": "2025-02-21 00:01:30",
+      "album": {
         "name": "Devil May Cry",
         "url": "https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA"
       },
@@ -1655,46 +1675,6 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "MOVIMENTO + THE DAY AFTER",
-        "url": "https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG"
-      },
-      "artists": [
-        {
-          "name": "Zyrtck",
-          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
-        },
-        {
-          "name": "Sick Luke",
-          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
-        }
-      ],
-      "duration_ms": 139773,
-      "name": "I CAN FLY",
-      "url": "https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b"
-    },
-    {
-      "added_at": "2025-02-21 00:01:30",
-      "album": {
-        "name": "Ceramica",
-        "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
-      },
-      "artists": [
-        {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        },
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Ceramica",
-      "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
-    },
-    {
-      "added_at": "2025-02-21 00:01:30",
-      "album": {
         "name": "Shama \u00e8 buono",
         "url": "https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX"
       },
@@ -1715,6 +1695,26 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
+        "name": "MOVIMENTO + THE DAY AFTER",
+        "url": "https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG"
+      },
+      "artists": [
+        {
+          "name": "Zyrtck",
+          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
+        },
+        {
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+        }
+      ],
+      "duration_ms": 139773,
+      "name": "I CAN FLY",
+      "url": "https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b"
+    },
+    {
+      "added_at": "2025-02-21 00:01:30",
+      "album": {
         "name": "L'effetto che mi fai",
         "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
       },
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2025-02-21 00:01:30",
       "album": {
-        "name": "Winston Blue",
-        "url": "https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT"
+        "name": "Cose stupide",
+        "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
       },
       "artists": [
         {
-          "name": "WECH PUTO",
-          "url": "https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK"
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
         }
       ],
-      "duration_ms": 151013,
-      "name": "Winston Blue",
-      "url": "https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i"
+      "duration_ms": 186500,
+      "name": "Cose stupide",
+      "url": "https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu"
     }
   ],
   "unique_name": "ragazzo triste",

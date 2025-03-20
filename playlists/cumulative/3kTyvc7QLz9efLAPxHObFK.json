@@ -28171,6 +28171,28 @@
     },
     {
       "album": {
+        "name": "One Desire",
+        "url": "https://open.spotify.com/album/4e5Kg3X9STTfQesP3zdn1B"
+      },
+      "artists": [
+        {
+          "name": "The Dark Horror",
+          "url": "https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa"
+        },
+        {
+          "name": "Mind Compressor",
+          "url": "https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173052,
+      "name": "One Desire",
+      "url": "https://open.spotify.com/track/3RhZJK1amugAdIvTTkYvFR"
+    },
+    {
+      "album": {
         "name": "The Dark Side",
         "url": "https://open.spotify.com/album/0xk3SFnqWw7hPyDg1Vlouq"
       },

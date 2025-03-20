@@ -4,7 +4,7 @@
 
 > Música alegre para que el trabajo se te pase volando.
 
-421 songs - 1 day 0 hr 0 min
+422 songs - 1 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,9 +351,10 @@
 | [Stayin Alive](https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 4:45 | 2022-01-10 | 2023-07-02 |
 | [Stayin' Alive](https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 4:45 | 2023-04-24 | 2024-04-19 |
 | [Suerte ;\)](https://open.spotify.com/track/6sn1eF23Zvacs0oshUciXA) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Suerte ;\)](https://open.spotify.com/album/5dnLUdUgCz47IqbGd9z6VZ) | 2:44 | 2024-02-06 | 2024-06-17 |
+| [Sueño \(con Pablo Alborán\)](https://open.spotify.com/track/71M1szVbVYZM5M6QlIm6aC) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prisma](https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq) | 3:05 | 2024-07-12 |  |
 | [Sugar, Sugar](https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF) | [The Archies](https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh) | [The Very Best Of "The Archies"](https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi) | 2:47 | 2022-08-08 |  |
 | [Summer Of '69](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:36 | 2022-01-10 | 2022-08-09 |
-| [SUPERHÉROES](https://open.spotify.com/track/3qMpbW78QlPZM2bEdtD1YD) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [SUPERHÉROES](https://open.spotify.com/album/5GbT5hePpbTYqlx61G7ggt) | 3:20 | 2023-12-22 |  |
+| [SUPERHÉROES](https://open.spotify.com/track/3qMpbW78QlPZM2bEdtD1YD) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [SUPERHÉROES](https://open.spotify.com/album/5GbT5hePpbTYqlx61G7ggt) | 3:20 | 2023-12-22 | 2025-03-20 |
 | [Sweet Home Alabama](https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping \(Expanded Edition\)](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) | 4:43 | 2022-01-10 | 2022-08-09 |
 | [Tacones Rojos](https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tacones Rojos](https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S) | 3:09 | 2022-01-10 |  |
 | [Tal Como Eres](https://open.spotify.com/track/3GyjKTLvnFracHkrjkh7gd) | [David Otero](https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h), [Cepeda](https://open.spotify.com/artist/5AMBCoLbNgVCbA3XYMRlks) | [Tal Como Eres](https://open.spotify.com/album/02r0MP85ZFMcNU1phgbjMk) | 4:00 | 2022-01-10 | 2022-07-29 |

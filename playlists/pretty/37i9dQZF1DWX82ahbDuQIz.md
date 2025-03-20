@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 
 > Musical songs from Broadway, the West End and beyond\. Cover: SUNSET BLVD
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,785 likes - 80 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,849 likes - 80 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 | 67 | [Ring of Keys](https://open.spotify.com/track/2zTjKIhgvU7mt6pbkWdzhi) | [Jeanine Tesori](https://open.spotify.com/artist/3bW9aRkzZhlE53ca3djW8Z), [Lisa Kron](https://open.spotify.com/artist/1vrC8QDkFBw7mkWShqEcXZ), [Sydney Lucas](https://open.spotify.com/artist/2NC0NvcP3iJvpCPepplwof), [Beth Malone](https://open.spotify.com/artist/60zvRmhQHRxokEB1taAVpN) | [Fun Home \(A New Broadway Musical\)](https://open.spotify.com/album/2GKE26bq2o8qoukpNlZnrh) | 3:07 |
 | 68 | [Santa Fe](https://open.spotify.com/track/5fTikjXnFxv1CU6AiEPBLB) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub) | [Newsies \(Original Broadway Cast\)](https://open.spotify.com/album/6M45nH4iBkTxAVMzR3YGOk) | 3:12 |
 | 69 | [Sweet Transvestite](https://open.spotify.com/track/0K9n8TBThz4xNAkF1eIlB6) | [Tim Curry](https://open.spotify.com/artist/5upLeyz8OjRZcbFuXOF59B) | [The Rocky Horror Picture Show \- Original Soundtrack](https://open.spotify.com/album/4QviryaneolcRmDB57SLco) | 3:24 |
-| 70 | [Cabaret \(from "Cabaret"\)](https://open.spotify.com/track/5ySJFXo0jQmn8O8J81yzJD) | [John Kander](https://open.spotify.com/artist/7xSEQmlssbeoIUdQ0HFjUT), [Natasha Richardson](https://open.spotify.com/artist/6FwAZUidq5yFqZuLg94DuM), [Alan Cumming](https://open.spotify.com/artist/66T9wYAojCjsnxM4R5KAhW), [Patrick Vaccariello](https://open.spotify.com/artist/4hDUIdyQ6rY8WRf11gMIGz) | [The Essential Broadway](https://open.spotify.com/album/3gGJBjFWvp8oOYIF1MBSQQ) | 4:12 |
+| 70 | [Cabaret \(from "Cabaret"\)](https://open.spotify.com/track/5ySJFXo0jQmn8O8J81yzJD) | [Natasha Richardson](https://open.spotify.com/artist/6FwAZUidq5yFqZuLg94DuM), [Alan Cumming](https://open.spotify.com/artist/66T9wYAojCjsnxM4R5KAhW) | [The Essential Broadway](https://open.spotify.com/album/3gGJBjFWvp8oOYIF1MBSQQ) | 4:12 |
 | 71 | [Satisfied](https://open.spotify.com/track/3dP0pLbg9OfVwssDjp9aT0) | [Renée Elise Goldsberry](https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 5:29 |
 | 72 | [I'll Cover You](https://open.spotify.com/track/3HMhPsOVZXZZRbZKx4f2V0) | [Wilson Jermaine Heredia](https://open.spotify.com/artist/2wpskShaCrgkVcET4JzTAV), [Jesse L\. Martin](https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I) | [RENT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JR7tGOAvqFSpVmDlCzHIJ) | 2:29 |
 | 73 | [Heart of Stone](https://open.spotify.com/track/3akeuMy9bqJbqDlfYevbwN) | [SIX](https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0), [Natalie Paris](https://open.spotify.com/artist/4rNKsg7PLOeJY6EFH2sW2u) | [Six: The Musical \(Studio Cast Recording\)](https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh) | 5:11 |

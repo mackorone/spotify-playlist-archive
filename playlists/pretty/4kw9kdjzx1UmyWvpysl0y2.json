@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125454,
+  "num_followers": 125455,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATz/qY75oLv8lduVmXG6CvEZpL9Zki",
+  "snapshot_id": "AAAT0FuPuYQj3Ybm5D88A6q51d9Ghn1O",
   "tracks": [
+    {
+      "added_at": "2025-03-19 13:50:56",
+      "album": {
+        "name": "LOCK N LOAD",
+        "url": "https://open.spotify.com/album/50muUlnq0cgOylPOJYEppo"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "LOCK N LOAD",
+      "url": "https://open.spotify.com/track/3OA8WRnghM0VmLXFMTSKnr"
+    },
     {
       "added_at": "2025-03-18 15:00:38",
       "album": {

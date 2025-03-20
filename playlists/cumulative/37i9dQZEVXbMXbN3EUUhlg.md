@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-1,438 songs - 3 day 1 hr 28 min
+1,439 songs - 3 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [202](https://open.spotify.com/track/3imzmQM2DPPVBLMiBBexRL) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU) | [202](https://open.spotify.com/album/5F5QjUVSgXHrXj7xbhSRW6) | 2:50 | 2022-08-26 | 2022-10-16 |
 | [2025](https://open.spotify.com/track/0UGGLKM970ymsBBN5TKjsD) | [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [DJ Oreia](https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI) | [2025](https://open.spotify.com/album/5Ta3QXRvo45oLDWUozwncl) | 2:52 | 2024-12-30 |  |
 | [212](https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [212](https://open.spotify.com/album/1fcZBsLGUUTI4qRWYsjOuN) | 2:30 | 2022-01-16 | 2022-06-18 |
+| [22 Meu Vulgo](https://open.spotify.com/track/15CoBMXezZjfJuFpvuhYK3) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Gigant](https://open.spotify.com/artist/078qvuSjdEnKuq3i3FRo6O), [nobuddy](https://open.spotify.com/artist/05Vk6pbfFkjyz9cTEvb45v), [Goldgrain](https://open.spotify.com/artist/0rdH38zGBwIvpet2oBi9SC) | [Liberdade](https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi) | 3:39 | 2025-03-19 |  |
 | [30 Cadeados \- Ao Vivo](https://open.spotify.com/track/4UBTjBOglPqrcDKSLwYHQr) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Paraíso Particular Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/5xbSsOJsCXNSodcAE7IsAA) | 2:47 | 2024-02-10 | 2024-02-24 |
 | [300 no 7](https://open.spotify.com/track/3ODUgIaqdpkMXXlsH1kDLh) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [Dj Yuri Pedrada](https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi) | [300 no 7](https://open.spotify.com/album/5CHFMrb9SUSjeBiqParhYB) | 3:15 | 2024-09-19 | 2024-10-27 |
 | [300 no 7](https://open.spotify.com/track/6YdJ2jJOo143KhXT9qvQVe) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [Dj Yuri Pedrada](https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi) | [Quem Quer F1 Com o G?](https://open.spotify.com/album/4fkmsXc6PvWwgNJJ5yzW4E) | 3:15 | 2024-10-26 | 2025-01-21 |
@@ -136,7 +137,7 @@
 | [Arranhão \- Ao Vivo](https://open.spotify.com/track/3IMLoeLerS7TMpKjxUgAhx) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/3qL1ZV5aLsA2U0lVdIadau) | 2:33 | 2021-12-12 | 2022-12-30 |
 | [Arranhão \- Ao Vivo](https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Arranhão \(Ao Vivo\)](https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z) | 2:33 | 2021-08-08 | 2021-12-12 |
 | [Arriadin por Tu \- Ao Vivo](https://open.spotify.com/track/1R4g4jxHARgfesI2g9H59g) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Ser Tão Eu \- Parte 3 \(Ao Vivo\)](https://open.spotify.com/album/22bVPTAJLywADdmwbyA60a) | 2:41 | 2024-10-08 | 2024-10-31 |
-| [Arruma Um Bão](https://open.spotify.com/track/6ukVCqH77f6cwRHyJBhGgy) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Termômetro](https://open.spotify.com/album/6zw5gasuMMyY7fqTDUX2xq) | 2:55 | 2024-10-16 |  |
+| [Arruma Um Bão](https://open.spotify.com/track/6ukVCqH77f6cwRHyJBhGgy) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Termômetro](https://open.spotify.com/album/6zw5gasuMMyY7fqTDUX2xq) | 2:55 | 2024-10-16 | 2025-03-20 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 | 2023-02-11 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-25 |
 | [Assalto Perigoso](https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Assalto Perigoso](https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs) | 2:35 | 2022-01-21 | 2022-03-13 |

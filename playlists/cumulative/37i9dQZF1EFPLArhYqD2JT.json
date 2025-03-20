@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 156044,
       "name": "Crinoline Days",
       "url": "https://open.spotify.com/track/3M5kUTubTapFfeGrJpCbT9"
@@ -1453,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "Something To Dance About (The Music of Irving Berlin)",
+        "url": "https://open.spotify.com/album/206OZtWqzf0ZjIMZc3q64l"
+      },
+      "artists": [
+        {
+          "name": "Kim Criswell",
+          "url": "https://open.spotify.com/artist/0uusW198iXgIdooU7txyAw"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165106,
+      "name": "Down In Chattanooga",
+      "url": "https://open.spotify.com/track/2tcmbOCiQIA9mKHuvTsLmC"
+    },
+    {
+      "album": {
         "name": "Something to Dance About (The Music of Irving Berlin)",
         "url": "https://open.spotify.com/album/0oHQAH8akcOURZZQc6RTxo"
       },
@@ -1468,7 +1486,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 165106,
       "name": "Down In Chattanooga",
       "url": "https://open.spotify.com/track/7CeCIsxnrqr84L67Evk8bo"

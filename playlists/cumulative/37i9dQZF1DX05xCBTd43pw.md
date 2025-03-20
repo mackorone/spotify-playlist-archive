@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland.
 
-202 songs - 10 hr 7 min
+203 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Down To My Bones](https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Down To My Bones](https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD) | 3:21 | 2024-11-01 |  |
 | [Drei Stunden](https://open.spotify.com/track/6L0Ii1AzM0W4ZAl8FPPN1b) | [jan SEVEN dettwyler](https://open.spotify.com/artist/0vzAclaaTGJDFQzdWxmTej) | [Drei Stunden](https://open.spotify.com/album/2XMofoZm4xZtaWWkuQEVON) | 2:29 | 2024-08-05 | 2024-08-30 |
 | [Du kriegst mich nicht zurück](https://open.spotify.com/track/2yPmT3WjYGFtqn9NqiejjB) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Du kriegst mich nicht zurück](https://open.spotify.com/album/4cxJotBAgV0ZOmROIezp6k) | 3:27 | 2024-06-27 | 2024-08-15 |
-| [Ehrlich](https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Ehrlich](https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3) | 3:50 | 2024-06-27 |  |
+| [Ehrlich](https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Ehrlich](https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3) | 3:50 | 2024-06-27 | 2025-03-20 |
 | [Ein bisschen Frieden](https://open.spotify.com/track/1NTjTztpbbrpbrkVLppj6c) | [San Silvan](https://open.spotify.com/artist/4MY0xfcyD9dLgbj27g59XT), [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Ein bisschen Frieden](https://open.spotify.com/album/7n5pZ8QBFhwjjft94495tQ) | 3:52 | 2024-12-20 | 2025-03-08 |
 | [ENEMY](https://open.spotify.com/track/2ml2U1MZUnXfnHPghzQZ7q) | [L Loko](https://open.spotify.com/artist/6iI54kPtuDGxFe6T3eIR53), [Drini](https://open.spotify.com/artist/5tRlhg6J2lBxI7Qb4IfL00) | [ENEMY](https://open.spotify.com/album/4PhWAyBtcNjqKvuATjgYMc) | 2:32 | 2025-03-07 |  |
 | [Enough](https://open.spotify.com/track/0vgXEftdFm12zERrMkLqzH) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Enough](https://open.spotify.com/album/40PbD4AUnhOJQD1y1qKlOh) | 2:40 | 2024-10-11 | 2024-12-08 |
@@ -159,6 +159,7 @@
 | [Roots](https://open.spotify.com/track/3BvKDfgNEGmFymfKMLpykK) | [Marc Sway](https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w), [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Roots](https://open.spotify.com/album/4CLjl1IBmqvO2y56O5ljYF) | 2:34 | 2025-02-21 |  |
 | [Runaway](https://open.spotify.com/track/4SemVHStVzeOBprnKQ3ADo) | [Ellu](https://open.spotify.com/artist/4O3D4tbVH9zs2lCQd1D51B) | [Runaway](https://open.spotify.com/album/0F00CHsYzsEIYuVK8GjYu6) | 2:35 | 2024-07-04 | 2024-08-02 |
 | [Russian Blue](https://open.spotify.com/track/4H2DQFvr1azbh38m4MoMu8) | [Roxane](https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD) | [Russian Blue](https://open.spotify.com/album/4d6KggoADtAdnsZs6zh1TL) | 3:29 | 2024-12-07 |  |
+| [Sand](https://open.spotify.com/track/320FkP0qHyl7w1a1oDpyhE) | [Gigi](https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh) | [Hinterem Mond](https://open.spotify.com/album/5Qe6ceY5yPGV5e40FuKjaR) | 2:43 | 2025-03-14 |  |
 | [Sans Toi](https://open.spotify.com/track/3XN0T1Yew3d5hiXhmMuuDS) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Sans Toi](https://open.spotify.com/album/3qvzJyERlOl1zvdxkPxB7y) | 2:14 | 2024-09-27 | 2024-11-10 |
 | [Sauvage](https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv) | [Julie Meletta](https://open.spotify.com/artist/6dtKZZx0OeZgjHzrTLm8z1) | [Sauvage](https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL) | 2:57 | 2024-08-26 | 2025-03-16 |
 | [Scars On Your Heart](https://open.spotify.com/track/3EUjGScwQwLvq27r9nhVU1) | [Ladina](https://open.spotify.com/artist/3NutXQr2Yvx6R2aUbkQXEo) | [Scars On Your Heart](https://open.spotify.com/album/1cSh4EZu0FpUYxJGzayK0n) | 2:53 | 2025-02-14 | 2025-02-28 |

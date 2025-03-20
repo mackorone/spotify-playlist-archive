@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 ### [Fresh Finds Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX1RLKir9EDRO)
 
-> Bağımsız yerli sahneden keşifler\. Kapak: Nana Hera  Çizim: Isu Kim
+> Bağımsız yerli sahneden keşifler\. Kapak: light motiv  Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,918 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,930 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yorgun](https://open.spotify.com/track/2MEFGp6bm13qgkPdBYb4KW) | [Nana Hera](https://open.spotify.com/artist/6VRLp1SMFGX8UMagN1E8WL) | [Yorgun](https://open.spotify.com/album/2IPCz6edYW6m5LOQXFFRSI) | 3:18 |
 | 2 | [Işığın Kendisi](https://open.spotify.com/track/7HyH3W2vcx9A4i5BG0EZd7) | [Idil](https://open.spotify.com/artist/0zNz4hmI6mCNUdj4BngitI) | [Işığın Kendisi](https://open.spotify.com/album/2F9LlyUGEDDFvu4busTwHX) | 3:05 |
-| 3 | [Ben Bu Kalbi Ne Yapsam](https://open.spotify.com/track/3ZZsKbnh6852emkvhi9u7v) | [Elif Kozan](https://open.spotify.com/artist/78Yd6q4H8kIaTRGItJaFee) | [Ben Bu Kalbi Ne Yapsam](https://open.spotify.com/album/5m1wVcdcORtkXdDMHjZGqO) | 3:09 |
-| 4 | [Erenköy/Kazasker](https://open.spotify.com/track/0NBgK927zx6sjS94ffWTgR) | [vicotüco](https://open.spotify.com/artist/4U7K9tHdYMndwq8Dvbv9vX) | [Erenköy/Kazasker](https://open.spotify.com/album/765n6Rqcy18fxVw9XOWPlZ) | 3:50 |
-| 5 | [çok zor](https://open.spotify.com/track/3Y6y88sc61ZSciTpyBiIAv) | [FEM](https://open.spotify.com/artist/43bCw3UGd9GkTQqlPganbd) | [çok zor](https://open.spotify.com/album/5wfdpXP7VUi714AfOTJBVB) | 2:27 |
-| 6 | [Teşekkürler Düşünceler](https://open.spotify.com/track/3eg8GTjc2SnPMKnx7xDvdN) | [light motiv](https://open.spotify.com/artist/6rLXE13y3DrO2mZ8GJqJsZ) | [Geçen Günler Düşen Yapraklar Gibi](https://open.spotify.com/album/52eLrmEUGqCZQNGD41vOoj) | 3:59 |
+| 3 | [Teşekkürler Düşünceler](https://open.spotify.com/track/3eg8GTjc2SnPMKnx7xDvdN) | [light motiv](https://open.spotify.com/artist/6rLXE13y3DrO2mZ8GJqJsZ) | [Geçen Günler Düşen Yapraklar Gibi](https://open.spotify.com/album/52eLrmEUGqCZQNGD41vOoj) | 3:59 |
+| 4 | [Ben Bu Kalbi Ne Yapsam](https://open.spotify.com/track/3ZZsKbnh6852emkvhi9u7v) | [Elif Kozan](https://open.spotify.com/artist/78Yd6q4H8kIaTRGItJaFee) | [Ben Bu Kalbi Ne Yapsam](https://open.spotify.com/album/5m1wVcdcORtkXdDMHjZGqO) | 3:09 |
+| 5 | [Erenköy/Kazasker](https://open.spotify.com/track/0NBgK927zx6sjS94ffWTgR) | [vicotüco](https://open.spotify.com/artist/4U7K9tHdYMndwq8Dvbv9vX) | [Erenköy/Kazasker](https://open.spotify.com/album/765n6Rqcy18fxVw9XOWPlZ) | 3:50 |
+| 6 | [çok zor](https://open.spotify.com/track/3Y6y88sc61ZSciTpyBiIAv) | [FEM](https://open.spotify.com/artist/43bCw3UGd9GkTQqlPganbd) | [çok zor](https://open.spotify.com/album/5wfdpXP7VUi714AfOTJBVB) | 2:27 |
 | 7 | [Vazgeçme](https://open.spotify.com/track/1lWVA16F4B4DaeGDYZ13Ta) | [Nazzan](https://open.spotify.com/artist/2OeEzfsPurEqwhV65HBnln) | [Vazgeçme](https://open.spotify.com/album/3whhza2mQ71ICeZBKnpKS7) | 2:21 |
 | 8 | [Yalnızız](https://open.spotify.com/track/1iHJi5ZS13nUMXbwnWcmL9) | [Sren](https://open.spotify.com/artist/5NC7QchtUqmVqxV9AcD0Zv) | [Yalnızız](https://open.spotify.com/album/4AblH6Lt2xLt4TFbgqZRF9) | 4:44 |
 | 9 | [İçini Dökebilseydin](https://open.spotify.com/track/7tEGlbaF0zhPfxxp71gTME) | [Olabilir!](https://open.spotify.com/artist/5Q17hiDpug3g5J2Z7XSWhd) | [İçini Dökebilseydin](https://open.spotify.com/album/5tEsXinjM9qgtU6Yj6tW1z) | 3:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 74 | [Bi Yan Yana Olsak](https://open.spotify.com/track/7wKyMpsIw0crueELBYdXuS) | [Yelda Altunal](https://open.spotify.com/artist/3A4CXrp41JSgYT3bAxEOYU) | [Rüzgar Bizi Götürse](https://open.spotify.com/album/4tsutBOUdQUsJVEXKpDFgk) | 3:43 |
 | 75 | [İsmet](https://open.spotify.com/track/2AR2bijc8fdsT69kAXZbeJ) | [Yasak Helva](https://open.spotify.com/artist/5Ku0LlBlvSAliBxZvPUJWw) | [İsmet](https://open.spotify.com/album/2QQMV2IDwETIKrW786waTn) | 5:07 |
 
-Snapshot ID: `Z8sXWAAAAAD3rcQ+e9+x7B+ZmSW4w1Fj`
+Snapshot ID: `Z9swdwAAAADnADFX68c8DY/IkzDFV+N2`

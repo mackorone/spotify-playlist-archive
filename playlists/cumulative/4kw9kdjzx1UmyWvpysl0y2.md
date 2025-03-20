@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-940 songs - 2 day 5 hr 12 min
+941 songs - 2 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,6 +472,7 @@
 | [Limitless](https://open.spotify.com/track/2zpxKZdSjm0J2VRIn8PpgH) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Existentia](https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP) | 3:48 | 2022-11-16 | 2023-02-09 |
 | [Lions](https://open.spotify.com/track/3Q3VJJYQEvFDl3wiBfthKZ) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Lions](https://open.spotify.com/album/53UBWp60OEikDwlHeoy0x3) | 3:52 | 2022-06-24 | 2022-09-09 |
 | [Lions \- VIP](https://open.spotify.com/track/5nDxkmW3YrWh6KfSMXcIKQ) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Lions \(VIP\)](https://open.spotify.com/album/11yUbbKozNofq5fixsJnPh) | 4:39 | 2022-12-05 | 2023-03-04 |
+| [LOCK N LOAD](https://open.spotify.com/track/3OA8WRnghM0VmLXFMTSKnr) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [LOCK N LOAD](https://open.spotify.com/album/50muUlnq0cgOylPOJYEppo) | 2:56 | 2025-03-19 |  |
 | [Lockdown](https://open.spotify.com/track/6EdnmlpuR9O7ZpUwonIih4) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Lockdown](https://open.spotify.com/album/6C2ezhjaFoS7V1GdHD3gbK) | 3:05 | 2023-11-17 | 2024-03-01 |
 | [Locked Away](https://open.spotify.com/track/4dDsN26EhF826uDrYz5BkX) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Courtney Drummey](https://open.spotify.com/artist/4sF2Kkq3hn0yTEGTNfanGl) | [Locked Away](https://open.spotify.com/album/6GeCiqBk5lBVg1pSY4MCBF) | 3:32 | 2021-11-19 | 2022-01-25 |
 | [Lois Eyes](https://open.spotify.com/track/5NLjv0kPAAk2Jjw6i3U4Ns) | [Manu Zain](https://open.spotify.com/artist/6MIXwGBFXAuLoaZ6s0fCT7) | [Lois Eyes](https://open.spotify.com/album/0tVGx4MmbLFWlNujwyUMGM) | 2:42 | 2022-08-17 | 2022-11-01 |

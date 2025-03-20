@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Zoë Më \(pictured\), Chappell Roan, Selena Gomez and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,003 likes - 114 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,002 likes - 114 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 57 | [GFY](https://open.spotify.com/track/33KNeop6x7cfUlSVyLMc8G) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [GFY](https://open.spotify.com/album/1LY9dpY70P8Ga2jRvuxwsq) | 2:54 |
 | 58 | [Con la faccia al sole e gli occhi chiusi](https://open.spotify.com/track/7dIdSjLWQDaRI9jAa5XcvK) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [Con la faccia al sole e gli occhi chiusi](https://open.spotify.com/album/7zKDDlYZ1VVOFXWfC8EEB1) | 8:19 |
 | 59 | [Wassereis](https://open.spotify.com/track/5VaENzXyuI6CVSvUADSaby) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl) | [Wassereis](https://open.spotify.com/album/2bKCwMFkxGS18vIFTeVq2F) | 2:38 |
-| 60 | [YEAH](https://open.spotify.com/track/2qlqMa0e422LZyGw1J5for) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [YEAH](https://open.spotify.com/album/3reHnBJbOMrlymwkwYqtEH) | 2:28 |
+| 60 | [YEAH](https://open.spotify.com/track/2qlqMa0e422LZyGw1J5for) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [YEAH](https://open.spotify.com/album/3reHnBJbOMrlymwkwYqtEH) | 2:28 |
 | 61 | [TOPFORM](https://open.spotify.com/track/0rpmJxyl4OcviY3NUVlbrL) | [Sic4rio](https://open.spotify.com/artist/6QxD4IzAkhf1FyXk11O7Ty) | [STRASSESYMPHONIE](https://open.spotify.com/album/2uuAnYgSXdtDDTm4XdNYew) | 2:27 |
 | 62 | [Crash](https://open.spotify.com/track/0Hf3fR6XKINmMB4Fey7TiH) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy) | [Digital Notes](https://open.spotify.com/album/6VnvZ5urI6jcvIJongGShJ) | 2:27 |
 | 63 | [Herzklopfen](https://open.spotify.com/track/6dLWasqyHJFkQqOGTrbeLO) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Herzklopfen](https://open.spotify.com/album/6EXiHynRnmQZXPIsQuVx2J) | 2:34 |

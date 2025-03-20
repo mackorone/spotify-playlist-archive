@@ -1,12 +1,12 @@
 {
   "description": "Listen to all your favorite Disney Princess songs.",
-  "num_followers": 955161,
+  "num_followers": 955248,
   "original_name": "Disney Princess",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8faVAAAAACMCrXVWWeGDQm2dLz5ZcRn",
+  "snapshot_id": "Z9tG0gAAAABjGHtiA4qFsn8q/qpFm//C",
   "tracks": [
     {
       "added_at": "2025-03-05 05:00:04",
@@ -63,6 +63,50 @@
       "duration_ms": 210320,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/2bwSCIuNtVrQPVddCi8sOW"
+    },
+    {
+      "added_at": "2025-03-19 22:36:02",
+      "album": {
+        "name": "Disney's Snow White (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1FJIB0BTHQk5iKf0GanfzF"
+      },
+      "artists": [
+        {
+          "name": "Hadley Fraser",
+          "url": "https://open.spotify.com/artist/72iF8bXdjmcjZnDWSedhNv"
+        },
+        {
+          "name": "Krystina Alabado",
+          "url": "https://open.spotify.com/artist/4xL2eFX2i8uGTzi2tT3b3u"
+        },
+        {
+          "name": "Dean Boodaghians-Nolan",
+          "url": "https://open.spotify.com/artist/6wfmHT50PYlvNfiR2IoBKx"
+        },
+        {
+          "name": "Jonathan Bourne",
+          "url": "https://open.spotify.com/artist/6ZZHU5wpfvMMQCuEh51LfN"
+        },
+        {
+          "name": "Felipe Bejarano",
+          "url": "https://open.spotify.com/artist/6iXxp2nKYhDTdrsN6Bk8T3"
+        },
+        {
+          "name": "Emilia Faucher",
+          "url": "https://open.spotify.com/artist/4xfgT2vTmb98BDO6dhObgt"
+        },
+        {
+          "name": "Disney's Snow White - Ensemble",
+          "url": "https://open.spotify.com/artist/4MwrYDsotlQH5tB0RHFinv"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "Good Things Grow",
+      "url": "https://open.spotify.com/track/7dSwgo4V8b6NjG1kw2AjzF"
     },
     {
       "added_at": "2024-08-16 20:19:47",

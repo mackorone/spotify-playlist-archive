@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 156454,
+  "num_followers": 156497,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAACdb24//SZKEoUqk9VC87Ay",
+  "snapshot_id": "Z9i3gAAAAADruyecyJmLM/7AdcwGfnlL",
   "tracks": [
     {
       "added_at": null,
@@ -283,34 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Constant",
-        "url": "https://open.spotify.com/album/318IRWz7xJ0zZXfo1A89Mu"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Jordin Sparks",
-          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
-        },
-        {
-          "name": "Anthony Gargiula",
-          "url": "https://open.spotify.com/artist/1UMf29qpHkgsJWD2uCMSEI"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 292185,
-      "name": "Constant (feat. Chandler Moore)",
-      "url": "https://open.spotify.com/track/0HqXI3iDAaABXnjjzxH44M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "YET (feat. Ashley Hess & the King will come)",
         "url": "https://open.spotify.com/album/5UrquVUYkl6qbyHkip4SNb"
       },
@@ -339,6 +311,34 @@
       "duration_ms": 350194,
       "name": "YET (feat. Ashley Hess & the King will come)",
       "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Constant",
+        "url": "https://open.spotify.com/album/318IRWz7xJ0zZXfo1A89Mu"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        },
+        {
+          "name": "Anthony Gargiula",
+          "url": "https://open.spotify.com/artist/1UMf29qpHkgsJWD2uCMSEI"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 292185,
+      "name": "Constant (feat. Chandler Moore)",
+      "url": "https://open.spotify.com/track/0HqXI3iDAaABXnjjzxH44M"
     },
     {
       "added_at": null,

@@ -1,13 +1,45 @@
 {
   "description": "my original music featured playlist, whether its fully original songs, covers, collabs, or songs i featured in!! [does not include instrumentals]",
-  "num_followers": 689,
+  "num_followers": 690,
   "original_name": "\ud83d\udc97kittydog songs featured playlist\ud83d\udc99",
   "owner": {
     "name": "kittydogcrystal",
     "url": "https://open.spotify.com/user/kittydogcrystal"
   },
-  "snapshot_id": "AAAAkS+Yl5yEeYr6IxIG8rkDVYbkC1jn",
+  "snapshot_id": "AAAAlKiDctPlDlvo/EJeKwyPVv9zEW39",
   "tracks": [
+    {
+      "added_at": "2025-03-19 09:52:47",
+      "album": {
+        "name": "WIN WIN WIN",
+        "url": "https://open.spotify.com/album/1tB0QyCUz3fJM5FVzvtdVN"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 172722,
+      "name": "WIN WIN WIN",
+      "url": "https://open.spotify.com/track/6eeRIbNpBDu98MRRUHl6ID"
+    },
+    {
+      "added_at": "2025-02-08 03:05:36",
+      "album": {
+        "name": "SO NUMB THAT SHE'S IN HELL!!!",
+        "url": "https://open.spotify.com/album/5dzEMs2kYYU98AixEZwAky"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 171455,
+      "name": "so numb that she's in hell - 2025 Version",
+      "url": "https://open.spotify.com/track/4Fa74jnKpzzfjU9zeDT07P"
+    },
     {
       "added_at": "2024-11-17 05:59:21",
       "album": {
@@ -1675,22 +1707,6 @@
       "duration_ms": 111920,
       "name": "my wedding vows (bandlab draft)",
       "url": "https://open.spotify.com/track/20tyjhMlh86gHLvWEglLwc"
-    },
-    {
-      "added_at": "2025-02-08 03:05:36",
-      "album": {
-        "name": "SO NUMB THAT SHE'S IN HELL!!!",
-        "url": "https://open.spotify.com/album/5dzEMs2kYYU98AixEZwAky"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 171455,
-      "name": "so numb that she's in hell - 2025 Version",
-      "url": "https://open.spotify.com/track/4Fa74jnKpzzfjU9zeDT07P"
     }
   ],
   "unique_name": "\ud83d\udc97kittydog songs featured playlist\ud83d\udc99",

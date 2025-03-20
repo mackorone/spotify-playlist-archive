@@ -1,12 +1,12 @@
 {
   "description": "This is Vanessa Zamora. The essential tracks, all in one playlist.",
-  "num_followers": 2758,
+  "num_followers": 2761,
   "original_name": "This Is Vanessa Zamora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAABcerwkDlw5ogEZW38bqusa",
+  "snapshot_id": "Z9i3gAAAAADN5FY6zBOtuDpoYY0HSQK3",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Muchacho De Los Ojos Tristes",
-        "url": "https://open.spotify.com/album/3P2c9Akr55Z2L6BBKN5zZ8"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 265017,
-      "name": "El Muchacho De Los Ojos Tristes",
-      "url": "https://open.spotify.com/track/2xylHY11vfS4dxGmQC7J3i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tornaluna",
         "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 315000,
       "name": "Solegrande",
       "url": "https://open.spotify.com/track/1ucbZ6xHcfJEpZXecucLfx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Muchacho De Los Ojos Tristes",
+        "url": "https://open.spotify.com/album/3P2c9Akr55Z2L6BBKN5zZ8"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 265017,
+      "name": "El Muchacho De Los Ojos Tristes",
+      "url": "https://open.spotify.com/track/2xylHY11vfS4dxGmQC7J3i"
     },
     {
       "added_at": null,

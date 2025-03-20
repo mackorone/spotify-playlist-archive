@@ -1,6 +1,6 @@
 {
   "description": "Rock y rumba para esos d\u00edas de sol, sangr\u00eda y amigxs.",
-  "num_followers": 102446,
+  "num_followers": 102473,
   "original_name": "Veranito a la Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
@@ -339,26 +339,18 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Esta Ma\u00f1ana Y Otros Cuentos",
-        "url": "https://open.spotify.com/album/7elo2R4JcIfWyQkFz40F5M"
+        "name": "El misterioso caso de Efecto Pasillo",
+        "url": "https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji"
       },
       "artists": [
         {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-        },
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Efecto Pasillo",
+          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
         }
       ],
-      "duration_ms": 225680,
-      "name": "Nada Fue Un Error - Live In Spain / 2005",
-      "url": "https://open.spotify.com/track/4DtFbe2JQrH3dDQVcOkVp6"
+      "duration_ms": 202146,
+      "name": "Pan y mantequilla",
+      "url": "https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -379,18 +371,26 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "El misterioso caso de Efecto Pasillo",
-        "url": "https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji"
+        "name": "Esta Ma\u00f1ana Y Otros Cuentos",
+        "url": "https://open.spotify.com/album/7elo2R4JcIfWyQkFz40F5M"
       },
       "artists": [
         {
-          "name": "Efecto Pasillo",
-          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        },
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 202146,
-      "name": "Pan y mantequilla",
-      "url": "https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH"
+      "duration_ms": 225680,
+      "name": "Nada Fue Un Error - Live In Spain / 2005",
+      "url": "https://open.spotify.com/track/4DtFbe2JQrH3dDQVcOkVp6"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/4XIrvN5W5fTbTRrSnFN2Ny"
-      },
-      "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        }
-      ],
-      "duration_ms": 194870,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/5Aax4WuBCyiVp4NDB3lg5j"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "El Peor Grupo del Mundo",
         "url": "https://open.spotify.com/album/2JQ398pv4WeQPslHlFzrtP"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 266623,
       "name": "Carreteras Infinitas",
       "url": "https://open.spotify.com/track/2Q6qD1YTFn7NHuy2WmMGPG"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/4XIrvN5W5fTbTRrSnFN2Ny"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "duration_ms": 194870,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/5Aax4WuBCyiVp4NDB3lg5j"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Cosas Mias",
-        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
-      },
-      "artists": [
-        {
-          "name": "Antonio Flores",
-          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Isla de Palma",
-      "url": "https://open.spotify.com/track/1kh34PhgrmoKlfxzKjOTl7"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Gracias",
         "url": "https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 231706,
       "name": "Que yo no lo sab\u00eda (feat. Antonio Vega)",
       "url": "https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Cosas Mias",
+        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Flores",
+          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Isla de Palma",
+      "url": "https://open.spotify.com/track/1kh34PhgrmoKlfxzKjOTl7"
     },
     {
       "added_at": "2022-01-25 22:47:02",

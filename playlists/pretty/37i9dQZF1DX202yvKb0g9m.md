@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 
 > A collection of tracks produced with the legendary TB\-303 rhythm composer\. Cover: Richie Hawtin
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,167 likes - 50 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,204 likes - 50 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 8 | [Problèmes d'Amour \- Original](https://open.spotify.com/track/4xeQXFdKrNPQcGyze66bIx) | [Alexander Robotnick](https://open.spotify.com/artist/4ssHihhGpCx4eftfzAI3jq) | [Problèmes D'amour \(All Versions\)](https://open.spotify.com/album/3WV1F6sgTj0Dw5UISLb5HB) | 7:00 |
 | 9 | [Do I Do \- Extended Mix](https://open.spotify.com/track/26qBSwDTiiydtbXibx6fuq) | [Maurice McGee](https://open.spotify.com/artist/5LjPmruRksinKkKw8s81H2) | [Do I Do](https://open.spotify.com/album/1HVxSZYaIqn7ckoaIUhy5C) | 7:14 |
 | 10 | [Sumo Acid Crew](https://open.spotify.com/track/1AFkWwrrMMdeOocF4yB9rd) | [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA) | [In Gold](https://open.spotify.com/album/6RuqX6Qra8dmcmYJQ5ffcR) | 6:19 |
-| 11 | [At Night \- Peggy Gou's Acid Journey Remix](https://open.spotify.com/track/2S07r08uP4VjkbEkHgt3ot) | [Shakedown](https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [At Night \(Remixes\)](https://open.spotify.com/album/4F5OnBWfJa7YfjRZ86bZc8) | 7:11 |
-| 12 | [Bowie in Harmony](https://open.spotify.com/track/0h3h7Mcu8m3Iw6MUQAWbsK) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Alientronic](https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy) | 6:22 |
+| 11 | [Bowie in Harmony](https://open.spotify.com/track/0h3h7Mcu8m3Iw6MUQAWbsK) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Alientronic](https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy) | 6:22 |
+| 12 | [At Night \- Peggy Gou's Acid Journey Remix](https://open.spotify.com/track/2S07r08uP4VjkbEkHgt3ot) | [Shakedown](https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [At Night \(Remixes\)](https://open.spotify.com/album/4F5OnBWfJa7YfjRZ86bZc8) | 7:11 |
 | 13 | [Substance Abuse](https://open.spotify.com/track/3yo5BnK1cWRuAIMbJReCMZ) | [F.U.S.E.](https://open.spotify.com/artist/6qRKwyDhiTu2n9cOhbHict), [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Substance Abuse](https://open.spotify.com/album/2KLpnpPRuDx24So8bHiBXw) | 5:06 |
 | 14 | [Himmel & Hoelle](https://open.spotify.com/track/2ZWEJmCklMmKdytwexl2Ew) | [Thomas P\. Heckmann](https://open.spotify.com/artist/4QLCqJ3RSF3y6DdvboPk9m) | [Electronic Body Music](https://open.spotify.com/album/0XJ6C268pcL4F5QjxFt0Ec) | 7:24 |
 | 15 | [Acid Tracks](https://open.spotify.com/track/63eiF9VouGtmhiBKjm1LHU) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Acid Tracks](https://open.spotify.com/album/3yXJAOqJTv38NrPlwzCZro) | 12:19 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 26 | [Confusion \- Pump Panel Reconstruction Mix](https://open.spotify.com/track/3QDbZBqR93chaaMuNScmrc) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Blade The Soundtrack](https://open.spotify.com/album/5BwN4Go6f0QUAO3xVPoj38) | 10:12 |
 | 27 | [Higher State of Consciousness \- Tweekin Acid Funk](https://open.spotify.com/track/3j8MepYimsCw55JuRz7ZuD) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [Higher State Of Consciousness](https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S) | 6:17 |
 | 28 | [In Silence](https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [A\-Sides, Vol\. 6](https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh) | 6:33 |
-| 29 | [Can You Feel It](https://open.spotify.com/track/2jwRKUOBoN1hiMFuuKdIJE) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Washing Machine](https://open.spotify.com/album/3tSYs4sadLjOKX7eNRZp8I) | 5:44 |
-| 30 | [Rip It Up](https://open.spotify.com/track/1eamsmwcYYhJwTgMFdQ6YN) | [Orange Juice](https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu) | [Rip It Up](https://open.spotify.com/album/2O1rwWqABLUHmFnmQxOt6F) | 5:20 |
+| 29 | [Rip It Up](https://open.spotify.com/track/1eamsmwcYYhJwTgMFdQ6YN) | [Orange Juice](https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu) | [Rip It Up](https://open.spotify.com/album/2O1rwWqABLUHmFnmQxOt6F) | 5:20 |
+| 30 | [Can You Feel It](https://open.spotify.com/track/2jwRKUOBoN1hiMFuuKdIJE) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Washing Machine](https://open.spotify.com/album/3tSYs4sadLjOKX7eNRZp8I) | 5:44 |
 | 31 | [Winona](https://open.spotify.com/track/5yDZCMX6kiySxu3GCmzFEN) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Winona](https://open.spotify.com/album/4CTSfWR9lI775WYMCU77BK) | 8:31 |
 | 32 | [Acid Thunder](https://open.spotify.com/track/25cVyUYzONCdHUeFWKbOol) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Jack to the Sound](https://open.spotify.com/album/3igGT17KIQSSgdugsQELLh) | 4:32 |
 | 33 | [Everybody Needs A 303](https://open.spotify.com/track/3kKa6jshpLfxKW9GOb3IXK) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Better Living Through Chemistry \(20th Anniversary Edition\)](https://open.spotify.com/album/2GWrgTg7zDKCz1FxxG6htP) | 5:48 |

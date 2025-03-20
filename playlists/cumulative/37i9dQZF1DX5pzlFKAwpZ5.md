@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. Kenichiro Isoda on cover.
 
-298 songs - 22 hr 16 min
+299 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [horizon](https://open.spotify.com/track/19Rms0r43i2fLRAoaUEYuV) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0) | [horizon](https://open.spotify.com/album/40Wq6rw9mbo4N4e0dNqMzJ) | 2:30 | 2024-11-15 |  |
 | [hoshisayuru](https://open.spotify.com/track/40vwaUbcDvJKO0lLdl4aWC) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [above the northern skies shown](https://open.spotify.com/album/6ix0ytl7g6oX25BhW6omzW) | 5:55 | 2022-01-07 |  |
 | [hue](https://open.spotify.com/track/2PRWUAyqmp0OA5i7VFseXl) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [hue](https://open.spotify.com/album/1iZPZAw6xNwXuQfRgx5EB4) | 2:36 | 2024-08-08 | 2025-01-27 |
-| [Ice Copy](https://open.spotify.com/track/4YleYbTBE8XmKs5fhuu06c) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 2:55 | 2022-12-30 |  |
+| [Ice Copy](https://open.spotify.com/track/4YleYbTBE8XmKs5fhuu06c) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 2:55 | 2022-12-30 | 2025-03-20 |
 | [Ike](https://open.spotify.com/track/6tmWAG5SEJMqVDQmGDGvLp) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:28 | 2022-01-07 |  |
 | [In The Forest of Syrinx](https://open.spotify.com/track/7MsE9rH9EZH8AlocDpHQ0N) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Onnen Bock](https://open.spotify.com/artist/5asDcrPfBpJDJNe1ocbjdf), [松﨑裕子](https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a) | [MOON GARDEN](https://open.spotify.com/album/0j6HWiO4nQi5vR866jGjk5) | 9:30 | 2025-02-09 |  |
 | [In the Wind \- Moshimoss Rework](https://open.spotify.com/track/1UVQ4KZFm95FEjzgwZaQ6K) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Moshimoss](https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme) | [In the Wind \(Moshimoss Rework\)](https://open.spotify.com/album/1bf1hHXUcWG0jYe6Xzli1u) | 6:58 | 2022-12-20 |  |
@@ -129,7 +129,7 @@
 | [Kaiketu](https://open.spotify.com/track/40QroEBlHB5yyQQZdOECdh) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Konomama](https://open.spotify.com/album/0Xp5gDINnEjsj92TPIcaMH) | 3:15 | 2022-02-22 | 2023-07-07 |
 | [Kansai](https://open.spotify.com/track/1lRmIEvPzmp1z2MB1Y2jzB) | [The Kyoto Connection](https://open.spotify.com/artist/6l13uPtVBgHB3gfpimh7Rb) | [Postcards](https://open.spotify.com/album/5ChAbDpWAXnCOPtsyTFmlY) | 3:38 | 2022-01-07 |  |
 | [Kernel](https://open.spotify.com/track/58F27RlxevRB7p4e1Bm5TK) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Kernel](https://open.spotify.com/album/6eAyylPBXwxNOYr7ZbtKCq) | 1:56 | 2024-12-14 |  |
-| [Kibou](https://open.spotify.com/track/2XJeHGe5YMCJgfKbsfCONV) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Kibou](https://open.spotify.com/album/0ohwM6AWnYHFfVeltMAiCq) | 3:32 | 2023-01-13 | 2025-03-16 |
+| [Kibou](https://open.spotify.com/track/2XJeHGe5YMCJgfKbsfCONV) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Kibou](https://open.spotify.com/album/0ohwM6AWnYHFfVeltMAiCq) | 3:32 | 2023-01-13 |  |
 | [Kiteki](https://open.spotify.com/track/01Vg2gmX03mM3ku0MD9FKC) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [Minamo](https://open.spotify.com/album/0lOOVHHIPOxHfOPdD9dRKJ) | 3:58 | 2023-07-06 | 2025-01-25 |
 | [Kiteki](https://open.spotify.com/track/5ElIBhljMv506V5OZChLbW) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [Minamo](https://open.spotify.com/album/5PxpE5M4KNm4pl1EKbsCjc) | 3:58 | 2023-10-13 | 2024-04-19 |
 | [Koboreta Hoshi to Tabishitara](https://open.spotify.com/track/4cN1xytfLHzkPQcEa9fllX) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5), [平井真美子](https://open.spotify.com/artist/5wUTdxprsjdcb3Gwg0sXVx) | [Hikari no kaikou](https://open.spotify.com/album/4wiqics4KOw3tjxMwH8ahU) | 3:03 | 2023-09-22 |  |
@@ -139,7 +139,7 @@
 | [Körper](https://open.spotify.com/track/22FN9G9qwPwABohAaYzcAg) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Raum](https://open.spotify.com/album/7EnDzySppi2dvBGEFFcmHu) | 5:55 | 2022-01-07 | 2025-01-25 |
 | [Körper](https://open.spotify.com/track/5LoatYCsraVXB08X6bhpzO) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Raum](https://open.spotify.com/album/1CPBp6tHWeEUM87bEBCpxS) | 5:55 | 2022-10-15 | 2024-04-19 |
 | [La Cathédrale Engloutie](https://open.spotify.com/track/0GiSKGYCdQtGXDSCmSxuVb) | [sora](https://open.spotify.com/artist/60rjr3iSJCziVvOXnOc3W7) | [Re.sort](https://open.spotify.com/album/0gmoU3UdCGhMi1L9WqGQE9) | 4:04 | 2022-01-07 | 2022-12-21 |
-| [Lachrymation](https://open.spotify.com/track/5SCIlWl5oI8QmSgF9j5mjr) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Lachrymation](https://open.spotify.com/album/4av2tDxEG9t4rlssx6XJUT) | 3:59 | 2022-01-07 |  |
+| [Lachrymation](https://open.spotify.com/track/5SCIlWl5oI8QmSgF9j5mjr) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Lachrymation](https://open.spotify.com/album/4av2tDxEG9t4rlssx6XJUT) | 3:59 | 2022-01-07 | 2025-03-20 |
 | [Leaving](https://open.spotify.com/track/2VsCSKol8i9vHyc9S1kI7y) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Leaving](https://open.spotify.com/album/1DyDhZGMs0ta4AFDPgJGTT) | 3:43 | 2023-10-13 | 2024-03-08 |
 | [Liberty](https://open.spotify.com/track/2pv4n0WhR3f0IayyG0lc4z) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Envision](https://open.spotify.com/album/2lnwd16ApEAAJ0GNqH7SNq) | 2:39 | 2022-01-07 |  |
 | [Life, Life](https://open.spotify.com/track/63MjNIL7Jsz6uqqE39YCFr) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/55BwNuGPkSSKOCBkTSCQWA) | 4:23 | 2022-01-07 | 2024-08-09 |
@@ -302,6 +302,7 @@
 | [氷雨](https://open.spotify.com/track/76dAXmTFhZtxPP1ncZGzJM) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [Rain Studies](https://open.spotify.com/album/074za5MLXcINIJSOlIxLpn) | 5:56 | 2022-01-07 |  |
 | [漂失](https://open.spotify.com/track/5Jc7G1wCxHexeZmiYiixle) | [Yasutaka Okada](https://open.spotify.com/artist/0zusZBbK9iV4XdhC77Ai8S) | [漂失](https://open.spotify.com/album/6S0HAqS4jFeTbvwwS7AjCh) | 5:45 | 2025-02-11 |  |
 | [甘い塊](https://open.spotify.com/track/0mx3zg2cSgmkl85lxrj5G7) | [Naohito Uchiyama](https://open.spotify.com/artist/04uIs0KHmV0KwDUalfwXpb) | [雪と電気](https://open.spotify.com/album/4oGm40jnKa42r3IsCZW7M3) | 5:57 | 2022-01-07 | 2023-07-07 |
+| [精霊の踊り \(Dance of Spirits\)](https://open.spotify.com/track/6RLy01kjD0u0s71VsepdKS) | [松﨑裕子](https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a) | [精霊の踊り \(Dance of Spirits\)](https://open.spotify.com/album/0EnqLksnO1ri2diRxUXeSm) | 6:12 | 2025-03-06 |  |
 | [蜘蛛の糸](https://open.spotify.com/track/68juTig6XWjRTfDu3d1TxU) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [蜘蛛の糸](https://open.spotify.com/album/28wOPkkFC0q7Gsh7X3EXvc) | 5:29 | 2022-01-07 | 2025-01-25 |
 | [銀の船](https://open.spotify.com/track/5BeIxIMY0exSWc7LyPrchH) | [Yumiko Morioka](https://open.spotify.com/artist/65qxdUIxnh54KIpE7zfS4o) | [Resonance](https://open.spotify.com/album/51wuR1THuIkmMQONEN7ztk) | 5:21 | 2022-12-30 |  |
 | [雨音](https://open.spotify.com/track/4YUGDSUgPapHEtsBry5aWI) | [木原健児](https://open.spotify.com/artist/6Q1QTDtWjKSeeZ0IqpVdQJ) | [日々](https://open.spotify.com/album/4fNnKIXrr4UV5F2LwB2akT) | 11:56 | 2022-01-07 | 2024-08-09 |

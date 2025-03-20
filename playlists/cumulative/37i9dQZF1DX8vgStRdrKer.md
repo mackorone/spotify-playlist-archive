@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz?si=vifkgyFKR6mKTqLFn5uJvg>Prinx Emmanuel</a>
 
-273 songs - 22 hr 4 min
+274 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Baba](https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Baba](https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp) | 3:31 | 2024-04-05 | 2024-09-03 |
 | [BBTNTL](https://open.spotify.com/track/2oJktKr5udS1gtY8egIBPx) | [Xammie](https://open.spotify.com/artist/6Zc3JsghzKESNYD9CfAvqG) | [BBTNTL](https://open.spotify.com/album/1zdAcSx1879EaMTUB6j317) | 2:49 | 2024-02-16 | 2024-04-27 |
 | [Beautiful Thing](https://open.spotify.com/track/2cknVxUrW4KU6nvlqWcHaK) | [Wole Awolola](https://open.spotify.com/artist/12d2r8OZUkD46KXYvB1uez) | [Beautiful Thing](https://open.spotify.com/album/4PbdAXf6e5aecwIqEt21G1) | 5:20 | 2025-02-21 | 2025-03-07 |
-| [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 | 2024-01-26 |  |
+| [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 | 2024-01-26 | 2025-03-20 |
 | [Blessed Year](https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Vin Mokay](https://open.spotify.com/artist/4H3x6M1mNufxM9SANBPTqz) | [Blessed Year](https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW) | 3:04 | 2024-01-26 | 2024-08-22 |
 | [Bobby](https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Bobby](https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz) | 2:48 | 2024-03-08 | 2024-04-13 |
 | [Brighter Days](https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:28 | 2023-09-15 | 2024-03-16 |
@@ -57,6 +57,7 @@
 | [Commando](https://open.spotify.com/track/72cRQRzXJLUM3Rbf1vyxtz) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Commando](https://open.spotify.com/album/20pJmzUPNbycWcja0hdpmr) | 3:31 | 2023-12-01 | 2024-03-16 |
 | [Congratulations](https://open.spotify.com/track/66BBI9oQqeABCpHkEUVqgW) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [Congratulations](https://open.spotify.com/album/4WM4SgukPTr9ZRXzkIzD36) | 3:06 | 2024-06-07 | 2024-07-12 |
 | [Count My Blessings](https://open.spotify.com/track/43ZHlCWp1TAA1dyMxNh28L) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Count My Blessings](https://open.spotify.com/album/7cr2lkX9TqXS0uN0v5lPoX) | 2:42 | 2024-07-19 |  |
+| [Covenant Keeping God](https://open.spotify.com/track/1hhgSr6jl97R9znizeUrM0) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Covenant Keeping God](https://open.spotify.com/album/4t0pkEmKEjMyBB1sq3UjXp) | 13:56 | 2025-02-28 |  |
 | [Cover me](https://open.spotify.com/track/6sqMQERyWBeO0VI3TrbmVP) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Cover me](https://open.spotify.com/album/0mkQUdyVmm7l1mSfPYGLFs) | 2:37 | 2024-05-24 | 2024-06-07 |
 | [Darling Jesus \- Special Version](https://open.spotify.com/track/5KzsS5i3EVocEZGCX0vLkU) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [Darling Jesus \(Special Version\)](https://open.spotify.com/album/6cKiy88I1xKv5MVWflVCOa) | 3:26 | 2024-02-09 | 2024-10-04 |
 | [DAY OF THE LORD](https://open.spotify.com/track/2PZNojC4NNmMM4l3790LJC) | [REFUGE WRSHP](https://open.spotify.com/artist/6tF26GNNvbuamuugTTBiGE) | [DAY OF THE LORD](https://open.spotify.com/album/28sHaz4Rcsy7grBT9OkARL) | 7:07 | 2024-04-26 | 2024-05-16 |

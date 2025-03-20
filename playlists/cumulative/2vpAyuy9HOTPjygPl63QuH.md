@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-2,132 songs - 5 day 0 hr 34 min
+2,133 songs - 5 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -638,6 +638,7 @@
 | [Focus](https://open.spotify.com/track/3Qn7vRZLV23lPtVrFhnWqT) | [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp) | [Focus](https://open.spotify.com/album/31aYwpLC5SPqCiqvHQcrPS) | 3:05 | 2023-09-15 | 2023-09-23 |
 | [Foggy Geezer](https://open.spotify.com/track/1nOYPvqoAW6cZS7LmowdvW) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Foggy Geezer](https://open.spotify.com/album/2ARTpw5C9AyI3fOwEpGbyG) | 3:04 | 2022-06-24 | 2022-07-02 |
 | [Follow](https://open.spotify.com/track/0ysBN9XI9EDyFgUFIQC4PN) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Little Fritter](https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo) | [Follow](https://open.spotify.com/album/1jIshdCAl5H8RcM0qswf60) | 3:10 | 2023-12-08 | 2024-01-21 |
+| [Fool](https://open.spotify.com/track/5Cka1qQJWHok6KbEwY1FEm) | [Sides of the Sun](https://open.spotify.com/artist/2DKXVfUseu9jhQ66Rt7Rb4) | [Fool](https://open.spotify.com/album/1aWRrrDnXEjAp43VTP6W8Z) | 3:06 | 2025-03-19 |  |
 | [Fool For Love \- Chris Lake Edit](https://open.spotify.com/track/6H8ddHe7Bpbiy5Gp7lVlBe) | [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Fool For Love \(Chris Lake Edit\)](https://open.spotify.com/album/4kCcxdrbnQUJmWjvYoYVRf) | 3:59 | 2023-06-30 | 2023-07-16 |
 | [Footsteps In The Dark](https://open.spotify.com/track/1WToidzLI7Fx6TwBuJCsWU) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys) | [Dance Lapse](https://open.spotify.com/album/2b4NPwke84IRf676LoKaVZ) | 6:10 | 2022-11-05 | 2022-11-12 |
 | [For My People](https://open.spotify.com/track/3lSxXHv30zKTnndpsRwldO) | [Danny Rhys](https://open.spotify.com/artist/2M6Re1FK8R8PfaKrlpF19S), [Kid Enigma](https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE) | [For My People](https://open.spotify.com/album/5vZm8JRmvU0webKBjI4hl1) | 3:35 | 2024-06-21 | 2024-07-13 |

@@ -1047,6 +1047,24 @@
     },
     {
       "album": {
+        "name": "The Standard School Broadcast Recordings",
+        "url": "https://open.spotify.com/album/1WluxAF05BgxgtR8C9o8ar"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 542862,
+      "name": "I Hate the Day I Was Born",
+      "url": "https://open.spotify.com/track/2HvLBlX0nqCQWmrGycAFu2"
+    },
+    {
+      "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/6X76YOntJCyiiFvaIZgRdA"
       },
@@ -1774,7 +1792,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 145551,
       "name": "No Shoes",
       "url": "https://open.spotify.com/track/5hKvkvpH0vd3NyuCuTbZf1"

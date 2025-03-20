@@ -572,6 +572,14 @@
         {
           "name": "Ikka",
           "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Shabbir Ahmed",
+          "url": "https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1"
         }
       ],
       "date_added": "2023-06-08",
@@ -2748,7 +2756,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 200568,
       "name": "Heart Throb (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/5DmF6BrczaziIcPglsiAq8"
@@ -3462,7 +3470,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 258893,
       "name": "Khalibali",
       "url": "https://open.spotify.com/track/3JT0mVof65rIHpRZITwRx1"
@@ -3614,7 +3622,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-06",
+      "date_removed": null,
       "duration_ms": 306582,
       "name": "Laila Main Laila",
       "url": "https://open.spotify.com/track/0eNiqkazTEYJJ8fMRPyJx8"
@@ -4996,7 +5004,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 247152,
       "name": "Peelings [HINDI]",
       "url": "https://open.spotify.com/track/44hBx9rDmlkHlm3ZJZFzvT"
@@ -5918,6 +5926,14 @@
         {
           "name": "Badshah",
           "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Indeevar",
+          "url": "https://open.spotify.com/artist/72JrtarVilyjpFdwa3qgpF"
         }
       ],
       "date_added": "2021-04-08",
@@ -6281,6 +6297,32 @@
     },
     {
       "album": {
+        "name": "The Wakhra Song (From \"Judgementall Hai Kya\")",
+        "url": "https://open.spotify.com/album/4v483dY2a1RHR66QPJlGUA"
+      },
+      "artists": [
+        {
+          "name": "Navv Inder",
+          "url": "https://open.spotify.com/artist/7GPyedHMvKTiM2OfXc0MVv"
+        },
+        {
+          "name": "Lisa Mishra",
+          "url": "https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs"
+        },
+        {
+          "name": "Raja Kumari",
+          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "The Wakhra Song - From \"Judgementall Hai Kya\"",
+      "url": "https://open.spotify.com/track/0lEn5SCNvhfThoXFBksz9r"
+    },
+    {
+      "album": {
         "name": "Bhediya (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1tDqw5PVgd8b8pi26vCGsB"
       },
@@ -6622,6 +6664,32 @@
       "duration_ms": 312960,
       "name": "Tune Maari Entriyaan (From \"Gunday\")",
       "url": "https://open.spotify.com/track/4GVNaX8tB7X14lv2hnUm3e"
+    },
+    {
+      "album": {
+        "name": "Raees (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5htEa8wThL3TBnRLmsuxzD"
+      },
+      "artists": [
+        {
+          "name": "Bhoomi Trivedi",
+          "url": "https://open.spotify.com/artist/16IWQKGP5XiiKxalXZuIMZ"
+        },
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "name": "Karsan Sagathia",
+          "url": "https://open.spotify.com/artist/4zhIkiQG4uwX1aglCB89fQ"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260506,
+      "name": "Udi Udi Jaye",
+      "url": "https://open.spotify.com/track/5J5Oam2frcy5zQnOCb3Cdr"
     },
     {
       "album": {

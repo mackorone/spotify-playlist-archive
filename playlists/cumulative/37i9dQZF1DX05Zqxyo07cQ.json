@@ -2943,6 +2943,24 @@
     },
     {
       "album": {
+        "name": "Dimmed Light",
+        "url": "https://open.spotify.com/album/7CHL1omMAmsCF9B25bT11e"
+      },
+      "artists": [
+        {
+          "name": "Universal Embrace",
+          "url": "https://open.spotify.com/artist/5gHFFsg1nxyuK4dwL7eEpY"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179154,
+      "name": "Dimmed Light",
+      "url": "https://open.spotify.com/track/7zNoicQ4RSRfWzyMH9uf4j"
+    },
+    {
+      "album": {
         "name": "Dinlenmek",
         "url": "https://open.spotify.com/album/6Nhn7DsXIg6clkyhoPmWGT"
       },
@@ -4196,7 +4214,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 177600,
       "name": "Evangeline",
       "url": "https://open.spotify.com/track/2qO8aQQot1zPqyh02831Xs"
@@ -6320,7 +6338,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 147946,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/0LNiw2LKUcJG80ciSFQnLu"
@@ -6666,6 +6684,24 @@
       "duration_ms": 174500,
       "name": "Make It Last",
       "url": "https://open.spotify.com/track/3BXxpljx5qawevsOU6UzHY"
+    },
+    {
+      "album": {
+        "name": "Mandala",
+        "url": "https://open.spotify.com/album/0LKpvbQooDpOM3UGQTrViI"
+      },
+      "artists": [
+        {
+          "name": "Marc Veil",
+          "url": "https://open.spotify.com/artist/5YHPMNDsxSX4O6XVgnCukg"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143024,
+      "name": "Mandala",
+      "url": "https://open.spotify.com/track/5iW98p3r3bR9N7JGHlMCI0"
     },
     {
       "album": {

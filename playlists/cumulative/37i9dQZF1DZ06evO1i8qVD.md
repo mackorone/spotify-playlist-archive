@@ -4,7 +4,7 @@
 
 > This is Buddy Guy\. The essential tracks, all in one playlist.
 
-116 songs - 8 hr 33 min
+117 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Few Good Years](https://open.spotify.com/track/6MT9ikZ0SnOU48rBMReIAT) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 4:47 | 2022-08-05 |  |
 | [A Man And The Blues](https://open.spotify.com/track/5vbw9boDHRHLZiv90e2ZVx) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 6:23 | 2022-08-05 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/1amH1FjaNDAaZVpHWzcztW) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Bring 'Em In](https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6) | 3:24 | 2022-08-05 |  |
+| [All That Makes Me Happy Is the Blues](https://open.spotify.com/track/7hsbxGPIEBr9G2wP9cTO2L) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 4:36 | 2025-03-20 |  |
 | [Baby Please Don't Leave Me](https://open.spotify.com/track/7JECM65zNFrYIHdvxj8NbO) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Sweet Tea](https://open.spotify.com/album/7bkjnyiMG8mXzmEyfY49wD) | 7:22 | 2022-08-05 | 2022-10-13 |
 | [Back Up Mama](https://open.spotify.com/track/47WHiyCLg0ZEoPVwxgikcX) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 4:41 | 2022-09-26 | 2022-09-29 |
 | [Best in Town](https://open.spotify.com/track/5sPZH5scVV63witIumgJIa) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 4:55 | 2022-08-05 | 2022-10-09 |
@@ -63,7 +64,7 @@
 | [I've Got A Right To Love My Woman](https://open.spotify.com/track/17E130U5fvS7rbMrVnbanP) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Live At The Checkerboard Lounge \- Chicago 1979](https://open.spotify.com/album/3uU8G6JPjc63efWkuJLHNb) | 9:11 | 2022-08-13 | 2022-08-15 |
 | [I've Got Dreams To Remember](https://open.spotify.com/track/3rxqTIzSZGHpjG0NBleFjH) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Bring 'Em In](https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6) | 4:56 | 2022-08-05 |  |
 | [It's Still Called The Blues \- Live](https://open.spotify.com/track/1oYtMsDHNpPflyWaaQ9XVq) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Things I Used To Do \(Live Las Vegas '86\)](https://open.spotify.com/album/5vekeXeRFzpqzwXsYFOsSg) | 9:37 | 2023-04-18 | 2023-04-20 |
-| [Jam On A Monday Morning](https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 2:52 | 2022-08-05 |  |
+| [Jam On A Monday Morning](https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 2:52 | 2022-08-05 | 2025-03-20 |
 | [Just Teasin'](https://open.spotify.com/track/7qR9FrZIWNzOMkfzjINkiH) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [DJ Play My Blues](https://open.spotify.com/album/0wN1Cv8D4Ht38g8TMx7psy) | 4:42 | 2022-12-23 |  |
 | [King Bee](https://open.spotify.com/track/6GZkEkSpk1eLUQNlP5JmVm) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Don't Lie](https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp) | 2:44 | 2022-10-09 | 2022-10-13 |
 | [Last Man Standing](https://open.spotify.com/track/1ra4PQfZO9AbLTT0V8xu1D) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Last Man Standing](https://open.spotify.com/album/3DL8TS4vqj6jVeyCnbMdgn) | 3:32 | 2025-02-25 |  |

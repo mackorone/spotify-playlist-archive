@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 
 > This is Tony! Toni! Toné!\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,826 likes - 40 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,835 likes - 40 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 | 22 | [My Ex\-Girlfriend](https://open.spotify.com/track/0jatcRk16ATM6EskYTDH5r) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Sons Of Soul](https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV) | 4:52 |
 | 23 | [For The Love Of You](https://open.spotify.com/track/3ANSh2reDuVISVbT39FKMj) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 5:37 |
 | 24 | [Tossin' & Turnin'](https://open.spotify.com/track/1FhB7G89CAjBBSKw8k2wOS) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 4:50 |
-| 25 | [House Party II \(I Don't Know What You Come To Do\) \- Radio Edit](https://open.spotify.com/track/3IKx5lW7d4O91KgEn5grej) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Party II \(I Don't Know What You Come To Do\)](https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI) | 5:21 |
+| 25 | [Waiting For You](https://open.spotify.com/track/0B1u3npvHJrld0nW95xIwC) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Poetic Justice: Music from the Motion Picture](https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3) | 5:13 |
 | 26 | [Leavin'](https://open.spotify.com/track/0hUcwyaNHdR9961jFWrIoX) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Sons Of Soul](https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV) | 5:15 |
 | 27 | [Baby Doll](https://open.spotify.com/track/1ngKdyfldl9J65GryhAxrp) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 5:42 |
-| 28 | [Waiting For You](https://open.spotify.com/track/0B1u3npvHJrld0nW95xIwC) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Poetic Justice: Music from the Motion Picture](https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3) | 5:13 |
-| 29 | [Sky's The Limit](https://open.spotify.com/track/5QxNSef6QOAmBTTwdgTtiV) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:38 |
-| 30 | [Annie May](https://open.spotify.com/track/1ZezWEaXuak05CB5jPGw15) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Hits](https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g) | 5:46 |
+| 28 | [House Party II \(I Don't Know What You Come To Do\) \- Radio Edit](https://open.spotify.com/track/3IKx5lW7d4O91KgEn5grej) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Party II \(I Don't Know What You Come To Do\)](https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI) | 5:21 |
+| 29 | [Annie May](https://open.spotify.com/track/1ZezWEaXuak05CB5jPGw15) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Hits](https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g) | 5:46 |
+| 30 | [Sky's The Limit](https://open.spotify.com/track/5QxNSef6QOAmBTTwdgTtiV) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:38 |
 | 31 | [Who's Lovin You](https://open.spotify.com/track/7qfxFwr5VFD4v7ojFfQUgp) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 4:21 |
 | 32 | [House Party II \(I Don't Know What You Come To Do\) \- Single Version](https://open.spotify.com/track/3VunH0kgoUEcR4Yq6ACgCH) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Party II \(I Don't Know What You Come To Do\)](https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI) | 4:15 |
 | 33 | [More than Flowers](https://open.spotify.com/track/5sstkTEqnB157mqoe3qytV) | [Iam Astro](https://open.spotify.com/artist/6M5Zqx04FgTOT9hFQ3127P), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [More than Flowers](https://open.spotify.com/album/57ZDomiOueTXgd8bEqbNx9) | 3:07 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 | 39 | [Born Not To Know](https://open.spotify.com/track/6Ix4EuZQQNQFUpXT8EQmM7) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 4:45 |
 | 40 | [Whatever U Want](https://open.spotify.com/track/6bITSikk8EJ3CQaXf7ohEv) | [Lighter Shade Of Brown](https://open.spotify.com/artist/7AyywyUcQP99oit737gZK2), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Thump's Hottest Party Hits](https://open.spotify.com/album/6WSbtX9qFTK4LiiOWogV1S) | 3:58 |
 
-Snapshot ID: `Z9dmAAAAAAC96BGds4hc23hPAz3A7gCd`
+Snapshot ID: `Z9i3gAAAAAC5Kc5VhHyS4C0u4tntwubP`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/56ZBiYuSM6W68EojT5WORo">Blush Davis</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312 likes - 51 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 313 likes - 51 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 22 | [雪明かり \(Yukiakari\)](https://open.spotify.com/track/00nY3yhV4PttPKeoTnb2UG) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [雪明かり \(Yukiakari\)](https://open.spotify.com/album/6Y72DbWH9RBBVh8XNIGY16) | 3:13 |
 | 23 | [Pokémon](https://open.spotify.com/track/7n5DdRu1zLuw4yamf4dGZ7) | [Die Antwoord](https://open.spotify.com/artist/6urkHDoIVO1WO8vNIwcJmM) | [Pokémon](https://open.spotify.com/album/1ffliwfQKRLMoOnmn5VWKw) | 4:26 |
 | 24 | [I Want You](https://open.spotify.com/track/59sRxIltnBLAWzaTeV05xd) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [I Want You](https://open.spotify.com/album/7Dq0zfGilniudyVzvZg3rn) | 2:53 |
-| 25 | [Too Weak](https://open.spotify.com/track/0IwnyVENCHeAnSPA8xcG14) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Coming Home](https://open.spotify.com/album/0Z1WX8Yg9HXmz6Qkl2nhgc) | 4:00 |
-| 26 | [Ende](https://open.spotify.com/track/3kAXRmMpVq8uMLX5HCpTYO) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Ende](https://open.spotify.com/album/5EiEFRxgAgyx1nq8JXUSkp) | 2:48 |
+| 25 | [Ende](https://open.spotify.com/track/3kAXRmMpVq8uMLX5HCpTYO) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Ende](https://open.spotify.com/album/5EiEFRxgAgyx1nq8JXUSkp) | 2:48 |
+| 26 | [Too Weak](https://open.spotify.com/track/0IwnyVENCHeAnSPA8xcG14) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Coming Home](https://open.spotify.com/album/0Z1WX8Yg9HXmz6Qkl2nhgc) | 4:00 |
 | 27 | [Touch Me](https://open.spotify.com/track/74lOK0Z3WKvTpK8W8Srj1d) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Touch Me](https://open.spotify.com/album/0W1CKVUL1yAWcIwWzA4Ztt) | 3:23 |
 | 28 | [Feeling](https://open.spotify.com/track/6FAlvEVVjghOb5WjWRuknl) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Timofey](https://open.spotify.com/artist/6MteslgsqpOUtewd6Pw1Uq) | [Feeling](https://open.spotify.com/album/68YUOdsBc9jRCAidJjSmM5) | 2:48 |
 | 29 | [Fragile](https://open.spotify.com/track/7FUA7YopOZWJ38Z4bvagWw) | [S$DD](https://open.spotify.com/artist/1WekWbvgbqnfThxOixlYHw), [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4), [TRAILS](https://open.spotify.com/artist/4CSX0R9KLs9HkyqLfiraPQ) | [Fragile](https://open.spotify.com/album/6U4OhqiXPlHvnLwGtNkGlu) | 4:09 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 40 | [Less Of A Woman](https://open.spotify.com/track/36ukbvDkk8gIu3CzvoCpH9) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy](https://open.spotify.com/album/0qZnfUUOH8FkPZBNptfmKr) | 2:34 |
 | 41 | [Highlight](https://open.spotify.com/track/2VJrDLdiLcw9bSZMe73sWG) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going](https://open.spotify.com/album/7vehBp2yn4AlDZw0SQ8IHf) | 3:33 |
 | 42 | [Aura](https://open.spotify.com/track/6MKX22DUshtfsOfdHzdve5) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Aura](https://open.spotify.com/album/4bv6FylWnT6nYM0ik2l79O) | 3:32 |
-| 43 | [Point of View](https://open.spotify.com/track/5pdycEF3g4wnfTlb92BnW7) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Point of View](https://open.spotify.com/album/6m7FyjVOUtN9y5kfVrdyQL) | 3:10 |
-| 44 | [ASAP](https://open.spotify.com/track/7q3u8wOVtj4dOiUmSPu0Ez) | [HEYOON](https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1), [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [ASAP](https://open.spotify.com/album/0Ohrk1nqXmdEpoMoU0Vbkv) | 2:36 |
+| 43 | [ASAP](https://open.spotify.com/track/7q3u8wOVtj4dOiUmSPu0Ez) | [HEYOON](https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1), [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [ASAP](https://open.spotify.com/album/0Ohrk1nqXmdEpoMoU0Vbkv) | 2:36 |
+| 44 | [Point of View](https://open.spotify.com/track/5pdycEF3g4wnfTlb92BnW7) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Point of View](https://open.spotify.com/album/6m7FyjVOUtN9y5kfVrdyQL) | 3:10 |
 | 45 | [Better Without U](https://open.spotify.com/track/4ZhH9lE1H1kHglrgVS6d9n) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Dreamers](https://open.spotify.com/album/2pFdkI2vVBJ5rvCq17db9e) | 2:37 |
 | 46 | [Everything You Wanted](https://open.spotify.com/track/2R0u5DR5tnMSHJLpsiCVmJ) | [Tasha Low](https://open.spotify.com/artist/3i2MctLBDYHXCLNATxRT5Q), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Everything You Wanted](https://open.spotify.com/album/6MSynSHfw5YN5DN3cG7I91) | 2:37 |
 | 47 | [Fight For Love](https://open.spotify.com/track/5e37Ov2nYHRBcns81Zqot5) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Dreamers](https://open.spotify.com/album/2pFdkI2vVBJ5rvCq17db9e) | 2:45 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 50 | [Priority](https://open.spotify.com/track/0jgIsq6BtybOp4R1udNuOP) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Priority](https://open.spotify.com/album/6SGPIdhRflWG0jvIp7ftGj) | 3:16 |
 | 51 | [MAGIC](https://open.spotify.com/track/6OhYnnNVRvLRBy580Wit9k) | [Park kang hyun](https://open.spotify.com/artist/6GuseRhHqcubzIgtBob2Pk) | [Music Collaboration\-MAGIC](https://open.spotify.com/album/6CR946phNnK0cI2Qnw4L1O) | 3:10 |
 
-Snapshot ID: `AbsafgAAAAD/Shw9xgpj+46+SepQcm9u`
+Snapshot ID: `AbsgHgAAAAAGSJ5Onwi2ZQzEeT80tOOB`

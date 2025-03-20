@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-326 songs - 18 hr 40 min
+327 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Magnificent](https://open.spotify.com/track/1ALMjj7yJFnVgnUV5494JQ) | [The Bay Man](https://open.spotify.com/artist/4XUwkDFoOHIN6YnWBxE5Om) | [Magnificent](https://open.spotify.com/album/5zl8JcdBS1PQfinEkgmQIS) | 2:53 | 2021-06-16 | 2025-01-15 |
 | [Majakka](https://open.spotify.com/track/4k1XG6vGrACVptWElSDPAu) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Majakka](https://open.spotify.com/album/0PAl9YN6LVhKEKlP0J56Sd) | 2:46 | 2022-07-22 | 2024-12-24 |
 | [Majestic Skies](https://open.spotify.com/track/4FSvEXjDOKDLhBV93H3XOq) | [Harper Rems](https://open.spotify.com/artist/3veRAXXPy3m69dx4ZtZJCP) | [Majestic Skies](https://open.spotify.com/album/6UWVbHia1jaslWQsYncErQ) | 4:03 | 2023-10-02 | 2023-10-13 |
+| [Mimosa](https://open.spotify.com/track/2oW7OUvAO37WFMAgbcK8in) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Mimosa](https://open.spotify.com/album/4vGqznDBnofJ4df0QUM0Tb) | 2:22 | 2025-02-26 |  |
 | [Mission at Beccles](https://open.spotify.com/track/0873bg61Q7WoVoKJXzNQCD) | [underwaters](https://open.spotify.com/artist/1ISTqu0xKeFelPqY4lYVOM) | [Mission at Beccles](https://open.spotify.com/album/233G9MsUHRJCERpaVpTaFS) | 3:16 | 2021-05-27 | 2024-02-09 |
 | [Mist](https://open.spotify.com/track/0L8U0b9O7lQO9VipV3i6xN) | [Maximilian Zapdo](https://open.spotify.com/artist/1gbl9H3oANDZROjD1Erecc) | [Mist](https://open.spotify.com/album/2ffssy6IF2Pw4741ITKhqY) | 3:30 | 2021-10-21 | 2023-09-27 |
 | [Morning Song](https://open.spotify.com/track/5xwjyZHMhpl0L1Obp0fV2j) | [Cijon](https://open.spotify.com/artist/1q8BMvpVO3pN4Ade7BWFaj) | [Morning Song](https://open.spotify.com/album/1kewlFuBDRl9Je0mKP0ttc) | 2:37 | 2025-01-14 |  |
@@ -285,7 +286,7 @@
 | [Summarizing Sunrises](https://open.spotify.com/track/4RPxFFNwl0awElXJIRnxSQ) | [Don Salfva](https://open.spotify.com/artist/1Qoope6yvhZ1qDZoEGMUdW) | [Summarizing Sunrises](https://open.spotify.com/album/4ZEaUN5EcjTzJBHS2eBNjm) | 3:49 | 2021-09-17 |  |
 | [Sunyata](https://open.spotify.com/track/5sL1zebMXrBymyK6STo7n6) | [Sureborn](https://open.spotify.com/artist/6pEkJOAdhn8zjYFNH7uZ8g) | [Sunyata](https://open.spotify.com/album/1bXMt1obmoWbDteFpp1DY5) | 4:13 | 2020-12-08\* | 2021-05-27 |
 | [Surface](https://open.spotify.com/track/0ll896dtsA8odiG60bm3bK) | [Lerone Gios](https://open.spotify.com/artist/6AOSLIwArJ09daRcBXYE52) | [Surface](https://open.spotify.com/album/15TlhBkBFqzJzIUBxv0CH6) | 2:06 | 2021-04-15 |  |
-| [Tetrial](https://open.spotify.com/track/3RKdfJKiVlFEYkHy95Wipt) | [Isaïe Limbila](https://open.spotify.com/artist/1Xyby5XAIEpGvYZzIz9f8r) | [Tetrial](https://open.spotify.com/album/0s1etM9N31dg0pmY4Ijurv) | 3:15 | 2023-10-02 |  |
+| [Tetrial](https://open.spotify.com/track/3RKdfJKiVlFEYkHy95Wipt) | [Isaïe Limbila](https://open.spotify.com/artist/1Xyby5XAIEpGvYZzIz9f8r) | [Tetrial](https://open.spotify.com/album/0s1etM9N31dg0pmY4Ijurv) | 3:15 | 2023-10-02 | 2025-03-20 |
 | [The Beach \- Beatless](https://open.spotify.com/track/3vM7pu2T1rSdUyFM7qyULV) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Beatless EP](https://open.spotify.com/album/6ojWTPCROs4UBqmKKc9K7B) | 4:01 | 2023-01-13 | 2024-03-24 |
 | [The Beach \- Beatless](https://open.spotify.com/track/6Er28KITtqA7MNOLz7M2pg) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [The Beach \(Beatless\)](https://open.spotify.com/album/55uT0xyvRnHEO4EtfbccVk) | 4:01 | 2022-11-22 | 2023-01-14 |
 | [The Featherwinged Beetle](https://open.spotify.com/track/1W3keID7xtx3kE8ZVB3wl0) | [By Lotus](https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8) | [The Featherwinged Beetle](https://open.spotify.com/album/3EJW0H4QvaoSd7uF5D52Zm) | 4:20 | 2025-01-14 |  |

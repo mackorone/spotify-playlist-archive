@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 172165,
+  "num_followers": 172176,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAACZSzXqHjJekF9XBPv3J81L",
+  "snapshot_id": "Z9i3gAAAAACPqaPEG0zj1UrP2OYxDHpY",
   "tracks": [
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Note To Self (Deluxe)",
-        "url": "https://open.spotify.com/album/0AfEmFAU5rR2dZbMPHu5cM"
-      },
-      "artists": [
-        {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "Still That Cowboy (feat. Miranda Lambert)",
-      "url": "https://open.spotify.com/track/3MwXKXU4VhP3faG9fob310"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
         "url": "https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 249573,
       "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
       "url": "https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Note To Self (Deluxe)",
+        "url": "https://open.spotify.com/album/0AfEmFAU5rR2dZbMPHu5cM"
+      },
+      "artists": [
+        {
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "Still That Cowboy (feat. Miranda Lambert)",
+      "url": "https://open.spotify.com/track/3MwXKXU4VhP3faG9fob310"
     },
     {
       "added_at": null,
@@ -935,22 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Postcards From Texas",
-        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 136280,
-      "name": "Armadillo",
-      "url": "https://open.spotify.com/track/0ffSNNyKBwBUl7W9fOuS5O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dammit Randy",
         "url": "https://open.spotify.com/album/5GU8B79H8LAguIyCyVh5A7"
       },
@@ -963,6 +947,34 @@
       "duration_ms": 179559,
       "name": "Dammit Randy",
       "url": "https://open.spotify.com/track/1GUvNctSDGXpo7S3H3uxpT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hell On Heels",
+        "url": "https://open.spotify.com/album/2zJVeRorn9q3XBeH7twIjc"
+      },
+      "artists": [
+        {
+          "name": "Pistol Annies",
+          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        },
+        {
+          "name": "Angaleena Presley",
+          "url": "https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0"
+        }
+      ],
+      "duration_ms": 196733,
+      "name": "Takin' Pills",
+      "url": "https://open.spotify.com/track/2I8sTYMwuTsTL3K5vR6MB5"
     },
     {
       "added_at": null,

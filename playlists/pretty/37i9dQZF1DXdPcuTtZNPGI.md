@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPcuTtZNPGI.md) - [plain]
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,156 likes - 76 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,319 likes - 76 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPcuTtZNPGI.md) - [plain]
 | 63 | [花火](https://open.spotify.com/track/445ClT4e6nCWUb8GzUXGjs) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 3:32 |
 | 64 | [東亰カニバリズム \(feat\. Ado\)](https://open.spotify.com/track/3sVxxKTxLaT5WYg5dmk4ye) | [biz](https://open.spotify.com/artist/0ItDUkyJTCrl0sfGIM76ms), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [東亰カニバリズム \(feat\. Ado\)](https://open.spotify.com/album/727UO5WpRZa7npkCBeSLv4) | 3:11 |
 | 65 | [イート \(feat\. Ado\)](https://open.spotify.com/track/0SZpeQSnORlHv90AlQqnwT) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [イート \(feat\. Ado\)](https://open.spotify.com/album/1a04HkS3qdf6ogQ6XNDmfB) | 3:24 |
-| 66 | [ANEMONE \(feat\. Ado\)](https://open.spotify.com/track/4d219MDLlMdxhBLyOEOoDx) | [吐息](https://open.spotify.com/artist/5zRxHcSIZl3iXv8udO7Vwu), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ANEMONE \(feat\. Ado\)](https://open.spotify.com/album/0YSk1A1AnAoUku60Dwc3ja) | 2:22 |
+| 66 | [ANEMONE \(feat\. Ado\)](https://open.spotify.com/track/4d219MDLlMdxhBLyOEOoDx) | [Toiki.](https://open.spotify.com/artist/5zRxHcSIZl3iXv8udO7Vwu), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ANEMONE \(feat\. Ado\)](https://open.spotify.com/album/0YSk1A1AnAoUku60Dwc3ja) | 2:22 |
 | 67 | [うっせぇわ \- Piano Ver.](https://open.spotify.com/track/2ui683JiJBmZSiZvm0KBZx) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [レディメイド](https://open.spotify.com/album/7hy4zddDO6zOMQxRipqQry) | 3:43 |
 | 68 | [過学習](https://open.spotify.com/track/0qHvJWrqgeznziTqJNq6m7) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 3:35 |
 | 69 | [ラッキー・ブルート](https://open.spotify.com/track/5ZRsRV8NEIM8DRTL60n6n6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 3:29 |

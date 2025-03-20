@@ -1,6 +1,6 @@
 {
   "description": "Listen hot and new Korean classical & new age  music in here! (Cover: Seong-Jin Cho(\uc870\uc131\uc9c4)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 4597,
+  "num_followers": 4599,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,26 @@
     {
       "added_at": "2025-02-21 09:07:32",
       "album": {
+        "name": "Rachmaninoff, A Reflection",
+        "url": "https://open.spotify.com/album/1ETZFwejOUfhRVxkhG8WmC"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Yekwon Sunwoo",
+          "url": "https://open.spotify.com/artist/2pR8C1gs05nq2Wc9OL6irv"
+        }
+      ],
+      "duration_ms": 41733,
+      "name": "Variations on a Theme of Corelli, Op. 42: Var. 1. Poco pi\u00f9 mosso",
+      "url": "https://open.spotify.com/track/0N6gEgu138TistgGvFFaeW"
+    },
+    {
+      "added_at": "2025-02-21 09:07:32",
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/5qPEipNj8HRvGayK7rePRl"
       },
@@ -915,26 +935,6 @@
     {
       "added_at": "2025-02-21 09:07:32",
       "album": {
-        "name": "Rachmaninoff, A Reflection",
-        "url": "https://open.spotify.com/album/1ETZFwejOUfhRVxkhG8WmC"
-      },
-      "artists": [
-        {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Yekwon Sunwoo",
-          "url": "https://open.spotify.com/artist/2pR8C1gs05nq2Wc9OL6irv"
-        }
-      ],
-      "duration_ms": 41733,
-      "name": "Variations on a Theme of Corelli, Op. 42: Var. 1. Poco pi\u00f9 mosso",
-      "url": "https://open.spotify.com/track/0N6gEgu138TistgGvFFaeW"
-    },
-    {
-      "added_at": "2025-02-21 09:07:32",
-      "album": {
         "name": "Make A Wish (Birthday Song) (Orchestra Version)",
         "url": "https://open.spotify.com/album/0fOonLfWvfoOYNaaVJyIp8"
       },
@@ -951,18 +951,22 @@
     {
       "added_at": "2025-02-21 09:07:32",
       "album": {
-        "name": "[The Bloom : UTOPIA] Borders of Utopia",
-        "url": "https://open.spotify.com/album/6BY36mcoLnYWhxRWFMIZ2H"
+        "name": "Modern Cello",
+        "url": "https://open.spotify.com/album/4ofOUfKLp3RsIH9fdpgXL4"
       },
       "artists": [
         {
-          "name": "Forestella",
-          "url": "https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8"
+          "name": "Hong Jin Ho",
+          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
+        },
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
         }
       ],
-      "duration_ms": 311880,
-      "name": "UTOPIA",
-      "url": "https://open.spotify.com/track/3m4bN9t3W1CUU9TcnQHGYa"
+      "duration_ms": 305000,
+      "name": "Us, then",
+      "url": "https://open.spotify.com/track/0VuQ9J9lpFdLAaQzKzBtRX"
     },
     {
       "added_at": "2025-02-21 09:07:32",
@@ -999,22 +1003,18 @@
     {
       "added_at": "2025-02-21 09:07:32",
       "album": {
-        "name": "Modern Cello",
-        "url": "https://open.spotify.com/album/4ofOUfKLp3RsIH9fdpgXL4"
+        "name": "[The Bloom : UTOPIA] Borders of Utopia",
+        "url": "https://open.spotify.com/album/6BY36mcoLnYWhxRWFMIZ2H"
       },
       "artists": [
         {
-          "name": "Hong Jin Ho",
-          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
-        },
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+          "name": "Forestella",
+          "url": "https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8"
         }
       ],
-      "duration_ms": 305000,
-      "name": "Us, then",
-      "url": "https://open.spotify.com/track/0VuQ9J9lpFdLAaQzKzBtRX"
+      "duration_ms": 311880,
+      "name": "UTOPIA",
+      "url": "https://open.spotify.com/track/3m4bN9t3W1CUU9TcnQHGYa"
     },
     {
       "added_at": "2025-02-21 09:07:32",
@@ -1139,6 +1139,58 @@
     {
       "added_at": "2025-02-21 09:07:32",
       "album": {
+        "name": "Letters",
+        "url": "https://open.spotify.com/album/65u4wYlCAV0WsfJ5k8lhHn"
+      },
+      "artists": [
+        {
+          "name": "Stanley Myers",
+          "url": "https://open.spotify.com/artist/6l6NgkV6IWYKlRN7jHCQmt"
+        },
+        {
+          "name": "Park Kyuhee",
+          "url": "https://open.spotify.com/artist/1cPB46hHAuY8A2U1XzkREc"
+        }
+      ],
+      "duration_ms": 299167,
+      "name": "Stanley Myers : Cavatina",
+      "url": "https://open.spotify.com/track/01GZqoFssNsVDz9CRzLNJ3"
+    },
+    {
+      "added_at": "2025-02-21 09:07:32",
+      "album": {
+        "name": "MOONLIGHT",
+        "url": "https://open.spotify.com/album/15nHJiMLYYFDgfryUskaAY"
+      },
+      "artists": [
+        {
+          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Twilight Waltz",
+      "url": "https://open.spotify.com/track/7psQSIK06QI8ijSG56AmpI"
+    },
+    {
+      "added_at": "2025-02-21 09:07:32",
+      "album": {
+        "name": "Golden Age (Orchestra Version)",
+        "url": "https://open.spotify.com/album/133OMTXDhV2XTREwQ23MrX"
+      },
+      "artists": [
+        {
+          "name": "SM Classics TOWN Orchestra",
+          "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
+        }
+      ],
+      "duration_ms": 232687,
+      "name": "Golden Age - Orchestra Version",
+      "url": "https://open.spotify.com/track/6DJJOcYKuk8hTunPSSaJPX"
+    },
+    {
+      "added_at": "2025-02-21 09:07:32",
+      "album": {
         "name": "Pure Opera Vol. 2",
         "url": "https://open.spotify.com/album/3ebREGFHsjpJCD0wx4ghvO"
       },
@@ -1223,58 +1275,6 @@
     {
       "added_at": "2025-02-21 09:07:32",
       "album": {
-        "name": "MOONLIGHT",
-        "url": "https://open.spotify.com/album/15nHJiMLYYFDgfryUskaAY"
-      },
-      "artists": [
-        {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
-          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Twilight Waltz",
-      "url": "https://open.spotify.com/track/7psQSIK06QI8ijSG56AmpI"
-    },
-    {
-      "added_at": "2025-02-21 09:07:32",
-      "album": {
-        "name": "Golden Age (Orchestra Version)",
-        "url": "https://open.spotify.com/album/133OMTXDhV2XTREwQ23MrX"
-      },
-      "artists": [
-        {
-          "name": "SM Classics TOWN Orchestra",
-          "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
-        }
-      ],
-      "duration_ms": 232687,
-      "name": "Golden Age - Orchestra Version",
-      "url": "https://open.spotify.com/track/6DJJOcYKuk8hTunPSSaJPX"
-    },
-    {
-      "added_at": "2025-02-21 09:07:32",
-      "album": {
-        "name": "Letters",
-        "url": "https://open.spotify.com/album/65u4wYlCAV0WsfJ5k8lhHn"
-      },
-      "artists": [
-        {
-          "name": "Stanley Myers",
-          "url": "https://open.spotify.com/artist/6l6NgkV6IWYKlRN7jHCQmt"
-        },
-        {
-          "name": "Park Kyuhee",
-          "url": "https://open.spotify.com/artist/1cPB46hHAuY8A2U1XzkREc"
-        }
-      ],
-      "duration_ms": 299167,
-      "name": "Stanley Myers : Cavatina",
-      "url": "https://open.spotify.com/track/01GZqoFssNsVDz9CRzLNJ3"
-    },
-    {
-      "added_at": "2025-02-21 09:07:32",
-      "album": {
         "name": "KAI ON MUSICAL",
         "url": "https://open.spotify.com/album/04B5WAQquyirwfdtBWrs6N"
       },
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2025-02-21 09:07:32",
       "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/6jh3HKkQqHVBnxJ59AqE0i"
+        "name": "Esthesia",
+        "url": "https://open.spotify.com/album/09PNC6kLYjYD6spmPc3dbH"
       },
       "artists": [
         {
-          "name": "KIM HOJOONG",
-          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
         }
       ],
-      "duration_ms": 283880,
-      "name": "Il Mare Calmo Della Sera",
-      "url": "https://open.spotify.com/track/6dp5kRPh8uLwaPG8WcFLrD"
+      "duration_ms": 243640,
+      "name": "Esthesia",
+      "url": "https://open.spotify.com/track/1mvEfhUAcAp696WII9S24W"
     },
     {
       "added_at": "2025-02-21 09:07:32",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2025-02-21 09:07:32",
       "album": {
-        "name": "Esthesia",
-        "url": "https://open.spotify.com/album/09PNC6kLYjYD6spmPc3dbH"
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/6jh3HKkQqHVBnxJ59AqE0i"
       },
       "artists": [
         {
-          "name": "jung jaeil",
-          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+          "name": "KIM HOJOONG",
+          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
         }
       ],
-      "duration_ms": 243640,
-      "name": "Esthesia",
-      "url": "https://open.spotify.com/track/1mvEfhUAcAp696WII9S24W"
+      "duration_ms": 283880,
+      "name": "Il Mare Calmo Della Sera",
+      "url": "https://open.spotify.com/track/6dp5kRPh8uLwaPG8WcFLrD"
     },
     {
       "added_at": "2025-02-21 09:07:32",
@@ -1491,50 +1491,6 @@
     {
       "added_at": "2025-02-21 09:07:32",
       "album": {
-        "name": "Barber, Bruch",
-        "url": "https://open.spotify.com/album/2BgZFALmsQgLCpIskqkIUk"
-      },
-      "artists": [
-        {
-          "name": "Max Bruch",
-          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
-        },
-        {
-          "name": "Esther Yoo",
-          "url": "https://open.spotify.com/artist/5nxfecQzSK5KWsygb0IXiC"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        },
-        {
-          "name": "Vasily Petrenko",
-          "url": "https://open.spotify.com/artist/6H9eOWeGZkU9alBUYqNR7Q"
-        }
-      ],
-      "duration_ms": 448413,
-      "name": "Violin Concerto No. 1 in G Minor, Op. 26: III. Finale. Allegro energico",
-      "url": "https://open.spotify.com/track/0grBNFBmjb8abbgcVuqygz"
-    },
-    {
-      "added_at": "2025-02-21 09:07:32",
-      "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/5tJbCZf6eQpp4CANZXG7fQ"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/2FRCeQL1u1A7YLxXde0Y1R"
-        }
-      ],
-      "duration_ms": 207893,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/6bM1AM7nvmkpFxUaH3eWk5"
-    },
-    {
-      "added_at": "2025-02-21 09:07:32",
-      "album": {
         "name": "Listen",
         "url": "https://open.spotify.com/album/7KbMcDktADsrjGx6nFDccI"
       },
@@ -1567,6 +1523,50 @@
       "duration_ms": 279528,
       "name": "Island baby",
       "url": "https://open.spotify.com/track/4KK9FI8mWKkbn6ryGdUY6k"
+    },
+    {
+      "added_at": "2025-02-21 09:07:32",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/5tJbCZf6eQpp4CANZXG7fQ"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/2FRCeQL1u1A7YLxXde0Y1R"
+        }
+      ],
+      "duration_ms": 207893,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/6bM1AM7nvmkpFxUaH3eWk5"
+    },
+    {
+      "added_at": "2025-02-21 09:07:32",
+      "album": {
+        "name": "Barber, Bruch",
+        "url": "https://open.spotify.com/album/2BgZFALmsQgLCpIskqkIUk"
+      },
+      "artists": [
+        {
+          "name": "Max Bruch",
+          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
+        },
+        {
+          "name": "Esther Yoo",
+          "url": "https://open.spotify.com/artist/5nxfecQzSK5KWsygb0IXiC"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Vasily Petrenko",
+          "url": "https://open.spotify.com/artist/6H9eOWeGZkU9alBUYqNR7Q"
+        }
+      ],
+      "duration_ms": 448413,
+      "name": "Violin Concerto No. 1 in G Minor, Op. 26: III. Finale. Allegro energico",
+      "url": "https://open.spotify.com/track/0grBNFBmjb8abbgcVuqygz"
     },
     {
       "added_at": "2025-02-21 09:07:32",
@@ -1607,30 +1607,6 @@
     {
       "added_at": "2025-02-21 09:07:32",
       "album": {
-        "name": "BACH",
-        "url": "https://open.spotify.com/album/7b33CBpLX0MdeTERTqWLtY"
-      },
-      "artists": [
-        {
-          "name": "Wilhelm Friedemann Bach",
-          "url": "https://open.spotify.com/artist/5fz5lcOIakwBiRF7vzfm0u"
-        },
-        {
-          "name": "Sung-hyun Cho",
-          "url": "https://open.spotify.com/artist/3nkgtAm4BJW72KgeKjDokb"
-        },
-        {
-          "name": "Kyeong Ham",
-          "url": "https://open.spotify.com/artist/108Taje6uEORRRZqqaVYdl"
-        }
-      ],
-      "duration_ms": 361853,
-      "name": "Duet for Flute and Oboe No. 1 in E Minor, F. 54: I. Allegro",
-      "url": "https://open.spotify.com/track/4xglnE2yA87Ym31aVxBQnW"
-    },
-    {
-      "added_at": "2025-02-21 09:07:32",
-      "album": {
         "name": "psalms",
         "url": "https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX"
       },
@@ -1655,6 +1631,26 @@
     {
       "added_at": "2025-02-21 09:07:32",
       "album": {
+        "name": "Cantar",
+        "url": "https://open.spotify.com/album/12OfHAPonuauia8yGSyl3s"
+      },
+      "artists": [
+        {
+          "name": "John Noh",
+          "url": "https://open.spotify.com/artist/1tPIuR4bDZafphfZrLXg13"
+        },
+        {
+          "name": "Ko Yeong Yeol",
+          "url": "https://open.spotify.com/artist/5peL5wOAMpnRJvc6zgzbwm"
+        }
+      ],
+      "duration_ms": 293409,
+      "name": "Crying for Love",
+      "url": "https://open.spotify.com/track/017DPfnKqKlln2ppPS6cQz"
+    },
+    {
+      "added_at": "2025-02-21 09:07:32",
+      "album": {
         "name": "Bartok Violin Concerto",
         "url": "https://open.spotify.com/album/3Enk3LYRadSz1HjBKk11f4"
       },
@@ -1675,22 +1671,26 @@
     {
       "added_at": "2025-02-21 09:07:32",
       "album": {
-        "name": "Cantar",
-        "url": "https://open.spotify.com/album/12OfHAPonuauia8yGSyl3s"
+        "name": "BACH",
+        "url": "https://open.spotify.com/album/7b33CBpLX0MdeTERTqWLtY"
       },
       "artists": [
         {
-          "name": "John Noh",
-          "url": "https://open.spotify.com/artist/1tPIuR4bDZafphfZrLXg13"
+          "name": "Wilhelm Friedemann Bach",
+          "url": "https://open.spotify.com/artist/5fz5lcOIakwBiRF7vzfm0u"
         },
         {
-          "name": "Ko Yeong Yeol",
-          "url": "https://open.spotify.com/artist/5peL5wOAMpnRJvc6zgzbwm"
+          "name": "Sung-hyun Cho",
+          "url": "https://open.spotify.com/artist/3nkgtAm4BJW72KgeKjDokb"
+        },
+        {
+          "name": "Kyeong Ham",
+          "url": "https://open.spotify.com/artist/108Taje6uEORRRZqqaVYdl"
         }
       ],
-      "duration_ms": 293409,
-      "name": "Crying for Love",
-      "url": "https://open.spotify.com/track/017DPfnKqKlln2ppPS6cQz"
+      "duration_ms": 361853,
+      "name": "Duet for Flute and Oboe No. 1 in E Minor, F. 54: I. Allegro",
+      "url": "https://open.spotify.com/track/4xglnE2yA87Ym31aVxBQnW"
     },
     {
       "added_at": "2025-02-21 09:07:32",
@@ -1799,6 +1799,26 @@
     {
       "added_at": "2025-02-21 09:07:32",
       "album": {
+        "name": "Schubert: Piano Sonatas III",
+        "url": "https://open.spotify.com/album/2eWZeuZu031ycRDsPdGEgX"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "William Youn",
+          "url": "https://open.spotify.com/artist/7uWSy5aRJy75BSKdpYbp2R"
+        }
+      ],
+      "duration_ms": 628546,
+      "name": "Piano Sonata No. 16 in A Minor, D. 845: I. Moderato",
+      "url": "https://open.spotify.com/track/1bFKVMn8dqPF5J4C8KaPQw"
+    },
+    {
+      "added_at": "2025-02-21 09:07:32",
+      "album": {
         "name": "Love Confession",
         "url": "https://open.spotify.com/album/6ucfdG0kBvVkHqoOT6A1SE"
       },
@@ -1831,26 +1851,6 @@
     {
       "added_at": "2025-02-21 09:07:32",
       "album": {
-        "name": "Schubert: Piano Sonatas III",
-        "url": "https://open.spotify.com/album/2eWZeuZu031ycRDsPdGEgX"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "William Youn",
-          "url": "https://open.spotify.com/artist/7uWSy5aRJy75BSKdpYbp2R"
-        }
-      ],
-      "duration_ms": 628546,
-      "name": "Piano Sonata No. 16 in A Minor, D. 845: I. Moderato",
-      "url": "https://open.spotify.com/track/1bFKVMn8dqPF5J4C8KaPQw"
-    },
-    {
-      "added_at": "2025-02-21 09:07:32",
-      "album": {
         "name": "White Night",
         "url": "https://open.spotify.com/album/7FB6YKYscqNfDvvJrDJtom"
       },
@@ -1875,22 +1875,18 @@
     {
       "added_at": "2025-02-21 09:07:32",
       "album": {
-        "name": "YSAYE: SIX SONATAS FOR SOLO VIOLIN",
-        "url": "https://open.spotify.com/album/22ldNmsolMOCk38QQXe3xP"
+        "name": "Une Vie Full album",
+        "url": "https://open.spotify.com/album/2fGe5nCYxVlSFIkk3VAw5p"
       },
       "artists": [
         {
-          "name": "Eug\u00e8ne Ysa\u00ffe",
-          "url": "https://open.spotify.com/artist/662RkpOvE7MIPWnfYbY5xs"
-        },
-        {
-          "name": "Ju-young Baek",
-          "url": "https://open.spotify.com/artist/0laUgAtCDFPXzRvEBrAYJw"
+          "name": "Denis Sungho",
+          "url": "https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp"
         }
       ],
-      "duration_ms": 160946,
-      "name": "Sonata for Solo Violin in A Minor, Op.27, No.2: I. Obsession: Prelude (Poco Vivace)",
-      "url": "https://open.spotify.com/track/0ofrNa6LBKn1G9G03vJJVt"
+      "duration_ms": 253360,
+      "name": "Une Vie Part 1",
+      "url": "https://open.spotify.com/track/2tE7v0aS6S78AjerGVTqRH"
     },
     {
       "added_at": "2025-02-21 09:07:32",
@@ -1911,26 +1907,22 @@
     {
       "added_at": "2025-02-21 09:07:32",
       "album": {
-        "name": "Beethoven: Variations for violoncello and piano",
-        "url": "https://open.spotify.com/album/6Z2ijTdLp8dwoTV7JSRR77"
+        "name": "YSAYE: SIX SONATAS FOR SOLO VIOLIN",
+        "url": "https://open.spotify.com/album/22ldNmsolMOCk38QQXe3xP"
       },
       "artists": [
         {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+          "name": "Eug\u00e8ne Ysa\u00ffe",
+          "url": "https://open.spotify.com/artist/662RkpOvE7MIPWnfYbY5xs"
         },
         {
-          "name": "Jungin Huh",
-          "url": "https://open.spotify.com/artist/3fv9sMOO3fq2QIRaVUUqUd"
-        },
-        {
-          "name": "Ilya Rashkovskiy",
-          "url": "https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB"
+          "name": "Ju-young Baek",
+          "url": "https://open.spotify.com/artist/0laUgAtCDFPXzRvEBrAYJw"
         }
       ],
-      "duration_ms": 31373,
-      "name": "12 Variations on \"Ein M\u00e4dchen oder Weibchen\" from Mozart's Die Zauberfl\u00f6te in F Major, Op. 66 : Variation II",
-      "url": "https://open.spotify.com/track/5wwy4NL9N0dhHU31BTuHhT"
+      "duration_ms": 160946,
+      "name": "Sonata for Solo Violin in A Minor, Op.27, No.2: I. Obsession: Prelude (Poco Vivace)",
+      "url": "https://open.spotify.com/track/0ofrNa6LBKn1G9G03vJJVt"
     },
     {
       "added_at": "2025-02-21 09:07:32",
@@ -1963,22 +1955,6 @@
     {
       "added_at": "2025-02-21 09:07:32",
       "album": {
-        "name": "Une Vie Full album",
-        "url": "https://open.spotify.com/album/2fGe5nCYxVlSFIkk3VAw5p"
-      },
-      "artists": [
-        {
-          "name": "Denis Sungho",
-          "url": "https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp"
-        }
-      ],
-      "duration_ms": 253360,
-      "name": "Une Vie Part 1",
-      "url": "https://open.spotify.com/track/2tE7v0aS6S78AjerGVTqRH"
-    },
-    {
-      "added_at": "2025-02-21 09:07:32",
-      "album": {
         "name": "FLOWER",
         "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
       },
@@ -1991,6 +1967,30 @@
       "duration_ms": 232000,
       "name": "Camellia",
       "url": "https://open.spotify.com/track/777FLvGcK65H7Ljf4K3PNl"
+    },
+    {
+      "added_at": "2025-02-21 09:07:32",
+      "album": {
+        "name": "Beethoven: Variations for violoncello and piano",
+        "url": "https://open.spotify.com/album/6Z2ijTdLp8dwoTV7JSRR77"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jungin Huh",
+          "url": "https://open.spotify.com/artist/3fv9sMOO3fq2QIRaVUUqUd"
+        },
+        {
+          "name": "Ilya Rashkovskiy",
+          "url": "https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB"
+        }
+      ],
+      "duration_ms": 31373,
+      "name": "12 Variations on \"Ein M\u00e4dchen oder Weibchen\" from Mozart's Die Zauberfl\u00f6te in F Major, Op. 66 : Variation II",
+      "url": "https://open.spotify.com/track/5wwy4NL9N0dhHU31BTuHhT"
     },
     {
       "added_at": "2025-02-21 09:07:32",

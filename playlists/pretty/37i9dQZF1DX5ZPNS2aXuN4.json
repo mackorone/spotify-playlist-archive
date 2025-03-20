@@ -1,6 +1,6 @@
 {
   "description": "An introduction to the music of Bartok, Hungary's greatest composer.",
-  "num_followers": 22432,
+  "num_followers": 22439,
   "original_name": "This Is Bart\u00f3k",
   "owner": {
     "name": "Spotify",
@@ -463,30 +463,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "B\u00e9la Bart\u00f3k: Music For Strings, Percussion & Celesta",
-        "url": "https://open.spotify.com/album/4ihSdcLHiglCBOiNVR2Fm4"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Chicago Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
-        },
-        {
-          "name": "Sir Georg Solti",
-          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
-        }
-      ],
-      "duration_ms": 546160,
-      "name": "Concerto for Orchestra, Sz. 116: I. Introduction. Andante non troppo \u2013 Allegro vivace",
-      "url": "https://open.spotify.com/track/6Dlwk1ub5CyeIwoRnawcQI"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Bart\u00f3k: Violin Concertos Nos 1 & 2",
         "url": "https://open.spotify.com/album/3YZxpl68tpbSn5lEhD3y0u"
       },
@@ -511,6 +487,30 @@
       "duration_ms": 730813,
       "name": "Bart\u00f3k: Violin Concerto No. 1, Sz. 36: II. Allegro giocoso",
       "url": "https://open.spotify.com/track/2YXhapXWvp0v3yXcNzfrSZ"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "B\u00e9la Bart\u00f3k: Music For Strings, Percussion & Celesta",
+        "url": "https://open.spotify.com/album/4ihSdcLHiglCBOiNVR2Fm4"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "duration_ms": 546160,
+      "name": "Concerto for Orchestra, Sz. 116: I. Introduction. Andante non troppo \u2013 Allegro vivace",
+      "url": "https://open.spotify.com/track/6Dlwk1ub5CyeIwoRnawcQI"
     },
     {
       "added_at": "2022-07-01 04:02:00",

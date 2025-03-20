@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 25 | [Losing Me](https://open.spotify.com/track/0JvrNx0h9vHzwQpip0vx2m) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Volume One](https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm) | 4:19 |
 | 26 | [Dreaming \(feat\. SMBDY\)](https://open.spotify.com/track/60n8BhJ1FWhKbhYOF0LzQr) | [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Dreaming \(feat\. SMBDY\)](https://open.spotify.com/album/5uURWNCgEuR1kob61OI0VJ) | 2:49 |
 | 27 | [I Can't Lose You](https://open.spotify.com/track/5CZeEkIFyOQcb19yfFmpJP) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Tomorrow Never Came](https://open.spotify.com/album/0sDmEPP86YEUsNu3f2y7D7) | 2:42 |
-| 28 | [Harmless Heart](https://open.spotify.com/track/07xH1WaaxQzAZkO1GNYk8u) | [Tom Martin](https://open.spotify.com/artist/4P0KP5wunIHTElWsbeCow2), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Harmless Heart](https://open.spotify.com/album/5tHq9K9LPFVltgNnQuL554) | 3:03 |
-| 29 | [Crazy Bitch](https://open.spotify.com/track/1ALb2cQBsy82S5kmBVkpxD) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Crazy Bitch](https://open.spotify.com/album/3nTpGSWw548JAYpwVJS4jZ) | 3:02 |
+| 28 | [Crazy Bitch](https://open.spotify.com/track/1ALb2cQBsy82S5kmBVkpxD) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Crazy Bitch](https://open.spotify.com/album/3nTpGSWw548JAYpwVJS4jZ) | 3:02 |
+| 29 | [Harmless Heart](https://open.spotify.com/track/07xH1WaaxQzAZkO1GNYk8u) | [Tom Martin](https://open.spotify.com/artist/4P0KP5wunIHTElWsbeCow2), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Harmless Heart](https://open.spotify.com/album/5tHq9K9LPFVltgNnQuL554) | 3:03 |
 | 30 | [Keep Me Young](https://open.spotify.com/track/1SO0bZ6XxtXlnRMx5UIFp2) | [Tom Martin](https://open.spotify.com/artist/4P0KP5wunIHTElWsbeCow2), [Joe Waller](https://open.spotify.com/artist/6EArtsF80MWahDlAzo86ZS) | [Keep Me Young](https://open.spotify.com/album/6uXuhIaOMfOb3eX0eMViFW) | 2:55 |
 | 31 | [Love's Dying](https://open.spotify.com/track/6w5rPrAbxyszX8avoRc8p9) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Volume One](https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm) | 3:17 |
 | 32 | [Remember](https://open.spotify.com/track/6jHVTzc5L2bTar1UsvhyDO) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Remember](https://open.spotify.com/album/3taRoVHpZBDJDv9WPYH9vv) | 4:07 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 110 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 111 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AbsafgAAAAA/CMVKUL7lgLu6wLQU6i7k`
+Snapshot ID: `AbsgHgAAAAB/0nDrhBkVdLRdU5L2SSaz`

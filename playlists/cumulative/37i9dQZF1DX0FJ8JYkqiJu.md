@@ -4,13 +4,13 @@
 
 > Tune in, bliss out
 
-241 songs - 15 hr 21 min
+242 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 Days Later](https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [3 Days Later](https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4) | 5:33 | 2024-09-13 |  |
 | [31 Bloom](https://open.spotify.com/track/6oTshmafPagXMEZeLBzc6Y) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 5:52 | 2024-03-14 | 2024-11-05 |
-| [A Different Path](https://open.spotify.com/track/3jJrIGb23RxyJMqMvrrX38) | [Bellestar](https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn), [Trippynova](https://open.spotify.com/artist/1mbO0ARKWlNgjaMUYpPqmx) | [A Different Path](https://open.spotify.com/album/6yd3Jlp0EaGR1DinQ5qlAL) | 2:15 | 2023-03-16 |  |
+| [A Different Path](https://open.spotify.com/track/3jJrIGb23RxyJMqMvrrX38) | [Bellestar](https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn), [Trippynova](https://open.spotify.com/artist/1mbO0ARKWlNgjaMUYpPqmx) | [A Different Path](https://open.spotify.com/album/6yd3Jlp0EaGR1DinQ5qlAL) | 2:15 | 2023-03-16 | 2025-03-20 |
 | [A Lover’s Guide to a Lucid Dream](https://open.spotify.com/track/4iBSUZhhcXU5sh8haot91w) | [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB) | [A Lover’s Guide to a Lucid Dream](https://open.spotify.com/album/5NLqeErirxjepCcE7uvrLT) | 5:19 | 2023-09-21 | 2024-03-08 |
 | [A Lover’s Guide to a Lucid Dream](https://open.spotify.com/track/7Jkka9vkLDhKoB7zlzVvM5) | [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB) | [A Lover’s Guide to a Lucid Dream](https://open.spotify.com/album/6FsAeOl2J8a52BRIPEULqM) | 5:19 | 2023-08-31 | 2023-09-28 |
 | [A Quiet Voice](https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [A Quiet Voice](https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt) | 4:42 | 2023-01-26 | 2023-04-23 |
@@ -147,6 +147,7 @@
 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-03-07 | 2024-03-15 |
 | [Luminary](https://open.spotify.com/track/66pWxtaxTV8CxcGOvivZeT) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [Luminary](https://open.spotify.com/album/1Rp6be6Sf31WO6tNZY3eR9) | 3:09 | 2024-04-11 |  |
 | [MACHINE](https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MACHINE](https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA) | 3:17 | 2022-12-01 | 2025-03-12 |
+| [Maitri](https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Maitri](https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX) | 2:57 | 2025-03-11 |  |
 | [Making Time](https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Making Time](https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6) | 4:31 | 2023-01-19 | 2024-03-24 |
 | [malo okoma \- Radio Edit](https://open.spotify.com/track/7tdviypkABEstu9z7gSB27) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ), [Theresa Ng'ambi](https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI) | [malo okoma](https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV) | 4:05 | 2022-12-01 | 2025-03-12 |
 | [Matter of Time](https://open.spotify.com/track/1TW9J0imyVBMihuwHqJ5sf) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [Matter of Time](https://open.spotify.com/album/621O6kH4iJa75aFZQTQPPI) | 4:00 | 2022-12-01 | 2023-04-20 |

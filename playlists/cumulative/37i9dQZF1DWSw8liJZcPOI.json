@@ -60,7 +60,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 116446,
       "name": "1st",
       "url": "https://open.spotify.com/track/1QrW2ccFSx56QhmdZ45thU"
@@ -378,7 +378,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 193440,
       "name": "A New Renaissance",
       "url": "https://open.spotify.com/track/1YNJ1dwE0T8PcT2qBPrfXn"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 198901,
       "name": "acceptances",
       "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 244000,
       "name": "Akal Ki",
       "url": "https://open.spotify.com/track/3sUtDNoHKdFV4WXShozY22"
@@ -706,7 +706,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 270024,
       "name": "All the Way Round - Edit",
       "url": "https://open.spotify.com/track/68Cz5sfSKx1ugwoxJzLIHh"
@@ -764,7 +764,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 184000,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/29WpzJoXRGrgxb92nOGvZF"
@@ -992,6 +992,28 @@
       "duration_ms": 152126,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/0jWFW9fhF9YoEEUVBfUSXC"
+    },
+    {
+      "album": {
+        "name": "d\u00e9sert",
+        "url": "https://open.spotify.com/album/0rdKdgO7a9a8u33CrOYEEI"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        },
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212721,
+      "name": "aura",
+      "url": "https://open.spotify.com/track/5GPmHwAHEhsHNYJonzl9lp"
     },
     {
       "album": {
@@ -1412,7 +1434,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 293405,
       "name": "Big Wide World (Reimagined for Piano)",
       "url": "https://open.spotify.com/track/0NRJQn7P89YOHSIgq11WWp"
@@ -1617,6 +1639,24 @@
     },
     {
       "album": {
+        "name": "Luminescence EP",
+        "url": "https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY"
+      },
+      "artists": [
+        {
+          "name": "Jessie Marcella",
+          "url": "https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/21Xax3xNWXhRMtgiQa1PKM"
+    },
+    {
+      "album": {
         "name": "Kurr",
         "url": "https://open.spotify.com/album/6rSycqW9XgLFC0m8ATutR3"
       },
@@ -1781,6 +1821,24 @@
     },
     {
       "album": {
+        "name": "Breeze",
+        "url": "https://open.spotify.com/album/7drDLG1fv14tS43OQS2igi"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205337,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/6jJzqzB4IYzlm04dlqnc0l"
+    },
+    {
+      "album": {
         "name": "re:visions (live)",
         "url": "https://open.spotify.com/album/5xgQdIhMgGVVFcAe6XU0ge"
       },
@@ -1911,6 +1969,28 @@
     },
     {
       "album": {
+        "name": "Candle Flickers",
+        "url": "https://open.spotify.com/album/4gAaXS2qlVgp3AqFY8ajgq"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        },
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164320,
+      "name": "Candle Flickers (feat. Peter Gregson) - Adagio",
+      "url": "https://open.spotify.com/track/7H1jV49w6b5xTPT6LojVOw"
+    },
+    {
+      "album": {
         "name": "Green and Grey (Expanded)",
         "url": "https://open.spotify.com/album/1XQ1UyJcVjfDg4V2g0CWeh"
       },
@@ -1940,7 +2020,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 245316,
       "name": "Cedar - Night Cycles Version",
       "url": "https://open.spotify.com/track/3RBObqvYa9JvhbYNAQWDC6"
@@ -2294,7 +2374,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 117585,
       "name": "Cloud Memory",
       "url": "https://open.spotify.com/track/2dUIvQRy9wfxNVcm0JLwNm"
@@ -2424,7 +2504,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 291529,
       "name": "Cort\u00e8ge (Niklas Paschburg Rework)",
       "url": "https://open.spotify.com/track/6HdsRsuRAQdavFThQdfMpN"
@@ -2739,6 +2819,24 @@
     },
     {
       "album": {
+        "name": "Dorada",
+        "url": "https://open.spotify.com/album/56PUM3Aj1R8K5agUIy2S90"
+      },
+      "artists": [
+        {
+          "name": "Felix R\u00e4uber",
+          "url": "https://open.spotify.com/artist/16msWAQnQ3L2GIIWPSVcfL"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195506,
+      "name": "Dorada",
+      "url": "https://open.spotify.com/track/2nU8AWD1Gc7654eZ3E4k92"
+    },
+    {
+      "album": {
         "name": "Elv",
         "url": "https://open.spotify.com/album/2AYkX2u0YNy42CPu0Pgqnu"
       },
@@ -2814,7 +2912,7 @@
       ],
       "date_added": "2021-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "Dream Walker - Daigo Hanada Rework",
       "url": "https://open.spotify.com/track/7h6m35Qe729LBjo09X8FXG"
@@ -2996,7 +3094,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 229000,
       "name": "Earnest Leslye",
       "url": "https://open.spotify.com/track/0jvRgeODIdcvsr1X9AeKSD"
@@ -3228,7 +3326,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 238333,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/4tiKvBdGo2KVVUazCIfWOE"
@@ -4064,7 +4162,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 414255,
       "name": "Forest Path",
       "url": "https://open.spotify.com/track/0lAdbtwKnf92FXD5p5N03h"
@@ -4104,7 +4202,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 202706,
       "name": "Fractured Light",
       "url": "https://open.spotify.com/track/4XUGZJBkx8OQSayvUfRasb"
@@ -4206,7 +4304,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 125437,
       "name": "Frost",
       "url": "https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg"
@@ -4290,7 +4388,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 183186,
       "name": "Future Love - Reimagined by P\u00eatr Aleks\u00e4nder instrumental",
       "url": "https://open.spotify.com/track/08ciGXj3HGPuY6jACqds83"
@@ -4558,7 +4656,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 159837,
       "name": "Gnossienne: No.1 (Satie Reworks) - Spotify Singles",
       "url": "https://open.spotify.com/track/2iADUGfIsYKXNmZtkxScdH"
@@ -4736,7 +4834,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-02",
+      "date_removed": null,
       "duration_ms": 221933,
       "name": "Hanover Birds",
       "url": "https://open.spotify.com/track/668NjVxsRvOOZ8LGsVAuYs"
@@ -4914,9 +5012,9 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 264566,
-      "name": "Hjlo\u0301\u00f0",
+      "name": "Hjl\u00f3\u00f0",
       "url": "https://open.spotify.com/track/3xssh2f0VPRKBnrhnOF1Gc"
     },
     {
@@ -5008,7 +5106,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-20",
+      "date_removed": null,
       "duration_ms": 289210,
       "name": "hundred00",
       "url": "https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG"
@@ -5132,7 +5230,7 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 215946,
       "name": "Illusion Of Time - Teodor Wolgers Rework",
       "url": "https://open.spotify.com/track/6uZ7HlryD5c0IU65ANbaj2"
@@ -5172,7 +5270,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 276610,
       "name": "In All This Heavy Blue",
       "url": "https://open.spotify.com/track/29wVDybi61uHac7gi0aZFB"
@@ -5446,7 +5544,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 166879,
       "name": "Itasca",
       "url": "https://open.spotify.com/track/4rCH64jtPj5dp8jSXAVYWg"
@@ -5574,7 +5672,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-05-23",
+      "date_removed": null,
       "duration_ms": 270100,
       "name": "KINDRED",
       "url": "https://open.spotify.com/track/6SlFgGSl9cY9lxdFFXnzU3"
@@ -5657,6 +5755,24 @@
     },
     {
       "album": {
+        "name": "Komorebi",
+        "url": "https://open.spotify.com/album/370ywdnW7cpDE8vaz4dP23"
+      },
+      "artists": [
+        {
+          "name": "Jessie Marcella",
+          "url": "https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209100,
+      "name": "Komorebi",
+      "url": "https://open.spotify.com/track/4wY3ONSaOf9AIhyuUH1CYQ"
+    },
+    {
+      "album": {
         "name": "Quiet Recordings",
         "url": "https://open.spotify.com/album/0Ra8mjZnYdt3SyFSvkGZXv"
       },
@@ -5730,7 +5846,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 239188,
       "name": "L'etoile",
       "url": "https://open.spotify.com/track/7IvdJ01TBvQHtD5inw52lG"
@@ -5930,7 +6046,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 275666,
       "name": "Leicester",
       "url": "https://open.spotify.com/track/3xNGLXWGtyFsDREQJqhV8s"
@@ -5952,7 +6068,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 150053,
       "name": "Letter To My Daughter - Harp Visions",
       "url": "https://open.spotify.com/track/1w6KJFWszpr9gLz9xE8beH"
@@ -6134,7 +6250,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 211000,
       "name": "Longhope - Edit",
       "url": "https://open.spotify.com/track/3KewUrX9nBSs6KMtFvw6wq"
@@ -6174,7 +6290,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 141500,
       "name": "Lost Time - Strings Version",
       "url": "https://open.spotify.com/track/2TPWUyeSZvJRW80PizUZ6L"
@@ -6272,7 +6388,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-01",
+      "date_removed": null,
       "duration_ms": 210272,
       "name": "L\u00f3a - Bing & Ruth Rework",
       "url": "https://open.spotify.com/track/3cBQab6CbhO77vgqp5drdA"
@@ -6456,7 +6572,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 216917,
       "name": "Mirror 8",
       "url": "https://open.spotify.com/track/77AIHy7pkYwRKfa1nM6hlR"
@@ -6634,7 +6750,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 334506,
       "name": "Music For Growing Flowers - Pt. 4",
       "url": "https://open.spotify.com/track/0iMFw7AbmYbQS1KwdeFHgW"
@@ -6674,6 +6790,24 @@
       "duration_ms": 295306,
       "name": "Music For Growing Flowers - Pt. 7",
       "url": "https://open.spotify.com/track/5OHJBp26mPT2GoemMDAFsg"
+    },
+    {
+      "album": {
+        "name": "Music For Growing Flowers \u2013 Pt. 7",
+        "url": "https://open.spotify.com/album/0riMdv3KGjNbtWmZSyrWbi"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295306,
+      "name": "Music For Growing Flowers - Pt. 7",
+      "url": "https://open.spotify.com/track/7zVkfU28W7XsRZroRuwY6b"
     },
     {
       "album": {
@@ -6994,7 +7128,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 286986,
       "name": "No Step on Wing",
       "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
@@ -7052,7 +7186,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 81641,
       "name": "Nos",
       "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
@@ -7150,7 +7284,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 195033,
       "name": "Now and Then",
       "url": "https://open.spotify.com/track/6cx0aLLFvHsZQ1MmfDll6p"
@@ -7366,7 +7500,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 187000,
       "name": "Okno",
       "url": "https://open.spotify.com/track/0GYaLzIU6knl7rSijMNF2Q"
@@ -7388,6 +7522,32 @@
       "duration_ms": 187000,
       "name": "Okno",
       "url": "https://open.spotify.com/track/1fne5Gw3Uv96aNy50Fer6s"
+    },
+    {
+      "album": {
+        "name": "On Being [Foam and Sand Rework]",
+        "url": "https://open.spotify.com/album/4XJwtAr2AISvX4GZByc0pG"
+      },
+      "artists": [
+        {
+          "name": "Six Missing",
+          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
+        },
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254769,
+      "name": "On Being [Foam and Sand Rework]",
+      "url": "https://open.spotify.com/track/2D43pD0M7hHCanJwgGJz5H"
     },
     {
       "album": {
@@ -7522,7 +7682,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 281003,
       "name": "Opera (Paris)",
       "url": "https://open.spotify.com/track/3DvbPJL6yFXhgp4mD5j5fD"
@@ -7558,7 +7718,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 260608,
       "name": "Ostuni",
       "url": "https://open.spotify.com/track/1ulFNOi3U1zjo5SRzV92Sf"
@@ -7638,7 +7798,7 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 231285,
       "name": "Parallel (feat. Manu Delago)",
       "url": "https://open.spotify.com/track/1TYyoP8sdXQ039kghXQZuf"
@@ -7710,7 +7870,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 236394,
       "name": "Partisans",
       "url": "https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC"
@@ -7764,7 +7924,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-04",
+      "date_removed": null,
       "duration_ms": 258053,
       "name": "Pause",
       "url": "https://open.spotify.com/track/6rUSYRNKQG15LBs24DxH5p"
@@ -7877,6 +8037,24 @@
     },
     {
       "album": {
+        "name": "Plata",
+        "url": "https://open.spotify.com/album/3weM7Wl1Ij3LgEuqsZcyjT"
+      },
+      "artists": [
+        {
+          "name": "Felix R\u00e4uber",
+          "url": "https://open.spotify.com/artist/16msWAQnQ3L2GIIWPSVcfL"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144813,
+      "name": "Plata",
+      "url": "https://open.spotify.com/track/3BZWetMYRK5EMagZA6fyT9"
+    },
+    {
+      "album": {
         "name": "Plume",
         "url": "https://open.spotify.com/album/4ljmpyMpm9drHONeKDdRsi"
       },
@@ -7906,7 +8084,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 157814,
       "name": "Pomegranate",
       "url": "https://open.spotify.com/track/2xDPJSFMb53Ym5HHGXuaJQ"
@@ -7928,7 +8106,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 290847,
       "name": "Post String Theory - Foam and Sand Rework",
       "url": "https://open.spotify.com/track/4UQCB1YLBTl8n1WeshtUq1"
@@ -7964,7 +8142,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 189471,
       "name": "Puccini: Vissi d'Arte - Olivia Belli Rework",
       "url": "https://open.spotify.com/track/0WYhU3QuRMUCSIW0qQN6li"
@@ -8026,6 +8204,32 @@
       "duration_ms": 141714,
       "name": "Que des Souvenirs",
       "url": "https://open.spotify.com/track/1HErhQ8EALc1ATkgHl7pKm"
+    },
+    {
+      "album": {
+        "name": "A. Coltrane: Radhe-Shyam",
+        "url": "https://open.spotify.com/album/3dGwIf7AamWHwE4hg2q3sU"
+      },
+      "artists": [
+        {
+          "name": "Alice Coltrane",
+          "url": "https://open.spotify.com/artist/6Ut4Sonlo8aANLNBjWacMa"
+        },
+        {
+          "name": "Ashley Jackson",
+          "url": "https://open.spotify.com/artist/0rJo9egOhkNC9N78nGkyXk"
+        },
+        {
+          "name": "The Harlem Chamber Players",
+          "url": "https://open.spotify.com/artist/6fu5LByg2NwlCklkEWu4Ee"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338084,
+      "name": "Radhe-Shyam",
+      "url": "https://open.spotify.com/track/2WSEMTJpsK58ysm8bUh8PB"
     },
     {
       "album": {
@@ -8118,7 +8322,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 228904,
       "name": "Refrost",
       "url": "https://open.spotify.com/track/05MRIEoiBKTtnTT70KkDdX"
@@ -8328,7 +8532,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 290856,
       "name": "River Oblivion",
       "url": "https://open.spotify.com/track/11jdGRoJx7gPqFQ77N70f8"
@@ -8346,7 +8550,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 154041,
       "name": "Riverscape",
       "url": "https://open.spotify.com/track/5GwVkYN0uWaS9rwNezJAZg"
@@ -8398,7 +8602,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 301299,
       "name": "Rose in Abstract - Portico Quartet Remix",
       "url": "https://open.spotify.com/track/4htEjLpOGBkjMHxoUslMgn"
@@ -8576,6 +8780,28 @@
       "duration_ms": 234524,
       "name": "Sept Douleurs",
       "url": "https://open.spotify.com/track/2dUVfbFG58h3OPYqCfbvyo"
+    },
+    {
+      "album": {
+        "name": "Sept Douleurs",
+        "url": "https://open.spotify.com/album/7oJy1UYW8iVVmWJvGJ9jA9"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Hamilton-Ayres",
+          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
+        },
+        {
+          "name": "Her Ensemble",
+          "url": "https://open.spotify.com/artist/60LMcgWPaQLRwx8dZicM3z"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234524,
+      "name": "Sept Douleurs",
+      "url": "https://open.spotify.com/track/6zSgxMKXxBeIXRobh5EcBa"
     },
     {
       "album": {
@@ -9560,7 +9786,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 200270,
       "name": "Stone Stairs",
       "url": "https://open.spotify.com/track/0tjlqNVncu5dZ2Snz0jAJ3"
@@ -9708,7 +9934,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 320000,
       "name": "Surges (variation)",
       "url": "https://open.spotify.com/track/7mWOySuZCM1exU4WVdBdDe"
@@ -9748,7 +9974,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 220760,
       "name": "Suspended - Reworked",
       "url": "https://open.spotify.com/track/4PzdK4G7ySynFFzMuPNSiD"
@@ -9846,7 +10072,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 175346,
       "name": "Take 5 - Solips - Klaus Sahm Rework",
       "url": "https://open.spotify.com/track/6pcjJAP1f8RHRvfW5kLmEm"
@@ -9936,7 +10162,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 214000,
       "name": "Thaw",
       "url": "https://open.spotify.com/track/63FVStUF6Dk6UGjkjmOsLU"
@@ -10465,6 +10691,24 @@
     },
     {
       "album": {
+        "name": "The Workman",
+        "url": "https://open.spotify.com/album/4YYxuWJdBoPcOBUjRTCONQ"
+      },
+      "artists": [
+        {
+          "name": "Challem",
+          "url": "https://open.spotify.com/artist/6HgZorDXJbiHimrwWfSRGf"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278818,
+      "name": "The Workman",
+      "url": "https://open.spotify.com/track/5QO9CkC1cDqflFklZ0rZQi"
+    },
+    {
+      "album": {
         "name": "Aparigraha",
         "url": "https://open.spotify.com/album/272vdjKU9Wz68K6SMHtiiy"
       },
@@ -10632,7 +10876,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 219185,
       "name": "Ticker Tape",
       "url": "https://open.spotify.com/track/0BcxviWZErROJx4uD0GN7w"
@@ -10668,7 +10912,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 184389,
       "name": "Time Out",
       "url": "https://open.spotify.com/track/7eNynetsjM4rSbW5AdA5u4"
@@ -10916,7 +11160,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 172293,
       "name": "Tshepo - I",
       "url": "https://open.spotify.com/track/1E3ImZmGiTxqZITnC7EChh"
@@ -11010,7 +11254,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 117500,
       "name": "Un Dimanche Orageux",
       "url": "https://open.spotify.com/track/7xcUYm5XUQ1bULRNlWCunX"
@@ -11218,7 +11462,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-21",
+      "date_removed": null,
       "duration_ms": 187500,
       "name": "Virus et Homo",
       "url": "https://open.spotify.com/track/7n4v5eCnoDsG7FMqJlC9Jk"
@@ -11448,7 +11692,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 276316,
       "name": "Waves",
       "url": "https://open.spotify.com/track/3p6PUYuD5JbhR33oukJBzB"
@@ -11546,7 +11790,7 @@
       ],
       "date_added": "2021-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 145333,
       "name": "Where Do We Go from Here",
       "url": "https://open.spotify.com/track/1X0X6BC5drvd3cnh3bCrXf"
@@ -11796,7 +12040,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 227674,
       "name": "Woven Song \u2014 piano reworks",
       "url": "https://open.spotify.com/track/1wb6pRSvhekFyXO5j3fXol"
@@ -11942,7 +12186,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 240331,
       "name": "Youth",
       "url": "https://open.spotify.com/track/0QNNi2mBpgopYG7F1bSLze"
@@ -11960,7 +12204,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 258221,
       "name": "Zima",
       "url": "https://open.spotify.com/track/642zqDakl1ffk9M3vjYzWe"

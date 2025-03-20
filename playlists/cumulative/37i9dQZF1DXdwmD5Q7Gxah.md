@@ -4,7 +4,7 @@
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/coming\-soon?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Newsletter coming soon...</a> Cover: Haim
 
-3,235 songs - 7 day 8 hr 0 min
+3,238 songs - 7 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1077,6 +1077,7 @@
 | [gimme all ur luv](https://open.spotify.com/track/7bKMO3og5pWUJV5g6VtZwp) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [gimme all ur luv](https://open.spotify.com/album/16pAkASl0bdyOQrVyTvuBF) | 2:53 | 2022-07-07 | 2022-12-08 |
 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 | 2024-02-28 | 2024-05-03 |
 | [Ginkgo](https://open.spotify.com/track/5Llgqw2pQm2JEdi67VuayP) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Ginkgo](https://open.spotify.com/album/7jnqB6h2Ctvm2dpT91oyRR) | 2:37 | 2024-11-22 | 2025-02-22 |
+| [Girl \(2025\)](https://open.spotify.com/track/7DuXqTgphrMZUA0cRU92TL) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 3:31 | 2025-03-19 |  |
 | [girl at the skatepark who smiled at me after i fell](https://open.spotify.com/track/6tFN6OWgHlreWKJePZDdLc) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [girl at the skatepark](https://open.spotify.com/album/5SAkQlXxGupYpsMncSowA7) | 1:54 | 2020-09-25 | 2021-01-12 |
 | [Girl Blue](https://open.spotify.com/track/5bBDRBBJdt3MjOyQL3uKer) | [Good Sport](https://open.spotify.com/artist/3hCpJaiHJXMvvjkfWXtwqS) | [Good Sport](https://open.spotify.com/album/0ANaT6d9iAaPdh4gGiTqVc) | 3:21 | 2023-06-30 | 2023-08-26 |
 | [Girl Feels Good](https://open.spotify.com/track/536rHxlVFXGJBO2xWE7HsV) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 3:56 | 2025-01-24 |  |
@@ -1222,6 +1223,7 @@
 | [Heaven](https://open.spotify.com/track/4rq7yBxY4DcmP8MvxJwxLX) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Heaven](https://open.spotify.com/album/7g4sJ83bs0W0xKBDT7npb2) | 3:20 | 2022-09-13 | 2022-10-29 |
 | [Heaven Falls / Fall on Me](https://open.spotify.com/track/7yHqOZfsXYlicyoMt62yC6) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Heaven Falls / Fall on Me](https://open.spotify.com/album/47FlG4nYHBCVO0DKbdMbCz) | 4:00 | 2019-08-02 | 2019-08-08 |
 | [Heaven Has To Happen](https://open.spotify.com/track/4yYLuj2ePdDTkCvmXB6E8y) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Heaven Has To Happen / The Opener](https://open.spotify.com/album/3F0abiQJAThM8Y6csoOMrC) | 3:29 | 2024-08-22 | 2024-10-12 |
+| [Heavenly Flow](https://open.spotify.com/track/2lOTK5uAzQ4OmRPXo2oAFX) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 2:54 | 2025-03-19 |  |
 | [Heavy](https://open.spotify.com/track/1ShRHPAiiIrh0arZbSFmx1) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 4:13 | 2024-07-26 | 2024-10-05 |
 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:15 | 2023-09-22 | 2023-11-18 |
 | [Hell of a Ride](https://open.spotify.com/track/09P99kOfM2P7w3DN3eL1uz) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Catching Chickens EP](https://open.spotify.com/album/2F3uJS0u2IHG8itwnMTTNH) | 3:43 | 2024-03-29 | 2024-07-27 |
@@ -3192,6 +3194,7 @@
 | [YOU CAN KEEP THE FIRE](https://open.spotify.com/track/1E0b2xYd4qWMpxrYDvIJCJ) | [Leyla Ebrahimi](https://open.spotify.com/artist/52yWTbMGFG2xpM86QddMvR) | [YOU CAN KEEP THE FIRE](https://open.spotify.com/album/4DnzDvjFDeOtHKt9kqGN8F) | 5:13 | 2025-03-14 |  |
 | [You Don't Know](https://open.spotify.com/track/5NDyOh0RpCpUuVA1IQTReh) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [You Don't Know](https://open.spotify.com/album/5uJPLnhXp8zYGSwCG3rRwg) | 4:41 | 2024-06-28 | 2024-08-10 |
 | [You First \(Re: Remi Wolf\)](https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 3:54 | 2023-10-06 | 2024-01-11 |
+| [You got time and I got money](https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [You got time and I got money](https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn) | 4:31 | 2025-03-19 |  |
 | [You Have Got to Be Kidding Me](https://open.spotify.com/track/3kai81vBptYiDfb0QXHv5X) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [You Have Got to Be Kidding Me](https://open.spotify.com/album/0e0c5rz0pMLFvqR7bDyXtc) | 3:36 | 2022-05-23 | 2022-07-30 |
 | [You Know](https://open.spotify.com/track/62Z3cSNVcHgUwlXPfOQTHU) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [Suburbia](https://open.spotify.com/album/6tgqWECqtuTsbMXoEHCkwI) | 3:17 | 2022-10-21 | 2022-12-08 |
 | [You Lose!](https://open.spotify.com/track/6b39rpIiepKunZyFHwugZQ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [You Lose!](https://open.spotify.com/album/2G1sZOFy7ReEHTLgpY5wzh) | 3:24 | 2021-09-21 | 2021-11-13 |

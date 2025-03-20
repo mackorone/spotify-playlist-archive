@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Sof\u00eda \u00c1lvez.",
-  "num_followers": 26660,
+  "num_followers": 26663,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
+        "name": "Vendaval",
+        "url": "https://open.spotify.com/album/3WRabb6CMQxnlrfdjVs68n"
+      },
+      "artists": [
+        {
+          "name": "Virado",
+          "url": "https://open.spotify.com/artist/2x5bC0BILZ4lQjCeZELupU"
+        }
+      ],
+      "duration_ms": 244275,
+      "name": "Vendaval",
+      "url": "https://open.spotify.com/track/2olRErhIECI6oZOywPoYk6"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
         "name": "Dos Hemisferios",
         "url": "https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 215931,
       "name": "Dos Hemisferios",
       "url": "https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
-        "name": "Vendaval",
-        "url": "https://open.spotify.com/album/3WRabb6CMQxnlrfdjVs68n"
-      },
-      "artists": [
-        {
-          "name": "Virado",
-          "url": "https://open.spotify.com/artist/2x5bC0BILZ4lQjCeZELupU"
-        }
-      ],
-      "duration_ms": 244275,
-      "name": "Vendaval",
-      "url": "https://open.spotify.com/track/2olRErhIECI6oZOywPoYk6"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -383,26 +383,6 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "Puntos Equidistantes (feat. Natalia Lafourcade)",
-        "url": "https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 227375,
-      "name": "Puntos Equidistantes (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
         "name": "Candombe",
         "url": "https://open.spotify.com/album/02tFQcbgaxEs6RRiGs6qCl"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 173877,
       "name": "El Tambor",
       "url": "https://open.spotify.com/track/6Ohp9GIMDh0mvDGo87KWY8"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
+        "name": "Puntos Equidistantes (feat. Natalia Lafourcade)",
+        "url": "https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 227375,
+      "name": "Puntos Equidistantes (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -491,6 +491,42 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
+        "name": "Cu\u00e1ndo y D\u00f3nde",
+        "url": "https://open.spotify.com/album/3ABUQjkrlpiczuZwbmO4Qf"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        },
+        {
+          "name": "Luz Elena Mendoza",
+          "url": "https://open.spotify.com/artist/1ZHeh74UvOHtp0h6ZNyZtv"
+        }
+      ],
+      "duration_ms": 194956,
+      "name": "Cu\u00e1ndo y D\u00f3nde",
+      "url": "https://open.spotify.com/track/0Uwd8OYQ22JboX3phAychX"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
+        "name": "UNDESASTRE",
+        "url": "https://open.spotify.com/album/3we6FpK61JQs2f1mbkJ1kG"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 222354,
+      "name": "DESASTRE",
+      "url": "https://open.spotify.com/track/1R9s6WJz2kMPP9yNHQArEk"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
         "name": "AHORA QUE ME VOY",
         "url": "https://open.spotify.com/album/0449a4ZfJtnfK2HONRdBsZ"
       },
@@ -515,42 +551,6 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "UNDESASTRE",
-        "url": "https://open.spotify.com/album/3we6FpK61JQs2f1mbkJ1kG"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 222354,
-      "name": "DESASTRE",
-      "url": "https://open.spotify.com/track/1R9s6WJz2kMPP9yNHQArEk"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
-        "name": "Cu\u00e1ndo y D\u00f3nde",
-        "url": "https://open.spotify.com/album/3ABUQjkrlpiczuZwbmO4Qf"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        },
-        {
-          "name": "Luz Elena Mendoza",
-          "url": "https://open.spotify.com/artist/1ZHeh74UvOHtp0h6ZNyZtv"
-        }
-      ],
-      "duration_ms": 194956,
-      "name": "Cu\u00e1ndo y D\u00f3nde",
-      "url": "https://open.spotify.com/track/0Uwd8OYQ22JboX3phAychX"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
         "name": "LXS INFERNALES (Del Valle Encantado)",
         "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
       },
@@ -563,26 +563,6 @@
       "duration_ms": 182256,
       "name": "TRIGAL",
       "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
-        "name": "Vals de la Luna (Vivo en Madrid)",
-        "url": "https://open.spotify.com/album/4GUXXkfXgUVlbbp9yhzNmb"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        },
-        {
-          "name": "Liniers",
-          "url": "https://open.spotify.com/artist/5wRmSI0ZmYNPPuMyo8cRvb"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Vals de la Luna (Vivo en Madrid)",
-      "url": "https://open.spotify.com/track/1lcYkQf99lUThsqtccv3bO"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -615,6 +595,26 @@
       "duration_ms": 223142,
       "name": "me hace bien amar(te)",
       "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
+        "name": "Vals de la Luna (Vivo en Madrid)",
+        "url": "https://open.spotify.com/album/4GUXXkfXgUVlbbp9yhzNmb"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        },
+        {
+          "name": "Liniers",
+          "url": "https://open.spotify.com/artist/5wRmSI0ZmYNPPuMyo8cRvb"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Vals de la Luna (Vivo en Madrid)",
+      "url": "https://open.spotify.com/track/1lcYkQf99lUThsqtccv3bO"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "El Rostro de los Acantilados",
-        "url": "https://open.spotify.com/album/2ZD0El7NaZMoSPtEOszY4w"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        }
-      ],
-      "duration_ms": 271006,
-      "name": "Tu Mundo",
-      "url": "https://open.spotify.com/track/1ll8FoGTVHTtU3G0A6t1Db"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
         "name": "los ausentes",
         "url": "https://open.spotify.com/album/1EtqdQBg0c3m1iVJNctVF9"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 179635,
       "name": "los ausentes",
       "url": "https://open.spotify.com/track/5JgHXc7awzk6q5WoYUjSJj"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
+        "name": "El Rostro de los Acantilados",
+        "url": "https://open.spotify.com/album/2ZD0El7NaZMoSPtEOszY4w"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        }
+      ],
+      "duration_ms": 271006,
+      "name": "Tu Mundo",
+      "url": "https://open.spotify.com/track/1ll8FoGTVHTtU3G0A6t1Db"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
+        "name": "Hunde",
+        "url": "https://open.spotify.com/album/2wzVHWdzz15E9nuZ63ZtKJ"
+      },
+      "artists": [
+        {
+          "name": "Patuco L\u00f3pez",
+          "url": "https://open.spotify.com/artist/2bq9ody02kVhFK3RQ8THRy"
+        },
+        {
+          "name": "Santiago Moraes",
+          "url": "https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld"
+        }
+      ],
+      "duration_ms": 234250,
+      "name": "El \u00daltimo Mate",
+      "url": "https://open.spotify.com/track/6WWXNlIRqZ3tYCzJo20mJD"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
         "name": "Luna Llena de Fuego",
         "url": "https://open.spotify.com/album/1SoLqCi9zPz3aFjbMFkfHF"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 161875,
       "name": "Luna Llena de Fuego",
       "url": "https://open.spotify.com/track/22AoaRhyEfGwxGYc951ZLM"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
-        "name": "Hunde",
-        "url": "https://open.spotify.com/album/2wzVHWdzz15E9nuZ63ZtKJ"
-      },
-      "artists": [
-        {
-          "name": "Patuco L\u00f3pez",
-          "url": "https://open.spotify.com/artist/2bq9ody02kVhFK3RQ8THRy"
-        },
-        {
-          "name": "Santiago Moraes",
-          "url": "https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld"
-        }
-      ],
-      "duration_ms": 234250,
-      "name": "El \u00daltimo Mate",
-      "url": "https://open.spotify.com/track/6WWXNlIRqZ3tYCzJo20mJD"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
+        "name": "Latinoam\u00e9rica (Aqu\u00ed estamos de pie)",
+        "url": "https://open.spotify.com/album/30yi1BdQylOAW2Y80Fe8Ej"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Pinto",
+          "url": "https://open.spotify.com/artist/5RYdKjTrw6Z14Vwtd0f0nR"
+        },
+        {
+          "name": "Dar\u00edo Sztajnszrajber",
+          "url": "https://open.spotify.com/artist/453QsKyL010NjMRXi5hGcI"
+        }
+      ],
+      "duration_ms": 367388,
+      "name": "Latinoam\u00e9rica (Aqu\u00ed estamos de pie)",
+      "url": "https://open.spotify.com/track/2LSLrUEM8IZ3WrUE4wv8vO"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
         "name": "Alma Gitana",
         "url": "https://open.spotify.com/album/09UYfumzxnNeYgzOtYPwfj"
       },
@@ -1179,22 +1199,22 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "Latinoam\u00e9rica (Aqu\u00ed estamos de pie)",
-        "url": "https://open.spotify.com/album/30yi1BdQylOAW2Y80Fe8Ej"
+        "name": "Arrullito",
+        "url": "https://open.spotify.com/album/4kASZ1hMeBCDM1bE61NQLz"
       },
       "artists": [
         {
-          "name": "Lucrecia Pinto",
-          "url": "https://open.spotify.com/artist/5RYdKjTrw6Z14Vwtd0f0nR"
+          "name": "Lucio Feuillet",
+          "url": "https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy"
         },
         {
-          "name": "Dar\u00edo Sztajnszrajber",
-          "url": "https://open.spotify.com/artist/453QsKyL010NjMRXi5hGcI"
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
         }
       ],
-      "duration_ms": 367388,
-      "name": "Latinoam\u00e9rica (Aqu\u00ed estamos de pie)",
-      "url": "https://open.spotify.com/track/2LSLrUEM8IZ3WrUE4wv8vO"
+      "duration_ms": 228271,
+      "name": "Arrullito",
+      "url": "https://open.spotify.com/track/3UQhsG1P4KM2cueYmYMWRi"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -1219,6 +1239,22 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
+        "name": "Las Luces Que Estaban Ocultas [en vivo]",
+        "url": "https://open.spotify.com/album/1hC1FBKykJyHC2oNyq1Zxo"
+      },
+      "artists": [
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "configuracionesonduladas_17.11.23_nicetoclub_bsas",
+      "url": "https://open.spotify.com/track/50lK2pEB7EDDczjUfKHT5b"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
         "name": "Falso de amor",
         "url": "https://open.spotify.com/album/7CWGDvXea9XZhgWon8uLEc"
       },
@@ -1239,22 +1275,6 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "Las Luces Que Estaban Ocultas [en vivo]",
-        "url": "https://open.spotify.com/album/1hC1FBKykJyHC2oNyq1Zxo"
-      },
-      "artists": [
-        {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "configuracionesonduladas_17.11.23_nicetoclub_bsas",
-      "url": "https://open.spotify.com/track/50lK2pEB7EDDczjUfKHT5b"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
         "name": "Esperarte",
         "url": "https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT"
       },
@@ -1267,46 +1287,6 @@
       "duration_ms": 205266,
       "name": "Esperarte",
       "url": "https://open.spotify.com/track/1zAoX7MQEhFn1hXJqCUAmJ"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
-        "name": "Arrullito",
-        "url": "https://open.spotify.com/album/4kASZ1hMeBCDM1bE61NQLz"
-      },
-      "artists": [
-        {
-          "name": "Lucio Feuillet",
-          "url": "https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy"
-        },
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        }
-      ],
-      "duration_ms": 228271,
-      "name": "Arrullito",
-      "url": "https://open.spotify.com/track/3UQhsG1P4KM2cueYmYMWRi"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
-        "name": "Juana De C\u00e1diz",
-        "url": "https://open.spotify.com/album/701XCJBlqDynw3S06YAufd"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Balbis",
-          "url": "https://open.spotify.com/artist/7HubTnEWI11WfxULdbqvti"
-        },
-        {
-          "name": "Luana",
-          "url": "https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy"
-        }
-      ],
-      "duration_ms": 203701,
-      "name": "Juana De C\u00e1diz",
-      "url": "https://open.spotify.com/track/6HPltAAAB93eEXGfPuDW7K"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -1331,6 +1311,26 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
+        "name": "Juana De C\u00e1diz",
+        "url": "https://open.spotify.com/album/701XCJBlqDynw3S06YAufd"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Balbis",
+          "url": "https://open.spotify.com/artist/7HubTnEWI11WfxULdbqvti"
+        },
+        {
+          "name": "Luana",
+          "url": "https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy"
+        }
+      ],
+      "duration_ms": 203701,
+      "name": "Juana De C\u00e1diz",
+      "url": "https://open.spotify.com/track/6HPltAAAB93eEXGfPuDW7K"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
         "name": "Porte\u00f1a",
         "url": "https://open.spotify.com/album/1Cw28qlsCwgIBYnhgqEyzC"
       },
@@ -1343,26 +1343,6 @@
       "duration_ms": 254829,
       "name": "Malagradecida",
       "url": "https://open.spotify.com/track/6ttA706vqyxFWRbq0zoL8x"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV"
-      },
-      "artists": [
-        {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
-        },
-        {
-          "name": "La Nueva Imperial",
-          "url": "https://open.spotify.com/artist/77ACTvw7McpnqutCOJx4o5"
-        }
-      ],
-      "duration_ms": 202655,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -1383,6 +1363,26 @@
       "duration_ms": 282990,
       "name": "Pecho Jard\u00edn",
       "url": "https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV"
+      },
+      "artists": [
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        },
+        {
+          "name": "La Nueva Imperial",
+          "url": "https://open.spotify.com/artist/77ACTvw7McpnqutCOJx4o5"
+        }
+      ],
+      "duration_ms": 202655,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "Puntos Cardinales",
-        "url": "https://open.spotify.com/album/22l1ECW02p1pcXyBCFOh6f"
-      },
-      "artists": [
-        {
-          "name": "Laura Canoura",
-          "url": "https://open.spotify.com/artist/0ATxyDnFvftkIT21OZu80N"
-        },
-        {
-          "name": "Ricardo Mollo",
-          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
-        }
-      ],
-      "duration_ms": 301664,
-      "name": "Puntos Cardinales",
-      "url": "https://open.spotify.com/track/5GKSuqq399v74JageW2C9L"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
         "name": "\u00bfQU\u00c9 VES?",
         "url": "https://open.spotify.com/album/4q51LFiTNCS7zV1FMSSQVF"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 306776,
       "name": "\u00bfQU\u00c9 VES?",
       "url": "https://open.spotify.com/track/7s47ONrsw6af0bSgjgNzB1"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
+        "name": "Puntos Cardinales",
+        "url": "https://open.spotify.com/album/22l1ECW02p1pcXyBCFOh6f"
+      },
+      "artists": [
+        {
+          "name": "Laura Canoura",
+          "url": "https://open.spotify.com/artist/0ATxyDnFvftkIT21OZu80N"
+        },
+        {
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
+        }
+      ],
+      "duration_ms": 301664,
+      "name": "Puntos Cardinales",
+      "url": "https://open.spotify.com/track/5GKSuqq399v74JageW2C9L"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "Del otro lado de la vidriera",
-        "url": "https://open.spotify.com/album/36b4FRKLtMv0Z75NCtoOZP"
-      },
-      "artists": [
-        {
-          "name": "Galean",
-          "url": "https://open.spotify.com/artist/3usCwS0jcb6SFJe3ZPiFA8"
-        },
-        {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
-        }
-      ],
-      "duration_ms": 256032,
-      "name": "Tu Profec\u00eda",
-      "url": "https://open.spotify.com/track/5K4e3D9pEibOQA0T17s34P"
-    },
-    {
-      "added_at": "2025-02-21 03:00:32",
-      "album": {
         "name": "Duele la pena",
         "url": "https://open.spotify.com/album/3waHdfO9Z0jzpDRXwiOLLl"
       },
@@ -1847,22 +1827,22 @@
     {
       "added_at": "2025-02-21 03:00:32",
       "album": {
-        "name": "Sexo y Sushi",
-        "url": "https://open.spotify.com/album/6KkeJ1xofRxxvVkTpuG1hu"
+        "name": "Del otro lado de la vidriera",
+        "url": "https://open.spotify.com/album/36b4FRKLtMv0Z75NCtoOZP"
       },
       "artists": [
         {
-          "name": "Cata Raybaud",
-          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
+          "name": "Galean",
+          "url": "https://open.spotify.com/artist/3usCwS0jcb6SFJe3ZPiFA8"
         },
         {
-          "name": "Ni\u00f1o Etc.",
-          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
         }
       ],
-      "duration_ms": 172842,
-      "name": "Sexo y Sushi",
-      "url": "https://open.spotify.com/track/1mqRD9uR38rWpCUtg8jf7W"
+      "duration_ms": 256032,
+      "name": "Tu Profec\u00eda",
+      "url": "https://open.spotify.com/track/5K4e3D9pEibOQA0T17s34P"
     },
     {
       "added_at": "2025-02-21 03:00:32",
@@ -1899,6 +1879,26 @@
       "duration_ms": 109962,
       "name": "La Mariposa",
       "url": "https://open.spotify.com/track/3k8diAty8oozYqQV8j7v0R"
+    },
+    {
+      "added_at": "2025-02-21 03:00:32",
+      "album": {
+        "name": "Sexo y Sushi",
+        "url": "https://open.spotify.com/album/6KkeJ1xofRxxvVkTpuG1hu"
+      },
+      "artists": [
+        {
+          "name": "Cata Raybaud",
+          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
+        },
+        {
+          "name": "Ni\u00f1o Etc.",
+          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
+        }
+      ],
+      "duration_ms": 172842,
+      "name": "Sexo y Sushi",
+      "url": "https://open.spotify.com/track/1mqRD9uR38rWpCUtg8jf7W"
     }
   ],
   "unique_name": "Voces del Sur",

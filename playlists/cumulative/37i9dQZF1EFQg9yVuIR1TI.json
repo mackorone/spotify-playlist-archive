@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Sweet Charity: First Complete Recording (2007 London Studio Cast)",
+        "url": "https://open.spotify.com/album/3yjuUReYe4SNs2iaMVSjwZ"
+      },
+      "artists": [
+        {
+          "name": "Ethan Freeman",
+          "url": "https://open.spotify.com/artist/1YdCl5921QwUPWnGgsDPFb"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54519,
+      "name": "Bows",
+      "url": "https://open.spotify.com/track/6vc3yK9Y56lWp4j7Ic1Cm2"
+    },
+    {
+      "album": {
         "name": "Sweet Charity (2007 London Studio Cast)",
         "url": "https://open.spotify.com/album/5PKMwKCyfhSzjvy3APMFhZ"
       },
@@ -122,7 +140,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 54519,
       "name": "Bows",
       "url": "https://open.spotify.com/track/4vH8JU5vIM5opsx0BRECZ5"
@@ -183,6 +201,24 @@
     },
     {
       "album": {
+        "name": "Sweet Charity: First Complete Recording (2007 London Studio Cast)",
+        "url": "https://open.spotify.com/album/3yjuUReYe4SNs2iaMVSjwZ"
+      },
+      "artists": [
+        {
+          "name": "National Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/58n1bNWH1HPQmx5R9uJ7Gi"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76919,
+      "name": "Coney Island Waltz",
+      "url": "https://open.spotify.com/track/5UNIBeOQkS1FBpYUshtE13"
+    },
+    {
+      "album": {
         "name": "Sweet Charity (2007 London Studio Cast)",
         "url": "https://open.spotify.com/album/5PKMwKCyfhSzjvy3APMFhZ"
       },
@@ -194,7 +230,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 76919,
       "name": "Coney Island Waltz",
       "url": "https://open.spotify.com/track/63bMTcyU7ZQSDhXYYUgzWo"
@@ -946,10 +982,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 126252,
       "name": "Subway",
       "url": "https://open.spotify.com/track/1KWINi0Qleahal6922tD3J"
+    },
+    {
+      "album": {
+        "name": "Sweet Charity: First Complete Recording (2007 London Studio Cast)",
+        "url": "https://open.spotify.com/album/3yjuUReYe4SNs2iaMVSjwZ"
+      },
+      "artists": [
+        {
+          "name": "National Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/58n1bNWH1HPQmx5R9uJ7Gi"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126252,
+      "name": "Subway",
+      "url": "https://open.spotify.com/track/3m4UmmGxdT5eHDlugbzxU3"
     },
     {
       "album": {

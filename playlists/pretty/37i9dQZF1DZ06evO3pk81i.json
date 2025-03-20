@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 7426,
+  "num_followers": 7427,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAADyiXfrRYtfJicaFDbVGDSg",
+  "snapshot_id": "Z9i3gAAAAAAkVnYHsXBUany9OlYAR5Te",
   "tracks": [
     {
       "added_at": null,
@@ -171,26 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/72dpueKPayWOlGcCgWr3g5"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        }
-      ],
-      "duration_ms": 148088,
-      "name": "Bandido",
-      "url": "https://open.spotify.com/track/7wgQC3zvKtEmOhzV7FnK37"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Conexi\u00f3n",
         "url": "https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 146659,
       "name": "Conexi\u00f3n",
       "url": "https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/72dpueKPayWOlGcCgWr3g5"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "duration_ms": 148088,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/7wgQC3zvKtEmOhzV7FnK37"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Sigue Igual",
-        "url": "https://open.spotify.com/album/5xajybIAx7DoEEop4UAEXI"
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 208641,
-      "name": "Nada Sigue Igual",
-      "url": "https://open.spotify.com/track/1Qho1WCzzFetqsasoZudDU"
+      "duration_ms": 227213,
+      "name": "Soy Aquel",
+      "url": "https://open.spotify.com/track/05ADejXF6OzAvOT32K7r7a"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw"
+        "name": "Nada Sigue Igual",
+        "url": "https://open.spotify.com/album/5xajybIAx7DoEEop4UAEXI"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 227213,
-      "name": "Soy Aquel",
-      "url": "https://open.spotify.com/track/05ADejXF6OzAvOT32K7r7a"
+      "duration_ms": 208641,
+      "name": "Nada Sigue Igual",
+      "url": "https://open.spotify.com/track/1Qho1WCzzFetqsasoZudDU"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viene Diciembre",
-        "url": "https://open.spotify.com/album/1Zz5n6oK5aZeppY5Xbj0ha"
+        "name": "Marc\u00e1ndote",
+        "url": "https://open.spotify.com/album/3ZxRpyYUN1tEAusn7aG3N1"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 186394,
-      "name": "Viene Diciembre",
-      "url": "https://open.spotify.com/track/0MI3ecobuZBu2u2jwTuNCJ"
+      "duration_ms": 179066,
+      "name": "Marc\u00e1ndote",
+      "url": "https://open.spotify.com/track/0rtoh7bC7nW9clwmnCTeAe"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fue Mi Culpa",
-        "url": "https://open.spotify.com/album/4ixj7UNFpQvZ4J0vRNlrI7"
+        "name": "Viene Diciembre",
+        "url": "https://open.spotify.com/album/1Zz5n6oK5aZeppY5Xbj0ha"
       },
       "artists": [
         {
@@ -792,25 +792,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 212453,
-      "name": "Fue Mi Culpa",
-      "url": "https://open.spotify.com/track/3s9tXoVLXkea4zI3ly3OHV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marc\u00e1ndote",
-        "url": "https://open.spotify.com/album/3ZxRpyYUN1tEAusn7aG3N1"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 179066,
-      "name": "Marc\u00e1ndote",
-      "url": "https://open.spotify.com/track/0rtoh7bC7nW9clwmnCTeAe"
+      "duration_ms": 186394,
+      "name": "Viene Diciembre",
+      "url": "https://open.spotify.com/track/0MI3ecobuZBu2u2jwTuNCJ"
     },
     {
       "added_at": null,
@@ -831,6 +815,22 @@
       "duration_ms": 260000,
       "name": "Ni\u00f1a Buena",
       "url": "https://open.spotify.com/track/6PTekRdiemAJG12yFBHmsz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fue Mi Culpa",
+        "url": "https://open.spotify.com/album/4ixj7UNFpQvZ4J0vRNlrI7"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 212453,
+      "name": "Fue Mi Culpa",
+      "url": "https://open.spotify.com/track/3s9tXoVLXkea4zI3ly3OHV"
     },
     {
       "added_at": null,

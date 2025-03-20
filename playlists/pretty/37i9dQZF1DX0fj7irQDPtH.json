@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2014. Cover: Romeo Santos",
-  "num_followers": 54109,
+  "num_followers": 54157,
   "original_name": "Latin Hits 2014",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
-        "name": "HA-ASH Primera Fila - Hecho Realidad",
-        "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Lo Aprend\u00ed de Ti - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
-      "url": "https://open.spotify.com/track/3xrpI0GqWNMjMDOdXUOnK3"
-    },
-    {
-      "added_at": "2024-07-13 01:11:49",
-      "album": {
         "name": "La Familia B Sides",
         "url": "https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 226413,
       "name": "Ay Vamos",
       "url": "https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ"
+    },
+    {
+      "added_at": "2024-07-13 01:11:49",
+      "album": {
+        "name": "HA-ASH Primera Fila - Hecho Realidad",
+        "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Lo Aprend\u00ed de Ti - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
+      "url": "https://open.spotify.com/track/3xrpI0GqWNMjMDOdXUOnK3"
     },
     {
       "added_at": "2024-07-13 01:11:49",
@@ -123,26 +123,18 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
-        "name": "Globalization",
-        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
+        "name": "Un alumno m\u00e1s",
+        "url": "https://open.spotify.com/album/0Ggp1Xlj8V9dBz1nrQATgo"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Claudia Leitte",
-          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
         }
       ],
-      "duration_ms": 222520,
-      "name": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte)",
-      "url": "https://open.spotify.com/track/1PCvKFPWnTXAe2oaReVUcr"
+      "duration_ms": 233040,
+      "name": "La promesa",
+      "url": "https://open.spotify.com/track/2GJyBJWPmnM7pK961cB6iV"
     },
     {
       "added_at": "2024-07-13 01:11:49",
@@ -167,34 +159,26 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
-        "name": "HA-ASH Primera Fila - Hecho Realidad",
-        "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
+        "name": "Globalization",
+        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
       },
       "artists": [
         {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 226986,
-      "name": "Perd\u00f3n, Perd\u00f3n - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
-      "url": "https://open.spotify.com/track/15Hx1oi6C3AxYhhvolqrJG"
-    },
-    {
-      "added_at": "2024-07-13 01:11:49",
-      "album": {
-        "name": "Un alumno m\u00e1s",
-        "url": "https://open.spotify.com/album/0Ggp1Xlj8V9dBz1nrQATgo"
-      },
-      "artists": [
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
         {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Claudia Leitte",
+          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
         }
       ],
-      "duration_ms": 233040,
-      "name": "La promesa",
-      "url": "https://open.spotify.com/track/2GJyBJWPmnM7pK961cB6iV"
+      "duration_ms": 222520,
+      "name": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte)",
+      "url": "https://open.spotify.com/track/1PCvKFPWnTXAe2oaReVUcr"
     },
     {
       "added_at": "2024-07-13 01:11:49",
@@ -227,6 +211,22 @@
       "duration_ms": 213480,
       "name": "Los Mensajes del Whatsapp",
       "url": "https://open.spotify.com/track/2MJVc9F85EPNiSfD1KKhC9"
+    },
+    {
+      "added_at": "2024-07-13 01:11:49",
+      "album": {
+        "name": "HA-ASH Primera Fila - Hecho Realidad",
+        "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 226986,
+      "name": "Perd\u00f3n, Perd\u00f3n - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
+      "url": "https://open.spotify.com/track/15Hx1oi6C3AxYhhvolqrJG"
     },
     {
       "added_at": "2024-07-13 01:11:49",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
+        "name": "Terral",
+        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 234373,
+      "name": "Pasos de cero",
+      "url": "https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ"
+    },
+    {
+      "added_at": "2024-07-13 01:11:49",
+      "album": {
         "name": "Creo en Mi",
         "url": "https://open.spotify.com/album/1xNMuh0Swat8gcuKh09rs1"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 215813,
       "name": "Ojos Color Sol (feat. Silvio Rodr\u00edguez)",
       "url": "https://open.spotify.com/track/1RIhd7jjWDQwSKsbxxGArN"
-    },
-    {
-      "added_at": "2024-07-13 01:11:49",
-      "album": {
-        "name": "Terral",
-        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 234373,
-      "name": "Pasos de cero",
-      "url": "https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ"
     },
     {
       "added_at": "2024-07-13 01:11:49",
@@ -411,22 +411,18 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
-        "name": "Golpe Avisa",
-        "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
+        "name": "Farruko Presents Los Menores",
+        "url": "https://open.spotify.com/album/4ic94lYuJ37YBXfgsMDUWf"
       },
       "artists": [
         {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        },
-        {
-          "name": "Campa",
-          "url": "https://open.spotify.com/artist/60qHhKcrUepPj9R1kZ2YGR"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 285013,
-      "name": "Suena Mamal***",
-      "url": "https://open.spotify.com/track/3qTatqQ0vzzztgYdaQGEmV"
+      "duration_ms": 221735,
+      "name": "Lejos de Aqu\u00ed",
+      "url": "https://open.spotify.com/track/7fzErW0dRVRaTWjNLPFwUn"
     },
     {
       "added_at": "2024-07-13 01:11:49",
@@ -451,18 +447,22 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
-        "name": "Farruko Presents Los Menores",
-        "url": "https://open.spotify.com/album/4ic94lYuJ37YBXfgsMDUWf"
+        "name": "Golpe Avisa",
+        "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "name": "Campa",
+          "url": "https://open.spotify.com/artist/60qHhKcrUepPj9R1kZ2YGR"
         }
       ],
-      "duration_ms": 221735,
-      "name": "Lejos de Aqu\u00ed",
-      "url": "https://open.spotify.com/track/7fzErW0dRVRaTWjNLPFwUn"
+      "duration_ms": 285013,
+      "name": "Suena Mamal***",
+      "url": "https://open.spotify.com/track/3qTatqQ0vzzztgYdaQGEmV"
     },
     {
       "added_at": "2024-07-13 01:11:49",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
-        "name": "PB.DB. The Mixtape",
-        "url": "https://open.spotify.com/album/6aAnALBukLj6fVuwfnMkvc"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 219186,
-      "name": "La Curiosidad",
-      "url": "https://open.spotify.com/track/3AtfmXxTKKn0QIEbdRRvJI"
-    },
-    {
-      "added_at": "2024-07-13 01:11:49",
-      "album": {
         "name": "Una Cita (Remix)",
         "url": "https://open.spotify.com/album/6lEJcXTGwEF6HHkdyA00iR"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 275945,
       "name": "Una Cita - Remix",
       "url": "https://open.spotify.com/track/3Ke1NVElHXQpBeuWz6QOt8"
+    },
+    {
+      "added_at": "2024-07-13 01:11:49",
+      "album": {
+        "name": "PB.DB. The Mixtape",
+        "url": "https://open.spotify.com/album/6aAnALBukLj6fVuwfnMkvc"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 219186,
+      "name": "La Curiosidad",
+      "url": "https://open.spotify.com/track/3AtfmXxTKKn0QIEbdRRvJI"
     },
     {
       "added_at": "2024-07-13 01:11:49",
@@ -863,26 +863,18 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
-        "name": "Candy Perreo",
-        "url": "https://open.spotify.com/album/0zbfqXk5o567KzNdATeOqj"
+        "name": "Johnny Sky",
+        "url": "https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi"
       },
       "artists": [
         {
-          "name": "Dj Peligro",
-          "url": "https://open.spotify.com/artist/59WHbFutFDJyaUAcwYd1kh"
-        },
-        {
-          "name": "Kazu",
-          "url": "https://open.spotify.com/artist/60Tz6bmSLLA18qJoYWvJhM"
-        },
-        {
-          "name": "DJ Kelvin El Sacamostro",
-          "url": "https://open.spotify.com/artist/6DJyhClLATkdn3UhSDbrtv"
+          "name": "Johnny Sky",
+          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
         }
       ],
-      "duration_ms": 272677,
-      "name": "Candy Perreo",
-      "url": "https://open.spotify.com/track/2UxUyhlnc3yHLTRAt2Xa8I"
+      "duration_ms": 240732,
+      "name": "Quiereme",
+      "url": "https://open.spotify.com/track/3zLZzw2t5mbsLaNQURufkB"
     }
   ],
   "unique_name": "Latin Hits 2014",

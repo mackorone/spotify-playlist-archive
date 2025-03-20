@@ -4,7 +4,7 @@
 
 > Mujeres a todo volumen: un homenaje a Violeta Parra.
 
-944 songs - 2 day 4 hr 30 min
+945 songs - 2 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Cielo](https://open.spotify.com/track/0L5c13t2CV26l6rDGOGVnI) | [Emaflu](https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [Cuatrobeats](https://open.spotify.com/artist/5VH4yORLdFVHVSqCYAjjoh), [Dj Efe](https://open.spotify.com/artist/4XdZAAWHiuwSW2gpTVWx4U) | [Cielo](https://open.spotify.com/album/6G7uBMlfcqqklEKiCki1ev) | 4:34 | 2023-06-05 | 2023-09-07 |
 | [Cinta Blanca](https://open.spotify.com/track/3rZI0PDP3Rb7ud22xnTtEk) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Cinta Blanca](https://open.spotify.com/album/4pqwbzTTW3BaZ8mJCy2mNq) | 4:47 | 2024-03-06 | 2024-03-08 |
 | [Clara](https://open.spotify.com/track/63q0vbXjdpzMS6EIUuv77R) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Clara](https://open.spotify.com/album/3Urx6Gf2iN5NPaaswZCpdq) | 3:52 | 2023-01-04 | 2023-02-02 |
+| [clara](https://open.spotify.com/track/6fN4wNWNm3QmlC3EJp7mib) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Albor](https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7) | 3:52 | 2025-02-05 |  |
 | [Cm no me va a doler?](https://open.spotify.com/track/6qM4WikwmfjWPDGwfA83tX) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Crónicas de un cora roto](https://open.spotify.com/album/0FfnQ5pL5KLaJIkZOkzfV2) | 3:32 | 2023-01-04 | 2023-09-07 |
 | [Colibrí](https://open.spotify.com/track/0EKGAB37A6Pi3Sc59jUATI) | [Magdalena Matthey](https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV) | [Del otro lado](https://open.spotify.com/album/0CxTT7EJUX7xluQQyBL1Au) | 2:47 | 2025-02-05 |  |
 | [Como Antes](https://open.spotify.com/track/0Bj0PwegArVw6LfZB45Nzp) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4) | [Como Antes](https://open.spotify.com/album/4zuTGAxecqQaSRVkn7mBKu) | 3:45 | 2022-11-30 | 2023-01-05 |
@@ -816,7 +817,7 @@
 | [Sutra](https://open.spotify.com/track/6sYztTSsz8nPFl4hNtUKJW) | [Lolein](https://open.spotify.com/artist/5RxAHOobccLdRcqT6CMvxY) | [Sutra](https://open.spotify.com/album/3CHyvK6LVR6p83GIoyO50u) | 3:46 | 2024-03-06 | 2024-03-08 |
 | [SWEET](https://open.spotify.com/track/4nEzqJXg1wMym7WrXVulUE) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq) | [SUSHI VENUS](https://open.spotify.com/album/5cCfwccagn5RTyUfaUHn18) | 2:43 | 2022-04-06 | 2022-05-05 |
 | [Sábado](https://open.spotify.com/track/1RoMrVzc0aeFaJC1MVTSQF) | [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Maleza](https://open.spotify.com/album/1V2YNxuymQ7b4N6EAst0Qd) | 3:51 | 2023-09-06 | 2023-10-05 |
-| [Sábanas Azules](https://open.spotify.com/track/6JCOJrfEqOjojTpiOejhA3) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Poética Bailable Vol\. 1](https://open.spotify.com/album/0WX90YTp6QsEVOHG5Qij3e) | 2:57 | 2025-02-05 |  |
+| [Sábanas Azules](https://open.spotify.com/track/6JCOJrfEqOjojTpiOejhA3) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Poética Bailable Vol\. 1](https://open.spotify.com/album/0WX90YTp6QsEVOHG5Qij3e) | 2:57 | 2025-02-05 | 2025-03-20 |
 | [Sé Ke Tú](https://open.spotify.com/track/08D1U1FZoZbBoatvuIKPxp) | [Iktus](https://open.spotify.com/artist/4DqguavmAWXP4KjI7badwW) | [Sé Ke Tú](https://open.spotify.com/album/299sh9JipnYnMVsA28Vblw) | 3:23 | 2023-07-05 | 2023-08-03 |
 | [Sí Sí Sí](https://open.spotify.com/track/3xeTWr7alFHDn5ZWITHUSX) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Bestia](https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9) | 3:48 | 2022-02-02 | 2023-01-05 |
 | [Sólo Quiero Que Me Salves Tú](https://open.spotify.com/track/7lBJOE3OFhU6oWkXThvXb7) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [La Existencia](https://open.spotify.com/album/1QKaPiV1fCyntCSBjRuMFj) | 4:24 | 2022-07-06 | 2022-07-29 |

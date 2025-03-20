@@ -2370,7 +2370,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 286374,
       "name": "Just innan gryningen",
       "url": "https://open.spotify.com/track/1XLzYfPNccoyY0fRwzFV8N"
@@ -3294,12 +3294,12 @@
       },
       "artists": [
         {
-          "name": "AMIANGELIKA",
-          "url": "https://open.spotify.com/artist/2slfgfuDpiNgvjhy0EImUu"
-        },
-        {
           "name": "1100",
           "url": "https://open.spotify.com/artist/0udbah3aryBR7bduL0pIr6"
+        },
+        {
+          "name": "AMIANGELIKA",
+          "url": "https://open.spotify.com/artist/2slfgfuDpiNgvjhy0EImUu"
         }
       ],
       "date_added": "2025-02-13",
@@ -3878,7 +3878,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 126773,
       "name": "Ribbon",
       "url": "https://open.spotify.com/track/16lUfemInxpAtAdj6pP9YM"

@@ -4,7 +4,7 @@
 
 > Przywitaj wiosnę błogimi dźwiękami 🌷
 
-421 songs - 23 hr 37 min
+422 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-09-12 | 2024-11-22 |
 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 | 2025-02-21 |  |
 | [SALTY](https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PLAYHOUSE](https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO) | 3:11 | 2024-11-08 |  |
+| [Savior](https://open.spotify.com/track/5h1ZgjFl9o9Bc1UTlJ9V1l) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Savior](https://open.spotify.com/album/06D1vzjX7t7zLZJd9xIJ7g) | 3:36 | 2025-03-14 |  |
 | [Say](https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Say](https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY) | 3:01 | 2024-07-11 | 2024-09-13 |
 | [Scared Of Loving You](https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Scared Of Loving You](https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt) | 1:50 | 2025-02-21 |  |
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-09-12 | 2024-11-22 |
@@ -405,7 +406,7 @@
 | [Więcej](https://open.spotify.com/track/73l4adiuFKirZH4umyzEog) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Więcej](https://open.spotify.com/album/2wLGQoYi4SsbyGmjEbQiNE) | 2:33 | 2024-11-08 | 2025-02-22 |
 | [Worlds Collide \(Inspired by Arcane League of Legends\)](https://open.spotify.com/track/4Z3a18Jw4aGcmN6WLon32x) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Worlds Collide \(Inspired by Arcane League of Legends\)](https://open.spotify.com/album/0kEn5uReYi5megeo5W3IeC) | 3:02 | 2024-12-16 | 2025-03-01 |
 | [Wschód](https://open.spotify.com/track/09eOvJ9ZLfchwrgBRNSibh) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Wschód](https://open.spotify.com/album/0XYL9Ik9aLA9AUs2EPqR3G) | 2:46 | 2024-08-20 | 2024-09-13 |
-| [Wstyd](https://open.spotify.com/track/0YgKSJYoOyPWoyOoAOTkzk) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Mam szczęście](https://open.spotify.com/album/3UNZoZc7MNA1mcsREhVr43) | 2:44 | 2025-02-28 |  |
+| [Wstyd](https://open.spotify.com/track/0YgKSJYoOyPWoyOoAOTkzk) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Mam szczęście](https://open.spotify.com/album/3UNZoZc7MNA1mcsREhVr43) | 2:44 | 2025-02-28 | 2025-03-20 |
 | [Wszystko](https://open.spotify.com/track/41M788bs1tKn4mm3vWXDhu) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Ta druga](https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM) | 4:06 | 2024-11-21 | 2025-02-22 |
 | [Wszystko jedno](https://open.spotify.com/track/3PwObD0w22aaIClsZVrWGH) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Wszystko jedno](https://open.spotify.com/album/4n5jVCuhxYIHdBrzBBMG3I) | 3:03 | 2024-11-21 | 2024-12-20 |
 | [Wszystko się ułoży](https://open.spotify.com/track/59aqzh41cy5Cg6aSWPjXuJ) | [the small town kids](https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk), [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Wszystko się ułoży](https://open.spotify.com/album/3zxROJJfzFpOJEwVM1v0j5) | 2:04 | 2025-02-28 | 2025-03-09 |

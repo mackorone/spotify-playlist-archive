@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 15907,
+  "num_followers": 15920,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -59,26 +59,6 @@
     {
       "added_at": "2025-03-14 05:47:51",
       "album": {
-        "name": "So it Goes",
-        "url": "https://open.spotify.com/album/5NcIQDB0iObPQx5U3K0OoC"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 223585,
-      "name": "So it Goes",
-      "url": "https://open.spotify.com/track/2dZ0GjY40Y2OYzRaiD8yYq"
-    },
-    {
-      "added_at": "2025-03-14 05:47:51",
-      "album": {
         "name": "Tshwala Bam (feat. S.N.E)",
         "url": "https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2"
       },
@@ -103,6 +83,26 @@
       "duration_ms": 203571,
       "name": "Tshwala Bam (feat. S.N.E)",
       "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
+    },
+    {
+      "added_at": "2025-03-14 05:47:51",
+      "album": {
+        "name": "So it Goes",
+        "url": "https://open.spotify.com/album/5NcIQDB0iObPQx5U3K0OoC"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 223585,
+      "name": "So it Goes",
+      "url": "https://open.spotify.com/track/2dZ0GjY40Y2OYzRaiD8yYq"
     },
     {
       "added_at": "2025-03-14 05:47:51",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-03-14 05:47:51",
       "album": {
-        "name": "Very Soon",
-        "url": "https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2"
-      },
-      "artists": [
-        {
-          "name": "Fameye",
-          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
-        }
-      ],
-      "duration_ms": 189177,
-      "name": "Very Soon",
-      "url": "https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr"
-    },
-    {
-      "added_at": "2025-03-14 05:47:51",
-      "album": {
         "name": "NEXT DOOR (with Sarkodie)",
         "url": "https://open.spotify.com/album/4WnjNWkD250iwrlUkyYutz"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 156791,
       "name": "NEXT DOOR (with Sarkodie)",
       "url": "https://open.spotify.com/track/0NnsR4mHwY8hAJUGldCUEe"
+    },
+    {
+      "added_at": "2025-03-14 05:47:51",
+      "album": {
+        "name": "Very Soon",
+        "url": "https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "duration_ms": 189177,
+      "name": "Very Soon",
+      "url": "https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr"
     },
     {
       "added_at": "2025-03-14 05:47:51",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-03-14 05:47:51",
       "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 154455,
-      "name": "Body & Soul",
-      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
-    },
-    {
-      "added_at": "2025-03-14 05:47:51",
-      "album": {
         "name": "Emeka Must Shine",
         "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
@@ -971,6 +955,22 @@
     {
       "added_at": "2025-03-14 05:47:51",
       "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 154455,
+      "name": "Body & Soul",
+      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
+    },
+    {
+      "added_at": "2025-03-14 05:47:51",
+      "album": {
         "name": "This Is Not the Tape III",
         "url": "https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 168346,
       "name": "Fefe Ne Fe",
       "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
+    },
+    {
+      "added_at": "2025-03-14 05:47:51",
+      "album": {
+        "name": "LOVE AND CHAOS",
+        "url": "https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B"
     },
     {
       "added_at": "2025-03-14 05:47:51",
@@ -1003,22 +1019,6 @@
       "duration_ms": 182727,
       "name": "Saint Tropez",
       "url": "https://open.spotify.com/track/6o4oHv1VSmHmHjWfQf8yp0"
-    },
-    {
-      "added_at": "2025-03-14 05:47:51",
-      "album": {
-        "name": "LOVE AND CHAOS",
-        "url": "https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h"
-      },
-      "artists": [
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B"
     },
     {
       "added_at": "2025-03-14 05:47:51",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-03-14 05:47:51",
       "album": {
-        "name": "Want You",
-        "url": "https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 205191,
-      "name": "Want You",
-      "url": "https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF"
-    },
-    {
-      "added_at": "2025-03-14 05:47:51",
-      "album": {
         "name": "Olivia",
         "url": "https://open.spotify.com/album/71LNcbKRpuxYZ3rfG8zZhm"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 185660,
       "name": "Olivia",
       "url": "https://open.spotify.com/track/1mUPiWUDXCQvkiNpzNa0yk"
+    },
+    {
+      "added_at": "2025-03-14 05:47:51",
+      "album": {
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 205191,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF"
     },
     {
       "added_at": "2025-03-14 05:47:51",
@@ -1135,6 +1135,22 @@
       "duration_ms": 148909,
       "name": "Rugged 2.0 (with Olivetheboy)",
       "url": "https://open.spotify.com/track/5Tw21JAJVcNkpMtQd8cB5r"
+    },
+    {
+      "added_at": "2025-03-14 05:47:51",
+      "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155897,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
       "added_at": "2025-03-14 05:47:51",
@@ -1167,22 +1183,6 @@
       "duration_ms": 184615,
       "name": "Zormizor (Asabone)",
       "url": "https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj"
-    },
-    {
-      "added_at": "2025-03-14 05:47:51",
-      "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 155897,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
       "added_at": "2025-03-14 05:47:51",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2025-03-14 05:47:51",
       "album": {
+        "name": "Peace Be Unto You (PBUY)",
+        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
+    },
+    {
+      "added_at": "2025-03-14 05:47:51",
+      "album": {
         "name": "Aseda",
         "url": "https://open.spotify.com/album/5uw6BvKCIK8nlIlQFOP5v9"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 158267,
       "name": "OMG",
       "url": "https://open.spotify.com/track/642UlSGtBqRt7RPW6p930B"
-    },
-    {
-      "added_at": "2025-03-14 05:47:51",
-      "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
     },
     {
       "added_at": "2025-03-14 05:47:51",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-03-14 05:47:51",
       "album": {
-        "name": "For the Popping (Apicki)",
-        "url": "https://open.spotify.com/album/5CtdJ87mUJ2a8WJWXyFwKq"
-      },
-      "artists": [
-        {
-          "name": "King Paluta",
-          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
-        }
-      ],
-      "duration_ms": 177049,
-      "name": "For the Popping (Apicki)",
-      "url": "https://open.spotify.com/track/4D9vIj4ROKR27KJTadMYHm"
-    },
-    {
-      "added_at": "2025-03-14 05:47:51",
-      "album": {
         "name": "B A H D",
         "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
       },
@@ -1507,6 +1491,38 @@
     {
       "added_at": "2025-03-14 05:47:51",
       "album": {
+        "name": "san siro",
+        "url": "https://open.spotify.com/album/5wlpYMbCXl8pBQu6mx5xQD"
+      },
+      "artists": [
+        {
+          "name": "YKB",
+          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
+        }
+      ],
+      "duration_ms": 194318,
+      "name": "san siro",
+      "url": "https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG"
+    },
+    {
+      "added_at": "2025-03-14 05:47:51",
+      "album": {
+        "name": "For the Popping (Apicki)",
+        "url": "https://open.spotify.com/album/5CtdJ87mUJ2a8WJWXyFwKq"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        }
+      ],
+      "duration_ms": 177049,
+      "name": "For the Popping (Apicki)",
+      "url": "https://open.spotify.com/track/4D9vIj4ROKR27KJTadMYHm"
+    },
+    {
+      "added_at": "2025-03-14 05:47:51",
+      "album": {
         "name": "Messiah",
         "url": "https://open.spotify.com/album/6GvlPCWz9hwNqlcHpKYwrx"
       },
@@ -1527,38 +1543,22 @@
     {
       "added_at": "2025-03-14 05:47:51",
       "album": {
-        "name": "san siro",
-        "url": "https://open.spotify.com/album/5wlpYMbCXl8pBQu6mx5xQD"
+        "name": "Likor (feat. Stonebwoy)",
+        "url": "https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW"
       },
       "artists": [
         {
-          "name": "YKB",
-          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
-        }
-      ],
-      "duration_ms": 194318,
-      "name": "san siro",
-      "url": "https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG"
-    },
-    {
-      "added_at": "2025-03-14 05:47:51",
-      "album": {
-        "name": "JEJEREJE (with Ginton)",
-        "url": "https://open.spotify.com/album/1B29weDwfx3NtFm4S7PrVJ"
-      },
-      "artists": [
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
         {
           "name": "Stonebwoy",
           "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        },
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
         }
       ],
-      "duration_ms": 184722,
-      "name": "JEJEREJE (with Ginton)",
-      "url": "https://open.spotify.com/track/2gCRqpK3AIAUjjrqK1303r"
+      "duration_ms": 164705,
+      "name": "Likor (feat. Stonebwoy)",
+      "url": "https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn"
     }
   ],
   "unique_name": "Troski Rhythms",

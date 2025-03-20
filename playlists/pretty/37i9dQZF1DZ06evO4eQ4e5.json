@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 83356,
+  "num_followers": 83358,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAADKiZSZSvsLAMcOprXBIbPI",
+  "snapshot_id": "Z9i3gAAAAADtqX9A/di6wJFx/Ra1jopN",
   "tracks": [
     {
       "added_at": null,
@@ -439,18 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caricias del Cielo",
-        "url": "https://open.spotify.com/album/2JdIUwPnMsr8ARYSsPrjnD"
+        "name": "+Mexicana",
+        "url": "https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt"
       },
       "artists": [
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        },
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
         }
       ],
-      "duration_ms": 248026,
-      "name": "Acost\u00fambrame al cielo",
-      "url": "https://open.spotify.com/track/1SuRXVqyizsGWkb8Jm2DZu"
+      "duration_ms": 183733,
+      "name": "Es Complicado",
+      "url": "https://open.spotify.com/track/2xfuLkkNanQTl0pdbViHUo"
     },
     {
       "added_at": null,
@@ -471,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "+Mexicana",
-        "url": "https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt"
+        "name": "Caricias del Cielo",
+        "url": "https://open.spotify.com/album/2JdIUwPnMsr8ARYSsPrjnD"
       },
       "artists": [
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        },
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
         }
       ],
-      "duration_ms": 183733,
-      "name": "Es Complicado",
-      "url": "https://open.spotify.com/track/2xfuLkkNanQTl0pdbViHUo"
+      "duration_ms": 248026,
+      "name": "Acost\u00fambrame al cielo",
+      "url": "https://open.spotify.com/track/1SuRXVqyizsGWkb8Jm2DZu"
     },
     {
       "added_at": null,

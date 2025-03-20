@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-229 songs - 21 hr 51 min
+230 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Relax Shiva \- DJ Gregory Remix](https://open.spotify.com/track/6DmuGlPIA0WcyHJQBulD3n) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR) | [Relax Shiva](https://open.spotify.com/album/0Qp3gmNLo5zqYutS7F0wDe) | 6:53 | 2023-06-12 | 2024-01-31 |
 | [Remember Me \- Franky Rizardo Remix](https://open.spotify.com/track/6ahUlke5XTcNsBeafd2Fih) | [Blue Boy](https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Remember Me \(Franky Rizardo Remix\)](https://open.spotify.com/album/7Iee6IcRwerVNTOb8u9MqW) | 5:01 | 2024-04-17 |  |
 | [Rendez\-Vu \- Marco Lys Remix \- Edit](https://open.spotify.com/track/2fUkcyLhxm8AVT4v7vsjlI) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1) | [Rendez\-Vu \(Remixes\)](https://open.spotify.com/album/2FgroWn0lOTtBOnBls3CgQ) | 3:19 | 2022-08-02 | 2023-03-21 |
+| [Replay](https://open.spotify.com/track/5EJGNjrRsfgwgFj7hvf7fR) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ), [Bobbi Fallon](https://open.spotify.com/artist/2iGBTGNxBGp36zT37zvpHB) | [Replay](https://open.spotify.com/album/7oY5Xy6be2R9efmDVoCnvi) | 3:33 | 2025-03-19 |  |
 | [Rhyme Dust \- Nic Fanciulli Remix](https://open.spotify.com/track/70v4yUr8Gv9192zZVclZiL) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [Rhyme Dust \- Nic Fanciulli Remix](https://open.spotify.com/album/04lwFl9FZ6yIDVcSKabWFN) | 3:01 | 2023-07-19 | 2024-09-07 |
 | [Right Here](https://open.spotify.com/track/5NwrVx348F5SvNgi4ZW3XG) | [Mustafa Ismaeel](https://open.spotify.com/artist/4FnXFfnV6miSesny17PNpP) | [Right Here](https://open.spotify.com/album/6YSDRNYbo6xFBGO4Rqdbar) | 6:56 | 2022-08-02 | 2023-06-13 |
 | [Rise And Fall](https://open.spotify.com/track/4zjDcQXCyGUOEXL1LiwELj) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Temple Of Dreams](https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX) | 4:33 | 2023-05-24 | 2023-12-26 |

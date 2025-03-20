@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 192749,
+  "num_followers": 192789,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAACgCkwRNJxVY1IQRCTi/aUG",
+  "snapshot_id": "Z9i3gAAAAAAbK9ZDr59Y4LGC5x0wSVmF",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Creatures",
-        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 255800,
-      "name": "Creatures of Love - 2005 Remaster",
-      "url": "https://open.spotify.com/track/3FaH21ikbgUKt21GMqC5DI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fear of Music",
         "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 214120,
       "name": "Air",
       "url": "https://open.spotify.com/track/5oTq6IxaYmUF6TIVc6f7BL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Creatures",
+        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Creatures of Love - 2005 Remaster",
+      "url": "https://open.spotify.com/track/3FaH21ikbgUKt21GMqC5DI"
     },
     {
       "added_at": null,

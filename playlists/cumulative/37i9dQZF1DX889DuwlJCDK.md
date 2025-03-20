@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: 帝国喫茶
 
-1,039 songs - 2 day 15 hr 3 min
+1,040 songs - 2 day 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,7 +456,7 @@
 | [YU](https://open.spotify.com/track/41iVJ4DksVPfEINoDKtMhf) | [ROMANKAKUMEI](https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN) | [YU](https://open.spotify.com/album/2WHt3FohJe8cnscWRfhUMw) | 2:53 | 2023-09-12 | 2023-09-20 |
 | [Yumemiru Superman](https://open.spotify.com/track/6zZ4L0BmNEMVoo8oWUFzQr) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [But Really](https://open.spotify.com/album/70tdhywzgwknIJi3CaXGHK) | 3:12 | 2023-07-27 | 2023-08-28 |
 | [yunagieiso](https://open.spotify.com/track/618pyNivEdcfLnc9TbKAuQ) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [yunagieiso](https://open.spotify.com/album/7FD9T96o1fl2qTcRem8iNM) | 3:57 | 2023-09-26 | 2023-10-18 |
-| [zero\-sum](https://open.spotify.com/track/34VYEehsenJ0g4hssrgjFQ) | [NEK!](https://open.spotify.com/artist/69bgop9pQQD8inX5vVOl5r) | [zero\-sum](https://open.spotify.com/album/2kATsFl0trkKzmpduulWE2) | 3:45 | 2025-03-04 |  |
+| [zero\-sum](https://open.spotify.com/track/34VYEehsenJ0g4hssrgjFQ) | [NEK!](https://open.spotify.com/artist/69bgop9pQQD8inX5vVOl5r) | [zero\-sum](https://open.spotify.com/album/2kATsFl0trkKzmpduulWE2) | 3:45 | 2025-03-04 | 2025-03-20 |
 | [Zuboshi](https://open.spotify.com/track/0Yo9EazMrZF9M1si0f1R5d) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [JUKEBOX](https://open.spotify.com/album/0EzFeIWikOJOpRPKJObKzs) | 4:55 | 2024-01-09 | 2024-01-17 |
 | [Zurui Yakusoku](https://open.spotify.com/track/1RLnyfxDohKKfxlMohGnn8) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [Zurui Yakusoku](https://open.spotify.com/album/21eobvWXeYgU2GdbKI8oTf) | 3:01 | 2025-03-04 | 2025-03-12 |
 | [「」](https://open.spotify.com/track/3eGtyAM9HnLUFGGwjfv14T) | [藍空と月](https://open.spotify.com/artist/04gPMXDpwndachrxXFNcwg) | [「」](https://open.spotify.com/album/394ZLDoheGuFzGeVJt5iMp) | 3:36 | 2025-02-25 |  |
@@ -717,6 +717,7 @@
 | [ヨーソロー](https://open.spotify.com/track/4p8zpIOdWUBAvo76pNVoIi) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [ヨーソロー](https://open.spotify.com/album/6wEFC1ktCxt68EsVT2e2cX) | 4:44 | 2023-08-01 | 2023-10-25 |
 | [ライフスタイル](https://open.spotify.com/track/6DX1571XvHNwRoqQJx6A8r) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [元気でいてね。](https://open.spotify.com/album/7DRmTIvDfwHPjSGzZraS9x) | 2:49 | 2024-11-05 |  |
 | [ライブハウス](https://open.spotify.com/track/2TllIeufj3YpsDVETticsu) | [桃色ドロシー](https://open.spotify.com/artist/5nrw2BHopVukes0JJ960VA) | [ライブハウス](https://open.spotify.com/album/2imgacgcWtxIiz5DID2aYf) | 3:30 | 2024-04-30 | 2024-06-01 |
+| [ライムライト](https://open.spotify.com/track/7seQjvjrQzh8OueltGeDgw) | [DeNeel](https://open.spotify.com/artist/4Z4FrPA5tZFztkxVw4XfdX) | [ライムライト](https://open.spotify.com/album/3piJmNSSwqdmr6hZnqJwTg) | 2:47 | 2025-03-18 |  |
 | [ラクトアイス](https://open.spotify.com/track/27a1P32LnDyHeGti6CbcNY) | [Crab 蟹 Club](https://open.spotify.com/artist/2Po8LYeurfstvqMOLCTTs6) | [ラクトアイス](https://open.spotify.com/album/4gYVgGhjb2RwHleLTSgZCV) | 4:28 | 2025-02-04 | 2025-02-12 |
 | [ラストライブ](https://open.spotify.com/track/7Jy3tDChEXMDXvO223c0VR) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [ラストライブ](https://open.spotify.com/album/1RBl7BPBmZYRiwD5fcuf4Q) | 2:49 | 2025-02-11 |  |
 | [ラズベリー](https://open.spotify.com/track/3JLpngLNxVRL6JLaBqqMpo) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ラズベリー](https://open.spotify.com/album/0hszj3ElKlD0MYdcZg4vrR) | 3:35 | 2023-07-27 | 2024-06-01 |

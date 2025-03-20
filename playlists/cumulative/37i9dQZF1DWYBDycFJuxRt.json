@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: \u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/336217\">SPICE\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
+  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: \u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/336373\">SPICE\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
   "name": "New Music Wednesday",
   "tracks": [
     {
@@ -314,6 +314,28 @@
       "duration_ms": 151760,
       "name": "):\u963f\u4fee\u7f85:(",
       "url": "https://open.spotify.com/track/0jSHwhowInP7AgP9BkWudl"
+    },
+    {
+      "album": {
+        "name": "+82 Pressin'",
+        "url": "https://open.spotify.com/album/4BHK4cuYnptvcw0yOCzh8Y"
+      },
+      "artists": [
+        {
+          "name": "MARK",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+        },
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202400,
+      "name": "+82 Pressin'",
+      "url": "https://open.spotify.com/track/1gh9hWNAzDR46rn52uyoiV"
     },
     {
       "album": {
@@ -2301,7 +2323,7 @@
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 1280696,
+      "duration_ms": 1289682,
       "name": "2025/3/19 \u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba\u304c\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3092\u30ea\u30ea\u30fc\u30b9\uff01Early Noise\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8Lavt\u306e\u65b0\u66f2\u3082\uff01\u3055\u304b\u3044\u3086\u3046\u3001\u5e1d\u56fd\u55ab\u8336\u3001\u30b3\u30ec\u30b5\u30ef\u306e\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3082\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01",
       "url": "https://open.spotify.com/episode/7a5ub58z4WoAtjlB1V2Z4r"
     },
@@ -92263,24 +92285,6 @@
     },
     {
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/1kVRFjTfyzvya5My1hDEUR"
-      },
-      "artists": [
-        {
-          "name": "Kenta Hino",
-          "url": "https://open.spotify.com/artist/7HEGE9x7Kj3561500u5LXy"
-        }
-      ],
-      "date_added": "2025-03-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173000,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/53O93M9psTM74J6SS535aL"
-    },
-    {
-      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/440CPOWZ1teOzAirb7Jyse"
       },
@@ -92300,6 +92304,24 @@
       "duration_ms": 160986,
       "name": "RISE",
       "url": "https://open.spotify.com/track/5nUSKSLZT47iB6j48dX8mb"
+    },
+    {
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/1kVRFjTfyzvya5My1hDEUR"
+      },
+      "artists": [
+        {
+          "name": "\u65e5\u91ce\u5065\u592a",
+          "url": "https://open.spotify.com/artist/24HtvComPU5kD1X2RbDTZt"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/53O93M9psTM74J6SS535aL"
     },
     {
       "album": {

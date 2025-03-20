@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 10778,
+  "num_followers": 10780,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAAAWuenWPw7SKdjtR0sK60i2",
+  "snapshot_id": "Z9i3gAAAAAA+clP5Ts0lnjF2fXzt/uT2",
   "tracks": [
     {
       "added_at": null,
@@ -539,38 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotive Piano",
-        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 77999,
-      "name": "Changing Times",
-      "url": "https://open.spotify.com/track/5XEwkz6o2JWAQL9xmtJC3X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "[extended] BLISS",
-        "url": "https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 167880,
-      "name": "Noah",
-      "url": "https://open.spotify.com/track/28VLOsb8NVYCfGgXvZF7Lq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meditation 111",
         "url": "https://open.spotify.com/album/418PRzkbwMn1lsbNtBWHeC"
       },
@@ -583,38 +551,6 @@
       "duration_ms": 142083,
       "name": "Meditation 111",
       "url": "https://open.spotify.com/track/4OpzaBPXTZkBKyiQVYxMag"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 221293,
-      "name": "Costa da Caparica",
-      "url": "https://open.spotify.com/track/0a9louq1zctSt5SA7z4cUY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Tale in Paris",
-        "url": "https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 101000,
-      "name": "Emotions",
-      "url": "https://open.spotify.com/track/5ZBAPouicX889poK2HBKuE"
     },
     {
       "added_at": null,
@@ -635,6 +571,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emotive Piano",
+        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 77999,
+      "name": "Changing Times",
+      "url": "https://open.spotify.com/track/5XEwkz6o2JWAQL9xmtJC3X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 221293,
+      "name": "Costa da Caparica",
+      "url": "https://open.spotify.com/track/0a9louq1zctSt5SA7z4cUY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sleep Meditations",
         "url": "https://open.spotify.com/album/7jUPTcLc38L1PLCfpBceai"
       },
@@ -651,6 +619,38 @@
       "duration_ms": 272550,
       "name": "Sleep Meditation: Light Sleep Schumann Resonance 432 Hz",
       "url": "https://open.spotify.com/track/3945Sap2pWM7WJsCiH3g5E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "[extended] BLISS",
+        "url": "https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 167880,
+      "name": "Noah",
+      "url": "https://open.spotify.com/track/28VLOsb8NVYCfGgXvZF7Lq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Tale in Paris",
+        "url": "https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 101000,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/5ZBAPouicX889poK2HBKuE"
     },
     {
       "added_at": null,

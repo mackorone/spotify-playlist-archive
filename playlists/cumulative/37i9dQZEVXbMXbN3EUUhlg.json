@@ -257,6 +257,36 @@
     },
     {
       "album": {
+        "name": "Liberdade",
+        "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Gigant",
+          "url": "https://open.spotify.com/artist/078qvuSjdEnKuq3i3FRo6O"
+        },
+        {
+          "name": "nobuddy",
+          "url": "https://open.spotify.com/artist/05Vk6pbfFkjyz9cTEvb45v"
+        },
+        {
+          "name": "Goldgrain",
+          "url": "https://open.spotify.com/artist/0rdH38zGBwIvpet2oBi9SC"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219677,
+      "name": "22 Meu Vulgo",
+      "url": "https://open.spotify.com/track/15CoBMXezZjfJuFpvuhYK3"
+    },
+    {
+      "album": {
         "name": "Para\u00edso Particular Vol. 01 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5xbSsOJsCXNSodcAE7IsAA"
       },
@@ -2772,7 +2802,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 175078,
       "name": "Arruma Um B\u00e3o",
       "url": "https://open.spotify.com/track/6ukVCqH77f6cwRHyJBhGgy"

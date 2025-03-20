@@ -4,7 +4,7 @@
 
 > Late night chilled vibes, for those intimate moments.
 
-312 songs - 17 hr 22 min
+313 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [could it be](https://open.spotify.com/track/4Z5bObiLbaf2DVeJoCbT4i) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [txt ur x](https://open.spotify.com/album/3t2LLK3UGsv6iWsJR0QqMS) | 2:41 | 2022-03-21 | 2022-07-13 |
 | [Courage](https://open.spotify.com/track/54L2tYMhXUFYzeOHbBPorc) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Courage](https://open.spotify.com/album/5tt4mmD6paPZ0NvGQPB4kG) | 3:08 | 2024-08-06 | 2025-03-07 |
 | [Crazy](https://open.spotify.com/track/4P5tPq60W4LLYcoXLgWlYx) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Crazy](https://open.spotify.com/album/4aGTpjVc03JPP4phPm3e90) | 4:19 | 2022-03-21 | 2022-07-07 |
-| [Crocodile Tears \(feat\. Chase Shakur\)](https://open.spotify.com/track/37H7aRa7TWO7c0yvRnPcGg) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [Crocodile Tears \(feat\. Chase Shakur\)](https://open.spotify.com/album/5LZIpzVMyVceRxkVfLv34k) | 3:13 | 2025-03-07 |  |
+| [Crocodile Tears \(feat\. Chase Shakur\)](https://open.spotify.com/track/37H7aRa7TWO7c0yvRnPcGg) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [Crocodile Tears \(feat\. Chase Shakur\)](https://open.spotify.com/album/5LZIpzVMyVceRxkVfLv34k) | 3:13 | 2025-03-07 | 2025-03-20 |
 | [CRUSHED VELVET](https://open.spotify.com/track/5mHAhU2mrJ0WjRx818XmYS) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [DEMOTAPE/VEGA](https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK) | 2:41 | 2022-03-21 | 2022-07-29 |
 | [Culture](https://open.spotify.com/track/2kBk7bEAlk0zNZDxUr1m0x) | [Arii Lopez](https://open.spotify.com/artist/2BSuFqxD1DjL4qQqX7HqcJ), [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao) | [Culture](https://open.spotify.com/album/1LnXo0dqURc3lt63I3hdU8) | 3:37 | 2022-03-21 | 2022-05-24 |
 | [dangerous game](https://open.spotify.com/track/0drf8c8YvWVvs3aFY5iBrp) | [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [dangerous game](https://open.spotify.com/album/50vOO58Z9Sdf5k8ms9l9Cj) | 3:50 | 2025-03-07 |  |
@@ -306,6 +306,7 @@
 | [What You Need](https://open.spotify.com/track/2Qy8MGA0qNoap9KZgwvmRT) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Big Tobz](https://open.spotify.com/artist/5mJzAPLj72Ifm4MdYS08uK) | [What You Need](https://open.spotify.com/album/5zLJn1t5QLAAkou6FPzB6K) | 3:12 | 2022-03-21 | 2022-07-22 |
 | [What's A Monday](https://open.spotify.com/track/3r3TNewGNpl7zKgzk9nYTJ) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [What's A Monday](https://open.spotify.com/album/6HfUGBPpQSsqAFDOAIzct1) | 2:33 | 2022-07-12 | 2022-08-23 |
 | [Whatever Simon Says](https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whatever Simon Says](https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn) | 3:32 | 2022-03-21 | 2022-07-28 |
+| [White Tee](https://open.spotify.com/track/6zEEdQoOrlQnxHs4LnR5T9) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [White Tee / Long Walk](https://open.spotify.com/album/0aJQ1Jbp8SmMBGy7Bi47OT) | 3:19 | 2025-03-07 |  |
 | [why did you go use your head?](https://open.spotify.com/track/3jzqVN41cmRK8chGun15On) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [if you were a day, you'd be sunday \(songs to go walking to\)](https://open.spotify.com/album/1Vn2seTK7Ezozor5vEqarE) | 4:47 | 2022-03-21 | 2022-06-26 |
 | [Wickedest](https://open.spotify.com/track/0IbJBhAkIFqTHoYjWYxpzZ) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Wickedest](https://open.spotify.com/album/5tnnQsnZmgGqIbTQH6MqLy) | 3:12 | 2022-03-21 | 2022-10-13 |
 | [Will I See You Again?](https://open.spotify.com/track/0gzDu0smnvgwslqwOiQ8f1) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Will I See You Again?](https://open.spotify.com/album/0fn7UEGVBI22jMeeH7R4rj) | 4:00 | 2023-03-03 | 2023-04-30 |

@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-1,015 songs - 1 day 15 hr 19 min
+1,016 songs - 1 day 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Color Code](https://open.spotify.com/track/6ZnnfBbGg3OzhAm6G1aGXe) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Color Code](https://open.spotify.com/album/0pFkWTWSTo2hNqC4gfbYlP) | 1:52 | 2022-04-15 | 2022-07-01 |
 | [Come Again](https://open.spotify.com/track/4dVXPyNrB1DAhhhdrJcGQL) | [astra division](https://open.spotify.com/artist/0yMwXDtoiRbZm4yn1JesCK) | [Come Again](https://open.spotify.com/album/5gMhVvHXKKFhPQXxurDB9T) | 2:12 | 2024-08-23 | 2024-11-17 |
 | [Come Fall](https://open.spotify.com/track/3mtGITybSAEVhFUkg2Bhuf) | [Glozone](https://open.spotify.com/artist/3tL52hfMx8eyd3ee1bM0yw) | [Come Fall](https://open.spotify.com/album/0p8YocXPwG0lSTbQs49rWG) | 1:54 | 2024-10-04 | 2024-12-07 |
+| [come show me](https://open.spotify.com/track/3zGeEexRezep22ScUrdTyG) | [giannis wang](https://open.spotify.com/artist/7gCQx2yCLDrGPTMa7fAY8y) | [come show me](https://open.spotify.com/album/3aPBZcPfLAmvpMrc57E9Ka) | 2:01 | 2025-03-14 |  |
 | [Come With A Sparkle](https://open.spotify.com/track/24WyUZrnrasIjh7VjUjnI8) | [Namaskar Blunt](https://open.spotify.com/artist/1YgUnb4dGNkaCsneIunFmm) | [Come With A Sparkle](https://open.spotify.com/album/2JaHpJQdURjtYsziVDYvi2) | 1:44 | 2022-06-17 |  |
 | [comply](https://open.spotify.com/track/2rm5C58P9UDchlcKdV0Bzn) | [Flower Chanel.](https://open.spotify.com/artist/7qnkTNSjbkAfmWRjjs9yq4) | [comply](https://open.spotify.com/album/6DjUY2UsJxbITCNZUv1RtO) | 2:04 | 2024-12-20 | 2025-02-08 |
 | [Concrete Dream](https://open.spotify.com/track/6Q0NQC52cxfZuulrtVCRyA) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Concrete Dream](https://open.spotify.com/album/3BdMsPtS85XxErt4CyGrm5) | 2:20 | 2022-04-15 | 2022-05-20 |
@@ -517,7 +518,7 @@
 | [Midnight Blossom](https://open.spotify.com/track/12yqsZbZaGzxFrpqJvuqCT) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [Midnight Blossom](https://open.spotify.com/album/65uHXsE29uJZdKsC6Ri08V) | 2:10 | 2022-11-11 | 2023-10-13 |
 | [Midnight Blossom](https://open.spotify.com/track/78VqObueVu8P20WDLDZM4G) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [Midnight Blossom](https://open.spotify.com/album/3SmmZikC3kORmltGmXf6Cb) | 2:10 | 2022-04-15 | 2022-11-20 |
 | [Midnight City](https://open.spotify.com/track/2MFcMNpz6Et7kFYGAz6SSi) | [7th Indigo](https://open.spotify.com/artist/75RGXEBlI9OL7jBSMlf12W) | [Midnight City](https://open.spotify.com/album/13ibuGYy5u0rlDYb9nzxAW) | 2:42 | 2023-04-28 |  |
-| [Midnight Distortions](https://open.spotify.com/track/2nzFbnBMtwhpdSxIpIKjzr) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0) | [Midnight Distortions](https://open.spotify.com/album/3yXtU54s6r53vugtdj9OSM) | 1:05 | 2023-03-13 |  |
+| [Midnight Distortions](https://open.spotify.com/track/2nzFbnBMtwhpdSxIpIKjzr) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0) | [Midnight Distortions](https://open.spotify.com/album/3yXtU54s6r53vugtdj9OSM) | 1:05 | 2023-03-13 | 2025-03-20 |
 | [Midnight Smoke](https://open.spotify.com/track/7x0raDjOawSXNblE1xR9qV) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Midnight Smoke](https://open.spotify.com/album/5ysVOWtHqTVER4bY2OqxfJ) | 2:18 | 2023-01-13 | 2023-10-06 |
 | [Migrations](https://open.spotify.com/track/29vvz584HPBd2pCMS0QW3Y) | [Scasca](https://open.spotify.com/artist/2FjS1zPiO1Be9agHdsxJjo) | [Migrations](https://open.spotify.com/album/2DF1yOyOXqunpiNn9DmYmh) | 3:25 | 2022-04-15 | 2022-07-08 |
 | [milk.](https://open.spotify.com/track/3uW7iYsXcWtXHMn0SXAJrX) | [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [milk.](https://open.spotify.com/album/34QZsWE3puQEb48CQRNl4c) | 2:17 | 2024-07-04 |  |

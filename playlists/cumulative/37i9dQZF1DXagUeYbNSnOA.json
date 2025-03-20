@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music by independent artists and labels, featuring Lu de la Tower. Updates every Wednesday.",
+  "description": "The best new music by independent artists and labels, featuring Adryanna Cauduro. Updates every Wednesday.",
   "name": "Fresh Finds Latin",
   "tracks": [
     {
@@ -3038,6 +3038,24 @@
       "duration_ms": 214364,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/3paGS7YujQAdNtfVUVMo7m"
+    },
+    {
+      "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/50dOULM8wbuHH77XdNquwX"
+      },
+      "artists": [
+        {
+          "name": "Jack Rabbit",
+          "url": "https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167900,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/4IYvNtWQMSmtUopvVfdtUA"
     },
     {
       "album": {
@@ -6520,7 +6538,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 154054,
       "name": "BUNDA",
       "url": "https://open.spotify.com/track/1Fu6SL9zwV9fUmBTJeqmQp"
@@ -7711,6 +7729,24 @@
     },
     {
       "album": {
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/1PFOIj7gvzv6WmrmgJeP5b"
+      },
+      "artists": [
+        {
+          "name": "Mauro Samaniego",
+          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133280,
+      "name": "Ca\u00edda Intermitente",
+      "url": "https://open.spotify.com/track/4WkhexZQEtWKvf8mU5UMmO"
+    },
+    {
+      "album": {
         "name": "No Me Mir\u00e9is",
         "url": "https://open.spotify.com/album/5cbicHfesVjK9YOnNSILmk"
       },
@@ -8717,6 +8753,24 @@
     },
     {
       "album": {
+        "name": "COMPLEJO",
+        "url": "https://open.spotify.com/album/20hKwkGp6S5T1gW9mQrj8b"
+      },
+      "artists": [
+        {
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "COMPLEJO",
+      "url": "https://open.spotify.com/track/5a9Ptai9hH3MQtZXdynPrs"
+    },
+    {
+      "album": {
         "name": "Complejo de Martir",
         "url": "https://open.spotify.com/album/7anGWpldwOfPvADPqdoPq4"
       },
@@ -9030,6 +9084,24 @@
       "duration_ms": 310188,
       "name": "CONTIGO ME QUEDO",
       "url": "https://open.spotify.com/track/5lMprHePBuLZxZvztka2Wz"
+    },
+    {
+      "album": {
+        "name": "Contigo Quiero Todo",
+        "url": "https://open.spotify.com/album/0gJHqutb1f4mXEfoc7m92R"
+      },
+      "artists": [
+        {
+          "name": "Edgar Alejandro",
+          "url": "https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246465,
+      "name": "Contigo Quiero Todo",
+      "url": "https://open.spotify.com/track/3RDs5lVKTVFyZdx2xhoLC9"
     },
     {
       "album": {
@@ -9674,7 +9746,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 226234,
       "name": "Cruz",
       "url": "https://open.spotify.com/track/7wYlokTxMgQY72KxIGdvjs"
@@ -12390,7 +12462,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 188737,
       "name": "Dime",
       "url": "https://open.spotify.com/track/0Mp2qgYYZRPQ65n1nhaAYq"
@@ -20282,7 +20354,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 206250,
       "name": "Intro (no puedo ser la misma)",
       "url": "https://open.spotify.com/track/5Sr61HzJY1cTiJBUiWPsOK"
@@ -32623,6 +32695,24 @@
     },
     {
       "album": {
+        "name": "Pa' Volar",
+        "url": "https://open.spotify.com/album/7ySl9dO8bqsEZF67eWhjbA"
+      },
+      "artists": [
+        {
+          "name": "Sophie Castillo",
+          "url": "https://open.spotify.com/artist/4LoRVyF2R00cUR8q3oatMb"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220021,
+      "name": "Pa' Volar",
+      "url": "https://open.spotify.com/track/0LScPx9gpc8FpT1CHguZAj"
+    },
+    {
+      "album": {
         "name": "Pablo",
         "url": "https://open.spotify.com/album/6DpZTkpPnQL1vefpuZqSyI"
       },
@@ -32742,7 +32832,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 140714,
       "name": "Palabras",
       "url": "https://open.spotify.com/track/6jIJyxbd092ToHqZMq5EC2"
@@ -39865,6 +39955,24 @@
     },
     {
       "album": {
+        "name": "solo t\u00fa",
+        "url": "https://open.spotify.com/album/5IfTUS35Bo8y6cUSa4UtZ7"
+      },
+      "artists": [
+        {
+          "name": "Adryanna Cauduro",
+          "url": "https://open.spotify.com/artist/0eesQ8fqOKzv8DbP3mvnyR"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200311,
+      "name": "solo t\u00fa",
+      "url": "https://open.spotify.com/track/6ix8yjgRHslu8tInhj00Dl"
+    },
+    {
+      "album": {
         "name": "Solo T\u00fa",
         "url": "https://open.spotify.com/album/0eTQRyEBobQApwbg84oEPo"
       },
@@ -42106,7 +42214,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 148222,
       "name": "The Stars",
       "url": "https://open.spotify.com/track/13Q8qLBCIqGFjcj4TRGk0z"

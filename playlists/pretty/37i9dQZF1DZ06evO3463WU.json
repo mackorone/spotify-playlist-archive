@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 151900,
+  "num_followers": 151922,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAADY4vuxyUuqOaI77xo+ysZp",
+  "snapshot_id": "Z9i3gAAAAACqpUqRPxdXqCg6yd3zCJl5",
   "tracks": [
     {
       "added_at": null,
@@ -603,18 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Canciones de Amor",
-        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It"
       },
       "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        },
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 212462,
-      "name": "La Reyna De Mi Hogar",
-      "url": "https://open.spotify.com/track/5XJRpYdbXxef7by5M4OcAm"
+      "duration_ms": 234093,
+      "name": "Mi Enemigo El Amor - En Vivo",
+      "url": "https://open.spotify.com/track/1mubehT6tuQaByo7qGR2Ie"
     },
     {
       "added_at": null,
@@ -639,22 +643,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It"
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
       },
       "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        },
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 234093,
-      "name": "Mi Enemigo El Amor - En Vivo",
-      "url": "https://open.spotify.com/track/1mubehT6tuQaByo7qGR2Ie"
+      "duration_ms": 212462,
+      "name": "La Reyna De Mi Hogar",
+      "url": "https://open.spotify.com/track/5XJRpYdbXxef7by5M4OcAm"
     },
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Bonito",
-        "url": "https://open.spotify.com/album/0Z05URN9ad0MN2TuakJH0u"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 167986,
-      "name": "Qu\u00e9 Bonito",
-      "url": "https://open.spotify.com/track/3AG3kaV6b3DDQDCEDN1HdS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Viva M\u00e9xico (En Vivo)",
         "url": "https://open.spotify.com/album/3D3QKcpxh5MPOYQVZJ4qdE"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 254368,
       "name": "Ac\u00e1 Entre Nos (En Vivo)",
       "url": "https://open.spotify.com/track/6SHXtSKhx53gMd4V9zK5QS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9 Bonito",
+        "url": "https://open.spotify.com/album/0Z05URN9ad0MN2TuakJH0u"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 167986,
+      "name": "Qu\u00e9 Bonito",
+      "url": "https://open.spotify.com/track/3AG3kaV6b3DDQDCEDN1HdS"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Consentidas De Pancho Barraza",
+        "url": "https://open.spotify.com/album/6Rr6eDqyasdzFBUKzSOAYZ"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 229160,
+      "name": "Y Las Mariposas",
+      "url": "https://open.spotify.com/track/6Evs8xJsQ9Yw0z10XAOd6W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cien Por Ciento Sincero",
         "url": "https://open.spotify.com/album/6HOlmYD1XgnsPTvPUqUYbq"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 187040,
       "name": "Cien Por Ciento Sincero",
       "url": "https://open.spotify.com/track/0Vp2IK6mnqGiJGmH2SKIH7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Consentidas De Pancho Barraza",
-        "url": "https://open.spotify.com/album/6Rr6eDqyasdzFBUKzSOAYZ"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 229160,
-      "name": "Y Las Mariposas",
-      "url": "https://open.spotify.com/track/6Evs8xJsQ9Yw0z10XAOd6W"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Historia De Un Amor",
-        "url": "https://open.spotify.com/album/49mNs4aM6Xs7i0x9Gr3f3D"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Historia De Un Amor",
-      "url": "https://open.spotify.com/track/1011TrqHFhpKhgOzKnV0ZS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vuelve Por Favor",
         "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 157605,
       "name": "Arr\u00e1ncame La Vida",
       "url": "https://open.spotify.com/track/6xxPw0GEudMMCUKqmvdTCW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Historia De Un Amor",
+        "url": "https://open.spotify.com/album/49mNs4aM6Xs7i0x9Gr3f3D"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Historia De Un Amor",
+      "url": "https://open.spotify.com/track/1011TrqHFhpKhgOzKnV0ZS"
     },
     {
       "added_at": null,

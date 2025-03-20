@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 33222,
+  "num_followers": 33251,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2025-03-14 05:52:48",
       "album": {
-        "name": "Verily",
-        "url": "https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 195816,
-      "name": "Verily",
-      "url": "https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw"
-    },
-    {
-      "added_at": "2025-03-14 05:52:48",
-      "album": {
         "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
         "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 180160,
       "name": "Look To You (feat. Llona)",
       "url": "https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68"
+    },
+    {
+      "added_at": "2025-03-14 05:52:48",
+      "album": {
+        "name": "Verily",
+        "url": "https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 195816,
+      "name": "Verily",
+      "url": "https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw"
     },
     {
       "added_at": "2025-03-14 05:52:48",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-03-14 05:52:48",
       "album": {
-        "name": "I am the Blueprint",
-        "url": "https://open.spotify.com/album/6NgdgRdxc6spifVLe8KXRM"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 159432,
-      "name": "Feeling Alright",
-      "url": "https://open.spotify.com/track/2gOBTGJTMUjr4p2CUlMW00"
-    },
-    {
-      "added_at": "2025-03-14 05:52:48",
-      "album": {
         "name": "Compose",
         "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 144000,
       "name": "Compose",
       "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
+    },
+    {
+      "added_at": "2025-03-14 05:52:48",
+      "album": {
+        "name": "I am the Blueprint",
+        "url": "https://open.spotify.com/album/6NgdgRdxc6spifVLe8KXRM"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 159432,
+      "name": "Feeling Alright",
+      "url": "https://open.spotify.com/track/2gOBTGJTMUjr4p2CUlMW00"
     },
     {
       "added_at": "2025-03-14 05:52:48",
@@ -719,26 +719,6 @@
     {
       "added_at": "2025-03-14 05:52:48",
       "album": {
-        "name": "Peace and Love",
-        "url": "https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 182727,
-      "name": "Saint Tropez",
-      "url": "https://open.spotify.com/track/6o4oHv1VSmHmHjWfQf8yp0"
-    },
-    {
-      "added_at": "2025-03-14 05:52:48",
-      "album": {
         "name": "JABO",
         "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 197400,
       "name": "JABO",
       "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
+    },
+    {
+      "added_at": "2025-03-14 05:52:48",
+      "album": {
+        "name": "Peace and Love",
+        "url": "https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 182727,
+      "name": "Saint Tropez",
+      "url": "https://open.spotify.com/track/6o4oHv1VSmHmHjWfQf8yp0"
     },
     {
       "added_at": "2025-03-14 05:52:48",
@@ -859,30 +859,6 @@
     {
       "added_at": "2025-03-14 05:52:48",
       "album": {
-        "name": "Timing",
-        "url": "https://open.spotify.com/album/3sMcxdB5Y9QVJ1avHaq9H8"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
-        }
-      ],
-      "duration_ms": 178310,
-      "name": "Timing",
-      "url": "https://open.spotify.com/track/4KfHB0K5B88tHP4VRNheuT"
-    },
-    {
-      "added_at": "2025-03-14 05:52:48",
-      "album": {
         "name": "By Any Minz",
         "url": "https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP"
       },
@@ -903,6 +879,22 @@
       "duration_ms": 192031,
       "name": "f.u.",
       "url": "https://open.spotify.com/track/7cTUvwei61Gfa6PKPczdfu"
+    },
+    {
+      "added_at": "2025-03-14 05:52:48",
+      "album": {
+        "name": "Fire on Me",
+        "url": "https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 134187,
+      "name": "Fire on Me",
+      "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
     },
     {
       "added_at": "2025-03-14 05:52:48",
@@ -931,18 +923,26 @@
     {
       "added_at": "2025-03-14 05:52:48",
       "album": {
-        "name": "Fire on Me",
-        "url": "https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT"
+        "name": "Timing",
+        "url": "https://open.spotify.com/album/3sMcxdB5Y9QVJ1avHaq9H8"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
         }
       ],
-      "duration_ms": 134187,
-      "name": "Fire on Me",
-      "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
+      "duration_ms": 178310,
+      "name": "Timing",
+      "url": "https://open.spotify.com/track/4KfHB0K5B88tHP4VRNheuT"
     },
     {
       "added_at": "2025-03-14 05:52:48",
@@ -959,6 +959,22 @@
       "duration_ms": 190226,
       "name": "ARABAMBI",
       "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
+    },
+    {
+      "added_at": "2025-03-14 05:52:48",
+      "album": {
+        "name": "mo de ma [by any minz]",
+        "url": "https://open.spotify.com/album/3FpvmQUT2cWlJC6FxaUYgk"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "mo de ma [by any minz]",
+      "url": "https://open.spotify.com/track/1YvsFwQPkCOB3YhKBKOnyL"
     },
     {
       "added_at": "2025-03-14 05:52:48",
@@ -1003,6 +1019,26 @@
     {
       "added_at": "2025-03-14 05:52:48",
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/4xNpDdlEFDGElKTwIW5fBA"
+      },
+      "artists": [
+        {
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+        },
+        {
+          "name": "Walshy Fire",
+          "url": "https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/5UjqwNltfuqLYxeJNE6SVb"
+    },
+    {
+      "added_at": "2025-03-14 05:52:48",
+      "album": {
         "name": "Finish Me",
         "url": "https://open.spotify.com/album/3sVIR1mKqq5oSE8UKwFvES"
       },
@@ -1031,26 +1067,6 @@
     {
       "added_at": "2025-03-14 05:52:48",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/4xNpDdlEFDGElKTwIW5fBA"
-      },
-      "artists": [
-        {
-          "name": "WurlD",
-          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
-        },
-        {
-          "name": "Walshy Fire",
-          "url": "https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/5UjqwNltfuqLYxeJNE6SVb"
-    },
-    {
-      "added_at": "2025-03-14 05:52:48",
-      "album": {
         "name": "Shalaye",
         "url": "https://open.spotify.com/album/6PwpnAAsu5jL3io4dnshFR"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 145017,
       "name": "Shalaye",
       "url": "https://open.spotify.com/track/4CQ4Os8gfJXjs8P32rOHlu"
-    },
-    {
-      "added_at": "2025-03-14 05:52:48",
-      "album": {
-        "name": "mo de ma [by any minz]",
-        "url": "https://open.spotify.com/album/3FpvmQUT2cWlJC6FxaUYgk"
-      },
-      "artists": [
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "mo de ma [by any minz]",
-      "url": "https://open.spotify.com/track/1YvsFwQPkCOB3YhKBKOnyL"
     },
     {
       "added_at": "2025-03-14 05:52:48",
@@ -1135,42 +1135,6 @@
     {
       "added_at": "2025-03-14 05:52:48",
       "album": {
-        "name": "Lose My Mind",
-        "url": "https://open.spotify.com/album/2TRDihrw7kDXw7Gu5mrJ7E"
-      },
-      "artists": [
-        {
-          "name": "Brown Joel",
-          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/1QLqOORXtH6mdXI5lEEjg3"
-    },
-    {
-      "added_at": "2025-03-14 05:52:48",
-      "album": {
-        "name": "It'll All Make Sense Later",
-        "url": "https://open.spotify.com/album/7tvdxqWOmWKZfNtoq1Twje"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Shooting Star (feat. Oxlade)",
-      "url": "https://open.spotify.com/track/7b0cxAMN9drjIAP9eRHJyW"
-    },
-    {
-      "added_at": "2025-03-14 05:52:48",
-      "album": {
         "name": "Ah Well",
         "url": "https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho"
       },
@@ -1195,6 +1159,22 @@
     {
       "added_at": "2025-03-14 05:52:48",
       "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/2TRDihrw7kDXw7Gu5mrJ7E"
+      },
+      "artists": [
+        {
+          "name": "Brown Joel",
+          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/1QLqOORXtH6mdXI5lEEjg3"
+    },
+    {
+      "added_at": "2025-03-14 05:52:48",
+      "album": {
         "name": "Ave Maria",
         "url": "https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 167052,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL"
+    },
+    {
+      "added_at": "2025-03-14 05:52:48",
+      "album": {
+        "name": "It'll All Make Sense Later",
+        "url": "https://open.spotify.com/album/7tvdxqWOmWKZfNtoq1Twje"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Shooting Star (feat. Oxlade)",
+      "url": "https://open.spotify.com/track/7b0cxAMN9drjIAP9eRHJyW"
     },
     {
       "added_at": "2025-03-14 05:52:48",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-03-14 05:52:48",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/4kPmfne7JilXehb88OknDC"
-      },
-      "artists": [
-        {
-          "name": "Guchi",
-          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
-        }
-      ],
-      "duration_ms": 136969,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/6sXhKl8JUaO9g8Q2O1kQtg"
-    },
-    {
-      "added_at": "2025-03-14 05:52:48",
-      "album": {
         "name": "Sweet For Joy",
         "url": "https://open.spotify.com/album/55F503E4VEgnfSDybeUoU7"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 175200,
       "name": "FaceCard (Only Me)",
       "url": "https://open.spotify.com/track/1oVqMHVxQNyHqZk9Kf2APO"
+    },
+    {
+      "added_at": "2025-03-14 05:52:48",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/4kPmfne7JilXehb88OknDC"
+      },
+      "artists": [
+        {
+          "name": "Guchi",
+          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
+        }
+      ],
+      "duration_ms": 136969,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/6sXhKl8JUaO9g8Q2O1kQtg"
     },
     {
       "added_at": "2025-03-14 05:52:48",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-03-14 05:52:48",
       "album": {
-        "name": "original",
-        "url": "https://open.spotify.com/album/0nlBISQDS8BpUMnclrGOhh"
-      },
-      "artists": [
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        }
-      ],
-      "duration_ms": 172102,
-      "name": "original",
-      "url": "https://open.spotify.com/track/02KawWp49Z6cCWbJxN5pqC"
-    },
-    {
-      "added_at": "2025-03-14 05:52:48",
-      "album": {
         "name": "Best Interest",
         "url": "https://open.spotify.com/album/2DIGbvisJJIIf2xYU9xrW2"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 198000,
       "name": "Best Interest",
       "url": "https://open.spotify.com/track/5IQUPSzuNlYmSzHK8fO0yH"
+    },
+    {
+      "added_at": "2025-03-14 05:52:48",
+      "album": {
+        "name": "original",
+        "url": "https://open.spotify.com/album/0nlBISQDS8BpUMnclrGOhh"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        }
+      ],
+      "duration_ms": 172102,
+      "name": "original",
+      "url": "https://open.spotify.com/track/02KawWp49Z6cCWbJxN5pqC"
     },
     {
       "added_at": "2025-03-14 05:52:48",

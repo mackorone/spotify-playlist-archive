@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: サザンオールスターズ \*👉 <a href="https://spice.eplus.jp/articles/336217">SPICE連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: サザンオールスターズ \*👉 <a href="https://spice.eplus.jp/articles/336373">SPICE連動記事</a>をSPICEでチェック!
 
-9,893 songs - 25 day 16 hr 36 min
+9,894 songs - 25 day 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [\(灰色の\)青春](https://open.spotify.com/track/0ddl0Erqu5FjsWjUTzfb0k) | [okkaaa](https://open.spotify.com/artist/0XKKphL5aa8LY6Fn5hXjCF) | [\(灰色の\)青春](https://open.spotify.com/album/1fBwZegwCiYRwglaCov8Cd) | 4:00 | 2024-05-21 | 2024-05-29 |
 | [\(許\)](https://open.spotify.com/track/1xs6WitcjTsWEhmGtWFbog) | [the dadadadys](https://open.spotify.com/artist/0WhmTXYYR573yJqqTtU2RL) | [だ](https://open.spotify.com/album/5JcQoeSebNsxWEF3Pu5FiO) | 4:15 | 2023-03-21 | 2023-03-29 |
 | [\):阿修羅:\(](https://open.spotify.com/track/0jSHwhowInP7AgP9BkWudl) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 2:31 | 2023-11-28 | 2023-12-06 |
+| [+82 Pressin'](https://open.spotify.com/track/1gh9hWNAzDR46rn52uyoiV) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O), [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [+82 Pressin'](https://open.spotify.com/album/4BHK4cuYnptvcw0yOCzh8Y) | 3:22 | 2025-03-19 |  |
 | [+Matter](https://open.spotify.com/track/42s0TTrRssh8ztVmOM2Wya) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [+Matter](https://open.spotify.com/album/4nLDWr5orZvPtYwF0yrstO) | 3:52 | 2024-12-11 | 2024-12-18 |
 | [.ENDRECHERI\. Brother](https://open.spotify.com/track/1OpYoqAoBHqT8SvIoE9VSD) | [.ENDRECHERI.](https://open.spotify.com/artist/2Xe4i1wmyan14oNqhrTS78) | [.ENDRECHERI\. Brother](https://open.spotify.com/album/5GmafWvchfS87TcyGdX7HZ) | 3:30 | 2025-01-21 | 2025-01-29 |
 | [0](https://open.spotify.com/track/6oEiGXcxLVn1PUjiEoyCe9) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [残夢](https://open.spotify.com/album/1sud4up8kAIa8MZJFupUMx) | 3:00 | 2024-07-09 | 2024-07-17 |
@@ -132,7 +133,7 @@
 | [2025/2/26 yamaがindigo la Endを迎えた新曲をリリース！！G\-DRAGON\(BIGBANG\)の8年ぶりのニューアルバムやONE OK ROCKのニューアルバムも！ShowyVICTOR初のスタジオアルバム、注目のバンドluvもピックアップ！](https://open.spotify.com/episode/0NUfAAE0YlBNtdaRdnKNkQ) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 20:19 | 2025-02-26 | 2025-03-05 |
 | [2025/2/5 Creepy Nutsがカバー！『No No Girls』から誕生したHANA、Early NoiseアーティストLavtの新曲も！ハルカミライのニューアルバム、日食なつこの新曲もピックアップ！BOYNEXTDOORからメッセージも到着！](https://open.spotify.com/episode/5nrxle7946p4Hj07OSSVsk) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 26:12 | 2025-02-05 | 2025-02-12 |
 | [2025/3/12 マカロニえんぴつがニューEPをリリース！折坂悠太やjo0jiの新曲も！佐野元春 & THE COYOTE BANDのニューアルバム、3Houseのニューアルバムもピックアップ！7coからメッセージも到着！](https://open.spotify.com/episode/0JRV38XEFzf7So4p4SGzrX) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 23:12 | 2025-03-12 | 2025-03-19 |
-| [2025/3/19 サザンオールスターズがニューアルバムをリリース！Early NoiseアーティストLavtの新曲も！さかいゆう、帝国喫茶、コレサワのニューアルバムもピックアップ！](https://open.spotify.com/episode/7a5ub58z4WoAtjlB1V2Z4r) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 21:20 | 2025-03-19 |  |
+| [2025/3/19 サザンオールスターズがニューアルバムをリリース！Early NoiseアーティストLavtの新曲も！さかいゆう、帝国喫茶、コレサワのニューアルバムもピックアップ！](https://open.spotify.com/episode/7a5ub58z4WoAtjlB1V2Z4r) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 21:29 | 2025-03-19 |  |
 | [2025/3/5 AAAMYYYが鎮座DOPENESSとNeetzを迎えた新曲をリリース！女王蜂のニューアルバムも！君島大空のニューEP、G\-k.i.dのソロ新曲、冨田ラボの新曲もピックアップ！この1週間の音楽ニュースも深堀り！](https://open.spotify.com/episode/0T6FmQgdyXosPxc3EqnOFg) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 21:11 | 2025-03-05 | 2025-03-12 |
 | [2050](https://open.spotify.com/track/3pgZdp4flHiLgSypRW2vp0) | [Sora](https://open.spotify.com/artist/0WP3McNC0NO0pphoGZT3N3) | [Imperfect](https://open.spotify.com/album/1SOIce6PxOz5T4VN44Indf) | 3:00 | 2024-12-03 | 2024-12-11 |
 | [21 century boys](https://open.spotify.com/track/7kc8nCrpr6DsKSlwGgTSFW) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [21 century boys](https://open.spotify.com/album/4gnKy7HSkQtk8kxs6FR50j) | 3:09 | 2024-11-13 | 2024-11-20 |
@@ -4711,8 +4712,8 @@
 | [RINGSIDE MAN](https://open.spotify.com/track/4A1gagvqSTX8CqoSP4qwJI) | [ABEDON AND THE RINGSIDE](https://open.spotify.com/artist/7zxq5vLhIwCCq9mvNj5lek) | [ROUND 3](https://open.spotify.com/album/0a1JWGc6hce7afmDkNpSdD) | 5:33 | 2023-09-12 | 2023-09-20 |
 | [Rinka](https://open.spotify.com/track/5IEvXyNwaJlTmBn4dYYHbB) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [Marbles](https://open.spotify.com/album/4IZT14OgKiQMqXHrdO4Oje) | 5:05 | 2024-03-13 | 2024-03-20 |
 | [Riot](https://open.spotify.com/track/0JUxx86DWVI8PkWgGC6NgU) | [ame\_no\_parade](https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28) | [Riot](https://open.spotify.com/album/2mgD78MQQ9YvX7vUdrm0pF) | 3:35 | 2024-07-30 | 2024-08-07 |
-| [Rise](https://open.spotify.com/track/53O93M9psTM74J6SS535aL) | [Kenta Hino](https://open.spotify.com/artist/7HEGE9x7Kj3561500u5LXy) | [Rise](https://open.spotify.com/album/1kVRFjTfyzvya5My1hDEUR) | 2:53 | 2025-03-19 |  |
 | [RISE](https://open.spotify.com/track/5nUSKSLZT47iB6j48dX8mb) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [ROZET](https://open.spotify.com/artist/4LyGWqMGeTHfJXbKQmk6YY) | [RISE](https://open.spotify.com/album/440CPOWZ1teOzAirb7Jyse) | 2:40 | 2024-04-16 | 2024-04-24 |
+| [Rise](https://open.spotify.com/track/53O93M9psTM74J6SS535aL) | [日野健太](https://open.spotify.com/artist/24HtvComPU5kD1X2RbDTZt) | [Rise](https://open.spotify.com/album/1kVRFjTfyzvya5My1hDEUR) | 2:53 | 2025-03-19 |  |
 | [RISE TOGETHER](https://open.spotify.com/track/4vGetXZZizkgXnWKWo3GkS) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO) | [RISE TOGETHER](https://open.spotify.com/album/15BXpNu8SXEPh9TVKse4ng) | 3:03 | 2024-04-16 | 2024-04-24 |
 | [RISE UP](https://open.spotify.com/track/2QiCZxGi2ejBx0RDanHN2S) | [DJ TANAKEN](https://open.spotify.com/artist/2JbB2acDrN9qLBVPNVMP81), [TWIGY](https://open.spotify.com/artist/3LRuRmJcuRBvc7mLhTli0v), [BES](https://open.spotify.com/artist/0eclqlcc0hJCIAeWj3nF1H) | [RISE UP](https://open.spotify.com/album/0cKFy5ofRjOarpEBd8cmi4) | 3:00 | 2024-03-26 | 2024-04-03 |
 | [RISE UP](https://open.spotify.com/track/4GdYcBziM4hqHJSXYSntQe) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [RISE UP](https://open.spotify.com/album/0DMBH4ZFc1QS5XsAWKvdxM) | 3:00 | 2024-07-09 | 2024-07-17 |

@@ -1,6 +1,6 @@
 {
   "description": "Relaxing classical music to soothe your baby.",
-  "num_followers": 41124,
+  "num_followers": 41156,
   "original_name": "Classical Music for Babies",
   "owner": {
     "name": "Spotify",
@@ -244,12 +244,12 @@
       },
       "artists": [
         {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
           "name": "Music Lab Collective",
           "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        },
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
         }
       ],
       "duration_ms": 178464,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,147 likes - 295 songs - 1 day 0 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,168 likes - 295 songs - 1 day 0 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,7 +225,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 215 | [The Final Front Ear](https://open.spotify.com/track/0eKSQa6bV4JwfS9hDKOiJr) | [Donald's House](https://open.spotify.com/artist/48Dnzf6Mfo0Z5gjpOKVuLP) | [The Final Front Ear](https://open.spotify.com/album/1qXXeBV2H0Tu1dWZsO8HS4) | 7:11 |
 | 216 | [Taj Mahal](https://open.spotify.com/track/7pdCDKs0i05N8ag4tAC5u5) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:06 |
 | 217 | [Bsslama Hbibti](https://open.spotify.com/track/0ZcDB7Rl0BGtkQuh2NOzkd) | [Fadoul](https://open.spotify.com/artist/2SCAwDNVflhhFVo1s01Xc9) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/3Uq1VMWNQLBVqd9GiSoxlC) | 4:53 |
-| 218 | [I'm Going to Go \- Original Mix](https://open.spotify.com/track/4Mk5hq0A4dgWvzuVhbTRlm) | [Jago](https://open.spotify.com/artist/3ZepWYJPVpM1bTypDMG71K) | [I'm Going to Go](https://open.spotify.com/album/2Xi2f5FJFdYtiXkXayccYf) | 5:16 |
+| 218 | [I'm Going to Go \- Original Mix](https://open.spotify.com/track/4Mk5hq0A4dgWvzuVhbTRlm) | [JAGO](https://open.spotify.com/artist/75jrbO9SizBRcSb8vq3GtH) | [I'm Going to Go](https://open.spotify.com/album/2Xi2f5FJFdYtiXkXayccYf) | 5:16 |
 | 219 | [E.a.r.t.h](https://open.spotify.com/track/56yRIvDMto2KChjrJzuGVH) | [Reflex Blue](https://open.spotify.com/artist/3z2JEfNoPTDQbDgfBzplyn) | [CKNOWEP48](https://open.spotify.com/album/1mFId4uMlgk5sX9a2f3TVN) | 5:27 |
 | 220 | [Partytime](https://open.spotify.com/track/6ScbAeZStdZTnZeswEU94z) | [Pal Joey](https://open.spotify.com/artist/28FSgx0UErqnebZfL8K6Fc) | [Loop\-D\-Loop \#2](https://open.spotify.com/album/2C1BDn75FWnrPWEHbhMt4c) | 6:27 |
 | 221 | [Love Endeavor \(Maurice Fulton Remix\) \- Mixed](https://open.spotify.com/track/0oGM4LIuCrXG5aYOAu6ANJ) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw), [Maurice Fulton](https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD) | [Weekends and Beginnings](https://open.spotify.com/album/4TyJKOcgM9gQlbzAGoOy3C) | 5:32 |

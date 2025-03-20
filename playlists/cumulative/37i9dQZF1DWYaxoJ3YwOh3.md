@@ -4,7 +4,7 @@
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-134 songs - 8 hr 4 min
+136 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Atlas](https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Atlas](https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO) | 2:45 | 2022-09-06 |  |
 | [Bab' Azîz](https://open.spotify.com/track/39MKo6PLDdb8NhACGWgwzd) | [Armand Amar](https://open.spotify.com/artist/2fJb06JRcuBWypwj46TQZj), [Levon Minassian](https://open.spotify.com/artist/0etYQllgAd4LK3t5LythT8) | [Bab' Azîz \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5QzhxVmpWQkqzSMPcUG2JJ) | 6:11 | 2022-10-24 | 2023-04-27 |
 | [Bab' Azîz](https://open.spotify.com/track/4aMXctsHbPJTf4eBWSDtWz) | [Armand Amar](https://open.spotify.com/artist/2fJb06JRcuBWypwj46TQZj), [Lévon Minassian](https://open.spotify.com/artist/36fU1D7VBlwnCf293gMzhT) | [Bab' Azîz \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18op4iNmaVYwFudFJvyvh7) | 6:11 | 2022-09-06 | 2022-12-01 |
+| [Back Home](https://open.spotify.com/track/1A8PSrSpKl1hHDpQKgU9vd) | [LaYam](https://open.spotify.com/artist/6onKBpb8AkKid8BFhLWtBH) | [Back Home](https://open.spotify.com/album/2vW1TY9g69JevrR0pzkbH6) | 2:22 | 2025-03-19 |  |
 | [Body Harmony](https://open.spotify.com/track/09UFsG6dOJpEpZNyduzJuz) | [Tranquility Spa Universe](https://open.spotify.com/artist/5JmcaXlVpjfZctdmHTgWLd) | [Arabian Spa \(Middle Eastern Music\)](https://open.spotify.com/album/3wpMpKERtJxcg3m8SOR8AX) | 3:26 | 2022-09-06 | 2024-07-17 |
 | [Breathe Of Anatolia \(417 HZ Music / Solfeggio Frequencies\)](https://open.spotify.com/track/1mRjF9HVwkJ472jWW2vZcy) | [Emre Günay](https://open.spotify.com/artist/25xzu9Ch95wnUGFagBDjix) | [Breathe Of Anatolia \(417 HZ Music / Solfeggio Frequencies\)](https://open.spotify.com/album/3FBg6aL3D0dvIVSX9M9h0U) | 3:40 | 2022-09-06 |  |
 | [Breeze out](https://open.spotify.com/track/015qmMDEE9A5pKrjTaG3nT) | [Franz Emerald](https://open.spotify.com/artist/5luV26BPXVy8eyjz3lnzKv) | [Breeze out](https://open.spotify.com/album/4PnD3Gccu4KYOCC0qYsak0) | 3:11 | 2023-07-11 |  |
@@ -111,6 +112,7 @@
 | [Silent Saunas](https://open.spotify.com/track/2uO03QD9Ftji8n2ZLKglGi) | [Mandala Dreams](https://open.spotify.com/artist/3i1TDsrVS40yt81IHvWkg1) | [Silent Saunas](https://open.spotify.com/album/3HByXhtdotcuoB91KHcc1R) | 3:59 | 2022-09-06 |  |
 | [Siretzi Yares Daran \(They Have Taken the One I Love\)](https://open.spotify.com/track/2W2AKnHmEN76MnVYBRtos8) | [Lévon Minassian](https://open.spotify.com/artist/36fU1D7VBlwnCf293gMzhT) | [The Doudouk \- Beyond Borders](https://open.spotify.com/album/1CXw0TDT7av2Ew5PB4w25l) | 6:59 | 2022-09-06 | 2024-07-17 |
 | [Siretzi Yares Daran \(They Have Taken the One I Love\)](https://open.spotify.com/track/2dhdVOLoYr46OUlsS70S1f) | [Lévon Minassian](https://open.spotify.com/artist/36fU1D7VBlwnCf293gMzhT) | [The Doudouk \- Beyond Borders](https://open.spotify.com/album/1mfk0GmQ52LjueSqEvhC7i) | 6:59 | 2022-09-30 | 2024-04-19 |
+| [Solar Seraph](https://open.spotify.com/track/63THLVop1w7YRIMO9ij01U) | [Milleah](https://open.spotify.com/artist/5S8hNWbGuoD4rTAnNxuxze) | [Solar Seraph](https://open.spotify.com/album/6Qorf7wIB8XWZ2FsBaTM8x) | 2:58 | 2025-03-19 |  |
 | [Sorrow of the Wind](https://open.spotify.com/track/5pLqju9ZMDIGRqUuroG1He) | [Eduardo Tarilonte](https://open.spotify.com/artist/49fzCZLTuqOWwAGVcljy9p) | [Sorrow of the Wind](https://open.spotify.com/album/5t2XE6BxZyEHPLjDVgccFq) | 3:05 | 2024-07-16 |  |
 | [Spiritual Mindfulness](https://open.spotify.com/track/4S4igfG2j922w8hrDWRHvj) | [Namaste Healing Yoga](https://open.spotify.com/artist/30u03dHVwT6ByMPQYs7e2P) | [Journey to Arabia: Namaste Yoga \- Middle Eastern Meditation, Oriental Relaxation, Deep Spiritual Music](https://open.spotify.com/album/4pGkIMQ2xwUJvnOmYyBr5j) | 3:54 | 2022-09-06 | 2023-03-09 |
 | [Still Waves \(432hz\)](https://open.spotify.com/track/6qlL9nfU00kj1bPr99uryF) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Still Waves \(432hz\)](https://open.spotify.com/album/0FmfRdFZX0sdEsU5VOtA1i) | 3:52 | 2022-09-06 |  |

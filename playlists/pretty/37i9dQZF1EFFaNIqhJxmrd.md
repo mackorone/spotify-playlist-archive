@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 64 | [Like You](https://open.spotify.com/track/43UyWO6ngUld3xcjYl5XRR) | [Future Chess Club](https://open.spotify.com/artist/3qhz6nnUi7DZZAEwcGKtGW) | [Like You](https://open.spotify.com/album/2I3nYpvclZVh4kMB7pzaRS) | 3:24 |
 | 65 | [För bra för att va sant](https://open.spotify.com/track/520XKC8d8bAet1txRq1xop) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [För bra för att va sant](https://open.spotify.com/album/1SGDAuJ6p6689iDBaluvKB) | 2:49 |
 | 66 | [Frank Ocean](https://open.spotify.com/track/29fcce3Nr3mrYcfdWFEln8) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Frank Ocean](https://open.spotify.com/album/0oR9YdgNzj4o3GcWzK1xCr) | 2:36 |
-| 67 | [säga inget säger allt](https://open.spotify.com/track/2rBv1g6VfRXIHuLSpi0ZOM) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [dö\(d\) för mig](https://open.spotify.com/album/0h7YW4GgLTQRIof8sxseMU) | 2:37 |
-| 68 | [Inget som gör ont, gör ont 4ever](https://open.spotify.com/track/4iiMwRdEFIbSpxYGYBd8tR) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Inget som gör ont, gör ont 4ever](https://open.spotify.com/album/7zbhWU2UiQ46184cVsWYat) | 2:28 |
+| 67 | [Inget som gör ont, gör ont 4ever](https://open.spotify.com/track/4iiMwRdEFIbSpxYGYBd8tR) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Inget som gör ont, gör ont 4ever](https://open.spotify.com/album/7zbhWU2UiQ46184cVsWYat) | 2:28 |
+| 68 | [säga inget säger allt](https://open.spotify.com/track/2rBv1g6VfRXIHuLSpi0ZOM) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [dö\(d\) för mig](https://open.spotify.com/album/0h7YW4GgLTQRIof8sxseMU) | 2:37 |
 | 69 | [Rathana](https://open.spotify.com/track/4sdQxjTvfxY9KkvQDAcDYt) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Halva vägen fri](https://open.spotify.com/album/1dHZzTTbt6vpGRej48y8BL) | 3:40 |
 | 70 | [Death of Me](https://open.spotify.com/track/1AgjsphQSNEEMj3DokN5wX) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:13 |
 | 71 | [Våran första sommar](https://open.spotify.com/track/0uHdKs2SAfPhrTKRqIRCJD) | [Junior Brielle](https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc) | [TAMPA](https://open.spotify.com/album/1RJj36DweXkCPIJQNCwpQh) | 4:34 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 100 | [Indigo Bruised](https://open.spotify.com/track/19UnB1WA1EhlnWIyGHyDfZ) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Indigo Bruised](https://open.spotify.com/album/4BxfBMRKQhFiIw1EpEm4Et) | 3:22 |
 | 101 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 
-Snapshot ID: `AbsadAAAAACfpeWXEHFymS+qR9OMKzRc`
+Snapshot ID: `AbsgKAAAAACfRECT9b6ZkwvdRJsjZnnl`

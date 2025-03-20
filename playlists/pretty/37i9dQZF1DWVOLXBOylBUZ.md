@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Kapo y Myke Towers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,626 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,616 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 46 | [DICIEMBRE](https://open.spotify.com/track/4zTD9DUG5fLc2fP3EJafoV) | [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [DICIEMBRE](https://open.spotify.com/album/3HV3chanuZQZ302jOq7C4x) | 3:24 |
 | 47 | [Dime Que No \(feat\. Lenier\)](https://open.spotify.com/track/5KqO3V6z8HomuTXfmM1bTi) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Dime Que No \(feat\. Lenier\)](https://open.spotify.com/album/5xE4PxaOxkQhMdL07VwZiw) | 3:36 |
 | 48 | [X Qué Le Mientes A Tu Cora](https://open.spotify.com/track/4K1z8mqujEXUbPHRgRG2Do) | [Daizak](https://open.spotify.com/artist/1CTQCLfayh8AF1ybuosMWZ), [Samir Guerrero](https://open.spotify.com/artist/48GvKgVJh2wvVwNy2sfUWU), [Danilex](https://open.spotify.com/artist/1tJvBbdeukuj5PqfXaPwgx) | [De La Calle Pa Tu Cora](https://open.spotify.com/album/3UXH6Yk3zm7s87fXASKvnV) | 4:10 |
-| 49 | [La Culpa](https://open.spotify.com/track/3AeA8sKpjg7XlDXOfDwCEg) | [Wizu](https://open.spotify.com/artist/3jbaNN3lvwBh3EAHUfFa8W), [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU) | [La Culpa](https://open.spotify.com/album/2PYzhKNS8nyiOtGrLPlha9) | 2:36 |
+| 49 | [La Culpa](https://open.spotify.com/track/3AeA8sKpjg7XlDXOfDwCEg) | [Wizu](https://open.spotify.com/artist/3jbaNN3lvwBh3EAHUfFa8W), [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU), [CRISMOLAVISION](https://open.spotify.com/artist/71HXixL2Y1cpqt7QaaTHfM) | [La Culpa](https://open.spotify.com/album/2PYzhKNS8nyiOtGrLPlha9) | 2:36 |
 | 50 | [Alma](https://open.spotify.com/track/35kVPuCr0uZfkNEt5TlD9O) | [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Alma](https://open.spotify.com/album/6LxTdbzVKWdPUJZYbPU2I0) | 2:25 |
 | 51 | [TE FALLÉ](https://open.spotify.com/track/2stYCm7UAyZ4srGFrI4MNX) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [BUENAS NOCHES](https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh) | 3:39 |
 | 52 | [TNT](https://open.spotify.com/track/0VkdIb1s5W0t9c6qXKzVB3) | [Jared](https://open.spotify.com/artist/7mccMACHaRkUsmX5Y4TPdg), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT), [WIKELES](https://open.spotify.com/artist/74rG5ikQzPvZMA7mIGKOlc), [B Sanz](https://open.spotify.com/artist/1xj7SYyEFaa23BgBMTs9nk) | [TNT](https://open.spotify.com/album/0xYVipVvxgFXVkkIbWCe3F) | 3:19 |

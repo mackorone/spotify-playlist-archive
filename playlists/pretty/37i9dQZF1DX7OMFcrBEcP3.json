@@ -1,6 +1,6 @@
 {
   "description": "The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte",
-  "num_followers": 103547,
+  "num_followers": 103605,
   "original_name": "We Love Corridos Viejitos ",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
+        "name": "Tesoros Musicales",
+        "url": "https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 181453,
+      "name": "El Odio De Dos Hermanos",
+      "url": "https://open.spotify.com/track/7E9LZqiVJUtDP2yt3ysoP0"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
         "name": "20 Exitos",
         "url": "https://open.spotify.com/album/6mZX641phI5c1OSACBqmYL"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 209773,
       "name": "Chingon De Chingones",
       "url": "https://open.spotify.com/track/5lduUBDO2K74wlWcReMTJ8"
-    },
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
-        "name": "Tesoros Musicales",
-        "url": "https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 181453,
-      "name": "El Odio De Dos Hermanos",
-      "url": "https://open.spotify.com/track/7E9LZqiVJUtDP2yt3ysoP0"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 165880,
-      "name": "Soy Alba\u00f1il",
-      "url": "https://open.spotify.com/track/5dBBdICmRbmr3k49A5Je1i"
-    },
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
         "name": "Misa De Cuerpo Presente",
         "url": "https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 168360,
       "name": "Misa De Cuerpo Presente",
       "url": "https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 165880,
+      "name": "Soy Alba\u00f1il",
+      "url": "https://open.spotify.com/track/5dBBdICmRbmr3k49A5Je1i"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
-        "name": "Le Compr\u00e9 la Muerte a Mi Hijo",
-        "url": "https://open.spotify.com/album/36jpd4kKEalvzpw8k12mNP"
-      },
-      "artists": [
-        {
-          "name": "Beto Quintanilla",
-          "url": "https://open.spotify.com/artist/2L54fWLv9EgJu76ELlfV2J"
-        }
-      ],
-      "duration_ms": 176386,
-      "name": "Las \u00c1guilas Andan Solas",
-      "url": "https://open.spotify.com/track/6wQjoZ4ffP7cAIfiwldEWZ"
-    },
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
         "name": "Corridos Famosos",
         "url": "https://open.spotify.com/album/4ATvggsNK4AaZNpare9Tjd"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 238887,
       "name": "Corrido de los P\u00e9rez",
       "url": "https://open.spotify.com/track/7rCFnAMjSx3NHJRTR4PijK"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
+        "name": "Le Compr\u00e9 la Muerte a Mi Hijo",
+        "url": "https://open.spotify.com/album/36jpd4kKEalvzpw8k12mNP"
+      },
+      "artists": [
+        {
+          "name": "Beto Quintanilla",
+          "url": "https://open.spotify.com/artist/2L54fWLv9EgJu76ELlfV2J"
+        }
+      ],
+      "duration_ms": 176386,
+      "name": "Las \u00c1guilas Andan Solas",
+      "url": "https://open.spotify.com/track/6wQjoZ4ffP7cAIfiwldEWZ"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
-        "name": "Vicente Fern\u00e1ndez Y Sus Corridos Consentidos",
-        "url": "https://open.spotify.com/album/7JRZqO7zZrTJiL0yeeQfYn"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 146213,
-      "name": "Luis Pulido",
-      "url": "https://open.spotify.com/track/2jUiJuZFnTtG0xohTfGU4e"
-    },
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
         "name": "40 \u00c9xitos",
         "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 198533,
       "name": "Baraja De Oro",
       "url": "https://open.spotify.com/track/4vxGRxWgmTtaVOJlVV1TjC"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
+        "name": "Vicente Fern\u00e1ndez Y Sus Corridos Consentidos",
+        "url": "https://open.spotify.com/album/7JRZqO7zZrTJiL0yeeQfYn"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 146213,
+      "name": "Luis Pulido",
+      "url": "https://open.spotify.com/track/2jUiJuZFnTtG0xohTfGU4e"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
-        "name": "Amor Y L\u00e1grimas",
-        "url": "https://open.spotify.com/album/1ofYSIU9pfhZy22WEL165p"
-      },
-      "artists": [
-        {
-          "name": "Adan Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
-        }
-      ],
-      "duration_ms": 196487,
-      "name": "Nadie Es Eterno",
-      "url": "https://open.spotify.com/track/4QBymteCSzSkVSq1L4j1mf"
-    },
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
         "name": "Corridos Y Tragedias De La Frontera",
         "url": "https://open.spotify.com/album/2jBFdIcdBMztm4pXMrsIxM"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 221719,
       "name": "Corrido de Macario Leyva",
       "url": "https://open.spotify.com/track/1wWkXyBQGnmAua5LKPXWv3"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
+        "name": "Amor Y L\u00e1grimas",
+        "url": "https://open.spotify.com/album/1ofYSIU9pfhZy22WEL165p"
+      },
+      "artists": [
+        {
+          "name": "Adan Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
+        }
+      ],
+      "duration_ms": 196487,
+      "name": "Nadie Es Eterno",
+      "url": "https://open.spotify.com/track/4QBymteCSzSkVSq1L4j1mf"
     },
     {
       "added_at": "2024-11-18 18:28:40",

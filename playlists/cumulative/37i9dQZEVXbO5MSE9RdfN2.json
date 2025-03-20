@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-19",
+      "date_removed": null,
       "duration_ms": 133571,
       "name": "1 AM",
       "url": "https://open.spotify.com/track/52p5h1D2QAfjiqmKawgMKg"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 133607,
       "name": "1 AM",
       "url": "https://open.spotify.com/track/1J4GwCYlxppes4LtrKjBtX"
@@ -6777,6 +6777,24 @@
     },
     {
       "album": {
+        "name": "The Sky, The Earth & All Between",
+        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215566,
+      "name": "Elegy",
+      "url": "https://open.spotify.com/track/6Fru9ck2yZQpyLHxSfmasq"
+    },
+    {
+      "album": {
         "name": "Elevator Operator",
         "url": "https://open.spotify.com/album/6JNW5L80qRIaLPhN60fkaM"
       },
@@ -10374,7 +10392,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 145696,
       "name": "Hit the Ground",
       "url": "https://open.spotify.com/track/7wAuksvJErTLz0OHTDJPIa"
@@ -12018,7 +12036,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-19",
+      "date_removed": null,
       "duration_ms": 286634,
       "name": "Indigo (feat. Avery Anna)",
       "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
@@ -22788,7 +22806,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 190586,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/6n4iuOHAOIu5LtbXBKrD0f"

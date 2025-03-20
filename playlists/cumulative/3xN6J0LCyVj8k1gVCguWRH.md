@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,654 songs - 10 day 21 hr 0 min
+4,656 songs - 10 day 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2100,7 +2100,7 @@
 | [Jackson Hole](https://open.spotify.com/track/0eWPqXxmGf9PgdHKkjMgnm) | [Jud Hailey](https://open.spotify.com/artist/2QAYhplrd9ihaiJO0J3ttn) | [Jackson Hole](https://open.spotify.com/album/3eZkkChub74NaLEeXhjFyI) | 3:53 | 2024-12-26 | 2025-01-17 |
 | [Jade](https://open.spotify.com/track/1EP5xEYpW1uEYHAZIVEQqc) | [Taylor Castro](https://open.spotify.com/artist/1RA3K5sRdBeTys4cvTisON) | [Jade](https://open.spotify.com/album/1TusGaotu13zdgv0Pw0Osi) | 4:11 | 2021-11-27 | 2021-12-12 |
 | [Jaded](https://open.spotify.com/track/2q1ZYPHZXnmI3nLkJpHFb3) | [Xero Music](https://open.spotify.com/artist/4XWdJYXmR4TY2gwnapByZd) | [Hood Boy Blues](https://open.spotify.com/album/0SvHUIWaTmwacy2EsyAznf) | 3:22 | 2024-10-26 | 2024-11-07 |
-| [Jaded \(Radio Edit\)](https://open.spotify.com/track/0zDEjgIDby9SN8JT9zv4aM) | [Cafe Disko](https://open.spotify.com/artist/7x6KEmSwlWNo0d628uyi7W), [stereoGO](https://open.spotify.com/artist/2yj54HmisGpQJexTLzdPQr) | [Jaded](https://open.spotify.com/album/6rzUg3N9gYDRZchSaylR57) | 2:38 | 2025-03-08 |  |
+| [Jaded \(Radio Edit\)](https://open.spotify.com/track/0zDEjgIDby9SN8JT9zv4aM) | [Cafe Disko](https://open.spotify.com/artist/7x6KEmSwlWNo0d628uyi7W), [stereoGO](https://open.spotify.com/artist/2yj54HmisGpQJexTLzdPQr) | [Jaded](https://open.spotify.com/album/6rzUg3N9gYDRZchSaylR57) | 2:38 | 2025-03-08 | 2025-03-20 |
 | [Jaja](https://open.spotify.com/track/0HFZSeT31eu7CXzYWAfLmD) | [Tutipsy](https://open.spotify.com/artist/0LY2ULdbf59X4QJjZfEnW3) | [Jaja](https://open.spotify.com/album/3JXVpWiCvhCl4ikiP5pc80) | 2:50 | 2024-01-22 | 2024-01-30 |
 | [Jam Suspect](https://open.spotify.com/track/6zGxIWsmJTsiJvAOY1HdEA) | [Moongold](https://open.spotify.com/artist/2EzUruCY79HOULPCTH27h6) | [Jam Suspect](https://open.spotify.com/album/32olRxICcCsDpRml51dMQb) | 4:00 | 2022-10-16 | 2022-11-08 |
 | [james dean](https://open.spotify.com/track/5uH0GZs8XjQNzLCc9wEpfX) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [james dean](https://open.spotify.com/album/2c9tBJKWNN3e61Kn0mhzVG) | 2:41 | 2024-02-10 | 2024-05-22 |
@@ -2179,6 +2179,7 @@
 | [Kill For Love](https://open.spotify.com/track/12SG1a5z52i3z4JttPfp0C) | [Logan Lynn](https://open.spotify.com/artist/2clmyuEvqEILINTuP7lXxY) | [SOFTCORE](https://open.spotify.com/album/25P5HE3ik51alxGlGyQgG8) | 3:55 | 2024-06-10 | 2024-06-22 |
 | [Kill For You](https://open.spotify.com/track/5RjqGGgHBZXycoyFrVGHQI) | [NEA EINI](https://open.spotify.com/artist/5d9OWj9gEcEXkTsILdZg0S) | [Kill For You](https://open.spotify.com/album/5qAJkzutqWCoFPfJv5dr1r) | 2:13 | 2023-12-25 | 2024-01-14 |
 | [Kill Tony](https://open.spotify.com/track/2DqLpOOOtwfZqMgZ8TnWKc) | [JOLA](https://open.spotify.com/artist/38J6ZcC4URR0HjwQ71kxvC) | [Kill Tony](https://open.spotify.com/album/6IALV1LHTjP79PcdNICyRg) | 3:06 | 2023-12-14 | 2023-12-26 |
+| [Killer](https://open.spotify.com/track/4cHauKMFvvo4USypSc6uWi) | [Nathan O'Regan](https://open.spotify.com/artist/3b9QQ0yTuxGScPRz2liMk8) | [Killer](https://open.spotify.com/album/6GGYkRnwJuRz4WwajNQSL9) | 2:51 | 2025-03-19 |  |
 | [King for a Day](https://open.spotify.com/track/6QYYVuvynDJctOwwUTLfhX) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 3:44 | 2021-08-28 | 2021-09-11 |
 | [King of Hearts](https://open.spotify.com/track/06456Fk92JMADA3fBgbmf0) | [JXHN PVUL](https://open.spotify.com/artist/28H3boz2aIeGYUIEP3cHUU) | [King of Hearts](https://open.spotify.com/album/38bF20RmpLMBRlYB32DKK6) | 2:44 | 2020-10-06 | 2020-10-28 |
 | [king's cup](https://open.spotify.com/track/1nteChpAo6jpVbfjoIOhD9) | [14kay](https://open.spotify.com/artist/78cBl0FB04prgcjfoPz3wu) | [k.ay](https://open.spotify.com/album/68SdmwIoM4EQRnFJpIxkHk) | 5:17 | 2024-10-22 | 2024-11-06 |
@@ -3628,6 +3629,7 @@
 | [Sofa](https://open.spotify.com/track/1WzhUeO671Ao0H4h3jRmUJ) | [Hannah Ascher](https://open.spotify.com/artist/2yHuoZP76QdJig5EbPEq1L) | [Sofa](https://open.spotify.com/album/0Bc1adVWc1yyTMu2LgjOTj) | 3:21 | 2023-07-04 | 2023-07-18 |
 | [Soft Maverick](https://open.spotify.com/track/3IujgFD9na2pChd07kbr3e) | [Imani Shola](https://open.spotify.com/artist/6Xg6LoqcniDRcZcIeipMwf) | [Soft Maverick](https://open.spotify.com/album/6rcWYP9seL1PdU8zNN7cID) | 3:53 | 2024-06-21 | 2024-07-03 |
 | [Soju](https://open.spotify.com/track/2dcD5s2X2A9QOV0Xhe0cdd) | [Labit](https://open.spotify.com/artist/7E1XXjHJx1GY0MXZpcgKea) | [Soju](https://open.spotify.com/album/5PCBZNCMphWJAC5eVYdMLV) | 3:01 | 2022-06-20 | 2022-07-07 |
+| [Sol y Luna](https://open.spotify.com/track/7q7Boh5hhO8uBmRCWt9IGr) | [Franco Leoz](https://open.spotify.com/artist/1I94Mwfe4eUDvnGaZ7lRdz) | [Sol y Luna](https://open.spotify.com/album/5raJyNP1v1yD2ZM78huQEP) | 2:48 | 2025-03-19 |  |
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-06-11 | 2021-07-12 |
 | [Solitude Burns](https://open.spotify.com/track/1FQWkhlvCcjPsaqpMU9Yfn) | [The Strange Seeds](https://open.spotify.com/artist/3gwMCAZVLTLsYL2SFOXMYR) | [Solitude Burns](https://open.spotify.com/album/55ReHPAjW2g0qjfpBGNwvk) | 5:48 | 2024-01-31 | 2024-02-08 |
 | [Solo por Necesidad](https://open.spotify.com/track/3PberEargUf8d607ITEQRS) | [Diocelina Peralta](https://open.spotify.com/artist/0Tf9GlVMnkWTybJlaprIhi) | [Massage](https://open.spotify.com/album/6PfUWj6eRsLUADUlYbZmPK) | 4:25 | 2024-03-13 | 2024-03-22 |
@@ -4224,7 +4226,7 @@
 | [Two Coins](https://open.spotify.com/track/5Ealaegl2GWI3FbzyrfGt3) | [Lewis Dalgliesh](https://open.spotify.com/artist/5rhY8rWa0UZqSdfy2Fqc7Z) | [A Place I've Never Known](https://open.spotify.com/album/77pSzSttZGZAY0nmUE3qeS) | 3:05 | 2021-03-26 | 2021-04-11 |
 | [Two Face](https://open.spotify.com/track/6bgNDCH3ybqlyzCXaJcsrO) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [Fatigue](https://open.spotify.com/album/2dFXtpw7b5PTKHo5kN17bG) | 4:06 | 2022-11-04 | 2022-11-27 |
 | [Two Sticks \(Dynamite\)](https://open.spotify.com/track/3cuzJTeou5lCgpit1ebSYg) | [Jesus Chrysler Supercar](https://open.spotify.com/artist/4ySg1svO2GzQeWkKkt3uPW) | [Two Sticks \(Dynamite\)](https://open.spotify.com/album/6muSps9G0hi8INjJko3vzz) | 3:50 | 2024-11-22 | 2024-12-04 |
-| [Type Shii](https://open.spotify.com/track/72aVTPwu9i8Zb7F4m4j6fn) | [MookyTheGreat](https://open.spotify.com/artist/5ErdfG5f4MgljonIPA7yho), [Baby J](https://open.spotify.com/artist/5HISH9B9XF0Ok8CfP2k3gU) | [Type Shii](https://open.spotify.com/album/4j6NYuYp0sn31HaZiBYufc) | 3:15 | 2025-03-09 |  |
+| [Type Shii](https://open.spotify.com/track/72aVTPwu9i8Zb7F4m4j6fn) | [MookyTheGreat](https://open.spotify.com/artist/5ErdfG5f4MgljonIPA7yho), [Baby J](https://open.spotify.com/artist/5HISH9B9XF0Ok8CfP2k3gU) | [Type Shii](https://open.spotify.com/album/4j6NYuYp0sn31HaZiBYufc) | 3:15 | 2025-03-09 | 2025-03-20 |
 | [TYWT](https://open.spotify.com/track/2rugTlWNmn7ldRwG3TXwEG) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc) | [Goodbye](https://open.spotify.com/album/2RpNIBUoTDNK9pKzc7XNu7) | 3:01 | 2019-11-14 | 2019-12-04 |
 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 | 2020-08-20 | 2023-08-28 |
 | [Tú](https://open.spotify.com/track/44Ol9jtEjWtTjK74Rg4A0P) | [Tu Respirar](https://open.spotify.com/artist/3abaYGYiH2WgkUSYci6OgU) | [Tú](https://open.spotify.com/album/55LJejduOKpPVab69ZPIzX) | 3:55 | 2023-04-28 | 2023-05-16 |
@@ -4361,7 +4363,7 @@
 | [Wanna See You](https://open.spotify.com/track/6q5dbremJ7EFbztaZ3TRX5) | [R.J.](https://open.spotify.com/artist/30TSAGQzM4LeNrF0o9nqqU) | [Wanna See You](https://open.spotify.com/album/1F4lamEKvDWe198drDhgaw) | 4:43 | 2020-04-18 | 2020-05-06 |
 | [Wannabe](https://open.spotify.com/track/0y2kRlM9kXcWEVY8BGmfUf) | [Shaina](https://open.spotify.com/artist/4f6Ld2fEYNHv5t0LyBochy) | [Wannabe](https://open.spotify.com/album/5NLmYzYDQK8KUjUooUDhnb) | 3:30 | 2022-04-01 | 2022-04-17 |
 | [want it](https://open.spotify.com/track/0mA3bX2dbHqDT0dYJa4xjw) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [want it](https://open.spotify.com/album/6jRL1VuTGOTmWfoJjGXjlo) | 2:21 | 2022-11-04 | 2022-11-27 |
-| [Want It Back](https://open.spotify.com/track/1SDiIdsL9ualgArQrzd6YU) | [Fowlie](https://open.spotify.com/artist/2yc52yLt7joDdre7MiuPYR) | [Celestial](https://open.spotify.com/album/2XHUW2NWsdRefscG0w0LJJ) | 2:59 | 2025-03-09 |  |
+| [Want It Back](https://open.spotify.com/track/1SDiIdsL9ualgArQrzd6YU) | [Fowlie](https://open.spotify.com/artist/2yc52yLt7joDdre7MiuPYR) | [Celestial](https://open.spotify.com/album/2XHUW2NWsdRefscG0w0LJJ) | 2:59 | 2025-03-09 | 2025-03-20 |
 | [Want U Bad](https://open.spotify.com/track/1Vq25HokcSYuXpco02Fcb0) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Want U Bad](https://open.spotify.com/album/24S7dNJGZ9m58oPkqGqpTa) | 2:35 | 2023-07-24 | 2023-08-20 |
 | [Want You Bad](https://open.spotify.com/track/0T5P4Wx4XlfItJAckXp50r) | [Cain Kerner](https://open.spotify.com/artist/7HazY7Ej36exysLBP20B1f) | [Want You Bad](https://open.spotify.com/album/2bYMmvWMnhgHg13tnGLye2) | 2:02 | 2024-04-26 | 2024-05-09 |
 | [Want Your Soul](https://open.spotify.com/track/6NWRvm7t7PvvKJ2z1K1a69) | [NoahUI](https://open.spotify.com/artist/4NYJ4kUX3shxZyNoRPghZw), [CrisMMVI](https://open.spotify.com/artist/1KIaeTMjSjns8fsNs0B0S1) | [Want Your Soul](https://open.spotify.com/album/7BPfseUsoRwuUXpF2ueUOv) | 2:33 | 2024-06-07 | 2024-06-19 |

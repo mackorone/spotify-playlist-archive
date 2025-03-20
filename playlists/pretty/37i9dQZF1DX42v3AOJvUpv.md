@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 
 > Entre peinados, maquillajes y vestimentas exóticas, la estética dominó la escena musical de los años ’80\. Foto:<a href="spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL"> Soda Stereo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,234 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,237 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 | 47 | [Ricardo Ruben](https://open.spotify.com/track/0vLaSLUZKz7piNFTTtXRy8) | [Los Twist](https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn) | [Serie De Oro](https://open.spotify.com/album/6VuaLtxKsfIEUz98Od2Aoc) | 3:23 |
 | 48 | [Exhibición Condicionada \- Remastered 2017](https://open.spotify.com/track/1CJjSh11qRfVtlu291T8LO) | [Graffiti](https://open.spotify.com/artist/2ZgRrMPrfyF09AxK77ERBj) | [Exhibición Condicionada \(Remastered 2017\)](https://open.spotify.com/album/1fmO6qMzdt1euO1OI5WM0o) | 3:58 |
 | 49 | [Nos Siguen Pegando Abajo](https://open.spotify.com/track/5yCLtExDoFHmzYPdLk7X2s) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [El Álbum](https://open.spotify.com/album/6nmJx7fEnrsBfZXx80zYya) | 3:28 |
-| 50 | [El Sueño De La Gitana](https://open.spotify.com/track/0N19GlFqpOgdi6M72KBaaq) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Rata Blanca](https://open.spotify.com/album/1V5yKGUPy4bStivYYTsGrK) | 7:12 |
+| 50 | [Mejor No Hablar de Ciertas Cosas](https://open.spotify.com/track/4FapqmBF1lcrZf98FHfr1O) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Obras Cumbres](https://open.spotify.com/album/4PJLMwI0oUtDRTT8auZoaP) | 4:41 |
 
 Snapshot ID: `Zmox6QAAAAD8UgCHUhC+cnn4uDbzvweD`

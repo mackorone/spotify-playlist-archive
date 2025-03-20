@@ -1,12 +1,12 @@
 {
   "description": "This is Baby Tate. The essential tracks, all in one playlist.",
-  "num_followers": 4754,
+  "num_followers": 4756,
   "original_name": "This Is Baby Tate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAADqDEwTnAdA2gVyEBz80q3M",
+  "snapshot_id": "Z9i3gAAAAABkt3oOOixPvL3WIEUI0NWl",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jersey",
-        "url": "https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Jersey",
-      "url": "https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hello Stranger",
         "url": "https://open.spotify.com/album/06ll4nWlQ2P2keJ2ULSOIR"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 180174,
       "name": "Aura (feat. Baby Tate)",
       "url": "https://open.spotify.com/track/0zAWAPj6mqQquTdur7Vrxx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jersey",
+        "url": "https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj"
     },
     {
       "added_at": null,
@@ -507,6 +507,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "oOo that's my type (feat. Yung Baby Tate)",
+        "url": "https://open.spotify.com/album/12MXzGTIgDokAvCMR0qXHN"
+      },
+      "artists": [
+        {
+          "name": "Marian Hill",
+          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 161595,
+      "name": "oOo that's my type (feat. Yung Baby Tate)",
+      "url": "https://open.spotify.com/track/3hafGbhod5a1pRxeUrVD1O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tate Tuesday, Vol. 1",
+        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 126400,
+      "name": "Super Sick",
+      "url": "https://open.spotify.com/track/2owaOpvrM3m6l7p3q8eAKc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "While You Wait",
         "url": "https://open.spotify.com/album/3L0ST7zHUCBnqXGNQmy2TL"
       },
@@ -531,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tate Tuesday, Vol. 1",
-        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 126400,
-      "name": "Super Sick",
-      "url": "https://open.spotify.com/track/2owaOpvrM3m6l7p3q8eAKc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baby Tate Presents - Sexploration: The Musical",
         "url": "https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 167833,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/0p1Ei2H706y4ynYaGGJxaY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "oOo that's my type (feat. Yung Baby Tate)",
-        "url": "https://open.spotify.com/album/12MXzGTIgDokAvCMR0qXHN"
-      },
-      "artists": [
-        {
-          "name": "Marian Hill",
-          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 161595,
-      "name": "oOo that's my type (feat. Yung Baby Tate)",
-      "url": "https://open.spotify.com/track/3hafGbhod5a1pRxeUrVD1O"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KLUBFETISH",
-        "url": "https://open.spotify.com/album/0YWta22ockLSMT0EA4I07s"
-      },
-      "artists": [
-        {
-          "name": "Fetish",
-          "url": "https://open.spotify.com/artist/3g3F7yWVfcFrd0aO2VXTXW"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 166392,
-      "name": "Bitches luv Kunt",
-      "url": "https://open.spotify.com/track/79dFiwDYTb0w5xq0TWxaQl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mani/Pedi",
         "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
       },
@@ -691,26 +671,6 @@
       "duration_ms": 189887,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GHETTO GODS",
-        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 198482,
-      "name": "BLACK PEARLS (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/495HEwAyUnkb6ki1bD9dhS"
     },
     {
       "added_at": null,
@@ -731,6 +691,46 @@
       "duration_ms": 192423,
       "name": "Feedback",
       "url": "https://open.spotify.com/track/2vM9UcnXfYp5Pgo7rdWiSK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KLUBFETISH",
+        "url": "https://open.spotify.com/album/0YWta22ockLSMT0EA4I07s"
+      },
+      "artists": [
+        {
+          "name": "Fetish",
+          "url": "https://open.spotify.com/artist/3g3F7yWVfcFrd0aO2VXTXW"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 166392,
+      "name": "Bitches luv Kunt",
+      "url": "https://open.spotify.com/track/79dFiwDYTb0w5xq0TWxaQl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GHETTO GODS",
+        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 198482,
+      "name": "BLACK PEARLS (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/495HEwAyUnkb6ki1bD9dhS"
     },
     {
       "added_at": null,
@@ -975,22 +975,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bow (feat. Baby Tate)",
-        "url": "https://open.spotify.com/album/2bf8hfYFu0gMwdT0LVfJoL"
+        "name": "Been in My Bag",
+        "url": "https://open.spotify.com/album/5qthQyrJwdXFXsTkjWwXCO"
       },
       "artists": [
-        {
-          "name": "MFS",
-          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
-        },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 94524,
-      "name": "Bow (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/5TRZOLd92OksSG1I04LziQ"
+      "duration_ms": 134164,
+      "name": "Been in My Bag",
+      "url": "https://open.spotify.com/track/52S4G8jg4gtQQqImKb7iMC"
     }
   ],
   "unique_name": "This Is Baby Tate",

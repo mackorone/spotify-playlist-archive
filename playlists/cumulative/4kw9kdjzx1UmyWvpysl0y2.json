@@ -9609,6 +9609,24 @@
     },
     {
       "album": {
+        "name": "LOCK N LOAD",
+        "url": "https://open.spotify.com/album/50muUlnq0cgOylPOJYEppo"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176800,
+      "name": "LOCK N LOAD",
+      "url": "https://open.spotify.com/track/3OA8WRnghM0VmLXFMTSKnr"
+    },
+    {
+      "album": {
         "name": "Lockdown",
         "url": "https://open.spotify.com/album/6C2ezhjaFoS7V1GdHD3gbK"
       },

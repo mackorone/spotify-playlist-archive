@@ -7685,6 +7685,24 @@
     },
     {
       "album": {
+        "name": "come show me",
+        "url": "https://open.spotify.com/album/3aPBZcPfLAmvpMrc57E9Ka"
+      },
+      "artists": [
+        {
+          "name": "giannis wang",
+          "url": "https://open.spotify.com/artist/7gCQx2yCLDrGPTMa7fAY8y"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121600,
+      "name": "come show me",
+      "url": "https://open.spotify.com/track/3zGeEexRezep22ScUrdTyG"
+    },
+    {
+      "album": {
         "name": "Come With Me",
         "url": "https://open.spotify.com/album/0iYTcWYZKR03Jx8fedYii4"
       },
@@ -10389,6 +10407,28 @@
     },
     {
       "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/4PgWB31QuLC06bxsG8HXEa"
+      },
+      "artists": [
+        {
+          "name": "amies",
+          "url": "https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q"
+        },
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/6SD1pxax8w0mb4HKFMHB6g"
+    },
+    {
+      "album": {
         "name": "Dripht",
         "url": "https://open.spotify.com/album/27565GcAZufKzkN8Vk89WR"
       },
@@ -12172,7 +12212,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 111546,
       "name": "Far Far Away",
       "url": "https://open.spotify.com/track/6SMu9pzCeYtNd5JBdmycQr"
@@ -13336,7 +13376,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 138836,
       "name": "Fluorescent Nights",
       "url": "https://open.spotify.com/track/74KBmmkchWEsbq1dJBPIat"
@@ -14962,7 +15002,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 118554,
       "name": "go back to sleep",
       "url": "https://open.spotify.com/track/1UWBTTj5VVnSzUxLogVAPR"
@@ -19850,7 +19890,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 138666,
       "name": "Leaps Of Faith",
       "url": "https://open.spotify.com/track/0x0gAc20a4R4d4J9sAov5S"
@@ -31474,7 +31514,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-11",
+      "date_removed": null,
       "duration_ms": 128679,
       "name": "sands of serenity",
       "url": "https://open.spotify.com/track/5KOQIig3ZU2aSzBOCHTagV"
@@ -32242,7 +32282,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 120839,
       "name": "Shade",
       "url": "https://open.spotify.com/track/1KDSYqKNzT5uo6aHDL88vC"
@@ -32554,6 +32594,28 @@
       "duration_ms": 153000,
       "name": "Shoreditch",
       "url": "https://open.spotify.com/track/0CQq9NEFcGNi3FMxpMKwj4"
+    },
+    {
+      "album": {
+        "name": "Shoreline",
+        "url": "https://open.spotify.com/album/1zH0Tc6ZCkplzpgvVOW1k6"
+      },
+      "artists": [
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "Kainbeats",
+          "url": "https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95020,
+      "name": "Shoreline",
+      "url": "https://open.spotify.com/track/4qO9yCFJO5xxVfjOO9ruov"
     },
     {
       "album": {
@@ -33932,7 +33994,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 166736,
       "name": "something in the distance",
       "url": "https://open.spotify.com/track/5Fvh9jmdW7SMEuUzEHhMkJ"

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-434 songs - 23 hr 11 min
+435 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [I Love Paris / J'aime Paris \(feat\. Nikki Yanofsky\)](https://open.spotify.com/track/0zxwDxNMlmQLsqyRCIoCd7) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy), [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [Paris](https://open.spotify.com/album/7iXV74Ij5lEvt6Msi4e12z) | 4:02 | 2024-07-24 |  |
 | [I Loved Him but He Didn't Love Me](https://open.spotify.com/track/070yPZkLaRjTq3cEXcS0wS) | [Tom Andersen](https://open.spotify.com/artist/5d9yqyyepW4VwhVrKN6Jio) | [Chip Deffaa's Gay Love](https://open.spotify.com/album/0JewOhdXw7FGuDoOX0CLt6) | 2:35 | 2024-07-24 |  |
 | [I Never Realised](https://open.spotify.com/track/0Uim7ryGipYBRDibfYEcqW) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Cole Porter In London, Vol\. 1](https://open.spotify.com/album/0DS8IXLdZ7be3Y6mBCEX2U) | 3:37 | 2024-07-24 |  |
-| [I Sing of Love](https://open.spotify.com/track/3TpqKatKYuyiBVfPAkogIG) | [Diane Langton](https://open.spotify.com/artist/0Vxavd9Ml7sPbTkhtfsCIv), [Graham Bickley](https://open.spotify.com/artist/71AtBFFAazgxdHLQWl4Jr0) | [Kiss Me, Kate \(Original 1996 Studio Cast\) \[Complete Recording\]](https://open.spotify.com/album/27N10zfOcKjy7zoGw4SZHB) | 2:23 | 2024-07-24 |  |
+| [I Sing of Love](https://open.spotify.com/track/65xnf9jumN7yup30y26CBt) | [Diane Langton](https://open.spotify.com/artist/0Vxavd9Ml7sPbTkhtfsCIv) | [Kiss Me, Kate!: Complete Recording](https://open.spotify.com/album/09GsPfP3XglDcjqwwEJryu) | 2:23 | 2025-03-19 |  |
+| [I Sing of Love](https://open.spotify.com/track/3TpqKatKYuyiBVfPAkogIG) | [Diane Langton](https://open.spotify.com/artist/0Vxavd9Ml7sPbTkhtfsCIv), [Graham Bickley](https://open.spotify.com/artist/71AtBFFAazgxdHLQWl4Jr0) | [Kiss Me, Kate \(Original 1996 Studio Cast\) \[Complete Recording\]](https://open.spotify.com/album/27N10zfOcKjy7zoGw4SZHB) | 2:23 | 2024-07-24 | 2025-03-20 |
 | [I'm a Gigolo \(2023 Remastered\)](https://open.spotify.com/track/50keLfAcioOZyCdKvRMU6x) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Essential Classics, Vol\. 44: Cole Porter](https://open.spotify.com/album/1EDnnWpTU7c7sKrWxd6z4w) | 2:26 | 2024-07-24 |  |
 | [I'm gettin' myself ready for you](https://open.spotify.com/track/3ks8teAYHndHIccgy0T2PV) | [Blanche Calloway And Her Orchestra](https://open.spotify.com/artist/3CxyR0I8HEgLlqFS7oR3zg), [Blanche Calloway](https://open.spotify.com/artist/4Pb1I6ZTK7XnAfk7bJtvjh) | [Blanche Calloway, The first woman to lead an all male orchestra](https://open.spotify.com/album/4fBJ7BFYPLFmcPYj0F2rRT) | 3:07 | 2024-07-24 |  |
 | [I'm in Love](https://open.spotify.com/track/7KfDFBUpW8QA2etcR0Og8X) | [Junior Kimbrough](https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr) | [Most Things Haven't Worked Out](https://open.spotify.com/album/5kJYRgdltMekWMls3mEBSE) | 8:38 | 2024-07-24 |  |

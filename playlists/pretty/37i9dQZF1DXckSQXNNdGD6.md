@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: MARLENA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,790 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,789 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 8 | [Putón Verbenero](https://open.spotify.com/track/4J1wiCJoD62Wsibu8We17z) | [Pupi Poisson](https://open.spotify.com/artist/2mgr9vzB7VF10t1S5x20yn) | [Verbenera](https://open.spotify.com/album/0yuUDWK1vVKMzT3ttG4BZh) | 3:11 |
 | 9 | [Objetos Perdidos](https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Objetos Perdidos](https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ) | 3:27 |
 | 10 | [MARIKONA](https://open.spotify.com/track/1Xe8qsL1U0EGZj1f7IZpCx) | [MIGUELITA](https://open.spotify.com/artist/5ft3Lm4NT2TwfPbzEmudjN) | [MARIKONA](https://open.spotify.com/album/7bZKRCw0hTKfVtNlnmKc2e) | 2:06 |
-| 11 | [Dramas y comedias](https://open.spotify.com/track/0XxJX5RIwUkX37UIdGZu9C) | [Fangoria](https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4) | [Cuatricromía](https://open.spotify.com/album/18UM58huO9mAZwvKDPhOvw) | 4:03 |
+| 11 | [\(otra\) noche +](https://open.spotify.com/track/09NDXiGFUCpKYx19IS8FMr) | [D.Valentino](https://open.spotify.com/artist/01WzyfcDKX94myMXnGfU4N), [Sneaky wh](https://open.spotify.com/artist/0hUhE5n1TjnCHwNLp2mIKf) | [Ciao!](https://open.spotify.com/album/10yYYzdkRsTboBKxXLd1Ft) | 2:21 |
 | 12 | [Siamesas](https://open.spotify.com/track/3Wnj67XuGQJffnYwCuY03O) | [LUNA KI](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Siamesas](https://open.spotify.com/album/2Hz9awb8O0QkEhPoOvnvb2) | 2:14 |
 | 13 | [Me lo invento](https://open.spotify.com/track/2ZEgEmU37LwtUBmFF8hYxV) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Me lo invento](https://open.spotify.com/album/5OCLobbyMjMBXJ8Iv1ASYj) | 3:15 |
-| 14 | [\(otra\) noche +](https://open.spotify.com/track/09NDXiGFUCpKYx19IS8FMr) | [D.Valentino](https://open.spotify.com/artist/01WzyfcDKX94myMXnGfU4N), [Sneaky wh](https://open.spotify.com/artist/0hUhE5n1TjnCHwNLp2mIKf) | [Ciao!](https://open.spotify.com/album/10yYYzdkRsTboBKxXLd1Ft) | 2:21 |
+| 14 | [Dramas y comedias](https://open.spotify.com/track/0XxJX5RIwUkX37UIdGZu9C) | [Fangoria](https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4) | [Cuatricromía](https://open.spotify.com/album/18UM58huO9mAZwvKDPhOvw) | 4:03 |
 | 15 | [Mujerón](https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [GORGONA](https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD) | 2:50 |
 | 16 | [La Perra de Despeñaperros \(Según Sta\. Francisca\)](https://open.spotify.com/track/2srJ8wZ7AJaPP5Q1p48e0N) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq), [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork) | [La Perra de Despeñaperros \(Según Sta\. Francisca\)](https://open.spotify.com/album/2H1bgQIXX0yLMYXG77cUfq) | 2:57 |
 | 17 | [He sido](https://open.spotify.com/track/4iejnjpuEuh1BDoFNj2h5E) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [He sido](https://open.spotify.com/album/7ePDXhq4qte3UdIJEIhxHh) | 3:19 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 37 | [Fumo Escarcha](https://open.spotify.com/track/7gHvsVdofphSMQsKg47UnX) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Serchito trambotiko](https://open.spotify.com/artist/7yNV6fwF1pigvEZTsEaegm), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [dn.aire](https://open.spotify.com/artist/7D77FeeK61lP9pa0MFLu1J) | [Fumo Escarcha](https://open.spotify.com/album/43qGLfNbqTbP9sWiFGSUEA) | 3:15 |
 | 38 | [Con Altura](https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Dame 10:36 Minutos](https://open.spotify.com/album/66LtYztZIgTOn5XQ9h54HO) | 2:11 |
 | 39 | [ENGATUSAO =^.^=](https://open.spotify.com/track/00MEN35cUoB4rp00iZuiFV) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [ENGATUSAO =^.^=](https://open.spotify.com/album/6VAQrU9cMD2HbLEg6lkw8S) | 2:28 |
-| 40 | [Liturgia](https://open.spotify.com/track/5PLusVGpEDbye2lHYq0cRd) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Liturgia](https://open.spotify.com/album/24yYXtyoh3yVZzGPZkkjvT) | 3:53 |
-| 41 | [tormenta](https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [tormenta](https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc) | 4:16 |
-| 42 | [Cuando acabe el verano](https://open.spotify.com/track/6y4MFrp5vwd4uJAI9e3UQ7) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Cuando acabe el verano](https://open.spotify.com/album/2Y5z8prM08SNZYm8rqhHSW) | 2:47 |
+| 40 | [Cuando acabe el verano](https://open.spotify.com/track/6y4MFrp5vwd4uJAI9e3UQ7) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Cuando acabe el verano](https://open.spotify.com/album/2Y5z8prM08SNZYm8rqhHSW) | 2:47 |
+| 41 | [Liturgia](https://open.spotify.com/track/5PLusVGpEDbye2lHYq0cRd) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Liturgia](https://open.spotify.com/album/24yYXtyoh3yVZzGPZkkjvT) | 3:53 |
+| 42 | [tormenta](https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [tormenta](https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc) | 4:16 |
 | 43 | [La Más Guapa \(feat\. Las Cheerlerdas\)](https://open.spotify.com/track/4ZZDNasBm2sflO2B8VKghu) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [La Más Guapa \(feat\. Las Cheerlerdas\)](https://open.spotify.com/album/6rX2f562RPxYYIC4nXYmvi) | 4:34 |
 | 44 | [Confieso](https://open.spotify.com/track/0CMhIGS8QEIIq92amMvZCe) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Confieso](https://open.spotify.com/album/2ySp1RZ1gkmH1aVIFkR2sU) | 3:00 |
 | 45 | [En el cielo](https://open.spotify.com/track/6MDbBn6KBYLh0uN90wbRJ6) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [En el cielo](https://open.spotify.com/album/7sylEHh3tp4orTqSG2fWaI) | 2:23 |
 | 46 | [De Resaca](https://open.spotify.com/track/3jfECz02GU8Se0YKTDVJYB) | [Martta Sanz](https://open.spotify.com/artist/1CPRjRyTqc1WT3CctaYtuq) | [De Resaca](https://open.spotify.com/album/6Tlbb32M4uk9hTz8iBkFfO) | 2:38 |
 | 47 | [Nunca Llega 05](https://open.spotify.com/track/7jnSPE7jVrhO9nVFUWcslf) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Nunca Llega 05](https://open.spotify.com/album/1I4mCP5FZrrUX2PYRWO07f) | 2:39 |
-| 48 | [Bossa triste](https://open.spotify.com/track/2vzVL693jQA83ZBNYfgpM2) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL), [Sofi Mayen](https://open.spotify.com/artist/17fzKflH2VygyK3LCCN6Cn) | [Bossa triste](https://open.spotify.com/album/4JBX1zUYcGj7Ho1th1KOa4) | 3:30 |
+| 48 | [dos sombras](https://open.spotify.com/track/11qEJrBkjCFHIwhAFJYF6b) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [dos sombras](https://open.spotify.com/album/0OdUtb0AsbynTk3X6MFFZw) | 2:57 |
 | 49 | [Chicos malos](https://open.spotify.com/track/0sWSfIo0G5QwCWJd6uzkdT) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Chicos malos](https://open.spotify.com/album/2jxTKN8yjr8C9EMur5di70) | 3:50 |
-| 50 | [dos sombras](https://open.spotify.com/track/11qEJrBkjCFHIwhAFJYF6b) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [dos sombras](https://open.spotify.com/album/0OdUtb0AsbynTk3X6MFFZw) | 2:57 |
+| 50 | [Bossa triste](https://open.spotify.com/track/2vzVL693jQA83ZBNYfgpM2) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL), [Sofi Mayen](https://open.spotify.com/artist/17fzKflH2VygyK3LCCN6Cn) | [Bossa triste](https://open.spotify.com/album/4JBX1zUYcGj7Ho1th1KOa4) | 3:30 |
 
 Snapshot ID: `Z8eF/wAAAAAi6bJCuydtXRE61LgvRy3Y`

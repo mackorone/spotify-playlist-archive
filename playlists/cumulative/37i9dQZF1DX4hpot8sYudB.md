@@ -4,7 +4,7 @@
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-398 songs - 20 hr 41 min
+399 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [From Water Brown Noise](https://open.spotify.com/track/2NGH2qb97tFuNMtk84mkJp) | [Autonomic Sensations](https://open.spotify.com/artist/3t4f7jfxke1oDZnLoOTwWJ) | [From Water Brown Noise](https://open.spotify.com/album/1PIr8Yzs4o0zmUZnvPeWie) | 2:39 | 2022-01-21 |  |
 | [Full Spectrum Brown Noise](https://open.spotify.com/track/6N5YSUp5wPPQsazAPk01Ua) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Brown Noise](https://open.spotify.com/album/3TZRgfNrwkdPMhgz9CB53G) | 2:45 | 2022-10-26 | 2022-12-17 |
 | [Gentle Brown Noise](https://open.spotify.com/track/7eUnAxzGBkSJQsBXWcteP4) | [LLQ](https://open.spotify.com/artist/13CjCoUFyOddR0P1xCviSc) | [Smooth Brown Noise](https://open.spotify.com/album/35Of2eJpGiFZFd1tVNDTxh) | 2:31 | 2023-10-26 |  |
-| [Gentle Brown Noise Whispers](https://open.spotify.com/track/3lYoIpGgSnF9n7fRrlDcdh) | [Focus Frequency](https://open.spotify.com/artist/7M7Z5YhclUy7AjsdZEN8X4) | [Brown Harmony](https://open.spotify.com/album/5LHE4NmJKeO3Nk5ewTOdkD) | 2:46 | 2023-10-26 |  |
+| [Gentle Brown Noise Whispers](https://open.spotify.com/track/3lYoIpGgSnF9n7fRrlDcdh) | [Focus Frequency](https://open.spotify.com/artist/7M7Z5YhclUy7AjsdZEN8X4) | [Brown Harmony](https://open.spotify.com/album/5LHE4NmJKeO3Nk5ewTOdkD) | 2:46 | 2023-10-26 | 2025-03-20 |
 | [Gentle Fade Brown Noise](https://open.spotify.com/track/52tsiSsIBw7a8sHTEBnO3y) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Brown Noise Hz](https://open.spotify.com/album/5Eh7GZpQT9dfjyMz4NUdvk) | 3:26 | 2022-09-08 |  |
 | [Good Night Brown Noise](https://open.spotify.com/track/2PyV5iL5LG3tKGTL03PeZ6) | [Noise Recordings](https://open.spotify.com/artist/7EpGwOsih4h9r58T2FnGWQ) | [Sleep Fast Brown Noise](https://open.spotify.com/album/01BsRQXpRYSb9hmw2zZvQh) | 2:04 | 2023-01-20 |  |
 | [Grounding Brown Noise](https://open.spotify.com/track/4mDjs2bi2Os6OGboPa1Hnp) | [Plectrasonics](https://open.spotify.com/artist/2dyUwQxoYt3ersIjh4Z77v) | [Brown Noise for Inner Peace](https://open.spotify.com/album/4nty3Q3cN81mOEcSzTfK8e) | 3:01 | 2024-07-26 | 2024-12-12 |
@@ -296,6 +296,7 @@
 | [Lull Noise](https://open.spotify.com/track/7yuqyrGapb2mZkjPwXy3Pw) | [Ecstatix](https://open.spotify.com/artist/4Z2EaSwZpqDleK7b7qYSvx) | [Brown Bliss](https://open.spotify.com/album/6aunZLgFrK8aedHzoxm2Oz) | 3:24 | 2022-01-07 |  |
 | [Lush Brown Noise](https://open.spotify.com/track/789WJxwUk6Pxb4AnqqnJlx) | [A Dreaming Machine](https://open.spotify.com/artist/7rybj6DFBE9HYjDsD4ILuA) | [Lush Brown Noise](https://open.spotify.com/album/59rZF6CVD9k11WPzt8eC5G) | 3:34 | 2022-01-07 |  |
 | [Lush Brown Noise](https://open.spotify.com/track/2uqaVuV72INBHmXKl9UuGK) | [Everywhere Brown Noise](https://open.spotify.com/artist/4r6joVLgbTD7M07z1KIooA) | [Lush Brown Noise](https://open.spotify.com/album/2bhUuuG2Mk3Jhuo5tfb71L) | 2:40 | 2023-10-06 | 2025-03-11 |
+| [Luxe Brown Noise](https://open.spotify.com/track/55PN68Zou0tRu2Flp3NhW4) | [Linus Xio](https://open.spotify.com/artist/41Fdkp5EksVh44WCuZPioL) | [Luxe Brown Noise](https://open.spotify.com/album/3TBnUhL78F9bMAHnEf93QP) | 6:33 | 2025-02-25 |  |
 | [Lynx Brown Noise](https://open.spotify.com/track/52oBEDQA9kqro0zISVZL5H) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Brown Noise](https://open.spotify.com/album/2DHcUsxPBM24pzIKh3weWt) | 2:55 | 2022-01-07 | 2022-12-17 |
 | [Machine Brown Noise](https://open.spotify.com/track/3DEcCBYZ6wvBEIwSWld6LS) | [Construidor](https://open.spotify.com/artist/3kICqEeSkPAyTXjtJ9GryG) | [Machine Brown Noise](https://open.spotify.com/album/0s6i6UdOJqJV1JDLyzqHDy) | 2:26 | 2023-10-26 |  |
 | [Maple Brown Dreams](https://open.spotify.com/track/4Dqn4yeduSMxz0e6LD8uTw) | [Sleepy Parents](https://open.spotify.com/artist/1vMyDLSxieYUS3k7sehkvj) | [Maple Brown Dreams](https://open.spotify.com/album/2IhkDVH8zUf1eyTdeVxZHh) | 5:57 | 2024-07-26 |  |

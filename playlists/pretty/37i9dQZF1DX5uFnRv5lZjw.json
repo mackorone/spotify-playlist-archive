@@ -1,6 +1,6 @@
 {
   "description": "2025: doom scrolling is out, off-grid is in.",
-  "num_followers": 1097,
+  "num_followers": 1233,
   "original_name": "digital detox\u270c\ufe0f",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2025-03-18 10:25:03",
       "album": {
+        "name": "Playful Wind",
+        "url": "https://open.spotify.com/album/6ubQk4XamI1kBK1CqUDiSz"
+      },
+      "artists": [
+        {
+          "name": "Hues of Ruby",
+          "url": "https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW"
+        }
+      ],
+      "duration_ms": 125900,
+      "name": "Playful Wind",
+      "url": "https://open.spotify.com/track/7rOurgjncvw0IFiCJiEI7o"
+    },
+    {
+      "added_at": "2025-03-18 10:25:03",
+      "album": {
         "name": "With Winds Free",
         "url": "https://open.spotify.com/album/1HdDpEpJGTt1MdU7t491Ov"
       },
@@ -459,24 +475,8 @@
     {
       "added_at": "2025-03-18 10:25:03",
       "album": {
-        "name": "Playful Wind",
-        "url": "https://open.spotify.com/album/6ubQk4XamI1kBK1CqUDiSz"
-      },
-      "artists": [
-        {
-          "name": "Hues of Ruby",
-          "url": "https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW"
-        }
-      ],
-      "duration_ms": 125900,
-      "name": "Playful Wind",
-      "url": "https://open.spotify.com/track/7rOurgjncvw0IFiCJiEI7o"
-    },
-    {
-      "added_at": "2025-03-18 10:25:03",
-      "album": {
-        "name": "Copper Corners",
-        "url": "https://open.spotify.com/album/1ex8osQco2SsMVEvJBrwEA"
+        "name": "Hiver",
+        "url": "https://open.spotify.com/album/1wKl4ZvsF3qx5EVq9hKgy4"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ"
         }
       ],
-      "duration_ms": 144907,
-      "name": "Copper Corners",
-      "url": "https://open.spotify.com/track/2ZOHuRyNd05kKlsZVKPnuD"
+      "duration_ms": 149931,
+      "name": "Hiver",
+      "url": "https://open.spotify.com/track/3X7jAbQljjes5YZPV1TAUP"
     },
     {
       "added_at": "2025-03-18 10:25:03",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-03-18 10:25:03",
       "album": {
-        "name": "Talk to Them",
-        "url": "https://open.spotify.com/album/2KuOjVGZuTGKh260hLfX3T"
-      },
-      "artists": [
-        {
-          "name": "Antoine Di Luzio",
-          "url": "https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv"
-        }
-      ],
-      "duration_ms": 144555,
-      "name": "Talk to Them",
-      "url": "https://open.spotify.com/track/3oGWkoSBS9wpmf48OlI54i"
-    },
-    {
-      "added_at": "2025-03-18 10:25:03",
-      "album": {
         "name": "Skyline Sonnet",
         "url": "https://open.spotify.com/album/0pLZ2ao9Gg7nKiIWewdlVh"
       },
@@ -619,8 +603,24 @@
     {
       "added_at": "2025-03-18 10:25:03",
       "album": {
-        "name": "Hiver",
-        "url": "https://open.spotify.com/album/1wKl4ZvsF3qx5EVq9hKgy4"
+        "name": "Far Apart",
+        "url": "https://open.spotify.com/album/0qhruBrhX5rEM8dyCXOK0X"
+      },
+      "artists": [
+        {
+          "name": "Herbe Matin",
+          "url": "https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv"
+        }
+      ],
+      "duration_ms": 124116,
+      "name": "Far Apart",
+      "url": "https://open.spotify.com/track/0fRhQua0hDniGl8Ya6FObR"
+    },
+    {
+      "added_at": "2025-03-18 10:25:03",
+      "album": {
+        "name": "Copper Corners",
+        "url": "https://open.spotify.com/album/1ex8osQco2SsMVEvJBrwEA"
       },
       "artists": [
         {
@@ -628,9 +628,41 @@
           "url": "https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ"
         }
       ],
-      "duration_ms": 149931,
-      "name": "Hiver",
-      "url": "https://open.spotify.com/track/3X7jAbQljjes5YZPV1TAUP"
+      "duration_ms": 144907,
+      "name": "Copper Corners",
+      "url": "https://open.spotify.com/track/2ZOHuRyNd05kKlsZVKPnuD"
+    },
+    {
+      "added_at": "2025-03-18 10:25:03",
+      "album": {
+        "name": "Talk to Them",
+        "url": "https://open.spotify.com/album/2KuOjVGZuTGKh260hLfX3T"
+      },
+      "artists": [
+        {
+          "name": "Antoine Di Luzio",
+          "url": "https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv"
+        }
+      ],
+      "duration_ms": 144555,
+      "name": "Talk to Them",
+      "url": "https://open.spotify.com/track/3oGWkoSBS9wpmf48OlI54i"
+    },
+    {
+      "added_at": "2025-03-18 10:25:03",
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/1R8czr85JJr1ouJ4KI3BPS"
+      },
+      "artists": [
+        {
+          "name": "Ziva",
+          "url": "https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S"
+        }
+      ],
+      "duration_ms": 121302,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/3d5Mi2IFJ9J4MSWwUFvyEl"
     },
     {
       "added_at": "2025-03-18 10:25:03",
@@ -651,22 +683,6 @@
     {
       "added_at": "2025-03-18 10:25:03",
       "album": {
-        "name": "Far Apart",
-        "url": "https://open.spotify.com/album/0qhruBrhX5rEM8dyCXOK0X"
-      },
-      "artists": [
-        {
-          "name": "Herbe Matin",
-          "url": "https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv"
-        }
-      ],
-      "duration_ms": 124116,
-      "name": "Far Apart",
-      "url": "https://open.spotify.com/track/0fRhQua0hDniGl8Ya6FObR"
-    },
-    {
-      "added_at": "2025-03-18 10:25:03",
-      "album": {
         "name": "Padua",
         "url": "https://open.spotify.com/album/6zYcA2On0fSISK9SH4dAFX"
       },
@@ -683,18 +699,18 @@
     {
       "added_at": "2025-03-18 10:25:03",
       "album": {
-        "name": "Follow",
-        "url": "https://open.spotify.com/album/1R8czr85JJr1ouJ4KI3BPS"
+        "name": "Falling Softly",
+        "url": "https://open.spotify.com/album/1sdwS0IyPGfEpjkMdgpc4T"
       },
       "artists": [
         {
-          "name": "Ziva",
-          "url": "https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S"
+          "name": "Gustav Potter",
+          "url": "https://open.spotify.com/artist/26s4OPUnJXERdx6o2KGIL6"
         }
       ],
-      "duration_ms": 121302,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/3d5Mi2IFJ9J4MSWwUFvyEl"
+      "duration_ms": 139591,
+      "name": "Falling Softly",
+      "url": "https://open.spotify.com/track/74KTeVGUFWJfVw3e7k0W0s"
     },
     {
       "added_at": "2025-03-18 10:25:03",
@@ -727,22 +743,6 @@
       "duration_ms": 143835,
       "name": "Sole In Viso",
       "url": "https://open.spotify.com/track/46o8PS9zl4HryzFZEVgtwm"
-    },
-    {
-      "added_at": "2025-03-18 10:25:03",
-      "album": {
-        "name": "Falling Softly",
-        "url": "https://open.spotify.com/album/1sdwS0IyPGfEpjkMdgpc4T"
-      },
-      "artists": [
-        {
-          "name": "Gustav Potter",
-          "url": "https://open.spotify.com/artist/26s4OPUnJXERdx6o2KGIL6"
-        }
-      ],
-      "duration_ms": 139591,
-      "name": "Falling Softly",
-      "url": "https://open.spotify.com/track/74KTeVGUFWJfVw3e7k0W0s"
     },
     {
       "added_at": "2025-03-18 10:25:03",

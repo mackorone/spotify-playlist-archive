@@ -327,6 +327,28 @@
     },
     {
       "album": {
+        "name": "Gil Baiana ao Vivo em Salvador (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2HOtF9wjRgFuKefeTJkG4O"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        },
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310596,
+      "name": "Emori\u00f4 / Dia da Ca\u00e7a (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0IwdotkOJ2m9jkJiy8Rzox"
+    },
+    {
+      "album": {
         "name": "Gera\u00e7\u00e3o Pop",
         "url": "https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU"
       },
@@ -1344,7 +1366,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 212160,
       "name": "Taxi Lunar",
       "url": "https://open.spotify.com/track/1WT480kAYr5E5FpwtAtm6a"

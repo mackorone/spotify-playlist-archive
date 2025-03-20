@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-334 songs - 18 hr 49 min
+335 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Free Giveaway](https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Free Giveaway](https://open.spotify.com/album/0FwnweLabHiRQG1qYenKjY) | 3:31 | 2022-12-26 | 2024-07-03 |
 | [Friendzone \(feat\. BIG Naughty\)](https://open.spotify.com/track/2rX3swM25DhNwg7mTjnzbG) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Friendzone](https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q) | 3:42 | 2022-07-22 | 2024-06-22 |
 | [Furusato](https://open.spotify.com/track/4zXhKgFP2JGm4c1CW0sxJ3) | [JazzyCal](https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd) | [Forgotten Warrior](https://open.spotify.com/album/4FTgevo0wbSAh8IID9N8PE) | 2:14 | 2024-07-02 | 2024-10-24 |
-| [Future's Beyond](https://open.spotify.com/track/5fma20q3kzd2W8Z7FIX5gR) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [The Spirit Within](https://open.spotify.com/album/2WRZe6iJDSjOapah1f2oG4) | 2:52 | 2024-07-02 |  |
+| [Future's Beyond](https://open.spotify.com/track/5fma20q3kzd2W8Z7FIX5gR) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [The Spirit Within](https://open.spotify.com/album/2WRZe6iJDSjOapah1f2oG4) | 2:52 | 2024-07-02 | 2025-03-20 |
 | [Fuzzy peach](https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Fuzzy peach](https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx) | 4:11 | 2022-05-03 | 2024-07-03 |
 | [Garden](https://open.spotify.com/track/0odZSHqoof9UZWUrZqg3L0) | [Jackingcong 잭킹콩](https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl) | [At My Peaceful Garden](https://open.spotify.com/album/7ACB9MzjQBsmhvuXa0FZRe) | 3:22 | 2022-05-03 | 2022-07-15 |
 | [Gardens of Suzhou](https://open.spotify.com/track/76RjpMjFxsvHOTA5Qj3D5C) | [ProdbyTobi](https://open.spotify.com/artist/4854MRSY0HY6k9i0qGQuw5) | [Gardens of Suzhou](https://open.spotify.com/album/5629ZkcYKMHYkKLxoiz80x) | 2:01 | 2024-07-02 |  |
@@ -187,6 +187,7 @@
 | [My Universe \(Seungmin, I.N Feat\. Changbin\)](https://open.spotify.com/track/4wMKQGoS7TwkGMvPk9lcHG) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 3:23 | 2022-05-03 | 2022-07-29 |
 | [My Universe \(Seungmin, I.N\)](https://open.spotify.com/track/4a2TlUwtrzLwjcHe1vPvj9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Changbin](https://open.spotify.com/artist/5OTVNUu0UHn6ddPyEAi419) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:23 | 2022-07-22 | 2022-09-09 |
 | [Naevys](https://open.spotify.com/track/2MbQ2PuPkCiESkmFc0VGPZ) | [Chau Sara](https://open.spotify.com/artist/4VjWi8luQOkJ3hLEW7UMhl) | [Lightsaber Bar](https://open.spotify.com/album/2yPvrBHrqMxbd5U3nrC5WL) | 2:14 | 2024-07-02 | 2025-02-07 |
+| [Nama](https://open.spotify.com/track/5uvMZMApFm7G5pVueAmXhu) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Nama](https://open.spotify.com/album/2gaz2Ko1IGrk8LfQxAgSBX) | 2:41 | 2024-07-02 |  |
 | [Nap Time in Shibuya](https://open.spotify.com/track/2kR6OrgdSFOD6nNqZxenE2) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Kitsune To Take](https://open.spotify.com/album/6iZ92G0C1TY8F3nQIy4ZNf) | 3:04 | 2024-07-02 |  |
 | [Narrow Road](https://open.spotify.com/track/5yd8kwPtXxkKpqN9PSR1Eu) | [Tosso](https://open.spotify.com/artist/0pYbYmiGEC2nEe02Npg4bp), [Yotsugi](https://open.spotify.com/artist/3nHodZxQw99Ewvb9v9x48u) | [Narrow Road](https://open.spotify.com/album/4UNTRdYFqVCz2veOtIhALs) | 2:16 | 2024-07-02 | 2024-08-21 |
 | [Natsumi](https://open.spotify.com/track/2qjyjsCWMqcbjrh7FPr56m) | [JazzyCal](https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd) | [Natsumi](https://open.spotify.com/album/6a1umpLyPbF6iWNl2WUS0V) | 3:05 | 2024-07-02 | 2024-07-14 |

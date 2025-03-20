@@ -2,9 +2,9 @@
 
 ### [Renaissance Classics](https://open.spotify.com/playlist/37i9dQZF1DX0CM2xT3aAkN)
 
-> Choral and instrumental classical music from the Renaissance era.
+> Relaxing choral and instrumental classical music from the Renaissance era.
 
-113 songs - 8 hr 20 min
+114 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Recercare](https://open.spotify.com/track/1MXE1uNdZ2TLQGwUcSKPR7) | [Francesco Spinacino](https://open.spotify.com/artist/2RFTpR1OggyhKhPAhCs1ih), [Robert Meunier](https://open.spotify.com/artist/7J9NDzCbObDXUGri1irrZD) | [Vergine Bella \- Italian Renaissance Music](https://open.spotify.com/album/4WqFd1iJGzdEzRqYpqgIJv) | 2:09 | 2022-12-14 |  |
 | [Recercare \(I\)](https://open.spotify.com/track/5cjn8s41QfgUEFD8AX0eCo) | [Francesco Spinacino](https://open.spotify.com/artist/2RFTpR1OggyhKhPAhCs1ih), [Robert Meunier](https://open.spotify.com/artist/7J9NDzCbObDXUGri1irrZD) | [Vergine bella \- Italian Renaissance Music](https://open.spotify.com/album/2YYhgviaGsRpygnqokPWjL) | 2:09 | 2023-01-03 | 2024-04-19 |
 | [Regina caeli](https://open.spotify.com/track/5MMb7xNiVNilblN9lZR9rB) | [Vicente Lusitano](https://open.spotify.com/artist/1WKUA32fAzqZQaF39XYbti), [The Marian Consort](https://open.spotify.com/artist/1v3KqqR4fh3Gs6GlEh1joT) | [Vicente Lusitano: Motets](https://open.spotify.com/album/3yFrv2tvI5nVP8pUEkdCmv) | 4:11 | 2022-09-23 | 2025-02-01 |
+| [Regina caeli laetare](https://open.spotify.com/track/7puFe7KqwMeE5gM9tv5VBZ) | [Francisco Guerrero](https://open.spotify.com/artist/08Zj51hTSWpmC9a5WMjqcc), [RIAS Kammerchor](https://open.spotify.com/artist/2UVXU77knJMYOM6Avvw6Yx), [Justin Doyle](https://open.spotify.com/artist/4VPMDJE3CTPpPDAvCtriKE) | [Regina caeli laetare](https://open.spotify.com/album/0Uh7Nxt9sSWeb6vLBREJ3k) | 3:49 | 2025-03-19 |  |
 | [Requiem: Agnus Dei](https://open.spotify.com/track/5qkjCLTQqvZhiiaj7S68Ht) | [Pierre de la Rue](https://open.spotify.com/artist/1vGyX3JUgCfVuPDOqlUA6m), [Dominique Visse](https://open.spotify.com/artist/0DLxgGEXi05HKnCZaQin61), [Ensemble Clément Janequin](https://open.spotify.com/artist/3nnwiLcxKNA53Gs8GvPxv6) | [Pierre de la Rue: Missa "L'Homme armé", Requiem](https://open.spotify.com/album/671XvAIqX82tGvKfgrZEDx) | 3:03 | 2016-02-21 | 2022-07-19 |
 | [Requiem: Kyrie](https://open.spotify.com/track/0ccnwSwBtYMgiszKl9GaIT) | [Johannes Ockeghem](https://open.spotify.com/artist/5bk4CYx5KyU34CeJmoJEaO), [Musica Ficta](https://open.spotify.com/artist/5WKv8DLIGTPZP1QRaY6Uau), [Bo Holten](https://open.spotify.com/artist/4f32MH6GiPxxIsYeDl16kL) | [Ockeghem: Requiem / Missa Prolationum](https://open.spotify.com/album/5NWHSSarpJNIQResWG7FMn) | 4:33 | 2022-07-18 |  |
 | [Responsories for Maundy Thursday Nocturn 2: I\. Amicus meus osculi me tradidit signa](https://open.spotify.com/track/3odchAeVZWKxPNHwd9jt0e) | [Tomás Luis de Victoria](https://open.spotify.com/artist/6kxOoWR3e76CmJsX9WIu4d), [Tenebrae](https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD), [Nigel Short](https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN) | [Tomás Luis De Victoria: Tenebrae Responsories](https://open.spotify.com/album/1vbMrUZG6eRa5F63qcIVQG) | 3:00 | 2016-02-21 |  |

@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Maciej Skiba
 
-385 songs - 18 hr 33 min
+386 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,7 +309,7 @@
 | [Spójrz](https://open.spotify.com/track/1VmwW7Vd0MJ6oWZcHX0KLI) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7) | [Spójrz](https://open.spotify.com/album/1piehJNAANHslFDChsBrCo) | 4:40 | 2025-01-23 |  |
 | [Stacja Hel](https://open.spotify.com/track/6n6ME7vJzu3C3QpmGzahTA) | [Stan Zapalny](https://open.spotify.com/artist/15BJ0ipMSdHELUOqJZ7Xmr) | [Stacja Hel](https://open.spotify.com/album/2a91tP89paQQeBNtvrgZb3) | 2:34 | 2024-11-21 | 2025-01-24 |
 | [start all over](https://open.spotify.com/track/6zTuzIwC6fLeDm35FFMJVv) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [start all over](https://open.spotify.com/album/6E3NYKusAj1XttDsSGQ5dW) | 3:25 | 2025-01-23 | 2025-02-07 |
-| [Stokrotka](https://open.spotify.com/track/4ANNjvHaj9mqFAMzKM74ax) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Stokrotka](https://open.spotify.com/album/0ld4GUV99xMkpYUlS2JaEm) | 1:55 | 2025-01-30 |  |
+| [Stokrotka](https://open.spotify.com/track/4ANNjvHaj9mqFAMzKM74ax) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Stokrotka](https://open.spotify.com/album/0ld4GUV99xMkpYUlS2JaEm) | 1:55 | 2025-01-30 | 2025-03-20 |
 | [STOP!!](https://open.spotify.com/track/4EdYQ5Sn0lBtvAylTtuOgg) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [STOP!!](https://open.spotify.com/album/3rgJOTByI5gTZIPnAEY9RP) | 2:34 | 2024-06-28 | 2024-09-14 |
 | [STOP!!](https://open.spotify.com/track/4HtvzBMWNsQqnhpF0UwZhk) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Limbo](https://open.spotify.com/album/768x5fGCIUxHHKQJK4yUaE) | 2:34 | 2025-01-23 | 2025-03-02 |
 | [Syriusz Black](https://open.spotify.com/track/40H7zSUClxjh5Wz3IXiy8J) | [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [Syriusz Black](https://open.spotify.com/album/6XSYlXmWtXDhuDzNYB0JfF) | 2:58 | 2024-07-11 | 2024-09-28 |
@@ -351,6 +351,7 @@
 | [VIBE](https://open.spotify.com/track/2t613OFX9O1VTcCJmFjMUN) | [Olivka Majewska](https://open.spotify.com/artist/69A8NLYP1sAI6MrBALFUSn), [Jakub Laszuk](https://open.spotify.com/artist/6UATsPpXnCc5h12How5xvQ) | [VIBE](https://open.spotify.com/album/7oMDu4vRQOfWhru1Xrsk1P) | 2:20 | 2024-08-30 | 2024-11-22 |
 | [w co ty dziś grasz?](https://open.spotify.com/track/0DotJtk7REWwFsZSTCTlw7) | [Alicja](https://open.spotify.com/artist/1QDigvoDqzcojpLCK6soAb), [Hodak](https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU) | [w co ty dziś grasz?](https://open.spotify.com/album/0PVYr7Fh8V6IKXug2EUGQr) | 3:36 | 2024-06-28 | 2024-07-27 |
 | [W moim śnie](https://open.spotify.com/track/4KbU2jeBjeQOsG8T0apLgK) | [Blu](https://open.spotify.com/artist/5iRHlWVQoS8kPIlZEBwA8K) | [W moim śnie](https://open.spotify.com/album/1cboBq4Gu3OhwHsr48YVHe) | 2:43 | 2024-06-28 | 2024-08-23 |
+| [Warszawa](https://open.spotify.com/track/0gHk4v0XswI91vsbb1mxCi) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Warszawa](https://open.spotify.com/album/0LPGGwbEOOduaKXN1doceo) | 3:54 | 2025-03-13 |  |
 | [WAS DWÓCH](https://open.spotify.com/track/0zuwMlHupJCxyIc7GqcEoz) | [Cyrko](https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL) | [WAS DWÓCH](https://open.spotify.com/album/354i4GYCmnLbw96NtrbUV9) | 2:49 | 2025-01-23 |  |
 | [We Hug Now](https://open.spotify.com/track/1In22zMILdinxdZng26irr) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [We Hug Now](https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg) | 4:08 | 2025-03-06 |  |
 | [we śnie](https://open.spotify.com/track/23p5CCaQ69gh6H3CsOTC1G) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [we śnie](https://open.spotify.com/album/47Cl5ELzaG6LEBuLzASKbi) | 2:48 | 2025-03-13 |  |

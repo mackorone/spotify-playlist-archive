@@ -1,6 +1,6 @@
 {
   "description": "Flaket kommer studsa!",
-  "num_followers": 357780,
+  "num_followers": 357767,
   "original_name": "Studentfest!",
   "owner": {
     "name": "Spotify",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Alcohol",
+        "url": "https://open.spotify.com/album/6BhvNYJ2HaxIDrVIYyWKnn"
+      },
+      "artists": [
+        {
+          "name": "Flamingoz",
+          "url": "https://open.spotify.com/artist/4hwEhYAJJmsXyRkuhzQ0IL"
+        }
+      ],
+      "duration_ms": 165029,
+      "name": "Alcohol",
+      "url": "https://open.spotify.com/track/1iUXBxsHTHuByOXz2AX7ZK"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Om du var min",
         "url": "https://open.spotify.com/album/5iaCqxVddsqcWvonadClWp"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 158896,
       "name": "Om du var min",
       "url": "https://open.spotify.com/track/520OGfBzjjGqVLO52KPvvC"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Alcohol",
-        "url": "https://open.spotify.com/album/6BhvNYJ2HaxIDrVIYyWKnn"
-      },
-      "artists": [
-        {
-          "name": "Flamingoz",
-          "url": "https://open.spotify.com/artist/4hwEhYAJJmsXyRkuhzQ0IL"
-        }
-      ],
-      "duration_ms": 165029,
-      "name": "Alcohol",
-      "url": "https://open.spotify.com/track/1iUXBxsHTHuByOXz2AX7ZK"
     },
     {
       "added_at": "2024-06-13 22:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Jombriel, DFZM
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,652 likes - 134 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,694 likes - 134 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

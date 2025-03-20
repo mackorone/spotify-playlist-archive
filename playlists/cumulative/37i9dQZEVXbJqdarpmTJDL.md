@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,988 songs - 4 day 8 hr 56 min
+1,989 songs - 4 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -912,6 +912,7 @@
 | [KAWASAKI](https://open.spotify.com/track/3ZRTCDymX667i3At0oQW7o) | [FANN](https://open.spotify.com/artist/6IDb1Sr6WglBeOZoqRT269), [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Greco Beats](https://open.spotify.com/artist/7x4X4E8agWghoTDdHrUfLV) | [Fantastic Fann II](https://open.spotify.com/album/1rqwfXLTGj3x32gL5iuYiQ) | 3:00 | 2022-06-25 | 2022-07-03 |
 | [Kawasaki](https://open.spotify.com/track/7yaE4SXqz6tIOreo5sO6yU) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Jaypee](https://open.spotify.com/artist/1zHyfn1TTwcc2sebIchkMk), [Skive](https://open.spotify.com/artist/1zDXh0x75B4zPVsAHDuTnO) | [Money and Drugs Can't Live In Poverty](https://open.spotify.com/album/4Q0nPhizN3vwTyzlvskQkC) | 3:38 | 2022-04-29 | 2022-05-15 |
 | [Ke Ti Den Tha Dina](https://open.spotify.com/track/63BVcYK5badAGfZoUJarvK) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [Ke Ti Den Tha Dina](https://open.spotify.com/album/7fycmjm7HIc2ogDfX1aTx0) | 3:08 | 2024-08-30 | 2024-09-29 |
+| [KENTRO](https://open.spotify.com/track/1kZ2FL3WV1mAulSSrtpStg) | [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a) | [KENTRO](https://open.spotify.com/album/2gMwgBh1Sw73mOataTZWfC) | 2:08 | 2025-03-19 |  |
 | [KESH](https://open.spotify.com/track/0XifeTMPcqOp43c5xVe9c1) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX), [Hatemost](https://open.spotify.com/artist/39MSMcTSVkk9Wy5X1Dozwp) | [KESH](https://open.spotify.com/album/4lWhGprAjWDZeB9nkNQv86) | 4:49 | 2021-08-15 | 2021-08-16 |
 | [KHFISOS](https://open.spotify.com/track/6m9mAgw4rMkGUkHuSAFdDB) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [KHFISOS](https://open.spotify.com/album/2tldLLaOIfgj8wiUZLAKgV) | 3:17 | 2021-03-27\* | 2021-05-21 |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2023-01-05 | 2023-02-28 |
@@ -1621,7 +1622,7 @@
 | [SIRENS](https://open.spotify.com/track/7LSpFCvRZZot2AlmkUzy9k) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:24 | 2023-07-29 | 2023-07-31 |
 | [Skg Mecca](https://open.spotify.com/track/7ATsnLPMXYHU1dK9WSuNP6) | [Sadam](https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq), [Tsaki](https://open.spotify.com/artist/2S6IpjPbMmKLJMhUJCIFMB), [Ortiz](https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR), [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX) | [Golgothas](https://open.spotify.com/album/56uWf4qkg5xwdUqm6ZNIX0) | 2:31 | 2024-01-13 | 2024-01-22 |
 | [SKITZO](https://open.spotify.com/track/0bkV1iQHSxBaksUqgEkcbc) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 6:06 | 2023-07-29 | 2023-07-31 |
-| [Skoni](https://open.spotify.com/track/6YfzfBiC4dpF5yv63QcLCY) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG) | [Beverly Hills](https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW) | 2:03 | 2022-05-27 |  |
+| [Skoni](https://open.spotify.com/track/6YfzfBiC4dpF5yv63QcLCY) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG) | [Beverly Hills](https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW) | 2:03 | 2022-05-27 | 2025-03-20 |
 | [Skoni & Kapnos](https://open.spotify.com/track/3Tm8kDi9atOtwMZRwr2807) | [Lobo](https://open.spotify.com/artist/2bI0N9ztQb3L6e9DIMdMuC), [Giorgos Orfanidis](https://open.spotify.com/artist/6V6g5uJVLdrOUO9LLqMawh) | [Skoni & Kapnos](https://open.spotify.com/album/3YJcJQBNOUR2AFRViqNbnP) | 2:54 | 2023-09-19 | 2023-10-01 |
 | [Sky Is The Limit](https://open.spotify.com/track/7KOPaI1FFvP3AClMxXNLIs) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q) | [Psixi](https://open.spotify.com/album/3HtrMyrM7HfCicKZPUmSeU) | 2:49 | 2022-02-23 | 2022-02-27 |
 | [SKYWALKER](https://open.spotify.com/track/2RyMXtihyPhSl3WWdAZvJc) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl) | [VERY RARE](https://open.spotify.com/album/5DOZblhavobX4qd3Q7ollG) | 2:50 | 2025-02-08 | 2025-02-15 |

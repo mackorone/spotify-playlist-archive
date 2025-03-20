@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Everything Is Recorded
 
-237 songs - 15 hr 9 min
+238 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,10 +46,10 @@
 | [Breathe Round Corners](https://open.spotify.com/track/4tuiYDefusmJ4W8u5qkAZM) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Eye To The Ear](https://open.spotify.com/album/55lbT7xxjAaY8nsHv9iuxd) | 3:28 | 2024-06-14 | 2024-11-16 |
 | [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 | 2024-08-14 |  |
 | [Brown Paper Bag](https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Brown Paper Bag](https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY) | 4:25 | 2024-06-14 | 2024-11-16 |
-| [Brushstrokes of Reunion](https://open.spotify.com/track/6MRB2Geu2buc27CQqOPXgl) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Brushstrokes of Reunion](https://open.spotify.com/album/4NeZQyRKjKIsrYxqEsblPC) | 3:35 | 2025-01-31 |  |
+| [Brushstrokes of Reunion](https://open.spotify.com/track/6MRB2Geu2buc27CQqOPXgl) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Brushstrokes of Reunion](https://open.spotify.com/album/4NeZQyRKjKIsrYxqEsblPC) | 3:35 | 2025-01-31 | 2025-03-20 |
 | [Bus](https://open.spotify.com/track/0PapPJvQmfN96mB69yN9la) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [Bus](https://open.spotify.com/album/6FK77NipcZYmaVIsSep1cU) | 3:23 | 2024-06-14 | 2025-01-17 |
 | [But I'll Keep Trying](https://open.spotify.com/track/5WRTFJtlDo2xjHF8LpEpGo) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [But I'll Keep Trying](https://open.spotify.com/album/3VLwV4o2WGARLpANnoPe57) | 3:11 | 2025-01-31 |  |
-| [Call It Love \- Edit](https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Call It Love](https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9) | 3:02 | 2024-07-11 |  |
+| [Call It Love \- Edit](https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Call It Love](https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9) | 3:02 | 2024-07-11 | 2025-03-20 |
 | [Can't](https://open.spotify.com/track/42RzJ3eJARwTlUVVYdZQ10) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [My Back Was A Bridge For You To Cross](https://open.spotify.com/album/4g6x7cqgxfkuqA8lfvIKMf) | 4:40 | 2024-06-14 | 2024-08-13 |
 | [Can't Pretend To Know](https://open.spotify.com/track/4blFV4d1eU814W3w9Ohyv3) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Can't Pretend To Know](https://open.spotify.com/album/4bAP2pRy474uL5jDRi6jOx) | 2:41 | 2024-11-15 | 2025-02-02 |
 | [Champagne Taste](https://open.spotify.com/track/7gR5CpDbUBfOs75WDcGZof) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Champagne Taste](https://open.spotify.com/album/1vhvjKCn21JSqJnh03lFf2) | 3:12 | 2025-01-31 |  |
@@ -98,6 +98,7 @@
 | [Frogs](https://open.spotify.com/track/39irRnySrRADgui9AVTqdx) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Frogs](https://open.spotify.com/album/7vANyFbcIVAprU6bilb72I) | 4:34 | 2024-06-14 | 2025-01-31 |
 | [Frozen](https://open.spotify.com/track/6XIB0sa7tJkqnYWYT3dLZi) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Whiplash](https://open.spotify.com/album/1iRSudnWjT9qWRU3v0k6ah) | 4:14 | 2024-10-17 |  |
 | [Fugue \(Bin Song\)](https://open.spotify.com/track/3SLy3jHtaGsaGqpGaqtYGc) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Fugue \(Bin Song\)](https://open.spotify.com/album/5jQUB8BUJk3LdtLt626xyL) | 5:22 | 2024-06-14 | 2024-08-15 |
+| [Garden](https://open.spotify.com/track/5cICW30wJh0GNydrFw4v7d) | [Maria Somerville](https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd) | [Garden](https://open.spotify.com/album/6AuJCBu9x0QF69P9Y8Zdfj) | 4:03 | 2025-02-28 |  |
 | [Gears](https://open.spotify.com/track/6n9oYc4iYuBJf95UFNY4Ky) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Gears](https://open.spotify.com/album/0lK9saFbfDfxZHQVuImkLQ) | 2:35 | 2024-06-14 | 2024-11-16 |
 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 | 2024-06-14 |  |
 | [Give It Up For Love](https://open.spotify.com/track/2L5fTA7BBgL70AjMYq0sfI) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/5NkbIgGVPVGDuR5PaJNGMF) | 2:55 | 2024-06-14 | 2024-11-16 |
@@ -181,7 +182,7 @@
 | [Renegade](https://open.spotify.com/track/6XMHSmYxPPSu5dEIYT2iiB) | [Doves](https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY) | [Renegade](https://open.spotify.com/album/0lzllJKffqeHBrlhg79BMw) | 5:11 | 2024-11-15 | 2025-03-18 |
 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 | 2024-11-15 |  |
 | [Rumble Strip](https://open.spotify.com/track/1FSS2KFXMpXYmfWga8gDxZ) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Rumble Strip](https://open.spotify.com/album/0DCZGmIVHuc7p33ECSayvf) | 3:00 | 2024-06-14 | 2024-11-20 |
-| [Running](https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Running](https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL) | 5:17 | 2024-06-14 | 2025-03-03 |
+| [Running](https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Running](https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL) | 5:17 | 2024-06-14 |  |
 | [Rushmere](https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Rushmere](https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ) | 3:12 | 2025-01-17 |  |
 | [Sad Eyes](https://open.spotify.com/track/5Fdomh8NNsUWjWjrdaZPgi) | [Tempesst](https://open.spotify.com/artist/6yYoIxAvtAgGPSSring5SB) | [Sad Eyes](https://open.spotify.com/album/3S86147AAV0UuOvWTM4sl0) | 4:08 | 2024-07-11 | 2024-10-04 |
 | [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 | 2024-06-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: MC Rogerinho, WIU
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,060 likes - 88 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,059 likes - 88 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 81 | [Expectativas](https://open.spotify.com/track/3dDqGWjV8yTrGD2TvLFLTV) | [Galgo de Suéter](https://open.spotify.com/artist/4L0Md59GS5f4RIiu4JiDun), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu) | [Expectativas](https://open.spotify.com/album/5NDxzeuOI9uKltLLfL0usH) | 2:54 |
 | 82 | [Como Antes](https://open.spotify.com/track/5Evay74BWLRufqNOUKaLHj) | [Explode Nova Era](https://open.spotify.com/artist/3FfFShdeE7YqrfMH2Cls2H), [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco) | [Como Antes](https://open.spotify.com/album/1RAGLzQmjoSCPatYCiXRk6) | 1:54 |
 | 83 | [Set do Portugal 1.0](https://open.spotify.com/track/6wMjgbv9vkGtkl5q4b79sk) | [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ) | [Set do Portugal 1.0](https://open.spotify.com/album/2gUWcHleEnzpoXsh4g3tCB) | 7:21 |
-| 84 | [1 Carro Por Mês](https://open.spotify.com/track/5blbXhDaRRuepTvD5WNTTD) | [Tillmann](https://open.spotify.com/artist/3gFGovnOcDSHHnwqux7yQb), [Doode](https://open.spotify.com/artist/3Ns5FA1ANQOzsHLWspsrC6) | [PRODÍGIO](https://open.spotify.com/album/2nOhblCsrKSO9ImIQn1Zsa) | 3:13 |
+| 84 | [1 Carro Por Mês](https://open.spotify.com/track/5blbXhDaRRuepTvD5WNTTD) | [Tillmann](https://open.spotify.com/artist/4ozkb2MvrszWeLI6moQi8h), [Doode](https://open.spotify.com/artist/3Ns5FA1ANQOzsHLWspsrC6) | [PRODÍGIO](https://open.spotify.com/album/2nOhblCsrKSO9ImIQn1Zsa) | 3:13 |
 | 85 | [ESPANHA](https://open.spotify.com/track/4tEpblUf8pxF8v0BI5lXfO) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [DH](https://open.spotify.com/artist/5aDGIEuKdKB7k4XvilmVCe) | [ESPANHA](https://open.spotify.com/album/01X4fEJzQTGupReTLcRsqV) | 3:30 |
 | 86 | [Olha o Caminhar Dessa Baby](https://open.spotify.com/track/28F7tvLqclumwCquFkfkJY) | [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [DAN](https://open.spotify.com/artist/5YDuFVeeXVIODmTP8XYddY), [TR3VAS](https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO) | [Olha o Caminhar Dessa Baby](https://open.spotify.com/album/5LA0iekyOlbDIpgQsF9m0N) | 2:46 |
 | 87 | [Prazo De Validade](https://open.spotify.com/track/6tQVvcmfUvtxxg4FmQTpv9) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Prazo De Validade](https://open.spotify.com/album/79X2Zz8FuvzjIHzKTfSxcA) | 5:42 |

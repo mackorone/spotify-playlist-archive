@@ -4,7 +4,7 @@
 
 > The home of Australian music\. Cover: Royel Otis
 
-205 songs - 11 hr 26 min
+207 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,13 +28,14 @@
 | [Beginner](https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light Sides](https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn) | 4:03 | 2024-09-12 |  |
 | [Believe \(triple j Like A Version\) \- Cover Version](https://open.spotify.com/track/6akrLfeUZ4WZoQ7SSnOONX) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Believe \(triple j Like A Version\) \[Cover Version\]](https://open.spotify.com/album/2Bkvrso3DXJIehFYYYQnki) | 3:17 | 2024-05-31 |  |
 | [Benny](https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [boy](https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ) | 2:52 | 2024-05-31 |  |
-| [Big Thoughts](https://open.spotify.com/track/0AFB7fRRCteQDHiKbBz3E7) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Promised Land](https://open.spotify.com/album/5AQJtssmlN9QQCHZNTLBXi) | 2:58 | 2025-02-06 |  |
+| [Big Thoughts](https://open.spotify.com/track/0AFB7fRRCteQDHiKbBz3E7) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Promised Land](https://open.spotify.com/album/5AQJtssmlN9QQCHZNTLBXi) | 2:58 | 2025-02-06 | 2025-03-20 |
 | [Blood on the Stage](https://open.spotify.com/track/2NwaHtHuC2hP8ywtEAzOQM) | [The Cat Empire](https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC) | [Blood on the Stage](https://open.spotify.com/album/2iFM1USbtPeU65SyeSB9Qp) | 3:54 | 2024-08-30 | 2024-10-16 |
 | [Boarding Pass](https://open.spotify.com/track/0gs7ASaZRslvTqeKSi2mNf) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [MAJORDOMO](https://open.spotify.com/album/5E0LdqAKEHpaP3nxS47uxq) | 3:37 | 2024-08-30 | 2024-09-23 |
 | [Bodys Chorus](https://open.spotify.com/track/3v53dEJ3q3eYjAsJZmODMY) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Bodys Chorus](https://open.spotify.com/album/2pl6IAqWlzpbhyTjycbHj4) | 3:58 | 2024-11-28 | 2024-12-06 |
 | [Boyfriend](https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Boyfriend](https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx) | 3:57 | 2024-07-11 | 2024-09-09 |
 | [Boys Light Up](https://open.spotify.com/track/4ErGr6NdI8DHIaf9bYuquZ) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [Boys Light Up](https://open.spotify.com/album/3GfGjAm40VSALkTTkj1dyQ) | 2:49 | 2024-05-31 | 2024-07-18 |
 | [Breakup](https://open.spotify.com/track/0Fts3iBGy196UIxlHC9ZqS) | [Ashton Irwin](https://open.spotify.com/artist/3zOKGDS77tYdGFQ6UJMC4E) | [BLOOD ON THE DRUMS \(The Thorns\)](https://open.spotify.com/album/4GOETHIJEzUKybjE6aywCa) | 3:09 | 2024-06-13 | 2024-07-27 |
+| [Call My Name](https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Call My Name](https://open.spotify.com/album/0nY0X0q9Kv4b1iEiv1ORFq) | 5:03 | 2025-03-13 |  |
 | [Calling Out Your Name](https://open.spotify.com/track/67QwptDtovlQWguTfHSeR5) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Calling Out Your Name](https://open.spotify.com/album/7o8G8YqFdqefHY4RT3Al3U) | 3:34 | 2025-02-06 | 2025-02-14 |
 | [Can We Talk When It's Over](https://open.spotify.com/track/0S4ZcooG0l16yqP944jnO1) | [Lotte Gallagher](https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx) | [Can We Talk When It's Over](https://open.spotify.com/album/5Ywk7ua8Xc6L30URTR5qpL) | 3:35 | 2025-02-06 | 2025-02-14 |
 | [Can't Stand To Lose](https://open.spotify.com/track/7r4FAKAU499KcT5E83zEYs) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Can't Stand To Lose](https://open.spotify.com/album/53MctoRNyj3OmoUVFgZcab) | 4:52 | 2025-02-13 | 2025-02-21 |
@@ -66,6 +67,7 @@
 | [Eating Heartache \(feat\. spill tab\)](https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Stop Thinking Start Feeling](https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS) | 2:42 | 2024-05-31 | 2025-02-21 |
 | [Electric Feel \- Spotify Singles](https://open.spotify.com/track/0OZezI7eAOWAF2ntBNn5Sy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Electric Feel \(Spotify Singles\)](https://open.spotify.com/album/6SSUyG0rMITj4m4o1E1A8B) | 2:56 | 2024-09-19 |  |
 | [Electric Green Lambo](https://open.spotify.com/track/5cosFdrn8PBmz6eJpD00iq) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Electric Green Lambo](https://open.spotify.com/album/4nRdzHLndZ5zRaJvYDn1IM) | 2:35 | 2025-02-06 |  |
+| [empty pages](https://open.spotify.com/track/4pBcuAcQJLLhTtPgEgkcaY) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [empty pages](https://open.spotify.com/album/5EvEzapMmAaJ3du1AimXe9) | 4:24 | 2025-03-13 |  |
 | [Enough Of The Sweet Talk](https://open.spotify.com/track/3QOV1bCaYukb1rUAVP2f6x) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Enough Of The Sweet Talk](https://open.spotify.com/album/7Cmagko6o1A7RXCWkauw2B) | 4:00 | 2024-07-25 | 2024-12-29 |
 | [Eulogy](https://open.spotify.com/track/0OWyJzSLWlM3WZhl7IfYc6) | [Ayesha Madon](https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr) | [Eulogy](https://open.spotify.com/album/00jDeAf7t2dmbMKtxEniMA) | 3:32 | 2024-05-31 | 2024-07-24 |
 | [Everyone Will See It](https://open.spotify.com/track/1m0KHgKO5q5jpttt0m3ESO) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Everyone Will See It](https://open.spotify.com/album/5dR2HScThHzyN9wggxsl8x) | 3:24 | 2025-02-06 |  |
@@ -85,7 +87,7 @@
 | [Heading For The Door](https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Heading For The Door](https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX) | 3:47 | 2024-05-31 | 2025-03-05 |
 | [HEAVEN](https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HEAVEN](https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h) | 2:54 | 2024-05-31 |  |
 | [Hi Hello](https://open.spotify.com/track/2dWEiOWSppiWy91zKN5qOM) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Recency Bias](https://open.spotify.com/album/3uXHxkvvSygPVteiPPw5Cx) | 3:01 | 2025-02-20 | 2025-03-05 |
-| [Hideaway](https://open.spotify.com/track/6whwQsAorYI2N8iFLWUhfb) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP) | 2:57 | 2025-02-13 |  |
+| [Hideaway](https://open.spotify.com/track/6whwQsAorYI2N8iFLWUhfb) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP) | 2:57 | 2025-02-13 | 2025-03-20 |
 | [Hocus Pocus](https://open.spotify.com/track/00i7lDi06DTNJJRmciIJOn) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [Hocus Pocus](https://open.spotify.com/album/5IJCDI2kPavM9i8x3P8bET) | 3:13 | 2024-10-24 | 2024-12-18 |
 | [Hold My Hand](https://open.spotify.com/track/3tTdrfAf26i1px0iRSvpKq) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Hold My Hand](https://open.spotify.com/album/0T0yrlXZzVERl5UPClQweD) | 3:44 | 2025-01-30 | 2025-03-16 |
 | [Horses](https://open.spotify.com/track/0jK5ImL0ZzQJmoW5H4YJFZ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Horses](https://open.spotify.com/album/1IBNQCm9J8OZTu4ewHcWqH) | 3:32 | 2024-12-05 | 2025-01-26 |

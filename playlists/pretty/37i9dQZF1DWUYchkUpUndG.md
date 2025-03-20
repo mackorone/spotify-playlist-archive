@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=hK\-x7IDkTJ2LdkftEVCnPQ>Moses Bliss</a> and <a href=https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk?si=uHKBkCl\-TAeeiCFjq0VVUA>Chandler Moore</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,707 likes - 93 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,742 likes - 93 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

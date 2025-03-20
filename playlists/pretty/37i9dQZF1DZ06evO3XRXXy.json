@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 142648,
+  "num_followers": 142681,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAACxfVz0TVDMssKmI+fMtV2c",
+  "snapshot_id": "Z9i3gAAAAAAGGjESEVDkdY6So+IO5Wnr",
   "tracks": [
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Innocence",
+        "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 146881,
+      "name": "Nocturne Op. 9 No. 2",
+      "url": "https://open.spotify.com/track/3dszUBBQ0KE3upy6AR8WBv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Moment",
         "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 302266,
       "name": "That Somebody Was You (with Toni Braxton)",
       "url": "https://open.spotify.com/track/3xLKkJUafOtel0oe25XABQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Innocence",
-        "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 146881,
-      "name": "Nocturne Op. 9 No. 2",
-      "url": "https://open.spotify.com/track/3dszUBBQ0KE3upy6AR8WBv"
     },
     {
       "added_at": null,

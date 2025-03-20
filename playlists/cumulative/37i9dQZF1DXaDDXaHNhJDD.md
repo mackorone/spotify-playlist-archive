@@ -2,7 +2,7 @@
 
 ### [ Mollywood Gold ](https://open.spotify.com/playlist/37i9dQZF1DXaDDXaHNhJDD)
 
-> Finest collection of Tamil Music from the past 10 years Cover : Aavesham
+> Finest collection of Malayalam Music from the past 10 years Cover : Aavesham
 
 205 songs - 13 hr 33 min
 

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAAAFgovGNd84hKFypE4wCRRe",
+  "snapshot_id": "Z9i3gAAAAADZkLXZuqsnS7O1aZn/5a/q",
   "tracks": [
     {
       "added_at": null,
@@ -379,46 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lucid (The Remixes)",
-        "url": "https://open.spotify.com/album/1assR3OlxCGXOBays37pqQ"
-      },
-      "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG"
-        },
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "WE ARE FURY",
-          "url": "https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x"
-        }
-      ],
-      "duration_ms": 187431,
-      "name": "Alarm - WE ARE FURY Remix",
-      "url": "https://open.spotify.com/track/4ZbQvhuML79GPnoxloXE0j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Wet",
-        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Come & Get It",
-      "url": "https://open.spotify.com/track/2tI2DDT95lnvNhlPWZRMJ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New World",
         "url": "https://open.spotify.com/album/17eQ3uApRVcrHR14M3RZcK"
       },
@@ -443,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get Wet",
+        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Come & Get It",
+      "url": "https://open.spotify.com/track/2tI2DDT95lnvNhlPWZRMJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Goddess",
         "url": "https://open.spotify.com/album/1LxrrnNOm8an34LWCc48Ue"
       },
@@ -463,6 +439,30 @@
       "duration_ms": 177499,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/4KIoBpLdHX7nERPfDROJWR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lucid (The Remixes)",
+        "url": "https://open.spotify.com/album/1assR3OlxCGXOBays37pqQ"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "WE ARE FURY",
+          "url": "https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x"
+        }
+      ],
+      "duration_ms": 187431,
+      "name": "Alarm - WE ARE FURY Remix",
+      "url": "https://open.spotify.com/track/4ZbQvhuML79GPnoxloXE0j"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somewhere to Run",
-        "url": "https://open.spotify.com/album/0ncAjnBlT0NZERLH9m0VsR"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 222080,
-      "name": "Somewhere to Run",
-      "url": "https://open.spotify.com/track/7AeYomUuCNb965CWyfLTjK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play Hard EP",
         "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 253213,
       "name": "One Minute",
       "url": "https://open.spotify.com/track/2K54tYOF2c6CBO3ZNhKcmS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somewhere to Run",
+        "url": "https://open.spotify.com/album/0ncAjnBlT0NZERLH9m0VsR"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 222080,
+      "name": "Somewhere to Run",
+      "url": "https://open.spotify.com/track/7AeYomUuCNb965CWyfLTjK"
     },
     {
       "added_at": null,

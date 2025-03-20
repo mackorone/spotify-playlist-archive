@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 10518,
+  "num_followers": 10521,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,26 @@
     {
       "added_at": "2025-03-04 05:53:20",
       "album": {
+        "name": "Fix you",
+        "url": "https://open.spotify.com/album/0GltVnMpJLoHv1xjzqSqHv"
+      },
+      "artists": [
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 176012,
+      "name": "if i die (Feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/0DEoLBczhPmawtTrfnWp8F"
+    },
+    {
+      "added_at": "2025-03-04 05:53:20",
+      "album": {
         "name": "Show Me The Money 9 Episode 3",
         "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 276152,
       "name": "Tomorrow (Feat. GIRIBOY, BIG Naughty)",
       "url": "https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf"
-    },
-    {
-      "added_at": "2025-03-04 05:53:20",
-      "album": {
-        "name": "Fix you",
-        "url": "https://open.spotify.com/album/0GltVnMpJLoHv1xjzqSqHv"
-      },
-      "artists": [
-        {
-          "name": "Skinny Brown",
-          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
-        },
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 176012,
-      "name": "if i die (Feat. ASH ISLAND)",
-      "url": "https://open.spotify.com/track/0DEoLBczhPmawtTrfnWp8F"
     },
     {
       "added_at": "2025-03-04 05:53:20",

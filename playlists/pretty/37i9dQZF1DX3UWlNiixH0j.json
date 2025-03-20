@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: bane",
-  "num_followers": 61153,
+  "num_followers": 61162,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -283,26 +283,18 @@
     {
       "added_at": "2025-03-18 15:00:42",
       "album": {
-        "name": "Focus",
-        "url": "https://open.spotify.com/album/57jgzL9QOFsdEPVKPkYbhh"
+        "name": "Make a Move",
+        "url": "https://open.spotify.com/album/3N1fwVfpKuz6y2DWuCAZo7"
       },
       "artists": [
         {
-          "name": "\u8352\u8c37\u7fd4\u5927",
-          "url": "https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2"
-        },
-        {
-          "name": "Mamiko Suzuki",
-          "url": "https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF"
-        },
-        {
-          "name": "TOSHIKI HAYASHI(%C)",
-          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+          "name": "goethe",
+          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
         }
       ],
-      "duration_ms": 257911,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/5y170aRBflCoZagqVYdUiq"
+      "duration_ms": 157133,
+      "name": "Make a Move",
+      "url": "https://open.spotify.com/track/0Bqqnzb5F6dJZdOe4j2UzU"
     },
     {
       "added_at": "2025-03-18 15:00:42",
@@ -423,18 +415,26 @@
     {
       "added_at": "2025-03-18 15:00:42",
       "album": {
-        "name": "Make a Move",
-        "url": "https://open.spotify.com/album/3N1fwVfpKuz6y2DWuCAZo7"
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/57jgzL9QOFsdEPVKPkYbhh"
       },
       "artists": [
         {
-          "name": "goethe",
-          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
+          "name": "\u8352\u8c37\u7fd4\u5927",
+          "url": "https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2"
+        },
+        {
+          "name": "Mamiko Suzuki",
+          "url": "https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF"
+        },
+        {
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
         }
       ],
-      "duration_ms": 157133,
-      "name": "Make a Move",
-      "url": "https://open.spotify.com/track/0Bqqnzb5F6dJZdOe4j2UzU"
+      "duration_ms": 257911,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/5y170aRBflCoZagqVYdUiq"
     },
     {
       "added_at": "2025-03-18 15:00:42",
@@ -575,6 +575,22 @@
     {
       "added_at": "2025-03-18 15:00:42",
       "album": {
+        "name": "\u30b9\u30c6\u30e9",
+        "url": "https://open.spotify.com/album/5Re5sssjx93JkNfYADiLCE"
+      },
+      "artists": [
+        {
+          "name": "\u3048\u3093\u3077\u3066\u3044",
+          "url": "https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh"
+        }
+      ],
+      "duration_ms": 187433,
+      "name": "\u30b9\u30c6\u30e9",
+      "url": "https://open.spotify.com/track/3P2s80yVnpaABmMVbq1KPJ"
+    },
+    {
+      "added_at": "2025-03-18 15:00:42",
+      "album": {
         "name": "\u67d4\u8edf\u5264DOPE",
         "url": "https://open.spotify.com/album/2lkc4Gh2NVhHGA2qI9h1y7"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 190666,
       "name": "Dying Star",
       "url": "https://open.spotify.com/track/60fJwXfsLswVout8DYaAzf"
-    },
-    {
-      "added_at": "2025-03-18 15:00:42",
-      "album": {
-        "name": "\u30b9\u30c6\u30e9",
-        "url": "https://open.spotify.com/album/5Re5sssjx93JkNfYADiLCE"
-      },
-      "artists": [
-        {
-          "name": "\u3048\u3093\u3077\u3066\u3044",
-          "url": "https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh"
-        }
-      ],
-      "duration_ms": 187433,
-      "name": "\u30b9\u30c6\u30e9",
-      "url": "https://open.spotify.com/track/3P2s80yVnpaABmMVbq1KPJ"
     },
     {
       "added_at": "2025-03-18 15:00:42",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-03-18 15:00:42",
       "album": {
+        "name": "Pathway",
+        "url": "https://open.spotify.com/album/4dHbnwsdpchOW8gOhN13ku"
+      },
+      "artists": [
+        {
+          "name": "She Her Her Hers",
+          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
+        }
+      ],
+      "duration_ms": 231924,
+      "name": "Ethos",
+      "url": "https://open.spotify.com/track/0n3ooBHGE7eIgw4clwaJng"
+    },
+    {
+      "added_at": "2025-03-18 15:00:42",
+      "album": {
         "name": "\u5730\u7344\u5148\u751f",
         "url": "https://open.spotify.com/album/7hS9kKAhLr94LmbTkGgSC2"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2025-03-18 15:00:42",
       "album": {
-        "name": "Pathway",
-        "url": "https://open.spotify.com/album/4dHbnwsdpchOW8gOhN13ku"
-      },
-      "artists": [
-        {
-          "name": "She Her Her Hers",
-          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
-        }
-      ],
-      "duration_ms": 231924,
-      "name": "Ethos",
-      "url": "https://open.spotify.com/track/0n3ooBHGE7eIgw4clwaJng"
-    },
-    {
-      "added_at": "2025-03-18 15:00:42",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/4ug2EqEBfa5bPigoHuJ2Dy"
       },
@@ -779,18 +779,22 @@
     {
       "added_at": "2025-03-18 15:00:42",
       "album": {
-        "name": "\u611b\u306f\u3044\u3064\u3082\u3072\u3068\u308a\u304d\u308a - EP",
-        "url": "https://open.spotify.com/album/2JudOERiszdEJUoUquMezd"
+        "name": "Happy Ending Show",
+        "url": "https://open.spotify.com/album/6bDf4iFszh8ZTUTdTYC3RN"
       },
       "artists": [
         {
-          "name": "\u3048\u3093\u3077\u3066\u3044",
-          "url": "https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh"
+          "name": "ASOBOiSM",
+          "url": "https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D"
+        },
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
         }
       ],
-      "duration_ms": 272566,
-      "name": "\u30ab\u30d5\u30cd",
-      "url": "https://open.spotify.com/track/2Xt6SqslX1L4fAYPtBtPJT"
+      "duration_ms": 241472,
+      "name": "Happy Ending Show",
+      "url": "https://open.spotify.com/track/7IgtInfdL98RaUo7Cd3lZq"
     },
     {
       "added_at": "2025-03-18 15:00:42",
@@ -807,6 +811,38 @@
       "duration_ms": 230809,
       "name": "\u6b69\u307f",
       "url": "https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth"
+    },
+    {
+      "added_at": "2025-03-18 15:00:42",
+      "album": {
+        "name": "\u7b2c\u516b\u4f5c\u54c1\u96c6\u300e\u7121\u984c\u300f",
+        "url": "https://open.spotify.com/album/56oudFcHR5axk94kl0A011"
+      },
+      "artists": [
+        {
+          "name": "downy",
+          "url": "https://open.spotify.com/artist/4Y3ctZWgKkurt1T1D7RYyv"
+        }
+      ],
+      "duration_ms": 349414,
+      "name": "Night Crawlin'",
+      "url": "https://open.spotify.com/track/0IyOcFSic2MLImq9y4n0MO"
+    },
+    {
+      "added_at": "2025-03-18 15:00:42",
+      "album": {
+        "name": "\u611b\u306f\u3044\u3064\u3082\u3072\u3068\u308a\u304d\u308a - EP",
+        "url": "https://open.spotify.com/album/2JudOERiszdEJUoUquMezd"
+      },
+      "artists": [
+        {
+          "name": "\u3048\u3093\u3077\u3066\u3044",
+          "url": "https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh"
+        }
+      ],
+      "duration_ms": 272566,
+      "name": "\u30ab\u30d5\u30cd",
+      "url": "https://open.spotify.com/track/2Xt6SqslX1L4fAYPtBtPJT"
     },
     {
       "added_at": "2025-03-18 15:00:42",
@@ -843,18 +879,18 @@
     {
       "added_at": "2025-03-18 15:00:42",
       "album": {
-        "name": "\u7b2c\u516b\u4f5c\u54c1\u96c6\u300e\u7121\u984c\u300f",
-        "url": "https://open.spotify.com/album/56oudFcHR5axk94kl0A011"
+        "name": "Brainstorm",
+        "url": "https://open.spotify.com/album/3vBpkh0Y4G8g8ff8Z1GrDJ"
       },
       "artists": [
         {
-          "name": "downy",
-          "url": "https://open.spotify.com/artist/4Y3ctZWgKkurt1T1D7RYyv"
+          "name": "Ovall",
+          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
         }
       ],
-      "duration_ms": 349414,
-      "name": "Night Crawlin'",
-      "url": "https://open.spotify.com/track/0IyOcFSic2MLImq9y4n0MO"
+      "duration_ms": 195782,
+      "name": "Brainstorm",
+      "url": "https://open.spotify.com/track/07qtSLcfDBeajxXXkfM5I9"
     },
     {
       "added_at": "2025-03-18 15:00:42",
@@ -875,6 +911,22 @@
       "duration_ms": 225853,
       "name": "Alone",
       "url": "https://open.spotify.com/track/5Qejt8cDgNL0fg98C8R2Dn"
+    },
+    {
+      "added_at": "2025-03-18 15:00:42",
+      "album": {
+        "name": "\u6563\u6b69\u306e\u5929\u624d",
+        "url": "https://open.spotify.com/album/3t8SU3K48SWplL6Uw5729o"
+      },
+      "artists": [
+        {
+          "name": "\u6d66\u4e0a\u60f3\u8d77",
+          "url": "https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze"
+        }
+      ],
+      "duration_ms": 273860,
+      "name": "\u6563\u6b69\u306e\u5929\u624d",
+      "url": "https://open.spotify.com/track/3vPE8awF9vZooiaO6k4avq"
     },
     {
       "added_at": "2025-03-18 15:00:42",
@@ -927,22 +979,6 @@
     {
       "added_at": "2025-03-18 15:00:42",
       "album": {
-        "name": "Brainstorm",
-        "url": "https://open.spotify.com/album/3vBpkh0Y4G8g8ff8Z1GrDJ"
-      },
-      "artists": [
-        {
-          "name": "Ovall",
-          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
-        }
-      ],
-      "duration_ms": 195782,
-      "name": "Brainstorm",
-      "url": "https://open.spotify.com/track/07qtSLcfDBeajxXXkfM5I9"
-    },
-    {
-      "added_at": "2025-03-18 15:00:42",
-      "album": {
         "name": "Malam Suci",
         "url": "https://open.spotify.com/album/7ovsfO6RM8EOK6rb3R2bff"
       },
@@ -955,26 +991,6 @@
       "duration_ms": 259795,
       "name": "Malam Suci",
       "url": "https://open.spotify.com/track/2GK1hRs2g3OqAGTcwzrSlj"
-    },
-    {
-      "added_at": "2025-03-18 15:00:42",
-      "album": {
-        "name": "Happy Ending Show",
-        "url": "https://open.spotify.com/album/6bDf4iFszh8ZTUTdTYC3RN"
-      },
-      "artists": [
-        {
-          "name": "ASOBOiSM",
-          "url": "https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D"
-        },
-        {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
-        }
-      ],
-      "duration_ms": 241472,
-      "name": "Happy Ending Show",
-      "url": "https://open.spotify.com/track/7IgtInfdL98RaUo7Cd3lZq"
     },
     {
       "added_at": "2025-03-18 15:00:42",
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2025-03-18 15:00:42",
       "album": {
-        "name": "\u6563\u6b69\u306e\u5929\u624d",
-        "url": "https://open.spotify.com/album/3t8SU3K48SWplL6Uw5729o"
-      },
-      "artists": [
-        {
-          "name": "\u6d66\u4e0a\u60f3\u8d77",
-          "url": "https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze"
-        }
-      ],
-      "duration_ms": 273860,
-      "name": "\u6563\u6b69\u306e\u5929\u624d",
-      "url": "https://open.spotify.com/track/3vPE8awF9vZooiaO6k4avq"
-    },
-    {
-      "added_at": "2025-03-18 15:00:42",
-      "album": {
         "name": "Chance",
         "url": "https://open.spotify.com/album/2rq5oAmQDU2qoqyd9Ljntp"
       },
@@ -1039,70 +1039,6 @@
       "duration_ms": 314933,
       "name": "\u518d\u751f",
       "url": "https://open.spotify.com/track/0roAc68FRlR0RX0fHXjDpC"
-    },
-    {
-      "added_at": "2025-03-18 15:00:42",
-      "album": {
-        "name": "see you, frail angel. sea adore you.",
-        "url": "https://open.spotify.com/album/4trT0CMDYW2pVx7t2hIg51"
-      },
-      "artists": [
-        {
-          "name": "Homecomings",
-          "url": "https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K"
-        }
-      ],
-      "duration_ms": 313746,
-      "name": "angel near you",
-      "url": "https://open.spotify.com/track/3pd4Qxuu12CipI2v6Yi6EH"
-    },
-    {
-      "added_at": "2025-03-18 15:00:42",
-      "album": {
-        "name": "sober",
-        "url": "https://open.spotify.com/album/6qyKp5EQCqoJMndwJ7h7mr"
-      },
-      "artists": [
-        {
-          "name": "brkfstblend",
-          "url": "https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ"
-        }
-      ],
-      "duration_ms": 236371,
-      "name": "sober",
-      "url": "https://open.spotify.com/track/4fP4o6BhgPplcEZB7FP2Eq"
-    },
-    {
-      "added_at": "2025-03-18 15:00:42",
-      "album": {
-        "name": "\u5ddd\u8fba\u306b\u3066",
-        "url": "https://open.spotify.com/album/3ZANrsv1pgubA0o9Hg4hV8"
-      },
-      "artists": [
-        {
-          "name": "Saho Terao",
-          "url": "https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "\u5ddd\u8fba\u306b\u3066",
-      "url": "https://open.spotify.com/track/5WT1dxftFPo36rEVjyoBDR"
-    },
-    {
-      "added_at": "2025-03-18 15:00:42",
-      "album": {
-        "name": "you're my",
-        "url": "https://open.spotify.com/album/1WnFBJ5DOdq5at6Kjjdu3P"
-      },
-      "artists": [
-        {
-          "name": "Pablo Haiku",
-          "url": "https://open.spotify.com/artist/6bjUYczHixvynXydjXfDMt"
-        }
-      ],
-      "duration_ms": 242824,
-      "name": "you're my",
-      "url": "https://open.spotify.com/track/0282oL6TW2TMbxEljHQNJn"
     },
     {
       "added_at": "2025-03-18 15:00:42",
@@ -1123,6 +1059,70 @@
     {
       "added_at": "2025-03-18 15:00:42",
       "album": {
+        "name": "see you, frail angel. sea adore you.",
+        "url": "https://open.spotify.com/album/4trT0CMDYW2pVx7t2hIg51"
+      },
+      "artists": [
+        {
+          "name": "Homecomings",
+          "url": "https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K"
+        }
+      ],
+      "duration_ms": 313746,
+      "name": "angel near you",
+      "url": "https://open.spotify.com/track/3pd4Qxuu12CipI2v6Yi6EH"
+    },
+    {
+      "added_at": "2025-03-18 15:00:42",
+      "album": {
+        "name": "you're my",
+        "url": "https://open.spotify.com/album/1WnFBJ5DOdq5at6Kjjdu3P"
+      },
+      "artists": [
+        {
+          "name": "Pablo Haiku",
+          "url": "https://open.spotify.com/artist/6bjUYczHixvynXydjXfDMt"
+        }
+      ],
+      "duration_ms": 242824,
+      "name": "you're my",
+      "url": "https://open.spotify.com/track/0282oL6TW2TMbxEljHQNJn"
+    },
+    {
+      "added_at": "2025-03-18 15:00:42",
+      "album": {
+        "name": "\u5ddd\u8fba\u306b\u3066",
+        "url": "https://open.spotify.com/album/3ZANrsv1pgubA0o9Hg4hV8"
+      },
+      "artists": [
+        {
+          "name": "Saho Terao",
+          "url": "https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "\u5ddd\u8fba\u306b\u3066",
+      "url": "https://open.spotify.com/track/5WT1dxftFPo36rEVjyoBDR"
+    },
+    {
+      "added_at": "2025-03-18 15:00:42",
+      "album": {
+        "name": "sober",
+        "url": "https://open.spotify.com/album/6qyKp5EQCqoJMndwJ7h7mr"
+      },
+      "artists": [
+        {
+          "name": "brkfstblend",
+          "url": "https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ"
+        }
+      ],
+      "duration_ms": 236371,
+      "name": "sober",
+      "url": "https://open.spotify.com/track/4fP4o6BhgPplcEZB7FP2Eq"
+    },
+    {
+      "added_at": "2025-03-18 15:00:42",
+      "album": {
         "name": "\u30e9\u30b8\u30aa",
         "url": "https://open.spotify.com/album/3CwuCNP2CleLnFZaYLoLm8"
       },
@@ -1135,22 +1135,6 @@
       "duration_ms": 154460,
       "name": "\u30e9\u30b8\u30aa",
       "url": "https://open.spotify.com/track/0emSoLWPfSLPZsxIwAOFpU"
-    },
-    {
-      "added_at": "2025-03-18 15:00:42",
-      "album": {
-        "name": "Music For Walking (Out Of The Woods)",
-        "url": "https://open.spotify.com/album/5BOrVVQthtuBSqxaduFAkx"
-      },
-      "artists": [
-        {
-          "name": "Lovely Summer Chan",
-          "url": "https://open.spotify.com/artist/4nA0WP72lQ6494sT3xbips"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "The Great Time Killer",
-      "url": "https://open.spotify.com/track/2TWxpuIdzsvYwC4WsJBMAZ"
     },
     {
       "added_at": "2025-03-18 15:00:42",
@@ -1171,22 +1155,6 @@
     {
       "added_at": "2025-03-18 15:00:42",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/0HdbHHtE0svFLBibnDEHWl"
-      },
-      "artists": [
-        {
-          "name": "The fin.",
-          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
-        }
-      ],
-      "duration_ms": 178320,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/1PIe3nJeOu1ssOVOvID4bL"
-    },
-    {
-      "added_at": "2025-03-18 15:00:42",
-      "album": {
         "name": "tender (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4ciRzg4BTydpzSGuOruXCx"
       },
@@ -1199,6 +1167,38 @@
       "duration_ms": 158840,
       "name": "Elevator Lover",
       "url": "https://open.spotify.com/track/2ChdsbxUUFspNnBKL7Lzr5"
+    },
+    {
+      "added_at": "2025-03-18 15:00:42",
+      "album": {
+        "name": "Music For Walking (Out Of The Woods)",
+        "url": "https://open.spotify.com/album/5BOrVVQthtuBSqxaduFAkx"
+      },
+      "artists": [
+        {
+          "name": "Lovely Summer Chan",
+          "url": "https://open.spotify.com/artist/4nA0WP72lQ6494sT3xbips"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "The Great Time Killer",
+      "url": "https://open.spotify.com/track/2TWxpuIdzsvYwC4WsJBMAZ"
+    },
+    {
+      "added_at": "2025-03-18 15:00:42",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/0HdbHHtE0svFLBibnDEHWl"
+      },
+      "artists": [
+        {
+          "name": "The fin.",
+          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
+        }
+      ],
+      "duration_ms": 178320,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/1PIe3nJeOu1ssOVOvID4bL"
     },
     {
       "added_at": "2025-03-18 15:00:42",
@@ -1219,6 +1219,38 @@
     {
       "added_at": "2025-03-18 15:00:42",
       "album": {
+        "name": "any day now",
+        "url": "https://open.spotify.com/album/4uuBYnZoVjCyCug11sh1rC"
+      },
+      "artists": [
+        {
+          "name": "Homecomings",
+          "url": "https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K"
+        }
+      ],
+      "duration_ms": 256079,
+      "name": "any day now",
+      "url": "https://open.spotify.com/track/0iAQG6nyV8lli1DlpBdAWU"
+    },
+    {
+      "added_at": "2025-03-18 15:00:42",
+      "album": {
+        "name": "Funny",
+        "url": "https://open.spotify.com/album/0qZqHPQr5x7svWAMLMaqVH"
+      },
+      "artists": [
+        {
+          "name": "aint lindy",
+          "url": "https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC"
+        }
+      ],
+      "duration_ms": 225473,
+      "name": "Funny",
+      "url": "https://open.spotify.com/track/0WzICKUgMJxdQbrTupsVTK"
+    },
+    {
+      "added_at": "2025-03-18 15:00:42",
+      "album": {
         "name": "\u67af\u8449\u306e\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3",
         "url": "https://open.spotify.com/album/0GsC8TyaIzu6a64UxTxFbU"
       },
@@ -1231,42 +1263,6 @@
       "duration_ms": 351779,
       "name": "\u67af\u8449\u306e\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/2gP0cM1zYaAEDE7rgrnnT6"
-    },
-    {
-      "added_at": "2025-03-18 15:00:42",
-      "album": {
-        "name": "\u4f59\u97fb",
-        "url": "https://open.spotify.com/album/4EqQmG1fJ3GQ36FfonkaGp"
-      },
-      "artists": [
-        {
-          "name": "Asagaya Romantics",
-          "url": "https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x"
-        }
-      ],
-      "duration_ms": 246858,
-      "name": "\u4f59\u97fb",
-      "url": "https://open.spotify.com/track/6IXpfkYDZG9HduKQ4PEI7c"
-    },
-    {
-      "added_at": "2025-03-18 15:00:42",
-      "album": {
-        "name": "naughty AI",
-        "url": "https://open.spotify.com/album/1RKcxQj34tLwkKvu8fXsqY"
-      },
-      "artists": [
-        {
-          "name": "Pyra",
-          "url": "https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9"
-        },
-        {
-          "name": "HARU NEMURI",
-          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
-        }
-      ],
-      "duration_ms": 159085,
-      "name": "naughty AI",
-      "url": "https://open.spotify.com/track/2ve6tbbHAISbuKqUr18sYw"
     }
   ],
   "unique_name": "Edge!",

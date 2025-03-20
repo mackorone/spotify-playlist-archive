@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-543 songs - 1 day 6 hr 54 min
+545 songs - 1 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,8 @@
 | [Night Crawling \(feat\. Billy Idol\)](https://open.spotify.com/track/4U34WsyOvppOMnRfq7DuOy) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:09 | 2024-01-29 |  |
 | [Nights With You](https://open.spotify.com/track/5q5gzmbBS5yQzos2BvVr1t) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Nights With You](https://open.spotify.com/album/0kgy48FPwyVepPIaiO2w7G) | 3:17 | 2024-01-30 |  |
 | [Nights With You](https://open.spotify.com/track/1m1IL33LEp61DGGqXL3wBr) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Nights With You \(Official Video\)](https://open.spotify.com/album/4Y5E4KsI3fq9JkPnNIsnb6) | 3:17 | 2024-01-29 | 2024-02-02 |
-| [No I'm not in love](https://open.spotify.com/track/7a1D1K7sgFtumXN02ZdbUd) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:50 | 2025-03-07 |  |
+| [No I'm not in love](https://open.spotify.com/track/3BBRp97DTo6gN0BIwFkX3t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 2:50 | 2025-03-19 |  |
+| [No I'm not in love](https://open.spotify.com/track/7a1D1K7sgFtumXN02ZdbUd) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:50 | 2025-03-07 | 2025-03-20 |
 | [No Vacancy](https://open.spotify.com/track/4QeoDcR16IHpmmgFGQDrCp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [No Vacancy](https://open.spotify.com/album/1UAt4G020TgW3lb2CkXr2N) | 3:43 | 2024-01-29 |  |
 | [No Vacancy \(feat\. Tiziano Ferro\)](https://open.spotify.com/track/7tUWsEmQ10jO9O0LnNJWsL) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [No Vacancy](https://open.spotify.com/album/3HP1N2tzG0PG9EUfISEt5w) | 3:43 | 2025-01-09 |  |
 | [Nobody \- from Kaiju No\. 8](https://open.spotify.com/track/3SiVMpHxTS1gspWzRZE50S) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:33 | 2025-01-09 |  |
@@ -431,7 +432,8 @@
 | [Soul](https://open.spotify.com/track/7npn3Z5IorbgkrJMYpvftK) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Soul](https://open.spotify.com/album/4bkDiNK9oEkwKIZA0Dl8Ru) | 3:13 | 2024-01-29 |  |
 | [Speak Up](https://open.spotify.com/track/6u88kKIAGstDtF400mk1fq) | [Kristinia DeBarge](https://open.spotify.com/artist/5Z22vlK4DCgDrQgBEqfc8w) | [Exposed \(Deluxe Edition\)](https://open.spotify.com/album/7f45cxgKjDpNLsvscwYvjS) | 3:42 | 2024-01-29 |  |
 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 | 2025-02-06 | 2025-02-24 |
-| [Sports car](https://open.spotify.com/track/4il87YHqSV9UqbBkXM7z7m) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:45 | 2025-02-23 |  |
+| [Sports car](https://open.spotify.com/track/4il87YHqSV9UqbBkXM7z7m) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:45 | 2025-02-23 | 2025-03-20 |
+| [Sports car](https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 2:45 | 2025-03-19 |  |
 | [Stargazing](https://open.spotify.com/track/1ZWp7uMlEwBhpedEw6F048) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:40 | 2024-08-16 |  |
 | [Start Again \(feat\. Logic\)](https://open.spotify.com/track/1Nj2oBISdFDSF8eDuXcALz) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [13 Reasons Why \(Season 2\)](https://open.spotify.com/album/4RpgjxgSxcRwGNuWnImneN) | 2:45 | 2024-01-29 |  |
 | [stay done](https://open.spotify.com/track/2zScQCfO2BKtR0Yk8dtELN) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:51 | 2024-01-29 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 610,
+  "num_followers": 617,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Waves (Acoustic)",
-        "url": "https://open.spotify.com/album/5BYoZ57Q8kvu7WhL00jZJ5"
+        "name": "Resolution - EP",
+        "url": "https://open.spotify.com/album/22aja1RtjRSzdKRuwx0Aog"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
         }
       ],
-      "duration_ms": 248176,
-      "name": "Waves - Acoustic",
-      "url": "https://open.spotify.com/track/6GL1MiIvlrAm3hTvHzQJLl"
+      "duration_ms": 256389,
+      "name": "Resolution",
+      "url": "https://open.spotify.com/track/76QK6gTaW2bBV47FDe3RPK"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -267,18 +267,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Resolution - EP",
-        "url": "https://open.spotify.com/album/22aja1RtjRSzdKRuwx0Aog"
+        "name": "Waves (Acoustic)",
+        "url": "https://open.spotify.com/album/5BYoZ57Q8kvu7WhL00jZJ5"
       },
       "artists": [
         {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 256389,
-      "name": "Resolution",
-      "url": "https://open.spotify.com/track/76QK6gTaW2bBV47FDe3RPK"
+      "duration_ms": 248176,
+      "name": "Waves - Acoustic",
+      "url": "https://open.spotify.com/track/6GL1MiIvlrAm3hTvHzQJLl"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Rainbow Valley",
+        "url": "https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "duration_ms": 262257,
+      "name": "Miracle Love",
+      "url": "https://open.spotify.com/track/5zxJlZh20vaB1TcZAUZ8Pz"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Everything Is Easy",
         "url": "https://open.spotify.com/album/5Ic1mp3JN5Fv2gLrXK5y0r"
       },
@@ -407,26 +423,6 @@
       "duration_ms": 197663,
       "name": "Everything Is Easy",
       "url": "https://open.spotify.com/track/2ME1Q6GWXOt0oEqBHtDFvY"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "The Dark Prince (feat. Mac DeMarco)",
-        "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 214356,
-      "name": "The Dark Prince (feat. Mac DeMarco)",
-      "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -447,18 +443,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Rainbow Valley",
-        "url": "https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW"
+        "name": "The Dark Prince (feat. Mac DeMarco)",
+        "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
       },
       "artists": [
         {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
-      "duration_ms": 262257,
-      "name": "Miracle Love",
-      "url": "https://open.spotify.com/track/5zxJlZh20vaB1TcZAUZ8Pz"
+      "duration_ms": 214356,
+      "name": "The Dark Prince (feat. Mac DeMarco)",
+      "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Pound For Pound",
-        "url": "https://open.spotify.com/album/7HW83aQ4OFpMsg6W8hmROw"
-      },
-      "artists": [
-        {
-          "name": "Ra Ra Viper",
-          "url": "https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId"
-        }
-      ],
-      "duration_ms": 182019,
-      "name": "Tora",
-      "url": "https://open.spotify.com/track/2RdTAjuyXApYuZhQh7kypm"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "The Breach EP",
         "url": "https://open.spotify.com/album/6qjhxh5olXQ1y7T4PV2qSw"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 253848,
       "name": "The Breach",
       "url": "https://open.spotify.com/track/1rSrMVQbnYWihopHxGXhOD"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Pound For Pound",
+        "url": "https://open.spotify.com/album/7HW83aQ4OFpMsg6W8hmROw"
+      },
+      "artists": [
+        {
+          "name": "Ra Ra Viper",
+          "url": "https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId"
+        }
+      ],
+      "duration_ms": 182019,
+      "name": "Tora",
+      "url": "https://open.spotify.com/track/2RdTAjuyXApYuZhQh7kypm"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Vantage Point",
-        "url": "https://open.spotify.com/album/3cVWxjvHrPozeQaiUfU9R4"
-      },
-      "artists": [
-        {
-          "name": "Sons of Zion",
-          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
-        }
-      ],
-      "duration_ms": 179642,
-      "name": "Drift Away",
-      "url": "https://open.spotify.com/track/2bx4jOMWpCbemnnRWfsMbx"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "See The Sun",
         "url": "https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy"
       },
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Caught Up In The Wire, No More",
-        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
+        "name": "Vantage Point",
+        "url": "https://open.spotify.com/album/3cVWxjvHrPozeQaiUfU9R4"
       },
       "artists": [
         {
-          "name": "Tay Oskee",
-          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
+          "name": "Sons of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
         }
       ],
-      "duration_ms": 223712,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ"
+      "duration_ms": 179642,
+      "name": "Drift Away",
+      "url": "https://open.spotify.com/track/2bx4jOMWpCbemnnRWfsMbx"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1063,6 +1047,22 @@
       "duration_ms": 305120,
       "name": "Mended",
       "url": "https://open.spotify.com/track/0jzOBl9Qm6po1hXrgqIVCF"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Caught Up In The Wire, No More",
+        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
+      },
+      "artists": [
+        {
+          "name": "Tay Oskee",
+          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
+        }
+      ],
+      "duration_ms": 223712,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Blue Sky Blue",
+        "url": "https://open.spotify.com/album/2oJBk6QGkGjxb3d1y4LX07"
+      },
+      "artists": [
+        {
+          "name": "Pete Murray",
+          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
+        }
+      ],
+      "duration_ms": 215786,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/1OPlx5qqkPUp4VMxFLVhIL"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Deeper Water",
         "url": "https://open.spotify.com/album/2mrVJ60WIjwRgzLwVMyJDM"
       },
@@ -1131,6 +1147,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Apple Crumble",
+        "url": "https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr"
+      },
+      "artists": [
+        {
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+        }
+      ],
+      "duration_ms": 203316,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/4faiTk0Vx86PcE5TJ3sQnz"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Youngblood",
         "url": "https://open.spotify.com/album/4LKwkGDfN1OXZy1qXRAQZm"
       },
@@ -1147,18 +1179,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Apple Crumble",
-        "url": "https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr"
+        "name": "See The Sun",
+        "url": "https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy"
       },
       "artists": [
         {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+          "name": "Pete Murray",
+          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
         }
       ],
-      "duration_ms": 203316,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/4faiTk0Vx86PcE5TJ3sQnz"
+      "duration_ms": 223040,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/2vDW5s3RpQNJp9gkhMB1da"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1183,22 +1215,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Blue Sky Blue",
-        "url": "https://open.spotify.com/album/2oJBk6QGkGjxb3d1y4LX07"
-      },
-      "artists": [
-        {
-          "name": "Pete Murray",
-          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
-        }
-      ],
-      "duration_ms": 215786,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/1OPlx5qqkPUp4VMxFLVhIL"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 203250,
       "name": "These Days",
       "url": "https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Give It Up",
-        "url": "https://open.spotify.com/album/1A3A8WdrkktsDANff6H9mt"
-      },
-      "artists": [
-        {
-          "name": "Old Mervs",
-          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
-        }
-      ],
-      "duration_ms": 200905,
-      "name": "Leave That",
-      "url": "https://open.spotify.com/track/3YuAWFpVawNf23ZN7OlfD8"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Between You and Me",
-        "url": "https://open.spotify.com/album/5dJM7tzRS4BBHUxROSOn26"
+        "name": "Give It Up",
+        "url": "https://open.spotify.com/album/1A3A8WdrkktsDANff6H9mt"
       },
       "artists": [
         {
-          "name": "San Cisco",
-          "url": "https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0"
+          "name": "Old Mervs",
+          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
         }
       ],
-      "duration_ms": 266493,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/1pZaknf90sVRGNiftfF9X3"
+      "duration_ms": 200905,
+      "name": "Leave That",
+      "url": "https://open.spotify.com/track/3YuAWFpVawNf23ZN7OlfD8"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1291,6 +1291,22 @@
       "duration_ms": 253066,
       "name": "Inappropriate Behaviour",
       "url": "https://open.spotify.com/track/0Ma58HrmhNi0UrOCnAXXBt"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Between You and Me",
+        "url": "https://open.spotify.com/album/5dJM7tzRS4BBHUxROSOn26"
+      },
+      "artists": [
+        {
+          "name": "San Cisco",
+          "url": "https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0"
+        }
+      ],
+      "duration_ms": 266493,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/1pZaknf90sVRGNiftfF9X3"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1339,22 +1355,6 @@
       "duration_ms": 225773,
       "name": "Green Limousine",
       "url": "https://open.spotify.com/track/4lMG8ihd1XUJthjdUhc6hR"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "See The Sun",
-        "url": "https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy"
-      },
-      "artists": [
-        {
-          "name": "Pete Murray",
-          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/2vDW5s3RpQNJp9gkhMB1da"
     },
     {
       "added_at": "2023-11-15 02:04:48",

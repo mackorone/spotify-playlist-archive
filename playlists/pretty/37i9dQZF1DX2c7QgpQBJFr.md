@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana ✨ cover: LA NIÑA
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,453 likes - 106 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,458 likes - 106 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

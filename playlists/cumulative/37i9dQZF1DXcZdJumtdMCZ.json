@@ -423,6 +423,32 @@
     },
     {
       "album": {
+        "name": "Bosu",
+        "url": "https://open.spotify.com/album/6IVF2akmAW3qdUWf4kZ0m6"
+      },
+      "artists": [
+        {
+          "name": "Iykki Berry",
+          "url": "https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD"
+        },
+        {
+          "name": "DANNY JIN",
+          "url": "https://open.spotify.com/artist/6iFEDdWuZ5u1yivKaBB3Y8"
+        },
+        {
+          "name": "Dev Major",
+          "url": "https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145365,
+      "name": "Bosu",
+      "url": "https://open.spotify.com/track/7FwHjQkA7QOEo7x1XWP39v"
+    },
+    {
+      "album": {
         "name": "Valliamma Peraandi - Vol. 01",
         "url": "https://open.spotify.com/album/1CUpxD8bx7lF4od9FtAXCG"
       },
@@ -3924,7 +3950,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 164571,
       "name": "Vena",
       "url": "https://open.spotify.com/track/4eRTJ0RLrZPUl2VdduSUhp"

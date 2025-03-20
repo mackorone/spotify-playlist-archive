@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pcshwfgXFN.md) - [plain]
 
 > A selection of Islamic Duaa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,468 likes - 35 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,479 likes - 35 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Allahoma Rab Alsamawat Alsabee](https://open.spotify.com/track/2nIusqiJAYhNQM13hEq4VQ) | [Haroon Al Rasheed](https://open.spotify.com/artist/2nniJ5inYBrjj4v1VzFalt) | [Duaa Sayed Al Estegfaar](https://open.spotify.com/album/5Lw1gg3Vn3W4ChUnqEoOZr) | 1:02 |
-| 2 | [اللهم اقسم لنا من خشيتك](https://open.spotify.com/track/3ABkRwLQLXUJeiXK6FXrcK) | [Mansoor Al Salmi](https://open.spotify.com/artist/41NBbnhqJcuUYcRHzqA8CT) | [اللهم اقسم لنا من خشيتك](https://open.spotify.com/album/0Ehx7b7mv9jw3X7MbAIbli) | 2:42 |
+| 1 | [اللهم اقسم لنا من خشيتك](https://open.spotify.com/track/3ABkRwLQLXUJeiXK6FXrcK) | [Mansoor Al Salmi](https://open.spotify.com/artist/41NBbnhqJcuUYcRHzqA8CT) | [اللهم اقسم لنا من خشيتك](https://open.spotify.com/album/0Ehx7b7mv9jw3X7MbAIbli) | 2:42 |
+| 2 | [Allahoma Rab Alsamawat Alsabee](https://open.spotify.com/track/2nIusqiJAYhNQM13hEq4VQ) | [Haroon Al Rasheed](https://open.spotify.com/artist/2nniJ5inYBrjj4v1VzFalt) | [Duaa Sayed Al Estegfaar](https://open.spotify.com/album/5Lw1gg3Vn3W4ChUnqEoOZr) | 1:02 |
 | 3 | [اللهم متعنا براحة البال](https://open.spotify.com/track/6OZ7lMcMghUPXqBDjjfsNX) | [حمزه بوديب](https://open.spotify.com/artist/2txtDMgMD7i5ylXsdxpNX4) | [روائع الدعاء :: الجزء الاول](https://open.spotify.com/album/2hOXi5SGw9fXblvYAhfPJh) | 2:33 |
 | 4 | [دوما لك الحمد](https://open.spotify.com/track/4WBYfXVsxOzY6YLB1SgwTM) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [دوما لك الحمد](https://open.spotify.com/album/1xVT0Cj6Rg6I5TARzwb7kJ) | 0:59 |
 | 5 | [ربنا لا تزغ قلوبنا بعد إذ هديتنا](https://open.spotify.com/track/3E0hqIswyneeE6jkxDHsdN) | [الشيخ عبد الباسط عبد الصمد](https://open.spotify.com/artist/5FfOEBsqp3x1bpsNr73KLa) | [أدعية العشر الأواخر من رمضان](https://open.spotify.com/album/1abl7fBsl4zDaRmRUHstBS) | 1:02 |

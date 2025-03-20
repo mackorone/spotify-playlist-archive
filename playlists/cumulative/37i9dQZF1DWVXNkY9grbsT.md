@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-467 songs - 1 day 14 hr 55 min
+468 songs - 1 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,7 +376,7 @@
 | [Solace](https://open.spotify.com/track/0DKA1qiyVR9AQ2ZpDkkvbc) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Opal](https://open.spotify.com/album/44XBWRiDn05a4ECHyTQWPl) | 2:44 | 2023-01-20 | 2024-03-01 |
 | [Solace](https://open.spotify.com/track/36KdtPFaNf5agHpqQqE7ka) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Solace](https://open.spotify.com/album/60xW167qnSy1Uukg6g6Mce) | 2:44 | 2022-04-01 | 2023-01-27 |
 | [Solstice](https://open.spotify.com/track/2A2KhiDjc7NXsqhuMyKXp9) | [SVLBRD](https://open.spotify.com/artist/40SVMdCuPtqI6suYOG3Qk0) | [Solstice](https://open.spotify.com/album/5In0aQDAEJHdrI4oxgzdtX) | 8:00 | 2021-12-26 | 2023-06-30 |
-| [Sony 7IV](https://open.spotify.com/track/6N7XoSskzxWaBjrddaSCO1) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Fighting Modernism EP](https://open.spotify.com/album/49wH7bpUwQc5gYpDWgPkUQ) | 3:51 | 2022-05-06 |  |
+| [Sony 7IV](https://open.spotify.com/track/6N7XoSskzxWaBjrddaSCO1) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Fighting Modernism EP](https://open.spotify.com/album/49wH7bpUwQc5gYpDWgPkUQ) | 3:51 | 2022-05-06 | 2025-03-20 |
 | [Springtime in Croatia](https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [Springtime in Croatia](https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C) | 4:02 | 2022-04-01 | 2025-02-08 |
 | [Stapler](https://open.spotify.com/track/54ZttkOfyEW4JVZblFopLt) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Stapler](https://open.spotify.com/album/2lvi6nRKSPfzIVlRw5fyb3) | 3:41 | 2021-12-26 | 2022-01-25 |
 | [Steam Machine](https://open.spotify.com/track/3wMa3Zt1aK9uynJBMVIIWo) | [Smoke Point](https://open.spotify.com/artist/43QzahjuqHEMX4s0vRtTlE) | [Smoke Point](https://open.spotify.com/album/6uVf3kSn0dpX0hH9DGf6iu) | 8:07 | 2022-11-22 | 2023-07-31 |
@@ -443,6 +443,7 @@
 | [Untitled 2](https://open.spotify.com/track/5n9ml1SgCn0CLLYoHr7RlI) | [Pavel Milyakov](https://open.spotify.com/artist/5E8J16XR1FuqmFNkL65CKo), [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Untitled 2](https://open.spotify.com/album/7to5FqMorIUPoGe1Dpla1G) | 3:10 | 2021-12-26 | 2022-07-28 |
 | [Valley Candle](https://open.spotify.com/track/4Hgz6gl0LnuNrLJI6QFELb) | [M\. Sage](https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR), [Patrick Shiroishi](https://open.spotify.com/artist/2lHGXQLY8KwPpuxBRsINR2) | [Wants a Diamond Pivot Bright](https://open.spotify.com/album/2xs94fBaqCFtaf3zNmLvhC) | 2:57 | 2021-12-26 | 2023-08-12 |
 | [VCDB](https://open.spotify.com/track/1AyFY68bV6nIaO6E8Arcyp) | [Drew McDowall](https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4) | [Undulations and Aberrations](https://open.spotify.com/album/6MX6ANSOwS8BTL6RtP7Ffg) | 6:53 | 2023-07-13 | 2024-10-17 |
+| [Vernal Fall](https://open.spotify.com/track/2HKX28kTIoBXpnjOJHhcst) | [DOVS](https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm) | [Psychic Geography](https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt) | 3:43 | 2025-03-14 |  |
 | [Vespera](https://open.spotify.com/track/4AaprdeMMgEgo2iIOQAztk) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Vespera](https://open.spotify.com/album/5J3DHxWVjqENguNOG5jsgj) | 6:01 | 2021-12-26 | 2023-08-12 |
 | [Vessel](https://open.spotify.com/track/315MpPgQhp6FEXDcLhJXSZ) | [Eric Hilton](https://open.spotify.com/artist/4tgBpjW0GVvKqP7uY2OHYB) | [Out of the Blur](https://open.spotify.com/album/4oquIG02DIGmU9JbBm9sDL) | 6:31 | 2024-06-28 |  |
 | [Violo](https://open.spotify.com/track/5syPwaSJSzNSB6ufaE6sI9) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Madre](https://open.spotify.com/album/5qxNqr74lxcQefXV9hqRiP) | 7:07 | 2021-12-26 | 2023-08-12 |

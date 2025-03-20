@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 583057,
+  "num_followers": 583074,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAADCWKBW7Z1nNvwyod74KTJP",
+  "snapshot_id": "Z9i3gAAAAAD44ZVTYVMSEbCS8k6iA39l",
   "tracks": [
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 557293,
+      "name": "I Want Your Sex - Pts. 1 & 2 Remastered",
+      "url": "https://open.spotify.com/track/6QnFHieoch6U9J8zfv6hml"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greatest Hits III",
         "url": "https://open.spotify.com/album/2BY5L3fpnj4pEduW3T1qN7"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 307360,
       "name": "Somebody To Love - Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992",
       "url": "https://open.spotify.com/track/3g8OM1tEhwNQqsXDHhVbQQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 557293,
-      "name": "I Want Your Sex - Pts. 1 & 2 Remastered",
-      "url": "https://open.spotify.com/track/6QnFHieoch6U9J8zfv6hml"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 
 > This is Roy Ayers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,939 likes - 49 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,959 likes - 49 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 | 20 | [Funk in the Hole](https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Virgin Ubiquity II](https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6) | 5:36 |
 | 21 | [Papa Was A Rolling Stone](https://open.spotify.com/track/1PJQ2bQC60SmUqJrRyLDB3) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Red, Black & Green](https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ) | 5:33 |
 | 22 | [Exotic Dance \- From The "Coffy" Soundtrack](https://open.spotify.com/track/7DGeZKtZkisHSnN2HMTWWW) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 3:18 |
-| 23 | [Dangerous Vibes \- Emmaculate Remix / Edit](https://open.spotify.com/track/59o9HdXbhgQRCzAkDUr3IF) | [Ferry Ultra](https://open.spotify.com/artist/5kbLZCVZhJQ6ARWIZdtfTD), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Emmaculate](https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB) | [Dangerous Vibes](https://open.spotify.com/album/72d5mhtRADQ4eMVcLzkLR9) | 3:25 |
-| 24 | [You Send Me](https://open.spotify.com/track/4EbIIWf305n1WOJAWEb8cc) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Send Me](https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB) | 8:28 |
+| 23 | [You Send Me](https://open.spotify.com/track/4EbIIWf305n1WOJAWEb8cc) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Send Me](https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB) | 8:28 |
+| 24 | [Dangerous Vibes \- Emmaculate Remix / Edit](https://open.spotify.com/track/59o9HdXbhgQRCzAkDUr3IF) | [Ferry Ultra](https://open.spotify.com/artist/5kbLZCVZhJQ6ARWIZdtfTD), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Emmaculate](https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB) | [Dangerous Vibes](https://open.spotify.com/album/72d5mhtRADQ4eMVcLzkLR9) | 3:25 |
 | 25 | [I Am Your Mind \(Part 2\)](https://open.spotify.com/track/5BeYu3uJAMVZ5oyReLFupf) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Virgin Ubiquity II](https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6) | 8:35 |
 | 26 | [Sunflowers](https://open.spotify.com/track/7ihSVr02gw15lcxPgpWClk) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Roy Ayers JID002](https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G) | 3:01 |
-| 27 | [For Real](https://open.spotify.com/track/5H18pyi8z7yBX7ZUgaqspB) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 3:50 |
-| 28 | [And Don't You Say No](https://open.spotify.com/track/5CMjTh5RhPt5WkvcDvCaqw) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Send Me](https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB) | 3:23 |
-| 29 | [2000 Blacks Got to Be Free \(Edit\)](https://open.spotify.com/track/2n7yrYNPbpBAlFIJvlKfHk) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [2000 Blacks Got to Be Free](https://open.spotify.com/album/28XsGD0agBuKQn3RFKjczf) | 4:53 |
+| 27 | [And Don't You Say No](https://open.spotify.com/track/5CMjTh5RhPt5WkvcDvCaqw) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Send Me](https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB) | 3:23 |
+| 28 | [2000 Blacks Got to Be Free \(Edit\)](https://open.spotify.com/track/2n7yrYNPbpBAlFIJvlKfHk) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [2000 Blacks Got to Be Free](https://open.spotify.com/album/28XsGD0agBuKQn3RFKjczf) | 4:53 |
+| 29 | [For Real](https://open.spotify.com/track/5H18pyi8z7yBX7ZUgaqspB) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 3:50 |
 | 30 | [Shadows of The East](https://open.spotify.com/track/5lZKoCghq9BWOU2i0qX7wk) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Roy Ayers JID002](https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G) | 3:39 |
 | 31 | [Red, Black & Green](https://open.spotify.com/track/5EnsDu3iwxCIGhCFkDUlkY) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Red, Black & Green](https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ) | 4:40 |
 | 32 | [Vibin' W/Ayers](https://open.spotify.com/track/6AgUMpyUJyxj9hFwKezRFf) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Embrace](https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3) | 5:29 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 | 48 | [Poo Poo La La](https://open.spotify.com/track/2oadlkk3BsJyYhqcTU2NCz) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [In The Dark \(Expanded Edition\)](https://open.spotify.com/album/7374P9KcnkgNpxAmNEu5VF) | 6:30 |
 | 49 | [Don't Stop The Feeling](https://open.spotify.com/track/3ZDW6AElGDqEchxoMvFwQ4) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Best Of Roy Ayers](https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp) | 8:15 |
 
-Snapshot ID: `Z9dmAAAAAADCaYvviMz6fY/b/3GUAk/l`
+Snapshot ID: `Z9i3gAAAAAAFDhvE3HjMfhDTvN1m6DPM`

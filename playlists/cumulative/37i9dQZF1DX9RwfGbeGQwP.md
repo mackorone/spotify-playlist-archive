@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,555 songs - 2 day 10 hr 30 min
+1,556 songs - 2 day 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,7 @@
 | [Elevator Vibes](https://open.spotify.com/track/0wIvtei7sFyuvMwG5bRfSo) | [STAY THERE](https://open.spotify.com/artist/169SFNhjiSsCtKYt0APX6r) | [Elevator Vibes](https://open.spotify.com/album/0L2tAWPMwQdUF0fkc6pj8j) | 2:46 | 2022-01-27 | 2022-07-01 |
 | [embrace](https://open.spotify.com/track/4miAtjqI7AnBxamh8HyaT2) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [embrace](https://open.spotify.com/album/0dJqvGo4GcYMOBiN7KLyem) | 2:24 | 2024-10-25 |  |
 | [Emelie](https://open.spotify.com/track/1Bp66dFT8KCbVm6O5eepbT) | [Funshine](https://open.spotify.com/artist/6yrpDCs3th5WzFNyTaC75r) | [Emelie](https://open.spotify.com/album/4PQDbxTg9ZnX4Fus0fTn7L) | 2:34 | 2024-03-22 | 2024-05-14 |
-| [emerald](https://open.spotify.com/track/5Fkt5lUarJRgNryZe1tnxp) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [emerald](https://open.spotify.com/album/1fkqWEWFRQ3koWykujFnZt) | 1:56 | 2024-05-13 |  |
+| [emerald](https://open.spotify.com/track/5Fkt5lUarJRgNryZe1tnxp) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [emerald](https://open.spotify.com/album/1fkqWEWFRQ3koWykujFnZt) | 1:56 | 2024-05-13 | 2025-03-20 |
 | [Emotional Avocado Toast](https://open.spotify.com/track/4HB0WtiZfr4RHFHoZfIsSr) | [Simis Cartwright](https://open.spotify.com/artist/5CBZsBU3HohXRlymLEIubg) | [Emotional Avocado Toast](https://open.spotify.com/album/1jS1ayBHa8WZqyOJpvA9pz) | 2:10 | 2023-05-19 | 2023-11-25 |
 | [empty beach](https://open.spotify.com/track/0Hr5FDoIRS9jLQBSxvLWKB) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [empty beach](https://open.spotify.com/album/2P9oKSKr2LKlEhlYrCPlQx) | 2:33 | 2024-09-27 |  |
 | [Endless](https://open.spotify.com/track/5LEb9xW2hBjv2rBZrFgAQa) | [MAFFYN](https://open.spotify.com/artist/7i6UGI2zH0k1SsPgfFCB1S), [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx) | [Endless](https://open.spotify.com/album/1uI8K2c82bOEfsYB26600K) | 2:42 | 2022-04-08 | 2022-10-15 |
@@ -1014,6 +1014,7 @@
 | [Palm Street Peacock](https://open.spotify.com/track/0LKzWABNL2W8gLCzHrkqkX) | [Mimu](https://open.spotify.com/artist/14vNWnyjy3GInINdHYgDwA) | [Palm Street Peacock](https://open.spotify.com/album/6yz4HQD9zJU5ccRatw4e8i) | 2:24 | 2022-10-08 | 2022-11-24 |
 | [Palm Street Peacock](https://open.spotify.com/track/4qtG2cfdMpsOdsNRcp5SZY) | [Mimu](https://open.spotify.com/artist/14vNWnyjy3GInINdHYgDwA) | [Palm Street Peacock](https://open.spotify.com/album/4Cs9ccHnw4nT0LNDTPLIbp) | 2:24 | 2022-11-11 | 2023-09-22 |
 | [Panama](https://open.spotify.com/track/5elCsWds84Lt8qRcuZ10gl) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Panama](https://open.spotify.com/album/71vfFzms0NqE1AS1W21NQG) | 2:09 | 2022-10-08 | 2023-03-25 |
+| [paper heart](https://open.spotify.com/track/5mF1Gm0Id38mc26iZ2Haox) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [paper heart](https://open.spotify.com/album/2pEXVBeNb6HV4lZQbVhKpB) | 1:57 | 2025-03-14 |  |
 | [parallax](https://open.spotify.com/track/18ePiqButPQMsEst1O9fRT) | [M4YD4Y](https://open.spotify.com/artist/2kx8AVFwczHrxz0PLL25Qt) | [parallax](https://open.spotify.com/album/3HwkVbc6VbvnCUMNCcqXe5) | 1:36 | 2022-09-02 | 2024-05-14 |
 | [Parasol](https://open.spotify.com/track/1M3hnX4CScEvCpdqQU5fvq) | [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH), [Guillaume Muschalle](https://open.spotify.com/artist/43sWO6H2WXUn7HbNPnyG5X), [Thomas Renwick](https://open.spotify.com/artist/7y2KZLuTalW2O80TDZDUQx) | [Parasol](https://open.spotify.com/album/1ng4muFaedYr5inOgD5J2s) | 2:31 | 2022-04-15 | 2022-11-12 |
 | [Parlour](https://open.spotify.com/track/4u5w1JuCYy3taIwsQWlCqc) | [Jake Jurant](https://open.spotify.com/artist/1QzecXC3SU8A1CVqR4oJeD), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Parlour](https://open.spotify.com/album/3psjUfwmdNnCztTJ5qmrYV) | 2:05 | 2022-04-15 | 2022-11-12 |

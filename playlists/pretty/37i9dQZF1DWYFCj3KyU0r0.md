@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFCj3KyU0r0.md) - [plain]
 
 > Focus with nature sounds in the background...
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,095 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,163 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFCj3KyU0r0.md) - [plain]
 | 16 | [Bird\-watching](https://open.spotify.com/track/3dxPEV0XTNkhvAqx790nmo) | [Swedish Forest Birds](https://open.spotify.com/artist/0aW02sXtwKH8TEaJDPvg9N) | [Morning Forest Birds](https://open.spotify.com/album/1g53d39LNzKfa8p1aJhN5B) | 2:58 |
 | 17 | [Oceanic Calmness](https://open.spotify.com/track/15C6LZS1l1ulhDaUe2TbDO) | [Dreams of Dreams](https://open.spotify.com/artist/0KY8omZ7aQCodbxcCNlamA) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 2:00 |
 | 18 | [Bird Chatter In Rainforest](https://open.spotify.com/track/5ZDdbserCXlDm3CY0Yt1bF) | [Natural Awakening](https://open.spotify.com/artist/0c854X9smbUIbXTJLLdya3) | [Rain Awakening](https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc) | 3:18 |
-| 19 | [Moment Of Peace \(Forest Birds\)](https://open.spotify.com/track/1jkmpUX6l6X2irM8oADsYk) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 1](https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q) | 2:34 |
-| 20 | [Bustling River Sounds](https://open.spotify.com/track/5j5HMHeNbSDzVU9eEgZzUI) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:50 |
+| 19 | [Bustling River Sounds](https://open.spotify.com/track/5j5HMHeNbSDzVU9eEgZzUI) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:50 |
+| 20 | [Moment Of Peace \(Forest Birds\)](https://open.spotify.com/track/1jkmpUX6l6X2irM8oADsYk) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 1](https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q) | 2:34 |
 | 21 | [Rain Forest Meditation](https://open.spotify.com/track/1uBwQtsJkaMNcr8uNLsKMF) | [Pinetree Way](https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67) | [Rainmaker](https://open.spotify.com/album/6HnBgCITUNtLIO5flO1ex5) | 3:50 |
 | 22 | [Spring Birds Calling](https://open.spotify.com/track/5JTIydAbaixj7wuulxKbKd) | [Birds On Television](https://open.spotify.com/artist/5vBa5eR4bpuGBiYrXDyN8J) | [Birds Sounds 1](https://open.spotify.com/album/3YhXoFHl3TIYaNpE7bwRth) | 4:23 |
 | 23 | [Nature: Depths of Softness](https://open.spotify.com/track/52HbaYhiH5xewPRQdbEBvB) | [Lush Waves Creators](https://open.spotify.com/artist/35RcJZmoS04TXmOvYWebwE) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 2:20 |
@@ -53,20 +53,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFCj3KyU0r0.md) - [plain]
 | 43 | [Forest Songbirds](https://open.spotify.com/track/2dKHsmhfzawprqv0vmDfDg) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 1](https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q) | 2:52 |
 | 44 | [Gentle Stream Ambience](https://open.spotify.com/track/1FCp5LjTO2YsW9zmQJ7nOk) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Soothing Nature Sounds](https://open.spotify.com/album/6vbXz5ZRueTrOsNwC8pFFv) | 3:05 |
 | 45 | [Soothing River Flow on Rocks](https://open.spotify.com/track/3IXlhcZ7Xt1sQNMXLZb5XR) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [Snowmelt and Rivers for Sleeping](https://open.spotify.com/album/3WomUrOQJWJknkjRYQiMIn) | 4:17 |
-| 46 | [Rain Sensation](https://open.spotify.com/track/2AQyoXB6bKNjNhgg94XGze) | [Au](https://open.spotify.com/artist/7lVHqL3Z1v20q0GLwQkBc5) | [Rainy State](https://open.spotify.com/album/2gtA4fEAhdqMhT6y8KK57W) | 3:28 |
+| 46 | [Birdsong in the Spring Sunshine](https://open.spotify.com/track/27bJQg13LMOE0J52ZhKoso) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Nature Sounds: Total Relaxation](https://open.spotify.com/album/1i9EbDW7l9X23ZJm25sLQg) | 9:59 |
 | 47 | [Light Forest Rain Long](https://open.spotify.com/track/3TOdrkKf8QAZhIdpmU6ebO) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 4:18 |
-| 48 | [Birdsong in the Spring Sunshine](https://open.spotify.com/track/27bJQg13LMOE0J52ZhKoso) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Nature Sounds: Total Relaxation](https://open.spotify.com/album/1i9EbDW7l9X23ZJm25sLQg) | 9:59 |
-| 49 | [Lots Of Birds](https://open.spotify.com/track/5rMSnbkf864tD4lXPmXRAO) | [Mother Earth HD](https://open.spotify.com/artist/2mtvi4kXa2uiaj5Tk5ePYT) | [HD Bird Sounds](https://open.spotify.com/album/0UCVzEgBYRyrVhIdMVQvNi) | 2:38 |
-| 50 | [Calm Waves](https://open.spotify.com/track/77HIe7T6ZFhUELCuyUBB6O) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Seawaves](https://open.spotify.com/album/2i7LfUCCCko8PQpqsiwcB4) | 2:22 |
+| 48 | [Rain Sensation](https://open.spotify.com/track/2AQyoXB6bKNjNhgg94XGze) | [Au](https://open.spotify.com/artist/7lVHqL3Z1v20q0GLwQkBc5) | [Rainy State](https://open.spotify.com/album/2gtA4fEAhdqMhT6y8KK57W) | 3:28 |
+| 49 | [Calm Waves](https://open.spotify.com/track/77HIe7T6ZFhUELCuyUBB6O) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Seawaves](https://open.spotify.com/album/2i7LfUCCCko8PQpqsiwcB4) | 2:22 |
+| 50 | [Lots Of Birds](https://open.spotify.com/track/5rMSnbkf864tD4lXPmXRAO) | [Mother Earth HD](https://open.spotify.com/artist/2mtvi4kXa2uiaj5Tk5ePYT) | [HD Bird Sounds](https://open.spotify.com/album/0UCVzEgBYRyrVhIdMVQvNi) | 2:38 |
 | 51 | [Soft Rain to Focus](https://open.spotify.com/track/1JKfSe2PeDG7GPKnUbZvfn) | [Universe Collectors](https://open.spotify.com/artist/2RavKkz1kkDUEVWjSrLUOu) | [Hypnotic Rain Sounds](https://open.spotify.com/album/2azcIdtzQRkCTHrDiCc3XF) | 3:37 |
 | 52 | [Gentle & Soothing Waves](https://open.spotify.com/track/4tCdxjBYd8FB37Ghzm90xv) | [Natalia Cornell](https://open.spotify.com/artist/4tudTZdoFOJkJqoxf584HK) | [Gentle & Soothing Waves](https://open.spotify.com/album/1O1oCL07H8eaNA9kjKYYRT) | 2:47 |
 | 53 | [Calm Flood At Night](https://open.spotify.com/track/6VkZJJuyt2SLgZWnwaalHo) | [Water Science](https://open.spotify.com/artist/2Zhk6Eu0cTqw9zKlbMl3yv) | [Binaural Water](https://open.spotify.com/album/0xQArU4l4FMn0WhLpQE2GN) | 4:31 |
 | 54 | [Western Ocean Waves](https://open.spotify.com/track/6oGDf7vGsT9Xp2ABRil9ss) | [All Night Chill Makers](https://open.spotify.com/artist/2i0PdFbccjRzAc6ZZPwk5O) | [Nature Sleep](https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG) | 2:44 |
 | 55 | [Rainy River](https://open.spotify.com/track/1Fb4WFrV09zRVT7EMZ0Jm9) | [Mindful Audio](https://open.spotify.com/artist/5oCUHDy7fu07K8dPo2DMNP) | [Waterways](https://open.spotify.com/album/0chQez1VOlWV1lV6hkdmgv) | 2:02 |
-| 56 | [Birdsongs](https://open.spotify.com/track/1fAJhJEdYYXDFGqFnZD6cz) | [Tura Cos](https://open.spotify.com/artist/1HH2hoJuJUgwfa5VTMVGsE) | [Birds Chirping](https://open.spotify.com/album/0pR4wlkLjIbvFvEgKRCjmS) | 2:16 |
-| 57 | [Dream A Little Ocean](https://open.spotify.com/track/53zuMhOcAgFoyiqWTWbAyu) | [Dreams of Dreams](https://open.spotify.com/artist/3ukM0chAmXUoKjdG4evPMZ) | [Ocean Sound Effects](https://open.spotify.com/album/6mKOEeFkctULRUSSvG9p0H) | 2:52 |
-| 58 | [Swedish Ice River Stream](https://open.spotify.com/track/6ybQfDhYT6CDhN9iHHHW0n) | [In The River \(Sound FX\)](https://open.spotify.com/artist/770tI2TiIzK65YohBNGoAU) | [Swedish River Sounds](https://open.spotify.com/album/0henBYTj7A7rqO4OZ4TC7S) | 2:37 |
-| 59 | [Shoreline Surf](https://open.spotify.com/track/5DAUIxWI8mbZKoFSX3hLe2) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Coast of Carmel](https://open.spotify.com/album/2xIw3qo8CTPqCsOSQ8qxVd) | 5:52 |
-| 60 | [Tight Waves Sound Fx](https://open.spotify.com/track/3YBmsELI0u50yQXNeStwpW) | [Sleep Tight](https://open.spotify.com/artist/2ispra7MLmLF7ZqmyaKwQp) | [Nature Sleep](https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG) | 2:51 |
+| 56 | [Tight Waves Sound Fx](https://open.spotify.com/track/3YBmsELI0u50yQXNeStwpW) | [Sleep Tight](https://open.spotify.com/artist/2ispra7MLmLF7ZqmyaKwQp) | [Nature Sleep](https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG) | 2:51 |
+| 57 | [Birdsongs](https://open.spotify.com/track/1fAJhJEdYYXDFGqFnZD6cz) | [Tura Cos](https://open.spotify.com/artist/1HH2hoJuJUgwfa5VTMVGsE) | [Birds Chirping](https://open.spotify.com/album/0pR4wlkLjIbvFvEgKRCjmS) | 2:16 |
+| 58 | [Dream A Little Ocean](https://open.spotify.com/track/53zuMhOcAgFoyiqWTWbAyu) | [Dreams of Dreams](https://open.spotify.com/artist/3ukM0chAmXUoKjdG4evPMZ) | [Ocean Sound Effects](https://open.spotify.com/album/6mKOEeFkctULRUSSvG9p0H) | 2:52 |
+| 59 | [Swedish Ice River Stream](https://open.spotify.com/track/6ybQfDhYT6CDhN9iHHHW0n) | [In The River \(Sound FX\)](https://open.spotify.com/artist/770tI2TiIzK65YohBNGoAU) | [Swedish River Sounds](https://open.spotify.com/album/0henBYTj7A7rqO4OZ4TC7S) | 2:37 |
+| 60 | [Shoreline Surf](https://open.spotify.com/track/5DAUIxWI8mbZKoFSX3hLe2) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Coast of Carmel](https://open.spotify.com/album/2xIw3qo8CTPqCsOSQ8qxVd) | 5:52 |
 
 Snapshot ID: `Z7SlyAAAAACP+xO2SQapkB2B9+Ph9M4D`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9CLqcbJJD9.md) - [plain]
 
 > Celebrate World Sleep Day with this collection of peaceful tracks, in partnership with the World Sleep Society.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,503 likes - 91 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,508 likes - 91 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9CLqcbJJD9.md) - [plain]
 | 21 | [Haku](https://open.spotify.com/track/2Loapjv5junRhxXNiKWkQR) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Haku](https://open.spotify.com/album/5KybeNN5Esqa3YMVBvEzYA) | 2:42 |
 | 22 | [Dream Portal](https://open.spotify.com/track/2FU9QfWfWMCCeqynRdaT8N) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq) | [Dream Portal](https://open.spotify.com/album/683e7MjKmpyzrjwJULbsFk) | 5:19 |
 | 23 | [Yume](https://open.spotify.com/track/1kylGBRyKAmYoOvO48ZT1D) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq) | [Yume](https://open.spotify.com/album/2wXETaKscF3XL8ADFC3Oe6) | 4:25 |
-| 24 | [Daydream in Camelot \(feat\. Peter Gregson\)](https://open.spotify.com/track/3rWD9w6Dbfshlz70J7u7TR) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg), [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Legends, Myths and Lavender \(Complete\)](https://open.spotify.com/album/254J8TogsWOIqBoC2kMhHS) | 2:51 |
+| 24 | [A Daydream in Camelot \(feat\. Peter Gregson\)](https://open.spotify.com/track/3rWD9w6Dbfshlz70J7u7TR) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg), [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Legends, Myths and Lavender \(Complete\)](https://open.spotify.com/album/254J8TogsWOIqBoC2kMhHS) | 2:51 |
 | 25 | [Sleeping Giant](https://open.spotify.com/track/25eqZdqLgzZF8MvC35ystO) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Sleeping Giant](https://open.spotify.com/album/4dNSttydBS9agnNwPScLyG) | 3:01 |
 | 26 | [Ravel Reimagined \(After Pavane pour une infante défunte, M\. 19\)](https://open.spotify.com/track/2U311rpsKcaZEgK8qMoYxN) | [Robin Scherpen](https://open.spotify.com/artist/1TdPxYtoLp647KzdfCXr96), [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY) | [Ravel Reimagined \(After Pavane pour une infante défunte, M\. 19\)](https://open.spotify.com/album/2v1fbClqJmWyjPeZL1mDh6) | 3:20 |
 | 27 | [In Another Place \- Sleep Rework](https://open.spotify.com/track/5M8w7r6m9YgXEic6crG1Zv) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [Where We Are \(Sleep Reworks\)](https://open.spotify.com/album/6eSz5qCizOj4zgHABqXIjw) | 4:42 |

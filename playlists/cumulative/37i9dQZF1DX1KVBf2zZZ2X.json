@@ -1445,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Garden Suite #1 (Birds)",
+        "url": "https://open.spotify.com/album/523HXHTCCd8HuZY7dyf0l5"
+      },
+      "artists": [
+        {
+          "name": "Mind Gardener",
+          "url": "https://open.spotify.com/artist/3cYm4kOmJnp5qRslUjwjhP"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Garden Suite #1 (Birds)",
+      "url": "https://open.spotify.com/track/3tG0GoNdGyG42ktp3fRzeH"
+    },
+    {
+      "album": {
         "name": "Giardino Di Corde",
         "url": "https://open.spotify.com/album/68jzD6LRy7YFOXvrlnGpDR"
       },
@@ -2435,6 +2453,24 @@
     },
     {
       "album": {
+        "name": "Panorama Sky",
+        "url": "https://open.spotify.com/album/6f7mYP43UkkoHAHYPvRRYw"
+      },
+      "artists": [
+        {
+          "name": "Willow Skies",
+          "url": "https://open.spotify.com/artist/7vD3hGQ6SFDLUy0i4UDirc"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172528,
+      "name": "Panorama Sky",
+      "url": "https://open.spotify.com/track/7l17NcC5dUhh2ZnYHUCcoA"
+    },
+    {
+      "album": {
         "name": "Anza Trail Soundwalk",
         "url": "https://open.spotify.com/album/0r0kniPp7rZPRahBAKZTY3"
       },
@@ -2486,6 +2522,24 @@
       "duration_ms": 162000,
       "name": "Passing",
       "url": "https://open.spotify.com/track/2tVrAzePSMl6GtO0dZENG8"
+    },
+    {
+      "album": {
+        "name": "Peaceful Oasis",
+        "url": "https://open.spotify.com/album/6iM47rcVv5oeECBmoqgjDP"
+      },
+      "artists": [
+        {
+          "name": "Harlow Moss",
+          "url": "https://open.spotify.com/artist/1sVm3d1J0iADPftVNfTdBE"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Peaceful Oasis",
+      "url": "https://open.spotify.com/track/31DnMj7hs5zUQcT82WSfil"
     },
     {
       "album": {
@@ -2644,7 +2698,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 152272,
       "name": "Rays of Sunshine",
       "url": "https://open.spotify.com/track/44mxjw5BP9Oj9pJBOZmLUV"
@@ -3083,6 +3137,24 @@
     },
     {
       "album": {
+        "name": "Slow Movements",
+        "url": "https://open.spotify.com/album/5t8ByF8UIhPkcwQLnorDGN"
+      },
+      "artists": [
+        {
+          "name": "Collected Dreams",
+          "url": "https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Slow Movements",
+      "url": "https://open.spotify.com/track/4JLOW2vdfnrbVOxsLEyhBD"
+    },
+    {
+      "album": {
         "name": "Softly Now",
         "url": "https://open.spotify.com/album/5OTMoERWAiQY8bPzs31wxJ"
       },
@@ -3166,7 +3238,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 138139,
       "name": "Song Of The Willow",
       "url": "https://open.spotify.com/track/2qauTYzfcc16QprcwV8put"
@@ -3238,7 +3310,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 210500,
       "name": "Sunflower Spring",
       "url": "https://open.spotify.com/track/56BvbwFPV24ABrFPtcoxwM"
@@ -3472,7 +3544,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 152000,
       "name": "Through the Clouds",
       "url": "https://open.spotify.com/track/0Fvy8Nrds4DbW4OCqbktfu"

@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1596837,
+  "num_followers": 1596964,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -907,26 +907,6 @@
     {
       "added_at": "2025-03-14 04:00:07",
       "album": {
-        "name": "Ray Of Solar (Mau P Remix)",
-        "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Ray Of Solar - Mau P Remix",
-      "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
-    },
-    {
-      "added_at": "2025-03-14 04:00:07",
-      "album": {
         "name": "Blur",
         "url": "https://open.spotify.com/album/4t4GnmNhwlpHCDWshyg1Xr"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 178849,
       "name": "Blur",
       "url": "https://open.spotify.com/track/73iwLiAtgpNMu5DeRD7Jph"
+    },
+    {
+      "added_at": "2025-03-14 04:00:07",
+      "album": {
+        "name": "Ray Of Solar (Mau P Remix)",
+        "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 251428,
+      "name": "Ray Of Solar - Mau P Remix",
+      "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
     },
     {
       "added_at": "2025-03-14 04:00:07",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2025-03-14 04:00:07",
       "album": {
+        "name": "Bloom At Night",
+        "url": "https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 199047,
+      "name": "Bloom At Night",
+      "url": "https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6"
+    },
+    {
+      "added_at": "2025-03-14 04:00:07",
+      "album": {
         "name": "U&ME",
         "url": "https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq"
       },
@@ -1023,18 +1039,22 @@
     {
       "added_at": "2025-03-14 04:00:07",
       "album": {
-        "name": "Bloom At Night",
-        "url": "https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj"
+        "name": "Blue Symphony",
+        "url": "https://open.spotify.com/album/6n7gP0fXV4kDGAEGwJ0xpv"
       },
       "artists": [
         {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
         }
       ],
-      "duration_ms": 199047,
-      "name": "Bloom At Night",
-      "url": "https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6"
+      "duration_ms": 203225,
+      "name": "Blue Symphony",
+      "url": "https://open.spotify.com/track/6YztQYF4h3cqtF8rNcVWM5"
     },
     {
       "added_at": "2025-03-14 04:00:07",
@@ -1055,22 +1075,22 @@
     {
       "added_at": "2025-03-14 04:00:07",
       "album": {
-        "name": "Blue Symphony",
-        "url": "https://open.spotify.com/album/6n7gP0fXV4kDGAEGwJ0xpv"
+        "name": "Biochemical",
+        "url": "https://open.spotify.com/album/1oNttAQgPEuS0NfPsdWhaS"
       },
       "artists": [
         {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+          "name": "Seth Hills",
+          "url": "https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7"
         }
       ],
-      "duration_ms": 203225,
-      "name": "Blue Symphony",
-      "url": "https://open.spotify.com/track/6YztQYF4h3cqtF8rNcVWM5"
+      "duration_ms": 163809,
+      "name": "Biochemical",
+      "url": "https://open.spotify.com/track/7nlK1F6iJ3Aih70YkltfJS"
     },
     {
       "added_at": "2025-03-14 04:00:07",
@@ -1119,22 +1139,22 @@
     {
       "added_at": "2025-03-14 04:00:07",
       "album": {
-        "name": "Biochemical",
-        "url": "https://open.spotify.com/album/1oNttAQgPEuS0NfPsdWhaS"
+        "name": "I'm On Fire",
+        "url": "https://open.spotify.com/album/4ELroC43JOrpddiZrIzAnF"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
         },
         {
-          "name": "Seth Hills",
-          "url": "https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7"
+          "name": "James French",
+          "url": "https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues"
         }
       ],
-      "duration_ms": 163809,
-      "name": "Biochemical",
-      "url": "https://open.spotify.com/track/7nlK1F6iJ3Aih70YkltfJS"
+      "duration_ms": 232607,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/1KIbfDi4qkolOx7Vwps33a"
     },
     {
       "added_at": "2025-03-14 04:00:07",
@@ -1159,22 +1179,22 @@
     {
       "added_at": "2025-03-14 04:00:07",
       "album": {
-        "name": "I'm On Fire",
-        "url": "https://open.spotify.com/album/4ELroC43JOrpddiZrIzAnF"
+        "name": "Somebody To Love",
+        "url": "https://open.spotify.com/album/0H4wuU2aIXCZJCSL2E5y8W"
       },
       "artists": [
         {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+          "name": "YOTTO",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
         },
         {
-          "name": "James French",
-          "url": "https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues"
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
         }
       ],
-      "duration_ms": 232607,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/1KIbfDi4qkolOx7Vwps33a"
+      "duration_ms": 230487,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/6SPWJ9hUFMA69MaGwUsRJi"
     },
     {
       "added_at": "2025-03-14 04:00:07",
@@ -1347,18 +1367,46 @@
     {
       "added_at": "2025-03-14 04:00:07",
       "album": {
-        "name": "IT MIGHT BE THE DRUGS",
-        "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
+        "name": "Wherever You Go",
+        "url": "https://open.spotify.com/album/4Ej2MKE2tZvLyFiD4XaUHT"
       },
       "artists": [
         {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        },
+        {
+          "name": "B Jones",
+          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
+        },
+        {
+          "name": "Eke",
+          "url": "https://open.spotify.com/artist/2nVW87xBOKOyAO3kXRjCNw"
         }
       ],
-      "duration_ms": 219892,
-      "name": "IT MIGHT BE THE DRUGS",
-      "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
+      "duration_ms": 197272,
+      "name": "Wherever You Go",
+      "url": "https://open.spotify.com/track/1EbzSgAawjmMdC4onsVj3Q"
+    },
+    {
+      "added_at": "2025-03-14 04:00:07",
+      "album": {
+        "name": "Friend Of Mine",
+        "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        },
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Friend Of Mine",
+      "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
     },
     {
       "added_at": "2025-03-14 04:00:07",
@@ -1391,6 +1439,22 @@
     {
       "added_at": "2025-03-14 04:00:07",
       "album": {
+        "name": "IT MIGHT BE THE DRUGS",
+        "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        }
+      ],
+      "duration_ms": 219892,
+      "name": "IT MIGHT BE THE DRUGS",
+      "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
+    },
+    {
+      "added_at": "2025-03-14 04:00:07",
+      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/2eFptiwMZ9ecBP0EQ2A0xN"
       },
@@ -1407,26 +1471,6 @@
       "duration_ms": 329318,
       "name": "With You",
       "url": "https://open.spotify.com/track/79uf4T9oqDNjPKd8eCKtha"
-    },
-    {
-      "added_at": "2025-03-14 04:00:07",
-      "album": {
-        "name": "Friend Of Mine",
-        "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        },
-        {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Friend Of Mine",
-      "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
     },
     {
       "added_at": "2025-03-14 04:00:07",
@@ -1507,26 +1551,6 @@
       "duration_ms": 205440,
       "name": "Easy",
       "url": "https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR"
-    },
-    {
-      "added_at": "2025-03-14 04:00:07",
-      "album": {
-        "name": "Somebody To Love",
-        "url": "https://open.spotify.com/album/0H4wuU2aIXCZJCSL2E5y8W"
-      },
-      "artists": [
-        {
-          "name": "YOTTO",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 230487,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/6SPWJ9hUFMA69MaGwUsRJi"
     },
     {
       "added_at": "2025-03-14 04:00:07",
@@ -1679,22 +1703,6 @@
     {
       "added_at": "2025-03-14 04:00:07",
       "album": {
-        "name": "Pretoria",
-        "url": "https://open.spotify.com/album/05tbS23ZFVmITyuwgFWFvO"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 207840,
-      "name": "Pretoria",
-      "url": "https://open.spotify.com/track/5ViijhC2983J1B8Bo1wbbo"
-    },
-    {
-      "added_at": "2025-03-14 04:00:07",
-      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/0r55E05K16FLF3pFe4qlL5"
       },
@@ -1707,6 +1715,22 @@
       "duration_ms": 207638,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/4Ba1bjL3Qa6QB0RYdjUc2k"
+    },
+    {
+      "added_at": "2025-03-14 04:00:07",
+      "album": {
+        "name": "Pretoria",
+        "url": "https://open.spotify.com/album/05tbS23ZFVmITyuwgFWFvO"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 207840,
+      "name": "Pretoria",
+      "url": "https://open.spotify.com/track/5ViijhC2983J1B8Bo1wbbo"
     },
     {
       "added_at": "2025-03-14 04:00:07",
@@ -1755,30 +1779,6 @@
       "duration_ms": 191250,
       "name": "I\u2019ll Be There",
       "url": "https://open.spotify.com/track/21w8Ns4eTUnr3j2f4t6ICL"
-    },
-    {
-      "added_at": "2025-03-14 04:00:07",
-      "album": {
-        "name": "Wherever You Go",
-        "url": "https://open.spotify.com/album/4Ej2MKE2tZvLyFiD4XaUHT"
-      },
-      "artists": [
-        {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
-        },
-        {
-          "name": "B Jones",
-          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
-        },
-        {
-          "name": "Eke",
-          "url": "https://open.spotify.com/artist/2nVW87xBOKOyAO3kXRjCNw"
-        }
-      ],
-      "duration_ms": 197272,
-      "name": "Wherever You Go",
-      "url": "https://open.spotify.com/track/1EbzSgAawjmMdC4onsVj3Q"
     },
     {
       "added_at": "2025-03-14 04:00:07",
@@ -1919,30 +1919,6 @@
     {
       "added_at": "2025-03-14 04:00:07",
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        }
-      ],
-      "duration_ms": 245538,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
-    },
-    {
-      "added_at": "2025-03-14 04:00:07",
-      "album": {
         "name": "Cheating Heart",
         "url": "https://open.spotify.com/album/271Fs3TKtlAL9d7H5OMrtn"
       },
@@ -1963,6 +1939,30 @@
       "duration_ms": 220952,
       "name": "Cheating Heart",
       "url": "https://open.spotify.com/track/3PxsFDOgkVFphkop92aeXs"
+    },
+    {
+      "added_at": "2025-03-14 04:00:07",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 245538,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
     },
     {
       "added_at": "2025-03-14 04:00:07",

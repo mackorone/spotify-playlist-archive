@@ -2119,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "Em Sintonia (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/4etUK377JH3G9YZEgEEwt6"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Neto & Frederico",
+          "url": "https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173856,
+      "name": "Saudade do Caramba - Ao Vivo",
+      "url": "https://open.spotify.com/track/7knOtdRwbbvP55B6KB2xvv"
+    },
+    {
+      "album": {
         "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
         "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
       },
@@ -2170,7 +2188,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 165102,
       "name": "Show Fechou",
       "url": "https://open.spotify.com/track/5TNhSOkUrdJ0TkIa2GqjeH"

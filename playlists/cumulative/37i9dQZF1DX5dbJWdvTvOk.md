@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-777 songs - 1 day 9 hr 7 min
+779 songs - 1 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Barefoot Again](https://open.spotify.com/track/6bd8i923aA2lavpzd7YbIu) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Barefoot Again](https://open.spotify.com/album/7bxvPmLbLvLwArNY4bJz3J) | 3:30 | 2022-07-15 | 2022-11-18 |
 | [Bastiments](https://open.spotify.com/track/1B3c71jCiMtb2CIpkzT2a7) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Núria](https://open.spotify.com/album/35xNbujDkw7WI2064N4L53) | 2:56 | 2023-02-24 | 2023-04-22 |
 | [Beautiful symbol](https://open.spotify.com/track/0Sc485nvujwCllSECRF2sT) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Beautiful symbol](https://open.spotify.com/album/0Kd5h9Eqr1B0RclDkHK8UJ) | 2:19 | 2023-04-21 |  |
+| [Beautiful Österlen](https://open.spotify.com/track/31cyfFC7eSZunaGwYcJlEb) | [Bill Soeder](https://open.spotify.com/artist/2QZ8GuCD39JBAgRSlZHhhn) | [Beautiful Österlen](https://open.spotify.com/album/44Y4YhLSDk4mjDOc9Rb9Ir) | 1:56 | 2025-03-18 |  |
 | [Beber](https://open.spotify.com/track/6zdOx3LZzFC2N8sktS9Q9d) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [Beber](https://open.spotify.com/album/3cY2rn8DBLUH2JCI4w15km) | 4:13 | 2022-07-15 | 2023-04-22 |
 | [Before The Tide](https://open.spotify.com/track/2EA0USkLuQoDCZhOl73g25) | [Solomon Davis](https://open.spotify.com/artist/1UsbAYI6GPRqkeH7BEWkBl) | [Before The Tide](https://open.spotify.com/album/7bHzqhTmGGfDNvYHEFQQGi) | 2:37 | 2023-04-21 | 2025-01-15 |
 | [Before We Go](https://open.spotify.com/track/1I6l7jb9XihT5gUtXx9xA5) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 2:49 | 2024-02-02 |  |
@@ -106,7 +107,7 @@
 | [Bridget](https://open.spotify.com/track/1CzlEQSK6Pd2MHmt2YjH4u) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Salt Cliffs](https://open.spotify.com/album/0byOZ3iz1KSGHzfXFIgSjO) | 3:00 | 2022-07-15 | 2023-04-22 |
 | [Brookline](https://open.spotify.com/track/4jXvLe7ERO8yIYETDZGU0m) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Farewell Summer](https://open.spotify.com/album/3S24lJTMp9qizsxmVHBdKW) | 3:11 | 2023-04-21 | 2024-08-21 |
 | [By Myself but Not Alone](https://open.spotify.com/track/3Um3kj4lrIubR86Y81qCWj) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [By Myself but Not Alone](https://open.spotify.com/album/4kBBI0yalDHd0QQ6MW6hb2) | 4:05 | 2022-07-15 | 2022-10-29 |
-| [By the Hour](https://open.spotify.com/track/1feJUG6eBlaxsogKjFMKzv) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [By the Hour](https://open.spotify.com/album/1j4eDrQJoyWFuop21WWjrd) | 3:09 | 2024-07-19 |  |
+| [By the Hour](https://open.spotify.com/track/1feJUG6eBlaxsogKjFMKzv) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [By the Hour](https://open.spotify.com/album/1j4eDrQJoyWFuop21WWjrd) | 3:09 | 2024-07-19 | 2025-03-20 |
 | [By your Bedside](https://open.spotify.com/track/24Z0ctP962NKQuYgyv6L4D) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [By your Bedside](https://open.spotify.com/album/4SBb617xCyvHfu7I5R59J3) | 1:49 | 2023-04-21 | 2023-08-26 |
 | [Bésame Mucho](https://open.spotify.com/track/0WlaFDGrsRstbIF44eWLVP) | [Javier Van Velthoven](https://open.spotify.com/artist/4rUmg0lEB3QIm4OpxiTxoZ) | [Bésame Mucho](https://open.spotify.com/album/0Fr2ZGB1zrWW6RRjSajNtn) | 3:11 | 2022-07-15 | 2022-07-29 |
 | [Cadiz](https://open.spotify.com/track/7GlGgZVvEI5oCpZGrEWyKN) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Cadiz](https://open.spotify.com/album/16WtMA3bkNFXtvTzdL9su3) | 3:05 | 2022-07-15 | 2024-04-06 |
@@ -540,7 +541,7 @@
 | [Rays in March](https://open.spotify.com/track/0dpDf1nbYcYhSDQLamQc2V) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Rays in March](https://open.spotify.com/album/6GWqI97c528sSrMwxIxnf1) | 2:15 | 2023-04-21 | 2024-11-07 |
 | [Reflected Dreams](https://open.spotify.com/track/4fn4Jx7ZrBn6r4h3vkGrkN) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Reflected Dreams](https://open.spotify.com/album/3ANuuSDn9UeoeTTqaEYGwZ) | 2:09 | 2025-03-05 |  |
 | [Remaining Link](https://open.spotify.com/track/3THjDQSoQoBoeqT71CdUeG) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Remaining Link](https://open.spotify.com/album/0BEE1YWLyPm6kFnVEL9LN9) | 2:18 | 2024-02-02 | 2024-11-07 |
-| [Reminiscent Of Us](https://open.spotify.com/track/1CyUDJ44PxxDxKyNcS9n9H) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Reminiscent Of Us](https://open.spotify.com/album/7GZ9cChnV0Z267BDz8n4sg) | 2:33 | 2023-04-21 |  |
+| [Reminiscent Of Us](https://open.spotify.com/track/1CyUDJ44PxxDxKyNcS9n9H) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Reminiscent Of Us](https://open.spotify.com/album/7GZ9cChnV0Z267BDz8n4sg) | 2:33 | 2023-04-21 | 2025-03-20 |
 | [Renacer](https://open.spotify.com/track/5RLG9xOJEFTjZjhmwWul7L) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Renacer](https://open.spotify.com/album/3bZKCf0hvKE8fj3ZgGlRlU) | 2:28 | 2023-04-21 | 2024-04-20 |
 | [Repos profond](https://open.spotify.com/track/0FEsDGbGZ6lYqITAot0zeN) | [Pascal Desprez](https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW) | [Repos profond](https://open.spotify.com/album/5zZlYMoFYienIwLSKEHqUp) | 2:44 | 2023-04-21 |  |
 | [Resolve](https://open.spotify.com/track/6YKeEQOMBRxrv9kY5A4pON) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Resolve](https://open.spotify.com/album/7CFTnTVuiu6Bz3iupotMsN) | 2:40 | 2024-03-29 |  |
@@ -679,6 +680,7 @@
 | [The Bells Of Rhymney](https://open.spotify.com/track/4uL4pjAWKhOaS9uetXHyp7) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [The Bells Of Rhymney](https://open.spotify.com/album/5tyKJQSus9jKR43yGAiasJ) | 1:58 | 2023-04-21 | 2023-08-26 |
 | [The Bloomer Stars](https://open.spotify.com/track/4d4w8iA84Zvsf0TtyrDqpZ) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [The Bloomer Stars](https://open.spotify.com/album/6zdqiQXuoGXKt5FlJDowmq) | 2:39 | 2023-12-15 |  |
 | [The Distant Echo](https://open.spotify.com/track/7dRtgpbpGUqOOQir25wm02) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [The Distant Echo](https://open.spotify.com/album/5xdr7fV5vsaLMgi8PArvGP) | 1:42 | 2023-04-21 | 2023-06-03 |
+| [The Dreamer](https://open.spotify.com/track/4JeCz2VmJDfpdw5nJUg7kV) | [J\. Kahnberg](https://open.spotify.com/artist/2aLfgyCUwAWVDqwmtjyJxs) | [The Dreamer](https://open.spotify.com/album/1MWZ3bhElou5DzdnnjnKVs) | 2:21 | 2025-03-18 |  |
 | [The Flower](https://open.spotify.com/track/1DvaEFXZrWjBL7mLe1EEDo) | [Ashton Foster](https://open.spotify.com/artist/6lleSq8jhlTKsIH0GeGSM4) | [The Flower](https://open.spotify.com/album/7JOxzs00yBfKsr2ORbtbFJ) | 2:36 | 2024-10-01 |  |
 | [The Game Changer](https://open.spotify.com/track/35CHmzwJtxFaX2jrTwxvSS) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [The Game Changer](https://open.spotify.com/album/1aRdcDtkN2qlomNDagQ85C) | 2:26 | 2024-10-23 |  |
 | [The Hidden Valley](https://open.spotify.com/track/4R7b5uuUvxvER6JksVLDWi) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [The Hidden Valley](https://open.spotify.com/album/3I5xEp9VFZkL52a0DbRKUs) | 2:37 | 2022-12-09 | 2023-04-22 |

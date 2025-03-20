@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,291 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,355 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 4 | [Bilder im Kopf](https://open.spotify.com/track/3AzVdNe7tCYbjjRzQyVLbN) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [\#Beste](https://open.spotify.com/album/0J2IVb7kZRvOsiB30wsViE) | 3:58 |
 | 5 | [Hurra die Welt geht unter](https://open.spotify.com/track/3NIDOSThELMihLSOMZcL4k) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05), [Henning May](https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay) | [Hurra die Welt geht unter](https://open.spotify.com/album/7uclLfIIEvq0Bz46QP6FWY) | 4:44 |
 | 6 | [Chabos wissen wer der Babo ist](https://open.spotify.com/track/6kjBafSuYC8gClzfYu7T1t) | [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [Chabos wissen wer der Babo ist](https://open.spotify.com/album/3qUVVgfr2GzcDukgYVr10T) | 2:19 |
-| 7 | [Schwarz zu blau](https://open.spotify.com/track/1Fjz0ME9pzk553wH86m3ZZ) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI) | [Stadtaffe](https://open.spotify.com/album/6cEVfMd0XVocPbRrYkVY5H) | 3:35 |
-| 8 | [Nullkommaneun](https://open.spotify.com/track/3cLXgIlvugVKpWBmO5v9oy) | [SSIO](https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2) | [0,9 \(Deluxe Version\)](https://open.spotify.com/album/6tXpsYFPFHpbKXWpovbtFs) | 3:52 |
+| 7 | [Nullkommaneun](https://open.spotify.com/track/3cLXgIlvugVKpWBmO5v9oy) | [SSIO](https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2) | [0,9 \(Deluxe Version\)](https://open.spotify.com/album/6tXpsYFPFHpbKXWpovbtFs) | 3:52 |
+| 8 | [Schwarz zu blau](https://open.spotify.com/track/1Fjz0ME9pzk553wH86m3ZZ) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI) | [Stadtaffe](https://open.spotify.com/album/6cEVfMd0XVocPbRrYkVY5H) | 3:35 |
 | 9 | [Rhythmus meines Lebens](https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Die John Bello Story, Vol\. 3](https://open.spotify.com/album/5CF8sggi5aUSptomzuGzQB) | 3:16 |
 | 10 | [Palmen aus Plastik](https://open.spotify.com/track/6wHRm1KR8pzVDPdmR6Qovj) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Palmen aus Plastik](https://open.spotify.com/album/1L8yTtYjg4JhfN7Aa6bqmN) | 3:04 |
 | 11 | [Oh Jonny](https://open.spotify.com/track/1IivtUqnUfW9jH3pM08D8U) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Wir Kinder vom Bahnhof Soul \(Re\-Release\)](https://open.spotify.com/album/7MrA7kNLED6TooTm9uxH2i) | 3:39 |

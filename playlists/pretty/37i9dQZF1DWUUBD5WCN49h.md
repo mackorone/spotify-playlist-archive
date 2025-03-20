@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Ru\. & Magixx
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,350 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,358 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 73 | [You & Me](https://open.spotify.com/track/18I3rpK2S7RaYR4bj51Q3f) | [Chisim](https://open.spotify.com/artist/0ZXxpFOyjQPBEDYj6BXPfL) | [You & Me](https://open.spotify.com/album/1GDz2GV0QoWL43QoDe8TC7) | 2:43 |
 | 74 | [Runaway](https://open.spotify.com/track/7MhwICkzmhuWWdsNn082c8) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Seyyoh](https://open.spotify.com/artist/28Olo730ChJyyW7acJkW3h) | [In Pursuit Of Happiness](https://open.spotify.com/album/7cR90I8NPn64HTVjcDHQpb) | 2:39 |
 | 75 | [Rappel](https://open.spotify.com/track/7CjR90qslGmLW5dsnaKZay) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Rappel](https://open.spotify.com/album/5lo9NrxVfWLQLcQ9D8WAaX) | 2:27 |
-| 76 | [Lunar](https://open.spotify.com/track/6bHV4iO0DXXAHyFmUmzcqj) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [Wave Montega](https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs) | [Lunar](https://open.spotify.com/album/1qmty3wUm6sjsdFuXZk4fI) | 2:37 |
+| 76 | [Lunar](https://open.spotify.com/track/6bHV4iO0DXXAHyFmUmzcqj) | [TÖME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [Wave Montega](https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs) | [Lunar](https://open.spotify.com/album/1qmty3wUm6sjsdFuXZk4fI) | 2:37 |
 | 77 | [Lose My Mind](https://open.spotify.com/track/1QLqOORXtH6mdXI5lEEjg3) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM) | [Lose My Mind](https://open.spotify.com/album/2TRDihrw7kDXw7Gu5mrJ7E) | 3:31 |
 | 78 | [Beg For It](https://open.spotify.com/track/62toM9v7NsspHYCfaudxHZ) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Beg For It](https://open.spotify.com/album/1BinKRne8TTTTp8PHojN8l) | 2:53 |
 | 79 | [Light](https://open.spotify.com/track/6dYa2veuV3Kam5Ihxl5Oyj) | [Dayan Dww](https://open.spotify.com/artist/7tso6CumywuoEX7c2ZBHUW), [Ajesings](https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF) | [Light](https://open.spotify.com/album/3l3ZbjQCe01SZKSwi1eRB7) | 2:54 |

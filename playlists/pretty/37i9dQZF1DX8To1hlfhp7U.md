@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 
 > Get ready for a full\-body workout
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,120 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,140 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 | 45 | [Black & White](https://open.spotify.com/track/5wiSbeDm2p5yniuus7eH4J) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:46 |
 | 46 | [Panjeban](https://open.spotify.com/track/5UpDw777uj0nvw6dtDRjw7) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Panjeban](https://open.spotify.com/album/05IH45QvIWWy7g77Cd9uzB) | 3:20 |
 | 47 | [Drivery](https://open.spotify.com/track/0FM03KSpwsiW8i8OUmqI0D) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Drivery](https://open.spotify.com/album/2cGxd3OOROZQYmSG4mEMI9) | 3:03 |
-| 48 | [High Rated Gabru](https://open.spotify.com/track/60uVumQU74E83X5dbLHKhN) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Manj Musik](https://open.spotify.com/artist/7IVzXMMN7fFi7PXxPhXcAB) | [High Rated Gabru](https://open.spotify.com/album/6S1g0Jx3X8AWKopRZJsgBb) | 3:33 |
+| 48 | [Baddlan De Kaalje \(From "Chal Mera Putt" Soundtrack\)](https://open.spotify.com/track/4zxFqGMNVDcU6wGSVnveDy) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Baddlan De Kaalje \(From "Chal Mera Putt" Soundtrack\)](https://open.spotify.com/album/0UUv0LvI9q5axEJXTMiNqO) | 3:18 |
 | 49 | [Nachan Nu Jee Karda \(From "Angrezi Medium"\)](https://open.spotify.com/track/2zQeAeH3q0K7U2AWEcVOsF) | [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Tigerstyle](https://open.spotify.com/artist/5DPXmKUA7F5ZKDNww9jWIS) | [Nachan Nu Jee Karda \(From "Angrezi Medium"\)](https://open.spotify.com/album/0GrVV09R7votIjQBpBLwLC) | 2:47 |
-| 50 | [Baddlan De Kaalje \(From "Chal Mera Putt" Soundtrack\)](https://open.spotify.com/track/4zxFqGMNVDcU6wGSVnveDy) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Baddlan De Kaalje \(From "Chal Mera Putt" Soundtrack\)](https://open.spotify.com/album/0UUv0LvI9q5axEJXTMiNqO) | 3:18 |
+| 50 | [High Rated Gabru](https://open.spotify.com/track/60uVumQU74E83X5dbLHKhN) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Manj Musik](https://open.spotify.com/artist/7IVzXMMN7fFi7PXxPhXcAB) | [High Rated Gabru](https://open.spotify.com/album/6S1g0Jx3X8AWKopRZJsgBb) | 3:33 |
 
 Snapshot ID: `Z9fU4QAAAADHEIB9RNwBO1OuvJSt+uI5`

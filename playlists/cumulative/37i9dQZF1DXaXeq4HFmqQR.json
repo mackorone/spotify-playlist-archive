@@ -3099,6 +3099,24 @@
     },
     {
       "album": {
+        "name": "Albor",
+        "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "date_added": "2025-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232925,
+      "name": "clara",
+      "url": "https://open.spotify.com/track/6fN4wNWNm3QmlC3EJp7mib"
+    },
+    {
+      "album": {
         "name": "Cr\u00f3nicas de un cora roto",
         "url": "https://open.spotify.com/album/0FfnQ5pL5KLaJIkZOkzfV2"
       },
@@ -15812,7 +15830,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 177000,
       "name": "S\u00e1banas Azules",
       "url": "https://open.spotify.com/track/6JCOJrfEqOjojTpiOejhA3"

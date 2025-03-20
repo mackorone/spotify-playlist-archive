@@ -4,7 +4,7 @@
 
 > Way 2 Slizzy\. Click into the feed to learn all about the movement\. Cover: Cash Cobain
 
-105 songs - 4 hr 56 min
+107 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Dunk Contest](https://open.spotify.com/track/4GP9jcPbHlpu9v1lezfi8V) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Dunk Contest](https://open.spotify.com/album/3b9qtBH7FdyWcTSHS0ThdF) | 3:16 | 2025-02-28 |  |
 | [EST or PST](https://open.spotify.com/track/3KqQMOSEFNfPZ3FAYLld3I) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [EST or PST](https://open.spotify.com/album/7faGHQHOhuK5nhJVR6CavI) | 3:05 | 2024-10-25 |  |
 | [FAVORITE LADY \(with NAV & Cash Cobain\)](https://open.spotify.com/track/4DCvMCGfSBMoNwvpKqtCpt) | [Diany Dior](https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [FAVORITE LADY \(with NAV & Cash Cobain\)](https://open.spotify.com/album/78adtlPeGeYd1Am0o9dNz7) | 3:24 | 2024-10-25 |  |
+| [Fight For Love \(with STAR BANDZ\)](https://open.spotify.com/track/6HQznanOMMtCmRMK0YjNz5) | [Lil king](https://open.spotify.com/artist/0CzagEF5LurOMRf4aUqBBe), [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [Fight For Love \(with STAR BANDZ\)](https://open.spotify.com/album/05783EQnZMI0cEmRdJLUEa) | 2:09 | 2025-03-19 |  |
 | [FINE SHIT](https://open.spotify.com/track/79mFFAOYcG8ZF6AN1JecAL) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 1:46 | 2025-03-17 |  |
 | [finsta](https://open.spotify.com/track/6NTMbHwbNGst9dlSIMTL9J) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [finsta / bia](https://open.spotify.com/album/38qPytt8dq096j0s9M6l7Q) | 2:40 | 2024-11-06 |  |
 | [Fisherrr \- Remix](https://open.spotify.com/track/1rrV4ymf3Tp3xuLgB4zCRN) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Fisherrr \(Remix\)](https://open.spotify.com/album/12MvGwLQqtkCUCMw0IsAyz) | 3:55 | 2024-10-25 |  |
@@ -107,6 +108,7 @@
 | [uhm...ok?](https://open.spotify.com/track/3gwnqlmnZXeqWuhT5IvZLY) | [ilham](https://open.spotify.com/artist/0r7PsZB4ePA6vHrW4agoGN) | [uhm...ok?](https://open.spotify.com/album/2kuLKC6HTgItE8sNylV02f) | 2:15 | 2024-10-25 |  |
 | [Unruly](https://open.spotify.com/track/1VKYPniaKiiZqfNfJXCpq8) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Unruly](https://open.spotify.com/album/1nIu9Bw2e4xQBrYFx8XEsY) | 2:57 | 2024-10-25 |  |
 | [Us vs Them](https://open.spotify.com/track/0lmypbWmfuFdxVhq9N95hv) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Us vs Them](https://open.spotify.com/album/0FG0BmMgabNW3UGesOFmeE) | 2:03 | 2024-12-13 |  |
+| [wait a while' \(tenten\)](https://open.spotify.com/track/4lgTWetZXDVqF2vQm2RCTC) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [wait a while' \(tenten\)](https://open.spotify.com/album/5nYCpm7idneKM9CZ7Prdf6) | 2:02 | 2025-03-19 |  |
 | [Want Somebody](https://open.spotify.com/track/2eHFKaj0BzRqxYH5IgljkR) | [M Row](https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG), [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [Mr\. Maneuver](https://open.spotify.com/album/5YqPZvNG59SukCPWxvqAGR) | 2:57 | 2024-12-20 |  |
 | [What is you on](https://open.spotify.com/track/3kj1dmC5aUiSL55jzKZRRo) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [On my way!](https://open.spotify.com/album/3rWjzYdAQ9re4QkndcDvQE) | 2:39 | 2025-02-21 |  |
 | [Worldwide Sniper](https://open.spotify.com/track/2l5eJalX3GYBBddwe9dFb9) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Worldwide Sniper](https://open.spotify.com/album/2kaGYEPSczvb7UzFlKYMOT) | 2:03 | 2024-10-25 |  |

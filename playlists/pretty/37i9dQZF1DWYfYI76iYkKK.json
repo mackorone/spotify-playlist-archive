@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 128663,
+  "num_followers": 128669,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2025-03-13 16:00:12",
       "album": {
+        "name": "Hai Cheng",
+        "url": "https://open.spotify.com/album/0pvUzcbKZAlIQYrbaVRLXb"
+      },
+      "artists": [
+        {
+          "name": "THE 8",
+          "url": "https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk"
+        }
+      ],
+      "duration_ms": 232426,
+      "name": "Hai Cheng",
+      "url": "https://open.spotify.com/track/3kBfE92drjZEgYffx22zbl"
+    },
+    {
+      "added_at": "2025-03-13 16:00:12",
+      "album": {
         "name": "\u9019\u689d\u5c0f\u9b5a\u5728\u4e4e",
         "url": "https://open.spotify.com/album/0dpedZx4halLI4OQZLdj2j"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 271211,
       "name": "\u9019\u689d\u5c0f\u9b5a\u5728\u4e4e",
       "url": "https://open.spotify.com/track/6oakdtkmSLIvpurMVU0q5x"
-    },
-    {
-      "added_at": "2025-03-13 16:00:12",
-      "album": {
-        "name": "Hai Cheng",
-        "url": "https://open.spotify.com/album/0pvUzcbKZAlIQYrbaVRLXb"
-      },
-      "artists": [
-        {
-          "name": "THE 8",
-          "url": "https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk"
-        }
-      ],
-      "duration_ms": 232426,
-      "name": "Hai Cheng",
-      "url": "https://open.spotify.com/track/3kBfE92drjZEgYffx22zbl"
     },
     {
       "added_at": "2025-03-13 16:00:12",
@@ -259,22 +259,6 @@
     {
       "added_at": "2025-03-13 16:00:12",
       "album": {
-        "name": "\u8327Jian",
-        "url": "https://open.spotify.com/album/7w8cW1IqQCo8xKhXmG6313"
-      },
-      "artists": [
-        {
-          "name": "Wang OK",
-          "url": "https://open.spotify.com/artist/21QQNTzqULHjiaDKaZepRP"
-        }
-      ],
-      "duration_ms": 199282,
-      "name": "\u8327Jian",
-      "url": "https://open.spotify.com/track/5AtzX2REgyt6hgduniGMZX"
-    },
-    {
-      "added_at": "2025-03-13 16:00:12",
-      "album": {
         "name": "\u5de6\u908a\u7684\u4eba",
         "url": "https://open.spotify.com/album/4J9l1jwAMA1M6rQ1qb2MVq"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 241893,
       "name": "\u6c7a\u5b9a\u4e0d\u60f3\u4f60",
       "url": "https://open.spotify.com/track/5Ps2mIW2fcPJRsNw5HGdd6"
+    },
+    {
+      "added_at": "2025-03-13 16:00:12",
+      "album": {
+        "name": "\u8327Jian",
+        "url": "https://open.spotify.com/album/7w8cW1IqQCo8xKhXmG6313"
+      },
+      "artists": [
+        {
+          "name": "Wang OK",
+          "url": "https://open.spotify.com/artist/21QQNTzqULHjiaDKaZepRP"
+        }
+      ],
+      "duration_ms": 199282,
+      "name": "\u8327Jian",
+      "url": "https://open.spotify.com/track/5AtzX2REgyt6hgduniGMZX"
     },
     {
       "added_at": "2025-03-13 16:00:12",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-03-13 16:00:12",
       "album": {
-        "name": "\u7f3a",
-        "url": "https://open.spotify.com/album/01TGWmnonLEk9NAG9k9dxK"
-      },
-      "artists": [
-        {
-          "name": "NeciKen",
-          "url": "https://open.spotify.com/artist/2LzIV2DbLNmH0DG89BNbD6"
-        }
-      ],
-      "duration_ms": 330500,
-      "name": "\u7f3a",
-      "url": "https://open.spotify.com/track/0VxWA8MdEly682d4mC5zzD"
-    },
-    {
-      "added_at": "2025-03-13 16:00:12",
-      "album": {
         "name": "\u8f38\u60c5\u6b4c",
         "url": "https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV"
       },
@@ -471,18 +455,34 @@
     {
       "added_at": "2025-03-13 16:00:12",
       "album": {
-        "name": "\u59b3\u600e\u9ebc\u60f3",
-        "url": "https://open.spotify.com/album/5U8w9QWK8oGA224uNcSCWz"
+        "name": "\u7f3a",
+        "url": "https://open.spotify.com/album/01TGWmnonLEk9NAG9k9dxK"
       },
       "artists": [
         {
-          "name": "\u5b89\u6ea5",
-          "url": "https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I"
+          "name": "NeciKen",
+          "url": "https://open.spotify.com/artist/2LzIV2DbLNmH0DG89BNbD6"
         }
       ],
-      "duration_ms": 288255,
-      "name": "\u59b3\u600e\u9ebc\u60f3",
-      "url": "https://open.spotify.com/track/5MYIT6NlEaWxdeOkElUJH8"
+      "duration_ms": 330500,
+      "name": "\u7f3a",
+      "url": "https://open.spotify.com/track/0VxWA8MdEly682d4mC5zzD"
+    },
+    {
+      "added_at": "2025-03-13 16:00:12",
+      "album": {
+        "name": "\u7b49\u5f85\u4f60\u90a3\u5929",
+        "url": "https://open.spotify.com/album/5UqskmXa3TihM95voWWhTw"
+      },
+      "artists": [
+        {
+          "name": "\u5442\u5141",
+          "url": "https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9"
+        }
+      ],
+      "duration_ms": 240285,
+      "name": "\u7b49\u5f85\u4f60\u90a3\u5929",
+      "url": "https://open.spotify.com/track/7EXbutggsR2KP5klyOZeE0"
     },
     {
       "added_at": "2025-03-13 16:00:12",
@@ -519,18 +519,18 @@
     {
       "added_at": "2025-03-13 16:00:12",
       "album": {
-        "name": "\u7b49\u5f85\u4f60\u90a3\u5929",
-        "url": "https://open.spotify.com/album/5UqskmXa3TihM95voWWhTw"
+        "name": "\u59b3\u600e\u9ebc\u60f3",
+        "url": "https://open.spotify.com/album/5U8w9QWK8oGA224uNcSCWz"
       },
       "artists": [
         {
-          "name": "\u5442\u5141",
-          "url": "https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9"
+          "name": "\u5b89\u6ea5",
+          "url": "https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I"
         }
       ],
-      "duration_ms": 240285,
-      "name": "\u7b49\u5f85\u4f60\u90a3\u5929",
-      "url": "https://open.spotify.com/track/7EXbutggsR2KP5klyOZeE0"
+      "duration_ms": 288255,
+      "name": "\u59b3\u600e\u9ebc\u60f3",
+      "url": "https://open.spotify.com/track/5MYIT6NlEaWxdeOkElUJH8"
     },
     {
       "added_at": "2025-03-13 16:00:12",
@@ -775,18 +775,18 @@
     {
       "added_at": "2025-03-13 16:00:12",
       "album": {
-        "name": "\u4eba\u751f\uff0c\u8d77\u8d77\u843d\u843d\u843d\u843d\u843d\uff1f",
-        "url": "https://open.spotify.com/album/5cvhqXc6Za217p7SsOHLZW"
+        "name": "\u7fd2\u6163\u5f8c\u5c31\u5225\u8aaa\u75db\u4e86",
+        "url": "https://open.spotify.com/album/1MIKDnwDgu4B74rZkF7nrl"
       },
       "artists": [
         {
-          "name": "Firdhaus",
-          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+          "name": "\u674e\u82b7\u5a77",
+          "url": "https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs"
         }
       ],
-      "duration_ms": 176673,
-      "name": "\u5b89",
-      "url": "https://open.spotify.com/track/66U2Iisy3G5fXWeWXMJCvP"
+      "duration_ms": 232984,
+      "name": "\u7fd2\u6163\u5f8c\u5c31\u5225\u8aaa\u75db\u4e86",
+      "url": "https://open.spotify.com/track/43U1WsvhsRjldPfFgWfj5e"
     },
     {
       "added_at": "2025-03-13 16:00:12",
@@ -807,18 +807,18 @@
     {
       "added_at": "2025-03-13 16:00:12",
       "album": {
-        "name": "\u8b0e\u4e4b\u97f3",
-        "url": "https://open.spotify.com/album/2TIXF4ADwIn1t97SLCrXUp"
+        "name": "\u4eba\u751f\uff0c\u8d77\u8d77\u843d\u843d\u843d\u843d\u843d\uff1f",
+        "url": "https://open.spotify.com/album/5cvhqXc6Za217p7SsOHLZW"
       },
       "artists": [
         {
-          "name": "Pets Tseng",
-          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
         }
       ],
-      "duration_ms": 301666,
-      "name": "\u600e\u9ebc\u80fd\u9019\u6a23",
-      "url": "https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f"
+      "duration_ms": 176673,
+      "name": "\u5b89",
+      "url": "https://open.spotify.com/track/66U2Iisy3G5fXWeWXMJCvP"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

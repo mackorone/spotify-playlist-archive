@@ -1,13 +1,97 @@
 {
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Eleonora Strino. Artwork: Joy Yamusangie.",
-  "num_followers": 233105,
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: PANTERA BLUE. Artwork: Joy Yamusangie.",
+  "num_followers": 233250,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8hmQQAAAABsWJiqnBSCDGmMSjAwt14d",
+  "snapshot_id": "Z9rETwAAAADyfY7QfHzy2st8Bsc9k48r",
   "tracks": [
+    {
+      "added_at": "2025-03-19 13:19:11",
+      "album": {
+        "name": "The Sun Song (Precious Energy)",
+        "url": "https://open.spotify.com/album/34CGlYugBENoeQ6eCvMdWV"
+      },
+      "artists": [
+        {
+          "name": "Tyreek McDole",
+          "url": "https://open.spotify.com/artist/4CaP7lMH3pQeY7YboZJu7T"
+        }
+      ],
+      "duration_ms": 255173,
+      "name": "The Sun Song (Precious Energy)",
+      "url": "https://open.spotify.com/track/14XtWs8A52pLTz6YBvwKam"
+    },
+    {
+      "added_at": "2025-03-19 13:19:11",
+      "album": {
+        "name": "Anticuada",
+        "url": "https://open.spotify.com/album/0vpGrf7OtmgtCOvxWjcyEv"
+      },
+      "artists": [
+        {
+          "name": "PANTERA BLUE",
+          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
+        }
+      ],
+      "duration_ms": 102381,
+      "name": "no fui yo",
+      "url": "https://open.spotify.com/track/7asOvkIjiglWJJjKb8ATE4"
+    },
+    {
+      "added_at": "2025-03-19 13:19:11",
+      "album": {
+        "name": "Long Haul",
+        "url": "https://open.spotify.com/album/4RKq9aivzmCWQjYvLRE2zv"
+      },
+      "artists": [
+        {
+          "name": "Nitecap",
+          "url": "https://open.spotify.com/artist/53GLdZwW98q3178jrRHogu"
+        },
+        {
+          "name": "Jarrod Lawson",
+          "url": "https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f"
+        }
+      ],
+      "duration_ms": 203097,
+      "name": "Long Haul",
+      "url": "https://open.spotify.com/track/0oMl6aKPlzJzJohrl3emdf"
+    },
+    {
+      "added_at": "2025-03-19 13:19:11",
+      "album": {
+        "name": "Neotangos (Live)",
+        "url": "https://open.spotify.com/album/5dXxtvq6h9LYqZIXXwxWJP"
+      },
+      "artists": [
+        {
+          "name": "Juanma Montoya",
+          "url": "https://open.spotify.com/artist/2rOyqzZaAF6mzygluomSl1"
+        }
+      ],
+      "duration_ms": 222477,
+      "name": "Neotangos - Live",
+      "url": "https://open.spotify.com/track/4UGho5nfcuR6omIGOU8jFA"
+    },
+    {
+      "added_at": "2025-03-19 13:19:11",
+      "album": {
+        "name": "Black Narcissus",
+        "url": "https://open.spotify.com/album/0ndjIQnhBP8JfJSbrrC203"
+      },
+      "artists": [
+        {
+          "name": "Knats",
+          "url": "https://open.spotify.com/artist/0l2OFUKz7eXLlPfO1LrGt7"
+        }
+      ],
+      "duration_ms": 242647,
+      "name": "Black Narcissus",
+      "url": "https://open.spotify.com/track/4YAsfWfrzGvBIi3GXX3WyM"
+    },
     {
       "added_at": "2025-03-05 14:57:05",
       "album": {
@@ -491,22 +575,6 @@
     {
       "added_at": "2025-01-15 05:00:02",
       "album": {
-        "name": "Rumba(r)",
-        "url": "https://open.spotify.com/album/42faMSqL06xDBFbTT93zBo"
-      },
-      "artists": [
-        {
-          "name": "Knats",
-          "url": "https://open.spotify.com/artist/0l2OFUKz7eXLlPfO1LrGt7"
-        }
-      ],
-      "duration_ms": 300986,
-      "name": "Rumba(r)",
-      "url": "https://open.spotify.com/track/4xecNO1ykcnioZqveMgKvt"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
         "name": "Letting Go of Forever",
         "url": "https://open.spotify.com/album/6l3t6AkKUCJU2Zdk9g5aCj"
       },
@@ -839,142 +907,6 @@
     {
       "added_at": "2025-01-15 05:00:02",
       "album": {
-        "name": "It's All Happening",
-        "url": "https://open.spotify.com/album/1TX8nK3HbY2Wdk7FyAF7pF"
-      },
-      "artists": [
-        {
-          "name": "Sun Dog",
-          "url": "https://open.spotify.com/artist/5jNgNVcMrjn4Vdkqf7SzSf"
-        },
-        {
-          "name": "Jimi Tenor",
-          "url": "https://open.spotify.com/artist/69H6uUTI29XBzQXV1d3A7D"
-        },
-        {
-          "name": "Petri Kautto",
-          "url": "https://open.spotify.com/artist/12OKfkYtOvRzuWmPe7Qjiv"
-        }
-      ],
-      "duration_ms": 320038,
-      "name": "It's All Happening",
-      "url": "https://open.spotify.com/track/2uSWVj0giIMN4d2zyxvBdP"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
-        "name": "METAMORPHOSIS",
-        "url": "https://open.spotify.com/album/0Co7Rd7jsgw51YGrYEIZgN"
-      },
-      "artists": [
-        {
-          "name": "TAMMIE",
-          "url": "https://open.spotify.com/artist/6jRwwKnIyUB02nBzse5T4B"
-        }
-      ],
-      "duration_ms": 153447,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/4DQdGqH4aek5FKT6YHIM06"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/2UTmTwsirD3WVwdnsDhqAZ"
-      },
-      "artists": [
-        {
-          "name": "Sam Redmore",
-          "url": "https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6"
-        }
-      ],
-      "duration_ms": 278377,
-      "name": "Pride",
-      "url": "https://open.spotify.com/track/0CewzhlflrnWa7Vd0V6okf"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
-        "name": "Resemblance",
-        "url": "https://open.spotify.com/album/53VCDjLyjPHroGXFAS1ZgS"
-      },
-      "artists": [
-        {
-          "name": "Emiliano Lasansky",
-          "url": "https://open.spotify.com/artist/5H9mRyNtdbnJ9L0mAD2egh"
-        }
-      ],
-      "duration_ms": 400920,
-      "name": "Resemblance",
-      "url": "https://open.spotify.com/track/5e6QY9L8oQW8qaajKXLci9"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
-        "name": "Returning Flights",
-        "url": "https://open.spotify.com/album/248IMMpgrzoyA52WRQmnWU"
-      },
-      "artists": [
-        {
-          "name": "Cassette Heads",
-          "url": "https://open.spotify.com/artist/2ScbHy5G91WOUepPUagisf"
-        },
-        {
-          "name": "Marius Max",
-          "url": "https://open.spotify.com/artist/7ygCBdW9Lv5ujtijgMhUCs"
-        }
-      ],
-      "duration_ms": 315250,
-      "name": "Returning Flights",
-      "url": "https://open.spotify.com/track/5elcq6v9siKwXQURtFsZys"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
-        "name": "Lifescape",
-        "url": "https://open.spotify.com/album/2MNDC5RYGbzZb0s6yzJ4VL"
-      },
-      "artists": [
-        {
-          "name": "Taka Nawashiro",
-          "url": "https://open.spotify.com/artist/4vpy3zfDYYedH3KuT2l68c"
-        }
-      ],
-      "duration_ms": 307186,
-      "name": "Kobune",
-      "url": "https://open.spotify.com/track/2M1BHPPX9QEHxvT43t2eVO"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
-        "name": "12.12",
-        "url": "https://open.spotify.com/album/6CHa5ms7aZyr1Ka9d5G7rg"
-      },
-      "artists": [
-        {
-          "name": "Neus Plana Turu",
-          "url": "https://open.spotify.com/artist/7JmZSqSZO30fDYwJvBWNdz"
-        },
-        {
-          "name": "Carles Font Turon",
-          "url": "https://open.spotify.com/artist/19XlO4FlzZvD3RApdrNiL7"
-        },
-        {
-          "name": "Pablo Donaire",
-          "url": "https://open.spotify.com/artist/3Y2PPN4bLkAZ7z4171ByVN"
-        },
-        {
-          "name": "Antonio Parraguez Rodriguez",
-          "url": "https://open.spotify.com/artist/2C8xrGthoxmR0Na2AfwlPy"
-        }
-      ],
-      "duration_ms": 222173,
-      "name": "Vida",
-      "url": "https://open.spotify.com/track/1X5yBk0KdFqaa9btFOtg9e"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
         "name": "Birdgang, Pt. II",
         "url": "https://open.spotify.com/album/3yzVAvoG8f0ekZdDkk6JlT"
       },
@@ -1035,54 +967,6 @@
       "duration_ms": 578426,
       "name": "Jump Start",
       "url": "https://open.spotify.com/track/4gkydZOKiJCSBD0fR5BTDL"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
-        "name": "Amanita",
-        "url": "https://open.spotify.com/album/5DhJepIh1fdqygxbjsTnD8"
-      },
-      "artists": [
-        {
-          "name": "Cinnamon Gum",
-          "url": "https://open.spotify.com/artist/7IHYKEfIucsNRkp6ge657X"
-        }
-      ],
-      "duration_ms": 208990,
-      "name": "Amanita",
-      "url": "https://open.spotify.com/track/60yEgi6Y5iT8VJTuEWFzJT"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
-        "name": "LOVE CAME SO EASILY",
-        "url": "https://open.spotify.com/album/1srXTat2QuIrACT3ilvTla"
-      },
-      "artists": [
-        {
-          "name": "SISICA",
-          "url": "https://open.spotify.com/artist/6ZxNkk8ek1Ho5qNxnYNH9D"
-        }
-      ],
-      "duration_ms": 184076,
-      "name": "LOVE CAME SO EASILY",
-      "url": "https://open.spotify.com/track/5XgHLkdBZ2Fjbmc8FgoFoK"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/4ucbW3lPaRUVUewPWB3Ig2"
-      },
-      "artists": [
-        {
-          "name": "alici",
-          "url": "https://open.spotify.com/artist/3xwrVmAg320G7DzTPkhOjX"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0PSF6VyKJCCGWWb8wF4i72"
     }
   ],
   "unique_name": "Fresh Finds Jazz",

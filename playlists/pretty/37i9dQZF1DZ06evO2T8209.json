@@ -1,12 +1,12 @@
 {
   "description": "This is Tyler, The Creator. The essential tracks, all in one playlist.",
-  "num_followers": 692631,
+  "num_followers": 692931,
   "original_name": "This Is Tyler, The Creator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAACKUHzp4J/e6UlRqhP1i9bU",
+  "snapshot_id": "Z9i3gAAAAAClrQpzAGUX2a9NY8d7gQzn",
   "tracks": [
     {
       "added_at": null,
@@ -879,22 +879,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Know NIGO!",
-        "url": "https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS"
+        "name": "Wolf",
+        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
       },
       "artists": [
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Nigo",
-          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
         }
       ],
-      "duration_ms": 199500,
-      "name": "Come On, Let's Go (with Nigo)",
-      "url": "https://open.spotify.com/track/6f44p3Kc4ayD9VtbC9Clkr"
+      "duration_ms": 195320,
+      "name": "Cowboy",
+      "url": "https://open.spotify.com/track/2hjjUjikOa29kImnI5kQPw"
     },
     {
       "added_at": null,
@@ -935,6 +931,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Know NIGO!",
+        "url": "https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Nigo",
+          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Come On, Let's Go (with Nigo)",
+      "url": "https://open.spotify.com/track/6f44p3Kc4ayD9VtbC9Clkr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wolf",
         "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
       },
@@ -942,11 +958,19 @@
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Coco O.",
+          "url": "https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 195320,
-      "name": "Cowboy",
-      "url": "https://open.spotify.com/track/2hjjUjikOa29kImnI5kQPw"
+      "duration_ms": 180213,
+      "name": "Treehome95 (feat. Coco O. & Erykah Badu)",
+      "url": "https://open.spotify.com/track/2vLwhcsvRd1f2ETft1kWDN"
     },
     {
       "added_at": null,
@@ -979,30 +1003,6 @@
       "duration_ms": 249333,
       "name": "Yonkers",
       "url": "https://open.spotify.com/track/1nwkSqzTyXBk6XF796EOav"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wolf",
-        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Coco O.",
-          "url": "https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 180213,
-      "name": "Treehome95 (feat. Coco O. & Erykah Badu)",
-      "url": "https://open.spotify.com/track/2vLwhcsvRd1f2ETft1kWDN"
     }
   ],
   "unique_name": "This Is Tyler, The Creator",

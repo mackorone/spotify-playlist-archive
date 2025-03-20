@@ -12705,6 +12705,24 @@
     },
     {
       "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/1aWRrrDnXEjAp43VTP6W8Z"
+      },
+      "artists": [
+        {
+          "name": "Sides of the Sun",
+          "url": "https://open.spotify.com/artist/2DKXVfUseu9jhQ66Rt7Rb4"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186046,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/5Cka1qQJWHok6KbEwY1FEm"
+    },
+    {
+      "album": {
         "name": "Fool For Love (Chris Lake Edit)",
         "url": "https://open.spotify.com/album/4kCcxdrbnQUJmWjvYoYVRf"
       },

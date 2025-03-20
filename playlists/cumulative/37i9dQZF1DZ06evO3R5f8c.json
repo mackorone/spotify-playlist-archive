@@ -743,6 +743,32 @@
     },
     {
       "album": {
+        "name": "Happy Day (Remix)",
+        "url": "https://open.spotify.com/album/5wo6UOtgUUbs5JuGNs9Wxm"
+      },
+      "artists": [
+        {
+          "name": "Jo Carlos",
+          "url": "https://open.spotify.com/artist/20uAC0gihyM94CpMA5F5zA"
+        },
+        {
+          "name": "DJ ANUNNAKI",
+          "url": "https://open.spotify.com/artist/3A6wZyGMZVXRuAglmzTCqm"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129750,
+      "name": "Happy Day - Remix",
+      "url": "https://open.spotify.com/track/7KNEobclCZ59sF3CqrABZ0"
+    },
+    {
+      "album": {
         "name": "Horizon Red (Black Coffee Remix)",
         "url": "https://open.spotify.com/album/31LCf0hztvBsdB0HB5T2TC"
       },
@@ -1452,7 +1478,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 508266,
       "name": "Never Saw You Coming (feat. Tsepo) - DJ Spinna Galactic Vocal Mix",
       "url": "https://open.spotify.com/track/12NDXliaBBgklpBNkUlyVI"

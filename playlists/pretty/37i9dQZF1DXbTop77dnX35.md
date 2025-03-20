@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Davido, Ruger, Chappell Roan   and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,358 likes - 69 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,410 likes - 69 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 2 | [Toro \- A COLORS SHOW](https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Toro \- A COLORS SHOW](https://open.spotify.com/album/04VbzJIXJCG2AZ3j4at6by) | 3:14 |
 | 3 | [FLAKO](https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [FLAKO](https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX) | 2:54 |
 | 4 | [Like Home \(feat\. Teni\)](https://open.spotify.com/track/5qyE13iTDWNHUvs4eZHhgT) | [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [Like Home \(feat\. Teni\)](https://open.spotify.com/album/1ZU1iHIFaN92OK2Pc1Oah4) | 3:18 |
-| 5 | [Iyanu](https://open.spotify.com/track/2vVtf4WoiXXU5MhJw0JHuA) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Iyanu](https://open.spotify.com/album/5Ujy1ZcmvbCAgP4Vux11ux) | 2:32 |
+| 5 | [You are](https://open.spotify.com/track/2vVtf4WoiXXU5MhJw0JHuA) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [You are](https://open.spotify.com/album/5Ujy1ZcmvbCAgP4Vux11ux) | 2:32 |
 | 6 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 |
 | 7 | [247](https://open.spotify.com/track/73QW0R1GUPpsRe2aBwkHhR) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN), [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK) | [247](https://open.spotify.com/album/06C6RolgHPTQkDjilqsGHN) | 3:25 |
 | 8 | [Good Girl \(Evandy Girl\)](https://open.spotify.com/track/0S7PJaI9wUdua6uafHV9Xh) | [DJ Vyrusky](https://open.spotify.com/artist/20uZPZ6EXItffkdLevoEdV), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Shaker](https://open.spotify.com/artist/5I1G1MSxXh3zrZsVZCPzZj) | [Good Girl \(Evandy Girl\)](https://open.spotify.com/album/0qP1Ep1na1g15udNUiIXOo) | 2:09 |

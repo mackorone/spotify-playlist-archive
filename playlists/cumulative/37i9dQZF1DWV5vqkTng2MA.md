@@ -4,7 +4,7 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Marcus King
 
-297 songs - 17 hr 50 min
+298 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Good Together](https://open.spotify.com/track/1WhKc5DGuabpiPgZ9c375T) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Good Together](https://open.spotify.com/album/0h5oGdKMLQchyJljb7Q0Qk) | 3:21 | 2024-03-01 |  |
 | [Got Soul](https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL) | 3:32 | 2022-02-11 |  |
 | [Hands on the Radio](https://open.spotify.com/track/0S1NJoM1JHfd2x9Orm2j2G) | [The Weeks](https://open.spotify.com/artist/3zE5jV6Uw9hhdWCXM8hS3j) | [Hands on the Radio](https://open.spotify.com/album/08noPcSJhhNl1KayiNivkS) | 3:32 | 2021-10-01 |  |
-| [Hang My Head in Shame](https://open.spotify.com/track/7lxHif999XHcMA3ER65kBy) | [Pete Molinari](https://open.spotify.com/artist/4BrRTXokeSeCxUuJcZYq57), [Barrie Cadogan](https://open.spotify.com/artist/43hBfQ8nPDcugjA8L6w1iy) | [Theosophy](https://open.spotify.com/album/1Uiz1myYQrTrmUrwZDQAhs) | 3:45 | 2024-09-06 |  |
+| [Hang My Head in Shame](https://open.spotify.com/track/7lxHif999XHcMA3ER65kBy) | [Pete Molinari](https://open.spotify.com/artist/4BrRTXokeSeCxUuJcZYq57), [Barrie Cadogan](https://open.spotify.com/artist/43hBfQ8nPDcugjA8L6w1iy) | [Theosophy](https://open.spotify.com/album/1Uiz1myYQrTrmUrwZDQAhs) | 3:45 | 2024-09-06 | 2025-03-20 |
 | [Hello Miss Lonesome](https://open.spotify.com/track/0BcPWBAYXbYP6QvoOVGiU8) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Marlon Williams](https://open.spotify.com/album/4YZFCwN1KJOYs6bdm3aKhI) | 3:15 | 2021-10-01 | 2022-07-29 |
 | [Hello Miss Lonesome](https://open.spotify.com/track/3es2LSvwTtmC42XoBtNabh) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Marlon Williams](https://open.spotify.com/album/6zyHtPo88NOvkXW749yGwU) | 3:15 | 2022-08-02 | 2022-11-13 |
 | [Here You Come Again \(with Max Abrams\)](https://open.spotify.com/track/2YLLW5WnSLXgYbChmaP2kJ) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O), [Max Abrams](https://open.spotify.com/artist/5nniLGuXKnrlNZHQ2VaTD9) | [Here You Come Again \(with Max Abrams\)](https://open.spotify.com/album/71a6eZrAINJtg9PXcp7cWb) | 3:30 | 2024-04-19 |  |
@@ -107,6 +107,7 @@
 | [Hey Mama](https://open.spotify.com/track/5KlVIOeSrcVTZoasODK3W5) | [Great Caesar](https://open.spotify.com/artist/4R2xkQL6chRRTgUQ1Xgaf1) | [Hey Mama](https://open.spotify.com/album/1E8uKGrYVGpNb7cGRg62ma) | 3:13 | 2024-03-01 |  |
 | [Highway Vagabond](https://open.spotify.com/track/1m6un0uWcRlNcJHBQ1lKAo) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 3:53 | 2022-06-01 | 2024-04-19 |
 | [Highway Vagabond](https://open.spotify.com/track/49UUfxpZ5b8COpc23EIaFH) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Highway Vagabond](https://open.spotify.com/album/0Dxl5n9oECHhrlPnStv2jY) | 3:53 | 2021-10-01 | 2022-06-01 |
+| [Hold](https://open.spotify.com/track/0sLgdA4a3ReEK5xoBJAndM) | [Ali Angel](https://open.spotify.com/artist/0RPW9rpDMyVD4wEMzvd1RG), [Tyler Ballgame](https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK) | [Hold](https://open.spotify.com/album/6TvnRqPEqYn938EHeBWvyh) | 4:21 | 2025-03-19 |  |
 | [Holly](https://open.spotify.com/track/3YYmCD8ERuxyMu6GDhWDQF) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Holly](https://open.spotify.com/album/1Q2XIzf9j68gTi9MuY4fwD) | 2:43 | 2021-10-01 | 2022-07-29 |
 | [Honest Man](https://open.spotify.com/track/0KRBAOHg8LuG07fF2jrsrK) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Honest Man](https://open.spotify.com/album/4syDqjDLtyOd7T70QkUQ60) | 3:32 | 2021-10-01 | 2022-07-27 |
 | [Housebroken Man](https://open.spotify.com/track/3BLFRn1bObTn2E9WQB8cBI) | [Quiet Life](https://open.spotify.com/artist/13MdjUqnWNyfY4qKYQ9OPl), [Cary Ann Hearst](https://open.spotify.com/artist/2Fwqnm1kpxK4BZgWrsG5qm) | [Housebroken Man](https://open.spotify.com/album/5OGTvU4mhKMfoUkajeA0De) | 3:46 | 2021-10-01 | 2022-03-09 |

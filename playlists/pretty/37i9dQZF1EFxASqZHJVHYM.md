@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fwYfqYEDWu9UNfljA4NID">OZ</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,379 likes - 132 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,380 likes - 132 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 117 | [Prized Possession \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/4dxenGUpWzBiFPwHq7dx10) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 3:41 |
 | 118 | [Die In It](https://open.spotify.com/track/7l0ZJgT7qivX45J0D9fgKf) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [RSS2](https://open.spotify.com/album/2IfA1yfK7cw3nEOGsadYGd) | 2:40 |
 | 119 | [Something I'm Not](https://open.spotify.com/track/2BSU3Sh8K5Jc9CwHkMTgGX) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 3:17 |
-| 120 | [Head Tap \(feat\. Tee Grizzley\)](https://open.spotify.com/track/15oUNnj8unqJJlbYbH1dAs) | [Don Q](https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Don Talk](https://open.spotify.com/album/3DZBQwtLEZSiuWXYAjLdbZ) | 3:09 |
-| 121 | [NEW LIFE](https://open.spotify.com/track/2q1UohI917QXdb0YiLWHzy) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [LOVE MY LIFE](https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y) | 2:35 |
+| 120 | [NEW LIFE](https://open.spotify.com/track/2q1UohI917QXdb0YiLWHzy) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [LOVE MY LIFE](https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y) | 2:35 |
+| 121 | [Head Tap \(feat\. Tee Grizzley\)](https://open.spotify.com/track/15oUNnj8unqJJlbYbH1dAs) | [Don Q](https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Don Talk](https://open.spotify.com/album/3DZBQwtLEZSiuWXYAjLdbZ) | 3:09 |
 | 122 | [An manchen Tagen](https://open.spotify.com/track/1dDfYa4z5wI5f4FRVHntPE) | [Nazar](https://open.spotify.com/artist/1hMzMy5THp7jWnMRC0rU36) | [Fakker Lifestyle \(Special Version\)](https://open.spotify.com/album/1BAxhUqy15dEizKBEs26Uv) | 3:24 |
 | 123 | [Blasphemy](https://open.spotify.com/track/2Z3XXP7ibSjci6X3Ka44E0) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [Blasphemy](https://open.spotify.com/album/5c04iQtkacRr05igSQg46z) | 2:50 |
 | 124 | [winter in atlanta \(feat\. Russ\)](https://open.spotify.com/track/1WpLR5d5anuE61EwlT6da8) | [NJOMZA](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [winter in atlanta \(feat\. Russ\)](https://open.spotify.com/album/0RhMMo9vL1J97K3dB8ZlxC) | 2:34 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 131 | [Mephisto](https://open.spotify.com/track/4AmPvjhwKHeBRX9KGLuLWc) | [Nazar](https://open.spotify.com/artist/1hMzMy5THp7jWnMRC0rU36) | [Fakker Lifestyle \(Special Version\)](https://open.spotify.com/album/1BAxhUqy15dEizKBEs26Uv) | 3:21 |
 | 132 | [Know Better](https://open.spotify.com/track/17E27S9wzfX2PlGZdq5SiE) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:50 |
 
-Snapshot ID: `AbsadAAAAABQ1YMD0BXeYQIPUXqwV4zb`
+Snapshot ID: `AbsgKAAAAADk6/rjYQJsNCPswAFvTRXr`

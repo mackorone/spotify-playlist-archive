@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 202105,
       "name": "432 Hz Ultimate Reality",
       "url": "https://open.spotify.com/track/7xDsfqzeaXwAJM6ePGHXgk"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 147750,
       "name": "Bowlsong",
       "url": "https://open.spotify.com/track/5g9RCOeaztckqKQyxMmNyW"
@@ -1763,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "One With Simplicity",
+        "url": "https://open.spotify.com/album/0jr5wGTluHptfqUjzt88JU"
+      },
+      "artists": [
+        {
+          "name": "AuraLoom",
+          "url": "https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156062,
+      "name": "One With Simplicity",
+      "url": "https://open.spotify.com/track/2guoaCAPZb6ixmHgupofMb"
+    },
+    {
+      "album": {
         "name": "Optimistic Outlook",
         "url": "https://open.spotify.com/album/05MztDn1w1Cv5n2Y6sW4i1"
       },
@@ -2246,6 +2264,24 @@
       "duration_ms": 170073,
       "name": "Solar Plexus Chakra (Manipura) - 3 Octaves E",
       "url": "https://open.spotify.com/track/163wIVMDQwvwLleCgvCTfJ"
+    },
+    {
+      "album": {
+        "name": "Solar Seraph",
+        "url": "https://open.spotify.com/album/6Qorf7wIB8XWZ2FsBaTM8x"
+      },
+      "artists": [
+        {
+          "name": "Milleah",
+          "url": "https://open.spotify.com/artist/5S8hNWbGuoD4rTAnNxuxze"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178663,
+      "name": "Solar Seraph",
+      "url": "https://open.spotify.com/track/63THLVop1w7YRIMO9ij01U"
     },
     {
       "album": {

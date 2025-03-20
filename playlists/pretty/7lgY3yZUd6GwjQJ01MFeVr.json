@@ -1,12 +1,12 @@
 {
   "description": "Today's top country music!",
-  "num_followers": 35193,
+  "num_followers": 35190,
   "original_name": "Top Country Hits 2025",
   "owner": {
     "name": "Topsify Canada",
     "url": "https://open.spotify.com/user/playlistmecanada"
   },
-  "snapshot_id": "AAAbGwIJwChQ8/XbW+zhUxZP44E96+Fl",
+  "snapshot_id": "AAAbK8YixhC6NylDvWiyOoorE3CcsuSU",
   "tracks": [
     {
       "added_at": "2025-03-15 00:50:10",
@@ -77,6 +77,22 @@
       "url": "https://open.spotify.com/track/17epPYISlrms9BG2REiwi8"
     },
     {
+      "added_at": "2025-03-19 13:50:43",
+      "album": {
+        "name": "Relapse",
+        "url": "https://open.spotify.com/album/4uSU5pj5YinibVkwQF5op3"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 158634,
+      "name": "Relapse",
+      "url": "https://open.spotify.com/track/4cfJwDxcinpg5gYUZ4qysj"
+    },
+    {
       "added_at": "2025-03-15 00:50:10",
       "album": {
         "name": "I'm Gonna Love You",
@@ -115,22 +131,6 @@
     {
       "added_at": "2025-03-15 00:50:10",
       "album": {
-        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 210950,
-      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
-    },
-    {
-      "added_at": "2025-03-15 00:50:10",
-      "album": {
         "name": "Love Somebody",
         "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
       },
@@ -143,6 +143,42 @@
       "duration_ms": 204828,
       "name": "Love Somebody",
       "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
+    },
+    {
+      "added_at": "2025-03-19 13:51:06",
+      "album": {
+        "name": "LOW ROAD (feat. Avery Anna)",
+        "url": "https://open.spotify.com/album/7zVwtsColob5vuOQ2oVId8"
+      },
+      "artists": [
+        {
+          "name": "Adrien Nunez",
+          "url": "https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ"
+        },
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "duration_ms": 177454,
+      "name": "LOW ROAD (feat. Avery Anna)",
+      "url": "https://open.spotify.com/track/0abudPfUzGZ1lAExplxyb2"
+    },
+    {
+      "added_at": "2025-03-15 00:50:10",
+      "album": {
+        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 210950,
+      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
     },
     {
       "added_at": "2025-03-15 00:50:10",
@@ -163,22 +199,6 @@
     {
       "added_at": "2025-03-15 00:50:10",
       "album": {
-        "name": "HELL BOY",
-        "url": "https://open.spotify.com/album/3c9EqYQI2MUpCF29Fliila"
-      },
-      "artists": [
-        {
-          "name": "James Johnston",
-          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
-        }
-      ],
-      "duration_ms": 175233,
-      "name": "HELL BOY",
-      "url": "https://open.spotify.com/track/0TB3Diz7QTmqXbn07esBAf"
-    },
-    {
-      "added_at": "2025-03-15 00:50:10",
-      "album": {
         "name": "Holding On",
         "url": "https://open.spotify.com/album/5PUFR2sBnMOdRAoM5jDQN0"
       },
@@ -191,6 +211,22 @@
       "duration_ms": 230913,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/2j8pCpVtMjKchtmuu64BnY"
+    },
+    {
+      "added_at": "2025-03-19 13:51:12",
+      "album": {
+        "name": "Mr. Predictable",
+        "url": "https://open.spotify.com/album/22v4TOSJFegBKWAWg3BtKv"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "Mr. Predictable",
+      "url": "https://open.spotify.com/track/4fpf5WsrRHR38hMgqGbqhG"
     },
     {
       "added_at": "2025-03-15 00:50:10",
@@ -209,20 +245,36 @@
       "url": "https://open.spotify.com/track/6dibjdPRlDUZabs8aokY4D"
     },
     {
-      "added_at": "2025-03-15 00:50:10",
+      "added_at": "2025-03-19 13:50:59",
       "album": {
-        "name": "Relapse",
-        "url": "https://open.spotify.com/album/6qjHXAoCQWAwOwOCjdSvEN"
+        "name": "The Giver",
+        "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 158634,
-      "name": "Relapse",
-      "url": "https://open.spotify.com/track/78DcrUOhBhVod09vFiXn7P"
+      "duration_ms": 202768,
+      "name": "The Giver",
+      "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
+    },
+    {
+      "added_at": "2025-03-19 13:51:21",
+      "album": {
+        "name": "Need To",
+        "url": "https://open.spotify.com/album/2DiBmctgRw3Zds6c9lNF06"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        }
+      ],
+      "duration_ms": 189226,
+      "name": "Need To",
+      "url": "https://open.spotify.com/track/02JME7zoJ1EYMYBJAg4TMN"
     },
     {
       "added_at": "2025-03-15 00:50:10",
@@ -371,6 +423,22 @@
       "duration_ms": 182540,
       "name": "More Like It",
       "url": "https://open.spotify.com/track/1Dq9cGDFTI8zmIe0DkvF4D"
+    },
+    {
+      "added_at": "2025-03-15 00:50:10",
+      "album": {
+        "name": "HELL BOY",
+        "url": "https://open.spotify.com/album/3c9EqYQI2MUpCF29Fliila"
+      },
+      "artists": [
+        {
+          "name": "James Johnston",
+          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        }
+      ],
+      "duration_ms": 175233,
+      "name": "HELL BOY",
+      "url": "https://open.spotify.com/track/0TB3Diz7QTmqXbn07esBAf"
     },
     {
       "added_at": "2025-03-15 00:50:10",
@@ -1375,150 +1443,6 @@
       "duration_ms": 265493,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
-    },
-    {
-      "added_at": "2025-03-15 00:50:10",
-      "album": {
-        "name": "Cozy",
-        "url": "https://open.spotify.com/album/3EQbke1wHMcA9Cqw5cOIM9"
-      },
-      "artists": [
-        {
-          "name": "Braxton Keith",
-          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
-        }
-      ],
-      "duration_ms": 217123,
-      "name": "Cozy",
-      "url": "https://open.spotify.com/track/7vtdJnOxzDbRPtzge0KNqY"
-    },
-    {
-      "added_at": "2025-03-15 00:50:10",
-      "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/3aDLPo5dzrgHUYJlmp2YBM"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/4k0pqjIpfO7WV3eFUTgL9m"
-    },
-    {
-      "added_at": "2025-03-15 00:50:10",
-      "album": {
-        "name": "The Devil I Know",
-        "url": "https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr"
-      },
-      "artists": [
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        }
-      ],
-      "duration_ms": 187880,
-      "name": "The Devil I Know",
-      "url": "https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC"
-    },
-    {
-      "added_at": "2025-03-15 00:50:10",
-      "album": {
-        "name": "We All Grow Up",
-        "url": "https://open.spotify.com/album/1AmoSVMccJeiKRT31NyPPb"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "We All Grow Up",
-      "url": "https://open.spotify.com/track/4MYVzXhpm5iMnRZj6cWkSu"
-    },
-    {
-      "added_at": "2025-03-15 00:50:10",
-      "album": {
-        "name": "3 Feet Tall",
-        "url": "https://open.spotify.com/album/4nh0KuO11MpP06u2P165QJ"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        }
-      ],
-      "duration_ms": 222906,
-      "name": "3 Feet Tall",
-      "url": "https://open.spotify.com/track/2gwrfZzOjAinobFoOiy1T2"
-    },
-    {
-      "added_at": "2025-03-15 00:50:10",
-      "album": {
-        "name": "Miss Summer",
-        "url": "https://open.spotify.com/album/5txjDzcOmllhkmG4KUjFYi"
-      },
-      "artists": [
-        {
-          "name": "Redferrin",
-          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
-        }
-      ],
-      "duration_ms": 151020,
-      "name": "Miss Summer",
-      "url": "https://open.spotify.com/track/402L1iawY3D4ZQjPiHT38e"
-    },
-    {
-      "added_at": "2025-03-15 00:50:10",
-      "album": {
-        "name": "White Horse",
-        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 267893,
-      "name": "White Horse",
-      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
-    },
-    {
-      "added_at": "2025-03-15 00:50:10",
-      "album": {
-        "name": "Livin' Ain't Killed Me Yet",
-        "url": "https://open.spotify.com/album/20avoS99wAkzfnxks3FmQH"
-      },
-      "artists": [
-        {
-          "name": "Naomi Cooke Johnson",
-          "url": "https://open.spotify.com/artist/0TOpxMqjBLR53TUNKK29ML"
-        }
-      ],
-      "duration_ms": 160720,
-      "name": "Livin' Ain't Killed Me Yet",
-      "url": "https://open.spotify.com/track/5LXfYCQQFJCasWN2DT5ajG"
-    },
-    {
-      "added_at": "2025-03-15 00:50:10",
-      "album": {
-        "name": "Cowboy Don\u2019t",
-        "url": "https://open.spotify.com/album/3mZSYPQPoNheFwNc5ize7q"
-      },
-      "artists": [
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        }
-      ],
-      "duration_ms": 162885,
-      "name": "Cowboy Don\u2019t",
-      "url": "https://open.spotify.com/track/5qxXv3JWNTTliODO4LZ0V4"
     },
     {
       "added_at": "2025-03-15 00:50:10",

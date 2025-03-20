@@ -4,7 +4,7 @@
 
 > Your essential Ramadan Series songs! Cover: Elissa
 
-127 songs - 6 hr 44 min
+128 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Jarh 9Dim](https://open.spotify.com/track/2D90uQttl2UcZRgYDKDIMD) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Jarh 9dim](https://open.spotify.com/album/7K2R7t8bkj3N8T58r48tVw) | 2:57 | 2025-03-06 |  |
 | [Kan Tri9i Bayn](https://open.spotify.com/track/4MbMh3PtcqOcwqoC0Yhh2i) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Kan Tri9i Bayn](https://open.spotify.com/album/4T15gRes7qBvuEjIptdoCH) | 3:17 | 2024-03-10 | 2025-03-04 |
 | [Kelma \( Intro Of El Harsha El Sabaa Series\)](https://open.spotify.com/track/571hMdqSYlYZNa4i4Y0IpS) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4), [Boustan Magdy](https://open.spotify.com/artist/2hY97UqOlQK2wyIAXkx2Ep) | [Kelma \( Intro Of El Harsha El Sabaa Series\)](https://open.spotify.com/album/5wnmqhy2eKLnqEYqAHZ7O4) | 3:14 | 2024-03-10 | 2025-03-04 |
-| [Kessrou Djnahi \- El Tabaa](https://open.spotify.com/track/6D2gMlsYlQV7fnO7LXx38I) | [Radia Manel](https://open.spotify.com/artist/1zAmhEK0OZp1fETu3bGQeZ) | [Kessrou Djnahi \- El Tabaa](https://open.spotify.com/album/5PP1oLZ8GlXsi0eW0ylbT7) | 2:01 | 2025-03-16 |  |
+| [Kessrou Djnahi \- El Tabaa](https://open.spotify.com/track/6D2gMlsYlQV7fnO7LXx38I) | [Radia Manel](https://open.spotify.com/artist/1zAmhEK0OZp1fETu3bGQeZ) | [Kessrou Djnahi \- El Tabaa](https://open.spotify.com/album/5PP1oLZ8GlXsi0eW0ylbT7) | 2:01 | 2025-03-16 | 2025-03-20 |
 | [Khatyah Ani](https://open.spotify.com/track/4FXdcubswDigCSIdx9IFNA) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Mosalsal Seher Aswad](https://open.spotify.com/album/0EqNrd5iUYdBRPZt9w9IG4) | 3:28 | 2025-03-03 |  |
 | [Kol Youm](https://open.spotify.com/track/3iWRuqeYt3ezyPOSdVo9Hz) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Kol Youm](https://open.spotify.com/album/425JKkR2C6PwmFgeriOlwm) | 3:25 | 2024-03-10 | 2025-03-14 |
 | [Kollou Bel Hob](https://open.spotify.com/track/0Xc1IryxstydDJ3lsrAAJL) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Kollou Bel Hob](https://open.spotify.com/album/1ZQ9tCItxkzmfiZ2UTLeYv) | 2:56 | 2024-03-10 | 2024-03-13 |
@@ -135,5 +135,6 @@
 | [ولعانه](https://open.spotify.com/track/2LXdEuFjon9uNIXbtoic6y) | [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6) | [ولعانه](https://open.spotify.com/album/31DEP0IgUPrWmnfDpjHrvT) | 3:52 | 2024-03-10 | 2025-03-14 |
 | [يا حلولو \- تتر بدايه مسلسل صفاره](https://open.spotify.com/track/6pFOK3WsFJbrPdZkm46KoN) | [Ahmed Amin](https://open.spotify.com/artist/3ZH8mm61aosyZjnCbkT2r4), [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [يا حلولو \(تتر بدايه مسلسل صفاره\)](https://open.spotify.com/album/6Oy4MU2GODcNcOnKyBsroF) | 2:25 | 2024-03-10 | 2025-03-04 |
 | [ياساتر \- تتر مسلسل يوتيرن](https://open.spotify.com/track/4dXTPZWeidbo3JOPqa6Zjv) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [ياساتر \(تتر مسلسل يوتيرن\)](https://open.spotify.com/album/78u5iHbe5J8ZdISmRI1ymr) | 3:56 | 2024-03-10 | 2024-03-13 |
+| [ياما نفسي اقولك \- من مسلسل عايشة الدور](https://open.spotify.com/track/59cwzz2NQK3P67tajUi05K) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [ياما نفسي اقولك \(من مسلسل عايشة الدور\)](https://open.spotify.com/album/6qSeWoOhTW8AfeH1Ox9Xth) | 3:03 | 2025-03-18 |  |
 
 \*This playlist was first scraped on 2024-03-12. Prior content cannot be recovered.

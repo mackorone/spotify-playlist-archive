@@ -4,14 +4,14 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Yasemin Rosa
 
-216 songs - 10 hr 47 min
+217 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ada](https://open.spotify.com/track/11LP8h4KqAnOtnzTEos6CC) | [Melike Cem](https://open.spotify.com/artist/4KWDW1O48FFRbtgsjgBSVr) | [Ada](https://open.spotify.com/album/7q3gMH0zWSKBoEdSGJ8qRR) | 3:16 | 2024-06-20 | 2024-08-29 |
 | [add](https://open.spotify.com/track/0aUhJQdCqJ5Xtrb8PoOE0F) | [rody dünyada](https://open.spotify.com/artist/2PPVH8rUFlN2zzJrrP8Cjg) | [add](https://open.spotify.com/album/66fBkhvO57E0Sfi2zVJuE5) | 2:26 | 2024-06-20 |  |
 | [Ah Etmedim](https://open.spotify.com/track/43HCAAd4aum17h9R8CZHYp) | [Aliye Mutlu](https://open.spotify.com/artist/4d6HLW1woZHaPab3eJpiyA) | [Ah Etmedim](https://open.spotify.com/album/058wo47lM7uAE2m6p2NeWa) | 3:43 | 2024-06-20 | 2024-08-02 |
-| [Ah Hayat](https://open.spotify.com/track/0UEPNzxRn0ky9MHzHuifWk) | [Yalnayak](https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu) | [Ah Hayat](https://open.spotify.com/album/6LGomfYzV4lciqUgOMTMKb) | 3:43 | 2025-01-09 |  |
+| [Ah Hayat](https://open.spotify.com/track/0UEPNzxRn0ky9MHzHuifWk) | [Yalnayak](https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu) | [Ah Hayat](https://open.spotify.com/album/6LGomfYzV4lciqUgOMTMKb) | 3:43 | 2025-01-09 | 2025-03-20 |
 | [Alaaddin](https://open.spotify.com/track/7CMBLeVj36I0yHVsGCDzAB) | [Tuana Tetik](https://open.spotify.com/artist/4hVkWQ0iAHxtfV6TSARSxR) | [Alaaddin](https://open.spotify.com/album/18bzdTfekL5mXeYrTeHB8n) | 2:46 | 2024-10-24 | 2024-11-13 |
 | [Aman Aman](https://open.spotify.com/track/3dI2caeCgFZkI0z86jxgGh) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj) | [Aman Aman](https://open.spotify.com/album/2DIFHpkBiMguUMUiqNyLQH) | 3:18 | 2024-10-24 | 2025-03-06 |
 | [Ankara Ayazı](https://open.spotify.com/track/5no6olRh1NCwdZJIIMId2R) | [Geceyi Kurtar](https://open.spotify.com/artist/1zIb6ucwFl2fiewnPQNE5f), [Zibo](https://open.spotify.com/artist/5N6mauDodGl3hh9xzm7Zwj) | [Ankara Ayazı](https://open.spotify.com/album/0U31turfAphETTOc8k3nQN) | 3:20 | 2024-06-20 |  |
@@ -102,6 +102,7 @@
 | [Her Şey Ters Gidiyor](https://open.spotify.com/track/53es3MIKs7IAVvZ9Ok78gV) | [Derin Mevzu](https://open.spotify.com/artist/72Q2kgEHumnBXH25PYPY3z) | [Her Şey Ters Gidiyor](https://open.spotify.com/album/5wu1jC1x4UdsYc06pBOOG5) | 2:14 | 2024-11-14 |  |
 | [Işığın Kendisi](https://open.spotify.com/track/7HyH3W2vcx9A4i5BG0EZd7) | [Idil](https://open.spotify.com/artist/0zNz4hmI6mCNUdj4BngitI) | [Işığın Kendisi](https://open.spotify.com/album/2F9LlyUGEDDFvu4busTwHX) | 3:05 | 2025-03-06 |  |
 | [İstanbul](https://open.spotify.com/track/1BvDzl4hiSy95vXpoNiI3o) | [Keskin Band](https://open.spotify.com/artist/6KPsAUprTWqiFxb2YEQ0S7) | [İstanbul](https://open.spotify.com/album/0K9he069jJYRZ53ZCqXKju) | 2:27 | 2024-10-10 | 2024-12-01 |
+| [İstediğinde Yaz](https://open.spotify.com/track/72i9BuzxgCh8M5tnoYkCNy) | [merhababensokak](https://open.spotify.com/artist/3G9IfSbpM10wK68aNR9k4Y) | [İstediğinde Yaz](https://open.spotify.com/album/1u8SgswIRJMP9jKpkyZ5lk) | 4:30 | 2025-03-06 |  |
 | [İSTER MİYİM](https://open.spotify.com/track/56vARurB1wKqEtBgyt8PCx) | [Aleyna Kalaycıoğlu](https://open.spotify.com/artist/3TKB1G75mSojFCZPks5KGJ) | [İSTER MİYİM](https://open.spotify.com/album/0ilySrs4AofRXkf2wmWCsF) | 2:01 | 2024-06-20 | 2024-09-06 |
 | [İstila](https://open.spotify.com/track/55RMTZJaCJpUl4lT8JmJX7) | [Soft Analog](https://open.spotify.com/artist/0FWmCLXYps2U14dmCsiK82) | [DANS İLLÜZYON](https://open.spotify.com/album/5jBFycgr33bOZb68ET8XfB) | 3:21 | 2024-06-20 | 2024-08-09 |
 | [Kalbim Vazgeçer mi?](https://open.spotify.com/track/008H1sk94IpxHMBCKmFmGI) | [Pınar Çubukçu](https://open.spotify.com/artist/0KrM666qwols9GarWiIMCD) | [Kalbim Vazgeçer mi?](https://open.spotify.com/album/7gPUDvmlP1T8ZKxYylVgHA) | 2:58 | 2024-09-05 | 2024-10-04 |

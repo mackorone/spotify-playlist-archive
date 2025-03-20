@@ -1,41 +1,13 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35043,
+  "num_followers": 35050,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAACP7ntAIJv8ElfvTg3gck3/",
+  "snapshot_id": "Z9i3gAAAAADOO/8voLCJt+I8d6gEsZfh",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vou Raspar Seu Bigodin / Tacar Fogo",
-        "url": "https://open.spotify.com/album/1ebEq4DVbEkoTd2W6QtO80"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        },
-        {
-          "name": "DG e Batid\u00e3o Stronda",
-          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
-        },
-        {
-          "name": "DJ S2K",
-          "url": "https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX"
-        }
-      ],
-      "duration_ms": 137272,
-      "name": "Vou Raspar Seu Bigodin / Tacar Fogo",
-      "url": "https://open.spotify.com/track/7AvdfMZU32zM9Yi8ykXM6i"
-    },
     {
       "added_at": null,
       "album": {
@@ -155,6 +127,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vou Raspar Seu Bigodin / Tacar Fogo",
+        "url": "https://open.spotify.com/album/1ebEq4DVbEkoTd2W6QtO80"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "DG e Batid\u00e3o Stronda",
+          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
+        },
+        {
+          "name": "DJ S2K",
+          "url": "https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX"
+        }
+      ],
+      "duration_ms": 137272,
+      "name": "Vou Raspar Seu Bigodin / Tacar Fogo",
+      "url": "https://open.spotify.com/track/7AvdfMZU32zM9Yi8ykXM6i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set Dj Gm 2.0",
         "url": "https://open.spotify.com/album/5OvqOC3aa233VVlfIHPlvX"
       },
@@ -231,22 +231,6 @@
       "duration_ms": 135047,
       "name": "Festa na Marina (feat. Mc Dricka)",
       "url": "https://open.spotify.com/track/5SDbIKvFDRTy45WsXsgyxD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Empurra Empurra",
-        "url": "https://open.spotify.com/album/3x9iKvJRCuHIvbr2AiOUgq"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 240118,
-      "name": "Empurra Empurra",
-      "url": "https://open.spotify.com/track/2OFO6Zws6Pxo5p0J7SmkOp"
     },
     {
       "added_at": null,
@@ -335,6 +319,22 @@
       "duration_ms": 1113600,
       "name": "Set Dos Casados 2",
       "url": "https://open.spotify.com/track/7KM3s9TZZ3yJDSP9rIkcbc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Empurra Empurra",
+        "url": "https://open.spotify.com/album/3x9iKvJRCuHIvbr2AiOUgq"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 240118,
+      "name": "Empurra Empurra",
+      "url": "https://open.spotify.com/track/2OFO6Zws6Pxo5p0J7SmkOp"
     },
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De 38 Carregado",
-        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
-      },
-      "artists": [
-        {
-          "name": "Dj Ray Lais",
-          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 155145,
-      "name": "De 38 Carregado",
-      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
         "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 197480,
       "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
       "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De 38 Carregado",
+        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
+      },
+      "artists": [
+        {
+          "name": "Dj Ray Lais",
+          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 155145,
+      "name": "De 38 Carregado",
+      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
     },
     {
       "added_at": null,
@@ -707,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
-      },
-      "artists": [
-        {
-          "name": "Grupo Presen\u00e7a",
-          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora - Ao Vivo",
-      "url": "https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arrocha da Treta",
         "url": "https://open.spotify.com/album/2dddrN2lOTk8UJR42WhUdQ"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 144013,
       "name": "Arrocha da Treta (feat. Mc Dricka)",
       "url": "https://open.spotify.com/track/6BN7IIhBaALS4Nw6XkYfJL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Presen\u00e7a",
+          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora - Ao Vivo",
+      "url": "https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq"
     },
     {
       "added_at": null,
@@ -919,6 +919,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sentando no Pula Pula",
+        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Nem Jm",
+          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
+        }
+      ],
+      "duration_ms": 174962,
+      "name": "Sentando no Pula Pula",
+      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Caldeir\u00e3o",
         "url": "https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 147692,
       "name": "Golpeame",
       "url": "https://open.spotify.com/track/5lZQrRhEHEiHEvF9xguzwi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sentando no Pula Pula",
-        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Nem Jm",
-          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
-        }
-      ],
-      "duration_ms": 174962,
-      "name": "Sentando no Pula Pula",
-      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
     },
     {
       "added_at": null,
@@ -1131,30 +1131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Festa na Marina",
-        "url": "https://open.spotify.com/album/3YPoXNtm6t8D1zoeSJJ0Hm"
-      },
-      "artists": [
-        {
-          "name": "DJ Gabriel",
-          "url": "https://open.spotify.com/artist/3sU7tsAOhfPn0sCPE7z1PB"
-        },
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/3EtXD1ODCDVhaWv0gbBEt6"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 123316,
-      "name": "Festa na Marina",
-      "url": "https://open.spotify.com/track/1eXwKl0la1JN01oMjFEOmb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vida do Crime",
         "url": "https://open.spotify.com/album/7fclUkVg10L6zMAgtuW2v8"
       },
@@ -1227,6 +1203,30 @@
       "duration_ms": 139403,
       "name": "Sexo Sem Estresse",
       "url": "https://open.spotify.com/track/2naBe4jcELPtlcSxR5BaHw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Festa na Marina",
+        "url": "https://open.spotify.com/album/3YPoXNtm6t8D1zoeSJJ0Hm"
+      },
+      "artists": [
+        {
+          "name": "DJ Gabriel",
+          "url": "https://open.spotify.com/artist/3sU7tsAOhfPn0sCPE7z1PB"
+        },
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/3EtXD1ODCDVhaWv0gbBEt6"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 123316,
+      "name": "Festa na Marina",
+      "url": "https://open.spotify.com/track/1eXwKl0la1JN01oMjFEOmb"
     },
     {
       "added_at": null,
@@ -1347,26 +1347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nois Bate com a Polpa da Bunda",
-        "url": "https://open.spotify.com/album/1x6EOmX7clAcvvnlLTehsw"
-      },
-      "artists": [
-        {
-          "name": "DJ Jeeh FDC",
-          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 176842,
-      "name": "Nois Bate com a Polpa da Bunda",
-      "url": "https://open.spotify.com/track/7mdnVA3yZi2xtvArd449WZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Catucad\u00e3o",
         "url": "https://open.spotify.com/album/16TTVpfAEGzxNghkq34qNt"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 138900,
       "name": "Catucad\u00e3o",
       "url": "https://open.spotify.com/track/7LryHNIEa0AtcaGjr5744f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nois Bate com a Polpa da Bunda",
+        "url": "https://open.spotify.com/album/1x6EOmX7clAcvvnlLTehsw"
+      },
+      "artists": [
+        {
+          "name": "DJ Jeeh FDC",
+          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 176842,
+      "name": "Nois Bate com a Polpa da Bunda",
+      "url": "https://open.spotify.com/track/7mdnVA3yZi2xtvArd449WZ"
     },
     {
       "added_at": null,

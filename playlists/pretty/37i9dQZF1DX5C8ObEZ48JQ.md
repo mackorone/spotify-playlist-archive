@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF?si=aZWAGFHMTIipljZtJuRcjw">Kunmie</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,257 likes - 53 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,270 likes - 53 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Arike](https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Arike](https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw) | 2:04 |
-| 2 | [LET IT FALL](https://open.spotify.com/track/6cwKz4YmVkGC5lMxxUR5u2) | [Chipego](https://open.spotify.com/artist/6560RgzahjBUplHfzm454m), [Phonikz](https://open.spotify.com/artist/6YX1n5yl2H2RdidVHWnoc5) | [Don't Forget to Remember](https://open.spotify.com/album/0mVgxsgka5Flw5eRE5DesS) | 3:46 |
+| 2 | [LET IT FALL](https://open.spotify.com/track/6cwKz4YmVkGC5lMxxUR5u2) | [Chipego](https://open.spotify.com/artist/6560RgzahjBUplHfzm454m), [MODIKA.](https://open.spotify.com/artist/0yIhOcXDITuo8fbnLTvR7m) | [Don't Forget to Remember](https://open.spotify.com/album/0mVgxsgka5Flw5eRE5DesS) | 3:46 |
 | 3 | [Free](https://open.spotify.com/track/3oNPOIzZYk6WCCvSSLDLqI) | [Muthoka](https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp) | [Free](https://open.spotify.com/album/0TwahsX1CAvVgooTwZSvP1) | 2:35 |
 | 4 | [Pookie](https://open.spotify.com/track/5Q7AAQv0YGXEKRy9bTs8nz) | [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr) | [Pookie](https://open.spotify.com/album/6X1yNc6oCLtW9THe9shuNr) | 2:09 |
 | 5 | [On My Way](https://open.spotify.com/track/4lJwa1WP9M9hoXRWgRcfZE) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [On My Way](https://open.spotify.com/album/2A8J6ynoK3NQh3WQA2tPeE) | 3:56 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Mitch Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,712 likes - 85 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,743 likes - 85 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 81 | [If it wasn't for Jesus \- from the studio](https://open.spotify.com/track/6gjZJNFr11sqlq8pDpS19f) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [If it wasn't for Jesus \(from the studio\)](https://open.spotify.com/album/3CQcXGkmbJjXCeRHJEhaJo) | 4:02 |
 | 82 | [Hallelujah \(If Not For Your Love\)](https://open.spotify.com/track/3RARr0qocWgXFMAhBJs9jR) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [Beyond Us \(Deluxe\)](https://open.spotify.com/album/2M55eh17kBBQURAGpGuDrA) | 3:11 |
 | 83 | [Lord, Come Quickly \- Live](https://open.spotify.com/track/6adOkD6WioYuOGu8qoavNg) | [Southeast Worship](https://open.spotify.com/artist/48Cxaiqses3N5qczr2RJ99) | [Lord, Come Quickly \(Live\)](https://open.spotify.com/album/66eIEVMBOQpTCAqBSedqhF) | 4:58 |
-| 84 | [Where Can I Go That My Maker Won't Be?](https://open.spotify.com/track/1HoY6xu7Yj9kV6cFIcMWSB) | [Anchor Hymns](https://open.spotify.com/artist/4UuCCQRHiLAMzOWXkFtqSE), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db), [Jason Houtsma](https://open.spotify.com/artist/4lKHhpbvayhpyr2gQ8SPX1), [Melanie Penn](https://open.spotify.com/artist/4WKIrizEfylpzQsdegJlfh) | [Where Can I Go That My Maker Won't Be?](https://open.spotify.com/album/7wotx4RjfDYMsn2dgrjAHs) | 5:12 |
+| 84 | [Where Can I Go That My Maker Won't Be?](https://open.spotify.com/track/1HoY6xu7Yj9kV6cFIcMWSB) | [Anchor Hymns](https://open.spotify.com/artist/4UuCCQRHiLAMzOWXkFtqSE), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db), [Jason Houtsma](https://open.spotify.com/artist/3WN6wMNSkmz2hFt0KEKMiK), [Melanie Penn](https://open.spotify.com/artist/4WKIrizEfylpzQsdegJlfh) | [Where Can I Go That My Maker Won't Be?](https://open.spotify.com/album/7wotx4RjfDYMsn2dgrjAHs) | 5:12 |
 | 85 | [Anything Can Happen \- Live](https://open.spotify.com/track/4C04WkKNOs4UoNTjHG8wm9) | [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0), [Mayra Alvarez](https://open.spotify.com/artist/6zfJL7QGH50WkaMzJt1ztg) | [Anything Can Happen \(Live\)](https://open.spotify.com/album/2AUNTD6sYGwubSBMGGVyCz) | 4:01 |
 
 Snapshot ID: `Z9INqAAAAAAL0YxxhRnPCc94fJcyyVYj`

@@ -4,7 +4,7 @@
 
 > my original music featured playlist, whether its fully original songs, covers, collabs, or songs i featured in!! \[does not include instrumentals\]
 
-101 songs - 3 hr 6 min
+102 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [want me dead](https://open.spotify.com/track/0IKyrmqsTmNynOa1muZ3RX) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [want me dead](https://open.spotify.com/album/7A4NF0ta5wzCDx6lFZnyfa) | 1:18 | 2024-06-23 |  |
 | [what's it like to be a heart broken bitch](https://open.spotify.com/track/7xw9WWgfnUQI4FvUaAjtyK) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [autotune garbage](https://open.spotify.com/album/4Wjjhnw8bt7Q0qUv8aylOi) | 0:44 | 2024-03-09 |  |
 | [when has healthy ever been my priority \- Remake Version](https://open.spotify.com/track/3R2YwDsdxwNwaxVLKbY5Hi) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [when has healthy ever been my priority](https://open.spotify.com/album/3gGsuSxZerzUF3ZcMwjk87) | 1:40 | 2024-06-20 |  |
+| [WIN WIN WIN](https://open.spotify.com/track/6eeRIbNpBDu98MRRUHl6ID) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [WIN WIN WIN](https://open.spotify.com/album/1tB0QyCUz3fJM5FVzvtdVN) | 2:52 | 2025-03-19 |  |
 | [world full of strings](https://open.spotify.com/track/1MyMaopZKXuMNcXGDpHjAu) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:09 | 2024-03-09 |  |
 | [you still live in my veins](https://open.spotify.com/track/7427blkGwSdUTdimGaLW93) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 1:07 | 2024-07-12 |  |
 

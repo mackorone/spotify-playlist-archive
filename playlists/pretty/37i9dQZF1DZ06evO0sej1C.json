@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 43146,
+  "num_followers": 43165,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAADZ5IG1Q+N4herD1iPIczb7",
+  "snapshot_id": "Z9i3gAAAAAAqS2FPra/yhwhXkHR6UbYs",
   "tracks": [
     {
       "added_at": null,
@@ -527,30 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ROMA",
-        "url": "https://open.spotify.com/album/2a41sz8sMlWxR31PGTFLyW"
-      },
-      "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Pipo Ti",
-          "url": "https://open.spotify.com/artist/5IxU70PZhE8uqCBOGHZHgJ"
-        }
-      ],
-      "duration_ms": 228292,
-      "name": "No quiero que amanezca",
-      "url": "https://open.spotify.com/track/1ujwLJ7na5L4zjOShTTTXD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/46C0qc9owHB6PDLYQDtpgp"
       },
@@ -639,6 +615,30 @@
       "duration_ms": 381000,
       "name": "La Familia",
       "url": "https://open.spotify.com/track/3NFtMIwXTLsSrUua7AzxA6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ROMA",
+        "url": "https://open.spotify.com/album/2a41sz8sMlWxR31PGTFLyW"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Pipo Ti",
+          "url": "https://open.spotify.com/artist/5IxU70PZhE8uqCBOGHZHgJ"
+        }
+      ],
+      "duration_ms": 228292,
+      "name": "No quiero que amanezca",
+      "url": "https://open.spotify.com/track/1ujwLJ7na5L4zjOShTTTXD"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cheque En Blanco",
+        "url": "https://open.spotify.com/album/6wNGbXprjtkBgqmcDIjq5t"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 167471,
+      "name": "Cheque En Blanco",
+      "url": "https://open.spotify.com/track/3ptBToIJ9MHnMXrSEagTNI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ya No Quiero Verte",
         "url": "https://open.spotify.com/album/711cIsL3jwCkosLTeycAg8"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 205714,
       "name": "Ya No Quiero Verte",
       "url": "https://open.spotify.com/track/6m77XYqqnVxfREQsiUi7O9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cheque En Blanco",
-        "url": "https://open.spotify.com/album/6wNGbXprjtkBgqmcDIjq5t"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 167471,
-      "name": "Cheque En Blanco",
-      "url": "https://open.spotify.com/track/3ptBToIJ9MHnMXrSEagTNI"
     },
     {
       "added_at": null,
@@ -919,6 +919,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El",
+        "url": "https://open.spotify.com/album/30ctRql5lTP2yO64dd6T76"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "El",
+      "url": "https://open.spotify.com/track/4RAjJ3UJiBoyPQl9RjZdRU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alzypher Vol. 9",
         "url": "https://open.spotify.com/album/3JKZcVkafBrbIZySypEw7H"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 207483,
       "name": "Alzypher Vol. 9",
       "url": "https://open.spotify.com/track/4VgKKuLoLAcgNvJ8d0hKlA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El",
-        "url": "https://open.spotify.com/album/30ctRql5lTP2yO64dd6T76"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "El",
-      "url": "https://open.spotify.com/track/4RAjJ3UJiBoyPQl9RjZdRU"
     },
     {
       "added_at": null,
@@ -1007,6 +1007,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dos Extra\u00f1os",
+        "url": "https://open.spotify.com/album/6rxxhbHjt4bwvrbm660BZ7"
+      },
+      "artists": [
+        {
+          "name": "Adehese",
+          "url": "https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "duration_ms": 196216,
+      "name": "Dos Extra\u00f1os",
+      "url": "https://open.spotify.com/track/4H6yrTlUFFtFe1qwHp2gOL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feedback",
         "url": "https://open.spotify.com/album/3OI8rQ4iGVRVswrQGWAmr1"
       },
@@ -1043,30 +1067,6 @@
       "duration_ms": 204000,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/0QK3Yshn8c0plhuErNvmKz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dos Extra\u00f1os",
-        "url": "https://open.spotify.com/album/6rxxhbHjt4bwvrbm660BZ7"
-      },
-      "artists": [
-        {
-          "name": "Adehese",
-          "url": "https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        }
-      ],
-      "duration_ms": 196216,
-      "name": "Dos Extra\u00f1os",
-      "url": "https://open.spotify.com/track/4H6yrTlUFFtFe1qwHp2gOL"
     },
     {
       "added_at": null,
@@ -1127,26 +1127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Ti Me Olvid\u00e9",
-        "url": "https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp"
-      },
-      "artists": [
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "De Ti Me Olvid\u00e9",
-      "url": "https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So\u00f1ar",
         "url": "https://open.spotify.com/album/7i4euJSKy4COiuUMwiom3k"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 209000,
       "name": "So\u00f1ar",
       "url": "https://open.spotify.com/track/6lV0GSCVzTp8GpOd2H4HL4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Ti Me Olvid\u00e9",
+        "url": "https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp"
+      },
+      "artists": [
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "De Ti Me Olvid\u00e9",
+      "url": "https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb"
     },
     {
       "added_at": null,

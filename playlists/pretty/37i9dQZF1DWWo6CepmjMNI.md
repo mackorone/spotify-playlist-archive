@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: Cheyada
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,619 likes - 55 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,620 likes - 55 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 42 | [หมอน](https://open.spotify.com/track/4Ymg08MNEy5Uqkl9ptSejs) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หมอน](https://open.spotify.com/album/6ctR4QPBcG6UA4fjJd5PY2) | 4:03 |
 | 43 | [ภาพวันโหดร้าย \(Why?\)](https://open.spotify.com/track/6wELNCuVcZVRHs2PfvGaxq) | [ROUSE](https://open.spotify.com/artist/42wCcg6q3NRhi0vQQ7JvNB) | [ภาพวันโหดร้าย \(Why?\)](https://open.spotify.com/album/7Cdw5PP56ZeW8vbIh4AuT1) | 5:28 |
 | 44 | [พอ ?](https://open.spotify.com/track/3zhfuDGfJUMZuTMBb7HlJV) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [พอ ?](https://open.spotify.com/album/35J14FwPhKm9ZPyjZyWNsg) | 4:01 |
-| 45 | [How Are U?](https://open.spotify.com/track/31d7yUJB75GOVgMDDiqoIt) | [Eleven](https://open.spotify.com/artist/2CdDqxKkNoPOVaipDo9rBN), [Varis](https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431) | [Don't Wanna Lose "U"](https://open.spotify.com/album/1avLfjuM8CQMIhGogDksw3) | 4:43 |
+| 45 | [How Are U?](https://open.spotify.com/track/31d7yUJB75GOVgMDDiqoIt) | [ELEVEN](https://open.spotify.com/artist/2CdDqxKkNoPOVaipDo9rBN), [Varis](https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431) | [Don't Wanna Lose "U"](https://open.spotify.com/album/1avLfjuM8CQMIhGogDksw3) | 4:43 |
 | 46 | [ใครกันที่เสียใจ](https://open.spotify.com/track/0coIZ28dh9M4rzudilx6Uq) | [ANYSIDE](https://open.spotify.com/artist/0VcGii0wCyoi5E0Hf8fII0) | [ใครกันที่เสียใจ](https://open.spotify.com/album/6maqJVtTw6gzh8Vp38sSj5) | 4:48 |
 | 47 | [นั่นแหละคือทั้งหมดที่ฉันมี](https://open.spotify.com/track/1IF3bh0aBRWlDnmRl5j0QQ) | [SYDNEYS](https://open.spotify.com/artist/68cA9ofNRTwVfctRHR67q8) | [นั่นแหละคือทั้งหมดที่ฉันมี](https://open.spotify.com/album/0HVjrqXzvmAziz7OCo5HlZ) | 3:35 |
 | 48 | [ไม่เคยเลือนหาย \(Bygone days\)](https://open.spotify.com/track/3qBz1hhoPZeow1fkyYf96Z) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [ไม่เคยเลือนหาย \(Bygone days\)](https://open.spotify.com/album/60K7zt5spofDT1JaJotwa0) | 5:18 |

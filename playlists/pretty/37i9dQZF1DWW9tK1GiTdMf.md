@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per stare così ༼ ༎ຶ ෴ ༎ຶ༽ Bnkr44 in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,964 likes - 125 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,965 likes - 125 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

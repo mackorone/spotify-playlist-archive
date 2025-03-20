@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Endelig fredag og ny musik fra <a href="spotify:artist:2rR0cafJvL0JVTC8E2qIqt">Saveus</a>, Benny Jamz, Selena Gomez og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,344 likes - 104 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,342 likes - 104 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

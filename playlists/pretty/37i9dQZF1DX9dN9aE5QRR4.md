@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 
 > Vote pour ton titre préféré sur la playlist <a href="spotify:playlist:37i9dQZF1FiZm6UIhFGfsY">Nouvelle Ecole \- Le Versus.</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,017 likes - 56 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,020 likes - 56 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

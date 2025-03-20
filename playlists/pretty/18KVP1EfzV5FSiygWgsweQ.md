@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/18KVP1EfzV5FSiygWgsweQ.md) - [plain]
 
 > 
 
-[Till Lindemann](https://open.spotify.com/user/31yxqzpvjyewmzjbgpbhrjkcwwhi) - 3,981 likes - 12 songs - 50 min 24 sec
+[Till Lindemann](https://open.spotify.com/user/31yxqzpvjyewmzjbgpbhrjkcwwhi) - 3,980 likes - 12 songs - 50 min 24 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

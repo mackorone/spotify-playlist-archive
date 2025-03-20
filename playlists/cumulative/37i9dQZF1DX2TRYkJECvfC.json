@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 222720,
       "name": "Big Trip Believing",
       "url": "https://open.spotify.com/track/3xe8P71ZbZ7fc6UQbb8lfh"
@@ -7811,6 +7811,32 @@
     },
     {
       "album": {
+        "name": "Raining",
+        "url": "https://open.spotify.com/album/7AK6JQp9OHKyz12KFrsfwi"
+      },
+      "artists": [
+        {
+          "name": "terro",
+          "url": "https://open.spotify.com/artist/6b7wbuM174mDXtmRH4y37g"
+        },
+        {
+          "name": "Eijk",
+          "url": "https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM"
+        },
+        {
+          "name": "Courtney Storm",
+          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181016,
+      "name": "Raining",
+      "url": "https://open.spotify.com/track/4wDLESPxtKUMvWWEzBFxW5"
+    },
+    {
+      "album": {
         "name": "Ravenergy",
         "url": "https://open.spotify.com/album/69hosqV8zQxrZtFCZDxKpC"
       },
@@ -9158,7 +9184,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 176000,
       "name": "Sorry I Hide in My Room",
       "url": "https://open.spotify.com/track/5pwScWoXXIPhAeY90OY8Sd"
@@ -10510,6 +10536,24 @@
       "duration_ms": 440000,
       "name": "uHambo",
       "url": "https://open.spotify.com/track/0GDX7CnKqm2yiZdQpkK50P"
+    },
+    {
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/1xH1qluXzXDhZFeaIUx5ud"
+      },
+      "artists": [
+        {
+          "name": "Mondingo",
+          "url": "https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213558,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/1PwlrZradTFeRQg23BUZyv"
     },
     {
       "album": {

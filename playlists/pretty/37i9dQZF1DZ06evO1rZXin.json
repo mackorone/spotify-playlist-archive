@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 6418,
+  "num_followers": 6421,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAAC5njS2mpeTQWewyYVeMIED",
+  "snapshot_id": "Z9i3gAAAAAAXX1xkL8oD1hYhKSA0o5Bb",
   "tracks": [
     {
       "added_at": null,
@@ -195,18 +195,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busca Amor",
-        "url": "https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt"
+        "name": "El Tirador",
+        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
       },
       "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        },
         {
           "name": "Banda Vallarta Show",
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 177586,
-      "name": "Camar\u00f3n Pelao",
-      "url": "https://open.spotify.com/track/4TVANpQOkqEjTjge4Xk8zu"
+      "duration_ms": 191000,
+      "name": "El Tirador",
+      "url": "https://open.spotify.com/track/3F2dFmMNcTWAPU6xPARLTA"
     },
     {
       "added_at": null,
@@ -259,22 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tirador",
-        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
+        "name": "Busca Amor",
+        "url": "https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt"
       },
       "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        },
         {
           "name": "Banda Vallarta Show",
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 191000,
-      "name": "El Tirador",
-      "url": "https://open.spotify.com/track/3F2dFmMNcTWAPU6xPARLTA"
+      "duration_ms": 177586,
+      "name": "Camar\u00f3n Pelao",
+      "url": "https://open.spotify.com/track/4TVANpQOkqEjTjge4Xk8zu"
     },
     {
       "added_at": null,

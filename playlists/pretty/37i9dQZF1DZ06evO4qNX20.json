@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 323533,
+  "num_followers": 323581,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAABfGHGdvDSJSFJ+6G0x/CTN",
+  "snapshot_id": "Z9i3gAAAAAD9T41btlCV75cLr09P/xfD",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chalino S\u00e1nchez con Banda Brava",
-        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
+        "name": "Recordando A Chalino",
+        "url": "https://open.spotify.com/album/0p091X45za7loFjKaHPLaj"
       },
       "artists": [
         {
           "name": "Chalino Sanchez",
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
         }
       ],
-      "duration_ms": 201340,
-      "name": "Ignacio Parra",
-      "url": "https://open.spotify.com/track/2lUOZkS5QryL7hsr1s7coV"
+      "duration_ms": 174927,
+      "name": "El P\u00e1vido N\u00e1vido",
+      "url": "https://open.spotify.com/track/3l1YSF2pus1uieW2uYU99Q"
     },
     {
       "added_at": null,
@@ -447,18 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recordando A Chalino",
-        "url": "https://open.spotify.com/album/0p091X45za7loFjKaHPLaj"
+        "name": "Chalino S\u00e1nchez con Banda Brava",
+        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
       "artists": [
         {
           "name": "Chalino Sanchez",
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
         }
       ],
-      "duration_ms": 174927,
-      "name": "El P\u00e1vido N\u00e1vido",
-      "url": "https://open.spotify.com/track/3l1YSF2pus1uieW2uYU99Q"
+      "duration_ms": 201340,
+      "name": "Ignacio Parra",
+      "url": "https://open.spotify.com/track/2lUOZkS5QryL7hsr1s7coV"
     },
     {
       "added_at": null,

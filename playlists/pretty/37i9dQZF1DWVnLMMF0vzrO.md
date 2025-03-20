@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 
 > All the music from Narcos: Mexico, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,762 likes - 167 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,763 likes - 167 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 52 | [<THE PROPOSITION> String Quartet No.13 in A minor, op\. 29/1 \(D 804\)/ 2nd mvt: Andante \(Schubert\)](https://open.spotify.com/track/2z40R2TVRycxm2X9nscBBe) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Caspar Da Salo Quartet](https://open.spotify.com/artist/6fA42vVlMVaSQzpxR2lq67) | [CINEMA CLASSICS Suspense Movies Vol.8 : APT PUPIL/THE GOOD MOTHER](https://open.spotify.com/album/5GNqAZgmUd9SOm2A3fjjHh) | 7:10 |
 | 53 | [Smalltown Boy](https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Age of Consent](https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI) | 5:02 |
 | 54 | [Edge of Seventeen](https://open.spotify.com/track/2id8E4WvczfKHB4LHI7Np3) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Crystal Visions...The Very Best of Stevie Nicks](https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL) | 5:29 |
-| 55 | [I'm Going to Go \- Original Mix](https://open.spotify.com/track/4Mk5hq0A4dgWvzuVhbTRlm) | [Jago](https://open.spotify.com/artist/3ZepWYJPVpM1bTypDMG71K) | [I'm Going to Go](https://open.spotify.com/album/2Xi2f5FJFdYtiXkXayccYf) | 5:16 |
+| 55 | [I'm Going to Go \- Original Mix](https://open.spotify.com/track/4Mk5hq0A4dgWvzuVhbTRlm) | [JAGO](https://open.spotify.com/artist/75jrbO9SizBRcSb8vq3GtH) | [I'm Going to Go](https://open.spotify.com/album/2Xi2f5FJFdYtiXkXayccYf) | 5:16 |
 | 56 | [Eye of the Tiger](https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Eye Of The Tiger](https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W) | 4:03 |
 | 57 | [4\-3\-1](https://open.spotify.com/track/2XW91MRYrV48sHN2mWQZHH) | [The Jetzons](https://open.spotify.com/artist/4F9XnyS4TQemyMMnKybpuh) | [The Complete Jetzons](https://open.spotify.com/album/5SgWn9vZ7uZurp5JOM2ssz) | 4:18 |
 | 58 | [Las Mañanitas](https://open.spotify.com/track/5kWzM5dWoG54dGyFb5uMuX) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Lo Mejor De La Baraja Con El Rey](https://open.spotify.com/album/4AbxC9BjfOj9T5pQ665zzs) | 2:41 |

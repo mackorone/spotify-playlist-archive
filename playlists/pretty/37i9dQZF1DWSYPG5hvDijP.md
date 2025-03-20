@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Bucks Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,132 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,143 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 4 | [Leher](https://open.spotify.com/track/63mxH2WtGSKfDeLDbQds1i) | [Nazz](https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB), [Audiocrackerr](https://open.spotify.com/artist/6R3w3WdJRJqEMRc0qy1z5i) | [Leher](https://open.spotify.com/album/6bdW1xgJKjKW3E8VNFWmRf) | 2:36 |
 | 5 | [Birth](https://open.spotify.com/track/1P0evknK2TnUhjg3cazTjA) | [RG](https://open.spotify.com/artist/7js4Wll53x2oDI82RrDZSS), [Echo](https://open.spotify.com/artist/4oEEOrfHNLGaNQp0cbYQw0), [ADXB](https://open.spotify.com/artist/486MjDeZtm3qMyAiBuQASs) | [Birth](https://open.spotify.com/album/2xYVoBqsgaMr6QSHME0G2Y) | 1:57 |
 | 6 | [One More Round](https://open.spotify.com/track/22I4ADDYkU8PgMKdCbO2Lk) | [Rob C](https://open.spotify.com/artist/4hEz4Vg09BEJcypoN4WnAi), [Harry Spark](https://open.spotify.com/artist/4rjoncFFlCXRsbwdpfOd1q) | [One More Round](https://open.spotify.com/album/0603Fm3tJKZF635y3Gwnyy) | 3:05 |
-| 7 | [Sikha Mat](https://open.spotify.com/track/6WUUgExQMqsT9ze52ES0fJ) | [SILEN8](https://open.spotify.com/artist/3NbABoF5iaOwgSka0rIBd5), [A.D](https://open.spotify.com/artist/2TGf1vuTx2hQiiDhdLTUx0) | [Sikha Mat](https://open.spotify.com/album/0wZRQmufm2M8tJntFglqEo) | 2:34 |
+| 7 | [Sikha Mat](https://open.spotify.com/track/6WUUgExQMqsT9ze52ES0fJ) | [SILEN8](https://open.spotify.com/artist/3NbABoF5iaOwgSka0rIBd5), [A.D](https://open.spotify.com/artist/3wxWKzbNQt7P33lm8hoP6S) | [Sikha Mat](https://open.spotify.com/album/0wZRQmufm2M8tJntFglqEo) | 2:34 |
 | 8 | [Dear Aditya](https://open.spotify.com/track/2DFpDzrY1aDKVbMeJVAs9l) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Dear Aditya](https://open.spotify.com/album/1iK0ltlEUBYot5LHDK2cTB) | 3:37 |
 | 9 | [Charter \(Freestyle\)](https://open.spotify.com/track/3A7XCQf2wkuSotK9VRPpwx) | [Ansh4sure](https://open.spotify.com/artist/50v8c6DzqnysN9InIun5MA), [SickLot](https://open.spotify.com/artist/2NYWuAn8LPsebNkudbSLA6) | [Charter \(Freestyle\)](https://open.spotify.com/album/10jf2Whfy0WnBpU1IGTDlz) | 2:07 |
 | 10 | [ONLY ONE](https://open.spotify.com/track/35o4cCuOaikxLr5U6kft5f) | [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [One Day It Will All Make Sense](https://open.spotify.com/album/19Mm6euzUtEIpsTDkkjnsi) | 3:35 |

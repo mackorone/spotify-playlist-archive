@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: 4Batz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,071,299 likes - 213 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,071,358 likes - 213 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

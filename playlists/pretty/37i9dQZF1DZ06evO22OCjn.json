@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 309177,
+  "num_followers": 309229,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAACl9fC5A6EFrUt8ACIOl/XM",
+  "snapshot_id": "Z9i3gAAAAABFH+xXWmkWFEEbt6qxCPfg",
   "tracks": [
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/50qNx4v7MKypMx5wGynQ8j"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 200501,
+      "name": "Pree Me",
+      "url": "https://open.spotify.com/track/0Jf5aygE2PZ3xXBu0B4Ezd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 188741,
       "name": "Anybody",
       "url": "https://open.spotify.com/track/0JoEdvXnroF2eVAaErd945"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/50qNx4v7MKypMx5wGynQ8j"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 200501,
-      "name": "Pree Me",
-      "url": "https://open.spotify.com/track/0Jf5aygE2PZ3xXBu0B4Ezd"
     },
     {
       "added_at": null,

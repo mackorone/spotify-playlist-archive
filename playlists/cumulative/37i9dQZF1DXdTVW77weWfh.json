@@ -3203,6 +3203,36 @@
     },
     {
       "album": {
+        "name": "Beethoven: Violin Concerto in D Major, Op. 61: II. Larghetto",
+        "url": "https://open.spotify.com/album/7vmiXrIjjRNN5dy00sCtnX"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Nicola Benedetti",
+          "url": "https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW"
+        },
+        {
+          "name": "Aurora Orchestra",
+          "url": "https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ"
+        },
+        {
+          "name": "Nicholas Collon",
+          "url": "https://open.spotify.com/artist/23qJKSvfqtc9c3VFwdEV4a"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 546933,
+      "name": "Violin Concerto in D Major, Op. 61: II. Larghetto",
+      "url": "https://open.spotify.com/track/14sRnzorGSPbWzTnISgQYr"
+    },
+    {
+      "album": {
         "name": "Beethoven: Violin Concerto op.61; Violin Sonata op.47 'Kreutzer'",
         "url": "https://open.spotify.com/album/4J6lGlZRjK1Hfwrz9qqQbh"
       },
@@ -3256,7 +3286,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 601000,
       "name": "Violin Concerto In D, Op. 61: 2. Larghetto -",
       "url": "https://open.spotify.com/track/2aapVsnqPkQbJ3RqeIjkUR"

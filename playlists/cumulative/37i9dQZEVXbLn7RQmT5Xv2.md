@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-985 songs - 2 day 9 hr 16 min
+986 songs - 2 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -550,7 +550,7 @@
 | [Ray'a](https://open.spotify.com/track/5OqP6CKUFRyoeVQnOU37ds) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ray'a](https://open.spotify.com/album/70QFgfmKKOBw8ZNrwvfM8w) | 4:06 | 2021-11-17 | 2022-01-25 |
 | [Raye2](https://open.spotify.com/track/5FG5OwMxg6fUSW8cD3W6M0) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Raye2](https://open.spotify.com/album/2czAtFBjF4awl68FiZQxUE) | 3:47 | 2023-07-23 | 2023-08-27 |
 | [Ra’sa Slow](https://open.spotify.com/track/0VTA7UNm4ploUs884YAz9w) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Ra’sa Slow](https://open.spotify.com/album/7fzgWkatGkQaotzwJo6tTp) | 3:12 | 2022-03-02 | 2022-03-15 |
-| [Rehla](https://open.spotify.com/track/78veJTXWwR5FxpZ7dW0Plr) | [Ilmond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Bye](https://open.spotify.com/album/0iSk85tbMn33Sao5E3UHtZ) | 3:44 | 2024-08-03 |  |
+| [Rehla](https://open.spotify.com/track/78veJTXWwR5FxpZ7dW0Plr) | [Ilmond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Bye](https://open.spotify.com/album/0iSk85tbMn33Sao5E3UHtZ) | 3:44 | 2024-08-03 | 2025-03-20 |
 | [Rehla](https://open.spotify.com/track/61krPxyIuTV8tpzMxHEWJh) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Bye](https://open.spotify.com/album/3SmWFNWaftpdq1hwvQjQuI) | 3:44 | 2023-03-24 | 2024-07-19 |
 | [Reyah El Hayah](https://open.spotify.com/track/08yqfVX2AXNzrq6xlaGB3h) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Raye2](https://open.spotify.com/album/1pSEP1POnPOIDGaNol4mOs) | 3:49 | 2023-09-29 | 2025-02-28 |
 | [Reyah El Hayah](https://open.spotify.com/track/1ZuHXbFUhAb3SHOn4TzQbW) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Reyah El Hayah](https://open.spotify.com/album/0pyY1M7TsYkpXll7BpjI4i) | 3:49 | 2023-08-05 | 2023-09-30 |
@@ -630,7 +630,7 @@
 | [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:02 | 2022-12-08 | 2022-12-19 |
 | [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/70UV1HmppYUxBI6yCev4d5) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:02 | 2022-12-04 | 2022-12-09 |
 | [Sutra](https://open.spotify.com/track/2cns6AtYN36k2N6T5zaXZD) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Sutra](https://open.spotify.com/album/1leaz6N1vTWJ9kp2KBIAgZ) | 2:53 | 2022-07-27 | 2022-07-31 |
-| [SWISSRA](https://open.spotify.com/track/0lGBH3NhfXHdOM1GswMqh3) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [BGD](https://open.spotify.com/album/3hQ9AVm4vx93ZKigdypD5Q) | 2:13 | 2025-02-02 |  |
+| [SWISSRA](https://open.spotify.com/track/0lGBH3NhfXHdOM1GswMqh3) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [BGD](https://open.spotify.com/album/3hQ9AVm4vx93ZKigdypD5Q) | 2:13 | 2025-02-02 | 2025-03-20 |
 | [SWLGN](https://open.spotify.com/track/4I4l381Nz6wjjcphptEFMj) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [SWLGN](https://open.spotify.com/album/6IZQTVy9JL7uPxYHJhAYqX) | 2:52 | 2021-08-28 | 2021-08-29 |
 | [Ta3ala Adalla3ak](https://open.spotify.com/track/3LXPZvEHf0vhgFKs4giHSS) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 3:31 | 2022-01-04 | 2023-07-25 |
 | [Tab Aoulak \- Karkouba](https://open.spotify.com/track/10kAWGJi58siX7qOKFt2uY) | [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [Tab Aoulak \- Karkouba](https://open.spotify.com/album/2dNRGgO2tkZiaVLOPcgDjP) | 3:46 | 2023-04-11 | 2023-11-13 |
@@ -713,7 +713,7 @@
 | [Ya Salam](https://open.spotify.com/track/71NxDRVhiagwxQX1tyMzUR) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Beeny we Beenek](https://open.spotify.com/album/198vpQGBG1ZBoLCpxR1Qvn) | 4:36 | 2022-02-21 | 2022-02-24 |
 | [Ya Salam \- Remix](https://open.spotify.com/track/7kFcz3xHq7hsOrfQWkipvP) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Ya Salam \(Remix\)](https://open.spotify.com/album/3hmV8luknujbOif3arzW4J) | 4:13 | 2022-02-28 | 2022-10-15 |
 | [Ya Wa3dy](https://open.spotify.com/track/6j88kr0UP2Fof1HzhKbCA9) | [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky) | [Ya Wa3dy](https://open.spotify.com/album/4I8Wyq7R75sBcFSIoqytZ7) | 3:01 | 2022-03-21 | 2022-03-23 |
-| [Yaah](https://open.spotify.com/track/45VT46xVVf2haISCNCdt6U) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/4ovMza1WebamIyWDRupshi) | 4:10 | 2025-01-17 | 2025-03-19 |
+| [Yaah](https://open.spotify.com/track/45VT46xVVf2haISCNCdt6U) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/4ovMza1WebamIyWDRupshi) | 4:10 | 2025-01-17 |  |
 | [Yaah](https://open.spotify.com/track/70dKMd8vTYyNZ0UBbtrT00) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/1kOTpVpceIIpzMSoHgTOK9) | 4:10 | 2024-12-21 | 2025-01-18 |
 | [Yaba](https://open.spotify.com/track/79pLcKb0uJOaROzStukq0f) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Baad Montasaf Al Leil](https://open.spotify.com/album/1Ssez3FFutWFtAvENJ3WDH) | 4:00 | 2023-02-18 | 2023-02-23 |
 | [Yazmeely](https://open.spotify.com/track/0rDNeS6IwKi1oMrtkEc5S0) | [Ilmond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Ya Kahera](https://open.spotify.com/album/4vCordbfumvDUXJBcDXoHm) | 3:16 | 2024-06-18 |  |
@@ -823,6 +823,7 @@
 | [حبيبي وابن حبيبي \- من مسلسل كامل العدد ++](https://open.spotify.com/track/5OcVGQFVNvHt25O5ko22tF) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [حبيبي وابن حبيبي \(من مسلسل كامل العدد ++\)](https://open.spotify.com/album/67zii02wzTY1Zq4ExpGAUy) | 3:16 | 2025-03-16 |  |
 | [حدوته ألماني](https://open.spotify.com/track/2bXrayhgyX8nvNNxMjFT0b) | [Hussein Black](https://open.spotify.com/artist/2iPEr3Uk3Nvikdnx4e3ELe) | [حدوته ألماني](https://open.spotify.com/album/2TeKtE9myzBTuM0MmrlGkl) | 2:35 | 2022-07-16 | 2022-07-28 |
 | [حدوته المانى](https://open.spotify.com/track/1hpjMinSryyJGslYdF0cyy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 2:37 | 2022-07-13 | 2023-06-11 |
+| [حفلة تنكرية](https://open.spotify.com/track/41IZAYettcwnRMaS3ZewW7) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [حفلة تنكرية](https://open.spotify.com/album/1jlPHHOIkfLUYWzbsCOBxF) | 3:10 | 2025-03-19 |  |
 | [حكمة الايام \- من مسلسل ريفو](https://open.spotify.com/track/2xJ0wrRkWDi6XxQsiYbO3T) | [ريفو شو](https://open.spotify.com/artist/176F6CdFEVWYNwqM6HEXU2) | [Rivo \(من مسلسل ريفو\)](https://open.spotify.com/album/1EfYYVFrbQubucndRHR9um) | 3:02 | 2023-07-22 | 2023-08-28 |
 | [حلوة منك \(من فيلم "فوي! فوي! فوي!"\)](https://open.spotify.com/track/0UDDU3BpxRA9tuXvXXp8hY) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [حلوة منك \(من فيلم "فوي! فوي! فوي!"\)](https://open.spotify.com/album/68OVb1DYVsSjAbAVCl03SW) | 3:30 | 2023-09-08 | 2023-09-13 |
 | [حمرا](https://open.spotify.com/track/0nkJCooURSEVpWFpeYOzeI) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [حمرا](https://open.spotify.com/album/0g8MIat372o8vp1Shk1sMe) | 3:38 | 2023-03-14 | 2023-07-07 |

@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,591 songs - 4 day 0 hr 13 min
+1,592 songs - 4 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,7 +369,7 @@
 | [Gentle Hands](https://open.spotify.com/track/2JkLmkvLRq89CrcrOdOBT8) | [Original Love & TENDRE](https://open.spotify.com/artist/38mbylHdhnt6RSf0HyHWnm), [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Gentle Hands](https://open.spotify.com/album/1mq2LQh4ZcG8USY6v8ujpL) | 4:12 | 2022-07-28 | 2022-08-31 |
 | [Get Back](https://open.spotify.com/track/0lxWZTQh1QLGH0mKHfMcip) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Get Back](https://open.spotify.com/album/5n3LWRLAo23gemhWfTB4Mc) | 3:27 | 2023-04-05 | 2023-05-10 |
 | [Get Back](https://open.spotify.com/track/2L4TksDkTcAfZXGNjpdQqG) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Get Back](https://open.spotify.com/album/3tEL6DBYyXvtDSmQBDNog5) | 3:27 | 2023-04-04 | 2023-04-06 |
-| [Get Back To 人生](https://open.spotify.com/track/4sg2qkykUHXz9Sf3XcAvJX) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Rejoice](https://open.spotify.com/album/66azqlrT0IYzfh3621YClv) | 4:27 | 2024-07-24 |  |
+| [Get Back To 人生](https://open.spotify.com/track/4sg2qkykUHXz9Sf3XcAvJX) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Rejoice](https://open.spotify.com/album/66azqlrT0IYzfh3621YClv) | 4:27 | 2024-07-24 | 2025-03-20 |
 | [Get High](https://open.spotify.com/track/4dvDMK8wf5iHucQrjEEgDB) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Get High](https://open.spotify.com/album/1vyUAdY2zcg4r5ZwIdBNaK) | 3:40 | 2022-12-27 | 2023-03-18 |
 | [Get Off](https://open.spotify.com/track/0axCN0CUIlCP3nfQGsZqkU) | [grooveman Spot](https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [Kzyboost](https://open.spotify.com/artist/4zJ19jYGUpEGwnTVEYDPil) | [Lie\-Sense](https://open.spotify.com/album/3btL3ykW37l6MXyHsVq6CU) | 4:07 | 2023-08-01 | 2023-08-30 |
 | [GET OUT OF MY WAY](https://open.spotify.com/track/43QaBA5Nv7TlI2fWm6xdFS) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [GET OUT OF MY WAY / LIES](https://open.spotify.com/album/66APZxXYLfYuSz2P7ZWqH8) | 2:57 | 2022-10-18 | 2022-10-20 |
@@ -1566,6 +1566,7 @@
 | [舞台の上で](https://open.spotify.com/track/51SCBTWn7HbmBRPRHNB8Re) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA), [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [舞台の上で](https://open.spotify.com/album/4XYTZrIy61jFCIj0c4IoPB) | 3:38 | 2022-05-26 | 2022-08-12 |
 | [花](https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw) | 4:06 | 2024-04-16 |  |
 | [花一匁](https://open.spotify.com/track/6yS6Q8iSiXqvqfjfJ67RRg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [花一匁](https://open.spotify.com/album/5nDlxSLsbMzLKGScoh3Yc5) | 4:10 | 2023-06-06 | 2023-06-14 |
+| [花無双](https://open.spotify.com/track/2sJyR6ekoLAHUBHuKO3J1d) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [花無双](https://open.spotify.com/album/0Vx6D5yGvkNYGbrDYhQTwA) | 3:43 | 2025-03-18 |  |
 | [薔薇と散る](https://open.spotify.com/track/0fi1lzX45qrp6ZWZWZWwiQ) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [薔薇と散る](https://open.spotify.com/album/4oX3vpDuBMy3RB5q8ezIUW) | 3:05 | 2025-02-21 |  |
 | [蜃気楼](https://open.spotify.com/track/2pedGdJaB5160FLTCCz2g2) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [夢中夢](https://open.spotify.com/album/62kdE7eeVhMWFMvvHPxiBn) | 4:27 | 2023-06-27 | 2023-06-29 |
 | [行間](https://open.spotify.com/track/4H478qhSk6CmTSYqZGzB8B) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [Into My System](https://open.spotify.com/album/44TqGExh3o6ucPOPsokHRt) | 4:34 | 2024-03-05 | 2024-03-08 |

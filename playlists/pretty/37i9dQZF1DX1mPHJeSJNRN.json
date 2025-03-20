@@ -1,6 +1,6 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 17653,
+  "num_followers": 17680,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
@@ -215,26 +215,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "The President Plays With The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "On The Sunny Side Of The Street",
-      "url": "https://open.spotify.com/track/42glcnGSZYpv5kg9izfAuP"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "Music from the Front Room",
         "url": "https://open.spotify.com/album/6Pz9Wt7PD6YTkw4D4LQSDO"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 231502,
       "name": "Blueberry Hill",
       "url": "https://open.spotify.com/track/7zI3nF4mahUbVKjxRjhmEt"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "The President Plays With The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "On The Sunny Side Of The Street",
+      "url": "https://open.spotify.com/track/42glcnGSZYpv5kg9izfAuP"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "The Lost Tapes",
-        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "duration_ms": 220440,
-      "name": "There'll Be Another Spring",
-      "url": "https://open.spotify.com/track/22vHml55QoZoqhE5yl57DS"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "Some Other Time",
         "url": "https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 207895,
       "name": "Some Other Time",
       "url": "https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "The Lost Tapes",
+        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "There'll Be Another Spring",
+      "url": "https://open.spotify.com/track/22vHml55QoZoqhE5yl57DS"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "Dare That Dream",
-        "url": "https://open.spotify.com/album/1AdSm7UbxUBWBI0UgEteiB"
-      },
-      "artists": [
-        {
-          "name": "Estelle Perrault",
-          "url": "https://open.spotify.com/artist/7II0Oxp6gCx6MJwnWW8weP"
-        }
-      ],
-      "duration_ms": 256972,
-      "name": "You Must Believe In Spring",
-      "url": "https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "They Say It's Swing",
         "url": "https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 249997,
       "name": "They Say It's Spring",
       "url": "https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "Dare That Dream",
+        "url": "https://open.spotify.com/album/1AdSm7UbxUBWBI0UgEteiB"
+      },
+      "artists": [
+        {
+          "name": "Estelle Perrault",
+          "url": "https://open.spotify.com/artist/7II0Oxp6gCx6MJwnWW8weP"
+        }
+      ],
+      "duration_ms": 256972,
+      "name": "You Must Believe In Spring",
+      "url": "https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -751,18 +751,18 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "'Round Midnight",
-        "url": "https://open.spotify.com/album/4xwaeLH44zzZQdxWUZPg3V"
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
       },
       "artists": [
         {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
         }
       ],
-      "duration_ms": 194173,
-      "name": "April Come She Will",
-      "url": "https://open.spotify.com/track/1VpjU6LnYh3IPH5et04Vj3"
+      "duration_ms": 208391,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/3hfn5Sf3AJAvurLAuObfRK"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -779,22 +779,6 @@
       "duration_ms": 203813,
       "name": "April In Paris",
       "url": "https://open.spotify.com/track/1WDlBvlNSMA5kmj3PTYh3C"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
-        "name": "Confessions",
-        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
-      },
-      "artists": [
-        {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
-        }
-      ],
-      "duration_ms": 208391,
-      "name": "No Regrets",
-      "url": "https://open.spotify.com/track/3hfn5Sf3AJAvurLAuObfRK"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -819,6 +803,38 @@
       "duration_ms": 237013,
       "name": "Cad\u00eancia",
       "url": "https://open.spotify.com/track/7GJOLBA86KpT1BnCD1yXIs"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/4xwaeLH44zzZQdxWUZPg3V"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 194173,
+      "name": "April Come She Will",
+      "url": "https://open.spotify.com/track/1VpjU6LnYh3IPH5et04Vj3"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "Feelin' Good",
+        "url": "https://open.spotify.com/album/0pbKbSVpKuXACK5ibuUo7e"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 190345,
+      "name": "Just A Little Lovin'",
+      "url": "https://open.spotify.com/track/3YlIKafSOnFnfjAs1E80ng"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -855,22 +871,6 @@
       "duration_ms": 177586,
       "name": "My Heart Stood Still",
       "url": "https://open.spotify.com/track/5q91yKtiubyJEFaaEvDJCD"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
-        "name": "Feelin' Good",
-        "url": "https://open.spotify.com/album/0pbKbSVpKuXACK5ibuUo7e"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 190345,
-      "name": "Just A Little Lovin'",
-      "url": "https://open.spotify.com/track/3YlIKafSOnFnfjAs1E80ng"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
-        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "I Will Wait for You",
-      "url": "https://open.spotify.com/track/7lZEeFkTjWvwoVIVJ54vGT"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "Let's Sail Away",
         "url": "https://open.spotify.com/album/5ONLFeBhrqRDGq5Y9x3ccD"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 277866,
       "name": "Something 'bout the Rain",
       "url": "https://open.spotify.com/track/2WfHw7Hr7VWvQmdeZnIrLK"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
+        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "I Will Wait for You",
+      "url": "https://open.spotify.com/track/7lZEeFkTjWvwoVIVJ54vGT"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "Where Do You Start",
-        "url": "https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 526613,
-      "name": "Holland",
-      "url": "https://open.spotify.com/track/6or1VbOYOIjDPxJxyjZvuE"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "Songs from the Heart (Remastered 2013)",
         "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 191332,
       "name": "I'll Remember April",
       "url": "https://open.spotify.com/track/57d7EP17867urAaj7vp3Tt"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "Where Do You Start",
+        "url": "https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 526613,
+      "name": "Holland",
+      "url": "https://open.spotify.com/track/6or1VbOYOIjDPxJxyjZvuE"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 381560,
-      "name": "Gone With The Wind",
-      "url": "https://open.spotify.com/track/5IBREbYRb8KyBIu1TyxDXq"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "Flirting With Twilight",
         "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 297726,
       "name": "Say It",
       "url": "https://open.spotify.com/track/22lW7vmzXA6Epzv8vGd46L"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 381560,
+      "name": "Gone With The Wind",
+      "url": "https://open.spotify.com/track/5IBREbYRb8KyBIu1TyxDXq"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
-      },
-      "artists": [
-        {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
-        }
-      ],
-      "duration_ms": 179906,
-      "name": "I Can't Be Bothered Now",
-      "url": "https://open.spotify.com/track/03IDpwMNgvxcrCo6SwZxlX"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "From Here I See",
         "url": "https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 248666,
       "name": "Who's Lily?",
       "url": "https://open.spotify.com/track/44ZlML36cTMW7U2MhW5AFU"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "duration_ms": 179906,
+      "name": "I Can't Be Bothered Now",
+      "url": "https://open.spotify.com/track/03IDpwMNgvxcrCo6SwZxlX"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "Your Songs",
-        "url": "https://open.spotify.com/album/38iX1KFM9RtgHceJEU5mMd"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "All The Way",
-      "url": "https://open.spotify.com/track/1j6TY7oXSXwJWoo0MzIBCl"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "Time for Ballads - The Maene Sessions",
         "url": "https://open.spotify.com/album/0A3ky8Ix813biINCcxXAe5"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 258680,
       "name": "Roaring Heights",
       "url": "https://open.spotify.com/track/2wFSomD4N8Zwd4JriLtkm3"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "Your Songs",
+        "url": "https://open.spotify.com/album/38iX1KFM9RtgHceJEU5mMd"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/1j6TY7oXSXwJWoo0MzIBCl"
     },
     {
       "added_at": "2025-03-13 14:14:40",

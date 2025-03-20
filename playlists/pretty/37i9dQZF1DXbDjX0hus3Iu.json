@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 517133,
+  "num_followers": 517206,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -336,8 +336,8 @@
       },
       "artists": [
         {
-          "name": "Little Feat",
-          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+          "name": "Little",
+          "url": "https://open.spotify.com/artist/7FZ02DGQAOXmiHPmevozK4"
         }
       ],
       "duration_ms": 174573,
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Molly Hatchet",
-        "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
-      },
-      "artists": [
-        {
-          "name": "Molly Hatchet",
-          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
-        }
-      ],
-      "duration_ms": 376666,
-      "name": "Gator Country",
-      "url": "https://open.spotify.com/track/2o6cfQNwM9njeMjhC2muaY"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "Feats Don't Fail Me Now",
         "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 209373,
       "name": "Oh, Atlanta",
       "url": "https://open.spotify.com/track/1PraqvAnggduSq9zCTOSTF"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Molly Hatchet",
+        "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
+      },
+      "artists": [
+        {
+          "name": "Molly Hatchet",
+          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
+        }
+      ],
+      "duration_ms": 376666,
+      "name": "Gator Country",
+      "url": "https://open.spotify.com/track/2o6cfQNwM9njeMjhC2muaY"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "High On The Hog",
-        "url": "https://open.spotify.com/album/0dDpccoB4BNvUKVTUJyFkC"
+        "name": "Strikes",
+        "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
       },
       "artists": [
         {
-          "name": "Black Oak Arkansas",
-          "url": "https://open.spotify.com/artist/07xwCifj3iE7F6fYHin4TU"
+          "name": "Blackfoot",
+          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
         }
       ],
-      "duration_ms": 161506,
-      "name": "Jim Dandy",
-      "url": "https://open.spotify.com/track/0JFEn4sPozptBShOuqMQVs"
+      "duration_ms": 277960,
+      "name": "Left Turn on a Red Light",
+      "url": "https://open.spotify.com/track/16pGi1ZNrsPvx5TD8oFleb"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
+        "name": "High On The Hog",
+        "url": "https://open.spotify.com/album/0dDpccoB4BNvUKVTUJyFkC"
+      },
+      "artists": [
+        {
+          "name": "Black Oak Arkansas",
+          "url": "https://open.spotify.com/artist/07xwCifj3iE7F6fYHin4TU"
+        }
+      ],
+      "duration_ms": 161506,
+      "name": "Jim Dandy",
+      "url": "https://open.spotify.com/track/0JFEn4sPozptBShOuqMQVs"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
         "name": "Where a Country Boy Belongs",
         "url": "https://open.spotify.com/album/0rP1zFi6WyUG9TxKmGknG1"
       },
@@ -811,22 +827,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Strikes",
-        "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
-      },
-      "artists": [
-        {
-          "name": "Blackfoot",
-          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
-        }
-      ],
-      "duration_ms": 277960,
-      "name": "Left Turn on a Red Light",
-      "url": "https://open.spotify.com/track/16pGi1ZNrsPvx5TD8oFleb"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "Quinella",
         "url": "https://open.spotify.com/album/2J54cdWZ2zZOsk3tQW8zdN"
       },
@@ -839,6 +839,22 @@
       "duration_ms": 253560,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/1gA9l5loCNn8fOFIzXb6T2"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Marauder",
+        "url": "https://open.spotify.com/album/7j0wSeUKj4rz2Surh5ICdN"
+      },
+      "artists": [
+        {
+          "name": "Blackfoot",
+          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "Rattlesnake Rock 'N' Roller",
+      "url": "https://open.spotify.com/track/1qDqZxOGB335PJYjIUvwP3"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -923,38 +939,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Just Before The Bullets Fly",
-        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
-      },
-      "artists": [
-        {
-          "name": "The Gregg Allman Band",
-          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "Before the Bullets Fly",
-      "url": "https://open.spotify.com/track/5xvuT6wnNLBkKQebgAQd82"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
-        "name": "Marauder",
-        "url": "https://open.spotify.com/album/7j0wSeUKj4rz2Surh5ICdN"
-      },
-      "artists": [
-        {
-          "name": "Blackfoot",
-          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
-        }
-      ],
-      "duration_ms": 242773,
-      "name": "Rattlesnake Rock 'N' Roller",
-      "url": "https://open.spotify.com/track/1qDqZxOGB335PJYjIUvwP3"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1fxEYNwdEzlAMOIzpdXy5w"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 185840,
       "name": "Searchin' for a Rainbow",
       "url": "https://open.spotify.com/track/5zS2DXR0XKNsVQSCHGEhx2"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Just Before The Bullets Fly",
+        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
+      },
+      "artists": [
+        {
+          "name": "The Gregg Allman Band",
+          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "Before the Bullets Fly",
+      "url": "https://open.spotify.com/track/5xvuT6wnNLBkKQebgAQd82"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Just Before The Bullets Fly",
-        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
-      },
-      "artists": [
-        {
-          "name": "The Gregg Allman Band",
-          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
-        }
-      ],
-      "duration_ms": 255840,
-      "name": "Island",
-      "url": "https://open.spotify.com/track/0UHSZ1m3t9vcL1MYqTJSge"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "Ghost Train from Georgia",
         "url": "https://open.spotify.com/album/3CzO7hK3zGqFozpM84ZPMD"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 355226,
       "name": "Miss Understanding",
       "url": "https://open.spotify.com/track/4sfYUnIVr30sro1cyg2Xsc"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Just Before The Bullets Fly",
+        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
+      },
+      "artists": [
+        {
+          "name": "The Gregg Allman Band",
+          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
+        }
+      ],
+      "duration_ms": 255840,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/0UHSZ1m3t9vcL1MYqTJSge"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Pullin' Together",
-        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
-      },
-      "artists": [
-        {
-          "name": "Grinderswitch",
-          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Open Road",
-      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "Dark Side of the Mule (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2V78RuVG8YmX509TP0DM51"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 223760,
       "name": "Bad Little Doggie",
       "url": "https://open.spotify.com/track/3ugXVwlV5FvbyeYRZ0YjFN"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Pullin' Together",
+        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
+      },
+      "artists": [
+        {
+          "name": "Grinderswitch",
+          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Open Road",
+      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1503,8 +1503,8 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Brothers And Sisters (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1n9rbMLUmrXBBBJffS7pDj"
+        "name": "Eat A Peach (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4yvCI9bSiajFEvrYTgzmpe"
       },
       "artists": [
         {
@@ -1512,9 +1512,9 @@
           "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
         }
       ],
-      "duration_ms": 288160,
-      "name": "Ramblin' Man",
-      "url": "https://open.spotify.com/track/2Q7LpkYrS0PBpoq3iCqypa"
+      "duration_ms": 309386,
+      "name": "Blue Sky",
+      "url": "https://open.spotify.com/track/7uhGHDIJCKP5mbC0WidMAS"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1599,8 +1599,8 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Eat A Peach (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4yvCI9bSiajFEvrYTgzmpe"
+        "name": "Brothers And Sisters (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1n9rbMLUmrXBBBJffS7pDj"
       },
       "artists": [
         {
@@ -1608,9 +1608,9 @@
           "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
         }
       ],
-      "duration_ms": 309386,
-      "name": "Blue Sky",
-      "url": "https://open.spotify.com/track/7uhGHDIJCKP5mbC0WidMAS"
+      "duration_ms": 288160,
+      "name": "Ramblin' Man",
+      "url": "https://open.spotify.com/track/2Q7LpkYrS0PBpoq3iCqypa"
     }
   ],
   "unique_name": "Southern Rock",

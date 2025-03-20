@@ -4,7 +4,7 @@
 
 > Back to the golden age of the scene\. Cover: Underoath
 
-248 songs - 15 hr 38 min
+249 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Remember To Feel Real](https://open.spotify.com/track/249LfLwS8qVzqu61TvBVs0) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [What To Do When You Are Dead](https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK) | 3:21 | 2023-03-28 |  |
 | [Ride The Wings Of Pestilence](https://open.spotify.com/track/5TljqB3tKMmYMRXUc95mjt) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Dear Diary, My Teen Angst Has A Body Count](https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS) | 4:27 | 2021-12-07 |  |
 | [Right Side Of The Bed](https://open.spotify.com/track/3PhrThKR4BSspkg7zCTECh) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Curse](https://open.spotify.com/album/0Re8J0tmk2LNlRl4GxUowc) | 3:42 | 2021-12-07 | 2022-07-29 |
+| [Robots 3 Humans 0](https://open.spotify.com/track/7g2HoVn3w2eItlOGSoqP4L) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [The Anti Mother](https://open.spotify.com/album/0GZJgWLGPiJi8TTp5hDnY4) | 4:29 | 2024-10-03 |  |
 | [Rookie](https://open.spotify.com/track/3f0VeXFWFrDjt9BFmRPIej) | [Boysetsfire](https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj) | [After The Eulogy](https://open.spotify.com/album/3p9Mqd8RUupzqYSRgCAjPX) | 4:13 | 2021-12-07 |  |
 | [Rookie Of The Year](https://open.spotify.com/track/49W8opgkv41FNWmTYdgjCp) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed & Deep In Conversation](https://open.spotify.com/album/3wt9zG5lJJsPIs64JOSrEA) | 3:00 | 2023-03-20 | 2024-04-19 |
 | [Rookie of the Year](https://open.spotify.com/track/05IWxcvFY5t7fUVJQdK9GA) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 3:00 | 2023-03-28 |  |
@@ -229,7 +230,7 @@
 | [To The Stage](https://open.spotify.com/track/3jY2pJZvTHb4E5GeiohGUb) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Reckless And Relentless](https://open.spotify.com/album/3SsE7P6yJI2HxP4BTbCfOT) | 3:30 | 2021-12-07 | 2022-12-12 |
 | [Tree Village](https://open.spotify.com/track/0C9d07g8OTaJeZVVmjN0pS) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Happiness](https://open.spotify.com/album/2uEHtF7phOSbrXdKUes5GL) | 3:21 | 2021-12-07 | 2023-11-05 |
 | [Tree Village](https://open.spotify.com/track/23H0cL1Mnz96wqTwO1e76j) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Happiness](https://open.spotify.com/album/3K17PJl4d0yhrys2ylYzgm) | 3:21 | 2023-03-28 | 2024-03-16 |
-| [Two As One](https://open.spotify.com/track/5c8WgLyOX9u4Al1hTP8tzK) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [From First To Last](https://open.spotify.com/album/799TGyJWzmF4THZpj9aCel) | 3:20 | 2021-12-07 |  |
+| [Two As One](https://open.spotify.com/track/5c8WgLyOX9u4Al1hTP8tzK) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [From First To Last](https://open.spotify.com/album/799TGyJWzmF4THZpj9aCel) | 3:20 | 2021-12-07 | 2025-03-20 |
 | [Two Birds, One Stone](https://open.spotify.com/track/3CG2fXTfGM5XqfoaSboPYF) | [Drop Dead, Gorgeous](https://open.spotify.com/artist/7ib9jRPvGJ6VPCTg35G2L9) | [The Hot N' Heavy](https://open.spotify.com/album/4MG6jbYGRchamCZJieuKWW) | 3:27 | 2021-12-07 | 2022-12-12 |
 | [Understanding In A Car Crash](https://open.spotify.com/track/3U5TzKrZP6sqiR43LQArV7) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 4:24 | 2021-12-07 | 2023-03-15 |
 | [Understanding in a Car Crash](https://open.spotify.com/track/4pBfU4RSvH0NzjEr2OgjWn) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/1ZYIBPNPc55E7LWg1ZBXhM) | 4:24 | 2021-12-07 | 2022-07-29 |

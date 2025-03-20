@@ -4,7 +4,7 @@
 
 > This is Eva Shaw\. The essential tracks, all in one playlist.
 
-91 songs - 4 hr 32 min
+92 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [MOJO \- Hype Hop Edit](https://open.spotify.com/track/5gl00R577C5llEYqU8dUw5) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [G Milla](https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW) | [HYPE HOP 002](https://open.spotify.com/album/1UPKi2z2CFnomZOBDavCt0) | 3:06 | 2023-12-13 |  |
 | [Moxie \- Radio Edit](https://open.spotify.com/track/2kmXVuR054xt71Zyqu6R6G) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [Moxie](https://open.spotify.com/album/1tcGZwS0aQuFGi0CACukPj) | 3:02 | 2023-12-13 |  |
 | [N2U \(feat\. Martha Wash\)](https://open.spotify.com/track/1Mw7M3NtxV1iSB6fHD8592) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Martha Wash](https://open.spotify.com/artist/7htVGwGw3uAa7Axft4MTnx) | [N2U \(feat\. Martha Wash\)](https://open.spotify.com/album/0TGjVzVuB9IhQERhQCesy1) | 3:12 | 2023-12-13 |  |
-| [no excuses.](https://open.spotify.com/track/2YL9pWLTElsDxUrgoS9JpF) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [TwoTiime](https://open.spotify.com/artist/6M8FnwmGSiVizi80SrS07p) | [no excuses.](https://open.spotify.com/album/2J01FmovA4Nfe4nUITIOIm) | 3:50 | 2024-05-05 |  |
+| [no excuses.](https://open.spotify.com/track/2YL9pWLTElsDxUrgoS9JpF) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [TwoTiime](https://open.spotify.com/artist/6M8FnwmGSiVizi80SrS07p) | [no excuses.](https://open.spotify.com/album/2J01FmovA4Nfe4nUITIOIm) | 3:50 | 2024-05-05 | 2025-03-20 |
+| [NT NT](https://open.spotify.com/track/6tZRPnnrTjaxg1o6AgufSe) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Omar Kadir](https://open.spotify.com/artist/1dZdd4uleOGer6HoYZq62D), [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB) | [NT NT](https://open.spotify.com/album/104hydtO8pzeBqrrzpc8xi) | 3:31 | 2025-03-20 |  |
 | [On Lock](https://open.spotify.com/track/4d83ufXO8iX3B2gEX1rg2E) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [Just John](https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb) | [On Lock](https://open.spotify.com/album/4qHjVCl0BSeb5CAbofzfvw) | 2:18 | 2024-01-15 | 2024-06-17 |
 | [On the DAW\. \(intro\)](https://open.spotify.com/track/3BO7356oNhBT8za4fdKhAW) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [On the DAW \- The EP](https://open.spotify.com/album/3N79JSXQixMXkreH8EaAgJ) | 0:32 | 2024-10-20 | 2024-11-18 |
 | [OUTSIDE](https://open.spotify.com/track/2if5WMiU68CavgL7OJit4Q) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H) | [SOLO](https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B) | 3:33 | 2023-12-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada\. Elevate your aura with Maz B from Winnipeg, MB.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,610 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,635 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 50 | [We Got This \- 7'' Version](https://open.spotify.com/track/4OQMZBaOgEvAcXI8NMWEz7) | [Beatchild](https://open.spotify.com/artist/4k7KKAyXbpBKe0iziD7c2P) | [We Got This](https://open.spotify.com/album/79Utq6WQvxX0OkODgZEfDO) | 2:57 |
 | 51 | [HISTORY](https://open.spotify.com/track/2fJ4YDt6q8q4dOUmbrvZGl) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [HISTORY](https://open.spotify.com/album/2HFOs4dZ41jyGg6NespOyV) | 3:15 |
 | 52 | [Feel Something](https://open.spotify.com/track/3yEsmhrcDtWka7T3Kt11Yd) | [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs) | [Feel Something](https://open.spotify.com/album/4a52ADh7ZxITa4FLlk4upM) | 2:58 |
-| 53 | [Drive Me Crazy](https://open.spotify.com/track/1pPIpBWyQu3gI2FSkyRiz7) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc) | [Drive Me Crazy](https://open.spotify.com/album/5cvwR7gP8SrzyOsrdvILr2) | 2:42 |
+| 53 | [Drive Me Crazy](https://open.spotify.com/track/1pPIpBWyQu3gI2FSkyRiz7) | [Myles Lloyd](https://open.spotify.com/artist/41wsIjMll6Pp0RfsQURfTx) | [Drive Me Crazy](https://open.spotify.com/album/5cvwR7gP8SrzyOsrdvILr2) | 2:42 |
 | 54 | [I Don't Wanna](https://open.spotify.com/track/2n9Zp5ZU59NzTJcNyZX2c2) | [Fidelina](https://open.spotify.com/artist/1AGhQu02t4zChMztMSoJSS) | [I Don't Wanna](https://open.spotify.com/album/3sUGfcTAqByfZED7Hxvd4i) | 3:30 |
 | 55 | [how it goes](https://open.spotify.com/track/2JYWmiS6iCpCNsutMd15uk) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [introspect](https://open.spotify.com/album/3xzJf3uPFu9X0hbXHaRE8u) | 3:28 |
 | 56 | [Life 2](https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Life 2](https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e) | 3:23 |

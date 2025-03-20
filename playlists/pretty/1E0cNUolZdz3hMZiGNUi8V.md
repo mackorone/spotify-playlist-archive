@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1E0cNUolZdz3hMZiGNUi8V.md) - [plain]
 
 > 🔥 All the hottest hip hop tracks in one spot!
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 38,530 likes - 94 songs - 4 hr 23 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 38,529 likes - 94 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

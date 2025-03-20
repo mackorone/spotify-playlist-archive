@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 74876,
+  "num_followers": 74900,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAAC4oB/PWuDXEIUkwxS7oS7I",
+  "snapshot_id": "Z9i3gAAAAACfPTP/YFEIInTWP2oLSMWN",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Utopia 2",
-        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Bella Traicion",
-      "url": "https://open.spotify.com/track/5eIsMbKPT1IJ0b0rdvgtlZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LAS 12",
         "url": "https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 165230,
       "name": "LAS 12",
       "url": "https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Utopia 2",
+        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Bella Traicion",
+      "url": "https://open.spotify.com/track/5eIsMbKPT1IJ0b0rdvgtlZ"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Utopia 2",
-        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 241906,
-      "name": "Luz Sin Gravedad",
-      "url": "https://open.spotify.com/track/60CEVNgCHcVyWCPy6Kh2K6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cactus",
         "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 183381,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Utopia 2",
+        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "Luz Sin Gravedad",
+      "url": "https://open.spotify.com/track/60CEVNgCHcVyWCPy6Kh2K6"
     },
     {
       "added_at": null,
@@ -455,6 +455,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Estamos Tan Locos",
+        "url": "https://open.spotify.com/album/7gZvRRiER5mk2ZtqBfaTu3"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 206354,
+      "name": "No Estamos Tan Locos",
+      "url": "https://open.spotify.com/track/1uZJgxYvEOTlyY2baL0m17"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Carpe Diem",
         "url": "https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ"
       },
@@ -475,22 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Estamos Tan Locos",
-        "url": "https://open.spotify.com/album/7gZvRRiER5mk2ZtqBfaTu3"
+        "name": "Blink Twice (Dos Veces Remix)",
+        "url": "https://open.spotify.com/album/29rcLP1Uni7elTtxuiXF1J"
       },
       "artists": [
         {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
         },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 206354,
-      "name": "No Estamos Tan Locos",
-      "url": "https://open.spotify.com/track/1uZJgxYvEOTlyY2baL0m17"
+      "duration_ms": 154134,
+      "name": "Blink Twice - Dos Veces Remix",
+      "url": "https://open.spotify.com/track/6SNHfk6CipQOSALhblynof"
     },
     {
       "added_at": null,
@@ -619,26 +639,6 @@
       "duration_ms": 195866,
       "name": "Dopamina",
       "url": "https://open.spotify.com/track/3jGVYqal9gz8MLufUzrRhU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blink Twice (Dos Veces Remix)",
-        "url": "https://open.spotify.com/album/29rcLP1Uni7elTtxuiXF1J"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 154134,
-      "name": "Blink Twice - Dos Veces Remix",
-      "url": "https://open.spotify.com/track/6SNHfk6CipQOSALhblynof"
     },
     {
       "added_at": null,
@@ -939,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cheetah Girls 2",
-        "url": "https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG"
-      },
-      "artists": [
-        {
-          "name": "The Cheetah Girls",
-          "url": "https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "Amigas Cheetahs",
-      "url": "https://open.spotify.com/track/2vC1qUcTJlWO9JQfcaOk9b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prisma",
         "url": "https://open.spotify.com/album/7FVRWDkCucNcU8NNUit5xv"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 260017,
       "name": "Sue\u00f1o de Ti",
       "url": "https://open.spotify.com/track/0lLygnowX78lFphF2235qe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cheetah Girls 2",
+        "url": "https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG"
+      },
+      "artists": [
+        {
+          "name": "The Cheetah Girls",
+          "url": "https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Amigas Cheetahs",
+      "url": "https://open.spotify.com/track/2vC1qUcTJlWO9JQfcaOk9b"
     },
     {
       "added_at": null,
@@ -1023,6 +1023,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 195426,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/2OSv7LKgAUS013drWBwEAW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Cheetah Girls 2",
         "url": "https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 192146,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/2sggS6A5pA0KWaleWsHzmL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Catarsis",
-        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 195426,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/2OSv7LKgAUS013drWBwEAW"
     },
     {
       "added_at": null,

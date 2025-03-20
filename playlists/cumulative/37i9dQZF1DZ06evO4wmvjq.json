@@ -464,7 +464,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-19",
+      "date_removed": null,
       "duration_ms": 293573,
       "name": "Barabas",
       "url": "https://open.spotify.com/track/1lc7hX8e7HtG3yMSTqukkc"
@@ -504,6 +504,24 @@
       "duration_ms": 394506,
       "name": "Bird of Paradise: Part 2",
       "url": "https://open.spotify.com/track/0cdhRIV9fPas3MVK0Ln2HB"
+    },
+    {
+      "album": {
+        "name": "Music for the Gift",
+        "url": "https://open.spotify.com/album/7hc1PhGU3ZeMb9xkAHH9Su"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276826,
+      "name": "Bird of Paradise: Part 3",
+      "url": "https://open.spotify.com/track/6kl6Lw9v4RZ0wnLtwRO4nI"
     },
     {
       "album": {
@@ -780,7 +798,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-19",
+      "date_removed": null,
       "duration_ms": 347906,
       "name": "Crucifixion Voices",
       "url": "https://open.spotify.com/track/3YrSRU1HKiCPFnjAbZ7Rr7"
@@ -904,7 +922,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 189800,
       "name": "Derveshum Carnivalis",
       "url": "https://open.spotify.com/track/7GimwMUtRDNZ90VEI5yDnq"
@@ -1986,7 +2004,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-18",
+      "date_removed": null,
       "duration_ms": 43468,
       "name": "Marley Bell",
       "url": "https://open.spotify.com/track/5ZrMqkKKpgJKwe8EQU48Nn"
@@ -2088,7 +2106,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 409133,
       "name": "Mongolian Winds",
       "url": "https://open.spotify.com/track/1wfGXIrX2G5phhvHdiMVdm"
@@ -2546,7 +2564,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 2388746,
       "name": "Poppy Nogood and the Phantom Band All Night Flight: SUNY Buffalo, New York, 22 March 1968",
       "url": "https://open.spotify.com/track/4dDdGh1VQTPYLm2bLl4M5m"
@@ -2708,7 +2726,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 404000,
       "name": "Remember This, O Mind: II. Only A Day",
       "url": "https://open.spotify.com/track/4sfrOMtlCImplHs8gr0WzR"
@@ -3128,7 +3146,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-19",
+      "date_removed": null,
       "duration_ms": 207746,
       "name": "Tango Ladeado",
       "url": "https://open.spotify.com/track/2xes8HOkGMdzjg8dVdoKZV"
@@ -3792,7 +3810,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 154746,
       "name": "Underworld Arising",
       "url": "https://open.spotify.com/track/6xQjvLDZyNjvoRzFDHeXnM"

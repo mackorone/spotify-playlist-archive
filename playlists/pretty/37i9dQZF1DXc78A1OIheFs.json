@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Fat Freddy's Drop",
-  "num_followers": 18869,
+  "num_followers": 18873,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -217,22 +217,6 @@
       "url": "https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh"
     },
     {
-      "added_at": "2025-01-23 13:00:35",
-      "album": {
-        "name": "look what you're doing to me",
-        "url": "https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c"
-      },
-      "artists": [
-        {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
-        }
-      ],
-      "duration_ms": 264289,
-      "name": "look what you're doing to me",
-      "url": "https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9"
-    },
-    {
       "added_at": "2025-01-30 13:00:19",
       "album": {
         "name": "Verrans Corner",
@@ -251,6 +235,22 @@
       "duration_ms": 202415,
       "name": "Verrans Corner",
       "url": "https://open.spotify.com/track/124LPhcSC3OmmCKANCoCJZ"
+    },
+    {
+      "added_at": "2025-01-23 13:00:35",
+      "album": {
+        "name": "look what you're doing to me",
+        "url": "https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 264289,
+      "name": "look what you're doing to me",
+      "url": "https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "East Coast",
-        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
-      },
-      "artists": [
-        {
-          "name": "Indy",
-          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
-        }
-      ],
-      "duration_ms": 194933,
-      "name": "East Coast",
-      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "The Loop",
         "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 337565,
       "name": "State of Mind",
       "url": "https://open.spotify.com/track/09NiadAHVDJ3t8kCPgbkUW"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "East Coast",
+        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
+      },
+      "artists": [
+        {
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
+        }
+      ],
+      "duration_ms": 194933,
+      "name": "East Coast",
+      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -525,6 +525,22 @@
       "url": "https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx"
     },
     {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Might As Well Be Watching",
+        "url": "https://open.spotify.com/album/4U9loPOJifAA6qjM4JpwYR"
+      },
+      "artists": [
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        }
+      ],
+      "duration_ms": 203424,
+      "name": "Might As Well Be Watching",
+      "url": "https://open.spotify.com/track/5SfNS3bx82rXYXHtH5FNE9"
+    },
+    {
       "added_at": "2025-01-23 13:00:35",
       "album": {
         "name": "Hold Up",
@@ -547,22 +563,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Might As Well Be Watching",
-        "url": "https://open.spotify.com/album/4U9loPOJifAA6qjM4JpwYR"
-      },
-      "artists": [
-        {
-          "name": "Serebii",
-          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
-        }
-      ],
-      "duration_ms": 203424,
-      "name": "Might As Well Be Watching",
-      "url": "https://open.spotify.com/track/5SfNS3bx82rXYXHtH5FNE9"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Meet Me",
         "url": "https://open.spotify.com/album/1aTv29hsfv6RFSTgdiNARV"
       },
@@ -577,20 +577,20 @@
       "url": "https://open.spotify.com/track/3FrJCNsmxAlrZm20OgMf4x"
     },
     {
-      "added_at": "2025-02-20 13:00:26",
+      "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Scatterbrains",
-        "url": "https://open.spotify.com/album/4GIxVgeRdeYUpPzTygAcbL"
+        "name": "Leisurevision",
+        "url": "https://open.spotify.com/album/6o1b7D155gfX6u5SVY0bxf"
       },
       "artists": [
         {
-          "name": "Daily J",
-          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 288146,
-      "name": "For Your Leisure",
-      "url": "https://open.spotify.com/track/35fslHvYYrojCFRhHatjuN"
+      "duration_ms": 214440,
+      "name": "Above Me",
+      "url": "https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -609,20 +609,20 @@
       "url": "https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2"
     },
     {
-      "added_at": "2024-10-24 13:00:00",
+      "added_at": "2025-02-20 13:00:26",
       "album": {
-        "name": "Leisurevision",
-        "url": "https://open.spotify.com/album/6o1b7D155gfX6u5SVY0bxf"
+        "name": "Scatterbrains",
+        "url": "https://open.spotify.com/album/4GIxVgeRdeYUpPzTygAcbL"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
         }
       ],
-      "duration_ms": 214440,
-      "name": "Above Me",
-      "url": "https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7"
+      "duration_ms": 288146,
+      "name": "For Your Leisure",
+      "url": "https://open.spotify.com/track/35fslHvYYrojCFRhHatjuN"
     },
     {
       "added_at": "2025-01-30 13:00:19",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/3Gdve0JjwoBtmwqMLLcnUb"
     },
     {
-      "added_at": "2024-11-28 13:00:00",
-      "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/4mJCH5WicAkf9wevEjVeuV"
-      },
-      "artists": [
-        {
-          "name": "Corrella",
-          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "Cookie",
-      "url": "https://open.spotify.com/track/0xdwUjqxpzEt7jZC0n0aN7"
-    },
-    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "Under One Roof",
@@ -795,6 +779,22 @@
       "duration_ms": 254281,
       "name": "Under One Roof",
       "url": "https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64"
+    },
+    {
+      "added_at": "2024-11-28 13:00:00",
+      "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/4mJCH5WicAkf9wevEjVeuV"
+      },
+      "artists": [
+        {
+          "name": "Corrella",
+          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Cookie",
+      "url": "https://open.spotify.com/track/0xdwUjqxpzEt7jZC0n0aN7"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -829,56 +829,20 @@
       "url": "https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ"
     },
     {
-      "added_at": "2025-01-09 11:00:14",
-      "album": {
-        "name": "need u worse",
-        "url": "https://open.spotify.com/album/1HeFAsrSjmpTd5FBSCAYwM"
-      },
-      "artists": [
-        {
-          "name": "Gloria Laing",
-          "url": "https://open.spotify.com/artist/3aO4DL5c2uBGD8EUuP7sxi"
-        }
-      ],
-      "duration_ms": 225073,
-      "name": "need u worse",
-      "url": "https://open.spotify.com/track/38bwOFfc73jd1iZAUqvdCM"
-    },
-    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Follow (Edit)",
-        "url": "https://open.spotify.com/album/5UT1bolboHeifFrzuqeLBy"
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/7B1ganVFyMkIgD7GJpkWqu"
       },
       "artists": [
         {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+          "name": "Alisa Xayalith",
+          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
         }
       ],
-      "duration_ms": 157843,
-      "name": "Follow - Edit",
-      "url": "https://open.spotify.com/track/0Yk626XsjnFmt6PkjBxa4C"
-    },
-    {
-      "added_at": "2025-02-06 13:00:13",
-      "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/1sdvD3eZ2ISdvyU9B9vF5O"
-      },
-      "artists": [
-        {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
-        },
-        {
-          "name": "SACHI",
-          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
-        }
-      ],
-      "duration_ms": 218210,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/2MYMNxgkus7t4gKLMXdpTH"
+      "duration_ms": 215571,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/0sYcnHKEcpUOJvYdtBAWnV"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -899,18 +863,34 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/7B1ganVFyMkIgD7GJpkWqu"
+        "name": "Follow (Edit)",
+        "url": "https://open.spotify.com/album/5UT1bolboHeifFrzuqeLBy"
       },
       "artists": [
         {
-          "name": "Alisa Xayalith",
-          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
         }
       ],
-      "duration_ms": 215571,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/0sYcnHKEcpUOJvYdtBAWnV"
+      "duration_ms": 157843,
+      "name": "Follow - Edit",
+      "url": "https://open.spotify.com/track/0Yk626XsjnFmt6PkjBxa4C"
+    },
+    {
+      "added_at": "2025-01-09 11:00:14",
+      "album": {
+        "name": "need u worse",
+        "url": "https://open.spotify.com/album/1HeFAsrSjmpTd5FBSCAYwM"
+      },
+      "artists": [
+        {
+          "name": "Gloria Laing",
+          "url": "https://open.spotify.com/artist/3aO4DL5c2uBGD8EUuP7sxi"
+        }
+      ],
+      "duration_ms": 225073,
+      "name": "need u worse",
+      "url": "https://open.spotify.com/track/38bwOFfc73jd1iZAUqvdCM"
     },
     {
       "added_at": "2024-11-07 11:00:00",
@@ -927,6 +907,26 @@
       "duration_ms": 196235,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii"
+    },
+    {
+      "added_at": "2025-02-06 13:00:13",
+      "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/1sdvD3eZ2ISdvyU9B9vF5O"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        },
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        }
+      ],
+      "duration_ms": 218210,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/2MYMNxgkus7t4gKLMXdpTH"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1013,6 +1013,22 @@
       "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
     },
     {
+      "added_at": "2025-01-09 11:00:14",
+      "album": {
+        "name": "Chaotic",
+        "url": "https://open.spotify.com/album/4Zvk2bCBOm1NJ1YV7w1pQk"
+      },
+      "artists": [
+        {
+          "name": "Alisa Xayalith",
+          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
+        }
+      ],
+      "duration_ms": 194296,
+      "name": "Chaotic",
+      "url": "https://open.spotify.com/track/4mgCqJ9kn4XlZjzIpqUZHu"
+    },
+    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "One More Chance (feat. Savage)",
@@ -1033,36 +1049,20 @@
       "url": "https://open.spotify.com/track/3PIJ6Ng0EOlOR4siwGnLHK"
     },
     {
-      "added_at": "2025-01-09 11:00:14",
-      "album": {
-        "name": "Chaotic",
-        "url": "https://open.spotify.com/album/4Zvk2bCBOm1NJ1YV7w1pQk"
-      },
-      "artists": [
-        {
-          "name": "Alisa Xayalith",
-          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
-        }
-      ],
-      "duration_ms": 194296,
-      "name": "Chaotic",
-      "url": "https://open.spotify.com/track/4mgCqJ9kn4XlZjzIpqUZHu"
-    },
-    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
+        "name": "The Yellow Chapter",
+        "url": "https://open.spotify.com/album/20X24Co7k0ySrKdWCRvWPO"
       },
       "artists": [
         {
-          "name": "SACHI",
-          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+          "name": "Cassie Henderson",
+          "url": "https://open.spotify.com/artist/2lZ09YCpdWMMmBTSdDqspr"
         }
       ],
-      "duration_ms": 156055,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
+      "duration_ms": 284627,
+      "name": "Admit to that",
+      "url": "https://open.spotify.com/track/0DIuALdrcZzqyOxbYBqJxo"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1079,6 +1079,22 @@
       "duration_ms": 156516,
       "name": "When He Was Mine (Pele Fo'i Mai)",
       "url": "https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        }
+      ],
+      "duration_ms": 156055,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1123,22 +1139,6 @@
       "duration_ms": 218033,
       "name": "Tief Im Wald",
       "url": "https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "The Yellow Chapter",
-        "url": "https://open.spotify.com/album/20X24Co7k0ySrKdWCRvWPO"
-      },
-      "artists": [
-        {
-          "name": "Cassie Henderson",
-          "url": "https://open.spotify.com/artist/2lZ09YCpdWMMmBTSdDqspr"
-        }
-      ],
-      "duration_ms": 284627,
-      "name": "Admit to that",
-      "url": "https://open.spotify.com/track/0DIuALdrcZzqyOxbYBqJxo"
     },
     {
       "added_at": "2024-10-24 13:00:00",

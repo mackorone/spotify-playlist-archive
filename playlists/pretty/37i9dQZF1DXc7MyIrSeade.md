@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7MyIrSeade.md) - [plain]
 
 > Cele mai bune piese pop ale anului 2024\. Cover: Irina Rimes
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,069 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,068 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7MyIrSeade.md) - [plain]
 | 15 | [Soarele](https://open.spotify.com/track/3FuoK7AJsoiREE68u177Np) | [Spike](https://open.spotify.com/artist/6JDu6pr6teBn79KqBTOXdp), [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Soarele](https://open.spotify.com/album/2STRuouXSKx44WAvolBCvw) | 2:38 |
 | 16 | [Dernière Cigarette](https://open.spotify.com/track/4ULGWCPPadrpPvWdumBHG1) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [Dernière Cigarette](https://open.spotify.com/album/7rU1pJ3SlmgdVMBoyIeaDy) | 2:54 |
 | 17 | [Las\-o așa](https://open.spotify.com/track/0I0hHI96Gl0Q7xE3EWeZLG) | [IRAIDA](https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov), [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE) | [Las\-o așa](https://open.spotify.com/album/2flsDPjDVpyrv62IByLCcj) | 2:46 |
-| 18 | [Mamma Mia](https://open.spotify.com/track/0XJY2xCiLTCNPrVzUEWZhp) | [The Limba](https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7), [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp), [Andro](https://open.spotify.com/artist/4J6A7DGmVEA4CXhTnCxxEd), [Dyce](https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc) | [Mamma Mia](https://open.spotify.com/album/7mieCeCorKPB2ooQHatpfb) | 2:59 |
+| 18 | [Mamma Mia](https://open.spotify.com/track/0XJY2xCiLTCNPrVzUEWZhp) | [The Limba](https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7), [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp), [ANDRO](https://open.spotify.com/artist/4J6A7DGmVEA4CXhTnCxxEd), [Dyce](https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc) | [Mamma Mia](https://open.spotify.com/album/7mieCeCorKPB2ooQHatpfb) | 2:59 |
 | 19 | [Paharul sus](https://open.spotify.com/track/5QWOtb0L5IYT8w4rMtmVZh) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE) | [Paharul sus](https://open.spotify.com/album/7bzdS7NDvKKveYuARtUx2Z) | 2:49 |
 | 20 | [Feelings Back](https://open.spotify.com/track/4XHSb2aZ5cEIy8yRmz0GkF) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn) | [Feelings Back](https://open.spotify.com/album/5yuPlxjBOzb4eA8FUfhAJO) | 2:15 |
 | 21 | [Ocean](https://open.spotify.com/track/2285KMO3LZV0OIzJLXNrVU) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Energia ta](https://open.spotify.com/album/4jCNgztTaJLqgCW0K5TEVe) | 2:52 |

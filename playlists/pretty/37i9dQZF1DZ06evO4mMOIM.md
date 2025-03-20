@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 
 > This is Glassjaw\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,230 likes - 34 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,229 likes - 34 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 | 33 | [The Number No Good Things Can Come Of](https://open.spotify.com/track/6dw1ALjnu29L8XrxTEvLg3) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [El Mark](https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl) | 5:03 |
 | 34 | [strange hours](https://open.spotify.com/track/1m78OHYCAluDPjCfF5J4r5) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 4:09 |
 
-Snapshot ID: `Z9dmAAAAAABocg9+jmcdK6iV72e/BNDE`
+Snapshot ID: `Z9i3gAAAAABkAAZTKh43mm6Ek9Xt2ONv`

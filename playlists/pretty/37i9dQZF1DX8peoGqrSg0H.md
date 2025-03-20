@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน:  PERSES, PiXXiE
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,469 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,501 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 7 | [คาถาหาเธอ \(Horogals\)](https://open.spotify.com/track/4SatXpXNJu3T4AHlbNQ4Ei) | [Sugar 'N Spice](https://open.spotify.com/artist/19QSRQEb3DVrOHPiExaZSl) | [คาถาหาเธอ \(Horogals\)](https://open.spotify.com/album/4F0Tcc9CLuXjzq2SvhQv9F) | 3:00 |
 | 8 | [ไหนว่าจะไม่ไป \(No Promises\)](https://open.spotify.com/track/2pF233ImGxKDMZeS2iqowP) | [Diamond Narakorn](https://open.spotify.com/artist/44FGhaMh5nti2pR36PHZ6z) | [ไหนว่าจะไม่ไป \(No Promises\)](https://open.spotify.com/album/2OIZeEcjPKHa1nCny6faMf) | 3:50 |
 | 9 | [สักวันฉันจะหายดี](https://open.spotify.com/track/6SNwxbDxjzzN2VO3k6pXdR) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สักวันฉันจะหายดี](https://open.spotify.com/album/64JJuERE6GnUbFFcJXw73U) | 3:48 |
-| 10 | [ไม่เท่าเดิม \(Noid\-Ah\) \- From GELBOYS สถานะกั๊กใจ](https://open.spotify.com/track/4bK9QdIy6C0OP20wNPawel) | [LEON ZECH](https://open.spotify.com/artist/4L6QuKQkK1Njp0oulTkPC6), [GELBOYS](https://open.spotify.com/artist/5YvJNC1t2jBXATQmhwyj5w) | [ไม่เท่าเดิม \(Noid\-Ah\) \[From GELBOYS สถานะกั๊กใจ\]](https://open.spotify.com/album/4oaqJgdGQLEnrxy3o9YEHv) | 3:15 |
+| 10 | [ไม่เท่าเดิม \(Noid\-Ah\) \- From GELBOYS สถานะกั๊กใจ](https://open.spotify.com/track/4bK9QdIy6C0OP20wNPawel) | [LEON BROCCO](https://open.spotify.com/artist/64BdX5a3XrzsRuc6277LQW), [GELBOYS](https://open.spotify.com/artist/5YvJNC1t2jBXATQmhwyj5w) | [ไม่เท่าเดิม \(Noid\-Ah\) \[From GELBOYS สถานะกั๊กใจ\]](https://open.spotify.com/album/4oaqJgdGQLEnrxy3o9YEHv) | 3:15 |
 | 11 | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw) | 3:15 |
 | 12 | [เพื่อนแบบใด \(I See It\)](https://open.spotify.com/track/4eD9FNDpKlglzEb3y1U0pU) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [เพื่อนแบบใด \(I See It\)](https://open.spotify.com/album/61nujf7kJaEzCitEOj0mwF) | 3:40 |
 | 13 | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/track/7gPJ0LnpLQOhqH1Gx13cwv) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/album/5EQtkWX5MZxXIe7QhGVxvt) | 4:38 |

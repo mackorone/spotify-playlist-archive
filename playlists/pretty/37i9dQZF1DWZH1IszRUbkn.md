@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 
 > Canta juntos con tus artistas favoritos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,370 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,375 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,12 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 39 | [Feliz En Tu Día](https://open.spotify.com/track/0fKjKCEvHshLPqzuBpAg6c) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Rondas y Clásicos Infantiles 2](https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg) | 1:38 |
 | 40 | [Osito Carpintero](https://open.spotify.com/track/4x9TXDIjvz3RElsuPiEVqE) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:36 |
 | 41 | [El Zapatero](https://open.spotify.com/track/77rZyXXSmwMw5GVpQHw4vd) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Un Mundo De Canciones](https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU) | 1:43 |
-| 42 | [Cocinar](https://open.spotify.com/track/3dwP741BSojLKWENmU5hHb) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [La fiesta de cumpleaños](https://open.spotify.com/album/4CDg1C6bHxichuJfAkXH0a) | 1:37 |
+| 42 | [Las mañanitas](https://open.spotify.com/track/38zrUigO3cpDgezXQWRDzN) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [La fiesta de cumpleaños](https://open.spotify.com/album/4CDg1C6bHxichuJfAkXH0a) | 1:12 |
 | 43 | [Los Numeros](https://open.spotify.com/track/4Lm4ik2rP04Td4y0UgnVCW) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [¡Fantastico!](https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R) | 2:59 |
 | 44 | [Vacaciones tope guay](https://open.spotify.com/track/4tOdiwIqwF9wSp2hM4KnST) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [Vacaciones tope guay](https://open.spotify.com/album/0Y2c1pfdLGtl1u4d32G7pf) | 3:29 |
 | 45 | [Garabato Colorado](https://open.spotify.com/track/3XjOBu6y6mlyGJK9gABfL9) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 3:04 |
 | 46 | [Sana Sana](https://open.spotify.com/track/3Lp1uOs9bgSDV4UtxSnqBF) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [Miss Patylu Vol\. 2](https://open.spotify.com/album/7EEXPQpy2rAwofhzj8FZ4U) | 2:32 |
-| 47 | [Las mañanitas](https://open.spotify.com/track/38zrUigO3cpDgezXQWRDzN) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [La fiesta de cumpleaños](https://open.spotify.com/album/4CDg1C6bHxichuJfAkXH0a) | 1:12 |
+| 47 | [Cocinar](https://open.spotify.com/track/3dwP741BSojLKWENmU5hHb) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [La fiesta de cumpleaños](https://open.spotify.com/album/4CDg1C6bHxichuJfAkXH0a) | 1:37 |
 | 48 | [El Sapo Pepe Y La Rana Juana](https://open.spotify.com/track/4zSxmtADvuhuFuEalREYgE) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Un Mundo De Canciones](https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU) | 2:09 |
 | 49 | [La Regla Primordial \- Retrete Navarrete y los Bulliciosos](https://open.spotify.com/track/5HID7xBByWhvdEgR9B5uFr) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG) | [31 Minutos, Ratoncitos](https://open.spotify.com/album/5eymzke6O0xLndwXwltN2E) | 2:45 |
 | 50 | [Malísima](https://open.spotify.com/track/3IwVXqUC0QRTDeKiKnzn5F) | [Chiquititas](https://open.spotify.com/artist/0qAthAwwFa3RW6BRRsP4cQ) | [24 Horas](https://open.spotify.com/album/6tm1M6j9spjOrQOufaVGEw) | 2:38 |

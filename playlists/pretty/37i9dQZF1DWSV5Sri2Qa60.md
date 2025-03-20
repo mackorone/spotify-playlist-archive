@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 
 > Where your new favourite bands are discovered\. Cover: florence road
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,272 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,419 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 | 49 | [Why](https://open.spotify.com/track/3ChcaaT5urGKwbNk6Xr8ko) | [Y](https://open.spotify.com/artist/3Lj9IhE3QFZJo2N2RcQ7Ih) | [Why](https://open.spotify.com/album/77XPxlBWq02sddg7jXYCJB) | 3:02 |
 | 50 | [Meltdown](https://open.spotify.com/track/0efAWuRMkdOdFdCHWM6E2I) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Meltdown](https://open.spotify.com/album/0FPCutnlPOJfCrQkdgMnYi) | 3:36 |
 
-Snapshot ID: `Z9iEfQAAAACFKlXjNEYWYcRppOSF4DpY`
+Snapshot ID: `Z9tLJwAAAABm0NGC9QDQyI1bYo3USUxe`

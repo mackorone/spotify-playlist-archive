@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Choral and instrumental classical music from the Renaissance era.",
+  "description": "Relaxing choral and instrumental classical music from the Renaissance era.",
   "name": "Renaissance Classics",
   "tracks": [
     {
@@ -2284,6 +2284,32 @@
       "duration_ms": 251467,
       "name": "Regina caeli",
       "url": "https://open.spotify.com/track/5MMb7xNiVNilblN9lZR9rB"
+    },
+    {
+      "album": {
+        "name": "Regina caeli laetare",
+        "url": "https://open.spotify.com/album/0Uh7Nxt9sSWeb6vLBREJ3k"
+      },
+      "artists": [
+        {
+          "name": "Francisco Guerrero",
+          "url": "https://open.spotify.com/artist/08Zj51hTSWpmC9a5WMjqcc"
+        },
+        {
+          "name": "RIAS Kammerchor",
+          "url": "https://open.spotify.com/artist/2UVXU77knJMYOM6Avvw6Yx"
+        },
+        {
+          "name": "Justin Doyle",
+          "url": "https://open.spotify.com/artist/4VPMDJE3CTPpPDAvCtriKE"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229053,
+      "name": "Regina caeli laetare",
+      "url": "https://open.spotify.com/track/7puFe7KqwMeE5gM9tv5VBZ"
     },
     {
       "album": {

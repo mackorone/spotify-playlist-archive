@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Chappell Roan \(Cover\), Zartmann, Selena Gomez und mehr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,549 likes - 96 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,517 likes - 96 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 41 | [Enge Freunde](https://open.spotify.com/track/25wkEq7vZBVeLc5iVOZnLL) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Enge Freunde](https://open.spotify.com/album/0OL2zon0mjpQ1F7A6qnrWd) | 2:59 |
 | 42 | [GFY](https://open.spotify.com/track/33KNeop6x7cfUlSVyLMc8G) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [GFY](https://open.spotify.com/album/1LY9dpY70P8Ga2jRvuxwsq) | 2:54 |
 | 43 | [FROZEN](https://open.spotify.com/track/2ZZM5DepwKgqGJChdbfVx1) | [Mali](https://open.spotify.com/artist/1EpUTpT8KmlB2uDzLNK9d5), [Safraoui](https://open.spotify.com/artist/1xlPEhjbFqhrDjaAvyvueX), [Alim](https://open.spotify.com/artist/2eCeP9nQxAp8hXOL30KNGZ), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [FROZEN](https://open.spotify.com/album/0IAOLh308PgsAepj19BNts) | 2:48 |
-| 44 | [YEAH](https://open.spotify.com/track/2qlqMa0e422LZyGw1J5for) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [YEAH](https://open.spotify.com/album/3reHnBJbOMrlymwkwYqtEH) | 2:28 |
+| 44 | [YEAH](https://open.spotify.com/track/2qlqMa0e422LZyGw1J5for) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [YEAH](https://open.spotify.com/album/3reHnBJbOMrlymwkwYqtEH) | 2:28 |
 | 45 | [Crash](https://open.spotify.com/track/0Hf3fR6XKINmMB4Fey7TiH) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy) | [Digital Notes](https://open.spotify.com/album/6VnvZ5urI6jcvIJongGShJ) | 2:27 |
 | 46 | [Herzklopfen](https://open.spotify.com/track/6dLWasqyHJFkQqOGTrbeLO) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Herzklopfen](https://open.spotify.com/album/6EXiHynRnmQZXPIsQuVx2J) | 2:34 |
 | 47 | [Someone Else](https://open.spotify.com/track/2dwrI3YJP4psQ63bLy863f) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Someone Else](https://open.spotify.com/album/58Vchmpwx8d0Q4GMXg19Z6) | 3:01 |

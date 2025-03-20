@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Flaket kommer studsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,780 likes - 73 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,767 likes - 73 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 63 | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/album/04FzRblfFwLUm81HJEYCAo) | 2:26 |
 | 64 | [Hand i hand](https://open.spotify.com/track/5Is7rjtE6dITztWlElOitM) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [DJ BERIT](https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI) | [Hand i hand](https://open.spotify.com/album/64kF2Bzxt5cqOrsBNcNT6s) | 2:27 |
 | 65 | [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 |
-| 66 | [Om du var min](https://open.spotify.com/track/520OGfBzjjGqVLO52KPvvC) | [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9), [EMMY](https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu) | [Om du var min](https://open.spotify.com/album/5iaCqxVddsqcWvonadClWp) | 2:38 |
-| 67 | [Alcohol](https://open.spotify.com/track/1iUXBxsHTHuByOXz2AX7ZK) | [Flamingoz](https://open.spotify.com/artist/4hwEhYAJJmsXyRkuhzQ0IL) | [Alcohol](https://open.spotify.com/album/6BhvNYJ2HaxIDrVIYyWKnn) | 2:45 |
+| 66 | [Alcohol](https://open.spotify.com/track/1iUXBxsHTHuByOXz2AX7ZK) | [Flamingoz](https://open.spotify.com/artist/4hwEhYAJJmsXyRkuhzQ0IL) | [Alcohol](https://open.spotify.com/album/6BhvNYJ2HaxIDrVIYyWKnn) | 2:45 |
+| 67 | [Om du var min](https://open.spotify.com/track/520OGfBzjjGqVLO52KPvvC) | [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9), [EMMY](https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu) | [Om du var min](https://open.spotify.com/album/5iaCqxVddsqcWvonadClWp) | 2:38 |
 | 68 | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP) | [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs) | 2:31 |
 | 69 | [Mwaki \- Timmy Trumpet Remix](https://open.spotify.com/track/7z50UJZ28IIBkmyLR1oKCd) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki \(Timmy Trumpet Remix\)](https://open.spotify.com/album/3lSaV7UGZKKTBxhZEluKDk) | 2:57 |
 | 70 | [Bella Festa](https://open.spotify.com/track/7uvG84wfF2XbvEiKajw3eZ) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [Bella Festa](https://open.spotify.com/album/6aLUITxk36ysZN4b0We6cE) | 1:57 |

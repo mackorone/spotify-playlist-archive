@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 9775,
+  "num_followers": 9776,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAAAs5N2ifDgoIbr8d8J/rhfT",
+  "snapshot_id": "Z9i3gAAAAAA2s05CStioBnjC/IwZFaM5",
   "tracks": [
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 230034,
-      "name": "Echame a Mi la Culpa",
-      "url": "https://open.spotify.com/track/15Wl0VlBhm5BgjhSTTIfms"
+      "duration_ms": 211017,
+      "name": "Esta Tristeza Mia",
+      "url": "https://open.spotify.com/track/4EdxO6asjtoqsOkslDs3Fr"
     },
     {
       "added_at": null,
@@ -636,29 +636,25 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 211017,
-      "name": "Esta Tristeza Mia",
-      "url": "https://open.spotify.com/track/4EdxO6asjtoqsOkslDs3Fr"
+      "duration_ms": 230034,
+      "name": "Echame a Mi la Culpa",
+      "url": "https://open.spotify.com/track/15Wl0VlBhm5BgjhSTTIfms"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Amistades",
-        "url": "https://open.spotify.com/album/44LrvNvSvNp8Hwmo9twwYs"
+        "name": "Exitos De Oro",
+        "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
       },
       "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        },
         {
           "name": "Los Tiranos Del Norte",
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 192587,
-      "name": "Veinte m\u00e1s",
-      "url": "https://open.spotify.com/track/1IJAF9Rdh2DGxDUQqhwMmv"
+      "duration_ms": 192946,
+      "name": "Por Una Mujer Bonita",
+      "url": "https://open.spotify.com/track/39AnTZLp0oKSewkKjFZ6Jv"
     },
     {
       "added_at": null,
@@ -679,18 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos De Oro",
-        "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
+        "name": "Amistades",
+        "url": "https://open.spotify.com/album/44LrvNvSvNp8Hwmo9twwYs"
       },
       "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        },
         {
           "name": "Los Tiranos Del Norte",
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 192946,
-      "name": "Por Una Mujer Bonita",
-      "url": "https://open.spotify.com/track/39AnTZLp0oKSewkKjFZ6Jv"
+      "duration_ms": 192587,
+      "name": "Veinte m\u00e1s",
+      "url": "https://open.spotify.com/track/1IJAF9Rdh2DGxDUQqhwMmv"
     },
     {
       "added_at": null,

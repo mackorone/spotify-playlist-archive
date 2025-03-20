@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech that was born in Southern Africa, as it travels the world's dancefloors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,594 likes - 60 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,604 likes - 60 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Clique](https://open.spotify.com/track/5MjjxgfTOjdnQGbkvzCbrp) | [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG), [Candy Man](https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor), [Cuebur](https://open.spotify.com/artist/24gaqkuhDtbiSipIIJdRH7), [DJ Clock](https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg), [Kitty Amor](https://open.spotify.com/artist/0ZaCzPKSboLncLMhFaBfcT) | [Africa Get Physical, Vol\. 5](https://open.spotify.com/album/4X8iO9pAfMFRD00D9YoGIE) | 5:48 |
-| 2 | [Webaba \- Dazz\-B MusiQ & Slaga Remix](https://open.spotify.com/track/7LfiTwkJMnPASx0WsY48ZD) | [Busi Mhlongo](https://open.spotify.com/artist/4QlgeNz8Uf8xF0f0LNjCbf), [Xingondo King](https://open.spotify.com/artist/4dk5wW3LgQiE2CBjRoFIYv), [Slaga](https://open.spotify.com/artist/6TMHpHxtnjEsfpC0Psdsdw), [Dazz B Musiq](https://open.spotify.com/artist/2uXPRBlQzbT3xMPV2Fbotn) | [Dazz B MusiQ & Busi Mhlongo](https://open.spotify.com/album/0UyC8tIIwqtjEMr4CIw6Lk) | 5:06 |
+| 2 | [Webaba \- Dazz\-B MusiQ & Slaga Remix](https://open.spotify.com/track/7LfiTwkJMnPASx0WsY48ZD) | [Busi Mhlongo](https://open.spotify.com/artist/4QlgeNz8Uf8xF0f0LNjCbf), [Xingondo King](https://open.spotify.com/artist/4dk5wW3LgQiE2CBjRoFIYv), [Slaga](https://open.spotify.com/artist/6TMHpHxtnjEsfpC0Psdsdw), [Dazz B Musiq](https://open.spotify.com/artist/2uXPRBlQzbT3xMPV2Fbotn) | [Dazz B MusiQ & Busi Mhlongo M2KR 2025](https://open.spotify.com/album/0UyC8tIIwqtjEMr4CIw6Lk) | 5:06 |
 | 3 | [Abant'abadala](https://open.spotify.com/track/75xdKyEwgAPIBN7PHOsDjk) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io) | [Abant'abadala](https://open.spotify.com/album/1zoGmICVjr6k5yS9i7DgJo) | 5:47 |
 | 4 | [Kwame](https://open.spotify.com/track/3i4453bsXSZOkdeYxfsNbX) | [Gumz](https://open.spotify.com/artist/1Sxp7YrEejs1PuyqZoBMrl), [Da Africa Deep](https://open.spotify.com/artist/0DDzEXacqh3F5GGIwji59b) | [Kwame](https://open.spotify.com/album/4tQEl8jsAHoII2OxcMZyNr) | 7:01 |
 | 5 | [Dana \- Bun Xapa Remix](https://open.spotify.com/track/1wL8hbLDOHlsLCGGjkIedM) | [Dylan\-S](https://open.spotify.com/artist/176vNYtXl88Q9b3N683c6O), [Digolo Philip](https://open.spotify.com/artist/0Q2ov97SybanQ8XWigAsWA), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ) | [Dana](https://open.spotify.com/album/6bQYUoU3ZyMIffDHYglMxL) | 6:42 |

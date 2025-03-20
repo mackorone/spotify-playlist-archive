@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-689 songs - 1 day 9 hr 42 min
+691 songs - 1 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Despina](https://open.spotify.com/track/7gakLWG0iQZ5lCwV3WzfNw) | [Sanem Finley](https://open.spotify.com/artist/6GuH0KuqDKOwuukZmLXZtG) | [Despina](https://open.spotify.com/album/6k65e7fcqNlfrleVeC9Uit) | 3:33 | 2023-03-23 | 2024-03-21 |
 | [Destello Cosmico](https://open.spotify.com/track/3AcEjvJHGwJBWVVHHZYKIc) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Destello Cosmico](https://open.spotify.com/album/2SPHK8VZRckwgl2k3UwwNs) | 2:45 | 2025-01-08 |  |
 | [Dim Lights](https://open.spotify.com/track/5V1A08ndUqkUZ7i2PjUecW) | [Sophie Emitt](https://open.spotify.com/artist/2eoLmo76ASA6kgdyZ5QRSN) | [Dim Lights](https://open.spotify.com/album/4x0c00HaqVpymv8lTIYKhH) | 3:05 | 2023-03-23 | 2024-02-09 |
+| [Dimmed Light](https://open.spotify.com/track/7zNoicQ4RSRfWzyMH9uf4j) | [Universal Embrace](https://open.spotify.com/artist/5gHFFsg1nxyuK4dwL7eEpY) | [Dimmed Light](https://open.spotify.com/album/7CHL1omMAmsCF9B25bT11e) | 2:59 | 2025-03-19 |  |
 | [Dinlenmek](https://open.spotify.com/track/38FoeSh8Ll0dA5TuflbviN) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Dinlenmek](https://open.spotify.com/album/6Nhn7DsXIg6clkyhoPmWGT) | 3:43 | 2023-03-23 | 2024-01-18 |
 | [Divine Energy](https://open.spotify.com/track/32FjtW6eFU5PZQYuFMHwjP) | [Minotaur Minds](https://open.spotify.com/artist/07fLp0shB9MP54yKiucmfv) | [Divine Energy](https://open.spotify.com/album/4HstKb5JYtUzLAQp8wyH0T) | 3:33 | 2023-03-23 | 2024-01-18 |
 | [Divine Whispers](https://open.spotify.com/track/2IsqXoqjvpSP7C9hWPXeB5) | [Mages of Chronos](https://open.spotify.com/artist/5lzhk8HAFzzDegDSBMVkxe) | [Divine Whispers](https://open.spotify.com/album/5Mdurk34BwuUmBydmCwa0E) | 2:54 | 2024-01-17 | 2024-10-15 |
@@ -240,7 +241,7 @@
 | [Etéreo](https://open.spotify.com/track/332LsZnqbuZPRiiknROvfy) | [Constantine Lupo](https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn) | [Etéreo](https://open.spotify.com/album/6iUYSrnRQ5BKvECnWParnE) | 3:16 | 2023-03-23 | 2024-03-21 |
 | [Euclid](https://open.spotify.com/track/56mK5RyrLDDcuMOHPXoKbN) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Euclid](https://open.spotify.com/album/34k8LhrSkwluEKrqT0Eeej) | 2:27 | 2024-12-17 |  |
 | [Eudaimonia](https://open.spotify.com/track/6KU6lJNEwpHSB8EdI6klNN) | [Gaea Antoniou](https://open.spotify.com/artist/3L8lia6SiogIvkEl2qQ32d) | [Eudaimonia](https://open.spotify.com/album/09qRQwHteDmqgCTEe2HcYl) | 2:57 | 2023-03-23 | 2024-02-09 |
-| [Evangeline](https://open.spotify.com/track/2qO8aQQot1zPqyh02831Xs) | [Armonía Astral](https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf) | [Evangeline](https://open.spotify.com/album/0YiP5Q7LDtmMmZgl1aZ3gq) | 2:57 | 2024-03-20 |  |
+| [Evangeline](https://open.spotify.com/track/2qO8aQQot1zPqyh02831Xs) | [Armonía Astral](https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf) | [Evangeline](https://open.spotify.com/album/0YiP5Q7LDtmMmZgl1aZ3gq) | 2:57 | 2024-03-20 | 2025-03-20 |
 | [Evening Song](https://open.spotify.com/track/1gWYsSqPShi9oTU04dAofI) | [Alexander Sterling](https://open.spotify.com/artist/7jCHPpIZYNW9xezoE6m6Ez) | [Evening Song](https://open.spotify.com/album/2EGEPzrjEz8YVg3rCvgJ1A) | 3:18 | 2023-03-23 | 2024-02-09 |
 | [Ever Since You](https://open.spotify.com/track/35Yml7NjICscuKAGuX3iZx) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [Ever Since You](https://open.spotify.com/album/2K7cEgnd8671eQfCqyMWMe) | 2:22 | 2023-03-23 | 2024-01-18 |
 | [Evergreen](https://open.spotify.com/track/4mw9pIQnrqSVv8bH0h3Jig) | [Jack Allenson](https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb) | [Evergreen](https://open.spotify.com/album/0rZfWmfqKjTSATBvIZ33TT) | 2:57 | 2025-01-22 |  |
@@ -358,7 +359,7 @@
 | [Light for all](https://open.spotify.com/track/0FRYGxLKBj6O8Fi0oKI3vB) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Light for all](https://open.spotify.com/album/2sEotHpaJFB3BhhRjHZmBX) | 2:58 | 2024-05-04 | 2025-01-09 |
 | [Light Rest](https://open.spotify.com/track/58QLCa2HJxU4U2MnpNopLj) | [Spring Euphemia](https://open.spotify.com/artist/2LTLJd4VIsqMpaoh9dn1ik) | [Light Rest](https://open.spotify.com/album/1Jmn0i1SjtVnj2IsC05vd8) | 2:49 | 2023-03-23 | 2024-02-09 |
 | [Light Sleeper](https://open.spotify.com/track/7eknTLiUUbGspdGNAfCxaz) | [Minja Nielsen](https://open.spotify.com/artist/3jlEJrMzCUENPaNM3IZsBo) | [Light Sleeper](https://open.spotify.com/album/4o6N8l3kLDS42Hh0IsEGH0) | 2:34 | 2023-03-23 | 2024-05-21 |
-| [Lighthouse](https://open.spotify.com/track/0LNiw2LKUcJG80ciSFQnLu) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Lighthouse](https://open.spotify.com/album/0NiwXfCPPctznzw3f3rOkH) | 2:27 | 2024-11-05 |  |
+| [Lighthouse](https://open.spotify.com/track/0LNiw2LKUcJG80ciSFQnLu) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Lighthouse](https://open.spotify.com/album/0NiwXfCPPctznzw3f3rOkH) | 2:27 | 2024-11-05 | 2025-03-20 |
 | [Lights Out](https://open.spotify.com/track/5i3gMF4xQnyFWXtmkI1JfD) | [Solene Edgar](https://open.spotify.com/artist/0fgYGY8NcvoPXNv21CLlul) | [Lights Out](https://open.spotify.com/album/721QaQS4R4vBzRX2gEAMyd) | 2:53 | 2023-03-23 | 2023-05-06 |
 | [Liquid Dream \- Piano Version](https://open.spotify.com/track/3ISWnR8CHeuUaghZXPbfRa) | [Alec Wynter](https://open.spotify.com/artist/6PKn0AB4MUWk51WWdZLPMd) | [Liquid Dream \- Piano Version](https://open.spotify.com/album/5J3aYIH6tZuEVQuf1Jvl92) | 3:22 | 2023-03-23 | 2024-02-09 |
 | [Lithium](https://open.spotify.com/track/4emADcTdYDTuUtuqW6FgG1) | [Hudba Lyrika](https://open.spotify.com/artist/21JKDXC6Hihde2MshJBXM7) | [Metalla Alcalica](https://open.spotify.com/album/0li3pN4Iz7QT0v7XAeygDK) | 2:54 | 2024-05-04 | 2024-07-12 |
@@ -378,6 +379,7 @@
 | [Lyrebird](https://open.spotify.com/track/72mDETn3Ba8yVewAcqnlqQ) | [Keira Conlon](https://open.spotify.com/artist/2PeXm2l3nGWuNKDr7ATimr) | [Lyrebird](https://open.spotify.com/album/73YZiV6JEfhRBr855r2fvk) | 2:33 | 2023-03-23 | 2024-01-18 |
 | [Magical Calmness](https://open.spotify.com/track/20hO8nLj0SFWfC2b2d0Czs) | [Bedtime Muse](https://open.spotify.com/artist/15AGQlNX9Ej332pHcSTUjO) | [Magical Calmness](https://open.spotify.com/album/7yMh6pTahqKNiidicZaVwz) | 2:37 | 2024-07-15 |  |
 | [Make It Last](https://open.spotify.com/track/3BXxpljx5qawevsOU6UzHY) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Make It Last](https://open.spotify.com/album/0vQymbxDgCdBXGuwVtUsH2) | 2:54 | 2023-03-23 | 2024-02-09 |
+| [Mandala](https://open.spotify.com/track/5iW98p3r3bR9N7JGHlMCI0) | [Marc Veil](https://open.spotify.com/artist/5YHPMNDsxSX4O6XVgnCukg) | [Mandala](https://open.spotify.com/album/0LKpvbQooDpOM3UGQTrViI) | 2:23 | 2025-03-19 |  |
 | [Manitoba](https://open.spotify.com/track/0bPvqnt9L5FNrHAMO7MdMh) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Manitoba](https://open.spotify.com/album/3IlPtuf3cP1V6QdqJgeMsb) | 2:21 | 2024-03-06 |  |
 | [Marbre D’aube](https://open.spotify.com/track/4xOArpiZ0N1UC6sRAwbNtE) | [Les Coralines](https://open.spotify.com/artist/595oUO0bgLQxuQ28hBcPSm) | [Marbre D’aube](https://open.spotify.com/album/5GenEVsZz4Ek38mVczOPtv) | 3:18 | 2025-02-04 |  |
 | [Marimosa](https://open.spotify.com/track/6Jdeeh0nD5AsDFKaYQeIqO) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Marimosa](https://open.spotify.com/album/7xTRy7Ll52l96kKe6OpXgB) | 3:09 | 2024-01-17 | 2025-01-09 |

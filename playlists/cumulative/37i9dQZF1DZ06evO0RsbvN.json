@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 182602,
       "name": "Farewell Daddy Blues",
       "url": "https://open.spotify.com/track/4Z1u9GjegmxbnxMByl1BnC"
@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 178280,
       "name": "Grievin' Hearted Blues",
       "url": "https://open.spotify.com/track/3Wtm5dbIQHD2CMiLlvZ7gG"
@@ -2220,7 +2220,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 170480,
       "name": "Lost Wandering Blues",
       "url": "https://open.spotify.com/track/0fpBJbQMS9t0k5bVz9zdkD"
@@ -3734,6 +3734,24 @@
           "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165253,
+      "name": "Titanic Man Blues: 1",
+      "url": "https://open.spotify.com/track/0Qk9bSM0cklGRT2XmTfg8B"
+    },
+    {
+      "album": {
+        "name": "Mother Of The Blues, CD C",
+        "url": "https://open.spotify.com/album/2yLBLBIzFDd5oZDJRnA3j8"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
       "date_removed": "2024-09-07",
@@ -4042,7 +4060,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 176666,
       "name": "Wringing And Twisting Blues",
       "url": "https://open.spotify.com/track/6V6mQY8oZVze9IK8ak1E9k"
@@ -4078,7 +4096,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 178600,
       "name": "Wringing and Twisting Blues",
       "url": "https://open.spotify.com/track/637VHcQICbUCaCYpAuBbiW"

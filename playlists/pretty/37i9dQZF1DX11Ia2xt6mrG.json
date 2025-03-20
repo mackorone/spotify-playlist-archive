@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Deorro y Alex Favela en portada.",
-  "num_followers": 63493,
+  "num_followers": 63506,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2qWJxA1LE4FCzzfHtWhPsx"
-      },
-      "artists": [
-        {
-          "name": "HAJJ",
-          "url": "https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/3gN1Aw7DmcrIFeDO1yqGZc"
-    },
-    {
-      "added_at": "2025-03-14 06:00:10",
-      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/2yAk2MMYwNiQnI9iBGHsTB"
       },
@@ -819,46 +803,18 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
-        "name": "2 Da Floor",
-        "url": "https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2qWJxA1LE4FCzzfHtWhPsx"
       },
       "artists": [
         {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        },
-        {
-          "name": "J. Cruze",
-          "url": "https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V"
+          "name": "HAJJ",
+          "url": "https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI"
         }
       ],
-      "duration_ms": 185600,
-      "name": "2 Da Floor",
-      "url": "https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb"
-    },
-    {
-      "added_at": "2025-03-14 06:00:10",
-      "album": {
-        "name": "NO ESTABA MAL",
-        "url": "https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        },
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        }
-      ],
-      "duration_ms": 165245,
-      "name": "NO ESTABA MAL",
-      "url": "https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E"
+      "duration_ms": 133333,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3gN1Aw7DmcrIFeDO1yqGZc"
     },
     {
       "added_at": "2025-03-14 06:00:10",
@@ -883,6 +839,50 @@
       "duration_ms": 188368,
       "name": "Bella",
       "url": "https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w"
+    },
+    {
+      "added_at": "2025-03-14 06:00:10",
+      "album": {
+        "name": "NO ESTABA MAL",
+        "url": "https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        },
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        }
+      ],
+      "duration_ms": 165245,
+      "name": "NO ESTABA MAL",
+      "url": "https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E"
+    },
+    {
+      "added_at": "2025-03-14 06:00:10",
+      "album": {
+        "name": "2 Da Floor",
+        "url": "https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "J. Cruze",
+          "url": "https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "2 Da Floor",
+      "url": "https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb"
     },
     {
       "added_at": "2025-03-14 06:00:10",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
-        "name": "MiDNiGHT",
-        "url": "https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 186595,
-      "name": "MiDNiGHT",
-      "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
-    },
-    {
-      "added_at": "2025-03-14 06:00:10",
-      "album": {
         "name": "Lunita (J.Pool Remix)",
         "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 380878,
       "name": "Lunita - J.Pool Remix",
       "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
+    },
+    {
+      "added_at": "2025-03-14 06:00:10",
+      "album": {
+        "name": "MiDNiGHT",
+        "url": "https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 186595,
+      "name": "MiDNiGHT",
+      "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
     },
     {
       "added_at": "2025-03-14 06:00:10",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
-        "name": "RUTA TECHNOMAMI",
-        "url": "https://open.spotify.com/album/2CS2FuwMMLVvaQGMyVWsS5"
-      },
-      "artists": [
-        {
-          "name": "RAYBEN",
-          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
-        }
-      ],
-      "duration_ms": 141232,
-      "name": "RUTA TECHNOMAMI",
-      "url": "https://open.spotify.com/track/6IMA7nOI3i2tpf37IRNIjQ"
-    },
-    {
-      "added_at": "2025-03-14 06:00:10",
-      "album": {
         "name": "Que se Joda",
         "url": "https://open.spotify.com/album/7num6L1ZNnss90SnUbDZaz"
       },
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
+        "name": "RUTA TECHNOMAMI",
+        "url": "https://open.spotify.com/album/2CS2FuwMMLVvaQGMyVWsS5"
+      },
+      "artists": [
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        }
+      ],
+      "duration_ms": 141232,
+      "name": "RUTA TECHNOMAMI",
+      "url": "https://open.spotify.com/track/6IMA7nOI3i2tpf37IRNIjQ"
+    },
+    {
+      "added_at": "2025-03-14 06:00:10",
+      "album": {
         "name": "lowkey",
         "url": "https://open.spotify.com/album/7mnD8HQb58X3WGy4adKpJm"
       },
@@ -1247,6 +1247,26 @@
       "duration_ms": 170089,
       "name": "Exclusive",
       "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
+    },
+    {
+      "added_at": "2025-03-14 06:00:10",
+      "album": {
+        "name": "LLORAR!",
+        "url": "https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4"
+      },
+      "artists": [
+        {
+          "name": "RIXXIA",
+          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
+        },
+        {
+          "name": "Fito Silva",
+          "url": "https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64"
+        }
+      ],
+      "duration_ms": 107200,
+      "name": "LLORAR!",
+      "url": "https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf"
     },
     {
       "added_at": "2025-03-14 06:00:10",
@@ -1283,26 +1303,6 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
-        "name": "LLORAR!",
-        "url": "https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4"
-      },
-      "artists": [
-        {
-          "name": "RIXXIA",
-          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
-        },
-        {
-          "name": "Fito Silva",
-          "url": "https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64"
-        }
-      ],
-      "duration_ms": 107200,
-      "name": "LLORAR!",
-      "url": "https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf"
-    },
-    {
-      "added_at": "2025-03-14 06:00:10",
-      "album": {
         "name": "Bora Nessa",
         "url": "https://open.spotify.com/album/1cNMT60ZuWPDNG998L0q3T"
       },
@@ -1331,6 +1331,30 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
+        "name": "SIN MIRAR (Midnight Generation Remix)",
+        "url": "https://open.spotify.com/album/5SOIjOz7nVuNsix1KXBylg"
+      },
+      "artists": [
+        {
+          "name": "Solo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
+        },
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        },
+        {
+          "name": "Midnight Generation",
+          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
+        }
+      ],
+      "duration_ms": 292880,
+      "name": "SIN MIRAR - Midnight Generation Remix",
+      "url": "https://open.spotify.com/track/51KDO4YS0RVlHRt0qaYj6h"
+    },
+    {
+      "added_at": "2025-03-14 06:00:10",
+      "album": {
         "name": "Sola",
         "url": "https://open.spotify.com/album/4L10sDlgzuYQbPCz0sgZOU"
       },
@@ -1355,30 +1379,6 @@
       "duration_ms": 105703,
       "name": "Sola",
       "url": "https://open.spotify.com/track/1L1tBBzEQ2OxchU3Ti5zdX"
-    },
-    {
-      "added_at": "2025-03-14 06:00:10",
-      "album": {
-        "name": "SIN MIRAR (Midnight Generation Remix)",
-        "url": "https://open.spotify.com/album/5SOIjOz7nVuNsix1KXBylg"
-      },
-      "artists": [
-        {
-          "name": "Solo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
-        },
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        },
-        {
-          "name": "Midnight Generation",
-          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
-        }
-      ],
-      "duration_ms": 292880,
-      "name": "SIN MIRAR - Midnight Generation Remix",
-      "url": "https://open.spotify.com/track/51KDO4YS0RVlHRt0qaYj6h"
     },
     {
       "added_at": "2025-03-14 06:00:10",
@@ -1535,30 +1535,6 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
-        "name": "CORA DE HIELO",
-        "url": "https://open.spotify.com/album/1vi2pRTfXaaOuUdxsJVuJ5"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        },
-        {
-          "name": "Natt Calma",
-          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
-        },
-        {
-          "name": "Mau Moctezuma",
-          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
-        }
-      ],
-      "duration_ms": 164769,
-      "name": "CORA DE HIELO",
-      "url": "https://open.spotify.com/track/36WZaDCXGYe3usRdHS5CLG"
-    },
-    {
-      "added_at": "2025-03-14 06:00:10",
-      "album": {
         "name": "Not For Resale",
         "url": "https://open.spotify.com/album/71F8ZwPudopYuDWajBYPM0"
       },
@@ -1615,6 +1591,30 @@
       "duration_ms": 203478,
       "name": "duelerespirar (funnynoiseclub004)",
       "url": "https://open.spotify.com/track/7DjGuTdfEZErB1eYCBCuGX"
+    },
+    {
+      "added_at": "2025-03-14 06:00:10",
+      "album": {
+        "name": "CORA DE HIELO",
+        "url": "https://open.spotify.com/album/1vi2pRTfXaaOuUdxsJVuJ5"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Natt Calma",
+          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+        },
+        {
+          "name": "Mau Moctezuma",
+          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
+        }
+      ],
+      "duration_ms": 164769,
+      "name": "CORA DE HIELO",
+      "url": "https://open.spotify.com/track/36WZaDCXGYe3usRdHS5CLG"
     },
     {
       "added_at": "2025-03-14 06:00:10",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
+        "name": "F1",
+        "url": "https://open.spotify.com/album/0iMrN1DTygbN3Kvoiswb4j"
+      },
+      "artists": [
+        {
+          "name": "VICKILICIOUS",
+          "url": "https://open.spotify.com/artist/3epgn9E3Ew3AfIh3LlyOYZ"
+        }
+      ],
+      "duration_ms": 120816,
+      "name": "F1",
+      "url": "https://open.spotify.com/track/1LdwauFSFbn33eQUSTKWP5"
+    },
+    {
+      "added_at": "2025-03-14 06:00:10",
+      "album": {
         "name": "Movie Star",
         "url": "https://open.spotify.com/album/42NaAw7hSOoQ0uAncIEoX0"
       },
@@ -1739,18 +1755,22 @@
     {
       "added_at": "2025-03-14 06:00:10",
       "album": {
-        "name": "F1",
-        "url": "https://open.spotify.com/album/0iMrN1DTygbN3Kvoiswb4j"
+        "name": "RAYBEN CAP 6: EL DANZ\u00d3N",
+        "url": "https://open.spotify.com/album/2Z7qHRKHMTKTV5cX0juLnh"
       },
       "artists": [
         {
-          "name": "VICKILICIOUS",
-          "url": "https://open.spotify.com/artist/3epgn9E3Ew3AfIh3LlyOYZ"
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        },
+        {
+          "name": "El HueyCoyote",
+          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
         }
       ],
-      "duration_ms": 120816,
-      "name": "F1",
-      "url": "https://open.spotify.com/track/1LdwauFSFbn33eQUSTKWP5"
+      "duration_ms": 142677,
+      "name": "RAYBEN CAP 6: EL DANZ\u00d3N",
+      "url": "https://open.spotify.com/track/4n6JiKIrQ6ORMMYurmU2mr"
     },
     {
       "added_at": "2025-03-14 06:00:10",
@@ -1775,26 +1795,6 @@
       "duration_ms": 212088,
       "name": "Como Tony",
       "url": "https://open.spotify.com/track/4h1xBeWL6aPDkZc6JuSbAb"
-    },
-    {
-      "added_at": "2025-03-14 06:00:10",
-      "album": {
-        "name": "RAYBEN CAP 6: EL DANZ\u00d3N",
-        "url": "https://open.spotify.com/album/2Z7qHRKHMTKTV5cX0juLnh"
-      },
-      "artists": [
-        {
-          "name": "RAYBEN",
-          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
-        },
-        {
-          "name": "El HueyCoyote",
-          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
-        }
-      ],
-      "duration_ms": 142677,
-      "name": "RAYBEN CAP 6: EL DANZ\u00d3N",
-      "url": "https://open.spotify.com/track/4n6JiKIrQ6ORMMYurmU2mr"
     },
     {
       "added_at": "2025-03-14 06:00:10",

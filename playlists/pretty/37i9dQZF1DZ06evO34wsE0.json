@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 247839,
+  "num_followers": 247861,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAABwlw+cgc/57M0gEwysh4RY",
+  "snapshot_id": "Z9i3gAAAAACndhzjWrnvuTexUwRvZSzB",
   "tracks": [
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Now (Deluxe)",
-        "url": "https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "Swingin' With My Eyes Closed",
-      "url": "https://open.spotify.com/track/5fTZIshfPjqpcfDI8vrgtT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come On Over",
         "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 219693,
       "name": "Black Eyes, Blue Tears",
       "url": "https://open.spotify.com/track/43c6l8nrX8hHkwf1yuUKki"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Now (Deluxe)",
+        "url": "https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 213093,
+      "name": "Swingin' With My Eyes Closed",
+      "url": "https://open.spotify.com/track/5fTZIshfPjqpcfDI8vrgtT"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen Of Me",
-        "url": "https://open.spotify.com/album/4vgoKoyq3ep6PLN25XtS6w"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 159382,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/3OCTonHd9l53kBjGFvW29a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come On Over",
         "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 228826,
       "name": "Whatever You Do! Don't!",
       "url": "https://open.spotify.com/track/1oDey7MWmrKRCSM0tgEoU8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Queen Of Me",
+        "url": "https://open.spotify.com/album/4vgoKoyq3ep6PLN25XtS6w"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 159382,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/3OCTonHd9l53kBjGFvW29a"
     },
     {
       "added_at": null,
@@ -839,22 +839,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serving Country",
-        "url": "https://open.spotify.com/album/4vxPW02Yf9UbO90m7yM6PY"
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
       "artists": [
-        {
-          "name": "Yung Gravy",
-          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
-        },
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 203723,
-      "name": "White Claw (with Shania Twain)",
-      "url": "https://open.spotify.com/track/6kTrNSRH9qE3g4eiJslGL5"
+      "duration_ms": 243948,
+      "name": "If You Wanna Touch Her, Ask!",
+      "url": "https://open.spotify.com/track/7uQTbTiCf9p2v0ceOWkXli"
     }
   ],
   "unique_name": "This Is Shania Twain",

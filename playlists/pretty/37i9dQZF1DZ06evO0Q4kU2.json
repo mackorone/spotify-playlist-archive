@@ -1,12 +1,12 @@
 {
   "description": "This is Gabr\u00edel \u00d3lafs. The essential tracks, all in one playlist.",
-  "num_followers": 1756,
+  "num_followers": 1764,
   "original_name": "This Is Gabr\u00edel \u00d3lafs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAACmUmuYowfRTNJSR2Niq0Uz",
+  "snapshot_id": "Z9i3gAAAAACNtPREfz1fjWjG95GrCfU+",
   "tracks": [
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whale Overture",
-        "url": "https://open.spotify.com/album/2qKtYYDcYFtSXUaCxYhJAb"
+        "name": "Absent Minded",
+        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 156229,
-      "name": "Whale Variation",
-      "url": "https://open.spotify.com/track/45dS5EfgmAWuUsqQTWuI5A"
+      "duration_ms": 197133,
+      "name": "Cyclist Waltz",
+      "url": "https://open.spotify.com/track/3bfTfRxO7ksp4EjYWF6LDn"
     },
     {
       "added_at": null,
@@ -523,18 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Absent Minded",
-        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
+        "name": "Solon Islandus (Complete Works)",
+        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
       },
       "artists": [
         {
           "name": "Gabr\u00edel \u00d3lafs",
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        },
+        {
+          "name": "Steiney Sigur\u00f0ard\u00f3ttir",
+          "url": "https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO"
         }
       ],
-      "duration_ms": 197133,
-      "name": "Cyclist Waltz",
-      "url": "https://open.spotify.com/track/3bfTfRxO7ksp4EjYWF6LDn"
+      "duration_ms": 153756,
+      "name": "The Croak",
+      "url": "https://open.spotify.com/track/3GBNUN3jAMhkh8MRa39kwo"
     },
     {
       "added_at": null,
@@ -559,22 +563,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solon Islandus (Complete Works)",
-        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
+        "name": "Whale Overture",
+        "url": "https://open.spotify.com/album/2qKtYYDcYFtSXUaCxYhJAb"
       },
       "artists": [
         {
           "name": "Gabr\u00edel \u00d3lafs",
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        },
-        {
-          "name": "Steiney Sigur\u00f0ard\u00f3ttir",
-          "url": "https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO"
         }
       ],
-      "duration_ms": 153756,
-      "name": "The Croak",
-      "url": "https://open.spotify.com/track/3GBNUN3jAMhkh8MRa39kwo"
+      "duration_ms": 156229,
+      "name": "Whale Variation",
+      "url": "https://open.spotify.com/track/45dS5EfgmAWuUsqQTWuI5A"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 241131,
-      "name": "The Winds",
-      "url": "https://open.spotify.com/track/1ekC0Et4hZTIq1a93Fxjfj"
+      "duration_ms": 278298,
+      "name": "The Waves",
+      "url": "https://open.spotify.com/track/4MlRPfn6fTD1RIr3Auvh4r"
     },
     {
       "added_at": null,
@@ -739,6 +739,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hind / Aska (Harpa Sessions)",
+        "url": "https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Hind / Aska - Harpa Sessions",
+      "url": "https://open.spotify.com/track/3xAXkaB8vlhYa41vuM5RNM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Polar",
+        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 241131,
+      "name": "The Winds",
+      "url": "https://open.spotify.com/track/1ekC0Et4hZTIq1a93Fxjfj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lullabies for Piano and Cello",
         "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
       },
@@ -755,38 +787,6 @@
       "duration_ms": 92509,
       "name": "Barnkind",
       "url": "https://open.spotify.com/track/35epMyBRSxXHRbxa39FaBA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Polar",
-        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 278298,
-      "name": "The Waves",
-      "url": "https://open.spotify.com/track/4MlRPfn6fTD1RIr3Auvh4r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hind / Aska (Harpa Sessions)",
-        "url": "https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "Hind / Aska - Harpa Sessions",
-      "url": "https://open.spotify.com/track/3xAXkaB8vlhYa41vuM5RNM"
     },
     {
       "added_at": null,

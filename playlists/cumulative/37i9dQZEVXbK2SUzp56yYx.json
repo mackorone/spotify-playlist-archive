@@ -9624,7 +9624,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 84471,
       "name": "MONTAGEM LADRAO - Slowed",
       "url": "https://open.spotify.com/track/6vlNWoIrFDRv36L4C2cMDy"
@@ -9650,7 +9650,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-19",
+      "date_removed": null,
       "duration_ms": 89490,
       "name": "MONTAGEM LADRAO - Super Slowed",
       "url": "https://open.spotify.com/track/5SsDVkC7XsJJYKU9jdO7Ba"
@@ -13662,7 +13662,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 257746,
       "name": "Spitting Off the Edge of the World",
       "url": "https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn"
@@ -18699,6 +18699,24 @@
     },
     {
       "album": {
+        "name": "\u041f\u0440\u043e\u0440\u043e\u043a. \u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u041f\u0443\u0448\u043a\u0438\u043d\u0430 (\u041e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0443\u043d\u0434\u0442\u0440\u0435\u043a \u043a \u0444\u0438\u043b\u044c\u043c\u0443 \"\u041f\u0440\u043e\u0440\u043e\u043a\" \u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u041f\u0443\u0448\u043a\u0438\u043d\u0430)",
+        "url": "https://open.spotify.com/album/5MwnvkgiIw85rWsmBgd59p"
+      },
+      "artists": [
+        {
+          "name": "The Hatters",
+          "url": "https://open.spotify.com/artist/7JuLr3YC53QjWBcw2el44G"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "\u0413\u043e\u0440\u043e\u0434 \u043f\u043e\u0435\u0442 - \u0418\u0437 \u0444\u0438\u043b\u044c\u043c\u0430 \u00ab\u041f\u0440\u043e\u0440\u043e\u043a. \u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u041f\u0443\u0448\u043a\u0438\u043d\u0430\u00bb",
+      "url": "https://open.spotify.com/track/4l8dG5KuKFLU8eEdvTd05p"
+    },
+    {
+      "album": {
         "name": "\u0413\u043e\u0440\u043e\u0434 \u043f\u043e\u0451\u0442 (\u0421\u0430\u0443\u043d\u0434\u0442\u0440\u0435\u043a \u043a \u0444\u0438\u043b\u044c\u043c\u0443 \u00ab\u041f\u0440\u043e\u0440\u043e\u043a. \u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u041f\u0443\u0448\u043a\u0438\u043d\u0430\u00bb)",
         "url": "https://open.spotify.com/album/6oCF3x70g3ev8SdiXU9ezl"
       },
@@ -20518,7 +20536,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-18",
+      "date_removed": null,
       "duration_ms": 150555,
       "name": "\u043b\u0435\u0442\u0430\u0435\u043c",
       "url": "https://open.spotify.com/track/4IsoZk39JVbSI49szEh44A"

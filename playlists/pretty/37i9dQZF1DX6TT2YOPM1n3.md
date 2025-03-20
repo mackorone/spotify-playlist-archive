@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Home to Pakistani Hits\. Cover: Maanu, Annural Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,184 likes - 57 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,206 likes - 57 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

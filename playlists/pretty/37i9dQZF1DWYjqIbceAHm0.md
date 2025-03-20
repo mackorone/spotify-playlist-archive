@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYjqIbceAHm0.md) - [plain]
 
 > Meet the soundtrack and exclusive unreleased videos of JTBC's global idol audition 'Peak Time'! \(JTBC의 글로벌 아이돌 오디션 '피크타임'의 사운드 트랙과 독점 미공개 영상들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,801 likes - 49 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,804 likes - 49 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

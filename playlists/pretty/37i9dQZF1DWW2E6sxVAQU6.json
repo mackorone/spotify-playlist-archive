@@ -1,6 +1,6 @@
 {
   "description": "Italia amore mio \ud83c\uddee\ud83c\uddf9\ud83c\uddee\ud83c\uddf9\ud83c\uddee\ud83c\uddf9 \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
-  "num_followers": 12430,
+  "num_followers": 12434,
   "original_name": "Sanremo: Schegge Impazzite",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2025-02-11 05:01:43",
       "album": {
+        "name": "La Faccia Delle Donne",
+        "url": "https://open.spotify.com/album/76rFF7v6dK477ZuNohtqPh"
+      },
+      "artists": [
+        {
+          "name": "Stadio",
+          "url": "https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA"
+        }
+      ],
+      "duration_ms": 219160,
+      "name": "Allo stadio",
+      "url": "https://open.spotify.com/track/1vbGCz41lKI9QZqnCslW3L"
+    },
+    {
+      "added_at": "2025-02-11 05:01:43",
+      "album": {
         "name": "1998\u2026e I miei grandi successi",
         "url": "https://open.spotify.com/album/4Vas2bDBwoX9SmeJ9ucL1Q"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 239407,
       "name": "Quelli Che Non Hanno Et\u00e0 - Gabry Ponte Power Cut",
       "url": "https://open.spotify.com/track/2mz1KvlR3aHoLSJTdh1nwR"
-    },
-    {
-      "added_at": "2025-02-11 05:01:43",
-      "album": {
-        "name": "La Faccia Delle Donne",
-        "url": "https://open.spotify.com/album/76rFF7v6dK477ZuNohtqPh"
-      },
-      "artists": [
-        {
-          "name": "Stadio",
-          "url": "https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA"
-        }
-      ],
-      "duration_ms": 219160,
-      "name": "Allo stadio",
-      "url": "https://open.spotify.com/track/1vbGCz41lKI9QZqnCslW3L"
     },
     {
       "added_at": "2025-02-11 05:01:43",
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-02-11 05:01:43",
       "album": {
-        "name": "Playlist: Sottotono",
-        "url": "https://open.spotify.com/album/3PNhqVcLql4ffwqtzIKXMr"
-      },
-      "artists": [
-        {
-          "name": "Sottotono",
-          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
-        }
-      ],
-      "duration_ms": 258426,
-      "name": "Mezze verit\u00e0",
-      "url": "https://open.spotify.com/track/7rdw5FwyUOuXtTQCKRtsWy"
-    },
-    {
-      "added_at": "2025-02-11 05:01:43",
-      "album": {
         "name": "Romana",
         "url": "https://open.spotify.com/album/0qnJo0nniBPA33NV72WgRQ"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 242053,
       "name": "Il terzo fuochista",
       "url": "https://open.spotify.com/track/19Rdet8mE1HvEoO4aMrQs3"
+    },
+    {
+      "added_at": "2025-02-11 05:01:43",
+      "album": {
+        "name": "Playlist: Sottotono",
+        "url": "https://open.spotify.com/album/3PNhqVcLql4ffwqtzIKXMr"
+      },
+      "artists": [
+        {
+          "name": "Sottotono",
+          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
+        }
+      ],
+      "duration_ms": 258426,
+      "name": "Mezze verit\u00e0",
+      "url": "https://open.spotify.com/track/7rdw5FwyUOuXtTQCKRtsWy"
     },
     {
       "added_at": "2025-02-11 05:01:43",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-02-11 05:01:43",
       "album": {
-        "name": "Rockmantic Collection",
-        "url": "https://open.spotify.com/album/47UVu4TaCdXT12GFQPswt3"
-      },
-      "artists": [
-        {
-          "name": "Alberto Camerini",
-          "url": "https://open.spotify.com/artist/7kOQR3ATctYUODFM38PUOI"
-        }
-      ],
-      "duration_ms": 220293,
-      "name": "La bottega del caffe'",
-      "url": "https://open.spotify.com/track/4vgziFK1AtMxdnZllyaDnC"
-    },
-    {
-      "added_at": "2025-02-11 05:01:43",
-      "album": {
         "name": "Made In Italy",
         "url": "https://open.spotify.com/album/2GU0jh6JYDm5CZzOwFJBb9"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 249746,
       "name": "Sbatti Ben Su Del BeBop",
       "url": "https://open.spotify.com/track/5Dt3SmukbC11M8p5boi1ss"
+    },
+    {
+      "added_at": "2025-02-11 05:01:43",
+      "album": {
+        "name": "Rockmantic Collection",
+        "url": "https://open.spotify.com/album/47UVu4TaCdXT12GFQPswt3"
+      },
+      "artists": [
+        {
+          "name": "Alberto Camerini",
+          "url": "https://open.spotify.com/artist/7kOQR3ATctYUODFM38PUOI"
+        }
+      ],
+      "duration_ms": 220293,
+      "name": "La bottega del caffe'",
+      "url": "https://open.spotify.com/track/4vgziFK1AtMxdnZllyaDnC"
     },
     {
       "added_at": "2025-02-11 05:01:43",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-02-11 05:01:43",
       "album": {
-        "name": "Ciro Sebastianelli",
-        "url": "https://open.spotify.com/album/3Fwu7sLQ1Oqei8qHjmvtwq"
-      },
-      "artists": [
-        {
-          "name": "Ciro Sebastianelli",
-          "url": "https://open.spotify.com/artist/1woevdio0DhaV9mcYxCfuk"
-        }
-      ],
-      "duration_ms": 202426,
-      "name": "Ciao Barbarella",
-      "url": "https://open.spotify.com/track/2u8X8HaobutZdw7jtRcJT3"
-    },
-    {
-      "added_at": "2025-02-11 05:01:43",
-      "album": {
         "name": "The Rokes",
         "url": "https://open.spotify.com/album/3mm9uSe1qxj3rndKZKA61E"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 215080,
       "name": "Le Opere Di Bartolomeo",
       "url": "https://open.spotify.com/track/2Kv2f0zunEJkre9EQAJa1I"
+    },
+    {
+      "added_at": "2025-02-11 05:01:43",
+      "album": {
+        "name": "Ciro Sebastianelli",
+        "url": "https://open.spotify.com/album/3Fwu7sLQ1Oqei8qHjmvtwq"
+      },
+      "artists": [
+        {
+          "name": "Ciro Sebastianelli",
+          "url": "https://open.spotify.com/artist/1woevdio0DhaV9mcYxCfuk"
+        }
+      ],
+      "duration_ms": 202426,
+      "name": "Ciao Barbarella",
+      "url": "https://open.spotify.com/track/2u8X8HaobutZdw7jtRcJT3"
     },
     {
       "added_at": "2025-02-11 05:01:43",

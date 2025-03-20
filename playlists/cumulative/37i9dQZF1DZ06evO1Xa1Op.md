@@ -126,6 +126,6 @@
 | [Yer Bounda Fara](https://open.spotify.com/track/56diuxLa7MlePUpjTBRswc) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez) | 4:16 | 2022-01-01 | 2024-12-25 |
 | [Yer Bounda Fara \(2019 \- Remaster\)](https://open.spotify.com/track/4HzKjoUhJGIP9WPuxh30OA) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane \(2019 Remaster\)](https://open.spotify.com/album/2ru8ZK0F2CyHfJm7th1wpv) | 4:18 | 2024-12-25 |  |
 | [Yer Mali Gakoyoyo](https://open.spotify.com/track/7ezY0xMgRoKDiBHjnUzOJT) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Radio Mali](https://open.spotify.com/album/2GCbmW2Rtrs9hg7XrwdXgP) | 4:48 | 2021-12-28 | 2022-10-13 |
-| [Yer Mali Gakoyoyo](https://open.spotify.com/track/2Wy19zQQAwnOykhdA5RZzI) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Radio Mali](https://open.spotify.com/album/1NGYT5b3crZfcJzhtBz25r) | 4:50 | 2024-11-11 |  |
+| [Yer Mali Gakoyoyo](https://open.spotify.com/track/2Wy19zQQAwnOykhdA5RZzI) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Radio Mali](https://open.spotify.com/album/1NGYT5b3crZfcJzhtBz25r) | 4:50 | 2024-11-11 | 2025-03-20 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

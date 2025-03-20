@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,204 songs - 2 day 16 hr 39 min
+1,205 songs - 2 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Drop The Pressure](https://open.spotify.com/track/0QZdbOtajbimysXPJDkU3H) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Mylo](https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti) | [Drop The Pressure](https://open.spotify.com/album/1TKqMj1Tu9D7GlrD30qPtP) | 3:00 | 2022-04-29 | 2022-05-14 |
 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2022-09-27 | 2024-04-19 |
 | [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 | 2022-08-26 | 2022-09-30 |
+| [Drum Death](https://open.spotify.com/track/1gkTO34Xg6FO8W9HrxYR4E) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [HOSANNA](https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7) | [Drum Death](https://open.spotify.com/album/4vqrNHTMoTgrN4DBH5b81t) | 2:50 | 2025-03-14 |  |
 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 | 2023-11-17 | 2024-11-09 |
 | [Dudada](https://open.spotify.com/track/1GENOPUqhM4POXH65ZnqZm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Goldcher](https://open.spotify.com/artist/1n9K41Jye8s8F0z1hb1Qhz), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Dudada](https://open.spotify.com/album/6IvbfG3vczBLqQITICdpKR) | 2:08 | 2024-10-04 |  |
 | [Duende](https://open.spotify.com/track/5aPnEh3RxVzijJpWi5mFQY) | [Olav Basoski](https://open.spotify.com/artist/6FyRbuLLpPFzeI63apcfLi) | [Duende](https://open.spotify.com/album/5urW7MbPibdc5VCrIvglK7) | 3:00 | 2020-05-22\* | 2022-04-20 |
@@ -1079,7 +1080,7 @@
 | [This Is The Sound](https://open.spotify.com/track/7L6ZDYK13nVfc6j3QlKNJj) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [This Is The Sound](https://open.spotify.com/album/5UrapwkD5cCjELtr6hcr3u) | 3:12 | 2023-01-06 | 2023-07-31 |
 | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/track/6IJXIYexhKZHKbYYPleAUT) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/album/6byZV4u6nwuuGLFY3TaMzh) | 3:09 | 2024-11-22 | 2025-03-13 |
 | [Thong Song](https://open.spotify.com/track/09JBbmL7Pmm1Zsus7BXHBG) | [Buzz Low](https://open.spotify.com/artist/0tytC9SBvhGJFUA0MPHucY) | [Thong Song](https://open.spotify.com/album/1ZabiqZwNMlcyO7q2kVFLs) | 2:51 | 2020-05-22\* | 2021-12-21 |
-| [Throw Some Ass](https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Throw Some Ass](https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG) | 3:02 | 2024-05-03 |  |
+| [Throw Some Ass](https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Throw Some Ass](https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG) | 3:02 | 2024-05-03 | 2025-03-20 |
 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 | 2021-08-14 |  |
 | [Thunder In My Heart Again](https://open.spotify.com/track/7iBHE8RK2DmkVpwUfnCqYB) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Meck](https://open.spotify.com/artist/6CisEcpNg7X1sXXhLoMIp4), [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Thunder In My Heart Again](https://open.spotify.com/album/23zNUuGV7aJRLnTJz19plD) | 2:37 | 2021-10-16 | 2022-07-10 |
 | [Time \(feat\. Rhye\)](https://open.spotify.com/track/0XQypgwTXf0LS7ZGx13XTA) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Time \(feat\. Rhye\)](https://open.spotify.com/album/6RHC0jz8QjvDWEEggbhwrq) | 4:19 | 2020-12-27 | 2021-10-13 |

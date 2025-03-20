@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > your favourite playlist's favourite playlist &lt;3\. shop this summer's pop collection <a href="https://www.umusic.ca/pages/POP">here</a>\. Cover: Chappell Roan
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 80,040 likes - 100 songs - 5 hr 26 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 80,031 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

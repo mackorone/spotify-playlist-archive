@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: FAB GODAMN, Franco, the Sir!, WillsBife
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,208 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,188 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 13 | [Horas](https://open.spotify.com/track/41lkY2TUiV2HCcR5qhdOjQ) | [Ojizzy](https://open.spotify.com/artist/1Jqziieqyx94PNBfIJlj6R) | [0101](https://open.spotify.com/album/4PpduH7SNnjknVPuxncxXI) | 2:07 |
 | 14 | [Pra Te Provocar](https://open.spotify.com/track/4eW4inkYhkCSWuxiGd0TVf) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Pra Te Provocar](https://open.spotify.com/album/6NrFzdLNWfPahmqRak1sEr) | 2:53 |
 | 15 | [Senta Pros Do Momento](https://open.spotify.com/track/64O5X0s5QYtLQcUrXeo0L7) | [Recayd Mob](https://open.spotify.com/artist/1QBWA6tuiZ0JuDluPqbe71), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Jé](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI) | [Senta Pros Do Momento](https://open.spotify.com/album/7wp7dajAjWOj4onmViycAs) | 3:10 |
-| 16 | [WOW](https://open.spotify.com/track/1K3qIJ1rmPki4bPqlIkoeW) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw), [Kenji](https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO), [VVallace](https://open.spotify.com/artist/0k5ECtHXTSNGEdbJL7MMC8) | [WOW](https://open.spotify.com/album/4bgeRfkzj8fRutAMsfISZ0) | 3:02 |
+| 16 | [WOW](https://open.spotify.com/track/1K3qIJ1rmPki4bPqlIkoeW) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw), [Kenji](https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO), [vvallace](https://open.spotify.com/artist/6rxl5k2VobxbepP3fNRVuO) | [WOW](https://open.spotify.com/album/4bgeRfkzj8fRutAMsfISZ0) | 3:02 |
 | 17 | [Agora É Onda](https://open.spotify.com/track/2K3AOPsp47vqnWjic3YJEt) | [Gabri](https://open.spotify.com/artist/3i468cz7CVoisTnRQV6TDB), [Dudda D'Cria](https://open.spotify.com/artist/17ggYU9oz8jfMZMVWHoJ4z), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw) | [Agora É Onda](https://open.spotify.com/album/4djDGYyVLO7yepJ0rE65LQ) | 2:33 |
 | 18 | [Tomara Que Caia](https://open.spotify.com/track/6OtsS0r3dPbZYr7wL7j9cI) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [Por Você...](https://open.spotify.com/album/4OUZfWsgUkkdnz7EgmQhsK) | 2:05 |
 | 19 | [Vencendo o Jogo](https://open.spotify.com/track/58zjQNjohxYltC9RhDigAc) | [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2) | [Vencendo o Jogo](https://open.spotify.com/album/3ZQJQSWGc3GGYWTQiu2dzz) | 2:45 |

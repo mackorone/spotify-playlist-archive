@@ -2,23 +2,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> De nieuwste Nederlandse pop! Cover: Roxy & Koen
+> De nieuwste Nederlandse pop! Cover: Roxy Dekker & Koen
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,285 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,284 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [1 Nacht](https://open.spotify.com/track/2dUJ0xW4XC89CC6gD7mjwi) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Koen](https://open.spotify.com/artist/6vwz7HydONQujdnKzrsSUf) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:13 |
-| 2 | [Niets Meer](https://open.spotify.com/track/24dVAws8icjFeBnWfRJMuj) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Leven In De Leegte](https://open.spotify.com/album/7aV7m6fQ6DW1Vka6TpVwWe) | 3:31 |
-| 3 | [Liefste](https://open.spotify.com/track/03rS8yQDtIHaDuUewAbEe7) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Liefste](https://open.spotify.com/album/5TueQLTCYfnzmD9XtCbkse) | 2:35 |
-| 4 | [Joanne](https://open.spotify.com/track/7ifCK8uZPulJtVRk9wQUjj) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Joanne](https://open.spotify.com/album/2Y0fsb4qtnSII8s9Y9RPZr) | 3:27 |
-| 5 | [Jouw Idee](https://open.spotify.com/track/6u9MrPWzCXj0pQjuglCyqy) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 3:20 |
-| 6 | [Stoplicht](https://open.spotify.com/track/0a32yTqzSdyKGqtNktoOkp) | [Matheu](https://open.spotify.com/artist/5GKUHOGaoXmhdsDzuyFnAM) | [Stoplicht](https://open.spotify.com/album/0hF991hapjy8Z6qY87qqrX) | 2:17 |
-| 7 | [Fantasie](https://open.spotify.com/track/1yquZQsceyrmM4N0FgcMk2) | [Pauline](https://open.spotify.com/artist/4p13MevTYMG2CbQ9SGH5li), [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Fantasie](https://open.spotify.com/album/1L06xOOJxrxNomB9q3m52C) | 2:37 |
-| 8 | [Kom Je Me Halen](https://open.spotify.com/track/66t9LXJ9dSziqLlnAukBn3) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ), [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Kom Je Me Halen](https://open.spotify.com/album/5KoWzJLpcVMGdasgczfUtS) | 3:11 |
-| 9 | [Iedereen Verandert](https://open.spotify.com/track/7b7Ujxj4feKmvG8Qz7aLao) | [Lola Cedès](https://open.spotify.com/artist/2v9aoqXvaM4EYpccxBYeJ0) | [Iedereen Verandert](https://open.spotify.com/album/2REOlYJEBvz1D4qTbUTTQc) | 2:51 |
-| 10 | [100%](https://open.spotify.com/track/1lzzSzBejW6m8UN2PdRsDv) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [100%](https://open.spotify.com/album/77lwOPIULad3xw9beebzJj) | 2:31 |
-| 11 | [Half Open](https://open.spotify.com/track/6eta0oe0t2clgw0CujrVI7) | [Jasmijn Torrico](https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ) | [Half Open](https://open.spotify.com/album/2jpBFxyKm365TUV0z3XAEc) | 2:29 |
+| 2 | [Liefste](https://open.spotify.com/track/03rS8yQDtIHaDuUewAbEe7) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Liefste](https://open.spotify.com/album/5TueQLTCYfnzmD9XtCbkse) | 2:35 |
+| 3 | [Fantasie](https://open.spotify.com/track/1yquZQsceyrmM4N0FgcMk2) | [Pauline](https://open.spotify.com/artist/4p13MevTYMG2CbQ9SGH5li), [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Fantasie](https://open.spotify.com/album/1L06xOOJxrxNomB9q3m52C) | 2:37 |
+| 4 | [Half Open](https://open.spotify.com/track/6eta0oe0t2clgw0CujrVI7) | [Jasmijn Torrico](https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ) | [Half Open](https://open.spotify.com/album/2jpBFxyKm365TUV0z3XAEc) | 2:29 |
+| 5 | [Niets Meer](https://open.spotify.com/track/24dVAws8icjFeBnWfRJMuj) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Leven In De Leegte](https://open.spotify.com/album/7aV7m6fQ6DW1Vka6TpVwWe) | 3:31 |
+| 6 | [Jouw Idee](https://open.spotify.com/track/6u9MrPWzCXj0pQjuglCyqy) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 3:20 |
+| 7 | [Stoplicht](https://open.spotify.com/track/0a32yTqzSdyKGqtNktoOkp) | [Matheu](https://open.spotify.com/artist/5GKUHOGaoXmhdsDzuyFnAM) | [Stoplicht](https://open.spotify.com/album/0hF991hapjy8Z6qY87qqrX) | 2:17 |
+| 8 | [100%](https://open.spotify.com/track/1lzzSzBejW6m8UN2PdRsDv) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [100%](https://open.spotify.com/album/77lwOPIULad3xw9beebzJj) | 2:31 |
+| 9 | [Kom Je Me Halen](https://open.spotify.com/track/66t9LXJ9dSziqLlnAukBn3) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ), [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Kom Je Me Halen](https://open.spotify.com/album/5KoWzJLpcVMGdasgczfUtS) | 3:11 |
+| 10 | [Iedereen Verandert](https://open.spotify.com/track/7b7Ujxj4feKmvG8Qz7aLao) | [Lola Cedès](https://open.spotify.com/artist/2v9aoqXvaM4EYpccxBYeJ0) | [Iedereen Verandert](https://open.spotify.com/album/2REOlYJEBvz1D4qTbUTTQc) | 2:51 |
+| 11 | [Joanne](https://open.spotify.com/track/7ifCK8uZPulJtVRk9wQUjj) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Joanne](https://open.spotify.com/album/2Y0fsb4qtnSII8s9Y9RPZr) | 3:27 |
 | 12 | [Bang Dat Ik Je Stem Vergeet](https://open.spotify.com/track/1LmGCG8AOvCsVvjOPbiY54) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:54 |
 | 13 | [Hotel](https://open.spotify.com/track/3pN1lUACckD0PTkFzpxEpu) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Matthy](https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF) | [Hotel](https://open.spotify.com/album/1itgz2wQPxbMnMhdsdWVnj) | 2:49 |
 | 14 | [Gevarenzone](https://open.spotify.com/track/1hIu3c6cuhQ36H7iRqllCT) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Gevarenzone](https://open.spotify.com/album/5ibi7YmLHo5BdVa8vwCJuX) | 3:36 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 69 | [Iedereen is van de wereld \(Titelsong Van De Film 'Iedereen is van de wereld'\)](https://open.spotify.com/track/3oom0huw1DOVJp9PvhbPEv) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Matheu](https://open.spotify.com/artist/5GKUHOGaoXmhdsDzuyFnAM) | [Iedereen is van de wereld \(Titelsong Van De Film 'Iedereen is van de wereld'\)](https://open.spotify.com/album/5M6BCWP2bNLQd35bksJ1NC) | 2:45 |
 | 70 | [Ik Weet Dat Je Het Kan](https://open.spotify.com/track/4taZd9Aws3hYKSwPXGhLMk) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Ik Weet Dat Je Het Kan](https://open.spotify.com/album/74fiqRSSjFBJDBAojdNArU) | 3:57 |
 
-Snapshot ID: `Z9gi7wAAAADRXJ1vlRXea/sRxwE9VH30`
+Snapshot ID: `Z9qFUAAAAAC1DFEFu3fZTRJ7XpsbTzlO`

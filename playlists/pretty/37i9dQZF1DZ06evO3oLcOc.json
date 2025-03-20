@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 225834,
+  "num_followers": 225838,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9dmAAAAAAB9JRRExx2qPXKKJjYl2WIp",
+  "snapshot_id": "Z9i3gAAAAABaf7pQoiqF6gPiM4LDKQ4b",
   "tracks": [
     {
       "added_at": null,
@@ -339,6 +339,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "From Day 1",
+        "url": "https://open.spotify.com/album/7co2UrRxl2TBgj3BCXIvnC"
+      },
+      "artists": [
+        {
+          "name": "Travis Porter",
+          "url": "https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Ayy Ladies (feat. Tyga)",
+      "url": "https://open.spotify.com/track/4P6BuLsqtg5uISdE77ypI9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NSFW",
         "url": "https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 134579,
       "name": "Dumb",
       "url": "https://open.spotify.com/track/7byAZG2J1zIQSQxm5Ewxyl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From Day 1",
-        "url": "https://open.spotify.com/album/7co2UrRxl2TBgj3BCXIvnC"
-      },
-      "artists": [
-        {
-          "name": "Travis Porter",
-          "url": "https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "Ayy Ladies (feat. Tyga)",
-      "url": "https://open.spotify.com/track/4P6BuLsqtg5uISdE77ypI9"
     },
     {
       "added_at": null,
@@ -483,6 +483,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fan of A Fan The Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Girl You Loud",
+      "url": "https://open.spotify.com/track/6dRVOzSxLqRdqUjc9mctGg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NSFW",
         "url": "https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw"
       },
@@ -543,22 +563,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fan of A Fan The Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
+        "name": "Fantastic",
+        "url": "https://open.spotify.com/album/1N5NSxPMp1hpqwM5v5KIkz"
       },
       "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
         {
           "name": "Tyga",
           "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 213400,
-      "name": "Girl You Loud",
-      "url": "https://open.spotify.com/track/6dRVOzSxLqRdqUjc9mctGg"
+      "duration_ms": 172361,
+      "name": "Fantastic",
+      "url": "https://open.spotify.com/track/7fdTVjOFYWyfUXXTpIL917"
     },
     {
       "added_at": null,
@@ -575,22 +591,6 @@
       "duration_ms": 128750,
       "name": "It Ain't Safe",
       "url": "https://open.spotify.com/track/10FUBoAjYTJzGcphHbvPkF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fantastic",
-        "url": "https://open.spotify.com/album/1N5NSxPMp1hpqwM5v5KIkz"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 172361,
-      "name": "Fantastic",
-      "url": "https://open.spotify.com/track/7fdTVjOFYWyfUXXTpIL917"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NSFW",
-        "url": "https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 196254,
-      "name": "Found Someone",
-      "url": "https://open.spotify.com/track/2iYy47ISUsgUKwjqEIvss7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoodie SZN",
         "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 192779,
       "name": "Startender (feat. Offset and Tyga)",
       "url": "https://open.spotify.com/track/0jAfdqv18goRTUxm3ilRjb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NSFW",
+        "url": "https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 196254,
+      "name": "Found Someone",
+      "url": "https://open.spotify.com/track/2iYy47ISUsgUKwjqEIvss7"
     },
     {
       "added_at": null,
@@ -911,42 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slave",
-        "url": "https://open.spotify.com/album/4Amt9V6mNrtNv6DnEiuWTf"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 138450,
-      "name": "Slave",
-      "url": "https://open.spotify.com/track/00EaMoyrJXANohlIJkSrqb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NSFW",
-        "url": "https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Mike Sherm",
-          "url": "https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "GFU",
-      "url": "https://open.spotify.com/track/3I3JCtkBC9iEDUQKdZFDeF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Furious 7: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/7hTMaPfK488vRcC1Ar4bOm"
       },
@@ -979,6 +943,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "NSFW",
+        "url": "https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Mike Sherm",
+          "url": "https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "GFU",
+      "url": "https://open.spotify.com/track/3I3JCtkBC9iEDUQKdZFDeF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
       },
@@ -999,22 +983,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legendary (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1dDfjR6KqXwa6I8XmPXnxr"
+        "name": "Slave",
+        "url": "https://open.spotify.com/album/4Amt9V6mNrtNv6DnEiuWTf"
       },
       "artists": [
         {
           "name": "Tyga",
           "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 195991,
-      "name": "Dip (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/73xXDeBMlC5cdvWoOLWVLo"
+      "duration_ms": 138450,
+      "name": "Slave",
+      "url": "https://open.spotify.com/track/00EaMoyrJXANohlIJkSrqb"
     },
     {
       "added_at": null,
@@ -1039,6 +1019,26 @@
       "duration_ms": 286373,
       "name": "Lights Out (feat. Fat Trel)",
       "url": "https://open.spotify.com/track/77ZhzP75wx1qzhFG4P7vyt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legendary (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1dDfjR6KqXwa6I8XmPXnxr"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 195991,
+      "name": "Dip (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/73xXDeBMlC5cdvWoOLWVLo"
     },
     {
       "added_at": null,

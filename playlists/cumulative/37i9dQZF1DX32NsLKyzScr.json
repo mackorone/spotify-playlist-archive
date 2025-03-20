@@ -13021,6 +13021,28 @@
     },
     {
       "album": {
+        "name": "Lose It",
+        "url": "https://open.spotify.com/album/5TUt3vnfxzh9v2s2VBMk4O"
+      },
+      "artists": [
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        },
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218999,
+      "name": "Lose It",
+      "url": "https://open.spotify.com/track/49A2aHajwGDX9LeqFjSiMY"
+    },
+    {
+      "album": {
         "name": "Lose This Feeling",
         "url": "https://open.spotify.com/album/57dNlGJ7Kx7pKqBno6Ysr4"
       },
@@ -23652,7 +23674,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-20",
       "duration_ms": 199720,
       "name": "Thick Of It All",
       "url": "https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w"

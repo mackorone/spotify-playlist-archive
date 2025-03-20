@@ -1,6 +1,6 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 8356,
+  "num_followers": 8372,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 240441,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "Demasiado Tarde",
         "url": "https://open.spotify.com/album/6ZWbDDl3KHIruXOq6rZxGa"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 271548,
       "name": "Demasiado Tarde",
       "url": "https://open.spotify.com/track/5KFx45L84KmBINWLh6TEiL"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 240441,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "Digame Usted",
+        "url": "https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "duration_ms": 141688,
+      "name": "Digame Usted",
+      "url": "https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "MORDIENDO EL BOZAL",
         "url": "https://open.spotify.com/album/7KRqDXbyy0b6EVhpydNQ5w"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 197107,
       "name": "LA PRIMERA VEZ",
       "url": "https://open.spotify.com/track/4ycnpTN1gmqOfxkLfBNbWB"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "Digame Usted",
-        "url": "https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF"
-      },
-      "artists": [
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        }
-      ],
-      "duration_ms": 141688,
-      "name": "Digame Usted",
-      "url": "https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Me Gusta",
-        "url": "https://open.spotify.com/album/5XfNxDJo2vXgTk1kK9jl42"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        }
-      ],
-      "duration_ms": 158267,
-      "name": "Me Gusta",
-      "url": "https://open.spotify.com/track/3NXh44Beby7IYMYyOgdLPm"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "Una Semana",
         "url": "https://open.spotify.com/album/6btnX8ER1IHMIUqmmQfFVY"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 183703,
       "name": "Una Semana",
       "url": "https://open.spotify.com/track/7oERzx2IvTweeSXU7S8wdO"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Me Gusta",
+        "url": "https://open.spotify.com/album/5XfNxDJo2vXgTk1kK9jl42"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "duration_ms": 158267,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/3NXh44Beby7IYMYyOgdLPm"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Canela",
-        "url": "https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 204629,
-      "name": "Canela",
-      "url": "https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "JetLag",
         "url": "https://open.spotify.com/album/1mRE5D3tfO0IcMimnUOxbu"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 269720,
       "name": "JetLag",
       "url": "https://open.spotify.com/track/3Gily4qMvAOytQ07gpHDVD"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Canela",
+        "url": "https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 204629,
+      "name": "Canela",
+      "url": "https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "La Playita",
+        "url": "https://open.spotify.com/album/4HiePCPHt08pm1c1qOUqiN"
+      },
+      "artists": [
+        {
+          "name": "Lo Blanquito",
+          "url": "https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "La Playita",
+      "url": "https://open.spotify.com/track/21nc7VSDCHaYFqi8XlMEJL"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "A fuego (Bizarrap Remix)",
         "url": "https://open.spotify.com/album/3s7yFDaJ8eEFQyHvhvD0ap"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 239078,
       "name": "A fuego - Bizarrap Remix",
       "url": "https://open.spotify.com/track/3AKwyujeGxTQSZNbx9Ka3c"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "La Playita",
-        "url": "https://open.spotify.com/album/4HiePCPHt08pm1c1qOUqiN"
-      },
-      "artists": [
-        {
-          "name": "Lo Blanquito",
-          "url": "https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "La Playita",
-      "url": "https://open.spotify.com/track/21nc7VSDCHaYFqi8XlMEJL"
     },
     {
       "added_at": "2024-07-26 04:59:00",
