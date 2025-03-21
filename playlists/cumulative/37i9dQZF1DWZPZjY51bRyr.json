@@ -1229,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "Crystalline Peace",
+        "url": "https://open.spotify.com/album/3NLWFavp9RVa11iLjh1g42"
+      },
+      "artists": [
+        {
+          "name": "Paleo Man",
+          "url": "https://open.spotify.com/artist/6BJF1vVIcNf0aHOb6pAodc"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Crystalline Peace",
+      "url": "https://open.spotify.com/track/1sMjBsTXhij9CkY8lrVEPL"
+    },
+    {
+      "album": {
         "name": "Dawn Of Day",
         "url": "https://open.spotify.com/album/4oHYUmGNklzslLCviMZexe"
       },
@@ -2572,7 +2590,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 136820,
       "name": "Lush",
       "url": "https://open.spotify.com/track/5SDlIDE7MvKEEfUwPvXrvN"

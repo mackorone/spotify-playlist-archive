@@ -1,6 +1,6 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Laura Misch",
-  "num_followers": 73473,
+  "num_followers": 73493,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-02-28 04:00:34",
       "album": {
+        "name": "Blue Hills",
+        "url": "https://open.spotify.com/album/7nNCCgvJdDuE4DgnS68cQ8"
+      },
+      "artists": [
+        {
+          "name": "Jonnine",
+          "url": "https://open.spotify.com/artist/6s8JAb4h3UjN5r3BgRhUhQ"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "The Tides Do That with Me",
+      "url": "https://open.spotify.com/track/54IVj29KBSyfbDd5jCJ4b9"
+    },
+    {
+      "added_at": "2025-02-28 04:00:34",
+      "album": {
         "name": "Tree of Life G Minor",
         "url": "https://open.spotify.com/album/1zaBRRNsmiI4Tf7wVh1ojK"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 184957,
       "name": "Tree of Life G Minor",
       "url": "https://open.spotify.com/track/5SlcSnTcZMthoi6wu6wrRP"
-    },
-    {
-      "added_at": "2025-02-28 04:00:34",
-      "album": {
-        "name": "Blue Hills",
-        "url": "https://open.spotify.com/album/7nNCCgvJdDuE4DgnS68cQ8"
-      },
-      "artists": [
-        {
-          "name": "Jonnine",
-          "url": "https://open.spotify.com/artist/6s8JAb4h3UjN5r3BgRhUhQ"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "The Tides Do That with Me",
-      "url": "https://open.spotify.com/track/54IVj29KBSyfbDd5jCJ4b9"
     },
     {
       "added_at": "2025-02-28 04:00:34",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2025-02-28 04:00:34",
       "album": {
-        "name": "Guiding Light",
-        "url": "https://open.spotify.com/album/4ms9LW96TetcO30gHy6DvE"
-      },
-      "artists": [
-        {
-          "name": "Alicia Enstrom",
-          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
-        },
-        {
-          "name": "Chris Lippincott",
-          "url": "https://open.spotify.com/artist/3r5vtXmOYoBH3cpMng374W"
-        }
-      ],
-      "duration_ms": 194706,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/631Ev6DXhwQ0vPR7i1hFOR"
-    },
-    {
-      "added_at": "2025-02-28 04:00:34",
-      "album": {
         "name": "Shimmer in the Sky (Yoko Komatsu Rework)",
         "url": "https://open.spotify.com/album/7JvpFn4ryPxuNo8HSgKHqw"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 156000,
       "name": "Shimmer in the Sky - Yoko Komatsu Rework",
       "url": "https://open.spotify.com/track/7svmNfhslMWoTwwR7VGgPY"
+    },
+    {
+      "added_at": "2025-02-28 04:00:34",
+      "album": {
+        "name": "Guiding Light",
+        "url": "https://open.spotify.com/album/4ms9LW96TetcO30gHy6DvE"
+      },
+      "artists": [
+        {
+          "name": "Alicia Enstrom",
+          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
+        },
+        {
+          "name": "Chris Lippincott",
+          "url": "https://open.spotify.com/artist/3r5vtXmOYoBH3cpMng374W"
+        }
+      ],
+      "duration_ms": 194706,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/631Ev6DXhwQ0vPR7i1hFOR"
     },
     {
       "added_at": "2025-02-28 04:00:34",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2025-02-28 04:00:34",
       "album": {
-        "name": "Respite",
-        "url": "https://open.spotify.com/album/7CA6OZj6CCbQGlDYFyKObI"
-      },
-      "artists": [
-        {
-          "name": "Anita Tatlow",
-          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
-        },
-        {
-          "name": "Be Still the Earth",
-          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
-        }
-      ],
-      "duration_ms": 227631,
-      "name": "Respite",
-      "url": "https://open.spotify.com/track/5IqUyrmnlu5PkHlnn0Nsmf"
-    },
-    {
-      "added_at": "2025-02-28 04:00:34",
-      "album": {
         "name": "You Make It Look so Easy (Reverbed by Malibu)",
         "url": "https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl"
       },
@@ -1319,18 +1299,22 @@
     {
       "added_at": "2025-02-28 04:00:34",
       "album": {
-        "name": "Bardo Landscape (Reimagined)",
-        "url": "https://open.spotify.com/album/1OUWaoaOPmcnCYvKtHiZZP"
+        "name": "Respite",
+        "url": "https://open.spotify.com/album/7CA6OZj6CCbQGlDYFyKObI"
       },
       "artists": [
         {
-          "name": "Alicia Enstrom",
-          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
+          "name": "Anita Tatlow",
+          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
+        },
+        {
+          "name": "Be Still the Earth",
+          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
         }
       ],
-      "duration_ms": 196698,
-      "name": "Bardo Landscape (Reimagined)",
-      "url": "https://open.spotify.com/track/1PPz4tG5gGaw6bQAGQowIP"
+      "duration_ms": 227631,
+      "name": "Respite",
+      "url": "https://open.spotify.com/track/5IqUyrmnlu5PkHlnn0Nsmf"
     },
     {
       "added_at": "2025-02-28 04:00:34",
@@ -1347,6 +1331,22 @@
       "duration_ms": 360000,
       "name": "An Open Door",
       "url": "https://open.spotify.com/track/3SMUq0TSlF7Q8Ti7ClAgCi"
+    },
+    {
+      "added_at": "2025-02-28 04:00:34",
+      "album": {
+        "name": "Bardo Landscape (Reimagined)",
+        "url": "https://open.spotify.com/album/1OUWaoaOPmcnCYvKtHiZZP"
+      },
+      "artists": [
+        {
+          "name": "Alicia Enstrom",
+          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
+        }
+      ],
+      "duration_ms": 196698,
+      "name": "Bardo Landscape (Reimagined)",
+      "url": "https://open.spotify.com/track/1PPz4tG5gGaw6bQAGQowIP"
     },
     {
       "added_at": "2025-02-28 04:00:34",
@@ -1399,34 +1399,6 @@
     {
       "added_at": "2025-02-28 04:00:34",
       "album": {
-        "name": "Kasper Bj\u00f8rke Quartet: Abiogenesis",
-        "url": "https://open.spotify.com/album/3QcNobksry2yytTgmxFq36"
-      },
-      "artists": [
-        {
-          "name": "Kasper Bj\u00f8rke",
-          "url": "https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp"
-        },
-        {
-          "name": "Langstrakt",
-          "url": "https://open.spotify.com/artist/5bxnRnhjdhinmUwndSYYW9"
-        },
-        {
-          "name": "Davide Rossi",
-          "url": "https://open.spotify.com/artist/3n5USfahZSYCaiIYW58Mmy"
-        },
-        {
-          "name": "Philip I Schneider",
-          "url": "https://open.spotify.com/artist/6jNPFpAGou2NfLUIUo7X8P"
-        }
-      ],
-      "duration_ms": 744162,
-      "name": "Abiogenesis",
-      "url": "https://open.spotify.com/track/24tiKS70CpATr6tJLk0c9Q"
-    },
-    {
-      "added_at": "2025-02-28 04:00:34",
-      "album": {
         "name": "Pray for Us",
         "url": "https://open.spotify.com/album/5FCfLrWXgzKOvI1zOx9tJo"
       },
@@ -1459,6 +1431,34 @@
       "duration_ms": 334038,
       "name": "in altar wine",
       "url": "https://open.spotify.com/track/3zbFIG5csRyb28Bn1FTTEP"
+    },
+    {
+      "added_at": "2025-02-28 04:00:34",
+      "album": {
+        "name": "Kasper Bj\u00f8rke Quartet: Abiogenesis",
+        "url": "https://open.spotify.com/album/3QcNobksry2yytTgmxFq36"
+      },
+      "artists": [
+        {
+          "name": "Kasper Bj\u00f8rke",
+          "url": "https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp"
+        },
+        {
+          "name": "Langstrakt",
+          "url": "https://open.spotify.com/artist/5bxnRnhjdhinmUwndSYYW9"
+        },
+        {
+          "name": "Davide Rossi",
+          "url": "https://open.spotify.com/artist/3n5USfahZSYCaiIYW58Mmy"
+        },
+        {
+          "name": "Philip I Schneider",
+          "url": "https://open.spotify.com/artist/6jNPFpAGou2NfLUIUo7X8P"
+        }
+      ],
+      "duration_ms": 744162,
+      "name": "Abiogenesis",
+      "url": "https://open.spotify.com/track/24tiKS70CpATr6tJLk0c9Q"
     },
     {
       "added_at": "2025-02-28 04:00:34",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-02-28 04:00:34",
       "album": {
-        "name": "Penelope Three",
-        "url": "https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi"
-      },
-      "artists": [
-        {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
-        }
-      ],
-      "duration_ms": 184973,
-      "name": "Fur & Feather",
-      "url": "https://open.spotify.com/track/71PeXWhYcEGEDOgJCgoZMO"
-    },
-    {
-      "added_at": "2025-02-28 04:00:34",
-      "album": {
         "name": "There Up, Behind The Moon",
         "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 219196,
       "name": "18:00",
       "url": "https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X"
+    },
+    {
+      "added_at": "2025-02-28 04:00:34",
+      "album": {
+        "name": "Penelope Three",
+        "url": "https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi"
+      },
+      "artists": [
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+        }
+      ],
+      "duration_ms": 184973,
+      "name": "Fur & Feather",
+      "url": "https://open.spotify.com/track/71PeXWhYcEGEDOgJCgoZMO"
     },
     {
       "added_at": "2025-02-28 04:00:34",
@@ -1819,34 +1819,18 @@
     {
       "added_at": "2025-02-28 04:00:34",
       "album": {
-        "name": "Fantas Variations",
-        "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
+        "name": "Grand Views",
+        "url": "https://open.spotify.com/album/4oO7UiaBkjDeXtzOVnkYW1"
       },
       "artists": [
         {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
-        },
-        {
-          "name": "Evelyn Saylor",
-          "url": "https://open.spotify.com/artist/41T8k3OwxjwiIG8WfpU3Kr"
-        },
-        {
-          "name": "Lyra Pramuk",
-          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
-        },
-        {
-          "name": "Annie Garlid",
-          "url": "https://open.spotify.com/artist/39ePqE7lVGgRzWHoQNRz0V"
-        },
-        {
-          "name": "Stine Janvin",
-          "url": "https://open.spotify.com/artist/6klRil30SiILsNixh4xy4Q"
+          "name": "Hanna Lindgren",
+          "url": "https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2"
         }
       ],
-      "duration_ms": 460892,
-      "name": "Fantas Variation for Voices",
-      "url": "https://open.spotify.com/track/67bJXVcOsU3JPjmSngBkfV"
+      "duration_ms": 306908,
+      "name": "Epic Mirage",
+      "url": "https://open.spotify.com/track/54M2YOXv7W5EDKTqbxRk4D"
     }
   ],
   "unique_name": "ethereal voices",

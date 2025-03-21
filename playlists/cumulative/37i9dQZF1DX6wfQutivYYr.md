@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Achille Lauro sulla cover della playlist più grande in Italia! 🏆
+> C'è una street song sulla cover della playlist più grande in Italia! 🏆
 
 180 songs - 9 hr 22 min
 

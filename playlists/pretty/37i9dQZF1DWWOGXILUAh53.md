@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: David Guetta & Sia
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,079 likes - 65 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,355 likes - 65 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 18 | [Salvation](https://open.spotify.com/track/38bCx6AbjjduaSVlgIwKZP) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [SALVATION](https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7) | 3:20 |
 | 19 | [Falling Up](https://open.spotify.com/track/0yTjMXmYRi3YQNVO4h7Mef) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Falling Up](https://open.spotify.com/album/6h1MD0mbleCoPXg0FYAEzw) | 2:45 |
 | 20 | [Zero Pressure](https://open.spotify.com/track/4xWZwHrIn5uS3Nft08Rk5O) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [BINIverse](https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5) | 2:50 |
-| 21 | [Radio \(feat\. Trippie Redd, Jessica Baio & KABU\)](https://open.spotify.com/track/5H38vBUsQxZcigRGIDeyv5) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95), [KABU](https://open.spotify.com/artist/5PhcQriyzq4mSbzA1nPhFA) | [Radio \(feat\. Trippie Redd, Jessica Baio & KABU\)](https://open.spotify.com/album/7lG78BindCd8ADTzT3sADg) | 2:29 |
+| 21 | [Radio \(feat\. Trippie Redd, Jessica Baio & KABU\)](https://open.spotify.com/track/5H38vBUsQxZcigRGIDeyv5) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95), [KABU](https://open.spotify.com/artist/5QvkIWJdNyVeqs1FgVOEg7) | [Radio \(feat\. Trippie Redd, Jessica Baio & KABU\)](https://open.spotify.com/album/7lG78BindCd8ADTzT3sADg) | 2:29 |
 | 22 | [The Sanctuary \(Love Like That\)](https://open.spotify.com/track/09OwpIo333yhzeRqp6AyoQ) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [HQA](https://open.spotify.com/artist/3odmSlXHTSCIZsSmB6XnCw) | [We Lost Ourselves and Found A Family](https://open.spotify.com/album/6yViLlBfDfb5mRrRaYqUtq) | 3:10 |
 | 23 | [On and On and On](https://open.spotify.com/track/7aLXAoR6RB5qQmBRvKE2kO) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [On and On and On](https://open.spotify.com/album/5WVwKAUf52Lo1QxZLOYTFj) | 2:59 |
 | 24 | [Lifeline](https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Lifeline](https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ) | 3:19 |

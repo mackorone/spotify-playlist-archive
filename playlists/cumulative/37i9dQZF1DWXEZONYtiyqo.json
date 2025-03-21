@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Feli, Grasu XXL",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: The Urs",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -354,7 +354,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 158048,
       "name": "Arde cerul",
       "url": "https://open.spotify.com/track/6lmB4XvuVcyJ7lTsrqOZSB"
@@ -852,7 +852,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 173793,
       "name": "Cum te vad eu",
       "url": "https://open.spotify.com/track/2jgL2rbGexeWnNvesowApc"
@@ -1593,6 +1593,28 @@
     },
     {
       "album": {
+        "name": "Hater",
+        "url": "https://open.spotify.com/album/4zy9TEiWZIqI2bJn4DL8Lt"
+      },
+      "artists": [
+        {
+          "name": "ADDA",
+          "url": "https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy"
+        },
+        {
+          "name": "Cabron",
+          "url": "https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142978,
+      "name": "Hater",
+      "url": "https://open.spotify.com/track/2QKhzYvb3bDYQKSCNjSf8t"
+    },
+    {
+      "album": {
         "name": "Hearts in Stereo (Versions)",
         "url": "https://open.spotify.com/album/2vdlQ1eSzJYe5jdfwEeapn"
       },
@@ -1986,6 +2008,24 @@
       "duration_ms": 169846,
       "name": "Locul t\u0103u",
       "url": "https://open.spotify.com/track/1S0ueboEfjDivQFB1uPveo"
+    },
+    {
+      "album": {
+        "name": "LOIALITATE",
+        "url": "https://open.spotify.com/album/3SgXAsStmkXfSMsr9Sn00B"
+      },
+      "artists": [
+        {
+          "name": "Cezar Guna",
+          "url": "https://open.spotify.com/artist/4vMwiNf15n0KVymasufiqa"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "LOIALITATE",
+      "url": "https://open.spotify.com/track/5yiok0QSYdoP4L2Nn6ny1T"
     },
     {
       "album": {
@@ -2964,7 +3004,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 187921,
       "name": "Ploi letale",
       "url": "https://open.spotify.com/track/6kM7Qssc0pa3Hg3SI62r4i"
@@ -3450,6 +3490,28 @@
       "duration_ms": 203195,
       "name": "Te strig",
       "url": "https://open.spotify.com/track/5JmvuBgj4ODK4pLH7NQVlb"
+    },
+    {
+      "album": {
+        "name": "Tic Tac",
+        "url": "https://open.spotify.com/album/1MqLIr8USyADc54Z13xK1R"
+      },
+      "artists": [
+        {
+          "name": "Loredana",
+          "url": "https://open.spotify.com/artist/5aU8qm9nbrIaXO8ieyKlTa"
+        },
+        {
+          "name": "Cabron",
+          "url": "https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173478,
+      "name": "Tic Tac",
+      "url": "https://open.spotify.com/track/4sqDXPVMJXS3GBU2UB240S"
     },
     {
       "album": {

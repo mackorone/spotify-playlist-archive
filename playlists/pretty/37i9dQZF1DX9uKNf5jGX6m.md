@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,006,007 likes - 200 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,006,292 likes - 200 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 105 | [Calming Eternity](https://open.spotify.com/track/4HJdSjBogB3I06ObjTQ0MS) | [Celestial Aura](https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV) | [Calming Eternity](https://open.spotify.com/album/7o4w9cfr2M5GOidRJVO1UO) | 2:58 |
 | 106 | [Valley Below](https://open.spotify.com/track/1HLt6MKMbg9TCFwBMBqf7l) | [Sôfur](https://open.spotify.com/artist/4Ooe7DB6fuhAtdr6tXVJfT) | [Valley Below](https://open.spotify.com/album/01W9ohHQbktMJTcthXMuQL) | 3:22 |
 | 107 | [Nejma](https://open.spotify.com/track/2G60IUm1SMnoLHN6kgaZNo) | [A.Z\. Louna](https://open.spotify.com/artist/09wCM3Hlsk5DNw8Nnkihmk) | [Nejma](https://open.spotify.com/album/2DoF7f47YEB0u1X4S8nU5a) | 2:39 |
-| 108 | [Straight Ahead](https://open.spotify.com/track/15SPWU4M4H0yhK5Nto68Kb) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Frictionless](https://open.spotify.com/album/0MUMMXAt41woVXxQ5BssVh) | 2:56 |
+| 108 | [Straight Ahead](https://open.spotify.com/track/15SPWU4M4H0yhK5Nto68Kb) | [Garcíia](https://open.spotify.com/artist/2dvwSbPOAs6EdV3vUMrgtL) | [Frictionless](https://open.spotify.com/album/0MUMMXAt41woVXxQ5BssVh) | 2:56 |
 | 109 | [Everlasting](https://open.spotify.com/track/0qpZCuuBjyXa5tFgHp1uTb) | [Ephermal Nights](https://open.spotify.com/artist/4MAkMNGGrVdSVVhNKLZGeV) | [Everlasting](https://open.spotify.com/album/7wy199GErD91BVSnEvZklN) | 3:13 |
 | 110 | [Cosmic Enlightenment](https://open.spotify.com/track/4FPF6KASKzwYP3XRjXm0jF) | [Stepan Korolev](https://open.spotify.com/artist/2OR4pbdpOvzVWYizSnqKQn) | [Cosmic Enlightenment](https://open.spotify.com/album/6bp95G2tASslcnTt3rs363) | 2:53 |
 | 111 | [Circulate](https://open.spotify.com/track/6KLiC9xdmpnmAnymiHjHyW) | [Loe Vida](https://open.spotify.com/artist/4VP55atE7tT1o1C8xSPStS) | [Circulate](https://open.spotify.com/album/6tdMCe7lkHVunZNiWhf3Ir) | 3:02 |

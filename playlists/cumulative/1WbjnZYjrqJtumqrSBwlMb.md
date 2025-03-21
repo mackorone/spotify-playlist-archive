@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,055 songs - 2 day 16 hr 45 min
+1,059 songs - 2 day 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Get Light](https://open.spotify.com/track/3iuBfAec9qN2UylQv9NcKR) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:52 | 2022-11-28 |  |
 | [Ghetto Reporter](https://open.spotify.com/track/0qHXyED9mnRk3DnXowUe6Y) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:36 | 2022-11-15 |  |
 | [Ghost Town](https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 4:31 | 2021-11-23 |  |
+| [Gin and Juice](https://open.spotify.com/track/39QBkWKnap8wRSW4WB9OK0) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Doggystyle](https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP) | 3:31 | 2025-03-20 |  |
 | [Girlie](https://open.spotify.com/track/76cqRw0ed5YdOFaQhrwkxE) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Belladonna of Sadness](https://open.spotify.com/album/7zo4kiBFeJ6fTRJLTKo7XU) | 3:22 | 2021-12-14 |  |
 | [Give Up](https://open.spotify.com/track/14g719b4V34B2m1zEpjOAj) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Don't Forget Who You Are \(Deluxe\)](https://open.spotify.com/album/6PIetyBEKsmM07PS0PIEr7) | 2:45 | 2022-10-20 |  |
 | [Give Up Baby Go](https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 4:17 | 2022-03-04 |  |
@@ -487,6 +488,7 @@
 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 | 2021-05-03 |  |
 | [KEYS TO MY LIFE](https://open.spotify.com/track/3aZSvXuZt8ymQeixzFQM9W) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 2:54 | 2024-02-10 | 2024-05-20 |
 | [KID AGAIN](https://open.spotify.com/track/0FcVZWtHJ0XoHhbT8fiyAg) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [KID AGAIN](https://open.spotify.com/album/3WOOLxbV3VQ1EqejiL6W5d) | 3:19 | 2024-09-29 |  |
+| [KID AGAIN](https://open.spotify.com/track/62prK5eKq1U6qIzGvIRMdG) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [WASH](https://open.spotify.com/album/1G1RHhRuKnknYqMuprAT6A) | 3:19 | 2025-03-21 |  |
 | [Kids See Ghosts](https://open.spotify.com/track/2I3dW2dCBZAJGj5X21E53k) | [KIDS SEE GHOSTS](https://open.spotify.com/artist/2hPgGN4uhvXAxiXQBIXOmE), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH) | [KIDS SEE GHOSTS](https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV) | 4:05 | 2021-10-22 |  |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2023-02-09 |  |
 | [Killing The Joke](https://open.spotify.com/track/4L8BYkW2TehiJC63McfNFL) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Coup De Grace](https://open.spotify.com/album/6aeQVwrZZu7wDpFMtTApyC) | 3:16 | 2021-01-24 |  |
@@ -517,6 +519,7 @@
 | [Liar](https://open.spotify.com/track/7EUhSxz4srS8pqh1cENbLB) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 4:21 | 2023-02-15 |  |
 | [Library Pictures](https://open.spotify.com/track/0qfGWpvJGlp17wdTm19ioK) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 2:22 | 2020-09-07 |  |
 | [Life Of The Party \(with André 3000\)](https://open.spotify.com/track/7n4YpQcocaRfXRlEl07klO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Life Of The Party](https://open.spotify.com/album/46BlnKQOwYucGwNHJmj2g3) | 6:31 | 2021-11-15 |  |
+| [Life's Too Short](https://open.spotify.com/track/4dcY1yNThcjgZ8T1YH96Db) | [Wild Party](https://open.spotify.com/artist/48PAAxWdIDbA4WHkHjgsEv) | [Phantom Pop](https://open.spotify.com/album/3raG7aYF8cqHX82yBPd7Qq) | 3:41 | 2025-03-20 |  |
 | [Lifespan](https://open.spotify.com/track/5etCueRMjMczmuy424b43C) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [123](https://open.spotify.com/album/6RrY59NHgNwUJ2VMpmfPL0) | 3:35 | 2024-10-09 |  |
 | [Like Him \(feat\. Lola Young\)](https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:38 | 2024-11-01 |  |
 | [like i would](https://open.spotify.com/track/2lCUoWFO0w0XFlRnC1W6Os) | [S\-X](https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN) | [things change](https://open.spotify.com/album/3NxDEbOY9ch3YSqLh8duBs) | 2:56 | 2022-07-29 |  |
@@ -998,6 +1001,7 @@
 | [walk from me](https://open.spotify.com/track/6EJwlIKZNu8UVQsFyjP8qi) | [S\-X](https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN) | [things change](https://open.spotify.com/album/3NxDEbOY9ch3YSqLh8duBs) | 2:19 | 2022-07-29 |  |
 | [Walk On By](https://open.spotify.com/track/6fkL9CjWmjeV6vfDxTp9OZ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:19 | 2023-07-02 |  |
 | [Want You So Bad](https://open.spotify.com/track/69Wh0ipeW1z2x78lOpsKuL) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [English Graffiti \(Expanded Edition\)](https://open.spotify.com/album/0aroGGkehVjsg8QCNDGjTK) | 4:18 | 2025-03-16 |  |
+| [WASH](https://open.spotify.com/track/6KPtG0aIKnSqszstXgH2NS) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [WASH](https://open.spotify.com/album/1G1RHhRuKnknYqMuprAT6A) | 3:39 | 2025-03-21 |  |
 | [Wasted On Fidelity](https://open.spotify.com/track/2hVK03EYXHBcxv00VSNAeF) | [Cameron Avery](https://open.spotify.com/artist/17qKi2b7CPrc03OEvQz9Tr) | [Ripe Dreams, Pipe Dreams \(Deluxe Edition\)](https://open.spotify.com/album/2SPoNPcAlfhUe84DH4SbQM) | 3:51 | 2024-06-17 |  |
 | [Waves](https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 3:01 | 2022-06-14 |  |
 | [waves \- Tame Impala Remix](https://open.spotify.com/track/3lB0GMiI5KxDbTOG8V3bOx) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Rogue Waves](https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f) | 4:13 | 2021-03-12 |  |

@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-434 songs - 20 hr 40 min
+435 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Mollo](https://open.spotify.com/track/2zAW1pqECiIMWZ9CvqpdS2) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Galerie](https://open.spotify.com/album/1F7A1rsVd20Rpa4x8Hb5gJ) | 1:54 | 2023-08-22 |  |
 | [Mont Kiara](https://open.spotify.com/track/2V5QRfFA9DdwfEf3pdNCle) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Mont Kiara](https://open.spotify.com/album/76D4vg3NOaJAL4vbl5KIxw) | 2:15 | 2024-12-13 | 2025-02-16 |
 | [Montrose Forest featuring Nicholas Payton](https://open.spotify.com/track/5KDVm18IS8nave70ihVFqN) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Montrose Forest featuring Nicholas Payton](https://open.spotify.com/album/712rPLxjRtWqRjLgKOlMp8) | 4:04 | 2024-11-08 | 2025-01-25 |
+| [Moonglade](https://open.spotify.com/track/4fmzTCgOgTj8dB3Cb3YwjE) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [Moonglade](https://open.spotify.com/album/2xQdVIZ7DksIupufbmHnq9) | 2:03 | 2025-03-14 |  |
 | [Moonlite](https://open.spotify.com/track/5uzmg0ccdavfs2rtoHI6e2) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 3:53 | 2023-08-22 | 2023-08-26 |
 | [Moonrock](https://open.spotify.com/track/2bW4WW3ykZgWlEuji5qWoq) | [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9), [Tamuz](https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA) | [Digilog I](https://open.spotify.com/album/0aLKKlg3Ax9BGfaDv7LQ3V) | 3:34 | 2023-08-22 | 2024-04-19 |
 | [Moonrock](https://open.spotify.com/track/5iymZJAdr2OW29n16QedRX) | [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9), [Tamuz Dolev](https://open.spotify.com/artist/34NjR5azv5YNp48JsD9C1v) | [Digilog I](https://open.spotify.com/album/7s3zSF9GuUu4TAl39xbqqA) | 3:34 | 2024-03-20 | 2024-08-24 |
@@ -260,7 +261,7 @@
 | [Nature & Me](https://open.spotify.com/track/2FJxTKMytSzaKDyblxbqJN) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [Vinyl And Me](https://open.spotify.com/album/6zqjZBp8aFKhHJF3QmhCPp) | 2:05 | 2023-08-22 |  |
 | [Nectar](https://open.spotify.com/track/4LOmZ8pVGsRe117F26nUge) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Nectar](https://open.spotify.com/album/2e7fjwbhErSDkxjs2WQP4p) | 2:15 | 2025-03-07 |  |
 | [Nest Egg](https://open.spotify.com/track/7kPQE1Ras4XcoFAhqkMuLG) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Nest Egg](https://open.spotify.com/album/1wLRWjcc8P3erTiNjeJWSJ) | 2:25 | 2023-08-22 | 2023-08-26 |
-| [Never Doubt](https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Never Doubt](https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3) | 4:10 | 2023-11-24 |  |
+| [Never Doubt](https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Never Doubt](https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3) | 4:10 | 2023-11-24 | 2025-03-21 |
 | [New Day](https://open.spotify.com/track/1BdwQ5nuLln2JAY6Jfm8EN) | [KOHEI YOSHII](https://open.spotify.com/artist/3uO4RRkSXyaak1AaakNvsG) | [Night Light, Morning Light](https://open.spotify.com/album/4KitFaXDFZ9xOt2hOwKtyn) | 2:08 | 2024-09-27 | 2024-12-19 |
 | [New Morning](https://open.spotify.com/track/1h4P6Xs2XI0oq4pDDxo9t4) | [Ludivine Issambourg](https://open.spotify.com/artist/7nuphNSch4dZshJyLgNixV), [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [Above the Laws](https://open.spotify.com/album/2QxsIMxHb7w5VxBGAx4R6e) | 3:21 | 2024-11-15 | 2024-11-23 |
 | [Night Service](https://open.spotify.com/track/5Hc511aAeqSeQ5PoBqZd84) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f), [Heemo\*](https://open.spotify.com/artist/0iim4E2EDMwWUFngjxk5ip) | [Healing](https://open.spotify.com/album/5J89tzUF3Yuw2Iqo68Ejtl) | 3:02 | 2023-08-22 | 2024-02-16 |

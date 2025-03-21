@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> SDM au top de la première playlist de rap français.
+> Guy2Bezbar au top de la première playlist de rap français.
 
-312 songs - 16 hr 2 min
+313 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Joli](https://open.spotify.com/track/2OFTQpmXnuVK1v6cFcqZuJ) | [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq) | [SOIXVNT3 \- Part\. 3](https://open.spotify.com/album/2ARWfDAm9ONe0vUxGznc6n) | 2:36 | 2023-01-12 | 2023-10-20 |
 | [Jolie \(feat\. Ninho\)](https://open.spotify.com/track/16FTTvpIgihyei3EBNw1jd) | [GAULOIS](https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [La Gaule, Vol.1](https://open.spotify.com/album/0xkRuvISedgQKc7BesPxwP) | 2:39 | 2023-02-02 | 2024-02-09 |
 | [Jour de plus](https://open.spotify.com/track/0sazgd7qckzMWxJ6IHcRFv) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [ADC](https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM) | 3:29 | 2023-09-28 | 2024-06-07 |
-| [Jungle](https://open.spotify.com/track/0gyfvkV9v7FrgiSp1mGelq) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [GOAT](https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ) | 3:01 | 2024-10-24 |  |
+| [Jungle](https://open.spotify.com/track/0gyfvkV9v7FrgiSp1mGelq) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [GOAT](https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ) | 3:01 | 2024-10-24 | 2025-03-21 |
 | [J’crois qu’ils ont pas compris](https://open.spotify.com/track/3KmGOpeFaltoCpzRAyrZJg) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Capitaine fait de l'art](https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT) | 2:10 | 2024-08-22 |  |
 | [Kalenji](https://open.spotify.com/track/1BL7fxywhLybZSHG6Lvi32) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Réelle vie 3.0](https://open.spotify.com/album/3qzinl5et0UJo0r5XtG8Kc) | 3:14 | 2022-02-03 | 2022-06-10 |
 | [KOA](https://open.spotify.com/track/0eo5HWCC0jd7z9YBKNmAy0) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [KOA](https://open.spotify.com/album/7FBlDnQcJkmdxQ7MKO8zc1) | 3:07 | 2022-10-20 | 2023-01-13 |
@@ -162,6 +162,7 @@
 | [La famine](https://open.spotify.com/track/5l6wXzGQXn8TemEVlCraLR) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [La famine](https://open.spotify.com/album/3fa90kfI5lBTVqqc26i91e) | 3:09 | 2024-10-24 |  |
 | [La Force Tranquille](https://open.spotify.com/track/7i7lGrzY9BHFclTeQSeopG) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [La Force Tranquille](https://open.spotify.com/album/0gfcNJ7BVV5u7JCWYeHHw9) | 4:04 | 2023-02-23 | 2023-05-12 |
 | [LA MELO EST DANS LA BOUNCE](https://open.spotify.com/track/6gwT3UA1hjbwT9Pfg0CMXK) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST DANS LA BOUNCE](https://open.spotify.com/album/662O3guwgkETCs4FcQ9dCi) | 1:49 | 2024-11-28 |  |
+| [La Pluie](https://open.spotify.com/track/2PcRPX3wHqfNYCo7gmD4Zp) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [La Pluie](https://open.spotify.com/album/2OKLI9R3wAUhLghQ9u0FaZ) | 3:56 | 2025-03-20 |  |
 | [La pluie](https://open.spotify.com/track/2jCTfX2rx7e5uSC17mf8g4) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [La pluie](https://open.spotify.com/album/45Rjf429SfK4HXJ5uhRmoG) | 3:02 | 2025-01-16 |  |
 | [LA RUE](https://open.spotify.com/track/7EO5oDxrq2dvYDgBjFvFYY) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [LA RUE](https://open.spotify.com/album/7IaBlF8e6NvoKSiE0SXRP1) | 3:45 | 2023-05-18 | 2024-01-19 |
 | [Laboratoire](https://open.spotify.com/track/24JrEVHDfohup0ypuOV7os) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn) | 2:42 | 2023-07-27 | 2024-03-01 |

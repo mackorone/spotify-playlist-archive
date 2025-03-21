@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,351 songs - 6 day 17 hr 12 min
+2,352 songs - 6 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -578,7 +578,7 @@
 | [Ego Maniacs](https://open.spotify.com/track/55qnnjyxq5LuXq6WyZd9Er) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Ego Maniacs](https://open.spotify.com/album/0Ox81bEz1Hjj6KPiI65yjB) | 3:38 | 2024-11-08 | 2024-11-23 |
 | [Ego Maniacs](https://open.spotify.com/track/7akCKUR70mozhTkNj9k57J) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Man Down](https://open.spotify.com/album/5rDHgJqsjnIgr7hjCswpL7) | 3:38 | 2024-12-06 | 2024-12-08 |
 | [Ein langer Weg](https://open.spotify.com/track/4BjXZXez1sUCXQFidFNwh6) | [Lacrimosa](https://open.spotify.com/artist/57ekbx9PSS4ORs5wTZMSYp) | [Lament](https://open.spotify.com/album/69u8fJRhAoYjaiuj5sac14) | 7:34 | 2025-03-07 | 2025-03-20 |
-| [Einherjar \- Orchestral Version](https://open.spotify.com/track/2JJ0Blx2BvU1Z42TWzSrGY) | [Leaves' Eyes](https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ) | [Myths of Fate \(Orchestral Version\)](https://open.spotify.com/album/2Z9fSgsQQFIu2XpSQ6urKt) | 5:12 | 2025-03-14 |  |
+| [Einherjar \- Orchestral Version](https://open.spotify.com/track/2JJ0Blx2BvU1Z42TWzSrGY) | [Leaves' Eyes](https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ) | [Myths of Fate \(Orchestral Version\)](https://open.spotify.com/album/2Z9fSgsQQFIu2XpSQ6urKt) | 5:12 | 2025-03-14 | 2025-03-21 |
 | [El 18](https://open.spotify.com/track/4Lr9NWcTz4fl6JWlKPjPJZ) | [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN) | [Los Wachos](https://open.spotify.com/album/4o6lfKCsOliUELYmCPQhAq) | 2:10 | 2023-08-25 | 2023-09-10 |
 | [El Alma Sabe la Verdad](https://open.spotify.com/track/5zh30c7Q55juWg0DfYEelW) | [Hijos de las Hojas](https://open.spotify.com/artist/6isvSCaUPeMinPzcY5LtBM), [Nicolas Libertad](https://open.spotify.com/artist/4Zohwfh3tPyL3X3baHjKDc), [Ojal De Ajaw](https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ) | [El Alma Sabe la Verdad](https://open.spotify.com/album/7mjnmu20ZJyglnvGEp3FX4) | 3:14 | 2024-11-15 | 2024-12-07 |
 | [El bar de los fracasos](https://open.spotify.com/track/6kJWMgNgYKuLQGy2ULLCRm) | [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [El bar de los fracasos](https://open.spotify.com/album/71rwUTsvTnAtXSGyZhcJDR) | 4:35 | 2024-02-16 | 2024-03-10 |
@@ -1790,6 +1790,7 @@
 | [Songbird](https://open.spotify.com/track/6nfrIohSDBQvBX6rlHWEVO) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [Songbird](https://open.spotify.com/album/6yLorJHpW7BUD7RecIVLfI) | 3:23 | 2023-12-01 | 2024-02-17 |
 | [Songbird](https://open.spotify.com/track/7nrvvUfMUXdPf0McTsDFti) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [Best of The Corrs](https://open.spotify.com/album/6HjzFZsg2S3soe9Dqd9yeL) | 3:23 | 2023-12-01 | 2023-12-16 |
 | [Sonnet \- featured on the John Lewis Christmas Advert 2024](https://open.spotify.com/track/1nShCaVEFxEwi3HULnYE6z) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Sonnet \(featured on the John Lewis Christmas Advert 2024\)](https://open.spotify.com/album/1TWE7xO17SIiFtS4wadzN8) | 3:23 | 2024-11-15 | 2024-12-07 |
+| [Sons of Triglav \- Orchestral Version](https://open.spotify.com/track/6gv2lihD4ChcwAp4kf1euP) | [Leaves' Eyes](https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ) | [Myths of Fate \(Orchestral Version\)](https://open.spotify.com/album/2Z9fSgsQQFIu2XpSQ6urKt) | 4:52 | 2025-03-14 |  |
 | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/track/0rBNh3j7P3SwGPl4yIKNTx) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/album/1PXQ11UJ7cMt1Yjb8YyN8i) | 4:25 | 2024-08-30 | 2024-09-07 |
 | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/track/41SWCbo4NPuXy61iX1sPdj) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/album/6Knlhr0bB3ItyFVhYsgiPs) | 4:25 | 2024-09-13 | 2024-11-09 |
 | [Sostenibile](https://open.spotify.com/track/6wfqbUgJZ6YfNATUrntv6f) | [Inti\-Illimani](https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN), [Giulio Wilson](https://open.spotify.com/artist/33aEMBHiyvhAdzcUZ3Nflz) | [Sostenibile](https://open.spotify.com/album/57jIf6qF9vJN29QvoiaJFu) | 3:48 | 2023-03-10 | 2023-03-18 |

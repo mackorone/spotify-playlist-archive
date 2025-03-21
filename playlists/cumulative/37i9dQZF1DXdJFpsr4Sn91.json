@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nousussa olevat hitit. Kannessa Benjamin.",
+  "description": "Nousussa olevat hitit. Kannessa Evelina.",
   "name": "Nousussa",
   "tracks": [
     {
@@ -520,7 +520,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 164358,
       "name": "Anna m\u00e4 vien (feat. Sara Bee)",
       "url": "https://open.spotify.com/track/0ERZ0M4FXlh3WAE1FQWQx1"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 193638,
       "name": "Anna tulla",
       "url": "https://open.spotify.com/track/4Fzm0uCnAM4Ep59ZVvi5wB"
@@ -2040,10 +2040,32 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 158566,
       "name": "DJ (feat. SomBadi)",
       "url": "https://open.spotify.com/track/2gy7wfMimlYzMUWwWCX1iy"
+    },
+    {
+      "album": {
+        "name": "Don't Put It All On Me (feat. Fleet Foxes)",
+        "url": "https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247306,
+      "name": "Don't Put It All On Me (feat. Fleet Foxes)",
+      "url": "https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul"
     },
     {
       "album": {
@@ -2599,6 +2621,24 @@
     },
     {
       "album": {
+        "name": "Erottamattomat",
+        "url": "https://open.spotify.com/album/1of5tbdzEaA7VRibMmrqem"
+      },
+      "artists": [
+        {
+          "name": "Vepu",
+          "url": "https://open.spotify.com/artist/2qwH6XfqxzOUiVTC3IXOom"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163442,
+      "name": "Erottamattomat",
+      "url": "https://open.spotify.com/track/2HmGYyoMBYtCOwnYAB3gyH"
+    },
+    {
+      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
       },
@@ -2780,7 +2820,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 225762,
       "name": "Fire",
       "url": "https://open.spotify.com/track/3BrPNamOVSIICrC2Kz0TDi"
@@ -2944,7 +2984,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 208159,
       "name": "Forever Yours - Tim\u2019s 2016 Ibiza Version",
       "url": "https://open.spotify.com/track/1HnuyFokRiXuJtygnFCiZT"
@@ -3036,7 +3076,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 184155,
       "name": "FXCK UP THE WORLD (feat. Future)",
       "url": "https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt"
@@ -3076,6 +3116,24 @@
       "duration_ms": 239720,
       "name": "Garden Of Eden",
       "url": "https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd"
+    },
+    {
+      "album": {
+        "name": "Gardenia",
+        "url": "https://open.spotify.com/album/2mJ1flQ0ZAW0rdHZZUrPf3"
+      },
+      "artists": [
+        {
+          "name": "Haloo Helsinki!",
+          "url": "https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248213,
+      "name": "Gardenia",
+      "url": "https://open.spotify.com/track/7Ih2bWlEQU3vg2s28qw607"
     },
     {
       "album": {
@@ -3170,7 +3228,7 @@
       ],
       "date_added": "2025-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 190373,
       "name": "GOOD CREDIT (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok"
@@ -3330,7 +3388,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 184698,
       "name": "Handlebars (feat. Dua Lipa)",
       "url": "https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg"
@@ -3638,6 +3696,24 @@
       "duration_ms": 190535,
       "name": "HORSE MOM",
       "url": "https://open.spotify.com/track/3OnGfPJyPy1vlK3BTE7cun"
+    },
+    {
+      "album": {
+        "name": "HOT",
+        "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143797,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY"
     },
     {
       "album": {
@@ -4717,6 +4793,28 @@
     },
     {
       "album": {
+        "name": "ULTRAVIOLETTI",
+        "url": "https://open.spotify.com/album/0v7kaOJYUoOnNxaNlzOnEb"
+      },
+      "artists": [
+        {
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+        },
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190608,
+      "name": "Kaistaa",
+      "url": "https://open.spotify.com/track/4vO0IpbBr424kXNHZvBfQ6"
+    },
+    {
+      "album": {
         "name": "KALJAAAA",
         "url": "https://open.spotify.com/album/4HgASZk6h10Jg11jPDwRRJ"
       },
@@ -4812,6 +4910,24 @@
       "duration_ms": 177523,
       "name": "Kauniita lauseita",
       "url": "https://open.spotify.com/track/4ACfTWp8gMiZopmMFOKnhV"
+    },
+    {
+      "album": {
+        "name": "Keep M\u00f8ving",
+        "url": "https://open.spotify.com/album/72kPRMbCSy6mcaz88F2Vzm"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202951,
+      "name": "Keep M\u00f8ving",
+      "url": "https://open.spotify.com/track/01P4zWU44Rsk4XIME4hsTd"
     },
     {
       "album": {
@@ -5051,6 +5167,28 @@
     },
     {
       "album": {
+        "name": "Kuka on vastuus?",
+        "url": "https://open.spotify.com/album/5H3b6G0Zdf9yKMfDdWjFRY"
+      },
+      "artists": [
+        {
+          "name": "Davy",
+          "url": "https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT"
+        },
+        {
+          "name": "Ege Zulu",
+          "url": "https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152834,
+      "name": "Kuka on vastuus?",
+      "url": "https://open.spotify.com/track/2NO3NqzOQqtlOgQY4URkMC"
+    },
+    {
+      "album": {
         "name": "Kuka Siin Netis On",
         "url": "https://open.spotify.com/album/3W3kB0jPZKAmAWGld8YBOG"
       },
@@ -5258,7 +5396,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 149116,
       "name": "Lampaita",
       "url": "https://open.spotify.com/track/3wRxUXh6dJLurn1RgLIeUD"
@@ -5345,6 +5483,28 @@
     },
     {
       "album": {
+        "name": "ORIGO",
+        "url": "https://open.spotify.com/album/7bH5zo9yUlF6TXk8SpfxPt"
+      },
+      "artists": [
+        {
+          "name": "Jenni Vartiainen",
+          "url": "https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156110,
+      "name": "Leima (feat. Turisti)",
+      "url": "https://open.spotify.com/track/57Stuvnw9HYOTKsmHxk9gV"
+    },
+    {
+      "album": {
         "name": "Lentoi",
         "url": "https://open.spotify.com/album/4mg96xe915Svxv7f1h3pB9"
       },
@@ -5392,7 +5552,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 258157,
       "name": "Levoton tuhkimo",
       "url": "https://open.spotify.com/track/1hls6dgYL9TXFhZWPp6dlf"
@@ -5636,7 +5796,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 212000,
       "name": "Love Doctor's",
       "url": "https://open.spotify.com/track/0xNPb3enPEZLlW5JavgTvm"
@@ -5676,7 +5836,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 218200,
       "name": "Love In Control",
       "url": "https://open.spotify.com/track/7KAHR6ZMUiqBHyCKB8NN1u"
@@ -5712,10 +5872,28 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 114637,
       "name": "Love Is A Stillness",
       "url": "https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9"
+    },
+    {
+      "album": {
+        "name": "Love Me To Heaven",
+        "url": "https://open.spotify.com/album/1UOsUheDy5xGJtpyHhu1t9"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206561,
+      "name": "Love Me To Heaven",
+      "url": "https://open.spotify.com/track/7usqgT1ajVAJ3s0wXePtRr"
     },
     {
       "album": {
@@ -6050,7 +6228,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 125738,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/1gP0tMe6i0BlKtmYEoVp2i"
@@ -6576,7 +6754,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 206380,
       "name": "Modernin naisen modernit ongelmat",
       "url": "https://open.spotify.com/track/6icyqOE3JyCbxn61NGbo8F"
@@ -6674,7 +6852,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 162050,
       "name": "Musta hevonen",
       "url": "https://open.spotify.com/track/1JA6J5kzRNUYagv2WmjxqY"
@@ -6952,7 +7130,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 178040,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/2vLNQbj3xiNR342WoZXpln"
@@ -7005,7 +7183,7 @@
         },
         {
           "name": "Sexmane",
-          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+          "url": "https://open.spotify.com/artist/0HBo9U4SxsaeqrqssGfNf1"
         }
       ],
       "date_added": "2025-03-05",
@@ -7136,7 +7314,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
@@ -7158,7 +7336,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 148500,
       "name": "Now Or Never",
       "url": "https://open.spotify.com/track/5hG7MlKPCqUgtdwROUbBRS"
@@ -7977,6 +8155,24 @@
     },
     {
       "album": {
+        "name": "Psykologiajalla",
+        "url": "https://open.spotify.com/album/1GOdDm9JcIgIlG8n2n73bt"
+      },
+      "artists": [
+        {
+          "name": "BENI",
+          "url": "https://open.spotify.com/artist/0yVKqanLFd6BLlbkfYOnqX"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173702,
+      "name": "Psykologiajalla",
+      "url": "https://open.spotify.com/track/7IUfNT1mkuiL8l8vaLDZEh"
+    },
+    {
+      "album": {
         "name": "Pull Up",
         "url": "https://open.spotify.com/album/4JIrAvo1Ys3gm8ulL5hd8O"
       },
@@ -8288,6 +8484,28 @@
       "duration_ms": 181000,
       "name": "RANDOM",
       "url": "https://open.spotify.com/track/05e4kdlalqyXn9FhpYJQ9F"
+    },
+    {
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "RATHER LIE (with The Weeknd)",
+      "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn"
     },
     {
       "album": {
@@ -9069,6 +9287,24 @@
     },
     {
       "album": {
+        "name": "Sisko",
+        "url": "https://open.spotify.com/album/726cvsMISBANq4GBdUzBKL"
+      },
+      "artists": [
+        {
+          "name": "emma & matilda",
+          "url": "https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209523,
+      "name": "Sisko",
+      "url": "https://open.spotify.com/track/5GsPlZhyZhpYWqFQagfySb"
+    },
+    {
+      "album": {
         "name": "Sista G\u00e5ng",
         "url": "https://open.spotify.com/album/4sXaL6DwBY0XD5GhIBdcD6"
       },
@@ -9283,6 +9519,24 @@
     },
     {
       "album": {
+        "name": "southbound / test drive",
+        "url": "https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137923,
+      "name": "southbound",
+      "url": "https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt"
+    },
+    {
+      "album": {
         "name": "Sports car",
         "url": "https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge"
       },
@@ -9450,7 +9704,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 167584,
       "name": "Sunset Blvd",
       "url": "https://open.spotify.com/track/2kpUNuingcchFIhLrbWxIO"
@@ -9494,7 +9748,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 158460,
       "name": "Suomileijona",
       "url": "https://open.spotify.com/track/2VrulJUteGq31RtnshZ495"
@@ -10754,7 +11008,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 180548,
       "name": "Vasen laituri (feat. AHTI)",
       "url": "https://open.spotify.com/track/63jEXNkVDnPO8wzFsdryfi"
@@ -11439,6 +11693,28 @@
     },
     {
       "album": {
+        "name": "I Said I Love You First",
+        "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189647,
+      "name": "Younger And Hotter Than Me",
+      "url": "https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM"
+    },
+    {
+      "album": {
         "name": "Y\u00f6t\u00f6n y\u00f6",
         "url": "https://open.spotify.com/album/7B02QWRfAKJ1D99ld6atac"
       },
@@ -11468,7 +11744,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 170508,
       "name": "Zero Pressure",
       "url": "https://open.spotify.com/track/4xWZwHrIn5uS3Nft08Rk5O"

@@ -2,9 +2,9 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Abigail Chams
+> Get your fill of vibes straight out of Tanzania\. Cover: G Nako
 
-522 songs - 1 day 5 hr 52 min
+523 songs - 1 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Gimmie \(feat\. Rema\)](https://open.spotify.com/track/6s5wglU27mZ8yTjbEJXFRV) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Gimmie \(feat\. Rema\)](https://open.spotify.com/album/7smV0L7kT4G5UBvk7jfLWC) | 2:42 | 2021-10-21 | 2022-06-03 |
 | [Give Up](https://open.spotify.com/track/0axpvfQ41L0RKwJzXVRpel) | [Mimi Mars](https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Give Up](https://open.spotify.com/album/46YJhXvo60fDfRsaX6qhP2) | 2:55 | 2023-11-10 | 2024-04-19 |
 | [Glemmer Du](https://open.spotify.com/track/4v7us7ZqVnsIWIwuaXbV8u) | [JJ PAULO](https://open.spotify.com/artist/6qz66TzT4aoNkudjDofqfm), [Folkekirkens Nødhjælp](https://open.spotify.com/artist/3b7lDeHVuG7OHC4b5PtRfI) | [Glemmer Du](https://open.spotify.com/album/67TwD6XzdrGqVRFcaMfso3) | 2:41 | 2024-10-10 | 2024-12-20 |
+| [Go](https://open.spotify.com/track/4RuMpok66IGRwuf46PX5xo) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4) | [Go](https://open.spotify.com/album/64PZGw0BVsvm8vflfar9Gr) | 2:57 | 2025-03-20 |  |
 | [Hadithi \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/5TrEBfukZOp890EY750Ktn) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Love Sounds Different](https://open.spotify.com/album/7uUGjipQKNBau0C3KASL56) | 2:38 | 2022-08-19 | 2023-07-14 |
 | [Hakuna Matata](https://open.spotify.com/track/1lenhwtsu7WRv847HumXE0) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Hakuna Matata](https://open.spotify.com/album/5wy5yT8ayAF7IsAB3DHbJt) | 3:00 | 2024-04-18 | 2024-12-06 |
 | [Halichachi](https://open.spotify.com/track/6SWpURhRKx8IN6IXzCSV2S) | [Amber Lulu](https://open.spotify.com/artist/7eaEAJe6zgz9QVfEEP3dUg), [Kayumba](https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk) | [Halichachi](https://open.spotify.com/album/5Uz3x5jAmxJuUQBDEFLhvb) | 3:25 | 2022-02-24 | 2022-10-22 |
@@ -417,7 +418,7 @@
 | [Sishindwi](https://open.spotify.com/track/3jujyWaOi0iZX61QIDpOq3) | [Dayoo](https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc) | [Sishindwi](https://open.spotify.com/album/1B9XPvItUHd9JNVRTMm2iU) | 2:59 | 2023-11-30 | 2024-04-26 |
 | [Sitaki](https://open.spotify.com/track/3VciOIAAH9bqNPmsqOhVod) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Sitaki](https://open.spotify.com/album/0Yz6waiDwKXzskayIAFtnM) | 3:36 | 2023-06-08 | 2024-06-14 |
 | [Slow](https://open.spotify.com/track/04Out6ePtODoAuUqr38uXt) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [Slow](https://open.spotify.com/album/2sPnCcwPuXdwD7dwssEITQ) | 3:03 | 2023-09-14 | 2023-12-15 |
-| [Smarta With Data](https://open.spotify.com/track/7l3WsQd4D26YgKT4NadSaq) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Smarta With Data](https://open.spotify.com/album/0ds35akHlzWehrbwBaYKPg) | 3:57 | 2025-01-09 |  |
+| [Smarta With Data](https://open.spotify.com/track/7l3WsQd4D26YgKT4NadSaq) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Smarta With Data](https://open.spotify.com/album/0ds35akHlzWehrbwBaYKPg) | 3:57 | 2025-01-09 | 2025-03-21 |
 | [Sound](https://open.spotify.com/track/48vHI0EsMshwdDoKDux4nu) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Sound](https://open.spotify.com/album/3zNEpOsqOGYGCYserRZRZn) | 3:33 | 2021-06-25 | 2022-01-07 |
 | [Soyo](https://open.spotify.com/track/4N71F66XSVP9vwWzoUpKAl) | [JJ PAULO](https://open.spotify.com/artist/6qz66TzT4aoNkudjDofqfm) | [Soyo](https://open.spotify.com/album/3BwwEwhCb7mOkNLQ8qe5xK) | 3:11 | 2022-09-23 | 2022-10-28 |
 | [Star](https://open.spotify.com/track/1CXIRZwIuG7qppmYYg6RD1) | [Gigy Money](https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e), [Chino Kidd](https://open.spotify.com/artist/2EuodBUTVs5DBUkauhlsnm) | [Chafu 3](https://open.spotify.com/album/5GeGp5OCFZ5yyZkLIFweuo) | 2:45 | 2023-11-17 | 2024-02-23 |

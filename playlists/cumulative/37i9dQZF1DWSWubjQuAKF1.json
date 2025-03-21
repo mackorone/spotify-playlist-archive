@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Maciej Skiba",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Jea Mira",
   "name": "up next",
   "tracks": [
     {
@@ -334,6 +334,24 @@
       "duration_ms": 269746,
       "name": "Arachnophobia",
       "url": "https://open.spotify.com/track/238SwKe4AlSzqa7lg1oHUz"
+    },
+    {
+      "album": {
+        "name": "Arkadia",
+        "url": "https://open.spotify.com/album/2p4Udkis07aTRZIDjpyNTQ"
+      },
+      "artists": [
+        {
+          "name": "WOLSKA",
+          "url": "https://open.spotify.com/artist/6W535X9Sk4zYwdMeXQ8LwM"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214842,
+      "name": "Arkadia",
+      "url": "https://open.spotify.com/track/3PMYCND2OpaEV74EQkWrOZ"
     },
     {
       "album": {
@@ -1052,7 +1070,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 168133,
       "name": "chc\u0119 z Tob\u0105 i\u015b\u0107 do \u0142\u00f3\u017cka",
       "url": "https://open.spotify.com/track/36opgeBulRtAvvEx2YwDJI"
@@ -1153,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "Co, je\u015bli?",
+        "url": "https://open.spotify.com/album/6eIoeAsyTUWzb7QGsN0yEU"
+      },
+      "artists": [
+        {
+          "name": "Carla Fernandes",
+          "url": "https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153513,
+      "name": "Co, je\u015bli?",
+      "url": "https://open.spotify.com/track/0plgXTtOu4RJDf4nwzVPqr"
+    },
+    {
+      "album": {
         "name": "come over?",
         "url": "https://open.spotify.com/album/41DUwYHE0GETfovi2havgJ"
       },
@@ -1182,7 +1218,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 169013,
       "name": "coraline",
       "url": "https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF"
@@ -1404,6 +1440,24 @@
       "duration_ms": 168967,
       "name": "Deja vu",
       "url": "https://open.spotify.com/track/7EDpeJwPBFxem2fES0gx6c"
+    },
+    {
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/0Xtj0v242nflooXf1FLutS"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175082,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/2NB1gNSdFonXMllNMxiAmE"
     },
     {
       "album": {
@@ -1754,7 +1808,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 231821,
       "name": "Everything Changes (But I Won't)",
       "url": "https://open.spotify.com/track/2WGOTUuDEW2NxuJVFWvmcB"
@@ -2116,7 +2170,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-10",
+      "date_removed": null,
       "duration_ms": 206846,
       "name": "Hej, nie m\u00f3wi\u0142am ci",
       "url": "https://open.spotify.com/track/2pbslxgbSgTxQ9iHRhclHj"
@@ -2156,7 +2210,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 176148,
       "name": "Hold The Light",
       "url": "https://open.spotify.com/track/1gvZdm2sg2xUAaF9daQRnr"
@@ -2286,7 +2340,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 166029,
       "name": "I'm in love",
       "url": "https://open.spotify.com/track/2xIGo3LOGsqqJ7gdl4amM1"
@@ -2416,7 +2470,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 242181,
       "name": "Jak si\u0119 dzi\u015b masz?",
       "url": "https://open.spotify.com/track/4072h3LkxudmZImsxR9fCQ"
@@ -4555,6 +4609,24 @@
     },
     {
       "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
+    },
+    {
+      "album": {
         "name": "origami",
         "url": "https://open.spotify.com/album/2pVvZ1AwfGj9c0gJT7FD8u"
       },
@@ -5042,7 +5114,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 165517,
       "name": "PRAY",
       "url": "https://open.spotify.com/track/47hPDWjpKJBtNTZ5mvpdBt"
@@ -5238,7 +5310,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-06",
+      "date_removed": null,
       "duration_ms": 246945,
       "name": "Ptaki",
       "url": "https://open.spotify.com/track/2LwA6OrbN2DFP9osByAYEY"
@@ -5332,7 +5404,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 160600,
       "name": "Real Man",
       "url": "https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX"
@@ -5774,7 +5846,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-20",
+      "date_removed": null,
       "duration_ms": 115326,
       "name": "Stokrotka",
       "url": "https://open.spotify.com/track/4ANNjvHaj9mqFAMzKM74ax"
@@ -6266,7 +6338,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 149415,
       "name": "THINK OF ME",
       "url": "https://open.spotify.com/track/510ZpiTU4fNXTlnrFFx5Yt"
@@ -6457,6 +6529,24 @@
     },
     {
       "album": {
+        "name": "U Want Me Anyway",
+        "url": "https://open.spotify.com/album/1voy9mRdneNwKnaBgIjLh4"
+      },
+      "artists": [
+        {
+          "name": "Dani Marchio",
+          "url": "https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200323,
+      "name": "U Want Me Anyway",
+      "url": "https://open.spotify.com/track/2NZpYLv014p6rfl2CYxDX6"
+    },
+    {
+      "album": {
         "name": "Upadki i wzloty",
         "url": "https://open.spotify.com/album/0H5oZPNKpOgMyPp0xKa04S"
       },
@@ -6588,7 +6678,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 169655,
       "name": "WAS DW\u00d3CH",
       "url": "https://open.spotify.com/track/0zuwMlHupJCxyIc7GqcEoz"
@@ -6624,7 +6714,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 168000,
       "name": "we \u015bnie",
       "url": "https://open.spotify.com/track/23p5CCaQ69gh6H3CsOTC1G"
@@ -7322,6 +7412,24 @@
       "duration_ms": 279925,
       "name": "\u0106ma",
       "url": "https://open.spotify.com/track/4TsUpBDBZQLGaSEjNrgCKX"
+    },
+    {
+      "album": {
+        "name": "\u0141ez",
+        "url": "https://open.spotify.com/album/5ei7THv6SDlyGburhlR8Qf"
+      },
+      "artists": [
+        {
+          "name": "Effy",
+          "url": "https://open.spotify.com/artist/662m0WrjxDl2ZrWAghojh2"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157120,
+      "name": "\u0141ez",
+      "url": "https://open.spotify.com/track/3XwbXBdDfmpjlwpyuTPzv3"
     },
     {
       "album": {

@@ -5250,7 +5250,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 173731,
       "name": "Brick na brick",
       "url": "https://open.spotify.com/track/5011v8IwA4NApxQ3ntw6Ih"
@@ -5986,7 +5986,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 231499,
       "name": "Carmen",
       "url": "https://open.spotify.com/track/4H6CSIMn1ZogPvVvO4MR8u"
@@ -8133,6 +8133,24 @@
     },
     {
       "album": {
+        "name": "Dark Thoughts",
+        "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136991,
+      "name": "Dark Thoughts",
+      "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
+    },
+    {
+      "album": {
         "name": "The Ganglands",
         "url": "https://open.spotify.com/album/1e03k0WNMpkZinddxUKCZk"
       },
@@ -9404,7 +9422,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Domov",
       "url": "https://open.spotify.com/track/5YGUlA6ApoJZwE024IGBrg"
@@ -13580,7 +13598,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 190373,
       "name": "GOOD CREDIT (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok"
@@ -23640,7 +23658,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 218000,
       "name": "MISSHIT",
       "url": "https://open.spotify.com/track/2D94mdEcGQQuBHAQb6A5wx"
@@ -30804,7 +30822,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 149118,
       "name": "Pre v\u00e1s hr\u00e1m",
       "url": "https://open.spotify.com/track/5pltfpIVFmQdLbb1H20HeD"
@@ -37282,7 +37300,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 121846,
       "name": "Suave",
       "url": "https://open.spotify.com/track/5E1tL0zofGATKf1cthCxwf"
@@ -41016,7 +41034,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-10",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "V Hlav\u011b",
       "url": "https://open.spotify.com/track/5MdR2U7mgeQjCedqj5kC2o"
@@ -42764,7 +42782,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 169333,
       "name": "WAKE UP F1LTHY (with Travis Scott)",
       "url": "https://open.spotify.com/track/1pzN8bCzy017iK3vWzkk6Z"

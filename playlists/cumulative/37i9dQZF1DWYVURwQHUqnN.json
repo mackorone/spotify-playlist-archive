@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : GIMS",
+  "description": "Photo : L2B",
   "name": "Best Life",
   "tracks": [
     {
@@ -362,6 +362,28 @@
       "duration_ms": 149443,
       "name": "Bababa",
       "url": "https://open.spotify.com/track/1wE89iLKbmFgFDg2eXHjbB"
+    },
+    {
+      "album": {
+        "name": "Meraki",
+        "url": "https://open.spotify.com/album/0wl6FnaTJw4TXzjL1PT5G6"
+      },
+      "artists": [
+        {
+          "name": "1D1R",
+          "url": "https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN"
+        },
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193401,
+      "name": "Balade",
+      "url": "https://open.spotify.com/track/7C13bFjFdELL8ioTMtVbZ5"
     },
     {
       "album": {
@@ -1606,7 +1628,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 147187,
       "name": "FOUDRE",
       "url": "https://open.spotify.com/track/3mfEErh2onwtaWlL7ZtNsl"
@@ -1678,7 +1700,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 188816,
       "name": "Gouli",
       "url": "https://open.spotify.com/track/5jHSmCf0tw9V0R5WNrT481"
@@ -4164,6 +4186,28 @@
       "duration_ms": 161666,
       "name": "Shayo",
       "url": "https://open.spotify.com/track/2e7qqQ8MkLa0h5xmHL5cso"
+    },
+    {
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/0GQMw7o7HQXdDhteOWC4bc"
+      },
+      "artists": [
+        {
+          "name": "Kim",
+          "url": "https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW"
+        },
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179029,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/3ymAkyG6LfREJmfEXEaSbk"
     },
     {
       "album": {

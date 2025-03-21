@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-452 songs - 23 hr 8 min
+453 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Djupet](https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia) | [Owen Meyers](https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM) | [Djupet](https://open.spotify.com/album/7heZwQ3Yua1lr3XCYJzhbK) | 3:43 | 2022-10-29 | 2024-10-16 |
 | [Double Helix](https://open.spotify.com/track/5Hd70laM8Glw4wcT8FFEO5) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [Double Helix](https://open.spotify.com/album/1yep9TfPABX97QXdFKao62) | 2:55 | 2024-01-17 | 2024-02-08 |
 | [Double Star](https://open.spotify.com/track/4CAp39QFkWYkLWwMCr0dod) | [Sophie Jordan](https://open.spotify.com/artist/0ELcJtf6GlKRO4lF27W57K) | [Calm Constellation](https://open.spotify.com/album/6f5aCBvmIRyqGnPp4TBWqz) | 4:00 | 2022-01-12 | 2024-01-18 |
+| [Down The Path](https://open.spotify.com/track/5cmX2WLuzNuiCGTHd1BqMM) | [Melanitta Perspicillata](https://open.spotify.com/artist/3wFCsw8ioaujwxcRwbEFi4) | [Down The Path](https://open.spotify.com/album/3ew7IVFptGHoMTqenBa0nS) | 3:18 | 2025-02-28 |  |
 | [Downing](https://open.spotify.com/track/0eGoaVmfcruvpJmPKoNuLg) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Downing](https://open.spotify.com/album/6Rbe6eULIQSIbQFrkxVxdM) | 3:09 | 2025-02-28 |  |
 | [Dream Creator](https://open.spotify.com/track/59RuuDJJIilK0EBvt4e5Cq) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Dream Creator](https://open.spotify.com/album/3BWpdkTtTFpAlu9zKNONS6) | 2:59 | 2024-01-17 |  |
 | [dream voyage](https://open.spotify.com/track/071keE1dQVjf9ErDpdZBDv) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [dream voyage](https://open.spotify.com/album/6imgVrU8qI0QumuPRF7vnh) | 3:27 | 2024-09-06 |  |
@@ -435,7 +436,7 @@
 | [Viaje a la Serenidad Interior](https://open.spotify.com/track/0gSgvkA2ALIdMmYKWgwsfx) | [Siame](https://open.spotify.com/artist/6ZimDumlcobtV1cSRoIdo0), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX), [Buneba](https://open.spotify.com/artist/4kckQx25UOWOjUMposE6ek) | [Viaje a la Serenidad Interior](https://open.spotify.com/album/6fMohNmsajrIKNYYisZhkH) | 2:09 | 2024-02-27 |  |
 | [Vignette](https://open.spotify.com/track/2V5Gsfe6YrRWQRFKgCXevF) | [General Relativity](https://open.spotify.com/artist/6HRIFfrVvgBZsdLPj2IVlc) | [Vignette](https://open.spotify.com/album/2O4tAZRw0PyCiZyXcaQh56) | 2:40 | 2022-01-12 | 2024-01-22 |
 | [Vincible](https://open.spotify.com/track/4oeOk10qaT2s2jR04dyiPT) | [Tech Guru](https://open.spotify.com/artist/6HWoxr5odNX04juRVTyw1q) | [Vincible](https://open.spotify.com/album/2gElzA8obHtMwl3FlYLBQD) | 3:32 | 2022-01-12 | 2024-01-22 |
-| [Violet Waves](https://open.spotify.com/track/4hotjR081NpMCwvr6IoYyj) | [Iota Psi](https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW) | [Violet Waves](https://open.spotify.com/album/6S1gk43rkkEXxGg2SnRcHe) | 3:13 | 2024-01-17 |  |
+| [Violet Waves](https://open.spotify.com/track/4hotjR081NpMCwvr6IoYyj) | [Iota Psi](https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW) | [Violet Waves](https://open.spotify.com/album/6S1gk43rkkEXxGg2SnRcHe) | 3:13 | 2024-01-17 | 2025-03-21 |
 | [Voyage](https://open.spotify.com/track/2v1mBhXwbKQZ9w3vDMhHGQ) | [Paia Mooni](https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn) | [Voyage](https://open.spotify.com/album/3GkzK5cUhfRb6h76VyiUGN) | 2:39 | 2025-01-21 |  |
 | [Water Jewel](https://open.spotify.com/track/2GKxE4qFT0kUaYveDnFcVt) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Two Jewels](https://open.spotify.com/album/6uESTKXHQ490eo7x83I9bi) | 4:07 | 2022-01-12 | 2023-03-15 |
 | [Way of Being](https://open.spotify.com/track/7IeCOta1aZHt2GL81JpKsI) | [Mindezer](https://open.spotify.com/artist/7ob7fE7T9MFx8x6YvaxStb) | [Way of Being](https://open.spotify.com/album/3GGYUMMWxWpIFXEcKWkBhI) | 2:52 | 2024-08-14 |  |

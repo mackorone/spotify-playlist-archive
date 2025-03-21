@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-951 songs - 2 day 0 hr 33 min
+954 songs - 2 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [Free](https://open.spotify.com/track/4UE5YjqaUALV8MVr9pJDfo) | [Wildcard \(US\)](https://open.spotify.com/artist/4kNI2d4AVNwPVcZNwgJFtr) | [Free](https://open.spotify.com/album/4FR5GqDVSOv5GiuwDedjSZ) | 3:30 | 2024-05-24 | 2024-09-26 |
 | [Free Candy \(feat\. DAIJAH\)](https://open.spotify.com/track/2QaCYdtF5UyHKuPAKqdfx1) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K), [DAIJAH](https://open.spotify.com/artist/1slMspXp4UdnAyQbkbgJJ9) | [Free Candy \(feat\. DAIJAH\)](https://open.spotify.com/album/7iGtZMDewOyUjIFqIRCIdO) | 2:48 | 2023-02-12 | 2023-04-13 |
 | [Free Your Mind](https://open.spotify.com/track/2kYWI4tyVrFvh3XIXTHVhd) | [ELYX](https://open.spotify.com/artist/0yHnhg6YZHrFZ0Dg1LRe7w) | [Free Your Mind](https://open.spotify.com/album/4hub8pUiQAnKLXIHQ60wtU) | 2:44 | 2024-10-03 | 2025-01-09 |
+| [Friday, I’m In Luv](https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Friday, I’m In Luv](https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae) | 2:25 | 2025-03-20 |  |
 | [Fuego](https://open.spotify.com/track/45GXyr5LIIMAgKK1zc2IWT) | [Fede Rego](https://open.spotify.com/artist/1givwtQXh3LZPSiVqnQdzN) | [Fuego](https://open.spotify.com/album/3okRVbjoH7anbOb5vFYfpc) | 2:17 | 2024-04-03 | 2024-04-13 |
 | [GENESIS](https://open.spotify.com/track/2NZ8HlZmXQUvDonf24hw34) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [GENESIS](https://open.spotify.com/album/0ooUnGvQJmZap152eUHY0y) | 3:28 | 2024-01-26 | 2024-09-26 |
 | [Germany & Techno \(feat\. Krys Tha Sis\)](https://open.spotify.com/track/7b5Eu8Mp5uB4MPjT3Kh3WF) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [Fabian Farell](https://open.spotify.com/artist/4IOhVReVZmK8yRqFgcxDvY), [Derb](https://open.spotify.com/artist/3mPVA7KPcWK2iKju5lLFc8), [Krys Tha Sis](https://open.spotify.com/artist/4FnvX9uPMfR9upQ4ByiBuO) | [Germany & Techno \(feat\. Krys Tha Sis\)](https://open.spotify.com/album/6sU8MVFcuQwitiDPKGFmwT) | 2:20 | 2024-10-10 | 2025-01-09 |
@@ -728,6 +729,7 @@
 | [Sensation](https://open.spotify.com/track/7lyvmLVL8GFZHOkaCxMVI2) | [Thvndex](https://open.spotify.com/artist/0Eospqk319OpNppJNNb4Ol), [Snrs](https://open.spotify.com/artist/61mK2JbF5F6tqgZOJMWloW) | [Sensation](https://open.spotify.com/album/11gB9AGVS9AKsaQ5SMVSm2) | 2:21 | 2025-01-24 | 2025-03-14 |
 | [Set Me Free](https://open.spotify.com/track/5jRtRJNZuWMU7RCipIoNPh) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Set Me Free](https://open.spotify.com/album/146CH0SqStQUH3Ev5JXDXg) | 3:12 | 2025-02-06 |  |
 | [Sex Drugs Energie](https://open.spotify.com/track/6aB7mV6RHoshGo2ExvoRVQ) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Sex Drugs Energie](https://open.spotify.com/album/2oesdWZzEYr7AE2jsLyjTe) | 2:32 | 2023-11-10 | 2024-09-26 |
+| [Shades Of Gray](https://open.spotify.com/track/5jakKyB7OiOSPyTrbypdpm) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx), [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Shades Of Gray](https://open.spotify.com/album/7DI6EfquW5vUuYWuav9mlU) | 3:00 | 2025-03-20 |  |
 | [Shake It](https://open.spotify.com/track/5N0p6vaK1JC1C6T6raVb8w) | [BUTTER](https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO) | [Shake It](https://open.spotify.com/album/6gp0nJjztF78rwtevKwrIO) | 2:11 | 2024-05-17 | 2024-10-11 |
 | [Shake That](https://open.spotify.com/track/6aocwgz3VqX859yR3JpJHB) | [Icarix](https://open.spotify.com/artist/0MxIuhSYO3ek7VTPsOcbcr) | [Shake That](https://open.spotify.com/album/2JPj1NO7EsNb1TeHYOMbs9) | 2:41 | 2025-01-10 |  |
 | [Shake Up](https://open.spotify.com/track/1tulU8DFdHEksNdp2k9rkr) | [B/AN/K](https://open.spotify.com/artist/0KenGC6rx5erjBNitrfJNu) | [Shake Up](https://open.spotify.com/album/7eFRMHd0mbSo3KeKN4VPkA) | 3:52 | 2024-11-29 | 2025-01-09 |
@@ -837,6 +839,7 @@
 | [The Rhythm](https://open.spotify.com/track/5XOwgvuIpCqCIMnL1sbTB8) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [The Rhythm](https://open.spotify.com/album/67ZkHThH8dM6Yt3vaU4SaZ) | 2:32 | 2025-01-16 |  |
 | [The Rhythm](https://open.spotify.com/track/04KlP6jVpk4lbOnBCPKUlg) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [The Rhythm](https://open.spotify.com/album/2kYXFfxK4k5IRtVWiUHug2) | 2:47 | 2023-11-10 | 2025-01-09 |
 | [The Rhythm](https://open.spotify.com/track/00nvluAXKcXmdr4z8HsbHP) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [The Rhythm](https://open.spotify.com/album/5Uvfmx3R1O88Bt6DdZ5ll2) | 3:03 | 2023-05-01 | 2023-05-24 |
+| [The Rhythm](https://open.spotify.com/track/2MYSnX6Nqld1zRjZNxYNmC) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [The Rhythm](https://open.spotify.com/album/49KprVMw2TsJ7mPOGak3s3) | 3:32 | 2025-03-20 |  |
 | [The Smile You Wear](https://open.spotify.com/track/37XyLHVXoQsZjEQZYDH2qm) | [Will Vance](https://open.spotify.com/artist/0v21AnGRs4ESeZQTc8VWL4), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [The Smile You Wear](https://open.spotify.com/album/41UFArRozcIvFZrwGlOvxW) | 5:43 | 2024-12-05 |  |
 | [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc) | 3:05 | 2024-12-05 |  |
 | [The Stutter](https://open.spotify.com/track/6TIZPCn9PQ9kmfK4SbhIKS) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [The Stutter](https://open.spotify.com/album/77Q9sOBlstkdIyA2gmNbv4) | 3:27 | 2023-07-08 | 2023-07-14 |

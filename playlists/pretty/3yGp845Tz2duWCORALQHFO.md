@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,025 likes - 86 songs - 4 hr 37 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,030 likes - 86 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 25 | [Body Rock](https://open.spotify.com/track/3J5xphvGkNLXBGrCvYWZ79) | [Mark II](https://open.spotify.com/artist/1cmenhh53C5UVyUOlzJ6qy) | [Body Rock](https://open.spotify.com/album/4VLhUDOkhUIxIcXd1FPZBU) | 2:47 |
 | 26 | [Game Over](https://open.spotify.com/track/20xiTMZUHTNiBSvyQ7PKOZ) | [R3ND](https://open.spotify.com/artist/3kzkwE5OSH8L50iHuHc6KF) | [Game Over](https://open.spotify.com/album/3M0pQBDn0ndX5OUOsPgw1t) | 2:21 |
 | 27 | [Create Yourself](https://open.spotify.com/track/3wLUS5VEFWwaK5AIxogxq2) | [Wafflecöne](https://open.spotify.com/artist/23Dew9ej0vuV9wVRxx7k3x) | [Create Yourself](https://open.spotify.com/album/7tMgzo9jvWyCo5uMzpXrPG) | 3:28 |
-| 28 | [YEAH](https://open.spotify.com/track/2qlqMa0e422LZyGw1J5for) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [YEAH](https://open.spotify.com/album/3reHnBJbOMrlymwkwYqtEH) | 2:28 |
+| 28 | [YEAH](https://open.spotify.com/track/2qlqMa0e422LZyGw1J5for) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Dimitri Vegas](https://open.spotify.com/artist/1qLXGRECOX3cqGYyQ4Ldpw) | [YEAH](https://open.spotify.com/album/3reHnBJbOMrlymwkwYqtEH) | 2:21 |
 | 29 | [Say My Name](https://open.spotify.com/track/4tIMdH3mXwtdNheYrm6lah) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Say My Name](https://open.spotify.com/album/2CBDCccwib8dlgkcKfpuEF) | 2:36 |
 | 30 | [Drama Kid](https://open.spotify.com/track/3dE3L1ynRZoqXhQz1Y5uqg) | [Tomcraft](https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp) | [Drama Kid](https://open.spotify.com/album/5lyPr1P33XLtmvrA9Fj8Ar) | 2:53 |
 | 31 | [Afterlife](https://open.spotify.com/track/6WBUjjJfJfCuAw2QKrduFv) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [Afterlife](https://open.spotify.com/album/7I7CPbDYjhgk6wuecUzxwJ) | 3:41 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Gaia",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Emanuele Aloia",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -118,6 +118,24 @@
       "duration_ms": 186000,
       "name": "26 modi",
       "url": "https://open.spotify.com/track/3E7QmXDtooIiTwERTy9mQU"
+    },
+    {
+      "album": {
+        "name": "2Sconosciuti",
+        "url": "https://open.spotify.com/album/7hl74k0WBGe4j0jYSQwn6J"
+      },
+      "artists": [
+        {
+          "name": "LYSA",
+          "url": "https://open.spotify.com/artist/1KcTkBvL86LqPDfxwHrTA5"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213500,
+      "name": "2Sconosciuti",
+      "url": "https://open.spotify.com/track/6BRSkQDqNWkAT3YjVtYp6n"
     },
     {
       "album": {
@@ -1716,7 +1734,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 198000,
       "name": "CAPOLAVORO",
       "url": "https://open.spotify.com/track/0UoPFBZ7t9uFCm9Psc3QCR"
@@ -2208,6 +2226,24 @@
       "duration_ms": 180184,
       "name": "Ci pensiamo domani",
       "url": "https://open.spotify.com/track/3xee23Fj4m6DVu9UrWX5Up"
+    },
+    {
+      "album": {
+        "name": "Ci siamo fatti male",
+        "url": "https://open.spotify.com/album/4mBTQIqHmeNUVMLypukh58"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170095,
+      "name": "Ci siamo fatti male",
+      "url": "https://open.spotify.com/track/4G1z4u0k5vMzR5hty607W4"
     },
     {
       "album": {
@@ -4727,6 +4763,28 @@
     },
     {
       "album": {
+        "name": "Il bello del niente",
+        "url": "https://open.spotify.com/album/4noe38hcZ5N37MiP6dYowQ"
+      },
+      "artists": [
+        {
+          "name": "Mose",
+          "url": "https://open.spotify.com/artist/6MxxMir5Ey3h9QxsGDfg4L"
+        },
+        {
+          "name": "OM\u00c4R",
+          "url": "https://open.spotify.com/artist/3YJB9JpmNTmIcCd8RbLWuS"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173181,
+      "name": "Il bello del niente",
+      "url": "https://open.spotify.com/track/7kznHMvmTpzizemzeeu05o"
+    },
+    {
+      "album": {
         "name": "IL BENE NEL MALE",
         "url": "https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ"
       },
@@ -5897,6 +5955,24 @@
     },
     {
       "album": {
+        "name": "L\u2019ANTIDOTO",
+        "url": "https://open.spotify.com/album/7kcfPADNgBevXaUV3H9u4Q"
+      },
+      "artists": [
+        {
+          "name": "Mida",
+          "url": "https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148453,
+      "name": "L\u2019ANTIDOTO",
+      "url": "https://open.spotify.com/track/3LoF82vdIovbNRhhye7MVu"
+    },
+    {
+      "album": {
         "name": "MA CHE IDEA (feat. Pino D'Angi\u00f2)",
         "url": "https://open.spotify.com/album/0j4VujrvdWsDMO4b1jQFzI"
       },
@@ -6684,7 +6760,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 137624,
       "name": "MILANO BRINDISI",
       "url": "https://open.spotify.com/track/2knsHJeCS7mdMc6Tx1AUFi"
@@ -6746,6 +6822,24 @@
       "duration_ms": 173416,
       "name": "Mille Notti",
       "url": "https://open.spotify.com/track/0Jp5rqBHsyyAtNrjCodjDj"
+    },
+    {
+      "album": {
+        "name": "Mille Risse",
+        "url": "https://open.spotify.com/album/7swYsL0AYLgkSyCpXGIQ4K"
+      },
+      "artists": [
+        {
+          "name": "Seltsam",
+          "url": "https://open.spotify.com/artist/0stiPQBq14QBNQ1Uc8778V"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162573,
+      "name": "Mille Risse",
+      "url": "https://open.spotify.com/track/0HyP021OfM03b5cPn2Ql3m"
     },
     {
       "album": {
@@ -7054,6 +7148,24 @@
       "duration_ms": 166214,
       "name": "Niente da perdere",
       "url": "https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5"
+    },
+    {
+      "album": {
+        "name": "NISCIUN MAJE",
+        "url": "https://open.spotify.com/album/1VqjRPngzUlFFtAia261PM"
+      },
+      "artists": [
+        {
+          "name": "Dedd\u00e8",
+          "url": "https://open.spotify.com/artist/2OmKywuhryo2wruvLjcocI"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160512,
+      "name": "NISCIUN MAJE",
+      "url": "https://open.spotify.com/track/75Kc10jLJPyHWdjH4k61rP"
     },
     {
       "album": {
@@ -7776,6 +7888,24 @@
       "duration_ms": 195000,
       "name": "Ogni Volta Che Ti Penso",
       "url": "https://open.spotify.com/track/7rOLgYuO5vBxVCWITRTJyP"
+    },
+    {
+      "album": {
+        "name": "Oh Mama",
+        "url": "https://open.spotify.com/album/1BJ7G0QlO1uepYjWzPZB6T"
+      },
+      "artists": [
+        {
+          "name": "CIL",
+          "url": "https://open.spotify.com/artist/6mt0m8Ugh2vjYBbMJEo5PJ"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162386,
+      "name": "Oh Mama",
+      "url": "https://open.spotify.com/track/5M2gnGO51dn5nnQUj7lfLr"
     },
     {
       "album": {
@@ -8678,7 +8808,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 188270,
       "name": "polvere sui graffiti",
       "url": "https://open.spotify.com/track/1AMYGediPicuuTc5NLtaDZ"

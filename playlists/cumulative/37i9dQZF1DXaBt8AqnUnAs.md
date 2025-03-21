@@ -4,7 +4,7 @@
 
 > aqueles papo de amor tlgd não?
 
-649 songs - 1 day 7 hr 39 min
+650 songs - 1 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Fanfic](https://open.spotify.com/track/16Ir3dL5UWiWZLoHLteDGu) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Laura Sette](https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Fanfic](https://open.spotify.com/album/3NkH1qv483kYFZRTilS6IC) | 2:44 | 2024-01-26 | 2024-03-23 |
 | [FANFIC](https://open.spotify.com/track/0468vx9SCE18yxtWyYKM6r) | [NN3RD](https://open.spotify.com/artist/1Z03arRtzZ9BC49yiCQ839), [SaraH](https://open.spotify.com/artist/3NkF2WYP1E10LDHlukuLbW), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [FANFIC](https://open.spotify.com/album/43fGjj9DLiuS7DUdbNldc8) | 2:26 | 2023-02-17 | 2023-03-11 |
 | [Farsante](https://open.spotify.com/track/7vNJ1h8VPDNGB5v7XJZcdk) | [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC), [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4) | [Farsante](https://open.spotify.com/album/2bLU9ba3qd6WtY4Cv5nB7t) | 2:01 | 2024-02-09 | 2024-02-17 |
+| [Fases](https://open.spotify.com/track/1oq5Gk7m0r3kRzOoh6GUOA) | [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Andressinha](https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al) | [Fases](https://open.spotify.com/album/36R1fAVyOsz8ockmiJVv1o) | 3:19 | 2025-03-21 |  |
 | [Faz Tempo](https://open.spotify.com/track/1h377jjzCyoi9v6xv5pyW1) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Ago de Souza](https://open.spotify.com/artist/3GFtfrjtBet1N3RIN9Fmqk), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Faz Tempo](https://open.spotify.com/album/3n6SL169uRnKgHr8hfw9Ih) | 3:29 | 2022-10-28 | 2022-11-12 |
 | [Faço Com Vontade Amor](https://open.spotify.com/track/0tau87KGvLrRu2U9I7UH2E) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt), [Léo da Bodega](https://open.spotify.com/artist/1CCSimZ4o0yIv6v7iQAh0g) | [Faço Com Vontade Amor](https://open.spotify.com/album/0aFTO9sYGXRwuLoULUfI1K) | 1:57 | 2023-01-13 | 2023-01-21 |
 | [Feiticeira](https://open.spotify.com/track/7hKxP5dRvcaOUvQd9Prawq) | [Atlas](https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [MeLodee](https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj) | [Feiticeira](https://open.spotify.com/album/1EgymkpyNeHr7yZC167uMi) | 3:53 | 2024-04-26 | 2024-06-22 |

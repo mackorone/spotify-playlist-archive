@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Wegh x Keskin",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Modd x Aksan ",
   "name": "NKVT",
   "tracks": [
     {
@@ -944,7 +944,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 133155,
       "name": "A\u011fla",
       "url": "https://open.spotify.com/track/4qJ5KHEJdcp5niEPWOnTyU"
@@ -3658,7 +3658,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 145000,
       "name": "Gerekirse",
       "url": "https://open.spotify.com/track/4lomdiBZvpDEYgLas3IJQH"
@@ -5018,7 +5018,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 180000,
       "name": "\u0130LELEBET",
       "url": "https://open.spotify.com/track/1HdK3DBo7VFa5A0ZIzs3gj"
@@ -6073,6 +6073,24 @@
     },
     {
       "album": {
+        "name": "Ki\u015fisel Veriler",
+        "url": "https://open.spotify.com/album/7o4rKX6ukLTt9HVhW2R23I"
+      },
+      "artists": [
+        {
+          "name": "Rota",
+          "url": "https://open.spotify.com/artist/4m53kPdPFJpnF0qcJqfwNB"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444782,
+      "name": "Ki\u015fisel Veriler",
+      "url": "https://open.spotify.com/track/3mONcSpkaoz6WkH51M5eFY"
+    },
+    {
+      "album": {
         "name": "K\u0130ME G\u00d6RE NEYE G\u00d6RE",
         "url": "https://open.spotify.com/album/1Cr0yUXEmd035B6HaJyu9w"
       },
@@ -6438,6 +6456,28 @@
       "duration_ms": 171147,
       "name": "K\u00dcL",
       "url": "https://open.spotify.com/track/5APeJmSITQTYuDJsVFETKY"
+    },
+    {
+      "album": {
+        "name": "K\u00dcLLER\u0130NDEN DO\u011e",
+        "url": "https://open.spotify.com/album/6UyEf9Sah40B2EYjo1HuPF"
+      },
+      "artists": [
+        {
+          "name": "An\u0131l Piyanc\u0131",
+          "url": "https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae"
+        },
+        {
+          "name": "Colt NS",
+          "url": "https://open.spotify.com/artist/5LwtZHjbGBwDx83IwoV2fI"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150927,
+      "name": "K\u00dcLLER\u0130NDEN DO\u011e",
+      "url": "https://open.spotify.com/track/4ODG4ls5YFjiB2AWHrHxd6"
     },
     {
       "album": {
@@ -7253,6 +7293,24 @@
     },
     {
       "album": {
+        "name": "merhem",
+        "url": "https://open.spotify.com/album/6E9HtAQ6oD7J4wcibItPm7"
+      },
+      "artists": [
+        {
+          "name": "\u0130mpala",
+          "url": "https://open.spotify.com/artist/2s26tvcj8lfuOFfrIl8APF"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167360,
+      "name": "merhem",
+      "url": "https://open.spotify.com/track/3yn6FNPc3X9IuxMuZ1pZI3"
+    },
+    {
+      "album": {
         "name": "MERVE (Masada Chivas)",
         "url": "https://open.spotify.com/album/6Q21JmmA4ohsWT4GcZfq2z"
       },
@@ -7460,7 +7518,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 178967,
       "name": "M\u0131rrm\u0131rr",
       "url": "https://open.spotify.com/track/0y0Cpis5Eh9hL7VTgjxBEL"
@@ -9238,7 +9296,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 169884,
       "name": "Sar\u0131\u015f\u0131nlar \u00c7at \u00c7at",
       "url": "https://open.spotify.com/track/1Ns3b1dRVpwTjrL85vb1SV"
@@ -9896,6 +9954,32 @@
       "duration_ms": 147999,
       "name": "Sor Bize",
       "url": "https://open.spotify.com/track/5CaBkfl4rSKlXm91PZkNUV"
+    },
+    {
+      "album": {
+        "name": "Sorma",
+        "url": "https://open.spotify.com/album/4ZVwAlhKd1BInBEZgl5nbx"
+      },
+      "artists": [
+        {
+          "name": "ERAY067",
+          "url": "https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT"
+        },
+        {
+          "name": "Mansur",
+          "url": "https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm"
+        },
+        {
+          "name": "Organize",
+          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129474,
+      "name": "Sorma",
+      "url": "https://open.spotify.com/track/4MuGAGUqSlLeSiqorleqlm"
     },
     {
       "album": {
@@ -10558,6 +10642,36 @@
       "duration_ms": 123341,
       "name": "Ucubeler",
       "url": "https://open.spotify.com/track/0MzO6ISeqQsHCSEtyzck2m"
+    },
+    {
+      "album": {
+        "name": "Underrated",
+        "url": "https://open.spotify.com/album/3312EVA6CqDfOC6Dp7vNmO"
+      },
+      "artists": [
+        {
+          "name": "Aksan",
+          "url": "https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK"
+        },
+        {
+          "name": "Modd",
+          "url": "https://open.spotify.com/artist/3nJwTniwCxDrgoVKeqIWoT"
+        },
+        {
+          "name": "Mavi",
+          "url": "https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED"
+        },
+        {
+          "name": "TRAP ZONE",
+          "url": "https://open.spotify.com/artist/2Rf5bF15wJxPz4LQatGKSt"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Underrated",
+      "url": "https://open.spotify.com/track/4zO0OhG0WcOLqqYCNf1ZUy"
     },
     {
       "album": {
@@ -11404,7 +11518,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 129604,
       "name": "\u00c7avo",
       "url": "https://open.spotify.com/track/7ucHmf5RiJBCYnAA5rRWf5"
@@ -11734,6 +11848,24 @@
       "duration_ms": 177999,
       "name": "\u015eimdi De\u011filse Ne Zaman?",
       "url": "https://open.spotify.com/track/4ImVHwW75uD99O4UHVdYTW"
+    },
+    {
+      "album": {
+        "name": "\u015e\u00dcK\u00dcR K\u0130 DEL\u0130RMED\u0130M",
+        "url": "https://open.spotify.com/album/1O2zX3ZDEZYU4LcqPik6VQ"
+      },
+      "artists": [
+        {
+          "name": "Poizi",
+          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115862,
+      "name": "\u015e\u00dcK\u00dcR K\u0130 DEL\u0130RMED\u0130M",
+      "url": "https://open.spotify.com/track/3Virp8bdmG2T0KVJrHwyWH"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdnOj1VEuhgb"

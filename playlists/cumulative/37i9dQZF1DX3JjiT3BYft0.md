@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series!
 
-437 songs - 1 day 7 hr 23 min
+439 songs - 1 day 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A DECLARATION OF ×××](https://open.spotify.com/track/36hzInQxdEAYvuGYDck85k) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [A DECLARATION OF ×××](https://open.spotify.com/album/6I9fsaIls8q8daqfyf38Qo) | 5:16 | 2022-06-23 | 2024-06-13 |
 | [A Distant Heartbeat](https://open.spotify.com/track/01hHmEBYk9oQClRa6A81HC) | [山吹沙綾\(CV.大橋彩香\)](https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy) | [A Distant Heartbeat](https://open.spotify.com/album/1tZtuwJ2Onp8AnRWR2LQjR) | 4:00 | 2022-06-23 | 2022-10-02 |
 | [A Song No More](https://open.spotify.com/track/1uNjQwidSPSjPRAfh6JJBE) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Live Beyond!!](https://open.spotify.com/album/2z1EdXW0K0ZYY7W9Q3fsSS) | 4:37 | 2022-06-23 | 2022-08-31 |
+| [again \(Cover\)](https://open.spotify.com/track/1XcLPGyxMot60hADZtKBHf) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [again \(Cover\)](https://open.spotify.com/album/4xAd44IfzQo8QcAg7zc1Bo) | 4:10 | 2025-03-20 |  |
 | [Apocalypse](https://open.spotify.com/track/4kxnkGIfIpf6VzHehCDE0E) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Apocalypse](https://open.spotify.com/album/36omAKlaZpoqCw7P3aIe2d) | 4:12 | 2023-09-21 |  |
 | [Avant\-garde HISTORY](https://open.spotify.com/track/5SXRtIcYo4kaDgRyD54mZP) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/6nk5SUZlraHzpwIPUFdI84) | 5:05 | 2022-05-17 | 2022-07-22 |
 | [B.O.F](https://open.spotify.com/track/132AFM2tn4rgQyGWplFpJf) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin'on!](https://open.spotify.com/album/7uZ57BtKr2QWlsxC4T7fyH) | 3:38 | 2022-05-17 | 2022-07-28 |
@@ -163,6 +164,7 @@
 | [Repaint](https://open.spotify.com/track/4ONakL7VOgMug2YNLLlg2i) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Repaint](https://open.spotify.com/album/0HBfHvwN912Vr7ggTW2PFP) | 3:53 | 2022-05-17 | 2022-07-28 |
 | [Returns](https://open.spotify.com/track/3V8PvJTL3QUenvsUHcNFj1) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/31WVyzxbAYQTeduFneMNi3) | 5:23 | 2022-09-20 | 2024-04-19 |
 | [Returns](https://open.spotify.com/track/3U8CdxyJKZNYUrvC9NL1Xw) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Dreamers Go!/Returns](https://open.spotify.com/album/1G4nNcQeB7NO6eQs2uzPpx) | 5:24 | 2022-05-17 | 2022-07-27 |
+| [Reweave \(Cover\)](https://open.spotify.com/track/7j0LoiDsRptCUwZJ91a3MK) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Reweave \(Cover\)](https://open.spotify.com/album/0jIRwiginvcki1AaOU6ZXF) | 3:58 | 2025-03-20 |  |
 | [RiNG A BELL](https://open.spotify.com/track/2xNrU2Ne7SZzjml72BSTtM) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [青春 To Be Continued](https://open.spotify.com/album/5WnJBXSLn9YsyCnUDrmrbd) | 4:21 | 2024-03-23 | 2024-07-17 |
 | [Ringing Bloom](https://open.spotify.com/track/47lKHyMERKqbCwYVw4ytTz) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [FIRE BIRD](https://open.spotify.com/album/47gXlcUI10HgzKjkEfe69o) | 5:34 | 2022-09-20 | 2024-04-19 |
 | [Ringing Bloom](https://open.spotify.com/track/3W7VUMkniIiLfPsc0fdLHW) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [FIRE BIRD](https://open.spotify.com/album/2rkv0Q1Yn6raeCuk9U4ta5) | 5:34 | 2022-05-17 | 2022-07-23 |
@@ -213,7 +215,7 @@
 | [Symbol IV : Earth](https://open.spotify.com/track/0k7IpY0imMYMfZtZ49tQA5) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 3:59 | 2024-11-28 |  |
 | [Symbol IV : Earth](https://open.spotify.com/track/6kbss4tmwNu4bYrAfpR51J) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [Symbol IV : Earth](https://open.spotify.com/album/5nw2QyglfMgxWyVD6AS2aw) | 3:59 | 2024-07-09 | 2025-02-05 |
 | [Takin' my Heart](https://open.spotify.com/track/47tG1WSeUrz0aEKFoTbxc6) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Invincible Fighter](https://open.spotify.com/album/2etZzaMSi3pY0SISeNziWA) | 4:46 | 2022-06-23 | 2022-06-26 |
-| [TARINAI](https://open.spotify.com/track/4kavcMChpnGmqRTNsRb8nK) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [TARINAI/トレモロアイズ](https://open.spotify.com/album/2lJJRahLBKTvBUSdJvRG8I) | 3:39 | 2024-07-16 |  |
+| [TARINAI](https://open.spotify.com/track/4kavcMChpnGmqRTNsRb8nK) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [TARINAI/トレモロアイズ](https://open.spotify.com/album/2lJJRahLBKTvBUSdJvRG8I) | 3:39 | 2024-07-16 | 2025-03-21 |
 | [Tear Drops](https://open.spotify.com/track/7aPl1DIA0XeMu9yqXNUOH8) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin'on!](https://open.spotify.com/album/1rSxXBi23B1LXH01IdMITL) | 3:38 | 2022-06-23 | 2022-10-02 |
 | [That is How I Roll!](https://open.spotify.com/track/2rUfkE2dKqc3x4Rk0B25nO) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2CXi2Ys7mgFksGB1vb2FOn) | 3:59 | 2022-06-23 | 2022-06-30 |
 | [That Is How I Roll!](https://open.spotify.com/track/2Kuv5okNDlV19y81tkiqdp) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [That Is How I Roll!](https://open.spotify.com/album/1S6QsRtMbeb3p5JFO7zhKc) | 3:59 | 2022-05-17 | 2022-06-25 |
@@ -257,7 +259,7 @@
 | [えがお・シング・あ・ソング](https://open.spotify.com/track/7tjr6flf3J84xAWMVioGPX) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [えがお・シング・あ・ソング](https://open.spotify.com/album/3Wv3E9CGqGqSCIf4Fpn6jf) | 4:09 | 2022-05-17 | 2022-07-22 |
 | [えがお･シング･あ･ソング](https://open.spotify.com/track/19ejmhBUzhgVoX8W9bMK8S) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと！](https://open.spotify.com/album/131kJsxIA8QV6mWqGCvOzK) | 4:09 | 2022-09-20 | 2024-04-19 |
 | [おもいでイルミネーション](https://open.spotify.com/track/7qwcN9x7L6ZhkqstCXIpjK) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこ×にこ=ハイパースマイルパワー!](https://open.spotify.com/album/5UenLEIt08bBiAFzwL9Yk3) | 4:14 | 2022-06-23 | 2024-10-05 |
-| [かくれんぼ \- Cover](https://open.spotify.com/track/74KEa2YphxxbDhOOjCG7O8) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [かくれんぼ \(Cover\)](https://open.spotify.com/album/2sOL3Skidcw9TXJeM3chRi) | 4:58 | 2024-03-23 |  |
+| [かくれんぼ \- Cover](https://open.spotify.com/track/74KEa2YphxxbDhOOjCG7O8) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [かくれんぼ \(Cover\)](https://open.spotify.com/album/2sOL3Skidcw9TXJeM3chRi) | 4:58 | 2024-03-23 | 2025-03-21 |
 | [きゅ\~まい\*flower](https://open.spotify.com/track/659EbdMtrJVXdQN13bgVRt) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/40dDOmQivDb9fIraBn82i5) | 3:39 | 2022-08-30 | 2022-10-02 |
 | [きゅ〜まい\*flower](https://open.spotify.com/track/09VlBUV2bN1Hk8KtXD59HS) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [きゅ〜まい\*flower](https://open.spotify.com/album/0hHVUOsumXqR5YJ9ueTcgx) | 3:39 | 2022-06-23 | 2022-07-28 |
 | [きゅうくらりん \- Cover](https://open.spotify.com/track/5a1c3xsbunuS8ybfIdu1Io) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [きゅうくらりん \(Cover\)](https://open.spotify.com/album/7696xeXqso99cXbV3CfgZV) | 3:34 | 2024-03-23 |  |

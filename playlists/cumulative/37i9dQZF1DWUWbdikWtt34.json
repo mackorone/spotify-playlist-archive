@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Maulana Ardiansyah",
+  "description": "Dendang Dangdut teratas. Cover: Wika Salim, Danang",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -802,7 +802,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 244615,
       "name": "Cuma Kamu",
       "url": "https://open.spotify.com/track/2QnaLtjWrC4UMMVU6IspOo"
@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 282991,
       "name": "Hatiku Beku",
       "url": "https://open.spotify.com/track/2jiwjWWBlVx6GoOTg6h4BG"
@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 261893,
       "name": "Kau Tercipta Bukan Untukku",
       "url": "https://open.spotify.com/track/2q9f86CdlaXOr6vD3HJK6R"
@@ -2033,6 +2033,24 @@
     },
     {
       "album": {
+        "name": "Lebaran Bersama",
+        "url": "https://open.spotify.com/album/3KvAuBjmJdCxO7dbrY0F0c"
+      },
+      "artists": [
+        {
+          "name": "Selfi Nafilah",
+          "url": "https://open.spotify.com/artist/2F2mHioIXqRHN1P21llg9d"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230943,
+      "name": "Lebaran Bersama",
+      "url": "https://open.spotify.com/track/024MRDt7PtZBM5VIZZTOR1"
+    },
+    {
+      "album": {
         "name": "Lumpur Dan Berlian",
         "url": "https://open.spotify.com/album/2EfELScnQu5NNCo4dlfZEm"
       },
@@ -2200,6 +2218,28 @@
       "duration_ms": 293538,
       "name": "Matematika Cinta",
       "url": "https://open.spotify.com/track/2qHc1g7cWJwvSzIK7NqFtw"
+    },
+    {
+      "album": {
+        "name": "Memandangmu",
+        "url": "https://open.spotify.com/album/6MzfZ9RzjxnbYO1S3RhvW1"
+      },
+      "artists": [
+        {
+          "name": "Wika Salim",
+          "url": "https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q"
+        },
+        {
+          "name": "Danang",
+          "url": "https://open.spotify.com/artist/5m5iTd6Xa4fITHqaN8d6eG"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305945,
+      "name": "Memandangmu",
+      "url": "https://open.spotify.com/track/2rbRJydS6cK2TYDDHgTYG2"
     },
     {
       "album": {
@@ -2742,7 +2782,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 308571,
       "name": "Pasrah",
       "url": "https://open.spotify.com/track/5PjYZaJLP6g0iZJq7xWlLb"

@@ -4889,6 +4889,24 @@
     },
     {
       "album": {
+        "name": "Hello Heaven, Hello",
+        "url": "https://open.spotify.com/album/5YLk7hXivQWJezkRnWEfbH"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 546385,
+      "name": "Hello Heaven, Hello",
+      "url": "https://open.spotify.com/track/2jUcuBOT2eoBnoMBTM4L1i"
+    },
+    {
+      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/2X7ThRYFzSoTvhYyImTEiP"
       },
@@ -6842,7 +6860,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 218800,
       "name": "Make Up Your Mind",
       "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
@@ -9848,6 +9866,24 @@
       "duration_ms": 162516,
       "name": "SKIN OF MY TEETH",
       "url": "https://open.spotify.com/track/1O9AseW10CTi6nBLoj0O6K"
+    },
+    {
+      "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/7tXUV3CaJ7BGXQbsVGFayY"
+      },
+      "artists": [
+        {
+          "name": "Slot Machine",
+          "url": "https://open.spotify.com/artist/6TNTFjkJA8PhP16Ds7CZnz"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202651,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/3MNGwbMzdI8j0ETbtzqvDl"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 8720,
+  "num_followers": 8727,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9i3gAAAAADSMR3AlBMrABrxG5wRAUf2",
+  "snapshot_id": "Z9oJAAAAAABzLTth4Ge0mvdWsgQTohuV",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beyond the Lights (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/17UmRH4jCFTlpSdSWCOooV"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "Fly Before You Fall",
+      "url": "https://open.spotify.com/track/4ifnF552GdodBaOmdSOUP2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Freedom - EP",
         "url": "https://open.spotify.com/album/32z9IUjENPdO1FZlgN0t8J"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 229053,
       "name": "Alright",
       "url": "https://open.spotify.com/track/6oFsUGtEpV7qZGyYpQGtJe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beyond the Lights (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/17UmRH4jCFTlpSdSWCOooV"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "Fly Before You Fall",
-      "url": "https://open.spotify.com/track/4ifnF552GdodBaOmdSOUP2"
     },
     {
       "added_at": null,
@@ -776,17 +776,25 @@
       },
       "artists": [
         {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Joaquina Kalukango",
+          "url": "https://open.spotify.com/artist/0QcsX0a3SZO3F61Thbx1jb"
+        },
+        {
           "name": "Isaiah Johnson",
           "url": "https://open.spotify.com/artist/7MYNM3h4lEjuKcOqiqNVhB"
         },
         {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+          "name": "Kevyn Morrow",
+          "url": "https://open.spotify.com/artist/1MjW1SNPKPd5gyt7JpK7z3"
         }
       ],
-      "duration_ms": 162468,
-      "name": "Big Dog",
-      "url": "https://open.spotify.com/track/6TSIuLcb2iuuaCO84h7JoI"
+      "duration_ms": 278309,
+      "name": "Our Prayer",
+      "url": "https://open.spotify.com/track/6BmnVvND7DHAZs5SgzRPF3"
     },
     {
       "added_at": null,
@@ -800,17 +808,13 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         },
         {
-          "name": "Oliver Tompsett",
-          "url": "https://open.spotify.com/artist/10uOf0MNfjh90mGfD1bS6Q"
-        },
-        {
           "name": "Scott Alan",
           "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
         }
       ],
-      "duration_ms": 463020,
-      "name": "Always / Goodnight",
-      "url": "https://open.spotify.com/track/2lthIAIwXMyIYnEAPQfbP1"
+      "duration_ms": 296655,
+      "name": "At All",
+      "url": "https://open.spotify.com/track/4mm1OFHCY0XzldGu19L0w3"
     },
     {
       "added_at": null,
@@ -868,13 +872,17 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         },
         {
+          "name": "Oliver Tompsett",
+          "url": "https://open.spotify.com/artist/10uOf0MNfjh90mGfD1bS6Q"
+        },
+        {
           "name": "Scott Alan",
           "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
         }
       ],
-      "duration_ms": 296655,
-      "name": "At All",
-      "url": "https://open.spotify.com/track/4mm1OFHCY0XzldGu19L0w3"
+      "duration_ms": 463020,
+      "name": "Always / Goodnight",
+      "url": "https://open.spotify.com/track/2lthIAIwXMyIYnEAPQfbP1"
     },
     {
       "added_at": null,

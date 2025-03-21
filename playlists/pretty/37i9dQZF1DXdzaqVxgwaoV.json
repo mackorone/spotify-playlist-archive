@@ -1,6 +1,6 @@
 {
   "description": "Los temas que prenden las fiestas navide\u00f1as y de fin de a\u00f1o en Colombia. Foto: Pastor L\u00f3pez",
-  "num_followers": 128553,
+  "num_followers": 128538,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
@@ -559,26 +559,6 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Listos para Bailar",
-        "url": "https://open.spotify.com/album/6fxDh3ZygNQVsqNvnj6oYM"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "Los Hispanos",
-          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
-        }
-      ],
-      "duration_ms": 226730,
-      "name": "Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/7t13B1tMcF74fp7fYYVcud"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
         "name": "Volando Alto",
         "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 280783,
       "name": "Un Solo Cuerpo",
       "url": "https://open.spotify.com/track/4O2h7M3LF9jYoVSuDh8E23"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "Listos para Bailar",
+        "url": "https://open.spotify.com/album/6fxDh3ZygNQVsqNvnj6oYM"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "Los Hispanos",
+          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
+        }
+      ],
+      "duration_ms": 226730,
+      "name": "Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/7t13B1tMcF74fp7fYYVcud"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
+        "name": "Rey Sabanero",
+        "url": "https://open.spotify.com/album/2iMA5QGP10Na8Oyc6wrroE"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
+        }
+      ],
+      "duration_ms": 231890,
+      "name": "Entre Rejas",
+      "url": "https://open.spotify.com/track/3H6Vg08qdNZIMSjGdUg2y6"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
         "name": "Muy Tropical y Bailable",
         "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 242918,
       "name": "Tabaco y Ron",
       "url": "https://open.spotify.com/track/0yR6g8tt0IzisAPcizD4xz"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
-        "name": "Rey Sabanero",
-        "url": "https://open.spotify.com/album/2iMA5QGP10Na8Oyc6wrroE"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Meza",
-          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
-        }
-      ],
-      "duration_ms": 231890,
-      "name": "Entre Rejas",
-      "url": "https://open.spotify.com/track/3H6Vg08qdNZIMSjGdUg2y6"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -879,18 +879,22 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Rey Sabanero",
-        "url": "https://open.spotify.com/album/2iMA5QGP10Na8Oyc6wrroE"
+        "name": "Muy Tropical y Bailable",
+        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
       },
       "artists": [
         {
-          "name": "Lisandro Meza",
-          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
         }
       ],
-      "duration_ms": 252980,
-      "name": "Te Llevar\u00e9",
-      "url": "https://open.spotify.com/track/4ZD2ePc9gUJM7DokbfPzku"
+      "duration_ms": 220354,
+      "name": "Ojitos Hechiceros",
+      "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -911,22 +915,18 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Muy Tropical y Bailable",
-        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
+        "name": "Rey Sabanero",
+        "url": "https://open.spotify.com/album/2iMA5QGP10Na8Oyc6wrroE"
       },
       "artists": [
         {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
         }
       ],
-      "duration_ms": 220354,
-      "name": "Ojitos Hechiceros",
-      "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
+      "duration_ms": 252980,
+      "name": "Te Llevar\u00e9",
+      "url": "https://open.spotify.com/track/4ZD2ePc9gUJM7DokbfPzku"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Homenaje a una Leyenda Viva, Vol. 1",
-        "url": "https://open.spotify.com/album/7BXMMoJdwto5cJrARGIZNX"
-      },
-      "artists": [
-        {
-          "name": "Calixto Ochoa",
-          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
-        }
-      ],
-      "duration_ms": 158727,
-      "name": "Charanga Campesina",
-      "url": "https://open.spotify.com/track/1tjFVXm886ZTNPFbF7oRZP"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
         "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 7",
         "url": "https://open.spotify.com/album/4uPNPjKnVT12mbDxMHUdzN"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 266797,
       "name": "Qu\u00e9 Har\u00e9 Sin Ti",
       "url": "https://open.spotify.com/track/2qGUuQSv0PDWe6CGz8GdcP"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "Homenaje a una Leyenda Viva, Vol. 1",
+        "url": "https://open.spotify.com/album/7BXMMoJdwto5cJrARGIZNX"
+      },
+      "artists": [
+        {
+          "name": "Calixto Ochoa",
+          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
+        }
+      ],
+      "duration_ms": 158727,
+      "name": "Charanga Campesina",
+      "url": "https://open.spotify.com/track/1tjFVXm886ZTNPFbF7oRZP"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "La Mejor M\u00fasica de Diciembre (Vol. 3)",
-        "url": "https://open.spotify.com/album/6iMrwkiFtm2tQ7gzNcseeg"
-      },
-      "artists": [
-        {
-          "name": "Edmundo Arias",
-          "url": "https://open.spotify.com/artist/7mCfIjpQPcIw3EA1K8wMyP"
-        },
-        {
-          "name": "Benetia",
-          "url": "https://open.spotify.com/artist/67mvd0i0PAOjOLPfWZW8eb"
-        }
-      ],
-      "duration_ms": 194149,
-      "name": "Cumbia del Caribe",
-      "url": "https://open.spotify.com/track/5mL1ei12nU0dmqvat2lkmZ"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
         "name": "\u00c9xitos Armando Hern\u00e1ndez",
         "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 216293,
       "name": "Qu\u00e9 Voy a Hacer Sin Ti",
       "url": "https://open.spotify.com/track/4ZYLYXiGPem5KpWhKwucjr"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "La Mejor M\u00fasica de Diciembre (Vol. 3)",
+        "url": "https://open.spotify.com/album/6iMrwkiFtm2tQ7gzNcseeg"
+      },
+      "artists": [
+        {
+          "name": "Edmundo Arias",
+          "url": "https://open.spotify.com/artist/7mCfIjpQPcIw3EA1K8wMyP"
+        },
+        {
+          "name": "Benetia",
+          "url": "https://open.spotify.com/artist/67mvd0i0PAOjOLPfWZW8eb"
+        }
+      ],
+      "duration_ms": 194149,
+      "name": "Cumbia del Caribe",
+      "url": "https://open.spotify.com/track/5mL1ei12nU0dmqvat2lkmZ"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
+        "name": "Bailables del A\u00f1o (Vol. 19)",
+        "url": "https://open.spotify.com/album/7CPqtS8EnVxhqi9vpi7AtT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cariaco",
+          "url": "https://open.spotify.com/artist/7svoDpV7jHqFXOKNMhL4Ip"
+        }
+      ],
+      "duration_ms": 226250,
+      "name": "Cuerpo a Cuerpo",
+      "url": "https://open.spotify.com/track/65V8Ylug8Z2uAHzZpyvNfR"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
         "name": "Las Que Faltaban",
         "url": "https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 274546,
       "name": "Las Cuatro Fiestas",
       "url": "https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
-        "name": "Bailables del A\u00f1o (Vol. 19)",
-        "url": "https://open.spotify.com/album/7CPqtS8EnVxhqi9vpi7AtT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Cariaco",
-          "url": "https://open.spotify.com/artist/7svoDpV7jHqFXOKNMhL4Ip"
-        }
-      ],
-      "duration_ms": 226250,
-      "name": "Cuerpo a Cuerpo",
-      "url": "https://open.spotify.com/track/65V8Ylug8Z2uAHzZpyvNfR"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
+        "name": "Los Relajos del Arriero",
+        "url": "https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8"
+      },
+      "artists": [
+        {
+          "name": "Octavio Mesa",
+          "url": "https://open.spotify.com/artist/3aVL3CqqnAdGM3p3QNBD8x"
+        }
+      ],
+      "duration_ms": 128560,
+      "name": "Con Verraquera",
+      "url": "https://open.spotify.com/track/1zbFphPJy50PP88eIpMvMc"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
         "name": "16 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 234808,
       "name": "Las Cale\u00f1as Son Como las Flores - Remix",
       "url": "https://open.spotify.com/track/0xFcZaUaMALT6mbbGYBjZo"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
-        "name": "Los Relajos del Arriero",
-        "url": "https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8"
-      },
-      "artists": [
-        {
-          "name": "Octavio Mesa",
-          "url": "https://open.spotify.com/artist/3aVL3CqqnAdGM3p3QNBD8x"
-        }
-      ],
-      "duration_ms": 128560,
-      "name": "Con Verraquera",
-      "url": "https://open.spotify.com/track/1zbFphPJy50PP88eIpMvMc"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "\u00c9poca de Oro 16 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2fbH7juIgtukbOBqEOx9eY"
-      },
-      "artists": [
-        {
-          "name": "Los Corraleros De Majagual",
-          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
-        }
-      ],
-      "duration_ms": 156655,
-      "name": "Su\u00e9ltala Pa Que Se Defienda",
-      "url": "https://open.spotify.com/track/4XI7CINm8BOsWKKanX0lIE"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
         "name": "\u00c9xitos Armando Hern\u00e1ndez",
         "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 269596,
       "name": "Te Ver\u00e9 Llorar",
       "url": "https://open.spotify.com/track/034YyZnYJ4hos9IBAYZfp8"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "\u00c9poca de Oro 16 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2fbH7juIgtukbOBqEOx9eY"
+      },
+      "artists": [
+        {
+          "name": "Los Corraleros De Majagual",
+          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
+        }
+      ],
+      "duration_ms": 156655,
+      "name": "Su\u00e9ltala Pa Que Se Defienda",
+      "url": "https://open.spotify.com/track/4XI7CINm8BOsWKKanX0lIE"
     },
     {
       "added_at": "2024-11-01 02:49:12",

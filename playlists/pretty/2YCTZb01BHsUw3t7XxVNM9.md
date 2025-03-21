@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 
 > Western orientated Hardcore Music by Japanese Artists
 
-[Panguino](https://open.spotify.com/user/megustager) - 638 likes - 490 songs - 1 day 10 hr 1 min
+[Panguino](https://open.spotify.com/user/megustager) - 638 likes - 491 songs - 1 day 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -498,5 +498,6 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 | 488 | [FLATLINE](https://open.spotify.com/track/7xNMFJEbDvaJsyRN3IChOK) | [CreepP](https://open.spotify.com/artist/66aR9RFCiVYqefIoJaUzKv), [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [FLATLINE](https://open.spotify.com/album/2bfAWaaP4dzWOu2qqIXxYS) | 3:13 |
 | 489 | [Lost in the Abyss](https://open.spotify.com/track/0OiJbU6z2vgdAilOaASNMm) | [Abyssmare](https://open.spotify.com/artist/1b1JNnumZJQBTNOY2Popqv), [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Lost in the Abyss](https://open.spotify.com/album/6YJtMkGUyeGJcKL9uyGEtX) | 2:08 |
 | 490 | [Pray for +++++](https://open.spotify.com/track/4z7hXHQ3isbT5vm5GuQaym) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Pray for +++++](https://open.spotify.com/album/4MT5hXU20ertKcjkarMGcn) | 3:54 |
+| 491 | [Still Alive \(feat\. WaMi\)](https://open.spotify.com/track/3Ap7L7YAH8Ejax4j1hgjCv) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN), [WaMi](https://open.spotify.com/artist/1qanQeBBRpAXORMg7BdCol) | [Still Alive \(feat\. WaMi\)](https://open.spotify.com/album/1JsbLzloqC4ewSj2rzvDgO) | 2:59 |
 
-Snapshot ID: `AAACSGw94/dPFgjy5Ddlg7XRv8O8RExU`
+Snapshot ID: `AAACSf6E7m/WmXbOsGRcJFTAauUBn+mn`

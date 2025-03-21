@@ -4,7 +4,7 @@
 
 > Kick on with this mix of homegrown electronic music
 
-239 songs - 14 hr 27 min
+240 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Something Real](https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Loner](https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq) | 3:49 | 2022-12-01 | 2024-04-19 |
 | [Sour Berry](https://open.spotify.com/track/2SDyTX6UVufhOds0mg2No8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Mosquito Love](https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V) | 3:15 | 2023-08-17 | 2023-10-13 |
 | [Spend It \(feat\. Circa Waves\)](https://open.spotify.com/track/0Fa39rh1TcvQlt3pLlxn7e) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Spend It \(feat\. Circa Waves\)](https://open.spotify.com/album/0tfrIsINRigH8WRsi4WJHJ) | 3:22 | 2024-02-01 | 2025-03-05 |
+| [Still The Same](https://open.spotify.com/track/3MIo7ob9Rg1XqVeRiHAQp2) | [Kinder](https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm) | [Still The Same](https://open.spotify.com/album/2aobNbBUhYIm9TB98BH2Yv) | 3:24 | 2025-03-04 |  |
 | [Strangers \(with Mansionair\)](https://open.spotify.com/track/5nBqvq3hUl8n6HtKtwNphW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Strangers \(with Mansionair\)](https://open.spotify.com/album/7n50hdKDAZWurnx43hDHhJ) | 3:37 | 2022-12-01 |  |
 | [subtle\. prod by GANZ](https://open.spotify.com/track/56yRIFUMrofh2dfIjem9DK) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [subtle\. prod by GANZ](https://open.spotify.com/album/2dpYExcFio7EoF4ITW31Et) | 1:56 | 2023-08-24 | 2023-10-27 |
 | [Sun Moon](https://open.spotify.com/track/3PdWdN2ATpRSWOsZMdChgp) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Noé](https://open.spotify.com/artist/5FoIen3mGXGHRUeKIE7ymi) | [So Far to Go](https://open.spotify.com/album/2xVOsuiQzvlvkKBIVXxjtc) | 2:34 | 2022-12-15 | 2024-04-19 |
@@ -245,7 +246,7 @@
 | [XTC](https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [XTC](https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g) | 3:04 | 2023-06-08 |  |
 | [Yeah The Girls](https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls](https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv) | 3:14 | 2022-12-01 | 2024-09-11 |
 | [Yield](https://open.spotify.com/track/0nBj151JdB5Cp7RYM5pDU8) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Sisyphus](https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp) | 4:16 | 2023-07-13 | 2023-08-25 |
-| [You](https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk) | [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [You](https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1) | 4:06 | 2023-01-26 |  |
+| [You](https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk) | [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [You](https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1) | 4:06 | 2023-01-26 | 2025-03-21 |
 | [Your Love \(feat\. House Gospel Choir\) \(Helsloot Remix\)](https://open.spotify.com/track/2NHygo6Jm4sUgKw76WvaJp) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Your Love \(feat\. House Gospel Choir\) \(Helsloot Remix\)](https://open.spotify.com/album/6MoSADkkX59Vn5RDrNcDyw) | 4:13 | 2023-09-07 | 2023-09-29 |
 
 \*This playlist was first scraped on 2022-12-10. Prior content cannot be recovered.

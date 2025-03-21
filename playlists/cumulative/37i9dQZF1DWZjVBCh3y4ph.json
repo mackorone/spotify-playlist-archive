@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : MARVIN x L\u00c9A CHURROS",
+  "description": "Les hits zouk du moment. Photo : Senyss",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -118,6 +118,32 @@
       "duration_ms": 191796,
       "name": "Alchimie",
       "url": "https://open.spotify.com/track/24LZjnwdJ7jn8aiW3Ym70D"
+    },
+    {
+      "album": {
+        "name": "Al\u00e9 pa",
+        "url": "https://open.spotify.com/album/567IStllgOTK3HfGniBTXn"
+      },
+      "artists": [
+        {
+          "name": "Maiko",
+          "url": "https://open.spotify.com/artist/2Q9GRYHW7SsDdDrZghr3Sd"
+        },
+        {
+          "name": "MCBOX",
+          "url": "https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5"
+        },
+        {
+          "name": "Vj Awax",
+          "url": "https://open.spotify.com/artist/63KHCzO0dRMpLV9uyTHUjV"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161020,
+      "name": "Al\u00e9 pa",
+      "url": "https://open.spotify.com/track/6vUPLVSg1JqUYiHserSImx"
     },
     {
       "album": {
@@ -1116,7 +1142,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 183939,
       "name": "Et si\u2026",
       "url": "https://open.spotify.com/track/4AZdDYLJZzucv5k1rsa8AG"
@@ -2089,6 +2115,28 @@
     },
     {
       "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/7fZfHGgmDkyMDOTYFS5lfz"
+      },
+      "artists": [
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        },
+        {
+          "name": "Tamillia",
+          "url": "https://open.spotify.com/artist/5yjlPxR2NMOjm2JiHtJR3Q"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174306,
+      "name": "Maladie",
+      "url": "https://open.spotify.com/track/6tcZNDUISmZgUG1nu843mc"
+    },
+    {
+      "album": {
         "name": "Manipul\u00e9",
         "url": "https://open.spotify.com/album/6cDP1xGVhDtpdGn8nbuy64"
       },
@@ -2736,10 +2784,28 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 199285,
       "name": "Oublie \u00e7a (Fendi) (feat. Lucas Seb) - Konpa Remix",
       "url": "https://open.spotify.com/track/2LC2Rd6Oo8TDIyHbOfjfCy"
+    },
+    {
+      "album": {
+        "name": "Oublie-moi",
+        "url": "https://open.spotify.com/album/6PQd9ezcg6TL043yrfiaec"
+      },
+      "artists": [
+        {
+          "name": "Senyss",
+          "url": "https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Oublie-moi",
+      "url": "https://open.spotify.com/track/6LNcBmuvRwxNYlc80Vc7eC"
     },
     {
       "album": {
@@ -3918,7 +3984,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 279040,
       "name": "Tolere w",
       "url": "https://open.spotify.com/track/2qHYQULQh8bN0bb31JKXeG"

@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 315876,
+  "num_followers": 315904,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "sulky baby",
-        "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 278998,
-      "name": "sulky baby",
-      "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "Hyper-normal",
         "url": "https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 195691,
       "name": "Hyper-normal",
       "url": "https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "sulky baby",
+        "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 278998,
+      "name": "sulky baby",
+      "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "The Dream",
-        "url": "https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst"
-      },
-      "artists": [
-        {
-          "name": "Still Corners",
-          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
-        }
-      ],
-      "duration_ms": 289800,
-      "name": "The Dream",
-      "url": "https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 188560,
       "name": "Radio",
       "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst"
+      },
+      "artists": [
+        {
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+        }
+      ],
+      "duration_ms": 289800,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "George Clanton and Nick Hexum",
-        "url": "https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7"
-      },
-      "artists": [
-        {
-          "name": "George Clanton",
-          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
-        },
-        {
-          "name": "Nick Hexum",
-          "url": "https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY"
-        }
-      ],
-      "duration_ms": 217939,
-      "name": "Driving in My Car",
-      "url": "https://open.spotify.com/track/4NcWigh0uMXPKxCdesQWxG"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "Cabin Fever Dreams",
         "url": "https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 206134,
       "name": "Loverboy",
       "url": "https://open.spotify.com/track/3iDJgLUiMqMdk1UOLG4VWf"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "George Clanton and Nick Hexum",
+        "url": "https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7"
+      },
+      "artists": [
+        {
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+        },
+        {
+          "name": "Nick Hexum",
+          "url": "https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY"
+        }
+      ],
+      "duration_ms": 217939,
+      "name": "Driving in My Car",
+      "url": "https://open.spotify.com/track/4NcWigh0uMXPKxCdesQWxG"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "If I Come Home",
-        "url": "https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45"
-      },
-      "artists": [
-        {
-          "name": "rozey",
-          "url": "https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u"
-        }
-      ],
-      "duration_ms": 216145,
-      "name": "If I Come Home",
-      "url": "https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 169477,
       "name": "Honeybee",
       "url": "https://open.spotify.com/track/0RRkuQwb77DpJ29Z2CDgHH"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "If I Come Home",
+        "url": "https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45"
+      },
+      "artists": [
+        {
+          "name": "rozey",
+          "url": "https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u"
+        }
+      ],
+      "duration_ms": 216145,
+      "name": "If I Come Home",
+      "url": "https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm"
     },
     {
       "added_at": "2024-08-29 20:23:41",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-08-29 20:23:41",
       "album": {
-        "name": "Damn I'm Tired",
-        "url": "https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu"
-      },
-      "artists": [
-        {
-          "name": "Sports",
-          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
-        }
-      ],
-      "duration_ms": 225732,
-      "name": "Damn I'm Tired",
-      "url": "https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ"
-    },
-    {
-      "added_at": "2024-08-29 20:23:41",
-      "album": {
         "name": "Heathers",
         "url": "https://open.spotify.com/album/219YBWjZumk7SNvu9Rk86K"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 194947,
       "name": "Ohio Blue Tips",
       "url": "https://open.spotify.com/track/3cKzdHoTN1g39ktjm3twCF"
+    },
+    {
+      "added_at": "2024-08-29 20:23:41",
+      "album": {
+        "name": "Damn I'm Tired",
+        "url": "https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu"
+      },
+      "artists": [
+        {
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
+        }
+      ],
+      "duration_ms": 225732,
+      "name": "Damn I'm Tired",
+      "url": "https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ"
     },
     {
       "added_at": "2024-08-29 20:23:41",

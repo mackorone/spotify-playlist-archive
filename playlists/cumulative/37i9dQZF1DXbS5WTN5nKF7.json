@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Le meilleur des hits avec Charlotte Cardin !",
+  "description": "Le meilleur des hits avec Damiano David !",
   "name": "Hit Radio",
   "tracks": [
     {
@@ -746,6 +746,28 @@
       "duration_ms": 148186,
       "name": "Beautiful Lie",
       "url": "https://open.spotify.com/track/1W147JEUECRYopp1Rk7SXA"
+    },
+    {
+      "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187086,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
     },
     {
       "album": {
@@ -1510,7 +1532,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 220036,
       "name": "Dancing In The Flames",
       "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
@@ -2599,6 +2621,28 @@
     },
     {
       "album": {
+        "name": "Prismatic: Pack One",
+        "url": "https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "I Follow Rivers",
+      "url": "https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3"
+    },
+    {
+      "album": {
         "name": "I Forgive You",
         "url": "https://open.spotify.com/album/3RPlxsjui6dOA6qMDBH70E"
       },
@@ -3030,7 +3074,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 187586,
       "name": "J\u2019ai chang\u00e9",
       "url": "https://open.spotify.com/track/3JhTQzJSjTbpJ6Lfttx3Jy"
@@ -4675,6 +4719,24 @@
     },
     {
       "album": {
+        "name": "Reflet",
+        "url": "https://open.spotify.com/album/5fntmqoGRA3LPBGFzYy7wp"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168394,
+      "name": "Reflet",
+      "url": "https://open.spotify.com/track/5JeDH8xInnb7tAXBJgIfla"
+    },
+    {
+      "album": {
         "name": "Resign (2024)",
         "url": "https://open.spotify.com/album/6iTaNALXTi4xAtVPw2mOjS"
       },
@@ -5446,7 +5508,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
@@ -5722,6 +5784,24 @@
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+    },
+    {
+      "album": {
+        "name": "Triste",
+        "url": "https://open.spotify.com/album/1o6aquW9UNM6TGJZgm48be"
+      },
+      "artists": [
+        {
+          "name": "Amel Bent",
+          "url": "https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189520,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/0updbmtMXsLlh6c2W737wj"
     },
     {
       "album": {
@@ -6020,7 +6100,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 168091,
       "name": "Where Do I Go",
       "url": "https://open.spotify.com/track/1FNNYBfbDppq7NKGtQsMkF"

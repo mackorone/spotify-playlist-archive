@@ -9,14 +9,14 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Don't Love Here Anymore](https://open.spotify.com/track/1NvxMFUJm32lDXdxgTfd5z) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene \(20th Anniversary Edition\)](https://open.spotify.com/album/3m9iIzYKrmMa4tLjASBqFs) | 3:59 |
-| 2 | [Making Good Time](https://open.spotify.com/track/4jh5v2PmmcryAzPnuEQjUG) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Making Good Time](https://open.spotify.com/album/5JXMh1FdutuSfyPtfdJxMQ) | 2:47 |
-| 3 | [Future Tripping](https://open.spotify.com/track/4w4BEXFhuQM5VcoycPe1zD) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn) | 2:28 |
-| 4 | [Til I Don't](https://open.spotify.com/track/259Ud8jgPARaKWPhqvJ6OD) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Where to Start](https://open.spotify.com/album/1nS5RxqCeB08iFpGUFBx1T) | 2:50 |
-| 5 | [Same Moon](https://open.spotify.com/track/66FK7N6myc7RJ4WgB5QW70) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Same Moon](https://open.spotify.com/album/3RLCkCsMPZZ8WFDXrnbjNV) | 2:54 |
-| 6 | [Picture Perfect](https://open.spotify.com/track/7L9op1t2cZXxM2BRmJ9DcC) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Picture Perfect](https://open.spotify.com/album/7HaZGiYocycOAcNK1nWqeO) | 3:23 |
-| 7 | [Haunted](https://open.spotify.com/track/0Gz45mObitRRxd5EtFkHuh) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 4:24 |
-| 8 | [Slow Go the Days](https://open.spotify.com/track/4jHjgKSjQ9X2u1AMgaYRip) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Slow Go the Days](https://open.spotify.com/album/1skob64NEfrU5UlgdCV6eg) | 3:21 |
-| 9 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
+| 2 | [Til I Don't](https://open.spotify.com/track/259Ud8jgPARaKWPhqvJ6OD) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Where to Start](https://open.spotify.com/album/1nS5RxqCeB08iFpGUFBx1T) | 2:50 |
+| 3 | [Making Good Time](https://open.spotify.com/track/4jh5v2PmmcryAzPnuEQjUG) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Making Good Time](https://open.spotify.com/album/5JXMh1FdutuSfyPtfdJxMQ) | 2:47 |
+| 4 | [Slow Go the Days](https://open.spotify.com/track/4jHjgKSjQ9X2u1AMgaYRip) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Slow Go the Days](https://open.spotify.com/album/1skob64NEfrU5UlgdCV6eg) | 3:21 |
+| 5 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
+| 6 | [Future Tripping](https://open.spotify.com/track/4w4BEXFhuQM5VcoycPe1zD) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn) | 2:28 |
+| 7 | [Same Moon](https://open.spotify.com/track/66FK7N6myc7RJ4WgB5QW70) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Same Moon](https://open.spotify.com/album/3RLCkCsMPZZ8WFDXrnbjNV) | 2:54 |
+| 8 | [Picture Perfect](https://open.spotify.com/track/7L9op1t2cZXxM2BRmJ9DcC) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Picture Perfect](https://open.spotify.com/album/7HaZGiYocycOAcNK1nWqeO) | 3:23 |
+| 9 | [Haunted](https://open.spotify.com/track/0Gz45mObitRRxd5EtFkHuh) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 4:24 |
 | 10 | [East Coast](https://open.spotify.com/track/4aFt8GeOqyZ2OtGwBsHY4x) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [East Coast](https://open.spotify.com/album/2ox0IEYLKRdPGNw1gPkW97) | 3:17 |
 | 11 | [Broken Heart](https://open.spotify.com/track/0OsPbQYG82qwmERzupgEqw) | [Kayley Green](https://open.spotify.com/artist/77sTeh8vSETya7x0MkRcNM) | [Broken Heart](https://open.spotify.com/album/6yWoFYNkAdlxdoP7oVlGTl) | 3:17 |
 | 12 | [Call Me If You Miss Me](https://open.spotify.com/track/3LWYsVIye7sFfYTL3s9ksO) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Call Me If You Miss Me](https://open.spotify.com/album/1XTodZ2bafoeNTgWnm4RNg) | 3:13 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 | 59 | [LETTER TO GOD](https://open.spotify.com/track/1yUTtzYbLjQNO8iz6ml6hR) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [SIXER](https://open.spotify.com/album/7lO4zrnPXfc8KB4IXJR6at) | 2:51 |
 | 60 | [Going Home](https://open.spotify.com/track/2lKIMOOkiV0kqFe0FH9J1d) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Going Home](https://open.spotify.com/album/38T63sTefdL1FAYJ2K9YZR) | 3:06 |
 
-Snapshot ID: `AAAK7B6inaDY3eHgYGy7Zh8dEfcuEmVv`
+Snapshot ID: `AAAK8W/69UNa8AqcY90JkOhWUXsqiFRD`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xmT0fX6gdv.md) - [plain]
 
 > Mehmet Aslan's favorite tracks\. Updated regularly\. Curated by Mehmet Aslan\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,576 likes - 100 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,595 likes - 100 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xmT0fX6gdv.md) - [plain]
 | 95 | [Rubberdub Dance](https://open.spotify.com/track/0JbfPGzCGlAjrLKzwKFuu2) | [Cracy Coconuts](https://open.spotify.com/artist/5Qre0VlSEzLF91s8Z9zDzT) | [Rubberdub Dance](https://open.spotify.com/album/67lOA0zm9h0bYcRJDSPK9c) | 4:20 |
 | 96 | [Darıldım Darıldım \(feat\. Arif Sağ\)](https://open.spotify.com/track/6sDZmjnd5XaWiRpTKxlCq4) | [Akbaba İkilisi](https://open.spotify.com/artist/0kXQyMSf8au9PYtga3jIta), [Arif Sağ](https://open.spotify.com/artist/1Nq4oosKQ4TQScASZpgbz0) | [Uzelli Elektro Saz](https://open.spotify.com/album/1A9mh0mDTo5GX2rLVUZyOZ) | 5:10 |
 | 97 | [Chasing It](https://open.spotify.com/track/5bkLq49gsfRfbJeVGKGcvX) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [Journals](https://open.spotify.com/album/6ogoFXSFR4dn4sXoc38kgR) | 13:15 |
-| 98 | [Souvenir](https://open.spotify.com/track/1XZFzWUsdHXeweeNxzAHel) | [Maston](https://open.spotify.com/artist/7aE9KUqEEWrasYryOkJG7O), [L'éclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Souvenir](https://open.spotify.com/album/3XWlBMLf2QiKpiO1E7NMUD) | 1:53 |
+| 98 | [Souvenir](https://open.spotify.com/track/1XZFzWUsdHXeweeNxzAHel) | [Maston](https://open.spotify.com/artist/7aE9KUqEEWrasYryOkJG7O), [L'Eclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Souvenir](https://open.spotify.com/album/3XWlBMLf2QiKpiO1E7NMUD) | 1:53 |
 | 99 | [Ömür Biter Yol Bitmez](https://open.spotify.com/track/160QE1hPhgTqQIji1jmgll) | [Üç Hürel](https://open.spotify.com/artist/4BvIkZkqfB1BnzoWdyCaWC) | [Hürel Arşivi](https://open.spotify.com/album/2ebnYhaaes3VDz7e3BGjp4) | 3:51 |
 | 100 | [Doggy Bag](https://open.spotify.com/track/5mUe3kf5kBlMJbfTwKladS) | [WaqWaq Kingdom](https://open.spotify.com/artist/4in9NY36a5EllSTje5liC5) | [Essaka Hoisa](https://open.spotify.com/album/0DYyiocpYxNTSQZNz85qaX) | 3:49 |
 

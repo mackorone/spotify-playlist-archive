@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:4bFXTB2DcMA4dy3CC27bKu">Em Busca da Rotina Perfeita, com Giu Tessitore</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,824 likes - 11 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,825 likes - 11 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

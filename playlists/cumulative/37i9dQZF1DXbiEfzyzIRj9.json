@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Tohji",
+  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: camoufly",
   "name": "Altar JP",
   "tracks": [
     {
@@ -2186,7 +2186,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 263424,
       "name": "Besos Robados",
       "url": "https://open.spotify.com/track/5b7szkYFv8BDLPiHs2iPOY"
@@ -2786,7 +2786,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 222239,
       "name": "Bouncy Fox",
       "url": "https://open.spotify.com/track/1w8zncP8g0Wc8dRhLvRyQS"
@@ -4303,6 +4303,28 @@
     },
     {
       "album": {
+        "name": "Come With Me (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26"
+      },
+      "artists": [
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214886,
+      "name": "Come With Me (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH"
+    },
+    {
+      "album": {
         "name": "Comet",
         "url": "https://open.spotify.com/album/4q9TGlE1399FrL5Rh5fpfi"
       },
@@ -5538,6 +5560,24 @@
       "duration_ms": 280328,
       "name": "DJ Friendly",
       "url": "https://open.spotify.com/track/1fEYSPGGk7pLFvrBLNgQv7"
+    },
+    {
+      "album": {
+        "name": "Creek",
+        "url": "https://open.spotify.com/album/4wFyqyU8erSQITJyyoUOhk"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195937,
+      "name": "Do It Like Me",
+      "url": "https://open.spotify.com/track/114iWDfL5lVgqJabeSwnRF"
     },
     {
       "album": {
@@ -8347,6 +8387,24 @@
     },
     {
       "album": {
+        "name": "ALL NIGHT DANCE",
+        "url": "https://open.spotify.com/album/6fLdwL1ojilfGbFKsK3q6X"
+      },
+      "artists": [
+        {
+          "name": "TSUBAME",
+          "url": "https://open.spotify.com/artist/5fBPKr4eFuZBnB8OCzo5QF"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247930,
+      "name": "FOR THE NIGHT",
+      "url": "https://open.spotify.com/track/5gEG94QLIWflF8irK0tO0S"
+    },
+    {
+      "album": {
         "name": "Foreigner",
         "url": "https://open.spotify.com/album/6UGEKnNWgoKvDwIfqLfEYg"
       },
@@ -8384,6 +8442,24 @@
       "duration_ms": 198483,
       "name": "Forever Baby",
       "url": "https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo"
+    },
+    {
+      "album": {
+        "name": "formula",
+        "url": "https://open.spotify.com/album/03riWV4ppiEsjo1oB45FsW"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169972,
+      "name": "formula",
+      "url": "https://open.spotify.com/track/14zLvFrfowL3oFxCPffGaR"
     },
     {
       "album": {
@@ -8558,7 +8634,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 420641,
       "name": "Free Tekno",
       "url": "https://open.spotify.com/track/17ncX82km981YqF5bhluO6"
@@ -8954,7 +9030,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 179250,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/5pgBjVesVDpeFe92C2fks4"
@@ -9546,6 +9622,24 @@
       "duration_ms": 191065,
       "name": "Got to Change",
       "url": "https://open.spotify.com/track/5oV0DfWqOf8hn40u37hepA"
+    },
+    {
+      "album": {
+        "name": "Gotta Move",
+        "url": "https://open.spotify.com/album/0ateZxJtP3B6zMX0zpMa9x"
+      },
+      "artists": [
+        {
+          "name": "Bless You",
+          "url": "https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179125,
+      "name": "Gotta Move",
+      "url": "https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3"
     },
     {
       "album": {
@@ -24124,7 +24218,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 209644,
       "name": "What Have You Done For Me Lately",
       "url": "https://open.spotify.com/track/113ecSRDeHB0NMdWa01TtI"

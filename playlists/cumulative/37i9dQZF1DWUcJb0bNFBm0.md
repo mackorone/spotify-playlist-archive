@@ -4,10 +4,11 @@
 
 > Noise distortion amongst the hazy clouds ☁️  \(Cover: Commemorate\)
 
-193 songs - 13 hr 25 min
+196 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [+B\-3\-X+ \(Perunggu ver.\)](https://open.spotify.com/track/4L6oqjoKS0IlEOwrVjvMAD) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t), [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [DIFFERENT](https://open.spotify.com/album/0h7BShQP66wqF0tGgTXl4T) | 3:41 | 2025-03-20 |  |
 | [Always](https://open.spotify.com/track/7frdnV62ZVTt6HOqtHadnk) | [Ozzga](https://open.spotify.com/artist/4LoxjSTESClUkXDI7mP6t4) | [When You're Away](https://open.spotify.com/album/4BvY1NnxqLpigHsghwhVuU) | 4:34 | 2024-06-27 |  |
 | [anatahawatashiwosiranai, watasihaanatawowasurenai](https://open.spotify.com/track/04HQwpikUW0wHJGn1nWCOE) | [sasakure](https://open.spotify.com/artist/7wEWAY6INLk6VgiJGAGVXr) | [seasaw](https://open.spotify.com/album/5A0c3siX0WSuXNJuYxVkPO) | 3:44 | 2024-12-04 |  |
 | [Another World \- Alt\. ver.](https://open.spotify.com/track/0Ig0YS2HO6bPBhWgJ0OLXr) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Another World \(Alt\. ver.\)](https://open.spotify.com/album/57dmGLpMBQyVWOVlvFOcnV) | 5:30 | 2025-01-16 |  |
@@ -169,6 +170,7 @@
 | [Tawdry Clip](https://open.spotify.com/track/2JV2ut3HQ7y03WKSZQpqnN) | [Manic Sheep](https://open.spotify.com/artist/6JXdjqMVpq61fvihemTbfI) | [Morning Fragment](https://open.spotify.com/album/5kojgQgmj165AIeqoJb1ow) | 3:13 | 2024-06-27 | 2024-08-31 |
 | [tears](https://open.spotify.com/track/6DCowyqx9z4926yxFAaQZ3) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [tears](https://open.spotify.com/album/4shzDdJe5GyQvm2EVsE9Qt) | 3:30 | 2024-12-04 | 2025-02-08 |
 | [The End \(Reprise\)](https://open.spotify.com/track/0dAei4tlI5toTGOfXiUHze) | [lut](https://open.spotify.com/artist/5sBywQe9mQOArGxfF5i30R) | [The End \(Reprise\)](https://open.spotify.com/album/4pdPfhXp77ji8oiY22U9tz) | 4:16 | 2024-06-27 | 2024-11-22 |
+| [The Highest Tower](https://open.spotify.com/track/1OSTZBli9pZ6b2Axkvtkv4) | [SpotlessMind](https://open.spotify.com/artist/0VMR8op8diaqyoJjc7hBgf) | [Forever Dreaming](https://open.spotify.com/album/7MAzIzNt5yo5gwn2wwIPdl) | 5:00 | 2025-03-20 |  |
 | [The River Runs slowly](https://open.spotify.com/track/085Fu95fvjitPSEyIPJcmg) | [Ferri\-Chrome](https://open.spotify.com/artist/1mQTu2sdvPrgwujzkfnpJy) | [The River Runs slowly](https://open.spotify.com/album/13XlfaVHqb3EztJyk9kFnT) | 2:38 | 2024-08-05 | 2024-12-05 |
 | [The Sun Is In Our Eyes](https://open.spotify.com/track/0htL9fhtoeL1XMFi3mnSTm) | [UJU](https://open.spotify.com/artist/2rc8Sz5mhQYrNg9xkoYlMI) | [The Sun Is In Our Eyes](https://open.spotify.com/album/62KE5bmBpoqYtkLQYMkFJh) | 6:47 | 2024-06-27 | 2024-08-09 |
 | [To My Love](https://open.spotify.com/track/3V6rl1l7hJT3u3NVN0g1UU) | [Pocari Sweet波卡利甜](https://open.spotify.com/artist/594eWfeyQ02c9MLYI9iLuK) | [Tears in Rain（就像泪水消逝在雨中）](https://open.spotify.com/album/6nlLIph5HfbYSJ9UquhqVM) | 4:36 | 2024-06-27 | 2024-12-05 |
@@ -177,6 +179,7 @@
 | [Two of Us](https://open.spotify.com/track/1WiAAOZp1eMH8YDwuowZrE) | [In Inertia](https://open.spotify.com/artist/3MX16NmW4sAb3qxfGQTvlt) | [Two of Us](https://open.spotify.com/album/0be7zUm3q3Ir0YxCyqOu43) | 4:11 | 2025-01-16 |  |
 | [UMA](https://open.spotify.com/track/2qZiHuLxK7jhLrVL5Jwf3C) | [xiexie](https://open.spotify.com/artist/2DyQQPH4aNO84GVSIoHdkV) | [wellwell](https://open.spotify.com/album/2cLFAGnUKisFEgjp0JVNY0) | 2:57 | 2024-06-27 |  |
 | [Waltz](https://open.spotify.com/track/1fik0uRvfAUxrkcgpJrMF1) | [Schelper](https://open.spotify.com/artist/0jPrAqvMqQJPwCnZsCdDL7) | [Waltz](https://open.spotify.com/album/73FCf4ZimE8vU421YH3rqQ) | 3:44 | 2024-12-04 | 2025-03-07 |
+| [washed up](https://open.spotify.com/track/3UOFNS7r9oRXEC84iEQF6D) | [daystar](https://open.spotify.com/artist/3ILIaSsV4kXXvqqFcvyeCC), [Sun Cell](https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef) | [washed up](https://open.spotify.com/album/0v8fYvE8ZOG18q1nrF0H9e) | 2:53 | 2025-03-20 |  |
 | [Watching K\-Drama \(Without Subtitles\)](https://open.spotify.com/track/2zAPVUH3KupXkv2IoTkGYY) | [The Wallflower Dept.](https://open.spotify.com/artist/1ykM1fXFLT1d83l7OAw1Yv), [Ananda Yala](https://open.spotify.com/artist/79gwnl8jXCn78lRxTGD0wL) | [Watching K\-Drama \(Without Subtitles\)](https://open.spotify.com/album/2am7oyB1E4rdwVzMSWiohy) | 4:11 | 2024-08-05 | 2024-12-05 |
 | [We Shine at Night](https://open.spotify.com/track/30UtvytdKLQjvLZesEaR3v) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [We Shine at Night](https://open.spotify.com/album/4PbTT54u3bIOnYKjOIvn5c) | 6:27 | 2024-06-27 |  |
 | [Whale blows rainbow](https://open.spotify.com/track/56CUFtGxKjUpOLmU9qxy5O) | [Tyrell](https://open.spotify.com/artist/6TjVmU32VkhCqd3kbqQ0jg) | [Whale blows rainbow](https://open.spotify.com/album/0blsoeRWMeUWMlFt3O7pNN) | 6:06 | 2024-06-27 | 2024-08-09 |

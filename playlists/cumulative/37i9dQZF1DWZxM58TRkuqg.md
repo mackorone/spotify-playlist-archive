@@ -2,9 +2,9 @@
 
 ### [Puncak Klasemen](https://open.spotify.com/playlist/37i9dQZF1DWZxM58TRkuqg)
 
-> Deretan musik Indonesia terpopuler saat ini\.  Cover: Kunto Aji, Armand Maulana
+> Deretan musik Indonesia terpopuler saat ini\.  Cover: Andi Rianto, Lyodra, Rony Parulian
 
-336 songs - 22 hr 16 min
+340 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Berlalu](https://open.spotify.com/track/5BoOfotbJbhCJ05l3Gw2bV) | [Derai](https://open.spotify.com/artist/5sCGE57PAwZPpH4c2sNCwn), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Berlalu](https://open.spotify.com/album/1MsLzxbDF2l8yQ1y7azYou) | 3:19 | 2024-03-28 | 2024-05-17 |
 | [Bermuara](https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Bermuara](https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd) | 4:47 | 2024-05-03 | 2025-02-14 |
 | [Bernafaslah Sejenak](https://open.spotify.com/track/7mL0RQHHu3N3fYFwawa8Mx) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Bernafaslah Sejenak](https://open.spotify.com/album/7KF9Kk6bpryWfjzTprCylS) | 4:28 | 2024-01-26 | 2024-04-12 |
+| [Bernaung \- From "Setetes Embun Cinta Niyala"](https://open.spotify.com/track/16Q9MOCDYgrgjEHx6Hx2rv) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Bernaung \(From "Setetes Embun Cinta Niyala"\)](https://open.spotify.com/album/753bObZFRMHb4cDlHtpzwz) | 3:18 | 2025-03-20 |  |
 | [Berpayung Tuhan](https://open.spotify.com/track/5n7JlSbYBsUSncCwm5OAOh) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Untuk Dunia, Cinta, dan Kotornya](https://open.spotify.com/album/5hpq1LSLCuC7cifjXAM5bf) | 4:57 | 2024-01-26 | 2024-02-02 |
 | [Bersamamu](https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Bersamamu](https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU) | 3:40 | 2024-01-26 | 2024-05-03 |
 | [Bersenja Gurau](https://open.spotify.com/track/5ANZKRT3WuY4DgEnCcfHVa) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Bersenja Gurau](https://open.spotify.com/album/4mtL1Qs2EYD05CUW6nx7b6) | 3:14 | 2024-03-07 | 2024-05-24 |
@@ -150,6 +151,7 @@
 | [Kata](https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Kata](https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ) | 3:40 | 2024-02-01 | 2024-05-03 |
 | [Kata Mereka Ini Berlebihan](https://open.spotify.com/track/15xaVF0miqkphP0O0TZRs7) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Kata Mereka Ini Berlebihan](https://open.spotify.com/album/3UDTwdzFWA2rgP19S9oUaC) | 3:11 | 2024-02-01 | 2025-02-14 |
 | [Kau Rumahku](https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO) | 4:35 | 2024-01-26 | 2024-03-22 |
+| [Kau Selalu Di Hati](https://open.spotify.com/track/0rWP5ruLWqfARc6lOr0XXv) | [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Symphony From The Heart](https://open.spotify.com/album/4JeqOC5WYg5h6dEOgD1dTL) | 4:11 | 2025-03-20 |  |
 | [KECANDUAN](https://open.spotify.com/track/2WcUc9peWnlMZtwhQvNHUx) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [KECANDUAN](https://open.spotify.com/album/3ocKWS6k7vfXQYVx8ahmxI) | 3:37 | 2024-10-24 | 2024-11-30 |
 | [Kehilanganmu](https://open.spotify.com/track/5oKVAqJAuq3QU2J30kNM1x) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Kehilanganmu](https://open.spotify.com/album/5G4bm1QpyhBjGv6B1kZ7Us) | 3:53 | 2024-05-09 | 2024-06-07 |
 | [Kekasih Seseorang \- Kotakustik](https://open.spotify.com/track/5qGDptJdZN6YxQk4L9X0zH) | [Kotak](https://open.spotify.com/artist/6oMp2cGzP3Bw86ssV7hjyu) | [Kekasih Seseorang \(Kotakustik\)](https://open.spotify.com/album/4XpV2OESSXOnbaf3TWcCxi) | 4:10 | 2024-06-06 | 2024-06-28 |
@@ -196,6 +198,7 @@
 | [Masing Masing](https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 3:54 | 2024-11-07 |  |
 | [Mati\-Matian](https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Mati\-Matian](https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV) | 4:04 | 2024-03-28 | 2025-02-14 |
 | [Mawar](https://open.spotify.com/track/2zye6HezhTJduq7vocjMzr) | [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Mawar](https://open.spotify.com/album/1xRvOXM0hxxwQufdVD2Zst) | 4:08 | 2025-02-13 |  |
+| [Melangitkanmu](https://open.spotify.com/track/7s8c4Ap7Gdzdvb3gGuVGhy) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Melangitkanmu](https://open.spotify.com/album/39dqeYCRARABzKQEazIV8Z) | 4:34 | 2025-03-20 |  |
 | [Melepaskanmu](https://open.spotify.com/track/3pDLRCinNlo3prsxLAcE2B) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Melepaskanmu](https://open.spotify.com/album/0JGVfb9f2U1f3Ve7KUxpXz) | 4:10 | 2024-05-16 | 2024-06-07 |
 | [Memilih Berhenti](https://open.spotify.com/track/4MngDPGeICOJ30Xeaf7SPH) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Memilih Berhenti](https://open.spotify.com/album/7Ez8NmZRbNHAvk6XISPwQx) | 3:57 | 2024-08-22 | 2024-10-04 |
 | [Memilih Berhenti \- Acoustic](https://open.spotify.com/track/5Hl1MoirusAn9TIzIXIWrR) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Chapter 1.5 \(Acoustic\)](https://open.spotify.com/album/4ejyv5o7RBYzo7YRjrjPak) | 3:54 | 2024-04-25 | 2024-05-24 |
@@ -254,6 +257,7 @@
 | [Sejauh Dua Benua](https://open.spotify.com/track/4k91MisM6AJZHLS4lSceOY) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Sejauh Dua Benua](https://open.spotify.com/album/54ItApQYalhDEjpXE0iumY) | 3:45 | 2024-04-18 | 2024-06-07 |
 | [Sekarang Esok Selamanya \- From "Laura Movie"](https://open.spotify.com/track/2QWz4xWsXCys3V1HFA7R8p) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Sekarang Esok Selamanya \(From "Laura Movie"\)](https://open.spotify.com/album/35NYToRn3ZQuXZf0QYG9TV) | 3:40 | 2024-08-15 | 2024-10-25 |
 | [Selagi Punya Waktu](https://open.spotify.com/track/04VpbxCYIwfDHCqq2JqQFW) | [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV), [Sammy Simorangkir](https://open.spotify.com/artist/374NOHOFF57pYs9QOhuKJq) | [Selagi Punya Waktu](https://open.spotify.com/album/66AZ0dwHtstBf7ACMLb0Ah) | 4:50 | 2024-02-23 | 2024-03-29 |
+| [Selalu Ada di Nadimu \(Original Soundtrack From “JUMBO"\)](https://open.spotify.com/track/4mLazr37b1WXxiV0BDvTpb) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Selalu Ada di Nadimu \(Original Soundtrack From “JUMBO"\)](https://open.spotify.com/album/6i5nZ5PvK5aqU27SaTsjad) | 4:41 | 2025-03-20 |  |
 | [Selalu Untuk Selamanya](https://open.spotify.com/track/0c133r0IkodWNwKgaUFeJt) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW), [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Selalu Untuk Selamanya](https://open.spotify.com/album/1ghY5gSCHR6xzUtzUloihW) | 4:05 | 2024-10-24 |  |
 | [Selama Ku Bernafas](https://open.spotify.com/track/2x8v50JevSgEgBB8SDtY9T) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Selama Ku Bernafas](https://open.spotify.com/album/73IVBgWRjUeOAlAjFTS3CX) | 4:54 | 2024-07-11 | 2024-11-15 |
 | [Selamanya](https://open.spotify.com/track/4nP7xWXJh7qzszFlUDpVPx) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Selamanya](https://open.spotify.com/album/4HBb3TgaurAxPuxwcSd49c) | 3:55 | 2024-04-25 | 2024-12-13 |

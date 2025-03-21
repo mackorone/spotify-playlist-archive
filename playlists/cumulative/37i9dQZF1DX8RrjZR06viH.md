@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8RrjZR06viH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8RrjZR06viH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8RrjZR06viH)
 
-### [Vårstemning](https://open.spotify.com/playlist/37i9dQZF1DX8RrjZR06viH)
+### [Vår i lufta](https://open.spotify.com/playlist/37i9dQZF1DX8RrjZR06viH)
 
 > ☀️
 
-167 songs - 8 hr 38 min
+169 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [BOY](https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [BOY](https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi) | 2:31 | 2024-09-05 |  |
 | [BusyBusyBusy](https://open.spotify.com/track/2QwF6aewyuhAQ1nlkyQeYW) | [¡BangBang Watergun!](https://open.spotify.com/artist/2grhe2zaWXIncv3px0CwrJ) | [Nostalgia / Again It's On](https://open.spotify.com/album/5Xtz2f7NvXEpRSlnw687mG) | 3:51 | 2025-02-27 | 2025-03-17 |
 | [Bygda vår](https://open.spotify.com/track/7GkeilYNSQTNQnyX9YGibA) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Bygda vår](https://open.spotify.com/album/0LLyHCTAT1jgF0cnOioJJk) | 2:41 | 2024-06-27 | 2024-09-20 |
-| [Bølger](https://open.spotify.com/track/30NBm5D1W1MdfCgDZBuJYY) | [3TOS](https://open.spotify.com/artist/4kMHdk4Ci3GoVB1jGZTL4C) | [Bølger](https://open.spotify.com/album/1XKnyAAgscwpB0BgzR09TW) | 2:13 | 2024-06-27 | 2025-03-01 |
+| [Bølger](https://open.spotify.com/track/30NBm5D1W1MdfCgDZBuJYY) | [3TOS](https://open.spotify.com/artist/4kMHdk4Ci3GoVB1jGZTL4C) | [Bølger](https://open.spotify.com/album/1XKnyAAgscwpB0BgzR09TW) | 2:13 | 2024-06-27 |  |
 | [Care](https://open.spotify.com/track/0RB6Saze1O8DugkNzqzEed) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [Hannah Storm](https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL) | [Care](https://open.spotify.com/album/2sucF1hUsAFKcZb0pqfxow) | 4:04 | 2024-06-27 | 2024-10-28 |
 | [Catalonia](https://open.spotify.com/track/5zs2czX5d8B0zuQB7jiFct) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [In Our Own Sweet Time](https://open.spotify.com/album/2290QOqExnVHp302b4zYaF) | 3:38 | 2024-06-27 |  |
 | [Close to Dying](https://open.spotify.com/track/4IpTVJKJU7Em4INGFY07EG) | [MAIH](https://open.spotify.com/artist/5LqSpFsPhYIT2TjfE0y4zI) | [Close to Dying](https://open.spotify.com/album/5YVuajI1Qk3oSfE3hfFTRM) | 3:00 | 2024-08-29 | 2024-09-07 |
@@ -55,7 +55,7 @@
 | [Gåsehud](https://open.spotify.com/track/0dAy0Cq4PwkJ3wG0uOjwj6) | [Jesper Jenset](https://open.spotify.com/artist/4Q6zYbQ2MrKiEWTGB3yrPv) | [Gåsehud](https://open.spotify.com/album/5a00VOr6oBmZeFhHzz6qqt) | 2:32 | 2024-06-27 | 2024-07-06 |
 | [happy place](https://open.spotify.com/track/3WexcBAuTg6p1XkaUqb3Td) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [happy place](https://open.spotify.com/album/3AVrDEyYGkcf6txru4yDKZ) | 3:31 | 2025-02-27 |  |
 | [Happy Tears](https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Happy Tears](https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf) | 2:56 | 2024-06-27 |  |
-| [Har du glemt meg?](https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Har du glemt meg?](https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY) | 2:45 | 2024-06-27 |  |
+| [Har du glemt meg?](https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Har du glemt meg?](https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY) | 2:45 | 2024-06-27 | 2025-03-21 |
 | [Hate Being Alone](https://open.spotify.com/track/3GMVYiGXxzDanIfoowfBOa) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [ELLE](https://open.spotify.com/album/3mufRbVLnu4dO8dP8fJRb0) | 3:05 | 2024-06-27 | 2024-08-31 |
 | [Head In My Hands](https://open.spotify.com/track/3iLF9cXb9IHSLNpGIbLOvs) | [Kakkmaddafakka](https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9) | [Head In My Hands](https://open.spotify.com/album/4OiUkPoc5WSkXGjjSOYO00) | 3:12 | 2024-10-17 | 2025-02-10 |
 | [Healing \(Shattered Heart\)](https://open.spotify.com/track/5upoXNxaUFybIF8XfRAaDp) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [KYGO](https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q) | 2:42 | 2024-06-27 |  |
@@ -63,6 +63,7 @@
 | [Heim te ståvo](https://open.spotify.com/track/07F3aHvvLxqV5Fp49pkwpZ) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Heim te ståvo](https://open.spotify.com/album/05u8TF0hM8smBXuomQeVDi) | 3:16 | 2024-09-16 |  |
 | [Hellig](https://open.spotify.com/track/6M51NPgawQYMfPM03kuYQt) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Hellig](https://open.spotify.com/album/6Z9PlffXEr7io6QJS3NAEv) | 3:39 | 2024-06-27 |  |
 | [henda i været](https://open.spotify.com/track/618z8JIYgEQ8q4blcJFsGW) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL), [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [henda i været](https://open.spotify.com/album/4ryEkaYCH9uIdA4jbdHhIP) | 2:41 | 2024-06-27 |  |
+| [Her vil e vær](https://open.spotify.com/track/1kuBj9IjKtP64mKrHIuBYX) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Her vil e vær](https://open.spotify.com/album/3ksUT0ilC4HVItX51CEHvN) | 2:25 | 2025-03-20 |  |
 | [HJERTET MITT ER HELT OK](https://open.spotify.com/track/4vpI1R5pmRKAS9pbMDb8Vg) | [Hkeem](https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH), [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [HJERTET MITT ER HELT OK](https://open.spotify.com/album/52qTuKqpnm3PtCtMRFa3i4) | 2:24 | 2024-06-27 |  |
 | [Hollow](https://open.spotify.com/track/3VT6jFPE7PwrvTh94UtDoN) | [Sivert Høyem](https://open.spotify.com/artist/2xMBy2SwN1OMgSSCKmX3IG) | [Hollow](https://open.spotify.com/album/2uKlK7Oq7GYrk74HJhU4oQ) | 3:56 | 2024-12-19 | 2025-01-10 |
 | [Hollywood Hills](https://open.spotify.com/track/5jeRRvj8X1DWDrlCG23EI2) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Hollywood Hills](https://open.spotify.com/album/6NJMVeFDvI0egKuknUyRWH) | 2:37 | 2024-10-24 | 2025-03-02 |
@@ -86,6 +87,7 @@
 | [Learning as I go](https://open.spotify.com/track/5ktB8vssJ9jlSFKtxejBB5) | [Kristina Moe Hals](https://open.spotify.com/artist/3NXTbjiBgCAFlZgl4ISwFj) | [Learning as I go](https://open.spotify.com/album/582q1GIAIEpNO2kbJefbXG) | 2:47 | 2024-11-28 | 2025-03-03 |
 | [leilo brenner \- Spotify Studio It´s Hits Recording](https://open.spotify.com/track/6ztcxDt6rVmqMGi0t4wOiT) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [leilo brenner \(Spotify Studio It's Hits Recording\)](https://open.spotify.com/album/688lFR0RtS2nxfHQTyCwKi) | 2:23 | 2024-06-27 |  |
 | [Let Go](https://open.spotify.com/track/2ZrGI9V58ouXZ1Ns5qmLkE) | [Louien](https://open.spotify.com/artist/3ZwQaquUgrZdqoWDtVUUMY) | [Every Dream I Ever Had \- Deluxe Version](https://open.spotify.com/album/2FdMzsq7drehPgraiLnvmT) | 2:41 | 2024-08-29 | 2024-10-04 |
+| [Lever fint](https://open.spotify.com/track/5icmMis8YoRWjvdlaJImdB) | [Pikekyss](https://open.spotify.com/artist/54xTXofo1EERPAgsvvBPho) | [Lever fint](https://open.spotify.com/album/0yifld6UxwWqr4D3T7xK19) | 3:02 | 2025-03-20 |  |
 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 | 2024-07-04 |  |
 | [Lips](https://open.spotify.com/track/12vs8cG1lkt4Eq53nLK2GV) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Lips](https://open.spotify.com/album/4pAwod3owXQHQIBQwMM5a9) | 2:15 | 2024-06-27 |  |
 | [Lost and found](https://open.spotify.com/track/5GdAGqF9ZI4gADtpVAxqe7) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Lost and found](https://open.spotify.com/album/4lYqiJcxx3bhcZ076VRyjG) | 3:14 | 2024-09-19 |  |
@@ -93,7 +95,7 @@
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-27 | 2024-10-11 |
 | [Lykke te](https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Lykke te](https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS) | 2:44 | 2024-06-27 |  |
 | [Lyst på dæ](https://open.spotify.com/track/0pAaQWTrmbKEVPL0mlB9Sx) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Lyst på dæ](https://open.spotify.com/album/04zK7xAmi8Mx3A2OVUtT3i) | 2:41 | 2024-06-27 | 2024-10-11 |
-| [Mamma sa det ordne se for snille piker](https://open.spotify.com/track/347ClSRvnHma5rSqUSL9R8) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Mamma sa det ordne se for snille piker](https://open.spotify.com/album/280RBk4Y0wc3fxu0wrBbpF) | 3:25 | 2024-08-29 |  |
+| [Mamma sa det ordne se for snille piker](https://open.spotify.com/track/347ClSRvnHma5rSqUSL9R8) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Mamma sa det ordne se for snille piker](https://open.spotify.com/album/280RBk4Y0wc3fxu0wrBbpF) | 3:25 | 2024-08-29 | 2025-03-21 |
 | [Marilyn Monroe](https://open.spotify.com/track/0LTzekaSg1V34NHCDhITP2) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Marilyn Monroe](https://open.spotify.com/album/1yKRXICOj4bFCRK75e8DDw) | 2:54 | 2024-06-27 |  |
 | [Meri Jaan \- LePark Studio, Milan](https://open.spotify.com/track/1nkfNJaIe6XlSQwT1OS7pe) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN), [Omar Sheriff](https://open.spotify.com/artist/7bD3cjwHYADj9rsonLyx7U), [The Quick Style](https://open.spotify.com/artist/6vLa9prTXyHYhTSC8z7IKC), [Mo Ayn](https://open.spotify.com/artist/0WDI0f4hXiPrIrS4TUJDX7) | [DIASPORA DREAMS \(THE QUICK STYLE SELECTION\)](https://open.spotify.com/album/4CwJ4eyjJVNfoOT6dcs9pV) | 3:49 | 2024-06-27 |  |
 | [Milk and Honey](https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Milk and Honey](https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf) | 3:30 | 2024-10-31 |  |
@@ -113,7 +115,7 @@
 | [Oh Love \- Acoustic](https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur) | [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Oh Love \(Acoustic\)](https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ) | 3:21 | 2024-10-03 |  |
 | [ok](https://open.spotify.com/track/4R467GbyTVsRKQxArOWFVK) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [ok](https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov) | 2:29 | 2024-06-27 |  |
 | [Ole Lukkøye](https://open.spotify.com/track/03MTSWFmsqzh7lch0AlPAJ) | [Zimmermann](https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB) | [Ole Lukkøye](https://open.spotify.com/album/6KmalLGuo1RnLKTloNsiAQ) | 4:25 | 2025-01-30 |  |
-| [Om du tror på oss](https://open.spotify.com/track/4x8DtLpcjCTMrFym0aS5kL) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3), [Erlend Ropstad](https://open.spotify.com/artist/5DEpvCUOqEagldzoh25m1t) | [Om du tror på oss](https://open.spotify.com/album/7kE6Q0jwl7Wr1icIIFwQQ6) | 3:50 | 2024-09-05 |  |
+| [Om du tror på oss](https://open.spotify.com/track/4x8DtLpcjCTMrFym0aS5kL) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3), [Erlend Ropstad](https://open.spotify.com/artist/5DEpvCUOqEagldzoh25m1t) | [Om du tror på oss](https://open.spotify.com/album/7kE6Q0jwl7Wr1icIIFwQQ6) | 3:50 | 2024-09-05 | 2025-03-21 |
 | [Om hundre år](https://open.spotify.com/track/0fQ46jJDD5pjok8iX7XuCX) | [Ulrikke](https://open.spotify.com/artist/5h9tiTx6BP5l5ZCrI7cUYh) | [Om hundre år](https://open.spotify.com/album/4Q7zV0oamgMerg3QsWhmJ9) | 2:35 | 2024-06-27 | 2024-11-13 |
 | [Over deg](https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X) | [Over deg](https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR) | 2:27 | 2024-06-27 |  |
 | [Part Of The Story](https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Part Of The Story](https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG) | 3:07 | 2024-09-05 |  |

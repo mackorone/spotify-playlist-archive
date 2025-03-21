@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Jovial
+> What is your love language? Say it in Swahili\.  Cover: Centano
 
-283 songs - 16 hr 0 min
+284 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Nibusu \(feat\. Yammi\)](https://open.spotify.com/track/4dVzMCH149RdkaqROrsATS) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [Nibusu \(feat\. Yammi\)](https://open.spotify.com/album/1F3HikuQyKXhIFfrPQ9SyV) | 3:37 | 2024-05-02 | 2024-10-25 |
 | [Nikatoke Nao](https://open.spotify.com/track/6BHdibLa2cNJ049jTjQ3E8) | [Barakah The Prince](https://open.spotify.com/artist/2Lrp6RL4vdo88oCzuutNfL) | [Nikatoke Nao](https://open.spotify.com/album/5epvY4TABqhIZQYO2u4I3F) | 3:22 | 2024-11-07 | 2024-11-29 |
 | [Nikilala](https://open.spotify.com/track/6RFGm7BDBsbGM2A4Q332n4) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Nikilala](https://open.spotify.com/album/1cUWkCUttv5J9EyGJutwWL) | 2:30 | 2023-03-10 | 2023-07-07 |
-| [Nikoe](https://open.spotify.com/track/3desdv5kEpEEFJNBsmSess) | [Killy Tz](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Nikoe](https://open.spotify.com/album/5xyjeDCqPI5cFxTqo3aIrM) | 2:57 | 2025-03-14 |  |
+| [Nikoe](https://open.spotify.com/track/3desdv5kEpEEFJNBsmSess) | [Killy Tz](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Nikoe](https://open.spotify.com/album/5xyjeDCqPI5cFxTqo3aIrM) | 2:57 | 2025-03-14 | 2025-03-21 |
 | [Nikupe](https://open.spotify.com/track/3nBM9r7MO6wt01ArmJN3qk) | [Dayna Nyange](https://open.spotify.com/artist/6boNchRYpMDrSO2PDuQ7nU), [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Nikupe](https://open.spotify.com/album/65ETlCyBOkiigBCXDkHAdl) | 3:14 | 2025-01-09 | 2025-01-24 |
 | [Nikupende](https://open.spotify.com/track/4Nmk8cdKR6XZadYTGVRoIa) | [Elani](https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26) | [Barua ya Dunia](https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z) | 4:24 | 2022-05-26 | 2022-09-23 |
 | [Nimekoma](https://open.spotify.com/track/4blFS6KD6jqGs8BlA2MGGo) | [Centano](https://open.spotify.com/artist/4LpwKC4lrWuIGRxfbc8GO0) | [Nimekoma](https://open.spotify.com/album/1Go8LYTNXNRO02aWTh4dvM) | 3:33 | 2024-09-20 | 2024-12-20 |
@@ -271,6 +271,7 @@
 | [Usiongee \(feat\. Phina\)](https://open.spotify.com/track/4rXQwPTSGcXIl26JrSafBP) | [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Water & Wine](https://open.spotify.com/album/69EiMwVvOIn2fOmahwyPNC) | 3:01 | 2024-06-14 | 2024-10-25 |
 | [Utaniua](https://open.spotify.com/track/63J4CoSdtfGr1fM48i26MP) | [Christian Bella](https://open.spotify.com/artist/6aozNU9SYbDun9FIhXKZEn) | [Utaniua](https://open.spotify.com/album/59Ir2NbfuFJomiA8xJmrTo) | 3:34 | 2024-10-04 | 2025-02-07 |
 | [Utaniua](https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Utaniua](https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb) | 3:36 | 2023-02-09 |  |
+| [Utaweza](https://open.spotify.com/track/3opPyNy1QuRSfvsYGR0sLp) | [Centano](https://open.spotify.com/artist/4LpwKC4lrWuIGRxfbc8GO0) | [Utaweza](https://open.spotify.com/album/4O3VGX7GKH2urhcmGf29Gh) | 2:41 | 2025-03-21 |  |
 | [Vuta](https://open.spotify.com/track/1AsTe59j8x2GaExAht12Fk) | [TLVSN](https://open.spotify.com/artist/6PWktnw07ge9NXQCBYxP74) | [Vuta](https://open.spotify.com/album/4gQLnVEgg1Ki1uiK2uQbth) | 4:06 | 2023-09-21 | 2023-12-01 |
 | [Wa Sasa](https://open.spotify.com/track/1FVz0hH9kEafMYlQjIkBTf) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Wa Sasa](https://open.spotify.com/album/3oxmKTtd1oBP7WACgKrh4m) | 3:14 | 2023-09-07 | 2024-06-14 |
 | [Waambie](https://open.spotify.com/track/2akpNLeJS1LfrlK9KKCAek) | [killy](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Waambie](https://open.spotify.com/album/0DycumTtXTohHbRkLhFmI3) | 2:37 | 2023-09-21 | 2024-02-23 |

@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 537039,
+  "num_followers": 537034,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "20 chansons d'or",
+        "url": "https://open.spotify.com/album/0sLW7R4AIb8Zr0TX8Voe0b"
+      },
+      "artists": [
+        {
+          "name": "Gilbert B\u00e9caud",
+          "url": "https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0"
+        }
+      ],
+      "duration_ms": 247560,
+      "name": "Nathalie",
+      "url": "https://open.spotify.com/track/4xyCkwlgvdrULd6kzSIs0I"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Les Choses De La Vie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OabVhWVDlxtZLqp6KMURV"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 171640,
       "name": "La chanson d'H\u00e9l\u00e8ne",
       "url": "https://open.spotify.com/track/5zcGOXyESkZHfMNsVfGii9"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "20 chansons d'or",
-        "url": "https://open.spotify.com/album/0sLW7R4AIb8Zr0TX8Voe0b"
-      },
-      "artists": [
-        {
-          "name": "Gilbert B\u00e9caud",
-          "url": "https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0"
-        }
-      ],
-      "duration_ms": 247560,
-      "name": "Nathalie",
-      "url": "https://open.spotify.com/track/4xyCkwlgvdrULd6kzSIs0I"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "20 Chansons D'or",
-        "url": "https://open.spotify.com/album/6noK3tB0B6nRxFc4tFcF8h"
-      },
-      "artists": [
-        {
-          "name": "Mike Brant",
-          "url": "https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Qui saura",
-      "url": "https://open.spotify.com/track/3A3LBrCEXGcyUPPBjuaNKl"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/0ghJEu8n6iOLO5dzHxOBN5"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 199586,
       "name": "Armstrong",
       "url": "https://open.spotify.com/track/2tBJhIMLX1bDjlaE8sSb4Y"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "20 Chansons D'or",
+        "url": "https://open.spotify.com/album/6noK3tB0B6nRxFc4tFcF8h"
+      },
+      "artists": [
+        {
+          "name": "Mike Brant",
+          "url": "https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Qui saura",
+      "url": "https://open.spotify.com/track/3A3LBrCEXGcyUPPBjuaNKl"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "La Maladie D'Amour",
+        "url": "https://open.spotify.com/album/2VS8g9qRPdXFC3hQSIwmqK"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "La maladie d'amour",
+      "url": "https://open.spotify.com/track/7jEU2PWW32lv8DIfDdNtap"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Platinum Charles Aznavour",
         "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
       },
@@ -975,34 +991,18 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Platinum Charles Aznavour",
-        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
+        "name": "Vu De L'Ext\u00e9rieur",
+        "url": "https://open.spotify.com/album/352XdbgCcdCMStQtgVDX3X"
       },
       "artists": [
         {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
         }
       ],
-      "duration_ms": 245533,
-      "name": "La boh\u00e8me",
-      "url": "https://open.spotify.com/track/1e9qVfNKLsWJZVjEYAzQyK"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "La Maladie D'Amour",
-        "url": "https://open.spotify.com/album/2VS8g9qRPdXFC3hQSIwmqK"
-      },
-      "artists": [
-        {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
-        }
-      ],
-      "duration_ms": 210186,
-      "name": "La maladie d'amour",
-      "url": "https://open.spotify.com/track/7jEU2PWW32lv8DIfDdNtap"
+      "duration_ms": 199800,
+      "name": "Je suis venu te dire que je m'en vais",
+      "url": "https://open.spotify.com/track/35arjnsPj4gLO8aFclgexb"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Vu De L'Ext\u00e9rieur",
-        "url": "https://open.spotify.com/album/352XdbgCcdCMStQtgVDX3X"
+        "name": "Platinum Charles Aznavour",
+        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
       },
       "artists": [
         {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
         }
       ],
-      "duration_ms": 199800,
-      "name": "Je suis venu te dire que je m'en vais",
-      "url": "https://open.spotify.com/track/35arjnsPj4gLO8aFclgexb"
+      "duration_ms": 245533,
+      "name": "La boh\u00e8me",
+      "url": "https://open.spotify.com/track/1e9qVfNKLsWJZVjEYAzQyK"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1083,22 +1083,6 @@
       "duration_ms": 250240,
       "name": "Les Mots Bleus",
       "url": "https://open.spotify.com/track/0iKhilpfx902LV9jUU5x30"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "Platinum Charles Aznavour",
-        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
-      },
-      "artists": [
-        {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "Emmenez Moi",
-      "url": "https://open.spotify.com/track/7A0piuknKPVbFtf9gxI6le"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1163,6 +1147,22 @@
       "duration_ms": 134973,
       "name": "Santiano",
       "url": "https://open.spotify.com/track/4fYqKBJQDep6s2f74pkUXZ"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Platinum Charles Aznavour",
+        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "Emmenez Moi",
+      "url": "https://open.spotify.com/track/7A0piuknKPVbFtf9gxI6le"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Santiano",
-        "url": "https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB"
-      },
-      "artists": [
-        {
-          "name": "Hugues Aufray",
-          "url": "https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol"
-        }
-      ],
-      "duration_ms": 188466,
-      "name": "C\u00e9line",
-      "url": "https://open.spotify.com/track/1dhwnKg62ljkHarJ883N7Z"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Georges Brassens Gold",
         "url": "https://open.spotify.com/album/1cQnovhPp0wDLyT4HfTLvW"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 178200,
       "name": "L'eau vive",
       "url": "https://open.spotify.com/track/5qGg8QnOSG1zik86m5Pi7S"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Santiano",
+        "url": "https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB"
+      },
+      "artists": [
+        {
+          "name": "Hugues Aufray",
+          "url": "https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol"
+        }
+      ],
+      "duration_ms": 188466,
+      "name": "C\u00e9line",
+      "url": "https://open.spotify.com/track/1dhwnKg62ljkHarJ883N7Z"
     },
     {
       "added_at": "2024-07-25 13:22:22",

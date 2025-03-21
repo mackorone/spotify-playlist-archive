@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125455,
+  "num_followers": 125452,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAT0FuPuYQj3Ybm5D88A6q51d9Ghn1O",
+  "snapshot_id": "AAAT0TAn14GcbImqGPecRjVuD4ya3grR",
   "tracks": [
+    {
+      "added_at": "2025-03-20 14:47:00",
+      "album": {
+        "name": "drunk on u",
+        "url": "https://open.spotify.com/album/3uZkt4BhHKIkVlgUz0mQfB"
+      },
+      "artists": [
+        {
+          "name": "The Duchess",
+          "url": "https://open.spotify.com/artist/5WxiAl23gqBkSToRgKsG8B"
+        },
+        {
+          "name": "Dyson",
+          "url": "https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67"
+        }
+      ],
+      "duration_ms": 132071,
+      "name": "drunk on u",
+      "url": "https://open.spotify.com/track/64KSyt7Jn8jC5lNEB15xjX"
+    },
     {
       "added_at": "2025-03-19 13:50:56",
       "album": {

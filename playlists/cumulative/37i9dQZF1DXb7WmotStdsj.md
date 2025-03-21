@@ -4,7 +4,7 @@
 
 > Les hits Raï du moment.
 
-226 songs - 18 hr 17 min
+227 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Effet De L'Amour](https://open.spotify.com/track/505Hd8gE3feZFRu2TM6I7V) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Effet De L'amour](https://open.spotify.com/album/46n8pHuXoxEm9OdeiYfxSX) | 5:14 | 2023-01-25 | 2023-06-15 |
 | [El 3achk S3ib](https://open.spotify.com/track/0waRpeDDFkMZooRQtr3bOa) | [Cheba Manel](https://open.spotify.com/artist/2gf81e1DwyMQ4TbmPgM8Qs), [Kader Zakzouk](https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA) | [El 3achk S3ib](https://open.spotify.com/album/2V49uoeC49aaRrRRT7tVw5) | 3:56 | 2023-03-16 |  |
 | [EL KHAYNA](https://open.spotify.com/track/6u9cTcjvEE0MDUxUKqwDd0) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [EL KHAYNA](https://open.spotify.com/album/6oq7Pz3U9QHr0r0Xey5Riq) | 3:40 | 2023-03-29 | 2024-04-19 |
-| [EL KHAYNA](https://open.spotify.com/track/3vAhuFK6NTHS2VzHGmyxLV) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj), [Mohamed Polyphene](https://open.spotify.com/artist/3tOjDEjeBvPyQ1atjrEcLl) | [EL KHAYNA](https://open.spotify.com/album/7F80CSWX5JAlPQ7ryWVt9x) | 3:40 | 2023-01-25 |  |
+| [EL KHAYNA](https://open.spotify.com/track/3vAhuFK6NTHS2VzHGmyxLV) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj), [Mohamed Polyphene](https://open.spotify.com/artist/3tOjDEjeBvPyQ1atjrEcLl) | [EL KHAYNA](https://open.spotify.com/album/7F80CSWX5JAlPQ7ryWVt9x) | 3:40 | 2023-01-25 | 2025-03-21 |
 | [Elissa fel good](https://open.spotify.com/track/5C9lvIZ8QZaCP39a69D3uf) | [Djamel Milano](https://open.spotify.com/artist/7AYCOTouVoJVDngBBo37We), [Tchikou 22](https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H) | [Elissa fel good](https://open.spotify.com/album/7yYPwBJl01qJLCMSKw2wi6) | 5:07 | 2024-07-25 |  |
 | [Engagé](https://open.spotify.com/track/5ONxNp0ytrI7xzk4PZ2Vaz) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Engagé](https://open.spotify.com/album/7z4Os1feFjBgWHdQlEv5xD) | 4:44 | 2021-10-19 | 2022-09-21 |
 | [Fal Moujtama3 Ghir Dahiya](https://open.spotify.com/track/0ASqhlxw7xAYrYu5XPNuQ4) | [Abderrahmane Piti](https://open.spotify.com/artist/0hcxeVxZkWcHMlt0oJw9qY), [Kader Tirigou](https://open.spotify.com/artist/3n2PbnGk8kxle7jy3CPzHs) | [Fal Moujtama3 Ghir Dahiya](https://open.spotify.com/album/6GSFQJUp2IvC2z2aMQoDlz) | 4:35 | 2023-05-01 |  |
@@ -178,6 +178,7 @@
 | [Sahr Lyali](https://open.spotify.com/track/3cXIVHqz1kQBAkih5IrE3r) | [Cheb Hasni](https://open.spotify.com/artist/6AqjzYRx9TeJDzKhkSSHFx) | [Oualaftek](https://open.spotify.com/album/2SvQ9CXIsfNHXHjorOhS5M) | 5:32 | 2022-11-07 | 2023-03-18 |
 | [Sayi Lmineur Kebret](https://open.spotify.com/track/6OEvdTHt3MOWU1aZBYfuH5) | [Cheb walid](https://open.spotify.com/artist/6rRjMolKBrQbBfem0IKSDI) | [Sayi Lmineur Kebret](https://open.spotify.com/album/3TlFBb5kNCiNwBzEv0iW2J) | 3:29 | 2024-03-16 |  |
 | [Sghira Ou Hara](https://open.spotify.com/track/0L7LlOENW6UuOr52zcaYPE) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Samy](https://open.spotify.com/artist/10bINesF7eZDORpkyHYQFD) | [Sghira Ou Hara](https://open.spotify.com/album/2XA7CTMcjG9n6JuQw5oIDv) | 4:49 | 2021-10-19 | 2023-10-12 |
+| [Smouni Nrodek](https://open.spotify.com/track/4JcwZAIkdqDWrvFlXjt1bU) | [Cherifi Akram](https://open.spotify.com/artist/1GT5LwzTtwW3Ka716vm4c4) | [Smouni Nrodek](https://open.spotify.com/album/1TAo3CzMQO3mM7zrfcgJ5s) | 4:36 | 2025-03-20 |  |
 | [Tayer 3la jalha Rouho golouhalh](https://open.spotify.com/track/59h6C78HlXp830a2rkxfoC) | [Cheb Faycel Chole](https://open.spotify.com/artist/3bBht8a9t2kDWV9mDnVECf) | [Tayer 3la jalha Rouho golouhalh](https://open.spotify.com/album/5lbUeFQ4SWlAHmDTiI2P6O) | 12:49 | 2023-06-14 |  |
 | [Tayha Love](https://open.spotify.com/track/3ZFDVnwbi8cJiEyPxbZGea) | [Cheb Nassim](https://open.spotify.com/artist/36HNrlSe0rp6bFPEDRRXHo), [Tchikou 22](https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H) | [Tayha Love](https://open.spotify.com/album/6wl0rqJu3eO97Z1Qyfv8Gd) | 4:43 | 2024-01-18 |  |
 | [Tebghih wela zkara fiya](https://open.spotify.com/track/6B51n6J8Y0BCEuylos9MdY) | [Zaid Laazizi](https://open.spotify.com/artist/6jNObcobsYYSfd7t5RvTPi) | [Tebghih wela zkara fiya](https://open.spotify.com/album/7E1ewz7KmfRN90aYPWpyyr) | 4:13 | 2022-09-20 | 2023-03-11 |

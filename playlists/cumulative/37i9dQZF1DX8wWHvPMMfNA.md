@@ -4,7 +4,7 @@
 
 > Soft instrumental jazz for working or studying.
 
-945 songs - 2 day 11 hr 7 min
+947 songs - 2 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [A Wondrous Day at Sea](https://open.spotify.com/track/1qe1tA11dGRosaBxbKutUr) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [A Wondrous Day at Sea](https://open.spotify.com/album/5pgUveuZNbekDjIK3DXx3k) | 3:22 | 2024-03-22 |  |
 | [About Time](https://open.spotify.com/track/2DC3SUlKd9xV04eGFntdv5) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [About Time](https://open.spotify.com/album/2XTaewXMZQDcjVpQk8KvP6) | 3:28 | 2024-09-27 |  |
 | [Above All](https://open.spotify.com/track/2K9iXW1SNMCRLhtG1CZKpV) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Above All](https://open.spotify.com/album/4yHKNMO6qCHvJlj43fHGGQ) | 3:02 | 2023-11-24 |  |
+| [Above the Clouds](https://open.spotify.com/track/3hvPSoMORtRuUl5tpITycv) | [London Dunes](https://open.spotify.com/artist/2e5RWs7GvOoAmhDClXsI0t) | [Above The Clouds](https://open.spotify.com/album/5E3lXXlmUSq7fAlUYBzJO3) | 3:26 | 2025-03-18 |  |
 | [After Winter Comes Spring](https://open.spotify.com/track/4Q0cp8Bo5fUe2YKjtyK9S1) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [After Winter Comes Spring](https://open.spotify.com/album/5Mn1kdE6pGip1PyhX1rufH) | 3:31 | 2023-08-10 |  |
 | [After You've Gone](https://open.spotify.com/track/7If1cSPSy5zpDFxNTYzHRs) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [After You've Gone](https://open.spotify.com/album/2xWwdUCyFng2oWhP6MeuUy) | 2:42 | 2023-05-04 |  |
 | [Ahead Of Us](https://open.spotify.com/track/19Cs9hnUVylVexTgnqvA6C) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Ahead Of Us](https://open.spotify.com/album/6k2n4F9pnvnOWU7gAS7TRm) | 3:26 | 2023-06-08 |  |
@@ -62,7 +63,7 @@
 | [All Of The Little Things I Know](https://open.spotify.com/track/4Pu5Of7IBi6YWbaWzYiXeO) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [All Of The Little Things I Know](https://open.spotify.com/album/2LbaxpobqmYU9CQYwtlkwG) | 4:51 | 2023-08-10 | 2024-04-19 |
 | [All The Dreams We Share](https://open.spotify.com/track/2mGXXJXNDu3qCTPcO8GRk1) | [Velvet Hues Quintet](https://open.spotify.com/artist/35kQjZNkgr2QmvaVdX9rIS) | [All The Dreams We Share](https://open.spotify.com/album/39foIdDAXks8DqeXyILmrN) | 3:04 | 2024-04-10 |  |
 | [All the Stars](https://open.spotify.com/track/3lNR1Rzlvew7A6lyPEKDEk) | [Franklin Trio](https://open.spotify.com/artist/6JKD55Y19og9ydmldZwVQw) | [All the Stars](https://open.spotify.com/album/1cEEgLpfKysT4Ey99HziNV) | 5:28 | 2022-11-11 |  |
-| [All The Things We Were](https://open.spotify.com/track/6052pnXvRCf5U70YC0XLF6) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [All The Things We Were](https://open.spotify.com/album/0noiiJAIqjOk9Yp1wcS155) | 4:31 | 2023-06-01 |  |
+| [All The Things We Were](https://open.spotify.com/track/6052pnXvRCf5U70YC0XLF6) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [All The Things We Were](https://open.spotify.com/album/0noiiJAIqjOk9Yp1wcS155) | 4:31 | 2023-06-01 | 2025-03-21 |
 | [All The Things You Are](https://open.spotify.com/track/3DEZOaXvDvRw8ESZE4RaHF) | [Upstage Trio](https://open.spotify.com/artist/5jBnVpfLHeBEXaDAG0MD1L) | [All The Things You Are](https://open.spotify.com/album/4mmZ3MBSlGakqDOhJspWEp) | 2:48 | 2023-06-01 |  |
 | [Almost Home](https://open.spotify.com/track/6o2FVcJk7m0eY4AYIuf2hK) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Almost Home](https://open.spotify.com/album/3YxHVhhbU5dIUmkIiXwKQc) | 2:38 | 2024-03-22 |  |
 | [Almost Like Being In Love](https://open.spotify.com/track/2vGJACJBCVyEHk6lCcqiSO) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 3:31 | 2021-12-16 |  |
@@ -128,7 +129,7 @@
 | [Bright Drops](https://open.spotify.com/track/6TgUk5sdJegSlgSqxsvqyf) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Bright Drops](https://open.spotify.com/album/0irXga7rgvezY56zr9ynVE) | 4:44 | 2023-06-01 | 2025-02-05 |
 | [Bring Me Yesterday](https://open.spotify.com/track/0jGhhONiu7NOpOqrnTBh8d) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2) | [October Blue](https://open.spotify.com/album/7kZPEYeThqDrK4xfb4LJJh) | 3:23 | 2022-11-11 |  |
 | [Bring Some Lovin'](https://open.spotify.com/track/0V3X52LW5ERZOOWS8HnJjr) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Bring Some Lovin'](https://open.spotify.com/album/2yXLY4cvecdiSn24aZF0Fo) | 3:09 | 2022-11-11 |  |
-| [Broken Heart](https://open.spotify.com/track/15L7bPjJZDxhhaaY1pKbpK) | [Andreas Gidlund Five](https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6) | [Broken Heart](https://open.spotify.com/album/0ywLNB1MSdhhPuyObPVKqh) | 3:53 | 2023-08-10 |  |
+| [Broken Heart](https://open.spotify.com/track/15L7bPjJZDxhhaaY1pKbpK) | [Andreas Gidlund Five](https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6) | [Broken Heart](https://open.spotify.com/album/0ywLNB1MSdhhPuyObPVKqh) | 3:53 | 2023-08-10 | 2025-03-21 |
 | [Brother Rabbit](https://open.spotify.com/track/7GZMIDtN9DLqluOtFy1mUs) | [Jacky Bonnet Group](https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX) | [Brother Rabbit](https://open.spotify.com/album/0mO4xPzkwqsq9N9nvBGM18) | 2:57 | 2023-01-12 |  |
 | [Bullock's Oriole](https://open.spotify.com/track/7fHjVyteq1A6TOfjqdxvrE) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Bullock's Oriole](https://open.spotify.com/album/2G1MAcTtq1SPOIZ3smus78) | 3:39 | 2023-06-01 |  |
 | [Butterflies](https://open.spotify.com/track/3PzunsgZeWxBAgsI99Ha7v) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Butterflies](https://open.spotify.com/album/0z75wR9FrPuaqE5srfUZaf) | 3:02 | 2023-08-10 |  |
@@ -331,6 +332,7 @@
 | [How Long Have I Waited?](https://open.spotify.com/track/1NcO5gArgmWrwUH0LfmKqW) | [Thames Quartet](https://open.spotify.com/artist/1R7RKpGGSeqK8pSBK79w7T) | [Bittersweet](https://open.spotify.com/album/6gkJFEs7AFfAMVgOJ8eaR5) | 3:11 | 2023-10-27 |  |
 | [How She Walks](https://open.spotify.com/track/1OsZpyWuQeukRtfB9U8Tmk) | [West Village Trio](https://open.spotify.com/artist/6cIFYOs23Aowktaez0d6ew) | [How She Walks](https://open.spotify.com/album/3MJxreK1iSr3LH02oElQkp) | 4:39 | 2024-04-02 | 2024-12-26 |
 | [How’s It Going?](https://open.spotify.com/track/6tht37fb8QeaNohZIudAwH) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [How’s It Going?](https://open.spotify.com/album/6bkFMHlTu3sX5y0oYtm8At) | 2:39 | 2024-07-22 |  |
+| [I Adore You](https://open.spotify.com/track/4LF5NvC0jVrKsevrY1kYJA) | [Santiago Brown](https://open.spotify.com/artist/48ApFINfc4zrFBfjNeFnQ1) | [I Adore You](https://open.spotify.com/album/7seM3v1aCwaJesoLWpNaQM) | 4:04 | 2025-03-18 |  |
 | [I awake](https://open.spotify.com/track/6AianoPQwgFLarNY5s3ntc) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [I awake](https://open.spotify.com/album/1H478Tq3lKuqWtTdzhLa8q) | 4:05 | 2023-06-01 |  |
 | [I Concentrate On You](https://open.spotify.com/track/2EAg1quHmyj5wGPEONM5KL) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [I Concentrate On You](https://open.spotify.com/album/5R8IVGtCRIxv5KWwpjTiFL) | 4:40 | 2022-11-24 |  |
 | [I Cover The Waterfront](https://open.spotify.com/track/1YNHdhvXBogdk54KI1yd2P) | [Paul Gonsalves](https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4) | [Gettin' Together!](https://open.spotify.com/album/2R7pL2UXf9wBMYg7b37XLB) | 4:05 | 2022-01-26 | 2024-09-28 |

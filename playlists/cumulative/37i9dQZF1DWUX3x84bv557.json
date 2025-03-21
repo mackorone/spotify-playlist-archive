@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: Roxy Dekker & Koen",
+  "description": "De nieuwste Nederlandse pop! Cover: Zo\u00eb Livay & Snelle",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -234,7 +234,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 163200,
       "name": "2007",
       "url": "https://open.spotify.com/track/5yqC8eYWTwcY6LcvzMmtKJ"
@@ -1322,7 +1322,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 203264,
       "name": "Als Je Nog Wil",
       "url": "https://open.spotify.com/track/0Ead0P4QxEndPROj1rNrGT"
@@ -1560,7 +1560,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 223024,
       "name": "Altijd Weer Naar Huis",
       "url": "https://open.spotify.com/track/6qA80aXMxio3VeSdp93wyd"
@@ -1827,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/7vTA5iDvkhVHkRLYvVXWad"
+      },
+      "artists": [
+        {
+          "name": "Pommelien Thijs",
+          "url": "https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180013,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/6zdmJ79GtRfpJJdaDPECYm"
+    },
+    {
+      "album": {
         "name": "Sliden EP",
         "url": "https://open.spotify.com/album/4DtdhtDmxanQokbOQmpytY"
       },
@@ -2088,6 +2106,24 @@
       "duration_ms": 137164,
       "name": "Ben Je Wakker?",
       "url": "https://open.spotify.com/track/3ibGc2PLDs46Qa5FU870di"
+    },
+    {
+      "album": {
+        "name": "Bennie",
+        "url": "https://open.spotify.com/album/5wpuCWPH2uf6fVOQBLxWve"
+      },
+      "artists": [
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157302,
+      "name": "Bennie",
+      "url": "https://open.spotify.com/track/4CI8h2cW6luzQtcJRr8ApQ"
     },
     {
       "album": {
@@ -3242,7 +3278,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 198225,
       "name": "Dat Je Danst",
       "url": "https://open.spotify.com/track/6qv1dNAkOxfxL7G3sCGoDc"
@@ -7355,6 +7391,28 @@
     },
     {
       "album": {
+        "name": "Ik Zing (feat. Snelle)",
+        "url": "https://open.spotify.com/album/0mGKEPfav9UHa2wssnrruz"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        },
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174288,
+      "name": "Ik Zing (feat. Snelle)",
+      "url": "https://open.spotify.com/track/0fROjdyTv6S6E65qpQfwHa"
+    },
+    {
+      "album": {
         "name": "Dagboek",
         "url": "https://open.spotify.com/album/3BQPnnnEFqxPg7Oj7AoRfW"
       },
@@ -7756,7 +7814,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 174570,
       "name": "Jij Voelt Goed",
       "url": "https://open.spotify.com/track/5PN65C8wGpD5D2Dcm2YMtP"
@@ -10524,6 +10582,24 @@
       "duration_ms": 161076,
       "name": "Niet Breken",
       "url": "https://open.spotify.com/track/4iv7QWrytOLIRIECHBJkqP"
+    },
+    {
+      "album": {
+        "name": "Niet genoeg",
+        "url": "https://open.spotify.com/album/6ZUKiWJmM631ScU721snk0"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/4VIib2UJ5zptuPt5ObTv3l"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183530,
+      "name": "Niet genoeg",
+      "url": "https://open.spotify.com/track/0XjHmMqmKDSf7bbguJf1nI"
     },
     {
       "album": {
@@ -14072,6 +14148,24 @@
       "duration_ms": 140102,
       "name": "Underdog Superster Asterisk",
       "url": "https://open.spotify.com/track/072XjMU0RR8HTAW9pTQytO"
+    },
+    {
+      "album": {
+        "name": "Utrecht",
+        "url": "https://open.spotify.com/album/5XpjEbOmsoOOaHWZRjvd76"
+      },
+      "artists": [
+        {
+          "name": "Maxime",
+          "url": "https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193227,
+      "name": "Utrecht",
+      "url": "https://open.spotify.com/track/4NCIduhosiVATq2M38bhI2"
     },
     {
       "album": {

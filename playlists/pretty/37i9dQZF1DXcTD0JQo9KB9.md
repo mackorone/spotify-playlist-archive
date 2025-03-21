@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 
 > 每人都有講唔出嘅難處同感受，但記住：我哋有彼此。見字撐住啊！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,234 likes - 106 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,237 likes - 106 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

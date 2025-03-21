@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Hip\-Hop con Ñ, aquí lxs que dominan el juego de las rimas\. Santa Fe Klan y Lefty Gunplay en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,926 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,948 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 21 | [Ahuevo Que Simon](https://open.spotify.com/track/1yDCWV2CobxJ79axpAjxNj) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Sr\. Ahuevo](https://open.spotify.com/album/7LGNl9hAHJnRyzBMrBHvFa) | 2:34 |
 | 22 | [Traficando Rap](https://open.spotify.com/track/0jTEOIQZUr9915RLWVMNh1) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Traficando Rap](https://open.spotify.com/album/6AVwplC1dMqFzAt2tGm7g5) | 2:44 |
 | 23 | [Niños Santos](https://open.spotify.com/track/0r0Ezkt7qJRCX97tBaIAOc) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Villax](https://open.spotify.com/artist/4HkxgUTD15NUWSqxA2VfhN), [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq) | [Punto de Quiebre Vol\. 2](https://open.spotify.com/album/0YgkdLXPBd8MRkSBdjTnzv) | 4:31 |
-| 24 | [Ser Feliz Es Gratis](https://open.spotify.com/track/4MmbFHU0gB3irYsertmTIc) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Cheche Cole](https://open.spotify.com/artist/1vTh9OJHlNi1sYgUTsqYVI) | [Filantropía](https://open.spotify.com/album/16SCjPR5vzDWzCHwe6CiYp) | 3:13 |
+| 24 | [Ser Feliz Es Gratis](https://open.spotify.com/track/4MmbFHU0gB3irYsertmTIc) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Cheche Cole](https://open.spotify.com/artist/1vTh9OJHlNi1sYgUTsqYVI), [Torttura](https://open.spotify.com/artist/6rJzlpIXeoECESI2th2xzA) | [Filantropía](https://open.spotify.com/album/16SCjPR5vzDWzCHwe6CiYp) | 3:13 |
 | 25 | [Muévelo](https://open.spotify.com/track/2c7p5U1ci0a6sFj7C3KPGv) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Hordatoj](https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu) | [Muévelo](https://open.spotify.com/album/72FTAp6DD98dDO9kiQDHYP) | 3:09 |
 | 26 | [Fiesta De Barrio](https://open.spotify.com/track/1vqejJVjdEvb3d7zoQnhB0) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Fiesta De Barrio](https://open.spotify.com/album/069edRbz8dGWvqvcgMUJDw) | 3:18 |
 | 27 | [Tu Héroe](https://open.spotify.com/track/5AKWFDSXV2edVPHPlaO9qL) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Tu Héroe](https://open.spotify.com/album/09zIV6A4I2sZJFJ6z3vAwn) | 4:01 |

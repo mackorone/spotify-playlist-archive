@@ -2,9 +2,9 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Helena
+> La pop française annonce la couleur\. Photo : The Doug
 
-278 songs - 13 hr 50 min
+280 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [C'est ciao !](https://open.spotify.com/track/7GGSkQIglpa4FC3OIsMkXb) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [C'est ciao !](https://open.spotify.com/album/5sEYaSuLlMiFcwtR2rEs6x) | 2:19 | 2024-06-27 | 2024-10-11 |
 | [C'est quand même fou \(feat\. Allan Védé\)](https://open.spotify.com/track/0adm4o7OInFqcEV0CEIgeQ) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC), [Allan Védé](https://open.spotify.com/artist/6Ok5vHdsKT1gVoq2wg25qy) | [C'est quand même fou \(feat\. Allan Védé\)](https://open.spotify.com/album/2pXZ6MaXkFcA39OYfuzLqF) | 2:56 | 2025-02-20 |  |
 | [C'est toi](https://open.spotify.com/track/7vzLRsfNytlCFJzZhM1AXK) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [C'est toi](https://open.spotify.com/album/6vUy11UYLwzE3V89PbpELy) | 1:58 | 2024-04-18 | 2024-07-12 |
+| [camion benne](https://open.spotify.com/track/3t8qKIpMQbA2wDMKPi57e8) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [camion benne](https://open.spotify.com/album/7kuqfw4MFP1pZfPKOTY3Fh) | 3:10 | 2025-03-20 |  |
 | [Carabine](https://open.spotify.com/track/2z1EwCtvjaqa0AK5hQqvD0) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Photographie](https://open.spotify.com/album/3OUdDelS2copkJpYt7LEP2) | 3:21 | 2023-11-09 | 2024-01-26 |
 | [CC SAVA](https://open.spotify.com/track/6HoSoaAfrL9F3lZMuMVZFb) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [CC SAVA](https://open.spotify.com/album/0fk7JDzCzSLdQpvV2u3l2S) | 3:07 | 2023-10-12 | 2023-12-15 |
 | [Ce que dit la rumeur](https://open.spotify.com/track/486i7XnscjuJ59ktUrdlAQ) | [Elephanz](https://open.spotify.com/artist/2CD8tl357w6zYA3XYuOJPO) | [Ce que dit la rumeur](https://open.spotify.com/album/2Y3BJaibqZ9aOfdW60ad0r) | 2:42 | 2023-09-14 | 2023-09-22 |
@@ -53,7 +54,7 @@
 | [CHAVIRE](https://open.spotify.com/track/7Dz7FQgW6Wkr5hfxMKneFa) | [Louve](https://open.spotify.com/artist/3x5sBirhNbWXVt1DwivDOI) | [CHAVIRE](https://open.spotify.com/album/01iCU2e0KQI7b1FUhCbqWa) | 2:47 | 2023-09-14 | 2023-11-25 |
 | [CINÉMA](https://open.spotify.com/track/4BFNzsg8KIL0quoCNU4kFE) | [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [CINÉMA](https://open.spotify.com/album/1haJVnTC4CrfC6WZMtpRjh) | 3:16 | 2024-11-14 |  |
 | [CINÉMA](https://open.spotify.com/track/3v6nKVjIZ3fdFNvBStLfRQ) | [Pierre Guénard](https://open.spotify.com/artist/1QO4qcZJORpIuWc1IREzkX) | [CINÉMA](https://open.spotify.com/album/061OG1SIHggUfdf2TBq98A) | 2:55 | 2024-12-05 |  |
-| [Colle au corps](https://open.spotify.com/track/7L532sGPiyGrz1I9V0lhTK) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [Les histoires tristes me collent au corps](https://open.spotify.com/album/1An8Iq7N30VqKjuEmyPcJU) | 3:07 | 2024-10-17 |  |
+| [Colle au corps](https://open.spotify.com/track/7L532sGPiyGrz1I9V0lhTK) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [Les histoires tristes me collent au corps](https://open.spotify.com/album/1An8Iq7N30VqKjuEmyPcJU) | 3:07 | 2024-10-17 | 2025-03-21 |
 | [Comme au cinéma](https://open.spotify.com/track/7y56DoO0KggFFXE8WMU0ua) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Comme au cinéma](https://open.spotify.com/album/6mNPjjdJ80ktgX3Ef5kSdO) | 2:51 | 2024-11-21 |  |
 | [Comme ceux qui s'aiment](https://open.spotify.com/track/68p57UPGx8uXlGSEAdKHis) | [Nyv](https://open.spotify.com/artist/1ciw0LLweRvHpU9zhiOYyq) | [Comme ceux qui s'aiment](https://open.spotify.com/album/13yLsDKsT0GK6c2s4FnfsC) | 3:05 | 2024-01-25 | 2024-09-06 |
 | [Comme des loups \(feat\. Zaoui\)](https://open.spotify.com/track/4M5GHCgdNcIk4I2tdXhLia) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC), [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Comme des loups \(feat\. Zaoui\)](https://open.spotify.com/album/7JS49BrlvgRrcCXPEPeICC) | 3:22 | 2024-11-07 |  |
@@ -149,6 +150,7 @@
 | [Le dessert en premier](https://open.spotify.com/track/1rJMWy4MeA2fo04H9O9YxU) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pause](https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46) | 2:38 | 2023-07-27 | 2024-01-12 |
 | [le fou dans la voiture](https://open.spotify.com/track/3k9cQZ3IX3uUbtaScug3t5) | [Terrenoire](https://open.spotify.com/artist/6AiHXHMryCtGFBEnjB17aA) | [le fou dans la voiture](https://open.spotify.com/album/59WkRQu423vEroErMVws4h) | 2:46 | 2024-12-12 |  |
 | [Le Marbre](https://open.spotify.com/track/2e5C5tdiQEjk3QCa1H9AbV) | [CHARLES](https://open.spotify.com/artist/3BAyGVtoPcmQbeb58hlIZs) | [Le Marbre](https://open.spotify.com/album/2qh4jxj48CyH6n7jUuk8Ja) | 2:22 | 2024-03-28 | 2024-07-06 |
+| [Le monde est à nous](https://open.spotify.com/track/0NCY8R2V0pIs5YnQIDnl07) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [Le monde est à nous](https://open.spotify.com/album/5hfubDUZd4eJmUpycUrU3V) | 2:34 | 2025-03-20 |  |
 | [Le Mythe de Jesse James](https://open.spotify.com/track/54hOQ15avjXZfBecwARm7z) | [Takeshi HRTBRK](https://open.spotify.com/artist/5UDVJ8zsudfutHD7DCLeuz) | [Le Mythe de Jesse James](https://open.spotify.com/album/7vCaq8ooLgcw5p08ZEdQUy) | 3:24 | 2024-03-14 | 2024-05-25 |
 | [Le Pas](https://open.spotify.com/track/52N5YwXgVCV9dHWAOegiPr) | [Esken](https://open.spotify.com/artist/6YASQSJPMeUFm0rpMXY0p1) | [Le pas](https://open.spotify.com/album/2kizAvObb16TiKr4G2y6Yz) | 2:36 | 2024-03-29 | 2024-05-17 |
 | [Le sport](https://open.spotify.com/track/327n10K86XlYJ6SNU92HLx) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI) | [Le sport](https://open.spotify.com/album/1eeXV77VD0bcIROCu4MAI0) | 3:08 | 2023-10-12 | 2023-11-17 |
@@ -284,7 +286,7 @@
 | [Ça changera](https://open.spotify.com/track/5djeUP858B1W5UlLfyT4c1) | [Opaline](https://open.spotify.com/artist/0Mp2rPC1xoRs63od7dflGV) | [Ça changera](https://open.spotify.com/album/2U31luRWbjNaqhej8fQa9q) | 3:03 | 2024-05-02 | 2024-06-28 |
 | [Ça ira](https://open.spotify.com/track/4fzoguCLFCgt2ldzSkLkL4) | [Gaëlle](https://open.spotify.com/artist/7IEKUdw3xG4W1DpxvLL0di) | [Ça ira](https://open.spotify.com/album/18sxQrfpUxfwygD6RTtcju) | 2:38 | 2023-12-14 | 2024-02-02 |
 | [État normal](https://open.spotify.com/track/5gpNCEmwRtF9WmlVc3y9RJ) | [Venus VNR](https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW) | [État normal](https://open.spotify.com/album/0JwKhFsPG4KIkGZeQy0YWY) | 2:18 | 2024-01-25 | 2024-04-19 |
-| [être biennn](https://open.spotify.com/track/0O2eT2YAfna5HFTFz1ibKE) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 3:27 | 2024-06-13 |  |
+| [être biennn](https://open.spotify.com/track/0O2eT2YAfna5HFTFz1ibKE) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 3:27 | 2024-06-13 | 2025-03-21 |
 | [être moi\-même](https://open.spotify.com/track/1QkNQXYEKusDSWe592C98z) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [premiers chocs](https://open.spotify.com/album/5jUJHvqGAbvklfgPy9z2gy) | 2:40 | 2024-01-11 | 2024-04-19 |
 
 \*This playlist was first scraped on 2023-07-29. Prior content cannot be recovered.

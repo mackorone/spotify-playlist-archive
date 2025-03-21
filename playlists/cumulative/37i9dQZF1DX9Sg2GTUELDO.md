@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9Sg2GTUELDO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9Sg2GTUELDO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9Sg2GTUELDO)
 
-### [超級女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
+### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受超級女聲力量。Cover: 鄧小巧
+> 感受女聲力量。Cover: Cath黃妍
 
-465 songs - 1 day 3 hr 44 min
+469 songs - 1 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [人若海](https://open.spotify.com/track/3OkPxR6SOO8QKGS1brNmWN) | [dorothy 劉君冬](https://open.spotify.com/artist/1qjsjBF6F451KY2MB5tSKQ) | [人若海](https://open.spotify.com/album/0t5tBgasdVVPco3oTbhyJb) | 3:09 | 2024-06-27 |  |
 | [今年煙花特別多](https://open.spotify.com/track/5R60xmTx4XzH4Co3ZgIG2F) | [Apple 凌雪怡](https://open.spotify.com/artist/3k01I6i5Vdf4fxSCzCdZvp) | [今年煙花特別多](https://open.spotify.com/album/4VIS7XglZQEMxSodj6U0aK) | 4:39 | 2024-08-01 |  |
 | [仍會等](https://open.spotify.com/track/3FGadTlzoJ5F4UtUMWrL3h) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [仍會等](https://open.spotify.com/album/4qMZ8lSzM9GXYEXv3WKa0f) | 3:19 | 2024-06-27 |  |
+| [仍然很想相信你 \(劇集《奪命提示》片尾曲\)](https://open.spotify.com/track/4Qigd81nyUuRnd1XwYAIII) | [Shiga Lin](https://open.spotify.com/artist/5Uw3hCC51pNjdsD2MOs72K) | [仍然很想相信你 \(劇集《奪命提示》片尾曲\)](https://open.spotify.com/album/0TXaqxUnhEAitO6ayCpP8N) | 3:50 | 2025-03-20 |  |
 | [他不是你](https://open.spotify.com/track/4A6uVEFbhT7TO9zXq9pRAL) | [Shiga Lin](https://open.spotify.com/artist/5Uw3hCC51pNjdsD2MOs72K) | [他不是你](https://open.spotify.com/album/7swXlMv4USdhFuENlRRXGq) | 4:11 | 2024-06-27 |  |
 | [以正義之名](https://open.spotify.com/track/76q7oMbUptFtumSe3cv5up) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [以正義之名](https://open.spotify.com/album/5bPGEuVSivcmobsNbNveD0) | 3:51 | 2024-06-27 |  |
 | [企好](https://open.spotify.com/track/7DtzElK1X4H5FWQMPX7ZYH) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [企好](https://open.spotify.com/album/7A6puxwZwV0hxCNzjeg6S8) | 3:25 | 2024-06-27 |  |
@@ -296,6 +297,7 @@
 | [心甘情願](https://open.spotify.com/track/1rkbhMawUQNcA9okSe0DaN) | [Stephanie Leung](https://open.spotify.com/artist/5L8OEtf2LqWJhj3vFkLfDP) | [心甘情願](https://open.spotify.com/album/1TyTLJ5ESW2dXMHeikM2hE) | 3:16 | 2024-06-27 |  |
 | [心魔](https://open.spotify.com/track/3H9A0RlpWlPf61RR3EPhYI) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [心魔](https://open.spotify.com/album/12jqcFB37LnxltbicrX1fq) | 2:52 | 2024-06-27 |  |
 | [念](https://open.spotify.com/track/21Y7Om8LTUS5dNKqKYeywc) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [念](https://open.spotify.com/album/1QowbHwkez4o0CuheZSsan) | 4:48 | 2024-06-27 |  |
+| [性本善](https://open.spotify.com/track/7hNx1gfiFqpOdPJPYzioDV) | [Vivian Koo](https://open.spotify.com/artist/0TfSuWQ4dWP8Kay5nK17WW) | [性本善](https://open.spotify.com/album/44phlXbXCMwxhE7LnCgTJx) | 4:03 | 2025-03-20 |  |
 | [恐懼蠶食心靈](https://open.spotify.com/track/5B5cFo2zP4DoPucjFLpiuj) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [恐懼蠶食心靈](https://open.spotify.com/album/0FrVK9qBrzzP1WRDRgGL1M) | 3:30 | 2024-06-27 |  |
 | [悲劇女主](https://open.spotify.com/track/3IF0lrHvkZcf7UE06y6ak5) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [悲劇女主](https://open.spotify.com/album/310rBBuLxcmXHUnKaGP8iA) | 3:55 | 2025-02-13 |  |
 | [情人](https://open.spotify.com/track/2fEfDnUzIcRNMAHpwpprah) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [情人](https://open.spotify.com/album/1SXBch8PjIAhSxk2JOPkK1) | 4:53 | 2024-06-27 |  |
@@ -367,6 +369,7 @@
 | [樂園見](https://open.spotify.com/track/3SwJlk5W8rGPnjfgZLVqUu) | [姜穎芝 Gigi](https://open.spotify.com/artist/7xbRsyQgjHiM8EYHuMEK0p) | [樂園見](https://open.spotify.com/album/7Du8z4U9PeWF70Z45XgkCC) | 3:30 | 2024-06-27 |  |
 | [樹之呼吸](https://open.spotify.com/track/5LCP5DaNaMgVgXnoMgMSpz) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹之呼吸](https://open.spotify.com/album/4B6k5KRYNNQLRMf8KldXJm) | 2:35 | 2024-06-27 |  |
 | [次次](https://open.spotify.com/track/4y2DzgkdgNw45QMzYU78Dl) | [Jasmine Yen](https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS) | [次次](https://open.spotify.com/album/0EtJphjLYsw5xPcnWSHrnz) | 2:44 | 2024-11-07 |  |
+| [步兵記](https://open.spotify.com/track/2mqi3gtlTn6VVMobVDIPYd) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [步兵記](https://open.spotify.com/album/3KXRhsQM5aOlp8J96qGgXw) | 3:40 | 2025-03-20 |  |
 | [毋忘（《4拍4家族》電影主題曲）](https://open.spotify.com/track/0jQMHHTTxlSZfIYV1mu5ak) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [毋忘（《4拍4家族》電影主題曲）](https://open.spotify.com/album/2HpQFxLxiZw6GRRAylLyDh) | 3:30 | 2024-06-27 |  |
 | [每一次最後](https://open.spotify.com/track/2VfcVOCdLrBmOD8ladU1iA) | [謝雅兒](https://open.spotify.com/artist/3spApH2tC3gVmNOkW0hrZk) | [每一次最後](https://open.spotify.com/album/6GsbtG0thCH9xQ9XuAVqVM) | 4:08 | 2024-10-31 |  |
 | [比生命更大](https://open.spotify.com/track/2jMhZFeEDB85LwYeo9omz1) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [比生命更大](https://open.spotify.com/album/58QiM4it2CLAwlqVnQVECQ) | 4:31 | 2024-06-27 |  |
@@ -392,6 +395,7 @@
 | [無窮盡](https://open.spotify.com/track/70wJlV40JiB5eqWbxxqRvE) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [無窮盡](https://open.spotify.com/album/7ymagvuqyzfVFbaqIksYao) | 3:35 | 2024-06-27 |  |
 | [無糖可樂](https://open.spotify.com/track/1rudYSVdB88q9bSeQnqyBb) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [無糖可樂](https://open.spotify.com/album/4L7aoAJwGiKZEeF9x37TVI) | 4:19 | 2025-01-16 |  |
 | [無能 為力](https://open.spotify.com/track/33GjUsP4FAkk8sHcHJiN2e) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [無能 為力](https://open.spotify.com/album/5xfczPThgUv5RpvPZwhGzD) | 3:13 | 2024-06-27 |  |
+| [無膽匪類](https://open.spotify.com/track/1CUNuItJ9W782QUHDGAW1O) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [無膽匪類](https://open.spotify.com/album/35Pk4Fyff8LLdPY8Bq563J) | 3:19 | 2025-03-20 |  |
 | [焦慮型依戀](https://open.spotify.com/track/1P3Tlw0AgrMSW3LlIjidxd) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [焦慮型依戀](https://open.spotify.com/album/0fUtOlileN8mI2HKZqHAZN) | 3:37 | 2024-06-27 |  |
 | [煙草](https://open.spotify.com/track/0BKtrm5b1wvbDDs5IumsJs) | [譚杏藍](https://open.spotify.com/artist/7bpjzYP4ylb6iAHOWOJTmO) | [煙草](https://open.spotify.com/album/45rCoEI3PQE6SgMgaTados) | 4:20 | 2024-09-26 |  |
 | [物無類聚](https://open.spotify.com/track/1kf2gjFvJ7m9mTXcyedsqm) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [物無類聚](https://open.spotify.com/album/7osatkOGfOD1zXMUp0SavU) | 4:48 | 2024-06-27 |  |

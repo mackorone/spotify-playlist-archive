@@ -1065,6 +1065,24 @@
     },
     {
       "album": {
+        "name": "Distant Voices",
+        "url": "https://open.spotify.com/album/2yceOtz5c8fbJjM4oqF4M9"
+      },
+      "artists": [
+        {
+          "name": "Samtar",
+          "url": "https://open.spotify.com/artist/0hkpwpjYE8NDNn0j829A8d"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305234,
+      "name": "Distant Voices",
+      "url": "https://open.spotify.com/track/5TrZN2HubccqmluPEPDWWj"
+    },
+    {
+      "album": {
         "name": "Do Angels Sing Like Rain?",
         "url": "https://open.spotify.com/album/4srkbHQAppZckPsJdnfcuL"
       },
@@ -1434,7 +1452,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 247346,
       "name": "Extreme",
       "url": "https://open.spotify.com/track/7eDQryn6hHQRtdyGzWJyue"
@@ -2966,7 +2984,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 223146,
       "name": "Mr. Tap n' Go",
       "url": "https://open.spotify.com/track/78bbsnvyylLQGwz53vXtRg"
@@ -3104,6 +3122,24 @@
       "duration_ms": 424443,
       "name": "Nighttime Disguise",
       "url": "https://open.spotify.com/track/2cXtLOiUWyCDebAT65p5cJ"
+    },
+    {
+      "album": {
+        "name": "No Rest For The Wicked (Live)",
+        "url": "https://open.spotify.com/album/5h7peJSTwyoiDYn6nywCdo"
+      },
+      "artists": [
+        {
+          "name": "Yngwie Malmsteen",
+          "url": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109440,
+      "name": "No Rest For The Wicked - Live",
+      "url": "https://open.spotify.com/track/00wnkRdvEBT7aG9OVsjD4A"
     },
     {
       "album": {

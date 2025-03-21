@@ -561,6 +561,32 @@
     },
     {
       "album": {
+        "name": "Allo (Afro House Version)",
+        "url": "https://open.spotify.com/album/6SiQF7kW5ErMrLP5DQrDBg"
+      },
+      "artists": [
+        {
+          "name": "Balti",
+          "url": "https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR"
+        },
+        {
+          "name": "Anthony Keyrouz",
+          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
+        },
+        {
+          "name": "JimmX",
+          "url": "https://open.spotify.com/artist/4X71KCLaNqDa0dT5iAQhe1"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179290,
+      "name": "Allo - Afro House Version",
+      "url": "https://open.spotify.com/track/2Bp077w8B83yrFIrHjUnst"
+    },
+    {
+      "album": {
         "name": "Allo Allo",
         "url": "https://open.spotify.com/album/4sburaTq1o99krSVbsgrFZ"
       },
@@ -572,7 +598,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 322000,
       "name": "Allo Allo",
       "url": "https://open.spotify.com/track/6rCxFxvSwrUSy5QYMVA2sy"

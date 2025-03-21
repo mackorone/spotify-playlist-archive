@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR"
@@ -22372,7 +22372,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-03",
+      "date_removed": null,
       "duration_ms": 162840,
       "name": "Laboratoire",
       "url": "https://open.spotify.com/track/7wOgZ1otoKYDvKyQKP1sNZ"
@@ -24852,7 +24852,7 @@
       ],
       "date_added": "2025-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 189786,
       "name": "M'envoler",
       "url": "https://open.spotify.com/track/5tjcfD27bNYQiYObzIo9Ig"
@@ -27086,6 +27086,24 @@
       "duration_ms": 158680,
       "name": "Mexicana",
       "url": "https://open.spotify.com/track/7JpUktJfNtDkWR8lye5UZz"
+    },
+    {
+      "album": {
+        "name": "H-24",
+        "url": "https://open.spotify.com/album/4wnVFYd03IAZ8NhoSFFd0X"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225391,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/0LbuSkJMsSFTKCvGSweQQ4"
     },
     {
       "album": {

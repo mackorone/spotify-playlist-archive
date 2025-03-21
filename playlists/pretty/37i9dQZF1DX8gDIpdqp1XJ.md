@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock, neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,048 likes - 101 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,110 likes - 101 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 18 | [MOM](https://open.spotify.com/track/56kFAxC94Ek5ZWFoY2TjaT) | [Sego](https://open.spotify.com/artist/0GtuGhnsCPahfLCAFg27gj) | [TANDANG](https://open.spotify.com/album/5d2oeB6Uf0t0lTeQnIOXys) | 5:29 |
 | 19 | [Beanie](https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh) | 2:12 |
 | 20 | [Side By Side](https://open.spotify.com/track/2vlHyjzgm52ikajf5OAdlg) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [AMAMA](https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo) | 3:07 |
-| 21 | [INSTANT DEATH](https://open.spotify.com/track/4CabzuTCgzHt57Fc6HqqPy) | [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g), [Goner](https://open.spotify.com/artist/7dNAnTCNymUovGgVoNhX3c) | [INSTANT DEATH](https://open.spotify.com/album/2RC4sBo7R0awCOBYT3aP6u) | 2:35 |
+| 21 | [INSTANT DEATH](https://open.spotify.com/track/4CabzuTCgzHt57Fc6HqqPy) | [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g), [Goner](https://open.spotify.com/artist/2zubb88j9raZCaoyXih0iT) | [INSTANT DEATH](https://open.spotify.com/album/2RC4sBo7R0awCOBYT3aP6u) | 2:35 |
 | 22 | [Dream of You](https://open.spotify.com/track/6pVYBR8WJdwUwMkdSTensd) | [Lionlimb](https://open.spotify.com/artist/06wmOEVNWtAOfLxNVcnz0V), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Dream of You](https://open.spotify.com/album/4OU061WzwjHr9KUBJnLEMR) | 3:57 |
 | 23 | [Different Directions](https://open.spotify.com/track/1bEvoQH3OpVMohkh0Aq9Uq) | [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [Different Directions](https://open.spotify.com/album/7nPBvPzfMqTLP4bepqnjuc) | 3:15 |
 | 24 | [Rigid Dreams](https://open.spotify.com/track/5BK89NXr4JtWja07GftbdO) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Rigid Dreams](https://open.spotify.com/album/7LZGymeiZ80ZJvA7h95O8f) | 3:32 |

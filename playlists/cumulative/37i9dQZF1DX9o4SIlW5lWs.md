@@ -2,9 +2,9 @@
 
 ### [Cumbia y Romance](https://open.spotify.com/playlist/37i9dQZF1DX9o4SIlW5lWs)
 
-> Al corazón! Foto: The La Planta, Emanero & Abel Pintos.
+> Al corazón! Foto: Cazzu.
 
-524 songs - 1 day 5 hr 41 min
+525 songs - 1 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Como una Pelota](https://open.spotify.com/track/0breWXQSP2vFZw2VQHeSnH) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [Como una Pelota](https://open.spotify.com/album/4NUlQ5vdC5H8gRmLcLDMkC) | 2:47 | 2022-02-04 | 2022-07-29 |
 | [Como yo Nadie te ha Amado](https://open.spotify.com/track/7de5MsRdGAMPTFigekSonr) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Julián Bruno](https://open.spotify.com/artist/4GiUBU5qC374SE66G2wYY2) | [Como yo Nadie te ha Amado](https://open.spotify.com/album/6eZ7rMGllsjKgdssljPHXL) | 2:48 | 2024-05-31 | 2024-06-08 |
 | [Con El No Soportas](https://open.spotify.com/track/0j5LSmUUUqyo2xBOUvpoQn) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje Al Cielo](https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2) | 4:00 | 2022-01-14 | 2023-03-13 |
+| [Con otra](https://open.spotify.com/track/38EGs4h8GqgrS1HT344SCQ) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Con otra](https://open.spotify.com/album/2waOhmvYhyi4AAlS3mLLaD) | 3:51 | 2025-03-20 |  |
 | [Con Vos](https://open.spotify.com/track/2aEwfuFWFF7Va5fEccGs3x) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Con Vos](https://open.spotify.com/album/4lN4nVXWJYtFecrKIflo7N) | 2:56 | 2024-01-19 | 2025-02-10 |
 | [Con Él No Soportas](https://open.spotify.com/track/0qgR6e8ot4sJ9RTIyKg3d8) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje al Cielo](https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL) | 4:00 | 2023-03-10 | 2024-04-19 |
 | [Conmigo Te Gustó](https://open.spotify.com/track/5HlgCSzypWjzrQwfmEJNwW) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1), [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [Conmigo Te Gustó](https://open.spotify.com/album/7GjmuXtSwXPTX2VR1TQYER) | 3:53 | 2024-05-17 | 2024-09-24 |
@@ -225,7 +226,7 @@
 | [La Cita](https://open.spotify.com/track/2IjUAcbiHBT6peOmILkLoV) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Renovado](https://open.spotify.com/album/5TYsZVGeyCBWsiiEtUZV36) | 4:18 | 2022-01-14 | 2022-07-29 |
 | [La Cita](https://open.spotify.com/track/7xPoGT10C2Heeu5RKvBgzn) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Renovado](https://open.spotify.com/album/5N6QaxcMze5HSGfMzhWASC) | 4:18 | 2022-07-22 | 2024-04-19 |
 | [La Estrategia](https://open.spotify.com/track/7rwBT0s2G44oK66I3cCzf4) | [Maxi Tolosa](https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ) | [La Estrategia](https://open.spotify.com/album/4RhpW9N4X7ukSSSz0u8keA) | 3:17 | 2022-03-18 | 2022-06-03 |
-| [La Luna y el Sol](https://open.spotify.com/track/5Gij8d5wbk9a4rX5ZkLApQ) | [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Los 20 Mejores](https://open.spotify.com/album/5AYp75uaXhw0WsRhQj74pr) | 3:13 | 2025-02-28 |  |
+| [La Luna y el Sol](https://open.spotify.com/track/5Gij8d5wbk9a4rX5ZkLApQ) | [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Los 20 Mejores](https://open.spotify.com/album/5AYp75uaXhw0WsRhQj74pr) | 3:13 | 2025-02-28 | 2025-03-21 |
 | [La Luna y Tú](https://open.spotify.com/track/4PGopmEXr1E5OQa4eA8s8S) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Luna y Tú](https://open.spotify.com/album/6tj3hUb520RFwQHHM5Osyk) | 3:36 | 2024-03-08 | 2025-02-04 |
 | [La Mejor De Todas](https://open.spotify.com/track/1AzjlvmSsC7ULBPHLCmHL7) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [La Mejor de Todas](https://open.spotify.com/album/1zfJFT7uRTwtw1ltjTSfNS) | 2:27 | 2024-11-01 | 2025-03-01 |
 | [La Mitad](https://open.spotify.com/track/1n0TUKFvT1C9u2saSdZlIA) | [Laura Rous](https://open.spotify.com/artist/7wOkY1qB4dkbIs0fsw12Zg), [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [La Mitad](https://open.spotify.com/album/7hEQGmeTuNe2493OL3I2ib) | 2:50 | 2023-04-07 | 2023-04-12 |

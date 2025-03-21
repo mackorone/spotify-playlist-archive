@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,252 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,253 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 49 | [I'LL SHOW YOU](https://open.spotify.com/track/6LDIVpVNBRy7LCw7jIdci6) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Bekuh Boom](https://open.spotify.com/artist/260LldmHBR0r2wtWtjzNxL), [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [ALL OUT](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) | 3:18 |
 | 50 | [Cocktail Molotov \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4zSeX6VgtIZHLgIz2hJT3p) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Cocktail Molotov \(from the series Arcane League of Legends\)](https://open.spotify.com/album/4wrT09KQQ6TV4fv3gIYqvA) | 2:28 |
 
-Snapshot ID: `Z9i3gAAAAACq9D63KpCpMxTQu02GhcHY`
+Snapshot ID: `Z9oJAAAAAAC07aAsZjz7omFgxflxdWsr`

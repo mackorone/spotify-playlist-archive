@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,943 songs - 1 day 15 hr 30 min
+1,945 songs - 1 day 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,6 +479,7 @@
 | [Distancing Sunlight](https://open.spotify.com/track/6y4QX4id7LugNfuqmacre5) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Hillside Songs](https://open.spotify.com/album/32e44ep6VLvMxxIEawIlGc) | 1:03 | 2022-02-11 |  |
 | [Distant And Constant](https://open.spotify.com/track/0LXD90t3Zp5r67i5EUUoQq) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Promises](https://open.spotify.com/album/2j0DTCwnzCxsmqTlswfICq) | 1:06 | 2022-02-26 |  |
 | [Distant Connection](https://open.spotify.com/track/30yhzeBx2FfJiX4N2Mv5yj) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Mountain Light](https://open.spotify.com/album/1PSqu4HWNBqTxWtKYbcQOU) | 1:04 | 2022-01-27 |  |
+| [Distant Love](https://open.spotify.com/track/1Lzz7ZKtNWdUpK4lMYfobk) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Distant Love](https://open.spotify.com/album/2EW4uwyp0BBlFFY6eiXpdK) | 1:00 | 2025-03-20 |  |
 | [Distant Memory](https://open.spotify.com/track/74YOzLs1L4INbNIo8Mj2k6) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Adventures In Solitude](https://open.spotify.com/album/5pKjYSX5Xu0BvLQJ9znHA2) | 1:54 | 2022-01-12 | 2024-01-30 |
 | [Distant Ocean](https://open.spotify.com/track/2JUbxkrzxeLFcY6GprgZsx) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Refuge, Vol\. 2](https://open.spotify.com/album/0BZhEnYxY5sZJs54ZYOCmX) | 1:03 | 2022-01-12 |  |
 | [Distant Path](https://open.spotify.com/track/3oAGdCxsQR96TWQZ2P8Uwk) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Reflections](https://open.spotify.com/album/5Eh7lUr6T3rJo5C8naqOC2) | 1:26 | 2024-01-29 |  |
@@ -1911,6 +1912,7 @@
 | [Winter Stars \- Strings Version](https://open.spotify.com/track/58rrzaQs9mOoG3xYUKMhwa) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Winter Stars \(Strings Version\)](https://open.spotify.com/album/6TPtn58wMmZoSunwRPVu86) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Winter Sunset](https://open.spotify.com/track/1gLACMq0c8sFTiL3vSMdQi) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Winter Sunset](https://open.spotify.com/album/0V7BW2DXxMROofON52Ifuf) | 1:00 | 2025-02-03 |  |
 | [Winter Sunshine](https://open.spotify.com/track/3jK42lBL023nhRIzsFqIX2) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Soft Strings](https://open.spotify.com/album/633Q4gSm8Mc205tuBQ84Vz) | 1:43 | 2022-01-20 |  |
+| [Wisdom Arr\. For Piano](https://open.spotify.com/track/7epm8O2aCCB5KvCjIrIylE) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Wisdom](https://open.spotify.com/album/7AtuCTomjqqdrihCFm4mZD) | 1:00 | 2025-03-20 |  |
 | [Wish And Wonder \- Cello Version](https://open.spotify.com/track/61adYDrXeAXBvRiwWQeWsF) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Wish And Wonder](https://open.spotify.com/album/1oRNW6dxWomkyuli4m61zG) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Wish Me Well Arr\. For Cello](https://open.spotify.com/track/6QLM2awcrALis6qalmZcWk) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Wish Me Well](https://open.spotify.com/album/4bwfmpW4HymYcdeqeSnGy4) | 1:01 | 2023-04-19 | 2024-02-13 |
 | [Wish Me Well Arr\. For Strings](https://open.spotify.com/track/4hlXftymvBfMaMZlXU4ZKU) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Wish Me Well](https://open.spotify.com/album/4bwfmpW4HymYcdeqeSnGy4) | 1:01 | 2024-02-09 | 2024-02-13 |

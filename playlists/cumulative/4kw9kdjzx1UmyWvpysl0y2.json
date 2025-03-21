@@ -4495,6 +4495,28 @@
     },
     {
       "album": {
+        "name": "drunk on u",
+        "url": "https://open.spotify.com/album/3uZkt4BhHKIkVlgUz0mQfB"
+      },
+      "artists": [
+        {
+          "name": "The Duchess",
+          "url": "https://open.spotify.com/artist/5WxiAl23gqBkSToRgKsG8B"
+        },
+        {
+          "name": "Dyson",
+          "url": "https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132071,
+      "name": "drunk on u",
+      "url": "https://open.spotify.com/track/64KSyt7Jn8jC5lNEB15xjX"
+    },
+    {
+      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/1y7jhXRTJG1kBi7ZftkjB8"
       },

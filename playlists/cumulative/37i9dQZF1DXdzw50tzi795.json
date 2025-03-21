@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: F.HERO, \u0e01\u0e49\u0e32\u0e19\u0e15\u0e2d\u0e07 \u0e17\u0e38\u0e48\u0e07\u0e40\u0e07\u0e34\u0e19, Saran",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e1f\u0e31\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: YOUNGOHM",
   "name": "\u0e09\u0e31\u0e19\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22",
   "tracks": [
     {
@@ -46,6 +46,24 @@
       "duration_ms": 222000,
       "name": "ALICE",
       "url": "https://open.spotify.com/track/4nimbIVI2u2XUD70c1dOBu"
+    },
+    {
+      "album": {
+        "name": "Baby Tee",
+        "url": "https://open.spotify.com/album/2AgNQHS5SSwt7JyJaH7YGj"
+      },
+      "artists": [
+        {
+          "name": "GALCHANIE",
+          "url": "https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228661,
+      "name": "Baby Tee",
+      "url": "https://open.spotify.com/track/0YRvcIlETPNLdasQYkJabY"
     },
     {
       "album": {
@@ -760,7 +778,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 227500,
       "name": "\u0e02\u0e49\u0e2d\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e1b\u0e22\u0e34\u0e49\u0e21 :)",
       "url": "https://open.spotify.com/track/3ZajpwGfKsToCEAuLTtoxF"
@@ -1049,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "\u0e0b\u0e36\u0e21\u0e0b\u0e31\u0e1a (DOUBTLESS)",
+        "url": "https://open.spotify.com/album/4nXAcObYOJHopK1CpkE5OI"
+      },
+      "artists": [
+        {
+          "name": "FOURTH",
+          "url": "https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213951,
+      "name": "\u0e0b\u0e36\u0e21\u0e0b\u0e31\u0e1a (DOUBTLESS)",
+      "url": "https://open.spotify.com/track/6NDNXuo2bGX7aFGA0jndEn"
+    },
+    {
+      "album": {
         "name": "\u0e0b\u0e48\u0e2d\u0e19(\u0e44\u0e21\u0e48)\u0e2b\u0e32",
         "url": "https://open.spotify.com/album/31dukmU9drXyFzMiyK4eq4"
       },
@@ -1212,7 +1248,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 227142,
       "name": "\u0e15\u0e31\u0e27\u0e42\u0e14\u0e19",
       "url": "https://open.spotify.com/track/6PgrERReqbpJHFtOpSzdPj"
@@ -2184,7 +2220,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 232131,
       "name": "\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07\u0e42\u0e14\u0e22\u0e2a\u0e27\u0e31\u0e2a\u0e14\u0e34\u0e20\u0e32\u0e1e",
       "url": "https://open.spotify.com/track/5xEtdOxQ3z18NWmDhG98N5"
@@ -2228,6 +2264,24 @@
       "duration_ms": 189731,
       "name": "\u0e40\u0e17\u0e04\u0e30\u0e41\u0e19\u0e19 (CANDIDATE)",
       "url": "https://open.spotify.com/track/4UgAVgYNBahclsbXTbP3Xn"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e18\u0e2d \u0e46 \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e23\u0e32\u0e0a\u0e2d\u0e1a (Guess Who?)",
+        "url": "https://open.spotify.com/album/2FOSJATFDIGtdPkUrbtWFP"
+      },
+      "artists": [
+        {
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185517,
+      "name": "\u0e40\u0e18\u0e2d \u0e46 \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e23\u0e32\u0e0a\u0e2d\u0e1a (Guess Who?)",
+      "url": "https://open.spotify.com/track/3ATo1WsiP4luuboQYmuSUT"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The most intense local drill music firing up the continent. Cover:  Reggie",
+  "description": "The most intense local drill music firing up the continent. Cover:  Beeztrap KOTM",
   "name": "Asakaa",
   "tracks": [
     {
@@ -164,6 +164,24 @@
       "duration_ms": 262211,
       "name": "Adom Ntsi",
       "url": "https://open.spotify.com/track/2p4do2mYt62fuTZkqPIqZM"
+    },
+    {
+      "album": {
+        "name": "ADULT TEMPO 128",
+        "url": "https://open.spotify.com/album/0Mq1fgkXHxjzHoGdP7klWw"
+      },
+      "artists": [
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218922,
+      "name": "ADULT TEMPO 128",
+      "url": "https://open.spotify.com/track/1rjVaPtlavR9TTaJ7JhE5u"
     },
     {
       "album": {
@@ -1677,6 +1695,24 @@
     },
     {
       "album": {
+        "name": "Eboso",
+        "url": "https://open.spotify.com/album/6x8tAgAC4x0iY7o7vpyU2Y"
+      },
+      "artists": [
+        {
+          "name": "Yaw Tog",
+          "url": "https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Eboso",
+      "url": "https://open.spotify.com/track/4iZ2QhJBTMr6sjGdxlFuAD"
+    },
+    {
+      "album": {
         "name": "Ekorso",
         "url": "https://open.spotify.com/album/52WRXL8Z5JeODCqBU39Ork"
       },
@@ -1952,7 +1988,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 142172,
       "name": "For The Streetz",
       "url": "https://open.spotify.com/track/1gS2JFbUnIGwzPAZAx7CaG"
@@ -4390,7 +4426,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 217182,
       "name": "Realest",
       "url": "https://open.spotify.com/track/1sUUwtbL9A4edhaThMUboc"

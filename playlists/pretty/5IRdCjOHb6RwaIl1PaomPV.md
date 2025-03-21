@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent &amp; friends\. Featuring new music from Woesum &amp; Bassvictim, plus the latest cuts from Baalti &amp; High Klassified
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,872 likes - 100 songs - 5 hr 12 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,865 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 77 | [6' Pole](https://open.spotify.com/track/4olRAKphRJyntqrtlNW65v) | [Safe Mind](https://open.spotify.com/artist/4adzRTzhsBKFneEkLp2sts), [Augustus Muller](https://open.spotify.com/artist/6dCwK4owIEfNc1IIK3tlOk), [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [6' Pole](https://open.spotify.com/album/6hmFxhEYhUvgZXLY2itcj0) | 3:55 |
 | 78 | [Ass2Mars](https://open.spotify.com/track/5DRRlfDtuvHqWS0iOHA0KN) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [MG Ultra](https://open.spotify.com/album/3598AkUpAY95SA2t4JrotL) | 3:49 |
 | 79 | [riding it](https://open.spotify.com/track/65ATbwWkyLQBNhhtT07Qoo) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1) | [spirallore](https://open.spotify.com/album/33VF07B5h8UDxvyMGTGRbF) | 2:28 |
-| 80 | [INSTANT DEATH](https://open.spotify.com/track/4CabzuTCgzHt57Fc6HqqPy) | [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g), [Goner](https://open.spotify.com/artist/7dNAnTCNymUovGgVoNhX3c) | [INSTANT DEATH](https://open.spotify.com/album/2RC4sBo7R0awCOBYT3aP6u) | 2:35 |
+| 80 | [INSTANT DEATH](https://open.spotify.com/track/4CabzuTCgzHt57Fc6HqqPy) | [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g), [Goner](https://open.spotify.com/artist/2zubb88j9raZCaoyXih0iT) | [INSTANT DEATH](https://open.spotify.com/album/2RC4sBo7R0awCOBYT3aP6u) | 2:35 |
 | 81 | [HALLOWEEN FREESTYLE](https://open.spotify.com/track/1Y2ohtaV7873XVPzpXgLRn) | [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV), [Guapo](https://open.spotify.com/artist/1KWQVpABJxgYvLY5pNNZV6) | [HALLOWEEN FREESTYLE](https://open.spotify.com/album/4htYUjnyQYUKm4xYTnnwci) | 1:51 |
 | 82 | [rollitup](https://open.spotify.com/track/6Qq8STSZ0UHeEuu3PWR6EQ) | [lor2mg](https://open.spotify.com/artist/5JmWLxL2ESIufByQzPQ9zh) | [rollitup](https://open.spotify.com/album/2XyYEnkg1VvxGQuMjby1ca) | 1:56 |
 | 83 | [Falling](https://open.spotify.com/track/2sLUiG5BYqth0WL0zMl25y) | [SOXX](https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw), [00ab](https://open.spotify.com/artist/0LWbBMbzVxCHLe3tebI4Yo) | [Falling](https://open.spotify.com/album/3xeoRV6RqcqNncAYbouD1Y) | 2:45 |

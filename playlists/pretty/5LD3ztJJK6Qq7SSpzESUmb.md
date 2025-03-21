@@ -27,6 +27,6 @@ pretty - [cumulative](/playlists/cumulative/5LD3ztJJK6Qq7SSpzESUmb.md) - [plain]
 | 17 | [Alla sover](https://open.spotify.com/track/1FjTduJODQbRgSoWcFfxRb) | [Svarta Havet](https://open.spotify.com/artist/1IX5j8sND3XpGzjX71enDa) | [Alla sover](https://open.spotify.com/album/6NwqJ5sGvehIUW2JjqePli) | 4:30 |
 | 18 | [Cloak & Dagger](https://open.spotify.com/track/2TTACprkw0oSAhrRxOBnMo) | [Higher Walls](https://open.spotify.com/artist/0QSFCeiUCvkjxzwj7uvSHQ) | [Cloak & Dagger](https://open.spotify.com/album/70reveXJitxCKNRyJk8qQ1) | 2:57 |
 | 19 | [Shallow Ecstasy](https://open.spotify.com/track/6txxn4h97htvfu7Pty2gRs) | [Tómarúm](https://open.spotify.com/artist/6Xv8h8ntefqlic5d3DqzhZ) | [Shallow Ecstasy](https://open.spotify.com/album/1PxbJLDxCbB0MkhGXc7Qnr) | 7:02 |
-| 20 | [Thinking about it](https://open.spotify.com/track/3wayZ24541SoEKulbs9Fn6) | [Slung](https://open.spotify.com/artist/7EEluFWhabUJwqInW2J654) | [Thinking about it](https://open.spotify.com/album/6krEkOnHby1FLcy7R7YLPd) | 2:54 |
+| 20 | [Thinking About It](https://open.spotify.com/track/3wayZ24541SoEKulbs9Fn6) | [Slung](https://open.spotify.com/artist/7EEluFWhabUJwqInW2J654) | [Thinking About It](https://open.spotify.com/album/6krEkOnHby1FLcy7R7YLPd) | 2:54 |
 
 Snapshot ID: `AAAMvNPhzRUyntRVSMeU3X6H+IfOQW90`

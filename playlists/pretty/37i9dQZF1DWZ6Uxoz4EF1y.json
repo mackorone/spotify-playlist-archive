@@ -1,6 +1,6 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 213676,
+  "num_followers": 213796,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
@@ -711,26 +711,6 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Yo Navegar\u00e9",
-        "url": "https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH"
-      },
-      "artists": [
-        {
-          "name": "Jotta A",
-          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
-        },
-        {
-          "name": "Marcos Yaroide",
-          "url": "https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ"
-        }
-      ],
-      "duration_ms": 385066,
-      "name": "Mateo 17",
-      "url": "https://open.spotify.com/track/6phOeAec12tnILyQPwNmej"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
         "name": "Mi Jes\u00fas",
         "url": "https://open.spotify.com/album/7ac4ykr2GHuMYc29l6QzHx"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 260649,
       "name": "Mi Jes\u00fas",
       "url": "https://open.spotify.com/track/2w84WTatORJJTPLFqeTIlO"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
+        "name": "Yo Navegar\u00e9",
+        "url": "https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        },
+        {
+          "name": "Marcos Yaroide",
+          "url": "https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ"
+        }
+      ],
+      "duration_ms": 385066,
+      "name": "Mateo 17",
+      "url": "https://open.spotify.com/track/6phOeAec12tnILyQPwNmej"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -919,18 +919,22 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Mirar\u00e9 al Rey",
-        "url": "https://open.spotify.com/album/027pf1seCyz8BPhya74n2L"
+        "name": "El Dios Que Cambia Nombre",
+        "url": "https://open.spotify.com/album/5NUIrHDIDuMr6Xsob6L5UO"
       },
       "artists": [
         {
-          "name": "Adoraci\u00f3n La IBI",
-          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
+          "name": "H\u00e9ctor Delgado",
+          "url": "https://open.spotify.com/artist/1cH1z49SP3Ul0DxaRLWYVy"
+        },
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
         }
       ],
-      "duration_ms": 287970,
-      "name": "Solo en Cristo",
-      "url": "https://open.spotify.com/track/5K7DKEJtKQJJgXbC8OfLNd"
+      "duration_ms": 219208,
+      "name": "El Dios Que Cambia Nombre",
+      "url": "https://open.spotify.com/track/6jxF4JXJ2hK8GEkRHqcj8b"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -955,26 +959,6 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "El Dios Que Cambia Nombre",
-        "url": "https://open.spotify.com/album/5NUIrHDIDuMr6Xsob6L5UO"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Delgado",
-          "url": "https://open.spotify.com/artist/1cH1z49SP3Ul0DxaRLWYVy"
-        },
-        {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
-        }
-      ],
-      "duration_ms": 219208,
-      "name": "El Dios Que Cambia Nombre",
-      "url": "https://open.spotify.com/track/6jxF4JXJ2hK8GEkRHqcj8b"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
         "name": "Porque \u00c9l Vive",
         "url": "https://open.spotify.com/album/4xSQ0ZsJO1VezwxplS4Ivn"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 259700,
       "name": "Porque \u00c9l Vive",
       "url": "https://open.spotify.com/track/7gXW3M4iny57LIpgeGwoY6"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
+        "name": "Mirar\u00e9 al Rey",
+        "url": "https://open.spotify.com/album/027pf1seCyz8BPhya74n2L"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n La IBI",
+          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
+        }
+      ],
+      "duration_ms": 287970,
+      "name": "Solo en Cristo",
+      "url": "https://open.spotify.com/track/5K7DKEJtKQJJgXbC8OfLNd"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
+        "name": "Soplando Vida",
+        "url": "https://open.spotify.com/album/1GdYY1AU74YnIufNkby72P"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 201946,
+      "name": "Te Dejo Ganar",
+      "url": "https://open.spotify.com/track/0UdWxA5X4OBqCi3kIpC7Fb"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
         "name": "Somos Iglesia",
         "url": "https://open.spotify.com/album/0hpOmncVbSSfbec3IZGL9T"
       },
@@ -1367,6 +1383,22 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
+        "name": "25 Concierto Conmemorativo",
+        "url": "https://open.spotify.com/album/05f8DnleuhszCNSDe2YGCW"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 305626,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/38GjgoCoXBStVNBBgl6Ove"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
         "name": "Bethel Music en Espa\u00f1ol (Live)",
         "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
       },
@@ -1383,38 +1415,6 @@
       "duration_ms": 291986,
       "name": "Mi Esperanza Est\u00e1 en Jes\u00fas - Live",
       "url": "https://open.spotify.com/track/38e9daXegEIuNlP7lMII4Z"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
-        "name": "Me Has Hecho Libre",
-        "url": "https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI"
-      },
-      "artists": [
-        {
-          "name": "Esperanza de Vida",
-          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
-        }
-      ],
-      "duration_ms": 380316,
-      "name": "Precioso Jes\u00fas",
-      "url": "https://open.spotify.com/track/3YVVAZB6NvCzzrjDandHkm"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
-        "name": "Soplando Vida",
-        "url": "https://open.spotify.com/album/1GdYY1AU74YnIufNkby72P"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 201946,
-      "name": "Te Dejo Ganar",
-      "url": "https://open.spotify.com/track/0UdWxA5X4OBqCi3kIpC7Fb"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "25 Concierto Conmemorativo",
-        "url": "https://open.spotify.com/album/05f8DnleuhszCNSDe2YGCW"
+        "name": "Me Has Hecho Libre",
+        "url": "https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI"
       },
       "artists": [
         {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+          "name": "Esperanza de Vida",
+          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
         }
       ],
-      "duration_ms": 305626,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/38GjgoCoXBStVNBBgl6Ove"
+      "duration_ms": 380316,
+      "name": "Precioso Jes\u00fas",
+      "url": "https://open.spotify.com/track/3YVVAZB6NvCzzrjDandHkm"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1487,46 +1487,18 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Amanece (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
+        "name": "Amor Palabra Poder",
+        "url": "https://open.spotify.com/album/5sTiKrYnSSbcYyZYzgz4sm"
       },
       "artists": [
         {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
-        },
-        {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/3XAsLrjUgQ9V2D8MjTfv8C"
-        },
-        {
-          "name": "Yvonne Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/5eF9oy3uIgTMRIX3xkAfGi"
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
         }
       ],
-      "duration_ms": 444330,
-      "name": "Digno",
-      "url": "https://open.spotify.com/track/25tGKAPQyxt3XWoZaKh4YE"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
-        "name": "Bethel Music en Espa\u00f1ol (Live)",
-        "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Paul McClure",
-          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
-        }
-      ],
-      "duration_ms": 316920,
-      "name": "Jesus Te Amamos - Live",
-      "url": "https://open.spotify.com/track/7JdGpxb7HAnDHKCdimfQRs"
+      "duration_ms": 346933,
+      "name": "La Cruz",
+      "url": "https://open.spotify.com/track/1IN4Xq6HhJtP7MylpnP8ec"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1551,6 +1523,30 @@
       "duration_ms": 279858,
       "name": "Jesucristo Basta (Ver. Ac\u00fastica) feat. Living",
       "url": "https://open.spotify.com/track/2XKkNxB8oxQHIy8023f2wH"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
+        "name": "Amanece (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/3XAsLrjUgQ9V2D8MjTfv8C"
+        },
+        {
+          "name": "Yvonne Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/5eF9oy3uIgTMRIX3xkAfGi"
+        }
+      ],
+      "duration_ms": 444330,
+      "name": "Digno",
+      "url": "https://open.spotify.com/track/25tGKAPQyxt3XWoZaKh4YE"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1583,22 +1579,6 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Amor Palabra Poder",
-        "url": "https://open.spotify.com/album/5sTiKrYnSSbcYyZYzgz4sm"
-      },
-      "artists": [
-        {
-          "name": "Lead",
-          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
-        }
-      ],
-      "duration_ms": 346933,
-      "name": "La Cruz",
-      "url": "https://open.spotify.com/track/1IN4Xq6HhJtP7MylpnP8ec"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
         "name": "El Aire De Tu Casa",
         "url": "https://open.spotify.com/album/62aemFfH25h4YSMcfnTrPE"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 241933,
       "name": "Me Dice Que Me Ama",
       "url": "https://open.spotify.com/track/2OaM6swiHf8Q9fikExLHei"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
+        "name": "Bethel Music en Espa\u00f1ol (Live)",
+        "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+        }
+      ],
+      "duration_ms": 316920,
+      "name": "Jesus Te Amamos - Live",
+      "url": "https://open.spotify.com/track/7JdGpxb7HAnDHKCdimfQRs"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Bethel Music en Espa\u00f1ol (Live)",
-        "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Hunter Thompson",
-          "url": "https://open.spotify.com/artist/0NjFV1dPOxLHtEn4sPhUTd"
-        }
-      ],
-      "duration_ms": 465386,
-      "name": "S\u00e9 Entronado - Live",
-      "url": "https://open.spotify.com/track/6RjPeSyTInfDrkfOdKHUXa"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
         "name": "Colecci\u00f3n de Danilo Montero",
         "url": "https://open.spotify.com/album/0yECmK5HVjCGNV30RpG1BY"
       },
@@ -1679,26 +1659,6 @@
       "duration_ms": 360071,
       "name": "Cantar\u00e9 de Tu Amor",
       "url": "https://open.spotify.com/track/3uXGOO9rHDZu2hQaqOgjRG"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
-        "name": "Amanece (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
-      },
-      "artists": [
-        {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
-        },
-        {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
-        }
-      ],
-      "duration_ms": 447491,
-      "name": "Lo Unico Que Quiero",
-      "url": "https://open.spotify.com/track/1HCKcrifeQmtEXwEqfXcjD"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1723,6 +1683,26 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
+        "name": "Bethel Music en Espa\u00f1ol (Live)",
+        "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Hunter Thompson",
+          "url": "https://open.spotify.com/artist/0NjFV1dPOxLHtEn4sPhUTd"
+        }
+      ],
+      "duration_ms": 465386,
+      "name": "S\u00e9 Entronado - Live",
+      "url": "https://open.spotify.com/track/6RjPeSyTInfDrkfOdKHUXa"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
         "name": "M\u00fasica en el Desierto",
         "url": "https://open.spotify.com/album/7LNruLOqxbdoXT2gucKbKN"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 271419,
       "name": "Eterna luz",
       "url": "https://open.spotify.com/track/1u1d13KMNYZAIIEEWIo5ng"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
+        "name": "Amanece (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        },
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "duration_ms": 447491,
+      "name": "Lo Unico Que Quiero",
+      "url": "https://open.spotify.com/track/1HCKcrifeQmtEXwEqfXcjD"
     },
     {
       "added_at": "2024-07-01 23:21:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeEqNTwYhBR.md) - [plain]
 
 > Les enfants vont danser et se déchaîner!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,460 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,465 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeEqNTwYhBR.md) - [plain]
 | 32 | [Chocolat \(feat\. Awa Imani\)](https://open.spotify.com/track/4fwtP5khM1iEoa6BP1QQsX) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Awa Imani](https://open.spotify.com/artist/25b5cIThNFVHmLF2DQ814i) | [Clandestino](https://open.spotify.com/album/6j0ZbLhJ0uyREyXoz0KtON) | 3:55 |
 | 33 | [Makeba](https://open.spotify.com/track/5JdLUE9D743ob2RtgmVpVx) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka](https://open.spotify.com/album/2S12TNfqdnUFdTfYlE96tb) | 4:09 |
 | 34 | [On écrit sur les murs](https://open.spotify.com/track/3DHi3fz6yRG8Z3ssWotC0d) | [Kids United](https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs) | [Un monde meilleur](https://open.spotify.com/album/77wx0Wq7baLkRsaH5ilctF) | 2:54 |
-| 35 | [Dommage](https://open.spotify.com/track/4BEWiTPV0v87mBryf7gdxK) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [La vraie vie \(Deluxe\)](https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM) | 3:58 |
+| 35 | [Dommage](https://open.spotify.com/track/4BEWiTPV0v87mBryf7gdxK) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [La vraie vie](https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM) | 3:58 |
 | 36 | [Let's Love](https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Let's Love](https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr) | 3:20 |
 | 37 | [Tous les mêmes](https://open.spotify.com/track/6M4nkEPZMj58acftDRTuKL) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [racine carrée](https://open.spotify.com/album/6uyslsVGFsHKzdGUosFwBM) | 3:30 |
 | 38 | [Je suis chez moi](https://open.spotify.com/track/3jyQ5s7TlKm5tqmpICahUY) | [Black M](https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw) | [Éternel insatisfait](https://open.spotify.com/album/0fBcGOxa5aFx5MAOYaQ4XU) | 3:48 |

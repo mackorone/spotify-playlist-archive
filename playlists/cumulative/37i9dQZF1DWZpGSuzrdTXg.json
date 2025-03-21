@@ -1290,7 +1290,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 194000,
       "name": "Hello",
       "url": "https://open.spotify.com/track/2azg1vhiwyS2FYt6Dsttr6"
@@ -2710,6 +2710,24 @@
       "duration_ms": 190379,
       "name": "Pillow Scream",
       "url": "https://open.spotify.com/track/5dt3DHWX8EnVR4QJZ0fhxI"
+    },
+    {
+      "album": {
+        "name": "I was a platinum blonde",
+        "url": "https://open.spotify.com/album/2y2vnFZ7NftliJ6gLZIkRx"
+      },
+      "artists": [
+        {
+          "name": "Stevie Bill",
+          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166888,
+      "name": "Platinum Blonde",
+      "url": "https://open.spotify.com/track/3dMMuGZQzgXGHFGRX04MVK"
     },
     {
       "album": {

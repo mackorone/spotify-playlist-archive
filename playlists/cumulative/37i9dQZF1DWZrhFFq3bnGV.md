@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Littlefingers
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Nathania Jualim, Desmond Amos
 
-228 songs - 15 hr 57 min
+229 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Gratitude](https://open.spotify.com/track/68sQC8sj18Ty36mbreDHot) | [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN) | [Gratitude](https://open.spotify.com/album/5d1ORdMsk0WXPZkViftyNs) | 5:03 | 2022-09-02 | 2023-08-18 |
 | [GYMNASIUM](https://open.spotify.com/track/3gXpHM1ZcUKF5Kn3CtuT0q) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU), [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np), [JOY](https://open.spotify.com/artist/2hiaJ5v1B9HiftMeHcDmht) | [GYMNASIUM](https://open.spotify.com/album/04hDXHNlGH50mEs2aSI0D2) | 3:49 | 2023-07-13 | 2024-08-02 |
 | [Happy Guy](https://open.spotify.com/track/4mkrBtAdIWJ6xTwZJod13f) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Love & Imagination](https://open.spotify.com/album/2i7qwVx6d5KWNPu0MLbGsx) | 5:18 | 2022-09-02 | 2023-08-18 |
+| [Harmonia \(feat\. Desmond Amos\)](https://open.spotify.com/track/3XPVJWfWP1DH1Ly3EX8xbw) | [Nathania Jualim](https://open.spotify.com/artist/3luT9sLplqCrraMvMDPRwK), [Desmond Amos](https://open.spotify.com/artist/6tDcNMe4ou6JkX6TtaPabI) | [Harmonia \(feat\. Desmond Amos\)](https://open.spotify.com/album/2wtfL0DRsq1rp5tzL7nSHO) | 3:11 | 2025-03-20 |  |
 | [Healing Dreams](https://open.spotify.com/track/2OvD7nNSfeAeP5TIkpFlWW) | [Thesar](https://open.spotify.com/artist/19gTdGkA4xOki2OM14iHxP), [Ria Zipie](https://open.spotify.com/artist/2ljjjQySqVBzkhABSUX8oa), [Jonathan Ceasar](https://open.spotify.com/artist/4N71Gznhu7HRtSGEAgFFxh) | [Healing Dreams](https://open.spotify.com/album/28fIwCAee0C0HmVJOT0pja) | 2:46 | 2023-10-06 |  |
 | [Healing Wounds](https://open.spotify.com/track/7GviZb5p791rcED8MaGnWI) | [tjdika](https://open.spotify.com/artist/3c4CUqxqmYrhu6lw5DsrE7), [Adhika "Coki" Himawan](https://open.spotify.com/artist/33KNou9zac9O5y2J1wuJXa) | [Healing Wounds](https://open.spotify.com/album/3ksrMamlDbwNTEyj82r6Re) | 3:28 | 2022-09-02 | 2023-08-25 |
 | [Hidup](https://open.spotify.com/track/61pIoGz4vXugNa5Cc9Fh47) | [January Christy](https://open.spotify.com/artist/6r6dOSjeTf5AjwywbRqSIX) | [Unreleased Tracks from 1985](https://open.spotify.com/album/26rn9d3WodFSvOVSsd8N8S) | 2:52 | 2022-09-02 | 2023-03-04 |

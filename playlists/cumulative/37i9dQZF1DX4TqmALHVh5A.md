@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène francophone branchée sur courant alternatif\. Photo : THÉA
+> La scène française branchée sur courant alternatif\. Photo : Sam Sauvage
 
-270 songs - 14 hr 35 min
+273 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Birthday Party](https://open.spotify.com/track/4YcBDlhIXz3reul1Z9WW8N) | [Metro Verlaine](https://open.spotify.com/artist/2BYbt36s189UAMhaTUA1PX) | [Birthday Party](https://open.spotify.com/album/7E1aeTMLqIi9F7weLZAz82) | 3:30 | 2023-11-30 | 2024-02-09 |
 | [BITCH YOU COULD NEVER](https://open.spotify.com/track/7kRmyF6PQpQQbOZYb5NeA3) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BITCH YOU COULD NEVER](https://open.spotify.com/album/3hisckVmjrbZDOAgxC1GL0) | 2:28 | 2024-05-09 | 2024-10-04 |
 | [Bliss](https://open.spotify.com/track/0EmKhO8Mnd4o4ErUfFDPdC) | [Dead.](https://open.spotify.com/artist/0utyVWsLcppQJm5U2U1hMu) | [Bliss](https://open.spotify.com/album/1vmKg53JyZ1NJy0cFOmrYv) | 5:13 | 2023-12-08 | 2024-06-01 |
-| [Blush](https://open.spotify.com/track/4hPTbO8F3zfsXPZdXIsqMv) | [Sad Madona](https://open.spotify.com/artist/4EvpdSBOFHv6LKFEJwr3hU) | [Blush](https://open.spotify.com/album/3U4bXvoOv10wXlVoC6mgOp) | 3:43 | 2024-11-07 |  |
+| [Blush](https://open.spotify.com/track/4hPTbO8F3zfsXPZdXIsqMv) | [Sad Madona](https://open.spotify.com/artist/4EvpdSBOFHv6LKFEJwr3hU) | [Blush](https://open.spotify.com/album/3U4bXvoOv10wXlVoC6mgOp) | 3:43 | 2024-11-07 | 2025-03-21 |
 | [Bonjour demain](https://open.spotify.com/track/5BwXLq7gk6u5OBCJ9DdtL5) | [Arca M](https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg) | [Enfants intérieurs](https://open.spotify.com/album/3rBVCm9mdef6rGcGGzBxKB) | 3:08 | 2025-01-30 |  |
 | [Bouche à bouche](https://open.spotify.com/track/25aWXkGaXxloRWrdrjb1g0) | [La Grande Dame](https://open.spotify.com/artist/3AvpOfIrL6UyrMb5r4kIeh), [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ) | [Bouche à bouche / Paradise](https://open.spotify.com/album/6bFxGgf0zgRPiX4slKfEyy) | 3:02 | 2025-01-23 | 2025-02-14 |
 | [Boule à facettes](https://open.spotify.com/track/6Q14MRNmR6ojGBpsXl465t) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Boule à facettes](https://open.spotify.com/album/57PMenm8EzPiBoKgCNxRwr) | 2:39 | 2024-01-26 | 2024-06-21 |
@@ -66,7 +66,7 @@
 | [Comme un idiot](https://open.spotify.com/track/5MW2D3rttNR84ivORyMvTV) | [Le trottoir](https://open.spotify.com/artist/0z6rhcwWAD4Oi2J9bLKHbD) | [Comme un idiot](https://open.spotify.com/album/2e5EbSgc1Fy800rbR1SnGm) | 3:37 | 2023-09-28 | 2024-04-12 |
 | [Conspire](https://open.spotify.com/track/5Ps5Ca2F1O7QqIo88C9WAH) | [Gwendoline](https://open.spotify.com/artist/0KeEMBn34d4rKeACHxK9AF) | [Conspire](https://open.spotify.com/album/3kuN93pe0gnDpztgTlIvX1) | 5:53 | 2023-11-30 | 2024-01-13 |
 | [COUP DE FOUDRE](https://open.spotify.com/track/0lBnsgQTZyeLnwKnQ7GIxs) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [COUP DE FOUDRE](https://open.spotify.com/album/428jPxdZh194ALGPIBaeM8) | 3:20 | 2023-09-28 | 2023-11-17 |
-| [Cours dans la forêt](https://open.spotify.com/track/1cAeZkMEGQz8xU5PPecMUx) | [No Sex Last Night](https://open.spotify.com/artist/4OwWT91x4jWdIGWqKnUH6z) | [Cours dans la forêt](https://open.spotify.com/album/7HKEwSTgjQyccEX7T2j42e) | 3:20 | 2024-10-24 |  |
+| [Cours dans la forêt](https://open.spotify.com/track/1cAeZkMEGQz8xU5PPecMUx) | [No Sex Last Night](https://open.spotify.com/artist/4OwWT91x4jWdIGWqKnUH6z) | [Cours dans la forêt](https://open.spotify.com/album/7HKEwSTgjQyccEX7T2j42e) | 3:20 | 2024-10-24 | 2025-03-21 |
 | [Cramé](https://open.spotify.com/track/6eIdxemCVuPhGNemzooQxK) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI), [Chahu](https://open.spotify.com/artist/0tCiiQ7rCWK6IRfO6mWUoy) | [Cramé](https://open.spotify.com/album/6bOJkZkJYHaXHecRgyuv1B) | 3:00 | 2025-02-13 |  |
 | [Dannazione](https://open.spotify.com/track/3bgPcv0jVe1OSPwNe4VLzR) | [MaMaMa](https://open.spotify.com/artist/4cyoA6TEaCkcI6ue37dJpw) | [Dannazione](https://open.spotify.com/album/77MBshYT8ncsvdWfOff8uq) | 2:53 | 2024-01-26 | 2024-10-11 |
 | [DANS SES YEUX](https://open.spotify.com/track/20SeuXMY4OisUyQSFcCdL8) | [Moyà](https://open.spotify.com/artist/1Xvap7Au9MqLcUJUCPcJp1) | [DANS SES YEUX](https://open.spotify.com/album/4lakbu7ear8AfSjl9VZf3w) | 2:09 | 2024-06-06 | 2024-11-08 |
@@ -102,6 +102,7 @@
 | [GROTSUNAMI](https://open.spotify.com/track/3SphPiIKHwnlCgAtBViaXU) | [Péniche](https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0) | [GROTSUNAMI](https://open.spotify.com/album/3fMcKhyPKV3Snp09s2BuaB) | 2:03 | 2024-01-11 | 2024-10-04 |
 | [Géant](https://open.spotify.com/track/1o9XESUAUgS3iVVt6KyHcX) | [Magenta Club](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA) | [x 1000](https://open.spotify.com/album/0HW9HpXzElTKhAOcF5OJo5) | 4:11 | 2024-04-18 | 2024-10-18 |
 | [Hardcore](https://open.spotify.com/track/5oTBD08V9CpqXK1e1T7WRd) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [Hardcore](https://open.spotify.com/album/4p1MdMsRrpIh7AgYiSIPpV) | 3:55 | 2024-06-27 | 2025-02-07 |
+| [Harmonium Blue](https://open.spotify.com/track/15jAQDymeWRbuzS9Y33tVV) | [Nina Versyp](https://open.spotify.com/artist/6MEkTyXq5nV6jeGlirVJjy) | [DAZY](https://open.spotify.com/album/1p05EsQ9OsPst8KS8HWbOE) | 2:59 | 2025-03-20 |  |
 | [Hooligan](https://open.spotify.com/track/5INfcVg4x5o8Qfo8LD0nvY) | [Metro Verlaine](https://open.spotify.com/artist/2BYbt36s189UAMhaTUA1PX) | [Pop Sauvage](https://open.spotify.com/album/1HkAZ5h4jCXuRKa239zPuw) | 3:32 | 2024-02-08 | 2024-05-10 |
 | [Human](https://open.spotify.com/track/0eud4SBuWHvNdu7FEddykC) | [Nili Hadida](https://open.spotify.com/artist/6WEbJueFZyzOeg2O6oNPE9) | [Human vs Machine](https://open.spotify.com/album/1YjIR9gq3Q6PYnHq1kuKMf) | 3:04 | 2024-02-08 | 2024-06-21 |
 | [I'm A Mess](https://open.spotify.com/track/0xP0O0ODyEaBDLOQoexHWp) | [Johnnie Carwash](https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0) | [I'm A Mess](https://open.spotify.com/album/71OvVTA988kQ9R2xTfhC7M) | 2:26 | 2023-11-23 | 2024-02-02 |
@@ -117,7 +118,7 @@
 | [j'avance](https://open.spotify.com/track/2Z7qNInldtbww87osjOnt2) | [billie](https://open.spotify.com/artist/5OlAhdgR13gu6r0MZU8eKj) | [j'avance](https://open.spotify.com/album/7D62OzP4uQdoOcp278gbKh) | 3:49 | 2024-11-28 |  |
 | [Jamais Je Ne Viens](https://open.spotify.com/track/5dSLiCcetFe3LGrnhbh9fZ) | [Ottis Cœur](https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR) | [Léon](https://open.spotify.com/album/48OOvBs7jVOAWitbHAQ9Ll) | 2:28 | 2023-09-28 | 2023-10-06 |
 | [Je cours](https://open.spotify.com/track/51Gt7yGGiV4wEH9C8YgwBd) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Je cours](https://open.spotify.com/album/4mjbfmCjIffHSLbZRqNWNf) | 2:57 | 2023-09-28 | 2023-11-03 |
-| [Je Pense Après](https://open.spotify.com/track/2of8itFR9aQFO8krOG0XsH) | [PHELTO](https://open.spotify.com/artist/1degQXhxGRPsmT7I0Vgalc) | [Je Pense Après](https://open.spotify.com/album/7H6zgd1vM1nGyLHVZJfHbz) | 2:52 | 2024-10-24 |  |
+| [Je Pense Après](https://open.spotify.com/track/2of8itFR9aQFO8krOG0XsH) | [PHELTO](https://open.spotify.com/artist/1degQXhxGRPsmT7I0Vgalc) | [Je Pense Après](https://open.spotify.com/album/7H6zgd1vM1nGyLHVZJfHbz) | 2:52 | 2024-10-24 | 2025-03-21 |
 | [Je t'emmènerai](https://open.spotify.com/track/2Mv1tPuwMAHQHA2CalxQi5) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Je t'emmènerai](https://open.spotify.com/album/3YhrhemEcuxGllGaet7vJB) | 2:55 | 2024-03-14 |  |
 | [Je Voulais](https://open.spotify.com/track/26LEDUBccqiAj28QDjzOod) | [Ladaniva](https://open.spotify.com/artist/6nt7tWnBx4NqnXKO6vEByU) | [Je Voulais](https://open.spotify.com/album/6v0EOkmlVsamzKicsn8m2R) | 3:02 | 2023-09-28 | 2023-12-01 |
 | [Johnny Cash](https://open.spotify.com/track/5Dpm1jgO5VobfRs8Ub13Uf) | [Julius On The Wave](https://open.spotify.com/artist/3u8hEmcHdXJhkI0d6pHNId) | [Johnny Cash](https://open.spotify.com/album/7MuRvKMSoV3vvVUtz2XT9r) | 2:47 | 2024-04-19 | 2024-06-14 |
@@ -137,6 +138,7 @@
 | [La pression](https://open.spotify.com/track/2g15XcaATGqNrytkREVaKE) | [Claude](https://open.spotify.com/artist/7GwgWrKzqg3WzSD8EAvNZP) | [La pression](https://open.spotify.com/album/3LXVkNOAUYMfNDNap1xUNk) | 4:09 | 2024-05-16 | 2024-10-25 |
 | [Labrador](https://open.spotify.com/track/37RU5uDagBkmkcf61HGHTZ) | [Ottis Cœur](https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR) | [Labrador](https://open.spotify.com/album/464DpW9aRGNKJIHCud8jRl) | 2:39 | 2023-09-28 | 2023-11-17 |
 | [Laisse moi le chat](https://open.spotify.com/track/2zUjP87cBGoW49OPUH8y1H) | [Johan Papaconstantino](https://open.spotify.com/artist/7xuc5o2ysVzV0UDiGordzO) | [Laisse moi le chat](https://open.spotify.com/album/2KqwI0E1dIt9aHnJuLIxMt) | 3:25 | 2023-10-05 | 2023-12-08 |
+| [Le Funambule](https://open.spotify.com/track/2TlyaM4NmDpoawFPsTH1KZ) | [Mon cher Guy](https://open.spotify.com/artist/6KwKwfx3DSMOYDfHo1GcK2), [Les Clopes](https://open.spotify.com/artist/7dodylTfBnV13yLhRUpos7) | [Le Funambule](https://open.spotify.com/album/1px8CygxTDUSeSsbgx9CPb) | 3:11 | 2025-03-20 |  |
 | [Le Pigeon](https://open.spotify.com/track/6dT08hM1qO8dx0HEWytgr6) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Le Pigeon](https://open.spotify.com/album/7jf67ZHP55fFr0rDvRFV55) | 2:43 | 2023-10-05 | 2024-03-01 |
 | [Le Plus Grand Spectacle De La Terre](https://open.spotify.com/track/4XrYouAkn2r0SruM46R8Kv) | [ascendant vierge](https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G) | [Le Plus Grand Spectacle De La Terre](https://open.spotify.com/album/6v3AWuo8JpAn2dvkBnObzY) | 4:12 | 2024-09-12 | 2025-02-21 |
 | [Le sang de papa et maman](https://open.spotify.com/track/3ylbP2pqUzfm1j2mPwERmi) | [Gwendoline](https://open.spotify.com/artist/0KeEMBn34d4rKeACHxK9AF) | [C'est à moi ça](https://open.spotify.com/album/4iLRvl9FFLhnXfXDSRITNj) | 3:23 | 2024-10-03 | 2025-02-21 |
@@ -201,6 +203,7 @@
 | [PTSMR](https://open.spotify.com/track/3IwsDBOjSZ0IJa71mXjqRZ) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL), [Rok.wav](https://open.spotify.com/artist/34AMiSMNdLIBS0NapVfzLz), [Dudu.wav](https://open.spotify.com/artist/2fyTjHpxa1sFTxYYIgV7YO) | [PTSMR](https://open.spotify.com/album/4rQL2TSwLZobwftESuhn5J) | 3:00 | 2024-06-20 | 2025-01-24 |
 | [Que la biche soit en nous](https://open.spotify.com/track/37aTA1MjK5fCo4SNVmQ6WY) | [Astéréotypie](https://open.spotify.com/artist/1bPIphq90zexFcnUA7qILm) | [Que la biche soit en nous](https://open.spotify.com/album/3fy1GzRl5vpIMGYPwl09Yd) | 3:28 | 2024-06-20 | 2025-02-07 |
 | [Quel dommage](https://open.spotify.com/track/7tLhOs918gmnFelUpTkVgq) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI) | [Quel dommage](https://open.spotify.com/album/3QVyFLFsxzav6hfxRYADr4) | 3:23 | 2023-10-19 | 2023-12-08 |
+| [Quelle heure est\-il](https://open.spotify.com/track/4Rm4gta5RlBOBAZHyuMTQ7) | [LAMOUR](https://open.spotify.com/artist/3y08s9jlzVAK7yrqqK2tj2) | [Quelle heure est\-il](https://open.spotify.com/album/0MggCPhrlljI3419jkOG0m) | 2:25 | 2025-03-20 |  |
 | [QUI FERA TAIRE LES KIDZ FUCKED UP??](https://open.spotify.com/track/6aLLPBxLZUK4E8DIKdcbN8) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [COMÈTE](https://open.spotify.com/album/4CKVF1Nic1t4j02iZnfi8Y) | 3:33 | 2025-03-13 |  |
 | [Radio](https://open.spotify.com/track/3XDbBLoiPf3NNR4DY1wMld) | [Keep Dancing Inc](https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB) | [Radio](https://open.spotify.com/album/1nRoA7wDI7mraWdDMOteQ8) | 3:11 | 2023-09-28 | 2023-10-27 |
 | [Radio](https://open.spotify.com/track/7t4TKQwffyxm6VjV8xUzdP) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Radio](https://open.spotify.com/album/4gjmcshJN2wyvrZZeIXO2M) | 2:50 | 2023-09-28 | 2023-11-17 |

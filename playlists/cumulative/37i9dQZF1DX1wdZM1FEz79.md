@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Mingginyu\(밍기뉴\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 장범준\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-559 songs - 1 day 9 hr 8 min
+561 songs - 1 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Begin Again Open MIC EPISODE\. 13 \- Cactus](https://open.spotify.com/track/7HyFV9XyVMu8ZbbOMvMPgO) | [CAR, THE GARDEN](https://open.spotify.com/artist/0gqEtTORPrOqWJWElLvDQ3) | [Begin Again Open MIC EPISODE\. 13 \- Cactus](https://open.spotify.com/album/3QdHo5KB3EKyc0uapPsPJ0) | 3:19 | 2022-01-13 | 2022-07-14 |
 | [Behind the camera](https://open.spotify.com/track/1RAX3WtuQY3TyktqzAdUH8) | [eSNa](https://open.spotify.com/artist/2jfAd4z4B5dR7yhhwTOulQ) | [Behind the camera](https://open.spotify.com/album/7JPpktvZ0OGvK0m3TkMQbY) | 3:58 | 2022-07-04 | 2022-08-10 |
 | [Best regards](https://open.spotify.com/track/3owGb3JGbkRAWZjnCBj3Ic) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Best regards](https://open.spotify.com/album/68ZALvGpKI9Q8VEHUtodNN) | 3:18 | 2022-03-07 | 2022-04-21 |
-| [Bird Song](https://open.spotify.com/track/5t4gFAD6xd9WsacZP32uxU) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [The potato lab, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/4eUdm8UPPfMEKNN0deQY8u) | 3:30 | 2025-03-14 |  |
+| [Bird Song](https://open.spotify.com/track/5t4gFAD6xd9WsacZP32uxU) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [The potato lab, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/4eUdm8UPPfMEKNN0deQY8u) | 3:30 | 2025-03-14 | 2025-03-21 |
 | [Blame The Summer](https://open.spotify.com/track/6qKlzXAyGK0eWeSQZEgcPJ) | [LENA](https://open.spotify.com/artist/7DgPtuRm6ydMd3jxoeW0TR) | [Blame The Summer](https://open.spotify.com/album/0Q4tPpbf96cgJjlfG9rs7y) | 3:28 | 2024-09-23 | 2024-10-05 |
 | [Bloom](https://open.spotify.com/track/3ANZUoigx1r1GgZJMqbMwY) | [Moonbit](https://open.spotify.com/artist/5rwDc7dGKrtZg9TN1vsSPx) | [Bloom](https://open.spotify.com/album/3tePaoi07rPbKErbdBwE3w) | 3:35 | 2022-04-12 | 2022-04-16 |
 | [Blue](https://open.spotify.com/track/3qjnIcGn7hp9iDYiaAt1oO) | [Choix2](https://open.spotify.com/artist/14RtqJKZMfdKYwObLGvnmV), [COE](https://open.spotify.com/artist/7Ld7na2w621hxwAQRfzpA2) | [Blue](https://open.spotify.com/album/7M3HVFFPw2ajPY5gsKMARe) | 3:06 | 2022-04-12 | 2022-04-20 |
@@ -83,7 +83,7 @@
 | [Cat 고양이](https://open.spotify.com/track/5MPYoxKteBooWtMDcL97ix) | [TAEG.E](https://open.spotify.com/artist/6gVunSTeWBpsD4pc78szcv) | [Cat 고양이](https://open.spotify.com/album/3WdXtwhYtSGrRuNPShw3L5) | 3:15 | 2022-04-12 | 2022-04-20 |
 | [Celebrity \- Acoustic](https://open.spotify.com/track/6sYwUFG8bG02yRtwDMuc8H) | [Dragon Stone](https://open.spotify.com/artist/0psw89QmbwHJemhN1kqPLh) | [Celebrity \(Acoustic\)](https://open.spotify.com/album/0zDLUzfQQCPFLJiROj5AAG) | 3:24 | 2022-02-10 | 2022-04-14 |
 | [Chapter of our love](https://open.spotify.com/track/0xqij7BqOzbnwcjmNqWMIG) | [Microdot](https://open.spotify.com/artist/1ToWoFmtIc9NTPFy7lR690), [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [PROPHET](https://open.spotify.com/album/6llFy3B9EZt3H0QQTVzLxA) | 4:23 | 2022-03-31 | 2022-04-21 |
-| [Cherish](https://open.spotify.com/track/5xX9WHM9qn7zsYFKcTGTD1) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Cherish](https://open.spotify.com/album/2rIyU9oLnV4ap127MYOjL7) | 2:52 | 2025-03-14 |  |
+| [Cherish](https://open.spotify.com/track/5xX9WHM9qn7zsYFKcTGTD1) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Cherish](https://open.spotify.com/album/2rIyU9oLnV4ap127MYOjL7) | 2:52 | 2025-03-14 | 2025-03-21 |
 | [Chilly Weather](https://open.spotify.com/track/7JWODJwvHmmTUsvr0YypZS) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3) | [Chilly Weather](https://open.spotify.com/album/3QAqYe4w6LlWJBg1svzIhG) | 3:39 | 2022-03-31 | 2022-04-02 |
 | [Close To You](https://open.spotify.com/track/6vvIG5bhPay9ewgS9I8h8t) | [Joo Yein](https://open.spotify.com/artist/3aSFvFghagKF9tdjluIkAT) | [Social Savvy Class 101 OST Part.5](https://open.spotify.com/album/1JGlWwjZflilU8AbBiPL2b) | 3:51 | 2024-11-20 | 2024-12-06 |
 | [Close Your Eyes](https://open.spotify.com/track/7Lf3MxufBeAg6ZSKlut8wZ) | [Bam Soo Sung](https://open.spotify.com/artist/2iijjkoVBe57TcHnsR3sOy) | [Close Your Eyes](https://open.spotify.com/album/5D8tcWOfpWfIoLG075ptmG) | 3:32 | 2022-03-31 | 2022-04-14 |
@@ -128,6 +128,7 @@
 | [Everything to you 나의 세상을 보여주고 싶어](https://open.spotify.com/track/0Q1vY2GRzE5hzTQBvEkOr3) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Everything to you 나의 세상을 보여주고 싶어](https://open.spotify.com/album/7FJFPX2OyP0IS4koeEEEI1) | 3:52 | 2022-03-07 | 2022-04-21 |
 | [Everywhere](https://open.spotify.com/track/2PKkot4uqwirvx4STLQUKf) | [Lee Handeul](https://open.spotify.com/artist/4BoCvio8IeKSXwEmtqIamU) | [Searching 4U](https://open.spotify.com/album/6hA8uroQnOleJkdecDXF0P) | 3:00 | 2022-03-31 | 2022-04-17 |
 | [Eye To Eye](https://open.spotify.com/track/3l5h4nyOoMXv52yRwbk139) | [Kwak Jin Eon](https://open.spotify.com/artist/4xQ4GjBomHvTRL1GO624zd) | [Eye To Eye](https://open.spotify.com/album/66KIloUNndKqtAxyjwCAgS) | 3:06 | 2021-12-10 | 2022-05-17 |
+| [faff](https://open.spotify.com/track/5AEqNwD5njdUasGayCr6wF) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [faff](https://open.spotify.com/album/3N22fi9UhQP2209LZ8Wwbq) | 2:54 | 2025-03-20 |  |
 | [Fairytale\. 1](https://open.spotify.com/track/3Yq34EnM08NGssIauRpyYm) | [Jo KyungYun](https://open.spotify.com/artist/4k8NlNnWBu6Rze9oq96ewd) | [Fairytale\. 1](https://open.spotify.com/album/2cxQTnL4VqUwRP9odkpmD5) | 3:11 | 2022-03-31 | 2022-04-18 |
 | [fall in you](https://open.spotify.com/track/7kjdV8qFX2UfvK47XzXQBh) | [Robinson](https://open.spotify.com/artist/2editJWcypiJR0XSnrUi6z) | [fall in you](https://open.spotify.com/album/1JqwbNjTFfaV6xcaGKtbsB) | 3:14 | 2022-03-31 | 2022-04-12 |
 | [Fall Is Coming](https://open.spotify.com/track/4I0kjIezui6dV6uVovFYty) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Fall Is Coming](https://open.spotify.com/album/2P2zTJkaEDQVG58HvaFT9l) | 2:34 | 2024-09-23 | 2024-10-16 |
@@ -381,6 +382,7 @@
 | [Shining, My 2006](https://open.spotify.com/track/0Aw8TF0SpyERLi4w0dXUi8) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [2006](https://open.spotify.com/album/6lumjI581TEGHeTviSikrm) | 4:49 | 2021-12-10 | 2022-06-13 |
 | [Shoes](https://open.spotify.com/track/2I5W9TrNTWn4i50Sm02vDy) | [Zhangguyy](https://open.spotify.com/artist/1LZpQEPSamphvIM3CDo3Nu), [Osamu](https://open.spotify.com/artist/13VLezmDGQJnFNERxYJvCe) | [Shoes](https://open.spotify.com/album/1Gde1sPR0Jhukof1ERI6a5) | 2:57 | 2022-03-31 | 2022-04-07 |
 | [Si Fueras Mía](https://open.spotify.com/track/2EDpsT55NCISpccODTIUiV) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:57 | 2021-12-10 | 2024-05-10 |
+| [Silent rainfalls](https://open.spotify.com/track/1FG8L8QhCB2QoG9dwpWhec) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [History of Nerds](https://open.spotify.com/album/4ZusrPbu6N5ObAayvhz5Yq) | 3:35 | 2025-03-20 |  |
 | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd) | 3:40 | 2022-03-18 | 2022-07-29 |
 | [Slowly](https://open.spotify.com/track/1DSjB1I3OSvAPp9GXLj1Mm) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Slowly](https://open.spotify.com/album/7mCNiQanfqb34Bru9mCsLU) | 3:37 | 2022-04-12 | 2022-04-16 |
 | [Slowly Surely \- Acoustic Ver.](https://open.spotify.com/track/6EgDfIawG7x5957YCAzfB5) | [moderniq](https://open.spotify.com/artist/3m6WVewMgiOVsskjmELMKY) | [Slowly Surely](https://open.spotify.com/album/6LFmHBHFTo9p61n5f4DbjW) | 3:09 | 2022-03-31 | 2022-04-12 |

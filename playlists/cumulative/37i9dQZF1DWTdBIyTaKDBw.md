@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-335 songs - 18 hr 52 min
+336 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Birds](https://open.spotify.com/track/036lPK1hs7BhEIznZ1OGBy) | [Wünsche](https://open.spotify.com/artist/6la2xjnhxnRYP3iZ3suP9H) | [Sunday Vibes](https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf) | 2:13 | 2024-07-02 |  |
 | [Bit by Bit, Slowly, To You](https://open.spotify.com/track/31X1N4lrop817FGBLsIBsv) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [Bit by Bit, Slowly, To You](https://open.spotify.com/album/4I5jPCjaATIgV3ADJdBoDE) | 4:16 | 2023-05-02 | 2024-07-03 |
 | [Blanca](https://open.spotify.com/track/6dKTWFaypAL4e5Hzie6zZp) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD), [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [Journey To Osaka](https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm) | 2:13 | 2024-07-02 | 2024-11-04 |
+| [Blood Oath](https://open.spotify.com/track/2PKptrmMOcBoP6WPWwawvO) | [Vindu](https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej) | [Blood Oath](https://open.spotify.com/album/3YslCpD8Zr4PjVeKqh7uA0) | 3:15 | 2024-07-02 |  |
 | [Blooming Today](https://open.spotify.com/track/1dTshccEBE5ABMk5ls1LHA) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Blooming Today](https://open.spotify.com/album/5oi7YShT4pfwoAlKJtqDsk) | 3:09 | 2023-06-13 | 2023-08-11 |
 | [Blooming Today](https://open.spotify.com/track/7bFLEPt1ZpePXATqdRWbZu) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Blooming Today](https://open.spotify.com/album/4TMYHDS6hlg3VtFOu96lNT) | 3:02 | 2023-07-17 | 2024-07-03 |
 | [Blue Dragon](https://open.spotify.com/track/4eJ11PArOQBen4ZYQu7byX) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Hanagasumi](https://open.spotify.com/album/56q8Tkk5130VkPysfMN8j8) | 3:19 | 2024-07-02 |  |
@@ -235,15 +236,15 @@
 | [s p r i n g \(st\) r o l l](https://open.spotify.com/track/2DOhi5lfz2qsnOCF63Ac94) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO) | [home movies](https://open.spotify.com/album/1zGOEsbvEZz6RYhE7kytDF) | 1:27 | 2024-07-02 |  |
 | [Sage](https://open.spotify.com/track/63yGlWei594l3Me8KaKF2G) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs), [milligon](https://open.spotify.com/artist/62h3mAlyYduSmprbNEdKKD) | [Sage](https://open.spotify.com/album/26BmBroNz25vIvfSXU5rwd) | 2:27 | 2024-07-02 |  |
 | [Sakai](https://open.spotify.com/track/2ZROj14YkoeoqWxDvphqb0) | [Chau Sara](https://open.spotify.com/artist/4VjWi8luQOkJ3hLEW7UMhl) | [Sakai](https://open.spotify.com/album/4sqbLBBQhZiFCNkDs01AvC) | 2:46 | 2024-07-02 |  |
-| [Sakura Season](https://open.spotify.com/track/690j6xy0m3P2lqX4u6ei1E) | [Simon Groß](https://open.spotify.com/artist/4pQcgEsdyEy5XTd0QMmjvD) | [Sakura Season](https://open.spotify.com/album/3zDAiR6CbwlH8Jodmi1VYQ) | 2:46 | 2024-07-02 |  |
+| [Sakura Season](https://open.spotify.com/track/690j6xy0m3P2lqX4u6ei1E) | [Simon Groß](https://open.spotify.com/artist/4pQcgEsdyEy5XTd0QMmjvD) | [Sakura Season](https://open.spotify.com/album/3zDAiR6CbwlH8Jodmi1VYQ) | 2:46 | 2024-07-02 | 2025-03-21 |
 | [Sakura Temple](https://open.spotify.com/track/2GVaw6ZH10v87Anbhay6eG) | [Vindu](https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej) | [Sakura Temple](https://open.spotify.com/album/6bWl64ciGr8yUrQnlJbpI3) | 2:48 | 2024-07-02 | 2025-01-04 |
 | [Sakura Trees](https://open.spotify.com/track/3F0mcxksBp33QrL6oyjvLN) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Buena Vista](https://open.spotify.com/album/5mgVRRHjtl9fSY3rUHysJx) | 1:39 | 2024-07-02 |  |
 | [Sanctuary](https://open.spotify.com/track/4xVy2Ej4pV95vyMauBwToI) | [Nomak](https://open.spotify.com/artist/6XrpG3fOQBXzVBYjQUrsGv) | [Calm](https://open.spotify.com/album/2udB97O2aRJDluomPS7v9m) | 4:02 | 2024-07-02 |  |
 | [Sea Of Love](https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB) | [FLY TO THE SKY](https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC) | [Back in Time](https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt) | 4:15 | 2022-05-03 | 2024-07-03 |
 | [Secret Place](https://open.spotify.com/track/7nYSThKhGZuaOQ8zeKSm1X) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Harmony](https://open.spotify.com/album/7biuWedEj1S1VAkVovjzX1) | 4:27 | 2024-07-02 |  |
 | [Shanghai Nights](https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Around the World](https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy) | 4:24 | 2024-07-02 |  |
-| [Shangri\-la](https://open.spotify.com/track/3qVG7xejiok5tjEVguRbra) | [sftspkn](https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq) | [Journey To Osaka](https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm) | 2:18 | 2024-07-02 | 2024-11-01 |
-| [Shinjuku](https://open.spotify.com/track/1avj4Lvjk4hleD9KCaIuN8) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs) | [The Legend of Shirokuro](https://open.spotify.com/album/17RN8GvKD2sUQ7BgiiTJgr) | 2:05 | 2024-07-02 |  |
+| [Shangri\-la](https://open.spotify.com/track/3qVG7xejiok5tjEVguRbra) | [sftspkn](https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq) | [Journey To Osaka](https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm) | 2:18 | 2024-07-02 |  |
+| [Shinjuku](https://open.spotify.com/track/1avj4Lvjk4hleD9KCaIuN8) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs) | [The Legend of Shirokuro](https://open.spotify.com/album/17RN8GvKD2sUQ7BgiiTJgr) | 2:05 | 2024-07-02 | 2025-03-21 |
 | [Shinrin](https://open.spotify.com/track/0tvVGLB8YrW4JLezmfJZmN) | [Vindu](https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej) | [Peace of Mind](https://open.spotify.com/album/6TqEfURNizG4pHGCh5THZd) | 3:15 | 2024-07-02 |  |
 | [Shower duty](https://open.spotify.com/track/3vCbwbAIRB1vkQAGbNXO3F) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 4:33 | 2022-05-03 | 2022-09-09 |
 | [sigh](https://open.spotify.com/track/53pxxjKIvaIxQwOpIeCLdk) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Re \- Feel](https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w) | 4:22 | 2022-06-20 | 2022-07-24 |

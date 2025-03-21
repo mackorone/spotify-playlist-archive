@@ -1,6 +1,6 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez",
-  "num_followers": 91197,
+  "num_followers": 91222,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
+        "name": "La Lupe - Greatest Hits",
+        "url": "https://open.spotify.com/album/03MZq6wqB3UwHpLa5kmCHJ"
+      },
+      "artists": [
+        {
+          "name": "La Lupe",
+          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
+        }
+      ],
+      "duration_ms": 165813,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/78RPkU9Tb9mc3CrT1b4Uxt"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
         "name": "Back On The Streets Of Spanish Harlem",
         "url": "https://open.spotify.com/album/3ea0oHYXJgewFJpRvH7iip"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 147573,
       "name": "Cha Cha Cha Con Pachanga",
       "url": "https://open.spotify.com/track/5vcPjssTjWvB5Fj8GxVl31"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
-        "name": "La Lupe - Greatest Hits",
-        "url": "https://open.spotify.com/album/03MZq6wqB3UwHpLa5kmCHJ"
-      },
-      "artists": [
-        {
-          "name": "La Lupe",
-          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
-        }
-      ],
-      "duration_ms": 165813,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/78RPkU9Tb9mc3CrT1b4Uxt"
     },
     {
       "added_at": "2024-07-18 20:57:58",

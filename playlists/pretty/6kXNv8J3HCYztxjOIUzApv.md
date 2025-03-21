@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 
 > Rock out while you work out! Follow for updates!
 
-[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 61,231 likes - 182 songs - 11 hr 26 min
+[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 61,235 likes - 182 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 | 181 | [SOS \- Alternative Version](https://open.spotify.com/track/5Jkg6h2W1msCoLCIJ75vTA) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution Deluxe: The Collabs](https://open.spotify.com/album/3zJkZv2QjamztjHmzShhuQ) | 3:38 |
 | 182 | [Guerrilla Radio](https://open.spotify.com/track/1lenAyuxQejwcsgLQtGqPV) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution Deluxe: The Collabs](https://open.spotify.com/album/3zJkZv2QjamztjHmzShhuQ) | 3:23 |
 
-Snapshot ID: `AAAIpVao4w9eMBDGb9dWJkDjeDQ5nV/n`
+Snapshot ID: `AAAIphUUzv5YNHUPMXNqG1uBigBdYX1G`

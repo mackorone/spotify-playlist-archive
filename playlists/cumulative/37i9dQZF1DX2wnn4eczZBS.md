@@ -2,9 +2,9 @@
 
 ### [indiepuntnl](https://open.spotify.com/playlist/37i9dQZF1DX2wnn4eczZBS)
 
-> indie & indiepop in het Nederlands\. Cover: Joost & Spinvis
+> indie & indiepop in het Nederlands\. Cover: LE MOTAT
 
-170 songs - 8 hr 55 min
+171 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Dus Ik Ga](https://open.spotify.com/track/6GbtsakP9ZMR6w7ok2cTUT) | [SKINC](https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6) | [Dus Ik Ga](https://open.spotify.com/album/55Q2gr5Rhu9ucEFiONmPgP) | 3:19 | 2024-07-19 | 2025-01-11 |
 | [Dwars](https://open.spotify.com/track/0DIs9izFeabve5fCncW1p8) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Dwars](https://open.spotify.com/album/5S2TQKLJWNzu7nJIwSVzaQ) | 2:56 | 2024-11-14 | 2025-02-27 |
 | [Een Filosofie Van Het Riool](https://open.spotify.com/track/3iNVdekvdmLW4FwcTU1mxS) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Een Filosofie Van Het Riool](https://open.spotify.com/album/76VF1Aj51hR66X4lcYBXaV) | 5:26 | 2025-01-10 | 2025-03-08 |
+| [Eerste Date](https://open.spotify.com/track/5yduJBegePsnWGlm6QK6DY) | [LE MOTAT](https://open.spotify.com/artist/5ETmxctyLILUwpIf9H30iO) | [Eerste Date](https://open.spotify.com/album/1RRZ8lGxb3EToVRya8zsNi) | 2:38 | 2025-03-20 |  |
 | [Femboy](https://open.spotify.com/track/7AvfGrqPE0TbgcQgsGeXJU) | [Stippenlift](https://open.spotify.com/artist/0YR2zBCixKxGg5go4LvjA9) | [Femboy](https://open.spotify.com/album/1qzm7lB5pNO6ZFPiIRQ3Mp) | 2:59 | 2024-06-26 | 2024-08-30 |
 | [Filmster](https://open.spotify.com/track/33hQTFcIB1w2NTGSXwnvAj) | [dorpsstraat 3](https://open.spotify.com/artist/48XLHMAiLI8SAihFXXeV1A) | [Staal Op Staal](https://open.spotify.com/album/4ATUDakW1IL9zYu3oEG74Q) | 3:55 | 2025-02-13 |  |
 | [Gebroken Spiegel](https://open.spotify.com/track/10Kg907mXNLeJ0K86gE1Or) | [Q'n](https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM), [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Gebroken Spiegel](https://open.spotify.com/album/6dNDtmJnXyWzaFKiC47vc2) | 3:29 | 2025-01-16 | 2025-03-08 |
@@ -138,7 +139,7 @@
 | [Sorry Lul](https://open.spotify.com/track/6cOAc4PczLoDpHKjfmvfdu) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Sorry Lul](https://open.spotify.com/album/5iofnv1k4oRIbn2yd9kWGB) | 2:47 | 2024-08-29 |  |
 | [Spijt](https://open.spotify.com/track/4Ny674v1zFuFdrRU01hh5I) | [Meis](https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW) | [Spijt](https://open.spotify.com/album/1tE5XZud8RVn0FMqI4yGVE) | 3:04 | 2024-06-26 | 2024-08-30 |
 | [Spookstad](https://open.spotify.com/track/1hBT3YVAygNFTSP3ntqzp4) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [2 HIGH 2 SOCIETY](https://open.spotify.com/album/4F9UoGdfxO0yy3nXFv5hbE) | 3:19 | 2025-01-10 |  |
-| [Stapvoets](https://open.spotify.com/track/5MOYwUWtAMrT2ualbTNxY0) | [Toverjas](https://open.spotify.com/artist/5zMml0lnXLktIwo5TT0cqW) | [Stapvoets](https://open.spotify.com/album/3Gvclg5FnfdjbSYrgRVA80) | 2:58 | 2025-02-20 |  |
+| [Stapvoets](https://open.spotify.com/track/5MOYwUWtAMrT2ualbTNxY0) | [Toverjas](https://open.spotify.com/artist/5zMml0lnXLktIwo5TT0cqW) | [Stapvoets](https://open.spotify.com/album/3Gvclg5FnfdjbSYrgRVA80) | 2:58 | 2025-02-20 | 2025-03-21 |
 | [Starstruck \(Celebrity\)](https://open.spotify.com/track/2Jj4TrXWBA6f4B3CuS5tmx) | [NONCHELANGE](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Starstruck \(Celebrity\)](https://open.spotify.com/album/4yHOJauSMEwuUbbIPABuHa) | 3:51 | 2024-11-07 | 2025-03-08 |
 | [Steeds Weer](https://open.spotify.com/track/7uEC4z7GMQAgmhOV737AcR) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Meester Van Niks](https://open.spotify.com/album/5Y5iMbFdJDo0h91qRW0lLU) | 2:16 | 2025-03-07 |  |
 | [Suicide Vest](https://open.spotify.com/track/3dg92GcW0cYVTRdByFfiqU) | [Massi](https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056) | [Suicide Vest](https://open.spotify.com/album/2qfzIAJETQsix94hAecDmZ) | 4:02 | 2025-01-10 | 2025-03-08 |

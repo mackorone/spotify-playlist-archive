@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Country](https://open.spotify.com/playlist/37i9dQZF1DWYUfsq4hxHWP)
 
-> Fresh country music by independent artists every Wednesday\. Cover: Emily Ann Roberts, Artwork: Fanélie Muselier
+> Fresh country music by independent artists every Wednesday\. Cover: Grace Tyler, Artwork: Fanélie Muselier
 
 2,989 songs - 6 day 17 hr 56 min
 

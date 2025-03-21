@@ -2,7 +2,7 @@
 
 ### [BASSLINE THERAPY](https://open.spotify.com/playlist/0lVl7MriET3XEU0PJyDBfw)
 
-> Your Tech House therapy session for the dancefloor \| SoundCloud mix series: Bassline Therapy Radio
+> Only the best Tech House \| Find the mix series on SoundCloud: Bassline Therapy Radio
 
 585 songs - 1 day 6 hr 39 min
 

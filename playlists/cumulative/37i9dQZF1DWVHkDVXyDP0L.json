@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Press Club",
+  "description": "New and local indie noise. Cover: Old Mervs",
   "name": "Local Noise",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 233034,
       "name": "'Til Kingdom Come",
       "url": "https://open.spotify.com/track/4zR1HXnD4sqt1UGf7dFsgn"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 157232,
       "name": "Again, Again",
       "url": "https://open.spotify.com/track/4EiZVKwcEuZVjXWpZVAoLX"
@@ -362,7 +362,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 156924,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/0rBUDQJtjbXt9DlB6vsfa2"
@@ -683,6 +683,24 @@
     },
     {
       "album": {
+        "name": "Big Think",
+        "url": "https://open.spotify.com/album/0pJ5K4bdIa2qMkKVABKaBF"
+      },
+      "artists": [
+        {
+          "name": "Oscar the Wild",
+          "url": "https://open.spotify.com/artist/3GL9QGFy4v4MBilQFWeRSW"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164366,
+      "name": "Big Think",
+      "url": "https://open.spotify.com/track/6dHarIpfoSBGnP6I1jFHVU"
+    },
+    {
+      "album": {
         "name": "Bitter Honey",
         "url": "https://open.spotify.com/album/2nbSa4OxJQVySHY6bLQU3w"
       },
@@ -730,7 +748,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 238306,
       "name": "Blackstar",
       "url": "https://open.spotify.com/track/0DlA3HQ1TZrdqrHB6QAtPY"
@@ -1108,7 +1126,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 199766,
       "name": "Centrelink Summer",
       "url": "https://open.spotify.com/track/3jQjHhER7INf1GJ6OKwlC7"
@@ -1832,7 +1850,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 177252,
       "name": "Don't Be A Stranger",
       "url": "https://open.spotify.com/track/02rCzlqdbWR3EAUvloCp0g"
@@ -1854,7 +1872,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 200026,
       "name": "Don't Care",
       "url": "https://open.spotify.com/track/6dBNZ7CpX9VzVvB9hXoP6S"
@@ -1876,6 +1894,24 @@
       "duration_ms": 186463,
       "name": "Don't Feel Right",
       "url": "https://open.spotify.com/track/15o1aMlyBLPTiPNSplIsAo"
+    },
+    {
+      "album": {
+        "name": "Old Mervs",
+        "url": "https://open.spotify.com/album/6vsw2nYU15cpA6h8beSH8g"
+      },
+      "artists": [
+        {
+          "name": "Old Mervs",
+          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161511,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/73UXAcJFFg7njuZahPub9u"
     },
     {
       "album": {
@@ -2078,7 +2114,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 178284,
       "name": "Effie's Song",
       "url": "https://open.spotify.com/track/5pMxCZjsdHMPBsXQI5hajM"
@@ -2258,7 +2294,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 193368,
       "name": "Exceptional",
       "url": "https://open.spotify.com/track/5HCwsAQT7hnBdIefIettuq"
@@ -2294,7 +2330,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 168277,
       "name": "Fake It",
       "url": "https://open.spotify.com/track/45e7TKWcYH9HcBkWFn4oUi"
@@ -2690,7 +2726,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 195290,
       "name": "Fuck All",
       "url": "https://open.spotify.com/track/2np5tX6IeIKkUPqS8mmJiT"
@@ -3148,7 +3184,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 186521,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/6MoD2aTX0Yc2YjHjG7CxXf"
@@ -3292,7 +3328,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 205274,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/7KuC4GpD1tiyaXQcTAk01z"
@@ -3490,7 +3526,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 195906,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/0nE5L0dfkTFRnBzkTOH4nD"
@@ -3915,6 +3951,24 @@
     },
     {
       "album": {
+        "name": "Underneath",
+        "url": "https://open.spotify.com/album/3CXpOqNf1BhauuuRL6HR49"
+      },
+      "artists": [
+        {
+          "name": "Floodlights",
+          "url": "https://open.spotify.com/artist/5gQvIK95LKrgtgkBPlH3XI"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248849,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/7gseRradPwugHQ68OKLK4t"
+    },
+    {
+      "album": {
         "name": "juliet & juliet",
         "url": "https://open.spotify.com/album/60bkLTXrxVVqiR5G9YtcnQ"
       },
@@ -4085,6 +4139,24 @@
     },
     {
       "album": {
+        "name": "LCD",
+        "url": "https://open.spotify.com/album/7JiblL6oSzGZfiTAin8t4Y"
+      },
+      "artists": [
+        {
+          "name": "Ghost Care",
+          "url": "https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211705,
+      "name": "LCD",
+      "url": "https://open.spotify.com/track/2uR01tcAXfzD99eaKQJvBT"
+    },
+    {
+      "album": {
         "name": "Le Risque",
         "url": "https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol"
       },
@@ -4204,7 +4276,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 238514,
       "name": "Light Up The Path",
       "url": "https://open.spotify.com/track/0fuvxtyhFjrWFJYxg6fFUq"
@@ -4222,7 +4294,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 151106,
       "name": "Like No Other",
       "url": "https://open.spotify.com/track/5Hjj61HTqfrvxORvRs7fDH"
@@ -4622,7 +4694,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 173949,
       "name": "Mess Me Around",
       "url": "https://open.spotify.com/track/15iqr1fwQeT6bJR2T43WtG"
@@ -4878,7 +4950,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 169856,
       "name": "My Bingayi",
       "url": "https://open.spotify.com/track/0p1aFVGgYEjEufh5A8OWei"
@@ -4950,7 +5022,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 213046,
       "name": "Never Know",
       "url": "https://open.spotify.com/track/4OeKxxRK8khI2hEwiQtf65"
@@ -5170,7 +5242,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 220194,
       "name": "Oh Boy",
       "url": "https://open.spotify.com/track/0xhjLlekKpHwiVuhoLPEzb"
@@ -5300,6 +5372,24 @@
       "duration_ms": 126051,
       "name": "On Your Side",
       "url": "https://open.spotify.com/track/26ntBiWJleMvpqHdjAIzaC"
+    },
+    {
+      "album": {
+        "name": "Once Is Never Enough",
+        "url": "https://open.spotify.com/album/3EpWegEfj7PSf8JNTwW8Qk"
+      },
+      "artists": [
+        {
+          "name": "The Terrys",
+          "url": "https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200744,
+      "name": "Once Is Never Enough",
+      "url": "https://open.spotify.com/track/2aaSEkicYPxHnqNLp8Vtqs"
     },
     {
       "album": {
@@ -6078,7 +6168,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 148424,
       "name": "Red Lights",
       "url": "https://open.spotify.com/track/7egbENInwPWegyktIf4rVh"
@@ -6474,7 +6564,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 185262,
       "name": "Seven Years",
       "url": "https://open.spotify.com/track/2HrQshIO9YRkdE4bcyUqbX"
@@ -6607,6 +6697,24 @@
     },
     {
       "album": {
+        "name": "Shut You Out",
+        "url": "https://open.spotify.com/album/7DuY9zQbN205TwHbS8DzVE"
+      },
+      "artists": [
+        {
+          "name": "The Rions",
+          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234715,
+      "name": "Shut You Out",
+      "url": "https://open.spotify.com/track/76U8YEyo2El1OejrPzqKEW"
+    },
+    {
+      "album": {
         "name": "Siberia",
         "url": "https://open.spotify.com/album/4JchqHQ7JY7d2o29hRBwNl"
       },
@@ -6690,7 +6798,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 273524,
       "name": "Silver Swarm",
       "url": "https://open.spotify.com/track/5HJ9vyLx0HbezfxzKQkEDR"
@@ -6928,7 +7036,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 225198,
       "name": "Southerly",
       "url": "https://open.spotify.com/track/5DpYq9kUygUHOOR3LKXuYv"
@@ -7479,6 +7587,24 @@
     },
     {
       "album": {
+        "name": "Tattoos",
+        "url": "https://open.spotify.com/album/5SzZ1cmzROTOGS8sVJyKq4"
+      },
+      "artists": [
+        {
+          "name": "LILY B",
+          "url": "https://open.spotify.com/artist/4DBqgdhqseFfJ9ArHkhzAv"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202448,
+      "name": "Tattoos",
+      "url": "https://open.spotify.com/track/0vaSjojLaOl2kFLeVccmyl"
+    },
+    {
+      "album": {
         "name": "Telescope",
         "url": "https://open.spotify.com/album/7u7J2ZsrQ5TwEGAsKfuccQ"
       },
@@ -7642,7 +7768,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 205508,
       "name": "The Fathers Of Iron Flesh",
       "url": "https://open.spotify.com/track/1HVwFd9DN9W9GtjIjuL2qz"
@@ -7804,7 +7930,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 111320,
       "name": "This High Up",
       "url": "https://open.spotify.com/track/6fzrti55gh3cXknLB7kcCJ"
@@ -7930,7 +8056,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 188625,
       "name": "Tightrope",
       "url": "https://open.spotify.com/track/5gbxUQZ5S747MlZusDhNSF"
@@ -7970,6 +8096,24 @@
       "duration_ms": 258600,
       "name": "Time Will Try",
       "url": "https://open.spotify.com/track/69XAsJo6c9KBDc7vNYgT9A"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Again",
+        "url": "https://open.spotify.com/album/3bfWMtGBBx28ILGKcK4YF4"
+      },
+      "artists": [
+        {
+          "name": "GRMLN",
+          "url": "https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190567,
+      "name": "Tomorrow Again",
+      "url": "https://open.spotify.com/track/1q95eMTkkPM5jV0AZUl4hW"
     },
     {
       "album": {
@@ -8117,6 +8261,24 @@
     },
     {
       "album": {
+        "name": "Vacant State",
+        "url": "https://open.spotify.com/album/7rQ8aoU5W54WXVGyJjFVWl"
+      },
+      "artists": [
+        {
+          "name": "Stepmother",
+          "url": "https://open.spotify.com/artist/1273m8O7zfWHIaMPUw98mM"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107736,
+      "name": "Vacant State",
+      "url": "https://open.spotify.com/track/08mzeYl58yA5WzpyCS6Ilq"
+    },
+    {
+      "album": {
         "name": "Wait For You",
         "url": "https://open.spotify.com/album/78M1yD6saOARIetMj8iXIn"
       },
@@ -8182,7 +8344,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 199359,
       "name": "Wasted Days",
       "url": "https://open.spotify.com/track/0hFQpI7Y0yDxUFZ8PNCMvu"
@@ -8452,7 +8614,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 225922,
       "name": "You Need Me",
       "url": "https://open.spotify.com/track/6YxAZdghtON1XwyePqfnLC"

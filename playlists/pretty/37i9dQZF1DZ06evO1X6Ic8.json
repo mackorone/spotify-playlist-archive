@@ -1,6 +1,6 @@
 {
   "description": "This is The 1975. The essential tracks, all in one playlist.",
-  "num_followers": 801118,
+  "num_followers": 801217,
   "original_name": "This Is The 1975",
   "owner": {
     "name": "Spotify",
@@ -599,10 +599,14 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+        "name": "Spinning (with Charli XCX & The 1975)",
+        "url": "https://open.spotify.com/album/3iji9D5iOwGSCz1bnkuAii"
       },
       "artists": [
+        {
+          "name": "No Rome",
+          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+        },
         {
           "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
@@ -610,15 +614,11 @@
         {
           "name": "The 1975",
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        },
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
         }
       ],
-      "duration_ms": 250603,
-      "name": "I might say something stupid featuring the 1975 & jon hopkins",
-      "url": "https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA"
+      "duration_ms": 172559,
+      "name": "Spinning (with Charli XCX & The 1975)",
+      "url": "https://open.spotify.com/track/56D251hqnHtPSgwSH5a0fl"
     },
     {
       "added_at": null,
@@ -671,14 +671,10 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spinning (with Charli XCX & The 1975)",
-        "url": "https://open.spotify.com/album/3iji9D5iOwGSCz1bnkuAii"
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
       "artists": [
-        {
-          "name": "No Rome",
-          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
-        },
         {
           "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
@@ -686,11 +682,15 @@
         {
           "name": "The 1975",
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        },
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
         }
       ],
-      "duration_ms": 172559,
-      "name": "Spinning (with Charli XCX & The 1975)",
-      "url": "https://open.spotify.com/track/56D251hqnHtPSgwSH5a0fl"
+      "duration_ms": 250603,
+      "name": "I might say something stupid featuring the 1975 & jon hopkins",
+      "url": "https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA"
     },
     {
       "added_at": null,

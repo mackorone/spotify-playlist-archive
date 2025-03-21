@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 
 > Relaxing and salutary ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,704 likes - 225 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,738 likes - 225 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 2 | [Winters Sleep](https://open.spotify.com/track/4LyDHXJDTfFSxuhpivXgGd) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Winters Sleep](https://open.spotify.com/album/3mk18OdrLas5f5ow6XPWkT) | 2:43 |
 | 3 | [A World Away](https://open.spotify.com/track/2q2BfGBehYrqv7SHkqzldR) | [Kaleido Young](https://open.spotify.com/artist/4c4Y540mQ31qDu85OrbURi) | [A World Away](https://open.spotify.com/album/0QYPZ8iuY45cLrq3oFGMJG) | 2:20 |
 | 4 | [Jasper](https://open.spotify.com/track/2AG8ZJpqCZBAGYJKuWEXUr) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Jasper](https://open.spotify.com/album/0rklMojfiPjGxBSRVOGLrw) | 3:10 |
-| 5 | [Exception](https://open.spotify.com/track/5mtDu6p1lTeM0aEcGJvkO4) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Exception](https://open.spotify.com/album/3vZpbegph3K927kNhJglme) | 2:53 |
+| 5 | [Exception](https://open.spotify.com/track/5mtDu6p1lTeM0aEcGJvkO4) | [Garcíia](https://open.spotify.com/artist/2dvwSbPOAs6EdV3vUMrgtL) | [Exception](https://open.spotify.com/album/3vZpbegph3K927kNhJglme) | 2:53 |
 | 6 | [Effervescence](https://open.spotify.com/track/2IuS6shEG19BVgTBYH5yl4) | [Astred](https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5) | [Effervescence](https://open.spotify.com/album/7nMq1OD4fJOYTSWsa6EyJw) | 2:34 |
 | 7 | [Delphi](https://open.spotify.com/track/3Z9X3ef6R2tDgXtj8GSRq9) | [Ursae Minoris](https://open.spotify.com/artist/6AaoxXuj5Iwi9Tm1BATmFo) | [Delphi](https://open.spotify.com/album/72KpeqnpbPU6QkYgDjqnt8) | 3:06 |
 | 8 | [Stella](https://open.spotify.com/track/307xoWpOJypO6nvS1dx7YR) | [Celestial Aura](https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV) | [Stella](https://open.spotify.com/album/52JcE8PUN2E7x1rtjEHHmL) | 2:36 |

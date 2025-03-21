@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-941 songs - 2 day 5 hr 15 min
+942 songs - 2 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Driving](https://open.spotify.com/track/4MWNzOV01xBWQ5bUNWbfUL) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Driving](https://open.spotify.com/album/4nqtyvb07LoYrEBFMWU51F) | 3:21 | 2024-06-25 | 2024-09-18 |
 | [Droids](https://open.spotify.com/track/14jlkBcHSBOdGLeei57uEH) | [Annix](https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [Droids](https://open.spotify.com/album/0i7MvBfZ7poiVKpOIJWAQ0) | 3:40 | 2022-06-09 | 2022-08-23 |
 | [Drowning](https://open.spotify.com/track/6ay07MXOmggaJyMoLT1fqC) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Drowning](https://open.spotify.com/album/7lJSmMbApjYTvZaU72KZTo) | 3:49 | 2023-02-24 | 2023-05-18 |
+| [drunk on u](https://open.spotify.com/track/64KSyt7Jn8jC5lNEB15xjX) | [The Duchess](https://open.spotify.com/artist/5WxiAl23gqBkSToRgKsG8B), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67) | [drunk on u](https://open.spotify.com/album/3uZkt4BhHKIkVlgUz0mQfB) | 2:12 | 2025-03-20 |  |
 | [Duality](https://open.spotify.com/track/3SdDaIM1CjAEaFN9jmqfjf) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [Duality](https://open.spotify.com/album/1y7jhXRTJG1kBi7ZftkjB8) | 3:30 | 2022-12-08 | 2023-03-09 |
 | [Eagle Rock](https://open.spotify.com/track/04XcibbkTGfV5dbUZ1e2FJ) | [Alex H](https://open.spotify.com/artist/3VJS76xe6UUj7Qo2S9gxvB) | [Eagle Rock](https://open.spotify.com/album/6uvex7L4oOshBeTbgtlzQN) | 4:04 | 2022-11-19 | 2022-11-22 |
 | [easier](https://open.spotify.com/track/6Nq8uEVMd328QWCXQoSuuM) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [clouds in my basement](https://open.spotify.com/album/5Vdqlk72QXWQSDMMrUaYTJ) | 2:44 | 2022-08-26 | 2022-11-02 |

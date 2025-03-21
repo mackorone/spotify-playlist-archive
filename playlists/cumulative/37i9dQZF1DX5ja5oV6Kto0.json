@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: MiDi KwaKwa",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Lady Donli",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -214,6 +214,24 @@
       "duration_ms": 230000,
       "name": "3 in the Morning",
       "url": "https://open.spotify.com/track/0YcAQqvxtRERBkCFyx7afs"
+    },
+    {
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/37afImoE5cCB6Nxwg4a28w"
+      },
+      "artists": [
+        {
+          "name": "Twitch 4EVA",
+          "url": "https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132972,
+      "name": "4",
+      "url": "https://open.spotify.com/track/0Rw7SgIeIDtVMgy0lgTEW5"
     },
     {
       "album": {
@@ -1974,7 +1992,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 198000,
       "name": "Black Bullet",
       "url": "https://open.spotify.com/track/0Rwi0YXTX64xHhGZJr1aeV"
@@ -3698,7 +3716,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 99310,
       "name": "CRUISE",
       "url": "https://open.spotify.com/track/1oCMYZ9k98wgiqTw5hdMwq"
@@ -7753,6 +7771,24 @@
     },
     {
       "album": {
+        "name": "Keep On Loving Me (Biko Biko)",
+        "url": "https://open.spotify.com/album/2uRLG0A0JXYaXfe0zLCbrR"
+      },
+      "artists": [
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134181,
+      "name": "Keep On Loving Me (Biko Biko)",
+      "url": "https://open.spotify.com/track/6P6NBxeNQTQIu1ZGpoTwks"
+    },
+    {
+      "album": {
         "name": "Palmwine Music 3",
         "url": "https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF"
       },
@@ -11759,6 +11795,24 @@
     },
     {
       "album": {
+        "name": "Puuush",
+        "url": "https://open.spotify.com/album/1Ph67R5NJn34js6QoxMiUn"
+      },
+      "artists": [
+        {
+          "name": "Bapi Joss",
+          "url": "https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "Puuush",
+      "url": "https://open.spotify.com/track/5HM3f22ZV9furYzzsvMBbF"
+    },
+    {
+      "album": {
         "name": "Que Sera",
         "url": "https://open.spotify.com/album/09vJd4nTEvLwwhgpOKnbAl"
       },
@@ -14608,7 +14662,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 195976,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/1iYUdgn6p7dAMKLLVCBGeh"
@@ -14984,6 +15038,28 @@
       "duration_ms": 185550,
       "name": "This Is Not Enough",
       "url": "https://open.spotify.com/track/7L9RA4tSCafLYl7w2ECHhP"
+    },
+    {
+      "album": {
+        "name": "throw me around",
+        "url": "https://open.spotify.com/album/3Iw2t0bZUFHg2tTKkXOFRe"
+      },
+      "artists": [
+        {
+          "name": "Raytheboffin",
+          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
+        },
+        {
+          "name": "In\u00e7i",
+          "url": "https://open.spotify.com/artist/3yzxQXs6v4ifwl2NTtWbZu"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138841,
+      "name": "throw me around",
+      "url": "https://open.spotify.com/track/6cg84w6nHcEbdhhipXCj18"
     },
     {
       "album": {
@@ -16466,7 +16542,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 180000,
       "name": "With Open Arms",
       "url": "https://open.spotify.com/track/2zMkas94Ekim0wZfGsGe23"

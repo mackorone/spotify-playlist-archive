@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Thomas Leleu\n",
+  "description": "The best jazz new releases. Cover: Gabi Hartmann",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -1283,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "Better Place Blues",
+        "url": "https://open.spotify.com/album/7os0m4lnpbxvIjdGy7VS9f"
+      },
+      "artists": [
+        {
+          "name": "Yaron Herman",
+          "url": "https://open.spotify.com/artist/0YbhcCKyhHD3llGKNtE9UJ"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304560,
+      "name": "Better Place Blues",
+      "url": "https://open.spotify.com/track/6ic53xMZGD4myzBKGtHH1I"
+    },
+    {
+      "album": {
         "name": "Bird of Beauty",
         "url": "https://open.spotify.com/album/2VKy0JyPz1r9LTmaHIoBej"
       },
@@ -1998,7 +2016,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 206466,
       "name": "Cantilene",
       "url": "https://open.spotify.com/track/1G1MA35h8ijuol0nLnUqxE"
@@ -2793,6 +2811,24 @@
     },
     {
       "album": {
+        "name": "Communion",
+        "url": "https://open.spotify.com/album/2ljsWrtbL0hv7DNsww4Ox7"
+      },
+      "artists": [
+        {
+          "name": "Georgia C\u00e9cile",
+          "url": "https://open.spotify.com/artist/0KjGICUAvAWs6qev5iovJa"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244789,
+      "name": "Communion",
+      "url": "https://open.spotify.com/track/1glJiExOlcbDjdNIzElYqQ"
+    },
+    {
+      "album": {
         "name": "constellations",
         "url": "https://open.spotify.com/album/3tXcqoG6fMJQciSTv0wGGC"
       },
@@ -2954,7 +2990,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 154285,
       "name": "Cry Me a River",
       "url": "https://open.spotify.com/track/1SNsZq2WQh2N4Qkagm3L01"
@@ -5098,7 +5134,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 175714,
       "name": "GREEN LIGHT",
       "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
@@ -7260,7 +7296,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 183826,
       "name": "Les fauves",
       "url": "https://open.spotify.com/track/2PtKkshRFtUazLbqfxcjVI"
@@ -7736,6 +7772,28 @@
       "duration_ms": 396292,
       "name": "Love Cynical",
       "url": "https://open.spotify.com/track/6BA3YaMWaE76mbju6CP2jC"
+    },
+    {
+      "album": {
+        "name": "La femme aux yeux de sel",
+        "url": "https://open.spotify.com/album/5PiHQMN9NyN8vIVVMhNj5s"
+      },
+      "artists": [
+        {
+          "name": "Gabi Hartmann",
+          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+        },
+        {
+          "name": "Laurent Bardainne",
+          "url": "https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261026,
+      "name": "Love High (feat. Laurent Bardainne)",
+      "url": "https://open.spotify.com/track/0ZDKm5QVqcMFmp1Wv4oYrq"
     },
     {
       "album": {
@@ -11608,6 +11666,24 @@
       "duration_ms": 318857,
       "name": "Stairway to the Stars",
       "url": "https://open.spotify.com/track/2aRV7NOutbMjN6Ot1b7fBF"
+    },
+    {
+      "album": {
+        "name": "The Panorama Sessions, Vol. 2",
+        "url": "https://open.spotify.com/album/2QBW1FxFUivoffvVoiSO8J"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360299,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2fY8kKGDEn3oOCntstJqDP"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & The Night Sweats",
-  "num_followers": 488363,
+  "num_followers": 488360,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
+        "name": "Are You Listening?",
+        "url": "https://open.spotify.com/album/5ampvyxkZxEpNRy9dE322O"
+      },
+      "artists": [
+        {
+          "name": "Lera Lynn",
+          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
+        }
+      ],
+      "duration_ms": 198120,
+      "name": "Are You Listening?",
+      "url": "https://open.spotify.com/track/3ulWqq1RCWMHQlX2hrAPa7"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1WTJCdZuGWrQcLJdv2jeVu"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 257117,
       "name": "Hands On The Wheel (Feat. Particle Kid) (Recorded at Luck Reunion) - Spotify Singles",
       "url": "https://open.spotify.com/track/1c0PPeV09JNqhLsM4mC7Mx"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
-        "name": "Are You Listening?",
-        "url": "https://open.spotify.com/album/5ampvyxkZxEpNRy9dE322O"
-      },
-      "artists": [
-        {
-          "name": "Lera Lynn",
-          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
-        }
-      ],
-      "duration_ms": 198120,
-      "name": "Are You Listening?",
-      "url": "https://open.spotify.com/track/3ulWqq1RCWMHQlX2hrAPa7"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Love At Your Convenience",
-        "url": "https://open.spotify.com/album/60a4GdYNRT135ejymVVsCt"
-      },
-      "artists": [
-        {
-          "name": "The Ghost of Paul Revere",
-          "url": "https://open.spotify.com/artist/30fXKjFrJ6I9tfwia1ZZMG"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "Love At Your Convenience",
-      "url": "https://open.spotify.com/track/5RmYeDWwImW4OC63UQsbG0"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Evergreen",
         "url": "https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Holster",
-        "url": "https://open.spotify.com/album/3btLo0lAX8kaCTrQoJ6ZLs"
+        "name": "Love At Your Convenience",
+        "url": "https://open.spotify.com/album/60a4GdYNRT135ejymVVsCt"
       },
       "artists": [
         {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+          "name": "The Ghost of Paul Revere",
+          "url": "https://open.spotify.com/artist/30fXKjFrJ6I9tfwia1ZZMG"
         }
       ],
-      "duration_ms": 180925,
-      "name": "Holster",
-      "url": "https://open.spotify.com/track/6b3FnGkuvdpaZoWjN3Fo74"
+      "duration_ms": 213920,
+      "name": "Love At Your Convenience",
+      "url": "https://open.spotify.com/track/5RmYeDWwImW4OC63UQsbG0"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1267,6 +1251,22 @@
       "duration_ms": 228960,
       "name": "One Night Show",
       "url": "https://open.spotify.com/track/6GShhhftAwBQitztgKUCPN"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Holster",
+        "url": "https://open.spotify.com/album/3btLo0lAX8kaCTrQoJ6ZLs"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 180925,
+      "name": "Holster",
+      "url": "https://open.spotify.com/track/6b3FnGkuvdpaZoWjN3Fo74"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
+        "name": "Already Dead",
+        "url": "https://open.spotify.com/album/3b21RhhOLcTI7rY6JdeFIM"
+      },
+      "artists": [
+        {
+          "name": "Willy Mason",
+          "url": "https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Outwit the Devil",
+      "url": "https://open.spotify.com/track/6W7CkWDUexJnzDBqC1a27c"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC"
       },
@@ -1463,18 +1479,18 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Already Dead",
-        "url": "https://open.spotify.com/album/3b21RhhOLcTI7rY6JdeFIM"
+        "name": "Way Back",
+        "url": "https://open.spotify.com/album/19HLhs8Ey6wysibfosbk0q"
       },
       "artists": [
         {
-          "name": "Willy Mason",
-          "url": "https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL"
+          "name": "The Lighthouse And The Whaler",
+          "url": "https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3"
         }
       ],
-      "duration_ms": 184500,
-      "name": "Outwit the Devil",
-      "url": "https://open.spotify.com/track/6W7CkWDUexJnzDBqC1a27c"
+      "duration_ms": 258058,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/6Jt5iBTXNyW4fpG6W26K0G"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1511,22 +1527,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Way Back",
-        "url": "https://open.spotify.com/album/19HLhs8Ey6wysibfosbk0q"
-      },
-      "artists": [
-        {
-          "name": "The Lighthouse And The Whaler",
-          "url": "https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3"
-        }
-      ],
-      "duration_ms": 258058,
-      "name": "Way Back",
-      "url": "https://open.spotify.com/track/6Jt5iBTXNyW4fpG6W26K0G"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Starting from Scratch",
         "url": "https://open.spotify.com/album/3ajBFaN4FRuRgmzLrvUFVk"
       },
@@ -1539,22 +1539,6 @@
       "duration_ms": 189425,
       "name": "Starting from Scratch",
       "url": "https://open.spotify.com/track/3pM19Q0sIoPc3SLLAaJrcs"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
-        "name": "Believer / Pretender",
-        "url": "https://open.spotify.com/album/36HWMDvsEnHhas677pJhJh"
-      },
-      "artists": [
-        {
-          "name": "Sons Of Bill",
-          "url": "https://open.spotify.com/artist/52oqBs3nTaZ3K3PcGpjCgw"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Believer / Pretender",
-      "url": "https://open.spotify.com/track/6JpqZqiJrWCgSOusAARV2Q"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1587,6 +1571,22 @@
       "duration_ms": 284538,
       "name": "Cyclades",
       "url": "https://open.spotify.com/track/5bm4mWrTL3LAewRDiTMQel"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Believer / Pretender",
+        "url": "https://open.spotify.com/album/36HWMDvsEnHhas677pJhJh"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Bill",
+          "url": "https://open.spotify.com/artist/52oqBs3nTaZ3K3PcGpjCgw"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Believer / Pretender",
+      "url": "https://open.spotify.com/track/6JpqZqiJrWCgSOusAARV2Q"
     },
     {
       "added_at": "2025-02-07 05:00:32",

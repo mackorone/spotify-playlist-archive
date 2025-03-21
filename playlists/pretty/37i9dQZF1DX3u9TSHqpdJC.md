@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music from new, independent artists\.  Cover: Raissa\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,176 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,188 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 23 | [My Path](https://open.spotify.com/track/26fPPYgpEBLCmPuMXUezsD) | [BLADË](https://open.spotify.com/artist/2IU0KXU1L7fIfAqzG4VcgC) | [My Path](https://open.spotify.com/album/780jdgiFqVQ1wGYJNxA0hk) | 7:08 |
 | 24 | [FiRST CLASS](https://open.spotify.com/track/2vaa854lLZJlkinXIeBLu9) | [MARiMARi](https://open.spotify.com/artist/4EuIByMqMJOCQijthmKLwl) | [FiRST CLASS](https://open.spotify.com/album/6quElopRXqMhbi6QsxDA4S) | 2:22 |
 | 25 | [Hot Lava](https://open.spotify.com/track/4nD2xVUxc0VoK1ZIeWhLtu) | [Maella](https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY) | [Hot Lava](https://open.spotify.com/album/5ge7mF4oxAA3mb5uMacNEz) | 3:17 |
-| 26 | [going under](https://open.spotify.com/track/3ZHya5rTwM1t3oG7zyPjtn) | [Ali Wolverton](https://open.spotify.com/artist/74XB8aP3f2Ze0JgzVmrjWx) | [going under](https://open.spotify.com/album/3rdeYQMlp9NM9VrGc46aHa) | 3:20 |
+| 26 | [going under](https://open.spotify.com/track/3ZHya5rTwM1t3oG7zyPjtn) | [Ali Wolv](https://open.spotify.com/artist/74XB8aP3f2Ze0JgzVmrjWx) | [going under](https://open.spotify.com/album/3rdeYQMlp9NM9VrGc46aHa) | 3:20 |
 | 27 | [Forget,](https://open.spotify.com/track/7cAqg391pJlB8XWcgEWH6W) | [Isac Halldin](https://open.spotify.com/artist/3DvEEc12DMy5peHWgSw2UF) | [Forget,](https://open.spotify.com/album/1CrkjivjCUyyotAissCcqN) | 2:58 |
 | 28 | [I Wish I Could Be Cynical](https://open.spotify.com/track/7BGG9OmmzcyCaXp7d40vOG) | [Christian Cherry](https://open.spotify.com/artist/6rmnezB7LuaNkZ8OKeB3tK) | [I Wish I Could Be Cynical](https://open.spotify.com/album/66g7wnb5Rrgsfchz7iGAWr) | 2:48 |
 | 29 | [Downfall](https://open.spotify.com/track/6pw4p1jgeEhgoubStEviG8) | [Alex Apolline](https://open.spotify.com/artist/45daMU0LyV9jLb0e8gbKvU) | [Downfall](https://open.spotify.com/album/3uLlGkUpclfJvRC2BXHH1O) | 3:49 |

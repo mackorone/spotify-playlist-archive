@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 44 likes - 847 songs - 2 day 18 hr 31 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 44 likes - 848 songs - 2 day 18 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -855,5 +855,6 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 845 | [I Serenata](https://open.spotify.com/track/64n4XWpat5ZEmHLnOkVJMU) | [Arleta](https://open.spotify.com/artist/6KVMKVZCXarNNhwKxhjCmo), [Lakis Papadopoulos](https://open.spotify.com/artist/1vhL7DQsMAxapgKbSJEYJM) | [I Serenata](https://open.spotify.com/album/2BedQ1tDggNKVNR1VPwzi4) | 4:23 |
 | 846 | [Dont't Judge Me Bad \(2023 Remastered\)](https://open.spotify.com/track/2T0gfPOk9VKE6gpLsQqGc3) | [Senyaka](https://open.spotify.com/artist/0JI5oyvW4ozJsb2Q5VSeNn) | [Fuquza \(Dance\) \(2023 Remastered\)](https://open.spotify.com/album/1PMtTFfWRT4g2XFRl47EJF) | 3:04 |
 | 847 | [Tu estas en mi sistema \- You Are In My System](https://open.spotify.com/track/0cm1BAzkaXWDKgaCiJkkG2) | [The System](https://open.spotify.com/artist/67NN7SgdxKesGnxZOB8YeX) | [Sweat](https://open.spotify.com/album/3hl2uaqB2zBZdetkeATUBe) | 6:15 |
+| 848 | [Pedro](https://open.spotify.com/track/2WW9gkCVI1sqWc08I1KcBg) | [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Le Più Belle Canzoni](https://open.spotify.com/album/0yS4KqzSVnHRuFfZkLkHzu) | 3:19 |
 
-Snapshot ID: `AAADuIMswN4NOQ/iUyIe6MejfVS6S6hb`
+Snapshot ID: `AAADufesB7xfQnV7u2YujaEPbWBd4nCA`

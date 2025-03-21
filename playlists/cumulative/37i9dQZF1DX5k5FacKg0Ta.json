@@ -344,7 +344,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 221126,
       "name": "Al Ponto",
       "url": "https://open.spotify.com/track/0KvncMYji5nBEBdeJERT0l"
@@ -675,6 +675,28 @@
     },
     {
       "album": {
+        "name": "Live In Helsinki",
+        "url": "https://open.spotify.com/album/6hl7CLsd5OnN42NOkFlmMP"
+      },
+      "artists": [
+        {
+          "name": "Timo Lassy",
+          "url": "https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq"
+        },
+        {
+          "name": "Timo Lassy Trio",
+          "url": "https://open.spotify.com/artist/3bNcoFmv3oCZ3gS9bTzmQm"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 542875,
+      "name": "Better Together - Live",
+      "url": "https://open.spotify.com/track/48wLP4fnvWi0Tdlal29e5p"
+    },
+    {
+      "album": {
         "name": "Selene's View",
         "url": "https://open.spotify.com/album/56qlwxs3UtvXjtT1vZSh1g"
       },
@@ -742,7 +764,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 594546,
       "name": "Bill From Sao Paolo",
       "url": "https://open.spotify.com/track/7IDahq9lKY8C2pHanZb8Qo"
@@ -1881,6 +1903,28 @@
     },
     {
       "album": {
+        "name": "Forgetting Things",
+        "url": "https://open.spotify.com/album/5lJuNrQTSyM5YBNr4GWuRy"
+      },
+      "artists": [
+        {
+          "name": "Lauri Kallio",
+          "url": "https://open.spotify.com/artist/1KJR0su6nMmHhWS2NIDhV5"
+        },
+        {
+          "name": "Jimi Tenor",
+          "url": "https://open.spotify.com/artist/69H6uUTI29XBzQXV1d3A7D"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344666,
+      "name": "Forgetting Things",
+      "url": "https://open.spotify.com/track/3vwyyYGYTDFieFbURCxydo"
+    },
+    {
+      "album": {
         "name": "Futuristic Earth",
         "url": "https://open.spotify.com/album/65B4vUhJSJ8ZqVpszxFJ2h"
       },
@@ -2016,6 +2060,28 @@
       "duration_ms": 216840,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/10hgrMwVYsuM7WzoeZFhU7"
+    },
+    {
+      "album": {
+        "name": "Head & Heart",
+        "url": "https://open.spotify.com/album/5Xw4w4ozuNBLICcydsRvaT"
+      },
+      "artists": [
+        {
+          "name": "Varre Vartiainen",
+          "url": "https://open.spotify.com/artist/2XhdWDg4TZrfKrGb3dg3QG"
+        },
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511533,
+      "name": "Head & Heart",
+      "url": "https://open.spotify.com/track/6A7jnHm36yxrVyLakZwiAl"
     },
     {
       "album": {
@@ -3388,7 +3454,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 388666,
       "name": "Miked Up! - Single Version",
       "url": "https://open.spotify.com/track/6ArOfditpv6yFDP69kcpzn"

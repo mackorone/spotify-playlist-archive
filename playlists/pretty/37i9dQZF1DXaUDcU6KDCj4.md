@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Florist
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,329 likes - 151 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,362 likes - 151 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 33 | [bible bluff](https://open.spotify.com/track/2xoiVkcKCqwNOyIOmlyqPF) | [Steinza](https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD) | [bible bluff](https://open.spotify.com/album/4CBb65xIENLwnv4Og0wSGn) | 3:47 |
 | 34 | [Amends](https://open.spotify.com/track/7yRDPNvMxkOVHz6GbUpCg8) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Amends](https://open.spotify.com/album/5FCISEZtw5n95pcILChTcX) | 4:52 |
 | 35 | [The Prettiest Face](https://open.spotify.com/track/6E0G7ump7uk1QlK06w7N8S) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [The Prettiest Face](https://open.spotify.com/album/3AmFut4iasNG9keXqi4WR4) | 3:31 |
-| 36 | [Think About It](https://open.spotify.com/track/04s3GWkrMPdbJwYFY6UloW) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [think about it](https://open.spotify.com/album/4yHUj0gc9nEAhOtWeGPJMH) | 4:09 |
+| 36 | [think about it](https://open.spotify.com/track/04s3GWkrMPdbJwYFY6UloW) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [think about it](https://open.spotify.com/album/4yHUj0gc9nEAhOtWeGPJMH) | 4:09 |
 | 37 | [Feel Nothing](https://open.spotify.com/track/3uEosCr8U5wm3jNE0SJNq2) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Feel Nothing](https://open.spotify.com/album/12LDJZYmbjfG9OyewSo11r) | 3:13 |
 | 38 | [Like A River](https://open.spotify.com/track/45cw8A9pHMuaYfZ6OKeOVo) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [Like A River](https://open.spotify.com/album/0P2hqfzUDVz7OvLtMAK75r) | 2:33 |
 | 39 | [Chasing You](https://open.spotify.com/track/2ftAwPjmecLvIFYlPiMu7N) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Chasing You](https://open.spotify.com/album/2e2XlGg2ShHoBPhqv761At) | 3:49 |

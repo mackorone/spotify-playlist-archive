@@ -2214,7 +2214,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-17",
+      "date_removed": null,
       "duration_ms": 169301,
       "name": "arrival",
       "url": "https://open.spotify.com/track/7J1e0LTIZRjdz7i6WWdWcF"
@@ -11720,7 +11720,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-08",
+      "date_removed": null,
       "duration_ms": 146250,
       "name": "Express",
       "url": "https://open.spotify.com/track/7cXXT2CGdsxkm02CB7FZvS"
@@ -17384,7 +17384,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 142222,
       "name": "i think it was november",
       "url": "https://open.spotify.com/track/7D6CD56bThLj54TdC4laLz"
@@ -18314,7 +18314,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 150857,
       "name": "It's Cloudy",
       "url": "https://open.spotify.com/track/269vLZpnY21sgaa8i70k99"
@@ -21800,6 +21800,24 @@
       "duration_ms": 132263,
       "name": "lucid air",
       "url": "https://open.spotify.com/track/6suiglC9EEWunpmOkJagzj"
+    },
+    {
+      "album": {
+        "name": "Lucky 7",
+        "url": "https://open.spotify.com/album/6OpO74wlEiYGCbuf1TimUb"
+      },
+      "artists": [
+        {
+          "name": "Samara Milli",
+          "url": "https://open.spotify.com/artist/3sZomG9CbKFGghCfMXwhhv"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127851,
+      "name": "Lucky 7",
+      "url": "https://open.spotify.com/track/7uTx78QPwbsA6ZGzv8whYN"
     },
     {
       "album": {
@@ -31514,7 +31532,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 128679,
       "name": "sands of serenity",
       "url": "https://open.spotify.com/track/5KOQIig3ZU2aSzBOCHTagV"

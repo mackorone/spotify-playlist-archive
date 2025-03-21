@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Erika Isac, M.G.L.",
+  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: AOUR, M.G.L.",
   "name": "Suflet + Sunet",
   "tracks": [
     {
@@ -1668,7 +1668,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 347294,
       "name": "Maradona",
       "url": "https://open.spotify.com/track/0X1WQkLZ7XMmtkMXx8tceW"
@@ -2170,7 +2170,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-20",
+      "date_removed": null,
       "duration_ms": 196250,
       "name": "Scandal",
       "url": "https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU"
@@ -2557,6 +2557,28 @@
     },
     {
       "album": {
+        "name": "TUREAZ-O",
+        "url": "https://open.spotify.com/album/3dk71qXYTDWB1Jjr8lfIPq"
+      },
+      "artists": [
+        {
+          "name": "AOUR",
+          "url": "https://open.spotify.com/artist/2LjVvlBSYQOf4XY8hD5uRB"
+        },
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "TUREAZ-O",
+      "url": "https://open.spotify.com/track/49TQJahxC2nOwzMuHeoMyo"
+    },
+    {
+      "album": {
         "name": "TURURU",
         "url": "https://open.spotify.com/album/71Md4y07hO846ju9W6MVjK"
       },
@@ -2612,7 +2634,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 162206,
       "name": "Um\u0103r la um\u0103r",
       "url": "https://open.spotify.com/track/1bfhOZQKSgevVlVCGUalWl"

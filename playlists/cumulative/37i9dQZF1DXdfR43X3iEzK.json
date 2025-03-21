@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "My alt/pop could mean anything! Cover: Wet",
+  "description": "my alt/pop could mean anything.\ncover: woody",
   "name": "alt/pop",
   "tracks": [
     {
@@ -216,7 +216,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 135156,
       "name": "American Doll",
       "url": "https://open.spotify.com/track/49qWseFkwRYjqCJCul5h9o"
@@ -360,7 +360,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 143583,
       "name": "ARE U SERIOUS?",
       "url": "https://open.spotify.com/track/5ZVsCKomk3UHQ4kf1S9XrH"
@@ -530,10 +530,28 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 204678,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/012jGdugVtQMUJn8s6onGo"
+    },
+    {
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/55HcEdFWzWzsWkhOH5fU8B"
+      },
+      "artists": [
+        {
+          "name": "Dirt Flirt",
+          "url": "https://open.spotify.com/artist/3T4wXV4IkOAtdBXIJ2TpLE"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180960,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/7r7RrAfvDiPYXm844DOSYT"
     },
     {
       "album": {
@@ -573,6 +591,24 @@
     },
     {
       "album": {
+        "name": "Bubblegum",
+        "url": "https://open.spotify.com/album/3VDnNqarTJu4AGXtxZU4Ox"
+      },
+      "artists": [
+        {
+          "name": "Nii",
+          "url": "https://open.spotify.com/artist/4EuozD5gx5k8S76xh8XwnV"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "Bubblegum",
+      "url": "https://open.spotify.com/track/2gLOlKQoLj4kwMrPxqzB9l"
+    },
+    {
+      "album": {
         "name": "Cagematch",
         "url": "https://open.spotify.com/album/143g6glDC87OmRROIgPH82"
       },
@@ -606,7 +642,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 180818,
       "name": "Call Me By Your Name",
       "url": "https://open.spotify.com/track/1CIy9H06HPGqs92dnKGTTG"
@@ -703,6 +739,24 @@
     },
     {
       "album": {
+        "name": "Cherish",
+        "url": "https://open.spotify.com/album/3DSnS2AnWpB6FkKoIOMJL4"
+      },
+      "artists": [
+        {
+          "name": "TAAHLIAH",
+          "url": "https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Cherish",
+      "url": "https://open.spotify.com/track/4wjUKBp6k3jWD603S3H6do"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -718,6 +772,24 @@
       "duration_ms": 303440,
       "name": "CHIHIRO",
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+    },
+    {
+      "album": {
+        "name": "CITY IN LOVE",
+        "url": "https://open.spotify.com/album/2fPJV6UZsm54pYXX7HFRf1"
+      },
+      "artists": [
+        {
+          "name": "Aki Oke",
+          "url": "https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162462,
+      "name": "CITY IN LOVE",
+      "url": "https://open.spotify.com/track/5kpgZCndlAvQXrzuiFjVdp"
     },
     {
       "album": {
@@ -948,7 +1020,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 152000,
       "name": "Decimal",
       "url": "https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr"
@@ -1287,6 +1359,28 @@
     },
     {
       "album": {
+        "name": "Flutter",
+        "url": "https://open.spotify.com/album/16sYs1XXZugWWYdOzpcbBW"
+      },
+      "artists": [
+        {
+          "name": "phonewifey",
+          "url": "https://open.spotify.com/artist/3UrSRgbnWzDJsDNVFMaDP8"
+        },
+        {
+          "name": "Miink",
+          "url": "https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366000,
+      "name": "Flutter",
+      "url": "https://open.spotify.com/track/2IDBj3mMUuwjE3tAhRjdMN"
+    },
+    {
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/7o6p1Siw6MlP1lsPS6uucX"
       },
@@ -1302,6 +1396,24 @@
       "duration_ms": 191840,
       "name": "Free",
       "url": "https://open.spotify.com/track/0w78hawHvWANKTeFe8Vouv"
+    },
+    {
+      "album": {
+        "name": "Another Day In Paradise",
+        "url": "https://open.spotify.com/album/6qkrUuqvTFKdLfJurM8jAJ"
+      },
+      "artists": [
+        {
+          "name": "SOFY",
+          "url": "https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187287,
+      "name": "front seat honey",
+      "url": "https://open.spotify.com/track/5bwErSkWEn7erwob3o00d0"
     },
     {
       "album": {
@@ -1334,7 +1446,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 127162,
       "name": "Ganni Top (She Gets What She Needs)",
       "url": "https://open.spotify.com/track/4S2kZNqRtVNHCXFQKDQpEX"
@@ -1352,7 +1464,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-18",
+      "date_removed": null,
       "duration_ms": 194909,
       "name": "Get 2 Me",
       "url": "https://open.spotify.com/track/4nyQO3FVAI63h5a0HMgY9w"
@@ -1450,7 +1562,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 185946,
       "name": "Go!",
       "url": "https://open.spotify.com/track/32dPWlM6CblltDzJy9EmCu"
@@ -1522,7 +1634,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 202970,
       "name": "Good For Me",
       "url": "https://open.spotify.com/track/2n8dQ0i8f5qGbSuUFAKSJ1"
@@ -1685,6 +1797,24 @@
     },
     {
       "album": {
+        "name": "heartbreak hotel",
+        "url": "https://open.spotify.com/album/1kIBEr0xRymkmsXeRc2kPS"
+      },
+      "artists": [
+        {
+          "name": "Luna Morgenstern",
+          "url": "https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176578,
+      "name": "heartbreak hotel",
+      "url": "https://open.spotify.com/track/1VvYJUC8XGh1U1vJo8y63H"
+    },
+    {
+      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe"
       },
@@ -1786,7 +1916,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 126447,
       "name": "how could u love somebody like me?",
       "url": "https://open.spotify.com/track/7bn5nXdatftk0CHSrd7NHQ"
@@ -2010,7 +2140,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 263760,
       "name": "In The Living Room",
       "url": "https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X"
@@ -2046,7 +2176,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 153718,
       "name": "IT girl",
       "url": "https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh"
@@ -2154,10 +2284,28 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 180332,
       "name": "Just My Luck",
       "url": "https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu"
+    },
+    {
+      "album": {
+        "name": "Keep M\u00f8ving",
+        "url": "https://open.spotify.com/album/72kPRMbCSy6mcaz88F2Vzm"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202951,
+      "name": "Keep M\u00f8ving",
+      "url": "https://open.spotify.com/track/01P4zWU44Rsk4XIME4hsTd"
     },
     {
       "album": {
@@ -2172,7 +2320,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 235677,
       "name": "Keep On Dreaming",
       "url": "https://open.spotify.com/track/0uKLmL3J1H6XTWMAIbaKZO"
@@ -2602,7 +2750,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 247190,
       "name": "Moments",
       "url": "https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN"
@@ -2919,6 +3067,24 @@
     },
     {
       "album": {
+        "name": "POP GIRL",
+        "url": "https://open.spotify.com/album/794FeYrpWfWp4eDcWHuu5d"
+      },
+      "artists": [
+        {
+          "name": "Lexie Liu",
+          "url": "https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154790,
+      "name": "POP GIRL",
+      "url": "https://open.spotify.com/track/1diiLBOnInnwZjMnRyKWQT"
+    },
+    {
+      "album": {
         "name": "Pop Out",
         "url": "https://open.spotify.com/album/30MkCiLrhvOpfSMaVuZIqn"
       },
@@ -3074,7 +3240,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 160000,
       "name": "Run Your Mouth",
       "url": "https://open.spotify.com/track/19fKJrO9XdOf6Xla2QHecO"
@@ -3377,6 +3543,24 @@
     },
     {
       "album": {
+        "name": "southbound / test drive",
+        "url": "https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137923,
+      "name": "southbound",
+      "url": "https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt"
+    },
+    {
+      "album": {
         "name": "What Happened To The Heart?",
         "url": "https://open.spotify.com/album/357nWCZmAQtr7nNTHhkIn7"
       },
@@ -3547,6 +3731,24 @@
     },
     {
       "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/3YNywPu0RUO6GEHZzZM4RE"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123205,
+      "name": "This Time",
+      "url": "https://open.spotify.com/track/7qwVbzs04Ht2E5jtF6vKv1"
+    },
+    {
+      "album": {
         "name": "Too Much",
         "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
       },
@@ -3667,6 +3869,32 @@
     },
     {
       "album": {
+        "name": "SAGES",
+        "url": "https://open.spotify.com/album/07tE8zeYqXxyXsHjgJGRUp"
+      },
+      "artists": [
+        {
+          "name": "SAGES",
+          "url": "https://open.spotify.com/artist/5V57PJiPMsZflHN9dqoCSJ"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211926,
+      "name": "Unknowing",
+      "url": "https://open.spotify.com/track/2sBMYrxfm5Ylx2sDAaram2"
+    },
+    {
+      "album": {
         "name": "ur special to me",
         "url": "https://open.spotify.com/album/1sf3JXII7PIrBTPkEi2A0L"
       },
@@ -3779,6 +4007,42 @@
     },
     {
       "album": {
+        "name": "TELL DEM IT'S SUNNY",
+        "url": "https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158739,
+      "name": "Whatcha Mean",
+      "url": "https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT"
+    },
+    {
+      "album": {
+        "name": "when you leave / when you were around",
+        "url": "https://open.spotify.com/album/78993tLrhaUBssEaScVp0k"
+      },
+      "artists": [
+        {
+          "name": "woody",
+          "url": "https://open.spotify.com/artist/1MOlxrTqAReNKA5a5uFvC4"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192264,
+      "name": "when you leave",
+      "url": "https://open.spotify.com/track/4dF54aAxNcXkoyDzzuGEJz"
+    },
+    {
+      "album": {
         "name": "WHO AM I",
         "url": "https://open.spotify.com/album/3lscD3431rsquJaUgnUAU3"
       },
@@ -3826,7 +4090,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 205139,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt"
@@ -3920,7 +4184,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 189822,
       "name": "Young-Girl (Illusion)",
       "url": "https://open.spotify.com/track/7BXMOuzZnYYTj2mS0mbS7d"

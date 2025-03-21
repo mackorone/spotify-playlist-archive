@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "All I See Is You",
+        "url": "https://open.spotify.com/album/4PCW9G4aPNA9E72DianbnY"
+      },
+      "artists": [
+        {
+          "name": "Sophie Zelmani",
+          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157040,
+      "name": "All I See Is You",
+      "url": "https://open.spotify.com/track/6fguxhJr4J74AhAPACfVf4"
+    },
+    {
+      "album": {
         "name": "Moon Music",
         "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
       },
@@ -298,7 +316,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 162880,
       "name": "Andra M\u00e4nniskor",
       "url": "https://open.spotify.com/track/0dDYfyfGJuvitw2nD1gsv5"
@@ -406,7 +424,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 246080,
       "name": "Bara vara mig sj\u00e4lv",
       "url": "https://open.spotify.com/track/2FZ3LanaveWTMf2aWaMnpy"
@@ -1619,6 +1637,24 @@
     },
     {
       "album": {
+        "name": "F\u00f6rloraren",
+        "url": "https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo"
+      },
+      "artists": [
+        {
+          "name": "Genom Natten",
+          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185333,
+      "name": "F\u00f6rloraren",
+      "url": "https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS"
+    },
+    {
+      "album": {
         "name": "Tjue \u00e5r",
         "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
       },
@@ -2678,6 +2714,24 @@
       "duration_ms": 282613,
       "name": "Kyrie Eleison",
       "url": "https://open.spotify.com/track/6mCYHkyrrLd5bjgOytKHK2"
+    },
+    {
+      "album": {
+        "name": "K\u00e4nner ni igen er",
+        "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
+      },
+      "artists": [
+        {
+          "name": "Peder Stenberg",
+          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279303,
+      "name": "K\u00e4nner ni igen er",
+      "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
     },
     {
       "album": {
@@ -3972,7 +4026,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 180010,
       "name": "R\u00e4dda mig",
       "url": "https://open.spotify.com/track/7KVTHj4gD5UTxVuxQ00uyD"
@@ -4160,7 +4214,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 354600,
       "name": "Silverregn",
       "url": "https://open.spotify.com/track/11CMU3PNUeEEgcQHhPEY1R"
@@ -4663,6 +4717,24 @@
     },
     {
       "album": {
+        "name": "Swan Song",
+        "url": "https://open.spotify.com/album/2b0h82VV0V8GUAJtOSaAUO"
+      },
+      "artists": [
+        {
+          "name": "Weeping Willows",
+          "url": "https://open.spotify.com/artist/6f3he2xOHHHSZ0JVhTRIVj"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242013,
+      "name": "Swan Song",
+      "url": "https://open.spotify.com/track/52wQ5yIHQ8UNBPMCmbD9PJ"
+    },
+    {
+      "album": {
         "name": "Sweethearts",
         "url": "https://open.spotify.com/album/0K3N8ymk6GgL4lxLMPGEOB"
       },
@@ -5010,10 +5082,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 165333,
       "name": "Upp med hakan",
       "url": "https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM"
+    },
+    {
+      "album": {
+        "name": "Uteblivna vi",
+        "url": "https://open.spotify.com/album/5Pmc8qBwYvrmKBV0Q41zUH"
+      },
+      "artists": [
+        {
+          "name": "Lisa Nilsson",
+          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362920,
+      "name": "Uteblivna vi",
+      "url": "https://open.spotify.com/track/6qzJ3QiNBVd23wlliDyVRu"
     },
     {
       "album": {

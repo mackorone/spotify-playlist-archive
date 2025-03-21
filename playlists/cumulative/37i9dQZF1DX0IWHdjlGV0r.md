@@ -4,7 +4,7 @@
 
 > Alcuni amori bruciano più di altri\. Cover: Emis Killa
 
-206 songs - 10 hr 36 min
+207 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Con uno sguardo \(feat\. Tony Boy\)](https://open.spotify.com/track/1eXLKnYOKvM5WV3J6xvxFm) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [FAME](https://open.spotify.com/album/1cE5vEGVNAYXOJkrrwqu3P) | 2:31 | 2025-01-31 | 2025-03-19 |
 | [Correre \(feat\. Frah Quintale\)](https://open.spotify.com/track/5NYi4QOqyKT78JAJZAMKeN) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Umile \(Deluxe\)](https://open.spotify.com/album/4asGsNx59kGDbKWXwnd89t) | 2:49 | 2024-08-08 |  |
 | [CRAZY LOVE](https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:12 | 2022-07-28 | 2024-04-19 |
-| [CRAZY LOVE](https://open.spotify.com/track/3HYK8FMGNQu1Whl8DdtsRC) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp) | 3:12 | 2022-05-03 |  |
+| [CRAZY LOVE](https://open.spotify.com/track/3HYK8FMGNQu1Whl8DdtsRC) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp) | 3:12 | 2022-05-03 | 2025-03-21 |
 | [CRAZY LOVE](https://open.spotify.com/track/4W56lte2c6osTXc9wk5Mfb) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [IL MEGLIO DI Primavera 2022](https://open.spotify.com/album/42T1GNzRFeKvnYVhLrZodf) | 3:12 | 2022-11-07 | 2022-11-13 |
 | [CRUDELIA \- I nervi](https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:50 | 2022-05-03 |  |
 | [CUORI SPEZZATI](https://open.spotify.com/track/55h9la9ICtndO2PgH8U5E1) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [CUORI SPEZZATI](https://open.spotify.com/album/5GWvi5nrEzRBunptW3Yv6K) | 2:54 | 2024-07-04 | 2025-03-19 |
@@ -163,6 +163,7 @@
 | [Qualcosa da bere](https://open.spotify.com/track/5exPVjfGC9CNztXOGp8pEI) | [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy) | [Qualcosa da bere](https://open.spotify.com/album/6LSWJbpX34FT3KbQS1CfI1) | 3:10 | 2023-07-13 | 2023-09-08 |
 | [Quando Sto Con Te](https://open.spotify.com/track/2FLuWGIR4WwxWbdwZ0GHwd) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:01 | 2022-05-12 | 2022-06-03 |
 | [Quando tu mi baci](https://open.spotify.com/track/1SPbN6ppUSIcOTZAO2HoCf) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Powv\_fsk](https://open.spotify.com/artist/0IPhGUowAYS8nr7nT9synf) | [Quando tu mi baci](https://open.spotify.com/album/3i8BJ5YnNat8a8zzUiM8gd) | 3:18 | 2022-05-03 | 2022-06-23 |
+| [QUANTO TI IMPORTA](https://open.spotify.com/track/4Ot6ndhBUMfsgeJoawYxWX) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [QUANTO TI IMPORTA](https://open.spotify.com/album/0a5ak6iSa3EmoYcPqlxBhY) | 3:07 | 2025-03-20 |  |
 | [Red Light](https://open.spotify.com/track/1kZLATTXQa5BtEKH8GbW2U) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 2:47 | 2023-06-22 |  |
 | [Respiro](https://open.spotify.com/track/31ePh9rOTkIERrloY8BUUc) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Respiro](https://open.spotify.com/album/45ZXo91lK7a6x2lylI6siL) | 2:35 | 2024-05-30 | 2025-03-19 |
 | [Rosa](https://open.spotify.com/track/5JhvP5zFShla9LBIjEh6uO) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 2:51 | 2024-04-11 | 2025-03-19 |

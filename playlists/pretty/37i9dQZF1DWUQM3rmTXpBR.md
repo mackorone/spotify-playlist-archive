@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Jadal
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,558 likes - 91 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,576 likes - 91 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

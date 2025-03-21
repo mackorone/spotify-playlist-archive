@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-789 songs - 2 day 14 hr 43 min
+790 songs - 2 day 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Bags' Groove](https://open.spotify.com/track/1ewQUavRnFAEwPqqwKQ0nF) | [Milt Jackson](https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN) | [Milt Jackson With John Lewis, Percy Heath, Kenny Clarke, Lou Donaldson And The Thelonious Monk Quintet \(Expanded Edition\)](https://open.spotify.com/album/3rEExGtWJZ5uRXNKaCgKDl) | 3:06 | 2022-10-27 |  |
 | [Bang Bang](https://open.spotify.com/track/211mkZYf9YaQhlev1Vze5F) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Talkin' Verve](https://open.spotify.com/album/2lhapGz7nbjmiJEil7iAFX) | 3:03 | 2022-10-27 | 2025-01-07 |
 | [Beautiful Love](https://open.spotify.com/track/3lXgCSYCH9wCTHHLnpBzig) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita](https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw) | 2:40 | 2022-10-27 |  |
-| [Beautiful Love](https://open.spotify.com/track/4vrdSRSPdwRPjeLL5iqb3p) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Take Love Easy](https://open.spotify.com/album/0kJ2PsNKRL8lA6jjeZcLDk) | 2:59 | 2022-10-27 |  |
+| [Beautiful Love](https://open.spotify.com/track/4vrdSRSPdwRPjeLL5iqb3p) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Take Love Easy](https://open.spotify.com/album/0kJ2PsNKRL8lA6jjeZcLDk) | 2:59 | 2022-10-27 | 2025-03-21 |
 | [Beethoven's Piano Sonata No\. 8, Pathetique](https://open.spotify.com/track/08kouBwoppDP70MmwiNUPr) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy) | [Voice](https://open.spotify.com/album/26WGFrTj3fwGJysohbdK04) | 5:13 | 2023-02-15 |  |
 | [Before It's Time to Say Goodbye](https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Songbook](https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3) | 5:17 | 2024-07-17 | 2025-03-08 |
 | [Being There](https://open.spotify.com/track/3Tx609w6szOPbdas8CYdSt) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [The Ground](https://open.spotify.com/album/3rpF9hVBypQJLBf8fu5Vfu) | 4:11 | 2022-10-27 | 2023-08-10 |
@@ -180,6 +180,7 @@
 | [Dancing In The Dark](https://open.spotify.com/track/5DDx7lVobjWfLyvRDtW7BX) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Somethin' Else \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om) | 4:07 | 2022-12-07 |  |
 | [Darn That Dream](https://open.spotify.com/track/1qTNMWo0Al8AfAX6aPGo6k) | [Bill Evans](https://open.spotify.com/artist/6W5H7ELG8CsfvslV2WnvZ5), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Undercurrent](https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ) | 5:09 | 2024-07-17 |  |
 | [Darn That Dream](https://open.spotify.com/track/11qeOjSAx3TDr4IOPXq9Js) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Kaleidoscope](https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b) | 5:05 | 2022-10-27 |  |
+| [Dat Dere](https://open.spotify.com/track/5DLMl8htquCxvOnO1k60dy) | [Bobby Timmons](https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC) | [This Here Is Bobby Timmons](https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX) | 5:24 | 2024-07-17 |  |
 | [Dat Dere \- Remastered 2005](https://open.spotify.com/track/0fYXEHGIJqfimplx8Y4683) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Big Beat \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/3xTvTulNR8Ba1uk0oDaQbs) | 8:47 | 2024-07-17 |  |
 | [Dave](https://open.spotify.com/track/0mF2uLwZb2puMEiKI3hVYT) | [Orrin Evans](https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL) | [The Magic of Now](https://open.spotify.com/album/6WHjgmOf2n8tjd2d4GJt6y) | 3:43 | 2022-10-27 | 2024-07-21 |
 | [Day Dream](https://open.spotify.com/track/5Smmg9SpxnawbuYPKSNcmx) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 6:13 | 2022-10-27 | 2023-02-19 |

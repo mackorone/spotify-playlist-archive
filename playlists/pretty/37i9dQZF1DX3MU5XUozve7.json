@@ -1,6 +1,6 @@
 {
   "description": "A mix of new and classic melodic punk songs.",
-  "num_followers": 1029896,
+  "num_followers": 1030080,
   "original_name": "Skatepark Punks",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Nervous Breakdown",
-        "url": "https://open.spotify.com/album/4jBYjoYLD7GOHzVQ8olPlV"
-      },
-      "artists": [
-        {
-          "name": "Black Flag",
-          "url": "https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV"
-        }
-      ],
-      "duration_ms": 129173,
-      "name": "Nervous Breakdown",
-      "url": "https://open.spotify.com/track/3NoOwvxhI2yMYknxqnFUVx"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Fight the Good Fight",
         "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 187515,
       "name": "Gave You Everything",
       "url": "https://open.spotify.com/track/4C0ZP5m9z0pfefQHUhach5"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Nervous Breakdown",
+        "url": "https://open.spotify.com/album/4jBYjoYLD7GOHzVQ8olPlV"
+      },
+      "artists": [
+        {
+          "name": "Black Flag",
+          "url": "https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV"
+        }
+      ],
+      "duration_ms": 129173,
+      "name": "Nervous Breakdown",
+      "url": "https://open.spotify.com/track/3NoOwvxhI2yMYknxqnFUVx"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Say It Out Loud",
-        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 158573,
-      "name": "On A Turntable",
-      "url": "https://open.spotify.com/track/5BdbpAak9RUhjwT8fwciZe"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "After The Party",
         "url": "https://open.spotify.com/album/1nzDVfQopF9YBkpPAfUck3"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 176893,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Say It Out Loud",
+        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 158573,
+      "name": "On A Turntable",
+      "url": "https://open.spotify.com/track/5BdbpAak9RUhjwT8fwciZe"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -943,18 +943,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Rented World",
-        "url": "https://open.spotify.com/album/49Q3EfStlDspsaOo8VAgtW"
+        "name": "Victory Lap (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP"
       },
       "artists": [
         {
-          "name": "The Menzingers",
-          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
+          "name": "Propagandhi",
+          "url": "https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA"
         }
       ],
-      "duration_ms": 184840,
-      "name": "I Don't Wanna Be An Asshole Anymore",
-      "url": "https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ"
+      "duration_ms": 131160,
+      "name": "Failed Imagineer",
+      "url": "https://open.spotify.com/track/3JTQe7ek31DCy9glNCL5Xe"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -991,18 +991,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Victory Lap (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP"
+        "name": "Rented World",
+        "url": "https://open.spotify.com/album/49Q3EfStlDspsaOo8VAgtW"
       },
       "artists": [
         {
-          "name": "Propagandhi",
-          "url": "https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA"
+          "name": "The Menzingers",
+          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
         }
       ],
-      "duration_ms": 131160,
-      "name": "Failed Imagineer",
-      "url": "https://open.spotify.com/track/3JTQe7ek31DCy9glNCL5Xe"
+      "duration_ms": 184840,
+      "name": "I Don't Wanna Be An Asshole Anymore",
+      "url": "https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/4R3tXoorBpHji6Jdms8a4Q"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "duration_ms": 136400,
+      "name": "Wrong Way",
+      "url": "https://open.spotify.com/track/5cPfmNMC3AENizySC5oPu2"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "hollywood sucks//",
         "url": "https://open.spotify.com/album/6EIefsY4fYzZZTGdrEEoH1"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 153040,
       "name": "hollywood sucks//",
       "url": "https://open.spotify.com/track/1OGVFkHHzgupyil0N386Q5"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/4R3tXoorBpHji6Jdms8a4Q"
-      },
-      "artists": [
-        {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        }
-      ],
-      "duration_ms": 136400,
-      "name": "Wrong Way",
-      "url": "https://open.spotify.com/track/5cPfmNMC3AENizySC5oPu2"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Death By Television",
-        "url": "https://open.spotify.com/album/2T1lerPY9FutFgOdbJpA5r"
-      },
-      "artists": [
-        {
-          "name": "The Lillingtons",
-          "url": "https://open.spotify.com/artist/3DRyYmaDKNmiTVzvMtAmhX"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Black Hole In My Mind",
-      "url": "https://open.spotify.com/track/1pxdFGV2kO8oBmM8vys3F4"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "AC/DC CD",
         "url": "https://open.spotify.com/album/7AkV4FSIs35jgf2dkWGNWL"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 103548,
       "name": "Ac/Dc CD",
       "url": "https://open.spotify.com/track/7quz7tumpgpHaywZaAgUcH"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Death By Television",
+        "url": "https://open.spotify.com/album/2T1lerPY9FutFgOdbJpA5r"
+      },
+      "artists": [
+        {
+          "name": "The Lillingtons",
+          "url": "https://open.spotify.com/artist/3DRyYmaDKNmiTVzvMtAmhX"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Black Hole In My Mind",
+      "url": "https://open.spotify.com/track/1pxdFGV2kO8oBmM8vys3F4"
     },
     {
       "added_at": "2022-07-26 16:46:12",

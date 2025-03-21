@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-828 songs - 1 day 20 hr 28 min
+830 songs - 1 day 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,6 +451,7 @@
 | [Los Angeles](https://open.spotify.com/track/7gDXne51D4DEBHQSHHedYq) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [En\-Route: Los Angeles](https://open.spotify.com/album/6AS93NOEEpTJhayGi6hQZN) | 4:00 | 2019-10-25 | 2021-05-12 |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2023-06-23 |  |
 | [Lose Me Like You Mean It](https://open.spotify.com/track/2UzVHw7DgzRhI9o9fvEN6K) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Second Wind](https://open.spotify.com/album/78ukESSuIkLhGjuQhvw0Nc) | 2:59 | 2025-03-07 |  |
+| [Loser](https://open.spotify.com/track/4k7tf8uhjXGJWxYAElWnRj) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [Loser](https://open.spotify.com/album/2kDtsh8A4CTdgDOc35prCn) | 2:22 | 2025-03-21 |  |
 | [Loser](https://open.spotify.com/track/4wPIwZiEnvE7AWY3bBSz3H) | [Kat Edwards](https://open.spotify.com/artist/08i7j3DXn5p7I5PrdVd5bV) | [Best Bad News](https://open.spotify.com/album/7vUmuDAhBlmK3idI32knqA) | 3:48 | 2022-08-12 |  |
 | [lost](https://open.spotify.com/track/6XTAG7oS2qTKp9AOmbOczL) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [lost](https://open.spotify.com/album/3vMGA5wdFyAZ02c05F1KWy) | 3:37 | 2022-12-16 |  |
 | [Lost The Breakup](https://open.spotify.com/track/13SfKfixPEDQBOYYtaY3Wh) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Lost The Breakup](https://open.spotify.com/album/60trS6aUorLG5ZBi1bWcz8) | 3:09 | 2023-03-30 |  |
@@ -812,6 +813,7 @@
 | [When A Girl](https://open.spotify.com/track/7jpcFYI4AEimC0kkFwMiJX) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [To Anyone Like Me](https://open.spotify.com/album/7G9XvrcExrKTwxMwGLa3W0) | 3:32 | 2020-10-02 | 2021-05-12 |
 | [When It Rains It Pours](https://open.spotify.com/track/6zQD47A7AYIz2iJJbpXDna) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [When It Rains It Pours](https://open.spotify.com/album/2wNdSPuphHn8QepF515wWV) | 4:13 | 2022-07-13 |  |
 | [when the lights go out](https://open.spotify.com/track/3yBDhW2BqKSYgeZWDUIFoF) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [when the lights go out](https://open.spotify.com/album/0H3Pt1vUisleTDw1gdkloN) | 3:42 | 2020-04-23 | 2021-05-12 |
+| [Where Did She Go](https://open.spotify.com/track/6GtgLMKmrmICSUUdOHeTUS) | [Harper Finn](https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u) | [Where Did She Go](https://open.spotify.com/album/2W6wjoF6jzJa4dEJ2sK6zu) | 2:25 | 2025-03-21 |  |
 | [Whirlwind](https://open.spotify.com/track/4FdlrVG63Nsx9I7dBtsh6J) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Whirlwind](https://open.spotify.com/album/419Peyo7a60OWSj0M03YQY) | 3:28 | 2021-02-26 |  |
 | [Who I Am](https://open.spotify.com/track/1ANsuCNluOIsq35MDRk8Hr) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Who I Am](https://open.spotify.com/album/2m5dpEbMwgMyiRVFZDzDTC) | 3:24 | 2019-08-27\* | 2019-11-11 |
 | [Who's Laughing Now](https://open.spotify.com/track/73h4oe03sZy8bXfQLfnqMv) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Who's Laughing Now](https://open.spotify.com/album/4mxU9BZA47n0hZbQ220Q5B) | 3:00 | 2020-07-31 | 2021-05-12 |

@@ -4,7 +4,7 @@
 
 > Listen to the best in AfroTech that was born in Southern Africa, as it travels the world's dancefloors.
 
-200 songs - 20 hr 56 min
+201 songs - 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Fight to Love \- Radio Edit](https://open.spotify.com/track/0V2rtUVbb3Vpz2ZE5pu0Sa) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Maleh](https://open.spotify.com/artist/0SDzHvhNuUANVi0rEuUD9i) | [Fight to Love \(Radio Edit\)](https://open.spotify.com/album/6ttCwZ0VxKrzDFnOhHlTj3) | 4:07 | 2022-08-11 | 2023-03-18 |
 | [Figo](https://open.spotify.com/track/6UjeI3QRwqOwSUQXkTnsdk) | [Eyama](https://open.spotify.com/artist/1eWJoMYZJZHfPhXTxodWbd) | [Figo](https://open.spotify.com/album/2BvgYRixw4oWlFJ75fe2Zh) | 6:21 | 2022-10-31 | 2023-03-18 |
 | [FIND A WAY](https://open.spotify.com/track/2R9fVFtDxzhbZjqJIgSUKy) | [NAAK](https://open.spotify.com/artist/5OeP7iwuGFWymmzPfURRwC), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [FIND A WAY](https://open.spotify.com/album/4yHqrYd0o1vD0T3yuuw0TX) | 4:38 | 2024-06-13 | 2025-01-24 |
-| [Fogo](https://open.spotify.com/track/6pNwEGlgpNQIKs4R5UQ7Oc) | [Arcade Saiyans](https://open.spotify.com/artist/3dQj2JqOjkdj6DC50whkn2), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Fogo](https://open.spotify.com/album/4xXJgKyIOOz5vke0XhzZBj) | 4:49 | 2024-01-25 |  |
+| [Fogo](https://open.spotify.com/track/6pNwEGlgpNQIKs4R5UQ7Oc) | [Arcade Saiyans](https://open.spotify.com/artist/3dQj2JqOjkdj6DC50whkn2), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Fogo](https://open.spotify.com/album/4xXJgKyIOOz5vke0XhzZBj) | 4:49 | 2024-01-25 | 2025-03-21 |
 | [For You](https://open.spotify.com/track/0obPwk1OrhPBYXKLfOqRl6) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ), [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ) | [For You](https://open.spotify.com/album/3w9NkVTOW9G5pkw4l4AYQ3) | 4:02 | 2023-12-08 | 2025-01-24 |
 | [Fungweni](https://open.spotify.com/track/1741vdI6DwKYDfhhDKA6qP) | [Siphe Tebeka](https://open.spotify.com/artist/1tR6AulffAcucwyA60Hggl) | [Fungweni](https://open.spotify.com/album/5GnYsQqNda7mk5ls2yNV3U) | 7:18 | 2023-10-30 | 2025-01-24 |
 | [Gates](https://open.spotify.com/track/12v6ms6wik9FeubMbkjmvW) | [Wes Lee](https://open.spotify.com/artist/5jX2NDv1nyXv0FCEP3gqwR) | [The End Is Near EP](https://open.spotify.com/album/6h5FFPtEfRIrkzG3lujb6J) | 6:35 | 2024-05-31 | 2025-01-24 |
@@ -191,6 +191,7 @@
 | [Vembo](https://open.spotify.com/track/2WMJfI9RIYmLOGuKJbtQDX) | [Drumetic Boyz](https://open.spotify.com/artist/2NQ0f4GcMFHv5rwZIoyQyB) | [Vembo](https://open.spotify.com/album/5cWsc5PL7GGZlkm6aJCg00) | 7:52 | 2022-09-15 | 2022-10-04 |
 | [Voices In My Head](https://open.spotify.com/track/3De0CO9lwV78kGqhPU0RYA) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [Kaytee En Glent](https://open.spotify.com/artist/0GG652aubA3MxmKMEiwKss) | [Voices In My Head](https://open.spotify.com/album/4br2nne4qWcQw0HuzgyuyY) | 8:44 | 2024-03-15 | 2024-04-19 |
 | [Voices In My Head](https://open.spotify.com/track/5v2sgCmUwMQIhhVdD5Hush) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [Kaytee En Glent](https://open.spotify.com/artist/0GG652aubA3MxmKMEiwKss) | [Voices In My Head](https://open.spotify.com/album/29oPX8QLAVCFpY6Ftgy4cu) | 8:44 | 2022-12-02 | 2024-05-11 |
+| [Voices of the Moon](https://open.spotify.com/track/1yHp2jTuoQPoxNX7fYLzys) | [PA NGU](https://open.spotify.com/artist/6sMU60D1GkWWUbBRjt1xFO), [RANCU](https://open.spotify.com/artist/01Wmh7M6ww4GWaqElXgDC6) | [Voices of the Moon](https://open.spotify.com/album/5riFg4PschfFOySzsjOzsI) | 7:13 | 2025-03-20 |  |
 | [Wahyu](https://open.spotify.com/track/7u8m9omhQ2a8gUqVErnKK3) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Wahyu](https://open.spotify.com/album/0ZnAhsScg3mJNvBjsiDR1h) | 7:56 | 2025-01-13 |  |
 | [Walk on the Moon](https://open.spotify.com/track/4bVEmJRL6ATykJS7Qwdjw6) | [MotiveSoul](https://open.spotify.com/artist/7vQ9Hj8uAGMPOaeIr8nUP2) | [Walk on the Moon](https://open.spotify.com/album/56ZfliiKRhqoeWjf0XeuDg) | 7:03 | 2022-08-18 | 2022-11-11 |
 | [Wangila](https://open.spotify.com/track/1EBtwghC5Z4rpXlh6mtWiO) | [Studio Bros](https://open.spotify.com/artist/5TGycVupaB4WmtdWZNC2b3), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ) | [Wangila](https://open.spotify.com/album/0nBCezgCVzrmcqGW8Jjym4) | 7:52 | 2023-04-20 |  |

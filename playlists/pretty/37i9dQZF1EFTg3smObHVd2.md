@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 84 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 | 85 | [Bullseye](https://open.spotify.com/track/57lxmFu1GsHgz6TCQg3iOl) | [Lukas](https://open.spotify.com/artist/3uZKKQew2u0fACpUypBGLO) | [Bullseye](https://open.spotify.com/album/3UScZ0tLexrUir6uAqbo18) | 3:00 |
 
-Snapshot ID: `AbsgKAAAAAAJYZDRt3m3hEejw8lnT63L`
+Snapshot ID: `Absl0gAAAAAoRv4gHFrcC9iFfzD4v2yL`

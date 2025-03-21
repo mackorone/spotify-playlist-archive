@@ -2,9 +2,9 @@
 
 ### [Latest Tamil](https://open.spotify.com/playlist/37i9dQZF1DWVo4cdnikh7Z)
 
-> New Music from Kollywood.<br/>Cover : Veera Dheera Sooran
+> New Music from Kollywood.<br/>Cover : Good Bad Ugly
 
-1,716 songs - 4 day 8 hr 3 min
+1,717 songs - 4 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,6 +459,7 @@
 | [Hi Nanna Glimpse Music \(TAMIL\)](https://open.spotify.com/track/4tVQqB4xnIueaZPrb6SvZh) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Hi Nanna Glimpse Music \(TAMIL\)](https://open.spotify.com/album/6PbP0IXgQcRYckQvAhfrNS) | 1:20 | 2023-07-31 | 2023-08-09 |
 | [His Name is John \(From "Dhruva Natchathiram"\)](https://open.spotify.com/track/4ZMLhESqrX6ng6thaZ4M4a) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx) | [His Name is John \(From "Dhruva Natchathiram"\)](https://open.spotify.com/album/2z2azuxHIVQ0InUluVQFz5) | 3:50 | 2023-07-19 | 2023-12-24 |
 | [Hoonah \(From "Five Six Seven Eight"\)](https://open.spotify.com/track/7s0ChypQpKfuAwV3S0BGF7) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Hoonah \(From "Five Six Seven Eight"\)](https://open.spotify.com/album/5mrfu9nprWNtl621RTfCzK) | 3:26 | 2022-11-18 | 2022-12-27 |
+| [Hope \(From The Netflix Film “TEST”\)](https://open.spotify.com/track/6PxJSYOMIzYYWKHp5FL6K9) | [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Hope \(From The Netflix Film “TEST”\)](https://open.spotify.com/album/6GVVXrK9eGktnhbdjo2EkY) | 4:14 | 2025-03-20 |  |
 | [Hope of Shambala \(From "Kalki 2898 AD"\) \(Tamil\)](https://open.spotify.com/track/7kpgS4PmzPFVL1jyABjiJX) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Meenakshi Santhosh](https://open.spotify.com/artist/694qJeY9ibnSYLnhPp1boa), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Hope of Shambala \(From "Kalki 2898 AD"\) \(Tamil\)](https://open.spotify.com/album/6tboEaoZeT54lHF3GkqrS1) | 1:45 | 2024-07-05 | 2024-07-19 |
 | [Hot'tu Mamma \(From "Max"\) \(Tamil\)](https://open.spotify.com/track/6ePYYH0wZLtRbcUleR9O24) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO), [Vijay Kartikeyaa](https://open.spotify.com/artist/1f9mvJjMvHo8wur1MpSio1) | [Hot'tu Mamma \(From "Max"\) \(Tamil\)](https://open.spotify.com/album/4OduR1NeG0fRsRbt5g4aI1) | 3:03 | 2024-12-24 | 2025-01-21 |
 | [Hukum \- Thalaivar Alappara \(From "Jailer"\)](https://open.spotify.com/track/3pDbPKZHrpHAWcJVMsrNwA) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Super Subu](https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0) | [Hukum \- Thalaivar Alappara \(From "Jailer"\)](https://open.spotify.com/album/09fIr7A4cAEktUmCMg7dJd) | 3:27 | 2023-07-17 | 2023-12-24 |

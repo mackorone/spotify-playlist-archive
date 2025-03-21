@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 
 > The official Eurovision Song Contest 2025 playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,068,401 likes - 36 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,068,792 likes - 36 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 | 24 | [Zjerm](https://open.spotify.com/track/34ozWcKZQ0RvV9td8EHfXO) | [Shkodra Elektronike](https://open.spotify.com/artist/4BGQ263PdhPoD46R8NagOD) | [Zjerm](https://open.spotify.com/album/6yelOhQls6XqW9y4bxVkXK) | 3:04 |
 | 25 | [Bur man laimi](https://open.spotify.com/track/6oGrwxJItvG261mLBk6DmK) | [Tautumeitas](https://open.spotify.com/artist/65Q6uD7cHhu4QYbGxEU9dF) | [Bur man laimi](https://open.spotify.com/album/0uiDNzus7TjUtTl45qL07g) | 2:58 |
 | 26 | [Freedom \- Eurovision 2025 \- Georgia](https://open.spotify.com/track/5mjD2U1w6217p73LC9MEht) | [Mariam Shengelia](https://open.spotify.com/artist/57UpwmCYjUyIaKUWOO2gV3) | [Freedom \(Eurovision 2025 \- Georgia\)](https://open.spotify.com/album/1qDquxaoZDp77B9tr4WT2q) | 2:50 |
-| 27 | [Bird of Pray](https://open.spotify.com/track/0YM3CotMLnoTBVwMCJzYeV) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray](https://open.spotify.com/album/2zFjd5mjFDv6LKG1wpV9rM) | 2:59 |
+| 27 | [Bird of Pray \- Vidbir 2025](https://open.spotify.com/track/0YM3CotMLnoTBVwMCJzYeV) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray \(Vidbir 2025\)](https://open.spotify.com/album/2zFjd5mjFDv6LKG1wpV9rM) | 2:59 |
 | 28 | [Tavo akys](https://open.spotify.com/track/1imPa2lzxmLKggLCpkBAoo) | [Katarsis](https://open.spotify.com/artist/34H2dyYLUMMtI1gynkGGY1) | [Tavo akys](https://open.spotify.com/album/4B2Lu1pzDfDZ7nXeiCZV9F) | 2:52 |
 | 29 | [What The Hell Just Happened?](https://open.spotify.com/track/0z64zsYHTmiTyddbFJ1S6y) | [Remember Monday](https://open.spotify.com/artist/3oIj2x6uKeZSe9Bprnt4TX) | [What The Hell Just Happened?](https://open.spotify.com/album/71KjEbRzpreoPULoJdMcjT) | 2:56 |
 | 30 | [Esa Diva \- Benidorm Fest Edit](https://open.spotify.com/track/5MOZUwlA3LPWFVhHNxWCfh) | [Melody](https://open.spotify.com/artist/3muH0fOWJZ2SaxK3agdOMD) | [Esa Diva \(Benidorm Fest Edit\)](https://open.spotify.com/album/4LLAdoTR6CwQO52KPsKcjQ) | 2:57 |

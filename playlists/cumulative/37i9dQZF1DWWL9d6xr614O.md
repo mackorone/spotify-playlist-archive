@@ -4,7 +4,7 @@
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-197 songs - 15 hr 13 min
+198 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [AIK](https://open.spotify.com/track/00ByIMCGwbb50bOaZNwjQQ) | [JC Ronato](https://open.spotify.com/artist/4cgXg3h3kODZFxAnCW11vq) | [AIK](https://open.spotify.com/album/1w1vPLFbFyaSOh2dyzdzS0) | 4:39 | 2022-04-15 |  |
 | [Ako Ay Iyo](https://open.spotify.com/track/6zWix26MsK7btzIAJtOsMW) | [Yeuseff](https://open.spotify.com/artist/3aQu9d2OvoHU04uehdimRn), [Deovincci Dasig](https://open.spotify.com/artist/19aD9C8Y8OYJO7NsRXictD) | [Ako Ay Iyo](https://open.spotify.com/album/0A7pZA6TRRvxO6tu2cwVPT) | 4:00 | 2022-04-15 |  |
 | [Ako’y Lumalapit](https://open.spotify.com/track/2C9bqXVvshKjjlUznCM2Ex) | [Avenue of Grace Worship](https://open.spotify.com/artist/2NwMDlv8xyqpptsuasQswC), [Jeanne Columbine Rodriguez](https://open.spotify.com/artist/36hIhBw88ScawVgplXcMYk) | [Ako’y Lumalapit](https://open.spotify.com/album/1SNoHk5XjONoBFhFaOBpjp) | 5:17 | 2022-04-15 |  |
+| [Already Loved](https://open.spotify.com/track/16edmxRzSwHqdhqiusuKjL) | [Dean Mark Hilario Enoza](https://open.spotify.com/artist/1K9VuzbpQq3zxws6pjEp6V), [Iossa](https://open.spotify.com/artist/2AczWWagD4DfWLfJVASu5r) | [Already Loved](https://open.spotify.com/album/1ZorpEoMuN2FFNN7ELtEyZ) | 3:34 | 2025-03-19 |  |
 | [Another In The Fire \(Tagalog Version\)](https://open.spotify.com/track/6ZLglbg4GE5MtjXdNBdnVf) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Another In The Fire \(Tagalog Version\)](https://open.spotify.com/album/4LDKPpJKiRvtoc4bcyvEcJ) | 4:15 | 2023-05-05 |  |
 | [Author of My Life \(feat\. Bryson Breakey\)](https://open.spotify.com/track/2ya8bak644jckcQP8B8DIi) | [Every Nation Music](https://open.spotify.com/artist/0VPn67RlAzuYumaHw2hCw0), [Bryson Breakey](https://open.spotify.com/artist/6I1n0zyNfozXdak3F2NSSJ) | [Doxology](https://open.spotify.com/album/5hyGk6hEP0b8MfG6H51YnO) | 5:10 | 2024-03-19 |  |
 | [Bagong Buhay](https://open.spotify.com/track/33lNaAAd1vfQVi7tJaaACE) | [Hazel Faith](https://open.spotify.com/artist/1IJ4wDIUWLb0XLmPN79SDj) | [Bagong Buhay](https://open.spotify.com/album/6trSs3g5tU29FEr8yamEI5) | 3:40 | 2022-04-15 |  |

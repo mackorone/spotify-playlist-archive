@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,738 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,764 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 74 | [Atlas](https://open.spotify.com/track/2fRj10zHMEuzwNCGOirFmb) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl), [Lucy Railton](https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9), [James Underwood](https://open.spotify.com/artist/3kHy2R4hn87xhtqJjOlYRJ) | [Atlas](https://open.spotify.com/album/3VaVfO7eUl24zzrtuayksx) | 6:53 |
 | 75 | [Analemma](https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Under the Sun](https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R) | 7:57 |
 | 76 | [Heterodina](https://open.spotify.com/track/3rVv4M9yEtIebntD1vYi0J) | [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Piedras 2](https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL) | 2:19 |
-| 77 | [Winter Cop](https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [No Highs](https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P) | 2:35 |
-| 78 | [Night Journeys I](https://open.spotify.com/track/3FCmel7RBlvT01EJGA4QEq) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN) | [Night Journeys](https://open.spotify.com/album/3re0yXQcWx7n6FOZbmSgcY) | 3:06 |
+| 77 | [Night Journeys I](https://open.spotify.com/track/3FCmel7RBlvT01EJGA4QEq) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN) | [Night Journeys](https://open.spotify.com/album/3re0yXQcWx7n6FOZbmSgcY) | 3:06 |
+| 78 | [Winter Cop](https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [No Highs](https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P) | 2:35 |
 | 79 | [Windmills \- Salamanda Remix](https://open.spotify.com/track/2OED5zZJw9gNHeZWwm5wLg) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Windmills \(Salamanda Remix\)](https://open.spotify.com/album/40cal5z6ThtaqoTlOGic4t) | 3:29 |
 | 80 | [Chaparral](https://open.spotify.com/track/4rISOkgmszpJNOAlUyTU02) | [Total Blue](https://open.spotify.com/artist/16PbhgSXhAg8s0hvaAx90y) | [Total Blue](https://open.spotify.com/album/5vHwzf4eINX33tvjyugsAG) | 6:07 |
 | 81 | [Unknown Tokyo](https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Unknown Tokyo](https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh) | 4:05 |
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 87 | [Penelope Trappes meets Silent Rumble](https://open.spotify.com/track/79YtxABJiZyLTsv7ac9JPh) | [Malcolm Pardon](https://open.spotify.com/artist/3LCJTqV9F11tXAQptDv1bV), [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Trappes Death Revisited](https://open.spotify.com/album/3TBjkgkSa19gNdMBS7TTWy) | 5:15 |
 | 88 | [Pause \- Reimagined by Hinako Omori](https://open.spotify.com/track/4bwhDILzlftJSXsAf8TbrI) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd), [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [Pause \(Reimagined by Hinako Omori\)](https://open.spotify.com/album/2qiYBmRxBzmzDLiuBpI9dU) | 3:20 |
 | 89 | [Melting Hazard](https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Melting Hazard](https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9) | 5:06 |
-| 90 | [Vessel](https://open.spotify.com/track/315MpPgQhp6FEXDcLhJXSZ) | [Eric Hilton](https://open.spotify.com/artist/4tgBpjW0GVvKqP7uY2OHYB) | [Out of the Blur](https://open.spotify.com/album/4oquIG02DIGmU9JbBm9sDL) | 6:31 |
-| 91 | [Sine Waves](https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1), [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Mono No Aware](https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx) | 4:38 |
-| 92 | [how it ends](https://open.spotify.com/track/3fLMkkGO8FFWmM2WXEnLG7) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [how it ends](https://open.spotify.com/album/2sLC29d1THfPYlGzY3KsRl) | 1:58 |
+| 90 | [Sine Waves](https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1), [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Mono No Aware](https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx) | 4:38 |
+| 91 | [how it ends](https://open.spotify.com/track/3fLMkkGO8FFWmM2WXEnLG7) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [how it ends](https://open.spotify.com/album/2sLC29d1THfPYlGzY3KsRl) | 1:58 |
+| 92 | [Vessel](https://open.spotify.com/track/315MpPgQhp6FEXDcLhJXSZ) | [Eric Hilton](https://open.spotify.com/artist/4tgBpjW0GVvKqP7uY2OHYB) | [Out of the Blur](https://open.spotify.com/album/4oquIG02DIGmU9JbBm9sDL) | 6:31 |
 | 93 | [Ocean Flow](https://open.spotify.com/track/1v6TpJ9g0QjdLkMqromKCl) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Migratory](https://open.spotify.com/album/1UuZfvsJR79dbUPmblhZbv) | 3:36 |
 | 94 | [Amygdala](https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Amygdala](https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ) | 5:19 |
 | 95 | [Watersynth](https://open.spotify.com/track/05e2T423zwHe7557aNewF4) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Mango Feedback](https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr) | 4:20 |

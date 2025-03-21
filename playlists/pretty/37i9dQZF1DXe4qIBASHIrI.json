@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 165481,
+  "num_followers": 165555,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -727,38 +727,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Border Revolver",
-        "url": "https://open.spotify.com/album/0kL29ZyygPwNIkTxf7gpiN"
-      },
-      "artists": [
-        {
-          "name": "Nortec Collective",
-          "url": "https://open.spotify.com/artist/7uoHvGlnMzDKOlPrmGCTNK"
-        }
-      ],
-      "duration_ms": 170438,
-      "name": "Sastre Del Diablo",
-      "url": "https://open.spotify.com/track/7cfIzSgAEYUW4geo3jXduo"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Mientras T\u00fa Dorm\u00edas",
-        "url": "https://open.spotify.com/album/6O6vqLgrTwWZqTCCoJVjWm"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 257091,
-      "name": "Compartir",
-      "url": "https://open.spotify.com/track/50Jd7tX7dMu79Oknn7sXSW"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Kiosko",
         "url": "https://open.spotify.com/album/3pTfNraLlf2tDpMQsrJgxY"
       },
@@ -775,6 +743,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Border Revolver",
+        "url": "https://open.spotify.com/album/0kL29ZyygPwNIkTxf7gpiN"
+      },
+      "artists": [
+        {
+          "name": "Nortec Collective",
+          "url": "https://open.spotify.com/artist/7uoHvGlnMzDKOlPrmGCTNK"
+        }
+      ],
+      "duration_ms": 170438,
+      "name": "Sastre Del Diablo",
+      "url": "https://open.spotify.com/track/7cfIzSgAEYUW4geo3jXduo"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Bulevar 2000 (Nortec Collective Presents: Bostich+Fussible)",
         "url": "https://open.spotify.com/album/1CAHCaHt10RshLU6sgDeAH"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 229466,
       "name": "I Count the Ways",
       "url": "https://open.spotify.com/track/37AXEkCvxD0rAUSkmjbem8"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Mientras T\u00fa Dorm\u00edas",
+        "url": "https://open.spotify.com/album/6O6vqLgrTwWZqTCCoJVjWm"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 257091,
+      "name": "Compartir",
+      "url": "https://open.spotify.com/track/50Jd7tX7dMu79Oknn7sXSW"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Los Super Elegantes Ep",
-        "url": "https://open.spotify.com/album/0KV2EOtafNLgeBw7xDi0di"
-      },
-      "artists": [
-        {
-          "name": "Los Super Elegantes",
-          "url": "https://open.spotify.com/artist/6Aim4Lm9mDZd0W3F8XkF36"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/6aV7F6tMDe5f2ZZTGrtVXO"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "El Tiempo y la Ciudad",
         "url": "https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 247800,
       "name": "T\u00fa Est\u00e1s M\u00e1s",
       "url": "https://open.spotify.com/track/3F9DzDNfF2qRBZ7rMmfNtE"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Los Super Elegantes Ep",
+        "url": "https://open.spotify.com/album/0KV2EOtafNLgeBw7xDi0di"
+      },
+      "artists": [
+        {
+          "name": "Los Super Elegantes",
+          "url": "https://open.spotify.com/artist/6Aim4Lm9mDZd0W3F8XkF36"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/6aV7F6tMDe5f2ZZTGrtVXO"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Marginado",
-        "url": "https://open.spotify.com/album/4giyZ5g7d0mLParNcnd5GF"
-      },
-      "artists": [
-        {
-          "name": "KOK\u00d4 CEC\u00ca",
-          "url": "https://open.spotify.com/artist/4MAPWlyF0tOgw8djPFLU9V"
-        }
-      ],
-      "duration_ms": 204660,
-      "name": "Marginado",
-      "url": "https://open.spotify.com/track/0DRqAaqeBsDh8m7RyVsckz"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Lluvia",
         "url": "https://open.spotify.com/album/07g3BVeM6QhWXfdLvRLlvy"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 254889,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/2I9OiNVmN2VyRXyd6b3iXI"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Marginado",
+        "url": "https://open.spotify.com/album/4giyZ5g7d0mLParNcnd5GF"
+      },
+      "artists": [
+        {
+          "name": "KOK\u00d4 CEC\u00ca",
+          "url": "https://open.spotify.com/artist/4MAPWlyF0tOgw8djPFLU9V"
+        }
+      ],
+      "duration_ms": 204660,
+      "name": "Marginado",
+      "url": "https://open.spotify.com/track/0DRqAaqeBsDh8m7RyVsckz"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "All U Need Is Mosh",
-        "url": "https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA"
-      },
-      "artists": [
-        {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
-        }
-      ],
-      "duration_ms": 369866,
-      "name": "Paso Fino",
-      "url": "https://open.spotify.com/track/7wt8zQKmeiRadOqWci0q7p"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "D'arcy",
         "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 249630,
       "name": "Amorfos",
       "url": "https://open.spotify.com/track/2DmZbYnCLusQ1m20awqYnm"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "All U Need Is Mosh",
+        "url": "https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA"
+      },
+      "artists": [
+        {
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+        }
+      ],
+      "duration_ms": 369866,
+      "name": "Paso Fino",
+      "url": "https://open.spotify.com/track/7wt8zQKmeiRadOqWci0q7p"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "The Future Sugar",
-        "url": "https://open.spotify.com/album/3JFTJTZLNG2B0ZJpxcUBOt"
-      },
-      "artists": [
-        {
-          "name": "Rey Pila",
-          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Alexander",
-      "url": "https://open.spotify.com/track/5udE6XUnhzUvoC80bsYEMR"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Hoy A Las Ocho",
         "url": "https://open.spotify.com/album/6cc1X2dYcd8yTutYZsPAv1"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 249840,
       "name": "Won't Say Anything",
       "url": "https://open.spotify.com/track/36VnkzPXKbrqCgbF0avbpp"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "The Future Sugar",
+        "url": "https://open.spotify.com/album/3JFTJTZLNG2B0ZJpxcUBOt"
+      },
+      "artists": [
+        {
+          "name": "Rey Pila",
+          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Alexander",
+      "url": "https://open.spotify.com/track/5udE6XUnhzUvoC80bsYEMR"
     },
     {
       "added_at": "2023-09-01 16:42:45",

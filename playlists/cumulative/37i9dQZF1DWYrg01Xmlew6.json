@@ -539,6 +539,32 @@
     },
     {
       "album": {
+        "name": "Anno Fantastico (feat. Shiva, Tony Boy)",
+        "url": "https://open.spotify.com/album/6rIpx3OnZ7Jt0HW22Abx0Y"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Anno Fantastico (feat. Shiva, Tony Boy)",
+      "url": "https://open.spotify.com/track/4PBn4zkgReSPmM41RYijJM"
+    },
+    {
+      "album": {
         "name": "Antiproiettile",
         "url": "https://open.spotify.com/album/27aINAwVGkZ6bdJfDgmJeo"
       },
@@ -1810,7 +1836,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 160000,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/00d63B7xZQjV2qKjNbpthA"
@@ -2194,7 +2220,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 174731,
       "name": "Ebay",
       "url": "https://open.spotify.com/track/1dLt2QHlINcGLDeJYiqkjH"
@@ -4132,6 +4158,24 @@
       "duration_ms": 196000,
       "name": "Mai pi\u00f9 forse",
       "url": "https://open.spotify.com/track/5bwnNavkYfGzIJdgTrVGwf"
+    },
+    {
+      "album": {
+        "name": "Mai Sul",
+        "url": "https://open.spotify.com/album/7gBXywoEXo3YSLzOqLjlRN"
+      },
+      "artists": [
+        {
+          "name": "Fuossera",
+          "url": "https://open.spotify.com/artist/53NBqBq06Yt70uHzbIIkRb"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161875,
+      "name": "Mai Sul",
+      "url": "https://open.spotify.com/track/5ZOjDsqMvTBYlGaqCtmjKq"
     },
     {
       "album": {

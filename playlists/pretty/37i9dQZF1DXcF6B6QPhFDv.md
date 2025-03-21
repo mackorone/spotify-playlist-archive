@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > rock never dies\. Cover: Sleep Token
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,549,095 likes - 77 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,548,809 likes - 77 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

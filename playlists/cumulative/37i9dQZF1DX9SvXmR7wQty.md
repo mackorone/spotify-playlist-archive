@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Jonathan Personne
 
-3,170 songs - 7 day 0 hr 16 min
+3,171 songs - 7 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,7 +361,7 @@
 | [Brrr \(feat\. Alonzo & ElGrandeToto\)](https://open.spotify.com/track/5AsFXMwPS6zMIGY8MSFn5L) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Brrr \(feat\. Alonzo & ElGrandeToto\)](https://open.spotify.com/album/1NjDEG7GvcTtiNH2EIBG3s) | 2:10 | 2025-01-10 |  |
 | [Bruits blancs](https://open.spotify.com/track/6WmOMC9ejoUfB8EG12O9Jq) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Bruits blancs](https://open.spotify.com/album/4RmrJpCLQu8GmVldWnGT3j) | 3:06 | 2022-09-23 | 2022-10-08 |
 | [Brûler des condos](https://open.spotify.com/track/3o4iZUEJHGlx9JKE8qePm1) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [Brûler des condos](https://open.spotify.com/album/0yBwEzSPkDb65RQplrMOwk) | 2:03 | 2022-02-04 | 2022-02-19 |
-| [Buggy](https://open.spotify.com/track/1tdw03JuoGckGhRhHXP3PY) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Buggy](https://open.spotify.com/album/4RucnCxQeWCuiuhOwFw7w9) | 3:04 | 2025-02-14 |  |
+| [Buggy](https://open.spotify.com/track/1tdw03JuoGckGhRhHXP3PY) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Buggy](https://open.spotify.com/album/4RucnCxQeWCuiuhOwFw7w9) | 3:04 | 2025-02-14 | 2025-03-21 |
 | [Bulletproof](https://open.spotify.com/track/7bHdCsoQTOn7Hd5r5wKTKm) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Brasco](https://open.spotify.com/artist/3tKR0XXN0pW0Kl7UDAVSHL), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Bulletproof](https://open.spotify.com/album/0aDr8UBbaSXDFziZvCrRpo) | 5:04 | 2022-12-16 | 2023-01-21 |
 | [Bulletproof](https://open.spotify.com/track/7zjnbWmrYenEq0RH00JDeU) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Bulletproof](https://open.spotify.com/album/6At8VogWxotaF0CEc9hHX4) | 3:19 | 2023-01-27 | 2023-02-11 |
 | [Burbur](https://open.spotify.com/track/5enoxGPrGxhYR0hQPbYb6U) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Mourir en Essayant](https://open.spotify.com/album/14SrZvsojiHw4cod9OPXOu) | 3:40 | 2022-02-18 | 2022-03-05 |
@@ -2551,6 +2551,7 @@
 | [sans rancune](https://open.spotify.com/track/2ZyuDiGMoj9SPK8iGqPVmV) | [TESSÆ](https://open.spotify.com/artist/4Rc4ZjE8dK1b794tfc3BIt) | [sans rancune](https://open.spotify.com/album/3dS4u53iRCBvJGgA6zNLCH) | 3:24 | 2022-02-18 | 2022-02-26 |
 | [Sans Refrain](https://open.spotify.com/track/5rIpPCXmeOKkj3NMyB8qC8) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n) | [Sans Refrain](https://open.spotify.com/album/5W5KMVm3njKaiNVippmgfi) | 2:41 | 2021-12-31 | 2022-01-08 |
 | [Sans soleil](https://open.spotify.com/track/0OF84e7RhmShtWnaqlsn18) | [Miels](https://open.spotify.com/artist/1T7DAgRWmzieWxeyEhBD8g) | [Sans soleil](https://open.spotify.com/album/4s7WEYMQ2XgdahBLlNs6Re) | 2:55 | 2024-03-15 | 2024-03-23 |
+| [Sans surprise](https://open.spotify.com/track/1t03IiwKs5YVAkwNStY9Jc) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO) | [Sans surprise](https://open.spotify.com/album/3yWUYiNyDnOuEQp0rvNvNE) | 2:49 | 2025-03-14 |  |
 | [Sans toi](https://open.spotify.com/track/27dE3zWfKbtxLG62bZRVS1) | [Jake and Fanny](https://open.spotify.com/artist/4hbqKOMb7ZdxxMRFv8T6P6) | [Deux](https://open.spotify.com/album/4gYgICLi5ID4syIqIgz6rM) | 2:49 | 2021-12-31 | 2022-01-08 |
 | [Sans toi](https://open.spotify.com/track/1mk9y8glt1zXx5qoHzxYvx) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf) | [Sans toi](https://open.spotify.com/album/7kesRjVwWHo3ih2CkqT9Kf) | 3:01 | 2024-04-05 | 2024-05-18 |
 | [Sans toi](https://open.spotify.com/track/5QVvxHXCAkx2WVwVH9rGB5) | [Passion Poire](https://open.spotify.com/artist/6O7S83SFDd2xDlCKQmad3l) | [Sans toi](https://open.spotify.com/album/3cPEx5vZJKVzRjVJ9qd1Bv) | 2:46 | 2024-07-05 | 2024-07-13 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf:  Strat",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf:  Hawk",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -140,6 +140,24 @@
       "duration_ms": 180743,
       "name": "3:33",
       "url": "https://open.spotify.com/track/6ZogZyvoQJDfrIa6Hzojyq"
+    },
+    {
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/3cUWNvcTcLaid9lzikstMh"
+      },
+      "artists": [
+        {
+          "name": "Thug Slime",
+          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166530,
+      "name": "4",
+      "url": "https://open.spotify.com/track/1kcGMMknoRd2qg8OZLAeuN"
     },
     {
       "album": {
@@ -900,7 +918,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 166138,
       "name": "Big Moves - Vol. 5",
       "url": "https://open.spotify.com/track/01CrjNySWaln8aBVJA1MAg"
@@ -1176,7 +1194,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 174793,
       "name": "BURJ KHALIFA",
       "url": "https://open.spotify.com/track/2uJbZCgR4slJJvfJgaW10A"
@@ -1991,6 +2009,32 @@
     },
     {
       "album": {
+        "name": "EMMONI IDEA",
+        "url": "https://open.spotify.com/album/5YFnE8E82pTVA3nuU8x5Zb"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "Sicario",
+          "url": "https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "EMMONI IDEA",
+      "url": "https://open.spotify.com/track/0kcQD5QcAG7jzY1gkHbEDY"
+    },
+    {
+      "album": {
         "name": "ENA",
         "url": "https://open.spotify.com/album/09Bz7amHfWz05B52JtH42X"
       },
@@ -2717,6 +2761,28 @@
     },
     {
       "album": {
+        "name": "Repetition",
+        "url": "https://open.spotify.com/album/2hwW3zp6Hgxpjs5AiUVxuF"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "DAIMA",
+          "url": "https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Gia Olous Tous Alites",
+      "url": "https://open.spotify.com/track/44Hu4ZB2HCzp2R2pjmLOAY"
+    },
+    {
+      "album": {
         "name": "GIA SENA",
         "url": "https://open.spotify.com/album/7KXUrhBDgWGARi4ehXKTFM"
       },
@@ -2794,7 +2860,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 155076,
       "name": "GIMMIE",
       "url": "https://open.spotify.com/track/3C4vDKPYaUpG0ZH8y4axeV"
@@ -3571,6 +3637,24 @@
     },
     {
       "album": {
+        "name": "KENTRO",
+        "url": "https://open.spotify.com/album/2gMwgBh1Sw73mOataTZWfC"
+      },
+      "artists": [
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128955,
+      "name": "KENTRO",
+      "url": "https://open.spotify.com/track/1kZ2FL3WV1mAulSSrtpStg"
+    },
+    {
+      "album": {
         "name": "KIDNAP",
         "url": "https://open.spotify.com/album/5ouVOEmPoNf3lXl9S5TWP6"
       },
@@ -3874,7 +3958,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 177977,
       "name": "Lebron",
       "url": "https://open.spotify.com/track/5LveNwV4aDPCWAclJpaLBg"
@@ -4720,7 +4804,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 167076,
       "name": "No Mercy",
       "url": "https://open.spotify.com/track/51Tml3ct9q8cSQsegHWpdt"
@@ -4790,7 +4874,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 207225,
       "name": "Nyxterides",
       "url": "https://open.spotify.com/track/7rgTr97Ob29FuuKCHqB7a4"
@@ -5289,6 +5373,28 @@
     },
     {
       "album": {
+        "name": "PHANTOM",
+        "url": "https://open.spotify.com/album/5eUqkk3UilnjCrYIRu7uvH"
+      },
+      "artists": [
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        },
+        {
+          "name": "Baghdad",
+          "url": "https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109157,
+      "name": "PHANTOM",
+      "url": "https://open.spotify.com/track/0bDl2O1qRF08SM62wHSaiq"
+    },
+    {
+      "album": {
         "name": "Phantom",
         "url": "https://open.spotify.com/album/5kgt1ltex1gi2HOBBe4UiI"
       },
@@ -5374,7 +5480,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 114624,
       "name": "PIRATES",
       "url": "https://open.spotify.com/track/65vWYKMJK4sb6HayK7OdJH"
@@ -5538,7 +5644,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 175522,
       "name": "POU ISOUNA ESY",
       "url": "https://open.spotify.com/track/0a5fJ2zezbwEpB24cNQUzX"
@@ -5626,7 +5732,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 225230,
       "name": "PROVLIMA",
       "url": "https://open.spotify.com/track/539dzbXamyNpK1LA9LMWdW"
@@ -6125,6 +6231,32 @@
     },
     {
       "album": {
+        "name": "Scripta Manent",
+        "url": "https://open.spotify.com/album/6nzg0S8AJ4c0C7lZLlGKMA"
+      },
+      "artists": [
+        {
+          "name": "Immune",
+          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
+        },
+        {
+          "name": "Mani",
+          "url": "https://open.spotify.com/artist/2t6NEGChLyMUnGnW1LupcS"
+        },
+        {
+          "name": "NtaFos",
+          "url": "https://open.spotify.com/artist/6WKKllRMYXldkKQ5f0gjRf"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144500,
+      "name": "Sekiro.",
+      "url": "https://open.spotify.com/track/7D6lH9Q6ALQbYaeMQ1GZi8"
+    },
+    {
+      "album": {
         "name": "SEKUSHI",
         "url": "https://open.spotify.com/album/1hJQ1UH3y1ZGHsRZHH8G1J"
       },
@@ -6279,6 +6411,28 @@
     },
     {
       "album": {
+        "name": "SKG DRILL",
+        "url": "https://open.spotify.com/album/5UC3x1p0tyC6fPNFEhL4Vk"
+      },
+      "artists": [
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        },
+        {
+          "name": "Savv",
+          "url": "https://open.spotify.com/artist/0OFppp8Z3TaehuqGoC6BD1"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201931,
+      "name": "SKG DRILL",
+      "url": "https://open.spotify.com/track/3YKFn6I4dDHORAFWCNgvFU"
+    },
+    {
+      "album": {
         "name": "Skrofa",
         "url": "https://open.spotify.com/album/5mLxKIz9199YkZvyzC7plC"
       },
@@ -6328,6 +6482,32 @@
       "duration_ms": 160210,
       "name": "SOUKOU",
       "url": "https://open.spotify.com/track/4PsVvvUDG0Fg5iG6P41JDF"
+    },
+    {
+      "album": {
+        "name": "SOUVLI",
+        "url": "https://open.spotify.com/album/0l3cHQ2b3hpB2KjzXdOvLW"
+      },
+      "artists": [
+        {
+          "name": "Venom",
+          "url": "https://open.spotify.com/artist/6CdAVuqNOSOZ9KsZXMZwFr"
+        },
+        {
+          "name": "Yung Nas",
+          "url": "https://open.spotify.com/artist/1R3qUhgG85LeUtfYdXcBu4"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196180,
+      "name": "SOUVLI",
+      "url": "https://open.spotify.com/track/5wXdstPyYKSu3bjtOy0Sbz"
     },
     {
       "album": {
@@ -7401,6 +7581,24 @@
     },
     {
       "album": {
+        "name": "Repetition",
+        "url": "https://open.spotify.com/album/2hwW3zp6Hgxpjs5AiUVxuF"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "Ximeromata",
+      "url": "https://open.spotify.com/track/3KRxG52VYF3wPC7PVCrIxH"
+    },
+    {
+      "album": {
         "name": "XRISOS - SORRY GIAUTO",
         "url": "https://open.spotify.com/album/0foZqVON24z4DuAplzYG6w"
       },
@@ -7416,6 +7614,24 @@
       "duration_ms": 96243,
       "name": "XRISOS",
       "url": "https://open.spotify.com/track/4bnx03kz0ZUQ8wKIHj1M3f"
+    },
+    {
+      "album": {
+        "name": "YAKUZA",
+        "url": "https://open.spotify.com/album/0qgWRcuRNYzfs9uC3ea0wZ"
+      },
+      "artists": [
+        {
+          "name": "iLLEOo",
+          "url": "https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140634,
+      "name": "YAKUZA",
+      "url": "https://open.spotify.com/track/4EcIArOj8NzRsOTJLMYEJh"
     },
     {
       "album": {
@@ -7474,7 +7690,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 141757,
       "name": "ZABON APPETIT",
       "url": "https://open.spotify.com/track/67y6DZtc7YBVf5rfnrRbEA"

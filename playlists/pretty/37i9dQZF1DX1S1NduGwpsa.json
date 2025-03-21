@@ -1,271 +1,35 @@
 {
-  "description": "The best jazz new releases. Cover: Thomas Leleu\n",
-  "num_followers": 150585,
+  "description": "The best jazz new releases. Cover: Gabi Hartmann",
+  "num_followers": 150593,
   "original_name": "Jazz Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9NjfgAAAABdRgnxqpzrTIg1ixmtylcH",
+  "snapshot_id": "Z9yd+AAAAABD3Mhhg8sJVXgm6uTLqj+J",
   "tracks": [
     {
-      "added_at": "2025-03-13 23:00:14",
+      "added_at": "2025-03-20 23:00:08",
       "album": {
-        "name": "On Tour",
-        "url": "https://open.spotify.com/album/1AnldJAf4toWcf1KOMUqMd"
-      },
-      "artists": [
-        {
-          "name": "Thomas Leleu",
-          "url": "https://open.spotify.com/artist/1fgptfnDkurkPTIUPBTo6h"
-        }
-      ],
-      "duration_ms": 239480,
-      "name": "Bunky flues",
-      "url": "https://open.spotify.com/track/7rTOyzyBu2BnpFc3MkrSEl"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "The Seize",
-        "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 214401,
-      "name": "The Seize",
-      "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/5UtxXYIkCwJhnm4ccP77ie"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Bex",
-          "url": "https://open.spotify.com/artist/1NVyfQbY0oM9xBVCaIYkwh"
-        },
-        {
-          "name": "David Taieb",
-          "url": "https://open.spotify.com/artist/4XGYpvtl5JZouPyqGqbvmO"
-        }
-      ],
-      "duration_ms": 337813,
-      "name": "Romance",
-      "url": "https://open.spotify.com/track/4vUrXy8MnrNxyHAAoXoWa4"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "The Burning Roads",
-        "url": "https://open.spotify.com/album/568t9My0detUg5mp4Pz3WV"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Petit",
-          "url": "https://open.spotify.com/artist/7thiPAfYOfJoDeroIQxaKQ"
-        },
-        {
-          "name": "Sylvain Gontard",
-          "url": "https://open.spotify.com/artist/70mElInIklqBRDipzilh2P"
-        }
-      ],
-      "duration_ms": 361200,
-      "name": "The Burning Roads",
-      "url": "https://open.spotify.com/track/6szoAATXVtAS7CWjupf6MO"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "Dinorah Dinorah",
-        "url": "https://open.spotify.com/album/096ytg0kaGva5C6WYReb7W"
-      },
-      "artists": [
-        {
-          "name": "Butcher Brown",
-          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
-        }
-      ],
-      "duration_ms": 277459,
-      "name": "Dinorah Dinorah",
-      "url": "https://open.spotify.com/track/0dfoaHpuXceorV83nheGIr"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "Jeux de chats au jardin",
-        "url": "https://open.spotify.com/album/1dJGDHwcSarb6FAzI4gPSm"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas",
-          "url": "https://open.spotify.com/artist/484hsKf4h2mWJ3mZy93g8l"
-        }
-      ],
-      "duration_ms": 164451,
-      "name": "Jeux de chats au jardin",
-      "url": "https://open.spotify.com/track/0nQR6gak5pdH9mhOx7lxKR"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "Into My World",
-        "url": "https://open.spotify.com/album/3eFLLjBXJXznUA9sGgGrHU"
+        "name": "La femme aux yeux de sel",
+        "url": "https://open.spotify.com/album/5PiHQMN9NyN8vIVVMhNj5s"
       },
       "artists": [
         {
           "name": "Gabi Hartmann",
           "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
-        }
-      ],
-      "duration_ms": 172706,
-      "name": "Into My World",
-      "url": "https://open.spotify.com/track/1T4kPPiDGVGZGc5HUIR68D"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "Nougayork Remixes (feat. Marquis Hill)",
-        "url": "https://open.spotify.com/album/20qMY89dHkttjTqPzpvzo2"
-      },
-      "artists": [
-        {
-          "name": "Claude Nougaro",
-          "url": "https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR"
         },
-        {
-          "name": "Philippe Saisse",
-          "url": "https://open.spotify.com/artist/76eaAxXOF5UhLXASB8UiQJ"
-        },
-        {
-          "name": "Marquis Hill",
-          "url": "https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez"
-        }
-      ],
-      "duration_ms": 264330,
-      "name": "Nougayork Remix (International Version) - feat. Marquis Hill",
-      "url": "https://open.spotify.com/track/2UyuSPI9Ciadj89C2f3CZl"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "Chi \u00c8 Nicola Felpieri?",
-        "url": "https://open.spotify.com/album/6MyXSqkTazI56OSkxJNR4X"
-      },
-      "artists": [
-        {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
-        }
-      ],
-      "duration_ms": 222053,
-      "name": "Segreto",
-      "url": "https://open.spotify.com/track/7gDSpUqCLBMigIY5kEVcQI"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "EDEN BEACH CLUB (Edition Deluxe)",
-        "url": "https://open.spotify.com/album/60krs1IYZybRvmCsBMuOyh"
-      },
-      "artists": [
         {
           "name": "Laurent Bardainne",
           "url": "https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw"
-        },
-        {
-          "name": "Tigre d'Eau Douce",
-          "url": "https://open.spotify.com/artist/2J0cbdwUlJkBYkQYIDDU5k"
         }
       ],
-      "duration_ms": 303091,
-      "name": "Blue Velvet",
-      "url": "https://open.spotify.com/track/0GM5TLIDisw4byhnkPGDF8"
+      "duration_ms": 261026,
+      "name": "Love High (feat. Laurent Bardainne)",
+      "url": "https://open.spotify.com/track/0ZDKm5QVqcMFmp1Wv4oYrq"
     },
     {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "TAKE 01",
-        "url": "https://open.spotify.com/album/0wsjLI8ESlTLN9k53M5YmA"
-      },
-      "artists": [
-        {
-          "name": "Ferdi",
-          "url": "https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd"
-        },
-        {
-          "name": "Sofiane Pamart",
-          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
-        }
-      ],
-      "duration_ms": 162093,
-      "name": "MONTREUX PALACE",
-      "url": "https://open.spotify.com/track/1eeW0hCupU2nC63gPbWJpJ"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "PHENOMENAL WOMEN",
-        "url": "https://open.spotify.com/album/5T34tAYCrM7DJ05Hq1uiNn"
-      },
-      "artists": [
-        {
-          "name": "Macha Gharibian",
-          "url": "https://open.spotify.com/artist/5Nym2tNZobmhltzmTae1ow"
-        }
-      ],
-      "duration_ms": 268573,
-      "name": "You Love Her",
-      "url": "https://open.spotify.com/track/1MDzT2eiAbxLPoXZkJjLYy"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "Music for Roads",
-        "url": "https://open.spotify.com/album/3LkNzhTvYjDCiDe1ikhAn6"
-      },
-      "artists": [
-        {
-          "name": "Tuomo & Markus",
-          "url": "https://open.spotify.com/artist/5Ab1JRVcEcWR0VqwID9IO5"
-        },
-        {
-          "name": "Verneri Pohjola",
-          "url": "https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX"
-        },
-        {
-          "name": "Sylvain Rifflet",
-          "url": "https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni"
-        }
-      ],
-      "duration_ms": 341459,
-      "name": "Appalachian Landscape",
-      "url": "https://open.spotify.com/track/64XhMVvHIOMM6QQljekrv8"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "Ev\u2019ry Time We Say Goodbye",
-        "url": "https://open.spotify.com/album/3Z5sSL7iI1G0GvbxY3GWIp"
-      },
-      "artists": [
-        {
-          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
-          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
-        }
-      ],
-      "duration_ms": 283213,
-      "name": "Ev'ry Time We Say Goodbye",
-      "url": "https://open.spotify.com/track/3dmUgRVy8xPsNJ9TO1Y5iX"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
+      "added_at": "2025-03-20 23:00:08",
       "album": {
         "name": "Philodendron",
         "url": "https://open.spotify.com/album/2kiAk3G0whz02YuAGVnrPz"
@@ -289,7 +53,403 @@
       "url": "https://open.spotify.com/track/1lUNJmZi4S01kQsyAcXITZ"
     },
     {
-      "added_at": "2025-03-13 23:00:14",
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "Jeux de chats au jardin",
+        "url": "https://open.spotify.com/album/1dJGDHwcSarb6FAzI4gPSm"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas",
+          "url": "https://open.spotify.com/artist/484hsKf4h2mWJ3mZy93g8l"
+        }
+      ],
+      "duration_ms": 164451,
+      "name": "Jeux de chats au jardin",
+      "url": "https://open.spotify.com/track/0nQR6gak5pdH9mhOx7lxKR"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "Communion",
+        "url": "https://open.spotify.com/album/2ljsWrtbL0hv7DNsww4Ox7"
+      },
+      "artists": [
+        {
+          "name": "Georgia C\u00e9cile",
+          "url": "https://open.spotify.com/artist/0KjGICUAvAWs6qev5iovJa"
+        }
+      ],
+      "duration_ms": 244789,
+      "name": "Communion",
+      "url": "https://open.spotify.com/track/1glJiExOlcbDjdNIzElYqQ"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "Ev\u2019ry Time We Say Goodbye",
+        "url": "https://open.spotify.com/album/3Z5sSL7iI1G0GvbxY3GWIp"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        }
+      ],
+      "duration_ms": 283213,
+      "name": "Ev'ry Time We Say Goodbye",
+      "url": "https://open.spotify.com/track/3dmUgRVy8xPsNJ9TO1Y5iX"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "Angel Dust",
+        "url": "https://open.spotify.com/album/5gf0ESeC85bxRWhInpWUR7"
+      },
+      "artists": [
+        {
+          "name": "Ludivine Issambourg",
+          "url": "https://open.spotify.com/artist/7nuphNSch4dZshJyLgNixV"
+        },
+        {
+          "name": "Brian Jackson",
+          "url": "https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU"
+        },
+        {
+          "name": "Wolfgang Valbrun",
+          "url": "https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5"
+        }
+      ],
+      "duration_ms": 244346,
+      "name": "Angel Dust",
+      "url": "https://open.spotify.com/track/0gOgocqgGNWtu7QTLbbJvp"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "Better Place Blues",
+        "url": "https://open.spotify.com/album/7os0m4lnpbxvIjdGy7VS9f"
+      },
+      "artists": [
+        {
+          "name": "Yaron Herman",
+          "url": "https://open.spotify.com/artist/0YbhcCKyhHD3llGKNtE9UJ"
+        }
+      ],
+      "duration_ms": 304560,
+      "name": "Better Place Blues",
+      "url": "https://open.spotify.com/track/6ic53xMZGD4myzBKGtHH1I"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "Body Language (feat. Sasha Keable)",
+        "url": "https://open.spotify.com/album/2aeEO30e5qXXujdeJjL7kY"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 242530,
+      "name": "Body Language (feat. Sasha Keable)",
+      "url": "https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "Nougayork Remixes (feat. Marquis Hill)",
+        "url": "https://open.spotify.com/album/20qMY89dHkttjTqPzpvzo2"
+      },
+      "artists": [
+        {
+          "name": "Claude Nougaro",
+          "url": "https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR"
+        },
+        {
+          "name": "Philippe Saisse",
+          "url": "https://open.spotify.com/artist/76eaAxXOF5UhLXASB8UiQJ"
+        },
+        {
+          "name": "Marquis Hill",
+          "url": "https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez"
+        }
+      ],
+      "duration_ms": 264330,
+      "name": "Nougayork Remix (International Version) - feat. Marquis Hill",
+      "url": "https://open.spotify.com/track/2UyuSPI9Ciadj89C2f3CZl"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "SOeuR FeLiX aka BeeHive",
+        "url": "https://open.spotify.com/album/6n9prltMvd8HQbiriBXahp"
+      },
+      "artists": [
+        {
+          "name": "Jowee Omicil",
+          "url": "https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY"
+        }
+      ],
+      "duration_ms": 233874,
+      "name": "SOeuR FeLiX aka BeeHive",
+      "url": "https://open.spotify.com/track/4BTm4UH5qHLEMtdAtEhDCr"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "The Panorama Sessions, Vol. 2",
+        "url": "https://open.spotify.com/album/2QBW1FxFUivoffvVoiSO8J"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "duration_ms": 360299,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2fY8kKGDEn3oOCntstJqDP"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "BelleJazzClub (Vol. 1)",
+        "url": "https://open.spotify.com/album/0pOsp9Xw18DuMNOcvgl8c4"
+      },
+      "artists": [
+        {
+          "name": "Adrien Soleiman",
+          "url": "https://open.spotify.com/artist/2EYdJknyuZSMB61Nx1ru7e"
+        }
+      ],
+      "duration_ms": 355328,
+      "name": "Petit Matin",
+      "url": "https://open.spotify.com/track/02717WBP3TyZVw8OoMFLo9"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "On Tour",
+        "url": "https://open.spotify.com/album/1AnldJAf4toWcf1KOMUqMd"
+      },
+      "artists": [
+        {
+          "name": "Thomas Leleu",
+          "url": "https://open.spotify.com/artist/1fgptfnDkurkPTIUPBTo6h"
+        }
+      ],
+      "duration_ms": 239480,
+      "name": "Bunky flues",
+      "url": "https://open.spotify.com/track/7rTOyzyBu2BnpFc3MkrSEl"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "History Repeating",
+        "url": "https://open.spotify.com/album/5UyeGICRVNY7SYFiq7aUEN"
+      },
+      "artists": [
+        {
+          "name": "Lila-May",
+          "url": "https://open.spotify.com/artist/6MoTY5UDMYyOuU1ZGl5grx"
+        }
+      ],
+      "duration_ms": 178298,
+      "name": "History Repeating",
+      "url": "https://open.spotify.com/track/3fSAvHxFaP7bYWwN5uxsMj"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "TAKE 01",
+        "url": "https://open.spotify.com/album/0wsjLI8ESlTLN9k53M5YmA"
+      },
+      "artists": [
+        {
+          "name": "Ferdi",
+          "url": "https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd"
+        },
+        {
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+        }
+      ],
+      "duration_ms": 162093,
+      "name": "MONTREUX PALACE",
+      "url": "https://open.spotify.com/track/1eeW0hCupU2nC63gPbWJpJ"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "The Seize",
+        "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 214401,
+      "name": "The Seize",
+      "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/5UtxXYIkCwJhnm4ccP77ie"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Bex",
+          "url": "https://open.spotify.com/artist/1NVyfQbY0oM9xBVCaIYkwh"
+        },
+        {
+          "name": "David Taieb",
+          "url": "https://open.spotify.com/artist/4XGYpvtl5JZouPyqGqbvmO"
+        }
+      ],
+      "duration_ms": 337813,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/4vUrXy8MnrNxyHAAoXoWa4"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "The Burning Roads",
+        "url": "https://open.spotify.com/album/568t9My0detUg5mp4Pz3WV"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Petit",
+          "url": "https://open.spotify.com/artist/7thiPAfYOfJoDeroIQxaKQ"
+        },
+        {
+          "name": "Sylvain Gontard",
+          "url": "https://open.spotify.com/artist/70mElInIklqBRDipzilh2P"
+        }
+      ],
+      "duration_ms": 361200,
+      "name": "The Burning Roads",
+      "url": "https://open.spotify.com/track/6szoAATXVtAS7CWjupf6MO"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "Dinorah Dinorah",
+        "url": "https://open.spotify.com/album/096ytg0kaGva5C6WYReb7W"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        }
+      ],
+      "duration_ms": 277459,
+      "name": "Dinorah Dinorah",
+      "url": "https://open.spotify.com/track/0dfoaHpuXceorV83nheGIr"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "Into My World",
+        "url": "https://open.spotify.com/album/3eFLLjBXJXznUA9sGgGrHU"
+      },
+      "artists": [
+        {
+          "name": "Gabi Hartmann",
+          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+        }
+      ],
+      "duration_ms": 172706,
+      "name": "Into My World",
+      "url": "https://open.spotify.com/track/1T4kPPiDGVGZGc5HUIR68D"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "Chi \u00c8 Nicola Felpieri?",
+        "url": "https://open.spotify.com/album/6MyXSqkTazI56OSkxJNR4X"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "duration_ms": 222053,
+      "name": "Segreto",
+      "url": "https://open.spotify.com/track/7gDSpUqCLBMigIY5kEVcQI"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "EDEN BEACH CLUB (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/60krs1IYZybRvmCsBMuOyh"
+      },
+      "artists": [
+        {
+          "name": "Laurent Bardainne",
+          "url": "https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw"
+        },
+        {
+          "name": "Tigre d'Eau Douce",
+          "url": "https://open.spotify.com/artist/2J0cbdwUlJkBYkQYIDDU5k"
+        }
+      ],
+      "duration_ms": 303091,
+      "name": "Blue Velvet",
+      "url": "https://open.spotify.com/track/0GM5TLIDisw4byhnkPGDF8"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "PHENOMENAL WOMEN",
+        "url": "https://open.spotify.com/album/5T34tAYCrM7DJ05Hq1uiNn"
+      },
+      "artists": [
+        {
+          "name": "Macha Gharibian",
+          "url": "https://open.spotify.com/artist/5Nym2tNZobmhltzmTae1ow"
+        }
+      ],
+      "duration_ms": 268573,
+      "name": "You Love Her",
+      "url": "https://open.spotify.com/track/1MDzT2eiAbxLPoXZkJjLYy"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "Music for Roads",
+        "url": "https://open.spotify.com/album/3LkNzhTvYjDCiDe1ikhAn6"
+      },
+      "artists": [
+        {
+          "name": "Tuomo & Markus",
+          "url": "https://open.spotify.com/artist/5Ab1JRVcEcWR0VqwID9IO5"
+        },
+        {
+          "name": "Verneri Pohjola",
+          "url": "https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX"
+        },
+        {
+          "name": "Sylvain Rifflet",
+          "url": "https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni"
+        }
+      ],
+      "duration_ms": 341459,
+      "name": "Appalachian Landscape",
+      "url": "https://open.spotify.com/track/64XhMVvHIOMM6QQljekrv8"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
       "album": {
         "name": "You Hit the Spot",
         "url": "https://open.spotify.com/album/3XKDNdOvXszqvlgxJFlVkC"
@@ -305,7 +465,7 @@
       "url": "https://open.spotify.com/track/5JqMhtvi3DRVe4lpLSFXTW"
     },
     {
-      "added_at": "2025-03-13 23:00:14",
+      "added_at": "2025-03-20 23:00:08",
       "album": {
         "name": "Long Story Short",
         "url": "https://open.spotify.com/album/1lSG9GKeYCczhhThAo2ElK"
@@ -337,115 +497,7 @@
       "url": "https://open.spotify.com/track/4ikG0zxuFINnTcaxCbW4RD"
     },
     {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "Angel Dust",
-        "url": "https://open.spotify.com/album/5gf0ESeC85bxRWhInpWUR7"
-      },
-      "artists": [
-        {
-          "name": "Ludivine Issambourg",
-          "url": "https://open.spotify.com/artist/7nuphNSch4dZshJyLgNixV"
-        },
-        {
-          "name": "Brian Jackson",
-          "url": "https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU"
-        },
-        {
-          "name": "Wolfgang Valbrun",
-          "url": "https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5"
-        }
-      ],
-      "duration_ms": 244346,
-      "name": "Angel Dust",
-      "url": "https://open.spotify.com/track/0gOgocqgGNWtu7QTLbbJvp"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "SOeuR FeLiX aka BeeHive",
-        "url": "https://open.spotify.com/album/6n9prltMvd8HQbiriBXahp"
-      },
-      "artists": [
-        {
-          "name": "Jowee Omicil",
-          "url": "https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY"
-        }
-      ],
-      "duration_ms": 233874,
-      "name": "SOeuR FeLiX aka BeeHive",
-      "url": "https://open.spotify.com/track/4BTm4UH5qHLEMtdAtEhDCr"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "BelleJazzClub (Vol. 1)",
-        "url": "https://open.spotify.com/album/0pOsp9Xw18DuMNOcvgl8c4"
-      },
-      "artists": [
-        {
-          "name": "Adrien Soleiman",
-          "url": "https://open.spotify.com/artist/2EYdJknyuZSMB61Nx1ru7e"
-        }
-      ],
-      "duration_ms": 355328,
-      "name": "Petit Matin",
-      "url": "https://open.spotify.com/track/02717WBP3TyZVw8OoMFLo9"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "Body Language (feat. Sasha Keable)",
-        "url": "https://open.spotify.com/album/2aeEO30e5qXXujdeJjL7kY"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 242530,
-      "name": "Body Language (feat. Sasha Keable)",
-      "url": "https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "Stories #2",
-        "url": "https://open.spotify.com/album/2BbyKf7DN6kQDFbsmVZ9Zk"
-      },
-      "artists": [
-        {
-          "name": "Thomas Leleu",
-          "url": "https://open.spotify.com/artist/1fgptfnDkurkPTIUPBTo6h"
-        }
-      ],
-      "duration_ms": 233293,
-      "name": "Stories #2",
-      "url": "https://open.spotify.com/track/6fZr24BqGaDmu6zexgE6N4"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "History Repeating",
-        "url": "https://open.spotify.com/album/5UyeGICRVNY7SYFiq7aUEN"
-      },
-      "artists": [
-        {
-          "name": "Lila-May",
-          "url": "https://open.spotify.com/artist/6MoTY5UDMYyOuU1ZGl5grx"
-        }
-      ],
-      "duration_ms": 178298,
-      "name": "History Repeating",
-      "url": "https://open.spotify.com/track/3fSAvHxFaP7bYWwN5uxsMj"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
+      "added_at": "2025-03-20 23:00:08",
       "album": {
         "name": "Six Songs",
         "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
@@ -461,115 +513,7 @@
       "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
     },
     {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "Sacred Conversations",
-        "url": "https://open.spotify.com/album/6q92oHcuhpaPiLaq9uLhro"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9on Phal",
-          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
-        }
-      ],
-      "duration_ms": 253320,
-      "name": "Sacred Conversations",
-      "url": "https://open.spotify.com/track/50nrTCws5S6Yrg3ehCPYu2"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "Tic Tac (feat. M\u00e9lanie Chedeville)",
-        "url": "https://open.spotify.com/album/7GX1eSH9vSl6Vc5vitzhXK"
-      },
-      "artists": [
-        {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
-        },
-        {
-          "name": "M\u00e9lanie Ch\u00e9deville",
-          "url": "https://open.spotify.com/artist/4EGG2sH6Qnww7MrGtSyny3"
-        }
-      ],
-      "duration_ms": 217668,
-      "name": "Tic Tac (feat. M\u00e9lanie Chedeville)",
-      "url": "https://open.spotify.com/track/30krkvIJTCFycVhdhAhMH9"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "Monkey System",
-        "url": "https://open.spotify.com/album/2v1Gz0K9cp6gdxkLp7MB4n"
-      },
-      "artists": [
-        {
-          "name": "Black Flower",
-          "url": "https://open.spotify.com/artist/3sWzPqn412qggAJRtI6Bvz"
-        },
-        {
-          "name": "Meskerem Mees",
-          "url": "https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q"
-        }
-      ],
-      "duration_ms": 326440,
-      "name": "Monkey System",
-      "url": "https://open.spotify.com/track/082cOUifUly6CMsnHJ6Okp"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "Suppose It Is Butter",
-        "url": "https://open.spotify.com/album/7dqdPkW3LyElXKTO2qUdLQ"
-      },
-      "artists": [
-        {
-          "name": "Julien Da\u00efan",
-          "url": "https://open.spotify.com/artist/1sbU4PhV0rilFBoBUcGMqa"
-        }
-      ],
-      "duration_ms": 388973,
-      "name": "Lunar Glow in the Lagoon",
-      "url": "https://open.spotify.com/track/31spGWzzc3AQIq7jRgxIMv"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "The Best Is Yet To Come",
-        "url": "https://open.spotify.com/album/4HJwRy0JUb7EvX5Yr3DNqb"
-      },
-      "artists": [
-        {
-          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
-          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
-        },
-        {
-          "name": "Scarlett Johansson",
-          "url": "https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa"
-        }
-      ],
-      "duration_ms": 271840,
-      "name": "The Best Is Yet To Come",
-      "url": "https://open.spotify.com/track/2yHZpImnjZNGIgRMksx85Z"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "Buono Time",
-        "url": "https://open.spotify.com/album/4FFxBWODJImYbkEV7qtV4E"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Buono Time",
-      "url": "https://open.spotify.com/track/6va0ySoD5EsZvgzYPhJoJY"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
+      "added_at": "2025-03-20 23:00:08",
       "album": {
         "name": "Apollo Solar Drive",
         "url": "https://open.spotify.com/album/6M6TsxBEkd0LbwDZoqvetx"
@@ -589,7 +533,131 @@
       "url": "https://open.spotify.com/track/4MesbpwH8LvpTkH0duZCbz"
     },
     {
-      "added_at": "2025-03-13 23:00:14",
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "Sacred Conversations",
+        "url": "https://open.spotify.com/album/6q92oHcuhpaPiLaq9uLhro"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+        }
+      ],
+      "duration_ms": 253320,
+      "name": "Sacred Conversations",
+      "url": "https://open.spotify.com/track/50nrTCws5S6Yrg3ehCPYu2"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "Monkey System",
+        "url": "https://open.spotify.com/album/2v1Gz0K9cp6gdxkLp7MB4n"
+      },
+      "artists": [
+        {
+          "name": "Black Flower",
+          "url": "https://open.spotify.com/artist/3sWzPqn412qggAJRtI6Bvz"
+        },
+        {
+          "name": "Meskerem Mees",
+          "url": "https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q"
+        }
+      ],
+      "duration_ms": 326440,
+      "name": "Monkey System",
+      "url": "https://open.spotify.com/track/082cOUifUly6CMsnHJ6Okp"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "Suppose It Is Butter",
+        "url": "https://open.spotify.com/album/7dqdPkW3LyElXKTO2qUdLQ"
+      },
+      "artists": [
+        {
+          "name": "Julien Da\u00efan",
+          "url": "https://open.spotify.com/artist/1sbU4PhV0rilFBoBUcGMqa"
+        }
+      ],
+      "duration_ms": 388973,
+      "name": "Lunar Glow in the Lagoon",
+      "url": "https://open.spotify.com/track/31spGWzzc3AQIq7jRgxIMv"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "Stories #2",
+        "url": "https://open.spotify.com/album/2BbyKf7DN6kQDFbsmVZ9Zk"
+      },
+      "artists": [
+        {
+          "name": "Thomas Leleu",
+          "url": "https://open.spotify.com/artist/1fgptfnDkurkPTIUPBTo6h"
+        }
+      ],
+      "duration_ms": 233293,
+      "name": "Stories #2",
+      "url": "https://open.spotify.com/track/6fZr24BqGaDmu6zexgE6N4"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "Tic Tac (feat. M\u00e9lanie Chedeville)",
+        "url": "https://open.spotify.com/album/7GX1eSH9vSl6Vc5vitzhXK"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        },
+        {
+          "name": "M\u00e9lanie Ch\u00e9deville",
+          "url": "https://open.spotify.com/artist/4EGG2sH6Qnww7MrGtSyny3"
+        }
+      ],
+      "duration_ms": 217668,
+      "name": "Tic Tac (feat. M\u00e9lanie Chedeville)",
+      "url": "https://open.spotify.com/track/30krkvIJTCFycVhdhAhMH9"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "The Best Is Yet To Come",
+        "url": "https://open.spotify.com/album/4HJwRy0JUb7EvX5Yr3DNqb"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "Scarlett Johansson",
+          "url": "https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa"
+        }
+      ],
+      "duration_ms": 271840,
+      "name": "The Best Is Yet To Come",
+      "url": "https://open.spotify.com/track/2yHZpImnjZNGIgRMksx85Z"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
+      "album": {
+        "name": "Buono Time",
+        "url": "https://open.spotify.com/album/4FFxBWODJImYbkEV7qtV4E"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Buono Time",
+      "url": "https://open.spotify.com/track/6va0ySoD5EsZvgzYPhJoJY"
+    },
+    {
+      "added_at": "2025-03-20 23:00:08",
       "album": {
         "name": "BelleJazzClub (Vol. 1)",
         "url": "https://open.spotify.com/album/0pOsp9Xw18DuMNOcvgl8c4"
@@ -605,7 +673,7 @@
       "url": "https://open.spotify.com/track/6i5jnIiTrQreU1WPH0IsJz"
     },
     {
-      "added_at": "2025-03-13 23:00:14",
+      "added_at": "2025-03-20 23:00:08",
       "album": {
         "name": "Poeira Cosmica",
         "url": "https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn"
@@ -625,7 +693,7 @@
       "url": "https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR"
     },
     {
-      "added_at": "2025-03-13 23:00:14",
+      "added_at": "2025-03-20 23:00:08",
       "album": {
         "name": "MD Blues",
         "url": "https://open.spotify.com/album/2UzYRSbmprursaawJzafmt"
@@ -653,7 +721,7 @@
       "url": "https://open.spotify.com/track/09RsN0efDAgTT4koydJvxq"
     },
     {
-      "added_at": "2025-03-13 23:00:14",
+      "added_at": "2025-03-20 23:00:08",
       "album": {
         "name": "But Not For Me",
         "url": "https://open.spotify.com/album/0Ja89bV6PXqLzPqE80uoXj"
@@ -669,7 +737,7 @@
       "url": "https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri"
     },
     {
-      "added_at": "2025-03-13 23:00:14",
+      "added_at": "2025-03-20 23:00:08",
       "album": {
         "name": "Dark Moon",
         "url": "https://open.spotify.com/album/62wQnzvdDvEZFNOE9Hswr5"
@@ -685,7 +753,7 @@
       "url": "https://open.spotify.com/track/1WIFpblmdXiRm4TdfxhaPh"
     },
     {
-      "added_at": "2025-03-13 23:00:14",
+      "added_at": "2025-03-20 23:00:08",
       "album": {
         "name": "Stairway to the Stars",
         "url": "https://open.spotify.com/album/1rHWr9iSD5OUtaO2mCIh80"
@@ -701,7 +769,7 @@
       "url": "https://open.spotify.com/track/2aRV7NOutbMjN6Ot1b7fBF"
     },
     {
-      "added_at": "2025-03-13 23:00:14",
+      "added_at": "2025-03-20 23:00:08",
       "album": {
         "name": "Come Wander With Me ft. John Engels, Karel Boehlee & Aram Kersbergen",
         "url": "https://open.spotify.com/album/4o6goqEgxotE5uBA4D4Hrj"
@@ -725,7 +793,7 @@
       "url": "https://open.spotify.com/track/4veEAIWJplTa6GWOJt2icT"
     },
     {
-      "added_at": "2025-03-13 23:00:14",
+      "added_at": "2025-03-20 23:00:08",
       "album": {
         "name": "I Fall In Love Too Easily",
         "url": "https://open.spotify.com/album/38gVZkDr1DST7i9niZPMyt"
@@ -741,7 +809,7 @@
       "url": "https://open.spotify.com/track/7prPVIc2n6R9ZyLIxQGPum"
     },
     {
-      "added_at": "2025-03-13 23:00:14",
+      "added_at": "2025-03-20 23:00:08",
       "album": {
         "name": "Together Tomorrow",
         "url": "https://open.spotify.com/album/2r54jmgXYv5F2Cn7Qqjxa0"
@@ -765,7 +833,7 @@
       "url": "https://open.spotify.com/track/3IVycuq6FCllLMFic3lX2h"
     },
     {
-      "added_at": "2025-03-13 23:00:14",
+      "added_at": "2025-03-20 23:00:08",
       "album": {
         "name": "Old Devil Moon",
         "url": "https://open.spotify.com/album/0P5UfQqY9ZiL3YxDv0MigW"
@@ -781,7 +849,7 @@
       "url": "https://open.spotify.com/track/593JQgGYODUwv0Es7H847C"
     },
     {
-      "added_at": "2025-03-13 23:00:14",
+      "added_at": "2025-03-20 23:00:08",
       "album": {
         "name": "Le lever du soleil (feat. Na\u00efssam Jalal)",
         "url": "https://open.spotify.com/album/4CImWAjsW1qokMjd21EhVm"
@@ -801,7 +869,7 @@
       "url": "https://open.spotify.com/track/5kOhe2DrhPPljjrEQCsTU9"
     },
     {
-      "added_at": "2025-03-13 23:00:14",
+      "added_at": "2025-03-20 23:00:08",
       "album": {
         "name": "Ellington (Live)",
         "url": "https://open.spotify.com/album/7AcRbjaU9T4nyFPTmGaEV0"
@@ -821,7 +889,7 @@
       "url": "https://open.spotify.com/track/1Yj7Qo4nXew3s7qYCcJykG"
     },
     {
-      "added_at": "2025-03-13 23:00:14",
+      "added_at": "2025-03-20 23:00:08",
       "album": {
         "name": "Survoler La Lune",
         "url": "https://open.spotify.com/album/0r1bqNdBvvPhBPEJ6Sedln"
@@ -837,7 +905,7 @@
       "url": "https://open.spotify.com/track/1kgZO9nBFuczciVCRBSkPE"
     },
     {
-      "added_at": "2025-03-13 23:00:14",
+      "added_at": "2025-03-20 23:00:08",
       "album": {
         "name": "Throw it Away",
         "url": "https://open.spotify.com/album/7180ZpwjyLS3HbtS3BKImy"
@@ -853,43 +921,7 @@
       "url": "https://open.spotify.com/track/6q1L57a2cswmeWCch1ZkfQ"
     },
     {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "Cantilene",
-        "url": "https://open.spotify.com/album/5BbspRKU7On60p8OU6lCsT"
-      },
-      "artists": [
-        {
-          "name": "Marion Rampal",
-          "url": "https://open.spotify.com/artist/3i8F40UKXQY3JmCIwbuCQD"
-        },
-        {
-          "name": "Na\u00efssam Jalal",
-          "url": "https://open.spotify.com/artist/4Md8IAcfkCRrHL6KF41GYk"
-        }
-      ],
-      "duration_ms": 206466,
-      "name": "Cantilene",
-      "url": "https://open.spotify.com/track/1G1MA35h8ijuol0nLnUqxE"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "Fables",
-        "url": "https://open.spotify.com/album/4fDN799OnYLUrE3PB7wnib"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Reinhardt",
-          "url": "https://open.spotify.com/artist/269JN3NUKhXFyIG1uGLWS4"
-        }
-      ],
-      "duration_ms": 183826,
-      "name": "Les fauves",
-      "url": "https://open.spotify.com/track/2PtKkshRFtUazLbqfxcjVI"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
+      "added_at": "2025-03-20 23:00:08",
       "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/2RSTkYMSBXeHi5v7kTO0Qp"
@@ -919,42 +951,6 @@
       "duration_ms": 340000,
       "name": "Stolen Moments",
       "url": "https://open.spotify.com/track/6e9SSnFQp1eWL4qFoifadM"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "GREEN LIGHT",
-        "url": "https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA"
-      },
-      "artists": [
-        {
-          "name": "Moses Yoofee Trio",
-          "url": "https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS"
-        },
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "GREEN LIGHT",
-      "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
-    },
-    {
-      "added_at": "2025-03-13 23:00:14",
-      "album": {
-        "name": "Cry Me a River",
-        "url": "https://open.spotify.com/album/0iAbWSvIOkKR7O0DHjhhp4"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Cry Me a River",
-      "url": "https://open.spotify.com/track/1SNsZq2WQh2N4Qkagm3L01"
     }
   ],
   "unique_name": "Jazz Club",

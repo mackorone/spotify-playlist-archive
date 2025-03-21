@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Tim Maia",
-  "num_followers": 1391258,
+  "num_followers": 1391533,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
+        "name": "Unplugged (Ao vivo)",
+        "url": "https://open.spotify.com/album/525oSOShPTFiuHE1DIZttf"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 293053,
+      "name": "A Paz - Ao Vivo",
+      "url": "https://open.spotify.com/track/5jKg6K5LjLH4RkVpxXqO6W"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
         "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
         "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 327946,
       "name": "Anuncia\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3JrFuUhcNLHiD3hJPVaHTy"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
-        "name": "Unplugged (Ao vivo)",
-        "url": "https://open.spotify.com/album/525oSOShPTFiuHE1DIZttf"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 293053,
-      "name": "A Paz - Ao Vivo",
-      "url": "https://open.spotify.com/track/5jKg6K5LjLH4RkVpxXqO6W"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv"
-      },
-      "artists": [
-        {
-          "name": "Secos & Molhados",
-          "url": "https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Sangue latino",
-      "url": "https://open.spotify.com/track/4LxKSGFZOX66wGSsH0kFRE"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
         "name": "Raizes Do Samba",
         "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 235533,
       "name": "O Mundo \u00c9 Um Moinho",
       "url": "https://open.spotify.com/track/1xCbDvw3UNReOWq9BbAThc"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv"
+      },
+      "artists": [
+        {
+          "name": "Secos & Molhados",
+          "url": "https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Sangue latino",
+      "url": "https://open.spotify.com/track/4LxKSGFZOX66wGSsH0kFRE"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 235106,
-      "name": "Brasil Pandeiro",
-      "url": "https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk"
-    },
-    {
-      "added_at": "2025-03-07 03:00:30",
-      "album": {
         "name": "Se Eu Quiser Falar Com Deus",
         "url": "https://open.spotify.com/album/6IIhhDMiY6Abab01TmzLiV"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 275882,
       "name": "Se Eu Quiser Falar Com Deus",
       "url": "https://open.spotify.com/track/6j7cLMzPmnmlP5f6qQk9Cl"
+    },
+    {
+      "added_at": "2025-03-07 03:00:30",
+      "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 235106,
+      "name": "Brasil Pandeiro",
+      "url": "https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -907,18 +907,18 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+        "name": "Andar Com F\u00e9",
+        "url": "https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w"
       },
       "artists": [
         {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 397493,
-      "name": "Preta Pretinha",
-      "url": "https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u"
+      "duration_ms": 194175,
+      "name": "Andar Com F\u00e9",
+      "url": "https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -991,18 +991,18 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Andar Com F\u00e9",
-        "url": "https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w"
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
       "artists": [
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
         }
       ],
-      "duration_ms": 194175,
-      "name": "Andar Com F\u00e9",
-      "url": "https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm"
+      "duration_ms": 397493,
+      "name": "Preta Pretinha",
+      "url": "https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -1343,18 +1343,22 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Em Casa Com os Gil",
-        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr"
       },
       "artists": [
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 234570,
-      "name": "Barato Total",
-      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
+      "duration_ms": 229013,
+      "name": "Eu Sei Que Vou Te Amar",
+      "url": "https://open.spotify.com/track/3s4gwVdy6g4KmBLerpNMIK"
     },
     {
       "added_at": "2025-03-07 03:00:30",
@@ -1375,22 +1379,18 @@
     {
       "added_at": "2025-03-07 03:00:30",
       "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr"
+        "name": "Em Casa Com os Gil",
+        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
       },
       "artists": [
         {
-          "name": "Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 229013,
-      "name": "Eu Sei Que Vou Te Amar",
-      "url": "https://open.spotify.com/track/3s4gwVdy6g4KmBLerpNMIK"
+      "duration_ms": 234570,
+      "name": "Barato Total",
+      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
     },
     {
       "added_at": "2025-03-07 03:00:30",

@@ -1,6 +1,6 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 71413,
+  "num_followers": 71408,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
@@ -999,6 +999,22 @@
     {
       "added_at": "2025-02-07 15:29:12",
       "album": {
+        "name": "Never Ending Sorry",
+        "url": "https://open.spotify.com/album/0bEC0mpfwhZPD89ZS87LVe"
+      },
+      "artists": [
+        {
+          "name": "Agnieszka Chyli\u0144ska",
+          "url": "https://open.spotify.com/artist/0CEw36eWG0dYKCXOX8eUoO"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "Kiedy\u015b do Ciebie wr\u00f3c\u0119",
+      "url": "https://open.spotify.com/track/04QPWwQIxA8kLpcKM1ZWzL"
+    },
+    {
+      "added_at": "2025-02-07 15:29:12",
+      "album": {
         "name": "Z calych sil",
         "url": "https://open.spotify.com/album/1Z5Ny1o2bml9NXWuJTXafj"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 229800,
       "name": "Na Chwile",
       "url": "https://open.spotify.com/track/4alKgSl6ySuhyNnstJyUmt"
-    },
-    {
-      "added_at": "2025-02-07 15:29:12",
-      "album": {
-        "name": "Never Ending Sorry",
-        "url": "https://open.spotify.com/album/0bEC0mpfwhZPD89ZS87LVe"
-      },
-      "artists": [
-        {
-          "name": "Agnieszka Chyli\u0144ska",
-          "url": "https://open.spotify.com/artist/0CEw36eWG0dYKCXOX8eUoO"
-        }
-      ],
-      "duration_ms": 229880,
-      "name": "Kiedy\u015b do Ciebie wr\u00f3c\u0119",
-      "url": "https://open.spotify.com/track/04QPWwQIxA8kLpcKM1ZWzL"
     },
     {
       "added_at": "2025-02-07 15:29:12",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Oscar Farrell",
+  "description": "Discover your new favourite artists from UK&IE. Cover: CROOKS INC.",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -5514,6 +5514,24 @@
       "duration_ms": 134226,
       "name": "XO",
       "url": "https://open.spotify.com/track/3N0nHIHc4rXKF3p3lXzXYY"
+    },
+    {
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/7cX35zQ6fvQgO5JjSNWmbA"
+      },
+      "artists": [
+        {
+          "name": "CROOKS INC.",
+          "url": "https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194880,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/4cpQrTmSubTzMzFgquNpsa"
     },
     {
       "album": {

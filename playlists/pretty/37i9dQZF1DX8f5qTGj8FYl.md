@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is too funky for words to keep up\. Cover: Cory Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,196 likes - 150 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,239 likes - 150 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 80 | [Give Everybody Some](https://open.spotify.com/track/5Z0JfPy9qIFqbxafGsRiZy) | [Mickey & The Soul Generation](https://open.spotify.com/artist/6R8Xep48pgKRWzTBchSwO9) | [Iron Leg](https://open.spotify.com/album/7GGdJ4p0sCDTNySOEkMbyJ) | 7:04 |
 | 81 | [116th St.](https://open.spotify.com/track/0CBvxTlEUQTQxwqtzr93ox) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Mt\. Crushmore](https://open.spotify.com/album/1nTtZzqe4MeFmYqq9x1ewU) | 3:06 |
 | 82 | [Test Drive \- Instrumental](https://open.spotify.com/track/6egcs8AHSL7oPfq5TZ8w6n) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [The Joy of Music\. The Job of Real Estate.](https://open.spotify.com/album/17OizIciohmcOZbMyBF2XV) | 2:57 |
-| 83 | [Dallas](https://open.spotify.com/track/2HYk4Wh5L4MiZ6s6myy4bI) | [L'éclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Dallas](https://open.spotify.com/album/5vH49ZbRg8Y8Yq52r7RiFg) | 3:34 |
+| 83 | [Dallas](https://open.spotify.com/track/2HYk4Wh5L4MiZ6s6myy4bI) | [L'Eclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Dallas](https://open.spotify.com/album/5vH49ZbRg8Y8Yq52r7RiFg) | 3:34 |
 | 84 | [Feel It](https://open.spotify.com/track/1ZPexPMYcdOTQQr7BFnIpl) | [Dr\. Delight](https://open.spotify.com/artist/5JSEvaXZzKFArz329teDzI) | [Feel It](https://open.spotify.com/album/3bK9aGULeLbciNYE0vTzvX) | 2:07 |
 | 85 | [Whistle Bump](https://open.spotify.com/track/12KsTSPgKRxekOejhNzmDZ) | [Deodato](https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr) | [New York City / Whistle Bump](https://open.spotify.com/album/0EvrBroh6KnYLr6xbTTS6E) | 4:32 |
 | 86 | [No Idea \- Instrumental](https://open.spotify.com/track/1Auq1tUDJtQsfIdIuHbuOE) | [Sola Rosa](https://open.spotify.com/artist/5IppRAquE7RQdE9YmCKJ52) | [Chasing The Sun \(Instrumentals\)](https://open.spotify.com/album/4SyosdPF7iHk2rJWzzDEYm) | 4:34 |

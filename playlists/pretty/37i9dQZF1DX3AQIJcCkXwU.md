@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AQIJcCkXwU.md) - [plain]
 
 > Sitar, flute, and sounds inspired by India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,785 likes - 130 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,917 likes - 130 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AQIJcCkXwU.md) - [plain]
 | 86 | [Shakthi Ganapathy](https://open.spotify.com/track/03nIRan6UXhE1LauTQuEPG) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Garuda Sevai](https://open.spotify.com/album/3QjGleINdYDm4weNifzoyI) | 4:49 |
 | 87 | [Moksha](https://open.spotify.com/track/5DwDWj14zb1G2fF7xQgqbv) | [Kanta Khatri](https://open.spotify.com/artist/1AIZ3YGySP9lkL7BulRkA0) | [Moksha](https://open.spotify.com/album/2DEYwbAEe0uXNgWdevqUrw) | 3:18 |
 | 88 | [The Meaning](https://open.spotify.com/track/0FhGKDMRMMAH7mo9rigANc) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl) | [Relaxing Music From Around The World: Music for Meditation, Sleep and Working](https://open.spotify.com/album/5QU0YYRzu0pzxfNESLOECe) | 5:13 |
-| 89 | [Dervish Dream](https://open.spotify.com/track/3hGwUpndi1F8yEISLTJ0oH) | [Karunesh](https://open.spotify.com/artist/4Zh6fTC8x3yuSPKJpBSMCt) | [Colors of the East](https://open.spotify.com/album/2txU1Fihy0kyBEZHBYvp16) | 5:54 |
+| 89 | [Dervish Dream](https://open.spotify.com/track/3hGwUpndi1F8yEISLTJ0oH) | [Karunesh](https://open.spotify.com/artist/4M6YdvdCPW1fvQYbLwmNWZ) | [Colors of the East](https://open.spotify.com/album/2txU1Fihy0kyBEZHBYvp16) | 5:54 |
 | 90 | [Dawn Dusk Divinity](https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 2:59 |
 | 91 | [Your Daily Practice: Yoga](https://open.spotify.com/track/3TJu7LDVWY1WoYxVuClXtD) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Your Daily Practice: Yoga](https://open.spotify.com/album/0AWIN3YskVXIa36vcNTQex) | 5:04 |
 | 92 | [Dost](https://open.spotify.com/track/4rBV5pcd8Lt29HwWIhfVDD) | [Navin Chopade](https://open.spotify.com/artist/1GSnvlnX8iWLIgRnEmPE3y) | [Dost](https://open.spotify.com/album/02czJKLz9Ksy9cgH32BlbR) | 4:51 |

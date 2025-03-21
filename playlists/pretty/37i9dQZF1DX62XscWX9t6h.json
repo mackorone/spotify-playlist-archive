@@ -1,6 +1,6 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 199477,
+  "num_followers": 199535,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
@@ -461,6 +461,26 @@
       "url": "https://open.spotify.com/track/78hqkmkGptt4Z8zNibXe47"
     },
     {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "On te l'avait dit",
+        "url": "https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp"
+      },
+      "artists": [
+        {
+          "name": "Voilaaa",
+          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
+        },
+        {
+          "name": "Pat Kalla",
+          "url": "https://open.spotify.com/artist/3qOrdMiR9VBKS6MIlDH4Aj"
+        }
+      ],
+      "duration_ms": 384383,
+      "name": "On te l'avait dit",
+      "url": "https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql"
+    },
+    {
       "added_at": "2024-03-21 23:16:10",
       "album": {
         "name": "Sonido C\u00f3smico",
@@ -475,22 +495,6 @@
       "duration_ms": 223427,
       "name": "Sonido C\u00f3smico",
       "url": "https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 273058,
-      "name": "Parev' Ajere",
-      "url": "https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex"
     },
     {
       "added_at": "2025-01-29 04:23:54",
@@ -511,22 +515,18 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "On te l'avait dit",
-        "url": "https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp"
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
       },
       "artists": [
         {
-          "name": "Voilaaa",
-          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
-        },
-        {
-          "name": "Pat Kalla",
-          "url": "https://open.spotify.com/artist/3qOrdMiR9VBKS6MIlDH4Aj"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
         }
       ],
-      "duration_ms": 384383,
-      "name": "On te l'avait dit",
-      "url": "https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql"
+      "duration_ms": 273058,
+      "name": "Parev' Ajere",
+      "url": "https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -885,22 +885,6 @@
       "url": "https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj"
     },
     {
-      "added_at": "2024-06-18 16:36:09",
-      "album": {
-        "name": "Pesce Rosso / Stella Marina (Habibi Funk Limited 002)",
-        "url": "https://open.spotify.com/album/5X0uXObzBzYbz5Wt7xZZn2"
-      },
-      "artists": [
-        {
-          "name": "Charif Megarbane",
-          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
-        }
-      ],
-      "duration_ms": 169333,
-      "name": "Stella Marina",
-      "url": "https://open.spotify.com/track/3ooN2Dz3PvuVHuy1fURigy"
-    },
-    {
       "added_at": "2022-08-31 03:53:27",
       "album": {
         "name": "Under No Nation (Radio Edit)",
@@ -915,6 +899,22 @@
       "duration_ms": 184256,
       "name": "Under No Nation - Radio Edit",
       "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
+    },
+    {
+      "added_at": "2024-06-18 16:36:09",
+      "album": {
+        "name": "Pesce Rosso / Stella Marina (Habibi Funk Limited 002)",
+        "url": "https://open.spotify.com/album/5X0uXObzBzYbz5Wt7xZZn2"
+      },
+      "artists": [
+        {
+          "name": "Charif Megarbane",
+          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
+        }
+      ],
+      "duration_ms": 169333,
+      "name": "Stella Marina",
+      "url": "https://open.spotify.com/track/3ooN2Dz3PvuVHuy1fURigy"
     },
     {
       "added_at": "2023-12-12 21:18:55",
@@ -1057,26 +1057,6 @@
       "url": "https://open.spotify.com/track/2tZdXtAjgCIzgGwSFafmc6"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Yemay\u00e1",
-        "url": "https://open.spotify.com/album/2sJglv0TslV4flsyAqQGmz"
-      },
-      "artists": [
-        {
-          "name": "Mexican Institute Of Sound",
-          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
-        },
-        {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
-        }
-      ],
-      "duration_ms": 239875,
-      "name": "Yemay\u00e1",
-      "url": "https://open.spotify.com/track/1LNxaEths4h9zioJN4yjJ4"
-    },
-    {
       "added_at": "2024-03-05 03:13:14",
       "album": {
         "name": "Dejate Llevar",
@@ -1097,6 +1077,26 @@
       "url": "https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z"
     },
     {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Yemay\u00e1",
+        "url": "https://open.spotify.com/album/2sJglv0TslV4flsyAqQGmz"
+      },
+      "artists": [
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        },
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        }
+      ],
+      "duration_ms": 239875,
+      "name": "Yemay\u00e1",
+      "url": "https://open.spotify.com/track/1LNxaEths4h9zioJN4yjJ4"
+    },
+    {
       "added_at": "2024-01-05 01:26:20",
       "album": {
         "name": "Dur Dur of Somalia - Vol. 1, Vol. 2 (Analog Africa No. 27)",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Gur\u00fa",
-        "url": "https://open.spotify.com/album/4oLp2nNArfwJ0JsMT3eHMq"
-      },
-      "artists": [
-        {
-          "name": "Pony Bravo",
-          "url": "https://open.spotify.com/artist/2e1wMFU6VpZkcLil2g7MrF"
-        }
-      ],
-      "duration_ms": 218360,
-      "name": "Totomami",
-      "url": "https://open.spotify.com/track/1H5TTRStrhzQW3w0LpqhVU"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Cera Perdida",
         "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 189892,
       "name": "Jaley Jaley",
       "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Gur\u00fa",
+        "url": "https://open.spotify.com/album/4oLp2nNArfwJ0JsMT3eHMq"
+      },
+      "artists": [
+        {
+          "name": "Pony Bravo",
+          "url": "https://open.spotify.com/artist/2e1wMFU6VpZkcLil2g7MrF"
+        }
+      ],
+      "duration_ms": 218360,
+      "name": "Totomami",
+      "url": "https://open.spotify.com/track/1H5TTRStrhzQW3w0LpqhVU"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
+        "name": "Unconscious Collective",
+        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
+      },
+      "artists": [
+        {
+          "name": "PS5",
+          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
+        }
+      ],
+      "duration_ms": 353965,
+      "name": "Makeda",
+      "url": "https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
         "name": "Global Control / Invisible Invasion",
         "url": "https://open.spotify.com/album/1teOHeiThN9wbZLcYKfqjI"
       },
@@ -1229,20 +1245,20 @@
       "url": "https://open.spotify.com/track/6Y4txHIZfSfFfON6SG8484"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
+      "added_at": "2022-08-31 05:20:13",
       "album": {
-        "name": "Unconscious Collective",
-        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
+        "name": "Ghibli",
+        "url": "https://open.spotify.com/album/2pqPnxT0Gw26Ikoucjm3As"
       },
       "artists": [
         {
-          "name": "PS5",
-          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
+          "name": "Savana Funk",
+          "url": "https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG"
         }
       ],
-      "duration_ms": 353965,
-      "name": "Makeda",
-      "url": "https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb"
+      "duration_ms": 235519,
+      "name": "Ghibli",
+      "url": "https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU"
     },
     {
       "added_at": "2023-12-05 16:22:29",
@@ -1259,22 +1275,6 @@
       "duration_ms": 130399,
       "name": "East Of Any Place",
       "url": "https://open.spotify.com/track/68M4djLGRDlVPD53Dgiwnz"
-    },
-    {
-      "added_at": "2022-08-31 05:20:13",
-      "album": {
-        "name": "Ghibli",
-        "url": "https://open.spotify.com/album/2pqPnxT0Gw26Ikoucjm3As"
-      },
-      "artists": [
-        {
-          "name": "Savana Funk",
-          "url": "https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG"
-        }
-      ],
-      "duration_ms": 235519,
-      "name": "Ghibli",
-      "url": "https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU"
     },
     {
       "added_at": "2022-11-25 01:28:32",
@@ -1313,22 +1313,6 @@
       "url": "https://open.spotify.com/track/5NPqlvUBNkiqsgxVd2SM6M"
     },
     {
-      "added_at": "2024-04-30 04:28:31",
-      "album": {
-        "name": "La Bomba",
-        "url": "https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn"
-      },
-      "artists": [
-        {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
-        }
-      ],
-      "duration_ms": 134720,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Calling England Home",
@@ -1343,6 +1327,22 @@
       "duration_ms": 373893,
       "name": "Calling England Home",
       "url": "https://open.spotify.com/track/6jd5uWEpV3zdgnR0obsXZ2"
+    },
+    {
+      "added_at": "2024-04-30 04:28:31",
+      "album": {
+        "name": "La Bomba",
+        "url": "https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        }
+      ],
+      "duration_ms": 134720,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1441,6 +1441,22 @@
       "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
     },
     {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Optimisme",
+        "url": "https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF"
+      },
+      "artists": [
+        {
+          "name": "Songhoy Blues",
+          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo"
+    },
+    {
       "added_at": "2024-11-12 17:55:26",
       "album": {
         "name": "Dar Disku",
@@ -1459,22 +1475,6 @@
       "duration_ms": 159783,
       "name": "Alsutur",
       "url": "https://open.spotify.com/track/6GBTuDftjpSehy0GHLN0Fl"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Optimisme",
-        "url": "https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF"
-      },
-      "artists": [
-        {
-          "name": "Songhoy Blues",
-          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1565,22 +1565,6 @@
       "url": "https://open.spotify.com/track/4XwNMzzX2Am9G4WbRl6nMi"
     },
     {
-      "added_at": "2023-11-23 03:51:02",
-      "album": {
-        "name": "Racines",
-        "url": "https://open.spotify.com/album/1w1WPKt7ZbZJAgugYNs8bx"
-      },
-      "artists": [
-        {
-          "name": "C'mon Tigre",
-          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
-        }
-      ],
-      "duration_ms": 73880,
-      "name": "As-tu \u00e9t\u00e9 \u00e0 Tahiti?",
-      "url": "https://open.spotify.com/track/3Qp7Pfl0oOsYOQK0N2A1V1"
-    },
-    {
       "added_at": "2022-02-18 06:00:35",
       "album": {
         "name": "Remotely Close: Silkyway",
@@ -1601,20 +1585,20 @@
       "url": "https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan"
     },
     {
-      "added_at": "2022-03-04 03:59:12",
+      "added_at": "2023-11-23 03:51:02",
       "album": {
-        "name": "Binbo\u011fa",
-        "url": "https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9"
+        "name": "Racines",
+        "url": "https://open.spotify.com/album/1w1WPKt7ZbZJAgugYNs8bx"
       },
       "artists": [
         {
-          "name": "Yalnayak",
-          "url": "https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu"
+          "name": "C'mon Tigre",
+          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
         }
       ],
-      "duration_ms": 242400,
-      "name": "Binbo\u011fa",
-      "url": "https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39"
+      "duration_ms": 73880,
+      "name": "As-tu \u00e9t\u00e9 \u00e0 Tahiti?",
+      "url": "https://open.spotify.com/track/3Qp7Pfl0oOsYOQK0N2A1V1"
     },
     {
       "added_at": "2022-07-28 06:00:43",
@@ -1631,6 +1615,22 @@
       "duration_ms": 325773,
       "name": "Weird Fishes/ Arpeggi",
       "url": "https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83"
+    },
+    {
+      "added_at": "2022-03-04 03:59:12",
+      "album": {
+        "name": "Binbo\u011fa",
+        "url": "https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9"
+      },
+      "artists": [
+        {
+          "name": "Yalnayak",
+          "url": "https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Binbo\u011fa",
+      "url": "https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39"
     },
     {
       "added_at": "2022-03-28 18:17:41",

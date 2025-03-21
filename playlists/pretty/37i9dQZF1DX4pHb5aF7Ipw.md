@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Shooter Kahlon, Reak Boss, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,761 likes - 74 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,773 likes - 74 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

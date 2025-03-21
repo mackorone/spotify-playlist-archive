@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-552 songs - 1 day 12 hr 41 min
+553 songs - 1 day 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [JOY \(Up The Street\)](https://open.spotify.com/track/1d9NF9D6HgLWvGQyPrYE98) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [Cult Classics](https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6) | 3:57 | 2023-11-24 |  |
 | [Joyfulness \- Radio Edit](https://open.spotify.com/track/1AUYOL4vebY2yB5aVYzHZH) | [Hector Plimmer](https://open.spotify.com/artist/7K64vyGna9ILfEEWnLKFEV), [Alexa Harley](https://open.spotify.com/artist/7vgZqCNS2Nah7tlpo7ZjC4) | [Joyfulness](https://open.spotify.com/album/6n8v9B5GDwqDvtFoiybePk) | 2:44 | 2021-12-03 | 2022-07-21 |
 | [Juanita](https://open.spotify.com/track/2ertNqfgysH2Vt0MTsURmJ) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Bimini Road](https://open.spotify.com/album/7tUkPkjr6wCLfw2857F7iU) | 4:19 | 2022-04-06 | 2022-04-20 |
+| [JUMP](https://open.spotify.com/track/4WejDFaJx72saURVWVgOB8) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [JUMP](https://open.spotify.com/album/0uZgOU0f8jn1zSIwSaWLKs) | 3:00 | 2025-03-21 |  |
 | [Just a Feeling \- Brackles Remix](https://open.spotify.com/track/43I0aadVyfpfNA77tSqcqF) | [Swing Ting](https://open.spotify.com/artist/6fvaKKPtpStFRXRTMmnYMX), [HMD](https://open.spotify.com/artist/2b0TwNC474SPalxcIPdrEE), [Brackles](https://open.spotify.com/artist/6YBdtCRht0zATq9CWQ1gDQ) | [Just a Feeling \(Brackles Remix\)](https://open.spotify.com/album/3u2sB1MGwW70Gi4wHvmIh2) | 3:01 | 2021-12-03 | 2022-07-13 |
 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 | 2023-09-01 |  |
 | [Keep Me In The Dark \(feat\. Jim Junior\)](https://open.spotify.com/track/5Fl1yyPJsMDV6n1if3LQVc) | [Black Saint](https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5), [Jim Junior](https://open.spotify.com/artist/31Xf3cuuJ63CRNoxbW3rdu) | [Keep Me In The Dark \(feat\. Jim Junior\)](https://open.spotify.com/album/0c7XA5RkZVU6Cbl4tfyP8M) | 3:07 | 2021-12-03 | 2022-07-29 |
@@ -436,7 +437,7 @@
 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 | 2023-10-20 |  |
 | [Saw You for the First Time](https://open.spotify.com/track/3b9MUQ7uiQHhU420B6f8Ta) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/5P6H4kEva65eEr6pMJEqoJ) | 6:44 | 2022-04-06 | 2022-04-21 |
 | [Saying Goodbye is Exhausting \- YSKWN! Sad Dancefloor Version](https://open.spotify.com/track/2m0v5XhphM2JCqUEOTI8qR) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [Justin Vivian Bond](https://open.spotify.com/artist/7BeTLKIHLguUVyIrFP92jY) | [Saying Goodbye is Exhausting](https://open.spotify.com/album/4NhTXrbFoCKhjMnGGswnIu) | 4:55 | 2022-04-06 | 2022-04-09 |
-| [Seasoning \(feat\. 2b.Frank\)](https://open.spotify.com/track/0kIim0efkAEH8y0AUctVDt) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn), [2b.Frank](https://open.spotify.com/artist/3CGeuME9z3whBbGdMNn2hS) | [Seasoning](https://open.spotify.com/album/4oGm7MGGkXCtWH7H2phRfI) | 3:23 | 2024-01-05 |  |
+| [Seasoning \(feat\. 2b.Frank\)](https://open.spotify.com/track/0kIim0efkAEH8y0AUctVDt) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn), [2b.Frank](https://open.spotify.com/artist/3CGeuME9z3whBbGdMNn2hS) | [Seasoning](https://open.spotify.com/album/4oGm7MGGkXCtWH7H2phRfI) | 3:23 | 2024-01-05 | 2025-03-21 |
 | [Second Story Sunlight](https://open.spotify.com/track/0Eo3XP7EprBsturqNahuJ7) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Second Story Sunlight](https://open.spotify.com/album/3PhyRzz7sT2tqp05ebeoK6) | 3:59 | 2021-12-03 | 2022-06-13 |
 | [Self Love](https://open.spotify.com/track/5489cZv0Sf24kOWN8sModo) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Self Love](https://open.spotify.com/album/1QhEe7Dg2og3MpyEq2YNF1) | 2:52 | 2025-02-14 |  |
 | [Sensual Loving](https://open.spotify.com/track/6Kifb1yWQg8BmM4QdgLwiv) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA) | [Sensual Loving](https://open.spotify.com/album/6Wq6nQZP24QbCrlLuM61vm) | 2:52 | 2022-04-06 | 2022-04-19 |

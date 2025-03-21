@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-05",
-  "description": "The future of African Indie and Alternative. Cover: <a href=\"https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD?si=8I0aJ87tSQ21BY3d39y_MA\">DemiMa</a>",
+  "description": "The future of African Indie and Alternative. Cover: <a href=\"https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF?si=xisd9bqoRV2NoWWMIStT9A\">Jabulile Majola</a>, <a href=\"https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2?si=iaacmY5KRHysPPUJVXPeKg\">Thando Zide</a>",
   "name": "ALTER-native",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 141818,
       "name": "acting wild.",
       "url": "https://open.spotify.com/track/1pSJpxkh8wLL9fsWMBgq1q"
@@ -118,7 +118,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 167032,
       "name": "ALL MINE",
       "url": "https://open.spotify.com/track/3NZtzTfqjbTaNt15451Vs8"
@@ -180,6 +180,28 @@
       "duration_ms": 232000,
       "name": "ANDILELANGA",
       "url": "https://open.spotify.com/track/2j28bWNAoQKzkhzXctvxHZ"
+    },
+    {
+      "album": {
+        "name": "Another Mess I Make",
+        "url": "https://open.spotify.com/album/4MpHnTvay6SD8GPU0uCMQ8"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Nkatha Muthoni",
+          "url": "https://open.spotify.com/artist/6GsjoCCj2BMdqDSjbl6B2P"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257476,
+      "name": "Another Mess I Make",
+      "url": "https://open.spotify.com/track/27aqkdGNCiEt6o2BLRdbda"
     },
     {
       "album": {
@@ -1609,6 +1631,28 @@
     },
     {
       "album": {
+        "name": "Isineke",
+        "url": "https://open.spotify.com/album/4snBnZfS3Aogw2OzWwbmr3"
+      },
+      "artists": [
+        {
+          "name": "Jabulile Majola",
+          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
+        },
+        {
+          "name": "Thando Zide",
+          "url": "https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206086,
+      "name": "Isineke",
+      "url": "https://open.spotify.com/track/0voNRJ0ndsSafNOZlkAGCB"
+    },
+    {
+      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/3ocN0pai5zWdLg5CJLTLc5"
       },
@@ -2694,7 +2738,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 164000,
       "name": "Ondine's Curse",
       "url": "https://open.spotify.com/track/4qxteXCD4RAGbJQH95eRRw"
@@ -3054,7 +3098,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 350400,
       "name": "Sekunjalo",
       "url": "https://open.spotify.com/track/3TFnmlvfoM2szN5AfIVyvt"
@@ -3420,7 +3464,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 186640,
       "name": "The Caring",
       "url": "https://open.spotify.com/track/2L8AxY1xtptdIkjbjaxHtH"
@@ -3474,7 +3518,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 142159,
       "name": "THE MORNING AFTER",
       "url": "https://open.spotify.com/track/1ewqOSdMAgdjFCksr1tRts"
@@ -3842,7 +3886,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 238000,
       "name": "We Should've Talked About Saturday",
       "url": "https://open.spotify.com/track/1SI38tpcZbWCtxeqqEB8AM"

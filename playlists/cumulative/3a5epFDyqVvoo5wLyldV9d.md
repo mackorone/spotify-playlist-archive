@@ -4,7 +4,7 @@
 
 > 
 
-845 songs - 2 day 18 hr 32 min
+846 songs - 2 day 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,6 +576,7 @@
 | [Pas De Saints Au Paradis](https://open.spotify.com/track/1SWV2PIGTgYRBZ6VOcYeQz) | [Parbleu](https://open.spotify.com/artist/6TPtmX8rRaOXQgN6WFFTlo) | [Danse Cette Zik](https://open.spotify.com/album/3dMQYdTraNEoCBKUC34Uyt) | 7:34 | 2022-12-06 |  |
 | [Passarinho](https://open.spotify.com/track/1S58j34kowXT5fcj95xt6y) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [India](https://open.spotify.com/album/7bxZ0kvGIbJRvBGFrKooub) | 5:27 | 2022-02-28 |  |
 | [Peace On Earth](https://open.spotify.com/track/3xm3OnerPVFh8X5l7skbLd) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Life Stories](https://open.spotify.com/album/6vqY4CxUewSHoLPi2G0s99) | 7:43 | 2024-01-25 |  |
+| [Pedro](https://open.spotify.com/track/2WW9gkCVI1sqWc08I1KcBg) | [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Le Più Belle Canzoni](https://open.spotify.com/album/0yS4KqzSVnHRuFfZkLkHzu) | 3:19 | 2025-03-20 |  |
 | [Pelle di luna](https://open.spotify.com/track/1T1s83GwCXB8aAhqlmhjGM) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [La ragazza dalla pelle di luna](https://open.spotify.com/album/2Yy70WbCDfjI4yzfska0Yg) | 3:36 | 2022-07-07 |  |
 | [Pelota](https://open.spotify.com/track/1JhKbaSsS9yKMP4whv7bjS) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/06814vxpRbL5CPMk1CTvOk) | 2:47 | 2020-06-27 |  |
 | [Perdoni tenente](https://open.spotify.com/track/6ctaQDq5uVoze4qQuqlS6n) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [Italian Classics: Pino D'Angiò Collection, Vol\. 1](https://open.spotify.com/album/7dwnwKTPnHsmfcMWsChtCp) | 4:17 | 2020-12-09 |  |

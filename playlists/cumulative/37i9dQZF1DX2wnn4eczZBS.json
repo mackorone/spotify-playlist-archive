@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "indie & indiepop in het Nederlands. Cover: Joost & Spinvis",
+  "description": "indie & indiepop in het Nederlands. Cover: LE MOTAT",
   "name": "indiepuntnl",
   "tracks": [
     {
@@ -756,6 +756,24 @@
       "duration_ms": 326653,
       "name": "Een Filosofie Van Het Riool",
       "url": "https://open.spotify.com/track/3iNVdekvdmLW4FwcTU1mxS"
+    },
+    {
+      "album": {
+        "name": "Eerste Date",
+        "url": "https://open.spotify.com/album/1RRZ8lGxb3EToVRya8zsNi"
+      },
+      "artists": [
+        {
+          "name": "LE MOTAT",
+          "url": "https://open.spotify.com/artist/5ETmxctyLILUwpIf9H30iO"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158109,
+      "name": "Eerste Date",
+      "url": "https://open.spotify.com/track/5yduJBegePsnWGlm6QK6DY"
     },
     {
       "album": {
@@ -2420,7 +2438,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 178826,
       "name": "Stapvoets",
       "url": "https://open.spotify.com/track/5MOYwUWtAMrT2ualbTNxY0"

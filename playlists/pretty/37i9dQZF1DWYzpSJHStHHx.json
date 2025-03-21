@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 486530,
+  "num_followers": 486534,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-02-07 17:00:04",
       "album": {
-        "name": "Welcome Back (To The//Glow)",
-        "url": "https://open.spotify.com/album/7ipoFGqpEQExYVMkOmdZHp"
-      },
-      "artists": [
-        {
-          "name": "Mild Orange",
-          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
-        }
-      ],
-      "duration_ms": 285824,
-      "name": "Welcome Back (To The//Glow)",
-      "url": "https://open.spotify.com/track/3DvyfmtCzjLs01uMqLo7zR"
-    },
-    {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
         "name": "Pennied Days",
         "url": "https://open.spotify.com/album/6E06hCaPnbNSR2KhVTa7CJ"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 214013,
       "name": "Border On Border",
       "url": "https://open.spotify.com/track/7yhVm87pJ2vxvK9gntVcxm"
+    },
+    {
+      "added_at": "2025-02-07 17:00:04",
+      "album": {
+        "name": "Welcome Back (To The//Glow)",
+        "url": "https://open.spotify.com/album/7ipoFGqpEQExYVMkOmdZHp"
+      },
+      "artists": [
+        {
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        }
+      ],
+      "duration_ms": 285824,
+      "name": "Welcome Back (To The//Glow)",
+      "url": "https://open.spotify.com/track/3DvyfmtCzjLs01uMqLo7zR"
     },
     {
       "added_at": "2025-02-07 17:00:04",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "My Grandma Says We Have No Future",
-        "url": "https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o"
-      },
-      "artists": [
-        {
-          "name": "Cari Cari",
-          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
-        }
-      ],
-      "duration_ms": 174600,
-      "name": "My Grandma Says We Have No Future",
-      "url": "https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Things Left to Do",
         "url": "https://open.spotify.com/album/5kR8QkF6vQ2M8eFsiRiWSg"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 220373,
       "name": "Yes",
       "url": "https://open.spotify.com/track/1s0EhxGMlnR0E47dRmwFZe"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "My Grandma Says We Have No Future",
+        "url": "https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o"
+      },
+      "artists": [
+        {
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "My Grandma Says We Have No Future",
+      "url": "https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1029,22 +1029,6 @@
       "url": "https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi"
     },
     {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
-        "name": "Simpin'",
-        "url": "https://open.spotify.com/album/493qZRGlg8auYOJGtj81Ze"
-      },
-      "artists": [
-        {
-          "name": "LAZY GHOST",
-          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
-        }
-      ],
-      "duration_ms": 213661,
-      "name": "Simpin'",
-      "url": "https://open.spotify.com/track/1Pb4lLhmdKfTgODHT72ngq"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "(The Ballad of) Buddy Kid",
@@ -1059,6 +1043,22 @@
       "duration_ms": 239066,
       "name": "(The Ballad of) Buddy Kid",
       "url": "https://open.spotify.com/track/7jhFwwJbpd7ZVJeT2DvrJn"
+    },
+    {
+      "added_at": "2025-02-07 17:00:04",
+      "album": {
+        "name": "Simpin'",
+        "url": "https://open.spotify.com/album/493qZRGlg8auYOJGtj81Ze"
+      },
+      "artists": [
+        {
+          "name": "LAZY GHOST",
+          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
+        }
+      ],
+      "duration_ms": 213661,
+      "name": "Simpin'",
+      "url": "https://open.spotify.com/track/1Pb4lLhmdKfTgODHT72ngq"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Mammoth Surf",
-        "url": "https://open.spotify.com/album/4heRPb0mBzy2WVb7jGLvKu"
-      },
-      "artists": [
-        {
-          "name": "Eric Tessmer",
-          "url": "https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C"
-        }
-      ],
-      "duration_ms": 120476,
-      "name": "Mammoth Surf",
-      "url": "https://open.spotify.com/track/2gJ2Joktitd1I4gGTk29wo"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/5PjKhLXDH9qKWcAv4Y8GqK"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 187345,
       "name": "Keep on",
       "url": "https://open.spotify.com/track/2xmAT9gY7qZJlEStkbwT9j"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Mammoth Surf",
+        "url": "https://open.spotify.com/album/4heRPb0mBzy2WVb7jGLvKu"
+      },
+      "artists": [
+        {
+          "name": "Eric Tessmer",
+          "url": "https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C"
+        }
+      ],
+      "duration_ms": 120476,
+      "name": "Mammoth Surf",
+      "url": "https://open.spotify.com/track/2gJ2Joktitd1I4gGTk29wo"
     },
     {
       "added_at": "2024-10-11 04:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Despina Vandi #\u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03b1\u0397\u03bc\u03ad\u03c1\u03b1\u0393\u03c5\u03bd\u03b1\u03af\u03ba\u03b1\u03c2",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Ria Ellinidou ",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -367,6 +367,24 @@
     },
     {
       "album": {
+        "name": "Bam",
+        "url": "https://open.spotify.com/album/61fQlnPmmwgSJ6UJ9Jrf9H"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166198,
+      "name": "Bam",
+      "url": "https://open.spotify.com/track/68dVduobw35v0SFTfMuaZj"
+    },
+    {
+      "album": {
         "name": "DAVATZIS (LIVE by TOKYO THEATER)",
         "url": "https://open.spotify.com/album/7gFygh1UdeoLUYaauss1uz"
       },
@@ -408,6 +426,24 @@
       "duration_ms": 203720,
       "name": "De Mas Xorizei Tipota",
       "url": "https://open.spotify.com/track/66AEZAyDrD2bnVQxC3eOsW"
+    },
+    {
+      "album": {
+        "name": "Den Einai Pou S' Agapisa",
+        "url": "https://open.spotify.com/album/308gmldMVBDxVLTyILl7Ap"
+      },
+      "artists": [
+        {
+          "name": "Zafeiris Melas",
+          "url": "https://open.spotify.com/artist/2poZNBfEMf8mVK7qZZDFeE"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212342,
+      "name": "Den Einai Pou S' Agapisa",
+      "url": "https://open.spotify.com/track/0c4nr4Q6x1hG7VlzjkCGdD"
     },
     {
       "album": {
@@ -661,6 +697,24 @@
     },
     {
       "album": {
+        "name": "Etsi Koitazes Emena",
+        "url": "https://open.spotify.com/album/5sjhWMhT6DCVuYLleNQ2bM"
+      },
+      "artists": [
+        {
+          "name": "Lena Zevgara",
+          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228636,
+      "name": "Etsi Koitazes Emena",
+      "url": "https://open.spotify.com/track/68A2k130DNYxhUnI0HLjKH"
+    },
+    {
+      "album": {
         "name": "Evaisthisies",
         "url": "https://open.spotify.com/album/5L0zt0EQg5kltRP48qepxQ"
       },
@@ -746,7 +800,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 227542,
       "name": "Ferte Tin Piso",
       "url": "https://open.spotify.com/track/2OexVDpovkx2sW5nKIDfg9"
@@ -914,7 +968,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 216875,
       "name": "I Agapi Ayti",
       "url": "https://open.spotify.com/track/3nwTkNIo35hnpArk0tokY8"
@@ -1001,6 +1055,28 @@
     },
     {
       "album": {
+        "name": "Kane Mia Eyxi",
+        "url": "https://open.spotify.com/album/4CSp1hOKPCjDy44zngrQ0l"
+      },
+      "artists": [
+        {
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+        },
+        {
+          "name": "Pediki Horodia Spirou Lambrou",
+          "url": "https://open.spotify.com/artist/06bab7br2LNqfUEojpwzdI"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206277,
+      "name": "Kane Mia Eyxi",
+      "url": "https://open.spotify.com/track/4s2Qc9rbmzE2mLNinkppno"
+    },
+    {
+      "album": {
         "name": "Kaneis Pos De Me Akous",
         "url": "https://open.spotify.com/album/06cxCCAf1tIIYU1VIRvwOp"
       },
@@ -1070,6 +1146,24 @@
       "duration_ms": 204705,
       "name": "Kathestos",
       "url": "https://open.spotify.com/track/4fOSyDqPqV1AnVZfj44f6z"
+    },
+    {
+      "album": {
+        "name": "Kati Xereis",
+        "url": "https://open.spotify.com/album/1JmNd52N6hawcFYuqKKQ0w"
+      },
+      "artists": [
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164181,
+      "name": "Kati Xereis",
+      "url": "https://open.spotify.com/track/6sdfSqn9Jz0hr2CYtOicQX"
     },
     {
       "album": {
@@ -2046,7 +2140,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 198425,
       "name": "Sou Eho Agapi Megali",
       "url": "https://open.spotify.com/track/2urR866HTLJdAoGbVQFPx2"
@@ -2064,7 +2158,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 252415,
       "name": "Sta Logia Meiname",
       "url": "https://open.spotify.com/track/2hXyNWr0wVh7qoraVXOrB1"
@@ -2082,7 +2176,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 224200,
       "name": "Ta Hirotera",
       "url": "https://open.spotify.com/track/4gqZRda0IW5gTn5Be8DlNO"
@@ -2542,7 +2636,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 155625,
       "name": "XENIXTISA",
       "url": "https://open.spotify.com/track/7cgNPyFEoWTO0YAy5AbZ2J"
@@ -2586,6 +2680,24 @@
       "duration_ms": 167379,
       "name": "Ypervoles",
       "url": "https://open.spotify.com/track/1WrpcYZsJkzJw5l95ECvpp"
+    },
+    {
+      "album": {
+        "name": "Zisame Mazi",
+        "url": "https://open.spotify.com/album/71ej0MXh1jhEMrRCEtXJUM"
+      },
+      "artists": [
+        {
+          "name": "Apostolia Zoi",
+          "url": "https://open.spotify.com/artist/1Bkxsw4F0k3dwgA1GtpPaJ"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161905,
+      "name": "Zisame Mazi",
+      "url": "https://open.spotify.com/track/04CLx2qxyYip6mfo2OowQf"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Our Generation](https://open.spotify.com/playlist/37i9dQZF1DX2Z1pVUBGGZs)
 
-> a playlist without boundaries, featuring rachel chinouriri  ☁️
+> a playlist without boundaries, featuring role model  ☁️
 
-366 songs - 18 hr 27 min
+369 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [9\-5](https://open.spotify.com/track/4ECDmDKk1h0JmNqNQL6Aiw) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [11:11](https://open.spotify.com/album/64Nwjh0IJLk48W0QjhFgfQ) | 2:35 | 2025-02-07 | 2025-02-28 |
 | [99%](https://open.spotify.com/track/0je8BipjAnFnO1PVVpPPPO) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [99%](https://open.spotify.com/album/0tqq7bjq5p3JcRg7UtY0R2) | 2:15 | 2024-08-08 | 2024-10-04 |
 | [A\-Rated Horror Movies](https://open.spotify.com/track/0ph4jYlwATx7yqLqaMqRZ2) | [Bug Eyed](https://open.spotify.com/artist/3TXIv7fmIXavggO3n0AUtL) | [A\-Rated Horror Movies](https://open.spotify.com/album/5KEnhyozeDtN6rESMoEAmA) | 2:37 | 2024-11-29 |  |
+| [Againandagain](https://open.spotify.com/track/66r78CH8yH5CTxOCwnE3sL) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [All Dressed Up For Nothing](https://open.spotify.com/album/1Q7uDb1cYSsmBSAYWel83m) | 2:52 | 2025-03-21 |  |
 | [aggressive](https://open.spotify.com/track/0L7CLr2avMQXAwA3uTqJp3) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [aggressive](https://open.spotify.com/album/5KeXH6N4PmxtYg95a9sX8b) | 2:55 | 2024-10-10 | 2024-11-22 |
 | [All I Ever Asked \(with sombr\)](https://open.spotify.com/track/3h1SACNX5U6CytntiBHEZn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [All I Ever Asked \(with sombr\)](https://open.spotify.com/album/5QJmeE6V1Rs9CdYvt7II8x) | 3:37 | 2025-02-07 |  |
 | [ALL MY GIRLS ARE TOMBOYS](https://open.spotify.com/track/4yiOJSF1pkw1MCcTom9VFT) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [ALL MY GIRLS ARE TOMBOYS](https://open.spotify.com/album/0sqr8Z6obltglzGSeeFjYr) | 3:12 | 2024-10-03 | 2025-02-14 |
@@ -107,7 +108,7 @@
 | [Drama](https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Drama](https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq) | 2:58 | 2025-01-03 | 2025-02-28 |
 | [Dumb Bitch Juice](https://open.spotify.com/track/3GREjwadOvBZW448ULa6TC) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:31 | 2024-06-27 | 2024-07-19 |
 | [Dumb Feeling](https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dumb Feeling](https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi) | 3:10 | 2025-02-28 |  |
-| [déjàvu](https://open.spotify.com/track/2Fx83tcbFJFJ26DbyokKmu) | [billie\-angela](https://open.spotify.com/artist/1USzYJ98DrLK7yVTyS9Zpm) | [déjàvu](https://open.spotify.com/album/2UHnSJm71Zt9UJAsLOwmUp) | 1:43 | 2025-02-14 |  |
+| [déjàvu](https://open.spotify.com/track/2Fx83tcbFJFJ26DbyokKmu) | [billie\-angela](https://open.spotify.com/artist/1USzYJ98DrLK7yVTyS9Zpm) | [déjàvu](https://open.spotify.com/album/2UHnSJm71Zt9UJAsLOwmUp) | 1:43 | 2025-02-14 | 2025-03-21 |
 | [ellen](https://open.spotify.com/track/3U3zzmV6yzOBH7VXACj9Wv) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [ellen](https://open.spotify.com/album/2y2QxfED6sOXy7W4hBS0nQ) | 2:56 | 2024-10-24 | 2025-03-07 |
 | [embodiment](https://open.spotify.com/track/4CbqNz6Xm1gzkNuCzmvQik) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [embodiment](https://open.spotify.com/album/3RKnJKQfWC7QwFM0ul4tFW) | 2:49 | 2024-11-01 |  |
 | [erase u](https://open.spotify.com/track/6PhuO3Usi63YmV8H7jBpU7) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [erase u](https://open.spotify.com/album/74Ho6d5Ftge7QFc4LDMwlM) | 3:03 | 2024-09-12 | 2025-01-17 |
@@ -177,7 +178,7 @@
 | [i'm low on gas and you need a jacket](https://open.spotify.com/track/4nfX2JLOUwZlUS2Qmceh8F) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [i'm low on gas and you need a jacket](https://open.spotify.com/album/4oZHqODDHufM94BWaQiBQY) | 3:22 | 2025-03-14 |  |
 | [I'VE GOT THIS ALL UNDER CONTROL](https://open.spotify.com/track/7rfjoY2B85DQSt4rCf7QLE) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [I'VE GOT THIS ALL UNDER CONTROL](https://open.spotify.com/album/3TUGI1IxKDQq0K4ZMUVpP6) | 2:36 | 2024-10-17 | 2025-01-17 |
 | [idea of you](https://open.spotify.com/track/1gnjxcqvMQUHv2asWTxo8J) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [obscura](https://open.spotify.com/album/1QBQzpCgdoe89WjGPdKPMm) | 2:57 | 2024-06-27 | 2024-07-19 |
-| [idk](https://open.spotify.com/track/2z42a7FZP30eYtu3DZ3us9) | [Maisi](https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W) | [idk](https://open.spotify.com/album/4GdUAcy6VWKYKIEnXkHfT3) | 2:34 | 2025-02-21 |  |
+| [idk](https://open.spotify.com/track/2z42a7FZP30eYtu3DZ3us9) | [Maisi](https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W) | [idk](https://open.spotify.com/album/4GdUAcy6VWKYKIEnXkHfT3) | 2:34 | 2025-02-21 | 2025-03-21 |
 | [in for the kill](https://open.spotify.com/track/3aTPG3soNZ7UImihfDABXx) | [Kayla Grace](https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T) | [in for the kill](https://open.spotify.com/album/2nVnNDYvKM2VbiorqJRw18) | 3:18 | 2024-11-08 |  |
 | [Infinite](https://open.spotify.com/track/2DiCZQljCbMyty6dYhIMuL) | [The Man The Myth The Meatslab](https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x) | [Infinite](https://open.spotify.com/album/4WhwCj945Sb7bg2oomFbV7) | 3:16 | 2025-03-14 |  |
 | [Is This What Love Is?](https://open.spotify.com/track/4GOfwIZckKlsgnt62esc40) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Is This What Love Is?](https://open.spotify.com/album/5kVea5Ulg8bpNHhRbWfAkt) | 3:37 | 2024-06-27 | 2024-07-12 |
@@ -231,7 +232,7 @@
 | [Moments](https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Moments](https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB) | 4:07 | 2024-12-13 |  |
 | [Moments in a Lifetime](https://open.spotify.com/track/3XBODhSxPH1D6O5FH4yp5G) | [Barny Fletcher](https://open.spotify.com/artist/5q9zHGohILrZ2j1bSL1VeG) | [Moments in a Lifetime](https://open.spotify.com/album/0wu1JdPDlmKBHi9jhIqoYd) | 2:13 | 2024-08-23 | 2024-11-01 |
 | [monsters](https://open.spotify.com/track/7BFIBULShxfEOaPEHUZP61) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn) | [monsters](https://open.spotify.com/album/7sUVCCRwEkQHONmQ7A2aAU) | 2:26 | 2024-07-11 | 2024-08-03 |
-| [More Time](https://open.spotify.com/track/2FJXl5aEVnOzDF69WGE6Vj) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [More Time](https://open.spotify.com/album/7paoPKPhsmwWfdwjCANoqs) | 3:45 | 2025-02-14 |  |
+| [More Time](https://open.spotify.com/track/2FJXl5aEVnOzDF69WGE6Vj) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [More Time](https://open.spotify.com/album/7paoPKPhsmwWfdwjCANoqs) | 3:45 | 2025-02-14 | 2025-03-21 |
 | [mother, i'm sorry](https://open.spotify.com/track/3MK5179YJv1pSTtgoYDuQ6) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [mother, i'm sorry](https://open.spotify.com/album/3rRi34iScxTHmigFLsLRnl) | 2:59 | 2024-06-27 | 2024-08-23 |
 | [Mr\. Man \(feat\. Miya Folick\)](https://open.spotify.com/track/68O2VV2eloAmNFjI4fEaz0) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl), [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Mr\. Man \(feat\. Miya Folick\)](https://open.spotify.com/album/0tkJFpgUaHur4wKSJhJQWD) | 2:24 | 2024-06-27 | 2024-07-05 |
 | [Mrs Right](https://open.spotify.com/track/0RKk4dWwGqSUPzQQLNSGYR) | [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [Mrs Right](https://open.spotify.com/album/4j1Xj3YYKEzgVIqBIztpL3) | 3:06 | 2024-11-08 | 2025-01-17 |
@@ -309,6 +310,7 @@
 | [Soup](https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:33 | 2024-07-11 | 2024-10-11 |
 | [Spring Into Summer](https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 4:22 | 2024-10-03 | 2025-02-14 |
 | [stargirl](https://open.spotify.com/track/5UNuMgcwbiXkCijFvbnHEb) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [stargirl](https://open.spotify.com/album/2ai8IpRfRAqt8DbggSUJ2e) | 2:54 | 2024-09-20 | 2025-01-17 |
+| [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 | 2025-03-21 |  |
 | [Stay](https://open.spotify.com/track/1rrhsaqMY5Fbxu5EoKxXqf) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Applesauce](https://open.spotify.com/album/3OBdKoFtSsBVqk7UDWH2M0) | 4:03 | 2025-03-07 |  |
 | [Stay For Good](https://open.spotify.com/track/0PrPN5jWLDjvNXFPSfbDy4) | [Siobhán Winifred](https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x) | [Stay For Good](https://open.spotify.com/album/4fvtPXhNtEMiMGhhBWsrfs) | 3:25 | 2024-09-12 | 2024-10-04 |
 | [Stay The Night](https://open.spotify.com/track/2bCwtAHXCSI09SgdIsg72Z) | [Trooh Hippi](https://open.spotify.com/artist/62XEUcqnIRwA2y2PeRLRMC) | [Stay The Night](https://open.spotify.com/album/6Ufb4MG2qmJRMTzqOGYDLA) | 3:09 | 2024-06-27 | 2024-08-16 |
@@ -342,7 +344,7 @@
 | [Too Far Gone](https://open.spotify.com/track/5F9T5JsuTugogBqM1rHCvG) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Too Far Gone](https://open.spotify.com/album/2KCorvQcuU6SwQcQVcV7kk) | 3:05 | 2025-01-24 |  |
 | [Trash Cat](https://open.spotify.com/track/4SdjOfzmeev8BGkUmPLY7H) | [Salmon Cat](https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs) | [Trash Cat](https://open.spotify.com/album/7FV3ZITK4dAhp12GAezufE) | 1:38 | 2024-08-02 | 2024-08-23 |
 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 | 2024-06-27 | 2024-08-09 |
-| [Truck](https://open.spotify.com/track/1jbEwXmHPLx51r0f4Q8uZK) | [Marti Perramon](https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX) | [Truck](https://open.spotify.com/album/5XQm848CtwXrkhpxQpv2cM) | 3:11 | 2025-01-31 |  |
+| [Truck](https://open.spotify.com/track/1jbEwXmHPLx51r0f4Q8uZK) | [Marti Perramon](https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX) | [Truck](https://open.spotify.com/album/5XQm848CtwXrkhpxQpv2cM) | 3:11 | 2025-01-31 | 2025-03-21 |
 | [TRUTH](https://open.spotify.com/track/1bo5GZMwUZqgnyUZht8hjq) | [Feux](https://open.spotify.com/artist/4bnTHHCHsFujaD34vWr4tV) | [TRUTH](https://open.spotify.com/album/2ci5SqbzUbf64b78rQxx3E) | 2:29 | 2024-09-20 | 2024-12-06 |
 | [Turn it up](https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Turn it up](https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0) | 2:27 | 2024-06-27 | 2024-09-21 |
 | [Unaware](https://open.spotify.com/track/6QhK3GRhfNQYeHpKEx9X6Q) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [Sure](https://open.spotify.com/album/2Nz7KJZ4TSGHqWb4jGLPBA) | 3:30 | 2024-11-08 |  |
@@ -359,6 +361,7 @@
 | [What Happened.](https://open.spotify.com/track/4JHIRSicUIwvi997lxoAN3) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [15](https://open.spotify.com/album/5eDAiMfKjtgrk5RK7OTfvO) | 2:33 | 2025-02-28 |  |
 | [What I Need](https://open.spotify.com/track/4a2DRKfc3k6qTYXoSmczrI) | [rainbow frog biscuits](https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT) | [What I Need](https://open.spotify.com/album/1b9ubXjaWE0ODYPrwFyFVM) | 4:11 | 2024-06-27 | 2024-07-19 |
 | [What You Say](https://open.spotify.com/track/5IjvjSpS8yL2IlqbIWJ2lw) | [Lilah Pi](https://open.spotify.com/artist/3qVWjgrCJKbbtPwfpnmwKo) | [What You Say](https://open.spotify.com/album/4dGE1VdMghVArr8vC4CFUM) | 2:48 | 2024-10-17 | 2025-02-21 |
+| [when you leave](https://open.spotify.com/track/4dF54aAxNcXkoyDzzuGEJz) | [woody](https://open.spotify.com/artist/1MOlxrTqAReNKA5a5uFvC4) | [when you leave / when you were around](https://open.spotify.com/album/78993tLrhaUBssEaScVp0k) | 3:12 | 2025-03-21 |  |
 | [Where'd It Go Wrong?](https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Where'd It Go Wrong?](https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL) | 4:11 | 2025-01-17 |  |
 | [Who I've Touched](https://open.spotify.com/track/3LPhF2vMHaM7wjzloijjlV) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Who I've Touched](https://open.spotify.com/album/0DV8MNiQsNocjUkZDD4Jaw) | 4:00 | 2025-03-14 |  |
 | [Why is everyone a DJ?](https://open.spotify.com/track/3y3JcY50HJob6QfkGz66ti) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Why is everyone a DJ?](https://open.spotify.com/album/3yscJ56s1RNgZSZngqDBNa) | 2:28 | 2024-06-27 | 2024-07-12 |

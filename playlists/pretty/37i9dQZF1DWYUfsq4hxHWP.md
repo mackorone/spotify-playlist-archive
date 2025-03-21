@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 ### [Fresh Finds Country](https://open.spotify.com/playlist/37i9dQZF1DWYUfsq4hxHWP)
 
-> Fresh country music by independent artists every Wednesday\. Cover: Emily Ann Roberts, Artwork: Fanélie Muselier
+> Fresh country music by independent artists every Wednesday\. Cover: Grace Tyler, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,936 likes - 125 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,983 likes - 125 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 124 | [Trader Joe's Flowers](https://open.spotify.com/track/1ZurJQWYvMypPqbaQzG5dM) | [Saylor Brasseaux](https://open.spotify.com/artist/3VIXtCIfokondRC5h5bWdo), [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [Trader Joe's Flowers](https://open.spotify.com/album/2Zwi59CkOVIRe8RpLH794q) | 3:25 |
 | 125 | [When It Comes to You](https://open.spotify.com/track/0z0e8c5kcW8byDTMU86DKK) | [Braden Jamison](https://open.spotify.com/artist/55vPcZZrQVnzZMpqKrcDMR) | [When It Comes to You](https://open.spotify.com/album/0qlxnTO5EnK7owZCtEdwEJ) | 3:27 |
 
-Snapshot ID: `Z9rdJQAAAACwmnp9+uZISdFDL1GQBdE7`
+Snapshot ID: `Z9xIyQAAAAAPAVpmqYp73udkZW3z+oU6`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 
 > Restorative piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,119 likes - 188 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,126 likes - 188 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 | 57 | [Don't Get Paranoia](https://open.spotify.com/track/6lvm9rl3TGVzqdLceqEJaa) | [Ballad Whispers](https://open.spotify.com/artist/3QyV9imCsue32ApRYMq0rR) | [Don't Get Paranoia](https://open.spotify.com/album/7ES77QaQmjSFnB3HdF19YE) | 3:33 |
 | 58 | [Monism](https://open.spotify.com/track/7wY4Bww6zSZKdsqSWkl3nD) | [Elijah Edwards](https://open.spotify.com/artist/33e4XNrceV0ftUpzWWJWqS) | [Monism](https://open.spotify.com/album/3MTzr4U8cT0uOx29SVYCPX) | 2:27 |
 | 59 | [Asana](https://open.spotify.com/track/3xY6IqgHJYoqiYnzCh5dOF) | [Gaussianic](https://open.spotify.com/artist/5gT6r0gJj8ojpXmUgtks7S) | [Asana](https://open.spotify.com/album/7cW9uNU6tJk6BWGMOE9uQ6) | 3:13 |
-| 60 | [Perception](https://open.spotify.com/track/5LCcSBn0vzbeuPmJhAy32v) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Perception](https://open.spotify.com/album/6WkNUE9dt0NKlHvjo0eRmN) | 2:54 |
+| 60 | [Perception](https://open.spotify.com/track/5LCcSBn0vzbeuPmJhAy32v) | [Garcíia](https://open.spotify.com/artist/2dvwSbPOAs6EdV3vUMrgtL) | [Perception](https://open.spotify.com/album/6WkNUE9dt0NKlHvjo0eRmN) | 2:54 |
 | 61 | [Rossi](https://open.spotify.com/track/3wrECq7J2R1WB9Dryfgceh) | [Yogovic](https://open.spotify.com/artist/2DVhuoQjVrHA8E70vQsJA3) | [Rossi](https://open.spotify.com/album/6VMS0QflTLCgrbMFuEkXUh) | 2:28 |
 | 62 | [Soft Pillows](https://open.spotify.com/track/1koR6DtrGbAT6rg0WU7q2T) | [Zaga Lamino](https://open.spotify.com/artist/0EHo1tdaU2CYD55T7iS6cu) | [Soft Pillows](https://open.spotify.com/album/63jFtMGWeBIngVAoYqzon0) | 2:40 |
 | 63 | [Over the Clouds](https://open.spotify.com/track/2jD5bZSQZ71Psx4AmftwKP) | [Way Beyond](https://open.spotify.com/artist/7qZK8mnemfBOD9VVjRxB1Z) | [Over the Clouds](https://open.spotify.com/album/5EFwM2aewqIOzPMstSUY7J) | 3:23 |

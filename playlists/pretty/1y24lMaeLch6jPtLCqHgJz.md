@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 84,652 likes - 110 songs - 5 hr 43 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 84,645 likes - 110 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

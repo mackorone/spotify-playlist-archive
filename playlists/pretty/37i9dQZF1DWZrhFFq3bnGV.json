@@ -1,13 +1,33 @@
 {
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Littlefingers",
-  "num_followers": 108826,
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Nathania Jualim, Desmond Amos",
+  "num_followers": 108840,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8nUmQAAAADJlfDkvfxNPS91UWQvobEs",
+  "snapshot_id": "Z9xlsQAAAAD1Uzbz74c2z5DVwIkCygFG",
   "tracks": [
+    {
+      "added_at": "2025-03-20 19:00:01",
+      "album": {
+        "name": "Harmonia (feat. Desmond Amos)",
+        "url": "https://open.spotify.com/album/2wtfL0DRsq1rp5tzL7nSHO"
+      },
+      "artists": [
+        {
+          "name": "Nathania Jualim",
+          "url": "https://open.spotify.com/artist/3luT9sLplqCrraMvMDPRwK"
+        },
+        {
+          "name": "Desmond Amos",
+          "url": "https://open.spotify.com/artist/6tDcNMe4ou6JkX6TtaPabI"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Harmonia (feat. Desmond Amos)",
+      "url": "https://open.spotify.com/track/3XPVJWfWP1DH1Ly3EX8xbw"
+    },
     {
       "added_at": "2025-02-27 17:00:29",
       "album": {

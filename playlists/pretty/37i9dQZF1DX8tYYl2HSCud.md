@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tYYl2HSCud.md) - [plain]
 
 > Gentle ambient for a calm baby during bath time, playtime or baby massage.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,989 likes - 160 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,062 likes - 160 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tYYl2HSCud.md) - [plain]
 | 8 | [Essence](https://open.spotify.com/track/0KXcQySPBhAvDT5c6J1KxH) | [Rufus Ziegler](https://open.spotify.com/artist/3al3f0Fd8OQ3OJj4GfpE2f) | [Essence](https://open.spotify.com/album/3r12O5MUpkRuv3rABTy6zG) | 2:24 |
 | 9 | [Definite](https://open.spotify.com/track/5yCIRoiQ4DatjmySLxm20e) | [Arietis](https://open.spotify.com/artist/03NS5oA1PstBjCg4kwn6lH) | [Definite](https://open.spotify.com/album/4lkKRBJ6o0mrMgh1Wcn2AV) | 2:45 |
 | 10 | [Tears by the River](https://open.spotify.com/track/6eICHGb5GTaKUhmWEI7Ftr) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Tears by the River](https://open.spotify.com/album/1ZyIHFJiIiLOBMRwRAqaNF) | 2:32 |
-| 11 | [Continual](https://open.spotify.com/track/2kTefS4HKaVn1URttI7UyG) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Continual](https://open.spotify.com/album/7temH4aZVIMHdoQ6H3HhJd) | 2:57 |
+| 11 | [Continual](https://open.spotify.com/track/2kTefS4HKaVn1URttI7UyG) | [Garcíia](https://open.spotify.com/artist/2dvwSbPOAs6EdV3vUMrgtL) | [Continual](https://open.spotify.com/album/7temH4aZVIMHdoQ6H3HhJd) | 2:57 |
 | 12 | [Archimedes](https://open.spotify.com/track/7JD5pmj7dqDmLGAarMgWYD) | [Alfa Cognitive](https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM) | [Archimedes](https://open.spotify.com/album/6wVDnC1pOc8e3274c7Ep0c) | 3:13 |
 | 13 | [When The Day Fades](https://open.spotify.com/track/2zmweAUpApR2KRZV9Xca8v) | [Salomon Isle](https://open.spotify.com/artist/48J1kuqZgr2pNtsN8BxhZu) | [When The Day Fades](https://open.spotify.com/album/7eqQS1uXmbwUk9weF1Cps4) | 2:31 |
 | 14 | [Inform Earth](https://open.spotify.com/track/4dHlwvU02IBRSqUWPkollu) | [Silas Luminance](https://open.spotify.com/artist/1DIbK2TCw2wS7DagbMu8jp) | [Inform Earth](https://open.spotify.com/album/1liOZbEG0zTEvT1wp67J8j) | 2:22 |
@@ -133,7 +133,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tYYl2HSCud.md) - [plain]
 | 123 | [Laudica](https://open.spotify.com/track/0jKuEzT2k8D8nIU7djaVol) | [Hontoni](https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4) | [Laudica](https://open.spotify.com/album/3w6DKUjpFPIg6ziELxtfTK) | 2:36 |
 | 124 | [Eternal Rest](https://open.spotify.com/track/0cmhNtPuQPQPeJl536CvVX) | [Long Lake](https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr) | [Eternal Rest](https://open.spotify.com/album/31zDFGa0tjwiRQc897Pri9) | 3:18 |
 | 125 | [Calmness](https://open.spotify.com/track/3ZjO9JL84czoWKZLmeIqU2) | [Matheo Lyon](https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4) | [Rare Lights](https://open.spotify.com/album/6UQVAkdfBQy3w90s6daUZY) | 2:58 |
-| 126 | [Straight Ahead](https://open.spotify.com/track/15SPWU4M4H0yhK5Nto68Kb) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Frictionless](https://open.spotify.com/album/0MUMMXAt41woVXxQ5BssVh) | 2:56 |
+| 126 | [Straight Ahead](https://open.spotify.com/track/15SPWU4M4H0yhK5Nto68Kb) | [Garcíia](https://open.spotify.com/artist/2dvwSbPOAs6EdV3vUMrgtL) | [Frictionless](https://open.spotify.com/album/0MUMMXAt41woVXxQ5BssVh) | 2:56 |
 | 127 | [Everlasting](https://open.spotify.com/track/3l529KyJjHujuyAe6nULCg) | [Ella Wass](https://open.spotify.com/artist/3eZTGNMGlHLHDZ5tSMsM2K) | [Everlasting](https://open.spotify.com/album/6f041mXslcgEF7YcnXzf1d) | 2:40 |
 | 128 | [By the Seaside](https://open.spotify.com/track/7KAQD0hOEik8MhNdrsbkTM) | [Wolfgang Snow](https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD) | [By the Seaside](https://open.spotify.com/album/02RgacYRMWFmUhJdLTG6sq) | 2:45 |
 | 129 | [Shelter](https://open.spotify.com/track/6AOdCocb5K5qoqtgJJZfbv) | [Armando Mago](https://open.spotify.com/artist/3G03DUCoeCCsWqlZRlvakU) | [Shelter](https://open.spotify.com/album/6T315JLO4N7RDtHYMRt2Vx) | 2:25 |

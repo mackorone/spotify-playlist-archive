@@ -287,6 +287,28 @@
     },
     {
       "album": {
+        "name": "Roxi",
+        "url": "https://open.spotify.com/album/381pico3dKrtKOi7Dh59at"
+      },
+      "artists": [
+        {
+          "name": "Amir Eid",
+          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
+        },
+        {
+          "name": "Sara Moullablad",
+          "url": "https://open.spotify.com/artist/09BtMGqleUcGUrhl5zxToM"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235056,
+      "name": "El Donia Hoss",
+      "url": "https://open.spotify.com/track/5jYoUlRMAsnccPRv0NJk60"
+    },
+    {
+      "album": {
         "name": "Makanak",
         "url": "https://open.spotify.com/album/28JsnP1Tne8lvFXMxPB7Pg"
       },
@@ -656,7 +678,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 198827,
       "name": "Lazim Ahkeelak",
       "url": "https://open.spotify.com/track/5bovnlTevkS4gSSYhCnlUI"

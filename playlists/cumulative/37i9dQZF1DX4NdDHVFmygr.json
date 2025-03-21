@@ -2663,6 +2663,24 @@
     },
     {
       "album": {
+        "name": "Gharam",
+        "url": "https://open.spotify.com/album/65buUKao3hIRYbi3Wi3W2g"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Gharam",
+      "url": "https://open.spotify.com/track/5rgsmHsWUhmTWTb1i5dNJH"
+    },
+    {
+      "album": {
         "name": "Ghazali (feat. Bryan Mg)",
         "url": "https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo"
       },

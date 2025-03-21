@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-210 songs - 8 hr 51 min
+212 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Quiet](https://open.spotify.com/track/2s7vQpVichRlRiyNuIPtKA) | [Naomi Coleman](https://open.spotify.com/artist/3Xv5X7d2v1UchIWXei1xHc) | [Quiet](https://open.spotify.com/album/4gpse5MnShhhOBEa4DDdnp) | 2:22 | 2023-05-09 | 2025-02-27 |
 | [Quiet Eyes](https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Quiet Eyes](https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0) | 2:21 | 2023-05-09 |  |
 | [Quietly, continually](https://open.spotify.com/track/7btf0vfKva9sZ8u4kj84kp) | [Jaquline Falsamo](https://open.spotify.com/artist/4mKpjCmlzJF2PgO8SKwFhK) | [Quietly, continually](https://open.spotify.com/album/0hwbRaVJAjhTTtUA8FE25Q) | 2:18 | 2023-05-09 | 2024-08-08 |
+| [Rays](https://open.spotify.com/track/1o23KVEUtj9M51iEGJg78o) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Rays](https://open.spotify.com/album/2AP9ZRgQEolXjRccHlPqw1) | 2:33 | 2025-03-20 |  |
 | [Residue](https://open.spotify.com/track/1G8rGktpVVsVB6k15w8VKk) | [Adam Estrin](https://open.spotify.com/artist/0RyjN3ANxbj9V5mG1WiYF4) | [Residue](https://open.spotify.com/album/0r7pTejrU8nkzap2IroW2z) | 2:26 | 2023-05-09 | 2024-02-14 |
 | [Reverie](https://open.spotify.com/track/58iu44DB0JdKTGXYfbIYMA) | [Yuko Kimura](https://open.spotify.com/artist/4sVQyVPaGQ1MzslDmkf8nn) | [Reverie](https://open.spotify.com/album/6UI7QQxBRpKU8lstoM4ncP) | 2:30 | 2024-03-05 |  |
 | [Romanze](https://open.spotify.com/track/3voEoccU1Hg1QdE0j4qxw1) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Romanze](https://open.spotify.com/album/5h6IMQWryeG5cqZepQdKSn) | 2:11 | 2023-05-09 | 2025-03-13 |
@@ -173,6 +174,7 @@
 | [Simple Pleasures](https://open.spotify.com/track/2D66MDdbYaJyDuw53Vtju4) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Simple Pleasures](https://open.spotify.com/album/2X5SruBiLwtcWV86lflqqE) | 2:51 | 2024-09-03 |  |
 | [Sincere](https://open.spotify.com/track/3COEj6CCw5iG6ykRZ0LuKf) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Sincere](https://open.spotify.com/album/2FrUT2fF8TXPMGiiChOkph) | 2:07 | 2023-05-09 | 2025-03-13 |
 | [Slow Fall](https://open.spotify.com/track/0VZ71YhAIA1W3T71DJUi32) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Slow Fall](https://open.spotify.com/album/77O8mS4PmfryxmsKuMrM2S) | 2:58 | 2024-05-29 |  |
+| [Soft Echoes](https://open.spotify.com/track/6LgGNehVT0BpXcYqu4tWIc) | [Lukasz Allain](https://open.spotify.com/artist/3O2fAJFoOE1uxFK9ZXouLc) | [Soft Echoes](https://open.spotify.com/album/0j3nUOkfEKrduxG19DtbTJ) | 2:47 | 2025-03-20 |  |
 | [Softly](https://open.spotify.com/track/6zJ2ZTSniD1AA9haATbYf7) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Softly](https://open.spotify.com/album/1hpx4jwuWDg8ey7OujBBi4) | 2:06 | 2023-05-09 |  |
 | [Sophisticated](https://open.spotify.com/track/2PgpHY9g9k6ER1qEbwwFSJ) | [Gaspar Becerra](https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj) | [Sophisticated](https://open.spotify.com/album/2ybmczckxP8uMWeZVaC9rK) | 2:05 | 2024-05-01 |  |
 | [Still Yours](https://open.spotify.com/track/4HKlfqgc9zpAzEv4GCnEn9) | [Fleur Bloom](https://open.spotify.com/artist/0jKbA25jr47ARj2fA7CEjR) | [Still Yours](https://open.spotify.com/album/2pgj2Jhrw1u9TZuXHwZzvU) | 2:43 | 2024-08-07 |  |

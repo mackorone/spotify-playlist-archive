@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "SDM au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "Guy2Bezbar au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -2902,7 +2902,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 181460,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/0gyfvkV9v7FrgiSp1mGelq"
@@ -3142,6 +3142,28 @@
       "duration_ms": 109090,
       "name": "LA MELO EST DANS LA BOUNCE",
       "url": "https://open.spotify.com/track/6gwT3UA1hjbwT9Pfg0CMXK"
+    },
+    {
+      "album": {
+        "name": "La Pluie",
+        "url": "https://open.spotify.com/album/2OKLI9R3wAUhLghQ9u0FaZ"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236415,
+      "name": "La Pluie",
+      "url": "https://open.spotify.com/track/2PcRPX3wHqfNYCo7gmD4Zp"
     },
     {
       "album": {

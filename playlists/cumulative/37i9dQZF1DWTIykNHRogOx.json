@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo : Albin de la Simone",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo : Keren Ann",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -288,7 +288,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 229520,
       "name": "Chevaleresse",
       "url": "https://open.spotify.com/track/6XBHQyX3Xwvluxwwv6HEnz"
@@ -382,7 +382,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 196920,
       "name": "D'avoir v\u00e9cu assez",
       "url": "https://open.spotify.com/track/6tesGbKz1I8Cj4dqfbzUe5"
@@ -1201,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "La sublime solitude",
+        "url": "https://open.spotify.com/album/7relapF4f8EZZISJH5IkQG"
+      },
+      "artists": [
+        {
+          "name": "Keren Ann",
+          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192626,
+      "name": "La sublime solitude",
+      "url": "https://open.spotify.com/track/2j7W51fI2zpTfOkAigFJTX"
+    },
+    {
+      "album": {
         "name": "La symphonie des \u00e9clairs",
         "url": "https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH"
       },
@@ -1270,6 +1288,24 @@
       "duration_ms": 158906,
       "name": "Le c\u0153ur qui bat",
       "url": "https://open.spotify.com/track/2b98MOoFGhCdeYX4guZcmC"
+    },
+    {
+      "album": {
+        "name": "\u00c2ge Fleuve",
+        "url": "https://open.spotify.com/album/1YabzrupqpV16I18wxlJxP"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e0n\u00e7ois & The Atlas Mountains",
+          "url": "https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182080,
+      "name": "Le fil",
+      "url": "https://open.spotify.com/track/6KevXMXMvorazsXNK36W7q"
     },
     {
       "album": {
@@ -2263,6 +2299,24 @@
     },
     {
       "album": {
+        "name": "Saisons",
+        "url": "https://open.spotify.com/album/35KgRdnce5gzdP3yT3KZCB"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Gabrielle",
+          "url": "https://open.spotify.com/artist/01DNT67EQW5Pcj6BIXHfnZ"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Saisons",
+      "url": "https://open.spotify.com/track/2YJIsskQ7aoEBWTGhn38Gw"
+    },
+    {
+      "album": {
         "name": "SAKTI",
         "url": "https://open.spotify.com/album/6itM1YkHGuEUOtV4WEVV2a"
       },
@@ -2498,7 +2552,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 151009,
       "name": "Tout dit",
       "url": "https://open.spotify.com/track/5rgGCPU9u78iGV0yIdextZ"

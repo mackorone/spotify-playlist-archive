@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78 likes - 218 songs - 11 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 78 likes - 219 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -226,5 +226,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 216 | [You See With Me](https://open.spotify.com/track/1aMprQZZZwyJKM4kzxr995) | [Alex Gardner](https://open.spotify.com/artist/1rHR38xXeAXi7aVtjznK7Z) | [The Alex Gardner EP](https://open.spotify.com/album/3t8DPuRKT4Y9lDx1dEjbYH) | 4:18 |
 | 217 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
 | 218 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
+| 219 | [Love Me More](https://open.spotify.com/track/6671le3mOu7yT3oUlTVRH0) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Love Me More](https://open.spotify.com/album/06rcl5LtfkoY1MpzfOm48s) | 2:51 |
 
-Snapshot ID: `AbsgHgAAAAAhrKlWQGIy98hM4zgh8zb0`
+Snapshot ID: `AbsltAAAAACVPekiiFkxnHM72BaBHH+K`

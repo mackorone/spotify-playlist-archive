@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 594959,
+  "num_followers": 595241,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,26 @@
     {
       "added_at": "2025-03-14 04:00:08",
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/02jwqpA0J4oGG71M2gmikL"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Kiinjo",
+          "url": "https://open.spotify.com/artist/1oYyzyMTx629ZyyYENdhrZ"
+        }
+      ],
+      "duration_ms": 177487,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/5pIiOV7ZDmHWT1us1gTxJ4"
+    },
+    {
+      "added_at": "2025-03-14 04:00:08",
+      "album": {
         "name": "Know Me",
         "url": "https://open.spotify.com/album/1JWoMV7NPtzPRif40Nhhq1"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 210013,
       "name": "Turning Onto You - HNNY Remix",
       "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
-    },
-    {
-      "added_at": "2025-03-14 04:00:08",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/02jwqpA0J4oGG71M2gmikL"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Kiinjo",
-          "url": "https://open.spotify.com/artist/1oYyzyMTx629ZyyYENdhrZ"
-        }
-      ],
-      "duration_ms": 177487,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/5pIiOV7ZDmHWT1us1gTxJ4"
     },
     {
       "added_at": "2025-03-14 04:00:08",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-03-14 04:00:08",
       "album": {
-        "name": "Lucas",
-        "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
-      },
-      "artists": [
-        {
-          "name": "Cody Currie",
-          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe"
-    },
-    {
-      "added_at": "2025-03-14 04:00:08",
-      "album": {
         "name": "Cortados (Edit)",
         "url": "https://open.spotify.com/album/4TvhcQ8jpcSeWXcNMjlzG2"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 165000,
       "name": "Our Way - Edit",
       "url": "https://open.spotify.com/track/4IC1Sx6gOC9PSx5EYJR8yi"
+    },
+    {
+      "added_at": "2025-03-14 04:00:08",
+      "album": {
+        "name": "Lucas",
+        "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
+      },
+      "artists": [
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe"
     },
     {
       "added_at": "2025-03-14 04:00:08",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-03-14 04:00:08",
       "album": {
+        "name": "To Survive",
+        "url": "https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89"
+      },
+      "artists": [
+        {
+          "name": "Bondax",
+          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
+        }
+      ],
+      "duration_ms": 238316,
+      "name": "To Survive",
+      "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
+    },
+    {
+      "added_at": "2025-03-14 04:00:08",
+      "album": {
         "name": "Club Future Nostalgia (DJ Mix)",
         "url": "https://open.spotify.com/album/3W04W2HfQ5kVeByxfjbu2C"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 180040,
       "name": "Break My Heart / Cosmic Girl (Dimitri From Paris Edit) [Mixed]",
       "url": "https://open.spotify.com/track/6oCGHGu19poEz8iF3ZXHrj"
-    },
-    {
-      "added_at": "2025-03-14 04:00:08",
-      "album": {
-        "name": "To Survive",
-        "url": "https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89"
-      },
-      "artists": [
-        {
-          "name": "Bondax",
-          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
-        }
-      ],
-      "duration_ms": 238316,
-      "name": "To Survive",
-      "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
     },
     {
       "added_at": "2025-03-14 04:00:08",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2025-03-14 04:00:08",
       "album": {
-        "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
-        "url": "https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        },
-        {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        }
-      ],
-      "duration_ms": 213733,
-      "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
-      "url": "https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc"
-    },
-    {
-      "added_at": "2025-03-14 04:00:08",
-      "album": {
         "name": "Self Control",
         "url": "https://open.spotify.com/album/3vpqwBpHTyoAxx9576yUCj"
       },
@@ -1367,22 +1347,22 @@
     {
       "added_at": "2025-03-14 04:00:08",
       "album": {
-        "name": "Fighting Love",
-        "url": "https://open.spotify.com/album/6Qxp7Eabeeb3uxhKhyR5M3"
+        "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
+        "url": "https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ"
       },
       "artists": [
         {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
         },
         {
-          "name": "Mark Dedross",
-          "url": "https://open.spotify.com/artist/6MsLcUe13ynvSGDcCNswtZ"
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
         }
       ],
-      "duration_ms": 188640,
-      "name": "Fighting Love",
-      "url": "https://open.spotify.com/track/7Cb0qIfh54PuAkAob4ohh5"
+      "duration_ms": 213733,
+      "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
+      "url": "https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc"
     },
     {
       "added_at": "2025-03-14 04:00:08",
@@ -1435,6 +1415,26 @@
       "duration_ms": 243759,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
+    },
+    {
+      "added_at": "2025-03-14 04:00:08",
+      "album": {
+        "name": "Fighting Love",
+        "url": "https://open.spotify.com/album/6Qxp7Eabeeb3uxhKhyR5M3"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Mark Dedross",
+          "url": "https://open.spotify.com/artist/6MsLcUe13ynvSGDcCNswtZ"
+        }
+      ],
+      "duration_ms": 188640,
+      "name": "Fighting Love",
+      "url": "https://open.spotify.com/track/7Cb0qIfh54PuAkAob4ohh5"
     },
     {
       "added_at": "2025-03-14 04:00:08",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2025-03-14 04:00:08",
       "album": {
+        "name": "Don't Wanna Leave You",
+        "url": "https://open.spotify.com/album/4ff0XAf0LS9nT98hNT7dMT"
+      },
+      "artists": [
+        {
+          "name": "Tiffy Vera",
+          "url": "https://open.spotify.com/artist/0jUVqtJz5g4UnrFysOrbs0"
+        }
+      ],
+      "duration_ms": 231117,
+      "name": "Don't Wanna Leave You",
+      "url": "https://open.spotify.com/track/5Yorfyc51Q8mh5kQ6qXqif"
+    },
+    {
+      "added_at": "2025-03-14 04:00:08",
+      "album": {
         "name": "Come in, We're Open !",
         "url": "https://open.spotify.com/album/4b7xh2LjlAY3JQFuLcZMUH"
       },
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2025-03-14 04:00:08",
       "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
-      },
-      "artists": [
-        {
-          "name": "AUGUST 08",
-          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
-        }
-      ],
-      "duration_ms": 190948,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
-    },
-    {
-      "added_at": "2025-03-14 04:00:08",
-      "album": {
         "name": "Missing You (Michael Gray Remix)",
         "url": "https://open.spotify.com/album/10SDSrrDUmK3dDpmMXa1Gi"
       },
@@ -1631,6 +1631,22 @@
       "duration_ms": 179037,
       "name": "Missing You - Michael Gray Remix",
       "url": "https://open.spotify.com/track/0siT9iz6YIO3GlQbvzZEet"
+    },
+    {
+      "added_at": "2025-03-14 04:00:08",
+      "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
+      },
+      "artists": [
+        {
+          "name": "AUGUST 08",
+          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
+        }
+      ],
+      "duration_ms": 190948,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
     },
     {
       "added_at": "2025-03-14 04:00:08",
@@ -1675,6 +1691,22 @@
     {
       "added_at": "2025-03-14 04:00:08",
       "album": {
+        "name": "Hey Baby",
+        "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        }
+      ],
+      "duration_ms": 236307,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
+    },
+    {
+      "added_at": "2025-03-14 04:00:08",
+      "album": {
         "name": "Sing It Back (feat. Dana Williams)",
         "url": "https://open.spotify.com/album/6zAWHfeYvpUBY7hZ5TmnTp"
       },
@@ -1699,22 +1731,6 @@
     {
       "added_at": "2025-03-14 04:00:08",
       "album": {
-        "name": "Hey Baby",
-        "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
-      },
-      "artists": [
-        {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
-        }
-      ],
-      "duration_ms": 236307,
-      "name": "Hey Baby",
-      "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
-    },
-    {
-      "added_at": "2025-03-14 04:00:08",
-      "album": {
         "name": "Never Let It Go",
         "url": "https://open.spotify.com/album/1PzFixM8RxL243yEs2kd9Q"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 158405,
       "name": "Never Let It Go",
       "url": "https://open.spotify.com/track/1IwaKRghYbdynuLDiCbemP"
-    },
-    {
-      "added_at": "2025-03-14 04:00:08",
-      "album": {
-        "name": "Don't Wanna Leave You",
-        "url": "https://open.spotify.com/album/4ff0XAf0LS9nT98hNT7dMT"
-      },
-      "artists": [
-        {
-          "name": "Tiffy Vera",
-          "url": "https://open.spotify.com/artist/0jUVqtJz5g4UnrFysOrbs0"
-        }
-      ],
-      "duration_ms": 231117,
-      "name": "Don't Wanna Leave You",
-      "url": "https://open.spotify.com/track/5Yorfyc51Q8mh5kQ6qXqif"
     },
     {
       "added_at": "2025-03-14 04:00:08",
@@ -1787,54 +1787,6 @@
     {
       "added_at": "2025-03-14 04:00:08",
       "album": {
-        "name": "One On One (Cerrone Remix)",
-        "url": "https://open.spotify.com/album/7oNkv3hDFC2IhcwaLWnUDi"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
-        }
-      ],
-      "duration_ms": 204318,
-      "name": "One On One (Cerrone Remix)",
-      "url": "https://open.spotify.com/track/3Ca9i2FRXcN3sWDS83rcDM"
-    },
-    {
-      "added_at": "2025-03-14 04:00:08",
-      "album": {
-        "name": "In This Life (Cassara Remix)",
-        "url": "https://open.spotify.com/album/79dmSRSB2gVvIYaDdAoqhk"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Mandy Jones",
-          "url": "https://open.spotify.com/artist/4Qt2saTXkmEn8Nt9Gkv4UJ"
-        },
-        {
-          "name": "Cassara",
-          "url": "https://open.spotify.com/artist/7d3407kIJjwLd6N4aV4VLi"
-        }
-      ],
-      "duration_ms": 381639,
-      "name": "In This Life - Cassara Remix",
-      "url": "https://open.spotify.com/track/2rqlnBqDPUqTOVOhlVh9ew"
-    },
-    {
-      "added_at": "2025-03-14 04:00:08",
-      "album": {
         "name": "If You Want It",
         "url": "https://open.spotify.com/album/7J2SojuAJUqJWQg9828Equ"
       },
@@ -1867,6 +1819,54 @@
       "duration_ms": 252413,
       "name": "Colors - The Knocks Remix",
       "url": "https://open.spotify.com/track/6fQzphRU30nVU3B1gEs9EB"
+    },
+    {
+      "added_at": "2025-03-14 04:00:08",
+      "album": {
+        "name": "In This Life (Cassara Remix)",
+        "url": "https://open.spotify.com/album/79dmSRSB2gVvIYaDdAoqhk"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Mandy Jones",
+          "url": "https://open.spotify.com/artist/4Qt2saTXkmEn8Nt9Gkv4UJ"
+        },
+        {
+          "name": "Cassara",
+          "url": "https://open.spotify.com/artist/7d3407kIJjwLd6N4aV4VLi"
+        }
+      ],
+      "duration_ms": 381639,
+      "name": "In This Life - Cassara Remix",
+      "url": "https://open.spotify.com/track/2rqlnBqDPUqTOVOhlVh9ew"
+    },
+    {
+      "added_at": "2025-03-14 04:00:08",
+      "album": {
+        "name": "One On One (Cerrone Remix)",
+        "url": "https://open.spotify.com/album/7oNkv3hDFC2IhcwaLWnUDi"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        }
+      ],
+      "duration_ms": 204318,
+      "name": "One On One (Cerrone Remix)",
+      "url": "https://open.spotify.com/track/3Ca9i2FRXcN3sWDS83rcDM"
     },
     {
       "added_at": "2025-03-14 04:00:08",
@@ -1979,26 +1979,6 @@
     {
       "added_at": "2025-03-14 04:00:08",
       "album": {
-        "name": "Dancing On My Own",
-        "url": "https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee"
-      },
-      "artists": [
-        {
-          "name": "Flight Facilities",
-          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 239863,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF"
-    },
-    {
-      "added_at": "2025-03-14 04:00:08",
-      "album": {
         "name": "Lovers In A Past Life (with Rag'n'Bone Man) [LP Giobbi Remix]",
         "url": "https://open.spotify.com/album/6LnXGn4Jb2lSb819kklrgn"
       },
@@ -2019,6 +1999,26 @@
       "duration_ms": 173538,
       "name": "Lovers In A Past Life (with Rag'n'Bone Man) - LP Giobbi Remix",
       "url": "https://open.spotify.com/track/52yvH039KJk9IerF0NTYWm"
+    },
+    {
+      "added_at": "2025-03-14 04:00:08",
+      "album": {
+        "name": "Dancing On My Own",
+        "url": "https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 239863,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF"
     },
     {
       "added_at": "2025-03-14 04:00:08",
@@ -2047,26 +2047,6 @@
       "duration_ms": 227283,
       "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
       "url": "https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo"
-    },
-    {
-      "added_at": "2025-03-14 04:00:08",
-      "album": {
-        "name": "Tension (The Remixes)",
-        "url": "https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        }
-      ],
-      "duration_ms": 246533,
-      "name": "Tension (Chromeo Remix)",
-      "url": "https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8"
     },
     {
       "added_at": "2025-03-14 04:00:08",
@@ -2103,6 +2083,26 @@
     {
       "added_at": "2025-03-14 04:00:08",
       "album": {
+        "name": "Tension (The Remixes)",
+        "url": "https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 246533,
+      "name": "Tension (Chromeo Remix)",
+      "url": "https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8"
+    },
+    {
+      "added_at": "2025-03-14 04:00:08",
+      "album": {
         "name": "Tropics",
         "url": "https://open.spotify.com/album/1BnY0XdMPXBPzDXglO3tfG"
       },
@@ -2135,26 +2135,6 @@
     {
       "added_at": "2025-03-14 04:00:08",
       "album": {
-        "name": "Love In C Minor (Franc Moody Remix)",
-        "url": "https://open.spotify.com/album/4IKcf685Y9bcGgDYf80AaF"
-      },
-      "artists": [
-        {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
-        },
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Love In C Minor - Franc Moody Remix",
-      "url": "https://open.spotify.com/track/3sfcZAIZW6CK035kWl0mBD"
-    },
-    {
-      "added_at": "2025-03-14 04:00:08",
-      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/3wMMfTXXz9mA3lg0dDPrcZ"
       },
@@ -2171,6 +2151,26 @@
       "duration_ms": 167598,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/1UMvVsZlOd8jWPoh8ZvALl"
+    },
+    {
+      "added_at": "2025-03-14 04:00:08",
+      "album": {
+        "name": "Love In C Minor (Franc Moody Remix)",
+        "url": "https://open.spotify.com/album/4IKcf685Y9bcGgDYf80AaF"
+      },
+      "artists": [
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Love In C Minor - Franc Moody Remix",
+      "url": "https://open.spotify.com/track/3sfcZAIZW6CK035kWl0mBD"
     },
     {
       "added_at": "2025-03-14 04:00:08",
@@ -2227,6 +2227,22 @@
       "duration_ms": 296453,
       "name": "Be The One (feat. Yung Bae)",
       "url": "https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr"
+    },
+    {
+      "added_at": "2025-03-14 04:00:08",
+      "album": {
+        "name": "What Am I",
+        "url": "https://open.spotify.com/album/5uOtlVIBJkWWZxOk2RZSMm"
+      },
+      "artists": [
+        {
+          "name": "GUINNY",
+          "url": "https://open.spotify.com/artist/2We5sHePj1UqVLOFNU6IOK"
+        }
+      ],
+      "duration_ms": 191959,
+      "name": "What Am I",
+      "url": "https://open.spotify.com/track/20yID5I7qOSNLrxCAwgzHL"
     },
     {
       "added_at": "2025-03-14 04:00:08",
@@ -2291,22 +2307,6 @@
       "duration_ms": 219781,
       "name": "Maybe In Another Life - Bosq Sunset Boogie Mix",
       "url": "https://open.spotify.com/track/1MgedSTahfRlJnlYYzknSq"
-    },
-    {
-      "added_at": "2025-03-14 04:00:08",
-      "album": {
-        "name": "What Am I",
-        "url": "https://open.spotify.com/album/5uOtlVIBJkWWZxOk2RZSMm"
-      },
-      "artists": [
-        {
-          "name": "GUINNY",
-          "url": "https://open.spotify.com/artist/2We5sHePj1UqVLOFNU6IOK"
-        }
-      ],
-      "duration_ms": 191959,
-      "name": "What Am I",
-      "url": "https://open.spotify.com/track/20yID5I7qOSNLrxCAwgzHL"
     },
     {
       "added_at": "2025-03-14 04:00:08",
@@ -2411,18 +2411,30 @@
     {
       "added_at": "2025-03-14 04:00:08",
       "album": {
-        "name": "comic relief",
-        "url": "https://open.spotify.com/album/0atx8iYFmiwntVxFkr7Fou"
+        "name": "Free (Do What U Want) (feat. Jules Buckley)",
+        "url": "https://open.spotify.com/album/06ZWcaFN02Mq0IR3tjq5vt"
       },
       "artists": [
         {
-          "name": "David Bay",
-          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+          "name": "Pete Tong",
+          "url": "https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB"
+        },
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
         }
       ],
-      "duration_ms": 197733,
-      "name": "<3 beat",
-      "url": "https://open.spotify.com/track/5LU0XONtCOg9zduG7t0CZI"
+      "duration_ms": 224813,
+      "name": "Free (Do What U Want)",
+      "url": "https://open.spotify.com/track/6lVdhbN1xING12E926vWwI"
     }
   ],
   "unique_name": "Poolside Disco",

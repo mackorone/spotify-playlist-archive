@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Uwade
 
-1,597 songs - 3 day 23 hr 20 min
+1,598 songs - 3 day 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -769,6 +769,7 @@
 | [It's Getting Brighter](https://open.spotify.com/track/6D6Ha0bBtOhIJEjCEZFAmc) | [sleep well.](https://open.spotify.com/artist/1NXvLZUU2sXwWRG1bm54Lj) | [It's Getting Brighter](https://open.spotify.com/album/5qwg79tb8u4yO4AdTIurhd) | 3:26 | 2024-01-10 | 2024-02-29 |
 | [It's Gonna Take Some Time](https://open.spotify.com/track/2mpLoW6FABTmFSDUwEjSqB) | [Schaefer Llana](https://open.spotify.com/artist/2p4lD1A4m58EkqOjvcHRsq) | [It's Gonna Take Some Time](https://open.spotify.com/album/2hYOaBJ3oqvRfjhgnVLbvk) | 3:23 | 2022-11-09 | 2022-12-01 |
 | [It's Okay, They Won't Relate](https://open.spotify.com/track/6Ss05YXt0k0oK43xJiP0Om) | [NumbDome](https://open.spotify.com/artist/2dt0CUEEL1u22uqRoocBQP) | [It's Okay, They Won't Relate](https://open.spotify.com/album/2awLhFLJtqYtvY0lmpyDmW) | 5:01 | 2024-11-13 | 2024-12-05 |
+| [Ivory](https://open.spotify.com/track/3buEBjVfDsrezYouXNZc3a) | [Dylan Hughes](https://open.spotify.com/artist/1Tb9g8gVybdlkkqVgd7rUw) | [Ivory](https://open.spotify.com/album/7FSvVabr9D1Ou12IqwVxlg) | 2:47 | 2025-03-20 |  |
 | [I’m As High As A Summer Breeze](https://open.spotify.com/track/0Z4LYduluN3JE7RDW2Ai5C) | [Martha Scanlan](https://open.spotify.com/artist/7dQuJPkMekdj1XZ6VGZd5H), [Jon Neufeld](https://open.spotify.com/artist/00jMmlChBltAIEbZvg5G9f) | [I’m As High As A Summer Breeze / The Numbers](https://open.spotify.com/album/2Teh2SobRsCVneuQ9PUimC) | 2:42 | 2022-09-21 | 2022-12-01 |
 | [I’m Going To Let You Break My Heart](https://open.spotify.com/track/5zSmmQyDKH9kumCwKG6QDC) | [Hollow Hand](https://open.spotify.com/artist/2sF6pXUAPODESAtYHliKTp) | [Your Own Adventure](https://open.spotify.com/album/1QYFUpbZQXQ3eX5vVNpho5) | 3:18 | 2023-03-08 | 2023-04-21 |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-11-30 | 2023-01-12 |

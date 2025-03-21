@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: Xavi & Manuel Turizo
 
-410 songs - 1 day 0 hr 51 min
+411 songs - 1 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Mala](https://open.spotify.com/track/4sLW4tfhCMYPfiN7u8r9DT) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs) | [Deluxe](https://open.spotify.com/album/3oUyYJZkXbamjwIaHjJO3l) | 3:23 | 2022-03-04 | 2022-07-29 |
 | [Mala](https://open.spotify.com/track/35hNtYsDTSNEGwCcIGH2TV) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs) | [Mala](https://open.spotify.com/album/6aKN4CGU6ZC3at6PwB2K7s) | 3:24 | 2022-07-19 | 2022-09-03 |
 | [Me Bebí Tu Recuerdo](https://open.spotify.com/track/2jqmRUKoapLfY0zZmSwrZB) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Me Bebí Tu Recuerdo](https://open.spotify.com/album/6I5ClG7uNBguIeRRAkwLtW) | 3:28 | 2024-05-24 | 2024-10-12 |
+| [Me Dejaste Sin Nada](https://open.spotify.com/track/0UavF0Q269Su65jZ01GLWR) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Me Dejaste Sin Nada](https://open.spotify.com/album/59Zrwh7SdqB3GRt7SaE93e) | 3:01 | 2025-03-21 |  |
 | [Me Duele \- Remix](https://open.spotify.com/track/0a0JLEXyAPnGGYjXaeoKnc) | [Rodry\-Go!](https://open.spotify.com/artist/0It4ViJPDNNNXkK7u899xV), [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS), [DJ Paso](https://open.spotify.com/artist/2dOyCw1LXxFFT3UDNJhKIm) | [Me Duele \(Remix\)](https://open.spotify.com/album/56jdCrkHHIcwQQUZIxLJwh) | 3:21 | 2024-02-16 | 2024-06-01 |
 | [Me Emborrachare \- Bachata Radio Edit](https://open.spotify.com/track/3iGjLTDqokSuf6yYI83wzi) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS) | [Colores \(Bachata Is Taking Over!\)](https://open.spotify.com/album/0e60AWHAGO3t7mNZPImsKA) | 3:59 | 2022-03-04 | 2022-09-03 |
 | [Me EnRD](https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Me EnRD](https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW) | 3:05 | 2023-04-21 |  |

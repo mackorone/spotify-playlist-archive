@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-1,792 songs - 3 day 5 hr 30 min
+1,797 songs - 3 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,6 +540,7 @@
 | [Faller](https://open.spotify.com/track/7DwJKdM6LtlMkJ6gcaG5fE) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [Faller](https://open.spotify.com/album/6Wk0t9YDHCm6ZDv9zuywjJ) | 2:26 | 2021-12-16 | 2022-03-05 |
 | [Faller](https://open.spotify.com/track/0Nm39ZMoaUKl2b9M1cq3Yu) | [Zius](https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Faller](https://open.spotify.com/album/4Qtu3fMUqj2Nqqo81k4TI9) | 2:35 | 2024-10-17 | 2025-01-24 |
 | [Faller Ner](https://open.spotify.com/track/42BbDNhLL4mCCezhEtE8YD) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [Faller Ner](https://open.spotify.com/album/7p83WB1Z0pHzhNDQCO8Gqg) | 2:10 | 2022-01-11 | 2022-03-04 |
+| [Fantastic 4](https://open.spotify.com/track/5pBvnjyClaOKtANOlnmLhx) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [Fantastic 4](https://open.spotify.com/album/26MRFfThYjP3apDKglnXEt) | 2:08 | 2025-03-20 |  |
 | [Fantasy](https://open.spotify.com/track/3vFlpYjJgaTHe0B5LGNaBy) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Fantasy](https://open.spotify.com/album/0Zpv2L3usXFp6RWzcGBKeI) | 2:18 | 2023-06-10 | 2023-09-22 |
 | [Farlig Plats](https://open.spotify.com/track/1RlxNDtqX9EpoOim6LkNlC) | [Ahdam](https://open.spotify.com/artist/7sc53ILf25bAriqrCMgYTt) | [Farlig Plats](https://open.spotify.com/album/0C1U3FUHZjXUDe8EKW3rql) | 3:19 | 2022-01-06 | 2022-02-04 |
 | [Fast](https://open.spotify.com/track/2lhrWgmG4eNR9pZK3QV9zg) | [Malik](https://open.spotify.com/artist/2qsoFMht5lDvaEfjM84Zew) | [Fast](https://open.spotify.com/album/4Hr17Ze91T5fPlHtSMLS7W) | 2:21 | 2022-05-12 | 2022-06-03 |
@@ -823,6 +824,7 @@
 | [Jag Antar](https://open.spotify.com/track/3ODGkTNHaprWShP9J4zdEX) | [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [Jag Antar](https://open.spotify.com/album/6qqwuJu7WmMUvfW0tzVgdi) | 2:52 | 2022-03-19 | 2022-04-29 |
 | [JAG E VAN](https://open.spotify.com/track/6swIyUMh44LJpjIHscChgG) | [Revilo](https://open.spotify.com/artist/5dbZrhH9p0IwNpJjSsv7Ms) | [JAG E VAN](https://open.spotify.com/album/5HQFNN8t56NAm30i8b1n35) | 2:18 | 2024-05-30 | 2024-09-27 |
 | [Jag hörej](https://open.spotify.com/track/3rd81DcFcJgIc3AH6kRTCF) | [Lee Bloccboy](https://open.spotify.com/artist/2bclmMgssdBFMBzHa64tnw) | [Produkten av min ort](https://open.spotify.com/album/1j3TZBq7SRhuRyVoiFILl2) | 2:28 | 2023-07-13 | 2023-08-11 |
+| [Jag måste gå vidare](https://open.spotify.com/track/4xI1hEnomlZ5KR7uDNslNH) | [Dilly D](https://open.spotify.com/artist/4dpsCdvMMSKcvNref2AMCZ), [MPL](https://open.spotify.com/artist/5UoVu1GLlLIrD1sNod6xsm) | [Jag måste gå vidare](https://open.spotify.com/album/4Be5PVxo28CGh0crWJscCG) | 2:32 | 2025-03-20 |  |
 | [Jag Ser](https://open.spotify.com/track/4WVnmY9eSn1u12ozgKTQVZ) | [Moewgli](https://open.spotify.com/artist/2QQcLziAzX1VdysI6Mvsl0) | [Jag Ser](https://open.spotify.com/album/1oZPx1IthX5PdLnaRBEZma) | 2:31 | 2021-12-16 | 2022-01-28 |
 | [Jagad](https://open.spotify.com/track/2lHhXHeMMVlQzWlrhlSW2N) | [Aliammo](https://open.spotify.com/artist/17xEFtyxHsXwQEAy49fXCA) | [Jagad](https://open.spotify.com/album/2mxHKGJzoWGtt6e67mrEUS) | 2:28 | 2022-05-26 | 2022-06-08 |
 | [Jaguaren](https://open.spotify.com/track/6Ps8pZugWWSrTnWZDqWLl9) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw) | [Över Broarna](https://open.spotify.com/album/3v9SCu8MMIpxu3lVYF9Xvv) | 2:51 | 2023-05-25 | 2023-06-02 |
@@ -895,6 +897,7 @@
 | [KONTROLL](https://open.spotify.com/track/5sIRgBsPFruLgTs6Sx4dju) | [Ozz6y](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J) | [MÖRKET](https://open.spotify.com/album/6rprj086y65JMRbeE1k0r8) | 2:39 | 2023-05-03 | 2023-07-14 |
 | [Koppla Av](https://open.spotify.com/track/5x50GMyuhq1hDixrPzNs3S) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Koppla Av](https://open.spotify.com/album/2AbUZYMLbNr7PEQqKeWOXX) | 2:53 | 2023-05-25 | 2023-09-15 |
 | [Koppla av](https://open.spotify.com/track/3MOiHZI4V8KaDdSaOSOVMQ) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Einár](https://open.spotify.com/album/1LJeZmd25DaFGgjYDZzfVy) | 3:57 | 2022-06-07 | 2022-09-30 |
+| [Kriga](https://open.spotify.com/track/5E9vggvjMWnJdfX8RGP4Kd) | [Faaka](https://open.spotify.com/artist/5nQm2hG8NRsFvtQqc6Ahzx) | [Kriga](https://open.spotify.com/album/13pjLf4uNELarvRt4RRVfC) | 2:10 | 2025-03-20 |  |
 | [KRIGSZON](https://open.spotify.com/track/1p6i2cNojYsiwt7VKNs4QR) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [KRIGSZON](https://open.spotify.com/album/7iLEI7SDwBp5m1ALRE75Ig) | 2:25 | 2024-04-11 | 2024-05-10 |
 | [Krona & Klave](https://open.spotify.com/track/61irpUdlLoK263JMaCYMRJ) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [Krona & Klave](https://open.spotify.com/album/6suQQaqzcfkzo9T8HSHK2x) | 2:32 | 2022-05-20 | 2022-06-17 |
 | [Kroppskontakt](https://open.spotify.com/track/6RTLUX9OJUqiTeDRSisH1T) | [Tado](https://open.spotify.com/artist/4qc3USZURjRYYS8PTyRimP) | [Kroppskontakt](https://open.spotify.com/album/2b26TaEgrBVZPwJAH2Phgk) | 2:14 | 2024-07-04 | 2024-10-04 |
@@ -1079,6 +1082,7 @@
 | [MENINGEN](https://open.spotify.com/track/2kRFAIf4ZtJ9xVjhdl9HfV) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [MENINGEN](https://open.spotify.com/album/1vNmnD4WxhJd8m8qtiIiBR) | 3:38 | 2024-01-18 | 2024-02-23 |
 | [Mentalité RMX \(feat\. C.Gambino\)](https://open.spotify.com/track/1pFwmWdL9aPpajfRp7yzOI) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Mentalité RMX \(feat\. C.Gambino\)](https://open.spotify.com/album/3PvR88SHoZtUCi5lB4bDZJ) | 3:38 | 2023-04-06 | 2023-06-30 |
 | [MER](https://open.spotify.com/track/0FHJmO5wdJsNUCNEkd5OZ3) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [MER](https://open.spotify.com/album/3pKahzSD2oF35BNuc5i5Oi) | 2:33 | 2022-06-29 | 2022-09-16 |
+| [MER ÄN KÄRLEK](https://open.spotify.com/track/3YQFlD7ff3RsP2T2qHVgO7) | [NOËL](https://open.spotify.com/artist/4nUSL3ONua6ReBSIuYDKmf), [ABOW](https://open.spotify.com/artist/3y3dsdD0zyorLGIXds3JrB) | [MER ÄN KÄRLEK](https://open.spotify.com/album/5GyKDkQwLpednSPjYB6PG3) | 2:14 | 2025-03-20 |  |
 | [Merc](https://open.spotify.com/track/5USbq8FHcFhCDkgsfxW2TK) | [TMA](https://open.spotify.com/artist/7HooMDZWSlS5FmEzJKrHix), [Artie](https://open.spotify.com/artist/6QRV4iTMBVKyGEjmer3xoE) | [Merc](https://open.spotify.com/album/0Jh1rsDvZ4xKHnsippfPOJ) | 2:57 | 2023-03-09 | 2023-03-25 |
 | [Mexico](https://open.spotify.com/track/2bR9oBij6wXJkCMFS0ouvE) | [Rankz](https://open.spotify.com/artist/6w8VGrVtEFZLigAvNZKX7F), [CWOTAI](https://open.spotify.com/artist/5JVELXobPeVHNhy1VXeIyS), [Alex Lopesz](https://open.spotify.com/artist/7nJ49RC4Z3AM1cC4hzavDH) | [Mexico](https://open.spotify.com/album/6fh3fKUobSVkk2f8b5KPiS) | 3:15 | 2023-01-12 | 2023-01-27 |
 | [Mi Todo](https://open.spotify.com/track/2sUEH4jMnwudAXCGiY5gzg) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN) | [Mi Todo](https://open.spotify.com/album/0Vj5yHw9PlvkquKVMCGgy6) | 2:29 | 2022-07-14 | 2022-07-29 |
@@ -1788,6 +1792,7 @@
 | [Änglar & Demoner](https://open.spotify.com/track/7lH2M1mXCWurqdTsfPAn4w) | [TMA](https://open.spotify.com/artist/7HooMDZWSlS5FmEzJKrHix), [Nabzy](https://open.spotify.com/artist/69UGhJ5ofrMbgORlfOLiKg) | [Änglar & Demoner](https://open.spotify.com/album/4Kgrdtp4UJiW7rSJ7YcuGA) | 2:22 | 2024-10-31 | 2025-01-24 |
 | [Änglarna Viskar](https://open.spotify.com/track/3ssOvobBvn9Z7CBSPoWRLn) | [Kristian Mecha](https://open.spotify.com/artist/32wC2fDzN3i3p4gc0ORGzl), [Sebastian Stakset](https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI) | [Änglarna Viskar](https://open.spotify.com/album/5gFNSgRsgOZXlym2NeDwxt) | 2:44 | 2023-09-07 | 2023-09-29 |
 | [Ännu en dag](https://open.spotify.com/track/6I9IHT1nhfPhm2l6eCSxs4) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Ännu en dag](https://open.spotify.com/album/31WMGaw85a6KcbQq0Ngp31) | 2:26 | 2024-07-11 | 2024-10-25 |
+| [ÄR DU KVAR?](https://open.spotify.com/track/5u0pr0bLjfWZuJt08xWA2i) | [Ravin](https://open.spotify.com/artist/28VTtzM04dYRIMwaRTnAbm) | [ÄR DU KVAR?](https://open.spotify.com/album/1ELaFleNs2CVcs09HT4okI) | 2:02 | 2025-03-20 |  |
 | [Är vi menade?](https://open.spotify.com/track/3y3jdQwkICOWVezqGLlKlh) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h) | [Är vi menade?](https://open.spotify.com/album/1nfuuYNqMli9EDTGbYST2k) | 3:04 | 2025-02-13 |  |
 | [Ärligt](https://open.spotify.com/track/6fsAqTbnVFFsVsp5EJuV44) | [Georgios Barbanos](https://open.spotify.com/artist/0n4qD1LR233g1LdGBp1BEE), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Ärligt](https://open.spotify.com/album/2ml4G4oci9RVhR9fPozNma) | 1:50 | 2022-09-15 | 2022-11-08 |
 | [ÅH GUD](https://open.spotify.com/track/2of3rHLR7eUDcht86BoEeY) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V), [LLoke](https://open.spotify.com/artist/6ng8zL1LSR6gntI00mGS2Z) | [ÅH GUD](https://open.spotify.com/album/2MfDqUOdY3u4Zcv8JoNHKD) | 2:19 | 2023-11-23 | 2024-03-22 |

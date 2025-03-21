@@ -4,7 +4,7 @@
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-265 songs - 13 hr 39 min
+266 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Compass of Peace 528 Hz](https://open.spotify.com/track/3DTIsjo9y5o79xgRR90i4k) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Compass of Peace 528 Hz](https://open.spotify.com/album/7467l8lrE1EvSohK7cG8Ai) | 3:21 | 2023-07-10 |  |
 | [Compassion](https://open.spotify.com/track/4X1FGVMr950FLVWP1BL7jY) | [Heart Chakra](https://open.spotify.com/artist/3nBxiDHXKkLNSMM0mV0SvO) | [Compassion](https://open.spotify.com/album/5xCUhWSMtOoyFtqfhYGnWS) | 3:46 | 2023-09-25 | 2025-03-20 |
 | [Convergence](https://open.spotify.com/track/1MJC0r9sxYQkFWpoZ1thTk) | [Logan Ronfeld](https://open.spotify.com/artist/0pVfP276c80iwVhymewTp9) | [Convergence](https://open.spotify.com/album/6T3aTAlvUxsgTqKoRhRLr9) | 3:18 | 2023-12-15 |  |
+| [Crystalline Peace](https://open.spotify.com/track/1sMjBsTXhij9CkY8lrVEPL) | [Paleo Man](https://open.spotify.com/artist/6BJF1vVIcNf0aHOb6pAodc) | [Crystalline Peace](https://open.spotify.com/album/3NLWFavp9RVa11iLjh1g42) | 3:04 | 2025-03-19 |  |
 | [Dawn Of Day](https://open.spotify.com/track/7LQ2UvA5P0Jz11iyIox3S1) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Dawn Of Day](https://open.spotify.com/album/4oHYUmGNklzslLCviMZexe) | 3:10 | 2023-02-17 |  |
 | [Dawn Of Tomorrow](https://open.spotify.com/track/3ofVagnPk4aGFmQRBQNv8x) | [Nima Noi](https://open.spotify.com/artist/16FXG6RNdKhKWL12WRvBZy) | [Dawn Of Tomorrow](https://open.spotify.com/album/6Z0UF4HIF3PrwAjfm9gJt7) | 3:15 | 2023-07-10 |  |
 | [Depth](https://open.spotify.com/track/73EWZ5JKF4RJgH1HhQgDYp) | [Vau Dio](https://open.spotify.com/artist/1k5dDiIY8luiAY2LoCItXm) | [Depth](https://open.spotify.com/album/3pG7B1UYZ2czCpxylnCfFM) | 3:21 | 2024-11-14 | 2025-01-18 |
@@ -150,7 +151,7 @@
 | [Looking for the Self](https://open.spotify.com/track/284P9JZUDrh9YQjL78vR9g) | [faintface](https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs) | [Ascend](https://open.spotify.com/album/2g8yMFt1ZbttMXChvjKIDv) | 3:13 | 2023-02-17 | 2024-11-14 |
 | [Lost In The Moment](https://open.spotify.com/track/1EQjRFsujGt5MXWcZ3e41d) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Lost In The Moment](https://open.spotify.com/album/0XyDvrRxaVpme3G218gzJ5) | 3:32 | 2023-02-17 |  |
 | [low pass vision](https://open.spotify.com/track/03lJ5CU7yvsbZF5JkIzUPW) | [Irma Leko](https://open.spotify.com/artist/1v2ot5AsADBuFjviWNgOZR) | [low pass vision](https://open.spotify.com/album/0cfy8Vn44l69WpPLF4SlJF) | 3:18 | 2023-12-15 | 2025-03-20 |
-| [Lush](https://open.spotify.com/track/5SDlIDE7MvKEEfUwPvXrvN) | [Zoe Connelly](https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO) | [Lush](https://open.spotify.com/album/7magGCz2T7htZUF1uguOP2) | 2:16 | 2023-02-17 |  |
+| [Lush](https://open.spotify.com/track/5SDlIDE7MvKEEfUwPvXrvN) | [Zoe Connelly](https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO) | [Lush](https://open.spotify.com/album/7magGCz2T7htZUF1uguOP2) | 2:16 | 2023-02-17 | 2025-03-21 |
 | [L´unico Mondo](https://open.spotify.com/track/0GapXKIQZFt1bxbZ6m2QHN) | [Yoga Sonique](https://open.spotify.com/artist/0j9m2Hyt0u5GlBxHna1SO0) | [L´unico Mondo](https://open.spotify.com/album/3OTgcKoceFHbQPoSXTMx6D) | 2:37 | 2024-07-18 |  |
 | [Macromedas](https://open.spotify.com/track/4r2XXfxvEHvQoSz1FVsrVu) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Macromedas](https://open.spotify.com/album/2clBnik7oSq4iYjWCITgYl) | 2:33 | 2023-02-17 |  |
 | [Madrean Pine](https://open.spotify.com/track/4FrtOcGGkC5xRAf75zhAvu) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Madrean Pine](https://open.spotify.com/album/4hNbQqGMfpSUmLMnQyAEDL) | 3:09 | 2023-07-10 |  |

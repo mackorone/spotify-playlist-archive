@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Provoker
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,463 likes - 126 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,471 likes - 126 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

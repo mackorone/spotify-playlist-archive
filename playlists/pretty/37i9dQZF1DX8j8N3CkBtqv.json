@@ -1,6 +1,6 @@
 {
   "description": "Naye Indie gaano ka khazana, featuring Bombay the Artist, Gini and other exciting releases.",
-  "num_followers": 75756,
+  "num_followers": 75800,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,42 @@
     {
       "added_at": "2025-03-14 07:18:02",
       "album": {
+        "name": "Tera Yaar",
+        "url": "https://open.spotify.com/album/4paEMiAQuvK0tgsXhXNFFr"
+      },
+      "artists": [
+        {
+          "name": "KhoslaRaghu",
+          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Tera Yaar",
+      "url": "https://open.spotify.com/track/3tkNHs9hFAnMmCxWsUOpN9"
+    },
+    {
+      "added_at": "2025-03-14 07:18:02",
+      "album": {
+        "name": "Tu Jaise Dariya",
+        "url": "https://open.spotify.com/album/2Q7Jd69YDCL2l0rAHLZjfa"
+      },
+      "artists": [
+        {
+          "name": "Parth Srivastava",
+          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
+        },
+        {
+          "name": "Armaan Sharma",
+          "url": "https://open.spotify.com/artist/5nn7leCI4A1Kfp5Q0un5Pi"
+        }
+      ],
+      "duration_ms": 227177,
+      "name": "Tu Jaise Dariya",
+      "url": "https://open.spotify.com/track/75983zLFgUzgjJM45aY0Mn"
+    },
+    {
+      "added_at": "2025-03-14 07:18:02",
+      "album": {
         "name": "Mi Amore",
         "url": "https://open.spotify.com/album/5K34Wla7iosOmFiIzvsdY2"
       },
@@ -495,42 +531,6 @@
       "duration_ms": 186753,
       "name": "Mi Amore",
       "url": "https://open.spotify.com/track/5CowJeGu76t0nu1eXAIv3O"
-    },
-    {
-      "added_at": "2025-03-14 07:18:02",
-      "album": {
-        "name": "Tu Jaise Dariya",
-        "url": "https://open.spotify.com/album/2Q7Jd69YDCL2l0rAHLZjfa"
-      },
-      "artists": [
-        {
-          "name": "Parth Srivastava",
-          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
-        },
-        {
-          "name": "Armaan Sharma",
-          "url": "https://open.spotify.com/artist/5nn7leCI4A1Kfp5Q0un5Pi"
-        }
-      ],
-      "duration_ms": 227177,
-      "name": "Tu Jaise Dariya",
-      "url": "https://open.spotify.com/track/75983zLFgUzgjJM45aY0Mn"
-    },
-    {
-      "added_at": "2025-03-14 07:18:02",
-      "album": {
-        "name": "Tera Yaar",
-        "url": "https://open.spotify.com/album/4paEMiAQuvK0tgsXhXNFFr"
-      },
-      "artists": [
-        {
-          "name": "KhoslaRaghu",
-          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Tera Yaar",
-      "url": "https://open.spotify.com/track/3tkNHs9hFAnMmCxWsUOpN9"
     },
     {
       "added_at": "2025-03-14 07:18:02",
@@ -591,26 +591,6 @@
     {
       "added_at": "2025-03-14 07:18:02",
       "album": {
-        "name": "Gehna",
-        "url": "https://open.spotify.com/album/0dVqLmZ6elaPXs6G7N4Vco"
-      },
-      "artists": [
-        {
-          "name": "Rajat Midha",
-          "url": "https://open.spotify.com/artist/5FwKooTbhNi9Xmbv8r9hHK"
-        },
-        {
-          "name": "Ishaan Arora",
-          "url": "https://open.spotify.com/artist/58VXRRTZbBkLuUWjSX6FNb"
-        }
-      ],
-      "duration_ms": 160736,
-      "name": "Gehna",
-      "url": "https://open.spotify.com/track/1rnUR1yktDfh6VpxxhIpeb"
-    },
-    {
-      "added_at": "2025-03-14 07:18:02",
-      "album": {
         "name": "Re Manva",
         "url": "https://open.spotify.com/album/7j3Yi0ktAp66X3BjGioCbJ"
       },
@@ -627,18 +607,22 @@
     {
       "added_at": "2025-03-14 07:18:02",
       "album": {
-        "name": "Dil Qaabu Mein",
-        "url": "https://open.spotify.com/album/5RqfHFucuVZ8OqsI0h2a58"
+        "name": "Gehna",
+        "url": "https://open.spotify.com/album/0dVqLmZ6elaPXs6G7N4Vco"
       },
       "artists": [
         {
-          "name": "Suzonn",
-          "url": "https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h"
+          "name": "Rajat Midha",
+          "url": "https://open.spotify.com/artist/5FwKooTbhNi9Xmbv8r9hHK"
+        },
+        {
+          "name": "Ishaan Arora",
+          "url": "https://open.spotify.com/artist/58VXRRTZbBkLuUWjSX6FNb"
         }
       ],
-      "duration_ms": 182621,
-      "name": "Dil Qaabu Mein",
-      "url": "https://open.spotify.com/track/2qsllXmDFtGdwSQDsnnJgg"
+      "duration_ms": 160736,
+      "name": "Gehna",
+      "url": "https://open.spotify.com/track/1rnUR1yktDfh6VpxxhIpeb"
     },
     {
       "added_at": "2025-03-14 07:18:02",
@@ -667,6 +651,54 @@
     {
       "added_at": "2025-03-14 07:18:02",
       "album": {
+        "name": "Dil Qaabu Mein",
+        "url": "https://open.spotify.com/album/5RqfHFucuVZ8OqsI0h2a58"
+      },
+      "artists": [
+        {
+          "name": "Suzonn",
+          "url": "https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h"
+        }
+      ],
+      "duration_ms": 182621,
+      "name": "Dil Qaabu Mein",
+      "url": "https://open.spotify.com/track/2qsllXmDFtGdwSQDsnnJgg"
+    },
+    {
+      "added_at": "2025-03-14 07:18:02",
+      "album": {
+        "name": "Naam Kaam",
+        "url": "https://open.spotify.com/album/7ad0igZrnVtlIlTSl3oYS3"
+      },
+      "artists": [
+        {
+          "name": "Akash Kaushal",
+          "url": "https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84"
+        }
+      ],
+      "duration_ms": 198096,
+      "name": "Naam Kaam",
+      "url": "https://open.spotify.com/track/1AeNfDWNRVbgu50j3yacBZ"
+    },
+    {
+      "added_at": "2025-03-14 07:18:02",
+      "album": {
+        "name": "Kya Tum Mere",
+        "url": "https://open.spotify.com/album/06BGofXggJPSJL8weRFNeN"
+      },
+      "artists": [
+        {
+          "name": "boys from marsss",
+          "url": "https://open.spotify.com/artist/5UaZTW4g6ypNCmyXpFiYbU"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Kya Tum Mere",
+      "url": "https://open.spotify.com/track/3tTZ5tIhbeWF12mbITtHKe"
+    },
+    {
+      "added_at": "2025-03-14 07:18:02",
+      "album": {
         "name": "Ek Martaba Phir",
         "url": "https://open.spotify.com/album/6NUuU4Euu64fPd9nK7MJig"
       },
@@ -691,38 +723,6 @@
     {
       "added_at": "2025-03-14 07:18:02",
       "album": {
-        "name": "Kya Tum Mere",
-        "url": "https://open.spotify.com/album/06BGofXggJPSJL8weRFNeN"
-      },
-      "artists": [
-        {
-          "name": "boys from marsss",
-          "url": "https://open.spotify.com/artist/5UaZTW4g6ypNCmyXpFiYbU"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Kya Tum Mere",
-      "url": "https://open.spotify.com/track/3tTZ5tIhbeWF12mbITtHKe"
-    },
-    {
-      "added_at": "2025-03-14 07:18:02",
-      "album": {
-        "name": "Elahi",
-        "url": "https://open.spotify.com/album/0XOq8mfKGD2iggIOu1siqy"
-      },
-      "artists": [
-        {
-          "name": "Salman Elahi",
-          "url": "https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT"
-        }
-      ],
-      "duration_ms": 225283,
-      "name": "Raza",
-      "url": "https://open.spotify.com/track/5cFMFTe1mpaALdDEoaEw2G"
-    },
-    {
-      "added_at": "2025-03-14 07:18:02",
-      "album": {
         "name": "Ghum Sa",
         "url": "https://open.spotify.com/album/5ucmfaNkNRHHDwULn1DdQT"
       },
@@ -739,18 +739,18 @@
     {
       "added_at": "2025-03-14 07:18:02",
       "album": {
-        "name": "Naam Kaam",
-        "url": "https://open.spotify.com/album/7ad0igZrnVtlIlTSl3oYS3"
+        "name": "Elahi",
+        "url": "https://open.spotify.com/album/0XOq8mfKGD2iggIOu1siqy"
       },
       "artists": [
         {
-          "name": "Akash Kaushal",
-          "url": "https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84"
+          "name": "Salman Elahi",
+          "url": "https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT"
         }
       ],
-      "duration_ms": 198096,
-      "name": "Naam Kaam",
-      "url": "https://open.spotify.com/track/1AeNfDWNRVbgu50j3yacBZ"
+      "duration_ms": 225283,
+      "name": "Raza",
+      "url": "https://open.spotify.com/track/5cFMFTe1mpaALdDEoaEw2G"
     },
     {
       "added_at": "2025-03-14 07:18:02",

@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Something Over Nothing](https://open.spotify.com/track/7jWbNFfemzCd2icPYnNZEP) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx), [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Something Over Nothing](https://open.spotify.com/album/6avVFLrUE06U1uDZLjGIww) | 3:15 |
-| 2 | [Think About It](https://open.spotify.com/track/04s3GWkrMPdbJwYFY6UloW) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [think about it](https://open.spotify.com/album/4yHUj0gc9nEAhOtWeGPJMH) | 4:09 |
+| 2 | [think about it](https://open.spotify.com/track/04s3GWkrMPdbJwYFY6UloW) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [think about it](https://open.spotify.com/album/4yHUj0gc9nEAhOtWeGPJMH) | 4:09 |
 | 3 | [Moving Day](https://open.spotify.com/track/6JfneJGRDPMMZRGWaa3qvR) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Moving Day](https://open.spotify.com/album/48C20mTv1Y1y3kQf8LNRPE) | 2:16 |
 | 4 | [a thousand years with you](https://open.spotify.com/track/233VPpxOVb6MMaT5TdQbDj) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [a thousand years with you](https://open.spotify.com/album/6ySdcCBX7r6tkDd1WZgeaK) | 3:53 |
 | 5 | [You & I](https://open.spotify.com/track/7DnRoElnfuhsUas2KidnYs) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [You & I](https://open.spotify.com/album/6RHulc4OjXAK8XaB56dq0w) | 4:52 |

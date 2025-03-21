@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 
 > back up in the sky
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,135 likes - 114 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,182 likes - 114 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 | 24 | [Untitled](https://open.spotify.com/track/3ZS80IOKVp7d5sjNNZLa6G) | [Chakra Efendi](https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw) | [Untitled](https://open.spotify.com/album/4cZDjflHwCX5D5vWv0cpGL) | 2:29 |
 | 25 | [Kept The Water Inside Of My Mouth](https://open.spotify.com/track/1hvQTXyqGaV3A7xI8qdIGi) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [Kept The Water Inside Of My Mouth](https://open.spotify.com/album/6IFf5UeuhCUhknhc57xPdu) | 5:11 |
 | 26 | [forest green](https://open.spotify.com/track/4ARqMW0NJQpNtqnYHAgbjO) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [forest green](https://open.spotify.com/album/10avrb3XzKDttFJte6w2gR) | 3:27 |
-| 27 | [INSTANT DEATH](https://open.spotify.com/track/4CabzuTCgzHt57Fc6HqqPy) | [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g), [Goner](https://open.spotify.com/artist/7dNAnTCNymUovGgVoNhX3c) | [INSTANT DEATH](https://open.spotify.com/album/2RC4sBo7R0awCOBYT3aP6u) | 2:35 |
+| 27 | [INSTANT DEATH](https://open.spotify.com/track/4CabzuTCgzHt57Fc6HqqPy) | [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g), [Goner](https://open.spotify.com/artist/2zubb88j9raZCaoyXih0iT) | [INSTANT DEATH](https://open.spotify.com/album/2RC4sBo7R0awCOBYT3aP6u) | 2:35 |
 | 28 | [With You](https://open.spotify.com/track/0jQgW55Vkcjv00JVgJYcgW) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Streetwise](https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW) | 3:58 |
 | 29 | [senses](https://open.spotify.com/track/2zWbzraGIXmb58VgCuGFgv) | [april27](https://open.spotify.com/artist/058SQVFoFi7A55lusoKyzi) | [senses](https://open.spotify.com/album/28hi1Bwo2YrIoenhj1LXBE) | 2:50 |
 | 30 | [Lost In The Dark](https://open.spotify.com/track/63hTGiELUmNseEn3rVWLLi) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Lost In The Dark](https://open.spotify.com/album/1xCG1fQzBBG833J5JS3NnG) | 3:48 |

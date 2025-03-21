@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! MC Davo y Sandro Malandro en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,732 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,744 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 40 | [Allá Donde Voy](https://open.spotify.com/track/639XUxDc2pDTxoyUE8rB55) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB), [High Paw](https://open.spotify.com/artist/7EDCXmuq81vjBRU98KxD59) | [Allá Donde Voy](https://open.spotify.com/album/4jVCmeVqySAEjvCk4THlMp) | 4:25 |
 | 41 | [Prefiero El Money](https://open.spotify.com/track/5kDyKXMjD1FnQ0AHgHGe0T) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf), [Maicol La M](https://open.spotify.com/artist/618UAJwbx5iSzaLonHgx2R) | [Prefiero El Money](https://open.spotify.com/album/54zdtFvfoXJbKpMUlaNl0t) | 2:45 |
 | 42 | [CARA DEL NORTE](https://open.spotify.com/track/4ncRoHduCPgYZENngHf1xE) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt), [Cafun](https://open.spotify.com/artist/64QCc45M21l22dpQWHQjME) | [CARA DEL NORTE](https://open.spotify.com/album/3tBztD0cCSqr4p70vG3qmP) | 2:32 |
-| 43 | [Ser Feliz Es Gratis](https://open.spotify.com/track/4MmbFHU0gB3irYsertmTIc) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Cheche Cole](https://open.spotify.com/artist/1vTh9OJHlNi1sYgUTsqYVI) | [Filantropía](https://open.spotify.com/album/16SCjPR5vzDWzCHwe6CiYp) | 3:13 |
+| 43 | [Ser Feliz Es Gratis](https://open.spotify.com/track/4MmbFHU0gB3irYsertmTIc) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Cheche Cole](https://open.spotify.com/artist/1vTh9OJHlNi1sYgUTsqYVI), [Torttura](https://open.spotify.com/artist/6rJzlpIXeoECESI2th2xzA) | [Filantropía](https://open.spotify.com/album/16SCjPR5vzDWzCHwe6CiYp) | 3:13 |
 | 44 | [BANDO](https://open.spotify.com/track/2JEFRpSj148d2y5TnVHsxM) | [DELICTIVO](https://open.spotify.com/artist/1G8OSVGFYiuCJSMySDPCbE), [Coko Yamasaki](https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl), [Yung Yogi](https://open.spotify.com/artist/7KxIuXA0hEMJEwPmbSYk2O) | [BANDO](https://open.spotify.com/album/1tMjxAyC5FROdZRUeBZ5Mq) | 2:26 |
 | 45 | [Brooklyn](https://open.spotify.com/track/3mcrH5DyUu4mH6fZ4nkHzD) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Brooklyn](https://open.spotify.com/album/0QVCN1VLmGxVKkjVDyVse6) | 4:03 |
 | 46 | [Serpiente de madera](https://open.spotify.com/track/34GsNsAIY2JMoSqJLeZe7y) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Hordatoj](https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu), [Toly Ramirez](https://open.spotify.com/artist/0ueH2h7AsdPdQw3XqhBcJH) | [Serpiente de madera](https://open.spotify.com/album/1TDwszmPH8CsLyNnCmFrP1) | 3:44 |

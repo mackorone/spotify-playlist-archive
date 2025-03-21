@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-1,439 songs - 3 day 1 hr 32 min
+1,440 songs - 3 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2022-12-25 | 2024-12-28 |
 | [All You Had To Do Was Stay \(Taylor's Version\)](https://open.spotify.com/track/6GXgd1BPD9bUpqw5AntGV5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:13 | 2023-10-28 | 2023-10-30 |
 | [Altas Loucurinhas \(Uni Duni Tê\) \- Ao Vivo](https://open.spotify.com/track/2kBbHpJTc7MWs8F3XhClBD) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [MF No Rio, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2P8zuC56lsghvc5KHP4rfQ) | 3:22 | 2023-02-11 | 2023-05-17 |
-| [ALUGA\-SE \- Ao Vivo](https://open.spotify.com/track/2yx7F8ISwZ3VMEi9VptQGm) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN AO VIVO NA LUA](https://open.spotify.com/album/0U69VPPPmw2VGsQW37Iy57) | 3:04 | 2025-02-15 |  |
+| [ALUGA\-SE \- Ao Vivo](https://open.spotify.com/track/2yx7F8ISwZ3VMEi9VptQGm) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN AO VIVO NA LUA](https://open.spotify.com/album/0U69VPPPmw2VGsQW37Iy57) | 3:04 | 2025-02-15 | 2025-03-21 |
 | [Alô Ambev \(Segue Sua Vida\) \- Ao Vivo](https://open.spotify.com/track/5m5aY6S9ttfIG157xli2Rs) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Por Mais Beijos Ao Vivo \(ao Vivo\)](https://open.spotify.com/album/1Yg3QTRv9IGAWeJQb7q8bT) | 2:49 | 2021-03-27\* | 2021-06-16 |
 | [Alô Ex\-Amor \- Ao Vivo](https://open.spotify.com/track/2QCwoYDn4DRfjs4NhW2KpO) | [João Bosco e Gabriel](https://open.spotify.com/artist/21WAvVROZ83oUvJwFTG2dH), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn) | [Alô Ex\-Amor \(Ao Vivo\)](https://open.spotify.com/album/44Jrx7i4yt50pvFHbhIRgu) | 3:17 | 2021-03-29 | 2021-04-07 |
 | [Ama Sofre Chora](https://open.spotify.com/track/1iBMex2uCm0T0y70zsJklT) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Ama Sofre Chora](https://open.spotify.com/album/2mxSKnfXZemeBKnWX178gX) | 2:31 | 2021-05-09 | 2021-05-13 |
@@ -1366,6 +1366,7 @@
 | [Vem Desestressar](https://open.spotify.com/track/2SFLZ4b8md59HSDxmomQxx) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [Vem Desestressar](https://open.spotify.com/album/7mOeU0TxEZhzCFQkjnuRSV) | 4:00 | 2024-04-06 | 2024-04-12 |
 | [Vem Desestressar](https://open.spotify.com/track/5jrQZnYInM6YUjr2yFSa3E) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [prodbyeros](https://open.spotify.com/artist/2VykmpwjNmZuVWKiKnqonz) | [O Cara Do Momento, Vol\. 2](https://open.spotify.com/album/35C0UUdgV8mkuBaJrxbagf) | 4:03 | 2024-04-11 | 2024-07-22 |
 | [Vem Quebrando](https://open.spotify.com/track/7Iq55toOSSBCEoGuXxQSa1) | [Mc Danone](https://open.spotify.com/artist/5AkhuEE9FYontxsHqqmtNQ), [DJ THG](https://open.spotify.com/artist/2SvKC08nVN1betbwPtr3Lc), [Dj Hm Oliveira](https://open.spotify.com/artist/0XLrjcXTNJmPJTF3ByHJfV) | [Vem Quebrando](https://open.spotify.com/album/0aQOJ7eiOSyP0Yf3mwIEdF) | 2:28 | 2023-10-29 | 2023-11-27 |
+| [Veneno \- Ao Vivo](https://open.spotify.com/track/2tUIRX4wK0COoKEorOdEpZ) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Veneno \(Ao Vivo\)](https://open.spotify.com/album/715ssXI3hBwHzwgOlcQhSQ) | 2:58 | 2025-03-20 |  |
 | [Vento Forte](https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [Dj Tk](https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN) | [Vento Forte](https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT) | 2:03 | 2022-07-23 | 2022-12-24 |
 | [VERMELHO](https://open.spotify.com/track/4EVzu5mYyigjyLrryKbZs7) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:32 | 2022-02-12 | 2022-06-18 |
 | [Versions of Me](https://open.spotify.com/track/2nkuIfizGlr456oUbGCBmZ) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:04 | 2022-04-14 | 2022-04-16 |

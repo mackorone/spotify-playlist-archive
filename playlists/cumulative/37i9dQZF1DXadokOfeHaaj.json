@@ -1887,6 +1887,24 @@
     },
     {
       "album": {
+        "name": "Feel Free",
+        "url": "https://open.spotify.com/album/6xwNQOnPKZfUVeSV9A8vVf"
+      },
+      "artists": [
+        {
+          "name": "KURT.",
+          "url": "https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182372,
+      "name": "Feel Free",
+      "url": "https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt"
+    },
+    {
+      "album": {
         "name": "Feel It For You",
         "url": "https://open.spotify.com/album/5JsQ0nnJ1jzG6QsjZyIh0F"
       },
@@ -2160,6 +2178,28 @@
       "duration_ms": 196796,
       "name": "Hannah (the sun)",
       "url": "https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a"
+    },
+    {
+      "album": {
+        "name": "Heartfalls (feat. Khazali)",
+        "url": "https://open.spotify.com/album/0pav2XJdIIb7cswufb8ZwF"
+      },
+      "artists": [
+        {
+          "name": "Sonnee",
+          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
+        },
+        {
+          "name": "Khazali",
+          "url": "https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202815,
+      "name": "Heartfalls (feat. Khazali)",
+      "url": "https://open.spotify.com/track/6AlTHpfu0unvKz7uc3PFVv"
     },
     {
       "album": {
@@ -3812,7 +3852,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 189268,
       "name": "Petit Boy",
       "url": "https://open.spotify.com/track/0MSN9A0nVONYW8E3Ml7k3E"
@@ -4016,6 +4056,32 @@
       "duration_ms": 187686,
       "name": "Rafters",
       "url": "https://open.spotify.com/track/3wyYvUZfeJRUPVW5PLaF4r"
+    },
+    {
+      "album": {
+        "name": "RED",
+        "url": "https://open.spotify.com/album/4Fj5dzZtzeM2ihL1lsIVJq"
+      },
+      "artists": [
+        {
+          "name": "LSDXOXO",
+          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161400,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/6zczxg1gPQ28v8yGjy6fq9"
     },
     {
       "album": {
@@ -4694,7 +4760,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 204533,
       "name": "Stranger's Town",
       "url": "https://open.spotify.com/track/5rrHJRGmkHUOQ3Wz25ESUF"
@@ -5288,7 +5354,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 236399,
       "name": "Trouble Symphony",
       "url": "https://open.spotify.com/track/6hu6bSo7Vsu4iv1zKvlCxJ"

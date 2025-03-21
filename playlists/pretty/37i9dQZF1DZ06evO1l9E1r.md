@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1l9E1r.md) - [plain]
 
 > This is Hildur Guðnadóttir\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,426 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,430 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1l9E1r.md) - [plain]
 | 49 | [It's Showtime](https://open.spotify.com/track/1iMpFOtfuVhjFqtDjEJEfb) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker: Folie à Deux \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB) | 2:49 |
 | 50 | [Speak Up](https://open.spotify.com/track/7J1u0DibcEonQFcZukC8XH) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Women Talking \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX) | 3:16 |
 
-Snapshot ID: `Z9i3gAAAAAD5WSY/iPsPHPBesHxtPpq/`
+Snapshot ID: `Z9oJAAAAAACiyLEx+MmWCu5paqkTwrBI`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,881 likes - 23 songs - 1 hr 31 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,882 likes - 24 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,5 +31,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 21 | [Magnólia](https://open.spotify.com/track/68DcdIbgA4vEektkulFWPZ) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tabua De Esmeralda](https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0) | 3:14 |
 | 22 | [If Not for You](https://open.spotify.com/track/0bTY3EvTFLdPALso8E7Eyq) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [New Morning](https://open.spotify.com/album/48efaobqOTbvnlxbETstey) | 2:41 |
 | 23 | [Atoms For Peace](https://open.spotify.com/track/1yr5rQnDL8QhJWCI6rPId8) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [The Eraser](https://open.spotify.com/album/4X8Y79gWo6xm7Osdapg58E) | 5:13 |
+| 24 | [Wood Cabin](https://open.spotify.com/track/2DvjHHtTjwlrMXyFKxPvXr) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Good Humor](https://open.spotify.com/album/35hVWd3uQFdosmj27cQIdZ) | 4:07 |
 
-Snapshot ID: `AAAMDJHWDmuywC0yRZrbyvxmlzStJnFP`
+Snapshot ID: `AAAMDdI25FKDCeEcCQDZGs/Xf8M/GHLj`

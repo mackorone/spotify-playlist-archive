@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: Yasemin Rosa",
+  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: Sel\u00fbt",
   "name": "Ke\u015fif",
   "tracks": [
     {
@@ -1101,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "De\u011ferlim'in Hikayesi",
+        "url": "https://open.spotify.com/album/1i6eiccWGAJXmSgTiOm2fW"
+      },
+      "artists": [
+        {
+          "name": "Sel\u00fbt",
+          "url": "https://open.spotify.com/artist/1HqUargxLzVB1RdGcFYZJd"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290742,
+      "name": "D\u00fcn\u00fcn Kokusu",
+      "url": "https://open.spotify.com/track/6DDDo3ZOTVRRYeXIq5bmFF"
+    },
+    {
+      "album": {
         "name": "D\u00dc\u015eLER\u0130M",
         "url": "https://open.spotify.com/album/5hBZZAzvX2Otm312ORebxl"
       },
@@ -1728,7 +1746,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 270000,
       "name": "\u0130stedi\u011finde Yaz",
       "url": "https://open.spotify.com/track/72i9BuzxgCh8M5tnoYkCNy"

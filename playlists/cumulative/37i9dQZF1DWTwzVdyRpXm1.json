@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Best of South Asian Music. Cover: Shubh",
+  "description": "Best of South Asian Music. Cover: Maanu, Annural Khalid",
   "name": "Desi Hits",
   "tracks": [
     {
@@ -647,6 +647,28 @@
     },
     {
       "album": {
+        "name": "Afsos",
+        "url": "https://open.spotify.com/album/0RaKe6idrXFUXsqxU4VmPa"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        },
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191752,
+      "name": "Afsos",
+      "url": "https://open.spotify.com/track/4Qm7r3ImER8S2Ori1gLMAf"
+    },
+    {
+      "album": {
         "name": "Afterhours",
         "url": "https://open.spotify.com/album/0gutaa3BZpZvwSL0eVRbP8"
       },
@@ -1140,7 +1162,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 165466,
       "name": "Aura",
       "url": "https://open.spotify.com/track/5shPYn8ItWhDUj9EUuJzpq"
@@ -1302,6 +1324,32 @@
       "duration_ms": 154666,
       "name": "Bandana",
       "url": "https://open.spotify.com/track/7KQdgW7QzNd9oPoCzjCU76"
+    },
+    {
+      "album": {
+        "name": "Bande 4",
+        "url": "https://open.spotify.com/album/7MtkRxJx2PFFHSzjRLda38"
+      },
+      "artists": [
+        {
+          "name": "Dr Zeus",
+          "url": "https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm"
+        },
+        {
+          "name": "Watan Sahi",
+          "url": "https://open.spotify.com/artist/60AHsnenfij85IExxs2456"
+        },
+        {
+          "name": "Jasmeen Akhtar",
+          "url": "https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184009,
+      "name": "Bande 4",
+      "url": "https://open.spotify.com/track/1eCJkMId2CBCWpukvmVHk2"
     },
     {
       "album": {
@@ -1586,7 +1634,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 178124,
       "name": "Bijliaan (From \"Badnaam\")",
       "url": "https://open.spotify.com/track/2jF2LdO4oB5nsj4Ylxwsoo"
@@ -3047,6 +3095,24 @@
     },
     {
       "album": {
+        "name": "Sicario",
+        "url": "https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153466,
+      "name": "Fell For You",
+      "url": "https://open.spotify.com/track/1JZPyJbEZRuU7Zl1iAiS5a"
+    },
+    {
+      "album": {
         "name": "Filhaal2 Mohabbat",
         "url": "https://open.spotify.com/album/7p6qCp3ddSDJatDUtBtgxp"
       },
@@ -3627,6 +3693,32 @@
     },
     {
       "album": {
+        "name": "Heer",
+        "url": "https://open.spotify.com/album/27XIdXAZ9IJ9UGqVjJzOcm"
+      },
+      "artists": [
+        {
+          "name": "Ali & Shjr",
+          "url": "https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy"
+        },
+        {
+          "name": "Haider Ali",
+          "url": "https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv"
+        },
+        {
+          "name": "Ali Raza",
+          "url": "https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250746,
+      "name": "Heer",
+      "url": "https://open.spotify.com/track/2618Fg2I7K5leCzDUhOjbr"
+    },
+    {
+      "album": {
         "name": "Heeriye (feat. Arijit Singh)",
         "url": "https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS"
       },
@@ -3704,6 +3796,28 @@
       "duration_ms": 175556,
       "name": "IDK HOW",
       "url": "https://open.spotify.com/track/5ouREJYZCYqwF0p7VeUtfH"
+    },
+    {
+      "album": {
+        "name": "Ik Kudi",
+        "url": "https://open.spotify.com/album/57mcLnJFis2e0ei2tilEVK"
+      },
+      "artists": [
+        {
+          "name": "wolf.cryman",
+          "url": "https://open.spotify.com/artist/43CbNTpTFxvw0F9UxMZVTO"
+        },
+        {
+          "name": "Arpit Bala",
+          "url": "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231111,
+      "name": "Ik Kudi",
+      "url": "https://open.spotify.com/track/6xNzHSmcG5KkagzwxEBPA0"
     },
     {
       "album": {
@@ -4570,7 +4684,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 181818,
       "name": "Katchi Sera - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/1zzejMGRYKP5XOa3FmzXfa"
@@ -4740,7 +4854,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 163297,
       "name": "Khwabeeda",
       "url": "https://open.spotify.com/track/2hYgz7q5qhBeRiKIdChC83"
@@ -4798,7 +4912,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 241201,
       "name": "Kinni Soni",
       "url": "https://open.spotify.com/track/3PBOmHjLtrPcc6GU3jWu0v"
@@ -5214,7 +5328,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 175200,
       "name": "Lock",
       "url": "https://open.spotify.com/track/6MOzgX8Rj8TpWhG7bd4ZWp"
@@ -6698,7 +6812,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 129606,
       "name": "Ok Hoye Paye Haan",
       "url": "https://open.spotify.com/track/5gMjDnTV0oGu0isxsdL4BX"
@@ -6890,6 +7004,28 @@
       "duration_ms": 231034,
       "name": "Pahadon Mein",
       "url": "https://open.spotify.com/track/4mIFaN3SWgBJlLjnyAMeg4"
+    },
+    {
+      "album": {
+        "name": "Pal Pal",
+        "url": "https://open.spotify.com/album/2PxW90KYw7dKSgRTwu45hS"
+      },
+      "artists": [
+        {
+          "name": "Afusic",
+          "url": "https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx"
+        },
+        {
+          "name": "AliSoomroMusic",
+          "url": "https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Pal Pal",
+      "url": "https://open.spotify.com/track/4LMlVCXHJtCE9abhmn0mYo"
     },
     {
       "album": {
@@ -7156,6 +7292,32 @@
       "duration_ms": 171272,
       "name": "Players",
       "url": "https://open.spotify.com/track/0MbOLfDcGk8ROHJYXJHu5c"
+    },
+    {
+      "album": {
+        "name": "Young G.O.A.T",
+        "url": "https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq"
+      },
+      "artists": [
+        {
+          "name": "Cheema Y",
+          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Jasmeen Akhtar",
+          "url": "https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "Police",
+      "url": "https://open.spotify.com/track/4DrDsY7ExVwT371fdjcjgA"
     },
     {
       "album": {
@@ -8288,7 +8450,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 151182,
       "name": "Sohna Mukhda",
       "url": "https://open.spotify.com/track/13HHZpr6Z7Uc1D1jiY6KK2"
@@ -8814,6 +8976,32 @@
       "duration_ms": 207157,
       "name": "Tauba Tauba (From \"Bad Newz\")",
       "url": "https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/3ZFyWbTnJbuAc2yCL4dHTQ"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186923,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/7KH7qQDC34EPT0sK3EJP3s"
     },
     {
       "album": {
@@ -9552,7 +9740,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 321225,
       "name": "Tum Se Hi",
       "url": "https://open.spotify.com/track/7eQl3Yqv35ioqUfveKHitE"
@@ -9840,6 +10028,32 @@
       "duration_ms": 236168,
       "name": "Watch Out",
       "url": "https://open.spotify.com/track/3ZzUOWnQuNxenx2MbZqtYq"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/28hNsbbvkDlH26ep3bZeWE"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "MixSingh",
+          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
+        },
+        {
+          "name": "Raj Ranjodh",
+          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/25jtUwCQfXwnxENh8Bvoj4"
     },
     {
       "album": {

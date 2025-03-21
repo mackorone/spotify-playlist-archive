@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > ¡Nos vemos el 2 de Noviembre en el bosque para la séptima edición del Hipnosis! 👁️🌳🏕️ Compra tus boletos <a href="https://www.hipnosismx.com/"> aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,479 likes - 30 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,480 likes - 30 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 6 | [Cometh The Storm](https://open.spotify.com/track/6W0VHHL8OPOFWUFDCZ7kJI) | [High On Fire](https://open.spotify.com/artist/1eiIIImNeUj3vpaocWqoOf) | [Cometh The Storm](https://open.spotify.com/album/6p9Ia4q3Vrep9dFshfWFTU) | 6:11 |
 | 7 | [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 3:50 |
 | 8 | [Ce matin\-là](https://open.spotify.com/track/7yieArGOFIdoGJv1V8hDr2) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 3:39 |
-| 9 | [Café Collonge](https://open.spotify.com/track/7bUn1hQq8BbJk9RE4S5Sf5) | [Maston](https://open.spotify.com/artist/7aE9KUqEEWrasYryOkJG7O), [L'éclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Souvenir](https://open.spotify.com/album/4rUTEX2s54Ls9Co09BMbCv) | 2:05 |
+| 9 | [Café Collonge](https://open.spotify.com/track/7bUn1hQq8BbJk9RE4S5Sf5) | [Maston](https://open.spotify.com/artist/7aE9KUqEEWrasYryOkJG7O), [L'Eclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Souvenir](https://open.spotify.com/album/4rUTEX2s54Ls9Co09BMbCv) | 2:05 |
 | 10 | [Empire](https://open.spotify.com/track/2dWFqWIBk09lft3bxh0YuD) | [Frankie and the Witch Fingers](https://open.spotify.com/artist/5UdQDFQ3wgUPuL5kiL7KqU) | [Data Doom](https://open.spotify.com/album/2vGRBjJ30vbHMNdGYV4VUV) | 7:28 |
-| 11 | [Disco Dino](https://open.spotify.com/track/2fwxOcgU4mZYomAD6bCStZ) | [L'éclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Polymood](https://open.spotify.com/album/43jf6TiIKBsUkYcXbcaXlN) | 5:48 |
+| 11 | [Disco Dino](https://open.spotify.com/track/2fwxOcgU4mZYomAD6bCStZ) | [L'Eclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Polymood](https://open.spotify.com/album/43jf6TiIKBsUkYcXbcaXlN) | 5:48 |
 | 12 | [M.E.X.I.C.O.](https://open.spotify.com/track/1yYhKkqxIAJM6fH3oDbe7p) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Midnight Boom](https://open.spotify.com/album/3X8OMpgoNyMvOEZSKvDjbh) | 1:39 |
 | 13 | [Slomo](https://open.spotify.com/track/0KYOthr76o5GlmYLEfp9OX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa) | 6:53 |
 | 14 | [Le voyage de Pénélope](https://open.spotify.com/track/2AFttonwFsCFpC6Cos9pcZ) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 3:10 |

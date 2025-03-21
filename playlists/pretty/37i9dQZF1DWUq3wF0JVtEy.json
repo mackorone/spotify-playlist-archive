@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 938476,
+  "num_followers": 938473,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -535,42 +535,6 @@
     {
       "added_at": "2025-03-14 05:04:11",
       "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Breathe Carolina",
-          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
-        }
-      ],
-      "duration_ms": 163124,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
-    },
-    {
-      "added_at": "2025-03-14 05:04:11",
-      "album": {
-        "name": "Midnight Trip",
-        "url": "https://open.spotify.com/album/6HNCtwAe16YWpp2i5HKbk6"
-      },
-      "artists": [
-        {
-          "name": "TOYZZ",
-          "url": "https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV"
-        }
-      ],
-      "duration_ms": 194545,
-      "name": "Midnight Trip",
-      "url": "https://open.spotify.com/track/0kcM5HzMLTc3K15an6nZcJ"
-    },
-    {
-      "added_at": "2025-03-14 05:04:11",
-      "album": {
         "name": "The Future Is Now - The Truth",
         "url": "https://open.spotify.com/album/1pa9ceQtw8p6Gl8EAY7ZIh"
       },
@@ -591,22 +555,58 @@
     {
       "added_at": "2025-03-14 05:04:11",
       "album": {
-        "name": "Levitate",
-        "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
+        "name": "Midnight Trip",
+        "url": "https://open.spotify.com/album/6HNCtwAe16YWpp2i5HKbk6"
       },
       "artists": [
         {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+          "name": "TOYZZ",
+          "url": "https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
+      "duration_ms": 194545,
+      "name": "Midnight Trip",
+      "url": "https://open.spotify.com/track/0kcM5HzMLTc3K15an6nZcJ"
+    },
+    {
+      "added_at": "2025-03-14 05:04:11",
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+        }
+      ],
+      "duration_ms": 163124,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
+    },
+    {
+      "added_at": "2025-03-14 05:04:11",
+      "album": {
+        "name": "Drop The Pressure",
+        "url": "https://open.spotify.com/album/1qBh6PFLZRe9HadEnxV1Bd"
+      },
+      "artists": [
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "Brooks",
+          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
+        }
+      ],
+      "duration_ms": 152812,
+      "name": "Drop The Pressure",
+      "url": "https://open.spotify.com/track/1uLSDYIvh11Zk8EnK1nDmd"
     },
     {
       "added_at": "2025-03-14 05:04:11",
@@ -627,6 +627,26 @@
       "duration_ms": 142666,
       "name": "Green Light Go",
       "url": "https://open.spotify.com/track/2K8bHEpQrszPmMNitybhQh"
+    },
+    {
+      "added_at": "2025-03-14 05:04:11",
+      "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
     },
     {
       "added_at": "2025-03-14 05:04:11",
@@ -667,26 +687,6 @@
       "duration_ms": 208125,
       "name": "Seismic",
       "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
-    },
-    {
-      "added_at": "2025-03-14 05:04:11",
-      "album": {
-        "name": "Drop The Pressure",
-        "url": "https://open.spotify.com/album/1qBh6PFLZRe9HadEnxV1Bd"
-      },
-      "artists": [
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        },
-        {
-          "name": "Brooks",
-          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
-        }
-      ],
-      "duration_ms": 152812,
-      "name": "Drop The Pressure",
-      "url": "https://open.spotify.com/track/1uLSDYIvh11Zk8EnK1nDmd"
     },
     {
       "added_at": "2025-03-14 05:04:11",
@@ -839,22 +839,18 @@
     {
       "added_at": "2025-03-14 05:04:11",
       "album": {
-        "name": "The Sound",
-        "url": "https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj"
+        "name": "C.R.E.A.M.",
+        "url": "https://open.spotify.com/album/7pOk3ct870S4hLB547f7VJ"
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+          "name": "Lukas Vane",
+          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
         }
       ],
-      "duration_ms": 155147,
-      "name": "The Sound",
-      "url": "https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm"
+      "duration_ms": 149562,
+      "name": "C.R.E.A.M.",
+      "url": "https://open.spotify.com/track/3sPnvTRfLlviMwOGbvjIug"
     },
     {
       "added_at": "2025-03-14 05:04:11",
@@ -871,6 +867,26 @@
       "duration_ms": 191818,
       "name": "F*CK THAT",
       "url": "https://open.spotify.com/track/3HxaXZ9pS1r3GFgv4Eh5sI"
+    },
+    {
+      "added_at": "2025-03-14 05:04:11",
+      "album": {
+        "name": "The Sound",
+        "url": "https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 155147,
+      "name": "The Sound",
+      "url": "https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm"
     },
     {
       "added_at": "2025-03-14 05:04:11",
@@ -907,22 +923,6 @@
     {
       "added_at": "2025-03-14 05:04:11",
       "album": {
-        "name": "C.R.E.A.M.",
-        "url": "https://open.spotify.com/album/7pOk3ct870S4hLB547f7VJ"
-      },
-      "artists": [
-        {
-          "name": "Lukas Vane",
-          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
-        }
-      ],
-      "duration_ms": 149562,
-      "name": "C.R.E.A.M.",
-      "url": "https://open.spotify.com/track/3sPnvTRfLlviMwOGbvjIug"
-    },
-    {
-      "added_at": "2025-03-14 05:04:11",
-      "album": {
         "name": "Nightbird",
         "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
       },
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-03-14 05:04:11",
       "album": {
-        "name": "Bass Is Pumpin'",
-        "url": "https://open.spotify.com/album/2O5wDef9IOKDNA0omNVvMH"
-      },
-      "artists": [
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Bass Is Pumpin'",
-      "url": "https://open.spotify.com/track/0IIAETPKS90tTMbcsOZu7J"
-    },
-    {
-      "added_at": "2025-03-14 05:04:11",
-      "album": {
         "name": "Arsonist",
         "url": "https://open.spotify.com/album/0itXC9BJZhqiNjNXFwwdln"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 135692,
       "name": "Arsonist",
       "url": "https://open.spotify.com/track/4bdQhbucGehpzEZQgxTv36"
+    },
+    {
+      "added_at": "2025-03-14 05:04:11",
+      "album": {
+        "name": "Bass Is Pumpin'",
+        "url": "https://open.spotify.com/album/2O5wDef9IOKDNA0omNVvMH"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Bass Is Pumpin'",
+      "url": "https://open.spotify.com/track/0IIAETPKS90tTMbcsOZu7J"
     },
     {
       "added_at": "2025-03-14 05:04:11",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2025-03-14 05:04:11",
       "album": {
-        "name": "Falling Into You",
-        "url": "https://open.spotify.com/album/4yB1ixQMLOxzor9O66AhGV"
-      },
-      "artists": [
-        {
-          "name": "Aspyer",
-          "url": "https://open.spotify.com/artist/3LaBw0YCv8D35w9AvePFtF"
-        },
-        {
-          "name": "Zander Shine",
-          "url": "https://open.spotify.com/artist/3BrRcxjO72qykq7gcCSxt6"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Falling Into You",
-      "url": "https://open.spotify.com/track/6kHsGxbqJV7CZJ9hoFWGmR"
-    },
-    {
-      "added_at": "2025-03-14 05:04:11",
-      "album": {
         "name": "Feeling Good",
         "url": "https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 166190,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/1lA8kHc8maFVVa8pDXw2BN"
+    },
+    {
+      "added_at": "2025-03-14 05:04:11",
+      "album": {
+        "name": "Falling Into You",
+        "url": "https://open.spotify.com/album/4yB1ixQMLOxzor9O66AhGV"
+      },
+      "artists": [
+        {
+          "name": "Aspyer",
+          "url": "https://open.spotify.com/artist/3LaBw0YCv8D35w9AvePFtF"
+        },
+        {
+          "name": "Zander Shine",
+          "url": "https://open.spotify.com/artist/3BrRcxjO72qykq7gcCSxt6"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Falling Into You",
+      "url": "https://open.spotify.com/track/6kHsGxbqJV7CZJ9hoFWGmR"
     },
     {
       "added_at": "2025-03-14 05:04:11",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-03-14 05:04:11",
       "album": {
-        "name": "North, West, South, East",
-        "url": "https://open.spotify.com/album/4RaPQf3X9EfNNqbS9LJR2u"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 147651,
-      "name": "North, West, South, East",
-      "url": "https://open.spotify.com/track/5wZCXsK5v970hRFkxXmcSa"
-    },
-    {
-      "added_at": "2025-03-14 05:04:11",
-      "album": {
         "name": "Champs \u00c9lys\u00e9es",
         "url": "https://open.spotify.com/album/7CiBz23MJz5cZz4IPclRu5"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2025-03-14 05:04:11",
       "album": {
-        "name": "Push Me",
-        "url": "https://open.spotify.com/album/2jR3DoAR0UECP35xwdxJGt"
+        "name": "North, West, South, East",
+        "url": "https://open.spotify.com/album/4RaPQf3X9EfNNqbS9LJR2u"
       },
       "artists": [
         {
-          "name": "Dannic",
-          "url": "https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc"
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
         }
       ],
-      "duration_ms": 171093,
-      "name": "Push Me",
-      "url": "https://open.spotify.com/track/6IEEEHLFO50U9gs9hDj1Tk"
+      "duration_ms": 147651,
+      "name": "North, West, South, East",
+      "url": "https://open.spotify.com/track/5wZCXsK5v970hRFkxXmcSa"
     },
     {
       "added_at": "2025-03-14 05:04:11",
@@ -1383,6 +1367,22 @@
       "duration_ms": 194243,
       "name": "Quick Highs",
       "url": "https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0"
+    },
+    {
+      "added_at": "2025-03-14 05:04:11",
+      "album": {
+        "name": "Push Me",
+        "url": "https://open.spotify.com/album/2jR3DoAR0UECP35xwdxJGt"
+      },
+      "artists": [
+        {
+          "name": "Dannic",
+          "url": "https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc"
+        }
+      ],
+      "duration_ms": 171093,
+      "name": "Push Me",
+      "url": "https://open.spotify.com/track/6IEEEHLFO50U9gs9hDj1Tk"
     },
     {
       "added_at": "2025-03-14 05:04:11",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2025-03-14 05:04:11",
       "album": {
+        "name": "Run It!",
+        "url": "https://open.spotify.com/album/4suAzTG2sNogEbZztfseGt"
+      },
+      "artists": [
+        {
+          "name": "FAULHABER",
+          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
+        }
+      ],
+      "duration_ms": 139842,
+      "name": "Run It!",
+      "url": "https://open.spotify.com/track/0nlbvUhFP15mqJHBaiT8ZU"
+    },
+    {
+      "added_at": "2025-03-14 05:04:11",
+      "album": {
         "name": "Night Shift",
         "url": "https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 230625,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO"
-    },
-    {
-      "added_at": "2025-03-14 05:04:11",
-      "album": {
-        "name": "Run It!",
-        "url": "https://open.spotify.com/album/4suAzTG2sNogEbZztfseGt"
-      },
-      "artists": [
-        {
-          "name": "FAULHABER",
-          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
-        }
-      ],
-      "duration_ms": 139842,
-      "name": "Run It!",
-      "url": "https://open.spotify.com/track/0nlbvUhFP15mqJHBaiT8ZU"
     },
     {
       "added_at": "2025-03-14 05:04:11",
@@ -1867,6 +1867,26 @@
     {
       "added_at": "2025-03-14 05:04:11",
       "album": {
+        "name": "Cathedral (Piece Of Me) [feat. JEN]",
+        "url": "https://open.spotify.com/album/7bOJCwe874SKa24MfzyNEG"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "JEN",
+          "url": "https://open.spotify.com/artist/6DaSJnsDXVDcrHzru4MHrx"
+        }
+      ],
+      "duration_ms": 148809,
+      "name": "Cathedral (Piece Of Me) [feat. JEN]",
+      "url": "https://open.spotify.com/track/7CXln4Z9LfQdsPpXaPrDQn"
+    },
+    {
+      "added_at": "2025-03-14 05:04:11",
+      "album": {
         "name": "Addicted (feat. Haley Maze)",
         "url": "https://open.spotify.com/album/05P0tk5IqCsSBqgA1al8cK"
       },
@@ -1887,26 +1907,6 @@
       "duration_ms": 164500,
       "name": "Addicted (feat. Haley Maze)",
       "url": "https://open.spotify.com/track/1XplgLNxXve58U6Xhxn6B5"
-    },
-    {
-      "added_at": "2025-03-14 05:04:11",
-      "album": {
-        "name": "Cathedral (Piece Of Me) [feat. JEN]",
-        "url": "https://open.spotify.com/album/7bOJCwe874SKa24MfzyNEG"
-      },
-      "artists": [
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        },
-        {
-          "name": "JEN",
-          "url": "https://open.spotify.com/artist/6DaSJnsDXVDcrHzru4MHrx"
-        }
-      ],
-      "duration_ms": 148809,
-      "name": "Cathedral (Piece Of Me) [feat. JEN]",
-      "url": "https://open.spotify.com/track/7CXln4Z9LfQdsPpXaPrDQn"
     },
     {
       "added_at": "2025-03-14 05:04:11",

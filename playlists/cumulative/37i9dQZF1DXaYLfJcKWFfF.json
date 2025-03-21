@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Sena Dagadu",
+  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Lady Donli",
   "name": "Afro Indie",
   "tracks": [
     {
@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 182770,
       "name": "Bouquet",
       "url": "https://open.spotify.com/track/4wb0iKaIklho8XLLvN3LlN"
@@ -554,7 +554,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 188906,
       "name": "Clair De Lune",
       "url": "https://open.spotify.com/track/756ty0Bv8lSNQZ00ylKSJd"
@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 238237,
       "name": "HIGH SPEDE",
       "url": "https://open.spotify.com/track/01OW8EwHqMLnUysHiLT9zE"
@@ -1469,6 +1469,28 @@
     },
     {
       "album": {
+        "name": "Isineke",
+        "url": "https://open.spotify.com/album/4snBnZfS3Aogw2OzWwbmr3"
+      },
+      "artists": [
+        {
+          "name": "Jabulile Majola",
+          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
+        },
+        {
+          "name": "Thando Zide",
+          "url": "https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206086,
+      "name": "Isineke",
+      "url": "https://open.spotify.com/track/0voNRJ0ndsSafNOZlkAGCB"
+    },
+    {
+      "album": {
         "name": "Isibuko",
         "url": "https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR"
       },
@@ -1644,6 +1666,24 @@
       "duration_ms": 232615,
       "name": "Justified",
       "url": "https://open.spotify.com/track/4JmakVNGzH6qD8yBtRXN1g"
+    },
+    {
+      "album": {
+        "name": "Keep On Loving Me (Biko Biko)",
+        "url": "https://open.spotify.com/album/2uRLG0A0JXYaXfe0zLCbrR"
+      },
+      "artists": [
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134181,
+      "name": "Keep On Loving Me (Biko Biko)",
+      "url": "https://open.spotify.com/track/6P6NBxeNQTQIu1ZGpoTwks"
     },
     {
       "album": {
@@ -2876,6 +2916,24 @@
       "duration_ms": 205048,
       "name": "Pusana",
       "url": "https://open.spotify.com/track/1tXSR1siT7TA16FY70Cy6E"
+    },
+    {
+      "album": {
+        "name": "Queenless King",
+        "url": "https://open.spotify.com/album/1qsCfUyoONLXINGP6SZV3V"
+      },
+      "artists": [
+        {
+          "name": "WITCH",
+          "url": "https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236880,
+      "name": "Queenless King",
+      "url": "https://open.spotify.com/track/4pujJGqX3SYNtFk0m5D2S7"
     },
     {
       "album": {

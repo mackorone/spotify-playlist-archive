@@ -1709,6 +1709,28 @@
     },
     {
       "album": {
+        "name": "MUEVE",
+        "url": "https://open.spotify.com/album/0aHGrlNRlAQKun79Tfr3qx"
+      },
+      "artists": [
+        {
+          "name": "Conrado",
+          "url": "https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e"
+        },
+        {
+          "name": "Blunted Vato",
+          "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204375,
+      "name": "MUEVE",
+      "url": "https://open.spotify.com/track/2Uz745kSKNipUt7g7JLIGr"
+    },
+    {
+      "album": {
         "name": "Mu\u00f1ecas - Tech House",
         "url": "https://open.spotify.com/album/7AUsQ81QJEgiCA9K84Arjf"
       },

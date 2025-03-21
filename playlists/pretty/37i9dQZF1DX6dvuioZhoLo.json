@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Orville Peck",
-  "num_followers": 311234,
+  "num_followers": 311248,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -1083,18 +1083,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Ramblin' Soul",
-        "url": "https://open.spotify.com/album/0lkkaseHHUBnHQMf4GDfvA"
+        "name": "Same Devil (feat. Brandi Carlile)",
+        "url": "https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO"
       },
       "artists": [
         {
-          "name": "Melissa Carper",
-          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 253080,
-      "name": "From What I Recall",
-      "url": "https://open.spotify.com/track/4vCu2i1WDukiV06xQUnCMj"
+      "duration_ms": 187466,
+      "name": "Same Devil (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1115,22 +1119,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Same Devil (feat. Brandi Carlile)",
-        "url": "https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO"
+        "name": "Ramblin' Soul",
+        "url": "https://open.spotify.com/album/0lkkaseHHUBnHQMf4GDfvA"
       },
       "artists": [
         {
-          "name": "Brandy Clark",
-          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Melissa Carper",
+          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
         }
       ],
-      "duration_ms": 187466,
-      "name": "Same Devil (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC"
+      "duration_ms": 253080,
+      "name": "From What I Recall",
+      "url": "https://open.spotify.com/track/4vCu2i1WDukiV06xQUnCMj"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Mint Condition",
-        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Long Haul",
-      "url": "https://open.spotify.com/track/64FAakgrlFtznRkDwgWAmg"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Comeback",
         "url": "https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 206729,
       "name": "Ice Cream and Liquor",
       "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Mint Condition",
+        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Long Haul",
+      "url": "https://open.spotify.com/track/64FAakgrlFtznRkDwgWAmg"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Magnolia Queen",
-        "url": "https://open.spotify.com/album/2iYnQ4u3aQqKx0fW6NvU8B"
-      },
-      "artists": [
-        {
-          "name": "Emily Scott Robinson",
-          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
-        }
-      ],
-      "duration_ms": 226784,
-      "name": "Marriage Ain't the End of Being Lonely",
-      "url": "https://open.spotify.com/track/2Z5aLcm4qBIXteTIzX1iMN"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "True Love's Face",
         "url": "https://open.spotify.com/album/1cHnfarRGbvB6PjVvq35dK"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 200480,
       "name": "True Love's Face",
       "url": "https://open.spotify.com/track/2NYYOnTEAIG6LXA8GjFmvd"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Magnolia Queen",
+        "url": "https://open.spotify.com/album/2iYnQ4u3aQqKx0fW6NvU8B"
+      },
+      "artists": [
+        {
+          "name": "Emily Scott Robinson",
+          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
+        }
+      ],
+      "duration_ms": 226784,
+      "name": "Marriage Ain't the End of Being Lonely",
+      "url": "https://open.spotify.com/track/2Z5aLcm4qBIXteTIzX1iMN"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Finger on the Button",
-        "url": "https://open.spotify.com/album/6M67smO8BLiTWRmCfny73r"
-      },
-      "artists": [
-        {
-          "name": "Blue Cactus",
-          "url": "https://open.spotify.com/artist/6rouro6xhJxK6NxCHLp26n"
-        }
-      ],
-      "duration_ms": 224132,
-      "name": "Finger on the Button",
-      "url": "https://open.spotify.com/track/50VFQDQZoTelHkraVW7jL3"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Bright Shadow",
         "url": "https://open.spotify.com/album/5iPNtCubSl6R02RY4jFFrO"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 170813,
       "name": "Flat Top Guitar",
       "url": "https://open.spotify.com/track/5XMZFXDY5DQOSFLsW1ykDy"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Finger on the Button",
+        "url": "https://open.spotify.com/album/6M67smO8BLiTWRmCfny73r"
+      },
+      "artists": [
+        {
+          "name": "Blue Cactus",
+          "url": "https://open.spotify.com/artist/6rouro6xhJxK6NxCHLp26n"
+        }
+      ],
+      "duration_ms": 224132,
+      "name": "Finger on the Button",
+      "url": "https://open.spotify.com/track/50VFQDQZoTelHkraVW7jL3"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Hey Little Girl",
-        "url": "https://open.spotify.com/album/2SpV2E885ekUdWCuVMZA3O"
-      },
-      "artists": [
-        {
-          "name": "Carli Brill",
-          "url": "https://open.spotify.com/artist/7fQgEsmOh72bgCsQjE7ATD"
-        }
-      ],
-      "duration_ms": 193998,
-      "name": "Hey Little Girl",
-      "url": "https://open.spotify.com/track/3r1mIdzbGOv386Lcx2nlpM"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Kindness of Strangers",
         "url": "https://open.spotify.com/album/0YNskLt7opNVnpNjkh3oeQ"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 210173,
       "name": "Kindness of Strangers",
       "url": "https://open.spotify.com/track/32QP97prqm0wjkHEqfbz19"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Hey Little Girl",
+        "url": "https://open.spotify.com/album/2SpV2E885ekUdWCuVMZA3O"
+      },
+      "artists": [
+        {
+          "name": "Carli Brill",
+          "url": "https://open.spotify.com/artist/7fQgEsmOh72bgCsQjE7ATD"
+        }
+      ],
+      "duration_ms": 193998,
+      "name": "Hey Little Girl",
+      "url": "https://open.spotify.com/track/3r1mIdzbGOv386Lcx2nlpM"
     },
     {
       "added_at": "2024-07-12 04:00:00",

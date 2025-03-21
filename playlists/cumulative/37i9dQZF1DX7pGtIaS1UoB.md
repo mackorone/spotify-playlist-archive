@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-393 songs - 23 hr 9 min
+394 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [哪裡來的勇氣](https://open.spotify.com/track/5JqnhLnwkayjT4dFEyPwDu) | [Da Tian Chen](https://open.spotify.com/artist/0vap3muSZLb1kqpPs1UmS6) | [一百種失戀的方法](https://open.spotify.com/album/1w2K9kDHi4I7n89bTOanMu) | 3:58 | 2022-06-06 | 2022-06-29 |
 | [喜歡](https://open.spotify.com/track/2fp2exMvOesqBQ1Km5Zut6) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh), [謝孟庭](https://open.spotify.com/artist/25iwdlQf9Cxdxhq8MQj8Pc) | [找到我](https://open.spotify.com/album/6u8wGLHZFB6H8HQRZ40L9G) | 3:42 | 2022-06-13 | 2022-07-26 |
 | [喜歡](https://open.spotify.com/track/7BeNe0U8z1qMi9NWCR4PUf) | [蔡瑞雪](https://open.spotify.com/artist/06i8SBkdXPHeibrUiuZ9fr) | [喜歡](https://open.spotify.com/album/5rAWjXBTzq1MCr7ranYgWv) | 3:36 | 2025-01-23 | 2025-02-07 |
+| [喜歡你比說喜歡你更容易](https://open.spotify.com/track/5tSgmaLq4GjHuyAcs0TCsu) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [喜歡你比說喜歡你更容易](https://open.spotify.com/album/6q3p7QtWtE260uTuw1UJqc) | 4:13 | 2025-03-20 |  |
 | [喜歡你的我](https://open.spotify.com/track/41P0c5wju22G8wSPVTMv1I) | [WiZY](https://open.spotify.com/artist/5VxlZjfWT6az0ANHGfEcwB), [游家雁 Addsalt](https://open.spotify.com/artist/7LbUHilFL9Fx3EsTxRUAJ4) | [喜歡你的我](https://open.spotify.com/album/1jyNQxZtcivCMkyM9a51B3) | 3:24 | 2024-09-19 | 2024-12-19 |
 | [因為你](https://open.spotify.com/track/5gYQqYiNNynwCQJX8mXQ1N) | [StellaVee](https://open.spotify.com/artist/130SQgBPtO40M6lKRS79Vi) | [朋友說](https://open.spotify.com/album/5nKggvkmeduAeWn6iCY5b1) | 3:05 | 2022-07-18 | 2022-07-21 |
 | [在你左右 \- 網劇《心動100秒》主題曲](https://open.spotify.com/track/51vZ7YbD7bxoPaLXRFUGu6) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus), [Felicia Kusumo](https://open.spotify.com/artist/7bQI4SEqo54mA0h1rdlNeg) | [在你左右 \- 網劇《心動100秒》主題曲](https://open.spotify.com/album/7heJz7mX6WqZwEmAFnYRvG) | 3:00 | 2022-06-13 | 2022-07-11 |
@@ -360,7 +361,7 @@
 | [行星戀](https://open.spotify.com/track/5FZj4n2DSe4GE3I2CZg2Qd) | [Goose 我鳥](https://open.spotify.com/artist/4h1sE1sVLVe4cRO4mn8mtN), [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [行星戀](https://open.spotify.com/album/49bwNau4JVyFHdPh4iEaaf) | 5:06 | 2022-06-06 | 2023-04-16 |
 | [要怎麼告訴你我多喜歡](https://open.spotify.com/track/5KNSwtUycRBr3R1ghys4FK) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO) | [你好嗎?](https://open.spotify.com/album/6ozfZvuJHfOjjgbfFhUqLj) | 3:46 | 2022-06-06 | 2022-07-29 |
 | [要怎麼告訴你我多喜歡 \(feat.理想混蛋 雞丁\)](https://open.spotify.com/track/3vfFrGe8h1VtO63Zku4KFk) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO), [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [你好嗎？](https://open.spotify.com/album/6ozfZvuJHfOjjgbfFhUqLj) | 3:46 | 2022-06-06 | 2025-02-14 |
-| [見到妳後](https://open.spotify.com/track/7i0xdGyjCGIXgSTFBLbuTK) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [見到妳後](https://open.spotify.com/album/2rXvTqjlU6c4qtPaH7qdcA) | 3:03 | 2022-08-08 |  |
+| [見到妳後](https://open.spotify.com/track/7i0xdGyjCGIXgSTFBLbuTK) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [見到妳後](https://open.spotify.com/album/2rXvTqjlU6c4qtPaH7qdcA) | 3:03 | 2022-08-08 | 2025-03-21 |
 | [親愛的你](https://open.spotify.com/track/0HA98hhDGR89kcdw9yVGEL) | [Gracie Grace](https://open.spotify.com/artist/0iHZYWswGYdIjSbfAreJIc) | [親愛的你](https://open.spotify.com/album/6eIjXEiW59q9GoIYFhEhDv) | 4:03 | 2023-01-30 | 2023-02-07 |
 | [計算浪漫](https://open.spotify.com/track/5o8bQhu2JHJcZJHZU29h1K) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [計算浪漫](https://open.spotify.com/album/22C5yglNIQFNxy9qpWoKEw) | 3:27 | 2025-02-13 | 2025-02-21 |
 | [話中有話](https://open.spotify.com/track/01Px3hieGERjCmNCxKo6q6) | [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj), [ShuShu](https://open.spotify.com/artist/5y7qzbjzMxzx02NonVOUkB) | [話中有話](https://open.spotify.com/album/0GiKD59QnLjkfyzAx32Cfn) | 3:11 | 2022-06-06 | 2022-07-29 |

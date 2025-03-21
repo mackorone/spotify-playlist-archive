@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,034 songs - 2 day 15 hr 31 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,038 songs - 2 day 15 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1042,5 +1042,9 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1032 | [Body](https://open.spotify.com/track/3lRh3BAgwNXBJ6tjtvc6ZF) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:30 |
 | 1033 | [Unforgivable](https://open.spotify.com/track/3iHORLQOsA5ytboS5DDFl4) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Unforgivable](https://open.spotify.com/album/14a6nZ2fG6wnCYkfBBRoc7) | 3:43 |
 | 1034 | [Want You So Bad](https://open.spotify.com/track/69Wh0ipeW1z2x78lOpsKuL) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [English Graffiti \(Expanded Edition\)](https://open.spotify.com/album/0aroGGkehVjsg8QCNDGjTK) | 4:18 |
+| 1035 | [Life's Too Short](https://open.spotify.com/track/4dcY1yNThcjgZ8T1YH96Db) | [Wild Party](https://open.spotify.com/artist/48PAAxWdIDbA4WHkHjgsEv) | [Phantom Pop](https://open.spotify.com/album/3raG7aYF8cqHX82yBPd7Qq) | 3:41 |
+| 1036 | [Gin and Juice](https://open.spotify.com/track/39QBkWKnap8wRSW4WB9OK0) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Doggystyle](https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP) | 3:31 |
+| 1037 | [WASH](https://open.spotify.com/track/6KPtG0aIKnSqszstXgH2NS) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [WASH](https://open.spotify.com/album/1G1RHhRuKnknYqMuprAT6A) | 3:39 |
+| 1038 | [KID AGAIN](https://open.spotify.com/track/62prK5eKq1U6qIzGvIRMdG) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [WASH](https://open.spotify.com/album/1G1RHhRuKnknYqMuprAT6A) | 3:19 |
 
-Snapshot ID: `AAAI0JkQE0Po3Zpcb8KnMFKreXecOnpo`
+Snapshot ID: `AAAI04GE7saHXrnM/CKho2vMlY4qvwIa`

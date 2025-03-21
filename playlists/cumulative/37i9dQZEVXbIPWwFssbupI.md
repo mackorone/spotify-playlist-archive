@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,223 songs - 4 day 21 hr 34 min
+2,224 songs - 4 day 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [A.V.S.D](https://open.spotify.com/track/0cs7ugM9egZgqFfaB8kEzv) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Skread](https://open.spotify.com/artist/6BbceEVcjow8mhQPYK3eBK) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 2:31 | 2023-12-02 | 2023-12-10 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-11-27 | 2022-06-12 |
 | [Abidal](https://open.spotify.com/track/02i6ZKG8DIUavJE4yMaBsH) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [Sicario](https://open.spotify.com/artist/0ajjnGmVt2aVGD70lDbVl6) | [AD VITAM ÆTERNAM](https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM) | 2:56 | 2024-02-10 | 2024-02-15 |
-| [Abracadabra](https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:43 | 2025-03-08 |  |
+| [Abracadabra](https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:43 | 2025-03-08 | 2025-03-21 |
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-04 | 2025-03-09 |
 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 | 2022-01-11 | 2022-03-15 |
 | [Acolyte \(feat\. Dadju & Ninho\)](https://open.spotify.com/track/3dAmEncotdt2zdvAJBSbCy) | [Gianni](https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [MRTHN](https://open.spotify.com/album/1NDrCoEwYxndcqfRJ3vQ8g) | 2:49 | 2023-03-18 | 2023-05-19 |
@@ -1124,7 +1124,7 @@
 | [La zalousie \(Interlude\)](https://open.spotify.com/track/59bW1eaRMxhMQlGvDhCTPW) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq) | 0:47 | 2021-11-14 | 2021-11-14 |
 | [Laboratoire](https://open.spotify.com/track/24JrEVHDfohup0ypuOV7os) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn) | 2:42 | 2023-07-28 | 2024-05-25 |
 | [Laboratoire](https://open.spotify.com/track/2GMXeFK2Zz6DqUP5LT9NHz) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 2:42 | 2023-03-11 | 2023-07-29 |
-| [Laboratoire](https://open.spotify.com/track/7wOgZ1otoKYDvKyQKP1sNZ) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/7kUEtGrWj083U6ppOmGAeQ) | 2:42 | 2024-05-24 | 2025-03-03 |
+| [Laboratoire](https://open.spotify.com/track/7wOgZ1otoKYDvKyQKP1sNZ) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/7kUEtGrWj083U6ppOmGAeQ) | 2:42 | 2024-05-24 |  |
 | [LAISSE MOI](https://open.spotify.com/track/2ImdwbujxKFxN1UxEvf2dD) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [LAISSE MOI](https://open.spotify.com/album/2H2opHZttuBFqxhBNssSkD) | 2:48 | 2023-09-12 | 2024-09-04 |
 | [Laisse tomber](https://open.spotify.com/track/258QqB2zhweDE2ZLEtT1GU) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 2:53 | 2022-02-05 | 2022-02-13 |
 | [Laisse\-moi tranquille.](https://open.spotify.com/track/2cZ00x4yqQtDl4AQIHMb1y) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [J'AI MENTI.](https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr) | 3:36 | 2024-11-16 | 2024-11-29 |
@@ -1244,7 +1244,7 @@
 | [L’AMOUR DE MA VIE](https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:33 | 2024-05-18 | 2024-05-24 |
 | [L’enfer](https://open.spotify.com/track/1CsuHmKOfCYxPoO4xjlAWV) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:09 | 2022-03-05 | 2022-04-06 |
 | [L’enfer](https://open.spotify.com/track/7bp3zmEvpHLa0h32nhDUkB) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [L’enfer](https://open.spotify.com/album/7bSSz8KnOpZaJor6Cs3GkM) | 3:09 | 2022-01-11 | 2022-03-06 |
-| [M'envoler](https://open.spotify.com/track/5tjcfD27bNYQiYObzIo9Ig) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf), [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [Moi c'est Jeck \(Réédition\)](https://open.spotify.com/album/4CmaFwK7czBwzPmX3GXWHH) | 3:09 | 2025-03-16 |  |
+| [M'envoler](https://open.spotify.com/track/5tjcfD27bNYQiYObzIo9Ig) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf), [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [Moi c'est Jeck \(Réédition\)](https://open.spotify.com/album/4CmaFwK7czBwzPmX3GXWHH) | 3:09 | 2025-03-16 | 2025-03-21 |
 | [M.A.L.A \(feat\. M Huncho\)](https://open.spotify.com/track/63Rv4Exb1rc43qYL9AOXsa) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 3:46 | 2022-07-02 | 2022-07-10 |
 | [M3lo](https://open.spotify.com/track/0wlaxCNEyKtftA8MLwfSQm) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [M3lo](https://open.spotify.com/album/6RxOieLN6NJcNObl0uK0cZ) | 2:18 | 2022-04-23 | 2022-04-30 |
 | [M3lo](https://open.spotify.com/track/7ELft1cx8anhsXE405kckI) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 2:18 | 2022-05-28 | 2022-06-05 |
@@ -1352,6 +1352,7 @@
 | [Meuda](https://open.spotify.com/track/4wNyrbY6B2Okii8VeKo2B2) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 2:32 | 2022-05-28 | 2024-02-07 |
 | [MEVTR](https://open.spotify.com/track/7hBJCiMzo1kZzzRfGOpWwE) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [QALF](https://open.spotify.com/album/62f3yVpi23o1YepGRLsSQI) | 2:45 | 2021-05-03 | 2021-05-07 |
 | [Mexicana](https://open.spotify.com/track/7JpUktJfNtDkWR8lye5UZz) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [Frères Ennemis](https://open.spotify.com/album/1HLUjcUDDsszfj7OIl6LGh) | 2:38 | 2024-01-27 | 2024-01-29 |
+| [Mi Amor](https://open.spotify.com/track/0LbuSkJMsSFTKCvGSweQQ4) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [H\-24](https://open.spotify.com/album/4wnVFYd03IAZ8NhoSFFd0X) | 3:45 | 2025-03-20 |  |
 | [Michael Jordan](https://open.spotify.com/track/6zUuYG5WmHSHNoZQ13TiT2) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf) | [Michael Jordan](https://open.spotify.com/album/56C3vM0iBhNvx6p3i29ugU) | 3:43 | 2024-05-02 | 2024-07-22 |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2022-04-21 | 2022-09-02 |
 | [Mignon tout plein](https://open.spotify.com/track/6ndhj3a2GDg2YiS1AvBVTC) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Chambre 140 \(Part.2\)](https://open.spotify.com/album/7vrXUFuevPiXzR76uGPbBZ) | 2:24 | 2024-01-27 | 2024-02-09 |

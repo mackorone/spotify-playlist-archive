@@ -2,9 +2,9 @@
 
 ### [Dominguêra](https://open.spotify.com/playlist/37i9dQZF1DXc1j0125Pa5C)
 
-> Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Grupo Benzadeus
+> Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Yan
 
-227 songs - 19 hr 22 min
+228 songs - 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Nosso Lance / No Meu Olhar / Uma Estrela \- Ao Vivo](https://open.spotify.com/track/3w9ZpncSzPhqcW3xq7e1ST) | [Samba da Ladeira](https://open.spotify.com/artist/0IB2uaFC6Xm2I9VSaUlesk) | [Samba da Ladeira \(Ao Vivo\)](https://open.spotify.com/album/3kXFjarRTF0HDevJfahQgP) | 5:39 | 2024-09-13 |  |
 | [Nunca Mais Sofrer / Outra Viagem \- Ao Vivo](https://open.spotify.com/track/2OCCxqPWhooXcxBWluViaq) | [Marquinhos Sensação](https://open.spotify.com/artist/1uN4dou3TaR8hMTIqAlrc6) | [Pintando O Samba De Prateado 2 \(Ao Vivo\)](https://open.spotify.com/album/0bLMqB7u2RymeA0Pe4dleR) | 4:26 | 2024-12-20 | 2025-01-31 |
 | [Não Foi a Toa / Farol das Estrelas \- Ao Vivo](https://open.spotify.com/track/4mhQo8A8WtBLGQSLVg3aM8) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Não Foi a Toa / Farol das Estrelas \(Ao Vivo\)](https://open.spotify.com/album/563rSGNhXO75ApFm3D9b3M) | 3:22 | 2024-11-29 |  |
+| [Não Fui Homem pra te merecer / Fica com Deus \- Ao Vivo](https://open.spotify.com/track/0FBTECK85YFQ1CW8sXmcJH) | [Yan](https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq) | [Pagodyando nas Alturas Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/0c9LmbBceBgx8thG1QUZ1u) | 4:31 | 2025-03-21 |  |
 | [Não Pedi pra Me Apaixonar / Encaixe Perfeito / Anjo Meu / Abandonado / Vício / Pura Adrenalina \- Ao Vivo](https://open.spotify.com/track/59dB1MQpnKVEh4Ibxgn8cl) | [Binho Simões](https://open.spotify.com/artist/3YYITXjPoYKyWyssTc4X12) | [Pagode do BS \(Ao Vivo\)](https://open.spotify.com/album/4WrIMWEi2j69QqDGuVeNQE) | 9:21 | 2024-05-24 | 2024-10-05 |
 | [Não Pedi Pra Me Apaixonar / S.O.S Paixão / Só De Olhar \- Ao Vivo](https://open.spotify.com/track/1oaKVDCIe5k2JXVqcoehlD) | [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8) | [Subúrbio, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/5XBQoMlbSi956F5MiEF1ar) | 4:09 | 2023-12-29 | 2024-08-23 |
 | [Não Tem Hora Nem Lugar / Sonhos E Planos \- Ao Vivo](https://open.spotify.com/track/4OFO8OHAUQTMK0erId2pl8) | [Akatu](https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq) | [Não Tem Hora Nem Lugar / Sonhos E Planos \(Ao Vivo\)](https://open.spotify.com/album/7pvPERAaD1rmTZOuY25yCV) | 4:02 | 2024-10-04 |  |
@@ -172,7 +173,7 @@
 | [Quem / Deixa Rolar / Homem Perfeito \- Ao Vivo](https://open.spotify.com/track/28Uap5Z1ln3bzEd61lbZGH) | [Billy SP](https://open.spotify.com/artist/4GH92X1Uuv583KVfSiQBxJ), [Cleverson Luiz](https://open.spotify.com/artist/1qsMWW4u7KkD22SErIjogd) | [Na Pagodeira, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/7InArBmaRfYqVlY7oBPvph) | 8:00 | 2023-12-29 |  |
 | [Quem De Nós Dois / Encostar Na Tua \- Ao Vivo](https://open.spotify.com/track/1o7TjGkJHqFmnT9ZOQlDfp) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN) | [Serenata da GG, Vol\. 2 \- Ao Vivo](https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs) | 5:05 | 2024-09-27 |  |
 | [Recaída / Vai Me Dando Corda / Adorei \- Ao Vivo](https://open.spotify.com/track/0nk5xq5UgNNPFpq9LmDuiC) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Confia \(Ao Vivo\)](https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w) | 5:00 | 2023-12-29 | 2024-02-24 |
-| [Recomeçar / Aperta Start / Cigana \- Ao Vivo](https://open.spotify.com/track/6k00rOJjLJVNBqzNRp3t4J) | [Pagode do Adame](https://open.spotify.com/artist/4GrG809bkgPIchC0oGU1Z0), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Recomeçar / Aperta Start / Cigana \(Ao Vivo\)](https://open.spotify.com/album/0aj3OaCixid3eeHN79qoGk) | 6:25 | 2024-11-08 |  |
+| [Recomeçar / Aperta Start / Cigana \- Ao Vivo](https://open.spotify.com/track/6k00rOJjLJVNBqzNRp3t4J) | [Pagode do Adame](https://open.spotify.com/artist/4GrG809bkgPIchC0oGU1Z0), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Recomeçar / Aperta Start / Cigana \(Ao Vivo\)](https://open.spotify.com/album/0aj3OaCixid3eeHN79qoGk) | 6:25 | 2024-11-08 | 2025-03-21 |
 | [Refém / Trovão / Cansei de Farra \- Ao Vivo](https://open.spotify.com/track/78yISFDMff0e2JHdteBGhc) | [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9) | [De Férias Com Presença, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/5tHQsUtyaphhjN9DOVZdcc) | 5:27 | 2024-03-08 |  |
 | [Reinventar / Alucinado / Dorme Com Deus \- Ao Vivo](https://open.spotify.com/track/3ldNWf81VCAO68UIGA3AiU) | [Vitor Limma](https://open.spotify.com/artist/2EQphX0SGBPXvRWS7DUyu1), [Pata de Urso](https://open.spotify.com/artist/3zZuSjl65xxjdtYUMTvbxA) | [Reinventar / Alucinado / Dorme Com Deus \(Ao Vivo\)](https://open.spotify.com/album/7amg22TylDWw2fC8XRAJIP) | 5:34 | 2023-12-29 | 2024-08-23 |
 | [Reinventar / Pra Ver o Sol Brilhar \- Ao Vivo](https://open.spotify.com/track/67hKgDUbY3ktUK241L94d7) | [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Belo \- 10 Anos de Sucesso \(Deluxe\)](https://open.spotify.com/album/2s5GAaP1y8Jw4QXvqc7r6a) | 5:59 | 2024-04-22 |  |

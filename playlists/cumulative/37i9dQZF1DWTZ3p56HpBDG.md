@@ -4,7 +4,7 @@
 
 > Best of South Asian diaspora\. Cover:  Nafeesisboujee
 
-252 songs - 13 hr 7 min
+255 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Fingertips](https://open.spotify.com/track/3bkKXGuX5ZDdr6y3dQYAmd) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Silver Linings](https://open.spotify.com/album/72T0alpDO0p68JS48Zswgu) | 4:15 | 2022-10-14 | 2022-11-13 |
 | [Fingertips](https://open.spotify.com/track/6PmwtLi01pMTkQvk4Hz7xc) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Fingertips](https://open.spotify.com/album/5AuoX8sA4NWGHO20Y47Fr3) | 4:15 | 2022-10-06 |  |
 | [Fingertips](https://open.spotify.com/track/7JZBTSbpVzSJwRUgHxvUIG) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Fingertips](https://open.spotify.com/album/5GeJw5dsJDahd3DLjPT3MJ) | 4:15 | 2022-10-14 | 2024-04-19 |
+| [Fire in Delhi](https://open.spotify.com/track/11869Pf6Z9ujZxvBmRdi8B) | [BombayMami](https://open.spotify.com/artist/6GssnSoFCEFhN0sdsaDbzT) | [Fire in Delhi](https://open.spotify.com/album/2SKzUbofypRTo8IVa6t36i) | 2:20 | 2025-03-20 |  |
 | [Firestarter](https://open.spotify.com/track/6OKflEmwo66otVCLryCSqt) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Firestarter](https://open.spotify.com/album/6gs8SxesV2lUoXo6x3PZWh) | 2:35 | 2021-11-10 | 2022-10-07 |
 | [Flash](https://open.spotify.com/track/5Qf9xsjIGRXnltWynliPv2) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [Flash](https://open.spotify.com/album/02sAO2mY4vylQKdXjPxlIT) | 2:41 | 2021-11-10 | 2022-06-21 |
 | [flip a coin](https://open.spotify.com/track/3zIhnOb5m3hWEtFjsaJzyO) | [Tepu](https://open.spotify.com/artist/5PeMo5hLLWstecqBEbWtHQ) | [flip a coin](https://open.spotify.com/album/4m6fvR66fT4uM8gE8t9Zej) | 2:34 | 2021-11-10 | 2022-07-19 |
@@ -149,6 +150,7 @@
 | [Mami](https://open.spotify.com/track/4zxnSs7bnFb6TisMem8Q7n) | [TASHAN](https://open.spotify.com/artist/5WcbzZ1zwRG5qtwmxXMJCB) | [Mami](https://open.spotify.com/album/3wYkr0Fwc8he14Kn6Hma6d) | 2:44 | 2021-11-10 | 2022-07-19 |
 | [Manzoor](https://open.spotify.com/track/3BhhplcKXDnZ8ZI5CmKUhp) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Manzoor](https://open.spotify.com/album/5UdzrqE7eV4Npo7E4tIQgw) | 2:50 | 2022-07-18 | 2022-10-07 |
 | [Mashallah \(feat\. Adam Saleh\)](https://open.spotify.com/track/7GDtl3xCUOGWt9zaqnOeKn) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Adam Saleh](https://open.spotify.com/artist/4i9TNpZ5lQbPWmMX4zvnNq) | [Mashallah \(feat\. Adam Saleh\)](https://open.spotify.com/album/541Kf2RU9qA2bPB2ji25QJ) | 2:50 | 2024-10-23 | 2025-01-24 |
+| [Mathematics \(feat\. Kano\)](https://open.spotify.com/track/68sOQ9M10Uy7eL8rhaWdyj) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4) | [Mathematics \(feat\. Kano\)](https://open.spotify.com/album/5JtKI0Ys4swduOVAnxVgVN) | 3:18 | 2025-03-20 |  |
 | [Medusa Eyes](https://open.spotify.com/track/0AL9Qcu83RCD8sAQVE9SxL) | [Robin Dey](https://open.spotify.com/artist/0ZvLuzOcZm4dxx7ycqDMYk) | [Medusa Eyes](https://open.spotify.com/album/4nzrTtS7ZxvfwMJ83fcVcv) | 3:21 | 2021-11-10 | 2022-06-21 |
 | [Mehbooba ft\. DYSTINCT](https://open.spotify.com/track/6OclUkv6J7pgbxf5ybDK3N) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Mehbooba ft\. DYSTINCT](https://open.spotify.com/album/2BIcDngOAdXuUHqTbcDHXs) | 3:54 | 2022-04-15 | 2022-07-19 |
 | [Melanin In The Hamptons](https://open.spotify.com/track/00vRKEBd2AMhEP5d014eIW) | [Dandila](https://open.spotify.com/artist/4o0fmWItqg6aEjvsDopr07) | [Melanin In The Hamptons](https://open.spotify.com/album/2GZcjgZBKZ4oPHDMYc4TLK) | 2:09 | 2021-11-10 | 2022-07-19 |
@@ -228,6 +230,7 @@
 | [Tension](https://open.spotify.com/track/2JUyPdhD8Mae0QHI6f2w6Z) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Sama Blake](https://open.spotify.com/artist/19jOqaZTvseWAgi4PaQJrd) | [I Am Zack Knight](https://open.spotify.com/album/5lySBRzqQIXmTZlz7jlJlC) | 2:48 | 2022-10-06 | 2024-03-21 |
 | [The One \- Remix](https://open.spotify.com/track/252m8skTRtylhGuekUaQO3) | [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [The One \(Remix\)](https://open.spotify.com/album/5EXguEMrFtPvXIY3ffsA5E) | 3:42 | 2021-11-10 | 2022-06-21 |
 | [the road](https://open.spotify.com/track/4bXPup4TDlsOf5YJA4xgoC) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [the road](https://open.spotify.com/album/3zOwc9sjMgxZeMV9AaLVKW) | 3:38 | 2021-11-10 | 2022-10-07 |
+| [theplaceicomefrom](https://open.spotify.com/track/3cy46uKgXCisg8mpVOTmSU) | [Akshara](https://open.spotify.com/artist/7j6UTsx4e5HxsHMPXCYy7Z) | [theplaceicomefrom](https://open.spotify.com/album/3OUdGq4xq834N0MZrDj8J7) | 2:04 | 2025-03-20 |  |
 | [This Time](https://open.spotify.com/track/2xlUfU2qsSF7yCrWhbowEv) | [TASHAN](https://open.spotify.com/artist/5WcbzZ1zwRG5qtwmxXMJCB) | [This Time](https://open.spotify.com/album/5aSeHV735ix30MlMb5tMYc) | 2:55 | 2021-11-10 | 2022-07-19 |
 | [Tick Tock](https://open.spotify.com/track/66RH0z4q8EdhzUQsxvLWgz) | [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Amber T](https://open.spotify.com/artist/3l09769b9P2lIBDooAON17), [K Dottie](https://open.spotify.com/artist/4A4EIU7CKjrhTMWDwU4tOq) | [Tick Tock](https://open.spotify.com/album/5xx3H6M7G9WPyrRwSwJ6b8) | 3:00 | 2021-11-10 | 2022-05-27 |
 | [Time](https://open.spotify.com/track/33mw6I77FXGPl5Xkcyo9nD) | [Nish](https://open.spotify.com/artist/3xyfJgRtCzUrNshzo4Deg9) | [Time](https://open.spotify.com/album/5SibuWhEb22evZYSw1M5Ve) | 2:59 | 2024-07-02 |  |

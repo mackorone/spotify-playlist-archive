@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-771 songs - 1 day 9 hr 28 min
+772 songs - 1 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Karma Chameleon](https://open.spotify.com/track/00jg6xfsu8dS4BkALzSFJw) | [Tropical Tide](https://open.spotify.com/artist/1WJJYyo9NHKxvjLtUoBBmW), [Edwardo Atlas](https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7) | [Karma Chameleon](https://open.spotify.com/album/3YT8asCpGOhvAaqBmuAppR) | 2:36 | 2025-02-09 |  |
 | [Keep Loving You](https://open.spotify.com/track/45V5YxZ4OJnUDSRDkTpYwN) | [Sooren](https://open.spotify.com/artist/2HqvRR6mYLfEDkghBJOr1V), [Johny Luv](https://open.spotify.com/artist/6LK4Fsjla1WqiT3ov734TL), [Johnny Chicago](https://open.spotify.com/artist/3zvkVa6tS4vVWltR4CLNV4) | [Keep Loving You](https://open.spotify.com/album/5pq3NnH4Rv8JyNylIIxCQm) | 2:41 | 2023-09-22 | 2024-06-01 |
 | [Keep Me Safe](https://open.spotify.com/track/0gevDsgwzD516yj7zxul8C) | [Planet Wave House](https://open.spotify.com/artist/0TtBVSCNHItUJOT8PEgsNd), [CRE](https://open.spotify.com/artist/4igo8DCgQozV9rIPs4K9us), [SOULWAY](https://open.spotify.com/artist/6XVrTtDDI2YcO6qKIIt1ck) | [Keep Me Safe](https://open.spotify.com/album/5RzqItNFbTtJhHDKcKbiZY) | 2:19 | 2024-11-03 | 2024-12-09 |
+| [Keep Me There](https://open.spotify.com/track/0YBiWhC6TlGtkOYutzzMtu) | [Bonna](https://open.spotify.com/artist/2l8kcHRvhu4aNUdjxBklxf) | [Keep Me There](https://open.spotify.com/album/6PWVoPELrH6TI3ZuUWQZlF) | 2:25 | 2025-03-20 |  |
 | [Keep You Around](https://open.spotify.com/track/5argQfyRM6cfFKWYv2EXk1) | [Arial Ten](https://open.spotify.com/artist/4EsI8ZiuYuBFtkjoESzQGf) | [Keep You Around](https://open.spotify.com/album/7JkuOJdTZPVFHPMHavhrpO) | 2:51 | 2025-02-21 |  |
 | [Kendall Park](https://open.spotify.com/track/2SXi0cldambE2930H18LoL) | [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Kendall Park](https://open.spotify.com/album/6wp9Rv4sM3NOfTaEzxY1pf) | 3:20 | 2024-04-18 | 2024-09-30 |
 | [King](https://open.spotify.com/track/3FLtWk8DRjMimRt84JJJOF) | [Oceanside](https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR), [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA), [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR) | [King](https://open.spotify.com/album/64OoWtI7Bp30sAW2Y3RGVi) | 2:39 | 2023-09-22 | 2024-01-28 |

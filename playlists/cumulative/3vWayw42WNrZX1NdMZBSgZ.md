@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Bomba Estéreo, Rawayana, ASTROPICAL
 
-874 songs - 1 day 22 hr 36 min
+875 songs - 1 day 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -642,6 +642,7 @@
 | [Prometo Olvidarte \(feat\. Arturo Sandoval\)](https://open.spotify.com/track/2gsaK1tR1q3PzJgFlooQXC) | [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ), [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ) | [Prometo Olvidarte \(feat\. Arturo Sandoval\)](https://open.spotify.com/album/52RlrzgKdtBB9fmH7wp1uP) | 3:51 | 2024-05-29 | 2024-07-03 |
 | [Préndete](https://open.spotify.com/track/1DUGW8MYDxCyK6zXwCNYJ1) | [Pinto “Wahin”](https://open.spotify.com/artist/3h3AWIF6JCWTRB5cr5wp55) | [Préndete](https://open.spotify.com/album/4Clpxv3tfdgJLwqBHOmJHV) | 3:33 | 2024-01-19 | 2024-07-03 |
 | [Psycho B\*\*ch](https://open.spotify.com/track/1aRcazIFzvRrybZXVdFT1M) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Psycho B\*\*ch](https://open.spotify.com/album/1QLjJQvFwXCIbfOvJVez4u) | 2:47 | 2022-11-04 | 2023-05-26 |
+| [Puerta Abierta](https://open.spotify.com/track/3SQdpakkopi3kFMOUdnZZC) | [DARUMAS](https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9) | [Puerta Abierta](https://open.spotify.com/album/6yTFQELwwxZ4e6vz7tjckQ) | 2:51 | 2025-03-20 |  |
 | [Puntería](https://open.spotify.com/track/6pW82dtuBNNpI1ytFasNgr) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Puntería](https://open.spotify.com/album/5TFRrSuyYMoRsVb4MA8dUp) | 3:01 | 2024-03-22 |  |
 | [PUNTO 40](https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [PUNTO 40](https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs) | 3:10 | 2022-09-22 | 2023-05-26 |
 | [Pura Maldad](https://open.spotify.com/track/1fEEEkEoiEuOJdaIMknmWK) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU) | [Pura Maldad](https://open.spotify.com/album/266XCHMmH6s0s0a0viQAx8) | 2:59 | 2023-02-17 | 2023-06-01 |

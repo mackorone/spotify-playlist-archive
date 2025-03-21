@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Royal & the Serpent
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,166,245 likes - 126 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,166,314 likes - 126 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 69 | [Love You 'Til I'm Dead \(feat\. Rezz\)](https://open.spotify.com/track/0MvxrerdGGMxiikgYSafvn) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Love You 'Til I'm Dead \(feat\. Rezz\)](https://open.spotify.com/album/4gBJjFkaRK6RRatiynUqUf) | 3:22 |
 | 70 | [Blue Demon](https://open.spotify.com/track/1GxaEkfGQrN6cuUOMJ8yqi) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Blue Demon](https://open.spotify.com/album/4EjU3mNmfEVljQgGbuZz1l) | 3:45 |
 | 71 | [Mother Teresa](https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Mother Teresa](https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13) | 2:59 |
-| 72 | [Toxic Romantic](https://open.spotify.com/track/2IAvl3s4wnIcri2fv6PNNs) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Toxic Romantic](https://open.spotify.com/album/73SfhMQLHiFNkzEBJVjMLf) | 2:56 |
+| 72 | [Toxic Romantic](https://open.spotify.com/track/2IAvl3s4wnIcri2fv6PNNs) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Toxic Romantic](https://open.spotify.com/album/73SfhMQLHiFNkzEBJVjMLf) | 2:55 |
 | 73 | [Real Good Swimmer](https://open.spotify.com/track/1HmyIhCGcpRZX8KiBhNOwJ) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Real Good Swimmer](https://open.spotify.com/album/5pnOGPKxLLHFdwXduv24V0) | 2:22 |
 | 74 | [Better Than You](https://open.spotify.com/track/30pkH3PdC6AnQ2tWw4ihfu) | [Phoneboy](https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR) | [Better Than You](https://open.spotify.com/album/1WcGIgwGWCi8NjyZJePWEE) | 2:29 |
 | 75 | [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/track/36gQ2Hyr8ErtuxmssOYEOX) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/album/3pS5fcf4omfdgFP14wvmqJ) | 2:18 |

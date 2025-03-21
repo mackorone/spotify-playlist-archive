@@ -4,7 +4,7 @@
 
 > 
 
-2,092 songs - 4 day 16 hr 12 min
+2,093 songs - 4 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [16 Mirrors](https://open.spotify.com/track/5reWDqtIJUihfccbvQZx6C) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 1:27 | 2022-04-14 |  |
 | [180db\_ \[130\]](https://open.spotify.com/track/2VfEcR59Czu8ii3u6kKeP8) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 3:11 | 2022-04-03 |  |
 | [19](https://open.spotify.com/track/4jAif33FWQlOCwGKoHXbXg) | [Madisenxoxo](https://open.spotify.com/artist/2S2x3n1BXskbkRdEdj5gSB) | [19](https://open.spotify.com/album/4H59aVCV5LwfpvSaiLEBau) | 3:48 | 2021-08-05 |  |
+| [1992 \- Sped Up Mix](https://open.spotify.com/track/476c8bUBACCdxVUto9sbxA) | [No\_4mat](https://open.spotify.com/artist/0KWgRtUbQXSiICkWp7g213) | [1992 \(Sped Up + Slowed Mixes\)](https://open.spotify.com/album/46pdmAc5MqLcOWz5c7aQzk) | 1:29 | 2025-03-20 |  |
 | [1999 She](https://open.spotify.com/track/3giGHzw3cwE2xraZpRMY3p) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [1999 She](https://open.spotify.com/album/7CchnvrH1SKYlklfOGKmxb) | 2:46 | 2021-08-05 |  |
 | [2 + 2 = 5](https://open.spotify.com/track/4xkcGfpM9RwB4IiQ7yx2dB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Hail To the Thief](https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy) | 3:19 | 2021-08-24 |  |
 | [2003](https://open.spotify.com/track/0d2nwtK9mfFiVO8hkM5Xln) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [2003](https://open.spotify.com/album/2E928WZPSSBAmGPhujvSdF) | 3:13 | 2024-08-28 |  |

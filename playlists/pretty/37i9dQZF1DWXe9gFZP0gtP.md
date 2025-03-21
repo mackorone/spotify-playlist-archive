@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,628,060 likes - 205 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,628,584 likes - 205 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 94 | [Douce Nuit](https://open.spotify.com/track/3SmEWZmOSHBR0tlO0U2zmT) | [Long Lake](https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr) | [Douce Nuit](https://open.spotify.com/album/7Ll1pAkzMLl0p2snFwyt4D) | 2:55 |
 | 95 | [Values Of Silence](https://open.spotify.com/track/1e3b9snZ8WCK3Ty1F9Fb0v) | [Hector Warrens](https://open.spotify.com/artist/18djQbUQxMlklEPDlDif6B) | [Values Of Silence](https://open.spotify.com/album/7pkxfF84viQD0A2kWfvXIf) | 3:03 |
 | 96 | [Solace](https://open.spotify.com/track/0AIQ3hRD42qwYTvIgSIZSt) | [Moon Whisperer](https://open.spotify.com/artist/774tcsKJmwutlxTuJ3buO4) | [Solace](https://open.spotify.com/album/6XO692KvmydhD8pK8LQcfD) | 2:21 |
-| 97 | [Exception](https://open.spotify.com/track/5mtDu6p1lTeM0aEcGJvkO4) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Exception](https://open.spotify.com/album/3vZpbegph3K927kNhJglme) | 2:53 |
+| 97 | [Exception](https://open.spotify.com/track/5mtDu6p1lTeM0aEcGJvkO4) | [Garcíia](https://open.spotify.com/artist/2dvwSbPOAs6EdV3vUMrgtL) | [Exception](https://open.spotify.com/album/3vZpbegph3K927kNhJglme) | 2:53 |
 | 98 | [Dream Vision](https://open.spotify.com/track/6Gq98qETyw5wYA9y0zyyPV) | [Hector Warrens](https://open.spotify.com/artist/18djQbUQxMlklEPDlDif6B) | [Dream Vision](https://open.spotify.com/album/3siMOt2YviDaqAubEpPixV) | 2:43 |
 | 99 | [Prajna](https://open.spotify.com/track/2HyXRxJJ2kiyONu61lrH1T) | [Zamphire](https://open.spotify.com/artist/1oSjfZFemVPG0PZa6j94vl) | [Prajna](https://open.spotify.com/album/3BVohGZLzUfKI5AapEtkcm) | 2:39 |
 | 100 | [Summit](https://open.spotify.com/track/4kFccgoog68IEf6dS2VMqA) | [Occas](https://open.spotify.com/artist/24qhOh6WnSMUZFzeayfPXZ) | [Summit](https://open.spotify.com/album/4kpcfT6kxbHwfsE8PQHgrl) | 2:48 |

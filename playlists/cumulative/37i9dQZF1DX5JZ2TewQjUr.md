@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Almond Milk
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Science Noodles
 
-1,355 songs - 3 day 4 hr 33 min
+1,362 songs - 3 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\*醉曖♥suck眠xD](https://open.spotify.com/track/6x0tJyZTvgJWltU5IVjwLX) | [Tynull](https://open.spotify.com/artist/0Xda6eqKjS4xRDAVFXoYNH) | [\*醉曖♥suck眠xD](https://open.spotify.com/album/3kyqAEJGtbMnxHzGyypdH5) | 4:39 | 2022-05-26 | 2022-07-29 |
 | [1 puff 2 puff](https://open.spotify.com/track/43mJLfoJdfYR9y4kNlIOCe) | [李三鳩](https://open.spotify.com/artist/10AU7r92ACndtTFKsDJTVm) | [1 puff 2 puff](https://open.spotify.com/album/0OYN6aHLM2cpoyo5yNO7Q6) | 3:50 | 2022-07-28 | 2022-09-09 |
 | [1 step at a time](https://open.spotify.com/track/5OWPByz3yIouPj6rmFBZIE) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [1 step at a time](https://open.spotify.com/album/636IBCgeztGgfsNQRGJyUk) | 3:07 | 2023-03-16 | 2023-07-14 |
+| [10khours sketch \#2 \(you're jazzy in some ways..\)](https://open.spotify.com/track/2YxPNFMlQGZxQ5sSZHQ1b4) | [Denni N](https://open.spotify.com/artist/0yDDyHmNe83A0flHy0CalI) | [10khours sketch \#2 \(you're jazzy in some ways..\)](https://open.spotify.com/album/7LKbgrjKJOqJMw9V9eSt0r) | 1:11 | 2025-03-20 |  |
 | [10月7日的情歌](https://open.spotify.com/track/4M7ZPrKQPUgbP3nT3IdqKw) | [VVVOXY](https://open.spotify.com/artist/6a3B8XY5girw0XST4hcmcY), [FishBall](https://open.spotify.com/artist/2PaffuGluk4AJZqeYJK4lM) | [10月7日的情歌](https://open.spotify.com/album/5qvDZGQnStE9EyQn7b2XQP) | 3:05 | 2024-12-12 | 2025-03-14 |
 | [16 x 16](https://open.spotify.com/track/6EGQJoMwWhYyEmEprdMz7m) | [Matt Force](https://open.spotify.com/artist/4ymVglyzE9C7StALg2Sx9N) | [16 x 16](https://open.spotify.com/album/0bXkPVK2fwqxSHRPh5Zf1p) | 3:44 | 2023-11-09 | 2024-02-16 |
 | [1973的軌跡](https://open.spotify.com/track/5Z75p2CZda3ofl2umIJBmc) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Trickie Bonnie](https://open.spotify.com/artist/1nfAcziGyKgEOo0pIw4pVy) | [1973的軌跡](https://open.spotify.com/album/1s7oeSTjV48oXW3DlFrp3T) | 3:09 | 2022-06-02 | 2022-09-09 |
@@ -51,6 +52,7 @@
 | [Act 1: Fallen Factory](https://open.spotify.com/track/3cAUvlbspaKnkXUAVZ0QNh) | [Uchu Yurei](https://open.spotify.com/artist/12qOUG1SCqsMtXNPbng8rl) | [不可逆都市 Irreversible City](https://open.spotify.com/album/1nBkBfza1AaqD5ROaLVRxA) | 0:21 | 2024-09-26 | 2025-02-14 |
 | [Adam](https://open.spotify.com/track/2pPQzJ1VTIk91tKwLv00zx) | [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0) | [Adam](https://open.spotify.com/album/2fixDhiv77tQo0neEhn4JI) | 3:17 | 2024-01-05 | 2024-05-10 |
 | [Addiction](https://open.spotify.com/track/1lwsjsUnkB3UrSeghpeBU7) | [Bedroom Party](https://open.spotify.com/artist/2aSJ9BDyUpJgndRanmLCdr) | [Cubes](https://open.spotify.com/album/7nSrszAcfWzqDCVw3yBsoN) | 4:10 | 2022-05-26 | 2022-07-29 |
+| [Adore](https://open.spotify.com/track/3syEb4iSSW7dwhIHtPuwWj) | [quentinn®](https://open.spotify.com/artist/0CYWyysXnCqIJXXNqhPmpX) | [Adore](https://open.spotify.com/album/0tem1KsDNTGknE41b0UzQa) | 2:59 | 2025-03-20 |  |
 | [Afterglow](https://open.spotify.com/track/1lQRxn6whhD9GG5jaZcHvu) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Afterglow](https://open.spotify.com/album/1bCV8b4iui8QDDKylQOEBJ) | 2:08 | 2025-02-20 |  |
 | [afternoon bike rides](https://open.spotify.com/track/3mS16K8RGzxyXZ4YhUpOeu) | [Kei Valentine](https://open.spotify.com/artist/62N80uNLvKhiVGKX9V7G87) | [afternoon bike rides](https://open.spotify.com/album/1JavLUZH1IoCUc16ugpAuf) | 2:56 | 2023-07-20 | 2023-09-15 |
 | [ALIVE](https://open.spotify.com/track/72EhouMPHQDFLogEyocYjO) | [KASA](https://open.spotify.com/artist/2npcg8bjHorVxVkRyy7iFO), [Arms Attraction](https://open.spotify.com/artist/7lWuDBtj52fegBOCCDfvbk) | [ALIVE](https://open.spotify.com/album/51ktLYJ5fHbJdK68fPSrKC) | 4:19 | 2023-08-10 | 2023-09-01 |
@@ -179,6 +181,7 @@
 | [Dancing In The Moonlight](https://open.spotify.com/track/5xZpsqCt1CqZFljgtHoX2O) | [Susan Wong](https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI) | [Dancing In The Moonlight](https://open.spotify.com/album/3JlDsYTnxywv2zBIWXumpu) | 4:09 | 2024-03-21 | 2024-11-15 |
 | [Dapple Pattern II](https://open.spotify.com/track/3HKMIRrMRsnESUsP16yQKE) | [Virgin Vacation](https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ) | [Dapple Patterns](https://open.spotify.com/album/7shjQRLV5FBYJXGyVMr4Ky) | 4:22 | 2024-05-02 | 2024-11-15 |
 | [Darling, Stop Me](https://open.spotify.com/track/1zCPxGoZZN5DaFHEtI3HTK) | [Sam Kaiser](https://open.spotify.com/artist/36U2ZqoHfSHMraW6SCEOkw) | [Darling, Stop Me](https://open.spotify.com/album/4O6zgjlPmdT6V0ObWGvkaJ) | 3:38 | 2023-08-24 | 2023-12-01 |
+| [DEAL WITH IT](https://open.spotify.com/track/5hBEMwZ849YNPOdB46ooZU) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [DEAL WITH IT](https://open.spotify.com/album/4mkixXEWQ1fgJZiYebclGu) | 1:46 | 2025-03-20 |  |
 | [Dear Vicky](https://open.spotify.com/track/0lB8tgI8wTnejGm4ARBDyT) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [Dear Vicky](https://open.spotify.com/album/2KG65Y4EddM3fmtJvK03ws) | 4:05 | 2024-09-12 | 2024-12-13 |
 | [Dear Viu Tv](https://open.spotify.com/track/2g3P4LTzwYFIZEV5bvyssm) | [痛哭大伯吧 Crying Debali](https://open.spotify.com/artist/3IkPOmwzOuLSDKhwkmYAGq) | [Dear Viu Tv](https://open.spotify.com/album/1lhf3T4BdskvTAJCCAtJ3q) | 2:03 | 2023-05-25 | 2023-09-01 |
 | [Demon](https://open.spotify.com/track/5McqzZpmquik6IKt68mifT) | [Pi Pi Pierrot](https://open.spotify.com/artist/4EWciNc2dVhDRUeLQ7ixs3) | [Flower Eater](https://open.spotify.com/album/7plt5CetyH9mzEUCgd0lLM) | 2:26 | 2024-03-21 | 2024-11-15 |
@@ -639,6 +642,7 @@
 | [Priceless 無價](https://open.spotify.com/track/4KMKzIyYTNxiSVqsjkKCiY) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68) | [Priceless 無價](https://open.spotify.com/album/1JTfSgo1NMsVuuPjwDMSR7) | 2:56 | 2023-02-02 | 2023-07-14 |
 | [Princess](https://open.spotify.com/track/31ZUIxf4j6ed67eNtw823B) | [Kai Yannis](https://open.spotify.com/artist/57VXud4dgLlGv5cXGs9ccA) | [Princess](https://open.spotify.com/album/5vDv4UJnz5cdsdnBeFEqEk) | 3:07 | 2024-10-31 | 2025-02-14 |
 | [PROBLEMS™](https://open.spotify.com/track/5vnDjl0XrHZpgf2WCV6WyV) | [quentinn®](https://open.spotify.com/artist/0CYWyysXnCqIJXXNqhPmpX) | [ELEVATOR](https://open.spotify.com/album/0wYMhbOFBFl5hWE7VVZ71Q) | 3:13 | 2023-09-14 | 2023-12-01 |
+| [Prove Me Wrong](https://open.spotify.com/track/2CQocdMm2oOESwOM360zHV) | [The Lemon Ones](https://open.spotify.com/artist/79A3oFFqIwKVo3tJ6xki6N) | [Prove Me Wrong](https://open.spotify.com/album/1eqhJK1dqs9QqbX1QjkouQ) | 3:07 | 2025-03-20 |  |
 | [Pull My Hair](https://open.spotify.com/track/37X6Jr8cHBOCD9tsuv25MA) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Pull My Hair](https://open.spotify.com/album/4oILzeu5oXO9HeLSJ92Z0V) | 2:01 | 2023-04-20 | 2023-07-14 |
 | [Pull The Trigger](https://open.spotify.com/track/5g4rWUaMBlnLcrMtzSfQ03) | [Lime Punch](https://open.spotify.com/artist/4fugwQKbQxT9lHW2fByFx0) | [Pull The Trigger](https://open.spotify.com/album/1cB05tU7SJiuKZuCHFsg4g) | 3:20 | 2024-04-11 | 2024-11-15 |
 | [Pure Bliss](https://open.spotify.com/track/2gSxfAmUz84Gised5l9rib) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [Pure Bliss](https://open.spotify.com/album/5zW7x022BnrF142PnP2Jj7) | 2:59 | 2024-06-27 | 2024-11-15 |
@@ -670,6 +674,7 @@
 | [S.H.I.T](https://open.spotify.com/track/0CtiGcW3OyABsFA7jmryFM) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [S.H.I.T](https://open.spotify.com/album/27pguvAfmV3j5kDAc07XqU) | 2:22 | 2022-05-26 | 2022-07-29 |
 | [Sailing Boat](https://open.spotify.com/track/2l37gpBtjpvF2xW0QnTS8J) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [Sailing Boat](https://open.spotify.com/album/686eANueSKRW9VFefIR1lR) | 3:55 | 2022-05-26 | 2022-07-29 |
 | [Sailor Boy](https://open.spotify.com/track/7ewmQnGCpYG6VvDMzVxmLk) | [Orange Leung](https://open.spotify.com/artist/072b9AYGZXFRwlwHUmXYrl), [YK](https://open.spotify.com/artist/23ysObqvDVv5XOqHBPnNwk) | [Sailor Boy](https://open.spotify.com/album/1FlhR8ta0DUoBTiXLRyhrn) | 4:44 | 2022-10-06 | 2023-02-03 |
+| [Samba Love](https://open.spotify.com/track/1hcEue7ZkwNYa7FohZQ8uC) | [Science Noodles](https://open.spotify.com/artist/4cqVlLy4QV2KwAojyE7KHR) | [Pacific](https://open.spotify.com/album/0aXxE3f2pCjvN1A6vEXMqT) | 3:45 | 2025-03-20 |  |
 | [Santa why are you so late?](https://open.spotify.com/track/2NzSFSItoBGq8uhFlAIR7S) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9), [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [Santa why are you so late?](https://open.spotify.com/album/3Ge8P2TnWLIuCcLqYOltMv) | 2:36 | 2024-11-28 | 2025-03-14 |
 | [Santal](https://open.spotify.com/track/1cze78GgoRVfidx80wpEcX) | [J Ho](https://open.spotify.com/artist/3hLoyLpu0vKQwSQ63c3xcy) | [Santal](https://open.spotify.com/album/59ywoUsqVrmsNBnQO2pUO2) | 3:11 | 2022-05-26 | 2022-06-10 |
 | [saturday night](https://open.spotify.com/track/6jl35iYUR4IMQ96o8aWSy2) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [saturday night](https://open.spotify.com/album/3skcQqVKnlKiG4TGqrQVin) | 2:55 | 2022-07-14 | 2022-11-04 |
@@ -693,6 +698,7 @@
 | [shining star](https://open.spotify.com/track/6vPHRUbdk8footyUuDDBj2) | [Kudos Lam](https://open.spotify.com/artist/2HeMjjQtquPvkToAGftuS7) | [shining star](https://open.spotify.com/album/6oi5sKlz0WhAcv5HpjSmF7) | 3:05 | 2024-08-15 | 2024-12-13 |
 | [SHOTGUN](https://open.spotify.com/track/0wznQcXqhJhR7eX6hAfjLv) | [Potlim](https://open.spotify.com/artist/5uYT7MuoKJtXYjrjOfHTCm), [Lai Kei](https://open.spotify.com/artist/35T5iqhntCprz61MWcrgiB), [FreezLhy](https://open.spotify.com/artist/5LOJ11BmQxqHkx0Hilc4pz) | [SHOTGUN](https://open.spotify.com/album/4m7s8U7u5rA2cB36SgNGcm) | 2:52 | 2023-08-31 | 2023-12-01 |
 | [Sick And Tired](https://open.spotify.com/track/2Df1Lx1Ahk7G9eTGlEVCxg) | [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [Sick And Tired](https://open.spotify.com/album/6mO84EaybYVN9XlkSHPQOb) | 2:59 | 2022-10-20 | 2023-03-18 |
+| [Sight](https://open.spotify.com/track/4YrMQvibYkbFr1hT4TDj9h) | [Oh! Sheep](https://open.spotify.com/artist/6J1qygxBY60B6lwIBTYTTU) | [Sight](https://open.spotify.com/album/6JINo7ryCS8YmYnk6zzPdS) | 3:13 | 2025-03-20 |  |
 | [signals](https://open.spotify.com/track/4pwRNo6lhuKEcG3L73P380) | [mue](https://open.spotify.com/artist/4nINHlTXP0sDUGWHmf4cLi) | [signals](https://open.spotify.com/album/6TgDjGJVslGBOnoxQ7Lhls) | 3:33 | 2024-04-18 | 2024-11-15 |
 | [Silver Moon](https://open.spotify.com/track/6XBRnNyelYVa16iYTWXWqN) | [薛德勇 Monkey](https://open.spotify.com/artist/3JwDfxWk8xVPg2ia8CN3MS) | [Silver Moon](https://open.spotify.com/album/08ZaD67fJjapODvopQrDxX) | 3:09 | 2024-06-06 | 2024-11-15 |
 | [Sin Trigger](https://open.spotify.com/track/1b8ysxE26bqztpEAVaGrfT) | [Hong Kong Express](https://open.spotify.com/artist/5kanrcJl2KaWNzmrIT58vf) | [Sin Trigger](https://open.spotify.com/album/3WxaGezM6hZS2bdSQnxWt5) | 4:49 | 2022-11-03 | 2023-02-03 |
@@ -1269,6 +1275,7 @@
 | [終於出歌](https://open.spotify.com/track/0NPXoyts9k8k45Jtjq00yY) | [FINALLY](https://open.spotify.com/artist/1uEfUcuO9CIMvWwXCyxmuu) | [終於出歌](https://open.spotify.com/album/27rpPfkINIq6TIvVb2aHba) | 3:04 | 2023-10-12 | 2024-01-05 |
 | [結界師對香港土地問題的看法\(8分\) \(feat\. $hinyLungs\)](https://open.spotify.com/track/2Q2MInLxDy1Lk00hJVxAJE) | [Chefwest](https://open.spotify.com/artist/76X04R0YI3EKzZ957qJeee), [$hinyLungs](https://open.spotify.com/artist/6hgAAw2ZKhlAtNXxR7ZEah) | [SUPPRESS\(ed\)](https://open.spotify.com/album/6m0vC4SoLl5MLSROJVXpqm) | 2:56 | 2022-11-17 | 2023-03-18 |
 | [綠島炸雞脾 Green Island Fried Chicken Leg \- Live at NTK](https://open.spotify.com/track/165o8sxURI9AvNtW23WUUp) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [牛頭角現場 Live at Ngau Tau Kok](https://open.spotify.com/album/2jgYOrxoPHh668hMB41gup) | 5:16 | 2024-11-28 |  |
+| [綠蔭吹成黃葉](https://open.spotify.com/track/3XGpWQQZ5Fbqwy3uFEqkGF) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws), [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [綠蔭吹成黃葉](https://open.spotify.com/album/2pa3gOjEpjLlfLaHlqP4Uw) | 3:26 | 2025-03-20 |  |
 | [羊](https://open.spotify.com/track/7G366O8Dl9F6DtaPwtLl36) | [KENI](https://open.spotify.com/artist/6jp6lJjFpNdVsmaJz2WAhS), [TXMIYAMA](https://open.spotify.com/artist/725OKiwmqplFRll4H7WHkw) | [Oh my.](https://open.spotify.com/album/0JKRzwzqH4sl0CeZswxR3W) | 2:38 | 2023-09-21 | 2023-12-01 |
 | [羊 \(feat\. TXMIYAMA\)](https://open.spotify.com/track/0mlV6AhzUdpW3jc5WvU3ux) | [KENI](https://open.spotify.com/artist/6jp6lJjFpNdVsmaJz2WAhS) | [Oh my.](https://open.spotify.com/album/3kdzxVZUeTJxf4F9Ud263O) | 2:38 | 2023-08-10 | 2023-09-24 |
 | [美麗的失敗者](https://open.spotify.com/track/0VKEFpPOGpHlDW3nVb33lK) | [Kevin Kaho Tsui](https://open.spotify.com/artist/71Q8MlYcb2SiGxqyEAjBgX) | [美麗的失敗者](https://open.spotify.com/album/3CZRewAnlkS12N3NJ7vNyC) | 3:20 | 2024-10-31 | 2025-02-14 |

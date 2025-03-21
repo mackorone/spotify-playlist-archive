@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: sarah salola
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,013 likes - 40 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,012 likes - 40 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb) | 3:44 |
 | 2 | [ทุกวันเหมือนเดิม](https://open.spotify.com/track/4zQNXqaOsprULnmPpJzthQ) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [ทุกวันเหมือนเดิม](https://open.spotify.com/album/3u1yAY03tT0NgH6eXJX6NJ) | 4:03 |
 | 3 | [กล่องความทรงจำ \- Memories Box](https://open.spotify.com/track/4b1grKsPHSPS7wFOT0SrRk) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [กล่องความทรงจำ \(Memories Box\)](https://open.spotify.com/album/4h8L2uKW3WSB4i28utCnLq) | 3:39 |
-| 4 | [ดวงเดียว](https://open.spotify.com/track/2hmlHJy0ew0bejRWj98hmN) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ดวงเดียว](https://open.spotify.com/album/6ILsKnkhdWRkshoepSoNgI) | 4:08 |
+| 4 | [ดวงเดียว \(missing\)](https://open.spotify.com/track/2hmlHJy0ew0bejRWj98hmN) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ดวงเดียว \(missing\)](https://open.spotify.com/album/6ILsKnkhdWRkshoepSoNgI) | 4:08 |
 | 5 | [น่ารักน้อยลงหน่อย \(Cuteless\)](https://open.spotify.com/track/7f1L9GyOgbt3ZguWN7Eog0) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [น่ารักน้อยลงหน่อย \(Cuteless\) \- Single](https://open.spotify.com/album/1iDsrhpGyZfAtoDXXgxhxE) | 3:45 |
 | 6 | [Heart Poppin'](https://open.spotify.com/track/1qV5KvsNGL1umoFUTJR306) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [Heart Poppin'](https://open.spotify.com/album/6am59D7FRoeMtWmGE0oA09) | 3:29 |
 | 7 | [กั๊ก \(No\-status Status\) \- From GELBOYS สถานะกั๊กใจ](https://open.spotify.com/track/2P2qSPBjQfeyxBRDxFivHZ) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [กั๊ก \(No\-status Status\) \[From GELBOYS สถานะกั๊กใจ\]](https://open.spotify.com/album/1bg1urEY0Qyd7MpPRY6iWL) | 3:08 |

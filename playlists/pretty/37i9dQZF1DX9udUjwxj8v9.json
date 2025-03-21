@@ -1,6 +1,6 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 152999,
+  "num_followers": 153001,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
@@ -83,38 +83,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Tete a Tete Margareth",
-        "url": "https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK"
-      },
-      "artists": [
-        {
-          "name": "Margareth Menezes",
-          "url": "https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD"
-        }
-      ],
-      "duration_ms": 334133,
-      "name": "Fara\u00f3",
-      "url": "https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
-        "name": "De P\u00e9 No Ch\u00e3o",
-        "url": "https://open.spotify.com/album/2QxzAhXKjoUuiVO2sqMjP6"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 189866,
-      "name": "Vou Festejar",
-      "url": "https://open.spotify.com/track/54JLlb23AnzXErLRSNVIUn"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Realce",
         "url": "https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr"
       },
@@ -143,6 +111,38 @@
       "duration_ms": 232200,
       "name": "A Menina Dan\u00e7a",
       "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "De P\u00e9 No Ch\u00e3o",
+        "url": "https://open.spotify.com/album/2QxzAhXKjoUuiVO2sqMjP6"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 189866,
+      "name": "Vou Festejar",
+      "url": "https://open.spotify.com/track/54JLlb23AnzXErLRSNVIUn"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "Tete a Tete Margareth",
+        "url": "https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK"
+      },
+      "artists": [
+        {
+          "name": "Margareth Menezes",
+          "url": "https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD"
+        }
+      ],
+      "duration_ms": 334133,
+      "name": "Fara\u00f3",
+      "url": "https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
+        "name": "Chico Buarque",
+        "url": "https://open.spotify.com/album/7gPPAMMYpqGNrhKwLGNibG"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 371720,
+      "name": "Vai Passar",
+      "url": "https://open.spotify.com/track/6xTxXhEXQyJJGlQtGSNsIp"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
         "name": "A M\u00fasica do Olodum",
         "url": "https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm"
       },
@@ -435,18 +451,18 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Chico Buarque",
-        "url": "https://open.spotify.com/album/7gPPAMMYpqGNrhKwLGNibG"
+        "name": "Gera\u00e7\u00e3o Pop",
+        "url": "https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU"
       },
       "artists": [
         {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+          "name": "Pepeu Gomes",
+          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
         }
       ],
-      "duration_ms": 371720,
-      "name": "Vai Passar",
-      "url": "https://open.spotify.com/track/6xTxXhEXQyJJGlQtGSNsIp"
+      "duration_ms": 244826,
+      "name": "Eu tamb\u00e9m quero beijar",
+      "url": "https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -467,22 +483,6 @@
       "duration_ms": 331853,
       "name": "Xang\u00f4",
       "url": "https://open.spotify.com/track/19K67ARK51RFvi3CDdB69g"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
-        "name": "Gera\u00e7\u00e3o Pop",
-        "url": "https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU"
-      },
-      "artists": [
-        {
-          "name": "Pepeu Gomes",
-          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Eu tamb\u00e9m quero beijar",
-      "url": "https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -519,22 +519,18 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Sambas De Enredo Das Escolas De Samba 2019",
-        "url": "https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr"
+        "name": "Gal Tropical",
+        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
       },
       "artists": [
         {
-          "name": "Marquinho Art'Samba",
-          "url": "https://open.spotify.com/artist/4uN2YBC6SzGVvEFuuqhALh"
-        },
-        {
-          "name": "Esta\u00e7\u00e3o Primeira de Mangueira",
-          "url": "https://open.spotify.com/artist/57gFx4InXjpZonDknnllp0"
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         }
       ],
-      "duration_ms": 271453,
-      "name": "Hist\u00f3ria Para Ninar Gente Grande",
-      "url": "https://open.spotify.com/track/5ofP0ayCr1BAMVxvsmyx7x"
+      "duration_ms": 188666,
+      "name": "Balanc\u00ea",
+      "url": "https://open.spotify.com/track/2m1G38M0gJuE4aVPh0tmIP"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -571,18 +567,22 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Gal Tropical",
-        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
+        "name": "Sambas De Enredo Das Escolas De Samba 2019",
+        "url": "https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+          "name": "Marquinho Art'Samba",
+          "url": "https://open.spotify.com/artist/4uN2YBC6SzGVvEFuuqhALh"
+        },
+        {
+          "name": "Esta\u00e7\u00e3o Primeira de Mangueira",
+          "url": "https://open.spotify.com/artist/57gFx4InXjpZonDknnllp0"
         }
       ],
-      "duration_ms": 188666,
-      "name": "Balanc\u00ea",
-      "url": "https://open.spotify.com/track/2m1G38M0gJuE4aVPh0tmIP"
+      "duration_ms": 271453,
+      "name": "Hist\u00f3ria Para Ninar Gente Grande",
+      "url": "https://open.spotify.com/track/5ofP0ayCr1BAMVxvsmyx7x"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
+        "name": "Minha Voz",
+        "url": "https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 183306,
+      "name": "Bloco Do Prazer",
+      "url": "https://open.spotify.com/track/3YQGHqOQs6TG6Hui3Qsa3w"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
         "name": "Esta\u00e7\u00e3o da Luz",
         "url": "https://open.spotify.com/album/0Jsqnl2N8Ixy1hEh5p0YbO"
       },
@@ -719,38 +735,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Raizes Do Samba",
-        "url": "https://open.spotify.com/album/0VWK9vBkLWyAG0XlFQKPwF"
-      },
-      "artists": [
-        {
-          "name": "Leci Brandao",
-          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
-        }
-      ],
-      "duration_ms": 206560,
-      "name": "Z\u00e9 Do Caro\u00e7o",
-      "url": "https://open.spotify.com/track/0zVtuNNT7kTeRhuq9DE1fb"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
-        "name": "Minha Voz",
-        "url": "https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 183306,
-      "name": "Bloco Do Prazer",
-      "url": "https://open.spotify.com/track/3YQGHqOQs6TG6Hui3Qsa3w"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Muitos Carnavais",
         "url": "https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 162973,
       "name": "Atr\u00e1s Do Trio El\u00e9trico",
       "url": "https://open.spotify.com/track/2tGDLtinIaepvrlICaDciX"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "Raizes Do Samba",
+        "url": "https://open.spotify.com/album/0VWK9vBkLWyAG0XlFQKPwF"
+      },
+      "artists": [
+        {
+          "name": "Leci Brandao",
+          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
+        }
+      ],
+      "duration_ms": 206560,
+      "name": "Z\u00e9 Do Caro\u00e7o",
+      "url": "https://open.spotify.com/track/0zVtuNNT7kTeRhuq9DE1fb"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "O Carnaval de Beth Carvalho & Martinho Da Vila",
-        "url": "https://open.spotify.com/album/4osoi2GFSTeHJQxnxWwOXf"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "Coisinha do Pai",
-      "url": "https://open.spotify.com/track/1fgXabLYo7MiwLmnrNTk5B"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "BaianaSystem",
         "url": "https://open.spotify.com/album/1oAU4OkP63pBrWTvLPGlRS"
       },
@@ -835,18 +819,38 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Carnavalan\u00e7a",
-        "url": "https://open.spotify.com/album/6vs0FIRgEMDjSgnrR38m8i"
+        "name": "O Carnaval de Beth Carvalho & Martinho Da Vila",
+        "url": "https://open.spotify.com/album/4osoi2GFSTeHJQxnxWwOXf"
       },
       "artists": [
         {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
         }
       ],
-      "duration_ms": 217026,
-      "name": "Pierrot Apaixonado / Ta Hi (Pra Voc\u00ea Gostar de Mim) / Quem Sabe Sabe / Aurora",
-      "url": "https://open.spotify.com/track/5L5qxxSrbEo5qZFZPIvFBx"
+      "duration_ms": 173800,
+      "name": "Coisinha do Pai",
+      "url": "https://open.spotify.com/track/1fgXabLYo7MiwLmnrNTk5B"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "Quando o Carnaval Chegar",
+        "url": "https://open.spotify.com/album/1eUwotxvak847jHpohSVig"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        },
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 152320,
+      "name": "Quando o Carnaval Chegar",
+      "url": "https://open.spotify.com/track/7KMIlBUmjF2UYlujrAjOur"
     }
   ],
   "unique_name": "carnavalizar",

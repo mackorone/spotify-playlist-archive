@@ -1,6 +1,6 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 372961,
+  "num_followers": 372978,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2025-03-07 00:00:17",
       "album": {
+        "name": "30 Degrees",
+        "url": "https://open.spotify.com/album/1afc5JGIGUPtD7ODiFTgOt"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 188164,
+      "name": "30 Degrees",
+      "url": "https://open.spotify.com/track/4LSZ5Op9z4LM6oP6S4G7sX"
+    },
+    {
+      "added_at": "2025-03-07 00:00:17",
+      "album": {
         "name": "Hey Girl (s)",
         "url": "https://open.spotify.com/album/40XyC5tZmkh6aeFr78qQME"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 228266,
       "name": "Hey Girl(s)",
       "url": "https://open.spotify.com/track/470gEf45gAhLewLVc5IkKJ"
-    },
-    {
-      "added_at": "2025-03-07 00:00:17",
-      "album": {
-        "name": "30 Degrees",
-        "url": "https://open.spotify.com/album/1afc5JGIGUPtD7ODiFTgOt"
-      },
-      "artists": [
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
-        }
-      ],
-      "duration_ms": 188164,
-      "name": "30 Degrees",
-      "url": "https://open.spotify.com/track/4LSZ5Op9z4LM6oP6S4G7sX"
     },
     {
       "added_at": "2025-03-07 00:00:17",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-03-07 00:00:17",
       "album": {
-        "name": "I Hope",
-        "url": "https://open.spotify.com/album/2eyDBsQ7QHc5RVOtYV5ep9"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Berchie",
-          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
-        }
-      ],
-      "duration_ms": 153684,
-      "name": "I Hope",
-      "url": "https://open.spotify.com/track/3qiVrYrU7dizzDGPOlSA98"
-    },
-    {
-      "added_at": "2025-03-07 00:00:17",
-      "album": {
         "name": "The Hurtbook",
         "url": "https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 165610,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/0Bm5WU83MjOYoDXKoiOQBJ"
+    },
+    {
+      "added_at": "2025-03-07 00:00:17",
+      "album": {
+        "name": "I Hope",
+        "url": "https://open.spotify.com/album/2eyDBsQ7QHc5RVOtYV5ep9"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        }
+      ],
+      "duration_ms": 153684,
+      "name": "I Hope",
+      "url": "https://open.spotify.com/track/3qiVrYrU7dizzDGPOlSA98"
     },
     {
       "added_at": "2025-03-07 00:00:17",

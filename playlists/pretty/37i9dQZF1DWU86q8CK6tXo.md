@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Larkin Poe
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,281 likes - 39 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,288 likes - 39 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 10 | [Mi KAMA](https://open.spotify.com/track/1SVTas8nbWcLvz0D8uHvBk) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Mi KAMA](https://open.spotify.com/album/08NlLGUI4aV6yOYfBAk75W) | 3:08 |
 | 11 | [First](https://open.spotify.com/track/3SEmYQXL6TYQ6keii5TUiN) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [First](https://open.spotify.com/album/2yVoj5oLa2LwoRQfYmhYpj) | 2:44 |
 | 12 | [WAIT](https://open.spotify.com/track/3bnEbEdttscDToE3I8yOZD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 3:04 |
-| 13 | [Overthinking](https://open.spotify.com/track/7BeFiQEFwd0KPuBNrYJK5M) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Overthinking](https://open.spotify.com/album/2Rctwsyq7hUCJ20mAFW6KH) | 3:24 |
-| 14 | [if looks could kill](https://open.spotify.com/track/2w9lI8JcFAL3lCb0bFMRY8) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [hummingbird: no rain, no flowers \(deluxe\)](https://open.spotify.com/album/4COdErCzwv0rQAFH594bol) | 3:13 |
+| 13 | [if looks could kill](https://open.spotify.com/track/2w9lI8JcFAL3lCb0bFMRY8) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [hummingbird: no rain, no flowers \(deluxe\)](https://open.spotify.com/album/4COdErCzwv0rQAFH594bol) | 3:13 |
+| 14 | [Overthinking](https://open.spotify.com/track/7BeFiQEFwd0KPuBNrYJK5M) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Overthinking](https://open.spotify.com/album/2Rctwsyq7hUCJ20mAFW6KH) | 3:24 |
 | 15 | [Bad Boy](https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq) | [Bad Boy](https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN) | 2:58 |
-| 16 | [Bovine Excision](https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Bovine Excision](https://open.spotify.com/album/6CMquIsmPgGoeLRAHTiVSt) | 2:53 |
-| 17 | [T&A](https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [T&A](https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2) | 3:45 |
+| 16 | [T&A](https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [T&A](https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2) | 3:45 |
+| 17 | [Bovine Excision](https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Bovine Excision](https://open.spotify.com/album/6CMquIsmPgGoeLRAHTiVSt) | 2:53 |
 | 18 | [Footprints](https://open.spotify.com/track/6VeBUA8yPQkB9kjsMrAvjJ) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Footprints](https://open.spotify.com/album/76S9gvnk84KNWLTXLQyFAx) | 4:01 |
 | 19 | [If I Had Never Lost My Mind...](https://open.spotify.com/track/7Gv7nvp2Rg2tiB2Ru24ETH) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [If I Had Never Lost My Mind...](https://open.spotify.com/album/0rdw28ZkCG4fAzRzIF4iah) | 3:10 |
 | 20 | [So What?](https://open.spotify.com/track/7vU7SxAdwjgbqvyCKmXy3X) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K! : I’m Just A Girl \(Deluxe\)](https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw) | 2:38 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 22 | [For What It's Worth](https://open.spotify.com/track/2EuFVrYeCxPIC5xy2bHc47) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri) | [For What It's Worth](https://open.spotify.com/album/5foVq2JQBB1dX1s3O3gX5E) | 3:23 |
 | 23 | [Impossible](https://open.spotify.com/track/7E9EalF830tMPcu3JGzgMM) | [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [Impossible](https://open.spotify.com/album/7gJifmJDQTPqMbByCsFZ55) | 3:14 |
 | 24 | [BSUKEO](https://open.spotify.com/track/4T1kufseBSNBhrVPeK3bZL) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [BSUKEO](https://open.spotify.com/album/40ABWjVkALc5WvTjgnqRa4) | 2:38 |
-| 25 | [Portrait of My Heart](https://open.spotify.com/track/7GlExXS4otYR7sntsPMcMd) | [SPELLLING](https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh) | [Portrait of My Heart](https://open.spotify.com/album/4jAkrzJD6q10Xu97025aAC) | 4:42 |
-| 26 | [24/7](https://open.spotify.com/track/4HR5BN6hc4AmcPO1NK0fgK) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [24/7](https://open.spotify.com/album/7zjtPFsj5JwA8yPe4IbcRP) | 3:00 |
+| 25 | [24/7](https://open.spotify.com/track/4HR5BN6hc4AmcPO1NK0fgK) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [24/7](https://open.spotify.com/album/7zjtPFsj5JwA8yPe4IbcRP) | 3:00 |
+| 26 | [Portrait of My Heart](https://open.spotify.com/track/7GlExXS4otYR7sntsPMcMd) | [SPELLLING](https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh) | [Portrait of My Heart](https://open.spotify.com/album/4jAkrzJD6q10Xu97025aAC) | 4:42 |
 | 27 | [GPS](https://open.spotify.com/track/5lfeSwPNWexggo6tXCOQFw) | [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf) | [GPS](https://open.spotify.com/album/3LaUaXAOBE5fvIBNrWFOB8) | 2:41 |
 | 28 | [I Don't Wanna Know](https://open.spotify.com/track/6nMkOqB2XpHVF09Ogxn7DI) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Everything I Didn't Say](https://open.spotify.com/album/2KYarSTNNGsGXaq9vE1pjN) | 3:07 |
 | 29 | [Feel It](https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Feel It](https://open.spotify.com/album/1Qug9yhly0QovQX9exYx42) | 3:47 |

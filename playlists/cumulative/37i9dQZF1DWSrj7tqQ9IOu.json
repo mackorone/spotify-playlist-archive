@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : TheFrenchKris",
+  "description": "The best French indie tracks right now. Cover : Bolivard",
   "name": "Made in France",
   "tracks": [
     {
@@ -1025,6 +1025,28 @@
     },
     {
       "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/2gFCZ1r5sA1vipWqauYWVl"
+      },
+      "artists": [
+        {
+          "name": "Alastair Lane",
+          "url": "https://open.spotify.com/artist/6TlnZfBVbxeu6ss2jcPDJo"
+        },
+        {
+          "name": "VONFELT",
+          "url": "https://open.spotify.com/artist/6A93vsKzaeq6m03BwAkTAU"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130302,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/0erFMrDuaEjyzLcZWeJ7FU"
+    },
+    {
+      "album": {
         "name": "Bonifacio",
         "url": "https://open.spotify.com/album/1XT5heZfUmmMANHgafkGwA"
       },
@@ -1772,7 +1794,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 205566,
       "name": "Citron",
       "url": "https://open.spotify.com/track/0S8xh81souCXhlkILDEkUk"
@@ -3589,6 +3611,42 @@
     },
     {
       "album": {
+        "name": "Away from my window",
+        "url": "https://open.spotify.com/album/1JKwMfm0npkZB3wpp82cII"
+      },
+      "artists": [
+        {
+          "name": "Praa",
+          "url": "https://open.spotify.com/artist/2BEp4lORHjjxT1zuqRTxIt"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150546,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/4tMGLfiJ5lrd9i5HibUaMG"
+    },
+    {
+      "album": {
+        "name": "Go See The Moon",
+        "url": "https://open.spotify.com/album/5fYdyyMo0txpaVNY65Anne"
+      },
+      "artists": [
+        {
+          "name": "Broken Back",
+          "url": "https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186279,
+      "name": "Go See The Moon",
+      "url": "https://open.spotify.com/track/4ISlYdLQQ4ZkccvI5ekjJH"
+    },
+    {
+      "album": {
         "name": "GOBACK",
         "url": "https://open.spotify.com/album/5920FnXcvVNVrk9npCJa4X"
       },
@@ -4252,7 +4310,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 127138,
       "name": "Human Race",
       "url": "https://open.spotify.com/track/0kqLwnIhgshbOHgT4ni8sf"
@@ -4932,6 +4990,24 @@
       "duration_ms": 181712,
       "name": "Kic\u00e9Kic\u00e9",
       "url": "https://open.spotify.com/track/2MPZECEDHleHucVAsDdeoD"
+    },
+    {
+      "album": {
+        "name": "BLEU M\u00c9DITERRAN\u00c9E",
+        "url": "https://open.spotify.com/album/6JP3vTxoeonxqKzGaQfI1i"
+      },
+      "artists": [
+        {
+          "name": "Ajar",
+          "url": "https://open.spotify.com/artist/46OlTXwi8hanoxXHTE7E5z"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144416,
+      "name": "KILIMINI",
+      "url": "https://open.spotify.com/track/1WZ2VE0DFne0VN5NzOdBEy"
     },
     {
       "album": {
@@ -8506,7 +8582,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 283066,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU"
@@ -10652,7 +10728,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 194767,
       "name": "Vendredi",
       "url": "https://open.spotify.com/track/4t4yg2KLRIJtM4dzU277LW"

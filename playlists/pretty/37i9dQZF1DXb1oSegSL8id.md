@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,609 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,646 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 92 | [Teste de Farmácia \- Ao Vivo](https://open.spotify.com/track/0ZwGhDJHceKPvg3UAb5OMQ) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco in Boston \(Ao Vivo\)](https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo) | 2:38 |
 | 93 | [Recairei \- Ao Vivo](https://open.spotify.com/track/7KBzs7p4IqxQ3GS06TvOwG) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Conquistas \(Ao Vivo\)](https://open.spotify.com/album/1GAEkzl2H1mXS5byOsrc5f) | 2:46 |
 | 94 | [Gaiola \- Ao Vivo](https://open.spotify.com/track/7qQPvdV9ussEfEZ6nfhbqr) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo\)](https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j) | 3:15 |
-| 95 | [Aquele 1% \- Ao Vivo](https://open.spotify.com/track/0Eu1DRLKILhNqsYh48a2DP) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Duetos \(Ao Vivo\)](https://open.spotify.com/album/659HNwQlvbAt8vGOPDJspp) | 2:56 |
-| 96 | [ME USA \- Ao Vivo](https://open.spotify.com/track/16kELcGATL5IWb5RylAxBI) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY \(Ao Vivo\)](https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX) | 2:38 |
+| 95 | [ME USA \- Ao Vivo](https://open.spotify.com/track/16kELcGATL5IWb5RylAxBI) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY \(Ao Vivo\)](https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX) | 2:38 |
+| 96 | [Aquele 1% \- Ao Vivo](https://open.spotify.com/track/0Eu1DRLKILhNqsYh48a2DP) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Duetos \(Ao Vivo\)](https://open.spotify.com/album/659HNwQlvbAt8vGOPDJspp) | 2:56 |
 | 97 | [Amando Individual](https://open.spotify.com/track/6WhnioyjsbxNSpQhCXhYv6) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Amando Individual](https://open.spotify.com/album/3MQMMLUYMEsIBPTIf4oZVy) | 2:56 |
 | 98 | [Cachorrinho \(feat\. Tierry\) \- Ao Vivo](https://open.spotify.com/track/0prr6bXHmFqmLyRJgbUVK7) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Ferrugem em Casa 2 \(Bloco 2\) \[Ao Vivo\]](https://open.spotify.com/album/4iLrvvqO8xUqZIglV27RM7) | 3:55 |
 | 99 | [Imagina A Sentada – Spotify Singles](https://open.spotify.com/track/2iJGrGll9mGg9pJCezwP85) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Imagina A Sentada – Spotify Singles](https://open.spotify.com/album/2hOfhy0hVRFPtuhMTaBNjg) | 3:04 |

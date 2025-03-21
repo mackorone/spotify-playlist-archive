@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19:  PERSES, PiXXiE",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19:  Billkin, PP Krit",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -200,7 +200,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 182045,
       "name": "After the rain",
       "url": "https://open.spotify.com/track/4t17p5t4zQxx5PBcjPG2Qy"
@@ -324,6 +324,24 @@
       "duration_ms": 251602,
       "name": "BABY CRUSH (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c Cooking Crush \u0e2d\u0e32\u0e2b\u0e32\u0e23\u0e40\u0e1b\u0e47\u0e19\u0e22\u0e31\u0e07\u0e44\u0e07\u0e04\u0e23\u0e31\u0e1a\u0e2b\u0e21\u0e2d)",
       "url": "https://open.spotify.com/track/6MHNB1rJyaBOmLxe307JiN"
+    },
+    {
+      "album": {
+        "name": "BANG!",
+        "url": "https://open.spotify.com/album/5mPMtvMVqTKpYVdfqJPmOp"
+      },
+      "artists": [
+        {
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214821,
+      "name": "BANG!",
+      "url": "https://open.spotify.com/track/3xTAnualQLXQTPXCY8fDQn"
     },
     {
       "album": {
@@ -1856,6 +1874,40 @@
       "duration_ms": 217894,
       "name": "Long Run",
       "url": "https://open.spotify.com/track/07FoWeMGtWfL80KWEVFtqx"
+    },
+    {
+      "album": {
+        "name": "LOVEGELS (From GELBOYS \u0e2a\u0e16\u0e32\u0e19\u0e30\u0e01\u0e31\u0e4a\u0e01\u0e43\u0e08)",
+        "url": "https://open.spotify.com/album/5FYwC7iJcRbdbmAIY7W3wi"
+      },
+      "artists": [
+        {
+          "name": "GELBOYS",
+          "url": "https://open.spotify.com/artist/5YvJNC1t2jBXATQmhwyj5w"
+        },
+        {
+          "name": "NEW CHAYAPAK",
+          "url": "https://open.spotify.com/artist/0atjgenQFlO5ChPvrXoKqW"
+        },
+        {
+          "name": "pide",
+          "url": "https://open.spotify.com/artist/2fBOV1th6k87utX2LYuXeP"
+        },
+        {
+          "name": "PJ",
+          "url": "https://open.spotify.com/artist/7Duv82zy6lhA77CvXIC2N0"
+        },
+        {
+          "name": "LEON BROCCO",
+          "url": "https://open.spotify.com/artist/64BdX5a3XrzsRuc6277LQW"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "LOVEGELS - From GELBOYS \u0e2a\u0e16\u0e32\u0e19\u0e30\u0e01\u0e31\u0e4a\u0e01\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/5jCQB8mYMiubVDEx3Lfo0b"
     },
     {
       "album": {
@@ -5355,6 +5407,24 @@
     },
     {
       "album": {
+        "name": "\u0e0b\u0e36\u0e21\u0e0b\u0e31\u0e1a (DOUBTLESS)",
+        "url": "https://open.spotify.com/album/4nXAcObYOJHopK1CpkE5OI"
+      },
+      "artists": [
+        {
+          "name": "FOURTH",
+          "url": "https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213951,
+      "name": "\u0e0b\u0e36\u0e21\u0e0b\u0e31\u0e1a (DOUBTLESS)",
+      "url": "https://open.spotify.com/track/6NDNXuo2bGX7aFGA0jndEn"
+    },
+    {
+      "album": {
         "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
         "url": "https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J"
       },
@@ -6754,7 +6824,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 183614,
       "name": "\u0e1c\u0e34\u0e14\u0e41\u0e1c\u0e19 (FOUL) [feat. SMEW]",
       "url": "https://open.spotify.com/track/33HEdA0Wu5xvl1tBoTwrb8"
@@ -7889,6 +7959,32 @@
     },
     {
       "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Close Friend)",
+        "url": "https://open.spotify.com/album/5QCYOx0c5M06VH2OtkCoYA"
+      },
+      "artists": [
+        {
+          "name": "PONCHET",
+          "url": "https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr"
+        },
+        {
+          "name": "VARINZ",
+          "url": "https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ"
+        },
+        {
+          "name": "NONNY9",
+          "url": "https://open.spotify.com/artist/3iOF8kiG0peRzcvbFSa9xS"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "\u0e23\u0e31\u0e01\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Close Friend)",
+      "url": "https://open.spotify.com/track/3wCdrlyRJ2zuBIZRbmDVZW"
+    },
+    {
+      "album": {
         "name": "\u0e23\u0e31\u0e01\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49\u0e15\u0e31\u0e27",
         "url": "https://open.spotify.com/album/6zPPp3G1wfTCc6F2v11cDR"
       },
@@ -8171,6 +8267,24 @@
     },
     {
       "album": {
+        "name": "\u0e25\u0e2d\u0e07 (Reputation)",
+        "url": "https://open.spotify.com/album/3Sy8cFPzSYdgqr107PFUBQ"
+      },
+      "artists": [
+        {
+          "name": "gorn",
+          "url": "https://open.spotify.com/artist/4M38O0BdnZFTOc9QjeHShV"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "\u0e25\u0e2d\u0e07 (Reputation)",
+      "url": "https://open.spotify.com/track/4Z19UYA5JKGLhdg7g7wMHu"
+    },
+    {
+      "album": {
         "name": "\u0e25\u0e2d\u0e07\u0e04\u0e38\u0e22 (TRY)",
         "url": "https://open.spotify.com/album/0AcOnm6igHeqUYQMtOShIQ"
       },
@@ -8438,7 +8552,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 224262,
       "name": "\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e1b\u0e35\u0e2b\u0e19\u0e49\u0e32 (9PM) - From GELBOYS \u0e2a\u0e16\u0e32\u0e19\u0e30\u0e01\u0e31\u0e4a\u0e01\u0e43\u0e08",
       "url": "https://open.spotify.com/track/3ZUSCLXPYLodwpYRKklbvq"
@@ -9776,7 +9890,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 202434,
       "name": "\u0e40\u0e01\u0e34\u0e14\u0e2d\u0e32\u0e01\u0e32\u0e23 - Heartquake",
       "url": "https://open.spotify.com/track/6IhouTQgPPFY8GIR9JpFhB"
@@ -11703,6 +11817,24 @@
     },
     {
       "album": {
+        "name": "\u0e42\u0e2b\u0e25\u0e22\u0e42\u0e17\u0e48\u0e22 (Poor Boy)",
+        "url": "https://open.spotify.com/album/0kcSrOXptP3PBv9T8r22Qc"
+      },
+      "artists": [
+        {
+          "name": "Daou Pittaya",
+          "url": "https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184680,
+      "name": "\u0e42\u0e2b\u0e25\u0e22\u0e42\u0e17\u0e48\u0e22 (Poor Boy)",
+      "url": "https://open.spotify.com/track/1ncwheJzbPTvNhKtwvsrjM"
+    },
+    {
+      "album": {
         "name": "\u0e42\u0e2d\u0e19\u0e49\u0e2d\u0e22\u0e2d\u0e2d\u0e01 (Truth or Dare)",
         "url": "https://open.spotify.com/album/4ZZNajw0mJqgRii3twhyDQ"
       },
@@ -11768,7 +11900,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 217941,
       "name": "\u0e43\u0e01\u0e25\u0e49\u0e40\u0e01\u0e34\u0e19 (TOO CLOSE TO HANDLE)",
       "url": "https://open.spotify.com/track/401VKk3bdyumcfJH8aUCjm"
@@ -12560,7 +12692,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 211647,
       "name": "\u0e44\u0e2d\u0e49\u0e1a\u0e49\u0e32 (Gu ja Crazy) - From GELBOYS \u0e2a\u0e16\u0e32\u0e19\u0e30\u0e01\u0e31\u0e4a\u0e01\u0e43\u0e08",
       "url": "https://open.spotify.com/track/655CsNqED6kK98nHtWRnhv"

@@ -2,9 +2,9 @@
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Davido
+> The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: KeBlack
 
-738 songs - 1 day 12 hr 18 min
+740 songs - 1 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 | 2022-11-10 | 2023-02-24 |
 | [2.4.3 inarrêtable](https://open.spotify.com/track/45R9hDcY2jndn5ojgGvw1W) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav) | [2.4.3 inarrêtable](https://open.spotify.com/album/2lXFEphT3STv5TFMoEioHF) | 3:22 | 2024-02-22 | 2024-04-05 |
 | [2:30](https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [2:30](https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L) | 2:18 | 2023-04-06 | 2023-05-26 |
-| [42](https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [42](https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2) | 2:55 | 2024-06-20 |  |
+| [42](https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [42](https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2) | 2:55 | 2024-06-20 | 2025-03-21 |
 | [A.T.B \#Oshey2](https://open.spotify.com/track/3PipixuHQ5zVlgmHC4pURa) | [Lossa2Squa](https://open.spotify.com/artist/0DhhGFA0yxKhk7wrnzdbbK), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [A.T.B \#Oshey2](https://open.spotify.com/album/5HRmi5GVHKbnQg4AYyO2He) | 3:00 | 2022-09-29 | 2022-11-11 |
 | [A1 \(Feeling Disorder\)](https://open.spotify.com/track/5lsnlGFJTOytJFgJH5tuMu) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [A1 \(Feeling Disorder\)](https://open.spotify.com/album/310NyAQdWMgHJNjq7AKLvo) | 2:05 | 2023-06-08 | 2023-07-07 |
 | [Abeg](https://open.spotify.com/track/62cC7k1opRIS9sdviJnVj5) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Greatness 2.0](https://open.spotify.com/album/09HVEH824tr4OBfQmxgIxT) | 2:39 | 2021-12-27 | 2022-02-25 |
@@ -279,6 +279,7 @@
 | [Flex](https://open.spotify.com/track/1TfP0ZQzyiveYN9lzmGTCd) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Flex](https://open.spotify.com/album/56hBQiMKWLzDd9rEWdACzh) | 2:34 | 2023-07-06 | 2023-07-20 |
 | [Focus On Me \(All The Sexy Girls In The Club\)](https://open.spotify.com/track/7JMkjelaEgUOdV7926uzGi) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Focus On Me \(All The Sexy Girls In The Club\)](https://open.spotify.com/album/5DsOXNHR7dHOSVQ5sFDp4N) | 3:09 | 2025-01-16 |  |
 | [Folake](https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Folake](https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i) | 2:48 | 2023-01-26 | 2023-04-14 |
+| [Follow Me](https://open.spotify.com/track/7h3oCfORMboakvSqgn3dmt) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Follow Me](https://open.spotify.com/album/3cVnkUmA5GSSWCrYDpKwoZ) | 3:00 | 2025-03-20 |  |
 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-07-21 | 2023-02-03 |
 | [Forévà](https://open.spotify.com/track/6ptu4Fyc5N5u4VLt81CCJF) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [TESTIMONY.](https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK) | 2:49 | 2025-01-16 |  |
 | [Foutaise](https://open.spotify.com/track/1DGftqE1YlsVHcG0XbTy59) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw), [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [Foutaise](https://open.spotify.com/album/77KZ2KVZCcFKnTymB1Cwpn) | 2:20 | 2024-09-19 |  |
@@ -383,7 +384,7 @@
 | [La Loupe](https://open.spotify.com/track/6LvIvRZh3SeWGKyzM8gYJO) | [Were\-vana](https://open.spotify.com/artist/1f1DjtYgH6yBzBSiGteBJl) | [La Loupe](https://open.spotify.com/album/4PLxr6mFMC4Uth8aJemKCF) | 2:35 | 2023-10-26 | 2023-12-01 |
 | [LA SÉRÉNADE](https://open.spotify.com/track/7qBfOpNYXoBjloQEEjgO31) | [Saalva13](https://open.spotify.com/artist/7ziV83zu4GTZleElZOQM4z) | [LA SÉRÉNADE](https://open.spotify.com/album/719ClNQ3foCLG2VnEI0Rka) | 2:50 | 2024-08-22 | 2024-10-04 |
 | [La vie d'un..\. / Ma préférée](https://open.spotify.com/track/3IedXlFglIwo754rxOID4x) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE](https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn) | 4:46 | 2024-04-18 | 2025-01-24 |
-| [La vraie vie](https://open.spotify.com/track/2zSIAePG9IAhosLGptnq9T) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Imad, la suite](https://open.spotify.com/album/4XKqdc8TBZa8XZcUV6xgXC) | 2:23 | 2025-02-20 |  |
+| [La vraie vie](https://open.spotify.com/track/2zSIAePG9IAhosLGptnq9T) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Imad, la suite](https://open.spotify.com/album/4XKqdc8TBZa8XZcUV6xgXC) | 2:23 | 2025-02-20 | 2025-03-21 |
 | [Laho](https://open.spotify.com/track/37nExiid2iQtQzCJfUzohy) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Laho](https://open.spotify.com/album/5HelT4HN12za8jJhvi6azJ) | 2:24 | 2025-03-13 |  |
 | [LAISSE MOI](https://open.spotify.com/track/2ImdwbujxKFxN1UxEvf2dD) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [LAISSE MOI](https://open.spotify.com/album/2H2opHZttuBFqxhBNssSkD) | 2:48 | 2023-09-14 | 2024-02-09 |
 | [Laisse moi te dire](https://open.spotify.com/track/7dq6t0RK55zKi6CRsbnMJT) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Laisse moi te dire](https://open.spotify.com/album/1PDj3CVAKGk2m6VIqRO55s) | 3:46 | 2022-06-30 | 2022-09-02 |
@@ -711,6 +712,7 @@
 | [Va bene \(feat\. Tayc, Soolking, Jul & Naza\)](https://open.spotify.com/track/2rCWBH2DlKNgsEJFb8diw3) | [4.4.2](https://open.spotify.com/artist/5ocH0jGbwm0TeLOlegUVUY), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Va bene \(feat\. Tayc, Soolking, Jul & Naza\)](https://open.spotify.com/album/2ZLgyBAHLT9i9meO9baB8k) | 3:37 | 2022-03-31 | 2022-05-20 |
 | [Vanille](https://open.spotify.com/track/2Zk7jIl5qHuQAR6xVvzi3P) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG) | [Vanille](https://open.spotify.com/album/1nAaxU8AfAKs50ClvUMY6S) | 2:30 | 2023-11-30 | 2024-01-19 |
 | [Vero](https://open.spotify.com/track/0yjxAenLJwPCCcn19XSYG3) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Vero](https://open.spotify.com/album/7fshzXhS2s2VwC9bvzBFiC) | 2:04 | 2023-06-15 | 2023-07-14 |
+| [VIBE](https://open.spotify.com/track/5gYvVGN7zpSB0D3KXIEQXf) | [Danilo](https://open.spotify.com/artist/0nztDFQzc7SwCIGZnvDIJ7) | [VIBE](https://open.spotify.com/album/619nUlslMHEPTgMdrlGYAk) | 1:47 | 2025-03-20 |  |
 | [Vie Viano \(\#STATION 1\)](https://open.spotify.com/track/1Rl3EOVuCPL0K6mYbPDlfa) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Vie Viano \(\#STATION 1\)](https://open.spotify.com/album/1KvqB3fVRasWGX3Rpseggc) | 1:42 | 2024-10-24 | 2024-12-13 |
 | [Viens bébé](https://open.spotify.com/track/5T4YWAQoY0F3aX6LscU2uL) | [Dy La Mano](https://open.spotify.com/artist/3KDuwGij0fDmQj7KlXWVnr) | [Viens bébé](https://open.spotify.com/album/6HOV3HPssgnbD8Ran4DTr1) | 3:01 | 2023-07-06 | 2023-09-01 |
 | [VIP](https://open.spotify.com/track/6NCJTDAQsOErJGv7mhdvsB) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [VIP](https://open.spotify.com/album/4CwFdN37OjqRPYh4nri0w2) | 2:27 | 2022-09-22 | 2023-01-13 |

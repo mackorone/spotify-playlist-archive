@@ -1,6 +1,6 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 76336,
+  "num_followers": 76347,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
+        "name": "Aguerrida",
+        "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 151953,
+      "name": "Ni una Gota de Amor",
+      "url": "https://open.spotify.com/track/0eYmT4lH19Aqi3tnVrsLG0"
+    },
+    {
+      "added_at": "2025-01-10 16:11:48",
+      "album": {
         "name": "No tenemos prisa",
         "url": "https://open.spotify.com/album/0F2GJsUVDeIJhKFtB8wWKk"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 238847,
       "name": "Como una punzada",
       "url": "https://open.spotify.com/track/6gKaMK2pe6ZUCaypnnA9AM"
-    },
-    {
-      "added_at": "2025-01-10 16:11:48",
-      "album": {
-        "name": "Aguerrida",
-        "url": "https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 151953,
-      "name": "Ni una Gota de Amor",
-      "url": "https://open.spotify.com/track/0eYmT4lH19Aqi3tnVrsLG0"
     },
     {
       "added_at": "2025-01-10 16:11:48",
@@ -1275,22 +1275,18 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
-        "name": "Esperanza",
-        "url": "https://open.spotify.com/album/6Xsju25I5pCP0cCNgXs2iv"
+        "name": "El Alma Musical de RCA",
+        "url": "https://open.spotify.com/album/2zOB9t8qly8ZBh4OMpwQ6o"
       },
       "artists": [
         {
-          "name": "Sonia De Los Santos",
-          "url": "https://open.spotify.com/artist/4aNmQzHcg0vTqPSauw4CKr"
-        },
-        {
-          "name": "Zeudi Casta\u00f1eda",
-          "url": "https://open.spotify.com/artist/3pwMCl20rE77YMGgCanTif"
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
         }
       ],
-      "duration_ms": 184429,
-      "name": "Sue\u00f1a",
-      "url": "https://open.spotify.com/track/36AqjVOrwb29Xc31RBDJAy"
+      "duration_ms": 274773,
+      "name": "Jurame - Remasterizado",
+      "url": "https://open.spotify.com/track/0vt3qE8odeBMTPy0tm5sF8"
     },
     {
       "added_at": "2025-01-10 16:11:48",
@@ -1311,18 +1307,22 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
-        "name": "El Alma Musical de RCA",
-        "url": "https://open.spotify.com/album/2zOB9t8qly8ZBh4OMpwQ6o"
+        "name": "Esperanza",
+        "url": "https://open.spotify.com/album/6Xsju25I5pCP0cCNgXs2iv"
       },
       "artists": [
         {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+          "name": "Sonia De Los Santos",
+          "url": "https://open.spotify.com/artist/4aNmQzHcg0vTqPSauw4CKr"
+        },
+        {
+          "name": "Zeudi Casta\u00f1eda",
+          "url": "https://open.spotify.com/artist/3pwMCl20rE77YMGgCanTif"
         }
       ],
-      "duration_ms": 274773,
-      "name": "Jurame - Remasterizado",
-      "url": "https://open.spotify.com/track/0vt3qE8odeBMTPy0tm5sF8"
+      "duration_ms": 184429,
+      "name": "Sue\u00f1a",
+      "url": "https://open.spotify.com/track/36AqjVOrwb29Xc31RBDJAy"
     },
     {
       "added_at": "2025-01-10 16:11:48",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2025-01-10 16:11:48",
       "album": {
+        "name": "Polvo",
+        "url": "https://open.spotify.com/album/3mg9Kt07tnjoAV2ZxbByXy"
+      },
+      "artists": [
+        {
+          "name": "Mon de Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5NejWF2yqY4C5ZWlfIGOcG"
+        }
+      ],
+      "duration_ms": 222005,
+      "name": "Polvo",
+      "url": "https://open.spotify.com/track/669dmvIOFG2YfUKayX55JA"
+    },
+    {
+      "added_at": "2025-01-10 16:11:48",
+      "album": {
         "name": "Voy Despacito",
         "url": "https://open.spotify.com/album/3Gzwvs7BivlrMkNld3ywjS"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 259411,
       "name": "Voy Despacito",
       "url": "https://open.spotify.com/track/1v6edhOXV6SxEJzKYmUVp8"
-    },
-    {
-      "added_at": "2025-01-10 16:11:48",
-      "album": {
-        "name": "Polvo",
-        "url": "https://open.spotify.com/album/3mg9Kt07tnjoAV2ZxbByXy"
-      },
-      "artists": [
-        {
-          "name": "Mon de Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5NejWF2yqY4C5ZWlfIGOcG"
-        }
-      ],
-      "duration_ms": 222005,
-      "name": "Polvo",
-      "url": "https://open.spotify.com/track/669dmvIOFG2YfUKayX55JA"
     },
     {
       "added_at": "2025-01-10 16:11:48",

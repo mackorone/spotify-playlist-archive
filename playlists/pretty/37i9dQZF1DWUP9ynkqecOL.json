@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 24110,
+  "num_followers": 24112,
   "original_name": "Electro Folclore",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
+        "name": "Huestes",
+        "url": "https://open.spotify.com/album/2EjEF5v5FuPVut3JdZBK2a"
+      },
+      "artists": [
+        {
+          "name": "Weste",
+          "url": "https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q"
+        }
+      ],
+      "duration_ms": 223760,
+      "name": "Ant\u00eddoto",
+      "url": "https://open.spotify.com/track/2nbXinv9k0boywWmtOk3AW"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/28RtDha49nLiVOwF2uKGgH"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 179000,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/5swaFRVnv2sinjvZKQraiJ"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
-        "name": "Huestes",
-        "url": "https://open.spotify.com/album/2EjEF5v5FuPVut3JdZBK2a"
-      },
-      "artists": [
-        {
-          "name": "Weste",
-          "url": "https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q"
-        }
-      ],
-      "duration_ms": 223760,
-      "name": "Ant\u00eddoto",
-      "url": "https://open.spotify.com/track/2nbXinv9k0boywWmtOk3AW"
     },
     {
       "added_at": "2024-10-22 19:09:15",
@@ -967,6 +967,26 @@
     {
       "added_at": "2024-10-22 19:09:15",
       "album": {
+        "name": "El tiempo de las cosas que frenan",
+        "url": "https://open.spotify.com/album/6nytaOB8Hmrfr3nw7rdhlY"
+      },
+      "artists": [
+        {
+          "name": "San Ignacio",
+          "url": "https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 300250,
+      "name": "El tiempo de las cosas que frenan",
+      "url": "https://open.spotify.com/track/0KadCh4wyXRyAGBxrFEesw"
+    },
+    {
+      "added_at": "2024-10-22 19:09:15",
+      "album": {
         "name": "Camino a la Templanza",
         "url": "https://open.spotify.com/album/6sFos3tp45tLjHLHtgsOww"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 358666,
       "name": "Templo Andino",
       "url": "https://open.spotify.com/track/4XNA7q9YMsl9uhRzhRaczR"
-    },
-    {
-      "added_at": "2024-10-22 19:09:15",
-      "album": {
-        "name": "El tiempo de las cosas que frenan",
-        "url": "https://open.spotify.com/album/6nytaOB8Hmrfr3nw7rdhlY"
-      },
-      "artists": [
-        {
-          "name": "San Ignacio",
-          "url": "https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 300250,
-      "name": "El tiempo de las cosas que frenan",
-      "url": "https://open.spotify.com/track/0KadCh4wyXRyAGBxrFEesw"
     },
     {
       "added_at": "2024-10-22 19:09:15",

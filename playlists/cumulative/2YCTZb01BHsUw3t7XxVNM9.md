@@ -4,7 +4,7 @@
 
 > Western orientated Hardcore Music by Japanese Artists
 
-490 songs - 1 day 10 hr 1 min
+491 songs - 1 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [SPARK OUT FREAKIN TERROR \- \(Kobaryo Remix\)](https://open.spotify.com/track/1nQWK3eAI6EBzriuyhaDYS) | [RedOgre](https://open.spotify.com/artist/1sOYeIJ9RXcjlk8eIlv1U5), [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb) | [Jet Riddim or The Hardest](https://open.spotify.com/album/0O2n9kYhDB31DKMSL8nokC) | 4:30 | 2019-04-04 |  |
 | [Spread the Fallen Wings](https://open.spotify.com/track/33kFmaILHDZ7Ygc419cPf8) | [pocotan](https://open.spotify.com/artist/46CrX7GTEcWgCRHPRMCILk) | [Invitation to the Fallen 2](https://open.spotify.com/album/2v5vnkf70VSNJjfKCn1btL) | 5:12 | 2020-10-16 |  |
 | [STARCHILD](https://open.spotify.com/track/15aYDkl4727kCtBPV8Npvn) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [Bright Colors 3](https://open.spotify.com/album/4mHvOpXt5lMZfDHNHLigvu) | 5:15 | 2019-03-03 |  |
+| [Still Alive \(feat\. WaMi\)](https://open.spotify.com/track/3Ap7L7YAH8Ejax4j1hgjCv) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN), [WaMi](https://open.spotify.com/artist/1qanQeBBRpAXORMg7BdCol) | [Still Alive \(feat\. WaMi\)](https://open.spotify.com/album/1JsbLzloqC4ewSj2rzvDgO) | 2:59 | 2025-03-20 |  |
 | [Still In My Blood](https://open.spotify.com/track/2QfUCEAkdAbz0dHoraceP4) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [HARDCORE SYNDROME 13](https://open.spotify.com/album/7K9CRwTPgGvCBbMrqGVnfY) | 4:12 | 2019-08-27 |  |
 | [Still Underground](https://open.spotify.com/track/6vtsHAeI7hAwPwU0IID0Xe) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [ALICE IN VOODOOLAND](https://open.spotify.com/album/231AeotAakmnCpgRpAqiNP) | 4:55 | 2019-02-09 |  |
 | [Storm Control](https://open.spotify.com/track/0jO2dE7usuM0x9zSjbvBJd) | [Freezer](https://open.spotify.com/artist/67BCC33Zamb5TdL6di2xi1) | [ゴッタニラボラトリ](https://open.spotify.com/album/7wHrNzGg814zf5iWWwYay9) | 4:13 | 2020-05-05 |  |

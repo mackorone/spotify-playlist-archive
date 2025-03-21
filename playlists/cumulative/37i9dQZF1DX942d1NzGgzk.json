@@ -2204,7 +2204,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 197303,
       "name": "Glow",
       "url": "https://open.spotify.com/track/0coL1H5F5ZvN4fzPMWxvWq"
@@ -2476,7 +2476,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 187396,
       "name": "Have your babies",
       "url": "https://open.spotify.com/track/11pUhRUIkMIeSTVktv6ddL"
@@ -3800,7 +3800,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 185800,
       "name": "Lose Myself",
       "url": "https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y"
@@ -3908,7 +3908,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-17",
+      "date_removed": null,
       "duration_ms": 149400,
       "name": "LYTM",
       "url": "https://open.spotify.com/track/5uV05m9GmsbSyUinuiV1Z3"
@@ -4238,7 +4238,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 127802,
       "name": "My Man",
       "url": "https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL"
@@ -6664,6 +6664,28 @@
       "duration_ms": 178409,
       "name": "Wanna Be With You (feat. Tamera & Mowgs)",
       "url": "https://open.spotify.com/track/0GFmF62FeWHM3OYYtAhcxq"
+    },
+    {
+      "album": {
+        "name": "Wanna Know",
+        "url": "https://open.spotify.com/album/65N53BDKqAMXSHILGYEHTn"
+      },
+      "artists": [
+        {
+          "name": "Stefan Mahendra",
+          "url": "https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF"
+        },
+        {
+          "name": "Walker",
+          "url": "https://open.spotify.com/artist/6VWmuRhDSoyqiftAnlNFXz"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266953,
+      "name": "Wanna Know",
+      "url": "https://open.spotify.com/track/4DlFEmR9aTXJ0VsREeimrM"
     },
     {
       "album": {

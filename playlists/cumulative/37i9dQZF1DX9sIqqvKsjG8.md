@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-931 songs - 1 day 15 hr 48 min
+932 songs - 1 day 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Dark Skies, Bright Stars](https://open.spotify.com/track/2d6TuppzOeiaMHuaddPO9K) | [Elke Fischer](https://open.spotify.com/artist/6TSeTJYdnpkR0LBtg3AmoI) | [Dark Skies, Bright Stars](https://open.spotify.com/album/5Y0tdMVlsomtFC6HqXmahk) | 2:00 | 2021-12-07 | 2022-05-06 |
 | [Darkness of days](https://open.spotify.com/track/7Jo0X730aLdGcB9rgkSOgl) | [Jens Larsson](https://open.spotify.com/artist/35Qsb23bqJr3tzyA7GICWT) | [Darkness of days](https://open.spotify.com/album/0Rub3dRIWJgHeyfDRn6R5J) | 3:10 | 2022-10-13 | 2023-03-21 |
 | [Dazzling Sun](https://open.spotify.com/track/2Ybs9KNO2dlCp6CGBIGtzo) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Efflorescence](https://open.spotify.com/album/39PUwYEN0AxbFJDAdsrJOO) | 2:19 | 2022-01-04 | 2022-07-20 |
+| [Deep Blue](https://open.spotify.com/track/2qmKMYVvHxOQqW0GbMr5VR) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Deep Blue](https://open.spotify.com/album/6BYs44BM5V0a4neWaQ5u1l) | 2:37 | 2025-03-21 |  |
 | [Del Mar](https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Del Mar](https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ) | 2:40 | 2023-08-01 |  |
 | [Delphine](https://open.spotify.com/track/2HkjTkR8KB5CKa2UyrUMHf) | [Mounia Sedé](https://open.spotify.com/artist/2nlEm4eSFbBlIJqDfscH3M) | [Delphine](https://open.spotify.com/album/0Pt37U6BBbLg7PCvhcDT5y) | 2:22 | 2021-12-07 | 2022-05-06 |
 | [Desire](https://open.spotify.com/track/6ZWSNL3mdxhmbLh3KSYdqU) | [Haley Morrison](https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET) | [Desire](https://open.spotify.com/album/5X7MlwenEeNdxXAbg1gdMO) | 2:08 | 2022-07-19 |  |

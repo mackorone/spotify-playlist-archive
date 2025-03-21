@@ -2,9 +2,9 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo : GIMS
+> Photo : L2B
 
-248 songs - 11 hr 55 min
+250 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Angela](https://open.spotify.com/track/5tl5NRfjvOEZaVuWBQHOf9) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Et si j'échoue ?](https://open.spotify.com/album/13DOol2YIm4SV5opoucJpu) | 2:54 | 2024-12-19 |  |
 | [Avec elle](https://open.spotify.com/track/2cjMxpKD3fAmM0iZPWHJri) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Avec elle](https://open.spotify.com/album/3zVzY7IdtotQVKGCPOUiBg) | 2:46 | 2023-10-12 | 2024-02-23 |
 | [Bababa](https://open.spotify.com/track/1wE89iLKbmFgFDg2eXHjbB) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Bababa](https://open.spotify.com/album/21IiEYSwxh1wAMM11zplOS) | 2:29 | 2024-09-26 | 2025-01-17 |
+| [Balade](https://open.spotify.com/track/7C13bFjFdELL8ioTMtVbZ5) | [1D1R](https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Meraki](https://open.spotify.com/album/0wl6FnaTJw4TXzjL1PT5G6) | 3:13 | 2025-03-20 |  |
 | [Bande organisée 2](https://open.spotify.com/track/3wh4HFS6a3v8Zu1vZadEwA) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [13 Organisé](https://open.spotify.com/artist/19u3RGWKsjmbg9eI6zAiNp), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw), [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH), [Elams](https://open.spotify.com/artist/2IoSLl3tqYMq9DzR0d6NJN), [Solda](https://open.spotify.com/artist/7FXX45sHqoQoCwqtG0ZV8H), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Bande organisée 2](https://open.spotify.com/album/77qDPmjrdp1m055rJ3vpSr) | 6:16 | 2024-08-15 |  |
 | [Benda](https://open.spotify.com/track/4gGtXfBmsTlglZm6FeJ1T9) | [Dadinho](https://open.spotify.com/artist/0zw74GbIgk0thLlMGeQV2H) | [Benda](https://open.spotify.com/album/3fPapZVnsbmGKldPL9TmER) | 2:51 | 2023-09-28 | 2023-11-24 |
 | [Besoin](https://open.spotify.com/track/1TlGKRboZU1UKvAtSs5EBP) | [Big Ben](https://open.spotify.com/artist/4jPuXBvEwyMyVQPRoQsTDn) | [Besoin](https://open.spotify.com/album/00HrZ5ROe1rtJ8TyC0DGi4) | 2:53 | 2024-04-11 | 2024-05-03 |
@@ -81,11 +82,11 @@
 | [Favéla \(\#STATION 3\)](https://open.spotify.com/track/4RrEMleLv7K3Htsxly2hLs) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Favéla \(\#STATION 3\)](https://open.spotify.com/album/2Ei4g6zJuC6rtWPWtszUx3) | 2:58 | 2025-01-23 | 2025-03-07 |
 | [Fleurs](https://open.spotify.com/track/2jrpnXUN8mMrDMKXrzKsNO) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [SOLSAD](https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn) | 3:05 | 2024-07-18 | 2024-08-16 |
 | [Follow](https://open.spotify.com/track/3LoXmE7628YHrHDTXUNTzI) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434) | [Follow](https://open.spotify.com/album/6HCgLXR7FISyZ4n9689t26) | 2:24 | 2025-01-09 |  |
-| [FOUDRE](https://open.spotify.com/track/3mfEErh2onwtaWlL7ZtNsl) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU) | [FOUDRE](https://open.spotify.com/album/0BGuudU5Zpjkg1yUKMWZEp) | 2:27 | 2025-02-13 |  |
+| [FOUDRE](https://open.spotify.com/track/3mfEErh2onwtaWlL7ZtNsl) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU) | [FOUDRE](https://open.spotify.com/album/0BGuudU5Zpjkg1yUKMWZEp) | 2:27 | 2025-02-13 | 2025-03-21 |
 | [Full](https://open.spotify.com/track/1Bjh8hsHQZYjLQGW1b2sCR) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Mon Âme \- Summer Vibes](https://open.spotify.com/album/4eGCU3guNX8aXnMVov0ZRS) | 2:59 | 2024-05-30 | 2024-06-14 |
 | [Fumée Blanche](https://open.spotify.com/track/72Wv7tnQhlVyvc4VaBDBDe) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Fumée Blanche](https://open.spotify.com/album/4LzlgK3TJqL8ivGKIsdUfN) | 3:04 | 2025-03-06 |  |
 | [God Bless](https://open.spotify.com/track/7F4UEZZwn4hE0u1g3STeUD) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [God Bless / Doku](https://open.spotify.com/album/66U39Bnl5YbAb2kyyFvWBD) | 1:56 | 2025-02-20 |  |
-| [Gouli](https://open.spotify.com/track/5jHSmCf0tw9V0R5WNrT481) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Zamane](https://open.spotify.com/album/0b7PSrUTpz9xIE9OlKLkGW) | 3:08 | 2025-02-13 |  |
+| [Gouli](https://open.spotify.com/track/5jHSmCf0tw9V0R5WNrT481) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Zamane](https://open.spotify.com/album/0b7PSrUTpz9xIE9OlKLkGW) | 3:08 | 2025-02-13 | 2025-03-21 |
 | [Guadalajara](https://open.spotify.com/track/4e8h0zqi70JHvZbCzrgcHE) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Guadalajara](https://open.spotify.com/album/4ORZW3jfpRuUYC7hg3IBKf) | 2:41 | 2023-09-28 | 2023-11-10 |
 | [HASTA LA VISTA](https://open.spotify.com/track/14j9HbZoSdTooGK12uTNRc) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [HASTA LA VISTA](https://open.spotify.com/album/7hUqFjJC3W7ClnQolEO3NT) | 3:19 | 2024-06-06 | 2024-06-19 |
 | [HÉHÉ HÉ](https://open.spotify.com/track/1C4PROiF5jENfbksRBTTqD) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [HÉHÉ HÉ](https://open.spotify.com/album/5Ja9Da9rK2h6NwaMSe9Eor) | 2:18 | 2024-07-04 | 2024-10-25 |
@@ -207,6 +208,7 @@
 | [Sensations](https://open.spotify.com/track/5Y8Zbqlmx97hTM8y5kqo0x) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Sensations](https://open.spotify.com/album/4mJQmamNVYsJ9FF5tKq71C) | 4:21 | 2023-11-23 | 2024-04-05 |
 | [Seya](https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Seya](https://open.spotify.com/album/2VJcmi0iisyLekBIgoKKvw) | 3:08 | 2023-10-05 | 2024-07-05 |
 | [Shayo](https://open.spotify.com/track/2e7qqQ8MkLa0h5xmHL5cso) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [LVDR](https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1) | 2:41 | 2024-06-13 | 2024-09-27 |
+| [Shine](https://open.spotify.com/track/3ymAkyG6LfREJmfEXEaSbk) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Shine](https://open.spotify.com/album/0GQMw7o7HQXdDhteOWC4bc) | 2:59 | 2025-03-20 |  |
 | [Si Si](https://open.spotify.com/track/5iFu4sGrA7CqC6TYXn8sKc) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Dj Leska](https://open.spotify.com/artist/6CSKMBCeQhddsPL63zvDhX) | [Si Si](https://open.spotify.com/album/2q0V1wmNVUpZUxYy85r1y3) | 3:00 | 2024-06-13 | 2024-09-20 |
 | [SOIS PAS TIMIDE](https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SOIS PAS TIMIDE](https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs) | 2:45 | 2024-07-25 | 2025-03-07 |
 | [Solo Mi Madre](https://open.spotify.com/track/22LPuqKITi7z503Yj6XbX2) | [daviid\_328](https://open.spotify.com/artist/4mxv3XnN0fRgjMBdSWNSlP) | [Solo Mi Madre](https://open.spotify.com/album/4KS1K2A4w3ZvER8S9n765m) | 3:20 | 2023-11-30 | 2023-12-02 |

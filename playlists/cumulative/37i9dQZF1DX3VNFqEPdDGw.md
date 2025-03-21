@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Gurnam Bhullar &  Geet Goraya
 
-247 songs - 12 hr 54 min
+248 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,9 +216,10 @@
 | [Still Standing](https://open.spotify.com/track/6qJwdPK0bMWyX2ys3lZ23y) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [Underrated](https://open.spotify.com/album/2k3QwEDSQHgQLclE3Cvcov) | 2:38 | 2021-12-18 | 2023-09-02 |
 | [Sun Jattiye \(feat\. Charnpreet Dhillon\)](https://open.spotify.com/track/7BIW2l0LjfmWqVUVdpZUAd) | [Dilbag Sandhu](https://open.spotify.com/artist/0Zm7CWUz4LPYRWaxs4JYAx), [Manpreet Hans](https://open.spotify.com/artist/0EL0VMv1reqwgvfBSrxWmT), [Charnpreet Dhillon](https://open.spotify.com/artist/42MQDEs0fRWYRGfFJyXeXq) | [Sun Jattiye \(feat\. Charnpreet Dhillon\)](https://open.spotify.com/album/1TrguiaWd1KSOrbGIA5RiK) | 3:01 | 2025-03-13 | 2025-03-20 |
 | [Sunke](https://open.spotify.com/track/5G0seszeGo0yaWF4UlnVTq) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Sunke](https://open.spotify.com/album/29tL8p9u0WlMEFaaArdBq4) | 2:39 | 2024-11-20 |  |
-| [Super Flow](https://open.spotify.com/track/3D3lcpe88aFfGe7k7e4hhe) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Super Flow](https://open.spotify.com/album/3AkgWnjFsCbesG1CXU1Qub) | 1:54 | 2025-03-11 |  |
+| [Super Flow](https://open.spotify.com/track/3D3lcpe88aFfGe7k7e4hhe) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Super Flow](https://open.spotify.com/album/3AkgWnjFsCbesG1CXU1Qub) | 1:54 | 2025-03-11 | 2025-03-21 |
 | [SUPREME](https://open.spotify.com/track/5nUAZKw9lVbhKfWvWc5hFm) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj) | [XPENSIVE](https://open.spotify.com/album/6uYJ79s2t3NPe3Mkyb33oZ) | 2:50 | 2025-01-08 |  |
 | [Surma](https://open.spotify.com/track/2EKPi0tqWGoCMRUm0OimC1) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N), [Raj Shoker](https://open.spotify.com/artist/1Na1S8hKokfgUHipxLLx59) | [Surma](https://open.spotify.com/album/0mynneCJOCqAWYEW8Eg6JM) | 3:38 | 2021-12-18 | 2022-01-11 |
+| [Tag Karke](https://open.spotify.com/track/3Bldx8QLX1D6xMwCXuQyDw) | [Sharry Mann](https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i), [JSD Music](https://open.spotify.com/artist/6sqrEWUnr5MDsDzrmjXT96) | [Hawa De Bulle](https://open.spotify.com/album/74Is0GVLdLVE6Nn5uGZN58) | 3:20 | 2025-03-20 |  |
 | [Talent](https://open.spotify.com/track/0EeKOCYS9jaOLaqYyWvq9N) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Mahi](https://open.spotify.com/artist/2d8qE6GstnxgGtOd36VVrs) | [Talent](https://open.spotify.com/album/5dismcE2Q67SiWDKJegivO) | 3:12 | 2024-04-05 | 2024-05-17 |
 | [Talja](https://open.spotify.com/track/1E4BrvZRKjcrfCkQS1iDfj) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Above All](https://open.spotify.com/album/5MIukl4CU37RkKANzs0UbG) | 3:12 | 2021-12-18 | 2025-02-26 |
 | [Taras](https://open.spotify.com/track/1ps9pw2DHeDvP1xH1r6XX4) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Nadha Virender](https://open.spotify.com/artist/0O8dnO0SyOIX4C8dI1ERsF), [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8), [Himanshi Khurana](https://open.spotify.com/artist/6JZPJPlOcGSQaVLQKJ1qQ3) | [Taras](https://open.spotify.com/album/1EI0EvDSSGa1v6DPpNFEAx) | 3:10 | 2025-01-08 |  |

@@ -4,7 +4,7 @@
 
 > A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
 
-314 songs - 1 day 3 hr 48 min
+316 songs - 1 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Delusionary](https://open.spotify.com/track/0PTTTmIU7HfvzlwU1Lg2ND) | [Bernth](https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj), [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Delusionary](https://open.spotify.com/album/2uPSKVu7Npt22Dh03kFFYT) | 2:57 | 2024-10-04 | 2025-02-08 |
 | [Demons](https://open.spotify.com/track/5s51DrOIrHf7k8EtoqNUgN) | [The Pineapple Thief](https://open.spotify.com/artist/4lrBMUSk8PiNnCEZfsmPAk) | [Demons](https://open.spotify.com/album/7bF7jvKnOsia2OcdNensBe) | 4:33 | 2022-05-20 | 2024-09-09 |
 | [Dig Till You Die](https://open.spotify.com/track/635tnKoiWnhhd5lEMSyJjN) | [Pure Reason Revolution](https://open.spotify.com/artist/0DauHVRiE8SpGWxW0YINj3) | [Betrayal](https://open.spotify.com/album/7A38TRTOl2kXKhssMDzXr7) | 4:35 | 2024-09-06 | 2025-02-08 |
+| [Distant Voices](https://open.spotify.com/track/5TrZN2HubccqmluPEPDWWj) | [Samtar](https://open.spotify.com/artist/0hkpwpjYE8NDNn0j829A8d) | [Distant Voices](https://open.spotify.com/album/2yceOtz5c8fbJjM4oqF4M9) | 5:05 | 2025-03-20 |  |
 | [Do Angels Sing Like Rain?](https://open.spotify.com/track/0u3s6lOQUPphFLrDCuLZU4) | [Weather Systems](https://open.spotify.com/artist/79pII4A4OPL8CZRfAmAZOq) | [Do Angels Sing Like Rain?](https://open.spotify.com/album/4srkbHQAppZckPsJdnfcuL) | 5:06 | 2024-08-29 |  |
 | [Don't Succumb To Fear](https://open.spotify.com/track/0IWlLKgPSJIDxAkd5y8wlt) | [The Tidal Water](https://open.spotify.com/artist/5fmcz0paR2ZDr36Z7MKbwS) | [Don't Succumb To Fear](https://open.spotify.com/album/48cECvVBzQKDlOQHUDYgbi) | 5:41 | 2024-12-19 |  |
 | [Down](https://open.spotify.com/track/3IBJBG25WdRnc9YKaZI38v) | [Tayne](https://open.spotify.com/artist/0YhYfoCTZKEw5VwaC7dasF) | [Down](https://open.spotify.com/album/3pt9hca9XBtC0EkU9FqzDy) | 3:29 | 2024-09-13 | 2024-10-05 |
@@ -83,7 +84,7 @@
 | [Equinox](https://open.spotify.com/track/1qPgT94mliL88XOww1hpjM) | [Steve Howe](https://open.spotify.com/artist/6W7XIO8Ua1RIisnSf0QIoI) | [Guitarscape](https://open.spotify.com/album/2rodhwmgCYLbzSZksjbjCQ) | 3:04 | 2024-09-27 | 2024-10-19 |
 | [Evaporator](https://open.spotify.com/track/7GMPPM6VMzfXhbotpjxw9E) | [Frost\*](https://open.spotify.com/artist/1Ha9FtCeuoajMbOG4Kz2d7) | [Life In The Wires](https://open.spotify.com/album/3s1DQqEBI2K2mDDLz2CUr3) | 8:08 | 2024-10-18 |  |
 | [Evil Ghost \- Nightcore](https://open.spotify.com/track/6IXbsJ8WGxWZwkXLCNa2iv) | [Cherry 葵 Nightcore](https://open.spotify.com/artist/4H502w3aY9YWNIPWTx8adz), [Endgame](https://open.spotify.com/artist/783OmUWjjBf5ZStc0HUyso) | [Evil Ghost \(Nightcore\)](https://open.spotify.com/album/2oal5dkH09c7EoO0R3BbfA) | 2:56 | 2024-10-11 | 2025-01-25 |
-| [Extreme](https://open.spotify.com/track/7eDQryn6hHQRtdyGzWJyue) | [Enbound](https://open.spotify.com/artist/39rAAms1jLYfEyTvPod4pm) | [Set it free](https://open.spotify.com/album/2wZ14E0TujvUeLVVxL46sm) | 4:07 | 2025-02-21 |  |
+| [Extreme](https://open.spotify.com/track/7eDQryn6hHQRtdyGzWJyue) | [Enbound](https://open.spotify.com/artist/39rAAms1jLYfEyTvPod4pm) | [Set it free](https://open.spotify.com/album/2wZ14E0TujvUeLVVxL46sm) | 4:07 | 2025-02-21 | 2025-03-21 |
 | [Eyes](https://open.spotify.com/track/1k4I5nWbRFlaQgSbH8oLZ3) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Radiant Bloom](https://open.spotify.com/album/3CnGtq3GtDW0rm0Qx3NdgR) | 4:52 | 2022-05-20 | 2022-10-19 |
 | [Eyes](https://open.spotify.com/track/2Aynxq3QreZhoS58B7WU27) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Eyes](https://open.spotify.com/album/1W1uuyANBmfqBVQj9kbCIr) | 4:52 | 2022-05-20 | 2024-09-07 |
 | [Eyes](https://open.spotify.com/track/4aiHWfoe3Z3dwIvR7uNAGo) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Radiant Bloom](https://open.spotify.com/album/5ByR2W7N4vZlpsdkZOahIS) | 4:52 | 2022-05-20 | 2024-04-19 |
@@ -165,7 +166,7 @@
 | [Midnight Messiah](https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Midnight Messiah](https://open.spotify.com/album/7guwsxWiaBe9SyB8IVteKP) | 7:58 | 2025-01-24 |  |
 | [Monomyth](https://open.spotify.com/track/69JbeYVy6ODOmefzpgpSYO) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [Gordian Naught](https://open.spotify.com/album/65scVmou0spzWY2FllcQay) | 3:26 | 2024-08-29 | 2024-10-05 |
 | [Moral and Consequence](https://open.spotify.com/track/3cOfZRIrGGGnNdkndnmtEC) | [Frost\*](https://open.spotify.com/artist/1Ha9FtCeuoajMbOG4Kz2d7) | [Moral and Consequence](https://open.spotify.com/album/04miOpfHNxtzJXZ0KEywz0) | 8:13 | 2024-09-13 | 2024-10-19 |
-| [Mr\. Tap n' Go](https://open.spotify.com/track/78bbsnvyylLQGwz53vXtRg) | [Masters Of Reality](https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb) | [Mr\. Tap n' Go](https://open.spotify.com/album/1rMlo9OJTEhH13mJjMf4cm) | 3:43 | 2025-02-07 |  |
+| [Mr\. Tap n' Go](https://open.spotify.com/track/78bbsnvyylLQGwz53vXtRg) | [Masters Of Reality](https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb) | [Mr\. Tap n' Go](https://open.spotify.com/album/1rMlo9OJTEhH13mJjMf4cm) | 3:43 | 2025-02-07 | 2025-03-21 |
 | [Mystic Highway \(Looking For Linderman\)](https://open.spotify.com/track/6yhjN4KttUEybk3Mi6aqrk) | [Siris](https://open.spotify.com/artist/4b2NimVLyQ3lQoSfIxZLak) | [Mystic Highway \(Looking For Linderman\)](https://open.spotify.com/album/7iiM3DyyPi2M2lg80SanQC) | 4:37 | 2024-12-13 | 2025-01-18 |
 | [Negative Space](https://open.spotify.com/track/7utgzokeoOeslAvdcogAKy) | [Acacia Ridge](https://open.spotify.com/artist/6koaWXkOOBCzZDCd9GaHsj), [Cera Gibson](https://open.spotify.com/artist/1Hiacf7uM6oGW5uXHDFYae) | [The Deviant Era](https://open.spotify.com/album/5d1pDYWn1ZLFfQdrN6ZGwm) | 4:17 | 2025-01-03 | 2025-01-18 |
 | [Never Right \- HORSKH Remix](https://open.spotify.com/track/1ZP53sI0x9wUJUhQ24ZnYy) | [SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4), [HORSKH](https://open.spotify.com/artist/64HwzpdqXwxwkAWV5VEXIw) | [Never Right \(HORSKH Remix\)](https://open.spotify.com/album/2cItFtfqRr7dpucljXwTHM) | 2:43 | 2024-09-19 | 2025-01-25 |
@@ -173,6 +174,7 @@
 | [New Obsession](https://open.spotify.com/track/2m5ITPG4RR9A6fdxGw9sau) | [Pure Reason Revolution](https://open.spotify.com/artist/0DauHVRiE8SpGWxW0YINj3) | [Eupnea](https://open.spotify.com/album/4ZLPuhDGLqmycq9zSc8XKv) | 5:07 | 2022-05-20 | 2024-04-19 |
 | [Night Terror \- Radio Edit](https://open.spotify.com/track/69rXxY0Vbo9Z2BCYfKlWdF) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Night Terror](https://open.spotify.com/album/0hTHZRYNB5s7yteEoYQIzC) | 6:01 | 2024-10-11 | 2025-01-25 |
 | [Nighttime Disguise](https://open.spotify.com/track/2cXtLOiUWyCDebAT65p5cJ) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Aphelion](https://open.spotify.com/album/1FqPZscG7gDH6utCpoWnkG) | 7:04 | 2022-05-20 | 2024-09-13 |
+| [No Rest For The Wicked \- Live](https://open.spotify.com/track/00wnkRdvEBT7aG9OVsjD4A) | [Yngwie Malmsteen](https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG) | [No Rest For The Wicked \(Live\)](https://open.spotify.com/album/5h7peJSTwyoiDYn6nywCdo) | 1:49 | 2025-03-20 |  |
 | [Now Is Our Time](https://open.spotify.com/track/3JxB8ryA0KT2Z2EBz5aCic) | [Haunt the Woods](https://open.spotify.com/artist/1W51oEWvt0RZGpUrHMYmnU) | [The Line Pt\. II](https://open.spotify.com/album/4v5x0OgLt9684JCTumvWP3) | 4:43 | 2024-09-06 | 2024-10-05 |
 | [Objects Outlive Us](https://open.spotify.com/track/1hiuFbjNa7Q0x41EHUfC80) | [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [The Overview](https://open.spotify.com/album/3xOcExpIWzroZldcdc212q) | 23:19 | 2025-03-14 |  |
 | [Oblivion](https://open.spotify.com/track/3pcl2gNKJrTFip2TiQXjWd) | [Big Big Train](https://open.spotify.com/artist/68VJJPVAVNAmwsDDf1i70g) | [The Likes of Us](https://open.spotify.com/album/3zjmvbCAxUJ4iXKDLvp9hK) | 5:27 | 2024-09-06 |  |

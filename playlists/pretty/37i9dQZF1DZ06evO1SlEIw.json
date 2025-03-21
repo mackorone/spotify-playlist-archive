@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9i3gAAAAACXevYt907QgEMJFcc82UWO",
+  "snapshot_id": "Z9oJAAAAAACp3HcS4QuUSY2udcyuGRR1",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 277346,
-      "name": "\u82b1\u304c\u6563\u308b\u4e16\u754c - Vocalized Version",
-      "url": "https://open.spotify.com/track/75zWVtdvpl23vtRH4LnFS5"
+      "duration_ms": 341344,
+      "name": "\u611b\u306e\u653e\u6d6a\u8005 - Vocalized Version",
+      "url": "https://open.spotify.com/track/2vHszXmgBO8zOR87nB2Gd2"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u9032\u6483\u306e\u8ecc\u8de1",
-        "url": "https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt"
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
       },
       "artists": [
         {
@@ -277,8 +277,8 @@
         }
       ],
       "duration_ms": 349693,
-      "name": "\u81ea\u7531\u306e\u4ee3\u511f",
-      "url": "https://open.spotify.com/track/2F44cjOVPs0Hod03KYF6KQ"
+      "name": "Jiyuu no Daishou",
+      "url": "https://open.spotify.com/track/0Cd4mvL1nALj6QCCk2wpHf"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 341344,
-      "name": "\u611b\u306e\u653e\u6d6a\u8005 - Vocalized Version",
-      "url": "https://open.spotify.com/track/2vHszXmgBO8zOR87nB2Gd2"
+      "duration_ms": 277346,
+      "name": "\u82b1\u304c\u6563\u308b\u4e16\u754c - Vocalized Version",
+      "url": "https://open.spotify.com/track/75zWVtdvpl23vtRH4LnFS5"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 537213,
-      "name": "Theme of the Linked Horizon",
-      "url": "https://open.spotify.com/track/0Qit1wQs5mvD86LqnsBlGg"
+      "duration_ms": 311013,
+      "name": "\u98a8\u306e\u884c\u65b9 - Vocalized Version",
+      "url": "https://open.spotify.com/track/6O1RmgmLZEPpHvvyvqjlEy"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 311013,
-      "name": "\u98a8\u306e\u884c\u65b9 - Vocalized Version",
-      "url": "https://open.spotify.com/track/6O1RmgmLZEPpHvvyvqjlEy"
+      "duration_ms": 537213,
+      "name": "Theme of the Linked Horizon",
+      "url": "https://open.spotify.com/track/0Qit1wQs5mvD86LqnsBlGg"
     }
   ],
   "unique_name": "This Is Linked Horizon",

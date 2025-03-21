@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 
 > Dedicada a todos aquellos amores muertos por Espinoza Paz
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,750 likes - 45 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,814 likes - 45 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 | 10 | [¿Por Qué Creí en Ti?](https://open.spotify.com/track/4sfdWvhNP0mMozjnTr9orn) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk) | 4:15 |
 | 11 | [Si No Te Hubieras Ido](https://open.spotify.com/track/3l1ZanpJ3jFQZMqATizqfE) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [La Historia Continúa...Parte IV](https://open.spotify.com/album/6ziRoYI3rWu4TOAUeIJuNO) | 4:46 |
 | 12 | [Hasta Que Te Conocí](https://open.spotify.com/track/6HgBxn0QgUDzIpRYX7tvqy) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Joy](https://open.spotify.com/artist/6BEX7DNK3FU6MLqhGnowIH) | [Los Dúo \- Colección Completa \(Vol\. 1 + Vol\. 2\)](https://open.spotify.com/album/5Ozp1ev2DL0t2QTG67yAeb) | 8:48 |
-| 13 | [Es Demasiado Tarde](https://open.spotify.com/track/5g4HXOoT2kQTDtVuJhBgBV) | [Ana Gabriel](https://open.spotify.com/artist/5pZzGLzYwZkcK4edz7qLR5) | [La Reina Canta A Mexico](https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj) | 4:11 |
+| 13 | [Es Demasiado Tarde](https://open.spotify.com/track/5g4HXOoT2kQTDtVuJhBgBV) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [La Reina Canta A Mexico](https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj) | 4:11 |
 | 14 | [Al Diablo Lo Nuestro](https://open.spotify.com/track/1PI33h7mN09PAGCRx2FWUU) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Del Rancho para el Mundo](https://open.spotify.com/album/4az9RCoS0n0tBFIMo4svAI) | 4:01 |
 | 15 | [Lobo Domesticado](https://open.spotify.com/track/21dO2n3oshsn3FkbB6Y5Mm) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Lobo Domesticado](https://open.spotify.com/album/3zLqP9HFFRT6uEI0kOLuNP) | 2:50 |
 | 16 | [Cautiva Y Triste](https://open.spotify.com/track/3FwbgniuCTiIn4P0LDsvbz) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Pepe Aguilar Con Tambora](https://open.spotify.com/album/6t4HD7n8phLI7hrcMfxXL3) | 3:00 |

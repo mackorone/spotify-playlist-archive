@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Hsien Ching (\u9673\u5afa\u975c)",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: TRASH",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 202255,
       "name": "\"I'm\"",
       "url": "https://open.spotify.com/track/0a3fRJOIN9UUTh2pjnnFr2"
@@ -154,7 +154,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 131500,
       "name": "8",
       "url": "https://open.spotify.com/track/0dnfXRsJnFuXeJYG9VN6HM"
@@ -885,6 +885,28 @@
     },
     {
       "album": {
+        "name": "Cat & Mouse",
+        "url": "https://open.spotify.com/album/5zvOK1FZehYyeXNWOm68BO"
+      },
+      "artists": [
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        },
+        {
+          "name": "A.G.O",
+          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202353,
+      "name": "Cat & Mouse",
+      "url": "https://open.spotify.com/track/5BY2y6OduBlcXbgCGOwPF5"
+    },
+    {
+      "album": {
         "name": "\u6e1b\u80a5\u8a08\u5283",
         "url": "https://open.spotify.com/album/5X8BhE0aDFoqWuesFfihM6"
       },
@@ -1120,7 +1142,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 223033,
       "name": "Dating Me Ain't Hard",
       "url": "https://open.spotify.com/track/29EPMooH1QgiHLd3123r4x"
@@ -1228,7 +1250,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 206340,
       "name": "Don't Know Why",
       "url": "https://open.spotify.com/track/0xjvKbZd4Xw3HcsX6HM7Wq"
@@ -1250,6 +1272,24 @@
       "duration_ms": 168500,
       "name": "don't stop",
       "url": "https://open.spotify.com/track/3St3yb7eQhn1TQC8qI8c04"
+    },
+    {
+      "album": {
+        "name": "People In My Mind",
+        "url": "https://open.spotify.com/album/6Obtw6DnxJsR0Nik3tO64W"
+      },
+      "artists": [
+        {
+          "name": "\u5fc3\u982d\u8089",
+          "url": "https://open.spotify.com/artist/28SZqcuYWGmsm3jsVR4u9M"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254809,
+      "name": "Don't You Know",
+      "url": "https://open.spotify.com/track/7GktXg7ifhEjxjuwxFOwTw"
     },
     {
       "album": {
@@ -1308,6 +1348,28 @@
       "duration_ms": 259161,
       "name": "English Song",
       "url": "https://open.spotify.com/track/41oIwYzv9rEuUAreANKf3u"
+    },
+    {
+      "album": {
+        "name": "SYSTEM BOOTING...",
+        "url": "https://open.spotify.com/album/4g2Cby7UzbEqYdMiUE6AQo"
+      },
+      "artists": [
+        {
+          "name": "Robot Swing",
+          "url": "https://open.spotify.com/artist/75MsybpGuMiLCp76Ou0LTV"
+        },
+        {
+          "name": "\u9673\u4ee5\u6046",
+          "url": "https://open.spotify.com/artist/26ptiw0RrtrYZcRPPGHj5G"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286773,
+      "name": "Even if ur sorry",
+      "url": "https://open.spotify.com/track/3heNLslDYIRRtmRW4UYFzS"
     },
     {
       "album": {
@@ -1925,6 +1987,24 @@
     },
     {
       "album": {
+        "name": "The Make",
+        "url": "https://open.spotify.com/album/4LSYpyfRTAszuh1cQ69jvr"
+      },
+      "artists": [
+        {
+          "name": "\u4ee4\u6674 Lynn",
+          "url": "https://open.spotify.com/artist/6HOJVenVuukRx2b6jTZtQk"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/2RFgwyOn3PlaZJLhYPWgyn"
+    },
+    {
+      "album": {
         "name": "Good Time",
         "url": "https://open.spotify.com/album/6KZHWUwwE3B8pJM1x893Od"
       },
@@ -2038,7 +2118,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 269271,
       "name": "Half-Full",
       "url": "https://open.spotify.com/track/47QbWmH6sjwcsXi4lNSwoW"
@@ -3736,7 +3816,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 178696,
       "name": "Pandemic \u50b3\u67d3\u75c5",
       "url": "https://open.spotify.com/track/14vgvUQVaHsTlqUwY4pDzh"
@@ -5880,7 +5960,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 237937,
       "name": "\u4f60\u5728\u6ce8\u8996\u90a3\u9059\u9060\u7684\u5730\u65b9",
       "url": "https://open.spotify.com/track/6V3oixpDtcTkAkmD6kFAyR"
@@ -6296,7 +6376,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 252755,
       "name": "\u5c0f\u5b69",
       "url": "https://open.spotify.com/track/7rPXUq935WHYBoWpWA9p9r"
@@ -6433,6 +6513,24 @@
     },
     {
       "album": {
+        "name": "Way out",
+        "url": "https://open.spotify.com/album/4ebUiIXxTDyS9LhtItkPRj"
+      },
+      "artists": [
+        {
+          "name": "Whyte",
+          "url": "https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "\u5feb\u6a02",
+      "url": "https://open.spotify.com/track/43OvYQ5NB6K4s2jPfnv2OG"
+    },
+    {
+      "album": {
         "name": "Be a Lover",
         "url": "https://open.spotify.com/album/5tfoS4WlDJ9iKUFma08JUq"
       },
@@ -6552,7 +6650,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-14",
+      "date_removed": null,
       "duration_ms": 207400,
       "name": "\u6211\u8981\u6bba\u5149\u6d6a\u6f2b\u6bba\u6b7b\u8a69",
       "url": "https://open.spotify.com/track/3vp9eQblhoda9oRdCSQksA"

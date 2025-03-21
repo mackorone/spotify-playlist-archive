@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our universe ft\. nova twins ⛓️
+> welcome to our universe ft\. alissic
 
-1,078 songs - 2 day 4 hr 27 min
+1,079 songs - 2 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-04-13 | 2023-10-13 |
 | [Animal Death Already Breathing](https://open.spotify.com/track/2k2USr0srRydgTSilsEz4r) | [YHWH Nailgun](https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ) | [Animal Death Already Breathing](https://open.spotify.com/album/2Ts2zLCzEWBnu2wTfcGgpA) | 2:39 | 2025-03-07 |  |
 | [anointment](https://open.spotify.com/track/5oA1G5wko4qIZE3VokD3uC) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [anointment](https://open.spotify.com/album/2ErOik3Sm5yDZCFkDWZ3co) | 3:49 | 2025-03-07 |  |
-| [Another High](https://open.spotify.com/track/2q5ByXv4sljfsPL3XvglUm) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Kissing Death](https://open.spotify.com/album/06BiMFYYLl0cQnJDRSXmtD) | 2:48 | 2024-08-22 |  |
+| [Another High](https://open.spotify.com/track/2q5ByXv4sljfsPL3XvglUm) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Kissing Death](https://open.spotify.com/album/06BiMFYYLl0cQnJDRSXmtD) | 2:48 | 2024-08-22 | 2025-03-21 |
 | [Ant In The Afterbirth \- feat\. Loathe](https://open.spotify.com/track/3vnKDiO4TOYH4xsLZwV01D) | [NOWHERE2RUN](https://open.spotify.com/artist/3ARwlqMR3e96RXdxpAhx4s), [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Ant In The Afterbirth \(feat\. Loathe\)](https://open.spotify.com/album/1JrG5deJUS6MhKH0C2PE3E) | 3:42 | 2024-10-10 |  |
 | [Antagonist](https://open.spotify.com/track/76NdeyUe2IEANeAopr4V31) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Antagonist](https://open.spotify.com/album/4cAKhG7S3jOL53LaGMtdNw) | 3:06 | 2021-12-27 | 2022-02-04 |
 | [anthem](https://open.spotify.com/track/1DSmk3AGKb8XVQ3AvAO077) | [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [anthem](https://open.spotify.com/album/5CEpGbSan39tDRDtVZA8BI) | 2:21 | 2023-05-18 | 2023-05-26 |
@@ -173,7 +173,7 @@
 | [Chokehold Cherry Python](https://open.spotify.com/track/0dPYLhJXpzHJFCbSd1Y43w) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [WEEDKILLER](https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0) | 2:39 | 2023-08-24 | 2024-03-08 |
 | [Choose Your Fighter](https://open.spotify.com/track/5GJgz8jChM8AA7cSStOqjU) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Choose Your Fighter](https://open.spotify.com/album/3HoyLFKUF2HKmYJjjFhd5s) | 2:15 | 2022-06-16 | 2023-07-07 |
 | [Choose Your Fighter](https://open.spotify.com/track/6tL8gSH1BWB5noSIac3uGZ) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Supernova](https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ) | 2:15 | 2024-03-08 | 2024-03-09 |
-| [Chop Chop](https://open.spotify.com/track/2ShBQLwve2SDP7xJEVfbUE) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Chop Chop](https://open.spotify.com/album/3QMikZs5w6nMOusNY89ZY3) | 2:41 | 2024-08-22 |  |
+| [Chop Chop](https://open.spotify.com/track/2ShBQLwve2SDP7xJEVfbUE) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Chop Chop](https://open.spotify.com/album/3QMikZs5w6nMOusNY89ZY3) | 2:41 | 2024-08-22 | 2025-03-21 |
 | [Church Outfit](https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Church Outfit](https://open.spotify.com/album/4lkW9DiMaD9PQZhaIRQUnH) | 1:54 | 2023-04-06 | 2023-05-20 |
 | [CIGARETTES](https://open.spotify.com/track/1xJBz9XFCMZJiy6Mc4XrgC) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [CIGARETTES](https://open.spotify.com/album/6iBfLlPGfEmgjF8HG9OkJd) | 2:04 | 2023-07-20 | 2023-08-10 |
 | [CIGARETTES](https://open.spotify.com/track/3mU9L9qqhMxRbXgMXUncig) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [LOVE + POP](https://open.spotify.com/album/5God4dounbNrQtR8otCSHD) | 2:04 | 2023-08-03 | 2023-08-18 |
@@ -343,6 +343,7 @@
 | [Filfy \- Tokky Horror Remix](https://open.spotify.com/track/73vppi63Im7YURIt1aqi4w) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38), [Tokky Horror](https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp) | [Filfy \(Tokky Horror Remix\)](https://open.spotify.com/album/5Ojc6abnr3eUkwIiQlMlrh) | 2:57 | 2023-12-08 | 2024-01-19 |
 | [Finally See Me](https://open.spotify.com/track/5JW3HX2c3H4FlOJERs52To) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Finally See Me](https://open.spotify.com/album/4FcEzgsKUgajnUGKnnnj3R) | 3:30 | 2024-04-11 | 2024-05-17 |
 | [Finger](https://open.spotify.com/track/7DdB9aa1MDBtP5JgYMzVRl) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Finger](https://open.spotify.com/album/6wXWZXiqdnCgEI7NzjG9hC) | 2:33 | 2024-03-08 | 2024-07-12 |
+| [Fire](https://open.spotify.com/track/4t4veTYSVvPHSWSlLMAvRC) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Fire](https://open.spotify.com/album/1KCWO9riv5TIiv1V2jUYQk) | 3:21 | 2025-03-21 |  |
 | [fkdup](https://open.spotify.com/track/7uHGZ7mVm1pVsdItZQmChw) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [fkdup](https://open.spotify.com/album/6PTbJ1GmwwHuxqDcy0yAZV) | 2:11 | 2024-03-29 | 2024-07-19 |
 | [Flawed Guy](https://open.spotify.com/track/38L0QwyBMuqWlpC4oBl4UV) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Flawed Guy](https://open.spotify.com/album/57KOzUqReaxjaZG6czVlzf) | 2:06 | 2022-09-22 | 2022-12-09 |
 | [fleahouse](https://open.spotify.com/track/6OZ1omuRpM3kc2XKmhRuUf) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [Rouge Carpet Disaster](https://open.spotify.com/album/1mIKtxf39TuoDhurzIijt3) | 3:02 | 2022-05-26 | 2022-08-05 |
@@ -834,7 +835,7 @@
 | [SADIST](https://open.spotify.com/track/0x2BBTnwlR3StGFVM7mZmr) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY PHONK](https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj) | 3:19 | 2022-11-11 | 2023-05-20 |
 | [sassy bitch](https://open.spotify.com/track/1sPouNG3YxAXuK5yhLmmlj) | [strgurrl](https://open.spotify.com/artist/55b219e2HJlycpRI5CUOOp), [ashes.](https://open.spotify.com/artist/5OE3Wlcw4QHvjj2vlt1rJd) | [sassy bitch](https://open.spotify.com/album/226qRvcdSa9SNbdINeWOCl) | 1:23 | 2023-05-19 | 2023-07-21 |
 | [Save Yourselves](https://open.spotify.com/track/30iYY7maOxnipdtsohgJlt) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [Save Yourselves](https://open.spotify.com/album/2nEm2s5PWaB6x95wjaxUuU) | 3:27 | 2022-04-19 | 2022-09-23 |
-| [Say My Name](https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Fucking Sucks](https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B) | 2:42 | 2024-08-22 |  |
+| [Say My Name](https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Fucking Sucks](https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B) | 2:42 | 2024-08-22 | 2025-03-21 |
 | [say what u mean \(with Riovaz\)](https://open.spotify.com/track/3898X5xiidWYtAm4LeDveB) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [say what u mean \(with Riovaz\)](https://open.spotify.com/album/5Y314Kdl6PFqQq0e8BHJt9) | 2:31 | 2022-09-15 | 2023-04-14 |
 | [Scratchcard Feeling](https://open.spotify.com/track/5B1ZMJQqtjMSJqFckLGLx8) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Scratchcard Feeling](https://open.spotify.com/album/3ZIYT6OXxH0eHrnKheNMDn) | 4:00 | 2021-12-27 | 2022-06-10 |
 | [secret handshakes in the dark](https://open.spotify.com/track/23uSHJHL8I1KSCCg21LdZP) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [scarepackage](https://open.spotify.com/album/5gLAEtvLAyfF8V8jsr9LHD) | 3:00 | 2024-10-29 | 2024-11-05 |

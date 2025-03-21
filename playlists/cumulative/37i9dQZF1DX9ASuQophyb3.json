@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak: Afra",
+  "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak: Salman Tin",
   "name": "T\u00fcrk\u00e7e Pop",
   "tracks": [
     {
@@ -830,6 +830,24 @@
       "duration_ms": 273103,
       "name": "Buram Buram",
       "url": "https://open.spotify.com/track/0WTby8MYJzT0osKRcdgFxY"
+    },
+    {
+      "album": {
+        "name": "Can \u0130zi",
+        "url": "https://open.spotify.com/album/6756MQg4QXyZGCFCBa98JQ"
+      },
+      "artists": [
+        {
+          "name": "Salman Tin",
+          "url": "https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163616,
+      "name": "Can \u0130zi",
+      "url": "https://open.spotify.com/track/026lcxlgR9NvkT0A4bMerG"
     },
     {
       "album": {
@@ -3344,7 +3362,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 183874,
       "name": "\u00d6zg\u00fcrl\u00fck",
       "url": "https://open.spotify.com/track/19oVO1hFQBqrum2bmHBqvC"

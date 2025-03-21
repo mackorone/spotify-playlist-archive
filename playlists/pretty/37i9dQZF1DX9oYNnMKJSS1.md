@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oYNnMKJSS1.md) - [plain]
 
 > The songs that got us to sleep this year\. \#spotifywrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,441 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,443 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oYNnMKJSS1.md) - [plain]
 | 29 | [Until](https://open.spotify.com/track/0DCwSrGQxGTAyxmWy1q7Al) | [Noah Florence](https://open.spotify.com/artist/6jzQUeRZexHKG2fjsCpmi6) | [Until](https://open.spotify.com/album/1UCKBs3b9lHettINgdf9Qh) | 2:52 |
 | 30 | [Along](https://open.spotify.com/track/6BClTbOxNLsOR3BdQQEahj) | [Decanõe](https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA) | [Along](https://open.spotify.com/album/0XnvcUfXbUREtjiDc1l0m1) | 2:45 |
 | 31 | [Oasis of Stillness](https://open.spotify.com/track/1CPN7WGamNNxLhZTJVlW89) | [Saga Lotus](https://open.spotify.com/artist/5RwXzQeQAqiSEcXHxmhFn9) | [Oasis of Stillness](https://open.spotify.com/album/1sx8HA77okp1MVy45u6vkR) | 3:07 |
-| 32 | [Continual](https://open.spotify.com/track/2kTefS4HKaVn1URttI7UyG) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Continual](https://open.spotify.com/album/7temH4aZVIMHdoQ6H3HhJd) | 2:57 |
+| 32 | [Continual](https://open.spotify.com/track/2kTefS4HKaVn1URttI7UyG) | [Garcíia](https://open.spotify.com/artist/2dvwSbPOAs6EdV3vUMrgtL) | [Continual](https://open.spotify.com/album/7temH4aZVIMHdoQ6H3HhJd) | 2:57 |
 | 33 | [Other](https://open.spotify.com/track/2fg3YTYPULVQbfF7RbQqaa) | [Eône](https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7) | [Other](https://open.spotify.com/album/2aqNrmFcYvA8L9yBx99bEb) | 2:42 |
 | 34 | [Essence](https://open.spotify.com/track/0KXcQySPBhAvDT5c6J1KxH) | [Rufus Ziegler](https://open.spotify.com/artist/3al3f0Fd8OQ3OJj4GfpE2f) | [Essence](https://open.spotify.com/album/3r12O5MUpkRuv3rABTy6zG) | 2:24 |
 | 35 | [Erinnerungen](https://open.spotify.com/track/3oSnjjDlGybELlBa9by38Y) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Erinnerungen](https://open.spotify.com/album/64Cah8smmxb3ypiPR1MtQl) | 3:12 |

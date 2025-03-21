@@ -4,7 +4,7 @@
 
 > Flow so good, it deserved a reload\.  Cover: Ruff Sqwad
 
-262 songs - 13 hr 14 min
+263 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Cash Beat AKA : Hoods Up Dub](https://open.spotify.com/track/0VWdSKQpWWYvwzu178BRpN) | [Jon E Cash](https://open.spotify.com/artist/54vvOjazZTq4WC6U4OhFlQ) | [Kurupt FM present The Lost Tape](https://open.spotify.com/album/79DCkBypKvlXvhAIrkQdOu) | 2:02 | 2023-05-15 |  |
 | [CHARIZARD](https://open.spotify.com/track/6jOETi0FEcQY7mjQWZFWWg) | [Double Cup Kase](https://open.spotify.com/artist/1kD83KEyxS4fpDNe8YpDH8), [Sentimento](https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa) | [CHARIZARD](https://open.spotify.com/album/3gRuMKrtdrDTJDPfFhPVB9) | 2:25 | 2024-08-05 | 2024-11-29 |
 | [Charizard Freestyle](https://open.spotify.com/track/1GJ0TET9MTZgcxrmgiV2NV) | [Footsie](https://open.spotify.com/artist/32Z7rpzefCIn0GZ8XwzrwX), [Sir Spyro](https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT) | [Charizard Freestyle](https://open.spotify.com/album/4y7ktIWBKRhmHAceQqnUtT) | 2:22 | 2023-05-15 |  |
+| [CHATTER](https://open.spotify.com/track/4Cy9267dN73kuBXlk9Auxb) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv), [FLY](https://open.spotify.com/artist/5uzvRvcTtbA3JqZxglgTda), [Snowy](https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP) | [CHATTER](https://open.spotify.com/album/1Cb0LhKUdmd00qzoHoE56u) | 2:24 | 2025-03-21 |  |
 | [Check Dis](https://open.spotify.com/track/1lyIwetPEavr3TuSVwaHxN) | [Twenty'8](https://open.spotify.com/artist/0rQFPuJq7wkvQny90lguiu) | [Check Dis](https://open.spotify.com/album/5BW7q1epzfJ3JWplkTqk6m) | 2:29 | 2024-12-02 |  |
 | [Cheque](https://open.spotify.com/track/6OO63tLXHXVaVa735HSjnc) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [Cheque](https://open.spotify.com/album/5kDlQTVAUh3nNu2AG2pmHR) | 2:12 | 2023-11-24 | 2024-11-29 |
 | [Chop \(Henry the 8th\)](https://open.spotify.com/track/4sHecHRP0Ir1uB3740figh) | [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45) | [Chop \(Henry the 8th\)](https://open.spotify.com/album/2f4kUXl2Q0pb8VZgW385Rd) | 3:00 | 2021-10-25 | 2024-11-29 |
@@ -115,7 +116,7 @@
 | [Get Dark \- Silas Remix](https://open.spotify.com/track/4TLKAvASUpIAh5mxPBZPeO) | [Low End Activist](https://open.spotify.com/artist/72oF97JtpHOAEYBMLzKKDg), [Razor](https://open.spotify.com/artist/31yFxtPx2PS1EkbocfXVMi), [Silas](https://open.spotify.com/artist/25smiq5eP95Hn9LKgLYBrO) | [Get Dark](https://open.spotify.com/album/1Wif0KNUca1il1zwOqq2MH) | 5:04 | 2021-10-25 | 2023-05-14 |
 | [Get Out](https://open.spotify.com/track/2lTfJSGrDFbjmztKXVhUDp) | [FooR](https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Ashdunn](https://open.spotify.com/artist/58kIss4YzW5rUCSm9g60Yy) | [Get Out](https://open.spotify.com/album/6qKSRHj80Tmtk6ywvnHDrH) | 1:58 | 2024-08-05 | 2024-11-29 |
 | [Go Hard](https://open.spotify.com/track/2LIKvtk4WZ53cLhvNqtXpQ) | [AGZ](https://open.spotify.com/artist/5kIqU8zrrwiLaxWDFtNdk6), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [GOD KNOWS](https://open.spotify.com/album/2lc2VYm7mforIYnectYNk4) | 3:39 | 2021-10-25 | 2022-07-28 |
-| [Golden Hour](https://open.spotify.com/track/65rruQRW7ZsSnc9S0LT6vB) | [GHENGHIS OTT](https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO) | [Golden Hour](https://open.spotify.com/album/0gEJqJ8kG0Bws3JgR38Ibu) | 2:10 | 2025-01-17 |  |
+| [Golden Hour](https://open.spotify.com/track/65rruQRW7ZsSnc9S0LT6vB) | [GHENGHIS OTT](https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO) | [Golden Hour](https://open.spotify.com/album/0gEJqJ8kG0Bws3JgR38Ibu) | 2:10 | 2025-01-17 | 2025-03-21 |
 | [Gridlock](https://open.spotify.com/track/3P2hQR4co5NaqnbHuX2eJo) | [Eyez](https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV), [Zdot](https://open.spotify.com/artist/3Vg8iAEbLFGTO3ZqPtlIsN) | [Gridlock](https://open.spotify.com/album/2IQnBlvVYriEHdktWKPoHU) | 2:35 | 2022-07-17 | 2024-04-19 |
 | [Gridlock](https://open.spotify.com/track/6lykStPsind8Ygc2BjonP6) | [Eyez](https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV), [Zdot](https://open.spotify.com/artist/3Vg8iAEbLFGTO3ZqPtlIsN) | [Gridlock](https://open.spotify.com/album/5AJVD1jzKE1ZB4YvBkg8IT) | 2:35 | 2022-07-17 | 2023-03-16 |
 | [Grime Gala](https://open.spotify.com/track/4glwYZUvQDsAJEWfeVTTLa) | [Subten](https://open.spotify.com/artist/1D7TdByuV3l9cpOf6bGV3n), [The Heavytrackerz](https://open.spotify.com/artist/6aTCNF8JTH5TFs9rheknQB) | [Grime Gala](https://open.spotify.com/album/3LuEMmNMYbD3YNVN3q8Ey8) | 2:40 | 2022-07-17 | 2023-05-23 |

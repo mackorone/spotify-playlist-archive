@@ -4075,6 +4075,40 @@
     },
     {
       "album": {
+        "name": "Frito En Ti (Remix)",
+        "url": "https://open.spotify.com/album/45INBsqvclj6Tk2JTECi2v"
+      },
+      "artists": [
+        {
+          "name": "VI-EM",
+          "url": "https://open.spotify.com/artist/44hJXrVhoyA1fV1dn4wdHC"
+        },
+        {
+          "name": "Dale Pututi",
+          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+        },
+        {
+          "name": "Duran",
+          "url": "https://open.spotify.com/artist/0h9C23CSN1jPNVCgAUcMiZ"
+        },
+        {
+          "name": "L Kimii",
+          "url": "https://open.spotify.com/artist/1f1ghk6CZMmEuPtjldEDkh"
+        },
+        {
+          "name": "Juan de Vitrola",
+          "url": "https://open.spotify.com/artist/34qx0JyCPLXuftlXdDZeD3"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164062,
+      "name": "Frito En Ti - Remix",
+      "url": "https://open.spotify.com/track/3KZyVOTih6BsXzOYgH5H0M"
+    },
+    {
+      "album": {
         "name": "Fr\u00e1gil",
         "url": "https://open.spotify.com/album/34SO8FcL3ZOmyQBwfHZAVV"
       },
@@ -7852,7 +7886,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 184356,
       "name": "Noche Fr\u00eda",
       "url": "https://open.spotify.com/track/36E9wb5dk5uLwb20L5g81m"

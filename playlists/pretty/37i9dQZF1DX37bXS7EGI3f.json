@@ -1,6 +1,6 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Nightwish\n",
-  "num_followers": 795585,
+  "num_followers": 795633,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Chapter III - Downfall",
-        "url": "https://open.spotify.com/album/1yd879vcVkRxjGlxWtG9st"
-      },
-      "artists": [
-        {
-          "name": "Ad Infinitum",
-          "url": "https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD"
-        }
-      ],
-      "duration_ms": 234346,
-      "name": "Eternal Rains",
-      "url": "https://open.spotify.com/track/6dsKcPKE6PLr6PBRxeNPfi"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "1066",
         "url": "https://open.spotify.com/album/6KlZ4W0dd9A2JCJxynKXhe"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 272013,
       "name": "1066",
       "url": "https://open.spotify.com/track/5z2tpy6GLge3PpEWvYF1E7"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Chapter III - Downfall",
+        "url": "https://open.spotify.com/album/1yd879vcVkRxjGlxWtG9st"
+      },
+      "artists": [
+        {
+          "name": "Ad Infinitum",
+          "url": "https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD"
+        }
+      ],
+      "duration_ms": 234346,
+      "name": "Eternal Rains",
+      "url": "https://open.spotify.com/track/6dsKcPKE6PLr6PBRxeNPfi"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
+        "name": "Feed the Fire",
+        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
+      },
+      "artists": [
+        {
+          "name": "Crimson Sun",
+          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Feed the Fire",
+      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
         "name": "Interrogativa Cantilena",
         "url": "https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 249600,
       "name": "Reincarnation",
       "url": "https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
-        "name": "Feed the Fire",
-        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
-      },
-      "artists": [
-        {
-          "name": "Crimson Sun",
-          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Feed the Fire",
-      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Vita Nova",
-        "url": "https://open.spotify.com/album/6HLg30KBqgZsKRhWeKmops"
-      },
-      "artists": [
-        {
-          "name": "Eye of Melian",
-          "url": "https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G"
-        },
-        {
-          "name": "Johanna Kurkela",
-          "url": "https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A"
-        }
-      ],
-      "duration_ms": 364029,
-      "name": "Vita Nova",
-      "url": "https://open.spotify.com/track/2o7Exjn3bLrKOYS7rsJXlr"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "Krigsherren",
         "url": "https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl"
       },
@@ -1203,6 +1183,26 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
+        "name": "Vita Nova",
+        "url": "https://open.spotify.com/album/6HLg30KBqgZsKRhWeKmops"
+      },
+      "artists": [
+        {
+          "name": "Eye of Melian",
+          "url": "https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G"
+        },
+        {
+          "name": "Johanna Kurkela",
+          "url": "https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A"
+        }
+      ],
+      "duration_ms": 364029,
+      "name": "Vita Nova",
+      "url": "https://open.spotify.com/track/2o7Exjn3bLrKOYS7rsJXlr"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
         "name": "Target Acquired (feat. Megan McDuffee)",
         "url": "https://open.spotify.com/album/2V5RiMu96qwpW0dDY0LDXt"
       },
@@ -1223,26 +1223,22 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Fight the Tide",
-        "url": "https://open.spotify.com/album/46PoeCkqWmFFVstUUxZ77h"
+        "name": "Dragonwings",
+        "url": "https://open.spotify.com/album/5myo6QeT0EwVkAVPw3MlR0"
       },
       "artists": [
         {
-          "name": "Jonathan Young",
-          "url": "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
+          "name": "Pagefire",
+          "url": "https://open.spotify.com/artist/1gKEQdxsZV3e97GIhOwTmF"
         },
         {
-          "name": "Colm R. McGuinness",
-          "url": "https://open.spotify.com/artist/2hwZ6O8nd7zKSUqRhYPo5U"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+          "name": "Craig Cairns",
+          "url": "https://open.spotify.com/artist/6iMoj5iPi4sUkBspHLJ4wK"
         }
       ],
-      "duration_ms": 206520,
-      "name": "Fight the Tide",
-      "url": "https://open.spotify.com/track/7x1BkDkUOi6qHeptyZBOaE"
+      "duration_ms": 243529,
+      "name": "Dragonwings",
+      "url": "https://open.spotify.com/track/4LNkBt5ErMrbXHeCPoDhzZ"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1267,22 +1263,26 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Dragonwings",
-        "url": "https://open.spotify.com/album/5myo6QeT0EwVkAVPw3MlR0"
+        "name": "Fight the Tide",
+        "url": "https://open.spotify.com/album/46PoeCkqWmFFVstUUxZ77h"
       },
       "artists": [
         {
-          "name": "Pagefire",
-          "url": "https://open.spotify.com/artist/1gKEQdxsZV3e97GIhOwTmF"
+          "name": "Jonathan Young",
+          "url": "https://open.spotify.com/artist/2IeMt1qx6ZVt1HFjdfE5tl"
         },
         {
-          "name": "Craig Cairns",
-          "url": "https://open.spotify.com/artist/6iMoj5iPi4sUkBspHLJ4wK"
+          "name": "Colm R. McGuinness",
+          "url": "https://open.spotify.com/artist/2hwZ6O8nd7zKSUqRhYPo5U"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
         }
       ],
-      "duration_ms": 243529,
-      "name": "Dragonwings",
-      "url": "https://open.spotify.com/track/4LNkBt5ErMrbXHeCPoDhzZ"
+      "duration_ms": 206520,
+      "name": "Fight the Tide",
+      "url": "https://open.spotify.com/track/7x1BkDkUOi6qHeptyZBOaE"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Juokse Sin\u00e4 Humma",
-        "url": "https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 196636,
-      "name": "Juokse Sin\u00e4 Humma",
-      "url": "https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "One More River to Cross",
         "url": "https://open.spotify.com/album/7gb21nwjJJum3M1NoL5NkN"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 294105,
       "name": "Hunt Me to the End of the World",
       "url": "https://open.spotify.com/track/3ZHU0h1DO2Tir7pQu889N5"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Juokse Sin\u00e4 Humma",
+        "url": "https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 196636,
+      "name": "Juokse Sin\u00e4 Humma",
+      "url": "https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
-        "name": "Take My Hand (Bonus Track)",
-        "url": "https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq"
-      },
-      "artists": [
-        {
-          "name": "Metalite",
-          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
-        }
-      ],
-      "duration_ms": 189533,
-      "name": "Take My Hand - Bonus Track",
-      "url": "https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
         "name": "The Beast Has Awoken",
         "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 213473,
       "name": "The Beast Has Awoken",
       "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
+        "name": "Take My Hand (Bonus Track)",
+        "url": "https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq"
+      },
+      "artists": [
+        {
+          "name": "Metalite",
+          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+        }
+      ],
+      "duration_ms": 189533,
+      "name": "Take My Hand - Bonus Track",
+      "url": "https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8"
     },
     {
       "added_at": "2024-09-20 04:24:16",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2024-09-20 04:24:16",
       "album": {
+        "name": "The Hanging Tree",
+        "url": "https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM"
+      },
+      "artists": [
+        {
+          "name": "Elvenking",
+          "url": "https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "The Hanging Tree",
+      "url": "https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ"
+    },
+    {
+      "added_at": "2024-09-20 04:24:16",
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/6gPSlQpAAdbC727yQ3fov4"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 216388,
       "name": "Dopamine (feat. Simone Simons)",
       "url": "https://open.spotify.com/track/0mrHi6us5MaQNM34bHI5F7"
-    },
-    {
-      "added_at": "2024-09-20 04:24:16",
-      "album": {
-        "name": "The Hanging Tree",
-        "url": "https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM"
-      },
-      "artists": [
-        {
-          "name": "Elvenking",
-          "url": "https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "The Hanging Tree",
-      "url": "https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ"
     },
     {
       "added_at": "2024-09-20 04:24:16",

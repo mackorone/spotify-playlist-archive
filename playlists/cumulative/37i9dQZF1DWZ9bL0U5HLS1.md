@@ -4,7 +4,7 @@
 
 > Rakkautta, mitä muuta ihminen tarvitsee.
 
-144 songs - 9 hr 7 min
+146 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [My Heart Will Go On \- Love Theme from "Titanic"](https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 4:40 | 2023-01-17 | 2024-04-19 |
 | [My Love Is Your Love](https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:21 | 2024-04-09 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2024-02-13 |  |
+| [Mä olen tässä](https://open.spotify.com/track/00qFEwqJnoF2tlfL1PfM4n) | [Mikko Harju](https://open.spotify.com/artist/4d5lT8L9TN7RfbYCs1sa8n) | [Mä olen tässä](https://open.spotify.com/album/4YDK0Mci27p0ruBwLxoT2C) | 4:02 | 2025-03-20 |  |
 | [Naked](https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Naked](https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT) | 3:54 | 2024-08-06 |  |
 | [Neiti Kesäheinä](https://open.spotify.com/track/1pJbvYH5FiR8FVY8Hpx9XX) | [Ikuinenkesä](https://open.spotify.com/artist/1gv2UQ0PpCHGnS1ozjAiHf) | [Neiti Kesäheinä](https://open.spotify.com/album/5E1CngsAtiJY1owp82aisc) | 3:37 | 2024-04-09 | 2024-08-07 |
 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 | 2023-01-17 |  |
@@ -107,8 +108,9 @@
 | [Purple Rain](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 8:40 | 2023-01-17 | 2024-07-04 |
 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 | 2023-01-17 |  |
 | [Päätepysäkki](https://open.spotify.com/track/6DC2FZkCBpjng0n1NHYRm0) | [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H) | [Päätepysäkki](https://open.spotify.com/album/7ckTupGlL5Ng87F7afO4LN) | 2:31 | 2023-09-15 | 2023-11-17 |
-| [Rakkauslaulu](https://open.spotify.com/track/7FxkSkSgmkotdUBQtNK7x0) | [JANNA](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3) | [Rakkauslaulu](https://open.spotify.com/album/7xXjExLtUtaEvXP6DTdvYJ) | 3:34 | 2023-11-25 |  |
-| [Sata vuotta](https://open.spotify.com/track/4JOQfZXLJ1bFKTl1uimWhz) | [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Merkittävät erot](https://open.spotify.com/album/4NJkTWOSCA5b4I7HwgNuwK) | 3:32 | 2024-01-10 |  |
+| [Rakkauslaulu](https://open.spotify.com/track/7FxkSkSgmkotdUBQtNK7x0) | [JANNA](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3) | [Rakkauslaulu](https://open.spotify.com/album/7xXjExLtUtaEvXP6DTdvYJ) | 3:34 | 2023-11-25 | 2025-03-21 |
+| [Rakkauslaulu](https://open.spotify.com/track/5s8odFffvmlKcKKNgKly41) | [Johanna Kurkela](https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A) | [Hyvästi, Dolores Haze](https://open.spotify.com/album/4DfixBuh8yeSr8zg2eXvW5) | 4:12 | 2025-03-20 |  |
+| [Sata vuotta](https://open.spotify.com/track/4JOQfZXLJ1bFKTl1uimWhz) | [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Merkittävät erot](https://open.spotify.com/album/4NJkTWOSCA5b4I7HwgNuwK) | 3:32 | 2024-01-10 | 2025-03-21 |
 | [Save Tonight](https://open.spotify.com/track/0smyCrJiibi2uwCiq5R1vj) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/0zS5fFa2I679lrdhSPAyIe) | 4:02 | 2024-04-09 |  |
 | [Saving All My Love for You](https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 3:57 | 2024-04-09 |  |
 | [Say Something](https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Is There Anybody Out There?](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) | 3:49 | 2023-01-17 | 2024-11-05 |

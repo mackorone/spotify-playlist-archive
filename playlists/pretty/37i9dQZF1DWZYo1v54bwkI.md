@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 
 > Respira profundamente y relaja tu mente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,693 likes - 205 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,936 likes - 205 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 | 98 | [Spiritual Balance](https://open.spotify.com/track/6CzRJvO258XHqqUSzmsP4X) | [Ambient X](https://open.spotify.com/artist/15NGcH8rjmaCOXThYAmKNX) | [Spiritual Balance](https://open.spotify.com/album/7tDxaBx1lXyzMIi4oqExgI) | 2:47 |
 | 99 | [Eternal](https://open.spotify.com/track/1NsNGC9U0aAh8x7bekqYfc) | [Tristan Axvall](https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1) | [Eternal](https://open.spotify.com/album/1w0DIMjPSIXA6jSHUTZlRF) | 2:50 |
 | 100 | [Numinous](https://open.spotify.com/track/6som0XayxBrwmVHOksh3Uo) | [Jinada Shane](https://open.spotify.com/artist/68NrWmdXRB6u5Fq28KmbcA) | [Numinous](https://open.spotify.com/album/17xpfnXnvEVzwErYEpVYsa) | 2:48 |
-| 101 | [Continual](https://open.spotify.com/track/2kTefS4HKaVn1URttI7UyG) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Continual](https://open.spotify.com/album/7temH4aZVIMHdoQ6H3HhJd) | 2:57 |
+| 101 | [Continual](https://open.spotify.com/track/2kTefS4HKaVn1URttI7UyG) | [Garcíia](https://open.spotify.com/artist/2dvwSbPOAs6EdV3vUMrgtL) | [Continual](https://open.spotify.com/album/7temH4aZVIMHdoQ6H3HhJd) | 2:57 |
 | 102 | [Coherence](https://open.spotify.com/track/2vjurdtpGGt8qTXEEy0tF1) | [Distant Dreams](https://open.spotify.com/artist/4YJcFIbKdvMxTzfwJDEUbY) | [Coherence](https://open.spotify.com/album/2JzNv0ZN7HlwyGNrkBlP14) | 3:04 |
 | 103 | [Soft Orange](https://open.spotify.com/track/4ppEHoUyU8H9NH7tf1941Y) | [Astral Lighthouse](https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym) | [Soft Orange](https://open.spotify.com/album/7pKK1FMRuAkgUkIO6zsGDt) | 2:44 |
 | 104 | [Elastic](https://open.spotify.com/track/2RHMslNaOFReTRmmgGYzPR) | [Ground View](https://open.spotify.com/artist/4spyBSE2bQHqg1hlYyp6l4) | [Elastic](https://open.spotify.com/album/5rH39VWTM48iZdlslIWzRz) | 3:07 |

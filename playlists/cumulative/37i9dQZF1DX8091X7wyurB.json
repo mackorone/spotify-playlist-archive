@@ -875,6 +875,24 @@
     },
     {
       "album": {
+        "name": "The Expression",
+        "url": "https://open.spotify.com/album/5LNEzS1eSEiVAAWIkd4Rk1"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 674065,
+      "name": "Baba Oh - Live",
+      "url": "https://open.spotify.com/track/3ZZpK1Yv87X1acytRWKZZl"
+    },
+    {
+      "album": {
         "name": "Spirit Of Praise, Vol. 9 (Live)",
         "url": "https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv"
       },
@@ -1164,7 +1182,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 340870,
       "name": "Bow Down (Live)",
       "url": "https://open.spotify.com/track/1fnSUD48l6ZX3xXiiFl18Y"
@@ -1532,6 +1550,24 @@
       "duration_ms": 436764,
       "name": "Courts",
       "url": "https://open.spotify.com/track/6SHjHB2CAjTu1OCfdqUoT0"
+    },
+    {
+      "album": {
+        "name": "VERSES, Vol. 2",
+        "url": "https://open.spotify.com/album/0JF6vL0sJeAERjLlwpdLY8"
+      },
+      "artists": [
+        {
+          "name": "Freke Umoh",
+          "url": "https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 529061,
+      "name": "Covenant",
+      "url": "https://open.spotify.com/track/2dHsmrbMPq88m3fwVA5Hlk"
     },
     {
       "album": {
@@ -1932,7 +1968,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-17",
+      "date_removed": null,
       "duration_ms": 293782,
       "name": "Ebenezeri",
       "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
@@ -1994,7 +2030,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 420160,
       "name": "Elshadai Adonai Medley (Live)",
       "url": "https://open.spotify.com/track/6Cu35kyDyoWUioEWyiYTpS"
@@ -3538,7 +3574,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 160824,
       "name": "GUIDE ME",
       "url": "https://open.spotify.com/track/0qjGtJ9p7T3YITq7U9Mhvc"
@@ -6091,6 +6127,28 @@
     },
     {
       "album": {
+        "name": "The Expression",
+        "url": "https://open.spotify.com/album/5LNEzS1eSEiVAAWIkd4Rk1"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 773304,
+      "name": "My Lover & Father - Live",
+      "url": "https://open.spotify.com/track/1RySgUH9LuWJ4hTFh0o4gI"
+    },
+    {
+      "album": {
         "name": "My Worship (Live)",
         "url": "https://open.spotify.com/album/5TQiS6WdCz1HEKnbSOsUAb"
       },
@@ -7262,7 +7320,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-20",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Over",
       "url": "https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT"
@@ -9896,7 +9954,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 1141000,
       "name": "Who Is Like You - Live",
       "url": "https://open.spotify.com/track/2gbB7Qux8u6qCZhGxlEKFo"
@@ -10524,7 +10582,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 233135,
       "name": "Your love",
       "url": "https://open.spotify.com/track/6sQq98ykctwIpq79syEt5x"

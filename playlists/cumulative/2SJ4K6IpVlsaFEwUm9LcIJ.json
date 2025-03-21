@@ -8877,6 +8877,24 @@
     },
     {
       "album": {
+        "name": "Good Humor",
+        "url": "https://open.spotify.com/album/35hVWd3uQFdosmj27cQIdZ"
+      },
+      "artists": [
+        {
+          "name": "Saint Etienne",
+          "url": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247400,
+      "name": "Wood Cabin",
+      "url": "https://open.spotify.com/track/2DvjHHtTjwlrMXyFKxPvXr"
+    },
+    {
+      "album": {
         "name": "Manning Fireworks",
         "url": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
       },

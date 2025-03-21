@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: LISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,961 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,015 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 | 40 | [Thought of You \(Thai Ver.\)](https://open.spotify.com/track/2mdNAr1KtyGGX2fwLqpfLc) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [Thought of You \(Thai Ver.\)](https://open.spotify.com/album/013opR8ja3MauvZ6QWaU4K) | 3:37 |
 | 41 | [ชาติหน้าช้าไป \(K.O.\)](https://open.spotify.com/track/0lQPdxfV1So2QbRrOLz0ft) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ชาติหน้าช้าไป \(K.O.\)](https://open.spotify.com/album/6kn51Xi2Pj3KlyikjPn4A2) | 3:51 |
 | 42 | [คล้ายสวรรค์​ \(close to heaven\)](https://open.spotify.com/track/76RK8f6XK2r34jvWU6YDac) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [คล้ายสวรรค์​ \(close to heaven\)](https://open.spotify.com/album/6ma4cXM7rSS0qcPPcSxmth) | 3:35 |
-| 43 | [ดวงเดียว](https://open.spotify.com/track/2hmlHJy0ew0bejRWj98hmN) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ดวงเดียว](https://open.spotify.com/album/6ILsKnkhdWRkshoepSoNgI) | 4:08 |
+| 43 | [ดวงเดียว \(missing\)](https://open.spotify.com/track/2hmlHJy0ew0bejRWj98hmN) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ดวงเดียว \(missing\)](https://open.spotify.com/album/6ILsKnkhdWRkshoepSoNgI) | 4:08 |
 | 44 | [เดินทางโดยสวัสดิภาพ](https://open.spotify.com/track/5xEtdOxQ3z18NWmDhG98N5) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [THAOWAN](https://open.spotify.com/artist/2bZps5eDWmWtRwjs54Qtwj) | [ชานชา\(ลา\)](https://open.spotify.com/album/1hjPLRs9m5kEJiTyYQSfiq) | 3:52 |
 | 45 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 |
 | 46 | [ชุ่มฉ่ำ \(ChumCham\)](https://open.spotify.com/track/5l6uO5TPKSzO8JdgY8Z32Y) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ชุ่มฉ่ำ \(ChumCham\)](https://open.spotify.com/album/7I1EvufQ6FQYUluyHAFSKk) | 3:39 |

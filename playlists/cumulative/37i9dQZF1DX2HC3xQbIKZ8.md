@@ -4,7 +4,7 @@
 
 > Pacific reggae, roots rockers\. Relax, you're on island time.
 
-171 songs - 10 hr 24 min
+172 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Stand By Me \(Drew Forever\)](https://open.spotify.com/track/4Ua8dhnL9mKAZ78etjdOHX) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [Stand By Me \(Drew Forever\)](https://open.spotify.com/album/6AsVMB0zcOvHvGc3INNY44) | 3:14 | 2023-12-21 |  |
 | [Stay In Your Lane](https://open.spotify.com/track/1e6TMGAXb3G81zFhFQ4gmw) | [Rex Atirai](https://open.spotify.com/artist/3YWnT7lNCBODL78ikRDomW), [Fiakal](https://open.spotify.com/artist/7DWgx2P7qT4MlhRLI37yOJ) | [Stay In Your Lane](https://open.spotify.com/album/6YYrPz65agGFETnvXqlaDH) | 2:40 | 2024-03-21 |  |
 | [Still the One](https://open.spotify.com/track/5kt8ukMn43YK7eMYeD2tP8) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [Mikey Mayz](https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy) | [Still the One](https://open.spotify.com/album/1dp1GNZaZFwCoqerFgVIA2) | 2:19 | 2023-11-28 |  |
+| [Summer Roots](https://open.spotify.com/track/0aYqYGU4vWXVOtv6YIk5PZ) | [Brutha Rodz](https://open.spotify.com/artist/7etGJzSv1g7S8RxZinqkdS), [Teina Mamaori](https://open.spotify.com/artist/5p0JHW1CkPxEqkbcz59rrp) | [Summer Roots](https://open.spotify.com/album/35J3yKS1y03AeCfgZfPudX) | 3:25 | 2025-03-20 |  |
 | [Summertime in Aotearoa](https://open.spotify.com/track/0of1ijyiq9iGJWXoijoIod) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Summertime in Aotearoa](https://open.spotify.com/album/4S3lE2h37snPZ3ERMIKGF8) | 3:57 | 2024-03-21 | 2024-11-08 |
 | [Summertime In Aotearoa](https://open.spotify.com/track/0ovU4fKL5J7V80YNwuqUYg) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Summertime In Aotearoa](https://open.spotify.com/album/6G4gwoemNI7fz9j1l79qVu) | 3:57 | 2023-11-28 | 2024-04-19 |
 | [SURE \(KISS ME\)](https://open.spotify.com/track/1eTV72tqhTQqonSousLmEr) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy) | [SURE \(KISS ME\)](https://open.spotify.com/album/3wk4dEAwHtuNdQ89QoB3Le) | 3:42 | 2024-03-21 |  |

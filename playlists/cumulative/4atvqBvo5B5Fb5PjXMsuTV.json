@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 19 Mar 19:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 20 Mar 14:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -6926,7 +6926,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 112641,
       "name": "battle royale",
       "url": "https://open.spotify.com/track/5TONHQ8DILscihRbo6vqRG"
@@ -10250,7 +10250,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 228611,
       "name": "Bouquet for Me",
       "url": "https://open.spotify.com/track/7dlbeaOxrdBSt7TZDQNmZK"
@@ -18910,7 +18910,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 179996,
       "name": "Deslocado",
       "url": "https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j"
@@ -28512,7 +28512,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 174319,
       "name": "GFY",
       "url": "https://open.spotify.com/track/5zWIyAUwhs4BA7j8xQWkra"
@@ -45819,6 +45819,24 @@
     },
     {
       "album": {
+        "name": "March 19th",
+        "url": "https://open.spotify.com/album/7r0YjlBopP32qw37Gz0Zen"
+      },
+      "artists": [
+        {
+          "name": "tuv",
+          "url": "https://open.spotify.com/artist/31HpFqEapSyjS7ZGUq3Ivz"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235303,
+      "name": "March 19th",
+      "url": "https://open.spotify.com/track/7H263nzSK8AfVtzwZrHfsk"
+    },
+    {
+      "album": {
         "name": "March on for Pax Ramona",
         "url": "https://open.spotify.com/album/5sZfixhUM7Siag5o0cbmi0"
       },
@@ -46802,6 +46820,24 @@
       "duration_ms": 213933,
       "name": "Miley",
       "url": "https://open.spotify.com/track/3XOD4lBBCFU1qea6zvdqvZ"
+    },
+    {
+      "album": {
+        "name": "Milk",
+        "url": "https://open.spotify.com/album/4hpBxl2EjLqCKssAKvpYTH"
+      },
+      "artists": [
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105653,
+      "name": "Milk",
+      "url": "https://open.spotify.com/track/5J5Tw78xBk5YoALN83OQXM"
     },
     {
       "album": {
@@ -74977,6 +75013,24 @@
     },
     {
       "album": {
+        "name": "Toothache",
+        "url": "https://open.spotify.com/album/6tEEA1bG0vpLFDVuCUb70p"
+      },
+      "artists": [
+        {
+          "name": "James Marriott",
+          "url": "https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197812,
+      "name": "Toothache",
+      "url": "https://open.spotify.com/track/3evEYhfiNcwYERefV2u9ps"
+    },
+    {
+      "album": {
         "name": "toothache",
         "url": "https://open.spotify.com/album/3rjjYmNxsyWkmrDLEKtXF4"
       },
@@ -82750,6 +82804,24 @@
       "duration_ms": 184860,
       "name": "Your Name",
       "url": "https://open.spotify.com/track/1ulcToO6wgxQmcGvSifkmq"
+    },
+    {
+      "album": {
+        "name": "your name forever",
+        "url": "https://open.spotify.com/album/4KNaPcFRyGMxyOQrOazeGm"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229016,
+      "name": "your name forever",
+      "url": "https://open.spotify.com/track/25HmjsZYDISFMQmeZoQvkz"
     },
     {
       "album": {

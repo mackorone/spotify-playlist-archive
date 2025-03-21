@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Popun sevilen isimleri. Kapak: I\u015f\u0131l Ayman",
+  "description": "Popun sevilen isimleri. Kapak: Ege Balkiz",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -466,7 +466,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 210833,
       "name": "a\u011fla g\u00fczelim",
       "url": "https://open.spotify.com/track/1SqKjDGRkgi8zeUCyolyhx"
@@ -2506,7 +2506,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 164817,
       "name": "KOCA ADAM",
       "url": "https://open.spotify.com/track/6OpuGG0tsOHaxkmoMEnrkq"
@@ -2997,6 +2997,28 @@
     },
     {
       "album": {
+        "name": "Olur Ya",
+        "url": "https://open.spotify.com/album/5RAWvHoS2fKwKzU1sK1zYk"
+      },
+      "artists": [
+        {
+          "name": "Hazar Alt\u0131n",
+          "url": "https://open.spotify.com/artist/63N38NNRbX8bafUq5SjVpQ"
+        },
+        {
+          "name": "\u00c7a\u011fr\u0131 \u00c7elik",
+          "url": "https://open.spotify.com/artist/7wqnPyXma7EKSYt4CVzNjq"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Olur Ya",
+      "url": "https://open.spotify.com/track/0zhme0rfZ6NNA8dXeOt1RP"
+    },
+    {
+      "album": {
         "name": "Ortak",
         "url": "https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI"
       },
@@ -3226,6 +3248,28 @@
       "duration_ms": 251733,
       "name": "Sayg\u0131mdan",
       "url": "https://open.spotify.com/track/69cGGsyc5A7OJRkjsUxWho"
+    },
+    {
+      "album": {
+        "name": "Saymad\u0131m Bu Ka\u00e7\u0131nc\u0131 \u015ei\u015fe Dibi",
+        "url": "https://open.spotify.com/album/1lnrlK1FQcSO1XylzVnvxQ"
+      },
+      "artists": [
+        {
+          "name": "Ege Balkiz",
+          "url": "https://open.spotify.com/artist/2lny2DY0mKzdgAwIx0WD4H"
+        },
+        {
+          "name": "Astral",
+          "url": "https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154049,
+      "name": "Saymad\u0131m Bu Ka\u00e7\u0131nc\u0131 \u015ei\u015fe Dibi",
+      "url": "https://open.spotify.com/track/3pCR88j8n7Uicla4t4kf3j"
     },
     {
       "album": {

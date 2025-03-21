@@ -1,6 +1,6 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 224413,
+  "num_followers": 224426,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Another Way To Say I Love You",
-        "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 219440,
-      "name": "What Am I Gonna Do With You",
-      "url": "https://open.spotify.com/track/097OvOx07eXC4UmdnywvoE"
+      "duration_ms": 290666,
+      "name": "Never, Never Gonna Give Ya Up",
+      "url": "https://open.spotify.com/track/3pepZAOvUCBt3qWi9Ax6Aq"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barry White's Greatest Hits",
-        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
+        "name": "Just Another Way To Say I Love You",
+        "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 290666,
-      "name": "Never, Never Gonna Give Ya Up",
-      "url": "https://open.spotify.com/track/3pepZAOvUCBt3qWi9Ax6Aq"
+      "duration_ms": 219440,
+      "name": "What Am I Gonna Do With You",
+      "url": "https://open.spotify.com/track/097OvOx07eXC4UmdnywvoE"
     },
     {
       "added_at": null,
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Man",
+        "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "It's Only Love Doing Its Thing",
+      "url": "https://open.spotify.com/track/7huxHHCXiJDDizWoVw2o8h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wildest Dreams (Expanded Version)",
         "url": "https://open.spotify.com/album/3cYc5SK1GZ6LMYDAXkkTeN"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 228573,
       "name": "In Your Wildest Dreams (feat. Barry White) - Radio Edit",
       "url": "https://open.spotify.com/track/7e3JHpiOw5yi1H12XPjEuN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Man",
-        "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "It's Only Love Doing Its Thing",
-      "url": "https://open.spotify.com/track/7huxHHCXiJDDizWoVw2o8h"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barry White's Greatest Hits",
-        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "Standing In The Shadows Of Love",
-      "url": "https://open.spotify.com/track/1MFy8oFHdtCiAnyueQ5ffI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stone Gon'",
         "url": "https://open.spotify.com/album/6fPii3RUZhVIX3qINgHPzR"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 520666,
       "name": "Girl It's True, Yes I'll Always Love You",
       "url": "https://open.spotify.com/track/6CweI3ZfhtzvrSza0dOH1r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "Standing In The Shadows Of Love",
+      "url": "https://open.spotify.com/track/1MFy8oFHdtCiAnyueQ5ffI"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : Asinine
+> Le meilleur du rap français version cloud\. Photo : HOUDI
 
-513 songs - 1 day 0 hr 55 min
+516 songs - 1 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Dehors Part 2](https://open.spotify.com/track/3BX8ris74IVRx9ySBdoKES) | [Gianni](https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk) | [MRTHN](https://open.spotify.com/album/1NDrCoEwYxndcqfRJ3vQ8g) | 2:54 | 2023-03-16 | 2023-05-05 |
 | [Demain](https://open.spotify.com/track/1gyWKoHQbbv9HBZa4UD2Gd) | [Nefaste](https://open.spotify.com/artist/0H1xpJStOZvjAvCihf95aY) | [Hiver 365](https://open.spotify.com/album/0oDrbahFH4GbGXPUnNq6PB) | 3:36 | 2023-12-14 | 2023-12-21 |
 | [Demain c'est loin](https://open.spotify.com/track/1D7p8EN4kDXCUN0yN8KBr9) | [Blasko](https://open.spotify.com/artist/0fUBKEXCJYmCr9vrI66NEJ), [Softo](https://open.spotify.com/artist/58WoaFxsPISuJ0iCyfizNp) | [Demain c'est loin](https://open.spotify.com/album/2s95ruN0TdxyE8nXyZepeq) | 3:41 | 2022-08-25 | 2022-10-28 |
+| [Deneb](https://open.spotify.com/track/7mzpWN36dFashyKGelIblK) | [808NOCHE](https://open.spotify.com/artist/6XQiXuIXPhKyIeOu1cJ0fO) | [Deneb](https://open.spotify.com/album/5JRMEa0gyS3q2kPK1Eda9o) | 2:47 | 2025-03-20 |  |
 | [Dennis Rodman \(feat\. Laylow\)](https://open.spotify.com/track/4Sg6iFX0yKvTO1aGKB8sWL) | [Binks Beatz](https://open.spotify.com/artist/7BO3t7j5tGn3OISCrYgLnJ), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Drip Music 2](https://open.spotify.com/album/5eYz4YuKj5vLWzXdOqxL3d) | 3:57 | 2022-09-15 | 2023-03-03 |
 | [Dernier Etage](https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH) | [Yaro](https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Tout Droit](https://open.spotify.com/album/2wMNxWbAEvAiAuX6rPH5Ux) | 3:30 | 2022-07-14 | 2023-02-03 |
 | [DERNIERE DANSE](https://open.spotify.com/track/2pZpMH4DwjrDmE46HPVOVv) | [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1) | [NUEVE SEAZON](https://open.spotify.com/album/7iCHeixFKFguzMJSeoKFLl) | 2:40 | 2024-04-25 | 2025-01-31 |
@@ -194,6 +195,7 @@
 | [GRANDIR ET RAJEUNIR](https://open.spotify.com/track/1E5HtrT3tKSsnoS05Zi88X) | [Luni](https://open.spotify.com/artist/3xEtgUoHv1k1JyqYLEwRGl) | [AHBON](https://open.spotify.com/album/2haouOfnfhMt0vLrRAACG2) | 2:19 | 2023-09-28 | 2023-09-30 |
 | [GRENADE](https://open.spotify.com/track/0WZ7TQn8MJnzRxKdxWlpdN) | [HAKAI](https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN) | [GRENADE](https://open.spotify.com/album/2CW4ULev9mQurLEpFHdovg) | 2:56 | 2022-07-14 | 2022-12-30 |
 | [Gris](https://open.spotify.com/track/3g7084K6EoChR796wdRo0i) | [Efef](https://open.spotify.com/artist/0WkzVE8cmwZsoX60nRJfVc) | [Gris](https://open.spotify.com/album/2NTfLcNxztzpilWFqdTqFh) | 3:03 | 2022-11-17 | 2023-01-13 |
+| [GRISAILLE MERITE ETALONNAGE](https://open.spotify.com/track/3zyBnR20xmwTEQZIR7wNdG) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [RACE HUMAINE](https://open.spotify.com/album/1ze4bmXxGcGT17xfmoQllY) | 2:50 | 2025-03-20 |  |
 | [Groenland](https://open.spotify.com/track/7F5i7S8H5VfaE7OrS6VU2w) | [Tydi S](https://open.spotify.com/artist/0ObRlKClJBnDmiEfxbiGBn) | [Groenland](https://open.spotify.com/album/0BbNmyhNAbQ4kcpuXPD7xU) | 2:40 | 2025-02-27 |  |
 | [Gros mega](https://open.spotify.com/track/1z1kLrnuYTLdXoSKWYE9Fy) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [Clairobscur 2](https://open.spotify.com/album/2JlgRagGV3G37C4Db5bPH1) | 2:34 | 2022-07-14 | 2022-12-02 |
 | [GUCCI \(feat\. F430\) \[jet\]](https://open.spotify.com/track/3K88jIpeWTdAQYRyqfitHD) | [S\-Pion](https://open.spotify.com/artist/3lcaxkgcJetq348VioG0s6), [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [Solide](https://open.spotify.com/album/0yoNKisaw3XF1u6iDZig6S) | 2:18 | 2022-11-17 | 2023-01-27 |
@@ -256,7 +258,7 @@
 | [L.A](https://open.spotify.com/track/1N95r73FzRwmEp0Tay0q2y) | [OSO](https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g) | [L.A](https://open.spotify.com/album/15M0JoyRtvRUoXga8dK5M5) | 1:50 | 2024-02-29 | 2024-06-07 |
 | [La Fin](https://open.spotify.com/track/4MNmqL7NYehnAkECQSzpYY) | [Koss](https://open.spotify.com/artist/1cTINVmi2me8JBpCwR2K16) | [La Fin](https://open.spotify.com/album/0X7C8d67qb5By6L1qwXeef) | 3:14 | 2022-10-06 | 2022-10-21 |
 | [La Forêt](https://open.spotify.com/track/1NQZonbTxEZ2OuzPw3xvZ9) | [Mac Amish](https://open.spotify.com/artist/2Z1KbXZk5p5DqqvUSJVUEi), [Oddbox](https://open.spotify.com/artist/6IjSW1JQwRHB9cPFyu2tn5) | [La Forêt](https://open.spotify.com/album/3T1dYDNBR756KLRdaOBn83) | 2:29 | 2024-11-07 | 2024-12-20 |
-| [LA GESTION](https://open.spotify.com/track/68Dm47Jv9FiT303iGfqKdN) | [Missan](https://open.spotify.com/artist/5bpoMhoeJ19sJSuELfgWMk) | [LA GESTION](https://open.spotify.com/album/1dXoX8jcqow1DvRZ9qXXHZ) | 2:27 | 2025-01-30 |  |
+| [LA GESTION](https://open.spotify.com/track/68Dm47Jv9FiT303iGfqKdN) | [Missan](https://open.spotify.com/artist/5bpoMhoeJ19sJSuELfgWMk) | [LA GESTION](https://open.spotify.com/album/1dXoX8jcqow1DvRZ9qXXHZ) | 2:27 | 2025-01-30 | 2025-03-21 |
 | [LA LUNE](https://open.spotify.com/track/6qz8nDdpuW5RvrDjzcYAwa) | [Karmen](https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq), [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1) | [MOTEL STUDIO 2](https://open.spotify.com/album/27bVtUy9JrOK0QCK0P7PAQ) | 2:33 | 2024-07-11 | 2024-12-06 |
 | [LA MAIN SUR LE COEUR](https://open.spotify.com/track/4ov5a5J11JtqmqVxT652ox) | [Gemen](https://open.spotify.com/artist/38Ey7an6lpTlez98WKnAd2) | [LA MAIN SUR LE COEUR](https://open.spotify.com/album/2RzJrWCoHC3NHqtAdunKsK) | 2:38 | 2024-09-12 | 2024-10-18 |
 | [La paume](https://open.spotify.com/track/45F4WSxrwyULSeEXH0NDoV) | [YUNG POOR ALO](https://open.spotify.com/artist/4n9g9O44xmv7k4ET9NLvds) | [La paume](https://open.spotify.com/album/3tlJROX0yLLiBttCwU1VfL) | 2:37 | 2024-07-04 | 2024-10-25 |
@@ -358,7 +360,7 @@
 | [NUAGES](https://open.spotify.com/track/2dTgoKc0BQ06TLkt9P5BbI) | [KLS](https://open.spotify.com/artist/7vnEuM5aFDKZ0kiWIjMpD4) | [NUAGES](https://open.spotify.com/album/4ycC3Z34tOQLpyjsd8i9bx) | 2:25 | 2023-11-16 | 2023-12-08 |
 | [NUIT ET JOUR](https://open.spotify.com/track/400rEn95uXwJ6akAq4jSNY) | [HAKAI](https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN) | [NUIT ET JOUR](https://open.spotify.com/album/6ooUr10tF4PtDsa9yhP5sy) | 1:53 | 2023-10-26 | 2024-02-02 |
 | [Nuit et jour](https://open.spotify.com/track/3xAlSc7IFjhBwQq4HSDpor) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS) | [Nuit et jour](https://open.spotify.com/album/2VvNdPoTyrPTR30iBFzFJf) | 3:23 | 2023-01-12 | 2023-04-14 |
-| [OH WOW](https://open.spotify.com/track/2t99hWfpJaPhVzyCQjctJv) | [Joha Wallas](https://open.spotify.com/artist/5LdU2LamUIoKGhEvOcDFvr) | [OH WOW](https://open.spotify.com/album/7dImm22cH2ki9SjL0iQkMq) | 2:41 | 2025-02-27 |  |
+| [OH WOW](https://open.spotify.com/track/2t99hWfpJaPhVzyCQjctJv) | [Joha Wallas](https://open.spotify.com/artist/5LdU2LamUIoKGhEvOcDFvr) | [OH WOW](https://open.spotify.com/album/7dImm22cH2ki9SjL0iQkMq) | 2:41 | 2025-02-27 | 2025-03-21 |
 | [Oiseau de nuit](https://open.spotify.com/track/299v6FILLtNsfPoDWH7utU) | [Telam](https://open.spotify.com/artist/4YH9nYMnKZDKIXRFQrhRON) | [Oiseau de nuit](https://open.spotify.com/album/1fRkV0Pzcfb48wfoG5G95X) | 3:33 | 2024-07-04 | 2024-09-27 |
 | [OKOCHA](https://open.spotify.com/track/7caYhBo57VGdfk5K6NqZ4x) | [Elh Kmer](https://open.spotify.com/artist/6DTpmzMa0Gz93kRKUo4JfQ) | [OKOCHA](https://open.spotify.com/album/488uHoP3aFtNqQPi9jKeYM) | 3:41 | 2024-06-06 | 2024-12-06 |
 | [Omahana](https://open.spotify.com/track/2kiXPzkHJgtnHlYBgzOwN5) | [C\-ROM](https://open.spotify.com/artist/2JGq7nPI5eQjKRpKZEedf0) | [Omahana](https://open.spotify.com/album/6MSK28lVAeW2qYvXpH4u35) | 2:50 | 2024-05-23 | 2024-09-13 |
@@ -485,7 +487,7 @@
 | [TARZAN](https://open.spotify.com/track/2weBFL1vsF2p92lgSlxzbo) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [EUPHORIA](https://open.spotify.com/album/5DUgKgqnqt4jWWP4DCx2NI) | 2:59 | 2022-10-13 | 2023-01-27 |
 | [Tempête](https://open.spotify.com/track/2BrQwWQmdFASBPmjdI7qZa) | [Lycos](https://open.spotify.com/artist/6nxnoznWVrq1HXBbjl2cz3) | [ALCAN CITY](https://open.spotify.com/album/4JKfBNGQOaXaMUTftt9Txm) | 3:57 | 2022-09-08 | 2022-11-25 |
 | [THÉRAPIE](https://open.spotify.com/track/410PptAEZCpF56YJBxgDIQ) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [ICARE](https://open.spotify.com/album/0fOl6xbizjCOl1Hl2eCgMM) | 3:05 | 2023-11-23 | 2024-02-02 |
-| [TITULAIRE](https://open.spotify.com/track/1aGH38NuMmqBkYtKchy6F1) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [NUMERO 11](https://open.spotify.com/album/21VZamyCjVgontQhKMaQkL) | 2:36 | 2024-05-23 |  |
+| [TITULAIRE](https://open.spotify.com/track/1aGH38NuMmqBkYtKchy6F1) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [NUMERO 11](https://open.spotify.com/album/21VZamyCjVgontQhKMaQkL) | 2:36 | 2024-05-23 | 2025-03-21 |
 | [TOUJOURS+](https://open.spotify.com/track/4IB8JqXWpQXKRryrRDmtWc) | [Coyote Jo Bastard](https://open.spotify.com/artist/3nDLTOGw0WwwddP3tq5561) | [TOUJOURS+](https://open.spotify.com/album/7Idj3ciTMQ4ESCmMAVTwkH) | 2:21 | 2024-04-11 | 2024-06-14 |
 | [Tous les jours](https://open.spotify.com/track/1O5nheIwgavNsDYIHIUx7Z) | [BFG](https://open.spotify.com/artist/3XxZVlDivZ7aV3xCIViakY) | [KILO](https://open.spotify.com/album/7f9bQMl1mk8T3B5aBz72Ya) | 2:46 | 2023-04-20 | 2023-06-16 |
 | [Tout est magique](https://open.spotify.com/track/64gvM3OyQs9iIQhRVmehn2) | [LauCarré](https://open.spotify.com/artist/0NuAhoKXhbTZEQwKzvVYRm) | [Merci la vie pour les douleurs](https://open.spotify.com/album/7gabBywNczFVUdfQmwvBaW) | 2:24 | 2024-12-05 | 2025-01-31 |
@@ -508,6 +510,7 @@
 | [VENDETTA](https://open.spotify.com/track/7AV0BrYMW2e1rtzuyHYe4s) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [VENDETTA](https://open.spotify.com/album/2DMgmdNwczV5ru2A53BjDB) | 3:49 | 2025-01-30 | 2025-02-08 |
 | [Venom](https://open.spotify.com/track/4ko3pKC9xAtGh2pSRLn5ct) | [Gianni](https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk) | [42 jours avant MRTHN](https://open.spotify.com/album/4eP8OFxMTEQJYJHiWbd9Lv) | 2:55 | 2023-01-19 | 2023-03-03 |
 | [Vide](https://open.spotify.com/track/20jeEnFijJd4tRAtcww0tl) | [Sicario](https://open.spotify.com/artist/0ajjnGmVt2aVGD70lDbVl6) | [Vide](https://open.spotify.com/album/5j0mtAW5OGpVv7vO7MfEOF) | 3:18 | 2023-11-09 | 2023-12-15 |
+| [Virgil Abloh](https://open.spotify.com/track/5cQsPKT7hZDn7cAVc8hOos) | [Chanceko](https://open.spotify.com/artist/0rIcS71BzqNgTQl8yjiprz) | [Virgil Abloh](https://open.spotify.com/album/59Y4fmvDaOERpxDATeTpkz) | 1:52 | 2025-03-20 |  |
 | [Warzone](https://open.spotify.com/track/3vAh3mE2xDccKEArGslrZ1) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [Warzone](https://open.spotify.com/album/3dcDVMzfWhzA8JwE2HIZD7) | 3:14 | 2022-10-20 | 2023-03-03 |
 | [Wolverine](https://open.spotify.com/track/1CxsBUL6NC5XUzyyOZF43l) | [Marvin Garcia](https://open.spotify.com/artist/2YxqzJj7fOGIxYeWb6NYSN) | [Wolverine](https://open.spotify.com/album/5IzvSeWOJQk8yTDyHDQRcD) | 1:42 | 2024-10-17 | 2024-11-29 |
 | [zeppelin](https://open.spotify.com/track/72CrKgMTYBumZL48BUx6Y1) | [Sovajon](https://open.spotify.com/artist/41XEyClazvR6Ao77iD8qex), [yuo](https://open.spotify.com/artist/4pc342kOtT5KA7XDXBISsc) | [zeppelin](https://open.spotify.com/album/0XAHLS9hIoTUtRbWPSESj7) | 3:28 | 2024-02-29 | 2024-06-28 |

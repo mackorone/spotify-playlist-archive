@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring Bandalos Chinos.",
-  "num_followers": 167336,
+  "num_followers": 167329,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2025-02-14 05:00:45",
       "album": {
+        "name": "SOPHIA",
+        "url": "https://open.spotify.com/album/77R6W0mK0nlkpm698gAfVu"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 184689,
+      "name": "SOPHIA",
+      "url": "https://open.spotify.com/track/59lGrz68PP8oxZ0UTJtej5"
+    },
+    {
+      "added_at": "2025-02-14 05:00:45",
+      "album": {
         "name": "Nada por Hecho (feat. Leiva)",
         "url": "https://open.spotify.com/album/6dD5pmen05khim74MHtYC9"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 208802,
       "name": "Nada por Hecho (feat. Leiva)",
       "url": "https://open.spotify.com/track/44XbWNRHal0zmIFVdxdG18"
-    },
-    {
-      "added_at": "2025-02-14 05:00:45",
-      "album": {
-        "name": "SOPHIA",
-        "url": "https://open.spotify.com/album/77R6W0mK0nlkpm698gAfVu"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 184689,
-      "name": "SOPHIA",
-      "url": "https://open.spotify.com/track/59lGrz68PP8oxZ0UTJtej5"
     },
     {
       "added_at": "2025-02-14 05:00:45",
@@ -483,6 +483,22 @@
     {
       "added_at": "2025-02-14 05:00:45",
       "album": {
+        "name": "Life Is A Movie",
+        "url": "https://open.spotify.com/album/3IJhzIBopdSE70xsu1RthO"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        }
+      ],
+      "duration_ms": 181573,
+      "name": "Life Is A Movie",
+      "url": "https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P"
+    },
+    {
+      "added_at": "2025-02-14 05:00:45",
+      "album": {
         "name": "Q.I.S",
         "url": "https://open.spotify.com/album/6bTKewCMHer6xH1SGu1CzH"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 223910,
       "name": "Q.I.S - feat. maye",
       "url": "https://open.spotify.com/track/5HRtkyn2GNDz5DD4BfEjnt"
-    },
-    {
-      "added_at": "2025-02-14 05:00:45",
-      "album": {
-        "name": "Life Is A Movie",
-        "url": "https://open.spotify.com/album/3IJhzIBopdSE70xsu1RthO"
-      },
-      "artists": [
-        {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
-        }
-      ],
-      "duration_ms": 181573,
-      "name": "Life Is A Movie",
-      "url": "https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P"
     },
     {
       "added_at": "2025-02-14 05:00:45",
@@ -751,26 +751,6 @@
     {
       "added_at": "2025-02-14 05:00:45",
       "album": {
-        "name": "LE CHILL 2",
-        "url": "https://open.spotify.com/album/1AUiYrTUnKXZHwFgTK6Xr9"
-      },
-      "artists": [
-        {
-          "name": "Chill Chicos",
-          "url": "https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG"
-        },
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 172335,
-      "name": "NO SALES DE MI CABEZA",
-      "url": "https://open.spotify.com/track/0ZsuvAQXU2SaBWjzMUPp1c"
-    },
-    {
-      "added_at": "2025-02-14 05:00:45",
-      "album": {
         "name": "ALGO ESPECIAL",
         "url": "https://open.spotify.com/album/5BsLcTXZI2Ag1mbl7m2WH5"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 176807,
       "name": "Carta de Amor",
       "url": "https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada"
+    },
+    {
+      "added_at": "2025-02-14 05:00:45",
+      "album": {
+        "name": "LE CHILL 2",
+        "url": "https://open.spotify.com/album/1AUiYrTUnKXZHwFgTK6Xr9"
+      },
+      "artists": [
+        {
+          "name": "Chill Chicos",
+          "url": "https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG"
+        },
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 172335,
+      "name": "NO SALES DE MI CABEZA",
+      "url": "https://open.spotify.com/track/0ZsuvAQXU2SaBWjzMUPp1c"
     },
     {
       "added_at": "2025-02-14 05:00:45",
@@ -983,26 +983,6 @@
     {
       "added_at": "2025-02-14 05:00:45",
       "album": {
-        "name": "100PRE YORO",
-        "url": "https://open.spotify.com/album/6xOaHqhD9jaJtR3xmFHrzP"
-      },
-      "artists": [
-        {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 222908,
-      "name": "un d\u00eda",
-      "url": "https://open.spotify.com/track/2znDyj4JlYJL1DayuV4j14"
-    },
-    {
-      "added_at": "2025-02-14 05:00:45",
-      "album": {
         "name": "La Dosis",
         "url": "https://open.spotify.com/album/6REG6XsOTiPC2c7h7LfWVq"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 175282,
       "name": "La Dosis",
       "url": "https://open.spotify.com/track/1whTkcaiWWR8HqWpgiN7XD"
+    },
+    {
+      "added_at": "2025-02-14 05:00:45",
+      "album": {
+        "name": "100PRE YORO",
+        "url": "https://open.spotify.com/album/6xOaHqhD9jaJtR3xmFHrzP"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 222908,
+      "name": "un d\u00eda",
+      "url": "https://open.spotify.com/track/2znDyj4JlYJL1DayuV4j14"
     },
     {
       "added_at": "2025-02-14 05:00:45",

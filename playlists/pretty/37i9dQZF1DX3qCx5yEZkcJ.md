@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,490,191 likes - 80 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,490,163 likes - 80 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 29 | [Sometimes \- Remix Instrumental](https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Jay Deelicious 95\-98 \- The Delicious Vinyl Years \(Originals, Remixes & Rarities\)](https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc) | 4:03 |
 | 30 | [Primo](https://open.spotify.com/track/2uCgOs0VUkQYlnXtfi4uuK) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [Primo](https://open.spotify.com/album/0yQ2Z7C1W9zjXnRcVWkln4) | 2:42 |
 | 31 | [NEIGHBORHOOD](https://open.spotify.com/track/7pF5IwjIYwsxTmXnGq1Orn) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [The Neighborhood](https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv) | 1:40 |
-| 32 | [Tender Rose](https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Tender Rose](https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP) | 3:22 |
-| 33 | [Tangerine Hues](https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in) | [Ameba](https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P), [Flavors](https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77) | [Tangerine Hues](https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5) | 3:04 |
-| 34 | [Do the Right Thing](https://open.spotify.com/track/6jfThgv76n9FRzyZsPcthw) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Hannah V](https://open.spotify.com/artist/0zKzgw5rfDZ2PdgOZo8G8f) | [Do the Right Thing](https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2) | 2:01 |
-| 35 | [Its Rainy](https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI) | [Eric Lau](https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n) | [Examples](https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD) | 2:08 |
-| 36 | [Viva la Vida](https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO) | [Savages](https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS) | [Life in the Wild Garden](https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb) | 1:35 |
-| 37 | [Freedom](https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2) | [Allgood](https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Freedom](https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R) | 2:08 |
-| 38 | [Riverside](https://open.spotify.com/track/2SkheMmym933XZaCNukLkm) | [Karmawin](https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK) | [Riverside](https://open.spotify.com/album/7eaALW3TZmoAcVqnS9KsMn) | 3:18 |
+| 32 | [Tangerine Hues](https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in) | [Ameba](https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P), [Flavors](https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77) | [Tangerine Hues](https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5) | 3:04 |
+| 33 | [Tender Rose](https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Tender Rose](https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP) | 3:22 |
+| 34 | [Freedom](https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2) | [Allgood](https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Freedom](https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R) | 2:08 |
+| 35 | [Do the Right Thing](https://open.spotify.com/track/6jfThgv76n9FRzyZsPcthw) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Hannah V](https://open.spotify.com/artist/0zKzgw5rfDZ2PdgOZo8G8f) | [Do the Right Thing](https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2) | 2:01 |
+| 36 | [Riverside](https://open.spotify.com/track/2SkheMmym933XZaCNukLkm) | [Karmawin](https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK) | [Riverside](https://open.spotify.com/album/7eaALW3TZmoAcVqnS9KsMn) | 3:18 |
+| 37 | [Viva la Vida](https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO) | [Savages](https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS) | [Life in the Wild Garden](https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb) | 1:35 |
+| 38 | [Its Rainy](https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI) | [Eric Lau](https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n) | [Examples](https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD) | 2:08 |
 | 39 | [Barefoot](https://open.spotify.com/track/3PYn6FdmTO1qzQc1QE97sM) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [Barefoot](https://open.spotify.com/album/4J050LlYmPuvPouu9rBoVj) | 2:40 |
 | 40 | [busking](https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [busking](https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq) | 2:20 |
 | 41 | [Quiet in the Garden](https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Just a Lullaby](https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd) | 2:20 |
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 69 | [afternoon shower](https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [afternoon shower](https://open.spotify.com/album/4RJjmfGyLb7wlUxcqtc9y1) | 2:07 |
 | 70 | [Skies the Limit](https://open.spotify.com/track/26mpkkyZBtcWJz3LiWCr4K) | [Goodge](https://open.spotify.com/artist/7ChpiDDHfolxNhgmjoPnJB) | [Skies the Limit](https://open.spotify.com/album/5ljrbXsoNN1fUoe8iIh86R) | 4:32 |
 | 71 | [Azure](https://open.spotify.com/track/0Yo1t0lsn2vqvZLd0kxJ5P) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Azure](https://open.spotify.com/album/2qDTdW3kp496Ebr6edjM62) | 2:19 |
-| 72 | [Whatsreal](https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S) | [Whatsreal](https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T) | 2:28 |
-| 73 | [Yugure](https://open.spotify.com/track/2onG2HeI7SgoFBWlrwP8MR) | [Komachi](https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Yugure](https://open.spotify.com/album/51qx824lAeHOJKYMcYrwdQ) | 2:06 |
+| 72 | [Yugure](https://open.spotify.com/track/2onG2HeI7SgoFBWlrwP8MR) | [Komachi](https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Yugure](https://open.spotify.com/album/51qx824lAeHOJKYMcYrwdQ) | 2:06 |
+| 73 | [Whatsreal](https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S) | [Whatsreal](https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T) | 2:28 |
 | 74 | [NIGHT RIDER](https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ) | [sophisticated silence](https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH) | [sophisticated silence](https://open.spotify.com/album/0cd465hlsnC86kvwrGYq8z) | 2:35 |
 | 75 | [Talloires](https://open.spotify.com/track/5yn48C8nxwoYU31pOt6FuR) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Talloires](https://open.spotify.com/album/2h5zrNlyCNh15Nr3KgcpO3) | 1:53 |
 | 76 | [glow](https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [glow](https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH) | 4:09 |
 | 77 | [Summit](https://open.spotify.com/track/3NzdQg2hOSyCVBkTowACjb) | [Lowkey Vanni](https://open.spotify.com/artist/2akxx91vwl1uec0zXY9ORz), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Summit](https://open.spotify.com/album/1PFaGA1C6C31JlqYSMedx2) | 2:09 |
-| 78 | [Rostrum](https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [CELEBRATION OF JAY 3](https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo) | 2:15 |
-| 79 | [snow in the park](https://open.spotify.com/track/3rbAMJkgzrVUv0s9oihOAU) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [snow in the park](https://open.spotify.com/album/6X1WlzgKrWhuBH2g8PqTi3) | 3:18 |
+| 78 | [snow in the park](https://open.spotify.com/track/3rbAMJkgzrVUv0s9oihOAU) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [snow in the park](https://open.spotify.com/album/6X1WlzgKrWhuBH2g8PqTi3) | 3:18 |
+| 79 | [Rostrum](https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [CELEBRATION OF JAY 3](https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo) | 2:15 |
 | 80 | [Bike Ride in Osaka](https://open.spotify.com/track/1VOZoXy7aPGruK8JsFQp7H) | [tecashi](https://open.spotify.com/artist/0lyektFoueMSyY7rE3212w) | [Bike Ride in Osaka](https://open.spotify.com/album/6HbBPWORHXSGkhH62Qllis) | 2:00 |
 
 Snapshot ID: `Z8m4hAAAAADt/gP3vguDIcPSHZFrKzSV`

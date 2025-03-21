@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Dano",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Delaossa",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -278,7 +278,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 197142,
       "name": "4EVA",
       "url": "https://open.spotify.com/track/7hs8xU52dYK7byd7WLOcKV"
@@ -1648,7 +1648,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 184893,
       "name": "BUDOKAI",
       "url": "https://open.spotify.com/track/0oa2eX5BeSZU11F2qC5p1v"
@@ -2246,7 +2246,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 165168,
       "name": "CASAS ROSAS",
       "url": "https://open.spotify.com/track/6miOyimBD4VN4xlPUlNhMs"
@@ -3821,6 +3821,28 @@
     },
     {
       "album": {
+        "name": "La Madrug\u00e1",
+        "url": "https://open.spotify.com/album/3Au0IW8JlUTwsvT4Ym6yL7"
+      },
+      "artists": [
+        {
+          "name": "Delaossa",
+          "url": "https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ"
+        },
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212877,
+      "name": "El\u00edseos",
+      "url": "https://open.spotify.com/track/2tjh0Vs9JArpDn36o3M5bm"
+    },
+    {
+      "album": {
         "name": "En la lucha",
         "url": "https://open.spotify.com/album/36gWlzteJX9ZGwvjHnodD8"
       },
@@ -4923,6 +4945,24 @@
     },
     {
       "album": {
+        "name": "I'm So High",
+        "url": "https://open.spotify.com/album/45RXqCNUNlftv6t4UBntRN"
+      },
+      "artists": [
+        {
+          "name": "EZVIT 810",
+          "url": "https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266730,
+      "name": "I'm So High",
+      "url": "https://open.spotify.com/track/20Kch1lUnS2OVduVqEo7P2"
+    },
+    {
+      "album": {
         "name": "Idrisi",
         "url": "https://open.spotify.com/album/4BpWJU5HamEgmS6p1EuHDe"
       },
@@ -5736,7 +5776,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 164931,
       "name": "La voz de la calle",
       "url": "https://open.spotify.com/track/5ZO51do9avcsYWcUGuDXDi"
@@ -6854,6 +6894,28 @@
       "duration_ms": 164370,
       "name": "Mi Condena",
       "url": "https://open.spotify.com/track/0RSpDN3ywn433Ax7AEmciT"
+    },
+    {
+      "album": {
+        "name": "Mi Destello",
+        "url": "https://open.spotify.com/album/7ErRSsAmZXo5E2pXdcu4mY"
+      },
+      "artists": [
+        {
+          "name": "RADE",
+          "url": "https://open.spotify.com/artist/2Be5gecyvPCbsLUp0o6k6h"
+        },
+        {
+          "name": "Ocer y Rade",
+          "url": "https://open.spotify.com/artist/0fgRCULXpG4okFdlpat4e3"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184137,
+      "name": "Mi Destello",
+      "url": "https://open.spotify.com/track/2ZvWYBTVyGFhm471EjAgnP"
     },
     {
       "album": {
@@ -8755,6 +8817,24 @@
     },
     {
       "album": {
+        "name": "RAPSINCORTE 52",
+        "url": "https://open.spotify.com/album/19xUkxCFDjvmYSJ6BcZIbD"
+      },
+      "artists": [
+        {
+          "name": "Foyone",
+          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91111,
+      "name": "RAPSINCORTE 52",
+      "url": "https://open.spotify.com/track/3Z71w98ZzC2ff5Pe0deXxc"
+    },
+    {
+      "album": {
         "name": "Real OG",
         "url": "https://open.spotify.com/album/5SnjSg1F3RtAtu7OYeNx5z"
       },
@@ -10163,6 +10243,28 @@
     },
     {
       "album": {
+        "name": "TANTAS VECES",
+        "url": "https://open.spotify.com/album/5t08sFK0Hye3KpNMxujpG3"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146678,
+      "name": "TANTAS VECES",
+      "url": "https://open.spotify.com/track/3heNrOiAGgEkUH764mjAl5"
+    },
+    {
+      "album": {
         "name": "UNA SEMANA INCRE\u00cdBLE",
         "url": "https://open.spotify.com/album/6laF0vOsbRWsxFKDvfoAsM"
       },
@@ -11184,10 +11286,32 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 250952,
       "name": "Vuelves",
       "url": "https://open.spotify.com/track/5gpeWZITMV7AragQLuNpyH"
+    },
+    {
+      "album": {
+        "name": "La Madrug\u00e1",
+        "url": "https://open.spotify.com/album/3Au0IW8JlUTwsvT4Ym6yL7"
+      },
+      "artists": [
+        {
+          "name": "Delaossa",
+          "url": "https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231548,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/4EGBmzLCX4HgJX6ktEU57v"
     },
     {
       "album": {
@@ -11476,7 +11600,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 150000,
       "name": "\u00bfPOR QU\u00c9 LLORAS?",
       "url": "https://open.spotify.com/track/0epQ03BTl8xFgut3DVHPqf"

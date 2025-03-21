@@ -1849,6 +1849,32 @@
     },
     {
       "album": {
+        "name": "Icon: Vernon Handley",
+        "url": "https://open.spotify.com/album/5YjbLq9Kys1XZo499dQ1mr"
+      },
+      "artists": [
+        {
+          "name": "Frederick Delius",
+          "url": "https://open.spotify.com/artist/65YhYi4Fz5Ibgq7ueev2Rm"
+        },
+        {
+          "name": "Vernon Handley",
+          "url": "https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349760,
+      "name": "Delius: 2 Pieces for Small Orchestra: No. 1, On Hearing the First Cuckoo in Spring",
+      "url": "https://open.spotify.com/track/5TKI5tUyRZlAEjM72cXyMz"
+    },
+    {
+      "album": {
         "name": "Schubert: Die Nacht (Arr. for Cello and Guitar by Anja Lechner and Pablo M\u00e1rquez)",
         "url": "https://open.spotify.com/album/4Gi7J0yFWPlVxJ6qp2MI1e"
       },
@@ -3436,7 +3462,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 102826,
       "name": "Noel Symphony No. 4 in D Minor: I. Une jeune pucelle: Moderato",
       "url": "https://open.spotify.com/track/6JkDThoofgbKj59ykGwRph"

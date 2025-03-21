@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-802 songs - 2 day 5 hr 40 min
+805 songs - 2 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Dreaming, backwards](https://open.spotify.com/track/5rYwlaFTyCKfkwOJKbjTp1) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Turbulence](https://open.spotify.com/album/3KgzhcQdPTZOkIXHuxpiYH) | 3:33 | 2024-07-29 | 2024-07-31 |
 | [Drive](https://open.spotify.com/track/3geRffSf6eAruhg23RkpKV) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 4:31 | 2022-06-16 | 2023-12-14 |
 | [Drone](https://open.spotify.com/track/3ZQpms23dgtgox86dd7eGV) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [Time to Go Home](https://open.spotify.com/album/6qGYhu450Xc73YbNAVkM3U) | 4:33 | 2023-08-12 |  |
+| [Drover](https://open.spotify.com/track/0FprsPFNEr74lZRbH49MMK) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Apocalypse](https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP) | 5:24 | 2025-03-20 |  |
 | [Drowned World / Substitute for Love](https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 5:08 | 2025-01-15 |  |
 | [Dumbest Girl Alive](https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 2:17 | 2023-03-17 | 2023-04-03 |
 | [DUSTCUTTER](https://open.spotify.com/track/1BJjqtZir1VxnFMe4E668u) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 2:44 | 2024-03-01 |  |
@@ -251,6 +252,7 @@
 | [fighting back](https://open.spotify.com/track/5YgIbbLLJxRw9BG21C4Ioe) | [R.A.P\. Ferreira](https://open.spotify.com/artist/2U1vwQRYQmG7ypKJF1JTEb) | [5 to the Eye with Stars](https://open.spotify.com/album/2JdEpcC6E0KsWfft0dwrxf) | 2:15 | 2024-01-03 |  |
 | [Fingertips \(Intro\)](https://open.spotify.com/track/3ZPSyQ3TxrZ5O5lJPw0wVx) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Floorspace](https://open.spotify.com/album/0zJkFKoviOWGLmT5mvWhWC) | 1:56 | 2024-05-27 |  |
 | [Fire](https://open.spotify.com/track/7qisEHSTKvbq6ruMbvemwb) | [Mal Devisa](https://open.spotify.com/artist/3YMOzNArPJIyR5Y5iIxOpi) | [Kiid](https://open.spotify.com/album/2X9yCAdOM19MwZQquN6Fir) | 2:21 | 2024-01-18 |  |
+| [First Bird](https://open.spotify.com/track/0rrvQksEI37Bz52heCXx7J) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [YTI⅃AƎЯ](https://open.spotify.com/album/3bclTvGr69frcDsVw2VJVO) | 5:01 | 2025-03-20 |  |
 | [First Light \- Remastered 2004](https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 7:06 | 2024-09-11 | 2024-09-19 |
 | [First Time](https://open.spotify.com/track/1mQpK73Pm5cc9Kg3Qm4RtE) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [EMOTION SIDE B](https://open.spotify.com/album/31776n0a6xHYMHSlK4983u) | 3:35 | 2023-10-18 | 2024-01-18 |
 | [Five Years \- 2012 Remaster](https://open.spotify.com/track/1JIzFhI9Lt5FyslawmHCBi) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 4:43 | 2023-05-19 | 2024-06-11 |
@@ -420,6 +422,7 @@
 | [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:09 | 2023-11-01 | 2024-09-10 |
 | [Lilian's Pavilion](https://open.spotify.com/track/1XbBXvgRlTJB6880Du8jlH) | [CEP](https://open.spotify.com/artist/2aooHIljVYIZhEFFNmIaEz) | [Drawing the Target Around the Arrow](https://open.spotify.com/album/1Uu3fza2uwuAM9kbn5EtBs) | 2:57 | 2023-10-17 |  |
 | [Lisztomania](https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 4:01 | 2023-02-18 | 2023-04-20 |
+| [Little League \- 2025 Remaster](https://open.spotify.com/track/0ymqCxnSgtU43ZnTKzsKjF) | [Cap'n Jazz](https://open.spotify.com/artist/3JhEcBWSCPXkRMt1VK14i4) | [Shmap'n Shmazz \(2025 Remaster\)](https://open.spotify.com/album/59m7KmDZeSuseIc4y60HMU) | 3:58 | 2025-03-20 |  |
 | [Live from 54th](https://open.spotify.com/track/5UkiLo3RAeN2Y3qmtFAmG2) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Evidence](https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O) | [Los Angeles](https://open.spotify.com/album/6SbSnccPne65cY6Fovd0h7) | 1:43 | 2024-08-05 |  |
 | [Lloyd, I'm Ready To Be Heartbroken](https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Let's Get Out Of This Country](https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1) | 3:51 | 2022-10-07 | 2023-05-27 |
 | [LMPD](https://open.spotify.com/track/0HFQJcLpqVWhBYzdUZC5xd) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Stillness in Wonderland](https://open.spotify.com/album/4G50FUTTI4fCDyrxP1UEer) | 4:03 | 2022-12-15 |  |

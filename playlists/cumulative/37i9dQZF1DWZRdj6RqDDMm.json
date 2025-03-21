@@ -428,6 +428,28 @@
     {
       "album": {
         "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/6Mr0UAJoXUjvQruBEs4qLb"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Jenge",
+          "url": "https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155999,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/6eBLUjX5ynH2UT3IdP2gdj"
+    },
+    {
+      "album": {
+        "name": "Amazing Grace",
         "url": "https://open.spotify.com/album/56xX7cd0EGV4R3B9OnIQTl"
       },
       "artists": [
@@ -464,7 +486,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 133333,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/44S0eEug5ERxKwPxmhLh4Q"
@@ -1020,7 +1042,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 180658,
       "name": "Big God",
       "url": "https://open.spotify.com/track/5SNoPY4VpGkmOMSHj2imTC"
@@ -1300,7 +1322,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 195124,
       "name": "Calm",
       "url": "https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT"
@@ -1340,7 +1362,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 181052,
       "name": "Cast Your Burdens (Higher) - Live",
       "url": "https://open.spotify.com/track/1VL2yRQhczmwtKFokxzTzs"
@@ -1376,7 +1398,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 184276,
       "name": "Chante (Parlour Sessions) - Live",
       "url": "https://open.spotify.com/track/5Gu3WwvO4WqqvqG5NLGs55"
@@ -1748,7 +1770,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 170052,
       "name": "Daniel in the Den",
       "url": "https://open.spotify.com/track/4tOci1vlMAbuw0J7cNYQOY"
@@ -2567,6 +2589,28 @@
     },
     {
       "album": {
+        "name": "Final Bus Stop",
+        "url": "https://open.spotify.com/album/3lOrefApz33ICzfcJx2HlT"
+      },
+      "artists": [
+        {
+          "name": "Stanley Ifenna",
+          "url": "https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA"
+        },
+        {
+          "name": "Dells TMX",
+          "url": "https://open.spotify.com/artist/5w4pU01c66v4DQc8mqGK0r"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218017,
+      "name": "Final Bus Stop",
+      "url": "https://open.spotify.com/track/3I853bLSz0XoNNRzVYFrIg"
+    },
+    {
+      "album": {
         "name": "Find Me Here (Blessings Find Me)",
         "url": "https://open.spotify.com/album/5ebJIqFHHtI9QytYJIs8Cy"
       },
@@ -3096,7 +3140,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 253727,
       "name": "God In Heaven",
       "url": "https://open.spotify.com/track/3Z9fQAaz9AWwxpZreeb8Dz"
@@ -3700,7 +3744,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 208000,
       "name": "I Pray",
       "url": "https://open.spotify.com/track/4f3pIJLTJ7pA72AHEBaPc2"
@@ -4120,7 +4164,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 188727,
       "name": "Joy Down Deep",
       "url": "https://open.spotify.com/track/7qgwTetzQEUkehguE3VYGD"
@@ -4660,7 +4704,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 153800,
       "name": "Love Greater",
       "url": "https://open.spotify.com/track/1BQFPvZeTu5ac3CZ2mRvpe"
@@ -4792,7 +4836,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 154000,
       "name": "Lover",
       "url": "https://open.spotify.com/track/3LsH0m9PlqghgV1H4KJnnr"
@@ -4940,7 +4984,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 224831,
       "name": "Man Of Galilee",
       "url": "https://open.spotify.com/track/2U5AUyc7Y8WUoSMBKdh39g"
@@ -5659,6 +5703,54 @@
     },
     {
       "album": {
+        "name": "Need You More",
+        "url": "https://open.spotify.com/album/26IUZXIl4p6MOloWfucHlv"
+      },
+      "artists": [
+        {
+          "name": "Ellie Scotte",
+          "url": "https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM"
+        },
+        {
+          "name": "Ko'rale",
+          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231530,
+      "name": "Need You More",
+      "url": "https://open.spotify.com/track/6gPSmwygABNYVEG7q0umky"
+    },
+    {
+      "album": {
+        "name": "Never Fail II",
+        "url": "https://open.spotify.com/album/5UauZ9W6MKpUWnxEbepq6H"
+      },
+      "artists": [
+        {
+          "name": "Dj Penny",
+          "url": "https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY"
+        },
+        {
+          "name": "Dabo Williams",
+          "url": "https://open.spotify.com/artist/2b1gzVa6dmkHEXKPCLOCHY"
+        },
+        {
+          "name": "Tem-Pee",
+          "url": "https://open.spotify.com/artist/1GhBskMXoupdS2AqTGiKNk"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159216,
+      "name": "Never Fail II",
+      "url": "https://open.spotify.com/track/02FenZKBFWJiifJfla20AI"
+    },
+    {
+      "album": {
         "name": "Never Find",
         "url": "https://open.spotify.com/album/7F8fxwQCce2toBYI1NBPxK"
       },
@@ -6120,6 +6212,24 @@
       "duration_ms": 552855,
       "name": "Obinigwe",
       "url": "https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l"
+    },
+    {
+      "album": {
+        "name": "Odogwu Na'agha",
+        "url": "https://open.spotify.com/album/7pWsOyypgykAvu95ba3VPT"
+      },
+      "artists": [
+        {
+          "name": "Dare David",
+          "url": "https://open.spotify.com/artist/3iSjgaz8j7eDfSlsXqhx63"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337750,
+      "name": "Odogwu Na'agha",
+      "url": "https://open.spotify.com/track/2t7FMZ7kKOHzQfSyC8IOOF"
     },
     {
       "album": {
@@ -7674,7 +7784,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 155861,
       "name": "Signs and wonders",
       "url": "https://open.spotify.com/track/71nW2fULmKRyQ9eZHPjOYF"
@@ -7700,7 +7810,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 171789,
       "name": "Sing To You",
       "url": "https://open.spotify.com/track/734dyETqWpYSfRL9bVIBzX"
@@ -7762,7 +7872,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 354000,
       "name": "SORO (speak)",
       "url": "https://open.spotify.com/track/5R7K57LirFdfq4cpQjaUft"
@@ -7872,7 +7982,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 144394,
       "name": "SURE",
       "url": "https://open.spotify.com/track/0Q9HxCnsukScN8HhStukkJ"
@@ -8096,7 +8206,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 166857,
       "name": "Testify II",
       "url": "https://open.spotify.com/track/4kJfQkTErpEtSN2eXIKyWK"
@@ -8306,7 +8416,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 187252,
       "name": "The One",
       "url": "https://open.spotify.com/track/6C9qgqcGTqTnzExLnuPuNA"

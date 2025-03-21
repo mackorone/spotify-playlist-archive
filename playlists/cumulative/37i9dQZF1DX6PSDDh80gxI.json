@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Giorgio Poi in cover della playlist con il meglio dell\u2019indie italiano \ud83d\udc68\ud83c\udd9a\ud83e\udeb0",
+  "description": "Eugenio In Via Di Gioia in cover della playlist con il meglio dell\u2019indie italiano (che ha una nuova grafica \ud83d\udc40)",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -696,7 +696,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 245500,
       "name": "Cielo",
       "url": "https://open.spotify.com/track/3HQVk0f6cZMChC82l3N66a"
@@ -858,7 +858,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 180997,
       "name": "Cosa Faremo Da Grandi?",
       "url": "https://open.spotify.com/track/1fi6WJYdiFQ7gEtAtJ8NH6"
@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 246474,
       "name": "FEMINA",
       "url": "https://open.spotify.com/track/0m6VCpJTxoKjI8zh8G54HM"
@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 174905,
       "name": "Il contrario",
       "url": "https://open.spotify.com/track/2E8ai3RmWiD32U1PsraeUh"
@@ -1795,6 +1795,24 @@
     },
     {
       "album": {
+        "name": "L'arte di lasciar andare",
+        "url": "https://open.spotify.com/album/5sgNyYP8tGgxj9fGxu2Ltz"
+      },
+      "artists": [
+        {
+          "name": "Baustelle",
+          "url": "https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171080,
+      "name": "L'arte di lasciar andare",
+      "url": "https://open.spotify.com/track/0TJs01NwMWXasp1DXVTdX9"
+    },
+    {
+      "album": {
         "name": "L'ora d'oro",
         "url": "https://open.spotify.com/album/6KhKamfqBsK662zfYp9HBD"
       },
@@ -1810,6 +1828,24 @@
       "duration_ms": 222340,
       "name": "L'ora d'oro",
       "url": "https://open.spotify.com/track/2d7LHPh539ESLLu8lgcxV2"
+    },
+    {
+      "album": {
+        "name": "L'amore \u00e8 tutto",
+        "url": "https://open.spotify.com/album/12mBclPfH5Ey85eS5oKm2B"
+      },
+      "artists": [
+        {
+          "name": "Eugenio In Via Di Gioia",
+          "url": "https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154374,
+      "name": "L'ultima canzone",
+      "url": "https://open.spotify.com/track/51wk2kBRxfiYIskpqYxk0N"
     },
     {
       "album": {
@@ -1918,7 +1954,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 198196,
       "name": "La Nostra Malinconia",
       "url": "https://open.spotify.com/track/4JuTT1xL3ITsQfX9unDXSD"
@@ -2428,7 +2464,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 197703,
       "name": "MYROMANTICA",
       "url": "https://open.spotify.com/track/2mUaQR6ggH0W4C8OVHNkmy"
@@ -2826,7 +2862,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 195200,
       "name": "Passo dopo Passo",
       "url": "https://open.spotify.com/track/3yIrxJxHEAncmlhQz4RnWm"
@@ -3211,6 +3247,24 @@
     },
     {
       "album": {
+        "name": "QUANTO TI IMPORTA",
+        "url": "https://open.spotify.com/album/0a5ak6iSa3EmoYcPqlxBhY"
+      },
+      "artists": [
+        {
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187759,
+      "name": "QUANTO TI IMPORTA",
+      "url": "https://open.spotify.com/track/4Ot6ndhBUMfsgeJoawYxWX"
+    },
+    {
+      "album": {
         "name": "Quasi A Casa (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5"
       },
@@ -3262,10 +3316,32 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 139175,
       "name": "Riconoscimi",
       "url": "https://open.spotify.com/track/04RpjFlIhKO73O27kuXOxm"
+    },
+    {
+      "album": {
+        "name": "Un Posto Migliore",
+        "url": "https://open.spotify.com/album/1KWEfb86yZsI282JE3C4Wy"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Toscano",
+          "url": "https://open.spotify.com/artist/1FNMcZG4mg6w5sfpTYQ2eM"
+        },
+        {
+          "name": "Assurdit\u00e8",
+          "url": "https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169518,
+      "name": "Riunione di condominio (feat. Assurdit\u00e8)",
+      "url": "https://open.spotify.com/track/5EnzQ4P5HeIyJDG0p9SHEV"
     },
     {
       "album": {
@@ -3400,7 +3476,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 222053,
       "name": "Segreto",
       "url": "https://open.spotify.com/track/7gDSpUqCLBMigIY5kEVcQI"
@@ -3501,6 +3577,42 @@
     },
     {
       "album": {
+        "name": "Volevo essere un duro",
+        "url": "https://open.spotify.com/album/4ezcDzdWP6orRlN3ft2eCs"
+      },
+      "artists": [
+        {
+          "name": "Lucio Corsi",
+          "url": "https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179600,
+      "name": "Sigarette",
+      "url": "https://open.spotify.com/track/6rnQ5HHy4OrjSsM0xlEI4u"
+    },
+    {
+      "album": {
+        "name": "Volevo essere un duro",
+        "url": "https://open.spotify.com/album/4ezcDzdWP6orRlN3ft2eCs"
+      },
+      "artists": [
+        {
+          "name": "Lucio Corsi",
+          "url": "https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205413,
+      "name": "Situazione complicata",
+      "url": "https://open.spotify.com/track/2f3TSWcQlu8sRr5ymkVRFl"
+    },
+    {
+      "album": {
         "name": "soli soli",
         "url": "https://open.spotify.com/album/0Ki0cUpTBIoipeFO26lJKu"
       },
@@ -3534,6 +3646,24 @@
       "duration_ms": 188106,
       "name": "Sottobraccio",
       "url": "https://open.spotify.com/track/1VQKJQjZNPCYJE5EoAzVil"
+    },
+    {
+      "album": {
+        "name": "SPA CABARET",
+        "url": "https://open.spotify.com/album/1aw7rRwfDqyKGHcGcsOrXQ"
+      },
+      "artists": [
+        {
+          "name": "bnkr44",
+          "url": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211866,
+      "name": "SPA CABARET",
+      "url": "https://open.spotify.com/track/4VNVRdDCmLMbduC0V5GKeU"
     },
     {
       "album": {
@@ -3838,6 +3968,24 @@
       "duration_ms": 188151,
       "name": "Tu sei il mattino",
       "url": "https://open.spotify.com/track/1j58NLQYaQsLW1eYppRI02"
+    },
+    {
+      "album": {
+        "name": "Turno di Notte",
+        "url": "https://open.spotify.com/album/4iy66dqp5QPulz5LkjI6ln"
+      },
+      "artists": [
+        {
+          "name": "Gio Evan",
+          "url": "https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185986,
+      "name": "Turno di Notte",
+      "url": "https://open.spotify.com/track/3DP5kllx4AsaOYHt6ftu8U"
     },
     {
       "album": {

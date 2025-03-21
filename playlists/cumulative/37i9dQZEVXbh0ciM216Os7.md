@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,280 songs - 6 day 1 hr 5 min
+2,281 songs - 6 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1467,7 +1467,8 @@
 | [Overdrive](https://open.spotify.com/track/32b81nMpV15pUrknaKjzPl) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Overdrive](https://open.spotify.com/album/1Cco6Y9V8nfarVPMRUalX2) | 3:38 | 2024-07-12 | 2024-07-19 |
 | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/1OBYxViWFgN1x9s8fkl1FB) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [SVO](https://open.spotify.com/album/3mFe97BWusyjTlu8J2jhLA) | 2:53 | 2024-04-26 | 2024-05-04 |
 | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue) | 2:53 | 2024-04-12 | 2024-04-19 |
-| [OXYGENE \(from "ASH" Soundtrack\)](https://open.spotify.com/track/3HI6iFB3mBxqvsrcgXQhBl) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [OXYGENE \(from "ASH" Soundtrack\)](https://open.spotify.com/album/08EGCVDnFaO6RXMIpBMCKV) | 1:33 | 2025-03-14 |  |
+| [OXYGENE](https://open.spotify.com/track/29mj1DYGjcsc5NH6Tj8jaZ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [ASH \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3wVfDh6A4MEY4WX0dUDT9l) | 1:33 | 2025-03-14 |  |
+| [OXYGENE \(from "ASH" Soundtrack\)](https://open.spotify.com/track/3HI6iFB3mBxqvsrcgXQhBl) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [OXYGENE \(from "ASH" Soundtrack\)](https://open.spotify.com/album/08EGCVDnFaO6RXMIpBMCKV) | 1:33 | 2025-03-14 | 2025-03-21 |
 | [OÙ VA LA VIE \- Live](https://open.spotify.com/track/282YkdNNEu3bbp8tQfr5ig) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [IAM](https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7) | [PARIS IN LOVE \(Live\)](https://open.spotify.com/album/2vm5G9XsPLmp946fCO2AbZ) | 3:52 | 2024-07-26 | 2024-08-01 |
 | [P.H.O.N.C](https://open.spotify.com/track/5iHmsTWDE0giImCe85B8Bw) | [Metacaum](https://open.spotify.com/artist/2B0a78X6BEsBiBX9ly1GFm), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn), [Jason Greenhart](https://open.spotify.com/artist/0iLyV4LIHbZMNmuXP6kCKG), [ONIONZ BEATZ](https://open.spotify.com/artist/5skjLaINJfBnJESjMLuQwM) | [P.H.O.N.C](https://open.spotify.com/album/786QKYKy8ISr3YOmrffEah) | 3:12 | 2023-11-03 | 2023-11-14 |
 | [P.O.W.](https://open.spotify.com/track/03BHehJeTFvjkIHBx5tks8) | [Tech N9ne Collabos](https://open.spotify.com/artist/4UOlRVifrFdQHW9qu5ep8t), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Marley Young](https://open.spotify.com/artist/3w6NsYwesEyDyr8Ep0yvIr) | [P.O.W.](https://open.spotify.com/album/5sEjbG4vWNOgdMd1Gb9nmr) | 3:30 | 2024-04-05 | 2024-04-13 |

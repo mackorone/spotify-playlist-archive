@@ -4,7 +4,7 @@
 
 > New music by the heaviest independent artists every Wednesday\. Cover: LUNA KILLS \| Artwork: Nejc Prah
 
-238 songs - 14 hr 0 min
+239 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Feel The Pain](https://open.spotify.com/track/4g4BBy0kMhfTPTcObjQwk8) | [Descape](https://open.spotify.com/artist/0GPUoZDMUtkkzPyW4OFWk2), [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [Feel The Pain](https://open.spotify.com/album/3nmvPgAjP3aDpVlM95OJc6) | 3:33 | 2024-08-14 | 2024-11-14 |
 | [Forget It](https://open.spotify.com/track/1hNgjucoAolEIp6uSantcp) | [Stray View](https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu) | [Forget It](https://open.spotify.com/album/1FKP9SXb95FsJ6AplRcWC8) | 3:46 | 2024-10-02 | 2024-12-05 |
 | [FREEDOM](https://open.spotify.com/track/6zPwQlCf9LSihjJRNU4Xpm) | [Regional Justice Center](https://open.spotify.com/artist/2jsi0W3bFzL0ITqKU4gVE2) | [FREEDOM](https://open.spotify.com/album/1sSrTdfpu8BUmnKSH56T7d) | 1:11 | 2024-08-14 | 2024-08-28 |
+| [Fresh Blood, Fresh Pussy](https://open.spotify.com/track/4NSMvwVeZBMZ5MfErlKQ2p) | [Witch Club Satan](https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy) | [Witch Club Satan](https://open.spotify.com/album/0c0hlchA9Q66PcL7xlPPfp) | 3:35 | 2025-03-20 |  |
 | [FUHAI](https://open.spotify.com/track/2i3N4t7Ke0ZGfckg5EieqL) | [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh), [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [FUHAI](https://open.spotify.com/album/1UQu0DlDXdyD5odtAQPx3g) | 3:13 | 2024-10-16 | 2025-02-06 |
 | [Glass Cathedral](https://open.spotify.com/track/6upsDWIXjJE1X6oJxv3NSs) | [Apate](https://open.spotify.com/artist/5R4yFMEotYRffAVk4ARMEZ) | [Glass Cathedral](https://open.spotify.com/album/2yPbSRQYx73krm0GWIsLZz) | 3:54 | 2024-08-14 | 2025-02-20 |
 | [Glitch](https://open.spotify.com/track/7LZ7Fzmc02039E9itPqfaf) | [Freeze the Fall](https://open.spotify.com/artist/20OWAFiCJOvXwWlCBU5xHc) | [THRONES](https://open.spotify.com/album/0O2jcabE5yJwxaTm82rOFK) | 3:20 | 2024-08-07 | 2024-12-05 |

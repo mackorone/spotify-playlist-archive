@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the Middle East and North Africa\. Cover: Francis Mercier
 
-251 songs - 16 hr 43 min
+252 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Alf Leila We Leila](https://open.spotify.com/track/4sMOCYlI7Un6lXvStxQHmk) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Alf Leila We Leila](https://open.spotify.com/album/7fd3zydNBZ8GdVwNCGm3jS) | 2:49 | 2024-05-17 | 2024-05-23 |
 | [Alf Leila We Leila Remix](https://open.spotify.com/track/01rqnaEjqaP6luRtxdcaz9) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi) | [Alf Leila We Leila Remix](https://open.spotify.com/album/2FhrWtDmN4u5dLJrrK34mJ) | 3:14 | 2022-10-14 | 2023-02-02 |
 | [All Night Long](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [All Night Long](https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7) | 2:58 | 2024-01-26 |  |
-| [Allo Allo](https://open.spotify.com/track/6rCxFxvSwrUSy5QYMVA2sy) | [Mossel](https://open.spotify.com/artist/3x0UnX2VaSIKz6iOdF526o) | [Allo Allo](https://open.spotify.com/album/4sburaTq1o99krSVbsgrFZ) | 5:22 | 2025-02-10 |  |
+| [Allo \- Afro House Version](https://open.spotify.com/track/2Bp077w8B83yrFIrHjUnst) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [JimmX](https://open.spotify.com/artist/4X71KCLaNqDa0dT5iAQhe1) | [Allo \(Afro House Version\)](https://open.spotify.com/album/6SiQF7kW5ErMrLP5DQrDBg) | 2:59 | 2025-03-20 |  |
+| [Allo Allo](https://open.spotify.com/track/6rCxFxvSwrUSy5QYMVA2sy) | [Mossel](https://open.spotify.com/artist/3x0UnX2VaSIKz6iOdF526o) | [Allo Allo](https://open.spotify.com/album/4sburaTq1o99krSVbsgrFZ) | 5:22 | 2025-02-10 | 2025-03-21 |
 | [Amana](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Amana](https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN) | 5:38 | 2024-04-21 |  |
 | [Amathole](https://open.spotify.com/track/6p3YWWfPWB9LlB9zLNHNh2) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Amathole](https://open.spotify.com/album/6rCjjn8ZAWEgWFFGZLMQIp) | 8:07 | 2024-04-01 | 2024-04-19 |
 | [Amathole](https://open.spotify.com/track/6wZ6TRdwuvLhKQF5gEyHwx) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Amathole](https://open.spotify.com/album/723AK0TOT5jy1foQuDpuPx) | 8:07 | 2024-03-03 |  |

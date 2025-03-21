@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico! Alberto V\u00e1zquez en portada.",
-  "num_followers": 166399,
+  "num_followers": 166444,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -537,22 +537,6 @@
       "url": "https://open.spotify.com/track/10NGZL2P7ZJ7C3vwUlyqOG"
     },
     {
-      "added_at": "2024-07-12 13:46:41",
-      "album": {
-        "name": "100% Mexican Groovy: Batalla Estelar",
-        "url": "https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr"
-      },
-      "artists": [
-        {
-          "name": "El Piporro",
-          "url": "https://open.spotify.com/artist/2RDCFdmJvNbGQBILkTvF5q"
-        }
-      ],
-      "duration_ms": 145789,
-      "name": "El Abuelo Ye Ye",
-      "url": "https://open.spotify.com/track/6uogSCjGO28KgyFQ4pKMOY"
-    },
-    {
       "added_at": "2020-03-18 04:18:26",
       "album": {
         "name": "Go-Go en Rojo",
@@ -567,6 +551,22 @@
       "duration_ms": 142946,
       "name": "La Ni\u00f1a Bu (Ring Dang Doo)",
       "url": "https://open.spotify.com/track/2ctgZALPuTO2TkF5BVm0vS"
+    },
+    {
+      "added_at": "2024-07-12 13:46:41",
+      "album": {
+        "name": "100% Mexican Groovy: Batalla Estelar",
+        "url": "https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr"
+      },
+      "artists": [
+        {
+          "name": "El Piporro",
+          "url": "https://open.spotify.com/artist/2RDCFdmJvNbGQBILkTvF5q"
+        }
+      ],
+      "duration_ms": 145789,
+      "name": "El Abuelo Ye Ye",
+      "url": "https://open.spotify.com/track/6uogSCjGO28KgyFQ4pKMOY"
     },
     {
       "added_at": "2020-03-18 04:18:26",

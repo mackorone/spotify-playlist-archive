@@ -2,7 +2,7 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Lauana Prado, Simone Mendes
+> O melhor do sertanejo em uma só playlist! Foto: Diego & Victor Hugo
 
 300 songs - 14 hr 5 min
 

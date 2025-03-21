@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 538 songs - 1 day 11 hr 40 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 541 songs - 1 day 11 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -546,5 +546,8 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 536 | [Erica Western Teleport](https://open.spotify.com/track/5zliHc6Y8g8fy23ecBaods) | [Emperor X](https://open.spotify.com/artist/7taxbHlqWyBiQEc38vNT9z) | [Western Teleport](https://open.spotify.com/album/0zN3afLG7nPnIC8qSGVpp9) | 3:33 |
 | 537 | [Grog](https://open.spotify.com/track/2MgrfiUgqkS4s6l5Cem0SY) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [GROG](https://open.spotify.com/album/1TEMvDFgL8AGNszROlwxOE) | 0:21 |
 | 538 | [Hunchback](https://open.spotify.com/track/0VHwZQkuVS8JFKMGL3HURj) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Childish Prodigy](https://open.spotify.com/album/3TmWAswHIm0Vb08qymeagU) | 4:49 |
+| 539 | [Little League \- 2025 Remaster](https://open.spotify.com/track/0ymqCxnSgtU43ZnTKzsKjF) | [Cap'n Jazz](https://open.spotify.com/artist/3JhEcBWSCPXkRMt1VK14i4) | [Shmap'n Shmazz \(2025 Remaster\)](https://open.spotify.com/album/59m7KmDZeSuseIc4y60HMU) | 3:58 |
+| 540 | [Drover](https://open.spotify.com/track/0FprsPFNEr74lZRbH49MMK) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Apocalypse](https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP) | 5:24 |
+| 541 | [First Bird](https://open.spotify.com/track/0rrvQksEI37Bz52heCXx7J) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [YTI⅃AƎЯ](https://open.spotify.com/album/3bclTvGr69frcDsVw2VJVO) | 5:01 |
 
-Snapshot ID: `AAAG+nMsaQbO3mJgkbzTGGehhv9DpG9/`
+Snapshot ID: `AAAG/20/DDoLpp6UmTJMY3mh9+dPfrZe`

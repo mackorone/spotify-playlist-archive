@@ -37250,7 +37250,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 131165,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/4tRa3UrTEfuiwpTdsRSqDP"
@@ -47208,7 +47208,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 150361,
       "name": "Getting Higher",
       "url": "https://open.spotify.com/track/4sS1G2SEX7SL8Uu0A1facA"
@@ -68748,7 +68748,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-18",
+      "date_removed": null,
       "duration_ms": 125787,
       "name": "Light Breeze",
       "url": "https://open.spotify.com/track/0NhTjpZsDm7vVPXzszd9B2"
@@ -111271,6 +111271,24 @@
     },
     {
       "album": {
+        "name": "Social Skills",
+        "url": "https://open.spotify.com/album/32kd8MaIhciaCFYiPB3tVZ"
+      },
+      "artists": [
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118620,
+      "name": "Social Skills",
+      "url": "https://open.spotify.com/track/0g9CgVUZfPpwbTJOB3FgGF"
+    },
+    {
+      "album": {
         "name": "Sofa",
         "url": "https://open.spotify.com/album/3hff0UB414rNoCq8Fq1bpx"
       },
@@ -117954,7 +117972,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 125875,
       "name": "sunbed",
       "url": "https://open.spotify.com/track/2pGDKCGHfj4b4UPOaRtMcq"
@@ -123930,7 +123948,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 157798,
       "name": "The North",
       "url": "https://open.spotify.com/track/6UqG5x0NXvwJblinn1EYDv"

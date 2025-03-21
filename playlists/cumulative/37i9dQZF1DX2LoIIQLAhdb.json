@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Merveille",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Tayc x Dadju",
   "name": "R&Bae",
   "tracks": [
     {
@@ -1795,6 +1795,28 @@
     },
     {
       "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/23OL4rzCOj5MFPC4BNVhgz"
+      },
+      "artists": [
+        {
+          "name": "IPNDEGO",
+          "url": "https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj"
+        },
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150824,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/4Dh4g0Q7JN1fpvUnLltGRd"
+    },
+    {
+      "album": {
         "name": "Dangereuse",
         "url": "https://open.spotify.com/album/2jUb2ndTkptvv6VbhgQRTC"
       },
@@ -3326,7 +3348,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 256771,
       "name": "Introspection",
       "url": "https://open.spotify.com/track/1yeJ6DlxBQrDeqPNdqge8N"
@@ -4927,6 +4949,28 @@
     },
     {
       "album": {
+        "name": "Meu Amor",
+        "url": "https://open.spotify.com/album/3GWU3iJPL0Vf8cHe8wVufP"
+      },
+      "artists": [
+        {
+          "name": "Celyane",
+          "url": "https://open.spotify.com/artist/4YLotLzWdKNAgAsqNmq2WP"
+        },
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205754,
+      "name": "Meu Amor",
+      "url": "https://open.spotify.com/track/41KOH6rcHrpsDqskZrXQKc"
+    },
+    {
+      "album": {
         "name": "PERLE NOIRE",
         "url": "https://open.spotify.com/album/1y1BsdMYyrV1uEJBG4TQ6h"
       },
@@ -5660,7 +5704,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 145453,
       "name": "Paquet (feat. Leila AD)",
       "url": "https://open.spotify.com/track/5zruGz0gblq9GkXC05MwES"
@@ -6142,7 +6186,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 127062,
       "name": "Poup\u00e9e",
       "url": "https://open.spotify.com/track/3p4Vk8jAcSLgA6LauVYbTW"
@@ -7002,6 +7046,24 @@
       "duration_ms": 178333,
       "name": "SANS TOI",
       "url": "https://open.spotify.com/track/4IeoMdrZbqqGuTZJTvT2OI"
+    },
+    {
+      "album": {
+        "name": "Sc\u00e9nario",
+        "url": "https://open.spotify.com/album/5a36s8StDDx3L1MITLlNqX"
+      },
+      "artists": [
+        {
+          "name": "Ophi",
+          "url": "https://open.spotify.com/artist/5s16Xc4BNte6wSYcjBekbn"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187723,
+      "name": "Sc\u00e9nario",
+      "url": "https://open.spotify.com/track/0dDak7CneLpm8WeywAt9mT"
     },
     {
       "album": {

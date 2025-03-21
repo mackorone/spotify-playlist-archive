@@ -1,6 +1,6 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 239068,
+  "num_followers": 239106,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
@@ -635,26 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buen Pez",
-        "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
+        "name": "De Brujas y Otros H\u00e1bitos",
+        "url": "https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd"
       },
       "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
-        {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        },
         {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         }
       ],
-      "duration_ms": 256799,
-      "name": "Naranja a Morado",
-      "url": "https://open.spotify.com/track/3CcUQabK3Vn0RUjZI7lfPz"
+      "duration_ms": 154000,
+      "name": "Alejandria / \"Ella Es Nost\u00e1lgica\"",
+      "url": "https://open.spotify.com/track/3bQ1dv2HzXWuniEYsyEE5x"
     },
     {
       "added_at": null,
@@ -679,18 +671,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Brujas y Otros H\u00e1bitos",
-        "url": "https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd"
+        "name": "Buen Pez",
+        "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
       },
       "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        },
         {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Alejandria / \"Ella Es Nost\u00e1lgica\"",
-      "url": "https://open.spotify.com/track/3bQ1dv2HzXWuniEYsyEE5x"
+      "duration_ms": 256799,
+      "name": "Naranja a Morado",
+      "url": "https://open.spotify.com/track/3CcUQabK3Vn0RUjZI7lfPz"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Circe / \u201cOjos Tristes\u201d",
-        "url": "https://open.spotify.com/album/5J3vnuRHFpiA69ogWUksI5"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Circe / \u201cOjos Tristes\u201d",
-      "url": "https://open.spotify.com/track/2rFslJ6eaIEgxLyUXDmimi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ynlpa",
         "url": "https://open.spotify.com/album/4KYzvBfBPMo6RvhMCQjBp9"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 183472,
       "name": "Ynlpa",
       "url": "https://open.spotify.com/track/1Md3x0pKPQ7OEhmQWB6fLf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Circe / \u201cOjos Tristes\u201d",
+        "url": "https://open.spotify.com/album/5J3vnuRHFpiA69ogWUksI5"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Circe / \u201cOjos Tristes\u201d",
+      "url": "https://open.spotify.com/track/2rFslJ6eaIEgxLyUXDmimi"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Abigail Chams",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: G Nako",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -2236,6 +2236,32 @@
       "duration_ms": 161512,
       "name": "Glemmer Du",
       "url": "https://open.spotify.com/track/4v7us7ZqVnsIWIwuaXbV8u"
+    },
+    {
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/64PZGw0BVsvm8vflfar9Gr"
+      },
+      "artists": [
+        {
+          "name": "G Nako",
+          "url": "https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC"
+        },
+        {
+          "name": "Darassa",
+          "url": "https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a"
+        },
+        {
+          "name": "Billnass",
+          "url": "https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177599,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/4RuMpok66IGRwuf46PX5xo"
     },
     {
       "album": {
@@ -8554,7 +8580,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 237203,
       "name": "Smarta With Data",
       "url": "https://open.spotify.com/track/7l3WsQd4D26YgKT4NadSaq"

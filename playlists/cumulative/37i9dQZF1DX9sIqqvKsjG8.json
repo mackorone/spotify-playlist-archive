@@ -3357,6 +3357,24 @@
     },
     {
       "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/6BYs44BM5V0a4neWaQ5u1l"
+      },
+      "artists": [
+        {
+          "name": "Ambrosiae",
+          "url": "https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157347,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/2qmKMYVvHxOQqW0GbMr5VR"
+    },
+    {
+      "album": {
         "name": "Del Mar",
         "url": "https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ"
       },

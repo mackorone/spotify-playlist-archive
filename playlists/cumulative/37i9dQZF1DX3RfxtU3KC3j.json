@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gitar ve davulu konu\u015fturanlar. \ud83c\udfb8 Kapak: Yedinci Ev",
+  "description": "Gitar ve davulu konu\u015fturanlar. \ud83c\udfb8 Kapak: Can Baydar x Teoman",
   "name": "T\u00fcrk\u00e7e Rock",
   "tracks": [
     {
@@ -258,7 +258,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 214155,
       "name": "A\u015eK",
       "url": "https://open.spotify.com/track/3mH7s0GWf8dBoaE1BWp652"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 287226,
       "name": "B.",
       "url": "https://open.spotify.com/track/64P8LehzuNRGQ5JhswIHNW"
@@ -799,6 +799,24 @@
     },
     {
       "album": {
+        "name": "Bize Ne?",
+        "url": "https://open.spotify.com/album/4TPqPuEFLDrYM0UlzGo8lb"
+      },
+      "artists": [
+        {
+          "name": "Batu Akdeniz",
+          "url": "https://open.spotify.com/artist/7lwjjMPB0a7AfbkwcDipfO"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189013,
+      "name": "Bize Ne?",
+      "url": "https://open.spotify.com/track/4yNjMK5poCcC1U9c7MXk4M"
+    },
+    {
+      "album": {
         "name": "Bu Son",
         "url": "https://open.spotify.com/album/62l21Tz6BW9wolZ2ehy8kD"
       },
@@ -904,7 +922,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 87403,
       "name": "CADDEBOKTAN",
       "url": "https://open.spotify.com/track/1O1UMcH0FK34WTBjjLxraI"
@@ -3093,6 +3111,24 @@
     },
     {
       "album": {
+        "name": "Yorgun Y\u0131lk\u0131 Atlar\u0131",
+        "url": "https://open.spotify.com/album/1Z9K9g3nFqgOhecVnEmbQt"
+      },
+      "artists": [
+        {
+          "name": "Teoman",
+          "url": "https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213384,
+      "name": "R\u00fczgar G\u00fcl\u00fc",
+      "url": "https://open.spotify.com/track/2Sfb7dUAl6I6qwZsNuhjty"
+    },
+    {
+      "album": {
         "name": "Sahne Hayvanlar\u0131",
         "url": "https://open.spotify.com/album/5Mt7GAgGtAz75OABth7KIa"
       },
@@ -3310,6 +3346,28 @@
       "duration_ms": 248160,
       "name": "Seni Yenicem Hayat",
       "url": "https://open.spotify.com/track/1nWdqC8cX8FAc2jNTmALKY"
+    },
+    {
+      "album": {
+        "name": "Senin Y\u00fcz\u00fcnden",
+        "url": "https://open.spotify.com/album/5y375cJQNBVkAbrSigW9Sg"
+      },
+      "artists": [
+        {
+          "name": "Can Baydar",
+          "url": "https://open.spotify.com/artist/1TKAV7Rj6ElufFElp7zLRv"
+        },
+        {
+          "name": "Teoman",
+          "url": "https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186946,
+      "name": "Senin Y\u00fcz\u00fcnden",
+      "url": "https://open.spotify.com/track/6uR2FFnUKpfx7VHwhdlLKS"
     },
     {
       "album": {

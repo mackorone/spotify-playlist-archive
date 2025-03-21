@@ -4,7 +4,7 @@
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:5M4V7RDb1KJHbuHLn1XEh0">Stunna Sandy</a>
 
-1,662 songs - 2 day 23 hr 46 min
+1,664 songs - 2 day 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1367,7 +1367,7 @@
 | [Starter Jacket](https://open.spotify.com/track/2R6z3v6Kvv4bUKacJFwLqf) | [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f), [Wakai](https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx) | [To a Dark Boy](https://open.spotify.com/album/7niitYX38HE0L1hpBl05Xx) | 2:21 | 2022-03-30 | 2022-04-29 |
 | [Stay In Touch](https://open.spotify.com/track/0T4OwKTXDcTNREzmKT4MrN) | [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7), [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [TMK](https://open.spotify.com/album/493f06EHTj5X9v1Xh0aVPN) | 2:46 | 2024-11-06 | 2024-12-05 |
 | [STAY SAFE](https://open.spotify.com/track/6zF0upolmiaThxNs8tnb6n) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [BlueBucksClan](https://open.spotify.com/artist/04gIf2ntjvCBuhkFrkeiqH), [Teaawhy](https://open.spotify.com/artist/7ikaWAiot7KxyQQx8LICbt), [Milly Mo](https://open.spotify.com/artist/1FbNRjYXMW1sZGjlxaOO9u), [Jasscole](https://open.spotify.com/artist/3cDwTYciDzlk8vf9HHHgS6), [BB](https://open.spotify.com/artist/28tk1PiLYWjkVr0fxlleKP), [Big I\-N\-D\-O](https://open.spotify.com/artist/06P96M68wB5ZW82bUJIt1T) | [STAY SAFE](https://open.spotify.com/album/44WpInS9We73GRHqTRRYWt) | 3:02 | 2024-06-19 |  |
-| [STAYUP](https://open.spotify.com/track/0Az7X8Uj6QADxju2UzyRFo) | [Malik Elijah](https://open.spotify.com/artist/1go10OxHP4fyGsyWfJcFEh) | [STAYUP](https://open.spotify.com/album/1y0gDtxPjeKLu8qwOlfS5D) | 3:01 | 2025-03-12 |  |
+| [STAYUP](https://open.spotify.com/track/0Az7X8Uj6QADxju2UzyRFo) | [Malik Elijah](https://open.spotify.com/artist/1go10OxHP4fyGsyWfJcFEh) | [STAYUP](https://open.spotify.com/album/1y0gDtxPjeKLu8qwOlfS5D) | 3:01 | 2025-03-12 | 2025-03-21 |
 | [Steezy](https://open.spotify.com/track/1DfWcuNN98dFB5m2oLdv0T) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Steezy](https://open.spotify.com/album/0yoIYo1go5qW9BJqQXDxZN) | 2:59 | 2022-09-28 | 2022-12-01 |
 | [STEP 2K25 \(with BabyChiefDoit\)](https://open.spotify.com/track/642qULKEwp9AJQ6YTxqrxj) | [Realbleeda](https://open.spotify.com/artist/0DNZpdaIrwHQAknPciWiU7), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [STEP 2K25 \(with BabyChiefDoit\)](https://open.spotify.com/album/7chICcUeSMoJ2RKvdqFI2Y) | 2:36 | 2025-03-05 |  |
 | [Stickz & Stonez](https://open.spotify.com/track/4fptYpDyXXNUPtwZ4u8r0R) | [Malcolm Mays](https://open.spotify.com/artist/1svyqzg4SYrPTGqPnpZf9y) | [Stickz & Stonez](https://open.spotify.com/album/2nDXO7UlMcjO51jAlyisu8) | 2:26 | 2023-05-24 | 2024-01-25 |
@@ -1454,7 +1454,7 @@
 | [THERAPY](https://open.spotify.com/track/0LbxKVuswds6Vj63WgEkcB) | [C17](https://open.spotify.com/artist/6nNQqbZ4XlwiSoBJFiIESc), [Pryce](https://open.spotify.com/artist/2yRiZpa8GikFrAO82fTHp9) | [Seventeen](https://open.spotify.com/album/7v5d7ghQa4ZUMe34RFjvuF) | 2:21 | 2023-03-22 | 2023-05-18 |
 | [Therapy](https://open.spotify.com/track/2BbGj7yCa7qks7coH0YhCY) | [Yvng Ev](https://open.spotify.com/artist/2fm64bFy2cks8y7SEMyTXN) | [Therapy](https://open.spotify.com/album/76u3zQBY2oivqY5PYVCoPS) | 2:08 | 2022-02-23 | 2022-03-24 |
 | [there is nothing left to lose](https://open.spotify.com/track/4npXv8J15fkc0oAsgIBLWG) | [Ramzoid](https://open.spotify.com/artist/2Ci3Sflo2BfC77wTwn2hbH) | [there is nothing left to lose](https://open.spotify.com/album/0kiaEHU0dJWkuG1iS8o5zn) | 2:49 | 2024-02-07 | 2024-03-14 |
-| [They Dont Luv Me](https://open.spotify.com/track/64WSd1Qff1RqmkOdVTsqt6) | [Yung Ro](https://open.spotify.com/artist/1mQWZPciU2mObkw2Fpgbxg) | [7 Days 7 Nights](https://open.spotify.com/album/4Pyw5zyPpUZyltv6oUDll1) | 2:31 | 2025-03-12 |  |
+| [They Dont Luv Me](https://open.spotify.com/track/64WSd1Qff1RqmkOdVTsqt6) | [Yung Ro](https://open.spotify.com/artist/1mQWZPciU2mObkw2Fpgbxg) | [7 Days 7 Nights](https://open.spotify.com/album/4Pyw5zyPpUZyltv6oUDll1) | 2:31 | 2025-03-12 | 2025-03-21 |
 | [This G Lock](https://open.spotify.com/track/60IqJqybJeAq8OFWzvEGJF) | [CFigures](https://open.spotify.com/artist/3hdpFyHGRsc9yN8p8wkQG7) | [This G Lock](https://open.spotify.com/album/1CisbYx2G1tMjpgulnQYAQ) | 3:01 | 2023-11-15 | 2023-11-30 |
 | [This Is New York](https://open.spotify.com/track/0LH1V0ZodNOfM7jnqyO9S5) | [Scar Lip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [This Is New York](https://open.spotify.com/album/1gsyQrEUfYBX6MV36wmoQM) | 2:13 | 2023-04-26 | 2023-06-22 |
 | [This Is New York](https://open.spotify.com/track/1sn4GarhOWPEWaFRBMtaSt) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [This Is New York](https://open.spotify.com/album/3eugYbmPxCM1oGbDTXXkMX) | 2:17 | 2023-11-29 | 2024-01-17 |
@@ -1574,6 +1574,8 @@
 | [Wassup Gwayy](https://open.spotify.com/track/5CQ0tp4ZdSrzj2ev9yieVV) | [FamousSally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [Wassup Gwayy](https://open.spotify.com/album/1RlJJaItCwvPI1qkIfsJax) | 2:24 | 2023-09-06 | 2023-09-28 |
 | [Waste My Time](https://open.spotify.com/track/2EAWI4rpdfx6xSESkBevGB) | [Kansh](https://open.spotify.com/artist/5NhfYdxgkSTb0OIStFPR1Z) | [Waste My Time](https://open.spotify.com/album/1o0BBYB1LKAj6IFpuoxEK3) | 2:58 | 2022-09-07 | 2022-10-20 |
 | [WASTE NO TIME](https://open.spotify.com/track/0jF9AZAaMv49jsy3InMUjQ) | [AJRadico](https://open.spotify.com/artist/6n7llPn2HLKS375ZyJQ2VR) | [WASTE NO TIME](https://open.spotify.com/album/6e5f6M6FQLhi8pSgxazQ1a) | 3:00 | 2022-09-02 | 2022-10-14 |
+| [Watch My Back](https://open.spotify.com/track/7dklyqtYZvgiKWsAtpkSYF) | [Yung Skooley](https://open.spotify.com/artist/5hfKHmE2Vo9XyLyIJZe3rl), [Zo Trapalot](https://open.spotify.com/artist/0zOFJko99w7x4NxEptB5cA) | [Watch My Back](https://open.spotify.com/album/6FJbKj4IzwoCN51pRrN76I) | 3:25 | 2025-03-20 |  |
+| [Watchin](https://open.spotify.com/track/0ZmQ3eNI0hVQz3YHwW15EM) | [Stunna Sandy](https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0) | [Watchin](https://open.spotify.com/album/6d2GGHd3NKBII5QS0hUCK5) | 1:59 | 2025-03-20 |  |
 | [Water](https://open.spotify.com/track/2oWwkZox6LKv7vQccsOlMv) | [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [UGH](https://open.spotify.com/album/3eFOkUfSZ4yUH9b8804KR1) | 1:53 | 2023-09-13 | 2023-11-30 |
 | [Water](https://open.spotify.com/track/3xBwgrDop99r4pRMNnwDz0) | [Tizzy Stackz](https://open.spotify.com/artist/3oBYsMKXO4E5j6j3hzFygR), [Lil Berete](https://open.spotify.com/artist/6FXCc0FAXCsG2WFR1plJjx) | [Water](https://open.spotify.com/album/7q8egUmkTzz2Nh2EtRP1n9) | 3:05 | 2022-03-30 | 2022-05-19 |
 | [Waterproof](https://open.spotify.com/track/6kAeWwIJtSpWawV2QBssAk) | [Steph G](https://open.spotify.com/artist/1AjUSwDb1g2P9RqiCHLVeY) | [Waterproof](https://open.spotify.com/album/1p2uKAYBHcfUEq0zaz0Rch) | 2:23 | 2024-08-07 | 2024-08-22 |

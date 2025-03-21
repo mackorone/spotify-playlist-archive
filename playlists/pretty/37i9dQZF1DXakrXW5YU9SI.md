@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Przywitaj wiosnę błogimi dźwiękami 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,694 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,733 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 52 | [SHELL \( OF A MAN \)](https://open.spotify.com/track/6dRl26fre0x2OcUCtObfmP) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SHELL \( OF A MAN \)](https://open.spotify.com/album/7LDJQ920ux5U1bOZvexKX3) | 3:39 |
 | 53 | [Ofelia \(M\. Pawlikowska\-Jasnorzewska\)](https://open.spotify.com/track/7sBP7vQcWySymKNWIj9rNp) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Nosowska](https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul) | [Ofelia \(M\. Pawlikowska\-Jasnorzewska\)](https://open.spotify.com/album/5HdAYwPyVW2wRYr76gL1m4) | 3:28 |
 | 54 | [Richardson \(feat\. Cassandra Jenkins\)](https://open.spotify.com/track/4Jrstw4tzEoFCE5hZMug96) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT), [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Richardson \(feat\. Cassandra Jenkins\)](https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp) | 3:44 |
-| 55 | [Idziesz](https://open.spotify.com/track/7kCzLV7fvduN4Ig5TINWJj) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Idziesz](https://open.spotify.com/album/0R2YrqhG7KKTpdjHqqsVL2) | 3:36 |
+| 55 | [Savior](https://open.spotify.com/track/5h1ZgjFl9o9Bc1UTlJ9V1l) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Savior](https://open.spotify.com/album/06D1vzjX7t7zLZJd9xIJ7g) | 3:36 |
 | 56 | [Cud](https://open.spotify.com/track/5hhMCMRnKXW8IaUgKt4TZd) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [12](https://open.spotify.com/album/2Ja2TJxq2gWvuIAacJ9wxz) | 3:06 |
-| 57 | [Nigdy Mi Nie Przejdzie](https://open.spotify.com/track/0ZlTcfREOWGOoATsXbWHIl) | [Magda Bereda](https://open.spotify.com/artist/6NaOhgiHgKdbBk1SUaAt9d), [Piotr Rubik](https://open.spotify.com/artist/5WueU5rl41UJePlysv2ZON) | [Arbuzowy Zachód Słońca](https://open.spotify.com/album/0ZnWoBUG8Mr0o81WkfE4PK) | 3:19 |
+| 57 | [Idziesz](https://open.spotify.com/track/7kCzLV7fvduN4Ig5TINWJj) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Idziesz](https://open.spotify.com/album/0R2YrqhG7KKTpdjHqqsVL2) | 3:36 |
 | 58 | [Stój](https://open.spotify.com/track/2gUWtzU7l87TY2ScTJyBzn) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Stój](https://open.spotify.com/album/5zdlebZzMuE3v4K1aDotFB) | 3:41 |
-| 59 | [Savior](https://open.spotify.com/track/5h1ZgjFl9o9Bc1UTlJ9V1l) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Savior](https://open.spotify.com/album/06D1vzjX7t7zLZJd9xIJ7g) | 3:36 |
+| 59 | [Nigdy Mi Nie Przejdzie](https://open.spotify.com/track/0ZlTcfREOWGOoATsXbWHIl) | [Magda Bereda](https://open.spotify.com/artist/6NaOhgiHgKdbBk1SUaAt9d), [Piotr Rubik](https://open.spotify.com/artist/5WueU5rl41UJePlysv2ZON) | [Arbuzowy Zachód Słońca](https://open.spotify.com/album/0ZnWoBUG8Mr0o81WkfE4PK) | 3:19 |
 | 60 | [⁠Godspeed](https://open.spotify.com/track/33u4P7aW3p8l6M14QvoJvo) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [3rd Rocket 666](https://open.spotify.com/album/04GxVH15zJEDngF4Qf5Wvs) | 4:01 |
 
 Snapshot ID: `Z9PrHQAAAADjFpX7ktRzlpRQonWcgNRN`

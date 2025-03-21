@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
-  "num_followers": 49901,
+  "num_followers": 49919,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "Trafalgar",
-        "url": "https://open.spotify.com/album/2WjJE58CMkwX9OCdNW9S6T"
-      },
-      "artists": [
-        {
-          "name": "Archim\u00e8de",
-          "url": "https://open.spotify.com/artist/3DVs1DqfMYft7Nl1tcX7rP"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "Le bonheur",
-      "url": "https://open.spotify.com/track/1WsPkcmKon4hQypbdtYiTo"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
         "name": "Singles Collection (2001 - 2021)",
         "url": "https://open.spotify.com/album/73W988ag6ew4iiNTbgMU0C"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 208986,
       "name": "Alice & June - Mix 2020",
       "url": "https://open.spotify.com/track/7taoYAfDTtuI5dxSBeijUO"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
+        "name": "Trafalgar",
+        "url": "https://open.spotify.com/album/2WjJE58CMkwX9OCdNW9S6T"
+      },
+      "artists": [
+        {
+          "name": "Archim\u00e8de",
+          "url": "https://open.spotify.com/artist/3DVs1DqfMYft7Nl1tcX7rP"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "Le bonheur",
+      "url": "https://open.spotify.com/track/1WsPkcmKon4hQypbdtYiTo"
     }
   ],
   "unique_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",

@@ -6,7 +6,7 @@
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAK7B6inaDY3eHgYGy7Zh8dEfcuEmVv",
+  "snapshot_id": "AAAK8W/69UNa8AqcY90JkOhWUXsqiFRD",
   "tracks": [
     {
       "added_at": "2025-03-14 17:31:39",
@@ -27,6 +27,22 @@
     {
       "added_at": "2025-03-14 17:31:39",
       "album": {
+        "name": "Where to Start",
+        "url": "https://open.spotify.com/album/1nS5RxqCeB08iFpGUFBx1T"
+      },
+      "artists": [
+        {
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+        }
+      ],
+      "duration_ms": 170397,
+      "name": "Til I Don't",
+      "url": "https://open.spotify.com/track/259Ud8jgPARaKWPhqvJ6OD"
+    },
+    {
+      "added_at": "2025-03-14 17:31:39",
+      "album": {
         "name": "Making Good Time",
         "url": "https://open.spotify.com/album/5JXMh1FdutuSfyPtfdJxMQ"
       },
@@ -43,6 +59,38 @@
     {
       "added_at": "2025-03-14 17:31:39",
       "album": {
+        "name": "Slow Go the Days",
+        "url": "https://open.spotify.com/album/1skob64NEfrU5UlgdCV6eg"
+      },
+      "artists": [
+        {
+          "name": "Tim & The Glory Boys",
+          "url": "https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX"
+        }
+      ],
+      "duration_ms": 201415,
+      "name": "Slow Go the Days",
+      "url": "https://open.spotify.com/track/4jHjgKSjQ9X2u1AMgaYRip"
+    },
+    {
+      "added_at": "2025-03-14 17:31:39",
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 265493,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
+    },
+    {
+      "added_at": "2025-03-14 17:31:39",
+      "album": {
         "name": "PATTERNS (DELUXE)",
         "url": "https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn"
       },
@@ -55,22 +103,6 @@
       "duration_ms": 148826,
       "name": "Future Tripping",
       "url": "https://open.spotify.com/track/4w4BEXFhuQM5VcoycPe1zD"
-    },
-    {
-      "added_at": "2025-03-14 17:31:39",
-      "album": {
-        "name": "Where to Start",
-        "url": "https://open.spotify.com/album/1nS5RxqCeB08iFpGUFBx1T"
-      },
-      "artists": [
-        {
-          "name": "Sacha",
-          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
-        }
-      ],
-      "duration_ms": 170397,
-      "name": "Til I Don't",
-      "url": "https://open.spotify.com/track/259Ud8jgPARaKWPhqvJ6OD"
     },
     {
       "added_at": "2025-03-14 17:31:39",
@@ -123,38 +155,6 @@
       "duration_ms": 264800,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/0Gz45mObitRRxd5EtFkHuh"
-    },
-    {
-      "added_at": "2025-03-14 17:31:39",
-      "album": {
-        "name": "Slow Go the Days",
-        "url": "https://open.spotify.com/album/1skob64NEfrU5UlgdCV6eg"
-      },
-      "artists": [
-        {
-          "name": "Tim & The Glory Boys",
-          "url": "https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX"
-        }
-      ],
-      "duration_ms": 201415,
-      "name": "Slow Go the Days",
-      "url": "https://open.spotify.com/track/4jHjgKSjQ9X2u1AMgaYRip"
-    },
-    {
-      "added_at": "2025-03-14 17:31:39",
-      "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 265493,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
       "added_at": "2025-03-14 17:31:39",

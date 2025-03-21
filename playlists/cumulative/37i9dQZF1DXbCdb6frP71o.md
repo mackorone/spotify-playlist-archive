@@ -2,9 +2,9 @@
 
 ### [Hamd\-o\-Naat](https://open.spotify.com/playlist/37i9dQZF1DXbCdb6frP71o)
 
-> Devotional tracks for an immersive Ramadan\. Cover: Atif Aslam
+> Devotional tracks for an immersive Ramadan\. Cover: Ali Zafar
 
-105 songs - 9 hr 57 min
+106 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Nabi Un Nabi Un Nabi Un Nabi](https://open.spotify.com/track/23BmsL69Y9TpM1KtiMnkTt) | [Umme Habiba](https://open.spotify.com/artist/4OwPVzkgPmwR3RgjqHfcfx) | [Jab Zaban Pe Muhammad Ka Naam, Vol\. 1](https://open.spotify.com/album/1r5QJvMFAqxktum946iYxl) | 6:59 | 2024-02-21 | 2024-03-15 |
 | [Noor Allah](https://open.spotify.com/track/3NYPDItB0WRcRpxz1x9D6y) | [SALMAN HASSAN](https://open.spotify.com/artist/38Ch1aEzwaE2VQeu5GlYEJ), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Bilal Wajid](https://open.spotify.com/artist/3scPAajlu1EriZNl2lENL8) | [Noor Allah](https://open.spotify.com/album/6hcyC3XEya6ydk6nURrkuO) | 5:08 | 2024-03-14 |  |
 | [O Mere Maula](https://open.spotify.com/track/1cox6Zf3yJ3QzK1aB88Zqr) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [O Mere Maula](https://open.spotify.com/album/5sQTM5G3Q8PWuDsPfyxiYB) | 5:25 | 2024-06-26 |  |
+| [Qaseeda Burda Shareef](https://open.spotify.com/track/6wQTskURp6UjXLCTKgGPXR) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Qaseeda Burda Shareef](https://open.spotify.com/album/1Axp9hHHfzK3oWRWuteiYf) | 4:40 | 2025-03-20 |  |
 | [Qaseeda Burda Shareef](https://open.spotify.com/track/64RWnOGArhYhDktVQlmAoE) | [Rakae Jamil](https://open.spotify.com/artist/68ruZNGwS6xFD7IOJYUZIa), [Farhan Ali](https://open.spotify.com/artist/1sYPIiSyj5kE6TjQcvEvb1), [Kumail Jaffery](https://open.spotify.com/artist/5Wo2MMvWR5cQCwnYcSkrO3) | [Qaseeda Burda Shareef](https://open.spotify.com/album/3f8QBRJQTeLfkNrn7nJ5PP) | 1:34 | 2024-04-04 |  |
 | [Qasida Burda Sharif](https://open.spotify.com/track/2zsQKhZhWNUxY5YCKSxjoS) | [Qari Waheed Zafar Qasmi](https://open.spotify.com/artist/2NkEXPNPJyiuIRnO9oTvnY) | [Gulzar e Madina, Vol\. 2](https://open.spotify.com/album/7kQP5I9bMRI24rA3NPm3aX) | 6:08 | 2024-02-21 |  |
 | [Rahmatun Lil'Alameen](https://open.spotify.com/track/4Ifu8HPmQGUnJwwaXcG2Mj) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Rahmatun Lil'Alameen](https://open.spotify.com/album/2SqCf5y1QVixgel87vaM2K) | 3:50 | 2024-03-18 |  |

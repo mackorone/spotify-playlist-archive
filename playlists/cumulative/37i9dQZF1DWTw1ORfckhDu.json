@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcaf Kannessa JVG.",
+  "description": "100 Suomi \ud83d\udcaf Kannessa Davy ja Ege Zulu.",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 151421,
       "name": "Behind The Bars (feat. Senya)",
       "url": "https://open.spotify.com/track/0wsosSVHH7BMNAcDJB5r0z"
@@ -1952,6 +1952,28 @@
       "duration_ms": 180159,
       "name": "Dice",
       "url": "https://open.spotify.com/track/5xod0Sm1xqBRMpc5qQnZyc"
+    },
+    {
+      "album": {
+        "name": "Digimon (feat. FUGE)",
+        "url": "https://open.spotify.com/album/5GMrG4vtOB5hX7y0gRlKEH"
+      },
+      "artists": [
+        {
+          "name": "MD$",
+          "url": "https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944"
+        },
+        {
+          "name": "FUGE",
+          "url": "https://open.spotify.com/artist/0AIfzzVXSeTiPIXNOiuTlD"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154296,
+      "name": "Digimon (feat. FUGE)",
+      "url": "https://open.spotify.com/track/13egElvTPEVqqYuQINluzd"
     },
     {
       "album": {
@@ -6549,6 +6571,28 @@
     },
     {
       "album": {
+        "name": "Kuka on vastuus?",
+        "url": "https://open.spotify.com/album/5H3b6G0Zdf9yKMfDdWjFRY"
+      },
+      "artists": [
+        {
+          "name": "Davy",
+          "url": "https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT"
+        },
+        {
+          "name": "Ege Zulu",
+          "url": "https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152834,
+      "name": "Kuka on vastuus?",
+      "url": "https://open.spotify.com/track/2NO3NqzOQqtlOgQY4URkMC"
+    },
+    {
+      "album": {
         "name": "Kuka se on (feat. Isac Elliot)",
         "url": "https://open.spotify.com/album/3Upc7moyLGcU372j9GGvfp"
       },
@@ -9933,7 +9977,7 @@
         },
         {
           "name": "Sexmane",
-          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+          "url": "https://open.spotify.com/artist/0HBo9U4SxsaeqrqssGfNf1"
         }
       ],
       "date_added": "2025-02-27",
@@ -10808,7 +10852,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 136616,
       "name": "Papi Caramelo",
       "url": "https://open.spotify.com/track/1UOcNKPvb7Gy8Q5yPttgUy"
@@ -15377,6 +15421,28 @@
     },
     {
       "album": {
+        "name": "UUS",
+        "url": "https://open.spotify.com/album/0CZ76qgIW100rjOVjgqQw2"
+      },
+      "artists": [
+        {
+          "name": "Jodahe",
+          "url": "https://open.spotify.com/artist/47bHkMN3v678TKL5Tku7mF"
+        },
+        {
+          "name": "678NATH",
+          "url": "https://open.spotify.com/artist/6GbJj21JT9bkzYnu5FGscf"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153535,
+      "name": "UUS",
+      "url": "https://open.spotify.com/track/5IYMahsAnjJknOGdr3V16q"
+    },
+    {
+      "album": {
         "name": "Uus frendi",
         "url": "https://open.spotify.com/album/7bW22O1ODwkWpQyk5CvamR"
       },
@@ -16188,7 +16254,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 180000,
       "name": "Vittu mik\u00e4 \u00e4ij\u00e4",
       "url": "https://open.spotify.com/track/2imPefhCdCUrM55vYibOmf"

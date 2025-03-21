@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5pERGrNVob.md) - [plain]
 
 > This K\-Pop girl group is recognised by their MOO MOOs for their retro, jazz, R&B concepts and strong vocals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,592 likes - 113 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,580 likes - 113 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5pERGrNVob.md) - [plain]
 | 86 | [Absence](https://open.spotify.com/track/1wj8oNg5fN2zltrUIJGjoN) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [門OON : REPACKAGE](https://open.spotify.com/album/2JVZcgHGsbmIyGM17GyccP) | 3:39 |
 | 87 | [You’re the Best](https://open.spotify.com/track/2GbF32jk2VyATjqFmUkpTR) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Melting](https://open.spotify.com/album/4x2afg5wUzbfURyzacNACm) | 3:50 |
 | 88 | [WHY](https://open.spotify.com/track/6QPa2ZmJsYLzTrQjG5FZIn) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 3:21 |
-| 89 | [Say Yes \(Feat\. Moon Byul of MAMAMOO\)](https://open.spotify.com/track/39pKhfHJONQXFPCiduswZA) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Say hello](https://open.spotify.com/album/3KL1ALTLwYaCcxzxNIRrWK) | 3:24 |
+| 89 | [Say Yes \(feat\. Moon Byul\)](https://open.spotify.com/track/39pKhfHJONQXFPCiduswZA) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Say hello](https://open.spotify.com/album/3KL1ALTLwYaCcxzxNIRrWK) | 3:24 |
 | 90 | [4x4ever](https://open.spotify.com/track/4bMsb9CROmDYa5ngBynRXT) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [reality in BLACK](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) | 3:04 |
 | 91 | [Orbit](https://open.spotify.com/track/6EWz8fvttnPEd3FV0Dtv5w) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3lcftcc6ksaPBGRN839LYO) | 3:06 |
 | 92 | [Gleam](https://open.spotify.com/track/4dOrfL6qgxnjCMSmkekFhB) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Gleam](https://open.spotify.com/album/1HWezHtB1jFWZ96uy4cRq9) | 3:04 |

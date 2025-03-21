@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 ### [BASSLINE THERAPY](https://open.spotify.com/playlist/0lVl7MriET3XEU0PJyDBfw)
 
-> Your Tech House therapy session for the dancefloor \| SoundCloud mix series: Bassline Therapy Radio
+> Only the best Tech House \| Find the mix series on SoundCloud: Bassline Therapy Radio
 
-[Bassline Therapy by Houseium](https://open.spotify.com/user/jayke0108) - 10,925 likes - 101 songs - 5 hr 15 min
+[Bassline Therapy by Houseium](https://open.spotify.com/user/jayke0108) - 10,924 likes - 101 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 100 | [Percolator](https://open.spotify.com/track/5HkEJKbmN1GUDx8WsQm3XN) | [Barkin](https://open.spotify.com/artist/3PjvlMwL0STnjEMM6j9szh), [Kxne](https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD) | [Percolator](https://open.spotify.com/album/2bmghRthQzrjiQSQ0lLlLF) | 2:41 |
 | 101 | [This Groove](https://open.spotify.com/track/3nu0zz6F1jHFi49hrrGMsL) | [Airwolf Paradise](https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl) | [This Groove](https://open.spotify.com/album/4ttX2k0BzeQaHN0fdUdK34) | 3:29 |
 
-Snapshot ID: `AAAbJK1lNcnSco6dZ0PI7XOAL1v/gDwd`
+Snapshot ID: `AAAbJ6FMkbxZvml4nWGZrsRDJvzWL4xN`

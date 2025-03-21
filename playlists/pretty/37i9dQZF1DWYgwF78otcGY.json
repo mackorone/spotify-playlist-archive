@@ -1,6 +1,6 @@
 {
   "description": "Fj\u00e4derboa, dansgolv, alls\u00e5ng och tonartsh\u00f6jningar - nu \u00e4r det mellofest! \ud83e\udea9\u2728\ud83d\udc9c",
-  "num_followers": 30039,
+  "num_followers": 30038,
   "original_name": "Mellofest! ",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2025-03-08 23:00:20",
       "album": {
+        "name": "Disco Defenders",
+        "url": "https://open.spotify.com/album/6tZv43WmLwofiLbWanh1Ww"
+      },
+      "artists": [
+        {
+          "name": "Alcazar",
+          "url": "https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "Blame It On The Disco",
+      "url": "https://open.spotify.com/track/4IZy2nI5mAxLtlLPbcErqc"
+    },
+    {
+      "added_at": "2025-03-08 23:00:20",
+      "album": {
         "name": "Amazing",
         "url": "https://open.spotify.com/album/1B0mVsLzCERctx9aZDC5yN"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 182800,
       "name": "Tusen och en natt",
       "url": "https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y"
-    },
-    {
-      "added_at": "2025-03-08 23:00:20",
-      "album": {
-        "name": "Disco Defenders",
-        "url": "https://open.spotify.com/album/6tZv43WmLwofiLbWanh1Ww"
-      },
-      "artists": [
-        {
-          "name": "Alcazar",
-          "url": "https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "Blame It On The Disco",
-      "url": "https://open.spotify.com/track/4IZy2nI5mAxLtlLPbcErqc"
     },
     {
       "added_at": "2025-03-08 23:00:20",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-03-08 23:00:20",
       "album": {
-        "name": "Now I Know",
-        "url": "https://open.spotify.com/album/1uap95G6btqs1OZLmkN1Gc"
-      },
-      "artists": [
-        {
-          "name": "Tennessee Tears",
-          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
-        }
-      ],
-      "duration_ms": 181633,
-      "name": "Now I Know",
-      "url": "https://open.spotify.com/track/591qy56kcfBuNgj1kregOM"
-    },
-    {
-      "added_at": "2025-03-08 23:00:20",
-      "album": {
         "name": "Bail\u00e1 Bail\u00e1",
         "url": "https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 173124,
       "name": "Bail\u00e1 Bail\u00e1",
       "url": "https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V"
+    },
+    {
+      "added_at": "2025-03-08 23:00:20",
+      "album": {
+        "name": "Now I Know",
+        "url": "https://open.spotify.com/album/1uap95G6btqs1OZLmkN1Gc"
+      },
+      "artists": [
+        {
+          "name": "Tennessee Tears",
+          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
+        }
+      ],
+      "duration_ms": 181633,
+      "name": "Now I Know",
+      "url": "https://open.spotify.com/track/591qy56kcfBuNgj1kregOM"
     },
     {
       "added_at": "2025-03-08 23:00:20",
@@ -843,18 +843,18 @@
     {
       "added_at": "2025-03-08 23:00:20",
       "album": {
-        "name": "Lena 20 \u00e5r",
-        "url": "https://open.spotify.com/album/1T8NH2yMjPBlUDwim5Vtdo"
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
       },
       "artists": [
         {
-          "name": "Lena Philipsson",
-          "url": "https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm"
+          "name": "Tone Sekelius",
+          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
         }
       ],
-      "duration_ms": 181640,
-      "name": "Det g\u00f6r ont",
-      "url": "https://open.spotify.com/track/2aeVGqdsF7WbKZkwhcCeqm"
+      "duration_ms": 182443,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
     }
   ],
   "unique_name": "Mellofest! ",

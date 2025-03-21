@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: STAYC\(스테이씨\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,398 likes - 145 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,466 likes - 145 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 3 | [BEBE](https://open.spotify.com/track/5iXD5rOKV99XGtkaiucHpM) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [S](https://open.spotify.com/album/6QTpBMKMIa2OFMqZBQu2Pm) | 2:59 |
 | 4 | [Destiny](https://open.spotify.com/track/4QyD4CDdtEvARB4po3H2H6) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [Destiny](https://open.spotify.com/album/7B4s5HCQ2zzE0avcDiFChh) | 3:36 |
 | 5 | [Existence](https://open.spotify.com/track/7ApLCvjdvEzOr5O0yoic98) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Existence](https://open.spotify.com/album/1ulv4nnlTuEmpAQiqAnNtr) | 2:56 |
-| 6 | [GooGoo GaG](https://open.spotify.com/track/2qZju0KIGsybfWzvHwhRXc) | [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [Wuuslime](https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm) | [Stunnin' 4 You](https://open.spotify.com/album/2tbeLYLLL1NUao38z46uZV) | 2:48 |
+| 6 | [GooGoo GaGa](https://open.spotify.com/track/2qZju0KIGsybfWzvHwhRXc) | [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [Wuuslime](https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm) | [Stunnin' 4 You](https://open.spotify.com/album/2tbeLYLLL1NUao38z46uZV) | 2:48 |
 | 7 | [On The Way To Meet You \(feat\. Able\)](https://open.spotify.com/track/33vYsdGHSnz7wor690HGgn) | [Sunny Hill](https://open.spotify.com/artist/1ePYD8tMMM4Y8gbwi69vaf), [Able](https://open.spotify.com/artist/5QLTdB5zd44gkuqSjUVIWl) | [On The Way To Meet You \(feat\. Able\)](https://open.spotify.com/album/4byC8lJlBmLRYClVpx8PjZ) | 3:42 |
 | 8 | [아 진짜 미치겠네](https://open.spotify.com/track/2cWeNI3z7k5XQHfBnb91Zn) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [PIN PROJECT X CHAWOO](https://open.spotify.com/album/4HbQYy4VjMaIJcvPX14dJs) | 3:35 |
 | 9 | [SIMPLE \(Feat\. JUNNY, CHANGMO\)](https://open.spotify.com/track/5X1EtDauge67NrGdPVJbIN) | [Daul](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc), [Noair](https://open.spotify.com/artist/5qbEjv3igyF5n8CKWingvy), [plan8](https://open.spotify.com/artist/6qCHNsRkTTF2YQrsuUOeFw), [CHANNEL 201](https://open.spotify.com/artist/1kLaTi0lthkPxr7wPnvMTm), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [SIMPLE \(Feat\. JUNNY, CHANGMO\)](https://open.spotify.com/album/33LMHk3p0MwY4P61TigEAh) | 2:35 |

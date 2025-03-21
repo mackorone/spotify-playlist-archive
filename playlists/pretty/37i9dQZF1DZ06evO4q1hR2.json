@@ -1,12 +1,12 @@
 {
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 63759,
+  "num_followers": 63783,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9i3gAAAAABLx3vwndyW3vS86vKAwyKM",
+  "snapshot_id": "Z9oJAAAAAAC+tnYmsNcQjYKlzi19AkPC",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Regreso A Tus Brazos",
-        "url": "https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 207066,
-      "name": "La Prieta Linda",
-      "url": "https://open.spotify.com/track/0P2uUhEU7JeVPCwFnxhrAD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puras Pa Pistear Volumen 1",
         "url": "https://open.spotify.com/album/3fuUgFZDApi0xywZ5hOgqk"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 177096,
       "name": "El Disgusto",
       "url": "https://open.spotify.com/track/7sm9ulj2YtnaBcMZ8tfni2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando Regreso A Tus Brazos",
+        "url": "https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "La Prieta Linda",
+      "url": "https://open.spotify.com/track/0P2uUhEU7JeVPCwFnxhrAD"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Decimo Aniversario",
+        "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 199813,
+      "name": "El Muchacho Alegre",
+      "url": "https://open.spotify.com/track/5R9M8yBGVGs3VpkBWXAyll"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prohibido (En Vivo)",
         "url": "https://open.spotify.com/album/7ij7uJXtBAxjZswsqYLfxl"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 178202,
       "name": "Prohibido (En Vivo)",
       "url": "https://open.spotify.com/track/2oaXSRWXf0pjmODxwKBxmq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Decimo Aniversario",
-        "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 199813,
-      "name": "El Muchacho Alegre",
-      "url": "https://open.spotify.com/track/5R9M8yBGVGs3VpkBWXAyll"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Decimo Aniversario",
+        "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 142786,
+      "name": "Me Dicen El Coyote",
+      "url": "https://open.spotify.com/track/7AFtCiPOxhwIDKcH50hLjy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No volver\u00e9",
         "url": "https://open.spotify.com/album/495pzlAoRmw7DJxLhbpSvn"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 160533,
       "name": "No volver\u00e9",
       "url": "https://open.spotify.com/track/27qAGAUh2empb6QIAMJi2o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Decimo Aniversario",
-        "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 142786,
-      "name": "Me Dicen El Coyote",
-      "url": "https://open.spotify.com/track/7AFtCiPOxhwIDKcH50hLjy"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Ley De La Vida",
-        "url": "https://open.spotify.com/album/5qhVk36xZ9uj7oNRN1CYQg"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 161840,
-      "name": "Quiero Charlar Con La Muerte",
-      "url": "https://open.spotify.com/track/4X0ktZrJzaw4D23lNC3um2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puras Pa Pistear Volumen 1",
         "url": "https://open.spotify.com/album/3fuUgFZDApi0xywZ5hOgqk"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 146000,
       "name": "Una Flor Quise Cortar",
       "url": "https://open.spotify.com/track/6AHRob7H24pzadi03Ycnao"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Ley De La Vida",
+        "url": "https://open.spotify.com/album/5qhVk36xZ9uj7oNRN1CYQg"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 161840,
+      "name": "Quiero Charlar Con La Muerte",
+      "url": "https://open.spotify.com/track/4X0ktZrJzaw4D23lNC3um2"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Ley De La Vida",
-        "url": "https://open.spotify.com/album/5qhVk36xZ9uj7oNRN1CYQg"
+        "name": "Puras Rancheras",
+        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 118440,
-      "name": "Vida Mafiosa",
-      "url": "https://open.spotify.com/track/7y2rMsFIh7wKS6cTwWLSXU"
+      "duration_ms": 160066,
+      "name": "Esta Tristeza M\u00eda",
+      "url": "https://open.spotify.com/track/3JaqxH3f3lGBXYQkhdRPRY"
     }
   ],
   "unique_name": "This Is El Coyote Y Su Banda Tierra Santa",

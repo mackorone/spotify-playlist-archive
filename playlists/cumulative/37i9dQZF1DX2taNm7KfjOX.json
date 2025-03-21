@@ -266,7 +266,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 207551,
       "name": "Aaron",
       "url": "https://open.spotify.com/track/3eWUGMJtaAjA7nj8JDmbsT"
@@ -6808,6 +6808,24 @@
       "duration_ms": 291762,
       "name": "Mecca",
       "url": "https://open.spotify.com/track/5lXex7KyHe7PSaRG5eJ4Mm"
+    },
+    {
+      "album": {
+        "name": "medication",
+        "url": "https://open.spotify.com/album/1hvKWVkosXqh4q0wpEuLIY"
+      },
+      "artists": [
+        {
+          "name": "This New Light",
+          "url": "https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231594,
+      "name": "medication",
+      "url": "https://open.spotify.com/track/2ZYnR8cJOI0yN0IMk3eAVn"
     },
     {
       "album": {

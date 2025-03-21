@@ -4,7 +4,7 @@
 
 > Rustig aan doen op zondag met deze zachte popliedjes.
 
-223 songs - 12 hr 43 min
+224 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Have A Little Faith In Me](https://open.spotify.com/track/1QQUZeG6qa90sPHIAuHbgj) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV) | [Bring The Family](https://open.spotify.com/album/6lDz7nj2wH0vLKpbSi4ZYp) | 4:01 | 2024-04-18 | 2024-11-23 |
 | [Have A Little Faith In Me](https://open.spotify.com/track/23EgnmfkdOsDK96ftbVv0Q) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV) | [Bring The Family](https://open.spotify.com/album/1S6p34YmdtR3KCSiSTjbgW) | 4:05 | 2022-12-22 | 2024-04-19 |
 | [Heavy](https://open.spotify.com/track/3D84aC9RWEI1S6SgnKMUBe) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Heavy](https://open.spotify.com/album/4BTcDzYMWrRP5V4LPffX9d) | 3:48 | 2024-04-18 |  |
-| [Hello](https://open.spotify.com/track/2azg1vhiwyS2FYt6Dsttr6) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Hello](https://open.spotify.com/album/3QZvLrz3mo5OPAzmsejoYN) | 3:14 | 2024-04-18 |  |
+| [Hello](https://open.spotify.com/track/2azg1vhiwyS2FYt6Dsttr6) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Hello](https://open.spotify.com/album/3QZvLrz3mo5OPAzmsejoYN) | 3:14 | 2024-04-18 | 2025-03-21 |
 | [Hello](https://open.spotify.com/track/3PDJfUCgOy0mqm3jxUVA5F) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Hello](https://open.spotify.com/album/6e2JVuCWiGeSK70X9PhPNX) | 3:14 | 2022-12-22 | 2024-04-19 |
 | [Here's Your Perfect](https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect](https://open.spotify.com/album/6yNuKzr4GNs1c7Kpdf7c5w) | 2:38 | 2022-12-22 | 2024-10-04 |
 | [High and Low](https://open.spotify.com/track/0UAB4g9ZOrcMzHcZi2y3qo) | [KWAYE](https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ) | [Learning To Swim](https://open.spotify.com/album/1w9BDtBkQeHkxz8ayzhYOZ) | 3:06 | 2023-12-24 |  |
@@ -154,6 +154,7 @@
 | [Papercuts](https://open.spotify.com/track/4BoCONPNSPR7KRsxYuZM4B) | [Joel Adams](https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD) | [Papercuts](https://open.spotify.com/album/54w4JiMeaz7aIweo7zHO6H) | 5:23 | 2022-12-22 | 2024-10-11 |
 | [Passport Home](https://open.spotify.com/track/4DzgGTs7eaS6DHHOp1xcyj) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:00 | 2022-12-22 | 2023-11-10 |
 | [Pillow Scream](https://open.spotify.com/track/5dt3DHWX8EnVR4QJZ0fhxI) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS) | [Pillow Scream](https://open.spotify.com/album/5tDWszKpaH5baAcFGpj6xF) | 3:10 | 2024-05-09 | 2025-01-26 |
+| [Platinum Blonde](https://open.spotify.com/track/3dMMuGZQzgXGHFGRX04MVK) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [I was a platinum blonde](https://open.spotify.com/album/2y2vnFZ7NftliJ6gLZIkRx) | 2:46 | 2025-03-20 |  |
 | [Please Slow Down \- Rubber Bridge Version](https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Please Slow Down \(Rubber Bridge Version\)](https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP) | 2:43 | 2024-09-05 |  |
 | [Promise](https://open.spotify.com/track/1pzUJC95ApZrPchMgTmeS2) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Promise](https://open.spotify.com/album/2mmC1rWiWGZvcOQ2iJVXo0) | 4:19 | 2024-07-15 |  |
 | [Questionnaire](https://open.spotify.com/track/4BxYjk8XeIv5FNgwbLi824) | [a balladeer](https://open.spotify.com/artist/5MUNbMtqB3EOKxwSJBVJ1U) | [Clutter, Vol\. 2 \(so far...\)](https://open.spotify.com/album/7KaaocrZv6Tpe5KzkyW5qN) | 2:45 | 2023-04-13 | 2023-05-30 |

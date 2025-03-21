@@ -2499,6 +2499,24 @@
     },
     {
       "album": {
+        "name": "Love Me More",
+        "url": "https://open.spotify.com/album/06rcl5LtfkoY1MpzfOm48s"
+      },
+      "artists": [
+        {
+          "name": "Louise",
+          "url": "https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171558,
+      "name": "Love Me More",
+      "url": "https://open.spotify.com/track/6671le3mOu7yT3oUlTVRH0"
+    },
+    {
+      "album": {
         "name": "Love My Neighbour",
         "url": "https://open.spotify.com/album/3yqdHu9gT5kOOpNyU8jALL"
       },

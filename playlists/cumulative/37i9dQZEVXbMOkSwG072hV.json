@@ -7966,7 +7966,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-19",
+      "date_removed": null,
       "duration_ms": 214931,
       "name": "Beb\u00ea Confesso",
       "url": "https://open.spotify.com/track/3Cyv3nUdQcK8emKUfYYHaS"
@@ -10256,7 +10256,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 519000,
       "name": "Buscar-Me-Eis e Me Achareis - Ao Vivo",
       "url": "https://open.spotify.com/track/6a5YMnpTVStVqoBwgOhjDi"
@@ -29532,7 +29532,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-20",
+      "date_removed": null,
       "duration_ms": 212812,
       "name": "Insista Em Mim",
       "url": "https://open.spotify.com/track/2NDo5AjOb1E6JJOO31qhx0"
@@ -29550,7 +29550,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 212812,
       "name": "Insista em Mim",
       "url": "https://open.spotify.com/track/3U4bUBl7zDaAWnTJbQ4Lpl"
@@ -41366,7 +41366,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-21",
       "duration_ms": 103344,
       "name": "M\u00e9dio Versalico",
       "url": "https://open.spotify.com/track/207HLdUVIdZEUMRX15BIwD"
@@ -61662,6 +61662,24 @@
       "duration_ms": 232258,
       "name": "Tenho Que Me Decidir",
       "url": "https://open.spotify.com/track/697gwO5YoSGVAnlfREIZll"
+    },
+    {
+      "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293293,
+      "name": "Tennessee Whiskey",
+      "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
     },
     {
       "album": {

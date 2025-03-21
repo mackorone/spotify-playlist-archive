@@ -2,9 +2,9 @@
 
 ### [Ny Pop \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX8hNBsFKBtPu)
 
-> Det bedste nye pop ❤️ Lizzooo
+> Det bedste nye pop ❤️
 
-396 songs - 20 hr 9 min
+406 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Cry Baby](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby](https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b) | 2:37 | 2024-08-08 | 2025-01-17 |
 | [Crying In The Bathroom](https://open.spotify.com/track/6wd4LAk8S7Y0HLW44YKdeR) | [june](https://open.spotify.com/artist/4HPbe1kKBultculBbxH66X) | [Crying In The Bathroom](https://open.spotify.com/album/1qQ4jnca6xEmrc6gKF6DwZ) | 2:46 | 2024-11-21 | 2025-01-17 |
 | [Cursing and Lying!](https://open.spotify.com/track/5dslPul1UbjAHzUcFZZoUw) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Caravan](https://open.spotify.com/album/4T2juNoEsMWucQH4aagNLi) | 5:14 | 2024-10-03 |  |
+| [Dancing Around The Truth](https://open.spotify.com/track/3WMPOfSgxjZY2jFZYCTQeP) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Dancing Around The Truth](https://open.spotify.com/album/2OCDNEGYq55vhBAMwkIoVe) | 3:50 | 2025-03-20 |  |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-13 | 2025-01-17 |
 | [Dans](https://open.spotify.com/track/3zEHkfxOhEimlQbDx9ECrf) | [Mads Christian](https://open.spotify.com/artist/3Ehbg1qhRKHshR8H2BoR8N) | [Dans](https://open.spotify.com/album/43rjUtF1qhEfOz8NJ9bSDn) | 2:32 | 2025-02-13 |  |
 | [Darkerside](https://open.spotify.com/track/3b1s3Ywg0laGsNHCpUBhrl) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [The Dichotomy](https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW) | 2:37 | 2024-08-29 |  |
@@ -196,6 +197,7 @@
 | [If Eyes Could Kill \(BBYBITES x ELOQ\)](https://open.spotify.com/track/0x6muMyvn26GPjGu5fP6ju) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [If Eyes Could Kill \(BBYBITES x ELOQ\)](https://open.spotify.com/album/26VlSymjHZe3tv6Lp6ymxT) | 2:10 | 2025-01-16 |  |
 | [Incredible \(feat\. Labrinth\)](https://open.spotify.com/track/3SOaoZ1AfhMjEMCJrdGKEw) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Incredible \(feat\. Labrinth\)](https://open.spotify.com/album/5ZoC2lrruEGZJCKppgOYoV) | 3:33 | 2024-06-27 | 2024-07-30 |
 | [Ingens Pige](https://open.spotify.com/track/7sLlSjR6so9CDPzsgXFXnw) | [Tina Dickow](https://open.spotify.com/artist/5FwWkrkqRy9Qmny3vqxYUe), [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Ingens Pige](https://open.spotify.com/album/6PM22xbws0VlndnoY4LBjB) | 3:18 | 2024-07-11 | 2025-01-17 |
+| [Ingenting Er Én Ting](https://open.spotify.com/track/2RopGxa0f9Ep4K72j9SSpq) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Hærværk / Mesterværk: Side A](https://open.spotify.com/album/6BmaXJE7BbK7oCJdgkJcsV) | 3:11 | 2025-03-20 |  |
 | [Intercitylyn](https://open.spotify.com/track/3sMwlRO9zztcBVIXnhndVL) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Intercitylyn](https://open.spotify.com/album/6Xrf1jDUeH6va4SZOyj0RA) | 3:17 | 2024-06-27 | 2024-07-30 |
 | [It Could Have Been Us \(feat\. Griff\)](https://open.spotify.com/track/1DXriJxszQLBseOwBD6fX4) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [It Could Have Been Us \(feat\. Griff\)](https://open.spotify.com/album/61deJXJoZL1sMneoUmLYnu) | 2:50 | 2024-08-22 | 2025-01-17 |
 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 | 2024-09-13 | 2025-01-24 |
@@ -204,6 +206,8 @@
 | [Juno](https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:43 | 2024-08-22 | 2025-01-17 |
 | [Jylland](https://open.spotify.com/track/2CsNcwVW6fUabGB0E4ASjF) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Jylland](https://open.spotify.com/album/1g9JFulc8UWHOAzL6dy22d) | 3:14 | 2024-08-29 | 2025-01-17 |
 | [Kalder Hinanden For Baby](https://open.spotify.com/track/49z3msZeeUVeSdZDuuvcYl) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [Kalder Hinanden For Baby](https://open.spotify.com/album/7fL7dFdhZHl0diZuiLckmd) | 3:13 | 2024-08-22 |  |
+| [Keep Møving](https://open.spotify.com/track/01P4zWU44Rsk4XIME4hsTd) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Keep Møving](https://open.spotify.com/album/72kPRMbCSy6mcaz88F2Vzm) | 3:22 | 2025-03-20 |  |
+| [kendt mig en uge](https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [kendt mig en uge](https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd) | 3:06 | 2025-03-20 |  |
 | [Knappenål](https://open.spotify.com/track/2IkoAk3xTcdQARiz9nx5GG) | [Katinka](https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ) | [Knappenål](https://open.spotify.com/album/1fA0mMY3s4zCBSYR51qf8B) | 3:08 | 2025-02-20 |  |
 | [Knuser Hjerter](https://open.spotify.com/track/57PD4mbFuszcolNv3xDd44) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Knuser Hjerter](https://open.spotify.com/album/5XmVWR5o42BWlXZ9o6fhvg) | 3:27 | 2024-06-27 | 2024-07-30 |
 | [Knust](https://open.spotify.com/track/3wqRHnczOsKvn43w5d0YDQ) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC), [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Knust](https://open.spotify.com/album/5AGzft7HTMrun5vjPK03oo) | 2:15 | 2024-08-29 |  |
@@ -327,7 +331,9 @@
 | [Sommerregn](https://open.spotify.com/track/1haBPCTX5PC7baqot4Jf4D) | [Alexander Oscar](https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM) | [Sommerregn](https://open.spotify.com/album/5CfKFxbSCzraCtUgUutANL) | 2:28 | 2024-08-22 | 2024-10-04 |
 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 | 2025-02-27 |  |
 | [Sortedam](https://open.spotify.com/track/3KKfy9c7s81AOoXbqd1obP) | [Thomas Helmig](https://open.spotify.com/artist/2ytaRjGwyS3veZwsmr0SPj) | [Sortedam](https://open.spotify.com/album/1XJYMVpTiA0OrK7mgBsAnv) | 4:02 | 2024-10-24 | 2025-01-17 |
+| [southbound](https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [southbound / test drive](https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU) | 2:17 | 2025-03-20 |  |
 | [Space Rock](https://open.spotify.com/track/443F4cnUSVofidUpAIXEuy) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Space Rock](https://open.spotify.com/album/00SM0CTiz1f6CEnrcy9WF0) | 1:58 | 2024-11-07 | 2025-01-24 |
+| [Spiderman \(feat\. USSEL\)](https://open.spotify.com/track/1ZUQoHxFpneJtz515ixKAH) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr), [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [Til Hyggen og Til Livet](https://open.spotify.com/album/0jDfy9ZrYUXz9ZE5nVqUgO) | 2:42 | 2025-03-20 |  |
 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 | 2025-01-23 |  |
 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 | 2024-09-19 | 2025-01-17 |
 | [Stardust](https://open.spotify.com/track/4266h07udCdZ83jswW10IG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [ROOM UNDER THE STAIRS](https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0) | 3:52 | 2024-06-27 | 2024-08-30 |
@@ -378,7 +384,9 @@
 | [Ugly Cry](https://open.spotify.com/track/0laEAr4GUvINBLFQnguMmb) | [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [Ugly Cry](https://open.spotify.com/album/4oSR3YcFYVtp0wladUo93t) | 2:24 | 2024-08-22 | 2024-10-04 |
 | [Ulykkelig](https://open.spotify.com/track/2YDLTIoCXWBw77xk2Irxe9) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Ulykkelig](https://open.spotify.com/album/7h7vLjEEYuicY1oBmN37Fc) | 2:16 | 2024-09-11 | 2024-10-04 |
 | [Under Overfladen](https://open.spotify.com/track/2EXmj5AkvJLRhPVRUMZqw8) | [Turboweekend](https://open.spotify.com/artist/4v5M2g2hKOoaUceEgJbr80) | [Under Overfladen](https://open.spotify.com/album/2eOjVHqji1tnIcwDGKnM35) | 4:26 | 2025-03-13 |  |
+| [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-03-20 |  |
 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 | 2024-06-27 | 2024-11-08 |
+| [USA](https://open.spotify.com/track/4HYYZOR5yrMXFmBwy7B1Rr) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [USA](https://open.spotify.com/album/5bUj4hJuxkN4ukskJwmHW5) | 3:11 | 2025-03-20 |  |
 | [USB](https://open.spotify.com/track/4S9p8TRkZA9z53rDjwu032) | [Emil Lange](https://open.spotify.com/artist/4UxkyClhUPBeJjyGwHvgaV), [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [USB](https://open.spotify.com/album/1qBhQXg3Z2yRdDUImIHe5O) | 2:45 | 2024-06-27 | 2024-10-04 |
 | [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 | 2025-03-06 |  |
 | [Vend Om](https://open.spotify.com/track/37ez8CGYIVe5nQQjVK2Whf) | [Micky Skeel](https://open.spotify.com/artist/3ml6MvdCLzBBhK2zT9AhOl) | [Vend Om](https://open.spotify.com/album/1bAJrBn0Pc6er22xbuTStG) | 3:18 | 2025-02-20 |  |
@@ -403,6 +411,8 @@
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-11 | 2024-07-30 |
 | [You Found Me](https://open.spotify.com/track/0xr8Vdy7svQMJXicR1XWEt) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [You Found Me](https://open.spotify.com/album/0A4r9XhPvTM5Axc2ctn3Kv) | 3:27 | 2024-06-27 | 2024-10-04 |
 | [You Go Your Way](https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [You Go Your Way](https://open.spotify.com/album/5TfDNyXTjan0eZhELfj1jx) | 3:54 | 2024-10-03 | 2025-01-17 |
+| [You Killed The Music](https://open.spotify.com/track/2Km8hIwZJWq7migmM1dZzy) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [You Killed The Music](https://open.spotify.com/album/4ygQDkkZoggfIDXxOb1VJW) | 3:06 | 2025-03-20 |  |
 | [You Only Say You Love Me When You're Drunk](https://open.spotify.com/track/4lJaSZx6Pg4FmEPK4b6tx2) | [EYJAA](https://open.spotify.com/artist/3Izf45JtVxEjBMvq5vJOsg) | [You Only Say You Love Me When You're Drunk](https://open.spotify.com/album/5FD14A1Wu21djP0xLB3W4M) | 3:05 | 2024-06-27 | 2024-08-30 |
+| [Younger And Hotter Than Me](https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:09 | 2025-03-20 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

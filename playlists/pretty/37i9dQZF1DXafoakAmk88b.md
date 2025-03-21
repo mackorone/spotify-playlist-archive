@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie from black artists driving the current\. Cover: FKA twigs
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,734 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,742 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 46 | [Emotions](https://open.spotify.com/track/0uMd9pp22GoCf6i1r60lxA) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Like A Ribbon](https://open.spotify.com/album/7zEIMfEjyBreLK9TfrkwBC) | 3:24 |
 | 47 | [Trying](https://open.spotify.com/track/6q8qyXMTCFugcTsPtQDpwJ) | [Cdubz](https://open.spotify.com/artist/5KvoRp7P1sWSltpHelramH) | [Trying](https://open.spotify.com/album/2cb7yebOYSSMMFUXKVFE7j) | 3:07 |
 | 48 | [What’s It Take to Be a Star?](https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [What’s It Take to Be a Star?](https://open.spotify.com/album/5b8CFomatusCobpOtmnNdJ) | 2:48 |
-| 49 | [All Cylinders](https://open.spotify.com/track/5ZyDdRIsvdX0AnypQ859Uv) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [All Cylinders](https://open.spotify.com/album/0Qjj0htf2HULFnHvhmb9XW) | 3:28 |
-| 50 | [I hate your face](https://open.spotify.com/track/4plObcsK0lBzi91Xew0lur) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [I hate your face](https://open.spotify.com/album/29pZPrymjXwbz4pKupUbi7) | 2:18 |
+| 49 | [I hate your face](https://open.spotify.com/track/4plObcsK0lBzi91Xew0lur) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [I hate your face](https://open.spotify.com/album/29pZPrymjXwbz4pKupUbi7) | 2:18 |
+| 50 | [All Cylinders](https://open.spotify.com/track/5ZyDdRIsvdX0AnypQ859Uv) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [All Cylinders](https://open.spotify.com/album/0Qjj0htf2HULFnHvhmb9XW) | 3:28 |
 
 Snapshot ID: `Z6qONgAAAADc8hKuj9yep5BqkOekwWzO`
