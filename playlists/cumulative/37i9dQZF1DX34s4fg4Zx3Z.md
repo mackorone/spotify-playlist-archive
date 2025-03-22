@@ -4,7 +4,7 @@
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Hanzi
 
-2,004 songs - 4 day 21 hr 28 min
+2,005 songs - 4 day 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1895,6 +1895,7 @@
 | [ĐI](https://open.spotify.com/track/126PsFxGG5LNwo5z2j0mQN) | [Khánh](https://open.spotify.com/artist/6Q0r6e1tmRyxrNDWLmVOq8), [Hoàng AT](https://open.spotify.com/artist/6PPpn7AfQPFToIX0p27y4d), [Hưng Cao](https://open.spotify.com/artist/6NgAx7a1qFwLpTCC43sZrV) | [ĐI](https://open.spotify.com/album/0qHUwlvfQb8K4iNc59YySi) | 4:26 | 2023-09-21 | 2023-11-24 |
 | [Đi](https://open.spotify.com/track/6jO30TtqbCEkG9ZGVX8pL0) | [Tony D.](https://open.spotify.com/artist/0XqppHVqDhLwMDOUmE4rRK), [Hổ](https://open.spotify.com/artist/31tcsz1SJ59GeQQEJeKuvZ) | [Đi](https://open.spotify.com/album/7bxX1wKXGRVn3bgTHeAdfv) | 2:55 | 2022-08-04 | 2022-08-14 |
 | [Đi Hoang](https://open.spotify.com/track/39t5AIpAq8v8ELF8e6iDIN) | [Nguyễn Thiện Thảo](https://open.spotify.com/artist/1ne8czCC65zYLQvff1eida), [Đăng](https://open.spotify.com/artist/6p4TdoZr8J3FWeRJ4x7K5D) | [Đi Hoang](https://open.spotify.com/album/0PmBjzGbJys7wCHTvltXX0) | 5:27 | 2022-03-02 | 2022-03-13 |
+| [Đi Qua Cuộc Tình](https://open.spotify.com/track/7Jzl0a0Kggeviv6BVWDUJ7) | [Củ Cải](https://open.spotify.com/artist/1Dsu1qosuhggqKT62FafSj) | [Đi Qua Cuộc Tình](https://open.spotify.com/album/5WsZ6g9MkdYEuNikTgweYk) | 2:54 | 2025-03-20 |  |
 | [Đi Qua Thăng Trầm](https://open.spotify.com/track/3Z9JUQEyzAAJiBR1mQtZf9) | [Marr D](https://open.spotify.com/artist/03hVdiz1KdQ9rhIKQoJXsE) | [Đi Qua Thăng Trầm](https://open.spotify.com/album/3dkfxzpq1C00JZdWcKmFIa) | 2:46 | 2022-01-06 | 2022-02-15 |
 | [Đinh Đế](https://open.spotify.com/track/1XZ1tQkG5XguJSsoyoANFt) | [Đình Linh](https://open.spotify.com/artist/0R154VAStip23mAJ105kXu) | [Đinh Đế](https://open.spotify.com/album/5gXl4dkEnxXsAJQXgLVrRr) | 3:33 | 2023-06-06 | 2023-06-14 |
 | [Điêu Tàn](https://open.spotify.com/track/5gkAbev8uy1E6gPccJXXZM) | [linhx](https://open.spotify.com/artist/55ldiq5Axl3pUSyoAG26E4) | [Điêu Tàn](https://open.spotify.com/album/3Xww3kSrhHcDTdfQS68Kpy) | 2:54 | 2024-03-28 | 2024-05-10 |

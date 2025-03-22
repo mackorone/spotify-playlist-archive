@@ -331,6 +331,24 @@
     },
     {
       "album": {
+        "name": "Disco in Doha",
+        "url": "https://open.spotify.com/album/6kis2IuvxvdPt0jDH02Wrc"
+      },
+      "artists": [
+        {
+          "name": "Lamchopz",
+          "url": "https://open.spotify.com/artist/4qERXGDhxAOmF0KRaY5uCF"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362834,
+      "name": "Disco in Doha",
+      "url": "https://open.spotify.com/track/6HISSlYeN7ooBd1WCijmDF"
+    },
+    {
+      "album": {
         "name": "Dogs",
         "url": "https://open.spotify.com/album/4Z7XkSG9UxdiQZP36qIEeg"
       },
@@ -523,6 +541,32 @@
     },
     {
       "album": {
+        "name": "high vibrations",
+        "url": "https://open.spotify.com/album/7icKH7oDXCA2m6V6tks0XO"
+      },
+      "artists": [
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Malaya",
+          "url": "https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb"
+        },
+        {
+          "name": "D'LEAU",
+          "url": "https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335846,
+      "name": "high vibrations",
+      "url": "https://open.spotify.com/track/0gr9ny9UGmMdrBV1ivgnGb"
+    },
+    {
+      "album": {
         "name": "Highway (Teuteu Remix)",
         "url": "https://open.spotify.com/album/3P4NlDbWunICUGKBvDVzlJ"
       },
@@ -596,7 +640,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 358186,
       "name": "I Wanna Tell Somebody",
       "url": "https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR"
@@ -636,7 +680,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 233538,
       "name": "I'M SORRY",
       "url": "https://open.spotify.com/track/17PF2BxCI4klUDl3JgbIIt"
@@ -1189,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "Reach Into Your Soul",
+        "url": "https://open.spotify.com/album/6HyBHvtA4ZLhFLceK1yIRm"
+      },
+      "artists": [
+        {
+          "name": "Kareem Ali",
+          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214838,
+      "name": "Reach Into Your Soul",
+      "url": "https://open.spotify.com/track/3gkM4jhqalnNnyTqZN4308"
+    },
+    {
+      "album": {
         "name": "Years",
         "url": "https://open.spotify.com/album/3drdxf9dVPHUx8RgdH7P3y"
       },
@@ -1236,7 +1298,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 404630,
       "name": "Saw You for the First Time",
       "url": "https://open.spotify.com/track/44t34AtBWG4TKMF5Xc97kV"
@@ -1276,6 +1338,24 @@
       "duration_ms": 204523,
       "name": "Six Am",
       "url": "https://open.spotify.com/track/6KsDQA0pYkNs1kiN1u9V6T"
+    },
+    {
+      "album": {
+        "name": "The Panorama Sessions, Vol. 2",
+        "url": "https://open.spotify.com/album/2QBW1FxFUivoffvVoiSO8J"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360299,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2fY8kKGDEn3oOCntstJqDP"
     },
     {
       "album": {
@@ -1520,7 +1600,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 272389,
       "name": "We Can Make It Happen",
       "url": "https://open.spotify.com/track/4lrCbQ95wplebijZj2PnCk"

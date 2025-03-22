@@ -4,7 +4,7 @@
 
 > All the sunny surf rock you need.
 
-360 songs - 20 hr 28 min
+361 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Cigarettes On Patios](https://open.spotify.com/track/0LJDFZohBgWOMvXQw0cc9W) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Cigarettes On Patios](https://open.spotify.com/album/5vN3lm8mcpQ9IoQ3Xutrkw) | 3:27 | 2023-03-01 | 2023-07-14 |
 | [City Club](https://open.spotify.com/track/17jEoYoOfRD6dvNCMmC9n4) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/5rKFS59ntz44KWVXPIlc3N) | 3:16 | 2021-02-05 | 2022-07-21 |
 | [City Club](https://open.spotify.com/track/6Ig2iLUX11ZNpI7EBCZqyt) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl) | 3:16 | 2022-07-22 | 2023-03-02 |
+| [Cold Summers](https://open.spotify.com/track/4YabnnOnPOl4O9kxy5jsud) | [Crepes](https://open.spotify.com/artist/12yjnt2kvKe5RpkvcUd4fh) | [Cold Summers EP](https://open.spotify.com/album/7Mpey35fVNBAXODN0efPpj) | 2:54 | 2025-02-07 |  |
 | [Confusion](https://open.spotify.com/track/0Lma40kLsYvMajHBwiYmll) | [SURREALISTICMIND](https://open.spotify.com/artist/54VIO47xY3Nf5FXHNsm1Ue) | [Confusion](https://open.spotify.com/album/2FQWRODsYQe7rZxL5yDLhW) | 3:55 | 2023-07-13 | 2025-02-08 |
 | [Cooking Up Something Good](https://open.spotify.com/track/0sXE78JmUFQCZNl4TQHjjp) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/0Skv3s5A99n7dstiJOs0aA) | 2:41 | 2021-02-05 | 2022-07-05 |
 | [cool enough](https://open.spotify.com/track/4nuufyyd7Dn6DMuG96RYTQ) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [cool enough](https://open.spotify.com/album/4LzdBLavKnpsJvMnu4reIe) | 3:15 | 2021-08-27 | 2022-07-01 |
@@ -271,7 +272,7 @@
 | [She's a Riot](https://open.spotify.com/track/4xy9nsO8EX4OR0c6lf0WFu) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Learn to Exist](https://open.spotify.com/album/3DWhWfiW17a3UbKhdGCyyt) | 3:41 | 2023-05-22 | 2023-07-14 |
 | [Shout It From Aloud](https://open.spotify.com/track/6QhMC49OkL4KJVXOleKkjW) | [ZORB](https://open.spotify.com/artist/2Vgs3PvnxQXophunupTaRH) | [Shout It From Aloud](https://open.spotify.com/album/0OdbfDY4Uh8ymZLrj6dhg1) | 3:59 | 2023-07-13 |  |
 | [Simpin'](https://open.spotify.com/track/1Pb4lLhmdKfTgODHT72ngq) | [LAZY GHOST](https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz) | [Simpin'](https://open.spotify.com/album/493qZRGlg8auYOJGtj81Ze) | 3:33 | 2025-02-07 |  |
-| [Sir Gawain & The Green Knight \- Live at Hohm Studios](https://open.spotify.com/track/78pPqUKcTVZn5OWSEFj3Co) | [X Ray Cat Trio](https://open.spotify.com/artist/0svwXnp9MWMjm4AnbeXNz4) | [Sir Gawain & The Green Knight \(Live at Hohm\)](https://open.spotify.com/album/49NMDjgUsS2GqIVicEI4lP) | 3:23 | 2023-07-13 |  |
+| [Sir Gawain & The Green Knight \- Live at Hohm Studios](https://open.spotify.com/track/78pPqUKcTVZn5OWSEFj3Co) | [X Ray Cat Trio](https://open.spotify.com/artist/0svwXnp9MWMjm4AnbeXNz4) | [Sir Gawain & The Green Knight \(Live at Hohm\)](https://open.spotify.com/album/49NMDjgUsS2GqIVicEI4lP) | 3:23 | 2023-07-13 | 2025-03-22 |
 | [Sk8 Hi](https://open.spotify.com/track/253tZyRP0qeH35ch1LVnIP) | [The Moonjacks](https://open.spotify.com/artist/4AqRJ5gzqsHLsIIfBZWT16) | [Bad Guy Stuff](https://open.spotify.com/album/0F017i7jFkJ40Iovj428zv) | 2:34 | 2022-09-15 | 2022-11-30 |
 | [Sociedad de Fideos Fríos de Japón](https://open.spotify.com/track/2QkPmNXgmCzqbcdoYNOfhi) | [Los Tiros](https://open.spotify.com/artist/15hYqXim8Ss0qmd7w3RbmP) | [La Trilogía del Error](https://open.spotify.com/album/3xUqRU9N9FklbpLid4110z) | 2:54 | 2023-07-13 | 2025-02-08 |
 | [Soft Rock Band](https://open.spotify.com/track/5XufqHphZkJhIkc5wlEST7) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Soft Rock Band](https://open.spotify.com/album/5iovC6HGeUUD5S8cahSw0m) | 8:12 | 2025-02-07 |  |

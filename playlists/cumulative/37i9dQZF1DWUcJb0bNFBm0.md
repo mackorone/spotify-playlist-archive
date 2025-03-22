@@ -4,7 +4,7 @@
 
 > Noise distortion amongst the hazy clouds ☁️  \(Cover: Commemorate\)
 
-196 songs - 13 hr 37 min
+197 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Endless Emotions](https://open.spotify.com/track/5q0hWAGPxg7pwctEzntHAU) | [Death Of Heather](https://open.spotify.com/artist/3O2fulTH5rTS4ttjPPI4rS) | [Forever](https://open.spotify.com/album/5jTFdGObfWZEideEm391F2) | 5:19 | 2024-06-27 |  |
 | [Esc](https://open.spotify.com/track/3R7957ht76bjPzfP5YH0dh) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [Angel interview](https://open.spotify.com/album/71nETOcHFhXdn9gp8bZsjT) | 4:23 | 2024-11-28 | 2024-12-05 |
 | [Fading](https://open.spotify.com/track/3EUbcTDN7japhhDGsDvlZP) | [Thread Needle](https://open.spotify.com/artist/3czEitwqO6z78ZUNlHlp77) | [Fading](https://open.spotify.com/album/3hzIziLoqcCrFwg1oBnfrV) | 4:33 | 2024-06-27 | 2024-12-05 |
+| [Fading](https://open.spotify.com/track/1Vl7oJHZWzyQYROZAwqo29) | [Withered Whispers](https://open.spotify.com/artist/3uG0BjYEeeRvTRm75rWJD7) | [Fading](https://open.spotify.com/album/4Squ5XKPXdotAv4zTCzYse) | 3:31 | 2025-03-21 |  |
 | [Faith](https://open.spotify.com/track/1PI1AYbn0QXlFSrfxHMoyK) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Songs of The Hazy Memories](https://open.spotify.com/album/4mlgz1lwErzQAyjgPa57t1) | 3:04 | 2025-01-23 |  |
 | [farewell](https://open.spotify.com/track/4nhQgXGvIDZmQR5GG7urbF) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [farewell](https://open.spotify.com/album/3zI5YFsZPqgzexM8CJijQJ) | 3:40 | 2025-02-13 |  |
 | [farewell handshake](https://open.spotify.com/track/7phUmq6hzPD6Rp17G4s30w) | [Phantom Haze](https://open.spotify.com/artist/68vrmU1aYdSG3azBjle63Q) | [farewell handshake](https://open.spotify.com/album/5oBH2o0hJ1xtU0H2tkQuHO) | 2:59 | 2025-02-20 |  |

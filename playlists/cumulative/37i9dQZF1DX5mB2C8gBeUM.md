@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Graham Barham
 
-506 songs - 1 day 1 hr 5 min
+508 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [K\[no\]w Better](https://open.spotify.com/track/44HYuoGSPTgV8yKXccrOuW) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 2:47 | 2023-02-24 | 2024-04-19 |
 | [K\[no\]w Better](https://open.spotify.com/track/4oPZQzSt5mD8BxV2T9zbzI) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [K\[no\]w Better](https://open.spotify.com/album/4IF6tCmUA0seAPrh4rUABg) | 2:47 | 2022-07-22 |  |
 | [Karma](https://open.spotify.com/track/70Y4SxunX8iVvBLzjEukyE) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Karma](https://open.spotify.com/album/2uFl4pMQtGIlGN3onYvxfg) | 3:08 | 2022-07-08 | 2022-07-23 |
+| [KICKED OUTTA HEAVEN](https://open.spotify.com/track/56gBSM3gpNLjBJhDD4cMAh) | [Conor Matthews](https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq) | [KICKED OUTTA HEAVEN](https://open.spotify.com/album/4QMT7w6N35nax2jsbFhZrf) | 2:22 | 2025-03-21 |  |
 | [Kids](https://open.spotify.com/track/2EJBb3MDWCoXh5vRntYVP4) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Kids](https://open.spotify.com/album/7r07SSu50xNwGjkNCLVEd9) | 3:57 | 2021-12-10 | 2022-06-11 |
 | [Kiss About It](https://open.spotify.com/track/4atQ9Mu2f3s4ym4U2y811i) | [Cash Campbell](https://open.spotify.com/artist/57niI6IBcl5QLGLY45pEdw) | [Kiss About It](https://open.spotify.com/album/0H8cRuaKhqv98RjOWowmN7) | 3:16 | 2021-12-10 | 2022-02-26 |
 | [Knock Yourself Out](https://open.spotify.com/track/6EYP9xedLZbzYh5TBEaVe1) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Knock Yourself Out](https://open.spotify.com/album/1KWDJUAB0w0oxqF3KdmAH9) | 2:52 | 2021-12-10 | 2024-04-13 |
@@ -477,6 +478,7 @@
 | [We Met Too Young](https://open.spotify.com/track/2b81fjvZeVKXWDa2mv9iom) | [Eric Reprid](https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR) | [We Met Too Young](https://open.spotify.com/album/4M3Ndgpwxd7xJwIXPLrfpF) | 2:31 | 2022-10-14 | 2023-01-04 |
 | [Welcome to the Club](https://open.spotify.com/track/1ve542s6OQNdpgtJEcUTvx) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Welcome to the Club](https://open.spotify.com/album/39lqBskpYDfWOYwGwKMk8I) | 3:09 | 2023-10-06 | 2024-04-13 |
 | [Welcome to the Club](https://open.spotify.com/track/4hhDTWA9dgmnPft1SDq26V) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Welcome to the Club](https://open.spotify.com/album/4ZF1tYfrslqA8g4v8cO1nW) | 3:09 | 2022-02-18 | 2023-11-04 |
+| [What Goes Around \- Remix](https://open.spotify.com/track/1kReuUaX2FioljjBiUHsVv) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH), [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m), [Chris Ardoin](https://open.spotify.com/artist/0ejKajmLi2MClrte6SV5BC) | [What Goes Around \(Remix\)](https://open.spotify.com/album/5dWIDMsair3aCiZQPhEV5x) | 3:40 | 2025-03-21 |  |
 | [What Goes Around Comes Around](https://open.spotify.com/track/2qNSWj0RK7vcWBy7bBQKjR) | [El Ray](https://open.spotify.com/artist/32pa3a2Tu9C4TmrAtN6cyO) | [What Goes Around Comes Around](https://open.spotify.com/album/1In7ivLqLjKBVPPAbj5g8r) | 2:57 | 2023-05-19 |  |
 | [What If We Never Met](https://open.spotify.com/track/4qao4AOEDlrKRL8HVsSrp6) | [Wild Fire](https://open.spotify.com/artist/3R2bn1e34SskxOaoM4XmD2) | [What If We Never Met](https://open.spotify.com/album/6A8oaHU3swEB7fl0nD5nyk) | 3:51 | 2022-02-18 | 2022-10-02 |
 | [What You Waiting On](https://open.spotify.com/track/3IuQhTGbYThnkKKTco4ylf) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [What You Waiting On](https://open.spotify.com/album/4ryBeV911Ub8Z4nEG51dZO) | 2:38 | 2022-10-28 |  |

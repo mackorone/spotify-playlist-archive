@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Ed Sheeran",
-  "num_followers": 194986,
+  "num_followers": 195092,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8FC8QAAAACbYFb3AmzA25GKSGqv/zYL",
+  "snapshot_id": "Z9zkcgAAAACmYgGANAHiBj1IyOFAA9kZ",
   "tracks": [
     {
       "added_at": "2024-08-16 04:00:00",
@@ -39,6 +39,22 @@
       "duration_ms": 267700,
       "name": "The scientist",
       "url": "https://open.spotify.com/track/45G5DwgpBq8Sr6o1dFuO2I"
+    },
+    {
+      "added_at": "2025-03-21 04:00:50",
+      "album": {
+        "name": "Adore You (Cover)",
+        "url": "https://open.spotify.com/album/1yLN3t4vjc9icZS3PDVFEA"
+      },
+      "artists": [
+        {
+          "name": "Brittany Broski",
+          "url": "https://open.spotify.com/artist/4bvnxCtWPHufMtiQQuT8nW"
+        }
+      ],
+      "duration_ms": 190465,
+      "name": "Adore You (Cover)",
+      "url": "https://open.spotify.com/track/3EjpCZCZVel9a89Hyr1lJ6"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1035,22 +1051,6 @@
       "duration_ms": 200171,
       "name": "Ordinary World",
       "url": "https://open.spotify.com/track/39U6XUBZeq9Ibmfd6xllZM"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/5bzQOredYZZ0gV4bRNbg0P"
-      },
-      "artists": [
-        {
-          "name": "Amanda Jackson Band",
-          "url": "https://open.spotify.com/artist/1rsnYoKcEZ9G1DdqSGzoYm"
-        }
-      ],
-      "duration_ms": 263800,
-      "name": "Don't Dream It's Over",
-      "url": "https://open.spotify.com/track/20AJoXd1SjRLmoyCNFjAKm"
     },
     {
       "added_at": "2024-08-16 04:00:00",

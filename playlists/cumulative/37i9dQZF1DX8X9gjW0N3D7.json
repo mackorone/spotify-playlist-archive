@@ -299,6 +299,24 @@
     },
     {
       "album": {
+        "name": "Cr\u00e8ve-Coeur",
+        "url": "https://open.spotify.com/album/2AUEiDEgNGvJBquq61suDN"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9onie Gray",
+          "url": "https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194817,
+      "name": "Chaotique",
+      "url": "https://open.spotify.com/track/5FK2YmzIrzkUIXxuidkXkS"
+    },
+    {
+      "album": {
         "name": "Chasing Sunsets (V.F)",
         "url": "https://open.spotify.com/album/44t8sMpi3uiGbK7E9z22tu"
       },
@@ -1095,7 +1113,7 @@
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 191065,
+      "duration_ms": 190942,
       "name": "Jouer pour jouer",
       "url": "https://open.spotify.com/track/1P1W8f5D0BXyw4GzwkfSCY"
     },
@@ -1946,7 +1964,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 168804,
       "name": "Pris mes jambes \u00e0 mon cou",
       "url": "https://open.spotify.com/track/5eOVmRGm4DERbVGt5Gxy0k"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-01",
-  "description": "Brand new music from Aitch, YUNGBLUD and more!",
+  "description": "Brand new music from Jack Harlow & Doja Cat, Aitch, YUNGBLUD and more!",
   "name": "New Music Friday UK",
   "tracks": [
     {
@@ -20176,24 +20176,6 @@
       "duration_ms": 251768,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/46YtvsW5mJyp3slPgOhBKD"
-    },
-    {
-      "album": {
-        "name": "Proud",
-        "url": "https://open.spotify.com/album/4x076qhw4E5POtKrEx3lDK"
-      },
-      "artists": [
-        {
-          "name": "Grace VanderWaal",
-          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
-        }
-      ],
-      "date_added": "2025-03-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 152193,
-      "name": "Babydoll (feat. Aliyah's Interlude)",
-      "url": "https://open.spotify.com/track/5Bnno6b2mmVozAO80DaA6T"
     },
     {
       "album": {
@@ -141031,6 +141013,28 @@
     },
     {
       "album": {
+        "name": "Just Us (feat. Doja Cat)",
+        "url": "https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172877,
+      "name": "Just Us (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l"
+    },
+    {
+      "album": {
         "name": "Justice & Mercy",
         "url": "https://open.spotify.com/album/2Hn2edDFVuuyfrAuE2Qe8F"
       },
@@ -158090,6 +158094,24 @@
       "duration_ms": 206024,
       "name": "Love in the Room",
       "url": "https://open.spotify.com/track/6BMecgu6LR8v2dzl0ZXWGZ"
+    },
+    {
+      "album": {
+        "name": "love inside",
+        "url": "https://open.spotify.com/album/7MgVmJg1LM2GxctDCSMqGQ"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "love inside",
+      "url": "https://open.spotify.com/track/0uJlMqOZcSY0GvQxFpKqNY"
     },
     {
       "album": {
@@ -207627,6 +207649,24 @@
     },
     {
       "album": {
+        "name": "Proud",
+        "url": "https://open.spotify.com/album/4x076qhw4E5POtKrEx3lDK"
+      },
+      "artists": [
+        {
+          "name": "Grace VanderWaal",
+          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152193,
+      "name": "Proud",
+      "url": "https://open.spotify.com/track/5Bnno6b2mmVozAO80DaA6T"
+    },
+    {
+      "album": {
         "name": "Soundtrack",
         "url": "https://open.spotify.com/album/0pJJfypvH2WkPbIcNsSbif"
       },
@@ -210804,6 +210844,24 @@
       "duration_ms": 167441,
       "name": "rampage",
       "url": "https://open.spotify.com/track/2E5MrNoJuqwBhhxIp5v8F2"
+    },
+    {
+      "album": {
+        "name": "Ran Out",
+        "url": "https://open.spotify.com/album/0ZGvj7akN44GAG6ZBigTIq"
+      },
+      "artists": [
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142768,
+      "name": "Ran Out",
+      "url": "https://open.spotify.com/track/6gR9K14ED3UuhVIu4t9LTk"
     },
     {
       "album": {

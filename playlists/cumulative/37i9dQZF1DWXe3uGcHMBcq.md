@@ -4,7 +4,7 @@
 
 > Sing along to your favorite Disney Channel hits including songs from Descendants: The Rise Of Red, now streaming on Disney+.
 
-182 songs - 8 hr 42 min
+183 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Can I Have This Dance](https://open.spotify.com/track/6YXG34IWbilypPwjBTOrUC) | [High School Musical Cast](https://open.spotify.com/artist/2gUMs9PE8XZVQyzCDqaYmW), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE), [Zac Efron](https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical 3: Senior Year](https://open.spotify.com/album/6j8k5gIeWzXapGKTVaZzER) | 4:03 | 2024-05-22 |  |
 | [Can't Back Down \- From "Camp Rock 2: The Final Jam"](https://open.spotify.com/track/51NrdlQOSTeq0d6U7xRKsz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Alyson Stoner](https://open.spotify.com/artist/5ZuWrQzWBgJXbAfcLx2WTL), [Anna Maria Perez de Taglé](https://open.spotify.com/artist/4Sq9ZAY2paQJhzhuBSRoKf), [Char Ligera](https://open.spotify.com/artist/2h9CHSuQGKaM74UFj8MYDt) | [Camp Rock 2: The Final Jam](https://open.spotify.com/album/5iK842b9xnZblgZkRxWCFe) | 3:19 | 2024-05-22 |  |
 | [Can't Fake It](https://open.spotify.com/track/0ocTT0J237xFSe33Pd7GO7) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [Can't Fake It](https://open.spotify.com/album/73CFBKvVMctTN6BkQhTPsl) | 2:49 | 2025-02-04 |  |
+| [Can't Stop Singing \- From "Teen Beach Movie"/Soundtrack Version](https://open.spotify.com/track/2adTfABiJJQpZWlujYO3Qo) | [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Maia Mitchell](https://open.spotify.com/artist/3730ZT92AjnEzC83q5RzDC) | [Teen Beach Movie](https://open.spotify.com/album/5ANe5AfOnYydm3lXELfiHF) | 2:25 | 2025-03-21 |  |
 | [Change Me \- From "The Proud Family: Louder and Prouder"](https://open.spotify.com/track/2n7DYdZiCIx6KxNtVBZKad) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [Change Me \(From "The Proud Family: Louder and Prouder"\)](https://open.spotify.com/album/7E6QCxngI7Lvstdc79qfoV) | 1:10 | 2024-05-22 |  |
 | [Chillin' Like a Villain](https://open.spotify.com/track/1rM0CnyUiiw6A9CHJRXjZA) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [Cameron Boyce](https://open.spotify.com/artist/4uBD3fsHzb3IpOTGpicsbH), [Booboo Stewart](https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ), [Mitchell Hope](https://open.spotify.com/artist/2uTXJwJ1Q9PA2ji51RWeQm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants 2 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/4Rk63Jz61wwbmQru0PdltI) | 3:13 | 2024-05-22 |  |
 | [Christmas Again](https://open.spotify.com/track/5wVIYvdUYoL8cPhf5erVTx) | [Scarlett Estevez](https://open.spotify.com/artist/7vtaa3f6pG08gYqAs2l9fk) | [Christmas Again \(Original Soundtrack\)](https://open.spotify.com/album/2p2vhl9JhrEgLHufU2ynjT) | 3:04 | 2024-05-22 |  |

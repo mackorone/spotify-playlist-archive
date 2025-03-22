@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 
 > Calming and inspiring piano music for yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,112 likes - 100 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,134 likes - 100 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 | 9 | [Lost](https://open.spotify.com/track/3vVX3isRZBNkNm5MgGXlST) | [Conor Flanagan](https://open.spotify.com/artist/2jWT6fuYQO2r65UmMCN3kA) | [Lost](https://open.spotify.com/album/7qh8ZeENbL9E9E0Ztsv2it) | 2:08 |
 | 10 | [Automne Nordique](https://open.spotify.com/track/2ujxJqOusPaIhbeej7zaXv) | [Léon Branche](https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm) | [Automne Nordique](https://open.spotify.com/album/2CJKxKIUE2IxWHIAkVbQEo) | 1:57 |
 | 11 | [Vertigini](https://open.spotify.com/track/5FzjFbaz91mxF5WHM0xLGi) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Vertigini](https://open.spotify.com/album/1IfQvziChTayQGpZU6RCif) | 2:00 |
-| 12 | [Home](https://open.spotify.com/track/3sF8rdn65dXv7LJzulrMs7) | [Volaire](https://open.spotify.com/artist/3uElPHhO2Hl3jQUAEWWAfn) | [Home](https://open.spotify.com/album/27cY8yW58sSoNpaLSfnHfd) | 2:46 |
+| 12 | [Home](https://open.spotify.com/track/3sF8rdn65dXv7LJzulrMs7) | [Volaire](https://open.spotify.com/artist/3dFmUiJl02NDBRTaZlOfWe) | [Home](https://open.spotify.com/album/27cY8yW58sSoNpaLSfnHfd) | 2:46 |
 | 13 | [Physichromie](https://open.spotify.com/track/1YFRuuXsbnVcO5uQPdrJK7) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Physichromie](https://open.spotify.com/album/7MO6O6OmNEN4Wjz6eO9t0g) | 2:30 |
 | 14 | [Cloudscape](https://open.spotify.com/track/2jMHW6iPBdG4AbtvNGona5) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Cloudscape](https://open.spotify.com/album/5wwrR5aEmGMxemHKT9GnxS) | 2:31 |
 | 15 | [Peaceful](https://open.spotify.com/track/3TfhNUPkPtL9UaAZgGsEVO) | [Kyo Himura](https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1) | [Peaceful](https://open.spotify.com/album/4YFUurIBWEG22kvoKAEv1F) | 2:49 |

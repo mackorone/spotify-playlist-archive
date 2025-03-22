@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,361 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,431 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 99 | [Ride With You](https://open.spotify.com/track/45A9rZ2Q6cyNBIZ0ZHgRZF) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Ben Browning](https://open.spotify.com/artist/497VSHqaZA32b7tgCETFEH) | [Blame It All On Love](https://open.spotify.com/album/2NAh86oxJEBiOREIiCK9KW) | 4:14 |
 | 100 | [Promised Land](https://open.spotify.com/track/3xTNnjPANR2lwUagT8zDxc) | [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [Promised Land](https://open.spotify.com/album/55n66gPx07Qtmv96vbCDSk) | 3:34 |
 
-Snapshot ID: `Z8qJfAAAAAAZFahOB4cHdVaAKjVz5YaW`
+Snapshot ID: `Z92TDwAAAADN2dDYhG5sc50PhueN8N8Q`

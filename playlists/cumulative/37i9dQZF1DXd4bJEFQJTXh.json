@@ -916,7 +916,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 199440,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/7r8JDlUEYeIqBg6dLBIb8P"
@@ -4138,6 +4138,28 @@
       "duration_ms": 112205,
       "name": "Un Poco Loco",
       "url": "https://open.spotify.com/track/0OFknyqxmSQ42SoKxWVTok"
+    },
+    {
+      "album": {
+        "name": "Waiting On A Wish (From \"Disney's Snow White\")",
+        "url": "https://open.spotify.com/album/4ez3Q65TegsMzFo48VrVDS"
+      },
+      "artists": [
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291586,
+      "name": "Waiting On A Wish - From \"Disney's Snow White\"",
+      "url": "https://open.spotify.com/track/0m7fCJPgt8LLokpr3t60Vx"
     },
     {
       "album": {

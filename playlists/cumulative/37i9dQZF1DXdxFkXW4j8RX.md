@@ -4,7 +4,7 @@
 
 > La casa de lxs MC's\. Foto: Jonas Sanche, Soulnastyy & Movimiento Original
 
-231 songs - 13 hr 9 min
+232 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Dios Te Ve](https://open.spotify.com/track/644wcyUTuKfqqRFgiRPxLb) | [Rapbrina](https://open.spotify.com/artist/1EyiBRCckhWPHwGrm2VVUi), [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [SanLee](https://open.spotify.com/artist/1eTsr3prd9jXorf7m41avj) | [Dios Te Ve](https://open.spotify.com/album/7H5Zwt19t2KoQnLqztkloJ) | 3:35 | 2024-03-01 | 2025-01-17 |
 | [Directo de Puente Alto](https://open.spotify.com/track/4iyxbAOKkF9nVLSPVmGPnT) | [Omega El CTM](https://open.spotify.com/artist/0tXcalxqLUWMRZVfj1xtkP) | [Directo de Puente Alto](https://open.spotify.com/album/7t4LysFl3h9gBQcl2WWR7e) | 2:29 | 2024-03-29 | 2024-07-06 |
 | [Don't Stop](https://open.spotify.com/track/7pNk0wJBkt30rKifsPUt04) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Don't Stop](https://open.spotify.com/album/1zuzyKT3Z063oxlvNcQgLq) | 3:33 | 2022-01-06 | 2025-02-14 |
+| [Don´t Stop \- En Vivo](https://open.spotify.com/track/5bTtgTUcCh38rjjhULrfe6) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc) | [Deja Vu & Friends \(En Vivo\)](https://open.spotify.com/album/0vzARvVBH6MK2YJnq89MmR) | 3:02 | 2025-03-21 |  |
 | [Dónde Está](https://open.spotify.com/track/0GIRx9kPVvTdLSkVSUiUkv) | [Terrible](https://open.spotify.com/artist/1b8mm6QmyRah9dIxduf1Z9), [Dj Web](https://open.spotify.com/artist/4B1YzgOvLKNQRVIkIM6PFb), [Italo Viveros](https://open.spotify.com/artist/1x2Y2Ryhaps9TUDSeJf2AZ) | [Dónde Está](https://open.spotify.com/album/6MZ4drXEEWrE78nKyQr4aW) | 3:26 | 2022-01-06 | 2024-09-27 |
 | [E\. U\. C\. S\. L.](https://open.spotify.com/track/1UgJaQryfcS2vQHlv4Jm8I) | [Stailok](https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi), [Shugar](https://open.spotify.com/artist/0KJpaKiDgqvcl7XuqjvKF2) | [E\. U\. C\. S\. L.](https://open.spotify.com/album/7dKyqjoh2PFr0ZHIX7Gg4l) | 3:13 | 2022-01-06 |  |
 | [El Juego Verdadero](https://open.spotify.com/track/4B340T1UHtY9aY8PrHzmCf) | [Tiro De Gracia](https://open.spotify.com/artist/3yIbPI61iAhMptDnfnyScb) | [Chile veranista](https://open.spotify.com/album/5MDtYqdtD77Lqz3S79T93z) | 3:12 | 2023-11-24 | 2024-04-19 |

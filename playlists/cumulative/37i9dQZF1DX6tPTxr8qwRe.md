@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Nxdia
+> Dark, hard hitting pop\. Cover: Ashnikko
 
-859 songs - 1 day 15 hr 38 min
+861 songs - 1 day 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [DIVINE CEO](https://open.spotify.com/track/3BPHo1p02WqGa2IEnO6G2H) | [LuLuYam](https://open.spotify.com/artist/4TAg5ckpTlxXLPTJW4eDMo) | [DIVINE CEO](https://open.spotify.com/album/53byhoZELZngPlPwbpOyWb) | 3:41 | 2024-06-21 | 2025-01-25 |
 | [DIY \(From “American Song Contest”\)](https://open.spotify.com/track/4JW9qAFkAuPkENUEDvO4hr) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [American Song Contest: Episode 4](https://open.spotify.com/album/5tLEwslxrLWstMLpvNflyc) | 2:39 | 2022-04-15 | 2022-09-03 |
 | [Do or Die](https://open.spotify.com/track/3cbxDXAReyXQj8Ri5cAh5e) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Do or Die](https://open.spotify.com/album/3u5w7GyGSddv0OadCcjvR2) | 2:30 | 2023-08-25 | 2024-01-20 |
-| [Do You Hate Me?](https://open.spotify.com/track/1aHFl2Phf6PRMj1Mt1065m) | [Tender Misfit](https://open.spotify.com/artist/1fkaNNQRGflvAClVJM0b6I) | [Do You Hate Me? EP](https://open.spotify.com/album/0abHrs7DkJU4rXHgCCBtgt) | 3:08 | 2024-11-15 |  |
+| [Do You Hate Me?](https://open.spotify.com/track/1aHFl2Phf6PRMj1Mt1065m) | [Tender Misfit](https://open.spotify.com/artist/1fkaNNQRGflvAClVJM0b6I) | [Do You Hate Me? EP](https://open.spotify.com/album/0abHrs7DkJU4rXHgCCBtgt) | 3:08 | 2024-11-15 | 2025-03-22 |
 | [Doing Better](https://open.spotify.com/track/6sMEb3eNrQiW2mxrvURMGc) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Doing Better](https://open.spotify.com/album/64WbXlIjvrqkf5AI019x0L) | 2:33 | 2024-03-01 | 2024-06-08 |
 | [DOLLFACE](https://open.spotify.com/track/3gL9Jv6egpdDp1znk8XFJS) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT), [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [DOLLFACE](https://open.spotify.com/album/2Wy6NQSU8DschVzSF2UCcA) | 1:47 | 2024-03-22 | 2024-06-29 |
 | [Dolls](https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls](https://open.spotify.com/album/6NgwO4JwL6tuwwQObi0HBe) | 2:12 | 2022-07-15 | 2022-09-17 |
@@ -330,6 +330,7 @@
 | [Guess](https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 | 2024-06-14 | 2024-10-12 |
 | [guts](https://open.spotify.com/track/4vSQyjPdcJRxvZLmKKZITo) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [guts](https://open.spotify.com/album/3ZQ8tEoq23WOEz53Xr8n9Z) | 3:32 | 2024-04-26 | 2024-06-01 |
 | [GØD](https://open.spotify.com/track/3Ycwfj94uJWSsAyaMoOkZF) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [GØD](https://open.spotify.com/album/7qD49vJQcp5IwNXSgFo5Ut) | 3:38 | 2025-01-10 |  |
+| [hahaha](https://open.spotify.com/track/510v9v67yjxZVO9hMHmk29) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [hahaha](https://open.spotify.com/album/7rCtOsWYbpoYsZm3fzp1KQ) | 2:24 | 2025-03-21 |  |
 | [Halloweenie IV: Innards](https://open.spotify.com/track/2hwUHHqLSEue41V952MtD2) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie IV: Innards](https://open.spotify.com/album/2AWdSvqkBNvj9eeM48KQTJ) | 2:50 | 2021-10-29 | 2022-02-19 |
 | [Happier Than Ever \- Edit](https://open.spotify.com/track/3Wc4jQhzto9iZehUirrzcM) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Happier Than Ever](https://open.spotify.com/album/6Yg2WbhAn0F3vFiwFnC7wO) | 2:05 | 2022-06-17 | 2022-10-08 |
 | [Happy](https://open.spotify.com/track/6DXI5kHhGs2yrWFPFsecm1) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Happy](https://open.spotify.com/album/09Pmkia3NOqY9TOhTgS2Un) | 2:44 | 2023-04-28 | 2023-08-19 |
@@ -397,7 +398,7 @@
 | [i should’ve fucked your brother](https://open.spotify.com/track/03moFmOsgmGXeioNYAoRf1) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [i should’ve fucked your brother](https://open.spotify.com/album/2gJ0I8ch7Jq8vSa1tt8A7U) | 3:15 | 2023-07-14 | 2023-11-11 |
 | [I Spit On Your Grave](https://open.spotify.com/track/1Nlr6AqQHfh79yFabmu2EF) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [I Spit On Your Grave](https://open.spotify.com/album/7CfzmC5Xq20b1UQbO4fHkM) | 3:39 | 2021-12-17 | 2022-03-18 |
 | [I THINK YOU TURNED ME](https://open.spotify.com/track/60WZdX2EIKz5QWt6KXcgd0) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [I THINK YOU TURNED ME](https://open.spotify.com/album/3vEwn7lE02KAqyueIsflyl) | 2:12 | 2022-06-24 | 2022-09-17 |
-| [i wish](https://open.spotify.com/track/5J8f0H43kDCcBI3IilbRxm) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [i wish](https://open.spotify.com/album/09XXbAhCYqLMKqwNbYRvWX) | 3:10 | 2024-11-15 |  |
+| [i wish](https://open.spotify.com/track/5J8f0H43kDCcBI3IilbRxm) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [i wish](https://open.spotify.com/album/09XXbAhCYqLMKqwNbYRvWX) | 3:10 | 2024-11-15 | 2025-03-22 |
 | [I Wish I Gave You Hell](https://open.spotify.com/track/7iNGrDHPTT8ZVEjPS8Lo13) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [I Wish I Gave You Hell](https://open.spotify.com/album/08s3DeMH86rfM9Nso6qqB3) | 3:39 | 2024-06-14 | 2024-09-14 |
 | [I Woke Up](https://open.spotify.com/track/7CSJbewzvnIblizU3aDuIr) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [I Woke Up](https://open.spotify.com/album/40s29e7Y7S6ZlaYyYf520J) | 2:38 | 2024-02-09 | 2024-05-18 |
 | [I'll Just Say It](https://open.spotify.com/track/3OaR8YS7CCELb4nzDcmxMw) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [I'll Just Say It](https://open.spotify.com/album/2rKjWKEvNheSppihIV5OWG) | 2:38 | 2024-08-09 | 2024-09-21 |
@@ -422,6 +423,7 @@
 | [Into My Body](https://open.spotify.com/track/6Idi0H5TS4PwVW91ReBK7z) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Sagittarius](https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25) | 2:24 | 2022-10-28 | 2023-05-06 |
 | [Invasion](https://open.spotify.com/track/4Zzm3yLTEPa2gaiJw0uPNF) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Invasion](https://open.spotify.com/album/3YxxHFu1LsbhfZabdegMm4) | 3:37 | 2024-07-26 | 2024-11-12 |
 | [Irresponsible](https://open.spotify.com/track/60SugyNV4FdewZfktXfXte) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Irresponsible](https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd) | 2:04 | 2023-05-26 | 2023-08-19 |
+| [Itty Bitty](https://open.spotify.com/track/6TxJ6ocfLpkKkY8152ttpM) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Itty Bitty](https://open.spotify.com/album/6cPPkaA7q9UF66afGI945c) | 2:42 | 2025-03-21 |  |
 | [Jared](https://open.spotify.com/track/6SmRJgpCbxzSfM58D401MT) | [LEW](https://open.spotify.com/artist/74wwB8fuPfI5zliwuEy3IS) | [Dead Inside](https://open.spotify.com/album/4jvfJfRKOzPTYdGehufwMJ) | 2:26 | 2025-01-24 |  |
 | [Jennifer's Body](https://open.spotify.com/track/176fR2MtPlctufVYwqoW1j) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Jennifer's Body](https://open.spotify.com/album/1HekaZKhXgi9JpGFODnmHF) | 1:57 | 2024-04-24 | 2024-07-06 |
 | [JET LIKE BENNIE](https://open.spotify.com/track/772rV8Rld38jaLEZSCdFmO) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [JET LIKE BENNIE](https://open.spotify.com/album/7DZkZFkkc6ssSsmGuZgrML) | 1:52 | 2024-01-12 | 2024-04-24 |

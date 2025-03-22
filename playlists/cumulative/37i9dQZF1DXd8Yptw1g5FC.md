@@ -4,7 +4,7 @@
 
 > Rana Türkyılmaz ve haftanın en iyi çıkışları!
 
-482 songs - 1 day 0 hr 25 min
+486 songs - 1 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Evim Ol](https://open.spotify.com/track/1LTFXa1czgbkpxneUAIhUB) | [İkiye On Kala](https://open.spotify.com/artist/1HsQw7SuwmxSH4r2aqF9DB) | [Evim Ol](https://open.spotify.com/album/02qEcDnE2wljAER4b9DXO1) | 2:41 | 2025-02-20 | 2025-02-28 |
 | [Exotica](https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Exotica](https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD) | 2:01 | 2025-02-20 | 2025-02-28 |
 | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 | 2025-02-20 | 2025-02-28 |
+| [Ey Su Gibi Geçen Ömür](https://open.spotify.com/track/5Wec8GnvtyyjX3ot2wCZ5L) | [Celo Boluz](https://open.spotify.com/artist/0HQC7oqM1HTb9WpamssCZ8) | [Ey Su Gibi Geçen Ömür](https://open.spotify.com/album/23zonj5myvNCCkDuyU8cVl) | 2:58 | 2025-03-20 |  |
 | [EĞME BOYUN](https://open.spotify.com/track/1S37vouceN6gR8MJ8GWHfA) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [EĞME BOYUN](https://open.spotify.com/album/183IzHIN6RY3K1QDFg3cC7) | 2:54 | 2025-02-20 | 2025-02-28 |
 | [Fade Away](https://open.spotify.com/track/3g18O05uWxt2YiRu3y6QbA) | [Reaktive](https://open.spotify.com/artist/4HZBOaKcf8FjVoFvdTKoMG) | [Fade Away](https://open.spotify.com/album/4hqmhHcMSpTctDTLTR9EIA) | 3:52 | 2025-03-06 | 2025-03-14 |
 | [Figüran](https://open.spotify.com/track/07vRihShKwpTbqi9OqZp1R) | [Şenceylik](https://open.spotify.com/artist/571gGI6PcQbBN0SZ5QEI5i) | [Figüran](https://open.spotify.com/album/6V4vMLKLKiXIbdgClfLHSs) | 3:07 | 2025-03-13 | 2025-03-21 |
@@ -170,9 +171,9 @@
 | [Gitmeliyim Bu Yerden](https://open.spotify.com/track/39GhYXTxZkxS1MMXN9GWug) | [Çetin Dilsiz](https://open.spotify.com/artist/3xVNtr8NgvJI6VmJ2DoYUs) | [Gitmeliyim Bu Yerden](https://open.spotify.com/album/1A4NY5c6t39cxSUSVYWgnx) | 3:07 | 2025-03-06 | 2025-03-14 |
 | [gitmem lazım artık](https://open.spotify.com/track/6cQmvq068Dcoy5z0UysOgV) | [Boramess](https://open.spotify.com/artist/5lFLt7LoBpqQAmwxfGZ6ui) | [gitmem lazım artık](https://open.spotify.com/album/46sZhfXwKQh0LbKKjpCRHq) | 3:00 | 2025-03-13 | 2025-03-21 |
 | [GOOD CREDIT \(with Kendrick Lamar\)](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-14 | 2025-03-21 |
-| [Gurbet](https://open.spotify.com/track/1Ksqljtj5zkH4F4OyIDkJJ) | [Bilal Grass](https://open.spotify.com/artist/2xEYeE55kwUMbeDcdmSL5x) | [Gurbet](https://open.spotify.com/album/1TZpLs052KEMrciRvCo9D1) | 2:49 | 2025-03-20 |  |
+| [Gurbet](https://open.spotify.com/track/1Ksqljtj5zkH4F4OyIDkJJ) | [Bilal Grass](https://open.spotify.com/artist/2xEYeE55kwUMbeDcdmSL5x) | [Gurbet](https://open.spotify.com/album/1TZpLs052KEMrciRvCo9D1) | 2:49 | 2025-03-20 | 2025-03-22 |
 | [Gökyüzü Hala Mavi](https://open.spotify.com/track/414cMFPrHQ7Mu4o0q5q0sU) | [Mine Özgüle](https://open.spotify.com/artist/15QctPiHcedop0WX3zhRqR) | [Gökyüzü Hala Mavi](https://open.spotify.com/album/3B44tha96EQEMvgqNR8sv9) | 2:46 | 2025-03-13 | 2025-03-21 |
-| [Gönül İşleri](https://open.spotify.com/track/7wkgMGkf6flSPsNySOtDtI) | [Tuğkan](https://open.spotify.com/artist/2h1EEQ0lD01lPKDRGisvL4) | [Gönül İşleri](https://open.spotify.com/album/1EpIf9ZZPOLi1kxtkVZyhk) | 2:54 | 2025-03-20 |  |
+| [Gönül İşleri](https://open.spotify.com/track/7wkgMGkf6flSPsNySOtDtI) | [Tuğkan](https://open.spotify.com/artist/2h1EEQ0lD01lPKDRGisvL4) | [Gönül İşleri](https://open.spotify.com/album/1EpIf9ZZPOLi1kxtkVZyhk) | 2:54 | 2025-03-20 | 2025-03-22 |
 | [Gör Şu Halimi](https://open.spotify.com/track/4mlMmbnxr5AsRDR9ysI3LX) | [Dilhan Şeşen](https://open.spotify.com/artist/3Xq8A0LnlgWAIFOaRM6LE1) | [Gör Şu Halimi](https://open.spotify.com/album/5YoHw6HPiT7Y7TlttB4WhG) | 3:36 | 2025-02-20 | 2025-02-28 |
 | [Görgü Tanığı](https://open.spotify.com/track/5KYHPpGMcy0n7tygR09iLS) | [Niran Ünsal](https://open.spotify.com/artist/1BvyGRrehtERIWjXKsgzWo) | [Görgü Tanığı](https://open.spotify.com/album/1Ue4al0eEJdIEflb0onR3Q) | 3:20 | 2025-02-27 | 2025-03-07 |
 | [GÖRME BENİ](https://open.spotify.com/track/3qZSsr9bUeQjJo9ywtGyxw) | [Arda Dündar](https://open.spotify.com/artist/0UGjN1eEhgcLwVU3hCP97Y) | [GÖRME BENİ](https://open.spotify.com/album/6KSQO5V3jSamGMmm8bWJh6) | 2:26 | 2025-02-27 | 2025-03-07 |
@@ -233,6 +234,7 @@
 | [İşte Yine Karşındayım](https://open.spotify.com/track/6gOTAz37nsQShyHCzaF0HA) | [Haluk Kurosman](https://open.spotify.com/artist/63XdtzUMPQOm0xqzBhJ1rm) | [İşte Yine Karşındayım](https://open.spotify.com/album/4bvTf5hHNru3Dji5u6DwFA) | 4:06 | 2025-03-06 | 2025-03-14 |
 | [i’ll be happy when](https://open.spotify.com/track/3Q3URGmQcp4hbF2ZTgHeDc) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [i'll be happy when](https://open.spotify.com/album/0EG43re9S4RRLXO6WE2gqD) | 2:56 | 2025-02-27 | 2025-03-07 |
 | [Jack Frost](https://open.spotify.com/track/4WMin78MgbTk93MzlGhKQO) | [RUBY](https://open.spotify.com/artist/6cyWo7bTflMmTEeiAwUM7Y) | [Jack Frost](https://open.spotify.com/album/5RMTGva7BV68E1Gxxbxaze) | 2:28 | 2025-02-20 | 2025-02-28 |
+| [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 | 2025-03-20 |  |
 | [Kabuk](https://open.spotify.com/track/3aNQ2qZjAjBxLUlqtRp8Ty) | [$hiro](https://open.spotify.com/artist/50grzYxbB2XSnESRfGI0O7), [Slaymacow](https://open.spotify.com/artist/29WljTzHrPMMAQCFjG2bh7) | [Kabuk](https://open.spotify.com/album/2PYaFrGdvR2SHYouep35Um) | 2:49 | 2025-03-13 | 2025-03-21 |
 | [Kader Torbası](https://open.spotify.com/track/53SH9mqB6u5djyzvNPWLnj) | [Engin Can](https://open.spotify.com/artist/6bROVpgpcRwM7FQqpiPak6) | [Kader Torbası](https://open.spotify.com/album/5X3JItuthidUuSQqX2lAjE) | 3:44 | 2025-03-06 | 2025-03-14 |
 | [kAHpE](https://open.spotify.com/track/1oOkZEqPrAQLpwBsiYKRl8) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [kAHpE](https://open.spotify.com/album/4LJKT3syN0IUiZY4PIz2EQ) | 2:21 | 2025-02-27 | 2025-03-07 |
@@ -477,6 +479,7 @@
 | [Zilli](https://open.spotify.com/track/4UKyuJy0GqMDrcg3IkddDi) | [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs) | [Zilli](https://open.spotify.com/album/0Qjs9wm0hCo0MKA6b8RYnX) | 2:12 | 2025-02-27 | 2025-03-07 |
 | [Zor](https://open.spotify.com/track/4TWOrqfUeXDaC9L8xADu8i) | [Mehmet Elmas](https://open.spotify.com/artist/10BA29Asr9YbvkcBFJixDb) | [Zor](https://open.spotify.com/album/4h199foE8EX2j9QXWEVrqp) | 2:31 | 2025-03-06 | 2025-03-14 |
 | [Çavo](https://open.spotify.com/track/7ucHmf5RiJBCYnAA5rRWf5) | [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s) | [95](https://open.spotify.com/album/4q0hqniub3H5hrLxziUNnM) | 2:09 | 2025-02-27 | 2025-03-07 |
+| [Çelenk](https://open.spotify.com/track/6tqBVhpZ2K6CUbVFPyFwGJ) | [Bora Öztoprak](https://open.spotify.com/artist/6YsJXJZKI0ERDqb3IHBnpy) | [Çelenk](https://open.spotify.com/album/5XheCXlU7uL4YJgVOKqSNE) | 3:45 | 2025-03-20 |  |
 | [ÇIKAR BİRİ KARŞIMA](https://open.spotify.com/track/1iOjOuccQP5gL52dQW8EqW) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [ÇIKAR BİRİ KARŞIMA](https://open.spotify.com/album/2IcwSsMjpDTD30sjGzAS4X) | 2:47 | 2025-02-20 | 2025-02-28 |
 | [Çikolata Love](https://open.spotify.com/track/6v2mQVRkwRTLg1Z034oS98) | [Bahoz & Baran](https://open.spotify.com/artist/4cP6d9sa9B21WHO3MvtOP6) | [Çikolata Love](https://open.spotify.com/album/1sfroMONqvnPD31XH1pg6a) | 2:42 | 2025-03-06 | 2025-03-14 |
 | [Çiçek Açıyor](https://open.spotify.com/track/3HpWj8DChKRuR28pnrHK6p) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [Yarın Yoksa](https://open.spotify.com/album/5l7ypUMco5BLsIYBjIYWay) | 3:34 | 2025-03-13 | 2025-03-21 |
@@ -490,5 +493,6 @@
 | [Üzüldüğüm Zamanlarda](https://open.spotify.com/track/12lZ76ibE7cuD2kIR8D89i) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Üzüldüğüm Zamanlarda](https://open.spotify.com/album/4odY0LnC5NAf2fc8kSCjlH) | 3:07 | 2025-02-27 | 2025-03-07 |
 | [Şahım](https://open.spotify.com/track/7lqwSeCnuK0PDeu5P25YCe) | [Aysel Yakupoğlu](https://open.spotify.com/artist/2ZXIEujgkSOHFk47ra8Z1m) | [Şahım](https://open.spotify.com/album/0mGrSHnv2xqfNoRrnITy1i) | 3:10 | 2025-02-27 | 2025-03-07 |
 | [şimdilik her şey yolunda](https://open.spotify.com/track/4heyFNrgnankITYbOLb9ir) | [sıla argun](https://open.spotify.com/artist/6mIlg9lvCkLijvjN1Gu4eL) | [şimdilik her şey yolunda](https://open.spotify.com/album/2brZBpoF0nPqWBCYDyEsuj) | 2:45 | 2025-03-20 |  |
+| [ŞÜKÜR Kİ DELİRMEDİM](https://open.spotify.com/track/3Virp8bdmG2T0KVJrHwyWH) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [ŞÜKÜR Kİ DELİRMEDİM](https://open.spotify.com/album/1O2zX3ZDEZYU4LcqPik6VQ) | 1:55 | 2025-03-21 |  |
 
 \*This playlist was first scraped on 2025-02-21. Prior content cannot be recovered.

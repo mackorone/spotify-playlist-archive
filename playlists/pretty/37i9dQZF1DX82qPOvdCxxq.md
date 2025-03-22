@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: Olivia Lane \| Artwork: Laina Deene
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,301 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,334 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 99 | [Though I Walk](https://open.spotify.com/track/7GTawGOmJHsHz3cBhpma9W) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI) | [Though I Walk](https://open.spotify.com/album/43lH22LlJmyiY2c9WxCKgy) | 4:14 |
 | 100 | [High](https://open.spotify.com/track/2THAudEkJbc2X0AqWpoU8o) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm), [Adrion Butler](https://open.spotify.com/artist/4IgUUuQrZ1zLIYzsuU0sT5) | [High](https://open.spotify.com/album/3cGCL675KsnnyTX1wkVZgm) | 3:22 |
 
-Snapshot ID: `Z9pBRwAAAAAbhhWYx5mYZGcGicRA5Puu`
+Snapshot ID: `Z90ohAAAAAAYfy+zNcCz+M5Lat+KVb/K`

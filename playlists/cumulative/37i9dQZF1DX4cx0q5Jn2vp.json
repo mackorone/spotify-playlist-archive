@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Bawat Daan",
+        "url": "https://open.spotify.com/album/7GSSjug24nXU7g1FVVwhUX"
+      },
+      "artists": [
+        {
+          "name": "Ebe Dancel",
+          "url": "https://open.spotify.com/artist/543f0NvGig5Moo9XROTUur"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300240,
+      "name": "Bawat Daan",
+      "url": "https://open.spotify.com/track/1hJtJvPX9knMysNDQw0HDJ"
+    },
+    {
+      "album": {
         "name": "Beautiful Love (Free Fire)",
         "url": "https://open.spotify.com/album/3Dukyn15RlALh1JDtQRqO0"
       },
@@ -754,6 +772,24 @@
       "duration_ms": 294583,
       "name": "Dinamalayan",
       "url": "https://open.spotify.com/track/4Ae6ScLqE5PDYouXr9IHNR"
+    },
+    {
+      "album": {
+        "name": "BGYO",
+        "url": "https://open.spotify.com/album/6991pQ2aa8RWzSCobBxGf4"
+      },
+      "artists": [
+        {
+          "name": "BGYO",
+          "url": "https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140774,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/3PKQwa7S5IHhstiTAxWNyL"
     },
     {
       "album": {
@@ -1506,7 +1542,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 171200,
       "name": "I Quit Drinking",
       "url": "https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM"
@@ -1686,7 +1722,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 237609,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/3x39bVlJlxorxZGzBpc2yA"
@@ -2194,7 +2230,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 226301,
       "name": "Makaluma",
       "url": "https://open.spotify.com/track/4DbxowBVFjO0MYLVuggLxp"
@@ -3524,7 +3560,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 180644,
       "name": "What A Man Gotta Do",
       "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"

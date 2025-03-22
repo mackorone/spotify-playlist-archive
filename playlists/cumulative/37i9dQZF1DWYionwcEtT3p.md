@@ -2,7 +2,7 @@
 
 ### [Hip Hop Party](https://open.spotify.com/playlist/37i9dQZF1DWYionwcEtT3p)
 
-> Hip hop hits, version dancefloor !
+> Hip\-hop hits, version dancefloor !
 
 98 songs - 5 hr 35 min
 

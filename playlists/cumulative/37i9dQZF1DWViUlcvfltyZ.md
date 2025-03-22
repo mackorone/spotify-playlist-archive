@@ -4,7 +4,7 @@
 
 > Rock e punk dall'Italia 🎸 Barkee Bay in cover
 
-1,382 songs - 3 day 4 hr 54 min
+1,383 songs - 3 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -699,6 +699,7 @@
 | [LEGRU](https://open.spotify.com/track/1410Leicr5Bo8mr6GLWFP9) | [LEGRU](https://open.spotify.com/artist/0ezq1qgjaNm7JWt987MIbT) | [COMFORT](https://open.spotify.com/album/1Z1WOc7Br7eiXxP9Yd5Ggp) | 3:22 | 2025-01-30 |  |
 | [Legs](https://open.spotify.com/track/7wGxkfrxClixf0pXPu0iM5) | [meatware](https://open.spotify.com/artist/5AFz8Rkw2z1cFRf4GvrTxf) | [Promo Material](https://open.spotify.com/album/6fs5oUyuuT5Lsaj5uTYQoq) | 2:49 | 2025-01-09 | 2025-03-07 |
 | [Lento](https://open.spotify.com/track/1Zf7qzYqsGk9SSWRxerDF0) | [Labissodeigiorniavenire](https://open.spotify.com/artist/6mSVh5QjIeIt1FajKzINZd) | [Lento](https://open.spotify.com/album/3578E1xDOOkKh9mVWCHXAP) | 3:01 | 2022-08-04 | 2022-09-23 |
+| [Let There Be Rocko](https://open.spotify.com/track/6IwpxTQGnP0blZFh27ytSf) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Volevo essere un duro](https://open.spotify.com/album/4ezcDzdWP6orRlN3ft2eCs) | 2:32 | 2025-03-21 |  |
 | [Letargo](https://open.spotify.com/track/23JXspX6QqfrBKDBZMdTua) | [Gegenhalt](https://open.spotify.com/artist/2F1ebm9n9KIEB0gGbkhCCT) | [Tigri](https://open.spotify.com/album/60PIbvxLrInJWT4rmPkKue) | 4:44 | 2024-06-20 | 2024-09-27 |
 | [Liar](https://open.spotify.com/track/7lwYUA3Pa7CIfNQ6slJHNa) | [\(+39\) 375\-649\-94\-64 My Telephone Number](https://open.spotify.com/artist/00xSgiKwSnRaE9zYqlRCoH) | [Liar](https://open.spotify.com/album/2t10TRtYetFnaN8n9NzHJO) | 2:19 | 2024-10-24 | 2024-11-15 |
 | [Libellula](https://open.spotify.com/track/0XbO1VbFRlFlycqvnaNuYn) | [Zagreb](https://open.spotify.com/artist/72ampwyFXEhwaReO0BZ4WY) | [Libellula](https://open.spotify.com/album/4xo1lo7z4A2sawH7WI7Eev) | 3:06 | 2022-06-30 | 2022-10-14 |

@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul.  ",
-  "num_followers": 74874,
+  "num_followers": 74892,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,26 @@
     {
       "added_at": "2025-02-21 08:56:27",
       "album": {
+        "name": "Mitho Laage (The Dewarists, Season 5)",
+        "url": "https://open.spotify.com/album/5f9rbgON0HgEoFlrNUiaJp"
+      },
+      "artists": [
+        {
+          "name": "Dhruv Ghanekar",
+          "url": "https://open.spotify.com/artist/716MYE0ks6nnA2oCJdK3Mb"
+        },
+        {
+          "name": "Mame Khan",
+          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Mitho Laage - The Dewarists, Season 5",
+      "url": "https://open.spotify.com/track/4mjjr1EeynuE236oOWeEMK"
+    },
+    {
+      "added_at": "2025-02-21 08:56:27",
+      "album": {
         "name": "Bandish Bandits Season 2 (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/0Atz7wNsDiGgiPZ1qrq7bF"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 278205,
       "name": "Nirmohiya",
       "url": "https://open.spotify.com/track/09v5TgXyjMKYz7yEkkgMP5"
-    },
-    {
-      "added_at": "2025-02-21 08:56:27",
-      "album": {
-        "name": "Mitho Laage (The Dewarists, Season 5)",
-        "url": "https://open.spotify.com/album/5f9rbgON0HgEoFlrNUiaJp"
-      },
-      "artists": [
-        {
-          "name": "Dhruv Ghanekar",
-          "url": "https://open.spotify.com/artist/716MYE0ks6nnA2oCJdK3Mb"
-        },
-        {
-          "name": "Mame Khan",
-          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Mitho Laage - The Dewarists, Season 5",
-      "url": "https://open.spotify.com/track/4mjjr1EeynuE236oOWeEMK"
     },
     {
       "added_at": "2025-02-21 08:56:27",
@@ -591,18 +591,26 @@
     {
       "added_at": "2025-02-21 08:56:27",
       "album": {
-        "name": "Aaj Jane Ki Zid Na Karo (Coke Studio Season 8)",
-        "url": "https://open.spotify.com/album/1QbyKCQGKRMzm6rWQ1Z0iN"
+        "name": "Coke Studio @ MTV Season 3: Episode 1",
+        "url": "https://open.spotify.com/album/39LmpbWKlJzIC2cBdqVVif"
       },
       "artists": [
         {
-          "name": "Farida Khanum",
-          "url": "https://open.spotify.com/artist/07g02xbfLHmRdZaz5NAWru"
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Farah Siraj",
+          "url": "https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY"
+        },
+        {
+          "name": "Ani Choying Drolma",
+          "url": "https://open.spotify.com/artist/4WDdyyr7KmLpJ6Gf65VQwI"
         }
       ],
-      "duration_ms": 190500,
-      "name": "Aaj Jane Ki Zid Na Karo - Coke Studio Season 8",
-      "url": "https://open.spotify.com/track/6XpEgDZ1YmbzpLECDE59AA"
+      "duration_ms": 432893,
+      "name": "Zariya",
+      "url": "https://open.spotify.com/track/1qm4W0HboioIBvqKcR4KRN"
     },
     {
       "added_at": "2025-02-21 08:56:27",
@@ -631,26 +639,18 @@
     {
       "added_at": "2025-02-21 08:56:27",
       "album": {
-        "name": "Coke Studio @ MTV Season 3: Episode 1",
-        "url": "https://open.spotify.com/album/39LmpbWKlJzIC2cBdqVVif"
+        "name": "Aaj Jane Ki Zid Na Karo (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/1QbyKCQGKRMzm6rWQ1Z0iN"
       },
       "artists": [
         {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Farah Siraj",
-          "url": "https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY"
-        },
-        {
-          "name": "Ani Choying Drolma",
-          "url": "https://open.spotify.com/artist/4WDdyyr7KmLpJ6Gf65VQwI"
+          "name": "Farida Khanum",
+          "url": "https://open.spotify.com/artist/07g02xbfLHmRdZaz5NAWru"
         }
       ],
-      "duration_ms": 432893,
-      "name": "Zariya",
-      "url": "https://open.spotify.com/track/1qm4W0HboioIBvqKcR4KRN"
+      "duration_ms": 190500,
+      "name": "Aaj Jane Ki Zid Na Karo - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/6XpEgDZ1YmbzpLECDE59AA"
     },
     {
       "added_at": "2025-02-21 08:56:27",
@@ -791,26 +791,6 @@
     {
       "added_at": "2025-02-21 08:56:27",
       "album": {
-        "name": "Umran Langiyaan (Coke Studio Season 8)",
-        "url": "https://open.spotify.com/album/4ibe0e62SlJoOu1HFLxEVr"
-      },
-      "artists": [
-        {
-          "name": "Ali Sethi",
-          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
-        },
-        {
-          "name": "Nabeel Shaukat Ali",
-          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
-        }
-      ],
-      "duration_ms": 482625,
-      "name": "Umran Langiyaan - Coke Studio Season 8",
-      "url": "https://open.spotify.com/track/13ku97oiMKs8x01FIj2067"
-    },
-    {
-      "added_at": "2025-02-21 08:56:27",
-      "album": {
         "name": "Coke Studio: Season 9",
         "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 717190,
       "name": "Rang",
       "url": "https://open.spotify.com/track/6EGAJIJkpZ2fEvJv1mlIHe"
+    },
+    {
+      "added_at": "2025-02-21 08:56:27",
+      "album": {
+        "name": "Umran Langiyaan (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/4ibe0e62SlJoOu1HFLxEVr"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        },
+        {
+          "name": "Nabeel Shaukat Ali",
+          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
+        }
+      ],
+      "duration_ms": 482625,
+      "name": "Umran Langiyaan - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/13ku97oiMKs8x01FIj2067"
     },
     {
       "added_at": "2025-02-21 08:56:27",
@@ -915,26 +915,6 @@
     {
       "added_at": "2025-02-21 08:56:27",
       "album": {
-        "name": "Ae Dil Kisi Ki Yaad Mein (Coke Studio Season 8)",
-        "url": "https://open.spotify.com/album/41JZAZycEJOq01horKNToM"
-      },
-      "artists": [
-        {
-          "name": "Sara Haider",
-          "url": "https://open.spotify.com/artist/6wbQXgl1sCmZncfcmdctDB"
-        },
-        {
-          "name": "Ali Zafar",
-          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
-        }
-      ],
-      "duration_ms": 355561,
-      "name": "Ae Dil Kisi Ki Yaad Mein - Coke Studio Season 8",
-      "url": "https://open.spotify.com/track/1eyFwhnhUhLgJSHpxkOQ4q"
-    },
-    {
-      "added_at": "2025-02-21 08:56:27",
-      "album": {
         "name": "Radhe (From Songs of Faith)",
         "url": "https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 218307,
       "name": "Radhe (From Songs of Faith)",
       "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
+    },
+    {
+      "added_at": "2025-02-21 08:56:27",
+      "album": {
+        "name": "Ae Dil Kisi Ki Yaad Mein (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/41JZAZycEJOq01horKNToM"
+      },
+      "artists": [
+        {
+          "name": "Sara Haider",
+          "url": "https://open.spotify.com/artist/6wbQXgl1sCmZncfcmdctDB"
+        },
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        }
+      ],
+      "duration_ms": 355561,
+      "name": "Ae Dil Kisi Ki Yaad Mein - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/1eyFwhnhUhLgJSHpxkOQ4q"
     },
     {
       "added_at": "2025-02-21 08:56:27",

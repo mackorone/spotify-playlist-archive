@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWSGWRWu30rg7)
 
-> Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Jayadi
+> Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Adiva Adelia
 
-4,475 songs - 11 day 10 hr 21 min
+4,476 songs - 11 day 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3903,6 +3903,7 @@
 | [Taman Akhir](https://open.spotify.com/track/35o69idjHCpgnk4IltgGq5) | [Azel](https://open.spotify.com/artist/0OT9xBxbo4EZ1y4GkdVXCb) | [Veermata](https://open.spotify.com/album/3dMAnJ4dgmaN7sdTmqIO37) | 3:54 | 2023-07-21 | 2023-08-04 |
 | [Taman Bermain Uighur](https://open.spotify.com/track/0zXbOzsgIEnI2ilST0h4qa) | [Bias](https://open.spotify.com/artist/5J2IRDEAHkbJY1gNcs7ARo) | [Taman Bermain Uighur](https://open.spotify.com/album/1ShV4VDyXobIq8xdPsZSBq) | 3:36 | 2023-06-22 | 2023-07-07 |
 | [Taman Bunga](https://open.spotify.com/track/4aQhhMr4JCckbtDnZni6JU) | [Emanuel Aji](https://open.spotify.com/artist/5FYYQzEtcNyNpkJrSR5aeo) | [Taman Bunga](https://open.spotify.com/album/1uic5ORJAmPGkSDkM6QOMS) | 4:03 | 2022-09-15 | 2022-09-30 |
+| [Tamasya Dibuka](https://open.spotify.com/track/6OA6ek5hm2o5npUQazEXY3) | [BATDD](https://open.spotify.com/artist/5kKtLpfYwq6zeQ9AEhtSbm) | [Tamasya Dibuka](https://open.spotify.com/album/2stEMeVwQsRP8hH0qjEJzT) | 5:50 | 2025-03-21 |  |
 | [Tamu](https://open.spotify.com/track/38AAIZ6WevrMKFPD4bemvI) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Tentang Waktu](https://open.spotify.com/album/0qLbdkDgtQSuCNrUsUm8dd) | 3:38 | 2022-11-30 | 2023-01-13 |
 | [Tanah](https://open.spotify.com/track/52LVQYizZvQe8AouabmnCn) | [Marapu](https://open.spotify.com/artist/5K8CLtImuocDeFT1mMFXg9) | [Tanah](https://open.spotify.com/album/6DoFTYBenLqvczFLvLa7qq) | 6:02 | 2024-12-05 | 2025-01-17 |
 | [Tanah Kelahiran](https://open.spotify.com/track/7BAyv3nAB7uhngegBpJYRl) | [Elizabeth Sudira](https://open.spotify.com/artist/4UOSPd4p4kVw96wOhriwMX) | [Tanah Kelahiran](https://open.spotify.com/album/0ap9QV9PmS2FvaNPj31kpL) | 3:41 | 2023-08-11 | 2023-08-25 |

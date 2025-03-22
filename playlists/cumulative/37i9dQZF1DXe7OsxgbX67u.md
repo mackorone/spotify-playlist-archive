@@ -4,7 +4,7 @@
 
 > Listen to the music from Invincible, streaming only on Prime Video.
 
-71 songs - 4 hr 17 min
+73 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [I Can Get It Myself \(feat\. Bionik\)](https://open.spotify.com/track/58zkFnI1D8GHNXNrgQrekB) | [Aceyalone](https://open.spotify.com/artist/7CaUk9xCxdXAmmqQn3PLR7), [Bionik](https://open.spotify.com/artist/46ydYG7G0ABYU40mmEgUdA) | [Leanin' on Slick](https://open.spotify.com/album/020XQPs7cEdMspZwVfO6VV) | 2:45 | 2025-02-06 |  |
 | [I Like Myself \(Most Of The Time\)](https://open.spotify.com/track/6EOXpBcrUWT1EVeDuSJNgU) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Solutions](https://open.spotify.com/album/1CJDBCPg27ASz4eWE7oeNz) | 4:05 | 2025-02-06 |  |
 | [Indefinite Atmosphere](https://open.spotify.com/track/2ZnMITslZLW4ZY4IIFgTNI) | [Giovanni Tommaso](https://open.spotify.com/artist/4VcMULKNEFjwurIvv6ZHuG) | [Indefinitive Atmosphere](https://open.spotify.com/album/2nObWlqHbt8boxjX4Mb3xh) | 1:40 | 2025-02-06 |  |
+| [Invincible](https://open.spotify.com/track/6WQJBaBfM1Ow66RIlc43SK) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz) | [Invincible: Vol\. 1 \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/2YqLtiozpeFoScLa7vMCRy) | 4:55 | 2025-03-21 |  |
 | [Karma Police](https://open.spotify.com/track/63OQupATfueTdZMWTxW03A) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:24 | 2025-02-06 |  |
 | [Knock Me Off My Feet](https://open.spotify.com/track/3adNtom9Dn2NXmgHf0OwZR) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 3:07 | 2025-02-06 |  |
 | [Let It All Go](https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Let It All Go](https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw) | 4:40 | 2025-02-06 |  |
@@ -58,6 +59,7 @@
 | [Rock the Bells](https://open.spotify.com/track/33KvuePYdzsx7ZqoTj3rHU) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Mayday](https://open.spotify.com/album/4kfwZY4Em7ktEHQ31LSTA2) | 2:51 | 2025-02-20 |  |
 | [Rocket Fuel \(feat\. De La Soul\)](https://open.spotify.com/track/3ZTRTKx8uqpzqqWOA3JyNN) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Rocket Fuel \(feat\. De La Soul\)](https://open.spotify.com/album/5X3i6maFdxK5xyO5bXGoQ6) | 3:15 | 2025-02-06 |  |
 | [Rubble Kings Theme \(Dynamite\)](https://open.spotify.com/track/5jM0aU1gAjbK26fLQUTBJw) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Rubble Kings: The Album \(Original Music Inspired By The Documentary\)](https://open.spotify.com/album/74O6J1xtV7RHLzymBv2U9y) | 3:42 | 2025-02-06 |  |
+| [Second Strongest Viltrumite](https://open.spotify.com/track/3yK5GeQQu7crbX38UPw6kn) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz) | [Invincible: Vol\. 1 \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/2YqLtiozpeFoScLa7vMCRy) | 4:04 | 2025-03-21 |  |
 | [Security](https://open.spotify.com/track/2MYFQY0BKWPdgqnIYses9T) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c) | 3:47 | 2025-02-20 |  |
 | [Skipping Stones](https://open.spotify.com/track/20spL0UCWRur2zbgpZhMM6) | [Olivia Wendel](https://open.spotify.com/artist/6VFhe94v6lnp9FLqRdfgAx) | [Windthrow](https://open.spotify.com/album/0P2WCmU6hiDH0iyrZ5tm4A) | 3:16 | 2025-02-06 |  |
 | [Sunflower \(feat\. Steve Lacy\)](https://open.spotify.com/track/53KFMdxzi8IJDewiql1Qo3) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 2:17 | 2025-02-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oLdwrroY56.md) - [plain]
 
 > pinoy alternative music \. Cover: SUYEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,846 likes - 61 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,838 likes - 61 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > a playlist without boundaries, featuring role model  ☁️
 
-369 songs - 18 hr 35 min
+370 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Babe](https://open.spotify.com/track/4DbsTW4h2gjwdpC9W9iID4) | [Louis Culture](https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR), [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z), [Richie](https://open.spotify.com/artist/34rtXQytQe9l53JCgJSbwa) | [Babe](https://open.spotify.com/album/3fGFAVv90etRh2ws3W9bI0) | 3:08 | 2024-08-23 | 2024-11-15 |
 | [Baby](https://open.spotify.com/track/3oZ8sRsrZTnRyREtrJ30s1) | [purpl](https://open.spotify.com/artist/0qLq938YLoXapahHpnzVSO) | [Baby](https://open.spotify.com/album/3UFtjO57n1GolabGQsCs1s) | 1:59 | 2024-06-27 | 2024-09-06 |
 | [Baby Bangs \(feat\. dacelynn\)](https://open.spotify.com/track/01J9q2fcpP9OiEfs1ziyji) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl), [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [Baby Bangs \(feat\. dacelynn\)](https://open.spotify.com/album/2wH4N8ZRRqhJ49K6qXV2m0) | 2:44 | 2024-06-27 | 2024-08-30 |
+| [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-03-21 |  |
 | [Backseat](https://open.spotify.com/track/5ll8LtJvNBmtrCcqlPb9jy) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [What's Dead and Gone](https://open.spotify.com/album/7tlucLp6G0DquihSIwYbai) | 3:13 | 2024-08-02 | 2024-09-06 |
 | [Backseat Driver](https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:55 | 2024-10-03 | 2025-02-14 |
 | [BAD 4 MY HEALTH](https://open.spotify.com/track/1ZRtMHVeF4KO1sZyTyVMIh) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [BAD 4 MY HEALTH](https://open.spotify.com/album/5to9l8DNYbCnkivd9q2359) | 2:06 | 2024-07-04 | 2024-08-17 |

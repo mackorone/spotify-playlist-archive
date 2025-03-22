@@ -1049,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "Cold Summers EP",
+        "url": "https://open.spotify.com/album/7Mpey35fVNBAXODN0efPpj"
+      },
+      "artists": [
+        {
+          "name": "Crepes",
+          "url": "https://open.spotify.com/artist/12yjnt2kvKe5RpkvcUd4fh"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174080,
+      "name": "Cold Summers",
+      "url": "https://open.spotify.com/track/4YabnnOnPOl4O9kxy5jsud"
+    },
+    {
+      "album": {
         "name": "Confusion",
         "url": "https://open.spotify.com/album/2FQWRODsYQe7rZxL5yDLhW"
       },
@@ -4774,7 +4792,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 203558,
       "name": "Sir Gawain & The Green Knight - Live at Hohm Studios",
       "url": "https://open.spotify.com/track/78pPqUKcTVZn5OWSEFj3Co"

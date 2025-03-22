@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R?si=1JdXJhwPRn6r7BYJHS84DQ\">Hendr\u00e9 Baard</a>",
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=7X1_tHmfSle3dzFG6qztgg\">Francois van Coke</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -232,7 +232,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-21",
+      "date_removed": null,
       "duration_ms": 174563,
       "name": "Achilles' Heel",
       "url": "https://open.spotify.com/track/3IjaZvAjnvk8yRtlgfLMf3"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 199520,
       "name": "Back in the Day",
       "url": "https://open.spotify.com/track/0b8XiWav4wIZClvoxC2ptM"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-18",
+      "date_removed": null,
       "duration_ms": 230870,
       "name": "Besete",
       "url": "https://open.spotify.com/track/6wXMpyH6tULngBV4WCxLxk"
@@ -2172,7 +2172,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 207564,
       "name": "Crystal Clear",
       "url": "https://open.spotify.com/track/6PH1ZiCGllwYsyj3ahwoXW"
@@ -2649,6 +2649,24 @@
     },
     {
       "album": {
+        "name": "Die Ruimte",
+        "url": "https://open.spotify.com/album/7Evf8SmwVgb9vUxuvkSRql"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178239,
+      "name": "Die Ruimte",
+      "url": "https://open.spotify.com/track/2dJNS220dOuB5taOM56DsG"
+    },
+    {
+      "album": {
         "name": "Die Son",
         "url": "https://open.spotify.com/album/5ttZoEZPKLeJqC1fr2okSJ"
       },
@@ -2970,7 +2988,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 204387,
       "name": "Dying Heart",
       "url": "https://open.spotify.com/track/42o2rWzk14XNXKoC0DSupy"
@@ -3028,7 +3046,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 110404,
       "name": "Eat You Up",
       "url": "https://open.spotify.com/track/5Jfh0EBXSFeoMCFG28Ekx7"
@@ -5481,6 +5499,24 @@
     },
     {
       "album": {
+        "name": "Klou",
+        "url": "https://open.spotify.com/album/6kDrC8UsLAbIUim82ViM7y"
+      },
+      "artists": [
+        {
+          "name": "Dierbaar",
+          "url": "https://open.spotify.com/artist/4Zo7cwbO8wSBCwf6pncuUt"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215940,
+      "name": "Klou",
+      "url": "https://open.spotify.com/track/0vHXnZi0613Cbcer0sBbHR"
+    },
+    {
+      "album": {
         "name": "Knip die Tou",
         "url": "https://open.spotify.com/album/20AWF6lGGsHmxNfQsYUB9G"
       },
@@ -5940,7 +5976,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 216533,
       "name": "Like You Madly",
       "url": "https://open.spotify.com/track/2gmnVYIuxe7mbgxjACZIp9"
@@ -6088,7 +6124,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 197837,
       "name": "Lose Somebody - Cover",
       "url": "https://open.spotify.com/track/3GLZidQawm1VUnuAgujRZF"
@@ -6622,7 +6658,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 176129,
       "name": "Muffin Top",
       "url": "https://open.spotify.com/track/1G3BmdHLgCTYRTztmYhAU1"
@@ -8300,7 +8336,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 203000,
       "name": "Saag Suip En Sokkie",
       "url": "https://open.spotify.com/track/5q6HEX89ABIT1sWpyhvUAb"
@@ -9134,7 +9170,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 187640,
       "name": "Staan by Jou",
       "url": "https://open.spotify.com/track/58rFdlFNeKJnlhjjpkR5Vw"
@@ -9314,7 +9350,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 160174,
       "name": "Steal Your Love",
       "url": "https://open.spotify.com/track/61Ny7MvlgnOqrIKwxhc11T"
@@ -10522,7 +10558,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 244333,
       "name": "Twisted",
       "url": "https://open.spotify.com/track/0PZGBkKhUJfPt6kUYE9SPd"
@@ -10558,7 +10594,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-20",
+      "date_removed": null,
       "duration_ms": 228804,
       "name": "U Wanna?",
       "url": "https://open.spotify.com/track/7BPTBvp60w8GUxtl60uhxY"

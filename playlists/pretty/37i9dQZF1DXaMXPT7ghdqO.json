@@ -1,6 +1,6 @@
 {
   "description": "\u795d\u30fb\u7d50\u62105\u5468\u5e74\uff016\u4eba\u7d44\u30a8\u30f3\u30bf\u30e1\u30e6\u30cb\u30c3\u30c8\u3001\u3059\u3068\u3077\u308a\u306e\u97f3\u697d\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\uff01 Music from Japanese entertainment group, Strawberry prince! \u00a9STPR Inc.",
-  "num_followers": 42488,
+  "num_followers": 42487,
   "original_name": "\u3059\u3068\u3077\u308a -Strawberry Prince-",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2025-03-06 15:00:17",
       "album": {
-        "name": "\u5fd8\u308c\u611b",
-        "url": "https://open.spotify.com/album/6frnK8zj1zxaWvlnYn7Zd9"
-      },
-      "artists": [
-        {
-          "name": "\u308b\u3045\u3068",
-          "url": "https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa"
-        }
-      ],
-      "duration_ms": 165830,
-      "name": "\u5fd8\u308c\u611b",
-      "url": "https://open.spotify.com/track/7w7pRTtfLr3P7ECAdmMOCO"
-    },
-    {
-      "added_at": "2025-03-06 15:00:17",
-      "album": {
         "name": "\u30a2\u30b9\u30bf\u30fc",
         "url": "https://open.spotify.com/album/4bVrKqe9KlUdqnolJb5f82"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 136693,
       "name": "\u30ec\u30a4\u30b8\u30fc\u30af\u30ec\u30a4\u30b8\u30fc",
       "url": "https://open.spotify.com/track/5aWZWMPOlv3lG5pBRdZ2si"
+    },
+    {
+      "added_at": "2025-03-06 15:00:17",
+      "album": {
+        "name": "\u5fd8\u308c\u611b",
+        "url": "https://open.spotify.com/album/6frnK8zj1zxaWvlnYn7Zd9"
+      },
+      "artists": [
+        {
+          "name": "\u308b\u3045\u3068",
+          "url": "https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa"
+        }
+      ],
+      "duration_ms": 165830,
+      "name": "\u5fd8\u308c\u611b",
+      "url": "https://open.spotify.com/track/7w7pRTtfLr3P7ECAdmMOCO"
     },
     {
       "added_at": "2025-03-06 15:00:17",

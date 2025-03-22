@@ -3217,6 +3217,24 @@
     },
     {
       "album": {
+        "name": "Hey Baby",
+        "url": "https://open.spotify.com/album/59BkwpCbJSFyUdrA6HCT4Z"
+      },
+      "artists": [
+        {
+          "name": "Florry",
+          "url": "https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167066,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/68RtnQedwKOJ4MmtXErnOU"
+    },
+    {
+      "album": {
         "name": "Hey, Hey Girl 7\"",
         "url": "https://open.spotify.com/album/4MCpw6grgnk4HK0QPkKk67"
       },

@@ -6963,6 +6963,24 @@
     },
     {
       "album": {
+        "name": "I Feel EP",
+        "url": "https://open.spotify.com/album/3ejftaZR7ToCHPjcoE3KTr"
+      },
+      "artists": [
+        {
+          "name": "Tal Fussman",
+          "url": "https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316279,
+      "name": "I Feel",
+      "url": "https://open.spotify.com/track/0QDQikDVeVvyrag0jdfXbR"
+    },
+    {
+      "album": {
         "name": "I Feel Love (Monkey Safari Remix)",
         "url": "https://open.spotify.com/album/2o8I77Z1HsMqCKAdEcTT6o"
       },
@@ -18028,7 +18046,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 390975,
       "name": "WASSER - Koti\u0113r Remix",
       "url": "https://open.spotify.com/track/7MJw7fF5sLfQFot1HhJVC6"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Laraw",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Men I Trust",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -90,6 +90,24 @@
       "duration_ms": 300786,
       "name": "1.25",
       "url": "https://open.spotify.com/track/2DzAvXj0WgBFd65vcC9RNN"
+    },
+    {
+      "album": {
+        "name": "1990",
+        "url": "https://open.spotify.com/album/7DivTcYqGWHAhpCjuoxzIj"
+      },
+      "artists": [
+        {
+          "name": "Super Plage",
+          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129408,
+      "name": "1990",
+      "url": "https://open.spotify.com/track/4XwTY4kqywle66xnhmbG4E"
     },
     {
       "album": {
@@ -206,7 +224,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 209849,
       "name": "Addiction",
       "url": "https://open.spotify.com/track/0ocRpLelepKUSy1X08ddi9"
@@ -260,7 +278,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 150976,
       "name": "Agneau",
       "url": "https://open.spotify.com/track/7Eh2AGrjQbOD4Lln006DmR"
@@ -764,7 +782,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 200360,
       "name": "Avant Elle",
       "url": "https://open.spotify.com/track/313L5l9abg2UJMq0FRccMD"
@@ -2121,6 +2139,24 @@
     },
     {
       "album": {
+        "name": "Dogue",
+        "url": "https://open.spotify.com/album/749uCoBXgdFaC9VJZtA1oL"
+      },
+      "artists": [
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172828,
+      "name": "Coule",
+      "url": "https://open.spotify.com/track/4kRFCrDbPc6eo9Qqt85uZA"
+    },
+    {
+      "album": {
         "name": "Cours toujours",
         "url": "https://open.spotify.com/album/3VcBUeKtfRrNYhmc4ByGdz"
       },
@@ -3247,6 +3283,24 @@
     },
     {
       "album": {
+        "name": "Fiou - Chronique d'une vie de merde",
+        "url": "https://open.spotify.com/album/37hElmGl09vwW226nnA97R"
+      },
+      "artists": [
+        {
+          "name": "LUMI\u00c8RE",
+          "url": "https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169389,
+      "name": "Fiou",
+      "url": "https://open.spotify.com/track/27IRQ055RStNgQshuVR7yx"
+    },
+    {
+      "album": {
         "name": "Fi\u00e8vre",
         "url": "https://open.spotify.com/album/4O1FVF6WNDLB2FLLxMBCBd"
       },
@@ -3566,6 +3620,24 @@
       "duration_ms": 185360,
       "name": "Gazon mouill\u00e9",
       "url": "https://open.spotify.com/track/1jNwKEYRmB2mAKwe4bVhPw"
+    },
+    {
+      "album": {
+        "name": "Equus Asinus",
+        "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211300,
+      "name": "Girl (2025)",
+      "url": "https://open.spotify.com/track/7DuXqTgphrMZUA0cRU92TL"
     },
     {
       "album": {
@@ -4018,7 +4090,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 204651,
       "name": "Husk",
       "url": "https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm"
@@ -4170,6 +4242,24 @@
       "duration_ms": 252180,
       "name": "I'm Not Here",
       "url": "https://open.spotify.com/track/7bAki4sFwFfF9MT8Tm4sUW"
+    },
+    {
+      "album": {
+        "name": "Dogue",
+        "url": "https://open.spotify.com/album/749uCoBXgdFaC9VJZtA1oL"
+      },
+      "artists": [
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194993,
+      "name": "I.W.Y.B.",
+      "url": "https://open.spotify.com/track/67C2lngm6JPNsKTprUz3KO"
     },
     {
       "album": {
@@ -7670,7 +7760,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 216146,
       "name": "Polymorphe",
       "url": "https://open.spotify.com/track/2A8mCfjcGkxaAqnSEhCkwJ"
@@ -8371,6 +8461,28 @@
     },
     {
       "album": {
+        "name": "Rouge Blanc",
+        "url": "https://open.spotify.com/album/6bfCe5L8ncyo5vbGat4o3Z"
+      },
+      "artists": [
+        {
+          "name": "High Klassified",
+          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
+        },
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199574,
+      "name": "Rouge Blanc",
+      "url": "https://open.spotify.com/track/3lgz1irr7pyERou6uA1g4i"
+    },
+    {
+      "album": {
         "name": "Un homme et son piano",
         "url": "https://open.spotify.com/album/7mKgZN8UNAQEzhRQ2KQxcl"
       },
@@ -8512,7 +8624,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 241823,
       "name": "salades",
       "url": "https://open.spotify.com/track/5hbBxh7gYyVRMotreleFyp"
@@ -9585,6 +9697,24 @@
     },
     {
       "album": {
+        "name": "Equus Asinus",
+        "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224708,
+      "name": "The Landkeeper",
+      "url": "https://open.spotify.com/track/199B05lG6hBgawhiiY12Ct"
+    },
+    {
+      "album": {
         "name": "The Leash",
         "url": "https://open.spotify.com/album/5D6d0Wvf10kBGqhf4kHzsz"
       },
@@ -10614,7 +10744,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 300486,
       "name": "Your Life",
       "url": "https://open.spotify.com/track/27xMuY9jqsqmqt0rqIuZOP"

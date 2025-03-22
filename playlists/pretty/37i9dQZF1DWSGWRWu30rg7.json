@@ -1,29 +1,13 @@
 {
-  "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Jayadi",
-  "num_followers": 63709,
+  "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Adiva Adelia",
+  "num_followers": 63707,
   "original_name": "Fresh Finds Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9xJrQAAAACws+PXtJevhV/KHTd36NK2",
+  "snapshot_id": "Z9zb/QAAAAArc56QOkS+I+NrAIeISwea",
   "tracks": [
-    {
-      "added_at": "2025-03-20 17:00:29",
-      "album": {
-        "name": "Terima Kasih",
-        "url": "https://open.spotify.com/album/1nzgz4O6aXtzBp3jzJyhAP"
-      },
-      "artists": [
-        {
-          "name": "Jayadi",
-          "url": "https://open.spotify.com/artist/194uu0APSHFHUiqegvNRvn"
-        }
-      ],
-      "duration_ms": 243981,
-      "name": "Terima Kasih",
-      "url": "https://open.spotify.com/track/0OB3dQzzYUyHu3W9UPUoJ2"
-    },
     {
       "added_at": "2025-03-20 17:00:29",
       "album": {
@@ -63,6 +47,22 @@
       "duration_ms": 218023,
       "name": "Game For Two",
       "url": "https://open.spotify.com/track/1F5Oci0fJkRxcIFNMuHoJn"
+    },
+    {
+      "added_at": "2025-03-21 03:24:25",
+      "album": {
+        "name": "Tamasya Dibuka",
+        "url": "https://open.spotify.com/album/2stEMeVwQsRP8hH0qjEJzT"
+      },
+      "artists": [
+        {
+          "name": "BATDD",
+          "url": "https://open.spotify.com/artist/5kKtLpfYwq6zeQ9AEhtSbm"
+        }
+      ],
+      "duration_ms": 350705,
+      "name": "Tamasya Dibuka",
+      "url": "https://open.spotify.com/track/6OA6ek5hm2o5npUQazEXY3"
     },
     {
       "added_at": "2025-03-20 17:00:29",
@@ -267,6 +267,22 @@
       "duration_ms": 221324,
       "name": "Kau Berbeda",
       "url": "https://open.spotify.com/track/0LoqX2xWETBFJk3uznWTBW"
+    },
+    {
+      "added_at": "2025-03-20 17:00:29",
+      "album": {
+        "name": "Terima Kasih",
+        "url": "https://open.spotify.com/album/1nzgz4O6aXtzBp3jzJyhAP"
+      },
+      "artists": [
+        {
+          "name": "Jayadi",
+          "url": "https://open.spotify.com/artist/194uu0APSHFHUiqegvNRvn"
+        }
+      ],
+      "duration_ms": 243981,
+      "name": "Terima Kasih",
+      "url": "https://open.spotify.com/track/0OB3dQzzYUyHu3W9UPUoJ2"
     },
     {
       "added_at": "2025-03-20 17:00:29",

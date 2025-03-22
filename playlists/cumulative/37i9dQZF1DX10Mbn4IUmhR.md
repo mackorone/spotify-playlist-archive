@@ -4,7 +4,7 @@
 
 > All the South African and global Pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx?si=R3PbfzAQTQqqx12\_amVaVQ"> Selena Gomez</a>, <a href="https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa?si=zhZPzo24RamKWGOBWPIQtg"> benny blanco</a>
 
-330 songs - 17 hr 35 min
+331 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-27 |  |
 | [Magic](https://open.spotify.com/track/1ozTHWtYAhhLeJ2CejjNyF) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Magic](https://open.spotify.com/album/4ArIrhbEuQiYmNsePoj1OJ) | 3:13 | 2024-06-27 | 2024-07-12 |
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-12-05 | 2025-03-14 |
-| [Maps](https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:09 | 2025-03-20 |  |
+| [Maps](https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:09 | 2025-03-20 | 2025-03-22 |
 | [Mary Jane](https://open.spotify.com/track/1PGw5vrq068zZ0DdNMDstW) | [Muzzzoh](https://open.spotify.com/artist/5dGFDimZDbExhKao9FzqG9) | [Mary Jane](https://open.spotify.com/album/6Ugs01sOEKzRv8Lrv70M9w) | 2:32 | 2025-02-13 | 2025-03-14 |
 | [Masterpiece](https://open.spotify.com/track/4YiepHcrEBS5TSdIp7nY6Y) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT), [Frank Kadillac](https://open.spotify.com/artist/6gFjPuQkV3lwb1fy3Oh1hE) | [Masterpiece](https://open.spotify.com/album/76KnFUm65N44xPESXk43sW) | 3:20 | 2024-06-27 | 2024-11-22 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2025-01-16 | 2025-03-14 |
@@ -244,6 +244,7 @@
 | [Seasons](https://open.spotify.com/track/5Dsuz6UsZyoWM3HOaRgQeC) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Seasons](https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ) | 3:47 | 2025-01-30 |  |
 | [Seconds Away](https://open.spotify.com/track/1vxWgYimfA3RtHo41qE40i) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [Seconds Away](https://open.spotify.com/album/5d6ksxWTiDMYFR6EngSWG9) | 2:50 | 2024-06-27 | 2024-07-12 |
 | [Selfish](https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Selfish](https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy) | 3:49 | 2024-06-27 | 2024-07-12 |
+| [She Will Be Loved \- Radio Mix](https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:19 | 2025-03-20 |  |
 | [Shhh](https://open.spotify.com/track/7ptNON5rnPOv1uFODNtDgP) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Shhh](https://open.spotify.com/album/0cCsW6WclcYR91SlpTWnaf) | 2:23 | 2024-08-15 | 2024-11-08 |
 | [Shirt](https://open.spotify.com/track/7Gejbl2DoylzXdpw2zbmOF) | [Connor Austin](https://open.spotify.com/artist/5RJmXI7u46XifTvVEVbc0j) | [Shirt](https://open.spotify.com/album/0TJjLt37lC5u5sV8xR8hnB) | 2:47 | 2024-07-11 | 2024-07-19 |
 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 | 2024-11-15 | 2024-12-06 |

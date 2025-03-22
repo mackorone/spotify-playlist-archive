@@ -4,7 +4,7 @@
 
 > La casa del trap chileno al mando de Los Shishi.
 
-259 songs - 13 hr 25 min
+260 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Hard Style](https://open.spotify.com/track/625EI0fR4eCtnGmqiO23Tj) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Hard Style](https://open.spotify.com/album/2iykEcv7pdEkhRssq4L8E8) | 2:02 | 2022-01-20 | 2024-10-19 |
 | [HIPOCRESÍA](https://open.spotify.com/track/1407BXnFbdE9bZvAL57NxB) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [HIPOCRESÍA](https://open.spotify.com/album/1j4TNRcTJAKBphndDuLsuC) | 1:21 | 2024-03-29 | 2024-08-24 |
 | [Hipócritas](https://open.spotify.com/track/4QmL5s4KnF8YVm2SN3z0dx) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Hipócritas](https://open.spotify.com/album/30x4G19KBdgl92wWku4Mn0) | 2:35 | 2022-01-20 |  |
-| [Hood](https://open.spotify.com/track/5dLd9IBu8aZe47JKwhKvLi) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Hood](https://open.spotify.com/album/79LOfwxYQhNeU2bg3EdaXr) | 2:31 | 2022-01-28 |  |
+| [Hood](https://open.spotify.com/track/5dLd9IBu8aZe47JKwhKvLi) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Hood](https://open.spotify.com/album/79LOfwxYQhNeU2bg3EdaXr) | 2:31 | 2022-01-28 | 2025-03-22 |
 | [ICONIC PERRA](https://open.spotify.com/track/4udJEnv5tkrOBPfax7FzVs) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Viangogh](https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ) | [ICONIC PERRA](https://open.spotify.com/album/71fdXu0gwv3mFrhrxkrsoU) | 2:04 | 2024-07-26 | 2024-10-05 |
 | [Icy](https://open.spotify.com/track/38RWfnV3ZAkI0nGjWGOeFb) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Aunque Estén Todos Mirando](https://open.spotify.com/album/1gDzwCyVLOBrmBdVCKqKsa) | 3:27 | 2022-01-20 | 2023-03-08 |
 | [Illuminati \- Remix](https://open.spotify.com/track/6fGyrAxqgdvhzcOKlMQq5s) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Illuminati \(Remix\)](https://open.spotify.com/album/1hYkac7PNbTZlOOXwZJSam) | 4:50 | 2022-01-20 |  |
@@ -262,10 +262,11 @@
 | [VLONE](https://open.spotify.com/track/17HiLsDKo2qryCfpt5Tfh5) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [VLONE](https://open.spotify.com/album/6E3i0fUfZf0QseLtnot3S6) | 3:39 | 2022-01-20 | 2023-12-09 |
 | [Vámonos](https://open.spotify.com/track/1XePyPToFkWPaqa4kksAbu) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [H Empire](https://open.spotify.com/artist/5NrnVIh7EqdzSFQpWmxZUH), [Delay Lama](https://open.spotify.com/artist/4jGrj8pcC0gKQTRB968V8P) | [Vámonos](https://open.spotify.com/album/5CPoCagiLaJlU3ILJ65FdY) | 3:43 | 2022-07-22 | 2024-04-19 |
 | [Vámonos \(feat\. Nfx & DrefQuila\)](https://open.spotify.com/track/7AqH0htxZWaGcSBExgUlXV) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Vámonos \(feat\. Nfx & DrefQuila\)](https://open.spotify.com/album/1L0NO0pTkL7XXjgiSi31Wj) | 3:43 | 2022-01-20 | 2024-07-13 |
-| [www.PolimáWestcoast](https://open.spotify.com/track/7v97B2A6GIkunZHNq5AXRZ) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [www.PolimáWestcoast](https://open.spotify.com/album/1WXCYhu4JBW4afvKyJlmC1) | 1:27 | 2024-06-28 |  |
+| [www.PolimáWestcoast](https://open.spotify.com/track/7v97B2A6GIkunZHNq5AXRZ) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [www.PolimáWestcoast](https://open.spotify.com/album/1WXCYhu4JBW4afvKyJlmC1) | 1:27 | 2024-06-28 | 2025-03-22 |
 | [X Dinero](https://open.spotify.com/track/5rqOopoA9X1ybr0Yfk9YOx) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Trap Life](https://open.spotify.com/album/20TTxQ5tBU35RYiAghI6uf) | 2:54 | 2022-01-20 |  |
 | [XERATON](https://open.spotify.com/track/3yGRwTF5wDOb1cSj6Fes42) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [001](https://open.spotify.com/album/4hg1fV1YKWKPF3XUpO12z1) | 2:41 | 2023-07-07 | 2023-12-09 |
 | [Ya Ganamos](https://open.spotify.com/track/6oxrhNRspZE9KVIqTisXWc) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [Ya Ganamos](https://open.spotify.com/album/0IaUSmzNre5q8jrIzbjTVT) | 2:37 | 2024-12-06 |  |
 | [Young Millonaire](https://open.spotify.com/track/2rYCI8MQnx6vGTfZENkvOt) | [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd) | [Young Millonaire](https://open.spotify.com/album/4F0x4BtgabWu3nR87PLtfH) | 2:04 | 2024-06-07 | 2024-09-14 |
+| [Zabuza](https://open.spotify.com/track/5GjPWGsEgk6MKOWCocVoiB) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Zabuza](https://open.spotify.com/album/3lsCDXKXGFgG54fKMQWF63) | 2:32 | 2025-03-21 |  |
 
 \*This playlist was first scraped on 2022-01-24. Prior content cannot be recovered.

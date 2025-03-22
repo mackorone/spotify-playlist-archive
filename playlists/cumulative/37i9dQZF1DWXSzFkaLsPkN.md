@@ -2,7 +2,7 @@
 
 ### [hIndies](https://open.spotify.com/playlist/37i9dQZF1DWXSzFkaLsPkN)
 
-> Hindi hai, Indie hai! Cover\- Kushagra
+> Hindi hai, Indie hai! Cover\- Gini
 
 262 songs - 14 hr 27 min
 

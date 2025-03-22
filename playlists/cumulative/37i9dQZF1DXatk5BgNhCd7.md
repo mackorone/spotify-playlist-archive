@@ -4,7 +4,7 @@
 
 > Nuevos temas de géneros tropicales\.  Sergio George & Ryan Castro.
 
-3,657 songs - 8 day 19 hr 35 min
+3,659 songs - 8 day 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1985,6 +1985,7 @@
 | [Mi Canto Triste](https://open.spotify.com/track/0FOtgkkmnFxLC0alEURJXl) | [Walther Lozada y Orquesta](https://open.spotify.com/artist/7CySDWZqdWKuZHLkGKDBqP), [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Mi Canto Triste](https://open.spotify.com/album/4DCgHOjXjQmVuN7DFUfQKv) | 3:37 | 2023-10-06 | 2023-10-16 |
 | [Mi Casaca](https://open.spotify.com/track/7tZVIu2cV8ppvLpD1wLV8j) | [Nuke](https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Mi Casaca](https://open.spotify.com/album/2h6Z67hiFtIPpdy1MAB24R) | 2:08 | 2024-06-14 | 2024-06-22 |
 | [Mi Castigo Tu Desgracia \- En Vivo](https://open.spotify.com/track/6y6EAWb5pE71Xf5C9HB2hp) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Mi Castigo Tu Desgracia \(En Vivo\)](https://open.spotify.com/album/0I9K7uvegtF6QeJQ1RjkgR) | 2:13 | 2023-04-14 | 2023-04-22 |
+| [Mi celosa hermosa](https://open.spotify.com/track/3FtWgxYcMusd1RWw9Up16U) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Sergio Torres \- Session \#50 \(Sin Miedo: Lado S\)](https://open.spotify.com/album/3Q4Pml7HR06oTRmvXfdIiq) | 3:02 | 2025-03-21 |  |
 | [Mi Confesión](https://open.spotify.com/track/4ogtFmfPM9dRoQpNXVxq78) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O), [Caceres](https://open.spotify.com/artist/2hh9vTDXej21Upds5nlJTn) | [Mi Confesión](https://open.spotify.com/album/0QrjJ4xZ1YOMRglUhSUxSq) | 3:18 | 2023-07-21 | 2023-08-05 |
 | [Mi Corazón](https://open.spotify.com/track/02EckzshsKodeAfZQF3cDP) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Mi Corazón](https://open.spotify.com/album/5iFkzGv5idTW7deC3hdnoJ) | 2:06 | 2024-12-06 | 2024-12-21 |
 | [Mi Corazón Llora](https://open.spotify.com/track/5lx3raH9RkeYrjOodN4eoH) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR), [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Mi Corazón Llora](https://open.spotify.com/album/6r0Vv6YjMAzYBUinivAWgV) | 3:55 | 2024-02-16 | 2024-02-24 |
@@ -2072,6 +2073,7 @@
 | [Mix Karol G \(Bichota, Sejodioto, Gatubela\)](https://open.spotify.com/track/4cb5RJer3Pv1cekOZ4ry3r) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E) | [Mix Karol G \(Bichota, Sejodioto, Gatubela\)](https://open.spotify.com/album/30HP83bN4JoyUeqWXlaJMu) | 5:21 | 2023-11-24 | 2023-12-02 |
 | [Mix Karol G \- \#2](https://open.spotify.com/track/4jqjt0e4XKRV9i13PYzOIB) | [Kate Candela](https://open.spotify.com/artist/20MItJsTq6XRJ3drVZLp3W) | [Mix Karol G \(\#2\)](https://open.spotify.com/album/338MZ0H9MunHhGLoDXtrVu) | 7:14 | 2023-11-17 | 2023-11-25 |
 | [Mix Loca por Tu Amor, Sufre Tu Traicion](https://open.spotify.com/track/3srMFJmOiNVKO7UQVZkNQ1) | [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ) | [Mix Loca por Tu Amor, Sufre Tu Traicion](https://open.spotify.com/album/0lIxue1mmumEDHkW4QXMuD) | 6:21 | 2023-10-06 | 2023-10-16 |
+| [Mix Potencia](https://open.spotify.com/track/3PV7jbvlp6EdNzmuFuewXM) | [Potencia](https://open.spotify.com/artist/26SwMaLuxWolyBYLyjG8NQ) | [Mix Potencia](https://open.spotify.com/album/5ALohTgECaMXYAkyuA0eOc) | 8:00 | 2025-03-21 |  |
 | [Mix Probablemente: Probablemente, No Te Contaron Mal, de los Que Te Di, Adiós Amor](https://open.spotify.com/track/2Dy94XFXG6MQnInQfvWTvf) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Mix Probablemente: Probablemente, No Te Contaron Mal, de los Que Te Di, Adiós Amor](https://open.spotify.com/album/6ydjPesV6NZilkRfv2OhLj) | 8:53 | 2023-12-08 | 2023-12-16 |
 | [Mix Romantico \(Ay Amor / Huele a Peligro / Tu\)](https://open.spotify.com/track/0HsstTn9P788OFkoJhFmsX) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E) | [Mix Romantico \(Ay Amor / Huele a Peligro / Tu\)](https://open.spotify.com/album/4lIWW2p3xagAOHLo7bFP83) | 7:17 | 2023-09-29 | 2023-10-07 |
 | [Mix Selena \(Si una Vez / No Me Queda Mas / Amor Prohibido / Bidi Bidi Bom Bom\)](https://open.spotify.com/track/1dD4wGJuOXPIW9DFTEzQVv) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E) | [Mix Selena \(Si una Vez / No Me Queda Mas / Amor Prohibido / Bidi Bidi Bom Bom\)](https://open.spotify.com/album/2vKJ7CyhddPdjW7mj4TzXN) | 7:40 | 2023-09-15 | 2023-09-23 |

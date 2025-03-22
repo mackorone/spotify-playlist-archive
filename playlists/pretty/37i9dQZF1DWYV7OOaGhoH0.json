@@ -1,12 +1,12 @@
 {
   "description": "The best in folk & acoustic today featuring music from Amble",
-  "num_followers": 1810031,
+  "num_followers": 1810026,
   "original_name": "Roots Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9Op0QAAAAABwdcKpkNZGmiGO0sCA85f",
+  "snapshot_id": "Z9zkdAAAAAAhwGBOBMJKlCYaJ+6CuATJ",
   "tracks": [
     {
       "added_at": "2025-03-14 04:00:17",
@@ -43,6 +43,22 @@
       "duration_ms": 226626,
       "name": "Impressions (feat. Madison Cunningham)",
       "url": "https://open.spotify.com/track/6vgV9COfjlPVbz3R2QgJRC"
+    },
+    {
+      "added_at": "2025-03-21 04:00:52",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
     },
     {
       "added_at": "2025-03-14 04:00:17",
@@ -103,6 +119,22 @@
       "duration_ms": 248745,
       "name": "Smoker",
       "url": "https://open.spotify.com/track/2oOvlOt5LtDLTYHeGUVhq1"
+    },
+    {
+      "added_at": "2025-03-21 04:00:52",
+      "album": {
+        "name": "For Melancholy Brunettes (& sad women)",
+        "url": "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 178213,
+      "name": "Picture Window",
+      "url": "https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4"
     },
     {
       "added_at": "2025-03-14 04:00:17",
@@ -1235,42 +1267,6 @@
       "duration_ms": 170586,
       "name": "Whiskey Angel",
       "url": "https://open.spotify.com/track/4dkJAQlRswrkaapPJcOfys"
-    },
-    {
-      "added_at": "2025-03-14 04:00:17",
-      "album": {
-        "name": "Little bit",
-        "url": "https://open.spotify.com/album/384EOP7ZXUc7WuawttnJ4v"
-      },
-      "artists": [
-        {
-          "name": "Henrik",
-          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
-        }
-      ],
-      "duration_ms": 138900,
-      "name": "Little bit",
-      "url": "https://open.spotify.com/track/4BhKnMFUOT1lQHdjTXs3pj"
-    },
-    {
-      "added_at": "2025-03-14 04:00:17",
-      "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "Better Days (feat. John Mayer)",
-      "url": "https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv"
     },
     {
       "added_at": "2025-03-14 04:00:17",

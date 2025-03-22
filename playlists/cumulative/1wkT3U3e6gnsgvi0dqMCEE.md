@@ -4,7 +4,7 @@
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-255 songs - 16 hr 30 min
+257 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Use Somebody](https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:50 | 2023-10-16 | 2024-05-24 |
 | [Wait So Long](https://open.spotify.com/track/4hi07BHBhWkgDNws5Kbbq8) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Wait So Long](https://open.spotify.com/album/5h65lEQMzM7KNXChpEqeC4) | 4:09 | 2024-09-20 |  |
 | [Wake Me Up \- Acoustic](https://open.spotify.com/track/6JbloSCQfqfQrmIte32Ar4) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Lift Your Spirit \(Deluxe Edition\)](https://open.spotify.com/album/2mTRxSmgxf1bBfOTKJJ0bC) | 3:45 | 2024-07-19 |  |
+| [Walk Of Life \- San Antonio Live In 85](https://open.spotify.com/track/67hpjt930NejpQNeTSMGN4) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Walk Of Life \(San Antonio Live In 85\)](https://open.spotify.com/album/2W6oPnhmoJJWXjG44nmCOr) | 4:23 | 2025-03-21 |  |
 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 | 2023-10-16 | 2024-05-24 |
 | [Want You Bad](https://open.spotify.com/track/6hwQ69v7VbPhTTR2fOtYX7) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Conspiracy Of One](https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs) | 3:22 | 2023-10-16 | 2024-05-24 |
 | [Ways to Go](https://open.spotify.com/track/57nNNkgk768QVXq3uHxu5e) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spreading Rumours](https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf) | 3:35 | 2023-10-16 | 2024-05-24 |
@@ -249,6 +250,7 @@
 | [We Will Rock You \- Megan Thee Stallion Version](https://open.spotify.com/track/04EzyNDx8TPjFYYi0FWzDT) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [We Will Rock You \(Megan Thee Stallion Version\)](https://open.spotify.com/album/6Xvc7hfdkm17ExD9CtpBrO) | 1:43 | 2024-09-13 |  |
 | [Well Alright](https://open.spotify.com/track/0aHDkn2yqKsDhLptXjQhPt) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Well Alright](https://open.spotify.com/album/43DkVKkSDhVgDzen523ZFe) | 2:12 | 2024-05-23 |  |
 | [What A Wonderful World \- Live At The BBC](https://open.spotify.com/track/6vy4oVtIlCno1dNYq0wqhc) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis In London \(Live At The BBC\)](https://open.spotify.com/album/5agu2tOeRrQKNduqGpRSIq) | 2:32 | 2024-07-12 |  |
+| [What You're Doing / Working Man / Garden Road \- Live At The Forum, Los Angeles, California \- 8/1/2015](https://open.spotify.com/track/7iYtqU4O5yD1VHHdWqJVtu) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Rush 50 \(Anniversary Super Deluxe\)](https://open.spotify.com/album/1vETgUa3FMCGjqTtOzOsWn) | 10:56 | 2025-03-21 |  |
 | [When You Were Young](https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sam's Town](https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw) | 3:40 | 2023-10-16 | 2024-05-24 |
 | [Whiskey In The Jar](https://open.spotify.com/track/6YH9hWz9ypmvbHl1LpCMFz) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Vagabonds Of The Western World](https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU) | 5:47 | 2024-05-23 |  |
 | [Who Believes In Angels?](https://open.spotify.com/track/1TaWo5hydbHe1ryeRgaZQb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/4UZ9Xt3QcKI09FA5qMqWgb) | 5:13 | 2025-02-07 |  |

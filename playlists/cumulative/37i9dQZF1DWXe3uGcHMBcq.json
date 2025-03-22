@@ -545,6 +545,28 @@
     },
     {
       "album": {
+        "name": "Teen Beach Movie",
+        "url": "https://open.spotify.com/album/5ANe5AfOnYydm3lXELfiHF"
+      },
+      "artists": [
+        {
+          "name": "Ross Lynch",
+          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
+        },
+        {
+          "name": "Maia Mitchell",
+          "url": "https://open.spotify.com/artist/3730ZT92AjnEzC83q5RzDC"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145920,
+      "name": "Can't Stop Singing - From \"Teen Beach Movie\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/2adTfABiJJQpZWlujYO3Qo"
+    },
+    {
+      "album": {
         "name": "Change Me (From \"The Proud Family: Louder and Prouder\")",
         "url": "https://open.spotify.com/album/7E6QCxngI7Lvstdc79qfoV"
       },

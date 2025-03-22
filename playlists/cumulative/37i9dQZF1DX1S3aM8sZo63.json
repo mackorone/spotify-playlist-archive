@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "As\u00ed como lo pediste, ponte cursi con las canciones m\u00e1s rom\u00e1nticas. La Arrolladora en portada.",
+  "description": "As\u00ed como lo pediste, ponte cursi con las canciones m\u00e1s rom\u00e1nticas. La Adictiva en portada.",
   "name": "Banda Rom\u00e1ntica",
   "tracks": [
     {
@@ -806,7 +806,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 128177,
       "name": "Coraz\u00f3n Malo",
       "url": "https://open.spotify.com/track/4ta6IEXPLgo20X6HzicCee"
@@ -824,7 +824,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 193773,
       "name": "Coraz\u00f3n M\u00e1gico",
       "url": "https://open.spotify.com/track/6RRtNiWSCiqMUTkKjTdZOf"
@@ -918,6 +918,24 @@
       "duration_ms": 210612,
       "name": "Cuando Te Ame",
       "url": "https://open.spotify.com/track/0yO1khcEJBMqEuW9dyVLKS"
+    },
+    {
+      "album": {
+        "name": "Antes y Ahora (35 Aniversario)",
+        "url": "https://open.spotify.com/album/6zk3Bh0lz6QIzSqyfatd0L"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197283,
+      "name": "Cu\u00eddala",
+      "url": "https://open.spotify.com/track/1Cson7dXFpYWPQiFabo7YH"
     },
     {
       "album": {
@@ -2453,6 +2471,24 @@
     },
     {
       "album": {
+        "name": "Antes y Ahora (35 Aniversario)",
+        "url": "https://open.spotify.com/album/6zk3Bh0lz6QIzSqyfatd0L"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158122,
+      "name": "Mi Persona Especial",
+      "url": "https://open.spotify.com/track/4wVGAlmWqnXxzvAMsCZhM3"
+    },
+    {
+      "album": {
         "name": "Mi Raz\u00f3n De Ser",
         "url": "https://open.spotify.com/album/0IF0o88tDFcKoiqsiZ8GQO"
       },
@@ -3245,6 +3281,28 @@
     },
     {
       "album": {
+        "name": "Sabes Qu\u00e9 Hora Es",
+        "url": "https://open.spotify.com/album/32HvzB8uAa7egWymv0TDzK"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185272,
+      "name": "Sabes Qu\u00e9 Hora Es",
+      "url": "https://open.spotify.com/track/1EXdUMG8lSW7DDdC4NQjri"
+    },
+    {
+      "album": {
         "name": "Se Vale Enamorarse",
         "url": "https://open.spotify.com/album/23yO6kyqh39DCb7PM4UyIY"
       },
@@ -3774,7 +3832,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 198952,
       "name": "Te Lo Dije",
       "url": "https://open.spotify.com/track/7vwD4Mb8ONG4hE2grQ59tF"

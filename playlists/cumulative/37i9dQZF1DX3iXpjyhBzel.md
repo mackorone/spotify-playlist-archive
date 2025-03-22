@@ -2,7 +2,7 @@
 
 ### [Louvor & Adoração](https://open.spotify.com/playlist/37i9dQZF1DX3iXpjyhBzel)
 
-> A música certa para o seu momento de adoração\. Foto: Jadson Moreno
+> A música certa para o seu momento de adoração\. Foto: Israel Salazar
 
 324 songs - 1 day 7 hr 59 min
 

@@ -4,7 +4,7 @@
 
 > Just chill the F\*\*\* out to our mix of relaxing hits\. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! Chill Pop \| Relaxing Pop \| Chill Vibes \| Lazy Sundays \| Chilled Mix
 
-732 songs - 1 day 17 hr 1 min
+736 songs - 1 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Beach Boy](https://open.spotify.com/track/7AEWEYnWHPqXTExnIfxzsT) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Beach Boy](https://open.spotify.com/album/4u5BWJputhCmihtUEWQ3ll) | 3:12 | 2022-06-06 | 2022-09-19 |
 | [Beach House](https://open.spotify.com/track/3v61sG0y5M1LnSsFN4IimM) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 2:29 | 2022-10-27 | 2023-02-23 |
 | [Beach House](https://open.spotify.com/track/23Pi81mwR6wNeFhym9mUMx) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Beach House](https://open.spotify.com/album/0GqKALU6JwUSF5wH6ClRuB) | 2:30 | 2022-10-03 | 2022-10-25 |
+| [Bed Rest](https://open.spotify.com/track/7fnrjy0Sd6Lj1IBalr424v) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow, Decomposed \(5 Year Anniversary\)](https://open.spotify.com/album/0NIuyJBQRvPaIjnyvTMBIe) | 4:08 | 2025-03-21 |  |
 | [Before You Go](https://open.spotify.com/track/7ce20yLkzuXXLUhzIDoZih) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go](https://open.spotify.com/album/0488X5veBK6t3vSmIiTDJY) | 3:35 | 2023-11-08 |  |
 | [Better Off Alone](https://open.spotify.com/track/2jwsv7yOKwI4nd0UmrAnVq) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Better Off Alone](https://open.spotify.com/album/4ItBkJk85xH97hBZdlycIh) | 3:20 | 2022-10-03 | 2022-10-11 |
 | [Better Version](https://open.spotify.com/track/3yDEK8rHiOUHOSioX9ZbaU) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Better Version](https://open.spotify.com/album/6L4Br91KD5fMRjxDItOzGd) | 2:53 | 2022-09-12 | 2022-09-19 |
@@ -320,6 +321,7 @@
 | [if there is a heaven](https://open.spotify.com/track/0rds0pVDFwa7BECTYCfa63) | [Torine](https://open.spotify.com/artist/6gpY6HHTGZp0sTLsxsSNqo) | [UNHOLY](https://open.spotify.com/album/6V7J3mBFCjLGcVZjtveBOK) | 2:39 | 2022-10-24 | 2022-11-01 |
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-03-16 | 2023-04-18 |
 | [if you ask me to](https://open.spotify.com/track/63XZMpI9z3Grrd5YH5sl5L) | [charli d'amelio](https://open.spotify.com/artist/7yURu3gRxmCReoYCg8m5M9) | [if you ask me to](https://open.spotify.com/album/4jF92ciZwl1apnJCvn3giR) | 3:12 | 2022-10-31 | 2023-02-21 |
+| [If You Ever Want To Be In Love](https://open.spotify.com/track/0JlLIcpqvp8XbO03z99k4o) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3G2kixP0Pi8L0KgmSYohb2) | 3:58 | 2025-03-21 |  |
 | [IF YOU'RE GONNA LEAVE](https://open.spotify.com/track/4wGyH7ZrZgYuB3su5GZGOY) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [GOALIE](https://open.spotify.com/album/3AwPKvnIRsrkC0pG7l4RNM) | 2:43 | 2022-10-17 | 2022-11-01 |
 | [Imposter Syndrome](https://open.spotify.com/track/7HY0wLHPhWer6uSUYxsL3k) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Imposter Syndrome](https://open.spotify.com/album/2t9G4JSr0tgjiudH6KWyGl) | 3:13 | 2022-08-08 | 2022-08-16 |
 | [In A Perfect World \(with Julia Michaels\) \- Acoustic](https://open.spotify.com/track/1Dw3ZSgoBZANlxWbebQjvf) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [In A Perfect World \(with Julia Michaels\) \[Acoustic\]](https://open.spotify.com/album/0OujFpzd6JMeFnJWLtVhSK) | 3:12 | 2023-08-13 | 2023-08-29 |
@@ -648,6 +650,7 @@
 | [This Is How We Move](https://open.spotify.com/track/0EPvfQyCSDzywcFOF9H6Gt) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [This Is How We Move](https://open.spotify.com/album/2RaeZMQcqgAxuGEhVdSstZ) | 3:06 | 2023-01-23 | 2023-02-01 |
 | [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 | 2023-11-08 | 2023-11-21 |
 | [THROUGH AND FALLING \(feat\. matt mcwaters & kerri\)](https://open.spotify.com/track/62x9vmIVSGiWIeMg2ZGpSY) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [matt mcwaters](https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK), [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [Songs To Come Home To](https://open.spotify.com/album/3RyNOK2vXaGdkRWoh8QmjN) | 3:24 | 2023-08-29 | 2023-09-19 |
+| [Through The Eyes Of A Child](https://open.spotify.com/track/6XFvsdR5sHHNy5dOcbz545) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend \(Deluxe\)](https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW) | 4:34 | 2025-03-21 |  |
 | [Time Capsule](https://open.spotify.com/track/6ZGS2Yrg21HadSMmshXyzf) | [Cult Of Venus](https://open.spotify.com/artist/2gBkcjCYEKisBVDaWyWY1W) | [Time Capsule](https://open.spotify.com/album/1vWbtZaVKqBdMnee0QX5Zi) | 3:39 | 2023-10-30 | 2023-11-09 |
 | [Time Machine](https://open.spotify.com/track/4Fkf0tYc8tD0BeS7k20AAa) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Time Machine](https://open.spotify.com/album/4jAN28tuuWdvDsX5HzPXbv) | 3:39 | 2022-06-06 | 2022-06-27 |
 | [Time Will Fly](https://open.spotify.com/track/3iLczn6rof3Fl0C0x4075J) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Time Will Fly](https://open.spotify.com/album/6XJvhvhwxVusNnIanbDpG6) | 2:31 | 2023-06-12 | 2023-10-31 |
@@ -736,6 +739,7 @@
 | [You get so distant on those pills](https://open.spotify.com/track/1fjMp3YRljzUAKgu4VC5mE) | [Tiny Little Houses](https://open.spotify.com/artist/2DzfwBlRGSLXCXgAKN6EFv) | [You get so distant on those pills](https://open.spotify.com/album/7u2pGIqWckph2dqN12D9fz) | 2:41 | 2023-06-25 | 2023-07-04 |
 | [You Never Loved](https://open.spotify.com/track/0ruRHROLpJygqJ8g6BdTZ1) | [Daniele Luppi](https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF), [Greg Gonzalez](https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU) | [You Never Loved](https://open.spotify.com/album/6RPe8BJlSPpw7bPGzbyKfp) | 3:23 | 2022-08-15 | 2022-09-02 |
 | [You, Me, Lonely](https://open.spotify.com/track/0RSdiQT7ShxTf6HimM7l7T) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [You, Me, Lonely](https://open.spotify.com/album/530JQWAmvDxZDAAPXEVEBI) | 3:40 | 2023-09-18 | 2023-09-26 |
+| [Younger And Hotter Than Me](https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:09 | 2025-03-21 |  |
 | [Younger Me](https://open.spotify.com/track/79wa7WvKqnPZq8f4ssxvJt) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Everwood](https://open.spotify.com/album/4YI8iB9csSyJOEjgaNO0GL) | 2:37 | 2023-08-13 | 2023-11-09 |
 | [Your Bones](https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Bones](https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV) | 2:39 | 2023-09-04 | 2023-11-09 |
 | [Your Reality](https://open.spotify.com/track/093iaeNtS3Jentp3USb67H) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Your Reality](https://open.spotify.com/album/3RP1mc5yIIwGCrdST276Lg) | 2:51 | 2022-06-26 | 2022-07-05 |

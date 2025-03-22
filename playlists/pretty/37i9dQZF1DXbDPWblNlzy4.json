@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: ASTROPICAL",
-  "num_followers": 65574,
+  "num_followers": 65579,
   "original_name": "Frecuencia Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8qHoQAAAAAFny6fIWaQFOJAD4z4UzB7",
+  "snapshot_id": "Z9z57QAAAAD4mJdsUr8Kb4/mvcWphbnP",
   "tracks": [
     {
       "added_at": "2025-03-07 05:44:01",
@@ -33,6 +33,22 @@
       "url": "https://open.spotify.com/track/7rdgssw9cq1TloP5HbopVx"
     },
     {
+      "added_at": "2025-03-21 05:32:29",
+      "album": {
+        "name": "La Pelirroja",
+        "url": "https://open.spotify.com/album/4DqYrcBKkblqWqbOpUWCK1"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 164745,
+      "name": "La Pelirroja",
+      "url": "https://open.spotify.com/track/6Jz04ruR15iuwrUwW3usr9"
+    },
+    {
       "added_at": "2025-02-28 04:59:20",
       "album": {
         "name": "LA CIUDAD",
@@ -51,6 +67,22 @@
       "duration_ms": 177049,
       "name": "una noche",
       "url": "https://open.spotify.com/track/634CTghcuEDy2FXcTsLG5m"
+    },
+    {
+      "added_at": "2025-03-21 05:32:29",
+      "album": {
+        "name": "sorry por esta canci\u00f3n (Londres)",
+        "url": "https://open.spotify.com/album/65x1sUS2zqKdDzA3VB9nlB"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "duration_ms": 214010,
+      "name": "sorry por esta canci\u00f3n (Londres)",
+      "url": "https://open.spotify.com/track/2iGuYT6EmMGVXVZShiQ5SC"
     },
     {
       "added_at": "2025-03-07 05:44:01",
@@ -113,6 +145,26 @@
       "url": "https://open.spotify.com/track/6BVwjfkHaq3oxomEvu1kET"
     },
     {
+      "added_at": "2025-03-21 05:32:29",
+      "album": {
+        "name": "ILY",
+        "url": "https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 216621,
+      "name": "ILY",
+      "url": "https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0"
+    },
+    {
       "added_at": "2025-03-07 05:44:01",
       "album": {
         "name": "La Cantina",
@@ -141,6 +193,22 @@
       "url": "https://open.spotify.com/track/73G3ZxbNKaJgDKQiXPQSGO"
     },
     {
+      "added_at": "2025-03-21 05:32:29",
+      "album": {
+        "name": "Alma Bendita",
+        "url": "https://open.spotify.com/album/6KADxWkA1nPZo3g8t9iCHE"
+      },
+      "artists": [
+        {
+          "name": "Velaviee",
+          "url": "https://open.spotify.com/artist/6yBqeacW7mGI4DkiNsYmaq"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Alma Bendita",
+      "url": "https://open.spotify.com/track/1whL85mReYAcv9xbpIST9p"
+    },
+    {
       "added_at": "2025-02-28 04:59:20",
       "album": {
         "name": "La Pista",
@@ -159,6 +227,26 @@
       "duration_ms": 177389,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/5ruXmcIszTA8a5GWfloGWV"
+    },
+    {
+      "added_at": "2025-03-21 05:32:29",
+      "album": {
+        "name": "Dando Vueltas",
+        "url": "https://open.spotify.com/album/6ggzEqaDwakWrfmb6z4PcK"
+      },
+      "artists": [
+        {
+          "name": "Simon Savi",
+          "url": "https://open.spotify.com/artist/1JNrUhhfADUblA8VSbWCl0"
+        },
+        {
+          "name": "Greccia",
+          "url": "https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K"
+        }
+      ],
+      "duration_ms": 177196,
+      "name": "Dando Vueltas",
+      "url": "https://open.spotify.com/track/2Srk8jVfZ127B9M3xSFueE"
     },
     {
       "added_at": "2025-02-28 04:59:20",
@@ -807,26 +895,6 @@
     {
       "added_at": "2025-02-28 04:59:20",
       "album": {
-        "name": "CAIRO",
-        "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "CAIRO",
-      "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
-    },
-    {
-      "added_at": "2025-02-28 04:59:20",
-      "album": {
         "name": "Balas Perdidas",
         "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
@@ -859,26 +927,6 @@
     {
       "added_at": "2025-02-28 04:59:20",
       "album": {
-        "name": "El Merengue",
-        "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 189668,
-      "name": "El Merengue",
-      "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
-    },
-    {
-      "added_at": "2025-02-28 04:59:20",
-      "album": {
         "name": "Antes De Que Amanezca",
         "url": "https://open.spotify.com/album/2gg7wgRW4yK27ex7rNvWuW"
       },
@@ -891,38 +939,6 @@
       "duration_ms": 162181,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/2TjbYeDUbfTK9xTdj6oyuR"
-    },
-    {
-      "added_at": "2025-02-28 04:59:20",
-      "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
-    },
-    {
-      "added_at": "2025-02-28 04:59:20",
-      "album": {
-        "name": "Primera Cita",
-        "url": "https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 186455,
-      "name": "Primera Cita",
-      "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
     },
     {
       "added_at": "2025-02-28 04:59:20",
@@ -943,26 +959,6 @@
       "duration_ms": 176086,
       "name": "Salir Con Vida",
       "url": "https://open.spotify.com/track/5OX1JvE7gTkOd1DSzlrtFw"
-    },
-    {
-      "added_at": "2025-02-28 04:59:20",
-      "album": {
-        "name": "CALOR",
-        "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 200769,
-      "name": "CALOR",
-      "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
     },
     {
       "added_at": "2025-02-28 04:59:20",

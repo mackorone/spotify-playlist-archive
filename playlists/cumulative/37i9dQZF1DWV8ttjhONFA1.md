@@ -4,7 +4,7 @@
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: Ainda.
 
-352 songs - 19 hr 14 min
+353 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Quereme Siempre](https://open.spotify.com/track/5eT8Why2mqdiI73Os1BLk9) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee) | [Quereme Siempre](https://open.spotify.com/album/0n1LW0iPsFVtNd4DFkIuED) | 2:57 | 2023-12-15 | 2024-03-16 |
 | [Quieto](https://open.spotify.com/track/6L6GbSoWzfm0ZDZGsskkN5) | [Farol](https://open.spotify.com/artist/3kBISQeVHtMyOH3Va7UXqu), [Josearmen](https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf), [Francisco Sola](https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu) | [Quieto](https://open.spotify.com/album/2dqfvBw8Vgw98JL6CpqS41) | 3:03 | 2024-10-25 |  |
 | [Resaca](https://open.spotify.com/track/1vgwKBxFV0KRoKlEq2fqkk) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Resaca](https://open.spotify.com/album/0kXhUyBXTjElgrkGStIVMr) | 3:22 | 2024-02-23 | 2024-04-27 |
+| [Revelación II](https://open.spotify.com/track/3wQ7k5JnWMGBaYtQUKP1Kg) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Revelación II](https://open.spotify.com/album/028zg81OZTtl4ZlaFOA5PA) | 3:42 | 2025-03-21 |  |
 | [Ritmo de la Noche](https://open.spotify.com/track/66XpgMyLOVkxaaFIZNCeHE) | [Los Reyes del Falsete](https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd), [Susi Pireli](https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN) | [Operación Abrazo y Beso](https://open.spotify.com/album/1mHTYUqs4h4lnQYMu52KXb) | 5:06 | 2024-09-06 |  |
 | [Romance Con la Luna \- Remix](https://open.spotify.com/track/5eBMtd2aLti1fdIHhn7EOp) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G), [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Romance Con la Luna \(Remix\)](https://open.spotify.com/album/5h7e39sPEoBLYwE6lsD1Of) | 3:50 | 2024-03-15 | 2024-09-14 |
 | [romantiklov <3](https://open.spotify.com/track/6eNU9r9JCEjmodmoQo8lwf) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [romantiklov <3](https://open.spotify.com/album/2rkMB180JWhLwRXBHHmOlj) | 3:06 | 2023-12-15 | 2024-03-09 |

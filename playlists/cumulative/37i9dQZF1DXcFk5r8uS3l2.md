@@ -2,9 +2,9 @@
 
 ### [Blues Roots](https://open.spotify.com/playlist/37i9dQZF1DXcFk5r8uS3l2)
 
-> You've come to the crossroads of soul, folk, and the blues\. Cover: Ruthie Foster
+> You've come to the crossroads of soul, folk, and the blues\. Cover: Southern Avenue
 
-424 songs - 1 day 2 hr 32 min
+425 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [First McDonell's on the Moon](https://open.spotify.com/track/5tIPp0eDCVopzvXyeMgUOm) | [Jake La Botz](https://open.spotify.com/artist/7pHtidPDRlqg71cTcwjWQX) | [First McDonell's on the Moon](https://open.spotify.com/album/6hVnFJurOhApCMbjug96f4) | 3:51 | 2022-04-01 | 2023-04-09 |
 | [Flash\-A\-Magic](https://open.spotify.com/track/7ornB0tNXeHMuVscygsTOB) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Flash\-A\-Magic](https://open.spotify.com/album/21SDAsPqwgYGKerUlgjpNB) | 3:17 | 2024-08-02 | 2024-09-07 |
 | [Forever You and Me](https://open.spotify.com/track/4GUaG3df9nbrj77GKEB76j) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Forever You and Me](https://open.spotify.com/album/1aUMtW3DvOoPetvGzgkuUW) | 2:55 | 2021-12-17 | 2023-02-25 |
-| [Found A Friend In You](https://open.spotify.com/track/1WXAspzwAg4loOothMAxis) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Found A Friend In You](https://open.spotify.com/album/2J9ZviZDjKMSqBerq84iKw) | 2:38 | 2024-09-06 |  |
+| [Found A Friend In You](https://open.spotify.com/track/1WXAspzwAg4loOothMAxis) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Found A Friend In You](https://open.spotify.com/album/2J9ZviZDjKMSqBerq84iKw) | 2:38 | 2024-09-06 | 2025-03-22 |
 | [Freedom Is A Constant Struggle](https://open.spotify.com/track/7pazEod5kIZKCpppre6kvx) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Joy Clark](https://open.spotify.com/artist/7BTIW6ksfRBJ50xe6EtXjJ), [Lilli Lewis](https://open.spotify.com/artist/2dh2iaRf6yHgqVmEJok53L), [Sabine McCalla](https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR), [Sula Spirit](https://open.spotify.com/artist/7qXJE0O3NsmQssEePihY2L), [Cassie Watson Francillon](https://open.spotify.com/artist/6LuBYCozHo0lrFf7CnkgMX) | [Freedom Is A Constant Struggle](https://open.spotify.com/album/2mGTeZBnyXP7CTapaW1p9S) | 3:24 | 2023-05-12 |  |
 | [Freedom Road](https://open.spotify.com/track/5zRlD6bPTJI0zBvqMJ2H95) | [Indra Rios\-Moore](https://open.spotify.com/artist/43WX6yWKK6qAqKCr2d3yw9) | [Freedom Road](https://open.spotify.com/album/3fN5DXHpo9ut4TmVAouTRG) | 3:43 | 2022-03-18 |  |
 | [Fresh Bones](https://open.spotify.com/track/5TDEy1qTEFWwdWTZ9K9v3p) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [Fresh Bones](https://open.spotify.com/album/5YVPNyHgApTTHosueEDxEZ) | 3:14 | 2024-05-31 | 2024-07-06 |
@@ -399,6 +399,7 @@
 | [Unchange](https://open.spotify.com/track/6jiK5cO3rWtPsEGTO1117A) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Unchange](https://open.spotify.com/album/5n4rd614E0RVAuZNCtojLW) | 3:24 | 2022-05-27 | 2024-04-19 |
 | [Underestimate Me](https://open.spotify.com/track/4Aekbv712FflNiu4ldLkQF) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Underestimate Me](https://open.spotify.com/album/6NlxnHXuCl2pJK5uxhlQPM) | 3:08 | 2023-12-15 |  |
 | [Until the Heat Leaves Town](https://open.spotify.com/track/1QjOBgzl45AYVVa4yWpZjA) | [Colin Linden](https://open.spotify.com/artist/6bFn0wonviH3NJmY1FSNkZ) | [Until the Heat Leaves Town](https://open.spotify.com/album/2X1aR4wJFLvQP495uh62ag) | 3:33 | 2021-12-17 | 2022-06-14 |
+| [Upside](https://open.spotify.com/track/2mYnzR2Gm5mGNft7rZsInE) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Upside](https://open.spotify.com/album/4b2rsJxm5i3BTj1mkhGGSJ) | 5:01 | 2025-03-21 |  |
 | [Vagabond Child](https://open.spotify.com/track/3BmUelOQ6baSxhnjHbz3dN) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Vagabond Child](https://open.spotify.com/album/4RoZNKiI7c3CFMmfZgK9zL) | 4:18 | 2023-02-24 | 2023-04-30 |
 | [Vagabond Child](https://open.spotify.com/track/7MwMzotdcMvaLW9wKw1o8B) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Vagabond Child](https://open.spotify.com/album/3g8APYq62pieBdh7qu1KPU) | 4:18 | 2023-02-24 | 2023-06-24 |
 | [Victory Voices](https://open.spotify.com/track/2DXVg5DdblrOWYvlGDmwJt) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Lily James](https://open.spotify.com/artist/7gWjOPetXNCBqlVe6axl8K) | [In The Real World](https://open.spotify.com/album/5I46bTsjuXB4kq2JgRCEjG) | 4:01 | 2024-10-18 |  |

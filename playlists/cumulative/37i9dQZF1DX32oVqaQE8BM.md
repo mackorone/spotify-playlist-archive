@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-664 songs - 1 day 4 hr 29 min
+666 songs - 1 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [C'mon My Friend](https://open.spotify.com/track/5QG6fzHI2A0PizUmDkVGvB) | [Ludo Cana](https://open.spotify.com/artist/3EngXbGniIxSxeLt4zb2IK) | [C'mon My Friend](https://open.spotify.com/album/1HAiOS2VNV2bpIyuoF0CxE) | 2:36 | 2021-11-10 | 2023-01-13 |
 | [Cabana](https://open.spotify.com/track/0ZTWIZ2Avw0El0ZPCRV1ka) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Cathartic](https://open.spotify.com/album/1qn7HpgYuij9FtWD1KIxHd) | 1:52 | 2021-11-10 | 2023-02-10 |
 | [Cabin House](https://open.spotify.com/track/67deXf90gwZw4QeAWHiylh) | [lofi geek](https://open.spotify.com/artist/1hqeRW1EQZ1flf02acnGVU) | [Cabin House \(Lofi Hip Hop\)](https://open.spotify.com/album/6BXMZHSTUqvCYdCS8WOGHy) | 3:04 | 2022-04-15 | 2024-12-21 |
+| [Café Nocturne](https://open.spotify.com/track/1LKoAmLMnNJ4Dwr77unc0h) | [Generation.](https://open.spotify.com/artist/1WoQDlJJ6xAsBaJSRSYx9o) | [Café Nocturne](https://open.spotify.com/album/0gsjqGZCtxEgk2KnLr7Za4) | 2:10 | 2025-03-21 |  |
 | [Calm Idle](https://open.spotify.com/track/0x63Et1eXjwD5ZdFdQAsSn) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Calm Idle](https://open.spotify.com/album/4LppqAEzldIVT3bSyozpgu) | 2:49 | 2023-06-09 | 2024-11-23 |
 | [Calm Morning](https://open.spotify.com/track/79UTgOcBQ7GBXCXhAacWMl) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Calm Morning](https://open.spotify.com/album/7xfI7LvjjlI7TT2Ebzr5mB) | 1:56 | 2022-07-08 | 2023-07-29 |
 | [Calma Tranquilla](https://open.spotify.com/track/0SC85m5L8K9gES5M3Y4Mqb) | [Carlo Cipriani](https://open.spotify.com/artist/5lXIK5LjHj6sjXP3cgP5N1) | [Calma Tranquilla](https://open.spotify.com/album/2lLmQokjLZK9V3oJ9DQI8o) | 2:05 | 2021-11-10 | 2022-05-20 |
@@ -652,6 +653,7 @@
 | [We'll Find A Way Through](https://open.spotify.com/track/31EnI88lj1SaCEshkj7YAQ) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [We'll Find A Way Through](https://open.spotify.com/album/7yCIs5FbtREkdRR2QQSvZD) | 3:41 | 2025-01-31 |  |
 | [Weave](https://open.spotify.com/track/4iYFb2ChzBJ2CvgtePMpSM) | [Kyra Mora](https://open.spotify.com/artist/25XZKnvJlYGzMYE0qty5OM) | [Weave](https://open.spotify.com/album/1Pv9MqpZohiDQ8lKOWhLnP) | 2:33 | 2021-11-10 | 2022-08-20 |
 | [When in Rome](https://open.spotify.com/track/5gG8n4ZPxAF7W0G65rZzld) | [Vidstige](https://open.spotify.com/artist/1VT2USJnh1iwDdgyhMoWTR) | [When in Rome](https://open.spotify.com/album/1zFhvn0e1gsOBMtvKoj2AT) | 2:18 | 2022-11-25 | 2024-08-22 |
+| [Whenever](https://open.spotify.com/track/1cOSz8c3vgIuME1acgzac6) | [Leo Lemón](https://open.spotify.com/artist/0UV1gZRx5rxnptMwUtFRqQ) | [Whenever](https://open.spotify.com/album/7zqNcLoPzFLHJ0HJitaoOW) | 2:04 | 2025-03-21 |  |
 | [While Coffee Brews](https://open.spotify.com/track/5F6Jdqh11eZK36IH9t5pTr) | [longwayfromhome](https://open.spotify.com/artist/1dfULz0Piwd2pjpwve3Xyh) | [While Coffee Brews](https://open.spotify.com/album/42SE9uaQNVcAXoHEJpjgkO) | 2:04 | 2025-01-17 |  |
 | [Whispered Winds](https://open.spotify.com/track/2bkaAE4VM6lLeygzWsakdz) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [Whispered Winds](https://open.spotify.com/album/4D4TennrYGTmUk0el0lebi) | 2:09 | 2021-11-10 |  |
 | [White Sands.](https://open.spotify.com/track/1F3IE5tmgY0SEGYSUzHbbM) | [Eyesoh](https://open.spotify.com/artist/7G1G3yjzHEywXqL0G14I1Q) | [White Sands.](https://open.spotify.com/album/5g5Yd5UpXgnxxYqxd68kYU) | 2:46 | 2023-01-20 | 2025-02-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: FAB GODAMN, Franco, the Sir!, WillsBife
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,165 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,155 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 59 | [Sem Sofrimento](https://open.spotify.com/track/7uuEDlKZAW0pYHOqjNOow0) | [Lazza](https://open.spotify.com/artist/3D2HMyfRTLvIi7cOOSO6Xs), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq) | [Sem Sofrimento](https://open.spotify.com/album/2AvdVu0uR1za758IJHOkAT) | 2:57 |
 | 60 | [Você Sabe](https://open.spotify.com/track/5Xpj8Z85aR3IjAnC4QAauT) | [Kempa](https://open.spotify.com/artist/200idtjWvqtkeXPyqqdFbP), [eutazz](https://open.spotify.com/artist/4tmo1mL6hixMti6eVchWxJ), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq) | [Você Sabe](https://open.spotify.com/album/6JNMwaZ8TLYfRrEJQWsDzO) | 2:17 |
 | 61 | [cosmo&wanda freestyle](https://open.spotify.com/track/3L8gFM1CLCtOmUsnAE9V6j) | [Xamuel](https://open.spotify.com/artist/62T0lHxZPLwEo96o1cgBoC) | [cosmo&wanda freestyle](https://open.spotify.com/album/7dj4F65uVdc8Lck1GlB239) | 2:17 |
-| 62 | [CPA](https://open.spotify.com/track/5gZ9SZooFD7y5YuaAoYVsB) | [Yung Kurz](https://open.spotify.com/artist/6WIurCdF9P7hTYBQFjqsj7), [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [hashi tzz](https://open.spotify.com/artist/5MxfUqsyj9YXeY07EKrouq) | [CPA](https://open.spotify.com/album/3t7Vbyvkgz3LPOSvEW28my) | 3:29 |
+| 62 | [CPA](https://open.spotify.com/track/5gZ9SZooFD7y5YuaAoYVsB) | [Yung Kurz](https://open.spotify.com/artist/6WIurCdF9P7hTYBQFjqsj7), [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [Morceguin 2z](https://open.spotify.com/artist/35zu51RwC07LWwR54kyneb) | [CPA](https://open.spotify.com/album/3t7Vbyvkgz3LPOSvEW28my) | 3:29 |
 | 63 | [n me desaponta, eu desmarquei com outras](https://open.spotify.com/track/7FQyjPSVj1gVTHEkD9hwsZ) | [Ogrand](https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [n me desaponta, eu desmarquei com outras](https://open.spotify.com/album/6PvepjUprSNn48Zrc8Ns51) | 2:19 |
 | 64 | [Esperança do Meu Bairro](https://open.spotify.com/track/2LMZK90NW1fsTU4rgUJfPX) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB) | [Esperança do Meu Bairro](https://open.spotify.com/album/1KdexIS0BoTrGXMFxMSxMc) | 1:58 |
 | 65 | [GIRO DO TRAP](https://open.spotify.com/track/56lPUlBh9gEIKTsShQ7ZQr) | [Trunks](https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Hogs](https://open.spotify.com/artist/3vxTDpcpqELQ9CMVSXHBvO) | [GIRO DO TRAP](https://open.spotify.com/album/24JXESTHbMJz9oQVIoO2vm) | 3:12 |

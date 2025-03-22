@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain](/playlists/plain/4PTwL8zhsUOQU9yYVJjn8N) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4PTwL8zhsUOQU9yYVJjn8N)
 
-### [006 𓏵 All kittydog songs](https://open.spotify.com/playlist/4PTwL8zhsUOQU9yYVJjn8N)
+### [^\_^ All kittydog songs](https://open.spotify.com/playlist/4PTwL8zhsUOQU9yYVJjn8N)
 
 > 
 
-[can of beans](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 212 likes - 176 songs - 5 hr 35 min
+[can of beans](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 214 likes - 176 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 | 175 | [WIN WIN WIN](https://open.spotify.com/track/6eeRIbNpBDu98MRRUHl6ID) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [WIN WIN WIN](https://open.spotify.com/album/1tB0QyCUz3fJM5FVzvtdVN) | 2:52 |
 | 176 | [WIN WIN WIN \- Instrumental](https://open.spotify.com/track/3dzrZUMKDhNMrBe3VBS2qG) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [WIN WIN WIN](https://open.spotify.com/album/1tB0QyCUz3fJM5FVzvtdVN) | 2:52 |
 
-Snapshot ID: `AAAAgBp9VDtOekcNsG0EQFDIduBLxmcO`
+Snapshot ID: `AAAAgR4s1UOshAuDZL1mL0MhhA6RdN33`

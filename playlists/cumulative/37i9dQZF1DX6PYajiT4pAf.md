@@ -4,7 +4,7 @@
 
 > Delaossa, Omar Montes x Dei V, Ozuna, Lia Kali y más novedades importantes de la semana.
 
-1,506 songs - 3 day 4 hr 33 min
+1,508 songs - 3 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-07 | 2025-02-14 |
 | [abrigo](https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [abrigo](https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa) | 2:49 | 2024-10-24 | 2024-11-01 |
 | [Abriles](https://open.spotify.com/track/09vAG6z1AejyXGQU1GUPe8) | [Javi Medina](https://open.spotify.com/artist/6dwFgF51JkLBz93ocNJ0Ol) | [Abriles](https://open.spotify.com/album/0YMaJSn2xcfduOn42QemkD) | 2:41 | 2025-01-10 | 2025-01-17 |
+| [Abrázame Fuerte](https://open.spotify.com/track/4QLSlcu2gXe6ABcXDs6xl2) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [GIRASOLES](https://open.spotify.com/album/2mk78J70fArsjx0EG7Xi6R) | 3:28 | 2025-03-20 |  |
 | [Abuela](https://open.spotify.com/track/2zFBUm16VUyUuOSg8b5pNU) | [Kike & Manu](https://open.spotify.com/artist/1fG28qIFkvShX2nhQZvuqC), [Ozarus](https://open.spotify.com/artist/4DnQtKDnMN03ahgfDWcmJz) | [Abuela](https://open.spotify.com/album/3TBHeMzwW0nxDrgrnMcBPi) | 2:53 | 2024-12-13 | 2024-12-20 |
 | [Aburridos \(Arial 8\)](https://open.spotify.com/track/7LGUN1QoI4CN3iLBSKOTAS) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Arial 12](https://open.spotify.com/album/3zNdYtDcUBAYTjt8fCCIrQ) | 2:38 | 2024-10-24 | 2024-11-01 |
 | [ACEITE DE COCO \(feat\. Ryan Castro, De La Ghetto, Darell, Sahir, Hades66, Kris R.\)](https://open.spotify.com/track/0hzO3OqNIPCwRKxvwBdtjS) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [ACEITE DE COCO \(feat\. Ryan Castro, De La Ghetto, Darell, Sahir, Hades66, Kris R.\)](https://open.spotify.com/album/7K7gpv5RyKPE8hJK8HEXRV) | 6:41 | 2025-01-16 | 2025-01-24 |
@@ -645,6 +646,7 @@
 | [Juguete](https://open.spotify.com/track/4z46E3coZuv7TeGawEd4Ze) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Juguete](https://open.spotify.com/album/6I7lY45BATN3V19Kqlhmnv) | 3:23 | 2024-11-01 | 2024-11-08 |
 | [julia](https://open.spotify.com/track/6hjWNJFzuqXfBT0DDJORYS) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [julia](https://open.spotify.com/album/7MBsjo49lqjaHf1Sc9KoGu) | 3:12 | 2025-01-16 | 2025-01-24 |
 | [Juro Que](https://open.spotify.com/track/55g8pO2TbOvBoNVRgrM935) | [Kike & Manu](https://open.spotify.com/artist/1fG28qIFkvShX2nhQZvuqC), [Ozarus](https://open.spotify.com/artist/4DnQtKDnMN03ahgfDWcmJz) | [Juro Que](https://open.spotify.com/album/23CCHmgNmefaw1fZ0s31n4) | 2:27 | 2025-01-31 | 2025-02-07 |
+| [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 | 2025-03-20 |  |
 | [Jóvenes para siempre](https://open.spotify.com/track/1fDX7LMNUqP3ExYcmTflJ7) | [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g) | [Canciones sin videoclip Vol\. 1](https://open.spotify.com/album/49AAu0b2CJb67ULFefyjUz) | 3:24 | 2025-02-20 | 2025-02-28 |
 | [Jóvenes y Libres](https://open.spotify.com/track/7v59Etv5h08hjuwuZN3bdh) | [Lucas Curotto](https://open.spotify.com/artist/4UBQkCCCiFpRGxAZfXpkcT) | [Jóvenes y Libres](https://open.spotify.com/album/7uiQyVQqlzGkTuY1fA4EMV) | 2:44 | 2025-03-13 | 2025-03-21 |
 | [K\-Rico](https://open.spotify.com/track/0uDSEZzJ9lj7xSM3bXGl45) | [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [K\-Rico](https://open.spotify.com/album/3JuOjdy9jlk9o70gD1nYcX) | 2:01 | 2025-01-31 | 2025-02-07 |

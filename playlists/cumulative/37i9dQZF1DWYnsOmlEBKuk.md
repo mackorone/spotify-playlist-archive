@@ -4,7 +4,7 @@
 
 > Ruido blanco para ayudar a los bebés a dormir.
 
-251 songs - 12 hr 16 min
+252 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Blank Canvas \- White Noise](https://open.spotify.com/track/5mTijH5hUc90DxnmaccSKQ) | [Lavender Balm](https://open.spotify.com/artist/4N8OrA1MLAkEU05eVyYyFa) | [Blank Canvas](https://open.spotify.com/album/3HscTMRRJj7zkb4MYQ7tNa) | 2:27 | 2023-12-04 | 2025-02-13 |
 | [Breathe Easy](https://open.spotify.com/track/7LnDKGTwMoLv3XSgxOnj83) | [High Res Lo Fi](https://open.spotify.com/artist/2EHYuRVxkX0f9VsvoOSCI1) | [Weekly White Noise](https://open.spotify.com/album/1HMBbQKH4GveqLBuITbvWf) | 2:35 | 2023-09-11 | 2025-02-05 |
 | [Bright Sound](https://open.spotify.com/track/1tK5k6HSQDKd46LpreI55I) | [Only Noise Machine](https://open.spotify.com/artist/7cdo1ksUSETbrK7XFZ90Xh) | [Bright Sound](https://open.spotify.com/album/7mzk5MEmi4P31ln34bZsAD) | 2:12 | 2023-09-11 |  |
+| [Buzzing](https://open.spotify.com/track/1vQKwIcjUZPbpFu6nExDZT) | [Pentadecimal](https://open.spotify.com/artist/6N70t9WnJfxcRSzxMmFF1R) | [Buzzing](https://open.spotify.com/album/4fD8l4PgXb6xQ2dqZKskMR) | 2:51 | 2025-02-04 |  |
 | [Cabin Noise Melody](https://open.spotify.com/track/4TVbi0QfkzKCvLeIIPfKqb) | [Minorie HD](https://open.spotify.com/artist/4s3zLaJUhGoYhcFHwlnIgw) | [Cabin Noise Melody](https://open.spotify.com/album/11uCdzSWLtGVOjm0Vk4AZh) | 2:01 | 2023-09-11 |  |
 | [Cabination Noise](https://open.spotify.com/track/0BHUIuLE8ZqojV6LqswBgS) | [Noise Project](https://open.spotify.com/artist/7K3z2X4heN5Ce5SGX71Tk0) | [Cabination Noise](https://open.spotify.com/album/2jc10ym0IheRE96y87ndm7) | 2:02 | 2023-09-11 |  |
 | [Calmed By Rest](https://open.spotify.com/track/4Enk3Ss0Mp6L8eCgL2WbEv) | [StyccO](https://open.spotify.com/artist/1QGbGUg3knUksMO2zgHQxD) | [Calmed By Rest](https://open.spotify.com/album/0kutugjk0S5NsARHxKBSNq) | 2:38 | 2023-09-11 |  |
@@ -169,7 +170,7 @@
 | [stream noise](https://open.spotify.com/track/0TuxsiscJFhlbOkKuFBQVQ) | [noisenoisenoise](https://open.spotify.com/artist/520IgJZ2NunNadFVU1JCDq) | [stream noise](https://open.spotify.com/album/23Ja108aPkElHkZsgjlduA) | 2:56 | 2023-09-11 |  |
 | [Streams Of White Noise](https://open.spotify.com/track/431o4ppINAaETCjpsGkGDv) | [Noise Factory](https://open.spotify.com/artist/686XlpvIgKX6Vvlpi4DXbe) | [The Rhythm Of Noise](https://open.spotify.com/album/5A2FT4FE0UZU06spwKPqox) | 2:11 | 2023-09-11 |  |
 | [System Shutdown](https://open.spotify.com/track/4SJTFnmmfxotIdw2psMeDp) | [Synthetic Architect](https://open.spotify.com/artist/7CUcdQhE3WLGPzn3sEJNd5) | [Digitalion](https://open.spotify.com/album/2rHCzAuZnw7DcH7R0Nv2fM) | 3:00 | 2023-09-11 |  |
-| [The Aerospace](https://open.spotify.com/track/27dGRI4yg5bVlH5yugVqCf) | [Colorix](https://open.spotify.com/artist/0WFH9vqXxzL2VxCzHmWkdI) | [The Aerospace](https://open.spotify.com/album/186oSgG5KP535PRnwXt1LE) | 2:52 | 2023-09-11 |  |
+| [The Aerospace](https://open.spotify.com/track/27dGRI4yg5bVlH5yugVqCf) | [Colorix](https://open.spotify.com/artist/0WFH9vqXxzL2VxCzHmWkdI) | [The Aerospace](https://open.spotify.com/album/186oSgG5KP535PRnwXt1LE) | 2:52 | 2023-09-11 | 2025-03-22 |
 | [The best Sleep Noise](https://open.spotify.com/track/6cNCm1mNVc81UwLQc3Ze03) | [Wavelab](https://open.spotify.com/artist/7AbQo3tDp5SYr5ctDcNC21) | [The best Sleep Noise](https://open.spotify.com/album/2YX5LALBMTwcmbT0U0tU4I) | 4:34 | 2024-02-05 |  |
 | [The Dark White Noise](https://open.spotify.com/track/0Se7OnifRxYPVsimoV1Yyb) | [Universal Waves](https://open.spotify.com/artist/1J9iGTlSe1UKgzNbILBnL8) | [The Deep White Noise](https://open.spotify.com/album/4ReLyNKP6q9McH4V9nu7z3) | 3:12 | 2023-09-11 |  |
 | [The Deep White](https://open.spotify.com/track/0qaFcuTx3BEEu4ZSaKCfiu) | [Taekoma](https://open.spotify.com/artist/2T7PXFO7TnyryQ8dvpD9Di) | [The Deep White](https://open.spotify.com/album/5I2zI1uaNWKCgyvY6VhbO4) | 3:08 | 2023-09-11 |  |

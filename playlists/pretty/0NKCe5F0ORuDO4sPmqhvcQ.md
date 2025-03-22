@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,582 likes - 135 songs - 7 hr 50 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,581 likes - 136 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,5 +143,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 133 | [Pound Town](https://open.spotify.com/track/61yXM2XDYQkjWJsydNtwTz) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL) | [Pound Town](https://open.spotify.com/album/6oqFuZKIyU7FKnk4RyjXET) | 3:19 |
 | 134 | [eye2eye \- Jai Wolf Remix](https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [eye2eye \(Jai Wolf Remix\)](https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv) | 4:13 |
 | 135 | [MOVEMENT! \(feat\. XKYLAR\)](https://open.spotify.com/track/6l19K7QQtoEjQ9lIYTIYul) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [MOVEMENT! \(feat\. XKYLAR\)](https://open.spotify.com/album/21w0JBs8aPxFLb2Qx9ZPTk) | 3:07 |
+| 136 | [Chemicals](https://open.spotify.com/track/6N3xZEUzHtvkd7S66wSS0D) | [Tavatli](https://open.spotify.com/artist/1B8akzCypOte40Fscvj968), [Luxtides](https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe) | [Afraid Of The Dark EP](https://open.spotify.com/album/2MvFlPSWTJgl2BQ4vbIpda) | 3:38 |
 
-Snapshot ID: `AAAqSpjIyGaX1cJmnfWP3P6stFU4r7F8`
+Snapshot ID: `AAAqS278t7iVfUfOsU78/zZ6DzKfZGhe`

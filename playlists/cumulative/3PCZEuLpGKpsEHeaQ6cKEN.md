@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  D.O.D, NORTH
 
-1,326 songs - 2 day 22 hr 49 min
+1,328 songs - 2 day 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1005,6 +1005,7 @@
 | [Shot At Love](https://open.spotify.com/track/6tDtuaCX0sIea6o8Qmpyae) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Husky](https://open.spotify.com/artist/74AV853eXs56Dqe8TSahzk) | [Feel Again, Pt\. 2](https://open.spotify.com/album/3dEp3i7jIlR5VtsOlMhi3Q) | 3:22 | 2022-10-20 | 2022-11-11 |
 | [Show Me Love](https://open.spotify.com/track/4kisbBB7d1dBopBfL44yRk) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Show Me Love](https://open.spotify.com/album/1atdTYWB10uj8g81U7au4d) | 2:48 | 2025-02-05 | 2025-02-07 |
 | [Shut Up & Dance](https://open.spotify.com/track/3FfCBsTguyzfy9SRVp9sZ2) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Shut Up & Dance](https://open.spotify.com/album/4XEB0s8w1pu0LzftsN6Wyq) | 2:25 | 2024-08-29 |  |
+| [Shut up and Dance](https://open.spotify.com/track/4NQJYYn7Ah8HcxESR2udGe) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Shut up and Dance](https://open.spotify.com/album/3ZcXAUaJXfIZeghEXqHdSQ) | 2:34 | 2025-03-21 |  |
 | [Silence](https://open.spotify.com/track/4zsqHhDIC8xgP0L9bPMQrL) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Silence](https://open.spotify.com/album/2RpAGLWCRu8R78tDj0JXa6) | 3:59 | 2024-12-20 |  |
 | [Silence \- Andrew Rayel & Achilles Remix](https://open.spotify.com/track/4d5tAMeWSY0kHNREsP1LiF) | [Delerium](https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp), [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka) | [Silence \(Andrew Rayel & Achilles Remix\)](https://open.spotify.com/album/7McfeMftwnFtwLtAgLHOhK) | 2:53 | 2023-03-16 | 2023-06-09 |
 | [Silence \- AVIRA Remix](https://open.spotify.com/track/3HLCOthcpNZteCJ3j2IOfF) | [Delerium](https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [Armada Electronic Elements \- Ibiza 2022](https://open.spotify.com/album/6U9PO4D4bzErgGG2B8eCL1) | 4:40 | 2022-06-10 | 2022-08-26 |
@@ -1115,6 +1116,7 @@
 | [Telia](https://open.spotify.com/track/35FQqed9hIZ3q9XiEkdUdl) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Telia](https://open.spotify.com/album/3BYr45sLyEhIgX5pzU4VYB) | 3:52 | 2025-02-13 |  |
 | [Tengo Fuego](https://open.spotify.com/track/1CHYzp3JApDRMGDGhf15iw) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Tengo Fuego](https://open.spotify.com/album/7iEKNRehvEwhwwWTTGPhOG) | 3:07 | 2024-06-20 | 2024-10-19 |
 | [Tequila](https://open.spotify.com/track/6uqpNQYnxhPEjiCxDGJPPi) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Tequila](https://open.spotify.com/album/4JpqHaDLwKHq8N6xhM2H5M) | 2:39 | 2024-02-15 | 2024-08-31 |
+| [Tequila, You & I](https://open.spotify.com/track/4AUCjxWTsVwuw9YEHvLM0A) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Cassie Ann](https://open.spotify.com/artist/5LJRswr6IhkRRkq1EHDuwj) | [Tequila, You & I](https://open.spotify.com/album/3EpPNk2AIdkCrACGdy5Oo1) | 2:09 | 2025-03-21 |  |
 | [That Feeling](https://open.spotify.com/track/1JG4t7ekJoQjQkgToEAqI0) | [George Feely](https://open.spotify.com/artist/754g9H1CJLzlgTmMZTFC81) | [Ibiza 2023 \- Armada Music](https://open.spotify.com/album/08t2nRgDFFGc8qZq3NntAg) | 3:18 | 2023-07-31 | 2023-12-14 |
 | [That Feeling](https://open.spotify.com/track/77NRqUu87HrqaNUNRL7CNk) | [George Feely](https://open.spotify.com/artist/754g9H1CJLzlgTmMZTFC81) | [That Feeling](https://open.spotify.com/album/6bgERXPHN8O6g23dWzSMKb) | 3:18 | 2023-06-20 | 2023-08-01 |
 | [That Feeling \- Jordan Nocturne Remix](https://open.spotify.com/track/0iVDETLNxhzOmLyRJRTZVg) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Steffanie Christi'an](https://open.spotify.com/artist/7kY9ne2m81JVEziwNj9tTF), [Jordan Nocturne](https://open.spotify.com/artist/2yXuTkmZAi1D8vXJrRA72W) | [We All Move Together \- Remixes](https://open.spotify.com/album/4uQCLjkZ10Su9JicEEVynb) | 2:33 | 2024-05-02 | 2024-10-19 |

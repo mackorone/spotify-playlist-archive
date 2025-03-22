@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Selena Gomez, benny blanco
 
-1,730 songs - 3 day 17 hr 14 min
+1,731 songs - 3 day 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1005,6 +1005,7 @@
 | [Miss U](https://open.spotify.com/track/5sJ1xbRFMVUgTy8qLaEHba) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Miss U](https://open.spotify.com/album/2OESSRquRHX18HYGPsIHsq) | 2:41 | 2025-01-16 | 2025-02-28 |
 | [Mistake](https://open.spotify.com/track/1WLpHzABY3TFLkOQoU4bDW) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Mistake](https://open.spotify.com/album/0I3LNftLmxI702wknVkcfg) | 2:24 | 2024-04-11 | 2024-06-01 |
 | [Molly Sucks \(At Parties\) \[feat\. Chanel Loren\]](https://open.spotify.com/track/3boVjk1GSKD4mnJJbmdXf9) | [GAZAL](https://open.spotify.com/artist/6DJk0meRu8KvWmCngfBvDU), [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Molly Sucks \(At Parties\) \[feat\. Chanel Loren\]](https://open.spotify.com/album/7pETeC6zWXLdNGFGrdM6X8) | 3:13 | 2023-09-28 | 2023-10-27 |
+| [MONA LISA](https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA](https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa) | 2:17 | 2025-03-20 |  |
 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 | 2023-10-12 | 2023-10-18 |
 | [Monaco](https://open.spotify.com/track/0ieUviafigTnoovXhb8jyd) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Monaco](https://open.spotify.com/album/4lDQvaFBTWo7nxFXQCnHhN) | 2:38 | 2024-07-12 | 2024-08-17 |
 | [Monopoly](https://open.spotify.com/track/127bEznW7acmYrAHqsT2yF) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [Monopoly](https://open.spotify.com/album/4x6R4qgvQl6CMAXj4gzMKv) | 3:38 | 2023-06-15 | 2023-07-14 |

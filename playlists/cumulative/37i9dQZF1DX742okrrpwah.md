@@ -4,7 +4,7 @@
 
 > M\. Pokora & Ronisia au top des nouveautés de la semaine !
 
-3,973 songs - 8 day 14 hr 43 min
+3,975 songs - 8 day 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -748,7 +748,7 @@
 | [Corde Sensible](https://open.spotify.com/track/0FmkR9FVYIyKdYba9YKAVB) | [Gringe](https://open.spotify.com/artist/4oVERQ0AxzzQ4zip1nMKlt), [Saan](https://open.spotify.com/artist/0fCV53y12NSwAgq3WnwO99) | [Hypersensible](https://open.spotify.com/album/1kthhA0I7pl3vSQK24TLgW) | 3:15 | 2024-09-19 | 2024-09-27 |
 | [Core](https://open.spotify.com/track/33gwrrso81kVuEc5K1UJGg) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Core](https://open.spotify.com/album/35QQzUQLrs89IeS0ShPuje) | 2:36 | 2025-01-09 | 2025-01-17 |
 | [Corine](https://open.spotify.com/track/2UR2tbWSaUs7p1KE9UZfkt) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC) | [Corine](https://open.spotify.com/album/1GB3gNZWsz3Ii8YfJpoaDn) | 2:47 | 2025-02-07 | 2025-02-14 |
-| [Corsica](https://open.spotify.com/track/2EeXlUCV7POaLMWt3DrWm1) | [Vincè](https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd) | [Corsica](https://open.spotify.com/album/2KQiZaKnalYvXv721Qx5an) | 2:50 | 2025-03-20 |  |
+| [Corsica](https://open.spotify.com/track/2EeXlUCV7POaLMWt3DrWm1) | [Vincè la petite culotte](https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd) | [Corsica](https://open.spotify.com/album/2KQiZaKnalYvXv721Qx5an) | 2:50 | 2025-03-20 |  |
 | [Cosas Pendientes](https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cosas Pendientes](https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov) | 3:04 | 2024-11-21 | 2024-11-29 |
 | [Coucou](https://open.spotify.com/track/2SihVopuJ1Bs5gPKuFfvkg) | [LA MAIN SUR LE COEUR](https://open.spotify.com/artist/1FDWrio927Urs33O7dkhef), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Coucou](https://open.spotify.com/album/6RWZB3cgbF3OEQvPd4K4rj) | 2:13 | 2024-10-24 | 2024-11-01 |
 | [Count On My Love](https://open.spotify.com/track/3nxyManavy2vBdYkilvhmF) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Daniel Wilson](https://open.spotify.com/artist/0LHsUOtcrTFzM7YJ7HoZUv), [Kon](https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi) | [Count On My Love](https://open.spotify.com/album/5RZ9EztjAiggK1wcVqdRgs) | 5:56 | 2024-06-13 | 2024-06-21 |
@@ -1831,6 +1831,7 @@
 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 | 2024-10-10 | 2024-10-18 |
 | [Just My Type](https://open.spotify.com/track/3U2fxzzmfG6IubKrvXbWr8) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Just My Type](https://open.spotify.com/album/1FrfBppniPQH42IpFBBgAh) | 3:05 | 2024-05-09 | 2024-05-17 |
 | [just stand there](https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 4:20 | 2024-09-05 | 2024-09-13 |
+| [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 | 2025-03-20 |  |
 | [Juste une minute](https://open.spotify.com/track/2yiIfIO1JYMiXebaBEodWD) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Juste une minute](https://open.spotify.com/album/5qAeplYmzvfI5RQ1Jv0pNf) | 2:57 | 2024-06-20 | 2024-06-28 |
 | [Justice Will Shine On](https://open.spotify.com/track/3DwjMFo9ph8ItBBU75owDY) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Justice Will Shine On](https://open.spotify.com/album/7JlX2Ju7lEiIzjXK8ew72O) | 3:49 | 2024-07-25 | 2024-08-02 |
 | [J’aimerais tant \(que tu sois là\)](https://open.spotify.com/track/0qFplmpilzltTn3wR6SQSi) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [J’aimerais tant \(que tu sois là\)](https://open.spotify.com/album/13ib8S0IYmTKtrg8FF3Tvb) | 2:46 | 2024-12-12 | 2024-12-20 |
@@ -2142,6 +2143,7 @@
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-30 | 2025-02-07 |
 | [Love High \(feat\. Laurent Bardainne\)](https://open.spotify.com/track/0ZDKm5QVqcMFmp1Wv4oYrq) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn), [Laurent Bardainne](https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw) | [La femme aux yeux de sel](https://open.spotify.com/album/5PiHQMN9NyN8vIVVMhNj5s) | 4:21 | 2025-03-20 |  |
 | [Love in Real Life](https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Love in Real Life](https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ) | 2:34 | 2025-02-28 | 2025-03-07 |
+| [love inside](https://open.spotify.com/track/0uJlMqOZcSY0GvQxFpKqNY) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [love inside](https://open.spotify.com/album/7MgVmJg1LM2GxctDCSMqGQ) | 2:12 | 2025-03-20 |  |
 | [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 | 2025-02-13 | 2025-02-21 |
 | [Love Is Over](https://open.spotify.com/track/46luU5vXFosW3zOR13taED) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Love Is Over](https://open.spotify.com/album/5rh5B327itAEamamcEZSIS) | 4:27 | 2024-09-19 | 2024-09-27 |
 | [Love Is Unkind](https://open.spotify.com/track/2yY0XtZqBEM4vDAJsa73EQ) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Love Is Unkind](https://open.spotify.com/album/2gwUck24fUDz3Rg8mV0JGU) | 3:33 | 2025-01-16 | 2025-01-24 |

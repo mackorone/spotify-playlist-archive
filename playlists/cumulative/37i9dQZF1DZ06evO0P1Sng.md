@@ -4,7 +4,7 @@
 
 > This is Azzy\. The essential tracks, all in one playlist.
 
-89 songs - 6 hr 45 min
+90 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Tormento](https://open.spotify.com/track/7eM0YTE95V1KkPw4pANo1Y) | [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx), [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Tormento](https://open.spotify.com/album/0B8xX96n8bkqDp5eN2U8pI) | 3:18 | 2024-01-15 |  |
 | [TUDO É SOBRE MÚSICA](https://open.spotify.com/track/15APNO11OHG2LfvFzgvvE3) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4) | [TUDO É SOBRE MÚSICA](https://open.spotify.com/album/54pdTQYeRuXqDCcpB1iRC7) | 3:26 | 2023-12-30 |  |
 | [Vale Nada](https://open.spotify.com/track/6e9mevCxIfRq8KKJyhXQXd) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Vale Nada](https://open.spotify.com/album/1sFLaxyMYYFz7OY7zLvWUt) | 2:44 | 2024-01-01 | 2024-02-21 |
-| [VIP](https://open.spotify.com/track/4b8tsQoH69au6oca7bozA3) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [VIP](https://open.spotify.com/album/7un1PXzwYc8D8Mk6eiQDtv) | 2:10 | 2024-03-09 |  |
+| [Vamu](https://open.spotify.com/track/5IcjA42tUbyrM0P3GIVTQJ) | [A Banca 021](https://open.spotify.com/artist/13FuSigLoOp1jf1YKTNzC9), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Raissa](https://open.spotify.com/artist/5aXydhORFva5JBIUtQwOTm) | [Vamu](https://open.spotify.com/album/3hVFOQiSDlm3Fr22iBH2vd) | 3:34 | 2025-03-22 |  |
+| [VIP](https://open.spotify.com/track/4b8tsQoH69au6oca7bozA3) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [VIP](https://open.spotify.com/album/7un1PXzwYc8D8Mk6eiQDtv) | 2:10 | 2024-03-09 | 2025-03-22 |
 | [VÍBORA](https://open.spotify.com/track/7JHzRVeIdtiCkLu91ZQ2IK) | [funBABE](https://open.spotify.com/artist/7BDrGAjK6k6TyxEKxRuHSl), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [VÍBORA](https://open.spotify.com/album/07ZvorgEhaclWT0lAbUucU) | 3:25 | 2023-12-30 |  |
 | [ZyZy](https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [A.LBeats](https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo) | [ZyZy](https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En) | 2:29 | 2025-02-23 |  |
 | [Água de Bala](https://open.spotify.com/track/64cZXj1jmOOP8cEJhhtjPN) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [DK Prod](https://open.spotify.com/artist/2kpBtHNUaSnGdessRqOzgq) | [Água de Bala](https://open.spotify.com/album/0C2qo8plNXXuVfb68WdqOP) | 2:24 | 2023-12-30 | 2025-03-03 |

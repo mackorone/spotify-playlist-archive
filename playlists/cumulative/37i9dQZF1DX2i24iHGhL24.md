@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-440 songs - 1 day 1 hr 23 min
+441 songs - 1 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Million Dreams](https://open.spotify.com/track/40oSaFieDbdnNTlVr7YonY) | [Ravi Adelekan & Friends](https://open.spotify.com/artist/6x2xTBq8OgKYfkUIEOUbeS), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL), [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O), [Jimmy Somerville](https://open.spotify.com/artist/6LQeBFIfD4C22RJVVjQ6S7), [Olugbenga](https://open.spotify.com/artist/6z3dK1jUpHKWeiKeiVQOlB) | [A Million Dreams](https://open.spotify.com/album/1T9WI6pLMrSXdmG1bBp4VS) | 4:49 | 2022-11-22 | 2023-10-17 |
 | [A Thousand Miles](https://open.spotify.com/track/3Q2evpFHIdcR8BkhA3AxZM) | [SADBOii](https://open.spotify.com/artist/1fzPKzbxV0zBhhquKXLisN) | [A Thousand Miles](https://open.spotify.com/album/6AzueJX2gqemZr8bPpQaqs) | 3:10 | 2021-12-17 | 2022-12-30 |
 | [abcdefu](https://open.spotify.com/track/0n4BamNwncSge7XWIcQjOO) | [The Butterfly Effect](https://open.spotify.com/artist/0uzyX6Q7XPMpRaqBNg8IEY) | [abcdefu](https://open.spotify.com/album/5lum6LKlkNtnB5jpuqKZNv) | 3:09 | 2022-04-01 | 2022-12-30 |
+| [Adore You \(Cover\)](https://open.spotify.com/track/3EjpCZCZVel9a89Hyr1lJ6) | [Brittany Broski](https://open.spotify.com/artist/4bvnxCtWPHufMtiQQuT8nW) | [Adore You \(Cover\)](https://open.spotify.com/album/1yLN3t4vjc9icZS3PDVFEA) | 3:10 | 2025-03-21 |  |
 | [Adore You \- Recorded at Parr Street Studios](https://open.spotify.com/track/5XXZ66ZImYeF7qMk1vbe2L) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Spotify Singles](https://open.spotify.com/album/1vpkXxcn8dnyKLWhpJvtKN) | 3:55 | 2021-12-17 | 2022-05-02 |
 | [Africa](https://open.spotify.com/track/6WOCRPBxJqRhOyfLygAOJ5) | [HAPPIE](https://open.spotify.com/artist/4lV9WCVEJ0dmNDWdACbRc9), [The Human Experience](https://open.spotify.com/artist/1NWjumiUC54F8S21p2W6cG) | [Africa](https://open.spotify.com/album/2aewyGiYU8HtQflj03vfLu) | 3:40 | 2023-10-27 |  |
 | [Afterglow](https://open.spotify.com/track/32MX9K3PwpcUtdhiSx6sef) | [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct), [Faber Drive](https://open.spotify.com/artist/3SziwNj6JCnqd2ajUdXlIT), [Dave Faber](https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8) | [Afterglow](https://open.spotify.com/album/3wErxE6WjMSWYHpJUrNzXX) | 3:18 | 2021-12-17 | 2022-05-02 |
@@ -126,7 +127,7 @@
 | [Diamonds \- Acoustic](https://open.spotify.com/track/4RVmTDYYWR4xivKlLMjS0q) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Diamonds \(Acoustic\)](https://open.spotify.com/album/0OTkauhBKvLKa7r1Kue0bz) | 2:59 | 2021-12-17 | 2022-04-16 |
 | [Digital Love](https://open.spotify.com/track/4zOyh7D39nvmacly6Wj0FT) | [Larkins](https://open.spotify.com/artist/6cCfC12LHtD5XIc1rLsm8Y) | [Digital Love](https://open.spotify.com/album/1Alro4P8exTMmn1skh1xO1) | 3:26 | 2021-12-17 | 2022-05-02 |
 | [Doin' Time](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:22 | 2022-12-29 |  |
-| [Don't Dream It's Over](https://open.spotify.com/track/20AJoXd1SjRLmoyCNFjAKm) | [Amanda Jackson Band](https://open.spotify.com/artist/1rsnYoKcEZ9G1DdqSGzoYm) | [Ocean](https://open.spotify.com/album/5bzQOredYZZ0gV4bRNbg0P) | 4:23 | 2021-12-17 |  |
+| [Don't Dream It's Over](https://open.spotify.com/track/20AJoXd1SjRLmoyCNFjAKm) | [Amanda Jackson Band](https://open.spotify.com/artist/1rsnYoKcEZ9G1DdqSGzoYm) | [Ocean](https://open.spotify.com/album/5bzQOredYZZ0gV4bRNbg0P) | 4:23 | 2021-12-17 | 2025-03-22 |
 | [Don't Speak](https://open.spotify.com/track/1y0vu1jiXWwzWj0666D5at) | [Scott Bradlee's Postmodern Jukebox](https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc), [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Don't Speak](https://open.spotify.com/album/3oPszGjV4AkXcJFNqLNrNT) | 4:09 | 2021-12-17 | 2022-04-14 |
 | [Don't Speak \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Spotify Singles](https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib) | 4:21 | 2021-12-17 | 2023-10-17 |
 | [Don't Start Now](https://open.spotify.com/track/6dgZhiW5isdLIrpOdDqrwr) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Emily In Paris Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0) | 2:04 | 2022-12-30 | 2023-10-17 |

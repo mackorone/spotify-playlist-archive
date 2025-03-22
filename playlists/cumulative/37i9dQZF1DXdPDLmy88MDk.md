@@ -4,7 +4,7 @@
 
 > Gentle instrumental tunes.
 
-175 songs - 10 hr 42 min
+177 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Papillon \- Solo Piano Version](https://open.spotify.com/track/6rrjDzYFuGQjpUk4hwfRJn) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evermore \(Solo Piano Version\)](https://open.spotify.com/album/1h1ZsE5v8PlJhtbXODCYCS) | 2:56 | 2022-09-19 | 2022-09-30 |
 | [Pavane pour une infante défunte, M\. 19 \(Arr\. S\. Shibe for Guitar\)](https://open.spotify.com/track/4RUHjk3j9Rwvlx8OGcPwn9) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Sean Shibe](https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5) | [Camino \- Spanish and French repertoire for guitar](https://open.spotify.com/album/6I8hnIFkq6LIQ1so8TaF03) | 6:30 | 2024-04-18 |  |
 | [Pavane, Op\. 50 \(Version for Piano\)](https://open.spotify.com/track/2mNQl3DEWtkrwKllwYpxi0) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Jorge Federico Osorio](https://open.spotify.com/artist/1Tt4CRnh4VCWn6UymYP057) | [The French Album](https://open.spotify.com/album/4QYFeRjBgVCv8Vrb3cK7wI) | 5:59 | 2021-11-19 | 2024-04-19 |
+| [Penumbra](https://open.spotify.com/track/1mYvQvMzQ8kyZ849kl7ddZ) | [Marta Cascales Alimbau](https://open.spotify.com/artist/5xXWh6pIT6H8NzENvUU9HN) | [Penumbra](https://open.spotify.com/album/2Hz5r0NbyjGT2H7VGyX5Vb) | 3:32 | 2025-03-21 |  |
 | [perceptions](https://open.spotify.com/track/0ew9S7tvZPx57vVN9Dhz8v) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [nostalgia](https://open.spotify.com/album/2j2NwlIlBlZVID0DtzUmA4) | 3:38 | 2021-11-19 |  |
 | [Petite suite en 15 images: Berceuse aux etoiles \(Lullaby under the Stars\)](https://open.spotify.com/track/6z5Pd7UoLA6e1AlHYeVzqA) | [Jacques Ibert](https://open.spotify.com/artist/3KSFGteIQYY5pgE3veclRk), [Hae Won Chang](https://open.spotify.com/artist/407p04zpOI6KuvwbpRWozb) | [Ibert: Piano Music \(Complete\)](https://open.spotify.com/album/7wsLW0EdEvKMiEvt4Adkup) | 1:44 | 2021-11-19 |  |
 | [Piano Sonata No\. 8 in C Minor, Op\. 13 "Pathétique": II\. Adagio cantabile](https://open.spotify.com/track/2MA6EUDm6EYmeRbT9QP8cX) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Jenő Jandó](https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7) | [Beethoven: Piano Sonatas Nos\. 8, 14 and 23](https://open.spotify.com/album/6gPBMSpe6fgRr34Z60g0LS) | 4:42 | 2022-05-11 | 2024-04-19 |
@@ -168,6 +169,7 @@
 | [The Ballad of the Lake of Tears](https://open.spotify.com/track/11PefLDQvs8jWcF5LO5e0l) | [Chris Palmer](https://open.spotify.com/artist/28VnidW62NnJOQAExf4HH6) | [The Ballad of the Lake of Tears](https://open.spotify.com/album/39DhHP2vt6cCeZKuymyFmG) | 2:21 | 2023-06-30 | 2024-04-19 |
 | [the color of the sky \- solo piano](https://open.spotify.com/track/06UlQEupfklesVD0OB2N87) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [the color of the sky \(solo piano\)](https://open.spotify.com/album/5CwNs4a2hBPimKHRvb6rM0) | 3:43 | 2022-09-19 |  |
 | [The Poetry of Earth \(Geophony\) \- Edit](https://open.spotify.com/track/3dQ6KNl8to4bxJTEeAy63u) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Poetry of Earth \(Geophony\)](https://open.spotify.com/album/3nKt5NFrSQiMuVF6XLp6ja) | 3:39 | 2024-12-24 |  |
+| [Theme of Love \(From "Final Fantasy IV"\) \[Arr\. Lawson for Harp & String Quartet\]](https://open.spotify.com/track/0dlSVqBZ2ABR4RZvD48vw7) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv), [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S), [Ellie Consta](https://open.spotify.com/artist/7BXRLEAJqCe6ou9He6NNfd), [Emma Oldfield](https://open.spotify.com/artist/5jnbySBiE9fjOWZ8BoGiWW), [Ben Norris](https://open.spotify.com/artist/0LCDBv0Ie9jApx4YsTScil), [Deni Teo](https://open.spotify.com/artist/3eAb1yh7Caexfi7iTsWNfL) | [Theme of Love \(From "Final Fantasy IV"\) \[Arr\. Lawson for Harp & String Quartet\]](https://open.spotify.com/album/0O0MI4TSfNiAUijlkb4anL) | 3:30 | 2025-03-21 |  |
 | [Timeless](https://open.spotify.com/track/6CWhGUsfC69T6E2IHrpmrO) | [Sisulu](https://open.spotify.com/artist/1RMoei5UVXMLSnenD8PMKC) | [Timeless](https://open.spotify.com/album/2IZYzC0D0efP2obfPhvClq) | 2:17 | 2021-11-19 |  |
 | [Train in New York](https://open.spotify.com/track/122EWbjLx9gYysvIscsZRe) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Puzzle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6TDQmJ2G8UoCyyKFsWKsq7) | 2:49 | 2021-11-19 |  |
 | [Transience](https://open.spotify.com/track/3EyDeYw7ezBw4u0WIFI10y) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Transience](https://open.spotify.com/album/2AL2HensOEJzbPA6rsfJIE) | 2:59 | 2022-05-11 | 2024-04-19 |

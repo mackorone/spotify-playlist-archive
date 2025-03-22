@@ -25459,6 +25459,24 @@
     },
     {
       "album": {
+        "name": "Still Glow",
+        "url": "https://open.spotify.com/album/3RZdO52IUjgcOxmZE1gsG3"
+      },
+      "artists": [
+        {
+          "name": "Heiko Kolt",
+          "url": "https://open.spotify.com/artist/3WusNlLQT1lSZdx9orJhBB"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143900,
+      "name": "Still Glow",
+      "url": "https://open.spotify.com/track/7qvooDSzNVJoTbAPEqL9Xe"
+    },
+    {
+      "album": {
         "name": "Stockholm Nocturne",
         "url": "https://open.spotify.com/album/4OyoRGcdIcAF5S8AU9u9jP"
       },

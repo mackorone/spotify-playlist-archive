@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Jonah Kagen",
-  "num_followers": 952347,
+  "num_followers": 952391,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9Q8ggAAAADrq0fuh7/ln2bWrMzyms3d",
+  "snapshot_id": "Z9zkdQAAAAD/vb0Rzysiq497kfvJ8X95",
   "tracks": [
     {
       "added_at": "2025-03-14 14:26:10",
@@ -55,6 +55,38 @@
       "duration_ms": 188133,
       "name": "The Reaper",
       "url": "https://open.spotify.com/track/1h1cFLBjXf4SgoCxbrcrLC"
+    },
+    {
+      "added_at": "2025-03-21 04:00:53",
+      "album": {
+        "name": "MAKE IT OUT ALIVE",
+        "url": "https://open.spotify.com/album/3SJS6rambcg00ibSTn6iUw"
+      },
+      "artists": [
+        {
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        }
+      ],
+      "duration_ms": 171509,
+      "name": "MAKE IT OUT ALIVE",
+      "url": "https://open.spotify.com/track/6yQWWm99NGK64J57sXUr5B"
+    },
+    {
+      "added_at": "2025-03-21 04:00:53",
+      "album": {
+        "name": "Dinner",
+        "url": "https://open.spotify.com/album/4OWtgRW16OHXE98shkJjZA"
+      },
+      "artists": [
+        {
+          "name": "Adam Klobi",
+          "url": "https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Dinner",
+      "url": "https://open.spotify.com/track/0fD2C4iOpAJet8DBaImPJy"
     },
     {
       "added_at": "2025-03-07 05:00:34",

@@ -4,14 +4,14 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-295 songs - 13 hr 56 min
+296 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [40](https://open.spotify.com/track/640cERY2tzEK0UURzWgFJp) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [40](https://open.spotify.com/album/3wk7uPZns7HJ0lNtn0driV) | 2:29 | 2023-01-24 | 2024-11-12 |
 | [432 Hz Omgivande](https://open.spotify.com/track/2GJufgGBgz94AxyMgZ9mjg) | [Ahti Aeo](https://open.spotify.com/artist/4cSNC9MaebEEZhCv2xjgaO) | [432 Hz Omgivande](https://open.spotify.com/album/0g7tYAR31jgDZhcQkheRlx) | 2:30 | 2023-12-18 | 2024-12-05 |
 | [528 Hz Whispered Stream](https://open.spotify.com/track/6Gv8jmDrZ41knvfN6n5qOO) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [528 Hz Whispered Stream](https://open.spotify.com/album/1qjyXMiu6uFH6emC5OcD4W) | 2:31 | 2023-11-18 | 2024-12-05 |
-| [A Flowing Stream](https://open.spotify.com/track/6qHrWqMeZEMl7SOIHF0qmO) | [Cerasifera](https://open.spotify.com/artist/6KiFF18YRCbYzhQl5XEY9k) | [A Flowing Stream](https://open.spotify.com/album/78VKBRnDa8TVkZGgaQYriO) | 3:33 | 2024-12-04 |  |
+| [A Flowing Stream](https://open.spotify.com/track/6qHrWqMeZEMl7SOIHF0qmO) | [Cerasifera](https://open.spotify.com/artist/6KiFF18YRCbYzhQl5XEY9k) | [A Flowing Stream](https://open.spotify.com/album/78VKBRnDa8TVkZGgaQYriO) | 3:33 | 2024-12-04 | 2025-03-22 |
 | [A Free Spirit \(Nature\)](https://open.spotify.com/track/2qO76Y8tZnBOCRRhOWMjhr) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [A Free Spirit \(Nature\)](https://open.spotify.com/album/12cFEQ1sasH0DJnZjeUJ9Q) | 2:48 | 2023-09-12 |  |
 | [A Grand Arrival](https://open.spotify.com/track/0Nj4m8NYfLPhViRvsX6x7d) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [A Grand Arrival](https://open.spotify.com/album/3Vq8HUnRwN9YNVNDuIxVk4) | 2:32 | 2024-10-03 |  |
 | [A Growing Feeling](https://open.spotify.com/track/1peg4JKeWIybo6q2pdbwh7) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [A Growing Feeling](https://open.spotify.com/album/3M47OSMcsv1Lzcbm787mmo) | 3:17 | 2024-11-11 |  |
@@ -92,6 +92,7 @@
 | [Forest Dream](https://open.spotify.com/track/3dSrZUj12wbg8N4615IQRR) | [Sacred Bansuri](https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD) | [Forest Dream](https://open.spotify.com/album/2M8KpQdopdn3r8tgG8FOoN) | 2:36 | 2023-07-28 |  |
 | [Forest Harp Dreams 528 Hz](https://open.spotify.com/track/7bRCmNh2cPzxhPskiniGSA) | [Ahti Aeo](https://open.spotify.com/artist/4cSNC9MaebEEZhCv2xjgaO) | [Forest Harp Dreams 528 Hz](https://open.spotify.com/album/0QTRE8RUaMUKnKDL9v3d79) | 2:40 | 2023-12-18 | 2024-12-05 |
 | [Forest of Calm](https://open.spotify.com/track/2YydBkXJxHR9M7H66VaIcX) | [Elvin Malm](https://open.spotify.com/artist/6NKcTiARAryvU82LrRjcY1) | [Forest of Calm](https://open.spotify.com/album/5zDnbDbgHwirFy6Ax5Cw3h) | 3:45 | 2025-02-10 |  |
+| [Forest Paradise](https://open.spotify.com/track/71tGFaATDO3ZtEGio0pSwQ) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Forest Paradise](https://open.spotify.com/album/2YTEeLU3uOHokTNvsbGIKC) | 2:38 | 2025-03-14 |  |
 | [Forest Piano Music for Work and Reading](https://open.spotify.com/track/4OhSZK4o9klyC0dBQXkWQQ) | [Japan BGM Improvement committee](https://open.spotify.com/artist/28PnH5DreNhBHE1oo8d6Rv) | [Forest Coating Music Healing piano like being in the forest, for morning cafe, for working, teleworking, napping Forest sound, river sound with white noise ASMR](https://open.spotify.com/album/11LxODCrOmiAzbPXdRKdz9) | 2:06 | 2023-01-24 | 2024-04-02 |
 | [Forest Winds](https://open.spotify.com/track/38NsLOCPyA8E4Q7IaAG43X) | [Verala Lux](https://open.spotify.com/artist/2zTDYjWYdea2V7ZXILRLKW) | [Forest Winds](https://open.spotify.com/album/0XMxYcUmfaQS4VTtfSljfe) | 2:00 | 2023-10-26 |  |
 | [Forgotten letters](https://open.spotify.com/track/1ZCeUv9xi2ZPuRbLBXfNaR) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:21 | 2023-01-24 | 2024-04-02 |

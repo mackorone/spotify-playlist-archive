@@ -1,13 +1,29 @@
 {
-  "description": "Stripped back vibes. Cover: Alex Isley",
-  "num_followers": 609864,
+  "description": "Stripped back vibes. Cover: TA Thomas",
+  "num_followers": 609893,
   "original_name": "Acoustic Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9PI6gAAAADLTjIDlP7lsJMJJoyaZjck",
+  "snapshot_id": "Z9z6zQAAAADV+H8bHERV8Xw2BQN+zjvK",
   "tracks": [
+    {
+      "added_at": "2025-03-21 05:36:13",
+      "album": {
+        "name": "Preach (Acoustic)",
+        "url": "https://open.spotify.com/album/5aWr7DdGuUih89jougF0On"
+      },
+      "artists": [
+        {
+          "name": "TA Thomas",
+          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
+        }
+      ],
+      "duration_ms": 201081,
+      "name": "Preach - Acoustic",
+      "url": "https://open.spotify.com/track/6Iq0yfjmQJ7HIXmhP6Eg7m"
+    },
     {
       "added_at": "2025-03-14 06:12:58",
       "album": {

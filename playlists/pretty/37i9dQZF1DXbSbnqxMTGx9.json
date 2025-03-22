@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3091227,
+  "num_followers": 3091537,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
+        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
+      },
+      "artists": [
+        {
+          "name": "Hopeton Lewis",
+          "url": "https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb"
+        }
+      ],
+      "duration_ms": 172600,
+      "name": "Take It Easy",
+      "url": "https://open.spotify.com/track/5VOrFGEXCJMT5aiDL5Iiaa"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "Total Reggae: Classic Roots",
         "url": "https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30"
       },
@@ -743,6 +759,22 @@
       "duration_ms": 177373,
       "name": "Far East",
       "url": "https://open.spotify.com/track/1S0ByRYztydxw1l4FEv0H4"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond",
+        "url": "https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU"
+      },
+      "artists": [
+        {
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Funkey Funkey Reggay",
+      "url": "https://open.spotify.com/track/1TnIDb52hYg5P5kHLUyTqX"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -768,29 +800,13 @@
       },
       "artists": [
         {
-          "name": "The Skatalites",
-          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+          "name": "Don Drummond",
+          "url": "https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Funkey Funkey Reggay",
-      "url": "https://open.spotify.com/track/1TnIDb52hYg5P5kHLUyTqX"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
-        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
-      },
-      "artists": [
-        {
-          "name": "Hopeton Lewis",
-          "url": "https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb"
-        }
-      ],
-      "duration_ms": 172600,
-      "name": "Take It Easy",
-      "url": "https://open.spotify.com/track/5VOrFGEXCJMT5aiDL5Iiaa"
+      "duration_ms": 145933,
+      "name": "Don De Lion",
+      "url": "https://open.spotify.com/track/1Oeey02HNBNBirWvHstVS2"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -807,22 +823,6 @@
       "duration_ms": 311133,
       "name": "Not Satisfied",
       "url": "https://open.spotify.com/track/3R85E9l94NyQwqcEZcqnPv"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond",
-        "url": "https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU"
-      },
-      "artists": [
-        {
-          "name": "Don Drummond",
-          "url": "https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn"
-        }
-      ],
-      "duration_ms": 145933,
-      "name": "Don De Lion",
-      "url": "https://open.spotify.com/track/1Oeey02HNBNBirWvHstVS2"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1236,22 +1236,6 @@
       },
       "artists": [
         {
-          "name": "Rudy Mills",
-          "url": "https://open.spotify.com/artist/7bd687clsLdr4DueSybjG3"
-        }
-      ],
-      "duration_ms": 191560,
-      "name": "Long Story",
-      "url": "https://open.spotify.com/track/33rdVmEEjh3wYWBWoFWvwi"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
-        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
-      },
-      "artists": [
-        {
           "name": "Techniques",
           "url": "https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ"
         }
@@ -1268,13 +1252,13 @@
       },
       "artists": [
         {
-          "name": "The Jamaicans",
-          "url": "https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5"
+          "name": "Rudy Mills",
+          "url": "https://open.spotify.com/artist/7bd687clsLdr4DueSybjG3"
         }
       ],
-      "duration_ms": 167173,
-      "name": "Things You Say You Love",
-      "url": "https://open.spotify.com/track/0jr4UlOgvaKOGWIWXKu5RX"
+      "duration_ms": 191560,
+      "name": "Long Story",
+      "url": "https://open.spotify.com/track/33rdVmEEjh3wYWBWoFWvwi"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1300,13 +1284,13 @@
       },
       "artists": [
         {
-          "name": "Clancy Eccles",
-          "url": "https://open.spotify.com/artist/0YVtA75CDCz5FYqis7Kf8v"
+          "name": "The Jamaicans",
+          "url": "https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5"
         }
       ],
-      "duration_ms": 201200,
-      "name": "What Will Your Mama Say",
-      "url": "https://open.spotify.com/track/5UD98Sz4F4Jl2mtUsRPnxS"
+      "duration_ms": 167173,
+      "name": "Things You Say You Love",
+      "url": "https://open.spotify.com/track/0jr4UlOgvaKOGWIWXKu5RX"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1327,6 +1311,38 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
+        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
+      },
+      "artists": [
+        {
+          "name": "Techniques",
+          "url": "https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "Queen Majesty (aka Minstrel and Queen)",
+      "url": "https://open.spotify.com/track/7eArTFXshH2FuzC6ZptVlD"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
+        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
+      },
+      "artists": [
+        {
+          "name": "Clancy Eccles",
+          "url": "https://open.spotify.com/artist/0YVtA75CDCz5FYqis7Kf8v"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "What Will Your Mama Say",
+      "url": "https://open.spotify.com/track/5UD98Sz4F4Jl2mtUsRPnxS"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "Blazzin' Fire",
         "url": "https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 229374,
       "name": "Bad Boys (Theme from COPS)",
       "url": "https://open.spotify.com/track/0qeKzbUsW0V4ZWRJrHNiD3"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "One Two",
-        "url": "https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN"
-      },
-      "artists": [
-        {
-          "name": "Sister Nancy",
-          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
-        }
-      ],
-      "duration_ms": 196506,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1375,6 +1375,38 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Legend (The Definitive Remasters)",
+        "url": "https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 256493,
+      "name": "Waiting In Vain",
+      "url": "https://open.spotify.com/track/7FILn9Akg2468HPNsRZCkq"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "One Two",
+        "url": "https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN"
+      },
+      "artists": [
+        {
+          "name": "Sister Nancy",
+          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
+        }
+      ],
+      "duration_ms": 196506,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "Murder She Wrote Single",
         "url": "https://open.spotify.com/album/4cEHufQKt2Mqojs9SMwUWQ"
       },
@@ -1391,38 +1423,6 @@
       "duration_ms": 247133,
       "name": "Murder She Wrote (Original Mix)",
       "url": "https://open.spotify.com/track/0p4uJwIIGfN3tfTFvwALwB"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
-        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
-      },
-      "artists": [
-        {
-          "name": "Techniques",
-          "url": "https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ"
-        }
-      ],
-      "duration_ms": 210466,
-      "name": "Queen Majesty (aka Minstrel and Queen)",
-      "url": "https://open.spotify.com/track/7eArTFXshH2FuzC6ZptVlD"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Legend (The Definitive Remasters)",
-        "url": "https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 256493,
-      "name": "Waiting In Vain",
-      "url": "https://open.spotify.com/track/7FILn9Akg2468HPNsRZCkq"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1459,18 +1459,50 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "The Harder They Come",
-        "url": "https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K"
+        "name": "Ska & Reggae Classics",
+        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
       },
       "artists": [
         {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
         }
       ],
-      "duration_ms": 158893,
-      "name": "You Can Get It If You Really Want",
-      "url": "https://open.spotify.com/track/2QKh6t4JnWeTnzQpkNXhzW"
+      "duration_ms": 190760,
+      "name": "54-46 Was My Number",
+      "url": "https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
+        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
+      },
+      "artists": [
+        {
+          "name": "Techniques",
+          "url": "https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Travelling Man - Version 1",
+      "url": "https://open.spotify.com/track/5uhpcQw9HfN4TMmYaAgxmh"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/3Nvfpup2KU1NjD4uVEbxzz"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/0fF0HtZGSXZgGrC6b7Pq4I"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1487,6 +1519,22 @@
       "duration_ms": 226546,
       "name": "Sweat (A La La La La Long)",
       "url": "https://open.spotify.com/track/7kTvXtMERxvwCGcWv68ssH"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "The Harder They Come",
+        "url": "https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 158893,
+      "name": "You Can Get It If You Really Want",
+      "url": "https://open.spotify.com/track/2QKh6t4JnWeTnzQpkNXhzW"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1539,22 +1587,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
-        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
-      },
-      "artists": [
-        {
-          "name": "Techniques",
-          "url": "https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Travelling Man - Version 1",
-      "url": "https://open.spotify.com/track/5uhpcQw9HfN4TMmYaAgxmh"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Poor Man Style",
         "url": "https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H"
       },
@@ -1567,38 +1599,6 @@
       "duration_ms": 198440,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/3Nvfpup2KU1NjD4uVEbxzz"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 214533,
-      "name": "Jamming",
-      "url": "https://open.spotify.com/track/0fF0HtZGSXZgGrC6b7Pq4I"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Ska & Reggae Classics",
-        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
-      },
-      "artists": [
-        {
-          "name": "The Maytals",
-          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
-        }
-      ],
-      "duration_ms": 190760,
-      "name": "54-46 Was My Number",
-      "url": "https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7"
     },
     {
       "added_at": "2024-01-29 05:18:16",

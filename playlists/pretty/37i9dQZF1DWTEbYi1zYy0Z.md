@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Boney James
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,215 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,238 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gratified](https://open.spotify.com/track/5JLFIvCjxQOMmFyOdykNaG) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg), [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE) | [Gratified](https://open.spotify.com/album/2UdylqKANahv1rrHSStfxU) | 4:35 |
-| 2 | [Sunset \(feat\. Kayla Waters\)](https://open.spotify.com/track/7FaTnIBJfAi9opbu6uHNZW) | [Saxl Rose](https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq), [Kayla Waters](https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA) | [Sunset \(feat\. Kayla Waters\)](https://open.spotify.com/album/6ka3TNNdtKcIYi41VceHx5) | 4:20 |
-| 3 | [Carry On!](https://open.spotify.com/track/41t4WwZkSQnaiFPUdW4RXl) | [Chris "Big Dog" Davis](https://open.spotify.com/artist/057eeHuaF5QTCQ76X2PRZ5) | [Carry On!](https://open.spotify.com/album/55Y7VmUMtAmiPsJnbrqLba) | 3:52 |
-| 4 | [So Naturally](https://open.spotify.com/track/5IegN4alJprMWS4ygNGA6w) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [So Naturally](https://open.spotify.com/album/4NcjCBcsxQh85s9eDVY3eb) | 4:54 |
-| 5 | [So What If I Rise?](https://open.spotify.com/track/49Gi1cYc3Po3vLMZD2paZX) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Livin' It Up](https://open.spotify.com/album/0KI177qUPJz6DQqhYRyQOf) | 4:26 |
-| 6 | [New Hope](https://open.spotify.com/track/39VzYc43kGePZ9yXZOMuMR) | [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Just Us](https://open.spotify.com/album/5hbh3e6Z1b9uLoFxLuqT9L) | 3:58 |
-| 7 | [Mister Magic](https://open.spotify.com/track/1UI2LPIMEHa3ptE0S5Ta1O) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Mister Magic](https://open.spotify.com/album/1wcjK3JMtVRUXQO6DbAOK8) | 5:20 |
+| 1 | [Beso Del Sol](https://open.spotify.com/track/41vto3mbPg7SSOgjKkqAuA) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Beso Del Sol](https://open.spotify.com/album/3SQwtaq5q0kv1nsHCtnnNH) | 4:46 |
+| 2 | [Gratified](https://open.spotify.com/track/5JLFIvCjxQOMmFyOdykNaG) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg), [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE) | [Gratified](https://open.spotify.com/album/2UdylqKANahv1rrHSStfxU) | 4:35 |
+| 3 | [Sunset \(feat\. Kayla Waters\)](https://open.spotify.com/track/7FaTnIBJfAi9opbu6uHNZW) | [Saxl Rose](https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq), [Kayla Waters](https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA) | [Sunset \(feat\. Kayla Waters\)](https://open.spotify.com/album/6ka3TNNdtKcIYi41VceHx5) | 4:20 |
+| 4 | [Carry On!](https://open.spotify.com/track/41t4WwZkSQnaiFPUdW4RXl) | [Chris "Big Dog" Davis](https://open.spotify.com/artist/057eeHuaF5QTCQ76X2PRZ5) | [Carry On!](https://open.spotify.com/album/55Y7VmUMtAmiPsJnbrqLba) | 3:52 |
+| 5 | [So Naturally](https://open.spotify.com/track/5IegN4alJprMWS4ygNGA6w) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [So Naturally](https://open.spotify.com/album/4NcjCBcsxQh85s9eDVY3eb) | 4:54 |
+| 6 | [So What If I Rise?](https://open.spotify.com/track/49Gi1cYc3Po3vLMZD2paZX) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Livin' It Up](https://open.spotify.com/album/0KI177qUPJz6DQqhYRyQOf) | 4:26 |
+| 7 | [New Hope](https://open.spotify.com/track/39VzYc43kGePZ9yXZOMuMR) | [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Just Us](https://open.spotify.com/album/5hbh3e6Z1b9uLoFxLuqT9L) | 3:58 |
 | 8 | [Let's Fly Away](https://open.spotify.com/track/5uw1xYhVYVAp8BapqMgmD9) | [David P Stevens](https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl) | [Let's Fly Away](https://open.spotify.com/album/0szjKEYXMf68uAFslAcdqh) | 3:46 |
 | 9 | [Beyond the Horizon](https://open.spotify.com/track/58L4SdyYwI3Kw8q2rk4Lfs) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [It's Nice To Be With You](https://open.spotify.com/album/5DSebblPZC8fvK0IK5CC8E) | 4:13 |
 | 10 | [Changed Me](https://open.spotify.com/track/75taQd5SN7871t9wku1Hbx) | [Droyd](https://open.spotify.com/artist/3zj8Bb4QXfSEbqpbGnWi0O), [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [Changed Me](https://open.spotify.com/album/53CCbBw9Yosww539htd11p) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Undulation](https://open.spotify.com/track/5iIWIbNwJRudKJfAzAD7YH) | [Kayla Waters](https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA) | [Undulation](https://open.spotify.com/album/39FFRTCXimTQgkeQ2pBv6d) | 4:53 |
 | 100 | [On Cue](https://open.spotify.com/track/7h6eJosC9GG9AfsnGFJWMc) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [On Cue](https://open.spotify.com/album/79jVgrYIs5r3IaSSW6k1uI) | 3:49 |
 
-Snapshot ID: `Z9OpxQAAAAA3Tk3tg17eWg6soah6BDg0`
+Snapshot ID: `Z9zkZQAAAAAZpR3MNV1Z+J94HIlHZaE0`

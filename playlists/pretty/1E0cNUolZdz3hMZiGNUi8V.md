@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1E0cNUolZdz3hMZiGNUi8V.md) - [plain]
 
 > 🔥 All the hottest hip hop tracks in one spot!
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 38,527 likes - 94 songs - 4 hr 23 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 38,525 likes - 94 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/1E0cNUolZdz3hMZiGNUi8V.md) - [plain]
 | 93 | [Glizock & Wizop \(feat\. Key Glock\)](https://open.spotify.com/track/0zbGWzQkLY5wn4xyiLYEi0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glizock & Wizop \(feat\. Key Glock\)](https://open.spotify.com/album/4ocf6wJAV6NJCBn8nTkeaj) | 3:12 |
 | 94 | [Store Runner \(feat\. Veeze\)](https://open.spotify.com/track/7duXZ4msQQePFt0rkkP7Fd) | [Brezden](https://open.spotify.com/artist/7gQ6DUFY8aLh47bUSia5Nt), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Store Runner \(feat\. Veeze\)](https://open.spotify.com/album/23E3EOIgb7o9HnTSTmIqdG) | 2:24 |
 
-Snapshot ID: `AAAfh0HNdqT4pFjNqJ3HLb+g8zqgz4Kd`
+Snapshot ID: `AAAfiYNUoPybMs49DKa72ojSkkfSrann`

@@ -1,13 +1,29 @@
 {
   "description": "A weekly selection of tracks that I love to listen to at home or play out at a party.",
-  "num_followers": 289150,
+  "num_followers": 289131,
   "original_name": "Martin Garrix Radio",
   "owner": {
     "name": "Martin Garrix",
     "url": "https://open.spotify.com/user/martingarrix"
   },
-  "snapshot_id": "AAAIQqQH4bMpC1wxOJ8UJC0qTnccWgM1",
+  "snapshot_id": "AAAIQ7uGo/A/pXSi7meV4qMo5a/WLAPg",
   "tracks": [
+    {
+      "added_at": "2025-03-21 09:46:38",
+      "album": {
+        "name": "PUSH",
+        "url": "https://open.spotify.com/album/6FXW0EwNYHejMIKUXWG0PT"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 155259,
+      "name": "PUSH",
+      "url": "https://open.spotify.com/track/6hzFRAmTkuKDxZv6eWRhmd"
+    },
     {
       "added_at": "2025-03-18 10:49:15",
       "album": {

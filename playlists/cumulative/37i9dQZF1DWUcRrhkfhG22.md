@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes
 
-122 songs - 9 hr 2 min
+123 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [F With Me \(feat\. Chromeo\)](https://open.spotify.com/track/6jQcZwHa3sZ54MxWvApCKb) | [Destructo](https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [F With Me \(feat\. Chromeo\)](https://open.spotify.com/album/0mo8Pdx3ZuorTKa7G7hhuj) | 2:50 | 2022-03-04 |  |
 | [F.W.U](https://open.spotify.com/track/7BSw2p2kGQpXrJEIkqqbUq) | [Sergiio](https://open.spotify.com/artist/1TyV1ii0zQpDUf242p8JI0) | [F.W.U](https://open.spotify.com/album/6N6YfWR0pcet5CBfN7v3kI) | 3:13 | 2020-11-20 |  |
 | [Freak\-a\-Zoid](https://open.spotify.com/track/42UpH9fz5utv8tkvOgh5Qb) | [Midnight Star](https://open.spotify.com/artist/0KMLfCXYb3Dhf1hLpu8cVd) | [No Parking on the Dance Floor](https://open.spotify.com/album/67v1yz3SGvFEnQeTO8H6jP) | 8:05 | 2020-09-18 |  |
+| [Freak\-A\-Zoid \- Reboot](https://open.spotify.com/track/5p1qlJbZVirHNJbNzwG6Zy) | [Calloway](https://open.spotify.com/artist/3MKSm2U72NzNdxRjMhzyHh) | [Freak\-A\-Zoid \(Reboot\)](https://open.spotify.com/album/5l3bOFkCwff9VtB5CF04F4) | 2:12 | 2025-03-21 |  |
 | [Freaks Come Out at Night](https://open.spotify.com/track/1JKJZLqLUh0vlemaD3IfLe) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [Escape \(Expanded Edition\)](https://open.spotify.com/album/0wXylkn9taeEjiiac1S2zU) | 4:44 | 2020-09-18 |  |
 | [Funkadelic Sound](https://open.spotify.com/track/6EqhL2LqkxKvl238nvt3rK) | [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [My Time](https://open.spotify.com/album/2WmBBecj0WTxRe1rAvraxG) | 3:22 | 2020-09-18 |  |
 | [Funkadelic Sound](https://open.spotify.com/track/4Nh2oQHhRcVy16qYbRQ2Fw) | [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [My Time](https://open.spotify.com/album/0m5koUYDRGH9y53Kv9v9kV) | 3:22 | 2020-09-18 | 2024-04-19 |

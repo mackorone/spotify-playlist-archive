@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2025 \(previous playlists archived on my profile\)
 
-497 songs - 1 day 4 hr 19 min
+498 songs - 1 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Hawaiian Baby](https://open.spotify.com/track/0eyCLfTyf1KBwOFIBQaIUC) | [The Spinanes](https://open.spotify.com/artist/6lz8TrJesUMdGhKoyXTTda) | [Imp Years](https://open.spotify.com/album/1AbStfXk1A6n70yhAd9oZL) | 5:45 | 2024-12-27 | 2025-01-12 |
 | [Hazme Una Señal](https://open.spotify.com/track/4k2PtVkqKaYp9OJbONyY0z) | [Los Blue Notes](https://open.spotify.com/artist/4DKzUVq1Xy2lmJpmbk2Ko0) | [El Disco de Oro](https://open.spotify.com/album/62F6M8ycdmteffdyWJnZxZ) | 2:15 | 2024-08-19 | 2024-09-08 |
 | [Hewlett](https://open.spotify.com/track/2lXcKxWjdpdYq5ywSuO8kq) | [The Fascinating Chimera Project](https://open.spotify.com/artist/29qJiOeOdn9hshHzBlIoZA) | [The Fascinating Chimera Project](https://open.spotify.com/album/5vXWQ39mAfzbsshrH7cAcb) | 1:32 | 2025-01-30 | 2025-03-02 |
+| [Hey Baby](https://open.spotify.com/track/68RtnQedwKOJ4MmtXErnOU) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [Hey Baby](https://open.spotify.com/album/59BkwpCbJSFyUdrA6HCT4Z) | 2:47 | 2025-03-21 |  |
 | [Hey, Hey Girl](https://open.spotify.com/track/0yKDswdkUhrD1FlI7OaXfe) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Hey, Hey Girl 7"](https://open.spotify.com/album/4MCpw6grgnk4HK0QPkKk67) | 2:15 | 2024-04-03 | 2024-05-16 |
 | [Hidden Glow](https://open.spotify.com/track/712k1F2RhljxhqVAVRlvnv) | [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN), [Daniel Dor](https://open.spotify.com/artist/1MKHZ2XG5GkCmLK7VMGjIZ) | [The Garden Suite](https://open.spotify.com/album/0UccFpMfqmge5fNISVNHdH) | 2:14 | 2024-12-09 | 2025-01-12 |
 | [Himmel](https://open.spotify.com/track/2VSkFvTEK9R7AsrWRLp8ON) | [Ebbb](https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW) | [Himmel / Swarm](https://open.spotify.com/album/63Fj5OB3G8u7LZsYADylFd) | 3:29 | 2024-09-08 | 2024-11-14 |

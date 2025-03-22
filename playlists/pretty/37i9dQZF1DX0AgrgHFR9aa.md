@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Caballero x Jungle Jack x JeanJass
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,907 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,916 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 6 | [Demain tout ira mieux](https://open.spotify.com/track/5EGvGFCqJIWBMxSyCysbAi) | [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q), [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [Chute Libre](https://open.spotify.com/album/3wu9LCZmrwiRo0Z3kS3vQb) | 3:27 |
 | 7 | [Mexico en Janvier\_freestyle 2025](https://open.spotify.com/track/0lrlphKBszrLhFGu8lFY48) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Mexico en Janvier\_freestyle 2025](https://open.spotify.com/album/4UdhMmgyuPzPA5ilI159vP) | 3:10 |
 | 8 | [Paraît que les miracles n'existent pas](https://open.spotify.com/track/4qx7QpLMWmG2xgjbin6Bah) | [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98) | [Paraît que les miracles n'existent pas](https://open.spotify.com/album/52GUdRYgqUQJkwGGWCEHwB) | 3:27 |
-| 9 | [Kurt](https://open.spotify.com/track/5pNDSNpT5UpJG3srUdkBi0) | [Campesino](https://open.spotify.com/artist/6YZvEinSwiLu5iwQSZVqUE) | [Kurt](https://open.spotify.com/album/3AtQmx6EqyUeZcyXpc57yv) | 3:26 |
+| 9 | [KURT](https://open.spotify.com/track/5pNDSNpT5UpJG3srUdkBi0) | [Campesino](https://open.spotify.com/artist/6YZvEinSwiLu5iwQSZVqUE) | [KURT](https://open.spotify.com/album/3AtQmx6EqyUeZcyXpc57yv) | 3:26 |
 | 10 | [H21](https://open.spotify.com/track/7FSuzsuMvRUGM0218OCzm9) | [Heykel](https://open.spotify.com/artist/4IT6Ftf0n1okaKdKlIY0fL) | [H21](https://open.spotify.com/album/7HSEzzwzrf4m5htQlzG97v) | 6:23 |
 | 11 | [QI\. RAP](https://open.spotify.com/track/2keS8llLDlW3Auh6LFbNrf) | [Médine](https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV) | [QI\. RAP](https://open.spotify.com/album/3hYR3wlA63xrFZ0fZxfiEt) | 2:50 |
 | 12 | [HIVER AUTOMNE](https://open.spotify.com/track/77tMzKJzSlUnRuxuLw9gPm) | [Souffrance](https://open.spotify.com/artist/1uzx1lyRA2RIZlVSxOfBAi) | [HIVER AUTOMNE](https://open.spotify.com/album/3zcwS8dRR30sgEmjqYNv9z) | 3:02 |

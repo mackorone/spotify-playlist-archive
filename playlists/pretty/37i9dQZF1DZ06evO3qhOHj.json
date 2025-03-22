@@ -1,12 +1,12 @@
 {
   "description": "This is Mr. Big. The essential tracks, all in one playlist.",
-  "num_followers": 29141,
+  "num_followers": 29151,
   "original_name": "This Is Mr. Big",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9i3gAAAAAAXRmMGqD1C6Wo2eKZKPhNs",
+  "snapshot_id": "Z9tagAAAAACpAJT13BAuYO+BClPDuIC2",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Actual Size",
+        "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/4QO00F2MwWmZ37IeoSWejw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What If...",
         "url": "https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 265573,
       "name": "Stranger In My Life",
       "url": "https://open.spotify.com/track/1SgrsREYlgqJIGWvMU8GGK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bump Ahead [Expanded]",
-        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 253480,
-      "name": "Colorado Bulldog",
-      "url": "https://open.spotify.com/track/7CqczQ0HGS9C7koT1NMWcb"
     },
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bump Ahead [Expanded]",
+        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 253480,
+      "name": "Colorado Bulldog",
+      "url": "https://open.spotify.com/track/7CqczQ0HGS9C7koT1NMWcb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Actual Size",
         "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
       },
@@ -468,9 +484,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 224866,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/4QO00F2MwWmZ37IeoSWejw"
+      "duration_ms": 300293,
+      "name": "Nothing Like It In The World",
+      "url": "https://open.spotify.com/track/3TcMPHNlBkwvMy5b3k041x"
     },
     {
       "added_at": null,
@@ -532,25 +548,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 300293,
-      "name": "Nothing Like It In The World",
-      "url": "https://open.spotify.com/track/3TcMPHNlBkwvMy5b3k041x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forever In Our Hearts",
-        "url": "https://open.spotify.com/album/7BtoCu1PGBoSijLUA56G8V"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 277397,
-      "name": "Forever In Our Hearts",
-      "url": "https://open.spotify.com/track/2SHGmeRFSgp6xABH8tsOmp"
+      "duration_ms": 282626,
+      "name": "Suffocation",
+      "url": "https://open.spotify.com/track/6LBTeCeUVFXO9rf6LbkDYI"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 226706,
-      "name": "The Chain",
-      "url": "https://open.spotify.com/track/4z0gMSL3Z1pIdt8Psi2P6D"
+      "duration_ms": 200453,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/2dvxVshYOguKNlimauN4Mx"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Actual Size",
-        "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
+        "name": "Forever In Our Hearts",
+        "url": "https://open.spotify.com/album/7BtoCu1PGBoSijLUA56G8V"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 282626,
-      "name": "Suffocation",
-      "url": "https://open.spotify.com/track/6LBTeCeUVFXO9rf6LbkDYI"
+      "duration_ms": 277397,
+      "name": "Forever In Our Hearts",
+      "url": "https://open.spotify.com/track/2SHGmeRFSgp6xABH8tsOmp"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 200453,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/2dvxVshYOguKNlimauN4Mx"
+      "duration_ms": 226706,
+      "name": "The Chain",
+      "url": "https://open.spotify.com/track/4z0gMSL3Z1pIdt8Psi2P6D"
     },
     {
       "added_at": null,

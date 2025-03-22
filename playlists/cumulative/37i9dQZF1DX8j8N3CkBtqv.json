@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Bombay the Artist, Gini and other exciting releases.",
+  "description": "Naye Indie gaano ka khazana, featuring Divyam Sodhi, Khwaab, Hanita Bhambri and other exciting artists.",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 202182,
       "name": "Anjaana",
       "url": "https://open.spotify.com/track/6bBLCABXWOSTv7W4anHyhs"
@@ -2690,7 +2690,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 195704,
       "name": "Behkaave",
       "url": "https://open.spotify.com/track/2diXyFIgXy35WAUnkqrfvv"
@@ -3140,6 +3140,24 @@
       "duration_ms": 252194,
       "name": "Bhayankar Piya",
       "url": "https://open.spotify.com/track/0IaJjF4NDTr0RZMCUIZKvh"
+    },
+    {
+      "album": {
+        "name": "Bhool Bhulaiya",
+        "url": "https://open.spotify.com/album/5UdtpbfhTvDSz6x78eCSNy"
+      },
+      "artists": [
+        {
+          "name": "Hanita Bhambri",
+          "url": "https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Bhool Bhulaiya",
+      "url": "https://open.spotify.com/track/5En9zOsP5wURF47Fxzh66o"
     },
     {
       "album": {
@@ -4302,6 +4320,40 @@
       "duration_ms": 172500,
       "name": "Dhuun Mein",
       "url": "https://open.spotify.com/track/14b4w1LxwxhC25C3uXDoe5"
+    },
+    {
+      "album": {
+        "name": "Dil Behkaaye",
+        "url": "https://open.spotify.com/album/2WginyYdZBd5opfBW38Cy0"
+      },
+      "artists": [
+        {
+          "name": "maahi",
+          "url": "https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV"
+        },
+        {
+          "name": "Paradox",
+          "url": "https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui"
+        },
+        {
+          "name": "Rutvik Talashilkar",
+          "url": "https://open.spotify.com/artist/778Z63WsGI3DGV83Ug92H4"
+        },
+        {
+          "name": "Shloke Lal",
+          "url": "https://open.spotify.com/artist/5hICADiHIRxjNDx2qEhlXb"
+        },
+        {
+          "name": "Harjot Kaur",
+          "url": "https://open.spotify.com/artist/4xPHVHq5B7BX0h8XCOYWQw"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205515,
+      "name": "Dil Behkaaye",
+      "url": "https://open.spotify.com/track/4RluWOpOG1YBZEtUmEAExY"
     },
     {
       "album": {
@@ -5754,7 +5806,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 160736,
       "name": "Gehna",
       "url": "https://open.spotify.com/track/1rnUR1yktDfh6VpxxhIpeb"
@@ -10107,6 +10159,32 @@
     },
     {
       "album": {
+        "name": "Khwaabre",
+        "url": "https://open.spotify.com/album/32anWLyKsIDiTjMFp4dV7a"
+      },
+      "artists": [
+        {
+          "name": "Rishi Kumar",
+          "url": "https://open.spotify.com/artist/3F5SVEzUMD5JVZ0K9Q4XZW"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Anshul Mathur",
+          "url": "https://open.spotify.com/artist/6DU9rNtAevlHMYBNnkI2LX"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181687,
+      "name": "Khwaabre",
+      "url": "https://open.spotify.com/track/59mfcu2HSYSSFFopuUJmSY"
+    },
+    {
+      "album": {
         "name": "Khwab",
         "url": "https://open.spotify.com/album/0ICe966bo3oNsHRIBp4aQ7"
       },
@@ -10700,6 +10778,28 @@
       "duration_ms": 163000,
       "name": "Kya Hai Mera",
       "url": "https://open.spotify.com/track/2iseU7GmuGOusviAfuUWzj"
+    },
+    {
+      "album": {
+        "name": "Kya Kahein",
+        "url": "https://open.spotify.com/album/1uMj48Dc1VRH70MzQWqZIk"
+      },
+      "artists": [
+        {
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+        },
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187342,
+      "name": "Kya Kahein",
+      "url": "https://open.spotify.com/track/1v6g0O3B9MmLPW8jNKPSQg"
     },
     {
       "album": {
@@ -14186,7 +14286,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 122008,
       "name": "Pahaad",
       "url": "https://open.spotify.com/track/1FfejBc6pNUQbFb8WwUy4K"
@@ -15256,7 +15356,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 154320,
       "name": "Rangeela Mora Saajna",
       "url": "https://open.spotify.com/track/34dwAam1NbXlgUGmo281e4"
@@ -16054,6 +16154,28 @@
       "duration_ms": 184615,
       "name": "Sab Rab",
       "url": "https://open.spotify.com/track/04fUBhT63GeEuOhoIONitJ"
+    },
+    {
+      "album": {
+        "name": "Riqqat",
+        "url": "https://open.spotify.com/album/3wITZhDN89HODZfs4IawWA"
+      },
+      "artists": [
+        {
+          "name": "Arslan Nizami",
+          "url": "https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203"
+        },
+        {
+          "name": "Zeeshaan Nabi",
+          "url": "https://open.spotify.com/artist/7tFNcJWZddY9NY6KUR4NDQ"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243857,
+      "name": "Saba Ke Baad",
+      "url": "https://open.spotify.com/track/7ipRE0SOEQgGgKwPppZKf0"
     },
     {
       "album": {
@@ -17238,7 +17360,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 220000,
       "name": "Sochna",
       "url": "https://open.spotify.com/track/79UTQqOfDT4zepo7KfbmbD"
@@ -18430,7 +18552,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 137738,
       "name": "Teri Rahi",
       "url": "https://open.spotify.com/track/2Oafe9yQRBa7n45jcDYmFI"
@@ -18716,7 +18838,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 129000,
       "name": "Tinke Ka Sahara",
       "url": "https://open.spotify.com/track/5BYTgO5v9eSV9T6oY8jSck"
@@ -20692,7 +20814,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 212588,
       "name": "You're The Reason (feat. Mary Ann Alexander)",
       "url": "https://open.spotify.com/track/70IH4V118n8hO0tqbn4vKA"

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,945 songs - 1 day 15 hr 32 min
+1,947 songs - 1 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1037,6 +1037,7 @@
 | [Maybe Someday](https://open.spotify.com/track/7J1wx91FrkBkPsTupLTJym) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Reflections](https://open.spotify.com/album/5Eh7lUr6T3rJo5C8naqOC2) | 1:30 | 2022-01-12 | 2024-01-30 |
 | [Meadow \- Cello Version](https://open.spotify.com/track/2kWPYv0BqtWySFMH8mvGEF) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Dreaming Of Spring Revisited \(Cello Version\)](https://open.spotify.com/album/7fv92xtC8fBziyWGy6U92Z) | 1:00 | 2024-02-16 |  |
 | [Meadows](https://open.spotify.com/track/053iOzuMkMvARAHcuF6nJx) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Blue](https://open.spotify.com/album/66uTGKCnvVcGTqMDHy439T) | 1:53 | 2022-01-12 | 2024-01-30 |
+| [Meanings](https://open.spotify.com/track/0v3UTJOzKGeMwOIZ3lGNCc) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Meanings](https://open.spotify.com/album/6ZlRL65EdMFz3e064tepsv) | 1:00 | 2025-03-21 |  |
 | [Melancholic Moment \- Strings Version](https://open.spotify.com/track/3tApqv72ZIdIItTnXT5woL) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Two Trios \(Strings Version\)](https://open.spotify.com/album/0ATNTO1K6lvvxRmj3MzHG9) | 1:14 | 2024-02-09 | 2024-02-13 |
 | [Mellow](https://open.spotify.com/track/1NNjQtOKYyRQA5uVTIb3D0) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Mellow](https://open.spotify.com/album/43NDNmPSM9w6Fpukb3LS0L) | 1:00 | 2024-06-25 |  |
 | [Mellow Days \- Cello Version](https://open.spotify.com/track/5YmHoOQvEZ5ne4MRptqQpv) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Mellow Days](https://open.spotify.com/album/2VT3hLh8i11KBPQ4yjr98o) | 1:02 | 2024-02-09 | 2024-02-13 |
@@ -1912,6 +1913,7 @@
 | [Winter Stars \- Strings Version](https://open.spotify.com/track/58rrzaQs9mOoG3xYUKMhwa) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Winter Stars \(Strings Version\)](https://open.spotify.com/album/6TPtn58wMmZoSunwRPVu86) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Winter Sunset](https://open.spotify.com/track/1gLACMq0c8sFTiL3vSMdQi) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Winter Sunset](https://open.spotify.com/album/0V7BW2DXxMROofON52Ifuf) | 1:00 | 2025-02-03 |  |
 | [Winter Sunshine](https://open.spotify.com/track/3jK42lBL023nhRIzsFqIX2) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Soft Strings](https://open.spotify.com/album/633Q4gSm8Mc205tuBQ84Vz) | 1:43 | 2022-01-20 |  |
+| [Wisdom Arr\. For Grand Piano](https://open.spotify.com/track/0lamxqF2xWLI4zsdGcfNPI) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Late Winter Melodies](https://open.spotify.com/album/589gcmITUvBR6kvMXWqqVM) | 1:00 | 2025-03-21 |  |
 | [Wisdom Arr\. For Piano](https://open.spotify.com/track/7epm8O2aCCB5KvCjIrIylE) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Wisdom](https://open.spotify.com/album/7AtuCTomjqqdrihCFm4mZD) | 1:00 | 2025-03-20 |  |
 | [Wish And Wonder \- Cello Version](https://open.spotify.com/track/61adYDrXeAXBvRiwWQeWsF) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Wish And Wonder](https://open.spotify.com/album/1oRNW6dxWomkyuli4m61zG) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Wish Me Well Arr\. For Cello](https://open.spotify.com/track/6QLM2awcrALis6qalmZcWk) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Wish Me Well](https://open.spotify.com/album/4bwfmpW4HymYcdeqeSnGy4) | 1:01 | 2023-04-19 | 2024-02-13 |

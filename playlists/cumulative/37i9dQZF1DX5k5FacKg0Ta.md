@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-312 songs - 1 day 3 hr 4 min
+313 songs - 1 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Deep in the Water](https://open.spotify.com/track/6223sSiNuaTxGCyyshUYGl) | [Nina Mya](https://open.spotify.com/artist/7mbxECrkKzOUyiEsIEMXPQ) | [Deep in the Water](https://open.spotify.com/album/1MCtSnHVmiI9CaL0My2jUO) | 3:59 | 2022-09-02 | 2022-09-23 |
 | [demolish, transform](https://open.spotify.com/track/689sPjFknUEvyyQvXHqEfA) | [Silva Kallionpää Quartet](https://open.spotify.com/artist/5NiJ3sFkmmxyhLFr1NpLTd) | [demolish, transform](https://open.spotify.com/album/7inP2RNk891EPvKCeJojEu) | 3:48 | 2022-09-02 | 2024-01-20 |
 | [Denmark: Lek](https://open.spotify.com/track/6bAVVD3He4f1r5UbyMV7Qq) | [Elifantree](https://open.spotify.com/artist/4L9zNR0MD7lpDDJnlK4t0F), [Lisbeth Diers](https://open.spotify.com/artist/67tBWsm9buSmRL2GxMCvdz) | [Hachi](https://open.spotify.com/album/3RZx7LhWPO1xm5dbXXUDnp) | 2:29 | 2022-09-02 | 2022-09-23 |
+| [Departure, pt\. 2](https://open.spotify.com/track/2LABInNvuePN0IRqAzCAOt) | [Otto Laakso](https://open.spotify.com/artist/2UZCDRMIjsW0OzpSI7YFpI) | [First Sketches](https://open.spotify.com/album/5Pi5PgJO4GefbXtBxzeHjN) | 6:51 | 2025-03-20 |  |
 | [Der Hacker](https://open.spotify.com/track/422a4puuho0yE1XMHEQ1yx) | [Turku Jazz Orchestra](https://open.spotify.com/artist/3h0163xqtTl2XIAisrYZSV), [Tero Lindberg](https://open.spotify.com/artist/2PK6WedjSwfpSVyVZN4T5f) | [Der Hacker](https://open.spotify.com/album/2cBlpBWtJLMIcIOoAsn548) | 5:54 | 2023-06-29 | 2023-10-06 |
 | [Desperate Measures \- Single Version](https://open.spotify.com/track/4hdvWSDAEiEWctUY7nK2nf) | [Mortality](https://open.spotify.com/artist/5AlwhHyKcptUXruUkubQB0), [Teri Mantere](https://open.spotify.com/artist/2OzzJ9xdmJw5Nkakt0HG2Z), [Jori Huhtala](https://open.spotify.com/artist/6lgNnlT4ua03OwPYYfPT9p), [Manuel Dunkel](https://open.spotify.com/artist/7j2FF5LqjO8mB3iT2PxnV8) | [Desperate Measures](https://open.spotify.com/album/54IsmE8iMq5x6he0pNHtL1) | 5:47 | 2024-08-22 |  |
 | [Despite Hope](https://open.spotify.com/track/6cGVaRFrAx5iyvFQvW0ueN) | [Heikki Ruokangas](https://open.spotify.com/artist/528BH4IohTsILi45srw81Y), [Landon George](https://open.spotify.com/artist/6wYrnJi2mdcjlih5WucLZ2) | [Intro to Hunting Gods](https://open.spotify.com/album/1DHL7O1WfHfxph1tTgHZyB) | 5:02 | 2024-05-03 | 2024-10-04 |

@@ -2,7 +2,7 @@
 
 ### [NKVT](https://open.spotify.com/playlist/37i9dQZF1DXdnOj1VEuhgb)
 
-> Türkiye'nin en sıkı çalma listesi\. Kapak: Modd x Aksan
+> Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Modd x Aksan
 
 574 songs - 1 day 2 hr 7 min
 

@@ -1,13 +1,49 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Josh Levi",
-  "num_followers": 54406,
+  "description": "R&B of the moment by the artists of the future. Cover:  Larissa Lambert",
+  "num_followers": 54421,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9PQNwAAAACbGUNTrMAUPgs4EnSknNMW",
+  "snapshot_id": "Z9z3MAAAAAB1H/ArVrHAjBeBWhjVVw6Y",
   "tracks": [
+    {
+      "added_at": "2025-02-14 08:04:25",
+      "album": {
+        "name": "Cardio",
+        "url": "https://open.spotify.com/album/6LnEejBn1JJmNORVS7GPkT"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "duration_ms": 157414,
+      "name": "Cardio",
+      "url": "https://open.spotify.com/track/4tT8aXyeAsrq8MA0VmsjfG"
+    },
+    {
+      "added_at": "2025-03-21 05:20:48",
+      "album": {
+        "name": "You Or Nobody",
+        "url": "https://open.spotify.com/album/4Q1r9x8b0JJkf3mzRD2OLc"
+      },
+      "artists": [
+        {
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "duration_ms": 153813,
+      "name": "You or Nobody (with Timbaland)",
+      "url": "https://open.spotify.com/track/4jqQxnUg9MEqjgNeAw61BA"
+    },
     {
       "added_at": "2025-03-14 06:39:18",
       "album": {
@@ -79,6 +115,38 @@
       "duration_ms": 215320,
       "name": "Rotation",
       "url": "https://open.spotify.com/track/7rc1HQlfKhsdhDri8eM5i4"
+    },
+    {
+      "added_at": "2025-03-21 05:20:48",
+      "album": {
+        "name": "Obsessive",
+        "url": "https://open.spotify.com/album/57ZXYEiiaPqQYQDXUs0wBT"
+      },
+      "artists": [
+        {
+          "name": "Girlfriend",
+          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
+        }
+      ],
+      "duration_ms": 143012,
+      "name": "Obsessive",
+      "url": "https://open.spotify.com/track/7A6l0IcN6DZMkyUJ42AV2W"
+    },
+    {
+      "added_at": "2025-03-21 05:20:48",
+      "album": {
+        "name": "32nd Floor",
+        "url": "https://open.spotify.com/album/3xLBUAMjb7qcbu1nW5EPep"
+      },
+      "artists": [
+        {
+          "name": "Nija",
+          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
+        }
+      ],
+      "duration_ms": 171380,
+      "name": "32nd Floor",
+      "url": "https://open.spotify.com/track/2mqx3ugsy7KCmGlV1tDP7K"
     },
     {
       "added_at": "2025-03-07 06:20:43",
@@ -181,6 +249,38 @@
       "url": "https://open.spotify.com/track/7rMIePH9SdYWmWNzuNg26p"
     },
     {
+      "added_at": "2025-03-21 05:20:48",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/6jLmRQtbgeKWp0qJ9rlKuM"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "duration_ms": 201739,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3AhjqljvTK2yuiMHSJXQyx"
+    },
+    {
+      "added_at": "2025-03-21 05:20:48",
+      "album": {
+        "name": "Inside Voice(s)",
+        "url": "https://open.spotify.com/album/1roRwweRpNzs6c0t3ff8HO"
+      },
+      "artists": [
+        {
+          "name": "Bathe",
+          "url": "https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK"
+        }
+      ],
+      "duration_ms": 175346,
+      "name": "Bby Boi",
+      "url": "https://open.spotify.com/track/4r4u3CdAC7o6CRUMatZTMs"
+    },
+    {
       "added_at": "2025-02-28 06:56:32",
       "album": {
         "name": "Cruel, Cruel World",
@@ -229,36 +329,20 @@
       "url": "https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU"
     },
     {
-      "added_at": "2025-03-07 06:20:43",
+      "added_at": "2025-03-21 05:20:48",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/6KxVsMuUQ4OO83QfkGZsI5"
+        "name": "DND",
+        "url": "https://open.spotify.com/album/0Ovj6EvLPcUdythgf3NULU"
       },
       "artists": [
         {
-          "name": "Jordan Hawkins",
-          "url": "https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY"
+          "name": "AKIA",
+          "url": "https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06"
         }
       ],
-      "duration_ms": 275376,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/3hb7X2wYx06jhuPnDP4bV7"
-    },
-    {
-      "added_at": "2025-02-28 06:56:32",
-      "album": {
-        "name": "Capsize",
-        "url": "https://open.spotify.com/album/4QQne7ganDme4lL42s1tjX"
-      },
-      "artists": [
-        {
-          "name": "Bathe",
-          "url": "https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK"
-        }
-      ],
-      "duration_ms": 170266,
-      "name": "Capsize",
-      "url": "https://open.spotify.com/track/3iTr3JYzY6gk3yFY074ZWw"
+      "duration_ms": 173682,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/59X3CiTwsVyEpTfVNghHG4"
     },
     {
       "added_at": "2025-02-14 08:04:25",
@@ -345,6 +429,22 @@
       "url": "https://open.spotify.com/track/4rYAFaC42GZuSM5PTv2ili"
     },
     {
+      "added_at": "2025-03-07 06:20:43",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/6KxVsMuUQ4OO83QfkGZsI5"
+      },
+      "artists": [
+        {
+          "name": "Jordan Hawkins",
+          "url": "https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY"
+        }
+      ],
+      "duration_ms": 275376,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/3hb7X2wYx06jhuPnDP4bV7"
+    },
+    {
       "added_at": "2025-02-28 06:56:32",
       "album": {
         "name": "RUDUMB?",
@@ -377,26 +477,6 @@
       "url": "https://open.spotify.com/track/3lHwn0uVcDUXusIKOoBVHp"
     },
     {
-      "added_at": "2025-02-21 07:02:28",
-      "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/5HoyMzfhOVitBuQbMDnq8a"
-      },
-      "artists": [
-        {
-          "name": "JayDon",
-          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
-        },
-        {
-          "name": "Paradise",
-          "url": "https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto"
-        }
-      ],
-      "duration_ms": 217694,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/0RJVZpscIbTcsV5yt6960t"
-    },
-    {
       "added_at": "2025-02-28 06:56:32",
       "album": {
         "name": "LYTM (Remix)",
@@ -417,20 +497,24 @@
       "url": "https://open.spotify.com/track/7pjLceVtuF7cW6odLMcsS2"
     },
     {
-      "added_at": "2025-02-21 05:16:16",
+      "added_at": "2025-03-21 05:20:48",
       "album": {
-        "name": "On my way!",
-        "url": "https://open.spotify.com/album/3rWjzYdAQ9re4QkndcDvQE"
+        "name": "Done With You",
+        "url": "https://open.spotify.com/album/4hHS5hXFKWK5dQiNCfRlED"
       },
       "artists": [
         {
-          "name": "Che Ecru",
-          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+          "name": "Luck",
+          "url": "https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M"
+        },
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
         }
       ],
-      "duration_ms": 127833,
-      "name": "La La La La La",
-      "url": "https://open.spotify.com/track/4OfUF1CY8WAsIBm36HOkWb"
+      "duration_ms": 199459,
+      "name": "Done With You",
+      "url": "https://open.spotify.com/track/59RCpK5Vsx2Rwy5BFnlqBq"
     },
     {
       "added_at": "2025-02-14 08:04:25",
@@ -507,6 +591,22 @@
       "duration_ms": 168663,
       "name": "ONE MORE TIME (TRY)",
       "url": "https://open.spotify.com/track/0nvBw7Jz4SxNIrZ5X6caQw"
+    },
+    {
+      "added_at": "2025-03-21 05:20:48",
+      "album": {
+        "name": "A Night About You (Deluxe)",
+        "url": "https://open.spotify.com/album/5cfKNUnGdzjyYVxi1eOQwV"
+      },
+      "artists": [
+        {
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+        }
+      ],
+      "duration_ms": 214962,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/6Ylr3goHPDWv6me0PmA0tl"
     },
     {
       "added_at": "2025-02-14 08:04:25",
@@ -591,22 +691,6 @@
       "duration_ms": 151820,
       "name": "Regular Girl",
       "url": "https://open.spotify.com/track/6n3IrXv89bChBzjbRJRmUq"
-    },
-    {
-      "added_at": "2025-02-14 08:04:25",
-      "album": {
-        "name": "Cardio",
-        "url": "https://open.spotify.com/album/6LnEejBn1JJmNORVS7GPkT"
-      },
-      "artists": [
-        {
-          "name": "Larissa Lambert",
-          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
-        }
-      ],
-      "duration_ms": 157414,
-      "name": "Cardio",
-      "url": "https://open.spotify.com/track/4tT8aXyeAsrq8MA0VmsjfG"
     },
     {
       "added_at": "2025-02-14 08:04:25",
@@ -2641,26 +2725,6 @@
       "url": "https://open.spotify.com/track/21LvidSXOuc5jgy5ttnCkP"
     },
     {
-      "added_at": "2024-08-30 05:01:34",
-      "album": {
-        "name": "Tell Me Again (with Bay Swag)",
-        "url": "https://open.spotify.com/album/4bJap4XE07xCRaCRc6z6Ws"
-      },
-      "artists": [
-        {
-          "name": "Girlfriend",
-          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
-        },
-        {
-          "name": "Bay Swag",
-          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
-        }
-      ],
-      "duration_ms": 163014,
-      "name": "Tell Me Again (with Bay Swag)",
-      "url": "https://open.spotify.com/track/4XtliFaBmh2ID7LiDwHjCK"
-    },
-    {
       "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "A Kid From Toronto",
@@ -2731,22 +2795,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "The R&B You Love: For the '99 and the 2000s",
         "url": "https://open.spotify.com/album/5dFAi8YRb09fkSJAATWGrX"
       },
@@ -2811,46 +2859,6 @@
       "duration_ms": 179571,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/4Z973kxz9iOlxwTlCDskpl"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Get down / Lovin you",
-        "url": "https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv"
-      },
-      "artists": [
-        {
-          "name": "Giift",
-          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
-        }
-      ],
-      "duration_ms": 145246,
-      "name": "Get down",
-      "url": "https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "No More Maybes (feat. Bibi Bourelly & India Shawn)",
-        "url": "https://open.spotify.com/album/5foVF96o1WhMDI29PJ2jyf"
-      },
-      "artists": [
-        {
-          "name": "TAVE",
-          "url": "https://open.spotify.com/artist/76ZWyAjoSOf6v8kH3UqLEK"
-        },
-        {
-          "name": "Bibi Bourelly",
-          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
-        },
-        {
-          "name": "India Shawn",
-          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
-        }
-      ],
-      "duration_ms": 199439,
-      "name": "No More Maybes (feat. Bibi Bourelly & India Shawn)",
-      "url": "https://open.spotify.com/track/3vUm8HaXvzoaP8yNNNiiu2"
     },
     {
       "added_at": "2024-05-31 07:31:18",

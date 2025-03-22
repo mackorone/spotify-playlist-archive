@@ -1,6 +1,6 @@
 {
   "description": "Timeless Pakistani hits, all in one place. Cover - Junaid Jamshed",
-  "num_followers": 58669,
+  "num_followers": 58679,
   "original_name": "All Time Pakistani Hits",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
+        "name": "Parastish",
+        "url": "https://open.spotify.com/album/0caOlEfxhjBHnOyuxf55AT"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Jehanzeb",
+          "url": "https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX"
+        }
+      ],
+      "duration_ms": 311533,
+      "name": "Aap Ki Yaad",
+      "url": "https://open.spotify.com/track/5fc9Jer5jSPSPBPE4xgnqd"
+    },
+    {
+      "added_at": "2024-06-06 13:15:46",
+      "album": {
         "name": "Mausam",
         "url": "https://open.spotify.com/album/758VIaUPNO3rY8nBxPTzv1"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 290386,
       "name": "Mausam",
       "url": "https://open.spotify.com/track/0WdKRv6PSPZmT5iftXT6eZ"
-    },
-    {
-      "added_at": "2024-06-06 13:15:46",
-      "album": {
-        "name": "Parastish",
-        "url": "https://open.spotify.com/album/0caOlEfxhjBHnOyuxf55AT"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Jehanzeb",
-          "url": "https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX"
-        }
-      ],
-      "duration_ms": 311533,
-      "name": "Aap Ki Yaad",
-      "url": "https://open.spotify.com/track/5fc9Jer5jSPSPBPE4xgnqd"
     },
     {
       "added_at": "2024-06-06 13:15:46",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
-        "name": "Chup",
-        "url": "https://open.spotify.com/album/5gwT7LD8k8457NUK824Kb5"
-      },
-      "artists": [
-        {
-          "name": "Zeb & Haniya",
-          "url": "https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA"
-        }
-      ],
-      "duration_ms": 333706,
-      "name": "Chal Diye",
-      "url": "https://open.spotify.com/track/4KLXNggnzrpMrtZX1DAK8g"
-    },
-    {
-      "added_at": "2024-06-06 13:15:46",
-      "album": {
         "name": "Roshni",
         "url": "https://open.spotify.com/album/3EYMIeGNfYcvIWYuujWKOb"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 268822,
       "name": "Dupatta",
       "url": "https://open.spotify.com/track/0yfpjCf7E4uNENnqaaOw4I"
+    },
+    {
+      "added_at": "2024-06-06 13:15:46",
+      "album": {
+        "name": "Chup",
+        "url": "https://open.spotify.com/album/5gwT7LD8k8457NUK824Kb5"
+      },
+      "artists": [
+        {
+          "name": "Zeb & Haniya",
+          "url": "https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA"
+        }
+      ],
+      "duration_ms": 333706,
+      "name": "Chal Diye",
+      "url": "https://open.spotify.com/track/4KLXNggnzrpMrtZX1DAK8g"
     }
   ],
   "unique_name": "All Time Pakistani Hits",

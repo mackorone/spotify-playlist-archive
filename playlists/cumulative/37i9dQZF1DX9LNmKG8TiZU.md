@@ -2,7 +2,7 @@
 
 ### [Douceur Pop](https://open.spotify.com/playlist/37i9dQZF1DX9LNmKG8TiZU)
 
-> Des titres pop, tout en douceur\. Photo : Damiano David
+> Des titres pop, tout en douceur\. Photo : Gracie Abrams
 
 243 songs - 13 hr 21 min
 

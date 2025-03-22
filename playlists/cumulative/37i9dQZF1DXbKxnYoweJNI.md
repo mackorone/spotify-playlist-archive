@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: Andr x A.G.O
 
-1,834 songs - 4 day 10 hr 48 min
+1,835 songs - 4 day 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1474,6 +1474,7 @@
 | [登機室 \(Prod\. 鱔魚意麵\)](https://open.spotify.com/track/29t2tfAfgZAlvDaOIqGbxs) | [賴奕泓](https://open.spotify.com/artist/4n0pWvKeByJ8apOVaU2K39) | [登機室 \(Prod\. 鱔魚意麵\)](https://open.spotify.com/album/1Of2SMzLjFWYTBOFC04UjJ) | 3:24 | 2024-12-26 | 2025-01-03 |
 | [發明家](https://open.spotify.com/track/50JQN2y7X8Tj6XXhEswcYs) | [Fairy Ray](https://open.spotify.com/artist/0kOBtdXu4ASQTQ4Exw4f4L), [Kouky](https://open.spotify.com/artist/2coiqz1mzMeNUaEvPc5wya) | [發明家](https://open.spotify.com/album/3GY2KEELnX6R6bQODqDfBr) | 2:48 | 2024-08-01 | 2024-08-30 |
 | [白卷](https://open.spotify.com/track/4RH14uCEdeY1nXHnouSrtA) | [痞幼](https://open.spotify.com/artist/2TfdmFQgGUmxFGrzC5S3EA), [Lambert凌](https://open.spotify.com/artist/61u8FEElPIrXoGWzVldLnC) | [白卷](https://open.spotify.com/album/45jNBzVKwSsxLJJYkmC6GI) | 3:21 | 2024-06-27 | 2024-07-05 |
+| [白日夢繩索](https://open.spotify.com/track/6Jy0rQR3mrYX57MoSt8Lmc) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [白日夢繩索](https://open.spotify.com/album/1gmqNF6LM9coMjNv5og8u7) | 3:55 | 2025-03-20 |  |
 | [白日梦游记](https://open.spotify.com/track/6jVITaIUfPoThBIE9MeTqS) | [REEBX](https://open.spotify.com/artist/3LEdwW2oT9mc2CEULY1a8N), [DreamBeach](https://open.spotify.com/artist/5dD1ViHHSYWQX9lb8VUsab) | [白日梦游记](https://open.spotify.com/album/6E7b37TbYcVyC26AbQO95R) | 3:04 | 2024-10-10 | 2024-10-18 |
 | [白樹](https://open.spotify.com/track/428XtGuhYhUSk02xpsPQuz) | [袁語笙](https://open.spotify.com/artist/3J2ufQTqU0OKM6yCd7KVzy) | [白樹](https://open.spotify.com/album/1K8R8r8QxSRftLrbTEFi18) | 2:30 | 2024-12-19 | 2025-01-03 |
 | [白玫瑰 White Roses](https://open.spotify.com/track/0csb8WeWpU7t1S6uB6KJRS) | [寒冰Ice](https://open.spotify.com/artist/20tBfpj1303rEt1XBVcPth) | [白玫瑰 White Roses](https://open.spotify.com/album/4jPLAotdqghvuXTigztLGj) | 2:36 | 2024-10-10 | 2024-11-01 |

@@ -1,6 +1,6 @@
 {
   "description": "Guembri, rhythmic krakebs and soulful chants.",
-  "num_followers": 65511,
+  "num_followers": 65524,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2025-03-13 20:50:57",
       "album": {
+        "name": "Lalla Malika - \u0644\u0627\u0644\u0629 \u0645\u0644\u064a\u0643\u0629",
+        "url": "https://open.spotify.com/album/7b3Y8g8SLFuqJDNyk9NWnb"
+      },
+      "artists": [
+        {
+          "name": "Neghma",
+          "url": "https://open.spotify.com/artist/55LUkgAAO2xw9YvYUgRoxr"
+        }
+      ],
+      "duration_ms": 342569,
+      "name": "Lalla Malika - \u0644\u0627\u0644\u0629 \u0645\u0644\u064a\u0643\u0629",
+      "url": "https://open.spotify.com/track/0tDZx5lL3bv6BFAiRSuwGO"
+    },
+    {
+      "added_at": "2025-03-13 20:50:57",
+      "album": {
         "name": "African Gnaoua Blues",
         "url": "https://open.spotify.com/album/1re8yFWm97F3S2uD1ztase"
       },
@@ -163,22 +179,6 @@
     {
       "added_at": "2025-03-13 20:50:57",
       "album": {
-        "name": "Gnawa Fusion, Vol. 1",
-        "url": "https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap"
-      },
-      "artists": [
-        {
-          "name": "Hamid El Gnawi",
-          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
-        }
-      ],
-      "duration_ms": 254275,
-      "name": "Baba Al Arabi",
-      "url": "https://open.spotify.com/track/6kRpgupBsfIV93FpfA8p72"
-    },
-    {
-      "added_at": "2025-03-13 20:50:57",
-      "album": {
         "name": "Roots & Plugged",
         "url": "https://open.spotify.com/album/16MciLmcGXDmpmZZmlJUNn"
       },
@@ -195,18 +195,18 @@
     {
       "added_at": "2025-03-13 20:50:57",
       "album": {
-        "name": "Lalla Malika - \u0644\u0627\u0644\u0629 \u0645\u0644\u064a\u0643\u0629",
-        "url": "https://open.spotify.com/album/7b3Y8g8SLFuqJDNyk9NWnb"
+        "name": "Gnawa Fusion, Vol. 1",
+        "url": "https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap"
       },
       "artists": [
         {
-          "name": "Neghma",
-          "url": "https://open.spotify.com/artist/55LUkgAAO2xw9YvYUgRoxr"
+          "name": "Hamid El Gnawi",
+          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
         }
       ],
-      "duration_ms": 342569,
-      "name": "Lalla Malika - \u0644\u0627\u0644\u0629 \u0645\u0644\u064a\u0643\u0629",
-      "url": "https://open.spotify.com/track/0tDZx5lL3bv6BFAiRSuwGO"
+      "duration_ms": 254275,
+      "name": "Baba Al Arabi",
+      "url": "https://open.spotify.com/track/6kRpgupBsfIV93FpfA8p72"
     },
     {
       "added_at": "2025-03-13 20:50:57",

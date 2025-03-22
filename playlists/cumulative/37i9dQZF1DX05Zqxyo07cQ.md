@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-691 songs - 1 day 9 hr 47 min
+692 songs - 1 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Essence](https://open.spotify.com/track/2EnLnhNkVlMlqwpz4b8lct) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Deep Healing Sessions Vol 2](https://open.spotify.com/album/5K63oXlxc0jMxHooauDXva) | 3:30 | 2023-03-23 | 2024-02-09 |
 | [Essentials](https://open.spotify.com/track/1GJb1W2u1XOC4NnTprGsGk) | [River Hall](https://open.spotify.com/artist/2fuR3LZlCAFO9u0DlORUag) | [Essentials](https://open.spotify.com/album/1k52LUN5DCwcsQB7tqlc48) | 3:00 | 2023-03-23 | 2024-03-21 |
 | [Esthetic](https://open.spotify.com/track/5opY79ADHYjzc0F3jYUqFV) | [Martina Bower](https://open.spotify.com/artist/3Si4nV51fin9nrnvRCWDRK) | [Esthetic](https://open.spotify.com/album/2IMf7MJ23NWU7ip6xGghSY) | 2:43 | 2023-03-23 | 2024-02-09 |
+| [Eternal Moon](https://open.spotify.com/track/26nLhM4tNejbXtnUGB1SIp) | [Joudinoire](https://open.spotify.com/artist/5mZP1quYaLv8h8ppurtqaX) | [Eternal Moon](https://open.spotify.com/album/3MOOaUzMLOAHdSwpUzxe4k) | 2:19 | 2025-03-19 |  |
 | [Eternal Moonlight](https://open.spotify.com/track/738JCzRd0bIFhjzk3VhpzF) | [Rettifilo Flo](https://open.spotify.com/artist/1tu4alzACrKXmfff1nKbFE) | [Eternal Moonlight](https://open.spotify.com/album/46bBeEuSZl2dA6Ntb6CBDK) | 2:58 | 2024-05-04 | 2025-03-03 |
 | [Eternal Oasis](https://open.spotify.com/track/2WMk4o3SKnZiVCPkg8FKsc) | [Long Lake](https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr) | [Eternal Oasis](https://open.spotify.com/album/4BQWK3mMwAveseWKb0oZfV) | 2:38 | 2025-01-08 |  |
 | [Eternalesque](https://open.spotify.com/track/78jKWVURKpY0OIPqWSyqAp) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Eternalesque](https://open.spotify.com/album/4Hs618FkmSigv8pWBToicU) | 2:34 | 2025-01-22 |  |
@@ -316,7 +317,7 @@
 | [Ilinova](https://open.spotify.com/track/4PGOX4mKVxdnb4fKZ8d49h) | [Isak Wellington](https://open.spotify.com/artist/4UZyZN8YPXUmu1E2COn52N) | [Ilinova](https://open.spotify.com/album/1uL2rl1FBiiRG3Zwf3dpcH) | 3:08 | 2023-05-05 | 2024-03-21 |
 | [Illa Pancha](https://open.spotify.com/track/1aU0CFHRycE2Va7CVmDZEX) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Candieira](https://open.spotify.com/album/2VKD43M5UUzJvi2rHHmSEe) | 2:40 | 2023-03-23 | 2024-02-09 |
 | [In a Charming Dream](https://open.spotify.com/track/3TizifrzD8kqNPVej7OgIu) | [Sergei Andreyev](https://open.spotify.com/artist/1WLfFRzfUMQdr1Ac341H1R) | [In a Charming Dream](https://open.spotify.com/album/4iff1YryIlmywgUjkGtOYk) | 3:04 | 2023-03-23 | 2024-01-18 |
-| [In another lifetime](https://open.spotify.com/track/6mzCWgCZ0Cg53ibaLopsrq) | [Bee Heads](https://open.spotify.com/artist/0b28QH3axNYY3VRJ1ps8SS) | [In another lifetime](https://open.spotify.com/album/7eEQmpxpPdfiI3AmP9x3Xe) | 2:56 | 2024-03-20 |  |
+| [In another lifetime](https://open.spotify.com/track/6mzCWgCZ0Cg53ibaLopsrq) | [Bee Heads](https://open.spotify.com/artist/0b28QH3axNYY3VRJ1ps8SS) | [In another lifetime](https://open.spotify.com/album/7eEQmpxpPdfiI3AmP9x3Xe) | 2:56 | 2024-03-20 | 2025-03-22 |
 | [In my quiet hour](https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk) | [Nicholas Sipka](https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4) | [In My Quiet Hour](https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN) | 2:06 | 2023-03-23 | 2024-01-18 |
 | [In Solitude](https://open.spotify.com/track/4rEHRykxSQvP6mA23Umt71) | [Restorative](https://open.spotify.com/artist/5xKXgnk2Uov5ZnQi87TV0i) | [In Solitude](https://open.spotify.com/album/1S2GsC1vBF4ISYIpwSass6) | 2:31 | 2023-03-23 | 2024-03-21 |
 | [in the hide](https://open.spotify.com/track/2FojeY4xeZC2wrwIgTDDVU) | [Rossyx](https://open.spotify.com/artist/2vvcM0Ac0BOQIFpBeRO9vu) | [hieroglyphs](https://open.spotify.com/album/7yKRy1HLte1sQeFXTiUmnA) | 2:51 | 2023-03-23 | 2024-03-21 |

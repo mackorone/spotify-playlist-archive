@@ -1305,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "First Sketches",
+        "url": "https://open.spotify.com/album/5Pi5PgJO4GefbXtBxzeHjN"
+      },
+      "artists": [
+        {
+          "name": "Otto Laakso",
+          "url": "https://open.spotify.com/artist/2UZCDRMIjsW0OzpSI7YFpI"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411500,
+      "name": "Departure, pt. 2",
+      "url": "https://open.spotify.com/track/2LABInNvuePN0IRqAzCAOt"
+    },
+    {
+      "album": {
         "name": "Der Hacker",
         "url": "https://open.spotify.com/album/2cBlpBWtJLMIcIOoAsn548"
       },

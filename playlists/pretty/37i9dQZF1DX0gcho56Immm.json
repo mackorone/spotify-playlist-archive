@@ -1,13 +1,29 @@
 {
   "description": "explore the alt-sounds of Copenhagen and beyond. \ud83c\udf00 Cover: ML Buch",
-  "num_followers": 3423,
+  "num_followers": 3654,
   "original_name": "Cph+",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9Rp3AAAAACK4EBw7KUWfocxcu3XYRHF",
+  "snapshot_id": "Z9zkewAAAADU14Zh/i0J0wc/P04uHcc7",
   "tracks": [
+    {
+      "added_at": "2025-03-21 04:00:59",
+      "album": {
+        "name": "You got time and I got money",
+        "url": "https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        }
+      ],
+      "duration_ms": 271583,
+      "name": "You got time and I got money",
+      "url": "https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0"
+    },
     {
       "added_at": "2025-03-13 23:58:54",
       "album": {
@@ -23,6 +39,42 @@
       "duration_ms": 228600,
       "name": "Flames shards goo",
       "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
+    },
+    {
+      "added_at": "2025-03-21 04:00:59",
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/3duZIjETQX18dHLhyZ3ROo"
+      },
+      "artists": [
+        {
+          "name": "Horse Vision",
+          "url": "https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "11",
+      "url": "https://open.spotify.com/track/0JZ1N3dBa5WHksh5PbPeum"
+    },
+    {
+      "added_at": "2025-03-21 04:00:59",
+      "album": {
+        "name": "Clayboy",
+        "url": "https://open.spotify.com/album/6b4mSAa3dcAa2MREOBopYI"
+      },
+      "artists": [
+        {
+          "name": "RIP Swirl",
+          "url": "https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V"
+        },
+        {
+          "name": "Ydegirl",
+          "url": "https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Clayboy",
+      "url": "https://open.spotify.com/track/1V6MFi1F5PeiYe4NnADO6o"
     },
     {
       "added_at": "2025-03-13 23:58:54",

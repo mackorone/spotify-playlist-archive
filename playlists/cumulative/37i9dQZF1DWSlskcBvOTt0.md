@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-875 songs - 3 day 4 hr 9 min
+876 songs - 3 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Hustla](https://open.spotify.com/track/1UnZUwKsQsmwSdsvKm2QRm) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Hustla](https://open.spotify.com/album/4oofnyX49L9k555nOKILFI) | 2:41 | 2024-02-23 | 2024-06-22 |
 | [Hypertrophy of Heart](https://open.spotify.com/track/42bZq7YzcIsrIpbQesd5nh) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO), [Hydrah](https://open.spotify.com/artist/7mx6m8w71DBSnLTV3i7wVk) | [Hypertrophy of Heart](https://open.spotify.com/album/0omAadju0KB3bL3G8a35Gb) | 5:00 | 2021-06-25 | 2023-04-29 |
 | [Héroe de México](https://open.spotify.com/track/7MLuFolJQtnjal6Dj2PEoJ) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu), [mari](https://open.spotify.com/artist/15OvVFJbYn5WnBNcAXIKIJ) | [Héroe de México](https://open.spotify.com/album/7yKxl53YArKGGJZxdHJGGb) | 3:31 | 2024-07-26 |  |
+| [I Feel](https://open.spotify.com/track/0QDQikDVeVvyrag0jdfXbR) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb) | [I Feel EP](https://open.spotify.com/album/3ejftaZR7ToCHPjcoE3KTr) | 5:16 | 2025-03-21 |  |
 | [I Feel Love \- Monkey Safari Remix](https://open.spotify.com/track/4O7rsawCxBlcrYSz6ZHmMM) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU), [Chic Loren](https://open.spotify.com/artist/3jMsCseQv7XvuJ9LJQN5dM), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [I Feel Love \(Monkey Safari Remix\)](https://open.spotify.com/album/2o8I77Z1HsMqCKAdEcTT6o) | 9:16 | 2022-07-01 | 2022-10-15 |
 | [I Feel Love \- Monkey Safari Remix](https://open.spotify.com/track/37nppJzOgypngu1szTRD06) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Chic Loren](https://open.spotify.com/artist/3jMsCseQv7XvuJ9LJQN5dM) | [I Feel Love \(Monkey Safari Remix\)](https://open.spotify.com/album/4qJPPQ2dIJ9MOnVfGG2PN7) | 9:16 | 2022-07-01 | 2024-01-19 |
 | [I Forgive You \- Luzi Tudor Remix](https://open.spotify.com/track/2aTCaOzrqND5VM5V0EnI2d) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Luzi Tudor](https://open.spotify.com/artist/0P4MdjIcZqLtx676443ZGd) | [I Forgive You \(Remixes\)](https://open.spotify.com/album/57aBdbmYeOzOdKpVM1FihB) | 4:40 | 2024-10-04 | 2024-11-17 |
@@ -846,7 +847,7 @@
 | [Wanyama](https://open.spotify.com/track/7mdgRb5f7pg3gKOO9jXe0v) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [Robby East](https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW) | [Wanyama](https://open.spotify.com/album/4aQfRePd7j4IwqzQ3m5Yhq) | 3:26 | 2021-09-03 | 2022-07-29 |
 | [Warrior](https://open.spotify.com/track/4MxV7MwM5eUBwRW9PCcabQ) | [Pryda](https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt) | [PRYDA 15 VOL I](https://open.spotify.com/album/2MSprf6584peQvdVMWAEMt) | 8:23 | 2021-04-21 | 2022-04-21 |
 | [Warrior Dance](https://open.spotify.com/track/5ksVu18bAda5YJ0Rq6kjz4) | [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Jojo Abot](https://open.spotify.com/artist/7yR9zhQxEi9sc3vJxS2YG5) | [Warrior Dance](https://open.spotify.com/album/5cQboNPGY7gR5ztTn39pop) | 4:14 | 2025-02-28 |  |
-| [WASSER \- Kotiēr Remix](https://open.spotify.com/track/7MJw7fF5sLfQFot1HhJVC6) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Kotiēr](https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu) | [WASSER \(Kotiēr Remix\)](https://open.spotify.com/album/2qXRFONJS6HobiaSQ7D0Z9) | 6:30 | 2024-11-08 |  |
+| [WASSER \- Kotiēr Remix](https://open.spotify.com/track/7MJw7fF5sLfQFot1HhJVC6) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Kotiēr](https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu) | [WASSER \(Kotiēr Remix\)](https://open.spotify.com/album/2qXRFONJS6HobiaSQ7D0Z9) | 6:30 | 2024-11-08 | 2025-03-22 |
 | [Watching Over Me](https://open.spotify.com/track/63Fu6cZVHFsxxeXEBvMBs6) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Watching Over Me](https://open.spotify.com/album/6VxEbABUynP9EO928oMktg) | 4:39 | 2025-03-07 |  |
 | [Waves of the Soul](https://open.spotify.com/track/3pIFT7NY5IjtUoLlD1kWOt) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Waves of the Soul](https://open.spotify.com/album/3j0ZhOcH3kccfgsVKUa7mL) | 3:32 | 2022-06-03 | 2022-10-13 |
 | [Waves of the Soul](https://open.spotify.com/track/4bkdXYkvmAAji6VWevl6Ve) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Waves of the Soul](https://open.spotify.com/album/16eDzM06HNV3eGenqZknA5) | 3:32 | 2022-07-01 | 2023-06-24 |

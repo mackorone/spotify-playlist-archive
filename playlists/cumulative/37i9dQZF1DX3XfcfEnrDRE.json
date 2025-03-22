@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Songs representing Alternative music's ever-evolving sound paired with these artists' everlasting faith.  Cover: Stephen Stanley",
+  "description": "Songs representing Alternative music's ever-evolving sound paired with these artists' everlasting faith.  Cover: Chase Wagner",
   "name": "Christian Alt",
   "tracks": [
     {
@@ -820,7 +820,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 233472,
       "name": "COUNT 'EM (LIVE)",
       "url": "https://open.spotify.com/track/2zbD8RD1uZB5goSOagkNJB"
@@ -1023,6 +1023,24 @@
     },
     {
       "album": {
+        "name": "Encounter",
+        "url": "https://open.spotify.com/album/6hJBtRA0wEr2YDy8Tl5GQT"
+      },
+      "artists": [
+        {
+          "name": "Chase Wagner",
+          "url": "https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272571,
+      "name": "Encounter",
+      "url": "https://open.spotify.com/track/3Uhv3WMEXxFv6bUZN9FIzA"
+    },
+    {
+      "album": {
         "name": "Epic",
         "url": "https://open.spotify.com/album/1hoF5ONBHFFxNjOifxbJbz"
       },
@@ -1056,7 +1074,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 275834,
       "name": "eternally",
       "url": "https://open.spotify.com/track/4OzYi906q4KWKRjK4MyIFk"
@@ -1562,7 +1580,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 199005,
       "name": "Give My All",
       "url": "https://open.spotify.com/track/6RUhMJ816rKag5trw0iiH1"
@@ -1659,6 +1677,24 @@
     },
     {
       "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0igxQaN8iQNIwDvZBSKKRA"
+      },
+      "artists": [
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328284,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/7jwDkuFY3aHdVo42eesrnI"
+    },
+    {
+      "album": {
         "name": "Have A Little Faith",
         "url": "https://open.spotify.com/album/7K8eL4wIKT0MtV1Z9oOl2q"
       },
@@ -1710,7 +1746,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 178764,
       "name": "Head First (From \"Gabriel and the Guardians\")",
       "url": "https://open.spotify.com/track/6ByyNMdLP4pta9V5Jt1Pc2"
@@ -1764,10 +1800,28 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 187427,
       "name": "Heaven Is Here Now",
       "url": "https://open.spotify.com/track/4TAhpfDCwvvLhOsvNRBWiY"
+    },
+    {
+      "album": {
+        "name": "Heavy Heart",
+        "url": "https://open.spotify.com/album/2rN3lrhU35DyShiftw0BEn"
+      },
+      "artists": [
+        {
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Heavy Heart",
+      "url": "https://open.spotify.com/track/1WRU7UlaMltJyVhYDDv7fl"
     },
     {
       "album": {
@@ -2204,10 +2258,28 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 215247,
       "name": "I'm Alive",
       "url": "https://open.spotify.com/track/77rhVt2gkXW7ERW9SJDNRu"
+    },
+    {
+      "album": {
+        "name": "If I ever lose my way",
+        "url": "https://open.spotify.com/album/4wEKrfWQ1GGlF3dakWmj0Y"
+      },
+      "artists": [
+        {
+          "name": "Haynza",
+          "url": "https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177857,
+      "name": "If I ever lose my way",
+      "url": "https://open.spotify.com/track/6dWU6lGzqsrnVHRcToUa36"
     },
     {
       "album": {
@@ -2240,7 +2312,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 200200,
       "name": "imagination",
       "url": "https://open.spotify.com/track/02spa6OzWWL8tludrb8hPg"
@@ -2479,6 +2551,24 @@
     },
     {
       "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/0jr1ykkFlGG3RPlzlIp0QP"
+      },
+      "artists": [
+        {
+          "name": "Lani Rose",
+          "url": "https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203526,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/5IxZ834XDOpE24vY8hEYVu"
+    },
+    {
+      "album": {
         "name": "Natural Killer",
         "url": "https://open.spotify.com/album/3oZfCFEY6PqY59fsUyitbV"
       },
@@ -2552,7 +2642,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 152978,
       "name": "KINGDOM COME",
       "url": "https://open.spotify.com/track/4V0XVB84bt1Dhu8kcJXvy5"
@@ -2729,6 +2819,24 @@
     },
     {
       "album": {
+        "name": "Living God",
+        "url": "https://open.spotify.com/album/6pLuAxitpXrJch2MrNteWY"
+      },
+      "artists": [
+        {
+          "name": "John Allan",
+          "url": "https://open.spotify.com/artist/3yXwrQypnq4HbhapeXftN9"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215552,
+      "name": "Living God",
+      "url": "https://open.spotify.com/track/5RbqnnzpujMuviHLjRrA6Y"
+    },
+    {
+      "album": {
         "name": "Look Up",
         "url": "https://open.spotify.com/album/2sk9sxUsafPiMS27OoFGxX"
       },
@@ -2776,7 +2884,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 252520,
       "name": "Love Over Religion",
       "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
@@ -2834,7 +2942,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 160924,
       "name": "Maybe This, Maybe That - Studio Version",
       "url": "https://open.spotify.com/track/0PGRVZincMoY3wXz7hhte8"
@@ -2878,6 +2986,32 @@
       "duration_ms": 206746,
       "name": "Mercy Shores",
       "url": "https://open.spotify.com/track/2DfrxAll5ft3nKQNa6OKEo"
+    },
+    {
+      "album": {
+        "name": "midnight hour (reimagined)",
+        "url": "https://open.spotify.com/album/2p19p9CnoF1wmdkeXRkK1C"
+      },
+      "artists": [
+        {
+          "name": "Praise Lubangu",
+          "url": "https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ"
+        },
+        {
+          "name": "Ale Fdz",
+          "url": "https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy"
+        },
+        {
+          "name": "Julien Saquing",
+          "url": "https://open.spotify.com/artist/4KOIwzNfjIx78K5Byrcoej"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190609,
+      "name": "midnight hour - reimagined",
+      "url": "https://open.spotify.com/track/1S9bYeCC5CrM6JK0M9NwCW"
     },
     {
       "album": {
@@ -3016,7 +3150,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 139285,
       "name": "NEVER FELT SO GOOD",
       "url": "https://open.spotify.com/track/2exfMpNGW6W8sIMARfmWLg"
@@ -3114,7 +3248,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 196524,
       "name": "Not Done Yet",
       "url": "https://open.spotify.com/track/6cAObGU0XLTa3HqJ6v9dAH"
@@ -3132,7 +3266,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 210586,
       "name": "Not So Sure",
       "url": "https://open.spotify.com/track/0kRVQ6zabsGsj9tSyHp1zZ"
@@ -3306,7 +3440,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 248347,
       "name": "Only One",
       "url": "https://open.spotify.com/track/4LTe9CeE3UWwM4UyPaWfws"
@@ -3426,7 +3560,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 239655,
       "name": "Pulp",
       "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
@@ -3564,7 +3698,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 154769,
       "name": "right here",
       "url": "https://open.spotify.com/track/5ulMvQqZZGvtNTyKZJ7OX1"
@@ -3840,7 +3974,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 192086,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/3SE2OWRSRPwNtO3flHQOKv"
@@ -3876,7 +4010,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 189527,
       "name": "STAND STRONG",
       "url": "https://open.spotify.com/track/5CIWMOtUlrW9XWddgClI4U"
@@ -4078,7 +4212,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 208968,
       "name": "Taste Another Day",
       "url": "https://open.spotify.com/track/2Pezb5u4BHTGCCaTafDML6"
@@ -4096,7 +4230,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 159534,
       "name": "The Field",
       "url": "https://open.spotify.com/track/0JdJ8UhDjZ4n5R8kTXOkYS"
@@ -4478,7 +4612,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 138846,
       "name": "Where To Find Me",
       "url": "https://open.spotify.com/track/5CxUClSpwnM0bu7CnBky2k"
@@ -4496,7 +4630,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 151168,
       "name": "whisper",
       "url": "https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF"

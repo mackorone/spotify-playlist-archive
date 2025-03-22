@@ -2125,6 +2125,24 @@
     },
     {
       "album": {
+        "name": "Madd at Love",
+        "url": "https://open.spotify.com/album/7AlAf18aOEAYTnZwxkrqaC"
+      },
+      "artists": [
+        {
+          "name": "Madd9",
+          "url": "https://open.spotify.com/artist/5JVFe7DdYJ53zoF1mKFXpZ"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240720,
+      "name": "Decide",
+      "url": "https://open.spotify.com/track/6EA60hnDibhTmqIgSzyJAH"
+    },
+    {
+      "album": {
         "name": "Deep Dive (feat. Candy Dulfer)",
         "url": "https://open.spotify.com/album/6f5TCopsrO24t7Asl2lO4C"
       },
@@ -2655,6 +2673,28 @@
     },
     {
       "album": {
+        "name": "Finity",
+        "url": "https://open.spotify.com/album/7jBSHl4xTF5cv4l8O28L8p"
+      },
+      "artists": [
+        {
+          "name": "halfpastseven",
+          "url": "https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk"
+        },
+        {
+          "name": "Tallulah Rose",
+          "url": "https://open.spotify.com/artist/52K2wI1tA5kaRyQUKVhOaJ"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203500,
+      "name": "Finity",
+      "url": "https://open.spotify.com/track/7yh5tLunbxJYhexQdR1rvg"
+    },
+    {
+      "album": {
         "name": "First Time",
         "url": "https://open.spotify.com/album/48nORViECETPn7P9c8opIT"
       },
@@ -2764,7 +2804,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 172000,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/6k0wkuPkmShLizJwebC5bN"
@@ -4390,7 +4430,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 203708,
       "name": "It Only Takes 2",
       "url": "https://open.spotify.com/track/7GTEkSbb0bG5RNKOrckKwi"
@@ -8106,7 +8146,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 220000,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/5S4llrdOSlVYLlFZflVQE8"
@@ -9062,6 +9102,32 @@
       "duration_ms": 234285,
       "name": "That",
       "url": "https://open.spotify.com/track/2iCh6HCII4LRuxiQJxklsu"
+    },
+    {
+      "album": {
+        "name": "The Artful Dodger",
+        "url": "https://open.spotify.com/album/3lVg2PpFFZxUYhi9YZV5NN"
+      },
+      "artists": [
+        {
+          "name": "Carbonara Collective",
+          "url": "https://open.spotify.com/artist/0xQtEAccpoBnlgXdSf75f6"
+        },
+        {
+          "name": "Michael Ekow",
+          "url": "https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ"
+        },
+        {
+          "name": "Thierry Ganz",
+          "url": "https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128627,
+      "name": "The Artful Dodger",
+      "url": "https://open.spotify.com/track/6EKVOr5GhKLFF5uLK1RrFA"
     },
     {
       "album": {

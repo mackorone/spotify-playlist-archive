@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-245 songs - 14 hr 20 min
+247 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Sky Full of Stars](https://open.spotify.com/track/7k0KOplnvXm5GUkw7RXYg0) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Uncharted](https://open.spotify.com/album/6nNCnm0zCnx2CF033KpEVd) | 4:08 | 2021-11-19 |  |
 | [A Thousand Years \- Piano Version](https://open.spotify.com/track/06Jd4TVGvexfQTnTjq9P9Y) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U) | [A Thousand Years \(Piano Version\)](https://open.spotify.com/album/41rka4Cv7m2IOgg0pmXhBO) | 4:13 | 2024-11-15 |  |
 | [abcdefu \(arr\. piano\)](https://open.spotify.com/track/0u8AsjbVra5aT2QNqYUEtu) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [abcdefu \(arr\. piano\)](https://open.spotify.com/album/66vBDdWzw9v5GuK928maT2) | 2:41 | 2022-02-11 |  |
+| [Abracadabra \- Symphony Orchestra Version](https://open.spotify.com/track/1JNHhHqI0KOPDzRJ3ym0OK) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Abracadabra \(Symphony Orchestra Version\)](https://open.spotify.com/album/2nXMuHtK3XMMaqykf3YfCf) | 3:13 | 2025-03-21 |  |
 | [Across The Universe \(Arr\. Lawson\)](https://open.spotify.com/track/3tjcfuKQ71cu6fQTwzBNnv) | [Jess Gillam](https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB), [Rowena Calvert](https://open.spotify.com/artist/5vg0ucoBJjqBXYU4eun1q0), [Sam Becker](https://open.spotify.com/artist/73hqztzJdaRVSQVgifV7MT), [Lysandre Ménard](https://open.spotify.com/artist/5Is7r23SF0uCXeFzwOMZW5) | [Across The Universe \(Arr\. Lawson\)](https://open.spotify.com/album/7HXVpWl09KTOsLM39pW5o5) | 3:50 | 2021-11-19 |  |
 | [Adore You \(arr\. string quartet\) \- Inspired by ‘Bridgerton’](https://open.spotify.com/track/0ovIP1mWermyLY91w6SMnh) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Adore You \(arr\. string quartet\) \[Inspired by ‘Bridgerton’\]](https://open.spotify.com/album/3JBaruXKMRHbPsnGIwmsaq) | 3:18 | 2021-11-19 | 2023-09-30 |
 | [All Alone on Christmas](https://open.spotify.com/track/2unlAFQCz1ePlJiPA7GUDb) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [All Alone on Christmas](https://open.spotify.com/album/5EcpnZGAYJ1w8s68bKQK00) | 4:24 | 2024-12-10 | 2025-02-22 |
@@ -209,6 +210,7 @@
 | [Such Great Heights](https://open.spotify.com/track/0i75xg1hBO4BQuivKkGio1) | [The Section Quartet](https://open.spotify.com/artist/4XBvsNUbZyZT9eynxBQutr) | [Fuzzbox](https://open.spotify.com/album/5qaF3UTjIIzapiEvfaDnfc) | 4:38 | 2021-11-19 |  |
 | [Such Great Heights](https://open.spotify.com/track/7A4dZr5uXjb8qggBoAJttJ) | [The Section Quartet](https://open.spotify.com/artist/4XBvsNUbZyZT9eynxBQutr) | [Fuzzbox](https://open.spotify.com/album/6obah2tloYKurr25coxtTm) | 4:38 | 2022-07-08 | 2024-04-19 |
 | [Sweet Dream are Made of This](https://open.spotify.com/track/3IoqMnXkCRPWcEGr0C5S9e) | [The Hampton String Quartet](https://open.spotify.com/artist/6znv7r79kszSnESrTp05nc) | [Take No Prisoners](https://open.spotify.com/album/1P5EHnwDFWD1dH1cl5JxI1) | 4:06 | 2021-11-19 |  |
+| [Sweet Dreams \- Piano Version](https://open.spotify.com/track/36nEmaseHoiF7qoTZem3On) | [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G) | [Sweet Dreams \(Piano Version\)](https://open.spotify.com/album/4NckuV5rT6ZhrFijUPJoAt) | 2:07 | 2025-03-21 |  |
 | [Take Me to Church](https://open.spotify.com/track/3hWJYwHivHN8TTNS4AAaCO) | [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Volume 2](https://open.spotify.com/album/4zXRI1N7np71w5xqGmP0on) | 4:10 | 2022-07-08 | 2024-04-19 |
 | [Take Me to Church](https://open.spotify.com/track/5xEBEZi40MdHruE01O3ws6) | [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Volume 2](https://open.spotify.com/album/1OruJmAvXK5Pa3BawvswSJ) | 4:10 | 2021-11-19 |  |
 | [Teardrop](https://open.spotify.com/track/1ammM5JONGbcVDXpuSWgSx) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [ARSHA KAVIANI](https://open.spotify.com/artist/6X2QoSBLc6zeYdIQrtLNed) | [Accents & Echoes](https://open.spotify.com/album/6hitDfHO4Bhp0709ZY2Mag) | 4:30 | 2024-07-12 |  |

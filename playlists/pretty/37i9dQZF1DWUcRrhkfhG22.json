@@ -1,13 +1,29 @@
 {
   "description": "Funky vocoders and talk boxes",
-  "num_followers": 57069,
+  "num_followers": 57084,
   "original_name": "Robo-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsgJQAAAAAAlpKy5Y+XlYRpMNvXbwbGU",
+  "snapshot_id": "Z9zkbAAAAAAmoO/gM0YP/A2RnMmNasz+",
   "tracks": [
+    {
+      "added_at": "2025-03-21 04:00:44",
+      "album": {
+        "name": "Freak-A-Zoid (Reboot)",
+        "url": "https://open.spotify.com/album/5l3bOFkCwff9VtB5CF04F4"
+      },
+      "artists": [
+        {
+          "name": "Calloway",
+          "url": "https://open.spotify.com/artist/3MKSm2U72NzNdxRjMhzyHh"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Freak-A-Zoid - Reboot",
+      "url": "https://open.spotify.com/track/5p1qlJbZVirHNJbNzwG6Zy"
+    },
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {

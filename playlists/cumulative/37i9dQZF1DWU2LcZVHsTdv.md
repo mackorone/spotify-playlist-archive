@@ -4,12 +4,13 @@
 
 > The country way of testifying.
 
-270 songs - 16 hr 27 min
+272 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Little Love](https://open.spotify.com/track/6dtFZkJdNJljSlWI9dL1kg) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6), [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [One On One](https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr) | 3:08 | 2021-12-10 |  |
 | [A Little Right Now](https://open.spotify.com/track/2TB7xUdGMgQb4vdP3TAAyq) | [Charles Esten](https://open.spotify.com/artist/5DOQ7jQ2pnXaiJiIoiEQjz) | [A Little Right Now](https://open.spotify.com/album/76hO8PwW6PSb87RIHRVfpJ) | 3:31 | 2023-04-28 |  |
+| [Ain't Done](https://open.spotify.com/track/56XH2sOgqKeCpmgMI5k2Xy) | [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [Ain't Done](https://open.spotify.com/album/03fA93n05zLMAJiOXrit6S) | 3:04 | 2025-03-21 |  |
 | [Ain’t Mad At Jesus](https://open.spotify.com/track/1ZWRFnItc6LzdMrzDg46JV) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Earned It \(Sampler\)](https://open.spotify.com/album/4QdR5tUzrT7SBquAJAJHAb) | 2:43 | 2023-07-28 |  |
 | [All I See](https://open.spotify.com/track/1OIhubEHsc9JJskFkqa1h3) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [One On One](https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr) | 2:58 | 2021-12-10 |  |
 | [Almost Home](https://open.spotify.com/track/2rNmKzD3bdB1xqBzPkt5c1) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [I Love It](https://open.spotify.com/album/5wBgFNzyKaJU9aTs3wVhRU) | 4:49 | 2023-10-20 | 2024-04-19 |
@@ -200,6 +201,7 @@
 | [River Of Life](https://open.spotify.com/track/0B1GuT4svftHFzZ8wXcBau) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [River Of Life](https://open.spotify.com/album/6vF3ktUVSaC3IEtZHZwU3b) | 2:49 | 2021-12-10 |  |
 | [Seven Minutes In Heaven](https://open.spotify.com/track/5zKwF0J5TJn8z2YorAo9zr) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Not That Fancy](https://open.spotify.com/album/2WS0EdG1NL1TkGT7ahnXYZ) | 4:24 | 2023-10-06 |  |
 | [She Loves Jesus](https://open.spotify.com/track/6crnBVNhXq2aEi5ALEVc41) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [She Loves Jesus](https://open.spotify.com/album/4T6btzyWWrifniVKkTmZbs) | 4:00 | 2022-10-28 |  |
+| [Shine](https://open.spotify.com/track/1391pTC3PlDqAWZTNUkdPc) | [Frankie Ballard](https://open.spotify.com/artist/0dvKgSdNB2U1gfp6ZcekYi) | [The Messenger](https://open.spotify.com/album/70od9008rtHk29AYSgp24n) | 2:41 | 2025-03-21 |  |
 | [Show Me Around](https://open.spotify.com/track/1kAjZE74FPpadN5JUgrIcZ) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29](https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn) | 3:40 | 2021-12-10 |  |
 | [Sing \(feat\. Russell Dickerson, Florida Georgia Line\)](https://open.spotify.com/track/4bKkUZX9OlAh8fE5KsaE0G) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 2:46 | 2021-12-10 |  |
 | [Somebody Else](https://open.spotify.com/track/5EaDQlO1mSdyDhgmmV3ECo) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n), [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW) | [Somebody Else](https://open.spotify.com/album/3qSl2EUB9MHWNZ7blQVOL4) | 3:09 | 2023-04-14 | 2024-12-14 |

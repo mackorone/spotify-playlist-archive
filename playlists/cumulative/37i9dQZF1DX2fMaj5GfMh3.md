@@ -2,7 +2,7 @@
 
 ### [Fresh Pop](https://open.spotify.com/playlist/37i9dQZF1DX2fMaj5GfMh3)
 
-> De nieuwste pop songs\. Cover: Chappell Roan
+> De nieuwste pop songs\. Cover: Berre & Madeline Juno
 
 898 songs - 1 day 21 hr 40 min
 

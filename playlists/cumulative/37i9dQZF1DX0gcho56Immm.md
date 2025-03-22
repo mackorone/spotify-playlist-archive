@@ -4,10 +4,11 @@
 
 > explore the alt\-sounds of Copenhagen and beyond\. 🌀 Cover: ML Buch
 
-60 songs - 3 hr 17 min
+63 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [11](https://open.spotify.com/track/0JZ1N3dBa5WHksh5PbPeum) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Another Life](https://open.spotify.com/album/3duZIjETQX18dHLhyZ3ROo) | 2:53 | 2025-03-21 |  |
 | [2Tru](https://open.spotify.com/track/3FNqzfajzraT8aP5TuwL8N) | [CCFX](https://open.spotify.com/artist/28tPuyqMVd3L51JmH9RpGZ) | [CCFX EP](https://open.spotify.com/album/0XV4H8McfOxCVsx145tRkd) | 3:51 | 2025-03-13 |  |
 | [4th of July](https://open.spotify.com/track/68ZkOZydnQY3ROFXM5PRZC) | [Mia Joy](https://open.spotify.com/artist/5a3lFI5IJGQbpMTdjrehHl) | [4th of July](https://open.spotify.com/album/1j5yIefEe1FhrxdJ6PI3EU) | 2:59 | 2025-03-13 |  |
 | [5](https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [lucre](https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4) | 2:00 | 2025-03-13 |  |
@@ -18,6 +19,7 @@
 | [Boys In Movies](https://open.spotify.com/track/52aOlXUlDbqSu811EeWP3H) | [Liss](https://open.spotify.com/artist/49relnvZqce65Sj3QiQAaI), [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [I Guess Nothing Will Be The Same](https://open.spotify.com/album/5WBpaqXvTImljfXirlFZs5) | 3:44 | 2025-03-13 |  |
 | [Candy Says](https://open.spotify.com/track/3kqBmvGhDR5TpwWci9vMHn) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [Candy says](https://open.spotify.com/album/5PKcI4pE9f3m5JFHZ1ztfM) | 3:36 | 2025-03-13 |  |
 | [Ceiling](https://open.spotify.com/track/7asTOYW6l14nwV8rLDCnD5) | [Issy Wood](https://open.spotify.com/artist/3nyoodEXBH2JZUcZuT4KhU) | [The Blame, Pt\. 4](https://open.spotify.com/album/77m4TmpJPNLx2mKdZGemWJ) | 3:27 | 2025-03-13 |  |
+| [Clayboy](https://open.spotify.com/track/1V6MFi1F5PeiYe4NnADO6o) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Clayboy](https://open.spotify.com/album/6b4mSAa3dcAa2MREOBopYI) | 2:35 | 2025-03-21 |  |
 | [Cold Paris Vogue](https://open.spotify.com/track/0ZquXqzUdelOil2nV3APqN) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Pleasure Is Everything](https://open.spotify.com/album/6gzbL250qiTrGwsqvKw1O7) | 2:47 | 2025-03-13 |  |
 | [Computer Love](https://open.spotify.com/track/1a8GO5CTwoQAz2Rhal9vls) | [Sarah Meth](https://open.spotify.com/artist/2cveuRnx0cbS41GQTBcuRz) | [Computer Love](https://open.spotify.com/album/56BloPLPzJUc0L81RcDwaY) | 2:30 | 2025-03-13 |  |
 | [Crickets](https://open.spotify.com/track/6f069VM5bj00oF7f82NkqP) | [Hollis Howard](https://open.spotify.com/artist/38SGcqf6cMSdDxd4t6SuFq) | [Crickets](https://open.spotify.com/album/2PgyjdmNivt1iFXQ4C7VkI) | 3:21 | 2025-03-13 |  |
@@ -66,6 +68,7 @@
 | [U Projected 2](https://open.spotify.com/track/0ZMfvxORfTTH4IVITqsQoh) | [Voice Actor](https://open.spotify.com/artist/6PsuUa5ijopH2T8rVzHSZc), [Yarrow.co](https://open.spotify.com/artist/3NB9lrY3lN3V8xxk4DrXRw) | [Sent From My Telephone](https://open.spotify.com/album/0l5WnDIdqIofDQaVhzOkyl) | 2:06 | 2025-03-13 |  |
 | [UGLY TATTOO](https://open.spotify.com/track/1o2RsAdLVDq1cy89dtic7r) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [UGLY TATTOO](https://open.spotify.com/album/5E1ZbueYYRd0qTo04buhS1) | 2:55 | 2025-03-13 |  |
 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 | 2025-03-13 |  |
+| [You got time and I got money](https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [You got time and I got money](https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn) | 4:31 | 2025-03-21 |  |
 | [YSL](https://open.spotify.com/track/4X5FMCwEdKC9gecjHaNHKh) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [YSL](https://open.spotify.com/album/0Kj9BfyMD0zK43pZloXTaB) | 2:34 | 2025-03-13 |  |
 | [YZOBEL](https://open.spotify.com/track/1eM523xDxp1mHQiTA7kmFB) | [Gyeongsu](https://open.spotify.com/artist/5WxULI3e8qgnKwMauQduCD), [Croche](https://open.spotify.com/artist/22I9JgE3OUvUWkYGuXbH2z) | [SLIT](https://open.spotify.com/album/0zX7226sj8C09ggxKE3NKZ) | 3:02 | 2025-03-13 |  |
 

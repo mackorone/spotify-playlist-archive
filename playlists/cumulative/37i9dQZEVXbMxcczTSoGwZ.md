@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-2,488 songs - 5 day 11 hr 18 min
+2,489 songs - 5 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1559,6 +1559,7 @@
 | [Oo vielä sekunnin mun](https://open.spotify.com/track/32yXNG1tmByrOzeXnP5K8W) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Hyvikset ja pahikset](https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0) | 3:42 | 2023-04-01 | 2023-04-30 |
 | [Oon tässä](https://open.spotify.com/track/08tn6HqvIOdm7wkqXL3HNL) | [Pete Parkkonen](https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn) | [Oon tässä](https://open.spotify.com/album/6vy3oajPcaii4dh0lBjWNY) | 3:29 | 2022-04-16 | 2022-04-18 |
 | [ORANSSI](https://open.spotify.com/track/4LF4LXtyULKaS3skaAndBp) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [NON2EN2E](https://open.spotify.com/album/07585rByEzjeng7KSShEFK) | 2:20 | 2022-12-03 | 2023-04-16 |
+| [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-03-21 |  |
 | [Oreo](https://open.spotify.com/track/3bxq6dTghhIYGNPU7j1m1l) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Oreo](https://open.spotify.com/album/04z3XWVZSNglwDgMNn8Lnq) | 2:48 | 2024-03-16 | 2024-03-18 |
 | [Ostan sen \(feat\. william\)](https://open.spotify.com/track/6eiiC09npk1Oe6Tmgxb6Uq) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Sextape II](https://open.spotify.com/album/7AtxLIvzuR2T3jsr62wzyR) | 3:38 | 2023-01-07 | 2023-01-16 |
 | [Osuma](https://open.spotify.com/track/6xm5YXX42b1dx4UM2UrOtX) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY), [Samuli Putro](https://open.spotify.com/artist/7c1LwhVSjP68zgMA7iqsC6) | [Osuma](https://open.spotify.com/album/742QnfgtXQAr0DlVhXzOpr) | 4:24 | 2024-02-17 | 2024-04-11 |
@@ -1746,7 +1747,7 @@
 | [RAPSTAR](https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:45 | 2021-06-16 | 2021-06-18 |
 | [RAPSTAR](https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [RAPSTAR](https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV) | 2:45 | 2021-04-11 | 2021-05-27 |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2021-05-03 | 2023-01-03 |
-| [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 | 2025-03-15 |  |
+| [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 | 2025-03-15 | 2025-03-22 |
 | [Rauhaa](https://open.spotify.com/track/1LgLXYqd3JYcHXfwHbszaZ) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Rauhaa](https://open.spotify.com/album/1tBc5Z4KadITFBbIp6Y9YU) | 2:57 | 2024-07-06 | 2024-09-01 |
 | [Rauhaa](https://open.spotify.com/track/6rwj48RM8fFaGTpWfdJ3rF) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [YUNO](https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj) | 2:57 | 2024-08-31 | 2025-01-05 |
 | [Ready To Go](https://open.spotify.com/track/1yHedmJ4lO0x9MYL6S98MA) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [People's Champion](https://open.spotify.com/album/1tCNYS0XPcGlPvKhncQd6o) | 2:56 | 2024-11-02 | 2024-11-04 |

@@ -3885,6 +3885,24 @@
     },
     {
       "album": {
+        "name": "Soft Echoes",
+        "url": "https://open.spotify.com/album/0j3nUOkfEKrduxG19DtbTJ"
+      },
+      "artists": [
+        {
+          "name": "Lukasz Allain",
+          "url": "https://open.spotify.com/artist/3O2fAJFoOE1uxFK9ZXouLc"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167505,
+      "name": "Soft Echoes",
+      "url": "https://open.spotify.com/track/6LgGNehVT0BpXcYqu4tWIc"
+    },
+    {
+      "album": {
         "name": "Soft Focus",
         "url": "https://open.spotify.com/album/5sSjbQbNspCTJIy1f3pZsc"
       },

@@ -3961,6 +3961,24 @@
     },
     {
       "album": {
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/3IJGXIstjykSCnQ5d9uDm9"
+      },
+      "artists": [
+        {
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195529,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/3vGzsNszbAqEr81y2uMlHJ"
+    },
+    {
+      "album": {
         "name": "Kanos",
         "url": "https://open.spotify.com/album/4ziuSY0MpYg3UwNoGqv5uf"
       },
@@ -4188,6 +4206,28 @@
       "duration_ms": 124714,
       "name": "Left To The Right",
       "url": "https://open.spotify.com/track/4Vvrre8ET12YYOVZPGmGRH"
+    },
+    {
+      "album": {
+        "name": "Lemme See Ya",
+        "url": "https://open.spotify.com/album/21OAvezqpIKtQ03fiAyeUX"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        },
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146865,
+      "name": "Lemme See Ya",
+      "url": "https://open.spotify.com/track/10ecK7ny1jfC5bZvA3JVXE"
     },
     {
       "album": {

@@ -3895,6 +3895,36 @@
     },
     {
       "album": {
+        "name": "Rock On",
+        "url": "https://open.spotify.com/album/3ED3F1GWHUBZnaYdMtBKIa"
+      },
+      "artists": [
+        {
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+        },
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        },
+        {
+          "name": "Patrick Benifei",
+          "url": "https://open.spotify.com/artist/3dOrb7nbZX0f0nGEdZLgTx"
+        },
+        {
+          "name": "Dj Kamo",
+          "url": "https://open.spotify.com/artist/70gSqeThzMyjZt29jDdMh6"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185714,
+      "name": "Gravit\u00e0",
+      "url": "https://open.spotify.com/track/1zHZxgTZ0knIS6rm1XlLU7"
+    },
+    {
+      "album": {
         "name": "XENOVERSO",
         "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
       },
@@ -4014,7 +4044,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 183880,
       "name": "Hashishin (feat. Axos)",
       "url": "https://open.spotify.com/track/0uOVYFcPUSqp3i5o6KGv5L"
@@ -8007,6 +8037,36 @@
     },
     {
       "album": {
+        "name": "Pineapple",
+        "url": "https://open.spotify.com/album/0fHCSCS4gFHgxzZhSaOVpD"
+      },
+      "artists": [
+        {
+          "name": "Giovane Feddini",
+          "url": "https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u"
+        },
+        {
+          "name": "Gccio",
+          "url": "https://open.spotify.com/artist/6rjWoojeyXGCHGQpjJQSlb"
+        },
+        {
+          "name": "MM",
+          "url": "https://open.spotify.com/artist/7vYGJGWGF6aS29MsFLuUGH"
+        },
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139950,
+      "name": "Pineapple",
+      "url": "https://open.spotify.com/track/7f4cnNLzZVgDKq34TERDIA"
+    },
+    {
+      "album": {
         "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali",
         "url": "https://open.spotify.com/album/03mKUpldVCEzMHeFlr8Dky"
       },
@@ -11006,7 +11066,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 233363,
       "name": "Un Bacio sulla Fronte",
       "url": "https://open.spotify.com/track/2GMjPlQYLSPajBmj5TdTke"

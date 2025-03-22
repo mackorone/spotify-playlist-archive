@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,863 songs - 4 day 0 hr 38 min
+1,865 songs - 4 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -560,6 +560,7 @@
 | [FitTop10](https://open.spotify.com/track/35XzKuTMuSFjMzUzMkgOrz) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [FitTop10](https://open.spotify.com/album/4KnLQHGGoyMM5v7zUTiHWf) | 3:05 | 2022-04-23 | 2022-04-29 |
 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 | 2023-07-20 | 2024-01-04 |
 | [Flamboyant](https://open.spotify.com/track/62c3hrowVVSsDSg6E5JOPn) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Feniks](https://open.spotify.com/album/4M5CnkQyZ1TbjcKOPPGKyh) | 3:44 | 2021-07-04 | 2021-07-05 |
+| [Flemming](https://open.spotify.com/track/6rXBU7UOqIzH2tiy5LvNFn) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5) | [SDL 0.5](https://open.spotify.com/album/7LOn3yOzaj7KZQU70UgxFI) | 3:34 | 2025-03-21 |  |
 | [Flexxen](https://open.spotify.com/track/4ckhmqXl4Zpbhl7T6NgVPI) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV) | [Flexxen](https://open.spotify.com/album/5gnLTGShLsqo303TEpFMyj) | 2:17 | 2022-07-30 | 2022-10-16 |
 | [Flexxen Al Een Tijdje](https://open.spotify.com/track/3sOa0x0k4hPlg9kJ9ZGFxh) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Luxeprobleem](https://open.spotify.com/album/6knvd9gtuhGbZNMNxjpJWy) | 2:15 | 2023-02-18 | 2023-02-20 |
 | [Flip Flops](https://open.spotify.com/track/6uVTOJ519YPiVjQqV52nse) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Flip Flops](https://open.spotify.com/album/357TcCWG8M77WVXX1xXWmY) | 3:29 | 2023-10-07 | 2023-10-09 |
@@ -1193,7 +1194,8 @@
 | [OBSESSIVE](https://open.spotify.com/track/6n2qxfG5QaDuExTCmkm1eT) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [ANIMALISTISCH](https://open.spotify.com/album/1hdHb8BucfEa6poLqWNsoT) | 2:42 | 2024-12-14 | 2024-12-16 |
 | [Oceaan](https://open.spotify.com/track/6LIuqYkTDH1x1NXnGVrG5g) | [M4RLBORO](https://open.spotify.com/artist/7d4t6iQ96DSuN1JPhChNMd), [yeixs](https://open.spotify.com/artist/51hQ28H5BjnESK2nUoloVC) | [Oceaan](https://open.spotify.com/album/53KUevA3UOEWaUts8cew8C) | 2:44 | 2024-10-29 | 2024-11-01 |
 | [Oceaan](https://open.spotify.com/track/0MbofnHckJgTnYkM7hSTnT) | [Rabmu](https://open.spotify.com/artist/5EVVZavjfeYKkOS58rsCJM) | [Oceaan](https://open.spotify.com/album/0L2iFvHRQX7j00rDXIaBV7) | 2:44 | 2025-02-12 | 2025-02-15 |
-| [Oceaan](https://open.spotify.com/track/7GWU6dQFjYF5YpsAUwZfGq) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Singles Collection](https://open.spotify.com/album/1CpitDOBAGiMnc1tmxlsGY) | 2:44 | 2023-09-25 |  |
+| [Oceaan](https://open.spotify.com/track/4SNHu8Kd0AiTkwexde6eB8) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Singles Collection](https://open.spotify.com/album/0SC6sTfu2FYYbKQn8HcEp4) | 2:44 | 2025-03-21 |  |
+| [Oceaan](https://open.spotify.com/track/7GWU6dQFjYF5YpsAUwZfGq) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Singles Collection](https://open.spotify.com/album/1CpitDOBAGiMnc1tmxlsGY) | 2:44 | 2023-09-25 | 2025-03-22 |
 | [Oceaan](https://open.spotify.com/track/7vLGH3y3J04X7wuyohnV0n) | [stanasx](https://open.spotify.com/artist/7dtn3jnlYVynQjwtdqtno7) | [Oceaan](https://open.spotify.com/album/2FUXfnWDhaOsTT00iHYbrY) | 2:44 | 2025-01-03 | 2025-01-07 |
 | [Oceaan](https://open.spotify.com/track/2dS497lEqXCwEWjEm11qBC) | [stanasx](https://open.spotify.com/artist/7dtn3jnlYVynQjwtdqtno7) | [Oceaan](https://open.spotify.com/album/3FYEgK8a7kBKRC0JNTfUtH) | 2:44 | 2024-09-29 | 2024-10-02 |
 | [Oceaan](https://open.spotify.com/track/4SaBLACvOASymY2zU4Nar9) | [yiit242](https://open.spotify.com/artist/5Mir1vGe2T6uxovgOkwCvJ), [Catrexzy](https://open.spotify.com/artist/33A7wgObxpm4RqL1ecnGs5), [Arzzxd](https://open.spotify.com/artist/23sYdtM4V4HzBNfxGRC3FM) | [Oceaan](https://open.spotify.com/album/5iZAjvuVpoE6pK8N1GHHXC) | 2:41 | 2023-10-26 | 2023-10-28 |
@@ -1401,7 +1403,7 @@
 | [Saoto Soep](https://open.spotify.com/track/2PVET8TTupV4B0BFRPAKxs) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Grote Versnelling](https://open.spotify.com/album/6U2JgdmQQ7QWQgGOksaRof) | 2:38 | 2021-09-19 | 2021-09-20 |
 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2022-05-21 | 2023-06-11 |
 | [Satisfyer](https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Satisfyer](https://open.spotify.com/album/3Kg5fJ83azbIWDKrqAuh4c) | 2:01 | 2023-11-11 | 2025-01-29 |
-| [Satisfyer](https://open.spotify.com/track/3qbb77qMxI5v013fqfRUzc) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:01 | 2025-03-08 |  |
+| [Satisfyer](https://open.spotify.com/track/3qbb77qMxI5v013fqfRUzc) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:01 | 2025-03-08 | 2025-03-22 |
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2021-03-27\* | 2021-04-18 |
 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 | 2021-04-26 | 2021-05-16 |
 | [Say Don't Go \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 4:39 | 2023-10-28 | 2023-11-03 |

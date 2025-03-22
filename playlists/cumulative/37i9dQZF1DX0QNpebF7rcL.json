@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in blues right now. Cover: Billy F Gibbons",
+  "description": "The best in blues right now. Cover: Bobby Rush & Kenny Wayne Shepherd",
   "name": "Got Blues",
   "tracks": [
     {
@@ -1142,6 +1142,24 @@
       "duration_ms": 174933,
       "name": "Call Me King",
       "url": "https://open.spotify.com/track/54lWZZ8Mx6dlHeGoGrga6l"
+    },
+    {
+      "album": {
+        "name": "Can't Catch My Breath",
+        "url": "https://open.spotify.com/album/0mHQDQgf1KUIJmGzG9pwdv"
+      },
+      "artists": [
+        {
+          "name": "Matt Schofield",
+          "url": "https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337706,
+      "name": "Can't Catch My Breath",
+      "url": "https://open.spotify.com/track/5tqlcXaIjnvtUERP2V9kGL"
     },
     {
       "album": {
@@ -2856,7 +2874,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 238864,
       "name": "Hey Baby (What Are We Gonna Do)",
       "url": "https://open.spotify.com/track/4mahrABVv4bWz89pQCvURX"
@@ -3292,7 +3310,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 197386,
       "name": "I Can't Stop Lovin'",
       "url": "https://open.spotify.com/track/6tUhcYD4qargqKQDEeNIoH"
@@ -4550,7 +4568,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 293400,
       "name": "Love Letter To The Blues - Bonus Track",
       "url": "https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J"
@@ -4644,7 +4662,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 239866,
       "name": "Malahani",
       "url": "https://open.spotify.com/track/0cW9utrnFumH3YpcBNVAYC"
@@ -6411,6 +6429,24 @@
     },
     {
       "album": {
+        "name": "Sooner Or Later",
+        "url": "https://open.spotify.com/album/054fhpYkiyB0reTJMWY0Ta"
+      },
+      "artists": [
+        {
+          "name": "Carolyn Wonderland",
+          "url": "https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253086,
+      "name": "Sooner Or Later",
+      "url": "https://open.spotify.com/track/0GN3iz0lYpsAQ2iBpUelzj"
+    },
+    {
+      "album": {
         "name": "Spirit Rising",
         "url": "https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H"
       },
@@ -7494,6 +7530,24 @@
     {
       "album": {
         "name": "Pinky's Blues",
+        "url": "https://open.spotify.com/album/1DqQYG4sgaC0juYiL0yUe9"
+      },
+      "artists": [
+        {
+          "name": "Sue Foley",
+          "url": "https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224151,
+      "name": "Two Bit Texas Town",
+      "url": "https://open.spotify.com/track/2ng4xggwChST3ExNOEln7Y"
+    },
+    {
+      "album": {
+        "name": "Pinky's Blues",
         "url": "https://open.spotify.com/album/7g9Y9WfxLZuswzgCy4Pwpq"
       },
       "artists": [
@@ -8456,6 +8510,28 @@
       "duration_ms": 258680,
       "name": "You Know My Love",
       "url": "https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB"
+    },
+    {
+      "album": {
+        "name": "Young Fashioned Ways",
+        "url": "https://open.spotify.com/album/7mOQINgLEPn6qh11ICNhWp"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        },
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225833,
+      "name": "You So Fine",
+      "url": "https://open.spotify.com/track/2lXtNjYs5zZb36wT2uMl1G"
     },
     {
       "album": {

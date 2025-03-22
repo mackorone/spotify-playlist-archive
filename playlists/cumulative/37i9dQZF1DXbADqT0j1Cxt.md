@@ -4,7 +4,7 @@
 
 > Lull your little ones to sleep with piano music.
 
-710 songs - 21 hr 41 min
+713 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Chaleur](https://open.spotify.com/track/4le1ArFsfqh1aQBJWjCJyX) | [Line Tromse](https://open.spotify.com/artist/6Jo2zwheonzrtoiXhTUTcI) | [Chaleur](https://open.spotify.com/album/1L3ZLiLYLbVmDcLDMMZiJx) | 2:44 | 2024-05-24 | 2025-03-05 |
 | [Chanson De Berceau](https://open.spotify.com/track/5ZedeEHldpqdi4sJrQsGQ2) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Chanson De Berceau](https://open.spotify.com/album/3ksCDiVFTXCwVKxTRV6qh7) | 1:41 | 2023-02-10 |  |
 | [Cherished Dreams](https://open.spotify.com/track/0fH8hYXMXdHHTfAtDb5E41) | [Sky Holland](https://open.spotify.com/artist/5YQfmCMs2KIpZUDvSdz3L3) | [Cherished Dreams](https://open.spotify.com/album/2hPu23pHv3yvzkC423bR0b) | 2:07 | 2023-03-17 |  |
+| [Cherry Blossom](https://open.spotify.com/track/1y5trCWdW2mqGjYhOguDxe) | [Isabella Kent](https://open.spotify.com/artist/1GDviCQQnLpKaPdLBYkIgB) | [Cherry Blossom](https://open.spotify.com/album/5S95PfTn7BZX3FSua5TQ6L) | 2:00 | 2025-03-21 |  |
 | [Children of the Heavenly Father](https://open.spotify.com/track/6dKZsO5pTbHSG7HPvmXYkV) | [Billie Chandler](https://open.spotify.com/artist/2j8sEmdITbTiI0ZABw6FR1) | [Children of the Heavenly Father](https://open.spotify.com/album/4owod00Scnyufo5WUikTbF) | 2:32 | 2024-04-19 |  |
 | [Children's song](https://open.spotify.com/track/1pnAa2nKBeG005ypwBGGb7) | [Beverly Eldon](https://open.spotify.com/artist/06BB8F56CNXYbq4Cd1Lttv) | [Children's song](https://open.spotify.com/album/2tPEtXxHqmX54mPlpaDyQI) | 1:20 | 2021-10-07 | 2024-03-29 |
 | [Cielito Lindo](https://open.spotify.com/track/5IZygSMNKKsStlhRZEpAOg) | [Myla Watson](https://open.spotify.com/artist/4UsO7PCgseF2b8wqm28l6Y) | [Cielito Lindo](https://open.spotify.com/album/5DsRf9sWjVQFW2IUGBqEo2) | 1:48 | 2022-07-27 | 2025-03-05 |
@@ -130,6 +131,7 @@
 | [Curious James](https://open.spotify.com/track/2ugAWsrnj4ZGq5hXYnziTY) | [Isla Fischer](https://open.spotify.com/artist/1nIb5VYXlWMQBYdg1a5wWg) | [Curious James](https://open.spotify.com/album/5BQBFaL41FTNmZEc7gcOq6) | 2:13 | 2021-10-07 | 2023-01-13 |
 | [Daisy Dreamer](https://open.spotify.com/track/0MG263rnL0vcfbqdEnvigD) | [Ellis Harlow](https://open.spotify.com/artist/3VlWaeB4C2rs53K30272vX) | [Daisy Dreamer](https://open.spotify.com/album/349EqooNYtqovNOZrgooPI) | 2:06 | 2025-02-21 |  |
 | [Dandelion](https://open.spotify.com/track/14QWQxtZH5y5KDKIRuD9Kj) | [Sima Russell](https://open.spotify.com/artist/7uGBgoIq1BWBjclQnnh5eN) | [Dandelion](https://open.spotify.com/album/2f2hHL1MCcaQLz82Iem4gJ) | 1:15 | 2021-10-07 | 2023-03-18 |
+| [Danny Boy](https://open.spotify.com/track/0QF4MNFTZTBkIMt2hI2s8P) | [Isla and the Stars](https://open.spotify.com/artist/35c4KqwhZXQdLYOpmTVoZq) | [Danny Boy](https://open.spotify.com/album/3RwDZLT7jmsPwsghifnzX3) | 1:48 | 2025-03-21 |  |
 | [Danny Boy](https://open.spotify.com/track/6ZWGT0MAscrYavht0RCHaY) | [The Baby Duo](https://open.spotify.com/artist/2OQqSu5nELFDGERnwfOaym) | [Baby Mine](https://open.spotify.com/album/0XOXdT0pkv3Qd00n0o304Q) | 2:35 | 2021-10-07 | 2022-09-03 |
 | [Danny the Duckling](https://open.spotify.com/track/7KVNnyxXKn8ZpQQlW2Rimw) | [Sienna Hewitt](https://open.spotify.com/artist/6PjnavWTln3VeGwsHZgWPL) | [Danny the Duckling](https://open.spotify.com/album/6xoiLYPz3A4na8YP9Vhpat) | 1:27 | 2022-06-30 | 2023-05-12 |
 | [Das Freundliche Monster](https://open.spotify.com/track/7EQJvvYc9NRdts6nBq2f6P) | [Verna Fuller](https://open.spotify.com/artist/7yOLgQOK7gR1w8tnQp2Ubx) | [Das Freundliche Monster](https://open.spotify.com/album/167K8pRyBOUiDfZyv5Zwe8) | 1:44 | 2021-10-07 | 2023-01-13 |
@@ -618,6 +620,7 @@
 | [The Rooster](https://open.spotify.com/track/7JiAg8jIQkAzSy0lEap7Zg) | [Lanny Peck](https://open.spotify.com/artist/02tsxaTHlK3q64g9iSXaSq) | [The Rooster](https://open.spotify.com/album/4h9R9eY5y1mcLmtmWYoyLb) | 1:26 | 2021-10-07 | 2024-05-24 |
 | [The Second Star to the Right](https://open.spotify.com/track/10qFyR0SKMPng0Pnh8UUWn) | [Valérian Rose](https://open.spotify.com/artist/6xmpBRXtnKvwXVMGRQT7G7) | [The Second Star to the Right](https://open.spotify.com/album/1gUpNGO623taLGmfaUvm6l) | 1:52 | 2024-11-15 |  |
 | [The Sky is Smiling](https://open.spotify.com/track/1ufUQRuEPV4m0c4eWeKsOc) | [Norton Lamb](https://open.spotify.com/artist/6utcrNkoGuFBgRTGffKOSr) | [The Sky is Smiling](https://open.spotify.com/album/1zdFJYcJDloOSwS6jFFude) | 1:16 | 2021-10-07 | 2025-03-05 |
+| [The Sleepy Sea](https://open.spotify.com/track/0JRJX4a3919BlxqSivKrko) | [Charlie Gray](https://open.spotify.com/artist/1pv2nF0KVHypPpj26VGnsz) | [The Sleepy Sea](https://open.spotify.com/album/6cFXP9aeOwSP36s45SPDdz) | 2:03 | 2025-03-21 |  |
 | [The Sleepy Star](https://open.spotify.com/track/4IpWKogzTDB2jrZCToKJrk) | [Jordan Mitchell\-Haines](https://open.spotify.com/artist/5xyZwXBV8D9F63Kiocws8R) | [The Sleepy Star](https://open.spotify.com/album/2mhuAMHFtV3MPuQr2E19xz) | 1:51 | 2024-11-08 |  |
 | [The Sunset Song](https://open.spotify.com/track/5coSsftpWxzGkTmyrE7K4P) | [Månljus](https://open.spotify.com/artist/4pqWBYMZqqD9zWiqTKrWTk) | [The Sunset Song](https://open.spotify.com/album/6lbTcfCTJQrui8k5TJZDh4) | 1:49 | 2023-02-24 |  |
 | [The Sweetest Dream](https://open.spotify.com/track/67Vd6Jkvz7xzAfqqjw1Fvy) | [Mirela Rubio](https://open.spotify.com/artist/5IQ0vabudI7APVrHXfEsCA) | [The Sweetest Dream](https://open.spotify.com/album/2HW02tpcHyD9OoNoG3Up1t) | 1:57 | 2021-10-07 | 2024-05-24 |

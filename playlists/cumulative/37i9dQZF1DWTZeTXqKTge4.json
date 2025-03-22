@@ -1,8 +1,34 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: High Klassified",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Shreez",
   "name": "Rap qu\u00e9b",
   "tracks": [
+    {
+      "album": {
+        "name": "-20",
+        "url": "https://open.spotify.com/album/2bylim9VvZWKYErDycs8rp"
+      },
+      "artists": [
+        {
+          "name": "Monk.E",
+          "url": "https://open.spotify.com/artist/0iA2L1Fbkwp3PxiSD22Uou"
+        },
+        {
+          "name": "Karma Atchykah",
+          "url": "https://open.spotify.com/artist/6BIMYjCfWzrbDZ0coPfpPm"
+        },
+        {
+          "name": "SeinsSucrer",
+          "url": "https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201038,
+      "name": "-20",
+      "url": "https://open.spotify.com/track/1yfa2F8vNeVZ1l3Pa78GaI"
+    },
     {
       "album": {
         "name": "100 TEXTES",
@@ -2568,7 +2594,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 136013,
       "name": "C'est pas ce que tu penses",
       "url": "https://open.spotify.com/track/0Sbmsr53cUNNl6H2n4k3g2"
@@ -7981,6 +8007,28 @@
     },
     {
       "album": {
+        "name": "La vie d'r\u00eave",
+        "url": "https://open.spotify.com/album/4LTGDCL4ELI1X4OaZCPn1B"
+      },
+      "artists": [
+        {
+          "name": "Racasse",
+          "url": "https://open.spotify.com/artist/0GwP2VFRGAt7RaZwjDQHN6"
+        },
+        {
+          "name": "KNLO",
+          "url": "https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124500,
+      "name": "La vie d'r\u00eave",
+      "url": "https://open.spotify.com/track/0LxUzsfIOPidvu1QfSN9ol"
+    },
+    {
+      "album": {
         "name": "La Vie Qu'on M\u00e8ne",
         "url": "https://open.spotify.com/album/069Csc8QGTMYIHcQLAz8Iv"
       },
@@ -8571,7 +8619,7 @@
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 168013,
+      "duration_ms": 168000,
       "name": "Look at me now",
       "url": "https://open.spotify.com/track/0ERZkZtxcQu9yhGb5L4Zom"
     },
@@ -12060,7 +12108,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 171428,
       "name": "P\u00e9roxyde",
       "url": "https://open.spotify.com/track/0JIJMuV5B8ZFIYRfiMgD9l"

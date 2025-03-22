@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-282 songs - 18 hr 7 min
+283 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Acts Of Union](https://open.spotify.com/track/3rVkdxXmUBtMkerMqF1Km6) | [Turtle](https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2) | [Acts Of Union](https://open.spotify.com/album/3f1UEIn91gogniby61Nl3g) | 2:23 | 2024-01-26 | 2024-06-04 |
 | [Affection](https://open.spotify.com/track/7IIQRxSrDI4mxwhxIC7rJr) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Everyday](https://open.spotify.com/album/678mCpmrntPuc6iHc7wvLc) | 3:15 | 2025-01-17 |  |
 | [After All This Time](https://open.spotify.com/track/6vrIHPz9KzOZYs7snydrJm) | [Otherwish](https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T) | [After All This Time](https://open.spotify.com/album/3ReYVDlK8cefCzAvrJ85dv) | 4:49 | 2023-12-08 | 2024-01-13 |
+| [Afterlife](https://open.spotify.com/track/6SRDUA2621H5vjtgl7qy1V) | [Planet Of Souls](https://open.spotify.com/artist/1hqyzQFuJfTyri74EsObwu), [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [Afterlife](https://open.spotify.com/album/6DM0yWvaTl6y0yC4n6JtzZ) | 3:27 | 2025-03-21 |  |
 | [All I Need](https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [All I Need](https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng) | 3:47 | 2025-01-17 |  |
 | [All I Want \- Chill Out Dub Mix](https://open.spotify.com/track/2oWwuiCJlLTmojJe5cvYIq) | [Genix](https://open.spotify.com/artist/5WWUkLXiAbmGwtELcfvB2w), [Zashanell](https://open.spotify.com/artist/7HMbLjUSmZVAxkfe6B6M83) | [All I Want \(My Friend Remix\)](https://open.spotify.com/album/3fBbvMXlpPnyC7iVI0OWbK) | 4:58 | 2025-01-13 | 2025-01-18 |
 | [All My Life](https://open.spotify.com/track/6txjv1bYloEaQ65SainV1Y) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) | 3:12 | 2025-01-13 |  |

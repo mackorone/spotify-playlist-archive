@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Morat en portada.",
-  "num_followers": 34308,
+  "num_followers": 34326,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2025-03-07 06:00:22",
       "album": {
-        "name": "La \u00daltima Noche (con Estopa)",
-        "url": "https://open.spotify.com/album/2YVsgpiHQi6Gz3LKmyTYV7"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        },
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        }
-      ],
-      "duration_ms": 229247,
-      "name": "La \u00daltima Noche - con Estopa",
-      "url": "https://open.spotify.com/track/5mEaEudI2haVc63YfQsJxW"
-    },
-    {
-      "added_at": "2025-03-07 06:00:22",
-      "album": {
         "name": "Jet Love",
         "url": "https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 203193,
       "name": "Cinco Horas Menos",
       "url": "https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM"
+    },
+    {
+      "added_at": "2025-03-07 06:00:22",
+      "album": {
+        "name": "La \u00daltima Noche (con Estopa)",
+        "url": "https://open.spotify.com/album/2YVsgpiHQi6Gz3LKmyTYV7"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "duration_ms": 229247,
+      "name": "La \u00daltima Noche - con Estopa",
+      "url": "https://open.spotify.com/track/5mEaEudI2haVc63YfQsJxW"
     },
     {
       "added_at": "2025-03-07 06:00:22",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-03-07 06:00:22",
       "album": {
-        "name": "Por no bailar contigo",
-        "url": "https://open.spotify.com/album/58TFewhjiVeUGeuh4K9K2U"
-      },
-      "artists": [
-        {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
-        }
-      ],
-      "duration_ms": 188515,
-      "name": "Por no bailar contigo",
-      "url": "https://open.spotify.com/track/1KUM4xjiOvx5u9bySqbWsp"
-    },
-    {
-      "added_at": "2025-03-07 06:00:22",
-      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
       },
@@ -591,18 +575,18 @@
     {
       "added_at": "2025-03-07 06:00:22",
       "album": {
-        "name": "A Fuego",
-        "url": "https://open.spotify.com/album/5fwB9BD3xstcl7cZpxYFmH"
+        "name": "Por no bailar contigo",
+        "url": "https://open.spotify.com/album/58TFewhjiVeUGeuh4K9K2U"
       },
       "artists": [
         {
-          "name": "Robleis",
-          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
         }
       ],
-      "duration_ms": 167538,
-      "name": "A Fuego",
-      "url": "https://open.spotify.com/track/2MNcAkHDpVqGbRsaqO7LF2"
+      "duration_ms": 188515,
+      "name": "Por no bailar contigo",
+      "url": "https://open.spotify.com/track/1KUM4xjiOvx5u9bySqbWsp"
     },
     {
       "added_at": "2025-03-07 06:00:22",
@@ -619,6 +603,22 @@
       "duration_ms": 264749,
       "name": "Amanecidos",
       "url": "https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s"
+    },
+    {
+      "added_at": "2025-03-07 06:00:22",
+      "album": {
+        "name": "A Fuego",
+        "url": "https://open.spotify.com/album/5fwB9BD3xstcl7cZpxYFmH"
+      },
+      "artists": [
+        {
+          "name": "Robleis",
+          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
+        }
+      ],
+      "duration_ms": 167538,
+      "name": "A Fuego",
+      "url": "https://open.spotify.com/track/2MNcAkHDpVqGbRsaqO7LF2"
     },
     {
       "added_at": "2025-03-07 06:00:22",
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-03-07 06:00:22",
       "album": {
+        "name": "Te Desenamoraste",
+        "url": "https://open.spotify.com/album/7LKSwnfdobqRHjOtUHMn1D"
+      },
+      "artists": [
+        {
+          "name": "Drake Bell",
+          "url": "https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne"
+        }
+      ],
+      "duration_ms": 162712,
+      "name": "Te Desenamoraste",
+      "url": "https://open.spotify.com/track/5A20iH28ulrJ8U3WfCmsJM"
+    },
+    {
+      "added_at": "2025-03-07 06:00:22",
+      "album": {
         "name": "Contradicci\u00f3n",
         "url": "https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 296613,
       "name": "Contradicci\u00f3n",
       "url": "https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc"
-    },
-    {
-      "added_at": "2025-03-07 06:00:22",
-      "album": {
-        "name": "Te Desenamoraste",
-        "url": "https://open.spotify.com/album/7LKSwnfdobqRHjOtUHMn1D"
-      },
-      "artists": [
-        {
-          "name": "Drake Bell",
-          "url": "https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne"
-        }
-      ],
-      "duration_ms": 162712,
-      "name": "Te Desenamoraste",
-      "url": "https://open.spotify.com/track/5A20iH28ulrJ8U3WfCmsJM"
     },
     {
       "added_at": "2025-03-07 06:00:22",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-03-07 06:00:22",
       "album": {
-        "name": "ECLIPSE",
-        "url": "https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 153837,
-      "name": "ECLIPSE",
-      "url": "https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq"
-    },
-    {
-      "added_at": "2025-03-07 06:00:22",
-      "album": {
         "name": "El para\u00edso #2",
         "url": "https://open.spotify.com/album/64GURwXiHXbcjdCIxk6Bpu"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 174629,
       "name": "El para\u00edso #2",
       "url": "https://open.spotify.com/track/0Sk0gQDXrdlrCFk8xFYOrx"
+    },
+    {
+      "added_at": "2025-03-07 06:00:22",
+      "album": {
+        "name": "ECLIPSE",
+        "url": "https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 153837,
+      "name": "ECLIPSE",
+      "url": "https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq"
     },
     {
       "added_at": "2025-03-07 06:00:22",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2025-03-07 06:00:22",
       "album": {
+        "name": "\u00c9rase Una Vez (Pero Ya No) [De \"EQSB\" Soundtrack]",
+        "url": "https://open.spotify.com/album/6yrAgrYatN30AWcHIsWNOM"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 189746,
+      "name": "\u00c9rase Una Vez (Pero Ya No)",
+      "url": "https://open.spotify.com/track/2CLcqg6PEB76Qkxh6R4MSC"
+    },
+    {
+      "added_at": "2025-03-07 06:00:22",
+      "album": {
         "name": "Mi + 1",
         "url": "https://open.spotify.com/album/6zNItkFIgiGd0ZK35jt6fM"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 166400,
       "name": "Mi + 1",
       "url": "https://open.spotify.com/track/7vr6sOiAkiDVteYSmg5FNU"
-    },
-    {
-      "added_at": "2025-03-07 06:00:22",
-      "album": {
-        "name": "\u00c9rase Una Vez (Pero Ya No) [De \"EQSB\" Soundtrack]",
-        "url": "https://open.spotify.com/album/6yrAgrYatN30AWcHIsWNOM"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 189746,
-      "name": "\u00c9rase Una Vez (Pero Ya No)",
-      "url": "https://open.spotify.com/track/2CLcqg6PEB76Qkxh6R4MSC"
     },
     {
       "added_at": "2025-03-07 06:00:22",

@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Filow, Ikkimel
 
-2,573 songs - 5 day 0 hr 44 min
+2,574 songs - 5 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1190,6 +1190,7 @@
 | [Junkies Mit Cash](https://open.spotify.com/track/1OwzZra7aCm5OkvCZMxaYT) | [LEXIKA](https://open.spotify.com/artist/4sihWBudLgIj87L6PRfrpT), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Junkies Mit Cash](https://open.spotify.com/album/074q1FDVSzMDrT3iJ09zgC) | 3:10 | 2022-09-01 | 2022-09-10 |
 | [Just 4 Me](https://open.spotify.com/track/280IIfDu4nwz2yrZNUYw0Y) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [HBK](https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX) | 3:02 | 2023-07-28 | 2023-10-06 |
 | [Just 4 Me](https://open.spotify.com/track/5wuOfyKleXygq3F3IhRnSC) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [Just 4 Me](https://open.spotify.com/album/1sinCUHakJEMtSt4RFPW5W) | 3:02 | 2023-07-27 | 2023-07-29 |
+| [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 | 2025-03-20 |  |
 | [justin bieber™](https://open.spotify.com/track/6EDZ4yXd4Kh9mBZpBavsjT) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [denk mal drüber nach...](https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx) | 1:35 | 2023-10-12 | 2023-11-03 |
 | [Jänner](https://open.spotify.com/track/05uSa0qi1vy6ClsPrPxmgk) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt), [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou) | [Jänner](https://open.spotify.com/album/1YN7XY2z04z8BmtSbHE9Qs) | 2:32 | 2024-08-22 | 2024-09-17 |
 | [J’comprends pas](https://open.spotify.com/track/1CxtymiucDK0AB9vgGZ6q2) | [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [Que la famille](https://open.spotify.com/album/2LOyzVRA6BJgfgGxQj21O1) | 4:43 | 2022-12-22 | 2023-06-23 |

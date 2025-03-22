@@ -4,7 +4,7 @@
 
 > Cele mai noi hituri pop românești\. Cover: The Urs
 
-200 songs - 9 hr 31 min
+201 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Orice drum duce acasă](https://open.spotify.com/track/0IVutpfE8ayYpnr0XfbU6o) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2) | [Orice drum duce acasă](https://open.spotify.com/album/0CkYzw7KgsfypX4lL88IBx) | 4:11 | 2024-12-19 | 2025-01-17 |
 | [Paharul sus](https://open.spotify.com/track/5QWOtb0L5IYT8w4rMtmVZh) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE) | [Paharul sus](https://open.spotify.com/album/7bzdS7NDvKKveYuARtUx2Z) | 2:49 | 2024-06-27 | 2024-07-12 |
 | [Parfum](https://open.spotify.com/track/5GT2JXlSlqsbzomVPxd397) | [Ioana Ignat](https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu) | [Parfum](https://open.spotify.com/album/5c2aB6MNY9uqpZUVVRdoap) | 2:56 | 2025-03-06 |  |
+| [Parfum \- Sped Up](https://open.spotify.com/track/7yU9Dc8ObX4wcAqscuz0Bm) | [Ioana Ignat](https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu) | [Parfum \(Sped Up\)](https://open.spotify.com/album/6Oyqwk4P7SZXg79dscYolr) | 2:35 | 2025-03-21 |  |
 | [Parfum de damă](https://open.spotify.com/track/3UPJ2sj2n7TW3yP5MYC2G2) | [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl), [Andra](https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF) | [Parfum de damă](https://open.spotify.com/album/6gwMS6wfSfdfqRBZBtmnVE) | 2:19 | 2024-10-31 | 2024-11-22 |
 | [Pe Repeat](https://open.spotify.com/track/6hSSAvIz88joRoZjgtVClV) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr), [Raluka](https://open.spotify.com/artist/4HLg5QDhyfOhneoTO9Id5U), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [Pe Repeat](https://open.spotify.com/album/4t6lLo1mgmi3ywffM7Rjoz) | 2:48 | 2024-07-25 | 2024-09-27 |
 | [Pentru ca](https://open.spotify.com/track/6xAefOqCvDKEcOjPovAMc6) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn), [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY) | [Pentru ca](https://open.spotify.com/album/6xA5uMZ5SLFnv2K9IVKOUx) | 3:12 | 2024-06-27 | 2024-09-06 |
@@ -184,7 +185,7 @@
 | [Să te iubeasca cineva](https://open.spotify.com/track/1rTuIL65PDHgTCAlmGY0jb) | [Andra](https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF) | [Să te iubeasca cineva](https://open.spotify.com/album/3gELYpkcWHvRCf2knFCtw8) | 2:59 | 2024-08-22 | 2024-12-13 |
 | [TE IUBESC CUM POT](https://open.spotify.com/track/2XSD2EwPOUUHC2sN2NhLMo) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [TE IUBESC CUM POT](https://open.spotify.com/album/3yFMt8QjZkNuAtX3w8MLZi) | 2:16 | 2024-08-08 | 2024-10-11 |
 | [Te strig](https://open.spotify.com/track/5JmvuBgj4ODK4pLH7NQVlb) | [Ioana Ignat](https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu) | [Ioana Ignat \(Deluxe Version\)](https://open.spotify.com/album/1RyvcQhHL8M6fzVbUTD6Ra) | 3:23 | 2024-08-29 | 2024-11-15 |
-| [Tic Tac](https://open.spotify.com/track/4sqDXPVMJXS3GBU2UB240S) | [Loredana](https://open.spotify.com/artist/5aU8qm9nbrIaXO8ieyKlTa), [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF) | [Tic Tac](https://open.spotify.com/album/1MqLIr8USyADc54Z13xK1R) | 2:53 | 2025-03-20 |  |
+| [Tic Tac](https://open.spotify.com/track/4sqDXPVMJXS3GBU2UB240S) | [Loredana](https://open.spotify.com/artist/5aU8qm9nbrIaXO8ieyKlTa), [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF) | [Tic Tac](https://open.spotify.com/album/1MqLIr8USyADc54Z13xK1R) | 2:53 | 2025-03-20 | 2025-03-22 |
 | [TLS](https://open.spotify.com/track/3j8VKfpN2aDOQXvjjipWM4) | [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM), [Loredana](https://open.spotify.com/artist/5aU8qm9nbrIaXO8ieyKlTa) | [TLS](https://open.spotify.com/album/07dbbcAmgNGigoAIUpiQrp) | 2:46 | 2024-11-14 | 2024-12-20 |
 | [Toate pozele](https://open.spotify.com/track/7d7RjxJNY4ELK37cQLWIhT) | [Vlad Musta](https://open.spotify.com/artist/3YyoX9RoUB8PxkXC8H0wTR) | [Toate pozele](https://open.spotify.com/album/405OtLdSR5FwBvgybe1qpq) | 2:56 | 2024-08-29 | 2024-09-20 |
 | [Totul meu](https://open.spotify.com/track/7rKpQsXelc2Q9EOvllyKWp) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo), [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Totul meu](https://open.spotify.com/album/5GyH4MjNEXW8WpTvBJGws7) | 2:24 | 2024-06-27 | 2024-07-19 |

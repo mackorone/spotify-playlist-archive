@@ -1,12 +1,12 @@
 {
   "description": "This is Spiritbox. The essential tracks, all in one playlist.",
-  "num_followers": 39522,
+  "num_followers": 39573,
   "original_name": "This Is Spiritbox",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9oJAAAAAAA97JcDU++oPP0wlCXNv52X",
+  "snapshot_id": "Z9tagAAAAACdufMGjySY8xOCkisax9bi",
   "tracks": [
     {
       "added_at": null,
@@ -316,25 +316,9 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 331653,
-      "name": "A Haven With Two Faces",
-      "url": "https://open.spotify.com/track/7z5VyHN6KeN1xF7y4uJ5Nq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rotoscope",
-        "url": "https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 224075,
-      "name": "Hysteria",
-      "url": "https://open.spotify.com/track/2AqKRuEcR0R8iYkBWk5Uqj"
+      "duration_ms": 183990,
+      "name": "Soft Spine",
+      "url": "https://open.spotify.com/track/4bkPAARkDov1lV05emEF7a"
     },
     {
       "added_at": null,
@@ -355,6 +339,22 @@
       "duration_ms": 147533,
       "name": "TYG (feat. Spiritbox)",
       "url": "https://open.spotify.com/track/39bBo9c52p4bcUMWBbuOaO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rotoscope",
+        "url": "https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 224075,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/2AqKRuEcR0R8iYkBWk5Uqj"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 183990,
-      "name": "Soft Spine",
-      "url": "https://open.spotify.com/track/4bkPAARkDov1lV05emEF7a"
+      "duration_ms": 331653,
+      "name": "A Haven With Two Faces",
+      "url": "https://open.spotify.com/track/7z5VyHN6KeN1xF7y4uJ5Nq"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 220327,
-      "name": "The Mara Effect, Pt. 2",
-      "url": "https://open.spotify.com/track/0FlmUj0m30mDgKo6MeUP0e"
+      "duration_ms": 337212,
+      "name": "The Beauty of Suffering",
+      "url": "https://open.spotify.com/track/0rnei6XtEFfLo5EzciKXXo"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 337212,
-      "name": "The Beauty of Suffering",
-      "url": "https://open.spotify.com/track/0rnei6XtEFfLo5EzciKXXo"
+      "duration_ms": 220327,
+      "name": "The Mara Effect, Pt. 2",
+      "url": "https://open.spotify.com/track/0FlmUj0m30mDgKo6MeUP0e"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 280556,
-      "name": "The Mara Effect, Pt. 1",
-      "url": "https://open.spotify.com/track/0nSs7VI50BrQv7StFpHiIf"
+      "duration_ms": 236320,
+      "name": "Everything's Eventual",
+      "url": "https://open.spotify.com/track/1YhdBg2KGOcFZ4XJkm7Ttv"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 236320,
-      "name": "Everything's Eventual",
-      "url": "https://open.spotify.com/track/1YhdBg2KGOcFZ4XJkm7Ttv"
+      "duration_ms": 280556,
+      "name": "The Mara Effect, Pt. 1",
+      "url": "https://open.spotify.com/track/0nSs7VI50BrQv7StFpHiIf"
     },
     {
       "added_at": null,

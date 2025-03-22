@@ -1,13 +1,45 @@
 {
-  "description": "New jazz for open minds. Cover: Makaya McCraven",
-  "num_followers": 949193,
+  "description": "New jazz for open minds. Cover: Gerald Clayton",
+  "num_followers": 949280,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9Op1gAAAADL14qLusHeQkC1w9cHu1I3",
+  "snapshot_id": "Z92BlAAAAADNz77ceR0h1mUJf48u8Zxw",
   "tracks": [
+    {
+      "added_at": "2025-03-21 04:00:40",
+      "album": {
+        "name": "Cinnamon Sugar",
+        "url": "https://open.spotify.com/album/0AKE38yZJRUY1NU8CuRwuD"
+      },
+      "artists": [
+        {
+          "name": "Gerald Clayton",
+          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
+        }
+      ],
+      "duration_ms": 255252,
+      "name": "Cinnamon Sugar",
+      "url": "https://open.spotify.com/track/0Ygo8zBNVoi6KQm6ZjvAmZ"
+    },
+    {
+      "added_at": "2025-03-21 04:00:40",
+      "album": {
+        "name": "Top Hat",
+        "url": "https://open.spotify.com/album/1pOcLoMfumoqUpzhpnh2TA"
+      },
+      "artists": [
+        {
+          "name": "Kneebody",
+          "url": "https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg"
+        }
+      ],
+      "duration_ms": 310280,
+      "name": "Top Hat",
+      "url": "https://open.spotify.com/track/0M2L9I6Twe9CzjzHMafMBN"
+    },
     {
       "added_at": "2025-03-14 04:00:22",
       "album": {
@@ -303,22 +335,6 @@
       "duration_ms": 223820,
       "name": "Must Have Known",
       "url": "https://open.spotify.com/track/3TlVcT7gmTbwB3607URmTL"
-    },
-    {
-      "added_at": "2025-02-28 05:00:40",
-      "album": {
-        "name": "Angels Speak",
-        "url": "https://open.spotify.com/album/0VDwxs0VjERbqSlTsKZTdf"
-      },
-      "artists": [
-        {
-          "name": "Gerald Clayton",
-          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
-        }
-      ],
-      "duration_ms": 235779,
-      "name": "Angels Speak",
-      "url": "https://open.spotify.com/track/3rpnDxCVthm3sJO6lYbBMC"
     },
     {
       "added_at": "2025-02-28 05:00:40",
@@ -795,22 +811,6 @@
       "duration_ms": 367966,
       "name": "Zatto",
       "url": "https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Give Me A Reason",
-        "url": "https://open.spotify.com/album/78pQHAt8HWRK8WVAUdmR2h"
-      },
-      "artists": [
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
-        }
-      ],
-      "duration_ms": 253389,
-      "name": "Give Me A Reason",
-      "url": "https://open.spotify.com/track/3dvGUfs6L9q6AwuAGEaswW"
     },
     {
       "added_at": "2024-11-08 05:00:00",

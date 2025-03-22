@@ -2,9 +2,9 @@
 
 ### [Nouvelle École](https://open.spotify.com/playlist/37i9dQZF1DX9dN9aE5QRR4)
 
-> Vote pour ton titre préféré sur la playlist <a href="spotify:playlist:37i9dQZF1FiZm6UIhFGfsY">Nouvelle Ecole \- Le Versus.</a>.
+> La playlist officielle de Nouvelle École, dispo sur Netflix.
 
-104 songs - 4 hr 53 min
+106 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,8 @@
 | [Coucou](https://open.spotify.com/track/3kiTnvHHKipoAwa40GTGGy) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Jour avant caviar](https://open.spotify.com/album/4PX1ZZFjRIhHG57nRSP4mF) | 2:41 | 2023-05-31 | 2024-07-05 |
 | [CRF \- Nouvelle École](https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj) | [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Nouvelle École \| Saison 3 \| Partie 1 \(Série Netflix\)](https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6) | 2:09 | 2024-07-05 |  |
 | [Crois\-moi \(feat\. Ninho\)](https://open.spotify.com/track/69I4Eynuxdj6LEmpvG56u6) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Architecte](https://open.spotify.com/album/0QOCs2S4yp3M47sNZGCUqY) | 3:03 | 2023-05-31 | 2024-07-05 |
+| [Cypher Team 1 \- Nouvelle École](https://open.spotify.com/track/77Vp3A4q9BBdaTspeT01MX) | [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Cypher Team 1 \- Nouvelle École](https://open.spotify.com/album/7d82WmX7D73pYUluxhUwGr) | 3:01 | 2025-03-21 |  |
+| [Cypher Team 2 \- Nouvelle École](https://open.spotify.com/track/4FAXbSg5WigLkpSnwD2nOw) | [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Cypher Team 2 \- Nouvelle École](https://open.spotify.com/album/4TdE2cLKqFbZvMVfIM9NwF) | 3:31 | 2025-03-21 |  |
 | [Célèbre](https://open.spotify.com/track/3hHXDKVOfeHdqNoj9oDr8n) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Frenetik](https://open.spotify.com/artist/71XOKoFKWFjlV91e2Z5r21) | [Célèbre](https://open.spotify.com/album/10XkYe39UD8iIiuP6c4WRS) | 2:56 | 2023-05-31 | 2024-07-05 |
 | [Daddy](https://open.spotify.com/track/1qG77EJYDIgxOTEsUZqNLx) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Daddy](https://open.spotify.com/album/7M3SEQCleBaVkwdlogqHbc) | 2:38 | 2024-07-04 |  |
 | [Dehors c'est Noir \- Nouvelle École](https://open.spotify.com/track/64uFlY4sZu7YOhotoAjTQz) | [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Nouvelle École \| Saison 3 \| Partie 3 \(Série Netflix\)](https://open.spotify.com/album/0DbVstsApJvNjhgHsj1u1z) | 2:31 | 2024-07-18 |  |

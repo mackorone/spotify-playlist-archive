@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-453 songs - 23 hr 11 min
+454 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Centered](https://open.spotify.com/track/4xXFAr8ir0aQLqxXBGFQ4n) | [A´leroi](https://open.spotify.com/artist/6ucS6hImkhRYqVGEnwcJ1I) | [Centered](https://open.spotify.com/album/4B8W32tfhj8fkNSa9N1hlx) | 2:46 | 2024-05-20 |  |
 | [Ceremonial Stone](https://open.spotify.com/track/33KWAFT4txDSNrI6Bn4Rji) | [Star Patterns](https://open.spotify.com/artist/5D9j0TXcqap4voqjCRUv7d) | [Bertrand of the Ringing](https://open.spotify.com/album/7ynxP1pWkmrGJlMesTuesQ) | 3:18 | 2022-01-12 | 2024-04-06 |
 | [Cesia](https://open.spotify.com/track/3NYD79ZpaiUlaqBpfE4UvT) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Release](https://open.spotify.com/album/05Ssi4vkaQkd16QQ4ngW7Y) | 2:48 | 2022-01-12 | 2023-07-29 |
+| [Cesula](https://open.spotify.com/track/4B5el6QHxMK4mjiA8QDvLh) | [Lóni Alma](https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n) | [Cesula](https://open.spotify.com/album/0wLHMKKWuUyuhlyPGyxkcb) | 2:27 | 2025-02-28 |  |
 | [Chapters](https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB) | [Zen Wuan](https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY) | [Yoga Meditation](https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo) | 2:43 | 2022-02-18 | 2024-05-21 |
 | [Cherubic](https://open.spotify.com/track/64vuLVctWmDQG4zErYr1RL) | [Everglades](https://open.spotify.com/artist/5bfwEl4yO80YBMyJWkM7gk) | [Cherubic](https://open.spotify.com/album/2pH99SeBHOlbqmonYjAqgZ) | 2:30 | 2024-07-09 |  |
 | [Chilled Soul](https://open.spotify.com/track/53Le56pxNNt0sAOZ34Qocn) | [Afro Lex Tex](https://open.spotify.com/artist/5KGFdiCXMIuYjmaVSKIOrS) | [Chilled Soul](https://open.spotify.com/album/6JY7isSUV7ZmpTCIX0s2k7) | 3:14 | 2024-01-17 |  |
@@ -255,7 +256,7 @@
 | [life cycle](https://open.spotify.com/track/4ehaeiOh82oQHaTOYU2X3O) | [Aquas](https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej) | [life cycle](https://open.spotify.com/album/4bD96IkCbqtIp5IqcaVNzy) | 3:07 | 2024-05-20 |  |
 | [Life Seeds](https://open.spotify.com/track/6S7YeyRDlBdG41lo5ZAvin) | [Hatchlings Calm](https://open.spotify.com/artist/2ADOcw9Ra8kN4CVAMhOqgw) | [Life Seeds](https://open.spotify.com/album/31BeE7Bs2FHd1m1rOrFMMh) | 2:56 | 2024-01-17 | 2025-03-02 |
 | [Light for all](https://open.spotify.com/track/0FRYGxLKBj6O8Fi0oKI3vB) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Light for all](https://open.spotify.com/album/2sEotHpaJFB3BhhRjHZmBX) | 2:58 | 2024-05-04 |  |
-| [Lightness and Focus](https://open.spotify.com/track/06eQs4CZ2J4mm5C36vsWP2) | [Syla Lo](https://open.spotify.com/artist/3zNfKSIPCXKHZqlo2HQQl2) | [Lightness and Focus](https://open.spotify.com/album/7B7Y7wGlgsbKAL4QGSd3qW) | 2:30 | 2024-01-17 |  |
+| [Lightness and Focus](https://open.spotify.com/track/06eQs4CZ2J4mm5C36vsWP2) | [Syla Lo](https://open.spotify.com/artist/3zNfKSIPCXKHZqlo2HQQl2) | [Lightness and Focus](https://open.spotify.com/album/7B7Y7wGlgsbKAL4QGSd3qW) | 2:30 | 2024-01-17 | 2025-03-22 |
 | [Lights Out](https://open.spotify.com/track/5i3gMF4xQnyFWXtmkI1JfD) | [Solene Edgar](https://open.spotify.com/artist/0fgYGY8NcvoPXNv21CLlul) | [Lights Out](https://open.spotify.com/album/721QaQS4R4vBzRX2gEAMyd) | 2:53 | 2022-01-12 | 2022-02-02 |
 | [Lively Bluebottle](https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS) | [Mari Cafferty](https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU) | [Silk Under Rain](https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV) | 3:12 | 2022-01-12 | 2024-05-21 |
 | [Longing](https://open.spotify.com/track/65IABcx2DXfu4c1FDUW6V0) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os), [Niclas Lundqvist](https://open.spotify.com/artist/5xhXAA1szAltReao2ctWBg) | [Longing](https://open.spotify.com/album/56RBZwRTH6Z1oG4HFG7weo) | 3:11 | 2024-07-09 |  |

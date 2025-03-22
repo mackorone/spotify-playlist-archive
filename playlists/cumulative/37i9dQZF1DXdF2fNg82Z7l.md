@@ -4,7 +4,7 @@
 
 > a strictly smooth mood...cover: Kehlani
 
-218 songs - 11 hr 24 min
+219 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [GOD CALLS](https://open.spotify.com/track/20vIk5NNFjn2EHWJNpYmVP) | [MALI JO$E](https://open.spotify.com/artist/2dW8glpVWvAL8tODw7sxy4) | [GOD CALLS/HEAVY FREESTYLE](https://open.spotify.com/album/5s0BRtii6dzwJzPsYXbC7e) | 1:45 | 2024-07-29 | 2024-11-08 |
 | [GOLDTOPS](https://open.spotify.com/track/7mXUVbJYlfYg6frK2icDCD) | [Avantdale Bowling Club](https://open.spotify.com/artist/5Cs7q4jgkzn0pmj34qncqw), [DUSTY & GHOS](https://open.spotify.com/artist/45QADodjk5TcKefkz4SEww) | [TREES: The Remix EP](https://open.spotify.com/album/6pyl3320masvP5uc2SvXgK) | 2:54 | 2024-03-14 | 2024-10-05 |
 | [Good Girls Ain't No Fun](https://open.spotify.com/track/0eVVwxPYBzVMFOGDUpaw2f) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Good Girls Ain't No Fun](https://open.spotify.com/album/2mcP7rL0a2kooZeNjax91u) | 2:22 | 2024-03-14 | 2024-07-30 |
+| [Green](https://open.spotify.com/track/6WbhQCkDF5z1UosH9tOP3C) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Green](https://open.spotify.com/album/0rRFSUlfc5TPXuKbQx2tk3) | 3:57 | 2025-03-19 |  |
 | [Heart Ain't Empty](https://open.spotify.com/track/1PqnJfIMxnUrpUISfdbPGQ) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Heart Ain't Empty](https://open.spotify.com/album/7s00wxQvavyaVWYPJjL9gr) | 2:57 | 2024-03-14 | 2024-10-05 |
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2024-03-14 | 2024-07-30 |
 | [Hide It \(feat\. Don Toliver\)](https://open.spotify.com/track/2NXGMnNU6nctSmcKWjfdCS) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hide It \(feat\. Don Toliver\)](https://open.spotify.com/album/4sAQkEB9HwmyKAd9JNZ7ee) | 3:27 | 2024-10-24 | 2025-03-06 |
@@ -173,7 +174,7 @@
 | [Slow Motion](https://open.spotify.com/track/14g8BK83DN5XToeCwRbBbq) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [1Mind](https://open.spotify.com/artist/4R5GSciWt8tD5CG6DWRMnZ) | [Slow Motion](https://open.spotify.com/album/6sS8kSmvFLE8ODcVssKcUS) | 2:35 | 2024-11-29 | 2024-12-20 |
 | [So High](https://open.spotify.com/track/2qyhy9ndo8tTGMzXeHTisR) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [So High](https://open.spotify.com/album/3VZiexdNV9MFUGDg2gFakT) | 3:21 | 2024-10-04 |  |
 | [SOS](https://open.spotify.com/track/1zOwTRgJNfR2QESo8hzV1v) | [SHYY BEATS](https://open.spotify.com/artist/1suCEwvRWxgG1XMQmmnPjZ) | [SOS](https://open.spotify.com/album/59V7oJdcAKMLgLdO7Meaba) | 2:22 | 2024-03-14 | 2024-10-05 |
-| [Sossaup](https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:36 | 2024-10-04 |  |
+| [Sossaup](https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:36 | 2024-10-04 | 2025-03-22 |
 | [SPEED](https://open.spotify.com/track/6rCQgg6rV7ng7yoQV1c9Si) | [Squid the Kid](https://open.spotify.com/artist/4coyhVK9odGK0xhrCo9gx2) | [SPEED](https://open.spotify.com/album/1eR2dx7hSFqEK3D8NmqIOH) | 2:43 | 2024-07-29 | 2024-10-05 |
 | [Stand By Me \(feat\. Morgan Wallen\)](https://open.spotify.com/track/1fXnu2HzxbDtoyvFPWG3Bw) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 3:39 | 2024-03-14 | 2024-07-30 |
 | [STAY](https://open.spotify.com/track/3wqxUy1vzbwjTHzZV5gfzb) | [CHISEKO](https://open.spotify.com/artist/5Z7R9YTOZFv7zC9Ns1gPMS) | [STAY](https://open.spotify.com/album/01PiYj34jxVHb1kHK0ZwJP) | 2:52 | 2024-10-17 | 2024-11-08 |

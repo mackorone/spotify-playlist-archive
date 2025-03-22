@@ -2,7 +2,7 @@
 
 ### [Country Rocks](https://open.spotify.com/playlist/37i9dQZF1DWWH0izG4erma)
 
-> Country music that rocks\. Cover: Austin Snell
+> Country music that rocks\. Cover: Ryan Hurd
 
 397 songs - 22 hr 42 min
 

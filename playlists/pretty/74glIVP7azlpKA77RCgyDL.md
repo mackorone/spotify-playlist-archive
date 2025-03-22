@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Sleep Token.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Calva Louise.
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,884 likes - 359 songs - 21 hr 38 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,883 likes - 365 songs - 22 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -367,5 +367,11 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 | 357 | [Marathon](https://open.spotify.com/track/0XJFH48sUsztR2ke1xbMlV) | [Bleed](https://open.spotify.com/artist/15DYcBNS0c6bfsoezOIzT3) | [Marathon](https://open.spotify.com/album/4ykex0OfWMkK5oSaKcWBSm) | 3:09 |
 | 358 | [Devil Left Me On Read](https://open.spotify.com/track/2VWkJzH8TTZ2D0MI50iaBx) | [Not Enough Space](https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK) | [Devil Left Me On Read](https://open.spotify.com/album/4CxKGc6sptru8aY1MVshGg) | 2:38 |
 | 359 | [Emergence](https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Emergence](https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH) | 6:26 |
+| 360 | [Warhead](https://open.spotify.com/track/0Mj7xOfaYREbZ8inqW1JNB) | [The Haunted](https://open.spotify.com/artist/2WLmgv66Uq4vt2i36vwkAq) | [Warhead](https://open.spotify.com/album/1iKrLSnRkGOSaFmBzNPBtO) | 3:39 |
+| 361 | [If It's All The Same To You](https://open.spotify.com/track/4wyU17zJTM512I1i6OSI0X) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [If It's All The Same To You](https://open.spotify.com/album/3nmqCvpxxLOYkikOZGNaNG) | 4:14 |
+| 362 | [Waiting on the Reaper](https://open.spotify.com/track/04sgIlzuGYceS3Yw1nIk7i) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [Helldorado](https://open.spotify.com/album/3uG1XUvK76Y59Zi0FsWMNj) | 4:01 |
+| 363 | [Dhadak](https://open.spotify.com/track/4txQTQcqKncwT6FaDs8Pw3) | [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9) | [Nu Delhi](https://open.spotify.com/album/4ZNvlZ4wynMad7cTp8hr2C) | 3:09 |
+| 364 | [No Consequence](https://open.spotify.com/track/6fMyxWuKyKE43zDMAmFnSl) | [Youth Code](https://open.spotify.com/artist/15VmPRQCJEZWaZWgHEroj0) | [No Consequence](https://open.spotify.com/album/6sAo6b1udi0VKcxUmnHpC9) | 3:31 |
+| 365 | [Aimless](https://open.spotify.com/track/6V6r27N6KvM5VMyHfcwvvN) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Aimless](https://open.spotify.com/album/2nZTSSGr5nd7wAdkdL76mt) | 3:37 |
 
-Snapshot ID: `AAANvexq4bMCg7FVzBmHfrUEy3XoW4+0`
+Snapshot ID: `AAANxPV/qWFhX5/tvjCPkOU+ZvhBqzfS`

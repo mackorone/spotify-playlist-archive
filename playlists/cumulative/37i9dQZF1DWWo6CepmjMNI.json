@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Cheyada",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Seal Pillow",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -461,6 +461,24 @@
     },
     {
       "album": {
+        "name": "To You",
+        "url": "https://open.spotify.com/album/3h1mKh0ynFpNUJWAnYSqKL"
+      },
+      "artists": [
+        {
+          "name": "Seal Pillow",
+          "url": "https://open.spotify.com/artist/4Wojlk2KVCqYJ1D7ZskjDH"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/651NyhGG8kKZ44qfBpgN1s"
+    },
+    {
+      "album": {
         "name": "Too Good",
         "url": "https://open.spotify.com/album/4AEAjTwPfEhHaMgWbuMXMN"
       },
@@ -512,6 +530,24 @@
       "duration_ms": 294250,
       "name": "Where Would You Be (TH.ver)",
       "url": "https://open.spotify.com/track/4HNfqqTssC8rqEai8m1z5n"
+    },
+    {
+      "album": {
+        "name": "\u0e01\u0e25\u0e31\u0e1a\u0e01\u0e25\u0e32\u0e22\u0e40\u0e1b\u0e47\u0e19",
+        "url": "https://open.spotify.com/album/5KisRvRzk0ETVnKpowP8Ss"
+      },
+      "artists": [
+        {
+          "name": "Wednesday Calling",
+          "url": "https://open.spotify.com/artist/6KNfHqzqVizyQI0Z2xt6iy"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381176,
+      "name": "\u0e01\u0e25\u0e31\u0e1a\u0e01\u0e25\u0e32\u0e22\u0e40\u0e1b\u0e47\u0e19",
+      "url": "https://open.spotify.com/track/3IvGwrtavJiomOpWGTqQEA"
     },
     {
       "album": {
@@ -580,7 +616,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 221111,
       "name": "\u0e01\u0e32\u0e23\u0e41\u0e2d\u0e1a\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e2a\u0e31\u0e01\u0e04\u0e19\u0e19\u0e36\u0e07",
       "url": "https://open.spotify.com/track/0KhW3r1SRHHcW2IepwH5FJ"
@@ -1766,7 +1802,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 170056,
       "name": "\u0e22\u0e32\u0e21\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e25\u0e21\u0e1e\u0e31\u0e14\u0e21\u0e32\u0e1e\u0e32\u0e09\u0e31\u0e19\u0e22\u0e49\u0e2d\u0e19\u0e01\u0e25\u0e31\u0e1a\u0e44\u0e1b",
       "url": "https://open.spotify.com/track/76f0EYKaPbHHshFPmDcGSN"
@@ -2559,6 +2595,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e08\u0e33\u0e25\u0e2d\u0e07",
+        "url": "https://open.spotify.com/album/4TuRZs92az7w4wmdkIV2kJ"
+      },
+      "artists": [
+        {
+          "name": "Cheyada",
+          "url": "https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e08\u0e33\u0e25\u0e2d\u0e07",
+      "url": "https://open.spotify.com/track/7o7rEL7DbXYcYNOqn28agS"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e21\u0e31\u0e19\u0e2a\u0e32\u0e22\u0e44\u0e1b",
         "url": "https://open.spotify.com/album/0JQW5yBGPcS8PGcv7viPmd"
       },
@@ -2588,7 +2642,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 145000,
       "name": "\u0e40\u0e23\u0e37\u0e2d\u0e19\u0e01\u0e23\u0e30\u0e08\u0e01",
       "url": "https://open.spotify.com/track/7Ko9l6tzurRQR2LaSFQRyQ"

@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: Cheyada
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: Seal Pillow
 
-170 songs - 12 hr 10 min
+173 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,13 +32,15 @@
 | [Skuna](https://open.spotify.com/track/12kAcs5wwsuylTkcATgMCY) | [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [Skuna](https://open.spotify.com/album/3Yo2BYDn62l0lkhKWczMjg) | 3:47 | 2024-11-08 | 2024-11-23 |
 | [Someone](https://open.spotify.com/track/5qNzv6J7edmRQOtJH5whkl) | [Vrach](https://open.spotify.com/artist/6GSRIetKAXzSmqZublWHZM) | [Someone](https://open.spotify.com/album/3XnCKRIj2QvaKSwfkLKdyM) | 3:07 | 2024-06-28 | 2024-07-20 |
 | [Summer](https://open.spotify.com/track/3xiQdmur1QcU1ZV52A0QTc) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [Summer](https://open.spotify.com/album/6GcBIH0XEQn0cnmLEuf2Pz) | 3:40 | 2025-02-12 | 2025-02-22 |
+| [To You](https://open.spotify.com/track/651NyhGG8kKZ44qfBpgN1s) | [Seal Pillow](https://open.spotify.com/artist/4Wojlk2KVCqYJ1D7ZskjDH) | [To You](https://open.spotify.com/album/3h1mKh0ynFpNUJWAnYSqKL) | 4:04 | 2025-03-21 |  |
 | [Too Good](https://open.spotify.com/track/6oP4ZPYqkLjzSnKMT6ETaH) | [Secret Diskette](https://open.spotify.com/artist/2gBGMRK1tYitHegMCIBUXx) | [Too Good](https://open.spotify.com/album/4AEAjTwPfEhHaMgWbuMXMN) | 3:11 | 2024-07-19 | 2024-08-24 |
 | [UNIVERSE](https://open.spotify.com/track/5HQORp1f3Or6GZlnjZCjJI) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [UNIVERSE](https://open.spotify.com/album/6Q2X4utZSZjSV0suqWmESx) | 4:57 | 2024-06-21 | 2024-12-14 |
 | [Where Would You Be \(TH.ver\)](https://open.spotify.com/track/4HNfqqTssC8rqEai8m1z5n) | [LAWIN](https://open.spotify.com/artist/7318YHEWepdZPdL6hM314z) | [Where Would You Be \(TH.ver\)](https://open.spotify.com/album/6R4fVzbF11BWvBjLkk6gmu) | 4:54 | 2024-07-12 | 2024-07-20 |
+| [กลับกลายเป็น](https://open.spotify.com/track/3IvGwrtavJiomOpWGTqQEA) | [Wednesday Calling](https://open.spotify.com/artist/6KNfHqzqVizyQI0Z2xt6iy) | [กลับกลายเป็น](https://open.spotify.com/album/5KisRvRzk0ETVnKpowP8Ss) | 6:21 | 2025-03-21 |  |
 | [กลับคืนสู่ดาว](https://open.spotify.com/track/0SxPaNX1mNDFeEln7bqXFP) | [GOODMORNING](https://open.spotify.com/artist/5qpHMe5u9Cf9QNQiyFcqMf) | [กลับคืนสู่ดาว](https://open.spotify.com/album/2kRy63omANUfg60l5WiHJl) | 3:37 | 2024-11-01 | 2024-11-09 |
 | [กลัวลืม](https://open.spotify.com/track/4HQ16IdY2XwCYPVmcSg6zG) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [กลัวลืม](https://open.spotify.com/album/05oGOoivSkPUADBnsEbP2c) | 3:44 | 2024-12-26 | 2025-01-25 |
 | [กอดตัวเอง](https://open.spotify.com/track/1wz8Qxvz05IamC6bmdFkFu) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [กอดตัวเอง](https://open.spotify.com/album/6wMJNnTzM1q4mB3hx6Rr3G) | 4:27 | 2024-12-20 |  |
-| [การแอบรักใครสักคนนึง](https://open.spotify.com/track/0KhW3r1SRHHcW2IepwH5FJ) | [dayys](https://open.spotify.com/artist/6nyvnqJq6GvycPV6JGOdUr) | [การแอบรักใครสักคนนึง](https://open.spotify.com/album/7mt8j5pGsfRH7mQUgnyTzS) | 3:41 | 2025-02-28 |  |
+| [การแอบรักใครสักคนนึง](https://open.spotify.com/track/0KhW3r1SRHHcW2IepwH5FJ) | [dayys](https://open.spotify.com/artist/6nyvnqJq6GvycPV6JGOdUr) | [การแอบรักใครสักคนนึง](https://open.spotify.com/album/7mt8j5pGsfRH7mQUgnyTzS) | 3:41 | 2025-02-28 | 2025-03-22 |
 | [กาลครั้งหนึ่ง](https://open.spotify.com/track/2WiveUOux6dIjNHwOgSMkj) | [Serotonin](https://open.spotify.com/artist/1jv5r0hKtAnEhmeCAkAIFy) | [กาลครั้งหนึ่ง](https://open.spotify.com/album/4xS2yzQCTlQb6dSitNnV0t) | 4:38 | 2024-06-21 | 2024-08-03 |
 | [ก่อนที่เธอจะลาลับไป](https://open.spotify.com/track/6vniVlU3rnsSNYNhNE9IrP) | [LEMONY](https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2) | [ก่อนที่เธอจะลาลับไป \- Single](https://open.spotify.com/album/0geQs7LoGQCKU6NfQdEOfN) | 4:06 | 2024-11-28 |  |
 | [ของเล่น](https://open.spotify.com/track/1vDqNZzCsD76TtVHgjYg3z) | [PENFINS](https://open.spotify.com/artist/6XEk4cGPHvtYxn9UYQly2l) | [ของเล่น](https://open.spotify.com/album/3Gmy7xeuCwfTRjhiXHfcX4) | 4:56 | 2024-06-21 | 2024-08-31 |
@@ -103,7 +105,7 @@
 | [ยอมเธอ\(ahhh\)](https://open.spotify.com/track/7pMs1Te4Z2KwJbqx1j7nyl) | [242](https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA) | [ยอมเธอ\(ahhh\)](https://open.spotify.com/album/3HuQtv6FggFCkTnNav87wh) | 3:44 | 2024-11-22 | 2024-12-14 |
 | [ยังคงอยู่ \(Stay\)](https://open.spotify.com/track/1J3iDnjS2TFCfWYVSh7F18) | [TWODAYS](https://open.spotify.com/artist/7ao1NtUJbfKxbjDztE0nFQ) | [ยังคงอยู่ \(Stay\)](https://open.spotify.com/album/68HaaheRhVVNkDilm5qE7A) | 4:56 | 2024-06-21 | 2024-10-19 |
 | [ยังคิดถึงอยู่เลย](https://open.spotify.com/track/6pSVHNVH1kZjlRu9DSm8op) | [sriattle](https://open.spotify.com/artist/3SHuorzd9Ib3cz0tGvnYxn) | [ยังคิดถึงอยู่เลย](https://open.spotify.com/album/1C9kzjo2lH0sW9tfFBCQ9O) | 4:54 | 2025-02-28 | 2025-03-08 |
-| [ยามเมื่อลมพัดมาพาฉันย้อนกลับไป](https://open.spotify.com/track/76f0EYKaPbHHshFPmDcGSN) | [Almondeptt](https://open.spotify.com/artist/77p8feYnlVx5htNAWQxXi9) | [ยามเมื่อลมพัดมาพาฉันย้อนกลับไป](https://open.spotify.com/album/7pSxZAv4NE47r4mvfsXaEq) | 2:50 | 2025-03-07 |  |
+| [ยามเมื่อลมพัดมาพาฉันย้อนกลับไป](https://open.spotify.com/track/76f0EYKaPbHHshFPmDcGSN) | [Almondeptt](https://open.spotify.com/artist/77p8feYnlVx5htNAWQxXi9) | [ยามเมื่อลมพัดมาพาฉันย้อนกลับไป](https://open.spotify.com/album/7pSxZAv4NE47r4mvfsXaEq) | 2:50 | 2025-03-07 | 2025-03-22 |
 | [ยินดีที่ได้จาก\(ลา\)](https://open.spotify.com/track/5jJt7NSLkYSB2g4j5bqf2P) | [Planfor?](https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ) | [ยินดีที่ได้จาก\(ลา\)](https://open.spotify.com/album/5ejjRhYbOurcyaGkstwjC0) | 4:56 | 2024-06-28 | 2024-07-06 |
 | [ยิ้มเธอ\(Still\)](https://open.spotify.com/track/19C1zQ4ChUqYzA17q7kexu) | [RAINCOVTS](https://open.spotify.com/artist/0Tf3BzzpgucxvgYn2nvD94) | [ยิ้มเธอ\(Still\)](https://open.spotify.com/album/0CH79nEW5Cq2epIlOyrShj) | 3:49 | 2024-06-21 | 2024-08-31 |
 | [รูปที่ไม่เคยทิ้ง](https://open.spotify.com/track/6NxfzvGM8l0yINzmQxGft4) | [Yacht](https://open.spotify.com/artist/41AuZ5SgqlI1HR78GPn2Zr) | [รูปที่ไม่เคยทิ้ง](https://open.spotify.com/album/4JRWZJ9Aif3RXwGdwNGtxJ) | 3:45 | 2024-09-20 | 2024-11-29 |
@@ -147,8 +149,9 @@
 | [เพียงนึกถึงช่วงเวลา \(TLINLA\)](https://open.spotify.com/track/3qzJc8mkixrse59KqX4t8X) | [MANASSAVEE](https://open.spotify.com/artist/7oXUJG49XQHHix0Awcq293) | [เพียงนึกถึงช่วงเวลา \(TLINLA\)](https://open.spotify.com/album/2RLygclvx8ooOm6w0hJVlC) | 4:44 | 2024-06-21 | 2024-08-24 |
 | [เพียงรู้สึก](https://open.spotify.com/track/4Je6mCTC25kHFAGDRIasSX) | [VELIKA](https://open.spotify.com/artist/1s5OUEKobcxAqQaDKQnRAi) | [เพียงรู้สึก](https://open.spotify.com/album/1UTNXUb4lh0piWGAwp19ok) | 4:01 | 2024-10-18 |  |
 | [เพียงอยากขอ](https://open.spotify.com/track/6VnYs6uSFxyHF5Pt8FIwSe) | [Laika](https://open.spotify.com/artist/3vHLiSEszIgPRLxivAPHO9) | [เพียงอยากขอ](https://open.spotify.com/album/7udF2bEMlmbpi9ufEiDneK) | 4:47 | 2024-06-21 | 2024-07-20 |
+| [เมืองจำลอง](https://open.spotify.com/track/7o7rEL7DbXYcYNOqn28agS) | [Cheyada](https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G) | [เมืองจำลอง](https://open.spotify.com/album/4TuRZs92az7w4wmdkIV2kJ) | 3:38 | 2025-03-21 |  |
 | [เมื่อมันสายไป](https://open.spotify.com/track/3SAoSkEcPRmtgCtTxyTHPe) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [เมื่อมันสายไป](https://open.spotify.com/album/0JQW5yBGPcS8PGcv7viPmd) | 4:56 | 2024-06-21 | 2024-07-27 |
-| [เรือนกระจก](https://open.spotify.com/track/7Ko9l6tzurRQR2LaSFQRyQ) | [Cheyada](https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G) | [Prologue](https://open.spotify.com/album/4mbA3xDu6tYvR6KsKNeEJ6) | 2:25 | 2025-03-14 |  |
+| [เรือนกระจก](https://open.spotify.com/track/7Ko9l6tzurRQR2LaSFQRyQ) | [Cheyada](https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G) | [Prologue](https://open.spotify.com/album/4mbA3xDu6tYvR6KsKNeEJ6) | 2:25 | 2025-03-14 | 2025-03-22 |
 | [เรื่องราวกับใครคนหนึ่ง\(Erstwhile\)](https://open.spotify.com/track/1gyxasKOAUpWJYiL7hp9UQ) | [pOd](https://open.spotify.com/artist/3ZEGtVa1KqQuV0KfZJYnyQ), [Tuey Mary James](https://open.spotify.com/artist/7jgKL0O8B5dWb4sVDHINnb) | [เรื่องราวกับใครคนหนึ่ง\(Erstwhile\)](https://open.spotify.com/album/7Ecml94MuK1wscTGhB0vbT) | 4:26 | 2024-07-26 | 2024-11-16 |
 | [เรื่องเล่าของนายพระจันทร์ \| Luna](https://open.spotify.com/track/2x8jP9zxcEtNKcZD8g5LnC) | [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [เรื่องเล่าของนายพระจันทร์ \| Luna](https://open.spotify.com/album/4wLs167rEMpxVaIHp16TCm) | 5:22 | 2024-06-21 | 2024-10-05 |
 | [เลิกกันมั้ย](https://open.spotify.com/track/4KQjNIhqDF4Gq3mr0bz5n0) | [Driver Boy](https://open.spotify.com/artist/1JM6CtpAcTwOYTYlya2wKi) | [เลิกกันมั้ย](https://open.spotify.com/album/4gAgb61C6W03LgiPQ9pkcu) | 5:02 | 2024-06-21 | 2024-09-07 |

@@ -1,13 +1,33 @@
 {
   "description": "my original music featured playlist, whether its fully original songs, covers, collabs, or songs i featured in!! [does not include instrumentals]",
-  "num_followers": 694,
+  "num_followers": 697,
   "original_name": "\ud83d\udc97kittydog songs featured playlist\ud83d\udc99",
   "owner": {
     "name": "kittydogcrystal",
     "url": "https://open.spotify.com/user/kittydogcrystal"
   },
-  "snapshot_id": "AAAAlKiDctPlDlvo/EJeKwyPVv9zEW39",
+  "snapshot_id": "AAAAls0BVn8bY3PkrDonRRFhaXNJDwJY",
   "tracks": [
+    {
+      "added_at": "2025-03-21 15:13:51",
+      "album": {
+        "name": "tired brain analysis",
+        "url": "https://open.spotify.com/album/0hsrMnr7TVY0OlvyW7kcCO"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        },
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Stay true",
+      "url": "https://open.spotify.com/track/5R9Pt8Phy3yaTeEsfzS4GA"
+    },
     {
       "added_at": "2025-03-19 09:52:47",
       "album": {

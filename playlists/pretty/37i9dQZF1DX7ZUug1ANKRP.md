@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: HBz, Neptunica, Aura Dione
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,853,518 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,853,539 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 19 | [One Night Of Love](https://open.spotify.com/track/0yKN9B3jYONUyvqrGkNUPX) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [One Night Of Love](https://open.spotify.com/album/1zez4j3KxpibZsH4ztNerl) | 3:31 |
 | 20 | [Nur Der Rave](https://open.spotify.com/track/6IX5t9kJOG9eYRMrKHyLi2) | [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI), [MYT](https://open.spotify.com/artist/49zauyREeS0BA9layn9e6j), [Julia Brari](https://open.spotify.com/artist/6WuhU9XEg3KJNN42rSwUDE) | [Nur Der Rave](https://open.spotify.com/album/4vZQCO4FhS9d96dWfGDQFm) | 2:32 |
 | 21 | [Walk With Me \- Edit](https://open.spotify.com/track/25NtKz5cq30ec81fhDM9rU) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Walk With Me](https://open.spotify.com/album/6Gs1D2VbneEd0pwwKA7ivI) | 2:32 |
-| 22 | [YEAH](https://open.spotify.com/track/2qlqMa0e422LZyGw1J5for) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Dimitri Vegas](https://open.spotify.com/artist/1qLXGRECOX3cqGYyQ4Ldpw) | [YEAH](https://open.spotify.com/album/3reHnBJbOMrlymwkwYqtEH) | 2:21 |
+| 22 | [YEAH](https://open.spotify.com/track/2qlqMa0e422LZyGw1J5for) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [YEAH](https://open.spotify.com/album/3reHnBJbOMrlymwkwYqtEH) | 2:21 |
 | 23 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 |
 | 24 | [Now We Are Free](https://open.spotify.com/track/0spV7kRavzOYJYKzOf8zSl) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [1 World](https://open.spotify.com/artist/1VwX54VxJ6Mghi5HTCZYLa), [AntoNetta](https://open.spotify.com/artist/2AtZ6NmtS2BO2GgUTIw3aL) | [Now We Are Free](https://open.spotify.com/album/6iSF6ZrrJkcxrmHtPOtiJt) | 3:20 |
 | 25 | [Paradise](https://open.spotify.com/track/34OvbmoYrnyfr9fEUrIsCP) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Paradise](https://open.spotify.com/album/3bI7h1S3nN4gtqfm3s7OH3) | 3:40 |

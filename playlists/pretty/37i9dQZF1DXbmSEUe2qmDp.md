@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Rafael Quadros, Felipe Araújo
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,416 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,450 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 7 | [Quem Fica Lembra \- Ao Vivo](https://open.spotify.com/track/3jC7Z3Af8zdj95Vd1j5TyO) | [Leo e Matheus](https://open.spotify.com/artist/6Ezj2v8IDNB9UllAtaNpma) | [Ao Vivo Em Rio Preto](https://open.spotify.com/album/7wB0kJ81KPQGIrO90qQCMo) | 2:22 |
 | 8 | [Metade Metade](https://open.spotify.com/track/0OY7BxpMe9ERUIqfF94aSe) | [Rafael Garcez](https://open.spotify.com/artist/3lwHsx9Dt9Th00WtxIhAth), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Metade Metade](https://open.spotify.com/album/0KqXyxBWrxiZiMVGfQweYH) | 2:40 |
 | 9 | [Tá Com Medo De Que?](https://open.spotify.com/track/5TPw5NUwLGNfW9qBa0pNrN) | [Douglas Junior](https://open.spotify.com/artist/3QQcqEBOQulYTene9fnJMO), [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9) | [Tá Com Medo De Que?](https://open.spotify.com/album/6vmUCpSCoTbpyBchyU5lNG) | 3:10 |
-| 10 | [Cê ta Precisando \- Acústico](https://open.spotify.com/track/0Br5Tsa1B5nDEUOXwHTlbJ) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV), [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026), [Golfao Produções](https://open.spotify.com/artist/0I3Au8CEIJlFAlJcSv29NL) | [Kabeceira III \(Ao Vivo\)](https://open.spotify.com/album/5TOJLdaBHMWMR9znHL9QRJ) | 2:46 |
+| 10 | [Mesa na Calçada \- Acústico](https://open.spotify.com/track/0Br5Tsa1B5nDEUOXwHTlbJ) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV), [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026), [Golfao Produções](https://open.spotify.com/artist/0I3Au8CEIJlFAlJcSv29NL) | [Kabeceira III \(Ao Vivo\)](https://open.spotify.com/album/5TOJLdaBHMWMR9znHL9QRJ) | 2:46 |
 | 11 | [Empina \- Ao Vivo](https://open.spotify.com/track/4oczeUNybUZBv9qY22Ylkx) | [Pedro Henrique e João Victor](https://open.spotify.com/artist/1Q2sPWZlgf0X5CQYDIHdef) | [Empina \(Ao Vivo\)](https://open.spotify.com/album/6LUlKDLJiCcg5vqCzzAoue) | 2:39 |
 | 12 | [Confusão \- Na Bebura, Ao Vivo](https://open.spotify.com/track/3SVIYmfxpvXfQklBemGtLP) | [Rafa e Junior](https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg) | [Confusão \(Na Bebura, Ao Vivo\)](https://open.spotify.com/album/4546X7nU7qqGNxlRICKMAJ) | 2:15 |
 | 13 | [Ana \- Ao Vivo](https://open.spotify.com/track/6bLe02oNRJQyBPkM8x2hYT) | [Anna Toledo](https://open.spotify.com/artist/5BqB321gUz1LOOAKBUiahj), [Henrique Casttro](https://open.spotify.com/artist/31LTPsEvAHPLNTMX06UdJK) | [Ana \(Ao Vivo\)](https://open.spotify.com/album/0Q8ccN6Q8593aZOIvWpd0X) | 2:56 |

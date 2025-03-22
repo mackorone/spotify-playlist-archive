@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Kidd Voodoo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,997,517 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,997,768 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 7 | [BONSAI](https://open.spotify.com/track/6pTDI0xC9njboSOZoiMgU5) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [En La Nota Records](https://open.spotify.com/artist/0fYYFdqW44JKqmBPSHX1c2) | [BONSAI](https://open.spotify.com/album/015nwEsUaD2okzr62ieqSm) | 2:13 |
 | 8 | [Corazones <3](https://open.spotify.com/track/7uQEpPm1Om86oqGo4PGR5d) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Satirología, Vol\. 3](https://open.spotify.com/album/6n3yGfhOtfklDdHxcGYsel) | 2:41 |
 | 9 | [Del Lune Al Finde](https://open.spotify.com/track/6lJnhXe8K2NStF39a1ZORe) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Del Lune Al Finde](https://open.spotify.com/album/0qpRumJh3cACDdkiuSQ8hY) | 2:50 |
-| 10 | [MISIONAR](https://open.spotify.com/track/0MTZm8KRFCeBlE4UHar3lg) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Lidanza](https://open.spotify.com/artist/5DQI4y2nm1O1MKtVZFL61y) | [Misionar](https://open.spotify.com/album/3OzpYS3uCXPpbDx2ABYsKj) | 4:19 |
+| 10 | [Misionar](https://open.spotify.com/track/0MTZm8KRFCeBlE4UHar3lg) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Lidanza](https://open.spotify.com/artist/5DQI4y2nm1O1MKtVZFL61y) | [Misionar](https://open.spotify.com/album/3OzpYS3uCXPpbDx2ABYsKj) | 4:19 |
 | 11 | [A200](https://open.spotify.com/track/6hLsMjw00j3HGrkUjKwmgo) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Bayron Fire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs) | [A200](https://open.spotify.com/album/67gbFVIhGgdMabCROgjbcV) | 3:26 |
 | 12 | [Mami ven aquí](https://open.spotify.com/track/30kHpDWzo0R7v6XbpImuIj) | [Napoles](https://open.spotify.com/artist/4mqcM1hVacykEmQIB0aJvO), [Bayron Fire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs), [Mati Bomba](https://open.spotify.com/artist/2Co933aALjqO2S4kqXpntB) | [Mami ven aquí](https://open.spotify.com/album/3qAOToYUS4Cn0qKoGa9zv5) | 3:11 |
 | 13 | [VOY A LLeVARTE PA PR](https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 2:36 |

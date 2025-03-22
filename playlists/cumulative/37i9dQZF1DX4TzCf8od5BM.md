@@ -4,7 +4,7 @@
 
 > Sing\-along to your favorite songs from Disney Jr\. shows including music from SuperKitties.
 
-216 songs - 5 hr 35 min
+217 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Do the Spidey](https://open.spotify.com/track/57bon7PWZgGOCLedjHZxIB) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Marvel's Spidey and His Amazing Friends \- Music From and Inspired By](https://open.spotify.com/album/28PAtOT7ctTLu3na2oc2E2) | 2:10 | 2024-06-17 |  |
 | [Doc McStuffins Theme Song](https://open.spotify.com/track/4Fo9Kh6aTfiX1KX2G3G3rO) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV) | [Doc McStuffins: The Doc Is In](https://open.spotify.com/album/69MUbfppLbJ1dTxKwqmjgE) | 0:56 | 2022-03-18 |  |
 | [Dog Washin'](https://open.spotify.com/track/1H65UKRE3oRqxpCnVVWRi3) | ["Puppy Dog Pals" Cast](https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63) | [Disney Junior Music: Puppy Dog Pals \- Pup\-tastic Party](https://open.spotify.com/album/3veVX6rvkJ01H7UcpyOIp7) | 1:02 | 2022-03-18 |  |
+| [Easter Buddies \- From "Disney Jr\. Music: SuperKitties"](https://open.spotify.com/track/1hOQTZ9xAl0DqVlGGm2fKk) | [SuperKitties \- Cast](https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Jr\. Music: Let's Play! Spring Jams](https://open.spotify.com/album/5oMXC29YIhYSqNXEcnz9z5) | 1:15 | 2025-03-21 |  |
 | [Elena of Avalor \(Main Title\)](https://open.spotify.com/track/6eykmqPkR0ItSGhrwPvOEF) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Elena of Avalor \(Original Soundtrack\)](https://open.spotify.com/album/42OLLIcdDeCiLitu9o3FYw) | 1:02 | 2022-03-18 |  |
 | [Elena of Avalor \(Main Title\) / My Time Mashup \- From "Elena of Avalor"](https://open.spotify.com/track/4FNoMwQTkWyVd28EimU00i) | [Cast \- Elena of Avalor](https://open.spotify.com/artist/2mxj8j8IW2pWq0QOi4WN7Y), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Disney Junior Music Dance Party! The Album](https://open.spotify.com/album/4kq1XGnRO3PJMirraOUHvK) | 2:37 | 2022-03-18 |  |
 | [Eureka! Main Title Theme \- From "Disney Junior Music: Eureka!"](https://open.spotify.com/track/4z6WszIenx3HoBR4uxjxIQ) | [Eureka! \- Cast](https://open.spotify.com/artist/2At0wMt22hR14ksbCvSSmA), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Eureka! Main Title Theme \(From "Disney Junior Music: Eureka!"\)](https://open.spotify.com/album/0of6FoW2YxSwZoy9YQdmRr) | 1:01 | 2022-05-26 |  |

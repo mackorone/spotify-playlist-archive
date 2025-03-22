@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Eugenio In Via Di Gioia in cover della playlist con il meglio dell’indie italiano \(che ha una nuova grafica 👀\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,511 likes - 65 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,715 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 64 | [M'annegasti](https://open.spotify.com/track/7LEUTklCDHl0AWkgRsd3gS) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [M'annegasti](https://open.spotify.com/album/1Qdb4Rvn66Eookw953zCeT) | 2:35 |
 | 65 | [Nevermind](https://open.spotify.com/track/0AyoK0LiaCVV32vmzqBkG8) | [frambo](https://open.spotify.com/artist/2uJQNjoh5SPxQUGwA2WA27) | [Questa casa è un albergo](https://open.spotify.com/album/5muiXBIZxmYvjgyq85pgtz) | 3:09 |
 
-Snapshot ID: `Z9yeNQAAAABlJr6LF4D5ofQJusFWJyuw`
+Snapshot ID: `Z90mtQAAAACC217VJswtCP7gbuUki66+`

@@ -4,7 +4,7 @@
 
 > The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2025 / 2024!
 
-294 songs - 14 hr 19 min
+295 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [AwStopBro](https://open.spotify.com/track/35z4D3pVq6sTkWrEkvJDMy) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA) | [AwStopBro](https://open.spotify.com/album/7C1GnuttERRVPeaNLi29G2) | 3:18 | 2024-11-01 |  |
 | [AwStopBro \(with Dizzee Rascal\)](https://open.spotify.com/track/22J84Pk8YIi7OusnvPBZtw) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [AwStopBro \(with Dizzee Rascal\)](https://open.spotify.com/album/4FNH9CF6bra34wW8l6H4x5) | 3:08 | 2024-12-02 | 2024-12-07 |
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-11-03 | 2024-02-03 |
-| [Back To Life \(feat\. Julia Church\)](https://open.spotify.com/track/5zsfgeZ8D7G6aE0FXF0mAZ) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Back To Life \(feat\. Julia Church\)](https://open.spotify.com/album/7ottNjrMancqvRpwvJLK2H) | 3:32 | 2025-03-07 | 2025-03-12 |
+| [Back To Life \(feat\. Julia Church\)](https://open.spotify.com/track/5zsfgeZ8D7G6aE0FXF0mAZ) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Back To Life \(feat\. Julia Church\)](https://open.spotify.com/album/7ottNjrMancqvRpwvJLK2H) | 3:32 | 2025-03-07 |  |
 | [Bad Boy](https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq) | [Bad Boy](https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN) | 2:58 | 2025-01-17 | 2025-02-08 |
 | [Be Alright](https://open.spotify.com/track/5T5AS42m32tKpFLfibRSqy) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Be Alright](https://open.spotify.com/album/2cQaAt8RZtWYFSaPLGXaBF) | 2:35 | 2024-10-25 |  |
 | [Beat Of Your Love \(feat\. EKKO\)](https://open.spotify.com/track/38GLEGOO8XnC74hAMluTme) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [Beat Of Your Love \(feat\. EKKO\)](https://open.spotify.com/album/3VC35ELrkknPXWVciLmVu2) | 2:42 | 2024-03-01 | 2024-05-11 |
@@ -180,6 +180,7 @@
 | [Monster \(with Alok\)](https://open.spotify.com/track/3qAqbbNRC9ce1fqb7EcZed) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Monster \(with Alok\)](https://open.spotify.com/album/58KYzcUrRpFM6ycYZLKBFX) | 2:55 | 2024-03-01 |  |
 | [My Love](https://open.spotify.com/track/5TPcLWBvXQObT3fNXRf6y2) | [THAT KIND](https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ) | [My Love](https://open.spotify.com/album/3MlOzubP2RHaPzTJihsCql) | 2:51 | 2024-09-13 |  |
 | [Namerakana 2.0](https://open.spotify.com/track/4SclnywxVnNy94jNauNvPt) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc), [Lemtom](https://open.spotify.com/artist/2B9xp0rpwFz5TON2ZSSKEF) | [Namerakana 2.0](https://open.spotify.com/album/6qbMp7L6X6AiLt7VITVx2V) | 2:26 | 2024-08-09 | 2024-08-24 |
+| [Need You The Most](https://open.spotify.com/track/6AXCd4zhFP0DokZUxRzMif) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Need You The Most](https://open.spotify.com/album/42ABRkB43c52nIBFROZJU7) | 2:10 | 2025-03-21 |  |
 | [Needle On The Record](https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Needle On The Record](https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ) | 3:06 | 2023-11-24 | 2024-03-02 |
 | [Never Going Home Tonight \(feat\. Madison Love\)](https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Madison Love](https://open.spotify.com/artist/3BkE65DVH2NZSDQa6ZszcJ) | [Never Going Home Tonight \(feat\. Madison Love\)](https://open.spotify.com/album/0tn39dXCidefjSr5PqXbcX) | 2:44 | 2024-09-06 | 2025-03-08 |
 | [Nikes On](https://open.spotify.com/track/0atyEX8Oo2UzFjsLmqN18m) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Nikes On](https://open.spotify.com/album/6XNYFdj89d9S80qrwATYFH) | 2:35 | 2024-02-16 | 2024-03-16 |

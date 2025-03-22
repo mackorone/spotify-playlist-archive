@@ -5093,6 +5093,24 @@
     },
     {
       "album": {
+        "name": "Fresco",
+        "url": "https://open.spotify.com/album/1NrU39m5nOXs6YVjJaQ40v"
+      },
+      "artists": [
+        {
+          "name": "Martes Fiore",
+          "url": "https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180781,
+      "name": "Fresco",
+      "url": "https://open.spotify.com/track/2OorG34buj8MbIGs3sdQSR"
+    },
+    {
+      "album": {
         "name": "Relaxing Piano Classics",
         "url": "https://open.spotify.com/album/3pLxieuvyteE7gyAJYyAbz"
       },
@@ -12274,6 +12292,24 @@
       "duration_ms": 129095,
       "name": "Story Time",
       "url": "https://open.spotify.com/track/0cDZCWdR8bTlp7QRaBXBYD"
+    },
+    {
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/1siHseOf2zRKJRd9cGjzsR"
+      },
+      "artists": [
+        {
+          "name": "Adelis\u00e9",
+          "url": "https://open.spotify.com/artist/4zcNEIub6cCZlkS6mzy63N"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/1tMAuiizUoQqnh6lcdFO0i"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > DEADBEATS &amp; BROWNIES \- Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-211 songs - 12 hr 14 min
+214 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Buried Alive \(feat\. Jem Cooke\)](https://open.spotify.com/track/0ytNDPiVxbL2exUe2aFzkP) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [TESSERACT](https://open.spotify.com/album/6ccsXcDzYI8vkqzPhp7SB4) | 3:31 | 2024-02-16 | 2024-05-17 |
 | [CAN YOU SEE ME?](https://open.spotify.com/track/2YeHtUuRFJeeeJtGGmLp5a) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [CAN YOU SEE ME?](https://open.spotify.com/album/1tiNJggspDrowgtBP4w25O) | 2:21 | 2024-02-16 | 2024-05-17 |
 | [Catacombs](https://open.spotify.com/track/6re3NgvyIkD7RYNBdgYn28) | [VAMPA](https://open.spotify.com/artist/40j5HqwepBedJ5LN4oHkKK) | [Transylvania](https://open.spotify.com/album/5XXcH4yI8nljtY2Q8SGWfv) | 3:02 | 2023-06-09 | 2023-11-09 |
+| [Cells](https://open.spotify.com/track/1fGmuLbxg86dbRcFOd62IH) | [Distinct Motive](https://open.spotify.com/artist/5KfqHG8bhfI18ZuTzZSdSM) | [DUBS EP](https://open.spotify.com/album/227Am9ZcZbUYeECl4eVrxN) | 5:06 | 2025-03-21 |  |
 | [Claw](https://open.spotify.com/track/6JLTatKOVYScUNqqK2iERr) | [Distinct Motive](https://open.spotify.com/artist/5KfqHG8bhfI18ZuTzZSdSM) | [Mellow Man](https://open.spotify.com/album/7GuzEc0bwqnJVQGSavefCD) | 3:39 | 2024-01-12 | 2024-08-24 |
 | [Clean](https://open.spotify.com/track/1BswTUn90cgvpRN30JNJFM) | [Evalution](https://open.spotify.com/artist/1m3BeGVpc21uM3wC4MSDfq) | [We Are Deadbeats Vol\. 6](https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh) | 2:18 | 2024-08-23 | 2024-09-27 |
 | [Cockroaches](https://open.spotify.com/track/52B80CEV3N6zZ1ERgtMvxF) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv), [YAANO](https://open.spotify.com/artist/2T0O5j4GMBDmAd8OaEA2UX) | [Asura EP](https://open.spotify.com/album/3TDp7ADxIVCOZbI1VjtztC) | 5:29 | 2023-10-06 | 2024-05-17 |
@@ -50,6 +51,7 @@
 | [CRUISIN](https://open.spotify.com/track/2GQI4Xj5hjT2wCp95W2U6R) | [Phace](https://open.spotify.com/artist/3o46xaXZd75wUeb2Zfc4o5) | [EVERYDAY SAMPLER](https://open.spotify.com/album/6NdcpJSBmFjY7ulKPPvmoQ) | 3:08 | 2024-04-30 | 2024-08-24 |
 | [Cumuto](https://open.spotify.com/track/49fAxCphCd8DOzXDHX4zzU) | [Sagaman](https://open.spotify.com/artist/2U7zxnBc9X7hVKBiVfSM29), [XL](https://open.spotify.com/artist/5eWRNK24B0BOh4wiCge5IH) | [We Are Deadbeats Vol\. 6](https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh) | 2:51 | 2024-08-23 | 2024-09-27 |
 | [Damage](https://open.spotify.com/track/0llgSrqseKarsyuL2DxOEc) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Mind Of Madness](https://open.spotify.com/album/1NaeFQSi1Fv66jdscJbzIJ) | 3:13 | 2024-04-30 | 2024-08-24 |
+| [Damage \- The Glitch Mob Remix](https://open.spotify.com/track/7cit6IMrSDbpXR6878YzLi) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial), [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD) | [Mind Of Madness \(Remixes\)](https://open.spotify.com/album/5USIUAtL8jerdsgVnNBuhg) | 3:58 | 2025-03-21 |  |
 | [Danger](https://open.spotify.com/track/3SoamIpcuox8LEzgOOB5EH) | [MontyCler](https://open.spotify.com/artist/58pVdkxx4UZqPrNAWDdOEw), [STVSH](https://open.spotify.com/artist/5nEtdd8cmhvf1zgNMFoQcI) | [We Are Deadbeats Vol\. 6](https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh) | 2:58 | 2024-08-23 | 2024-09-27 |
 | [Deathwish](https://open.spotify.com/track/2Z85COMAN65p26N55yd32P) | [Tsuruda](https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu) | [Deathwish](https://open.spotify.com/album/288QGoQc8PJsoexl5pFm2T) | 3:06 | 2023-03-07 | 2023-11-09 |
 | [Deep Inside](https://open.spotify.com/track/080ykYdAZJaUaEeu1hnVtF) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Lily Of The Valley](https://open.spotify.com/album/22MhIeIM0sCQ7bJllDMnSZ) | 4:05 | 2024-04-30 | 2024-08-24 |
@@ -89,6 +91,7 @@
 | [GLITCH](https://open.spotify.com/track/3C3ZOzxGQtu4V1uxCmI799) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [GLITCH](https://open.spotify.com/album/50G2j1uk3yF53mzZjxDeJC) | 3:56 | 2023-11-08 | 2024-08-24 |
 | [GOOD 4 U](https://open.spotify.com/track/01d0mVYKVR8OLH3pWsXiNc) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [GOOD 4 U](https://open.spotify.com/album/394BCnGgzVk4bS5yG3XNkR) | 2:40 | 2024-12-06 |  |
 | [Gotowork](https://open.spotify.com/track/7fvraVExzK5M0Oh93X84Ir) | [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [LYSS EP](https://open.spotify.com/album/28TxwayUhN9PaKQ5Obnqqv) | 2:22 | 2024-08-05 |  |
+| [Grim \- Mary Droppinz Remix](https://open.spotify.com/track/4NeWxeTz9hKhoI9EeJ2qKs) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial), [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Mind Of Madness \(Remixes\)](https://open.spotify.com/album/5USIUAtL8jerdsgVnNBuhg) | 3:30 | 2025-03-21 |  |
 | [Grime On Steroids](https://open.spotify.com/track/3OJ4PNN8a3euqfIS1hBGRO) | [Onhell](https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t), [Chef Boyarbeatz](https://open.spotify.com/artist/7nSk3iFPogRCOokrMliejt) | [juntos](https://open.spotify.com/album/5qicqkou3eYdsExTJDRC0n) | 2:04 | 2024-10-07 |  |
 | [Gunshot](https://open.spotify.com/track/35umPDaraumKhonFf5uWSF) | [AstroLizard](https://open.spotify.com/artist/3esoQnfDY6M4rgOtkq24Wm) | [Out Of This World](https://open.spotify.com/album/4FnfqAXSPyomOOk6sn5Y4f) | 3:21 | 2024-01-12 | 2024-05-17 |
 | [Haunt My Mind \- Machinedrum Remix](https://open.spotify.com/track/3TXrfDuEZxTaXLG8236DyQ) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb), [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [Haunt My Mind \(Machinedrum Remix\)](https://open.spotify.com/album/28qqCQqnNzVnAsfXOsuaDU) | 3:25 | 2023-03-31 | 2023-11-09 |

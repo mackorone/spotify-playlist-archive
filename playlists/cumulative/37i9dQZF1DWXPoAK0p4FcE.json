@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: YEW",
+  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Safeplanet",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c Indieology",
   "tracks": [
     {
@@ -194,7 +194,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 249500,
       "name": "Manila",
       "url": "https://open.spotify.com/track/7IOQobXnONFEYsvbngKiho"
@@ -281,6 +281,24 @@
     },
     {
       "album": {
+        "name": "\u0e01\u0e32\u0e23\u0e23\u0e2d\u0e04\u0e2d\u0e22 ( THE WAIT8 )",
+        "url": "https://open.spotify.com/album/1ggZWaDDCyOt3pkPJ9vhUY"
+      },
+      "artists": [
+        {
+          "name": "Safeplanet",
+          "url": "https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309000,
+      "name": "\u0e01\u0e32\u0e23\u0e23\u0e2d\u0e04\u0e2d\u0e22 ( THE WAIT8 )",
+      "url": "https://open.spotify.com/track/6uYSkSc8dQInSNCLTZibeC"
+    },
+    {
+      "album": {
         "name": "\u0e01\u0e33\u0e41\u0e1e\u0e07\u0e2b\u0e31\u0e27\u0e43\u0e08",
         "url": "https://open.spotify.com/album/4Mqmd8JPbyBmSW7cWsSkUT"
       },
@@ -310,7 +328,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 246817,
       "name": "\u0e01\u0e48\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e25\u0e32\u0e25\u0e31\u0e1a\u0e44\u0e1b",
       "url": "https://open.spotify.com/track/6vniVlU3rnsSNYNhNE9IrP"
@@ -790,7 +808,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 216950,
       "name": "\u0e16\u0e32\u0e21\u0e14\u0e32\u0e27 (Please Be Kind)",
       "url": "https://open.spotify.com/track/7pSHw1T4Xwt4byS6XIcDjA"
@@ -880,7 +898,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 288224,
       "name": "\u0e17\u0e38\u0e01\u0e2a\u0e34\u0e48\u0e07 (Voodoo Potion)",
       "url": "https://open.spotify.com/track/7FuNF6TO7xdrKdDSePTw0x"
@@ -1028,6 +1046,24 @@
       "duration_ms": 211946,
       "name": "\u0e22\u0e2d\u0e21 (White Flag)",
       "url": "https://open.spotify.com/track/1VfxBuhaRC8rnE4VAPQ4Qk"
+    },
+    {
+      "album": {
+        "name": "\u0e22\u0e31\u0e07\u0e21\u0e35 | Better Next Day",
+        "url": "https://open.spotify.com/album/7bqfOLuEACwFsP7mcJNvV0"
+      },
+      "artists": [
+        {
+          "name": "SCRUBB",
+          "url": "https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "\u0e22\u0e31\u0e07\u0e21\u0e35 | Better Next Day",
+      "url": "https://open.spotify.com/track/6vzHVDu4OtkvXcGar8mDM2"
     },
     {
       "album": {
@@ -1226,6 +1262,46 @@
       "duration_ms": 276750,
       "name": "\u0e2b\u0e22\u0e38\u0e14\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e43\u0e2b\u0e49\u0e09\u0e31\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e43\u0e04\u0e23 (Toxic)",
       "url": "https://open.spotify.com/track/6s9gVijXmSRNHc7ed9stqE"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e27\u0e32\u0e19\u0e43\u0e08\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e01\u0e27\u0e48\u0e32\u0e43\u0e04\u0e23",
+        "url": "https://open.spotify.com/album/0E2eCd2zuv1Iuk4MnKdros"
+      },
+      "artists": [
+        {
+          "name": "\u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32",
+          "url": "https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW"
+        },
+        {
+          "name": "\u0e2a\u0e22\u0e32\u0e42\u0e21",
+          "url": "https://open.spotify.com/artist/4AJ2vsPrlHwJMpGB4RHuvG"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185099,
+      "name": "\u0e2b\u0e27\u0e32\u0e19\u0e43\u0e08\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e01\u0e27\u0e48\u0e32\u0e43\u0e04\u0e23",
+      "url": "https://open.spotify.com/track/6vAH43fkKUA2Ysgf7jIw6R"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e32\u0e22",
+        "url": "https://open.spotify.com/album/0UDjVe5A2IGrMAeLEZt3m6"
+      },
+      "artists": [
+        {
+          "name": "Greasy Cafe'",
+          "url": "https://open.spotify.com/artist/5VR2NQf3Y8Hmh8iHS6bXYx"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260838,
+      "name": "\u0e2b\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/0ztahKmSIUIdr2F8Iy8ZYw"
     },
     {
       "album": {

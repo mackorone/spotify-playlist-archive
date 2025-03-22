@@ -1,6 +1,6 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 83696,
+  "num_followers": 83717,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2025-01-31 05:00:46",
       "album": {
+        "name": "Caution",
+        "url": "https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 155758,
+      "name": "Caution",
+      "url": "https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3"
+    },
+    {
+      "added_at": "2025-01-31 05:00:46",
+      "album": {
         "name": "JESUS IN BERLIN",
         "url": "https://open.spotify.com/album/3O87y5cnZk4fVJbjSfc3Xl"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 152343,
       "name": "JESUS IN BERLIN",
       "url": "https://open.spotify.com/track/1eBGNWrnfmSCHN4IfEUqUX"
-    },
-    {
-      "added_at": "2025-01-31 05:00:46",
-      "album": {
-        "name": "Caution",
-        "url": "https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 155758,
-      "name": "Caution",
-      "url": "https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3"
     },
     {
       "added_at": "2025-01-31 05:00:46",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-01-31 05:00:46",
       "album": {
-        "name": "Amniotic",
-        "url": "https://open.spotify.com/album/7M0Zg2A3mrTOOqfVyRUjb8"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 432266,
-      "name": "Return to Oz",
-      "url": "https://open.spotify.com/track/13HDTxGLX75krczQM9xRKP"
-    },
-    {
-      "added_at": "2025-01-31 05:00:46",
-      "album": {
         "name": "collect$$$save",
         "url": "https://open.spotify.com/album/1ktAR5Cnf75Cbgxii215PY"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 215040,
       "name": "collect$$$save",
       "url": "https://open.spotify.com/track/1vMvlL0V2ulcClCfSDmZ8t"
+    },
+    {
+      "added_at": "2025-01-31 05:00:46",
+      "album": {
+        "name": "Amniotic",
+        "url": "https://open.spotify.com/album/7M0Zg2A3mrTOOqfVyRUjb8"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 432266,
+      "name": "Return to Oz",
+      "url": "https://open.spotify.com/track/13HDTxGLX75krczQM9xRKP"
     },
     {
       "added_at": "2025-01-31 05:00:46",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-01-31 05:00:46",
       "album": {
-        "name": "DIAMOND TAPE",
-        "url": "https://open.spotify.com/album/5LxQdOjqtNNq8CLLC4cS5P"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        }
-      ],
-      "duration_ms": 246101,
-      "name": "3AM IN CHELSEA",
-      "url": "https://open.spotify.com/track/78Y0MDNQJea7OsrUpcatF2"
-    },
-    {
-      "added_at": "2025-01-31 05:00:46",
-      "album": {
         "name": "Prada Spring / Summer 2019 Women\u2019s Campaign: Double Exposure (Belle)",
         "url": "https://open.spotify.com/album/4OnAzwcid2wtjw5Tah9Ae2"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 82200,
       "name": "Prada Spring / Summer 2019 Women\u2019s Campaign: Double Exposure (Belle)",
       "url": "https://open.spotify.com/track/6oHfHOnAFfDNb0qP5gQkDv"
+    },
+    {
+      "added_at": "2025-01-31 05:00:46",
+      "album": {
+        "name": "DIAMOND TAPE",
+        "url": "https://open.spotify.com/album/5LxQdOjqtNNq8CLLC4cS5P"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        }
+      ],
+      "duration_ms": 246101,
+      "name": "3AM IN CHELSEA",
+      "url": "https://open.spotify.com/track/78Y0MDNQJea7OsrUpcatF2"
     },
     {
       "added_at": "2025-01-31 05:00:46",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-01-31 05:00:46",
       "album": {
-        "name": "HYPNOTIZE EP",
-        "url": "https://open.spotify.com/album/3uyE80PrNEyO6LVRu9e6Ud"
-      },
-      "artists": [
-        {
-          "name": "Psycho Boys Club",
-          "url": "https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "YSL",
-      "url": "https://open.spotify.com/track/32qENt36EnFCKOEGzLjRBY"
-    },
-    {
-      "added_at": "2025-01-31 05:00:46",
-      "album": {
         "name": "Chaos Walking - Givenchy Mix",
         "url": "https://open.spotify.com/album/5ATZKrvHkDXz5bNpoLjftF"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 594866,
       "name": "Chaos Walking - Givenchy Mix",
       "url": "https://open.spotify.com/track/6tdsK5sErHWB4ZzCbjpBI4"
+    },
+    {
+      "added_at": "2025-01-31 05:00:46",
+      "album": {
+        "name": "HYPNOTIZE EP",
+        "url": "https://open.spotify.com/album/3uyE80PrNEyO6LVRu9e6Ud"
+      },
+      "artists": [
+        {
+          "name": "Psycho Boys Club",
+          "url": "https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "YSL",
+      "url": "https://open.spotify.com/track/32qENt36EnFCKOEGzLjRBY"
     },
     {
       "added_at": "2025-01-31 05:00:46",

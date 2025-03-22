@@ -1,13 +1,81 @@
 {
-  "description": "The best in blues right now. Cover: Billy F Gibbons",
-  "num_followers": 138943,
+  "description": "The best in blues right now. Cover: Bobby Rush & Kenny Wayne Shepherd",
+  "num_followers": 138960,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9OpxQAAAAAd+GIxwVngxi4wTp3yznLx",
+  "snapshot_id": "Z9zkaAAAAAA3rLWthf1Na1JXi45DZy3T",
   "tracks": [
+    {
+      "added_at": "2025-03-21 04:00:40",
+      "album": {
+        "name": "Young Fashioned Ways",
+        "url": "https://open.spotify.com/album/7mOQINgLEPn6qh11ICNhWp"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        },
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 225833,
+      "name": "You So Fine",
+      "url": "https://open.spotify.com/track/2lXtNjYs5zZb36wT2uMl1G"
+    },
+    {
+      "added_at": "2025-03-21 04:00:40",
+      "album": {
+        "name": "Sooner Or Later",
+        "url": "https://open.spotify.com/album/054fhpYkiyB0reTJMWY0Ta"
+      },
+      "artists": [
+        {
+          "name": "Carolyn Wonderland",
+          "url": "https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n"
+        }
+      ],
+      "duration_ms": 253086,
+      "name": "Sooner Or Later",
+      "url": "https://open.spotify.com/track/0GN3iz0lYpsAQ2iBpUelzj"
+    },
+    {
+      "added_at": "2025-03-21 04:00:40",
+      "album": {
+        "name": "Can't Catch My Breath",
+        "url": "https://open.spotify.com/album/0mHQDQgf1KUIJmGzG9pwdv"
+      },
+      "artists": [
+        {
+          "name": "Matt Schofield",
+          "url": "https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE"
+        }
+      ],
+      "duration_ms": 337706,
+      "name": "Can't Catch My Breath",
+      "url": "https://open.spotify.com/track/5tqlcXaIjnvtUERP2V9kGL"
+    },
+    {
+      "added_at": "2025-03-21 04:00:40",
+      "album": {
+        "name": "Pinky's Blues",
+        "url": "https://open.spotify.com/album/1DqQYG4sgaC0juYiL0yUe9"
+      },
+      "artists": [
+        {
+          "name": "Sue Foley",
+          "url": "https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS"
+        }
+      ],
+      "duration_ms": 224151,
+      "name": "Two Bit Texas Town",
+      "url": "https://open.spotify.com/track/2ng4xggwChST3ExNOEln7Y"
+    },
     {
       "added_at": "2025-03-14 04:00:05",
       "album": {
@@ -63,26 +131,6 @@
       "duration_ms": 211360,
       "name": "Look Out Highway",
       "url": "https://open.spotify.com/track/2vw3MrmC1QEbpXyeg0Mlls"
-    },
-    {
-      "added_at": "2025-02-21 05:00:17",
-      "album": {
-        "name": "Hey Baby (What Are We Gonna Do)",
-        "url": "https://open.spotify.com/album/03eSdbYiHt5sLyFDa4GlL0"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        },
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 238864,
-      "name": "Hey Baby (What Are We Gonna Do)",
-      "url": "https://open.spotify.com/track/4mahrABVv4bWz89pQCvURX"
     },
     {
       "added_at": "2025-02-28 05:00:32",
@@ -1727,54 +1775,6 @@
       "duration_ms": 221053,
       "name": "Down On The South Side",
       "url": "https://open.spotify.com/track/3bEvr0dRJeQ02PynkdmXuV"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "Connor Selby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU"
-      },
-      "artists": [
-        {
-          "name": "Connor Selby",
-          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
-        }
-      ],
-      "duration_ms": 293400,
-      "name": "Love Letter To The Blues - Bonus Track",
-      "url": "https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Voyageur",
-        "url": "https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 239866,
-      "name": "Malahani",
-      "url": "https://open.spotify.com/track/0cW9utrnFumH3YpcBNVAYC"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "I Can't Stop Lovin'",
-        "url": "https://open.spotify.com/album/66m3PSwTXd1fayVrjdS1eb"
-      },
-      "artists": [
-        {
-          "name": "The Mystix",
-          "url": "https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ"
-        }
-      ],
-      "duration_ms": 197386,
-      "name": "I Can't Stop Lovin'",
-      "url": "https://open.spotify.com/track/6tUhcYD4qargqKQDEeNIoH"
     }
   ],
   "unique_name": "Got Blues",

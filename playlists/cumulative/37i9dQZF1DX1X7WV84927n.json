@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For full-volume lovers. Cover: Dorothy",
+  "description": "For full-volume lovers. Cover: Pop Evil",
   "name": "Hard Rock",
   "tracks": [
     {
@@ -592,7 +592,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-03",
+      "date_removed": null,
       "duration_ms": 204869,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/7e1x3ozyFOOe77bdYuNg3k"
@@ -628,7 +628,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-10",
+      "date_removed": null,
       "duration_ms": 278013,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/2CpfX8QRGKcVl0kL3QoGnk"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-09",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Alienation",
       "url": "https://open.spotify.com/track/4iCmrRwZ0YpUXNAFD7lGWl"
@@ -2006,7 +2006,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 225881,
       "name": "Better Days (feat. Dorothy)",
       "url": "https://open.spotify.com/track/3qYVgtSRgpfVwipxF52d4T"
@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 274320,
       "name": "Bleeders",
       "url": "https://open.spotify.com/track/3KprCokhFBVLLGyQVu5XaN"
@@ -3958,7 +3958,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 186825,
       "name": "CULT",
       "url": "https://open.spotify.com/track/2eZYy3U7eIsjkCnjFfCfV1"
@@ -4690,7 +4690,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 209757,
       "name": "devotion",
       "url": "https://open.spotify.com/track/35YHXeL0Q5Ew5wWrDsylx3"
@@ -5342,7 +5342,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 189897,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/4WVcTxy8lZqrz3wp0Mp1DF"
@@ -5364,6 +5364,28 @@
       "duration_ms": 277201,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/7jJ5zfsqNO1o85PlepGLxm"
+    },
+    {
+      "album": {
+        "name": "D\u00e9sol\u00e9 (feat. JJ Wilde)",
+        "url": "https://open.spotify.com/album/7rc8TzbmpfblcaKQ3M4hh4"
+      },
+      "artists": [
+        {
+          "name": "Storm Orchestra",
+          "url": "https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR"
+        },
+        {
+          "name": "JJ Wilde",
+          "url": "https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182062,
+      "name": "D\u00e9sol\u00e9 (feat. JJ Wilde)",
+      "url": "https://open.spotify.com/track/79JYhum5bquBcCQdwNc1Xm"
     },
     {
       "album": {
@@ -6812,7 +6834,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-23",
+      "date_removed": null,
       "duration_ms": 174952,
       "name": "Full Of Emptiness",
       "url": "https://open.spotify.com/track/3FXm6xBVfTY6LQHZQGImpo"
@@ -7394,7 +7416,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 218537,
       "name": "Good In Goodbye",
       "url": "https://open.spotify.com/track/1eDMcpnxaWCIBVzv9ZSR8X"
@@ -7680,7 +7702,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 151137,
       "name": "Happiest",
       "url": "https://open.spotify.com/track/3AIttZ1HiYYA8RgjCzMEYS"
@@ -8128,7 +8150,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 185294,
       "name": "HELLBOUND",
       "url": "https://open.spotify.com/track/7DVRzkx3RMQBKOuuDRCYxl"
@@ -8462,7 +8484,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-08",
+      "date_removed": null,
       "duration_ms": 175485,
       "name": "Home Improvement",
       "url": "https://open.spotify.com/track/0fjIk7DXmHlPFjzP6yjQAW"
@@ -11312,7 +11334,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-17",
+      "date_removed": null,
       "duration_ms": 243538,
       "name": "Love and a Smoking Gun",
       "url": "https://open.spotify.com/track/3yo3ZsW5OmKGEPvuScRWVL"
@@ -11652,7 +11674,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 126986,
       "name": "Masochistic Lovers",
       "url": "https://open.spotify.com/track/0J5uv1lTpYslQnbSlWBQYL"
@@ -13734,7 +13756,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-09",
+      "date_removed": null,
       "duration_ms": 190758,
       "name": "Our Demise",
       "url": "https://open.spotify.com/track/0zgRriKSxerBMB4IjyHQ6n"
@@ -14292,7 +14314,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-22",
+      "date_removed": null,
       "duration_ms": 200344,
       "name": "PAY ATTENTION",
       "url": "https://open.spotify.com/track/3Z6ReZyj8uKeiGUYf0JElU"
@@ -14758,7 +14780,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 200500,
       "name": "Pulling Teeth",
       "url": "https://open.spotify.com/track/6QZWoi81G0nHKn8n1oFtaa"
@@ -15516,7 +15538,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-08",
+      "date_removed": null,
       "duration_ms": 221236,
       "name": "Rock n Roll Queen",
       "url": "https://open.spotify.com/track/0da7UjSYo7J0CGpS6PjfU4"
@@ -17858,7 +17880,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-20",
+      "date_removed": null,
       "duration_ms": 178373,
       "name": "Take the Power",
       "url": "https://open.spotify.com/track/4aXuTRHtpIluJ17qdv4Ier"
@@ -20150,7 +20172,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 187363,
       "name": "Turn to Stone",
       "url": "https://open.spotify.com/track/26yio6wSf4RziarIle54cY"
@@ -20404,7 +20426,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 185553,
       "name": "Unpopular",
       "url": "https://open.spotify.com/track/2LQj9oZhGaxq6oBb9FMwGq"
@@ -21530,7 +21552,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 217040,
       "name": "What Remains",
       "url": "https://open.spotify.com/track/7rqfCQ0Uw6qyztM4rKjKs0"
@@ -21790,10 +21812,28 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 239918,
       "name": "Wishful Thinking",
       "url": "https://open.spotify.com/track/39OvQTAn4PRgb4ChcGszrt"
+    },
+    {
+      "album": {
+        "name": "What Remains",
+        "url": "https://open.spotify.com/album/7JM5GLdSqPk6GcR5A9crn9"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239918,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/5rO9oRd4tHLVZgtUVnoSyN"
     },
     {
       "album": {

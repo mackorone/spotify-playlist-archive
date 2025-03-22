@@ -1,12 +1,12 @@
 {
-  "description": "Our favourite new music, updated monthly by the XL team. ",
-  "num_followers": 16423,
+  "description": "Our favourite new music, curated by the XL team. ",
+  "num_followers": 16432,
   "original_name": "XL Play",
   "owner": {
     "name": "XL Recordings",
     "url": "https://open.spotify.com/user/xlrecordings"
   },
-  "snapshot_id": "AAAYzIt/pYn61Afi/M/KYfw9J6zhVW9R",
+  "snapshot_id": "AAAYzoV1EoyKGd6RoSSk+ZrvHVdcuB4r",
   "tracks": [
     {
       "added_at": "2025-03-20 09:01:23",
@@ -2091,6 +2091,22 @@
       "duration_ms": 172859,
       "name": "Where's The Daddy?",
       "url": "https://open.spotify.com/track/2xnFroyqH6GJDkuCUCMTMF"
+    },
+    {
+      "added_at": "2025-03-21 02:59:35",
+      "album": {
+        "name": "It's Amazing To Be Young",
+        "url": "https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 210803,
+      "name": "It's Amazing To Be Young",
+      "url": "https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf"
     }
   ],
   "unique_name": "XL Play",

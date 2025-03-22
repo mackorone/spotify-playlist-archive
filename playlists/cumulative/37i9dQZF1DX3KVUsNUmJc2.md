@@ -4,7 +4,7 @@
 
 > Every legend has a beginning\. Listen to music from Arcane, now streaming on Netflix.
 
-120 songs - 5 hr 33 min
+121 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Wear My Ring Around Your Neck](https://open.spotify.com/track/36BT9FxW5dorOiUXZ5fb4B) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [50,000,000 Elvis Fans Can't Be Wrong: Elvis' Gold Records, Vol\. 2](https://open.spotify.com/album/0s357yjkkRrf0KCXtnISGe) | 2:13 | 2023-03-17 | 2024-08-11 |
 | [What Could Have Been feat\. Ray Chen \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4Oih3RDrSFg3afaOphBVuy) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Ray Chen](https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 3:33 | 2024-08-10 |  |
 | [What Have They Done To Us \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2F27IYzFkhhrMChpfhVgPJ) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 1:59 | 2024-11-23 |  |
+| [What Have They Done To Us \(ft\. Sasha Alex Sloan\) \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5O0xMAdhVfPrPf5FMieyiV) | [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Arcane League of Legends: Season 2 Original Soundtrack \(Extended Edition\)](https://open.spotify.com/album/6L0Ddqho2KlutenNvRCOYc) | 3:20 | 2025-03-21 |  |
 | [When Everything Went Wrong \(from the series Arcane League of Legends\)](https://open.spotify.com/track/6YCW1g7XwaDZX7sUSM8LWq) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 3:13 | 2024-08-10 |  |
 | [White Rabbit](https://open.spotify.com/track/4vpeKl0vMGdAXpZiQB2Dtd) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Surrealistic Pillow](https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a) | 2:30 | 2023-03-17 | 2024-08-11 |
 | [这样很好 \(Isha's Song\) \(from the series Arcane League of Legends\)](https://open.spotify.com/track/3cG6423elE49gy76onK3VK) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 4:24 | 2024-11-23 |  |

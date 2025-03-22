@@ -4,7 +4,7 @@
 
 > Perreando toda la noche con Kidd Voodoo.
 
-987 songs - 2 day 4 hr 40 min
+989 songs - 2 day 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Clásico](https://open.spotify.com/track/2jHDm2R3JaOeCypobzGuW7) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Clásico](https://open.spotify.com/album/2uufh3Dx4hFu3tNymjLSzG) | 3:25 | 2022-02-25 | 2022-08-27 |
 | [Comerte Entera](https://open.spotify.com/track/73es9ZZQlBrRVNKSyT1fTN) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Comerte Entera](https://open.spotify.com/album/1MorkOFT2R6LjnQf5Dgg4b) | 4:44 | 2021-12-24 | 2022-04-02 |
 | [Como Antes](https://open.spotify.com/track/4xGGG1jWs6x56KZ9A4rS3m) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Como Antes](https://open.spotify.com/album/2QkUssVSrsngGCtJtuGRjy) | 2:48 | 2023-09-08 | 2023-12-16 |
+| [Como Si El Mundo Se Fuera A Acabar](https://open.spotify.com/track/648jEiRJvpIuUPlq3PN0ak) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Como Si El Mundo Se Fuera A Acabar](https://open.spotify.com/album/5R2uiEyjovCRYvk3ITPORP) | 3:07 | 2025-03-21 |  |
 | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS) | [Club16](https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80) | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC) | 3:24 | 2022-08-26 | 2022-11-26 |
 | [COMPLICES](https://open.spotify.com/track/6s980QxDECNvU8pp1SoSwP) | [Amara Ignacia](https://open.spotify.com/artist/6YTu4Ih4tovKGdsq3UCnHa) | [COMPLICES](https://open.spotify.com/album/35YJilctgWruJnQTGpvi3k) | 4:06 | 2021-12-24 | 2022-02-05 |
 | [CON CO](https://open.spotify.com/track/5oMhPcsDqtK8JBJiG9of02) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [CON CO](https://open.spotify.com/album/0LPf0p8XaAulD9YSp4ZFF8) | 2:06 | 2024-06-07 | 2024-11-30 |
@@ -639,6 +640,7 @@
 | [Oscuro](https://open.spotify.com/track/1fybsXDIDu6dRlG1H1sKb9) | [Cozy](https://open.spotify.com/artist/0vb89r7nEo8PCofGZBgJGd) | [En Alta](https://open.spotify.com/album/0kv4uK3Io0mb6E609YJ1Gr) | 2:41 | 2023-08-18 | 2023-11-25 |
 | [OTRA NO](https://open.spotify.com/track/3f2K8tmTI3mHzojNYqae4h) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:32 | 2021-12-24 | 2022-01-15 |
 | [OTRA VEZ](https://open.spotify.com/track/674LHLeZo1zNy1NECXyScY) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [OTRA VEZ](https://open.spotify.com/album/6NnPID2acgwxuhjYWm7vkw) | 2:11 | 2023-09-08 | 2023-12-16 |
+| [Otra Vida](https://open.spotify.com/track/0Q2fGgApg3XMNRNnjQU6wX) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Otra Vida](https://open.spotify.com/album/34hnyjteFa5wiLROaR4Ch1) | 2:33 | 2025-03-21 |  |
 | [Otro Show](https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Otro Show](https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU) | 2:40 | 2023-09-22 | 2024-02-24 |
 | [Oye BB](https://open.spotify.com/track/2QftZPguVY5lKNwyXPDywB) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Oye BB](https://open.spotify.com/album/3dRkgg45xl85zTpkZvSqPV) | 2:27 | 2023-11-10 | 2024-03-30 |
 | [Pa Casa](https://open.spotify.com/track/6GBIsXkI1ketoQpY7GBuj6) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Pa Casa](https://open.spotify.com/album/2TcClZORswUT3AReMz3AR4) | 3:28 | 2023-09-15 | 2023-12-16 |

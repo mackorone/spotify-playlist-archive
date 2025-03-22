@@ -4,7 +4,7 @@
 
 > Strings and pianos to accompany your latest great read.
 
-176 songs - 9 hr 32 min
+177 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Cyllene](https://open.spotify.com/track/2rdfoD2s2fZIKxAqcX2t9O) | [Martin Landh](https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew) | [Cyllene](https://open.spotify.com/album/5JbLwgqc6LYNVWFnH4IGVn) | 2:51 | 2022-09-02 | 2022-11-08 |
 | [Dead Heart](https://open.spotify.com/track/7nRLXtBmT5YyeiRclU3Btj) | [Martin Czerny](https://open.spotify.com/artist/3dKnHhya1g24Mwljr9jbDu) | [Sad Cello & Piano XXII](https://open.spotify.com/album/1Zd0oRtoHZa6HTQ7f0diiZ) | 2:12 | 2022-04-01 | 2022-11-08 |
 | [Delicately](https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi), [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT), [Anna De Bruin](https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4) | [Delicately](https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85) | 2:03 | 2022-05-20 | 2022-11-08 |
+| [Dragon](https://open.spotify.com/track/28uiAcWusO4hqZneUFleyI) | [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Dragon](https://open.spotify.com/album/3fKmxalDLrKvgZeLITSnke) | 1:57 | 2025-03-21 |  |
 | [Drifter](https://open.spotify.com/track/0R7jFHY8XqC6eR8zG97F8P) | [Takaaki Izumi](https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p) | [Life](https://open.spotify.com/album/1WVRKTH7HF7Sk0WAvSpMry) | 2:37 | 2022-04-01 |  |
 | [Drifter](https://open.spotify.com/track/5qylsVTG6k9vStN40LcpwW) | [Takaaki Izumi](https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p) | [Life](https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa) | 2:37 | 2022-07-29 | 2024-04-19 |
 | [Déjà Vu](https://open.spotify.com/track/253bPWO4hUm5FTsPFLRUcz) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Déjà Vu](https://open.spotify.com/album/7j4lI0WOi2jUmx6EkLvYF3) | 2:44 | 2022-04-01 | 2022-11-08 |

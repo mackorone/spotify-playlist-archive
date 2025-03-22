@@ -1,13 +1,33 @@
 {
   "description": "Sing along to your favorite Disney Channel hits including songs from Descendants: The Rise Of Red, now streaming on Disney+.",
-  "num_followers": 124317,
+  "num_followers": 124319,
   "original_name": "Disney Channel Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7kOFQAAAABQ50IziS5/weQS3nqG871p",
+  "snapshot_id": "Z9zmIwAAAACHebk1RSCWW1NZ/oDQapJH",
   "tracks": [
+    {
+      "added_at": "2025-03-21 04:08:03",
+      "album": {
+        "name": "Teen Beach Movie",
+        "url": "https://open.spotify.com/album/5ANe5AfOnYydm3lXELfiHF"
+      },
+      "artists": [
+        {
+          "name": "Ross Lynch",
+          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
+        },
+        {
+          "name": "Maia Mitchell",
+          "url": "https://open.spotify.com/artist/3730ZT92AjnEzC83q5RzDC"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "Can't Stop Singing - From \"Teen Beach Movie\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/2adTfABiJJQpZWlujYO3Qo"
+    },
     {
       "added_at": "2025-02-21 23:36:53",
       "album": {

@@ -1,13 +1,57 @@
 {
-  "description": "Jazzy blips and blops",
-  "num_followers": 578921,
+  "description": "Jazzy blips and blops. Cover: Theo Croker",
+  "num_followers": 578924,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8p9ZAAAAABLe+YPPRFkpAbsjKnk3kh3",
+  "snapshot_id": "Z9zkZgAAAAA/gIlqCjbQulpw067iHnJc",
   "tracks": [
+    {
+      "added_at": "2025-03-21 04:00:38",
+      "album": {
+        "name": "high vibrations",
+        "url": "https://open.spotify.com/album/7icKH7oDXCA2m6V6tks0XO"
+      },
+      "artists": [
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Malaya",
+          "url": "https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb"
+        },
+        {
+          "name": "D'LEAU",
+          "url": "https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk"
+        }
+      ],
+      "duration_ms": 335846,
+      "name": "high vibrations",
+      "url": "https://open.spotify.com/track/0gr9ny9UGmMdrBV1ivgnGb"
+    },
+    {
+      "added_at": "2025-03-21 04:00:38",
+      "album": {
+        "name": "In The Breaks (corto.alto remix)",
+        "url": "https://open.spotify.com/album/2kXrlL7fHH6fS3NMAR7oDN"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        },
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        }
+      ],
+      "duration_ms": 286900,
+      "name": "In The Breaks (corto.alto remix)",
+      "url": "https://open.spotify.com/track/0eRkCKf80O2nSfTFg33OoV"
+    },
     {
       "added_at": "2025-03-07 05:00:20",
       "album": {
@@ -1043,26 +1087,6 @@
       "duration_ms": 254505,
       "name": "A Night In Tunisia",
       "url": "https://open.spotify.com/track/1MMywhwJKpbVZeDlBAzOAH"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "deep in it",
-        "url": "https://open.spotify.com/album/7ElbJht6FB0z3ykuVKEh1L"
-      },
-      "artists": [
-        {
-          "name": "berlioz",
-          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
-        },
-        {
-          "name": "Ted Jasper",
-          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
-        }
-      ],
-      "duration_ms": 154862,
-      "name": "deep in it",
-      "url": "https://open.spotify.com/track/3J2WUEn6oFN8eDPZov7w9I"
     },
     {
       "added_at": "2021-05-28 04:00:00",
@@ -2459,26 +2483,6 @@
       "duration_ms": 312450,
       "name": "Raz",
       "url": "https://open.spotify.com/track/1IHqcR48RW48H7S6sbiRC6"
-    },
-    {
-      "added_at": "2022-05-16 15:07:06",
-      "album": {
-        "name": "All Werk Is Play",
-        "url": "https://open.spotify.com/album/6B90X6Q8k7gL9EIwuRCgW6"
-      },
-      "artists": [
-        {
-          "name": "Werkha",
-          "url": "https://open.spotify.com/artist/5Mxf4advIPTDdAYqbJZBS0"
-        },
-        {
-          "name": "Kemani Anderson",
-          "url": "https://open.spotify.com/artist/1Ab3viBuyjYajaG82vcMID"
-        }
-      ],
-      "duration_ms": 276199,
-      "name": "Count Yer Pace (feat. Kemani Anderson)",
-      "url": "https://open.spotify.com/track/2T0hcwsOrlt2lFiWoY0mpT"
     },
     {
       "added_at": "2022-05-16 15:07:06",

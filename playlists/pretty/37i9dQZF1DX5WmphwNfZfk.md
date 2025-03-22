@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 40 Canadian artists to keep on your radar, according to our editors\. Cover: Tia Wood
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,916 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,919 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 39 | [RIGIO \(fall 4 u\)](https://open.spotify.com/track/1IFZwCYqLH5tGfp0V9YP4L) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh) | [RIGIO \(fall 4 u\)](https://open.spotify.com/album/31iHGzTpg9XlyaL7jZi3Uq) | 2:58 |
 | 40 | [Still \(Got Your Love\)](https://open.spotify.com/track/2OyWzhIOjcafQmZZujXdR7) | [88JETZ](https://open.spotify.com/artist/5sH7ccYejD8iCyhm39dur4), [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU), [Seamus Blake](https://open.spotify.com/artist/5tGDXwaO3qq4w9mAhZHwZY) | [Burkes Beach](https://open.spotify.com/album/3JiBxee3gaGom7vKK8UsWg) | 2:35 |
 
-Snapshot ID: `Z8p9bgAAAADAryV55rgWqsOeVwSXUCDA`
+Snapshot ID: `Z93BhwAAAAAO3f2FzPMShlmtNzX1ecCq`

@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-435 songs - 20 hr 42 min
+436 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Byzantine](https://open.spotify.com/track/71zcfefEk6z9LwMczxpp56) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r), [Protonebula](https://open.spotify.com/artist/79QsjitGhOGT7ixKYuWJun), [Glance](https://open.spotify.com/artist/4zsm9w2iVTLhuOIhnpqz9M), [Heem](https://open.spotify.com/artist/6P7RzcULDXBd32AI4Haw1m) | [Byzantine](https://open.spotify.com/album/6asKTaEIC7zt9Nb32ZaGV4) | 2:56 | 2023-08-22 | 2024-08-24 |
 | [C.F.D.](https://open.spotify.com/track/3vitE6XRGDP8SdoDwu40Ty) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 3:17 | 2023-08-22 | 2024-09-15 |
 | [Can't Tell At All](https://open.spotify.com/track/4MBb2iVB9E6ItQRvjbof6e) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Can't Tell At All](https://open.spotify.com/album/4vn4zydCK5o50MTei0AScf) | 2:29 | 2024-10-06 | 2025-02-12 |
-| [Canela](https://open.spotify.com/track/0ofN3zfVydTBy4gCG6qYTx) | [Juan Rios](https://open.spotify.com/artist/0LhotT6TyZgkzuLSd6pspG), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Canela](https://open.spotify.com/album/6tnks7s3orV2ji2DfnQA16) | 1:38 | 2025-03-07 |  |
+| [Canela](https://open.spotify.com/track/0ofN3zfVydTBy4gCG6qYTx) | [Juan Rios](https://open.spotify.com/artist/0LhotT6TyZgkzuLSd6pspG), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Canela](https://open.spotify.com/album/6tnks7s3orV2ji2DfnQA16) | 1:38 | 2025-03-07 | 2025-03-22 |
 | [Cap Camarat](https://open.spotify.com/track/4TWtN1Dyc4VpP5pJlpxj0z) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Cap Camarat](https://open.spotify.com/album/4MXJK2URbvnoLt3UTkezyP) | 4:15 | 2023-10-13 | 2024-06-05 |
 | [Carefree](https://open.spotify.com/track/2ryBcbgn5GnAUXvnp5qEHE) | [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf), [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv) | [Carefree](https://open.spotify.com/album/4PbGs6f2SjRCGe7GO6W2yL) | 2:04 | 2025-03-03 |  |
 | [Caresse](https://open.spotify.com/track/5vdXZnMr6JmyOhnEAdQGc9) | [Unwind Project](https://open.spotify.com/artist/1pKbeFgKBZ7fk5UVIxo6mf), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Caresse](https://open.spotify.com/album/03ci1mkaZ2iqhV4hdZP6XK) | 2:26 | 2024-10-25 |  |
@@ -367,6 +367,7 @@
 | [Sun Go Down](https://open.spotify.com/track/67b8oUDiOzfPPN2xDj4G0x) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Sun Go Down](https://open.spotify.com/album/6tGejsu1Row5Qg2MD6fRl3) | 3:12 | 2023-10-13 | 2024-08-24 |
 | [Sun Pearl](https://open.spotify.com/track/5LjZEYX7n9A11HWjK6p6i4) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP) | [Sun Pearl](https://open.spotify.com/album/0ZHyru8Q1RIVDSjwjkKsZA) | 2:29 | 2024-09-06 |  |
 | [Sun Will Return](https://open.spotify.com/track/3v9jahFclaoAvtdUH5poi9) | [H.1](https://open.spotify.com/artist/3azKf6nXrUCI1RLZkX4Aj6) | [Sun Will Return](https://open.spotify.com/album/0JUhZzYeWBtCflcXLlr3jh) | 1:57 | 2025-03-07 |  |
+| [Sunchaser](https://open.spotify.com/track/4vkxHhK63UV9meYJnUnJ8h) | [Oskartello](https://open.spotify.com/artist/4sVlDumEDa7ODU6ON6vjSa), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Porcel](https://open.spotify.com/artist/5Hk0Mny2WBqXDCWicNmD2G) | [Sunchaser](https://open.spotify.com/album/11SnxUd7Oalmr5sjmvdpMN) | 2:13 | 2025-03-14 |  |
 | [Sunday Swing](https://open.spotify.com/track/4XJyLqHI1dia3lg4S3yRPo) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [J Fletch](https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8), [Cvsket Pretty](https://open.spotify.com/artist/1B83te5eJCjyjR5b9s7h3I) | [Sunday Swing](https://open.spotify.com/album/4HDZAScIpwnba0JIG77NnQ) | 2:19 | 2024-11-15 |  |
 | [Sunflowers \- Instrumental](https://open.spotify.com/track/0Spn2gcB1w7RYrrvauzZCY) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Sunflowers \(Instrumental\)](https://open.spotify.com/album/4zXbaFi87STWtKMS4bAuXo) | 3:01 | 2024-03-20 | 2024-08-24 |
 | [Sunflowers \- Instrumental](https://open.spotify.com/track/4QbGLxnTppGc8Ezpj7sPz7) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Instrumentals JID009](https://open.spotify.com/album/1pgEGAlSKQqofycTIjSW4g) | 3:01 | 2023-08-25 | 2024-02-28 |

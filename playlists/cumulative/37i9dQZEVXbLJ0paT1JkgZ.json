@@ -84,7 +84,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 153750,
       "name": "111",
       "url": "https://open.spotify.com/track/2SPBFiD8iITb8CKJGz1TEQ"
@@ -765,6 +765,28 @@
     },
     {
       "album": {
+        "name": "BANSHEE",
+        "url": "https://open.spotify.com/album/3Ory0Dd1Nrslodb0Po92AN"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187466,
+      "name": "BANSHEE",
+      "url": "https://open.spotify.com/track/2phA5dZJrWqOBrOHFAgrjQ"
+    },
+    {
+      "album": {
         "name": "Los Gangsters Tambien Lloran",
         "url": "https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR"
       },
@@ -858,6 +880,28 @@
       "duration_ms": 197333,
       "name": "BELLAKEO",
       "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
+    },
+    {
+      "album": {
+        "name": "FINALMENTE FELIZ",
+        "url": "https://open.spotify.com/album/2op0KVtO5LVS6n01nqAqrV"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199697,
+      "name": "BELLAQUERA",
+      "url": "https://open.spotify.com/track/4sS9v4Ov2ub7sIwxvtv0NC"
     },
     {
       "album": {
@@ -1186,7 +1230,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 174412,
       "name": "CHIKA MALA",
       "url": "https://open.spotify.com/track/2SuosMcETUjDfBRobLLTQm"
@@ -1682,7 +1726,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-08",
+      "date_removed": null,
       "duration_ms": 170024,
       "name": "Del Lune Al Finde",
       "url": "https://open.spotify.com/track/6lJnhXe8K2NStF39a1ZORe"
@@ -1892,7 +1936,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 141573,
       "name": "D\u00c1NDOLE, D\u00c1NDOLE",
       "url": "https://open.spotify.com/track/0T9lWaBwZjqvkp3Lvi8aTZ"
@@ -2032,7 +2076,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 136624,
       "name": "el final (intro/outro)",
       "url": "https://open.spotify.com/track/3rzS5VpIuPHYCOUkP9Kz5S"
@@ -2322,7 +2366,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 154462,
       "name": "Ese Guille",
       "url": "https://open.spotify.com/track/1DFLbi4TVAwgYWcV76Rcwa"
@@ -2464,7 +2508,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 135529,
       "name": "FR\u00cdO (interludio)",
       "url": "https://open.spotify.com/track/3zwbdPvY4YV4Z7ZfCoRm4A"
@@ -3788,7 +3832,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 140112,
       "name": "Mi Autom\u00f3vil",
       "url": "https://open.spotify.com/track/4aOp0PlHbZl4lPIsi5CyLO"
@@ -3974,7 +4018,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 133137,
       "name": "Mir\u00e1ndome:(",
       "url": "https://open.spotify.com/track/2wrz8kVeFOZnkNLbfXUYbG"
@@ -4006,7 +4050,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 259437,
-      "name": "MISIONAR",
+      "name": "Misionar",
       "url": "https://open.spotify.com/track/0MTZm8KRFCeBlE4UHar3lg"
     },
     {
@@ -5238,7 +5282,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 157585,
       "name": "Recu\u00e9rdame </3",
       "url": "https://open.spotify.com/track/1rZF73DkVW8oKtbPjfnPeq"
@@ -6070,7 +6114,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 201027,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/0vfPiExVUcECwzpQ3vfV0R"
@@ -6110,6 +6154,28 @@
       "duration_ms": 110053,
       "name": "Te Miro la Cara y Me Da Sed",
       "url": "https://open.spotify.com/track/11fJouJwR4m6A48CC40qHi"
+    },
+    {
+      "album": {
+        "name": "Te Quer\u00eda Ver",
+        "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176129,
+      "name": "Te Quer\u00eda Ver",
+      "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
     },
     {
       "album": {
@@ -6298,7 +6364,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 190049,
       "name": "Un D\u00eda",
       "url": "https://open.spotify.com/track/4iCs7cZB4yr5PyI5Jn6G6B"
@@ -6780,7 +6846,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 226478,
       "name": "\u00c1ngeles",
       "url": "https://open.spotify.com/track/3HesEYaw8nJorCAWl4SEaQ"

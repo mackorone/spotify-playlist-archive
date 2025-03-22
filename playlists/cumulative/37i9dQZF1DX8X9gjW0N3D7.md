@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\. Photo: Ariane Moffatt
 
-147 songs - 7 hr 55 min
+148 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [C'était salement romantique \- Reprise](https://open.spotify.com/track/6gdBIxmojnm85w2VpFcP8p) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [C'était salement romantique \(Reprise\)](https://open.spotify.com/album/2RyqxGld3TAwD7iv0RNMRM) | 3:08 | 2024-06-28 | 2024-09-28 |
 | [Caroline](https://open.spotify.com/track/4j12U6gGJEFTubkBPGU95l) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Caroline](https://open.spotify.com/album/1OV6TDTQOfIqR0rfFx9s4p) | 2:42 | 2025-02-07 | 2025-03-15 |
 | [Chance](https://open.spotify.com/track/6WnqfeV1QsQjrDSRmdv16Q) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Chance](https://open.spotify.com/album/7vXh4lUacVjLfxdfmyHz1K) | 3:27 | 2024-06-28 | 2024-08-31 |
+| [Chaotique](https://open.spotify.com/track/5FK2YmzIrzkUIXxuidkXkS) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [Crève\-Coeur](https://open.spotify.com/album/2AUEiDEgNGvJBquq61suDN) | 3:14 | 2025-03-21 |  |
 | [Chasing Sunsets \(V.F\)](https://open.spotify.com/track/4XGom6Qy5JpWqsjALQMDve) | [Blue Ridge Band](https://open.spotify.com/artist/2yE8COtZJKf4SgSNz3wW6u) | [Chasing Sunsets \(V.F\)](https://open.spotify.com/album/44t8sMpi3uiGbK7E9z22tu) | 3:06 | 2024-06-28 | 2024-11-16 |
 | [Coffee](https://open.spotify.com/track/4ZXYe1nSGi6sxutBi1xApf) | [Fuso](https://open.spotify.com/artist/3LYl9B0Gfmz00OwCTKCkCh), [Dub Silence](https://open.spotify.com/artist/3Z78MYUojWImmYmQgadcsr), [Adamo](https://open.spotify.com/artist/3FOto5lv6R7HS5DjsfxEqW) | [Leela](https://open.spotify.com/album/7yLXm3F5E50rIqAiqsRKZi) | 2:47 | 2024-07-26 |  |
 | [Comme Avant](https://open.spotify.com/track/0u8VoI8F0JIL2Oq240vWuV) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [Comme Avant](https://open.spotify.com/album/102GkrErk0tQ4aqUOayWtg) | 2:26 | 2024-06-28 | 2024-08-17 |
@@ -65,7 +66,7 @@
 | [Je t'aimais, je t'aime, je t'aimerai](https://open.spotify.com/track/6dlGymd4InomupjnbFOoH5) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Je t'aimais, je t'aime, je t'aimerai](https://open.spotify.com/album/03qYkWL3NxKrDLVjtmqYAf) | 3:41 | 2024-08-23 |  |
 | [Je te dirai tout](https://open.spotify.com/track/7u6H9XrZXYVaRa09dnyhkK) | [Sylvain Cossette](https://open.spotify.com/artist/660PvqDaksGwQPFLbAy7pb) | [Je te dirai tout](https://open.spotify.com/album/03IRytXE6d67O40ixx6Xa2) | 2:50 | 2024-06-28 | 2025-01-18 |
 | [Jouer](https://open.spotify.com/track/2N3hy5pmIniu74CYQ4NgdL) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Jouer](https://open.spotify.com/album/5Erz4Q7ny0yoo09VTycNEg) | 3:06 | 2025-02-21 |  |
-| [Jouer pour jouer](https://open.spotify.com/track/1P1W8f5D0BXyw4GzwkfSCY) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Jouer pour jouer](https://open.spotify.com/album/2PLDtWbg3zLz92lGHwOpYq) | 3:11 | 2024-06-28 |  |
+| [Jouer pour jouer](https://open.spotify.com/track/1P1W8f5D0BXyw4GzwkfSCY) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Jouer pour jouer](https://open.spotify.com/album/2PLDtWbg3zLz92lGHwOpYq) | 3:10 | 2024-06-28 |  |
 | [L'autre hémisphère](https://open.spotify.com/track/7irvZlBqN7beslyn6EYJ3q) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [L'autre hémisphère](https://open.spotify.com/album/7FMTj5WXP0mLjPAiJIXluH) | 3:41 | 2024-08-09 |  |
 | [La fin du show](https://open.spotify.com/track/5UrNvwWNKGhpfuI6c1kH58) | [Les Cowboys Fringants](https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a) | [Pub Royal](https://open.spotify.com/album/2aQeozGyIhuzJo1q0RHF6U) | 7:16 | 2024-06-28 |  |
 | [La fête \- Radio Edit](https://open.spotify.com/track/1Jbmi0xYUQ01AzNCPfrmR2) | [Éléonore Lagacé](https://open.spotify.com/artist/3el018EY0lmSRv79CZORvk) | [La fête \(Radio Edit\)](https://open.spotify.com/album/24B7vQZAv39Un5u163PsZS) | 3:05 | 2024-06-28 |  |
@@ -111,7 +112,7 @@
 | [Paradis](https://open.spotify.com/track/3c1bo4qk0qA8qs7vDdQ8CW) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Paradis](https://open.spotify.com/album/6d4EHgbuvkVNNEHWLKPf8w) | 2:47 | 2024-06-28 | 2024-08-10 |
 | [Paranoïa etc.](https://open.spotify.com/track/44sGbp0IOD4JgnFN9Oq7IS) | [Caracol](https://open.spotify.com/artist/7q7gMpTUdEVOombfNjJSLa) | [Paranoïa etc.](https://open.spotify.com/album/4wNsmCPiKKiyqXmYgIIx37) | 2:56 | 2024-10-11 | 2025-01-18 |
 | [Pomme](https://open.spotify.com/track/26s7UGEzE0vfIK7BxvWb8q) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys), [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Pomme](https://open.spotify.com/album/7I2rduDJv8Np37F3cQuupC) | 2:59 | 2024-07-12 |  |
-| [Pris mes jambes à mon cou](https://open.spotify.com/track/5eOVmRGm4DERbVGt5Gxy0k) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [Pris mes jambes à mon cou](https://open.spotify.com/album/6L5fUrhOffxBgXJc7Y3IqE) | 2:48 | 2025-01-17 |  |
+| [Pris mes jambes à mon cou](https://open.spotify.com/track/5eOVmRGm4DERbVGt5Gxy0k) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [Pris mes jambes à mon cou](https://open.spotify.com/album/6L5fUrhOffxBgXJc7Y3IqE) | 2:48 | 2025-01-17 | 2025-03-22 |
 | [Punch\-Out](https://open.spotify.com/track/4gVb8jzBgCUnVNp5678xe4) | [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Punch\-Out](https://open.spotify.com/album/7DleuXqo8KvKnrnRFLNj51) | 3:06 | 2025-02-07 |  |
 | [Quand il s'en va](https://open.spotify.com/track/7wkfNPTnFYIuyZvE2i3ZFo) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz), [Anggun](https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA) | [Quand il s'en va](https://open.spotify.com/album/6VJAhUbwVq3WCOlxDGgVH9) | 4:01 | 2024-06-28 | 2025-02-22 |
 | [Quand même](https://open.spotify.com/track/1sC4zWgATUKk6hNnaWOeKa) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Quand même](https://open.spotify.com/album/5gUYflyaZi4JNtAkoJcRNJ) | 3:11 | 2025-01-24 |  |

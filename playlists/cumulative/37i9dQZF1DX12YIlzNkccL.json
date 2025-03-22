@@ -2071,6 +2071,28 @@
     },
     {
       "album": {
+        "name": "Beethoven: Piano Sonata No. 29 \"Hammerklavier\"; An die ferne Geliebte (Arr. Liszt)",
+        "url": "https://open.spotify.com/album/5apkyGtm23mbUibaDvxSwI"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Nobuyuki Tsujii",
+          "url": "https://open.spotify.com/artist/5JvADyrajwcXaAeqxyDg5j"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290106,
+      "name": "Piano Sonata No. 8 in C Minor, Op. 13 \"Path\u00e9tique\": II. Adagio cantabile",
+      "url": "https://open.spotify.com/track/29r77wROzIQ9N6MSbmhbdh"
+    },
+    {
+      "album": {
         "name": "Beethoven: The Piano Sonatas, Volume II (Live)",
         "url": "https://open.spotify.com/album/3yG6WwxrY6WHFsSXjDymzH"
       },
@@ -2086,7 +2108,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 314186,
       "name": "Piano Sonata No. 8 in C Minor, Op. 13 \"Path\u00e9tique\": II. Adagio cantabile - Live at Tonhalle Z\u00fcrich, 2004",
       "url": "https://open.spotify.com/track/2zExp0TMKzbEkssEDJ7uf2"
@@ -3628,10 +3650,40 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 486000,
       "name": "Violin Concerto in D Major, Op. 61: II. Larghetto",
       "url": "https://open.spotify.com/track/4BWs1bcs60wjW56SyoHjQi"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Violin Concerto in D Major, Op. 61: II. Larghetto",
+        "url": "https://open.spotify.com/album/7vmiXrIjjRNN5dy00sCtnX"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Nicola Benedetti",
+          "url": "https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW"
+        },
+        {
+          "name": "Aurora Orchestra",
+          "url": "https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ"
+        },
+        {
+          "name": "Nicholas Collon",
+          "url": "https://open.spotify.com/artist/23qJKSvfqtc9c3VFwdEV4a"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 546933,
+      "name": "Violin Concerto in D Major, Op. 61: II. Larghetto",
+      "url": "https://open.spotify.com/track/14sRnzorGSPbWzTnISgQYr"
     },
     {
       "album": {

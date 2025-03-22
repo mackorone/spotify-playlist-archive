@@ -4,7 +4,7 @@
 
 > Featuring the talented songwriters behind your favorite country songs\. Cover: Lori McKenna
 
-266 songs - 15 hr 34 min
+267 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Leaving You](https://open.spotify.com/track/4nwSN6bLSMQycNLDkOtIRf) | [Corey Crowder](https://open.spotify.com/artist/0Om7HtVeWrbWwWdOo1W5rf) | [Gold And The Sand](https://open.spotify.com/album/2inQbhKxH3ZTW2kkvGTPfz) | 3:02 | 2022-01-01 | 2024-08-31 |
 | [Lessons \(Acoustic\)](https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw) | [Tommy Karlas](https://open.spotify.com/artist/7t5t9O35bE8qMnUAybSzbY) | [Put It in Drive](https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB) | 3:11 | 2022-01-01 | 2024-08-31 |
 | [Letting People Down](https://open.spotify.com/track/2pFFjOgqqpNEVSi9ks7xyo) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [1988](https://open.spotify.com/album/2wHfMrmQ08JMxp2i5jCSrm) | 2:56 | 2023-07-21 | 2024-08-31 |
+| [Liar](https://open.spotify.com/track/6nTL6wBQRDDfNRG3zmVrUW) | [WHYNOT](https://open.spotify.com/artist/333OBkkb9NQkFRT1Yt3Flh) | [Liar](https://open.spotify.com/album/0ZS9B0evqmasdBoVIMzCXI) | 2:47 | 2025-03-21 |  |
 | [Like You Found Me](https://open.spotify.com/track/44ezqJtwmvnvssre5oQUIz) | [Brett James](https://open.spotify.com/artist/3WIMGDdZYN91QQr3zGzpxo) | [Tell the People](https://open.spotify.com/album/0AXC4SSbB9ojN8ZFxXNTwt) | 3:20 | 2022-01-01 | 2024-08-31 |
 | [Live It Up](https://open.spotify.com/track/5CcIVjWnXxXJqGLnBVtgLP) | [Joey Hyde](https://open.spotify.com/artist/6zAROtrmmahss9R8KCCWRo) | [Live It Up](https://open.spotify.com/album/6juq8VGe9hkJQdIanJm1rm) | 3:16 | 2022-02-28 |  |
 | [Livin' the Dream](https://open.spotify.com/track/5jjR1D16p3FrJ5fQKuLuTX) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:03 | 2022-01-01 |  |

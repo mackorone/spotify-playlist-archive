@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 
 ### [XL Play](https://open.spotify.com/playlist/1IUF5q4IvkjylMhd9P0urE)
 
-> Our favourite new music, updated monthly by the XL team.
+> Our favourite new music, curated by the XL team.
 
-[XL Recordings](https://open.spotify.com/user/xlrecordings) - 16,423 likes - 112 songs - 5 hr 59 min
+[XL Recordings](https://open.spotify.com/user/xlrecordings) - 16,432 likes - 113 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,5 +120,6 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 | 110 | [ELLA QUIERE QUE LE DEN \- CHOKALA](https://open.spotify.com/track/4AkOwXrTxWL1zvqKcZ3lYL) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Paramba](https://open.spotify.com/artist/2JJeLxFOub3q1h6GTKOOBi), [CREADOR](https://open.spotify.com/artist/0SsoQFZXKE0Szow7wdZ3yO) | [ELLA QUIERE QUE LE DEN \(CHOKALA\)](https://open.spotify.com/album/6WgXUJNPOPuvmMr2wQTXfJ) | 2:44 |
 | 111 | [Paxangone](https://open.spotify.com/track/2jJZNl8gUUyAguv9VsjJAV) | [DNGDNGDNG](https://open.spotify.com/artist/4qw8wHJ1ZGNFQVZ1zM4NOq), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Agita2](https://open.spotify.com/album/7docyZovuPh30ndD3HV90O) | 2:41 |
 | 112 | [Where's The Daddy?](https://open.spotify.com/track/2xnFroyqH6GJDkuCUCMTMF) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Where's The Daddy ?](https://open.spotify.com/album/23WBjm2FPx79LEaSKjPWwZ) | 2:52 |
+| 113 | [It's Amazing To Be Young](https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [It's Amazing To Be Young](https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs) | 3:30 |
 
-Snapshot ID: `AAAYzIt/pYn61Afi/M/KYfw9J6zhVW9R`
+Snapshot ID: `AAAYzoV1EoyKGd6RoSSk+ZrvHVdcuB4r`

@@ -2,7 +2,7 @@
 
 ### [Los Que Mandan \- Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DXb0COFso7q0D)
 
-> The playlist sin fronteras elevando a la Música Mexicana\. Cover: Eslabon Armado
+> The playlist sin fronteras elevando a la Música Mexicana\. Cover: Tito Double P
 
 833 songs - 1 day 19 hr 2 min
 

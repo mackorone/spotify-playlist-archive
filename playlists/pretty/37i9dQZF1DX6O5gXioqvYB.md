@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Il futuro dell'indie italiano è in questa playlist 👀 Cover: Giovanni Toscano
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,279 likes - 110 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,297 likes - 110 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 109 | [Farla Facile](https://open.spotify.com/track/3vFkSDqxkQ86gEzZHvNznx) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Farla Facile](https://open.spotify.com/album/4c13CaC4uNfNiGL3EnLUo8) | 3:54 |
 | 110 | [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 |
 
-Snapshot ID: `Z9yeNwAAAADDLMTXi4lgPTy0FbOYR/p9`
+Snapshot ID: `Z90mxQAAAAC4TmrIR1DscLSO19HffCDT`

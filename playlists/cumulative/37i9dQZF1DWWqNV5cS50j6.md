@@ -4,7 +4,7 @@
 
 > Alternative indie music etc\. Cover: Sam Austins
 
-1,837 songs - 3 day 16 hr 20 min
+1,838 songs - 3 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -724,6 +724,7 @@
 | [High \- Remix](https://open.spotify.com/track/1YTslvpUMCvbo2GMR25LTq) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [High \(Remix\)](https://open.spotify.com/album/38MrNIfXvvdnU0WxeArHSd) | 1:56 | 2024-03-08 | 2024-06-01 |
 | [High Beams \- JPEGMAFIA Remix](https://open.spotify.com/track/1Iq11CQ74BtnSzV5l9u5Yy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [High Beams \(JPEGMAFIA Remix\)](https://open.spotify.com/album/26IbYjt4LS9d5QqMBemBti) | 2:37 | 2022-10-14 | 2023-01-28 |
 | [HIGHJACK](https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [HIGHJACK](https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL) | 3:10 | 2024-08-08 | 2024-09-15 |
+| [Highway Hex](https://open.spotify.com/track/2vfEXLJbi4jEnKG2OFkYC3) | [Ghost Mountain](https://open.spotify.com/artist/5Hxx7FpVvps2OZLl6LUfJi), [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC) | [October Country](https://open.spotify.com/album/297WYgy6pW0YZhSRRiGImK) | 2:45 | 2025-03-21 |  |
 | [HIGHWITCHA](https://open.spotify.com/track/7B63qxsALIx0CgOIZK2KZy) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [HIGHWITCHA](https://open.spotify.com/album/0jm2bQw1Gk8MokQr23MlCh) | 2:15 | 2024-03-01 | 2024-04-27 |
 | [HILL$](https://open.spotify.com/track/5Kh8IpsqrQIlMdPKi7WSbA) | [LORD$OFDOGTOWN](https://open.spotify.com/artist/3MR1RYx6wS8n93uSVpYoQ5) | [HILL$](https://open.spotify.com/album/4U9ClDKHyxKnAqdVufDn0n) | 2:22 | 2022-08-26 | 2022-09-24 |
 | [HIMBO](https://open.spotify.com/track/6p3E1pfSwR1UPK8s4OVQOD) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [HIMBO/GOD'S LONELY MAN](https://open.spotify.com/album/2rHMPRzjudUluNghHTKsLq) | 1:52 | 2023-03-17 | 2023-10-21 |

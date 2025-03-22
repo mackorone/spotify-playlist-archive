@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español\. Foto: Aitana, Myke Towers
 
-679 songs - 1 day 10 hr 3 min
+681 songs - 1 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 | 2024-02-12 | 2024-02-27 |
 | [amor de verano](https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [amor de verano](https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG) | 2:56 | 2023-12-18 | 2024-06-22 |
 | [AQYNE](https://open.spotify.com/track/3dFu4LIz5TqqWRISI7CJj1) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 3:01 | 2023-09-25 | 2024-02-03 |
-| [Aroma \(HMMM\)](https://open.spotify.com/track/2VpoSO7cRJvkNBWypTPvqc) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [Aroma \(HMMM\)](https://open.spotify.com/album/4VYqQJVw2wS6k7Brt0DnWe) | 3:13 | 2025-03-13 |  |
+| [Aroma \(HMMM\)](https://open.spotify.com/track/2VpoSO7cRJvkNBWypTPvqc) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [Aroma \(HMMM\)](https://open.spotify.com/album/4VYqQJVw2wS6k7Brt0DnWe) | 3:13 | 2025-03-13 | 2025-03-22 |
 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 | 2023-03-13 | 2023-09-19 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2023-07-10 | 2023-08-02 |
 | [ASI ES LA VIDA](https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [ASI ES LA VIDA](https://open.spotify.com/album/6qW93Zylfk7oxZ8ZzwjkL5) | 2:52 | 2023-09-28 | 2024-05-21 |
@@ -279,7 +279,7 @@
 | [ILY](https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ILY](https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW) | 3:36 | 2025-03-06 |  |
 | [Imagínate](https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Imagínate](https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8) | 2:50 | 2024-11-12 | 2025-01-24 |
 | [IMAN \(Two Of Us\)](https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [IMAN \(Two Of Us\)](https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb) | 2:02 | 2024-05-20 | 2024-06-04 |
-| [Inalcanzable](https://open.spotify.com/track/36iJXBQrQ71wjdTjGdHBxd) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Inalcanzable](https://open.spotify.com/album/2Em3g2pdATTSxa6IY7ekC6) | 2:55 | 2024-12-09 |  |
+| [Inalcanzable](https://open.spotify.com/track/36iJXBQrQ71wjdTjGdHBxd) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Inalcanzable](https://open.spotify.com/album/2Em3g2pdATTSxa6IY7ekC6) | 2:55 | 2024-12-09 | 2025-03-22 |
 | [Inmortal](https://open.spotify.com/track/2Xkxoluz9GQnQYAjxXImGG) | [Malmö 040](https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP) | [Los Cobardes Viven Siempre](https://open.spotify.com/album/3XlG8WaWzdjhDXuaRmOlaC) | 3:35 | 2023-03-13 | 2023-03-25 |
 | [INSOMNIO](https://open.spotify.com/track/2LnUHC7HB5n5e5LzHxQuJi) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [INSOMNIO](https://open.spotify.com/album/5uMSlAYTRCqjqGP32e30pC) | 3:38 | 2024-08-12 | 2024-12-10 |
 | [iPHONE AZUL](https://open.spotify.com/track/5zLDQe46BgMWYeACNvW4Pv) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [iPHONE AZUL](https://open.spotify.com/album/4PyEEGtGEPCZwLlSjq5VEg) | 2:49 | 2023-10-16 | 2023-10-28 |
@@ -306,6 +306,7 @@
 | [La Mitad](https://open.spotify.com/track/6S8iQ25fncoSMGmW5yIVRs) | [Miki Núñez](https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB), [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [La Mitad](https://open.spotify.com/album/6lZsvhLRRyiBu4jmBh5gJd) | 2:34 | 2023-03-13 | 2023-03-22 |
 | [La Musiquita](https://open.spotify.com/track/5LNJHJJd8aBY0aW9CgSgbz) | [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [La Musiquita](https://open.spotify.com/album/2mQia3ylnBOcvrEWMRZ0On) | 2:48 | 2023-03-13 | 2023-09-26 |
 | [La Noche Perfecta](https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [La Noche Perfecta](https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa) | 2:45 | 2023-05-30 | 2023-12-19 |
+| [La Pelirroja](https://open.spotify.com/track/6Jz04ruR15iuwrUwW3usr9) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [La Pelirroja](https://open.spotify.com/album/4DqYrcBKkblqWqbOpUWCK1) | 2:44 | 2025-03-21 |  |
 | [La Policía](https://open.spotify.com/track/0ZhdPl4IGi5OhxoCF59CBh) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [La Policía](https://open.spotify.com/album/4AKbSeK2V2dS3pPf3inLog) | 2:37 | 2024-12-02 | 2025-01-10 |
 | [LA PRIMERA](https://open.spotify.com/track/5L13lvUrc2AVyTtPEFda28) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [LA PRIMERA](https://open.spotify.com/album/7qWtxmWxkwl8UF0h9b367O) | 2:32 | 2023-06-12 | 2023-06-27 |
 | [La Razón](https://open.spotify.com/track/3CmSv76KDKsvtiyrdgHZHH) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [La Razón](https://open.spotify.com/album/1BfH1Sen3V361yL4Yck3Rg) | 2:42 | 2024-05-06 | 2024-09-18 |
@@ -503,6 +504,7 @@
 | [Potra Salvaje](https://open.spotify.com/track/3YdO85gX8HaetzvHCaFIQM) | [Isabel Aaiún](https://open.spotify.com/artist/5qSwpcWU98AJITpF4USeC3) | [Potra Salvaje](https://open.spotify.com/album/3D9wp2XCEWWoZMCS271WzI) | 3:19 | 2024-07-04 | 2024-08-27 |
 | [Primeros intentos](https://open.spotify.com/track/1iFpmzn9kyH8alTp0uM8rX) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Contacto Cero](https://open.spotify.com/album/6nVG9HSp1l0DdQkAl1tA10) | 2:33 | 2024-04-23 | 2024-04-26 |
 | [princess peach](https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 2:46 | 2024-04-08 | 2024-04-13 |
+| [Priti](https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Priti](https://open.spotify.com/album/6PJtmcd3jv2afBCZ3GSdsB) | 2:10 | 2025-03-21 |  |
 | [Psycho](https://open.spotify.com/track/56f2EfGZQyygTlqfstY7yU) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi) | 3:13 | 2023-05-03 | 2023-05-17 |
 | [Pueblo Salvaje](https://open.spotify.com/track/2YkBIlrhKqmKhxNZJLNTti) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [Pueblo Salvaje](https://open.spotify.com/album/0cLZ1oITv9JWWEANBM6Yf1) | 3:25 | 2025-01-13 | 2025-01-24 |
 | [Puede K Nos Liemos](https://open.spotify.com/track/6SwuaIsG5cXhP8HD985c1d) | [Almacor](https://open.spotify.com/artist/5H9v9M3T2XhWT3XvOKo8sy), [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Puede K Nos Liemos](https://open.spotify.com/album/04gBRmcV12Qo94MZmQR6hX) | 2:36 | 2024-06-03 | 2024-11-26 |

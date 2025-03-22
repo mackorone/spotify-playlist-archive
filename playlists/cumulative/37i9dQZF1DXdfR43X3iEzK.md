@@ -4,7 +4,7 @@
 
 > my alt/pop could mean anything.<br/>cover: woody
 
-225 songs - 11 hr 50 min
+228 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Boyfriend](https://open.spotify.com/track/7r7RrAfvDiPYXm844DOSYT) | [Dirt Flirt](https://open.spotify.com/artist/3T4wXV4IkOAtdBXIJ2TpLE) | [Boyfriend](https://open.spotify.com/album/55HcEdFWzWzsWkhOH5fU8B) | 3:00 | 2025-03-21 |  |
 | [BOYS](https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [BOYS](https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15) | 2:25 | 2024-06-07 | 2025-03-14 |
 | [breath away](https://open.spotify.com/track/1oic0Wedm3XeHxwaxmwO91) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 2:46 | 2024-06-07 | 2025-03-08 |
-| [Bubblegum](https://open.spotify.com/track/2gLOlKQoLj4kwMrPxqzB9l) | [Nii](https://open.spotify.com/artist/4EuozD5gx5k8S76xh8XwnV) | [Bubblegum](https://open.spotify.com/album/3VDnNqarTJu4AGXtxZU4Ox) | 4:36 | 2025-03-21 |  |
+| [Bubblegum](https://open.spotify.com/track/2gLOlKQoLj4kwMrPxqzB9l) | [Nii](https://open.spotify.com/artist/4EuozD5gx5k8S76xh8XwnV) | [Bubblegum](https://open.spotify.com/album/3VDnNqarTJu4AGXtxZU4Ox) | 4:36 | 2025-03-21 | 2025-03-22 |
 | [Cagematch](https://open.spotify.com/track/2o3XsgMX2lJqVgBwjCJAL5) | [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9), [Knapsack](https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI) | [Cagematch](https://open.spotify.com/album/143g6glDC87OmRROIgPH82) | 2:37 | 2025-03-14 |  |
 | [Call Me By Your Name](https://open.spotify.com/track/1CIy9H06HPGqs92dnKGTTG) | [Barny Fletcher](https://open.spotify.com/artist/5q9zHGohILrZ2j1bSL1VeG) | [Call Me By Your Name](https://open.spotify.com/album/1Rgi7cJxdtyEBiw82eRo0H) | 3:00 | 2025-03-14 | 2025-03-21 |
 | [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 | 2024-06-07 | 2025-03-08 |
@@ -47,7 +47,7 @@
 | [CARRY YOU](https://open.spotify.com/track/5rCgj5fATSArrdlnZSekLk) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [CARRY YOU](https://open.spotify.com/album/06nu3BwrAi9xuWMtQq1f0k) | 3:08 | 2024-08-08 | 2024-10-11 |
 | [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 | 2024-06-07 | 2025-03-08 |
 | [charm bracelet](https://open.spotify.com/track/1VnJctj1fsfZFXeFkk4dVz) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [charm bracelet](https://open.spotify.com/album/7hIWydGtQ3uPp1Olv0m0yc) | 2:12 | 2025-03-14 |  |
-| [Cherish](https://open.spotify.com/track/4wjUKBp6k3jWD603S3H6do) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [Cherish](https://open.spotify.com/album/3DSnS2AnWpB6FkKoIOMJL4) | 2:31 | 2025-03-21 |  |
+| [Cherish](https://open.spotify.com/track/4wjUKBp6k3jWD603S3H6do) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [Cherish](https://open.spotify.com/album/3DSnS2AnWpB6FkKoIOMJL4) | 2:31 | 2025-03-21 | 2025-03-22 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-06-07 | 2025-03-14 |
 | [CITY IN LOVE](https://open.spotify.com/track/5kpgZCndlAvQXrzuiFjVdp) | [Aki Oke](https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv) | [CITY IN LOVE](https://open.spotify.com/album/2fPJV6UZsm54pYXX7HFRf1) | 2:42 | 2025-03-21 |  |
 | [Close Range](https://open.spotify.com/track/7cHlNnLJD0RPhALmesnneD) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Close Range](https://open.spotify.com/album/4USUstWxap4sq9pHQPbVPI) | 3:18 | 2025-03-14 |  |
@@ -64,6 +64,7 @@
 | [Death & Romance](https://open.spotify.com/track/5jnlJbBK53L6Nd3ox8T0ot) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Death & Romance](https://open.spotify.com/album/51g8P7ai5xyj970iIdmMFz) | 5:14 | 2024-06-07 | 2025-03-14 |
 | [Decimal](https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Decimal](https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl) | 2:32 | 2024-10-10 | 2025-03-21 |
 | [Delirium](https://open.spotify.com/track/4uDSbSTjuPL75gz5Z3ABHH) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Delirium](https://open.spotify.com/album/0RRGB1JrVg84M72UL19BmT) | 2:46 | 2024-08-23 | 2024-10-14 |
+| [digital emotional](https://open.spotify.com/track/2OjlCM4BoucwcJIqqeHwP0) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [digital emotional](https://open.spotify.com/album/3krbJzvRnqxeRUJrstAD4b) | 3:37 | 2025-03-21 |  |
 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 | 2024-07-12 | 2025-03-14 |
 | [Dive](https://open.spotify.com/track/5WMA8AmXGff8wo450I3Ecn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Dive](https://open.spotify.com/album/1bSqgLKbe0KMX9RcjYvtkX) | 3:59 | 2024-06-07 | 2025-03-08 |
 | [Do Not Go Gentle into Goodbyes](https://open.spotify.com/track/4J5MVJGewv7MjA2uuruxGV) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [Anti\-People Pleaser, Pt\. 1](https://open.spotify.com/album/5Qf3rfAwHvdye91p3ebaiu) | 4:13 | 2025-03-14 |  |
@@ -103,9 +104,10 @@
 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-08 | 2025-03-14 |
 | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk) | 3:31 | 2024-10-10 | 2025-03-14 |
 | [Happy World](https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Happy World](https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh) | 2:59 | 2024-06-07 | 2025-03-08 |
+| [harlequin/los días azules](https://open.spotify.com/track/6Hr364Nq8YBBBRLbgVKdOR) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [harlequin/los días azules](https://open.spotify.com/album/0vkm8EXlPx69p5lqOuZ3BN) | 3:30 | 2025-03-21 |  |
 | [Heartache](https://open.spotify.com/track/39GZz9WxQpwJul7NnfBTb3) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2) | 4:35 | 2024-06-07 | 2024-07-27 |
 | [heartbreak hotel](https://open.spotify.com/track/1VvYJUC8XGh1U1vJo8y63H) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [heartbreak hotel](https://open.spotify.com/album/1kIBEr0xRymkmsXeRc2kPS) | 2:56 | 2025-03-21 |  |
-| [Heavy](https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU) | [florence road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Heavy](https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe) | 3:20 | 2025-03-14 |  |
+| [Heavy](https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Heavy](https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe) | 3:20 | 2025-03-14 |  |
 | [Hello Lonely](https://open.spotify.com/track/0eFTxYwpRTxyefxYlBJq6L) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Radiosoul](https://open.spotify.com/album/0GpklLqjWNrhropGa4XRRD) | 3:31 | 2024-06-07 | 2024-07-25 |
 | [HERicane](https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [HERicane](https://open.spotify.com/album/4YQ8O3PQb7cZnnLeqNPaa1) | 3:47 | 2024-06-07 | 2025-03-08 |
 | [Hot and Stupid](https://open.spotify.com/track/0B9yMae4fLWvjDQGFKon40) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Hot and Stupid](https://open.spotify.com/album/3RmYXWeVscd3fLgjS0c7tW) | 2:23 | 2025-02-14 |  |
@@ -152,6 +154,7 @@
 | [madly](https://open.spotify.com/track/7fmt9chGer2jvnUhysySW1) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [madly](https://open.spotify.com/album/1A04yD0uVhmPJgpRyia9Lc) | 2:42 | 2025-03-07 |  |
 | [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 | 2025-03-07 | 2025-03-14 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-06-07 | 2025-03-08 |
+| [Mild To Moderate Pain](https://open.spotify.com/track/6AxlvreGHDqoo0aVeVCmTK) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Mild To Moderate Pain](https://open.spotify.com/album/4XF8dYSOGW5Xdy8x5CfOm3) | 3:15 | 2025-03-21 |  |
 | [Millennium](https://open.spotify.com/track/51Uj8b5Oi1YY7ayhM4lDoN) | [Celeste Madden](https://open.spotify.com/artist/3o0nlRLCgJxu7fUwDsvGiB) | [Millennium](https://open.spotify.com/album/2Nsxxy2YWTJNGFnhd3hmT9) | 4:06 | 2025-03-07 |  |
 | [Misunderstanding \- Night Edit](https://open.spotify.com/track/3cYXWHPUthm483Pum3iKdQ) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Misunderstanding \(Night Edit\)](https://open.spotify.com/album/2ASFJ6lZCQ9RPNWxU1DHK9) | 3:37 | 2025-03-14 |  |
 | [Moist](https://open.spotify.com/track/0zF0Qrico9hPxd4dqmvsEL) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Moist](https://open.spotify.com/album/03mXhmUKLGxyIWyDAIxxtV) | 2:07 | 2024-06-07 | 2024-07-13 |
@@ -209,7 +212,7 @@
 | [The Alibi](https://open.spotify.com/track/4JyS3WGxalmpzgEbVyTycL) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [The Alibi](https://open.spotify.com/album/3P6qBjL0wCjcMsKWAAvQ3x) | 3:15 | 2024-06-07 | 2025-03-08 |
 | [The Conflict Of The Mind](https://open.spotify.com/track/5lxZ3KmRdRn6iW5tE1Fwjp) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Conflict Of The Mind](https://open.spotify.com/album/3IcTqH3eggpX1ODT8l535d) | 4:15 | 2024-06-07 | 2025-02-14 |
 | [the good life](https://open.spotify.com/track/6F8oCl5sKW7DHiuUehOn14) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [the good life](https://open.spotify.com/album/0MaY3tf3BOTeWlyaWBA438) | 3:05 | 2024-08-08 | 2024-10-11 |
-| [This Time](https://open.spotify.com/track/7qwVbzs04Ht2E5jtF6vKv1) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [This Time](https://open.spotify.com/album/3YNywPu0RUO6GEHZzZM4RE) | 2:03 | 2025-03-21 |  |
+| [This Time](https://open.spotify.com/track/7qwVbzs04Ht2E5jtF6vKv1) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [This Time](https://open.spotify.com/album/3YNywPu0RUO6GEHZzZM4RE) | 2:03 | 2025-03-21 | 2025-03-22 |
 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 | 2024-06-07 | 2025-03-08 |
 | [Toro](https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Toro / Alone in Miami](https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9) | 2:55 | 2024-06-07 | 2024-10-04 |
 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 | 2024-06-07 | 2025-03-14 |

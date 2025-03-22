@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Emma Elliot
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: MANJA
 
-309 songs - 18 hr 0 min
+312 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,11 +113,13 @@
 | [friends](https://open.spotify.com/track/2NSlmYzHauT4ZgMXGI3NKH) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [friends](https://open.spotify.com/album/69HC2sZvAPbn9M92eh5d7F) | 4:15 | 2024-06-27 | 2025-01-24 |
 | [Friends and Family](https://open.spotify.com/track/55DUApDmxt7jRLCOjPcaAs) | [Abe Hoed](https://open.spotify.com/artist/3FGtrvyMWYYnEyCtityD8y) | [Friends and Family](https://open.spotify.com/album/1oGuWphCGDfZVjLYsScNL8) | 2:48 | 2024-06-27 | 2024-08-10 |
 | [Full Moon](https://open.spotify.com/track/5bZGNn1xUWUtFJAjy4wZ3p) | [Manaditara](https://open.spotify.com/artist/35S1sBwXiq6fvWPSemGj2N) | [Full Moon](https://open.spotify.com/album/615Z11MyiFfqTTf1jUV7zS) | 3:32 | 2024-10-31 | 2025-01-24 |
+| [Game For Two](https://open.spotify.com/track/1F5Oci0fJkRxcIFNMuHoJn) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA), [Ezra Kunze](https://open.spotify.com/artist/4lzzcddgX9uA1wClALOnVm) | [Game For Two](https://open.spotify.com/album/5KYHeW8EoSYqFXji9DuV4c) | 3:38 | 2025-03-21 |  |
 | [Gentle Agreement](https://open.spotify.com/track/5qAMhRsnjUtrY6Y9XJEkk6) | [Monica Karina](https://open.spotify.com/artist/4uz19Fx4VF6BHhzmTuSCOR), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Gentle Agreement](https://open.spotify.com/album/7F7VLs071GYrSmTEzqRjJ8) | 3:30 | 2024-07-25 | 2024-11-29 |
 | [Get It Wrong](https://open.spotify.com/track/5uR0cwWtzvrlJrrDfg4ePY) | [Novia Bachmid](https://open.spotify.com/artist/6eK6JN4xhNFMfe2QHLwrx9) | [Get It Wrong](https://open.spotify.com/album/2K3fBzHN62qn1cIp5umUDy) | 3:32 | 2024-12-12 |  |
 | [Get Over Him](https://open.spotify.com/track/4lIQwnb1WHfdLf1YJHR31G) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Get Over Him](https://open.spotify.com/album/5cTM5vH4eQP1gauYKJftsA) | 3:06 | 2024-06-27 | 2025-01-24 |
 | [Give Me Loving](https://open.spotify.com/track/7Dfc3RHXzYeUlJaXqRyG0j) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Give Me Loving](https://open.spotify.com/album/4n6iTjYCSwT61NrbcnfjyB) | 3:30 | 2025-02-13 |  |
 | [Going Up](https://open.spotify.com/track/41vUwaUD16ClRyqIQmClRT) | [Rhea Asmara](https://open.spotify.com/artist/1AWmwnZnIWWvGynh2DeUEo) | [Going Up](https://open.spotify.com/album/5WoZedpwDHzf7auzddAjLN) | 2:58 | 2024-10-03 | 2024-11-16 |
+| [Gonna Do](https://open.spotify.com/track/6LTzi5ctshERmUVNlGcYzN) | [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Gonna Do](https://open.spotify.com/album/3NaYjd3RaP0gTlM49zcpVU) | 2:33 | 2025-03-21 |  |
 | [Gotchu](https://open.spotify.com/track/7hDjNCo0CR3EHFjOapZCym) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Matthew Sayersz](https://open.spotify.com/artist/3Qq1nogMjTqDwH8x7MP6qv) | [Gotchu](https://open.spotify.com/album/57MP6GrkfvcHAJrSwTGM0Z) | 3:02 | 2024-08-01 | 2024-09-27 |
 | [GP5](https://open.spotify.com/track/6NQ3prsIYwHWpp0JXvZiQH) | [Andrea Turk](https://open.spotify.com/artist/3ymNbNvWkiHrhoe1ytgppa) | [GP5](https://open.spotify.com/album/7Ab5uQR4vYCqw0CpoFc4W3) | 2:28 | 2024-10-03 | 2025-01-18 |
 | [Greedy](https://open.spotify.com/track/5FYnl9ZJkkB7SlQsfSWx3z) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Greedy](https://open.spotify.com/album/4gPCF2bVowiYubLshSzfHE) | 2:30 | 2024-07-25 | 2024-09-06 |
@@ -259,6 +261,7 @@
 | [special wishes 3](https://open.spotify.com/track/4n2F4nUFAEZwYNJ5dFQ8CU) | [Kareem Soenharjo](https://open.spotify.com/artist/3a8I3dOLEe0Mliys7Jaxdp) | [special wishes 3](https://open.spotify.com/album/2hVfef0fTfby543LtGPmgP) | 2:38 | 2024-12-12 |  |
 | [SPLIT](https://open.spotify.com/track/2IfF66ZKFHsyoqBI1llkyx) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [SPLIT](https://open.spotify.com/album/0cjjgDrwEWPxrc5GyqNhZz) | 3:13 | 2024-06-27 | 2024-08-02 |
 | [Stay Asleep](https://open.spotify.com/track/5yHboJF2EN6Z3s1EPKOF1I) | [Hollywood Nobody](https://open.spotify.com/artist/227hPsCkg7IeGxtgboqx62) | [Stay Asleep](https://open.spotify.com/album/2z5K2ZTbr1i20HaniQHp0S) | 3:20 | 2024-06-27 | 2024-07-27 |
+| [Still Young \- Reprise](https://open.spotify.com/track/5np9XNJ4yW3UPSfOfIHL9E) | [MANJA](https://open.spotify.com/artist/20pZIP8Eb3BEOdPiNqupRX) | [Still Young \(Reprise\)](https://open.spotify.com/album/44peeOgr4kqU0HTETa5II6) | 3:48 | 2025-03-21 |  |
 | [Sucks](https://open.spotify.com/track/1eJyzy33IN2JLkWMde4Yvc) | [Midnight Lobster](https://open.spotify.com/artist/1qIfVmeDHgmbWXVf3V0wxs) | [Sucks](https://open.spotify.com/album/1V0IbxCdhIrE1me8T9T01q) | 2:46 | 2024-06-27 | 2024-07-27 |
 | [Sugarpills](https://open.spotify.com/track/7MpD2YZbkP21oZNOkmBfct) | [Cvndy](https://open.spotify.com/artist/74WzFWbliZQYYtp8Vft4vU) | [Sugarpills](https://open.spotify.com/album/5rAwTVkWbun9dHeyAq5gnX) | 3:42 | 2024-08-09 | 2024-10-11 |
 | [Summer Blue](https://open.spotify.com/track/2x4U871UlUdjVtlLShDeHJ) | [Shakila Anjani](https://open.spotify.com/artist/0b7ktdXIZGmEH06i40rDek) | [Summer Blue](https://open.spotify.com/album/4aexuUAYbC9Xie2yD6GSjq) | 3:00 | 2024-09-05 | 2025-01-24 |

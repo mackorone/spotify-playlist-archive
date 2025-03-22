@@ -3323,6 +3323,24 @@
     },
     {
       "album": {
+        "name": "Rays",
+        "url": "https://open.spotify.com/album/2AP9ZRgQEolXjRccHlPqw1"
+      },
+      "artists": [
+        {
+          "name": "Floyd Nova",
+          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153145,
+      "name": "Rays",
+      "url": "https://open.spotify.com/track/1o23KVEUtj9M51iEGJg78o"
+    },
+    {
+      "album": {
         "name": "Reach",
         "url": "https://open.spotify.com/album/01KH05yqQgS0Cru4rIj5ML"
       },

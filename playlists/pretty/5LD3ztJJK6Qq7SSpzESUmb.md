@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/5LD3ztJJK6Qq7SSpzESUmb.md) - [plain]
 
 > The hottest new songs rocking Kerrang!'s world, updated every Friday!
 
-[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,575 likes - 20 songs - 1 hr 14 min
+[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,573 likes - 20 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Emergence](https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Emergence](https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH) | 6:26 |
-| 2 | [Soprano](https://open.spotify.com/track/3DNgrWGDoVefYTLdzUnLWX) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Soprano](https://open.spotify.com/album/70pGjy9mpZ3GFZKyFlHF1S) | 2:13 |
-| 3 | [Lemon](https://open.spotify.com/track/6x1xKHkuGepbfjpDkSuUIk) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [Lemon](https://open.spotify.com/album/161uvpWswpix18rpbmjweW) | 3:51 |
-| 4 | [DEAD TO ME!](https://open.spotify.com/track/7lU7MV3wzGBW7Ea5epCVxD) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [DEAD TO ME!](https://open.spotify.com/album/66OT50QQzY6xED7doUfeWA) | 2:39 |
-| 5 | [Surrender](https://open.spotify.com/track/0GHr3b7vgIVWi1NYjfyz8s) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Surrender](https://open.spotify.com/album/2CZoIJMFPiWIqGLaZDdASg) | 3:38 |
-| 6 | [SERAPHIM \(MARINA'S SONG\)](https://open.spotify.com/track/3jtGgVIIDvc5ZJkhMoXJo4) | [JIVEBOMB](https://open.spotify.com/artist/6C3q8wGXgz5KKWv5GqWkvV) | [SERAPHIM \(MARINA'S SONG\)](https://open.spotify.com/album/5ghq5E8peHrOfXejiRYS4T) | 1:19 |
-| 7 | ['Bout To Lose It](https://open.spotify.com/track/3ojjRvP2OTPp8PM4zNYQto) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | ['Bout To Lose It](https://open.spotify.com/album/7I94vpfWpgoqTGU7V20GY5) | 3:41 |
-| 8 | [White Hellebore](https://open.spotify.com/track/22gOVSEhSn2xraSnUX326C) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [White Hellebore](https://open.spotify.com/album/6zwmaRb3D1BjS1nCmBjcT9) | 5:04 |
-| 9 | [The Gallows](https://open.spotify.com/track/4vvNPN2vvlzUlczESr9P0B) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [The Gallows](https://open.spotify.com/album/4GiZ3umpeFvhdrIT18s480) | 2:52 |
-| 10 | [Those Who Know Know Why](https://open.spotify.com/track/0xxymmSLKBicHAVa1yz0ZD) | [The Warriors](https://open.spotify.com/artist/0eHAMIAxiBEpQdv8UVwSxb) | [Those Who Know Know Why](https://open.spotify.com/album/0CUOjMno8sLL48p2hKxz6f) | 2:05 |
-| 11 | [Reignbreaker](https://open.spotify.com/track/0pNgp4Q49T6ovLcAKrDtqp) | [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [Reignbreaker](https://open.spotify.com/album/4rkNoOdn3V7mqJV2lboNSI) | 4:01 |
-| 12 | [What Was I Made For](https://open.spotify.com/track/0rEutjwmink1IVouLhPjc0) | [Iress](https://open.spotify.com/artist/7LlAk7lyxBJYpXXT0n7mtc) | [What Was I Made For](https://open.spotify.com/album/2WjIgKRMv7TpYfAmFJQCSs) | 3:40 |
-| 13 | [Echoes and Empires](https://open.spotify.com/track/6Iu0vG7PsLOzpZkkBS91Wd) | [De'Lour](https://open.spotify.com/artist/6zP1GJXIdZtRcV9SKEKZgM) | [Echoes and Empires](https://open.spotify.com/album/11RV3ocUY7QmqDaqEfJMCv) | 3:44 |
-| 14 | [Begging Guitars](https://open.spotify.com/track/5xfwV0GUR64zK7WLkEtsgv) | [Pleaser](https://open.spotify.com/artist/402XZzUu3B8SejOeEGFYqi) | [Begging Guitars](https://open.spotify.com/album/75fzHvJxoirQHd2K6x7npR) | 3:12 |
-| 15 | [Voir Dire](https://open.spotify.com/track/71sovHvkPqDU3ASyn5f9tb) | [The Prestige](https://open.spotify.com/artist/0vqVZAiY4XJe400rsQSzPo) | [Voir Dire](https://open.spotify.com/album/01gdXMFzEax34U8H9DNHf9) | 2:53 |
-| 16 | [Echelon](https://open.spotify.com/track/3BdBg8wHouBmf2FbAUatG9) | [Thuum](https://open.spotify.com/artist/1B1zkWmkstkl82GuWpqPZB) | [Echelon](https://open.spotify.com/album/7hIEKVRce1e6TBsdHormia) | 5:51 |
-| 17 | [Alla sover](https://open.spotify.com/track/1FjTduJODQbRgSoWcFfxRb) | [Svarta Havet](https://open.spotify.com/artist/1IX5j8sND3XpGzjX71enDa) | [Alla sover](https://open.spotify.com/album/6NwqJ5sGvehIUW2JjqePli) | 4:30 |
-| 18 | [Cloak & Dagger](https://open.spotify.com/track/2TTACprkw0oSAhrRxOBnMo) | [Higher Walls](https://open.spotify.com/artist/0QSFCeiUCvkjxzwj7uvSHQ) | [Cloak & Dagger](https://open.spotify.com/album/70reveXJitxCKNRyJk8qQ1) | 2:57 |
-| 19 | [Shallow Ecstasy](https://open.spotify.com/track/6txxn4h97htvfu7Pty2gRs) | [Tómarúm](https://open.spotify.com/artist/6Xv8h8ntefqlic5d3DqzhZ) | [Shallow Ecstasy](https://open.spotify.com/album/1PxbJLDxCbB0MkhGXc7Qnr) | 7:02 |
-| 20 | [Thinking About It](https://open.spotify.com/track/3wayZ24541SoEKulbs9Fn6) | [Slung](https://open.spotify.com/artist/7EEluFWhabUJwqInW2J654) | [Thinking About It](https://open.spotify.com/album/6krEkOnHby1FLcy7R7YLPd) | 2:54 |
+| 1 | [If It's All The Same To You](https://open.spotify.com/track/4wyU17zJTM512I1i6OSI0X) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [If It's All The Same To You](https://open.spotify.com/album/3nmqCvpxxLOYkikOZGNaNG) | 4:14 |
+| 2 | [Hello Heaven, Hello](https://open.spotify.com/track/2jUcuBOT2eoBnoMBTM4L1i) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Hello Heaven, Hello](https://open.spotify.com/album/5YLk7hXivQWJezkRnWEfbH) | 9:06 |
+| 3 | [Slushy \- feat\. Kate Nash](https://open.spotify.com/track/24C9lmp9KgvMWzDRhqUWOl) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL), [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Slushy \(feat\. Kate Nash\)](https://open.spotify.com/album/7iio9VUbXAW495paD6jGux) | 3:06 |
+| 4 | [biological](https://open.spotify.com/track/0GWqkv1sQa80HgbEdjiwNT) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [biological](https://open.spotify.com/album/3JnLlBJIuig1lyocmshp6N) | 2:59 |
+| 5 | [She's Just Like California](https://open.spotify.com/track/4rX39lKRH6NIv4HnpgqORL) | [Luke Spiller](https://open.spotify.com/artist/5pHfUNtb7HavOPkzrhmVnh) | [She's Just Like California](https://open.spotify.com/album/6sdRq0ZleW1ffzcbEaVmtG) | 3:00 |
+| 6 | [Staring At The Sun](https://open.spotify.com/track/6BOfwpm3qky5O3xAPGCK4o) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Staring At The Sun](https://open.spotify.com/album/7kg53tfxjGZ3MtmdTxO92x) | 3:23 |
+| 7 | [Dead and Buried](https://open.spotify.com/track/0IUVVVYt4jwYgrU1xIyIY8) | [Inhuman Nature](https://open.spotify.com/artist/3oemV3hCZ3kl5u7AM1nV4K) | [Dead and Buried](https://open.spotify.com/album/4BNzlXIojIOkETukZYQ8QN) | 3:36 |
+| 8 | [No Consequence](https://open.spotify.com/track/6fMyxWuKyKE43zDMAmFnSl) | [Youth Code](https://open.spotify.com/artist/15VmPRQCJEZWaZWgHEroj0) | [No Consequence](https://open.spotify.com/album/6sAo6b1udi0VKcxUmnHpC9) | 3:31 |
+| 9 | [Stare At The Void](https://open.spotify.com/track/6hMfBQep2z22t7jKxY9sEF) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Stare At The Void](https://open.spotify.com/album/7MsTZUHYSSRsjLT7TX5ljY) | 3:52 |
+| 10 | [Mother Monica](https://open.spotify.com/track/21bwGhYnBbVuK2dJMzUR7g) | [Jools](https://open.spotify.com/artist/7J6YlxY8MiF5ZwfVBzMpPc) | [Mother Monica](https://open.spotify.com/album/5CUclnkpgph0x7ctIutn7G) | 2:53 |
+| 11 | [Hurt You](https://open.spotify.com/track/3l58me0cBT75vYY1ySKFFr) | [VOWWS](https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb) | [Hurt You](https://open.spotify.com/album/4ie9oSgWuIYSOnQt8f3IBH) | 2:56 |
+| 12 | [City 17](https://open.spotify.com/track/1Ga3YKiM1RzsQVLeD7xMl2) | [Burner](https://open.spotify.com/artist/7Amw4gNz7nLq7140PFhtuk) | [City 17](https://open.spotify.com/album/0FJBn7yid7nBm3xL4YdAAi) | 3:50 |
+| 13 | [This might be it](https://open.spotify.com/track/5n6gfU5WOaMazDwejuJW35) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [This might be it](https://open.spotify.com/album/4nJj8mbDqyTIrJ43PKtB5S) | 2:36 |
+| 14 | [Save Your Words](https://open.spotify.com/track/2Nt1BYLxePKdLeHFb0SxAC) | [Lonesome](https://open.spotify.com/artist/7t8XjIoFLQTyd0tVVxk2tU) | [Save Your Words](https://open.spotify.com/album/6lPzLohzSxkqHgivFBuSo8) | 3:28 |
+| 15 | [Neighbours](https://open.spotify.com/track/3hMD0ERAbBb2fPpyQZkeTk) | [Humour](https://open.spotify.com/artist/5ErUNpyxSBAdjZaKlefsUr) | [Neighbours](https://open.spotify.com/album/34KSaskOrlbcdf2YT2ZHM6) | 2:45 |
+| 16 | [Aimless](https://open.spotify.com/track/6V6r27N6KvM5VMyHfcwvvN) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Aimless](https://open.spotify.com/album/2nZTSSGr5nd7wAdkdL76mt) | 3:37 |
+| 17 | [Black Hole](https://open.spotify.com/track/1d2Y8WnaOFpiNVdsNYI9lX) | [STORM](https://open.spotify.com/artist/4AVgAZo5MgdaXUSCZEzWjZ) | [Black Hole](https://open.spotify.com/album/7dZ2VyUR2FJIpf1xoUM3aF) | 3:01 |
+| 18 | [A Dark & Graceful Wilderness](https://open.spotify.com/track/4JmUKz7Uht1PXRZOU3sdAk) | [Hexvessel](https://open.spotify.com/artist/3rLgIB7dHh2MGYpiOMajJI) | [A Dark & Graceful Wilderness](https://open.spotify.com/album/0YmQ8T741TBo5wrVGkTlEe) | 5:48 |
+| 19 | [You Ominously End](https://open.spotify.com/track/6aFhWmqi9SlGa2Qflui6DN) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [You Ominously End](https://open.spotify.com/album/1IyGQCrMLsshcFmjPxtLg7) | 3:33 |
+| 20 | [Deconstruct](https://open.spotify.com/track/4aPQhK7LjodfShzIRcdh4R) | [URSA](https://open.spotify.com/artist/5vHShL6Y7oe3QoEuTGSABf) | [Call of the Infinite](https://open.spotify.com/album/5ga6tW4gmd7LqBU9BvzrKH) | 5:58 |
 
-Snapshot ID: `AAAMvNPhzRUyntRVSMeU3X6H+IfOQW90`
+Snapshot ID: `AAAMwUY3+BUBFbkKFBhciAxSKgN1rbKd`

@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: KURT.
 
-932 songs - 2 day 1 hr 5 min
+933 songs - 2 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -867,6 +867,7 @@
 | [Upset](https://open.spotify.com/track/1lmESvOXWfDSgVAAaIruLL) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Crying Dove](https://open.spotify.com/album/6xGehMsofWMuFW2nKYdmK7) | 2:38 | 2024-05-23 | 2024-07-27 |
 | [Val De Marne](https://open.spotify.com/track/7wnYzb5pu8UFHz1sWT8jOI) | [cortex](https://open.spotify.com/artist/7h1gWbG7KDMC8NduLP3H2i) | [Val De Marne](https://open.spotify.com/album/7xnPCFHnXhRVTm57kqqwb3) | 2:22 | 2025-03-06 |  |
 | [Validation](https://open.spotify.com/track/1N7Dea8tLIrjc9mjFmu2Ca) | [Hanna Emilie](https://open.spotify.com/artist/2JQwvgLu8J0FgSMWVhVySb) | [The One That Got Away](https://open.spotify.com/album/6NVh6nFDqtFl1tJLESx4Wl) | 2:56 | 2024-02-08 | 2024-05-09 |
+| [Vanessa](https://open.spotify.com/track/3lR2ucuERNadX6zFrvNf2g) | [plotones](https://open.spotify.com/artist/2uiobStTvqQjT30aHqnUKl), [4lex](https://open.spotify.com/artist/5Y3TAUyFG5nZpYVecDRtZ1) | [Vanessa](https://open.spotify.com/album/4OlKyBH2uCf07RcybeYaBf) | 3:05 | 2025-03-20 |  |
 | [VDKDV?](https://open.spotify.com/track/5DKc7J0BxFKwYonJgWyU0v) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [VDKDV?](https://open.spotify.com/album/6vHMn2bJ7DggbtHzKZGiPC) | 2:19 | 2024-02-08 | 2024-03-08 |
 | [Veins](https://open.spotify.com/track/3mpWWS9JlRWiHbxiKV4Vlo) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [Veins](https://open.spotify.com/album/09vzk8zw3OLSn9brPuhdHS) | 2:40 | 2024-11-14 | 2024-12-05 |
 | [Vibe](https://open.spotify.com/track/43lrjztUhrmaMoVi6kSfHD) | [Jey Vazz](https://open.spotify.com/artist/3UUa5nO3gumI0Ld4bapvhu) | [Vibe](https://open.spotify.com/album/0hvPSm9MAG1pT6FwozurqF) | 2:52 | 2025-01-30 | 2025-02-21 |

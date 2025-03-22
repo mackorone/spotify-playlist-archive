@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-168 songs - 6 hr 57 min
+169 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Starlight Canyon](https://open.spotify.com/track/2ZNtfHoeaslSqK2UbtK2S6) | [Lok Hanzo](https://open.spotify.com/artist/1cncGJWbNVksCj9GsqxDdR) | [Lavender Dreams](https://open.spotify.com/album/4OcV6gotcV6oh8XEmRezDz) | 1:38 | 2023-05-09 | 2025-01-07 |
 | [Stay with me](https://open.spotify.com/track/7K1S5y76RWJY7jIxSWupEy) | [Réka Ioescu](https://open.spotify.com/artist/57Mmf69hQyTIEZxSCo4k5H) | [Stay with me](https://open.spotify.com/album/72ApxPcjCBMGRaHZgmbByA) | 2:47 | 2023-05-09 |  |
 | [Stillness of Time](https://open.spotify.com/track/7I8C7LhvYa25EjOB5dPIWg) | [Nia Amara](https://open.spotify.com/artist/66zVxJqnaCuSkUimaB2WZS) | [Stillness of Time](https://open.spotify.com/album/7lvuJhE8Tgp7Va9pZHFUDU) | 2:03 | 2025-03-11 |  |
+| [Stranger](https://open.spotify.com/track/1tMAuiizUoQqnh6lcdFO0i) | [Adelisé](https://open.spotify.com/artist/4zcNEIub6cCZlkS6mzy63N) | [Stranger](https://open.spotify.com/album/1siHseOf2zRKJRd9cGjzsR) | 2:44 | 2025-03-21 |  |
 | [Sun sinking at dusk](https://open.spotify.com/track/5Y223UTPJjOIDVS2vs73g0) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Sun sinking at dusk](https://open.spotify.com/album/0L7qsF3GOm7oJg68rmbWMI) | 2:33 | 2023-05-09 |  |
 | [Sunday breeze](https://open.spotify.com/track/1atf2cbN3stTERkx9AafmN) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Sunday breeze](https://open.spotify.com/album/31KA9JmcgGuefqDeQXak52) | 1:38 | 2023-05-09 |  |
 | [Tenderness](https://open.spotify.com/track/4bIpvx1sHj3yIFRpPQ4XAu) | [Stone Mirland](https://open.spotify.com/artist/7JhyuaeB60S8vsFRzcdN2o) | [Tenderness](https://open.spotify.com/album/5eYAFoTBGNJAaxoFnK45ZZ) | 1:59 | 2025-03-04 |  |

@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-217 songs - 9 hr 33 min
+218 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Fluxxwave](https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Fluxxwave](https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV) | 2:30 | 2023-07-21 |  |
 | [Forever In My Mind](https://open.spotify.com/track/5DlRPItm6jsKFewssbaJUB) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [svlient](https://open.spotify.com/artist/4RnM2qExKVcy2IMQBa3a52) | [Forever In My Mind](https://open.spotify.com/album/4BXsCUsZBmrko4vFWMrSRP) | 3:01 | 2023-03-10 | 2023-06-10 |
 | [Freaks](https://open.spotify.com/track/7ewNJrUgS5C0nxAK1KB3fY) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM) | [Freaks](https://open.spotify.com/album/2cIfNaP93DbfWhcilRi3js) | 2:40 | 2024-01-26 |  |
-| [Frequency](https://open.spotify.com/track/5IgpVvg68WGQQPVto0hyZF) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Frequency](https://open.spotify.com/album/5J9yN6EzsaAa2SeW91H4c9) | 2:30 | 2022-10-10 |  |
+| [Frequency](https://open.spotify.com/track/5IgpVvg68WGQQPVto0hyZF) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Frequency](https://open.spotify.com/album/5J9yN6EzsaAa2SeW91H4c9) | 2:30 | 2022-10-10 | 2025-03-22 |
 | [Frontier](https://open.spotify.com/track/5EE2ubLj0U3kZRkZr7vjbJ) | [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T), [SxDJI](https://open.spotify.com/artist/6TpYb8Z1yUegbmuRcJhiC1) | [Frontier](https://open.spotify.com/album/6UU1uLU30SJsZjl7WCMcbP) | 3:47 | 2023-05-05 |  |
 | [Funk Da Montanha \- Super Slowed](https://open.spotify.com/track/4gjg9hB5q4xWjJ9EelppL2) | [chipbagov](https://open.spotify.com/artist/0sd6x399jllqi3BqxgBvlw), [SCARIONIX](https://open.spotify.com/artist/19lQadj43jplt3tzz36jLb), [IMMORTAL PLAYA](https://open.spotify.com/artist/0zVxxogKTboGS2y5aQ8EvU) | [Funk Da Montanha](https://open.spotify.com/album/1lIRnJM73zVgEWVE8oCxnb) | 1:47 | 2025-02-28 |  |
 | [FUNK UNIVERSO](https://open.spotify.com/track/466x7CJlVwiFdNTLvIXwZl) | [Irokz](https://open.spotify.com/artist/2vKxv2oKVSEJZ1VmuLUOvY) | [FUNK UNIVERSO](https://open.spotify.com/album/1kmsUHDC0n611meNgzRkuw) | 2:07 | 2024-08-30 |  |
@@ -170,6 +170,7 @@
 | [OBLIVION](https://open.spotify.com/track/3KMqwUL9XTpfrDvkCGlRJ9) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [HOSPICEMANE](https://open.spotify.com/artist/5k3a4j15fF9gr4ZvCqMjDm) | [OBLIVION](https://open.spotify.com/album/2n2VcwvJsChKhBL1zX75Cj) | 3:12 | 2022-11-25 |  |
 | [OCCUPATION](https://open.spotify.com/track/2TubhcsSDcCpJWyXiGEKPZ) | [KEDELA](https://open.spotify.com/artist/0ytXblHAJwc57GVGp6wjvB) | [OCCUPATION](https://open.spotify.com/album/00pHqxRbtuMXzMfbT5AA9z) | 3:30 | 2022-11-03 |  |
 | [ODIUM](https://open.spotify.com/track/4yyX0nJqMpqaubcGdGsxx9) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [UNIVERSE OF THE PAST](https://open.spotify.com/album/4HlAmB7VZFZW5iPYapiqiz) | 2:46 | 2022-10-10 |  |
+| [ODNOGO ULTRAFUNK \- Slowed](https://open.spotify.com/track/0GsXTNESYhr61yvIo7OuXZ) | [Juicy Wilde](https://open.spotify.com/artist/7BQOZ2S3XaJIrdrVnyfu4M), [KIRXI](https://open.spotify.com/artist/2uLgJdESGfVR0pORGPnglO), [ADZXRY](https://open.spotify.com/artist/5aGltocI9viCMvtGL2aSRv), [KVSHX](https://open.spotify.com/artist/4we41CJouCyBr3prXBo83A) | [ODNOGO ULTRAFUNK \(Instrumental Versions\)](https://open.spotify.com/album/0hT5Ylr3LJbdcAHtr45wwe) | 2:02 | 2025-03-21 |  |
 | [Omega](https://open.spotify.com/track/6yzDgOc9gruRxmaaiVsBy1) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Omega](https://open.spotify.com/album/4B9PcrMKaJupfqKvko3pYv) | 2:53 | 2022-10-10 |  |
 | [Pleasure](https://open.spotify.com/track/4tyb212aoIT5gYJQIg40MM) | [DVRKHOLD](https://open.spotify.com/artist/4ZVUy0u4JnNGj6jNNWv6Qx) | [Pleasure](https://open.spotify.com/album/1c4UPNlzYXvy6T1VRD1g2m) | 3:34 | 2022-12-09 | 2023-01-21 |
 | [Rain](https://open.spotify.com/track/48Kws1UrNWaIpoo6w8u2IX) | [LXRY PXNK](https://open.spotify.com/artist/25ZRM52hYigccz8com4s8t), [CHMCL SØUP](https://open.spotify.com/artist/3o6lxZ9ULOHMk438t24bIH) | [Rain](https://open.spotify.com/album/6aXWH9B3mn8qewDzzuIzkm) | 2:19 | 2023-12-08 |  |

@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 198026,
       "name": "86 Prayers",
       "url": "https://open.spotify.com/track/4rVidk9aEAe7cTU6WmzJZ9"
@@ -2768,7 +2768,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 123319,
       "name": "Back On The Block",
       "url": "https://open.spotify.com/track/4lTesJAPuURHE1ucAupvLF"
@@ -3578,7 +3578,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 219428,
       "name": "Big Bruddah (Don't Be Mad)",
       "url": "https://open.spotify.com/track/0miSemE2oNHAy79HYTHnCJ"
@@ -4363,6 +4363,24 @@
     },
     {
       "album": {
+        "name": "Blow Yo Gun",
+        "url": "https://open.spotify.com/album/7HFWpkUTYVdPK4AKkdZINe"
+      },
+      "artists": [
+        {
+          "name": "Screwly G",
+          "url": "https://open.spotify.com/artist/1eWvOyyLmTtEVjuV2StcqC"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143647,
+      "name": "Blow Yo Gun",
+      "url": "https://open.spotify.com/track/3fwTyCzc5OGodnTnHEJof4"
+    },
+    {
+      "album": {
         "name": "BLRRD BLRRD",
         "url": "https://open.spotify.com/album/0J4O9Xd4lcxBZC2nEvj9Wh"
       },
@@ -5130,6 +5148,24 @@
       "duration_ms": 157261,
       "name": "Bullseye 2 (with Future)",
       "url": "https://open.spotify.com/track/1glNxnW018oGrJoYRHQV9Q"
+    },
+    {
+      "album": {
+        "name": "Bump Down",
+        "url": "https://open.spotify.com/album/6POJu4Dy6Xgv2XEY0CpiJY"
+      },
+      "artists": [
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163129,
+      "name": "Bump Down",
+      "url": "https://open.spotify.com/track/2sYoDbuk8OuYyj7f6RAwJU"
     },
     {
       "album": {
@@ -6280,6 +6316,24 @@
       "duration_ms": 189541,
       "name": "Close That Folder",
       "url": "https://open.spotify.com/track/3F43bMLmxHqirgKEi6D6tK"
+    },
+    {
+      "album": {
+        "name": "Close The Door",
+        "url": "https://open.spotify.com/album/5Ta38p3f2tyLLL4X0Jqe04"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131248,
+      "name": "Close The Door",
+      "url": "https://open.spotify.com/track/7iUb5lNWRXFqtEiDTSr1ac"
     },
     {
       "album": {
@@ -10864,7 +10918,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 161572,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/1YJK6i4JxMH297TpcKfRI0"
@@ -11286,7 +11340,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 144178,
       "name": "Gettin Money (feat. OJ Da Juiceman)",
       "url": "https://open.spotify.com/track/5iFOoVlBbI0GO4XWyS5L8a"
@@ -13466,7 +13520,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 133333,
       "name": "Hit It (feat. Lil Tony Official)",
       "url": "https://open.spotify.com/track/04jF33RlFGnGCN135WeOCi"
@@ -14024,6 +14078,28 @@
       "duration_ms": 191170,
       "name": "How It Go",
       "url": "https://open.spotify.com/track/6ib1c99Cryx0n13G88NAqZ"
+    },
+    {
+      "album": {
+        "name": "How Much",
+        "url": "https://open.spotify.com/album/2S2R5ZRiZzkSmkKhKQo7nX"
+      },
+      "artists": [
+        {
+          "name": "DJ Bandz",
+          "url": "https://open.spotify.com/artist/7KnXSV7gkQLmGczm2akVOk"
+        },
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120110,
+      "name": "How Much",
+      "url": "https://open.spotify.com/track/2j8NXqmw5SLnUvhfxIFYW0"
     },
     {
       "album": {
@@ -15190,6 +15266,24 @@
       "duration_ms": 190840,
       "name": "In Dat Mode (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/1g6xClUkUvGIPMniK1xMEJ"
+    },
+    {
+      "album": {
+        "name": "IN SCOOM WE TRUST",
+        "url": "https://open.spotify.com/album/55KPQDfobPlT204w2ByPUs"
+      },
+      "artists": [
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115714,
+      "name": "IN SCOOM WE TRUST",
+      "url": "https://open.spotify.com/track/6YKgDHXUHZU9uRvp3gXe7p"
     },
     {
       "album": {
@@ -20746,7 +20840,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 138000,
       "name": "NEW ERA 8",
       "url": "https://open.spotify.com/track/2DCwTa7IhEb4Gk6UfQRXWz"
@@ -21945,6 +22039,24 @@
     },
     {
       "album": {
+        "name": "Old Me",
+        "url": "https://open.spotify.com/album/44ZEXD0t8f4WFNuj8bLHQr"
+      },
+      "artists": [
+        {
+          "name": "Nino Paid",
+          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137229,
+      "name": "Old Me",
+      "url": "https://open.spotify.com/track/510we9oDrgnL9E9OboMk5F"
+    },
+    {
+      "album": {
         "name": "Street Credentials",
         "url": "https://open.spotify.com/album/4EF01c0W2zKOSR54Zym8l1"
       },
@@ -22804,6 +22916,32 @@
       "duration_ms": 188157,
       "name": "Outside",
       "url": "https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE"
+    },
+    {
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/4VDFKsron5xLCkREXXmFjD"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        },
+        {
+          "name": "Lil Yee",
+          "url": "https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i"
+        },
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140147,
+      "name": "Outta Here",
+      "url": "https://open.spotify.com/track/0BLRbVkJMnQxFat1j1cXCI"
     },
     {
       "album": {
@@ -23766,7 +23904,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 139867,
       "name": "PLAY DA FOOL",
       "url": "https://open.spotify.com/track/35ACwDtccFItn9THDDZ7dm"
@@ -25885,6 +26023,24 @@
     },
     {
       "album": {
+        "name": "I'm Him 2",
+        "url": "https://open.spotify.com/album/4qcdBStuMPfHMYOUzqBjbp"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Right Where I'm Supposed to Be",
+      "url": "https://open.spotify.com/track/0EJgN1QHZ7aIWT2ggqZL5C"
+    },
+    {
+      "album": {
         "name": "RIO FREE",
         "url": "https://open.spotify.com/album/6tXw2H5kdm0H681vd8M2uV"
       },
@@ -25954,6 +26110,24 @@
       "duration_ms": 168607,
       "name": "RIP LU MIKE",
       "url": "https://open.spotify.com/track/0vGUa6VvIh3enBdBQ8unAh"
+    },
+    {
+      "album": {
+        "name": "RIP Milli",
+        "url": "https://open.spotify.com/album/5LFe4a2u2XygityJgG4VkV"
+      },
+      "artists": [
+        {
+          "name": "Wizz Havinn",
+          "url": "https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121690,
+      "name": "RIP Milli",
+      "url": "https://open.spotify.com/track/0XwK300puDoxJd7A6PYwc2"
     },
     {
       "album": {
@@ -31377,6 +31551,24 @@
     },
     {
       "album": {
+        "name": "These Walls Can Talk",
+        "url": "https://open.spotify.com/album/3kOR89rjW7sHps9KhY5v2E"
+      },
+      "artists": [
+        {
+          "name": "Hotboii",
+          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131360,
+      "name": "These Walls Can Talk",
+      "url": "https://open.spotify.com/track/6gQpjeLY26XyO12pV6hCLN"
+    },
+    {
+      "album": {
         "name": "They Can't FWM",
         "url": "https://open.spotify.com/album/2BJj5biozfIQuwBXr1xhaW"
       },
@@ -32044,7 +32236,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 154587,
       "name": "Too Rich",
       "url": "https://open.spotify.com/track/3KXF9ioaB9bmhHu4wvcpdY"
@@ -32970,7 +33162,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 170666,
       "name": "UNDER OATH",
       "url": "https://open.spotify.com/track/1iGiANByWXW8cw430IX3a8"

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125452,
+  "num_followers": 125455,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAT0TAn14GcbImqGPecRjVuD4ya3grR",
+  "snapshot_id": "AAAT1YJTWeEzeJRUDjLS+MxsL9vk+C37",
   "tracks": [
+    {
+      "added_at": "2025-03-21 14:49:39",
+      "album": {
+        "name": "The High We Seek",
+        "url": "https://open.spotify.com/album/0l1tbGmzd9Z8uCv6j4WPew"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "The High We Seek",
+      "url": "https://open.spotify.com/track/4KqsO8DraAibjxNgRqG8Oq"
+    },
     {
       "added_at": "2025-03-20 14:47:00",
       "album": {
@@ -1171,58 +1187,6 @@
       "duration_ms": 192250,
       "name": "Sun - Angara Mix",
       "url": "https://open.spotify.com/track/6F4luCQcD7bwlHXX2XhPa5"
-    },
-    {
-      "added_at": "2024-12-16 16:01:39",
-      "album": {
-        "name": "real 4 me (BKAYE VIP)",
-        "url": "https://open.spotify.com/album/7fCqlZRL6oZTJL4vCXmFyv"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        },
-        {
-          "name": "BKAYE",
-          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
-        }
-      ],
-      "duration_ms": 171176,
-      "name": "real 4 me - BKAYE VIP",
-      "url": "https://open.spotify.com/track/5etBdyazBZxN3E987iZGsy"
-    },
-    {
-      "added_at": "2024-12-13 15:16:14",
-      "album": {
-        "name": "Lightbringer (VIP)",
-        "url": "https://open.spotify.com/album/1a95zDy5MgZPzDRaAZNXEu"
-      },
-      "artists": [
-        {
-          "name": "Skybreak",
-          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Lightbringer - VIP",
-      "url": "https://open.spotify.com/track/3k6FvXHi6ff25TD945UE6g"
-    },
-    {
-      "added_at": "2024-12-12 15:48:49",
-      "album": {
-        "name": "Therapy (VIP)",
-        "url": "https://open.spotify.com/album/7aBvVvj3FvFtC1324hgKmM"
-      },
-      "artists": [
-        {
-          "name": "Conro",
-          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
-        }
-      ],
-      "duration_ms": 167213,
-      "name": "Therapy - VIP",
-      "url": "https://open.spotify.com/track/4DJoqSLh5xeRGWd3iFkG7H"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

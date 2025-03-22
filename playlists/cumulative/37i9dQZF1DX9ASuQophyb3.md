@@ -2,7 +2,7 @@
 
 ### [Türkçe Pop](https://open.spotify.com/playlist/37i9dQZF1DX9ASuQophyb3)
 
-> Türkiye'nin en büyük pop listesi\. Kapak: Salman Tin
+> Türkçe pop'un hit şarkıları ve zirveye oynayanlar\. Kapak: Salman Tin
 
 181 songs - 9 hr 12 min
 

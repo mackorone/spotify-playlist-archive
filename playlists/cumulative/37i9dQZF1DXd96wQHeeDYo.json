@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "Tu t\u00e1ta tu tat\u00e1... el beat funk de Brasil para el mundo. Baile bonito con Lauty Gram, DobleP, El Turko",
+  "description": "Tu t\u00e1ta tu tat\u00e1... el beat funk de Brasil para el mundo. Baile bonito con Tokischa y Papatinho",
   "name": "es funk y el cuerpo lo sabe \ud83c\udde7\ud83c\uddf7",
   "tracks": [
     {
@@ -2052,7 +2052,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 144000,
       "name": "La Musa",
       "url": "https://open.spotify.com/track/5dZX5mBuUg1CgzbD7IDVP1"
@@ -2349,6 +2349,28 @@
     },
     {
       "album": {
+        "name": "Maria Magdalena",
+        "url": "https://open.spotify.com/album/1DKKKM3Xh5XxF6jrhyQMS8"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Irm\u00e3s de Pau",
+          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156461,
+      "name": "Maria Magdalena",
+      "url": "https://open.spotify.com/track/2TVqEfs20W2rfg0EDAW1MD"
+    },
+    {
+      "album": {
         "name": "Me Quedo Contigo",
         "url": "https://open.spotify.com/album/5Gehe8mIKHHFBtc450VDOF"
       },
@@ -2452,7 +2474,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 144806,
       "name": "Mi Amiga",
       "url": "https://open.spotify.com/track/4qXU7TfH0e7tJoWnKc7L2a"
@@ -2996,6 +3018,28 @@
       "duration_ms": 206606,
       "name": "Piloto de Fuga - Remix",
       "url": "https://open.spotify.com/track/2E490MLouGY6Dz4nOlZN60"
+    },
+    {
+      "album": {
+        "name": "PISCIS",
+        "url": "https://open.spotify.com/album/4u7ievdNvGacFKyTdW0eq5"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112831,
+      "name": "PISCIS",
+      "url": "https://open.spotify.com/track/1UE0ml9PteZQJDhtV6mbb9"
     },
     {
       "album": {

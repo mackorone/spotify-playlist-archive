@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Godless (Original Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "date_added": "2025-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358933,
+      "name": "Breaking Horses",
+      "url": "https://open.spotify.com/track/2skAWuKTCEDglrXJtHD0Dv"
+    },
+    {
+      "album": {
         "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
       },
@@ -614,7 +632,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 143893,
       "name": "LaBelle Opera",
       "url": "https://open.spotify.com/track/4aE6lKn6mPTRF2DDqUPAuS"

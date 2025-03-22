@@ -1,13 +1,29 @@
 {
-  "description": "The best of today's funk. Cover: Maya Delilah",
-  "num_followers": 340730,
+  "description": "The best of today's funk. Cover: MonoNeon",
+  "num_followers": 340764,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z7gIYAAAAADV/H0M6DOAOwdxSoj/cXuI",
+  "snapshot_id": "Z9zkawAAAABrpnpg4MklAxdfcT6a84xP",
   "tracks": [
+    {
+      "added_at": "2025-03-21 04:00:43",
+      "album": {
+        "name": "Bad Attitude",
+        "url": "https://open.spotify.com/album/73xEEZXPs9iKi05lUg5vG8"
+      },
+      "artists": [
+        {
+          "name": "MonoNeon",
+          "url": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j"
+        }
+      ],
+      "duration_ms": 213514,
+      "name": "Bad Attitude",
+      "url": "https://open.spotify.com/track/3S0IxmFhdvQ8th5Tg6Wgsq"
+    },
     {
       "added_at": "2025-01-31 05:00:48",
       "album": {
@@ -23,6 +39,30 @@
       "duration_ms": 234600,
       "name": "Squeeze",
       "url": "https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA"
+    },
+    {
+      "added_at": "2025-03-21 04:00:43",
+      "album": {
+        "name": "Altitude",
+        "url": "https://open.spotify.com/album/1R2uSWPQdvow8lAkGYwVaD"
+      },
+      "artists": [
+        {
+          "name": "BusCrates",
+          "url": "https://open.spotify.com/artist/2xVtLMwf4oZwJT5d1J5289"
+        },
+        {
+          "name": "Christine Elise",
+          "url": "https://open.spotify.com/artist/08yP8oklwveHNpoDhu1BrI"
+        },
+        {
+          "name": "Kuf Knotz",
+          "url": "https://open.spotify.com/artist/6xGgvHAQIxa4Wfg2xdIZTU"
+        }
+      ],
+      "duration_ms": 185058,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0tWD7KgFJ2GVA1Ta0SYXqG"
     },
     {
       "added_at": "2025-01-31 05:00:48",
@@ -375,26 +415,6 @@
       "duration_ms": 135312,
       "name": "FYMB (Free Your Mind Baby)",
       "url": "https://open.spotify.com/track/7fY9syk6ncZMGwCzNOLGMI"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/5p12lpNSgfFD9mYuuLzgMK"
-      },
-      "artists": [
-        {
-          "name": "MonoNeon",
-          "url": "https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j"
-        },
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        }
-      ],
-      "duration_ms": 224302,
-      "name": "Full Circle",
-      "url": "https://open.spotify.com/track/56RlwQy5HsHbf6guHUMluq"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1619,26 +1639,6 @@
       "duration_ms": 181951,
       "name": "Drip Feed",
       "url": "https://open.spotify.com/track/5fhIrC32KM91BM9z4OVMnh"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Thumpahlenah (Radio Edit)",
-        "url": "https://open.spotify.com/album/2VbzGgntgJu0oHLGHOjq3E"
-      },
-      "artists": [
-        {
-          "name": "Nik West",
-          "url": "https://open.spotify.com/artist/5yrmwjhscVmbinBG3hx86i"
-        },
-        {
-          "name": "Larry Graham",
-          "url": "https://open.spotify.com/artist/6lUcc15t11bnaPr2qOuFs2"
-        }
-      ],
-      "duration_ms": 202637,
-      "name": "Thumpahlenah - Radio Edit",
-      "url": "https://open.spotify.com/track/01prSP4l0I3Gf1WCfC9jTI"
     },
     {
       "added_at": "2024-05-03 04:01:00",

@@ -4,7 +4,7 @@
 
 > A happy place 🪩🪩
 
-523 songs - 1 day 7 hr 59 min
+524 songs - 1 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Buy Yourself friends](https://open.spotify.com/track/4kR4TenQVl9u5Emckj0fmX) | [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg) | [Shake Edits 1](https://open.spotify.com/album/6AnMnkiTrAAISLnkoHEpMk) | 8:16 | 2022-04-06 | 2022-04-19 |
 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 | 2023-06-16 |  |
 | [Calling Out Your Name \(I Can't Sleep\)](https://open.spotify.com/track/6zFjilXmasxhO0woY1ZgBo) | [Ben Rau](https://open.spotify.com/artist/1TnMHkjDz4jm8H8QxnyAAC) | [Calling Out Your Name \(I Can't Sleep\)](https://open.spotify.com/album/4I56zzyUFllXY2KPf1ycO1) | 3:31 | 2022-05-10 | 2022-07-15 |
-| [Can't Stop](https://open.spotify.com/track/2XtyzqHaIb1ejF0n8uCtAK) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf) | [Can't Stop](https://open.spotify.com/album/5r11OiEuYQuWXeem5H3Pa6) | 2:34 | 2024-03-01 |  |
+| [Can't Stop](https://open.spotify.com/track/2XtyzqHaIb1ejF0n8uCtAK) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf) | [Can't Stop](https://open.spotify.com/album/5r11OiEuYQuWXeem5H3Pa6) | 2:34 | 2024-03-01 | 2025-03-22 |
 | [Celebration](https://open.spotify.com/track/5aFK3KNMaCkMKJWeU78xB4) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Celebration](https://open.spotify.com/album/69TDYss3NTUG1MlHq1AkvK) | 2:39 | 2022-06-09 | 2024-08-10 |
 | [Centocelle Nightmare](https://open.spotify.com/track/5AGmBzhFiZINB9icr6PXzi) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI), [Le Feste Antonacci](https://open.spotify.com/artist/1RoRpJGQ2bVPfzYGoUr4fe) | [Centocelle Nightmare](https://open.spotify.com/album/23Ws9k70pKIRbNTECWqZwe) | 3:01 | 2022-04-06 | 2022-04-21 |
 | [CHAMPAGNE](https://open.spotify.com/track/5XonTYRglyiZIYXhGhCu0K) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [CHAMPAGNE](https://open.spotify.com/album/6EEgDsH1ugmPm5otG11hzK) | 2:20 | 2024-08-23 | 2024-11-15 |
@@ -435,6 +435,7 @@
 | [Show Me How to Love Me](https://open.spotify.com/track/7sn7GB0Y5Wkgy2nstRCLuq) | [Saturday Love](https://open.spotify.com/artist/7eAzDRKw8Fa70VTdEyhaih), [Kon](https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi), [Fiorious](https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor) | [Show Me How to Love Me](https://open.spotify.com/album/38DyBy7dZyTFBgGeKcw2mj) | 3:34 | 2024-06-28 | 2024-11-20 |
 | [Shut It Down](https://open.spotify.com/track/5cRqBtnCx2e9GvuSezN4Ec) | [Tollef](https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Shut It Down](https://open.spotify.com/album/2Wh3XQrts6RLhdigYVybxl) | 2:10 | 2024-11-30 | 2025-01-19 |
 | [Silk Robe](https://open.spotify.com/track/1PLWMDuWR3gfsuBGMRUgY8) | [Flaurese](https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06) | [Silk Robe](https://open.spotify.com/album/2cREL8DhgMw5f2VYC1I1Qv) | 3:38 | 2022-01-14 | 2022-07-28 |
+| [Situationship](https://open.spotify.com/track/0ZQ0eUcokPPdNXIhpcg6qE) | [Opolopo](https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94), [Natasha Watts](https://open.spotify.com/artist/5iX6FAdCjB9JBNlnOwYTt9) | [Situationship](https://open.spotify.com/album/2uP4hzULCuTKaTdKkDfMGB) | 3:55 | 2025-03-21 |  |
 | [Sizzling](https://open.spotify.com/track/7AkuWVEfviEjaNa8ps3uVw) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9), [Paradise](https://open.spotify.com/artist/4tcARMnMEtBq3onlfD8Rgl) | [Sizzling EP](https://open.spotify.com/album/4W9aq61WczmInpQ2RBGj2B) | 5:21 | 2022-04-06 | 2024-08-31 |
 | [Sizzling \- Radio Edit](https://open.spotify.com/track/3hn2XlucfhFh7XGDEvMPoS) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9), [Paradise](https://open.spotify.com/artist/4tcARMnMEtBq3onlfD8Rgl) | [Sizzling EP](https://open.spotify.com/album/4W9aq61WczmInpQ2RBGj2B) | 3:38 | 2022-04-06 | 2022-07-16 |
 | [Sky's the Limit \- Edit](https://open.spotify.com/track/1CXE6v4j5TkObA01MtchbP) | [Full Intention](https://open.spotify.com/artist/1tayOcNuoYWnrXeuh1HhXB) | [Sky's the Limit \(Edit\)](https://open.spotify.com/album/5pQwvmqU1IU8VdvqBGuSl1) | 2:43 | 2022-01-14 | 2024-08-10 |

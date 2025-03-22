@@ -4,7 +4,7 @@
 
 > Aquele som que é pura brisa\. 🍃 Foto: Hungria
 
-466 songs - 1 day 0 hr 12 min
+467 songs - 1 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Destino](https://open.spotify.com/track/1tAcAD6c8HiMWDoHyUutHd) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Destino](https://open.spotify.com/album/2XqCSflbr8XImRRevu2Bpp) | 2:39 | 2024-04-26 | 2024-09-21 |
 | [Devi](https://open.spotify.com/track/5tXVcUSWxmyydJJ9IFLfHF) | [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [Melissa Hartman](https://open.spotify.com/artist/7F4XNGirBB17gfXa1yov36), [Leo Ost](https://open.spotify.com/artist/1rQb8CUCS1rCyOCyAg1mJE) | [Devi](https://open.spotify.com/album/0aomgOztLFDXdWKyZJyO02) | 3:16 | 2023-02-25 | 2023-03-18 |
 | [Devi](https://open.spotify.com/track/7ztSM4otmMcgWQF7yd05qv) | [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [Melissa Hartman](https://open.spotify.com/artist/7F4XNGirBB17gfXa1yov36), [Leo Ost](https://open.spotify.com/artist/1rQb8CUCS1rCyOCyAg1mJE), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Pêssego](https://open.spotify.com/album/3x36px2sBmvdOt0RcD0U1w) | 3:16 | 2023-12-08 | 2024-01-20 |
+| [Diamante](https://open.spotify.com/track/6qiMG3UrWjatBaEeNvr8hj) | [Ivo Mozart](https://open.spotify.com/artist/4yTuL3DV58ipi2dn3up6ny) | [Diamante](https://open.spotify.com/album/0ue74KhT9wL1hRTlL6OVVt) | 2:33 | 2025-03-14 |  |
 | [Dias de Luta Dias de Glória](https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Dias de Luta Dias de Glória](https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8) | 2:17 | 2024-08-09 | 2024-12-07 |
 | [Difícil Lembrar, né?](https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Difícil Lembrar, né?](https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM) | 2:35 | 2022-11-04 | 2023-06-24 |
 | [Direção](https://open.spotify.com/track/45NQoSZq9wCX26LCXcG5Bf) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Direção](https://open.spotify.com/album/0dbn2sheleIRVpaThz9Vdy) | 2:21 | 2022-12-09 | 2023-03-11 |
@@ -139,7 +140,7 @@
 | [Encaixa](https://open.spotify.com/track/0ktKLa4sJ9Jc7AVUXeBvkd) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw), [Vertigo](https://open.spotify.com/artist/7CSCYgC7CofoVB57eCeI5j) | [Até o Próximo Carnaval](https://open.spotify.com/album/7eKjbCk2rSfN4qIo1gCFAK) | 2:08 | 2022-06-03 | 2022-06-25 |
 | [Enigma](https://open.spotify.com/track/4esz5K53Soq2bGevWlCSfW) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Enigma](https://open.spotify.com/album/7zbo1VQgkYL3kzmNusNV3N) | 4:00 | 2022-10-14 | 2022-12-10 |
 | [Enquanto O Dia Não Acabou](https://open.spotify.com/track/1FrXmfE6yDBU0O5wqxE8DW) | [J a u m](https://open.spotify.com/artist/1IyuVaJ5TMJ9GYJBYVu5Di), [PedroWnx](https://open.spotify.com/artist/6xhWbJdf04v6FfSXOQWxP1), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Enquanto O Dia Não Acabou](https://open.spotify.com/album/2ZOvUn9vzA6TI2Gw5IbWLM) | 2:48 | 2023-01-27 | 2023-04-15 |
-| [Equilibrio](https://open.spotify.com/track/0pObsCFkAxESEbS4cHWgcN) | [Thiago Malakai](https://open.spotify.com/artist/5dGDpIgdIWQGHFThNGwhKV) | [Equilibrio](https://open.spotify.com/album/1KkGgyKmtwTDcDqMuDEGpc) | 3:38 | 2025-02-14 |  |
+| [Equilibrio](https://open.spotify.com/track/0pObsCFkAxESEbS4cHWgcN) | [Thiago Malakai](https://open.spotify.com/artist/5dGDpIgdIWQGHFThNGwhKV) | [Equilibrio](https://open.spotify.com/album/1KkGgyKmtwTDcDqMuDEGpc) | 3:38 | 2025-02-14 | 2025-03-22 |
 | [ESCOLA](https://open.spotify.com/track/6K11WB4Usv7VKWlF6XkToE) | [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf) | [ESCOLA](https://open.spotify.com/album/5W2OoC58CVzyOqKubTMTSX) | 2:51 | 2024-05-24 | 2024-09-14 |
 | [ESPANHA](https://open.spotify.com/track/4tEpblUf8pxF8v0BI5lXfO) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [DH](https://open.spotify.com/artist/5aDGIEuKdKB7k4XvilmVCe) | [ESPANHA](https://open.spotify.com/album/01X4fEJzQTGupReTLcRsqV) | 3:30 | 2024-04-12 | 2024-05-25 |
 | [Espaço Aberto](https://open.spotify.com/track/64pvZ766S9JymsAgCHQflR) | [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4), [Lucas Baha](https://open.spotify.com/artist/5cgDtQOQJveXGCFDn8uT9v), [Prodbythb](https://open.spotify.com/artist/75lGZXVl7cDhLGCYJBw5ae) | [O Som do Litoral](https://open.spotify.com/album/3NMCvWJPRL56sFSfmEabuL) | 2:54 | 2024-12-06 | 2025-03-01 |

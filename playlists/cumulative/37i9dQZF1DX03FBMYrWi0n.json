@@ -1687,6 +1687,28 @@
     },
     {
       "album": {
+        "name": "Interruption",
+        "url": "https://open.spotify.com/album/5EO08uN9A5WjrYDc9vglKD"
+      },
+      "artists": [
+        {
+          "name": "Antoine Corriveau",
+          "url": "https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak"
+        },
+        {
+          "name": "Cherry Lena",
+          "url": "https://open.spotify.com/artist/0vkN6Ib0aW335dFCf4iWNo"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170226,
+      "name": "Interruption",
+      "url": "https://open.spotify.com/track/6yiDJYoQBlb7lTA10rXUZy"
+    },
+    {
+      "album": {
         "name": "\u00c0 La \u00d4 Terre",
         "url": "https://open.spotify.com/album/58KvfyZ8bJqsWroUSb1KTR"
       },
@@ -2920,7 +2942,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 154267,
       "name": "Pas tr\u00e8s perspicace",
       "url": "https://open.spotify.com/track/2KfzBQtWlCgDsMiHP4twzK"

@@ -2174,7 +2174,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 149187,
       "name": "ERROR 403",
       "url": "https://open.spotify.com/track/0LWwRQvunwufzUbWARrtX4"
@@ -5007,6 +5007,24 @@
     },
     {
       "album": {
+        "name": "Revelaci\u00f3n II",
+        "url": "https://open.spotify.com/album/028zg81OZTtl4ZlaFOA5PA"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Revelaci\u00f3n II",
+      "url": "https://open.spotify.com/track/3wQ7k5JnWMGBaYtQUKP1Kg"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -5130,7 +5148,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 126958,
       "name": "Se\u00f1ales",
       "url": "https://open.spotify.com/track/4cIM8wpHVqmPTtLgH4ehun"
@@ -5497,6 +5515,24 @@
     },
     {
       "album": {
+        "name": "Supersuave",
+        "url": "https://open.spotify.com/album/4eEc9HdlcYyKcK6wHuuQtb"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199612,
+      "name": "Supersuave",
+      "url": "https://open.spotify.com/track/6S9PfhipGEpTmXZNL9FyfO"
+    },
+    {
+      "album": {
         "name": "S\u00e1lvame",
         "url": "https://open.spotify.com/album/0vheFjclGyohQQ8SXHKzrP"
       },
@@ -5690,7 +5726,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 266666,
       "name": "Te recuerdo",
       "url": "https://open.spotify.com/track/3jmBXzJH5X6vVv8wuXxUK4"
@@ -6038,6 +6074,24 @@
       "duration_ms": 197426,
       "name": "T\u00fa Me Delatas",
       "url": "https://open.spotify.com/track/5SAED5EpG2omE0XIBLwKLi"
+    },
+    {
+      "album": {
+        "name": "Un campo",
+        "url": "https://open.spotify.com/album/2c7i4byygwcBvjfoIn6qAI"
+      },
+      "artists": [
+        {
+          "name": "Luisas",
+          "url": "https://open.spotify.com/artist/4QLS3OER2516giY87hBy3Y"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226132,
+      "name": "Un Campo",
+      "url": "https://open.spotify.com/track/2PNYtvb3kuZR9rDAPCUAGI"
     },
     {
       "album": {

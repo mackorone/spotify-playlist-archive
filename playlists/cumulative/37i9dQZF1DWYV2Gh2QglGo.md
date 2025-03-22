@@ -4,7 +4,7 @@
 
 > The home of Canadian country music\. Cover: James Barker Band
 
-218 songs - 11 hr 52 min
+220 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Better Mistake](https://open.spotify.com/track/2knmYl21AiF8yljirioZGw) | [Teigen Gayse](https://open.spotify.com/artist/1k8sDryfnPptQu6zMlOrp4) | [Better Mistake](https://open.spotify.com/album/0akU8Sc3cY9N8BV7lkkGkQ) | 2:38 | 2024-06-28 | 2024-08-24 |
 | [Between The Lines](https://open.spotify.com/track/2D5tN7ZWcMIdi8KIzI4lIE) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [Between The Lines](https://open.spotify.com/album/7nsdJWRGAOAtINHLDJPSjc) | 3:40 | 2025-02-14 |  |
 | [Bigger Than This Town](https://open.spotify.com/track/4bH59P2RLgvOLXhrq6oXci) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Bigger Than This Town](https://open.spotify.com/album/4H2YuZzuZVD0gua6xinUPP) | 2:54 | 2024-06-28 | 2024-10-19 |
-| [Bittersweet](https://open.spotify.com/track/5p8SGq5NRrDBwQMWXs9ZDX) | [Taylor\-Rae](https://open.spotify.com/artist/0DlnbmX0kuF1v8xzxxtqN8) | [Bittersweet](https://open.spotify.com/album/1HwotcH7kAFTnAG3DLrdEA) | 3:11 | 2025-02-28 |  |
+| [Bittersweet](https://open.spotify.com/track/5p8SGq5NRrDBwQMWXs9ZDX) | [Taylor\-Rae](https://open.spotify.com/artist/0DlnbmX0kuF1v8xzxxtqN8) | [Bittersweet](https://open.spotify.com/album/1HwotcH7kAFTnAG3DLrdEA) | 3:11 | 2025-02-28 | 2025-03-22 |
 | [Blinding Lights \- Country Version](https://open.spotify.com/track/6cRJTmba0JHDquftAkxUgG) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Blinding Lights \(Country Version\)](https://open.spotify.com/album/2xdFoFzJDYziRnia2PBEgt) | 3:06 | 2024-06-28 | 2024-09-28 |
 | [Bobcaygeon](https://open.spotify.com/track/1GaSs9Hdkx3HeVUCplwOn0) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bobcaygeon](https://open.spotify.com/album/3wStCQJW33pHYfN9pmnil1) | 4:43 | 2024-09-27 | 2024-11-02 |
 | [Boots Don't \(From Twisters: The Album\)](https://open.spotify.com/track/0appuRNOXyt4hxUbXNhkyr) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Boots Don't \(From Twisters: The Album\)](https://open.spotify.com/album/6U7V83LwS6cLtCtoxSDxQr) | 2:28 | 2024-07-19 | 2025-01-25 |
@@ -90,6 +90,7 @@
 | [home](https://open.spotify.com/track/3lcr1wXj1KnNZkYsC8TGZX) | [Adrian Mitchell](https://open.spotify.com/artist/7I6ztG3iIJOwFB6mOi9T8y) | [home](https://open.spotify.com/album/6VXPLxdhroqko7xNzjOAib) | 2:45 | 2024-11-22 | 2025-02-01 |
 | [Home](https://open.spotify.com/track/0Eiif2eLqWumvKSDejgT8F) | [Tyler Lorette](https://open.spotify.com/artist/5AJ5mQlyss1SLspTXxo424) | [Home](https://open.spotify.com/album/5Xu5rgwyVaz4obywN3bZqj) | 3:11 | 2025-01-17 |  |
 | [Homegrown Night](https://open.spotify.com/track/5a5ORE27VCGGrxj1sEfOQm) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [Homegrown Night](https://open.spotify.com/album/6tBZubpzcJtel68GwrE3B1) | 2:29 | 2025-01-17 |  |
+| [Hometown \(feat\. Chris Pérez\)](https://open.spotify.com/track/7x1pTelZYfHkz0AKwNU9DX) | [Louie TheSinger](https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj), [Chris Perez](https://open.spotify.com/artist/6LCh5KjtTCSrYPwozzjrF1) | [Hometown \(feat\. Chris Pérez\)](https://open.spotify.com/album/6FG9eGF96Hx4liw1E1NbhV) | 2:21 | 2025-03-21 |  |
 | [How Do You Miss Me](https://open.spotify.com/track/7MOeBmR6zOo2mqmYlnXMAx) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Dallas Smith](https://open.spotify.com/album/3dI7Y28fYBPve8KLJ2A8ig) | 3:02 | 2024-06-28 | 2024-08-17 |
 | [How Do You Miss Me \(feat\. Alexandra Kay\)](https://open.spotify.com/track/3225izSd52xkiNvhG7yg7n) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [How Do You Miss Me](https://open.spotify.com/album/2JmjXSDe7gzx5v8zQ7DOV7) | 3:02 | 2025-03-15 |  |
 | [How Far Will We Take It?](https://open.spotify.com/track/453CeQGjxlMGaokntLtz5x) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Stampede: Vol\. 1](https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE) | 2:52 | 2024-06-28 | 2024-09-14 |
@@ -191,9 +192,10 @@
 | [The Sound Of A Beer Getting Cracked](https://open.spotify.com/track/5pmt4pyh8w7w8q8zJb9CJA) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ), [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Roads That Go Nowhere](https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir) | 3:14 | 2024-06-28 | 2024-10-05 |
 | [Things My Mama Says](https://open.spotify.com/track/4my3xcaM2p80DFfi3ZTiHB) | [Hailey Benedict](https://open.spotify.com/artist/494qaFjOqqQ2NOQfCHSYce) | [Things My Mama Says](https://open.spotify.com/album/4MWGPCRkqgf9Iswh6kYJCH) | 2:52 | 2024-10-04 |  |
 | [Think of Me](https://open.spotify.com/track/2JPbZQ0pek5lbzUpZtVQzX) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [Think of Me](https://open.spotify.com/album/47qPurqgAQPsqYBlxeGJbr) | 3:33 | 2024-11-22 | 2025-02-01 |
+| [This Ol Way](https://open.spotify.com/track/5FsnLRPoRGzGzRjRdmRP6q) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [This Ol Way](https://open.spotify.com/album/77eopQjIGR0gBCQxX0DmaE) | 4:54 | 2025-03-21 |  |
 | [TICKET TO RIDE](https://open.spotify.com/track/2lbIfAfYcUqvHqujrqNCjf) | [Myles Erlick](https://open.spotify.com/artist/66j659Hro81qoa1vgG75Ae) | [TICKET TO RIDE](https://open.spotify.com/album/5mQ7VgSUf5rfGeQAOl5bE0) | 2:15 | 2024-06-28 | 2024-09-14 |
 | [Til I Don't](https://open.spotify.com/track/259Ud8jgPARaKWPhqvJ6OD) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Where to Start](https://open.spotify.com/album/1nS5RxqCeB08iFpGUFBx1T) | 2:50 | 2025-01-31 |  |
-| [Till The Morning](https://open.spotify.com/track/74ARTs57w7D0GDablsiLpk) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Till The Morning](https://open.spotify.com/album/6qECR055kFSGPndawr1byW) | 4:17 | 2025-01-17 |  |
+| [Till The Morning](https://open.spotify.com/track/74ARTs57w7D0GDablsiLpk) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Till The Morning](https://open.spotify.com/album/6qECR055kFSGPndawr1byW) | 4:17 | 2025-01-17 | 2025-03-22 |
 | [To Be Honest](https://open.spotify.com/track/5TFu4FGmslo543UyEuxS9l) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [to be honest](https://open.spotify.com/album/3m59dkD0z3TuzwwZSEGt25) | 3:25 | 2024-06-28 | 2024-07-13 |
 | [today](https://open.spotify.com/track/2f53Ycvv8VrgGOa5VcMnMk) | [Adrian Mitchell](https://open.spotify.com/artist/7I6ztG3iIJOwFB6mOi9T8y) | [today](https://open.spotify.com/album/51NB0c3HmIOHwF5XAX5Hmr) | 2:33 | 2024-09-27 | 2024-10-26 |
 | [Tomorrow](https://open.spotify.com/track/46LccjwmRg9n1Mg54gaA83) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Tomorrow](https://open.spotify.com/album/44n5odWgMktFglqvRAC1ex) | 4:27 | 2024-11-29 | 2025-02-01 |

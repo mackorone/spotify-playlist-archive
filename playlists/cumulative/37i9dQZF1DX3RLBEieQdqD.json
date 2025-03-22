@@ -593,6 +593,28 @@
     },
     {
       "album": {
+        "name": "Regional Live by Yohan Usuga (Vol. 1)",
+        "url": "https://open.spotify.com/album/1dnpBJLW8JpBwlkNvpZ4El"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        },
+        {
+          "name": "Yohan Usuga",
+          "url": "https://open.spotify.com/artist/5XZHGnpHe7zHUjbZSlgIhJ"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144606,
+      "name": "Cacho x Cacho",
+      "url": "https://open.spotify.com/track/4u4gK0RrCosD5WdraNv4GH"
+    },
+    {
+      "album": {
         "name": "Rep\u00edtelas",
         "url": "https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY"
       },
@@ -1191,6 +1213,24 @@
     },
     {
       "album": {
+        "name": "El Agropecuario",
+        "url": "https://open.spotify.com/album/033EobOjqzf4mRbJH5OxGZ"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Guiller",
+          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175671,
+      "name": "El Agropecuario",
+      "url": "https://open.spotify.com/track/3Xq3SxdRD48Cz3i8L7P70r"
+    },
+    {
+      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
       },
@@ -1422,6 +1462,46 @@
       "duration_ms": 259910,
       "name": "El Malo - Remix",
       "url": "https://open.spotify.com/track/15FunEnp98TNXSnfb2wECW"
+    },
+    {
+      "album": {
+        "name": "El Ni\u00f1o del Barrio",
+        "url": "https://open.spotify.com/album/1iYbnwi0y6IUfUCA4YWBzm"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136022,
+      "name": "El Ni\u00f1o del Barrio",
+      "url": "https://open.spotify.com/track/1AeXahQor3fgffkLy5yuZg"
+    },
+    {
+      "album": {
+        "name": "El Tierno (feat. DFZM)",
+        "url": "https://open.spotify.com/album/2OiPtzxuqeonaf5LQ2hhr6"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166857,
+      "name": "El Tierno (feat. DFZM)",
+      "url": "https://open.spotify.com/track/6W94uSiipjqPHeg4SsW8mf"
     },
     {
       "album": {
@@ -2168,6 +2248,28 @@
       "duration_ms": 517960,
       "name": "Ma\u00f1anita De Invierno (feat. Silvestre Dangond)",
       "url": "https://open.spotify.com/track/661BYmEBVdUPhMY8X6DhKz"
+    },
+    {
+      "album": {
+        "name": "Lo M\u00e1s Importante Es El Amor",
+        "url": "https://open.spotify.com/album/3RFzIXaLYrCxF7t8yqOC1R"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177366,
+      "name": "Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/6yh4phrNduhMduSKHdW626"
     },
     {
       "album": {
@@ -3726,7 +3828,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 188400,
       "name": "Tengo Ganas",
       "url": "https://open.spotify.com/track/4TiS7REpiQIaj6BJHFc05d"
@@ -3748,7 +3850,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 143000,
       "name": "Tequila Con Cerveza",
       "url": "https://open.spotify.com/track/4x7oOM338zTGyLb33RR8jJ"
@@ -3896,7 +3998,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 203506,
       "name": "Una Semana",
       "url": "https://open.spotify.com/track/1UUimiQLOO4pyS2pRUeXSA"
@@ -4030,7 +4132,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 128923,
       "name": "Ya No Hay Despecho",
       "url": "https://open.spotify.com/track/13E6flDod3k42jzj1n8Isn"
@@ -4110,7 +4212,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 182323,
       "name": "\u00bfQu\u00e9 Te Parece?",
       "url": "https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG"

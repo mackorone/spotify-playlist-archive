@@ -2631,6 +2631,32 @@
     },
     {
       "album": {
+        "name": "Vamu",
+        "url": "https://open.spotify.com/album/3hVFOQiSDlm3Fr22iBH2vd"
+      },
+      "artists": [
+        {
+          "name": "A Banca 021",
+          "url": "https://open.spotify.com/artist/13FuSigLoOp1jf1YKTNzC9"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Raissa",
+          "url": "https://open.spotify.com/artist/5aXydhORFva5JBIUtQwOTm"
+        }
+      ],
+      "date_added": "2025-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Vamu",
+      "url": "https://open.spotify.com/track/5IcjA42tUbyrM0P3GIVTQJ"
+    },
+    {
+      "album": {
         "name": "VIP",
         "url": "https://open.spotify.com/album/7un1PXzwYc8D8Mk6eiQDtv"
       },
@@ -2642,7 +2668,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 130800,
       "name": "VIP",
       "url": "https://open.spotify.com/track/4b8tsQoH69au6oca7bozA3"

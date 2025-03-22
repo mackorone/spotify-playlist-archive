@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href=https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz?si=vifkgyFKR6mKTqLFn5uJvg>Prinx Emmanuel
 
-461 songs - 1 day 2 hr 10 min
+462 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [Omemma](https://open.spotify.com/track/4YfOEXttugon5YXM3TjJGz) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv) | 4:17 | 2023-10-20 | 2024-04-19 |
 | [Omemma](https://open.spotify.com/track/3t2o1njvVXz9IojLD1FTqk) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08) | 4:17 | 2023-10-20 |  |
 | [On Deck](https://open.spotify.com/track/4xZmc0O4QIJPaSoQP0421o) | [Kinsu](https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG) | [On Deck](https://open.spotify.com/album/5UcNuD4dsMNnRh21JY6Qoy) | 2:16 | 2024-09-06 | 2024-11-01 |
+| [On God \- Remix](https://open.spotify.com/track/4LD4sL8fNECDY2VpgWBsHt) | [Realerman](https://open.spotify.com/artist/0ZQxVVl3Rxo2O1Sb26VJ02), [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy) | [On God \(Remix\)](https://open.spotify.com/album/4oCYHjYlQ3CjamYWwslRfP) | 2:27 | 2025-03-21 |  |
 | [One Christ One Love](https://open.spotify.com/track/4QWx2bEgw3psRVBclTNneH) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [One Christ One Love](https://open.spotify.com/album/1DQMlWhHRCBLGZaIXiRibx) | 2:38 | 2024-11-01 | 2025-01-10 |
 | [One Name \(Jesus\) \- Live](https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [One Name \(Jesus\) \[Live\]](https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK) | 9:19 | 2023-10-20 |  |
 | [One Sound](https://open.spotify.com/track/7CLhGGeK8MPlq26HDylXK2) | [Jakes Hinjari](https://open.spotify.com/artist/0vHke5zDphp49XceKxztGu), [Worshippers' Circle](https://open.spotify.com/artist/0ifftjfVRe5U2xnyKXVUpd), [Jephthah Idahosa Aigbe](https://open.spotify.com/artist/6K4xWHvtn0F3eM6dnZGQeg) | [One Sound](https://open.spotify.com/album/5kVH3WbunsT7UB6dkvyTuk) | 4:48 | 2024-06-21 | 2024-08-09 |

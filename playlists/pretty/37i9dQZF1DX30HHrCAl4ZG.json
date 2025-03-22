@@ -1,13 +1,45 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from Parcels",
-  "num_followers": 833631,
+  "description": "Explore all things indie rock right now. Featuring music from Dutch Interior",
+  "num_followers": 833623,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9Op0QAAAACkizuR6+fChRRBnPZELAcD",
+  "snapshot_id": "Z9zkdAAAAAClajMQpqCLXwaDIyUkdzj/",
   "tracks": [
+    {
+      "added_at": "2025-03-21 04:00:52",
+      "album": {
+        "name": "Sandcastle Molds",
+        "url": "https://open.spotify.com/album/3eZcliPovnaww1ahgJ1gnN"
+      },
+      "artists": [
+        {
+          "name": "Dutch Interior",
+          "url": "https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "Sandcastle Molds",
+      "url": "https://open.spotify.com/track/0Jr21WWAdomoLGmDbds9v2"
+    },
+    {
+      "added_at": "2025-03-21 04:00:52",
+      "album": {
+        "name": "For Melancholy Brunettes (& sad women)",
+        "url": "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 178213,
+      "name": "Picture Window",
+      "url": "https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4"
+    },
     {
       "added_at": "2025-03-14 04:00:17",
       "album": {
@@ -23,6 +55,54 @@
       "duration_ms": 277617,
       "name": "Safeandsound",
       "url": "https://open.spotify.com/track/0krZJTkVX0szMqd1VYBGK4"
+    },
+    {
+      "added_at": "2025-03-21 04:00:52",
+      "album": {
+        "name": "EARTHBREAKS",
+        "url": "https://open.spotify.com/album/5DbnZ4p3dabnY1GF3FOpgs"
+      },
+      "artists": [
+        {
+          "name": "The South Hill Experiment",
+          "url": "https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "Maybe it Takes Time",
+      "url": "https://open.spotify.com/track/08rCwumMxFDgtKAM8K0iwE"
+    },
+    {
+      "added_at": "2025-03-21 04:00:52",
+      "album": {
+        "name": "Coyote",
+        "url": "https://open.spotify.com/album/5xNXZjSg3U4cqxBjHZZKQ8"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 244106,
+      "name": "Coyote",
+      "url": "https://open.spotify.com/track/3H29rW3jmhlJaNNutzANBe"
+    },
+    {
+      "added_at": "2025-03-21 04:00:52",
+      "album": {
+        "name": "At Zero",
+        "url": "https://open.spotify.com/album/6FV0trVf4IpfIFJsAw6dgx"
+      },
+      "artists": [
+        {
+          "name": "Dream, Ivory",
+          "url": "https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib"
+        }
+      ],
+      "duration_ms": 148285,
+      "name": "At Zero",
+      "url": "https://open.spotify.com/track/2sFKoiRU1CetXG3n0wSdZQ"
     },
     {
       "added_at": "2025-03-14 04:00:17",
@@ -57,6 +137,22 @@
       "url": "https://open.spotify.com/track/05Y0oBtriW2gf8zPj2VDov"
     },
     {
+      "added_at": "2025-03-21 04:00:52",
+      "album": {
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/6fGZ262oL8OhT96uhuoZc4"
+      },
+      "artists": [
+        {
+          "name": "Mustard Service",
+          "url": "https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns"
+        }
+      ],
+      "duration_ms": 228957,
+      "name": "Big Time",
+      "url": "https://open.spotify.com/track/27Bn2trsGicmJlZe3qFMHg"
+    },
+    {
       "added_at": "2025-03-14 04:00:17",
       "album": {
         "name": "Another Boy",
@@ -89,6 +185,22 @@
       "url": "https://open.spotify.com/track/3zaoYEpZuH4z11m6h37Zwv"
     },
     {
+      "added_at": "2025-03-07 05:00:33",
+      "album": {
+        "name": "Skullcrusher",
+        "url": "https://open.spotify.com/album/48aMSR076f1DZ74DjJf9zi"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "Skullcrusher",
+      "url": "https://open.spotify.com/track/1j8JWDMamXR6VCzcGDqHRm"
+    },
+    {
       "added_at": "2025-02-28 05:00:48",
       "album": {
         "name": "How to Kill Houseplants",
@@ -107,6 +219,38 @@
     {
       "added_at": "2025-03-14 04:00:17",
       "album": {
+        "name": "Bonnet Of Pins",
+        "url": "https://open.spotify.com/album/4yNVLDb15XthYKBzMq2sy1"
+      },
+      "artists": [
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+        }
+      ],
+      "duration_ms": 287293,
+      "name": "Bonnet Of Pins",
+      "url": "https://open.spotify.com/track/0hLFRJetaM0qj09lyyJ9a5"
+    },
+    {
+      "added_at": "2025-02-21 05:00:40",
+      "album": {
+        "name": "Two Times",
+        "url": "https://open.spotify.com/album/1VLDDFEzUDKAGt4Y13zdvm"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 226280,
+      "name": "Two Times",
+      "url": "https://open.spotify.com/track/3nqo6oCIDGVCQseDGeSPy5"
+    },
+    {
+      "added_at": "2025-03-14 04:00:17",
+      "album": {
         "name": "Sword",
         "url": "https://open.spotify.com/album/0oPDylAtcGw4FPvMcRDse8"
       },
@@ -119,22 +263,6 @@
       "duration_ms": 146504,
       "name": "Sword",
       "url": "https://open.spotify.com/track/52abQEHHYwE5eGxLG0zcH5"
-    },
-    {
-      "added_at": "2025-03-07 05:00:33",
-      "album": {
-        "name": "Skullcrusher",
-        "url": "https://open.spotify.com/album/48aMSR076f1DZ74DjJf9zi"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Skullcrusher",
-      "url": "https://open.spotify.com/track/1j8JWDMamXR6VCzcGDqHRm"
     },
     {
       "added_at": "2025-03-14 04:00:17",
@@ -191,22 +319,6 @@
     {
       "added_at": "2025-03-14 04:00:17",
       "album": {
-        "name": "Bonnet Of Pins",
-        "url": "https://open.spotify.com/album/4yNVLDb15XthYKBzMq2sy1"
-      },
-      "artists": [
-        {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
-        }
-      ],
-      "duration_ms": 287293,
-      "name": "Bonnet Of Pins",
-      "url": "https://open.spotify.com/track/0hLFRJetaM0qj09lyyJ9a5"
-    },
-    {
-      "added_at": "2025-03-14 04:00:17",
-      "album": {
         "name": "7.31/Sara",
         "url": "https://open.spotify.com/album/2a7MTFGp6Tg32VjHRlXwio"
       },
@@ -255,22 +367,6 @@
       "duration_ms": 204101,
       "name": "Dollar Store (feat. Waxahatchee)",
       "url": "https://open.spotify.com/track/4SjmBBhCee7FVc3xsw3FXo"
-    },
-    {
-      "added_at": "2025-02-21 05:00:40",
-      "album": {
-        "name": "Two Times",
-        "url": "https://open.spotify.com/album/1VLDDFEzUDKAGt4Y13zdvm"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 226280,
-      "name": "Two Times",
-      "url": "https://open.spotify.com/track/3nqo6oCIDGVCQseDGeSPy5"
     },
     {
       "added_at": "2025-02-21 05:00:40",
@@ -1085,70 +1181,6 @@
       "url": "https://open.spotify.com/track/2DGDnyCAKDuPvWTbStDg0a"
     },
     {
-      "added_at": "2025-01-31 05:00:35",
-      "album": {
-        "name": "Never Know",
-        "url": "https://open.spotify.com/album/1wIKBow4Y0MtCFSWBdohuC"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 175120,
-      "name": "Never Know",
-      "url": "https://open.spotify.com/track/1qaFMnI1eVDa4arwNN8nMa"
-    },
-    {
-      "added_at": "2025-01-31 05:00:35",
-      "album": {
-        "name": "Give It Time",
-        "url": "https://open.spotify.com/album/4PhyA2i3coWU3qnqLxnKWo"
-      },
-      "artists": [
-        {
-          "name": "Goose",
-          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
-        }
-      ],
-      "duration_ms": 279675,
-      "name": "Give It Time - Radio Edit",
-      "url": "https://open.spotify.com/track/6Ospx9pAyAI7vEHY5gzH19"
-    },
-    {
-      "added_at": "2025-01-24 05:00:57",
-      "album": {
-        "name": "Good Times",
-        "url": "https://open.spotify.com/album/119zBAehP7BiktZKqaWc1S"
-      },
-      "artists": [
-        {
-          "name": "Twin Shadow",
-          "url": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
-        }
-      ],
-      "duration_ms": 176582,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/6zyn5GBvWyQprLwkxHBN6B"
-    },
-    {
-      "added_at": "2025-01-17 05:00:52",
-      "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/4brI5XyZZXGy0g67k3TX3Y"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 296226,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/6sDtLg4f8iffw5YeIivEBl"
-    },
-    {
       "added_at": "2025-01-24 05:00:57",
       "album": {
         "name": "Skylight",
@@ -1551,54 +1583,6 @@
       "duration_ms": 312326,
       "name": "Josh Tillman and the Accidental Dose",
       "url": "https://open.spotify.com/track/6P7bs2kVAOqt0rB8vnNS2f"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "If u know u know",
-        "url": "https://open.spotify.com/album/6iaxRc3lAky6xmgFNpBTAz"
-      },
-      "artists": [
-        {
-          "name": "Cari Cari",
-          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "If u know u know",
-      "url": "https://open.spotify.com/track/7J2WvkgtqyC2IJUEUiIu2r"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Golden Wolf",
-        "url": "https://open.spotify.com/album/0PGHzsVq7dMZIFExOtJfVu"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        }
-      ],
-      "duration_ms": 219196,
-      "name": "Golden Wolf",
-      "url": "https://open.spotify.com/track/47MINwGFX5v5HnDX6yo7SE"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Marietta",
-        "url": "https://open.spotify.com/album/4fUn2vlTjbsJ4SGdTaQYYh"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 147938,
-      "name": "Dad's 4Runner",
-      "url": "https://open.spotify.com/track/0gjf55z02NUzGV3SzDokTn"
     },
     {
       "added_at": "2024-10-11 04:00:00",

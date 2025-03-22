@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "Spring is here! Check out these fresh tracks to keep your faith blooming!\n",
+  "description": "Spring is here! Check out these fresh tracks to keep your faith blooming!",
   "name": "Spring Spirit",
   "tracks": [
     {
@@ -710,7 +710,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 314427,
       "name": "Clean Heart",
       "url": "https://open.spotify.com/track/5qwztsDLBLKRqcd3pgWeGb"
@@ -2449,6 +2449,24 @@
     },
     {
       "album": {
+        "name": "Hindsight",
+        "url": "https://open.spotify.com/album/73rpx3OLPGonVhzo6KRa1q"
+      },
+      "artists": [
+        {
+          "name": "Van Buren",
+          "url": "https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198706,
+      "name": "Hindsight",
+      "url": "https://open.spotify.com/track/0LMIo8xOv1832PxeSo46I8"
+    },
+    {
+      "album": {
         "name": "Hold On Me",
         "url": "https://open.spotify.com/album/3AD16GLcPl1toDt9qgqhE6"
       },
@@ -3034,6 +3052,24 @@
       "duration_ms": 177566,
       "name": "Let It Be Love",
       "url": "https://open.spotify.com/track/0BMFvzRTxSgh4qkskMJqYV"
+    },
+    {
+      "album": {
+        "name": "Let The Church Sing",
+        "url": "https://open.spotify.com/album/7pAwBOLjE8lWRZ0TZgpdHx"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Let The Church Sing",
+      "url": "https://open.spotify.com/track/7Anygo62MNwOsASBpIzWYr"
     },
     {
       "album": {
@@ -4113,6 +4149,24 @@
     },
     {
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/2AVdr27lgQpAz5iiKxw6zV"
+      },
+      "artists": [
+        {
+          "name": "Haddon",
+          "url": "https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/0YDoQ37EPG6m68HiA90FvX"
+    },
+    {
+      "album": {
         "name": "Over & Over",
         "url": "https://open.spotify.com/album/29k7xThF3cibCSHQVnfw1z"
       },
@@ -4403,6 +4457,28 @@
     },
     {
       "album": {
+        "name": "Prayers Filled With Praises (ambient)",
+        "url": "https://open.spotify.com/album/3BSgd7ZNA7MwVlJS8VUd5F"
+      },
+      "artists": [
+        {
+          "name": "Austin Ludwig",
+          "url": "https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL"
+        },
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246043,
+      "name": "Prayers Filled With Praises - ambient",
+      "url": "https://open.spotify.com/track/6RbFD1qIQ4a08mozuzVEqd"
+    },
+    {
+      "album": {
         "name": "Pure Gold",
         "url": "https://open.spotify.com/album/29QjD47g5WsFp4H7RlxyRJ"
       },
@@ -4552,6 +4628,24 @@
       "duration_ms": 189687,
       "name": "Rome",
       "url": "https://open.spotify.com/track/1FJnHjvl8AOZyHpXWzMCfA"
+    },
+    {
+      "album": {
+        "name": "Roseanne",
+        "url": "https://open.spotify.com/album/4qSA4zR0a7mzv46SW9eXJF"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Clifton",
+          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239684,
+      "name": "Roseanne",
+      "url": "https://open.spotify.com/track/1NdXyZ5LszDOul0fVZ6iPO"
     },
     {
       "album": {
@@ -5294,6 +5388,24 @@
       "duration_ms": 246280,
       "name": "The Gardener",
       "url": "https://open.spotify.com/track/3dZILL9CJXjOdIs2Bhy3oK"
+    },
+    {
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/7FmN15oCd3uLB8QamfIrKg"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189048,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/1zgbKCVxcGxdbqce60bEAz"
     },
     {
       "album": {

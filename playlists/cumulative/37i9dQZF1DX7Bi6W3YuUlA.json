@@ -4545,6 +4545,24 @@
     },
     {
       "album": {
+        "name": "City Cinderella",
+        "url": "https://open.spotify.com/album/66HrXUpGRlJdwXIw7B9SQI"
+      },
+      "artists": [
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148333,
+      "name": "Intro (Hope)",
+      "url": "https://open.spotify.com/track/6eo9xRtWnD9QCFYJ4IS7pa"
+    },
+    {
+      "album": {
         "name": "Irresponsible",
         "url": "https://open.spotify.com/album/0L4s7cWKEUFvAthWfWtDtT"
       },
@@ -7326,7 +7344,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 200470,
       "name": "Put Me Back Together",
       "url": "https://open.spotify.com/track/2qU8O6nsI8smkXTgG21IDf"
@@ -7676,6 +7694,24 @@
       "duration_ms": 177613,
       "name": "Right Out The Gate",
       "url": "https://open.spotify.com/track/2ZFnkQzc6rWJ9HhRDoeEbq"
+    },
+    {
+      "album": {
+        "name": "I'm Him 2",
+        "url": "https://open.spotify.com/album/4qcdBStuMPfHMYOUzqBjbp"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Right Where I'm Supposed to Be",
+      "url": "https://open.spotify.com/track/0EJgN1QHZ7aIWT2ggqZL5C"
     },
     {
       "album": {
@@ -8084,7 +8120,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 124195,
       "name": "Spirit Lead Me",
       "url": "https://open.spotify.com/track/0R95NiHcBCtR3TspfmauOv"
@@ -8120,7 +8156,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 139620,
       "name": "Stamina!",
       "url": "https://open.spotify.com/track/5t6PUE4EW0TMbSyuIxrTqg"
@@ -8792,7 +8828,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 155793,
       "name": "The Best",
       "url": "https://open.spotify.com/track/54mrCPoOQmXARvk5aOsAS9"

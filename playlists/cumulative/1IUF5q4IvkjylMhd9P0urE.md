@@ -2,9 +2,9 @@
 
 ### [XL Play](https://open.spotify.com/playlist/1IUF5q4IvkjylMhd9P0urE)
 
-> Our favourite new music, updated monthly by the XL team.
+> Our favourite new music, curated by the XL team.
 
-769 songs - 1 day 19 hr 59 min
+770 songs - 1 day 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [Is U](https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Is U](https://open.spotify.com/album/4jO5B8uUoYusn8Yb8iSoVo) | 3:48 | 2023-01-18 | 2024-03-22 |
 | [isitluv](https://open.spotify.com/track/2To7k5CWffVqCQhbhlZKzO) | [Albertina](https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq) | [Waiting 4 Life](https://open.spotify.com/album/5EWskri4Ymtm74wjH5aRPJ) | 3:57 | 2023-07-03 | 2023-12-08 |
 | [It Must Change](https://open.spotify.com/track/6jbfEdpOd0X5e756Yu7Hz0) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [It Must Change](https://open.spotify.com/album/5osjby3YTPk2tEhRW2uJqk) | 4:55 | 2023-05-23 | 2023-10-20 |
+| [It's Amazing To Be Young](https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [It's Amazing To Be Young](https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs) | 3:30 | 2025-03-21 |  |
 | [It's So Good](https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [It's So Good](https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij) | 4:38 | 2024-01-29 | 2024-09-08 |
 | [ITWYW? \- LVRA REMIX](https://open.spotify.com/track/0hMZOMjuFjO6Hu8Ji6bAxZ) | [AMUNDA](https://open.spotify.com/artist/17F8k7VURMv4mFUvM8QRTg), [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf) | [ITWYW? \(LVRA REMIX\)](https://open.spotify.com/album/77HvEwsbGhLKAo2IhHa2Gk) | 3:24 | 2022-11-08 | 2022-12-20 |
 | [J'adore](https://open.spotify.com/track/3ZspQSOFcZZfRZhNoYDPLs) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [J'adore](https://open.spotify.com/album/1WUIUtEcyOdIjnjosifXK0) | 3:02 | 2023-09-12 | 2024-03-22 |

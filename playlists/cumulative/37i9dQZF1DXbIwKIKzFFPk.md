@@ -4,7 +4,7 @@
 
 > Music from "BLEACH" ! ©久保帯人／集英社・テレビ東京・ｄｅｎｔｓｕ・ぴえろ
 
-103 songs - 6 hr 13 min
+104 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Number One \(vocal ver.\)](https://open.spotify.com/track/4BKetvTh5lMcIDlv9tYQgW) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 4:56 | 2022-10-06 |  |
 | [Number One \- Bankai](https://open.spotify.com/track/1nThz7yEG2vbyI4UmInj5z) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo), [Hazel Fernandes](https://open.spotify.com/artist/0jJoYMlLSaGXfH5cU93YF0) | [Number One \- Bankai](https://open.spotify.com/album/5Mw54lDeLc8jfflOUf5dKQ) | 4:36 | 2022-12-13 |  |
 | [Number One \- Bankai](https://open.spotify.com/track/3w5Fha9feEdRp6FZ29tU2O) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo), [Hazel Fernandes](https://open.spotify.com/artist/0jJoYMlLSaGXfH5cU93YF0) | [TV Animation BLEACH THE BLOOD WARFARE Original Soundtrack Ⅰ](https://open.spotify.com/album/0qmiu9xV3gQ0N3R4xOx62N) | 4:46 | 2024-12-12 |  |
+| [OLDROSE](https://open.spotify.com/track/0093F6xxlANJgH5X9CAzHX) | [Aqua Timez](https://open.spotify.com/artist/2XhA8BOHxO5NwbY6q3W8mD) | [OLDROSE](https://open.spotify.com/album/1dbS6Qr8GKwYKLkfTmeEgN) | 4:35 | 2025-03-21 |  |
 | [On the precipice \- orchestra 2022](https://open.spotify.com/track/3H9YXcstt9Zhr760pyeIVM) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH THE BLOOD WARFARE Original Soundtrack Ⅰ](https://open.spotify.com/album/0qmiu9xV3gQ0N3R4xOx62N) | 2:02 | 2024-12-12 |  |
 | [on the precipice of defeat](https://open.spotify.com/track/32SYEk2ksN8iQtz50AtHYj) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 2:57 | 2022-10-06 |  |
 | [POWER TO STRIVE](https://open.spotify.com/track/6oJfbR19mNWigjpCYBfuwY) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 4](https://open.spotify.com/album/4Ts2JxoesNxryyiBGphX6a) | 2:19 | 2022-10-06 |  |

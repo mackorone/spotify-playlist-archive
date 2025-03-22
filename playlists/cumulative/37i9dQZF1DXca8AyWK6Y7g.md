@@ -4,7 +4,7 @@
 
 > consider us perched for the ascent of main pop girlie rachel chinouriri
 
-2,324 songs - 4 day 20 hr 59 min
+2,328 songs - 4 day 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [Catch Me](https://open.spotify.com/track/5q0CgAV5RnmtYH0oTf4gA8) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Catch Me](https://open.spotify.com/album/5NPi3zRHxY8IEbPc08HuNG) | 3:51 | 2021-04-20 | 2021-11-12 |
 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 | 2022-07-01 | 2022-07-16 |
 | [Cate’s Brother](https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Cate’s Brother](https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F) | 3:00 | 2022-05-06 | 2022-08-13 |
+| [cats can surf](https://open.spotify.com/track/3WUBOD1vDawuuHFlnUXjmV) | [Kayla Grace](https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T) | [cats can surf](https://open.spotify.com/album/4PWFmTNCil8STXVDlLXNsu) | 2:44 | 2025-03-21 |  |
 | [Cats on the Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats on the Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 | 2024-10-18 | 2025-03-01 |
 | [Caught Me a Rhythm](https://open.spotify.com/track/2J9wvPoaUMb9H7lmTgrZ3P) | [Viceroy](https://open.spotify.com/artist/5PzC9pOeviQlNF6iGlUF5C), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Caught Me a Rhythm](https://open.spotify.com/album/1AIsA7xPXGzPtTare72To6) | 3:18 | 2019-05-26\* | 2019-08-13 |
 | [cbb to b sad](https://open.spotify.com/track/6X8lrdPxnChWtIOpLK9vQ1) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [cbb to b sad](https://open.spotify.com/album/3LM0hAxLc8XAo2LQecLjcg) | 4:28 | 2021-08-13 | 2022-01-29 |
@@ -454,6 +455,7 @@
 | [Crush](https://open.spotify.com/track/6clxhuhuVlPCQXzeOe36yE) | [una schram](https://open.spotify.com/artist/1DaQk055DIMxcZKWNQ90Ts) | [Crush](https://open.spotify.com/album/0qEK84neLV6xCIpDoSL3HL) | 3:13 | 2022-01-07 | 2022-01-29 |
 | [Cry](https://open.spotify.com/track/2au4DyNFX59VLV5elmhagj) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [Cry](https://open.spotify.com/album/0hble8eLgWuU9xMZVwn7EU) | 3:09 | 2022-02-11 | 2022-03-12 |
 | [cry for help!](https://open.spotify.com/track/0QBVBpn0JNZ8ZUhGxqmKo2) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [THIS IS A CRY FOR HELP](https://open.spotify.com/album/0L1rHfQJILHQ7NiJVXUs1O) | 2:48 | 2024-02-23 | 2024-03-02 |
+| [Cry For You](https://open.spotify.com/track/68b9QUiyyUMsH9E3zHB1DC) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Cry For You](https://open.spotify.com/album/1WFL9aoPtU670V9RBVqwl4) | 2:22 | 2025-03-21 |  |
 | [crydancing](https://open.spotify.com/track/5lnzgm4UQDiwrC5edZjGFp) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 3:02 | 2022-01-07 | 2022-03-12 |
 | [Crying at CVS](https://open.spotify.com/track/5Zci5CbR7aJftdHCPJVP0M) | [Kilder](https://open.spotify.com/artist/7DvSsGJcVuhweaoQu7nta0), [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Crying at CVS](https://open.spotify.com/album/5G0T45PfRA7Mb2mKuU7Um2) | 3:16 | 2021-05-03 | 2021-10-13 |
 | [Crying Over You](https://open.spotify.com/track/7oDnvOvNLM7tAHykuOrTse) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [Crying Over You](https://open.spotify.com/album/1Iu3Bt2mXV9XOhIAnzJisS) | 2:43 | 2023-06-30 | 2023-07-15 |
@@ -575,6 +577,7 @@
 | [Down for You](https://open.spotify.com/track/5Y6KVqFrsZDIkKBC6K7QQ4) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Yesteryear](https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j) | 3:13 | 2021-01-23 | 2022-01-08 |
 | [down from the high](https://open.spotify.com/track/0eEt3ih8m78sxtQyAXqiSn) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Pieces](https://open.spotify.com/album/7h2aJ4utwpfVK1GHkSGufE) | 3:53 | 2023-05-19 | 2023-06-03 |
 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 | 2024-03-15 | 2024-06-29 |
+| [downtown](https://open.spotify.com/track/4erXR33B8mRN2H5gSIIBwb) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [downtown](https://open.spotify.com/album/5ppNyhcuEa1HqM9wWRMxJD) | 2:52 | 2025-03-21 |  |
 | [Dracula](https://open.spotify.com/track/5JTO8WoZfswTfgiCmmwFg5) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Dracula](https://open.spotify.com/album/4TBYF9lw88IP8fIjehrVxG) | 2:33 | 2022-10-28 | 2022-11-12 |
 | [Drain Me!](https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Drain Me!](https://open.spotify.com/album/7z8DgBZJe1rvHMA5H2EUbW) | 2:01 | 2024-04-14 | 2024-09-28 |
 | [Dream Dream Dream](https://open.spotify.com/track/1oUbYmF4SYYHorKY1wKo0K) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Dream Dream Dream](https://open.spotify.com/album/5pvCGCeutZQhMsLOiGvZSK) | 3:54 | 2019-07-27 | 2021-03-20 |
@@ -597,6 +600,7 @@
 | [dumb dumb](https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 2:05 | 2022-09-20 | 2024-01-13 |
 | [Dumbest Girl Alive](https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 2:17 | 2023-03-17 | 2023-04-23 |
 | [Duo](https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Duo](https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF) | 2:06 | 2021-04-23 | 2021-11-19 |
+| [dust dog](https://open.spotify.com/track/4i5ftCF6M8F2BYZwsNWQrw) | [TEHYA](https://open.spotify.com/artist/1h6hhwFYj4KZTdqq42pjQw) | [SORRY FOR THE WAIT](https://open.spotify.com/album/1K0cCz573kgYQNAOzE6Sfy) | 2:10 | 2025-03-21 |  |
 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 | 2022-02-25 | 2022-06-25 |
 | [e\-z \(feat\. UPSAHL & Blu DeTiger\)](https://open.spotify.com/track/2FsHjcNkT4usTdV2b407Iq) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9), [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [a study of the human experience volume one](https://open.spotify.com/album/1oZ8mqRS1vJFZhSpc4WI4S) | 2:45 | 2022-03-18 | 2022-07-16 |
 | [EAGER](https://open.spotify.com/track/3c6XFFyJbaEXuktEOG4aU6) | [Britton](https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0) | [EAGER](https://open.spotify.com/album/3CWSKQfE0DxrZKIiz0YJ5O) | 2:10 | 2022-08-26 | 2022-09-24 |

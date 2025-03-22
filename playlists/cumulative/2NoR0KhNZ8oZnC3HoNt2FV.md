@@ -4,7 +4,7 @@
 
 > 
 
-1,030 songs - 2 day 11 hr 5 min
+1,032 songs - 2 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Cinderella](https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 2:49 | 2024-03-22 |  |
 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 | 2024-02-14 |  |
 | [Claustrophobic](https://open.spotify.com/track/57ELn9TPDIhrpl0dasS465) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:42 | 2024-03-22 | 2024-05-04 |
+| [Close The Door](https://open.spotify.com/track/7iUb5lNWRXFqtEiDTSr1ac) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Close The Door](https://open.spotify.com/album/5Ta38p3f2tyLLL4X0Jqe04) | 2:11 | 2025-03-21 |  |
 | [Clouded](https://open.spotify.com/track/2J6OF7CkpdQGSfm1wdclqn) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 1:50 | 2024-01-25 |  |
 | [Clout \(feat\. 21 Savage\)](https://open.spotify.com/track/1u0CD4fcBUB1xrG9fNgejh) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Beach House 3 \(Deluxe Edition\)](https://open.spotify.com/album/2wtx5XeYMFOpY40eK9f7fA) | 3:20 | 2024-01-25 |  |
 | [Cocaina](https://open.spotify.com/track/4dHh7DeKSg5zDhMOn7jnlw) | [Captain Cuts](https://open.spotify.com/artist/0rlKkLkpsCnJbZethGBfAk), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Daniels](https://open.spotify.com/artist/7fVCD9G0dFLQBkS5gfXNRl) | [Cocaina](https://open.spotify.com/album/4IZGRiuEUwmhdltlbYPvHP) | 3:28 | 2024-01-25 |  |
@@ -753,6 +754,7 @@
 | [RAP DEVIL](https://open.spotify.com/track/43TP6JCWXgkc2D7Xjz5hBr) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [BINGE](https://open.spotify.com/album/5YuscmEJSgkwWzBafTBKse) | 4:41 | 2024-01-25 |  |
 | [Rap Niggas](https://open.spotify.com/track/23eRgjXUAUE9vuZmMm99EN) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Rap Niggas](https://open.spotify.com/album/4ZhuBLmXj7DI2WJLCOqqH2) | 3:45 | 2024-01-25 |  |
 | [Rated "R"](https://open.spotify.com/track/7z5GxLpWZcUrxmyR5972Pg) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Whut? Thee Album](https://open.spotify.com/album/3FsCGJY0JqSxvgezoMWYzF) | 3:21 | 2023-11-30 | 2024-08-08 |
+| [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 | 2025-03-21 |  |
 | [Real Estate](https://open.spotify.com/track/4w30QJx43RZCuau4Q0cdIH) | [Travy P](https://open.spotify.com/artist/5tu8PIa63J9WLw0vhfH3da) | [Point](https://open.spotify.com/album/06mVMngyx3JTg4UQxmh55B) | 3:25 | 2024-01-25 |  |
 | [Real Talk](https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [The Big 3](https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC) | 3:03 | 2024-01-25 |  |
 | [Realest \(with Eminem\)](https://open.spotify.com/track/39Bpll0P8Yl7Uk816RLuKb) | [Ez Mil](https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [DU4LI7Y: REDUX](https://open.spotify.com/album/4RO6790j1uHJXcI9CTqA1R) | 3:37 | 2023-11-30 | 2024-08-08 |

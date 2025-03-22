@@ -12542,7 +12542,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-11",
+      "date_removed": null,
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -14950,7 +14950,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 190373,
       "name": "GOOD CREDIT (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok"
@@ -15676,7 +15676,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 212598,
       "name": "HBA",
       "url": "https://open.spotify.com/track/6q2PbvM9UEig4r8xku7VIb"
@@ -20702,7 +20702,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-01",
+      "date_removed": null,
       "duration_ms": 138246,
       "name": "Kisses (feat. bbyclose)",
       "url": "https://open.spotify.com/track/2A1aS3mwuGuX2yk1bgxOvA"
@@ -25092,7 +25092,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 134025,
       "name": "MILLIE WALKY",
       "url": "https://open.spotify.com/track/3mzugJrKyhJNzZKS0RgWBg"
@@ -25526,7 +25526,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 156293,
       "name": "MOJO JOJO",
       "url": "https://open.spotify.com/track/3WRUvGqySBZC6RkB5c2w1S"
@@ -27190,7 +27190,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 166250,
       "name": "Na ostatni\u0105 chwil\u0119",
       "url": "https://open.spotify.com/track/4anCiD3HMc1ZeD09IsnzlF"
@@ -28332,6 +28332,24 @@
       "duration_ms": 187058,
       "name": "Nie Mam Czasu Na Wakacje",
       "url": "https://open.spotify.com/track/5FYjUbPN2SDxLVBWGxkb9z"
+    },
+    {
+      "album": {
+        "name": "Nie Moge Cie Zapomniec",
+        "url": "https://open.spotify.com/album/6dl2g1EFeHPgEJtdzRECXE"
+      },
+      "artists": [
+        {
+          "name": "Agnieszka Chyli\u0144ska",
+          "url": "https://open.spotify.com/artist/0CEw36eWG0dYKCXOX8eUoO"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202585,
+      "name": "Nie mog\u0119 ci\u0119 zapomnie\u0107 - Radio Edit",
+      "url": "https://open.spotify.com/track/6A6537BwTdiRefKxjYyYAD"
     },
     {
       "album": {
@@ -30572,7 +30590,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
@@ -32896,7 +32914,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-16",
+      "date_removed": null,
       "duration_ms": 192021,
       "name": "Pi\u0119knie p\u0142yniesz",
       "url": "https://open.spotify.com/track/5XIAnKNsdUim7GQsekL3uE"
@@ -37228,6 +37246,24 @@
       "duration_ms": 207000,
       "name": "Sen we \u015bnie",
       "url": "https://open.spotify.com/track/7EuS4txsabaZyF5mkixLAj"
+    },
+    {
+      "album": {
+        "name": "Sentymenty",
+        "url": "https://open.spotify.com/album/647wZqwIFPEUxVJh9eNniL"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154181,
+      "name": "Sentymenty",
+      "url": "https://open.spotify.com/track/4TbDlszXA0QfSHHYVT39xG"
     },
     {
       "album": {
@@ -47570,6 +47606,36 @@
       "duration_ms": 271759,
       "name": "Znikam",
       "url": "https://open.spotify.com/track/7wE9mPOd1BMrDiq3sQBYfM"
+    },
+    {
+      "album": {
+        "name": "ZNOWU RAZEM",
+        "url": "https://open.spotify.com/album/5vtQOIMKonxuVfSQcB3bx9"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Bonus RPK",
+          "url": "https://open.spotify.com/artist/070tdNOiP3pIsGlqNfVkG3"
+        },
+        {
+          "name": "BeMelo",
+          "url": "https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx"
+        },
+        {
+          "name": "Dj Taek",
+          "url": "https://open.spotify.com/artist/5FhjSSoKazHVr8mWpiwW6R"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "ZNOWU RAZEM",
+      "url": "https://open.spotify.com/track/070NUoVC1oXwH5ywdagLg1"
     },
     {
       "album": {

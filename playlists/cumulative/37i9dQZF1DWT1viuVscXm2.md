@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-358 songs - 20 hr 34 min
+359 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Como Olvidarla](https://open.spotify.com/track/1hJVwecirYRcWvIqXtKq7u) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Como Olvidarla](https://open.spotify.com/album/6IDAEHuhGbPr7r4seDjhk3) | 3:49 | 2021-12-24 |  |
 | [Como Olvidarme](https://open.spotify.com/track/54cC0r3qzqOhYjNsYU73Wn) | [Banda Juarez](https://open.spotify.com/artist/1nxRQ22XbIRuydkNM3SsUv), [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Como Olvidarme](https://open.spotify.com/album/5lNYf7MItETO0R0JwrekHN) | 4:44 | 2023-03-24 | 2023-04-12 |
 | [Como Quieres Que Yo](https://open.spotify.com/track/4QHS4G2UCZJR3VYJHWqeC6) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Como Quieres Que Yo](https://open.spotify.com/album/1HOgIuWxXhcR2ryCkbvAJ3) | 2:54 | 2024-10-04 |  |
+| [Con otra](https://open.spotify.com/track/38EGs4h8GqgrS1HT344SCQ) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Con otra](https://open.spotify.com/album/2waOhmvYhyi4AAlS3mLLaD) | 3:51 | 2025-03-21 |  |
 | [Corazón De Madera](https://open.spotify.com/track/4zL0APZ6sXFZoJwgyRLRIC) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Corazón de Madera](https://open.spotify.com/album/5fvUEK9OgcvU6TwalmypXj) | 2:33 | 2024-09-20 | 2024-10-19 |
 | [Corazón Partido](https://open.spotify.com/track/4BYe8ElhYJgFdXBCZsKiv4) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Corazón Partido](https://open.spotify.com/album/4SodqHuqZTXiKzHmFFNMe5) | 1:58 | 2024-06-07 | 2024-09-28 |
 | [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 | 2023-01-17 |  |
@@ -141,7 +142,7 @@
 | [La Chevecha](https://open.spotify.com/track/3gQt1AZ6wwIZAOgEpenyUA) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Zillertal Orchester](https://open.spotify.com/artist/3QFXO42LJqEnoEmlZ3eb9y) | [La Chevecha](https://open.spotify.com/album/6RAm5Xu4OXtLOw8ipOhq68) | 3:48 | 2024-10-11 | 2024-10-19 |
 | [La Cita](https://open.spotify.com/track/2IjUAcbiHBT6peOmILkLoV) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Renovado](https://open.spotify.com/album/5TYsZVGeyCBWsiiEtUZV36) | 4:18 | 2021-12-24 | 2022-07-29 |
 | [La Cita](https://open.spotify.com/track/7xPoGT10C2Heeu5RKvBgzn) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Renovado](https://open.spotify.com/album/5N6QaxcMze5HSGfMzhWASC) | 4:18 | 2022-07-22 | 2024-04-06 |
-| [La Cobra](https://open.spotify.com/track/1W88WCqW8FtBep9femjfSh) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [La Cobra](https://open.spotify.com/album/1zgag3eaEU9q7aU8Xqr6Z6) | 3:46 | 2024-11-29 |  |
+| [La Cobra](https://open.spotify.com/track/1W88WCqW8FtBep9femjfSh) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [La Cobra](https://open.spotify.com/album/1zgag3eaEU9q7aU8Xqr6Z6) | 3:46 | 2024-11-29 | 2025-03-22 |
 | [La Cola](https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Tiempo De Bailar](https://open.spotify.com/album/07DvHBaC1nFRiVtwW9vaCM) | 2:49 | 2021-12-24 |  |
 | [La Culpa](https://open.spotify.com/track/30tJvRFNIeiLT4oypxhySY) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [La Culpa](https://open.spotify.com/album/4PN3xQ4jytCwVnM3ZNbUnL) | 2:33 | 2022-07-31 | 2022-09-10 |
 | [La Cumbia del Infinito](https://open.spotify.com/track/6b2BVDyqhzA2DHIe01cNhV) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [La Cumbia del Infinito](https://open.spotify.com/album/5sQbOJf1Au4ci4c3edmeUN) | 3:25 | 2021-12-24 | 2025-02-15 |

@@ -4,7 +4,7 @@
 
 > Kick it with some of the hottest bars from Uganda +256
 
-158 songs - 9 hr 0 min
+159 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Miniboss](https://open.spotify.com/track/65oBaIpOVZXMeeLAH1MZtU) | [MC Yallah](https://open.spotify.com/artist/5JEqaMjU6dwGqFJu2wn5Gg), [Debmaster](https://open.spotify.com/artist/44DI5jAUWYRStA0amIvFRl) | [Miniboss](https://open.spotify.com/album/4MTYeWaHWKvawDznM65IyG) | 2:58 | 2023-03-31 |  |
 | [MPAMBANA](https://open.spotify.com/track/6gWmIxytedd5sLaBcy3tX2) | [B\-Flex](https://open.spotify.com/artist/5AmM3bldOswTf8fyDWbQpm), [Tucker HD](https://open.spotify.com/artist/3RDapQeJyAsiuFyZxFualp) | [TRUTH & RIGHTS](https://open.spotify.com/album/6VfbwPYvbTiJUAbzKcbk7C) | 3:30 | 2022-09-08 | 2022-11-18 |
 | [Mubire](https://open.spotify.com/track/709bcWwT5PaVkz1R0ykrKg) | [Small Q](https://open.spotify.com/artist/7ltlgswsQ4Q6Mdcw8GoFZn), [Fresh Kid Ug](https://open.spotify.com/artist/0wvkMEzBET0t77C5FqpMKO) | [Church Boy](https://open.spotify.com/album/5FqLdR3exCWZYptLPrlZH0) | 3:14 | 2023-01-12 |  |
-| [Naomi birthday song](https://open.spotify.com/track/2lQrFQNl5kmZoNCs1KkAL8) | [ml godi](https://open.spotify.com/artist/6xa4Dk2GZqhLboPS1eXDqg) | [Collection](https://open.spotify.com/album/1YogiBfwL9qhYX1bENFWgZ) | 2:38 | 2022-09-08 |  |
+| [Naomi birthday song](https://open.spotify.com/track/2lQrFQNl5kmZoNCs1KkAL8) | [ml godi](https://open.spotify.com/artist/6xa4Dk2GZqhLboPS1eXDqg) | [Collection](https://open.spotify.com/album/1YogiBfwL9qhYX1bENFWgZ) | 2:38 | 2022-09-08 | 2025-03-22 |
 | [NAWULIRANGA \- REMIX](https://open.spotify.com/track/2oAQOpu5CJNzLyjBi0WVFQ) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ) | [AFRICAN HUSTLER MUSIC](https://open.spotify.com/album/20kLWtdqJtNQFqlwXMrFLH) | 4:20 | 2023-09-01 | 2023-09-12 |
 | [NDI MUTO](https://open.spotify.com/track/358OgVeABkdJXUa0uj0463) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [NDI MUTO](https://open.spotify.com/album/0o9hPasKZLH7yKxbC1427i) | 3:09 | 2024-01-12 |  |
 | [Ndolelele](https://open.spotify.com/track/644cjZFzNtNz5dNYwvSuH9) | [Byg Ben Sukuya](https://open.spotify.com/artist/2FU7huRrOYj7J461geVgXH), [Sharon Sento](https://open.spotify.com/artist/0HQs6VxGr3meRHHTkvObxy) | [NDURA EP](https://open.spotify.com/album/4DWD8hAqgT9nzglxp1dVSG) | 3:23 | 2022-09-08 | 2025-03-15 |
@@ -148,6 +148,7 @@
 | [Tswa Daar \(Bonus\)](https://open.spotify.com/track/4hmCdiXXGHMbvz9v0d4ybq) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [Khuli Chana / Ice Prince / AKA / Cleo / Reason & Maggz](https://open.spotify.com/artist/5bZVnJtohH0ngM7GHIw2vi) | [The Chosen](https://open.spotify.com/album/6xOVc2v6gfvktg2HcjAwZo) | 4:23 | 2023-09-01 | 2023-09-12 |
 | [Tv](https://open.spotify.com/track/4DcnGM5mD1Y2QOsywxBMsG) | [Aspika Spoila](https://open.spotify.com/artist/0Rf53WT6ObQ2ysOQyFOkUF) | [GOOD VIBES ONLY](https://open.spotify.com/album/27V62S1APV16vw1MCX8BPl) | 2:29 | 2023-01-20 |  |
 | [Twist the Tongue](https://open.spotify.com/track/4NCdEAjaEq1g44y9jJg7KB) | [Da Agent](https://open.spotify.com/artist/7CC1ueFQOyHQNAuM7nKKrQ) | [Twist the Tongue](https://open.spotify.com/album/2FTNEPfG7iNxL05dUPxoCD) | 3:07 | 2022-09-08 |  |
+| [UG Drill](https://open.spotify.com/track/6fRdYsoppWbIpplWgwelKw) | [Son of Aboda](https://open.spotify.com/artist/7n3CabFMHuzX2Fbz1e8iTs), [Flacko](https://open.spotify.com/artist/0Bu5bK3GUlZajTIb8pjyaO) | [UG Drill](https://open.spotify.com/album/5alkSrwrost5IR6n3jVRzu) | 2:12 | 2025-03-21 |  |
 | [UG Yaffe \- Allstar Remix](https://open.spotify.com/track/5aVwVbXFiwwkk9u629WTMe) | [Gnl Zamba](https://open.spotify.com/artist/0tEJn5RI5zOHwSlbDkBiDP), [St\. Maxi Mayne](https://open.spotify.com/artist/1Zyxe8LgqlD5vqlMhvZbFd), [Fresh Kid Ug](https://open.spotify.com/artist/0wvkMEzBET0t77C5FqpMKO), [Kadabrah](https://open.spotify.com/artist/0gqRgX0oh889UAIK1ZbZ4v), [Joyie 7 Star](https://open.spotify.com/artist/67HCLPYSrDkA1wwJVxYhnw), [Taurus Mcee](https://open.spotify.com/artist/1xjl5vIGPMtLD5I32Cer3y), [prolific](https://open.spotify.com/artist/7JMyxAnabjblWtHu6NG4yE), [JUDAS RAPKNOWLEDGE DA AKBAR](https://open.spotify.com/artist/3iTi5ruCf9iObKTmoALmhC) | [Uganda Yaffe \(Allstar Remix\)](https://open.spotify.com/album/3yn54C2joXIRWPoSZsdejZ) | 4:09 | 2022-09-08 | 2023-04-01 |
 | [Une belle journée pour vivre](https://open.spotify.com/track/5dZcYOYKqhbrP9Eb52xQAX) | [Rox](https://open.spotify.com/artist/3ZMTLiH3o8SiHy3taw9h0X), [Monk.E](https://open.spotify.com/artist/0iA2L1Fbkwp3PxiSD22Uou), [FuegoFlex](https://open.spotify.com/artist/7qvZ0ZHgSmIlKnd2yabQUk), [Krapitaine Cochet](https://open.spotify.com/artist/6Q6FqTJ3mNMiVyO82JVcx0) | [Mon nom est Cosmos](https://open.spotify.com/album/6mhSEkOkh1tE3AfIKjJQZe) | 3:45 | 2024-01-12 |  |
 | [Vexed](https://open.spotify.com/track/0rN3AzAnx0SedfkB1ZzT5g) | [Jona Da King](https://open.spotify.com/artist/0kPgslWy1peactBrX5wHXS) | [Vexed](https://open.spotify.com/album/74JtkXieAwoCrvklPedFsi) | 2:16 | 2023-02-03 | 2025-03-15 |

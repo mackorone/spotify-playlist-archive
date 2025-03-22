@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 50887,
+  "num_followers": 50891,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9i3gAAAAAAH4uh6PbiTqINXac+gwDvM",
+  "snapshot_id": "Z9tagAAAAABwZuyg9E6+yuAW+fqoUpUD",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easter",
-        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 258226,
-      "name": "We Three",
-      "url": "https://open.spotify.com/track/62qEv00qkhGyQdwVzeyXsC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gone Again",
         "url": "https://open.spotify.com/album/00Oaqp3cDVtauWepC7cXfZ"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 257903,
       "name": "Dead To The World",
       "url": "https://open.spotify.com/track/4mJvTXNFDhmUkUIpokZ314"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Easter",
+        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 258226,
+      "name": "We Three",
+      "url": "https://open.spotify.com/track/62qEv00qkhGyQdwVzeyXsC"
     },
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Of Life",
-        "url": "https://open.spotify.com/album/7BoH01CP0QBbx1wFQmwr7g"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 468863,
-      "name": "Where Duty Calls",
-      "url": "https://open.spotify.com/track/3kdwpUPHqdjUJwkYUUaHSI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gone Again",
         "url": "https://open.spotify.com/album/00Oaqp3cDVtauWepC7cXfZ"
       },
@@ -251,38 +235,6 @@
       "duration_ms": 293280,
       "name": "Wing",
       "url": "https://open.spotify.com/track/3CKLNsnMOpi4yPZepcHDth"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Twelve",
-        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 324800,
-      "name": "Pastime Paradise",
-      "url": "https://open.spotify.com/track/3aT5zZz6FEtWAGDRJy7t8j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Horses (Legacy Edition)",
-        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 265466,
-      "name": "Kimberly",
-      "url": "https://open.spotify.com/track/0iI8LriXKjg47IxjNCWuwz"
     },
     {
       "added_at": null,
@@ -303,6 +255,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Horses (Legacy Edition)",
+        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 265466,
+      "name": "Kimberly",
+      "url": "https://open.spotify.com/track/0iI8LriXKjg47IxjNCWuwz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twelve",
+        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 324800,
+      "name": "Pastime Paradise",
+      "url": "https://open.spotify.com/track/3aT5zZz6FEtWAGDRJy7t8j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gone Again",
         "url": "https://open.spotify.com/album/00Oaqp3cDVtauWepC7cXfZ"
       },
@@ -319,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easter",
-        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
+        "name": "Dream Of Life",
+        "url": "https://open.spotify.com/album/7BoH01CP0QBbx1wFQmwr7g"
       },
       "artists": [
         {
@@ -328,9 +312,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 212306,
-      "name": "Privilege (Set Me Free)",
-      "url": "https://open.spotify.com/track/7enBcpQhj0zPppIMLUyMC7"
+      "duration_ms": 468863,
+      "name": "Where Duty Calls",
+      "url": "https://open.spotify.com/track/3kdwpUPHqdjUJwkYUUaHSI"
     },
     {
       "added_at": null,
@@ -351,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Of Life",
-        "url": "https://open.spotify.com/album/7BoH01CP0QBbx1wFQmwr7g"
+        "name": "Easter",
+        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
       },
       "artists": [
         {
@@ -360,9 +344,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 331103,
-      "name": "The Jackson Song",
-      "url": "https://open.spotify.com/track/6Ijgxl0HgCMHqB4gae0T1x"
+      "duration_ms": 212306,
+      "name": "Privilege (Set Me Free)",
+      "url": "https://open.spotify.com/track/7enBcpQhj0zPppIMLUyMC7"
     },
     {
       "added_at": null,
@@ -379,6 +363,22 @@
       "duration_ms": 228743,
       "name": "Wicked Messenger",
       "url": "https://open.spotify.com/track/2CKlx0XM0zACsOfl3SWE2w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream Of Life",
+        "url": "https://open.spotify.com/album/7BoH01CP0QBbx1wFQmwr7g"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 331103,
+      "name": "The Jackson Song",
+      "url": "https://open.spotify.com/track/6Ijgxl0HgCMHqB4gae0T1x"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Of Life",
-        "url": "https://open.spotify.com/album/7BoH01CP0QBbx1wFQmwr7g"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 359783,
-      "name": "Going Under",
-      "url": "https://open.spotify.com/track/3ROjEAi1WPAPwFds429NTX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gone Again",
         "url": "https://open.spotify.com/album/00Oaqp3cDVtauWepC7cXfZ"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 309143,
       "name": "My Madrigal",
       "url": "https://open.spotify.com/track/71hxmZWsasa71twZ6Mn93Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream Of Life",
+        "url": "https://open.spotify.com/album/7BoH01CP0QBbx1wFQmwr7g"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 304671,
+      "name": "As The Night Goes By",
+      "url": "https://open.spotify.com/track/3DjteqYqBVPCV3rgVs7udt"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Of Life",
-        "url": "https://open.spotify.com/album/7BoH01CP0QBbx1wFQmwr7g"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 244031,
-      "name": "Wild Leaves",
-      "url": "https://open.spotify.com/track/057qO32zoehoIz6lKdvP3t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gone Again",
         "url": "https://open.spotify.com/album/00Oaqp3cDVtauWepC7cXfZ"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 497591,
       "name": "About a Boy",
       "url": "https://open.spotify.com/track/0HdfLwXZOHeUUcO2maelzV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream Of Life",
+        "url": "https://open.spotify.com/album/7BoH01CP0QBbx1wFQmwr7g"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 359783,
+      "name": "Going Under",
+      "url": "https://open.spotify.com/track/3ROjEAi1WPAPwFds429NTX"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 253520,
-      "name": "After the Gold Rush",
-      "url": "https://open.spotify.com/track/6aqJhVpN3T3n2SppOM0Vh5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hey Joe / Piss Factory",
         "url": "https://open.spotify.com/album/6fPPFPRXxoXNCc3LaotmQM"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 281026,
       "name": "Piss Factory",
       "url": "https://open.spotify.com/track/5KLKSxNQQqg8hOaHVqEwuk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 253520,
+      "name": "After the Gold Rush",
+      "url": "https://open.spotify.com/track/6aqJhVpN3T3n2SppOM0Vh5"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 340053,
-      "name": "Seneca",
-      "url": "https://open.spotify.com/track/5ZbsRAI0L22x5wV9sjvT1m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gung Ho",
         "url": "https://open.spotify.com/album/6H6ntLDDo8dC7dHKg1UYSE"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 183293,
       "name": "Glitter In Their Eyes",
       "url": "https://open.spotify.com/track/3XGLnUh9XzH1KiAobnpzsv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 340053,
+      "name": "Seneca",
+      "url": "https://open.spotify.com/track/5ZbsRAI0L22x5wV9sjvT1m"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "This Is the Girl",
-      "url": "https://open.spotify.com/track/3aDLTIgOoi21boHt8KXIKB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace & Noise",
         "url": "https://open.spotify.com/album/3ZsYwM93Semk99fceeRz2r"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 238546,
       "name": "1959",
       "url": "https://open.spotify.com/track/6E1y6W1ZTojaBdtHGKDbGK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "This Is the Girl",
+      "url": "https://open.spotify.com/track/3aDLTIgOoi21boHt8KXIKB"
     },
     {
       "added_at": null,

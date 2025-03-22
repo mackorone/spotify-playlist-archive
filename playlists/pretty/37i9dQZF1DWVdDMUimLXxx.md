@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 
 > Add dramatic flair to your strategy game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,740 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,861 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 | 16 | [Partners in Crime](https://open.spotify.com/track/0MC5OUFlsS6wn3tuOYLF5I) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Partners in Crime](https://open.spotify.com/album/0ntMgYnq6D9hswNnEwy3PP) | 3:27 |
 | 17 | [Endeavour](https://open.spotify.com/track/6v3flfFyiewX4uhtefPYKP) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Endeavour](https://open.spotify.com/album/3MwtBdr2Ohdg6TCtHoZDAH) | 4:27 |
 | 18 | [I Thought I'd Never Forget](https://open.spotify.com/track/66TyP1oeJXmnCkNpyul9T1) | [August D\. Valentine](https://open.spotify.com/artist/4MJYe0nbmZr7ty64T1VGoN) | [Momentum](https://open.spotify.com/album/1pP6DihqrGirs9YPUp6bHQ) | 2:20 |
-| 19 | [The Sanctuary Within](https://open.spotify.com/track/5WsT8YFHlMz56vfcgJYGaU) | [Erasmus Talbot](https://open.spotify.com/artist/2P5kUKkNT67xnSyi3bBOoB) | [Light in the Attic](https://open.spotify.com/album/65jhpuyU0R9JPfnC8wcN4x) | 3:06 |
-| 20 | [Dust Turns to Gold](https://open.spotify.com/track/0PAlIXkZ3DXJqAmx1BAXMX) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [The Final Cut](https://open.spotify.com/album/744UTU1JhhXLIqSAF4Q6kp) | 3:14 |
+| 19 | [Dust Turns to Gold](https://open.spotify.com/track/0PAlIXkZ3DXJqAmx1BAXMX) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [The Final Cut](https://open.spotify.com/album/744UTU1JhhXLIqSAF4Q6kp) | 3:14 |
+| 20 | [The Sanctuary Within](https://open.spotify.com/track/5WsT8YFHlMz56vfcgJYGaU) | [Erasmus Talbot](https://open.spotify.com/artist/2P5kUKkNT67xnSyi3bBOoB) | [Light in the Attic](https://open.spotify.com/album/65jhpuyU0R9JPfnC8wcN4x) | 3:06 |
 | 21 | [Mouvement Déterminé](https://open.spotify.com/track/6ryCqg8031fqxpL7Tic6qZ) | [Erinrad Viker Sinfonietta](https://open.spotify.com/artist/577NHFNqD3EF7ePgJxpCzu) | [Mouvement Déterminé](https://open.spotify.com/album/70WIfeigUPwzlT0PUWSXAW) | 3:14 |
 | 22 | [Petricor](https://open.spotify.com/track/33M9AgCbkCRyC97NjJgITh) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Amsterdam Sinfonietta](https://open.spotify.com/artist/2qx7K1T3gw9J0JTQnaGnBD) | [Elements \(Deluxe Edition\)](https://open.spotify.com/album/1lJ0A9ZCqs83Rrp1YIpZgT) | 6:34 |
 | 23 | [Human Revolution](https://open.spotify.com/track/2sXXleqZhdiplnq4qEK3Xq) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Human Revolution](https://open.spotify.com/album/6vsWQN5DoKQ6OydmtfBT0r) | 2:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdDMUimLXxx.md) - [plain]
 | 74 | [MATI](https://open.spotify.com/track/6HeFLsBljHuuYdG4gUzlyE) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [MATI](https://open.spotify.com/album/41wh35g4nY8ilqZKYDBr4h) | 2:16 |
 | 75 | [Crossroad at Dawn](https://open.spotify.com/track/0THdfQgMIwHSJ0zlowjpLP) | [Bill Brown](https://open.spotify.com/artist/0hpjPGgPQW9o5veEihASNJ) | [Lineage 2 \- Chaotic Chronicle](https://open.spotify.com/album/0BawDoh2xMnec8hK6XkQ2L) | 2:00 |
 
-Snapshot ID: `Z9BBsAAAAAAyX0k/g9NTf8nWLNsS71wq`
+Snapshot ID: `Z90/rgAAAAAe09mZzoOLE2ioDS2iTnpX`

@@ -2585,6 +2585,24 @@
     },
     {
       "album": {
+        "name": "Midnight City",
+        "url": "https://open.spotify.com/album/3ptdXZfNqNX2IEx4YZd3kz"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179542,
+      "name": "Midnight City",
+      "url": "https://open.spotify.com/track/3HJd6Q30wXWzFj7V3OTwmN"
+    },
+    {
+      "album": {
         "name": "Miracle (with Ellie Goulding) [David Guetta Remix]",
         "url": "https://open.spotify.com/album/1xF21BZXLDXHuwNfkPojiJ"
       },
@@ -3784,6 +3802,32 @@
       "duration_ms": 215156,
       "name": "Strobe - Layton Giordani Remix",
       "url": "https://open.spotify.com/track/6UGKKxOoUYoq9gL9J49d4p"
+    },
+    {
+      "album": {
+        "name": "T-Shirt",
+        "url": "https://open.spotify.com/album/2EaRYYNXuypVyGrXyLNGCI"
+      },
+      "artists": [
+        {
+          "name": "Victoria",
+          "url": "https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl"
+        },
+        {
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+        },
+        {
+          "name": "Miss Bashful",
+          "url": "https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170416,
+      "name": "T-Shirt",
+      "url": "https://open.spotify.com/track/6PM6pYoesUlOQqO3R6AkPK"
     },
     {
       "album": {

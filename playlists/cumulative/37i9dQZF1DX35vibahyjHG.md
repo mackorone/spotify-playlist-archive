@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: <a href="https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp?si=4Ggxq2DlQFqf0qRPwS6p\_A"> Demi Lee Moore</a>
 
-411 songs - 22 hr 59 min
+412 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Dandelions](https://open.spotify.com/track/5B22C99j6dIYr8RuQPehn7) | [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP) | [Seasons](https://open.spotify.com/album/6rhM9Jy1HrlyALJY1TP8kj) | 3:03 | 2022-05-04 | 2022-09-09 |
 | [Dark Skin](https://open.spotify.com/track/5AjVctG4cZUAlGFWpuIxLe) | [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4) | [Dark Skin](https://open.spotify.com/album/08kjRiczlt4ykqCXPBoASh) | 3:22 | 2023-04-05 | 2023-06-07 |
 | [Deja Vu](https://open.spotify.com/track/79df3H3WrJheCyH6b6ofYJ) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Deja Vu](https://open.spotify.com/album/2ouodKGDJpiydGV62UyCEc) | 2:49 | 2022-10-04 | 2022-12-01 |
+| [Die Mooi In Jou](https://open.spotify.com/track/551wpFlZhakx7qZfvHAAzK) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Die Mooi In Jou](https://open.spotify.com/album/1wmMYG1jDa0am7pDsJagNt) | 3:19 | 2025-03-21 |  |
 | [Dig Dig](https://open.spotify.com/track/2adtZMj7MVTG9AcV4Z0hxS) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [Lagos to Jozi](https://open.spotify.com/album/2JfBHMbRioFcrq5ie7Rdwd) | 4:48 | 2021-12-02 | 2022-04-06 |
 | [Dig Dig](https://open.spotify.com/track/7ilCVsvni3DcYP7V1K4amh) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [Lagos to Jozi](https://open.spotify.com/album/5dTXVRytErS1hYzu1H0iNp) | 4:48 | 2022-11-30 | 2023-03-25 |
 | [Disturbing U](https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Disturbing U](https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc) | 2:31 | 2023-09-06 | 2024-06-06 |
@@ -236,7 +237,7 @@
 | [Nani](https://open.spotify.com/track/4dj9HTABb7AGD4ocx9DLUx) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Nani](https://open.spotify.com/album/7LNH8B00PTKeB59xmdc2It) | 2:53 | 2023-06-07 | 2024-02-07 |
 | [Nani?](https://open.spotify.com/track/2YVt9eWHeeRC3ZRE5I3j6k) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Nani?](https://open.spotify.com/album/27TNpeASSQjTc1jtO77onV) | 3:52 | 2023-11-29 | 2025-01-11 |
 | [Ndaba Zami](https://open.spotify.com/track/5DShkr3xNFLokNNwcOR0Z1) | [Stixx](https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2), [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Baby S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6), [Mathandos](https://open.spotify.com/artist/3G5QEBG3RuUD5cOqaGJ54m) | [Test of Time](https://open.spotify.com/album/0TK7h4LbCG9jFvALxugdsN) | 8:31 | 2024-03-06 | 2024-04-04 |
-| [Neon Moon](https://open.spotify.com/track/0cje0wIUCjbflvaUst6HPz) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Country](https://open.spotify.com/album/00n360LQyiIRSXjPA54HHf) | 4:10 | 2025-03-06 |  |
+| [Neon Moon](https://open.spotify.com/track/0cje0wIUCjbflvaUst6HPz) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Country](https://open.spotify.com/album/00n360LQyiIRSXjPA54HHf) | 4:10 | 2025-03-06 | 2025-03-22 |
 | [Never Forget \[Feat\. Chef 187, Tio Nason, Mwanjé\]](https://open.spotify.com/track/4pBr2SjDVIxfGkUwvOJLx7) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Chef 187](https://open.spotify.com/artist/26fSO7cYQ1Txtb8xNi8byv), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O), [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP) | [Never Forget](https://open.spotify.com/album/1TGT83DEhv2ovTITDUQA2q) | 3:37 | 2022-07-05 | 2022-12-01 |
 | [New Couple](https://open.spotify.com/track/6NChxvMJDAVr9Ze4pNQTNv) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Taste EP](https://open.spotify.com/album/426BOK5jx01hEploQorAb7) | 2:45 | 2021-10-15 | 2023-03-25 |
 | [NEW ID](https://open.spotify.com/track/5mH7eZfw6JegSV0Cr4yTlC) | [Moyoswrld](https://open.spotify.com/artist/5qydyw9umzN1IlybYsgPzR) | [NEW ID](https://open.spotify.com/album/0JbESFTgsAYBkaR0qa97fn) | 1:49 | 2023-06-07 | 2023-09-07 |

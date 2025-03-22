@@ -32353,6 +32353,28 @@
     },
     {
       "album": {
+        "name": "Vanessa",
+        "url": "https://open.spotify.com/album/4OlKyBH2uCf07RcybeYaBf"
+      },
+      "artists": [
+        {
+          "name": "plotones",
+          "url": "https://open.spotify.com/artist/2uiobStTvqQjT30aHqnUKl"
+        },
+        {
+          "name": "4lex",
+          "url": "https://open.spotify.com/artist/5Y3TAUyFG5nZpYVecDRtZ1"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185389,
+      "name": "Vanessa",
+      "url": "https://open.spotify.com/track/3lR2ucuERNadX6zFrvNf2g"
+    },
+    {
+      "album": {
         "name": "Veins",
         "url": "https://open.spotify.com/album/09vzk8zw3OLSn9brPuhdHS"
       },

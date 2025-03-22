@@ -2,9 +2,9 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r?si=VDHPWBawS06aAWA7wneDrA">Nadia Nakai</a>
+> Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO?si=qzTcQzNrR46\-Ja\-55QYIUg">Riky Rick</a>
 
-921 songs - 2 day 1 hr 11 min
+922 songs - 2 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -775,6 +775,7 @@
 | [That's sTRAPPy](https://open.spotify.com/track/01T4sPd3SmwxiIUfSb8KOY) | [Strappy](https://open.spotify.com/artist/05eTwASfdWqnj5Q6ZUtupB) | [That's sTRAPPy](https://open.spotify.com/album/31kAL5LO9RLpveaZZ0p9cH) | 3:05 | 2022-08-18 | 2022-09-23 |
 | [THAT'S WASSUP](https://open.spotify.com/track/4suhCex4pekxVMgzpZ2sQj) | [The Big Hash](https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL), [ZRi.](https://open.spotify.com/artist/0qEbCUh26COfNR2uiNsh4N), [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy), [Thato Saul](https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [THAT'S WASSUP](https://open.spotify.com/album/0clJ4mBuh9cL5KnBW3R0cO) | 5:22 | 2023-04-13 | 2023-06-23 |
 | [THAT'S WASSUP \(feat\. Thato Saul, YoungstaCPT, Tyson Sybateli & ZRi.\)](https://open.spotify.com/track/320Y857NSRG3QtS9ggTG8E) | [The Big Hash](https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL), [Thato Saul](https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy), [ZRi.](https://open.spotify.com/artist/0qEbCUh26COfNR2uiNsh4N) | [THAT'S WASSUP \(feat\. Thato Saul, YoungstaCPT, Tyson Sybateli & ZRi.\)](https://open.spotify.com/album/2UbdeleCG2ygETKWANvkOH) | 5:22 | 2024-02-08 | 2024-07-27 |
+| [The Chant \(feat\. Dee Koala & Gemini Major\)](https://open.spotify.com/track/5OWCVOQ37ipOrHIAcPQyYJ) | [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO), [Dee Koala](https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT), [Gemini Major](https://open.spotify.com/artist/7CmcmdcG6g6XOXueKHgCaM) | [The Chant \(feat\. Dee Koala & Gemini Major\)](https://open.spotify.com/album/72WJTN1RzentaRuhB3aTRq) | 3:07 | 2025-03-21 |  |
 | [THE COOL](https://open.spotify.com/track/4CrXE9L2e9lfdMp7amBON4) | [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR) | [SHINE O' CLOCK](https://open.spotify.com/album/3UslL0HVp28oOC3fFn7oQw) | 3:10 | 2024-07-25 | 2025-03-01 |
 | [THE DOLLAR DISEASE](https://open.spotify.com/track/6Zy8ekom9qNeCJtFRqz3Ac) | [Pr3tty Boy](https://open.spotify.com/artist/19ilu0bDWXzkytEZ3Mfl6q) | [THE DOLLAR DISEASE](https://open.spotify.com/album/6G4RZR7TRP6aIgZNTW7cUY) | 1:43 | 2022-05-19 | 2022-06-28 |
 | [The Fire \- Remix](https://open.spotify.com/track/7H1gTfZ5BQ8KLWEY0V2Tzg) | [Raheem Kemet](https://open.spotify.com/artist/4lFUFYGja5620rFRngaQWG) | [The Fire \(Remix\)](https://open.spotify.com/album/3rIaRhBltoL1ZrIMAgMMNf) | 3:46 | 2023-01-30 | 2023-02-02 |

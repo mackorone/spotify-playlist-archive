@@ -4,7 +4,7 @@
 
 > Guided meditations for a variety of needs.
 
-136 songs - 16 hr 25 min
+137 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [5 Minute Guided Meditation for Deep Sleep](https://open.spotify.com/track/37dsjUA67eiuIxhyOrFQcm) | [Guided Meditation](https://open.spotify.com/artist/5lWKhMEB1HAYGo8i3AndCm) | [Guided Meditations for Deep Sleep](https://open.spotify.com/album/1g7mADMaeo7LhAU8apYhg8) | 5:00 | 2023-08-22 |  |
 | [5 Minute Guided Morning Meditation \(Spiritual Morning\)](https://open.spotify.com/track/5jV01YQUUOQo9hWjKOOz0l) | [Meditation Family](https://open.spotify.com/artist/7gUWbtZiWcLUxuhIqGrd2r) | [5 Minute Guided Meditations](https://open.spotify.com/album/25cQ9rlSnGdc5Ek7I8JsVg) | 6:39 | 2023-08-22 |  |
 | [5 Minute Morning Meditation](https://open.spotify.com/track/5BORc1Unb7pxS89vM1AHOS) | [Serenity Symphony](https://open.spotify.com/artist/4uPsbe0BKt1O8ZxJUyly8z) | [5 Minute Morning Meditation](https://open.spotify.com/album/5b6Bcgxm2bYHl9PtHJEDMu) | 4:58 | 2023-08-22 |  |
+| [7 Minutes to Bliss Guided Meditation by Davidji](https://open.spotify.com/track/7LWbuqbAknHOGbO1Q1ehxQ) | [Davidji](https://open.spotify.com/artist/5xDhn69h8RGDjAuDHqUsQk) | [7 Minutes to Bliss Guided Meditation by Davidji](https://open.spotify.com/album/2aPx1ZL54jvi1MoLS5IvxO) | 7:33 | 2025-03-21 |  |
 | [A Centered Heart](https://open.spotify.com/track/3aJOYHuQJmjiMGnFPa6kIc) | [A Space Collective](https://open.spotify.com/artist/4A31qtaeXzTd9oQy1o5Msg) | [Heart Frequencies](https://open.spotify.com/album/4vSPdHDdOE3zNmlC6wLLMe) | 15:39 | 2024-04-11 |  |
 | [A Centered Heart](https://open.spotify.com/track/5ZEp0FJoApmDwNfegtM4Jk) | [A Space Collective](https://open.spotify.com/artist/4A31qtaeXzTd9oQy1o5Msg) | [Heart Frequencies](https://open.spotify.com/album/5zySMArcWIzOOklmWyoF5o) | 15:39 | 2023-08-22 | 2024-04-19 |
 | [Abundance Affirmations](https://open.spotify.com/track/6KUlTPqBB1CmmQjyCc00Qq) | [Manifesting for Change](https://open.spotify.com/artist/5PKoUXsVdla0JvF8uSBiYf), [LunaLight](https://open.spotify.com/artist/6FusMx9tVAbqvvSGXjOlnc) | [Abundance Affirmations](https://open.spotify.com/album/2yTAhUNxn22BUqnj2axSNn) | 1:27 | 2024-08-20 |  |
@@ -62,7 +63,7 @@
 | [Guided Meditation \- Peace And Clarity \(Hilltop\)](https://open.spotify.com/track/1ghWdElfluoIJKjfFazQ5G) | [Melatonement](https://open.spotify.com/artist/1ZlMvBVYhelNe23PPk4mBN) | [Spiritual Enlightenment](https://open.spotify.com/album/7InpPeGiHlnxcbuXIB9O58) | 4:47 | 2023-08-22 |  |
 | [Guided Meditation \- Presence \(Forest\)](https://open.spotify.com/track/0AP0akzb0mORkCYfnShmbL) | [Melatonement](https://open.spotify.com/artist/1ZlMvBVYhelNe23PPk4mBN) | [Spiritual Enlightenment](https://open.spotify.com/album/7InpPeGiHlnxcbuXIB9O58) | 4:09 | 2023-08-22 |  |
 | [Guided Meditation \- Stress Relief \(Beach\)](https://open.spotify.com/track/5t7Kx1DdVEHTZiBykwprjY) | [Melatonement](https://open.spotify.com/artist/1ZlMvBVYhelNe23PPk4mBN) | [Spiritual Enlightenment](https://open.spotify.com/album/7InpPeGiHlnxcbuXIB9O58) | 4:20 | 2023-08-22 |  |
-| [Guided Meditation for Anxiety Relief](https://open.spotify.com/track/0vOQBJ2CSlnpQrwsmYPKl4) | [Guided Meditation Maestro](https://open.spotify.com/artist/6YWu7Ji2TZDduLHzBF1XMB) | [Guided Meditation for Anxiety \- Relaxing Music and Daily Meditation Guide for Mindfulness Exercises & Deep Breathing Techniques, Stress Relief and Anxiety](https://open.spotify.com/album/65nBmBvbLnDlUG2uYcu49m) | 8:32 | 2023-08-22 |  |
+| [Guided Meditation for Anxiety Relief](https://open.spotify.com/track/0vOQBJ2CSlnpQrwsmYPKl4) | [Guided Meditation Maestro](https://open.spotify.com/artist/6YWu7Ji2TZDduLHzBF1XMB) | [Guided Meditation for Anxiety \- Relaxing Music and Daily Meditation Guide](https://open.spotify.com/album/65nBmBvbLnDlUG2uYcu49m) | 8:32 | 2023-08-22 |  |
 | [Guided Meditation for Deep Fulfillment 10 Minutes](https://open.spotify.com/track/7FHauzrQFNvkYBolxbmxzX) | [Kelly Howell](https://open.spotify.com/artist/4KYmHtXXlx6QOA4h38Mqjp), [Brain Sync](https://open.spotify.com/artist/4CKIFWDUkBQIdqRzGHQP7e) | [Oneness Guided Meditations for Deep Fulfillment](https://open.spotify.com/album/6wYqXY8xvfENOAiLubCNwr) | 10:02 | 2024-02-20 |  |
 | [Guided Meditation for Higher Perspective](https://open.spotify.com/track/5v9E2NneragkpYB8Eaz8YO) | [Rising Higher Meditation](https://open.spotify.com/artist/5dYqiLBRNpmLk5oj8af9Uj), [Jess Shepherd](https://open.spotify.com/artist/0tb8jNmVT0pAeMX72rbK0q) | [Guided Meditation for Higher Perspective](https://open.spotify.com/album/1XHXCzIiccRMVPZTV9jZHl) | 10:45 | 2023-08-22 |  |
 | [Guided Meditation for Inner Peace 10 Minutes](https://open.spotify.com/track/5hKrFINdCcuyBTVNpIBWIK) | [Kelly Howell](https://open.spotify.com/artist/4KYmHtXXlx6QOA4h38Mqjp), [Brain Sync](https://open.spotify.com/artist/4CKIFWDUkBQIdqRzGHQP7e) | [Inner Peace Guided Meditations to Relieve Anxiety](https://open.spotify.com/album/4yo55VmZJ1gOBXDidsQEtE) | 10:00 | 2024-02-20 |  |

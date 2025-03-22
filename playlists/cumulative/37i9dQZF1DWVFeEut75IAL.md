@@ -4,7 +4,7 @@
 
 > The most calming classical music.
 
-177 songs - 11 hr 35 min
+178 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Bach: Adagio \(After Violin Concerto No\. 2, BWV 1042\)](https://open.spotify.com/track/1v3gGmcneK1QzYyBFiBXG0) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Gabriela Montero](https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr) | [Bach and Beyond](https://open.spotify.com/album/5IOSn5wePFXjdss00TdTe7) | 5:01 | 2022-01-10 |  |
 | [Bach: Prelude in B minor, BWV 855a \(Arr\. by Alexander Siloti\)](https://open.spotify.com/track/18JxYMTSFKZlxqdNFrOs1r) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Bach: Prelude in B minor, BWV 855a \(Arr\. by Alexander Siloti\)](https://open.spotify.com/album/1J2gEYm9QCKqxwpGl3xDtT) | 4:01 | 2021-11-15 |  |
 | [Be My Home](https://open.spotify.com/track/7EqkO7UDHveqXYzPrOZYei) | [Eunike Tanzil](https://open.spotify.com/artist/78XsqB0fsyDU7wR2w4zVuA) | [Be My Home](https://open.spotify.com/album/0sLS50WjlcxejcgtL5gjvB) | 4:44 | 2024-07-26 |  |
+| [Berceuse in D\-Flat Major, Op\. 57](https://open.spotify.com/track/03rTshJnAuh5YxvXrHGw5V) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Benjamin Grosvenor](https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj) | [Chopin: Berceuse in D\-Flat Major, Op\. 57](https://open.spotify.com/album/4DivI1dZOa7WfhdwNBYxmb) | 4:28 | 2025-03-21 |  |
 | [Berceuse, Op\. 16](https://open.spotify.com/track/1wmmMQrhjOVK7dIyn1OgUT) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Laurent Wagschal](https://open.spotify.com/artist/1KH9u201pXo6g9cXxNZo12), [Ji\-Yoon Park](https://open.spotify.com/artist/3lXWyaM9oLk5FdLhBAIHqJ) | [Berceuse](https://open.spotify.com/album/1CbzrevO6aayKT9t5RQ1ly) | 3:23 | 2024-07-19 |  |
 | [Bulgaria](https://open.spotify.com/track/782rqTD0wtue0vqytqoQxk) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV), [Clara Büsel](https://open.spotify.com/artist/6s2VkU5B3ll5cyPVelI13O), [Leandro Hauxwell](https://open.spotify.com/artist/05wR32yzOF9iIsXlmtiMRu), [Alona Khlevna](https://open.spotify.com/artist/30gg8sWAfaLRlvqC2bex4s), [Gereon Theis](https://open.spotify.com/artist/5ArKJsYmYAb6T8Z2djzVyv), [Vladislav Cojocaru](https://open.spotify.com/artist/6cMbi1smxNWFnchraYE6gF) | [Bulgaria](https://open.spotify.com/album/75CM38oTrrHy8RFzpQeiSc) | 4:01 | 2024-09-27 |  |
 | [Butterfly Lovers Violin Concerto: III\. Adagio assai doloroso](https://open.spotify.com/track/6Dc6V2K9nrwFfNcefx3XS3) | [Chen Gang](https://open.spotify.com/artist/5UwRQg1yURCdW2YG1eqCt5), [He Zhanhao](https://open.spotify.com/artist/2l7ORrnBVAgvUUe6yqkyrF), [Chloe Chua](https://open.spotify.com/artist/0JwCInHbEPiiLqGj8cIr3j), [Singapore Symphony Orchestra](https://open.spotify.com/artist/32sSC58wBNlSthfdC2t8Av), [Rodolfo Barráez](https://open.spotify.com/artist/0DWgEaDSiGWk91Utd0L0iv), [Ng Pei\-Sian](https://open.spotify.com/artist/1i930Ret8nXybPLsidrklO) | [Butterfly Lovers Concerto & Paganini](https://open.spotify.com/album/5YSrunbKaLUUEsq7shIVJk) | 2:49 | 2024-09-05 |  |

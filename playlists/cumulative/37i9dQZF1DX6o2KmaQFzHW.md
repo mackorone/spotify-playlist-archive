@@ -4,7 +4,7 @@
 
 > Clásicos de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino
 
-248 songs - 14 hr 31 min
+249 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Gato de mate](https://open.spotify.com/track/5hVBYheKoBQfGIzMIhQk61) | [Néstor Garnica](https://open.spotify.com/artist/5MJFjxBEw8HCzFvYhYMs5w) | [Coplas del Violinero](https://open.spotify.com/album/2cv2sQMYxzLAFVxOGKuUCN) | 2:44 | 2022-02-21 | 2024-11-14 |
 | [Gracias A La Vida](https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:24 | 2021-07-23 | 2024-11-12 |
 | [Guitarra de Medianoche](https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Greatest Hits](https://open.spotify.com/album/3ccvDDuAXDgTBcEJsrotLV) | 3:16 | 2021-07-23 | 2024-11-14 |
+| [Hasta un nuevo amanecer](https://open.spotify.com/track/7xsX0z0DVr2XA8tS9ZHj5q) | [Juan Alfredo El Chinito](https://open.spotify.com/artist/2SpNACXr8ZnXI2NzxQx5T8), [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [Hasta un nuevo amanecer](https://open.spotify.com/album/0WKUxcxIg0VG7ajlgz6bnc) | 2:07 | 2025-03-21 |  |
 | [Jazmin de Luna](https://open.spotify.com/track/52KJTES45cbNkZOvdWj7d7) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Leyenda](https://open.spotify.com/album/0ElncY7qEVIgOs0QXBZUUO) | 3:09 | 2023-09-07 | 2024-04-19 |
 | [Jazmín de Luna](https://open.spotify.com/track/4fbY00uU5nctQjO3xhoobi) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Tributo, Sus 20 Mejores Canciones](https://open.spotify.com/album/3XQCWyBzi6lMqpbL8GV7UZ) | 3:04 | 2021-07-23 |  |
 | [Jazmín de Luna](https://open.spotify.com/track/3ia4suHJXrpiNqP3KUCc3t) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Por Siempre....](https://open.spotify.com/album/1o4WtYSLqFy93QykeBwx7T) | 3:05 | 2023-06-22 | 2023-09-15 |

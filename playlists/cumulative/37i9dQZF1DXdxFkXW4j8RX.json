@@ -1207,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "Deja Vu & Friends (En Vivo)",
+        "url": "https://open.spotify.com/album/0vzARvVBH6MK2YJnq89MmR"
+      },
+      "artists": [
+        {
+          "name": "Liricistas",
+          "url": "https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182954,
+      "name": "Don\u00b4t Stop - En Vivo",
+      "url": "https://open.spotify.com/track/5bTtgTUcCh38rjjhULrfe6"
+    },
+    {
+      "album": {
         "name": "D\u00f3nde Est\u00e1",
         "url": "https://open.spotify.com/album/6MZ4drXEEWrE78nKyQr4aW"
       },

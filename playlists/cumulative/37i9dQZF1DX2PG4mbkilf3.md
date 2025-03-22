@@ -2,9 +2,9 @@
 
 ### [Mood Ring ](https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3)
 
-> This is R&B in Canada\. Elevate your aura with Maz B from Winnipeg, MB.
+> This is R&B in Canada\. Elevate your aura with Jesse Gold from Toronto, ON and Katie Tupper from Saskatoon, SK.
 
-1,299 songs - 2 day 19 hr 51 min
+1,301 songs - 2 day 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [careless \(feat\. daniel caesar\)](https://open.spotify.com/track/3xqtvSfofDvSMVwwSbuvKi) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:36 | 2022-02-18 | 2022-04-23 |
 | [Catch & Release](https://open.spotify.com/track/6XKh5DQ1V5ZFvbG64SFIBY) | [Tia Wood](https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC) | [Catch & Release](https://open.spotify.com/album/1XOuyWT4IruX0uh1XpyJrm) | 2:25 | 2024-08-23 | 2024-09-28 |
 | [CATCH 22](https://open.spotify.com/track/61eEF4qIHhrJsE8CF1R5kX) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [CATCH 22](https://open.spotify.com/album/4XeMqeZz3kJPowaqMMB1uo) | 1:35 | 2022-04-15 | 2022-04-29 |
-| [Caught Up](https://open.spotify.com/track/7kWn6fsXfLR5jdVltlbNrK) | [Joël Lobban](https://open.spotify.com/artist/1aKxOOjrr9tPOCat11beik) | [Caught Up](https://open.spotify.com/album/38rrMdcyVVLxFRcoHnycNA) | 2:15 | 2025-01-17 |  |
+| [Caught Up](https://open.spotify.com/track/7kWn6fsXfLR5jdVltlbNrK) | [Joël Lobban](https://open.spotify.com/artist/1aKxOOjrr9tPOCat11beik) | [Caught Up](https://open.spotify.com/album/38rrMdcyVVLxFRcoHnycNA) | 2:15 | 2025-01-17 | 2025-03-22 |
 | [Ce Soir 22](https://open.spotify.com/track/0r2GXh51kE6Lxt5khapdWE) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [Ce Soir 22](https://open.spotify.com/album/3DwGIRqyfNcbcKkYTudUc3) | 1:14 | 2022-03-18 | 2022-04-16 |
 | [Celebration](https://open.spotify.com/track/3mGOF4mH0WVlxcKfayGZam) | [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Celebration](https://open.spotify.com/album/0TOJO823upXQeMIpT4GgZV) | 2:48 | 2024-03-29 | 2024-09-14 |
 | [Celestial](https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Another Life](https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo) | 2:53 | 2023-01-20 | 2023-01-28 |
@@ -707,6 +707,7 @@
 | [Mi Amore](https://open.spotify.com/track/11TZxoP10j6RTgtqe5TCAx) | [Beach Season](https://open.spotify.com/artist/44hIVkpzLPUGJGUa04H3jw), [Charles August](https://open.spotify.com/artist/1s0b8CYKIPDbg6m2MJIWhy), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [Mi Amore](https://open.spotify.com/album/5qSlrrh5ixWfKuWqM1oSQy) | 3:00 | 2022-07-29 | 2022-10-15 |
 | [Mi Amore](https://open.spotify.com/track/3Tikv3me2NidHA1dYDTYx3) | [Beach Season](https://open.spotify.com/artist/44hIVkpzLPUGJGUa04H3jw), [Charles August](https://open.spotify.com/artist/1s0b8CYKIPDbg6m2MJIWhy), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [Mi Amore](https://open.spotify.com/album/2nqXM4r42yt8zTqLTlykun) | 3:00 | 2022-10-14 | 2022-11-26 |
 | [MI PAPER](https://open.spotify.com/track/7ABS8CmDKujkYK9zF5sdCn) | [Will TOA](https://open.spotify.com/artist/69xjIFoFKUn23lDQAYoDqM) | [MI PAPER](https://open.spotify.com/album/0OB1qnvDpny15yKOBhGSs0) | 3:04 | 2022-03-18 | 2022-04-23 |
+| [Miles \(Interlude\)](https://open.spotify.com/track/0anKboJ3IY8E1FuJRmRdzi) | [Vicky R](https://open.spotify.com/artist/468tlC6QAKEJ4u0jndX9o0), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [LOBBY](https://open.spotify.com/album/78fUKHidecZPV1xvxKpobm) | 2:18 | 2025-03-21 |  |
 | [Millionth Time](https://open.spotify.com/track/3IoF0Dezdcv1VP6sX4GfXS) | [Joël Lobban](https://open.spotify.com/artist/1aKxOOjrr9tPOCat11beik) | [Millionth Time](https://open.spotify.com/album/6wLI2RFwsRXMCUOOglSzm6) | 2:41 | 2024-01-19 | 2024-02-10 |
 | [Mind Games](https://open.spotify.com/track/5QqZxIFsXfyIIKWB5MWgza) | [Cameron James](https://open.spotify.com/artist/4L2lMQeDAR8VxA0ZiMR9hT), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk) | [Mind Games](https://open.spotify.com/album/20s5zflxqnKD6pXT2EYgr7) | 2:16 | 2024-07-12 | 2024-10-05 |
 | [Mine](https://open.spotify.com/track/1UNaDPh6SNfiihZ1Uc7HDF) | [Mannie](https://open.spotify.com/artist/0zgAhjlUqDIcAm9hwZmiFw) | [Mine](https://open.spotify.com/album/02tL7M4eapTNEaogfQdXat) | 2:55 | 2022-09-23 | 2022-11-26 |
@@ -814,7 +815,7 @@
 | [ON VENUS](https://open.spotify.com/track/3y5DngFE3QJEc6TSuW0hSv) | [NADUH](https://open.spotify.com/artist/5voTUw1S7gRACJXVp3slwh) | [ON VENUS](https://open.spotify.com/album/5PI4hnyqYDTyTTlwDLqvVA) | 3:39 | 2022-06-03 | 2022-07-09 |
 | [On You](https://open.spotify.com/track/0X9rx5UiFs4I94FISybqUQ) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [On You](https://open.spotify.com/album/1YOo4AOuv6sMKRecYIRyG0) | 2:50 | 2024-08-16 | 2024-10-26 |
 | [One 4 U](https://open.spotify.com/track/0rrUIAypiKTdpLw4A80ti3) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [One 4 U](https://open.spotify.com/album/0ZKzGLUdPNcbVvDUbVUycX) | 2:28 | 2022-09-16 | 2022-10-01 |
-| [One Gripe](https://open.spotify.com/track/2Xml90DLbRQ5UI2gUfjAAA) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [All Cylinders](https://open.spotify.com/album/1jooROM5diSNAfEwESyDDH) | 2:29 | 2025-02-28 |  |
+| [One Gripe](https://open.spotify.com/track/2Xml90DLbRQ5UI2gUfjAAA) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [All Cylinders](https://open.spotify.com/album/1jooROM5diSNAfEwESyDDH) | 2:29 | 2025-02-28 | 2025-03-22 |
 | [One Last Dance](https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [One Last Dance](https://open.spotify.com/album/4jkz8mydS7s16NGGaBdQTe) | 3:28 | 2024-03-15 | 2024-09-07 |
 | [ONE MORE TIME \(TRY\)](https://open.spotify.com/track/0nvBw7Jz4SxNIrZ5X6caQw) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Camper](https://open.spotify.com/artist/5fHfXfYXOLsHluSat8jYeS) | [ONE MORE TIME \(TRY\)](https://open.spotify.com/album/2XEfda319MXDI00Ym46dAq) | 2:48 | 2025-02-28 |  |
 | [One of a Kind](https://open.spotify.com/track/3H2QWiGkf3TPUdpJ5mWC1i) | [Samalong](https://open.spotify.com/artist/4yOkiVMHxAhibnNCjD7C7j) | [One of a Kind](https://open.spotify.com/album/13KAvyHqU9jpuH3qCQhLZn) | 3:53 | 2022-12-23 | 2023-02-18 |
@@ -967,6 +968,7 @@
 | [Say Yes](https://open.spotify.com/track/24elH6i4AZUcsPQrsQgSUA) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [Say Yes](https://open.spotify.com/album/2KjvoZQwm2PoYkTGyJNeP7) | 3:45 | 2024-10-25 | 2025-02-15 |
 | [Scorn](https://open.spotify.com/track/0O7Abs1v4hPkru4MAcH3wE) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2) | [Scorn](https://open.spotify.com/album/2e3BnLne1cttH2PYAO2lnB) | 1:53 | 2024-06-28 | 2024-10-19 |
 | [SEALED](https://open.spotify.com/track/7LZBJUhtBnubzkZe7Fmw2F) | [Gaby Harvey](https://open.spotify.com/artist/2viTeSP7GAq0XGW6q8n0nt) | [SEALED](https://open.spotify.com/album/0Dvd00aVRh1EiAXNUBcQ68) | 3:09 | 2022-02-18 | 2022-03-18 |
+| [sean leon must die](https://open.spotify.com/track/6Ec2b5AQFpMj57fgEHfjm1) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [sean leon must die](https://open.spotify.com/album/7xJ6ZYpqRgMyONwLNpxHVc) | 5:03 | 2025-03-21 |  |
 | [Seep](https://open.spotify.com/track/5aYJGkWXnEiQ92hkUIQ90O) | [Basil Phoenix](https://open.spotify.com/artist/1XMew7HvkGNxubNoM1u3sV) | [Seep](https://open.spotify.com/album/6IHXPoyWj6xN9zdYsSRLN1) | 2:40 | 2024-04-26 | 2024-06-08 |
 | [Self Talk](https://open.spotify.com/track/1QgRR1orkGMixuhjS1XV8D) | [LOKRE](https://open.spotify.com/artist/5GZK6iJt7jRO73C3zH5sho) | [ELIZABETH](https://open.spotify.com/album/4tzeckAWaM1QnimGXDD796) | 3:42 | 2022-09-16 | 2023-07-22 |
 | [Selfie](https://open.spotify.com/track/1eFptQumbRt3F1mRjsRgwH) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Selfie](https://open.spotify.com/album/4S7MbbcAuQRFBqIKhFNbeK) | 2:44 | 2024-08-02 | 2024-10-26 |

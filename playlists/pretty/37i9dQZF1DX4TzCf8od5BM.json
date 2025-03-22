@@ -1,13 +1,33 @@
 {
   "description": "Sing-along to your favorite songs from Disney Jr. shows including music from SuperKitties.",
-  "num_followers": 58419,
+  "num_followers": 58437,
   "original_name": "Disney Junior Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5QyCQAAAACJEspE9InYRCnGCDR5iKZu",
+  "snapshot_id": "Z93dnAAAAAB2rPtgKfi11AHyOfhiH8Eh",
   "tracks": [
+    {
+      "added_at": "2025-03-21 21:43:56",
+      "album": {
+        "name": "Disney Jr. Music: Let's Play! Spring Jams",
+        "url": "https://open.spotify.com/album/5oMXC29YIhYSqNXEcnz9z5"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "duration_ms": 75776,
+      "name": "Easter Buddies - From \"Disney Jr. Music: SuperKitties\"",
+      "url": "https://open.spotify.com/track/1hOQTZ9xAl0DqVlGGm2fKk"
+    },
     {
       "added_at": "2025-01-25 00:36:25",
       "album": {

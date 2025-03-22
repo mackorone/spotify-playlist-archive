@@ -1,13 +1,45 @@
 {
   "description": "Every legend has a beginning. Listen to music from Arcane, now streaming on Netflix. ",
-  "num_followers": 696019,
+  "num_followers": 697179,
   "original_name": "Arcane Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9ODZAAAAABO7ubyHv4C54s9zNVAloDw",
+  "snapshot_id": "Z9zl1gAAAADRlnybDBIpyycs5Ct8F33E",
   "tracks": [
+    {
+      "added_at": "2025-03-21 04:06:46",
+      "album": {
+        "name": "Arcane League of Legends: Season 2 Original Soundtrack (Extended Edition)",
+        "url": "https://open.spotify.com/album/6L0Ddqho2KlutenNvRCOYc"
+      },
+      "artists": [
+        {
+          "name": "Mako",
+          "url": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
+        },
+        {
+          "name": "Grey",
+          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "What Have They Done To Us (ft. Sasha Alex Sloan) (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/5O0xMAdhVfPrPf5FMieyiV"
+    },
     {
       "added_at": "2025-03-14 01:16:20",
       "album": {

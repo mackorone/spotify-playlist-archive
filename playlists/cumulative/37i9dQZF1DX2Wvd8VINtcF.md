@@ -4,7 +4,7 @@
 
 > pearl of the week \- Aminé!
 
-1,759 songs - 3 day 23 hr 13 min
+1,760 songs - 3 day 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1642,6 +1642,7 @@
 | [Valentina](https://open.spotify.com/track/0s7Z1RtnsmiYOfSIbB3btD) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Valentina](https://open.spotify.com/album/3Fqjb0gzWbJglEdf4HX5uw) | 2:34 | 2023-03-30 | 2023-05-05 |
 | [Vampire Boi \- Debbie Sings Remix](https://open.spotify.com/track/6OhEXC3urHD5uFJjc4DzK9) | [First Hate](https://open.spotify.com/artist/5HOnVNfQ1FvMzZN2NEuNhP), [Debbie Sings](https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW) | [Vampire Boi \(Debbie Sings Remix\)](https://open.spotify.com/album/3PUPO65tkEZ7YA0fLUl52a) | 3:10 | 2022-11-17 | 2022-12-24 |
 | [Vandalist](https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Vandalist](https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ) | 3:29 | 2024-04-11 | 2024-05-17 |
+| [Vanessa](https://open.spotify.com/track/3lR2ucuERNadX6zFrvNf2g) | [plotones](https://open.spotify.com/artist/2uiobStTvqQjT30aHqnUKl), [4lex](https://open.spotify.com/artist/5Y3TAUyFG5nZpYVecDRtZ1) | [Vanessa](https://open.spotify.com/album/4OlKyBH2uCf07RcybeYaBf) | 3:05 | 2025-03-20 |  |
 | [Veins](https://open.spotify.com/track/3mpWWS9JlRWiHbxiKV4Vlo) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [Veins](https://open.spotify.com/album/09vzk8zw3OLSn9brPuhdHS) | 2:40 | 2024-11-14 | 2025-03-21 |
 | [very bad](https://open.spotify.com/track/0IqVMCcDg2hYDmH9s3sEFq) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/557byf4k5KkoU7UnjAVpKc) | 3:57 | 2022-11-17 | 2022-11-24 |
 | [very bad](https://open.spotify.com/track/6RDprVH0kpTInb9gCjsjTj) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/6wdpXFepbCvXuDmw45f9FR) | 3:57 | 2022-11-17 | 2022-12-02 |

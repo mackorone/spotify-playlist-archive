@@ -1,6 +1,6 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 735614,
+  "num_followers": 735756,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
+        "name": "The Twelve Inch Mixes",
+        "url": "https://open.spotify.com/album/4CGIZczLp11pbF2HBvKehm"
+      },
+      "artists": [
+        {
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        }
+      ],
+      "duration_ms": 385000,
+      "name": "Only When You Leave - 12\" Version",
+      "url": "https://open.spotify.com/track/361rlvSrfbIxEPqIipaGjw"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
         "name": "Architecture And Morality",
         "url": "https://open.spotify.com/album/6bR98XzGnklTORDvZ7Oc2i"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 388533,
       "name": "Dr. Beat - Original 12\" Mix",
       "url": "https://open.spotify.com/track/6b5EOGzDflaKu6Pt6Csb4R"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "The Twelve Inch Mixes",
-        "url": "https://open.spotify.com/album/4CGIZczLp11pbF2HBvKehm"
-      },
-      "artists": [
-        {
-          "name": "Spandau Ballet",
-          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
-        }
-      ],
-      "duration_ms": 385000,
-      "name": "Only When You Leave - 12\" Version",
-      "url": "https://open.spotify.com/track/361rlvSrfbIxEPqIipaGjw"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Remixed (2003 Remaster)",
-        "url": "https://open.spotify.com/album/4A3cOTzJ1bcoKgOnXE1TU4"
-      },
-      "artists": [
-        {
-          "name": "Talk Talk",
-          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
-        }
-      ],
-      "duration_ms": 421026,
-      "name": "Such a Shame - Extended Mix; 2003 Remaster",
-      "url": "https://open.spotify.com/track/6blgcXjvQ4F5CtmABEQlSQ"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Goldmine: The Best Of The Pointer Sisters",
         "url": "https://open.spotify.com/album/3C38glg2GLKKsTwcLYYQa7"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 384626,
       "name": "Jump (For My Love) - 12\" Long Version",
       "url": "https://open.spotify.com/track/14PU9jOwOrTqhknAqz0rNT"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Remixed (2003 Remaster)",
+        "url": "https://open.spotify.com/album/4A3cOTzJ1bcoKgOnXE1TU4"
+      },
+      "artists": [
+        {
+          "name": "Talk Talk",
+          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
+        }
+      ],
+      "duration_ms": 421026,
+      "name": "Such a Shame - Extended Mix; 2003 Remaster",
+      "url": "https://open.spotify.com/track/6blgcXjvQ4F5CtmABEQlSQ"
     },
     {
       "added_at": "2024-02-06 15:45:26",

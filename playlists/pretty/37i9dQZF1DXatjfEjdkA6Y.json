@@ -1,6 +1,6 @@
 {
   "description": "The highlights of Eurovision from the 50s, 60s & 70s. Cover: ABBA",
-  "num_followers": 4522,
+  "num_followers": 4526,
   "original_name": "Eurovision Gold",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Als Het Om De Liefde Gaat (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2HzLXyhWFusIaDoV436sNf"
-      },
-      "artists": [
-        {
-          "name": "Sandra & Andres",
-          "url": "https://open.spotify.com/artist/6l30WCGgvUeyAdbs9JvB6V"
-        }
-      ],
-      "duration_ms": 176026,
-      "name": "Als Het Om De Liefde Gaat",
-      "url": "https://open.spotify.com/track/0ehNTBTIg4yPF0gwSSUqVM"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "80",
         "url": "https://open.spotify.com/album/3ISffmPs7HEqXFUi9gXDXy"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 166946,
       "name": "Jennifer Jennings",
       "url": "https://open.spotify.com/track/4nZ516wquSpoubxkqQ4ban"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Als Het Om De Liefde Gaat (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2HzLXyhWFusIaDoV436sNf"
+      },
+      "artists": [
+        {
+          "name": "Sandra & Andres",
+          "url": "https://open.spotify.com/artist/6l30WCGgvUeyAdbs9JvB6V"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "Als Het Om De Liefde Gaat",
+      "url": "https://open.spotify.com/track/0ehNTBTIg4yPF0gwSSUqVM"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Musik vi minns... / Lasse Berghagen",
-        "url": "https://open.spotify.com/album/12dP4FPuOJu4ZDd2KXDEHH"
-      },
-      "artists": [
-        {
-          "name": "Lasse Berghagen",
-          "url": "https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Jennie Jennie",
-      "url": "https://open.spotify.com/track/3BdAVTDazl0jW9Jpxz0VYh"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "\u05d0\u05d9 \u05e9\u05dd",
         "url": "https://open.spotify.com/album/20DzOLF3saURVlu1S4SFY3"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 172373,
       "name": "\u05d0\u05d9 \u05e9\u05dd",
       "url": "https://open.spotify.com/track/6XTFPBCx1F8q9V2CgXnUWO"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Musik vi minns... / Lasse Berghagen",
+        "url": "https://open.spotify.com/album/12dP4FPuOJu4ZDd2KXDEHH"
+      },
+      "artists": [
+        {
+          "name": "Lasse Berghagen",
+          "url": "https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Jennie Jennie",
+      "url": "https://open.spotify.com/track/3BdAVTDazl0jW9Jpxz0VYh"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Viva el Amor",
-        "url": "https://open.spotify.com/album/0kFh8oJEziPh93ZPywp1sy"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "En un Mundo Nuevo",
-      "url": "https://open.spotify.com/track/5rIMwPfCNwsqbnbL9jpXXy"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Sol och v\u00e5r",
         "url": "https://open.spotify.com/album/0a10uZCw2kGRbPDvL70EAE"
       },
@@ -655,18 +639,34 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Angelique",
-        "url": "https://open.spotify.com/album/3CcczhxqVZaCyoRAKdOuqq"
+        "name": "Viva el Amor",
+        "url": "https://open.spotify.com/album/0kFh8oJEziPh93ZPywp1sy"
       },
       "artists": [
         {
-          "name": "Dario Campeotto",
-          "url": "https://open.spotify.com/artist/1WILNNzCiLQRsDKIJPFYRE"
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a"
         }
       ],
-      "duration_ms": 239120,
-      "name": "Angelique",
-      "url": "https://open.spotify.com/track/7ETXytirTgnMJzyxl4e7UI"
+      "duration_ms": 190840,
+      "name": "En un Mundo Nuevo",
+      "url": "https://open.spotify.com/track/5rIMwPfCNwsqbnbL9jpXXy"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Het Beste Van Louis Neefs",
+        "url": "https://open.spotify.com/album/4r46h8MXFOtBI7Ea7b6J8O"
+      },
+      "artists": [
+        {
+          "name": "Louis Neefs",
+          "url": "https://open.spotify.com/artist/4jmHq8tAQ2UziZo2BsPDDt"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "Oh Oh Ik Heb Zorgen",
+      "url": "https://open.spotify.com/track/6pXIN9tdQzQINm6IRgm6v0"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -687,18 +687,18 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Het Beste Van Louis Neefs",
-        "url": "https://open.spotify.com/album/4r46h8MXFOtBI7Ea7b6J8O"
+        "name": "Angelique",
+        "url": "https://open.spotify.com/album/3CcczhxqVZaCyoRAKdOuqq"
       },
       "artists": [
         {
-          "name": "Louis Neefs",
-          "url": "https://open.spotify.com/artist/4jmHq8tAQ2UziZo2BsPDDt"
+          "name": "Dario Campeotto",
+          "url": "https://open.spotify.com/artist/1WILNNzCiLQRsDKIJPFYRE"
         }
       ],
-      "duration_ms": 145920,
-      "name": "Oh Oh Ik Heb Zorgen",
-      "url": "https://open.spotify.com/track/6pXIN9tdQzQINm6IRgm6v0"
+      "duration_ms": 239120,
+      "name": "Angelique",
+      "url": "https://open.spotify.com/track/7ETXytirTgnMJzyxl4e7UI"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
+        "name": "Nicole Rieu",
+        "url": "https://open.spotify.com/album/6pgSHh4Sb9J1ttOTDrgtwl"
+      },
+      "artists": [
+        {
+          "name": "Nicole Rieu",
+          "url": "https://open.spotify.com/artist/77eP94nF4XoaYvzx5W8CVC"
+        }
+      ],
+      "duration_ms": 222493,
+      "name": "Et Bonjour A Toi l'Artiste",
+      "url": "https://open.spotify.com/track/5eGnVU7C3mRbXMergmSz9Q"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
         "name": "Golden Hits (Remastered)",
         "url": "https://open.spotify.com/album/1radm6yMWa1V4SZVekqW5J"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 166186,
       "name": "Det b\u00f6rjar verka k\u00e4rlek, banne mej",
       "url": "https://open.spotify.com/track/1qnzSLvl5qWPIgpaRnLGxl"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
-        "name": "Nicole Rieu",
-        "url": "https://open.spotify.com/album/6pgSHh4Sb9J1ttOTDrgtwl"
-      },
-      "artists": [
-        {
-          "name": "Nicole Rieu",
-          "url": "https://open.spotify.com/artist/77eP94nF4XoaYvzx5W8CVC"
-        }
-      ],
-      "duration_ms": 222493,
-      "name": "Et Bonjour A Toi l'Artiste",
-      "url": "https://open.spotify.com/track/5eGnVU7C3mRbXMergmSz9Q"
     },
     {
       "added_at": "2025-03-14 16:55:23",

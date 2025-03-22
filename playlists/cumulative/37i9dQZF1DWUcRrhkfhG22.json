@@ -787,6 +787,24 @@
     },
     {
       "album": {
+        "name": "Freak-A-Zoid (Reboot)",
+        "url": "https://open.spotify.com/album/5l3bOFkCwff9VtB5CF04F4"
+      },
+      "artists": [
+        {
+          "name": "Calloway",
+          "url": "https://open.spotify.com/artist/3MKSm2U72NzNdxRjMhzyHh"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Freak-A-Zoid - Reboot",
+      "url": "https://open.spotify.com/track/5p1qlJbZVirHNJbNzwG6Zy"
+    },
+    {
+      "album": {
         "name": "Escape (Expanded Edition)",
         "url": "https://open.spotify.com/album/0wXylkn9taeEjiiac1S2zU"
       },

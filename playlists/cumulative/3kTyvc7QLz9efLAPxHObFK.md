@@ -4,7 +4,7 @@
 
 > 
 
-2,108 songs - 4 day 15 hr 31 min
+2,111 songs - 4 day 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Chartreuse Green](https://open.spotify.com/track/5r4r0KKsOvhdOvlzIFfJ3w) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [without Permission](https://open.spotify.com/album/5up0roguf8Ty6lUDIoBfS5) | 2:11 | 2022-08-11 |  |
 | [Chartreuse Green \(Uncut Edition\)](https://open.spotify.com/track/2Db4MW0RfPzkC4fmbdjnoi) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [without Permission](https://open.spotify.com/album/5up0roguf8Ty6lUDIoBfS5) | 4:18 | 2022-08-11 |  |
 | [Chase The Sun](https://open.spotify.com/track/3tHX6Ry3LQEaZNEReRzyqd) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Chase The Sun](https://open.spotify.com/album/6o5wVFfC69zaTHcPTFxXHJ) | 2:54 | 2024-01-22 |  |
+| [CHASING SHADOWS](https://open.spotify.com/track/5ILTZGj7oJM2EffULs22jR) | [Crypton](https://open.spotify.com/artist/592FgKnDnLHT1jLLLwGjR2), [Becci](https://open.spotify.com/artist/194Ceze4ZgHPq2tdRj3gQk) | [CHASING SHADOWS](https://open.spotify.com/album/4ROAiC7hxEDxPWvUwS5jCq) | 2:29 | 2025-03-21 |  |
 | [CHASING STARS](https://open.spotify.com/track/3b3Dn0d4Pth1w48dtAlCHt) | [Zyon](https://open.spotify.com/artist/5vFNYfxQeOHxUUlXDltAS7) | [CHASING STARS](https://open.spotify.com/album/7jmYCTcGIX95qurh0RmVmB) | 2:07 | 2023-09-11 |  |
 | [Chasing The Storm](https://open.spotify.com/track/0MkqslIj6VNILVvcjhyK2f) | [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS), [TNYA](https://open.spotify.com/artist/5uyrncH54t5oHqQVYgisiT) | [Chasing The Storm](https://open.spotify.com/album/6eA3C5b93ic507TODbbatq) | 2:49 | 2023-05-01 |  |
 | [Check My Style](https://open.spotify.com/track/70T3R3QaPXLxSbomHzwGPe) | [Lady Dammage](https://open.spotify.com/artist/3tfuR1hlhOuwBVYzl8dgKE), [Ender](https://open.spotify.com/artist/4dm7VRRO7tspAt2XuwEMNw) | [Check My Style](https://open.spotify.com/album/6thYQmqm5Y5PCW0N96EjYH) | 2:56 | 2023-07-08 |  |
@@ -743,6 +744,7 @@
 | [G.L.Y.](https://open.spotify.com/track/0XacYFLW0WdPqXTajmmdw5) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [G.L.Y.](https://open.spotify.com/album/7gGZW6T6rXjDSMGaqOvBUe) | 3:33 | 2024-09-03 |  |
 | [Game Of Hate](https://open.spotify.com/track/0YiOkYXWTaFda3ZttdkPuD) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W) | [Game Of Hate](https://open.spotify.com/album/2sm4kctw7K0HbT1cRpiHYu) | 3:00 | 2024-02-08 |  |
 | [Game Over](https://open.spotify.com/track/0pcIExB9WDMsgRopRZQshN) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Game Over](https://open.spotify.com/album/1XtkukXNhbUhVve9Ue9KVg) | 2:11 | 2023-11-20 |  |
+| [Game Over](https://open.spotify.com/track/15rK7ZDhFmv2MIE1PDGfTF) | [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [Game Over](https://open.spotify.com/album/3oQNng7mLcroOtoJgTIWdy) | 3:14 | 2025-03-21 |  |
 | [Game Over](https://open.spotify.com/track/1N62PRlZcr5PoISOnSdLeL) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [Abaddon](https://open.spotify.com/artist/3ujI46PHi7vombfnkjM8C3) | [Defqon.1 2022](https://open.spotify.com/album/0IIZiAU8DR9Jk586zHolw2) | 2:28 | 2022-11-07 |  |
 | [Gang Shit](https://open.spotify.com/track/6GKiVx0LfPEWIuQ8a9jAMt) | [Spiady](https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs) | [Gang Shit](https://open.spotify.com/album/5QtJqXVnKEf2zYcgu7NYDV) | 2:37 | 2023-11-26 |  |
 | [Gangsta's Paradise](https://open.spotify.com/track/7dYWuswcYTfETp2NxUqpRn) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [Holy Priest](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [1 World](https://open.spotify.com/artist/1VwX54VxJ6Mghi5HTCZYLa) | [Gangsta's Paradise](https://open.spotify.com/album/5X4PVhTdLwvxY51nHu2X6K) | 2:48 | 2025-01-24 |  |
@@ -1209,6 +1211,7 @@
 | [Meet Again](https://open.spotify.com/track/4YgTTzcixZv8jF8jL71YwO) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP) | [Meet Again](https://open.spotify.com/album/2FCzxIVzUVrSBT0FRW2K5f) | 3:06 | 2023-06-17 |  |
 | [Meka Sound](https://open.spotify.com/track/4GveJBWRfXttcVcw9qzuHO) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [Meka Sound](https://open.spotify.com/album/2c7vJhph7npQtUZRM7r6vP) | 3:18 | 2024-03-15 |  |
 | [Memories](https://open.spotify.com/track/5HPBgvcnHhuskoO8aWAkvt) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [Memories](https://open.spotify.com/album/4LLCLJ1QGgzRnYDG5Zz8ba) | 2:58 | 2025-02-14 |  |
+| [Memories](https://open.spotify.com/track/56DF3UanMOGNByBcYmE5IR) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Memories](https://open.spotify.com/album/1vrsFq7TMFMeChav4TrwvA) | 3:10 | 2025-03-21 |  |
 | [Memories](https://open.spotify.com/track/05A0Jwyg1odosos0gMMeL8) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Memories](https://open.spotify.com/album/0uUmOHDcc1dj5TRPV8KS44) | 3:14 | 2024-11-08 |  |
 | [Memories](https://open.spotify.com/track/46u4tITFHG1pPbQLM159s5) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Indika](https://open.spotify.com/artist/4xO4r8qbn6iT3ZwZkD34sa) | [Mix The Future](https://open.spotify.com/album/2gL0PcIEk7tHCLbeLEhOn8) | 3:00 | 2024-11-05 |  |
 | [Memory](https://open.spotify.com/track/5EmCgQS7FJM4IcXla6IqDb) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [Justin J\. Moore](https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN) | [Memory \(feat\. Justin J\. Moore\)](https://open.spotify.com/album/4agBrxS1RJAARpQlwwdKeF) | 3:45 | 2023-03-06 |  |

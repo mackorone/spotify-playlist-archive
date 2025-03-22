@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-2,107 songs - 5 day 11 hr 7 min
+2,108 songs - 5 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1473,6 +1473,7 @@
 | [Pull Me Through The Fire \- Citadelle Remix](https://open.spotify.com/track/2eWx2hH6bkKqeoG2lJo7Zz) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [James French](https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues), [Citadelle](https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8) | [Pull Me Through The Fire \(Citadelle Remix\)](https://open.spotify.com/album/7BxB0FUmWR0JweSrCLUAJb) | 3:23 | 2024-02-10 | 2024-04-08 |
 | [Pull Me Through The Fire \- Dice Of Nights Remix](https://open.spotify.com/track/3rQmiL5NZYBqtcfnuKRwqL) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [James French](https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues), [Dice Of Nights](https://open.spotify.com/artist/2m97ZmyaSyUjn5Gln8l6VJ) | [Pull Me Through The Fire \(Dice Of Nights Remix\)](https://open.spotify.com/album/45jpAQjTh1rVasQoNHAdJg) | 2:46 | 2023-12-15 | 2024-02-11 |
 | [Pulse](https://open.spotify.com/track/2wLwHrBJeJMRD4R4s6TCZU) | [Badflite](https://open.spotify.com/artist/3AEEmo3VYEBbQBUUEY2fUS) | [Pulse](https://open.spotify.com/album/42cgrGlqco9XP7gyhoxFM5) | 3:08 | 2023-10-20 | 2023-11-11 |
+| [PUSH](https://open.spotify.com/track/6hzFRAmTkuKDxZv6eWRhmd) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [PUSH](https://open.spotify.com/album/6FXW0EwNYHejMIKUXWG0PT) | 2:35 | 2025-03-21 |  |
 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 | 2024-05-25 | 2024-07-13 |
 | [Push Me](https://open.spotify.com/track/3DQHSzs0mtdCHXEPtH1KlQ) | [Bubble Love](https://open.spotify.com/artist/0Uu5MoqXbYYsMb6HLw0X62), [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Push Me](https://open.spotify.com/album/7CKm52JVypwpu4AZUNDcCL) | 4:39 | 2024-11-30 | 2024-12-28 |
 | [Push The Love \- Seb Zito Remix](https://open.spotify.com/track/0JpjBUzhrLH9Md5DSP4jSS) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [Seb Zito](https://open.spotify.com/artist/2IwfvuKftX9D7CFF4qCTM8) | [Push The Love \(Seb Zito Remix\)](https://open.spotify.com/album/0p31PmsmGMYkOvc7Zro3DQ) | 3:38 | 2023-09-29 | 2023-10-16 |

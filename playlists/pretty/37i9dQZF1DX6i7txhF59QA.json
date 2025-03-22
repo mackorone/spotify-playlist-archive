@@ -1,6 +1,6 @@
 {
   "description": "Let's party with cheerful Korean trot medley. Cover: Maijin(\ub9c8\uc774\uc9c4) (\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 26040,
+  "num_followers": 26041,
   "original_name": "K-Trot Stars",
   "owner": {
     "name": "Spotify",
@@ -979,26 +979,6 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
-        "name": "The Farewell Bus Stop",
-        "url": "https://open.spotify.com/album/5Q3mg8s6QDYsJVWLXAHt0l"
-      },
-      "artists": [
-        {
-          "name": "YOOSANSEUL",
-          "url": "https://open.spotify.com/artist/4oeD1QNqmKbREjPFgVfI6y"
-        },
-        {
-          "name": "Song Ga In",
-          "url": "https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd"
-        }
-      ],
-      "duration_ms": 216586,
-      "name": "The Farewell Bus Stop",
-      "url": "https://open.spotify.com/track/4gJEy8qaW50XFWxW7NLgz4"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
         "name": "\ub85c\uafb8\uac70!!!",
         "url": "https://open.spotify.com/album/4jKdrKP3d7a6fR9nJBQMAv"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 146093,
       "name": "\uccab \ucc28",
       "url": "https://open.spotify.com/track/45o2Iqkg0wDSVH7g686EUF"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
+        "name": "The Farewell Bus Stop",
+        "url": "https://open.spotify.com/album/5Q3mg8s6QDYsJVWLXAHt0l"
+      },
+      "artists": [
+        {
+          "name": "YOOSANSEUL",
+          "url": "https://open.spotify.com/artist/4oeD1QNqmKbREjPFgVfI6y"
+        },
+        {
+          "name": "Song Ga In",
+          "url": "https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd"
+        }
+      ],
+      "duration_ms": 216586,
+      "name": "The Farewell Bus Stop",
+      "url": "https://open.spotify.com/track/4gJEy8qaW50XFWxW7NLgz4"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
+        "name": "YOU & ME",
+        "url": "https://open.spotify.com/album/0q4sYU8XM5uy9HYZlJ7k2G"
+      },
+      "artists": [
+        {
+          "name": "KIM SOO CHAN",
+          "url": "https://open.spotify.com/artist/2lk4sQjFOSEwPD25NXuMbf"
+        }
+      ],
+      "duration_ms": 192703,
+      "name": "YOU & ME",
+      "url": "https://open.spotify.com/track/2HVR58hpYOXJH7JSOWe4Sk"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
         "name": "\uc624\uc2b9\uadfc Special `\ub0b4 \ub098\uc774\uac00 \uc5b4\ub54c\uc11c`",
         "url": "https://open.spotify.com/album/2n8pyK5h9IB3lmg5W6r6Be"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 199493,
       "name": "Together in the rain",
       "url": "https://open.spotify.com/track/3LWrzcBkiKaXNZSUKoCTlb"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
-        "name": "YOU & ME",
-        "url": "https://open.spotify.com/album/0q4sYU8XM5uy9HYZlJ7k2G"
-      },
-      "artists": [
-        {
-          "name": "KIM SOO CHAN",
-          "url": "https://open.spotify.com/artist/2lk4sQjFOSEwPD25NXuMbf"
-        }
-      ],
-      "duration_ms": 192703,
-      "name": "YOU & ME",
-      "url": "https://open.spotify.com/track/2HVR58hpYOXJH7JSOWe4Sk"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -1312,9 +1312,9 @@
           "url": "https://open.spotify.com/artist/6w4Xk1ziLyfweN6w3KdhxG"
         }
       ],
-      "duration_ms": 262133,
-      "name": "Hongsi",
-      "url": "https://open.spotify.com/track/3DsnqqxQK6ZIDNDzT0EBdv"
+      "duration_ms": 225040,
+      "name": "Man",
+      "url": "https://open.spotify.com/track/2y8TXsO62imUFwaIokUH89"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -1392,9 +1392,9 @@
           "url": "https://open.spotify.com/artist/6w4Xk1ziLyfweN6w3KdhxG"
         }
       ],
-      "duration_ms": 225040,
-      "name": "Man",
-      "url": "https://open.spotify.com/track/2y8TXsO62imUFwaIokUH89"
+      "duration_ms": 262133,
+      "name": "Hongsi",
+      "url": "https://open.spotify.com/track/3DsnqqxQK6ZIDNDzT0EBdv"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
-        "name": "Taste of life",
-        "url": "https://open.spotify.com/album/4IGv48d0xSWpKmO8Db0Srm"
+        "name": "\uad6d\uac00\ub300\ud45c \uc640\uc774\ud504 (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/1MsabixkQ4Xea4CfLst1ft"
       },
       "artists": [
         {
-          "name": "Yang Ji Eun",
-          "url": "https://open.spotify.com/artist/5rLGnWPQ1yVg4skBZD8VEw"
+          "name": "\ubc15\uc11c\uc9c4",
+          "url": "https://open.spotify.com/artist/2xgEz0ywY5BONyBfzW47oQ"
         }
       ],
-      "duration_ms": 181040,
-      "name": "Taste of life",
-      "url": "https://open.spotify.com/track/48F26fZUkzsKahAn97EviB"
+      "duration_ms": 170320,
+      "name": "\ud798\ub0b4\ub77c \uc778\uc0dd",
+      "url": "https://open.spotify.com/track/7sqrP9sf2g4d56csMcwwU2"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -1495,34 +1495,18 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
-        "name": "\uad6d\uac00\ub300\ud45c \uc640\uc774\ud504 (Original Television Soundtrack) Pt. 3",
-        "url": "https://open.spotify.com/album/1MsabixkQ4Xea4CfLst1ft"
+        "name": "Taste of life",
+        "url": "https://open.spotify.com/album/4IGv48d0xSWpKmO8Db0Srm"
       },
       "artists": [
         {
-          "name": "\ubc15\uc11c\uc9c4",
-          "url": "https://open.spotify.com/artist/2xgEz0ywY5BONyBfzW47oQ"
+          "name": "Yang Ji Eun",
+          "url": "https://open.spotify.com/artist/5rLGnWPQ1yVg4skBZD8VEw"
         }
       ],
-      "duration_ms": 170320,
-      "name": "\ud798\ub0b4\ub77c \uc778\uc0dd",
-      "url": "https://open.spotify.com/track/7sqrP9sf2g4d56csMcwwU2"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/1MW5U54Vi6V3N7z7kppwrJ"
-      },
-      "artists": [
-        {
-          "name": "Park Sang-Chul",
-          "url": "https://open.spotify.com/artist/2hb8P5DKAdd65FRRbw8Ntt"
-        }
-      ],
-      "duration_ms": 214935,
-      "name": "Hwang Jini",
-      "url": "https://open.spotify.com/track/6QSUInZc6D1r8bMQ1tzBFH"
+      "duration_ms": 181040,
+      "name": "Taste of life",
+      "url": "https://open.spotify.com/track/48F26fZUkzsKahAn97EviB"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -1543,6 +1527,22 @@
       "duration_ms": 187360,
       "name": "You, my lover",
       "url": "https://open.spotify.com/track/2a0qm2eAdSyMiS5WSPSh5n"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/1MW5U54Vi6V3N7z7kppwrJ"
+      },
+      "artists": [
+        {
+          "name": "Park Sang-Chul",
+          "url": "https://open.spotify.com/artist/2hb8P5DKAdd65FRRbw8Ntt"
+        }
+      ],
+      "duration_ms": 214935,
+      "name": "Hwang Jini",
+      "url": "https://open.spotify.com/track/6QSUInZc6D1r8bMQ1tzBFH"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -1575,6 +1575,22 @@
       "duration_ms": 188813,
       "name": "Truly",
       "url": "https://open.spotify.com/track/11ysIjQYckQOerDj4fJJaa"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
+        "name": "Music Source of Mr. Trot 2 Semifinal Mission for the New Song",
+        "url": "https://open.spotify.com/album/06V2NzogH4RyJAxJpYG5An"
+      },
+      "artists": [
+        {
+          "name": "Park Ji Hyeon",
+          "url": "https://open.spotify.com/artist/2CFHyUZhzBjMd5w0CPzP1Q"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "Come with Turning on the Turn Signal",
+      "url": "https://open.spotify.com/track/0OM4q608ugvFAoozBdbuYB"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -1623,22 +1639,6 @@
       "duration_ms": 109826,
       "name": "Don't set a tackle",
       "url": "https://open.spotify.com/track/3Eu6OiKgCiaghcMNaysTUX"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
-        "name": "Music Source of Mr. Trot 2 Semifinal Mission for the New Song",
-        "url": "https://open.spotify.com/album/06V2NzogH4RyJAxJpYG5An"
-      },
-      "artists": [
-        {
-          "name": "Park Ji Hyeon",
-          "url": "https://open.spotify.com/artist/2CFHyUZhzBjMd5w0CPzP1Q"
-        }
-      ],
-      "duration_ms": 201093,
-      "name": "Come with Turning on the Turn Signal",
-      "url": "https://open.spotify.com/track/0OM4q608ugvFAoozBdbuYB"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
+        "name": "Music Source of Mr. Trot3 Medley Team Mission Best PART2",
+        "url": "https://open.spotify.com/album/3S1KYLtbTrzYXta261ijJV"
+      },
+      "artists": [
+        {
+          "name": "Cheon Lok Dam",
+          "url": "https://open.spotify.com/artist/2X2SBgXswqzHoKFRpROiKi"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "Third Han River Bridge",
+      "url": "https://open.spotify.com/track/1SBnjdbefiI4xeu4b1tuZB"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/615aalqP0HyakgrgP9ceg3"
       },
@@ -1707,6 +1723,22 @@
       "duration_ms": 162880,
       "name": "Follow Me (Prod. by Young Tak)",
       "url": "https://open.spotify.com/track/1fihoC9boTXb99e4qHV6lh"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
+        "name": "\uc624\uc2b9\uadfc Special `\ub0b4 \ub098\uc774\uac00 \uc5b4\ub54c\uc11c`",
+        "url": "https://open.spotify.com/album/2n8pyK5h9IB3lmg5W6r6Be"
+      },
+      "artists": [
+        {
+          "name": "\uc624\uc2b9\uadfc",
+          "url": "https://open.spotify.com/artist/1AklxrEk7i9wiWijLX9pjg"
+        }
+      ],
+      "duration_ms": 157323,
+      "name": "\ucc98\ub140 \ubc43\uc0ac\uacf5",
+      "url": "https://open.spotify.com/track/0w6llwKhP9t8brMqqOlQBw"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -1727,22 +1759,6 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
-        "name": "Music Source of Mr. Trot3 Medley Team Mission Best PART2",
-        "url": "https://open.spotify.com/album/3S1KYLtbTrzYXta261ijJV"
-      },
-      "artists": [
-        {
-          "name": "Cheon Lok Dam",
-          "url": "https://open.spotify.com/artist/2X2SBgXswqzHoKFRpROiKi"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "Third Han River Bridge",
-      "url": "https://open.spotify.com/track/1SBnjdbefiI4xeu4b1tuZB"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
         "name": "Music Source of Ms.Trot3 1:1 Survival Best PART2",
         "url": "https://open.spotify.com/album/3IGqtH1o3B3BEnrLZwqOxI"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 168093,
       "name": "Miss Camellia",
       "url": "https://open.spotify.com/track/341zFr0Vl9NH7jlLhMNYTG"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
-        "name": "\uc624\uc2b9\uadfc Special `\ub0b4 \ub098\uc774\uac00 \uc5b4\ub54c\uc11c`",
-        "url": "https://open.spotify.com/album/2n8pyK5h9IB3lmg5W6r6Be"
-      },
-      "artists": [
-        {
-          "name": "\uc624\uc2b9\uadfc",
-          "url": "https://open.spotify.com/artist/1AklxrEk7i9wiWijLX9pjg"
-        }
-      ],
-      "duration_ms": 157323,
-      "name": "\ucc98\ub140 \ubc43\uc0ac\uacf5",
-      "url": "https://open.spotify.com/track/0w6llwKhP9t8brMqqOlQBw"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
+        "name": "Best of Mr. Trot 2 1:1 Death Match PART2",
+        "url": "https://open.spotify.com/album/3Rd9XzVBv8Nstznz235H2v"
+      },
+      "artists": [
+        {
+          "name": "Park Ji Hyeon",
+          "url": "https://open.spotify.com/artist/2CFHyUZhzBjMd5w0CPzP1Q"
+        }
+      ],
+      "duration_ms": 192613,
+      "name": "You can't leave",
+      "url": "https://open.spotify.com/track/5G5NjjbZix1HIIzToEoRx6"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
         "name": "Music source of Mr.Trot Trot Aid Best",
         "url": "https://open.spotify.com/album/14UvNhswZOXciZ2nH0d9uR"
       },
@@ -1875,38 +1891,6 @@
       "duration_ms": 300786,
       "name": "A song of hope",
       "url": "https://open.spotify.com/track/6vAexcl1CdP94yBiN5F6Fq"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
-        "name": "Best of Mr. Trot 2 1:1 Death Match PART2",
-        "url": "https://open.spotify.com/album/3Rd9XzVBv8Nstznz235H2v"
-      },
-      "artists": [
-        {
-          "name": "Park Ji Hyeon",
-          "url": "https://open.spotify.com/artist/2CFHyUZhzBjMd5w0CPzP1Q"
-        }
-      ],
-      "duration_ms": 192613,
-      "name": "You can't leave",
-      "url": "https://open.spotify.com/track/5G5NjjbZix1HIIzToEoRx6"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
-        "name": "\ud2b8\ub85c\ud2b8 \uc5ec\uc778 1, 2",
-        "url": "https://open.spotify.com/album/3sEDwOKMX6sMOn2iP9H4Hk"
-      },
-      "artists": [
-        {
-          "name": "\uc774\uc218\uc9c4",
-          "url": "https://open.spotify.com/artist/6hiE7snEBARzwmjdzjoggP"
-        }
-      ],
-      "duration_ms": 156356,
-      "name": "\ubaa9\uacc4\ub098\ub8e8",
-      "url": "https://open.spotify.com/track/4kMFwlv0Njwnakcy473jw3"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -1939,6 +1923,22 @@
       "duration_ms": 196627,
       "name": "Play the music",
       "url": "https://open.spotify.com/track/0jSmQEDoQ9gIpRLYQjLtRg"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
+        "name": "\ud2b8\ub85c\ud2b8 \uc5ec\uc778 1, 2",
+        "url": "https://open.spotify.com/album/3sEDwOKMX6sMOn2iP9H4Hk"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc218\uc9c4",
+          "url": "https://open.spotify.com/artist/6hiE7snEBARzwmjdzjoggP"
+        }
+      ],
+      "duration_ms": 156356,
+      "name": "\ubaa9\uacc4\ub098\ub8e8",
+      "url": "https://open.spotify.com/track/4kMFwlv0Njwnakcy473jw3"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
-        "name": "Do Not U turn",
-        "url": "https://open.spotify.com/album/6hILjW7IC1yp72l7nrrZ46"
-      },
-      "artists": [
-        {
-          "name": "\ubc15\uad70",
-          "url": "https://open.spotify.com/artist/3Fe5DbLAhIho2Gdc3xr6BC"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "Do Not U turn",
-      "url": "https://open.spotify.com/track/1C2jmeOffBm9vD6mMw46yd"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
         "name": "\ub2f9\uc2e0 \ud3b8",
         "url": "https://open.spotify.com/album/7G0i2PoG0OJ5pa1MaXSoCo"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 224160,
       "name": "\ub2f9\uc2e0 \ud3b8",
       "url": "https://open.spotify.com/track/0D4nauk2Mm4siVxvwv2fQf"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
+        "name": "Do Not U turn",
+        "url": "https://open.spotify.com/album/6hILjW7IC1yp72l7nrrZ46"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\uad70",
+          "url": "https://open.spotify.com/artist/3Fe5DbLAhIho2Gdc3xr6BC"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "Do Not U turn",
+      "url": "https://open.spotify.com/track/1C2jmeOffBm9vD6mMw46yd"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
-        "name": "\uc8fc\uc5f0\ubc30\uc6b0",
-        "url": "https://open.spotify.com/album/5Cy4zdWCMNjZAHw8PfREg3"
-      },
-      "artists": [
-        {
-          "name": "YOYOMI",
-          "url": "https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "\uc8fc\uc5f0\ubc30\uc6b0",
-      "url": "https://open.spotify.com/track/2WvMxYFta5a97cZvTTyATa"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
         "name": "MISS TROT2 Legendary Mission Best Semi-Final 1",
         "url": "https://open.spotify.com/album/1zAZbX0fXTXbFdVS26noHA"
       },
@@ -2151,18 +2135,34 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
-        "name": "Love call center PART12",
-        "url": "https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H"
+        "name": "\uc8fc\uc5f0\ubc30\uc6b0",
+        "url": "https://open.spotify.com/album/5Cy4zdWCMNjZAHw8PfREg3"
       },
       "artists": [
         {
-          "name": "KIM HOJOONG",
-          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
+          "name": "YOYOMI",
+          "url": "https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR"
         }
       ],
-      "duration_ms": 211293,
-      "name": "The one who gives Happiness",
-      "url": "https://open.spotify.com/track/1EulBXF3UkP9lmh6I5dM4o"
+      "duration_ms": 242840,
+      "name": "\uc8fc\uc5f0\ubc30\uc6b0",
+      "url": "https://open.spotify.com/track/2WvMxYFta5a97cZvTTyATa"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
+        "name": "Music Source of Mr. Trot3 1:1 Death Match Best PART2",
+        "url": "https://open.spotify.com/album/3AX4e6raYqfhN2ITaNbuH2"
+      },
+      "artists": [
+        {
+          "name": "Cheon Lok Dam",
+          "url": "https://open.spotify.com/artist/2X2SBgXswqzHoKFRpROiKi"
+        }
+      ],
+      "duration_ms": 235600,
+      "name": "Your Lamp",
+      "url": "https://open.spotify.com/track/0to0L1MkaODOjVoSQe0TIj"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -2259,40 +2259,8 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
-        "name": "Music Source of Mr. Trot3 1:1 Death Match Best PART2",
-        "url": "https://open.spotify.com/album/3AX4e6raYqfhN2ITaNbuH2"
-      },
-      "artists": [
-        {
-          "name": "Cheon Lok Dam",
-          "url": "https://open.spotify.com/artist/2X2SBgXswqzHoKFRpROiKi"
-        }
-      ],
-      "duration_ms": 235600,
-      "name": "Your Lamp",
-      "url": "https://open.spotify.com/track/0to0L1MkaODOjVoSQe0TIj"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
-        "name": "Music Source of Mr. Trot3 1:1 Death Match Best PART1",
-        "url": "https://open.spotify.com/album/4GvjlvojwEYSC6njbEdJo3"
-      },
-      "artists": [
-        {
-          "name": "Son Bin Ah",
-          "url": "https://open.spotify.com/artist/4zUZMVsYTQCHrkY6YQAt1e"
-        }
-      ],
-      "duration_ms": 272226,
-      "name": "Longing for Mother",
-      "url": "https://open.spotify.com/track/4shLOmjIdg03XBhnsfMoEa"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
-        "name": "A LIFE",
-        "url": "https://open.spotify.com/album/0VVM2LFray2iicaesPhM7W"
+        "name": "Love call center PART12",
+        "url": "https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H"
       },
       "artists": [
         {
@@ -2300,25 +2268,9 @@
           "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
         }
       ],
-      "duration_ms": 207080,
-      "name": "Time Flies",
-      "url": "https://open.spotify.com/track/64Wohh1gIkCshTaFWUMY12"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
-        "name": "4\uc778\uc758 \uba85\ud488\uac00\uc655 \ubca0\uc2a4\ud2b8",
-        "url": "https://open.spotify.com/album/5py19ysNA0ATyqDdO5aXO0"
-      },
-      "artists": [
-        {
-          "name": "\ubb38\ud76c\uc625",
-          "url": "https://open.spotify.com/artist/0r8ZiqQdT7hMdaHbZY6a7E"
-        }
-      ],
-      "duration_ms": 181185,
-      "name": "\ud3c9\ud589\uc120",
-      "url": "https://open.spotify.com/track/3uDPEYcRxNVdflXOmraU1z"
+      "duration_ms": 211293,
+      "name": "The one who gives Happiness",
+      "url": "https://open.spotify.com/track/1EulBXF3UkP9lmh6I5dM4o"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -2335,6 +2287,38 @@
       "duration_ms": 207005,
       "name": "Jina",
       "url": "https://open.spotify.com/track/0vxKVEvUMnThcmQYeM4Xut"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
+        "name": "Music Source of Mr. Trot3 Medley Team Mission Best PART2",
+        "url": "https://open.spotify.com/album/3S1KYLtbTrzYXta261ijJV"
+      },
+      "artists": [
+        {
+          "name": "Son Bin Ah",
+          "url": "https://open.spotify.com/artist/4zUZMVsYTQCHrkY6YQAt1e"
+        }
+      ],
+      "duration_ms": 265133,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/7se9Ux9tqwQprE8wjz1f48"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
+        "name": "4\uc778\uc758 \uba85\ud488\uac00\uc655 \ubca0\uc2a4\ud2b8",
+        "url": "https://open.spotify.com/album/5py19ysNA0ATyqDdO5aXO0"
+      },
+      "artists": [
+        {
+          "name": "\ubb38\ud76c\uc625",
+          "url": "https://open.spotify.com/artist/0r8ZiqQdT7hMdaHbZY6a7E"
+        }
+      ],
+      "duration_ms": 181185,
+      "name": "\ud3c9\ud589\uc120",
+      "url": "https://open.spotify.com/track/3uDPEYcRxNVdflXOmraU1z"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -2399,6 +2383,22 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
+        "name": "A LIFE",
+        "url": "https://open.spotify.com/album/0VVM2LFray2iicaesPhM7W"
+      },
+      "artists": [
+        {
+          "name": "KIM HOJOONG",
+          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
+        }
+      ],
+      "duration_ms": 207080,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/64Wohh1gIkCshTaFWUMY12"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
         "name": "\uc6b0\ucb48\ucb48",
         "url": "https://open.spotify.com/album/7M2xMJP7S2PCuGQpsURP55"
       },
@@ -2411,46 +2411,6 @@
       "duration_ms": 204427,
       "name": "\uc6b0\ucb48\ucb48",
       "url": "https://open.spotify.com/track/02yfGvVWiSMHckXHLCT22k"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
-        "name": "Music Source of Ms.Trot3 Rival Match Triangle Battle",
-        "url": "https://open.spotify.com/album/7wiCrHfzNqvcDy2yZBASal"
-      },
-      "artists": [
-        {
-          "name": "Jung Seo Joo",
-          "url": "https://open.spotify.com/artist/3tHMGodmue5FbC0vbNSw00"
-        },
-        {
-          "name": "Ahn Sung Hoon",
-          "url": "https://open.spotify.com/artist/1hHAcgkOYMOXCnr0qAtlrS"
-        },
-        {
-          "name": "Oh YooJin",
-          "url": "https://open.spotify.com/artist/0r95i21g0cV4u5OVzzksZx"
-        }
-      ],
-      "duration_ms": 247306,
-      "name": "Wild Flower",
-      "url": "https://open.spotify.com/track/5I5lXuvZ4R6V0vdpkPjT9G"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
-        "name": "Music Source of Mr. Trot3 Medley Team Mission Best PART2",
-        "url": "https://open.spotify.com/album/3S1KYLtbTrzYXta261ijJV"
-      },
-      "artists": [
-        {
-          "name": "Son Bin Ah",
-          "url": "https://open.spotify.com/artist/4zUZMVsYTQCHrkY6YQAt1e"
-        }
-      ],
-      "duration_ms": 265133,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/7se9Ux9tqwQprE8wjz1f48"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -2527,6 +2487,46 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
+        "name": "Music Source of Ms.Trot3 Rival Match Triangle Battle",
+        "url": "https://open.spotify.com/album/7wiCrHfzNqvcDy2yZBASal"
+      },
+      "artists": [
+        {
+          "name": "Jung Seo Joo",
+          "url": "https://open.spotify.com/artist/3tHMGodmue5FbC0vbNSw00"
+        },
+        {
+          "name": "Ahn Sung Hoon",
+          "url": "https://open.spotify.com/artist/1hHAcgkOYMOXCnr0qAtlrS"
+        },
+        {
+          "name": "Oh YooJin",
+          "url": "https://open.spotify.com/artist/0r95i21g0cV4u5OVzzksZx"
+        }
+      ],
+      "duration_ms": 247306,
+      "name": "Wild Flower",
+      "url": "https://open.spotify.com/track/5I5lXuvZ4R6V0vdpkPjT9G"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
+        "name": "Music Source of Mr. Trot3 1:1 Death Match Best PART1",
+        "url": "https://open.spotify.com/album/4GvjlvojwEYSC6njbEdJo3"
+      },
+      "artists": [
+        {
+          "name": "Son Bin Ah",
+          "url": "https://open.spotify.com/artist/4zUZMVsYTQCHrkY6YQAt1e"
+        }
+      ],
+      "duration_ms": 272226,
+      "name": "Longing for Mother",
+      "url": "https://open.spotify.com/track/4shLOmjIdg03XBhnsfMoEa"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
         "name": "Music source of Mr.Trot Trot Aid Best",
         "url": "https://open.spotify.com/album/14UvNhswZOXciZ2nH0d9uR"
       },
@@ -2539,6 +2539,34 @@
       "duration_ms": 190160,
       "name": "I happened to see her",
       "url": "https://open.spotify.com/track/2dJWB9GmhYlQGSr2gbuH8q"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
+        "name": "Music Source of Mr. Trot3 Medley Team Mission Best PART1",
+        "url": "https://open.spotify.com/album/0tSMSHtBlHBIyb90cQk25I"
+      },
+      "artists": [
+        {
+          "name": "Kim Yong Bin",
+          "url": "https://open.spotify.com/artist/1LTzgzQlvBbJiZ7Er8xj2l"
+        },
+        {
+          "name": "Park Ji Hu",
+          "url": "https://open.spotify.com/artist/7GHZeUZbty361YNmOH3k7u"
+        },
+        {
+          "name": "Kang Min Su",
+          "url": "https://open.spotify.com/artist/6nhy4JXP4UaR7mt9uj5PMf"
+        },
+        {
+          "name": "Won Jung In",
+          "url": "https://open.spotify.com/artist/0LY1oiYU0trWzn505ypu26"
+        }
+      ],
+      "duration_ms": 144093,
+      "name": "Let's Be Filial",
+      "url": "https://open.spotify.com/track/2OnnDYOxsd9Ov85xuKPShW"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -2591,22 +2619,6 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
-        "name": "Best of Mr. Trot 2 1:1 Death Match PART2",
-        "url": "https://open.spotify.com/album/3Rd9XzVBv8Nstznz235H2v"
-      },
-      "artists": [
-        {
-          "name": "Choi Soo Ho",
-          "url": "https://open.spotify.com/artist/2eaDVXgBcXQQQeHoeNOZxY"
-        }
-      ],
-      "duration_ms": 220893,
-      "name": "Promise under the moon",
-      "url": "https://open.spotify.com/track/7gPOdMStxHuxXmSbES7Jnk"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
         "name": "Love Signal",
         "url": "https://open.spotify.com/album/1E6pcoxRxmJGPayYeK0QNN"
       },
@@ -2623,30 +2635,18 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
-        "name": "Music Source of Mr. Trot3 Medley Team Mission Best PART1",
-        "url": "https://open.spotify.com/album/0tSMSHtBlHBIyb90cQk25I"
+        "name": "Best of Mr. Trot 2 1:1 Death Match PART2",
+        "url": "https://open.spotify.com/album/3Rd9XzVBv8Nstznz235H2v"
       },
       "artists": [
         {
-          "name": "Kim Yong Bin",
-          "url": "https://open.spotify.com/artist/1LTzgzQlvBbJiZ7Er8xj2l"
-        },
-        {
-          "name": "Park Ji Hu",
-          "url": "https://open.spotify.com/artist/7GHZeUZbty361YNmOH3k7u"
-        },
-        {
-          "name": "Kang Min Su",
-          "url": "https://open.spotify.com/artist/6nhy4JXP4UaR7mt9uj5PMf"
-        },
-        {
-          "name": "Won Jung In",
-          "url": "https://open.spotify.com/artist/0LY1oiYU0trWzn505ypu26"
+          "name": "Choi Soo Ho",
+          "url": "https://open.spotify.com/artist/2eaDVXgBcXQQQeHoeNOZxY"
         }
       ],
-      "duration_ms": 144093,
-      "name": "Let's Be Filial",
-      "url": "https://open.spotify.com/track/2OnnDYOxsd9Ov85xuKPShW"
+      "duration_ms": 220893,
+      "name": "Promise under the moon",
+      "url": "https://open.spotify.com/track/7gPOdMStxHuxXmSbES7Jnk"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -2723,6 +2723,22 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
+        "name": "2009 \uae40\uc885\ud658 \uc2a4\ud398\uc15c \uc568\ubc94",
+        "url": "https://open.spotify.com/album/65kfQhvXeOdVL0e1MsbWKA"
+      },
+      "artists": [
+        {
+          "name": "Kim Jong Hwan",
+          "url": "https://open.spotify.com/artist/3CKxMbH3IYOV6B7CcgC9uy"
+        }
+      ],
+      "duration_ms": 272213,
+      "name": "\ubc31\ub144\uc758 \uc57d\uc18d",
+      "url": "https://open.spotify.com/track/4mjbWlvr6mnhp8Wh7bXzok"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
         "name": "Music Source of Mr. Trot3 Preliminary Match Best PART3, Team Battle by Genre Best PART1",
         "url": "https://open.spotify.com/album/25Kq6bCjdHhdA9V1SB8xVZ"
       },
@@ -2763,18 +2779,18 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
-        "name": "Love essay",
-        "url": "https://open.spotify.com/album/5qGlXkkXyyQANNbVzHjftP"
+        "name": "Music Source of Mr. Trot3 1:1 Death Match Best PART2",
+        "url": "https://open.spotify.com/album/3AX4e6raYqfhN2ITaNbuH2"
       },
       "artists": [
         {
-          "name": "Jeon Yu Jin",
-          "url": "https://open.spotify.com/artist/6UqjKTF3fJf29KitLjzQ4G"
+          "name": "Chun Gil",
+          "url": "https://open.spotify.com/artist/1zOvqQ7TwyzcAZNYaYKxBR"
         }
       ],
-      "duration_ms": 241053,
-      "name": "Love essay",
-      "url": "https://open.spotify.com/track/39Nqi4ZcKPX4BIMrLwAPYH"
+      "duration_ms": 218026,
+      "name": "Mercury Lamp",
+      "url": "https://open.spotify.com/track/5ujRScgbcdQs7XExUfEKux"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -2795,66 +2811,18 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
-        "name": "2009 \uae40\uc885\ud658 \uc2a4\ud398\uc15c \uc568\ubc94",
-        "url": "https://open.spotify.com/album/65kfQhvXeOdVL0e1MsbWKA"
+        "name": "Love essay",
+        "url": "https://open.spotify.com/album/5qGlXkkXyyQANNbVzHjftP"
       },
       "artists": [
         {
-          "name": "Kim Jong Hwan",
-          "url": "https://open.spotify.com/artist/3CKxMbH3IYOV6B7CcgC9uy"
+          "name": "Jeon Yu Jin",
+          "url": "https://open.spotify.com/artist/6UqjKTF3fJf29KitLjzQ4G"
         }
       ],
-      "duration_ms": 272213,
-      "name": "\ubc31\ub144\uc758 \uc57d\uc18d",
-      "url": "https://open.spotify.com/track/4mjbWlvr6mnhp8Wh7bXzok"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
-        "name": "Music Source of Mr. Trot3 Preliminary Match Best PART2",
-        "url": "https://open.spotify.com/album/7BdjjF2NXAZ0XMrRNtwGGz"
-      },
-      "artists": [
-        {
-          "name": "Park Kwang Hyun",
-          "url": "https://open.spotify.com/artist/6DJASsWTgPlD8VIY2AtIr5"
-        }
-      ],
-      "duration_ms": 202093,
-      "name": "No. No.",
-      "url": "https://open.spotify.com/track/1l0EyIx2pWlJejdzX9pwee"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
-        "name": "Music Source of Mr. Trot3 1:1 Death Match Best PART2",
-        "url": "https://open.spotify.com/album/3AX4e6raYqfhN2ITaNbuH2"
-      },
-      "artists": [
-        {
-          "name": "Chun Gil",
-          "url": "https://open.spotify.com/artist/1zOvqQ7TwyzcAZNYaYKxBR"
-        }
-      ],
-      "duration_ms": 218026,
-      "name": "Mercury Lamp",
-      "url": "https://open.spotify.com/track/5ujRScgbcdQs7XExUfEKux"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
-        "name": "KOREA VS JAPAN TROT SHOW BEST",
-        "url": "https://open.spotify.com/album/3Um3ku07ay7QoFCaUyBlCX"
-      },
-      "artists": [
-        {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
-        }
-      ],
-      "duration_ms": 183165,
-      "name": "Island Village Teacher",
-      "url": "https://open.spotify.com/track/4e3ksapYtGQ7MnOrrM7w1e"
+      "duration_ms": 241053,
+      "name": "Love essay",
+      "url": "https://open.spotify.com/track/39Nqi4ZcKPX4BIMrLwAPYH"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -2880,13 +2848,13 @@
       },
       "artists": [
         {
-          "name": "Sim Su Ho",
-          "url": "https://open.spotify.com/artist/16Q15DdJC7nu2VTSYtBuqR"
+          "name": "Park Kwang Hyun",
+          "url": "https://open.spotify.com/artist/6DJASsWTgPlD8VIY2AtIr5"
         }
       ],
-      "duration_ms": 184053,
-      "name": "You Never Know",
-      "url": "https://open.spotify.com/track/4pHNq2NqxRL0NBNN3feqEx"
+      "duration_ms": 202093,
+      "name": "No. No.",
+      "url": "https://open.spotify.com/track/1l0EyIx2pWlJejdzX9pwee"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -2907,6 +2875,38 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
+        "name": "KOREA VS JAPAN TROT SHOW BEST",
+        "url": "https://open.spotify.com/album/3Um3ku07ay7QoFCaUyBlCX"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "duration_ms": 183165,
+      "name": "Island Village Teacher",
+      "url": "https://open.spotify.com/track/4e3ksapYtGQ7MnOrrM7w1e"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
+        "name": "Music Source of Mr. Trot3 Preliminary Match Best PART2",
+        "url": "https://open.spotify.com/album/7BdjjF2NXAZ0XMrRNtwGGz"
+      },
+      "artists": [
+        {
+          "name": "Sim Su Ho",
+          "url": "https://open.spotify.com/artist/16Q15DdJC7nu2VTSYtBuqR"
+        }
+      ],
+      "duration_ms": 184053,
+      "name": "You Never Know",
+      "url": "https://open.spotify.com/track/4pHNq2NqxRL0NBNN3feqEx"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
         "name": "Music Source of Mr. Trot3 1:1 Death Match Best PART1",
         "url": "https://open.spotify.com/album/4GvjlvojwEYSC6njbEdJo3"
       },
@@ -2919,6 +2919,46 @@
       "duration_ms": 207720,
       "name": "Love Is the Only Thing I Can Do",
       "url": "https://open.spotify.com/track/5U99QSbR7vxmM3tpMAbgGL"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
+        "name": "Music Source of Mr. Trot3 Master Preliminary Match 1st, 2nd, 3rd Place Special",
+        "url": "https://open.spotify.com/album/4ZkXgyIW37SwF1ORyqX6tF"
+      },
+      "artists": [
+        {
+          "name": "Son Bin Ah",
+          "url": "https://open.spotify.com/artist/4zUZMVsYTQCHrkY6YQAt1e"
+        },
+        {
+          "name": "Park Ji Hu",
+          "url": "https://open.spotify.com/artist/7GHZeUZbty361YNmOH3k7u"
+        },
+        {
+          "name": "Choi Jae Myung",
+          "url": "https://open.spotify.com/artist/3LZ8BE3NWIt4PyJ3LEfyxI"
+        }
+      ],
+      "duration_ms": 207733,
+      "name": "Man",
+      "url": "https://open.spotify.com/track/1gEaSlKwrJePFNXgd37gWg"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
+        "name": "MISS TROT2 Legendary Mission Best Semi-Final 1",
+        "url": "https://open.spotify.com/album/1zAZbX0fXTXbFdVS26noHA"
+      },
+      "artists": [
+        {
+          "name": "Jieun Yang",
+          "url": "https://open.spotify.com/artist/3RfRPUmzPijYom1BhlhLp4"
+        }
+      ],
+      "duration_ms": 252333,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/20fmErhR8XZhjVfbtKvjxD"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -2939,18 +2979,22 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
-        "name": "MISS TROT2 Legendary Mission Best Semi-Final 1",
-        "url": "https://open.spotify.com/album/1zAZbX0fXTXbFdVS26noHA"
+        "name": "Bongsungah school PART15",
+        "url": "https://open.spotify.com/album/06ONAyDAqBtnpcx8hWSkHt"
       },
       "artists": [
         {
-          "name": "Jieun Yang",
-          "url": "https://open.spotify.com/artist/3RfRPUmzPijYom1BhlhLp4"
+          "name": "Cho Youngnam",
+          "url": "https://open.spotify.com/artist/2buYSyVLRSRpDtKB0JzWiR"
+        },
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
         }
       ],
-      "duration_ms": 252333,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/20fmErhR8XZhjVfbtKvjxD"
+      "duration_ms": 179226,
+      "name": "Hwagae Market (guitar by Ham Chun Ho)",
+      "url": "https://open.spotify.com/track/5XmV4Cf7UxDklnxI5P1H2Z"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -2987,66 +3031,6 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
-        "name": "Bongsungah school PART15",
-        "url": "https://open.spotify.com/album/06ONAyDAqBtnpcx8hWSkHt"
-      },
-      "artists": [
-        {
-          "name": "Cho Youngnam",
-          "url": "https://open.spotify.com/artist/2buYSyVLRSRpDtKB0JzWiR"
-        },
-        {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "Hwagae Market (guitar by Ham Chun Ho)",
-      "url": "https://open.spotify.com/track/5XmV4Cf7UxDklnxI5P1H2Z"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
-        "name": "Music Source of Mr. Trot3 Master Preliminary Match 1st, 2nd, 3rd Place Special",
-        "url": "https://open.spotify.com/album/4ZkXgyIW37SwF1ORyqX6tF"
-      },
-      "artists": [
-        {
-          "name": "Son Bin Ah",
-          "url": "https://open.spotify.com/artist/4zUZMVsYTQCHrkY6YQAt1e"
-        },
-        {
-          "name": "Park Ji Hu",
-          "url": "https://open.spotify.com/artist/7GHZeUZbty361YNmOH3k7u"
-        },
-        {
-          "name": "Choi Jae Myung",
-          "url": "https://open.spotify.com/artist/3LZ8BE3NWIt4PyJ3LEfyxI"
-        }
-      ],
-      "duration_ms": 207733,
-      "name": "Man",
-      "url": "https://open.spotify.com/track/1gEaSlKwrJePFNXgd37gWg"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
-        "name": "Hwadeuljjak",
-        "url": "https://open.spotify.com/album/2nWtE2Al5WnZHJJnABoiSe"
-      },
-      "artists": [
-        {
-          "name": "KIMHONGNAM",
-          "url": "https://open.spotify.com/artist/75apiwYKKC4hBOKhCDMrnZ"
-        }
-      ],
-      "duration_ms": 158166,
-      "name": "Hwadeuljjak",
-      "url": "https://open.spotify.com/track/6An64PzVpCaoMdf4BHMgUw"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
         "name": "Best of Mr. Trot 2 Preliminary Part1",
         "url": "https://open.spotify.com/album/6ZqidxNSvbz6Ioj5KCYtWU"
       },
@@ -3059,70 +3043,6 @@
       "duration_ms": 154413,
       "name": "Red Lips",
       "url": "https://open.spotify.com/track/5gfueFIdJAKDqgplOCyIkr"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
-        "name": "Music Source of Miss Trot Threegether(3-gether) Best PART3",
-        "url": "https://open.spotify.com/album/40lmWGczWvIFXsn6sbZP04"
-      },
-      "artists": [
-        {
-          "name": "Jung Seo Joo",
-          "url": "https://open.spotify.com/artist/3tHMGodmue5FbC0vbNSw00"
-        }
-      ],
-      "duration_ms": 181613,
-      "name": "Terminal Wet in the Rain",
-      "url": "https://open.spotify.com/track/4cajF83OfxHcnsSpcnZWfy"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
-        "name": "Music Source of Mr. Trot3 Preliminary Match Best PART1",
-        "url": "https://open.spotify.com/album/5SpFarxVzHSCFmoov0906T"
-      },
-      "artists": [
-        {
-          "name": "Ko Eun June",
-          "url": "https://open.spotify.com/artist/6AjnFjwVWao3ZQ1Gf7mJOS"
-        }
-      ],
-      "duration_ms": 147346,
-      "name": "You Are My Man",
-      "url": "https://open.spotify.com/track/3ivIkLqnLGusceeaWEQUjo"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
-        "name": "Fire Trot Semi-Finals, Three Legends Round PART 2",
-        "url": "https://open.spotify.com/album/4fYhKUpf4TanrKk3XAQIIj"
-      },
-      "artists": [
-        {
-          "name": "Son Tae jin",
-          "url": "https://open.spotify.com/artist/7w3dpNEHUV9vTN2EPtJBhf"
-        }
-      ],
-      "duration_ms": 288841,
-      "name": "A Million Roses",
-      "url": "https://open.spotify.com/track/4Hyzm7qybnozxFXiiHCgyi"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
-        "name": "Music Source of Mr. Trot3 Medley Team Mission Best PART2",
-        "url": "https://open.spotify.com/album/3S1KYLtbTrzYXta261ijJV"
-      },
-      "artists": [
-        {
-          "name": "Chun Gil",
-          "url": "https://open.spotify.com/artist/1zOvqQ7TwyzcAZNYaYKxBR"
-        }
-      ],
-      "duration_ms": 271533,
-      "name": "Don't Cross the River",
-      "url": "https://open.spotify.com/track/7l0vNeEOWOqvbbxQ9vl4Sq"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -3147,18 +3067,82 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
-        "name": "Homemade Love Story (Original Television Soundtrack) Pt. 17",
-        "url": "https://open.spotify.com/album/6unt9onNOos6DcQSvoie7t"
+        "name": "Music Source of Mr. Trot3 Preliminary Match Best PART1",
+        "url": "https://open.spotify.com/album/5SpFarxVzHSCFmoov0906T"
       },
       "artists": [
         {
-          "name": "\uc2e0\uc720",
-          "url": "https://open.spotify.com/artist/5aEkvCedM3aS0mufV6qkNK"
+          "name": "Ko Eun June",
+          "url": "https://open.spotify.com/artist/6AjnFjwVWao3ZQ1Gf7mJOS"
         }
       ],
-      "duration_ms": 194125,
-      "name": "nice",
-      "url": "https://open.spotify.com/track/1EfL5QJBly1HLNwaNYLWHY"
+      "duration_ms": 147346,
+      "name": "You Are My Man",
+      "url": "https://open.spotify.com/track/3ivIkLqnLGusceeaWEQUjo"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
+        "name": "Music Source of Mr. Trot3 Medley Team Mission Best PART2",
+        "url": "https://open.spotify.com/album/3S1KYLtbTrzYXta261ijJV"
+      },
+      "artists": [
+        {
+          "name": "Chun Gil",
+          "url": "https://open.spotify.com/artist/1zOvqQ7TwyzcAZNYaYKxBR"
+        }
+      ],
+      "duration_ms": 271533,
+      "name": "Don't Cross the River",
+      "url": "https://open.spotify.com/track/7l0vNeEOWOqvbbxQ9vl4Sq"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
+        "name": "Fire Trot Semi-Finals, Three Legends Round PART 2",
+        "url": "https://open.spotify.com/album/4fYhKUpf4TanrKk3XAQIIj"
+      },
+      "artists": [
+        {
+          "name": "Son Tae jin",
+          "url": "https://open.spotify.com/artist/7w3dpNEHUV9vTN2EPtJBhf"
+        }
+      ],
+      "duration_ms": 288841,
+      "name": "A Million Roses",
+      "url": "https://open.spotify.com/track/4Hyzm7qybnozxFXiiHCgyi"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
+        "name": "Music Source of Miss Trot Threegether(3-gether) Best PART3",
+        "url": "https://open.spotify.com/album/40lmWGczWvIFXsn6sbZP04"
+      },
+      "artists": [
+        {
+          "name": "Jung Seo Joo",
+          "url": "https://open.spotify.com/artist/3tHMGodmue5FbC0vbNSw00"
+        }
+      ],
+      "duration_ms": 181613,
+      "name": "Terminal Wet in the Rain",
+      "url": "https://open.spotify.com/track/4cajF83OfxHcnsSpcnZWfy"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
+        "name": "Hwadeuljjak",
+        "url": "https://open.spotify.com/album/2nWtE2Al5WnZHJJnABoiSe"
+      },
+      "artists": [
+        {
+          "name": "KIMHONGNAM",
+          "url": "https://open.spotify.com/artist/75apiwYKKC4hBOKhCDMrnZ"
+        }
+      ],
+      "duration_ms": 158166,
+      "name": "Hwadeuljjak",
+      "url": "https://open.spotify.com/track/6An64PzVpCaoMdf4BHMgUw"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -3175,6 +3159,38 @@
       "duration_ms": 221920,
       "name": "Stone statue",
       "url": "https://open.spotify.com/track/4fXiYiiZLJy40RRGYnnMJy"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
+        "name": "Homemade Love Story (Original Television Soundtrack) Pt. 17",
+        "url": "https://open.spotify.com/album/6unt9onNOos6DcQSvoie7t"
+      },
+      "artists": [
+        {
+          "name": "\uc2e0\uc720",
+          "url": "https://open.spotify.com/artist/5aEkvCedM3aS0mufV6qkNK"
+        }
+      ],
+      "duration_ms": 194125,
+      "name": "nice",
+      "url": "https://open.spotify.com/track/1EfL5QJBly1HLNwaNYLWHY"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
+        "name": "Very good tip",
+        "url": "https://open.spotify.com/album/58dxAs2QFMVE7X9PywrhIE"
+      },
+      "artists": [
+        {
+          "name": "Seo Jin Park",
+          "url": "https://open.spotify.com/artist/4TD60P0u4yAHb4fSY3TvSG"
+        }
+      ],
+      "duration_ms": 197426,
+      "name": "Very good tip",
+      "url": "https://open.spotify.com/track/3wwLnXLyFH7x8KAoHCRNyz"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -3211,22 +3227,6 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
-        "name": "Spring Dreams",
-        "url": "https://open.spotify.com/album/2PvvV5aObs5AsAuQGSNaCZ"
-      },
-      "artists": [
-        {
-          "name": "Seo Jin Park",
-          "url": "https://open.spotify.com/artist/4TD60P0u4yAHb4fSY3TvSG"
-        }
-      ],
-      "duration_ms": 211520,
-      "name": "Spring Dreams",
-      "url": "https://open.spotify.com/track/6aY35KW5lZ5VDGUuubS3iH"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
         "name": "Music source of <MissTrot2> FINAL Songwriter Mission",
         "url": "https://open.spotify.com/album/55myCPZ3HKzK1yXcw7AGG6"
       },
@@ -3259,18 +3259,18 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
-        "name": "Queen of Diva preliminary match PART 2",
-        "url": "https://open.spotify.com/album/5JAFCasBJSuk0QJKeLyBTa"
+        "name": "Spring Dreams",
+        "url": "https://open.spotify.com/album/2PvvV5aObs5AsAuQGSNaCZ"
       },
       "artists": [
         {
-          "name": "Ga Hee Ban",
-          "url": "https://open.spotify.com/artist/6mRIRlLGWuR16odRnjDBPd"
+          "name": "Seo Jin Park",
+          "url": "https://open.spotify.com/artist/4TD60P0u4yAHb4fSY3TvSG"
         }
       ],
-      "duration_ms": 189437,
-      "name": "Drizzle",
-      "url": "https://open.spotify.com/track/5LKFgkeH7cl07dcBvb27wm"
+      "duration_ms": 211520,
+      "name": "Spring Dreams",
+      "url": "https://open.spotify.com/track/6aY35KW5lZ5VDGUuubS3iH"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -3291,6 +3291,22 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
+        "name": "MISS TROT2 Team Mission BEST",
+        "url": "https://open.spotify.com/album/2boKluSGypyQmx614Xktvj"
+      },
+      "artists": [
+        {
+          "name": "Idol Team (Feel good)",
+          "url": "https://open.spotify.com/artist/6MCWp41PIvUqchyuVGTIFC"
+        }
+      ],
+      "duration_ms": 202853,
+      "name": "An Odious Man",
+      "url": "https://open.spotify.com/track/3H1fE7t8PIy87f3em2ZHcE"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
         "name": "Be My Teresa",
         "url": "https://open.spotify.com/album/0tNmXBvof9bjnlKXv63QhI"
       },
@@ -3307,6 +3323,22 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
+        "name": "SOOCHAN SONG PARTY",
+        "url": "https://open.spotify.com/album/10lXGwXYpiiAzsdW9O5o3M"
+      },
+      "artists": [
+        {
+          "name": "KIM SOO CHAN",
+          "url": "https://open.spotify.com/artist/2lk4sQjFOSEwPD25NXuMbf"
+        }
+      ],
+      "duration_ms": 186697,
+      "name": "HIP",
+      "url": "https://open.spotify.com/track/6Cqr2UM51ENT2P4c6GAIIa"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
         "name": "Music Source of Mr. Trot3 1:1 Death Match Best PART2",
         "url": "https://open.spotify.com/album/3AX4e6raYqfhN2ITaNbuH2"
       },
@@ -3319,6 +3351,38 @@
       "duration_ms": 305706,
       "name": "Passionate Love",
       "url": "https://open.spotify.com/track/5KiLGShcUoef49kR88s4Wm"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
+        "name": "Queen of Diva preliminary match PART 2",
+        "url": "https://open.spotify.com/album/5JAFCasBJSuk0QJKeLyBTa"
+      },
+      "artists": [
+        {
+          "name": "Ga Hee Ban",
+          "url": "https://open.spotify.com/artist/6mRIRlLGWuR16odRnjDBPd"
+        }
+      ],
+      "duration_ms": 189437,
+      "name": "Drizzle",
+      "url": "https://open.spotify.com/track/5LKFgkeH7cl07dcBvb27wm"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
+        "name": "In GONGJU",
+        "url": "https://open.spotify.com/album/4mLfWDco9A2VZfMJmyzzJh"
+      },
+      "artists": [
+        {
+          "name": "Seo Jin Park",
+          "url": "https://open.spotify.com/artist/4TD60P0u4yAHb4fSY3TvSG"
+        }
+      ],
+      "duration_ms": 210479,
+      "name": "In GONGJU",
+      "url": "https://open.spotify.com/track/0xTGiOMaKgzJpZYkZXmtut"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -3347,54 +3411,6 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
-        "name": "Very good tip",
-        "url": "https://open.spotify.com/album/58dxAs2QFMVE7X9PywrhIE"
-      },
-      "artists": [
-        {
-          "name": "Seo Jin Park",
-          "url": "https://open.spotify.com/artist/4TD60P0u4yAHb4fSY3TvSG"
-        }
-      ],
-      "duration_ms": 197426,
-      "name": "Very good tip",
-      "url": "https://open.spotify.com/track/3wwLnXLyFH7x8KAoHCRNyz"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
-        "name": "MISS TROT2 Team Mission BEST",
-        "url": "https://open.spotify.com/album/2boKluSGypyQmx614Xktvj"
-      },
-      "artists": [
-        {
-          "name": "Idol Team (Feel good)",
-          "url": "https://open.spotify.com/artist/6MCWp41PIvUqchyuVGTIFC"
-        }
-      ],
-      "duration_ms": 202853,
-      "name": "An Odious Man",
-      "url": "https://open.spotify.com/track/3H1fE7t8PIy87f3em2ZHcE"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
-        "name": "SOOCHAN SONG PARTY",
-        "url": "https://open.spotify.com/album/10lXGwXYpiiAzsdW9O5o3M"
-      },
-      "artists": [
-        {
-          "name": "KIM SOO CHAN",
-          "url": "https://open.spotify.com/artist/2lk4sQjFOSEwPD25NXuMbf"
-        }
-      ],
-      "duration_ms": 186697,
-      "name": "HIP",
-      "url": "https://open.spotify.com/track/6Cqr2UM51ENT2P4c6GAIIa"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
         "name": "KOREA VS JAPAN TROT SHOW BEST",
         "url": "https://open.spotify.com/album/3Um3ku07ay7QoFCaUyBlCX"
       },
@@ -3407,6 +3423,30 @@
       "duration_ms": 169554,
       "name": "LETTER FROM THE NORTH",
       "url": "https://open.spotify.com/track/2poco0FPu50RWBI978tYFF"
+    },
+    {
+      "added_at": "2025-03-13 09:08:16",
+      "album": {
+        "name": "Music Source of Mr. Trot3 Team Battle by Genre 1st, 2nd, 3rd Place Special",
+        "url": "https://open.spotify.com/album/763MZ5HihaMtMSkPeL4woE"
+      },
+      "artists": [
+        {
+          "name": "Choi Jae Myung",
+          "url": "https://open.spotify.com/artist/3LZ8BE3NWIt4PyJ3LEfyxI"
+        },
+        {
+          "name": "Chun Gil",
+          "url": "https://open.spotify.com/artist/1zOvqQ7TwyzcAZNYaYKxBR"
+        },
+        {
+          "name": "Son Bin Ah",
+          "url": "https://open.spotify.com/artist/4zUZMVsYTQCHrkY6YQAt1e"
+        }
+      ],
+      "duration_ms": 234253,
+      "name": "Float the Boat",
+      "url": "https://open.spotify.com/track/06PX6EkFZ4xvr5KI6WGo9R"
     },
     {
       "added_at": "2025-03-13 09:08:16",
@@ -3439,70 +3479,18 @@
     {
       "added_at": "2025-03-13 09:08:16",
       "album": {
-        "name": "Music Source of Mr. Trot3 Team Battle by Genre 1st, 2nd, 3rd Place Special",
-        "url": "https://open.spotify.com/album/763MZ5HihaMtMSkPeL4woE"
+        "name": "Music Source of Mr. Trot3 Preliminary Match Best PART2",
+        "url": "https://open.spotify.com/album/7BdjjF2NXAZ0XMrRNtwGGz"
       },
       "artists": [
         {
-          "name": "Choi Jae Myung",
-          "url": "https://open.spotify.com/artist/3LZ8BE3NWIt4PyJ3LEfyxI"
-        },
-        {
-          "name": "Chun Gil",
-          "url": "https://open.spotify.com/artist/1zOvqQ7TwyzcAZNYaYKxBR"
-        },
-        {
-          "name": "Son Bin Ah",
-          "url": "https://open.spotify.com/artist/4zUZMVsYTQCHrkY6YQAt1e"
+          "name": "Choi Jin Gook",
+          "url": "https://open.spotify.com/artist/7rvotD0BEShIf3xbwdF5tN"
         }
       ],
-      "duration_ms": 234253,
-      "name": "Float the Boat",
-      "url": "https://open.spotify.com/track/06PX6EkFZ4xvr5KI6WGo9R"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
-        "name": "Best of Mr. Trot Preliminary",
-        "url": "https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb"
-      },
-      "artists": [
-        {
-          "name": "Hong Jameon",
-          "url": "https://open.spotify.com/artist/3YSBPOvl1LuFvA2BsuQkJP"
-        }
-      ],
-      "duration_ms": 108333,
-      "name": "Man of harbor",
-      "url": "https://open.spotify.com/track/6k2uEsC4enRSqgf3utAltW"
-    },
-    {
-      "added_at": "2025-03-13 09:08:16",
-      "album": {
-        "name": "Music Source of Mr. Trot3 Medley Team Mission Best PART1",
-        "url": "https://open.spotify.com/album/0tSMSHtBlHBIyb90cQk25I"
-      },
-      "artists": [
-        {
-          "name": "Cheon Lok Dam",
-          "url": "https://open.spotify.com/artist/2X2SBgXswqzHoKFRpROiKi"
-        },
-        {
-          "name": "Kang Hoon",
-          "url": "https://open.spotify.com/artist/55jtHMtmsp6S2gRwjG1Nc3"
-        },
-        {
-          "name": "Im Chan",
-          "url": "https://open.spotify.com/artist/2rKMspg61zWki0oiUwgoW1"
-        },
-        {
-          "name": "Ryu Ji Woo",
-          "url": "https://open.spotify.com/artist/3taXPZBLxY9Mwj4HEy9StU"
-        }
-      ],
-      "duration_ms": 172466,
-      "name": "Soon-I 18-Years-Old",
-      "url": "https://open.spotify.com/track/3zFcE4D3rZPMUa1WECJhTZ"
+      "duration_ms": 154413,
+      "name": "Yeongil Bay's Friend",
+      "url": "https://open.spotify.com/track/5j72U4dMg6W9UdZlGcArRV"
     }
   ],
   "unique_name": "K-Trot Stars",

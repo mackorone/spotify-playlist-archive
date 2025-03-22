@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Chandler Moore
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,995 likes - 70 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,063 likes - 70 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 27 | [Let Go \(feat\. PJ Morton & DeWayne Woods\) \- Live Version](https://open.spotify.com/track/50wH2g17mKfEeVXakbhIyw) | [Bishop Paul S\. Morton, Sr.](https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk), [DeWayne Woods](https://open.spotify.com/artist/324RKHiPLIE9eDklXEVXce), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Legacy: Live In New Orleans \(Deluxe\) \[Live Version\]](https://open.spotify.com/album/1IFcEdarRtR86W9iw2WmPh) | 4:32 |
 | 28 | [The Promise \- Live](https://open.spotify.com/track/0YR3pGDBoLNUvGoMaIy7Gd) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN), [David & Nicole Binion](https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Promise](https://open.spotify.com/album/3hXqMc5jD5B9P6RnZpG5Vz) | 10:50 |
 | 29 | [Sustain \- Live](https://open.spotify.com/track/0hZsa8BIVtLAzlMVZ2Hv6f) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Sustain \(Live\)](https://open.spotify.com/album/5TwOCjWrjcu0q3PF5w1exA) | 12:06 |
-| 30 | [No One Like The Lord \(We Crown You\) \- Live](https://open.spotify.com/track/2LH8ERukxzWeqNaxoHhJXo) | [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [One Night: Volume 1 \(Live\)](https://open.spotify.com/album/3eevYwiiAUO3oZY0rEhAwL) | 16:54 |
+| 30 | [No One Like the Lord / King of Glory \- Live](https://open.spotify.com/track/2LH8ERukxzWeqNaxoHhJXo) | [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [One Night: Volume 1 \(Live\)](https://open.spotify.com/album/3eevYwiiAUO3oZY0rEhAwL) | 16:54 |
 | 31 | [More Than Anything \- Live](https://open.spotify.com/track/4rj3rvwZo0IYe3Usm0IdVN) | [The Brooklyn Tabernacle Choir](https://open.spotify.com/artist/4eDpQV93UILljVxohKoLUs) | [More Than Anything \(Live\)](https://open.spotify.com/album/5A3YqQqBGOVWLhHSlpx0I7) | 5:44 |
 | 32 | [Your Name](https://open.spotify.com/track/6Y1gaH2z0FQwOgfVCt88PV) | [Jovonta Patton](https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC) | [Your Name](https://open.spotify.com/album/1e2c2giTtpKsjwxq3T5Y7N) | 3:56 |
 | 33 | [We Bless \- Live](https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Victory Sounds](https://open.spotify.com/album/4Qrwc9UuMmNgBfgYWQf21n) | 6:36 |

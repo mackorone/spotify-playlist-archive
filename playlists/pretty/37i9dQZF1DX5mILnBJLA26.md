@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 ### [AMAPIANO GROOVES](https://open.spotify.com/playlist/37i9dQZF1DX5mILnBJLA26)
 
-> The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN?si=zJ\_i5A\-nQve9h0XczSCgXQ">Myztro</a>
+> The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN?si=tztoTvAMRpOKNy1L0\-mhoA">Myztro</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 998,128 likes - 60 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 998,800 likes - 60 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 59 | [Izandla \- Radio Edit](https://open.spotify.com/track/6dSfCBAYR1rhrMfKg7L305) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [X\-wise](https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn) | [Izandla](https://open.spotify.com/album/0QYHvyiFK437jmAMrOSjCO) | 3:45 |
 | 60 | [Diqabang](https://open.spotify.com/track/4zZxynw8cwhCRlDl9pay2f) | [Khathapillar](https://open.spotify.com/artist/2NJ4G5sIHIfma9PF2MO0yi), [Sol Phenduka](https://open.spotify.com/artist/6KSYSas66s64PZDOnb6knq), [Smash SA](https://open.spotify.com/artist/0w5arbommuYnUMeXetmv17), [Kamoh Xaba](https://open.spotify.com/artist/2Fotv9MULwrtOPORxgtRui) | [Diqabang](https://open.spotify.com/album/5ygGTL3c1ehuinc3zykAv3) | 6:42 |
 
-Snapshot ID: `Z9yeCgAAAAATYfVOSp7NUZCDVJgs6Pq0`
+Snapshot ID: `Z90EewAAAAAE6sxlhJDHMUxpQz1rfIc1`

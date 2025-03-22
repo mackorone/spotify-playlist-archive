@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2025 \| Happy Easter 2025! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
 
-600 songs - 2 day 10 hr 18 min
+601 songs - 2 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,6 +426,7 @@
 | [Pray You Never Leave](https://open.spotify.com/track/2VfuplNtg5McYruOmm90QM) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [Without You & Pray You Never Leave](https://open.spotify.com/album/6wwnMCgf9B8Y3DxqKONZsi) | 4:00 | 2024-09-06 |  |
 | [Prayer For This Gathering \- Live](https://open.spotify.com/track/4trkYRoPHjISrClSrovlWs) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK), [Michael Monroe](https://open.spotify.com/artist/2tNV9tCgWoScrEvoplIXGP), [Chelsea Mason](https://open.spotify.com/artist/1Dos5OjKuGIgzgTQKrddFT) | [Prayer For This Gathering](https://open.spotify.com/album/6knjzyjQzFONBaOSZpj2hm) | 5:40 | 2024-02-23 | 2024-03-02 |
 | [Precious Love \- Live](https://open.spotify.com/track/1sWYM9HHpUX0UMTUETzLMH) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Sing! The Great Commission \- World Tour \(Live\)](https://open.spotify.com/album/1WsOwc3ZE7MvMzube1cPyF) | 5:02 | 2024-02-09 | 2025-03-21 |
+| [Presence Of The Lord \- Live](https://open.spotify.com/track/2QcJrVRd2WkyL17vMe48i4) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Derek Johnson](https://open.spotify.com/artist/3967KnQedbgX8KdNTXhm7y) | [Worthy Of Hallelujah \(Live\)](https://open.spotify.com/album/3wtjYn5O0FawhiX7M5XodK) | 5:21 | 2025-03-21 |  |
 | [Prince Of Peace \(From Golan Heights Memorial Of War & By The Shining Lights Of The Old City\) \- Live](https://open.spotify.com/track/1D2QEPNeWXY18x0hR73iNT) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Of Dirt And Grace: Live From The Land \(Expanded Edition\)](https://open.spotify.com/album/1GUEempDMheicK14bjCtv0) | 8:11 | 2023-12-01 | 2024-04-19 |
 | [Prodigal \- Live](https://open.spotify.com/track/7CfeMjtSGL2W41GgvBP8D8) | [Freedom Church](https://open.spotify.com/artist/1OgH8GLEEZWPtW9XJJDQYh) | [Barbarians \(Live\)](https://open.spotify.com/album/6L4poo7GcNGGcgcQPiB6Zo) | 6:45 | 2023-02-24 | 2023-12-14 |
 | [Promises](https://open.spotify.com/track/3wkcyREQrVVDOIUjx1eZ1W) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Promises](https://open.spotify.com/album/0Aq2RVdHV4pzxDTNi3UP7b) | 4:47 | 2022-02-17 | 2023-01-05 |

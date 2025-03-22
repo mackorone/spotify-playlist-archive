@@ -13725,6 +13725,28 @@
     },
     {
       "album": {
+        "name": "October Country",
+        "url": "https://open.spotify.com/album/297WYgy6pW0YZhSRRiGImK"
+      },
+      "artists": [
+        {
+          "name": "Ghost Mountain",
+          "url": "https://open.spotify.com/artist/5Hxx7FpVvps2OZLl6LUfJi"
+        },
+        {
+          "name": "Sematary",
+          "url": "https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "Highway Hex",
+      "url": "https://open.spotify.com/track/2vfEXLJbi4jEnKG2OFkYC3"
+    },
+    {
+      "album": {
         "name": "HIGHWITCHA",
         "url": "https://open.spotify.com/album/0jm2bQw1Gk8MokQr23MlCh"
       },

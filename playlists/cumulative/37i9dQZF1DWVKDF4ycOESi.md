@@ -4,7 +4,7 @@
 
 > Lucio Corsi in cover + le migliori uscite della settimana! Con brani di Gaia, Luchè, Tananai, NASKA e tanti altri.
 
-4,079 songs - 8 day 14 hr 6 min
+4,081 songs - 8 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 | 2024-06-06 | 2024-06-14 |
 | [Baby Brazil feat\. Las Palabras](https://open.spotify.com/track/4J5zalm3Wa04SZ9g3wy1s1) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Las Palabras](https://open.spotify.com/artist/6j0bjK0T68pJOWGvqRD7ls) | [Baby Brazil feat\. Las Palabras](https://open.spotify.com/album/3pvzgOeKcyPUOmAsaVB5tH) | 3:46 | 2025-03-06 | 2025-03-14 |
 | [Baby Demon](https://open.spotify.com/track/1PGXHcJVqYWVMVkMLIDGZV) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Baby Demon](https://open.spotify.com/album/0yMErHqzYaX4PyCAz4640l) | 5:11 | 2024-07-11 | 2024-07-19 |
+| [Babygirl](https://open.spotify.com/track/0qtvCZI69m5RPDsGXLkzVJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Babygirl](https://open.spotify.com/album/6hONHPkl2qXdM092MirNTf) | 2:54 | 2025-03-21 |  |
 | [Babylon](https://open.spotify.com/track/4iZxUb2hnfS9TLgXoLgGaG) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Babylon](https://open.spotify.com/album/48r02r15RZbykBX2z5WQs3) | 5:41 | 2024-10-17 | 2024-10-25 |
 | [Baciami stupido](https://open.spotify.com/track/3MtTPKzuhKqvhsSTAsESH7) | [Arisa](https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K) | [Baciami stupido](https://open.spotify.com/album/1PcQkDfk0ODvMsUcLVNlXV) | 3:05 | 2024-05-09 | 2024-05-17 |
 | [Bacio al veleno](https://open.spotify.com/track/6Ur6o0G5oaZIgYcIsbXOHj) | [JUMA](https://open.spotify.com/artist/2QXBb5JFPLbX73cOcI22Kw) | [Confessioni](https://open.spotify.com/album/4oNOGQIhIt8gpFCi9ELKeP) | 3:35 | 2024-05-16 | 2024-05-24 |
@@ -1805,6 +1806,7 @@
 | [Jungle](https://open.spotify.com/track/614QOxGBDRK2qx8fCWnQxE) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Jungle](https://open.spotify.com/album/2LahAsMCOCcPOs3Xj6NDiS) | 2:40 | 2025-03-14 | 2025-03-21 |
 | [Junkie \(feat\. Wayne\)](https://open.spotify.com/track/2KtzdIPOWte5934ORHUFl1) | [Asp126](https://open.spotify.com/artist/7eNMxs7VUuMBoGNipu7z5G), [Wayne](https://open.spotify.com/artist/4FiPwqm4GHYuJyldqILugY) | [JUNKIE](https://open.spotify.com/album/71ap6EMe7kP7aHyqcz1828) | 2:14 | 2024-12-12 | 2024-12-20 |
 | [JUST LIKE THAT](https://open.spotify.com/track/4alytlIn91jJgzsu6rSONb) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [JUST LIKE THAT](https://open.spotify.com/album/17Wk4tqPJ8rMH1hFCW4eLf) | 2:18 | 2024-06-13 | 2024-06-21 |
+| [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 | 2025-03-21 |  |
 | [K.O.](https://open.spotify.com/track/2D8e2PCUcIX4CeFLkREoBT) | [LYSA](https://open.spotify.com/artist/1KcTkBvL86LqPDfxwHrTA5) | [K.O.](https://open.spotify.com/album/25dbkaIafgbVGgv4BH4YAs) | 3:23 | 2025-01-10 | 2025-01-17 |
 | [k.o\. tt](https://open.spotify.com/track/1cwNTlAcz9SXkvfMpsphhA) | [Saphe](https://open.spotify.com/artist/0PfwY5WJuVYmUc6PJzQ9TO) | [tt ok / k.o\. tt](https://open.spotify.com/album/4tWdxF6UNNA1yqajBZWN7p) | 1:55 | 2024-07-11 | 2024-07-19 |
 | [KAIOKEN X2](https://open.spotify.com/track/162UZDRBITYlWJRh4nEzI5) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [KAIOKEN X2](https://open.spotify.com/album/4LG23M9ncO84CmaY8QsUTZ) | 2:28 | 2025-03-20 |  |

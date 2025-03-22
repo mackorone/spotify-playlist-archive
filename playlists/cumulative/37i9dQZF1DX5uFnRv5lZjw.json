@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Dianthus",
+        "url": "https://open.spotify.com/album/2NVyXMffU56Xmv5Dqs8Aix"
+      },
+      "artists": [
+        {
+          "name": "Valentia Serrano",
+          "url": "https://open.spotify.com/artist/1OCi9l2I6jEaENzD8MuSAJ"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153400,
+      "name": "Dianthus",
+      "url": "https://open.spotify.com/track/1AFS4HPrOmxvVgKGVuylWI"
+    },
+    {
+      "album": {
         "name": "Dream Currents",
         "url": "https://open.spotify.com/album/52oI8gPpTN0njgd3m1cip8"
       },

@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-518 songs - 22 hr 21 min
+519 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,6 +421,7 @@
 | [Tension Begins To Slip Away](https://open.spotify.com/track/4uKlYSgXaA9g8nHSl0Zh7G) | [Douglas Simmons](https://open.spotify.com/artist/165sed6LuybeRD22A8kzPS) | [Tension Begins To Slip Away](https://open.spotify.com/album/4alLo0CkPQLq4TNmwmmrMl) | 3:03 | 2024-02-14 |  |
 | [Textures](https://open.spotify.com/track/6nECGyZZTPXxi38Epefgpi) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Textures](https://open.spotify.com/album/2lID0uhvL3FyrwaYxRZWiw) | 2:09 | 2022-04-14 | 2024-04-04 |
 | [The Act of Contemplation](https://open.spotify.com/track/6866Lw5Sxcmjg6OxO5IUmj) | [Mathias Algotsson](https://open.spotify.com/artist/5cxbLasvz3bRsChqr96Qy6) | [The Act of Contemplation](https://open.spotify.com/album/4YZT7FiMRnLTLGF28jcgWi) | 1:42 | 2025-03-14 |  |
+| [The Brave Wind](https://open.spotify.com/track/2JORX3wf4DlvcO269jPLKd) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [The Brave Wind](https://open.spotify.com/album/35ai3f8NbCkolGXiJlJRgz) | 2:54 | 2025-03-21 |  |
 | [The Core Of You And Me](https://open.spotify.com/track/5IsRo9BBiKznH7DtTQiOTv) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Stoa](https://open.spotify.com/album/0CQUjvhGk0QX52BNYL5zlP) | 2:00 | 2024-01-05 | 2024-04-19 |
 | [The Core Of You And Me](https://open.spotify.com/track/5eOQ1qFCkULQE7wW6yQRmN) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Shadows Of Us](https://open.spotify.com/album/1TFEStNtrTBCmdXn714380) | 2:00 | 2023-11-21 | 2024-01-05 |
 | [The Core Of You And Me](https://open.spotify.com/track/3stjD85Qqc7O3ZEiHHpa7p) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf), [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [The Core Of You And Me](https://open.spotify.com/album/5nnxprlasGXcPeLta5dZkq) | 2:00 | 2023-11-21 |  |
@@ -463,7 +464,7 @@
 | [Turn](https://open.spotify.com/track/26UD6EFThaMnBcmHxb8MOG) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Turn](https://open.spotify.com/album/5dzEdj4p2MdqoojNvOFEUS) | 2:59 | 2022-04-14 | 2023-04-05 |
 | [Two as One](https://open.spotify.com/track/0Gg26zeooPEayN4uOWZqnd) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Springtime serenade](https://open.spotify.com/album/3sExOMHYNOQhKF6KUlfX8S) | 2:13 | 2022-10-26 |  |
 | [Two as One](https://open.spotify.com/track/2oQ9cSikCRzxTkynfJ3jnL) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Two as One](https://open.spotify.com/album/61qq7qfNSB23A3xoSECvcH) | 2:13 | 2022-05-26 | 2022-10-29 |
-| [Two Stones and a Paper](https://open.spotify.com/track/0FsKFO75OXjI6wKeoVSqCo) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Two Stones and a Paper](https://open.spotify.com/album/14G5gOiTgSot8XRvhGKLp9) | 2:21 | 2023-11-21 |  |
+| [Two Stones and a Paper](https://open.spotify.com/track/0FsKFO75OXjI6wKeoVSqCo) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Two Stones and a Paper](https://open.spotify.com/album/14G5gOiTgSot8XRvhGKLp9) | 2:21 | 2023-11-21 | 2025-03-22 |
 | [Un Lent Mouvement](https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Un Lent Mouvement](https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb) | 2:41 | 2022-04-14 | 2022-12-24 |
 | [Un mazzolino di rose](https://open.spotify.com/track/0Z9EGceqg3e1PlatNVcb6n) | [Fulvio Neri](https://open.spotify.com/artist/6uYBrTfn9labgPGjkU4OkO) | [Un mazzolino di rose](https://open.spotify.com/album/3sgL5k7GHsCOUNkG5pvt2n) | 3:18 | 2022-04-14 | 2024-03-05 |
 | [Un peu d'espoir](https://open.spotify.com/track/43PPeEImtgU8I1a7Wm41bt) | [Brielle De Villiers](https://open.spotify.com/artist/04Xt0qmp91mLlKm5aFsWWW) | [Un peu d'espoir](https://open.spotify.com/album/1G3A5OJ2NooyclJwgrCHGD) | 2:13 | 2022-04-14 | 2024-07-30 |

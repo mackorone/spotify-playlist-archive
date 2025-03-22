@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-417 songs - 20 hr 4 min
+419 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [It Clicked](https://open.spotify.com/track/6CZEvodrbQ2peNYVVfH785) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [It Clicked](https://open.spotify.com/album/5xCcujnvIlwkwhA2QRHglJ) | 1:50 | 2025-03-07 |  |
 | [It's A Vibe](https://open.spotify.com/track/1lF6fVuFGAT9EAkD0S04ql) | [Riggi & Piros](https://open.spotify.com/artist/2paaWadjhhY3shymyR5TcH) | [It's A Vibe](https://open.spotify.com/album/1pJ7SKaN5pBgWVOmyIsFdJ) | 2:48 | 2024-07-08 |  |
 | [I’m A Freak \(feat\. Kazhi\)](https://open.spotify.com/track/1rI9fFHBnxcVT0FUKfrGOA) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [I’m A Freak \(feat\. Kazhi\)](https://open.spotify.com/album/2XPjCyxirQKCpW3d52WmUs) | 2:36 | 2024-01-19 |  |
+| [Jaded](https://open.spotify.com/track/3vGzsNszbAqEr81y2uMlHJ) | [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Jaded](https://open.spotify.com/album/3IJGXIstjykSCnQ5d9uDm9) | 3:15 | 2025-03-21 |  |
 | [Kanos](https://open.spotify.com/track/7DjifpgNrYVPKFcrb6vzqr) | [Heimanu](https://open.spotify.com/artist/01mvWXVNW6Gz5Oxf6bQrtM) | [Kanos](https://open.spotify.com/album/4ziuSY0MpYg3UwNoGqv5uf) | 3:36 | 2022-05-06 | 2023-04-09 |
 | [Kick Drum](https://open.spotify.com/track/5oo2RBuuxhL3qzL5gnhlkW) | [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko), [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [Kick Drum](https://open.spotify.com/album/1CoFKBsX0lsFyKZfHjmsvP) | 3:03 | 2024-08-16 |  |
 | [King Kong](https://open.spotify.com/track/42uX9KNWASwZxnmtn1YKBn) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [King Kong](https://open.spotify.com/album/4U7lCbHpPpgHuXbAkvQeBB) | 2:08 | 2023-01-13 | 2023-03-25 |
@@ -203,6 +204,7 @@
 | [Lavender](https://open.spotify.com/track/6DQUJXeQbpzVcB2sT0rrlA) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Jolina Elísh](https://open.spotify.com/artist/36XHszB4UC3UDGGcamfclK) | [Lavender Dreams & Scarlet Nightmares](https://open.spotify.com/album/0GasuMeALUBC4Kk55XjgLP) | 3:15 | 2023-04-28 |  |
 | [Leave The Light On](https://open.spotify.com/track/1xlypxpI8KiPQxahsIWqWV) | [PLS&TY](https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT), [x.o.anne](https://open.spotify.com/artist/546wUAx4h02JrN0KPXsIGq) | [Leave The Light On](https://open.spotify.com/album/0mIcGstMbvfvT5qgvRfEjt) | 3:05 | 2025-03-07 |  |
 | [Left To The Right](https://open.spotify.com/track/4Vvrre8ET12YYOVZPGmGRH) | [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd) | [Left To The Right](https://open.spotify.com/album/2cuNF6EKv5O8ncRHpE66Fu) | 2:04 | 2025-03-07 |  |
+| [Lemme See Ya](https://open.spotify.com/track/10ecK7ny1jfC5bZvA3JVXE) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf) | [Lemme See Ya](https://open.spotify.com/album/21OAvezqpIKtQ03fiAyeUX) | 2:26 | 2025-03-21 |  |
 | [Let Go](https://open.spotify.com/track/6db1oTTKdwEgIgfaB6s3cB) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [ZOOTAH](https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1) | [Let Go](https://open.spotify.com/album/7vMS8v1bop3ODHwKLBO0YS) | 2:48 | 2023-11-22 |  |
 | [Let Go \- hayve Remix](https://open.spotify.com/track/1RUIGMSOWtfG5IayvSaESI) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [ZOOTAH](https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Let Go \(Remixes\)](https://open.spotify.com/album/5eSxxrVxi6YT93f9oRumGk) | 3:10 | 2023-11-22 |  |
 | [Let Go \- Ladler Remix](https://open.spotify.com/track/6Ogp04HInN9CYtwwleFuDI) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [ZOOTAH](https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1), [Ladler](https://open.spotify.com/artist/4OY4FsKwDOt1NxIjV2WuNh) | [Let Go \(Remixes\)](https://open.spotify.com/album/5eSxxrVxi6YT93f9oRumGk) | 2:40 | 2023-11-22 |  |

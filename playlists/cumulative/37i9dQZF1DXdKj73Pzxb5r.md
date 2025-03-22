@@ -4,7 +4,7 @@
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Mariani Oelong
 
-292 songs - 18 hr 36 min
+293 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [kamera](https://open.spotify.com/track/1xru5ynjXpLsqTSNucwtnr) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2), [The Cottons](https://open.spotify.com/artist/4q6wWCZAcdPF5cjP3AhOBy), [Zeke Khaseli](https://open.spotify.com/artist/3XBY4eyiy1tI1SKwkvWokU) | [pasang](https://open.spotify.com/album/4rV163NIU4KQjG3xr2Xruk) | 3:42 | 2024-11-07 |  |
 | [Kami menunggu di rumah](https://open.spotify.com/track/0NzelkE62thDbPrqHnFWvC) | [CVX](https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz) | [Kami menunggu di rumah](https://open.spotify.com/album/32v4lS8SJTglQQcQ2VbvcP) | 3:27 | 2024-12-13 | 2025-03-15 |
 | [Kasian](https://open.spotify.com/track/1lbwSWK60uOB2QSdRLCt79) | [Refo Dan Fauna](https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi), [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06) | [Kasian](https://open.spotify.com/album/6Tx905hXzlQb53nciXKlXH) | 2:37 | 2024-06-27 | 2024-09-06 |
+| [Kejora Cinta](https://open.spotify.com/track/7FIonsrudRfTzhSmNTAJt9) | [Rangkai](https://open.spotify.com/artist/34tWvNR58jzZjh2ArZ4xxg), [Ade Paloh](https://open.spotify.com/artist/1WNds1Ueo0rd6XUigI9DPZ) | [Pekik Hening di Lantang Angan](https://open.spotify.com/album/17rIyaLllihrvHr9iMMcXv) | 3:56 | 2025-03-21 |  |
 | [Kekasih Kota](https://open.spotify.com/track/4Ngdsb2TlpF9PS4fa9vcl9) | [Fis Duo](https://open.spotify.com/artist/1S1HBUme1d0j93zSkkMILE) | [Kekasih Kota](https://open.spotify.com/album/2CNWRq13QMqziGrVtdjVjh) | 8:36 | 2024-06-27 | 2024-07-05 |
 | [Kelak Kau Bertumbuh](https://open.spotify.com/track/3ENf2swPbxu2ml3wIQgD8q) | [Jazeed](https://open.spotify.com/artist/7KL0E0rwZuLjkKzleQgzPq) | [Kelak Kau Bertumbuh](https://open.spotify.com/album/2ANuIXyZcKdyfFmlsA3QhZ) | 2:58 | 2024-08-29 | 2024-11-01 |
 | [Kembali Ke Awal](https://open.spotify.com/track/5ualIpatKacgFzCy50nWzV) | [Biru Baru](https://open.spotify.com/artist/2zuPyFAXSFyGQJrNk2iy6V) | [Kembali Ke Awal](https://open.spotify.com/album/5FhKphNRotrPi8fi8te6WW) | 3:10 | 2024-08-29 |  |

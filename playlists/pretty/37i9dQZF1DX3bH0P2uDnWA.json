@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 383074,
+  "num_followers": 383088,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z8p9ZAAAAAAQ4q6isW4LHq/0Ve7snc2y",
+  "snapshot_id": "Z9zkZgAAAABeBwr1Sj1LJiwfxVrQf8vl",
   "tracks": [
     {
       "added_at": "2025-03-07 05:00:20",
@@ -23,6 +23,38 @@
       "duration_ms": 184382,
       "name": "Rico's Groove",
       "url": "https://open.spotify.com/track/0nEWWblhoj0hNGrmCrHcJV"
+    },
+    {
+      "added_at": "2025-03-21 04:00:38",
+      "album": {
+        "name": "No Talking.",
+        "url": "https://open.spotify.com/album/13XXdZL4w2YIFB3kX8VMZw"
+      },
+      "artists": [
+        {
+          "name": "Sonia Elisheva",
+          "url": "https://open.spotify.com/artist/6xEZnusCKQZ2egFqej09i7"
+        }
+      ],
+      "duration_ms": 197575,
+      "name": "No Talking.",
+      "url": "https://open.spotify.com/track/001bNKZQU3rI9ln38WJehm"
+    },
+    {
+      "added_at": "2025-03-21 04:00:38",
+      "album": {
+        "name": "The Lohring 20s",
+        "url": "https://open.spotify.com/album/0qVyZaT1FXH6jpfBNNdq8e"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        }
+      ],
+      "duration_ms": 174258,
+      "name": "Disco Swing",
+      "url": "https://open.spotify.com/track/10OLZ0uwc9HJnzA8y2MRGN"
     },
     {
       "added_at": "2025-02-07 05:00:21",
@@ -99,22 +131,6 @@
       "duration_ms": 159928,
       "name": "Let It Roll",
       "url": "https://open.spotify.com/track/1jeCMC4CPlo8T7bRQlhO8K"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "But I Do!",
-        "url": "https://open.spotify.com/album/5Va6uJAEWg8mXvG8ASSZOv"
-      },
-      "artists": [
-        {
-          "name": "Sonia Elisheva",
-          "url": "https://open.spotify.com/artist/6xEZnusCKQZ2egFqej09i7"
-        }
-      ],
-      "duration_ms": 196927,
-      "name": "But I Do!",
-      "url": "https://open.spotify.com/track/5ow3GZInMDflqvpCqg7lU7"
     },
     {
       "added_at": "2024-11-04 16:02:20",
@@ -823,22 +839,6 @@
       "duration_ms": 189186,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/7wTmnOSpVJcIzj5FIz2I04"
-    },
-    {
-      "added_at": "2024-11-04 16:02:20",
-      "album": {
-        "name": "In the Mood",
-        "url": "https://open.spotify.com/album/2ptZi2qJDNiJS8oalULVdT"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        }
-      ],
-      "duration_ms": 151176,
-      "name": "In the Mood",
-      "url": "https://open.spotify.com/track/6NBwYT8zIO8MP1n82BKkij"
     },
     {
       "added_at": "2024-11-04 16:02:20",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/1ccVv6sg5vGPpJ77qAt6yI?si=94Q5YrYJRUSzowE7Hwzc-w\">Issa sisdoh</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/1ccVv6sg5vGPpJ77qAt6yI?si=94Q5YrYJRUSzowE7Hwzc-w\">!Sooks</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -4831,6 +4831,28 @@
     },
     {
       "album": {
+        "name": "Come With Me (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26"
+      },
+      "artists": [
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214886,
+      "name": "Come With Me (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH"
+    },
+    {
+      "album": {
         "name": "Connected Beings (Jazzanova Remix)",
         "url": "https://open.spotify.com/album/3uWUYgWxxzYWxKkb3KiaVS"
       },
@@ -8648,7 +8670,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 294000,
       "name": "Healing",
       "url": "https://open.spotify.com/track/5hrnlL3rqxLrkB8UQynmxh"
@@ -12133,6 +12155,24 @@
     },
     {
       "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/3XVyRiBQtZTxjrjtVL0Igx"
+      },
+      "artists": [
+        {
+          "name": "!Sooks",
+          "url": "https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 520677,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/43cbFFWsvH9ojZ0QaufdlH"
+    },
+    {
+      "album": {
         "name": "Kipaji",
         "url": "https://open.spotify.com/album/6rfPEgM6kFpnWjeGndqudr"
       },
@@ -14182,6 +14222,28 @@
       "duration_ms": 374048,
       "name": "Mask Off",
       "url": "https://open.spotify.com/track/1oImDYLrL8K1JUjnEQh3ul"
+    },
+    {
+      "album": {
+        "name": "Masterclass",
+        "url": "https://open.spotify.com/album/0EnaDpMlUTsWUVRPhwxPCD"
+      },
+      "artists": [
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Masterclass",
+      "url": "https://open.spotify.com/track/043vqBDn7RzuxJ1FF35Qht"
     },
     {
       "album": {
@@ -22886,7 +22948,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 512100,
       "name": "Too Much Information - Laolu Remix (Edit)",
       "url": "https://open.spotify.com/track/1mHdnrcPMlhwFqMrsS9Kbx"

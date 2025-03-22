@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per stare così ༼ ༎ຶ ෴ ༎ຶ༽ NASKA in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,968 likes - 118 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,024 likes - 118 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 117 | [che maleducata!](https://open.spotify.com/track/2xjHdFcbCpYAbWoHyF5eg5) | [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej), [SIC](https://open.spotify.com/artist/0Hj8b0XnX4W9Kufo4XKu6v) | [che maleducata!](https://open.spotify.com/album/23xMt7oAprAH8Diztu3QrN) | 2:26 |
 | 118 | [Dorothy](https://open.spotify.com/track/08B0hUxqDSQh8Biln89lWl) | [Narcolessia](https://open.spotify.com/artist/1haMWb1Zbd8XYPfLJOCEmS), [Kniar](https://open.spotify.com/artist/5tcrUvx66Sono2blPEnXEi) | [Dorothy](https://open.spotify.com/album/46kjM2XqMRbkfiFZtiVnt8) | 2:17 |
 
-Snapshot ID: `Z9yeMwAAAAAERNkVPDDN8R1W30yAkySv`
+Snapshot ID: `Z90mqgAAAADA7UsGmqdyIOFefthIKo/s`

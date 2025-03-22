@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Lady Donli
 
-229 songs - 13 hr 45 min
+230 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Magnetic](https://open.spotify.com/track/472INKIBYOfxaYOagwN1f6) | [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Figurine](https://open.spotify.com/album/0Tgcl7QbfwGNqCdJ3h6vj6) | 3:48 | 2021-09-24 | 2023-02-04 |
 | [Mahaba Yatatuua](https://open.spotify.com/track/5qDdvkYJBLZKciPWMCx9Fz) | [Ndung'u Mbithi](https://open.spotify.com/artist/1Xae29olA5X6qpDX6MOvHO) | [Mahaba Yatatuua](https://open.spotify.com/album/74uv6gKqamatXy8IfjntRA) | 3:20 | 2023-07-28 | 2023-09-15 |
 | [Mali \(feat\. Nathi\)](https://open.spotify.com/track/3UgjNSWv99ez4z2B5ARgZI) | [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI), [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Mali \(feat\. Nathi\)](https://open.spotify.com/album/4NqSQWewfv3gb1lZPaLIgV) | 4:30 | 2020-12-10 | 2023-05-05 |
+| [Mali Spirit](https://open.spotify.com/track/4cEQJAGKi0ToNEqBs60Kpd) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe) | [Mali Spirit](https://open.spotify.com/album/1I2XSrjEHR8vZ60fqIdBlW) | 3:36 | 2025-03-21 |  |
 | [Memories \- Remix](https://open.spotify.com/track/2HNVCgBarGerVr2NhfYIVl) | [Sigag Lauren](https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Remix Tape](https://open.spotify.com/album/5p7mlL4Sx5QaOmPFL0Lyxu) | 3:00 | 2021-07-30 | 2023-03-10 |
 | [Meritlhoana](https://open.spotify.com/track/2f3GwbaQBMbSrFFx0XzCfq) | [Morena Leraba](https://open.spotify.com/artist/2aUErDeR4aoZDvy9ZYMhzO) | [Meritlhoana](https://open.spotify.com/album/2BzAIEggWAPQPn6sZm2b7q) | 7:11 | 2023-02-03 | 2023-04-28 |
 | [Milele](https://open.spotify.com/track/0ThlnzzzbQjw3WpbuPoafr) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi) | [Milele](https://open.spotify.com/album/3Zt55olh4hstOLmrFRNp2G) | 3:29 | 2021-09-30 | 2023-08-18 |
@@ -128,7 +129,7 @@
 | [Muse \- A COLORS SHOW](https://open.spotify.com/track/4JmYe83UEo0u79arY6Zbn2) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Muse \- A COLORS SHOW](https://open.spotify.com/album/4bMaXHiewgIcNRmKzRWnkJ) | 5:03 | 2023-12-08 | 2024-11-23 |
 | [My Ability](https://open.spotify.com/track/3nppDJiBDPiawKKuvDpE5R) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [My Ability](https://open.spotify.com/album/4ksFUZlag8pQV82WLLxivc) | 3:19 | 2023-06-22 | 2024-02-16 |
 | [My Chargie Got Charges](https://open.spotify.com/track/0GRGUljMyC1mxhVJcJqxDE) | [Eeshii The Free](https://open.spotify.com/artist/06rLftKIpboP3r4LBicCJQ) | [My Chargie Got Charges](https://open.spotify.com/album/0JKwF0lib5m6j4TpLSXZDh) | 3:31 | 2022-08-05 | 2022-10-14 |
-| [Ndakaaru](https://open.spotify.com/track/6ZyVEyjzi1PYFaEAY7eJLg) | [SAHAD](https://open.spotify.com/artist/2ZjoekvMs8aDES0jFp37IT), [Khalifa Gueye](https://open.spotify.com/artist/0KytCBegoEPzs78lECpWgN) | [Ndakaaru](https://open.spotify.com/album/4lyXV4fNsqvrUttayqFzab) | 4:44 | 2025-02-14 |  |
+| [Ndakaaru](https://open.spotify.com/track/6ZyVEyjzi1PYFaEAY7eJLg) | [SAHAD](https://open.spotify.com/artist/2ZjoekvMs8aDES0jFp37IT), [Khalifa Gueye](https://open.spotify.com/artist/0KytCBegoEPzs78lECpWgN) | [Ndakaaru](https://open.spotify.com/album/4lyXV4fNsqvrUttayqFzab) | 4:44 | 2025-02-14 | 2025-03-22 |
 | [Ndavuka](https://open.spotify.com/track/5eIvMbO3C9f86NeQCJ1Lbc) | [Kila G](https://open.spotify.com/artist/2yfTGcoehiKZZnAM6mWU2E) | [Moving Away](https://open.spotify.com/album/0n3DZvKeyztyrzVHE7Dem9) | 3:16 | 2023-09-09 | 2023-09-15 |
 | [NDIWE](https://open.spotify.com/track/1Tn2bby1wMZ7jkmEQod5dL) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Trina South](https://open.spotify.com/artist/5vCuU06trZlFxE0JK0C1Am) | [NDIWE](https://open.spotify.com/album/4pcyFiJmHvc7cU18toF49w) | 4:35 | 2023-08-17 | 2023-10-20 |
 | [Need Dat](https://open.spotify.com/track/3d1KKlKDfqwYM705PKofVT) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [The Temple](https://open.spotify.com/artist/43wpwuYZQPrBGJumqynErd) | [Need Dat](https://open.spotify.com/album/2GoGI2RczwuSAG2iu9WGjR) | 3:18 | 2021-06-21 | 2023-09-29 |

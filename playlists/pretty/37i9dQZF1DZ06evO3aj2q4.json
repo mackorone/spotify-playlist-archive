@@ -1,12 +1,12 @@
 {
   "description": "This is Evanescence. The essential tracks, all in one playlist.",
-  "num_followers": 424886,
+  "num_followers": 424960,
   "original_name": "This Is Evanescence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9i3gAAAAADa4PIRxIU85Z6z3URbJJ6U",
+  "snapshot_id": "Z9tagAAAAAAUnzzu65YRLc0E+sEm53/X",
   "tracks": [
     {
       "added_at": null,
@@ -699,30 +699,6 @@
       "duration_ms": 222274,
       "name": "Across The Universe",
       "url": "https://open.spotify.com/track/75Ov0ZIMoV0HuRwaPQsicp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Reckoning (feat. Amy Lee) [Live in Amsterdam]",
-        "url": "https://open.spotify.com/album/6jALyqQddf992tgYntZITS"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        },
-        {
-          "name": "Amy Lee",
-          "url": "https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk"
-        }
-      ],
-      "duration_ms": 322679,
-      "name": "The Reckoning - Live in Amsterdam",
-      "url": "https://open.spotify.com/track/2DD2UFduTpt2vq8WefvFtp"
     }
   ],
   "unique_name": "This Is Evanescence",

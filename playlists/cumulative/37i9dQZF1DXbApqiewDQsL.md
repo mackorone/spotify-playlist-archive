@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, featuring Janeth Valenzuela.
 
-384 songs - 20 hr 15 min
+389 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,9 @@
 | [Otra Botella](https://open.spotify.com/track/1eF1uRpuxr351DXcsZ8t34) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Otra Botella](https://open.spotify.com/album/0yAKlqiiZXRUrSRdag7YeA) | 3:46 | 2022-05-13 | 2024-04-24 |
 | [Otra Botella](https://open.spotify.com/track/0NKFLs0I0Zq3sKbsjQOEW7) | [Poder Asignado](https://open.spotify.com/artist/3tIJ3pzzSMRO5GssoPgQkw) | [Otra Botella](https://open.spotify.com/album/6L7MyXzfbRXyG0Gj70l6Zz) | 2:49 | 2024-11-21 | 2025-01-16 |
 | [Otro Año](https://open.spotify.com/track/5IyWrOkCxF3z0uUzxL4oNC) | [Movimiento Exclusivo](https://open.spotify.com/artist/7hnQfccqWttCUbcyf6e64p) | [Otro Año](https://open.spotify.com/album/75oPWbkPT5YsdBFJP3zMxP) | 3:31 | 2024-08-14 | 2024-11-01 |
+| [Otro Tinte](https://open.spotify.com/track/6qhWJ9zauJ6X67v3CVXxWm) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Otro Tinte](https://open.spotify.com/album/5eIzOsCi13ku8Vi5uYk5BA) | 3:15 | 2025-03-21 |  |
 | [Pa Donde Sea](https://open.spotify.com/track/3saOhEuvUlZLkcrxyu8kyM) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [Pa Donde Sea](https://open.spotify.com/album/73mXUPl4AI4WSSiYOpnded) | 2:06 | 2024-09-18 | 2025-01-16 |
+| [Pa Seguir Sufriendo](https://open.spotify.com/track/4inTQ2rxYWBH6J0XpeiREU) | [Boy Junior](https://open.spotify.com/artist/7oewpx3rYQv76GZ3GAq5Yq) | [Pa Seguir Sufriendo](https://open.spotify.com/album/30VlLlW52bUNt109vQhG3D) | 2:50 | 2025-03-21 |  |
 | [Pa Ti](https://open.spotify.com/track/1a4FMU1W8ay7CCqOlfruey) | [Grupo RYE](https://open.spotify.com/artist/5bN6BTVdgv8Ykc0No1RNtv) | [Pa Ti](https://open.spotify.com/album/0CVJKrEJ65gyGR02z9JL7d) | 3:07 | 2025-02-14 |  |
 | [Pa' Olvidarme De Ella](https://open.spotify.com/track/3lR4O0vtkhCAvVEUEWUL0S) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [El Amor En Los Tiempos Del Perreo](https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE) | 3:47 | 2022-05-13 | 2024-04-24 |
 | [Pacas](https://open.spotify.com/track/5Nw18lTAxikcxe7ejez64Q) | [Rutazz](https://open.spotify.com/artist/0oiBm0uEsAcSnIEZUHxDsh) | [Pacas](https://open.spotify.com/album/6roohFaJt4zSikTAwN9N23) | 3:29 | 2025-01-15 |  |
@@ -314,6 +316,7 @@
 | [Reviveme el Amor](https://open.spotify.com/track/4Fb3fKoMVsigXwW6WNDDu2) | [Joaquin Verduzco](https://open.spotify.com/artist/5p7U8605S13A9sbKnoyVjs) | [Reviveme el Amor](https://open.spotify.com/album/2AbzdKNmrpgu1E4nTU46R2) | 2:59 | 2025-02-14 |  |
 | [Rosalia](https://open.spotify.com/track/4kD49Unz6BtO0dkBD09RWE) | [Linea M](https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3), [Alex Coppel](https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM) | [Rosalia](https://open.spotify.com/album/3dZAbVNvZv4TeJQRmb04eN) | 2:55 | 2024-10-25 | 2024-12-05 |
 | [Rosas](https://open.spotify.com/track/3XoiITDWu4iwHvPPsYWJ7w) | [Myriam MLG](https://open.spotify.com/artist/5Hx4Yk4MZ9aH6SfXkM3isj) | [Rosas](https://open.spotify.com/album/6jJYhJ0wMhy631BbDQ5G1K) | 3:51 | 2025-02-14 |  |
+| [RR](https://open.spotify.com/track/0AqKcQ4LOsAezAHGYVZYUz) | [Estilo Prohibido](https://open.spotify.com/artist/1S1l01QMCVBXeG9ImB1ngL) | [RR](https://open.spotify.com/album/2XNRRh8RZNRZ987Or80w5w) | 2:17 | 2025-03-21 |  |
 | [Rudy Bañuelos](https://open.spotify.com/track/5MPZDqQ08ZO40q8wn7NDZi) | [Jorge Morales El Jilguero](https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv) | [Rudy Bañuelos](https://open.spotify.com/album/1xNfxHcaLJbMkOgYztGqCt) | 2:58 | 2024-11-21 | 2025-01-16 |
 | [Saco La Paca](https://open.spotify.com/track/1OWYOkf5VApIjWnOynKFJH) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Desde El Infierno](https://open.spotify.com/album/2GzPIRTuUasRgnSyvcSs7n) | 2:27 | 2022-05-13 | 2024-04-24 |
 | [Santi](https://open.spotify.com/track/3fvtJysOBTZ7DENTN9jHPW) | [Segunda Generacion](https://open.spotify.com/artist/3yV4XvqkbtSACqTZcp6uux) | [Santi](https://open.spotify.com/album/4cMu8KYtvoa8FDRmAu2EIy) | 3:17 | 2025-01-15 |  |
@@ -346,6 +349,7 @@
 | [TE FUI A SEGUIR](https://open.spotify.com/track/2WSf3P0Uk3AfGPqkBPI0Qh) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 2:33 | 2024-01-12 | 2024-04-19 |
 | [TE FUI A SEGUIR](https://open.spotify.com/track/2vRmz7wDDxRY4zPSzwEmIT) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 2:33 | 2023-12-01 | 2024-04-24 |
 | [Te Quiero Besar](https://open.spotify.com/track/3iwKWIaEZ5jafPYZZSCDLz) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Te Quiero Besar](https://open.spotify.com/album/3nzB6RJLeWrgaATXF5ZIkr) | 3:10 | 2023-02-24 | 2024-04-24 |
+| [Te Vas](https://open.spotify.com/track/78VvnSI0Xe6Lu9t6KZFNCC) | [Diana Araujo](https://open.spotify.com/artist/2gddhtroO8YVORZShAjf2O) | [Te Vas](https://open.spotify.com/album/0t8J2Qp5zxPiPT26SKJKKM) | 3:16 | 2025-03-21 |  |
 | [Tengo Algo Pendiente](https://open.spotify.com/track/2jXF6m7Y6sYbibjikCdgEo) | [Juan Treviño](https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG) | [Tengo Algo Pendiente](https://open.spotify.com/album/0Z1VBucUP0XBO1UGkEBOSw) | 3:54 | 2024-08-07 | 2024-10-03 |
 | [TGDT](https://open.spotify.com/track/0Obo8Q2WUjaioE20pN9WXw) | [JR NUÑEZ](https://open.spotify.com/artist/7kyrlDk15k86Yt4IkF1D4M) | [TGDT](https://open.spotify.com/album/4IjKRITUzjfY5Xv1lreqKN) | 3:16 | 2024-08-14 | 2025-01-16 |
 | [The One \(Pero No Como Yo\)](https://open.spotify.com/track/4IXn21cwFxilAD7SxfeYCN) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The One \(Pero No Como Yo\)](https://open.spotify.com/album/5kz3yJ6kdxXHY2BIW5Ldz1) | 2:56 | 2024-04-13 | 2024-04-19 |
@@ -385,6 +389,7 @@
 | [Y Sé](https://open.spotify.com/track/76ufRQiUlajyFO6fAgAxzN) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i) | [Y Sé](https://open.spotify.com/album/1DiL6k0glC4sYYNNB7i5fB) | 3:29 | 2025-03-07 |  |
 | [Y Tú Te Vas](https://open.spotify.com/track/1gwL6JCvfvsd1SVKxbxqWh) | [Lalo Cruz](https://open.spotify.com/artist/63uOMoEQGgKP198ToBeuOG) | [Y Tú Te Vas](https://open.spotify.com/album/4M21Z7NcYDjhJcwJxIkYfp) | 4:24 | 2024-11-08 | 2025-01-16 |
 | [Ya acabó \- Con Becky G](https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Ya acabó \(Con Becky G\)](https://open.spotify.com/album/6XZejfd76Y8JU23nnaVDTc) | 2:56 | 2022-05-13 | 2024-04-24 |
+| [Ya Estuvo Bueno](https://open.spotify.com/track/5q9MF5IpNP16cWyhnPjVZV) | [Gente Del Rancho](https://open.spotify.com/artist/6BbZzab6fVZzep3FvLjLUt) | [Ya Estuvo Bueno](https://open.spotify.com/album/7oLi5kevgO935SPBENuPSc) | 2:32 | 2025-03-21 |  |
 | [Ya Me La Sé](https://open.spotify.com/track/7dzYmvrC2TKIgAoRTkinMZ) | [Angelina Victoria](https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL) | [Ya Me La Sé](https://open.spotify.com/album/6wo8Aa48ArztIxHyjvHyaH) | 2:39 | 2024-10-16 | 2025-01-16 |
 | [Ya no me Importa \(Version Mariachi\) \(feat\. メグッポイド\)](https://open.spotify.com/track/6dzTmofkiTJ4KNEzMn5he7) | [AlexTrip Sands](https://open.spotify.com/artist/5MKEh6IaFZK3knCjCok3rI), [メグッポイド](https://open.spotify.com/artist/36JmKF8ae9cmpYmbL5fZXD) | [Ya no me Importa \(Version Mariachi\)](https://open.spotify.com/album/5Glv4xFjsq3nGF8KYkCqJd) | 5:28 | 2024-10-02 | 2024-12-05 |
 | [Yo Soy Hijo Del 7](https://open.spotify.com/track/2qdeM45IZhRglUCQ8eFEPq) | [SUBLXME](https://open.spotify.com/artist/00EwB9FkCrgoGSe4xTHDsO) | [Unpl4gged](https://open.spotify.com/album/4QBGFxV2piwgrTCEoVUemN) | 2:50 | 2024-08-07 | 2024-11-01 |

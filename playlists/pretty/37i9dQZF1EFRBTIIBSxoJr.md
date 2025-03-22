@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 707 likes - 129 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 706 likes - 129 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 128 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 | 129 | [Alibi](https://open.spotify.com/track/3R8hu5b33Pq2ucV4V7fPqv) | [Le Delacroix](https://open.spotify.com/artist/3P6sbTAoScXwESIgUG0PmH) | [EDM Gaming Energy Boost](https://open.spotify.com/album/6gRDEE1FXYgblES7yADmu1) | 3:05 |
 
-Snapshot ID: `AbsltAAAAAD2nDgj8N52w34htKoc1Ov0`
+Snapshot ID: `AbsrVAAAAACaNpKO2JT40NCFuDSJdnaJ`

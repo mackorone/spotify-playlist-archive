@@ -1,12 +1,12 @@
 {
   "description": "This is Gabr\u00edel \u00d3lafs. The essential tracks, all in one playlist.",
-  "num_followers": 1769,
+  "num_followers": 1772,
   "original_name": "This Is Gabr\u00edel \u00d3lafs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9oJAAAAAAAjllrfueBzlhC6kOe9rmeD",
+  "snapshot_id": "Z9tagAAAAABetIXCs/WYUcGTpvRxVhIA",
   "tracks": [
     {
       "added_at": null,
@@ -147,6 +147,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Drifter",
+        "url": "https://open.spotify.com/album/4WMp8Iz1dogRcM9XaOlkxU"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 168085,
+      "name": "The Drifter",
+      "url": "https://open.spotify.com/track/4u2Kn8DaYBEuB19AjWcMDn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fantas\u00eda for Cello and Orchestra",
         "url": "https://open.spotify.com/album/03AwBwflLN1q8y6DtuL0oz"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 241673,
       "name": "Fantas\u00eda for Cello and Orchestra",
       "url": "https://open.spotify.com/track/3xc1tPUPPygJDabqiTwNjA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Drifter",
-        "url": "https://open.spotify.com/album/4WMp8Iz1dogRcM9XaOlkxU"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 168085,
-      "name": "The Drifter",
-      "url": "https://open.spotify.com/track/4u2Kn8DaYBEuB19AjWcMDn"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Or\u00edensa",
-        "url": "https://open.spotify.com/album/2lFHLdQwLpGeDJZm0WHtRM"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 143189,
-      "name": "Or\u00edensa",
-      "url": "https://open.spotify.com/track/467rzaIMT7UEmkMGlJM8ho"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano Works",
         "url": "https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 134997,
       "name": "Absent Minded Solo",
       "url": "https://open.spotify.com/track/0G8CCPN2EpfaC9JgEc1qhK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Or\u00edensa",
+        "url": "https://open.spotify.com/album/2lFHLdQwLpGeDJZm0WHtRM"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 143189,
+      "name": "Or\u00edensa",
+      "url": "https://open.spotify.com/track/467rzaIMT7UEmkMGlJM8ho"
     },
     {
       "added_at": null,
@@ -407,6 +407,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Whale Overture",
+        "url": "https://open.spotify.com/album/2qKtYYDcYFtSXUaCxYhJAb"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 156229,
+      "name": "Whale Variation",
+      "url": "https://open.spotify.com/track/45dS5EfgmAWuUsqQTWuI5A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Works",
+        "url": "https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 147774,
+      "name": "Cyclist Waltz Solo",
+      "url": "https://open.spotify.com/track/24wjI8OjrQdeLVLduvu8rl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lullabies for Piano and Cello",
         "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
       },
@@ -423,6 +455,22 @@
       "duration_ms": 120783,
       "name": "Eldur",
       "url": "https://open.spotify.com/track/4mhxSUqgONepu6dQ7gQR0p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solon Islandus (Deluxe)",
+        "url": "https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 148722,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/78JjHDD0w2iymv4dJquhLs"
     },
     {
       "added_at": null,
@@ -459,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solon Islandus (Deluxe)",
-        "url": "https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 148722,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/78JjHDD0w2iymv4dJquhLs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lullabies for Piano and Cello",
         "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
       },
@@ -487,6 +519,26 @@
       "duration_ms": 212415,
       "name": "Draumheimar",
       "url": "https://open.spotify.com/track/0dAPZAKj30bBP1dx9OPaXC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solon Islandus (Complete Works)",
+        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        },
+        {
+          "name": "Steiney Sigur\u00f0ard\u00f3ttir",
+          "url": "https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO"
+        }
+      ],
+      "duration_ms": 153756,
+      "name": "The Croak",
+      "url": "https://open.spotify.com/track/3GBNUN3jAMhkh8MRa39kwo"
     },
     {
       "added_at": null,
@@ -516,29 +568,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 147774,
-      "name": "Cyclist Waltz Solo",
-      "url": "https://open.spotify.com/track/24wjI8OjrQdeLVLduvu8rl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Solon Islandus (Complete Works)",
-        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        },
-        {
-          "name": "Steiney Sigur\u00f0ard\u00f3ttir",
-          "url": "https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO"
-        }
-      ],
-      "duration_ms": 153756,
-      "name": "The Croak",
-      "url": "https://open.spotify.com/track/3GBNUN3jAMhkh8MRa39kwo"
+      "duration_ms": 84853,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/6CW6qcpMm70WkCwsUBNIAZ"
     },
     {
       "added_at": null,
@@ -563,38 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whale Overture",
-        "url": "https://open.spotify.com/album/2qKtYYDcYFtSXUaCxYhJAb"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 156229,
-      "name": "Whale Variation",
-      "url": "https://open.spotify.com/track/45dS5EfgmAWuUsqQTWuI5A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piano Works",
-        "url": "https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 84853,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/6CW6qcpMm70WkCwsUBNIAZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lullabies for Piano and Cello (Deluxe)",
         "url": "https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3"
       },
@@ -607,26 +607,6 @@
       "duration_ms": 103698,
       "name": "Nokt\u00farna Variation",
       "url": "https://open.spotify.com/track/4AnUtAQBpd8S8woFEqVgzL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lullabies for Piano and Cello",
-        "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        },
-        {
-          "name": "Steiney Sigur\u00f0ard\u00f3ttir",
-          "url": "https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO"
-        }
-      ],
-      "duration_ms": 183240,
-      "name": "V\u00edsa",
-      "url": "https://open.spotify.com/track/3gTPuppNx1qfT0q8GcG6sC"
     },
     {
       "added_at": null,
@@ -663,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Orchestral Works",
-        "url": "https://open.spotify.com/album/6fJIhLghRJNCVWbmRWObn3"
+        "name": "Lullabies for Piano and Cello",
+        "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
       },
       "artists": [
         {
@@ -672,17 +652,13 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         },
         {
-          "name": "Reykjav\u00edk Orkestra",
-          "url": "https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU"
-        },
-        {
-          "name": "Viktor Orri \u00c1rnason",
-          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
+          "name": "Steiney Sigur\u00f0ard\u00f3ttir",
+          "url": "https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO"
         }
       ],
-      "duration_ms": 239996,
-      "name": "Islandus: Streymir",
-      "url": "https://open.spotify.com/track/1GT6MSZpVOgZVn8O8iCqPm"
+      "duration_ms": 183240,
+      "name": "V\u00edsa",
+      "url": "https://open.spotify.com/track/3gTPuppNx1qfT0q8GcG6sC"
     },
     {
       "added_at": null,
@@ -719,6 +695,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Orchestral Works",
+        "url": "https://open.spotify.com/album/6fJIhLghRJNCVWbmRWObn3"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        },
+        {
+          "name": "Reykjav\u00edk Orkestra",
+          "url": "https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU"
+        },
+        {
+          "name": "Viktor Orri \u00c1rnason",
+          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
+        }
+      ],
+      "duration_ms": 239996,
+      "name": "Islandus: Streymir",
+      "url": "https://open.spotify.com/track/1GT6MSZpVOgZVn8O8iCqPm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lullabies for Piano and Cello (Deluxe)",
         "url": "https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 92257,
       "name": "Somn\u00eda",
       "url": "https://open.spotify.com/track/16CJHOcR0iksFRellAVvs1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hind / Aska (Harpa Sessions)",
-        "url": "https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "Hind / Aska - Harpa Sessions",
-      "url": "https://open.spotify.com/track/3xAXkaB8vlhYa41vuM5RNM"
     },
     {
       "added_at": null,
@@ -791,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hind / Aska (Harpa Sessions)",
+        "url": "https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Hind / Aska - Harpa Sessions",
+      "url": "https://open.spotify.com/track/3xAXkaB8vlhYa41vuM5RNM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lullabies for Piano and Cello (Deluxe)",
         "url": "https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3"
       },
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Absent Minded",
-        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 163440,
-      "name": "Another Fall, Another Spring",
-      "url": "https://open.spotify.com/track/3In8znUcyeunAVkfuD6ppM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Polar",
         "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 232617,
       "name": "Vortex",
       "url": "https://open.spotify.com/track/5qoHDfPRYh5K6scKLkm7xh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Absent Minded",
+        "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 163440,
+      "name": "Another Fall, Another Spring",
+      "url": "https://open.spotify.com/track/3In8znUcyeunAVkfuD6ppM"
     },
     {
       "added_at": null,

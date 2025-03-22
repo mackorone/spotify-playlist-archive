@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover:  Panji Sakti, Egha De Latoya
 
-791 songs - 2 day 3 hr 24 min
+792 songs - 2 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Indah Pada Waktunya](https://open.spotify.com/track/2UAgx5YTxZpUcb5AuPkcdZ) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Indah Pada Waktunya](https://open.spotify.com/album/0tpiMc5UyAepTh01ut8lkA) | 4:00 | 2025-02-20 |  |
 | [Ingat Ingat Lagi](https://open.spotify.com/track/1SXmN7dHh167EjucXTeOqj) | [SAÈ](https://open.spotify.com/artist/1HtIXiM6wEmcQQ3K7IM2BO) | [Ingat Ingat Lagi](https://open.spotify.com/album/3Sei2EW85z0rDEy6iY6McM) | 3:09 | 2024-07-04 | 2024-08-09 |
 | [Ingatkah?](https://open.spotify.com/track/0WtLOUvSWCb6F63ojSr2xH) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Ingatkah?](https://open.spotify.com/album/4RXz1bccwbZLdHaK0krhLb) | 4:23 | 2025-02-20 |  |
+| [Ingin Bermesra](https://open.spotify.com/track/38qE0X83vhdDpUHwoy7SnK) | [Pasto](https://open.spotify.com/artist/7IvfKO66wMWnKaZHh34IoU) | [Ingin Bermesra](https://open.spotify.com/album/1FNOaQjQmXkUhavMa8gTD7) | 3:48 | 2025-03-20 |  |
 | [Ini Panggung Sandiwara](https://open.spotify.com/track/5Myzlwe1UqFUeMMCP5WbUX) | [Sarwendah](https://open.spotify.com/artist/5UBkLLBPICz1UoMehxUN86) | [Ini Panggung Sandiwara](https://open.spotify.com/album/5xrCorNSSyFkMWaSjocK83) | 4:00 | 2025-03-06 |  |
 | [Inilah Aku](https://open.spotify.com/track/1oIpWiJzhBLBEXEkmjPdvZ) | [Good Morning Everyone](https://open.spotify.com/artist/6HyZoYVf8K9abFPxwhJcbK) | [Inilah Aku](https://open.spotify.com/album/4Yperg2ZMakj5QOvl2aFeQ) | 4:30 | 2024-07-18 | 2024-08-16 |
 | [Insya Allah](https://open.spotify.com/track/1iOoTZdnqb5r6eFfzKAJfl) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Insya Allah](https://open.spotify.com/album/27Ul1EwxPb7vJ4DBUX8MOg) | 3:23 | 2024-06-13 | 2024-09-27 |

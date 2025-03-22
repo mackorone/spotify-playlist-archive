@@ -2,7 +2,7 @@
 
 ### [Vår i lufta](https://open.spotify.com/playlist/37i9dQZF1DX8RrjZR06viH)
 
-> ☀️
+> Våren er her!☀️
 
 169 songs - 8 hr 44 min
 

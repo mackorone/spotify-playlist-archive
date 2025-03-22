@@ -1,13 +1,29 @@
 {
-  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Ruthie Foster",
-  "num_followers": 455897,
+  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Southern Avenue",
+  "num_followers": 455931,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9OpxAAAAAAlrwv7ctpg+6slWAv/QKYh",
+  "snapshot_id": "Z9zkaAAAAACPehvQfdjoapHU/qArveHU",
   "tracks": [
+    {
+      "added_at": "2025-03-21 04:00:40",
+      "album": {
+        "name": "Upside",
+        "url": "https://open.spotify.com/album/4b2rsJxm5i3BTj1mkhGGSJ"
+      },
+      "artists": [
+        {
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+        }
+      ],
+      "duration_ms": 301395,
+      "name": "Upside",
+      "url": "https://open.spotify.com/track/2mYnzR2Gm5mGNft7rZsInE"
+    },
     {
       "added_at": "2025-03-14 04:00:04",
       "album": {
@@ -383,22 +399,6 @@
       "duration_ms": 287986,
       "name": "All The Things I Said",
       "url": "https://open.spotify.com/track/5viV8dro184RtltNGT0JiZ"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Found A Friend In You",
-        "url": "https://open.spotify.com/album/2J9ZviZDjKMSqBerq84iKw"
-      },
-      "artists": [
-        {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
-        }
-      ],
-      "duration_ms": 158927,
-      "name": "Found A Friend In You",
-      "url": "https://open.spotify.com/track/1WXAspzwAg4loOothMAxis"
     },
     {
       "added_at": "2024-09-13 04:00:00",

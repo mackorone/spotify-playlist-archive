@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "Bomb",
+        "url": "https://open.spotify.com/album/3Y3cRb0PDi1okh0yLMZpCC"
+      },
+      "artists": [
+        {
+          "name": "Jeruson",
+          "url": "https://open.spotify.com/artist/08z8cYk0E56BpT6vSS04ss"
+        }
+      ],
+      "date_added": "2025-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61257,
+      "name": "Bomb",
+      "url": "https://open.spotify.com/track/6syzSDbSILQDoRBsjcFWmR"
+    },
+    {
+      "album": {
         "name": "Raam (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7rAGXwE4JbyOqJgl4TULFi"
       },
@@ -2210,7 +2228,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 195807,
       "name": "MYSKKIN",
       "url": "https://open.spotify.com/track/1byOQiIsmmCqxuv7dDbBx5"

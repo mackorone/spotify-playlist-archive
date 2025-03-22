@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Ain't Done",
+        "url": "https://open.spotify.com/album/03fA93n05zLMAJiOXrit6S"
+      },
+      "artists": [
+        {
+          "name": "Lukas Nelson",
+          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Ain't Done",
+      "url": "https://open.spotify.com/track/56XH2sOgqKeCpmgMI5k2Xy"
+    },
+    {
+      "album": {
         "name": "Earned It (Sampler)",
         "url": "https://open.spotify.com/album/4QdR5tUzrT7SBquAJAJHAb"
       },
@@ -3722,6 +3740,24 @@
       "duration_ms": 240000,
       "name": "She Loves Jesus",
       "url": "https://open.spotify.com/track/6crnBVNhXq2aEi5ALEVc41"
+    },
+    {
+      "album": {
+        "name": "The Messenger",
+        "url": "https://open.spotify.com/album/70od9008rtHk29AYSgp24n"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ballard",
+          "url": "https://open.spotify.com/artist/0dvKgSdNB2U1gfp6ZcekYi"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161340,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/1391pTC3PlDqAWZTNUkdPc"
     },
     {
       "album": {

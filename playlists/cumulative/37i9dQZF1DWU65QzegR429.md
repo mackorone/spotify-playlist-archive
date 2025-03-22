@@ -4,7 +4,7 @@
 
 > Latin music making waves\. Cover: Hamilton
 
-235 songs - 12 hr 14 min
+236 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [CONTROL](https://open.spotify.com/track/26cIdZlCIBWuTyZzTSlwWM) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [CONTROL](https://open.spotify.com/album/1PylStXOIW6KgkyYvvEMcE) | 2:32 | 2024-11-22 |  |
 | [Cuarentena](https://open.spotify.com/track/7zNGzcGEnfVld7PdlXSeSa) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:11 | 2022-02-18 | 2022-06-03 |
 | [Culo Chapa \(feat\. La Perversa, Quimico Ultra Mega & Haraca Kiko\)](https://open.spotify.com/track/045pZE1F4PGpwHygQLbLXb) | [Malu Trevejo](https://open.spotify.com/artist/58GNHTqgNesANvRuoKzCwX), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Culo Chapa \(feat\. La Perversa, Quimico Ultra Mega & Haraca Kiko\)](https://open.spotify.com/album/7yp999HIsMUanMsvLUq6Ni) | 2:30 | 2023-02-10 | 2024-02-02 |
+| [Curame](https://open.spotify.com/track/5iI3EZ30ehidBbXe2jqOLF) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [Alexis Play](https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv) | [Curame](https://open.spotify.com/album/70Gzwb0yzk3e3SH22lWP6H) | 2:49 | 2025-03-21 |  |
 | [Daddy \(feat\. Sexyy Red\)](https://open.spotify.com/track/7oYjWdHi4gwPxOkRVWfSUc) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Daddy \(feat\. Sexyy Red\)](https://open.spotify.com/album/2aUz6JfGW97Min1HueLXmp) | 3:13 | 2024-02-01 | 2024-10-12 |
 | [DE MARAVISHA](https://open.spotify.com/track/20Its0iJ6nvKoKw3cY4ydD) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [DE MARAVISHA](https://open.spotify.com/album/54ZdnLGAx6ifXg4xI3qvwI) | 3:23 | 2025-02-07 |  |
 | [De Tiguere](https://open.spotify.com/track/1LMHMi3Ko0LpOvjDiGFRLp) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo), [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [De Tiguere](https://open.spotify.com/album/6UhIGabbTyqs82s34KwrjS) | 3:32 | 2024-11-22 |  |
@@ -238,7 +239,7 @@
 | [Way Too Soft](https://open.spotify.com/track/6Ib54l6GmkSTONB4gVsCUS) | [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [Way Too Soft](https://open.spotify.com/album/7qRBGwP4aLulh8xLDbb5ts) | 2:16 | 2022-02-18 | 2022-06-03 |
 | [What a Bam Bam](https://open.spotify.com/track/0l6REfKf0k4aX5UsLIXEhe) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh) | [What a Bam Bam](https://open.spotify.com/album/2ZkUOPatBkSSJRDKUBbwaz) | 3:08 | 2024-03-21 |  |
 | [When I Was Your Girl](https://open.spotify.com/track/07mj6o8oLIYbMSvwlQGMUB) | [Calma Carmona](https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q) | [There's No Other Girl \(Live Session EP\)](https://open.spotify.com/album/65e8ENLi3NSZj5xooYNO1x) | 5:35 | 2022-02-18 | 2022-06-03 |
-| [Who Who](https://open.spotify.com/track/5chbw52W6N0FMq7hFsdQyU) | [Emanuel Lara](https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [Who Who](https://open.spotify.com/album/5YwNXkTwhwBv1dZE5pbE11) | 3:03 | 2024-03-22 |  |
+| [Who Who](https://open.spotify.com/track/5chbw52W6N0FMq7hFsdQyU) | [Emanuel Lara](https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [Who Who](https://open.spotify.com/album/5YwNXkTwhwBv1dZE5pbE11) | 3:03 | 2024-03-22 | 2025-03-22 |
 | [YA](https://open.spotify.com/track/1SItv3YEX2txYK9mkbSKqD) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [YA](https://open.spotify.com/album/5LFUNG1uAtWvLT7YQ4CCLG) | 2:55 | 2022-02-18 | 2022-06-03 |
 | [Yo Soy De PR](https://open.spotify.com/track/2YDcWtjC6zKfx3NYHR5SKW) | [Jey Blessing](https://open.spotify.com/artist/1MVP5iQH6wMKZuOn41UHOB), [Los Fantastikos](https://open.spotify.com/artist/0jaakjO6cMB5cJLeoa5aV2) | [Yo Soy De PR](https://open.spotify.com/album/4S35csP0ALLI8p1aNlqSj5) | 3:21 | 2023-02-27 | 2023-06-19 |
 | [Échale](https://open.spotify.com/track/3XISxkzbJUu5icSmQaCrcn) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [Love and Lies](https://open.spotify.com/album/0HzJJJkcvpiEAaKfJQw2l2) | 3:16 | 2022-02-18 | 2022-06-03 |

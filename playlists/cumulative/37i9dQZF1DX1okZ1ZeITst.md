@@ -4,7 +4,7 @@
 
 > From the shower to the car, Disney songs that make you want to sing along, including songs from Mufasa: The Lion King.
 
-161 songs - 8 hr 15 min
+162 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Can You Feel the Love Tonight](https://open.spotify.com/track/1zSKtBze2IReYU44W0lDzd) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Billy Eichner](https://open.spotify.com/artist/0FVsUxcFSlxwIM7Qs31s6J), [Seth Rogen](https://open.spotify.com/artist/7xX39IyguhWsTIg4eU2reH) | [The Lion King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS) | 3:02 | 2024-01-08 |  |
 | [Can You Feel the Love Tonight](https://open.spotify.com/track/5E8yddtSG3sH4hw2SfwcgW) | [Joseph Williams](https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui), [Sally Dworsky](https://open.spotify.com/artist/7vK6xoR5zT4DypEu0blUku), [Nathan Lane](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv), [Ernie Sabella](https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr), [Kristle Edwards](https://open.spotify.com/artist/4y5d67UxD0QON2vRZOjXZ6) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 2:57 | 2024-01-08 |  |
 | [Can You Feel the Love Tonight](https://open.spotify.com/track/63BZR6Dtvag8JSLYO0kiok) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [A Whole New Sound](https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP) | 2:53 | 2024-09-13 |  |
+| [Can't Stop Singing \- From "Teen Beach Movie"/Soundtrack Version](https://open.spotify.com/track/2adTfABiJJQpZWlujYO3Qo) | [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Maia Mitchell](https://open.spotify.com/artist/3730ZT92AjnEzC83q5RzDC) | [Teen Beach Movie](https://open.spotify.com/album/5ANe5AfOnYydm3lXELfiHF) | 2:25 | 2025-03-21 |  |
 | [Carried Me With You](https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Onward \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst) | 3:33 | 2024-01-08 |  |
 | [Change Me \- From "The Proud Family: Louder and Prouder"](https://open.spotify.com/track/2n7DYdZiCIx6KxNtVBZKad) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [Change Me \(From "The Proud Family: Louder and Prouder"\)](https://open.spotify.com/album/7E6QCxngI7Lvstdc79qfoV) | 1:10 | 2024-01-08 |  |
 | [Chill or Be Chilled \- Frozone's Theme](https://open.spotify.com/track/2ifRmHoyg1f2pUtFhlqrn2) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Incredibles 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1kbdqZFxL3fuOmetdZ1VWO) | 1:40 | 2024-01-08 |  |

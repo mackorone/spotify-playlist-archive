@@ -4,7 +4,7 @@
 
 > Shake up your wake up with a selection of feel good songs that will get you bouncing out the door.
 
-1,488 songs - 3 day 12 hr 29 min
+1,489 songs - 3 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Cold Water \(feat\. Justin Bieber & MØ\)](https://open.spotify.com/track/3Si8y5xSh5wcn26l2yqV84) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Cold Water \(feat\. Justin Bieber & MØ\)](https://open.spotify.com/album/73rweOuD3LLPgkyZSXf3On) | 3:05 | 2019-08-08 | 2022-04-17 |
 | [Come Home](https://open.spotify.com/track/2ASU8fV9hVvE2Aa0r8lrwE) | [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Come Home](https://open.spotify.com/album/6rdE5nypheqesrdwk9dQel) | 3:14 | 2019-08-02 | 2022-04-02 |
 | [Come On Eileen](https://open.spotify.com/track/5uzNa0SBGOe5pPnstWHMCt) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay \(Deluxe Edition\)](https://open.spotify.com/album/2t3JY6Pch53HxDu7sipMP7) | 4:33 | 2021-03-06 | 2022-04-17 |
+| [Come Over](https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:17 | 2025-03-18 |  |
 | [Come Over \(feat\. Popcaan\)](https://open.spotify.com/track/58mtgcQVZ56NgWHKsN94nD) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Come Over \(feat\. Popcaan\)](https://open.spotify.com/album/6sYqQ3Pem0Ml376lKx545S) | 3:28 | 2021-03-06 | 2022-04-15 |
 | [Come to Brazil](https://open.spotify.com/track/6cOm9V2J4ybgsqUDrLaqn6) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Come to Brazil](https://open.spotify.com/album/2EBAiShcvuo1fim3YVSffx) | 2:19 | 2021-03-16 | 2022-04-17 |
 | [comethru](https://open.spotify.com/track/6fFTPGGItuEpjwXRUIr4rk) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [comethru](https://open.spotify.com/album/0z59TOGj1z9NZJYNvRV02q) | 3:01 | 2019-08-10 | 2022-04-20 |
@@ -380,7 +381,7 @@
 | [Falling Out](https://open.spotify.com/track/6De0fA04q3j464V66l1HLv) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x) | [Falling Out](https://open.spotify.com/album/7CFrSwenidHH4AVFdfO8pw) | 3:40 | 2019-08-04 | 2022-04-14 |
 | [Fallin’ \(Adrenaline\)](https://open.spotify.com/track/5GhJIMWAw0uMLgkdbt6uMz) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Fallin’ \(Adrenaline\)](https://open.spotify.com/album/68KIeRyl26qz4Qkrv25FVm) | 3:36 | 2020-10-02 | 2022-05-29 |
 | [Family](https://open.spotify.com/track/3TKpJrY9q49Mj1JOsM9zGL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 3:14 | 2019-12-24 | 2022-04-12 |
-| [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 | 2019-07-31 |  |
+| [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 | 2019-07-31 | 2025-03-22 |
 | [Father's Day](https://open.spotify.com/track/2mnvzsLKEG033tp9Bqm4S1) | [Weddings Parties Anything](https://open.spotify.com/artist/1RNwrc6Yfn4mxT8RCnck0y) | [Difficult Loves](https://open.spotify.com/album/5RdjICDNGB804bJNuSAKXr) | 4:02 | 2019-08-04 | 2021-05-26 |
 | [Favourite Thing](https://open.spotify.com/track/6QovLtyKKKVGddw4qQhD0c) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [Favourite Thing](https://open.spotify.com/album/2q7PmaUBfUacSF8Po1CQ4G) | 3:14 | 2019-07-31 | 2021-05-27 |
 | [Favours](https://open.spotify.com/track/4HlCjfOxs5LQ9Nye4UMFGM) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Nat Dunn](https://open.spotify.com/artist/6uNiUxDeo17yUnA472Zhni) | [Between Us](https://open.spotify.com/album/2vrXszr7tZa7z1bbEaZPoL) | 3:54 | 2019-07-30 | 2022-04-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QGRbOBzabD.md) - [plain]
 
 > Music from Nishio Ishin Anime project based on his popular light novels./「化物語」から始まる<a href="https://www.monogatari\-series.com/">〈物語〉シリーズ</a>を歴代主題歌で巡る、待望の公式プレイリスト！（C）西尾維新／講談社・アニプレックス・シャフト
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,876 likes - 41 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,884 likes - 41 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

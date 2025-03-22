@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44189,
+  "num_followers": 44185,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZ7J9GlatQaMyGY29QyFGbX/cEWWBc",
+  "snapshot_id": "AAAZ7ut91ZowInXjKI05hPESHbYgEl9L",
   "tracks": [
+    {
+      "added_at": "2025-03-21 16:16:12",
+      "album": {
+        "name": "Lemme See Ya",
+        "url": "https://open.spotify.com/album/21OAvezqpIKtQ03fiAyeUX"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        },
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        }
+      ],
+      "duration_ms": 146865,
+      "name": "Lemme See Ya",
+      "url": "https://open.spotify.com/track/10ecK7ny1jfC5bZvA3JVXE"
+    },
+    {
+      "added_at": "2025-03-21 16:15:59",
+      "album": {
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/3IJGXIstjykSCnQ5d9uDm9"
+      },
+      "artists": [
+        {
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
+        }
+      ],
+      "duration_ms": 195529,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/3vGzsNszbAqEr81y2uMlHJ"
+    },
     {
       "added_at": "2025-03-14 15:52:59",
       "album": {

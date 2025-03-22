@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Whitechapel are on top of today's best Metal playlist.",
+  "description": "Bloodywood are on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -218,6 +218,24 @@
       "duration_ms": 459120,
       "name": "72 Seasons",
       "url": "https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4"
+    },
+    {
+      "album": {
+        "name": "8.6 BLACKOUT",
+        "url": "https://open.spotify.com/album/6JqgKZZqJ7DMOL9HKi6c3b"
+      },
+      "artists": [
+        {
+          "name": "Disembodied Tyrant",
+          "url": "https://open.spotify.com/artist/6Mik5bw5uqwmpwjvc5PGYk"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290104,
+      "name": "8.6 BLACKOUT",
+      "url": "https://open.spotify.com/track/7iO63Uh5PncPAneiyITz7R"
     },
     {
       "album": {
@@ -1508,10 +1526,32 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 228364,
       "name": "Bekhauf (feat. BABYMETAL)",
       "url": "https://open.spotify.com/track/0KLm7cjKriGkqI0ApLlzNb"
+    },
+    {
+      "album": {
+        "name": "Nu Delhi",
+        "url": "https://open.spotify.com/album/4ZNvlZ4wynMad7cTp8hr2C"
+      },
+      "artists": [
+        {
+          "name": "Bloodywood",
+          "url": "https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9"
+        },
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228364,
+      "name": "Bekhauf (feat. BABYMETAL)",
+      "url": "https://open.spotify.com/track/5j0WY6cTRud78QFLdfaS2N"
     },
     {
       "album": {
@@ -1562,7 +1602,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 223297,
       "name": "Better Written Villain",
       "url": "https://open.spotify.com/track/6BuRHBZMDfvvp87RCvc1fA"
@@ -3715,6 +3755,24 @@
     },
     {
       "album": {
+        "name": "Deathparty",
+        "url": "https://open.spotify.com/album/578WQa3UytmRuQJPN1nGLC"
+      },
+      "artists": [
+        {
+          "name": "Diamond Construct",
+          "url": "https://open.spotify.com/artist/3ZM354nvaghR5dGCXiFgGG"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150923,
+      "name": "Deathparty",
+      "url": "https://open.spotify.com/track/4aTqUpEul1HwVDg4goZLBL"
+    },
+    {
+      "album": {
         "name": "Deathwalk",
         "url": "https://open.spotify.com/album/11A6IcZ2Vl9Ue7CfaLhAqd"
       },
@@ -3842,6 +3900,24 @@
       "duration_ms": 229159,
       "name": "Delusions Of Mortality",
       "url": "https://open.spotify.com/track/2mH4PnhKYZ6YOyxBzZ1y6J"
+    },
+    {
+      "album": {
+        "name": "The Screaming Of The Valkyries",
+        "url": "https://open.spotify.com/album/3qwLRjvY7IYpv6N248PIAi"
+      },
+      "artists": [
+        {
+          "name": "Cradle Of Filth",
+          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376680,
+      "name": "Demagoguery",
+      "url": "https://open.spotify.com/track/1x77ughFOY7YgArlkGZeZB"
     },
     {
       "album": {
@@ -4000,7 +4076,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 284722,
       "name": "Dies Irae",
       "url": "https://open.spotify.com/track/56zVJmHbhDxM1izT6A4p64"
@@ -4748,7 +4824,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 194099,
       "name": "Earwig",
       "url": "https://open.spotify.com/track/1aovAXNh9hTj7pu031Q34T"
@@ -14619,6 +14695,24 @@
     },
     {
       "album": {
+        "name": "The Shadow Elite",
+        "url": "https://open.spotify.com/album/368LvzVtG97TQPF42TAwch"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279493,
+      "name": "The Shadow Elite",
+      "url": "https://open.spotify.com/track/1hjiZRmHByToO3dPjFSGUH"
+    },
+    {
+      "album": {
         "name": "The Shape of Water",
         "url": "https://open.spotify.com/album/30AACekoL1ZM6gXtPE7GHN"
       },
@@ -14652,7 +14746,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 336773,
       "name": "The Shit Ov God",
       "url": "https://open.spotify.com/track/3HgNP8qTCHld77Sp6s6WJd"

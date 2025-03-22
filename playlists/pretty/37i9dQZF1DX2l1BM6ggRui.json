@@ -1,6 +1,6 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 7000,
+  "num_followers": 6996,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
+        "name": "LOVE or TAKE",
+        "url": "https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV"
+      },
+      "artists": [
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "duration_ms": 170906,
+      "name": "Sing-a-song",
+      "url": "https://open.spotify.com/track/3kUa4w9ydwOReSjFAi7c8y"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
         "name": "Ordinary life",
         "url": "https://open.spotify.com/album/6oTKzZ9cRz3xgAcbPRV3fT"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 246354,
       "name": "Ordinary life",
       "url": "https://open.spotify.com/track/5Ivx0LkXUVGSybJgPXwQNE"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 214906,
-      "name": "You and I in this hard day",
-      "url": "https://open.spotify.com/track/6V8sFpmQd1NiK7mGxZiWW7"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "LOVE or TAKE",
-        "url": "https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV"
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ"
       },
       "artists": [
         {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
         }
       ],
-      "duration_ms": 170906,
-      "name": "Sing-a-song",
-      "url": "https://open.spotify.com/track/3kUa4w9ydwOReSjFAi7c8y"
+      "duration_ms": 214906,
+      "name": "You and I in this hard day",
+      "url": "https://open.spotify.com/track/6V8sFpmQd1NiK7mGxZiWW7"
     }
   ],
   "unique_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",

@@ -340,7 +340,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 97200,
       "name": "Fantastic Beasts Theme - Solo Piano",
       "url": "https://open.spotify.com/track/18b656dcOv1olz14Xj5EZi"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 392853,
       "name": "Flow Like Water",
       "url": "https://open.spotify.com/track/4WxGBy9U0nZe602M06XMxE"
@@ -746,7 +746,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 102226,
       "name": "Katniss",
       "url": "https://open.spotify.com/track/0sDeDYPGIfM9tTk5GluErY"
@@ -1354,6 +1354,24 @@
       "duration_ms": 131586,
       "name": "Solomon Vandy",
       "url": "https://open.spotify.com/track/2bx0bDhlf5i70c2NYjtahs"
+    },
+    {
+      "album": {
+        "name": "The Hunger Games: Original Motion Picture Score",
+        "url": "https://open.spotify.com/album/5tF7RSw6Zke0WY4fPf6LR9"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2025-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205053,
+      "name": "Tenuous Winners/Returning Home",
+      "url": "https://open.spotify.com/track/3Bx7utlrwP1eAxFBUfqwXz"
     },
     {
       "album": {

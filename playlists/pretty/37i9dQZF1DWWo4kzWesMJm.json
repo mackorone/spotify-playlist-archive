@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 168659,
+  "num_followers": 168686,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-02-27 12:38:25",
       "album": {
-        "name": "Un Jour D'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/6MFXFliONetu0nByEb7d4w"
-      },
-      "artists": [
-        {
-          "name": "Amel Bent",
-          "url": "https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f"
-        }
-      ],
-      "duration_ms": 203226,
-      "name": "Ma philosophie",
-      "url": "https://open.spotify.com/track/1HOtCYTuOCISpTn9cW6fcz"
-    },
-    {
-      "added_at": "2025-02-27 12:38:25",
-      "album": {
         "name": "Photos de voyages (Remastered)",
         "url": "https://open.spotify.com/album/6Mhp0Fb0RoraaLNZ0fFRwR"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 273680,
       "name": "Encore et encore - Remastered",
       "url": "https://open.spotify.com/track/2KzUa9x2TNzHVsx4sVuHsx"
+    },
+    {
+      "added_at": "2025-02-27 12:38:25",
+      "album": {
+        "name": "Un Jour D'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/6MFXFliONetu0nByEb7d4w"
+      },
+      "artists": [
+        {
+          "name": "Amel Bent",
+          "url": "https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f"
+        }
+      ],
+      "duration_ms": 203226,
+      "name": "Ma philosophie",
+      "url": "https://open.spotify.com/track/1HOtCYTuOCISpTn9cW6fcz"
     },
     {
       "added_at": "2025-02-27 12:38:25",
@@ -471,30 +471,6 @@
     {
       "added_at": "2025-02-27 12:38:25",
       "album": {
-        "name": "Chambre 12",
-        "url": "https://open.spotify.com/album/3Es3rIJujUaxh8HrPZwgmr"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        },
-        {
-          "name": "Jean-Philippe Massicot",
-          "url": "https://open.spotify.com/artist/5R6fqkq8FNNE0kevuUUxoz"
-        },
-        {
-          "name": "Tristan Salvati",
-          "url": "https://open.spotify.com/artist/3pHPYLcX7bnOWcMpyBch1D"
-        }
-      ],
-      "duration_ms": 185280,
-      "name": "Avenir - Radio Edit",
-      "url": "https://open.spotify.com/track/7culxZiBjN3w3yXqxgKIpD"
-    },
-    {
-      "added_at": "2025-02-27 12:38:25",
-      "album": {
         "name": "Rom\u00e9o Et Juliette, Les enfants de V\u00e9rone",
         "url": "https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46"
       },
@@ -524,7 +500,7 @@
       },
       "artists": [
         {
-          "name": "Vinc\u00e8",
+          "name": "Vinc\u00e8 la petite culotte",
           "url": "https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd"
         }
       ],
@@ -551,18 +527,26 @@
     {
       "added_at": "2025-02-27 12:38:25",
       "album": {
-        "name": "Engelberg",
-        "url": "https://open.spotify.com/album/5w2UnVzDvUmX6J0QAlRCxP"
+        "name": "Chambre 12",
+        "url": "https://open.spotify.com/album/3Es3rIJujUaxh8HrPZwgmr"
       },
       "artists": [
         {
-          "name": "Stephan Eicher",
-          "url": "https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E"
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        },
+        {
+          "name": "Jean-Philippe Massicot",
+          "url": "https://open.spotify.com/artist/5R6fqkq8FNNE0kevuUUxoz"
+        },
+        {
+          "name": "Tristan Salvati",
+          "url": "https://open.spotify.com/artist/3pHPYLcX7bnOWcMpyBch1D"
         }
       ],
-      "duration_ms": 236840,
-      "name": "D\u00e9jeuner en paix",
-      "url": "https://open.spotify.com/track/6DFzpa0eHyEkvQ2oeewmA2"
+      "duration_ms": 185280,
+      "name": "Avenir - Radio Edit",
+      "url": "https://open.spotify.com/track/7culxZiBjN3w3yXqxgKIpD"
     },
     {
       "added_at": "2025-02-27 12:38:25",
@@ -579,6 +563,22 @@
       "duration_ms": 197840,
       "name": "Paris-Seychelles",
       "url": "https://open.spotify.com/track/4xSZWcXvu6w4I3dQyQ7QND"
+    },
+    {
+      "added_at": "2025-02-27 12:38:25",
+      "album": {
+        "name": "Engelberg",
+        "url": "https://open.spotify.com/album/5w2UnVzDvUmX6J0QAlRCxP"
+      },
+      "artists": [
+        {
+          "name": "Stephan Eicher",
+          "url": "https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E"
+        }
+      ],
+      "duration_ms": 236840,
+      "name": "D\u00e9jeuner en paix",
+      "url": "https://open.spotify.com/track/6DFzpa0eHyEkvQ2oeewmA2"
     },
     {
       "added_at": "2025-02-27 12:38:25",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-02-27 12:38:25",
       "album": {
-        "name": "C'est comme vous voulez",
-        "url": "https://open.spotify.com/album/1owL66vLGqOWxVJYYrCDE1"
-      },
-      "artists": [
-        {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
-        }
-      ],
-      "duration_ms": 265333,
-      "name": "La ballade de Jim",
-      "url": "https://open.spotify.com/track/4lI8A7xmuQqGDj28dzelH4"
-    },
-    {
-      "added_at": "2025-02-27 12:38:25",
-      "album": {
         "name": "Caravane",
         "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 193000,
       "name": "Ne partons pas f\u00e2ch\u00e9s",
       "url": "https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq"
+    },
+    {
+      "added_at": "2025-02-27 12:38:25",
+      "album": {
+        "name": "C'est comme vous voulez",
+        "url": "https://open.spotify.com/album/1owL66vLGqOWxVJYYrCDE1"
+      },
+      "artists": [
+        {
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
+        }
+      ],
+      "duration_ms": 265333,
+      "name": "La ballade de Jim",
+      "url": "https://open.spotify.com/track/4lI8A7xmuQqGDj28dzelH4"
     },
     {
       "added_at": "2025-02-27 12:38:25",

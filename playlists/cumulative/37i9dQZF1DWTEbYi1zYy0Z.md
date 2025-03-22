@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-501 songs - 1 day 11 hr 27 min
+502 songs - 1 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Be Here](https://open.spotify.com/track/4yGsW0sP0jcyxxxohnc6Y4) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [Solid](https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F) | 3:33 | 2020-10-30 | 2022-03-18 |
 | [Because of Who You Are \(Instrumental\)](https://open.spotify.com/track/7mBype4FhRTYuF4u9rdmdc) | [Uriel Vega](https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg) | [Because of Who You Are \(Instrumental\)](https://open.spotify.com/album/7CCKQMYC2LEy4or4Wq0Il6) | 4:26 | 2024-06-14 |  |
 | [Believe](https://open.spotify.com/track/27Ip6QauFp1x7uU5UZd1Ze) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Believe](https://open.spotify.com/album/32c0L5aOhKRswoVsOhvqwu) | 4:13 | 2022-04-01 | 2023-04-22 |
+| [Beso Del Sol](https://open.spotify.com/track/41vto3mbPg7SSOgjKkqAuA) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Beso Del Sol](https://open.spotify.com/album/3SQwtaq5q0kv1nsHCtnnNH) | 4:46 | 2025-03-21 |  |
 | [Better Days Ahead](https://open.spotify.com/track/6CqeUptmJGIeNdUp12wNOB) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G\-Stream](https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS) | 4:51 | 2021-02-05 | 2022-03-17 |
 | [Beyond Forever](https://open.spotify.com/track/0jvBqqyD6vQ4qbc1YyDDAy) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [ELEVATE](https://open.spotify.com/album/11KKKkOWkA985ntArrJTbF) | 4:57 | 2020-10-30 | 2021-12-30 |
 | [Beyond the Atmosphere](https://open.spotify.com/track/6PyyspWLOYhZDoCRXV1iY4) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5) | [Beyond the Atmosphere](https://open.spotify.com/album/71EbRlW1QmnNOpBnT9OMy4) | 4:24 | 2020-10-30 | 2022-01-17 |
@@ -297,7 +298,7 @@
 | [Midnight in Strasbourg](https://open.spotify.com/track/3PNQGeolhShPXWTcemZjkE) | [Jesty Beatz](https://open.spotify.com/artist/7sRH2fPfPf4B0BofCmltmV) | [Midnight in Strasbourg](https://open.spotify.com/album/3XFDltcxHK1zQatU979Eud) | 2:49 | 2021-10-29 | 2022-04-21 |
 | [Midnight Sun](https://open.spotify.com/track/5SKkiQf5txTOdaxGJI4xUs) | [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [Midnight Sun](https://open.spotify.com/album/5WutXamGne2s2rzOHpCptd) | 3:54 | 2021-04-30 | 2022-03-18 |
 | [Missing You](https://open.spotify.com/track/4KLpRFRn11BiQHeODY6EeU) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Missing You](https://open.spotify.com/album/6HlGorHFMS1vH536EJhCyv) | 4:16 | 2023-04-14 | 2025-02-15 |
-| [Mister Magic](https://open.spotify.com/track/1UI2LPIMEHa3ptE0S5Ta1O) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Mister Magic](https://open.spotify.com/album/1wcjK3JMtVRUXQO6DbAOK8) | 5:20 | 2025-02-28 |  |
+| [Mister Magic](https://open.spotify.com/track/1UI2LPIMEHa3ptE0S5Ta1O) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Mister Magic](https://open.spotify.com/album/1wcjK3JMtVRUXQO6DbAOK8) | 5:20 | 2025-02-28 | 2025-03-22 |
 | [Mo Jazzin](https://open.spotify.com/track/6CYUFaUjnGAlBGjVCl44ud) | [Johnny Britt](https://open.spotify.com/artist/1rF5BAPcmKme8SqcWoWu5F), [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Mo Jazzin](https://open.spotify.com/album/3wHmVl5lU7Rt8PyT1jvCW9) | 3:40 | 2020-10-30 | 2022-03-17 |
 | [Monalisa](https://open.spotify.com/track/1N26FYH3eEpD9k00ffxqFM) | [Brendan Ross](https://open.spotify.com/artist/3M01zUDEhtQi29cFkqhBhJ) | [Monalisa](https://open.spotify.com/album/1cHZpnvW34ebs0IcH0iMta) | 3:37 | 2023-09-08 | 2023-11-18 |
 | [Monday](https://open.spotify.com/track/0rviXYk3XxKRrQgBmAxNIm) | [Philip Patterson](https://open.spotify.com/artist/3UgSv7DzbUESf5H4WPzaU7) | [Monday](https://open.spotify.com/album/1FnCDL2O2WM57ZdbE3Jmbu) | 4:14 | 2021-07-23 | 2022-09-06 |

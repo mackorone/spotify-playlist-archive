@@ -881,6 +881,24 @@
     },
     {
       "album": {
+        "name": "OLDROSE",
+        "url": "https://open.spotify.com/album/1dbS6Qr8GKwYKLkfTmeEgN"
+      },
+      "artists": [
+        {
+          "name": "Aqua Timez",
+          "url": "https://open.spotify.com/artist/2XhA8BOHxO5NwbY6q3W8mD"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275640,
+      "name": "OLDROSE",
+      "url": "https://open.spotify.com/track/0093F6xxlANJgH5X9CAzHX"
+    },
+    {
+      "album": {
         "name": "TV Animation BLEACH THE BLOOD WARFARE Original Soundtrack \u2160",
         "url": "https://open.spotify.com/album/0qmiu9xV3gQ0N3R4xOx62N"
       },

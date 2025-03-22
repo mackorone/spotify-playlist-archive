@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Dwight Yoakam
 
-307 songs - 18 hr 1 min
+308 songs - 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Where Her Heart Has Always Been \(Written for Mama’s funeral with an old recording of her reading from the Bible\)](https://open.spotify.com/track/0YhPTrNqHLOVp1zNpXtgP6) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Where Her Heart Has Always Been \(Written for Mama’s funeral with an old recording of her reading from the Bible\)](https://open.spotify.com/album/6tEbgG4tbB7nYNNzgRcPji) | 3:27 | 2021-10-15 |  |
 | [Where I Am Today](https://open.spotify.com/track/2QOk1rpS1exoxLCbcQHGW8) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [The Way I Wanna Go](https://open.spotify.com/album/60ev0o8cT8GbqMIYtfIssT) | 3:29 | 2021-10-15 |  |
 | [Where That Came From](https://open.spotify.com/track/6vNJDp8znmaQp2vAXHRPGd) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Where That Came From](https://open.spotify.com/album/0ijAqKhMaahw0WCyuntRlB) | 3:11 | 2024-05-03 |  |
+| [Who Needs You \(feat\. Tiera Kennedy\)](https://open.spotify.com/track/3O7iTADRd6LCMQPTJhf3wJ) | [Jeannie Seely](https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY), [Hannah Dasher](https://open.spotify.com/artist/60JD0JML3KiTHFkKNGv16e), [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Who Needs You \(feat\. Tiera Kennedy\)](https://open.spotify.com/album/7yW6AUxyPnnOsxvEPhvNNQ) | 4:47 | 2025-03-21 |  |
 | [Why Me](https://open.spotify.com/track/4fnDSVPmxFOlo05eGTM8qb) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Willie Nelson Family](https://open.spotify.com/album/2gSxAG6hqMBsvyBZ0ZnJwt) | 2:12 | 2021-11-19 | 2022-03-12 |
 | [Why Things Happen](https://open.spotify.com/track/04FGSzMOj2Axx91BaeD8kz) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Bettie James Gold Edition](https://open.spotify.com/album/4qLuvW8Tyfzr8c79VM531V) | 3:16 | 2023-11-03 | 2024-04-19 |
 | [Why Things Happen](https://open.spotify.com/track/0ZONNSdfFeiIjBX25ZKRbj) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:16 | 2021-10-15 |  |

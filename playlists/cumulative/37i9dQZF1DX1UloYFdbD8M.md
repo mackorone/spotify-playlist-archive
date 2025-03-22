@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: The Down Troddence
 
-296 songs - 19 hr 16 min
+297 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [Oru January](https://open.spotify.com/track/0YuwGkDbm0RzREWYaAfPfP) | [Bineetha Ranjith](https://open.spotify.com/artist/0hYeiOpfSvwJ6IvJPy9aHD) | [Oru January](https://open.spotify.com/album/1PVGkTGupgo1USnoeYfYuM) | 4:42 | 2023-09-12 | 2024-05-25 |
 | [Oru Mazhayude](https://open.spotify.com/track/6S5djlITiwCZK2kGU0FrJh) | [Kavya Ajit](https://open.spotify.com/artist/50ydDju7QfqeZrLfjlJMQ3), [Zail](https://open.spotify.com/artist/125lP111pgnHz4moKO1C1R) | [Oru Mazhayude](https://open.spotify.com/album/6vit2xHQjwGBYo5wIUG4R8) | 3:00 | 2024-05-07 |  |
 | [Pa Pe Po...](https://open.spotify.com/track/3SBRVu9lB1QE1ji8BuPNtn) | [Amrutam Gamay](https://open.spotify.com/artist/4MtxFkOd1X7pmg07ngQTc5), [Amritha Suressh](https://open.spotify.com/artist/0gWXs0seQiEHCZJiH07xfk), [Abhirami Suresh](https://open.spotify.com/artist/6sPuCo5n7PaYPjd2S3m2K5) | [Pa Pe Po…](https://open.spotify.com/album/2A74441osOofLBpnQucu2F) | 4:38 | 2023-11-17 | 2024-02-19 |
-| [Paarvai](https://open.spotify.com/track/2N9dBikRpIheV21JWCbgmN) | [DeXterDuke](https://open.spotify.com/artist/7pgCk3NAxxOTwBPm2dmZOa), [Christopher](https://open.spotify.com/artist/0GRIRWJz1BV0WuL92LnCJQ), [Mahenth](https://open.spotify.com/artist/5YXgranKlBWMHBN5EG9F6Z) | [Paarvai](https://open.spotify.com/album/0y3yvEPxCUYQYCuLnGBOxr) | 3:28 | 2024-06-28 |  |
+| [Paarvai](https://open.spotify.com/track/2N9dBikRpIheV21JWCbgmN) | [DeXterDuke](https://open.spotify.com/artist/7pgCk3NAxxOTwBPm2dmZOa), [Christopher](https://open.spotify.com/artist/0GRIRWJz1BV0WuL92LnCJQ), [Mahenth](https://open.spotify.com/artist/5YXgranKlBWMHBN5EG9F6Z) | [Paarvai](https://open.spotify.com/album/0y3yvEPxCUYQYCuLnGBOxr) | 3:28 | 2024-06-28 | 2025-03-22 |
 | [Paattu](https://open.spotify.com/track/77sckVjf0h9oNyrGi7jIT7) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa), [Meenakshi Krishna](https://open.spotify.com/artist/5RfM3LYItqRdk1yAcdFfou) | [Paattu](https://open.spotify.com/album/45lcm2jQOdd0XNubzRPtaj) | 2:48 | 2024-11-07 |  |
 | [Padayatra \- Live](https://open.spotify.com/track/2PDaNC5MT6HZYE52HYHyjo) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Padayatra \(Live\)](https://open.spotify.com/album/2i97iGps3MYG1kG87i3be1) | 4:50 | 2022-06-23 | 2024-12-07 |
 | [PALAAYANAM](https://open.spotify.com/track/6c7ceJAZjXqVYTgT4VUh5U) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [PALAAYANAM](https://open.spotify.com/album/0QQBIFPpgVnHl60JZlaq5t) | 3:45 | 2025-01-17 |  |
@@ -226,6 +226,7 @@
 | [Pilleranu](https://open.spotify.com/track/76WNVxMrseVg3NT5UQ1dcd) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/1Q7ieGfKYonq3H7f6DzDnn) | 5:35 | 2023-07-27 | 2024-06-29 |
 | [Pollunnunde](https://open.spotify.com/track/75yafDG35Tx47lp1NIc6l3) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Pollunnunde](https://open.spotify.com/album/45GNFY5oWRTEBT79hFRs1b) | 2:48 | 2023-05-10 | 2023-07-29 |
 | [Pooram \- From "Think Specials"](https://open.spotify.com/track/05ipt7R52WNXApEurABdOJ) | [RHYTHOM](https://open.spotify.com/artist/4TRwdVEDrdpaeYiP7iohlu) | [Pooram \(From "Think Specials"\)](https://open.spotify.com/album/0aO4EHRsIN96DOWrYxMjIS) | 3:18 | 2023-08-16 | 2024-05-25 |
+| [Poov](https://open.spotify.com/track/0UbfnFSzjNXZ8RO4zI6DR8) | [daszi](https://open.spotify.com/artist/0afiI57tEFIwLFQBZC71sp), [Ashitha](https://open.spotify.com/artist/5KWtSNwFTWxlNEEF6Kd1PO) | [Poov](https://open.spotify.com/album/0fRPaqy7bN8Wri1o4d0wmq) | 3:02 | 2025-03-21 |  |
 | [Poovu](https://open.spotify.com/track/7eD2jrzZftR3n1xMcyO0yv) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0), [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ) | [Poovu](https://open.spotify.com/album/3F4m6nFgic9v7RODyYk7xo) | 3:10 | 2024-12-12 |  |
 | [Poraattam](https://open.spotify.com/track/2OKCRHRIseK0xrvu2n9t0E) | [Shaan Rahman](https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s), [Pavithra Menon](https://open.spotify.com/artist/6vs87fqt96uUfyrrsOQeAL), [Fil$](https://open.spotify.com/artist/7f0UeNCU8nGFeU3DAUoNH1), [SRMC Choir](https://open.spotify.com/artist/0Ezeqz3lqIatAwSf4hr32r) | [Poraattam](https://open.spotify.com/album/5uXQnjIzmW0suiPjj0BiTs) | 3:37 | 2025-02-06 |  |
 | [Poralikal](https://open.spotify.com/track/4Yi3Z3kmaQIqG00EZ5XEyv) | [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ) | [Poralikal](https://open.spotify.com/album/0JsO6jG4H4NOHyDZ21grXa) | 2:51 | 2023-05-26 | 2023-07-28 |

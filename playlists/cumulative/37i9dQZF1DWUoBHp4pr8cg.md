@@ -4,7 +4,7 @@
 
 > Only the hottest Hip Hop from Yanga Chief, Gigi Lamayne, Riky Rick and more.
 
-363 songs - 19 hr 31 min
+364 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,7 @@
 | [SETE \(feat\. Young Stunna & Blxckie\)](https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [SETE \(feat\. Young Stunna & Blxckie\)](https://open.spotify.com/album/7ceVgKif2FV49HL1u7qxlG) | 4:09 | 2022-08-18 | 2023-09-30 |
 | [SHAQ & KOBE](https://open.spotify.com/track/02K2VtGdUG5fUlAQATEgE6) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [SHAQ & KOBE](https://open.spotify.com/album/4oekX6V7nkvYhjnbNSO7uA) | 3:39 | 2023-09-29 | 2024-07-19 |
 | [SHEIN CART](https://open.spotify.com/track/5R6MkBRdft42dviKDaOatn) | [Stilo Magolide](https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA) | [SHEIN CART](https://open.spotify.com/album/0cn3g9n6qHTBOIaHhtqSZP) | 2:35 | 2024-03-07 | 2024-10-12 |
-| [Sheleni](https://open.spotify.com/track/6K12OWZuNTJukzYjqvkSvD) | [Grixxly](https://open.spotify.com/artist/0xiB1aRWUlJi2H2ZPRxur4), [Sarnilo](https://open.spotify.com/artist/0ignuXgngSTxY87ZzRwZ8C), [Lyrikal Busta](https://open.spotify.com/artist/3o4H51gfvSTJPmhJzewhEw) | [Bear With Me](https://open.spotify.com/album/4aUeJt0ZuMswU54lOJYvGp) | 3:08 | 2025-03-14 |  |
+| [Sheleni](https://open.spotify.com/track/6K12OWZuNTJukzYjqvkSvD) | [Grixxly](https://open.spotify.com/artist/0xiB1aRWUlJi2H2ZPRxur4), [Sarnilo](https://open.spotify.com/artist/0ignuXgngSTxY87ZzRwZ8C), [Lyrikal Busta](https://open.spotify.com/artist/3o4H51gfvSTJPmhJzewhEw) | [Bear With Me](https://open.spotify.com/album/4aUeJt0ZuMswU54lOJYvGp) | 3:08 | 2025-03-14 | 2025-03-22 |
 | [SHiRU'S iNTERLUDE](https://open.spotify.com/track/2Fvx7f8fCXxUXS6PiOGivY) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV) | [SHiRU'S iNTERLUDE](https://open.spotify.com/album/2SUW9vWQqnhDFUO5kxkhU3) | 2:15 | 2023-11-09 | 2024-08-02 |
 | [Shmunk \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/2fpTRcMLt4aKlqULOwuXUP) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:49 | 2023-02-23 | 2023-03-07 |
 | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/track/1PeDMQb4OIt2QBVvvXUd15) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/album/0afoo6vjuoRwsWH60vsbwN) | 3:07 | 2022-09-15 | 2022-10-14 |
@@ -363,6 +363,7 @@
 | [werrkk](https://open.spotify.com/track/7e9JRNhecXg0DMkjmk3Vlp) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Mench](https://open.spotify.com/artist/7zSLmuJsSUxBN1QS9Mz93L) | [THE4MULA](https://open.spotify.com/album/2BkyteWXQ5grWLtwoE7ezX) | 1:42 | 2022-10-27 | 2023-05-06 |
 | [Wet Dreamz](https://open.spotify.com/track/4tqcoej1zPvwePZCzuAjJd) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 3:59 | 2023-05-05 | 2023-09-23 |
 | [What If? \(Mngani\)](https://open.spotify.com/track/7Ez1p7fKxXISiD4bEwo57E) | [Yanga Chief](https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk) | [Lord Faku \- The Life Of A Dyan](https://open.spotify.com/album/0ZEMOVswIWO9Hp3nLcolRK) | 3:05 | 2025-03-07 |  |
+| [Where I'm From](https://open.spotify.com/track/2SSFTrPWqgX1JaDNs1OrQo) | [Grixxly](https://open.spotify.com/artist/0xiB1aRWUlJi2H2ZPRxur4), [PDOT O](https://open.spotify.com/artist/7KAvy18LeTZXBZhYxfqN3l) | [Bear With Me](https://open.spotify.com/album/4aUeJt0ZuMswU54lOJYvGp) | 2:42 | 2025-03-21 |  |
 | [Where's Reason?](https://open.spotify.com/track/2PDA3LgLfquPTz1zgfH4Gl) | [Sizwe Alakine](https://open.spotify.com/artist/7Hb7ZlUE4ByWsV1Rkc4Uo2), [Lwamii](https://open.spotify.com/artist/5Luqa4k8lZ6rSFGcUbXfNg), [ReasonHD](https://open.spotify.com/artist/5TnRfMYYlRqpLPRRmQngDO) | [Where's Reason?](https://open.spotify.com/album/52m6hoGhYp31OhmXKEYHac) | 4:55 | 2024-07-25 | 2025-01-24 |
 | [Why Lie?](https://open.spotify.com/track/6NpWosxIza4XEiGk190FAy) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Why Lie?](https://open.spotify.com/album/3RD3gsfCLTxbDN4fsrQJDh) | 3:46 | 2024-10-11 |  |
 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 | 2024-05-23 | 2024-06-28 |

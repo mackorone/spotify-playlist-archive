@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 631680,
+  "num_followers": 631746,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9i3gAAAAADIBNow+eOR5cDhJBHV5FWY",
+  "snapshot_id": "Z9tagAAAAADei+P6OEXB5ILw0Xm7s0Tf",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Me Goodbye",
-        "url": "https://open.spotify.com/album/5Nmqr0lMATwA9XzOoLYHJX"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 245013,
-      "name": "Tell Me Goodbye",
-      "url": "https://open.spotify.com/track/3GXiHK4P3hdSuxEdWVo2rg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stand Up",
         "url": "https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 188000,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/2eDGx6nbrznlTmf6YMjrRi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tell Me Goodbye",
+        "url": "https://open.spotify.com/album/5Nmqr0lMATwA9XzOoLYHJX"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 245013,
+      "name": "Tell Me Goodbye",
+      "url": "https://open.spotify.com/track/3GXiHK4P3hdSuxEdWVo2rg"
     },
     {
       "added_at": null,

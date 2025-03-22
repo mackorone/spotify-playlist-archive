@@ -2,7 +2,7 @@
 
 ### [AMAPIANO GROOVES](https://open.spotify.com/playlist/37i9dQZF1DX5mILnBJLA26)
 
-> The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN?si=zJ\_i5A\-nQve9h0XczSCgXQ">Myztro</a>
+> The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN?si=tztoTvAMRpOKNy1L0\-mhoA">Myztro</a>
 
 1,377 songs - 5 day 23 hr 19 min
 

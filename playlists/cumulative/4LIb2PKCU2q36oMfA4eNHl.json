@@ -187,6 +187,28 @@
     },
     {
       "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/6DM0yWvaTl6y0yC4n6JtzZ"
+      },
+      "artists": [
+        {
+          "name": "Planet Of Souls",
+          "url": "https://open.spotify.com/artist/1hqyzQFuJfTyri74EsObwu"
+        },
+        {
+          "name": "Lily Papas",
+          "url": "https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207360,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/6SRDUA2621H5vjtgl7qy1V"
+    },
+    {
+      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng"
       },

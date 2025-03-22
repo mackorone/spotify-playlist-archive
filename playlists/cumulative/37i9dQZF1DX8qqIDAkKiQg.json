@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "MOZART: Piano Works 3",
+        "url": "https://open.spotify.com/album/3kHdBZKRhA6ZSDIi3iM5DS"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Kun-Woo Paik",
+          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151893,
+      "name": "Adagio in C Major for Glass Harmonica, K. 356 (Transcr. for Piano)",
+      "url": "https://open.spotify.com/track/3Bw8tNViGRpU5apRbgdNE9"
+    },
+    {
+      "album": {
         "name": "Mozart: Works for Violin & Orchestra",
         "url": "https://open.spotify.com/album/4zETVNxxf0HT4iHXV0he0F"
       },
@@ -1936,6 +1958,36 @@
       "duration_ms": 452706,
       "name": "Piano Concerto No. 27 in B-Flat Major, K. 595: II. Larghetto - Live",
       "url": "https://open.spotify.com/track/2TDYhUsCuLEK0mkPZCYKPV"
+    },
+    {
+      "album": {
+        "name": "Mozart: Piano Concertos 9 & 12",
+        "url": "https://open.spotify.com/album/0kmoAikzbi7iLZlhXgtKyX"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Elizabeth Sombart",
+          "url": "https://open.spotify.com/artist/4JvsObHNqjAQTQWtJb0nkb"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Pierre Vallet",
+          "url": "https://open.spotify.com/artist/61loGDrBbjIJ9CfGYokCwn"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 856613,
+      "name": "Piano Concerto No. 9 in E-Flat Major, K. 271: II. Andantino",
+      "url": "https://open.spotify.com/track/2tUW2B33clev66ejg79vUP"
     },
     {
       "album": {

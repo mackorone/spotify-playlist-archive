@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Dunsin Oyekan
 
-199 songs - 1 day 2 hr 23 min
+200 songs - 1 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Odogwu](https://open.spotify.com/track/46gg2qBtNvuZxsMXcwzate) | [Jumbo Aniebiet](https://open.spotify.com/artist/3SFQtiUWFMi1dZFoieb47p), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [Sergine Quenum](https://open.spotify.com/artist/3NtUlW1oJQDpqsSFKluWC6) | [Odogwu](https://open.spotify.com/album/6eMsJd2p5Pt2Cu82lae11d) | 7:29 | 2025-02-21 |  |
 | [Ogo](https://open.spotify.com/track/2wKX6c2aXplDCJZT301jBM) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Ogo](https://open.spotify.com/album/6lCqBg5DySvDfvZXNXSURk) | 10:48 | 2024-02-23 |  |
 | [OGO \(Glory\)](https://open.spotify.com/track/3c7oVOLRIUIjCmx1VlhXRy) | [TEHGAH](https://open.spotify.com/artist/4scHETu7kmTovJLCQq8Rla), [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [OGO \(Glory\)](https://open.spotify.com/album/4kvp8JHHRtXTcdmKGgrVqi) | 12:55 | 2025-01-31 | 2025-02-28 |
+| [Ogo \(Glory\) \- Extended Version](https://open.spotify.com/track/5DflZrLxPuvvQkFjymIRVi) | [TEHGAH](https://open.spotify.com/artist/4scHETu7kmTovJLCQq8Rla), [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Ogo \(Glory\) \[Extended Version\]](https://open.spotify.com/album/33P2bYnybcsfgGfauLsKGi) | 5:48 | 2025-03-21 |  |
 | [OLULANA \- Live in Lagos](https://open.spotify.com/track/2oJ6YukjG68VK7MrMnFX4B) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [LIVE IN LAGOS](https://open.spotify.com/album/6pbRSHAID65hj5yDF7wSrk) | 3:37 | 2024-02-23 | 2024-11-01 |
 | [Omemma](https://open.spotify.com/track/12g6OxatpkEvYBdiSTUI9C) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee \(Live\)](https://open.spotify.com/album/58wrEUE51xyTyZ4A4uL091) | 6:34 | 2024-02-23 | 2024-04-19 |
 | [Omemma \- \(Live\)](https://open.spotify.com/track/7oWP17AUvTig60GCXuXeFl) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee \(Live\)](https://open.spotify.com/album/0YUY2M4XWrK5xMFJ0HDS1H) | 6:34 | 2024-02-23 |  |

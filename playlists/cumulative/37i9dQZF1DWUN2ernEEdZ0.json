@@ -1,8 +1,34 @@
 {
   "date_first_scraped": "2025-01-25",
-  "description": "Introducing the hottest new classical music of 2025\ud83d\udd25\nCover: Bruce Liu.",
+  "description": "Introducing the hottest new classical music of 2025\ud83d\udd25\nCover: Aimi Kobayashi.",
   "name": "Fresh Classical 2025",
   "tracks": [
+    {
+      "album": {
+        "name": "Prism, Vol. 1",
+        "url": "https://open.spotify.com/album/4CHJrxPuh6jfzxI1QUuEkX"
+      },
+      "artists": [
+        {
+          "name": "Lera Auerbach",
+          "url": "https://open.spotify.com/artist/1Jcgg67DeUZgxxJR9p2sL2"
+        },
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        },
+        {
+          "name": "Jess Gillam Ensemble",
+          "url": "https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120290,
+      "name": "24 Preludes for Violin & Piano, Op. 46: No. 15, Adagio sognando (Arr. Vennart for Saxophone & Ensemble)",
+      "url": "https://open.spotify.com/track/7unJzB01vWFgmvEFsDNeJg"
+    },
     {
       "album": {
         "name": "Preludes by Chopin, Bach, Rachmaninoff, Messiaen, G\u00f3recki",
@@ -94,6 +120,40 @@
       "duration_ms": 150493,
       "name": "6 Pieces, Op. 51: No. 6, Valse sentimentale (Arr. Peinado for Violin & Piano)",
       "url": "https://open.spotify.com/track/0OTFk2oQlWeNaQzOiSKDdt"
+    },
+    {
+      "album": {
+        "name": "Howard Shore: Anthology \u2013 The Paris Concerts",
+        "url": "https://open.spotify.com/album/3dJ6gL2OCd9XUSndKwYkTN"
+      },
+      "artists": [
+        {
+          "name": "Howard Shore",
+          "url": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
+        },
+        {
+          "name": "La Maitrise De Radio France",
+          "url": "https://open.spotify.com/artist/35bsW6McQ057gJ3ZE7Yy2g"
+        },
+        {
+          "name": "Choeur de Radio France",
+          "url": "https://open.spotify.com/artist/5LrcR0EvOfPC8MffjrXm1i"
+        },
+        {
+          "name": "Orchestre Philharmonique de Radio France",
+          "url": "https://open.spotify.com/artist/2Mwa328GasJUju1YNDLSXd"
+        },
+        {
+          "name": "Ludwig Wicki",
+          "url": "https://open.spotify.com/artist/2MclOoZqoxERDUziTaStUc"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179350,
+      "name": "A Black Shadow - From \"The Lord of the Rings: The Fellowship of the Ring\"",
+      "url": "https://open.spotify.com/track/7tAYivH5nikm8brl9ycpjK"
     },
     {
       "album": {
@@ -211,6 +271,32 @@
     },
     {
       "album": {
+        "name": "Bach: Keyboard Concertos, BWV 1052, 1053, 1054 & 1056",
+        "url": "https://open.spotify.com/album/1JniwjZOpOnCbKqVATEEPP"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Beatrice Rana",
+          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
+        },
+        {
+          "name": "Amsterdam Sinfonietta",
+          "url": "https://open.spotify.com/artist/2qx7K1T3gw9J0JTQnaGnBD"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154626,
+      "name": "Bach, JS: Keyboard Concerto No. 3 in D Major, BWV 1054: III. Allegro",
+      "url": "https://open.spotify.com/track/7kPLcErBKOuPmIIqccMrZj"
+    },
+    {
+      "album": {
         "name": "Long Nights and Starry Skies",
         "url": "https://open.spotify.com/album/6KsrPQ6TYATNYWeZZ5Ib9I"
       },
@@ -234,6 +320,28 @@
       "duration_ms": 156218,
       "name": "Beau soir, CD 84 (Performed on Harp & Saxophone)",
       "url": "https://open.spotify.com/track/2CKg3VJaUVY1gQvOgksoK5"
+    },
+    {
+      "album": {
+        "name": "Chopin: Berceuse in D-Flat Major, Op. 57",
+        "url": "https://open.spotify.com/album/4DivI1dZOa7WfhdwNBYxmb"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268266,
+      "name": "Berceuse in D-Flat Major, Op. 57",
+      "url": "https://open.spotify.com/track/03rTshJnAuh5YxvXrHGw5V"
     },
     {
       "album": {
@@ -312,6 +420,46 @@
       "duration_ms": 205240,
       "name": "Chopin: Nocturne No. 21 in C Minor, Op. Posth. (Transcr. Kadouch & Moreau for Cello and Piano)",
       "url": "https://open.spotify.com/track/7HFuUNfCzqJi3QlMtQGcdk"
+    },
+    {
+      "album": {
+        "name": "Consolations, S. 172/No. 4 in D-Flat Major. Quasi adagio",
+        "url": "https://open.spotify.com/album/4Rt0EgEzbloENtmVuyZe3a"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161226,
+      "name": "Consolations, S. 172: No. 4 in D-Flat Major. Quasi adagio",
+      "url": "https://open.spotify.com/track/1vXEgl1s4hPqxh8eedT1Ow"
+    },
+    {
+      "album": {
+        "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275662,
+      "name": "Did I Ever Tell You",
+      "url": "https://open.spotify.com/track/3q3bjcd4SHSRNoafyK4MMl"
     },
     {
       "album": {
@@ -1003,6 +1151,28 @@
     },
     {
       "album": {
+        "name": "Beethoven: Piano Sonata No. 29 \"Hammerklavier\"; An die ferne Geliebte (Arr. Liszt)",
+        "url": "https://open.spotify.com/album/5apkyGtm23mbUibaDvxSwI"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Nobuyuki Tsujii",
+          "url": "https://open.spotify.com/artist/5JvADyrajwcXaAeqxyDg5j"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290106,
+      "name": "Piano Sonata No. 8 in C Minor, Op. 13 \"Path\u00e9tique\": II. Adagio cantabile",
+      "url": "https://open.spotify.com/track/29r77wROzIQ9N6MSbmhbdh"
+    },
+    {
+      "album": {
         "name": "Puccini: Vissi d'Arte (Olivia Belli Rework)",
         "url": "https://open.spotify.com/album/0u78EJFU0XwHHC3YN8aL3x"
       },
@@ -1202,6 +1372,36 @@
       "duration_ms": 539573,
       "name": "Schubert: 4 Impromptus, Op. 142, D. 935: No. 2 in A-Flat Major",
       "url": "https://open.spotify.com/track/5RhLy62olXlNaRzskVyvTu"
+    },
+    {
+      "album": {
+        "name": "Litvinovsky: Snow White (Suite for String Orchestra and Flute)",
+        "url": "https://open.spotify.com/album/5qv9Sbd9t2vHAyxcPSiBW9"
+      },
+      "artists": [
+        {
+          "name": "Alexander Litvinovsky",
+          "url": "https://open.spotify.com/artist/28yzshAIS5oCBCAhVR5vpJ"
+        },
+        {
+          "name": "Metamorphose String Orchestra",
+          "url": "https://open.spotify.com/artist/4G2W8xOZ8D0KRJX4GIETWe"
+        },
+        {
+          "name": "Pavel Lyubomudrov",
+          "url": "https://open.spotify.com/artist/2P4DEqPDDyGY3cHfEWkRIE"
+        },
+        {
+          "name": "Nikolay Donskoy",
+          "url": "https://open.spotify.com/artist/7MWAzd7fnKKZ4E1lKC8g0u"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200116,
+      "name": "Snow White: IX. Snow White\u2019s Canzonetta",
+      "url": "https://open.spotify.com/track/1y1a1Pq3zJl5K6wqTKL7Rk"
     },
     {
       "album": {

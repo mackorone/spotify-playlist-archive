@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: The Urs
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,401 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,439 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,13 +26,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 16 | [Bună](https://open.spotify.com/track/4IiPQyYNKqKntL5c40gDsN) | [Liviu Teodorescu](https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a) | [Bună](https://open.spotify.com/album/2MdqeKqGHNb9zpl1QI4zGK) | 2:40 |
 | 17 | [Parfum](https://open.spotify.com/track/5GT2JXlSlqsbzomVPxd397) | [Ioana Ignat](https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu) | [Parfum](https://open.spotify.com/album/5c2aB6MNY9uqpZUVVRdoap) | 2:56 |
 | 18 | [Am ales](https://open.spotify.com/track/4mEfnVaMq552vamveh5wxO) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [Am ales](https://open.spotify.com/album/4Zhwwgl06xlit08mHlQO9X) | 3:16 |
-| 19 | [Tic Tac](https://open.spotify.com/track/4sqDXPVMJXS3GBU2UB240S) | [Loredana](https://open.spotify.com/artist/5aU8qm9nbrIaXO8ieyKlTa), [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF) | [Tic Tac](https://open.spotify.com/album/1MqLIr8USyADc54Z13xK1R) | 2:53 |
-| 20 | [Ultimul Dans](https://open.spotify.com/track/0a4vqGItAbh4XTd7lz97jR) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Ultimul Dans](https://open.spotify.com/album/285nFxuTHJpnHtTppI5vTS) | 3:23 |
-| 21 | [Lumea n\-ar mai fi](https://open.spotify.com/track/0cmwnlJSvOX4PUqOYmvhc0) | [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF), [Emilian](https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd) | [Lumea n\-ar mai fi](https://open.spotify.com/album/2tamkWSKugOV7hkZdJV91K) | 3:00 |
-| 22 | [Locul tău](https://open.spotify.com/track/1S0ueboEfjDivQFB1uPveo) | [Edward Sanda](https://open.spotify.com/artist/2D8tuLHq2d4mctp2WTk62V), [Cleopatra Stratan](https://open.spotify.com/artist/0Ejsh870ekvlkgnaQkadAG) | [Locul tău](https://open.spotify.com/album/1dTJ2Hd1fjWEioROhCJV0M) | 2:49 |
-| 23 | [Inimi](https://open.spotify.com/track/1yqHs2M4rSgRzJ57ZWazpB) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Inimi](https://open.spotify.com/album/4UVwC4Wj5xcrblIEe4UqVH) | 2:56 |
-| 24 | [LOIALITATE](https://open.spotify.com/track/5yiok0QSYdoP4L2Nn6ny1T) | [Cezar Guna](https://open.spotify.com/artist/4vMwiNf15n0KVymasufiqa) | [LOIALITATE](https://open.spotify.com/album/3SgXAsStmkXfSMsr9Sn00B) | 2:25 |
-| 25 | [Saruta\-ma](https://open.spotify.com/track/7132St4j9btLcTjIm5IDUQ) | [Lora](https://open.spotify.com/artist/1ht25I3tgkphYm1HI7wMDq) | [Saruta\-ma](https://open.spotify.com/album/2nx4A259r9AGxjv1yzbHC8) | 2:28 |
+| 19 | [Ultimul Dans](https://open.spotify.com/track/0a4vqGItAbh4XTd7lz97jR) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Ultimul Dans](https://open.spotify.com/album/285nFxuTHJpnHtTppI5vTS) | 3:23 |
+| 20 | [Lumea n\-ar mai fi](https://open.spotify.com/track/0cmwnlJSvOX4PUqOYmvhc0) | [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF), [Emilian](https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd) | [Lumea n\-ar mai fi](https://open.spotify.com/album/2tamkWSKugOV7hkZdJV91K) | 3:00 |
+| 21 | [Locul tău](https://open.spotify.com/track/1S0ueboEfjDivQFB1uPveo) | [Edward Sanda](https://open.spotify.com/artist/2D8tuLHq2d4mctp2WTk62V), [Cleopatra Stratan](https://open.spotify.com/artist/0Ejsh870ekvlkgnaQkadAG) | [Locul tău](https://open.spotify.com/album/1dTJ2Hd1fjWEioROhCJV0M) | 2:49 |
+| 22 | [Inimi](https://open.spotify.com/track/1yqHs2M4rSgRzJ57ZWazpB) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Inimi](https://open.spotify.com/album/4UVwC4Wj5xcrblIEe4UqVH) | 2:56 |
+| 23 | [LOIALITATE](https://open.spotify.com/track/5yiok0QSYdoP4L2Nn6ny1T) | [Cezar Guna](https://open.spotify.com/artist/4vMwiNf15n0KVymasufiqa) | [LOIALITATE](https://open.spotify.com/album/3SgXAsStmkXfSMsr9Sn00B) | 2:25 |
+| 24 | [Saruta\-ma](https://open.spotify.com/track/7132St4j9btLcTjIm5IDUQ) | [Lora](https://open.spotify.com/artist/1ht25I3tgkphYm1HI7wMDq) | [Saruta\-ma](https://open.spotify.com/album/2nx4A259r9AGxjv1yzbHC8) | 2:28 |
+| 25 | [Parfum \- Sped Up](https://open.spotify.com/track/7yU9Dc8ObX4wcAqscuz0Bm) | [Ioana Ignat](https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu) | [Parfum \(Sped Up\)](https://open.spotify.com/album/6Oyqwk4P7SZXg79dscYolr) | 2:35 |
 | 26 | [Și dacă vine iarăși seara](https://open.spotify.com/track/1ipeEGgjlF3ZRwdZdNfxZH) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Cântece de Inimă, Vol\. 2](https://open.spotify.com/album/04Q1Z1d50KJxrTTpZdkLTI) | 2:37 |
 | 27 | [De ce plang chitarele](https://open.spotify.com/track/1LviVFquiwbz2qsiVzbC4W) | [Alessiah](https://open.spotify.com/artist/1EdD1RXOUNqPUJAqwtnHWw), [Mark Stam](https://open.spotify.com/artist/2TfjCSwYNNsUvw3uhjK9mh) | [De ce plang chitarele](https://open.spotify.com/album/4kXNDZdMEpJIGIKjUnG9Dt) | 2:39 |
 | 28 | [7 zile de 8 ori](https://open.spotify.com/track/4r8QP0r8oEWjNRiqRa1JyC) | [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99), [IRAIDA](https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov) | [7 zile de 8 ori](https://open.spotify.com/album/0cMi3lBoihkgoc2M6GqE0B) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 49 | [Nu mă lași să te las](https://open.spotify.com/track/6uRuXkzTwPoSqcAED4ygML) | [Alessandra](https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV), [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2) | [Până la final și mai departe](https://open.spotify.com/album/0VTaNyrHW5Mw19x38zAQYQ) | 2:29 |
 | 50 | [Lalele](https://open.spotify.com/track/0WxfUn0nvxIpHMRYKLHtYA) | [Carla's Dreams](https://open.spotify.com/artist/1n5LD9Ar3D6RK2X2ewGvXb) | [Lalele](https://open.spotify.com/album/4y1jBOFhRMOvXQ7uKr8H4V) | 3:46 |
 
-Snapshot ID: `Z9yP6QAAAACrYENID0bJ6q/QXIakMUbV`
+Snapshot ID: `Z901HwAAAADCO2CUb7I2LgjnldDwxown`

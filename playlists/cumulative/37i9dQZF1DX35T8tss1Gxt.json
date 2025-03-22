@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Where faith meets R&B. Cover: Lee Vasi",
+  "description": "Where faith meets R&B. Cover: Stevie Rizo",
   "name": "Rhythm & Praise",
   "tracks": [
     {
@@ -7247,6 +7247,24 @@
     },
     {
       "album": {
+        "name": "My Cry",
+        "url": "https://open.spotify.com/album/2EWs0Ircr47V4JueLQR6XL"
+      },
+      "artists": [
+        {
+          "name": "Aura\u00e8",
+          "url": "https://open.spotify.com/artist/3tZVXVqt6MP5k80gT723pM"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200015,
+      "name": "My Cry",
+      "url": "https://open.spotify.com/track/1MU4Ce6tNV7AlpTitDyBcm"
+    },
+    {
+      "album": {
         "name": "My Good",
         "url": "https://open.spotify.com/album/3VGm2B4rcF10gIpIeVuxM7"
       },
@@ -9944,7 +9962,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 223103,
       "name": "Somebody Made Me",
       "url": "https://open.spotify.com/track/3HHF2OhHVQly1JQ2j8cYus"
@@ -10512,7 +10530,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 239090,
       "name": "Temple",
       "url": "https://open.spotify.com/track/66XywM16QAO6Stui0fBEAz"
@@ -10746,6 +10764,24 @@
       "duration_ms": 270826,
       "name": "The Dream",
       "url": "https://open.spotify.com/track/6owRPnezJsGhlbKfbRAfqi"
+    },
+    {
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/7FmN15oCd3uLB8QamfIrKg"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189048,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/1zgbKCVxcGxdbqce60bEAz"
     },
     {
       "album": {
@@ -11062,6 +11098,28 @@
       "duration_ms": 196245,
       "name": "Trust In You",
       "url": "https://open.spotify.com/track/34uYQDT6PuFF2GclBzcaST"
+    },
+    {
+      "album": {
+        "name": "Trust In You",
+        "url": "https://open.spotify.com/album/5lNMOkqc9DOAB1feSy28df"
+      },
+      "artists": [
+        {
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+        },
+        {
+          "name": "Rizara",
+          "url": "https://open.spotify.com/artist/70Z58IHcJrt6sPzp4NM6dU"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158614,
+      "name": "Trust In You",
+      "url": "https://open.spotify.com/track/3hpZjzxp1s9SITpUk4xVpK"
     },
     {
       "album": {
@@ -11624,7 +11682,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 153481,
       "name": "What More",
       "url": "https://open.spotify.com/track/46LJD5eXTFUww8FcN6xN4I"

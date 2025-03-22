@@ -4,7 +4,7 @@
 
 > IC & Virji <3
 
-1,188 songs - 3 day 17 hr 10 min
+1,190 songs - 3 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,6 +524,7 @@
 | [JOY \(Don't It Make You Feel\)](https://open.spotify.com/track/1PUSsDVdfoSD8TBeSUJRBx) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Don’t It Make You Feel\)](https://open.spotify.com/album/0dY0wbc3n8SS4WWfHdxo0L) | 3:22 | 2022-08-18 | 2022-09-15 |
 | [JOY \(Easy To Improve\)](https://open.spotify.com/track/2KA0StmQGMIQxf1rCqKB3D) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Easy To Improve\)](https://open.spotify.com/album/0EyTC7SBuLcfjIq4jaURtH) | 3:26 | 2022-08-25 | 2022-10-16 |
 | [JOY \(God Only Knows\)](https://open.spotify.com/track/2gTF3yPxvDpW2EAYbOVeIt) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(God Only Knows\)](https://open.spotify.com/album/6g4DJWWISxd3PwUFM9sleU) | 4:26 | 2022-12-22 | 2023-01-27 |
+| [Juice](https://open.spotify.com/track/5Z4fVgbRNz1aPy6bdf2jca) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Trinidad James](https://open.spotify.com/artist/0I5HubncQ8E1MFZOlPDY4J) | [Juice](https://open.spotify.com/album/2iY3g0sYtGjooe98tq46MB) | 3:22 | 2025-03-21 |  |
 | [Junction 3](https://open.spotify.com/track/14c0weTcZPO5laR3ft2B0z) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Junction 3](https://open.spotify.com/album/3orD0F22WOT0CmmEpCDRg3) | 2:38 | 2024-07-25 |  |
 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 | 2022-08-18 | 2023-08-04 |
 | [Just Come \- Marco Lys Remix](https://open.spotify.com/track/1fy3nyBffRSXHqvip1Hyo2) | [Cool Jack](https://open.spotify.com/artist/14JwN8sxchomQZS40obpio), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1) | [Just Come \(Marco Lys Remix\)](https://open.spotify.com/album/0varLFZ9nR0fjtylPXkJXX) | 3:07 | 2024-03-22 |  |
@@ -888,6 +889,7 @@
 | [Sete \- Nitefreak Remix](https://open.spotify.com/track/0Evni7gpUVEAJn3qE9PNY4) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete \(Nitefreak Remix\)](https://open.spotify.com/album/3yvWSNvxkbUMUnhOLtXfCG) | 3:44 | 2022-09-22 | 2023-02-26 |
 | [Seven Six Four](https://open.spotify.com/track/6yXhA6Kpk7wNOGx7fqzVZ0) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Infinita](https://open.spotify.com/album/45k4FEw7KqxxLbdfZjwavv) | 4:17 | 2023-06-08 | 2023-08-25 |
 | [Sexy Dance](https://open.spotify.com/track/08odpmvURfvJnTlDzeVXni) | [KOKO.IT](https://open.spotify.com/artist/0Hf0yw8uGFRuNLDngL2GLC) | [Sexy Dance](https://open.spotify.com/album/7LWBKWm1GNFjuvKqifPVIN) | 4:10 | 2022-12-15 | 2023-01-27 |
+| [Sexy Sturdy](https://open.spotify.com/track/1MBERq4ODYQmYKMwH3naVq) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Sexy Sturdy](https://open.spotify.com/album/4CYByhH0qo2tYln4bKa4Vv) | 3:47 | 2025-03-21 |  |
 | [Shades Of Night](https://open.spotify.com/track/5S4eQ6DcoKLwbPzSZltt3R) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Shades Of Night](https://open.spotify.com/album/3Q20S7c0JtKWsmAo7m3TSp) | 6:49 | 2023-02-23 | 2023-03-10 |
 | [Shake](https://open.spotify.com/track/0al96kbwWxScOcA1iK7T0b) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Shake / In The Mood](https://open.spotify.com/album/6He6laSFhDHETaQaxulrtp) | 3:25 | 2023-09-28 | 2023-10-13 |
 | [Shake It Loose](https://open.spotify.com/track/5IZzCDAjYXNQfGyyLUlkWd) | [Tyler Hill](https://open.spotify.com/artist/0mpUHzHesNAyD4y42cWOWr) | [Shake It Loose](https://open.spotify.com/album/7vzCdAskchu9YqkWtIbRbL) | 6:28 | 2024-08-30 |  |

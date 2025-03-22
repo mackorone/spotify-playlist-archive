@@ -4,7 +4,7 @@
 
 > Relax to the calming sounds of choral music.
 
-131 songs - 9 hr 52 min
+132 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Benedictus](https://open.spotify.com/track/3XdQ9XfyxHNzHU8FkJG9NV) | [Karl Jenkins](https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd), [VOCES8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc), [Christian Forshaw](https://open.spotify.com/artist/3hb2rYbbTMlvmd42CCH3kJ) | [Eventide \(10th Anniversary Edition\)](https://open.spotify.com/album/7hRcmUFGUZ22uWuDLrixM3) | 3:12 | 2023-08-04 | 2024-04-19 |
 | [Berliner Messe: I\. Kyrie](https://open.spotify.com/track/7IcX4mmOHx4ugKiciQrFxv) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Polyphony](https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na), [Stephen Layton](https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o) | [Pärt: Berliner Messe; Magnificat; Annum per Annum; 7 Antiphons](https://open.spotify.com/album/7ghHg8jDEhYfXDRIXgbHY0) | 3:26 | 2023-08-04 |  |
 | [Blessing](https://open.spotify.com/track/685wxE2HRynbFNcyclZRmR) | [Paul Mealor](https://open.spotify.com/artist/18B9HFuIuZ5LOk8vWtaxsG), [Voce](https://open.spotify.com/artist/3TzXmu7YvW0mRzyEVPKrXA), [Mark Singleton](https://open.spotify.com/artist/22skYazgobfyYKseDmWkud) | [Blessing](https://open.spotify.com/album/13ff0Bw57GkN0mYj6XYtl2) | 3:56 | 2021-07-21 |  |
+| [Come to Me](https://open.spotify.com/track/1H0CzPzSj0Tea3IiyOqq0J) | [Ivo Antognini](https://open.spotify.com/artist/10joHEaSnw5eRXQnQUlZwQ), [Anna Lapwood](https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP), [The Chapel Choir of Pembroke College, Cambridge](https://open.spotify.com/artist/6DPxkITuYSrDAPdhISWO35) | [Come to Me](https://open.spotify.com/album/6LYlykRfxoWcop1K1UKbyt) | 5:45 | 2025-03-21 |  |
 | [D.983/4, Op\. 17: Die Nacht](https://open.spotify.com/track/0GEsTzfGNpGu1LWSdQBEWY) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Sonat Vox](https://open.spotify.com/artist/1TuXJ3JKJFeEa2yHoIWFnj), [Justus Merkel](https://open.spotify.com/artist/4aCcbmr9IbYeTeQbhIUC3Z) | [Die Nacht](https://open.spotify.com/album/6DfBAR22IlyoTMZQIDyWDK) | 3:50 | 2023-06-23 |  |
 | [Dreamweaver: 1\. Prologue](https://open.spotify.com/track/2PpgI9UbH7akaXAFB5rb8E) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G), [The Choir of Royal Holloway](https://open.spotify.com/artist/1vasMRKeTuE5wtYduxAETj), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Rupert Gough](https://open.spotify.com/artist/5hzVruo6hza65D4Xz1iJsG) | [Gjeilo: Dreamweaver: 1\. Prologue](https://open.spotify.com/album/2wYhqinahxWVcSp4NFjiMT) | 2:41 | 2023-08-04 |  |
 | [Even When He is Silent](https://open.spotify.com/track/4rvN3alz5GV8BSfCigHeYI) | [Kim André Arnesen](https://open.spotify.com/artist/0r4gb9UyreyNbVy7y6JB2H), [Tove Ramlo\-Ystad](https://open.spotify.com/artist/3lKVZDzhvdZX8KsWfPpQnX), [Cantus](https://open.spotify.com/artist/13tmEptE5NPMTxY29lVoEf) | [SPES](https://open.spotify.com/album/5LnknYLYDU0bqn5nrrBKvo) | 4:23 | 2021-07-21 |  |

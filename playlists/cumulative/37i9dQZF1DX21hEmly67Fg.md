@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-288 songs - 15 hr 55 min
+289 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Three Times a Lady](https://open.spotify.com/track/043ZNvHtGmYF1uR5q6gD1r) | [Myleene Klass](https://open.spotify.com/artist/63L6NSMY7isrNaziNX2YXX) | [My Lullabies: Motown](https://open.spotify.com/album/6Zx72Eq6focHvSZxljFcyR) | 3:00 | 2022-05-13 |  |
 | [Thunderclouds](https://open.spotify.com/track/4XmcsuS2UKmE0mGexrUXBo) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs the Hits of 2018, Vol\. 2](https://open.spotify.com/album/2hk3pnDS8W2zp7QXgwTb4u) | 3:09 | 2022-11-18 | 2022-11-26 |
 | [Time After Time](https://open.spotify.com/track/0SjRJvsh0ZccINwUQKsSxj) | [Nicholas Yee](https://open.spotify.com/artist/06U7PNo4pPFgmTC2Yqr2Rx) | [Time After Time](https://open.spotify.com/album/7v1uoa4uquxWy6t92wGSLU) | 4:20 | 2021-11-25 | 2023-05-04 |
+| [Time After Time](https://open.spotify.com/track/0Jbj3CkvGt7XYS5H3Whir6) | [Sebastian Young](https://open.spotify.com/artist/5WQMqq5sG5zabwkK07At6G) | [Time After Time](https://open.spotify.com/album/409PSgOS2E4OurHGNSQq4h) | 3:28 | 2025-03-21 |  |
 | [Titanium](https://open.spotify.com/track/7HpOhVbSYn8BNAEiSdvTFv) | [Chloe Welch](https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD) | [Titanium](https://open.spotify.com/album/02eiU5EW1pa8QDg7mczqPk) | 2:34 | 2023-01-30 |  |
 | [Transatlanticism](https://open.spotify.com/track/50tq3zkWA7yLEmdKE0kmt5) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Death Cab for Cutie: Ghost](https://open.spotify.com/album/4xz9AD7qZEyVoE2Q99551Z) | 3:58 | 2022-11-18 | 2022-11-26 |
 | [True Colors](https://open.spotify.com/track/73YuOIBK1d1P994s0dwUhV) | [Therése Therén](https://open.spotify.com/artist/27L2UTyUaO5OCJSNPYgks6) | [True Colors](https://open.spotify.com/album/6p1fpmrr3HCFCpyEwyknNs) | 4:10 | 2024-04-17 |  |

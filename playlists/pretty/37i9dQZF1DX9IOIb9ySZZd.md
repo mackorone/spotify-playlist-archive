@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IOIb9ySZZd.md) - [plain]
 
 > Enjoy music from "Macross Series"! SF超大作アニメ、マクロスシリーズの主題歌/挿入歌 /サントラ曲を1つのプレイリストで！©︎1984,1994,2015 BIGWEST ©︎2007 BIGWEST/MACROSS F PROJECT・MBS©︎12015 ビックウエスト／マクロスΔ製作委員会<br/>©︎2015 BW/MDP
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,957 likes - 98 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,973 likes - 98 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

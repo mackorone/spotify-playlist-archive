@@ -4,7 +4,7 @@
 
 > India's Rap Scene\. Cover\- Hanumankind
 
-262 songs - 14 hr 19 min
+263 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Paiya Dei \- From "Think Indie"](https://open.spotify.com/track/5zgalMo7LWrUPbnv9tgupN) | [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [Anand Kashinath](https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di) | [Paiya Dei \(From "Think Indie"\)](https://open.spotify.com/album/64rBaqo05hIvSgN2cDMT40) | 2:35 | 2025-01-31 |  |
 | [Panthalchant](https://open.spotify.com/track/3pdqA52jfLMiIGx6Xma0OT) | [Mu.Ri](https://open.spotify.com/artist/6XaKvCWc54LHjReFGiQBDm), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW), [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [Wraith V](https://open.spotify.com/artist/4BOMjhDXc0Aet35ZlLZNgZ) | [Panthalchant](https://open.spotify.com/album/33dJvXVV2C0DcnVVBdYNz3) | 3:49 | 2024-10-09 |  |
 | [Payal](https://open.spotify.com/track/76ZWOhRRQzmb4xMoZzTjJ9) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Glory](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:46 | 2024-08-26 |  |
-| [Petrol](https://open.spotify.com/track/3vr1DQv4bow2fW4od7PJU0) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [THE REVOLUTION](https://open.spotify.com/album/1QkGi708j70paXVgKdef65) | 1:59 | 2025-02-28 |  |
+| [Petrol](https://open.spotify.com/track/3vr1DQv4bow2fW4od7PJU0) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [THE REVOLUTION](https://open.spotify.com/album/1QkGi708j70paXVgKdef65) | 1:59 | 2025-02-28 | 2025-03-22 |
 | [PHEK PAISA](https://open.spotify.com/track/33k8CHdnsbvKITAmiUAdAm) | [Raaj Babu](https://open.spotify.com/artist/0upP3hJOHMqdxmK74O225f), [Ricky On The Beat](https://open.spotify.com/artist/0wbqzXArv1toPkbnqV1wsx) | [RAAJWADI](https://open.spotify.com/album/7gGJoEMtEEYycf94V5UX9i) | 2:38 | 2024-09-25 | 2024-11-30 |
 | [Pinnak](https://open.spotify.com/track/3xL4EpclRaWvXhxCRpppaj) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Pinnak](https://open.spotify.com/album/2hcpAGNIH7eVABgcSWc0Lw) | 6:30 | 2023-03-27 | 2024-04-19 |
 | [Pinnak](https://open.spotify.com/track/4kw1Tl4ryNxjTtAdFJkD19) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Pinnak](https://open.spotify.com/album/2tmCxw86Ns8FiYzR8NYPSx) | 6:30 | 2023-03-27 | 2024-07-06 |
@@ -253,6 +253,7 @@
 | [Up To U](https://open.spotify.com/track/7695jWrVLrftHb9ChEmFCg) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/3LqdYNb1s5tt77gpYkMeeF) | 3:08 | 2024-04-09 |  |
 | [Urvashi](https://open.spotify.com/track/1EJLrOy25fZ3l55p4rgPdS) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Urvashi](https://open.spotify.com/album/19i4HGI1PeV9N0PI25YzjH) | 3:36 | 2023-11-17 | 2024-08-27 |
 | [Vancouver](https://open.spotify.com/track/1QKIZctspbifzxSJr6i7JX) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Young G.O.A.T](https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq) | 2:43 | 2025-02-28 |  |
+| [Vartmaan](https://open.spotify.com/track/20slSXvCF6j6Zp3WMqmyfQ) | [UNIYAL](https://open.spotify.com/artist/0EdBUkJHdLP4GGx3EN8AH0), [Soumya Rawat](https://open.spotify.com/artist/7m8OhaTNCBhSp616MhhOMY) | [Nanda Devi Express](https://open.spotify.com/album/00fpo2S0GkfGGpk0dpm19b) | 1:58 | 2025-03-21 |  |
 | [Vazan \- Red Bull 64 Bars](https://open.spotify.com/track/5fUYbXhJkv1nL8DVq1QOwK) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Vazan \(Red Bull 64 Bars\)](https://open.spotify.com/album/1AvWSlHsofobJDHirHKrXc) | 3:09 | 2024-10-22 |  |
 | [Victory Anthem](https://open.spotify.com/track/1UEbsf5kGEIcSMiWexOkrZ) | [Khushi TDT](https://open.spotify.com/artist/0O8DjpANOBrYwtNXlxbyff), [Lash curry](https://open.spotify.com/artist/5EXPLxIaBJwaXPW5FovTOx), [Audiocrackerr](https://open.spotify.com/artist/6R3w3WdJRJqEMRc0qy1z5i) | [Victory Anthem](https://open.spotify.com/album/2qcvlrz2bh9ExDluhtNDAs) | 2:37 | 2024-11-20 |  |
 | [W](https://open.spotify.com/track/6nmg26X5nPg6CnznIX1UsT) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [W](https://open.spotify.com/album/4iqzfM6Evs8MZLUvXw0ixk) | 2:23 | 2024-01-02 | 2024-02-16 |

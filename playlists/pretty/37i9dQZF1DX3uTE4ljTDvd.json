@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Alexsander Lucio",
-  "num_followers": 127473,
+  "num_followers": 127514,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
@@ -291,26 +291,6 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/7HwGAK2cFTLCuwIcj2No47"
-      },
-      "artists": [
-        {
-          "name": "Amanda Loyola",
-          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
-        },
-        {
-          "name": "Pedro Henrique",
-          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
-        }
-      ],
-      "duration_ms": 341333,
-      "name": "Gra\u00e7a",
-      "url": "https://open.spotify.com/track/50pNAEvXwRMdqizML22vXa"
-    },
-    {
-      "added_at": "2025-01-10 03:01:06",
-      "album": {
         "name": "Ele Vem",
         "url": "https://open.spotify.com/album/1cEYntMwveI3wIHUXyJXMT"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 359352,
       "name": "Ele Vem",
       "url": "https://open.spotify.com/track/5oznsuwB77V1VZHBN4PEe2"
+    },
+    {
+      "added_at": "2025-01-10 03:01:06",
+      "album": {
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/7HwGAK2cFTLCuwIcj2No47"
+      },
+      "artists": [
+        {
+          "name": "Amanda Loyola",
+          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+        },
+        {
+          "name": "Pedro Henrique",
+          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
+        }
+      ],
+      "duration_ms": 341333,
+      "name": "Gra\u00e7a",
+      "url": "https://open.spotify.com/track/50pNAEvXwRMdqizML22vXa"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
+        "name": "Basta Uma Palavra",
+        "url": "https://open.spotify.com/album/2nW44xh4BxcNaKHcISWf8N"
+      },
+      "artists": [
+        {
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Basta Uma Palavra",
+      "url": "https://open.spotify.com/track/28WSh5HaGtFA6OnoygL5mx"
+    },
+    {
+      "added_at": "2025-01-10 03:01:06",
+      "album": {
         "name": "Quem \u00e9 Esse?",
         "url": "https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 209000,
       "name": "Eterno",
       "url": "https://open.spotify.com/track/7MjddsjB17WD68jd2wiMpr"
-    },
-    {
-      "added_at": "2025-01-10 03:01:06",
-      "album": {
-        "name": "Basta Uma Palavra",
-        "url": "https://open.spotify.com/album/2nW44xh4BxcNaKHcISWf8N"
-      },
-      "artists": [
-        {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Basta Uma Palavra",
-      "url": "https://open.spotify.com/track/28WSh5HaGtFA6OnoygL5mx"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -699,6 +699,22 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
+        "name": "Eu Vou Mergulhar",
+        "url": "https://open.spotify.com/album/6rOWiP8QX8iub0JIU0pSFO"
+      },
+      "artists": [
+        {
+          "name": "Idma Brito",
+          "url": "https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2"
+        }
+      ],
+      "duration_ms": 291967,
+      "name": "Eu Vou Mergulhar",
+      "url": "https://open.spotify.com/track/75H1JdNy5JIndenoockhB3"
+    },
+    {
+      "added_at": "2025-01-10 03:01:06",
+      "album": {
         "name": "Te Queremos Mais",
         "url": "https://open.spotify.com/album/4Ih5eUaGedWzx0z82x7ISa"
       },
@@ -715,18 +731,18 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
-        "name": "Eu Vou Mergulhar",
-        "url": "https://open.spotify.com/album/6rOWiP8QX8iub0JIU0pSFO"
+        "name": "Acredito na Promessa",
+        "url": "https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH"
       },
       "artists": [
         {
-          "name": "Idma Brito",
-          "url": "https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2"
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
         }
       ],
-      "duration_ms": 291967,
-      "name": "Eu Vou Mergulhar",
-      "url": "https://open.spotify.com/track/75H1JdNy5JIndenoockhB3"
+      "duration_ms": 245109,
+      "name": "Acredito na Promessa",
+      "url": "https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -763,34 +779,18 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
-        "name": "Minha can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO"
+        "name": "Em Nome de Jesus",
+        "url": "https://open.spotify.com/album/4ObShvodTt4OCF1wlp22pe"
       },
       "artists": [
         {
-          "name": "ThreeSis",
-          "url": "https://open.spotify.com/artist/5iAuHGnqVA3BzRoNPiORPQ"
+          "name": "Matheus Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/1JuV0g5Q2wjlF6gXmk3pGh"
         }
       ],
-      "duration_ms": 273514,
-      "name": "Minha can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS"
-    },
-    {
-      "added_at": "2025-01-10 03:01:06",
-      "album": {
-        "name": "Acredito na Promessa",
-        "url": "https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH"
-      },
-      "artists": [
-        {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
-        }
-      ],
-      "duration_ms": 245109,
-      "name": "Acredito na Promessa",
-      "url": "https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0"
+      "duration_ms": 307600,
+      "name": "Em Nome de Jesus",
+      "url": "https://open.spotify.com/track/6bruHygWw6BLa8hJpkvqLy"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
-        "name": "Em Nome de Jesus",
-        "url": "https://open.spotify.com/album/4ObShvodTt4OCF1wlp22pe"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/1JuV0g5Q2wjlF6gXmk3pGh"
-        }
-      ],
-      "duration_ms": 307600,
-      "name": "Em Nome de Jesus",
-      "url": "https://open.spotify.com/track/6bruHygWw6BLa8hJpkvqLy"
-    },
-    {
-      "added_at": "2025-01-10 03:01:06",
-      "album": {
         "name": "Peda\u00e7os",
         "url": "https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 259500,
       "name": "Peda\u00e7os",
       "url": "https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4"
+    },
+    {
+      "added_at": "2025-01-10 03:01:06",
+      "album": {
+        "name": "Minha can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO"
+      },
+      "artists": [
+        {
+          "name": "ThreeSis",
+          "url": "https://open.spotify.com/artist/5iAuHGnqVA3BzRoNPiORPQ"
+        }
+      ],
+      "duration_ms": 273514,
+      "name": "Minha can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
-        "name": "Vida Boa",
-        "url": "https://open.spotify.com/album/5jNET3UCFFAuwFmDoi4U3F"
-      },
-      "artists": [
-        {
-          "name": "Marllon Ribeiro",
-          "url": "https://open.spotify.com/artist/6CdzLasuO9Gbn0mHJSPD5l"
-        }
-      ],
-      "duration_ms": 283947,
-      "name": "Vida Boa",
-      "url": "https://open.spotify.com/track/4WXSnFFUQkUxomeeh8J3Sa"
-    },
-    {
-      "added_at": "2025-01-10 03:01:06",
-      "album": {
         "name": "Tu Me Fascinas (Ao Vivo)",
         "url": "https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 283235,
       "name": "Tu Me Fascinas - Ao Vivo",
       "url": "https://open.spotify.com/track/41NibAItjNsql9NScvLcon"
+    },
+    {
+      "added_at": "2025-01-10 03:01:06",
+      "album": {
+        "name": "Vida Boa",
+        "url": "https://open.spotify.com/album/5jNET3UCFFAuwFmDoi4U3F"
+      },
+      "artists": [
+        {
+          "name": "Marllon Ribeiro",
+          "url": "https://open.spotify.com/artist/6CdzLasuO9Gbn0mHJSPD5l"
+        }
+      ],
+      "duration_ms": 283947,
+      "name": "Vida Boa",
+      "url": "https://open.spotify.com/track/4WXSnFFUQkUxomeeh8J3Sa"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
-        "name": "Andar Sobre as \u00c1guas",
-        "url": "https://open.spotify.com/album/6HQuxLO1rsxml6pIOfl3kA"
-      },
-      "artists": [
-        {
-          "name": "Bia Monteiro",
-          "url": "https://open.spotify.com/artist/7FYYgll3NQzD9ZcwcdRpB6"
-        }
-      ],
-      "duration_ms": 263260,
-      "name": "Andar Sobre as \u00c1guas",
-      "url": "https://open.spotify.com/track/2omEDUMJcG9Pb1GmWh4LK5"
-    },
-    {
-      "added_at": "2025-01-10 03:01:06",
-      "album": {
         "name": "Cora\u00e7\u00e3o Cansado de Partir",
         "url": "https://open.spotify.com/album/1Ox3RacCzycf2OfYIrSfXc"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 291500,
       "name": "Cora\u00e7\u00e3o Cansado de Partir",
       "url": "https://open.spotify.com/track/4HnZ4YwXkGFMour3ANraz4"
+    },
+    {
+      "added_at": "2025-01-10 03:01:06",
+      "album": {
+        "name": "Andar Sobre as \u00c1guas",
+        "url": "https://open.spotify.com/album/6HQuxLO1rsxml6pIOfl3kA"
+      },
+      "artists": [
+        {
+          "name": "Bia Monteiro",
+          "url": "https://open.spotify.com/artist/7FYYgll3NQzD9ZcwcdRpB6"
+        }
+      ],
+      "duration_ms": 263260,
+      "name": "Andar Sobre as \u00c1guas",
+      "url": "https://open.spotify.com/track/2omEDUMJcG9Pb1GmWh4LK5"
     },
     {
       "added_at": "2025-01-10 03:01:06",

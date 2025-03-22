@@ -1,12 +1,12 @@
 {
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 63783,
+  "num_followers": 63826,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9oJAAAAAAC+tnYmsNcQjYKlzi19AkPC",
+  "snapshot_id": "Z9tagAAAAACnLj2XwZi2esQhPv4y2xAT",
   "tracks": [
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esto Es Lo Nuestro - 20 Exitos",
-        "url": "https://open.spotify.com/album/7EVGFNX0svFH7FhInsIo2h"
+        "name": "Puras Pa Pistear Volumen 1",
+        "url": "https://open.spotify.com/album/3fuUgFZDApi0xywZ5hOgqk"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 193666,
-      "name": "Profundamente",
-      "url": "https://open.spotify.com/track/4xfBuv8JI74VklmZb3pjoB"
+      "duration_ms": 177096,
+      "name": "El Disgusto",
+      "url": "https://open.spotify.com/track/7sm9ulj2YtnaBcMZ8tfni2"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras Pa Pistear Volumen 1",
-        "url": "https://open.spotify.com/album/3fuUgFZDApi0xywZ5hOgqk"
+        "name": "Esto Es Lo Nuestro - 20 Exitos",
+        "url": "https://open.spotify.com/album/7EVGFNX0svFH7FhInsIo2h"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 177096,
-      "name": "El Disgusto",
-      "url": "https://open.spotify.com/track/7sm9ulj2YtnaBcMZ8tfni2"
+      "duration_ms": 193666,
+      "name": "Profundamente",
+      "url": "https://open.spotify.com/track/4xfBuv8JI74VklmZb3pjoB"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Evolucion De Una Estrella",
-        "url": "https://open.spotify.com/album/6k7d21DElnpqLJJZ9f1TEl"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 179853,
-      "name": "Pu\u00f1o De Tierra",
-      "url": "https://open.spotify.com/track/6nAwNfJ1kxO5r2EWClqW1b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puras Rancheras",
         "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 187266,
       "name": "Atrapado",
       "url": "https://open.spotify.com/track/71gh7kQdKfaDWZSZZIU1ff"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Evolucion De Una Estrella",
+        "url": "https://open.spotify.com/album/6k7d21DElnpqLJJZ9f1TEl"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 179853,
+      "name": "Pu\u00f1o De Tierra",
+      "url": "https://open.spotify.com/track/6nAwNfJ1kxO5r2EWClqW1b"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te So\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 136760,
-      "name": "Hablando Claro",
-      "url": "https://open.spotify.com/track/4NiNF2TgroCObAR1iYX1MR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alguien Dijo",
         "url": "https://open.spotify.com/album/7hchsfuOEnlS3RZJDlZiLI"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 137887,
       "name": "Alguien Dijo",
       "url": "https://open.spotify.com/track/66NFHHcWEEcKLfwhYzdtDy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 136760,
+      "name": "Hablando Claro",
+      "url": "https://open.spotify.com/track/4NiNF2TgroCObAR1iYX1MR"
     },
     {
       "added_at": null,

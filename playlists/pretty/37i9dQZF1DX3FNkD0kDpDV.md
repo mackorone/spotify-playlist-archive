@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > Celebrate 10 years of CRSSD Festival with the sounds of 40+ artists taking over San Diego this spring\. From house and techno icons to breakthrough talent, get a preview of the music that will shape this milestone anniversary weekend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 821,415 likes - 40 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 821,385 likes - 40 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

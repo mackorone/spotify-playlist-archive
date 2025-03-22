@@ -4,7 +4,7 @@
 
 > Explore the Romantic side of Tamil Indie! <br/><br/>Cover: Stephen Zechariah, Priya Jerson
 
-86 songs - 5 hr 34 min
+87 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Sathiyama](https://open.spotify.com/track/6t7XOZk8Hv07QJOZVHekFv) | [Mugen Rao](https://open.spotify.com/artist/521uA5nxi1L31JgK6yd2lA), [Priyashankari](https://open.spotify.com/artist/2uhjPLTC6bHZYvLXsHgrf8) | [Sathiyama](https://open.spotify.com/album/7MRQnV1a5MvQ7PPhymeGxv) | 4:38 | 2022-03-30 |  |
 | [Serithaana](https://open.spotify.com/track/5cdUR8s0paGuX4G2qANUeu) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt) | [Serithaana](https://open.spotify.com/album/3qUobbcOQKOPuzJBOiSGF6) | 3:22 | 2023-04-28 |  |
 | [Thalakeezhai](https://open.spotify.com/track/349EqVyKRJaTmhSENFxu4v) | [Jerard Felix](https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Thalakeezhai](https://open.spotify.com/album/2U2ZVcOxcgwF6hDzcxFQwG) | 2:40 | 2024-07-05 | 2024-10-23 |
+| [Tharunangal \- From "Think Indie"](https://open.spotify.com/track/0MBe9DRlGzrJFRteb7kA3i) | [Sarah Black](https://open.spotify.com/artist/42HHTJt9IDWgxElbHzZStO) | [Tharunangal \(From "Think Indie"\)](https://open.spotify.com/album/5F5U3hC2yuHOA7CMN068bC) | 2:28 | 2025-03-21 |  |
 | [Thean Kudika](https://open.spotify.com/track/3mFCOJxMugGr2q7KyNG0Zj) | [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q), [Pragathi](https://open.spotify.com/artist/5ZjYHPK2ChSKoqikhjpgBa) | [Maze in Idhayam](https://open.spotify.com/album/4zBa7qnn1jBEfpY7bm6uNT) | 4:14 | 2022-03-30 |  |
 | [Thottu Vidum Thooram](https://open.spotify.com/track/50JJ12Cb2eJmKBJjlfGWze) | [Raj Thillaiyampalam](https://open.spotify.com/artist/0j0eGN0Ujo81Qm1z1Yc7ak), [Aishwarya Yogarajh](https://open.spotify.com/artist/3TZfjkHHgQWsXYT5o9PYdZ) | [Thottu Vidum Thooram](https://open.spotify.com/album/4qdpasJoDy0nrh0oSYBbah) | 3:41 | 2021-12-01 |  |
 | [Thozhiye](https://open.spotify.com/track/62bLf68AYS2d83Ky4uxFKT) | [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Thozhiye](https://open.spotify.com/album/3MDUpfAI6jQQXiDOnA7tKJ) | 3:40 | 2024-10-22 |  |
@@ -92,7 +93,7 @@
 | [Usuraiya Tholaichaen](https://open.spotify.com/track/2rQBXXubpc4vSztWADytxc) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [Pragathi Guruprasad](https://open.spotify.com/artist/1IMZlbjHW9DCrW6xbtjI6F) | [Usuraiya Tholaichaen](https://open.spotify.com/album/18SW4drLNNIyFyaPmf1wGi) | 5:39 | 2021-12-01 |  |
 | [Vaa En Uyire](https://open.spotify.com/track/4ENAMXXs65X9nBZeJNWDo7) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Vaa En Uyire](https://open.spotify.com/album/3Z4nPTwNxdOMi5XRd2b9jI) | 4:49 | 2024-04-24 |  |
 | [Vaadi Pulla Vaadi](https://open.spotify.com/track/5dQR15IPbFDhTVwjfZgqR0) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Vaadi Pulla Vaadi](https://open.spotify.com/album/789KWh4Jia0vsisVdo44C3) | 4:06 | 2021-12-01 |  |
-| [Yaar Keatadhu Nenjamey](https://open.spotify.com/track/18o9NGHWZw5qMVGqzn5V4H) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw), [L J Vijay](https://open.spotify.com/artist/2ownGwkMOO4BCycYkRShYP), [Shibi Srinivasan](https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5) | [Yaar Keatadhu Nenjamey](https://open.spotify.com/album/5EvUrRofcHZYATdJ35ZNay) | 2:23 | 2024-04-02 |  |
+| [Yaar Keatadhu Nenjamey](https://open.spotify.com/track/18o9NGHWZw5qMVGqzn5V4H) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw), [L J Vijay](https://open.spotify.com/artist/2ownGwkMOO4BCycYkRShYP), [Shibi Srinivasan](https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5) | [Yaar Keatadhu Nenjamey](https://open.spotify.com/album/5EvUrRofcHZYATdJ35ZNay) | 2:23 | 2024-04-02 | 2025-03-22 |
 | [Yaaro \- From "Think Indie"](https://open.spotify.com/track/32JtlUwj5lO1tJCj6j5glU) | [Rakhooo](https://open.spotify.com/artist/4taC6D2Loslf6n6YBTWjzd), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Yaaro \(From "Think Indie"\)](https://open.spotify.com/album/0ee5p75PuogR9kErRoKCsx) | 3:15 | 2024-03-23 |  |
 
 \*This playlist was first scraped on 2023-05-19. Prior content cannot be recovered.

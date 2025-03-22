@@ -2,7 +2,7 @@
 
 ### [Pop Radyo](https://open.spotify.com/playlist/37i9dQZF1DX9G2MXp8YYmm)
 
-> Popun sevilen isimleri\. Kapak: Ege Balkiz
+> Pop'un sevilen isimleri\. Kapak: Ege Balkiz
 
 239 songs - 11 hr 59 min
 

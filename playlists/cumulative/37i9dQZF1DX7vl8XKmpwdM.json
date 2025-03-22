@@ -455,6 +455,28 @@
     },
     {
       "album": {
+        "name": "Veera Dheera Sooran (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1hqxdOOQtLnoqoh1tL36Y6"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Velmurugan",
+          "url": "https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi"
+        }
+      ],
+      "date_added": "2025-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183875,
+      "name": "Ayla Allela",
+      "url": "https://open.spotify.com/track/6Dz7WgsWwFUFPioUB3c596"
+    },
+    {
+      "album": {
         "name": "Ayyo Haiyo (From \"Raid\")",
         "url": "https://open.spotify.com/album/3tuNKc5bPcP620FeIEZsDY"
       },
@@ -866,7 +888,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 217076,
       "name": "Come Back Indian",
       "url": "https://open.spotify.com/track/3Be1gnCOJX50ZSg8iHgIDv"
@@ -1962,6 +1984,32 @@
       "duration_ms": 166523,
       "name": "Kaduna Thrillu Thanada (From \"Bhediya - Tamil\")",
       "url": "https://open.spotify.com/track/2uJSz1wsssI2ehg69qNZ9F"
+    },
+    {
+      "album": {
+        "name": "Kanimaa (From \"Retro\")",
+        "url": "https://open.spotify.com/album/1YPMUwOzrovzylIkqNeepA"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "The Indian Choral Ensemble",
+          "url": "https://open.spotify.com/artist/4Rp2Fp4kllqWQWZLbEZgm3"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2025-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243223,
+      "name": "Kanimaa (From \"Retro\")",
+      "url": "https://open.spotify.com/track/2JlzHPGIVaLNAppX1viq7f"
     },
     {
       "album": {
@@ -3908,7 +3956,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 260134,
       "name": "Soodaana (From \"Pushpa 2 The Rule\") [TAMIL]",
       "url": "https://open.spotify.com/track/3mIyypFRBKUgcaFp70EfTW"

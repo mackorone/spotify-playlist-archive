@@ -759,6 +759,24 @@
     },
     {
       "album": {
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/4Squ5XKPXdotAv4zTCzYse"
+      },
+      "artists": [
+        {
+          "name": "Withered Whispers",
+          "url": "https://open.spotify.com/artist/3uG0BjYEeeRvTRm75rWJD7"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211600,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/1Vl7oJHZWzyQYROZAwqo29"
+    },
+    {
+      "album": {
         "name": "Songs of The Hazy Memories",
         "url": "https://open.spotify.com/album/4mlgz1lwErzQAyjgPa57t1"
       },

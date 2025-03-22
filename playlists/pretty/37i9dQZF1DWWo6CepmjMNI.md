@@ -2,25 +2,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: Cheyada
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: Seal Pillow
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,621 likes - 55 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,623 likes - 55 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [โลกยังหมุนไป \(Heart Echo\)](https://open.spotify.com/track/09lWajRUw0LOLZCM72l7a8) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [โลกยังหมุนไป \(Heart Echo\)](https://open.spotify.com/album/3zeCl9WvCuGll12kRI3D4a) | 4:17 |
+| 1 | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/track/2DO84xSr9XGDGAIwWbHCnd) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/album/2FPO1LZVbyoTU9zr52EWkR) | 4:24 |
 | 2 | [ผู้ชม](https://open.spotify.com/track/23hHRScGll3GDtCcfVxeAv) | [World Nopparuj](https://open.spotify.com/artist/4YJf8IYiDgp0THhDwwRodb), [Khem Freehand](https://open.spotify.com/artist/2c1mD0pzkcaoMHbfUzi6Ih) | [ผู้ชม](https://open.spotify.com/album/1aoBuh75sH3YVll8tj4eDu) | 5:40 |
-| 3 | [เรือนกระจก](https://open.spotify.com/track/7Ko9l6tzurRQR2LaSFQRyQ) | [Cheyada](https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G) | [Prologue](https://open.spotify.com/album/4mbA3xDu6tYvR6KsKNeEJ6) | 2:25 |
-| 4 | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/track/2DO84xSr9XGDGAIwWbHCnd) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/album/2FPO1LZVbyoTU9zr52EWkR) | 4:24 |
-| 5 | [คำตอบของความรักที่สวยงาม \(fleck.\)](https://open.spotify.com/track/5GU6wJbKgBOLJRrcK8DhJO) | [Syrup](https://open.spotify.com/artist/5l6R9L8qJTRP2kFfxtmjGm) | [คำตอบของความรักที่สวยงาม \(fleck.\)](https://open.spotify.com/album/351cCT7UIXXgcWoF1Lpkxw) | 5:48 |
-| 6 | [กอดตัวเอง](https://open.spotify.com/track/1wz8Qxvz05IamC6bmdFkFu) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [กอดตัวเอง](https://open.spotify.com/album/6wMJNnTzM1q4mB3hx6Rr3G) | 4:27 |
-| 7 | [ยามเมื่อลมพัดมาพาฉันย้อนกลับไป](https://open.spotify.com/track/76f0EYKaPbHHshFPmDcGSN) | [Almondeptt](https://open.spotify.com/artist/77p8feYnlVx5htNAWQxXi9) | [ยามเมื่อลมพัดมาพาฉันย้อนกลับไป](https://open.spotify.com/album/7pSxZAv4NE47r4mvfsXaEq) | 2:50 |
-| 8 | [ได้รึเปล่า? \(Crush\)](https://open.spotify.com/track/4le5G5RlMj1YWygXTinvRx) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ) | [ได้รึเปล่า? \(Crush\)](https://open.spotify.com/album/3zZ4G3SpnWIfl3MxG85km0) | 3:48 |
-| 9 | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/track/4Miqyv9ecik7CkUjoCQSj7) | [vavava](https://open.spotify.com/artist/6506cUJ2eosNoizZbvDRFu) | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/album/4F6w0JDPOzEBmsZfZDhshe) | 7:24 |
-| 10 | [ความคิดถึงกึ่งสำเร็จรูป](https://open.spotify.com/track/65pifvWSgPeukXKWOA7y7X) | [Something Sweet](https://open.spotify.com/artist/23jeOBgBz08Ew2A3bfGnKX) | [ความคิดถึงกึ่งสำเร็จรูป](https://open.spotify.com/album/72NS811z9Jrp9PI1sfyqV7) | 3:18 |
-| 11 | [PROMISE](https://open.spotify.com/track/4Nkdc05HTrHHG0Cpu5q4oG) | [TOFU \(TH\)](https://open.spotify.com/artist/4sgxvN6gh4YfyJ3Xe3Qof9) | [PROMISE](https://open.spotify.com/album/3pMXpjj4BHlsJYIS7I6GSR) | 4:49 |
-| 12 | [จับมือฉันไว้](https://open.spotify.com/track/68zDVn6aPQRLIhpd1by36V) | [TWODAYS](https://open.spotify.com/artist/7ao1NtUJbfKxbjDztE0nFQ) | [จับมือฉันไว้](https://open.spotify.com/album/0iDiM9ntw1LwtGitcSdbhX) | 3:32 |
-| 13 | [การแอบรักใครสักคนนึง](https://open.spotify.com/track/0KhW3r1SRHHcW2IepwH5FJ) | [dayys](https://open.spotify.com/artist/6nyvnqJq6GvycPV6JGOdUr) | [การแอบรักใครสักคนนึง](https://open.spotify.com/album/7mt8j5pGsfRH7mQUgnyTzS) | 3:41 |
+| 3 | [To You](https://open.spotify.com/track/651NyhGG8kKZ44qfBpgN1s) | [Seal Pillow](https://open.spotify.com/artist/4Wojlk2KVCqYJ1D7ZskjDH) | [To You](https://open.spotify.com/album/3h1mKh0ynFpNUJWAnYSqKL) | 4:04 |
+| 4 | [ได้รึเปล่า? \(Crush\)](https://open.spotify.com/track/4le5G5RlMj1YWygXTinvRx) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ) | [ได้รึเปล่า? \(Crush\)](https://open.spotify.com/album/3zZ4G3SpnWIfl3MxG85km0) | 3:48 |
+| 5 | [เมืองจำลอง](https://open.spotify.com/track/7o7rEL7DbXYcYNOqn28agS) | [Cheyada](https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G) | [เมืองจำลอง](https://open.spotify.com/album/4TuRZs92az7w4wmdkIV2kJ) | 3:38 |
+| 6 | [คำตอบของความรักที่สวยงาม \(fleck.\)](https://open.spotify.com/track/5GU6wJbKgBOLJRrcK8DhJO) | [Syrup](https://open.spotify.com/artist/5l6R9L8qJTRP2kFfxtmjGm) | [คำตอบของความรักที่สวยงาม \(fleck.\)](https://open.spotify.com/album/351cCT7UIXXgcWoF1Lpkxw) | 5:48 |
+| 7 | [กลับกลายเป็น](https://open.spotify.com/track/3IvGwrtavJiomOpWGTqQEA) | [Wednesday Calling](https://open.spotify.com/artist/6KNfHqzqVizyQI0Z2xt6iy) | [กลับกลายเป็น](https://open.spotify.com/album/5KisRvRzk0ETVnKpowP8Ss) | 6:21 |
+| 8 | [โลกยังหมุนไป \(Heart Echo\)](https://open.spotify.com/track/09lWajRUw0LOLZCM72l7a8) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [โลกยังหมุนไป \(Heart Echo\)](https://open.spotify.com/album/3zeCl9WvCuGll12kRI3D4a) | 4:17 |
+| 9 | [กอดตัวเอง](https://open.spotify.com/track/1wz8Qxvz05IamC6bmdFkFu) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [กอดตัวเอง](https://open.spotify.com/album/6wMJNnTzM1q4mB3hx6Rr3G) | 4:27 |
+| 10 | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/track/4Miqyv9ecik7CkUjoCQSj7) | [vavava](https://open.spotify.com/artist/6506cUJ2eosNoizZbvDRFu) | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/album/4F6w0JDPOzEBmsZfZDhshe) | 7:24 |
+| 11 | [ความคิดถึงกึ่งสำเร็จรูป](https://open.spotify.com/track/65pifvWSgPeukXKWOA7y7X) | [Something Sweet](https://open.spotify.com/artist/23jeOBgBz08Ew2A3bfGnKX) | [ความคิดถึงกึ่งสำเร็จรูป](https://open.spotify.com/album/72NS811z9Jrp9PI1sfyqV7) | 3:18 |
+| 12 | [PROMISE](https://open.spotify.com/track/4Nkdc05HTrHHG0Cpu5q4oG) | [TOFU \(TH\)](https://open.spotify.com/artist/4sgxvN6gh4YfyJ3Xe3Qof9) | [PROMISE](https://open.spotify.com/album/3pMXpjj4BHlsJYIS7I6GSR) | 4:49 |
+| 13 | [จับมือฉันไว้](https://open.spotify.com/track/68zDVn6aPQRLIhpd1by36V) | [TWODAYS](https://open.spotify.com/artist/7ao1NtUJbfKxbjDztE0nFQ) | [จับมือฉันไว้](https://open.spotify.com/album/0iDiM9ntw1LwtGitcSdbhX) | 3:32 |
 | 14 | [ห้วง \(Depart\)](https://open.spotify.com/track/0uCuCHHmgj5nuD1nib1ziy) | [whimp](https://open.spotify.com/artist/6dt1IwUXvGH1NvA7C1K8cG) | [ห้วง \(Depart\)](https://open.spotify.com/album/3XHVea4GovA5X7vWQZ1nKZ) | 5:08 |
 | 15 | [ซึนๆ \(Let You Know\)](https://open.spotify.com/track/4nTArnXQvyGRlDuMsYwHe7) | [OFFICESYNDROME](https://open.spotify.com/artist/1tqOY4TeYRU7LY8cdIg4IH) | [ซึนๆ \(Let You Know\)](https://open.spotify.com/album/6Mnj1vp3WTivasKVxAxFTK) | 4:49 |
 | 16 | [พู่กัน \(feat\. dopameen & Last Ratha\)](https://open.spotify.com/track/1YLRLshOz0o8m0UQO7ZEm2) | [drg.](https://open.spotify.com/artist/1osj7IbtoqGC44LG6cBK8t), [dopameen](https://open.spotify.com/artist/29ZvIa5tO8jkzpnYI52b8T), [Last Ratha](https://open.spotify.com/artist/0SfOSNtLibiKfY5Yv5WzFy) | [พู่กัน \(feat\. dopameen & Last Ratha\)](https://open.spotify.com/album/7jKGt7AVFeLmyeDnnK3peG) | 4:01 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 54 | [ดอกไม้ของเรา](https://open.spotify.com/track/0ayDqcjc5Sif6k0BozklKN) | [Jaritz](https://open.spotify.com/artist/7J6zOmFJEqGPTX7b0s0Pqj) | [ดอกไม้ของเรา](https://open.spotify.com/album/2qRRzS3sK16Ab7FFtvVXqC) | 4:42 |
 | 55 | [หากเธอยังอ่อนล้า](https://open.spotify.com/track/4sEHPGZUSkwvR1MOx7F32s) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [หากเธอยังอ่อนล้า](https://open.spotify.com/album/2e0gtbdOLAFDXASeJpyslR) | 5:04 |
 
-Snapshot ID: `Z9PpmAAAAAChRkPirLA750r/aWpQSa8R`
+Snapshot ID: `Z91aUAAAAADAIR9ULqrraeVM+kMBB29I`

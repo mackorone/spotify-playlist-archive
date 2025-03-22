@@ -2415,6 +2415,24 @@
     },
     {
       "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/1siHseOf2zRKJRd9cGjzsR"
+      },
+      "artists": [
+        {
+          "name": "Adelis\u00e9",
+          "url": "https://open.spotify.com/artist/4zcNEIub6cCZlkS6mzy63N"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/1tMAuiizUoQqnh6lcdFO0i"
+    },
+    {
+      "album": {
         "name": "Sun sinking at dusk",
         "url": "https://open.spotify.com/album/0L7qsF3GOm7oJg68rmbWMI"
       },

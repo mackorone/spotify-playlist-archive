@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Ezra Collective at The Brits 2025",
-  "num_followers": 323265,
+  "num_followers": 323273,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-03-21 00:00:11",
       "album": {
-        "name": "Hurry Up & Wait",
-        "url": "https://open.spotify.com/album/4TaKNsOIMYrIpuBngF7Ygf"
-      },
-      "artists": [
-        {
-          "name": "Joe Armon-Jones",
-          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
-        }
-      ],
-      "duration_ms": 432080,
-      "name": "Hurry Up & Wait",
-      "url": "https://open.spotify.com/track/2b7kkmTOmUTtuAUD9YUB4K"
-    },
-    {
-      "added_at": "2025-03-21 00:00:11",
-      "album": {
         "name": "Alchemy",
         "url": "https://open.spotify.com/album/2x9XPuXjxl9e3nJratHeGF"
       },
@@ -611,18 +595,18 @@
     {
       "added_at": "2025-03-21 00:00:11",
       "album": {
-        "name": "Dance, No One's Watching",
-        "url": "https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9"
+        "name": "Hurry Up & Wait",
+        "url": "https://open.spotify.com/album/4TaKNsOIMYrIpuBngF7Ygf"
       },
       "artists": [
         {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
         }
       ],
-      "duration_ms": 192906,
-      "name": "Shaking Body",
-      "url": "https://open.spotify.com/track/1LisJs3UsHmNKbk3O0pXtq"
+      "duration_ms": 432080,
+      "name": "Hurry Up & Wait",
+      "url": "https://open.spotify.com/track/2b7kkmTOmUTtuAUD9YUB4K"
     },
     {
       "added_at": "2025-03-21 00:00:11",
@@ -655,6 +639,22 @@
       "duration_ms": 139946,
       "name": "Talk About It",
       "url": "https://open.spotify.com/track/6hjATuYdJpRSoPaJgjBIIp"
+    },
+    {
+      "added_at": "2025-03-21 00:00:11",
+      "album": {
+        "name": "Dance, No One's Watching",
+        "url": "https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 192906,
+      "name": "Shaking Body",
+      "url": "https://open.spotify.com/track/1LisJs3UsHmNKbk3O0pXtq"
     },
     {
       "added_at": "2025-03-21 00:00:11",
@@ -947,6 +947,26 @@
     {
       "added_at": "2025-03-21 00:00:11",
       "album": {
+        "name": "Beautiful Sunday",
+        "url": "https://open.spotify.com/album/5IsHRQl6KKpRh9zMz9SQ8Z"
+      },
+      "artists": [
+        {
+          "name": "SwanNek",
+          "url": "https://open.spotify.com/artist/1ywBtmKTo6pI92wFJiJHii"
+        },
+        {
+          "name": "Ras Tex",
+          "url": "https://open.spotify.com/artist/6CEiVua8xVV3bJ8fuGGBk1"
+        }
+      ],
+      "duration_ms": 276625,
+      "name": "Beautiful Sunday",
+      "url": "https://open.spotify.com/track/3LAL1nIrnaJGAQmN7cJutg"
+    },
+    {
+      "added_at": "2025-03-21 00:00:11",
+      "album": {
         "name": "Catch Me",
         "url": "https://open.spotify.com/album/6D1rJ4azeYokGfG0fX3rut"
       },
@@ -995,26 +1015,6 @@
     {
       "added_at": "2025-03-21 00:00:11",
       "album": {
-        "name": "Beautiful Sunday",
-        "url": "https://open.spotify.com/album/5IsHRQl6KKpRh9zMz9SQ8Z"
-      },
-      "artists": [
-        {
-          "name": "SwanNek",
-          "url": "https://open.spotify.com/artist/1ywBtmKTo6pI92wFJiJHii"
-        },
-        {
-          "name": "Ras Tex",
-          "url": "https://open.spotify.com/artist/6CEiVua8xVV3bJ8fuGGBk1"
-        }
-      ],
-      "duration_ms": 276625,
-      "name": "Beautiful Sunday",
-      "url": "https://open.spotify.com/track/3LAL1nIrnaJGAQmN7cJutg"
-    },
-    {
-      "added_at": "2025-03-21 00:00:11",
-      "album": {
         "name": "Breeze",
         "url": "https://open.spotify.com/album/6KI58XTMpXQCMRqAQXeAGL"
       },
@@ -1047,26 +1047,6 @@
       "duration_ms": 280586,
       "name": "In The Garden",
       "url": "https://open.spotify.com/track/3SedB4Ntk4Uw71VtLVqviP"
-    },
-    {
-      "added_at": "2025-03-21 00:00:11",
-      "album": {
-        "name": "Kingfisher",
-        "url": "https://open.spotify.com/album/3DWINcvt3sVbjqiQI1nktw"
-      },
-      "artists": [
-        {
-          "name": "Joe Armon-Jones",
-          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
-        },
-        {
-          "name": "Asheber",
-          "url": "https://open.spotify.com/artist/6jHU62NQ2ooWor2Oc0nAEw"
-        }
-      ],
-      "duration_ms": 362146,
-      "name": "Kingfisher - feat. Asheber",
-      "url": "https://open.spotify.com/track/4EVaThDYJ5rOs5M7sCHvgn"
     },
     {
       "added_at": "2025-03-21 00:00:11",
@@ -1111,18 +1091,22 @@
     {
       "added_at": "2025-03-21 00:00:11",
       "album": {
-        "name": "We Have Each Other",
-        "url": "https://open.spotify.com/album/4oEEZYY7VewZhOAxXfFT2Z"
+        "name": "Kingfisher",
+        "url": "https://open.spotify.com/album/3DWINcvt3sVbjqiQI1nktw"
       },
       "artists": [
         {
-          "name": "TC & the Groove Family",
-          "url": "https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ"
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        },
+        {
+          "name": "Asheber",
+          "url": "https://open.spotify.com/artist/6jHU62NQ2ooWor2Oc0nAEw"
         }
       ],
-      "duration_ms": 236015,
-      "name": "We Have Each Other",
-      "url": "https://open.spotify.com/track/5uTLVdv9ILqGxYIK2xDCuG"
+      "duration_ms": 362146,
+      "name": "Kingfisher - feat. Asheber",
+      "url": "https://open.spotify.com/track/4EVaThDYJ5rOs5M7sCHvgn"
     },
     {
       "added_at": "2025-03-21 00:00:11",
@@ -1139,6 +1123,22 @@
       "duration_ms": 291279,
       "name": "Jela Kubwa Na Viboko",
       "url": "https://open.spotify.com/track/7rOu21uEg6VSWRy9Fgzx4K"
+    },
+    {
+      "added_at": "2025-03-21 00:00:11",
+      "album": {
+        "name": "We Have Each Other",
+        "url": "https://open.spotify.com/album/4oEEZYY7VewZhOAxXfFT2Z"
+      },
+      "artists": [
+        {
+          "name": "TC & the Groove Family",
+          "url": "https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ"
+        }
+      ],
+      "duration_ms": 236015,
+      "name": "We Have Each Other",
+      "url": "https://open.spotify.com/track/5uTLVdv9ILqGxYIK2xDCuG"
     },
     {
       "added_at": "2025-03-21 00:00:11",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-03-21 00:00:11",
       "album": {
-        "name": "dance tonight",
-        "url": "https://open.spotify.com/album/00coMhH2J8lGx01f2FUL8P"
-      },
-      "artists": [
-        {
-          "name": "Indira May",
-          "url": "https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24"
-        }
-      ],
-      "duration_ms": 165191,
-      "name": "dance tonight",
-      "url": "https://open.spotify.com/track/2DLvNxWG0YJS6yDf6KJsmK"
-    },
-    {
-      "added_at": "2025-03-21 00:00:11",
-      "album": {
         "name": "Sole Subject",
         "url": "https://open.spotify.com/album/5zB5DkFnigzorF6nOZ9OYt"
       },
@@ -1227,22 +1211,6 @@
     {
       "added_at": "2025-03-21 00:00:11",
       "album": {
-        "name": "Sweet Whispers: Celebrating Sarah Vaughan",
-        "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
-      },
-      "artists": [
-        {
-          "name": "Zara McFarlane",
-          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
-        }
-      ],
-      "duration_ms": 279749,
-      "name": "Inner City Blues",
-      "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
-    },
-    {
-      "added_at": "2025-03-21 00:00:11",
-      "album": {
         "name": "My Type",
         "url": "https://open.spotify.com/album/34uZsXy8PS9LIrP3fIkuzl"
       },
@@ -1255,6 +1223,38 @@
       "duration_ms": 232068,
       "name": "My Type",
       "url": "https://open.spotify.com/track/6GWFVXScr30DquUSJTkwZB"
+    },
+    {
+      "added_at": "2025-03-21 00:00:11",
+      "album": {
+        "name": "dance tonight",
+        "url": "https://open.spotify.com/album/00coMhH2J8lGx01f2FUL8P"
+      },
+      "artists": [
+        {
+          "name": "Indira May",
+          "url": "https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24"
+        }
+      ],
+      "duration_ms": 165191,
+      "name": "dance tonight",
+      "url": "https://open.spotify.com/track/2DLvNxWG0YJS6yDf6KJsmK"
+    },
+    {
+      "added_at": "2025-03-21 00:00:11",
+      "album": {
+        "name": "Sweet Whispers: Celebrating Sarah Vaughan",
+        "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
+      },
+      "artists": [
+        {
+          "name": "Zara McFarlane",
+          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
+        }
+      ],
+      "duration_ms": 279749,
+      "name": "Inner City Blues",
+      "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
     },
     {
       "added_at": "2025-03-21 00:00:11",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2025-03-21 00:00:11",
       "album": {
+        "name": "My Way (Come Over)",
+        "url": "https://open.spotify.com/album/1AOrovhchsd1IOU5EL1jMA"
+      },
+      "artists": [
+        {
+          "name": "Bea Maher",
+          "url": "https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf"
+        }
+      ],
+      "duration_ms": 214727,
+      "name": "My Way (Come Over)",
+      "url": "https://open.spotify.com/track/1BumTTRy5W6yldlfyjprmD"
+    },
+    {
+      "added_at": "2025-03-21 00:00:11",
+      "album": {
         "name": "Here Today Gone Tomorrow",
         "url": "https://open.spotify.com/album/26lSeSAik3cU8RtembPlOZ"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 386885,
       "name": "Love of Mine",
       "url": "https://open.spotify.com/track/5hXhBMfTEPyswGhah0z3Lb"
-    },
-    {
-      "added_at": "2025-03-21 00:00:11",
-      "album": {
-        "name": "Let It Unfold",
-        "url": "https://open.spotify.com/album/0jPTgYOgxpyQkrjLxfAe5O"
-      },
-      "artists": [
-        {
-          "name": "Myles Sanko",
-          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
-        }
-      ],
-      "duration_ms": 253313,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/5BoznWsDzJJrqjoqZZ2qiN"
     }
   ],
   "unique_name": "Jazz UK",

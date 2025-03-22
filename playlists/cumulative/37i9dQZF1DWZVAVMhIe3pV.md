@@ -4,7 +4,7 @@
 
 > Need to get your energy level up? This will help!
 
-479 songs - 1 day 5 hr 26 min
+480 songs - 1 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Call Me When You're Sober](https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:34 | 2021-12-16 | 2023-03-15 |
 | [Caution \- Radio Edit](https://open.spotify.com/track/4cI2rd2D44mBjwUVFxTkUZ) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Caution \(Radio Edit\)](https://open.spotify.com/album/6XnLSCbiS4TzjTFL2W9979) | 3:48 | 2021-12-16 | 2022-04-19 |
 | [Celebrity Skin](https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 2:42 | 2021-12-16 |  |
-| [Cellophane](https://open.spotify.com/track/2ZzCvMltW1PC5k8dv14ShX) | [House & Home](https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7) | [Split](https://open.spotify.com/album/4IaK5bhrMpaGaa1ZRRDdrp) | 4:04 | 2024-11-12 |  |
+| [Cellophane](https://open.spotify.com/track/2ZzCvMltW1PC5k8dv14ShX) | [House & Home](https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7) | [Split](https://open.spotify.com/album/4IaK5bhrMpaGaa1ZRRDdrp) | 4:04 | 2024-11-12 | 2025-03-22 |
 | [Cherub Rock \- 2011 Remaster](https://open.spotify.com/track/0F2LiyHp9E0pAanpfnzHNp) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 4:58 | 2021-12-16 |  |
 | [Cherub Rock \- 2011 Remaster](https://open.spotify.com/track/3ow0TQVttXQF8rLckmXgRx) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(Deluxe Edition\)](https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo) | 4:58 | 2023-06-05 | 2024-04-19 |
 | [Chop Suey!](https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:30 | 2022-03-31 | 2024-04-19 |
@@ -255,6 +255,7 @@
 | [Lola Montez](https://open.spotify.com/track/3ear11tYbMEmNDm2lxZTqL) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies \(Deluxe Version\)](https://open.spotify.com/album/6bM5H5CIEsTtIoHcScwJWX) | 4:27 | 2021-12-16 | 2022-07-29 |
 | [Lonely Boy](https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:13 | 2021-12-16 | 2023-06-06 |
 | [Lords of the Boards](https://open.spotify.com/track/54Kox6D5c5JNW9ujt3hcOW) | [Guano Apes](https://open.spotify.com/artist/4whxX965DKKqYkXmk33b4E), [Ronald Prent at Wisselord Studios, Hilversum, Netherland](https://open.spotify.com/artist/318EDeSl1oHUaOGbIvXB3t) | [Proud Like a God](https://open.spotify.com/album/1N5L209IqXQ6cqV2HFJU4G) | 3:41 | 2021-12-16 | 2022-04-30 |
+| [LOSER](https://open.spotify.com/track/6HOsksISHjFGsjk0vzK0S6) | [LOWLIVES](https://open.spotify.com/artist/7Hg9yStqSEaKmwPxFlWeE2) | [LOSER](https://open.spotify.com/album/6stziyO40ovFZGQN71pB67) | 3:22 | 2024-11-14 |  |
 | [Love Bites \(So Do I\)](https://open.spotify.com/track/0hKLGoFtQiMHUzmquTyzpS) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of...](https://open.spotify.com/album/1d9fNpMEICkIPnJ3r6EG3A) | 3:11 | 2021-12-16 | 2022-05-28 |
 | [Love In An Elevator \- Single Version](https://open.spotify.com/track/5zZ3ivuobLMt4fypSqsP80) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Young Lust: The Aerosmith Anthology](https://open.spotify.com/album/5DS04MgiAZ1dI2jWUpDuGd) | 5:21 | 2021-12-16 | 2022-07-09 |
 | [Love In This Modern World](https://open.spotify.com/track/32pUQu730pVx6N4bPSfP2N) | [The Roly Mo](https://open.spotify.com/artist/02JXI2IvA33cpqKhC4I9ZT) | [Love In This Modern World](https://open.spotify.com/album/78qR302ZP1WtPN7twfzTe3) | 2:35 | 2022-04-04 | 2022-04-21 |

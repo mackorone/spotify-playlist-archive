@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
+      },
+      "artists": [
+        {
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287913,
+      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
+    },
+    {
+      "album": {
         "name": "193193",
         "url": "https://open.spotify.com/album/1fF1ghrobgXFDvlzqyRPRm"
       },
@@ -1602,7 +1620,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 356520,
       "name": "Glass Chattering",
       "url": "https://open.spotify.com/track/6lGHPfFmZGcjNv7tmTYzZ0"
@@ -2035,6 +2053,24 @@
     },
     {
       "album": {
+        "name": "Inertia",
+        "url": "https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168480,
+      "name": "Inertia",
+      "url": "https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23"
+    },
+    {
+      "album": {
         "name": "Infinitesimal",
         "url": "https://open.spotify.com/album/5HRjh0Oh2GDYaPaDbk5yFJ"
       },
@@ -2447,6 +2483,28 @@
     },
     {
       "album": {
+        "name": "northern wind",
+        "url": "https://open.spotify.com/album/4VtWQBNxhE2xkgiaznyrgD"
+      },
+      "artists": [
+        {
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        },
+        {
+          "name": "Hideyuki Mochizuki",
+          "url": "https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179251,
+      "name": "les cinqui\u00e8me altern\u00e9es",
+      "url": "https://open.spotify.com/track/0QPPyF3YNaFcsAgr3TXm68"
+    },
+    {
+      "album": {
         "name": "Envision",
         "url": "https://open.spotify.com/album/2lnwd16ApEAAJ0GNqH7SNq"
       },
@@ -2854,7 +2912,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 118000,
       "name": "New Age",
       "url": "https://open.spotify.com/track/6Ibgsk6qCE5rUn0jMA4KxA"
@@ -3546,7 +3604,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 410613,
       "name": "See The Light (Abridged)",
       "url": "https://open.spotify.com/track/0Fcr8todn7RFAUrSWbURAj"

@@ -6,10 +6,198 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABS/ZCUL3aFk8dg/Lktt7Fk",
+  "snapshot_id": "AAAAAAAAAABUFo5ewskWQiVCIO6heBKw",
   "tracks": [
     {
-      "added_at": "2025-03-14 04:00:00",
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "Old Man",
+        "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 207420,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "From The Private Collection of Saba and No ID",
+        "url": "https://open.spotify.com/album/7ha6zD0XRzUxAxxfXDLYfq"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "No ID",
+          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
+        },
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        },
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        }
+      ],
+      "duration_ms": 208197,
+      "name": "Crash (feat. Raphael Saadiq and Kelly Rowland)",
+      "url": "https://open.spotify.com/track/4BWd7seTOURluar6C8RqYG"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "2 SCOOPS OF POETRY",
+        "url": "https://open.spotify.com/album/62mA6SvD4Neasq7C9xet4V"
+      },
+      "artists": [
+        {
+          "name": "Thonio",
+          "url": "https://open.spotify.com/artist/6O7fmTtWVciwx0wZ9DzJXD"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "2 SCOOPS OF POETRY",
+      "url": "https://open.spotify.com/track/5zqGWzxvSx1Jp540cjp928"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "Edge of No Return",
+        "url": "https://open.spotify.com/album/7h8VeeLynswkkpfEJmHMnz"
+      },
+      "artists": [
+        {
+          "name": "Mystery Known",
+          "url": "https://open.spotify.com/artist/41LF7qrPfsVRyJsiBcmfW4"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 164002,
+      "name": "Trivial Pursuit",
+      "url": "https://open.spotify.com/track/6Mgf30oUyj01Cx3WOKzXm6"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "Part of the Dream",
+        "url": "https://open.spotify.com/album/2a8WvcJFoyJSUSDDhYa85L"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 139995,
+      "name": "Part of the Dream",
+      "url": "https://open.spotify.com/track/1kTCuSzhaYdMY4hj8l2pWn"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "RDV",
+        "url": "https://open.spotify.com/album/6akYqv2xiUKwSG6mu9AFJm"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "duration_ms": 205719,
+      "name": "RDV",
+      "url": "https://open.spotify.com/track/1Dg3BWfcM1pE7YPmzMkjET"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "Scared To Die",
+        "url": "https://open.spotify.com/album/3Of47Uj6tC0wTyr59p77MD"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 177941,
+      "name": "Scared To Die",
+      "url": "https://open.spotify.com/track/1wfsTfjTlIkkZJm1J1Wxei"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "Glib Tongued",
+        "url": "https://open.spotify.com/album/2GPo3dNO4wZeBRC0DnjdG9"
+      },
+      "artists": [
+        {
+          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
+          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
+        },
+        {
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+        }
+      ],
+      "duration_ms": 223908,
+      "name": "Glib Tongued",
+      "url": "https://open.spotify.com/track/1PPbLuCWH1ji5iomP73VmT"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "ASH (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3wVfDh6A4MEY4WX0dUDT9l"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "duration_ms": 233502,
+      "name": "IT'S OUT THERE",
+      "url": "https://open.spotify.com/track/3nR4FMpzmCQk6fjTmgWBrv"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "LOBBY",
+        "url": "https://open.spotify.com/album/78fUKHidecZPV1xvxKpobm"
+      },
+      "artists": [
+        {
+          "name": "Vicky R",
+          "url": "https://open.spotify.com/artist/468tlC6QAKEJ4u0jndX9o0"
+        },
+        {
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
+        }
+      ],
+      "duration_ms": 181117,
+      "name": "KME (Solaar Outro)",
+      "url": "https://open.spotify.com/track/33Qk0mh8daf29cKE1Cqw9k"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
       "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
@@ -29,259 +217,7 @@
       "url": "https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok"
     },
     {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
-        "name": "Familiar",
-        "url": "https://open.spotify.com/album/2DDhjNTlNh2tkhxwIfgrY5"
-      },
-      "artists": [
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 107563,
-      "name": "Familiar",
-      "url": "https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
-        "name": "The Big One",
-        "url": "https://open.spotify.com/album/6zWd21VBaksMJJM2UrCLo6"
-      },
-      "artists": [
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        }
-      ],
-      "duration_ms": 177586,
-      "name": "The Big One",
-      "url": "https://open.spotify.com/track/7DU7p7DXcOOfJMkDzeDSGU"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/27PNybvsnGEaBIDhNPSjib"
-      },
-      "artists": [
-        {
-          "name": "Jay Prince",
-          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
-        },
-        {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
-        },
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        }
-      ],
-      "duration_ms": 225289,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/7DnXsjeOmOlT1LZVT4F6ey"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
-        "name": "ASH (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3wVfDh6A4MEY4WX0dUDT9l"
-      },
-      "artists": [
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        }
-      ],
-      "duration_ms": 93973,
-      "name": "OXYGENE",
-      "url": "https://open.spotify.com/track/29mj1DYGjcsc5NH6Tj8jaZ"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
-        "name": "Russet",
-        "url": "https://open.spotify.com/album/0ESaOBsQ7tYvw9fxRV9vhM"
-      },
-      "artists": [
-        {
-          "name": "KaizanBlu",
-          "url": "https://open.spotify.com/artist/7xSBYOQmRbnWrhKJQETfNV"
-        },
-        {
-          "name": "Ignacio Arr\u00faa",
-          "url": "https://open.spotify.com/artist/3hh15aODtgiToY2V2lR9qD"
-        }
-      ],
-      "duration_ms": 131666,
-      "name": "Russet",
-      "url": "https://open.spotify.com/track/086A8ohGpcyU7oHD8dySb3"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
-        "name": "Anthem",
-        "url": "https://open.spotify.com/album/7CTKP2Zz7Zfqoake0lB5ei"
-      },
-      "artists": [
-        {
-          "name": "44th Move",
-          "url": "https://open.spotify.com/artist/0RLaOKZ3L4fiKuOvgt0VYx"
-        },
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Richard Spaven",
-          "url": "https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI"
-        }
-      ],
-      "duration_ms": 363619,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/32a8jbDTdYxLy489EwfK5Z"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
-        "name": "Soul Survivorz",
-        "url": "https://open.spotify.com/album/3MXI2R044MrBGFvvQvkmoF"
-      },
-      "artists": [
-        {
-          "name": "Natethoven",
-          "url": "https://open.spotify.com/artist/1Jsx15C8czIFyjj1Af3zgg"
-        },
-        {
-          "name": "Dj Goadman",
-          "url": "https://open.spotify.com/artist/6NPwUjy7W8MUmuKIHFEX73"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Rakim",
-          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
-        },
-        {
-          "name": "Pete Rock",
-          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Soul Survivorz",
-      "url": "https://open.spotify.com/track/0yGk99GrwfKrdDlER3qBij"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
-        "name": "The Official FIFA World Cup 26\u2122\ufe0f Host City Themes",
-        "url": "https://open.spotify.com/album/7L9SGRLWcvS9BdWs2fRPE7"
-      },
-      "artists": [
-        {
-          "name": "FIFA Sound",
-          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
-        },
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 121844,
-      "name": "Kansas City Theme x FIFA World Cup 26\u2122\ufe0f by Tech N9ne",
-      "url": "https://open.spotify.com/track/1QiTUbglKQeJvOsOqvigHY"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
-        "name": "cLOUDs",
-        "url": "https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 242086,
-      "name": "cLOUDs",
-      "url": "https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 249302,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
-        "name": "Valentine's Day Freestyle '25",
-        "url": "https://open.spotify.com/album/1ifU9X3dO0jDTLwzghijsM"
-      },
-      "artists": [
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        }
-      ],
-      "duration_ms": 209732,
-      "name": "Valentine's Day Freestyle '25",
-      "url": "https://open.spotify.com/track/6N0b6jlahlvHsV5MyZd0f8"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
-        "name": "Kansas Anymore (The Longest Goodbye)",
-        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 218660,
-      "name": "Sally, When The Wine Runs Out",
-      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
-        "name": "Bleed (feat. Omar Apollo)",
-        "url": "https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        },
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 179373,
-      "name": "Bleed (feat. Omar Apollo)",
-      "url": "https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
+      "added_at": "2025-03-21 04:00:00",
       "album": {
         "name": "Crashing (with Kali Uchis)",
         "url": "https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS"
@@ -301,7 +237,7 @@
       "url": "https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW"
     },
     {
-      "added_at": "2025-03-14 04:00:00",
+      "added_at": "2025-03-21 04:00:00",
       "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
@@ -325,7 +261,7 @@
       "url": "https://open.spotify.com/track/6HjYE79OOCGEhkIRfXLqrz"
     },
     {
-      "added_at": "2025-03-14 04:00:00",
+      "added_at": "2025-03-21 04:00:00",
       "album": {
         "name": "Mandingo",
         "url": "https://open.spotify.com/album/25le2GICkAxRQoBluMUZ19"
@@ -361,7 +297,7 @@
       "url": "https://open.spotify.com/track/0JvDcQ2LAzuhV1HujQrAHR"
     },
     {
-      "added_at": "2025-03-14 04:00:00",
+      "added_at": "2025-03-21 04:00:00",
       "album": {
         "name": "Satanized",
         "url": "https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX"
@@ -377,7 +313,27 @@
       "url": "https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc"
     },
     {
-      "added_at": "2025-03-14 04:00:00",
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 94825,
+      "name": "TWIN TRIM (with Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/3surY3LebvLLdJezmiKUBO"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
       "album": {
         "name": "I Will Not Break",
         "url": "https://open.spotify.com/album/2BhXDbFXnedoT6G30DrpLP"
@@ -393,7 +349,23 @@
       "url": "https://open.spotify.com/track/3TuZPqlHK7P6lhMOJ7qwll"
     },
     {
-      "added_at": "2025-03-14 04:00:00",
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "Familiar",
+        "url": "https://open.spotify.com/album/2DDhjNTlNh2tkhxwIfgrY5"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 107563,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
       "album": {
         "name": "\u00dcbermensch",
         "url": "https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G"
@@ -413,7 +385,7 @@
       "url": "https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm"
     },
     {
-      "added_at": "2025-03-14 04:00:00",
+      "added_at": "2025-03-21 04:00:00",
       "album": {
         "name": "Albion Files",
         "url": "https://open.spotify.com/album/6Kwh9JzeZqXtees3Y2h0FL"
@@ -433,7 +405,23 @@
       "url": "https://open.spotify.com/track/3oGWXOsz8OUmdoL57OlWIL"
     },
     {
-      "added_at": "2025-03-14 04:00:00",
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "The Big One",
+        "url": "https://open.spotify.com/album/6zWd21VBaksMJJM2UrCLo6"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        }
+      ],
+      "duration_ms": 177586,
+      "name": "The Big One",
+      "url": "https://open.spotify.com/track/7DU7p7DXcOOfJMkDzeDSGU"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
       "album": {
         "name": "Have You Ever Seen The Rain",
         "url": "https://open.spotify.com/album/5oDYNgWJJAzoqk5u5jZj8k"
@@ -457,7 +445,7 @@
       "url": "https://open.spotify.com/track/1yzgMzhlFNdGAlL5Mopdoq"
     },
     {
-      "added_at": "2025-03-14 04:00:00",
+      "added_at": "2025-03-21 04:00:00",
       "album": {
         "name": "Worm in the Sun",
         "url": "https://open.spotify.com/album/3SxhtkvIvcKOchlKgJ4aBN"
@@ -473,27 +461,51 @@
       "url": "https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY"
     },
     {
-      "added_at": "2025-03-14 04:00:00",
+      "added_at": "2025-03-21 04:00:00",
       "album": {
-        "name": "BENT",
-        "url": "https://open.spotify.com/album/2oj24prkNRyDJQtkVlmWux"
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/27PNybvsnGEaBIDhNPSjib"
       },
       "artists": [
         {
-          "name": "Benjamin Earl Turner",
-          "url": "https://open.spotify.com/artist/2TUB08yLNa9nOKoPDxh7mv"
+          "name": "Jay Prince",
+          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
         },
         {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
         }
       ],
-      "duration_ms": 177530,
-      "name": "BENT",
-      "url": "https://open.spotify.com/track/49Tynaepq59P6LAoAlzaIe"
+      "duration_ms": 225289,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/7DnXsjeOmOlT1LZVT4F6ey"
     },
     {
-      "added_at": "2025-03-14 04:00:00",
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "Dragon Season... Equinox",
+        "url": "https://open.spotify.com/album/52rPoXrmxR3JaAw9igvBqG"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "duration_ms": 188187,
+      "name": "I Won't Lie Down",
+      "url": "https://open.spotify.com/track/5U8aJm4YSFYSIXGDm8zMK1"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
       "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/2E1HeJfESK2AmxBkQlaQaZ"
@@ -513,7 +525,31 @@
       "url": "https://open.spotify.com/track/7nUBKamt1V6mCMjVa9750z"
     },
     {
-      "added_at": "2025-03-14 04:00:00",
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/7CTKP2Zz7Zfqoake0lB5ei"
+      },
+      "artists": [
+        {
+          "name": "44th Move",
+          "url": "https://open.spotify.com/artist/0RLaOKZ3L4fiKuOvgt0VYx"
+        },
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Richard Spaven",
+          "url": "https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI"
+        }
+      ],
+      "duration_ms": 363619,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/32a8jbDTdYxLy489EwfK5Z"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
       "album": {
         "name": "Champagne for Breakfast (Dusted Edition)",
         "url": "https://open.spotify.com/album/0pP11JATd5JwmjoYksEjjb"
@@ -541,23 +577,7 @@
       "url": "https://open.spotify.com/track/3d1de8PnOJYTwMOWanQKoY"
     },
     {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
-        "name": "Strange Animals",
-        "url": "https://open.spotify.com/album/0sZDetiZ5I88Q0FZm2MAIt"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 220696,
-      "name": "Strange Animals",
-      "url": "https://open.spotify.com/track/4lu9v8tQ7dfQWGArDwKPBi"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
+      "added_at": "2025-03-21 04:00:00",
       "album": {
         "name": "where is your pride (KILIMANJARO Remix)",
         "url": "https://open.spotify.com/album/3mLqmVbI5S1vPpRyoBb7TX"
@@ -581,35 +601,7 @@
       "url": "https://open.spotify.com/track/6pnv6pVTESTNwrbyUnaHMM"
     },
     {
-      "added_at": "2025-03-14 04:00:00",
-      "album": {
-        "name": "Richard Russell Is Temporary",
-        "url": "https://open.spotify.com/album/3y3KthMNEjQHXmArvK7dyV"
-      },
-      "artists": [
-        {
-          "name": "Everything Is Recorded",
-          "url": "https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X"
-        },
-        {
-          "name": "Roses Gabor",
-          "url": "https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "Rickey Washington",
-          "url": "https://open.spotify.com/artist/44WW6k1ZbsjSVZJ6t8nkeI"
-        }
-      ],
-      "duration_ms": 289630,
-      "name": "The Meadows",
-      "url": "https://open.spotify.com/track/6Xn78aRtXmwi1kdZPK0UES"
-    },
-    {
-      "added_at": "2025-03-14 04:00:00",
+      "added_at": "2025-03-21 04:00:00",
       "album": {
         "name": "Shostakovich: Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
         "url": "https://open.spotify.com/album/5yI5jBtWF01weyuXH22Rfm"
@@ -635,6 +627,34 @@
       "duration_ms": 395986,
       "name": "Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
       "url": "https://open.spotify.com/track/4dLVUG0RvDi1DmwWr48UcP"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "Richard Russell Is Temporary",
+        "url": "https://open.spotify.com/album/3y3KthMNEjQHXmArvK7dyV"
+      },
+      "artists": [
+        {
+          "name": "Everything Is Recorded",
+          "url": "https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X"
+        },
+        {
+          "name": "Roses Gabor",
+          "url": "https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Rickey Washington",
+          "url": "https://open.spotify.com/artist/44WW6k1ZbsjSVZJ6t8nkeI"
+        }
+      ],
+      "duration_ms": 289630,
+      "name": "The Meadows",
+      "url": "https://open.spotify.com/track/6Xn78aRtXmwi1kdZPK0UES"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-662 songs - 1 day 13 hr 16 min
+663 songs - 1 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Changes](https://open.spotify.com/track/3jhHrxY2eyV4zciR8WfzIc) | [Dugong Jr](https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i) | [Changes](https://open.spotify.com/album/0RS8mVII3i0aAhTWcsMpG2) | 3:59 | 2023-09-25 |  |
 | [Chasing Paradise \(with slenderbodies\)](https://open.spotify.com/track/65X5k4AUa5sWiTld3zUXns) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [Chasing Paradise \(with slenderbodies\)](https://open.spotify.com/album/0B3RsQ68U3zlZlGmO1kIsi) | 2:25 | 2022-07-29 | 2023-01-30 |
 | [Cheerleader](https://open.spotify.com/track/779mhz1mAry946r91qzR1r) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Cheerleader](https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI) | 3:57 | 2024-03-22 |  |
+| [Chemicals](https://open.spotify.com/track/6N3xZEUzHtvkd7S66wSS0D) | [Tavatli](https://open.spotify.com/artist/1B8akzCypOte40Fscvj968), [Luxtides](https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe) | [Afraid Of The Dark EP](https://open.spotify.com/album/2MvFlPSWTJgl2BQ4vbIpda) | 3:38 | 2025-03-21 |  |
 | [Cherries](https://open.spotify.com/track/7jF6qpflO2mszCtLIES7SY) | [The Nicholas](https://open.spotify.com/artist/2HOeKK6JSrvz00FoQk0biZ), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Cherries](https://open.spotify.com/album/4YP4xjxJmaY4i3HpPO6jRJ) | 3:14 | 2022-11-11 | 2023-10-06 |
 | [CIRCLES](https://open.spotify.com/track/6cVx6IHckQGUv84Y6RviFC) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [COLD](https://open.spotify.com/album/4QhlBt0hppsc1JmWptgMKc) | 4:34 | 2023-03-03 | 2023-03-25 |
 | [Circuit Current](https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Circuit Current](https://open.spotify.com/album/1Io0KZKAK3f69QO9FpJWuK) | 4:07 | 2023-07-20 | 2023-09-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Willi Carlisle
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,485 likes - 121 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,502 likes - 121 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

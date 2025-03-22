@@ -1,6 +1,6 @@
 {
   "description": "Music from the winners and nominees of the 82nd Golden Globe Awards. ",
-  "num_followers": 7260,
+  "num_followers": 7262,
   "original_name": "Golden Globes Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
-        "name": "Emilia P\u00e9rez (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 223666,
-      "name": "Mi Camino",
-      "url": "https://open.spotify.com/track/2NPzPNhkwSTBMLfTxcaoPZ"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
         "name": "Beetlejuice Beetlejuice (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/63PDHCTMl5YxaqmbdQ66jj"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 235920,
       "name": "MacArthur Park - Single Version",
       "url": "https://open.spotify.com/track/438FjmTQD9khZWN5tGGHSg"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
+        "name": "Emilia P\u00e9rez (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "Mi Camino",
+      "url": "https://open.spotify.com/track/2NPzPNhkwSTBMLfTxcaoPZ"
     },
     {
       "added_at": "2024-12-20 14:00:08",

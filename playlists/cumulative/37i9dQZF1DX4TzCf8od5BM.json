@@ -895,6 +895,28 @@
     },
     {
       "album": {
+        "name": "Disney Jr. Music: Let's Play! Spring Jams",
+        "url": "https://open.spotify.com/album/5oMXC29YIhYSqNXEcnz9z5"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75776,
+      "name": "Easter Buddies - From \"Disney Jr. Music: SuperKitties\"",
+      "url": "https://open.spotify.com/track/1hOQTZ9xAl0DqVlGGm2fKk"
+    },
+    {
+      "album": {
         "name": "Elena of Avalor (Original Soundtrack)",
         "url": "https://open.spotify.com/album/42OLLIcdDeCiLitu9o3FYw"
       },

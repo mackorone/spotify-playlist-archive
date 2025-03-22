@@ -1,13 +1,29 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Aggy Ally",
-  "num_followers": 217629,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Lily Meola",
+  "num_followers": 217651,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9hrxAAAAABjJyctDH2BObF3Hh7dF+oA",
+  "snapshot_id": "Z9zxwgAAAABJN/gt1X5AE/5xzclyFaDx",
   "tracks": [
+    {
+      "added_at": "2025-03-21 04:57:38",
+      "album": {
+        "name": "Postcards to Heaven",
+        "url": "https://open.spotify.com/album/4T1awA0BJdq5BPKuXyoMPz"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 161931,
+      "name": "Northern Star",
+      "url": "https://open.spotify.com/track/1wrpdr361iTE0RpG4gqhsu"
+    },
     {
       "added_at": "2025-03-07 05:00:33",
       "album": {
@@ -55,6 +71,22 @@
       "duration_ms": 247133,
       "name": "Fled Into The Night",
       "url": "https://open.spotify.com/track/0wZ3P7rmQeTdf9R13l6JgH"
+    },
+    {
+      "added_at": "2025-03-21 04:57:38",
+      "album": {
+        "name": "The Alchemist (Gold Edition)",
+        "url": "https://open.spotify.com/album/2hPaUJ88PvHKtaz8HtaLKu"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "duration_ms": 230426,
+      "name": "Love Will Find Me",
+      "url": "https://open.spotify.com/track/2z9FTmH4pP06PeQFGNRAI1"
     },
     {
       "added_at": "2025-03-14 04:00:01",

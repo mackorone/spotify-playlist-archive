@@ -2687,6 +2687,24 @@
     },
     {
       "album": {
+        "name": "\"V1V0\"",
+        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217263,
+      "name": "Qu\u00e9 Ganas",
+      "url": "https://open.spotify.com/track/7vX3qZmAwbMatzvqbduEYW"
+    },
+    {
+      "album": {
         "name": "Reverse",
         "url": "https://open.spotify.com/album/67gR6ME2xaUHnG5dC7t3qk"
       },

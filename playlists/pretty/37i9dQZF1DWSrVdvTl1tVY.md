@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! HILLS
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,256 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,389 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 33 | [Bass Jumpin' \(Sweat\)](https://open.spotify.com/track/7ngSri6b6ZfX5LlQ2q553M) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Bass Jumpin' \(Sweat\)](https://open.spotify.com/album/4PYxHHjgvcmoQUUNSQtgbd) | 3:40 |
 | 34 | [Hold Me](https://open.spotify.com/track/2zVvXkIvGus2Q1jjNGR0T2) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [ARA](https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK) | [Hold Me](https://open.spotify.com/album/3G2phCWDzdCXGUrUzgzIEB) | 4:18 |
 | 35 | [Freak](https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Freak](https://open.spotify.com/album/1bPzfiNL4MaiHWD9bxknaO) | 3:21 |
-| 36 | [Flex My Ice](https://open.spotify.com/track/6qgkgPXcMyOOwyIQ9Tml1R) | [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [JV](https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ) | [Flex My Ice](https://open.spotify.com/album/2Qiq217xFjj7ppUSI5rdvS) | 3:29 |
+| 36 | [Flex My Ice](https://open.spotify.com/track/6qgkgPXcMyOOwyIQ9Tml1R) | [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [DAMEN](https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ) | [Flex My Ice](https://open.spotify.com/album/2Qiq217xFjj7ppUSI5rdvS) | 3:29 |
 | 37 | [Restless](https://open.spotify.com/track/07h9zkURyHfak2q8wsS28R) | [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS) | [Restless](https://open.spotify.com/album/1lQIh3xjeRdVPkRjc0kdJ0) | 2:21 |
 | 38 | [Drugs](https://open.spotify.com/track/1Y6ERLfCqcgRqaQk6AOksf) | [ZDS](https://open.spotify.com/artist/5JWq7Qs3NyKX13mLUdRui5) | [Drugs](https://open.spotify.com/album/2MBcWzJ3gY9sW3WHJHsomq) | 3:31 |
 | 39 | [Burning Fire](https://open.spotify.com/track/4tJ4UrKsJ48wTpprhf5VKj) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn), [Sasha GiGi](https://open.spotify.com/artist/49Gce8amMAHaw4B0Jfb8i5) | [Burning Fire](https://open.spotify.com/album/5o7LIDisE17C1sKYNl8I6k) | 2:51 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 4132,
+  "num_followers": 4133,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9oJAAAAAACkU49nJ6qqh8SdMN2WePFS",
+  "snapshot_id": "Z9tagAAAAABrszXnfUSr3jPWJEiwB4gF",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "...To the Beat of a Dead Horse",
-        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 44418,
-      "name": "Nine",
-      "url": "https://open.spotify.com/track/5GRro6xGJrZEwQykaaKXEk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stage Four (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 131186,
       "name": "Displacement",
       "url": "https://open.spotify.com/track/1cgbkpTMiVUsmNhBfL9MJf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "...To the Beat of a Dead Horse",
+        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 44418,
+      "name": "Nine",
+      "url": "https://open.spotify.com/track/5GRro6xGJrZEwQykaaKXEk"
     },
     {
       "added_at": null,
@@ -342,27 +342,15 @@
         {
           "name": "Touch\u00e9 Amor\u00e9",
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 155184,
-      "name": "This Routine",
-      "url": "https://open.spotify.com/track/5Ub6uKVc05cgjElayqcG3Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Apollo Programme Was A Hoax",
-        "url": "https://open.spotify.com/album/2VfpzHUHKc4Ni26qeaD70D"
-      },
-      "artists": [
+        },
         {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
         }
       ],
-      "duration_ms": 191400,
-      "name": "The Apollo Programme Was A Hoax",
-      "url": "https://open.spotify.com/track/0sXsOeBuEEPQPmJpPQhISe"
+      "duration_ms": 260885,
+      "name": "Goodbye For Now (feat. Julien Baker)",
+      "url": "https://open.spotify.com/track/0lPwT1JHuNFeXtIV6i6Eg2"
     },
     {
       "added_at": null,
@@ -383,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Apollo Programme Was A Hoax",
+        "url": "https://open.spotify.com/album/2VfpzHUHKc4Ni26qeaD70D"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 191400,
+      "name": "The Apollo Programme Was A Hoax",
+      "url": "https://open.spotify.com/track/0sXsOeBuEEPQPmJpPQhISe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "...To the Beat of a Dead Horse",
         "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
       },
@@ -392,9 +396,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 97429,
-      "name": "And Now It's Happening in Mine",
-      "url": "https://open.spotify.com/track/4i2ZnG3km6mvQ3zqcsEAio"
+      "duration_ms": 152985,
+      "name": "Honest Sleep",
+      "url": "https://open.spotify.com/track/6q3tRF4KypWtXUVdM5N5FN"
     },
     {
       "added_at": null,
@@ -456,9 +460,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 152985,
-      "name": "Honest Sleep",
-      "url": "https://open.spotify.com/track/6q3tRF4KypWtXUVdM5N5FN"
+      "duration_ms": 97429,
+      "name": "And Now It's Happening in Mine",
+      "url": "https://open.spotify.com/track/4i2ZnG3km6mvQ3zqcsEAio"
     },
     {
       "added_at": null,
@@ -543,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "...To the Beat of a Dead Horse",
-        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
+        "name": "Dead Horse X",
+        "url": "https://open.spotify.com/album/18mkStcF82XtIJT9ENw9pa"
       },
       "artists": [
         {
@@ -552,9 +556,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 92976,
-      "name": "History Reshits Itself",
-      "url": "https://open.spotify.com/track/68bm9z3WOGCnnqmOrm6PeT"
+      "duration_ms": 99320,
+      "name": "Cadence (Anniversary Version)",
+      "url": "https://open.spotify.com/track/5wzEnAa997Py5C7jACiYr9"
     },
     {
       "added_at": null,
@@ -575,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dead Horse X",
-        "url": "https://open.spotify.com/album/18mkStcF82XtIJT9ENw9pa"
+        "name": "...To the Beat of a Dead Horse",
+        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
       },
       "artists": [
         {
@@ -584,9 +588,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 99320,
-      "name": "Cadence (Anniversary Version)",
-      "url": "https://open.spotify.com/track/5wzEnAa997Py5C7jACiYr9"
+      "duration_ms": 92976,
+      "name": "History Reshits Itself",
+      "url": "https://open.spotify.com/track/68bm9z3WOGCnnqmOrm6PeT"
     },
     {
       "added_at": null,
@@ -603,22 +607,6 @@
       "duration_ms": 103520,
       "name": "I'll Deserve Just That",
       "url": "https://open.spotify.com/track/31Aw4lTh5VI3lnlifsIP4G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "...To the Beat of a Dead Horse",
-        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 63000,
-      "name": "Swimming with Sharks",
-      "url": "https://open.spotify.com/track/4BjDJV6gg3dCVwoXyQkf8q"
     },
     {
       "added_at": null,
@@ -648,9 +636,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 98517,
-      "name": "Suckerfish",
-      "url": "https://open.spotify.com/track/24GkGstdibYrnnhfZWsFE4"
+      "duration_ms": 63000,
+      "name": "Swimming with Sharks",
+      "url": "https://open.spotify.com/track/4BjDJV6gg3dCVwoXyQkf8q"
     },
     {
       "added_at": null,
@@ -667,6 +655,22 @@
       "duration_ms": 91906,
       "name": "Blue Angels",
       "url": "https://open.spotify.com/track/1Qfhy7Ixd5boVOEsT9vSM8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "...To the Beat of a Dead Horse",
+        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 98517,
+      "name": "Suckerfish",
+      "url": "https://open.spotify.com/track/24GkGstdibYrnnhfZWsFE4"
     }
   ],
   "unique_name": "This Is Touch\u00e9 Amor\u00e9",

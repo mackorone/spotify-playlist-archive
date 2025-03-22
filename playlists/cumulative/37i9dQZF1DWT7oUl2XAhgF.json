@@ -2857,6 +2857,24 @@
     },
     {
       "album": {
+        "name": "HEART OF THE MATTER",
+        "url": "https://open.spotify.com/album/0OOVrSL0zg5FMqus5AvW1b"
+      },
+      "artists": [
+        {
+          "name": "Sedric Perry",
+          "url": "https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226779,
+      "name": "HEART OF THE MATTER",
+      "url": "https://open.spotify.com/track/4HFhHdiyYQyPcvMmHOHjcz"
+    },
+    {
+      "album": {
         "name": "Heat Wave",
         "url": "https://open.spotify.com/album/757XmHJA5ltYC7lX4oazsP"
       },
@@ -5976,7 +5994,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-22",
       "duration_ms": 222936,
       "name": "Piece of Me",
       "url": "https://open.spotify.com/track/5CbcqhKsBbiOsjdkh5Hsea"

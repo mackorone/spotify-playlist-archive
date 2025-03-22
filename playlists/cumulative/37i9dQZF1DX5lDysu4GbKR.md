@@ -2,9 +2,9 @@
 
 ### [Acoustic Soul](https://open.spotify.com/playlist/37i9dQZF1DX5lDysu4GbKR)
 
-> Stripped back vibes\. Cover: Alex Isley
+> Stripped back vibes\. Cover: TA Thomas
 
-271 songs - 16 hr 4 min
+272 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [pass you by](https://open.spotify.com/track/4NVwMupCTfITPXetR5aozp) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/06AsoKSZYbdlX0a01Z3RFt) | 4:05 | 2021-12-09 | 2022-10-13 |
 | [pass you by](https://open.spotify.com/track/6idG4unPt6ROA9BSusQ9Me) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379) | 4:05 | 2022-09-29 | 2023-04-09 |
 | [Porcelain Reimagined](https://open.spotify.com/track/3D4ZX7d16Get0TQSYhzFja) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [NGL](https://open.spotify.com/album/4veaG4MuOfmgfq0r45Y5Z3) | 3:39 | 2025-01-31 |  |
+| [Preach \- Acoustic](https://open.spotify.com/track/6Iq0yfjmQJ7HIXmhP6Eg7m) | [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [Preach \(Acoustic\)](https://open.spotify.com/album/5aWr7DdGuUih89jougF0On) | 3:21 | 2025-03-21 |  |
 | [Pressure Points \(feat\. Lila Iké\) \- Live Acoustic](https://open.spotify.com/track/3pfVXNWMeGmD7tQRXirbB0) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Pressure Points \(feat\. Lila Iké\) \[Live Acoustic\]](https://open.spotify.com/album/3P7cVmPpAZftjLgESZ6zxy) | 3:18 | 2025-02-21 |  |
 | [Pretty Girl Hi Reimagined](https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection Reimagined](https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr) | 3:33 | 2021-12-09 |  |
 | [Pulling Away \(acoustic\)](https://open.spotify.com/track/5xif8DSxBw2sYROjNbXYVE) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love \- Acoustic](https://open.spotify.com/album/1lV062Z85zZ8Euv2UFjCJR) | 3:28 | 2021-12-09 | 2023-04-09 |

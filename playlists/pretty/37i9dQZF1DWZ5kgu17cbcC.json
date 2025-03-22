@@ -1,13 +1,29 @@
 {
   "description": "Music from shows and movies you love including O'DESSA, now streaming on Hulu.",
-  "num_followers": 216478,
+  "num_followers": 216475,
   "original_name": "Hulu Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9SsLwAAAAArnOce93y4f5lUgoVH3gFe",
+  "snapshot_id": "Z9zkaAAAAABlObMDsnlzBDqbDpXpA32b",
   "tracks": [
+    {
+      "added_at": "2025-03-21 04:00:40",
+      "album": {
+        "name": "Good American Family (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/56XR4Y1jXWZyO9Jp59ypYI"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 282416,
+      "name": "Shilo",
+      "url": "https://open.spotify.com/track/6CSAYY71wrwMZHQLd1Hp7M"
+    },
     {
       "added_at": "2025-03-14 22:22:39",
       "album": {
@@ -23,6 +39,54 @@
       "duration_ms": 245573,
       "name": "The Song (Love Is All)",
       "url": "https://open.spotify.com/track/3f1CazASWJpY8tBOlIEAQM"
+    },
+    {
+      "added_at": "2025-03-21 04:00:40",
+      "album": {
+        "name": "O'DESSA (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/52Nwa3vxM7OcRbZ4kjQY9i"
+      },
+      "artists": [
+        {
+          "name": "Sadie Sink",
+          "url": "https://open.spotify.com/artist/2p3S4athiHZBR2xjwmn9MJ"
+        }
+      ],
+      "duration_ms": 149120,
+      "name": "Ramblin' Down the Road",
+      "url": "https://open.spotify.com/track/6fkwkMTKHzhDXClB0RWLpz"
+    },
+    {
+      "added_at": "2025-03-21 04:00:40",
+      "album": {
+        "name": "O'DESSA (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/52Nwa3vxM7OcRbZ4kjQY9i"
+      },
+      "artists": [
+        {
+          "name": "Sadie Sink",
+          "url": "https://open.spotify.com/artist/2p3S4athiHZBR2xjwmn9MJ"
+        }
+      ],
+      "duration_ms": 204986,
+      "name": "Here Comes the Seventh Son",
+      "url": "https://open.spotify.com/track/1kLjL6oMym33ao8UOF9fHY"
+    },
+    {
+      "added_at": "2025-03-21 04:00:40",
+      "album": {
+        "name": "O'DESSA (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/52Nwa3vxM7OcRbZ4kjQY9i"
+      },
+      "artists": [
+        {
+          "name": "Sadie Sink",
+          "url": "https://open.spotify.com/artist/2p3S4athiHZBR2xjwmn9MJ"
+        }
+      ],
+      "duration_ms": 121320,
+      "name": "Under the Stars",
+      "url": "https://open.spotify.com/track/5qwbb6ZNi8GObft8AmPX94"
     },
     {
       "added_at": "2025-03-08 03:09:22",

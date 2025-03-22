@@ -4,7 +4,7 @@
 
 > This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-137 songs - 6 hr 49 min
+138 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Peace in the Valley](https://open.spotify.com/track/4IkBfxdaaAULEsdaJcXUMw) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Authorized Sister Rosetta Tharpe Collection](https://open.spotify.com/album/0QKuuYbckrnqy7qaL9zsRr) | 5:32 | 2022-05-25 | 2022-10-13 |
 | [Precious Lord Hold My Hand](https://open.spotify.com/track/7FOyFwDBFQPw2wMtbRLknA) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [First Great Star of Gospel Music](https://open.spotify.com/album/1XStey6fjHNAB9WqriW4Lm) | 3:05 | 2024-11-08 | 2024-12-23 |
 | [Precious Lord Take My Hand](https://open.spotify.com/track/0h64MC2GRtFMXbvjkjxEke) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Precious Memories](https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8) | 5:04 | 2022-05-25 | 2023-10-02 |
+| [Precious Lord, Hold My Hand](https://open.spotify.com/track/5FiOMcaMhGiZApmkU9pDSj) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Let's Ride This Train!](https://open.spotify.com/album/2PJGPi5cdUwhHqokoJWPqf) | 2:59 | 2025-03-22 |  |
 | [Precious Lord, Hold My Hand](https://open.spotify.com/track/0DqGBwSPkXJjQqYg9bZIiF) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Bring Back Those Happy Days](https://open.spotify.com/album/7FunazLrYxpr4cuyP8oL11) | 3:05 | 2022-07-15 | 2022-07-17 |
 | [Precious Memories](https://open.spotify.com/track/3znf1beToCYacQxQ5z467T) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Precious Memories](https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8) | 5:11 | 2022-05-25 |  |
 | [Precious Memories](https://open.spotify.com/track/0Oz3Xcyk76Ok86R7kgJrXG) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Presenting Sister Rosetta Tharpe](https://open.spotify.com/album/5lti5m4J6SvKRyW9r4f1Sm) | 5:11 | 2022-11-16 | 2023-09-06 |
@@ -95,7 +96,7 @@
 | [Rock Daniel \(VD129\)](https://open.spotify.com/track/4AE2k4Ng7W6Yj5tD9xqVo2) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Sister Rosetta Tharpe Vol\. 2 1942\-1944](https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f) | 2:40 | 2022-05-26 |  |
 | [Rock Me](https://open.spotify.com/track/0ff9ixoxJnJgQ3o5rx3wZP) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [Lucky Millinder & His Orchestra](https://open.spotify.com/artist/4N5y4tbCKW3bCMEVofkVZR) | [The Gospel Of The Blues](https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA) | 2:40 | 2022-05-26 |  |
 | [Rock of Ages](https://open.spotify.com/track/2B5WhsYvmpk2ioGZA5I1L6) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Never Alone](https://open.spotify.com/album/4PwLdioxIXipvEaYqIy5kD) | 3:11 | 2022-05-25 | 2024-01-18 |
-| [Savior Don't Pass Me By](https://open.spotify.com/track/1d3J6GuvuIH14U5L8efaaN) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Precious Memories](https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8) | 4:08 | 2022-05-25 |  |
+| [Savior Don't Pass Me By](https://open.spotify.com/track/1d3J6GuvuIH14U5L8efaaN) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Precious Memories](https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8) | 4:08 | 2022-05-25 | 2025-03-22 |
 | [Saviour Don't Pass Me By](https://open.spotify.com/track/7I9xtC86aRfW7jRpJIIt6F) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [GODMOTHER OF ROCK N'ROLL](https://open.spotify.com/album/4v91jzTMDvs6pzBgLRlpRU) | 2:46 | 2025-03-05 |  |
 | [Shout, Sister, Shout!](https://open.spotify.com/track/52ppD2ntvCjr22dP17fuJ7) | [Lucky Millinder & His Orchestra](https://open.spotify.com/artist/4N5y4tbCKW3bCMEVofkVZR), [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Gospel Of The Blues](https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA) | 2:40 | 2022-05-25 |  |
 | [Sing and Shout](https://open.spotify.com/track/31ZnDwW7ERlKZRvLrWKgrl) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rock Me](https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0) | 3:20 | 2023-12-31 | 2024-06-28 |

@@ -2,7 +2,7 @@
 
 ### [Trending Now Telugu](https://open.spotify.com/playlist/37i9dQZF1DWTt3gMo0DLxA)
 
-> Trending songs from Tollywood! <br/>Cover: Sankranthiki Vasthunnam
+> Trending songs from Tollywood! <br/>Cover: Court
 
 199 songs - 13 hr 1 min
 
