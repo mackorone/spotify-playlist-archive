@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: LUSILLON.
 
-376 songs - 19 hr 36 min
+377 songs - 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [HELLO PITI](https://open.spotify.com/track/02qzGFQ2zbuMPPyDXXs6CB) | [Korashe](https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [HELLO PITI](https://open.spotify.com/album/57qRNanR544Lq3kOxDDl3p) | 2:23 | 2024-06-27 | 2024-09-06 |
 | [Hermanos Wright](https://open.spotify.com/track/7HDpJkB7U8FAf72cuj0Smn) | [Claudia Halley](https://open.spotify.com/artist/573UMfqPKD53nEj7LWY6u0), [Comandante Twin](https://open.spotify.com/artist/6MgIZuaJa0swshfLRDZMdw) | [Hermanos Wright](https://open.spotify.com/album/0AK8X0pHu1camT8SAeR2rR) | 4:04 | 2025-02-27 | 2025-03-21 |
 | [Hey](https://open.spotify.com/track/0AL28serWfdor08HKJxYxt) | [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn) | [Hey](https://open.spotify.com/album/0RRbTLs0RM9MhoRiFaUBrw) | 3:37 | 2025-01-09 | 2025-01-31 |
+| [hibernarse](https://open.spotify.com/track/7BBaZuDWpmR6juOJbfXtJy) | [Fillas de Cassandra](https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5) | [hibernarse](https://open.spotify.com/album/0FhRwLDFcxf0nTF6AfF686) | 2:43 | 2025-03-21 |  |
 | [Hileta Kantu Nafarra](https://open.spotify.com/track/2hCPxRbnCZbnAIxeU52CYj) | [ZETAK](https://open.spotify.com/artist/4fYuFg89YvkN1bUwpXumdE), [Maixux Zugarramurdi](https://open.spotify.com/artist/50VrkblhvDhRei2E29rPpG) | [Hileta Kantu Nafarra](https://open.spotify.com/album/3zMqegOQxv66TAHfh6dBLe) | 3:48 | 2024-12-12 | 2024-12-20 |
 | [I know](https://open.spotify.com/track/5xCUOxO46AyKy4x0W7dxeM) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq), [henry semler](https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS) | [I know](https://open.spotify.com/album/6GRPgTY3rk3dgxsG9ZOkCu) | 2:57 | 2024-12-05 | 2025-01-03 |
 | [I wonder](https://open.spotify.com/track/02XZ5kvbHHJ51xWsEVt13x) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [I wonder](https://open.spotify.com/album/69mFAqw4Z19dDhrWQM31bU) | 2:57 | 2025-01-02 | 2025-01-24 |
@@ -276,7 +277,7 @@
 | [Ojalá Haber Estado Ahí](https://open.spotify.com/track/6cvpussFmgvf7lYb8mlz0R) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA) | [Ojalá Haber Estado Ahí](https://open.spotify.com/album/5W4Ff5ONSVBGhTpRG4Tgee) | 2:52 | 2025-03-13 |  |
 | [OJOS](https://open.spotify.com/track/7IFSzI3yMiAgUaHFPQ4Kw6) | [Sila Lua](https://open.spotify.com/artist/1s0SFRaivMSqrjS3C3R7xR) | [Danzas de Amor y Veneno](https://open.spotify.com/album/4ojYb3xrBf3rkfScHntCm6) | 2:36 | 2025-01-16 | 2025-02-07 |
 | [Otra cara](https://open.spotify.com/track/32leyUmGACtpxGIXE2pFE4) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [Ouineta](https://open.spotify.com/artist/3a1trTgNtHPigdFxMGg1e3) | [Otra cara](https://open.spotify.com/album/3a5SAZ034CPmJx5bksWpHp) | 2:32 | 2025-03-20 |  |
-| [Otro Chico +](https://open.spotify.com/track/5NRDTyKvOuyELtlyCfTlln) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Otro Chico +](https://open.spotify.com/album/35E2Korz5jlpPNjqUyTLts) | 2:26 | 2025-03-13 |  |
+| [Otro Chico +](https://open.spotify.com/track/5NRDTyKvOuyELtlyCfTlln) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Otro Chico +](https://open.spotify.com/album/35E2Korz5jlpPNjqUyTLts) | 2:26 | 2025-03-13 | 2025-03-23 |
 | [Pa Ti](https://open.spotify.com/track/2RI6t2wnifhfIyeSKXupio) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Pa ti](https://open.spotify.com/album/3uoCt9ywjzKWfwMP4qNeTn) | 2:11 | 2024-07-25 | 2024-08-16 |
 | [Palabras BLA BLA BLA \- remix](https://open.spotify.com/track/1KdYHwejtPz6uAJjGTAfUp) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [Palabras BLA BLA BLA \- remix](https://open.spotify.com/album/16jPgS4BMWZ8psnbHALBTG) | 1:19 | 2024-08-15 | 2024-08-23 |
 | [Palmas Y Desamores](https://open.spotify.com/track/0Old5HATkhLWjzobyfU0uT) | [VIOLETA](https://open.spotify.com/artist/0VxwKDOfIkq37oYoXbcEvt) | [Palmas Y Desamores](https://open.spotify.com/album/47otbrTZ0A3Bv5aLkV35P6) | 2:42 | 2024-12-05 | 2024-12-27 |

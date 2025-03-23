@@ -9323,6 +9323,24 @@
     },
     {
       "album": {
+        "name": "Azur",
+        "url": "https://open.spotify.com/album/0MfHkNlb8B9K6dRYJmeOfs"
+      },
+      "artists": [
+        {
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125384,
+      "name": "Azur",
+      "url": "https://open.spotify.com/track/5AqSgIRnhgcnd1MORbQCmN"
+    },
+    {
+      "album": {
         "name": "Azure",
         "url": "https://open.spotify.com/album/61uqCryeJEYveSgmSsNZHU"
       },
@@ -73888,7 +73906,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 174239,
       "name": "made sense",
       "url": "https://open.spotify.com/track/1yWjyWbRqihZH5JABtkfcy"
@@ -109161,6 +109179,24 @@
     },
     {
       "album": {
+        "name": "Sleepless Nostalgia",
+        "url": "https://open.spotify.com/album/1UMbD2w6ReXXlEptz1djbN"
+      },
+      "artists": [
+        {
+          "name": "Cereal Party",
+          "url": "https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131351,
+      "name": "Sleepless Nostalgia",
+      "url": "https://open.spotify.com/track/5BLkWFjzHWcdLb822MtiHk"
+    },
+    {
+      "album": {
         "name": "sleeptight",
         "url": "https://open.spotify.com/album/038JzagVkrg0Ffho6usJUo"
       },
@@ -124422,7 +124458,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 128000,
       "name": "The Snake",
       "url": "https://open.spotify.com/track/0lIHz63qelEXD9DALn5Qv6"

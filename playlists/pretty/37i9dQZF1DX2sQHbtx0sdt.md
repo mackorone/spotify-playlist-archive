@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Hanumankind 🇮🇳
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,507 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,598 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 42 | [My G's \(feat\. SEEDA\)](https://open.spotify.com/track/5lVWzY282dRXHbckEBgsCm) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [My G's](https://open.spotify.com/album/498Fuxo3pL5C36JOPmYbJp) | 3:18 |
 | 43 | [DREAMIN’ BOI ISSUE Pt.2](https://open.spotify.com/track/5FU35BZl1stQTmA3G2aXln) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [DREAMIN’ BOI ISSUE Pt.2](https://open.spotify.com/album/2XeOoBPpTshl0Z538UkAtm) | 2:12 |
 | 44 | [Borderline](https://open.spotify.com/track/764iadXQw4m8sZAAKaNRSo) | [Accaoui](https://open.spotify.com/artist/0ZH9vErkeklBVpizfUWo6M) | [Borderline](https://open.spotify.com/album/4PAsL7oZi3viIEh0vNe3Qz) | 3:04 |
-| 45 | [Different Kettle](https://open.spotify.com/track/1vObJY9eIVytTyyvRSETGt) | [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q) | [Different Kettle](https://open.spotify.com/album/1yXBL2lnBAw0pS6Y7TIKjw) | 1:43 |
+| 45 | [DIFFERENT KETTLE](https://open.spotify.com/track/1vObJY9eIVytTyyvRSETGt) | [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q) | [DIFFERENT KETTLE](https://open.spotify.com/album/1yXBL2lnBAw0pS6Y7TIKjw) | 1:43 |
 | 46 | [+225](https://open.spotify.com/track/0V1yOMwZam40maah2kfTat) | [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC), [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd) | [+225](https://open.spotify.com/album/0o2Dqfo0AOgQe7Ezl0MiAa) | 2:54 |
 | 47 | [WENT UP](https://open.spotify.com/track/1jP0QLJrVCs99H4HpBWfFI) | [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [WENT UP](https://open.spotify.com/album/0bmFDz2t4kke5gqveKX3om) | 1:39 |
 | 48 | [CRUZ](https://open.spotify.com/track/3otX8OlB0CEWndnbej4OAI) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [CRUZ](https://open.spotify.com/album/1EPbWEhg5ljGLxp4TKbtwq) | 3:03 |

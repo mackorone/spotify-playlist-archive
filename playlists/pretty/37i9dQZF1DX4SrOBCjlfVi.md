@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Jack Harlow & Doja Cat, Moneybagg Yo, JT and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,446 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,572 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 19 | [Karly Wit A K](https://open.spotify.com/track/43A2NtEy3dJ6SgqYdg8LJ0) | [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [Karly Wit A K](https://open.spotify.com/album/7HvBQ5Nx0PvDl2w9Jzscqn) | 1:44 |
 | 20 | [How Much](https://open.spotify.com/track/2j8NXqmw5SLnUvhfxIFYW0) | [DJ Bandz](https://open.spotify.com/artist/7KnXSV7gkQLmGczm2akVOk), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [How Much](https://open.spotify.com/album/2S2R5ZRiZzkSmkKhKQo7nX) | 2:00 |
 | 21 | [Keep It P](https://open.spotify.com/track/2hkAX9RXCEHvPPBngn3JtU) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Insomnia](https://open.spotify.com/album/4VDFKsron5xLCkREXXmFjD) | 2:41 |
-| 22 | [These Walls Can Talk](https://open.spotify.com/track/6gQpjeLY26XyO12pV6hCLN) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [These Walls Can Talk](https://open.spotify.com/album/3kOR89rjW7sHps9KhY5v2E) | 2:11 |
+| 22 | [These Walls Could Talk](https://open.spotify.com/track/6gQpjeLY26XyO12pV6hCLN) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [These Walls Could Talk](https://open.spotify.com/album/3kOR89rjW7sHps9KhY5v2E) | 2:11 |
 | 23 | [Bump Down](https://open.spotify.com/track/2sYoDbuk8OuYyj7f6RAwJU) | [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr) | [Bump Down](https://open.spotify.com/album/6POJu4Dy6Xgv2XEY0CpiJY) | 2:43 |
 | 24 | [Old Me](https://open.spotify.com/track/510we9oDrgnL9E9OboMk5F) | [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Old Me](https://open.spotify.com/album/44ZEXD0t8f4WFNuj8bLHQr) | 2:17 |
 | 25 | [u lucky bastard](https://open.spotify.com/track/5jKeUAaRLCjbqIom1INhg6) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [u lucky bastard](https://open.spotify.com/album/00JYFtPPejJqVxYoqGnKo2) | 1:40 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 45 | [Backrooms](https://open.spotify.com/track/08xgb3ToiwZAFGpx4g4Mfr) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [Backrooms](https://open.spotify.com/album/5tJe9gmpenx9IUYYsek9Um) | 2:45 |
 | 46 | [Still Around](https://open.spotify.com/track/1r3cKBBY0uZpG47oIpBLNU) | [Malz Monday](https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy) | [Either Way, It'll Be Ok](https://open.spotify.com/album/3NnX66PRNdyyZo67QA3KJk) | 2:01 |
 | 47 | [Handle It](https://open.spotify.com/track/0rDUsFBFDAw46MiEM0SbYg) | [Stunna Sandy](https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0) | [Handle It](https://open.spotify.com/album/3EboFEeu8LxfCzO9wWnVAi) | 1:47 |
-| 48 | [Unreal \(feat\. 24hrs\)](https://open.spotify.com/track/5o2tGEFkvGRJqxUZv52jyJ) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [The Barcelona Tape](https://open.spotify.com/album/4IdTS89QkC2kfXqQ6CHnXS) | 3:00 |
+| 48 | [Unreal \(feat\. 24hrs\)](https://open.spotify.com/track/5o2tGEFkvGRJqxUZv52jyJ) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [The Barcelona Tape](https://open.spotify.com/album/4IdTS89QkC2kfXqQ6CHnXS) | 2:54 |
 | 49 | [petty](https://open.spotify.com/track/29MLR2NLLgklE3jtjVZPa7) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [petty](https://open.spotify.com/album/6weS9JZ5fOI3ZuhERlRUL2) | 2:31 |
 | 50 | [Can't Talk About It](https://open.spotify.com/track/44TT1FUjJ1tCyph5uPdNiu) | [BEO Lil Kenny](https://open.spotify.com/artist/5p2KvjX2qOhaC291qgJc2b) | [Can't Talk About It](https://open.spotify.com/album/6zQpbUCQWo6VvJXsQdO0Oz) | 2:46 |
 

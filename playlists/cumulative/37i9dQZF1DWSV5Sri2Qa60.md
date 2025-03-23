@@ -4,7 +4,7 @@
 
 > Where your new favourite bands are discovered\. Cover: florence road
 
-167 songs - 9 hr 55 min
+168 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [I Always Wish You Were Here \(With Me\)](https://open.spotify.com/track/7Jkgg3tdU7IRaDYi9acimW) | [China Bears](https://open.spotify.com/artist/3ygItx4xOyxkoaAZD9sc19) | [Participation Trophy](https://open.spotify.com/album/6vHzNXHRsDZiVzJTyIZhV2) | 3:33 | 2024-07-12 | 2024-11-09 |
 | [I Could Face A Lonely Summer](https://open.spotify.com/track/5DWfumIEW0dqluidtTU54b) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [I Could Face A Lonely Summer](https://open.spotify.com/album/1axbXbM0tfWNWynOhr9V81) | 2:47 | 2024-07-12 | 2024-08-17 |
 | [I Decline](https://open.spotify.com/track/2ry4AdKcZDYhJfacJx3mdI) | [The Joy Hotel](https://open.spotify.com/artist/2QP5fu7d9SH1sat7LJ7ub4) | [Ceremony](https://open.spotify.com/album/5TS19aOraQH5WFzCV5ynl3) | 5:35 | 2024-07-26 | 2025-01-23 |
+| [I Lied, Amber](https://open.spotify.com/track/3aJShMWzA2RAM7knX50XmG) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [I Lied, Amber](https://open.spotify.com/album/26D33v9Xg1x2UrNQL9gi8p) | 3:31 | 2025-03-22 |  |
 | [I Like What You Bring Out In Me](https://open.spotify.com/track/0zkyVb1LLgDac3MTCfEReQ) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [I Like What You Bring Out In Me](https://open.spotify.com/album/6Fn80et6JctLBXtO8RDJok) | 3:52 | 2024-06-14 | 2024-10-07 |
 | [I Think You Should Know](https://open.spotify.com/track/6EexP0WD9yblWxhrd16Opm) | [Delights](https://open.spotify.com/artist/5QWPjk0d98lRw8sdVkYN0S) | [I Think You Should Know](https://open.spotify.com/album/7Eeoqub4j8Q2M2iDaDupeZ) | 3:37 | 2024-07-26 | 2025-01-23 |
 | [Ice Tea](https://open.spotify.com/track/2WsDpjiSwHsQ5ezjpet8Kt) | [congratulations](https://open.spotify.com/artist/3Zd0jI43rmogm8qVt2QAdq) | [Ice Tea](https://open.spotify.com/album/0kJrHL72kBIvld7dgdr7Xy) | 3:36 | 2024-10-06 | 2025-03-18 |

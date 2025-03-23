@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,556 songs - 2 day 10 hr 31 min
+1,557 songs - 2 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Chillin'](https://open.spotify.com/track/5QasMxBFqYtWjljLCm7SR4) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr), [Chris Cross](https://open.spotify.com/artist/0FbvvGVjcfuHRa6BywhbHn), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Chillin'](https://open.spotify.com/album/2erNlAiEBMmBNE9addE9bK) | 2:28 | 2022-04-08 | 2022-10-15 |
 | [Chilling by the lake](https://open.spotify.com/track/3ZtI3F9EqlIfgDmtdlVJXb) | [Kubuch](https://open.spotify.com/artist/1dSbVVizZlEH0XqcMJ5jJ8), [Adam Dejnarowicz](https://open.spotify.com/artist/7HWiJb3mzF3vnEYs0wIBdJ), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Chilling by the lake](https://open.spotify.com/album/57vXUREWBWEtyRkhDX17SV) | 2:08 | 2022-10-08 | 2023-09-22 |
 | [Chillpill](https://open.spotify.com/track/4WAL1RcMM1MUlSxLntpHjF) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Pysig](https://open.spotify.com/album/0dQVTWnBsV7WJLDQhKow4d) | 2:42 | 2022-12-16 | 2023-11-17 |
-| [chim](https://open.spotify.com/track/5XvMaCt17K5caQwsx8izP3) | [Macem Ly](https://open.spotify.com/artist/73vYL25O91Vg80WBvkEa7K) | [nghỉ ngơi](https://open.spotify.com/album/19PgLS9BeYBBr6yo1SuTrR) | 2:28 | 2023-04-20 |  |
+| [chim](https://open.spotify.com/track/5XvMaCt17K5caQwsx8izP3) | [Macem Ly](https://open.spotify.com/artist/73vYL25O91Vg80WBvkEa7K) | [nghỉ ngơi](https://open.spotify.com/album/19PgLS9BeYBBr6yo1SuTrR) | 2:28 | 2023-04-20 | 2025-03-23 |
 | [Chinatown](https://open.spotify.com/track/4JFEywEZvco1yrUW4UHC36) | [Call Lane](https://open.spotify.com/artist/0AJ4Z8Q5D5OM3llGtJXnXy) | [Capone](https://open.spotify.com/album/2WIJoDYo5qEnNBhwIcY5oQ) | 3:45 | 2022-01-27 | 2022-07-08 |
 | [Chirping Birds](https://open.spotify.com/track/5UQ6gqiN2mmbZJ7VhgGCb3) | [Snooze Operator](https://open.spotify.com/artist/5qtHCB1wotOjSqqexujcbk), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Chirping Birds](https://open.spotify.com/album/2k80liCYDxjaW4KaL2fIY6) | 1:48 | 2023-08-03 | 2024-11-21 |
 | [Chocolate Cosmos](https://open.spotify.com/track/0sl6nQZO7BNqSLcKBVgKJp) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Summer Dusk](https://open.spotify.com/album/3WfgziQVxnrHbwQtFEsqey) | 2:10 | 2024-08-30 | 2024-10-26 |
@@ -308,6 +308,7 @@
 | [damn this car](https://open.spotify.com/track/1ucLWRB9ioHsj5wErSj9pQ) | [Attic Dizzt](https://open.spotify.com/artist/2c2Y1CsnRekoz34yDfyaQI) | [damn this car](https://open.spotify.com/album/4cRZdI8E9i9EVywnR5te67) | 1:55 | 2023-11-24 |  |
 | [Dandys Dream](https://open.spotify.com/track/3BzvqhEYrXURKShUqdKHId) | [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa), [Josh Tarzi](https://open.spotify.com/artist/1gutZI9LT5hRqrgKE20uEl) | [Moontape 02](https://open.spotify.com/album/199UPhNxxHoISxibHPidnY) | 1:51 | 2022-01-27 | 2022-09-17 |
 | [dar um rolê](https://open.spotify.com/track/1UTkUZVFNa2R1UKf9gCjac) | [Kavv](https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE), [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc) | [viagem](https://open.spotify.com/album/0dmM1nzbgKTTKLMMPomXf6) | 1:09 | 2022-07-29 | 2022-10-15 |
+| [Day Trip](https://open.spotify.com/track/1NNPO0JO53BzyPuClzO5lu) | [Gaslamp](https://open.spotify.com/artist/4Iufg5jdqQELqh9fQukPUE) | [Day Trip](https://open.spotify.com/album/3ufFJOy2FVCYzO6MriMgMk) | 1:50 | 2025-03-21 |  |
 | [Daybreak](https://open.spotify.com/track/1j762f5KtqxChgVIQfbo26) | [Gary B](https://open.spotify.com/artist/3j6HqaYmvmWOTF1MH7YTYk) | [Daybreak](https://open.spotify.com/album/3d1t534xCImdyO3rYX2HLF) | 2:05 | 2022-08-12 | 2022-11-12 |
 | [days gone](https://open.spotify.com/track/6Nhb2IfvQoFWQYeob0bO6o) | [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc) | [sanctuary](https://open.spotify.com/album/7FbBDAt6EB609Ibl4p8eDi) | 1:28 | 2022-11-11 | 2023-09-29 |
 | [Dead Forest](https://open.spotify.com/track/2q53veTbDwZuRqFBjkWQ4m) | [ANe\-O](https://open.spotify.com/artist/43vYLABttGx7q5XDXkdKBJ), [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH) | [Fall Frequencies, Vol.3](https://open.spotify.com/album/7p6FTMiHOqTzHmPHn9rxZ8) | 1:36 | 2022-11-11 | 2023-09-29 |

@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e9\u05e7\u05dc \u05d5\u05d2\u05dc\u05e2\u05d3 \u05db\u05d4\u05e0\u05d0 ",
-  "num_followers": 31663,
+  "num_followers": 31670,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
-        "name": "\u05d4\u05db\u05dc\u05d9\u05dd \u05d4\u05e9\u05d1\u05d5\u05e8\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4t1Pp1LizlYPdzk34nVIXk"
-      },
-      "artists": [
-        {
-          "name": "Dudu Tassa",
-          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
-        }
-      ],
-      "duration_ms": 209230,
-      "name": "\u05d4\u05db\u05dc\u05d9\u05dd \u05d4\u05e9\u05d1\u05d5\u05e8\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/2AY7MlJZYGj7gh0XZqRUjD"
-    },
-    {
-      "added_at": "2025-03-20 22:00:07",
-      "album": {
         "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
         "url": "https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 204423,
       "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
       "url": "https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr"
+    },
+    {
+      "added_at": "2025-03-20 22:00:07",
+      "album": {
+        "name": "\u05d4\u05db\u05dc\u05d9\u05dd \u05d4\u05e9\u05d1\u05d5\u05e8\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4t1Pp1LizlYPdzk34nVIXk"
+      },
+      "artists": [
+        {
+          "name": "Dudu Tassa",
+          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
+        }
+      ],
+      "duration_ms": 209230,
+      "name": "\u05d4\u05db\u05dc\u05d9\u05dd \u05d4\u05e9\u05d1\u05d5\u05e8\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/2AY7MlJZYGj7gh0XZqRUjD"
     },
     {
       "added_at": "2025-03-20 22:00:07",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
-        "name": "Caviar",
-        "url": "https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ"
-      },
-      "artists": [
-        {
-          "name": "Moscoman",
-          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
-        }
-      ],
-      "duration_ms": 246040,
-      "name": "Caviar",
-      "url": "https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa"
-    },
-    {
-      "added_at": "2025-03-20 22:00:07",
-      "album": {
         "name": "Hate You Instead",
         "url": "https://open.spotify.com/album/6Cf9d1LVW904lriLs8TNF1"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 181185,
       "name": "Hate You Instead",
       "url": "https://open.spotify.com/track/77AGoCzOrj72qFgQDM0H8D"
+    },
+    {
+      "added_at": "2025-03-20 22:00:07",
+      "album": {
+        "name": "Caviar",
+        "url": "https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ"
+      },
+      "artists": [
+        {
+          "name": "Moscoman",
+          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
+        }
+      ],
+      "duration_ms": 246040,
+      "name": "Caviar",
+      "url": "https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa"
     },
     {
       "added_at": "2025-03-20 22:00:07",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
-        "name": "\u05d0\u05e0\u05d8\u05d9\u05e9\u05d9\u05d9\u05de\u05d9\u05e0\u05d2",
-        "url": "https://open.spotify.com/album/5uMM1xurwe9fMm3DygjZ9P"
-      },
-      "artists": [
-        {
-          "name": "Roy Rieck",
-          "url": "https://open.spotify.com/artist/3BrPNWMlwJ2ZZWSQZksoqI"
-        }
-      ],
-      "duration_ms": 161011,
-      "name": "\u05d0\u05e0\u05d8\u05d9\u05e9\u05d9\u05d9\u05de\u05d9\u05e0\u05d2",
-      "url": "https://open.spotify.com/track/5IoMR30yNAAqk2WL7CrBOu"
-    },
-    {
-      "added_at": "2025-03-20 22:00:07",
-      "album": {
         "name": "\u05dc\u05d0 \u05d6\u05de\u05df \u05d8\u05d5\u05d1",
         "url": "https://open.spotify.com/album/2iNpn8Bzi48aKNFqBuHpxY"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 196914,
       "name": "\u05dc\u05d1\u05d6\u05d1\u05d6 \u05dc\u05da \u05d0\u05ea \u05d4\u05d6\u05de\u05df",
       "url": "https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav"
+    },
+    {
+      "added_at": "2025-03-20 22:00:07",
+      "album": {
+        "name": "\u05d0\u05e0\u05d8\u05d9\u05e9\u05d9\u05d9\u05de\u05d9\u05e0\u05d2",
+        "url": "https://open.spotify.com/album/5uMM1xurwe9fMm3DygjZ9P"
+      },
+      "artists": [
+        {
+          "name": "Roy Rieck",
+          "url": "https://open.spotify.com/artist/3BrPNWMlwJ2ZZWSQZksoqI"
+        }
+      ],
+      "duration_ms": 161011,
+      "name": "\u05d0\u05e0\u05d8\u05d9\u05e9\u05d9\u05d9\u05de\u05d9\u05e0\u05d2",
+      "url": "https://open.spotify.com/track/5IoMR30yNAAqk2WL7CrBOu"
     },
     {
       "added_at": "2025-03-20 22:00:07",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
-        "name": "\u05e2\u05ea \u05dc\u05d0\u05d4\u05d5\u05d1",
-        "url": "https://open.spotify.com/album/2EN0t3s8obVmls1bxVbcHO"
-      },
-      "artists": [
-        {
-          "name": "Dudu Tassa",
-          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
-        }
-      ],
-      "duration_ms": 188987,
-      "name": "\u05e2\u05ea \u05dc\u05d0\u05d4\u05d5\u05d1",
-      "url": "https://open.spotify.com/track/1dK2qSifRQNbHlhgImIstf"
-    },
-    {
-      "added_at": "2025-03-20 22:00:07",
-      "album": {
         "name": "Running Out of Time",
         "url": "https://open.spotify.com/album/2DgobiB87KuMBbLwVkZIMW"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 180661,
       "name": "Running Out of Time",
       "url": "https://open.spotify.com/track/1KUEdMf6Xnzax3U51jQlrE"
+    },
+    {
+      "added_at": "2025-03-20 22:00:07",
+      "album": {
+        "name": "\u05e2\u05ea \u05dc\u05d0\u05d4\u05d5\u05d1",
+        "url": "https://open.spotify.com/album/2EN0t3s8obVmls1bxVbcHO"
+      },
+      "artists": [
+        {
+          "name": "Dudu Tassa",
+          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
+        }
+      ],
+      "duration_ms": 188987,
+      "name": "\u05e2\u05ea \u05dc\u05d0\u05d4\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/1dK2qSifRQNbHlhgImIstf"
     },
     {
       "added_at": "2025-03-20 22:00:07",
@@ -971,6 +971,26 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
+        "name": "\u05e2\u05d5\u05d3 \u05d9\u05d5\u05dd",
+        "url": "https://open.spotify.com/album/3wpkmk4clzSuvw8BivUZEr"
+      },
+      "artists": [
+        {
+          "name": "Daniel Rubin",
+          "url": "https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB"
+        },
+        {
+          "name": "Nir Shlomo",
+          "url": "https://open.spotify.com/artist/5PvWeaRtWZxlLc4RpDI2Ef"
+        }
+      ],
+      "duration_ms": 188896,
+      "name": "\u05e2\u05d5\u05d3 \u05d9\u05d5\u05dd",
+      "url": "https://open.spotify.com/track/3goEVjnKUrmHg4FkwYxQ0i"
+    },
+    {
+      "added_at": "2025-03-20 22:00:07",
+      "album": {
         "name": "\u05de\u05d4 \u05d0\u05de\u05d9\u05ea\u05d9",
         "url": "https://open.spotify.com/album/22fJie47DUFGtk5z09hHpx"
       },
@@ -991,22 +1011,6 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
-        "name": "\u05e0\u05e9\u05de\u05d4",
-        "url": "https://open.spotify.com/album/408gCQoxkQ1tsrYwAKuTRZ"
-      },
-      "artists": [
-        {
-          "name": "Liron Amram",
-          "url": "https://open.spotify.com/artist/0ytNoXYE3P3AAZ8vRjBQzQ"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "\u05e0\u05e9\u05de\u05d4",
-      "url": "https://open.spotify.com/track/4QmYnjokBcfQasuhrzuVT3"
-    },
-    {
-      "added_at": "2025-03-20 22:00:07",
-      "album": {
         "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
         "url": "https://open.spotify.com/album/1nLbe6nNP4Su8AFaH3GWjH"
       },
@@ -1019,26 +1023,6 @@
       "duration_ms": 177000,
       "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
       "url": "https://open.spotify.com/track/2rZH5yjqm3F4QkJEUJ29qX"
-    },
-    {
-      "added_at": "2025-03-20 22:00:07",
-      "album": {
-        "name": "\u05e2\u05d5\u05d3 \u05d9\u05d5\u05dd",
-        "url": "https://open.spotify.com/album/3wpkmk4clzSuvw8BivUZEr"
-      },
-      "artists": [
-        {
-          "name": "Daniel Rubin",
-          "url": "https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB"
-        },
-        {
-          "name": "Nir Shlomo",
-          "url": "https://open.spotify.com/artist/5PvWeaRtWZxlLc4RpDI2Ef"
-        }
-      ],
-      "duration_ms": 188896,
-      "name": "\u05e2\u05d5\u05d3 \u05d9\u05d5\u05dd",
-      "url": "https://open.spotify.com/track/3goEVjnKUrmHg4FkwYxQ0i"
     },
     {
       "added_at": "2025-03-20 22:00:07",
@@ -1075,6 +1059,22 @@
       "duration_ms": 232500,
       "name": "\u05e7\u05d5\u05de\u05d9 \u05d0\u05d5\u05e8\u05d9 Kumi Ori",
       "url": "https://open.spotify.com/track/4i6v0i4BrvbMevPY2Qwh5n"
+    },
+    {
+      "added_at": "2025-03-20 22:00:07",
+      "album": {
+        "name": "\u05e0\u05e9\u05de\u05d4",
+        "url": "https://open.spotify.com/album/408gCQoxkQ1tsrYwAKuTRZ"
+      },
+      "artists": [
+        {
+          "name": "Liron Amram",
+          "url": "https://open.spotify.com/artist/0ytNoXYE3P3AAZ8vRjBQzQ"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "\u05e0\u05e9\u05de\u05d4",
+      "url": "https://open.spotify.com/track/4QmYnjokBcfQasuhrzuVT3"
     },
     {
       "added_at": "2025-03-20 22:00:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\.  Alessandra og Synne Vo!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,302 likes - 99 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,325 likes - 99 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 18 | [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 |
 | 19 | [Keep Møving](https://open.spotify.com/track/01P4zWU44Rsk4XIME4hsTd) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Keep Møving](https://open.spotify.com/album/72kPRMbCSy6mcaz88F2Vzm) | 3:22 |
 | 20 | [The White Light of the Morning](https://open.spotify.com/track/3Nwy93NLDeqRc0Fr1qLnJR) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The White Light of the Morning](https://open.spotify.com/album/4R7dKi1kNH9IZUMs2WXpvT) | 2:58 |
-| 21 | [Baggage](https://open.spotify.com/track/7ecHQaHAgOIiALONzBQv94) | [Lemi](https://open.spotify.com/artist/6z7Xu7QkD7cqJ8brVwtb1c) | [Baggage](https://open.spotify.com/album/2nxheUHi85ANRDPUo9ASCy) | 3:27 |
+| 21 | [Baggage](https://open.spotify.com/track/7ecHQaHAgOIiALONzBQv94) | [Lemi](https://open.spotify.com/artist/6z7Xu7QkD7cqJ8brVwtb1c) | [Baggage](https://open.spotify.com/album/2nxheUHi85ANRDPUo9ASCy) | 3:26 |
 | 22 | [Where Did You Go](https://open.spotify.com/track/2uSzybi2WiQq53sV4YP0L5) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Where Did You Go](https://open.spotify.com/album/22SUak4hVnLacCQKUHjMi0) | 2:12 |
 | 23 | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U) | 4:07 |
 | 24 | [Terrified](https://open.spotify.com/track/50Emba1ptzsajP7aS3TRfY) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [Terrified](https://open.spotify.com/album/0tofZ5bIVEpKo1OIk6W846) | 3:12 |

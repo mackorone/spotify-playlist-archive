@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Genom Natten
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,485 likes - 149 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,529 likes - 149 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

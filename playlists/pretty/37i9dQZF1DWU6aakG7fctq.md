@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: pablopablo
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,869 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,915 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 6 | [No es amor](https://open.spotify.com/track/7HJSDNbNLUVENQjWKwBvW2) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Fuimos los dos](https://open.spotify.com/album/6q9JxhDsrcwQqTk79bqRR8) | 3:13 |
 | 7 | [Ese Vestido](https://open.spotify.com/track/2KYqQJfAEmqOZg1zf3S8GE) | [Baltazar Lora](https://open.spotify.com/artist/1OcU1uVtqF9umURdShNIwP) | [Ese Vestido](https://open.spotify.com/album/72IdlvfcowIWZaBiN14cIp) | 2:53 |
 | 8 | [2020](https://open.spotify.com/track/6TzKMyI4e0JT9tiVNS9v3b) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [2020](https://open.spotify.com/album/3lNiAuo6RZ845kJrwOnQTN) | 3:06 |
-| 9 | [Solo tú](https://open.spotify.com/track/1IrK3tgRNXPazkjOwQHV2O) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM), [DLi](https://open.spotify.com/artist/1a2l2k3fjLbVStGn5GNPnt) | [Solo tú](https://open.spotify.com/album/6YjsJ74itZMbuzqSdcr6aW) | 3:24 |
+| 9 | [Solo tú](https://open.spotify.com/track/1IrK3tgRNXPazkjOwQHV2O) | [DLi](https://open.spotify.com/artist/1a2l2k3fjLbVStGn5GNPnt), [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [Solo tú](https://open.spotify.com/album/6YjsJ74itZMbuzqSdcr6aW) | 3:24 |
 | 10 | [Llévame](https://open.spotify.com/track/4uxTvwFypCgeL7VT7V5NZh) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Llévame](https://open.spotify.com/album/1XweC6MnJea3Pz9jlLImji) | 3:28 |
 | 11 | [Hasta El Fondo](https://open.spotify.com/track/7txAKuxgyFiBAb8EkSOQ2W) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Hasta El Fondo](https://open.spotify.com/album/36sJVQ62R6JUaE98pAnWXR) | 2:20 |
 | 12 | [OREN POR MI](https://open.spotify.com/track/5fZq3nNhV6QZ0aM1qqj7nB) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [OREN POR MI](https://open.spotify.com/album/4pmg91F3zXn02HYTInLHqp) | 2:47 |

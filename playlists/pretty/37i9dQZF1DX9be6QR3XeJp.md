@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: CROOKS INC.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,467 likes - 227 songs - 12 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,466 likes - 227 songs - 12 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1557,6 +1557,32 @@
     },
     {
       "album": {
+        "name": "Dumme boys",
+        "url": "https://open.spotify.com/album/0O2eTl4HjopDXGvtuf66gp"
+      },
+      "artists": [
+        {
+          "name": "Broiler",
+          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+        },
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        },
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159771,
+      "name": "Dumme boys",
+      "url": "https://open.spotify.com/track/6YWKS26a3EjwrAWjTAwFkq"
+    },
+    {
+      "album": {
         "name": "Dyra notor",
         "url": "https://open.spotify.com/album/39Gg9S1NoWi4hppTceMlGL"
       },
@@ -3029,6 +3055,24 @@
     },
     {
       "album": {
+        "name": "KOKAINA",
+        "url": "https://open.spotify.com/album/29cWkOM9MAdPx46D68OAaV"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136036,
+      "name": "KOKAINA",
+      "url": "https://open.spotify.com/track/5ySgnmvgg2Avt9DFWI46pA"
+    },
+    {
+      "album": {
         "name": "Konstn\u00e4rer",
         "url": "https://open.spotify.com/album/4v8mqTXuAn0wc3wVdDORX4"
       },
@@ -4376,7 +4420,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 184583,
       "name": "Put 'Em Up",
       "url": "https://open.spotify.com/track/1djMI5OklSedgWOoazUNVH"
@@ -4804,7 +4848,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 135333,
       "name": "SIPPER",
       "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"

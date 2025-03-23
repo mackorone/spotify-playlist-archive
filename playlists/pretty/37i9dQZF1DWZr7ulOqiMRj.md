@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 
 > <a href="spotify:artist:205i7E8fNVfojowcQSfK9m">Dom Dolla's </a> favourite tracks\. Updated regularly\. Curated by Dom Dolla\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,856 likes - 56 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,887 likes - 56 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 | 17 | [Kilt](https://open.spotify.com/track/2xYGMOnVUO9P62uiYDu4aD) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Bucklyn Bridge EP](https://open.spotify.com/album/6L25aUr2Ntt2pfYfXMcpDp) | 4:47 |
 | 18 | [Spring Girl](https://open.spotify.com/track/03mX4WEpvZPkHmEsd2ZoV8) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Maori](https://open.spotify.com/artist/2GjC0P8uCItsOxEYXtm7kv) | [Spring Girl](https://open.spotify.com/album/2JjG2Nnj87eX9lDnNNNdqP) | 3:48 |
 | 19 | [Skin Deep](https://open.spotify.com/track/1swbHpmgYa7c8e9bTiYFf0) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Skin Deep](https://open.spotify.com/album/4XlAepiKgMlW0MnDi6HKId) | 6:23 |
-| 20 | [Still Riding](https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Still Riding](https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172) | 3:39 |
+| 20 | [Still Riding](https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Still Riding](https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172) | 3:37 |
 | 21 | [Shadow Of Love](https://open.spotify.com/track/5vpWgoN0ekCvFitRUw9cZO) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [Curses](https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1) | [Shadow Of Love](https://open.spotify.com/album/252w3rS0s0z3HoD42MG1fX) | 3:39 |
 | 22 | [Look Ma](https://open.spotify.com/track/6ufm4JYSBsDdTQbpfFovwL) | [Sapian](https://open.spotify.com/artist/4hWjDdwaSTU6SgOk5ZP3GT) | [Look Ma](https://open.spotify.com/album/7Lz4ztKDTf6ith9sTlXkJK) | 5:32 |
 | 23 | [Rakfunk](https://open.spotify.com/track/61wRpg6BRYtTGxWSkWtpUd) | [Pryda](https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt) | [Evouh / Wakanpi / Rakfunk](https://open.spotify.com/album/2zalc1a1ZiKZF2Wp77mtlM) | 5:46 |

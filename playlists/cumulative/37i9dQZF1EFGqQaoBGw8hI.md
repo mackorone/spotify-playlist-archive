@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-644 songs - 1 day 20 hr 52 min
+645 songs - 1 day 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,8 @@
 | [I Guess That's Why They Call It The Blues](https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 4:45 | 2022-09-08 |  |
 | [I Know Why I'm In Love](https://open.spotify.com/track/4jL2oCnnwaM8fGfL74F12R) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:32 | 2023-05-26 |  |
 | [I Loved a Man](https://open.spotify.com/track/5TviDMAuoD2YidbXDVsSqC) | [Cleo Laine](https://open.spotify.com/artist/7GUNyLdzdGxR828EyGvM7k) | [Oldies Selection: Platinum Records, Vol\. 1](https://open.spotify.com/album/53lg5BTeXdPbld9Syj5L6r) | 2:31 | 2023-05-26 | 2024-03-19 |
-| [I Loved A Man \- 2021 DigiMIX ReMaster](https://open.spotify.com/track/6fOop9EP4EY8EsFVK9w75P) | [John Yap](https://open.spotify.com/artist/0xuGKp7sPr1aUIfCFkKC8l), [Patsy Rowlands](https://open.spotify.com/artist/5sleBDZWgccRqPKiynUb7u) | [Valmouth \(Original London Cast\) \[2021 DigiMIX ReMaster\]](https://open.spotify.com/album/6C99OoEO3luYrvq3eA36Su) | 2:32 | 2024-03-19 |  |
+| [I Loved a Man](https://open.spotify.com/track/6V23UiC0r0VO6dmOLKF2hB) | [Patsy Rowlands](https://open.spotify.com/artist/5sleBDZWgccRqPKiynUb7u), [Cleo Laine](https://open.spotify.com/artist/7GUNyLdzdGxR828EyGvM7k) | [Valmouth](https://open.spotify.com/album/0EovFH5pHtN6MxW0OyQkXk) | 2:31 | 2025-03-22 |  |
+| [I Loved A Man \- 2021 DigiMIX ReMaster](https://open.spotify.com/track/6fOop9EP4EY8EsFVK9w75P) | [John Yap](https://open.spotify.com/artist/0xuGKp7sPr1aUIfCFkKC8l), [Patsy Rowlands](https://open.spotify.com/artist/5sleBDZWgccRqPKiynUb7u) | [Valmouth \(Original London Cast\) \[2021 DigiMIX ReMaster\]](https://open.spotify.com/album/6C99OoEO3luYrvq3eA36Su) | 2:32 | 2024-03-19 | 2025-03-23 |
 | [I Loved a Man \- 2021 Remastered Version](https://open.spotify.com/track/1kpmLKRYILl5nBf3wQQBl0) | [Cleo Laine](https://open.spotify.com/artist/7GUNyLdzdGxR828EyGvM7k) | [Vintage Selection: Platinum Records, Vol\. 1 \(2021 Remastered\)](https://open.spotify.com/album/1IonvT12ZeA5bRvNNl7C5m) | 2:31 | 2024-03-18 | 2024-03-20 |
 | [I Meant To Do My Work Today \(A Day In The Country\) \- From “Friends” Soundtrack](https://open.spotify.com/track/4ZjhN087uZotBPLepaJpFI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rare Masters](https://open.spotify.com/album/2ozX7odhzuW1PN1v8dpsxQ) | 1:36 | 2023-05-26 |  |
 | [I Must Have Lost It On The Wind](https://open.spotify.com/track/3HvxAXWaHkbbAzEhJiUDz4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 3:53 | 2022-09-08 |  |

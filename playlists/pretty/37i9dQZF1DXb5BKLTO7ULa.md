@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek van: S10, AFROJACK & Zoë Livay/Snelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,330 likes - 90 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,355 likes - 90 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 19 | [Gouden Tijden](https://open.spotify.com/track/6pInGZA2aN0tRCybM1A310) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Gouden Tijden](https://open.spotify.com/album/52GehE0v1oBFIwXXxYFvYB) | 2:40 |
 | 20 | [Uitkomst](https://open.spotify.com/track/2UWRLNJ6KqbsK6n7sSh1zx) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3) | [Uitkomst](https://open.spotify.com/album/4sjMQuloVw36tNiAyzcxa5) | 2:36 |
 | 21 | [Kiss Kiss Bang](https://open.spotify.com/track/17De5987piqgYQbQdmBghP) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Kiss Kiss Bang](https://open.spotify.com/album/3WdMedDrbNcQKShxzhfK29) | 2:34 |
-| 22 | [Geezer Glamour Danger](https://open.spotify.com/track/5Loha8Qtw1iPFNuHJxeDSR) | [Wodan Boys](https://open.spotify.com/artist/0kmKbibEVmQ4luQqUAHDMr) | [Godspeed A Go Go](https://open.spotify.com/album/5Mynr9acOWEUTmbwo5Q8pX) | 2:42 |
+| 22 | [Geezer Glamour Danger](https://open.spotify.com/track/5Loha8Qtw1iPFNuHJxeDSR) | [Wodan Boys](https://open.spotify.com/artist/0kmKbibEVmQ4luQqUAHDMr) | [Godspeed a Go Go](https://open.spotify.com/album/5Mynr9acOWEUTmbwo5Q8pX) | 2:42 |
 | 23 | [First In Line](https://open.spotify.com/track/0AAik55QhNYlyZFmnSHqKx) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [First In Line](https://open.spotify.com/album/0WxVhhggNEQLa4DuD8oSy6) | 3:06 |
 | 24 | [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 |
 | 25 | [Follows You](https://open.spotify.com/track/5nStHzdHO2GQDRuscRxPJQ) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Follows You](https://open.spotify.com/album/2RSKFTL1S4XwxVxQP8eorN) | 3:26 |

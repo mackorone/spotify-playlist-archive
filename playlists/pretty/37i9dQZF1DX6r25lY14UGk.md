@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: The Wiggles
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,606 likes - 80 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,663 likes - 80 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kitty Rangers](https://open.spotify.com/track/6LqbgViXXf9j2bUzVnmvo1) | [Gabby's Dollhouse](https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j) | [Kitty Rangers](https://open.spotify.com/album/0DZ35zuszkIrmQyK82OWq7) | 0:38 |
-| 2 | [Sugar Shack](https://open.spotify.com/track/2b8FP82vruDAHHyYQwI1Hn) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Sugar Shack](https://open.spotify.com/album/1kOlGKBDLyTt9L4YCypzI7) | 1:24 |
-| 3 | [Keep Trying](https://open.spotify.com/track/4UfXxbrRGHvpvrpwi7duMp) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Lane, Vol\. 4](https://open.spotify.com/album/2bdr0L55l6ydpge7xQIGFT) | 2:04 |
+| 2 | [Sugar Shack \- Sweet Memories](https://open.spotify.com/track/2b8FP82vruDAHHyYQwI1Hn) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Sugar Shack \(Sweet Memories\)](https://open.spotify.com/album/1kOlGKBDLyTt9L4YCypzI7) | 1:24 |
+| 3 | [Keep Trying \- Songs From the Netflix Series](https://open.spotify.com/track/4UfXxbrRGHvpvrpwi7duMp) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Lane, Vol\. 4 \(Songs From the Netflix Series\)](https://open.spotify.com/album/2bdr0L55l6ydpge7xQIGFT) | 2:04 |
 | 4 | [Stop the Excavator!](https://open.spotify.com/track/1zKTVLbYpXpWh6qcvCgwmz) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Super Rescue Team 2](https://open.spotify.com/album/5huH7iRyO1qp6EJhrYDGbX) | 2:39 |
 | 5 | [Count It Up](https://open.spotify.com/track/2O53OjFGz44CRoQcVHedhW) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Count It Up](https://open.spotify.com/album/6sUlpfBLQVil0rG7K7FiNu) | 1:39 |
 | 6 | [Stay on Track with Yourself \- from Stay on Track with Yourself](https://open.spotify.com/track/5elS6CbwjCDpChaFLvY1W3) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Stay on Track with Yourself \(from Stay on Track with Yourself\)](https://open.spotify.com/album/06KiutIA9PtmlxtlAWyFAL) | 2:05 |

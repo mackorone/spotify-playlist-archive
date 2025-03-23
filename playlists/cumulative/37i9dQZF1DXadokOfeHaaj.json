@@ -2007,6 +2007,24 @@
     },
     {
       "album": {
+        "name": "Galt",
+        "url": "https://open.spotify.com/album/23rvvEZD5sNeIV3yvZR2b7"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185433,
+      "name": "Galt",
+      "url": "https://open.spotify.com/track/7j5hpfBlM5TqY3DkXTpGq6"
+    },
+    {
+      "album": {
         "name": "getforward",
         "url": "https://open.spotify.com/album/5j2DVBoeO3YeAPtz9Nyqlg"
       },
@@ -2080,7 +2098,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 205897,
       "name": "Girls",
       "url": "https://open.spotify.com/track/5XWwqKNVlQO07sdngDh8iL"

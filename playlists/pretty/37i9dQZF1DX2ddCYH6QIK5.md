@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: JOSY, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,213 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,215 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 40 | [Rückzug](https://open.spotify.com/track/4GHCTRe3PVn52CVPMajdre) | [KarliWilliams](https://open.spotify.com/artist/0EHOWCosT5tEDvDm4JAkWW) | [Rückzug](https://open.spotify.com/album/6YCT11iSKxJBhDRIlV7hio) | 3:10 |
 | 41 | [Stay](https://open.spotify.com/track/5OwsHfRvFGzVYgwd8UYqUu) | [Kingsize Cavaliers](https://open.spotify.com/artist/1UdB8Rv1lVHszzrTJiDetn) | [Stay](https://open.spotify.com/album/52V5P2Vj9bNAtN7U8RikxQ) | 2:21 |
 | 42 | [Barmann](https://open.spotify.com/track/51WYn9DLQGTyHsaZ9PfDWP) | [paavo](https://open.spotify.com/artist/0vLWZqmk1uGIKoGzuQBQwH) | [Barmann](https://open.spotify.com/album/1WBxeyJeIsGQOZel9ml0ic) | 2:59 |
-| 43 | [Und ich lauf](https://open.spotify.com/track/02580fheyYmwita65q7p4f) | [Diemarcha](https://open.spotify.com/artist/4G46pAcigEr3mgoCxagjhl), [vini baby](https://open.spotify.com/artist/5mHIDxqRLcIu0iL5EG4gzz), [Turnup Tun](https://open.spotify.com/artist/6jaPkL4pNfa4aEDCIEYNP0) | [Und ich lauf](https://open.spotify.com/album/6gWGVl93aFJUX98g4vMPg5) | 3:04 |
+| 43 | [Und ich lauf](https://open.spotify.com/track/02580fheyYmwita65q7p4f) | [Diemarcha](https://open.spotify.com/artist/4G46pAcigEr3mgoCxagjhl), [vini baby](https://open.spotify.com/artist/5mHIDxqRLcIu0iL5EG4gzz), [TUN](https://open.spotify.com/artist/6FjgaqFC2jqck5hiP5zdC0) | [Und ich lauf](https://open.spotify.com/album/6gWGVl93aFJUX98g4vMPg5) | 3:04 |
 | 44 | [besser wenn du gehst](https://open.spotify.com/track/2qCWjtUGmxaJ78mvf2mUlp) | [Luciero](https://open.spotify.com/artist/2z9Hp9J66hI99455C79RLz) | [besser wenn du gehst](https://open.spotify.com/album/6Pjr3L03yq46nmxUZrLdNJ) | 3:16 |
 | 45 | [Let Me](https://open.spotify.com/track/5WO3T0V4TOjFaCk1jJQZZn) | [LAOURA](https://open.spotify.com/artist/3WL9RuDCKPrbcKpfCRe7Np) | [Let Me](https://open.spotify.com/album/4Kwv7Hv9cYhCvDgz1nTP1c) | 3:09 |
 | 46 | [Broken Glass](https://open.spotify.com/track/4n0ZkYwOfq6N2S3L0XDxwj) | [Stina Holmquist](https://open.spotify.com/artist/5PimmrUrpvEgfhh1ZJwmpY) | [Broken Glass](https://open.spotify.com/album/24QYHgBmbCgsJXLv9BmHYz) | 3:39 |

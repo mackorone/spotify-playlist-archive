@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,023 likes - 350 songs - 12 hr 13 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,014 likes - 350 songs - 12 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 49 | [Beneath the Surface](https://open.spotify.com/track/4VXh6mExWBKJXNV38M65qZ) | [Flussgeist](https://open.spotify.com/artist/4fRQXJd11RHk38g7prSuKe) | [Beneath the Surface](https://open.spotify.com/album/6CgeoTtAs0wBb0V2QtJ6g6) | 2:50 |
 | 50 | [Soleil](https://open.spotify.com/track/6wwtC69EslRegghktKKuwX) | [Jmss](https://open.spotify.com/artist/36SBg8t2alILgIBtN5V2Jb) | [Soleil](https://open.spotify.com/album/5NjHYCXFTsBPIr2opLqIAj) | 2:00 |
 | 51 | [Solance](https://open.spotify.com/track/1KWFhIYspwZB7rPlKByKhE) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [Danæ](https://open.spotify.com/artist/0bZJlYfMkcOIjtBCbSvsys) | [Solance](https://open.spotify.com/album/6BKLOS32XhzLJX9wlPLRMv) | 1:56 |
-| 52 | [A Rare Experiment](https://open.spotify.com/track/0Ey7c0Ovfe0PuxwuOw4KTM) | [Dj 113](https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG) | [Shado Beats, Vol\. 2](https://open.spotify.com/album/3JPSvvC8PE3t2TzwdNw7b7) | 2:08 |
+| 52 | [A Rare Experiment](https://open.spotify.com/track/0Ey7c0Ovfe0PuxwuOw4KTM) | [Dj 113](https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG) | [Shadow Beats, Vol\. 2](https://open.spotify.com/album/3JPSvvC8PE3t2TzwdNw7b7) | 2:08 |
 | 53 | [how we feel](https://open.spotify.com/track/3qt1oqvYx1RRUBWmNAjjnv) | [igory](https://open.spotify.com/artist/1TPZvujEmCbb9Yw7QwoTH9), [howupheelin'](https://open.spotify.com/artist/23RWeaDeSVPWEOGogfsQ0i) | [how we feel](https://open.spotify.com/album/6XzG4kURxYNTdiGynbDRBJ) | 1:52 |
 | 54 | [Back Home](https://open.spotify.com/track/37o9LpBTWUqgvnm9vi3urT) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [Back Home](https://open.spotify.com/album/6IqGFgJqoPrZuPO0RHgbr0) | 1:53 |
 | 55 | [Stanley's Theme](https://open.spotify.com/track/3jgHKIgxmaToa2mtfefirQ) | [Nick Wolf](https://open.spotify.com/artist/4j60yxoFJVWkQNs6uaoJms) | [Artifacts, Vol\. 3](https://open.spotify.com/album/2MpAoYqY9vAaOk18ceLmvk) | 0:53 |

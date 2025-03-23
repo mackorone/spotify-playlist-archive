@@ -1,6 +1,6 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. evilgiane, Rojuu",
-  "num_followers": 215452,
+  "num_followers": 215447,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,42 @@
     {
       "added_at": "2025-03-13 23:00:15",
       "album": {
+        "name": "XOBXO",
+        "url": "https://open.spotify.com/album/4A00oi9TwsdeJdHchuId0S"
+      },
+      "artists": [
+        {
+          "name": "Fiah",
+          "url": "https://open.spotify.com/artist/6UKNGNdyAMQo1SepZHMzH5"
+        },
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        }
+      ],
+      "duration_ms": 166518,
+      "name": "XOBXO",
+      "url": "https://open.spotify.com/track/1hLQvd6uhBybEGGRWa4Iml"
+    },
+    {
+      "added_at": "2025-03-13 23:00:15",
+      "album": {
+        "name": "resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/1rucdQzAcVqylG4W1aUyVI"
+      },
+      "artists": [
+        {
+          "name": "Cariatydes",
+          "url": "https://open.spotify.com/artist/21D4leQCTCqoikrOT6V84W"
+        }
+      ],
+      "duration_ms": 125052,
+      "name": "resurrecci\u00f3n",
+      "url": "https://open.spotify.com/track/7ArdDTr4xHyOy9btUb6GTE"
+    },
+    {
+      "added_at": "2025-03-13 23:00:15",
+      "album": {
         "name": "BABASONICO",
         "url": "https://open.spotify.com/album/74rfiKnITSdktvbgqi5Kut"
       },
@@ -459,42 +495,6 @@
       "duration_ms": 106500,
       "name": "BABASONICO",
       "url": "https://open.spotify.com/track/45JcbGAWOaqL8X7DFAMeP3"
-    },
-    {
-      "added_at": "2025-03-13 23:00:15",
-      "album": {
-        "name": "resurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/1rucdQzAcVqylG4W1aUyVI"
-      },
-      "artists": [
-        {
-          "name": "Cariatydes",
-          "url": "https://open.spotify.com/artist/21D4leQCTCqoikrOT6V84W"
-        }
-      ],
-      "duration_ms": 125052,
-      "name": "resurrecci\u00f3n",
-      "url": "https://open.spotify.com/track/7ArdDTr4xHyOy9btUb6GTE"
-    },
-    {
-      "added_at": "2025-03-13 23:00:15",
-      "album": {
-        "name": "XOBXO",
-        "url": "https://open.spotify.com/album/4A00oi9TwsdeJdHchuId0S"
-      },
-      "artists": [
-        {
-          "name": "Fiah",
-          "url": "https://open.spotify.com/artist/6UKNGNdyAMQo1SepZHMzH5"
-        },
-        {
-          "name": "Six Sex",
-          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
-        }
-      ],
-      "duration_ms": 166518,
-      "name": "XOBXO",
-      "url": "https://open.spotify.com/track/1hLQvd6uhBybEGGRWa4Iml"
     },
     {
       "added_at": "2025-03-13 23:00:15",
@@ -927,26 +927,6 @@
     {
       "added_at": "2025-03-13 23:00:15",
       "album": {
-        "name": "Underground",
-        "url": "https://open.spotify.com/album/7zCEq7JmzDrfASAEmVs2Z1"
-      },
-      "artists": [
-        {
-          "name": "Kinara",
-          "url": "https://open.spotify.com/artist/3m3htXTs226gOEiAwiP6hd"
-        },
-        {
-          "name": "nusar3000",
-          "url": "https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex"
-        }
-      ],
-      "duration_ms": 147779,
-      "name": "Underground",
-      "url": "https://open.spotify.com/track/5qDdRsitKx5FE9RadaLAmx"
-    },
-    {
-      "added_at": "2025-03-13 23:00:15",
-      "album": {
         "name": "Fuera de CTRL",
         "url": "https://open.spotify.com/album/5JgmjLXuyWeW1r4BarnIAt"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 157971,
       "name": "Fuera de CTRL",
       "url": "https://open.spotify.com/track/3uM9fKZ84dMCPHA4PW7Xsf"
+    },
+    {
+      "added_at": "2025-03-13 23:00:15",
+      "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/7zCEq7JmzDrfASAEmVs2Z1"
+      },
+      "artists": [
+        {
+          "name": "Kinara",
+          "url": "https://open.spotify.com/artist/3m3htXTs226gOEiAwiP6hd"
+        },
+        {
+          "name": "nusar3000",
+          "url": "https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex"
+        }
+      ],
+      "duration_ms": 147779,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/5qDdRsitKx5FE9RadaLAmx"
     },
     {
       "added_at": "2025-03-13 23:00:15",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2025-03-13 23:00:15",
       "album": {
-        "name": "DUELO",
-        "url": "https://open.spotify.com/album/1mm5h6hkdoSpVLD0N4Scz4"
-      },
-      "artists": [
-        {
-          "name": "d.dram\u00e1tico",
-          "url": "https://open.spotify.com/artist/16r4uM9iMu5Td76JkbzpK3"
-        },
-        {
-          "name": "curtice",
-          "url": "https://open.spotify.com/artist/5Gn6E1VcXkKRGLA5f9yoHq"
-        }
-      ],
-      "duration_ms": 144534,
-      "name": "si pienso en ti,",
-      "url": "https://open.spotify.com/track/6Ki7I3NmZYnqFitxVKQMkg"
-    },
-    {
-      "added_at": "2025-03-13 23:00:15",
-      "album": {
         "name": "HELLO PITI",
         "url": "https://open.spotify.com/album/57qRNanR544Lq3kOxDDl3p"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 143029,
       "name": "HELLO PITI",
       "url": "https://open.spotify.com/track/02qzGFQ2zbuMPPyDXXs6CB"
+    },
+    {
+      "added_at": "2025-03-13 23:00:15",
+      "album": {
+        "name": "DUELO",
+        "url": "https://open.spotify.com/album/1mm5h6hkdoSpVLD0N4Scz4"
+      },
+      "artists": [
+        {
+          "name": "d.dram\u00e1tico",
+          "url": "https://open.spotify.com/artist/16r4uM9iMu5Td76JkbzpK3"
+        },
+        {
+          "name": "curtice",
+          "url": "https://open.spotify.com/artist/5Gn6E1VcXkKRGLA5f9yoHq"
+        }
+      ],
+      "duration_ms": 144534,
+      "name": "si pienso en ti,",
+      "url": "https://open.spotify.com/track/6Ki7I3NmZYnqFitxVKQMkg"
     },
     {
       "added_at": "2025-03-13 23:00:15",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-03-13 23:00:15",
       "album": {
-        "name": "A DIOS LE PIDO",
-        "url": "https://open.spotify.com/album/7nz8Un0CNM4yDJfuivLW9c"
-      },
-      "artists": [
-        {
-          "name": "kepa",
-          "url": "https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT"
-        }
-      ],
-      "duration_ms": 136811,
-      "name": "A DIOS LE PIDO",
-      "url": "https://open.spotify.com/track/0dQPhWLZ1ZnaLtFPXwGAmK"
-    },
-    {
-      "added_at": "2025-03-13 23:00:15",
-      "album": {
         "name": "no es amor",
         "url": "https://open.spotify.com/album/2aCyDAFmmIdy5ipsRIU8Vm"
       },
@@ -1403,22 +1387,38 @@
     {
       "added_at": "2025-03-13 23:00:15",
       "album": {
-        "name": "Toyota Trueno",
-        "url": "https://open.spotify.com/album/1HNBAhOiFPvKuE3ahtquyk"
+        "name": "A DIOS LE PIDO",
+        "url": "https://open.spotify.com/album/7nz8Un0CNM4yDJfuivLW9c"
       },
       "artists": [
         {
-          "name": "Ratchet Racer",
-          "url": "https://open.spotify.com/artist/41YGhblkQx83QlcTseXks5"
-        },
-        {
-          "name": "Skinny Local",
-          "url": "https://open.spotify.com/artist/2Qqm503Ng7iC2dMxEobQa1"
+          "name": "kepa",
+          "url": "https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT"
         }
       ],
-      "duration_ms": 197333,
-      "name": "Toyota Trueno",
-      "url": "https://open.spotify.com/track/6BtwJTet6TnhAacfpGc1Qz"
+      "duration_ms": 136811,
+      "name": "A DIOS LE PIDO",
+      "url": "https://open.spotify.com/track/0dQPhWLZ1ZnaLtFPXwGAmK"
+    },
+    {
+      "added_at": "2025-03-13 23:00:15",
+      "album": {
+        "name": "BOLLO",
+        "url": "https://open.spotify.com/album/5fRhTNq6p6VuqvRiOVGg5H"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fierro",
+          "url": "https://open.spotify.com/artist/7dSDlFGsCZUOOzspM3YnrY"
+        },
+        {
+          "name": "Chimbobeats",
+          "url": "https://open.spotify.com/artist/3EHWoHic7407xJBJOyKTwl"
+        }
+      ],
+      "duration_ms": 128884,
+      "name": "BOLLO",
+      "url": "https://open.spotify.com/track/4QrWf9E9GU8QXri08OlF43"
     },
     {
       "added_at": "2025-03-13 23:00:15",
@@ -1447,22 +1447,22 @@
     {
       "added_at": "2025-03-13 23:00:15",
       "album": {
-        "name": "BOLLO",
-        "url": "https://open.spotify.com/album/5fRhTNq6p6VuqvRiOVGg5H"
+        "name": "Toyota Trueno",
+        "url": "https://open.spotify.com/album/1HNBAhOiFPvKuE3ahtquyk"
       },
       "artists": [
         {
-          "name": "Alejandro Fierro",
-          "url": "https://open.spotify.com/artist/7dSDlFGsCZUOOzspM3YnrY"
+          "name": "Ratchet Racer",
+          "url": "https://open.spotify.com/artist/41YGhblkQx83QlcTseXks5"
         },
         {
-          "name": "Chimbobeats",
-          "url": "https://open.spotify.com/artist/3EHWoHic7407xJBJOyKTwl"
+          "name": "Skinny Local",
+          "url": "https://open.spotify.com/artist/2Qqm503Ng7iC2dMxEobQa1"
         }
       ],
-      "duration_ms": 128884,
-      "name": "BOLLO",
-      "url": "https://open.spotify.com/track/4QrWf9E9GU8QXri08OlF43"
+      "duration_ms": 197333,
+      "name": "Toyota Trueno",
+      "url": "https://open.spotify.com/track/6BtwJTet6TnhAacfpGc1Qz"
     },
     {
       "added_at": "2025-03-13 23:00:15",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-03-13 23:00:15",
       "album": {
-        "name": "DESNUDO X DAIGUAL",
-        "url": "https://open.spotify.com/album/5VqJmKc8IyvvSWHTJs5h9M"
-      },
-      "artists": [
-        {
-          "name": "VALENTINO",
-          "url": "https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0"
-        }
-      ],
-      "duration_ms": 155571,
-      "name": "DESNUDO",
-      "url": "https://open.spotify.com/track/0i7TORs3qf9QMMc5fLYFID"
-    },
-    {
-      "added_at": "2025-03-13 23:00:15",
-      "album": {
         "name": "Plastic Boy",
         "url": "https://open.spotify.com/album/5F8aJ3lhsPr5amUergNIyH"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 170000,
       "name": "T\u00fa y Yo",
       "url": "https://open.spotify.com/track/3FxpV85lJ3HeVSqrwRhcsm"
+    },
+    {
+      "added_at": "2025-03-13 23:00:15",
+      "album": {
+        "name": "DESNUDO X DAIGUAL",
+        "url": "https://open.spotify.com/album/5VqJmKc8IyvvSWHTJs5h9M"
+      },
+      "artists": [
+        {
+          "name": "VALENTINO",
+          "url": "https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0"
+        }
+      ],
+      "duration_ms": 155571,
+      "name": "DESNUDO",
+      "url": "https://open.spotify.com/track/0i7TORs3qf9QMMc5fLYFID"
     },
     {
       "added_at": "2025-03-13 23:00:15",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-03-13 23:00:15",
       "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG"
-      },
-      "artists": [
-        {
-          "name": "La Maurette",
-          "url": "https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI"
-        }
-      ],
-      "duration_ms": 124478,
-      "name": "L\u00edmites",
-      "url": "https://open.spotify.com/track/2egTsRXVrEZ9te3TPtqSfh"
-    },
-    {
-      "added_at": "2025-03-13 23:00:15",
-      "album": {
         "name": "AERIAL DISPLAY",
         "url": "https://open.spotify.com/album/5zcFR9B9NWmrW9jwX3Fy1G"
       },
@@ -1643,22 +1627,34 @@
     {
       "added_at": "2025-03-13 23:00:15",
       "album": {
-        "name": "MIRALMA",
-        "url": "https://open.spotify.com/album/5j0cJFF441FUTber2yHPNd"
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG"
       },
       "artists": [
         {
-          "name": "IMX X.",
-          "url": "https://open.spotify.com/artist/2qyy7vFRe9aa0n42yj90cU"
-        },
-        {
-          "name": "Dewuhu",
-          "url": "https://open.spotify.com/artist/4MPRAryWGdmb9H6bt3xYBe"
+          "name": "La Maurette",
+          "url": "https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI"
         }
       ],
-      "duration_ms": 136603,
-      "name": "SOUL EATER",
-      "url": "https://open.spotify.com/track/2anPSraAkJepJDDAaJgQTP"
+      "duration_ms": 124478,
+      "name": "L\u00edmites",
+      "url": "https://open.spotify.com/track/2egTsRXVrEZ9te3TPtqSfh"
+    },
+    {
+      "added_at": "2025-03-13 23:00:15",
+      "album": {
+        "name": "Ritmo de las Sombras",
+        "url": "https://open.spotify.com/album/4CxzecHaBywqb2WnxmI7JN"
+      },
+      "artists": [
+        {
+          "name": "fuchi",
+          "url": "https://open.spotify.com/artist/2RoM55NaaJktLPzgcPNGHE"
+        }
+      ],
+      "duration_ms": 150103,
+      "name": "Ritmo de las Sombras",
+      "url": "https://open.spotify.com/track/0kx0duTN0GMWSlX5iwgder"
     },
     {
       "added_at": "2025-03-13 23:00:15",
@@ -1735,18 +1731,22 @@
     {
       "added_at": "2025-03-13 23:00:15",
       "album": {
-        "name": "Ritmo de las Sombras",
-        "url": "https://open.spotify.com/album/4CxzecHaBywqb2WnxmI7JN"
+        "name": "MIRALMA",
+        "url": "https://open.spotify.com/album/5j0cJFF441FUTber2yHPNd"
       },
       "artists": [
         {
-          "name": "fuchi",
-          "url": "https://open.spotify.com/artist/2RoM55NaaJktLPzgcPNGHE"
+          "name": "IMX X.",
+          "url": "https://open.spotify.com/artist/2qyy7vFRe9aa0n42yj90cU"
+        },
+        {
+          "name": "Dewuhu",
+          "url": "https://open.spotify.com/artist/4MPRAryWGdmb9H6bt3xYBe"
         }
       ],
-      "duration_ms": 150103,
-      "name": "Ritmo de las Sombras",
-      "url": "https://open.spotify.com/track/0kx0duTN0GMWSlX5iwgder"
+      "duration_ms": 136603,
+      "name": "SOUL EATER",
+      "url": "https://open.spotify.com/track/2anPSraAkJepJDDAaJgQTP"
     },
     {
       "added_at": "2025-03-13 23:00:15",
@@ -1763,6 +1763,22 @@
       "duration_ms": 140571,
       "name": "Flexin en el Punto",
       "url": "https://open.spotify.com/track/1r4pOtGkvIPFtIY6ew2CHH"
+    },
+    {
+      "added_at": "2025-03-13 23:00:15",
+      "album": {
+        "name": "TarTa\u0295\u2022\u0301\u1d25\u2022\u0300\u0294\u3063\u2661",
+        "url": "https://open.spotify.com/album/6FsOUyivQMn59nLj2fgvt5"
+      },
+      "artists": [
+        {
+          "name": "NENU",
+          "url": "https://open.spotify.com/artist/3WbLhFZjEEcfOeyNcn9o9C"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "TarTa\u0295\u2022\u0301\u1d25\u2022\u0300\u0294\u3063\u2661",
+      "url": "https://open.spotify.com/track/7BibG3KHtgrznnBbL4uq41"
     },
     {
       "added_at": "2025-03-13 23:00:15",
@@ -1819,38 +1835,6 @@
     {
       "added_at": "2025-03-13 23:00:15",
       "album": {
-        "name": "TarTa\u0295\u2022\u0301\u1d25\u2022\u0300\u0294\u3063\u2661",
-        "url": "https://open.spotify.com/album/6FsOUyivQMn59nLj2fgvt5"
-      },
-      "artists": [
-        {
-          "name": "NENU",
-          "url": "https://open.spotify.com/artist/3WbLhFZjEEcfOeyNcn9o9C"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "TarTa\u0295\u2022\u0301\u1d25\u2022\u0300\u0294\u3063\u2661",
-      "url": "https://open.spotify.com/track/7BibG3KHtgrznnBbL4uq41"
-    },
-    {
-      "added_at": "2025-03-13 23:00:15",
-      "album": {
-        "name": "Tantas Maneras de Morir",
-        "url": "https://open.spotify.com/album/2wd82K5p6RB5v9QAzB3SfH"
-      },
-      "artists": [
-        {
-          "name": "Soullv",
-          "url": "https://open.spotify.com/artist/1dQSvcgeVWQpSznO8jI27D"
-        }
-      ],
-      "duration_ms": 119183,
-      "name": "Tantas Maneras de Morir",
-      "url": "https://open.spotify.com/track/0BEbMqn94Myy0Zq4Bi9mOw"
-    },
-    {
-      "added_at": "2025-03-13 23:00:15",
-      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/5XU0GCVgw9iVdmcY4An5jQ"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 143534,
       "name": "Trapboi",
       "url": "https://open.spotify.com/track/0MLLCp68Wz4IhFPSy4eAZd"
+    },
+    {
+      "added_at": "2025-03-13 23:00:15",
+      "album": {
+        "name": "Tantas Maneras de Morir",
+        "url": "https://open.spotify.com/album/2wd82K5p6RB5v9QAzB3SfH"
+      },
+      "artists": [
+        {
+          "name": "Soullv",
+          "url": "https://open.spotify.com/artist/1dQSvcgeVWQpSznO8jI27D"
+        }
+      ],
+      "duration_ms": 119183,
+      "name": "Tantas Maneras de Morir",
+      "url": "https://open.spotify.com/track/0BEbMqn94Myy0Zq4Bi9mOw"
     }
   ],
   "unique_name": "helium",

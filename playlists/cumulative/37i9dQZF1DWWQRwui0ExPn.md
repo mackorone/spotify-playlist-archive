@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,276 songs - 11 day 11 hr 34 min
+7,278 songs - 11 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,6 +483,7 @@
 | [Azul](https://open.spotify.com/track/3shwwjqqfOs4HqHIivQQK6) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj), [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm) | [Azul](https://open.spotify.com/album/4xDZEz4eWKipMgUjhRYIwM) | 2:09 | 2023-02-07 | 2023-03-25 |
 | [Azul](https://open.spotify.com/track/0fK1zhjRHxXPaJuFDqxCDe) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Azul](https://open.spotify.com/album/05iBUKB5WejZhKGx3ahsKc) | 3:14 | 2023-10-20 | 2023-11-11 |
 | [Azumi III](https://open.spotify.com/track/4NEWnLEmGUhUR2hho2ompn) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU) | [Azumi III](https://open.spotify.com/album/6QLt9ZlCCP1Z6m9W3sZYn0) | 2:00 | 2022-07-08 | 2022-10-21 |
+| [Azur](https://open.spotify.com/track/5AqSgIRnhgcnd1MORbQCmN) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Azur](https://open.spotify.com/album/0MfHkNlb8B9K6dRYJmeOfs) | 2:05 | 2025-03-21 |  |
 | [Azure](https://open.spotify.com/track/0ohfiE8ypxbQKtxHScV9wV) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Azure](https://open.spotify.com/album/61uqCryeJEYveSgmSsNZHU) | 2:05 | 2021-12-03 | 2022-06-17 |
 | [B U M M E R](https://open.spotify.com/track/5vZ1DfRwPTjss87r1FMMCH) | [Chkody](https://open.spotify.com/artist/0lpmaOMQwbE7m9MOQjBQuU) | [B U M M E R](https://open.spotify.com/album/7368NXwgP3r1uEYENAJgF9) | 2:37 | 2020-10-01 | 2021-10-20 |
 | [B.O.B.O](https://open.spotify.com/track/4w7myQXkKXXGASKa9wQAri) | [Estelas](https://open.spotify.com/artist/2fVSVXAO5UftuzBca9SZQ6) | [B.O.B.O](https://open.spotify.com/album/5Jt2hPVNvcrNuMfz2I3wFQ) | 2:24 | 2023-01-13 | 2023-04-21 |
@@ -3802,7 +3803,7 @@
 | [Machines](https://open.spotify.com/track/5LD9Kx8SmFL4yToNIbQ0ty) | [Cyber Bloom](https://open.spotify.com/artist/3zeayfTUAD4ekNKbjFmRA7) | [Machines](https://open.spotify.com/album/585g5BfKMv4XNcBYbSukzD) | 2:00 | 2023-10-13 |  |
 | [Mad Hatters](https://open.spotify.com/track/65y6tOf0C8XFuQE6bpPZzL) | [You're Good](https://open.spotify.com/artist/1fSUA9tPyGkQ2QLYCowDbR) | [Mad Hatters](https://open.spotify.com/album/3GFII7Mju4dJPaMhEGvTFi) | 2:18 | 2022-12-09 | 2024-04-27 |
 | [Made For This](https://open.spotify.com/track/6XyflmtiDVAlaEkrTJCMLE) | [Hand Made](https://open.spotify.com/artist/5sWOIwfXsjzxjU31XYCsmU) | [Made For This](https://open.spotify.com/album/3MiifWyhE5ImnvyAEuwGgl) | 2:02 | 2022-02-25 | 2022-09-30 |
-| [made sense](https://open.spotify.com/track/1yWjyWbRqihZH5JABtkfcy) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [made sense](https://open.spotify.com/album/1oCcIComeA7TzX4oyler84) | 2:54 | 2024-01-26 |  |
+| [made sense](https://open.spotify.com/track/1yWjyWbRqihZH5JABtkfcy) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [made sense](https://open.spotify.com/album/1oCcIComeA7TzX4oyler84) | 2:54 | 2024-01-26 | 2025-03-23 |
 | [Mages Sages \- Instrumental](https://open.spotify.com/track/5HnYzkqcv0B5nt9Kc5tmOZ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Mages Sages](https://open.spotify.com/album/30Paxf6YPOmz00ssJpKqtz) | 2:16 | 2021-10-26 | 2022-05-27 |
 | [Magic Animal](https://open.spotify.com/track/27ba4wpnwoZ40XSIYAfXMd) | [Mr OCB](https://open.spotify.com/artist/1RorScxoqHkBchQcufPdTl) | [Black Rose](https://open.spotify.com/album/56lnsrJ7Sjmoxg3UfEOGr5) | 2:14 | 2021-10-20 | 2022-04-15 |
 | [Magic Ears](https://open.spotify.com/track/01zns8ZvqSLL3gDvDiagZD) | [Tissi](https://open.spotify.com/artist/0CclfuKlauSteXglcwfyE6) | [Blueland](https://open.spotify.com/album/5wrD53vmzE4Np6UCTgBybm) | 2:00 | 2020-10-28 | 2021-10-20 |
@@ -5614,6 +5615,7 @@
 | [Sleepless](https://open.spotify.com/track/1126v92smrndMgtQn6mEVX) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Sleepless](https://open.spotify.com/album/56W3oXucVMMwYJ0ZWEBxjc) | 1:52 | 2019-12-22 | 2020-11-19 |
 | [sleepless in aberdeen](https://open.spotify.com/track/0RBiZh2uu2SzMQwuHj84Fh) | [flat.moon.society](https://open.spotify.com/artist/0OLMAT464ApMM9yAi03xdb) | [sleepless in aberdeen](https://open.spotify.com/album/72vdVVwbM3l9akIriqikLf) | 2:44 | 2022-05-27 | 2022-09-16 |
 | [Sleepless in Tromsø](https://open.spotify.com/track/66nhVvuFtLzktRPg6O3qjE) | [Lovers Hifi](https://open.spotify.com/artist/6N2rWeJGrU9be5JfLaaT6z), [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3) | [Sleepless in Tromsø](https://open.spotify.com/album/6elD2r7SVhpETT8DNjrLQq) | 2:39 | 2023-01-20 | 2023-05-19 |
+| [Sleepless Nostalgia](https://open.spotify.com/track/5BLkWFjzHWcdLb822MtiHk) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [Sleepless Nostalgia](https://open.spotify.com/album/1UMbD2w6ReXXlEptz1djbN) | 2:11 | 2025-03-21 |  |
 | [sleeptight](https://open.spotify.com/track/1KUxjhKvwjYdbA9VRRWEJP) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [sleeptight](https://open.spotify.com/album/038JzagVkrg0Ffho6usJUo) | 2:26 | 2021-09-04 | 2022-04-08 |
 | [Sleepwalk Rework](https://open.spotify.com/track/6YfjhPykCedcc6KbRBNH2L) | [Seaspray](https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO) | [Sleepwalk Rework](https://open.spotify.com/album/3lLYSGWBXDV2qVASmt6AIE) | 1:46 | 2023-06-07 | 2023-09-04 |
 | [Sleepwalker](https://open.spotify.com/track/4EeLLzkXEADfwvi5TcAbRD) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Smooth Lookin'](https://open.spotify.com/album/7f9p1yvlEo5FdIWXD5Pf6o) | 2:32 | 2019-05-28 | 2021-07-04 |
@@ -6399,7 +6401,7 @@
 | [The Sauce](https://open.spotify.com/track/0PIHjdQss2Do1UG2ubmVs8) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [The Sauce](https://open.spotify.com/album/7zDpGxZC4j2UlflqNDapC7) | 2:00 | 2024-08-23 |  |
 | [The Seeds](https://open.spotify.com/track/1TsvOEeHM7Pd4jWtyISFGe) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [Birdhouse](https://open.spotify.com/artist/11zGB8oYC4ptf3tCPpECRA) | [The Seeds](https://open.spotify.com/album/6uUw716nJhQ8w1ySVW41nd) | 1:52 | 2021-06-04 | 2022-01-14 |
 | [The Signature](https://open.spotify.com/track/769dQJ77NN4JnrSARfocOQ) | [Boozoo Bajou](https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3) | [The Signature](https://open.spotify.com/album/5CgptwVOY11GSLYgj78CPa) | 2:32 | 2022-12-09 | 2023-03-25 |
-| [The Snake](https://open.spotify.com/track/0lIHz63qelEXD9DALn5Qv6) | [Little Smokey](https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4) | [The Snake](https://open.spotify.com/album/5RyZDHHECNTeKIKMzaOyBi) | 2:08 | 2023-11-10 |  |
+| [The Snake](https://open.spotify.com/track/0lIHz63qelEXD9DALn5Qv6) | [Little Smokey](https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4) | [The Snake](https://open.spotify.com/album/5RyZDHHECNTeKIKMzaOyBi) | 2:08 | 2023-11-10 | 2025-03-23 |
 | [The Sound](https://open.spotify.com/track/1CXwKjuNFTBD8BOWqVsPvq) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [The Sound](https://open.spotify.com/album/1bV3NuVkjjSy250MdSQjry) | 2:11 | 2021-01-05 | 2021-02-17 |
 | [The Spreadsheet](https://open.spotify.com/track/0NNbu5r01UaqvlZNNb7VGe) | [Me And Reed](https://open.spotify.com/artist/0pw9LkajPzbg25dq4pT2yW), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [The Spreadsheet](https://open.spotify.com/album/58ot9dGVNkok5TvBnZxGMB) | 2:51 | 2020-04-15 | 2021-08-28 |
 | [The Stairs](https://open.spotify.com/track/3yVrlNgzTmogI6sNLMNdX6) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [The Stairs](https://open.spotify.com/album/4uvoXG3m5FpcJpms7oyLwO) | 2:01 | 2022-03-19 | 2022-08-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5kgu17cbcC.md) - [plain]
 
 > Music from shows and movies you love including O'DESSA, now streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,475 likes - 109 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,464 likes - 109 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

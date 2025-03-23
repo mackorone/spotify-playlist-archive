@@ -268,7 +268,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": null,
       "duration_ms": 172866,
       "name": "Big Boy Blues",
       "url": "https://open.spotify.com/track/6APKfwJwXbYhUHwILKovvP"
@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-12",
+      "date_removed": null,
       "duration_ms": 167367,
       "name": "Deep Moaning Blues (Take 2)",
       "url": "https://open.spotify.com/track/46XLxe3VhYFyQ7ZSsEpR05"
@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 182602,
       "name": "Farewell Daddy Blues",
       "url": "https://open.spotify.com/track/4Z1u9GjegmxbnxMByl1BnC"
@@ -1810,6 +1810,24 @@
       "duration_ms": 184800,
       "name": "Ice Bag Papa",
       "url": "https://open.spotify.com/track/4JVWUOmnVbC2vxfAjeYjaI"
+    },
+    {
+      "album": {
+        "name": "1923-1928",
+        "url": "https://open.spotify.com/album/56TbeHHXaH1pryBL06lOZC"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2025-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188306,
+      "name": "Ice Bag Papa",
+      "url": "https://open.spotify.com/track/72sHtojwAf8gfrhgVc5hSm"
     },
     {
       "album": {
@@ -2800,7 +2818,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 200546,
       "name": "No Easy Rider Blues",
       "url": "https://open.spotify.com/track/6KWm6sGq9Fn8e4RyW9s8Hg"
@@ -3826,7 +3844,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 167471,
       "name": "Traveling Blues",
       "url": "https://open.spotify.com/track/4Pcxzk9sLRQ6gAd6RuTV3t"

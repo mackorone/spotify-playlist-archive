@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 39082,
+  "num_followers": 39102,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,42 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Strictly Tiefschwarz (DJ Edition - Unmixed)",
+        "url": "https://open.spotify.com/album/4ycWyBEFfltLZc0pvk7Kud"
+      },
+      "artists": [
+        {
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        }
+      ],
+      "duration_ms": 390560,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/5u27DT78hXMPlIfprPHGH9"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Keep On Jumpin' (feat. Chazzie)",
+        "url": "https://open.spotify.com/album/0n0Y0D181bMgshtIJe4Qkd"
+      },
+      "artists": [
+        {
+          "name": "Beatboxx",
+          "url": "https://open.spotify.com/artist/3eCbjMCl079pmtW3KaoxLs"
+        },
+        {
+          "name": "Chazzie",
+          "url": "https://open.spotify.com/artist/2l8Sszon3yQDStEHxwXFtV"
+        }
+      ],
+      "duration_ms": 381076,
+      "name": "Keep On Jumpin' (feat. Chazzie) - Egotrip Mix",
+      "url": "https://open.spotify.com/track/290S0NJujegLGdyqhoNpbb"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Rise From Your Grave",
         "url": "https://open.spotify.com/album/6exgN10NgqEqQkn893XG2e"
       },
@@ -199,42 +235,6 @@
       "duration_ms": 364347,
       "name": "Carnival '95 - Pride Vocal Mix",
       "url": "https://open.spotify.com/track/66ktG3wneUTNWw8Byg1p88"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Strictly Tiefschwarz (DJ Edition - Unmixed)",
-        "url": "https://open.spotify.com/album/4ycWyBEFfltLZc0pvk7Kud"
-      },
-      "artists": [
-        {
-          "name": "Hardrive",
-          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
-        }
-      ],
-      "duration_ms": 390560,
-      "name": "Deep Inside",
-      "url": "https://open.spotify.com/track/5u27DT78hXMPlIfprPHGH9"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Keep On Jumpin' (feat. Chazzie)",
-        "url": "https://open.spotify.com/album/0n0Y0D181bMgshtIJe4Qkd"
-      },
-      "artists": [
-        {
-          "name": "Beatboxx",
-          "url": "https://open.spotify.com/artist/3eCbjMCl079pmtW3KaoxLs"
-        },
-        {
-          "name": "Chazzie",
-          "url": "https://open.spotify.com/artist/2l8Sszon3yQDStEHxwXFtV"
-        }
-      ],
-      "duration_ms": 381076,
-      "name": "Keep On Jumpin' (feat. Chazzie) - Egotrip Mix",
-      "url": "https://open.spotify.com/track/290S0NJujegLGdyqhoNpbb"
     },
     {
       "added_at": "2022-03-03 13:59:16",

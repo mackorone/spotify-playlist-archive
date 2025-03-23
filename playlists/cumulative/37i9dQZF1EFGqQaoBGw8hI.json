@@ -4729,6 +4729,28 @@
     },
     {
       "album": {
+        "name": "Valmouth",
+        "url": "https://open.spotify.com/album/0EovFH5pHtN6MxW0OyQkXk"
+      },
+      "artists": [
+        {
+          "name": "Patsy Rowlands",
+          "url": "https://open.spotify.com/artist/5sleBDZWgccRqPKiynUb7u"
+        },
+        {
+          "name": "Cleo Laine",
+          "url": "https://open.spotify.com/artist/7GUNyLdzdGxR828EyGvM7k"
+        }
+      ],
+      "date_added": "2025-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151600,
+      "name": "I Loved a Man",
+      "url": "https://open.spotify.com/track/6V23UiC0r0VO6dmOLKF2hB"
+    },
+    {
+      "album": {
         "name": "Valmouth (Original London Cast) [2021 DigiMIX ReMaster]",
         "url": "https://open.spotify.com/album/6C99OoEO3luYrvq3eA36Su"
       },
@@ -4744,7 +4766,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 152706,
       "name": "I Loved A Man - 2021 DigiMIX ReMaster",
       "url": "https://open.spotify.com/track/6fOop9EP4EY8EsFVK9w75P"

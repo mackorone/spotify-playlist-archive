@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YCtenpeKiJ.md) - [plain]
 
 > The most scary soundscapes to soundtrack your Halloween..
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,672 likes - 134 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,668 likes - 134 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,7 +140,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YCtenpeKiJ.md) - [plain]
 | 130 | [Demons](https://open.spotify.com/track/3oIw9W82yFLaJCWPt3gXK7) | [Loki's Halloween Party](https://open.spotify.com/artist/4SG26puQwT0e1WAalDKwEW) | [Halloween Sounds Of Horror \- Scary Music And Scream Sounds](https://open.spotify.com/album/1ZfuLXDpq75vgawXDn2FIy) | 5:28 |
 | 131 | [Creepy Sound Effects](https://open.spotify.com/track/0V6AWdzHvxHZLM7MBjiGDg) | [Scary Sounds](https://open.spotify.com/artist/1sqFEBIRgEhSl4ZDwIAQ1w), [Halloween Party Kids](https://open.spotify.com/artist/1NCqK1WYld3qxWcIJDPnck) | [Fröhliches Halloween \- Gruselige Soundeffekte, Halloween\-Party, Zombie, Wölfe, Gruselige Musik](https://open.spotify.com/album/5n0hEtY3wctwtKYxaLqLN2) | 4:44 |
 | 132 | [End of Days](https://open.spotify.com/track/3pWpzAVsALDaSgd1WIFdq6) | [Scary Sounds](https://open.spotify.com/artist/1sqFEBIRgEhSl4ZDwIAQ1w), [Halloween Masters](https://open.spotify.com/artist/5RB7kW5UrAcAd3UY3JCk7e), [Halloween Party Songs](https://open.spotify.com/artist/5db6yuhnaAK7IJTPXck524) | [Cold and Windy Halloween Tracks to Cause Dread](https://open.spotify.com/album/4Tj0qN41RwWBmeNiAXGQHV) | 2:13 |
-| 133 | [Scary Sounds \(Horror Voices\)](https://open.spotify.com/track/25BpcpJyiiCFybp7IUdFsc) | [Halloween Masters](https://open.spotify.com/artist/5RB7kW5UrAcAd3UY3JCk7e) | [The Great Terror \- Halloween Music and Frightening Sounds: Zombie Effects, Vampire Music, Ghost Sounds](https://open.spotify.com/album/2oR2vaHf1wBcNN4wqpjZ1x) | 4:09 |
+| 133 | [Scary Sounds \(Horror Voices\)](https://open.spotify.com/track/25BpcpJyiiCFybp7IUdFsc) | [Halloween Tribe](https://open.spotify.com/artist/7xEVsRcvmUCqd6Y97jwpzw) | [The Great Terror \- Halloween Music and Frightening Sounds: Zombie Effects](https://open.spotify.com/album/2oR2vaHf1wBcNN4wqpjZ1x) | 4:09 |
 | 134 | [Bubbling Voices](https://open.spotify.com/track/33B72NuM2GAsq6k09N1KyB) | [Spooky Halloween Sounds](https://open.spotify.com/artist/6Dmi92a5cnv8DcFoUhK56Y), [Horror Music Collection](https://open.spotify.com/artist/4PhTHcrcuHr6kihYKkYzxe) | [Halloween Hits – Vol\. 1, Spooktacular Hits Only!](https://open.spotify.com/album/7EtnX5JBfhzhGE6qBuv5t5) | 3:56 |
 
 Snapshot ID: `Z5eljQAAAACn1qnEGjgW8PvoVAgL4XLU`

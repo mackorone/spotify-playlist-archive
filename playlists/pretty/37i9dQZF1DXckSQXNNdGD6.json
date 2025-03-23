@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: MARLENA.",
-  "num_followers": 19793,
+  "num_followers": 19796,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -399,8 +399,8 @@
     {
       "added_at": "2025-03-04 23:00:15",
       "album": {
-        "name": "Vida Quemada",
-        "url": "https://open.spotify.com/album/42DTEPGjOaYsXlUtG0lYP9"
+        "name": "La Eternidad",
+        "url": "https://open.spotify.com/album/6m9rWwWLMuTatgqfNrsPSr"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
         }
       ],
-      "duration_ms": 181002,
-      "name": "Vida Quemada",
-      "url": "https://open.spotify.com/track/3VdYBYLvXzvyfFol1Fxz0h"
+      "duration_ms": 225461,
+      "name": "La Eternidad",
+      "url": "https://open.spotify.com/track/1RSDkkGBXP1EGuhvZBf2BF"
     },
     {
       "added_at": "2025-03-04 23:00:15",
@@ -551,8 +551,8 @@
     {
       "added_at": "2025-03-04 23:00:15",
       "album": {
-        "name": "La Eternidad",
-        "url": "https://open.spotify.com/album/6m9rWwWLMuTatgqfNrsPSr"
+        "name": "Vida Quemada",
+        "url": "https://open.spotify.com/album/42DTEPGjOaYsXlUtG0lYP9"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
         }
       ],
-      "duration_ms": 225461,
-      "name": "La Eternidad",
-      "url": "https://open.spotify.com/track/1RSDkkGBXP1EGuhvZBf2BF"
+      "duration_ms": 181002,
+      "name": "Vida Quemada",
+      "url": "https://open.spotify.com/track/3VdYBYLvXzvyfFol1Fxz0h"
     },
     {
       "added_at": "2025-03-04 23:00:15",
@@ -631,34 +631,6 @@
     {
       "added_at": "2025-03-04 23:00:15",
       "album": {
-        "name": "Fumo Escarcha",
-        "url": "https://open.spotify.com/album/43qGLfNbqTbP9sWiFGSUEA"
-      },
-      "artists": [
-        {
-          "name": "Metrika",
-          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
-        },
-        {
-          "name": "Serchito trambotiko",
-          "url": "https://open.spotify.com/artist/7yNV6fwF1pigvEZTsEaegm"
-        },
-        {
-          "name": "D.Basto",
-          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
-        },
-        {
-          "name": "dn.aire",
-          "url": "https://open.spotify.com/artist/7D77FeeK61lP9pa0MFLu1J"
-        }
-      ],
-      "duration_ms": 195918,
-      "name": "Fumo Escarcha",
-      "url": "https://open.spotify.com/track/7gHvsVdofphSMQsKg47UnX"
-    },
-    {
-      "added_at": "2025-03-04 23:00:15",
-      "album": {
         "name": "FANCY",
         "url": "https://open.spotify.com/album/0gh2rvUwM99NWFabo9ELUH"
       },
@@ -687,6 +659,34 @@
       "duration_ms": 148383,
       "name": "ENGATUSAO =^.^=",
       "url": "https://open.spotify.com/track/00MEN35cUoB4rp00iZuiFV"
+    },
+    {
+      "added_at": "2025-03-04 23:00:15",
+      "album": {
+        "name": "Fumo Escarcha",
+        "url": "https://open.spotify.com/album/43qGLfNbqTbP9sWiFGSUEA"
+      },
+      "artists": [
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "Serchito trambotiko",
+          "url": "https://open.spotify.com/artist/7yNV6fwF1pigvEZTsEaegm"
+        },
+        {
+          "name": "D.Basto",
+          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
+        },
+        {
+          "name": "dn.aire",
+          "url": "https://open.spotify.com/artist/7D77FeeK61lP9pa0MFLu1J"
+        }
+      ],
+      "duration_ms": 195918,
+      "name": "Fumo Escarcha",
+      "url": "https://open.spotify.com/track/7gHvsVdofphSMQsKg47UnX"
     },
     {
       "added_at": "2025-03-04 23:00:15",

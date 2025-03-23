@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > A curated space for the avant\-garde\. Cover: DEBBY FRIDAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,011 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,033 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 10 | [This Is Real](https://open.spotify.com/track/4LYXtoiuM9xEmxklVvQnLl) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [This Is Real](https://open.spotify.com/album/0VNjjHXqRFJ9NTqbmPT9pJ) | 3:07 |
 | 11 | [11](https://open.spotify.com/track/0JZ1N3dBa5WHksh5PbPeum) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Another Life](https://open.spotify.com/album/3duZIjETQX18dHLhyZ3ROo) | 2:53 |
 | 12 | [Fun Times](https://open.spotify.com/track/7LD3zycYhQNEkvSaDXwFv2) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Fun Times](https://open.spotify.com/album/6cNNIC4lX9MjSyGTXLA1MS) | 4:13 |
-| 13 | [IS MY MIC ON](https://open.spotify.com/track/1cNXgfdJXQ94n8rs860x5r) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [IS MY MIC ON](https://open.spotify.com/album/4rgZ66dfJJ17VUyzNCLtUv) | 2:40 |
+| 13 | [IS MY MIC ON?](https://open.spotify.com/track/1cNXgfdJXQ94n8rs860x5r) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [IS MY MIC ON?](https://open.spotify.com/album/4rgZ66dfJJ17VUyzNCLtUv) | 2:40 |
 | 14 | [IN FEAR, ETC.](https://open.spotify.com/track/1s3I6VvrD1BGGflMFS5NSO) | [Alex Banin](https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz) | [Since Winona](https://open.spotify.com/album/7D9vZwRiwIzwEXHzsVutdK) | 3:33 |
 | 15 | [ATE](https://open.spotify.com/track/1vGRFJKPAg5OucTGYZtKIm) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [ATE](https://open.spotify.com/album/01LsRo6skB6am9Gv3vzLx7) | 2:29 |
 | 16 | [Flex](https://open.spotify.com/track/5XjkW9anfg1cAFJYs2FcE0) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [Club Shy Room 2](https://open.spotify.com/album/1wk3qcMvPAOMTw3W75ymSX) | 1:55 |

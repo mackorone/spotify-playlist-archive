@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : Sam Sauvage
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,261 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,263 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 3 | [Sous l'orage](https://open.spotify.com/track/47mWFxsuplk9J8Ia1l0oaZ) | [Barbet](https://open.spotify.com/artist/7rN8I3x8rAW7gGFYLCK03E) | [Sous l'orage](https://open.spotify.com/album/43sLf9uog1cBNQxpTKmNIL) | 2:49 |
 | 4 | [ODYSS\_X](https://open.spotify.com/track/6hrSdAk3Z4gCb97LDfcsqs) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [BLAST.](https://open.spotify.com/album/76Pdmv0CzrIY14nzw6Qdcf) | 2:52 |
 | 5 | [Je t'emmènerai](https://open.spotify.com/track/2Mv1tPuwMAHQHA2CalxQi5) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Je t'emmènerai](https://open.spotify.com/album/3YhrhemEcuxGllGaet7vJB) | 2:55 |
-| 6 | [Le Funambule](https://open.spotify.com/track/2TlyaM4NmDpoawFPsTH1KZ) | [Mon cher Guy](https://open.spotify.com/artist/6KwKwfx3DSMOYDfHo1GcK2), [Les Clopes](https://open.spotify.com/artist/7dodylTfBnV13yLhRUpos7) | [Le Funambule](https://open.spotify.com/album/1px8CygxTDUSeSsbgx9CPb) | 3:11 |
+| 6 | [Le Funambule](https://open.spotify.com/track/2TlyaM4NmDpoawFPsTH1KZ) | [Mon cher Guy](https://open.spotify.com/artist/6KwKwfx3DSMOYDfHo1GcK2), [Les clopes](https://open.spotify.com/artist/3hyFh3a07azAfvMgbZLl6p) | [Le Funambule](https://open.spotify.com/album/1px8CygxTDUSeSsbgx9CPb) | 3:11 |
 | 7 | [Lunettes noires](https://open.spotify.com/track/50QzsGkmFa8HlC16BRCiqe) | [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ) | [Lunettes noires](https://open.spotify.com/album/3VmWWOtrsNGFAiegI2Oewu) | 2:57 |
 | 8 | [j'avance](https://open.spotify.com/track/2Z7qNInldtbww87osjOnt2) | [billie](https://open.spotify.com/artist/5OlAhdgR13gu6r0MZU8eKj) | [j'avance](https://open.spotify.com/album/7D62OzP4uQdoOcp278gbKh) | 3:49 |
 | 9 | [ALLO?C MOI](https://open.spotify.com/track/0aWnBogGkcNoyXyh7pgLo2) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [ALLO?C MOI](https://open.spotify.com/album/41DPBGQl4RL8QqJlm5cxP7) | 2:14 |

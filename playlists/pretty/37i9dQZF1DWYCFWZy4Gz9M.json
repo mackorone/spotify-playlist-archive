@@ -1,6 +1,6 @@
 {
   "description": "Guembri, rhythmic krakebs and soulful chants.",
-  "num_followers": 65524,
+  "num_followers": 65534,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
@@ -439,18 +439,22 @@
     {
       "added_at": "2025-03-13 20:50:57",
       "album": {
-        "name": "Gnawa Home Songs",
-        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
+        "name": "Morocco: Traditional Songs & Music",
+        "url": "https://open.spotify.com/album/72S0SzvMzdkUqTn7Xjcy1V"
       },
       "artists": [
         {
-          "name": "Amida Boussou",
-          "url": "https://open.spotify.com/artist/6foiKtwIs8aHwyDupk2ZO5"
+          "name": "Nour Eddine",
+          "url": "https://open.spotify.com/artist/4fKUpodRphVtdVBf06FHgO"
+        },
+        {
+          "name": "Nour Eddine Fatty",
+          "url": "https://open.spotify.com/artist/4p89G1QhmMO8sVCOE6ceFx"
         }
       ],
-      "duration_ms": 193693,
-      "name": "Boulila",
-      "url": "https://open.spotify.com/track/7K0e9c4yavJcHGpGr4VxpG"
+      "duration_ms": 261000,
+      "name": "Toura toura (arr. N. Eddine)",
+      "url": "https://open.spotify.com/track/2MoMK1kkN7ojVqk1Us35mq"
     },
     {
       "added_at": "2025-03-13 20:50:57",
@@ -487,22 +491,18 @@
     {
       "added_at": "2025-03-13 20:50:57",
       "album": {
-        "name": "Morocco: Traditional Songs & Music",
-        "url": "https://open.spotify.com/album/72S0SzvMzdkUqTn7Xjcy1V"
+        "name": "Gnawa Home Songs",
+        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
       },
       "artists": [
         {
-          "name": "Nour Eddine",
-          "url": "https://open.spotify.com/artist/4fKUpodRphVtdVBf06FHgO"
-        },
-        {
-          "name": "Nour Eddine Fatty",
-          "url": "https://open.spotify.com/artist/4p89G1QhmMO8sVCOE6ceFx"
+          "name": "Amida Boussou",
+          "url": "https://open.spotify.com/artist/6foiKtwIs8aHwyDupk2ZO5"
         }
       ],
-      "duration_ms": 261000,
-      "name": "Toura toura (arr. N. Eddine)",
-      "url": "https://open.spotify.com/track/2MoMK1kkN7ojVqk1Us35mq"
+      "duration_ms": 193693,
+      "name": "Boulila",
+      "url": "https://open.spotify.com/track/7K0e9c4yavJcHGpGr4VxpG"
     },
     {
       "added_at": "2025-03-13 20:50:57",

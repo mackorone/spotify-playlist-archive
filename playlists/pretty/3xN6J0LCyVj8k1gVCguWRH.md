@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,654 likes - 166 songs - 9 hr 54 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,646 likes - 159 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,12 +167,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 157 | [Searching for Answers \(feat\. Glenn Lewis\)](https://open.spotify.com/track/6gMzKHIpwQsSQGULNuw3Eo) | [Jamar Jones](https://open.spotify.com/artist/4Z3wvslX8T0kJLfxILUR6e), [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Searching for Answers](https://open.spotify.com/album/57Q5uDf1fawuNhJg9bLBON) | 4:56 |
 | 158 | [Let's Drive This Night Away](https://open.spotify.com/track/4YmhES41EdyTbY89cB22Yo) | [James Scott Nelson](https://open.spotify.com/artist/4OiySAZiSuiCTHbseoBXbx) | [Where'd Time Go \- Volume 1](https://open.spotify.com/album/2qoacjTHcsL9BJynaz9bIZ) | 3:52 |
 | 159 | [Walking Away](https://open.spotify.com/track/24mlTyO9N7k0t3Y5O2tLZT) | [Clay Mottley Band](https://open.spotify.com/artist/10lGRZ4sgsaPFVe5rspXk7) | [Can't Be Wrong](https://open.spotify.com/album/0aJ8fdhbmCC8VVPYUdfVrF) | 4:35 |
-| 160 | [Baby Jade](https://open.spotify.com/track/5Ipyfi8yr5caTnOm5UcNB4) | [Bleary](https://open.spotify.com/artist/4rthkb9PaygrlQWGlbLaZm) | [Baby Jade](https://open.spotify.com/album/6Pq2kIYxy8PJs450VqUE2G) | 2:57 |
-| 161 | [Judging Me](https://open.spotify.com/track/5EBw1WTXe9yeETXLl0Eo37) | [Brandon Lewis](https://open.spotify.com/artist/6cwMy4Skkaqwtx7LeUe3lb) | [Judging Me](https://open.spotify.com/album/2h0ubpAJjOl6an2hBuMDba) | 2:59 |
-| 162 | [Chaos](https://open.spotify.com/track/0BTFNx2fYiduVm1TpeZ4j2) | [LATASHÁ](https://open.spotify.com/artist/2lW1SPnxy7JqGV84TcSINi) | [Chaos](https://open.spotify.com/album/5IAHqtEqGKsx1FETjJWUvj) | 3:45 |
-| 163 | [Seven 7s](https://open.spotify.com/track/62aansPKWUHuaFnCTIp5Ks) | [JoiStaRR](https://open.spotify.com/artist/1IqGEfjh8ScdSV8jaHzHxN) | [Seven 7s](https://open.spotify.com/album/7o8bRHRrvE8ETmyI85Qqlz) | 3:23 |
-| 164 | [Winter Mornings](https://open.spotify.com/track/1BPN9DTlBzAmAxu8JwOu2C) | [Ariaa](https://open.spotify.com/artist/0ZmXjvErpwSoTzWe0fHS6D), [Veetchy](https://open.spotify.com/artist/5W8nOMwa15dRBizkQRBu4X) | [Winter Mornings](https://open.spotify.com/album/0t9yOFbUpijADrRKdLyjb9) | 3:47 |
-| 165 | [Coast Road](https://open.spotify.com/track/0vpDuO6obZOOdaUlFwn7N5) | [Vanishing Shores](https://open.spotify.com/artist/4o1hUb6mX2C3QpeF8r8lzX) | [Coast Road](https://open.spotify.com/album/2LL7WOuWVqmc88XlZl0n9M) | 3:30 |
-| 166 | [IMPROVE YOUR GROOVE \- Remix](https://open.spotify.com/track/0QbVyqOPR3vhbVSLz8M80E) | [Zkeletonz](https://open.spotify.com/artist/6ztejmS91AcqwLtDkevY1Y), [Alive by Night](https://open.spotify.com/artist/25sSdnjL6wgwFJm12PgOkJ) | [IMPROVE YOUR GROOVE \(Remix\)](https://open.spotify.com/album/22eXB6U5ckz5zoZJ2yTFw7) | 2:54 |
 
-Snapshot ID: `AAAula9QuXJJaTlm+xbhvHqzLRnPbIeJ`
+Snapshot ID: `AAAulm8SL0qV/AlcvUuwrXSz/Byzl2wE`

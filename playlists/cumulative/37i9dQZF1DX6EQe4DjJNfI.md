@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Rael
 
-273 songs - 14 hr 2 min
+274 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Bad Girl](https://open.spotify.com/track/1whJBnBLwZcpMl9II6rOfB) | [Adi](https://open.spotify.com/artist/4AnpI5Laz6YeM09dMJNTaW) | [TRILOGIA](https://open.spotify.com/album/6nT5ttYMKVRMpEmNZTIL8H) | 2:15 | 2023-09-15 | 2023-10-28 |
 | [Bahamas](https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z) | [Jota SF](https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib) | [Éramos](https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i) | 3:38 | 2022-11-18 |  |
 | [Balé](https://open.spotify.com/track/7AD5Hbzsh4zsHCBDeMAqJh) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [JovemBlues](https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH), [Malibbre](https://open.spotify.com/artist/67T2348EyWZ8v3mHJD2T4K) | [Balé](https://open.spotify.com/album/20Eeg7wH8X8Se1dylEDOzB) | 2:16 | 2023-10-06 | 2024-04-06 |
-| [Bandida \- Remix](https://open.spotify.com/track/4rvrIa00SjiqKozS4DcoNq) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z) | [Amaríssima V2 \(Remix\)](https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm) | 4:16 | 2025-03-01 |  |
+| [Bandida \- Remix](https://open.spotify.com/track/4rvrIa00SjiqKozS4DcoNq) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z) | [Amaríssima V2 \(Remix\)](https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm) | 4:16 | 2025-03-01 | 2025-03-23 |
 | [Bem Calma](https://open.spotify.com/track/6c3b87lxij2i7A4uFpcd1t) | [Shamilla](https://open.spotify.com/artist/5jZSvXknZbgk0gdObdTnh2), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Bem Calma](https://open.spotify.com/album/3yWAlfv8Jyw8ddRiLqWECS) | 3:00 | 2022-11-18 | 2023-01-14 |
 | [Bem Longe](https://open.spotify.com/track/2vshespmRvtcximTIzQvB2) | [Thiene](https://open.spotify.com/artist/2Jh7MhQqgXwm1wagSuBoZS) | [Bem Longe](https://open.spotify.com/album/3B9sABomz6c9CwXBFXhW6a) | 3:09 | 2023-01-20 | 2023-06-03 |
 | [Blusa da High](https://open.spotify.com/track/7b0W2ljnfWlIDhCTVxWJVZ) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Drew](https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV) | [Blusa da High](https://open.spotify.com/album/5uz1PqQfPIylWKvdomw4SG) | 2:40 | 2024-07-12 |  |
@@ -258,6 +258,7 @@
 | [Tomboy](https://open.spotify.com/track/1ZZzHoGd7vUBO4WpVbrgg8) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [Tomboy](https://open.spotify.com/album/0hOPXn449nuIQQpajCowa5) | 3:24 | 2023-04-28 | 2023-07-01 |
 | [Tons \#5 \- Sonho em Hollywood \(feat\. Lucas & Orelha\)](https://open.spotify.com/track/04suo4ZNPAedwYzEP8UJC8) | [Caio Nunez](https://open.spotify.com/artist/2rfGf5mJ3aR15NKZvMyfE0), [CRIVO](https://open.spotify.com/artist/0N2KGZptIZRKtEakTbNoxe), [Lucas e Orelha](https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8) | [Tons \#5 \- Sonho em Hollywood \(feat\. Lucas & Orelha\)](https://open.spotify.com/album/2PTifDt3iNe99E0ZTh1A00) | 3:21 | 2022-11-18 | 2022-12-24 |
 | [Toque De Veludo](https://open.spotify.com/track/5sHK9llP0yBRwr4fW5DVSn) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5) | [Toque De Veludo](https://open.spotify.com/album/5TBvqgBLIVP0MZJpkLEIHh) | 2:37 | 2023-09-01 | 2024-03-23 |
+| [TRATO](https://open.spotify.com/track/1usu3xnDdqPIuAsUm8HsPl) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [TRATO](https://open.spotify.com/album/7mHxkuHr9ymMDapBPOHRJO) | 2:29 | 2025-03-22 |  |
 | [Troco](https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr) | [Feh](https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP) | [Troco](https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V) | 2:39 | 2022-12-01 |  |
 | [Troco](https://open.spotify.com/track/6TEMhEyTclTXT6PvYlW2tr) | [Feh](https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP) | [Troco](https://open.spotify.com/album/3P5HL7EhZK7047gZXxWGW5) | 2:39 | 2024-02-16 | 2024-04-19 |
 | [tudo com você vira arte](https://open.spotify.com/track/63qiEme3qWfjJlkcRqdhdk) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed) | [tudo com você vira arte](https://open.spotify.com/album/1CyRf28cqFaHTeYvFgmuPq) | 2:40 | 2024-09-13 |  |

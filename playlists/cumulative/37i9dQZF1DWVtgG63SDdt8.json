@@ -55807,7 +55807,7 @@
     },
     {
       "album": {
-        "name": "Hallelujah",
+        "name": "hallelujah",
         "url": "https://open.spotify.com/album/0igxQaN8iQNIwDvZBSKKRA"
       },
       "artists": [
@@ -55819,8 +55819,8 @@
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 328284,
-      "name": "Hallelujah",
+      "duration_ms": 328607,
+      "name": "hallelujah",
       "url": "https://open.spotify.com/track/7jwDkuFY3aHdVo42eesrnI"
     },
     {
@@ -114190,6 +114190,10 @@
         {
           "name": "Lucas & Evelyn Cortazio",
           "url": "https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp"
+        },
+        {
+          "name": "Anchored Music",
+          "url": "https://open.spotify.com/artist/3lLsj57IR0XS3y02hIDErB"
         }
       ],
       "date_added": "2025-03-21",

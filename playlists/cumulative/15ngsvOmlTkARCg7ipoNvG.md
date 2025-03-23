@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,947 songs - 1 day 15 hr 34 min
+1,948 songs - 1 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -959,6 +959,7 @@
 | [Life Flows](https://open.spotify.com/track/6DxxEAQK3cO77ZuBUyKW76) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Connection](https://open.spotify.com/album/0Q6C4bH216tRRiee56rBWa) | 1:31 | 2022-01-20 | 2024-01-30 |
 | [Life Flows \- Piano Version](https://open.spotify.com/track/2hhhwdXajvBPF42MFgOJSH) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Connection](https://open.spotify.com/album/0Q6C4bH216tRRiee56rBWa) | 1:30 | 2022-01-12 | 2024-01-30 |
 | [Lifted](https://open.spotify.com/track/2nP73lh03qPlzvzRAadaFH) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Silent Serenity](https://open.spotify.com/album/38rdMbpYKjaOlNAhjI3JTQ) | 1:01 | 2022-05-13 |  |
+| [Lifting](https://open.spotify.com/track/4Liv1EES7TVBYCMKqqwNzD) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Lifting](https://open.spotify.com/album/2UGTebMshfXpdvKLRiRoLK) | 1:00 | 2025-03-22 |  |
 | [Light Again](https://open.spotify.com/track/5hy3n7aXrviovbzRI9Q1aV) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Light Again](https://open.spotify.com/album/2rTCoMfmqEzqG5uULSrvBw) | 1:00 | 2024-08-19 |  |
 | [Light In The Darkness](https://open.spotify.com/track/43COSvhvh29nyuFHVZuDPW) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Light In The Darkness](https://open.spotify.com/album/33dPNQcH51hRH642aLr2s7) | 2:03 | 2022-01-12 | 2024-01-30 |
 | [Light In The Garden](https://open.spotify.com/track/4vJfwRp4ziWJbNJw9kZxQc) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Modern Piano Lullabies, Vol\. 2](https://open.spotify.com/album/1KrEVspzMkpUxGwXjzuXhp) | 1:04 | 2022-01-20 | 2024-01-30 |

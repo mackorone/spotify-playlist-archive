@@ -420,6 +420,24 @@
     {
       "album": {
         "name": "Take Love Easy",
+        "url": "https://open.spotify.com/album/6ORyb3qifB83laYG9nBEvR"
+      },
+      "artists": [
+        {
+          "name": "Sophie Milman",
+          "url": "https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4"
+        }
+      ],
+      "date_added": "2025-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252560,
+      "name": "Be Cool",
+      "url": "https://open.spotify.com/track/6ditxrULYjp6FIMRkUtzlE"
+    },
+    {
+      "album": {
+        "name": "Take Love Easy",
         "url": "https://open.spotify.com/album/0kJ2PsNKRL8lA6jjeZcLDk"
       },
       "artists": [
@@ -430,7 +448,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 252560,
       "name": "Be Cool",
       "url": "https://open.spotify.com/track/6dlLIx8BCm6iiKWCg9NPcq"

@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-22",
+      "date_removed": null,
       "duration_ms": 137307,
       "name": "ATREVIDA",
       "url": "https://open.spotify.com/track/4vKIjUmuS9lmW3dInclbgG"
@@ -5868,7 +5868,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 159586,
       "name": "DENIAL IS A RIVER",
       "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
@@ -8666,7 +8666,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-08",
+      "date_removed": null,
       "duration_ms": 157974,
       "name": "Feel It - From The Original Series \u201cInvincible\u201d",
       "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
@@ -11668,7 +11668,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 148790,
       "name": "LA TORTURA",
       "url": "https://open.spotify.com/track/1vKXtNEKU9fegCsHt9LQPD"
@@ -12562,7 +12562,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-05",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -17272,7 +17272,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 177230,
       "name": "Pas3",
       "url": "https://open.spotify.com/track/2aXVqDJenLCbo1ejAmKwp3"
@@ -17716,10 +17716,32 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 182999,
       "name": "Pinceles",
       "url": "https://open.spotify.com/track/1esQcf1nmd91BZlGm576fz"
+    },
+    {
+      "album": {
+        "name": "Gato Negro",
+        "url": "https://open.spotify.com/album/47mHy8jE2iHxI7kKVyZnCv"
+      },
+      "artists": [
+        {
+          "name": "Javi Medina",
+          "url": "https://open.spotify.com/artist/6dwFgF51JkLBz93ocNJ0Ol"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2025-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182999,
+      "name": "Pinceles",
+      "url": "https://open.spotify.com/track/3MjTOD1Tp4e6cP0EYaX5fd"
     },
     {
       "album": {

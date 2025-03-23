@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/3ve6mVulj4imuzhlhHjBoK"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "date_added": "2025-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Body & Soul",
+      "url": "https://open.spotify.com/track/0b44DsaZAPjRiC0HNjmwcF"
+    },
+    {
+      "album": {
         "name": "Breakout",
         "url": "https://open.spotify.com/album/7yQjA4ww0AJcvas0NJsuIc"
       },

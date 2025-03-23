@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover:  Carpetman
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,493 likes - 68 songs - 3 hr 18 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,495 likes - 68 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Azzy\. The essential tracks, all in one playlist.
 
-90 songs - 6 hr 49 min
+91 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Buzz Lightyear](https://open.spotify.com/track/0kVRf1PsgGElhXAyWm0Js3) | [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Buzz Lightyear](https://open.spotify.com/album/5GZUFukDPFGiRmVepQHjk7) | 4:13 | 2024-07-11 |  |
 | [Buzz Lightyear](https://open.spotify.com/track/4svcCNuxugwP6wrSnoMIfB) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Buzz Lightyear](https://open.spotify.com/album/5dUK91bxsgiaYoXDktf6IO) | 4:13 | 2023-12-30 | 2024-07-11 |
 | [Caso Perdido](https://open.spotify.com/track/1sSBuA1YfqxixnbuJAPSXH) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Minha Ex é Minha Maior Fã](https://open.spotify.com/album/6EjbpqfdOx0HdpScIcSoVw) | 2:51 | 2024-06-17 |  |
-| [Coisa Fina](https://open.spotify.com/track/3Ywd83pjNBh3qVnWLFqk6s) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Coisa Fina](https://open.spotify.com/album/2l5TXHheBX9gjftT3TKqh7) | 2:56 | 2023-12-30 |  |
+| [Coisa Fina](https://open.spotify.com/track/3Ywd83pjNBh3qVnWLFqk6s) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Coisa Fina](https://open.spotify.com/album/2l5TXHheBX9gjftT3TKqh7) | 2:56 | 2023-12-30 | 2025-03-23 |
 | [Corpo Quente](https://open.spotify.com/track/6RRVJ39Nu1GfiWhxBvixMg) | [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Corpo Quente](https://open.spotify.com/album/5kRUXL80sJ8ToO1YqbruoN) | 4:00 | 2023-12-30 |  |
 | [Ctrl Z](https://open.spotify.com/track/6bCCjHiTv7b8DiaSu7ZhPp) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [LOVEZY](https://open.spotify.com/album/2H0cMONtIiEgY0Mycmvmvp) | 2:30 | 2023-12-30 | 2025-01-09 |
 | [DAMN GLOVES \- BAILE FUNK REMIX](https://open.spotify.com/track/18AkbqlH8nBkpkqAzaCIDZ) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [GRIP SEQUEL](https://open.spotify.com/album/7DRET0080oX5T7l4vYguwd) | 2:13 | 2025-03-02 |  |
@@ -79,6 +79,7 @@
 | [Privê](https://open.spotify.com/track/6LfJUcB0FC4Oocufnfz3Ce) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Privê](https://open.spotify.com/album/17EHgYliwwIYmr9XtsigrO) | 3:06 | 2023-12-30 |  |
 | [Reverse](https://open.spotify.com/track/2EMDPzYHzlRHggmbsJMtbo) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Reverse](https://open.spotify.com/album/7AeteQXJoHcRyOyB4du59D) | 2:13 | 2023-12-30 |  |
 | [Robocop](https://open.spotify.com/track/121AXIy1L6fxNKIGq6BKx3) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Rímel](https://open.spotify.com/album/2cqZQOpwquo3lu1aZXRkTQ) | 1:44 | 2023-12-30 | 2024-08-01 |
+| [SALA VERMELHA \#21 \- Azzy](https://open.spotify.com/track/7mH5v6QmkYn9c4fDeif8G6) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [SALA VERMELHA \#21 \- Azzy](https://open.spotify.com/album/1aqNAndcVgnMBVd6BxCak7) | 2:22 | 2025-03-23 |  |
 | [Se Prepara](https://open.spotify.com/track/5d1Eidz7m4vdgHsfZRKcec) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Lucas e Orelha](https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Se Prepara](https://open.spotify.com/album/54gWxTm90TbQ5oRa4aNp3E) | 3:02 | 2023-12-30 |  |
 | [Segue o Baile](https://open.spotify.com/track/5vrT66H94IfI3DNaNqNUJk) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Hora do Show](https://open.spotify.com/album/2A5UWu3yNNrnfbAfICNnV2) | 3:40 | 2023-12-30 |  |
 | [Seu Fogo](https://open.spotify.com/track/5xBJ8FanTJP98CXe5mI6Xm) | [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV) | [Consequências](https://open.spotify.com/album/0iRMKFD3Pwq7heMrMsg8Dk) | 2:59 | 2024-05-26 | 2024-09-15 |

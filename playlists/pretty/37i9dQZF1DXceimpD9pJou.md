@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Toni Romero
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,961 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,988 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 9 | [Juró Volver](https://open.spotify.com/track/2hL7494KgpHgdTIj4sv1Nq) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [NOCHE](https://open.spotify.com/album/7MYY57Y7HMPHCED7ehEFZl) | 2:46 |
 | 10 | [Pez Sin Agua](https://open.spotify.com/track/7zI0PqA07B5Sq60bdhboS5) | [Gerardo Sarabia](https://open.spotify.com/artist/1JcjbdKrIEm48kgBTSZm36), [Lirikeo Music](https://open.spotify.com/artist/2iKfgNOLo2q4pJxFN6aesS), [Corridos Cristianos](https://open.spotify.com/artist/2N79MqDGTAmXDop8kHtLHQ) | [Pez Sin Agua](https://open.spotify.com/album/2kt45pTOT03oZ9D7FaeAi0) | 3:02 |
 | 11 | [Agüita de Coco](https://open.spotify.com/track/4dw8yGSx5SHhWSvKbEjBhf) | [La Sociedad 111](https://open.spotify.com/artist/12V2P7Bpb6pnvSHzUVjw9p) | [Agüita de Coco](https://open.spotify.com/album/7KAyRSL8kxJv6Lrs1DvB3U) | 2:36 |
-| 12 | [hosanna](https://open.spotify.com/track/0cTmRYJz4RHabGnfJdqsPZ) | [Sion Nación Santa](https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db), [Tony Music](https://open.spotify.com/artist/1EUCqITgudIBSzOxxSEep0) | [hosanna](https://open.spotify.com/album/2jWYGv6VPEkAPWSc5xPaEI) | 3:26 |
-| 13 | [¡Cómo no Hablar!](https://open.spotify.com/track/1meqrG2mSGdLX3RBweHorZ) | [Familia Emanuel Worship](https://open.spotify.com/artist/5R4Pszoyd6Ku6K85QP18Ak), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5) | [¡Cómo no Hablar!](https://open.spotify.com/album/0wgi4e3pNkO9fXcmWNHELB) | 3:28 |
+| 12 | [Hosanna](https://open.spotify.com/track/0cTmRYJz4RHabGnfJdqsPZ) | [Sion Nación Santa](https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db), [Tony Music](https://open.spotify.com/artist/1EUCqITgudIBSzOxxSEep0) | [Hosanna](https://open.spotify.com/album/2jWYGv6VPEkAPWSc5xPaEI) | 3:26 |
+| 13 | [¡Cómo no Hablar!](https://open.spotify.com/track/1meqrG2mSGdLX3RBweHorZ) | [Familia Emanuel Worship](https://open.spotify.com/artist/5R4Pszoyd6Ku6K85QP18Ak), [Hernán De Arco](https://open.spotify.com/artist/1Wgt3tScbP5NBX7hQhBJOr), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5) | [¡Cómo no Hablar!](https://open.spotify.com/album/0wgi4e3pNkO9fXcmWNHELB) | 3:28 |
 | 14 | [Ya Amado](https://open.spotify.com/track/3RUznUxtUgy8ZGPhScpyN4) | [Dean Mark Hilario Enoza](https://open.spotify.com/artist/1K9VuzbpQq3zxws6pjEp6V), [Iossa](https://open.spotify.com/artist/2AczWWagD4DfWLfJVASu5r) | [Ya Amado](https://open.spotify.com/album/5S9pQn6DV3R3voFdglp2YR) | 3:34 |
 | 15 | [Alumbras \- Remix](https://open.spotify.com/track/7JI5yavr4xvF7OSZzYL9Al) | [Abdías Solórzano](https://open.spotify.com/artist/4fq8bSiXtTpXa4fV6OMjxc) | [Alumbras \(Remix\)](https://open.spotify.com/album/3EtpCXmNi1ajgfBFTliyHX) | 3:10 |
 | 16 | [FRIO CON MI MAI](https://open.spotify.com/track/2fLNODb4YGdW6aWQv20dwL) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Erick Darauch](https://open.spotify.com/artist/4kOpxLFRkTkvFEDBLpMGvX), [Angel Gomez](https://open.spotify.com/artist/14r1FvkRm7TGSMNUxPXPC3), [Enmanuel Richarson](https://open.spotify.com/artist/75nPITWuqbyTrBhyPXihqz) | [FRIO CON MI MAI](https://open.spotify.com/album/6ayBNAogIrURAcalcEmSZR) | 3:22 |

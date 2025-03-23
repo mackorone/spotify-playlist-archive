@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: ELEVATION RHYTHM
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,041 likes - 79 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,093 likes - 79 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 29 | [This Won't Take My Praise](https://open.spotify.com/track/6zd9LoPq7c1irfjYyPXEoD) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ) | [This Won't Take My Praise](https://open.spotify.com/album/1Hvg9B6VUuz40xUCbl4ukS) | 3:25 |
 | 30 | [How Good \- Live](https://open.spotify.com/track/2EW7VIhw1QPBklP6MIlGTi) | [Every Nation Music](https://open.spotify.com/artist/0VPn67RlAzuYumaHw2hCw0) | [How Good \(Live\)](https://open.spotify.com/album/2O5Vnb6z2TBONz8ZFtr0Qw) | 5:50 |
 | 31 | [Holy Spirit \- Live from Pretoria](https://open.spotify.com/track/3ikAtB81cBPRxZmMAwCHvz) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Holy Spirit](https://open.spotify.com/album/5IBGHoFzGPbzEYhOm2ZtbX) | 7:30 |
-| 32 | [OVERFLOW](https://open.spotify.com/track/57kCod6PrOdFd2GmeJdIoo) | [Lucas & Evelyn Cortazio](https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp) | [OVERFLOW](https://open.spotify.com/album/2NO88pFbECQJGeT21UOpkH) | 5:29 |
+| 32 | [OVERFLOW](https://open.spotify.com/track/57kCod6PrOdFd2GmeJdIoo) | [Lucas & Evelyn Cortazio](https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp), [Anchored Music](https://open.spotify.com/artist/3lLsj57IR0XS3y02hIDErB) | [OVERFLOW](https://open.spotify.com/album/2NO88pFbECQJGeT21UOpkH) | 5:29 |
 | 33 | [RESURRECTION HERE](https://open.spotify.com/track/4vdHySGP8UmHbkf4JXqhUB) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [RESURRECTION HERE](https://open.spotify.com/album/4QfZ0A7R1ciDP8ZucNZYfb) | 4:16 |
 | 34 | [I Need Your Presence Now \- Live](https://open.spotify.com/track/2mkGa94AVTGQprWEf4EfRO) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [I Need Your Presence Now \(Live\)](https://open.spotify.com/album/37xsgeaWBzmTRMyv38Sru7) | 5:53 |
 | 35 | [Christ In Me](https://open.spotify.com/track/6Oi1XIUKFr3BBjW4mfIAm2) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [Christ In Me](https://open.spotify.com/album/70Isdc0gzf1VegPg0ddpap) | 6:50 |

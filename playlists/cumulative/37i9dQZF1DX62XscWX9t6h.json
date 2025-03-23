@@ -681,6 +681,24 @@
     },
     {
       "album": {
+        "name": "FUR\u00c8STA",
+        "url": "https://open.spotify.com/album/17LP7L6YElIuVYK1gg7S37"
+      },
+      "artists": [
+        {
+          "name": "LA NI\u00d1A",
+          "url": "https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198714,
+      "name": "CHIENA 'E SCIPPE",
+      "url": "https://open.spotify.com/track/29z4FTyuYn0Hflj9jwIl3c"
+    },
+    {
+      "album": {
         "name": "Afrique Victime",
         "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
       },
@@ -2562,7 +2580,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 275253,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K"

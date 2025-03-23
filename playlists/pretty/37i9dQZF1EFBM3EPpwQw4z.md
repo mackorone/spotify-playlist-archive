@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBM3EPpwQw4z.md) - [plain]
 | 86 | [Birds & Cows](https://open.spotify.com/track/30mqjDr0VXmacFCg7RiuBV) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 1:18 |
 | 87 | [Diver City in the House](https://open.spotify.com/track/7sDK21co6xDJwVIUwcSigr) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 1:04 |
 | 88 | [Love Focus](https://open.spotify.com/track/6ysLchNczIS4xLwU1xLTkU) | [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ) | [Love Focus](https://open.spotify.com/album/0kwAXI1WMtUShXlGIAMeXF) | 3:58 |
-| 89 | [Getting Dressed Up](https://open.spotify.com/track/2trdxliifJwkiy7Dpy0MiV) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 2:26 |
-| 90 | [Closer](https://open.spotify.com/track/7yO6s90XJGvMTpb2ZIPp1N) | [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ) | [Closer](https://open.spotify.com/album/7gFbABIINSSKKftlkOR1bf) | 4:19 |
+| 89 | [Closer](https://open.spotify.com/track/7yO6s90XJGvMTpb2ZIPp1N) | [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ) | [Closer](https://open.spotify.com/album/7gFbABIINSSKKftlkOR1bf) | 4:19 |
+| 90 | [Getting Dressed Up](https://open.spotify.com/track/2trdxliifJwkiy7Dpy0MiV) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 2:26 |
 | 91 | [Potty Party](https://open.spotify.com/track/7lzg2dzYCZcl1c9436NfZM) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 1:45 |
 | 92 | [Walk Around the Block](https://open.spotify.com/track/0ZdtAJGaJh1JKZcRokFSik) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 2:56 |
 | 93 | [Vitamin](https://open.spotify.com/track/5KOMi431YMQbyTh8yuiwu0) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Vitamin](https://open.spotify.com/album/27WkqF1MudS5dyGdvcKOLU) | 3:02 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBM3EPpwQw4z.md) - [plain]
 | 124 | [Bye from Diver City](https://open.spotify.com/track/6Xcqc0mPY3hTysRngiyMd1) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 0:13 |
 | 125 | [Find A Way](https://open.spotify.com/track/09ByoZ1zkCc9AGP3teaEoo) | [Tella Bandz](https://open.spotify.com/artist/7pzc8WQrOwyz1aU1A7VLXR), [Mykal Ren](https://open.spotify.com/artist/4WS16pmkuXtDE0D3sqGEK5), [Big Walt](https://open.spotify.com/artist/4QfIdKIrWkKYQv0m52rsYd), [Anna Dee](https://open.spotify.com/artist/2fnLbwPHW4uCvaFeWhU4Bo) | [Bandz On TheBeat \(PartOne\)](https://open.spotify.com/album/21IrvciCKnhlo5C0Jp868R) | 4:03 |
 
-Snapshot ID: `AbsrXgAAAAB5USisMhq5V2iEhD9u9o87`
+Snapshot ID: `Absw9AAAAAB/LpNsqFdLs3a3ef8nu79L`

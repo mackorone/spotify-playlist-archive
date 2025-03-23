@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: Chase Wagner
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,779 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,806 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 14 | [If I ever lose my way](https://open.spotify.com/track/6dWU6lGzqsrnVHRcToUa36) | [Haynza](https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb) | [If I ever lose my way](https://open.spotify.com/album/4wEKrfWQ1GGlF3dakWmj0Y) | 2:57 |
 | 15 | [Older](https://open.spotify.com/track/5SXanPIJf3sE9HkccYbgis) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Older](https://open.spotify.com/album/4IiWEtqE13R4nb9IStW8mD) | 2:49 |
 | 16 | [New Life](https://open.spotify.com/track/4SkFhQHSLZyrXA0mItVd1t) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa) | [New Life](https://open.spotify.com/album/3fDirbLBsK7J7SwCX1S0Pw) | 1:44 |
-| 17 | [Hallelujah](https://open.spotify.com/track/7jwDkuFY3aHdVo42eesrnI) | [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [Hallelujah](https://open.spotify.com/album/0igxQaN8iQNIwDvZBSKKRA) | 5:28 |
+| 17 | [hallelujah](https://open.spotify.com/track/7jwDkuFY3aHdVo42eesrnI) | [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [hallelujah](https://open.spotify.com/album/0igxQaN8iQNIwDvZBSKKRA) | 5:28 |
 | 18 | [All My Life \- Live](https://open.spotify.com/track/0tcmwOE7PVCazVolFTDHcj) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [All My Life \(Supreme Edition\)](https://open.spotify.com/album/6fcIbyws49izIdyYFCDRPx) | 5:23 |
 | 19 | [So kind and it's freaking me out.](https://open.spotify.com/track/6yysFpzdAY1rRyoKkkmIZN) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [So kind and it's freaking me out.](https://open.spotify.com/album/7EEB8LGcqTNnZDdrIWV0xU) | 2:14 |
 | 20 | [SOLO \- Live](https://open.spotify.com/track/0uLep0SLKZQsQBJRsxFBwH) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK) | [The Breakthrough \(Live\)](https://open.spotify.com/album/1DlrJBXeNCWEQqZ3EFPW0T) | 3:02 |

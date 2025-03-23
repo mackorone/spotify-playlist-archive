@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > That's that big energy\. Cover: Aminé
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,050 likes - 65 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,074 likes - 65 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Familiar](https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Familiar](https://open.spotify.com/album/2DDhjNTlNh2tkhxwIfgrY5) | 1:47 |
 | 2 | [GO DO IT \#jerseyclub](https://open.spotify.com/track/1nKVRhOSBIeRzR30ECSesC) | [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl), [sjmadeit](https://open.spotify.com/artist/2ROAxUxN9VhocaTPWvGE7a) | [GO DO IT \#jerseyclub](https://open.spotify.com/album/1AbVgInMI3xMZJ6omI7usy) | 2:17 |
-| 3 | [IS MY MIC ON](https://open.spotify.com/track/1cNXgfdJXQ94n8rs860x5r) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [IS MY MIC ON](https://open.spotify.com/album/4rgZ66dfJJ17VUyzNCLtUv) | 2:40 |
+| 3 | [IS MY MIC ON?](https://open.spotify.com/track/1cNXgfdJXQ94n8rs860x5r) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [IS MY MIC ON?](https://open.spotify.com/album/4rgZ66dfJJ17VUyzNCLtUv) | 2:40 |
 | 4 | [RUDUMB?](https://open.spotify.com/track/1RH05bSUuaRN1aq7l0lMtN) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [RUDUMB?](https://open.spotify.com/album/27zzEm2EZCnaEg7Gz6BpX4) | 1:57 |
 | 5 | [Fast](https://open.spotify.com/track/0ZEb0nD832fG2vof2hxlCG) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol), [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg), [Saudin](https://open.spotify.com/artist/781q5ZxaDpe00poI3GHe4l) | [Fast](https://open.spotify.com/album/6QSyMlYppInHijqASQ8dIp) | 3:14 |
 | 6 | [Spin It \(feat\. DETO BLACK\)](https://open.spotify.com/track/2Cc4nDxteM4k7KQgqa0hCj) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Spin It \(feat\. DETO BLACK\)](https://open.spotify.com/album/0OkCJaCMBobS0Ae4ufdcQi) | 2:57 |

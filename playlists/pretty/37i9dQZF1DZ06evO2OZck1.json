@@ -1,12 +1,12 @@
 {
   "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 53950,
+  "num_followers": 53958,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9tagAAAAACHqKZHREJc7gTOWjN+kb6T",
+  "snapshot_id": "Z9ysAAAAAAAjekKOICgXP8I+UWrkOAr0",
   "tracks": [
     {
       "added_at": null,
@@ -479,38 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MANINGEN",
-        "url": "https://open.spotify.com/album/0bI0wQeVFccV7pigdEJ1gR"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 171566,
-      "name": "MANINGEN",
-      "url": "https://open.spotify.com/track/7JwDRpLUuqVLeA5lEjnao6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "wakage ga itaru",
-        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 261866,
-      "name": "mayoeba toutoshi",
-      "url": "https://open.spotify.com/track/73kbULxbsaqjhjTMonGHIV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Freaks",
         "url": "https://open.spotify.com/album/5Z2m5xN45b5OvINBkhaUBE"
       },
@@ -531,6 +499,38 @@
       "duration_ms": 133802,
       "name": "Freaks",
       "url": "https://open.spotify.com/track/33uyQcKrKlGSOQSO3hrtpj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wakage ga itaru",
+        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 261866,
+      "name": "mayoeba toutoshi",
+      "url": "https://open.spotify.com/track/73kbULxbsaqjhjTMonGHIV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MANINGEN",
+        "url": "https://open.spotify.com/album/0bI0wQeVFccV7pigdEJ1gR"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 171566,
+      "name": "MANINGEN",
+      "url": "https://open.spotify.com/track/7JwDRpLUuqVLeA5lEjnao6"
     },
     {
       "added_at": null,

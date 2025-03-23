@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο:  Hawk
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,885 likes - 60 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,891 likes - 60 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 5 | [GRISELDA](https://open.spotify.com/track/1f8q0UF64hUKlEezIzIc4N) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [GRISELDA](https://open.spotify.com/album/1lZIZU7UJjGC2o3Bq3i1B3) | 2:10 |
 | 6 | [SKG DRILL](https://open.spotify.com/track/3YKFn6I4dDHORAFWCNgvFU) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Savv](https://open.spotify.com/artist/0OFppp8Z3TaehuqGoC6BD1) | [SKG DRILL](https://open.spotify.com/album/5UC3x1p0tyC6fPNFEhL4Vk) | 3:21 |
 | 7 | [Toxic](https://open.spotify.com/track/5cJBsrt5DhzfWdTCOpCvXK) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Baghdad](https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma) | [Toxic](https://open.spotify.com/album/6c1pYMgz6XACcYSL7eBXji) | 2:41 |
-| 8 | [Ximeromata](https://open.spotify.com/track/3KRxG52VYF3wPC7PVCrIxH) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [Repetition](https://open.spotify.com/album/2hwW3zp6Hgxpjs5AiUVxuF) | 2:18 |
+| 8 | [Ximeromata](https://open.spotify.com/track/3KRxG52VYF3wPC7PVCrIxH) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Repetition](https://open.spotify.com/album/2hwW3zp6Hgxpjs5AiUVxuF) | 2:18 |
 | 9 | [EMMONI IDEA](https://open.spotify.com/track/0kcQD5QcAG7jzY1gkHbEDY) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Sicario](https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [EMMONI IDEA](https://open.spotify.com/album/5YFnE8E82pTVA3nuU8x5Zb) | 3:07 |
 | 10 | [Jeff Dahmer](https://open.spotify.com/track/7k9HUu4QwXgkDsuGfCGPeb) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [BLVD Studio](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [Jeff Dahmer](https://open.spotify.com/album/4hZ8W7l1HwbsM7WboSNFiP) | 3:13 |
 | 11 | [Sekiro.](https://open.spotify.com/track/7D6lH9Q6ALQbYaeMQ1GZi8) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Mani](https://open.spotify.com/artist/2t6NEGChLyMUnGnW1LupcS), [NtaFos](https://open.spotify.com/artist/6WKKllRMYXldkKQ5f0gjRf) | [Scripta Manent](https://open.spotify.com/album/6nzg0S8AJ4c0C7lZLlGKMA) | 2:24 |
-| 12 | [KENTRO](https://open.spotify.com/track/1kZ2FL3WV1mAulSSrtpStg) | [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a) | [KENTRO](https://open.spotify.com/album/2gMwgBh1Sw73mOataTZWfC) | 2:08 |
+| 12 | [KENTRO](https://open.spotify.com/track/1kZ2FL3WV1mAulSSrtpStg) | [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [ASOK](https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm) | [KENTRO](https://open.spotify.com/album/2gMwgBh1Sw73mOataTZWfC) | 2:08 |
 | 13 | [BLAH BLAH](https://open.spotify.com/track/1p9wQ8QRSnY4i6jfSBapr9) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [skinny](https://open.spotify.com/artist/0GjmHecf3cA6aWnPalC7RK) | [BLAH BLAH](https://open.spotify.com/album/1KbcwiM66id7Kj3e6IzKkA) | 2:06 |
 | 14 | [RS](https://open.spotify.com/track/5otrWnxuDVMF878Xy6HgDz) | [Khay Be](https://open.spotify.com/artist/5k33Wwmqe50DI0c0tF7X9y), [Onad](https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV) | [RS](https://open.spotify.com/album/2aUa8H3JXICQfdC44ioD6z) | 1:58 |
 | 15 | [YAKUZA](https://open.spotify.com/track/4EcIArOj8NzRsOTJLMYEJh) | [iLLEOo](https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj) | [YAKUZA](https://open.spotify.com/album/0qgWRcuRNYzfs9uC3ea0wZ) | 2:20 |

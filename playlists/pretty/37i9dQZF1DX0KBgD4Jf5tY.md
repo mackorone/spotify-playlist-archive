@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente italiana, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:1XPiLkWgALxMZ3jC7ytz9w">Tocka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,043 likes - 65 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,047 likes - 65 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,171 likes - 103 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,204 likes - 103 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 14 | [Night Shadows](https://open.spotify.com/track/14FFWnwbtJeDNdZpUoo8ju) | [Anton Ishutin](https://open.spotify.com/artist/0RhuWNLtoucVMRmsSkCgWl) | [Night Shadows](https://open.spotify.com/album/1C8Y9qMqLiBiIiALLytYYT) | 3:15 |
 | 15 | [Dangalua](https://open.spotify.com/track/2ozDVt4RIwunG78HL7tS2a) | [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD), [NSI](https://open.spotify.com/artist/4uNLthBXcuFFUoGPCi2kVT), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Dangalua](https://open.spotify.com/album/5kCIWCU6lNVUuRWMuVCQ6A) | 2:44 |
 | 16 | [Chants](https://open.spotify.com/track/7dSQisUTa9yUpcEpwMmNuC) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [D\-Compost](https://open.spotify.com/artist/3OFhWkc97ypgkRH8oouJZL), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye), [Ravin](https://open.spotify.com/artist/3HCPQCRWBlwDmunTTzn3bb) | [Chants](https://open.spotify.com/album/3uShSOgyxYvaDDlJqPMyll) | 6:02 |
-| 17 | [Unite](https://open.spotify.com/track/0I97z67ZTzpszzH14bKk6r) | [Badbox](https://open.spotify.com/artist/1rfV7OLiCDOYcAacFcJ6Kf), [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Unite](https://open.spotify.com/album/4jptUdOTnU6m1Yfgpy4fV4) | 3:28 |
+| 17 | [Unite](https://open.spotify.com/track/0I97z67ZTzpszzH14bKk6r) | [BADBOX](https://open.spotify.com/artist/1rfV7OLiCDOYcAacFcJ6Kf), [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Unite](https://open.spotify.com/album/4jptUdOTnU6m1Yfgpy4fV4) | 3:28 |
 | 18 | [Afeto \- Ankhoï Remix](https://open.spotify.com/track/3ZhJiN9awjN3RVjCl2wzl3) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [Afeto \(Ankhoï Remix\)](https://open.spotify.com/album/3zzZpOhsz7Esr1d71oEqld) | 6:42 |
 | 19 | [Gorah](https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Gorah](https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1) | 4:06 |
 | 20 | [Jolie Fille \(feat\. Layefa\)](https://open.spotify.com/track/4sOLtnLeIFwO4YUUSV5DM5) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Layefa](https://open.spotify.com/artist/7MkQpNkd549FwPBbgkGyE8) | [Jolie Fille \(feat\. Layefa\)](https://open.spotify.com/album/2B7azjSRe8rJHfCBTJGzlV) | 3:14 |
 | 21 | [Mogo](https://open.spotify.com/track/3akGuvuTvyiItgLT30Vzeo) | [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK) | [Mogo](https://open.spotify.com/album/4PxVKlw9yeGuOpYKChdC0e) | 5:51 |
-| 22 | [Zurna](https://open.spotify.com/track/5Kl2LAN9eM6FQBodDXZeTC) | [Badbox](https://open.spotify.com/artist/1rfV7OLiCDOYcAacFcJ6Kf) | [Zurna](https://open.spotify.com/album/5RzdvVQ7EY5WJW6SdXILld) | 7:11 |
+| 22 | [Zurna](https://open.spotify.com/track/5Kl2LAN9eM6FQBodDXZeTC) | [BADBOX](https://open.spotify.com/artist/1rfV7OLiCDOYcAacFcJ6Kf) | [Zurna](https://open.spotify.com/album/5RzdvVQ7EY5WJW6SdXILld) | 7:11 |
 | 23 | [Kibe](https://open.spotify.com/track/060BS9l7ElcJ05jsnQ7F6t) | [Rancido](https://open.spotify.com/artist/0wtDZVdBWiPXM4gQt3ZNUq), [AfroTura](https://open.spotify.com/artist/3vvjmN7sqoO42Wsusz4wBS), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kibe](https://open.spotify.com/album/3BySqole2DAhAo1iuh4dCM) | 7:32 |
 | 24 | [Bame Dame](https://open.spotify.com/track/0dujwp2I4mBJGG6KvFN6L8) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW) | [Bame Dame](https://open.spotify.com/album/1ofJdkHRupQFf9dvsHBr20) | 3:12 |
 | 25 | [Mila](https://open.spotify.com/track/04unVwYMxPnkTOxvU2Jl2a) | [El Khatib](https://open.spotify.com/artist/4JPMPLzlLruCet2AyqfB9y) | [Mila](https://open.spotify.com/album/25JVzsygbphNU4SgJngvyN) | 2:41 |

@@ -583,6 +583,28 @@
     },
     {
       "album": {
+        "name": "Gracias / Tu Fidelidad",
+        "url": "https://open.spotify.com/album/307RCjvBgxdkGic3GVV2jY"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        }
+      ],
+      "date_added": "2025-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325000,
+      "name": "Gracias / Tu Fidelidad",
+      "url": "https://open.spotify.com/track/65B9K78J0iL1xfwBD2aSCT"
+    },
+    {
+      "album": {
         "name": "Tu y Yo",
         "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
       },
@@ -612,7 +634,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 298259,
       "name": "Hay Un Nombre",
       "url": "https://open.spotify.com/track/6FshvZr5yr9W4kybpGSV27"
@@ -804,7 +826,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 141924,
       "name": "Maravilloso Dios",
       "url": "https://open.spotify.com/track/0U5SaWJBbeqqQOT1tQmYMF"
@@ -1088,7 +1110,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 160493,
       "name": "Renu\u00e9vame",
       "url": "https://open.spotify.com/track/4mx6VrZG5VTYrAo9wjocJg"
@@ -1106,7 +1128,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 164586,
       "name": "Renu\u00e9vame",
       "url": "https://open.spotify.com/track/0k6MpTbOusOwZVY6QTJ9kQ"
@@ -1464,10 +1486,32 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 203206,
       "name": "Tu amor por Mi",
       "url": "https://open.spotify.com/track/2bWQuqMF3uxDIzTi1DRjXT"
+    },
+    {
+      "album": {
+        "name": "25 Concierto Conmemorativo (En Vivo)",
+        "url": "https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "date_added": "2025-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113626,
+      "name": "Tu Amor por M\u00ed",
+      "url": "https://open.spotify.com/track/3xZX2uiPACsDdMRNQkSfh0"
     },
     {
       "album": {
@@ -1664,6 +1708,24 @@
       "duration_ms": 303576,
       "name": "Volar\u00e9",
       "url": "https://open.spotify.com/track/5EQfr8ZOPOR6BQCEzfphG5"
+    },
+    {
+      "album": {
+        "name": "Te Exaltamos",
+        "url": "https://open.spotify.com/album/3YyW3KUNoyXBkXkYTvC9EB"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2025-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191413,
+      "name": "Yo Quiero Ser Como T\u00fa",
+      "url": "https://open.spotify.com/track/0cpiz4C6bsk73yE1KfJfQ6"
     },
     {
       "album": {

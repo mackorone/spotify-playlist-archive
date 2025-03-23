@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa Davy ja Ege Zulu.
 
-835 songs - 1 day 15 hr 38 min
+836 songs - 1 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Delulu](https://open.spotify.com/track/23rEMK4z3yVPLI0cg3tNzi) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Delulu](https://open.spotify.com/album/0IYb2MAl3qPlRZxqKkRM8x) | 3:15 | 2024-05-09 | 2024-07-05 |
 | [Demoneista ystävii](https://open.spotify.com/track/3rK7sL207zzuVPq5iX0qpM) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Demoneista ystävii](https://open.spotify.com/album/2KfNKCtRsib5lzN9QbJsiS) | 3:01 | 2023-11-02 | 2024-02-23 |
 | [Demoni](https://open.spotify.com/track/67GFIdsOwFSwGx59b5vEu5) | [MunkkiTuk](https://open.spotify.com/artist/3564og7LWSGSFTFEe3doGR) | [Demoni](https://open.spotify.com/album/2kOyjw2vLBeKpkKIoNsiPw) | 2:09 | 2023-11-09 | 2023-11-17 |
+| [DIANA](https://open.spotify.com/track/1tyDlQvwms8mljMK3rO2Bd) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [DIANA](https://open.spotify.com/album/4boTBGtkKQZpEqpLTSLrlo) | 2:26 | 2025-03-22 |  |
 | [Diana](https://open.spotify.com/track/19LWPpXTX49k1KANJ46ydb) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Diana](https://open.spotify.com/album/7B837fOa9ySaE1M9mccVxX) | 2:58 | 2025-02-13 |  |
 | [Dice](https://open.spotify.com/track/5xod0Sm1xqBRMpc5qQnZyc) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Dice](https://open.spotify.com/album/5nKMPmfTjHJMOM1ZQRdOTk) | 3:00 | 2024-09-12 | 2024-10-18 |
 | [Digimon \(feat\. FUGE\)](https://open.spotify.com/track/13egElvTPEVqqYuQINluzd) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [FUGE](https://open.spotify.com/artist/0AIfzzVXSeTiPIXNOiuTlD) | [Digimon \(feat\. FUGE\)](https://open.spotify.com/album/5GMrG4vtOB5hX7y0gRlKEH) | 2:34 | 2025-03-20 |  |
@@ -730,7 +731,7 @@
 | [Toiset samanlaiset \(feat\. Käärijä\)](https://open.spotify.com/track/74GljYNzhYRF90chULPqsz) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI), [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Toiset samanlaiset \(feat\. Käärijä\)](https://open.spotify.com/album/73E36heeRiERsdYWTCCrN8) | 3:10 | 2023-12-08 | 2024-01-12 |
 | [Toista sua](https://open.spotify.com/track/0tQZ5PHjvaTprcgfdbOgKk) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Toista sua](https://open.spotify.com/album/39isGUjAreup0WQjnI3Syd) | 2:49 | 2024-10-10 | 2025-02-28 |
 | [Toistoi](https://open.spotify.com/track/0yHRLkeNe9j9vqek47Of6f) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Toistoi](https://open.spotify.com/album/7ubUJKPvPMLs4SBaWVa124) | 2:19 | 2023-12-14 | 2024-02-02 |
-| [Toivomuskaivo \(feat\. Timo Pieni Huijaus\)](https://open.spotify.com/track/6cAez5rngZi8qLEnXryODo) | [Uniikki](https://open.spotify.com/artist/1Q0Vv9aJFSOCFFHsH3seWX), [Timo Pieni Huijaus](https://open.spotify.com/artist/3QhMkujlcwd5TqLp4p3KUR) | [Toivomuskaivo \(feat\. Timo Pieni Huijaus\)](https://open.spotify.com/album/2h3WlAxuFfA4iig1sdMEDx) | 2:54 | 2025-02-13 |  |
+| [Toivomuskaivo \(feat\. Timo Pieni Huijaus\)](https://open.spotify.com/track/6cAez5rngZi8qLEnXryODo) | [Uniikki](https://open.spotify.com/artist/1Q0Vv9aJFSOCFFHsH3seWX), [Timo Pieni Huijaus](https://open.spotify.com/artist/3QhMkujlcwd5TqLp4p3KUR) | [Toivomuskaivo \(feat\. Timo Pieni Huijaus\)](https://open.spotify.com/album/2h3WlAxuFfA4iig1sdMEDx) | 2:54 | 2025-02-13 | 2025-03-23 |
 | [top 1](https://open.spotify.com/track/4MmjbfjYE9SrTIO6PnY2LC) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [untitled\_1](https://open.spotify.com/album/50WafaM5KtiYNylWSNrbZL) | 3:06 | 2024-02-22 | 2024-03-15 |
 | [Tosissaan](https://open.spotify.com/track/5oPF5gLiXrtZ1SrQQlUMZF) | [Nupe](https://open.spotify.com/artist/5u0QamnXCuX8MNukIIkkee), [Christina Bäckman](https://open.spotify.com/artist/6OgV5RTXbJZyCUeBzIO8q4) | [Tosissaan](https://open.spotify.com/album/18PEf3LB7BoDzI4Mhoho66) | 2:38 | 2024-05-02 | 2024-05-17 |
 | [Totta](https://open.spotify.com/track/4KiTZPhhIeB69bp1AyjyXe) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [Big Papa313](https://open.spotify.com/artist/00CSK0wSAAGoaLWR9uFuAp) | [TEILLE](https://open.spotify.com/album/7wCdrOe9Fs3lQ6IbC3vlx4) | 2:23 | 2024-06-13 | 2024-08-16 |

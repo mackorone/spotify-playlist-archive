@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Jack Harlow & Doja Cat, Aitch, YUNGBLUD and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,272 likes - 116 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,322 likes - 116 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 66 | [Cut The Cloth, Didn't I](https://open.spotify.com/track/3W8OGQbgnuOc1x1lu3WkEo) | [Tonia](https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx) | [Cut The Cloth, Didn't I](https://open.spotify.com/album/4xOT2TCqRaeUSXSgSQhplY) | 2:37 |
 | 67 | [In My System](https://open.spotify.com/track/7eV6nvr7yf0pKSqdKU4jsD) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [In My System](https://open.spotify.com/album/7jPrnsK4kJCxXOcTBCuD79) | 3:23 |
 | 68 | [Every Dawn's a Mountain](https://open.spotify.com/track/7EzAzLRWi5qu6FCDngwf1d) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Every Dawn's a Mountain](https://open.spotify.com/album/0S3ocN5MLEY4mFMJWY0VG1) | 4:07 |
-| 69 | [Go \(Don't Call My Phone\).wav](https://open.spotify.com/track/0g4HDpIwjhQcOYK0zJASTT) | [Keeya Keys](https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6), [Malika](https://open.spotify.com/artist/4oCDlRaa8yRpe4keBeoVjb) | [Go \(Don't Call My Phone\)](https://open.spotify.com/album/0bdK2fQ1g5CNagWgByQZrC) | 2:24 |
+| 69 | [Go \(Don't Call My Phone\)](https://open.spotify.com/track/0g4HDpIwjhQcOYK0zJASTT) | [Keeya Keys](https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6), [Malika](https://open.spotify.com/artist/4oCDlRaa8yRpe4keBeoVjb) | [Go \(Don't Call My Phone\)](https://open.spotify.com/album/0bdK2fQ1g5CNagWgByQZrC) | 2:24 |
 | 70 | [Back It Up](https://open.spotify.com/track/5bdKaYnig6IqBsQQqBUjHm) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Back It Up](https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY) | 2:36 |
 | 71 | [ROYAL MAIL](https://open.spotify.com/track/2MdTg9ZeluvC7uFut9gakR) | [TeeboFG](https://open.spotify.com/artist/7edFyKusasb7yyeTkBqVsI) | [ROYAL MAIL](https://open.spotify.com/album/40231X0DbALsprq61ksKOa) | 2:00 |
 | 72 | [Emily and Me](https://open.spotify.com/track/67cpAwhrwj0MQoidTigHVX) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Emily and Me](https://open.spotify.com/album/4WOMRf6IGT91cVl2wybIoY) | 4:12 |
 | 73 | [harlequin/los días azules](https://open.spotify.com/track/6Hr364Nq8YBBBRLbgVKdOR) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [harlequin/los días azules](https://open.spotify.com/album/0vkm8EXlPx69p5lqOuZ3BN) | 3:30 |
-| 74 | [Can't Get Enough](https://open.spotify.com/track/4OhBEzAyBJn7D0n1bIXQX7) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Haley May](https://open.spotify.com/artist/742vXms9wIV1U1wmCDm0f2) | [Can't Get Enough](https://open.spotify.com/album/3OBsgXDSLQGIa8HZVP4Zk9) | 3:19 |
+| 74 | [Can't Get Enough](https://open.spotify.com/track/4OhBEzAyBJn7D0n1bIXQX7) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Can't Get Enough](https://open.spotify.com/album/3OBsgXDSLQGIa8HZVP4Zk9) | 3:19 |
 | 75 | [Toothache](https://open.spotify.com/track/3evEYhfiNcwYERefV2u9ps) | [James Marriott](https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL) | [Toothache](https://open.spotify.com/album/6tEEA1bG0vpLFDVuCUb70p) | 3:17 |
 | 76 | [Proud](https://open.spotify.com/track/5Bnno6b2mmVozAO80DaA6T) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Proud](https://open.spotify.com/album/4x076qhw4E5POtKrEx3lDK) | 2:32 |
 | 77 | [Feel Free](https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [Feel Free](https://open.spotify.com/album/6xwNQOnPKZfUVeSV9A8vVf) | 3:02 |

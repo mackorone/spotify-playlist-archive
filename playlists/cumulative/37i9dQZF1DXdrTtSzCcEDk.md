@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of Buried Hearts\. \(보물섬의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-43 songs - 2 hr 23 min
+45 songs - 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,8 @@
 | [Stand By Me \- Instrumental](https://open.spotify.com/track/2MkQD4Y9XLF0NkzHDszA1n) | [Elaine](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/0bnmX48jdvWM1DI84cEvdC) | 3:19 | 2025-03-18 |  |
 | [Stronger \(What Doesn't Kill You\)](https://open.spotify.com/track/6D60klaHqbCl9ySc8VcRss) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj) | 3:41 | 2025-03-04 |  |
 | [Teeth](https://open.spotify.com/track/3NxWJWftvkstyxvb1pZlFo) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [CALM](https://open.spotify.com/album/46K4raQPIGem3N031upNj9) | 3:25 | 2025-03-04 |  |
+| [Think Of Me](https://open.spotify.com/track/4FIclO2rkmWgPKddpWQoI7) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/5hLi1SItRz5kCnGHFjVEt2) | 4:15 | 2025-03-22 |  |
+| [Think Of Me \- Instrumental](https://open.spotify.com/track/4thbXASxndrvCahl72eT80) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/5hLi1SItRz5kCnGHFjVEt2) | 4:15 | 2025-03-22 |  |
 | [Unstoppable](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:37 | 2025-03-04 |  |
 | [We Are](https://open.spotify.com/track/2SMq0lOqCTHayWa9juoI0d) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [We Are](https://open.spotify.com/album/67d43ZuedVWtZMc4nOm90J) | 3:16 | 2025-03-04 |  |
 | [Wego Wego](https://open.spotify.com/track/66VUcyKcFpi3Ks0HW9jjgt) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Wego Wego \(Killer Peter X Xdinary Heroes\) \[Original Webtoon Soundtrack\]](https://open.spotify.com/album/0cnPQZPwrX36jXboMOh264) | 3:08 | 2025-03-04 |  |

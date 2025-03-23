@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  D.O.D, NORTH
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 270,415 likes - 208 songs - 10 hr 46 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 270,406 likes - 208 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 8 | [Chasing Highs \(Twilight\)](https://open.spotify.com/track/3uoh9RUWxyGbZaTDVilw44) | [Warren](https://open.spotify.com/artist/3hsPrgSO08dwXVkDzFbfSY) | [Chasing Highs \(Twilight\)](https://open.spotify.com/album/3dlj4HJj1sKeKWYEzfCz7r) | 2:45 |
 | 9 | [Is It Beautiful? \(A State of Trance 2025 TRANSFORMATION Anthem\)](https://open.spotify.com/track/0oVnw2HtmZAMQAyUoWx2k1) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ), [Lucy Pullin](https://open.spotify.com/artist/3HVCvMqVWdpLtCwmvVViFn) | [Is It Beautiful? \(A State of Trance 2025 TRANSFORMATION Anthem\)](https://open.spotify.com/album/5WHDQlHysbxhyhAuEER4Vu) | 3:34 |
 | 10 | [Burn](https://open.spotify.com/track/6Qjj2GM9yVFD4mM9L3EfUx) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Burn](https://open.spotify.com/album/4VoDJLEzNcvNIMDSZ684yk) | 3:04 |
-| 11 | [Still Loving You](https://open.spotify.com/track/68u96oCCCHUT3VhNgbgOLs) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Still Loving You](https://open.spotify.com/album/01c0SVLZwyjVdzCDhKOc4G) | 3:37 |
+| 11 | [Still Loving You](https://open.spotify.com/track/68u96oCCCHUT3VhNgbgOLs) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd), [Porcelain](https://open.spotify.com/artist/6SoxBuLPk2kaupSod0zfEB) | [Still Loving You](https://open.spotify.com/album/01c0SVLZwyjVdzCDhKOc4G) | 3:37 |
 | 12 | [Lost In Loving You](https://open.spotify.com/track/3p4fWZjEKQyoW7ybknTCYv) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Lost In Loving You](https://open.spotify.com/album/1xL7rFjdago5PZ4vPzdEwO) | 2:35 |
 | 13 | [Change](https://open.spotify.com/track/27jzQtsnpdVmcX99nVkKUK) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Game Changers](https://open.spotify.com/album/4bMzuXDALsHhbvM4CysN9I) | 2:29 |
 | 14 | [By Your Side \(In My Mind\)](https://open.spotify.com/track/36Acx4c9pXuOssrPJxZVtH) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Oldschool Love](https://open.spotify.com/album/10c6iETu0ndVfdhSQjePUr) | 2:57 |

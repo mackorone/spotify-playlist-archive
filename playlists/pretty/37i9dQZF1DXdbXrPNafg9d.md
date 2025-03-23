@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Japanese Breakfast
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,291,212 likes - 170 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,291,245 likes - 170 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 19 | [Immigrant Songs](https://open.spotify.com/track/68UHXy1CYxlp6VsjJSYqaH) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [Immigrant Songs](https://open.spotify.com/album/1nw1TaoIrHaLSpBwSBqyqm) | 7:00 |
 | 20 | [Worst That Could Happen](https://open.spotify.com/track/1gmfLlgeaAhCTt1JFzqjiO) | [Casino Hearts](https://open.spotify.com/artist/131JU4HWYoO1AixJMbcS3z) | [A Walk in the Grass](https://open.spotify.com/album/0EohXKXpUG3W6newg6wmLc) | 4:12 |
 | 21 | [Babylon](https://open.spotify.com/track/40dyQB7OvOTRlMi3Q2lsPe) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8) | [Babylon](https://open.spotify.com/album/23A8uhcRtjZienf3cNLc0l) | 3:06 |
-| 22 | [Shit out of Luck](https://open.spotify.com/track/018ndD95iLeqNaKD5cR3aS) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Shit out of Luck](https://open.spotify.com/album/2FNZtxpE6kMclWyWREiUrW) | 3:44 |
+| 22 | [Shit Out Of Luck](https://open.spotify.com/track/018ndD95iLeqNaKD5cR3aS) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Shit Out Of Luck](https://open.spotify.com/album/2FNZtxpE6kMclWyWREiUrW) | 3:44 |
 | 23 | [little room](https://open.spotify.com/track/5ejcDCtiKg6fX0LHkBsZu4) | [porch kiss](https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT) | [little room](https://open.spotify.com/album/69n1pSsqcPHz83WAYOOxnD) | 2:24 |
 | 24 | [Flash in the Pan](https://open.spotify.com/track/3KUIeK4FvN2VthXUYe2ze7) | [Brian D'Addario](https://open.spotify.com/artist/4uYOahvnD68yiUJt0QlyBZ) | [Till the Morning](https://open.spotify.com/album/6OG5fnSzU2jJmHjlRk0o82) | 2:23 |
 | 25 | [Coat](https://open.spotify.com/track/5fC7PXEG80aCHs2HXixNGD) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Coat](https://open.spotify.com/album/7gKWo8kiC3Ohj0soQmyImM) | 4:20 |

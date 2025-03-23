@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Jay Wheeler, Ozuna, Lia Kali, Sebastian Yatra and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,140 likes - 53 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,204 likes - 53 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

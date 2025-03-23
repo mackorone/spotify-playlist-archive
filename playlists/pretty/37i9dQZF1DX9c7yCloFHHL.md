@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: Rival Consoles
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,133 likes - 118 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,287 likes - 118 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

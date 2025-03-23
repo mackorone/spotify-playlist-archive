@@ -4,7 +4,7 @@
 
 > เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: Tobii
 
-590 songs - 1 day 8 hr 38 min
+591 songs - 1 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Night Hour](https://open.spotify.com/track/75QeKAeFfy5Jlr551kvOc8) | [IRONBOY](https://open.spotify.com/artist/7GLqyoZnu5jGVWvGBulrne) | [Night Hour](https://open.spotify.com/album/4orsC9Iq2aNVGnu1TWTSyW) | 2:38 | 2023-10-12 | 2023-10-28 |
 | [Night Neon](https://open.spotify.com/track/3ZnOVHClSYBlGOgN0E5TiQ) | [SLOWVXNZ](https://open.spotify.com/artist/7uClfPNlDOpxugQX1zEjGg), [2K](https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E), [BlackHeart](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [Night Neon](https://open.spotify.com/album/2GmaoluoqbKbFdbXL5FXs6) | 4:30 | 2024-09-13 | 2024-09-28 |
 | [No Joke](https://open.spotify.com/track/7AIapZx4j6AvZ0R9xXqH5E) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX), [4BANG](https://open.spotify.com/artist/79jZrupKGTRsyOsJV1OwGK) | [No Joke](https://open.spotify.com/album/1eh7jRTdamrQ869WvhzOQk) | 2:32 | 2023-12-15 | 2023-12-22 |
-| [NO MORE](https://open.spotify.com/track/5z5hxac1RUFISePu7zcUCz) | [LIL X](https://open.spotify.com/artist/019QowkYEQYYiV8rhNg4ZT) | [NO MORE](https://open.spotify.com/album/7Idybnf7T1il67ONQTUrI8) | 2:34 | 2024-03-29 |  |
+| [NO MORE](https://open.spotify.com/track/5z5hxac1RUFISePu7zcUCz) | [LIL X](https://open.spotify.com/artist/019QowkYEQYYiV8rhNg4ZT) | [NO MORE](https://open.spotify.com/album/7Idybnf7T1il67ONQTUrI8) | 2:34 | 2024-03-29 | 2025-03-23 |
 | [No more lie](https://open.spotify.com/track/0WA2aprPA5mSr49EI4Rm3W) | [NICECNX](https://open.spotify.com/artist/0BFJirAb0i0oxwxTNINooQ) | [No more lie](https://open.spotify.com/album/2gO113zuLOSiUp1xORzGSj) | 2:34 | 2025-03-07 | 2025-03-22 |
 | [No Ticket For Haters](https://open.spotify.com/track/4ImW2yBela9S0sVPRJojMa) | [S2](https://open.spotify.com/artist/1LArok4vLyLUV16idPqEWf) | [No Ticket For Haters](https://open.spotify.com/album/09PWjPIwWlpLN7bN01AS7d) | 2:11 | 2024-09-27 | 2024-10-05 |
 | [Nobap](https://open.spotify.com/track/6afj1Hm7tb1lh0JDmByrMR) | [UNLITLED](https://open.spotify.com/artist/2C2dcZZgvkii4wU2Z0l6Dt) | [Nobap](https://open.spotify.com/album/3GdV4Pjn8Rz0VowVwxtFdF) | 2:58 | 2023-12-28 | 2024-01-06 |
@@ -384,6 +384,7 @@
 | [นางคนงาม](https://open.spotify.com/track/1G6uMKUOJNNqqKnxqMpEVX) | [Ptrp Studio](https://open.spotify.com/artist/1zUaU29NK5rZxdJoDdGaTM) | [นางคนงาม](https://open.spotify.com/album/1DPT2gOfuqt3S6sqi8axGP) | 2:32 | 2024-02-23 | 2024-03-02 |
 | [นานเท่าไหร่](https://open.spotify.com/track/0WzFWJ4P02zV5spmVwho6M) | [SAMBLACK](https://open.spotify.com/artist/39iFHReRQ9ZJnzbe3yhl4C) | [นานเท่าไหร่](https://open.spotify.com/album/2xj5RVSIRpFKjLy7EfaMP2) | 3:07 | 2024-12-27 | 2025-01-17 |
 | [น้ำตาลาเธอ](https://open.spotify.com/track/44ZijzKK0WXHbTa9rHbm4c) | [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M) | [น้ำตาลาเธอ](https://open.spotify.com/album/474IqKvnqNT8IR2kv0HAgm) | 3:32 | 2024-10-04 | 2024-10-12 |
+| [บทสรุปสุดท้าย](https://open.spotify.com/track/0gpFtSxhDc1gC7kYJ927fJ) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [บทสรุปสุดท้าย](https://open.spotify.com/album/0ClbWhARkNjt7ILo81OJ4K) | 4:24 | 2025-03-22 |  |
 | [บางครั้งก็จริง](https://open.spotify.com/track/37i8MkTaLwicciBitFVDcZ) | [N/A](https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40) | [บางครั้งก็จริง](https://open.spotify.com/album/7IsNI1aL8V1AjjBz8eDOJ7) | 3:21 | 2023-11-24 | 2023-12-02 |
 | [บาดแผล \- Traumatic](https://open.spotify.com/track/4mmidgKRM3NcRPhnP5PGi2) | [Ninja](https://open.spotify.com/artist/3vOZnEkCjYWuCAghHZ9yDJ), [K.AGLET](https://open.spotify.com/artist/3MjUtSzU4lplyjnX01fTSw), [N.NUT](https://open.spotify.com/artist/7H8MUhcCNqr0PQcpD40Nui) | [บาดแผล \(Traumatic\)](https://open.spotify.com/album/5rHW97Ajt9NlQ0cgUvFc3G) | 3:26 | 2024-01-26 | 2024-02-02 |
 | [บาบิดี้](https://open.spotify.com/track/30XzMliMxaiYBjfjOa2b4L) | [365DGANGBANG](https://open.spotify.com/artist/4pJji3LVnL9nSMXKICNMd2) | [บาบิดี้](https://open.spotify.com/album/6CX2Yoorwvb7UlGsLoIGyl) | 3:47 | 2024-02-01 | 2024-02-09 |

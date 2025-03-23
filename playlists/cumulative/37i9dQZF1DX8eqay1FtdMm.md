@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: LEECHANGSUB\(이창섭\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Song Sohee\(송소희\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-596 songs - 1 day 14 hr 59 min
+597 songs - 1 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [Lonely Night](https://open.spotify.com/track/5pHYQ1TuV7Ye5WWYcAxFjE) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [Color](https://open.spotify.com/album/5jzebpTutPXBN69mZOwzQy) | 3:38 | 2024-05-29 | 2024-06-06 |
 | [LONER](https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [If You Wish Upon Me OST Part.1](https://open.spotify.com/album/5XmjYOY19DZpCqaZ9QVG8A) | 3:39 | 2022-08-18 | 2023-01-11 |
 | [Long time no see](https://open.spotify.com/track/4PwrkFF5wNLBCJLxfEdtIW) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Long time no see \(Original Television Soundtrack From "The Witch Store Reopening"\)](https://open.spotify.com/album/52p2C1TriWORdN2fUGX4fc) | 3:28 | 2023-10-05 | 2023-10-16 |
-| [Longing For The One I Lost](https://open.spotify.com/track/5zmaQ67jCtABqcWzjQNa6w) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Longing For The One I Lost](https://open.spotify.com/album/41pUcaq83SjCE6ZIWfN4KM) | 3:56 | 2024-12-10 |  |
+| [Longing For The One I Lost](https://open.spotify.com/track/5zmaQ67jCtABqcWzjQNa6w) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Longing For The One I Lost](https://open.spotify.com/album/41pUcaq83SjCE6ZIWfN4KM) | 3:56 | 2024-12-10 | 2025-03-23 |
 | [Looking at the Photo](https://open.spotify.com/track/05vg8sTPGNYv7uKYbVU4e3) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Looking at the Photo \(REVIBE Vol.2\)](https://open.spotify.com/album/25JKB4F13k0KyACimQx081) | 4:39 | 2021-12-20 | 2022-07-24 |
 | [Looking For Love \(Man Ver.\)](https://open.spotify.com/track/0sN3z4fwRL8HmO96rCOm3A) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Oh My Venus \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/2RZaKdOuXB0obaW21fy3Oo) | 4:01 | 2022-04-01 |  |
 | [Lost](https://open.spotify.com/track/2pRmhfwgixiYF91SywOUFh) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Stranger 2 \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6ndtD6TsJ5d9gju1CIDf6Z) | 3:16 | 2021-12-20 | 2022-07-11 |
@@ -362,6 +362,7 @@
 | [No place to hide](https://open.spotify.com/track/60zGjGZpEd4EA5EJ6t1Zui) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [No place to hide](https://open.spotify.com/album/6lmLTu9uqEIE7RdS2bWgSz) | 3:39 | 2021-12-27 | 2022-07-17 |
 | [NO WHERE, NOW HERE](https://open.spotify.com/track/28l1FPRsb1TcvotgqZjbAL) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [NO WHERE, NOW HERE](https://open.spotify.com/album/4EPsnYqqFuaOX4NLypy8gR) | 4:00 | 2023-11-06 | 2023-12-02 |
 | [Nobody else \(Under the Oak Tree\) \- Original Soundtrack, Part\. 3](https://open.spotify.com/track/41hJZwfHtGsr3MxQa6V7bv) | [Jea](https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal) | [Nobody else \(Under the Oak Tree\) \[Original Soundtrack, Part\. 3\]](https://open.spotify.com/album/0HYFc6RTdNzocWOcSKkVP7) | 3:45 | 2022-01-27 | 2022-07-27 |
+| [Not a Dream](https://open.spotify.com/track/519ieUWSSFG5AuPCo0dy54) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [Not a Dream](https://open.spotify.com/album/35h7rXLmdDVgNOhN9Zo8t2) | 4:12 | 2025-03-22 |  |
 | [Not Anyone Else](https://open.spotify.com/track/4TFjrY1GsVbIUZrNH0OTim) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Not Anyone Else](https://open.spotify.com/album/60GKYHN9SHL0IdxZhU5uBR) | 4:18 | 2021-12-20 | 2022-07-23 |
 | [Not My Fault](https://open.spotify.com/track/1ysdMnzZoC0zedcbGnKChd) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ) | [Unsaid, Pt\. 1](https://open.spotify.com/album/6SKaAubOnUpjGqUi5T5W9z) | 4:38 | 2022-03-24 | 2022-04-19 |
 | [Nothing Between Us](https://open.spotify.com/track/7KbMO2Hk5u34XkLJzenQ0P) | [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [Nothing Between Us](https://open.spotify.com/album/3hbUZ75XswpL7LjJ5iyUWX) | 3:17 | 2021-12-20 | 2022-07-26 |

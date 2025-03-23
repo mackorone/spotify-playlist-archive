@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-142 songs - 7 hr 23 min
+144 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Golden \- aus "Angry Birds 2 \- Der Film"](https://open.spotify.com/track/4kOMmI3oj5KYGyzbwSudWs) | [Lukas Rieger](https://open.spotify.com/artist/0QPfdFGUGhEOrYAzdUw1Xx) | [Justice](https://open.spotify.com/album/1ryFzCTmkh8M2aKpI9Jnkn) | 2:36 | 2024-01-29 |  |
 | [Heaven Won't Cry](https://open.spotify.com/track/2yo6Ss3Ach5WN8AxgGf35L) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6eZHeiNCsuok4Tg5xxRwZa) | 4:21 | 2024-09-25 |  |
 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 | 2024-01-29 |  |
-| [Hungover You](https://open.spotify.com/track/5oS8taN73zLkFvdvkXjSHS) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Hungover You](https://open.spotify.com/album/1T2yR2jcjLyvcZBtr8k1AE) | 3:04 | 2024-01-29 |  |
+| [Hungover You](https://open.spotify.com/track/318IfrBxOfkJPGPRszfrzT) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Hungover You](https://open.spotify.com/album/7rL5DfwcQqW4kNuxQb8OeY) | 3:04 | 2025-03-22 |  |
+| [Hungover You](https://open.spotify.com/track/5oS8taN73zLkFvdvkXjSHS) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Hungover You](https://open.spotify.com/album/1T2yR2jcjLyvcZBtr8k1AE) | 3:04 | 2024-01-29 | 2025-03-23 |
 | [I Give Up I Love You](https://open.spotify.com/track/78iPQpg1w2gtjgV4CYdknl) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:10 | 2024-09-15 |  |
 | [I Give Up I Love You](https://open.spotify.com/track/1sNrEwP2DkCi3eUCYyBuyY) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv), [Aamor](https://open.spotify.com/artist/6d3iU65scdjVgRQqkgcNog) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:45 | 2024-10-02 | 2024-11-02 |
 | [I Like You](https://open.spotify.com/track/50tWrsyrKBu9UHamSxZdea) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6eZHeiNCsuok4Tg5xxRwZa) | 3:17 | 2024-09-22 |  |
@@ -102,6 +103,7 @@
 | [Playing With My Heart](https://open.spotify.com/track/3hMpunBF4cTJybNRSBMU3t) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Playing With My Heart](https://open.spotify.com/album/0S6XfMEhF99rXMBubMqJp3) | 2:44 | 2024-01-29 |  |
 | [Positions](https://open.spotify.com/track/0cBJaK5TrHIcdI0YH1cOAw) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [whoismoli](https://open.spotify.com/artist/4htty7YSmUIs1GeGBwwgRa) | [Positions](https://open.spotify.com/album/5Q9ohKVm82e9Pj61uXrJkY) | 2:38 | 2024-11-08 |  |
 | [Pretty When You Lie](https://open.spotify.com/track/2Bl0J01BAk7JkMGCtLdRz5) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Pretty When You Lie](https://open.spotify.com/album/7xEXzVF62ib2CVTIqKZGJa) | 2:15 | 2024-06-20 |  |
+| [Rhythm of Love](https://open.spotify.com/track/7fd4gTMhiTwKAcUxNG5dHO) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [Rhythm of Love](https://open.spotify.com/album/0Uk5EHLANopfR4a7a8PjS0) | 3:06 | 2025-03-22 |  |
 | [RIGHT HERE \- From The Voice Of Germany](https://open.spotify.com/track/308rSPY8eo8Da3zSzjwHfA) | [Tosi Udayana](https://open.spotify.com/artist/4TGQA5eDKdkyGCmOeLWJHE), [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [RIGHT HERE \(From The Voice Of Germany\)](https://open.spotify.com/album/7lnnPqjcnuhHnBSzoE2fLP) | 2:40 | 2024-07-10 |  |
 | [Rose Tinted Glass](https://open.spotify.com/track/0ZFyR9BTGHh3UwEshTCTJ2) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Rose Tinted Glass](https://open.spotify.com/album/4BAOiUD1gpDwGn3X0ehWe2) | 2:19 | 2024-06-20 | 2025-02-03 |
 | [Rose Tinted Glass](https://open.spotify.com/track/0jn4mx9HMpXHVIFqrFLDA6) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Violets From Lily](https://open.spotify.com/album/0H3C62RxEl93hRjZVKyODU) | 2:19 | 2025-02-02 |  |

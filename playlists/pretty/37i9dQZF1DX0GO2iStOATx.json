@@ -1,6 +1,6 @@
 {
   "description": "Punjabi superstar\u2019s biggest hits.",
-  "num_followers": 203948,
+  "num_followers": 204053,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
@@ -847,26 +847,6 @@
     {
       "added_at": "2025-02-15 05:04:10",
       "album": {
-        "name": "G.O.A.T.",
-        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Nimrat Khaira",
-          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Track Suit",
-      "url": "https://open.spotify.com/track/7ABCuDLEY2GyAwnGcqkmt2"
-    },
-    {
-      "added_at": "2025-02-15 05:04:10",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 154285,
       "name": "Poppin'",
       "url": "https://open.spotify.com/track/6jEpoHPMVryUcmLOJr5H2l"
+    },
+    {
+      "added_at": "2025-02-15 05:04:10",
+      "album": {
+        "name": "G.O.A.T.",
+        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Nimrat Khaira",
+          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "Track Suit",
+      "url": "https://open.spotify.com/track/7ABCuDLEY2GyAwnGcqkmt2"
     },
     {
       "added_at": "2025-02-15 05:04:10",

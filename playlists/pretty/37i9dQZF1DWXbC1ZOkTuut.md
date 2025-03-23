@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de música mexicana del 2025\. Hit shuffle for a mixed listening experience\. Cover: Eslabon Armado
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,863 likes - 81 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,879 likes - 81 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Cover: Egreen",
-  "num_followers": 45325,
+  "num_followers": 45331,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
-        "name": "Teoria Del Contrario Mixtape Vol. 3",
-        "url": "https://open.spotify.com/album/5P7QlydmH0HKv5u6VOwyOg"
-      },
-      "artists": [
-        {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
-        }
-      ],
-      "duration_ms": 129634,
-      "name": "AMORE + ODIO (intro) \u2013 Prod. ENRI",
-      "url": "https://open.spotify.com/track/3QrYhApVP7DlcOmEghyYzS"
-    },
-    {
-      "added_at": "2025-03-20 23:01:09",
-      "album": {
         "name": "CVLT - HELLRAISERS",
         "url": "https://open.spotify.com/album/5QpNXrDu68PAmxEXYDSePw"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 213269,
       "name": "RAP MONEY (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/4KyZqiE5MDR7gZNThBWjg0"
+    },
+    {
+      "added_at": "2025-03-20 23:01:09",
+      "album": {
+        "name": "Teoria Del Contrario Mixtape Vol. 3",
+        "url": "https://open.spotify.com/album/5P7QlydmH0HKv5u6VOwyOg"
+      },
+      "artists": [
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        }
+      ],
+      "duration_ms": 129634,
+      "name": "AMORE + ODIO (intro) \u2013 Prod. ENRI",
+      "url": "https://open.spotify.com/track/3QrYhApVP7DlcOmEghyYzS"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -571,30 +571,18 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
-        "name": "Teoria Del Contrario Mixtape Vol. 3",
-        "url": "https://open.spotify.com/album/5P7QlydmH0HKv5u6VOwyOg"
+        "name": "Kenny Wells",
+        "url": "https://open.spotify.com/album/0I6mOIKh7HwXTqpKMSjmzH"
       },
       "artists": [
         {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
-        },
-        {
-          "name": "Kkrisna",
-          "url": "https://open.spotify.com/artist/6mOW02ZcgtNJSF5jP8eqmf"
-        },
-        {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
-        },
-        {
-          "name": "Strage",
-          "url": "https://open.spotify.com/artist/4dImCGQSsBAbWPERma9wMG"
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
         }
       ],
-      "duration_ms": 173877,
-      "name": "VERBATIM (feat. Kkrisna & Johnny Marsiglia) \u2013 Prod. Strage",
-      "url": "https://open.spotify.com/track/0VtGVvtb1GYKqx6KwO6iG3"
+      "duration_ms": 198000,
+      "name": "Kenny Wells",
+      "url": "https://open.spotify.com/track/5KvYBH6Ux45afVhHiTgimO"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -699,22 +687,30 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
-        "name": "Flaneur",
-        "url": "https://open.spotify.com/album/1RdP7DtoHay28UDWe6Xm8N"
+        "name": "Teoria Del Contrario Mixtape Vol. 3",
+        "url": "https://open.spotify.com/album/5P7QlydmH0HKv5u6VOwyOg"
       },
       "artists": [
         {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
         },
         {
-          "name": "Ivana LCX",
-          "url": "https://open.spotify.com/artist/5V089NPCa9rnQNz4t1gBG6"
+          "name": "Kkrisna",
+          "url": "https://open.spotify.com/artist/6mOW02ZcgtNJSF5jP8eqmf"
+        },
+        {
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+        },
+        {
+          "name": "Strage",
+          "url": "https://open.spotify.com/artist/4dImCGQSsBAbWPERma9wMG"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Flaneur",
-      "url": "https://open.spotify.com/track/5pAeva0OSTjKO0j4jJpuoF"
+      "duration_ms": 173877,
+      "name": "VERBATIM (feat. Kkrisna & Johnny Marsiglia) \u2013 Prod. Strage",
+      "url": "https://open.spotify.com/track/0VtGVvtb1GYKqx6KwO6iG3"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -735,18 +731,22 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
-        "name": "Blocknotes",
-        "url": "https://open.spotify.com/album/3F57zSmT6EyCVv3kWmqi4p"
+        "name": "Flaneur",
+        "url": "https://open.spotify.com/album/1RdP7DtoHay28UDWe6Xm8N"
       },
       "artists": [
         {
-          "name": "Stokka & Madbuddy",
-          "url": "https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z"
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        },
+        {
+          "name": "Ivana LCX",
+          "url": "https://open.spotify.com/artist/5V089NPCa9rnQNz4t1gBG6"
         }
       ],
-      "duration_ms": 247600,
-      "name": "Quando un giorno tornerai",
-      "url": "https://open.spotify.com/track/2OwDaBDgiW6E6r1JguSbi9"
+      "duration_ms": 236000,
+      "name": "Flaneur",
+      "url": "https://open.spotify.com/track/5pAeva0OSTjKO0j4jJpuoF"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
+        "name": "Blocknotes",
+        "url": "https://open.spotify.com/album/3F57zSmT6EyCVv3kWmqi4p"
+      },
+      "artists": [
+        {
+          "name": "Stokka & Madbuddy",
+          "url": "https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z"
+        }
+      ],
+      "duration_ms": 247600,
+      "name": "Quando un giorno tornerai",
+      "url": "https://open.spotify.com/track/2OwDaBDgiW6E6r1JguSbi9"
+    },
+    {
+      "added_at": "2025-03-20 23:01:09",
+      "album": {
         "name": "Struggle Music",
         "url": "https://open.spotify.com/album/0yzj3wIn7Lx9m6ZbQgVY29"
       },
@@ -815,30 +831,6 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
-        "name": "SCATTO RUBATO",
-        "url": "https://open.spotify.com/album/75usAyt5XLtVDkVJBG4aTW"
-      },
-      "artists": [
-        {
-          "name": "En?gma",
-          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
-        },
-        {
-          "name": "Kaiz\u00e9n",
-          "url": "https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW"
-        },
-        {
-          "name": "Macaboro",
-          "url": "https://open.spotify.com/artist/7mtZP3UQaCaWhM2K8ubgF9"
-        }
-      ],
-      "duration_ms": 118320,
-      "name": "SCATTO RUBATO",
-      "url": "https://open.spotify.com/track/0pQ1Kd5yu4sjSNQQ3oVHQZ"
-    },
-    {
-      "added_at": "2025-03-20 23:01:09",
-      "album": {
         "name": "CVLT",
         "url": "https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1"
       },
@@ -859,18 +851,26 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
-        "name": "La citt\u00e0 degli angeli",
-        "url": "https://open.spotify.com/album/7vEp6yu8ZNPg9GNWPocW3h"
+        "name": "SCATTO RUBATO",
+        "url": "https://open.spotify.com/album/75usAyt5XLtVDkVJBG4aTW"
       },
       "artists": [
         {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+          "name": "En?gma",
+          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+        },
+        {
+          "name": "Kaiz\u00e9n",
+          "url": "https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW"
+        },
+        {
+          "name": "Macaboro",
+          "url": "https://open.spotify.com/artist/7mtZP3UQaCaWhM2K8ubgF9"
         }
       ],
-      "duration_ms": 230645,
-      "name": "La citt\u00e0 degli angeli",
-      "url": "https://open.spotify.com/track/2rpLKeCrIulitAoYSxTir7"
+      "duration_ms": 118320,
+      "name": "SCATTO RUBATO",
+      "url": "https://open.spotify.com/track/0pQ1Kd5yu4sjSNQQ3oVHQZ"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -919,6 +919,22 @@
       "duration_ms": 236573,
       "name": "Un mestiere qualunque",
       "url": "https://open.spotify.com/track/68OwzL0UGfgIKTpn0p1azy"
+    },
+    {
+      "added_at": "2025-03-20 23:01:09",
+      "album": {
+        "name": "La citt\u00e0 degli angeli",
+        "url": "https://open.spotify.com/album/7vEp6yu8ZNPg9GNWPocW3h"
+      },
+      "artists": [
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        }
+      ],
+      "duration_ms": 230645,
+      "name": "La citt\u00e0 degli angeli",
+      "url": "https://open.spotify.com/track/2rpLKeCrIulitAoYSxTir7"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
-        "name": "Marracash",
-        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 233120,
-      "name": "Bastavano Le Briciole",
-      "url": "https://open.spotify.com/track/6VFtdNEZ0iHCOvo1EdCfGb"
-    },
-    {
-      "added_at": "2025-03-20 23:01:09",
-      "album": {
         "name": "Dead Poets 3 - Maledetti",
         "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
       },
@@ -1039,6 +1039,22 @@
       "duration_ms": 172151,
       "name": "Sindrome di Stendhal",
       "url": "https://open.spotify.com/track/6SaI3nXXwwn7ErkiWNiA3I"
+    },
+    {
+      "added_at": "2025-03-20 23:01:09",
+      "album": {
+        "name": "Marracash",
+        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 233120,
+      "name": "Bastavano Le Briciole",
+      "url": "https://open.spotify.com/track/6VFtdNEZ0iHCOvo1EdCfGb"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
-        "name": "Riproduzione Vietata",
-        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
-      },
-      "artists": [
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        }
-      ],
-      "duration_ms": 253683,
-      "name": "L'Anima Giusta",
-      "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
-    },
-    {
-      "added_at": "2025-03-20 23:01:09",
-      "album": {
         "name": "Nuova Forma",
         "url": "https://open.spotify.com/album/5jk4fzc1c30kmNxixYaD9u"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 216146,
       "name": "Bla Bla Bla (feat. Daniele Silvestri)",
       "url": "https://open.spotify.com/track/2grhA3ctx7EfcNCxaMczkl"
+    },
+    {
+      "added_at": "2025-03-20 23:01:09",
+      "album": {
+        "name": "Riproduzione Vietata",
+        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
+      },
+      "artists": [
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        }
+      ],
+      "duration_ms": 253683,
+      "name": "L'Anima Giusta",
+      "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -1163,6 +1179,22 @@
       "duration_ms": 168546,
       "name": "Tinta unita (feat. Danno)",
       "url": "https://open.spotify.com/track/3jmoC0sFLeBrYbC5NujQK9"
+    },
+    {
+      "added_at": "2025-03-20 23:01:09",
+      "album": {
+        "name": "Marracash",
+        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Chiedi Alla Polvere 2008",
+      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -1207,18 +1239,18 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
-        "name": "Marracash",
-        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
+        "name": "Musica Cicatrene",
+        "url": "https://open.spotify.com/album/2lT5pe1rUrrhzLY0AYvu5d"
       },
       "artists": [
         {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
         }
       ],
-      "duration_ms": 265840,
-      "name": "Chiedi Alla Polvere 2008",
-      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
+      "duration_ms": 206626,
+      "name": "SECONDO MEDIOEVO",
+      "url": "https://open.spotify.com/track/5pqHMW2Nubqpii1BJhhVnZ"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -1243,22 +1275,6 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
-        "name": "Musica Cicatrene",
-        "url": "https://open.spotify.com/album/2lT5pe1rUrrhzLY0AYvu5d"
-      },
-      "artists": [
-        {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
-        }
-      ],
-      "duration_ms": 206626,
-      "name": "SECONDO MEDIOEVO",
-      "url": "https://open.spotify.com/track/5pqHMW2Nubqpii1BJhhVnZ"
-    },
-    {
-      "added_at": "2025-03-20 23:01:09",
-      "album": {
         "name": "SXM",
         "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
       },
@@ -1271,6 +1287,26 @@
       "duration_ms": 391733,
       "name": "La porra",
       "url": "https://open.spotify.com/track/0LUdlO6ZJMUFdV9jnSWDwv"
+    },
+    {
+      "added_at": "2025-03-20 23:01:09",
+      "album": {
+        "name": "Adversus",
+        "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
+      },
+      "artists": [
+        {
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+        },
+        {
+          "name": "Kaos One",
+          "url": "https://open.spotify.com/artist/1RFdjZ9IJTz0g3QmbV3kUh"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Miglia e promesse",
+      "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -1295,26 +1331,6 @@
       "duration_ms": 176470,
       "name": "Quadrato (feat. Massimo Pericolo)",
       "url": "https://open.spotify.com/track/7t1zhYgyeLNXfcxSHGlGU9"
-    },
-    {
-      "added_at": "2025-03-20 23:01:09",
-      "album": {
-        "name": "Adversus",
-        "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
-      },
-      "artists": [
-        {
-          "name": "Colle Der Fomento",
-          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
-        },
-        {
-          "name": "Kaos One",
-          "url": "https://open.spotify.com/artist/1RFdjZ9IJTz0g3QmbV3kUh"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Miglia e promesse",
-      "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -1491,34 +1507,6 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
-        "name": "Guerra fra poveri",
-        "url": "https://open.spotify.com/album/4zOunfgjcbRsITq6aek64C"
-      },
-      "artists": [
-        {
-          "name": "Mr. Phil",
-          "url": "https://open.spotify.com/artist/2mNbwJhZ2OcPkmVC5cq61V"
-        },
-        {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
-        },
-        {
-          "name": "Lord Bean",
-          "url": "https://open.spotify.com/artist/0cGbVTBBkJtorHIizldPZU"
-        },
-        {
-          "name": "Dj Double S",
-          "url": "https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0"
-        }
-      ],
-      "duration_ms": 309466,
-      "name": "Piombo & fango",
-      "url": "https://open.spotify.com/track/2X6W0Y0FeAhT7HU20iSXwy"
-    },
-    {
-      "added_at": "2025-03-20 23:01:09",
-      "album": {
         "name": "FLOW SUI GRADINI #15 (Badman) [feat. Ensi & Jack The Smoker]",
         "url": "https://open.spotify.com/album/65MyXyRVzrMFo9PlerNcGO"
       },
@@ -1543,6 +1531,34 @@
       "duration_ms": 204120,
       "name": "FLOW SUI GRADINI #15 (Badman) [feat. Ensi & Jack The Smoker]",
       "url": "https://open.spotify.com/track/2PEaAW2l39LLfoJD1UBNnI"
+    },
+    {
+      "added_at": "2025-03-20 23:01:09",
+      "album": {
+        "name": "Guerra fra poveri",
+        "url": "https://open.spotify.com/album/4zOunfgjcbRsITq6aek64C"
+      },
+      "artists": [
+        {
+          "name": "Mr. Phil",
+          "url": "https://open.spotify.com/artist/2mNbwJhZ2OcPkmVC5cq61V"
+        },
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        },
+        {
+          "name": "Lord Bean",
+          "url": "https://open.spotify.com/artist/0cGbVTBBkJtorHIizldPZU"
+        },
+        {
+          "name": "Dj Double S",
+          "url": "https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0"
+        }
+      ],
+      "duration_ms": 309466,
+      "name": "Piombo & fango",
+      "url": "https://open.spotify.com/track/2X6W0Y0FeAhT7HU20iSXwy"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -1591,30 +1607,6 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
-        "name": "Sacrosanto (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Om2nAPw1pT9BiK4vj1SDD"
-      },
-      "artists": [
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Silent Bob",
-          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
-        },
-        {
-          "name": "Clementino",
-          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
-        }
-      ],
-      "duration_ms": 164783,
-      "name": "La Fame",
-      "url": "https://open.spotify.com/track/3kwdLQJF7xuqa6FG9Us8Om"
-    },
-    {
-      "added_at": "2025-03-20 23:01:09",
-      "album": {
         "name": "Ferro del mestiere",
         "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
       },
@@ -1647,6 +1639,30 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
+        "name": "Sacrosanto (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Om2nAPw1pT9BiK4vj1SDD"
+      },
+      "artists": [
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        },
+        {
+          "name": "Clementino",
+          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
+        }
+      ],
+      "duration_ms": 164783,
+      "name": "La Fame",
+      "url": "https://open.spotify.com/track/3kwdLQJF7xuqa6FG9Us8Om"
+    },
+    {
+      "added_at": "2025-03-20 23:01:09",
+      "album": {
         "name": "Magico (RMX)",
         "url": "https://open.spotify.com/album/5sLfHeybDeYChi9Kb3qaS5"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 166288,
       "name": "Magico - RMX",
       "url": "https://open.spotify.com/track/6b8JPs39GF8QFqL7QCpAdv"
-    },
-    {
-      "added_at": "2025-03-20 23:01:09",
-      "album": {
-        "name": "Mi fist (Remastered version)",
-        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 194322,
-      "name": "Vida loca - Remix 2k4",
-      "url": "https://open.spotify.com/track/3ZiIgbO4CTKZYMO0EE1D9X"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -1763,6 +1763,38 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
+        "name": "Disco Inverno",
+        "url": "https://open.spotify.com/album/7ahoWKetSziBPjNTbs9xLe"
+      },
+      "artists": [
+        {
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+        }
+      ],
+      "duration_ms": 222880,
+      "name": "Senza paracadute",
+      "url": "https://open.spotify.com/track/2u8HqIiG8EAsgZs0AanR90"
+    },
+    {
+      "added_at": "2025-03-20 23:01:09",
+      "album": {
+        "name": "Mi fist (Remastered version)",
+        "url": "https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "duration_ms": 194322,
+      "name": "Vida loca - Remix 2k4",
+      "url": "https://open.spotify.com/track/3ZiIgbO4CTKZYMO0EE1D9X"
+    },
+    {
+      "added_at": "2025-03-20 23:01:09",
+      "album": {
         "name": "Sedicinoni",
         "url": "https://open.spotify.com/album/7tIWAR5flU4Qej47dd5zOV"
       },
@@ -1787,18 +1819,18 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
-        "name": "Disco Inverno",
-        "url": "https://open.spotify.com/album/7ahoWKetSziBPjNTbs9xLe"
+        "name": "Rapper Italiano",
+        "url": "https://open.spotify.com/album/7oOyCIvKK3sfPXLaAPwGs0"
       },
       "artists": [
         {
-          "name": "Mecna",
-          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
         }
       ],
-      "duration_ms": 222880,
-      "name": "Senza paracadute",
-      "url": "https://open.spotify.com/track/2u8HqIiG8EAsgZs0AanR90"
+      "duration_ms": 205226,
+      "name": "Rapper italiano",
+      "url": "https://open.spotify.com/track/3cjrqaNO6bDnnoraiZbJPw"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -1823,22 +1855,6 @@
       "duration_ms": 246000,
       "name": "Ancora luned\u00ec",
       "url": "https://open.spotify.com/track/0g6Mzl2iSnKcFeH1XK8zsO"
-    },
-    {
-      "added_at": "2025-03-20 23:01:09",
-      "album": {
-        "name": "Rapper Italiano",
-        "url": "https://open.spotify.com/album/7oOyCIvKK3sfPXLaAPwGs0"
-      },
-      "artists": [
-        {
-          "name": "Bassi Maestro",
-          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
-        }
-      ],
-      "duration_ms": 205226,
-      "name": "Rapper italiano",
-      "url": "https://open.spotify.com/track/3cjrqaNO6bDnnoraiZbJPw"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -1875,34 +1891,6 @@
       "duration_ms": 229560,
       "name": "Parole",
       "url": "https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN"
-    },
-    {
-      "added_at": "2025-03-20 23:01:09",
-      "album": {
-        "name": "Still From The '90s (The Manifesto) [Reloaded Version]",
-        "url": "https://open.spotify.com/album/4fxxXPJbmqqDc82MZdGHYf"
-      },
-      "artists": [
-        {
-          "name": "DJ Fede",
-          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
-        },
-        {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
-        },
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        },
-        {
-          "name": "Dj Tsura",
-          "url": "https://open.spotify.com/artist/7lne06t55Q9jZAR7Cg81lD"
-        }
-      ],
-      "duration_ms": 162151,
-      "name": "Still From The '90s (The Manifesto) - Reloaded Version",
-      "url": "https://open.spotify.com/track/7M8ITVNCWKcUTGGKvrsFCc"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -1951,30 +1939,30 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
-        "name": "Mercato nero",
-        "url": "https://open.spotify.com/album/3WRF5zh8b6OlHVIUdYbIyJ"
+        "name": "Still From The '90s (The Manifesto) [Reloaded Version]",
+        "url": "https://open.spotify.com/album/4fxxXPJbmqqDc82MZdGHYf"
       },
       "artists": [
         {
-          "name": "Nex Cassel",
-          "url": "https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe"
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
         },
         {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
         },
         {
-          "name": "Warez",
-          "url": "https://open.spotify.com/artist/4WdCVm6hL5quAfNhZzCB1s"
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
         },
         {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+          "name": "Dj Tsura",
+          "url": "https://open.spotify.com/artist/7lne06t55Q9jZAR7Cg81lD"
         }
       ],
-      "duration_ms": 275000,
-      "name": "F35",
-      "url": "https://open.spotify.com/track/4Mk8TVosV7qvFZhHWaaTto"
+      "duration_ms": 162151,
+      "name": "Still From The '90s (The Manifesto) - Reloaded Version",
+      "url": "https://open.spotify.com/track/7M8ITVNCWKcUTGGKvrsFCc"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -2035,18 +2023,50 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
-        "name": "The Waiter",
-        "url": "https://open.spotify.com/album/7pqpBhNzwu0joeYwPGGwZq"
+        "name": "Mercato nero",
+        "url": "https://open.spotify.com/album/3WRF5zh8b6OlHVIUdYbIyJ"
       },
       "artists": [
         {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+          "name": "Nex Cassel",
+          "url": "https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe"
+        },
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        },
+        {
+          "name": "Warez",
+          "url": "https://open.spotify.com/artist/4WdCVm6hL5quAfNhZzCB1s"
+        },
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
         }
       ],
-      "duration_ms": 132640,
-      "name": "Looper",
-      "url": "https://open.spotify.com/track/2xv5MjgDcYFat5mdo8nh7S"
+      "duration_ms": 275000,
+      "name": "F35",
+      "url": "https://open.spotify.com/track/4Mk8TVosV7qvFZhHWaaTto"
+    },
+    {
+      "added_at": "2025-03-20 23:01:09",
+      "album": {
+        "name": "CHIODI",
+        "url": "https://open.spotify.com/album/5D0ENA1yOxEQHl5995qVr9"
+      },
+      "artists": [
+        {
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+        },
+        {
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+        }
+      ],
+      "duration_ms": 248791,
+      "name": "L'uomo dei sogni",
+      "url": "https://open.spotify.com/track/6nkJT8b4WTTCoV2GwvIU2k"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -2075,22 +2095,18 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
-        "name": "CHIODI",
-        "url": "https://open.spotify.com/album/5D0ENA1yOxEQHl5995qVr9"
+        "name": "The Waiter",
+        "url": "https://open.spotify.com/album/7pqpBhNzwu0joeYwPGGwZq"
       },
       "artists": [
         {
-          "name": "Kaos",
-          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
-        },
-        {
-          "name": "Colle Der Fomento",
-          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
         }
       ],
-      "duration_ms": 248791,
-      "name": "L'uomo dei sogni",
-      "url": "https://open.spotify.com/track/6nkJT8b4WTTCoV2GwvIU2k"
+      "duration_ms": 132640,
+      "name": "Looper",
+      "url": "https://open.spotify.com/track/2xv5MjgDcYFat5mdo8nh7S"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -2207,30 +2223,6 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
-        "name": "Lettering Chicano",
-        "url": "https://open.spotify.com/album/2iKRemKxzwzQo1rvbKciuT"
-      },
-      "artists": [
-        {
-          "name": "DJ Skizo",
-          "url": "https://open.spotify.com/artist/22ZKZgLocbcA5rGu5KgXBZ"
-        },
-        {
-          "name": "Jangy Leeon",
-          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
-        },
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Lettering Chicano",
-      "url": "https://open.spotify.com/track/4J1yVvGR9HZfcUhw5t2nsh"
-    },
-    {
-      "added_at": "2025-03-20 23:01:09",
-      "album": {
         "name": "IDDU",
         "url": "https://open.spotify.com/album/5Gb0UlQfDweq4HU5k81qtL"
       },
@@ -2251,6 +2243,30 @@
       "duration_ms": 160365,
       "name": "Peri Peri",
       "url": "https://open.spotify.com/track/7Hi2almjxtGgAjODubaHEC"
+    },
+    {
+      "added_at": "2025-03-20 23:01:09",
+      "album": {
+        "name": "Lettering Chicano",
+        "url": "https://open.spotify.com/album/2iKRemKxzwzQo1rvbKciuT"
+      },
+      "artists": [
+        {
+          "name": "DJ Skizo",
+          "url": "https://open.spotify.com/artist/22ZKZgLocbcA5rGu5KgXBZ"
+        },
+        {
+          "name": "Jangy Leeon",
+          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
+        },
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Lettering Chicano",
+      "url": "https://open.spotify.com/track/4J1yVvGR9HZfcUhw5t2nsh"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -2299,6 +2315,30 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
+        "name": "L'Alba",
+        "url": "https://open.spotify.com/album/1Y22jyfbmfTrjb9m1CB3Xk"
+      },
+      "artists": [
+        {
+          "name": "La Cr\u00e8me",
+          "url": "https://open.spotify.com/artist/4aYVHIbCQ3TV25w41GWhfu"
+        },
+        {
+          "name": "Jack The Smoker",
+          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
+        },
+        {
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
+        }
+      ],
+      "duration_ms": 304560,
+      "name": "Disegni nella mente",
+      "url": "https://open.spotify.com/track/0C34kU6d7no87x9dgBsyyq"
+    },
+    {
+      "added_at": "2025-03-20 23:01:09",
+      "album": {
         "name": "Nuova Era",
         "url": "https://open.spotify.com/album/1faK0mEwzWWxkVEQGfFL8Q"
       },
@@ -2327,30 +2367,6 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
-        "name": "L'Alba",
-        "url": "https://open.spotify.com/album/1Y22jyfbmfTrjb9m1CB3Xk"
-      },
-      "artists": [
-        {
-          "name": "La Cr\u00e8me",
-          "url": "https://open.spotify.com/artist/4aYVHIbCQ3TV25w41GWhfu"
-        },
-        {
-          "name": "Jack The Smoker",
-          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
-        },
-        {
-          "name": "MACE",
-          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
-        }
-      ],
-      "duration_ms": 304560,
-      "name": "Disegni nella mente",
-      "url": "https://open.spotify.com/track/0C34kU6d7no87x9dgBsyyq"
-    },
-    {
-      "added_at": "2025-03-20 23:01:09",
-      "album": {
         "name": "Promo EP",
         "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
       },
@@ -2363,22 +2379,6 @@
       "duration_ms": 275202,
       "name": "Chi Paga",
       "url": "https://open.spotify.com/track/2tXbb9hzPUT8fPVShdLKRa"
-    },
-    {
-      "added_at": "2025-03-20 23:01:09",
-      "album": {
-        "name": "Qualcosa \u00e8 cambiato",
-        "url": "https://open.spotify.com/album/01ckjYfHeUMxArE52Ufwab"
-      },
-      "artists": [
-        {
-          "name": "Ghemon",
-          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
-        }
-      ],
-      "duration_ms": 262693,
-      "name": "La Verit\u00e0 (Non Abita Pi\u00f9 Qua)",
-      "url": "https://open.spotify.com/track/3a7IMYChDLGVEqubscuao1"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -2407,18 +2407,18 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
-        "name": "Kenny Wells",
-        "url": "https://open.spotify.com/album/0I6mOIKh7HwXTqpKMSjmzH"
+        "name": "Qualcosa \u00e8 cambiato",
+        "url": "https://open.spotify.com/album/01ckjYfHeUMxArE52Ufwab"
       },
       "artists": [
         {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+          "name": "Ghemon",
+          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Kenny Wells",
-      "url": "https://open.spotify.com/track/5KvYBH6Ux45afVhHiTgimO"
+      "duration_ms": 262693,
+      "name": "La Verit\u00e0 (Non Abita Pi\u00f9 Qua)",
+      "url": "https://open.spotify.com/track/3a7IMYChDLGVEqubscuao1"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -2439,6 +2439,34 @@
       "duration_ms": 235329,
       "name": "Pallottole Sull'Amore (feat. Fabri Fibra)",
       "url": "https://open.spotify.com/track/5ZgSHdkSfuTZcO157LTxuz"
+    },
+    {
+      "added_at": "2025-03-20 23:01:09",
+      "album": {
+        "name": "Rock On",
+        "url": "https://open.spotify.com/album/3ED3F1GWHUBZnaYdMtBKIa"
+      },
+      "artists": [
+        {
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+        },
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        },
+        {
+          "name": "Patrick Benifei",
+          "url": "https://open.spotify.com/artist/3dOrb7nbZX0f0nGEdZLgTx"
+        },
+        {
+          "name": "Dj Kamo",
+          "url": "https://open.spotify.com/artist/70gSqeThzMyjZt29jDdMh6"
+        }
+      ],
+      "duration_ms": 185714,
+      "name": "Gravit\u00e0",
+      "url": "https://open.spotify.com/track/1zHZxgTZ0knIS6rm1XlLU7"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -2511,6 +2539,34 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
+        "name": "Pineapple",
+        "url": "https://open.spotify.com/album/0fHCSCS4gFHgxzZhSaOVpD"
+      },
+      "artists": [
+        {
+          "name": "Giovane Feddini",
+          "url": "https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u"
+        },
+        {
+          "name": "Gccio",
+          "url": "https://open.spotify.com/artist/6rjWoojeyXGCHGQpjJQSlb"
+        },
+        {
+          "name": "MM",
+          "url": "https://open.spotify.com/artist/7vYGJGWGF6aS29MsFLuUGH"
+        },
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        }
+      ],
+      "duration_ms": 139950,
+      "name": "Pineapple",
+      "url": "https://open.spotify.com/track/7f4cnNLzZVgDKq34TERDIA"
+    },
+    {
+      "added_at": "2025-03-20 23:01:09",
+      "album": {
         "name": "Malastrada",
         "url": "https://open.spotify.com/album/5IMYdNhfIPMUGBtaf8Wghq"
       },
@@ -2523,6 +2579,30 @@
       "duration_ms": 191053,
       "name": "Malastrada",
       "url": "https://open.spotify.com/track/2RyKq1Xt3O65JediNE1VyY"
+    },
+    {
+      "added_at": "2025-03-20 23:01:09",
+      "album": {
+        "name": "Scrivo Ancora 3",
+        "url": "https://open.spotify.com/album/167xJZRSEzQp9MLsWDDrU2"
+      },
+      "artists": [
+        {
+          "name": "Drimer",
+          "url": "https://open.spotify.com/artist/3Qz694qtRw2d9yKFr8zK8u"
+        },
+        {
+          "name": "Giovane Feddini",
+          "url": "https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u"
+        },
+        {
+          "name": "Jack The Smoker",
+          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
+        }
+      ],
+      "duration_ms": 239494,
+      "name": "Nati per questo",
+      "url": "https://open.spotify.com/track/71Um2ad6jBsi1V9Sff5dVi"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -2555,30 +2635,6 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
-        "name": "Scrivo Ancora 3",
-        "url": "https://open.spotify.com/album/167xJZRSEzQp9MLsWDDrU2"
-      },
-      "artists": [
-        {
-          "name": "Drimer",
-          "url": "https://open.spotify.com/artist/3Qz694qtRw2d9yKFr8zK8u"
-        },
-        {
-          "name": "Giovane Feddini",
-          "url": "https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u"
-        },
-        {
-          "name": "Jack The Smoker",
-          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
-        }
-      ],
-      "duration_ms": 239494,
-      "name": "Nati per questo",
-      "url": "https://open.spotify.com/track/71Um2ad6jBsi1V9Sff5dVi"
-    },
-    {
-      "added_at": "2025-03-20 23:01:09",
-      "album": {
         "name": "Penna Capitale",
         "url": "https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL"
       },
@@ -2591,22 +2647,6 @@
       "duration_ms": 202885,
       "name": "Una Volta Sola",
       "url": "https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF"
-    },
-    {
-      "added_at": "2025-03-20 23:01:09",
-      "album": {
-        "name": "Dio lodato",
-        "url": "https://open.spotify.com/album/1LYlr506rnjgDipxwXwkzV"
-      },
-      "artists": [
-        {
-          "name": "Joe Cassano",
-          "url": "https://open.spotify.com/artist/5ZPb4m701cVcj87M0qbqtL"
-        }
-      ],
-      "duration_ms": 260183,
-      "name": "Dio lodato per sta chanche",
-      "url": "https://open.spotify.com/track/114hZLY1cAfvd9gFaDAxoN"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -2627,6 +2667,22 @@
       "duration_ms": 159000,
       "name": "Mondo Marcio Gue Pequeno (feat. Gu\u00e8) - 2022 Remastered",
       "url": "https://open.spotify.com/track/2TvY4Lm3sjBfTa71wXdMOU"
+    },
+    {
+      "added_at": "2025-03-20 23:01:09",
+      "album": {
+        "name": "Dio lodato",
+        "url": "https://open.spotify.com/album/1LYlr506rnjgDipxwXwkzV"
+      },
+      "artists": [
+        {
+          "name": "Joe Cassano",
+          "url": "https://open.spotify.com/artist/5ZPb4m701cVcj87M0qbqtL"
+        }
+      ],
+      "duration_ms": 260183,
+      "name": "Dio lodato per sta chanche",
+      "url": "https://open.spotify.com/track/114hZLY1cAfvd9gFaDAxoN"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -2719,6 +2775,26 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
+        "name": "Un giardino",
+        "url": "https://open.spotify.com/album/6TC98w3RK2R4z96zhMb3KJ"
+      },
+      "artists": [
+        {
+          "name": "Carlo Corallo",
+          "url": "https://open.spotify.com/artist/5qkSgK2UUXXa0DDBks4vqt"
+        },
+        {
+          "name": "Funk Shui Project",
+          "url": "https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E"
+        }
+      ],
+      "duration_ms": 238043,
+      "name": "Un giardino",
+      "url": "https://open.spotify.com/track/3S0IMV2tmNNBUjVzhXkfgj"
+    },
+    {
+      "added_at": "2025-03-20 23:01:09",
+      "album": {
         "name": "Generazione Di Sconvolti",
         "url": "https://open.spotify.com/album/79jJoqnwIm7NuDGFpvK0dV"
       },
@@ -2751,26 +2827,6 @@
       "duration_ms": 138292,
       "name": "Cultura Generale",
       "url": "https://open.spotify.com/track/5dRU587gIi1oO6yfHIma3V"
-    },
-    {
-      "added_at": "2025-03-20 23:01:09",
-      "album": {
-        "name": "Un giardino",
-        "url": "https://open.spotify.com/album/6TC98w3RK2R4z96zhMb3KJ"
-      },
-      "artists": [
-        {
-          "name": "Carlo Corallo",
-          "url": "https://open.spotify.com/artist/5qkSgK2UUXXa0DDBks4vqt"
-        },
-        {
-          "name": "Funk Shui Project",
-          "url": "https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E"
-        }
-      ],
-      "duration_ms": 238043,
-      "name": "Un giardino",
-      "url": "https://open.spotify.com/track/3S0IMV2tmNNBUjVzhXkfgj"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -2835,34 +2891,6 @@
       "duration_ms": 202000,
       "name": "Santi e Hoes (feat. Kilo KG) - Remix",
       "url": "https://open.spotify.com/track/6dDA0WGSLEx3mg1pYd0vn2"
-    },
-    {
-      "added_at": "2025-03-20 23:01:09",
-      "album": {
-        "name": "Rock On",
-        "url": "https://open.spotify.com/album/3ED3F1GWHUBZnaYdMtBKIa"
-      },
-      "artists": [
-        {
-          "name": "DJ Fede",
-          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
-        },
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        },
-        {
-          "name": "Patrick Benifei",
-          "url": "https://open.spotify.com/artist/3dOrb7nbZX0f0nGEdZLgTx"
-        },
-        {
-          "name": "Dj Kamo",
-          "url": "https://open.spotify.com/artist/70gSqeThzMyjZt29jDdMh6"
-        }
-      ],
-      "duration_ms": 185714,
-      "name": "Gravit\u00e0",
-      "url": "https://open.spotify.com/track/1zHZxgTZ0knIS6rm1XlLU7"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -2987,6 +3015,22 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
+        "name": "Chi more pe' mme",
+        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        }
+      ],
+      "duration_ms": 283480,
+      "name": "Chi more pe' mme",
+      "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
+    },
+    {
+      "added_at": "2025-03-20 23:01:09",
+      "album": {
         "name": "Rebus",
         "url": "https://open.spotify.com/album/0Otjtd9sT4ZwhzX7AirKC6"
       },
@@ -2999,62 +3043,6 @@
       "duration_ms": 193706,
       "name": "Bugie Bianche",
       "url": "https://open.spotify.com/track/4pMLcSYJgxfWtE5P7rpHPq"
-    },
-    {
-      "added_at": "2025-03-20 23:01:09",
-      "album": {
-        "name": "Pineapple",
-        "url": "https://open.spotify.com/album/0fHCSCS4gFHgxzZhSaOVpD"
-      },
-      "artists": [
-        {
-          "name": "Giovane Feddini",
-          "url": "https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u"
-        },
-        {
-          "name": "Gccio",
-          "url": "https://open.spotify.com/artist/6rjWoojeyXGCHGQpjJQSlb"
-        },
-        {
-          "name": "MM",
-          "url": "https://open.spotify.com/artist/7vYGJGWGF6aS29MsFLuUGH"
-        },
-        {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
-        }
-      ],
-      "duration_ms": 139950,
-      "name": "Pineapple",
-      "url": "https://open.spotify.com/track/7f4cnNLzZVgDKq34TERDIA"
-    },
-    {
-      "added_at": "2025-03-20 23:01:09",
-      "album": {
-        "name": "TRUENO",
-        "url": "https://open.spotify.com/album/0rONrHzPeWE8cFpo5REOSa"
-      },
-      "artists": [
-        {
-          "name": "STABBER",
-          "url": "https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g"
-        },
-        {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
-        },
-        {
-          "name": "Alborosie",
-          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
-        },
-        {
-          "name": "J Lord",
-          "url": "https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C"
-        }
-      ],
-      "duration_ms": 154623,
-      "name": "legends never die (feat. Johnny Marsiglia, Alborosie, J Lord)",
-      "url": "https://open.spotify.com/track/10waLSoAi6HzxMSP50jIRr"
     },
     {
       "added_at": "2025-03-20 23:01:09",
@@ -3075,22 +3063,6 @@
     {
       "added_at": "2025-03-20 23:01:09",
       "album": {
-        "name": "Chi more pe' mme",
-        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
-      },
-      "artists": [
-        {
-          "name": "Cosang",
-          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
-        }
-      ],
-      "duration_ms": 283480,
-      "name": "Chi more pe' mme",
-      "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
-    },
-    {
-      "added_at": "2025-03-20 23:01:09",
-      "album": {
         "name": "kARMA",
         "url": "https://open.spotify.com/album/6IGY3OoYPu02MkighTgO2N"
       },
@@ -3103,6 +3075,26 @@
       "duration_ms": 238773,
       "name": "Il 6\u00b0 Senso",
       "url": "https://open.spotify.com/track/1qoEXARIkDNbGAPLnynlAN"
+    },
+    {
+      "added_at": "2025-03-20 23:01:09",
+      "album": {
+        "name": "Luigi XVI",
+        "url": "https://open.spotify.com/album/2UUL2KiO5wsQxH4GWpPgnR"
+      },
+      "artists": [
+        {
+          "name": "Lanz Khan",
+          "url": "https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL"
+        },
+        {
+          "name": "Axos",
+          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
+        }
+      ],
+      "duration_ms": 183880,
+      "name": "Hashishin (feat. Axos)",
+      "url": "https://open.spotify.com/track/0uOVYFcPUSqp3i5o6KGv5L"
     }
   ],
   "unique_name": "Radici Hip-Hop",

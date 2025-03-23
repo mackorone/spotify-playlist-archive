@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Los Ángeles Azules y Kenia OS
 
-[Spotify](https://open.spotify.com/user/spotify) - 698,505 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 698,520 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 15 | [INTROvertido](https://open.spotify.com/track/6FKp6uZuar0fub2TzNwkvR) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [INTROvertido](https://open.spotify.com/album/092UguXHP7wSQSMV9W2rMs) | 3:18 |
 | 16 | [Ranchero](https://open.spotify.com/track/6i2IDQkO9VeLtDsZxjm3vl) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Ranchero](https://open.spotify.com/album/2jnkhpZGj7tnkiMeXLlj8Q) | 2:54 |
 | 17 | [Olvídame Tú](https://open.spotify.com/track/3im2pJYfitdQkOkOYI0VEc) | [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Olvídame Tú](https://open.spotify.com/album/0GzH5WVadhDCEmbXSRLBRP) | 2:54 |
-| 18 | [Inevitable](https://open.spotify.com/track/2VW5p88VmLtqesuiBQCLTb) | [Pablito Osorio](https://open.spotify.com/artist/1ZhRNCRp4k0fGK6p8OPV9t), [JPL](https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd) | [Inevitable](https://open.spotify.com/album/4QHK7ImosD6lAXgTZA9X0X) | 2:46 |
+| 18 | [Inevitable](https://open.spotify.com/track/2VW5p88VmLtqesuiBQCLTb) | [Pablito Osorio](https://open.spotify.com/artist/1ZhRNCRp4k0fGK6p8OPV9t), [JPL](https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd) | [Inevitable \(En Vivo\)](https://open.spotify.com/album/4QHK7ImosD6lAXgTZA9X0X) | 2:46 |
 | 19 | [De Tu Vida Ya Me Voy](https://open.spotify.com/track/2CC0R86Z01F6q2W62XkByv) | [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr) | [De Tu Vida Ya Me Voy](https://open.spotify.com/album/6tqdrYLnyDcpY65v61dPbe) | 3:12 |
 | 20 | [El Solicitado](https://open.spotify.com/track/0zi0S1FgVinwAxODEFrQpU) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [Puras Selecciones](https://open.spotify.com/album/1yWwirbJDCSoI6gNDbOAAH) | 3:42 |
 | 21 | [Cruda Moral](https://open.spotify.com/track/7wQbIuItdaE8kUfMIbb7zL) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Cruda Moral](https://open.spotify.com/album/1HIvvTrMhtebUi8TpqKq6J) | 3:07 |

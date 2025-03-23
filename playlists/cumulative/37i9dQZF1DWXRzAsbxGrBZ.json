@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Bring Another Bass",
+        "url": "https://open.spotify.com/album/6NoDGBWwkOMW4t47lAP1jR"
+      },
+      "artists": [
+        {
+          "name": "Chronical Deep",
+          "url": "https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387649,
+      "name": "Bring Another Bass",
+      "url": "https://open.spotify.com/track/1EvaBky4IXAE6GvyhqEral"
+    },
+    {
+      "album": {
         "name": "Can't Give Up Now (EarfulSoul)",
         "url": "https://open.spotify.com/album/6olF6HEAM2ivZ6FWT8mqoO"
       },
@@ -1286,7 +1304,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 288000,
       "name": "Forever",
       "url": "https://open.spotify.com/track/35HxHvOH4ajyjGFEBxEdBY"
@@ -2174,6 +2192,24 @@
       "duration_ms": 313440,
       "name": "King of Castles",
       "url": "https://open.spotify.com/track/5yK4SXGC0P5ak5kO4mj8cg"
+    },
+    {
+      "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/3XVyRiBQtZTxjrjtVL0Igx"
+      },
+      "artists": [
+        {
+          "name": "!Sooks",
+          "url": "https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 520677,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/43cbFFWsvH9ojZ0QaufdlH"
     },
     {
       "album": {
@@ -3408,7 +3444,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 311649,
       "name": "Once Again - Mixed",
       "url": "https://open.spotify.com/track/4l4ORGf3ThdKDjjyCOxJdL"

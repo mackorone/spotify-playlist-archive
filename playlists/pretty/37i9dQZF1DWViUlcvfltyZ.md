@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock e punk dall'Italia 🎸 Barkee Bay in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,306 likes - 102 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,305 likes - 102 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

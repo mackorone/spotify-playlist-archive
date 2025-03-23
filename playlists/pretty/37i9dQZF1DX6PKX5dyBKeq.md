@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Aitch
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394,231 likes - 70 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,394,197 likes - 70 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 27 | [Valentine's Type Beat](https://open.spotify.com/track/0OlvM8bkqZF92sONe21Jgx) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk), [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Valentine's Type Beat](https://open.spotify.com/album/0q7y4vzIgpcs4OCYgAO7iU) | 3:20 |
 | 28 | [2s n 3s](https://open.spotify.com/track/5Wzc4Qh6nBoWZz2TjRIHYG) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [2s n 3s](https://open.spotify.com/album/5XO5hOeV9vDooe90ufbCwT) | 3:00 |
 | 29 | [Winning](https://open.spotify.com/track/4ydau8p70NZBUpkupgjTEz) | [K Koke](https://open.spotify.com/artist/30n2M66Hu0LvcaRAJDrcxQ) | [Winning](https://open.spotify.com/album/7koLpEazXdRYNckonMmLBj) | 3:17 |
-| 30 | [Different Kettle](https://open.spotify.com/track/1vObJY9eIVytTyyvRSETGt) | [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q) | [Different Kettle](https://open.spotify.com/album/1yXBL2lnBAw0pS6Y7TIKjw) | 1:43 |
+| 30 | [DIFFERENT KETTLE](https://open.spotify.com/track/1vObJY9eIVytTyyvRSETGt) | [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q) | [DIFFERENT KETTLE](https://open.spotify.com/album/1yXBL2lnBAw0pS6Y7TIKjw) | 1:43 |
 | 31 | [Hoo A U](https://open.spotify.com/track/0kMPtn5pktM0ZtL5qik684) | [Kamakaze](https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm), [WIZE](https://open.spotify.com/artist/0b1Ixfw9ikmQSMkAnGPQBb) | [Hoo A U](https://open.spotify.com/album/2G74WxxiU6udXhuBrguuhx) | 2:41 |
 | 32 | [What Would You Do](https://open.spotify.com/track/3vSgVhz7cIV3nVOqF7o4bo) | [PS Hitsquad](https://open.spotify.com/artist/2EFfcfsFZxKJXnN63BqyPc) | [What Would You Do](https://open.spotify.com/album/6WWWIKrVpsukF5I3GcG1uL) | 3:11 |
 | 33 | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 |

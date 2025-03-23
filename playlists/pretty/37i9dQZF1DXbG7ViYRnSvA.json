@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 21718,
+  "num_followers": 21727,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Catching Dreams",
-        "url": "https://open.spotify.com/album/6k2MHYTdkGM5Mgmo0dwDtu"
-      },
-      "artists": [
-        {
-          "name": "J. Ivy",
-          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
-        }
-      ],
-      "duration_ms": 48038,
-      "name": "Your Time",
-      "url": "https://open.spotify.com/track/0FhQccfJxOwixsoqiJo2oz"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "The Mayhem Machine",
         "url": "https://open.spotify.com/album/35EJ8kPWBRUpQH7gKSkSSK"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 257071,
       "name": "Just Chill",
       "url": "https://open.spotify.com/track/4kPslnT97Uo6YdNpFcnrk4"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Catching Dreams",
+        "url": "https://open.spotify.com/album/6k2MHYTdkGM5Mgmo0dwDtu"
+      },
+      "artists": [
+        {
+          "name": "J. Ivy",
+          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
+        }
+      ],
+      "duration_ms": 48038,
+      "name": "Your Time",
+      "url": "https://open.spotify.com/track/0FhQccfJxOwixsoqiJo2oz"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -839,26 +839,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Catching Dreams",
-        "url": "https://open.spotify.com/album/6k2MHYTdkGM5Mgmo0dwDtu"
+        "name": "Middle America",
+        "url": "https://open.spotify.com/album/2OtKj14wexL3GezWDdbro6"
       },
       "artists": [
         {
-          "name": "J. Ivy",
-          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
-        },
-        {
-          "name": "Munyakazi Deo",
-          "url": "https://open.spotify.com/artist/7wndHqMTZ3IVrMpR0WKcMD"
-        },
-        {
-          "name": "1key",
-          "url": "https://open.spotify.com/artist/2OnqtAUmwkWba2VqkfnFKt"
+          "name": "Project Mayhem",
+          "url": "https://open.spotify.com/artist/10ZHewiVCPZxwb4bewgKPl"
         }
       ],
-      "duration_ms": 374849,
-      "name": "Finding Home in Rwanda",
-      "url": "https://open.spotify.com/track/3B8VmjKKdmkT2XByRT6Kq4"
+      "duration_ms": 230948,
+      "name": "No Room in the Limo",
+      "url": "https://open.spotify.com/track/4WbK3e9uLSFXuZSUzzsDMn"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -895,18 +887,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Middle America",
-        "url": "https://open.spotify.com/album/2OtKj14wexL3GezWDdbro6"
+        "name": "Catching Dreams",
+        "url": "https://open.spotify.com/album/6k2MHYTdkGM5Mgmo0dwDtu"
       },
       "artists": [
         {
-          "name": "Project Mayhem",
-          "url": "https://open.spotify.com/artist/10ZHewiVCPZxwb4bewgKPl"
+          "name": "J. Ivy",
+          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
+        },
+        {
+          "name": "Munyakazi Deo",
+          "url": "https://open.spotify.com/artist/7wndHqMTZ3IVrMpR0WKcMD"
+        },
+        {
+          "name": "1key",
+          "url": "https://open.spotify.com/artist/2OnqtAUmwkWba2VqkfnFKt"
         }
       ],
-      "duration_ms": 230948,
-      "name": "No Room in the Limo",
-      "url": "https://open.spotify.com/track/4WbK3e9uLSFXuZSUzzsDMn"
+      "duration_ms": 374849,
+      "name": "Finding Home in Rwanda",
+      "url": "https://open.spotify.com/track/3B8VmjKKdmkT2XByRT6Kq4"
     }
   ],
   "unique_name": "Coodie & Chike's Taste",

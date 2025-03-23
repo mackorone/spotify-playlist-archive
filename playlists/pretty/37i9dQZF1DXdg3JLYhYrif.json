@@ -1,6 +1,6 @@
 {
   "description": "Hits brasileiros dos \u00faltimos anos para animar sua faxina.",
-  "num_followers": 373700,
+  "num_followers": 373737,
   "original_name": "Dia de Faxina",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
+        "name": "Terra Sem Cep (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 141934,
+      "name": "Propaganda - Ao Vivo",
+      "url": "https://open.spotify.com/track/74n5d5M21JnC4WJ6gdkggK"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
         "name": "Quando a vontade bater (Participa\u00e7\u00e3o especial de PK Delas)",
         "url": "https://open.spotify.com/album/4xZooRPlL4QKyM0twraCtp"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 166400,
       "name": "Quando a vontade bater (Participa\u00e7\u00e3o especial de PK Delas)",
       "url": "https://open.spotify.com/track/26WpOBpHiIMoBuMEIwtOCH"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
-        "name": "Terra Sem Cep (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 141934,
-      "name": "Propaganda - Ao Vivo",
-      "url": "https://open.spotify.com/track/74n5d5M21JnC4WJ6gdkggK"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Simone & Simaria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM"
-      },
-      "artists": [
-        {
-          "name": "Simone & Simaria",
-          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
-        }
-      ],
-      "duration_ms": 232485,
-      "name": "Regime Fechado - Ao Vivo",
-      "url": "https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "Ao Vivo Em Goi\u00e2nia",
         "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 174653,
       "name": "10% - Ao Vivo",
       "url": "https://open.spotify.com/track/2wFnRPjuqwNySFiK0Qfg8L"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "Simone & Simaria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM"
+      },
+      "artists": [
+        {
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+        }
+      ],
+      "duration_ms": 232485,
+      "name": "Regime Fechado - Ao Vivo",
+      "url": "https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -491,30 +491,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Pouca Pausa",
-        "url": "https://open.spotify.com/album/4uvWaZXSz2eMn7YZXXXcS1"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        },
-        {
-          "name": "Cortesia Da Casa",
-          "url": "https://open.spotify.com/artist/4DdazUhIad0cymOHGifQO6"
-        },
-        {
-          "name": "Haikaiss",
-          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
-        }
-      ],
-      "duration_ms": 279756,
-      "name": "Pouca Pausa",
-      "url": "https://open.spotify.com/track/2odzriVVZBwYOiYJEj30tm"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "18K",
         "url": "https://open.spotify.com/album/5STh8ZE7MwksBxQo6APYbo"
       },
@@ -543,6 +519,30 @@
       "duration_ms": 284117,
       "name": "Meu Mundo",
       "url": "https://open.spotify.com/track/1hw5UuO6s1DRAJmCn4Nc1H"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "Pouca Pausa",
+        "url": "https://open.spotify.com/album/4uvWaZXSz2eMn7YZXXXcS1"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        },
+        {
+          "name": "Cortesia Da Casa",
+          "url": "https://open.spotify.com/artist/4DdazUhIad0cymOHGifQO6"
+        },
+        {
+          "name": "Haikaiss",
+          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
+        }
+      ],
+      "duration_ms": 279756,
+      "name": "Pouca Pausa",
+      "url": "https://open.spotify.com/track/2odzriVVZBwYOiYJEj30tm"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -667,26 +667,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Indom\u00e1vel (Participa\u00e7\u00e3o especial de Belo)",
-        "url": "https://open.spotify.com/album/7tWXS9xw3xY37qiORxOV6t"
-      },
-      "artists": [
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "Belo",
-          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
-        }
-      ],
-      "duration_ms": 213664,
-      "name": "Indom\u00e1vel (Participa\u00e7\u00e3o especial de Belo)",
-      "url": "https://open.spotify.com/track/4YbZBChhX5SkLhNJcvvhuD"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 221626,
       "name": "Passarinhos",
       "url": "https://open.spotify.com/track/0gGjX0aUg7OaUSAhi1CmDk"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "Indom\u00e1vel (Participa\u00e7\u00e3o especial de Belo)",
+        "url": "https://open.spotify.com/album/7tWXS9xw3xY37qiORxOV6t"
+      },
+      "artists": [
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Belo",
+          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
+        }
+      ],
+      "duration_ms": 213664,
+      "name": "Indom\u00e1vel (Participa\u00e7\u00e3o especial de Belo)",
+      "url": "https://open.spotify.com/track/4YbZBChhX5SkLhNJcvvhuD"
     },
     {
       "added_at": "2022-03-24 13:07:25",

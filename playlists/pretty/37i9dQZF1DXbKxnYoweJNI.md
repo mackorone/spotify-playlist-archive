@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: Andr x A.G.O
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,518 likes - 135 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,562 likes - 135 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 134 | [2486](https://open.spotify.com/track/7eK4oXmwrJuUdpnmjf0FLy) | [壞胚子BAD MAN](https://open.spotify.com/artist/4fk1PPhCwppRvWS0VtbFRK) | [2486](https://open.spotify.com/album/2QTmLPr7JD69KKpz87qKDm) | 2:34 |
 | 135 | [百萬遍](https://open.spotify.com/track/462EupYYvcbUpCyzc3uf6y) | [CHTHONIC](https://open.spotify.com/artist/3mBFvlqINbTNsRB6htlJEY) | [百萬遍](https://open.spotify.com/album/0EUspX2162PPMKExgHQK2v) | 4:18 |
 
-Snapshot ID: `Z9w7nQAAAACv7SSyyE43dXDY+jqFHnR/`
+Snapshot ID: `Z95luwAAAAB9V73GkHRUUqmYCpzc5vtr`

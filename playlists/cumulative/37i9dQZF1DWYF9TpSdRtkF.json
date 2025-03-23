@@ -516,7 +516,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 254893,
       "name": "bitter sweet",
       "url": "https://open.spotify.com/track/52GsSFv4NseYjXQW4v6vPO"
@@ -602,7 +602,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 282280,
       "name": "Blue Symphony",
       "url": "https://open.spotify.com/track/61pUUUV0ng4YJIdK3DHnvQ"
@@ -914,7 +914,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 271106,
       "name": "Catch my dream",
       "url": "https://open.spotify.com/track/0jgj7n4quchk3nSTdVJ7vF"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 265360,
       "name": "Clover's Cry \uff5e\u795e\u3068\u795e\u964d\u308d\u3057\u306e\u5c11\u5973\uff5e",
       "url": "https://open.spotify.com/track/451zwppHKXdKfRepQ3R7fr"
@@ -2008,7 +2008,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 270493,
       "name": "FIND YOUR WIND!",
       "url": "https://open.spotify.com/track/6ybyRhhlDFCwDqqy9rB6O1"
@@ -2446,7 +2446,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 295360,
       "name": "Harmony 4 You",
       "url": "https://open.spotify.com/track/6GFPjhnqRAisP3sGZrxbNu"
@@ -2744,7 +2744,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 248680,
       "name": "Just be myself!!",
       "url": "https://open.spotify.com/track/7f6KcplqyqS7iUYqM6zhVj"
@@ -3320,7 +3320,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 263186,
       "name": "Melty Fantasia",
       "url": "https://open.spotify.com/track/1bxWvoS6ILmvh0BWZ8atgV"
@@ -3631,6 +3631,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 07",
+        "url": "https://open.spotify.com/album/6QfajnzsLWHHvI54DyTvAA"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u795e \u74b0 (CV.\u7a32\u5ddd\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/5c4iSbsBs20H32f0mpPHxn"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221720,
+      "name": "Play GO! Round",
+      "url": "https://open.spotify.com/track/0njcLtuWimoHyD13Jijpj3"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 05",
         "url": "https://open.spotify.com/album/0RulRBQ4s2J5ejrTEDOjVQ"
       },
@@ -3678,7 +3696,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 276666,
       "name": "Precious Grain",
       "url": "https://open.spotify.com/track/78VkrLXLPjnEhwdatKWNcH"
@@ -3712,7 +3730,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 276413,
       "name": "PRETTY DREAMER",
       "url": "https://open.spotify.com/track/4QKS4SZo1brO5rAtHQs8YX"
@@ -4342,7 +4360,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 254360,
       "name": "Shamrock Vivace",
       "url": "https://open.spotify.com/track/7p9IccimWQHOevQ9JCMXct"
@@ -4578,7 +4596,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 260866,
       "name": "Sister",
       "url": "https://open.spotify.com/track/6XYvqX9ZryXfal8x0EOi9a"
@@ -4732,6 +4750,24 @@
       "duration_ms": 250240,
       "name": "Super Duper",
       "url": "https://open.spotify.com/track/6VCr0QWwUDSl958XU8Q43r"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 07",
+        "url": "https://open.spotify.com/album/6QfajnzsLWHHvI54DyTvAA"
+      },
+      "artists": [
+        {
+          "name": "\u6211\u90a3\u8987 \u97ff (CV.\u6cbc\u5009\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/1Cuw2qCekOnoFAZMkhVnrU"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224173,
+      "name": "Super Funky Piece!!",
+      "url": "https://open.spotify.com/track/0KTAUt7jGVDhXx6JlIj3ha"
     },
     {
       "album": {
@@ -5016,7 +5052,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 261466,
       "name": "Up!10sion Pleeeeeeeeease!",
       "url": "https://open.spotify.com/track/6yWr7XCrcTi8fhv8GDIf9Y"
@@ -5648,7 +5684,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 247186,
       "name": "\u30a2\u30e9\u30a4\u30a2\u30f3\u30b9\u30fb\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8",
       "url": "https://open.spotify.com/track/6Z1BgE3iXCdpEUoTf5Z3D0"
@@ -5806,6 +5842,24 @@
       "duration_ms": 300653,
       "name": "\u30ab\u30ef\u30e9\u30ca\u30a4\u30e2\u30ce",
       "url": "https://open.spotify.com/track/6robN2EygEzzv9V40cZrCE"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 04",
+        "url": "https://open.spotify.com/album/6J11xHMzVurnh6787kuCEc"
+      },
+      "artists": [
+        {
+          "name": "\u5fb3\u5ddd\u307e\u3064\u308a (CV.\u8acf\u8a2a\u5f69\u82b1)",
+          "url": "https://open.spotify.com/artist/2uTw4D9HmyZI0NmjCIJ7Mk"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254826,
+      "name": "\u30ab\u30fc\u30cb\u30f4\u30a1\u30eb\u30fb\u30b8\u30e3\u30d1\u30cd\u30b9\u30af",
+      "url": "https://open.spotify.com/track/2G4881yNHdKhNdFV3BbjyJ"
     },
     {
       "album": {
@@ -5999,6 +6053,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 08",
+        "url": "https://open.spotify.com/album/04LqpjfZj0C6Rhhoh6SHxA"
+      },
+      "artists": [
+        {
+          "name": "\u5cf6\u539f\u30a8\u30ec\u30ca (CV.\u89d2\u5143\u660e\u65e5\u9999)",
+          "url": "https://open.spotify.com/artist/5qK6C6COeVNyWWCiaBBJ12"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285400,
+      "name": "\u30b7\u30e3\u30af\u30cd\u30c4\u306e\u30d1\u30ec\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/0C3tL4R7m5P6gTCTfHL96r"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 06",
         "url": "https://open.spotify.com/album/7fLAz96U4EZYD0SLr6k7P4"
       },
@@ -6048,6 +6120,24 @@
       "duration_ms": 227666,
       "name": "\u30b7\u30e7\u30b3\u30e9\u30d6\u30eb \u30a4\u30d6",
       "url": "https://open.spotify.com/track/4GRTDhKqdqPwpiPsyDDQcr"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 08",
+        "url": "https://open.spotify.com/album/04LqpjfZj0C6Rhhoh6SHxA"
+      },
+      "artists": [
+        {
+          "name": "\u7530\u4e2d\u7434\u8449 (CV.\u7a2e\u7530\u68a8\u6c99)",
+          "url": "https://open.spotify.com/artist/7nWfYmhtBHHl636afYgfV7"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309066,
+      "name": "\u30b7\u30eb\u30a8\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/6jMgYPpRm4okCUHHYE7CEh"
     },
     {
       "album": {
@@ -6488,7 +6578,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 255466,
       "name": "\u30cf\u30eb\u30ab\u30ca\u30df\u30e9\u30a4",
       "url": "https://open.spotify.com/track/2aKMK4hXple1Fv2Tq6VP70"
@@ -6562,7 +6652,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 260812,
       "name": "\u30d1\u30f3\u3068\u30d5\u30a3\u30eb\u30e0",
       "url": "https://open.spotify.com/track/5D5FccKInfjYTGs7fozkwB"
@@ -6648,6 +6738,24 @@
       "duration_ms": 258665,
       "name": "\u30d4\u30b3\u30d4\u30b3IIKO! \u30a4\u30f3\u30d9\u30fc\u30c0\u30fc",
       "url": "https://open.spotify.com/track/5TUdRorYh52Mfr5Bc8VP5G"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 08",
+        "url": "https://open.spotify.com/album/2qhAZ0KaYoKlCw8uAe11SM"
+      },
+      "artists": [
+        {
+          "name": "\u6c34\u702c\u4f0a\u7e54 (CV.\u91d8\u5bae\u7406\u6075)",
+          "url": "https://open.spotify.com/artist/1W2EUjRlJmNFEsunUvGZPE"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262466,
+      "name": "\u30d4\u30f3\u30af\u30ed\u30fc\u30ba\u30a2\u30d7\u30ed\u30fc\u30ba",
+      "url": "https://open.spotify.com/track/0xiZds6pqg5WbTVdH4rwki"
     },
     {
       "album": {
@@ -7020,7 +7128,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 301266,
       "name": "\u30ea\u30d5\u30ec\u30a4\u30f3\u30ad\u30b9",
       "url": "https://open.spotify.com/track/09bGez10DkAcqceZmOKMnW"
@@ -7050,7 +7158,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 301573,
       "name": "\u30ea\u30d5\u30ec\u30a4\u30f3\u30ad\u30b9 - Brand New Ver.",
       "url": "https://open.spotify.com/track/6qik4NVB7AHXb6MyeWafRC"
@@ -7240,7 +7348,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 301093,
       "name": "\u521d\u604b\u30d0\u30bf\u30d5\u30e9\u30a4",
       "url": "https://open.spotify.com/track/1oruUGPhDKQpgrJSDTrQub"
@@ -7326,7 +7434,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-18",
+      "date_removed": null,
       "duration_ms": 317706,
       "name": "\u541b\u3060\u3051\u306e\u6b20\u7247",
       "url": "https://open.spotify.com/track/2PsRuVjZrJYkRCQwJhjG2Z"
@@ -8218,7 +8326,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 289213,
       "name": "\u7a7a\u306b\u624b\u304c\u89e6\u308c\u308b\u5834\u6240",
       "url": "https://open.spotify.com/track/2tCyPUyugrIjVn8oI9qaoR"
@@ -8346,6 +8454,24 @@
       "duration_ms": 318226,
       "name": "\u7d75\u7fbd\u6a21\u69d8",
       "url": "https://open.spotify.com/track/3eQ9I02KrBpGiHDDXWeQtq"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 08",
+        "url": "https://open.spotify.com/album/2qhAZ0KaYoKlCw8uAe11SM"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u5742\u6d77\u7f8e (CV.\u4e0a\u7530\u9e97\u5948)",
+          "url": "https://open.spotify.com/artist/6AZndMQu5mgIHidhE5rB7v"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297000,
+      "name": "\u7f8e\uff01\u7f8e\uff01\u7f8e\uff01\u30d3\u30eb\u30c9UP!!",
+      "url": "https://open.spotify.com/track/1bFqTwrIzqBmx0R0RZ4IZF"
     },
     {
       "album": {

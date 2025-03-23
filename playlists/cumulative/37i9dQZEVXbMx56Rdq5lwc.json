@@ -2718,7 +2718,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -5410,7 +5410,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 292373,
       "name": "Champagne Coast",
       "url": "https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd"
@@ -8606,7 +8606,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-20",
+      "date_removed": null,
       "duration_ms": 174339,
       "name": "D\u0117l Tav\u0119s",
       "url": "https://open.spotify.com/track/1CoPFeke35DJySiGTZNSrx"
@@ -11026,7 +11026,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 155000,
       "name": "Gegu\u017eis",
       "url": "https://open.spotify.com/track/46GIpYTmWhr5MEiwE02pYL"
@@ -12480,7 +12480,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 212598,
       "name": "HBA",
       "url": "https://open.spotify.com/track/6q2PbvM9UEig4r8xku7VIb"
@@ -12538,7 +12538,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 215338,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
@@ -15334,7 +15334,7 @@
       ],
       "date_added": "2025-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 202210,
       "name": "I\u0161gama",
       "url": "https://open.spotify.com/track/6UMGiHrA0QSQjjsb2egkcp"
@@ -16048,7 +16048,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 208941,
       "name": "Kai Tu \u017dengi G\u016b\u017eiasi Vilnius",
       "url": "https://open.spotify.com/track/1ds58OL7NFssb4MlqyKRky"
@@ -16632,7 +16632,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 256764,
       "name": "Kitoks Pasaulis (2017)",
       "url": "https://open.spotify.com/track/5oz5vn82VQqKq5UmkPurYS"
@@ -20132,10 +20132,28 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 280470,
       "name": "Meil\u0117s Ma\u0161ina",
       "url": "https://open.spotify.com/track/45F3XqTHMDDpuIIHKySqXU"
+    },
+    {
+      "album": {
+        "name": "Scenos",
+        "url": "https://open.spotify.com/album/0PoUddfyAG48OhdCt842Bf"
+      },
+      "artists": [
+        {
+          "name": "Solo Ansamblis",
+          "url": "https://open.spotify.com/artist/3ijila8dsJCViL148nKkW9"
+        }
+      ],
+      "date_added": "2025-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280470,
+      "name": "Meil\u0117s Ma\u0161ina",
+      "url": "https://open.spotify.com/track/5vYEYDozkj6nosJ7CyYJg9"
     },
     {
       "album": {
@@ -23383,6 +23401,24 @@
     },
     {
       "album": {
+        "name": "Scenos",
+        "url": "https://open.spotify.com/album/0PoUddfyAG48OhdCt842Bf"
+      },
+      "artists": [
+        {
+          "name": "Solo Ansamblis",
+          "url": "https://open.spotify.com/artist/3ijila8dsJCViL148nKkW9"
+        }
+      ],
+      "date_added": "2025-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349395,
+      "name": "Nuobodu",
+      "url": "https://open.spotify.com/track/5zGJihKtSJMppeTRbPZ7jg"
+    },
+    {
+      "album": {
         "name": "NAUTO",
         "url": "https://open.spotify.com/album/1XXP7AmLVPFsriIOegQYUf"
       },
@@ -23496,6 +23532,24 @@
       "duration_ms": 320760,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/5547x0ZawobhfSeh2QKAca"
+    },
+    {
+      "album": {
+        "name": "Scenos",
+        "url": "https://open.spotify.com/album/0PoUddfyAG48OhdCt842Bf"
+      },
+      "artists": [
+        {
+          "name": "Solo Ansamblis",
+          "url": "https://open.spotify.com/artist/3ijila8dsJCViL148nKkW9"
+        }
+      ],
+      "date_added": "2025-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350137,
+      "name": "Oda",
+      "url": "https://open.spotify.com/track/4rGbuFOJ0lxkGNz7dt9DSE"
     },
     {
       "album": {
@@ -24782,6 +24836,24 @@
       "duration_ms": 207280,
       "name": "Para\u0161yk Man Lai\u0161k\u0105 I\u0161 Pary\u017eiaus",
       "url": "https://open.spotify.com/track/4esgPC4gyawQNRNtKvqo3I"
+    },
+    {
+      "album": {
+        "name": "Scenos",
+        "url": "https://open.spotify.com/album/0PoUddfyAG48OhdCt842Bf"
+      },
+      "artists": [
+        {
+          "name": "Solo Ansamblis",
+          "url": "https://open.spotify.com/artist/3ijila8dsJCViL148nKkW9"
+        }
+      ],
+      "date_added": "2025-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335178,
+      "name": "Parke",
+      "url": "https://open.spotify.com/track/3dyDVJJAL2qbxQpn7vhPdC"
     },
     {
       "album": {
@@ -28895,6 +28967,24 @@
     },
     {
       "album": {
+        "name": "Scenos",
+        "url": "https://open.spotify.com/album/0PoUddfyAG48OhdCt842Bf"
+      },
+      "artists": [
+        {
+          "name": "Solo Ansamblis",
+          "url": "https://open.spotify.com/artist/3ijila8dsJCViL148nKkW9"
+        }
+      ],
+      "date_added": "2025-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333807,
+      "name": "Scenos",
+      "url": "https://open.spotify.com/track/38GkU8I5VmZshSgzX8UjCD"
+    },
+    {
+      "album": {
         "name": "The Car",
         "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
       },
@@ -31986,7 +32076,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
@@ -32450,7 +32540,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 172800,
       "name": "Tavo akys",
       "url": "https://open.spotify.com/track/1imPa2lzxmLKggLCpkBAoo"
@@ -32562,6 +32652,24 @@
       "duration_ms": 159893,
       "name": "TEFLON DON",
       "url": "https://open.spotify.com/track/2jnezASa7o0lP6aif6VrIf"
+    },
+    {
+      "album": {
+        "name": "Scenos",
+        "url": "https://open.spotify.com/album/0PoUddfyAG48OhdCt842Bf"
+      },
+      "artists": [
+        {
+          "name": "Solo Ansamblis",
+          "url": "https://open.spotify.com/artist/3ijila8dsJCViL148nKkW9"
+        }
+      ],
+      "date_added": "2025-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329918,
+      "name": "Tekstai U\u017era\u0161ai",
+      "url": "https://open.spotify.com/track/7kIglIEhYNsYqUGcp9TuwX"
     },
     {
       "album": {
@@ -32718,6 +32826,24 @@
       "duration_ms": 269421,
       "name": "Ten, Kur Tu",
       "url": "https://open.spotify.com/track/0dyTM71N5e3o3VJlhKoYgb"
+    },
+    {
+      "album": {
+        "name": "Scenos",
+        "url": "https://open.spotify.com/album/0PoUddfyAG48OhdCt842Bf"
+      },
+      "artists": [
+        {
+          "name": "Solo Ansamblis",
+          "url": "https://open.spotify.com/artist/3ijila8dsJCViL148nKkW9"
+        }
+      ],
+      "date_added": "2025-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276023,
+      "name": "Tendencija",
+      "url": "https://open.spotify.com/track/0ASkGHkVTBtMp5u7NLSHeI"
     },
     {
       "album": {
@@ -34378,7 +34504,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 135275,
       "name": "TOXIC (with Skepta)",
       "url": "https://open.spotify.com/track/4evMMKc2HD6fV9slMfgkMx"
@@ -36077,6 +36203,24 @@
     },
     {
       "album": {
+        "name": "Vis Vien",
+        "url": "https://open.spotify.com/album/7BVevDxREyse4bf6Sp0Ztv"
+      },
+      "artists": [
+        {
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+        }
+      ],
+      "date_added": "2025-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158446,
+      "name": "Vis Vien",
+      "url": "https://open.spotify.com/track/0irt6kgL5WSYGylZtT07P6"
+    },
+    {
+      "album": {
         "name": "Visiems Reikia Meil\u0117s",
         "url": "https://open.spotify.com/album/0WghARoKRu5Qj2W3yoLHcK"
       },
@@ -36598,7 +36742,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-22",
+      "date_removed": null,
       "duration_ms": 267354,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/0rhoLQVFCojDGFyl0nsdVZ"
@@ -36616,7 +36760,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 267373,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"
@@ -38221,6 +38365,24 @@
     },
     {
       "album": {
+        "name": "Scenos",
+        "url": "https://open.spotify.com/album/0PoUddfyAG48OhdCt842Bf"
+      },
+      "artists": [
+        {
+          "name": "Solo Ansamblis",
+          "url": "https://open.spotify.com/artist/3ijila8dsJCViL148nKkW9"
+        }
+      ],
+      "date_added": "2025-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269779,
+      "name": "\u0160ermuk\u0161nis",
+      "url": "https://open.spotify.com/track/4TAnfMosv2MT6IyTha4jwo"
+    },
+    {
+      "album": {
         "name": "\u0160ermuk\u0161nis",
         "url": "https://open.spotify.com/album/4CQjnyRwaULId76QQ1hk5d"
       },
@@ -38326,7 +38488,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 156000,
       "name": "\u0160okam L\u0117tai",
       "url": "https://open.spotify.com/track/0woi2knxQucSRKtrX6a7eC"
@@ -38472,6 +38634,24 @@
       "duration_ms": 262410,
       "name": "\u0160VELNUMAS",
       "url": "https://open.spotify.com/track/1nSYbKEsXyHdG3iIn4PbpL"
+    },
+    {
+      "album": {
+        "name": "Scenos",
+        "url": "https://open.spotify.com/album/0PoUddfyAG48OhdCt842Bf"
+      },
+      "artists": [
+        {
+          "name": "Solo Ansamblis",
+          "url": "https://open.spotify.com/artist/3ijila8dsJCViL148nKkW9"
+        }
+      ],
+      "date_added": "2025-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258599,
+      "name": "\u0160veln\u016bs Jausmai",
+      "url": "https://open.spotify.com/track/2LGANP739RvzlguG2Nn0Ed"
     },
     {
       "album": {

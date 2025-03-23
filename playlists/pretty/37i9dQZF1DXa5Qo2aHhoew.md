@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5Qo2aHhoew.md) - [plain]
 
 > Go auf with music from and inspired by the new Original series Pitch Perfect: Bumper in Berlin, streaming only on <a href="https://www.peacocktv.com/stream\-tv/pitch\-perfect\-bumper\-in\-berlin">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,321 likes - 35 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,326 likes - 35 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

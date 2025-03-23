@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Paris Texas
 
-[Spotify](https://open.spotify.com/user/spotify) - 965,356 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 965,380 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 11 | [CLOVER](https://open.spotify.com/track/0ceAnr7yV1CO6Hseca0vrB) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [CLOVER](https://open.spotify.com/album/5Qd57v5SWaP70VXJBzmu1j) | 3:10 |
 | 12 | [DRESScode](https://open.spotify.com/track/1wOtaODw1gIZve9aQ0Nv1t) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [DRESScode](https://open.spotify.com/album/5UMBQyB5LKje7cKOFma8vP) | 2:28 |
 | 13 | [I Look Like My Dad](https://open.spotify.com/track/7CUvxNQrKevhiqDIydf4Bb) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [I Look Like My Dad](https://open.spotify.com/album/3iIOsvrUJNSGXUzdivWNQ5) | 2:37 |
-| 14 | [IS MY MIC ON](https://open.spotify.com/track/1cNXgfdJXQ94n8rs860x5r) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [IS MY MIC ON](https://open.spotify.com/album/4rgZ66dfJJ17VUyzNCLtUv) | 2:40 |
+| 14 | [IS MY MIC ON?](https://open.spotify.com/track/1cNXgfdJXQ94n8rs860x5r) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [IS MY MIC ON?](https://open.spotify.com/album/4rgZ66dfJJ17VUyzNCLtUv) | 2:40 |
 | 15 | [Brand New](https://open.spotify.com/track/6aemWgxmwTJGbCYqvngQ01) | [The Underachievers](https://open.spotify.com/artist/51Pn4gGnZuyOMDfIT1Zy3N), [Issa Gold](https://open.spotify.com/artist/4AQPiL37xjPAgBfEEYQrg9), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw) | [Brand New](https://open.spotify.com/album/3DFZp39BRVBl15Klplth1n) | 3:39 |
 | 16 | [ANTHEM](https://open.spotify.com/track/6U3ZV7wWDLSCU5lWNDTymt) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [ANTHEM](https://open.spotify.com/album/2hFe5KmSatXBfNrxSz9VJF) | 3:18 |
 | 17 | [EN ROUTE](https://open.spotify.com/track/2e90aho4ucKvIx2CguwkqN) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn), [Sol ChYld](https://open.spotify.com/artist/43NRWiAqxHBNVOUqmPFHMz) | [EN ROUTE](https://open.spotify.com/album/6ENaii2JqCkkkatXu1ddf1) | 2:36 |

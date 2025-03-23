@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Major League Djz & Jorja Smith, Riky Rick, Myztro, Jack Harlow and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,182 likes - 58 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,274 likes - 58 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -664,7 +664,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 168000,
       "name": "Connection (Nature)",
       "url": "https://open.spotify.com/track/72psxjeHs75ZxMNbsCEwD7"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 170400,
       "name": "Essence (Soundbath)",
       "url": "https://open.spotify.com/track/2eGtkq4fnMt2kw1lfvm8ZN"
@@ -1373,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Forest Breath",
+        "url": "https://open.spotify.com/album/6mD6RVEoDX5YGzoaCbawzt"
+      },
+      "artists": [
+        {
+          "name": "Lorien Sky",
+          "url": "https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192480,
+      "name": "Forest Breath",
+      "url": "https://open.spotify.com/track/725gBK4qfI7RizSxTeXduz"
+    },
+    {
+      "album": {
         "name": "Forest Lake",
         "url": "https://open.spotify.com/album/6hiog6wDIUkTTFGo6rbe9p"
       },
@@ -1518,6 +1536,24 @@
       "duration_ms": 203333,
       "name": "From Sharavati",
       "url": "https://open.spotify.com/track/3zLjHmnEHwc9bt1EsuqRDK"
+    },
+    {
+      "album": {
+        "name": "Garden of Calm",
+        "url": "https://open.spotify.com/album/7E65aQYqv6QXHQEw2sXcsq"
+      },
+      "artists": [
+        {
+          "name": "Nature Pulse",
+          "url": "https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0"
+        }
+      ],
+      "date_added": "2025-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "Garden of Calm",
+      "url": "https://open.spotify.com/track/3G70KNuG1MIjALKJhLl7Vr"
     },
     {
       "album": {

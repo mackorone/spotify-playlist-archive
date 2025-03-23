@@ -5317,6 +5317,24 @@
     },
     {
       "album": {
+        "name": "Limited Deadition",
+        "url": "https://open.spotify.com/album/3Q5fhKQDoLgW2xA4XOmtWt"
+      },
+      "artists": [
+        {
+          "name": "Lordi",
+          "url": "https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221053,
+      "name": "Fangoria",
+      "url": "https://open.spotify.com/track/1om3yBKqAZJmwfYq24VUra"
+    },
+    {
+      "album": {
         "name": "Fantastic Fanatic",
         "url": "https://open.spotify.com/album/4nentsXrhiiAntPbgAYy0c"
       },
@@ -8852,7 +8870,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 234280,
       "name": "Legends Never Die",
       "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"

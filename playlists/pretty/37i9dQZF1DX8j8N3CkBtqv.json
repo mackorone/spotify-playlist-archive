@@ -1,6 +1,6 @@
 {
   "description": "Naye Indie gaano ka khazana, featuring Divyam Sodhi, Khwaab, Hanita Bhambri and other exciting artists.",
-  "num_followers": 76057,
+  "num_followers": 76099,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2025-03-21 07:01:39",
       "album": {
+        "name": "Tera Yaar",
+        "url": "https://open.spotify.com/album/4paEMiAQuvK0tgsXhXNFFr"
+      },
+      "artists": [
+        {
+          "name": "KhoslaRaghu",
+          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Tera Yaar",
+      "url": "https://open.spotify.com/track/3tkNHs9hFAnMmCxWsUOpN9"
+    },
+    {
+      "added_at": "2025-03-21 07:01:39",
+      "album": {
         "name": "Channa Ve",
         "url": "https://open.spotify.com/album/3Cygdal0KRaQzXKdr1UZE2"
       },
@@ -471,22 +487,6 @@
     {
       "added_at": "2025-03-21 07:01:39",
       "album": {
-        "name": "Tera Yaar",
-        "url": "https://open.spotify.com/album/4paEMiAQuvK0tgsXhXNFFr"
-      },
-      "artists": [
-        {
-          "name": "KhoslaRaghu",
-          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Tera Yaar",
-      "url": "https://open.spotify.com/track/3tkNHs9hFAnMmCxWsUOpN9"
-    },
-    {
-      "added_at": "2025-03-21 07:01:39",
-      "album": {
         "name": "Tu Jaise Dariya",
         "url": "https://open.spotify.com/album/2Q7Jd69YDCL2l0rAHLZjfa"
       },
@@ -503,42 +503,6 @@
       "duration_ms": 227177,
       "name": "Tu Jaise Dariya",
       "url": "https://open.spotify.com/track/75983zLFgUzgjJM45aY0Mn"
-    },
-    {
-      "added_at": "2025-03-21 07:01:39",
-      "album": {
-        "name": "Mi Amore",
-        "url": "https://open.spotify.com/album/5K34Wla7iosOmFiIzvsdY2"
-      },
-      "artists": [
-        {
-          "name": "Shor Police",
-          "url": "https://open.spotify.com/artist/58Wsx9FbcjSM8a6kzLf03W"
-        },
-        {
-          "name": "Sunep A Jamir",
-          "url": "https://open.spotify.com/artist/0CFC42AIQYwitBM9VnCtLB"
-        },
-        {
-          "name": "Hanu Dixit",
-          "url": "https://open.spotify.com/artist/07gFC10uxiHKauD9MYFHT5"
-        },
-        {
-          "name": "Gaia Meera",
-          "url": "https://open.spotify.com/artist/1UELyRsYJIZC0QrOayNKxw"
-        },
-        {
-          "name": "Inga",
-          "url": "https://open.spotify.com/artist/3xVqskuXhRRXOpBTA5PwrK"
-        },
-        {
-          "name": "NEXA Music",
-          "url": "https://open.spotify.com/artist/66NKyTgQP5uRDoy8tN4Gnx"
-        }
-      ],
-      "duration_ms": 186753,
-      "name": "Mi Amore",
-      "url": "https://open.spotify.com/track/5CowJeGu76t0nu1eXAIv3O"
     },
     {
       "added_at": "2025-03-21 07:01:39",
@@ -579,6 +543,42 @@
     {
       "added_at": "2025-03-21 07:01:39",
       "album": {
+        "name": "Mi Amore",
+        "url": "https://open.spotify.com/album/5K34Wla7iosOmFiIzvsdY2"
+      },
+      "artists": [
+        {
+          "name": "Shor Police",
+          "url": "https://open.spotify.com/artist/58Wsx9FbcjSM8a6kzLf03W"
+        },
+        {
+          "name": "Sunep A Jamir",
+          "url": "https://open.spotify.com/artist/0CFC42AIQYwitBM9VnCtLB"
+        },
+        {
+          "name": "Hanu Dixit",
+          "url": "https://open.spotify.com/artist/07gFC10uxiHKauD9MYFHT5"
+        },
+        {
+          "name": "Gaia Meera",
+          "url": "https://open.spotify.com/artist/1UELyRsYJIZC0QrOayNKxw"
+        },
+        {
+          "name": "Inga",
+          "url": "https://open.spotify.com/artist/3xVqskuXhRRXOpBTA5PwrK"
+        },
+        {
+          "name": "NEXA Music",
+          "url": "https://open.spotify.com/artist/66NKyTgQP5uRDoy8tN4Gnx"
+        }
+      ],
+      "duration_ms": 186753,
+      "name": "Mi Amore",
+      "url": "https://open.spotify.com/track/5CowJeGu76t0nu1eXAIv3O"
+    },
+    {
+      "added_at": "2025-03-21 07:01:39",
+      "album": {
         "name": "Simti",
         "url": "https://open.spotify.com/album/7kBUETqxht63KK8ETCZnP3"
       },
@@ -591,6 +591,22 @@
       "duration_ms": 165640,
       "name": "Simti",
       "url": "https://open.spotify.com/track/0EYrMu9FdtUTMZ8EK6cg5Q"
+    },
+    {
+      "added_at": "2025-03-21 07:01:39",
+      "album": {
+        "name": "Re Manva",
+        "url": "https://open.spotify.com/album/7j3Yi0ktAp66X3BjGioCbJ"
+      },
+      "artists": [
+        {
+          "name": "Shubham Kabra",
+          "url": "https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy"
+        }
+      ],
+      "duration_ms": 207931,
+      "name": "Re Manva",
+      "url": "https://open.spotify.com/track/5oSRxsQLjlg6tsSg0N7JYO"
     },
     {
       "added_at": "2025-03-21 07:01:39",
@@ -615,18 +631,18 @@
     {
       "added_at": "2025-03-21 07:01:39",
       "album": {
-        "name": "Re Manva",
-        "url": "https://open.spotify.com/album/7j3Yi0ktAp66X3BjGioCbJ"
+        "name": "Ghum Sa",
+        "url": "https://open.spotify.com/album/5ucmfaNkNRHHDwULn1DdQT"
       },
       "artists": [
         {
-          "name": "Shubham Kabra",
-          "url": "https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy"
+          "name": "Ashwin Adwani",
+          "url": "https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04"
         }
       ],
-      "duration_ms": 207931,
-      "name": "Re Manva",
-      "url": "https://open.spotify.com/track/5oSRxsQLjlg6tsSg0N7JYO"
+      "duration_ms": 176748,
+      "name": "Ghum Sa",
+      "url": "https://open.spotify.com/track/5Bx3NJvWDdQtLgiNPcoj6P"
     },
     {
       "added_at": "2025-03-21 07:01:39",
@@ -647,18 +663,18 @@
     {
       "added_at": "2025-03-21 07:01:39",
       "album": {
-        "name": "Ghum Sa",
-        "url": "https://open.spotify.com/album/5ucmfaNkNRHHDwULn1DdQT"
+        "name": "Kya Tum Mere",
+        "url": "https://open.spotify.com/album/06BGofXggJPSJL8weRFNeN"
       },
       "artists": [
         {
-          "name": "Ashwin Adwani",
-          "url": "https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04"
+          "name": "boys from marsss",
+          "url": "https://open.spotify.com/artist/5UaZTW4g6ypNCmyXpFiYbU"
         }
       ],
-      "duration_ms": 176748,
-      "name": "Ghum Sa",
-      "url": "https://open.spotify.com/track/5Bx3NJvWDdQtLgiNPcoj6P"
+      "duration_ms": 168000,
+      "name": "Kya Tum Mere",
+      "url": "https://open.spotify.com/track/3tTZ5tIhbeWF12mbITtHKe"
     },
     {
       "added_at": "2025-03-21 07:01:39",
@@ -687,18 +703,26 @@
     {
       "added_at": "2025-03-21 07:01:39",
       "album": {
-        "name": "Kya Tum Mere",
-        "url": "https://open.spotify.com/album/06BGofXggJPSJL8weRFNeN"
+        "name": "Sarphire",
+        "url": "https://open.spotify.com/album/0Vnq5ucPyx6YsDi4s8aCkH"
       },
       "artists": [
         {
-          "name": "boys from marsss",
-          "url": "https://open.spotify.com/artist/5UaZTW4g6ypNCmyXpFiYbU"
+          "name": "Akash Tripathi",
+          "url": "https://open.spotify.com/artist/04QPutAh48ciDXsD7yuzl4"
+        },
+        {
+          "name": "Akshay Dabhadkar",
+          "url": "https://open.spotify.com/artist/2Upf6WojA7HrgTi2PACRaN"
+        },
+        {
+          "name": "Akshay Jadhav",
+          "url": "https://open.spotify.com/artist/1qvovvgGVEdrhHTLJYsizG"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Kya Tum Mere",
-      "url": "https://open.spotify.com/track/3tTZ5tIhbeWF12mbITtHKe"
+      "duration_ms": 223392,
+      "name": "Sarphire",
+      "url": "https://open.spotify.com/track/4UctbmDO5D8ODVgyM0HGqo"
     },
     {
       "added_at": "2025-03-21 07:01:39",
@@ -743,22 +767,18 @@
     {
       "added_at": "2025-03-21 07:01:39",
       "album": {
-        "name": "Aasan Nahi",
-        "url": "https://open.spotify.com/album/3INv72dwllaR9ADHiDise2"
+        "name": "TERA PATA",
+        "url": "https://open.spotify.com/album/0k7htvhIMVL4pz8Q8wRt4Z"
       },
       "artists": [
         {
-          "name": "Garvit - Priyansh",
-          "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4"
-        },
-        {
-          "name": "Shreya Jain",
-          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
         }
       ],
-      "duration_ms": 206052,
-      "name": "Aasan Nahi",
-      "url": "https://open.spotify.com/track/6DVYiXQW2OYRh8mZjpbMKu"
+      "duration_ms": 166000,
+      "name": "TERA PATA",
+      "url": "https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU"
     },
     {
       "added_at": "2025-03-21 07:01:39",
@@ -779,6 +799,26 @@
     {
       "added_at": "2025-03-21 07:01:39",
       "album": {
+        "name": "Aasan Nahi",
+        "url": "https://open.spotify.com/album/3INv72dwllaR9ADHiDise2"
+      },
+      "artists": [
+        {
+          "name": "Garvit - Priyansh",
+          "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4"
+        },
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        }
+      ],
+      "duration_ms": 206052,
+      "name": "Aasan Nahi",
+      "url": "https://open.spotify.com/track/6DVYiXQW2OYRh8mZjpbMKu"
+    },
+    {
+      "added_at": "2025-03-21 07:01:39",
+      "album": {
         "name": "Elahi",
         "url": "https://open.spotify.com/album/0XOq8mfKGD2iggIOu1siqy"
       },
@@ -791,22 +831,6 @@
       "duration_ms": 225283,
       "name": "Raza",
       "url": "https://open.spotify.com/track/5cFMFTe1mpaALdDEoaEw2G"
-    },
-    {
-      "added_at": "2025-03-21 07:01:39",
-      "album": {
-        "name": "TERA PATA",
-        "url": "https://open.spotify.com/album/0k7htvhIMVL4pz8Q8wRt4Z"
-      },
-      "artists": [
-        {
-          "name": "Saahel",
-          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "TERA PATA",
-      "url": "https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU"
     },
     {
       "added_at": "2025-03-21 07:01:39",
@@ -831,26 +855,6 @@
     {
       "added_at": "2025-03-21 07:01:39",
       "album": {
-        "name": "Maahi",
-        "url": "https://open.spotify.com/album/1IniOCfkXutE7NTe1awOVx"
-      },
-      "artists": [
-        {
-          "name": "Abhi Dutt",
-          "url": "https://open.spotify.com/artist/5l0HeIJvLTJhLJgO1qeJ5m"
-        },
-        {
-          "name": "Musical Tarsh",
-          "url": "https://open.spotify.com/artist/1COWZLBBTINIyZIornthQd"
-        }
-      ],
-      "duration_ms": 222435,
-      "name": "Maahi",
-      "url": "https://open.spotify.com/track/2pURBxvZxAGgukj6cyaVMf"
-    },
-    {
-      "added_at": "2025-03-21 07:01:39",
-      "album": {
         "name": "Dil Ka Pata",
         "url": "https://open.spotify.com/album/5ju98pY4tm6QOoz4SLPafH"
       },
@@ -867,26 +871,22 @@
     {
       "added_at": "2025-03-21 07:01:39",
       "album": {
-        "name": "Sarphire",
-        "url": "https://open.spotify.com/album/0Vnq5ucPyx6YsDi4s8aCkH"
+        "name": "Maahi",
+        "url": "https://open.spotify.com/album/1IniOCfkXutE7NTe1awOVx"
       },
       "artists": [
         {
-          "name": "Akash Tripathi",
-          "url": "https://open.spotify.com/artist/04QPutAh48ciDXsD7yuzl4"
+          "name": "Abhi Dutt",
+          "url": "https://open.spotify.com/artist/5l0HeIJvLTJhLJgO1qeJ5m"
         },
         {
-          "name": "Akshay Dabhadkar",
-          "url": "https://open.spotify.com/artist/2Upf6WojA7HrgTi2PACRaN"
-        },
-        {
-          "name": "Akshay Jadhav",
-          "url": "https://open.spotify.com/artist/1qvovvgGVEdrhHTLJYsizG"
+          "name": "Musical Tarsh",
+          "url": "https://open.spotify.com/artist/1COWZLBBTINIyZIornthQd"
         }
       ],
-      "duration_ms": 223392,
-      "name": "Sarphire",
-      "url": "https://open.spotify.com/track/4UctbmDO5D8ODVgyM0HGqo"
+      "duration_ms": 222435,
+      "name": "Maahi",
+      "url": "https://open.spotify.com/track/2pURBxvZxAGgukj6cyaVMf"
     },
     {
       "added_at": "2025-03-21 07:01:39",

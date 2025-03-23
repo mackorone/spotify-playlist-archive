@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック  Selena Gomez & Benny Blanco, YOASOBI, Lil Nas X, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,694 likes - 83 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,704 likes - 83 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

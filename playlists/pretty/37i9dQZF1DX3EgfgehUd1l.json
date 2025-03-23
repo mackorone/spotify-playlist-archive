@@ -1,6 +1,6 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 172743,
+  "num_followers": 172771,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Greatest Hits / Tequila",
         "url": "https://open.spotify.com/album/7dcrUMOet5HIHYiDaVk89R"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 135240,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/5gJKsGij5oGt5H5RSFYXPa"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Climb Every Mountain",
-        "url": "https://open.spotify.com/album/2dAO2pmhT1CjY8xDcQ3ZCq"
-      },
-      "artists": [
-        {
-          "name": "Dickie Valentine",
-          "url": "https://open.spotify.com/artist/60JUOTnRuDTetm7Hiwonev"
-        }
-      ],
-      "duration_ms": 169080,
-      "name": "Finger of Suspicion",
-      "url": "https://open.spotify.com/track/6UchVQhfXfp1RCz2T3s1En"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Rock & Roll 50s & 60s Mix",
         "url": "https://open.spotify.com/album/1LL6GWTsMYiRc0fwGfoU3h"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 166051,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/3YCWbPfDLt4w4vzBnfoRgH"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Climb Every Mountain",
+        "url": "https://open.spotify.com/album/2dAO2pmhT1CjY8xDcQ3ZCq"
+      },
+      "artists": [
+        {
+          "name": "Dickie Valentine",
+          "url": "https://open.spotify.com/artist/60JUOTnRuDTetm7Hiwonev"
+        }
+      ],
+      "duration_ms": 169080,
+      "name": "Finger of Suspicion",
+      "url": "https://open.spotify.com/track/6UchVQhfXfp1RCz2T3s1En"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1199,38 +1199,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Platters",
-        "url": "https://open.spotify.com/album/3kMD4w9rWAFZRacAljVvwt"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 163920,
-      "name": "My Prayer",
-      "url": "https://open.spotify.com/track/6vR2UxBMmUAopJyIWAXXuO"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Call The Midwife",
-        "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
-      },
-      "artists": [
-        {
-          "name": "The Four Aces",
-          "url": "https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "Love Is A Many Splendoured Thing",
-      "url": "https://open.spotify.com/track/1p3Ae3lSSaJWCHHLrsFNKq"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "All the Greatest Hits Ever Made, Vol. 2 (Remastered)",
         "url": "https://open.spotify.com/album/5zQ5WRP0Fp7gVZrWTVl4gR"
       },
@@ -1247,6 +1215,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "The Platters",
+        "url": "https://open.spotify.com/album/3kMD4w9rWAFZRacAljVvwt"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 163920,
+      "name": "My Prayer",
+      "url": "https://open.spotify.com/track/6vR2UxBMmUAopJyIWAXXuO"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "Trying",
         "url": "https://open.spotify.com/album/6wNlsCkqpdsIU4CGHUgWij"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 165466,
       "name": "Only You (and You Alone)",
       "url": "https://open.spotify.com/track/6meUbywMo1j9kxiL58s6f1"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Call The Midwife",
+        "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
+      },
+      "artists": [
+        {
+          "name": "The Four Aces",
+          "url": "https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "Love Is A Many Splendoured Thing",
+      "url": "https://open.spotify.com/track/1p3Ae3lSSaJWCHHLrsFNKq"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Original Hits - 50s",
-        "url": "https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx"
-      },
-      "artists": [
-        {
-          "name": "Norman Wisdom",
-          "url": "https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "Don't Laugh at Me ('Cause I'm a Fool)",
-      "url": "https://open.spotify.com/track/6VVqpLQDeyEwQd2NQrjQPN"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Best Of The 50's (Fifties)",
         "url": "https://open.spotify.com/album/6IT0jEXEkvbJkgGQwFyOud"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 160280,
       "name": "We Will Make Love",
       "url": "https://open.spotify.com/track/2RwgGFFWJO0RzyM2VAOwWW"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Original Hits - 50s",
+        "url": "https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx"
+      },
+      "artists": [
+        {
+          "name": "Norman Wisdom",
+          "url": "https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "Don't Laugh at Me ('Cause I'm a Fool)",
+      "url": "https://open.spotify.com/track/6VVqpLQDeyEwQd2NQrjQPN"
     }
   ],
   "unique_name": "Easy 50s",

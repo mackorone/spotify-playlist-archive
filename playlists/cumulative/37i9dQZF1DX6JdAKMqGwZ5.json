@@ -2939,6 +2939,24 @@
     },
     {
       "album": {
+        "name": "hibernarse",
+        "url": "https://open.spotify.com/album/0FhRwLDFcxf0nTF6AfF686"
+      },
+      "artists": [
+        {
+          "name": "Fillas de Cassandra",
+          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163576,
+      "name": "hibernarse",
+      "url": "https://open.spotify.com/track/7BBaZuDWpmR6juOJbfXtJy"
+    },
+    {
+      "album": {
         "name": "Hileta Kantu Nafarra",
         "url": "https://open.spotify.com/album/3zMqegOQxv66TAHfh6dBLe"
       },
@@ -5256,7 +5274,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 146632,
       "name": "Otro Chico +",
       "url": "https://open.spotify.com/track/5NRDTyKvOuyELtlyCfTlln"

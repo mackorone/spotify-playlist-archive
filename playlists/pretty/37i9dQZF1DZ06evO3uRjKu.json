@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 71857,
+  "num_followers": 71873,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9tagAAAAABQrR6KbiJQgMLCE5QMSAe+",
+  "snapshot_id": "Z9ysAAAAAACBNGflTGLT1JEGcqKxfEeW",
   "tracks": [
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que Pienso de Vos (En Vivo)",
-        "url": "https://open.spotify.com/album/3PCMQFO6UHrQWyrSbqCx1r"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 192699,
-      "name": "Lo Que Pienso de Vos - En Vivo",
-      "url": "https://open.spotify.com/track/0fTMTM9GhIls1pt2O6C8mJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Mejor de Vilma Palma",
         "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 246333,
       "name": "Son tus ojos",
       "url": "https://open.spotify.com/track/4I8H3JhKwTFTG8I3vzVkUy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Que Pienso de Vos (En Vivo)",
+        "url": "https://open.spotify.com/album/3PCMQFO6UHrQWyrSbqCx1r"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 192699,
+      "name": "Lo Que Pienso de Vos - En Vivo",
+      "url": "https://open.spotify.com/track/0fTMTM9GhIls1pt2O6C8mJ"
     },
     {
       "added_at": null,

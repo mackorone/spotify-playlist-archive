@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: alberto.vela.
 
-789 songs - 1 day 22 hr 57 min
+790 songs - 1 day 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,7 +519,7 @@
 | [Orquesta natural](https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo \(Lado A\)](https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid) | 3:17 | 2021-12-24 | 2024-08-03 |
 | [Oye mi Voz](https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM) | [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [Deshielo](https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ) | 3:41 | 2024-02-16 |  |
 | [Paciencia](https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 2:14 | 2021-12-24 | 2023-12-23 |
-| [Pajarillo Negro](https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 4:00 | 2024-04-12 |  |
+| [Pajarillo Negro](https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 4:00 | 2024-04-12 | 2025-03-23 |
 | [Pajarillo Negro](https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Pajarillo Negro](https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE) | 4:02 | 2021-12-24 | 2022-07-17 |
 | [Palabras de Amor](https://open.spotify.com/track/2JYkP3AKFcde7B0azFBJkM) | [Ana Prada](https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [No](https://open.spotify.com/album/0q4oKGEI17JZ2M4kVpzQro) | 3:31 | 2022-09-23 | 2022-10-22 |
 | [Paloma quiero contarte](https://open.spotify.com/track/4hSPYZ86mCKEY1F838se7Q) | [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Canta a Víctor Jara](https://open.spotify.com/album/6V20HwYQNfkCVsLlqOoGul) | 2:55 | 2023-05-29 | 2023-06-03 |
@@ -699,6 +699,7 @@
 | [Tierra Firme](https://open.spotify.com/track/3txgAkni3kvbGgCHblIaAf) | [Paula Becker](https://open.spotify.com/artist/04ZTxnvwV4jOWqGpRR2xLz) | [Tierra Firme](https://open.spotify.com/album/3qvzKbF6ofnFfJqVtl4BYl) | 4:31 | 2022-04-01 | 2022-04-21 |
 | [Tierra Libre](https://open.spotify.com/track/3OcBDroEWe0tYcWm6seOHX) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Leve](https://open.spotify.com/album/4jCCvtre53Vz6bk4XqBIvc) | 4:21 | 2021-12-24 | 2022-02-24 |
 | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/3Riytw4egMe357gWrANdAr) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3) | 3:34 | 2021-12-24 | 2023-12-16 |
+| [Tinc una sort](https://open.spotify.com/track/5dj3bJhcCxa5903Jno8gMq) | [Aleix Triadó](https://open.spotify.com/artist/6YaYNz8cKOJRisbaCzjcJE), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM) | [Tinc una sort](https://open.spotify.com/album/6oYyGPYH9YHz7OE9G6aRYm) | 2:26 | 2025-03-20 |  |
 | [Toca](https://open.spotify.com/track/4v2wu5C4tppjiNOhV6R9A4) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Toca](https://open.spotify.com/album/1GOEHy8QMoN1SaZa6yl7Zs) | 3:30 | 2021-12-24 | 2022-05-08 |
 | [Toda mi verdad](https://open.spotify.com/track/4EZGM1FjfK7T2yHJpARRbZ) | [Diego Lara](https://open.spotify.com/artist/6U1O9Us9QKka6HmZoMVpZC) | [Toda mi verdad](https://open.spotify.com/album/47hGLL52J5MhjKbUjpwUen) | 4:09 | 2023-06-16 | 2023-07-21 |
 | [Todas las Banderas](https://open.spotify.com/track/5nRPc1sVXv0kgq8AG0KdMU) | [Carla Collado](https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [Todas Las Banderas](https://open.spotify.com/album/2nGgaAuM8ZRgrY5u5K7MuU) | 3:05 | 2021-12-24 | 2022-06-01 |

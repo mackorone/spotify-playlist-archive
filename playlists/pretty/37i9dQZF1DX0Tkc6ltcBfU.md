@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south: Playboi Carti
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,246,282 likes - 98 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,246,365 likes - 98 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 17 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV) | 3:12 |
 | 18 | [WTHELLY](https://open.spotify.com/track/03gyVoP8A8A3mdcGMxcHqD) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [WTHELLY](https://open.spotify.com/album/44r6QyfbQubhNAIW18wfKg) | 2:17 |
 | 19 | [New Bitch](https://open.spotify.com/track/1a8cEl2m8xiHYUKt48PlV2) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [New Bitch](https://open.spotify.com/album/1IXACfOGg8pgjh1PITultr) | 2:21 |
-| 20 | [These Walls Can Talk](https://open.spotify.com/track/6gQpjeLY26XyO12pV6hCLN) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [These Walls Can Talk](https://open.spotify.com/album/3kOR89rjW7sHps9KhY5v2E) | 2:11 |
+| 20 | [These Walls Could Talk](https://open.spotify.com/track/6gQpjeLY26XyO12pV6hCLN) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [These Walls Could Talk](https://open.spotify.com/album/3kOR89rjW7sHps9KhY5v2E) | 2:11 |
 | 21 | [narcotics](https://open.spotify.com/track/4N8q7thPUK2Yd5r4XERc43) | [sosocamo](https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd) | [narcotics](https://open.spotify.com/album/3FongtrpLJbiolXIiHX8Wu) | 2:23 |
 | 22 | [Belt Boyz](https://open.spotify.com/track/0vFLX27q4HD2ByTf3wTCNO) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [More Spill](https://open.spotify.com/album/1Rm90Lk3qsTpIHoWMegbAk) | 3:19 |
 | 23 | [Trappa Rappa](https://open.spotify.com/track/4QimCCJKXDOancrmCXbbOK) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Trappa Rappa](https://open.spotify.com/album/01e9pFweITqyn2Kr8INdQr) | 2:17 |

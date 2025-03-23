@@ -1,6 +1,6 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 68616,
+  "num_followers": 68618,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
+        "name": "Love Everlasting",
+        "url": "https://open.spotify.com/album/1jk13k67kk897HjHgIELRV"
+      },
+      "artists": [
+        {
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        }
+      ],
+      "duration_ms": 160018,
+      "name": "Love Everlasting",
+      "url": "https://open.spotify.com/track/4qWgTI5kANphagZlJL4f8g"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
         "name": "SHANGRI-LA (Radio Edit)",
         "url": "https://open.spotify.com/album/5ibPTCuJQNcbZnWTU9HkuX"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 182663,
       "name": "SHANGRI-LA - Radio Edit",
       "url": "https://open.spotify.com/track/04NEE6filobSes2pww809U"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
-        "name": "Love Everlasting",
-        "url": "https://open.spotify.com/album/1jk13k67kk897HjHgIELRV"
-      },
-      "artists": [
-        {
-          "name": "GoldFish",
-          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
-        }
-      ],
-      "duration_ms": 160018,
-      "name": "Love Everlasting",
-      "url": "https://open.spotify.com/track/4qWgTI5kANphagZlJL4f8g"
     },
     {
       "added_at": "2024-05-10 06:34:25",
@@ -823,6 +823,26 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
+        "name": "So Cool",
+        "url": "https://open.spotify.com/album/3qDSi20OwFqEp879zRl0Hx"
+      },
+      "artists": [
+        {
+          "name": "The Planetoids",
+          "url": "https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm"
+        },
+        {
+          "name": "Tamara Dey",
+          "url": "https://open.spotify.com/artist/5uR7S1soFxQcnnVMn6TIe9"
+        }
+      ],
+      "duration_ms": 207741,
+      "name": "So Cool",
+      "url": "https://open.spotify.com/track/77ilrvQSGD3BWTDcFCn0FE"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
         "name": "Forever Free (DeepFish Remix) (feat. Nate Highfield & SILVER)",
         "url": "https://open.spotify.com/album/3PJnw0E507X2yMby8pUHOm"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 204789,
       "name": "Forever Free (DeepFish Remix) (feat. Nate Highfield & SILVER)",
       "url": "https://open.spotify.com/track/2YT7OMlGZlaFpBpMGLtDuK"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
-        "name": "So Cool",
-        "url": "https://open.spotify.com/album/3qDSi20OwFqEp879zRl0Hx"
-      },
-      "artists": [
-        {
-          "name": "The Planetoids",
-          "url": "https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm"
-        },
-        {
-          "name": "Tamara Dey",
-          "url": "https://open.spotify.com/artist/5uR7S1soFxQcnnVMn6TIe9"
-        }
-      ],
-      "duration_ms": 207741,
-      "name": "So Cool",
-      "url": "https://open.spotify.com/track/77ilrvQSGD3BWTDcFCn0FE"
     },
     {
       "added_at": "2024-05-10 06:34:25",
@@ -899,26 +899,6 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
-        "name": "Video Games",
-        "url": "https://open.spotify.com/album/6UNRdmz5jH99djUUpdocEe"
-      },
-      "artists": [
-        {
-          "name": "Ricky Tyler",
-          "url": "https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA"
-        },
-        {
-          "name": "Karun",
-          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
-        }
-      ],
-      "duration_ms": 216214,
-      "name": "Video Games",
-      "url": "https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
         "name": "The Loudest Thing",
         "url": "https://open.spotify.com/album/09mOKo6OXJH9ip3OmwBDwF"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 172500,
       "name": "The Loudest Thing",
       "url": "https://open.spotify.com/track/6AgRrEHmDM9w2vEHtJ6Zps"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
+        "name": "Video Games",
+        "url": "https://open.spotify.com/album/6UNRdmz5jH99djUUpdocEe"
+      },
+      "artists": [
+        {
+          "name": "Ricky Tyler",
+          "url": "https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        }
+      ],
+      "duration_ms": 216214,
+      "name": "Video Games",
+      "url": "https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr"
     },
     {
       "added_at": "2024-05-10 06:34:25",

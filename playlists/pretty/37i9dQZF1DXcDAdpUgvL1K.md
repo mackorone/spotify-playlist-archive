@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDAdpUgvL1K.md) - [plain]
 
 > Listen to the soundtracks of You are the Apple of My Eye\. \(그 시절, 우리가 좋아했던 소녀의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 64 likes - 48 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 71 likes - 48 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Now Do You](https://open.spotify.com/track/77pW0wHLiupmWSlZiRyzhp) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [You Are the Apple of My Eye \(Original Soundtrack\) Special](https://open.spotify.com/album/5IbSwTUjJbOtdadvOTvIGC) | 4:06 |
-| 2 | [You Are the Apple of My Eye](https://open.spotify.com/track/31nRPnF74e4oQ4JVsc0XHp) | [Jinyoung](https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i), [Dahyun](https://open.spotify.com/artist/5mq0LKFisC0tRxuvBVAY5P) | [You Are the Apple of My Eye \(Original Soundtrack\) Special](https://open.spotify.com/album/5IbSwTUjJbOtdadvOTvIGC) | 4:15 |
+| 1 | [You Are the Apple of My Eye](https://open.spotify.com/track/31nRPnF74e4oQ4JVsc0XHp) | [Jinyoung](https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i), [Dahyun](https://open.spotify.com/artist/5mq0LKFisC0tRxuvBVAY5P) | [You Are the Apple of My Eye \(Original Soundtrack\) Special](https://open.spotify.com/album/5IbSwTUjJbOtdadvOTvIGC) | 4:15 |
+| 2 | [Now Do You](https://open.spotify.com/track/77pW0wHLiupmWSlZiRyzhp) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [You Are the Apple of My Eye \(Original Soundtrack\) Special](https://open.spotify.com/album/5IbSwTUjJbOtdadvOTvIGC) | 4:06 |
 | 3 | [Memory of Us](https://open.spotify.com/track/5xSOmyLvlFtoAtf6YllIjN) | [DEMIAN](https://open.spotify.com/artist/6DNTezBmjBm68oYPCENCcA) | [You Are the Apple of My Eye \(Original Soundtrack\) Special](https://open.spotify.com/album/5IbSwTUjJbOtdadvOTvIGC) | 2:29 |
 | 4 | [Fall In To You](https://open.spotify.com/track/2E202AZCu19ezlZiURFFv3) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [You Are the Apple of My Eye \(Original Soundtrack\) Special](https://open.spotify.com/album/5IbSwTUjJbOtdadvOTvIGC) | 3:10 |
 | 5 | [Starry Pieces](https://open.spotify.com/track/7gDfRv1O6JrgEYyxYCHTMq) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [You Are the Apple of My Eye \(Original Soundtrack\) Special](https://open.spotify.com/album/5IbSwTUjJbOtdadvOTvIGC) | 3:02 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDAdpUgvL1K.md) - [plain]
 | 47 | [Heart ♥](https://open.spotify.com/track/2esqU8nvRGOybsP5v34ema) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [Heart ♥](https://open.spotify.com/album/6RHZmabgiGSqgNWDp5GL5B) | 2:51 |
 | 48 | [MOVIE](https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [MOVIE](https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y) | 3:03 |
 
-Snapshot ID: `Z86gQwAAAADShevPFMnRQGrtUZFYpGWn`
+Snapshot ID: `Z97LHQAAAABgJt8GtwiQz2WLmxgq91/j`

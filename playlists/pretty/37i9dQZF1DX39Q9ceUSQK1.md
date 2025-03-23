@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: YUNGBLUD
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,832 likes - 95 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,830 likes - 95 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hello Heaven, Hello](https://open.spotify.com/track/2jUcuBOT2eoBnoMBTM4L1i) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Hello Heaven, Hello](https://open.spotify.com/album/5YLk7hXivQWJezkRnWEfbH) | 9:06 |
 | 2 | [Where The Mind Goes](https://open.spotify.com/track/0RxgPLc1JxOEK9t62MwpGX) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Where The Mind Goes](https://open.spotify.com/album/1jKk1OAj9vnphzcpKHxlVI) | 2:40 |
-| 3 | [Geezer Glamour Danger](https://open.spotify.com/track/5Loha8Qtw1iPFNuHJxeDSR) | [Wodan Boys](https://open.spotify.com/artist/0kmKbibEVmQ4luQqUAHDMr) | [Godspeed A Go Go](https://open.spotify.com/album/5Mynr9acOWEUTmbwo5Q8pX) | 2:42 |
+| 3 | [Geezer Glamour Danger](https://open.spotify.com/track/5Loha8Qtw1iPFNuHJxeDSR) | [Wodan Boys](https://open.spotify.com/artist/0kmKbibEVmQ4luQqUAHDMr) | [Godspeed a Go Go](https://open.spotify.com/album/5Mynr9acOWEUTmbwo5Q8pX) | 2:42 |
 | 4 | [Do My Thing](https://open.spotify.com/track/1YKcZG9wSH5XCnKCvrXOO9) | [SONS](https://open.spotify.com/artist/4smQzo74d24VIhwRf5K59S) | [Do My Thing](https://open.spotify.com/album/3gzle32G3FvcaoNI957vYP) | 2:57 |
 | 5 | [Make Believe](https://open.spotify.com/track/4lt0Ay3gio1ADzj2gL7W5J) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Make Believe](https://open.spotify.com/album/0H2YJmkiEJBR0EqDSFJ5yv) | 2:59 |
 | 6 | [Heavy](https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Heavy](https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe) | 3:20 |

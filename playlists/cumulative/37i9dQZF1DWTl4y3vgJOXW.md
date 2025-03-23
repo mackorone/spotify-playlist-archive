@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Bronny James
+> Fourth quarter, two minutes left .\. get locked in\. Cover: George Foreman
 
 792 songs - 1 day 16 hr 47 min
 

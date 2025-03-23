@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-582 songs - 2 day 0 hr 24 min
+583 songs - 2 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Dream Machine](https://open.spotify.com/track/4cAypK013iEiqKZG5YLrJ3) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Stranno Stranno Neobjatno](https://open.spotify.com/album/1dtFPfxQfvkejo2W3HL3TY) | 6:28 | 2022-05-03 | 2022-10-23 |
 | [Echoes](https://open.spotify.com/track/3oJ0ImxhIlU6lZ9JtCWYVd) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Echoes](https://open.spotify.com/album/0xr2nntVBXisNTLyan5wZt) | 6:03 | 2022-02-21 | 2023-09-12 |
 | [Egyptian Sun](https://open.spotify.com/track/0Y3xTcu928EXNhF5yuPOvH) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Egyptian Sun](https://open.spotify.com/album/1S9zeICRVy9V9DxSH0XAaa) | 4:17 | 2023-05-26 |  |
+| [Electric Birds](https://open.spotify.com/track/0B8eWg1gdVO3ctAK392FYz) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [For Real](https://open.spotify.com/album/706xtFNjk7TMRnHGzNrOHR) | 5:16 | 2025-03-21 |  |
 | [Eleuthera \(Catching Flies Remix\)](https://open.spotify.com/track/5EM9H0b9vbwPAkl7CWlEmS) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG), [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Oasis Sky \(Remixes\)](https://open.spotify.com/album/0SPKzHlhMuoAeQoRwJWCgb) | 4:23 | 2022-02-21 | 2025-01-18 |
 | [Embrace \- Black Coffee + Aquatone Remix](https://open.spotify.com/track/26wBcR6Damyd7l4xGI6DNg) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Embrace \(Black Coffee + Aquatone Remix\)](https://open.spotify.com/album/3vFWCPubU6GiPuJm2wJXHv) | 6:56 | 2022-01-14 | 2022-11-17 |
 | [Embre](https://open.spotify.com/track/770lpPPoDrrdb67bTKSnGe) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp), [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Moho EP](https://open.spotify.com/album/32qvWoJh8qTJ8hrD6snjwx) | 8:56 | 2023-11-17 | 2024-04-13 |
@@ -331,7 +332,7 @@
 | [Never Enough](https://open.spotify.com/track/63oLL7nhjCx3hqNQWfwYVM) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Never Enough](https://open.spotify.com/album/66YANI4iTibEQOQ1zHjbbO) | 3:32 | 2023-11-24 | 2024-07-13 |
 | [New Fires](https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [New Fires](https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj) | 4:11 | 2022-10-28 |  |
 | [Night Jaguars](https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Heaven Or Hell](https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY) | 3:52 | 2021-12-08 | 2023-08-12 |
-| [Nightcall](https://open.spotify.com/track/6dcmqwpZ00IXjmg8ZVxQZP) | [Iman Hanzo](https://open.spotify.com/artist/5ayIaDgQlMl8YcCdY70zRr) | [Nightcall](https://open.spotify.com/album/5fTwR0zWU6EKHVDHxffJLO) | 5:27 | 2024-07-12 |  |
+| [Nightcall](https://open.spotify.com/track/6dcmqwpZ00IXjmg8ZVxQZP) | [Iman Hanzo](https://open.spotify.com/artist/5ayIaDgQlMl8YcCdY70zRr) | [Nightcall](https://open.spotify.com/album/5fTwR0zWU6EKHVDHxffJLO) | 5:27 | 2024-07-12 | 2025-03-23 |
 | [Nightflower](https://open.spotify.com/track/7dL08ackWZClIZzOSD7PHt) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Phenomena I](https://open.spotify.com/album/1DchSTqin2FDbr8r82iI1v) | 3:49 | 2023-07-31 |  |
 | [Nightwhisper](https://open.spotify.com/track/3SYO8wU4bEgIYt7AeGRIwG) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Nightwhisper](https://open.spotify.com/album/7kvbMYyWGN5mSO7zRLpDoU) | 3:37 | 2021-12-08 | 2024-04-13 |
 | [Nillla \(La la La la La\)](https://open.spotify.com/track/3ZRb3HCjzWH2bQqlzk52xb) | [100 Keigh](https://open.spotify.com/artist/1FQzMTtbPIlbti4O3Z6MYm) | [Coookies 2](https://open.spotify.com/album/22GejLMhLmoRWaYvcuMkmw) | 4:02 | 2021-12-08 | 2022-09-04 |
@@ -521,7 +522,7 @@
 | [The Same](https://open.spotify.com/track/5fSvk20cTpQHrHWRpolpoS) | [Roudeep](https://open.spotify.com/artist/6mUE3o2tO8ZjnNqqziJp9F) | [The Same](https://open.spotify.com/album/49v28uTWCrCRvNutWSBf6Q) | 4:48 | 2021-12-08 | 2023-01-06 |
 | [The Sound of Neptune](https://open.spotify.com/track/1uZHI2rWg7wHGIti4aYqdr) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI) | [You Want](https://open.spotify.com/album/7AnDUzKjjnPvrxoN2ZOkQL) | 5:28 | 2022-01-14 | 2022-07-26 |
 | [The Telepath](https://open.spotify.com/track/56rfbVxwhyZ8ru7uo1BJrJ) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [The Telepath](https://open.spotify.com/album/7MKlDCqLisacqJ2ynQ9FVQ) | 3:36 | 2024-08-02 |  |
-| [the things that bring me joy](https://open.spotify.com/track/3OWoUTFewCAnGIkFHdL6KK) | [Luca](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [the things that bring me joy](https://open.spotify.com/album/3JVhoz6UJv6hrpRtPXtdJh) | 2:59 | 2024-05-10 |  |
+| [the things that bring me joy](https://open.spotify.com/track/3OWoUTFewCAnGIkFHdL6KK) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [the things that bring me joy](https://open.spotify.com/album/3JVhoz6UJv6hrpRtPXtdJh) | 2:59 | 2024-05-10 |  |
 | [The Truth](https://open.spotify.com/track/01NrsdUMQkpY9GZCc7ZFyu) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4), [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz) | [The Truth / The Fall](https://open.spotify.com/album/5WCue7zGHg6BFgkffeYG00) | 3:23 | 2023-05-26 |  |
 | [The Truth](https://open.spotify.com/track/5v09mpnFDvxtjgtKHDD5v0) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Beings of Light](https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM) | 6:42 | 2022-02-21 | 2023-07-01 |
 | [The Void](https://open.spotify.com/track/2JOYpIShg9829y8rYwdsu6) | [Koelle](https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a) | [Another Land EP](https://open.spotify.com/album/5JsOZyOdxcQtlL0GEzJaPq) | 4:54 | 2023-05-05 | 2023-08-29 |

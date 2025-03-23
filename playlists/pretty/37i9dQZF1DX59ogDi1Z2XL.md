@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Drake 🦉
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,794 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,851 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 3 | [Baby Wyd](https://open.spotify.com/track/4r6orLMwl2KXy83lMBTsBu) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Baby Wyd It's Robin Hood](https://open.spotify.com/album/4pL7e0jIZQaUKfjbTdRqVV) | 1:52 |
 | 4 | [HANDLING BUSINESS \(with Tory Lanez\)](https://open.spotify.com/track/3miaStyl3Y5JrMf1fZAEY3) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [HANDLING BUSINESS \(with Tory Lanez\)](https://open.spotify.com/album/42VticDK80cuD3NDfZNGNV) | 3:22 |
 | 5 | [Timeless \(feat Playboi Carti\)](https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:16 |
-| 6 | [IS MY MIC ON](https://open.spotify.com/track/1cNXgfdJXQ94n8rs860x5r) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [IS MY MIC ON](https://open.spotify.com/album/4rgZ66dfJJ17VUyzNCLtUv) | 2:40 |
+| 6 | [IS MY MIC ON?](https://open.spotify.com/track/1cNXgfdJXQ94n8rs860x5r) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [IS MY MIC ON?](https://open.spotify.com/album/4rgZ66dfJJ17VUyzNCLtUv) | 2:40 |
 | 7 | [Pursuit Remix](https://open.spotify.com/track/7bhtAZnwbzLnJoBW5ISFZY) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Poiison](https://open.spotify.com/artist/6Prl5LNyVQkrzhiYmA9T1s) | [Pursuit Remix](https://open.spotify.com/album/0mxUF9tky30x0meANtEI3y) | 2:50 |
 | 8 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 |
 | 9 | [BEGGAR'S PLEAD! \(feat\. Clairmont The Second\)](https://open.spotify.com/track/29hLik8zJRjUB1KXnbSJC6) | [4sante](https://open.spotify.com/artist/2GJUNhi3knOQjYM9OPq8yD), [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [BEGGAR'S PLEAD! \(feat\. Clairmont The Second\)](https://open.spotify.com/album/7FSKU15SSxXVWzoI1hIbqZ) | 3:29 |

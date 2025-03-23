@@ -1,12 +1,12 @@
 {
   "description": "This is Helmet. The essential tracks, all in one playlist.",
-  "num_followers": 9042,
+  "num_followers": 9041,
   "original_name": "This Is Helmet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9tagAAAAADolzA1cQwceGkmBOIYc1Uv",
+  "snapshot_id": "Z9ysAAAAAAAbUGa3c9RwyzzMjc1QlO8e",
   "tracks": [
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Size Matters",
-        "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
+        "name": "Strap It On",
+        "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 224560,
-      "name": "Smart",
-      "url": "https://open.spotify.com/track/1QqWa8cgSu2rrmm3o3sJ6l"
+      "duration_ms": 199360,
+      "name": "Blacktop",
+      "url": "https://open.spotify.com/track/0XUOe4GprM3NjyYQPbzNAx"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strap It On",
-        "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
+        "name": "Size Matters",
+        "url": "https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 199360,
-      "name": "Blacktop",
-      "url": "https://open.spotify.com/track/0XUOe4GprM3NjyYQPbzNAx"
+      "duration_ms": 224560,
+      "name": "Smart",
+      "url": "https://open.spotify.com/track/1QqWa8cgSu2rrmm3o3sJ6l"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
       "duration_ms": 224120,
       "name": "Throwing Punches",
       "url": "https://open.spotify.com/track/63wk2Du2oE4sXb2fpg0mfE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Left",
-        "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 163649,
-      "name": "Big Shot",
-      "url": "https://open.spotify.com/track/02AudzNTg5zFxTlhXx1cYG"
     },
     {
       "added_at": null,

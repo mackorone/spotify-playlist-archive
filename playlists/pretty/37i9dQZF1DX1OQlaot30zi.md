@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Silent Bob, Luchè, Promessa, Ele A e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,116 likes - 120 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,123 likes - 120 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 20 | [Big Boy](https://open.spotify.com/track/1bFIdHNNqbkFHp34c89A0k) | [Tommy Kuti](https://open.spotify.com/artist/2mWX0Nkrgzr94V6KDxGzzA) | [Big Boy](https://open.spotify.com/album/2x0GsEwxxKnpdd4gsYGXWE) | 2:51 |
 | 21 | [RJ \(feat\. Lorenzza\)](https://open.spotify.com/track/5ygMtfmrpg7CsBFdc2DTQt) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1), [Lorenzza](https://open.spotify.com/artist/0zyujuBCFt15GQ86pcAGk6) | [rosa dei venti](https://open.spotify.com/album/1hrC8WmoDqNoIm9wY7vTYj) | 2:28 |
 | 22 | [RESIDENT EVIL](https://open.spotify.com/track/6bR7GufkqqSI1ub6z1lAuB) | [TOLKA](https://open.spotify.com/artist/4DESc2JN2OQtR74Xdk0k9W), [Flus Brain](https://open.spotify.com/artist/3cIN4XjkAfNwfGLKVPoofY), [VYCN](https://open.spotify.com/artist/6O6I8m6CyX3niEVRyQ0QrE) | [RESIDENT EVIL](https://open.spotify.com/album/4gUOUlBlyfZGs3K96T8i29) | 2:33 |
-| 23 | [Banconote](https://open.spotify.com/track/2DvCKU5bkJLt6DBSMBdMVK) | [Kira](https://open.spotify.com/artist/2HyasfYKBQnhWBIonOhabC), [Gengar](https://open.spotify.com/artist/6QeMwZYfi1MkcKcQadFK05), [Dj Snifta](https://open.spotify.com/artist/66hRdxeQcJcL8NKIdbFHTh) | [Banconote](https://open.spotify.com/album/7pB65hEKOcYQp2ObawSUjG) | 2:36 |
+| 23 | [Banconote](https://open.spotify.com/track/2DvCKU5bkJLt6DBSMBdMVK) | [Kira](https://open.spotify.com/artist/2HyasfYKBQnhWBIonOhabC), [Gengar](https://open.spotify.com/artist/6QeMwZYfi1MkcKcQadFK05), [DJ Snifta](https://open.spotify.com/artist/3geNPz1VxBjzyIoiJG8WsV) | [Banconote](https://open.spotify.com/album/7pB65hEKOcYQp2ObawSUjG) | 2:36 |
 | 24 | [UOMINI D’ONORE](https://open.spotify.com/track/74bPKBTLLdvfIEx2lfuB9u) | [La Flèche](https://open.spotify.com/artist/64FfdZrhEAVBq0fdEaoO7r), [Wave Off](https://open.spotify.com/artist/41Q55j3xgGxmeb1CHnK8gY), [wherestheplug](https://open.spotify.com/artist/1GnHdsagr2KE4NG74AUI0K) | [UOMINI D’ONORE](https://open.spotify.com/album/3EifAGM7JzSQucySBCSvx5) | 2:54 |
 | 25 | [bop \(feat\. Fabri Fibra\)](https://open.spotify.com/track/1T4VPFAMqougBy1JqOLYln) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Sixpm](https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx) | [radio vega](https://open.spotify.com/album/2ykfPpPezkSUfCnZjSQ6CQ) | 2:33 |
 | 26 | [SOLDI & MUSICA \(feat\. Frezza\)](https://open.spotify.com/track/6tW2WTKCcvHHH0ueWKKz8W) | [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [SOLDI & MUSICA \(feat\. Frezza\)](https://open.spotify.com/album/6FBIkUjJ7ohJgOZBg199pA) | 2:24 |

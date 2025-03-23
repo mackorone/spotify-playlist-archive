@@ -138,6 +138,28 @@
     {
       "album": {
         "name": "Actua",
+        "url": "https://open.spotify.com/album/59Ii7JcTRINr6G3iVsmo3b"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "date_added": "2025-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Actua",
+      "url": "https://open.spotify.com/track/2fzkeMoZGcbomhMAfovg21"
+    },
+    {
+      "album": {
+        "name": "Actua",
         "url": "https://open.spotify.com/album/4yroQYEsNxeBwERQ1KRqPt"
       },
       "artists": [
@@ -152,7 +174,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 238000,
       "name": "Actua",
       "url": "https://open.spotify.com/track/5Cj9ntxxzkR1ci1qcPe7Tw"

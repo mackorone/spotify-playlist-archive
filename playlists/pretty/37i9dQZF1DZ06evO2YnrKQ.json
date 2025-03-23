@@ -1,12 +1,12 @@
 {
   "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
-  "num_followers": 23337,
+  "num_followers": 23344,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9tagAAAAADqjeUTbK38OV1R89W8Lf/t",
+  "snapshot_id": "Z9ysAAAAAADC4b8spxUBPy+Qup+Rbdw7",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Familiar Drugs",
-        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
+        "name": "Old Crows / Young Cardinals",
+        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 258718,
-      "name": "Familiar Drugs",
-      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
+      "duration_ms": 268000,
+      "name": "The Northern",
+      "url": "https://open.spotify.com/track/2VPv0LJafL4Gdp67ZWPBDV"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Crows / Young Cardinals",
-        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
+        "name": "Familiar Drugs",
+        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 268000,
-      "name": "The Northern",
-      "url": "https://open.spotify.com/track/2VPv0LJafL4Gdp67ZWPBDV"
+      "duration_ms": 258718,
+      "name": "Familiar Drugs",
+      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Letter",
-        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 338317,
-      "name": "Midnight Regulations",
-      "url": "https://open.spotify.com/track/2XtMlaDhm09wvKftVAeQv1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Switcheroo Series",
         "url": "https://open.spotify.com/album/0TTp9wSNMiDXxb8003wzAP"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 347253,
       "name": "Tonight, I'm Going to Wash the Hippy",
       "url": "https://open.spotify.com/track/71XUygQBakUzroHHcXHXg1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crisis (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/2nNVfMFWChevVdrt8HYuuT"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 255293,
+      "name": "Thrones",
+      "url": "https://open.spotify.com/track/5K7prEZuUXRJFJoecoOmuk"
     },
     {
       "added_at": null,
@@ -548,15 +548,15 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 257106,
-      "name": "Old Crows",
-      "url": "https://open.spotify.com/track/0cevQODp2daA7IySqHWwhd"
+      "duration_ms": 251120,
+      "name": "Midnight Regulations",
+      "url": "https://open.spotify.com/track/5ku47u1TTWQiq2YwPckmdx"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Crisis (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/2nNVfMFWChevVdrt8HYuuT"
+        "name": "Death Letter",
+        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 255293,
-      "name": "Thrones",
-      "url": "https://open.spotify.com/track/5K7prEZuUXRJFJoecoOmuk"
+      "duration_ms": 214592,
+      "name": "Burial",
+      "url": "https://open.spotify.com/track/4lFETObcVlO6l5obGe4JPu"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Letter",
-        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 214592,
-      "name": "Burial",
-      "url": "https://open.spotify.com/track/4lFETObcVlO6l5obGe4JPu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aussie Tour 7inch",
         "url": "https://open.spotify.com/album/63StEaSHnTVqtGy6dwBqnB"
       },
@@ -635,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dog's Blood",
-        "url": "https://open.spotify.com/album/5G0BHqb1hq5vDStpBmDIBd"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 358060,
-      "name": "Dogs Blood",
-      "url": "https://open.spotify.com/track/5DiIanv54rT73xCmqoKQV0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Death Letter",
         "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
       },
@@ -663,6 +631,22 @@
       "duration_ms": 228817,
       "name": "Accept Crime",
       "url": "https://open.spotify.com/track/5jPB5Pgus7EhKidYkoCjcl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dog's Blood",
+        "url": "https://open.spotify.com/album/5G0BHqb1hq5vDStpBmDIBd"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 358060,
+      "name": "Dogs Blood",
+      "url": "https://open.spotify.com/track/5DiIanv54rT73xCmqoKQV0"
     }
   ],
   "unique_name": "This Is Alexisonfire",

@@ -3394,7 +3394,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-22",
+      "date_removed": null,
       "duration_ms": 190806,
       "name": "earthquake",
       "url": "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx"
@@ -3412,7 +3412,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 190806,
       "name": "earthquake",
       "url": "https://open.spotify.com/track/1Ah8dQEPYpmtl7FRvXJOOU"
@@ -13536,7 +13536,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-22",
+      "date_removed": null,
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
@@ -13554,7 +13554,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV"
@@ -16712,6 +16712,24 @@
       "duration_ms": 238270,
       "name": "\u602a\u6211\u53ea\u6562\u505a\u597d\u4eba",
       "url": "https://open.spotify.com/track/3xO69oVpP3pSIKG9CIMEm4"
+    },
+    {
+      "album": {
+        "name": "\u60b2\u89c0\u4e3b\u7fa9",
+        "url": "https://open.spotify.com/album/7jGpEFCdCYTDVU5VecRfOE"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "date_added": "2025-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228168,
+      "name": "\u60b2\u89c0\u4e3b\u7fa9",
+      "url": "https://open.spotify.com/track/7bbk6utQUtWWbbZaATBbf7"
     },
     {
       "album": {
@@ -20886,7 +20904,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 214041,
       "name": "\u96fb\u71c8\u81bd",
       "url": "https://open.spotify.com/track/1TAz93GRvOHAuKfmoXjWsp"

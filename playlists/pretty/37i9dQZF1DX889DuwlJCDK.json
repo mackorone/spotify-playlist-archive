@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u5e1d\u56fd\u55ab\u8336",
-  "num_followers": 18353,
+  "num_followers": 18362,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-03-18 15:00:43",
       "album": {
-        "name": "\u5343\u5e74\u9ce5",
-        "url": "https://open.spotify.com/album/0RHPKiskH6TZvVZm3z0XWI"
-      },
-      "artists": [
-        {
-          "name": "Oisicle Melonpan",
-          "url": "https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh"
-        }
-      ],
-      "duration_ms": 171233,
-      "name": "\u5343\u5e74\u9ce5",
-      "url": "https://open.spotify.com/track/5Qq23YFrYkgXxE2llCuBeJ"
-    },
-    {
-      "added_at": "2025-03-18 15:00:43",
-      "album": {
         "name": "\u30b7\u30e7\u30fc\u30c8\u30ab\u30c3\u30c8",
         "url": "https://open.spotify.com/album/4RHVfs0r4wZ3MPwZMiMuWO"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 212266,
       "name": "\u30b7\u30e7\u30fc\u30c8\u30ab\u30c3\u30c8",
       "url": "https://open.spotify.com/track/6CHrfuOFJikGNs6JriXdGi"
+    },
+    {
+      "added_at": "2025-03-18 15:00:43",
+      "album": {
+        "name": "\u5343\u5e74\u9ce5",
+        "url": "https://open.spotify.com/album/0RHPKiskH6TZvVZm3z0XWI"
+      },
+      "artists": [
+        {
+          "name": "Oisicle Melonpan",
+          "url": "https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh"
+        }
+      ],
+      "duration_ms": 171233,
+      "name": "\u5343\u5e74\u9ce5",
+      "url": "https://open.spotify.com/track/5Qq23YFrYkgXxE2llCuBeJ"
     },
     {
       "added_at": "2025-03-18 15:00:43",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2025-03-18 15:00:43",
       "album": {
-        "name": "\u30d5\u30e9\u30b0\u30e1\u30f3\u30c8",
-        "url": "https://open.spotify.com/album/3k6MjLF2NQFI9SpHtZBILR"
+        "name": "beautiful\u306d",
+        "url": "https://open.spotify.com/album/5NI6YBLxZhIoaNHiQeNuV3"
       },
       "artists": [
         {
-          "name": "osage",
-          "url": "https://open.spotify.com/artist/4PC4yqIacQxiKL43y2Ml5x"
+          "name": "PEDRO",
+          "url": "https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0"
         }
       ],
-      "duration_ms": 206833,
-      "name": "\u30d5\u30e9\u30b0\u30e1\u30f3\u30c8",
-      "url": "https://open.spotify.com/track/6Vv7WUZhxGkYYjrIiiFTtg"
+      "duration_ms": 283333,
+      "name": "beautiful\u306d",
+      "url": "https://open.spotify.com/track/5PH4OEOxFrUCGBRJORhCMh"
     },
     {
       "added_at": "2025-03-18 15:00:43",
@@ -1263,34 +1263,18 @@
     {
       "added_at": "2025-03-18 15:00:43",
       "album": {
-        "name": "\u3057\u305f\u3044\u3053\u3068\u30ea\u30b9\u30c8",
-        "url": "https://open.spotify.com/album/6UXnmf6H9kWlDEL3PJNWDu"
+        "name": "\u30d5\u30e9\u30b0\u30e1\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/3k6MjLF2NQFI9SpHtZBILR"
       },
       "artists": [
         {
-          "name": "\u30ac\u30e9\u30af\u30bf",
-          "url": "https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA"
+          "name": "osage",
+          "url": "https://open.spotify.com/artist/4PC4yqIacQxiKL43y2Ml5x"
         }
       ],
-      "duration_ms": 164445,
-      "name": "\u3057\u305f\u3044\u3053\u3068\u30ea\u30b9\u30c8",
-      "url": "https://open.spotify.com/track/3ncUq6k51SRqhBJnItZQJ2"
-    },
-    {
-      "added_at": "2025-03-18 15:00:43",
-      "album": {
-        "name": "beautiful\u306d",
-        "url": "https://open.spotify.com/album/5NI6YBLxZhIoaNHiQeNuV3"
-      },
-      "artists": [
-        {
-          "name": "PEDRO",
-          "url": "https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0"
-        }
-      ],
-      "duration_ms": 283333,
-      "name": "beautiful\u306d",
-      "url": "https://open.spotify.com/track/5PH4OEOxFrUCGBRJORhCMh"
+      "duration_ms": 206833,
+      "name": "\u30d5\u30e9\u30b0\u30e1\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/6Vv7WUZhxGkYYjrIiiFTtg"
     },
     {
       "added_at": "2025-03-18 15:00:43",
@@ -1307,6 +1291,22 @@
       "duration_ms": 214733,
       "name": "GIVE ME SHELTER",
       "url": "https://open.spotify.com/track/79l0ttwXBbTzmGdZ3YdHXC"
+    },
+    {
+      "added_at": "2025-03-18 15:00:43",
+      "album": {
+        "name": "\u3057\u305f\u3044\u3053\u3068\u30ea\u30b9\u30c8",
+        "url": "https://open.spotify.com/album/6UXnmf6H9kWlDEL3PJNWDu"
+      },
+      "artists": [
+        {
+          "name": "\u30ac\u30e9\u30af\u30bf",
+          "url": "https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA"
+        }
+      ],
+      "duration_ms": 164445,
+      "name": "\u3057\u305f\u3044\u3053\u3068\u30ea\u30b9\u30c8",
+      "url": "https://open.spotify.com/track/3ncUq6k51SRqhBJnItZQJ2"
     },
     {
       "added_at": "2025-03-18 15:00:43",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-03-18 15:00:43",
       "album": {
-        "name": "Lemuria",
-        "url": "https://open.spotify.com/album/2KoR8oWfmpXg3VSCrYcQvo"
-      },
-      "artists": [
-        {
-          "name": "\u96ea\u56fd",
-          "url": "https://open.spotify.com/artist/7DDVGuK8o8mZF7zYtU4yjD"
-        }
-      ],
-      "duration_ms": 224013,
-      "name": "Blue Train",
-      "url": "https://open.spotify.com/track/4MxUWX3CnhSh1OMpe8Vr1E"
-    },
-    {
-      "added_at": "2025-03-18 15:00:43",
-      "album": {
         "name": "\u30ec\u30a2\u30e9\u30a4\u30d5",
         "url": "https://open.spotify.com/album/3hxa3fEw9oMHujgDMDm3e2"
       },
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2025-03-18 15:00:43",
       "album": {
-        "name": "\u672c\u97f3",
-        "url": "https://open.spotify.com/album/6j5jS4wiNHZwGWk8yL4GfI"
+        "name": "Lemuria",
+        "url": "https://open.spotify.com/album/2KoR8oWfmpXg3VSCrYcQvo"
       },
       "artists": [
         {
-          "name": "Fish and Lips",
-          "url": "https://open.spotify.com/artist/79Vm1EXJ1Jk7CyYLTNGe5J"
+          "name": "\u96ea\u56fd",
+          "url": "https://open.spotify.com/artist/7DDVGuK8o8mZF7zYtU4yjD"
         }
       ],
-      "duration_ms": 251233,
-      "name": "\u672c\u97f3",
-      "url": "https://open.spotify.com/track/4vWgiPZlnrd4KKaDjou88T"
+      "duration_ms": 224013,
+      "name": "Blue Train",
+      "url": "https://open.spotify.com/track/4MxUWX3CnhSh1OMpe8Vr1E"
     },
     {
       "added_at": "2025-03-18 15:00:43",
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2025-03-18 15:00:43",
       "album": {
+        "name": "\u672c\u97f3",
+        "url": "https://open.spotify.com/album/6j5jS4wiNHZwGWk8yL4GfI"
+      },
+      "artists": [
+        {
+          "name": "Fish and Lips",
+          "url": "https://open.spotify.com/artist/79Vm1EXJ1Jk7CyYLTNGe5J"
+        }
+      ],
+      "duration_ms": 251233,
+      "name": "\u672c\u97f3",
+      "url": "https://open.spotify.com/track/4vWgiPZlnrd4KKaDjou88T"
+    },
+    {
+      "added_at": "2025-03-18 15:00:43",
+      "album": {
         "name": "\u3042\u304f\u3073\u304c\u3046\u3064\u308b",
         "url": "https://open.spotify.com/album/2UNqIk9W4FWvE4e8pUvWcu"
       },
@@ -1451,22 +1451,6 @@
       "duration_ms": 203480,
       "name": "\u3042\u304f\u3073\u304c\u3046\u3064\u308b",
       "url": "https://open.spotify.com/track/6KvgHYLTnrIo5LW503B3HC"
-    },
-    {
-      "added_at": "2025-03-18 15:00:43",
-      "album": {
-        "name": "\u611b\u306e\u584a",
-        "url": "https://open.spotify.com/album/1rt6JoEFx3Yiih3Z6Ef35l"
-      },
-      "artists": [
-        {
-          "name": "the paddles",
-          "url": "https://open.spotify.com/artist/49QNPOMtx2yZmOxXGqJ1MO"
-        }
-      ],
-      "duration_ms": 185986,
-      "name": "\u611b\u306e\u584a",
-      "url": "https://open.spotify.com/track/0q29xZIGmITMLVfANVDBxY"
     },
     {
       "added_at": "2025-03-18 15:00:43",
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2025-03-18 15:00:43",
       "album": {
-        "name": "\u541b\u306e\u98fc\u3044\u72ac\u306f\u3001\u53ef\u611b\u304f\u3066\u6700\u60aa\u3002",
-        "url": "https://open.spotify.com/album/1KFqzFxWms2QCIgX6y7L98"
+        "name": "\u611b\u306e\u584a",
+        "url": "https://open.spotify.com/album/1rt6JoEFx3Yiih3Z6Ef35l"
       },
       "artists": [
         {
-          "name": "\u8d85\u2606\u793e\u4f1a\u7684\u30b5\u30f3\u30c0\u30eb",
-          "url": "https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4"
+          "name": "the paddles",
+          "url": "https://open.spotify.com/artist/49QNPOMtx2yZmOxXGqJ1MO"
         }
       ],
-      "duration_ms": 283701,
-      "name": "\u30d5\u30e9\u30f3\u30b9\u6599\u7406",
-      "url": "https://open.spotify.com/track/3Zid95Tp3ipCFAbmI9yl2k"
+      "duration_ms": 185986,
+      "name": "\u611b\u306e\u584a",
+      "url": "https://open.spotify.com/track/0q29xZIGmITMLVfANVDBxY"
     },
     {
       "added_at": "2025-03-18 15:00:43",
@@ -1515,6 +1499,22 @@
       "duration_ms": 260864,
       "name": "DANDANDANCE",
       "url": "https://open.spotify.com/track/5qmVXnFDnxAFaRPHBWoOpS"
+    },
+    {
+      "added_at": "2025-03-18 15:00:43",
+      "album": {
+        "name": "\u541b\u306e\u98fc\u3044\u72ac\u306f\u3001\u53ef\u611b\u304f\u3066\u6700\u60aa\u3002",
+        "url": "https://open.spotify.com/album/1KFqzFxWms2QCIgX6y7L98"
+      },
+      "artists": [
+        {
+          "name": "\u8d85\u2606\u793e\u4f1a\u7684\u30b5\u30f3\u30c0\u30eb",
+          "url": "https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4"
+        }
+      ],
+      "duration_ms": 283701,
+      "name": "\u30d5\u30e9\u30f3\u30b9\u6599\u7406",
+      "url": "https://open.spotify.com/track/3Zid95Tp3ipCFAbmI9yl2k"
     },
     {
       "added_at": "2025-03-18 15:00:43",

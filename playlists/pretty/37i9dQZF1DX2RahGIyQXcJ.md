@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 
 > Best of Desi Hip\-Hop! Cover:  KR$NA
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,601 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,680 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 | 28 | [Floating \- Feat\. Future](https://open.spotify.com/track/1Y2wcqUyiK15x3mkHGcVcB) | [Sorrow Sky](https://open.spotify.com/artist/6qvJ9z3Idesciq5NOHDaFZ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Floating](https://open.spotify.com/album/2qinuiw8anUFuVGbqiyHaZ) | 2:19 |
 | 29 | [Different Kinda Hyderabadi \[DKH\]](https://open.spotify.com/track/2pxr4j23Gwvjm6TQbyYU5O) | [Nio Endo](https://open.spotify.com/artist/4pEqatZJxCL2Lxb1wNhglR), [FIREBOY](https://open.spotify.com/artist/7vJedHr307srzF8IeAKWML) | [Different Kinda Hyderabadi \[DKH\]](https://open.spotify.com/album/3UNkctOEXdX2Rak9u8e6ed) | 2:39 |
 | 30 | [Dior](https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:19 |
-| 31 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 |
+| 31 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Seshnolan](https://open.spotify.com/artist/4QsiFUy1ddAbRb1UnjvUWN) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 |
 | 32 | [Old Money](https://open.spotify.com/track/4WLDaQ8AgSwUgFoPzJkAYK) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Old Money](https://open.spotify.com/album/2f8hk48Uin6SFQyMKw7AIp) | 2:08 |
 | 33 | [RAUSI LAYO](https://open.spotify.com/track/2Pv4SzIwfCEKMTUHZQsWn2) | [Jamesy](https://open.spotify.com/artist/3Z3yPo3SbczpDs4FpY9ixA) | [RISKTAPE](https://open.spotify.com/album/58tPbamRoUkTyNFWLb9N7Q) | 2:57 |
 | 34 | [Kaun Talha](https://open.spotify.com/track/0euDWZG2g1Cw12TDyLQUKu) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Kaun Talha](https://open.spotify.com/album/79kk4fBrppufcwHKZ6SspP) | 4:29 |

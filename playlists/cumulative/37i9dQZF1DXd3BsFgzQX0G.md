@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of Undercover Highschool\. \(언더커버 하이스쿨의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-28 songs - 1 hr 36 min
+32 songs - 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,11 @@
 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 | 2025-03-04 |  |
 | [foreverymoments](https://open.spotify.com/track/2FnMrl3qRuXRghJupmqaH1) | [Kim Daniel](https://open.spotify.com/artist/3lr26NDbIkMbrcgwWOTSAY) | [foreverymoments](https://open.spotify.com/album/379PwWezVswRlBninYmYSY) | 3:26 | 2025-03-04 |  |
 | [Hopeless Romantic \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Hopeless Romantic](https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS) | 3:55 | 2025-03-04 |  |
+| [How about you?](https://open.spotify.com/track/0eWgMwqbWv5H7nNVHx8TWb) | [VIN](https://open.spotify.com/artist/7cAZI0mEX1Y5h7vwAknqjN) | [Undercover High School OST Part.5 \(Soundtrack\)](https://open.spotify.com/album/0xzQZqJ8CE2FPQp76rKo48) | 3:14 | 2025-03-22 |  |
+| [How about you? \(Inst.\)](https://open.spotify.com/track/5Xbgq98vAKunv0rj0Dm51e) | [VIN](https://open.spotify.com/artist/7cAZI0mEX1Y5h7vwAknqjN) | [Undercover High School OST Part.5 \(Soundtrack\)](https://open.spotify.com/album/0xzQZqJ8CE2FPQp76rKo48) | 3:14 | 2025-03-22 |  |
 | [I'll try](https://open.spotify.com/track/0D3ZWerL04CeZ73ecMsbfO) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb) | 3:43 | 2025-03-04 |  |
+| [I'm In Love With You](https://open.spotify.com/track/4ilw2JBF4wKwU2cBuzbbhK) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Undercover High School OST Part.6 \(Soundtrack\)](https://open.spotify.com/album/0i45Q3i8ANPlt2iXnBnmXh) | 2:53 | 2025-03-22 |  |
+| [I'm In Love With You \(Inst.\)](https://open.spotify.com/track/1shuA1VJduN9ANupTf1ms2) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Undercover High School OST Part.6 \(Soundtrack\)](https://open.spotify.com/album/0i45Q3i8ANPlt2iXnBnmXh) | 2:53 | 2025-03-22 |  |
 | [If You Ask Me What Love Is](https://open.spotify.com/track/5zsMOF3yWT4U1Vw5eaMQFH) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [If You Ask Me What Love Is](https://open.spotify.com/album/79ZPROThlkTsw8QqWGYkPe) | 3:43 | 2025-03-04 |  |
 | [Journey](https://open.spotify.com/track/0bJK7JJxK8jph9Nazai0Dr) | [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Journey](https://open.spotify.com/album/2EQ9kO7mz10ZOvopsViCp8) | 3:30 | 2025-03-04 |  |
 | [Last Chance](https://open.spotify.com/track/3VNm72yGbPkxaUMhoWk15s) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [Queen of Tears \(Original Television Soundtrack\), Pt.8](https://open.spotify.com/album/7IlGRv127ABNT0oN8xQUKK) | 4:08 | 2025-03-04 |  |

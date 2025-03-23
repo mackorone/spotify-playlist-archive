@@ -1,12 +1,12 @@
 {
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 63826,
+  "num_followers": 63847,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9tagAAAAACnLj2XwZi2esQhPv4y2xAT",
+  "snapshot_id": "Z9ysAAAAAACNbImC23H63fdNNhZwDhpS",
   "tracks": [
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras Pa Pistear Volumen 1",
-        "url": "https://open.spotify.com/album/3fuUgFZDApi0xywZ5hOgqk"
+        "name": "Esto Es Lo Nuestro - 20 Exitos",
+        "url": "https://open.spotify.com/album/7EVGFNX0svFH7FhInsIo2h"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 177096,
-      "name": "El Disgusto",
-      "url": "https://open.spotify.com/track/7sm9ulj2YtnaBcMZ8tfni2"
+      "duration_ms": 193666,
+      "name": "Profundamente",
+      "url": "https://open.spotify.com/track/4xfBuv8JI74VklmZb3pjoB"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esto Es Lo Nuestro - 20 Exitos",
-        "url": "https://open.spotify.com/album/7EVGFNX0svFH7FhInsIo2h"
+        "name": "Puras Pa Pistear Volumen 1",
+        "url": "https://open.spotify.com/album/3fuUgFZDApi0xywZ5hOgqk"
       },
       "artists": [
         {
@@ -392,9 +392,25 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 193666,
-      "name": "Profundamente",
-      "url": "https://open.spotify.com/track/4xfBuv8JI74VklmZb3pjoB"
+      "duration_ms": 177096,
+      "name": "El Disgusto",
+      "url": "https://open.spotify.com/track/7sm9ulj2YtnaBcMZ8tfni2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coleccion Suprema",
+        "url": "https://open.spotify.com/album/5IUhaLA9PFfj1UgknJ0I5f"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Piquetes De Hormiga",
+      "url": "https://open.spotify.com/track/4u5dcho6aCcdwJoNPCm7bu"
     },
     {
       "added_at": null,
@@ -415,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Profundamente",
-        "url": "https://open.spotify.com/album/78HIF5oTYm7ouvaMvFyz7i"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 227973,
-      "name": "No Puedo Olvidar Tu Voz",
-      "url": "https://open.spotify.com/track/0dcmh8adgSXu94G9N0Eunt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA"
       },
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coleccion Suprema",
-        "url": "https://open.spotify.com/album/5IUhaLA9PFfj1UgknJ0I5f"
+        "name": "Profundamente",
+        "url": "https://open.spotify.com/album/78HIF5oTYm7ouvaMvFyz7i"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 132160,
-      "name": "Piquetes De Hormiga",
-      "url": "https://open.spotify.com/track/4u5dcho6aCcdwJoNPCm7bu"
+      "duration_ms": 227973,
+      "name": "No Puedo Olvidar Tu Voz",
+      "url": "https://open.spotify.com/track/0dcmh8adgSXu94G9N0Eunt"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puras Rancheras",
+        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "Atrapado",
+      "url": "https://open.spotify.com/track/71gh7kQdKfaDWZSZZIU1ff"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "3 Grandes De La Banda En Homenaje A Jos\u00e9 Alfredo Jim\u00e9nez",
         "url": "https://open.spotify.com/album/7MqSnitKxSy1vMXb35250u"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 187062,
       "name": "El Hijo Del Pueblo",
       "url": "https://open.spotify.com/track/1Ccnqnx2Rp9msuOCudiqwg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puras Rancheras",
-        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "Atrapado",
-      "url": "https://open.spotify.com/track/71gh7kQdKfaDWZSZZIU1ff"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1515682,
+  "num_followers": 1515716,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "VI",
+        "url": "https://open.spotify.com/album/2blIxqyAY5WGGobD4Jr1hL"
+      },
+      "artists": [
+        {
+          "name": "Detonautas",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        }
+      ],
+      "duration_ms": 241400,
+      "name": "Por Onde Voc\u00ea Anda?",
+      "url": "https://open.spotify.com/track/6Cds1yaAqjemuebKt1DIKj"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Brasileiro",
         "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 167250,
       "name": "Fica Tudo Bem",
       "url": "https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "VI",
-        "url": "https://open.spotify.com/album/2blIxqyAY5WGGobD4Jr1hL"
-      },
-      "artists": [
-        {
-          "name": "Detonautas",
-          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
-        }
-      ],
-      "duration_ms": 241400,
-      "name": "Por Onde Voc\u00ea Anda?",
-      "url": "https://open.spotify.com/track/6Cds1yaAqjemuebKt1DIKj"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Zeeba - Reset",
+        "url": "https://open.spotify.com/album/0WiqJSBvRvmto6ugbqtOO0"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 214741,
+      "name": "Tudo Que Importa (Acoustic)",
+      "url": "https://open.spotify.com/track/4UY8yqnvG44KTcFSia0cEa"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Ac\u00fastico Na Casa Do Lago (Ac\u00fastico / Ao Vivo)",
         "url": "https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 193116,
       "name": "Sem Jeito Ao Vivo - Ac\u00fastico / Ao Vivo",
       "url": "https://open.spotify.com/track/271DlfuaXEJfsvowRuzYuj"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Zeeba - Reset",
-        "url": "https://open.spotify.com/album/0WiqJSBvRvmto6ugbqtOO0"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 214741,
-      "name": "Tudo Que Importa (Acoustic)",
-      "url": "https://open.spotify.com/track/4UY8yqnvG44KTcFSia0cEa"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -623,26 +623,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Onde A Gente Chegou",
-        "url": "https://open.spotify.com/album/2ZTOUalTbd4OadSP9Js5If"
-      },
-      "artists": [
-        {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
-        },
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 160408,
-      "name": "Onde A Gente Chegou",
-      "url": "https://open.spotify.com/track/1W0FHxSmWtKgzHUwqh50s8"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Quem Sabe",
         "url": "https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 173858,
       "name": "Quem Sabe",
       "url": "https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Onde A Gente Chegou",
+        "url": "https://open.spotify.com/album/2ZTOUalTbd4OadSP9Js5If"
+      },
+      "artists": [
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 160408,
+      "name": "Onde A Gente Chegou",
+      "url": "https://open.spotify.com/track/1W0FHxSmWtKgzHUwqh50s8"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Peu Canta Ivete",
-        "url": "https://open.spotify.com/album/5WDe14rM6lvHcjEOXwTcBw"
-      },
-      "artists": [
-        {
-          "name": "PEU",
-          "url": "https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f"
-        }
-      ],
-      "duration_ms": 243179,
-      "name": "Quando a Chuva Passar",
-      "url": "https://open.spotify.com/track/6lgl29Vc2xmfE0mTFRI4ip"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Dizeres",
         "url": "https://open.spotify.com/album/2IUHuZBQ4piQAp53ktdwvQ"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 257644,
       "name": "Dizeres",
       "url": "https://open.spotify.com/track/3Vc8vnid3noqupe9PvUKxP"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Peu Canta Ivete",
+        "url": "https://open.spotify.com/album/5WDe14rM6lvHcjEOXwTcBw"
+      },
+      "artists": [
+        {
+          "name": "PEU",
+          "url": "https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f"
+        }
+      ],
+      "duration_ms": 243179,
+      "name": "Quando a Chuva Passar",
+      "url": "https://open.spotify.com/track/6lgl29Vc2xmfE0mTFRI4ip"
     },
     {
       "added_at": "2024-08-02 18:37:00",

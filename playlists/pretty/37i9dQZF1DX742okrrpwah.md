@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > M\. Pokora & Ronisia au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,949 likes - 101 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,982 likes - 101 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 94 | [T\-Shirt](https://open.spotify.com/track/6PM6pYoesUlOQqO3R6AkPK) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C) | [T\-Shirt](https://open.spotify.com/album/2EaRYYNXuypVyGrXyLNGCI) | 2:50 |
 | 95 | [Handle Business](https://open.spotify.com/track/38xOor2sR9ZGEj9SHs3LRk) | [Jabberwocky](https://open.spotify.com/artist/7xfdx6PiB50V9VWI4Mq70R), [Ehiorobo](https://open.spotify.com/artist/5kZ3bLambJ4rBTQ7c2pmi5) | [Handle Business](https://open.spotify.com/album/1iYf3ExOHwWO3mlpjlYTbU) | 2:36 |
 | 96 | [Hold On](https://open.spotify.com/track/0AI3qBUPownfaNiTECNgKP) | [Nka](https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz) | [Hold On](https://open.spotify.com/album/1tJeo3lvo8gp9XLZkc6Wuj) | 2:41 |
-| 97 | [Le Funambule](https://open.spotify.com/track/2TlyaM4NmDpoawFPsTH1KZ) | [Mon cher Guy](https://open.spotify.com/artist/6KwKwfx3DSMOYDfHo1GcK2), [Les Clopes](https://open.spotify.com/artist/7dodylTfBnV13yLhRUpos7) | [Le Funambule](https://open.spotify.com/album/1px8CygxTDUSeSsbgx9CPb) | 3:11 |
+| 97 | [Le Funambule](https://open.spotify.com/track/2TlyaM4NmDpoawFPsTH1KZ) | [Mon cher Guy](https://open.spotify.com/artist/6KwKwfx3DSMOYDfHo1GcK2), [Les clopes](https://open.spotify.com/artist/3hyFh3a07azAfvMgbZLl6p) | [Le Funambule](https://open.spotify.com/album/1px8CygxTDUSeSsbgx9CPb) | 3:11 |
 | 98 | [L'espoir](https://open.spotify.com/track/7BBmy9dqkbnTqdN6woGs5H) | [Barbet](https://open.spotify.com/artist/7rN8I3x8rAW7gGFYLCK03E) | [L'espoir](https://open.spotify.com/album/2QzKTjMnjSx85vuWmGu8UG) | 3:30 |
 | 99 | [Picture Window](https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [For Melancholy Brunettes \(& sad women\)](https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES) | 2:58 |
 | 100 | [miel pops](https://open.spotify.com/track/0Hp39sfvhtUE4XyVmyXJTL) | [Arthur Ely](https://open.spotify.com/artist/65WEveY2gA6BSkkkpT8jrl) | [miel pops](https://open.spotify.com/album/2W3AORXQJfzpZaboLcrdh4) | 3:13 |

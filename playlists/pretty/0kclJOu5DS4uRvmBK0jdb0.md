@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kclJOu5DS4uRvmBK0jdb0.md) - [plain]
 
 > SPORT FREI! <a href="http://www.rammstein.com">RAMMSTEIN</a>
 
-[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 8,297 likes - 11 songs - 44 min 51 sec
+[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 8,299 likes - 11 songs - 44 min 51 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

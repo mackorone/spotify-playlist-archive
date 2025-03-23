@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,635 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,640 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 69 | [\~O.V.O\~](https://open.spotify.com/track/1hpIlvnByp3N9H0mjtjC8w) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [\~O.V.O\~](https://open.spotify.com/album/3ULCMpZ7fnBHoHkIH3TNtn) | 5:30 |
 | 70 | [All My People \- Extended](https://open.spotify.com/track/3FvNYZ2GEV72vkmDq0gQV6) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Sweely](https://open.spotify.com/artist/1SYJDHr7kjUL4LlfK1jJ9m) | [All My People \(Extended\)](https://open.spotify.com/album/6zsHQkq1cobADWNG4tEORo) | 5:25 |
 | 71 | [CHROMA 002 L.A.V.A](https://open.spotify.com/track/53U1tJGUPNaTUfOqoAsbVx) | [B.D.B](https://open.spotify.com/artist/6sXF3naVGIqO5axr7EVgPi), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Benjamin Damage](https://open.spotify.com/artist/4erUkZEVS1jXi5kwEtNvjT) | [CHROMA 002](https://open.spotify.com/album/1iWBYSVDon9oIE7Tn4M0mw) | 4:09 |
-| 72 | [Still Riding](https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Still Riding](https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172) | 3:39 |
+| 72 | [Still Riding](https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Still Riding](https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172) | 3:37 |
 | 73 | [Polite](https://open.spotify.com/track/4JdD2un3BjFGApauSkPIMv) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Shanique Marie](https://open.spotify.com/artist/6iMJjTp6P8nIwfan6pgPuA) | [Polite](https://open.spotify.com/album/16fc4iyTTvTld5SnBZO8zH) | 3:46 |
 | 74 | [Drink The Juice](https://open.spotify.com/track/15WsTnGyz7el3V21y5t5Eu) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Drink The Juice](https://open.spotify.com/album/5j4bE0u89Vn4XrePpOac7J) | 3:01 |
 | 75 | [Burn It](https://open.spotify.com/track/3VNrV8uylABwQAhVl5xtVx) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6), [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp) | [Burn It](https://open.spotify.com/album/7s4Uf9U1OCqCyTB2jJY5dB) | 4:32 |

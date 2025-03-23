@@ -1,6 +1,6 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Maria Becerra.",
-  "num_followers": 58936,
+  "num_followers": 58981,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2025-03-21 03:00:27",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/3OWrrEeotMJYHiJKh3w3DJ"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 215314,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0eiWOf3mNBSBEC5GmtqahL"
-    },
-    {
-      "added_at": "2025-03-21 03:00:27",
-      "album": {
         "name": "Mar de Coral",
         "url": "https://open.spotify.com/album/2yf25R3v9cbYcfRrOML3iF"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 235044,
       "name": "Mar de Coral",
       "url": "https://open.spotify.com/track/2Vnc34rlo42kYFyLUmX1Px"
+    },
+    {
+      "added_at": "2025-03-21 03:00:27",
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/3OWrrEeotMJYHiJKh3w3DJ"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 215314,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0eiWOf3mNBSBEC5GmtqahL"
     },
     {
       "added_at": "2025-03-21 03:00:27",

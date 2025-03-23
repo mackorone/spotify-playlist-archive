@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 
 > PH vibin' cover: jikamarie, Skusta Clee
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,108 likes - 51 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,170 likes - 51 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Para Pilitin Ka](https://open.spotify.com/track/69U6iomvHuKP2m27XRD0Ct) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j), [Skusta Clee](https://open.spotify.com/artist/5JbStattlfYhCXG4a1hevw) | [Para Pilitin Ka](https://open.spotify.com/album/4KcovszCGgDit0iyhwuQ9u) | 3:16 |
+| 1 | [Para Pilitin Ka](https://open.spotify.com/track/69U6iomvHuKP2m27XRD0Ct) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Para Pilitin Ka](https://open.spotify.com/album/4KcovszCGgDit0iyhwuQ9u) | 3:16 |
 | 2 | [Aanhin](https://open.spotify.com/track/2M8kxHDUokVYpusBRjh6PX) | [Juan Caoile](https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd), [Kyleswish](https://open.spotify.com/artist/1EMaB1ZnRpeXWruJZMtaUa), [Jawz](https://open.spotify.com/artist/6zCxAxzt79PCyDcFIJRfyg) | [Aanhin](https://open.spotify.com/album/1dozfRfM92Ye6AXjsiejnA) | 3:30 |
 | 3 | [harana](https://open.spotify.com/track/4LkI6c7295WYISKRYXCRfV) | [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76), [KLLY](https://open.spotify.com/artist/4eBTFDYHEwhgg4OE30E1eF) | [harana](https://open.spotify.com/album/5QMyDROm7bkfFJu8eGxXaW) | 3:40 |
 | 4 | [Care 4 U](https://open.spotify.com/track/2K25Ikj36LCLdBsdiCGZKB) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Care 4 U](https://open.spotify.com/album/6IWLcBDoDKXXeUy1TrtXQw) | 2:06 |

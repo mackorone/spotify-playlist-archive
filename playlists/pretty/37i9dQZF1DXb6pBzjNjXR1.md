@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech that was born in Southern Africa, as it travels the world's dancefloors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,634 likes - 60 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,655 likes - 60 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 19 | [Khoisan](https://open.spotify.com/track/2rnvcSb0Of5nxK6nNW0EPX) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Kitty Amor](https://open.spotify.com/artist/0ZaCzPKSboLncLMhFaBfcT) | [Africa Gets Physical, Vol\. 4](https://open.spotify.com/album/3EYT5rRhfYfz4ttOl2ILEr) | 4:23 |
 | 20 | [Ithi Nqo](https://open.spotify.com/track/2PLxYRtyKwfIui6PyH2Ijr) | [Candy Man](https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor), [Sazi](https://open.spotify.com/artist/5MV0ZxPETyyyKbaI2nlSpq) | [Lost In Nairobi](https://open.spotify.com/album/1VbU9VqEzQFQp2we8qk5c8) | 6:33 |
 | 21 | [Memeza](https://open.spotify.com/track/0uPqXxpZnABvF9iUumAoM4) | [Froote](https://open.spotify.com/artist/5Y7MmhW2nLdWjnc3TiaVRm), [KingDonna](https://open.spotify.com/artist/2zZHw1UpT4BK4IJdS1WhDU) | [Memeza](https://open.spotify.com/album/7hPeNGfP2bw9oJnjiJ8dy4) | 7:22 |
-| 22 | [Erro Pt II](https://open.spotify.com/track/1KLQ4j2Krqvebva7FUnBv3) | [Badbox](https://open.spotify.com/artist/1rfV7OLiCDOYcAacFcJ6Kf), [Afrokillerz](https://open.spotify.com/artist/6r7b5Y6q3CuBgwVF5NmDSb) | [Erro PT II](https://open.spotify.com/album/6fLd2DiQaUuxDaQb1STnJE) | 6:21 |
+| 22 | [Erro Pt II](https://open.spotify.com/track/1KLQ4j2Krqvebva7FUnBv3) | [BADBOX](https://open.spotify.com/artist/1rfV7OLiCDOYcAacFcJ6Kf), [Afrokillerz](https://open.spotify.com/artist/6r7b5Y6q3CuBgwVF5NmDSb) | [Erro PT II](https://open.spotify.com/album/6fLd2DiQaUuxDaQb1STnJE) | 6:21 |
 | 23 | [Tanka Tanka](https://open.spotify.com/track/24T4jR99ORYmWAQ2q0vKyS) | [Drega](https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG) | [Kharnju II](https://open.spotify.com/album/3dzzLzZMO9oZasaIgMs6LI) | 7:10 |
 | 24 | [Gijima](https://open.spotify.com/track/3E65YvukVP6AYXoJPqLugO) | [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [Dreamer](https://open.spotify.com/album/3NqxhXWGKHp5XqeUD1vnzc) | 6:04 |
 | 25 | [Pumua](https://open.spotify.com/track/5Z3oL66VWQykaQCIKt8MzH) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9) | [Breathe](https://open.spotify.com/album/2PzIWsIe5yeZWzu1mMqaXu) | 6:50 |

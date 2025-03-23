@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Kean Cipriano, Ice Seguerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,877 likes - 96 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,912 likes - 96 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Para Pilitin Ka](https://open.spotify.com/track/69U6iomvHuKP2m27XRD0Ct) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j), [Skusta Clee](https://open.spotify.com/artist/5JbStattlfYhCXG4a1hevw) | [Para Pilitin Ka](https://open.spotify.com/album/4KcovszCGgDit0iyhwuQ9u) | 3:16 |
+| 1 | [Para Pilitin Ka](https://open.spotify.com/track/69U6iomvHuKP2m27XRD0Ct) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Para Pilitin Ka](https://open.spotify.com/album/4KcovszCGgDit0iyhwuQ9u) | 3:16 |
 | 2 | [Feels Like It's the End of the Line](https://open.spotify.com/track/6gANkU19D3A9JQlAQHr2uK) | [Kean Cipriano](https://open.spotify.com/artist/1RkRG7rQC8UlUTFrsVYUGj), [Ice Seguerra](https://open.spotify.com/artist/19X3R5eJguNYE8lwDZZWV9) | [Feels Like It's the End of the Line](https://open.spotify.com/album/6z8HP2zt7dAML5MoibKfOu) | 4:55 |
 | 3 | [Pag\-ibig ng Ikaw at Ako](https://open.spotify.com/track/1GqZU8Isnm4Bwx7V3na5tO) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Pag\-ibig ng Ikaw at Ako](https://open.spotify.com/album/4XcBixCavHYqmVPCAr2jwN) | 4:40 |
 | 4 | [Namimiss](https://open.spotify.com/track/7lEGj6XSI3BWuIHMCcd9O3) | [Frank Ely](https://open.spotify.com/artist/4wKXUX1hMeAmlAVOi7cfG0) | [Namimiss](https://open.spotify.com/album/6uwX2fa0kncg9Y1bRk4Xqg) | 4:35 |
 | 5 | [KABANATA](https://open.spotify.com/track/0XAd307ZQhPFVtnVrqwUsd) | [JAO](https://open.spotify.com/artist/6Bc3V3kVnWpY5kqQN6nio5) | [KABANATA](https://open.spotify.com/album/4ORFzQtMyd3xR7SnLFnod9) | 3:48 |
 | 6 | [Funny](https://open.spotify.com/track/5acDAc2d4h8VoUvFZDGlJA) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Funny](https://open.spotify.com/album/3ojzpLZHuP3jVWOIZ92qPd) | 2:40 |
-| 7 | [Lederhosen \(feat\. ivoimpreso\)](https://open.spotify.com/track/2H7BnU6vKUxUS1RyIBNb9b) | [barb.](https://open.spotify.com/artist/3c97nGqpNhVKMhxn8zEB33) | [Lederhosen \(feat\. ivoimpreso\)](https://open.spotify.com/album/2ALHofwweByHLJDXAkyF5J) | 3:56 |
+| 7 | [Lederhosen \(feat\. ivoimpreso\)](https://open.spotify.com/track/2H7BnU6vKUxUS1RyIBNb9b) | [barb.](https://open.spotify.com/artist/3c97nGqpNhVKMhxn8zEB33), [Ivo Impreso](https://open.spotify.com/artist/55tfcOHVK67vg8BQZ7sZBV) | [Lederhosen \(feat\. ivoimpreso\)](https://open.spotify.com/album/2ALHofwweByHLJDXAkyF5J) | 3:56 |
 | 8 | [Larawan](https://open.spotify.com/track/7KGw4emQ399EbF331j3b6d) | [Rangel](https://open.spotify.com/artist/0bleiPugTnkqSUBnepa7Xi) | [Larawan](https://open.spotify.com/album/3XARO9hODVmLRGVGX5w1gC) | 3:22 |
 | 9 | [Dulo](https://open.spotify.com/track/5bLhybTqcGXyZezDi5sIB9) | [Dream Seven](https://open.spotify.com/artist/5kaDk3ytlVTNa6cj1Zv2ne) | [Dulo](https://open.spotify.com/album/23gnt8zwEep6WVewjk5FW9) | 3:32 |
 | 10 | [Sarili](https://open.spotify.com/track/4oYQ7p3V7vVeGTp923Iubb) | [Fitz Shioda](https://open.spotify.com/artist/5C2w1OkTeKl8BLSwHI68dj) | [Sarili](https://open.spotify.com/album/5hqvf8sZmj2Vsbes1ScCqg) | 4:31 |

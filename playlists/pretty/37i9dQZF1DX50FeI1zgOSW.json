@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Shravan Sridhar",
-  "num_followers": 14713,
+  "num_followers": 14715,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z90xmAAAAAAa1Qk6ghHK4HTMYMt/7qmR",
+  "snapshot_id": "Z97XrgAAAAAHGaVbxHaHB/ExXhs8Hoa9",
   "tracks": [
     {
       "added_at": "2025-02-04 15:23:50",
@@ -115,6 +115,30 @@
       "duration_ms": 243098,
       "name": "Iruppen",
       "url": "https://open.spotify.com/track/6zYC2cUgamLYbi7LbjKg74"
+    },
+    {
+      "added_at": "2025-03-22 15:30:54",
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/5jRl6diqbmVdmNzmvBxBN3"
+      },
+      "artists": [
+        {
+          "name": "Ku Karthik",
+          "url": "https://open.spotify.com/artist/7L5BLP9ezpFtEOas3AR0Ny"
+        },
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "Punitha Ramakrishnan",
+          "url": "https://open.spotify.com/artist/1eSxNM0BFeaFCV3OQ7sipM"
+        }
+      ],
+      "duration_ms": 215454,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/5IalEiACOaWwafT5K0CENa"
     },
     {
       "added_at": "2025-03-13 13:34:02",
@@ -755,34 +779,6 @@
       "duration_ms": 158000,
       "name": "Kathal Kuthu",
       "url": "https://open.spotify.com/track/2WLBSi3XRBjgwQdyijv3Tt"
-    },
-    {
-      "added_at": "2025-02-14 10:36:42",
-      "album": {
-        "name": "kaadhal overrated.",
-        "url": "https://open.spotify.com/album/1XfR7gh5q0hIK6WPrGgi4D"
-      },
-      "artists": [
-        {
-          "name": "JBE",
-          "url": "https://open.spotify.com/artist/65QGjfyW0qmCA5710AfZIQ"
-        },
-        {
-          "name": "Akroniim",
-          "url": "https://open.spotify.com/artist/2kNXaf7u31dDUTGFFatzZ4"
-        },
-        {
-          "name": "Sunil Jacksz",
-          "url": "https://open.spotify.com/artist/5nx79ILI7Kv5NnqXUvuKM5"
-        },
-        {
-          "name": "Skinny Slayah",
-          "url": "https://open.spotify.com/artist/2DicgVVpmkVkYrnu4RR5p1"
-        }
-      ],
-      "duration_ms": 231406,
-      "name": "kaadhal overrated.",
-      "url": "https://open.spotify.com/track/0c1xlZFZxidQ1JheR9OB7D"
     },
     {
       "added_at": "2025-01-20 04:22:48",

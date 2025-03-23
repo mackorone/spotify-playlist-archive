@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring DJ Carpenter & MASAKA
 
-976 songs - 2 day 5 hr 50 min
+977 songs - 2 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -831,7 +831,7 @@
 | [take your vibes and go \- Taiki Nulight Remix](https://open.spotify.com/track/2nbDMerZUp6P3xiKet7mWX) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [take your vibes and go \(Taiki Nulight Remix\)](https://open.spotify.com/album/6PT7m57YeMiOZE9fA0YSaB) | 3:02 | 2025-01-16 | 2025-03-18 |
 | [Talk To Me](https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Talk To Me](https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7) | 3:52 | 2024-10-31 |  |
 | [Talking Too Much](https://open.spotify.com/track/60O3TTCYh6LZFNKiicBodq) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [Talking Too Much](https://open.spotify.com/album/5DlqOm7mN0iuJs9k5r16Ii) | 3:54 | 2024-03-07 |  |
-| [TALKING WALLS](https://open.spotify.com/track/2EgVyvvuU95B3DqEZxbtj5) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [TALKING WALLS](https://open.spotify.com/album/023LW9WoSCeEDUwLBPIsHJ) | 2:32 | 2024-07-02 |  |
+| [TALKING WALLS](https://open.spotify.com/track/2EgVyvvuU95B3DqEZxbtj5) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [TALKING WALLS](https://open.spotify.com/album/023LW9WoSCeEDUwLBPIsHJ) | 2:32 | 2024-07-02 | 2025-03-23 |
 | [Tear Me Down](https://open.spotify.com/track/290iL1wFwGAWJC6IREJgXQ) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [Tear Me Down](https://open.spotify.com/album/6EWDO4bXbu0d42rmm4ohGW) | 3:05 | 2024-04-04 | 2025-02-07 |
 | [Tears](https://open.spotify.com/track/29tRu5BqKiUDAoWLKIO3RN) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP), [Sleepnet](https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 3:05 | 2023-02-19 | 2023-09-16 |
 | [Techno Is My Only Love](https://open.spotify.com/track/1REJlR8ulnslkfATIzOLgd) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Careline](https://open.spotify.com/album/69IBVapOvHJr977mY9gpDN) | 2:21 | 2025-01-30 | 2025-03-18 |
@@ -924,6 +924,7 @@
 | [Wake Up Call](https://open.spotify.com/track/3BRFlldhdNcUznlZVs6YOY) | [Mindsight](https://open.spotify.com/artist/6EcpgZnQhBHbiIfyQPGiGu) | [Wake Up Call](https://open.spotify.com/album/31aBlmIK1MVAHvwtpQ0Nyh) | 3:40 | 2021-08-06 | 2022-07-24 |
 | [wake up!](https://open.spotify.com/track/7bnO235VmhWgzPv2xVkrGx) | [Whereisalex](https://open.spotify.com/artist/5hMpjfYzeUt7BGGEo3YyPT) | [wake up!](https://open.spotify.com/album/1A1EWnRCjbylbULCr9gzLy) | 2:38 | 2021-08-06 | 2022-07-29 |
 | [wanderer](https://open.spotify.com/track/4nQnhWKlbBkfVwZBGozNnQ) | [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v), [Iris Penning](https://open.spotify.com/artist/44MTZ4Gl4TGilst3cCDq9G) | [photos of the sun](https://open.spotify.com/album/3AWW7zJ2NbTz57WLxD70HA) | 3:05 | 2021-08-06 | 2022-11-13 |
+| [Want It](https://open.spotify.com/track/6NzIiBuvtfwtcaAK6HzfMQ) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Want It](https://open.spotify.com/album/0TbKK880OLEKrDziuvCrtg) | 3:24 | 2025-03-20 |  |
 | [Warm Earth, Warm Feet](https://open.spotify.com/track/2ZGhCVgjNB4X9U4YSUS6gi) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Tetris People EP](https://open.spotify.com/album/5MiTTycfjIfhePXay7ui0z) | 2:42 | 2021-11-09 | 2022-07-29 |
 | [Warmth](https://open.spotify.com/track/1GxUXejlOxmpazw84h1Gsj) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [Warmth](https://open.spotify.com/album/3l2hZY5oYzYSZ94RTZpH5N) | 3:19 | 2021-08-06 | 2022-07-29 |
 | [wasted](https://open.spotify.com/track/7s7K9Z5YkIMGj1i8lDbucR) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [wasted](https://open.spotify.com/album/5RuB9orsITFfXqrbidC3SZ) | 3:26 | 2023-05-12 | 2023-05-21 |

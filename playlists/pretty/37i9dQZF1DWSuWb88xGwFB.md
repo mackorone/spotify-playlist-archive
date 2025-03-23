@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,082 likes - 75 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,102 likes - 75 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,12 +15,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 5 | [Follow Me \- Club Mix](https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU) | [Aly\-Us](https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r) | [Follow Me](https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O) | 6:24 |
 | 6 | [Beautiful People \- Underground Network Mix](https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Beautiful People \(Remixes\)](https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN) | 9:06 |
 | 7 | [What You Need \(feat\. Duane Harden\) \- Full Intention Radio Edit](https://open.spotify.com/track/7inuLUpKsCnlh4gxrsOe3i) | [Powerhouse](https://open.spotify.com/artist/2FbCA5ewgyGeuNV90qpZUS), [Duane Harden](https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0) | [What You Need \(feat\. Duane Harden\)](https://open.spotify.com/album/0PHSjWhb9VxzPTvGVE80PR) | 3:22 |
-| 8 | [Rise from Your Grave \- Wake Da Fuck Up Mix](https://open.spotify.com/track/0oXxA5HHIVWNv06JarsSND) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Rise From Your Grave](https://open.spotify.com/album/6exgN10NgqEqQkn893XG2e) | 5:52 |
-| 9 | [Asuca \- Tribal Mix](https://open.spotify.com/track/39SGubV6xzcknuwddb8d6d) | [R.A.W.](https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C) | [Asuca \(Remixes\)](https://open.spotify.com/album/55es5pld0PeugvDtRU1PZi) | 5:56 |
-| 10 | [Just An Organ \- Just An Organ Mix](https://open.spotify.com/track/4doXJDmMNk3yVwZcWaTEW2) | [D\-Tune](https://open.spotify.com/artist/26P8hiVKDgo3V5CfdYwSWm) | [The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC \(Unmixed\)](https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr) | 5:37 |
-| 11 | [Carnival '95 \- Pride Vocal Mix](https://open.spotify.com/track/66ktG3wneUTNWw8Byg1p88) | [Club Ultimate](https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition; Unmixed\]](https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I) | 6:04 |
-| 12 | [Deep Inside](https://open.spotify.com/track/5u27DT78hXMPlIfprPHGH9) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Strictly Tiefschwarz \(DJ Edition \- Unmixed\)](https://open.spotify.com/album/4ycWyBEFfltLZc0pvk7Kud) | 6:30 |
-| 13 | [Keep On Jumpin' \(feat\. Chazzie\) \- Egotrip Mix](https://open.spotify.com/track/290S0NJujegLGdyqhoNpbb) | [Beatboxx](https://open.spotify.com/artist/3eCbjMCl079pmtW3KaoxLs), [Chazzie](https://open.spotify.com/artist/2l8Sszon3yQDStEHxwXFtV) | [Keep On Jumpin' \(feat\. Chazzie\)](https://open.spotify.com/album/0n0Y0D181bMgshtIJe4Qkd) | 6:21 |
+| 8 | [Deep Inside](https://open.spotify.com/track/5u27DT78hXMPlIfprPHGH9) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Strictly Tiefschwarz \(DJ Edition \- Unmixed\)](https://open.spotify.com/album/4ycWyBEFfltLZc0pvk7Kud) | 6:30 |
+| 9 | [Keep On Jumpin' \(feat\. Chazzie\) \- Egotrip Mix](https://open.spotify.com/track/290S0NJujegLGdyqhoNpbb) | [Beatboxx](https://open.spotify.com/artist/3eCbjMCl079pmtW3KaoxLs), [Chazzie](https://open.spotify.com/artist/2l8Sszon3yQDStEHxwXFtV) | [Keep On Jumpin' \(feat\. Chazzie\)](https://open.spotify.com/album/0n0Y0D181bMgshtIJe4Qkd) | 6:21 |
+| 10 | [Rise from Your Grave \- Wake Da Fuck Up Mix](https://open.spotify.com/track/0oXxA5HHIVWNv06JarsSND) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Rise From Your Grave](https://open.spotify.com/album/6exgN10NgqEqQkn893XG2e) | 5:52 |
+| 11 | [Asuca \- Tribal Mix](https://open.spotify.com/track/39SGubV6xzcknuwddb8d6d) | [R.A.W.](https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C) | [Asuca \(Remixes\)](https://open.spotify.com/album/55es5pld0PeugvDtRU1PZi) | 5:56 |
+| 12 | [Just An Organ \- Just An Organ Mix](https://open.spotify.com/track/4doXJDmMNk3yVwZcWaTEW2) | [D\-Tune](https://open.spotify.com/artist/26P8hiVKDgo3V5CfdYwSWm) | [The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC \(Unmixed\)](https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr) | 5:37 |
+| 13 | [Carnival '95 \- Pride Vocal Mix](https://open.spotify.com/track/66ktG3wneUTNWw8Byg1p88) | [Club Ultimate](https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition; Unmixed\]](https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I) | 6:04 |
 | 14 | [House Of Love \- Love Mix](https://open.spotify.com/track/4bvxaVUSKV2fJXQUDwaLCX) | [Smooth Touch](https://open.spotify.com/artist/5h2vIb1P2w4idUI6kCFLT7) | [House Of Love](https://open.spotify.com/album/0UnVmFFjZJDh2o1OktIy60) | 4:51 |
 | 15 | [Zulu \- Change Mix](https://open.spotify.com/track/3bnX6J2heDwJcMW01WYupB) | [Circle Children](https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP) | [Zulu](https://open.spotify.com/album/4af9t45AsFlQR6CgWTsYqn) | 7:54 |
 | 16 | [Blues For You \- Hard Dub](https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL) | [Logic](https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC) | [Blues for You \(Remixes\)](https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU) | 4:29 |

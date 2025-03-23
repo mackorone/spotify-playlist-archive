@@ -1,12 +1,12 @@
 {
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
-  "num_followers": 8628,
+  "num_followers": 8633,
   "original_name": "This Is Hawthorne Heights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9tagAAAAABqkbuc9f9gdAaFnjlMAO4M",
+  "snapshot_id": "Z9ysAAAAAABoJKc6H8j9tRYTPq+fU3PT",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Frequencies",
-        "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "The Perfect Way to Fall Apart",
-      "url": "https://open.spotify.com/track/6EbrUOAtVI88FYpKL2s0Zp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Skeletons",
         "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
       },
@@ -523,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rain Just Follows Me",
-        "url": "https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz"
+        "name": "Bad Frequencies",
+        "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
       },
       "artists": [
         {
@@ -532,9 +516,29 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 245302,
-      "name": "Tired and Alone",
-      "url": "https://open.spotify.com/track/37kgbLJ36zaNbkczhJTP7c"
+      "duration_ms": 249000,
+      "name": "The Perfect Way to Fall Apart",
+      "url": "https://open.spotify.com/track/6EbrUOAtVI88FYpKL2s0Zp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rain Just Follows Me",
+        "url": "https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        },
+        {
+          "name": "Anthony Raneri",
+          "url": "https://open.spotify.com/artist/2u1ZGZ0hhd48oZoiJ0MCoj"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "Spray Paint It Black",
+      "url": "https://open.spotify.com/track/06HjfFHz0JKJ1df22AOXvi"
     },
     {
       "added_at": null,
@@ -559,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Frequencies",
-        "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 185250,
-      "name": "Just Another Ghost",
-      "url": "https://open.spotify.com/track/7IKDhmw11hdjJf25Ogj3Yp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hate",
         "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
       },
@@ -591,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Frequencies",
+        "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 185250,
+      "name": "Just Another Ghost",
+      "url": "https://open.spotify.com/track/7IKDhmw11hdjJf25Ogj3Yp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Rain Just Follows Me",
         "url": "https://open.spotify.com/album/1VYeIvUFRmnObEAzPMZcMz"
       },
@@ -598,15 +602,11 @@
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        },
-        {
-          "name": "Anthony Raneri",
-          "url": "https://open.spotify.com/artist/2u1ZGZ0hhd48oZoiJ0MCoj"
         }
       ],
-      "duration_ms": 198066,
-      "name": "Spray Paint It Black",
-      "url": "https://open.spotify.com/track/06HjfFHz0JKJ1df22AOXvi"
+      "duration_ms": 245302,
+      "name": "Tired and Alone",
+      "url": "https://open.spotify.com/track/37kgbLJ36zaNbkczhJTP7c"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 173946,
-      "name": "Until Her Heart Stops",
-      "url": "https://open.spotify.com/track/3q0SifbZDLTCh3p78eXcac"
+      "duration_ms": 133440,
+      "name": "Control Alt Delete",
+      "url": "https://open.spotify.com/track/74a24lwWJ7buVc5su1gGUT"
     },
     {
       "added_at": null,
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 133440,
-      "name": "Control Alt Delete",
-      "url": "https://open.spotify.com/track/74a24lwWJ7buVc5su1gGUT"
+      "duration_ms": 173946,
+      "name": "Until Her Heart Stops",
+      "url": "https://open.spotify.com/track/3q0SifbZDLTCh3p78eXcac"
     },
     {
       "added_at": null,

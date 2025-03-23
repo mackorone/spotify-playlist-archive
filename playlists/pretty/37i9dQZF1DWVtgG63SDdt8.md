@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Seph Schlueter
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,486 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,528 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 25 | [The Lord is Good](https://open.spotify.com/track/7LOA9WKakwiiyvZTNWdIGi) | [Stillcreek](https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW), [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz), [Bryan Fowler](https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc) | [The Lord is Good](https://open.spotify.com/album/5qdKY82kwLFMT1blFyCsPF) | 5:27 |
 | 26 | [Joy](https://open.spotify.com/track/4mpxzS1jkHihOa0y5NcZm6) | [Oceans Music](https://open.spotify.com/artist/28wMpJq73XFWPxgz1UcR4G), [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC) | [Joy](https://open.spotify.com/album/1IylEmoRA3MTAXDbSL9xQN) | 5:54 |
 | 27 | [Rolled Away](https://open.spotify.com/track/3xw2yhV13p82PA6P1bw1JA) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Hollow](https://open.spotify.com/album/2Mo9j3A6jzSQHxUhZ5bXad) | 4:51 |
-| 28 | [OVERFLOW](https://open.spotify.com/track/57kCod6PrOdFd2GmeJdIoo) | [Lucas & Evelyn Cortazio](https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp) | [OVERFLOW](https://open.spotify.com/album/2NO88pFbECQJGeT21UOpkH) | 5:29 |
+| 28 | [OVERFLOW](https://open.spotify.com/track/57kCod6PrOdFd2GmeJdIoo) | [Lucas & Evelyn Cortazio](https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp), [Anchored Music](https://open.spotify.com/artist/3lLsj57IR0XS3y02hIDErB) | [OVERFLOW](https://open.spotify.com/album/2NO88pFbECQJGeT21UOpkH) | 5:29 |
 | 29 | [You've Done](https://open.spotify.com/track/53uuLBkjuxD56ZlYbODJ2y) | [James Wilson](https://open.spotify.com/artist/2OM1dMkwtReAQfUbBKskuk), [Glory MSC](https://open.spotify.com/artist/32khG4YnpYkgZ8u4J4pYKJ), [Jaaken Jackson](https://open.spotify.com/artist/60FPY9V3PfnqjCJKTwmqne) | [Forever](https://open.spotify.com/album/0pQLV8G4XY0FPUS9xNn4Jb) | 6:54 |
 | 30 | [Covenant](https://open.spotify.com/track/2dHsmrbMPq88m3fwVA5Hlk) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [VERSES, Vol\. 2](https://open.spotify.com/album/0JF6vL0sJeAERjLlwpdLY8) | 8:49 |
 | 31 | [My Lover & Father \- Live](https://open.spotify.com/track/1RySgUH9LuWJ4hTFh0o4gI) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [The Expression](https://open.spotify.com/album/5LNEzS1eSEiVAAWIkd4Rk1) | 12:53 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 64 | [Aloha Goodbye](https://open.spotify.com/track/1BWDndcC1Padly51LgTu8z) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Aloha Goodbye](https://open.spotify.com/album/31qmUHsGqAFGllGRFmbyv3) | 2:03 |
 | 65 | [Hindsight](https://open.spotify.com/track/0LMIo8xOv1832PxeSo46I8) | [Van Buren](https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl) | [Hindsight](https://open.spotify.com/album/73rpx3OLPGonVhzo6KRa1q) | 3:18 |
 | 66 | [I Just Want You](https://open.spotify.com/track/1EittqeWdfzsE6y2Zuajsd) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [I Just Want You](https://open.spotify.com/album/0mcmJWcj1cymjvcv1bdT8d) | 3:12 |
-| 67 | [Hallelujah](https://open.spotify.com/track/7jwDkuFY3aHdVo42eesrnI) | [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [Hallelujah](https://open.spotify.com/album/0igxQaN8iQNIwDvZBSKKRA) | 5:28 |
+| 67 | [hallelujah](https://open.spotify.com/track/7jwDkuFY3aHdVo42eesrnI) | [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [hallelujah](https://open.spotify.com/album/0igxQaN8iQNIwDvZBSKKRA) | 5:28 |
 | 68 | [If I ever lose my way](https://open.spotify.com/track/6dWU6lGzqsrnVHRcToUa36) | [Haynza](https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb) | [If I ever lose my way](https://open.spotify.com/album/4wEKrfWQ1GGlF3dakWmj0Y) | 2:57 |
 | 69 | [Kerosene](https://open.spotify.com/track/5IxZ834XDOpE24vY8hEYVu) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Kerosene](https://open.spotify.com/album/0jr1ykkFlGG3RPlzlIp0QP) | 3:23 |
 | 70 | [amazing grace](https://open.spotify.com/track/6VK0EV6bIgaGbKMYrSQixw) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [amazing grace](https://open.spotify.com/album/74H2Gnr7UjZCclLaP7Gjvl) | 2:50 |

@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-326 songs - 18 hr 52 min
+327 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Black Rabbit](https://open.spotify.com/track/7mUAtPz8GMelbiuVyPEgKP) | [Josephine Illingworth](https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ) | [Black Rabbit](https://open.spotify.com/album/5ZuHH6ov9hbThE3u2QVPhq) | 4:35 | 2025-03-21 |  |
 | [Blame The Moon](https://open.spotify.com/track/5Fg3lWZoVA0XOgLZpjNWW4) | [Alice Shone](https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ) | [Blame The Moon](https://open.spotify.com/album/4Efec8NPLJPMIDGZohypx2) | 2:43 | 2024-01-19 |  |
 | [Blood Moon](https://open.spotify.com/track/4CEHrmFFbvlf0CFAWm2W7Z) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Blood Moon](https://open.spotify.com/album/14ZX1sy4hoqCsiMSL2cd0T) | 2:36 | 2022-04-08 | 2022-07-02 |
-| [Bring The Witches Back](https://open.spotify.com/track/3sJHkSkno3qYZkXemkoNkW) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Bring The Witches Back](https://open.spotify.com/album/5J9P9buPntwTG6hgWShoYc) | 4:14 | 2024-07-19 |  |
+| [Bring The Witches Back](https://open.spotify.com/track/3sJHkSkno3qYZkXemkoNkW) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Bring The Witches Back](https://open.spotify.com/album/5J9P9buPntwTG6hgWShoYc) | 4:14 | 2024-07-19 | 2025-03-23 |
 | [Brother](https://open.spotify.com/track/0FvVaTrZMaXm7qsQQh8HXe) | [Fran Lusty](https://open.spotify.com/artist/6idlNQLvsjYJwQG4ojsmKK) | [Brother](https://open.spotify.com/album/58GJ648X070rfl1apkW3MT) | 3:47 | 2023-10-06 | 2024-06-08 |
 | [Brother](https://open.spotify.com/track/1lxDwx8DAex50hPiJKEtI7) | [Vraell](https://open.spotify.com/artist/1Be39C5Cm8pOzpDP5bDokO) | [Fall](https://open.spotify.com/album/1MZp8IYKsLWpkZtDJ488Dg) | 3:18 | 2022-04-08 | 2022-07-29 |
 | [Brother](https://open.spotify.com/track/5oC1CYQXwu4Q2qW4oIVSOF) | [Vraell](https://open.spotify.com/artist/1Be39C5Cm8pOzpDP5bDokO) | [Fall](https://open.spotify.com/album/4Tmkpf55SwXHqJd3Rbe09g) | 3:19 | 2022-07-01 | 2022-08-27 |
@@ -82,6 +82,7 @@
 | [Emily](https://open.spotify.com/track/11URTkaQsMiX3EM0X6G05s) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Big Town](https://open.spotify.com/album/1wd2T40dHkTMouyq9SddCd) | 3:54 | 2022-07-01 | 2022-11-18 |
 | [Emily](https://open.spotify.com/track/2BlOhlnL1ckQVDp61Oo4Ho) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Big Town](https://open.spotify.com/album/1TmAoz87UCoGVvrYtAkoJF) | 3:54 | 2022-04-08 | 2022-07-29 |
 | [Emily](https://open.spotify.com/track/3T7Iwy8nVLgYZWrVxPWq3h) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Big Town](https://open.spotify.com/album/1Tc9JzhgHsSVDduIkoHIgZ) | 3:54 | 2022-10-07 | 2023-01-14 |
+| [Emily and Me](https://open.spotify.com/track/67cpAwhrwj0MQoidTigHVX) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Emily and Me](https://open.spotify.com/album/4WOMRf6IGT91cVl2wybIoY) | 4:12 | 2025-03-21 |  |
 | [Everybody Lets You Down](https://open.spotify.com/track/3tliQO1g9DSsEHJziifqEO) | [Euan Blackman](https://open.spotify.com/artist/3OnnLtFCGyi9C8an2obEz1) | [Everybody Lets You Down](https://open.spotify.com/album/22691Ekpew0aRVYenq16dD) | 3:32 | 2023-02-24 | 2024-02-01 |
 | [Fallen Angel](https://open.spotify.com/track/6IUvnywluytD4Q0XLaneQ9) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [The Ghost of Our Past](https://open.spotify.com/album/5F2AUeavouVLCvaGEm7LaT) | 2:44 | 2024-07-19 |  |
 | [FAREWELL](https://open.spotify.com/track/4Z5GRrQTfxOTuInDn7S0MG) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [FAREWELL](https://open.spotify.com/album/4vYsxvbxfUsEtixAKOsjvT) | 3:06 | 2024-10-06 | 2024-12-01 |

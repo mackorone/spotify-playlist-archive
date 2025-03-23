@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "House Of David (Music Inspired By The Prime Video Original Series) [Season One]",
+        "url": "https://open.spotify.com/album/0xV5LfRixOiXlDYOvny1GI"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2025-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272600,
+      "name": "After Your Heart",
+      "url": "https://open.spotify.com/track/3Vi1GulKVjFEXzZYsX1nkB"
+    },
+    {
+      "album": {
         "name": "Holy Forever",
         "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
       },
@@ -440,7 +458,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 305920,
       "name": "God Of This City - Live",
       "url": "https://open.spotify.com/track/47qcfvLEpd0aq6doUZ5goj"

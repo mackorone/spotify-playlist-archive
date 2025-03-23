@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uMGH4nKYHF.md) - [plain]
 
 > A selection from every Tony\-winning musical since 1947.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,139 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,150 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

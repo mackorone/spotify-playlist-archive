@@ -1993,6 +1993,24 @@
     },
     {
       "album": {
+        "name": "Reloaded",
+        "url": "https://open.spotify.com/album/4fI2YNPTAp7tSMjAvptJQt"
+      },
+      "artists": [
+        {
+          "name": "Shenandoah",
+          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
+        }
+      ],
+      "date_added": "2025-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242200,
+      "name": "I Want To Be Loved Like That",
+      "url": "https://open.spotify.com/track/4OEL67Y63R90nw4r5AKsGy"
+    },
+    {
+      "album": {
         "name": "We Need To Talk",
         "url": "https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD"
       },
@@ -2258,7 +2276,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-23",
       "duration_ms": 232614,
       "name": "Just Like You",
       "url": "https://open.spotify.com/track/5KGYuXAJb2DK5YHL66eErj"

@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Yunk Vino",
-  "num_followers": 145975,
+  "num_followers": 145976,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,30 @@
     {
       "added_at": "2025-03-17 16:03:54",
       "album": {
+        "name": "MOTIVO",
+        "url": "https://open.spotify.com/album/5FV4dy58QXaDjngYtT6VaB"
+      },
+      "artists": [
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+        },
+        {
+          "name": "Tevito",
+          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
+        },
+        {
+          "name": "TheJovemJota",
+          "url": "https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV"
+        }
+      ],
+      "duration_ms": 166015,
+      "name": "MOTIVO",
+      "url": "https://open.spotify.com/track/1qKALAI1oDHKjSEz95KO4w"
+    },
+    {
+      "added_at": "2025-03-17 16:03:54",
+      "album": {
         "name": "M.A.D 2",
         "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
       },
@@ -635,30 +659,6 @@
       "duration_ms": 202451,
       "name": "Sem Compaix\u00e3o",
       "url": "https://open.spotify.com/track/7KDDrAqNSOdEUeNvAOEExR"
-    },
-    {
-      "added_at": "2025-03-17 16:03:54",
-      "album": {
-        "name": "MOTIVO",
-        "url": "https://open.spotify.com/album/5FV4dy58QXaDjngYtT6VaB"
-      },
-      "artists": [
-        {
-          "name": "M'DEP",
-          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
-        },
-        {
-          "name": "Tevito",
-          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
-        },
-        {
-          "name": "TheJovemJota",
-          "url": "https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV"
-        }
-      ],
-      "duration_ms": 166015,
-      "name": "MOTIVO",
-      "url": "https://open.spotify.com/track/1qKALAI1oDHKjSEz95KO4w"
     },
     {
       "added_at": "2025-03-17 16:03:54",

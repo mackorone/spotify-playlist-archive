@@ -1,6 +1,6 @@
 {
   "description": "Enjoy these songs while you eat.",
-  "num_followers": 9233,
+  "num_followers": 9244,
   "original_name": "Iftar",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Saydam",
-        "url": "https://open.spotify.com/album/2fo615qwWePPkkQGL8hkXw"
-      },
-      "artists": [
-        {
-          "name": "Yans\u0131malar",
-          "url": "https://open.spotify.com/artist/4jsnmssl9zb8t0liXybjYD"
-        }
-      ],
-      "duration_ms": 203313,
-      "name": "Sonbahar",
-      "url": "https://open.spotify.com/track/26LzofU0siNaEZIGo7uuhC"
-    },
-    {
-      "added_at": "2025-01-28 09:40:02",
-      "album": {
         "name": "Hayal Gibi 3",
         "url": "https://open.spotify.com/album/0N9O2fdwDjBVMjV8CZmlYt"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 253794,
       "name": "Kar Tanem",
       "url": "https://open.spotify.com/track/5awRdbcc4r0IipADKWntfp"
+    },
+    {
+      "added_at": "2025-01-28 09:40:02",
+      "album": {
+        "name": "Saydam",
+        "url": "https://open.spotify.com/album/2fo615qwWePPkkQGL8hkXw"
+      },
+      "artists": [
+        {
+          "name": "Yans\u0131malar",
+          "url": "https://open.spotify.com/artist/4jsnmssl9zb8t0liXybjYD"
+        }
+      ],
+      "duration_ms": 203313,
+      "name": "Sonbahar",
+      "url": "https://open.spotify.com/track/26LzofU0siNaEZIGo7uuhC"
     },
     {
       "added_at": "2025-01-28 09:40:02",
@@ -147,22 +147,6 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Pervane",
-        "url": "https://open.spotify.com/album/4TYxBvC1kIzNt96Aj9nZQF"
-      },
-      "artists": [
-        {
-          "name": "Yans\u0131malar",
-          "url": "https://open.spotify.com/artist/4jsnmssl9zb8t0liXybjYD"
-        }
-      ],
-      "duration_ms": 311842,
-      "name": "B\u00eayhude",
-      "url": "https://open.spotify.com/track/7L6tBeNGziFlFTRrMUs6ZR"
-    },
-    {
-      "added_at": "2025-01-28 09:40:02",
-      "album": {
         "name": "Osmanl\u0131 Saray\u0131 Musikisi",
         "url": "https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 191238,
       "name": "Fikrimin \u0130nce G\u00fcl\u00fc",
       "url": "https://open.spotify.com/track/22BI3CICtIL7SuVEvx3Jqo"
+    },
+    {
+      "added_at": "2025-01-28 09:40:02",
+      "album": {
+        "name": "Pervane",
+        "url": "https://open.spotify.com/album/4TYxBvC1kIzNt96Aj9nZQF"
+      },
+      "artists": [
+        {
+          "name": "Yans\u0131malar",
+          "url": "https://open.spotify.com/artist/4jsnmssl9zb8t0liXybjYD"
+        }
+      ],
+      "duration_ms": 311842,
+      "name": "B\u00eayhude",
+      "url": "https://open.spotify.com/track/7L6tBeNGziFlFTRrMUs6ZR"
     },
     {
       "added_at": "2025-01-28 09:40:02",
@@ -319,34 +319,18 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Tanburi Cemil Bey - Pe\u015frev ve Saz Semaileri",
-        "url": "https://open.spotify.com/album/1wRMA2enfYLR4kPhAyRQWP"
+        "name": "Sevda Yolunda",
+        "url": "https://open.spotify.com/album/13lB4t3zb83qlAPIA9qxDf"
       },
       "artists": [
         {
-          "name": "Ihsan \u00d6zgen",
-          "url": "https://open.spotify.com/artist/41JqJkjqMDOAwE6YwTmgIM"
+          "name": "M\u00fcnip Utand\u0131",
+          "url": "https://open.spotify.com/artist/3RGtIiEh0836q5AXjPAuzR"
         }
       ],
-      "duration_ms": 110248,
-      "name": "Tanburi Taksimi",
-      "url": "https://open.spotify.com/track/5Q1RDEu5zzGbcMrpfnOcc4"
-    },
-    {
-      "added_at": "2025-01-28 09:40:02",
-      "album": {
-        "name": "Osmanl\u0131 Saray\u0131 Musikisi",
-        "url": "https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9"
-      },
-      "artists": [
-        {
-          "name": "Kemal Bor",
-          "url": "https://open.spotify.com/artist/3A9o4jwx2R0vYlugv6eAeg"
-        }
-      ],
-      "duration_ms": 299721,
-      "name": "Acemi\u015firan Saz Semaisi",
-      "url": "https://open.spotify.com/track/50f3GD1oGC4FdrlRsT9lta"
+      "duration_ms": 99120,
+      "name": "H\u00fcseyni Pe\u015frev",
+      "url": "https://open.spotify.com/track/3w1vzEi5ubLr54RbfhMMDI"
     },
     {
       "added_at": "2025-01-28 09:40:02",
@@ -371,18 +355,34 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Sevda Yolunda",
-        "url": "https://open.spotify.com/album/13lB4t3zb83qlAPIA9qxDf"
+        "name": "Osmanl\u0131 Saray\u0131 Musikisi",
+        "url": "https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9"
       },
       "artists": [
         {
-          "name": "M\u00fcnip Utand\u0131",
-          "url": "https://open.spotify.com/artist/3RGtIiEh0836q5AXjPAuzR"
+          "name": "Kemal Bor",
+          "url": "https://open.spotify.com/artist/3A9o4jwx2R0vYlugv6eAeg"
         }
       ],
-      "duration_ms": 99120,
-      "name": "H\u00fcseyni Pe\u015frev",
-      "url": "https://open.spotify.com/track/3w1vzEi5ubLr54RbfhMMDI"
+      "duration_ms": 299721,
+      "name": "Acemi\u015firan Saz Semaisi",
+      "url": "https://open.spotify.com/track/50f3GD1oGC4FdrlRsT9lta"
+    },
+    {
+      "added_at": "2025-01-28 09:40:02",
+      "album": {
+        "name": "Tanburi Cemil Bey - Pe\u015frev ve Saz Semaileri",
+        "url": "https://open.spotify.com/album/1wRMA2enfYLR4kPhAyRQWP"
+      },
+      "artists": [
+        {
+          "name": "Ihsan \u00d6zgen",
+          "url": "https://open.spotify.com/artist/41JqJkjqMDOAwE6YwTmgIM"
+        }
+      ],
+      "duration_ms": 110248,
+      "name": "Tanburi Taksimi",
+      "url": "https://open.spotify.com/track/5Q1RDEu5zzGbcMrpfnOcc4"
     },
     {
       "added_at": "2025-01-28 09:40:02",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Klasik Osmanl\u0131 M\u00fczi\u011fi",
-        "url": "https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy"
-      },
-      "artists": [
-        {
-          "name": "Emirgan Ensemble",
-          "url": "https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb"
-        }
-      ],
-      "duration_ms": 176425,
-      "name": "Tanbur Taksimi",
-      "url": "https://open.spotify.com/track/65hJb6nxK7LOa6FxzxVLT0"
-    },
-    {
-      "added_at": "2025-01-28 09:40:02",
-      "album": {
         "name": "Osmanl\u0131 Saray\u0131 Musikisi",
         "url": "https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9"
       },
@@ -495,18 +479,18 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Tanburi Cemil Bey - Pe\u015frev ve Saz Semaileri",
-        "url": "https://open.spotify.com/album/1wRMA2enfYLR4kPhAyRQWP"
+        "name": "Klasik Osmanl\u0131 M\u00fczi\u011fi",
+        "url": "https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy"
       },
       "artists": [
         {
-          "name": "Ihsan \u00d6zgen",
-          "url": "https://open.spotify.com/artist/41JqJkjqMDOAwE6YwTmgIM"
+          "name": "Emirgan Ensemble",
+          "url": "https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb"
         }
       ],
-      "duration_ms": 249754,
-      "name": "Suzidilara Saz Semaisi",
-      "url": "https://open.spotify.com/track/01GOqOsRD21di19O0uvTd3"
+      "duration_ms": 176425,
+      "name": "Tanbur Taksimi",
+      "url": "https://open.spotify.com/track/65hJb6nxK7LOa6FxzxVLT0"
     },
     {
       "added_at": "2025-01-28 09:40:02",
@@ -527,18 +511,18 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Works Of Kemani Tatyos Efendi -- Kudsi Erguner Ensemble",
-        "url": "https://open.spotify.com/album/3pPQGts1DHyuVF1CoeMXp4"
+        "name": "Tanburi Cemil Bey - Pe\u015frev ve Saz Semaileri",
+        "url": "https://open.spotify.com/album/1wRMA2enfYLR4kPhAyRQWP"
       },
       "artists": [
         {
-          "name": "Kemani Tatyos Efendi",
-          "url": "https://open.spotify.com/artist/5zC5D5MnFku3ZxgVKFLTsA"
+          "name": "Ihsan \u00d6zgen",
+          "url": "https://open.spotify.com/artist/41JqJkjqMDOAwE6YwTmgIM"
         }
       ],
-      "duration_ms": 278093,
-      "name": "Huseyni Saz Semai",
-      "url": "https://open.spotify.com/track/4bxsHSVu34gupDh8FURPUI"
+      "duration_ms": 249754,
+      "name": "Suzidilara Saz Semaisi",
+      "url": "https://open.spotify.com/track/01GOqOsRD21di19O0uvTd3"
     },
     {
       "added_at": "2025-01-28 09:40:02",
@@ -555,6 +539,22 @@
       "duration_ms": 240326,
       "name": "Co\u015fku (Rast Saz Eseri)",
       "url": "https://open.spotify.com/track/5XAaaO2urMdS43jypIA7ac"
+    },
+    {
+      "added_at": "2025-01-28 09:40:02",
+      "album": {
+        "name": "Works Of Kemani Tatyos Efendi -- Kudsi Erguner Ensemble",
+        "url": "https://open.spotify.com/album/3pPQGts1DHyuVF1CoeMXp4"
+      },
+      "artists": [
+        {
+          "name": "Kemani Tatyos Efendi",
+          "url": "https://open.spotify.com/artist/5zC5D5MnFku3ZxgVKFLTsA"
+        }
+      ],
+      "duration_ms": 278093,
+      "name": "Huseyni Saz Semai",
+      "url": "https://open.spotify.com/track/4bxsHSVu34gupDh8FURPUI"
     },
     {
       "added_at": "2025-01-28 09:40:02",
@@ -583,18 +583,18 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Klasik Osmanl\u0131 M\u00fczi\u011fi",
-        "url": "https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy"
+        "name": "Osmanl\u0131 Saray\u0131 Musikisi",
+        "url": "https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9"
       },
       "artists": [
         {
-          "name": "Emirgan Ensemble",
-          "url": "https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb"
+          "name": "Kemal Bor",
+          "url": "https://open.spotify.com/artist/3A9o4jwx2R0vYlugv6eAeg"
         }
       ],
-      "duration_ms": 213577,
-      "name": "Hicaz Pe\u015frev",
-      "url": "https://open.spotify.com/track/1N8Pw69RyrGh8kw6X0kTBE"
+      "duration_ms": 91322,
+      "name": "Sultaniyegah Taksim",
+      "url": "https://open.spotify.com/track/5J2bmapoi3PiXvnL2zz4yH"
     },
     {
       "added_at": "2025-01-28 09:40:02",
@@ -639,34 +639,34 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Duygu Pinari",
-        "url": "https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID"
+        "name": "Makamlarla T\u00fcrk Din M\u00fbs\u00eekisi E\u011fitim Seti, Vol. 2 / U\u015f\u015fak Hicaz",
+        "url": "https://open.spotify.com/album/4CKCjlCm0tcc0NaHbPrsNu"
       },
       "artists": [
         {
-          "name": "P\u0131nar K\u00f6ksal",
-          "url": "https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ"
+          "name": "Ubeydullah Sezikli",
+          "url": "https://open.spotify.com/artist/1xiy8XwCNzhZt5hoBKpD9N"
         }
       ],
-      "duration_ms": 277199,
-      "name": "Esinti (K\u00fcrdi Saz Eseri)",
-      "url": "https://open.spotify.com/track/7AzYy0fhkJKkiGE5IUU2hH"
+      "duration_ms": 107720,
+      "name": "U\u015f\u015fak Pe\u015frev",
+      "url": "https://open.spotify.com/track/4d5z3kFaO5eqko6jPKtp1h"
     },
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Osmanl\u0131 Saray\u0131 Musikisi",
-        "url": "https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9"
+        "name": "Klasik Osmanl\u0131 M\u00fczi\u011fi",
+        "url": "https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy"
       },
       "artists": [
         {
-          "name": "Kemal Bor",
-          "url": "https://open.spotify.com/artist/3A9o4jwx2R0vYlugv6eAeg"
+          "name": "Emirgan Ensemble",
+          "url": "https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb"
         }
       ],
-      "duration_ms": 91322,
-      "name": "Sultaniyegah Taksim",
-      "url": "https://open.spotify.com/track/5J2bmapoi3PiXvnL2zz4yH"
+      "duration_ms": 213577,
+      "name": "Hicaz Pe\u015frev",
+      "url": "https://open.spotify.com/track/1N8Pw69RyrGh8kw6X0kTBE"
     },
     {
       "added_at": "2025-01-28 09:40:02",
@@ -687,18 +687,18 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Makamlarla T\u00fcrk Din M\u00fbs\u00eekisi E\u011fitim Seti, Vol. 2 / U\u015f\u015fak Hicaz",
-        "url": "https://open.spotify.com/album/4CKCjlCm0tcc0NaHbPrsNu"
+        "name": "Duygu Pinari",
+        "url": "https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID"
       },
       "artists": [
         {
-          "name": "Ubeydullah Sezikli",
-          "url": "https://open.spotify.com/artist/1xiy8XwCNzhZt5hoBKpD9N"
+          "name": "P\u0131nar K\u00f6ksal",
+          "url": "https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ"
         }
       ],
-      "duration_ms": 107720,
-      "name": "U\u015f\u015fak Pe\u015frev",
-      "url": "https://open.spotify.com/track/4d5z3kFaO5eqko6jPKtp1h"
+      "duration_ms": 277199,
+      "name": "Esinti (K\u00fcrdi Saz Eseri)",
+      "url": "https://open.spotify.com/track/7AzYy0fhkJKkiGE5IUU2hH"
     },
     {
       "added_at": "2025-01-28 09:40:02",
@@ -775,18 +775,18 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Klasik Osmanl\u0131 M\u00fczi\u011fi",
-        "url": "https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy"
+        "name": "Osmanl\u0131 Saray\u0131 Musikisi",
+        "url": "https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9"
       },
       "artists": [
         {
-          "name": "Emirgan Ensemble",
-          "url": "https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb"
+          "name": "Kemal Bor",
+          "url": "https://open.spotify.com/artist/3A9o4jwx2R0vYlugv6eAeg"
         }
       ],
-      "duration_ms": 200110,
-      "name": "Nikriz Sirto",
-      "url": "https://open.spotify.com/track/12FUbeXrIS60ZTYpwO29yf"
+      "duration_ms": 211346,
+      "name": "Sultaniyegah Saz Semas\u0131",
+      "url": "https://open.spotify.com/track/2UI4Zjg6Ws1ZR8cS9OMibu"
     },
     {
       "added_at": "2025-01-28 09:40:02",
@@ -823,18 +823,18 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Osmanl\u0131 Saray\u0131 Musikisi",
-        "url": "https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9"
+        "name": "Klasik Osmanl\u0131 M\u00fczi\u011fi",
+        "url": "https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy"
       },
       "artists": [
         {
-          "name": "Kemal Bor",
-          "url": "https://open.spotify.com/artist/3A9o4jwx2R0vYlugv6eAeg"
+          "name": "Emirgan Ensemble",
+          "url": "https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb"
         }
       ],
-      "duration_ms": 211346,
-      "name": "Sultaniyegah Saz Semas\u0131",
-      "url": "https://open.spotify.com/track/2UI4Zjg6Ws1ZR8cS9OMibu"
+      "duration_ms": 200110,
+      "name": "Nikriz Sirto",
+      "url": "https://open.spotify.com/track/12FUbeXrIS60ZTYpwO29yf"
     },
     {
       "added_at": "2025-01-28 09:40:02",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Klasik Osmanl\u0131 M\u00fczi\u011fi",
-        "url": "https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy"
-      },
-      "artists": [
-        {
-          "name": "Emirgan Ensemble",
-          "url": "https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb"
-        }
-      ],
-      "duration_ms": 334414,
-      "name": "Sazkar Pe\u015frev",
-      "url": "https://open.spotify.com/track/2fWkFDijycAeSC1iQmZLJn"
-    },
-    {
-      "added_at": "2025-01-28 09:40:02",
-      "album": {
         "name": "Ahmet \u00d6zhan",
         "url": "https://open.spotify.com/album/5Nf1taWXqdReHYkdzZo2MX"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 84241,
       "name": "H\u00fczzam Saz Semai",
       "url": "https://open.spotify.com/track/2g0dHAFlelutOOWJKnW5am"
+    },
+    {
+      "added_at": "2025-01-28 09:40:02",
+      "album": {
+        "name": "One Truth",
+        "url": "https://open.spotify.com/album/0MdJHpvioyqmW6j7MzyJma"
+      },
+      "artists": [
+        {
+          "name": "Omar Faruk Tekbilek",
+          "url": "https://open.spotify.com/artist/0PLhi5tAE8QcXnuEMui2Oe"
+        }
+      ],
+      "duration_ms": 492666,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/31XYFVQ7dDOI27uph3YoCC"
     }
   ],
   "unique_name": "Iftar",

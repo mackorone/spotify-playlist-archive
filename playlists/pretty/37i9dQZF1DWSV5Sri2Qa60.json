@@ -1,12 +1,12 @@
 {
   "description": "Where your new favourite bands are discovered. Cover: florence road",
-  "num_followers": 85412,
+  "num_followers": 85413,
   "original_name": "Hot New Bands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9tLJwAAAABm0NGC9QDQyI1bYo3USUxe",
+  "snapshot_id": "Z96r3gAAAAAp8CLRT3t1rp9wAcTop8zU",
   "tracks": [
     {
       "added_at": "2025-03-17 20:22:21",
@@ -23,6 +23,22 @@
       "duration_ms": 200053,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU"
+    },
+    {
+      "added_at": "2025-03-22 12:23:58",
+      "album": {
+        "name": "I Lied, Amber",
+        "url": "https://open.spotify.com/album/26D33v9Xg1x2UrNQL9gi8p"
+      },
+      "artists": [
+        {
+          "name": "Keo",
+          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
+        }
+      ],
+      "duration_ms": 211626,
+      "name": "I Lied, Amber",
+      "url": "https://open.spotify.com/track/3aJShMWzA2RAM7knX50XmG"
     },
     {
       "added_at": "2025-03-17 20:22:21",

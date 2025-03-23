@@ -155,6 +155,28 @@
     },
     {
       "album": {
+        "name": "Almost Home",
+        "url": "https://open.spotify.com/album/0oSRAV11bGT9ymZKpcwUK0"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2025-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221135,
+      "name": "Before You Leave (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/7hxMp3wuYWiNzC8ZKn7ztX"
+    },
+    {
+      "album": {
         "name": "Lainey Wilson - EP",
         "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
       },

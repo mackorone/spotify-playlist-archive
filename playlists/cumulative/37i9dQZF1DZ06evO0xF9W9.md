@@ -4,7 +4,7 @@
 
 > This is Engel Montaz\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 26 min
+66 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [A 120 \- Version Discoteca](https://open.spotify.com/track/5LoW6EWegjAE0jBdybEWnS) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [A 120 \(Version Discoteca\)](https://open.spotify.com/album/2d2CgHfIxI3JyqbirVtvJk) | 2:24 | 2024-08-07 | 2024-09-12 |
 | [A Tu Manera](https://open.spotify.com/track/2KtX550M6HtfV2cSmRAu3e) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [A Tu Manera](https://open.spotify.com/album/15tnSlxtE1Tua2HIgmJHhG) | 4:44 | 2024-10-11 |  |
 | [A tu Manera](https://open.spotify.com/track/6iqtqSo3IEntSedHHW6YPU) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [A Tu Manera](https://open.spotify.com/album/2g90mR4EDdUz0I5duVmPzn) | 4:44 | 2024-06-19 | 2024-10-11 |
-| [Actua](https://open.spotify.com/track/5Cj9ntxxzkR1ci1qcPe7Tw) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Actua](https://open.spotify.com/album/4yroQYEsNxeBwERQ1KRqPt) | 3:58 | 2024-10-11 |  |
+| [Actua](https://open.spotify.com/track/2fzkeMoZGcbomhMAfovg21) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Actua](https://open.spotify.com/album/59Ii7JcTRINr6G3iVsmo3b) | 3:58 | 2025-03-23 |  |
+| [Actua](https://open.spotify.com/track/5Cj9ntxxzkR1ci1qcPe7Tw) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Actua](https://open.spotify.com/album/4yroQYEsNxeBwERQ1KRqPt) | 3:58 | 2024-10-11 | 2025-03-23 |
 | [Actua](https://open.spotify.com/track/6RB3w1l1d6hwlei3iAPNLP) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Actua](https://open.spotify.com/album/6aBw7e2Wli9d6PlJCRfCxn) | 3:58 | 2024-06-19 | 2024-10-11 |
 | [Billetes Verdes](https://open.spotify.com/track/5LJjbobrSykC4uyIdF0vW9) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Lui3o5](https://open.spotify.com/artist/08TS0cq1oBlIIFVSsJhoe4) | [Billetes Verdes \(feat\. Lui3o5\)](https://open.spotify.com/album/0FhGkeR10pErYL1PqlJJsZ) | 3:14 | 2024-12-18 |  |
 | [Billetes Verdes \- Live](https://open.spotify.com/track/0I3qFXRGdW0IIOs0TbCKpa) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Billetes Verdes \(Live\)](https://open.spotify.com/album/3PdWGUEbVUk8o0lE6di1wx) | 1:59 | 2024-06-19 | 2024-12-18 |

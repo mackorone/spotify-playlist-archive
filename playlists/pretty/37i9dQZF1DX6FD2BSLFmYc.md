@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,239 likes - 120 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,254 likes - 120 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 | 111 | [Gayatri](https://open.spotify.com/track/0Q6uoofWXSJnmLxfDQO0Vr) | [Choying Drolma](https://open.spotify.com/artist/7hMvH85hAiQvzzdCo1QR97), [Steve Tibbetts](https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y) | [Selwa \(2018 Remastered Version\)](https://open.spotify.com/album/3fKlOFbvoGjr1QkHtBhHM3) | 4:10 |
 | 112 | [A New Life Awaits](https://open.spotify.com/track/1gFkZFfUqtcImJLh932LUc) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [A New Life Awaits](https://open.spotify.com/album/1U7piTwkxpvtNew3eVRWyr) | 3:17 |
 | 113 | [Inharmonic](https://open.spotify.com/track/4dBF8Rb7rTZP08ndwnNZ4p) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Yoga Gong Karma](https://open.spotify.com/album/1T9xagnSXjguJIoXiidlly) | 3:21 |
-| 114 | [Zen \(Musica Budista\)](https://open.spotify.com/track/6DRQo3t9CBhSNGKvu9IzaP) | [Musica Relajante](https://open.spotify.com/artist/5tLcSmEpxduAsr5nLUeJ7D) | [Descansa \- Musica Relajante Zen para Pensamiento Positivo, Terapias de Relajacion y Ejercicios de Meditacion](https://open.spotify.com/album/61D1YBg7GpZlh55YZatn6h) | 3:39 |
+| 114 | [Zen \(Musica Budista\)](https://open.spotify.com/track/6DRQo3t9CBhSNGKvu9IzaP) | [Bienestar Maestro](https://open.spotify.com/artist/2pp4j4k32hlr7mfAFKDWFu) | [Descansa \- Musica Relajante Zen para Pensamiento Positivo](https://open.spotify.com/album/61D1YBg7GpZlh55YZatn6h) | 3:39 |
 | 115 | [Satipatthana](https://open.spotify.com/track/3tEE3niJ4lrKYT4bWJr3Bo) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [Zen Gaya](https://open.spotify.com/album/54yk5I0Xqd2gL3B4h8Nff4) | 3:04 |
 | 116 | [Threads](https://open.spotify.com/track/30VnmNoXmeNMlDR6MxLP5U) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/2CiGQi3XgsbETzwSFzn2yk) | 3:12 |
 | 117 | [Circle 37](https://open.spotify.com/track/2iTObOUJM22lmxonH1jOiO) | [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Circle 37](https://open.spotify.com/album/5XKDsIv1XdMf1VLM2DtYU2) | 3:19 |

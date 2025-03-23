@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:5M4V7RDb1KJHbuHLn1XEh0">Stunna Sandy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,979 likes - 100 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,042 likes - 100 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 68 | [Feelin Like](https://open.spotify.com/track/7npOddrwoDbKb1vW3ROJ8v) | [Jaistaxx](https://open.spotify.com/artist/6csb6bXktgF7luLBIeyZVD) | [Feelin Like](https://open.spotify.com/album/1WHKIKmi8yMut92kv95S3y) | 1:22 |
 | 69 | [Happy New Year](https://open.spotify.com/track/2C9WzP04bjlFLH4avRt19V) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Happy New Year](https://open.spotify.com/album/7zUcDimGsVU8YH4MzkmQSe) | 3:57 |
 | 70 | [Sumbodie](https://open.spotify.com/track/4J0t3Cbz7D3uEkSVlqqe3Q) | [Grey Gotti](https://open.spotify.com/artist/66bg2cITpGPlQctWouXVf4) | [Sumbodie](https://open.spotify.com/album/2yzjgXw8tlKfot5jpTFwnr) | 3:18 |
-| 71 | [Not The One](https://open.spotify.com/track/19klnHuCJeI8cFAdofKIlk) | [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q) | [Not The One](https://open.spotify.com/album/7ky33adA4nCmKbr1dmx66h) | 2:32 |
+| 71 | [NOT THE ONE](https://open.spotify.com/track/19klnHuCJeI8cFAdofKIlk) | [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q) | [NOT THE ONE](https://open.spotify.com/album/7ky33adA4nCmKbr1dmx66h) | 2:32 |
 | 72 | [Bag On Me](https://open.spotify.com/track/4bd0t1JQm2vYGJ5pIT76Bi) | [Cartier](https://open.spotify.com/artist/43Nu4ChA6nE5ENwu8f7Jzf), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [Bag On Me](https://open.spotify.com/album/0vnKhucD9aWTxUeR1kjit2) | 2:46 |
 | 73 | [Draymond Green](https://open.spotify.com/track/62cW2UIA6FE6ZJpjALlcAz) | [C Stunna](https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF) | [Still Stuntin](https://open.spotify.com/album/52QL2dmfC7a39FpAtZBE6u) | 2:10 |
 | 74 | [BIG CANADA](https://open.spotify.com/track/358gwWXVDMGLl3cC0Sk5JD) | [TGETruth](https://open.spotify.com/artist/2ATYFiRwDoNzfpJb9uCaBh) | [HOUS\-REAL \(Who's Real?\)](https://open.spotify.com/album/2yzDxSLwpma60RgVVxSx0D) | 2:23 |
