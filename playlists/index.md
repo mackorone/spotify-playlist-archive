@@ -1,4 +1,4 @@
-## Playlists \(8450\)
+## Playlists \(8451\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -8130,6 +8130,7 @@
 - [shockwave](/playlists/pretty/37i9dQZF1DWYlpoS0u7ZOs.md)
 - [shōnen](/playlists/pretty/37i9dQZF1DX89EkrAT8Z6U.md)
 - [side effects](/playlists/pretty/37i9dQZF1DXbBvGj4yKFAG.md)
+- [sididudieisisisisisi](/playlists/pretty/3uCoOqZ4KF0kp8bf8nJhPN.md)
 - [situationship](/playlists/pretty/37i9dQZF1DX6Pu7l5vEGMM.md)
 - [skincare](/playlists/pretty/37i9dQZF1DX7fwT5VsaHzA.md)
 - [sleep for a quiet night](/playlists/pretty/0dxnlXUttzpueYSwe74J2c.md)
