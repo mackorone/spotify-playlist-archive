@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind: Adam Beyer takeover! Get your tickets for Drumcode at DRUMSHEDS <a href=https://drumshedslondon.com/event/drumcode\-london\-2025//>here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,488 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,539 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

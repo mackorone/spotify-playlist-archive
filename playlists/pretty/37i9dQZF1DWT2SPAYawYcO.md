@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Feat: FISHER, Morgan Wallen, Old Mervs, Selena Gomez & benny blanco, The Rions + more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,036 likes - 91 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,060 likes - 91 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 90 | [heart of gold](https://open.spotify.com/track/0jwxB5BvXwXxhSMcqbdqdI) | [DIVEBAR YOUTH](https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT) | [heart of gold](https://open.spotify.com/album/1ILkDgA6MN1v2todCThUzm) | 3:11 |
 | 91 | [Ardmona Rd](https://open.spotify.com/track/6Zvi0o4EC2kdrdISMsS0ae) | [Tom Nethersole](https://open.spotify.com/artist/56rPodQd6QLxF9ckc6TQVA) | [Ardmona Rd](https://open.spotify.com/album/6IYD4pxtHUCWlsSn0RNGAF) | 2:29 |
 
-Snapshot ID: `Z9wRYAAAAAADiLgPIHIFHOts43gsRL4A`
+Snapshot ID: `Z+CdvgAAAAAiLw4ktnw0CQ0DAkuoPT93`

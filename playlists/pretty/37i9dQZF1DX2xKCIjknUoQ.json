@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
-  "num_followers": 49964,
+  "num_followers": 49988,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "Ginger",
-        "url": "https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp"
-      },
-      "artists": [
-        {
-          "name": "Ga\u00ebtan Roussel",
-          "url": "https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf"
-        }
-      ],
-      "duration_ms": 188173,
-      "name": "Dis-moi encore que tu m'aimes",
-      "url": "https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
         "name": "La cerise",
         "url": "https://open.spotify.com/album/5sN0weTtwIRLDQmbvXG6XC"
       },
@@ -219,18 +203,18 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "Never Trust A Guy Who After Having Been A Punk Is Now Playing Electro",
-        "url": "https://open.spotify.com/album/3sJnvkL4jX1c9y3m9jtQXH"
+        "name": "Ginger",
+        "url": "https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp"
       },
       "artists": [
         {
-          "name": "Les Wampas",
-          "url": "https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE"
+          "name": "Ga\u00ebtan Roussel",
+          "url": "https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf"
         }
       ],
-      "duration_ms": 167306,
-      "name": "Manu Chao - Single Version",
-      "url": "https://open.spotify.com/track/3iP2zPzKv47zEB6FsQ5gKW"
+      "duration_ms": 188173,
+      "name": "Dis-moi encore que tu m'aimes",
+      "url": "https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -263,6 +247,22 @@
       "duration_ms": 180666,
       "name": "Je cours",
       "url": "https://open.spotify.com/track/15RN1rfzBWaAv6B9RBWLGu"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
+        "name": "Never Trust A Guy Who After Having Been A Punk Is Now Playing Electro",
+        "url": "https://open.spotify.com/album/3sJnvkL4jX1c9y3m9jtQXH"
+      },
+      "artists": [
+        {
+          "name": "Les Wampas",
+          "url": "https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE"
+        }
+      ],
+      "duration_ms": 167306,
+      "name": "Manu Chao - Single Version",
+      "url": "https://open.spotify.com/track/3iP2zPzKv47zEB6FsQ5gKW"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "Rock'n'Roll Part 9",
-        "url": "https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK"
-      },
-      "artists": [
-        {
-          "name": "Les Wampas",
-          "url": "https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE"
-        }
-      ],
-      "duration_ms": 163760,
-      "name": "Rimini",
-      "url": "https://open.spotify.com/track/5xo1GjsebrOd1iUVoJ6SEK"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
         "name": "666.667 Club",
         "url": "https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 232773,
       "name": "Le retour \u00e0 la terre",
       "url": "https://open.spotify.com/track/715zIQcEj658KTFby8MJYp"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
+        "name": "Rock'n'Roll Part 9",
+        "url": "https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK"
+      },
+      "artists": [
+        {
+          "name": "Les Wampas",
+          "url": "https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE"
+        }
+      ],
+      "duration_ms": 163760,
+      "name": "Rimini",
+      "url": "https://open.spotify.com/track/5xo1GjsebrOd1iUVoJ6SEK"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
+        "name": "Jouer dehors",
+        "url": "https://open.spotify.com/album/5PO1wuSFiCYQZunByOqJfs"
+      },
+      "artists": [
+        {
+          "name": "Mademoiselle K",
+          "url": "https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "Jouer dehors",
+      "url": "https://open.spotify.com/track/3TVoY7A5OWdJvefHDEsfRf"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
         "name": "La t\u00eate en arri\u00e8re",
         "url": "https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 231066,
       "name": "Let Me Alone",
       "url": "https://open.spotify.com/track/5R8TGuZ8WSbH2ASGlLDpKg"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
-        "name": "Jouer dehors",
-        "url": "https://open.spotify.com/album/5PO1wuSFiCYQZunByOqJfs"
-      },
-      "artists": [
-        {
-          "name": "Mademoiselle K",
-          "url": "https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "Jouer dehors",
-      "url": "https://open.spotify.com/track/3TVoY7A5OWdJvefHDEsfRf"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -799,18 +799,38 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "Trafalgar",
-        "url": "https://open.spotify.com/album/2WjJE58CMkwX9OCdNW9S6T"
+        "name": "De jour comme de nuit",
+        "url": "https://open.spotify.com/album/2Qstn4PgalHk3b9w6YFJI0"
       },
       "artists": [
         {
-          "name": "Archim\u00e8de",
-          "url": "https://open.spotify.com/artist/3DVs1DqfMYft7Nl1tcX7rP"
+          "name": "Astonvilla",
+          "url": "https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7"
+        },
+        {
+          "name": "Jean Baptiste Mory",
+          "url": "https://open.spotify.com/artist/1U8rYQJV2ZRLToXUNElojh"
+        },
+        {
+          "name": "Greg Baudrier",
+          "url": "https://open.spotify.com/artist/7GuuhlWi6XzX44SqqS9hHR"
+        },
+        {
+          "name": "Emmanuel Baroux",
+          "url": "https://open.spotify.com/artist/4GLhnY37gfDwczctnvppiB"
+        },
+        {
+          "name": "Franck Pilant",
+          "url": "https://open.spotify.com/artist/6dVTsBmqhIN3K2lPOg11N5"
+        },
+        {
+          "name": "Fr\u00e9d\u00e9ric Franchitti",
+          "url": "https://open.spotify.com/artist/3CFp5YtgEajDtIcDUJ420F"
         }
       ],
-      "duration_ms": 155706,
-      "name": "Le bonheur",
-      "url": "https://open.spotify.com/track/1WsPkcmKon4hQypbdtYiTo"
+      "duration_ms": 240560,
+      "name": "Regarde-moi",
+      "url": "https://open.spotify.com/track/6Fo0iSM2LaVTCLS3WkTXgz"
     }
   ],
   "unique_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",

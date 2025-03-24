@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Photo by David Wolff via Getty Images",
-  "num_followers": 106795,
+  "num_followers": 106830,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -599,18 +599,22 @@
     {
       "added_at": "2025-03-21 16:53:59",
       "album": {
-        "name": "#19",
-        "url": "https://open.spotify.com/album/7njwofUGv4MhSLm1VblQss"
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
       "artists": [
         {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 614592,
-      "name": "#19",
-      "url": "https://open.spotify.com/track/3zSBsvj6MWavRKfPE51395"
+      "duration_ms": 99872,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/1leXj0r8M0dMFNWbRxq2Xe"
     },
     {
       "added_at": "2025-03-21 16:53:59",
@@ -647,22 +651,18 @@
     {
       "added_at": "2025-03-21 16:53:59",
       "album": {
-        "name": "Secret Life",
-        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+        "name": "#19",
+        "url": "https://open.spotify.com/album/7njwofUGv4MhSLm1VblQss"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 99872,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/1leXj0r8M0dMFNWbRxq2Xe"
+      "duration_ms": 614592,
+      "name": "#19",
+      "url": "https://open.spotify.com/track/3zSBsvj6MWavRKfPE51395"
     },
     {
       "added_at": "2025-03-21 16:53:59",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-03-21 16:53:59",
       "album": {
-        "name": "Music From The Merch Desk (2016 - 2023)",
-        "url": "https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "em2500 M253X [London 03.06.17]",
-      "url": "https://open.spotify.com/track/6j5qH88J2AHWYiNq0tCMjN"
-    },
-    {
-      "added_at": "2025-03-21 16:53:59",
-      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 265962,
       "name": "I Saw You",
       "url": "https://open.spotify.com/track/4LYwnQN8yP032iEZLHpN6g"
+    },
+    {
+      "added_at": "2025-03-21 16:53:59",
+      "album": {
+        "name": "Music From The Merch Desk (2016 - 2023)",
+        "url": "https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "em2500 M253X [London 03.06.17]",
+      "url": "https://open.spotify.com/track/6j5qH88J2AHWYiNq0tCMjN"
     },
     {
       "added_at": "2025-03-21 16:53:59",
@@ -967,26 +967,6 @@
     {
       "added_at": "2025-03-21 16:53:59",
       "album": {
-        "name": "Secret Life",
-        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 221199,
-      "name": "Trying",
-      "url": "https://open.spotify.com/track/25k70O2pKn9Zn0HknWrS8x"
-    },
-    {
-      "added_at": "2025-03-21 16:53:59",
-      "album": {
         "name": "Into Your Eyes",
         "url": "https://open.spotify.com/album/4DiQXdT74X9NyQNe8EwGqi"
       },
@@ -1067,6 +1047,26 @@
     {
       "added_at": "2025-03-21 16:53:59",
       "album": {
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 221199,
+      "name": "Trying",
+      "url": "https://open.spotify.com/track/25k70O2pKn9Zn0HknWrS8x"
+    },
+    {
+      "added_at": "2025-03-21 16:53:59",
+      "album": {
         "name": "Lust 1",
         "url": "https://open.spotify.com/album/18CnHf7xCMDu6Xmk7lpu2L"
       },
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-03-21 16:53:59",
       "album": {
+        "name": "Fond",
+        "url": "https://open.spotify.com/album/5PEVqlVVEvvQJgmLmQ7IEh"
+      },
+      "artists": [
+        {
+          "name": "John Hayes",
+          "url": "https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt"
+        }
+      ],
+      "duration_ms": 160362,
+      "name": "Fond",
+      "url": "https://open.spotify.com/track/5wwmFhVGRTVEfftMcb3HGp"
+    },
+    {
+      "added_at": "2025-03-21 16:53:59",
+      "album": {
         "name": "HomeSoon",
         "url": "https://open.spotify.com/album/1uoyioN7yCRAUoVpgZQHHD"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 267500,
       "name": "Catsu",
       "url": "https://open.spotify.com/track/0lbQaP751MUEVtK0F4A43C"
-    },
-    {
-      "added_at": "2025-03-21 16:53:59",
-      "album": {
-        "name": "Selected Ambient Works Volume II (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 531426,
-      "name": "#7",
-      "url": "https://open.spotify.com/track/3mqHljnbhJx3CsoJ2c7MSK"
     },
     {
       "added_at": "2025-03-21 16:53:59",
@@ -1135,50 +1135,18 @@
     {
       "added_at": "2025-03-21 16:53:59",
       "album": {
-        "name": "Lirica Ucraina",
-        "url": "https://open.spotify.com/album/4p1swJex2Vd7xPUaHt9sjb"
+        "name": "Selected Ambient Works Volume II (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
       },
       "artists": [
         {
-          "name": "Iosonouncane",
-          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Fuggire",
-      "url": "https://open.spotify.com/track/4RjoxUEGdbH1xBD0RgpACX"
-    },
-    {
-      "added_at": "2025-03-21 16:53:59",
-      "album": {
-        "name": "Fond",
-        "url": "https://open.spotify.com/album/5PEVqlVVEvvQJgmLmQ7IEh"
-      },
-      "artists": [
-        {
-          "name": "John Hayes",
-          "url": "https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt"
-        }
-      ],
-      "duration_ms": 160362,
-      "name": "Fond",
-      "url": "https://open.spotify.com/track/5wwmFhVGRTVEfftMcb3HGp"
-    },
-    {
-      "added_at": "2025-03-21 16:53:59",
-      "album": {
-        "name": "Meaning's Edge",
-        "url": "https://open.spotify.com/album/43r2887PJko52LqiNQ2Jbh"
-      },
-      "artists": [
-        {
-          "name": "DjRUM",
-          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
-        }
-      ],
-      "duration_ms": 405468,
-      "name": "Frekm, Pt. 1",
-      "url": "https://open.spotify.com/track/5Tam0wFLfpLK6N5rhRTG7T"
+      "duration_ms": 531426,
+      "name": "#7",
+      "url": "https://open.spotify.com/track/3mqHljnbhJx3CsoJ2c7MSK"
     },
     {
       "added_at": "2025-03-21 16:53:59",
@@ -1207,6 +1175,38 @@
       "duration_ms": 241862,
       "name": "Abandon",
       "url": "https://open.spotify.com/track/2pSvA8nCTZZaVMi8pap1kf"
+    },
+    {
+      "added_at": "2025-03-21 16:53:59",
+      "album": {
+        "name": "Lirica Ucraina",
+        "url": "https://open.spotify.com/album/4p1swJex2Vd7xPUaHt9sjb"
+      },
+      "artists": [
+        {
+          "name": "Iosonouncane",
+          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Fuggire",
+      "url": "https://open.spotify.com/track/4RjoxUEGdbH1xBD0RgpACX"
+    },
+    {
+      "added_at": "2025-03-21 16:53:59",
+      "album": {
+        "name": "Meaning's Edge",
+        "url": "https://open.spotify.com/album/43r2887PJko52LqiNQ2Jbh"
+      },
+      "artists": [
+        {
+          "name": "DjRUM",
+          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
+        }
+      ],
+      "duration_ms": 405468,
+      "name": "Frekm, Pt. 1",
+      "url": "https://open.spotify.com/track/5Tam0wFLfpLK6N5rhRTG7T"
     },
     {
       "added_at": "2025-03-21 16:53:59",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2025-03-21 16:53:59",
       "album": {
-        "name": "Selected Ambient Works Volume II (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
+        "name": "Tempora",
+        "url": "https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U"
       },
       "artists": [
         {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+          "name": "Drum & Lace",
+          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
         }
       ],
-      "duration_ms": 414706,
-      "name": "#9",
-      "url": "https://open.spotify.com/track/5ENGMUqWPZN1vTtk1bWOmA"
+      "duration_ms": 482771,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/636q74X2qVCv5fBdE95woF"
     },
     {
       "added_at": "2025-03-21 16:53:59",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-03-21 16:53:59",
       "album": {
-        "name": "Tempora",
-        "url": "https://open.spotify.com/album/5eKKhjC5MpsgaEACmSD17U"
-      },
-      "artists": [
-        {
-          "name": "Drum & Lace",
-          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
-        }
-      ],
-      "duration_ms": 482771,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/636q74X2qVCv5fBdE95woF"
-    },
-    {
-      "added_at": "2025-03-21 16:53:59",
-      "album": {
         "name": "Songs of Silence",
         "url": "https://open.spotify.com/album/3WNHfcR03NSfUg4ZcZJG7t"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 227033,
       "name": "Scarper",
       "url": "https://open.spotify.com/track/2qOAJNW4ExNsbLvvcMRZbe"
+    },
+    {
+      "added_at": "2025-03-21 16:53:59",
+      "album": {
+        "name": "Selected Ambient Works Volume II (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 414706,
+      "name": "#9",
+      "url": "https://open.spotify.com/track/5ENGMUqWPZN1vTtk1bWOmA"
     },
     {
       "added_at": "2025-03-21 16:53:59",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-03-21 16:53:59",
       "album": {
-        "name": "Under the Sun",
-        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
-      },
-      "artists": [
-        {
-          "name": "Maya Shenfeld",
-          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
-        }
-      ],
-      "duration_ms": 477048,
-      "name": "Analemma",
-      "url": "https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch"
-    },
-    {
-      "added_at": "2025-03-21 16:53:59",
-      "album": {
         "name": "Piedras 2",
         "url": "https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 139184,
       "name": "Heterodina",
       "url": "https://open.spotify.com/track/3rVv4M9yEtIebntD1vYi0J"
+    },
+    {
+      "added_at": "2025-03-21 16:53:59",
+      "album": {
+        "name": "Under the Sun",
+        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
+      },
+      "artists": [
+        {
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+        }
+      ],
+      "duration_ms": 477048,
+      "name": "Analemma",
+      "url": "https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch"
     },
     {
       "added_at": "2025-03-21 16:53:59",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-03-21 16:53:59",
       "album": {
-        "name": "Piedras 2",
-        "url": "https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Jaar",
-          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
-        }
-      ],
-      "duration_ms": 109937,
-      "name": "3eee",
-      "url": "https://open.spotify.com/track/2fdMKv0kspas6unl5YkuXd"
-    },
-    {
-      "added_at": "2025-03-21 16:53:59",
-      "album": {
         "name": "Dostrotime",
         "url": "https://open.spotify.com/album/7q2TYQUhAg9mzIjybDBpGI"
       },
@@ -1523,22 +1507,6 @@
     {
       "added_at": "2025-03-21 16:53:59",
       "album": {
-        "name": "Radio Mnemosyne",
-        "url": "https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y"
-      },
-      "artists": [
-        {
-          "name": "Snufmumriko",
-          "url": "https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn"
-        }
-      ],
-      "duration_ms": 382000,
-      "name": "L\u00e5ngt under noll",
-      "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
-    },
-    {
-      "added_at": "2025-03-21 16:53:59",
-      "album": {
         "name": "Burst / Glimmer",
         "url": "https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb"
       },
@@ -1551,6 +1519,38 @@
       "duration_ms": 316293,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/0WMSg3Iisjd8xX6gUJt7Bj"
+    },
+    {
+      "added_at": "2025-03-21 16:53:59",
+      "album": {
+        "name": "Piedras 2",
+        "url": "https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Jaar",
+          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+        }
+      ],
+      "duration_ms": 109937,
+      "name": "3eee",
+      "url": "https://open.spotify.com/track/2fdMKv0kspas6unl5YkuXd"
+    },
+    {
+      "added_at": "2025-03-21 16:53:59",
+      "album": {
+        "name": "Radio Mnemosyne",
+        "url": "https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y"
+      },
+      "artists": [
+        {
+          "name": "Snufmumriko",
+          "url": "https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn"
+        }
+      ],
+      "duration_ms": 382000,
+      "name": "L\u00e5ngt under noll",
+      "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
     },
     {
       "added_at": "2025-03-21 16:53:59",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2025-03-21 16:53:59",
       "album": {
-        "name": "Migratory",
-        "url": "https://open.spotify.com/album/1UuZfvsJR79dbUPmblhZbv"
-      },
-      "artists": [
-        {
-          "name": "Masayoshi Fujita",
-          "url": "https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT"
-        }
-      ],
-      "duration_ms": 216914,
-      "name": "Ocean Flow",
-      "url": "https://open.spotify.com/track/1v6TpJ9g0QjdLkMqromKCl"
-    },
-    {
-      "added_at": "2025-03-21 16:53:59",
-      "album": {
         "name": "Psychic Geography",
         "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 223324,
       "name": "Vernal Fall",
       "url": "https://open.spotify.com/track/2HKX28kTIoBXpnjOJHhcst"
+    },
+    {
+      "added_at": "2025-03-21 16:53:59",
+      "album": {
+        "name": "Migratory",
+        "url": "https://open.spotify.com/album/1UuZfvsJR79dbUPmblhZbv"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Fujita",
+          "url": "https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT"
+        }
+      ],
+      "duration_ms": 216914,
+      "name": "Ocean Flow",
+      "url": "https://open.spotify.com/track/1v6TpJ9g0QjdLkMqromKCl"
     }
   ],
   "unique_name": "Electronic X",

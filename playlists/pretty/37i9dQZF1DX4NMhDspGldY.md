@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMhDspGldY.md) - [plain]
 
 > Leeds! Leeds! Leeds! Cover: VENUS GRRRLS
 
-[Spotify](https://open.spotify.com/user/spotify) - 943 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 944 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,20 +16,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMhDspGldY.md) - [plain]
 | 6 | [interested](https://open.spotify.com/track/55SbTToiQ8JTe524EeIn8b) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [interested](https://open.spotify.com/album/0Yvd8AciWmZXa2KQXQDl2V) | 3:13 |
 | 7 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 |
 | 8 | [Stand on Trial](https://open.spotify.com/track/0dAFYiW4zXXhmXXCINl5H7) | [August Charles](https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S), [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [Stand on Trial](https://open.spotify.com/album/4i9qgLAuUYMjocxgpoTg65) | 3:04 |
-| 9 | [My Mind](https://open.spotify.com/track/22J3tTlWFg4bsLh67jGksy) | [Tom Zanetti](https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh) | [My Mind](https://open.spotify.com/album/5vGnQgOMQtTd8X4rYRejVu) | 3:24 |
-| 10 | [All I Knew Was You](https://open.spotify.com/track/4VM0AM6vA0OTUvmFbnnigT) | [5X](https://open.spotify.com/artist/1OLc1He3X5Q3yEreHX5FDe) | [All I Knew Was You](https://open.spotify.com/album/7Mu5qrYhWekxQYJcS93tuh) | 3:56 |
-| 11 | [Can You Pay?](https://open.spotify.com/track/2sjwKudWZUa5Dyf7Fo842f) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Pessto](https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe) | [Can You Pay?](https://open.spotify.com/album/29hmGx8YNFYhhMZoTmIHri) | 2:13 |
-| 12 | [New York Transit Queen](https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [New York Transit Queen](https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm) | 1:49 |
-| 13 | [All The Same](https://open.spotify.com/track/33fKu1jFRuXJiBg5fXZQSk) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [All The Same](https://open.spotify.com/album/0PJURdQhTdpGqgEJ60SZHq) | 5:24 |
-| 14 | [Babyface](https://open.spotify.com/track/3S7Go0zMpO1WQpx6oZQd2y) | [Artio](https://open.spotify.com/artist/0l2QxnR8KJQT4m2Ax8rhh5) | [Babyface](https://open.spotify.com/album/4L9qo6vo2gLQZIwmNNSiG2) | 3:26 |
-| 15 | [Fly](https://open.spotify.com/track/7AP9SA6DLzSvX9uZ3KYTxr) | [Soul Mass Transit System](https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC) | [Fly](https://open.spotify.com/album/2OIQH7v1IQsSPYc6BPQVjj) | 6:16 |
+| 9 | [All I Knew Was You](https://open.spotify.com/track/4VM0AM6vA0OTUvmFbnnigT) | [5X](https://open.spotify.com/artist/1OLc1He3X5Q3yEreHX5FDe) | [All I Knew Was You](https://open.spotify.com/album/7Mu5qrYhWekxQYJcS93tuh) | 3:56 |
+| 10 | [New York Transit Queen](https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [New York Transit Queen](https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm) | 1:49 |
+| 11 | [All The Same](https://open.spotify.com/track/33fKu1jFRuXJiBg5fXZQSk) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [All The Same](https://open.spotify.com/album/0PJURdQhTdpGqgEJ60SZHq) | 5:24 |
+| 12 | [Babyface](https://open.spotify.com/track/3S7Go0zMpO1WQpx6oZQd2y) | [Artio](https://open.spotify.com/artist/0l2QxnR8KJQT4m2Ax8rhh5) | [Babyface](https://open.spotify.com/album/4L9qo6vo2gLQZIwmNNSiG2) | 3:26 |
+| 13 | [My Mind](https://open.spotify.com/track/22J3tTlWFg4bsLh67jGksy) | [Tom Zanetti](https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh) | [My Mind](https://open.spotify.com/album/5vGnQgOMQtTd8X4rYRejVu) | 3:24 |
+| 14 | [Fly](https://open.spotify.com/track/7AP9SA6DLzSvX9uZ3KYTxr) | [Soul Mass Transit System](https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC) | [Fly](https://open.spotify.com/album/2OIQH7v1IQsSPYc6BPQVjj) | 6:16 |
+| 15 | [Can You Pay?](https://open.spotify.com/track/2sjwKudWZUa5Dyf7Fo842f) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Pessto](https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe) | [Can You Pay?](https://open.spotify.com/album/29hmGx8YNFYhhMZoTmIHri) | 2:13 |
 | 16 | [Made 4 U](https://open.spotify.com/track/2gqoaVqj3suM9DAkeBgUKD) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Made 4 U](https://open.spotify.com/album/058gfK0rY6EBqx6xdXxBMp) | 3:39 |
 | 17 | [Need Your Touch](https://open.spotify.com/track/26un2NdBK4eLwX5TJCA1eI) | [Miguel Campbell](https://open.spotify.com/artist/4uZJDUKi3NXQsuMKP3rOeC) | [Need Your Touch](https://open.spotify.com/album/0QrWko9I2LyEOgGk2vLE68) | 3:52 |
 | 18 | [Bye Bye](https://open.spotify.com/track/1ynCux8DPn9obCyZIQ8lwL) | [Cole LC](https://open.spotify.com/artist/76YlwsQeCJEczcje0Ifg5p) | [Bye Bye](https://open.spotify.com/album/2qKD1Q4vs2TahMwrJocyPA) | 2:43 |
 | 19 | [Five to One](https://open.spotify.com/track/0KXDdNmoycLHPkcQI8IG4J) | [Gravy](https://open.spotify.com/artist/6uCFv1Lo45PC3udGTuHRNP) | [Five to One](https://open.spotify.com/album/7A2ybRMInN6DuJ0bPVcp2k) | 2:39 |
-| 20 | [95 Selection](https://open.spotify.com/track/1agOtTTtPQKMyOEGfCaPEP) | [Soul Mass Transit System](https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC) | [95 Selection](https://open.spotify.com/album/5FVk3IIv7XoOHfQl7qoHZr) | 4:34 |
-| 21 | [Show & Tell](https://open.spotify.com/track/4jtimiQsByqnyV2SKX7Cog) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Show & Tell](https://open.spotify.com/album/117aeeewwU94p25MrFch09) | 3:31 |
-| 22 | [Yacht Money](https://open.spotify.com/track/15IpsxxAoY6wAkppXaGftf) | [Adult DVD](https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG) | [Yacht Money](https://open.spotify.com/album/7kY0EWaq3UcUhkUi5fxwb6) | 4:28 |
+| 20 | [Show & Tell](https://open.spotify.com/track/4jtimiQsByqnyV2SKX7Cog) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Show & Tell](https://open.spotify.com/album/117aeeewwU94p25MrFch09) | 3:31 |
+| 21 | [Yacht Money](https://open.spotify.com/track/15IpsxxAoY6wAkppXaGftf) | [Adult DVD](https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG) | [Yacht Money](https://open.spotify.com/album/7kY0EWaq3UcUhkUi5fxwb6) | 4:28 |
+| 22 | [95 Selection](https://open.spotify.com/track/1agOtTTtPQKMyOEGfCaPEP) | [Soul Mass Transit System](https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC) | [95 Selection](https://open.spotify.com/album/5FVk3IIv7XoOHfQl7qoHZr) | 4:34 |
 | 23 | [Give It To Dem](https://open.spotify.com/track/2BJmRwIyiRyRIVV4AaIqrl) | [Graft](https://open.spotify.com/artist/4D8x62ZMhyT8vZifuO6nXc) | [Give It To Dem](https://open.spotify.com/album/6UUdD0Mqdv3iVt2dr1pHzK) | 3:10 |
 | 24 | [Leeds Town](https://open.spotify.com/track/6Vab7BOaIXufeOfzikCeDb) | [Temz](https://open.spotify.com/artist/3ksrra1WHKgGrr7ss2BYYg), [Caution](https://open.spotify.com/artist/4ibBdkHVvSRnTRZok0ezBz) | [Leeds Town](https://open.spotify.com/album/0FXYoRSbSliqHQDxqH1DhI) | 2:29 |
 | 25 | [Pressure \(Oh My Goodness\)](https://open.spotify.com/track/4VA1cclXrIbTLXoP3lkid3) | [Ntantu](https://open.spotify.com/artist/3ijqECUdixtCFSyNw4FQJq) | [Pressure \(Oh My Goodness\)](https://open.spotify.com/album/7kycie79CZeMsMUdaW2RDZ) | 2:45 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMhDspGldY.md) - [plain]
 | 39 | [Don't Waste Time](https://open.spotify.com/track/3SYt7ldup2V59p6pKQv4FY) | [D5](https://open.spotify.com/artist/3RC5R8xEmJ2RId5tixXeSu) | [Don't Waste Time](https://open.spotify.com/album/4sNrLRcr3mzgWKY8VpIGoC) | 2:31 |
 | 40 | [Yasuke in Roppongi](https://open.spotify.com/track/47nkIbi7iyQ5k4CHkQN8xC) | [The Sorcerers](https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA) | [Yasuke In Roppongi](https://open.spotify.com/album/74v6dv4Uuw3het0QzpMpia) | 5:25 |
 | 41 | [Breezeblocks](https://open.spotify.com/track/7v9VgPcjy7gPRsHZjKPUhU) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/01WnXszeMvaUaEp3NaQGFt) | 3:47 |
-| 42 | [Coming Of Age](https://open.spotify.com/track/39oKaHKZj9aNIqCNvZ1dBl) | [Van Houten](https://open.spotify.com/artist/1DJIjqnBb14BDo3EIZc2zB) | [Coming Of Age](https://open.spotify.com/album/67rNxof0ZOBr99nFdRp1fY) | 4:07 |
-| 43 | [NIGHTWORLD](https://open.spotify.com/track/057XJzojCErHe3UEDMCMX7) | [HONESTY](https://open.spotify.com/artist/0IHlkUZPVWLz5yUbz8H5Bv) | [NIGHTWORLD](https://open.spotify.com/album/17iGJEADbzVJFjbqsCSQsk) | 3:22 |
-| 44 | [Emotion](https://open.spotify.com/track/7cY4qru57sGf77xkUvtYwr) | [GEO](https://open.spotify.com/artist/3A5PSHQgA7r8hs9M5p2iIz) | [Emotion](https://open.spotify.com/album/0YYPm7yqaeFKtFI2Dp9VMu) | 3:34 |
+| 42 | [NIGHTWORLD](https://open.spotify.com/track/057XJzojCErHe3UEDMCMX7) | [HONESTY](https://open.spotify.com/artist/0IHlkUZPVWLz5yUbz8H5Bv) | [NIGHTWORLD](https://open.spotify.com/album/17iGJEADbzVJFjbqsCSQsk) | 3:22 |
+| 43 | [Emotion](https://open.spotify.com/track/7cY4qru57sGf77xkUvtYwr) | [GEO](https://open.spotify.com/artist/3A5PSHQgA7r8hs9M5p2iIz) | [Emotion](https://open.spotify.com/album/0YYPm7yqaeFKtFI2Dp9VMu) | 3:34 |
+| 44 | [Coming Of Age](https://open.spotify.com/track/39oKaHKZj9aNIqCNvZ1dBl) | [Van Houten](https://open.spotify.com/artist/1DJIjqnBb14BDo3EIZc2zB) | [Coming Of Age](https://open.spotify.com/album/67rNxof0ZOBr99nFdRp1fY) | 4:07 |
 | 45 | [Home](https://open.spotify.com/track/1zFNz0vqPbNyBhBwB7yghZ) | [Emma Johnson's Gravy Boat](https://open.spotify.com/artist/3wXfTrVFn5UQd9cSV2d1W8) | [Northern Flame](https://open.spotify.com/album/0EiS0yRleyWdBmo4pyxI6s) | 4:47 |
 | 46 | [Bff](https://open.spotify.com/track/6NvH9j53XhLJq3G5ucuI10) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Bff](https://open.spotify.com/album/7jPIgC4AJtuCtwCE1EHwvs) | 2:31 |
 | 47 | [The Sky Tonight](https://open.spotify.com/track/4yETyNaa9Aed6veTZFu4hK) | [Emmeline](https://open.spotify.com/artist/7fAUd8o33I4t30UMxfIZPR) | [Small\-Town Girls and Soft Summer Nights](https://open.spotify.com/album/6isLTenhMfUWI3VQ5KIfvJ) | 3:00 |
-| 48 | [Alone With U](https://open.spotify.com/track/3eVPlHoRinMGANyHTjyCTw) | [Stone Forte](https://open.spotify.com/artist/0FUx2oTzlbJ1eR8I9EmpAQ) | [Alone With U](https://open.spotify.com/album/3iHEf58joahl3W6wx0YyAw) | 3:06 |
-| 49 | [Closer](https://open.spotify.com/track/1VTWCauhhZ23hDHMjsVCWb) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Closer](https://open.spotify.com/album/1AqR0VZf6nkCN4c9sNXSoO) | 3:18 |
-| 50 | [Bebaynetu](https://open.spotify.com/track/5dThygvX9AZmUj58dRDiJ3) | [The Sorcerers](https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA) | [Bebaynetu](https://open.spotify.com/album/1Vu6krP87Wv0M5OMinxWbq) | 4:03 |
+| 48 | [Bebaynetu](https://open.spotify.com/track/5dThygvX9AZmUj58dRDiJ3) | [The Sorcerers](https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA) | [Bebaynetu](https://open.spotify.com/album/1Vu6krP87Wv0M5OMinxWbq) | 4:03 |
+| 49 | [Alone With U](https://open.spotify.com/track/3eVPlHoRinMGANyHTjyCTw) | [Stone Forte](https://open.spotify.com/artist/0FUx2oTzlbJ1eR8I9EmpAQ) | [Alone With U](https://open.spotify.com/album/3iHEf58joahl3W6wx0YyAw) | 3:06 |
+| 50 | [Closer](https://open.spotify.com/track/1VTWCauhhZ23hDHMjsVCWb) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Closer](https://open.spotify.com/album/1AqR0VZf6nkCN4c9sNXSoO) | 3:18 |
 
 Snapshot ID: `Z0B2ZQAAAABk+4KmhEj23w21o3h8DVmi`

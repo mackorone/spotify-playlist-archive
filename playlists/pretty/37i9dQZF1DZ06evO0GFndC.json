@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 58761,
+  "num_followers": 58773,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9ysAAAAAADVogLzca4dYhrYUDafO/HQ",
+  "snapshot_id": "Z939gAAAAABFNDFod6Bctnl6m0wfx4jr",
   "tracks": [
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Equipados",
-        "url": "https://open.spotify.com/album/2f0KcsjEftYpn1OmCJAs2P"
-      },
-      "artists": [
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 170461,
-      "name": "Bien Equipados",
-      "url": "https://open.spotify.com/track/58jOk6VlZQxcUADl5RhOEq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Proyecto A",
         "url": "https://open.spotify.com/album/4v6dj7Tfa3wyALxNvMx6bQ"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 162500,
       "name": "Legado",
       "url": "https://open.spotify.com/track/5jd85MnXpMNa6OxhLJKwQQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bien Equipados",
+        "url": "https://open.spotify.com/album/2f0KcsjEftYpn1OmCJAs2P"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 170461,
+      "name": "Bien Equipados",
+      "url": "https://open.spotify.com/track/58jOk6VlZQxcUADl5RhOEq"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Problemas Mentales",
-        "url": "https://open.spotify.com/album/2JV7M938XpePJOEUftFeBL"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Problemas Mentales",
-      "url": "https://open.spotify.com/track/56X29F9THJqhofWefcdvRk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Resiliencia",
         "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 192085,
       "name": "Brillo Propio",
       "url": "https://open.spotify.com/track/7cVgN6hkW4FY8jEdO0ZA4S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Problemas Mentales",
+        "url": "https://open.spotify.com/album/2JV7M938XpePJOEUftFeBL"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Problemas Mentales",
+      "url": "https://open.spotify.com/track/56X29F9THJqhofWefcdvRk"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pura Manzanita",
+        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 194845,
+      "name": "Se\u00f1or de la A - En Vivo",
+      "url": "https://open.spotify.com/track/4LmuzqcwGGERD1BvBhz4vy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi C\u00edrculo Vicioso",
         "url": "https://open.spotify.com/album/6IgXzPjWIIBWJHCjRqGBiw"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 219301,
       "name": "Mi C\u00edrculo Vicioso",
       "url": "https://open.spotify.com/track/5OAaWOy7nfXBCy4VRQ6tmS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pura Manzanita",
-        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 194845,
-      "name": "Se\u00f1or de la A - En Vivo",
-      "url": "https://open.spotify.com/track/4LmuzqcwGGERD1BvBhz4vy"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tirabalas",
-        "url": "https://open.spotify.com/album/0wDrkVCojZJgw3t4h61PIt"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 166282,
-      "name": "El Tirabalas",
-      "url": "https://open.spotify.com/track/6oLRVlSHXfxPIJDsZivxaG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Caravana de Carros",
         "url": "https://open.spotify.com/album/5EuUYNWx0jmsGyWkMV3MP2"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 220143,
       "name": "Caravana de Carros",
       "url": "https://open.spotify.com/track/6O3Wb4IuCALnVzcs63aoEZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tirabalas",
+        "url": "https://open.spotify.com/album/0wDrkVCojZJgw3t4h61PIt"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 166282,
+      "name": "El Tirabalas",
+      "url": "https://open.spotify.com/track/6oLRVlSHXfxPIJDsZivxaG"
     },
     {
       "added_at": null,

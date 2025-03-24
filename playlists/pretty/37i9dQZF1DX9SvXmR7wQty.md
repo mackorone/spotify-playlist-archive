@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Ariane Roy
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,086 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,089 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,17 +20,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 10 | [HERMES](https://open.spotify.com/track/7DZSBDz3YMRWehPTLE1xOs) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [HERMES](https://open.spotify.com/album/1StXBGTd2q23LGN6rQdXlE) | 1:47 |
 | 11 | [1990](https://open.spotify.com/track/4XwTY4kqywle66xnhmbG4E) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3) | [1990](https://open.spotify.com/album/7DivTcYqGWHAhpCjuoxzIj) | 2:09 |
 | 12 | [Gentil Garçon](https://open.spotify.com/track/7DM7DHed6lj67JC08Gg5xp) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Gentil Garçon](https://open.spotify.com/album/4ivStYmGyNsbAC8ysETIwN) | 3:24 |
-| 13 | [SHAOLIN](https://open.spotify.com/track/5hlHyHG6Wvxez9uegXgdE4) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SHAOLIN](https://open.spotify.com/album/2ABjHzYVS0NChn5nbvfMlz) | 2:04 |
-| 14 | [Hélas](https://open.spotify.com/track/1sgMttYr6QVzahlCm6wfSR) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Hélas](https://open.spotify.com/album/3FczKjTL5VelPAfdgzFyPk) | 3:01 |
+| 13 | [Saturday](https://open.spotify.com/track/6cZn5XS7yHFQ2QUl2noKKw) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Saturday](https://open.spotify.com/album/5GN4mZzXqHUBFOgczhJjwM) | 2:30 |
+| 14 | [SHAOLIN](https://open.spotify.com/track/5hlHyHG6Wvxez9uegXgdE4) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SHAOLIN](https://open.spotify.com/album/2ABjHzYVS0NChn5nbvfMlz) | 2:04 |
 | 15 | [Interruption](https://open.spotify.com/track/6yiDJYoQBlb7lTA10rXUZy) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak), [Cherry Lena](https://open.spotify.com/artist/0vkN6Ib0aW335dFCf4iWNo) | [Interruption](https://open.spotify.com/album/5EO08uN9A5WjrYDc9vglKD) | 2:50 |
-| 16 | [Saturday](https://open.spotify.com/track/6cZn5XS7yHFQ2QUl2noKKw) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Saturday](https://open.spotify.com/album/5GN4mZzXqHUBFOgczhJjwM) | 2:30 |
+| 16 | [Hélas](https://open.spotify.com/track/1sgMttYr6QVzahlCm6wfSR) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Hélas](https://open.spotify.com/album/3FczKjTL5VelPAfdgzFyPk) | 3:01 |
 | 17 | [OTF](https://open.spotify.com/track/7jCrWAQs0l7pA7GiqHxBtm) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [ORIGINAL GANGSTA](https://open.spotify.com/album/4Co5H8hYfGAlVhfycX5VMR) | 2:29 |
 | 18 | [Dinars](https://open.spotify.com/track/37uCx8hYtt0WyE3rBHGgaY) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Africa Jungle Part.1](https://open.spotify.com/album/4OsnnplK0ncl5jJk64wB17) | 2:44 |
 | 19 | [je ne crois plus au karma](https://open.spotify.com/track/4HEHRPmVP9MaWrytLxS3A5) | [Kat Pereira](https://open.spotify.com/artist/2zRBWsk11oPp7TrEgdwKC8) | [je ne crois plus au karma](https://open.spotify.com/album/3642KxaC7ssM4JeOFO4ZGE) | 2:23 |
 | 20 | [Ennemi](https://open.spotify.com/track/3mEu9GeNAt5evd6BZZIrpl) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Ennemi](https://open.spotify.com/album/4cNarfSVV4H2jZEtNp71uK) | 2:55 |
 | 21 | [Solo soleil](https://open.spotify.com/track/3jXLcrjxUrMw3oXZd3069j) | [Stéphane Archambault](https://open.spotify.com/artist/5mW94dZAqDWHpnj23vvXdF) | [Solo soleil](https://open.spotify.com/album/7wTjwdLEChMwaCVk0ky4CS) | 3:39 |
-| 22 | [PERFORMANTE](https://open.spotify.com/track/5lEB4KHh3oE03q060h0mTr) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [KINTSUGI](https://open.spotify.com/album/4zwwg5cY6PIC7K3SvBaExf) | 3:26 |
-| 23 | [Mélatonine](https://open.spotify.com/track/76gfpttwTGXl0k1UoFBMxM) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Hélé](https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017) | 3:32 |
+| 22 | [Mélatonine](https://open.spotify.com/track/76gfpttwTGXl0k1UoFBMxM) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Hélé](https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017) | 3:32 |
+| 23 | [PERFORMANTE](https://open.spotify.com/track/5lEB4KHh3oE03q060h0mTr) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [KINTSUGI](https://open.spotify.com/album/4zwwg5cY6PIC7K3SvBaExf) | 3:26 |
 | 24 | [RODEO DRIVE \(feat\. Hamza\)](https://open.spotify.com/track/5kPZqzylClNZIGdAO2OG9J) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [LIFE](https://open.spotify.com/album/6lR8cZ6omC8EJ0tzt7lNZh) | 2:25 |
 | 25 | [Comme toi](https://open.spotify.com/track/1SVLDzLK37a1LbBcr4Y0eL) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [RIPRO](https://open.spotify.com/album/5gNNmdAr9tFbtocOuLe388) | 3:37 |
 | 26 | [Cette guerre](https://open.spotify.com/track/2F7F4ZWiPnJ8ZUK2Gc96dQ) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Famille](https://open.spotify.com/album/42BQRI096xf6TUvY4UOuEV) | 3:17 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 37 | [Favéla \(\#STATION 3\)](https://open.spotify.com/track/4RrEMleLv7K3Htsxly2hLs) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Favéla \(\#STATION 3\)](https://open.spotify.com/album/2Ei4g6zJuC6rtWPWtszUx3) | 2:58 |
 | 38 | [Flex](https://open.spotify.com/track/0LwadPsG8McSabXIITkIGF) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Flex](https://open.spotify.com/album/57GrVq3zhyHIZWOfKTh5md) | 2:36 |
 | 39 | [Fumée Blanche](https://open.spotify.com/track/72Wv7tnQhlVyvc4VaBDBDe) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Fumée Blanche](https://open.spotify.com/album/4LzlgK3TJqL8ivGKIsdUfN) | 3:04 |
-| 40 | [On tombe, on réessaye](https://open.spotify.com/track/1JdeV9HWswwT2yv5ovHpz8) | [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98) | [On tombe, on réessaye](https://open.spotify.com/album/56oJCfgXzCWDeOPsRzhWy4) | 3:13 |
-| 41 | [Me Enamore](https://open.spotify.com/track/0fltq9Zz9JUWU3NMqRXFY0) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Me Enamore](https://open.spotify.com/album/7EltiVo6H28swJEH6lZ3Uv) | 3:09 |
+| 40 | [Me Enamore](https://open.spotify.com/track/0fltq9Zz9JUWU3NMqRXFY0) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Me Enamore](https://open.spotify.com/album/7EltiVo6H28swJEH6lZ3Uv) | 3:09 |
+| 41 | [On tombe, on réessaye](https://open.spotify.com/track/1JdeV9HWswwT2yv5ovHpz8) | [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98) | [On tombe, on réessaye](https://open.spotify.com/album/56oJCfgXzCWDeOPsRzhWy4) | 3:13 |
 | 42 | [Amour cyclone](https://open.spotify.com/track/7BoQ3BKIGuJ7jNELvegsdb) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Fille lacrymale](https://open.spotify.com/album/0CUK4fhtoGwwjh18Q02LMd) | 2:58 |
 | 43 | [Sans surprise](https://open.spotify.com/track/1t03IiwKs5YVAkwNStY9Jc) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO) | [Sans surprise](https://open.spotify.com/album/3yWUYiNyDnOuEQp0rvNvNE) | 2:49 |
 | 44 | [La vraie vie](https://open.spotify.com/track/2zSIAePG9IAhosLGptnq9T) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Imad, la suite](https://open.spotify.com/album/4XKqdc8TBZa8XZcUV6xgXC) | 2:23 |
 | 45 | [2, 3 shots](https://open.spotify.com/track/0Yonqiir0J2K1nyCWR26C5) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [2, 3 shots](https://open.spotify.com/album/0nEeXyhUkvYrju0k2LZCDh) | 2:33 |
 | 46 | [Lâche\-moi la main](https://open.spotify.com/track/6ozjFPw3Qt2LNON2tMXiY9) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Lâche\-moi la main](https://open.spotify.com/album/0zua6XNuLGr7photwSTSQR) | 4:07 |
-| 47 | [Buggy](https://open.spotify.com/track/1tdw03JuoGckGhRhHXP3PY) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Buggy](https://open.spotify.com/album/4RucnCxQeWCuiuhOwFw7w9) | 3:04 |
-| 48 | [miki cowboy](https://open.spotify.com/track/641fgTSsoeAYNkgR3m7HMU) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/2BMT7xu97SvpVB20ciDNFW) | 2:18 |
+| 47 | [miki cowboy](https://open.spotify.com/track/641fgTSsoeAYNkgR3m7HMU) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/2BMT7xu97SvpVB20ciDNFW) | 2:18 |
+| 48 | [Buggy](https://open.spotify.com/track/1tdw03JuoGckGhRhHXP3PY) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Buggy](https://open.spotify.com/album/4RucnCxQeWCuiuhOwFw7w9) | 3:04 |
 | 49 | [Éclipse](https://open.spotify.com/track/5gU2ECk7MScaV90WACzux7) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Éclipse](https://open.spotify.com/album/2tryf1NNnBazdfajfCu8CW) | 2:29 |
-| 50 | [BIG BODY](https://open.spotify.com/track/78HVYs7XnoRlReErp84Id7) | [Tarik Azzouz](https://open.spotify.com/artist/6KphPDgP2tw0PRK8bJfRAf), [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [BIG BODY](https://open.spotify.com/album/2wCL1N3sgRVfRrwBRa8Osu) | 2:59 |
+| 50 | [Rien qu'ça](https://open.spotify.com/track/237WM1VgB4TEGTXcUpCqnL) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Crèvecoeur](https://open.spotify.com/album/0WgY5ocBEP23tJiAMgawBv) | 2:33 |
 
 Snapshot ID: `Z92GLQAAAAD4JHQ8Kd4dA5KeXFod3fuS`

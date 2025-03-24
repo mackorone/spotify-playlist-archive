@@ -1093,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "Rural Nature Sounds",
+        "url": "https://open.spotify.com/album/2BaceU3ldmiPRUjPHb4imI"
+      },
+      "artists": [
+        {
+          "name": "Willow Drift",
+          "url": "https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Peaceful River",
+      "url": "https://open.spotify.com/track/5SC7RbJ6CgwfQxUy2QXEBM"
+    },
+    {
+      "album": {
         "name": "River Relaxation",
         "url": "https://open.spotify.com/album/2eFLy8Nq0j7oUt7KxZka22"
       },
@@ -1680,7 +1698,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-24",
       "duration_ms": 220000,
       "name": "Rural River",
       "url": "https://open.spotify.com/track/7lADwduMfUXphoDrs26cX3"

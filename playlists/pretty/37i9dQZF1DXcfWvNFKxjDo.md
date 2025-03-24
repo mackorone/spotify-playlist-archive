@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: AFROJACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,777 likes - 80 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,786 likes - 80 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 37 | [Peace And Noise \(feat\. Suli Breaks\)](https://open.spotify.com/track/628gLpI2vWS9a13FS1KJtP) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Suli Breaks](https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck) | [Peace And Noise \(feat\. Suli Breaks\)](https://open.spotify.com/album/073GkWUvivIh0EzJg2vImY) | 3:00 |
 | 38 | [Have You Ever Seen The Rain](https://open.spotify.com/track/1yzgMzhlFNdGAlL5Mopdoq) | [Outliers](https://open.spotify.com/artist/49D9GLjnzBcsaKiUByAMQL), [John Fogerty](https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t), [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Have You Ever Seen The Rain](https://open.spotify.com/album/5oDYNgWJJAzoqk5u5jZj8k) | 2:05 |
 | 39 | [Goodbye](https://open.spotify.com/track/3AMD3YBrlPw3NxZqNULK4H) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Goodbye](https://open.spotify.com/album/4wJJ91qvsRkV91wRjnCbJX) | 3:29 |
-| 40 | [Shake That](https://open.spotify.com/track/3t854jxXLppSGbOEYGQ3mI) | [Danimal](https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [Shake That](https://open.spotify.com/album/5fopLePPfYk56Ei99jOmLv) | 2:00 |
+| 40 | [Shake That](https://open.spotify.com/track/3t854jxXLppSGbOEYGQ3mI) | [Danimal](https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [okafuwa](https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj) | [Shake That](https://open.spotify.com/album/5fopLePPfYk56Ei99jOmLv) | 2:00 |
 | 41 | [What U Gonna Do](https://open.spotify.com/track/4pg7hhaiZgknKJNYWByh70) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx) | [What U Gonna Do](https://open.spotify.com/album/799Cz4a5XE3u6oNVEFZ1yQ) | 2:13 |
 | 42 | [All Right](https://open.spotify.com/track/3J5LoP6UnLst7xADfb5ZtY) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [All Right](https://open.spotify.com/album/4eikW8HEWg7LLFCzPQc8zi) | 5:19 |
 | 43 | [T\-Shirt](https://open.spotify.com/track/6PM6pYoesUlOQqO3R6AkPK) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C) | [T\-Shirt](https://open.spotify.com/album/2EaRYYNXuypVyGrXyLNGCI) | 2:50 |

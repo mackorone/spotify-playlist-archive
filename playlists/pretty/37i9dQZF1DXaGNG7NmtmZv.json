@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 232342,
+  "num_followers": 232383,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "State Of The World Address",
-        "url": "https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn"
-      },
-      "artists": [
-        {
-          "name": "Biohazard",
-          "url": "https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1"
-        }
-      ],
-      "duration_ms": 225960,
-      "name": "Down for Life",
-      "url": "https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "From Bliss To Devestation",
         "url": "https://open.spotify.com/album/6HUbHHOrjEUmttu2eVrACC"
       },
@@ -139,6 +123,22 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
+        "name": "State Of The World Address",
+        "url": "https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn"
+      },
+      "artists": [
+        {
+          "name": "Biohazard",
+          "url": "https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1"
+        }
+      ],
+      "duration_ms": 225960,
+      "name": "Down for Life",
+      "url": "https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
         "name": "Check Your People",
         "url": "https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe"
       },
@@ -151,6 +151,38 @@
       "duration_ms": 153173,
       "name": "Pure Trauma",
       "url": "https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Start Today",
+        "url": "https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh"
+      },
+      "artists": [
+        {
+          "name": "Gorilla Biscuits",
+          "url": "https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N"
+        }
+      ],
+      "duration_ms": 123706,
+      "name": "Start Today",
+      "url": "https://open.spotify.com/track/1izvrCbd0C75ScVDI6uVOl"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Set It Off",
+        "url": "https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW"
+      },
+      "artists": [
+        {
+          "name": "Madball",
+          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
+        }
+      ],
+      "duration_ms": 121706,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/2YL1QdU29cFAHrijICeiWA"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -187,22 +219,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Start Today",
-        "url": "https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh"
-      },
-      "artists": [
-        {
-          "name": "Gorilla Biscuits",
-          "url": "https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N"
-        }
-      ],
-      "duration_ms": 123706,
-      "name": "Start Today",
-      "url": "https://open.spotify.com/track/1izvrCbd0C75ScVDI6uVOl"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Give Blood",
         "url": "https://open.spotify.com/album/4FzDbUFfvnhWwkduv6q7g9"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 135471,
       "name": "World Peace",
       "url": "https://open.spotify.com/track/54P30qdoSqp3MgngBMZOW3"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "Set It Off",
-        "url": "https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW"
-      },
-      "artists": [
-        {
-          "name": "Madball",
-          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
-        }
-      ],
-      "duration_ms": 121706,
-      "name": "New York City",
-      "url": "https://open.spotify.com/track/2YL1QdU29cFAHrijICeiWA"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Dedication",
-        "url": "https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G"
-      },
-      "artists": [
-        {
-          "name": "Raised Fist",
-          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
-        }
-      ],
-      "duration_ms": 210626,
-      "name": "Get This Right!",
-      "url": "https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "What Doesn't Kill You Will Make You Stronger",
         "url": "https://open.spotify.com/album/4TOosWzdrqh1WxHkRbvxMZ"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 114680,
       "name": "River Runs Red",
       "url": "https://open.spotify.com/track/0j9sdD1cyPToHd3bkhuMG4"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Dedication",
+        "url": "https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G"
+      },
+      "artists": [
+        {
+          "name": "Raised Fist",
+          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
+        }
+      ],
+      "duration_ms": 210626,
+      "name": "Get This Right!",
+      "url": "https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
+        "name": "This Is Just the Beginning",
+        "url": "https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1"
+      },
+      "artists": [
+        {
+          "name": "Kill Your Idols",
+          "url": "https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT"
+        }
+      ],
+      "duration_ms": 96053,
+      "name": "Can't Take It Away",
+      "url": "https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
         "name": "In This Defiance",
         "url": "https://open.spotify.com/album/2dJ2HAbutOrZb3wqbYmRlR"
       },
@@ -587,18 +603,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Progression Through Unlearning",
-        "url": "https://open.spotify.com/album/7rIYvEhntzeIkIE78b486h"
+        "name": "God Loves Man Kills",
+        "url": "https://open.spotify.com/album/74mZMod95TaB70r5reWSdm"
       },
       "artists": [
         {
-          "name": "Snapcase",
-          "url": "https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W"
+          "name": "One King Down",
+          "url": "https://open.spotify.com/artist/782HAMHn2gK7WqWZZ7aJ9D"
         }
       ],
-      "duration_ms": 153586,
-      "name": "Caboose",
-      "url": "https://open.spotify.com/track/4XetuNNt2wx5lkZGS4L5r5"
+      "duration_ms": 217506,
+      "name": "In The Blood",
+      "url": "https://open.spotify.com/track/1xeq7bGqYQr89IH2dUwnJf"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -619,18 +635,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "God Loves Man Kills",
-        "url": "https://open.spotify.com/album/74mZMod95TaB70r5reWSdm"
+        "name": "Progression Through Unlearning",
+        "url": "https://open.spotify.com/album/7rIYvEhntzeIkIE78b486h"
       },
       "artists": [
         {
-          "name": "One King Down",
-          "url": "https://open.spotify.com/artist/782HAMHn2gK7WqWZZ7aJ9D"
+          "name": "Snapcase",
+          "url": "https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W"
         }
       ],
-      "duration_ms": 217506,
-      "name": "In The Blood",
-      "url": "https://open.spotify.com/track/1xeq7bGqYQr89IH2dUwnJf"
+      "duration_ms": 153586,
+      "name": "Caboose",
+      "url": "https://open.spotify.com/track/4XetuNNt2wx5lkZGS4L5r5"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -791,22 +807,6 @@
       "duration_ms": 220413,
       "name": "Animal Farm",
       "url": "https://open.spotify.com/track/7z6t9FzbkML9y9iIxqqldr"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "This Is Just the Beginning",
-        "url": "https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1"
-      },
-      "artists": [
-        {
-          "name": "Kill Your Idols",
-          "url": "https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT"
-        }
-      ],
-      "duration_ms": 96053,
-      "name": "Can't Take It Away",
-      "url": "https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C"
     }
   ],
   "unique_name": "Classic Hardcore",

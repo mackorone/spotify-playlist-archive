@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Japanese Breakfast
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,291,245 likes - 170 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,291,297 likes - 170 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 131 | [Pale Blue Eyes](https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pale Blue Eyes](https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D) | 3:09 |
 | 132 | [Scary/Calm](https://open.spotify.com/track/26lBQ3IoH3ylCowdzqNlW1) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [Scary/Calm](https://open.spotify.com/album/2SqrjIxBcRbtIj4rK2HHjR) | 2:59 |
 | 133 | [Smoke break](https://open.spotify.com/track/4oK7CIGPowSJgTJVQ9R9uB) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Smoke break](https://open.spotify.com/album/1i3Rpr69B7rVaMMB37McmT) | 2:48 |
-| 134 | [Blue Dream](https://open.spotify.com/track/4HpVJ2UQyBLT5UpnG4UdgW) | [The Crowd](https://open.spotify.com/artist/738r8BCGhwUA9G61A2cNYK), [Caye](https://open.spotify.com/artist/3kkoYvxvV00UXPJCqMCljL), [Alec Joseph](https://open.spotify.com/artist/5Qq0XKw1W1jzVAcyYkckkr) | [Blue Dream](https://open.spotify.com/album/7AKd3CD7QYFQSO35LBvxlt) | 3:55 |
+| 134 | [Blue Dream](https://open.spotify.com/track/4HpVJ2UQyBLT5UpnG4UdgW) | [The Crowd](https://open.spotify.com/artist/738r8BCGhwUA9G61A2cNYK), [Alec Joseph](https://open.spotify.com/artist/5Qq0XKw1W1jzVAcyYkckkr), [Caye](https://open.spotify.com/artist/3kkoYvxvV00UXPJCqMCljL) | [Blue Dream](https://open.spotify.com/album/7AKd3CD7QYFQSO35LBvxlt) | 3:55 |
 | 135 | [I’m A Fool](https://open.spotify.com/track/4cWO14OwuDqi2Bq9ox3TJH) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [The Moon Is In The Wrong Place \(Deluxe Edition\)](https://open.spotify.com/album/31bGqyJu3AtpzlFzNoE1aM) | 3:04 |
 | 136 | [Cadillac](https://open.spotify.com/track/5wkPrNPC9DFUCyLIJ9wytE) | [Colin Miller](https://open.spotify.com/artist/0vRHLsgnZk64dSk4mKgpaw) | [Cadillac](https://open.spotify.com/album/66hxxcnB5jqZm6wxgHUabu) | 3:16 |
 | 137 | [Turns Out](https://open.spotify.com/track/0J44KtQTje94RvWPLzFXt2) | [vern matz](https://open.spotify.com/artist/3ueZVX55ehCZVl46S1YTcj) | [The Moon Is a Harsh Mistress](https://open.spotify.com/album/0wzsNoLN1rzCYi8QhtGe5Y) | 2:02 |

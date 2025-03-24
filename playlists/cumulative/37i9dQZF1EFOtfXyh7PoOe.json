@@ -2201,6 +2201,24 @@
     },
     {
       "album": {
+        "name": "Season of Our Love",
+        "url": "https://open.spotify.com/album/4M15n8kQVAQkGrP6XoBhyi"
+      },
+      "artists": [
+        {
+          "name": "R.I.Pablo",
+          "url": "https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb"
+        }
+      ],
+      "date_added": "2025-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128500,
+      "name": "Season of Our Love",
+      "url": "https://open.spotify.com/track/0lpJumwXtUE3xD8RP0oll4"
+    },
+    {
+      "album": {
         "name": "Hoppa (pt. 1)",
         "url": "https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE"
       },

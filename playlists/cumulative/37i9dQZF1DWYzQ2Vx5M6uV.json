@@ -1111,6 +1111,28 @@
     },
     {
       "album": {
+        "name": "Curame",
+        "url": "https://open.spotify.com/album/70Gzwb0yzk3e3SH22lWP6H"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        },
+        {
+          "name": "Alexis Play",
+          "url": "https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169813,
+      "name": "Curame",
+      "url": "https://open.spotify.com/track/5iI3EZ30ehidBbXe2jqOLF"
+    },
+    {
+      "album": {
         "name": "Dame Un Break (Remix)",
         "url": "https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN"
       },
@@ -1932,7 +1954,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-24",
       "duration_ms": 187636,
       "name": "I'll Show You",
       "url": "https://open.spotify.com/track/3YMpqqttldtinT0F9cAbjJ"
@@ -3033,7 +3055,7 @@
     },
     {
       "album": {
-        "name": "Morena",
+        "name": "morena",
         "url": "https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83"
       },
       "artists": [
@@ -3046,7 +3068,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 188930,
-      "name": "Morena",
+      "name": "morena",
       "url": "https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt"
     },
     {

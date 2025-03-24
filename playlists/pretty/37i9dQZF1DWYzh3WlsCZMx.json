@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36\">HBO's Rap Sh!t</a>",
-  "num_followers": 39714,
+  "num_followers": 39734,
   "original_name": "HBO Rap Sh!t's Taste",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Melt My Eyez See Your Future",
-        "url": "https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q"
-      },
-      "artists": [
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "X-Wing",
-      "url": "https://open.spotify.com/track/41X9qar6SruZOPLIV7sgUw"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 223712,
       "name": "Bodak Yellow",
       "url": "https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Melt My Eyez See Your Future",
+        "url": "https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "X-Wing",
+      "url": "https://open.spotify.com/track/41X9qar6SruZOPLIV7sgUw"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Beam Me Up Scotty",
-        "url": "https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 246752,
-      "name": "Itty Bitty Piggy",
-      "url": "https://open.spotify.com/track/1uYxHHZBRliM9cNzCxq93g"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Plan B",
         "url": "https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 163764,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Beam Me Up Scotty",
+        "url": "https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 246752,
+      "name": "Itty Bitty Piggy",
+      "url": "https://open.spotify.com/track/1uYxHHZBRliM9cNzCxq93g"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/7ChOeB6OLdPZcNyBNMboB8"
+      },
+      "artists": [
+        {
+          "name": "Big Jade",
+          "url": "https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od"
+        }
+      ],
+      "duration_ms": 135882,
+      "name": "Gucci Bag",
+      "url": "https://open.spotify.com/track/3pNeE3ImWzplc0tnUpmh2a"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Broke with Expensive Taste",
         "url": "https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 253053,
       "name": "Look Back At Me",
       "url": "https://open.spotify.com/track/4Q91K9yFyccseq4xtD1FYK"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/7ChOeB6OLdPZcNyBNMboB8"
-      },
-      "artists": [
-        {
-          "name": "Big Jade",
-          "url": "https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od"
-        }
-      ],
-      "duration_ms": 135882,
-      "name": "Gucci Bag",
-      "url": "https://open.spotify.com/track/3pNeE3ImWzplc0tnUpmh2a"
     },
     {
       "added_at": "2022-10-01 16:00:00",

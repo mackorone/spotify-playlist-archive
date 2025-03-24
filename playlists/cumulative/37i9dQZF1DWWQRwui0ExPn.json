@@ -8562,7 +8562,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-24",
       "duration_ms": 135793,
       "name": "Autumn By Day",
       "url": "https://open.spotify.com/track/3LeUuH1mBJ5gDYy341G5F1"
@@ -47244,7 +47244,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-21",
+      "date_removed": null,
       "duration_ms": 150361,
       "name": "Getting Higher",
       "url": "https://open.spotify.com/track/4sS1G2SEX7SL8Uu0A1facA"
@@ -124560,7 +124560,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-24",
       "duration_ms": 169430,
       "name": "The Stars and I",
       "url": "https://open.spotify.com/track/4D7CjAN75AjAnaZqEdsXfW"
@@ -130114,6 +130114,24 @@
       "duration_ms": 97349,
       "name": "Under The Palm Trees",
       "url": "https://open.spotify.com/track/4NQSDtarzVzsi22y5KUN2D"
+    },
+    {
+      "album": {
+        "name": "Under the Pressure",
+        "url": "https://open.spotify.com/album/0IcBcBpR4CTmekyDsdGBp2"
+      },
+      "artists": [
+        {
+          "name": "Cotton Candy Boulevard",
+          "url": "https://open.spotify.com/artist/0y8PqsGy2nL9LqwL709086"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124852,
+      "name": "Under the Pressure",
+      "url": "https://open.spotify.com/track/7FKPxX9CfrqJAccM8EyZdC"
     },
     {
       "album": {

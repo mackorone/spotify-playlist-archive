@@ -4,11 +4,12 @@
 
 > High energy Techno to boost your workout.
 
-251 songs - 21 hr 28 min
+252 songs - 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1981](https://open.spotify.com/track/63iBv67DSrEao8sDW3byIe) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU) | [1981](https://open.spotify.com/album/4XJv3sgIdEP3vCaaZeDReQ) | 6:11 | 2022-07-05 | 2023-02-22 |
+| [4am In A Rave \(feat\. rhys from the sticks\)](https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [4am In A Rave / Speed Is A Deed](https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ) | 2:27 | 2025-03-21 |  |
 | [A Square \- Original Mix](https://open.spotify.com/track/5beDV8FRj5NgR3fuQDiJ3e) | [Slin Bourgh](https://open.spotify.com/artist/6Okn2ApUQv56TnYTOhCidM) | [All One](https://open.spotify.com/album/6nJ181DEPwXktVxIfERDqV) | 4:13 | 2022-07-05 | 2022-07-29 |
 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 | 2022-07-05 | 2024-06-22 |
 | [ACID](https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [ACID](https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6) | 3:01 | 2023-05-12 |  |
@@ -56,7 +57,7 @@
 | [Destiny](https://open.spotify.com/track/222opzC3cyboeyO6KrK6L7) | [Monsieur Warradi](https://open.spotify.com/artist/5gARJT3niBXARYHtHWB1eA) | [Destiny](https://open.spotify.com/album/2wwDX8cXpomw1eEiQk2cPU) | 4:56 | 2022-07-05 | 2022-07-29 |
 | [Diamonds On My Mind](https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Diamonds On My Mind](https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs) | 2:48 | 2023-08-25 |  |
 | [Dimension](https://open.spotify.com/track/0pW2QctYRtN7crHRcGYaxy) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Dimension](https://open.spotify.com/album/4gsbBzVgdrPwfK84vlLluJ) | 5:55 | 2022-12-16 | 2023-02-13 |
-| [Direct Dizko](https://open.spotify.com/track/2L0G811PkI9e8vr1YZir2T) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [S.O\. Project](https://open.spotify.com/artist/6NJ6jCt44aupOI2ECwo2zN) | [Direct Dizko](https://open.spotify.com/album/6RvM8Eu3uDTonjyetFmWd0) | 3:19 | 2024-11-22 |  |
+| [Direct Dizko](https://open.spotify.com/track/2L0G811PkI9e8vr1YZir2T) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [S.O\. Project](https://open.spotify.com/artist/6NJ6jCt44aupOI2ECwo2zN) | [Direct Dizko](https://open.spotify.com/album/6RvM8Eu3uDTonjyetFmWd0) | 3:19 | 2024-11-22 | 2025-03-24 |
 | [Dirty Dicer \- Hk:22 Remix](https://open.spotify.com/track/5iiw4eOqKAhOygedGT2zqr) | [Rachel Raw](https://open.spotify.com/artist/2oCsW72XwqwBxv1NMUeaqv), [HK:22](https://open.spotify.com/artist/6PPBbNiP2tQRhEbO8p4YpO) | [Dirty Dicer](https://open.spotify.com/album/0Bmu8kAjCfpVFrBg3i08Xj) | 7:12 | 2022-07-11 | 2022-07-29 |
 | [Divine](https://open.spotify.com/track/26MH4z7yzxzbyIXASQzgcE) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp), [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [Divine](https://open.spotify.com/album/2KGYL2E38AnuuueSzu5gaV) | 6:14 | 2022-07-05 | 2022-07-28 |
 | [Division \- Radio\-Edit](https://open.spotify.com/track/1ynZUjXYKCpeMyUpGxtHcS) | [Phoenix Movement](https://open.spotify.com/artist/7ffYTOTu3Z0t4a2A7515cL), [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [Division \(Radio\-Edit\)](https://open.spotify.com/album/0gESiltZOVYsFpXdedET9Y) | 5:40 | 2022-07-11 | 2022-07-13 |

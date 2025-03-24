@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 84361,
+  "num_followers": 84364,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Subzero (Speed Plug)",
+        "url": "https://open.spotify.com/album/44mblZRV7Zfkd4NJXO58dI"
+      },
+      "artists": [
+        {
+          "name": "Caeljugz",
+          "url": "https://open.spotify.com/artist/70QYj3IRKyvbr7xZcpzkZw"
+        }
+      ],
+      "duration_ms": 125156,
+      "name": "Subzero (Speed Plug)",
+      "url": "https://open.spotify.com/track/7nRkeXa1Kn63CV1WmVxttB"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Plug! (Speed Plug)",
         "url": "https://open.spotify.com/album/16zg9fzXtFEqb0q0367yxd"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 102250,
       "name": "Plug! (Speed Plug)",
       "url": "https://open.spotify.com/track/3LZIqLS8BfUZp9T1k39IZb"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Subzero (Speed Plug)",
-        "url": "https://open.spotify.com/album/44mblZRV7Zfkd4NJXO58dI"
-      },
-      "artists": [
-        {
-          "name": "Caeljugz",
-          "url": "https://open.spotify.com/artist/70QYj3IRKyvbr7xZcpzkZw"
-        }
-      ],
-      "duration_ms": 125156,
-      "name": "Subzero (Speed Plug)",
-      "url": "https://open.spotify.com/track/7nRkeXa1Kn63CV1WmVxttB"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -543,42 +543,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Semblante de Criminoso Speed",
-        "url": "https://open.spotify.com/album/4OapHKHJ62yQphWbquFKQt"
-      },
-      "artists": [
-        {
-          "name": "DJ Cayoo",
-          "url": "https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv"
-        },
-        {
-          "name": "MC Myres",
-          "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz"
-        }
-      ],
-      "duration_ms": 98475,
-      "name": "Semblante de Criminoso Speed",
-      "url": "https://open.spotify.com/track/4NXhoDZKkhtWfulsgqsmOa"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 176538,
-      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Virgulado",
         "url": "https://open.spotify.com/album/6N1NIsdnVMvU9SGAFcOgSk"
       },
@@ -595,6 +559,26 @@
       "duration_ms": 127011,
       "name": "Virgulado - Speed",
       "url": "https://open.spotify.com/track/2W9O45APFy8vqX5g2Rtfns"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Semblante de Criminoso Speed",
+        "url": "https://open.spotify.com/album/4OapHKHJ62yQphWbquFKQt"
+      },
+      "artists": [
+        {
+          "name": "DJ Cayoo",
+          "url": "https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv"
+        },
+        {
+          "name": "MC Myres",
+          "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz"
+        }
+      ],
+      "duration_ms": 98475,
+      "name": "Semblante de Criminoso Speed",
+      "url": "https://open.spotify.com/track/4NXhoDZKkhtWfulsgqsmOa"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -631,6 +615,22 @@
       "duration_ms": 103894,
       "name": "Posturado e Calmo (Speedplug)",
       "url": "https://open.spotify.com/track/6fpUsqLmeozvHBzWPJslmZ"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 176538,
+      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
-        "url": "https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 160421,
-      "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
-      "url": "https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Ah Vai Ter Que Descer - Remix",
         "url": "https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 140628,
       "name": "Luxo & Crime Speed",
       "url": "https://open.spotify.com/track/5ePLQDDDMDk2iJgJuciFq6"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
+        "url": "https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 160421,
+      "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
+      "url": "https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "SIMPLESMENTE ELA, N\u00c3O CONSIGO VIVER LONGE DESSA SURTADA",
+        "url": "https://open.spotify.com/album/3TDTPVThBuyF7TxZeg5ccU"
+      },
+      "artists": [
+        {
+          "name": "Funk S\u00c9RIE GOLD",
+          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
+        }
+      ],
+      "duration_ms": 153795,
+      "name": "SIMPLESMENTE ELA, N\u00c3O CONSIGO VIVER LONGE DESSA SURTADA",
+      "url": "https://open.spotify.com/track/2vaHyhqQxKnNOtznsiSRpy"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
         "url": "https://open.spotify.com/album/3xRQIsFyx99ERIDNL7T7eA"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 168615,
       "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
       "url": "https://open.spotify.com/track/7mSweyinAvjEFBy6sSTjkg"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "SIMPLESMENTE ELA, N\u00c3O CONSIGO VIVER LONGE DESSA SURTADA",
-        "url": "https://open.spotify.com/album/3TDTPVThBuyF7TxZeg5ccU"
-      },
-      "artists": [
-        {
-          "name": "Funk S\u00c9RIE GOLD",
-          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
-        }
-      ],
-      "duration_ms": 153795,
-      "name": "SIMPLESMENTE ELA, N\u00c3O CONSIGO VIVER LONGE DESSA SURTADA",
-      "url": "https://open.spotify.com/track/2vaHyhqQxKnNOtznsiSRpy"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -1223,30 +1223,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ",
-        "url": "https://open.spotify.com/album/4ZZFHTy6rCdrnbqCoEd0B7"
-      },
-      "artists": [
-        {
-          "name": "Funk S\u00c9RIE GOLD",
-          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
-        },
-        {
-          "name": "ARTHUR DE AFC",
-          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
-        },
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ",
-      "url": "https://open.spotify.com/track/43qgbgEvGQKI8PofVgFFbH"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Gorilla Dream, Vol. I",
         "url": "https://open.spotify.com/album/2q9mARnuyo6TwdNmTwRkqk"
       },
@@ -1275,26 +1251,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "EU N\u00c3O SOU UM G\u00caNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA",
-        "url": "https://open.spotify.com/album/6Uo1EzghXdykjOM1lzbx04"
-      },
-      "artists": [
-        {
-          "name": "PL JUNIOR",
-          "url": "https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0"
-        },
-        {
-          "name": "ANNY SUCESSADA",
-          "url": "https://open.spotify.com/artist/2QgksP01YMIrB0y7DTXqlj"
-        }
-      ],
-      "duration_ms": 106631,
-      "name": "EU N\u00c3O SOU UM G\u00caNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA",
-      "url": "https://open.spotify.com/track/1YjPBxRkXcybgV3Jq16dIW"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Palha\u00e7ada Speed",
         "url": "https://open.spotify.com/album/54DM6nkdgSQoaHAMyPlQ65"
       },
@@ -1315,6 +1271,30 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ",
+        "url": "https://open.spotify.com/album/4ZZFHTy6rCdrnbqCoEd0B7"
+      },
+      "artists": [
+        {
+          "name": "Funk S\u00c9RIE GOLD",
+          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
+        },
+        {
+          "name": "ARTHUR DE AFC",
+          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
+        },
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ",
+      "url": "https://open.spotify.com/track/43qgbgEvGQKI8PofVgFFbH"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Ametista (Speed Up)",
         "url": "https://open.spotify.com/album/6LdidnaG9Du6NDSMv90mgg"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 107095,
       "name": "Ametista (Speed Up)",
       "url": "https://open.spotify.com/track/51MY4wQdwpyV7m8nW7a8uq"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "EU N\u00c3O SOU UM G\u00caNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA",
+        "url": "https://open.spotify.com/album/6Uo1EzghXdykjOM1lzbx04"
+      },
+      "artists": [
+        {
+          "name": "PL JUNIOR",
+          "url": "https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0"
+        },
+        {
+          "name": "ANNY SUCESSADA",
+          "url": "https://open.spotify.com/artist/2QgksP01YMIrB0y7DTXqlj"
+        }
+      ],
+      "duration_ms": 106631,
+      "name": "EU N\u00c3O SOU UM G\u00caNIO MAS SOU O CARA QUE REALIZA SEUS DESEJOS FANATICA",
+      "url": "https://open.spotify.com/track/1YjPBxRkXcybgV3Jq16dIW"
     }
   ],
   "unique_name": "speed BR",

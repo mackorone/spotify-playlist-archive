@@ -589,6 +589,24 @@
     },
     {
       "album": {
+        "name": "backwards loving",
+        "url": "https://open.spotify.com/album/0zUmHIH9PEE2SICrIppPe4"
+      },
+      "artists": [
+        {
+          "name": "Tia Gordon",
+          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "backwards loving",
+      "url": "https://open.spotify.com/track/0YXpXUlsDBIbHZMIrSyHym"
+    },
+    {
+      "album": {
         "name": "BAD4U",
         "url": "https://open.spotify.com/album/4qHTcBrDRkp7X9gfypo0RX"
       },
@@ -2204,7 +2222,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-22",
+      "date_removed": null,
       "duration_ms": 197303,
       "name": "Glow",
       "url": "https://open.spotify.com/track/0coL1H5F5ZvN4fzPMWxvWq"
@@ -3760,7 +3778,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-24",
       "duration_ms": 192440,
       "name": "Little Red Car",
       "url": "https://open.spotify.com/track/4EV0TdemWsnCfsokT6zfZA"
@@ -3926,7 +3944,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-24",
       "duration_ms": 149400,
       "name": "LYTM",
       "url": "https://open.spotify.com/track/5uV05m9GmsbSyUinuiV1Z3"

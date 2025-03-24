@@ -2777,6 +2777,24 @@
     },
     {
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2qIrswJEQtfCmgobWtsQ5X"
+      },
+      "artists": [
+        {
+          "name": "Maymay Entrata",
+          "url": "https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI"
+        }
+      ],
+      "date_added": "2025-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145134,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/19sHbXsObFK88fuwExVoWT"
+    },
+    {
+      "album": {
         "name": "amy allen",
         "url": "https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb"
       },

@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e9\u05e7\u05dc \u05d5\u05d2\u05dc\u05e2\u05d3 \u05db\u05d4\u05e0\u05d0 ",
-  "num_followers": 31670,
+  "num_followers": 31680,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,18 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
-        "name": "\u05de\u05d6\u05dc \u05e9\u05d9\u05e9 \u05dc\u05d9 \u05de\u05d5\u05d6\u05d9\u05e7\u05d4",
-        "url": "https://open.spotify.com/album/24yew2vDaykmrWYYaz92jM"
+        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
       },
       "artists": [
         {
-          "name": "Girafot",
-          "url": "https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy"
-        },
-        {
-          "name": "Daniel sun Krief",
-          "url": "https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm"
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
         }
       ],
-      "duration_ms": 174452,
-      "name": "\u05d4\u05db\u05d9 \u05d9\u05e4\u05d4 \u05d1\u05d3\u05d9\u05e1\u05e7\u05d5",
-      "url": "https://open.spotify.com/track/5P2Jj9F8jXWvbflKao1Fjg"
+      "duration_ms": 201004,
+      "name": "\u05d3\u05de\u05d9\u05d5\u05df \u05d7\u05d5\u05e4\u05e9\u05d9",
+      "url": "https://open.spotify.com/track/53vzjmA9qNy7aztCbYUSEG"
     },
     {
       "added_at": "2025-03-20 22:00:07",
@@ -203,18 +199,22 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
-        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
+        "name": "\u05de\u05d6\u05dc \u05e9\u05d9\u05e9 \u05dc\u05d9 \u05de\u05d5\u05d6\u05d9\u05e7\u05d4",
+        "url": "https://open.spotify.com/album/24yew2vDaykmrWYYaz92jM"
       },
       "artists": [
         {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+          "name": "Girafot",
+          "url": "https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy"
+        },
+        {
+          "name": "Daniel sun Krief",
+          "url": "https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm"
         }
       ],
-      "duration_ms": 201004,
-      "name": "\u05d3\u05de\u05d9\u05d5\u05df \u05d7\u05d5\u05e4\u05e9\u05d9",
-      "url": "https://open.spotify.com/track/53vzjmA9qNy7aztCbYUSEG"
+      "duration_ms": 174452,
+      "name": "\u05d4\u05db\u05d9 \u05d9\u05e4\u05d4 \u05d1\u05d3\u05d9\u05e1\u05e7\u05d5",
+      "url": "https://open.spotify.com/track/5P2Jj9F8jXWvbflKao1Fjg"
     },
     {
       "added_at": "2025-03-20 22:00:07",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
+        "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
+        "url": "https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9"
+      },
+      "artists": [
+        {
+          "name": "Rona Kenan",
+          "url": "https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h"
+        }
+      ],
+      "duration_ms": 204423,
+      "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
+      "url": "https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr"
+    },
+    {
+      "added_at": "2025-03-20 22:00:07",
+      "album": {
         "name": "\u05e1\u05d9\u05d1\u05d4 \u05dc\u05d4\u05de\u05e9\u05d9\u05da",
         "url": "https://open.spotify.com/album/3vlqdMupazRdXbkBoFhVbR"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 179875,
       "name": "\u05e1\u05d9\u05d1\u05d4 \u05dc\u05d4\u05de\u05e9\u05d9\u05da",
       "url": "https://open.spotify.com/track/2mT8XmPzfQ4TuWNUgLcjgR"
-    },
-    {
-      "added_at": "2025-03-20 22:00:07",
-      "album": {
-        "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
-        "url": "https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9"
-      },
-      "artists": [
-        {
-          "name": "Rona Kenan",
-          "url": "https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h"
-        }
-      ],
-      "duration_ms": 204423,
-      "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
-      "url": "https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr"
     },
     {
       "added_at": "2025-03-20 22:00:07",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
-        "name": "\u05dc\u05d0 \u05d6\u05de\u05df \u05d8\u05d5\u05d1",
-        "url": "https://open.spotify.com/album/2iNpn8Bzi48aKNFqBuHpxY"
-      },
-      "artists": [
-        {
-          "name": "Omer Moskovich",
-          "url": "https://open.spotify.com/artist/0QRKWNU8pxIapKWMqgX72s"
-        }
-      ],
-      "duration_ms": 230874,
-      "name": "\u05dc\u05d0 \u05d6\u05de\u05df \u05d8\u05d5\u05d1",
-      "url": "https://open.spotify.com/track/7rJw8ABsu0fwWFSiQJ3zWD"
-    },
-    {
-      "added_at": "2025-03-20 22:00:07",
-      "album": {
         "name": "\u05d1\u05d9\u05ea \u05e4\u05ea\u05d5\u05d7 \u05d7\u05dc\u05e7 \u05d1'",
         "url": "https://open.spotify.com/album/21absbNyeEXykXGFsK62mP"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 196914,
       "name": "\u05dc\u05d1\u05d6\u05d1\u05d6 \u05dc\u05da \u05d0\u05ea \u05d4\u05d6\u05de\u05df",
       "url": "https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav"
+    },
+    {
+      "added_at": "2025-03-20 22:00:07",
+      "album": {
+        "name": "\u05dc\u05d0 \u05d6\u05de\u05df \u05d8\u05d5\u05d1",
+        "url": "https://open.spotify.com/album/2iNpn8Bzi48aKNFqBuHpxY"
+      },
+      "artists": [
+        {
+          "name": "Omer Moskovich",
+          "url": "https://open.spotify.com/artist/0QRKWNU8pxIapKWMqgX72s"
+        }
+      ],
+      "duration_ms": 230874,
+      "name": "\u05dc\u05d0 \u05d6\u05de\u05df \u05d8\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/7rJw8ABsu0fwWFSiQJ3zWD"
     },
     {
       "added_at": "2025-03-20 22:00:07",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
-        "name": "\u05d4\u05db\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9",
-        "url": "https://open.spotify.com/album/3eV2YgJCNNwGLFRRx6bC8C"
-      },
-      "artists": [
-        {
-          "name": "\u05e7\u05d9\u05e7\u05d9 \u05de\u05dc\u05d9\u05e0\u05e7\u05d9",
-          "url": "https://open.spotify.com/artist/3IC3e7Xim7DpP5jBbzqdmo"
-        }
-      ],
-      "duration_ms": 150829,
-      "name": "\u05d4\u05db\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9",
-      "url": "https://open.spotify.com/track/4C8fqtZdD1uvmO1JKMs0zy"
-    },
-    {
-      "added_at": "2025-03-20 22:00:07",
-      "album": {
         "name": "\u05e0\u05e9\u05de\u05d4 \u05d9\u05e7\u05e8\u05d4",
         "url": "https://open.spotify.com/album/7sAM2w4rfxqovH8Ypudtdk"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
-        "name": "A Knight\u2019s Tale",
-        "url": "https://open.spotify.com/album/5vWYUCEKVEUj8KBnTIbcwX"
+        "name": "\u05d4\u05db\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9",
+        "url": "https://open.spotify.com/album/3eV2YgJCNNwGLFRRx6bC8C"
       },
       "artists": [
         {
-          "name": "Tamir",
-          "url": "https://open.spotify.com/artist/5FCbf39u4swxvJaxC2ZcDf"
+          "name": "\u05e7\u05d9\u05e7\u05d9 \u05de\u05dc\u05d9\u05e0\u05e7\u05d9",
+          "url": "https://open.spotify.com/artist/3IC3e7Xim7DpP5jBbzqdmo"
         }
       ],
-      "duration_ms": 153200,
-      "name": "Big Wolf",
-      "url": "https://open.spotify.com/track/5oyh5aHumv5soKCDA1f9B5"
+      "duration_ms": 150829,
+      "name": "\u05d4\u05db\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9",
+      "url": "https://open.spotify.com/track/4C8fqtZdD1uvmO1JKMs0zy"
     },
     {
       "added_at": "2025-03-20 22:00:07",
@@ -907,6 +891,22 @@
       "duration_ms": 180661,
       "name": "Running Out of Time",
       "url": "https://open.spotify.com/track/1KUEdMf6Xnzax3U51jQlrE"
+    },
+    {
+      "added_at": "2025-03-20 22:00:07",
+      "album": {
+        "name": "A Knight\u2019s Tale",
+        "url": "https://open.spotify.com/album/5vWYUCEKVEUj8KBnTIbcwX"
+      },
+      "artists": [
+        {
+          "name": "Tamir",
+          "url": "https://open.spotify.com/artist/5FCbf39u4swxvJaxC2ZcDf"
+        }
+      ],
+      "duration_ms": 153200,
+      "name": "Big Wolf",
+      "url": "https://open.spotify.com/track/5oyh5aHumv5soKCDA1f9B5"
     },
     {
       "added_at": "2025-03-20 22:00:07",
@@ -991,22 +991,22 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
-        "name": "\u05de\u05d4 \u05d0\u05de\u05d9\u05ea\u05d9",
-        "url": "https://open.spotify.com/album/22fJie47DUFGtk5z09hHpx"
+        "name": "Chasin' You",
+        "url": "https://open.spotify.com/album/7xpEGPX6zHBckWJsRsyg05"
       },
       "artists": [
         {
-          "name": "Meirav Hellinger",
-          "url": "https://open.spotify.com/artist/5I33atw5kt4yjIVMgvBBgy"
+          "name": "Jimit",
+          "url": "https://open.spotify.com/artist/0hc1IxPxpmUgEIZGGUGrvm"
         },
         {
-          "name": "\u05dc\u05d9\u05e2\u05dd \u05d7\u05db\u05de\u05d5\u05df",
-          "url": "https://open.spotify.com/artist/73WXnxFFw9slGZoWweDFPh"
+          "name": "Qerenne",
+          "url": "https://open.spotify.com/artist/7JZm3yOXS88tsetaCzU7Kk"
         }
       ],
-      "duration_ms": 183750,
-      "name": "\u05de\u05d4 \u05d0\u05de\u05d9\u05ea\u05d9",
-      "url": "https://open.spotify.com/track/7feVXCRXPondzNwVP9UWH7"
+      "duration_ms": 220800,
+      "name": "Chasin' You",
+      "url": "https://open.spotify.com/track/1UK85DkBUwCEfy4tMEO3tz"
     },
     {
       "added_at": "2025-03-20 22:00:07",
@@ -1027,22 +1027,38 @@
     {
       "added_at": "2025-03-20 22:00:07",
       "album": {
-        "name": "Chasin' You",
-        "url": "https://open.spotify.com/album/7xpEGPX6zHBckWJsRsyg05"
+        "name": "\u05e9\u05d9\u05e8\u05d9\u05dd \u05de\u05d3\u05dc\u05ea \u05d0\u05dc \u05d3\u05dc\u05ea (\u05d1\u05d0\u05e8\u05d1\u05d9 Live)",
+        "url": "https://open.spotify.com/album/3nYrAdAwkgMH3GVLuksRCp"
       },
       "artists": [
         {
-          "name": "Jimit",
-          "url": "https://open.spotify.com/artist/0hc1IxPxpmUgEIZGGUGrvm"
-        },
-        {
-          "name": "Qerenne",
-          "url": "https://open.spotify.com/artist/7JZm3yOXS88tsetaCzU7Kk"
+          "name": "Dudu Tassa",
+          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
         }
       ],
-      "duration_ms": 220800,
-      "name": "Chasin' You",
-      "url": "https://open.spotify.com/track/1UK85DkBUwCEfy4tMEO3tz"
+      "duration_ms": 220360,
+      "name": "\u05dc\u05d4\u05d9\u05d5\u05ea \u05dc\u05d1\u05d3 - \u05d1\u05d0\u05e8\u05d1\u05d9 Live",
+      "url": "https://open.spotify.com/track/4IUuctG736RauTKMbWCP3T"
+    },
+    {
+      "added_at": "2025-03-20 22:00:07",
+      "album": {
+        "name": "\u05de\u05d4 \u05d0\u05de\u05d9\u05ea\u05d9",
+        "url": "https://open.spotify.com/album/22fJie47DUFGtk5z09hHpx"
+      },
+      "artists": [
+        {
+          "name": "Meirav Hellinger",
+          "url": "https://open.spotify.com/artist/5I33atw5kt4yjIVMgvBBgy"
+        },
+        {
+          "name": "\u05dc\u05d9\u05e2\u05dd \u05d7\u05db\u05de\u05d5\u05df",
+          "url": "https://open.spotify.com/artist/73WXnxFFw9slGZoWweDFPh"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "\u05de\u05d4 \u05d0\u05de\u05d9\u05ea\u05d9",
+      "url": "https://open.spotify.com/track/7feVXCRXPondzNwVP9UWH7"
     },
     {
       "added_at": "2025-03-20 22:00:07",
@@ -1075,22 +1091,6 @@
       "duration_ms": 228800,
       "name": "\u05e0\u05e9\u05de\u05d4",
       "url": "https://open.spotify.com/track/4QmYnjokBcfQasuhrzuVT3"
-    },
-    {
-      "added_at": "2025-03-20 22:00:07",
-      "album": {
-        "name": "\u05e9\u05d9\u05e8\u05d9\u05dd \u05de\u05d3\u05dc\u05ea \u05d0\u05dc \u05d3\u05dc\u05ea (\u05d1\u05d0\u05e8\u05d1\u05d9 Live)",
-        "url": "https://open.spotify.com/album/3nYrAdAwkgMH3GVLuksRCp"
-      },
-      "artists": [
-        {
-          "name": "Dudu Tassa",
-          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
-        }
-      ],
-      "duration_ms": 220360,
-      "name": "\u05dc\u05d4\u05d9\u05d5\u05ea \u05dc\u05d1\u05d3 - \u05d1\u05d0\u05e8\u05d1\u05d9 Live",
-      "url": "https://open.spotify.com/track/4IUuctG736RauTKMbWCP3T"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

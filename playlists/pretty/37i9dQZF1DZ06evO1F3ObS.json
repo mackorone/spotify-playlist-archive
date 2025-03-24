@@ -1,12 +1,12 @@
 {
   "description": "This is ReoNa. The essential tracks, all in one playlist.",
-  "num_followers": 21590,
+  "num_followers": 21596,
   "original_name": "This Is ReoNa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9ysAAAAAABYydrE4q8eIGwJDXNgFaIf",
+  "snapshot_id": "Z939gAAAAADZ32GSzecR7a6P0r/PKT3Q",
   "tracks": [
     {
       "added_at": null,
@@ -719,6 +719,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "Rea(s)oN -Acoustic Live ver.-",
+      "url": "https://open.spotify.com/track/5Fa7xFiV4wiqI6od5Tge6O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GG (Special Edition)",
         "url": "https://open.spotify.com/album/1O3QML316alCnpp9MTKg5x"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 288973,
       "name": "\u3058\u3083\u3042\u306a",
       "url": "https://open.spotify.com/track/5P5VnHLh7dXkfeX36AT5hL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj"
-      },
-      "artists": [
-        {
-          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
-          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
-        },
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 309600,
-      "name": "Rea(s)oN -Acoustic Live ver.-",
-      "url": "https://open.spotify.com/track/5Fa7xFiV4wiqI6od5Tge6O"
     },
     {
       "added_at": null,

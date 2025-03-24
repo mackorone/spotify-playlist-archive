@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"Nijigasaki High School Idol Club\". \u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\n",
-  "num_followers": 17680,
+  "num_followers": 17690,
   "original_name": "Love Live! Nijigasaki High School Idol Club",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2025-03-11 17:14:36",
       "album": {
-        "name": "\u3069\u3053\u306b\u3044\u3066\u3082\u541b\u306f\u541b",
-        "url": "https://open.spotify.com/album/3ByQWR8ogTlrWM7lh5i5Om"
-      },
-      "artists": [
-        {
-          "name": "\u8fd1\u6c5f\u5f7c\u65b9 (CV.\u9b3c\u982d\u660e\u91cc)",
-          "url": "https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI"
-        }
-      ],
-      "duration_ms": 248786,
-      "name": "Daydream Mermaid",
-      "url": "https://open.spotify.com/track/2HEIUm9pIViliot1yfkJi3"
-    },
-    {
-      "added_at": "2025-03-11 17:14:36",
-      "album": {
         "name": "Eutopia / EMOTION / stars we chase (\u4e09\u8239\u681e\u5b50\u76e4)",
         "url": "https://open.spotify.com/album/0LiQMHhv95LfzN5RkdkP5T"
       },
@@ -171,18 +155,18 @@
     {
       "added_at": "2025-03-11 17:14:36",
       "album": {
-        "name": "Colorful Dreams! Colorful Smiles!",
-        "url": "https://open.spotify.com/album/6lBta1zPCDQhOb09DfhCcO"
+        "name": "\u3069\u3053\u306b\u3044\u3066\u3082\u541b\u306f\u541b",
+        "url": "https://open.spotify.com/album/3ByQWR8ogTlrWM7lh5i5Om"
       },
       "artists": [
         {
-          "name": "Nijigasaki High School Idol Club",
-          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          "name": "\u8fd1\u6c5f\u5f7c\u65b9 (CV.\u9b3c\u982d\u660e\u91cc)",
+          "url": "https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI"
         }
       ],
-      "duration_ms": 264733,
-      "name": "Colorful Dreams! Colorful Smiles!",
-      "url": "https://open.spotify.com/track/6Z5h7cmLThLY6AlRPGR1kq"
+      "duration_ms": 248786,
+      "name": "Daydream Mermaid",
+      "url": "https://open.spotify.com/track/2HEIUm9pIViliot1yfkJi3"
     },
     {
       "added_at": "2025-03-11 17:14:36",
@@ -208,13 +192,29 @@
       },
       "artists": [
         {
-          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
-          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+          "name": "\u9418 \u5d50\u73e0 (CV.\u6cd5\u5143\u660e\u83dc)",
+          "url": "https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK"
         }
       ],
-      "duration_ms": 228426,
-      "name": "Stellar Stream",
-      "url": "https://open.spotify.com/track/4wZcKcvGmPDbSazHXFw6ex"
+      "duration_ms": 273333,
+      "name": "PHOENIX",
+      "url": "https://open.spotify.com/track/4oJXZkrYgrwruRh51IuN4p"
+    },
+    {
+      "added_at": "2025-03-11 17:14:36",
+      "album": {
+        "name": "Colorful Dreams! Colorful Smiles!",
+        "url": "https://open.spotify.com/album/6lBta1zPCDQhOb09DfhCcO"
+      },
+      "artists": [
+        {
+          "name": "Nijigasaki High School Idol Club",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "duration_ms": 264733,
+      "name": "Colorful Dreams! Colorful Smiles!",
+      "url": "https://open.spotify.com/track/6Z5h7cmLThLY6AlRPGR1kq"
     },
     {
       "added_at": "2025-03-11 17:14:36",
@@ -224,13 +224,13 @@
       },
       "artists": [
         {
-          "name": "\u9418 \u5d50\u73e0 (CV.\u6cd5\u5143\u660e\u83dc)",
-          "url": "https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK"
+          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
+          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
         }
       ],
-      "duration_ms": 273333,
-      "name": "PHOENIX",
-      "url": "https://open.spotify.com/track/4oJXZkrYgrwruRh51IuN4p"
+      "duration_ms": 228426,
+      "name": "Stellar Stream",
+      "url": "https://open.spotify.com/track/4wZcKcvGmPDbSazHXFw6ex"
     },
     {
       "added_at": "2025-03-11 17:14:36",
@@ -251,38 +251,6 @@
     {
       "added_at": "2025-03-11 17:14:36",
       "album": {
-        "name": "Butterfly / Solitude Rain / VIVID WORLD (\u8fd1\u6c5f\u5f7c\u65b9\u76e4)",
-        "url": "https://open.spotify.com/album/5FT50eiC2wHEFWfTU1DxYR"
-      },
-      "artists": [
-        {
-          "name": "\u8fd1\u6c5f\u5f7c\u65b9 (CV.\u9b3c\u982d\u660e\u91cc)",
-          "url": "https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI"
-        }
-      ],
-      "duration_ms": 216306,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/0CmpgRM57Uq8KOQAzKOxrq"
-    },
-    {
-      "added_at": "2025-03-11 17:14:36",
-      "album": {
-        "name": "\u8679\u8272Passions!",
-        "url": "https://open.spotify.com/album/7JvoRrB94BPtnXsau1IuFl"
-      },
-      "artists": [
-        {
-          "name": "Nijigasaki High School Idol Club",
-          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
-        }
-      ],
-      "duration_ms": 255053,
-      "name": "\u8679\u8272Passions!",
-      "url": "https://open.spotify.com/track/02pLFicJc11BISyxKv8UcC"
-    },
-    {
-      "added_at": "2025-03-11 17:14:36",
-      "album": {
         "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
         "url": "https://open.spotify.com/album/4hYX05KykZ4kLoVJXJKMHn"
       },
@@ -295,22 +263,6 @@
       "duration_ms": 244653,
       "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
       "url": "https://open.spotify.com/track/4fwvtGCkTjHfgFvati4kJu"
-    },
-    {
-      "added_at": "2025-03-11 17:14:36",
-      "album": {
-        "name": "Butterfly / Solitude Rain / VIVID WORLD (\u685c\u5742\u3057\u305a\u304f\u76e4)",
-        "url": "https://open.spotify.com/album/6HizYtJPlqdsGd9AaVep4T"
-      },
-      "artists": [
-        {
-          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
-          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
-        }
-      ],
-      "duration_ms": 246733,
-      "name": "Solitude Rain",
-      "url": "https://open.spotify.com/track/7pTGAjgAD6mojP2oRwiXX5"
     },
     {
       "added_at": "2025-03-11 17:14:36",
@@ -331,6 +283,54 @@
     {
       "added_at": "2025-03-11 17:14:36",
       "album": {
+        "name": "\u8679\u8272Passions!",
+        "url": "https://open.spotify.com/album/7JvoRrB94BPtnXsau1IuFl"
+      },
+      "artists": [
+        {
+          "name": "Nijigasaki High School Idol Club",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "duration_ms": 255053,
+      "name": "\u8679\u8272Passions!",
+      "url": "https://open.spotify.com/track/02pLFicJc11BISyxKv8UcC"
+    },
+    {
+      "added_at": "2025-03-11 17:14:36",
+      "album": {
+        "name": "Butterfly / Solitude Rain / VIVID WORLD (\u8fd1\u6c5f\u5f7c\u65b9\u76e4)",
+        "url": "https://open.spotify.com/album/5FT50eiC2wHEFWfTU1DxYR"
+      },
+      "artists": [
+        {
+          "name": "\u8fd1\u6c5f\u5f7c\u65b9 (CV.\u9b3c\u982d\u660e\u91cc)",
+          "url": "https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI"
+        }
+      ],
+      "duration_ms": 216306,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/0CmpgRM57Uq8KOQAzKOxrq"
+    },
+    {
+      "added_at": "2025-03-11 17:14:36",
+      "album": {
+        "name": "Butterfly / Solitude Rain / VIVID WORLD (\u685c\u5742\u3057\u305a\u304f\u76e4)",
+        "url": "https://open.spotify.com/album/6HizYtJPlqdsGd9AaVep4T"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
+          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
+        }
+      ],
+      "duration_ms": 246733,
+      "name": "Solitude Rain",
+      "url": "https://open.spotify.com/track/7pTGAjgAD6mojP2oRwiXX5"
+    },
+    {
+      "added_at": "2025-03-11 17:14:36",
+      "album": {
         "name": "Just Believe!!!",
         "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
       },
@@ -343,6 +343,22 @@
       "duration_ms": 234240,
       "name": "\u6c7a\u610f\u306e\u5149",
       "url": "https://open.spotify.com/track/5bKOT6xcTF9SLJw4sKgb2s"
+    },
+    {
+      "added_at": "2025-03-11 17:14:36",
+      "album": {
+        "name": "Love U my friends",
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
+      },
+      "artists": [
+        {
+          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
+          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
+        }
+      ],
+      "duration_ms": 269453,
+      "name": "MELODY",
+      "url": "https://open.spotify.com/track/6DmIItjA98dekA0MvIeiHC"
     },
     {
       "added_at": "2025-03-11 17:14:36",
@@ -395,22 +411,6 @@
     {
       "added_at": "2025-03-11 17:14:36",
       "album": {
-        "name": "Love U my friends",
-        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
-      },
-      "artists": [
-        {
-          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
-          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
-        }
-      ],
-      "duration_ms": 269453,
-      "name": "MELODY",
-      "url": "https://open.spotify.com/track/6DmIItjA98dekA0MvIeiHC"
-    },
-    {
-      "added_at": "2025-03-11 17:14:36",
-      "album": {
         "name": "Bring the LOVE\uff01",
         "url": "https://open.spotify.com/album/4if3euNE5b8VoUpEsLepk3"
       },
@@ -439,22 +439,6 @@
       "duration_ms": 223520,
       "name": "Bring the LOVE\uff01",
       "url": "https://open.spotify.com/track/08jHICuBUw39Mct5JfZ3C5"
-    },
-    {
-      "added_at": "2025-03-11 17:14:36",
-      "album": {
-        "name": "Dream with You / Poppin' Up! / DIVE! (\u4e0a\u539f\u6b69\u5922\u76e4)",
-        "url": "https://open.spotify.com/album/5azLupKAc7jhnLpGV6n2O1"
-      },
-      "artists": [
-        {
-          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
-          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
-        }
-      ],
-      "duration_ms": 258105,
-      "name": "Dream with You",
-      "url": "https://open.spotify.com/track/2pOgQuNCRUmDvAKjqwmGR9"
     },
     {
       "added_at": "2025-03-11 17:14:36",
@@ -491,18 +475,34 @@
     {
       "added_at": "2025-03-11 17:14:36",
       "album": {
-        "name": "Sing & Smile!!",
-        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
       },
       "artists": [
         {
-          "name": "QU4RTZ",
-          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
+          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
+          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
         }
       ],
-      "duration_ms": 238560,
-      "name": "Beautiful Moonlight",
-      "url": "https://open.spotify.com/track/7Ld5pHKOgTWFAwmAx525Lv"
+      "duration_ms": 261013,
+      "name": "LIKE IT!LOVE IT!",
+      "url": "https://open.spotify.com/track/4PeeXkEdUeIucB7kbcp2u9"
+    },
+    {
+      "added_at": "2025-03-11 17:14:36",
+      "album": {
+        "name": "Dream with You / Poppin' Up! / DIVE! (\u4e0a\u539f\u6b69\u5922\u76e4)",
+        "url": "https://open.spotify.com/album/5azLupKAc7jhnLpGV6n2O1"
+      },
+      "artists": [
+        {
+          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
+          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+        }
+      ],
+      "duration_ms": 258105,
+      "name": "Dream with You",
+      "url": "https://open.spotify.com/track/2pOgQuNCRUmDvAKjqwmGR9"
     },
     {
       "added_at": "2025-03-11 17:14:36",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-03-11 17:14:36",
       "album": {
-        "name": "Just Believe!!!",
-        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
-      },
-      "artists": [
-        {
-          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
-          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
-        }
-      ],
-      "duration_ms": 261013,
-      "name": "LIKE IT!LOVE IT!",
-      "url": "https://open.spotify.com/track/4PeeXkEdUeIucB7kbcp2u9"
-    },
-    {
-      "added_at": "2025-03-11 17:14:36",
-      "album": {
         "name": "Love U my friends",
         "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2025-03-11 17:14:36",
       "album": {
-        "name": "TOKIMEKI Runners",
-        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+        "name": "Sing & Smile!!",
+        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
       },
       "artists": [
         {
-          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
-          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
         }
       ],
-      "duration_ms": 287626,
-      "name": "\u5922\u3078\u306e\u4e00\u6b69",
-      "url": "https://open.spotify.com/track/3dg76XVsizSIGdyUG6XXvt"
+      "duration_ms": 238560,
+      "name": "Beautiful Moonlight",
+      "url": "https://open.spotify.com/track/7Ld5pHKOgTWFAwmAx525Lv"
     },
     {
       "added_at": "2025-03-11 17:14:36",
@@ -587,22 +571,6 @@
     {
       "added_at": "2025-03-11 17:14:36",
       "album": {
-        "name": "Sing & Smile!!",
-        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
-      },
-      "artists": [
-        {
-          "name": "QU4RTZ",
-          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
-        }
-      ],
-      "duration_ms": 281920,
-      "name": "Sing & Smile!!",
-      "url": "https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw"
-    },
-    {
-      "added_at": "2025-03-11 17:14:36",
-      "album": {
         "name": "Infinity! Our wings!!",
         "url": "https://open.spotify.com/album/2QVpsejvYq0As5FLW3BFoo"
       },
@@ -615,6 +583,38 @@
       "duration_ms": 271106,
       "name": "Infinity\uff01Our wings!!",
       "url": "https://open.spotify.com/track/0Ozd2HHjz6HZEbmttB6bMO"
+    },
+    {
+      "added_at": "2025-03-11 17:14:36",
+      "album": {
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30de\u30fb\u30f4\u30a7\u30eb\u30c7 (CV.\u6307\u51fa\u6bec\u4e9c)",
+          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
+        }
+      ],
+      "duration_ms": 257519,
+      "name": "\u54c0\u6e29\u30ce\u8a69",
+      "url": "https://open.spotify.com/track/3Qms7SJJWR6vjxsrAJb6n6"
+    },
+    {
+      "added_at": "2025-03-11 17:14:36",
+      "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
+          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+        }
+      ],
+      "duration_ms": 287626,
+      "name": "\u5922\u3078\u306e\u4e00\u6b69",
+      "url": "https://open.spotify.com/track/3dg76XVsizSIGdyUG6XXvt"
     },
     {
       "added_at": "2025-03-11 17:14:36",
@@ -635,18 +635,18 @@
     {
       "added_at": "2025-03-11 17:14:36",
       "album": {
-        "name": "Just Believe!!!",
-        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+        "name": "Sing & Smile!!",
+        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
       },
       "artists": [
         {
-          "name": "\u30a8\u30de\u30fb\u30f4\u30a7\u30eb\u30c7 (CV.\u6307\u51fa\u6bec\u4e9c)",
-          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
         }
       ],
-      "duration_ms": 257519,
-      "name": "\u54c0\u6e29\u30ce\u8a69",
-      "url": "https://open.spotify.com/track/3Qms7SJJWR6vjxsrAJb6n6"
+      "duration_ms": 281920,
+      "name": "Sing & Smile!!",
+      "url": "https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw"
     },
     {
       "added_at": "2025-03-11 17:14:36",
@@ -715,6 +715,38 @@
     {
       "added_at": "2025-03-11 17:14:36",
       "album": {
+        "name": "SUPER NOVA",
+        "url": "https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH"
+      },
+      "artists": [
+        {
+          "name": "DiverDiva",
+          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
+        }
+      ],
+      "duration_ms": 254013,
+      "name": "SUPER NOVA",
+      "url": "https://open.spotify.com/track/4AN5xcopsmXq2JSF1SNHEz"
+    },
+    {
+      "added_at": "2025-03-11 17:14:36",
+      "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+        }
+      ],
+      "duration_ms": 233720,
+      "name": "\u30c0\u30a4\u30a2\u30e2\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc"
+    },
+    {
+      "added_at": "2025-03-11 17:14:36",
+      "album": {
         "name": "Dream Land!Dream World!",
         "url": "https://open.spotify.com/album/6OqZjoN8TM3WSbwHRfRZfN"
       },
@@ -731,8 +763,8 @@
     {
       "added_at": "2025-03-11 17:14:36",
       "album": {
-        "name": "Just Believe!!!",
-        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+        "name": "Love U my friends",
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
       },
       "artists": [
         {
@@ -740,41 +772,9 @@
           "url": "https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3"
         }
       ],
-      "duration_ms": 280106,
-      "name": "\u30a2\u30ca\u30ed\u30b0\u30cf\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/6vWqcL79ETNeXDZpR231Tn"
-    },
-    {
-      "added_at": "2025-03-11 17:14:36",
-      "album": {
-        "name": "TOKIMEKI Runners",
-        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
-      },
-      "artists": [
-        {
-          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
-          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
-        }
-      ],
-      "duration_ms": 326040,
-      "name": "\u3042\u306a\u305f\u306e\u7406\u60f3\u306e\u30d2\u30ed\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/2RbkLmTbz2dGlLkzgDAUlu"
-    },
-    {
-      "added_at": "2025-03-11 17:14:36",
-      "album": {
-        "name": "SUPER NOVA",
-        "url": "https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH"
-      },
-      "artists": [
-        {
-          "name": "DiverDiva",
-          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
-        }
-      ],
-      "duration_ms": 254013,
-      "name": "SUPER NOVA",
-      "url": "https://open.spotify.com/track/4AN5xcopsmXq2JSF1SNHEz"
+      "duration_ms": 253320,
+      "name": "\u30c6\u30ec\u30c6\u30ec\u30d1\u30b7\u30fc",
+      "url": "https://open.spotify.com/track/1mMPqcCOJjvWOjBcgNZNdL"
     },
     {
       "added_at": "2025-03-11 17:14:36",
@@ -795,18 +795,18 @@
     {
       "added_at": "2025-03-11 17:14:36",
       "album": {
-        "name": "PASTEL",
-        "url": "https://open.spotify.com/album/5VNJPg765C7xruuoJX92Xd"
+        "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8 / La Bella Patria / \u30c4\u30ca\u30ac\u30eb\u30b3\u30cd\u30af\u30c8 (\u5bae\u4e0b \u611b\u76e4)",
+        "url": "https://open.spotify.com/album/1qvo8Ajhwj2DRa3slc7rkn"
       },
       "artists": [
         {
-          "name": "QU4RTZ",
-          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
+          "name": "\u5bae\u4e0b \u611b (CV.\u6751\u4e0a\u5948\u6d25\u5b9f)",
+          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
         }
       ],
-      "duration_ms": 231440,
-      "name": "PASTEL",
-      "url": "https://open.spotify.com/track/5Ua417wd0zaOjIcC0bDe7Q"
+      "duration_ms": 252280,
+      "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/7fR786eNI8rp2sKxQM5jK0"
     },
     {
       "added_at": "2025-03-11 17:14:36",
@@ -816,13 +816,13 @@
       },
       "artists": [
         {
-          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
-          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
+          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
         }
       ],
-      "duration_ms": 233720,
-      "name": "\u30c0\u30a4\u30a2\u30e2\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc"
+      "duration_ms": 326040,
+      "name": "\u3042\u306a\u305f\u306e\u7406\u60f3\u306e\u30d2\u30ed\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/2RbkLmTbz2dGlLkzgDAUlu"
     }
   ],
   "unique_name": "Love Live! Nijigasaki High School Idol Club",

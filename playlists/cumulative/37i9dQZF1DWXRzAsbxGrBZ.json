@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-23",
+      "date_removed": null,
       "duration_ms": 288000,
       "name": "Forever",
       "url": "https://open.spotify.com/track/35HxHvOH4ajyjGFEBxEdBY"
@@ -2502,7 +2502,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-24",
       "duration_ms": 404739,
       "name": "Love Grooves",
       "url": "https://open.spotify.com/track/17Ntu6hwyIPJ68vqRboxAq"
@@ -3162,6 +3162,24 @@
       "duration_ms": 284284,
       "name": "Never Thought",
       "url": "https://open.spotify.com/track/6PXJMRvCxiO2JGaSApdCxN"
+    },
+    {
+      "album": {
+        "name": "New Day",
+        "url": "https://open.spotify.com/album/2yeB5zVSHY9j17c5aHQKVS"
+      },
+      "artists": [
+        {
+          "name": "Gabbana",
+          "url": "https://open.spotify.com/artist/0I3Acccg46Me47afcARZYX"
+        }
+      ],
+      "date_added": "2025-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462716,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/0jWuUt2H3aXrQFLeD35FVd"
     },
     {
       "album": {
@@ -4386,7 +4404,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-24",
       "duration_ms": 398275,
       "name": "Story",
       "url": "https://open.spotify.com/track/2UfbQI5TTr935FcAeEAoE2"

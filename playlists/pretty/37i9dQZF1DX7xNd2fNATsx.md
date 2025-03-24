@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xNd2fNATsx.md) - [plain]
 
 > Quand l'indie et l'electro ne font qu'un\. Photo : Solomun, Jain
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,201 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,200 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7xNd2fNATsx.md) - [plain]
 | 30 | [Picón](https://open.spotify.com/track/7mUxF950vpZmhjNZXvgd8E) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Picón](https://open.spotify.com/album/3mm5Ku4eW5wGJe7DmGkwVJ) | 4:12 |
 | 31 | [Touch](https://open.spotify.com/track/4e53IDGlcitKNTlQCRN0JL) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Talmirage](https://open.spotify.com/artist/6gEIeLcp6HuMhrfq8ZZvbr) | [Touch](https://open.spotify.com/album/1JACKbsVYkf1OEJQtgoYUU) | 3:02 |
 | 32 | [Future Is Your Love](https://open.spotify.com/track/1mAv52KN5MrTlLwzhd0cOG) | [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N), [David Carretta](https://open.spotify.com/artist/4z8hp2djLQN4FGiB596ZDB), [Gigi Succès](https://open.spotify.com/artist/6cw4eZjH6GRUans9yeFHCH) | [Future Is Your Love](https://open.spotify.com/album/1hd7PXRj0RF679DfpHwZ8Z) | 4:39 |
-| 33 | [OXYGENE \(from "ASH" Soundtrack\)](https://open.spotify.com/track/3HI6iFB3mBxqvsrcgXQhBl) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [OXYGENE \(from "ASH" Soundtrack\)](https://open.spotify.com/album/08EGCVDnFaO6RXMIpBMCKV) | 1:33 |
+| 33 | [OXYGENE](https://open.spotify.com/track/3HI6iFB3mBxqvsrcgXQhBl) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [OXYGENE \(from "ASH" Soundtrack\)](https://open.spotify.com/album/08EGCVDnFaO6RXMIpBMCKV) | 1:33 |
 | 34 | [I Wont Tell You](https://open.spotify.com/track/6SVNJBqKbqVFt9uoIgXUNg) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO), [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc) | [I Wont Tell You](https://open.spotify.com/album/2DVtyd8VsQHY6AwjLYUo96) | 3:33 |
 | 35 | [Healing](https://open.spotify.com/track/6soGIjJ2szElqSh74z4RuX) | [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM) | [Healing](https://open.spotify.com/album/5lmsTTXBWXagd22FeXTMsA) | 3:24 |
 | 36 | [You've Got The Love \- Jamie xx Rework](https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [You've Got The Love \(Jamie xx Rework\)](https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA) | 5:42 |

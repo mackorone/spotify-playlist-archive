@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Major League Djz & Jorja Smith, Riky Rick, Myztro, Jack Harlow and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,274 likes - 58 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,323 likes - 58 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 28 | [No Bad Vibes \- Vigro Deep Remix](https://open.spotify.com/track/0twIZGTLMuaULxCmT1dNWE) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH) | [No Bad Vibes \(Vigro Deep Remix\)](https://open.spotify.com/album/6sBtH5AhC0Z11Jv49F7vQD) | 5:27 |
 | 29 | [Love Deep](https://open.spotify.com/track/1HOTWyi8QcBy2oRc2PeLRi) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m), [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [Love Deep](https://open.spotify.com/album/1IkvotMy4iE2UMLEHvbivF) | 3:40 |
 | 30 | [Chelete](https://open.spotify.com/track/3Np14JlV7Ipzryd3FSiO2Y) | [Zan'Ten](https://open.spotify.com/artist/5F9w142UJBH5ZkFXWUJVsL), [Djy Biza](https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING), [Sizwe Alakine](https://open.spotify.com/artist/7Hb7ZlUE4ByWsV1Rkc4Uo2), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Mzu M](https://open.spotify.com/artist/1JNnRL51LIgP1SNzCsQFGM) | [Chelete](https://open.spotify.com/album/3hmF1tybQoDdirkHJ11kJO) | 6:30 |
-| 31 | [sHuffle](https://open.spotify.com/track/4fIdt0cKEu7KOqmjKdq5Mi) | [ZiwaBeatz](https://open.spotify.com/artist/34elXUm1cQs0I2YP52YiC3), [Kharishma](https://open.spotify.com/artist/5ln4EWpJqQZEWXAlSNTtVz), [SIGGBOYZ](https://open.spotify.com/artist/4sxQjA56Xuyx5EdvZc5dyz) | [sHuffle](https://open.spotify.com/album/62FfKDexLxuHiJ5twoKIML) | 7:25 |
+| 31 | [sHuffle](https://open.spotify.com/track/4fIdt0cKEu7KOqmjKdq5Mi) | [ZiwaBeatz](https://open.spotify.com/artist/34elXUm1cQs0I2YP52YiC3), [SIGGBOYZ](https://open.spotify.com/artist/4sxQjA56Xuyx5EdvZc5dyz) | [sHuffle](https://open.spotify.com/album/62FfKDexLxuHiJ5twoKIML) | 7:25 |
 | 32 | [Attack Formation](https://open.spotify.com/track/6W0Mu1oO3rCamCx0ASJI14) | [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Rudeboyz](https://open.spotify.com/artist/3De9bGnGSaxAu4sJz4Y9Wk) | [Attack Formation](https://open.spotify.com/album/6OytyHOZV85PleLudvsO61) | 5:40 |
 | 33 | [FOR YOU](https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [FOR YOU](https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV) | 2:28 |
 | 34 | [Indaba Kabani](https://open.spotify.com/track/6GjnLktlSlWRdn8hCf4ye5) | [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Djy Biza](https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N), [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v) | [Indaba Kabani](https://open.spotify.com/album/59YL8AVYGtipQekzglqcte) | 3:56 |

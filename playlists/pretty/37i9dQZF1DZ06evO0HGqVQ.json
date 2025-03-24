@@ -1,12 +1,12 @@
 {
   "description": "This is Los inquietos del vallenato. The essential tracks, all in one playlist.",
-  "num_followers": 29395,
+  "num_followers": 29409,
   "original_name": "This Is Los inquietos del vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9ysAAAAAAC1HeND/CgFlrbxeI8FXWjB",
+  "snapshot_id": "Z939gAAAAAARPMvawPmOP7EhT1J6lOSM",
   "tracks": [
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Luz Propia",
-        "url": "https://open.spotify.com/album/6zUPSO3nAslXMD5BdxGE8S"
+        "name": "Buenos Tiempos",
+        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 279146,
-      "name": "Si La Ves",
-      "url": "https://open.spotify.com/track/5YQFXXgC97Hh82y4sTB3gI"
+      "duration_ms": 322560,
+      "name": "Tu Historieta",
+      "url": "https://open.spotify.com/track/39BcI6ZugEmBfN44khXiuc"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buenos Tiempos",
-        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
+        "name": "Con Luz Propia",
+        "url": "https://open.spotify.com/album/6zUPSO3nAslXMD5BdxGE8S"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 322560,
-      "name": "Tu Historieta",
-      "url": "https://open.spotify.com/track/39BcI6ZugEmBfN44khXiuc"
+      "duration_ms": 279146,
+      "name": "Si La Ves",
+      "url": "https://open.spotify.com/track/5YQFXXgC97Hh82y4sTB3gI"
     }
   ],
   "unique_name": "This Is Los inquietos del vallenato",

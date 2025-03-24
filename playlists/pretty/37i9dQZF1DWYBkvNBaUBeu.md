@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 
 > Future hits in the Philippines! Cover: Lizzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,974 likes - 82 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,981 likes - 82 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

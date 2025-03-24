@@ -1,12 +1,12 @@
 {
   "description": "This is Micah Tyler. The essential tracks, all in one playlist.",
-  "num_followers": 3896,
+  "num_followers": 3899,
   "original_name": "This Is Micah Tyler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9ysAAAAAAC09PMsENCM93hbBfF+4jwy",
+  "snapshot_id": "Z939gAAAAACRUS5mxzBJhX0n0ksQLmNI",
   "tracks": [
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 221026,
+      "name": "Story I Tell",
+      "url": "https://open.spotify.com/track/4a9UzMaCd1wji2qfb1y73V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Story Your Glory (Expanded Edition)",
         "url": "https://open.spotify.com/album/1FNe9cy8XHcI8JS4cqU6lD"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 188544,
       "name": "My Story Your Glory - Micah Tyler Collab Version",
       "url": "https://open.spotify.com/track/4049ATZU2lzziyACfxMiqc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 221026,
-      "name": "Story I Tell",
-      "url": "https://open.spotify.com/track/4a9UzMaCd1wji2qfb1y73V"
     },
     {
       "added_at": null,

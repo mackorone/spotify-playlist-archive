@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 16768,
+  "num_followers": 16824,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-03-14 10:24:29",
       "album": {
+        "name": "ZG\u0141OWY",
+        "url": "https://open.spotify.com/album/3XIDxziYfm9hhIUVQMbS4u"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        }
+      ],
+      "duration_ms": 228655,
+      "name": "ZG\u0141OWY",
+      "url": "https://open.spotify.com/track/0Xgm5y8d01Jcrob2o7BuFe"
+    },
+    {
+      "added_at": "2025-03-14 10:24:29",
+      "album": {
         "name": "REM",
         "url": "https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 154886,
       "name": "TYLE MAM",
       "url": "https://open.spotify.com/track/4vpLSrS5KA9okRlGfgukIv"
-    },
-    {
-      "added_at": "2025-03-14 10:24:29",
-      "album": {
-        "name": "ZG\u0141OWY",
-        "url": "https://open.spotify.com/album/3XIDxziYfm9hhIUVQMbS4u"
-      },
-      "artists": [
-        {
-          "name": "Krzysztof Zalewski",
-          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
-        }
-      ],
-      "duration_ms": 228655,
-      "name": "ZG\u0141OWY",
-      "url": "https://open.spotify.com/track/0Xgm5y8d01Jcrob2o7BuFe"
     },
     {
       "added_at": "2025-03-14 10:24:29",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-03-14 10:24:29",
       "album": {
-        "name": "Ballada o Niej",
-        "url": "https://open.spotify.com/album/7h0D9tTxbdy41v52chuWKK"
-      },
-      "artists": [
-        {
-          "name": "Daria Zawia\u0142ow",
-          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
-        }
-      ],
-      "duration_ms": 269937,
-      "name": "Ballada o Niej (Live, 92')",
-      "url": "https://open.spotify.com/track/5I4mvKqIljirw2PC7wSOvK"
-    },
-    {
-      "added_at": "2025-03-14 10:24:29",
-      "album": {
         "name": "REM",
         "url": "https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g"
       },
@@ -679,6 +663,22 @@
     {
       "added_at": "2025-03-14 10:24:29",
       "album": {
+        "name": "Ballada o Niej",
+        "url": "https://open.spotify.com/album/7h0D9tTxbdy41v52chuWKK"
+      },
+      "artists": [
+        {
+          "name": "Daria Zawia\u0142ow",
+          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
+        }
+      ],
+      "duration_ms": 269937,
+      "name": "Ballada o Niej (Live, 92')",
+      "url": "https://open.spotify.com/track/5I4mvKqIljirw2PC7wSOvK"
+    },
+    {
+      "added_at": "2025-03-14 10:24:29",
+      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/3T2yJp99ZSAjzHZl4nxupe"
       },
@@ -691,22 +691,6 @@
       "duration_ms": 283577,
       "name": "Warszawa Wschodnia",
       "url": "https://open.spotify.com/track/6p5BVXBjh0JYPU955lWJX6"
-    },
-    {
-      "added_at": "2025-03-14 10:24:29",
-      "album": {
-        "name": "Czekam na \u015bwit",
-        "url": "https://open.spotify.com/album/2H3xnoal5SM4eEUeluu47n"
-      },
-      "artists": [
-        {
-          "name": "Wiktor Walig\u00f3ra",
-          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
-        }
-      ],
-      "duration_ms": 191103,
-      "name": "Podr\u00f3\u017c w czasie",
-      "url": "https://open.spotify.com/track/48xVwl7mPJMYkppkf7zrqI"
     },
     {
       "added_at": "2025-03-14 10:24:29",
@@ -739,6 +723,22 @@
       "duration_ms": 196048,
       "name": "Pami\u0119tam Ci\u0119",
       "url": "https://open.spotify.com/track/2GmyBjFYiWaErfxzd3Uefl"
+    },
+    {
+      "added_at": "2025-03-14 10:24:29",
+      "album": {
+        "name": "Czekam na \u015bwit",
+        "url": "https://open.spotify.com/album/2H3xnoal5SM4eEUeluu47n"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        }
+      ],
+      "duration_ms": 191103,
+      "name": "Podr\u00f3\u017c w czasie",
+      "url": "https://open.spotify.com/track/48xVwl7mPJMYkppkf7zrqI"
     },
     {
       "added_at": "2025-03-14 10:24:29",
@@ -875,30 +875,6 @@
     {
       "added_at": "2025-03-14 10:24:29",
       "album": {
-        "name": "Brim On",
-        "url": "https://open.spotify.com/album/5RnCLXPB0KxFVBksaw2H4Y"
-      },
-      "artists": [
-        {
-          "name": "Leszek Mo\u017cd\u017cer",
-          "url": "https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G"
-        },
-        {
-          "name": "Lars Danielsson",
-          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
-        },
-        {
-          "name": "Zohar Fresco",
-          "url": "https://open.spotify.com/artist/6gKQOijvcPJDv2T0VWNcFN"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "Brim On",
-      "url": "https://open.spotify.com/track/5z3i72DxQNAqW4M7fdZzaq"
-    },
-    {
-      "added_at": "2025-03-14 10:24:29",
-      "album": {
         "name": "WAWA",
         "url": "https://open.spotify.com/album/1FaiUUAQ26t9Xrv0ItyiLV"
       },
@@ -931,6 +907,30 @@
       "duration_ms": 192194,
       "name": "Lata",
       "url": "https://open.spotify.com/track/1DNRoUTNpJrCQ8GubYLIT7"
+    },
+    {
+      "added_at": "2025-03-14 10:24:29",
+      "album": {
+        "name": "Brim On",
+        "url": "https://open.spotify.com/album/5RnCLXPB0KxFVBksaw2H4Y"
+      },
+      "artists": [
+        {
+          "name": "Leszek Mo\u017cd\u017cer",
+          "url": "https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G"
+        },
+        {
+          "name": "Lars Danielsson",
+          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
+        },
+        {
+          "name": "Zohar Fresco",
+          "url": "https://open.spotify.com/artist/6gKQOijvcPJDv2T0VWNcFN"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "Brim On",
+      "url": "https://open.spotify.com/track/5z3i72DxQNAqW4M7fdZzaq"
     },
     {
       "added_at": "2025-03-14 10:24:29",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-03-14 10:24:29",
       "album": {
-        "name": "WAWA",
-        "url": "https://open.spotify.com/album/1FaiUUAQ26t9Xrv0ItyiLV"
-      },
-      "artists": [
-        {
-          "name": "Brodka",
-          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
-        }
-      ],
-      "duration_ms": 146332,
-      "name": "Spotkanie z Warszaw\u0105",
-      "url": "https://open.spotify.com/track/0bNNDAUvcKnqIf8X26Ho38"
-    },
-    {
-      "added_at": "2025-03-14 10:24:29",
-      "album": {
         "name": "Sploty",
         "url": "https://open.spotify.com/album/5t1TVckkkBuj1vYKH28NNV"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 180906,
       "name": "Cursed Angel of Doom - Live",
       "url": "https://open.spotify.com/track/14yjHvuMk4qEcdXnuKvVjF"
+    },
+    {
+      "added_at": "2025-03-14 10:24:29",
+      "album": {
+        "name": "WAWA",
+        "url": "https://open.spotify.com/album/1FaiUUAQ26t9Xrv0ItyiLV"
+      },
+      "artists": [
+        {
+          "name": "Brodka",
+          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+        }
+      ],
+      "duration_ms": 146332,
+      "name": "Spotkanie z Warszaw\u0105",
+      "url": "https://open.spotify.com/track/0bNNDAUvcKnqIf8X26Ho38"
     },
     {
       "added_at": "2025-03-14 10:24:29",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2025-03-14 10:24:29",
       "album": {
+        "name": "Pie\u015bni Ludu",
+        "url": "https://open.spotify.com/album/2Dtr4raDfR1MDTeIfz8C83"
+      },
+      "artists": [
+        {
+          "name": "Zazula",
+          "url": "https://open.spotify.com/artist/25Pf32DS91Er2yv9bWL96U"
+        }
+      ],
+      "duration_ms": 178960,
+      "name": "Ko\u0142omyja",
+      "url": "https://open.spotify.com/track/7m4kQ93BXEsFe8MJb8pJTB"
+    },
+    {
+      "added_at": "2025-03-14 10:24:29",
+      "album": {
         "name": "Live 2021",
         "url": "https://open.spotify.com/album/13kknTdU4y2kcRci2KApiN"
       },
@@ -1211,30 +1227,6 @@
       "duration_ms": 236493,
       "name": "Jestem g\u0142odny",
       "url": "https://open.spotify.com/track/6qaBioF12imgy5o5uzfXMg"
-    },
-    {
-      "added_at": "2025-03-14 10:24:29",
-      "album": {
-        "name": "Adam's Apple",
-        "url": "https://open.spotify.com/album/2a8z64pYBe16Mp8xLHFzMf"
-      },
-      "artists": [
-        {
-          "name": "Mateusz Smoczy\u0144ski",
-          "url": "https://open.spotify.com/artist/0uYix4krQWE2zDQO17Shlu"
-        },
-        {
-          "name": "Rafal Janiak",
-          "url": "https://open.spotify.com/artist/26xDzMhDqi1HtB3riFUqme"
-        },
-        {
-          "name": "Chopin University Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/6UV8U2a96aSNrQhaFO2O0O"
-        }
-      ],
-      "duration_ms": 314728,
-      "name": "Adam's Apple: III. Temptation",
-      "url": "https://open.spotify.com/track/7dsdSD422nQiCJeYfrFSPc"
     },
     {
       "added_at": "2025-03-14 10:24:29",
@@ -1275,6 +1267,30 @@
     {
       "added_at": "2025-03-14 10:24:29",
       "album": {
+        "name": "Adam's Apple",
+        "url": "https://open.spotify.com/album/2a8z64pYBe16Mp8xLHFzMf"
+      },
+      "artists": [
+        {
+          "name": "Mateusz Smoczy\u0144ski",
+          "url": "https://open.spotify.com/artist/0uYix4krQWE2zDQO17Shlu"
+        },
+        {
+          "name": "Rafal Janiak",
+          "url": "https://open.spotify.com/artist/26xDzMhDqi1HtB3riFUqme"
+        },
+        {
+          "name": "Chopin University Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/6UV8U2a96aSNrQhaFO2O0O"
+        }
+      ],
+      "duration_ms": 314728,
+      "name": "Adam's Apple: III. Temptation",
+      "url": "https://open.spotify.com/track/7dsdSD422nQiCJeYfrFSPc"
+    },
+    {
+      "added_at": "2025-03-14 10:24:29",
+      "album": {
         "name": "September Night",
         "url": "https://open.spotify.com/album/21OEKJBFzi5CVQ49vJnr3i"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 380093,
       "name": "Song for Sarah",
       "url": "https://open.spotify.com/track/5lPAbY4EpAtOe46qR4hEL0"
-    },
-    {
-      "added_at": "2025-03-14 10:24:29",
-      "album": {
-        "name": "Pie\u015bni Ludu",
-        "url": "https://open.spotify.com/album/2Dtr4raDfR1MDTeIfz8C83"
-      },
-      "artists": [
-        {
-          "name": "Zazula",
-          "url": "https://open.spotify.com/artist/25Pf32DS91Er2yv9bWL96U"
-        }
-      ],
-      "duration_ms": 178960,
-      "name": "Ko\u0142omyja",
-      "url": "https://open.spotify.com/track/7m4kQ93BXEsFe8MJb8pJTB"
     },
     {
       "added_at": "2025-03-14 10:24:29",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-03-14 10:24:29",
       "album": {
-        "name": "Diabe\u0142 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2EqKEaj0aII5cEOT90J4V8"
-      },
-      "artists": [
-        {
-          "name": "Lukasz Targosz",
-          "url": "https://open.spotify.com/artist/1jVCUSiiEjd8RNkjLcLkQa"
-        }
-      ],
-      "duration_ms": 137170,
-      "name": "Welcome To The Forrest",
-      "url": "https://open.spotify.com/track/2wlBxJQQAYfgHyJo4coG61"
-    },
-    {
-      "added_at": "2025-03-14 10:24:29",
-      "album": {
         "name": "Vanishing",
         "url": "https://open.spotify.com/album/4pNzM3vvZzIRBkJmfLreja"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 510066,
       "name": "Haunting",
       "url": "https://open.spotify.com/track/5zhWwA0jRxNJki5SAxoIZq"
+    },
+    {
+      "added_at": "2025-03-14 10:24:29",
+      "album": {
+        "name": "Diabe\u0142 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2EqKEaj0aII5cEOT90J4V8"
+      },
+      "artists": [
+        {
+          "name": "Lukasz Targosz",
+          "url": "https://open.spotify.com/artist/1jVCUSiiEjd8RNkjLcLkQa"
+        }
+      ],
+      "duration_ms": 137170,
+      "name": "Welcome To The Forrest",
+      "url": "https://open.spotify.com/track/2wlBxJQQAYfgHyJo4coG61"
     },
     {
       "added_at": "2025-03-14 10:24:29",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2025-03-14 10:24:29",
       "album": {
+        "name": "Rugs / Carpets",
+        "url": "https://open.spotify.com/album/2lAkcayHkpOwdDzyVHrKxk"
+      },
+      "artists": [
+        {
+          "name": "Tymek Papior",
+          "url": "https://open.spotify.com/artist/4Md0g2WKat1VqfXvOjaIjt"
+        }
+      ],
+      "duration_ms": 312842,
+      "name": "Tear",
+      "url": "https://open.spotify.com/track/6zjdgDTLPzSCZdLwYQVIiF"
+    },
+    {
+      "added_at": "2025-03-14 10:24:29",
+      "album": {
         "name": "I Love Music",
         "url": "https://open.spotify.com/album/3ax69VaksMlVgF40ODHaGj"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 577993,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/3cXAWUKMUREsKv9Gno7s06"
-    },
-    {
-      "added_at": "2025-03-14 10:24:29",
-      "album": {
-        "name": "Rugs / Carpets",
-        "url": "https://open.spotify.com/album/2lAkcayHkpOwdDzyVHrKxk"
-      },
-      "artists": [
-        {
-          "name": "Tymek Papior",
-          "url": "https://open.spotify.com/artist/4Md0g2WKat1VqfXvOjaIjt"
-        }
-      ],
-      "duration_ms": 312842,
-      "name": "Tear",
-      "url": "https://open.spotify.com/track/6zjdgDTLPzSCZdLwYQVIiF"
     },
     {
       "added_at": "2025-03-14 10:24:29",

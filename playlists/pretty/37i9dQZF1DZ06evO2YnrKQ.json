@@ -1,12 +1,12 @@
 {
   "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
-  "num_followers": 23344,
+  "num_followers": 23347,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9ysAAAAAADC4b8spxUBPy+Qup+Rbdw7",
+  "snapshot_id": "Z939gAAAAAD1pyuVbFaRWoeh9ttjSvA2",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Letter",
-        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 214592,
-      "name": "Burial",
-      "url": "https://open.spotify.com/track/4lFETObcVlO6l5obGe4JPu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Complicit",
         "url": "https://open.spotify.com/album/0FLQLADNmE3rJUKZk9vIqn"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 238418,
       "name": "Complicit",
       "url": "https://open.spotify.com/track/2dJaFIQVtnoHmwkwuq8tUw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death Letter",
+        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 214592,
+      "name": "Burial",
+      "url": "https://open.spotify.com/track/4lFETObcVlO6l5obGe4JPu"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
       "duration_ms": 228817,
       "name": "Accept Crime",
       "url": "https://open.spotify.com/track/5jPB5Pgus7EhKidYkoCjcl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dog's Blood",
-        "url": "https://open.spotify.com/album/5G0BHqb1hq5vDStpBmDIBd"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 358060,
-      "name": "Dogs Blood",
-      "url": "https://open.spotify.com/track/5DiIanv54rT73xCmqoKQV0"
     }
   ],
   "unique_name": "This Is Alexisonfire",

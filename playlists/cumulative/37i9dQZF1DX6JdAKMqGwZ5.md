@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: LUSILLON.
 
-377 songs - 19 hr 38 min
+378 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,7 @@
 | [Palabras BLA BLA BLA \- remix](https://open.spotify.com/track/1KdYHwejtPz6uAJjGTAfUp) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [Palabras BLA BLA BLA \- remix](https://open.spotify.com/album/16jPgS4BMWZ8psnbHALBTG) | 1:19 | 2024-08-15 | 2024-08-23 |
 | [Palmas Y Desamores](https://open.spotify.com/track/0Old5HATkhLWjzobyfU0uT) | [VIOLETA](https://open.spotify.com/artist/0VxwKDOfIkq37oYoXbcEvt) | [Palmas Y Desamores](https://open.spotify.com/album/47otbrTZ0A3Bv5aLkV35P6) | 2:42 | 2024-12-05 | 2024-12-27 |
 | [Para Mi](https://open.spotify.com/track/7aZN8LGvTUPcAUxDEXJZjp) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Para Mi](https://open.spotify.com/album/4GG83B0DS1omtsvaldRDjI) | 2:16 | 2024-06-27 | 2024-07-19 |
-| [Paris Hilton](https://open.spotify.com/track/4X0mNzqvErzoXWqAllTozS) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Paris Hilton](https://open.spotify.com/album/1GixI3bHkUq3WEtPXnDkQT) | 3:35 | 2024-10-10 |  |
+| [Paris Hilton](https://open.spotify.com/track/4X0mNzqvErzoXWqAllTozS) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Paris Hilton](https://open.spotify.com/album/1GixI3bHkUq3WEtPXnDkQT) | 3:35 | 2024-10-10 | 2025-03-24 |
 | [PASARELA](https://open.spotify.com/track/6wXP0oiJk3gZXGfFNrKQaz) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln) | [PASARELA](https://open.spotify.com/album/31TBz22wU0tj6LmyeeAuti) | 2:44 | 2024-07-04 | 2024-08-09 |
 | [Pastillas](https://open.spotify.com/track/36mMs8JprenzdxI1FYa08k) | [Karavana](https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd) | [Pastillas](https://open.spotify.com/album/5EdatqgVdyGGIlEp0wdOSs) | 2:30 | 2024-08-29 | 2024-11-15 |
 | [Pedindo perdón](https://open.spotify.com/track/1KJMLbxJQ65vJExYxzHllV) | [Tanxugueiras](https://open.spotify.com/artist/1iHb53TMjvMaXZm0s4RWZi) | [Pedindo perdón](https://open.spotify.com/album/3RTlEAHIkmQP6YeWWQXpcn) | 3:12 | 2024-08-15 | 2024-12-13 |
@@ -359,6 +359,7 @@
 | [Un Millón de Años](https://open.spotify.com/track/1FwNzcMOscVkseCTpW6aey) | [Valira](https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u) | [Un Millón de Años](https://open.spotify.com/album/1cpc3zlcpeHCWS9ib1E4dG) | 3:37 | 2024-06-27 | 2024-08-03 |
 | [Una noche más \(feat\. Bruses\)](https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Una noche más \(feat\. Bruses\)](https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY) | 3:03 | 2024-06-27 | 2024-12-06 |
 | [uwu ^^](https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [uwu ^^](https://open.spotify.com/album/456sHRfRmScVZJlobwx3gB) | 2:42 | 2024-11-28 | 2024-12-27 |
+| [Valió la pena](https://open.spotify.com/track/22uPAzwESHmS4OkGt9hXrE) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq), [St Woods](https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI) | [PARA QUE TE QUIERAS QUEDAR](https://open.spotify.com/album/3GKQF08kDwWHLjWSYUW1N4) | 3:14 | 2025-03-21 |  |
 | [Valle La Pena](https://open.spotify.com/track/0olSeXCDZo7HXTS9rHOH5i) | [Mustard](https://open.spotify.com/artist/1w47PGjlIC5Zfj1IzZI2t6) | [Valle La Pena](https://open.spotify.com/album/5otGsLkao2fXLzjNqbgSio) | 3:03 | 2024-08-08 | 2024-12-11 |
 | [VAPOR Y CIELO](https://open.spotify.com/track/3Udoa1rsfpk7gYLuKx06yH) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [VAPOR Y CIELO](https://open.spotify.com/album/6aDL1lkv9Pm6NEM7ATGEbg) | 3:02 | 2024-11-22 | 2025-01-24 |
 | [VENDAVAL](https://open.spotify.com/track/5Qus7bpzmfchnnUfPBBgfu) | [Malva Vela](https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz), [Toni Costa](https://open.spotify.com/artist/23fWHhYOBr5PQVvuBrx5l3) | [VENDAVAL](https://open.spotify.com/album/3UmC1efXALsL18k4KnLtcA) | 3:29 | 2025-02-06 |  |

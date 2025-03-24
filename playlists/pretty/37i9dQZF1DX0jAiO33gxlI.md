@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Victor Xamã, Pecaos
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,920 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,933 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 23 | [Reflexo \#12 \- José](https://open.spotify.com/track/4crh4QJCwPlc3RN343gXtl) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [GvsnoBeat](https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Reflexo \#12 \- José](https://open.spotify.com/album/1VjbYkjArlQDGo5evesx2e) | 3:16 |
 | 24 | [Pensar Direito](https://open.spotify.com/track/1ui0q6tFro602g92piLjQF) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Rick Beatz](https://open.spotify.com/artist/7y0JheeKtNA8xvm7Wo3ib9), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Pensar Direito](https://open.spotify.com/album/0qWbg7ya1AZmhfdOUir4Fj) | 2:53 |
 | 25 | [Compro Ouro](https://open.spotify.com/track/0pJCM8L1xHWQyGOzelS3qN) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Gioprod](https://open.spotify.com/artist/7wSJDGjIeffNmJg8pge4fH) | [Compro Ouro](https://open.spotify.com/album/0jX3GnxltRxPCh3xeIbKs3) | 2:24 |
-| 26 | [Perfil \#102 \- Fertilizante](https://open.spotify.com/track/574SZB9ILezM8UUAtIvDU8) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [Suarez](https://open.spotify.com/artist/2IQGi2QDVAYaIPRER0Pzrd), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Perfil \#102 \- Fertilizante](https://open.spotify.com/album/66n0EBaJa2CP91aX0N1LJo) | 2:53 |
+| 26 | [Perfil \#102 \- Fertilizante](https://open.spotify.com/track/574SZB9ILezM8UUAtIvDU8) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [Suarez](https://open.spotify.com/artist/2IQGi2QDVAYaIPRER0Pzrd) | [Perfil \#102 \- Fertilizante](https://open.spotify.com/album/66n0EBaJa2CP91aX0N1LJo) | 2:53 |
 | 27 | [Mulher](https://open.spotify.com/track/661GFb1gfW3TRADhBxTBTc) | [Mis Ivy](https://open.spotify.com/artist/6xqC9As7h829JdYuDtZe7r) | [Escuta](https://open.spotify.com/album/3K4zHEDu9OUNVluE1tke0K) | 3:01 |
 | 28 | [Pecado \(Under Sesh \#4\)](https://open.spotify.com/track/1u58CILO8p77ITh7VKxgGj) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Guiu](https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px), [Drow Beats](https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt) | [Pecado \(Under Sesh \#4\)](https://open.spotify.com/album/2RPfK12riAvhIsM2vTgBZp) | 2:17 |
 | 29 | [Manifestação do Amor](https://open.spotify.com/track/1QxfiSKbs0x9FIljyq5XqF) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Manifestação do Amor](https://open.spotify.com/album/6JLg48mqCPlSxQZkLP8RQR) | 2:42 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Remembering the life and captivating voice of  <a href="https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo?si=X2TnQdrMRTOFMIRAzdU3fQ"> Yallunder</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,720 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,780 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 535459,
+  "num_followers": 535576,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
+        "name": "A Frame of Mind",
+        "url": "https://open.spotify.com/album/7tmd1LZ4ZT9eoA4Jl1MNFy"
+      },
+      "artists": [
+        {
+          "name": "Kalandra",
+          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
+        }
+      ],
+      "duration_ms": 332906,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/5cqsXJryoGyPL60iM5Wk9O"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
         "name": "Der Himmel muss warten",
         "url": "https://open.spotify.com/album/43Q7gDUQETLoJmJLDa4LhF"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 141750,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3foIGbQ1FPZYJJ7RQ6v4Nj"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
-        "name": "A Frame of Mind",
-        "url": "https://open.spotify.com/album/7tmd1LZ4ZT9eoA4Jl1MNFy"
-      },
-      "artists": [
-        {
-          "name": "Kalandra",
-          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
-        }
-      ],
-      "duration_ms": 332906,
-      "name": "I Am",
-      "url": "https://open.spotify.com/track/5cqsXJryoGyPL60iM5Wk9O"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -715,38 +715,6 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
-        "name": "Breaking from the Fold",
-        "url": "https://open.spotify.com/album/6QCAQYvJvxs6CxKij68p1F"
-      },
-      "artists": [
-        {
-          "name": "Triddana",
-          "url": "https://open.spotify.com/artist/0roc2y8jlLS01zexM1Uumb"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Breaking from the Fold",
-      "url": "https://open.spotify.com/track/6UKKQXlf8CC719Ra5LlCfv"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
-        "name": "Tv\u00e5 Systrar",
-        "url": "https://open.spotify.com/album/5pCP287g0eJdIxEUA8UNwB"
-      },
-      "artists": [
-        {
-          "name": "Garmarna",
-          "url": "https://open.spotify.com/artist/7ED7dE68y0YZGpyXcuiRsI"
-        }
-      ],
-      "duration_ms": 352787,
-      "name": "Tv\u00e5 Systrar",
-      "url": "https://open.spotify.com/track/50QofZ82BfzPpZjv88dVRb"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
         "name": "Gnosis",
         "url": "https://open.spotify.com/album/1YzQD6gRvgqJrjHPe4spGF"
       },
@@ -759,6 +727,22 @@
       "duration_ms": 275133,
       "name": "Gnosis",
       "url": "https://open.spotify.com/track/6cn4fBdGfBaBhhEB67V39P"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
+        "name": "Breaking from the Fold",
+        "url": "https://open.spotify.com/album/6QCAQYvJvxs6CxKij68p1F"
+      },
+      "artists": [
+        {
+          "name": "Triddana",
+          "url": "https://open.spotify.com/artist/0roc2y8jlLS01zexM1Uumb"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Breaking from the Fold",
+      "url": "https://open.spotify.com/track/6UKKQXlf8CC719Ra5LlCfv"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -795,6 +779,22 @@
       "duration_ms": 407293,
       "name": "S\u00c1LA",
       "url": "https://open.spotify.com/track/3XBG05K4XT1lFiiJkmYhwB"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
+        "name": "Tv\u00e5 Systrar",
+        "url": "https://open.spotify.com/album/5pCP287g0eJdIxEUA8UNwB"
+      },
+      "artists": [
+        {
+          "name": "Garmarna",
+          "url": "https://open.spotify.com/artist/7ED7dE68y0YZGpyXcuiRsI"
+        }
+      ],
+      "duration_ms": 352787,
+      "name": "Tv\u00e5 Systrar",
+      "url": "https://open.spotify.com/track/50QofZ82BfzPpZjv88dVRb"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
-        "name": "Huginn ok Muninn",
-        "url": "https://open.spotify.com/album/29kFr26QuyvyBsRyzwrFkb"
-      },
-      "artists": [
-        {
-          "name": "Nytt Land",
-          "url": "https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp"
-        }
-      ],
-      "duration_ms": 313469,
-      "name": "Huginn ok Muninn",
-      "url": "https://open.spotify.com/track/2Xxvm29k94TTwGmAX7UhBA"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
         "name": "Die Welle",
         "url": "https://open.spotify.com/album/7KTsLcGCa66kwmjYsXCTZl"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 282450,
       "name": "Die Welle",
       "url": "https://open.spotify.com/track/3r46i87MmG57Nmrrnfo2Mj"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
+        "name": "Huginn ok Muninn",
+        "url": "https://open.spotify.com/album/29kFr26QuyvyBsRyzwrFkb"
+      },
+      "artists": [
+        {
+          "name": "Nytt Land",
+          "url": "https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp"
+        }
+      ],
+      "duration_ms": 313469,
+      "name": "Huginn ok Muninn",
+      "url": "https://open.spotify.com/track/2Xxvm29k94TTwGmAX7UhBA"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
-        "name": "Assassin's Creed Valhalla: The Ravens Saga (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K"
-      },
-      "artists": [
-        {
-          "name": "Einar Selvik",
-          "url": "https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5"
-        }
-      ],
-      "duration_ms": 315880,
-      "name": "Hausbrj\u00f3tr - Skullcrusher",
-      "url": "https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
         "name": "Ymir",
         "url": "https://open.spotify.com/album/4nlE0mUHyiIe7Tdk6Jse5o"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 189544,
       "name": "Gr\u00e5 Hest",
       "url": "https://open.spotify.com/track/2udCUsTYBRwFWmhojeQQcZ"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
+        "name": "Assassin's Creed Valhalla: The Ravens Saga (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K"
+      },
+      "artists": [
+        {
+          "name": "Einar Selvik",
+          "url": "https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5"
+        }
+      ],
+      "duration_ms": 315880,
+      "name": "Hausbrj\u00f3tr - Skullcrusher",
+      "url": "https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt"
     },
     {
       "added_at": "2024-12-06 05:06:56",

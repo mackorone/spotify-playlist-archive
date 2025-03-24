@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 42261,
+  "num_followers": 42277,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2025-03-21 07:03:59",
       "album": {
+        "name": "Sooner",
+        "url": "https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O"
+    },
+    {
+      "added_at": "2025-03-21 07:03:59",
+      "album": {
         "name": "Commitment",
         "url": "https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 191160,
       "name": "Commitment",
       "url": "https://open.spotify.com/track/0UP1t8bOHiRzdeet1WYXLo"
-    },
-    {
-      "added_at": "2025-03-21 07:03:59",
-      "album": {
-        "name": "Sooner",
-        "url": "https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 169811,
-      "name": "Sooner",
-      "url": "https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O"
     },
     {
       "added_at": "2025-03-21 07:03:59",
@@ -739,6 +739,26 @@
     {
       "added_at": "2025-03-21 07:03:59",
       "album": {
+        "name": "Hold Me Down",
+        "url": "https://open.spotify.com/album/0qlOwDeWucIUd6XFbdw6So"
+      },
+      "artists": [
+        {
+          "name": "Runda",
+          "url": "https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x"
+        },
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        }
+      ],
+      "duration_ms": 175257,
+      "name": "Hold Me Down",
+      "url": "https://open.spotify.com/track/4FkDBM4l0NSox3DbuCI82u"
+    },
+    {
+      "added_at": "2025-03-21 07:03:59",
+      "album": {
         "name": "Beg For It",
         "url": "https://open.spotify.com/album/1BinKRne8TTTTp8PHojN8l"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 159294,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK"
-    },
-    {
-      "added_at": "2025-03-21 07:03:59",
-      "album": {
-        "name": "Hold Me Down",
-        "url": "https://open.spotify.com/album/0qlOwDeWucIUd6XFbdw6So"
-      },
-      "artists": [
-        {
-          "name": "Runda",
-          "url": "https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x"
-        },
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        }
-      ],
-      "duration_ms": 175257,
-      "name": "Hold Me Down",
-      "url": "https://open.spotify.com/track/4FkDBM4l0NSox3DbuCI82u"
     },
     {
       "added_at": "2025-03-21 07:03:59",
@@ -887,26 +887,6 @@
     {
       "added_at": "2025-03-21 07:03:59",
       "album": {
-        "name": "LCV3: Sweet Surrender.",
-        "url": "https://open.spotify.com/album/4mNAKHeQjbQ59K12lgcB4M"
-      },
-      "artists": [
-        {
-          "name": "WANI",
-          "url": "https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt"
-        },
-        {
-          "name": "Azanti",
-          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
-        }
-      ],
-      "duration_ms": 224954,
-      "name": "Wifey",
-      "url": "https://open.spotify.com/track/64sIw7KWbyz9HcNPYJ50UN"
-    },
-    {
-      "added_at": "2025-03-21 07:03:59",
-      "album": {
         "name": "Timing",
         "url": "https://open.spotify.com/album/3sMcxdB5Y9QVJ1avHaq9H8"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 178310,
       "name": "Timing",
       "url": "https://open.spotify.com/track/4KfHB0K5B88tHP4VRNheuT"
+    },
+    {
+      "added_at": "2025-03-21 07:03:59",
+      "album": {
+        "name": "LCV3: Sweet Surrender.",
+        "url": "https://open.spotify.com/album/4mNAKHeQjbQ59K12lgcB4M"
+      },
+      "artists": [
+        {
+          "name": "WANI",
+          "url": "https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt"
+        },
+        {
+          "name": "Azanti",
+          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
+        }
+      ],
+      "duration_ms": 224954,
+      "name": "Wifey",
+      "url": "https://open.spotify.com/track/64sIw7KWbyz9HcNPYJ50UN"
     },
     {
       "added_at": "2025-03-21 07:03:59",
@@ -1011,30 +1011,6 @@
     {
       "added_at": "2025-03-21 07:03:59",
       "album": {
-        "name": "Synergy",
-        "url": "https://open.spotify.com/album/0Gnu0tAKZ8BciRDgFP7pr0"
-      },
-      "artists": [
-        {
-          "name": "BoyPee",
-          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
-        },
-        {
-          "name": "Brown Joel",
-          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
-        },
-        {
-          "name": "Hyce",
-          "url": "https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA"
-        }
-      ],
-      "duration_ms": 153803,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/7cNbtgxY30NhUlygagOonu"
-    },
-    {
-      "added_at": "2025-03-21 07:03:59",
-      "album": {
         "name": "Finish Me",
         "url": "https://open.spotify.com/album/3sVIR1mKqq5oSE8UKwFvES"
       },
@@ -1059,6 +1035,30 @@
       "duration_ms": 131368,
       "name": "Finish Me",
       "url": "https://open.spotify.com/track/3BDcZ3uPxpKYEJCfItLV2h"
+    },
+    {
+      "added_at": "2025-03-21 07:03:59",
+      "album": {
+        "name": "Synergy",
+        "url": "https://open.spotify.com/album/0Gnu0tAKZ8BciRDgFP7pr0"
+      },
+      "artists": [
+        {
+          "name": "BoyPee",
+          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
+        },
+        {
+          "name": "Brown Joel",
+          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
+        },
+        {
+          "name": "Hyce",
+          "url": "https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA"
+        }
+      ],
+      "duration_ms": 153803,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/7cNbtgxY30NhUlygagOonu"
     },
     {
       "added_at": "2025-03-21 07:03:59",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-03-21 07:03:59",
       "album": {
-        "name": "ODABO",
-        "url": "https://open.spotify.com/album/4RHU8YObN5ELcnHs4IVeXR"
-      },
-      "artists": [
-        {
-          "name": "255",
-          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "NOBODY KNOW",
-      "url": "https://open.spotify.com/track/5Dg5iu5kzOP7Cdp6DT9jCF"
-    },
-    {
-      "added_at": "2025-03-21 07:03:59",
-      "album": {
         "name": "Onji",
         "url": "https://open.spotify.com/album/7hq98PeM25enyZHrg6sxo0"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 141912,
       "name": "Onji",
       "url": "https://open.spotify.com/track/7rAaSPUwRJ79wMw19391tU"
+    },
+    {
+      "added_at": "2025-03-21 07:03:59",
+      "album": {
+        "name": "ODABO",
+        "url": "https://open.spotify.com/album/4RHU8YObN5ELcnHs4IVeXR"
+      },
+      "artists": [
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "NOBODY KNOW",
+      "url": "https://open.spotify.com/track/5Dg5iu5kzOP7Cdp6DT9jCF"
     },
     {
       "added_at": "2025-03-21 07:03:59",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2025-03-21 07:03:59",
       "album": {
-        "name": "Teslim: A Lover Boy PTSD",
-        "url": "https://open.spotify.com/album/4ma3gfhBBC4zmqBGZKnufW"
-      },
-      "artists": [
-        {
-          "name": "Vector",
-          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 235752,
-      "name": "Repay Your Part",
-      "url": "https://open.spotify.com/track/0bos4KHIefjCBFT9qcMSu1"
-    },
-    {
-      "added_at": "2025-03-21 07:03:59",
-      "album": {
         "name": "Someday",
         "url": "https://open.spotify.com/album/63Ige7U9L2jtGSOkstekfj"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 180000,
       "name": "Someday",
       "url": "https://open.spotify.com/track/77vjnIc75JPGhsrVujcgfA"
+    },
+    {
+      "added_at": "2025-03-21 07:03:59",
+      "album": {
+        "name": "Teslim: A Lover Boy PTSD",
+        "url": "https://open.spotify.com/album/4ma3gfhBBC4zmqBGZKnufW"
+      },
+      "artists": [
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 235752,
+      "name": "Repay Your Part",
+      "url": "https://open.spotify.com/track/0bos4KHIefjCBFT9qcMSu1"
     },
     {
       "added_at": "2025-03-21 07:03:59",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-03-21 07:03:59",
       "album": {
-        "name": "Princess",
-        "url": "https://open.spotify.com/album/64zKcYay51UzGFLBgy92Xl"
-      },
-      "artists": [
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        }
-      ],
-      "duration_ms": 97550,
-      "name": "Princess",
-      "url": "https://open.spotify.com/track/5mxzoHipkwp4QJaKUA128x"
-    },
-    {
-      "added_at": "2025-03-21 07:03:59",
-      "album": {
         "name": "Suloli",
         "url": "https://open.spotify.com/album/3WHNl4napJQ87W8Hxl5bnF"
       },
@@ -1427,6 +1411,38 @@
       "duration_ms": 164648,
       "name": "Suloli",
       "url": "https://open.spotify.com/track/5BrImD8IsViJmOmODTZJTo"
+    },
+    {
+      "added_at": "2025-03-21 07:03:59",
+      "album": {
+        "name": "Princess",
+        "url": "https://open.spotify.com/album/64zKcYay51UzGFLBgy92Xl"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        }
+      ],
+      "duration_ms": 97550,
+      "name": "Princess",
+      "url": "https://open.spotify.com/track/5mxzoHipkwp4QJaKUA128x"
+    },
+    {
+      "added_at": "2025-03-21 07:03:59",
+      "album": {
+        "name": "Recess",
+        "url": "https://open.spotify.com/album/6CkWdslQmB9E9XdYD9opr6"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/0U1EVGdTkRoDogEAlKv8Go"
     },
     {
       "added_at": "2025-03-21 07:03:59",
@@ -1483,22 +1499,6 @@
       "duration_ms": 199885,
       "name": "Can't Come Close",
       "url": "https://open.spotify.com/track/629mozhmOWZRGHulHVkWwu"
-    },
-    {
-      "added_at": "2025-03-21 07:03:59",
-      "album": {
-        "name": "Recess",
-        "url": "https://open.spotify.com/album/6CkWdslQmB9E9XdYD9opr6"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/0U1EVGdTkRoDogEAlKv8Go"
     }
   ],
   "unique_name": "Lovin' Beats",

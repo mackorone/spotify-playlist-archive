@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KVXoFMr2xO.md) - [plain]
 
 > A creepy collection of scary sounds
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,853 likes - 127 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,850 likes - 127 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KVXoFMr2xO.md) - [plain]
 | 24 | [Dance Of Shadows](https://open.spotify.com/track/5ibYDJz9QZkHjfJWj47VRD) | [Warpzeit](https://open.spotify.com/artist/3e9fK5PYMDiMgY0s1Am6iJ) | [Dance Of Shadows](https://open.spotify.com/album/5S02MWbA2RUzya1JC02zn8) | 2:29 |
 | 25 | [Scary Halloween Sounds](https://open.spotify.com/track/2Ngrrefa8D3uRNPeMESqll) | [Dr\. Akula](https://open.spotify.com/artist/1fcOWe0Od7fb9MZ1SGcsEw) | [Haunted House Sound Effects](https://open.spotify.com/album/4l2c0x6Lt5sIzjRN3mgkSx) | 5:16 |
 | 26 | [Alone We're Left](https://open.spotify.com/track/49iLIBbtL2jM321Drnj7I0) | [Prof\. Scape](https://open.spotify.com/artist/3UKpj8jskGniw2HTDY7sa6) | [Let There Be Dark](https://open.spotify.com/album/7sw4lczTvr6zdbXiGz2lbp) | 5:06 |
-| 27 | [Haunting Music](https://open.spotify.com/track/4h0N5lGSgJjbDNNYRpRUKN) | [Horror Music of the Night](https://open.spotify.com/artist/6QwoKweH3ySp3zSmpZpzPg) | [Horror Music of the Night: Scary Sounds, Halloween Sounds and Spooky Sound Efx](https://open.spotify.com/album/7Ae2JYIXnbn5wr2k9rQCOi) | 3:52 |
+| 27 | [Haunting Music](https://open.spotify.com/track/4h0N5lGSgJjbDNNYRpRUKN) | [Horror Nightmare](https://open.spotify.com/artist/1ECDiQNbYwXSzrc6OjuGaq) | [Horror Music of the Night: Scary Sounds, Halloween Sounds and Spooky Sound Efx](https://open.spotify.com/album/7Ae2JYIXnbn5wr2k9rQCOi) | 3:52 |
 | 28 | [Graveyard Inferno](https://open.spotify.com/track/6WYcHl5JBS3JmZFGNrZnKc) | [Haunted Heights](https://open.spotify.com/artist/43YNwiGvh2wHRrKK8m3trR) | [Spooky Halloween Sounds](https://open.spotify.com/album/3Wi1VJa07R0dMBvTLHayvY) | 2:46 |
 | 29 | [Sandmen](https://open.spotify.com/track/0HkAMEiDz97dCeEISdZoFg) | [Prof\. Scape](https://open.spotify.com/artist/3UKpj8jskGniw2HTDY7sa6) | [Halloweenscapes](https://open.spotify.com/album/2ZUQ4nLxOEUBTxZyWE8mip) | 5:17 |
 | 30 | [Demon’s Organ](https://open.spotify.com/track/24h2G7n0wGCNud0EqEk410) | [Monkville](https://open.spotify.com/artist/53qEoYIkHrhdTdC6AaSoiJ) | [Demon’s Organ](https://open.spotify.com/album/3i6GAC37ByZmPLsRz1X7Gh) | 2:29 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KVXoFMr2xO.md) - [plain]
 | 58 | [Hour Of Terror](https://open.spotify.com/track/0QIi0lwuVJqOJKpa49mf9Q) | [Freddy's Coming](https://open.spotify.com/artist/1s06PFLh3SftRWF1DqdaFz) | [Hour Of Terror](https://open.spotify.com/album/1I9osKy3436t9YuOXZRwsm) | 3:00 |
 | 59 | [Cursed Zombie Melodies](https://open.spotify.com/track/6quAjZimfwXjCdBDn45dtv) | [Gail Donovan](https://open.spotify.com/artist/0cvQsGKGSHaZ5HraPH4ptv) | [Cursed Zombie Melodies](https://open.spotify.com/album/5mjcwQmKlJCmet278Nz3oj) | 2:12 |
 | 60 | [Creepy Crawling Shadows](https://open.spotify.com/track/5POJFNY7bD5VgD192MceeH) | [October Monsters](https://open.spotify.com/artist/7IFfQmVbdIBFsGKoYXqgID) | [Spooky Nights for Trick or Treating](https://open.spotify.com/album/4NW3cEk7fG6n8En1GpVE7t) | 3:04 |
-| 61 | [Creepy Music](https://open.spotify.com/track/4G2sYg6ajM2aXeht06v9Mq) | [Horror Music of the Night](https://open.spotify.com/artist/6QwoKweH3ySp3zSmpZpzPg) | [Horror Music of the Night: Scary Sounds, Halloween Sounds and Spooky Sound Efx](https://open.spotify.com/album/7Ae2JYIXnbn5wr2k9rQCOi) | 4:00 |
+| 61 | [Creepy Music](https://open.spotify.com/track/4G2sYg6ajM2aXeht06v9Mq) | [Horror Nightmare](https://open.spotify.com/artist/1ECDiQNbYwXSzrc6OjuGaq) | [Horror Music of the Night: Scary Sounds, Halloween Sounds and Spooky Sound Efx](https://open.spotify.com/album/7Ae2JYIXnbn5wr2k9rQCOi) | 4:00 |
 | 62 | [Spooky Forest Enchantment](https://open.spotify.com/track/2zVlvyKnSVg7drIIygxvgU) | [Haunted Heights](https://open.spotify.com/artist/43YNwiGvh2wHRrKK8m3trR) | [Scary Halloween Sounds](https://open.spotify.com/album/5i1xFxHwnH40tevnEFQa8C) | 3:04 |
 | 63 | [The Murder House](https://open.spotify.com/track/67fXHEHMOogzvyRDS529Vw) | [Old Dolls House](https://open.spotify.com/artist/2jacoDrnZvWxnc5qSqVpXG) | [Midnight Cemetary](https://open.spotify.com/album/6Dk33UsNeFYNdiYYw9WFS4) | 5:11 |
 | 64 | [Can't Look](https://open.spotify.com/track/63Ol3fSd38ntvKPeolso9C) | [Dark Ambience](https://open.spotify.com/artist/5neeMavY4cbA1qi7k6FIZd) | [Happy Halloween](https://open.spotify.com/album/4AimucFsDRWQnVibO5l1yV) | 3:12 |

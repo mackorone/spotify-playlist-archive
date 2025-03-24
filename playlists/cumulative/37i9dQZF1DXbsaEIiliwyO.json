@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-05",
-  "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3067\u8a71\u984c\u306e\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Best & new rock anthems for anime fans. Cover: Poppin'Party",
+  "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3067\u8a71\u984c\u306e\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Best & new rock anthems for anime fans. Cover: Ave Mujica",
   "name": "Anime Rocks",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-24",
       "duration_ms": 272236,
       "name": "ambiguous [PROGRESS]",
       "url": "https://open.spotify.com/track/185dbbLRrRN72d4o3zQ6HG"
@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Crucifix X",
+        "url": "https://open.spotify.com/album/4ot7hG62XAaF1zX1YG051J"
+      },
+      "artists": [
+        {
+          "name": "Ave Mujica",
+          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299199,
+      "name": "Crucifix X",
+      "url": "https://open.spotify.com/track/65Ccl0gl2WtWCGNdlC38a7"
+    },
+    {
+      "album": {
         "name": "DOGLAND",
         "url": "https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426"
       },
@@ -380,6 +398,24 @@
       "duration_ms": 219573,
       "name": "Funny Bunny",
       "url": "https://open.spotify.com/track/540zbclf7PMTNliNeSO6By"
+    },
+    {
+      "album": {
+        "name": "Georgette Me, Georgette You",
+        "url": "https://open.spotify.com/album/3N1hTvi3bAEjCHbsV4UXNb"
+      },
+      "artists": [
+        {
+          "name": "Ave Mujica",
+          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234679,
+      "name": "Georgette Me, Georgette You",
+      "url": "https://open.spotify.com/track/4swJJmVNeZdXIS6SFnYQPR"
     },
     {
       "album": {
@@ -936,7 +972,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-24",
       "duration_ms": 223000,
       "name": "MILKY WAY",
       "url": "https://open.spotify.com/track/6nGpFQPOoWeKhqnsm5TpNc"

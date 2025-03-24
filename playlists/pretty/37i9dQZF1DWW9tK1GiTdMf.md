@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per stare così ༼ ༎ຶ ෴ ༎ຶ༽ NASKA in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,043 likes - 118 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,060 likes - 118 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 62 | [Gold](https://open.spotify.com/track/1QJdBEY5q9hLI0L14whtZM) | [Marta Vega](https://open.spotify.com/artist/7KtHuw3e8j6LnA4PIHyhAr) | [Confessions](https://open.spotify.com/album/1aVsfI84q3OHuC0gpcFTij) | 3:14 |
 | 63 | [CEMENTO](https://open.spotify.com/track/3vB23v6nNjrnXWUgF9BoML) | [Holy Francisco](https://open.spotify.com/artist/5WChj7aRvGYS5DGf8gKu3I) | [CEMENTO](https://open.spotify.com/album/57yOle6fNUZN99nfVM5W1C) | 2:30 |
 | 64 | [Lucky Strike](https://open.spotify.com/track/2OBzGrQ4J0nEsWddotun0M) | [PIÑACOLADA](https://open.spotify.com/artist/4LfIb06g3s3uQkkz2QW84i), [micol](https://open.spotify.com/artist/14XfK2OCx8cd8XSYlRmgtB), [Ozuke](https://open.spotify.com/artist/02mcDF2RKdyczspetj1gwX), [Tomato Strafford](https://open.spotify.com/artist/18nKF1ARKBRn99kSMhpoUT), [mezzocammello](https://open.spotify.com/artist/5sQgIRNEUGevhQzxZk6leD) | [Lucky Strike](https://open.spotify.com/album/45FFF2FETS73o7tcq6Cwur) | 2:27 |
-| 65 | [muoio](https://open.spotify.com/track/5kiopw4GSbgkbk4OHClXHW) | [DIEL](https://open.spotify.com/artist/2HN0Mo4CzsT9puxAGdTZrX) | [muoio](https://open.spotify.com/album/0ZYB2XPGKtITiRZ8lAiRkn) | 2:10 |
+| 65 | [muoio](https://open.spotify.com/track/5kiopw4GSbgkbk4OHClXHW) | [DIEL](https://open.spotify.com/artist/2HN0Mo4CzsT9puxAGdTZrX), [Piccolorvssk](https://open.spotify.com/artist/4V2xmUqZRloPOuVbH6r4ue) | [muoio](https://open.spotify.com/album/0ZYB2XPGKtITiRZ8lAiRkn) | 2:10 |
 | 66 | [Ora Mi Passa](https://open.spotify.com/track/0C8yrNoe1xYsvvf17Qj73Z) | [IN6N](https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE), [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU) | [Ora Mi Passa](https://open.spotify.com/album/43K2Up7GyWcwDJXko0sS10) | 2:39 |
 | 67 | [GAS!](https://open.spotify.com/track/0JzIrz3i8sfas9otFUGG61) | [daze+](https://open.spotify.com/artist/1lXUljfiu01uRvllBUkSsT), [+sudore](https://open.spotify.com/artist/6BZkzIw31SNqxISpdWnetC) | [GAS!](https://open.spotify.com/album/1p279ILFyC1kE3NdqFC9i5) | 2:36 |
 | 68 | [Lo strano effetto](https://open.spotify.com/track/5OfVYZISbCZI5LtyOSaboy) | [Joaquim Merdavic](https://open.spotify.com/artist/11THbFxJCH5fqQ99sBnzL9), [No Label](https://open.spotify.com/artist/7eSQIwqpU7HGvEQVgcMqQx) | [Lo strano effetto](https://open.spotify.com/album/2Ez8SBLfiOPuoc94tJSTFK) | 2:24 |

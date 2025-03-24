@@ -4,7 +4,7 @@
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: Rival Consoles
 
-1,271 songs - 4 day 5 hr 11 min
+1,272 songs - 4 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1080,6 +1080,7 @@
 | [The Last Days of May](https://open.spotify.com/track/2itw2SqO2AVXvpdPCbLN4Z) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [The Last Days of May](https://open.spotify.com/album/073zUqVs2Y8wjiUgtezG6M) | 23:41 | 2025-02-14 |  |
 | [The Last Island](https://open.spotify.com/track/6aPXHiku7le4AwOI3tqesR) | [Time Away](https://open.spotify.com/artist/7nmRj45sN6eA6eMJsPjW1k) | [Age of Water](https://open.spotify.com/album/74ynFeiqnFkdw0m2Q6mD22) | 6:48 | 2022-01-14 | 2022-02-20 |
 | [The Light Inside](https://open.spotify.com/track/2Lz8WifrGnG25lD4PDiEzZ) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [The Light Inside, the Dark Outside](https://open.spotify.com/album/7aZgYfygdv2JKqBNRGgZTq) | 6:10 | 2022-07-01 | 2022-07-19 |
+| [The Light Is Still There \- Peter Sandberg Remix](https://open.spotify.com/track/2DZNHwQHjsAExRxTlX98so) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P), [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [The Light Is Still There \(Peter Sandberg Remix\)](https://open.spotify.com/album/1rjqWLySW3sTl0tmWqK0LS) | 3:23 | 2025-03-21 |  |
 | [The Loss of Wilderness](https://open.spotify.com/track/4VAcyWI2N7uVBSKtpElawe) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [The Loss of Wilderness](https://open.spotify.com/album/7lMF8u1HdnWqwd1AaWVXzl) | 5:57 | 2022-01-14 | 2022-02-20 |
 | [The Marrow Thieves](https://open.spotify.com/track/09LnT0qfWTuOMsSElTczCE) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Futures](https://open.spotify.com/album/1vOuSLwIsw8fLB3JFlFN8t) | 4:55 | 2022-11-30 | 2023-01-01 |
 | [The Marrow Thieves](https://open.spotify.com/track/4l82raVUjUHXmiJQ8cCd0T) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [The Marrow Thieves](https://open.spotify.com/album/2aLBMB40rhKQ10BR9FEzQN) | 4:55 | 2022-05-06 | 2022-07-28 |

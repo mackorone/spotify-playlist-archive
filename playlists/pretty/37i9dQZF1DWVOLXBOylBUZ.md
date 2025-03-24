@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Kapo y Myke Towers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,607 likes - 108 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,590 likes - 108 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

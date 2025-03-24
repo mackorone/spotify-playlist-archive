@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Dam Swindle
 
-289 songs - 18 hr 14 min
+290 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Boxing feat\. King Krule \- DJ Python Remix](https://open.spotify.com/track/6czf3lyVvUFkYYsFbJbafS) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Boxing feat\. King Krule \(DJ Python Remix\)](https://open.spotify.com/album/4c3ieE9hkCpGLuUL59MrE1) | 7:38 | 2025-03-07 |  |
 | [Break It Off](https://open.spotify.com/track/1Z8PTHAZDU21sc4YI2FuHe) | [David Armada](https://open.spotify.com/artist/0NCZoJwqMYvBpYFRnKnAMh) | [Break It Off](https://open.spotify.com/album/6cJlNHxEOuGgKvNu2jJy3b) | 3:17 | 2024-04-12 | 2025-02-14 |
 | [Broke My Heart](https://open.spotify.com/track/4jf9aWVk63e8c8lC7HABbK) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Broke My Heart](https://open.spotify.com/album/22TAmmHGJNDO7fDwlf0RE7) | 2:46 | 2024-09-19 | 2025-02-14 |
-| [BROKEN](https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [BROKEN](https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24) | 4:31 | 2024-10-03 |  |
+| [BROKEN](https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [BROKEN](https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24) | 4:31 | 2024-10-03 | 2025-03-24 |
 | [Broken Mirror](https://open.spotify.com/track/44oPs8vjsT9v6Hjt50TvVh) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Innerlight EP](https://open.spotify.com/album/2tg28FJC1DoNaE19f9FpY7) | 3:08 | 2021-10-28 | 2024-04-12 |
 | [Brother](https://open.spotify.com/track/6C25imoH99zqtCoPmsX4O4) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Brother](https://open.spotify.com/album/4ZoGXS5ryqUYRVv8XkTS1N) | 4:33 | 2024-04-12 | 2024-07-04 |
 | [Brother](https://open.spotify.com/track/7gfui7vTdV6Jo7c804DnKh) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Brother](https://open.spotify.com/album/5qO8mU6qXhQUKMp4C5C62p) | 4:33 | 2021-10-28 | 2024-04-19 |
@@ -171,6 +171,7 @@
 | [Make It Easy \(with Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/5eWHJ1g1VWtHaGd3vle4me) | [Lovequest](https://open.spotify.com/artist/53aJGeGe9J6suHkjWJZ2aj), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9), [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1), [Doorly](https://open.spotify.com/artist/4uUZsrxHK6peebj1rpawBa), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Make It Easy](https://open.spotify.com/album/2VPqWnQAHvxUYRrDvCHpC0) | 2:54 | 2024-11-08 | 2025-02-14 |
 | [MAYBE // YES](https://open.spotify.com/track/0ekKe6Fjv6TjApSyU7Fqw1) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5), [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [MAYBE // YES](https://open.spotify.com/album/7zVYSpvaRKJCkq18mQww6Z) | 3:29 | 2024-05-24 | 2025-02-14 |
 | [maybe it's u](https://open.spotify.com/track/2K0onXEr9iCUSYonEf0Bl4) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [maybe it's u](https://open.spotify.com/album/5tDwbRikZ6n4A1EN2fJPHZ) | 3:57 | 2024-07-03 | 2025-02-23 |
+| [Mild To Moderate Pain](https://open.spotify.com/track/6AxlvreGHDqoo0aVeVCmTK) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Mild To Moderate Pain](https://open.spotify.com/album/4XF8dYSOGW5Xdy8x5CfOm3) | 3:15 | 2025-03-21 |  |
 | [Mind the gap](https://open.spotify.com/track/0sgjifApyLtCKDyDRAEiUN) | [Nikonn](https://open.spotify.com/artist/1IUR872zLRlWXAfr7Uls4Q) | [Mind the gap](https://open.spotify.com/album/3dHA39Jh9zC6GK8EdiuTv8) | 4:06 | 2024-03-01 | 2024-07-19 |
 | [Mister Magic](https://open.spotify.com/track/2EDdM9Cd6gDzGGejBqxpse) | [Babylamb](https://open.spotify.com/artist/2eO9bZ9xHCINHEtl8vJPC8) | [Mister Magic](https://open.spotify.com/album/6rdKSNASXtIfyMcfsc35JD) | 3:33 | 2021-10-28 | 2024-03-02 |
 | [Moments Die \- 1\-800 GIRLS Remix](https://open.spotify.com/track/7z6IjceFAK4Zw1qkIC2rKB) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g), [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [Moments Die \(1\-800 GIRLS Remix\)](https://open.spotify.com/album/1neIt7DVsdahqpmr7FMTyT) | 4:37 | 2024-06-21 | 2025-02-14 |

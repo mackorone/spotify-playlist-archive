@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-412 songs - 1 day 1 hr 57 min
+413 songs - 1 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [3am](https://open.spotify.com/track/3e8lI9dQ9q0PHIgTtQPhcH) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [3am](https://open.spotify.com/album/1sMVWxsUWC5UKxKFQYMAKM) | 2:56 | 2021-10-11 | 2022-04-20 |
 | [80's High School](https://open.spotify.com/track/4NnNGFTcMv5OK1LvIA2Wgw) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Melodrama](https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX) | 3:22 | 2020-12-22 | 2024-10-04 |
 | [A Second With You](https://open.spotify.com/track/2KeTrh78SDZCwwtmGlgncd) | [Llovers](https://open.spotify.com/artist/0MGqjWWotQzv4HkaNAiWn5) | [A Second With You](https://open.spotify.com/album/3sBelM5IlJE4Cx4ru5TrDl) | 4:08 | 2019-11-19\* | 2020-08-09 |
+| [Agape](https://open.spotify.com/track/20Q3uWKaK1C9VQMYjfXq9R) | [.com](https://open.spotify.com/artist/0KMlyqeocN19K1DTl4TpzQ) | [Agape](https://open.spotify.com/album/0OUsdW7NNurcD9FgDMWPex) | 3:09 | 2024-08-29 |  |
 | [Alien Wedding](https://open.spotify.com/track/7lV3HVRsnGoxQjwPftVmRd) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Transgresorcorruptor](https://open.spotify.com/artist/4eUhfPvLLg3W6H8n8uRnd3) | [Alien Wedding](https://open.spotify.com/album/4FDGJU93GJ4wrqJWkfNY0B) | 4:46 | 2020-09-19 | 2020-12-22 |
 | [All The Red](https://open.spotify.com/track/2Cw4Z95OdYBElmbdhj5EwU) | [HunBjørn](https://open.spotify.com/artist/6TFEAKLdGVnNTpIZxDjXen) | [All The Red](https://open.spotify.com/album/704CC2hBdWnHFxg5YNjVCk) | 4:07 | 2019-11-19\* | 2020-12-22 |
 | [All Under the Sky](https://open.spotify.com/track/6w0HWYMtuqgOVlo5geMZiJ) | [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2) | [All Under the Sky](https://open.spotify.com/album/0Ma0kcvPUWsIdXwao0oFCM) | 4:37 | 2023-03-24 | 2023-06-08 |
@@ -176,7 +177,7 @@
 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/3h2CkNuAKSxZXWGElwcOvH) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/album/3TlKOq7pgN2XIAM3J2HSyD) | 5:27 | 2021-10-09 | 2022-10-07 |
 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 5:27 | 2022-07-06 | 2024-04-19 |
 | [I Don't Want to Be Alone](https://open.spotify.com/track/3TJJmh4u2wHIZdYbImGyeM) | [Llovers](https://open.spotify.com/artist/0MGqjWWotQzv4HkaNAiWn5) | [I Don't Want to Be Alone](https://open.spotify.com/album/3jNjCCdOzAP9J4Szb8vuJ6) | 3:22 | 2020-08-09 | 2022-04-21 |
-| [I Feel It](https://open.spotify.com/track/2iaFl4QUYV75nGVb2Eic8o) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [I Feel It](https://open.spotify.com/album/379yDlK37waTY9OTYkixcR) | 3:05 | 2023-09-29 |  |
+| [I Feel It](https://open.spotify.com/track/2iaFl4QUYV75nGVb2Eic8o) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [I Feel It](https://open.spotify.com/album/379yDlK37waTY9OTYkixcR) | 3:05 | 2023-09-29 | 2025-03-24 |
 | [i walk this earth all by myself](https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i walk this earth all by myself](https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG) | 2:25 | 2021-03-06 | 2024-07-27 |
 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 | 2023-07-21 | 2024-04-19 |
 | [I'm Found](https://open.spotify.com/track/6lDydBw1co0u11hP3kMAgj) | [Katrina Ford](https://open.spotify.com/artist/0m1QOHroy845vm0zq28eIA) | [I'm Found](https://open.spotify.com/album/3Eh7jOuBuUZO5eq66WVANC) | 4:03 | 2022-07-06 | 2022-07-29 |

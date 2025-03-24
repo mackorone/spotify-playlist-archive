@@ -108,7 +108,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-24",
       "duration_ms": 148333,
       "name": "And I Thought My Jokes Were Bad",
       "url": "https://open.spotify.com/track/3QRK9jOyP2qQ9ZaYdO3QCn"
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-24",
       "duration_ms": 225093,
       "name": "The Crystal Chamber - From \"Atlantis: The Lost Empire\"/Score",
       "url": "https://open.spotify.com/track/7ja0rsJBBCqZH4f3Ga9uGn"
@@ -1582,6 +1582,24 @@
       "duration_ms": 87306,
       "name": "The Train",
       "url": "https://open.spotify.com/track/29cJxbdpkrxJ2Eo0kKGwwV"
+    },
+    {
+      "album": {
+        "name": "The Hunger Games: Original Motion Picture Score",
+        "url": "https://open.spotify.com/album/5tF7RSw6Zke0WY4fPf6LR9"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87306,
+      "name": "The Train",
+      "url": "https://open.spotify.com/track/2yQckSZWBjONzoskXMdE5v"
     },
     {
       "album": {
@@ -1808,7 +1826,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 145506,
       "name": "Your Favorite Color is Green - From \"The Hunger Games: Mockingjay, Part 2\" Soundtrack",
       "url": "https://open.spotify.com/track/0eALlNRLWpbSmHllAhAW6x"

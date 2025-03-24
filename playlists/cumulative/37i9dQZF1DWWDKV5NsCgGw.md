@@ -4,7 +4,7 @@
 
 > Karma comes for everyone...Listen to the music from and inspired by The White Lotus, streaming only on Max.
 
-119 songs - 5 hr 19 min
+121 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,9 +122,11 @@
 | [What's Gonna Happen to Us?](https://open.spotify.com/track/7dKzfKQKBo2WpzLmpn1Zyx) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 2:05 | 2023-02-17 |  |
 | [Wtf!](https://open.spotify.com/track/4YNWupot2LrDYPYMCuaTnP) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 0:34 | 2023-02-17 |  |
 | [ข้อยเว้าแม่นบ่](https://open.spotify.com/track/6E4l6FE1s1avn94R8wFN61) | [Nantida Kaewbuasai](https://open.spotify.com/artist/0BjogS1PYYrm9hO9nEChcK) | [ข้อยเว้าแม่นบ่ \(Original Vinyl Sound\)](https://open.spotify.com/album/10dx9XOLWMQFqGLw24YL73) | 3:46 | 2025-03-03 |  |
+| [ที่แล้วก็แล้วไป](https://open.spotify.com/track/4uEsovPihlsPqQxJgRboaB) | [Ter Rewat](https://open.spotify.com/artist/0edoXHzI1rCbDSkMj8xYWz) | [เรวัต พุทธินันทน์ เต๋อ 1](https://open.spotify.com/album/1WrATheM8mHYlqNW7K4u3m) | 3:00 | 2025-03-24 |  |
 | [พี่สาวครับ](https://open.spotify.com/track/5v7pw1hpLZpQIdMhkgTM6A) | [Charan Manophet](https://open.spotify.com/artist/0UlBSF0yRVV3QUSZ3yYemW) | [โฟล์คซองคำเมือง Audiophile Remastered](https://open.spotify.com/album/4Tp2P3Y2nmu9wUoEiCa6RV) | 2:48 | 2025-02-17 |  |
 | [มันแปลกดีนะ](https://open.spotify.com/track/3vTTmNlC3WyHwO9xJZPbCZ) | [Ter Rewat](https://open.spotify.com/artist/0edoXHzI1rCbDSkMj8xYWz) | [เรวัต พุทธินันทน์ เต๋อ 2](https://open.spotify.com/album/1nOoT8fcd1kHyPNUu9MthW) | 3:13 | 2025-03-14 |  |
 | [สามช่าคาราบาว](https://open.spotify.com/track/0q3evbLMFwykdzaUJWYYuk) | [Carabao](https://open.spotify.com/artist/1LCwH85p61LDPxSg2uWUL9) | [คาราบาวซุปเปอร์ 3 ช่า Non\-Stop Vol.2](https://open.spotify.com/album/2UzoII0TGhsk3FGoUlOR4n) | 4:33 | 2025-03-03 |  |
+| [เธอคือความฝัน \(MUSIC BOX VERSION\)](https://open.spotify.com/track/5oZY3CtJ4xY8Rywnpemi8z) | [พราว](https://open.spotify.com/artist/3JGC3LkYrwlrTscixVwY72) | [L'amour](https://open.spotify.com/album/2ZRxqDuFkP4XAoYSe4xzma) | 3:29 | 2025-03-24 |  |
 | [เมด อิน ไทยแลนด์](https://open.spotify.com/track/2Ntjw1C9E7XJYEaTd2xDEC) | [Carabao](https://open.spotify.com/artist/1LCwH85p61LDPxSg2uWUL9) | [เมด อิน ไทยแลนด์](https://open.spotify.com/album/4u0zQGYsODkKOqmVLO572V) | 4:11 | 2025-02-17 |  |
 | [ラム・キアオ\(ターン・ニャーオ\)](https://open.spotify.com/track/6v6Dl3YSMK5suVPcllEYGB) | [Chawiwan Damnoen](https://open.spotify.com/artist/7gC3jgnNKJdzJkt0eW58gh) | [THE WORLD ROOTS MUSIC LIBRARY: タイ/イサーンの音楽～モーラムとポーンラーン](https://open.spotify.com/album/1QdIKIVu6WJckuRjtm7J8M) | 3:45 | 2025-03-03 |  |
 

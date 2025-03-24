@@ -1,6 +1,6 @@
 {
   "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=7X1_tHmfSle3dzFG6qztgg\">Francois van Coke</a>",
-  "num_followers": 22634,
+  "num_followers": 22655,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -167,18 +167,18 @@
     {
       "added_at": "2025-03-21 04:59:05",
       "album": {
-        "name": "Victor Ludorum",
-        "url": "https://open.spotify.com/album/53bANzS97yzookNh9mNnm3"
+        "name": "Die Kortste Hier",
+        "url": "https://open.spotify.com/album/7bQzKeNQdvwiiPmOh4yAo8"
       },
       "artists": [
         {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
         }
       ],
-      "duration_ms": 189895,
-      "name": "Victor Ludorum",
-      "url": "https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq"
+      "duration_ms": 171428,
+      "name": "Die Kortste Hier",
+      "url": "https://open.spotify.com/track/5xO82P7iaRC0LoUc2pz21l"
     },
     {
       "added_at": "2025-03-21 04:59:05",
@@ -199,18 +199,18 @@
     {
       "added_at": "2025-03-21 04:59:05",
       "album": {
-        "name": "Die Kortste Hier",
-        "url": "https://open.spotify.com/album/7bQzKeNQdvwiiPmOh4yAo8"
+        "name": "Victor Ludorum",
+        "url": "https://open.spotify.com/album/53bANzS97yzookNh9mNnm3"
       },
       "artists": [
         {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Die Kortste Hier",
-      "url": "https://open.spotify.com/track/5xO82P7iaRC0LoUc2pz21l"
+      "duration_ms": 189895,
+      "name": "Victor Ludorum",
+      "url": "https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq"
     },
     {
       "added_at": "2025-03-21 04:59:05",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-03-21 04:59:05",
       "album": {
-        "name": "Gelukkige Lewe",
-        "url": "https://open.spotify.com/album/4oRJ7f4lYdd1boDyEfHkjE"
-      },
-      "artists": [
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        }
-      ],
-      "duration_ms": 168845,
-      "name": "Gelukkige Lewe",
-      "url": "https://open.spotify.com/track/3swdczqkARpXMh9mFxF2NO"
-    },
-    {
-      "added_at": "2025-03-21 04:59:05",
-      "album": {
         "name": "Against All Odds",
         "url": "https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 175746,
       "name": "Against All Odds",
       "url": "https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW"
+    },
+    {
+      "added_at": "2025-03-21 04:59:05",
+      "album": {
+        "name": "Gelukkige Lewe",
+        "url": "https://open.spotify.com/album/4oRJ7f4lYdd1boDyEfHkjE"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "duration_ms": 168845,
+      "name": "Gelukkige Lewe",
+      "url": "https://open.spotify.com/track/3swdczqkARpXMh9mFxF2NO"
     },
     {
       "added_at": "2025-03-21 04:59:05",
@@ -503,6 +503,26 @@
     {
       "added_at": "2025-03-21 04:59:05",
       "album": {
+        "name": "Loopdop",
+        "url": "https://open.spotify.com/album/3JFCqg5ukbSwDetRqzIsmg"
+      },
+      "artists": [
+        {
+          "name": "MJ Nel",
+          "url": "https://open.spotify.com/artist/0f26xBbgdKK8R4sD6vFO4A"
+        },
+        {
+          "name": "Ou Tekkies",
+          "url": "https://open.spotify.com/artist/2uUXZoTBe7AQhZ9kVAaPOb"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Loopdop",
+      "url": "https://open.spotify.com/track/3HBDVe4cy78xRREk0HMb6r"
+    },
+    {
+      "added_at": "2025-03-21 04:59:05",
+      "album": {
         "name": "Die Tuindwergies",
         "url": "https://open.spotify.com/album/4Yxsbbl1KwF9w2gMAEBGNl"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 224626,
       "name": "Afrikaners Is Plesierig",
       "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
-    },
-    {
-      "added_at": "2025-03-21 04:59:05",
-      "album": {
-        "name": "Loopdop",
-        "url": "https://open.spotify.com/album/3JFCqg5ukbSwDetRqzIsmg"
-      },
-      "artists": [
-        {
-          "name": "MJ Nel",
-          "url": "https://open.spotify.com/artist/0f26xBbgdKK8R4sD6vFO4A"
-        },
-        {
-          "name": "Ou Tekkies",
-          "url": "https://open.spotify.com/artist/2uUXZoTBe7AQhZ9kVAaPOb"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Loopdop",
-      "url": "https://open.spotify.com/track/3HBDVe4cy78xRREk0HMb6r"
     },
     {
       "added_at": "2025-03-21 04:59:05",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-03-21 04:59:05",
       "album": {
-        "name": "Forgotten Songs E.P. 3 \u2013 Raw and Unheard",
-        "url": "https://open.spotify.com/album/4J8WyZxxY1lqxyV6IaYb3c"
-      },
-      "artists": [
-        {
-          "name": "The Parlotones",
-          "url": "https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs"
-        }
-      ],
-      "duration_ms": 195960,
-      "name": "Pick Your Poison",
-      "url": "https://open.spotify.com/track/58CmgjHD81STQJjKBT8m9y"
-    },
-    {
-      "added_at": "2025-03-21 04:59:05",
-      "album": {
         "name": "Between Two Lives",
         "url": "https://open.spotify.com/album/48QZU5VRCZTlFDstYCT8eJ"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 212853,
       "name": "Ten Seconds",
       "url": "https://open.spotify.com/track/7D9KPaGWVYgKVICbKaBsoi"
+    },
+    {
+      "added_at": "2025-03-21 04:59:05",
+      "album": {
+        "name": "Forgotten Songs E.P. 3 \u2013 Raw and Unheard",
+        "url": "https://open.spotify.com/album/4J8WyZxxY1lqxyV6IaYb3c"
+      },
+      "artists": [
+        {
+          "name": "The Parlotones",
+          "url": "https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs"
+        }
+      ],
+      "duration_ms": 195960,
+      "name": "Pick Your Poison",
+      "url": "https://open.spotify.com/track/58CmgjHD81STQJjKBT8m9y"
     },
     {
       "added_at": "2025-03-21 04:59:05",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-03-21 04:59:05",
       "album": {
-        "name": "Staan by Jou",
-        "url": "https://open.spotify.com/album/0wfZNO0EaDcnkuKbryKY1z"
-      },
-      "artists": [
-        {
-          "name": "Laudo",
-          "url": "https://open.spotify.com/artist/5e3IDHK6w5MzcuY0ab17LB"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "Staan by Jou",
-      "url": "https://open.spotify.com/track/58rFdlFNeKJnlhjjpkR5Vw"
-    },
-    {
-      "added_at": "2025-03-21 04:59:05",
-      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/3RFMCxQUQxxL3lydudnfah"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 239258,
       "name": "Change",
       "url": "https://open.spotify.com/track/6C4VkYbuUh13rTCrnrYfyv"
+    },
+    {
+      "added_at": "2025-03-21 04:59:05",
+      "album": {
+        "name": "Staan by Jou",
+        "url": "https://open.spotify.com/album/0wfZNO0EaDcnkuKbryKY1z"
+      },
+      "artists": [
+        {
+          "name": "Laudo",
+          "url": "https://open.spotify.com/artist/5e3IDHK6w5MzcuY0ab17LB"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "Staan by Jou",
+      "url": "https://open.spotify.com/track/58rFdlFNeKJnlhjjpkR5Vw"
     }
   ],
   "unique_name": "SA Rock ",

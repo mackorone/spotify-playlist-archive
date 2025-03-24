@@ -1565,20 +1565,24 @@
     },
     {
       "album": {
-        "name": "Oh What A Beautiful World (with Rodney Crowell)",
+        "name": "Oh What A Beautiful World (feat. Rodney Crowell)",
         "url": "https://open.spotify.com/album/72Zzh7THUc0HmkqCi5xP5t"
       },
       "artists": [
         {
           "name": "Willie Nelson",
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
         }
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 240053,
-      "name": "Oh What A Beautiful World (with Rodney Crowell)",
+      "name": "Oh What A Beautiful World - feat. Rodney Crowell",
       "url": "https://open.spotify.com/track/3Cr0IdIfa4zRoPs7Tw9WBA"
     },
     {

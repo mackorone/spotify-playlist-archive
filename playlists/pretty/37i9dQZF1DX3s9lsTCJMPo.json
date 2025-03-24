@@ -1,6 +1,6 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. Cover: Alison Hinds",
-  "num_followers": 123777,
+  "num_followers": 123825,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
+        "name": "Soca Gold 2008",
+        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
+      },
+      "artists": [
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "duration_ms": 274600,
+      "name": "Wukking Up",
+      "url": "https://open.spotify.com/track/4IXdZ1ko9XR6G4PM9xAZNW"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
         "name": "Born Wit It (Bumpa Riddim)",
         "url": "https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g"
       },
@@ -107,18 +123,18 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Gold 2008",
-        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
+        "name": "Soca Gold 2007",
+        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
       },
       "artists": [
         {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
         }
       ],
-      "duration_ms": 274600,
-      "name": "Wukking Up",
-      "url": "https://open.spotify.com/track/4IXdZ1ko9XR6G4PM9xAZNW"
+      "duration_ms": 212146,
+      "name": "I Dare You",
+      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -175,18 +191,18 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Gold 2007",
-        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
+        "name": "The Gilded Collection 1986 - 1989",
+        "url": "https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H"
       },
       "artists": [
         {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+          "name": "David Rudder",
+          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
         }
       ],
-      "duration_ms": 212146,
-      "name": "I Dare You",
-      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
+      "duration_ms": 433266,
+      "name": "Calypso Music",
+      "url": "https://open.spotify.com/track/4dwCppS8jnWDzDUSH8hYBG"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -207,22 +223,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Gold",
-        "url": "https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw"
-      },
-      "artists": [
-        {
-          "name": "Scrunter",
-          "url": "https://open.spotify.com/artist/4fcEF7tAojSzwIeOfj7sqd"
-        }
-      ],
-      "duration_ms": 352173,
-      "name": "Sing In The Party",
-      "url": "https://open.spotify.com/track/02KBvh3N2OobcJebwyHGJJ"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Queen",
         "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
       },
@@ -239,18 +239,18 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "The Gilded Collection 1986 - 1989",
-        "url": "https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H"
+        "name": "Soca Gold",
+        "url": "https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw"
       },
       "artists": [
         {
-          "name": "David Rudder",
-          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
+          "name": "Scrunter",
+          "url": "https://open.spotify.com/artist/4fcEF7tAojSzwIeOfj7sqd"
         }
       ],
-      "duration_ms": 433266,
-      "name": "Calypso Music",
-      "url": "https://open.spotify.com/track/4dwCppS8jnWDzDUSH8hYBG"
+      "duration_ms": 352173,
+      "name": "Sing In The Party",
+      "url": "https://open.spotify.com/track/02KBvh3N2OobcJebwyHGJJ"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Gold 2",
-        "url": "https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y"
-      },
-      "artists": [
-        {
-          "name": "Sparrow",
-          "url": "https://open.spotify.com/artist/6sEmGgkNrUVlZLhfBuWt5H"
-        }
-      ],
-      "duration_ms": 372000,
-      "name": "Doh Back Back",
-      "url": "https://open.spotify.com/track/43P9uBVBo2Vpc7XsmJNBhq"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "The Best of the Shadow Vol. 1",
         "url": "https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 305388,
       "name": "Bassman",
       "url": "https://open.spotify.com/track/0OxXxJVW6h5NwAR71GLCuE"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Gold 2",
+        "url": "https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y"
+      },
+      "artists": [
+        {
+          "name": "Sparrow",
+          "url": "https://open.spotify.com/artist/6sEmGgkNrUVlZLhfBuWt5H"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Doh Back Back",
+      "url": "https://open.spotify.com/track/43P9uBVBo2Vpc7XsmJNBhq"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Caribbean Road March 2001 and More",
-        "url": "https://open.spotify.com/album/2FxiaiO16VA04ZUnhJo9NP"
-      },
-      "artists": [
-        {
-          "name": "Xtatik",
-          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
-        }
-      ],
-      "duration_ms": 273693,
-      "name": "Tay Lay Lay",
-      "url": "https://open.spotify.com/track/134k1h3GaQ8QZY6XnnjCLu"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "The Gilded Collection 1986 - 1989",
         "url": "https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H"
       },
@@ -383,18 +367,18 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Gold",
-        "url": "https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw"
+        "name": "Caribbean Road March 2001 and More",
+        "url": "https://open.spotify.com/album/2FxiaiO16VA04ZUnhJo9NP"
       },
       "artists": [
         {
-          "name": "Duke",
-          "url": "https://open.spotify.com/artist/5G0rFFvPHNS5lZ7abaxNXT"
+          "name": "Xtatik",
+          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
         }
       ],
-      "duration_ms": 395866,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/4x210VRNZyMIyjwuMsqYbg"
+      "duration_ms": 273693,
+      "name": "Tay Lay Lay",
+      "url": "https://open.spotify.com/track/134k1h3GaQ8QZY6XnnjCLu"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -411,6 +395,22 @@
       "duration_ms": 266933,
       "name": "GLOW",
       "url": "https://open.spotify.com/track/0YZ1vakJa3mEF1wXZzmw2S"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Gold",
+        "url": "https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw"
+      },
+      "artists": [
+        {
+          "name": "Duke",
+          "url": "https://open.spotify.com/artist/5G0rFFvPHNS5lZ7abaxNXT"
+        }
+      ],
+      "duration_ms": 395866,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/4x210VRNZyMIyjwuMsqYbg"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Gold 1998",
-        "url": "https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME"
-      },
-      "artists": [
-        {
-          "name": "Allison Hinds",
-          "url": "https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8"
-        }
-      ],
-      "duration_ms": 256826,
-      "name": "In The Mean Time",
-      "url": "https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Gold 2008",
         "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
       },
@@ -507,26 +491,6 @@
       "duration_ms": 195400,
       "name": "Girls Gone Wild",
       "url": "https://open.spotify.com/track/69eRt8YA5s0dgMWDXMy88f"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Trini Gold",
-        "url": "https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji"
-      },
-      "artists": [
-        {
-          "name": "Superblue",
-          "url": "https://open.spotify.com/artist/5D6aDi6RQZm5nGCgM2jy8M"
-        },
-        {
-          "name": "Bunji",
-          "url": "https://open.spotify.com/artist/4PO2u9qHDO4ORynHyfbcD6"
-        }
-      ],
-      "duration_ms": 191440,
-      "name": "Party Start",
-      "url": "https://open.spotify.com/track/0aL5KresMZGVevr5xnPqoZ"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -547,6 +511,22 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
+        "name": "Soca Gold 1998",
+        "url": "https://open.spotify.com/album/5puMGBleRBzMjanmE3UYME"
+      },
+      "artists": [
+        {
+          "name": "Allison Hinds",
+          "url": "https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8"
+        }
+      ],
+      "duration_ms": 256826,
+      "name": "In The Mean Time",
+      "url": "https://open.spotify.com/track/3K1TeWSwClB075M0KPQrPp"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
         "name": "Soca Gold 2",
         "url": "https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 438600,
       "name": "Doh Wine",
       "url": "https://open.spotify.com/track/4lYJVJLdK1ax0gncPz8dNW"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Trini Gold",
+        "url": "https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji"
+      },
+      "artists": [
+        {
+          "name": "Superblue",
+          "url": "https://open.spotify.com/artist/5D6aDi6RQZm5nGCgM2jy8M"
+        },
+        {
+          "name": "Bunji",
+          "url": "https://open.spotify.com/artist/4PO2u9qHDO4ORynHyfbcD6"
+        }
+      ],
+      "duration_ms": 191440,
+      "name": "Party Start",
+      "url": "https://open.spotify.com/track/0aL5KresMZGVevr5xnPqoZ"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -904,22 +904,6 @@
       },
       "artists": [
         {
-          "name": "Nigell & Marvinn",
-          "url": "https://open.spotify.com/artist/7IZ8LfX3oesvfUQxMpGtKa"
-        }
-      ],
-      "duration_ms": 319533,
-      "name": "Movin'",
-      "url": "https://open.spotify.com/track/6c5fzIabjARvfleaqkz8Bb"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Soca Anthems Collection",
-        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
-      },
-      "artists": [
-        {
           "name": "Prince Unique",
           "url": "https://open.spotify.com/artist/5Q15Bhx82J7gdO7W409gnp"
         }
@@ -927,22 +911,6 @@
       "duration_ms": 368653,
       "name": "Ouch!",
       "url": "https://open.spotify.com/track/4L4eSiLG59FF7JqWypabPp"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "The Purple Heart Riddim",
-        "url": "https://open.spotify.com/album/06m6nNsRzCFsb84ULwgdiZ"
-      },
-      "artists": [
-        {
-          "name": "Nadia Batson",
-          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
-        }
-      ],
-      "duration_ms": 183490,
-      "name": "So Long",
-      "url": "https://open.spotify.com/track/3VMqM5ryQlsQEH3CWSLLhQ"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -959,6 +927,38 @@
       "duration_ms": 198857,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Anthems Collection",
+        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
+      },
+      "artists": [
+        {
+          "name": "Nigell & Marvinn",
+          "url": "https://open.spotify.com/artist/7IZ8LfX3oesvfUQxMpGtKa"
+        }
+      ],
+      "duration_ms": 319533,
+      "name": "Movin'",
+      "url": "https://open.spotify.com/track/6c5fzIabjARvfleaqkz8Bb"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "The Purple Heart Riddim",
+        "url": "https://open.spotify.com/album/06m6nNsRzCFsb84ULwgdiZ"
+      },
+      "artists": [
+        {
+          "name": "Nadia Batson",
+          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
+        }
+      ],
+      "duration_ms": 183490,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/3VMqM5ryQlsQEH3CWSLLhQ"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -991,6 +991,22 @@
       "duration_ms": 423506,
       "name": "Wine On A Bumsee",
       "url": "https://open.spotify.com/track/26ckSFjnh3OX3IJleVocyC"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Happiest Man Alive",
+        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 239967,
+      "name": "Ministry of Road (M.O.R.)",
+      "url": "https://open.spotify.com/track/7Chtw84YyHlnO3XUrlowBu"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1043,22 +1059,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Happiest Man Alive",
-        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 239967,
-      "name": "Ministry of Road (M.O.R.)",
-      "url": "https://open.spotify.com/track/7Chtw84YyHlnO3XUrlowBu"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Bicycle Ride (Soca Remix) - Single",
         "url": "https://open.spotify.com/album/4rlWbFkNykBqgPDttjYqIs"
       },
@@ -1091,6 +1091,30 @@
       "duration_ms": 364066,
       "name": "This Is How",
       "url": "https://open.spotify.com/track/3QNeQhmzrpna9BBu8niDLi"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Charge",
+        "url": "https://open.spotify.com/album/6hYk9G38OkC0SQjFOLDoAY"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Xtatik",
+          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
+        },
+        {
+          "name": "Wayne Rodriguez",
+          "url": "https://open.spotify.com/artist/3tkTFE3gM6p7EWW385JsVJ"
+        }
+      ],
+      "duration_ms": 276093,
+      "name": "Footsteps (feat. Wayne Rodriguez)",
+      "url": "https://open.spotify.com/track/6Wq2U3xlL953CurfNLWfeM"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1175,6 +1199,22 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
+        "name": "Happiest Man Alive",
+        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 218549,
+      "name": "Happiest Man Alive",
+      "url": "https://open.spotify.com/track/5F3Ijaofeyv7AC2LgymSOH"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
         "name": "Soca Gold 2002",
         "url": "https://open.spotify.com/album/4MIL8QcomuUQfv3tET2jnM"
       },
@@ -1203,30 +1243,6 @@
       "duration_ms": 181960,
       "name": "Trinidad",
       "url": "https://open.spotify.com/track/0LtVseDA9P0Vo3mKRn6DkS"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Charge",
-        "url": "https://open.spotify.com/album/6hYk9G38OkC0SQjFOLDoAY"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Xtatik",
-          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
-        },
-        {
-          "name": "Wayne Rodriguez",
-          "url": "https://open.spotify.com/artist/3tkTFE3gM6p7EWW385JsVJ"
-        }
-      ],
-      "duration_ms": 276093,
-      "name": "Footsteps (feat. Wayne Rodriguez)",
-      "url": "https://open.spotify.com/track/6Wq2U3xlL953CurfNLWfeM"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1295,34 +1311,26 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Gold 2002",
-        "url": "https://open.spotify.com/album/4MIL8QcomuUQfv3tET2jnM"
+        "name": "Wining Season",
+        "url": "https://open.spotify.com/album/13CkWoU9B4mMsaE7iBCCFW"
       },
       "artists": [
         {
-          "name": "Lovey",
-          "url": "https://open.spotify.com/artist/2z72I5D1aakIVygNC7IAQV"
-        }
-      ],
-      "duration_ms": 253840,
-      "name": "Bitein Incex (we Love De)",
-      "url": "https://open.spotify.com/track/1h9CmOE1tIRtU3kUYZpkB5"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Soca Engine",
-        "url": "https://open.spotify.com/album/5wfAK9kuhW8WcVjr5eiKGv"
-      },
-      "artists": [
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
         {
-          "name": "Byron Lee & The Dragonaires",
-          "url": "https://open.spotify.com/artist/1akUOJhf77cbKJveLHgxpy"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
         }
       ],
-      "duration_ms": 183533,
-      "name": "Chutney Bachannal",
-      "url": "https://open.spotify.com/track/0TNFNPM8DtDuzQtak9FirP"
+      "duration_ms": 261493,
+      "name": "Defense (The Anthem) (feat. Lil Jon)",
+      "url": "https://open.spotify.com/track/4XfHo2SjVk7c6WeVxPDMYK"
     }
   ],
   "unique_name": "Soca Classics",

@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Flowers of Jacaranda",
+        "url": "https://open.spotify.com/album/4XJaJJBLekNvn7aGnFoj5L"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2025-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181594,
+      "name": "Flowers of Jacaranda",
+      "url": "https://open.spotify.com/track/7gDiWtTZw2CJOwDWwSydlj"
+    },
+    {
+      "album": {
         "name": "Mallee Boy",
         "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
       },
@@ -1252,7 +1270,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-24",
       "duration_ms": 271160,
       "name": "Tubbo Station",
       "url": "https://open.spotify.com/track/15sMNVZ86VVP2pBpZhZqwa"

@@ -1,12 +1,12 @@
 {
   "description": "This is Ariel Camacho y Los Plebes Del Rancho. The essential tracks, all in one playlist.",
-  "num_followers": 434217,
+  "num_followers": 434309,
   "original_name": "This Is Ariel Camacho y Los Plebes Del Rancho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z9ysAAAAAACjD7CUTSAjFkSl6hcej6PN",
+  "snapshot_id": "Z939gAAAAADyC1hR+zksW+H29z4EV6Jx",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enfiestados En Culiacan",
-        "url": "https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW"
+        "name": "Fiesta En El Cielo Vol 1",
+        "url": "https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc"
       },
       "artists": [
-        {
-          "name": "Banda Culiacancito",
-          "url": "https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J"
-        },
         {
           "name": "Ariel Camacho y Los Plebes Del Rancho",
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 160631,
-      "name": "A Cada Rato",
-      "url": "https://open.spotify.com/track/46KWu3yg2dsoVRyDhcvqSg"
+      "duration_ms": 252107,
+      "name": "La Muerte Del Cardenal",
+      "url": "https://open.spotify.com/track/2Ri8TliJ5iA3Bdo9lljsuT"
     },
     {
       "added_at": null,
@@ -535,18 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fiesta En El Cielo Vol 1",
-        "url": "https://open.spotify.com/album/6BpFZZ5mmQAXYO8r33wpWc"
+        "name": "Enfiestados En Culiacan",
+        "url": "https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW"
       },
       "artists": [
+        {
+          "name": "Banda Culiacancito",
+          "url": "https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J"
+        },
         {
           "name": "Ariel Camacho y Los Plebes Del Rancho",
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 252107,
-      "name": "La Muerte Del Cardenal",
-      "url": "https://open.spotify.com/track/2Ri8TliJ5iA3Bdo9lljsuT"
+      "duration_ms": 160631,
+      "name": "A Cada Rato",
+      "url": "https://open.spotify.com/track/46KWu3yg2dsoVRyDhcvqSg"
     },
     {
       "added_at": null,
@@ -563,26 +563,6 @@
       "duration_ms": 183028,
       "name": "Los Principios - En Vivo",
       "url": "https://open.spotify.com/track/1VjQKGK78EJe98zYNHtnxy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Enfiestados En Culiacan",
-        "url": "https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW"
-      },
-      "artists": [
-        {
-          "name": "Banda Culiacancito",
-          "url": "https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J"
-        },
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 246428,
-      "name": "El Rey De Corazones",
-      "url": "https://open.spotify.com/track/6N11HRZvYMon459IGNv3gF"
     },
     {
       "added_at": null,
@@ -616,9 +596,9 @@
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 164435,
-      "name": "El Karma",
-      "url": "https://open.spotify.com/track/5Olu7SxVOd3rMjAcJVOKRR"
+      "duration_ms": 246428,
+      "name": "El Rey De Corazones",
+      "url": "https://open.spotify.com/track/6N11HRZvYMon459IGNv3gF"
     },
     {
       "added_at": null,
@@ -635,6 +615,26 @@
       "duration_ms": 231523,
       "name": "El Empanada",
       "url": "https://open.spotify.com/track/1QYw5mvSXRDagazPC2eaRP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enfiestados En Culiacan",
+        "url": "https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW"
+      },
+      "artists": [
+        {
+          "name": "Banda Culiacancito",
+          "url": "https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J"
+        },
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 164435,
+      "name": "El Karma",
+      "url": "https://open.spotify.com/track/5Olu7SxVOd3rMjAcJVOKRR"
     },
     {
       "added_at": null,

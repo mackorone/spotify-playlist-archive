@@ -751,6 +751,28 @@
     },
     {
       "album": {
+        "name": "PRIME",
+        "url": "https://open.spotify.com/album/7MpcVVUt61Eq66u3gj4CIY"
+      },
+      "artists": [
+        {
+          "name": "Nirvair Pannu",
+          "url": "https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY"
+        },
+        {
+          "name": "Arsh Heer",
+          "url": "https://open.spotify.com/artist/0IMB9ZqS18okmvGMGYzl45"
+        }
+      ],
+      "date_added": "2025-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163369,
+      "name": "Akhiyan",
+      "url": "https://open.spotify.com/track/6xBL7DpUeH4PYqqeJiNaGk"
+    },
+    {
+      "album": {
         "name": "All Day Sunday",
         "url": "https://open.spotify.com/album/6aB9nSsIosjBxUIgln10vy"
       },
@@ -1362,7 +1384,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-24",
       "duration_ms": 181115,
       "name": "Bari Bari Barsi",
       "url": "https://open.spotify.com/track/035zpldhfoOyyprs860zNp"
@@ -7436,7 +7458,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-24",
       "duration_ms": 206537,
       "name": "Ishq Aayat-E-Sajda",
       "url": "https://open.spotify.com/track/3fCYhvhOSnZq5sRG8vhbsa"
@@ -10100,6 +10122,32 @@
       "duration_ms": 185228,
       "name": "Laare",
       "url": "https://open.spotify.com/track/2lKfpNZeNDQ1AsR8btddjH"
+    },
+    {
+      "album": {
+        "name": "Lad Lad Ke",
+        "url": "https://open.spotify.com/album/2xvpXYwZyV41aciCszPDGk"
+      },
+      "artists": [
+        {
+          "name": "SABBA",
+          "url": "https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8"
+        },
+        {
+          "name": "Meavin",
+          "url": "https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV"
+        },
+        {
+          "name": "Anjali Arora",
+          "url": "https://open.spotify.com/artist/40uVhJMaDcTekOBAe2qqTg"
+        }
+      ],
+      "date_added": "2025-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160909,
+      "name": "Lad Lad Ke",
+      "url": "https://open.spotify.com/track/1v0MAwilyhq3wfkE3iYtPe"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Hindi hai, Indie hai! Cover- Gini",
-  "num_followers": 126240,
+  "num_followers": 126412,
   "original_name": "hIndies",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,42 @@
     {
       "added_at": "2025-03-21 07:37:25",
       "album": {
+        "name": "Paaro",
+        "url": "https://open.spotify.com/album/0PCzppXRIq0vcx2eDw8PdD"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        }
+      ],
+      "duration_ms": 153214,
+      "name": "Paaro",
+      "url": "https://open.spotify.com/track/5ByLpy1feHoHXoM4IC4BvW"
+    },
+    {
+      "added_at": "2025-03-21 07:37:25",
+      "album": {
+        "name": "Aadhey Adhoorey",
+        "url": "https://open.spotify.com/album/4LyJ3UBUTCmoZC8SVCYPqM"
+      },
+      "artists": [
+        {
+          "name": "Aashir Wajahat",
+          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
+        },
+        {
+          "name": "gini",
+          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
+        }
+      ],
+      "duration_ms": 173124,
+      "name": "Aadhey Adhoorey",
+      "url": "https://open.spotify.com/track/6vjdxjLwPkIf8DQVeQgR8V"
+    },
+    {
+      "added_at": "2025-03-21 07:37:25",
+      "album": {
         "name": "Sitara",
         "url": "https://open.spotify.com/album/4FjR8sS5OickJ0OkXmOEXX"
       },
@@ -487,42 +523,6 @@
     {
       "added_at": "2025-03-21 07:37:25",
       "album": {
-        "name": "Paaro",
-        "url": "https://open.spotify.com/album/0PCzppXRIq0vcx2eDw8PdD"
-      },
-      "artists": [
-        {
-          "name": "Aditya Rikhari",
-          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
-        }
-      ],
-      "duration_ms": 153214,
-      "name": "Paaro",
-      "url": "https://open.spotify.com/track/5ByLpy1feHoHXoM4IC4BvW"
-    },
-    {
-      "added_at": "2025-03-21 07:37:25",
-      "album": {
-        "name": "Aadhey Adhoorey",
-        "url": "https://open.spotify.com/album/4LyJ3UBUTCmoZC8SVCYPqM"
-      },
-      "artists": [
-        {
-          "name": "Aashir Wajahat",
-          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
-        },
-        {
-          "name": "gini",
-          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
-        }
-      ],
-      "duration_ms": 173124,
-      "name": "Aadhey Adhoorey",
-      "url": "https://open.spotify.com/track/6vjdxjLwPkIf8DQVeQgR8V"
-    },
-    {
-      "added_at": "2025-03-21 07:37:25",
-      "album": {
         "name": "Uljhan",
         "url": "https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3"
       },
@@ -559,6 +559,22 @@
       "duration_ms": 144923,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/1GMFeGQBppaepcx6NsR7qB"
+    },
+    {
+      "added_at": "2025-03-21 07:37:25",
+      "album": {
+        "name": "Sahiba",
+        "url": "https://open.spotify.com/album/250nGZusEhq33ZIZYJ7eVb"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        }
+      ],
+      "duration_ms": 190098,
+      "name": "Sahiba",
+      "url": "https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ"
     },
     {
       "added_at": "2025-03-21 07:37:25",
@@ -615,22 +631,6 @@
     {
       "added_at": "2025-03-21 07:37:25",
       "album": {
-        "name": "Tu Chodiyon Na",
-        "url": "https://open.spotify.com/album/1DdgnxCTXd5ggIFAy3TtHe"
-      },
-      "artists": [
-        {
-          "name": "Ronit Vinta",
-          "url": "https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn"
-        }
-      ],
-      "duration_ms": 212922,
-      "name": "Tu Chodiyon Na",
-      "url": "https://open.spotify.com/track/4trQhzRfEN0z5htXvjc5zA"
-    },
-    {
-      "added_at": "2025-03-21 07:37:25",
-      "album": {
         "name": "Sukoon",
         "url": "https://open.spotify.com/album/47WoZdif6vZZqDdgWCG4A1"
       },
@@ -643,6 +643,22 @@
       "duration_ms": 186393,
       "name": "Sukoon",
       "url": "https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK"
+    },
+    {
+      "added_at": "2025-03-21 07:37:25",
+      "album": {
+        "name": "Tu Chodiyon Na",
+        "url": "https://open.spotify.com/album/1DdgnxCTXd5ggIFAy3TtHe"
+      },
+      "artists": [
+        {
+          "name": "Ronit Vinta",
+          "url": "https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn"
+        }
+      ],
+      "duration_ms": 212922,
+      "name": "Tu Chodiyon Na",
+      "url": "https://open.spotify.com/track/4trQhzRfEN0z5htXvjc5zA"
     },
     {
       "added_at": "2025-03-21 07:37:25",
@@ -663,22 +679,6 @@
     {
       "added_at": "2025-03-21 07:37:25",
       "album": {
-        "name": "Sahiba",
-        "url": "https://open.spotify.com/album/250nGZusEhq33ZIZYJ7eVb"
-      },
-      "artists": [
-        {
-          "name": "Aditya Rikhari",
-          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
-        }
-      ],
-      "duration_ms": 190098,
-      "name": "Sahiba",
-      "url": "https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ"
-    },
-    {
-      "added_at": "2025-03-21 07:37:25",
-      "album": {
         "name": "Narazi",
         "url": "https://open.spotify.com/album/4QsYPssQ2NAtPdM3sEQGbq"
       },
@@ -691,6 +691,22 @@
       "duration_ms": 168064,
       "name": "Narazi",
       "url": "https://open.spotify.com/track/0Dea6lSNStSGx3XiLqXIT9"
+    },
+    {
+      "added_at": "2025-03-21 07:37:25",
+      "album": {
+        "name": "Humdum",
+        "url": "https://open.spotify.com/album/4xSDrJ3bKFOZjUoy9JV2ku"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Humdum",
+      "url": "https://open.spotify.com/track/1ZbcAMnlobqTAg2gZp3po1"
     },
     {
       "added_at": "2025-03-21 07:37:25",
@@ -799,26 +815,6 @@
     {
       "added_at": "2025-03-21 07:37:25",
       "album": {
-        "name": "Kehndi Hai",
-        "url": "https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN"
-      },
-      "artists": [
-        {
-          "name": "Zanai Bhosle",
-          "url": "https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX"
-        },
-        {
-          "name": "Siddhant Bhosle",
-          "url": "https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h"
-        }
-      ],
-      "duration_ms": 149927,
-      "name": "Kehndi Hai",
-      "url": "https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE"
-    },
-    {
-      "added_at": "2025-03-21 07:37:25",
-      "album": {
         "name": "Raaton",
         "url": "https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1"
       },
@@ -863,6 +859,26 @@
       "duration_ms": 225391,
       "name": "Pahadon Mein",
       "url": "https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO"
+    },
+    {
+      "added_at": "2025-03-21 07:37:25",
+      "album": {
+        "name": "Kehndi Hai",
+        "url": "https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN"
+      },
+      "artists": [
+        {
+          "name": "Zanai Bhosle",
+          "url": "https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX"
+        },
+        {
+          "name": "Siddhant Bhosle",
+          "url": "https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h"
+        }
+      ],
+      "duration_ms": 149927,
+      "name": "Kehndi Hai",
+      "url": "https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE"
     },
     {
       "added_at": "2025-03-21 07:37:25",
@@ -955,22 +971,6 @@
     {
       "added_at": "2025-03-21 07:37:25",
       "album": {
-        "name": "Lage Nahi Man",
-        "url": "https://open.spotify.com/album/1EKU9Nm6UNHQJg8F46agRR"
-      },
-      "artists": [
-        {
-          "name": "Vismay Patel",
-          "url": "https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs"
-        }
-      ],
-      "duration_ms": 191770,
-      "name": "Lage Nahi Man",
-      "url": "https://open.spotify.com/track/6sdird6R3Bl7KXbCXpnPVy"
-    },
-    {
-      "added_at": "2025-03-21 07:37:25",
-      "album": {
         "name": "Kaise Banu",
         "url": "https://open.spotify.com/album/0RxzLq117wpoaAo4SN3FmF"
       },
@@ -987,18 +987,18 @@
     {
       "added_at": "2025-03-21 07:37:25",
       "album": {
-        "name": "Humdum",
-        "url": "https://open.spotify.com/album/4xSDrJ3bKFOZjUoy9JV2ku"
+        "name": "Lage Nahi Man",
+        "url": "https://open.spotify.com/album/1EKU9Nm6UNHQJg8F46agRR"
       },
       "artists": [
         {
-          "name": "Aditya Rikhari",
-          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+          "name": "Vismay Patel",
+          "url": "https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs"
         }
       ],
-      "duration_ms": 181500,
-      "name": "Humdum",
-      "url": "https://open.spotify.com/track/1ZbcAMnlobqTAg2gZp3po1"
+      "duration_ms": 191770,
+      "name": "Lage Nahi Man",
+      "url": "https://open.spotify.com/track/6sdird6R3Bl7KXbCXpnPVy"
     },
     {
       "added_at": "2025-03-21 07:37:25",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2025-03-21 07:37:25",
       "album": {
+        "name": "Doorie",
+        "url": "https://open.spotify.com/album/0tExo9nxg65475C6EHR0Pd"
+      },
+      "artists": [
+        {
+          "name": "Twin Strings",
+          "url": "https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw"
+        }
+      ],
+      "duration_ms": 233826,
+      "name": "Doorie",
+      "url": "https://open.spotify.com/track/1Dc4zs4hnrqbz4pV44uT8g"
+    },
+    {
+      "added_at": "2025-03-21 07:37:25",
+      "album": {
         "name": "Udd Chala",
         "url": "https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu"
       },
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2025-03-21 07:37:25",
       "album": {
-        "name": "Doorie",
-        "url": "https://open.spotify.com/album/0tExo9nxg65475C6EHR0Pd"
-      },
-      "artists": [
-        {
-          "name": "Twin Strings",
-          "url": "https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw"
-        }
-      ],
-      "duration_ms": 233826,
-      "name": "Doorie",
-      "url": "https://open.spotify.com/track/1Dc4zs4hnrqbz4pV44uT8g"
-    },
-    {
-      "added_at": "2025-03-21 07:37:25",
-      "album": {
         "name": "Udta Parinda",
         "url": "https://open.spotify.com/album/2bQOQBSdlI6Oh7rW5rah5T"
       },
@@ -1227,54 +1227,6 @@
       "duration_ms": 178000,
       "name": "Udta Parinda",
       "url": "https://open.spotify.com/track/1gCuddnspi9GThFomI8dYb"
-    },
-    {
-      "added_at": "2025-03-21 07:37:25",
-      "album": {
-        "name": "Raintalk",
-        "url": "https://open.spotify.com/album/69QEbBKAreJ2yGqjuRGXEi"
-      },
-      "artists": [
-        {
-          "name": "Aditya Bhardwaj",
-          "url": "https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Raintalk",
-      "url": "https://open.spotify.com/track/6ZbOfUtik0vWC41BiHC6AF"
-    },
-    {
-      "added_at": "2025-03-21 07:37:25",
-      "album": {
-        "name": "Badra Bahara",
-        "url": "https://open.spotify.com/album/4rmIiT592uOXCMNR1nbhvl"
-      },
-      "artists": [
-        {
-          "name": "Vismay Patel",
-          "url": "https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs"
-        }
-      ],
-      "duration_ms": 156107,
-      "name": "Badra Bahara",
-      "url": "https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed"
-    },
-    {
-      "added_at": "2025-03-21 07:37:25",
-      "album": {
-        "name": "Aaina",
-        "url": "https://open.spotify.com/album/6HbxSkGlSicnBUp5Uezh06"
-      },
-      "artists": [
-        {
-          "name": "AFKAP",
-          "url": "https://open.spotify.com/artist/0VI5poXvvDVFaIPdL7M4rY"
-        }
-      ],
-      "duration_ms": 180618,
-      "name": "Aaina",
-      "url": "https://open.spotify.com/track/5SAgi6ZXqpCWQADP8XyRDY"
     },
     {
       "added_at": "2025-03-21 07:37:25",
@@ -1295,22 +1247,50 @@
     {
       "added_at": "2025-03-21 07:37:25",
       "album": {
-        "name": "Heeriye",
-        "url": "https://open.spotify.com/album/4aMIA4pmWtLP4VoLveg8dj"
+        "name": "Badra Bahara",
+        "url": "https://open.spotify.com/album/4rmIiT592uOXCMNR1nbhvl"
       },
       "artists": [
         {
-          "name": "Sagnik Kolay",
-          "url": "https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc"
-        },
-        {
-          "name": "Aasa Singh",
-          "url": "https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF"
+          "name": "Vismay Patel",
+          "url": "https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs"
         }
       ],
-      "duration_ms": 215333,
-      "name": "Heeriye",
-      "url": "https://open.spotify.com/track/5AknaLNrNTCBYr5L62XhJK"
+      "duration_ms": 156107,
+      "name": "Badra Bahara",
+      "url": "https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed"
+    },
+    {
+      "added_at": "2025-03-21 07:37:25",
+      "album": {
+        "name": "Raintalk",
+        "url": "https://open.spotify.com/album/69QEbBKAreJ2yGqjuRGXEi"
+      },
+      "artists": [
+        {
+          "name": "Aditya Bhardwaj",
+          "url": "https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Raintalk",
+      "url": "https://open.spotify.com/track/6ZbOfUtik0vWC41BiHC6AF"
+    },
+    {
+      "added_at": "2025-03-21 07:37:25",
+      "album": {
+        "name": "Aaina",
+        "url": "https://open.spotify.com/album/6HbxSkGlSicnBUp5Uezh06"
+      },
+      "artists": [
+        {
+          "name": "AFKAP",
+          "url": "https://open.spotify.com/artist/0VI5poXvvDVFaIPdL7M4rY"
+        }
+      ],
+      "duration_ms": 180618,
+      "name": "Aaina",
+      "url": "https://open.spotify.com/track/5SAgi6ZXqpCWQADP8XyRDY"
     },
     {
       "added_at": "2025-03-21 07:37:25",
@@ -1327,6 +1307,26 @@
       "duration_ms": 158400,
       "name": "O Re Saavan",
       "url": "https://open.spotify.com/track/5EXcMk9ZlC5UlDU4jSZsm1"
+    },
+    {
+      "added_at": "2025-03-21 07:37:25",
+      "album": {
+        "name": "Heeriye",
+        "url": "https://open.spotify.com/album/4aMIA4pmWtLP4VoLveg8dj"
+      },
+      "artists": [
+        {
+          "name": "Sagnik Kolay",
+          "url": "https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc"
+        },
+        {
+          "name": "Aasa Singh",
+          "url": "https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF"
+        }
+      ],
+      "duration_ms": 215333,
+      "name": "Heeriye",
+      "url": "https://open.spotify.com/track/5AknaLNrNTCBYr5L62XhJK"
     },
     {
       "added_at": "2025-03-21 07:37:25",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2025-03-21 07:37:25",
       "album": {
-        "name": "Channa Ve",
-        "url": "https://open.spotify.com/album/3Cygdal0KRaQzXKdr1UZE2"
-      },
-      "artists": [
-        {
-          "name": "Ronit Vinta",
-          "url": "https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn"
-        },
-        {
-          "name": "Nitin Rana",
-          "url": "https://open.spotify.com/artist/39Q1usUtc8a68pobI6RU5c"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Channa Ve",
-      "url": "https://open.spotify.com/track/3yBrSAxIJz8oaSBiIfsrBQ"
-    },
-    {
-      "added_at": "2025-03-21 07:37:25",
-      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/56gT7wKR7wzbq7w3l5gU7F"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 197850,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/0wj0UQuHJ8K3hxoTsAavnk"
+    },
+    {
+      "added_at": "2025-03-21 07:37:25",
+      "album": {
+        "name": "Channa Ve",
+        "url": "https://open.spotify.com/album/3Cygdal0KRaQzXKdr1UZE2"
+      },
+      "artists": [
+        {
+          "name": "Ronit Vinta",
+          "url": "https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn"
+        },
+        {
+          "name": "Nitin Rana",
+          "url": "https://open.spotify.com/artist/39Q1usUtc8a68pobI6RU5c"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Channa Ve",
+      "url": "https://open.spotify.com/track/3yBrSAxIJz8oaSBiIfsrBQ"
     },
     {
       "added_at": "2025-03-21 07:37:25",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2025-03-21 07:37:25",
       "album": {
-        "name": "Meri Baari",
-        "url": "https://open.spotify.com/album/6CZIFpN6kaO3BRnlZoACbB"
-      },
-      "artists": [
-        {
-          "name": "Iqlipse Nova",
-          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
-        }
-      ],
-      "duration_ms": 199800,
-      "name": "Meri Baari",
-      "url": "https://open.spotify.com/track/0XdDE6lmn5srPDUDBq5xcg"
-    },
-    {
-      "added_at": "2025-03-21 07:37:25",
-      "album": {
         "name": "Saanware Aijaiyo",
         "url": "https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 234713,
       "name": "Saanware Aijaiyo",
       "url": "https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb"
+    },
+    {
+      "added_at": "2025-03-21 07:37:25",
+      "album": {
+        "name": "Meri Baari",
+        "url": "https://open.spotify.com/album/6CZIFpN6kaO3BRnlZoACbB"
+      },
+      "artists": [
+        {
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+        }
+      ],
+      "duration_ms": 199800,
+      "name": "Meri Baari",
+      "url": "https://open.spotify.com/track/0XdDE6lmn5srPDUDBq5xcg"
     },
     {
       "added_at": "2025-03-21 07:37:25",

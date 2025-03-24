@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > your favourite playlist's favourite playlist &lt;3\. shop this summer's pop collection <a href="https://www.umusic.ca/pages/POP">here</a>\. Cover: Selena Gomez, benny blanco
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 80,019 likes - 100 songs - 5 hr 25 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 80,020 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

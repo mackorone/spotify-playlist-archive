@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-603 songs - 1 day 5 hr 20 min
+604 songs - 1 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Fica Aqui](https://open.spotify.com/track/70REzfi8DiUDuu4BHafeoj) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Fica Aqui](https://open.spotify.com/album/27aY7RzA66XBHJopBSHDtx) | 3:22 | 2023-12-30 |  |
 | [Fica Titi Não](https://open.spotify.com/track/1k92O4rH8Cadue3gXzVchL) | [Rafa e Junior](https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg) | [Fica Titi Não](https://open.spotify.com/album/4mkAPYOFwQ46ozNiN2wQb2) | 2:43 | 2023-12-30 |  |
 | [Figurinha de Grupo \- No 12, Ao Vivo](https://open.spotify.com/track/3A1WPglEROfedBSUPqMNI3) | [Maurício & Eduardo](https://open.spotify.com/artist/2Se9PDvg33BU6293vybNHc) | [NO 12 \(Ao Vivo\)](https://open.spotify.com/album/5Mmu9vDgfeaHvaR56yIPu0) | 3:06 | 2024-03-26 |  |
+| [Fim de Namoro](https://open.spotify.com/track/7Bf4OzxpAenrTgsysQ9C8O) | [Anderson Garotinho](https://open.spotify.com/artist/52lGRYsYPAkVkOwGGkF9y7) | [Diferentinho Não, Diferentão! 4.0](https://open.spotify.com/album/0ITR7DrP86w2VHQeH2v4ew) | 3:02 | 2025-03-23 |  |
 | [Fim de Papo](https://open.spotify.com/track/4mzfyvDHWS1Xm8oi4SsCUM) | [Léo Nascimento](https://open.spotify.com/artist/0MCWeUxunb4KJxPTDO6iX8) | [Fim de Papo \(Ao Vivo\)](https://open.spotify.com/album/3lkhRDXtbBUtVwu7bHAuH4) | 3:25 | 2023-12-30 |  |
 | [Fim do Mundo](https://open.spotify.com/track/3RCyXg6e78R2V1VBgXBimx) | [Giovany Reis e Fabrício](https://open.spotify.com/artist/6HvD5gXB9Nx3Ha37KWkIjE) | [Giovany Reis e Fabrício](https://open.spotify.com/album/3LihERPbrBByRKFdMEUsnQ) | 2:49 | 2023-12-30 |  |
 | [Finge Que Me Ama](https://open.spotify.com/track/7pcYCsOg0h3BaeqKcKyrav) | [Pedro Henrique & Matheus](https://open.spotify.com/artist/6PidMi09FFXWEisGl4ctyM) | [Finge Que Me Ama \- Single](https://open.spotify.com/album/7yRpVyekS0CJ4tGfvkKvpW) | 2:47 | 2023-12-30 |  |

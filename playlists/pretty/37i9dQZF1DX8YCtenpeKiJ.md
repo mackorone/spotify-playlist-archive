@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YCtenpeKiJ.md) - [plain]
 
 > The most scary soundscapes to soundtrack your Halloween..
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,668 likes - 134 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,654 likes - 134 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YCtenpeKiJ.md) - [plain]
 | 99 | [Howling Halloween](https://open.spotify.com/track/4HzSBEgHvYx0kKnDfRf1YD) | [Spooky Town](https://open.spotify.com/artist/58QGSIwd3JGC1xTPBa2OM5) | [Howling Halloween](https://open.spotify.com/album/6be0UbUuSs9AsybSxVA3vm) | 2:34 |
 | 100 | [The Monsters Are Here](https://open.spotify.com/track/6dT0tYktm6KsrV4kr0EaAH) | [Frightened Halloween](https://open.spotify.com/artist/2Ttk7XqRAZjFMzDDidfmGA) | [They're Here](https://open.spotify.com/album/2wwZ8YC5nZSF9S3H2qt6h1) | 4:52 |
 | 101 | [The Murder House](https://open.spotify.com/track/67fXHEHMOogzvyRDS529Vw) | [Old Dolls House](https://open.spotify.com/artist/2jacoDrnZvWxnc5qSqVpXG) | [Midnight Cemetary](https://open.spotify.com/album/6Dk33UsNeFYNdiYYw9WFS4) | 5:11 |
-| 102 | [Creepy Music](https://open.spotify.com/track/4G2sYg6ajM2aXeht06v9Mq) | [Horror Music of the Night](https://open.spotify.com/artist/6QwoKweH3ySp3zSmpZpzPg) | [Horror Music of the Night: Scary Sounds, Halloween Sounds and Spooky Sound Efx](https://open.spotify.com/album/7Ae2JYIXnbn5wr2k9rQCOi) | 4:00 |
+| 102 | [Creepy Music](https://open.spotify.com/track/4G2sYg6ajM2aXeht06v9Mq) | [Horror Nightmare](https://open.spotify.com/artist/1ECDiQNbYwXSzrc6OjuGaq) | [Horror Music of the Night: Scary Sounds, Halloween Sounds and Spooky Sound Efx](https://open.spotify.com/album/7Ae2JYIXnbn5wr2k9rQCOi) | 4:00 |
 | 103 | [Witches Brew](https://open.spotify.com/track/4co5EDLIE4ZZNYfzqmgITI) | [Ghosts Behind](https://open.spotify.com/artist/2fa3uKoSMlOW2fIjO7jDEM) | [Halloween Ambience](https://open.spotify.com/album/17rnMzoPcedRwZvV5KIRBC) | 4:40 |
 | 104 | [Zombie Terror](https://open.spotify.com/track/2YAvuZdmJt2rEdXY6i1wwK) | [Halloween FX](https://open.spotify.com/artist/3X0G4uk7p29iesAezRzjRh) | [Zombie Terror](https://open.spotify.com/album/0qu2ifC9mkcvhAbRuCGw2V) | 2:55 |
 | 105 | [Halloween Sounds 6 Creepy Sound Effects](https://open.spotify.com/track/0D6fFg42Xk06PonDZTXicd) | [Halloween Sounds](https://open.spotify.com/artist/2ofJA6qpGDJQy87TGmshmo) | [Halloween Sounds](https://open.spotify.com/album/6gdnJpob0X1ZvPn59MgoYr) | 3:42 |
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YCtenpeKiJ.md) - [plain]
 | 117 | [Toxic Tunnel](https://open.spotify.com/track/16Yoywf7gwyfxeelq1uZbj) | [Creepy Coffin](https://open.spotify.com/artist/0KT3IukRhTQjfVsOuIVrea) | [Toxic Tunnel](https://open.spotify.com/album/7C17ETh6gJ4A4JqSFgKlGV) | 2:07 |
 | 118 | [Halloween Sounds \(Scary Noises\)](https://open.spotify.com/track/5pFNaXisFmJ8NW2zqc8v3c) | [Scary Halloween Sounds](https://open.spotify.com/artist/03diemJmgU97kswAF7s8e6) | [Scary Halloween Sounds \- Halloween Music](https://open.spotify.com/album/0PmxDAWxIoit477d8jk7Kc) | 6:41 |
 | 119 | [Ogre On The Loose](https://open.spotify.com/track/2pZeEUHuz5yFRooIb1wIDm) | [Halloween Sounds](https://open.spotify.com/artist/2ofJA6qpGDJQy87TGmshmo) | [Scary Sound Effects](https://open.spotify.com/album/3fj68yJUFeeEE5ezF2Rdw9) | 3:06 |
-| 120 | [Haunting Music](https://open.spotify.com/track/4h0N5lGSgJjbDNNYRpRUKN) | [Horror Music of the Night](https://open.spotify.com/artist/6QwoKweH3ySp3zSmpZpzPg) | [Horror Music of the Night: Scary Sounds, Halloween Sounds and Spooky Sound Efx](https://open.spotify.com/album/7Ae2JYIXnbn5wr2k9rQCOi) | 3:52 |
+| 120 | [Haunting Music](https://open.spotify.com/track/4h0N5lGSgJjbDNNYRpRUKN) | [Horror Nightmare](https://open.spotify.com/artist/1ECDiQNbYwXSzrc6OjuGaq) | [Horror Music of the Night: Scary Sounds, Halloween Sounds and Spooky Sound Efx](https://open.spotify.com/album/7Ae2JYIXnbn5wr2k9rQCOi) | 3:52 |
 | 121 | [Sounds of Hell](https://open.spotify.com/track/45UQZlW1CIatUkutiOMuIz) | [Cybermonsters](https://open.spotify.com/artist/1NvEF6K5BZkELTAbPxoF4D) | [Halloween Scary Sounds](https://open.spotify.com/album/0dZAjPaywnQpI6IX0EFrph) | 2:32 |
 | 122 | [Haunted Mansion House](https://open.spotify.com/track/1OJGhmgDV2zvFWQYZXVDKC) | [Conrad Askland](https://open.spotify.com/artist/079Kci46yofXrsvJUXw6jS) | [Haunted Mansion Sound Effects](https://open.spotify.com/album/61PWCNkw5o1Zg4BAk94HAg) | 5:16 |
 | 123 | [Werewolf 2 \- Sound FX](https://open.spotify.com/track/2dqI0uErdOuAtVt1MAuSqV) | [Hollywood Haunts](https://open.spotify.com/artist/52IoOPbkq4wUIXQkkweKIP), [Gary Gelfand](https://open.spotify.com/artist/16UCtrx9T69YNeatu8BnMy) | [The Horrorville Haunt: Paranormal House of Horrors! \(Haunted House Soundtracks\)](https://open.spotify.com/album/00CNe8KfmhTVNKOwwfEysq) | 2:39 |

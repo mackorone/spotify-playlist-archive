@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-681 songs - 2 day 18 hr 24 min
+682 songs - 2 day 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Certain](https://open.spotify.com/track/3WR9e1EZ0OXnbxnEIYuXjm) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z), [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj) | [Certain](https://open.spotify.com/album/09j9iZPJDAtAbbtI6AUb4X) | 7:02 | 2020-02-22 | 2020-08-15 |
 | [Chamaniac](https://open.spotify.com/track/1DeV7EVTK12TIYb8iZFVmw) | [Damon Jee](https://open.spotify.com/artist/0nyA3iBk3cFZvBsQalv78d) | [Chamaniac](https://open.spotify.com/album/5JuOdgCUIZSpVKi6aeOTYc) | 7:04 | 2019-08-06\* | 2020-01-04 |
 | [Changes](https://open.spotify.com/track/6wWMiWDSwoI8hIVcI0D9S5) | [Prismode](https://open.spotify.com/artist/58kYFWtUBY05pp6TmlKOiH), [Solvane](https://open.spotify.com/artist/3bOQBNZv9K0NMW4WudrKb0), [Max Joni](https://open.spotify.com/artist/7zcSZ1NiajqeGERguLtlzo) | [Changes](https://open.spotify.com/album/3UqR621qSR4DX3paMUJozM) | 4:05 | 2022-11-15 | 2022-11-26 |
-| [Chaos in Calm](https://open.spotify.com/track/3vnyIzDn9iG4j55utsmTFg) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Chaos in Calm](https://open.spotify.com/album/2j385Ot6ui9hL3PfuZPSam) | 4:44 | 2024-11-29 |  |
+| [Chaos in Calm](https://open.spotify.com/track/3vnyIzDn9iG4j55utsmTFg) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Chaos in Calm](https://open.spotify.com/album/2j385Ot6ui9hL3PfuZPSam) | 4:44 | 2024-11-29 | 2025-03-24 |
 | [Cheat Codes \- Original Mix](https://open.spotify.com/track/2TvBFi5v0GUYQMSgoAldhr) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Cheat Codes](https://open.spotify.com/album/5MmxsbxHmB0rRsxNW33F13) | 6:36 | 2019-09-06 | 2019-12-07 |
 | [Chemistry \- Dub](https://open.spotify.com/track/00tXZaFz6NWHVJzBeamE9a) | [Hannes Bieger](https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9), [Sailor & I](https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx) | [Chemistry](https://open.spotify.com/album/0iYKxzQLzIoWf7SbvoXI2O) | 6:47 | 2019-08-06\* | 2019-09-06 |
 | [Child Of A Child](https://open.spotify.com/track/3WKzLlCF3Xfx4jaCqv1Nri) | [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [Child Of A Child](https://open.spotify.com/album/3XW5UJ6G7fGBXNLLeWxHKK) | 7:34 | 2019-10-10 | 2019-11-10 |
@@ -224,6 +224,7 @@
 | [Further \- Hidden Empire Remix](https://open.spotify.com/track/4BkFVCDaobMOvm56XGdnzQ) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Liu Bei](https://open.spotify.com/artist/5g8huPwwthukeiOFPFfvJ8), [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Further EP](https://open.spotify.com/album/0VINHQ0UIRod04uCye1PO2) | 7:11 | 2019-08-22 | 2019-12-03 |
 | [Fury](https://open.spotify.com/track/6I4QZC7Zir3dSlrTYrU0nv) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO), [Joris Delacroix](https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1) | [Fury](https://open.spotify.com/album/3QtWWfAjUAfVaLgKYwzueb) | 5:33 | 2021-12-17 | 2022-04-05 |
 | [Galissa](https://open.spotify.com/track/0R0xgloOtA5RPmTE5BTnRn) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Galissa](https://open.spotify.com/album/1yeFt2ishOi9hh7P9k8sv2) | 6:51 | 2021-08-17 | 2021-09-10 |
+| [Galt](https://open.spotify.com/track/7j5hpfBlM5TqY3DkXTpGq6) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Galt](https://open.spotify.com/album/23rvvEZD5sNeIV3yvZR2b7) | 3:05 | 2025-03-21 |  |
 | [Garden Of Peace \- Yotto Renaissance Remix](https://open.spotify.com/track/3dbaMprMQ9YytqZM50lvfn) | [Power Circle](https://open.spotify.com/artist/1wkJvdDly55Dtr4fFxCtsN), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Garden Of Peace](https://open.spotify.com/album/1sdeUNPrA39oF45xeVy3u4) | 6:47 | 2021-05-08 | 2022-04-17 |
 | [German Spring](https://open.spotify.com/track/16rPiwJp75OWUxBAMVzJQx) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [German Spring](https://open.spotify.com/album/6zAnjHCE27AwbAqXXW8otQ) | 7:12 | 2021-06-05 | 2022-07-28 |
 | [Get Lucky](https://open.spotify.com/track/4lSCnW0nsmts8DKJLNiia9) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Gracie Thunder](https://open.spotify.com/artist/25d61nDt5Q9CgyfTraRplX) | [Get Lucky](https://open.spotify.com/album/17OsldS6iPodvsbgVOJEho) | 3:45 | 2023-06-30 | 2024-08-24 |

@@ -517,6 +517,24 @@
     },
     {
       "album": {
+        "name": "Better Place",
+        "url": "https://open.spotify.com/album/0feuFfcFRJpFFqx3lclxoi"
+      },
+      "artists": [
+        {
+          "name": "Jonah Marais",
+          "url": "https://open.spotify.com/artist/4h3Go7Vr34F8zzGvEFj9P8"
+        }
+      ],
+      "date_added": "2025-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191740,
+      "name": "Better Place",
+      "url": "https://open.spotify.com/track/3e1NZPkmRK1w4DujhS5j7G"
+    },
+    {
+      "album": {
         "name": "Big Love",
         "url": "https://open.spotify.com/album/4u7AoktiBF4Db55wxN7T7b"
       },

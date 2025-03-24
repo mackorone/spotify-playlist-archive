@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-429 songs - 21 hr 50 min
+430 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Lichtenburg](https://open.spotify.com/track/5EYkuhaQvANL9yWJS8L7BZ) | [Anton Walbrook](https://open.spotify.com/artist/06IkTR7mhsucExiho9BeOD) | [Call Me Madam \(Original London Presentation\)](https://open.spotify.com/album/3g7JQ3GFqQhMebFvzWFyb9) | 3:15 | 2024-07-26 |  |
 | [Lichtenburg \(Cosmo's Opening\) \- From "Call Me Madam"](https://open.spotify.com/track/268G9UcwHkTKvVG0OyDJWt) | [Gordon Jenkins & His Orchestra](https://open.spotify.com/artist/2zxOdG2ascAD3oLdP03mYU) | [12 Songs From Call Me Madam \(With Selections From "Panama Hattie"\) \[Original Broadway Cast Recording\]](https://open.spotify.com/album/5Zq9801IjeGoPk3sQAi6o1) | 3:21 | 2024-07-26 |  |
 | [Listening \(Arr\. M\. Hood\)](https://open.spotify.com/track/0U5WZEYKvbkNzpSfnfSxfx) | [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii), [Chestnut Brass Company](https://open.spotify.com/artist/4jBFMuQSX9sNIKXL9h2B5B) | [Berlin: Berlin for Brass](https://open.spotify.com/album/2qlsCySJzvijbGULxpvGee) | 1:56 | 2024-07-26 |  |
+| [Little Butterfly](https://open.spotify.com/track/6koO1vTm5uF1CpsK4R5Y1i) | [Paul Whiteman](https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r) | [King of Jazz: The Complete A to Z Collection, Vol\. 24](https://open.spotify.com/album/3upICqtOrL95hLnsrmFnmn) | 2:42 | 2025-03-23 |  |
 | [Lonely Heart](https://open.spotify.com/track/40yAeqJ4xyMpMkjEaaIhjd) | [Judy Kuhn](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) | [As Thousands Cheer \(1998 Off\-Broadway Cast Recording\)](https://open.spotify.com/album/2g4UW6AF3FhbUH6SIU53b7) | 2:21 | 2024-07-26 |  |
 | [Long As I Can Take You Home](https://open.spotify.com/track/6EOsfLE4zTmhc9uYQi6umQ) | [Sal Viviano](https://open.spotify.com/artist/4TRRC4NyC0GMoT8zr4S7Uk) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 3:35 | 2024-07-26 |  |
 | [Looking at You \(12\)](https://open.spotify.com/track/0EZLRmLkHf6PZvtm6MIGl5) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Mel Tormé at the Crescendo \(Live\) \[2014 \- Remaster\]](https://open.spotify.com/album/5qzSuzOlC6gcPHMgiYfWTu) | 2:50 | 2024-07-26 |  |

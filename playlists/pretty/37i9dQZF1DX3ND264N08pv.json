@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 81708,
+  "num_followers": 81744,
   "original_name": "Hardcore Rage 2025",
   "owner": {
     "name": "Spotify",
@@ -103,6 +103,30 @@
     {
       "added_at": "2025-03-20 23:00:10",
       "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/2f3JjQYimC9ZWI7KwJVZrN"
+      },
+      "artists": [
+        {
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+        },
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        },
+        {
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/0ZXq43rBFfRBAhynZeVChZ"
+    },
+    {
+      "added_at": "2025-03-20 23:00:10",
+      "album": {
         "name": "Straight To The Core",
         "url": "https://open.spotify.com/album/0qGohB6U4hU6e0lNovxQKH"
       },
@@ -159,26 +183,6 @@
     {
       "added_at": "2025-03-20 23:00:10",
       "album": {
-        "name": "Frenchcore Lullaby",
-        "url": "https://open.spotify.com/album/2VzWAU4teRPOILn0FQz08t"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "D'ort",
-          "url": "https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Frenchcore Lullaby",
-      "url": "https://open.spotify.com/track/7cefEHMhMytNfvL0GBjd0K"
-    },
-    {
-      "added_at": "2025-03-20 23:00:10",
-      "album": {
         "name": "Run 4 Your Life",
         "url": "https://open.spotify.com/album/4r7nj19kZAO5GaiXXFNtew"
       },
@@ -191,26 +195,6 @@
       "duration_ms": 164333,
       "name": "Run 4 Your Life",
       "url": "https://open.spotify.com/track/3whJILCwMY1kfqs4jTTJeY"
-    },
-    {
-      "added_at": "2025-03-20 23:00:10",
-      "album": {
-        "name": "Pennywise (Deadly Guns Remix)",
-        "url": "https://open.spotify.com/album/3pYxt3quOJYXUecq92TgFb"
-      },
-      "artists": [
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        },
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Pennywise - Deadly Guns Remix",
-      "url": "https://open.spotify.com/track/6m8neHWouA9kxypGPNwDA4"
     },
     {
       "added_at": "2025-03-20 23:00:10",
@@ -235,46 +219,6 @@
     {
       "added_at": "2025-03-20 23:00:10",
       "album": {
-        "name": "Holy Calamity",
-        "url": "https://open.spotify.com/album/5mwT15uedaCd2Q46Sokapj"
-      },
-      "artists": [
-        {
-          "name": "Lil Texas",
-          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "Holy Calamity",
-      "url": "https://open.spotify.com/track/6HoXL0kFn6H99viqiREro4"
-    },
-    {
-      "added_at": "2025-03-20 23:00:10",
-      "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/2f3JjQYimC9ZWI7KwJVZrN"
-      },
-      "artists": [
-        {
-          "name": "Radical Redemption",
-          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
-        },
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        },
-        {
-          "name": "Nolz",
-          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/0ZXq43rBFfRBAhynZeVChZ"
-    },
-    {
-      "added_at": "2025-03-20 23:00:10",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/4LLCLJ1QGgzRnYDG5Zz8ba"
       },
@@ -291,6 +235,62 @@
       "duration_ms": 178801,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5HPBgvcnHhuskoO8aWAkvt"
+    },
+    {
+      "added_at": "2025-03-20 23:00:10",
+      "album": {
+        "name": "Pennywise (Deadly Guns Remix)",
+        "url": "https://open.spotify.com/album/3pYxt3quOJYXUecq92TgFb"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        },
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Pennywise - Deadly Guns Remix",
+      "url": "https://open.spotify.com/track/6m8neHWouA9kxypGPNwDA4"
+    },
+    {
+      "added_at": "2025-03-20 23:00:10",
+      "album": {
+        "name": "Frenchcore Lullaby",
+        "url": "https://open.spotify.com/album/2VzWAU4teRPOILn0FQz08t"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "D'ort",
+          "url": "https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Frenchcore Lullaby",
+      "url": "https://open.spotify.com/track/7cefEHMhMytNfvL0GBjd0K"
+    },
+    {
+      "added_at": "2025-03-20 23:00:10",
+      "album": {
+        "name": "Holy Calamity",
+        "url": "https://open.spotify.com/album/5mwT15uedaCd2Q46Sokapj"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "Holy Calamity",
+      "url": "https://open.spotify.com/track/6HoXL0kFn6H99viqiREro4"
     },
     {
       "added_at": "2025-03-20 23:00:10",
@@ -315,6 +315,26 @@
     {
       "added_at": "2025-03-20 23:00:10",
       "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/1WyfmLkloGkMcrFke9UIej"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        },
+        {
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+        }
+      ],
+      "duration_ms": 176937,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/4jpAxGPufc1MqjgzcLKbMu"
+    },
+    {
+      "added_at": "2025-03-20 23:00:10",
+      "album": {
         "name": "RIP TO MOZART",
         "url": "https://open.spotify.com/album/27GkgtanziH7poVwKxvXJD"
       },
@@ -335,22 +355,6 @@
       "duration_ms": 122117,
       "name": "RIP TO MOZART",
       "url": "https://open.spotify.com/track/1dv8vXPxxg75AxWZ5hf9I1"
-    },
-    {
-      "added_at": "2025-03-20 23:00:10",
-      "album": {
-        "name": "Rip City",
-        "url": "https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh"
-      },
-      "artists": [
-        {
-          "name": "Lil Texas",
-          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
-        }
-      ],
-      "duration_ms": 161327,
-      "name": "Rip City",
-      "url": "https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU"
     },
     {
       "added_at": "2025-03-20 23:00:10",
@@ -415,26 +419,6 @@
     {
       "added_at": "2025-03-20 23:00:10",
       "album": {
-        "name": "The End",
-        "url": "https://open.spotify.com/album/1WyfmLkloGkMcrFke9UIej"
-      },
-      "artists": [
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        },
-        {
-          "name": "Dimitri K",
-          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
-        }
-      ],
-      "duration_ms": 176937,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/4jpAxGPufc1MqjgzcLKbMu"
-    },
-    {
-      "added_at": "2025-03-20 23:00:10",
-      "album": {
         "name": "In Synergy",
         "url": "https://open.spotify.com/album/0Wo2VDVsMxrzIxN6oVHN6T"
       },
@@ -491,6 +475,42 @@
     {
       "added_at": "2025-03-20 23:00:10",
       "album": {
+        "name": "Rip City",
+        "url": "https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "duration_ms": 161327,
+      "name": "Rip City",
+      "url": "https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU"
+    },
+    {
+      "added_at": "2025-03-20 23:00:10",
+      "album": {
+        "name": "Straight From Holland",
+        "url": "https://open.spotify.com/album/4QvgmbZoytzhzHHMzTSejH"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        },
+        {
+          "name": "Spitnoise",
+          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
+        }
+      ],
+      "duration_ms": 121128,
+      "name": "Straight From Holland",
+      "url": "https://open.spotify.com/track/77EFFx2dgidNot1mJ5fOl2"
+    },
+    {
+      "added_at": "2025-03-20 23:00:10",
+      "album": {
         "name": "Trip to Defqon.1",
         "url": "https://open.spotify.com/album/0kuWQNvOzDotGb4kKYAeGu"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 334545,
       "name": "Ratata",
       "url": "https://open.spotify.com/track/46SkUOFgA5eM4uW3tHrt81"
-    },
-    {
-      "added_at": "2025-03-20 23:00:10",
-      "album": {
-        "name": "Straight From Holland",
-        "url": "https://open.spotify.com/album/4QvgmbZoytzhzHHMzTSejH"
-      },
-      "artists": [
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        },
-        {
-          "name": "Spitnoise",
-          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
-        }
-      ],
-      "duration_ms": 121128,
-      "name": "Straight From Holland",
-      "url": "https://open.spotify.com/track/77EFFx2dgidNot1mJ5fOl2"
     },
     {
       "added_at": "2025-03-20 23:00:10",
@@ -611,6 +611,26 @@
     {
       "added_at": "2025-03-20 23:00:10",
       "album": {
+        "name": "Trip to Espa\u00f1a",
+        "url": "https://open.spotify.com/album/1DKLDeBi0rxcZx0XwXkH0o"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Trip to Espa\u00f1a",
+      "url": "https://open.spotify.com/track/2otHD9rejwsLOnnAhUiB5w"
+    },
+    {
+      "added_at": "2025-03-20 23:00:10",
+      "album": {
         "name": "Come Take My Hand (Spiady Remix)",
         "url": "https://open.spotify.com/album/5MlnLtzvtZo6IzZaoo9Ez6"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 220800,
       "name": "Meteor",
       "url": "https://open.spotify.com/track/3OAxVZHc0xHSDNuK52OYHL"
-    },
-    {
-      "added_at": "2025-03-20 23:00:10",
-      "album": {
-        "name": "Trip to Espa\u00f1a",
-        "url": "https://open.spotify.com/album/1DKLDeBi0rxcZx0XwXkH0o"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Trip to Espa\u00f1a",
-      "url": "https://open.spotify.com/track/2otHD9rejwsLOnnAhUiB5w"
     },
     {
       "added_at": "2025-03-20 23:00:10",
@@ -831,26 +831,6 @@
     {
       "added_at": "2025-03-20 23:00:10",
       "album": {
-        "name": "The Light (Defqon.1 2024 BLACK OST)",
-        "url": "https://open.spotify.com/album/3U9BcVgKxlElsk8pmLy11e"
-      },
-      "artists": [
-        {
-          "name": "Spitnoise",
-          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
-        },
-        {
-          "name": "E-Life",
-          "url": "https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2"
-        }
-      ],
-      "duration_ms": 215785,
-      "name": "The Light (Defqon.1 2024 BLACK OST)",
-      "url": "https://open.spotify.com/track/3YbYr7EkUAHk4W2nyIuFiS"
-    },
-    {
-      "added_at": "2025-03-20 23:00:10",
-      "album": {
         "name": "Coco's Revenge (Mind Compressor Remix)",
         "url": "https://open.spotify.com/album/1GR75iYaGvtwbWxkN39XZD"
       },
@@ -875,6 +855,26 @@
     {
       "added_at": "2025-03-20 23:00:10",
       "album": {
+        "name": "The Light (Defqon.1 2024 BLACK OST)",
+        "url": "https://open.spotify.com/album/3U9BcVgKxlElsk8pmLy11e"
+      },
+      "artists": [
+        {
+          "name": "Spitnoise",
+          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
+        },
+        {
+          "name": "E-Life",
+          "url": "https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2"
+        }
+      ],
+      "duration_ms": 215785,
+      "name": "The Light (Defqon.1 2024 BLACK OST)",
+      "url": "https://open.spotify.com/track/3YbYr7EkUAHk4W2nyIuFiS"
+    },
+    {
+      "added_at": "2025-03-20 23:00:10",
+      "album": {
         "name": "Zware Jongens",
         "url": "https://open.spotify.com/album/3vBwhaOA7ut96NPpQD0Ota"
       },
@@ -891,26 +891,6 @@
       "duration_ms": 164400,
       "name": "Zware Jongens",
       "url": "https://open.spotify.com/track/0Cj8BfDGXOlCH2MsIqzO12"
-    },
-    {
-      "added_at": "2025-03-20 23:00:10",
-      "album": {
-        "name": "Furious Anger",
-        "url": "https://open.spotify.com/album/7J9ZqsUWwH6sxRqAUeeEvR"
-      },
-      "artists": [
-        {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        },
-        {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
-        }
-      ],
-      "duration_ms": 205647,
-      "name": "Furious Anger",
-      "url": "https://open.spotify.com/track/0BPSWhSC2puc2FdabboU6z"
     },
     {
       "added_at": "2025-03-20 23:00:10",
@@ -935,6 +915,26 @@
       "duration_ms": 179153,
       "name": "Het Beest Is Wakker",
       "url": "https://open.spotify.com/track/7jvbbV3uVOGCFHoNmSFoMI"
+    },
+    {
+      "added_at": "2025-03-20 23:00:10",
+      "album": {
+        "name": "Furious Anger",
+        "url": "https://open.spotify.com/album/7J9ZqsUWwH6sxRqAUeeEvR"
+      },
+      "artists": [
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        },
+        {
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        }
+      ],
+      "duration_ms": 205647,
+      "name": "Furious Anger",
+      "url": "https://open.spotify.com/track/0BPSWhSC2puc2FdabboU6z"
     },
     {
       "added_at": "2025-03-20 23:00:10",

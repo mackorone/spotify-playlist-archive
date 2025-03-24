@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Donnawel Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,888 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,896 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 95 | [Birthday Sex \(feat\. Freshbreed\)](https://open.spotify.com/track/2SrQr63z8wOaelQICD8zrc) | [Mitchie](https://open.spotify.com/artist/7mg0xXiyQngsjIokEuy1Vw), [Freshbreed](https://open.spotify.com/artist/6saQtLaNSR3gEmZ2knugrr) | [Birthday Sex \(feat\. Freshbreed\)](https://open.spotify.com/album/5otGaWDhHpOllNVkd9ld40) | 2:58 |
 | 96 | [Natamaan](https://open.spotify.com/track/02fZ8CCdLUD3ncm8Ff6x7F) | [Martin Venegas](https://open.spotify.com/artist/6cLHzuqXfCxpQIhD37qHJu) | [Natamaan](https://open.spotify.com/album/5w54PZD1N8XoCrkD2pUckv) | 2:56 |
 | 97 | [Dahlia](https://open.spotify.com/track/3SV0cLnh91wF86YoxMPgv8) | [Do Not Delay](https://open.spotify.com/artist/6DOWst9zrPHTSfuA8ISbcv) | [Dahlia](https://open.spotify.com/album/5GVk1pK5qZ4tfNvwVlyhsJ) | 2:44 |
-| 98 | [OTW](https://open.spotify.com/track/3B6qjyfQbRTM5DZyiU0qR4) | [Bon](https://open.spotify.com/artist/65PWnGQmpgvMyCGNyGRMsp), [Kázumi](https://open.spotify.com/artist/4juUvQg9Shk8OrHO9QUIVy) | [OTW](https://open.spotify.com/album/6PRcwcaWwIIDUZxNBMWMVo) | 2:41 |
+| 98 | [OTW](https://open.spotify.com/track/3B6qjyfQbRTM5DZyiU0qR4) | [Bonn](https://open.spotify.com/artist/7IGx2tLYTUNIFy2d8bPL9X), [Kázumi](https://open.spotify.com/artist/4juUvQg9Shk8OrHO9QUIVy) | [OTW](https://open.spotify.com/album/6PRcwcaWwIIDUZxNBMWMVo) | 2:41 |
 | 99 | [Valentina](https://open.spotify.com/track/0EWtyIvQMURWPOXEu3fGNE) | [Aviators](https://open.spotify.com/artist/2vmvpWETFkoV9Xy5hqIhjE) | [Valentina](https://open.spotify.com/album/4EUwP3FQZHOIPvgJJJlNnB) | 3:48 |
 | 100 | [Only We Know](https://open.spotify.com/track/4gWHr8T8MNXLZkSsV2iWxq) | [Mika Yusay](https://open.spotify.com/artist/530rrIDcbLButvwlbJoDBx), [Eli Rose](https://open.spotify.com/artist/6A7wUfnPquXsij3x1MeZBj) | [Only We Know](https://open.spotify.com/album/47GutcGDkAYuOP4YE8UnSB) | 2:36 |
 

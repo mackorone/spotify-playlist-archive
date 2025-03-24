@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 
 > This is Rodrigo Gonzalez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,690 likes - 28 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,689 likes - 28 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 | 27 | [Samambaila \- Original Mix](https://open.spotify.com/track/3jF1PS0bJl7QMkYswXE31U) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Take Me Higher](https://open.spotify.com/album/04nHAVldhSET2NsLsAMn8u) | 5:23 |
 | 28 | [Crazy Heat \- Original Mix](https://open.spotify.com/track/74V44B1LQhkkiS4pFysDdH) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM), [Mad Math](https://open.spotify.com/artist/2IYBNTl8U2V0LeqyXRuP9m) | [SPACE BLANK \- TECH HOUSE](https://open.spotify.com/album/6L1ujqIRbwUUf4QqdN1utg) | 6:12 |
 
-Snapshot ID: `Z9ysAAAAAAC0hnZ5I05LCkGkmHb+eTmv`
+Snapshot ID: `Z939gAAAAABqiYJOjjJ2Cbxw4EQ632Yk`

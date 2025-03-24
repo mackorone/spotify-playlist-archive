@@ -4,7 +4,7 @@
 
 > Música brasileira fora da curva\. Foto: terraplana
 
-768 songs - 1 day 19 hr 32 min
+770 songs - 1 day 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [a gente não tem nada a ver](https://open.spotify.com/track/10URqxiR7QvJnj7Fud1l5D) | [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [a gente não tem nada a ver](https://open.spotify.com/album/5bX7qS1cdNJYjQfjCohXt1) | 4:02 | 2022-01-14 | 2022-07-29 |
 | [a gente não tem nada a ver](https://open.spotify.com/track/5nb12r6ybXzM0rtBuqjwq3) | [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [a gente não tem nada a ver](https://open.spotify.com/album/5AQ9zGD6JEYYyY0lMzBNK8) | 4:02 | 2022-07-22 | 2022-09-24 |
 | [A Língua Trava](https://open.spotify.com/track/4oiexM3EySbvbt9luyodil) | [Malu Maria](https://open.spotify.com/artist/7o2VDcKMqBIc304KCwEBBt) | [NAVE PÁSSARO](https://open.spotify.com/album/1Axfn4g2cbjwXE6MiZNVCo) | 4:18 | 2024-04-26 | 2024-08-17 |
-| [A Melhor Saída](https://open.spotify.com/track/6Q4m595vykkZVev0ZHWQsK) | [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE) | [Pique](https://open.spotify.com/album/0kLSMHP6ziFI70EItEtdZU) | 4:03 | 2024-10-18 |  |
+| [A Melhor Saída](https://open.spotify.com/track/6Q4m595vykkZVev0ZHWQsK) | [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE) | [Pique](https://open.spotify.com/album/0kLSMHP6ziFI70EItEtdZU) | 4:03 | 2024-10-18 | 2025-03-24 |
 | [A Morte Do Amor](https://open.spotify.com/track/2vQjFQUozq8AiZV4xPEAMO) | [Do Amor](https://open.spotify.com/artist/2dQAz3jNlenyLHfeknfNsn) | [A Morte Do Amor](https://open.spotify.com/album/2m5jb2RptwBY3ooWTRmTCd) | 2:09 | 2022-02-11 | 2022-03-05 |
 | [A Sociedade dos Nerds Psicóticos](https://open.spotify.com/track/4YCJNxlr9rUdgXrGEkCLlx) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [A Sociedade dos Nerds Psicóticos](https://open.spotify.com/album/6mJ4cn0DAOhRbv6FiE1qfr) | 3:08 | 2022-11-18 | 2023-06-10 |
 | [A Torre](https://open.spotify.com/track/3Y2rU6CUgcoiEJRmL6cmzi) | [Clara Castro](https://open.spotify.com/artist/328HvJJoTrRr4AwtJtlChp), [Caetano Brasil](https://open.spotify.com/artist/7tLeUzTAGpSFzlYyQACBNP) | [A Torre](https://open.spotify.com/album/4oMPCZJqPR7EUqGFYd6STk) | 3:40 | 2024-07-05 | 2025-02-15 |
@@ -172,6 +172,7 @@
 | [Cores](https://open.spotify.com/track/4vI4qp7nRIIah7893u9Nh0) | [Velhos Cabanos](https://open.spotify.com/artist/7DAPSxFcpcZuu3GhLxQ5Ei) | [Cores](https://open.spotify.com/album/5peGkSrZ0PNCDBERQRGZgj) | 6:35 | 2022-01-14 | 2022-02-19 |
 | [Cores de Oxum](https://open.spotify.com/track/5QN7Eg96hscUhJ4JDOkgZh) | [ÀIYÉ](https://open.spotify.com/artist/3VumMgwS5pfXHC7vfek7Bu) | [TRANSES](https://open.spotify.com/album/2yxsapuwlu5ivpOVkdXB1T) | 4:21 | 2023-04-21 | 2023-06-10 |
 | [Corpo Asa](https://open.spotify.com/track/1KnpKwAIZK37oIqowUNV09) | [Boogarins](https://open.spotify.com/artist/0ohvsn0lgt51qZUbu9ct4s) | [Corpo Asa](https://open.spotify.com/album/61BlLm4q3gb3m6Vrid3wgU) | 4:09 | 2024-11-29 |  |
+| [Corredeiras](https://open.spotify.com/track/3eMNazRALdqUHufYfS5KKE) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Corredeiras / Sobre Nós](https://open.spotify.com/album/42VWZpDCjnFiEtZkLiNW4v) | 2:52 | 2025-03-23 |  |
 | [Corrida!](https://open.spotify.com/track/7dn7kstmJzGEIWKvDG1ZqC) | [PLUMA](https://open.spotify.com/artist/0eRkKHD8YCd9tkSiabTMqb) | [Corrida!](https://open.spotify.com/album/6TCoYx5VpAID8Sz7GnUB7A) | 5:07 | 2024-05-10 | 2024-09-28 |
 | [Costura](https://open.spotify.com/track/2dQ8R8tf0v6QNofVh18oAX) | [Antonia Morais](https://open.spotify.com/artist/544m4EMPSYu3v4FNoGYWQf) | [Costura](https://open.spotify.com/album/0f8PNEzWM2DaZe0MZ8HLd6) | 2:58 | 2022-03-25 | 2022-04-29 |
 | [Crochê](https://open.spotify.com/track/4dXZ9dtav1eZSRPpqU1Z7F) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Crochê](https://open.spotify.com/album/0ixk9iHZvbOKJAi5WigCwK) | 3:37 | 2024-11-29 |  |
@@ -541,6 +542,7 @@
 | [Por um Fio](https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4) | [Sulamericana](https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ) | [Por um Fio](https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd) | 3:09 | 2022-09-02 | 2022-10-15 |
 | [Pra Bem Longe](https://open.spotify.com/track/7ffrFGj6BgKvHgHv0t8s0r) | [Vírus](https://open.spotify.com/artist/1PUMdtllFKYq4Ymzduzocv), [Giovani Cidreira](https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1) | [Pra Bem Longe](https://open.spotify.com/album/4wtqoUsCtd8qk3faiRrnWL) | 2:10 | 2024-05-24 | 2024-08-03 |
 | [Pra Curar](https://open.spotify.com/track/1DIBq09mcWCWuXc0TIqoOx) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Fragmentos 2](https://open.spotify.com/album/7tsqDAZfHq81EE3i81EOXG) | 3:06 | 2022-01-28 | 2022-06-18 |
+| [Pra Não Falar Mal](https://open.spotify.com/track/2U6U5C7zDb2JcIZ07dYDM4) | [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5), [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Novo Mundo](https://open.spotify.com/album/09r9cPD6jEwgBmphifZ7TW) | 3:18 | 2025-03-23 |  |
 | [pra perto de mim](https://open.spotify.com/track/0qEEoCPxNgQjXtwQB4AeNe) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [tres](https://open.spotify.com/album/7LGefeRWzqVdHgdDC4GgGh) | 3:12 | 2022-09-02 | 2022-10-29 |
 | [Pra Trás](https://open.spotify.com/track/5Ke6ddTLTyu9GgzwcW8lD9) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/6KVigOS9Me4Hu3o9hEh9M0) | 3:11 | 2023-03-03 | 2023-04-30 |
 | [Pra Trás](https://open.spotify.com/track/6YMBLfjQilTvqdWpeUbySG) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/20EcuWdIk2tTveltWZm1Pc) | 3:11 | 2023-04-28 | 2023-07-22 |
@@ -596,7 +598,7 @@
 | [Sambatango](https://open.spotify.com/track/0xwNMjWaJ21opxeVa0hEvL) | [Dan Stump](https://open.spotify.com/artist/76qXgVNZFVQZrLmsawuYcZ), [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP) | [Transe Tropical](https://open.spotify.com/album/3GDXeYh3kmWa4amneMoK95) | 2:35 | 2022-03-25 | 2022-12-03 |
 | [Sampa Sampa](https://open.spotify.com/track/7zwPQUz6FgTwj8r70HfmPM) | [Gabriel Aragão](https://open.spotify.com/artist/6ehkcPOVWAJdbHgSC5VSr2), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Eu Mais Tu / Sampa Sampa](https://open.spotify.com/album/7uihQWG5bmL0mb3wq32hkb) | 3:26 | 2023-06-09 | 2023-09-23 |
 | [Santa Cabeça](https://open.spotify.com/track/7iLoy68FrvUHvaBml3Jqwo) | [Bike](https://open.spotify.com/artist/7nUTiIfqotUDu3HCqWMqcS) | [Santa Cabeça](https://open.spotify.com/album/4HPAdEzlWapcgLqTamkS6M) | 6:03 | 2023-04-14 | 2023-09-16 |
-| [Santo Dia](https://open.spotify.com/track/64x97Vp6L5JK21JF4cJ7kw) | [ZéVitor](https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4) | [Santo Dia](https://open.spotify.com/album/3UpCHVzK79I6KVlELd4iwr) | 2:59 | 2024-10-18 |  |
+| [Santo Dia](https://open.spotify.com/track/64x97Vp6L5JK21JF4cJ7kw) | [ZéVitor](https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4) | [Santo Dia](https://open.spotify.com/album/3UpCHVzK79I6KVlELd4iwr) | 2:59 | 2024-10-18 | 2025-03-24 |
 | [saudade](https://open.spotify.com/track/0kpMUdI4YGhhKOisM6cbJ5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [postcard from Rio](https://open.spotify.com/album/6eyo1VgU0qGpGBvXP3jEpZ) | 2:46 | 2022-10-28 | 2022-12-03 |
 | [SAUDADE](https://open.spotify.com/track/2tl2ks5C8j9uSnrOFvpfar) | [Viratempo](https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL), [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [CIDADE TROPICAL PENSAMENTO](https://open.spotify.com/album/0DLEv17PXiLPccLet7heEu) | 3:20 | 2023-10-20 | 2024-06-08 |
 | [Se Entrega!](https://open.spotify.com/track/1p4W2Ib2xZm04ouaIrDcWn) | [Bemti](https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW) | [Se Entrega!](https://open.spotify.com/album/2vmEOJsGTnyymrl1pZ2oup) | 3:09 | 2022-01-14 | 2022-02-12 |

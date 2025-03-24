@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Delaossa, Omar Montes x Dei V, Ozuna, Lia Kali y más novedades importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,765 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,816 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Sergio Geore & Ryan Castro
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,630 likes - 55 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,642 likes - 55 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 3 | [EROTIKA](https://open.spotify.com/track/5wMwgx90OnF7xNtvYcuxFR) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [EROTIKA](https://open.spotify.com/album/47lCWsxnSeMLoCZ67BYULU) | 2:45 |
 | 4 | [Una Nada Más](https://open.spotify.com/track/42QSyOOPV5ZoV7xST6X4jn) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Una Nada Más](https://open.spotify.com/album/3BThJjhquxcjlV2umvw1ve) | 2:49 |
 | 5 | [Sobra y Falta](https://open.spotify.com/track/6jiLRYgMeBMq2u4wRD2HZW) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Sobra y Falta](https://open.spotify.com/album/269KIvvBFS87o2fPtvPocU) | 3:10 |
-| 6 | [Mas Que Un Beso](https://open.spotify.com/track/6Khxj8BjukKHwAnmRLaRUT) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Mas Que Un Beso](https://open.spotify.com/album/5mbratbbD9yQhmza0RSEvc) | 3:36 |
+| 6 | [Más Que Un Beso](https://open.spotify.com/track/6Khxj8BjukKHwAnmRLaRUT) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Más Que Un Beso](https://open.spotify.com/album/5mbratbbD9yQhmza0RSEvc) | 3:36 |
 | 7 | [Hello, What's Up](https://open.spotify.com/track/11GVewr1WRV4CFJtgrL5mK) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Hello,What's Up](https://open.spotify.com/album/6hDFSysxL72NCGP0mKHHeK) | 3:10 |
 | 8 | [Nada Más](https://open.spotify.com/track/1gRcJF4V0Mcw6MT7keHIEt) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Nada Más](https://open.spotify.com/album/6WMDYWIAJWQp6gv3yO8FXD) | 3:10 |
 | 9 | [Con otra](https://open.spotify.com/track/38EGs4h8GqgrS1HT344SCQ) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Con otra](https://open.spotify.com/album/2waOhmvYhyi4AAlS3mLLaD) | 3:51 |

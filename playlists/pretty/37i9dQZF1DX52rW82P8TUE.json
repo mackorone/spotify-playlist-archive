@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 72071,
+  "num_followers": 72088,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2025-02-05 15:14:15",
       "album": {
+        "name": "Aline Barros e Cia 2",
+        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 189939,
+      "name": "Pedro, Tiago e Jo\u00e3o no Barquinho",
+      "url": "https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi"
+    },
+    {
+      "added_at": "2025-02-05 15:14:15",
+      "album": {
         "name": "Trio R3 Kids",
         "url": "https://open.spotify.com/album/3iXWPgtTT7O1t7e5eZoDmf"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 202743,
       "name": "A Alegria Est\u00e1 no Cora\u00e7\u00e3o / Celebrai / Solta o Cabo da Nau",
       "url": "https://open.spotify.com/track/7FNueAtAXOl1aImDlO9jO0"
-    },
-    {
-      "added_at": "2025-02-05 15:14:15",
-      "album": {
-        "name": "Bruna Kids",
-        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 174660,
-      "name": "Corpo Perfeito",
-      "url": "https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv"
     },
     {
       "added_at": "2025-02-05 15:14:15",
@@ -139,38 +139,18 @@
     {
       "added_at": "2025-02-05 15:14:15",
       "album": {
-        "name": "Mara Lima e Seus Amiguinhos, Vol. 6",
-        "url": "https://open.spotify.com/album/1cAgUMSQibfGNArPNRIJKn"
+        "name": "Bruna Kids",
+        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
       },
       "artists": [
         {
-          "name": "Mara Lima",
-          "url": "https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 203885,
-      "name": "A Alegria Est\u00e1 no Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/61PU43JNFgjn1zuAaAz96d"
-    },
-    {
-      "added_at": "2025-02-05 15:14:15",
-      "album": {
-        "name": "Aline Barros e Cia 2",
-        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 189939,
-      "name": "Pedro, Tiago e Jo\u00e3o no Barquinho",
-      "url": "https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi"
+      "duration_ms": 174660,
+      "name": "Corpo Perfeito",
+      "url": "https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv"
     },
     {
       "added_at": "2025-02-05 15:14:15",
@@ -187,6 +167,42 @@
       "duration_ms": 142697,
       "name": "O Sab\u00e3o - Deluxe",
       "url": "https://open.spotify.com/track/31NTFyLNBjUFmIv5wUVg4L"
+    },
+    {
+      "added_at": "2025-02-05 15:14:15",
+      "album": {
+        "name": "Aline Barros e Cia 3",
+        "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 201038,
+      "name": "Arca de No\u00e9",
+      "url": "https://open.spotify.com/track/2IlFyiCXLg5EK5JChEgWGA"
+    },
+    {
+      "added_at": "2025-02-05 15:14:15",
+      "album": {
+        "name": "Mara Lima e Seus Amiguinhos, Vol. 6",
+        "url": "https://open.spotify.com/album/1cAgUMSQibfGNArPNRIJKn"
+      },
+      "artists": [
+        {
+          "name": "Mara Lima",
+          "url": "https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
+        }
+      ],
+      "duration_ms": 203885,
+      "name": "A Alegria Est\u00e1 no Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/61PU43JNFgjn1zuAaAz96d"
     },
     {
       "added_at": "2025-02-05 15:14:15",
@@ -243,6 +259,22 @@
     {
       "added_at": "2025-02-05 15:14:15",
       "album": {
+        "name": "Minha Pequena Luz",
+        "url": "https://open.spotify.com/album/6CnrRYF7ONjhhmCVzjRkg9"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "duration_ms": 122626,
+      "name": "Minha Pequena Luz",
+      "url": "https://open.spotify.com/track/1fr5LcT7TguvSZJRlNQNNv"
+    },
+    {
+      "added_at": "2025-02-05 15:14:15",
+      "album": {
         "name": "Bruna Kids",
         "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
       },
@@ -255,22 +287,6 @@
       "duration_ms": 186967,
       "name": "Sapo Aben\u00e7oado",
       "url": "https://open.spotify.com/track/6udRCH0KMT8k4GrXAsoI6e"
-    },
-    {
-      "added_at": "2025-02-05 15:14:15",
-      "album": {
-        "name": "Aline Barros e Cia 3",
-        "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 201038,
-      "name": "Arca de No\u00e9",
-      "url": "https://open.spotify.com/track/2IlFyiCXLg5EK5JChEgWGA"
     },
     {
       "added_at": "2025-02-05 15:14:15",
@@ -307,18 +323,18 @@
     {
       "added_at": "2025-02-05 15:14:15",
       "album": {
-        "name": "Minha Pequena Luz",
-        "url": "https://open.spotify.com/album/6CnrRYF7ONjhhmCVzjRkg9"
+        "name": "ImaginAline",
+        "url": "https://open.spotify.com/album/4DpfGOe1QVwuIENUOhxgsa"
       },
       "artists": [
         {
-          "name": "3 Palavrinhas",
-          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 122626,
-      "name": "Minha Pequena Luz",
-      "url": "https://open.spotify.com/track/1fr5LcT7TguvSZJRlNQNNv"
+      "duration_ms": 276321,
+      "name": "Sr. Ant\u00f4nimo",
+      "url": "https://open.spotify.com/track/1mExcbeOoQEh2ZRFTY705r"
     },
     {
       "added_at": "2025-02-05 15:14:15",
@@ -339,6 +355,38 @@
       "duration_ms": 164165,
       "name": "Crian\u00e7a Nota 10",
       "url": "https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn"
+    },
+    {
+      "added_at": "2025-02-05 15:14:15",
+      "album": {
+        "name": "Caminhando Vou Para Cana\u00e3",
+        "url": "https://open.spotify.com/album/051Ck9PEoQhBlON1mnw0gN"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "duration_ms": 137320,
+      "name": "Caminhando Vou Para Cana\u00e3",
+      "url": "https://open.spotify.com/track/1gjyW1dkU6SfYlo6dwByJz"
+    },
+    {
+      "added_at": "2025-02-05 15:14:15",
+      "album": {
+        "name": "Brincando de Escolinha",
+        "url": "https://open.spotify.com/album/28QrtBn35MNZOGsNMjUrja"
+      },
+      "artists": [
+        {
+          "name": "Vaneyse",
+          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
+        }
+      ],
+      "duration_ms": 186224,
+      "name": "Hit da Formiguinha",
+      "url": "https://open.spotify.com/track/2jxOwM1YWNLdVtYKhHjY4r"
     },
     {
       "added_at": "2025-02-05 15:14:15",
@@ -399,18 +447,18 @@
     {
       "added_at": "2025-02-05 15:14:15",
       "album": {
-        "name": "ImaginAline",
-        "url": "https://open.spotify.com/album/4DpfGOe1QVwuIENUOhxgsa"
+        "name": "Cristo Fez os Peixes",
+        "url": "https://open.spotify.com/album/0X87Se7GHxCvdXsYP3anvv"
       },
       "artists": [
         {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
         }
       ],
-      "duration_ms": 276321,
-      "name": "Sr. Ant\u00f4nimo",
-      "url": "https://open.spotify.com/track/1mExcbeOoQEh2ZRFTY705r"
+      "duration_ms": 112840,
+      "name": "Cristo Fez os Peixes",
+      "url": "https://open.spotify.com/track/447JeTRzLtyTxjo4eJT9CA"
     },
     {
       "added_at": "2025-02-05 15:14:15",
@@ -431,54 +479,6 @@
     {
       "added_at": "2025-02-05 15:14:15",
       "album": {
-        "name": "Brincando de Escolinha",
-        "url": "https://open.spotify.com/album/28QrtBn35MNZOGsNMjUrja"
-      },
-      "artists": [
-        {
-          "name": "Vaneyse",
-          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
-        }
-      ],
-      "duration_ms": 186224,
-      "name": "Hit da Formiguinha",
-      "url": "https://open.spotify.com/track/2jxOwM1YWNLdVtYKhHjY4r"
-    },
-    {
-      "added_at": "2025-02-05 15:14:15",
-      "album": {
-        "name": "Cristo Fez os Peixes",
-        "url": "https://open.spotify.com/album/0X87Se7GHxCvdXsYP3anvv"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        }
-      ],
-      "duration_ms": 112840,
-      "name": "Cristo Fez os Peixes",
-      "url": "https://open.spotify.com/track/447JeTRzLtyTxjo4eJT9CA"
-    },
-    {
-      "added_at": "2025-02-05 15:14:15",
-      "album": {
-        "name": "Caminhando Vou Para Cana\u00e3",
-        "url": "https://open.spotify.com/album/051Ck9PEoQhBlON1mnw0gN"
-      },
-      "artists": [
-        {
-          "name": "3 Palavrinhas",
-          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
-        }
-      ],
-      "duration_ms": 137320,
-      "name": "Caminhando Vou Para Cana\u00e3",
-      "url": "https://open.spotify.com/track/1gjyW1dkU6SfYlo6dwByJz"
-    },
-    {
-      "added_at": "2025-02-05 15:14:15",
-      "album": {
         "name": "Fam\u00edlia Perfeita",
         "url": "https://open.spotify.com/album/2BOtSzS45MKiRwNHHoPD6V"
       },
@@ -495,6 +495,22 @@
     {
       "added_at": "2025-02-05 15:14:15",
       "album": {
+        "name": "Festa das Cores",
+        "url": "https://open.spotify.com/album/7y3if5oFUBEKP94vf2mCQW"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 206767,
+      "name": "Festa das Cores",
+      "url": "https://open.spotify.com/track/2OgjuP2rTKfweuPiZDORMw"
+    },
+    {
+      "added_at": "2025-02-05 15:14:15",
+      "album": {
         "name": "Tudo Vai Terminar Bem",
         "url": "https://open.spotify.com/album/45SiWKT4wFF9c67wCqiMBA"
       },
@@ -507,6 +523,42 @@
       "duration_ms": 225735,
       "name": "Tudo Vai Terminar Bem",
       "url": "https://open.spotify.com/track/4oYgECBXPGWladYejkc4bP"
+    },
+    {
+      "added_at": "2025-02-05 15:14:15",
+      "album": {
+        "name": "Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6y2SSn86BAh3LZHKwNiKK4"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "duration_ms": 137826,
+      "name": "Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1MDXv0hRY9EgHTwvQyr7EG"
+    },
+    {
+      "added_at": "2025-02-05 15:14:15",
+      "album": {
+        "name": "Medley das Crian\u00e7as",
+        "url": "https://open.spotify.com/album/6kA8eLY4fy4LqYmQVWD3tH"
+      },
+      "artists": [
+        {
+          "name": "Vaneyse",
+          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
+        },
+        {
+          "name": "Galo Jac\u00f3",
+          "url": "https://open.spotify.com/artist/6JDieX8x5rmjocsN3Rxs2L"
+        }
+      ],
+      "duration_ms": 252493,
+      "name": "Medley das Crian\u00e7as",
+      "url": "https://open.spotify.com/track/04lDkeEi5mxKfXkBXcmrAQ"
     },
     {
       "added_at": "2025-02-05 15:14:15",
@@ -547,78 +599,6 @@
     {
       "added_at": "2025-02-05 15:14:15",
       "album": {
-        "name": "Verdadeiro Amor",
-        "url": "https://open.spotify.com/album/4UxBeejCnl6LjKlBXNpjTH"
-      },
-      "artists": [
-        {
-          "name": "Bunek\u00e3o de Jesus",
-          "url": "https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2"
-        },
-        {
-          "name": "Ol\u00edvia Teles",
-          "url": "https://open.spotify.com/artist/2ojdlKsNAWovUgFXkFC2IZ"
-        }
-      ],
-      "duration_ms": 211312,
-      "name": "Verdadeiro Amor",
-      "url": "https://open.spotify.com/track/0yWQuYf69YZPteFYdVpubx"
-    },
-    {
-      "added_at": "2025-02-05 15:14:15",
-      "album": {
-        "name": "Festa das Cores",
-        "url": "https://open.spotify.com/album/7y3if5oFUBEKP94vf2mCQW"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 206767,
-      "name": "Festa das Cores",
-      "url": "https://open.spotify.com/track/2OgjuP2rTKfweuPiZDORMw"
-    },
-    {
-      "added_at": "2025-02-05 15:14:15",
-      "album": {
-        "name": "Medley das Crian\u00e7as",
-        "url": "https://open.spotify.com/album/6kA8eLY4fy4LqYmQVWD3tH"
-      },
-      "artists": [
-        {
-          "name": "Vaneyse",
-          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
-        },
-        {
-          "name": "Galo Jac\u00f3",
-          "url": "https://open.spotify.com/artist/6JDieX8x5rmjocsN3Rxs2L"
-        }
-      ],
-      "duration_ms": 252493,
-      "name": "Medley das Crian\u00e7as",
-      "url": "https://open.spotify.com/track/04lDkeEi5mxKfXkBXcmrAQ"
-    },
-    {
-      "added_at": "2025-02-05 15:14:15",
-      "album": {
-        "name": "Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6y2SSn86BAh3LZHKwNiKK4"
-      },
-      "artists": [
-        {
-          "name": "3 Palavrinhas",
-          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
-        }
-      ],
-      "duration_ms": 137826,
-      "name": "Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1MDXv0hRY9EgHTwvQyr7EG"
-    },
-    {
-      "added_at": "2025-02-05 15:14:15",
-      "album": {
         "name": "Arautos do Rei pra Baixinhos e Grand\u00f5es",
         "url": "https://open.spotify.com/album/6hQ1VdOFsnwERYnnBuxsFK"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 234720,
       "name": "A Hist\u00f3ria dos Animais",
       "url": "https://open.spotify.com/track/54p1PR4nMkq495gv1LIQxO"
+    },
+    {
+      "added_at": "2025-02-05 15:14:15",
+      "album": {
+        "name": "Verdadeiro Amor",
+        "url": "https://open.spotify.com/album/4UxBeejCnl6LjKlBXNpjTH"
+      },
+      "artists": [
+        {
+          "name": "Bunek\u00e3o de Jesus",
+          "url": "https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2"
+        },
+        {
+          "name": "Ol\u00edvia Teles",
+          "url": "https://open.spotify.com/artist/2ojdlKsNAWovUgFXkFC2IZ"
+        }
+      ],
+      "duration_ms": 211312,
+      "name": "Verdadeiro Amor",
+      "url": "https://open.spotify.com/track/0yWQuYf69YZPteFYdVpubx"
     },
     {
       "added_at": "2025-02-05 15:14:15",
@@ -703,26 +703,6 @@
     {
       "added_at": "2025-02-05 15:14:15",
       "album": {
-        "name": "Pertinho de Jesus",
-        "url": "https://open.spotify.com/album/40aHGE0n8b1NieE46gy4AO"
-      },
-      "artists": [
-        {
-          "name": "Bunek\u00e3o de Jesus",
-          "url": "https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2"
-        },
-        {
-          "name": "Tia Emily",
-          "url": "https://open.spotify.com/artist/75vUmtOfZWHjBjRkE1xJ9t"
-        }
-      ],
-      "duration_ms": 129375,
-      "name": "Pertinho de Jesus",
-      "url": "https://open.spotify.com/track/5sWlvLCEvdO6R0Ne73VVvJ"
-    },
-    {
-      "added_at": "2025-02-05 15:14:15",
-      "album": {
         "name": "Arruma essa Bagun\u00e7a",
         "url": "https://open.spotify.com/album/0L9iuH2MwMJb66Sd6RkpwW"
       },
@@ -755,18 +735,22 @@
     {
       "added_at": "2025-02-05 15:14:15",
       "album": {
-        "name": "Quem Ama os Animais: Yasminzinha",
-        "url": "https://open.spotify.com/album/7zDczluqFBHATzo2eXUWZC"
+        "name": "Pertinho de Jesus",
+        "url": "https://open.spotify.com/album/40aHGE0n8b1NieE46gy4AO"
       },
       "artists": [
         {
-          "name": "Yasmin Verissimo",
-          "url": "https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE"
+          "name": "Bunek\u00e3o de Jesus",
+          "url": "https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2"
+        },
+        {
+          "name": "Tia Emily",
+          "url": "https://open.spotify.com/artist/75vUmtOfZWHjBjRkE1xJ9t"
         }
       ],
-      "duration_ms": 138240,
-      "name": "Quem Ama os Animais: Yasminzinha",
-      "url": "https://open.spotify.com/track/3QeEhShhm4xarUOUmHS4tn"
+      "duration_ms": 129375,
+      "name": "Pertinho de Jesus",
+      "url": "https://open.spotify.com/track/5sWlvLCEvdO6R0Ne73VVvJ"
     },
     {
       "added_at": "2025-02-05 15:14:15",
@@ -803,6 +787,22 @@
       "duration_ms": 333113,
       "name": "Caminho No Deserto - Vers\u00e3o Kids",
       "url": "https://open.spotify.com/track/6DvLLo7zE7pPaXKbKxn3qf"
+    },
+    {
+      "added_at": "2025-02-05 15:14:15",
+      "album": {
+        "name": "Quem Ama os Animais: Yasminzinha",
+        "url": "https://open.spotify.com/album/7zDczluqFBHATzo2eXUWZC"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Verissimo",
+          "url": "https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Quem Ama os Animais: Yasminzinha",
+      "url": "https://open.spotify.com/track/3QeEhShhm4xarUOUmHS4tn"
     },
     {
       "added_at": "2025-02-05 15:14:15",

@@ -4,7 +4,7 @@
 
 > The best in house music
 
-584 songs - 1 day 14 hr 56 min
+585 songs - 1 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Bangene](https://open.spotify.com/track/5zOPtrHceMJO6ydtLPvObb) | [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [BCUC](https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW) | [Bangene](https://open.spotify.com/album/5RXCW7G28MF7QzvpXxgEmX) | 2:45 | 2022-04-14 | 2022-07-29 |
 | [Be Funky](https://open.spotify.com/track/347yYEUgjRg4Db6ZFh0G2v) | [Dutchican Soul](https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB), [Yogi](https://open.spotify.com/artist/5B9P0p88CmlArc27XLyRnB) | [Be Funky](https://open.spotify.com/album/64IIYvUmAiRd7InY8Ik4Q3) | 3:27 | 2022-04-14 | 2024-04-12 |
 | [Be with You \- Radio Edit](https://open.spotify.com/track/0DqwFLo68dQ8HsjFFrdPiF) | [Dutchican Soul](https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB), [Dave Mayer](https://open.spotify.com/artist/0WCGrh6RDVagRm473Iwlan) | [Be with You](https://open.spotify.com/album/3zEdRynsO932VFMxNFpGsy) | 3:22 | 2022-12-15 | 2024-06-13 |
-| [Beautiful Day \(feat\. Liisi Lafontaine\)](https://open.spotify.com/track/2bBxIUeztazGNrbDYJF9RT) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Liisi Lafontaine](https://open.spotify.com/artist/06Sjyv44sQpv2i9EElnXWE) | [Beautiful Day \(feat\. Liisi Lafontaine\)](https://open.spotify.com/album/1bwb9TFemPzbyJMru309sq) | 3:59 | 2024-06-06 |  |
+| [Beautiful Day \(feat\. Liisi Lafontaine\)](https://open.spotify.com/track/2bBxIUeztazGNrbDYJF9RT) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Liisi Lafontaine](https://open.spotify.com/artist/06Sjyv44sQpv2i9EElnXWE) | [Beautiful Day \(feat\. Liisi Lafontaine\)](https://open.spotify.com/album/1bwb9TFemPzbyJMru309sq) | 3:59 | 2024-06-06 | 2025-03-24 |
 | [Beginners](https://open.spotify.com/track/0j57BWxNCZ20D7Gsy4dPSB) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Power Of Today EP](https://open.spotify.com/album/7EuAisoRLrG0b9XRKm5DvG) | 6:13 | 2023-02-16 | 2023-03-19 |
 | [Believe](https://open.spotify.com/track/6xuC5KFnyKtJ4Ct3tTJa4Q) | [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5) | [Believe](https://open.spotify.com/album/3v4FlkCeWsvkRf3LvY8cut) | 3:17 | 2024-12-03 |  |
 | [Benin](https://open.spotify.com/track/3lnPWI5DH48A0Fg06uxuAS) | [Elliot Fitch](https://open.spotify.com/artist/2KgR6IARKVVczX7fhfDDrB) | [Benin](https://open.spotify.com/album/2PdS8G60pkQEaAwr7LeAbK) | 2:58 | 2022-11-10 | 2024-06-14 |
@@ -78,6 +78,7 @@
 | [Boyz N Da Club \- Radio Edit](https://open.spotify.com/track/4wOIiaDB7h2Z5vxsV0xqaN) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Boyz N Da Club \(Radio Edit\)](https://open.spotify.com/album/56iQ6RzrYL6vI8JfIyOoiu) | 2:21 | 2022-04-14 | 2022-07-29 |
 | [Brazilian Love Song \(Jengi Remix\)](https://open.spotify.com/track/1pAXNItTnpF2RcsFiPgwGc) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Brazilian Love Song \(Jengi Remix\)](https://open.spotify.com/album/21GGi7gu8ZBKDSMusMMAAv) | 4:21 | 2022-05-12 | 2023-08-17 |
 | [Brazilian Love Song \- Jengi Remix](https://open.spotify.com/track/2tnyg4zVfxjkKPgTBPBTiM) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Original Classic \(Deluxe\)](https://open.spotify.com/album/3GBPiIdlQgVpCPArj6XrFi) | 4:21 | 2024-02-29 | 2024-04-19 |
+| [Break of Dawn](https://open.spotify.com/track/4kDVpUSD89ekHthAEAoxaI) | [Bruut 99](https://open.spotify.com/artist/3UidWDUg2sJXEC082bnbHc) | [Break Of Dawn](https://open.spotify.com/album/1dUtenrYFrFy1VBjn2dvxM) | 2:52 | 2025-03-20 |  |
 | [Bring It](https://open.spotify.com/track/08TT6T9qJ90dg1XffEGG8d) | [Patrick Moreno](https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx), [Renato S](https://open.spotify.com/artist/2M9nsWRUhhvYvfZmOYgTwZ) | [Bring It](https://open.spotify.com/album/5wLprLYTiAT0n8mkt76Shp) | 2:06 | 2022-04-14 | 2022-07-29 |
 | [Bring The Heat](https://open.spotify.com/track/6jWloOddI8GE5qZXu7sir9) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Bring The Heat](https://open.spotify.com/album/48oAYz2T9Iesq20OIMXNBK) | 2:37 | 2023-05-25 | 2024-09-13 |
 | [Bummer Paradise](https://open.spotify.com/track/5qw3cMMFW1RQnUJgrlnJ6w) | [Relmer](https://open.spotify.com/artist/2hxnHvKjsAHCGzsXTCKuvy) | [H2O](https://open.spotify.com/album/3NnIy6ztlNs1iSoRFOCEH2) | 4:51 | 2024-03-14 | 2024-04-10 |

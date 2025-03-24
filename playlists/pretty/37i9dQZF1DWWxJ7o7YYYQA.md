@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxJ7o7YYYQA.md) - [plain]
 
 > Celebrate SAHM with a vibrant playlist by The Juggernaut, dedicated to powerful South Asian women\. Cover: Joy Crookes
 
-[Spotify](https://open.spotify.com/user/spotify) - 488 likes - 35 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 489 likes - 35 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

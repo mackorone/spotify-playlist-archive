@@ -6,32 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACD+bso6ObfZJ8U8yJAMpOX",
+  "snapshot_id": "AAAAAAAAAAC5+1tMXp4ZSVoeDfYpEcFr",
   "tracks": [
-    {
-      "added_at": "2025-03-21 04:00:00",
-      "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/7bic9P3aKOdYq99ZXCSh3F"
-      },
-      "artists": [
-        {
-          "name": "KaizanBlu",
-          "url": "https://open.spotify.com/artist/7xSBYOQmRbnWrhKJQETfNV"
-        },
-        {
-          "name": "Ignacio Arr\u00faa",
-          "url": "https://open.spotify.com/artist/3hh15aODtgiToY2V2lR9qD"
-        },
-        {
-          "name": "Valent\u00edn Roitman",
-          "url": "https://open.spotify.com/artist/1bhgUDNj5RF8AwUKsZZ0Vl"
-        }
-      ],
-      "duration_ms": 167843,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/4fOtG33vnrAX7k1KnzyfeN"
-    },
     {
       "added_at": "2025-03-21 04:00:00",
       "album": {
@@ -63,22 +39,42 @@
     {
       "added_at": "2025-03-21 04:00:00",
       "album": {
-        "name": "Just Go",
-        "url": "https://open.spotify.com/album/3sIldPKhUAQYdy5AOrgEvV"
+        "name": "CUPID'S GIRL",
+        "url": "https://open.spotify.com/album/0pPd1jhwuVDqIVOiqYDMcB"
       },
       "artists": [
         {
-          "name": "bob junior",
-          "url": "https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne"
-        },
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
         }
       ],
-      "duration_ms": 217684,
-      "name": "Just Go",
-      "url": "https://open.spotify.com/track/1RZLqmoCuVeKWXWyp9cLtU"
+      "duration_ms": 208114,
+      "name": "CUPID'S GIRL",
+      "url": "https://open.spotify.com/track/6J3iKDREvATgK5GHbc8SAE"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/7bic9P3aKOdYq99ZXCSh3F"
+      },
+      "artists": [
+        {
+          "name": "KaizanBlu",
+          "url": "https://open.spotify.com/artist/7xSBYOQmRbnWrhKJQETfNV"
+        },
+        {
+          "name": "Ignacio Arr\u00faa",
+          "url": "https://open.spotify.com/artist/3hh15aODtgiToY2V2lR9qD"
+        },
+        {
+          "name": "Valent\u00edn Roitman",
+          "url": "https://open.spotify.com/artist/1bhgUDNj5RF8AwUKsZZ0Vl"
+        }
+      ],
+      "duration_ms": 167843,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/4fOtG33vnrAX7k1KnzyfeN"
     },
     {
       "added_at": "2025-03-21 04:00:00",
@@ -95,70 +91,6 @@
       "duration_ms": 139995,
       "name": "Part of the Dream",
       "url": "https://open.spotify.com/track/1kTCuSzhaYdMY4hj8l2pWn"
-    },
-    {
-      "added_at": "2025-03-21 04:00:00",
-      "album": {
-        "name": "Edge of No Return",
-        "url": "https://open.spotify.com/album/7h8VeeLynswkkpfEJmHMnz"
-      },
-      "artists": [
-        {
-          "name": "Mystery Known",
-          "url": "https://open.spotify.com/artist/41LF7qrPfsVRyJsiBcmfW4"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 164002,
-      "name": "Trivial Pursuit",
-      "url": "https://open.spotify.com/track/6Mgf30oUyj01Cx3WOKzXm6"
-    },
-    {
-      "added_at": "2025-03-21 04:00:00",
-      "album": {
-        "name": "Sulfur pt. 2",
-        "url": "https://open.spotify.com/album/3FkMJHcAiNRcsU9Ee3UGkk"
-      },
-      "artists": [
-        {
-          "name": "Ray Lansing",
-          "url": "https://open.spotify.com/artist/3hvBuWUNaLcigSYPDMti2y"
-        },
-        {
-          "name": "Rayne",
-          "url": "https://open.spotify.com/artist/1RNXA2cIljrRol5nvV2Eoy"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 193165,
-      "name": "Sulfur pt. 2",
-      "url": "https://open.spotify.com/track/41LvAMncIHn5YDvvAptOYq"
-    },
-    {
-      "added_at": "2025-03-21 04:00:00",
-      "album": {
-        "name": "2 SCOOPS OF POETRY",
-        "url": "https://open.spotify.com/album/62mA6SvD4Neasq7C9xet4V"
-      },
-      "artists": [
-        {
-          "name": "Thonio",
-          "url": "https://open.spotify.com/artist/6O7fmTtWVciwx0wZ9DzJXD"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 188764,
-      "name": "2 SCOOPS OF POETRY",
-      "url": "https://open.spotify.com/track/5zqGWzxvSx1Jp540cjp928"
     },
     {
       "added_at": "2025-03-21 04:00:00",
@@ -195,22 +127,62 @@
     {
       "added_at": "2025-03-21 04:00:00",
       "album": {
-        "name": "Glib Tongued",
-        "url": "https://open.spotify.com/album/2GPo3dNO4wZeBRC0DnjdG9"
+        "name": "Just Go",
+        "url": "https://open.spotify.com/album/3sIldPKhUAQYdy5AOrgEvV"
       },
       "artists": [
         {
-          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
-          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
+          "name": "bob junior",
+          "url": "https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne"
         },
         {
-          "name": "El-P",
-          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
         }
       ],
-      "duration_ms": 223908,
-      "name": "Glib Tongued",
-      "url": "https://open.spotify.com/track/1PPbLuCWH1ji5iomP73VmT"
+      "duration_ms": 217684,
+      "name": "Just Go",
+      "url": "https://open.spotify.com/track/1RZLqmoCuVeKWXWyp9cLtU"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "Edge of No Return",
+        "url": "https://open.spotify.com/album/7h8VeeLynswkkpfEJmHMnz"
+      },
+      "artists": [
+        {
+          "name": "Mystery Known",
+          "url": "https://open.spotify.com/artist/41LF7qrPfsVRyJsiBcmfW4"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 164002,
+      "name": "Trivial Pursuit",
+      "url": "https://open.spotify.com/track/6Mgf30oUyj01Cx3WOKzXm6"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "2 SCOOPS OF POETRY",
+        "url": "https://open.spotify.com/album/62mA6SvD4Neasq7C9xet4V"
+      },
+      "artists": [
+        {
+          "name": "Thonio",
+          "url": "https://open.spotify.com/artist/6O7fmTtWVciwx0wZ9DzJXD"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "2 SCOOPS OF POETRY",
+      "url": "https://open.spotify.com/track/5zqGWzxvSx1Jp540cjp928"
     },
     {
       "added_at": "2025-03-21 04:00:00",
@@ -227,6 +199,26 @@
       "duration_ms": 205719,
       "name": "RDV",
       "url": "https://open.spotify.com/track/1Dg3BWfcM1pE7YPmzMkjET"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "Glib Tongued",
+        "url": "https://open.spotify.com/album/2GPo3dNO4wZeBRC0DnjdG9"
+      },
+      "artists": [
+        {
+          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
+          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
+        },
+        {
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+        }
+      ],
+      "duration_ms": 223908,
+      "name": "Glib Tongued",
+      "url": "https://open.spotify.com/track/1PPbLuCWH1ji5iomP73VmT"
     },
     {
       "added_at": "2025-03-21 04:00:00",
@@ -323,42 +315,6 @@
     {
       "added_at": "2025-03-21 04:00:00",
       "album": {
-        "name": "Satanized",
-        "url": "https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Satanized",
-      "url": "https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc"
-    },
-    {
-      "added_at": "2025-03-21 04:00:00",
-      "album": {
-        "name": "MUSIC",
-        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 94825,
-      "name": "TWIN TRIM (with Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/3surY3LebvLLdJezmiKUBO"
-    },
-    {
-      "added_at": "2025-03-21 04:00:00",
-      "album": {
         "name": "Mandingo",
         "url": "https://open.spotify.com/album/25le2GICkAxRQoBluMUZ19"
       },
@@ -419,6 +375,42 @@
     {
       "added_at": "2025-03-21 04:00:00",
       "album": {
+        "name": "Satanized",
+        "url": "https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Satanized",
+      "url": "https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 94825,
+      "name": "TWIN TRIM (with Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/3surY3LebvLLdJezmiKUBO"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
         "name": "Familiar",
         "url": "https://open.spotify.com/album/2DDhjNTlNh2tkhxwIfgrY5"
       },
@@ -431,22 +423,6 @@
       "duration_ms": 107563,
       "name": "Familiar",
       "url": "https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR"
-    },
-    {
-      "added_at": "2025-03-21 04:00:00",
-      "album": {
-        "name": "The Big One",
-        "url": "https://open.spotify.com/album/6zWd21VBaksMJJM2UrCLo6"
-      },
-      "artists": [
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        }
-      ],
-      "duration_ms": 177586,
-      "name": "The Big One",
-      "url": "https://open.spotify.com/track/7DU7p7DXcOOfJMkDzeDSGU"
     },
     {
       "added_at": "2025-03-21 04:00:00",
@@ -467,6 +443,22 @@
       "duration_ms": 253231,
       "name": "Not Sharing",
       "url": "https://open.spotify.com/track/3oGWXOsz8OUmdoL57OlWIL"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "The Big One",
+        "url": "https://open.spotify.com/album/6zWd21VBaksMJJM2UrCLo6"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        }
+      ],
+      "duration_ms": 177586,
+      "name": "The Big One",
+      "url": "https://open.spotify.com/track/7DU7p7DXcOOfJMkDzeDSGU"
     },
     {
       "added_at": "2025-03-21 04:00:00",
@@ -583,34 +575,6 @@
     {
       "added_at": "2025-03-21 04:00:00",
       "album": {
-        "name": "Shostakovich: Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
-        "url": "https://open.spotify.com/album/5yI5jBtWF01weyuXH22Rfm"
-      },
-      "artists": [
-        {
-          "name": "Dmitri Shostakovich",
-          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Boston Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
-        },
-        {
-          "name": "Andris Nelsons",
-          "url": "https://open.spotify.com/artist/6fkV4LaygxybcMjo4cJLrI"
-        }
-      ],
-      "duration_ms": 395986,
-      "name": "Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
-      "url": "https://open.spotify.com/track/4dLVUG0RvDi1DmwWr48UcP"
-    },
-    {
-      "added_at": "2025-03-21 04:00:00",
-      "album": {
         "name": "Richard Russell Is Temporary",
         "url": "https://open.spotify.com/album/3y3KthMNEjQHXmArvK7dyV"
       },
@@ -635,6 +599,34 @@
       "duration_ms": 289630,
       "name": "The Meadows",
       "url": "https://open.spotify.com/track/6Xn78aRtXmwi1kdZPK0UES"
+    },
+    {
+      "added_at": "2025-03-21 04:00:00",
+      "album": {
+        "name": "Shostakovich: Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
+        "url": "https://open.spotify.com/album/5yI5jBtWF01weyuXH22Rfm"
+      },
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+        },
+        {
+          "name": "Andris Nelsons",
+          "url": "https://open.spotify.com/artist/6fkV4LaygxybcMjo4cJLrI"
+        }
+      ],
+      "duration_ms": 395986,
+      "name": "Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
+      "url": "https://open.spotify.com/track/4dLVUG0RvDi1DmwWr48UcP"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

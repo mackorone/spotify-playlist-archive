@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop!  Cover: Arshaan Basaati
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,219 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,226 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 4 | [Money Money](https://open.spotify.com/track/2ZTYkrB6rv8M7tLMkbAxss) | [Savvy Sandhu](https://open.spotify.com/artist/7JNNQOhXwS5i8ENCGLBUgo), [Wakeupparth](https://open.spotify.com/artist/279IKZpSmqxIYR3D46yWH1), [Shayar Sadeek](https://open.spotify.com/artist/5PXWL5af5akPTliQapoiz3) | [Money Money](https://open.spotify.com/album/2C5E2O8wMNJV4BqpLSbsJy) | 2:00 |
 | 5 | [Good Guy](https://open.spotify.com/track/131hyXwXTeqrt3eyJ7ZKxE) | [Sidhu Jatt](https://open.spotify.com/artist/1rxvqsVmIK5Icuqz7sY0fB) | [Good Guy](https://open.spotify.com/album/2SOZcAjuUgq3JmxzquOgqn) | 2:18 |
 | 6 | [Mulaqaat](https://open.spotify.com/track/3GLUUPGqlPvPaMlL3iGd1q) | [Aadi](https://open.spotify.com/artist/2mthwAIln90nod3Ber90zZ) | [Mulaqaat](https://open.spotify.com/album/327YeS2tgNa24mE2qkmsff) | 2:47 |
-| 7 | [Jattverse](https://open.spotify.com/track/3QMtYFAKjcbhgcVvGQT6uR) | [Malkeet Live](https://open.spotify.com/artist/4hc5icRaK3RkCmesfnOqsl), [Robin Raturi](https://open.spotify.com/artist/4RPpP15UhodCl18frUgxKw) | [Jattverse](https://open.spotify.com/album/4ShZOgTb4kVUpwM4hLmnLK) | 2:54 |
+| 7 | [Jattverse](https://open.spotify.com/track/3QMtYFAKjcbhgcVvGQT6uR) | [Malkeet Live](https://open.spotify.com/artist/4hc5icRaK3RkCmesfnOqsl), [Robin Raturi](https://open.spotify.com/artist/4RPpP15UhodCl18frUgxKw), [Vineet Dwivedi](https://open.spotify.com/artist/7A1eSXDrDO9aAVrx3BISF7) | [Jattverse](https://open.spotify.com/album/4ShZOgTb4kVUpwM4hLmnLK) | 2:54 |
 | 8 | [Chaah](https://open.spotify.com/track/3aUZ69JHWJYS9tB8SDAujA) | [Tanish Kamra](https://open.spotify.com/artist/0TthU4jBabZUw6y1VfmYQA) | [Chaah](https://open.spotify.com/album/1L1dfETrLw0MMXPUj7Ys1R) | 2:57 |
 | 9 | [Bae](https://open.spotify.com/track/6w4OGyITwsctUVy1lpo3rX) | [Navvy](https://open.spotify.com/artist/4NVo8UFva38BznrSxDaicu) | [Bae](https://open.spotify.com/album/1Ugqw9M5thJorCZNixZPKh) | 2:27 |
 | 10 | [DEATHROW](https://open.spotify.com/track/16SiFpLd4VNtl9si0FY0XO) | [Kanwar Shinh](https://open.spotify.com/artist/0N9nGethZ9grQ6ejtwUXP1), [Jot Batth](https://open.spotify.com/artist/1HndlaYASTovZjPhPdBQHF) | [DEATHROW](https://open.spotify.com/album/0CPDlE5xaAGliijhkZs9wC) | 2:09 |

@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,557 songs - 2 day 10 hr 33 min
+1,558 songs - 2 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1120,6 +1120,7 @@
 | [Ring Wear Saga](https://open.spotify.com/track/0yHJnXAQTNmFMjyFdppNBP) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Golden Crates](https://open.spotify.com/album/04Mhn8ivVvZStXmwoOMT9d) | 2:15 | 2022-01-27 | 2022-06-03 |
 | [Ripple](https://open.spotify.com/track/1Rnkpq2HoxOP3iAMpamnG9) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Etherealplcs](https://open.spotify.com/artist/0Xw0uyIbAWD1B7RZdUGHl7) | [Ripple](https://open.spotify.com/album/3xs1HLiHgJgQJS1nR8h6zx) | 2:28 | 2024-05-13 | 2024-07-06 |
 | [ripple](https://open.spotify.com/track/3mkpwKRUX0u1GDQhrR8vQp) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [ripple](https://open.spotify.com/album/18H8HGviqtnArP662rcExG) | 2:34 | 2022-09-23 | 2023-09-22 |
+| [Rising Sun](https://open.spotify.com/track/5XYFtVddo28JpOE19HnaDp) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Rising Sun](https://open.spotify.com/album/0SFIQ665d2KsSOOuKD40Wf) | 1:52 | 2025-03-21 |  |
 | [River](https://open.spotify.com/track/3VGELY7USddorN2Spw5GrQ) | [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS) | [River](https://open.spotify.com/album/6G8wtMGNrzVmQ6kKP1lIdv) | 2:22 | 2022-12-09 | 2023-09-05 |
 | [river by a window](https://open.spotify.com/track/2fI2f1Lhbnqtf1F96pf2dW) | [galaxx](https://open.spotify.com/artist/1CzuRZH2SFZgmKRxXHZawo) | [river by a window](https://open.spotify.com/album/15S3M61RhLznUafm0vm3mg) | 2:31 | 2024-09-13 | 2024-10-26 |
 | [River Dancing](https://open.spotify.com/track/026x5V4Jhi5sKX2xXgza1K) | [flat disc](https://open.spotify.com/artist/65GQa6LQz8LMbqjGb8qY5g) | [River Dancing](https://open.spotify.com/album/4Tl7Vuq1PRC6XetVDbW8z8) | 2:24 | 2022-11-25 | 2023-08-04 |
@@ -1222,7 +1223,7 @@
 | [smooof](https://open.spotify.com/track/1LvgRFtCVEAPSB3wi71XCz) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [smooof](https://open.spotify.com/album/1g3DAdvE09HPSC8pkvIQ3L) | 1:55 | 2022-01-27 | 2022-09-09 |
 | [smoothie thursday](https://open.spotify.com/track/011JEXsItSkGoYo4kDEGbE) | [Flaminguez](https://open.spotify.com/artist/6N1OYOloCfLQRL1NQeHF4x) | [smoothie thursday](https://open.spotify.com/album/2LUAYJjRSxDH1RHN6bdQAu) | 2:03 | 2024-12-13 | 2025-03-11 |
 | [Smoothology](https://open.spotify.com/track/29iPA5TBi6bWTraMDUKkqR) | [ella diva conflict](https://open.spotify.com/artist/7zCs5xY96PPTSGNYcghfux) | [Smoothology](https://open.spotify.com/album/0RdMK6Bn9b3B5HMCF8kxt9) | 2:34 | 2024-01-12 |  |
-| [Smoove it](https://open.spotify.com/track/1TH9qGv02IQYNh8rWweltY) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [Smoove it](https://open.spotify.com/album/7DsMpXrDtMEZbnCd6WYBbE) | 2:39 | 2023-11-24 |  |
+| [Smoove it](https://open.spotify.com/track/1TH9qGv02IQYNh8rWweltY) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [Smoove it](https://open.spotify.com/album/7DsMpXrDtMEZbnCd6WYBbE) | 2:39 | 2023-11-24 | 2025-03-24 |
 | [Snacks On The Beach](https://open.spotify.com/track/7I9YFbEsvtYfAnR7MEdSCi) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Snacks On The Beach](https://open.spotify.com/album/4lFuYHK0y9xpPAblxC0A3O) | 2:30 | 2022-04-15 | 2022-10-29 |
 | [Sneaking in the long run](https://open.spotify.com/track/388Klb72arugFs9RbskMa7) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [Sneaking in the long run](https://open.spotify.com/album/5F7noDv4iqiEcKc7iLdCha) | 2:18 | 2022-07-22 |  |
 | [Snow](https://open.spotify.com/track/7gDD63ZLoB08QdUkamY9cc) | [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS), [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Snow](https://open.spotify.com/album/5FHTW00QwPLbDBa3uJZHqp) | 2:34 | 2022-07-29 | 2022-11-12 |
